@@ -4,8 +4,8 @@
   "ProductSlug": "chronosaffinity-e8c2c8",
   "Ranking_EOS_Progress": 726,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T15:57:06.5104933+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:59:49.2035274+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:06:35.4124982+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:59:37.745585+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:06:01.3651745+00:00"
 }

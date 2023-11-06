@@ -32,16 +32,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Corrosive Torrent | 4.00% | ~689 |
 | Cursed Lands | 4.00% | ~689 |
 | Trade Baron | 4.00% | ~689 |
-| Serving Ale | 3.00% | ~516 |
-| Refinery | 3.00% | ~516 |
-| Against All Odds | 3.00% | ~516 |
-| Dangerous Lands | 3.00% | ~516 |
-| Fishmen Ritual Site | 3.00% | ~516 |
-| Forbidden Lands | 3.00% | ~516 |
-| Forsaken Gods Temple | 3.00% | ~516 |
-| Like a Machine | 3.00% | ~516 |
-| Defying the Crown | 3.00% | ~516 |
-| Into the Forest | 3.00% | ~516 |
+| Serving Ale | 3.00% | ~517 |
+| Refinery | 3.00% | ~517 |
+| Against All Odds | 3.00% | ~517 |
+| Dangerous Lands | 3.00% | ~517 |
+| Fishmen Ritual Site | 3.00% | ~517 |
+| Forbidden Lands | 3.00% | ~517 |
+| Forsaken Gods Temple | 3.00% | ~517 |
+| Like a Machine | 3.00% | ~517 |
+| Defying the Crown | 3.00% | ~517 |
+| Into the Forest | 3.00% | ~517 |
 | Feeding The People | 2.00% | ~344 |
 | Efficient Explorer | 2.00% | ~344 |
 | Victory through Prosperity | 2.00% | ~344 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Treasure | 0.30% | ~52 |
 | Paradise | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,216 (Ranked 139)  
+Progressed: 17,217 (Ranked 139)  
 Completed: 53 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 53 (0.31%) (Ranked 222)
 | 2023-11-03 | 17,173 | 53 |
 | 2023-11-04 | 17,193 | 53 |
 | 2023-11-05 | 17,211 | 53 |
-| 2023-11-06 | 17,216 | 53 |
+| 2023-11-06 | 17,217 | 53 |
 ## Awards
 Max (Quickly Understood Controls): 439  (Ranked 216)  
 Sum: 3,210 (Ranked 170)  

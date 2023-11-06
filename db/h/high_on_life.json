@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24445,
+  "EOS_Progressed": 24446,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6472,6 +6472,11 @@
       "Time": "2023-11-06T09:05:39.4994415+00:00",
       "NumProgressed": 24445,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-06T12:04:49.3851561+00:00",
+      "NumProgressed": 24446,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6585,9 +6590,9 @@
       "ID": "ACH_GRUNT_EYES",
       "SetID": "cdkbb11",
       "Name": "Eye Scream, You Scream",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -6834,13 +6839,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24445,
+      "Progressed": 24446,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1738,
+      "Progressed": 1739,
       "Completed": 1376
     }
   ],
@@ -6848,8 +6853,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-04T04:58:56.1771258+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:05:17.3972613+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:04:49.3851557+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.8634233+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:00:16.4767409+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:05:17.3973103+00:00"
+  "LastUpdate_Ratings": "2023-11-06T12:00:04.5686349+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:04:49.3852301+00:00"
 }

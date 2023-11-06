@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 24,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11685,9 +11685,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448345,
+  "EOS_Progressed": 448377,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5466,
+  "EOS_NewPlayers": 5470,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34525,6 +34525,11 @@
       "Time": "2023-11-06T11:03:55.4499667+00:00",
       "NumProgressed": 448345,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T12:03:34.673015+00:00",
+      "NumProgressed": 448377,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -34590,9 +34595,9 @@
       "ID": "achievement_a_protected_market",
       "SetID": "67mdiil",
       "Name": "A Protected Market",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_a_sun_god",
@@ -34974,9 +34979,9 @@
       "ID": "achievement_brothers_in_arms",
       "SetID": "67mdiil",
       "Name": "Brothers in Arms",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -35246,9 +35251,9 @@
       "ID": "achievement_electable",
       "SetID": "8p2n7he",
       "Name": "Electable!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_emperor_of_hindustan",
@@ -35462,9 +35467,9 @@
       "ID": "achievement_georgia_on_my_mind",
       "SetID": "8p2n7he",
       "Name": "Georgia on my Mind",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_global_hegemony",
@@ -35670,9 +35675,9 @@
       "ID": "achievement_imperio_espanol",
       "SetID": "8p2n7he",
       "Name": "Imperio espa\u00F1ol",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_imposter_syndrome",
@@ -35702,9 +35707,9 @@
       "ID": "achievement_industrial_powerhouse",
       "SetID": "8p2n7he",
       "Name": "Industrial Powerhouse",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 448
     },
     {
       "ID": "achievement_inner_turmoil",
@@ -37439,21 +37444,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448345,
+      "Progressed": 448377,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448345,
+      "Progressed": 448377,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-06T09:03:23.3979055+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:03:55.4499662+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:03:34.6730143+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
   "LastUpdate_Ratings": "2023-11-06T11:02:43.4908128+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:03:55.4510011+00:00"
+  "LastUpdate_Achievements": "2023-11-06T12:03:34.6743297+00:00"
 }

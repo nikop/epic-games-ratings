@@ -19,6 +19,7 @@ Rating: 4.63 (Ranked 346)
 | Who's The Boss? | 2.00% | ~489 |
 | Don't Knife The Hand That Feeds | 2.00% | ~489 |
 | Lezduit! | 1.00% | ~244 |
+| Eye Scream, You Scream | 1.00% | ~244 |
 | Legendary Bounty Hunter | 1.00% | ~244 |
 | Self-Actualization | 1.00% | ~244 |
 | Fallout Doesn't Let You Do This | 1.00% | ~244 |
@@ -26,7 +27,6 @@ Rating: 4.63 (Ranked 346)
 | Series Wrap on Suit-O | 1.00% | ~244 |
 | Bathe With A Giant Nude Alien | 1.00% | ~17 |
 | Eatin' Good in the Neighborhood | 0.90% | ~220 |
-| Eye Scream, You Scream | 0.90% | ~220 |
 | We Came, We Chainsaw, We Conquered | 0.90% | ~16 |
 | Mux Ado About Shipping | 0.70% | ~12 |
 | Gunning For Your Job | 0.50% | ~122 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 346)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,445 (Ranked 125)  
+Progressed: 24,446 (Ranked 125)  
 Completed: 13 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 13 (0.05%) (Ranked 297)
 | 2023-11-03 | 24,428 | 13 |
 | 2023-11-04 | 24,437 | 13 |
 | 2023-11-05 | 24,443 | 13 |
-| 2023-11-06 | 24,445 | 13 |
+| 2023-11-06 | 24,446 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

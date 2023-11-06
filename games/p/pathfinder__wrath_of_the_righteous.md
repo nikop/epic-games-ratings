@@ -7,11 +7,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 26.00% | ~3,129 |
-| A Spark | 19.00% | ~2,286 |
+| A Spark | 19.00% | ~2,287 |
 | Burning City | 18.00% | ~2,166 |
 | Mythic Choices | 15.00% | ~1,805 |
 | Defender's Heart | 15.00% | ~1,805 |
-| Banner over the Citadel | 13.00% | ~1,564 |
+| Banner over the Citadel | 13.00% | ~1,565 |
 | Queen's Gratitude | 12.00% | ~1,444 |
 | Fifth Crusade | 8.00% | ~963 |
 | Embrace of the Abyss | 6.00% | ~722 |
@@ -33,8 +33,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~361 |
 | Core of the Riddle | 3.00% | ~361 |
 | Hey, I Know You! | 3.00% | ~361 |
-| The Lady of the Forest | 3.00% | ~324 |
-| Beware Still Water | 3.00% | ~324 |
+| The Lady of the Forest | 3.00% | ~325 |
+| Beware Still Water | 3.00% | ~325 |
 | Path of the Demon | 2.00% | ~241 |
 | Path of the Aeon | 2.00% | ~241 |
 | Path of the Lich | 2.00% | ~241 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,034 (Ranked 151)  
+Progressed: 12,035 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,14 +323,14 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-03 | 12,011 | 0 |
 | 2023-11-04 | 12,022 | 0 |
 | 2023-11-05 | 12,030 | 0 |
-| 2023-11-06 | 12,034 | 0 |
+| 2023-11-06 | 12,035 | 0 |
 ## Awards
-Max (Character Customization): 1,734  (Ranked 121)  
-Sum: 7,026 (Ranked 119)  
+Max (Character Customization): 1,735  (Ranked 121)  
+Sum: 7,027 (Ranked 119)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 1,734 |
+| This game has Inclusive Character Customization | 1,735 |
 | This game is Extremely Fun | 654 |
 | This game is Highly Recommended | 643 |
 | This game has Amazing Characters | 639 |
@@ -598,4 +598,4 @@ Diff (max vs sum): 2
 | 2023-11-03 | 4.76 | - | 1,733 | 7,019 |
 | 2023-11-04 | 4.76 | - | 1,733 | 7,021 |
 | 2023-11-05 | 4.76 | - | 1,734 | 7,023 |
-| 2023-11-06 | 4.76 | - | 1,734 | 7,026 |
+| 2023-11-06 | 4.76 | - | 1,735 | 7,027 |

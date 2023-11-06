@@ -4007,9 +4007,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76056,
+  "EOS_Progressed": 76057,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21652,6 +21652,11 @@
       "Time": "2023-11-06T11:05:34.216136+00:00",
       "NumProgressed": 76056,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-06T12:05:05.4812088+00:00",
+      "NumProgressed": 76057,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21751,7 +21756,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11408
+      "UsersEstimate": 11409
     },
     {
       "ID": "CHALLENGES_1",
@@ -22071,7 +22076,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16732
+      "UsersEstimate": 16733
     },
     {
       "ID": "MYSTERY_04",
@@ -22095,7 +22100,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11408
+      "UsersEstimate": 11409
     },
     {
       "ID": "MYSTERY_07",
@@ -22150,13 +22155,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76056,
+      "Progressed": 76057,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46336,
+      "Progressed": 46337,
       "Completed": 2673
     }
   ],
@@ -22164,8 +22169,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-06T07:57:59.6333659+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:05:34.2161354+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:05:05.4812081+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:57:35.4517539+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:05:34.2162445+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:57:35.2972325+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:05:05.4813732+00:00"
 }

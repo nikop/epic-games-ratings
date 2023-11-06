@@ -3811,10 +3811,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4627,
       "NumberOfAwardsMax": 2080
+    },
+    {
+      "Time": "2023-11-06T12:02:51.782148+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4629,
+      "NumberOfAwardsMax": 2080
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4627,
+  "NumberOfAwards": 4629,
   "NumberOfAwardsMax": 2080,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3852,7 +3858,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 247
+      "Count": 249
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3885,9 +3891,9 @@
       "Count": 270
     }
   ],
-  "EOS_Progressed": 218251,
+  "EOS_Progressed": 218262,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 5304,
+  "EOS_NewPlayers": 5274,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16720,6 +16726,11 @@
       "Time": "2023-11-06T11:05:35.7238697+00:00",
       "NumProgressed": 218251,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-11-06T12:05:06.8899767+00:00",
+      "NumProgressed": 218262,
+      "NumCompleted": 432
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -16780,7 +16791,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13095
+      "UsersEstimate": 13096
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -16812,7 +16823,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17460
+      "UsersEstimate": 17461
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -16884,7 +16895,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13095
+      "UsersEstimate": 13096
     },
     {
       "ID": "Meet_Meidra",
@@ -16916,7 +16927,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19643
+      "UsersEstimate": 19644
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -16924,7 +16935,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13095
+      "UsersEstimate": 13096
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -16964,7 +16975,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13095
+      "UsersEstimate": 13096
     },
     {
       "ID": "Obtain_Guns_A",
@@ -17108,7 +17119,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13095
+      "UsersEstimate": 13096
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -17131,16 +17142,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218251,
+      "Progressed": 218262,
       "Completed": 432
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-06T11:03:10.5596575+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:05:35.7238691+00:00",
+  "LastChanged": "2023-11-06T12:02:51.7821478+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:05:06.8899762+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:03:10.5596581+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:05:35.7240164+00:00"
+  "LastUpdate_Ratings": "2023-11-06T12:02:51.7821486+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:05:06.8900841+00:00"
 }

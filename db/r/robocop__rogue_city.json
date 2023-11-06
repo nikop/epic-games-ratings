@@ -2,10 +2,10 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_EOS_Progress": 604,
+  "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
     "PcReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 27,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -47,6 +47,11 @@
       "Time": "2023-11-02T16:04:14.5670595+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T12:04:40.5679619+00:00",
+      "NumProgressed": 27,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
@@ -57,7 +62,7 @@
       "ID": "FindSkillBook",
       "SetID": "80nhi4a",
       "Name": "I\u0027d Buy That For a Dollar!",
-      "Percentage": 20,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -65,7 +70,7 @@
       "ID": "FinishCSI",
       "SetID": "80nhi4a",
       "Name": "Hard Boiled",
-      "Percentage": 20,
+      "Percentage": 4,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -73,7 +78,7 @@
       "ID": "GiveTicket",
       "SetID": "80nhi4a",
       "Name": "Uphold the Law",
-      "Percentage": 20,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -97,7 +102,7 @@
       "ID": "Kill3WithExplosion",
       "SetID": "80nhi4a",
       "Name": "Nukem!",
-      "Percentage": 20,
+      "Percentage": 4,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -113,7 +118,7 @@
       "ID": "KillEnemyWithThrowable",
       "SetID": "80nhi4a",
       "Name": "Strikeout!",
-      "Percentage": 20,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -121,7 +126,7 @@
       "ID": "L15Efficiency",
       "SetID": "80nhi4a",
       "Name": "There Can Only Be One",
-      "Percentage": 20,
+      "Percentage": 4,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -137,7 +142,7 @@
       "ID": "Ql01station",
       "SetID": "80nhi4a",
       "Name": "Night Has Just Begun",
-      "Percentage": 60,
+      "Percentage": 11,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -217,7 +222,7 @@
       "ID": "SecretArcadeRoom",
       "SetID": "80nhi4a",
       "Name": "No stone unturned",
-      "Percentage": 40,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -233,7 +238,7 @@
       "ID": "ShootInTheBalls",
       "SetID": "80nhi4a",
       "Name": "Zip This Up",
-      "Percentage": 20,
+      "Percentage": 4,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -241,7 +246,7 @@
       "ID": "ShootingRangeBronze",
       "SetID": "80nhi4a",
       "Name": "Dead-On",
-      "Percentage": 40,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -249,7 +254,7 @@
       "ID": "ShootingRangeGold",
       "SetID": "80nhi4a",
       "Name": "SuperCop",
-      "Percentage": 20,
+      "Percentage": 4,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -257,7 +262,7 @@
       "ID": "ShootingRangeSilver",
       "SetID": "80nhi4a",
       "Name": "\u0022This Guy Is Really Good\u0022",
-      "Percentage": 40,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -274,14 +279,14 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 27,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:05:07.6581037+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:04:40.5679615+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:12.760511+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:57:50.2992917+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:05:07.6581179+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:57:46.5348778+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:04:40.5679812+00:00"
 }

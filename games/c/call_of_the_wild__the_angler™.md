@@ -17,9 +17,9 @@ Number of Ratings: 281  (23.09.2022)
 | Things that go Splash in the Night | 1.00% | ~64 |
 | Goldfish? | 0.90% | ~58 |
 | Going for Gold | 0.80% | ~51 |
+| License to Gill | 0.50% | ~32 |
 | School's Out for Summer | 0.50% | ~32 |
 | Live by the Rod, Diez by the Rod! | 0.50% | ~29 |
-| License to Gill | 0.40% | ~26 |
 | Aguas Claras Conquistador | 0.40% | ~23 |
 | I'm Hooked! | 0.30% | ~19 |
 | All Good Kings Must Come to an End | 0.30% | ~17 |

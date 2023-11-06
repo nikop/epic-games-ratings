@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470414,
+  "EOS_Progressed": 470415,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21567,6 +21567,11 @@
       "Time": "2023-11-06T11:09:42.7499962+00:00",
       "NumProgressed": 470414,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2023-11-06T12:09:20.6650248+00:00",
+      "NumProgressed": 470415,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 79,
@@ -21594,7 +21599,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112899
+      "UsersEstimate": 112900
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -21618,7 +21623,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47041
+      "UsersEstimate": 47042
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -21666,7 +21671,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310473
+      "UsersEstimate": 310474
     },
     {
       "ID": "achievement_story_landa",
@@ -22002,7 +22007,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 206982
+      "UsersEstimate": 206983
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -22034,7 +22039,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183461
+      "UsersEstimate": 183462
     },
     {
       "ID": "achievement_win_run_hard",
@@ -22209,21 +22214,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14348,
+      "Progressed": 14349,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470414,
+      "Progressed": 470415,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-01T16:00:20.0866796+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:09:42.7499957+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:09:20.6650243+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.6471409+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:58:06.2805087+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:09:42.750137+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:58:01.6564531+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:09:20.6652394+00:00"
 }

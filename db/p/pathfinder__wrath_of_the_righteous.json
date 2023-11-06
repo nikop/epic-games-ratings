@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4035,18 +4035,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7026,
       "NumberOfAwardsMax": 1734
+    },
+    {
+      "Time": "2023-11-06T11:59:44.2326883+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7027,
+      "NumberOfAwardsMax": 1735
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7026,
-  "NumberOfAwardsMax": 1734,
+  "NumberOfAwards": 7027,
+  "NumberOfAwardsMax": 1735,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1734
+      "Count": 1735
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4109,7 +4115,7 @@
       "Count": 392
     }
   ],
-  "EOS_Progressed": 12034,
+  "EOS_Progressed": 12035,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -15189,6 +15195,11 @@
       "Time": "2023-11-06T10:04:17.4753284+00:00",
       "NumProgressed": 12034,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T12:03:35.4416458+00:00",
+      "NumProgressed": 12035,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15216,7 +15227,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "04_FithCrusade",
@@ -15568,7 +15579,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "49_Flame",
@@ -16112,7 +16123,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -16120,28 +16131,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10816,
+      "Progressed": 10817,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12034,
+      "Progressed": 12035,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-11-06T01:45:50.2869517+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:03:56.5722294+00:00",
+  "LastChanged": "2023-11-06T11:59:44.2326882+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:03:35.4416451+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:16.1536797+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:59:56.2791446+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:03:56.5723896+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:59:44.2326887+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:03:35.4418811+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1672,9 +1672,9 @@
       "ID": "Screwdriver",
       "SetID": "7jbi7el",
       "Name": "Screwdriver",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 70,
-      "UsersEstimate": 224
+      "UsersEstimate": 227
     },
     {
       "ID": "SecretRoom",
@@ -1703,8 +1703,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:04:29.0460916+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:04:05.4013419+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:01.9638065+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:59:57.1373999+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:04:29.0461393+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:59:45.0129005+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:04:05.4013635+00:00"
 }

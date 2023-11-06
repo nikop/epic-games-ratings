@@ -6,45 +6,45 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~59,974 |
-| Skillful | 6.00% | ~59,974 |
-| Zealous | 5.00% | ~49,979 |
-| Not half bad | 5.00% | ~49,979 |
-| Handyman | 4.00% | ~39,983 |
-| Apt Survivor | 4.00% | ~39,983 |
-| Survival Treasures | 4.00% | ~39,983 |
-| Sorted | 4.00% | ~39,983 |
-| Make Some Noise | 4.00% | ~39,983 |
-| The Grand Sacrifice | 3.00% | ~29,987 |
-| Agonizing Escape | 3.00% | ~29,987 |
-| Backdoor Escape | 3.00% | ~29,987 |
-| No one left behind | 3.00% | ~29,987 |
-| Medic | 3.00% | ~29,987 |
-| Perfect Escape | 3.00% | ~29,987 |
-| Bloody Millionaire | 3.00% | ~29,987 |
-| I | 3.00% | ~29,987 |
-| Engineer | 3.00% | ~29,987 |
-| Healthy Obsession | 3.00% | ~29,987 |
-| Resurgence | 3.00% | ~29,987 |
-| Preemptive Strike | 3.00% | ~29,987 |
-| Humanitarian | 3.00% | ~29,987 |
-| Escape Artist | 2.00% | ~19,991 |
-| I've got your back | 2.00% | ~19,991 |
-| Nerves of steel | 2.00% | ~19,991 |
-| Perfect Killing | 2.00% | ~19,991 |
-| Apt Killer | 2.00% | ~19,991 |
-| Risk it all | 2.00% | ~19,991 |
-| Vulture | 2.00% | ~19,991 |
-| II | 2.00% | ~19,991 |
-| III | 2.00% | ~19,991 |
-| Wounded Healer | 2.00% | ~19,991 |
-| First to the Punch | 2.00% | ~19,991 |
-| Every Last Drop | 2.00% | ~19,991 |
-| Close Shave | 2.00% | ~19,991 |
-| With Scars to Show | 2.00% | ~19,991 |
-| Flight to Freedom | 2.00% | ~19,991 |
-| A Fast Death | 2.00% | ~19,991 |
-| Second Act | 2.00% | ~19,991 |
+| It wakes | 6.00% | ~59,978 |
+| Skillful | 6.00% | ~59,978 |
+| Zealous | 5.00% | ~49,982 |
+| Not half bad | 5.00% | ~49,982 |
+| Handyman | 4.00% | ~39,985 |
+| Apt Survivor | 4.00% | ~39,985 |
+| Survival Treasures | 4.00% | ~39,985 |
+| Sorted | 4.00% | ~39,985 |
+| Make Some Noise | 4.00% | ~39,985 |
+| The Grand Sacrifice | 3.00% | ~29,989 |
+| Agonizing Escape | 3.00% | ~29,989 |
+| Backdoor Escape | 3.00% | ~29,989 |
+| No one left behind | 3.00% | ~29,989 |
+| Medic | 3.00% | ~29,989 |
+| Perfect Escape | 3.00% | ~29,989 |
+| Bloody Millionaire | 3.00% | ~29,989 |
+| I | 3.00% | ~29,989 |
+| Engineer | 3.00% | ~29,989 |
+| Healthy Obsession | 3.00% | ~29,989 |
+| Resurgence | 3.00% | ~29,989 |
+| Preemptive Strike | 3.00% | ~29,989 |
+| Humanitarian | 3.00% | ~29,989 |
+| Escape Artist | 2.00% | ~19,993 |
+| I've got your back | 2.00% | ~19,993 |
+| Nerves of steel | 2.00% | ~19,993 |
+| Perfect Killing | 2.00% | ~19,993 |
+| Apt Killer | 2.00% | ~19,993 |
+| Risk it all | 2.00% | ~19,993 |
+| Vulture | 2.00% | ~19,993 |
+| II | 2.00% | ~19,993 |
+| III | 2.00% | ~19,993 |
+| Wounded Healer | 2.00% | ~19,993 |
+| First to the Punch | 2.00% | ~19,993 |
+| Every Last Drop | 2.00% | ~19,993 |
+| Close Shave | 2.00% | ~19,993 |
+| With Scars to Show | 2.00% | ~19,993 |
+| Flight to Freedom | 2.00% | ~19,993 |
+| A Fast Death | 2.00% | ~19,993 |
+| Second Act | 2.00% | ~19,993 |
 | A bite for the Entity | 1.00% | ~9,996 |
 | Blood on your hands | 1.00% | ~9,996 |
 | Blood on your face | 1.00% | ~9,996 |
@@ -81,14 +81,14 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 1.00% | ~9,996 |
 | One More Step | 1.00% | ~9,996 |
 | MU/TH/UR Dearest | 1.00% | ~9,996 |
-| Hemophobia | 0.90% | ~8,996 |
-| Game Over | 0.90% | ~8,996 |
-| Devoted Gatekeeping | 0.90% | ~8,996 |
-| Shrine Apparatus | 0.90% | ~8,996 |
-| Broken Bodies | 0.90% | ~8,996 |
-| End of Days | 0.90% | ~8,996 |
-| Insult and Injury | 0.90% | ~8,996 |
-| Complete the Evolution | 0.90% | ~8,996 |
+| Hemophobia | 0.90% | ~8,997 |
+| Game Over | 0.90% | ~8,997 |
+| Devoted Gatekeeping | 0.90% | ~8,997 |
+| Shrine Apparatus | 0.90% | ~8,997 |
+| Broken Bodies | 0.90% | ~8,997 |
+| End of Days | 0.90% | ~8,997 |
+| Insult and Injury | 0.90% | ~8,997 |
+| Complete the Evolution | 0.90% | ~8,997 |
 | Jump Scares | 0.80% | ~7,997 |
 | Deep Cleansing | 0.80% | ~7,997 |
 | Kitted Out | 0.80% | ~7,997 |
@@ -98,20 +98,20 @@ Number of Ratings: 70,340  (23.09.2022)
 | I See You | 0.70% | ~6,997 |
 | Prowler | 0.70% | ~6,997 |
 | High Speed Pursuit | 0.70% | ~6,997 |
-| Whiffing to Success | 0.60% | ~5,997 |
-| Heavy Burden | 0.60% | ~5,997 |
-| Power Moves | 0.60% | ~5,997 |
-| Punch Drunk | 0.60% | ~5,997 |
-| Triage | 0.60% | ~5,997 |
+| Whiffing to Success | 0.60% | ~5,998 |
+| Heavy Burden | 0.60% | ~5,998 |
+| Power Moves | 0.60% | ~5,998 |
+| Punch Drunk | 0.60% | ~5,998 |
+| Triage | 0.60% | ~5,998 |
 | Blood in your mouth | 0.50% | ~4,998 |
 | Looter | 0.50% | ~4,998 |
 | Death of Ignorance | 0.50% | ~4,998 |
-| Mad House | 0.40% | ~3,998 |
-| Denied! | 0.40% | ~3,998 |
-| Viral Video | 0.40% | ~3,998 |
-| Ghost in the Machine | 0.40% | ~3,998 |
-| Hack the Mainframe | 0.40% | ~3,998 |
-| Disarm and Dismember | 0.40% | ~3,998 |
+| Mad House | 0.40% | ~3,999 |
+| Denied! | 0.40% | ~3,999 |
+| Viral Video | 0.40% | ~3,999 |
+| Ghost in the Machine | 0.40% | ~3,999 |
+| Hack the Mainframe | 0.40% | ~3,999 |
+| Disarm and Dismember | 0.40% | ~3,999 |
 | A feast for the Entity | 0.30% | ~2,999 |
 | In the void she walks | 0.30% | ~2,999 |
 | Deranged Pursuit | 0.30% | ~2,999 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,000 |
 | Adept Ripley | 0.10% | ~1,000 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 999,573 (Ranked 14)  
+Progressed: 999,637 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -436,10 +436,10 @@ Completed: 52 (0.01%) (Ranked 321)
 | 2023-11-03 | 993,712 | 52 |
 | 2023-11-04 | 996,333 | 52 |
 | 2023-11-05 | 998,907 | 52 |
-| 2023-11-06 | 999,573 | 52 |
+| 2023-11-06 | 999,637 | 52 |
 ## Awards
 Max (Diverse Characters): 35,408  (Ranked 15)  
-Sum: 271,933 (Ranked 13)  
+Sum: 271,973 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -450,7 +450,7 @@ Diff (max vs sum): 2
 | This game is Extremely Fun | 30,293 |
 | This game has Challenging Combat | 29,985 |
 | This game has Quickly Understood Controls | 29,613 |
-| This game has Amazing Storytelling | 27,811 |
+| This game has Amazing Storytelling | 27,851 |
 | This game has a Competitive Community | 26,393 |
 | This game has Obsessive Gameplay | 16,768 |
 | This game is Great for Quick Sessions | 4,888 |
@@ -743,4 +743,4 @@ Diff (max vs sum): 2
 | 2023-11-03 | 4.51 | - | 35,284 | 270,883 |
 | 2023-11-04 | 4.51 | - | 35,350 | 271,318 |
 | 2023-11-05 | 4.51 | - | 35,408 | 271,745 |
-| 2023-11-06 | 4.51 | - | 35,408 | 271,933 |
+| 2023-11-06 | 4.51 | - | 35,408 | 271,973 |

@@ -1,10 +1,10 @@
 {
   "ID": "400fd43e2e2f4b3b97bdc32656cb8f09",
   "Name": "greensheen Production",
-  "Ranking_EOS_Progress": 548,
+  "Ranking_EOS_Progress": 549,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -110,9 +110,9 @@
       "ID": "BugSmash",
       "SetID": "aph8hbk",
       "Name": "Bully of Bullies",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BurnBears",
@@ -150,25 +150,25 @@
       "ID": "CompleteSchool",
       "SetID": "aph8hbk",
       "Name": "Schooled",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "CompleteWilderness",
       "SetID": "aph8hbk",
       "Name": "Foraged",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Detention",
       "SetID": "aph8hbk",
       "Name": "Merciful feat",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "EmptyVendingMachine",
@@ -190,17 +190,17 @@
       "ID": "FindAllPhantomKids",
       "SetID": "aph8hbk",
       "Name": "No More Remains",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "FootballGoal",
       "SetID": "aph8hbk",
       "Name": "Referee!",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Fridge",
@@ -222,9 +222,9 @@
       "ID": "Governess",
       "SetID": "aph8hbk",
       "Name": "Unladylike",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "HalfHatsCollected",
@@ -254,9 +254,9 @@
       "ID": "HunterHunted",
       "SetID": "aph8hbk",
       "Name": "Fair Prey",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "KidsHospital",
@@ -270,41 +270,41 @@
       "ID": "KidsPaleCity",
       "SetID": "aph8hbk",
       "Name": "Pale Kids",
-      "Percentage": 50,
-      "XP": 30,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "KidsSchool",
-      "SetID": "aph8hbk",
-      "Name": "School Kids",
-      "Percentage": 50,
-      "XP": 30,
-      "UsersEstimate": 7
-    },
-    {
-      "ID": "KidsWilderness",
-      "SetID": "aph8hbk",
-      "Name": "Wild Kids",
       "Percentage": 57,
       "XP": 30,
       "UsersEstimate": 8
     },
     {
+      "ID": "KidsSchool",
+      "SetID": "aph8hbk",
+      "Name": "School Kids",
+      "Percentage": 57,
+      "XP": 30,
+      "UsersEstimate": 8
+    },
+    {
+      "ID": "KidsWilderness",
+      "SetID": "aph8hbk",
+      "Name": "Wild Kids",
+      "Percentage": 64,
+      "XP": 30,
+      "UsersEstimate": 9
+    },
+    {
       "ID": "MailMan",
       "SetID": "aph8hbk",
       "Name": "Post Industrial",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PaperPlaneWindow",
       "SetID": "aph8hbk",
       "Name": "Fly Free",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "PatientBall",
@@ -318,9 +318,9 @@
       "ID": "Piano",
       "SetID": "aph8hbk",
       "Name": "Mono Tones",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Platinum",
@@ -342,9 +342,9 @@
       "ID": "SixRaincoat",
       "SetID": "aph8hbk",
       "Name": "True Colours",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "SpareDoc",
@@ -388,8 +388,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:08:53.8125248+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:08:35.5264804+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:59:50.834439+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:08:53.8125469+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:59:39.3081406+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:08:35.5265073+00:00"
 }

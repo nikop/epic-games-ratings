@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 7,
   "Ranking_EOS_NewPlayers": 46,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -95,9 +95,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 31097,
+  "EOS_Progressed": 31103,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 2307,
+  "EOS_NewPlayers": 2299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 37.81,
   "EosHistory": [
@@ -8245,6 +8245,11 @@
       "Time": "2023-11-06T11:06:41.291638+00:00",
       "NumProgressed": 31097,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-11-06T12:06:06.9862227+00:00",
+      "NumProgressed": 31103,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -8265,7 +8270,7 @@
       "Name": "First blood",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 21457
+      "UsersEstimate": 21461
     },
     {
       "ID": "grenadeKills",
@@ -8313,7 +8318,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "matchesWon",
@@ -8368,7 +8373,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 31097,
+      "Progressed": 31103,
       "Completed": 11759
     }
   ],
@@ -8376,8 +8381,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-11-05T15:57:06.7979523+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:06:41.2916374+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:06:06.9862221+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.2915192+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:57:26.2412273+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:06:41.2916819+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:57:27.2570971+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:06:06.9862825+00:00"
 }

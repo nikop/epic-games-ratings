@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 82,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14762,9 +14762,9 @@
       "Count": 12494
     }
   ],
-  "EOS_Progressed": 895500,
+  "EOS_Progressed": 895505,
   "EOS_Completed": 2747,
-  "EOS_NewPlayers": 937,
+  "EOS_NewPlayers": 934,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37387,6 +37387,11 @@
       "Time": "2023-11-06T11:06:44.4742889+00:00",
       "NumProgressed": 895500,
       "NumCompleted": 2747
+    },
+    {
+      "Time": "2023-11-06T12:06:09.9334459+00:00",
+      "NumProgressed": 895505,
+      "NumCompleted": 2747
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37431,7 +37436,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "FollowingTheRiver",
@@ -37575,7 +37580,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "Specialist",
@@ -37695,7 +37700,7 @@
       "Name": "True Soldier",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "TrueWarrior",
@@ -37934,21 +37939,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895500,
+      "Progressed": 895505,
       "Completed": 2747
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24123,
+      "Progressed": 24128,
       "Completed": 10193
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-06T11:00:10.3723549+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:06:44.4742884+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:06:09.9334451+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:00:10.3723556+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:06:44.474443+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:59:58.2865537+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:06:09.9336414+00:00"
 }

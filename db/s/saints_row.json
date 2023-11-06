@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4011,9 +4011,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 77441,
+  "EOS_Progressed": 77442,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 764,
+  "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -26596,6 +26596,11 @@
       "Time": "2023-11-06T11:06:13.6468308+00:00",
       "NumProgressed": 77441,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-06T12:05:41.569393+00:00",
+      "NumProgressed": 77442,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -26623,7 +26628,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13939
+      "UsersEstimate": 13940
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -26719,7 +26724,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36397
+      "UsersEstimate": 36398
     },
     {
       "ID": "customize_a_vehicle",
@@ -26735,7 +26740,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28653
+      "UsersEstimate": 28654
     },
     {
       "ID": "cutting_edge_materials",
@@ -26751,7 +26756,7 @@
       "Name": "Chaos Tamer",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4647
     },
     {
       "ID": "destroy_car_with_fist_cannon",
@@ -26823,7 +26828,7 @@
       "Name": "Work Ethic",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17811
+      "UsersEstimate": 17812
     },
     {
       "ID": "fully_upgrade_1_vehicle",
@@ -26887,7 +26892,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21683
+      "UsersEstimate": 21684
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -26903,7 +26908,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27104
+      "UsersEstimate": 27105
     },
     {
       "ID": "one_third_purple",
@@ -26991,7 +26996,7 @@
       "Name": "To The Nines",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 32525
+      "UsersEstimate": 32526
     },
     {
       "ID": "whole_map_purple",
@@ -27007,7 +27012,7 @@
       "Name": "Producer Credit",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3435
+      "UsersEstimate": 3436
     },
     {
       "ID": "bfhj_complete_mission_2_collectible",
@@ -27030,13 +27035,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 77441,
+      "Progressed": 77442,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 49078,
+      "Progressed": 49079,
       "Completed": 4262
     }
   ],
@@ -27044,8 +27049,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-06T03:03:08.5304761+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:06:13.64683+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:05:41.5693925+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.8364565+00:00",
-  "LastUpdate_Ratings": "2023-11-06T11:03:03.2038855+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:06:13.6469617+00:00"
+  "LastUpdate_Ratings": "2023-11-06T12:02:44.6812099+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:05:41.5695705+00:00"
 }

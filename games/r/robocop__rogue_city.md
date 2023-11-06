@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Night Has Just Begun | 60.00% | ~3 |
-| No stone unturned | 40.00% | ~2 |
-| Dead-On | 40.00% | ~2 |
-| "This Guy Is Really Good" | 40.00% | ~2 |
-| I'd Buy That For a Dollar! | 20.00% | ~1 |
-| Hard Boiled | 20.00% | ~1 |
-| Uphold the Law | 20.00% | ~1 |
-| Nukem! | 20.00% | ~1 |
-| Strikeout! | 20.00% | ~1 |
-| There Can Only Be One | 20.00% | ~1 |
-| Zip This Up | 20.00% | ~1 |
-| SuperCop | 20.00% | ~1 |
+| Night Has Just Begun | 11.00% | ~3 |
+| No stone unturned | 7.00% | ~2 |
+| Dead-On | 7.00% | ~2 |
+| "This Guy Is Really Good" | 7.00% | ~2 |
+| I'd Buy That For a Dollar! | 4.00% | ~1 |
+| Hard Boiled | 4.00% | ~1 |
+| Uphold the Law | 4.00% | ~1 |
+| Nukem! | 4.00% | ~1 |
+| Strikeout! | 4.00% | ~1 |
+| There Can Only Be One | 4.00% | ~1 |
+| Zip This Up | 4.00% | ~1 |
+| SuperCop | 4.00% | ~1 |
 | May Be Used Against You | 0.00% | ~0 |
 | Officer of the month | 0.00% | ~0 |
 | Live by the bike... | 0.00% | ~0 |
@@ -32,7 +32,7 @@
 | Good eyes, Murphy! | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 604)  
+Progressed: 27 (Ranked 507)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -41,3 +41,4 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-13 | 3 | 0 |
 | 2023-10-23 | 4 | 0 |
 | 2023-11-02 | 5 | 0 |
+| 2023-11-06 | 27 | 0 |

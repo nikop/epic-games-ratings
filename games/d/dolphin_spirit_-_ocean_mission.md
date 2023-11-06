@@ -37,7 +37,7 @@
 | Well of science | 0.00% | ~0 |
 | Power of the shark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 528)  
+Progressed: 19 (Ranked 529)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

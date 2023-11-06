@@ -796,9 +796,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -867,8 +867,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:09:21.5844053+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:09:00.9027139+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:59:12.7859437+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:09:21.584418+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:59:04.4672774+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:09:00.9027293+00:00"
 }

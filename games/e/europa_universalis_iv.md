@@ -6,14 +6,20 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Protected Market | 0.10% | ~448 |
 | Aggressive Expander | 0.10% | ~448 |
 | All That's Thine Shall Be Mine | 0.10% | ~448 |
+| Brothers in Arms | 0.10% | ~448 |
 | Cold War | 0.10% | ~448 |
 | Double the Love | 0.10% | ~448 |
+| Electable! | 0.10% | ~448 |
 | Factionalism | 0.10% | ~448 |
 | Gentle Persuasion | 0.10% | ~448 |
+| Georgia on my Mind | 0.10% | ~448 |
 | That's a Grand Army | 0.10% | ~448 |
 | That's a Grand Navy | 0.10% | ~448 |
+| Imperio español | 0.10% | ~448 |
+| Industrial Powerhouse | 0.10% | ~448 |
 | It's all about luck | 0.10% | ~448 |
 | It's all about the money | 0.10% | ~448 |
 | Live Long and Prosper | 0.10% | ~448 |
@@ -35,7 +41,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Hero’s Welcome | 0.00% | ~0 |
 | A Manchurian Candidate | 0.00% | ~0 |
 | A Pile of Gold | 0.00% | ~0 |
-| A Protected Market | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | A tale of two Families | 0.00% | ~0 |
 | AAA Credit | 0.00% | ~0 |
@@ -81,7 +86,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brentry! | 0.00% | ~0 |
 | Brick by Brick | 0.00% | ~0 |
 | Bright Spark | 0.00% | ~0 |
-| Brothers in Arms | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Carthago Delenda Est | 0.00% | ~0 |
@@ -113,7 +117,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dude, Where's my Boat? | 0.00% | ~0 |
 | Early-Modern Warfare | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
-| Electable! | 0.00% | ~0 |
 | Emperor of Hindustan | 0.00% | ~0 |
 | The Emperors new clothes | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
@@ -138,7 +141,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Fugger Banking | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
-| Georgia on my Mind | 0.00% | ~0 |
 | Global Hegemony | 0.00% | ~0 |
 | God Tier | 0.00% | ~0 |
 | Gold Rush | 0.00% | ~0 |
@@ -162,11 +164,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Holy Trinity | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
-| Imperio español | 0.00% | ~0 |
 | Imposter Syndrome | 0.00% | ~0 |
 | In the Name of the Father | 0.00% | ~0 |
 | An Industrial Evolution | 0.00% | ~0 |
-| Industrial Powerhouse | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | Isn't this the way to India? | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,345 (Ranked 41)  
+Progressed: 448,377 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,345 | 1 |
+| 2023-11-06 | 448,377 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
 Sum: 56,250 (Ranked 24)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -511,9 +511,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8489,
+  "EOS_Progressed": 8491,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10716,6 +10716,11 @@
       "Time": "2023-11-06T11:04:09.3485612+00:00",
       "NumProgressed": 8489,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-06T12:03:47.3051144+00:00",
+      "NumProgressed": 8491,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10727,7 +10732,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7046
+      "UsersEstimate": 7048
     },
     {
       "ID": "ACH02",
@@ -10735,7 +10740,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2886
+      "UsersEstimate": 2887
     },
     {
       "ID": "ACH03",
@@ -10751,7 +10756,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3226
+      "UsersEstimate": 3227
     },
     {
       "ID": "ACH05",
@@ -10847,7 +10852,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2122
+      "UsersEstimate": 2123
     },
     {
       "ID": "ACH17",
@@ -10855,7 +10860,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "ACH18",
@@ -10958,7 +10963,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8489,
+      "Progressed": 8491,
       "Completed": 56
     }
   ],
@@ -10966,8 +10971,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-11-06T11:04:09.3485605+00:00",
+  "LastChanged_Achievements": "2023-11-06T12:03:47.3051139+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:58:33.0937867+00:00",
-  "LastUpdate_Achievements": "2023-11-06T11:04:09.3486302+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:58:26.2718483+00:00",
+  "LastUpdate_Achievements": "2023-11-06T12:03:47.3051945+00:00"
 }

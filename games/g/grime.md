@@ -10,8 +10,8 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 4.00% | ~6,275 |
 | The Hunt | 3.00% | ~4,706 |
 | Ravenous | 3.00% | ~4,706 |
-| Weeper | 2.00% | ~3,137 |
-| Devourer | 2.00% | ~3,137 |
+| Weeper | 2.00% | ~3,138 |
+| Devourer | 2.00% | ~3,138 |
 | Scion | 1.00% | ~1,565 |
 | Harmless | 1.00% | ~1,569 |
 | Jawcrab | 1.00% | ~1,569 |
@@ -34,9 +34,9 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 0.50% | ~784 |
 | Breathsmith | 0.50% | ~784 |
 | Dream | 0.50% | ~782 |
-| Breath | 0.40% | ~627 |
-| Unwrap the Gift | 0.40% | ~627 |
-| Passage | 0.40% | ~627 |
+| Breath | 0.40% | ~628 |
+| Unwrap the Gift | 0.40% | ~628 |
+| Passage | 0.40% | ~628 |
 | Bloodhunter | 0.30% | ~471 |
 | Zygote | 0.30% | ~469 |
 | Kinship | 0.30% | ~471 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~156 |
 | Enrich | 0.10% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,874 (Ranked 76)  
+Progressed: 156,879 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 156,356 | 1 |
 | 2023-11-04 | 156,591 | 1 |
 | 2023-11-05 | 156,812 | 1 |
-| 2023-11-06 | 156,874 | 1 |
+| 2023-11-06 | 156,879 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 426)  
 Sum: 350 (Ranked 348)  
