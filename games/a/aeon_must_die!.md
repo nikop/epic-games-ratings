@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Cheap Tricks | 24.00% | ~858 |
 | The Purpose Of Betrayal | 20.00% | ~715 |
-| Rightfully Yours | 17.00% | ~607 |
+| Rightfully Yours | 17.00% | ~608 |
 | Like Swatting Flies | 16.00% | ~572 |
 | Moment Of Perfection | 10.00% | ~357 |
 | Even While Weakened | 10.00% | ~357 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,573 (Ranked 196)  
+Progressed: 3,574 (Ranked 196)  
 Completed: -28 (-0.78%) (Ranked 3,515)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: -28 (-0.78%) (Ranked 3,515)
 | 2023-10-29 | 3,568 | -28 |
 | 2023-11-01 | 3,569 | -28 |
 | 2023-11-02 | 3,572 | -28 |
-| 2023-11-06 | 3,573 | -28 |
+| 2023-11-06 | 3,574 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

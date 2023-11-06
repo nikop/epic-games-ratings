@@ -5,33 +5,33 @@ Rating: 4.30 (Ranked 830)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~159 |
-| Bullseye! | 85.00% | ~154 |
-| Graduation! | 79.00% | ~143 |
-| Villfir Forest | 75.00% | ~136 |
+| Level Up! | 87.00% | ~158 |
+| Bullseye! | 84.00% | ~153 |
+| Graduation! | 79.00% | ~144 |
+| Villfir Forest | 74.00% | ~135 |
 | Right in the kisser! | 59.00% | ~107 |
-| Duscot Steamcity | 47.00% | ~85 |
-| The Thrower | 46.00% | ~83 |
-| The Shaman | 45.00% | ~81 |
-| The Penguin | 44.00% | ~80 |
+| Duscot Steamcity | 47.00% | ~86 |
+| The Thrower | 46.00% | ~84 |
+| The Shaman | 45.00% | ~82 |
+| The Penguin | 43.00% | ~78 |
 | The Magician | 39.00% | ~71 |
 | The Tunneler | 39.00% | ~71 |
-| Level Up!! | 36.00% | ~65 |
-| The Shield | 36.00% | ~65 |
-| Kill-streak | 29.00% | ~52 |
-| Topped up | 28.00% | ~51 |
-| The Bird | 28.00% | ~51 |
+| Level Up!! | 36.00% | ~66 |
+| The Shield | 36.00% | ~66 |
+| Kill-streak | 29.00% | ~53 |
+| Topped up | 27.00% | ~49 |
+| The Bird | 27.00% | ~49 |
 | The Ninja | 26.00% | ~47 |
-| The Idol | 25.00% | ~45 |
-| Inferno Ruins | 25.00% | ~45 |
+| The Idol | 25.00% | ~46 |
+| Inferno Ruins | 25.00% | ~46 |
 | I'm Rich | 22.00% | ~40 |
-| The Slime | 22.00% | ~40 |
 | 1 is all I need | 21.00% | ~38 |
-| Untouchable | 19.00% | ~34 |
-| The Flower | 17.00% | ~31 |
+| The Slime | 21.00% | ~38 |
+| Untouchable | 19.00% | ~35 |
 | The Giant | 17.00% | ~31 |
 | Ember | 17.00% | ~31 |
 | The Blacksmith | 16.00% | ~29 |
+| The Flower | 16.00% | ~29 |
 | Out of the Frying Pan... | 16.00% | ~29 |
 | The Ooze | 15.00% | ~27 |
 | The Assistant | 14.00% | ~25 |
@@ -40,13 +40,13 @@ Rating: 4.30 (Ranked 830)
 | The Droid | 10.00% | ~18 |
 | Verse | 10.00% | ~18 |
 | Iron | 9.00% | ~16 |
-| The Bomber | 8.00% | ~14 |
-| Tested | 8.00% | ~14 |
+| The Bomber | 8.00% | ~15 |
+| Tested | 8.00% | ~15 |
 | Highway to Hell | 7.00% | ~13 |
 | Power Overwhelming | 6.00% | ~11 |
 | The Astronaut | 6.00% | ~11 |
-| Mithril | 6.00% | ~11 |
 | The Exorcist | 5.00% | ~9 |
+| Mithril | 5.00% | ~9 |
 | Anvil | 5.00% | ~9 |
 | Aluminum | 4.00% | ~7 |
 | It's a Trap! | 3.00% | ~5 |
@@ -76,10 +76,10 @@ Rating: 4.30 (Ranked 830)
 | Inferno | 1.00% | ~2 |
 | Sapphire | 1.00% | ~2 |
 | Encore | 1.00% | ~2 |
-| Divinity | 0.60% | ~1 |
-| Zombie Exterminator | 0.60% | ~1 |
+| Divinity | 0.50% | ~1 |
+| Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 369)  
+Progressed: 182 (Ranked 369)  
 Completed: 1 (0.55%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,6 +173,7 @@ Completed: 1 (0.55%) (Ranked 187)
 | 2023-11-02 | 178 | 1 |
 | 2023-11-04 | 179 | 1 |
 | 2023-11-05 | 181 | 1 |
+| 2023-11-06 | 182 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -55,7 +55,7 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 568)  
+Progressed: 11 (Ranked 569)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

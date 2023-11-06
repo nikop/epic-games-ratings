@@ -11691,9 +11691,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448568,
+  "EOS_Progressed": 448608,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5500,
+  "EOS_NewPlayers": 5502,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34556,6 +34556,11 @@
       "Time": "2023-11-06T16:04:28.2844706+00:00",
       "NumProgressed": 448568,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T17:16:11.3655444+00:00",
+      "NumProgressed": 448608,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -34645,17 +34650,17 @@
       "ID": "achievement_aaa_credit",
       "SetID": "8p2n7he",
       "Name": "AAA Credit",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_absolutely",
       "SetID": "8p2n7he",
       "Name": "Absolutely",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_abu_bakr_IIs_ambition",
@@ -35077,9 +35082,9 @@
       "ID": "achievement_city_of_cities",
       "SetID": "67mdiil",
       "Name": "City of Cities",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_cold_war",
@@ -35821,9 +35826,9 @@
       "ID": "achievement_just_resting_in_my_account",
       "SetID": "8p2n7he",
       "Name": "Just Resting In My Account",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_kaiser_not_just_in_name",
@@ -36061,9 +36066,9 @@
       "ID": "achievement_market_control",
       "SetID": "8p2n7he",
       "Name": "Market Control",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_marshy_march",
@@ -36373,9 +36378,9 @@
       "ID": "achievement_populists_in_government",
       "SetID": "8p2n7he",
       "Name": "Populists in Government",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_prester_john",
@@ -36581,9 +36586,9 @@
       "ID": "achievement_shahanshah",
       "SetID": "67mdiil",
       "Name": "Shahanshah",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_shemot_is_not",
@@ -37117,9 +37122,9 @@
       "ID": "achievement_total_control",
       "SetID": "8p2n7he",
       "Name": "Total Control",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -37149,9 +37154,9 @@
       "ID": "achievement_trophy_hunter",
       "SetID": "8p2n7he",
       "Name": "Trophy Hunter",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_true_catholic",
@@ -37470,21 +37475,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448568,
+      "Progressed": 448608,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448568,
+      "Progressed": 448608,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-06T14:56:55.78245+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:04:28.2844701+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:16:11.3655438+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:57:24.396954+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:04:28.2856193+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:57:52.6353324+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:16:11.3668992+00:00"
 }

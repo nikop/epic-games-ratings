@@ -5,20 +5,20 @@ Rating: 4.56 (Ranked 483)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~10,980 |
-| Pay 'n' Spray | 51.00% | ~6,913 |
-| All Dressed Up for San Fierro | 26.00% | ~3,524 |
-| The American Dream | 20.00% | ~2,711 |
-| School's Out | 19.00% | ~2,575 |
-| Smooth Moves | 17.00% | ~2,304 |
-| What happens in Las Venturas... | 15.00% | ~2,033 |
-| Today Was a Good Day | 15.00% | ~2,033 |
+| Getting Started | 81.00% | ~10,983 |
+| Pay 'n' Spray | 51.00% | ~6,915 |
+| All Dressed Up for San Fierro | 26.00% | ~3,525 |
+| The American Dream | 20.00% | ~2,712 |
+| School's Out | 19.00% | ~2,576 |
+| Smooth Moves | 17.00% | ~2,305 |
+| What happens in Las Venturas... | 15.00% | ~2,034 |
+| Today Was a Good Day | 15.00% | ~2,034 |
 | Horror of the Santa Maria | 11.00% | ~1,491 |
 | Liberty City State of Mind | 10.00% | ~1,356 |
-| The End of the Line | 8.00% | ~1,084 |
-| Original Gangster | 8.00% | ~1,084 |
+| The End of the Line | 8.00% | ~1,085 |
+| Original Gangster | 8.00% | ~1,085 |
 | With Extra Dip | 7.00% | ~949 |
-| Saviour | 6.00% | ~813 |
+| Saviour | 6.00% | ~814 |
 | They Can’t Stop All of Us | 5.00% | ~678 |
 | Rescue a Kitten Too? | 5.00% | ~678 |
 | What are the Odds | 4.00% | ~542 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 483)
 | ...Here we go again | 0.50% | ~68 |
 | I Ain't No Buster | 0.40% | ~54 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,555 (Ranked 148)  
+Progressed: 13,559 (Ranked 148)  
 Completed: 51 (0.38%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,19 +241,19 @@ Completed: 51 (0.38%) (Ranked 210)
 | 2023-11-03 | 13,421 | 51 |
 | 2023-11-04 | 13,473 | 51 |
 | 2023-11-05 | 13,531 | 51 |
-| 2023-11-06 | 13,555 | 51 |
+| 2023-11-06 | 13,559 | 51 |
 ## Awards
 Max (Great Boss Battles): 376  (Ranked 230)  
-Sum: 596 (Ranked 307)  
-Diff (max vs sum): -77  
+Sum: 628 (Ranked 306)  
+Diff (max vs sum): -76  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 376 |
 | This game is Relaxing | 38 |
 | This game has Amazing Storytelling | 34 |
 | This game has Amazing Characters | 32 |
+| This game is Great for Beginners | 32 |
 | This game is Highly Recommended | 28 |
-| This game is Great for Beginners | 28 |
 | This game is Extremely Fun | 23 |
 | This game has a Creative Community | 23 |
 | This game has Quickly Understood Controls | 22 |
@@ -427,4 +427,4 @@ Diff (max vs sum): -77
 | 2023-11-03 | 4.56 | 373 | 591 |
 | 2023-11-04 | 4.56 | 375 | 593 |
 | 2023-11-05 | 4.56 | 376 | 594 |
-| 2023-11-06 | 4.56 | 376 | 596 |
+| 2023-11-06 | 4.56 | 376 | 628 |

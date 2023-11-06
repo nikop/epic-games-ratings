@@ -11,21 +11,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 4.00% | ~607 |
 | Intrepid | 4.00% | ~607 |
 | Friendly Family | 4.00% | ~607 |
-| Able | 3.00% | ~455 |
-| Architect | 3.00% | ~455 |
-| Glorious | 3.00% | ~455 |
-| Good | 3.00% | ~455 |
-| Just | 3.00% | ~455 |
-| Learned | 3.00% | ~455 |
-| Mason | 3.00% | ~455 |
-| Noble | 3.00% | ~455 |
-| Pioneer | 3.00% | ~455 |
-| Strong | 3.00% | ~455 |
-| Hanging Gardens | 3.00% | ~455 |
-| Oracle | 3.00% | ~455 |
-| Judaism | 3.00% | ~455 |
-| Naming Landmarks | 3.00% | ~455 |
-| Trade Caravan | 3.00% | ~455 |
+| Able | 3.00% | ~456 |
+| Architect | 3.00% | ~456 |
+| Glorious | 3.00% | ~456 |
+| Good | 3.00% | ~456 |
+| Just | 3.00% | ~456 |
+| Learned | 3.00% | ~456 |
+| Mason | 3.00% | ~456 |
+| Noble | 3.00% | ~456 |
+| Pioneer | 3.00% | ~456 |
+| Strong | 3.00% | ~456 |
+| Hanging Gardens | 3.00% | ~456 |
+| Oracle | 3.00% | ~456 |
+| Judaism | 3.00% | ~456 |
+| Naming Landmarks | 3.00% | ~456 |
+| Trade Caravan | 3.00% | ~456 |
 | Regicide | 2.00% | ~304 |
 | Ambitious | 2.00% | ~304 |
 | Drillmaster | 2.00% | ~304 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 1.00% | ~152 |
 | Acropolis | 1.00% | ~152 |
 | Circus Maximus | 1.00% | ~152 |
+| Hagia Sophia | 1.00% | ~152 |
 | Temple of Solomon | 1.00% | ~152 |
 | Mausoleum | 1.00% | ~152 |
 | Via Recta Souk | 1.00% | ~152 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.90% | ~137 |
 | Hunters | 0.90% | ~137 |
 | Hittite Iron | 0.90% | ~137 |
-| Hagia Sophia | 0.90% | ~137 |
 | Church of the Holy Sepulchre | 0.90% | ~137 |
 | Pantheon | 0.90% | ~137 |
 | Dualism | 0.90% | ~137 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,182 (Ranked 145)  
+Progressed: 15,184 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
 | 2023-11-05 | 15,167 | 5 |
-| 2023-11-06 | 15,182 | 5 |
+| 2023-11-06 | 15,184 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 271)  
 Sum: 1,868 (Ranked 212)  

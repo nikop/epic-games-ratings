@@ -9,6 +9,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Manchurian Candidate | 0.10% | ~449 |
 | A Pile of Gold | 0.10% | ~449 |
 | A Protected Market | 0.10% | ~449 |
+| AAA Credit | 0.10% | ~449 |
+| Absolutely | 0.10% | ~449 |
 | Aggressive Expander | 0.10% | ~449 |
 | Albania or Iberia | 0.10% | ~449 |
 | All That's Thine Shall Be Mine | 0.10% | ~449 |
@@ -16,6 +18,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Azur semé de lis or | 0.10% | ~449 |
 | Blockader | 0.10% | ~449 |
 | Brothers in Arms | 0.10% | ~449 |
+| City of Cities | 0.10% | ~449 |
 | Cold War | 0.10% | ~449 |
 | Combined Arms | 0.10% | ~449 |
 | Defender of the Faith | 0.10% | ~449 |
@@ -36,18 +39,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Italian Ambition | 0.10% | ~449 |
 | It's all about luck | 0.10% | ~449 |
 | It's all about the money | 0.10% | ~449 |
+| Just Resting In My Account | 0.10% | ~449 |
 | Live Long and Prosper | 0.10% | ~449 |
+| Market Control | 0.10% | ~449 |
 | Marshy March | 0.10% | ~449 |
 | My armies are invincible! | 0.10% | ~449 |
 | Not just Pizza | 0.10% | ~449 |
 | Not so sad a state... | 0.10% | ~449 |
 | On the Rhodes Again | 0.10% | ~449 |
 | Over a Thousand! | 0.10% | ~449 |
+| Populists in Government | 0.10% | ~449 |
 | Queen of Conquest | 0.10% | ~449 |
 | Respected | 0.10% | ~449 |
 | Rise of the White Sheep | 0.10% | ~449 |
 | Royal Authority | 0.10% | ~449 |
 | Seriously?! | 0.10% | ~449 |
+| Shahanshah | 0.10% | ~449 |
 | Tear Down This Wall | 0.10% | ~449 |
 | That is mine! | 0.10% | ~449 |
 | The Continuation of Diplomacy | 0.10% | ~449 |
@@ -57,6 +64,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is fine | 0.10% | ~449 |
 | Three Trivial Tributary Tribes | 0.10% | ~449 |
 | Time Bandit | 0.10% | ~449 |
+| Total Control | 0.10% | ~449 |
+| Trophy Hunter | 0.10% | ~449 |
 | True Catholic | 0.10% | ~449 |
 | Trustworthy | 0.10% | ~449 |
 | Until death do us apart | 0.10% | ~449 |
@@ -68,8 +77,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Hero’s Welcome | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | A tale of two Families | 0.00% | ~0 |
-| AAA Credit | 0.00% | ~0 |
-| Absolutely | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
 | AEIOU | 0.00% | ~0 |
@@ -115,7 +122,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Chop Chop | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
-| City of Cities | 0.00% | ~0 |
 | Colonial Management | 0.00% | ~0 |
 | Consulate of the Sea | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
@@ -188,7 +194,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
 | Just a Little Patience | 0.00% | ~0 |
-| Just Resting In My Account | 0.00% | ~0 |
 | A Kaiser not just in name | 0.00% | ~0 |
 | Keep the Flame Burning | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
@@ -217,7 +222,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Maharana Pratap | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
 | Mare Nostrum | 0.00% | ~0 |
-| Market Control | 0.00% | ~0 |
 | Mary of Lotharingia | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Master of India | 0.00% | ~0 |
@@ -250,7 +254,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | Pirate Bay of Janjira | 0.00% | ~0 |
 | Poland can into space | 0.00% | ~0 |
-| Populists in Government | 0.00% | ~0 |
 | Prester John | 0.00% | ~0 |
 | The Prince of Egypt | 0.00% | ~0 |
 | Protect the Secret | 0.00% | ~0 |
@@ -271,7 +274,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sakoku Law | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
-| Shahanshah | 0.00% | ~0 |
 | Shemot is Not | 0.00% | ~0 |
 | Sikh Pun | 0.00% | ~0 |
 | Sinaasappel! | 0.00% | ~0 |
@@ -329,11 +331,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | This Revolution Was Crushed | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
-| Total Control | 0.00% | ~0 |
 | Trade Hegemon | 0.00% | ~0 |
 | Traditional Player | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
-| Trophy Hunter | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Truly Divine Ruler | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,568 (Ranked 41)  
+Progressed: 448,608 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,568 | 1 |
+| 2023-11-06 | 448,608 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
 Sum: 56,275 (Ranked 24)  

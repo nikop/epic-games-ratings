@@ -6121,18 +6121,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 10717,
       "NumberOfAwardsMax": 7072
+    },
+    {
+      "Time": "2023-11-06T16:59:45.2692365+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10770,
+      "NumberOfAwardsMax": 7125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10717,
-  "NumberOfAwardsMax": 7072,
+  "NumberOfAwards": 10770,
+  "NumberOfAwardsMax": 7125,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7072
+      "Count": 7125
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6183,10 +6189,10 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 713931,
-  "EOS_Completed": 2348,
+  "EOS_Progressed": 713973,
+  "EOS_Completed": 2349,
   "EOS_NewPlayers": 5458,
-  "EOS_NewCompleters": 65,
+  "EOS_NewCompleters": 66,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29003,6 +29009,11 @@
       "Time": "2023-11-06T16:06:15.2058806+00:00",
       "NumProgressed": 713931,
       "NumCompleted": 2348
+    },
+    {
+      "Time": "2023-11-06T17:17:33.0678336+00:00",
+      "NumProgressed": 713973,
+      "NumCompleted": 2349
     }
   ],
   "TotalAchievements": 51,
@@ -29390,7 +29401,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_pork_chops",
@@ -29406,7 +29417,7 @@
       "Name": "Wilhelm",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ach_zombie_predator",
@@ -29421,22 +29432,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 713931,
-      "Completed": 2348
+      "Progressed": 713973,
+      "Completed": 2349
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39473,
-      "Completed": 36463
+      "Progressed": 39515,
+      "Completed": 36464
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-06T13:06:42.7975102+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:06:15.2058801+00:00",
+  "LastChanged": "2023-11-06T16:59:45.2692363+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:17:33.067833+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:58:00.5457283+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:06:15.2060319+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:59:45.269237+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:17:33.0680388+00:00"
 }

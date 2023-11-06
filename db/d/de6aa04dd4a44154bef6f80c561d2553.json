@@ -124,9 +124,9 @@
       "ID": "ARestWellDeserved",
       "SetID": "c8fdd59",
       "Name": "A Rest Well Deserved",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AspirationOfYuanchu",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:09:36.8478832+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:21:22.2506426+00:00",
   "LastUpdate_AppInfo": "2023-11-06T13:06:14.2935243+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:01:55.1817536+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:09:36.8479113+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:14:40.0842847+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:21:22.2506789+00:00"
 }

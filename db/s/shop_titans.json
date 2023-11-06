@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6889,7 +6889,7 @@
       "Count": 3772
     }
   ],
-  "EOS_Progressed": 138708,
+  "EOS_Progressed": 138711,
   "EOS_Completed": 178,
   "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 2,
@@ -27334,6 +27334,11 @@
       "Time": "2023-11-06T16:04:08.7918775+00:00",
       "NumProgressed": 138708,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-06T17:15:56.1523745+00:00",
+      "NumProgressed": 138711,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27463,9 +27468,9 @@
       "ID": "blueprint03",
       "SetID": "anfd17p",
       "Name": "Thirst for Knowledge",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 971
     },
     {
       "ID": "bookentry",
@@ -28240,15 +28245,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138708,
+      "Progressed": 138711,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-05T21:57:37.6445626+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:04:08.791877+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:15:56.1523739+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:58:12.918455+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:04:08.7920996+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:00:38.5911476+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:15:56.1527443+00:00"
 }

@@ -7,9 +7,9 @@
 | Blunga 1 | 99.00% | ~266 |
 | Mjam-Mjam | 97.00% | ~261 |
 | Onk Boga I | 96.00% | ~258 |
-| Sniarb! | 89.00% | ~239 |
+| Sniarb! | 90.00% | ~242 |
 | Blunga 5 | 68.00% | ~183 |
-| Onk Boga II | 64.00% | ~172 |
+| Onk Boga II | 65.00% | ~175 |
 | Bzzzzzz | 59.00% | ~159 |
 | Onk Boga III | 52.00% | ~140 |
 | Danka, Lagga, Wonwon | 45.00% | ~121 |

@@ -6,14 +6,14 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,745 |
-| Self-Improvement | 71.00% | ~1,408 |
-| Perky | 65.00% | ~1,289 |
-| Let’s Ride | 59.00% | ~1,170 |
-| Dead or Alive | 56.00% | ~1,110 |
-| Welcome to the Weird West | 56.00% | ~1,110 |
+| Unforgiven | 88.00% | ~1,746 |
+| Self-Improvement | 71.00% | ~1,409 |
+| Perky | 65.00% | ~1,290 |
+| Let’s Ride | 59.00% | ~1,171 |
+| Welcome to the Weird West | 56.00% | ~1,111 |
+| Dead or Alive | 55.00% | ~1,091 |
 | Full House | 37.00% | ~734 |
-| Off the Trail | 34.00% | ~674 |
+| Off the Trail | 34.00% | ~675 |
 | Justice Served | 30.00% | ~595 |
 | Chain Reaction | 26.00% | ~516 |
 | Through Their Eyes | 26.00% | ~516 |
@@ -25,7 +25,7 @@ Number of Ratings: 125  (23.09.2022)
 | Fallen Star | 16.00% | ~317 |
 | Here Comes Santa Claus | 16.00% | ~317 |
 | Winds of War | 16.00% | ~317 |
-| For Balance | 15.00% | ~297 |
+| For Balance | 15.00% | ~298 |
 | Dog Days | 13.00% | ~258 |
 | Out on the Ebb Tide | 13.00% | ~258 |
 | Turning the Tables | 13.00% | ~258 |
@@ -34,10 +34,10 @@ Number of Ratings: 125  (23.09.2022)
 | Power Behind the Pulpit | 12.00% | ~238 |
 | Something Wicked This Way Comes… | 11.00% | ~218 |
 | There is Hope | 11.00% | ~218 |
-| Loyalty to the Pack | 9.00% | ~178 |
-| Eternity Can Wait | 9.00% | ~178 |
-| Mystery Machine | 9.00% | ~178 |
-| The Philosopher’s Stone | 9.00% | ~178 |
+| Loyalty to the Pack | 9.00% | ~179 |
+| Eternity Can Wait | 9.00% | ~179 |
+| Mystery Machine | 9.00% | ~179 |
+| The Philosopher’s Stone | 9.00% | ~179 |
 | Do Not Pass Go… | 8.00% | ~159 |
 | Gold Digger | 8.00% | ~159 |
 | Monster Hunter | 8.00% | ~159 |
@@ -47,9 +47,9 @@ Number of Ratings: 125  (23.09.2022)
 | Healing Old Wounds | 5.00% | ~99 |
 | This Is Sparta | 5.00% | ~99 |
 | What’s in the Box? | 5.00% | ~99 |
-| Ghost Town | 3.00% | ~59 |
-| Lord Inut Sends His Regards | 3.00% | ~59 |
-| Moondrunk | 3.00% | ~59 |
+| Ghost Town | 3.00% | ~60 |
+| Lord Inut Sends His Regards | 3.00% | ~60 |
+| Moondrunk | 3.00% | ~60 |
 | 'Ma Barker | 2.00% | ~40 |
 | I Kicked a Bird and I Liked it | 1.00% | ~20 |
 | Hog Wild | 1.00% | ~20 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,983 (Ranked 217)  
+Progressed: 1,984 (Ranked 217)  
 Completed: 7 (0.35%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 7 (0.35%) (Ranked 216)
 | 2023-11-03 | 1,975 | 7 |
 | 2023-11-04 | 1,979 | 7 |
 | 2023-11-05 | 1,981 | 7 |
-| 2023-11-06 | 1,983 | 7 |
+| 2023-11-06 | 1,984 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 500)  
 Sum: 28 (Ranked 515)  

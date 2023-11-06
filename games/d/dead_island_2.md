@@ -54,11 +54,11 @@ Rating: 4.54 (Ranked 521)
 | Variety is the Spice of Death | 0.10% | ~714 |
 | Rising Star | 0.10% | ~714 |
 | Bucket List | 0.10% | ~714 |
-| Lawn and Order | 0.10% | ~39 |
-| Wilhelm | 0.10% | ~39 |
+| Lawn and Order | 0.10% | ~40 |
+| Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,931 (Ranked 21)  
-Completed: 2,348 (0.33%) (Ranked 218)  
+Progressed: 713,973 (Ranked 21)  
+Completed: 2,349 (0.33%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,14 +257,14 @@ Completed: 2,348 (0.33%) (Ranked 218)
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
-| 2023-11-06 | 713,931 | 2,348 |
+| 2023-11-06 | 713,973 | 2,349 |
 ## Awards
-Max (Great Boss Battles): 7,072  (Ranked 53)  
-Sum: 10,717 (Ranked 89)  
+Max (Great Boss Battles): 7,125  (Ranked 53)  
+Sum: 10,770 (Ranked 89)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,072 |
+| This game has Great Boss Battles | 7,125 |
 | This game is Great for Beginners | 520 |
 | This game has Diverse Characters | 510 |
 | This game has Quickly Understood Controls | 490 |
@@ -475,4 +475,4 @@ Diff (max vs sum): -36
 | 2023-11-03 | 4.54 | 6,934 | 10,449 |
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
-| 2023-11-06 | 4.54 | 7,072 | 10,717 |
+| 2023-11-06 | 4.54 | 7,125 | 10,770 |

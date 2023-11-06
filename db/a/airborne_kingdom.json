@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7447,
+  "EOS_Progressed": 7448,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 3,
@@ -5518,6 +5518,11 @@
       "Time": "2023-11-06T16:05:39.8071537+00:00",
       "NumProgressed": 7447,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-06T17:17:06.3172459+00:00",
+      "NumProgressed": 7448,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5577,7 +5582,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -5609,7 +5614,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -5657,7 +5662,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1489
+      "UsersEstimate": 1490
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -5665,7 +5670,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3053
+      "UsersEstimate": 3054
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -5673,7 +5678,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3053
+      "UsersEstimate": 3054
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -5681,7 +5686,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4170
+      "UsersEstimate": 4171
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5744,15 +5749,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7447,
+      "Progressed": 7448,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:05:39.8071531+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:17:06.3172455+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:03:09.5575221+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:05:39.8071935+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:15:10.8548849+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:17:06.3173088+00:00"
 }

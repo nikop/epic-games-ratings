@@ -451,9 +451,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2114,
+  "EOS_Progressed": 2115,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6556,6 +6556,11 @@
       "Time": "2023-11-06T13:15:21.8514943+00:00",
       "NumProgressed": 2114,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-06T17:19:54.8764998+00:00",
+      "NumProgressed": 2115,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6775,7 +6780,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "gearenchanting",
@@ -6839,7 +6844,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "jewelenchanting",
@@ -6879,7 +6884,7 @@
       "Name": "Master Enchanter",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "mastery",
@@ -6903,7 +6908,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "missionsdedication",
@@ -7023,7 +7028,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "thealchemist",
@@ -7047,7 +7052,7 @@
       "Name": "The father of Dragons",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "thegameison",
@@ -7127,7 +7132,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "warmachinesarmy",
@@ -7149,9 +7154,9 @@
       "ID": "whatliesbehindthebush",
       "SetID": "3nl4bcg",
       "Name": "What lies behind the bush",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 63
     },
     {
       "ID": "worldmap",
@@ -7159,14 +7164,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2114,
+      "Progressed": 2115,
       "Completed": 2
     }
   ],
@@ -7174,8 +7179,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:07:49.7065174+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:19:54.8764992+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:01:31.7417947+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:07:49.7066306+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:14:03.9968443+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:19:54.8766102+00:00"
 }

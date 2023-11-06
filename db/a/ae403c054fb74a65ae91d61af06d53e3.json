@@ -2,9 +2,9 @@
   "ID": "ae403c054fb74a65ae91d61af06d53e3",
   "Name": "Super Adventure Hand",
   "ProductSlug": "super-adventure-hand-62ec9a",
-  "Ranking_EOS_Progress": 568,
+  "Ranking_EOS_Progress": 569,
   "Ranking_EOS_Completed": 20,
-  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-21T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 11,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 18.18,
   "EosHistory": [
@@ -187,9 +187,9 @@
       "ID": "ach_thimble_apprentice",
       "SetID": "8787m1a",
       "Name": "Thimble Apprentice",
-      "Percentage": 36,
+      "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_thimble_beginner",
@@ -226,8 +226,8 @@
   ],
   "FirstSeen": "2023-09-24T13:57:59.4774682+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.9964559+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:05:04.4403566+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:16:39.2405219+00:00",
   "LastUpdate_AppInfo": "2023-11-01T04:57:16.0179697+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:03:18.6072039+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:05:04.4403672+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:15:17.4275918+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:16:39.2405345+00:00"
 }

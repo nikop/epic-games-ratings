@@ -5,22 +5,22 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~227,455 |
+| Forgotten Sorority | 91.00% | ~227,456 |
 | Private Club | 74.00% | ~184,964 |
-| Rogue Guild | 65.00% | ~162,468 |
-| I Watched the Intro | 57.00% | ~142,472 |
-| Covert Consortium | 55.00% | ~137,473 |
-| Goat Queen | 53.00% | ~132,474 |
+| Rogue Guild | 65.00% | ~162,469 |
+| I Watched the Intro | 57.00% | ~142,473 |
+| Covert Consortium | 55.00% | ~137,474 |
+| Goat Queen | 53.00% | ~132,475 |
 | Reach the Stratosphere | 50.00% | ~124,976 |
 | Synchronization Complete | 47.00% | ~117,477 |
 | Secret Society | 45.00% | ~112,478 |
-| Shadow Syndicate | 38.00% | ~94,981 |
+| Shadow Syndicate | 38.00% | ~94,982 |
 | What a Waste of Money | 33.00% | ~82,484 |
-| New Goat Order | 30.00% | ~74,985 |
-| Don't touch the servers | 28.00% | ~69,986 |
+| New Goat Order | 30.00% | ~74,986 |
+| Don't touch the servers | 28.00% | ~69,987 |
 | San Angora: Become Human | 27.00% | ~67,487 |
 | Real Buoy | 27.00% | ~67,487 |
-| Raider of the Lost Parking Garage | 26.00% | ~64,987 |
+| Raider of the Lost Parking Garage | 26.00% | ~64,988 |
 | Welcome to Earth | 25.00% | ~62,488 |
 | Into the Matrix | 19.00% | ~47,491 |
 | Egg Simulator | 18.00% | ~44,991 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,500 |
 | G.O.A.T | 0.30% | ~750 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,951 (Ranked 59)  
+Progressed: 249,952 (Ranked 59)  
 Completed: 871 (0.35%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 871 (0.35%) (Ranked 216)
 | 2023-11-03 | 249,647 | 871 |
 | 2023-11-04 | 249,783 | 871 |
 | 2023-11-05 | 249,902 | 871 |
-| 2023-11-06 | 249,951 | 871 |
+| 2023-11-06 | 249,952 | 871 |
 ## Awards
 Max (Great for Beginners): 448  (Ranked 213)  
 Sum: 3,760 (Ranked 158)  

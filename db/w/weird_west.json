@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1983,
+  "EOS_Progressed": 1984,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2654,6 +2654,11 @@
       "Time": "2023-11-06T14:08:07.7439922+00:00",
       "NumProgressed": 1983,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-06T17:20:37.8834535+00:00",
+      "NumProgressed": 1984,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2671,9 +2676,9 @@
       "ID": "ACH_DEAD_OR_ALIVE",
       "SetID": "8j30i9k",
       "Name": "Dead or Alive",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1091
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2737,7 +2742,7 @@
       "Name": "For Balance",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -2761,7 +2766,7 @@
       "Name": "Ghost Town",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_GOLD_DIGGER",
@@ -2817,7 +2822,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1170
+      "UsersEstimate": 1171
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2833,7 +2838,7 @@
       "Name": "Lord Inut Sends His Regards",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_LOYALTY_TO_THE_PACK",
@@ -2841,7 +2846,7 @@
       "Name": "Loyalty to the Pack",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_MAN_IN_BLACK",
@@ -2849,7 +2854,7 @@
       "Name": "Eternity Can Wait",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -2873,7 +2878,7 @@
       "Name": "Moondrunk",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_MOON_HUNTER",
@@ -2889,7 +2894,7 @@
       "Name": "Mystery Machine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_OFF_THE_TRAIL",
@@ -2897,7 +2902,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2913,7 +2918,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1289
+      "UsersEstimate": 1290
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2961,7 +2966,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3009,7 +3014,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -3041,7 +3046,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3049,7 +3054,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3088,15 +3093,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1983,
+      "Progressed": 1984,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:08:39.2770759+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:20:37.883453+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.3236898+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:59:07.767176+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:08:39.2771197+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:04:19.042012+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:20:37.8835079+00:00"
 }

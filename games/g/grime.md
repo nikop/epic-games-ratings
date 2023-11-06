@@ -8,8 +8,8 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 4.00% | ~6,277 |
 | Imprint | 4.00% | ~6,277 |
-| The Hunt | 3.00% | ~4,707 |
-| Ravenous | 3.00% | ~4,707 |
+| The Hunt | 3.00% | ~4,708 |
+| Ravenous | 3.00% | ~4,708 |
 | Weeper | 2.00% | ~3,138 |
 | Devourer | 2.00% | ~3,138 |
 | Scion | 1.00% | ~1,565 |
@@ -24,23 +24,23 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 0.80% | ~1,255 |
 | Glare | 0.80% | ~1,252 |
 | Assimilation | 0.70% | ~1,098 |
-| Host | 0.70% | ~1,095 |
+| Host | 0.70% | ~1,096 |
 | Celebration | 0.70% | ~1,098 |
 | Predator | 0.70% | ~1,098 |
-| Hunt Down | 0.60% | ~941 |
+| Hunt Down | 0.60% | ~942 |
 | Artisan | 0.50% | ~785 |
 | Hush | 0.50% | ~785 |
 | Inevitable | 0.50% | ~785 |
 | All-Seeing | 0.50% | ~785 |
 | Breathsmith | 0.50% | ~785 |
-| Dream | 0.50% | ~782 |
+| Dream | 0.50% | ~783 |
 | Breath | 0.40% | ~628 |
 | Unwrap the Gift | 0.40% | ~628 |
 | Passage | 0.40% | ~628 |
 | Bloodhunter | 0.30% | ~471 |
-| Zygote | 0.30% | ~469 |
+| Zygote | 0.30% | ~470 |
 | Kinship | 0.30% | ~471 |
-| Listen | 0.30% | ~469 |
+| Listen | 0.30% | ~470 |
 | Proportions | 0.30% | ~471 |
 | Weakness | 0.20% | ~314 |
 | Kin | 0.20% | ~313 |
@@ -49,11 +49,11 @@ Number of Ratings: 46  (23.09.2022)
 | Skinmaker | 0.10% | ~157 |
 | Instruments | 0.10% | ~157 |
 | Generous | 0.10% | ~157 |
-| The Nightmare | 0.10% | ~156 |
-| Touch of Otherwhere | 0.10% | ~156 |
-| Enrich | 0.10% | ~156 |
+| The Nightmare | 0.10% | ~157 |
+| Touch of Otherwhere | 0.10% | ~157 |
+| Enrich | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156,915 (Ranked 76)  
+Progressed: 156,920 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 156,356 | 1 |
 | 2023-11-04 | 156,591 | 1 |
 | 2023-11-05 | 156,812 | 1 |
-| 2023-11-06 | 156,915 | 1 |
+| 2023-11-06 | 156,920 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 426)  
 Sum: 350 (Ranked 348)  

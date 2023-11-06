@@ -4,7 +4,7 @@
   "ProductSlug": "undungeon-49cec0",
   "Ranking_EOS_Progress": 727,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-11-18T18:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:15.8850083+00:00",
   "LastChanged": "2023-03-31T05:57:15.8850084+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.6248956+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:59:33.585769+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:07:24.3922364+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:06:23.5977406+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:19:34.8512902+00:00"
 }

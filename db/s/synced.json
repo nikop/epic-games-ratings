@@ -969,9 +969,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65951,
+  "EOS_Progressed": 65957,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 745,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8114,6 +8114,11 @@
       "Time": "2023-11-06T16:03:48.8134971+00:00",
       "NumProgressed": 65951,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-06T17:15:40.2611399+00:00",
+      "NumProgressed": 65957,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8126,7 +8131,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21764
+      "UsersEstimate": 21766
     },
     {
       "ID": "10",
@@ -8190,7 +8195,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11212
+      "UsersEstimate": 11213
     },
     {
       "ID": "3",
@@ -8206,7 +8211,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "5",
@@ -8214,7 +8219,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5276
+      "UsersEstimate": 5277
     },
     {
       "ID": "6",
@@ -8253,7 +8258,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65951,
+      "Progressed": 65957,
       "Completed": 28
     }
   ],
@@ -8261,8 +8266,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-06T04:00:17.1246589+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:03:48.8134965+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:15:40.2611393+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:57:27.0566836+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:03:48.8135393+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:58:06.1463435+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:15:40.2612219+00:00"
 }

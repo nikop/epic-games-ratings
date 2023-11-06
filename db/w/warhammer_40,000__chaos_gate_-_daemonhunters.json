@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -4183,9 +4183,9 @@
       "ID": "Preservationist",
       "SetID": "2im8phi",
       "Name": "Preservationist",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "ReaperDefeated_Dolorus",
@@ -4349,8 +4349,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-10-29T02:59:23.6089798+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:09:26.3206284+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:21:14.3341532+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:02.5672969+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:58:03.3939936+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:09:26.3206966+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:00:00.9081268+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:21:14.3342444+00:00"
 }

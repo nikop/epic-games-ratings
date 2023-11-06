@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 402,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -877,9 +877,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6401,
+  "EOS_Progressed": 6402,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9562,6 +9562,11 @@
       "Time": "2023-11-06T15:08:36.9590394+00:00",
       "NumProgressed": 6401,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T17:21:08.8101092+00:00",
+      "NumProgressed": 6402,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9731,9 +9736,9 @@
       "ID": "ACHIEVEMENT_021",
       "SetID": "1a05lfd",
       "Name": "I\u0027m Hooked!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -9892,13 +9897,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6401,
+      "Progressed": 6402,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5773,
+      "Progressed": 5774,
       "Completed": 113
     }
   ],
@@ -9906,8 +9911,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:09:19.3039324+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:21:08.8101086+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:59:54.9363327+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:09:19.3040011+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:07:49.5974764+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:21:08.8102014+00:00"
 }

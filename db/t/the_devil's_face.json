@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 1,
@@ -2364,6 +2364,11 @@
       "Time": "2023-11-05T08:03:46.9028177+00:00",
       "NumProgressed": 549,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-06T17:16:19.1086528+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2375,7 +2380,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2391,7 +2396,7 @@
       "Name": "The crucifixion",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -2431,7 +2436,7 @@
       "Name": "Our efforts are finally yielding progress",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2463,7 +2468,7 @@
       "Name": "The court",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -2486,14 +2491,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:04:37.9872054+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:16:19.1086522+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.460318+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:59:02.4512322+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:04:37.9872264+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:03:54.9017885+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:16:19.1086841+00:00"
 }

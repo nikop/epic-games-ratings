@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 247,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1430,9 +1430,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130540,
+  "EOS_Progressed": 130542,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21160,6 +21160,11 @@
       "Time": "2023-11-06T16:07:02.4826587+00:00",
       "NumProgressed": 130540,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-06T17:18:48.5741381+00:00",
+      "NumProgressed": 130542,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21203,7 +21208,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23497
+      "UsersEstimate": 23498
     },
     {
       "ID": "ACH_COP_BAD",
@@ -21251,7 +21256,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36551
+      "UsersEstimate": 36552
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21275,7 +21280,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20886
+      "UsersEstimate": 20887
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -21283,7 +21288,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27413
+      "UsersEstimate": 27414
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -21307,7 +21312,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20886
+      "UsersEstimate": 20887
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -21315,7 +21320,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14359
+      "UsersEstimate": 14360
     },
     {
       "ID": "ACH_CUNO",
@@ -21363,7 +21368,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7832
+      "UsersEstimate": 7833
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -21490,15 +21495,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130540,
+      "Progressed": 130542,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-04T19:01:05.2014817+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:07:02.4826582+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:18:48.5741376+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:00:06.8298732+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:07:02.4827767+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:08:28.696811+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:18:48.5742851+00:00"
 }

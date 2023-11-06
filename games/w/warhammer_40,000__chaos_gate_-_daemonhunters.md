@@ -39,8 +39,8 @@ Number of Ratings: 371  (23.09.2022)
 | Tactical Flexibility | 0.90% | ~30 |
 | Patron of Deimos | 0.80% | ~26 |
 | For the Machine God | 0.80% | ~26 |
+| Preservationist | 0.80% | ~26 |
 | Death Comes For All | 0.80% | ~26 |
-| Preservationist | 0.70% | ~23 |
 | Engine Kill | 0.70% | ~23 |
 | Harvest No More | 0.60% | ~20 |
 | Strike Force | 0.50% | ~16 |

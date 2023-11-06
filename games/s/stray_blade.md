@@ -11,8 +11,8 @@
 | A new World ahead | 28.00% | ~32 |
 | Can't touch this | 28.00% | ~32 |
 | Don't Cry Wolf | 24.00% | ~28 |
-| Expert | 18.00% | ~21 |
-| Freezing Cold | 17.00% | ~20 |
+| Expert | 19.00% | ~22 |
+| Freezing Cold | 18.00% | ~21 |
 | Searing Heat | 15.00% | ~17 |
 | Locked and Loaded | 14.00% | ~16 |
 | Nothing but the Truth | 14.00% | ~16 |
@@ -51,7 +51,7 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 396)  
+Progressed: 116 (Ranked 397)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

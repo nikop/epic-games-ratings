@@ -1387,9 +1387,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156915,
+  "EOS_Progressed": 156920,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1328,
+  "EOS_NewPlayers": 1319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14607,6 +14607,11 @@
       "Time": "2023-11-06T16:08:40.1612167+00:00",
       "NumProgressed": 156915,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T17:20:38.5096915+00:00",
+      "NumProgressed": 156920,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14658,7 +14663,7 @@
       "Name": "Zygote",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -14666,7 +14671,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -14698,7 +14703,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -14738,7 +14743,7 @@
       "Name": "Host",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -14890,7 +14895,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4707
+      "UsersEstimate": 4708
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -14914,7 +14919,7 @@
       "Name": "Dream",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "QUEST_CODA",
@@ -14938,7 +14943,7 @@
       "Name": "Listen",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "QUEST_YON",
@@ -14954,7 +14959,7 @@
       "Name": "The Nightmare",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "MISC_FINISHNG",
@@ -14962,7 +14967,7 @@
       "Name": "Touch of Otherwhere",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -14970,7 +14975,7 @@
       "Name": "Enrich",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -14985,21 +14990,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156498,
+      "Progressed": 156503,
       "Completed": 1192
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156915,
+      "Progressed": 156920,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-05T21:00:16.5008825+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:08:40.1612162+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:20:38.509691+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:01:10.9223719+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:08:40.1613092+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:13:35.5384049+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:20:38.5098963+00:00"
 }

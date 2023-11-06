@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -919,9 +919,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664296,
+  "EOS_Progressed": 664297,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -19944,6 +19944,11 @@
       "Time": "2023-11-06T16:04:55.8739307+00:00",
       "NumProgressed": 664296,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-06T17:16:32.6583067+00:00",
+      "NumProgressed": 664297,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -19955,7 +19960,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478293
+      "UsersEstimate": 478294
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -20099,7 +20104,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93001
+      "UsersEstimate": 93002
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -20338,15 +20343,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664296,
+      "Progressed": 664297,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-31T06:59:31.6976797+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:04:55.8739302+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:16:32.6583062+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.6002518+00:00",
-  "LastUpdate_Ratings": "2023-11-06T15:57:43.5768575+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:04:55.8740582+00:00"
+  "LastUpdate_Ratings": "2023-11-06T16:58:53.9934935+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:16:32.6584549+00:00"
 }

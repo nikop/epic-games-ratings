@@ -724,9 +724,9 @@
       "ID": "Brain_turned_in_008",
       "SetID": "6od1ndi",
       "Name": "Sniarb!",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 35,
-      "UsersEstimate": 239
+      "UsersEstimate": 242
     },
     {
       "ID": "Butterfly_eats_Caterpillar_in_007",
@@ -772,9 +772,9 @@
       "ID": "Level_completed_002_008",
       "SetID": "6od1ndi",
       "Name": "Onk Boga II",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 172
+      "UsersEstimate": 175
     },
     {
       "ID": "Level_completed_003_001",
@@ -885,8 +885,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:08:23.6710736+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:20:05.9611828+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:45.8899995+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:02:56.7519198+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:08:23.671092+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:15:00.8720862+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:20:05.9612109+00:00"
 }

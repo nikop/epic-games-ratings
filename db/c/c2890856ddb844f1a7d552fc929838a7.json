@@ -5,9 +5,9 @@
   "Ranking_Rating": 28,
   "Ranking_Popularity": 536,
   "Ranking_PopularitySum": 538,
-  "Ranking_EOS_Progress": 252,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2318,9 +2318,9 @@
       "ID": "AC01",
       "SetID": "l4abp0",
       "Name": "A Thousand Years Later",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 30,
-      "UsersEstimate": 873
+      "UsersEstimate": 883
     },
     {
       "ID": "AC02",
@@ -2462,9 +2462,9 @@
       "ID": "AC19",
       "SetID": "l4abp0",
       "Name": "Soledad",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 522
     },
     {
       "ID": "AC20",
@@ -2687,8 +2687,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:09:44.5024635+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:21:28.6963642+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:01.1696365+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:00:38.4872617+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:09:44.5025042+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:11:13.0519557+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:21:28.6964384+00:00"
 }

@@ -12,16 +12,16 @@ Number of Ratings: 38  (23.09.2022)
 | Life’s short, ride long | 44.00% | ~664 |
 | Over my dead body | 40.00% | ~604 |
 | Shake the rust off their feet | 21.00% | ~317 |
+| My little pony | 20.00% | ~302 |
 | Strike! | 19.00% | ~287 |
-| My little pony | 19.00% | ~287 |
-| A love supreme | 18.00% | ~272 |
+| A love supreme | 19.00% | ~287 |
 | In my shoes | 17.00% | ~257 |
 | Like new! | 15.00% | ~226 |
 | Heartstrings | 14.00% | ~211 |
+| Don't look back | 13.00% | ~196 |
 | Head in the clouds | 13.00% | ~196 |
 | Back to rust | 12.00% | ~181 |
 | Flower Powered | 12.00% | ~181 |
-| Don't look back | 12.00% | ~181 |
 | Perfect timing | 10.00% | ~151 |
 | Unstoppable | 10.00% | ~151 |
 | Self-sustainability | 8.00% | ~121 |
@@ -37,7 +37,7 @@ Number of Ratings: 38  (23.09.2022)
 | Thar she blows | 2.00% | ~30 |
 | À la carte | 2.00% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,509 (Ranked 231)  
+Progressed: 1,509 (Ranked 232)  
 Completed: 9 (0.60%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |

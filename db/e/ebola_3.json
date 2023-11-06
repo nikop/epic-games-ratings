@@ -4,7 +4,7 @@
   "ProductSlug": "ebola-3-2c79e9",
   "Ranking_EOS_Progress": 340,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewPlayers": 393,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-26T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1156,6 +1156,11 @@
       "Time": "2023-10-23T19:04:16.2663337+00:00",
       "NumProgressed": 272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T17:20:52.2640226+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 50,
@@ -1189,9 +1194,9 @@
       "ID": "achBag",
       "SetID": "72gjli4",
       "Name": "Inventory \u2714",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 150
     },
     {
       "ID": "achBett",
@@ -1229,9 +1234,9 @@
       "ID": "achChest",
       "SetID": "72gjli4",
       "Name": "Chest \u2714",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "achCity",
@@ -1317,9 +1322,9 @@
       "ID": "achEva",
       "SetID": "72gjli4",
       "Name": "Eva \u2714",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "achExplosion",
@@ -1327,7 +1332,7 @@
       "Name": "Survival \u2714",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achFood",
@@ -1367,7 +1372,7 @@
       "Name": "Fright \u2714",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "achLizun",
@@ -1566,7 +1571,7 @@
     {
       "ID": "72gjli4",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 0
     }
   ],
@@ -1574,8 +1579,8 @@
   "FirstSeenRating": "2023-04-27T18:00:42.6973791+00:00",
   "FirstSeenAchievements": "2023-04-25T20:53:14.7759672+00:00",
   "LastChanged": "2023-04-27T18:00:42.6973792+00:00",
-  "LastChanged_Achievements": "2023-11-06T16:08:58.2023301+00:00",
+  "LastChanged_Achievements": "2023-11-06T17:20:52.2640222+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.053767+00:00",
-  "LastUpdate_Ratings": "2023-11-06T16:01:09.2243793+00:00",
-  "LastUpdate_Achievements": "2023-11-06T16:08:58.2023732+00:00"
+  "LastUpdate_Ratings": "2023-11-06T17:13:31.1675562+00:00",
+  "LastUpdate_Achievements": "2023-11-06T17:20:52.2640887+00:00"
 }
