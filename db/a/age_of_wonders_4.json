@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 509,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -401,7 +401,7 @@
   ],
   "EOS_Progressed": 5274,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6832,9 +6832,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 264
     },
     {
       "ID": "31",
@@ -7063,8 +7063,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-02T16:01:19.3069971+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:06:24.9645088+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:05:52.0615546+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:58:48.4408788+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:06:24.9646025+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:58:25.7276852+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:05:52.061613+00:00"
 }

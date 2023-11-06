@@ -1522,9 +1522,9 @@
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
       "SetID": "5fn8ia4",
       "Name": "Expert in the Field",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "GSS_ACH_79_JACK_OF_ALL_TRADES",
@@ -1569,8 +1569,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:03:34.3630973+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:03:17.3621268+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:00:26.9897231+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:03:34.3632262+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:59:52.6979899+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:03:17.3622579+00:00"
 }

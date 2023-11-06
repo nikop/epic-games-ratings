@@ -444,9 +444,9 @@
       "ID": "A19",
       "SetID": "7f5j12l",
       "Name": "Purple Flame",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "A2",
@@ -643,8 +643,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:07:32.5257054+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:06:53.4573745+00:00",
   "LastUpdate_AppInfo": "2023-10-31T07:57:18.4168742+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:01:00.4474749+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:07:32.5257357+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:00:21.213922+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:06:53.4573943+00:00"
 }

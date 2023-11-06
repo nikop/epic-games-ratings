@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.19 (Ranked 911)  
+Rating: 4.19 (Ranked 912)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,16 +12,16 @@ Rating: 4.19 (Ranked 911)
 | Chew 'Em Up | 6.00% | ~985 |
 | Reforged | 6.00% | ~985 |
 | The Outer Way | 6.00% | ~985 |
-| Two Heads Are Better Than One | 5.00% | ~820 |
-| Workplace Hazard | 5.00% | ~820 |
-| If the SHU Fits... | 5.00% | ~820 |
-| Without A Paddle | 5.00% | ~820 |
-| In the Pipe, Five by Five | 5.00% | ~820 |
-| What Lies Beneath | 5.00% | ~820 |
-| Desperate Times | 5.00% | ~820 |
-| Crash Site | 5.00% | ~820 |
-| Full Circle | 5.00% | ~820 |
-| Power Up | 5.00% | ~820 |
+| Two Heads Are Better Than One | 5.00% | ~821 |
+| Workplace Hazard | 5.00% | ~821 |
+| If the SHU Fits... | 5.00% | ~821 |
+| Without A Paddle | 5.00% | ~821 |
+| In the Pipe, Five by Five | 5.00% | ~821 |
+| What Lies Beneath | 5.00% | ~821 |
+| Desperate Times | 5.00% | ~821 |
+| Crash Site | 5.00% | ~821 |
+| Full Circle | 5.00% | ~821 |
+| Power Up | 5.00% | ~821 |
 | Keep Fighting | 5.00% | ~217 |
 | Giving Back | 4.00% | ~656 |
 | You Need a Gun | 4.00% | ~656 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 911)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,410 (Ranked 143)  
+Progressed: 16,411 (Ranked 143)  
 Completed: 79 (0.48%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,6 +246,7 @@ Completed: 79 (0.48%) (Ranked 199)
 | 2023-11-03 | 16,398 | 78 |
 | 2023-11-04 | 16,404 | 79 |
 | 2023-11-05 | 16,410 | 79 |
+| 2023-11-06 | 16,411 | 79 |
 ## Awards
 Max (Highly Recommended): 81  (Ranked 385)  
 Sum: 475 (Ranked 325)  

@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 902,
+  "Ranking_Rating": 903,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 160,
@@ -511,7 +511,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8488,
+  "EOS_Progressed": 8489,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
@@ -10711,6 +10711,11 @@
       "Time": "2023-11-06T05:03:56.7985554+00:00",
       "NumProgressed": 8488,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-06T11:04:09.3485612+00:00",
+      "NumProgressed": 8489,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10722,7 +10727,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7045
+      "UsersEstimate": 7046
     },
     {
       "ID": "ACH02",
@@ -10746,7 +10751,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3225
+      "UsersEstimate": 3226
     },
     {
       "ID": "ACH05",
@@ -10906,7 +10911,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "ACH25",
@@ -10953,7 +10958,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8488,
+      "Progressed": 8489,
       "Completed": 56
     }
   ],
@@ -10961,8 +10966,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:04:31.6675465+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:04:09.3485605+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:58:57.47927+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:04:31.6676611+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:58:33.0937867+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:04:09.3486302+00:00"
 }

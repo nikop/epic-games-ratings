@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7443,
+  "EOS_Progressed": 7444,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 3,
@@ -5498,6 +5498,11 @@
       "Time": "2023-11-06T03:05:17.0497857+00:00",
       "NumProgressed": 7443,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-06T11:04:56.4904512+00:00",
+      "NumProgressed": 7444,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5523,9 +5528,9 @@
       "ID": "AK_FIELDS_WATERED",
       "SetID": "dfmb89",
       "Name": "Fields Watered",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3126
+      "UsersEstimate": 3052
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -5557,7 +5562,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1637
+      "UsersEstimate": 1638
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -5661,7 +5666,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4168
+      "UsersEstimate": 4169
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5709,7 +5714,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2977
+      "UsersEstimate": 2978
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -5724,15 +5729,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7443,
+      "Progressed": 7444,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:05:23.9261717+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:04:56.4904507+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:03:13.4044643+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:05:23.9262454+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:02:58.0429758+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:04:56.4904928+00:00"
 }

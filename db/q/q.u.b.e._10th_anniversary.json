@@ -148,9 +148,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16460,
+  "EOS_Progressed": 16468,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 3466,
+  "EOS_NewPlayers": 3454,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -2193,6 +2193,11 @@
       "Time": "2023-11-06T10:09:22.8176918+00:00",
       "NumProgressed": 16460,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-11-06T11:09:25.3828125+00:00",
+      "NumProgressed": 16468,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 24,
@@ -2236,7 +2241,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH_Finale",
@@ -2340,7 +2345,7 @@
       "Name": "Sector 2",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH_Sector3",
@@ -2395,7 +2400,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 16460,
+      "Progressed": 16468,
       "Completed": 24
     }
   ],
@@ -2403,8 +2408,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-06T08:59:13.9101699+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:09:22.8176911+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:09:25.3828118+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:46.5183282+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:59:24.6993466+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:09:22.8177261+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:58:58.0053497+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:09:25.3828336+00:00"
 }

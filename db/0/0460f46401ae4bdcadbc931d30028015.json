@@ -525,9 +525,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3212,
+  "EOS_Progressed": 3213,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4315,6 +4315,11 @@
       "Time": "2023-11-06T09:04:43.9175584+00:00",
       "NumProgressed": 3212,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T11:04:15.6970935+00:00",
+      "NumProgressed": 3213,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4327,7 +4332,7 @@
       "Name": "Primetime",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "achievement_10",
@@ -4367,7 +4372,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "achievement_15",
@@ -4455,7 +4460,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "achievement_6",
@@ -4479,7 +4484,7 @@
       "Name": "Bragging Rights",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 931
+      "UsersEstimate": 932
     },
     {
       "ID": "achievement_9",
@@ -4494,7 +4499,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3212,
+      "Progressed": 3213,
       "Completed": 0
     }
   ],
@@ -4502,8 +4507,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-05T22:59:24.2798337+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:04:38.9328366+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:04:15.6970927+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:59:30.1315628+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:04:38.9328798+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:59:03.0391642+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:04:15.6971208+00:00"
 }

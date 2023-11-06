@@ -10,12 +10,12 @@
 | Notai Notes | 68.00% | ~340 |
 | Blue Dreams | 67.00% | ~335 |
 | He's Famous! | 67.00% | ~335 |
+| Cutie Poro | 64.00% | ~320 |
 | Krugmazing | 63.00% | ~315 |
-| Cutie Poro | 63.00% | ~315 |
-| The Fire Below the Mountain | 60.00% | ~300 |
+| The Fire Below the Mountain | 61.00% | ~305 |
 | Moneyball | 57.00% | ~285 |
 | No Bites | 50.00% | ~250 |
-| Iceborn | 48.00% | ~240 |
+| Iceborn | 49.00% | ~245 |
 | Tear of Freedom | 45.00% | ~225 |
 | Boom Things | 45.00% | ~225 |
 | Rhythm Of Willump | 44.00% | ~220 |

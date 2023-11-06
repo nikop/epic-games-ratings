@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 686,
+  "EOS_Progressed": 687,
   "EOS_Completed": 43,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.27,
+  "EOS_Completed_Percentage": 6.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:09.7835451+00:00",
@@ -149,6 +149,11 @@
       "Time": "2023-10-20T05:06:02.9431933+00:00",
       "NumProgressed": 686,
       "NumCompleted": 43
+    },
+    {
+      "Time": "2023-11-06T11:09:07.7622782+00:00",
+      "NumProgressed": 687,
+      "NumCompleted": 43
     }
   ],
   "TotalAchievements": 14,
@@ -176,7 +181,7 @@
       "Name": "The Ones that Got Away",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "12_art",
@@ -198,9 +203,9 @@
       "ID": "1_skies",
       "SetID": "459695l",
       "Name": "Up!",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 240
+      "UsersEstimate": 234
     },
     {
       "ID": "2_reel",
@@ -208,7 +213,7 @@
       "Name": "A Feel for the Reel",
       "Percentage": 84,
       "XP": 80,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "3_master_angler",
@@ -240,7 +245,7 @@
       "Name": "Immortal",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "7_cleanup",
@@ -248,7 +253,7 @@
       "Name": "Cleanup Duty",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "8_else",
@@ -256,7 +261,7 @@
       "Name": "Anything Else?",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "9_lotus",
@@ -271,7 +276,7 @@
     {
       "ID": "459695l",
       "IsBase": true,
-      "Progressed": 686,
+      "Progressed": 687,
       "Completed": 43
     }
   ],
@@ -279,8 +284,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.8897635+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.7835458+00:00",
   "LastChanged": "2023-03-31T05:57:45.8897637+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:09:03.2502241+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:09:07.7622776+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:13.4679118+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:01:02.6376676+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:09:03.2502383+00:00"
+  "LastUpdate_Ratings": "2023-11-06T11:00:23.1156408+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:09:07.7622888+00:00"
 }

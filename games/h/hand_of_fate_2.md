@@ -6,17 +6,17 @@ Number of Ratings: 780  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Fool | 72.00% | ~478,284 |
-| Apprentice | 58.00% | ~385,284 |
-| Close Shave | 25.00% | ~166,071 |
-| Mercenary | 23.00% | ~152,785 |
-| Ninja | 23.00% | ~152,785 |
-| Northern Scourge | 17.00% | ~112,928 |
+| The Fool | 72.00% | ~478,287 |
+| Apprentice | 58.00% | ~385,286 |
+| Close Shave | 25.00% | ~166,072 |
+| Mercenary | 23.00% | ~152,786 |
+| Ninja | 23.00% | ~152,786 |
+| Northern Scourge | 17.00% | ~112,929 |
 | Thief Bane | 14.00% | ~93,000 |
 | Master of Arms | 12.00% | ~79,714 |
-| Gambler | 10.00% | ~66,428 |
-| Dice Master | 10.00% | ~66,428 |
-| Swordsman | 9.00% | ~59,785 |
+| Gambler | 10.00% | ~66,429 |
+| Dice Master | 10.00% | ~66,429 |
+| Swordsman | 9.00% | ~59,786 |
 | Knight | 8.00% | ~53,143 |
 | Cure for Corruption | 8.00% | ~53,143 |
 | Focused | 8.00% | ~53,143 |
@@ -28,9 +28,9 @@ Number of Ratings: 780  (23.09.2022)
 | Empire's Bane | 6.00% | ~39,857 |
 | Jack of all Trades | 5.00% | ~33,214 |
 | Smithy | 5.00% | ~33,214 |
-| Leap of Faith | 3.00% | ~19,928 |
-| Combat Ready | 3.00% | ~19,928 |
-| Stuffed Potato | 3.00% | ~19,928 |
+| Leap of Faith | 3.00% | ~19,929 |
+| Combat Ready | 3.00% | ~19,929 |
+| Stuffed Potato | 3.00% | ~19,929 |
 | Card Sharp | 2.00% | ~13,286 |
 | Magician | 2.00% | ~13,286 |
 | Draknar's Bane | 2.00% | ~13,286 |
@@ -55,7 +55,7 @@ Number of Ratings: 780  (23.09.2022)
 | Miracle | 0.10% | ~664 |
 | Blood Pact | 0.10% | ~664 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664,283 (Ranked 26)  
+Progressed: 664,287 (Ranked 26)  
 Completed: 171 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 171 (0.03%) (Ranked 309)
 | 2023-11-03 | 664,152 | 171 |
 | 2023-11-04 | 664,209 | 171 |
 | 2023-11-05 | 664,267 | 171 |
-| 2023-11-06 | 664,283 | 171 |
+| 2023-11-06 | 664,287 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 469)  
 Sum: 189 (Ranked 403)  

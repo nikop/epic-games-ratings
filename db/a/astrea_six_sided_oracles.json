@@ -687,9 +687,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MechanicIntegration",
@@ -1023,9 +1023,9 @@
       "ID": "AquarianChampion",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Champion",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "AquarianHero",
@@ -1150,8 +1150,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:04:57.1960701+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:04:32.2068966+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:15.9709684+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:00:30.7020386+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:04:57.1961747+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:59:55.6944998+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:04:32.2069901+00:00"
 }

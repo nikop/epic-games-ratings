@@ -2,7 +2,7 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 911,
+  "Ranking_Rating": 912,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 143,
@@ -1445,7 +1445,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16410,
+  "EOS_Progressed": 16411,
   "EOS_Completed": 79,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
@@ -8780,6 +8780,11 @@
       "Time": "2023-11-05T22:07:26.4326583+00:00",
       "NumProgressed": 16410,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-06T11:06:25.3165694+00:00",
+      "NumProgressed": 16411,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -8911,7 +8916,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -8935,7 +8940,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -8991,7 +8996,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "STORY_HABITAT",
@@ -8999,7 +9004,7 @@
       "Name": "Without A Paddle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "STORY_HANGAR",
@@ -9007,7 +9012,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "STORY_MINETOWN",
@@ -9015,7 +9020,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -9023,7 +9028,7 @@
       "Name": "Desperate Times",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -9031,7 +9036,7 @@
       "Name": "Crash Site",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "STORY_TOWER",
@@ -9039,7 +9044,7 @@
       "Name": "Full Circle",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "STORY_TUNNELS",
@@ -9047,7 +9052,7 @@
       "Name": "Power Up",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "DISMEMBER_100",
@@ -9166,13 +9171,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16410,
+      "Progressed": 16411,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4336,
+      "Progressed": 4337,
       "Completed": 29
     }
   ],
@@ -9180,8 +9185,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-05T01:46:24.1852628+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:07:01.3671428+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:06:25.3165688+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:14.0432207+00:00",
-  "LastUpdate_Ratings": "2023-11-06T10:00:26.8136655+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:07:01.3672369+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:59:52.517489+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:06:25.3166294+00:00"
 }

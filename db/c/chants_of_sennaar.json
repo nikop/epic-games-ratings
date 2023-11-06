@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 464,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.83,
+  "EOS_Completed_Percentage": 5.82,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -1985,6 +1985,11 @@
       "Time": "2023-11-06T07:03:45.0832994+00:00",
       "NumProgressed": 463,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-06T11:03:38.062744+00:00",
+      "NumProgressed": 464,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -2004,7 +2009,7 @@
       "Name": "In this together",
       "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "META_ALL_LINK",
@@ -2108,7 +2113,7 @@
       "Name": "True G3M4R",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2132,7 +2137,7 @@
       "Name": "Champollion",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2148,7 +2153,7 @@
       "Name": "Scholar",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "PROGRESS_N1",
@@ -2170,9 +2175,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 93
     },
     {
       "ID": "PROGRESS_N4",
@@ -2195,14 +2200,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 464,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:03:57.0576526+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:03:38.0627437+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:57:33.8298759+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:03:57.0576836+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:57:16.4286646+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:03:38.062761+00:00"
 }

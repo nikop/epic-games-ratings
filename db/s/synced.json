@@ -2,12 +2,12 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 930,
+  "Ranking_Rating": 931,
   "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -969,9 +969,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65930,
+  "EOS_Progressed": 65932,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 749,
+  "EOS_NewPlayers": 750,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8084,6 +8084,11 @@
       "Time": "2023-11-06T09:03:57.0118247+00:00",
       "NumProgressed": 65930,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-06T11:03:23.1105657+00:00",
+      "NumProgressed": 65932,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8096,7 +8101,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21757
+      "UsersEstimate": 21758
     },
     {
       "ID": "10",
@@ -8184,7 +8189,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5274
+      "UsersEstimate": 5275
     },
     {
       "ID": "6",
@@ -8223,7 +8228,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65930,
+      "Progressed": 65932,
       "Completed": 28
     }
   ],
@@ -8231,8 +8236,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-06T04:00:17.1246589+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:03:40.879148+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:03:23.1105651+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
   "LastUpdate_Ratings": "2023-11-06T10:01:30.2390888+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:03:40.8792175+00:00"
+  "LastUpdate_Achievements": "2023-11-06T11:03:23.110612+00:00"
 }

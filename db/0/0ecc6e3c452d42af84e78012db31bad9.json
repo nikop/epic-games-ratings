@@ -3,9 +3,9 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 189,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 3857,
-  "EOS_Completed": 32,
+  "EOS_Completed": 33,
   "EOS_NewPlayers": 120,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 0.83,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
     {
       "Time": "2023-06-26T07:03:57.4473035+00:00",
@@ -9309,6 +9309,11 @@
       "Time": "2023-11-06T09:04:53.7568657+00:00",
       "NumProgressed": 3857,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-06T11:04:26.542005+00:00",
+      "NumProgressed": 3857,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -9334,9 +9339,9 @@
       "ID": "ach_10_medium_pictures",
       "SetID": "3h4khpo",
       "Name": "Artist in the making",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 424
+      "UsersEstimate": 463
     },
     {
       "ID": "ach_animals_completed",
@@ -9448,13 +9453,13 @@
       "ID": "3h4khpo",
       "IsBase": true,
       "Progressed": 3857,
-      "Completed": 32
+      "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:04:51.0018189+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:04:26.5420043+00:00",
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.1990735+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:59:45.5413148+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:04:51.001888+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:59:15.6892812+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:04:26.5420612+00:00"
 }

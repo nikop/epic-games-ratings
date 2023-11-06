@@ -8,12 +8,26 @@ Number of Ratings: 8,414  (23.09.2022)
 | ---- | ---------- | ----- |
 | Aggressive Expander | 0.10% | ~448 |
 | All That's Thine Shall Be Mine | 0.10% | ~448 |
+| Cold War | 0.10% | ~448 |
 | Double the Love | 0.10% | ~448 |
+| Factionalism | 0.10% | ~448 |
+| Gentle Persuasion | 0.10% | ~448 |
+| That's a Grand Army | 0.10% | ~448 |
 | That's a Grand Navy | 0.10% | ~448 |
+| It's all about luck | 0.10% | ~448 |
+| It's all about the money | 0.10% | ~448 |
+| Live Long and Prosper | 0.10% | ~448 |
+| Not so sad a state... | 0.10% | ~448 |
 | Queen of Conquest | 0.10% | ~448 |
 | Respected | 0.10% | ~448 |
+| Tear Down This Wall | 0.10% | ~448 |
+| That is mine! | 0.10% | ~448 |
+| The Five Colonies | 0.10% | ~448 |
+| The Princess is in this Castle | 0.10% | ~448 |
 | Time Bandit | 0.10% | ~448 |
+| True Catholic | 0.10% | ~448 |
 | Until death do us apart | 0.10% | ~448 |
+| Victorious! | 0.10% | ~448 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Blessed Nation | 0.00% | ~0 |
@@ -77,7 +91,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
 | City of Cities | 0.00% | ~0 |
-| Cold War | 0.00% | ~0 |
 | Colonial Management | 0.00% | ~0 |
 | Combined Arms | 0.00% | ~0 |
 | Consulate of the Sea | 0.00% | ~0 |
@@ -106,7 +119,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Empire of Mann | 0.00% | ~0 |
 | Even Better than Piet Heyn | 0.00% | ~0 |
 | Everything's Coming Up Mulhouse | 0.00% | ~0 |
-| Factionalism | 0.00% | ~0 |
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | Fine Financials | 0.00% | ~0 |
@@ -126,7 +138,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Fugger Banking | 0.00% | ~0 |
 | Full House | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
-| Gentle Persuasion | 0.00% | ~0 |
 | Georgia on my Mind | 0.00% | ~0 |
 | Global Hegemony | 0.00% | ~0 |
 | God Tier | 0.00% | ~0 |
@@ -136,7 +147,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
-| That's a Grand Army | 0.00% | ~0 |
 | Grand Coalition | 0.00% | ~0 |
 | Grand Duchy | 0.00% | ~0 |
 | I'll graze my horse here.. And here… | 0.00% | ~0 |
@@ -161,8 +171,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Iron Price | 0.00% | ~0 |
 | Isn't this the way to India? | 0.00% | ~0 |
 | Italian Ambition | 0.00% | ~0 |
-| It's all about luck | 0.00% | ~0 |
-| It's all about the money | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
@@ -189,7 +197,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Levant Turnabout | 0.00% | ~0 |
 | Liberty or Death | 0.00% | ~0 |
 | Lion of the North | 0.00% | ~0 |
-| Live Long and Prosper | 0.00% | ~0 |
 | Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Made in Japan | 0.00% | ~0 |
@@ -220,7 +227,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Nobody wants to die | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
 | Not just Pizza | 0.00% | ~0 |
-| Not so sad a state... | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
 | On the Rhodes Again | 0.00% | ~0 |
 | One Faith | 0.00% | ~0 |
@@ -291,9 +297,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sworn Fealty | 0.00% | ~0 |
 | Take that, von Habsburgs! | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
-| Tear Down This Wall | 0.00% | ~0 |
 | Terra Mariana | 0.00% | ~0 |
-| That is mine! | 0.00% | ~0 |
 | That's a Silk Road | 0.00% | ~0 |
 | That's No Mon | 0.00% | ~0 |
 | The Bohemians | 0.00% | ~0 |
@@ -301,7 +305,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Chrysanthemum Throne | 0.00% | ~0 |
 | The Coin is Stronger than the Sword | 0.00% | ~0 |
 | The Continuation of Diplomacy | 0.00% | ~0 |
-| The Five Colonies | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Grand Armada | 0.00% | ~0 |
 | The Great Khan | 0.00% | ~0 |
@@ -311,7 +314,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
 | The Power of Three | 0.00% | ~0 |
-| The Princess is in this Castle | 0.00% | ~0 |
 | The Re-Reconquista | 0.00% | ~0 |
 | The Rising Sun | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
@@ -331,7 +333,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Traditional Player | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
 | Trophy Hunter | 0.00% | ~0 |
-| True Catholic | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Truly Divine Ruler | 0.00% | ~0 |
 | Trustworthy | 0.00% | ~0 |
@@ -343,7 +344,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Vasa or Wettin? | 0.00% | ~0 |
 | Venetian Sea | 0.00% | ~0 |
 | Victorian Three | 0.00% | ~0 |
-| Victorious! | 0.00% | ~0 |
 | Viva la Revolución! | 0.00% | ~0 |
 | Voltaire's Nightmare | 0.00% | ~0 |
 | Voting Streak | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,317 (Ranked 41)  
+Progressed: 448,345 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,7 +570,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,317 | 1 |
+| 2023-11-06 | 448,345 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
 Sum: 56,250 (Ranked 24)  

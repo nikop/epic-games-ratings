@@ -24,6 +24,7 @@ Rating: 4.60 (Ranked 407)
 | Mighty Hoard | 6.00% | ~316 |
 | Valley of Wonders | 5.00% | ~264 |
 | Digging for Treasure | 5.00% | ~264 |
+| Preparation Is Everything | 5.00% | ~264 |
 | Fiery Friend | 5.00% | ~264 |
 | Against the Odds | 5.00% | ~264 |
 | Impenetrable Fortress | 5.00% | ~264 |
@@ -31,7 +32,6 @@ Rating: 4.60 (Ranked 407)
 | Return of the Wizard King | 4.00% | ~211 |
 | Arch Mage | 4.00% | ~211 |
 | Enchanted Archipelago | 4.00% | ~211 |
-| Preparation Is Everything | 4.00% | ~211 |
 | God Emperor | 3.00% | ~158 |
 | Lord of Chaos | 3.00% | ~158 |
 | The Creator | 3.00% | ~158 |

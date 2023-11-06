@@ -35,28 +35,28 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.20% | ~48 |
 | Dirty Deeds | 0.20% | ~48 |
 | Easy Come, Easy Go | 0.20% | ~48 |
-| City Lights | 0.10% | ~895 |
-| To Bad Decisions! | 0.10% | ~895 |
-| The Wandering Fool | 0.10% | ~895 |
-| Autojock | 0.10% | ~895 |
-| Frequent Flyer | 0.10% | ~895 |
-| Gunslinger | 0.10% | ~895 |
-| Mean Streets | 0.10% | ~895 |
-| Little Tokyo | 0.10% | ~895 |
-| Must Be Rats | 0.10% | ~895 |
-| Breathtaking | 0.10% | ~895 |
-| The Wasteland | 0.10% | ~895 |
-| Daemon In The Shell | 0.10% | ~895 |
-| Ten out of Ten | 0.10% | ~895 |
-| Temperance | 0.10% | ~895 |
-| Rough Landing | 0.10% | ~895 |
-| The Devil | 0.10% | ~895 |
-| The Star | 0.10% | ~895 |
-| The Sun | 0.10% | ~895 |
-| Greetings from Pacifica! | 0.10% | ~895 |
-| The Jungle | 0.10% | ~895 |
-| Two Heads, One Bullet | 0.10% | ~895 |
-| It's Elementary | 0.10% | ~895 |
+| City Lights | 0.10% | ~896 |
+| To Bad Decisions! | 0.10% | ~896 |
+| The Wandering Fool | 0.10% | ~896 |
+| Autojock | 0.10% | ~896 |
+| Frequent Flyer | 0.10% | ~896 |
+| Gunslinger | 0.10% | ~896 |
+| Mean Streets | 0.10% | ~896 |
+| Little Tokyo | 0.10% | ~896 |
+| Must Be Rats | 0.10% | ~896 |
+| Breathtaking | 0.10% | ~896 |
+| The Wasteland | 0.10% | ~896 |
+| Daemon In The Shell | 0.10% | ~896 |
+| Ten out of Ten | 0.10% | ~896 |
+| Temperance | 0.10% | ~896 |
+| Rough Landing | 0.10% | ~896 |
+| The Devil | 0.10% | ~896 |
+| The Star | 0.10% | ~896 |
+| The Sun | 0.10% | ~896 |
+| Greetings from Pacifica! | 0.10% | ~896 |
+| The Jungle | 0.10% | ~896 |
+| Two Heads, One Bullet | 0.10% | ~896 |
+| It's Elementary | 0.10% | ~896 |
 | The APB is Not Enough | 0.10% | ~24 |
 | Judgement Day | 0.10% | ~24 |
 | King of Cups | 0.10% | ~24 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,495 (Ranked 15)  
+Progressed: 895,500 (Ranked 15)  
 Completed: 2,747 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,10 +274,10 @@ Completed: 2,747 (0.31%) (Ranked 222)
 | 2023-11-03 | 895,092 | 2,741 |
 | 2023-11-04 | 895,267 | 2,744 |
 | 2023-11-05 | 895,449 | 2,747 |
-| 2023-11-06 | 895,495 | 2,747 |
+| 2023-11-06 | 895,500 | 2,747 |
 ## Awards
 Max (Character Customization): 104,068  (Ranked 9)  
-Sum: 344,186 (Ranked 10)  
+Sum: 344,275 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -289,7 +289,7 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 19,129 |
 | This game is Extremely Fun | 18,891 |
 | This game has Amazing Characters | 18,791 |
-| This game is Relaxing | 18,028 |
+| This game is Relaxing | 18,117 |
 | This game has Quickly Understood Controls | 18,016 |
 | This game has a Creative Community | 12,494 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -586,4 +586,4 @@ Diff (max vs sum): -1
 | 2023-11-03 | 4.64 | - | 103,657 | 340,708 |
 | 2023-11-04 | 4.64 | - | 103,855 | 341,961 |
 | 2023-11-05 | 4.64 | - | 104,068 | 343,386 |
-| 2023-11-06 | 4.64 | - | 104,068 | 344,186 |
+| 2023-11-06 | 4.64 | - | 104,068 | 344,275 |

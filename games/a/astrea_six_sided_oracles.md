@@ -19,10 +19,10 @@
 | Anomaly Destroyer | 26.00% | ~18 |
 | Stellar Dismantler | 26.00% | ~18 |
 | Behenian Champion | 25.00% | ~17 |
-| Loyal Partner | 22.00% | ~15 |
+| Loyal Partner | 24.00% | ~16 |
 | Star Killer | 22.00% | ~15 |
+| Aquarian Champion | 22.00% | ~15 |
 | Astral Adventurer | 21.00% | ~14 |
-| Aquarian Champion | 21.00% | ~14 |
 | Shard Spender | 19.00% | ~13 |
 | Astral Seeker | 18.00% | ~12 |
 | Heart Gate | 18.00% | ~12 |

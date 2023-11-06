@@ -3073,9 +3073,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 81684,
+  "EOS_Progressed": 81685,
   "EOS_Completed": 155,
-  "EOS_NewPlayers": 886,
+  "EOS_NewPlayers": 879,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -25278,6 +25278,11 @@
       "Time": "2023-11-06T10:08:38.5646583+00:00",
       "NumProgressed": 81684,
       "NumCompleted": 155
+    },
+    {
+      "Time": "2023-11-06T11:08:45.2563048+00:00",
+      "NumProgressed": 81685,
+      "NumCompleted": 155
     }
   ],
   "TotalAchievements": 30,
@@ -25313,7 +25318,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 18787
+      "UsersEstimate": 18788
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -25465,7 +25470,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 28589
+      "UsersEstimate": 28590
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -25528,15 +25533,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 81684,
+      "Progressed": 81685,
       "Completed": 155
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-05T13:00:40.9548756+00:00",
-  "LastChanged_Achievements": "2023-11-06T10:08:38.5646574+00:00",
+  "LastChanged_Achievements": "2023-11-06T11:08:45.2563036+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.8339695+00:00",
-  "LastUpdate_Ratings": "2023-11-06T09:58:50.0963931+00:00",
-  "LastUpdate_Achievements": "2023-11-06T10:08:38.5648547+00:00"
+  "LastUpdate_Ratings": "2023-11-06T10:58:27.3496215+00:00",
+  "LastUpdate_Achievements": "2023-11-06T11:08:45.2564383+00:00"
 }

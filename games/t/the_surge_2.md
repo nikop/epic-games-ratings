@@ -1,7 +1,7 @@
 # The Surge 2
 [Store](https://store.epicgames.com/en-US/p/the-surge-2-e7df70)  
 [View Rawdata](../../db/t/the_surge_2.json)  
-Rating: 4.24 (Ranked 877)  
+Rating: 4.24 (Ranked 878)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,7 +24,7 @@ Rating: 4.24 (Ranked 877)
 | Court Martial | 19.00% | ~412 |
 | Clean Cut | 19.00% | ~412 |
 | Unforeseeable Consequences | 19.00% | ~412 |
-| Dead Again | 17.00% | ~369 |
+| Dead Again | 18.00% | ~390 |
 | Full Arsenal | 17.00% | ~369 |
 | Can't Trust Banks | 15.00% | ~325 |
 | Mommy Dearest | 13.00% | ~282 |
@@ -39,9 +39,9 @@ Rating: 4.24 (Ranked 877)
 | Denying Prophecy | 9.00% | ~195 |
 | Stimulating The Local Economy | 9.00% | ~195 |
 | A Little Banged Up | 8.00% | ~174 |
+| Following In Their Footsteps | 8.00% | ~174 |
 | Defense in Depth | 8.00% | ~174 |
 | Reverse Engineering | 7.00% | ~152 |
-| Following In Their Footsteps | 7.00% | ~152 |
 | Reborn | 6.00% | ~130 |
 | Remote Surgery | 6.00% | ~130 |
 | Turbo Booster | 6.00% | ~130 |
