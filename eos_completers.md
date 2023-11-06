@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.73% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.93% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.92% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -114,12 +114,12 @@
 | 112 | [Lamentum](games/l/lamentum.md) | 2.43% |
 | 113 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
 | 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
-| 115 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.35% |
 | 115 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
+| 116 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.34% |
 | 117 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.26% |
 | 118 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.22% |
 | 119 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
-| 120 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.94% |
+| 120 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.93% |
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
 | 122 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.89% |
 | 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
@@ -142,8 +142,8 @@
 | 140 | [Chorus](games/c/chorus.md) | 1.34% |
 | 140 | [Poosh XL](games/p/poosh_xl.md) | 1.34% |
 | 142 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.33% |
-| 143 | [Lemon Cake](games/l/lemon_cake.md) | 1.29% |
-| 144 | [Late Shift](games/l/late_shift.md) | 1.28% |
+| 143 | [Late Shift](games/l/late_shift.md) | 1.28% |
+| 143 | [Lemon Cake](games/l/lemon_cake.md) | 1.28% |
 | 145 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.27% |
 | 145 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.27% |
 | 147 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.25% |
@@ -167,7 +167,7 @@
 | 165 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 166 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 167 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.83% |
-| 167 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.83% |
+| 168 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.82% |
 | 169 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 170 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 171 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.75% |
@@ -178,11 +178,11 @@
 | 175 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.62% |
 | 175 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.62% |
 | 178 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
+| 179 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.60% |
 | 179 | [Haven](games/h/haven.md) | 0.60% |
 | 179 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.60% |
 | 179 | [The Surge 2](games/t/the_surge_2.md) | 0.60% |
-| 182 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.59% |
-| 182 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
+| 183 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.59% |
 | 184 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 185 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.57% |
 | 186 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
@@ -212,8 +212,8 @@
 | 209 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 209 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
 | 209 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.38% |
-| 209 | [The Surge](games/t/the_surge.md) | 0.38% |
 | 209 | [Train Valley](games/t/train_valley.md) | 0.38% |
+| 214 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 215 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 215 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 217 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |

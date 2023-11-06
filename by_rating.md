@@ -208,26 +208,26 @@
 | 197 | [Shady Part of Me](games/s/shady_part_of_me.md) | 4.71 | 0 | 547 |
 | 197 | [shapez](games/s/shapez.md) | 4.71 | 0 | 547 |
 | 197 | [Super Meat Boy](games/s/super_meat_boy.md) | 4.71 | 83 | 382 |
-| 197 | [SUPERHOT](games/s/superhot.md) | 4.71 | 0 | 547 |
 | 197 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,065 | 110 |
 | 197 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 547 |
-| 212 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,596 | 78 |
-| 212 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 114 | 342 |
-| 212 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 444 | 215 |
-| 212 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,836 | 47 |
-| 212 | [For The King](games/f/for_the_king.md) | 4.70 | 403 | 222 |
-| 212 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,335 | 135 |
-| 212 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 143 | 319 |
-| 212 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,923 | 114 |
-| 212 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 547 |
-| 212 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 547 |
-| 212 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 48 | 433 |
-| 212 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 547 |
-| 212 | [The Witness](games/t/the_witness.md) | 4.70 | 183 | 294 |
-| 212 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,666 | 77 |
-| 212 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 0 | 547 |
-| 212 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 547 |
-| 212 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 547 |
+| 211 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,596 | 78 |
+| 211 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 114 | 342 |
+| 211 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 444 | 215 |
+| 211 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,836 | 47 |
+| 211 | [For The King](games/f/for_the_king.md) | 4.70 | 403 | 222 |
+| 211 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,335 | 135 |
+| 211 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 143 | 319 |
+| 211 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,923 | 114 |
+| 211 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 547 |
+| 211 | [SUPERHOT](games/s/superhot.md) | 4.70 | 0 | 547 |
+| 211 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 547 |
+| 211 | [The Alto Collection](games/t/the_alto_collection.md) | 4.70 | 48 | 433 |
+| 211 | [The End is Nigh](games/t/the_end_is_nigh.md) | 4.70 | 0 | 547 |
+| 211 | [The Witness](games/t/the_witness.md) | 4.70 | 183 | 294 |
+| 211 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4.70 | 4,666 | 77 |
+| 211 | [TowerFall Ascension](games/t/towerfall_ascension.md) | 4.70 | 0 | 547 |
+| 211 | [World of Goo](games/w/world_of_goo.md) | 4.70 | 0 | 547 |
+| 211 | [Yoku's Island Express](games/y/yoku's_island_express.md) | 4.70 | 0 | 547 |
 | 229 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 547 |
 | 229 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 120,045 | 8 |
 | 229 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 547 |
@@ -540,7 +540,7 @@
 | 536 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 22 | 529 |
 | 536 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 469 |
 | 536 | [Everything](games/e/everything.md) | 4.53 | 0 | 547 |
-| 536 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,497 | 130 |
+| 536 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 4.53 | 1,501 | 130 |
 | 536 | [Ravenous Devils](games/r/ravenous_devils.md) | 4.53 | 0 | 547 |
 | 536 | [Sable](games/s/sable.md) | 4.53 | 25 | 515 |
 | 536 | [Souldiers](games/s/souldiers.md) | 4.53 | 0 | 547 |
