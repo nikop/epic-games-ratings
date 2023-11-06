@@ -764,6 +764,7 @@
 | [Weird West: Definitive Edition](../games/w/weird_west.md) | 53 | 1,000 |
 | [while True: learn()](../games/w/while_true__learn().md) | 28 | 1,000 |
 | [Who Pressed Mute on Uncle Marcus?](../games/w/who_pressed_mute_on_uncle_marcus.md) | 17 | 1,000 |
+| [Who's Your Daddy?!](../games/6/63d0293742c943d68b88af4173b1a5d0.md) | 28 | 1,000 |
 | [Wild Animal Sports Day](../games/w/wild_animal_sports_day.md) | 10 | 1,000 |
 | [WILD HEARTS™ Standard Edition](../games/w/wild_hearts™_standard_edition.md) | 48 | 1,000 |
 | [Wildcat Gun Machine](../games/w/wildcat_gun_machine.md) | 20 | 1,000 |

@@ -441,6 +441,7 @@
 | [Them's Fightin' Herds](../games/t/them's_fightin'_herds.md) | 28 | 1,000 |
 | [We Are OFK](../games/w/we_are_ofk.md) | 28 | 1,000 |
 | [while True: learn()](../games/w/while_true__learn().md) | 28 | 1,000 |
+| [Who's Your Daddy?!](../games/6/63d0293742c943d68b88af4173b1a5d0.md) | 28 | 1,000 |
 | [Agatha Christie - Murder on the Orient Express](../games/b/b1c68be50f37489ca95ff2b7ed616490.md) | 27 | 1,000 |
 | [Airborne Kingdom](../games/a/airborne_kingdom.md) | 27 | 1,000 |
 | [Ebenezer and the Invisible World](../games/6/6ff11bcfbc474680a15eae71234a8188.md) | 27 | 1,000 |
