@@ -627,9 +627,9 @@
       "Count": 85
     }
   ],
-  "EOS_Progressed": 50599,
+  "EOS_Progressed": 50602,
   "EOS_Completed": 46,
-  "EOS_NewPlayers": 2222,
+  "EOS_NewPlayers": 2210,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8572,6 +8572,11 @@
       "Time": "2023-11-05T23:06:07.2443191+00:00",
       "NumProgressed": 50599,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-11-06T00:05:01.0872636+00:00",
+      "NumProgressed": 50602,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -8784,7 +8789,7 @@
       "Name": "Initiation",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13662
+      "UsersEstimate": 13663
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -8983,15 +8988,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 50599,
+      "Progressed": 50602,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-04T19:59:55.55078+00:00",
-  "LastChanged_Achievements": "2023-11-05T23:06:07.2443185+00:00",
+  "LastChanged_Achievements": "2023-11-06T00:05:01.0872632+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:33.0427887+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:01:31.1010538+00:00",
-  "LastUpdate_Achievements": "2023-11-05T23:06:07.2444076+00:00"
+  "LastUpdate_Ratings": "2023-11-06T00:00:12.9287816+00:00",
+  "LastUpdate_Achievements": "2023-11-06T00:05:01.087362+00:00"
 }

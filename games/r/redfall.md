@@ -40,11 +40,11 @@ Rating: 3.51 (Ranked 1,032)
 | Revelations | 0.30% | ~5 |
 | Block Party | 0.30% | ~5 |
 | Sisterhood | 0.30% | ~5 |
+| What Lies Below | 0.30% | ~5 |
 | Starve the Beast | 0.30% | ~5 |
 | Nice Try | 0.30% | ~5 |
 | Dexterity Save | 0.30% | ~5 |
 | Neighborhood Watch | 0.20% | ~4 |
-| What Lies Below | 0.20% | ~4 |
 | Bloody Initiate | 0.20% | ~4 |
 | So Anyway I Started Blasting | 0.20% | ~4 |
 | Blacklight Down | 0.20% | ~4 |

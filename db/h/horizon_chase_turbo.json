@@ -4,7 +4,7 @@
   "ProductSlug": "horizon-chase-turbo",
   "Ranking_Rating": 500,
   "Ranking_Popularity": 306,
-  "Ranking_PopularitySum": 234,
+  "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 13,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 36,
@@ -2723,10 +2723,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 1364,
       "NumberOfAwardsMax": 165
+    },
+    {
+      "Time": "2023-11-05T23:58:11.4959901+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1365,
+      "NumberOfAwardsMax": 165
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1364,
+  "NumberOfAwards": 1365,
   "NumberOfAwardsMax": 165,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2800,12 +2806,12 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 86
+      "Count": 87
     }
   ],
-  "EOS_Progressed": 1071032,
+  "EOS_Progressed": 1071042,
   "EOS_Completed": 479,
-  "EOS_NewPlayers": 3163,
+  "EOS_NewPlayers": 3166,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -25488,6 +25494,11 @@
       "Time": "2023-11-05T23:09:19.8958702+00:00",
       "NumProgressed": 1071032,
       "NumCompleted": 479
+    },
+    {
+      "Time": "2023-11-06T00:08:47.6475542+00:00",
+      "NumProgressed": 1071042,
+      "NumCompleted": 479
     }
   ],
   "TotalAchievements": 37,
@@ -25499,7 +25510,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 364151
+      "UsersEstimate": 364154
     },
     {
       "ID": "CompleteAustralia",
@@ -25523,7 +25534,7 @@
       "Name": "California Dreamer",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 74972
+      "UsersEstimate": 74973
     },
     {
       "ID": "CompleteChile",
@@ -25531,7 +25542,7 @@
       "Name": "Carm\u00E9n\u00E8re Taster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42841
+      "UsersEstimate": 42842
     },
     {
       "ID": "CompleteChina",
@@ -25691,7 +25702,7 @@
       "Name": "Quickie",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 117814
+      "UsersEstimate": 117815
     },
     {
       "ID": "FirstRaceWorldTour",
@@ -25699,7 +25710,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 963929
+      "UsersEstimate": 963938
     },
     {
       "ID": "GetLotsOfScore",
@@ -25731,7 +25742,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 503385
+      "UsersEstimate": 503390
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -25739,7 +25750,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 192786
+      "UsersEstimate": 192788
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -25747,7 +25758,7 @@
       "Name": "Comeback",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 42841
+      "UsersEstimate": 42842
     },
     {
       "ID": "RunLotsOfMiles",
@@ -25763,7 +25774,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 674750
+      "UsersEstimate": 674756
     },
     {
       "ID": "WinBySmallDifference",
@@ -25771,7 +25782,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 192786
+      "UsersEstimate": 192788
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -25794,15 +25805,15 @@
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1071032,
+      "Progressed": 1071042,
       "Completed": 479
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
-  "LastChanged": "2023-11-05T17:02:11.2132833+00:00",
-  "LastChanged_Achievements": "2023-11-05T23:09:19.8958695+00:00",
+  "LastChanged": "2023-11-05T23:58:11.49599+00:00",
+  "LastChanged_Achievements": "2023-11-06T00:08:47.6475536+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:16.1798434+00:00",
-  "LastUpdate_Ratings": "2023-11-05T22:58:27.2444367+00:00",
-  "LastUpdate_Achievements": "2023-11-05T23:09:19.8960377+00:00"
+  "LastUpdate_Ratings": "2023-11-05T23:58:11.4959906+00:00",
+  "LastUpdate_Achievements": "2023-11-06T00:08:47.6477397+00:00"
 }

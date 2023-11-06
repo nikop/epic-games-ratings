@@ -12,7 +12,7 @@
 | Puppy | 62.00% | ~130 |
 | Coal's fur | 58.00% | ~122 |
 | Blue's drawing | 53.00% | ~111 |
-| Mysterious footprints | 48.00% | ~101 |
+| Mysterious footprints | 49.00% | ~103 |
 | Glass shards | 46.00% | ~97 |
 | Complicated padlock | 41.00% | ~86 |
 | Big metal ruler | 40.00% | ~84 |

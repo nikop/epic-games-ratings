@@ -11,6 +11,7 @@ Rating: 4.54 (Ranked 521)
 | Welcome To Hell-A | 0.40% | ~2,854 |
 | Git Gutte! | 0.30% | ~2,141 |
 | Anger Management | 0.30% | ~2,141 |
+| Bookworm | 0.30% | ~2,141 |
 | Break A Leg | 0.30% | ~2,141 |
 | Coup de Grâce | 0.30% | ~2,141 |
 | Hazardous Materials | 0.30% | ~2,141 |
@@ -19,7 +20,6 @@ Rating: 4.54 (Ranked 521)
 | Dr. Reed, I Presume? | 0.20% | ~1,427 |
 | Making Your Mark | 0.20% | ~1,427 |
 | Perks of the Job | 0.20% | ~1,427 |
-| Bookworm | 0.20% | ~1,427 |
 | I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,427 |
 | But Doctor, I am Butcho | 0.20% | ~1,427 |
 | Slayer Squad | 0.20% | ~1,427 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,574 (Ranked 21)  
+Progressed: 713,606 (Ranked 21)  
 Completed: 2,341 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,6 +257,7 @@ Completed: 2,341 (0.33%) (Ranked 217)
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
+| 2023-11-06 | 713,606 | 2,341 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 54)  
 Sum: 10,687 (Ranked 89)  

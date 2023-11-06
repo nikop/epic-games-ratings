@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -4134,9 +4134,9 @@
       "ID": "STB_MISSION10_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Meltridge",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 446
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -4375,8 +4375,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-11-05T23:08:14.1136667+00:00",
+  "LastChanged_Achievements": "2023-11-06T00:06:31.7758486+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:18.9274314+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:01:38.8157155+00:00",
-  "LastUpdate_Achievements": "2023-11-05T23:08:14.1137386+00:00"
+  "LastUpdate_Ratings": "2023-11-06T00:00:18.2978005+00:00",
+  "LastUpdate_Achievements": "2023-11-06T00:06:31.775924+00:00"
 }

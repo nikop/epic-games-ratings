@@ -2698,9 +2698,9 @@
       "ID": "PidgeDefeated",
       "SetID": "a9e499d",
       "Name": "The Prince in Heels",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 193
+      "UsersEstimate": 202
     },
     {
       "ID": "RewindDamage1",
@@ -2851,8 +2851,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2023-10-16T01:44:02.2359587+00:00",
-  "LastChanged_Achievements": "2023-11-05T23:06:52.2762257+00:00",
+  "LastChanged_Achievements": "2023-11-06T00:05:33.7563114+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:27.654666+00:00",
-  "LastUpdate_Ratings": "2023-11-05T22:57:31.2288323+00:00",
-  "LastUpdate_Achievements": "2023-11-05T23:06:52.2762877+00:00"
+  "LastUpdate_Ratings": "2023-11-05T23:57:34.4661413+00:00",
+  "LastUpdate_Achievements": "2023-11-06T00:05:33.7563763+00:00"
 }

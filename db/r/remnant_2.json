@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 22,
+  "Ranking_EOS_NewPlayers": 23,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -3867,9 +3867,9 @@
       "Count": 270
     }
   ],
-  "EOS_Progressed": 218156,
+  "EOS_Progressed": 218162,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 5989,
+  "EOS_NewPlayers": 5899,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16642,6 +16642,11 @@
       "Time": "2023-11-05T23:06:15.178447+00:00",
       "NumProgressed": 218156,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-11-06T00:05:07.2326466+00:00",
+      "NumProgressed": 218162,
+      "NumCompleted": 431
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -16702,7 +16707,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -16734,7 +16739,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17452
+      "UsersEstimate": 17453
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -16806,7 +16811,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "Meet_Meidra",
@@ -16838,7 +16843,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19634
+      "UsersEstimate": 19635
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -16846,7 +16851,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -16886,7 +16891,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "Obtain_Guns_A",
@@ -17030,7 +17035,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -17053,7 +17058,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218156,
+      "Progressed": 218162,
       "Completed": 431
     }
   ],
@@ -17061,8 +17066,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-05T22:03:26.9344011+00:00",
-  "LastChanged_Achievements": "2023-11-05T23:06:15.1784462+00:00",
+  "LastChanged_Achievements": "2023-11-06T00:05:07.232646+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:03:21.1760815+00:00",
-  "LastUpdate_Achievements": "2023-11-05T23:06:15.1786631+00:00"
+  "LastUpdate_Ratings": "2023-11-06T00:03:05.4276281+00:00",
+  "LastUpdate_Achievements": "2023-11-06T00:05:07.2327778+00:00"
 }

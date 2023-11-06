@@ -9,8 +9,8 @@
 | The great escape | 25.00% | ~114 |
 | The Preacher's fate | 24.00% | ~109 |
 | A new dawn | 21.00% | ~96 |
+| Scholar | 19.00% | ~87 |
 | True G3M4R | 18.00% | ~82 |
-| Scholar | 18.00% | ~82 |
 | The darkness | 18.00% | ~82 |
 | I did it | 16.00% | ~73 |
 | Cable guy | 16.00% | ~73 |

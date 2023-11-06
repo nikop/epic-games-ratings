@@ -14,7 +14,7 @@
 | Bromance | 31.00% | ~64 |
 | Good job, nerd | 31.00% | ~64 |
 | Mission Complete | 30.00% | ~62 |
-| Lootaphilia | 23.00% | ~48 |
+| Lootaphilia | 24.00% | ~50 |
 | Maybe you should give it another go | 12.00% | ~25 |
 | I used to think I was indecisive... | 7.00% | ~14 |
 | Mikey Lizard | 6.00% | ~12 |

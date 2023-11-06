@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2012,
+  "EOS_Progressed": 2013,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4377,6 +4377,11 @@
       "Time": "2023-11-05T22:10:16.3304955+00:00",
       "NumProgressed": 2012,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T00:09:20.263123+00:00",
+      "NumProgressed": 2013,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4389,7 +4394,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4613,7 +4618,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -4685,7 +4690,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4715,9 +4720,9 @@
       "ID": "ML_ACHIEVEMENT_42",
       "SetID": "c7hf6a4",
       "Name": "In Search of Perfection",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -4741,7 +4746,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4780,14 +4785,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2012,
+      "Progressed": 2013,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-05T23:10:06.6816994+00:00",
+  "LastChanged_Achievements": "2023-11-06T00:09:20.2631222+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:01:00.5052224+00:00",
-  "LastUpdate_Achievements": "2023-11-05T23:10:06.6817717+00:00"
+  "LastUpdate_Ratings": "2023-11-05T23:59:53.1150611+00:00",
+  "LastUpdate_Achievements": "2023-11-06T00:09:20.263199+00:00"
 }

@@ -205,9 +205,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16361,
+  "EOS_Progressed": 16362,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 1597,
+  "EOS_NewPlayers": 1590,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.05,
   "EosHistory": [
@@ -7845,6 +7845,11 @@
       "Time": "2023-11-05T23:08:49.5154788+00:00",
       "NumProgressed": 16361,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-06T00:08:26.4324616+00:00",
+      "NumProgressed": 16362,
+      "NumCompleted": 171
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -7873,7 +7878,7 @@
       "Name": "The Holocron Awaits",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 7526
+      "UsersEstimate": 7527
     },
     {
       "ID": "achievement_12",
@@ -7905,7 +7910,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 8344
+      "UsersEstimate": 8345
     },
     {
       "ID": "achievement_16",
@@ -7937,7 +7942,7 @@
       "Name": "Perfect Timing",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 8671
+      "UsersEstimate": 8672
     },
     {
       "ID": "achievement_2",
@@ -7993,7 +7998,7 @@
       "Name": "Can\u0027t Touch This",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "achievement_26",
@@ -8033,7 +8038,7 @@
       "Name": "Legendary Beasts",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3599
+      "UsersEstimate": 3600
     },
     {
       "ID": "achievement_30",
@@ -8081,7 +8086,7 @@
       "Name": "Sabersmith",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 13089
+      "UsersEstimate": 13090
     },
     {
       "ID": "achievement_36",
@@ -8089,7 +8094,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 8344
+      "UsersEstimate": 8345
     },
     {
       "ID": "achievement_37",
@@ -8105,7 +8110,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 7035
+      "UsersEstimate": 7036
     },
     {
       "ID": "achievement_39",
@@ -8145,7 +8150,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 16361
+      "UsersEstimate": 16362
     },
     {
       "ID": "achievement_8",
@@ -8153,7 +8158,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 15216
+      "UsersEstimate": 15217
     },
     {
       "ID": "achievement_9",
@@ -8168,7 +8173,7 @@
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 16361,
+      "Progressed": 16362,
       "Completed": 171
     }
   ],
@@ -8176,8 +8181,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-11-03T22:13:33.7394354+00:00",
-  "LastChanged_Achievements": "2023-11-05T23:08:49.5154781+00:00",
+  "LastChanged_Achievements": "2023-11-06T00:08:26.432461+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:23.5112937+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:00:29.0287838+00:00",
-  "LastUpdate_Achievements": "2023-11-05T23:08:49.5155576+00:00"
+  "LastUpdate_Ratings": "2023-11-05T23:59:32.9755321+00:00",
+  "LastUpdate_Achievements": "2023-11-06T00:08:26.43255+00:00"
 }

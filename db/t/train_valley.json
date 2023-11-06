@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-27T14:00:00+00:00",
@@ -1375,9 +1375,9 @@
       "ID": "09_russia",
       "SetID": "chb1m60",
       "Name": "Russia",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "10_japan",
@@ -1399,9 +1399,9 @@
       "ID": "12_roll",
       "SetID": "chb1m60",
       "Name": "Let\u0027s roll!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 141
     },
     {
       "ID": "13_bunkrupt",
@@ -1631,8 +1631,8 @@
   "FirstSeen": "2022-07-22T20:22:17.7619928+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:48.3897397+00:00",
   "LastChanged": "2023-09-23T19:00:36.0392229+00:00",
-  "LastChanged_Achievements": "2023-11-05T23:07:49.681822+00:00",
+  "LastChanged_Achievements": "2023-11-06T00:06:14.6185955+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:20.0727765+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:01:58.2646997+00:00",
-  "LastUpdate_Achievements": "2023-11-05T23:07:49.6818653+00:00"
+  "LastUpdate_Ratings": "2023-11-06T00:00:31.0720538+00:00",
+  "LastUpdate_Achievements": "2023-11-06T00:06:14.6186351+00:00"
 }

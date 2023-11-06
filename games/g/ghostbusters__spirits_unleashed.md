@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 583)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 7.00% | ~2,120 |
+| Stylish | 7.00% | ~2,121 |
 | Advancement | 5.00% | ~1,515 |
 | Meticulously Efficient | 5.00% | ~1,515 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,212 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 583)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,292 (Ranked 122)  
+Progressed: 30,299 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,6 +257,7 @@ Completed: 65 (0.21%) (Ranked 237)
 | 2023-11-03 | 29,943 | 65 |
 | 2023-11-04 | 30,114 | 65 |
 | 2023-11-05 | 30,292 | 65 |
+| 2023-11-06 | 30,299 | 65 |
 ## Awards
 Max (Great for Beginners): 302  (Ranked 246)  
 Sum: 2,703 (Ranked 180)  

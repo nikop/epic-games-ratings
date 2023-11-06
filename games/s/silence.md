@@ -22,11 +22,11 @@
 | Chapter III | 24.00% | ~34 |
 | Like a moth in the Wind | 24.00% | ~34 |
 | Quite a buggy game | 21.00% | ~29 |
+| Mirror mirror on the wall... | 21.00% | ~29 |
 | Pacifist | 20.00% | ~28 |
-| Mirror mirror on the wall... | 20.00% | ~28 |
 | Fastidious Clown | 19.00% | ~27 |
+| Home is where the heart is | 19.00% | ~27 |
 | It's not easy being green! | 18.00% | ~25 |
-| Home is where the heart is | 18.00% | ~25 |
 | Death is a part of life | 16.00% | ~22 |
 | Master of Thermodynamics | 15.00% | ~21 |
 | Unfullfilled dreams | 13.00% | ~18 |

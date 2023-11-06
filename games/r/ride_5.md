@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 44.00% | ~885 |
-| First Love | 43.00% | ~865 |
+| Eat My Dust | 44.00% | ~886 |
+| First Love | 43.00% | ~866 |
 | Clean Race | 41.00% | ~825 |
 | Hear That Roar! | 39.00% | ~785 |
-| Rivals to the End | 29.00% | ~583 |
+| Rivals to the End | 29.00% | ~584 |
 | Bitter Rivalry | 26.00% | ~523 |
 | We're Going to Need a Bigger Garage | 24.00% | ~483 |
 | Champagne Spray | 24.00% | ~483 |
@@ -23,7 +23,7 @@
 | Is It the Right Size? | 8.00% | ~161 |
 | Evangelist | 6.00% | ~121 |
 | Make It Your Own! | 5.00% | ~101 |
-| I Make the Rules! | 4.00% | ~80 |
+| I Make the Rules! | 4.00% | ~81 |
 | Spoilt for Choice | 3.00% | ~60 |
 | Cherry Blossom and Temples | 3.00% | ~60 |
 | La Dolce Vita | 3.00% | ~60 |
@@ -39,8 +39,8 @@
 | Next Level | 1.00% | ~20 |
 | I Don't Stop | 1.00% | ~20 |
 | Exhausted but Happy | 0.70% | ~14 |
+| In Search of Perfection | 0.60% | ~12 |
 | Globe-trotter | 0.50% | ~10 |
-| In Search of Perfection | 0.50% | ~10 |
 | Maximum Endurance | 0.30% | ~6 |
 | All My Own Toys | 0.20% | ~4 |
 | Full Power | 0.20% | ~4 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,012 (Ranked 215)  
+Progressed: 2,013 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,3 +120,4 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-03 | 1,971 | 0 |
 | 2023-11-04 | 1,991 | 0 |
 | 2023-11-05 | 2,012 | 0 |
+| 2023-11-06 | 2,013 | 0 |

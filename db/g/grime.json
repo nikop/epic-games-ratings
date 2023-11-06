@@ -5,7 +5,7 @@
   "Ranking_Rating": 430,
   "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 348,
-  "Ranking_EOS_Progress": 75,
+  "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 129,
@@ -1387,9 +1387,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156812,
+  "EOS_Progressed": 156820,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1329,
+  "EOS_NewPlayers": 1331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14522,6 +14522,11 @@
       "Time": "2023-11-05T23:08:41.5456772+00:00",
       "NumProgressed": 156812,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T00:08:20.749207+00:00",
+      "NumProgressed": 156820,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14581,7 +14586,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4704
+      "UsersEstimate": 4705
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -14597,7 +14602,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6272
+      "UsersEstimate": 6273
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -14629,7 +14634,7 @@
       "Name": "Shapely",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -14749,7 +14754,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6272
+      "UsersEstimate": 6273
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -14805,7 +14810,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4704
+      "UsersEstimate": 4705
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -14900,21 +14905,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156395,
+      "Progressed": 156403,
       "Completed": 1190
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156812,
+      "Progressed": 156820,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-05T21:00:16.5008825+00:00",
-  "LastChanged_Achievements": "2023-11-05T23:08:41.5456766+00:00",
+  "LastChanged_Achievements": "2023-11-06T00:08:20.7492065+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-05T23:00:47.201564+00:00",
-  "LastUpdate_Achievements": "2023-11-05T23:08:41.5458002+00:00"
+  "LastUpdate_Ratings": "2023-11-05T23:59:44.807149+00:00",
+  "LastUpdate_Achievements": "2023-11-06T00:08:20.7493395+00:00"
 }
