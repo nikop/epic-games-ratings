@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 349,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5176,
+  "EOS_Progressed": 5177,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -873,6 +873,11 @@
       "Time": "2023-11-03T01:48:12.2373569+00:00",
       "NumProgressed": 5176,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-06T05:04:43.4139899+00:00",
+      "NumProgressed": 5177,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 49,
@@ -924,7 +929,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -932,7 +937,7 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -948,7 +953,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -1012,7 +1017,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5072
+      "UsersEstimate": 5073
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1020,7 +1025,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3261
+      "UsersEstimate": 3262
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1028,7 +1033,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1092,7 +1097,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4037
+      "UsersEstimate": 4038
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1108,7 +1113,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1124,7 +1129,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3209
+      "UsersEstimate": 3210
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1132,7 +1137,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -1172,7 +1177,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5072
+      "UsersEstimate": 5073
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1180,7 +1185,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1188,7 +1193,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 776
+      "UsersEstimate": 777
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -1228,7 +1233,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2795
+      "UsersEstimate": 2796
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1260,7 +1265,7 @@
       "Name": "Pardon my Slob",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACHIEVE_WOKE_UP_INN",
@@ -1268,22 +1273,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5176,
+      "Progressed": 5177,
       "Completed": 30
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-05-23T15:00:45.785735+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:04:36.7692019+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:04:43.4139895+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:45.5111784+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:58:32.2406673+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:04:36.7692377+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:58:51.7174944+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:04:43.4140229+00:00"
 }

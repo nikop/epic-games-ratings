@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~80,069 |
+| Sowwy! | 34.00% | ~80,071 |
 | Alt+F4 | 8.00% | ~18,840 |
 | Where's that freaking Dwarf? | 7.00% | ~16,485 |
 | Déjà vu | 6.00% | ~14,130 |
@@ -43,59 +43,59 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 1.00% | ~2,355 |
 | Lust and Debauchery | 1.00% | ~2,355 |
 | Material Girl | 1.00% | ~2,355 |
-| Gargantua | 0.90% | ~2,119 |
+| Gargantua | 0.90% | ~2,120 |
 | In Navalu's footsteps | 0.80% | ~1,884 |
-| Lëgal Legend | 0.70% | ~1,648 |
+| Lëgal Legend | 0.70% | ~1,649 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,413 |
 | We come in peace | 0.60% | ~1,413 |
-| Holistic Adventuring Party | 0.50% | ~1,177 |
-| Law and Order | 0.50% | ~1,177 |
+| Holistic Adventuring Party | 0.50% | ~1,178 |
+| Law and Order | 0.50% | ~1,178 |
 | Scholar of the Lands of Fangh | 0.40% | ~942 |
 | It's been a hard day's night | 0.40% | ~942 |
-| Friendly fire | 0.30% | ~706 |
-| I'd rather... Just... Sing! | 0.30% | ~706 |
-| The number of the counting shalt be 7 | 0.30% | ~706 |
-| Inception | 0.30% | ~706 |
+| Friendly fire | 0.30% | ~707 |
+| I'd rather... Just... Sing! | 0.30% | ~707 |
+| The number of the counting shalt be 7 | 0.30% | ~707 |
+| Inception | 0.30% | ~707 |
 | Free customer service | 0.20% | ~471 |
 | Kudos from your DM | 0.20% | ~471 |
 | Insult to injury | 0.20% | ~471 |
 | 100% satisfaction guarantee | 0.20% | ~471 |
 | Death is for wimps | 0.20% | ~471 |
-| Cursed die | 0.10% | ~235 |
-| Necrophilia | 0.10% | ~235 |
-| The Blood Countess | 0.10% | ~235 |
-| He’s alive! Aliiiive! | 0.10% | ~235 |
-| Restless night | 0.10% | ~235 |
-| King of the Arena | 0.10% | ~235 |
-| Finally free | 0.10% | ~235 |
-| Hoarding | 0.10% | ~235 |
-| Staff cut | 0.10% | ~235 |
-| Legendary brew | 0.10% | ~235 |
-| Elite Adventurers | 0.10% | ~235 |
-| Take your time back in time | 0.10% | ~235 |
-| Egghead | 0.10% | ~235 |
-| Imposture and Trowels | 0.10% | ~235 |
-| Deep changes | 0.10% | ~235 |
-| A broken clock… | 0.10% | ~235 |
-| Sleep schedule mastery | 0.10% | ~235 |
-| Cute Dungeon | 0.10% | ~235 |
-| Mystical Dungeon | 0.10% | ~235 |
-| Gloomy Dungeon | 0.10% | ~235 |
-| Power struggle | 0.10% | ~235 |
-| Hit snooze | 0.10% | ~235 |
-| Living legends of the Lands of Fangh | 0.10% | ~235 |
-| Minmaxer | 0.10% | ~235 |
-| Iron Golems Tamer | 0.10% | ~235 |
-| And they lived happily ever after... | 0.10% | ~235 |
-| Star-crossed lovers | 0.10% | ~235 |
-| Pyrrhic victory | 0.10% | ~235 |
-| Super-Ultra-Lydian | 0.10% | ~235 |
-| Lord of the Drunks | 0.10% | ~235 |
-| Demisemiquaver | 0.10% | ~235 |
-| Dumb and dumber | 0.10% | ~235 |
-| Dwarf Candy | 0.10% | ~235 |
+| Cursed die | 0.10% | ~236 |
+| Necrophilia | 0.10% | ~236 |
+| The Blood Countess | 0.10% | ~236 |
+| He’s alive! Aliiiive! | 0.10% | ~236 |
+| Restless night | 0.10% | ~236 |
+| King of the Arena | 0.10% | ~236 |
+| Finally free | 0.10% | ~236 |
+| Hoarding | 0.10% | ~236 |
+| Staff cut | 0.10% | ~236 |
+| Legendary brew | 0.10% | ~236 |
+| Elite Adventurers | 0.10% | ~236 |
+| Take your time back in time | 0.10% | ~236 |
+| Egghead | 0.10% | ~236 |
+| Imposture and Trowels | 0.10% | ~236 |
+| Deep changes | 0.10% | ~236 |
+| A broken clock… | 0.10% | ~236 |
+| Sleep schedule mastery | 0.10% | ~236 |
+| Cute Dungeon | 0.10% | ~236 |
+| Mystical Dungeon | 0.10% | ~236 |
+| Gloomy Dungeon | 0.10% | ~236 |
+| Power struggle | 0.10% | ~236 |
+| Hit snooze | 0.10% | ~236 |
+| Living legends of the Lands of Fangh | 0.10% | ~236 |
+| Minmaxer | 0.10% | ~236 |
+| Iron Golems Tamer | 0.10% | ~236 |
+| And they lived happily ever after... | 0.10% | ~236 |
+| Star-crossed lovers | 0.10% | ~236 |
+| Pyrrhic victory | 0.10% | ~236 |
+| Super-Ultra-Lydian | 0.10% | ~236 |
+| Lord of the Drunks | 0.10% | ~236 |
+| Demisemiquaver | 0.10% | ~236 |
+| Dumb and dumber | 0.10% | ~236 |
+| Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,498 (Ranked 61)  
+Progressed: 235,502 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 7 (0.00%) (Ranked 344)
 | 2023-11-03 | 234,863 | 7 |
 | 2023-11-04 | 235,134 | 7 |
 | 2023-11-05 | 235,463 | 7 |
-| 2023-11-06 | 235,498 | 7 |
+| 2023-11-06 | 235,502 | 7 |
 ## Awards
 Max (Character Customization): 226  (Ranked 271)  
 Sum: 451 (Ranked 328)  

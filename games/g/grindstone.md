@@ -6,35 +6,35 @@ Number of Ratings: 63  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quinceañera Time | 98.00% | ~5,072 |
-| The Journey Begins | 98.00% | ~5,072 |
-| Slaughterhouse 5 (200 times) | 78.00% | ~4,037 |
-| There is No Escape | 71.00% | ~3,675 |
-| Fun, Flirty, and Thirty | 63.00% | ~3,261 |
-| Royal Flush | 62.00% | ~3,209 |
+| Quinceañera Time | 98.00% | ~5,073 |
+| The Journey Begins | 98.00% | ~5,073 |
+| Slaughterhouse 5 (200 times) | 78.00% | ~4,038 |
+| There is No Escape | 71.00% | ~3,676 |
+| Fun, Flirty, and Thirty | 63.00% | ~3,262 |
+| Royal Flush | 62.00% | ~3,210 |
 | Timber! | 60.00% | ~3,106 |
 | Survive the Bombsequences | 59.00% | ~3,054 |
-| Killed 20 Jerks | 54.00% | ~2,795 |
-| Death Defied | 54.00% | ~2,795 |
+| Killed 20 Jerks | 54.00% | ~2,796 |
+| Death Defied | 54.00% | ~2,796 |
 | Fortunate Soul | 50.00% | ~2,588 |
 | Jerk-Slayer | 43.00% | ~2,226 |
 | Employee of the Month | 37.00% | ~1,915 |
 | I Believe I Can Fly | 37.00% | ~1,915 |
 | Bone Collector | 35.00% | ~1,812 |
 | Fe-Festival | 35.00% | ~1,812 |
-| Top of the Food Chain | 32.00% | ~1,656 |
-| Humerus Achievement | 32.00% | ~1,656 |
-| Pardon my Slob | 32.00% | ~1,656 |
-| Ghost Facers! | 28.00% | ~1,449 |
+| Top of the Food Chain | 32.00% | ~1,657 |
+| Humerus Achievement | 32.00% | ~1,657 |
+| Pardon my Slob | 32.00% | ~1,657 |
+| Ghost Facers! | 28.00% | ~1,450 |
 | If It Bleeds, You Can Kill It | 21.00% | ~1,087 |
-| Royal Flush, Again | 19.00% | ~983 |
+| Royal Flush, Again | 19.00% | ~984 |
 | Trying To Get Into That 1%, Huh? | 18.00% | ~932 |
 | Can't Touch This | 18.00% | ~932 |
 | Yummy! | 16.00% | ~828 |
 | That Was Quick | 16.00% | ~828 |
-| Goldrush Glory Days | 15.00% | ~776 |
-| Best Party Guest | 15.00% | ~776 |
-| Shrub it Off | 15.00% | ~776 |
+| Goldrush Glory Days | 15.00% | ~777 |
+| Best Party Guest | 15.00% | ~777 |
+| Shrub it Off | 15.00% | ~777 |
 | Collected 50 mushrooms | 14.00% | ~725 |
 | Budding Gardener | 14.00% | ~725 |
 | Stop Hitting Each Other | 14.00% | ~725 |
@@ -56,7 +56,7 @@ Number of Ratings: 63  (23.09.2022)
 | The Midas Touch | 0.70% | ~36 |
 | Completionist | 0.60% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,176 (Ranked 182)  
+Progressed: 5,177 (Ranked 182)  
 Completed: 30 (0.58%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 30 (0.58%) (Ranked 184)
 | 2023-10-29 | 5,174 | 30 |
 | 2023-10-31 | 5,175 | 30 |
 | 2023-11-03 | 5,176 | 30 |
+| 2023-11-06 | 5,177 | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

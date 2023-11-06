@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1033,
+  "EOS_Progressed": 1034,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1425,6 +1425,11 @@
       "Time": "2023-11-05T23:07:28.116663+00:00",
       "NumProgressed": 1033,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T05:06:06.209447+00:00",
+      "NumProgressed": 1034,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1517,15 +1522,15 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
       "SetID": "9991201",
       "Name": "Exhaustive Explorer",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -1676,14 +1681,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1033,
+      "Progressed": 1034,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:05:59.5278802+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:06:06.2094464+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:11.1557336+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:59:15.6421852+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:05:59.5279043+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:59:35.3421152+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:06:06.2094669+00:00"
 }

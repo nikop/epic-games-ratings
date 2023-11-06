@@ -6,30 +6,30 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,750 |
+| Awakening | 93.00% | ~40,751 |
 | First Steps | 80.00% | ~35,054 |
-| Control the Shadows | 67.00% | ~29,357 |
+| Control the Shadows | 67.00% | ~29,358 |
 | Tools of the Trade | 63.00% | ~27,605 |
-| Apprentice | 60.00% | ~26,290 |
+| Apprentice | 60.00% | ~26,291 |
 | Secret Seeker | 57.00% | ~24,976 |
-| Forge of Assassins | 55.00% | ~24,099 |
+| Forge of Assassins | 55.00% | ~24,100 |
 | Revenant | 52.00% | ~22,785 |
 | I don’t Care! | 45.00% | ~19,718 |
-| Bird of Prey | 37.00% | ~16,212 |
-| Engraved with Power | 32.00% | ~14,021 |
-| Lady | 31.00% | ~13,583 |
+| Bird of Prey | 37.00% | ~16,213 |
+| Engraved with Power | 32.00% | ~14,022 |
+| Lady | 31.00% | ~13,584 |
 | Fashionable Assassin | 27.00% | ~11,831 |
 | Apex Predator | 24.00% | ~10,516 |
 | Embers | 22.00% | ~9,640 |
 | Soul Reaver | 22.00% | ~9,640 |
-| Wall Lizard | 20.00% | ~8,763 |
+| Wall Lizard | 20.00% | ~8,764 |
 | Clinging to Life | 18.00% | ~7,887 |
 | Burning | 17.00% | ~7,449 |
 | Look Behind You | 16.00% | ~7,011 |
 | Sleeping on the Job | 16.00% | ~7,011 |
-| Family | 14.00% | ~6,134 |
-| War Engines | 14.00% | ~6,134 |
-| Signature Move | 14.00% | ~6,134 |
+| Family | 14.00% | ~6,135 |
+| War Engines | 14.00% | ~6,135 |
+| Signature Move | 14.00% | ~6,135 |
 | Ruse | 11.00% | ~4,820 |
 | Master Ninja | 11.00% | ~4,820 |
 | Hatching | 10.00% | ~4,382 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~876 |
 | Legacy | 2.00% | ~876 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,817 (Ranked 113)  
+Progressed: 43,818 (Ranked 113)  
 Completed: 239 (0.55%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,6 +251,7 @@ Completed: 239 (0.55%) (Ranked 186)
 | 2023-11-03 | 43,791 | 239 |
 | 2023-11-04 | 43,802 | 239 |
 | 2023-11-05 | 43,817 | 239 |
+| 2023-11-06 | 43,818 | 239 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

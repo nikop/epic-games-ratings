@@ -6736,9 +6736,9 @@
       "ID": "exoticmerchant",
       "SetID": "3nl4bcg",
       "Name": "Exotic Merchant",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 423
     },
     {
       "ID": "fellowshippower",
@@ -7169,8 +7169,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:06:11.3402066+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:06:17.9336266+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:59:53.8680675+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:06:11.3402982+00:00"
+  "LastUpdate_Ratings": "2023-11-06T05:00:08.123817+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:06:17.9337169+00:00"
 }

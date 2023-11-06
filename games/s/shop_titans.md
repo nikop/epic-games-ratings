@@ -37,6 +37,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Flawless Fusion | 1.00% | ~1,387 |
 | Gem Expert | 1.00% | ~1,387 |
 | Gild-Gotten Goods | 1.00% | ~1,387 |
+| Royal Ransom | 1.00% | ~1,387 |
 | Helping Hand | 1.00% | ~1,387 |
 | Accomplished Merchant | 1.00% | ~1,387 |
 | Dungeon Imports | 1.00% | ~1,387 |
@@ -46,7 +47,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.90% | ~1,248 |
 | For the Hoard! | 0.90% | ~1,248 |
 | Trash to Treasure | 0.90% | ~1,248 |
-| Royal Ransom | 0.90% | ~1,248 |
 | Magical Harmony | 0.90% | ~1,248 |
 | A Notch Above the Rest | 0.80% | ~1,110 |
 | The King's Caprice | 0.80% | ~1,110 |

@@ -32,9 +32,9 @@
 | Very Elusive | 42.00% | ~421 |
 | Head Hunter | 42.00% | ~421 |
 | Sentinel Ally | 41.00% | ~411 |
+| Scholar | 41.00% | ~411 |
 | Veteran | 40.00% | ~401 |
 | Operative | 40.00% | ~401 |
-| Scholar | 40.00% | ~401 |
 | The Professor | 38.00% | ~381 |
 | Power Full | 38.00% | ~381 |
 | The Archangel | 37.00% | ~371 |
@@ -62,13 +62,13 @@
 | Heart of Darkness | 31.00% | ~311 |
 | Driven | 31.00% | ~311 |
 | Archivist | 30.00% | ~301 |
+| Friend or Foe | 30.00% | ~301 |
 | Cat's in the Cradle | 30.00% | ~301 |
 | Doppelganger | 30.00% | ~301 |
 | Treason | 30.00% | ~301 |
 | Digital Exorcist | 30.00% | ~301 |
 | Bringer of War | 30.00% | ~301 |
 | Focused | 29.00% | ~291 |
-| Friend or Foe | 29.00% | ~291 |
 | Mission Accomplished | 28.00% | ~281 |
 | Suicide Mission | 28.00% | ~281 |
 | Against All Odds | 28.00% | ~281 |

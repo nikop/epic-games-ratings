@@ -4,7 +4,7 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 426,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -334,6 +334,11 @@
       "Time": "2023-11-06T03:09:08.8428256+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T05:08:51.41709+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -344,7 +349,7 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 45,
       "UsersEstimate": 14
     },
@@ -392,7 +397,7 @@
       "ID": "ach_complete_difficulty_medium",
       "SetID": "d499apg",
       "Name": "My Armour is Contempt",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 95,
       "UsersEstimate": 2
     },
@@ -441,14 +446,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:08:57.3978604+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:08:51.4170893+00:00",
   "LastUpdate_AppInfo": "2023-11-03T11:57:09.8011419+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:02:41.6008123+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:08:57.3978694+00:00"
+  "LastUpdate_Ratings": "2023-11-06T05:00:46.1481333+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:08:51.4170992+00:00"
 }

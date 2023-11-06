@@ -3308,9 +3308,9 @@
       "ID": "achievement_43",
       "SetID": "d252ncf",
       "Name": "Friend or Foe",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 301
     },
     {
       "ID": "achievement_44",
@@ -3572,9 +3572,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 411
     },
     {
       "ID": "achievement_74",
@@ -3816,8 +3816,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:04:31.8774279+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:04:38.6608007+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:02:49.5174032+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:04:31.8776283+00:00"
+  "LastUpdate_Ratings": "2023-11-06T05:00:53.9611352+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:04:38.6610171+00:00"
 }

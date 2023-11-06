@@ -2,12 +2,12 @@
   "ID": "f57987ad149c43b3a7a66a7f10828f92",
   "Name": "Quake",
   "ProductSlug": "quake",
-  "Ranking_Rating": 122,
+  "Ranking_Rating": 113,
   "Ranking_Popularity": 430,
   "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 724,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.76,
+  "Rating": 4.77,
   "NumberOfRatings": 53,
   "RatingHistory": [
     {
@@ -334,6 +334,12 @@
       "Rating": 4.76,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-11-06T04:59:47.3280831+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 49,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
@@ -360,8 +366,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:41.8153102+00:00",
   "FirstSeenRating": "2022-08-05T13:31:10.1842866+00:00",
-  "LastChanged": "2023-10-12T03:00:08.265558+00:00",
+  "LastChanged": "2023-11-06T04:59:47.328083+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:17.7348463+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:59:28.7763609+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:05:12.1885698+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:59:47.3280834+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:05:19.1754114+00:00"
 }

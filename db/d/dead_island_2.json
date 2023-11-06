@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 24,
+  "Ranking_EOS_NewPlayers": 23,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6171,10 +6171,10 @@
       "Count": 440
     }
   ],
-  "EOS_Progressed": 713678,
-  "EOS_Completed": 2344,
-  "EOS_NewPlayers": 5537,
-  "EOS_NewCompleters": 62,
+  "EOS_Progressed": 713690,
+  "EOS_Completed": 2345,
+  "EOS_NewPlayers": 5527,
+  "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -28931,6 +28931,11 @@
       "Time": "2023-11-06T04:04:59.9177009+00:00",
       "NumProgressed": 713678,
       "NumCompleted": 2344
+    },
+    {
+      "Time": "2023-11-06T05:05:06.9554058+00:00",
+      "NumProgressed": 713690,
+      "NumCompleted": 2345
     }
   ],
   "TotalAchievements": 51,
@@ -29092,9 +29097,9 @@
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 2141
     },
     {
       "ID": "ach_hotel_california",
@@ -29140,9 +29145,9 @@
       "ID": "ach_knock_down",
       "SetID": "7km39fm",
       "Name": "Apex Predator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 2141
     },
     {
       "ID": "ach_knowledgeable",
@@ -29349,13 +29354,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 713678,
-      "Completed": 2344
+      "Progressed": 713690,
+      "Completed": 2345
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39220,
+      "Progressed": 39232,
       "Completed": 36457
     }
   ],
@@ -29363,8 +29368,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-06T03:57:15.8594159+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:04:59.9177005+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:05:06.9554056+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:57:15.8594164+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:04:59.9178368+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:57:37.4254363+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:05:06.955511+00:00"
 }

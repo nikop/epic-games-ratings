@@ -15,7 +15,9 @@ Rating: 4.54 (Ranked 521)
 | Break A Leg | 0.30% | ~2,141 |
 | Coup de Grâce | 0.30% | ~2,141 |
 | Hazardous Materials | 0.30% | ~2,141 |
+| Friends Like These | 0.30% | ~2,141 |
 | Hotel California | 0.30% | ~2,141 |
+| Apex Predator | 0.30% | ~2,141 |
 | Personal Assistant Personally Assisted | 0.30% | ~2,141 |
 | Dr. Reed, I Presume? | 0.20% | ~1,427 |
 | Making Your Mark | 0.20% | ~1,427 |
@@ -26,8 +28,6 @@ Rating: 4.54 (Ranked 521)
 | Can't Handle the Truth | 0.20% | ~1,427 |
 | Like Riding a Bike | 0.20% | ~1,427 |
 | Not Even My Final Form | 0.20% | ~1,427 |
-| Friends Like These | 0.20% | ~1,427 |
-| Apex Predator | 0.20% | ~1,427 |
 | Zombologist | 0.20% | ~1,427 |
 | Ooh, Shiny! | 0.20% | ~1,427 |
 | A Patton Emerges | 0.20% | ~1,427 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Wilhelm | 0.10% | ~39 |
 | Top That, Tisha! | 0.10% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,678 (Ranked 21)  
-Completed: 2,344 (0.33%) (Ranked 217)  
+Progressed: 713,690 (Ranked 21)  
+Completed: 2,345 (0.33%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -257,7 +257,7 @@ Completed: 2,344 (0.33%) (Ranked 217)
 | 2023-11-03 | 711,718 | 2,317 |
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
-| 2023-11-06 | 713,678 | 2,344 |
+| 2023-11-06 | 713,690 | 2,345 |
 ## Awards
 Max (Great Boss Battles): 7,072  (Ranked 54)  
 Sum: 10,704 (Ranked 89)  

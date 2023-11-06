@@ -24,8 +24,8 @@ Rating: 4.55 (Ranked 500)
 | Heal Thy Medic | 1.00% | ~147 |
 | Khan's Revenge | 1.00% | ~147 |
 | Keep Arjun in Check | 1.00% | ~7 |
+| Master Negotiator | 1.00% | ~7 |
 | Madame Undersecretary | 1.00% | ~7 |
-| Master Negotiator | 0.90% | ~6 |
 | Bottoms up! | 0.80% | ~118 |
 | Miraculous Maya | 0.80% | ~118 |
 | Doctor Approved | 0.70% | ~103 |

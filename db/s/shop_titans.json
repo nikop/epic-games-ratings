@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6891,7 +6891,7 @@
   ],
   "EOS_Progressed": 138688,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 348,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27784,9 +27784,9 @@
       "ID": "gold04",
       "SetID": "anfd17p",
       "Name": "Royal Ransom",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1387
     },
     {
       "ID": "gold05",
@@ -28192,8 +28192,8 @@
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-05T21:57:37.6445626+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:03:23.2764297+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:03:29.3650261+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:57:24.6280308+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:03:23.2766556+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:57:46.44527+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:03:29.3652947+00:00"
 }

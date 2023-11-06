@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 744,
+  "Ranking_Rating": 759,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-03-30T21:57:33.3986384+00:00",
@@ -189,6 +189,12 @@
     {
       "Time": "2023-11-04T04:58:39.7677588+00:00",
       "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-06T04:59:47.2799742+00:00",
+      "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -2395,9 +2401,9 @@
   "FirstSeen": "2023-03-07T20:57:17.7123218+00:00",
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
-  "LastChanged": "2023-11-04T04:58:39.7677586+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:03:14.5846377+00:00",
+  "LastChanged": "2023-11-06T04:59:47.279974+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:03:20.5678396+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:07.8664624+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:59:28.6556731+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:03:14.5846666+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:59:47.2799745+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:03:20.567877+00:00"
 }

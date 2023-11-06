@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 23,
+  "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -3793,10 +3793,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4605,
       "NumberOfAwardsMax": 2066
+    },
+    {
+      "Time": "2023-11-06T05:03:08.9030013+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4607,
+      "NumberOfAwardsMax": 2066
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4605,
+  "NumberOfAwards": 4607,
   "NumberOfAwardsMax": 2066,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3846,7 +3852,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 195
+      "Count": 197
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3867,9 +3873,9 @@
       "Count": 270
     }
   ],
-  "EOS_Progressed": 218197,
+  "EOS_Progressed": 218207,
   "EOS_Completed": 431,
-  "EOS_NewPlayers": 5576,
+  "EOS_NewPlayers": 5516,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16667,6 +16673,11 @@
       "Time": "2023-11-06T04:05:08.0595668+00:00",
       "NumProgressed": 218197,
       "NumCompleted": 431
+    },
+    {
+      "Time": "2023-11-06T05:05:15.2663705+00:00",
+      "NumProgressed": 218207,
+      "NumCompleted": 431
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -16759,7 +16770,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17456
+      "UsersEstimate": 17457
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -16863,7 +16874,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19638
+      "UsersEstimate": 19639
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -17078,16 +17089,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218197,
+      "Progressed": 218207,
       "Completed": 431
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-05T22:03:26.9344011+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:05:08.0595664+00:00",
+  "LastChanged": "2023-11-06T05:03:08.9030011+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:05:15.26637+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:03:04.8150165+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:05:08.0596587+00:00"
+  "LastUpdate_Ratings": "2023-11-06T05:03:08.9030015+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:05:15.2664487+00:00"
 }

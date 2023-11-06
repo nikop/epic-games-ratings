@@ -1039,7 +1039,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11190,
+  "EOS_Progressed": 11192,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 0,
@@ -9059,6 +9059,11 @@
       "Time": "2023-11-06T04:08:34.3281462+00:00",
       "NumProgressed": 11190,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-06T05:08:28.4106796+00:00",
+      "NumProgressed": 11192,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9119,15 +9124,15 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "a_19",
       "SetID": "daiie3o",
       "Name": "Bonjour!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 783
+      "UsersEstimate": 895
     },
     {
       "ID": "a_2",
@@ -9143,7 +9148,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "a_21",
@@ -9151,7 +9156,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "a_22",
@@ -9318,7 +9323,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11190,
+      "Progressed": 11192,
       "Completed": 10
     }
   ],
@@ -9326,8 +9331,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-31T06:57:44.1710899+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:08:34.3281458+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:08:28.4106792+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.8121034+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:59:26.1420029+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:08:34.3282+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:59:45.512416+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:08:28.4107245+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "2744acda6a2e493e9894b389b6564df7",
   "Name": "SnowRunner",
   "ProductSlug": "snowrunner",
-  "Ranking_Rating": 122,
+  "Ranking_Rating": 123,
   "Ranking_Popularity": 35,
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 724,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
@@ -12373,11 +12373,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 80089,
       "NumberOfAwardsMax": 11922
+    },
+    {
+      "Time": "2023-11-06T04:57:59.2978554+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 80134,
+      "NumberOfAwardsMax": 11967
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80089,
-  "NumberOfAwardsMax": 11922,
+  "NumberOfAwards": 80134,
+  "NumberOfAwardsMax": 11967,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -12402,7 +12408,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 11922
+      "Count": 11967
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -12452,8 +12458,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-11-05T23:57:48.1716887+00:00",
+  "LastChanged": "2023-11-06T04:57:59.2978552+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:02.1640632+00:00",
-  "LastUpdate_Ratings": "2023-11-06T03:57:37.7845983+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:03:53.0633856+00:00"
+  "LastUpdate_Ratings": "2023-11-06T04:57:59.2978557+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:03:59.3492633+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -969,9 +969,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 65919,
+  "EOS_Progressed": 65920,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 752,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8064,6 +8064,11 @@
       "Time": "2023-11-06T04:03:08.9873675+00:00",
       "NumProgressed": 65919,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-06T05:03:14.9666867+00:00",
+      "NumProgressed": 65920,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8076,7 +8081,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21753
+      "UsersEstimate": 21754
     },
     {
       "ID": "10",
@@ -8148,7 +8153,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8569
+      "UsersEstimate": 8570
     },
     {
       "ID": "4",
@@ -8203,7 +8208,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 65919,
+      "Progressed": 65920,
       "Completed": 27
     }
   ],
@@ -8211,8 +8216,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-06T04:00:17.1246589+00:00",
-  "LastChanged_Achievements": "2023-11-06T04:03:08.9873663+00:00",
+  "LastChanged_Achievements": "2023-11-06T05:03:14.9666863+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-06T04:00:17.1246593+00:00",
-  "LastUpdate_Achievements": "2023-11-06T04:03:08.9892947+00:00"
+  "LastUpdate_Ratings": "2023-11-06T05:00:32.9366091+00:00",
+  "LastUpdate_Achievements": "2023-11-06T05:03:14.9667336+00:00"
 }
