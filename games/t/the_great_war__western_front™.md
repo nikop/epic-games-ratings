@@ -9,7 +9,7 @@ Rating: 4.00 (Ranked 984)
 | La Der des Ders | 18.00% | ~94 |
 | Das Ist Endgültig! | 18.00% | ~94 |
 | From the Pages of History | 9.00% | ~47 |
-| The Chemists' War | 6.00% | ~31 |
+| The Chemists' War | 6.00% | ~32 |
 | War with Friends | 3.00% | ~16 |
 | Nothing Can Stop Us! | 2.00% | ~10 |
 | A Student of History | 1.00% | ~5 |
@@ -18,7 +18,7 @@ Rating: 4.00 (Ranked 984)
 | Eventful | 0.00% | ~0 |
 | Generalissimo | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 524 (Ranked 290)  
+Progressed: 525 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,6 +185,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-02 | 519 | 0 |
 | 2023-11-03 | 522 | 0 |
 | 2023-11-05 | 524 | 0 |
+| 2023-11-06 | 525 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

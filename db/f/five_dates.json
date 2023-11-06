@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 615,
+  "EOS_Progressed": 616,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.46,
   "EosHistory": [
@@ -1405,6 +1405,11 @@
       "Time": "2023-11-06T19:09:21.3212787+00:00",
       "NumProgressed": 615,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-06T20:17:41.7022932+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 15,
@@ -1416,15 +1421,15 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "booty_call",
       "SetID": "c4ipj3h",
       "Name": "Booty Call",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 166
+      "UsersEstimate": 172
     },
     {
       "ID": "crash_and_burn",
@@ -1440,7 +1445,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "hold_my_beer",
@@ -1480,7 +1485,7 @@
       "Name": "Not Alone",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "nueva_beginnings",
@@ -1488,7 +1493,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "only_thyme_will_tell",
@@ -1510,9 +1515,9 @@
       "ID": "smooth_criminal",
       "SetID": "c4ipj3h",
       "Name": "Smooth Criminal",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 55
     },
     {
       "ID": "sore_loser",
@@ -1526,16 +1531,16 @@
       "ID": "we_go_again",
       "SetID": "c4ipj3h",
       "Name": "We Go Again",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 197
+      "UsersEstimate": 191
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 615,
+      "Progressed": 616,
       "Completed": 9
     }
   ],
@@ -1543,8 +1548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:09:21.3212783+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:17:41.7022927+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:48.409362+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:57:20.8495062+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:09:21.3212957+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:59:09.9694088+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:17:41.702307+00:00"
 }

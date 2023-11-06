@@ -5,32 +5,32 @@ Rating: 4.40 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 8.00% | ~22,665 |
-| IT MAKES BOOM! | 5.00% | ~14,166 |
-| EXTRA BOOST | 4.00% | ~11,333 |
-| PROTECTED | 3.00% | ~8,500 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,500 |
-| PRO | 3.00% | ~8,500 |
-| A TIGER'S FEAR | 2.00% | ~5,666 |
-| AGGRESSIVE RACER | 2.00% | ~5,666 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,833 |
-| ACE SPEEDSTER | 0.90% | ~2,550 |
-| RELEASE THE KRAKEN | 0.70% | ~1,983 |
-| DEFEAT OUR CHAMPION | 0.70% | ~1,983 |
-| LEGENDARY HERO | 0.70% | ~1,983 |
+| ROOKIE | 8.00% | ~22,673 |
+| IT MAKES BOOM! | 5.00% | ~14,171 |
+| EXTRA BOOST | 4.00% | ~11,337 |
+| PROTECTED | 3.00% | ~8,502 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,502 |
+| PRO | 3.00% | ~8,502 |
+| A TIGER'S FEAR | 2.00% | ~5,668 |
+| AGGRESSIVE RACER | 2.00% | ~5,668 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,834 |
+| ACE SPEEDSTER | 1.00% | ~2,834 |
+| RELEASE THE KRAKEN | 0.70% | ~1,984 |
+| DEFEAT OUR CHAMPION | 0.70% | ~1,984 |
+| LEGENDARY HERO | 0.70% | ~1,984 |
 | TRAINING HARD | 0.60% | ~1,700 |
 | BE OUR GUEST | 0.60% | ~1,700 |
 | THE EYE OF THE HUNTER | 0.60% | ~1,700 |
 | FRIENDLY | 0.60% | ~1,700 |
 | EXPERIENCED CREW | 0.50% | ~1,417 |
-| ACE BRAWLER | 0.40% | ~1,133 |
-| MASTER | 0.40% | ~1,133 |
+| ACE BRAWLER | 0.40% | ~1,134 |
+| MASTER | 0.40% | ~1,134 |
 | ACE DEFENDER | 0.30% | ~850 |
 | PERFECTLY POISED | 0.20% | ~567 |
 | FRAMED! | 0.20% | ~567 |
 | ACE TRICKSTER | 0.20% | ~567 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 283,317 (Ranked 52)  
+Progressed: 283,413 (Ranked 52)  
 Completed: 270 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 270 (0.10%) (Ranked 269)
 | 2023-11-03 | 276,886 | 266 |
 | 2023-11-04 | 279,553 | 268 |
 | 2023-11-05 | 282,134 | 270 |
-| 2023-11-06 | 283,317 | 270 |
+| 2023-11-06 | 283,413 | 270 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 415)  
 Sum: 436 (Ranked 331)  

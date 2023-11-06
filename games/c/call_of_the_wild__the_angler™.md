@@ -15,6 +15,7 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 0.10% | ~6 |
 | More Fish in the Sea | 0.10% | ~6 |
 | Things that go Splash in the Night | 0.10% | ~6 |
+| License to Gill | 0.10% | ~6 |
 | More than a Tourist | 0.10% | ~6 |
 | I'm the Captain Now | 0.10% | ~6 |
 | Goldfish? | 0.10% | ~6 |
@@ -25,7 +26,6 @@ Number of Ratings: 281  (23.09.2022)
 | Golden Ridge Ranger | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
 | Aguas Claras Conquistador | 0.10% | ~6 |
-| License to Gill | 0.00% | ~0 |
 | Hook, Line and Sinker | 0.00% | ~0 |
 | Head for Heights | 0.00% | ~0 |
 | The Beetles | 0.00% | ~0 |

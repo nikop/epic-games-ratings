@@ -65,7 +65,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1772,
+  "EOS_Progressed": 1773,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -6635,6 +6635,11 @@
       "Time": "2023-11-06T17:16:00.6054475+00:00",
       "NumProgressed": 1772,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T20:12:26.8475064+00:00",
+      "NumProgressed": 1773,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6662,7 +6667,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6726,7 +6731,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "objective_headquarters_15",
@@ -6949,7 +6954,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1772,
+      "Progressed": 1773,
       "Completed": 1
     }
   ],
@@ -6957,8 +6962,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:04:16.327226+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:12:26.8475059+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-06T19:00:33.3820233+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:04:16.3272819+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:09:22.2744135+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:12:26.8475665+00:00"
 }

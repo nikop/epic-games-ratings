@@ -2,10 +2,10 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 374,
-  "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_Progress": 375,
+  "Ranking_EOS_Completed": 115,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 168,
+  "EOS_Progressed": 170,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.38,
+  "EOS_Completed_Percentage": 2.35,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -729,6 +729,11 @@
       "Time": "2023-11-06T17:21:19.5854788+00:00",
       "NumProgressed": 168,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-06T20:17:54.4800766+00:00",
+      "NumProgressed": 170,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -741,7 +746,7 @@
       "Name": "Kaboom!",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -749,7 +754,7 @@
       "Name": "Laser Beam",
       "Percentage": 58,
       "XP": 60,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
@@ -763,9 +768,9 @@
       "ID": "DEFEATED_1000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Assassin",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 60,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -773,7 +778,7 @@
       "Name": "Murderer",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 139
+      "UsersEstimate": 141
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -781,7 +786,7 @@
       "Name": "Killer",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 162
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -795,17 +800,17 @@
       "ID": "NEW_ACHIEVEMENT_0_0",
       "SetID": "14g34pl",
       "Name": "Peaceful is safe!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 60,
-      "UsersEstimate": 106
+      "UsersEstimate": 109
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "14g34pl",
       "Name": "Badlands is safe!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 55
+      "UsersEstimate": 58
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -819,9 +824,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -829,7 +834,7 @@
       "Name": "Sagehaven is safe!",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -853,7 +858,7 @@
       "Name": "Powerful",
       "Percentage": 46,
       "XP": 60,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -869,21 +874,21 @@
       "Name": "Strong",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 168,
+      "Progressed": 170,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:09:33.4008666+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:17:54.4800762+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:59:56.5549577+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:09:33.400881+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:08:27.4744+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:17:54.4800972+00:00"
 }

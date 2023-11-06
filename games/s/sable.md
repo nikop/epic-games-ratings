@@ -6,39 +6,39 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~33,250 |
-| Just The Two of Us | 32.00% | ~31,294 |
-| Up On High | 25.00% | ~24,448 |
-| Under The Hood | 25.00% | ~24,448 |
+| Simoon | 34.00% | ~33,251 |
+| Just The Two of Us | 32.00% | ~31,295 |
+| Up On High | 25.00% | ~24,449 |
+| Under The Hood | 25.00% | ~24,449 |
 | Got Your Nose | 24.00% | ~23,471 |
 | The Gift of Gab | 24.00% | ~23,471 |
 | Wrapping Up | 22.00% | ~21,515 |
 | More Than A Box Of Sand | 18.00% | ~17,603 |
 | The Dunboyne | 17.00% | ~16,625 |
 | Badge Hobbyist | 17.00% | ~16,625 |
-| Chum Novice | 16.00% | ~15,647 |
-| Silver-Tongued Sable | 16.00% | ~15,647 |
-| Sticky Paws | 16.00% | ~15,647 |
-| Bubble Up | 16.00% | ~15,647 |
-| Thread The Needle | 15.00% | ~14,669 |
-| Power to the People | 14.00% | ~13,691 |
-| Nesting Giant | 14.00% | ~13,691 |
-| Take That! | 13.00% | ~12,713 |
-| Treasure Tracker | 13.00% | ~12,713 |
-| Big Spender | 13.00% | ~12,713 |
-| Badge Collector | 12.00% | ~11,735 |
-| Quite The Catch | 12.00% | ~11,735 |
-| Rowleys Way | 11.00% | ~10,757 |
-| The Machinist Mask | 10.00% | ~9,779 |
-| The Cartographer Mask | 10.00% | ~9,779 |
-| Balfron Connection | 10.00% | ~9,779 |
-| Ceiling Of Stars | 10.00% | ~9,779 |
-| Playing Dress Up | 10.00% | ~9,779 |
-| Many Different Faces | 9.00% | ~8,801 |
-| Trellick's Pillar | 9.00% | ~8,801 |
-| Centre Of Brunswick | 9.00% | ~8,801 |
-| Bike Collector | 9.00% | ~8,801 |
-| Not That Kind Of Gliding | 9.00% | ~8,801 |
+| Chum Novice | 16.00% | ~15,648 |
+| Silver-Tongued Sable | 16.00% | ~15,648 |
+| Sticky Paws | 16.00% | ~15,648 |
+| Bubble Up | 16.00% | ~15,648 |
+| Thread The Needle | 15.00% | ~14,670 |
+| Power to the People | 14.00% | ~13,692 |
+| Nesting Giant | 14.00% | ~13,692 |
+| Take That! | 13.00% | ~12,714 |
+| Treasure Tracker | 13.00% | ~12,714 |
+| Big Spender | 13.00% | ~12,714 |
+| Badge Collector | 12.00% | ~11,736 |
+| Quite The Catch | 12.00% | ~11,736 |
+| Rowleys Way | 11.00% | ~10,758 |
+| The Machinist Mask | 10.00% | ~9,780 |
+| The Cartographer Mask | 10.00% | ~9,780 |
+| Balfron Connection | 10.00% | ~9,780 |
+| Ceiling Of Stars | 10.00% | ~9,780 |
+| Playing Dress Up | 10.00% | ~9,780 |
+| Many Different Faces | 9.00% | ~8,802 |
+| Trellick's Pillar | 9.00% | ~8,802 |
+| Centre Of Brunswick | 9.00% | ~8,802 |
+| Bike Collector | 9.00% | ~8,802 |
+| Not That Kind Of Gliding | 9.00% | ~8,802 |
 | The Scrapper Mask | 8.00% | ~7,824 |
 | Shadow Of Neave | 8.00% | ~7,824 |
 | Fragile Goods | 8.00% | ~7,824 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,934 |
 | Vivacious Vivarium | 2.00% | ~1,956 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,794 (Ranked 87)  
+Progressed: 97,797 (Ranked 87)  
 Completed: 990 (1.01%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 990 (1.01%) (Ranked 156)
 | 2023-11-03 | 97,266 | 985 |
 | 2023-11-04 | 97,464 | 988 |
 | 2023-11-05 | 97,674 | 989 |
-| 2023-11-06 | 97,794 | 990 |
+| 2023-11-06 | 97,797 | 990 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 515)  
 Sum: 91 (Ranked 445)  

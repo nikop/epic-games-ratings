@@ -5,9 +5,9 @@
   "Ranking_Rating": 661,
   "Ranking_Popularity": 500,
   "Ranking_PopularitySum": 515,
-  "Ranking_EOS_Progress": 218,
+  "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1984,
+  "EOS_Progressed": 1985,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2659,6 +2659,11 @@
       "Time": "2023-11-06T17:20:37.8834535+00:00",
       "NumProgressed": 1984,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-06T20:16:55.7866651+00:00",
+      "NumProgressed": 1985,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2678,7 +2683,7 @@
       "Name": "Dead or Alive",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2734,7 +2739,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -2790,7 +2795,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -2814,7 +2819,7 @@
       "Name": "Justice Served",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_LETS_RIDE",
@@ -2998,7 +3003,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -3036,9 +3041,9 @@
       "ID": "ACH_TURNING_THE_TABLES",
       "SetID": "8j30i9k",
       "Name": "Turning the Tables",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 258
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -3046,7 +3051,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3054,7 +3059,7 @@
       "Name": "Welcome to the Weird West",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ACH_WHATS_IN_THE_BOX",
@@ -3078,7 +3083,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -3093,15 +3098,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1984,
+      "Progressed": 1985,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:08:37.5735413+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:16:55.7866647+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.3236898+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:58:55.400055+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:08:37.5735801+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:05:12.4650102+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:16:55.7867084+00:00"
 }

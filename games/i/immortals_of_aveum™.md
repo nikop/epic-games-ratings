@@ -8,10 +8,10 @@ Rating: 4.00 (Ranked 984)
 | Unforeseen | 89.00% | ~152 |
 | Battlefields Have Memories | 86.00% | ~147 |
 | Enlisted | 82.00% | ~140 |
-| Maybe Engage a Little | 77.00% | ~132 |
-| No More Names | 62.00% | ~106 |
-| Initiate | 52.00% | ~89 |
-| Thrada-Kul | 48.00% | ~82 |
+| Maybe Engage a Little | 78.00% | ~133 |
+| No More Names | 63.00% | ~108 |
+| Initiate | 53.00% | ~91 |
+| Thrada-Kul | 49.00% | ~84 |
 | Gravity-Challenged Rocks | 37.00% | ~63 |
 | Soldier | 32.00% | ~55 |
 | All the Major Food Groups | 32.00% | ~55 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 984)
 | Tip of the Spear | 1.00% | ~2 |
 | Fowl Play | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 171 (Ranked 373)  
+Progressed: 171 (Ranked 374)  
 Completed: 1 (0.58%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |

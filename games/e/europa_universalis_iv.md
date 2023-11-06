@@ -15,7 +15,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Albania or Iberia | 0.10% | ~449 |
 | All That's Thine Shall Be Mine | 0.10% | ~449 |
 | All Your Trade Are Belong to Us | 0.10% | ~449 |
+| An early Reich | 0.10% | ~449 |
 | Azur semé de lis or | 0.10% | ~449 |
+| Baa Baa Black Sheep | 0.10% | ~449 |
+| Big Blue Blob | 0.10% | ~449 |
 | Blockader | 0.10% | ~449 |
 | Bright Spark | 0.10% | ~449 |
 | Brothers in Arms | 0.10% | ~449 |
@@ -26,6 +29,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Definitely the Sultan of Rum | 0.10% | ~449 |
 | Double the Love | 0.10% | ~449 |
 | Down Under | 0.10% | ~449 |
+| Early-Modern Warfare | 0.10% | ~449 |
 | Electable! | 0.10% | ~449 |
 | The Emperors new clothes | 0.10% | ~449 |
 | Factionalism | 0.10% | ~449 |
@@ -35,7 +39,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Full House | 0.10% | ~449 |
 | Gentle Persuasion | 0.10% | ~449 |
 | Georgia on my Mind | 0.10% | ~449 |
+| A Golden Empire | 0.10% | ~449 |
 | That's a Grand Army | 0.10% | ~449 |
+| Grand Coalition | 0.10% | ~449 |
 | That's a Grand Navy | 0.10% | ~449 |
 | Holy Horder | 0.10% | ~449 |
 | Imperio español | 0.10% | ~449 |
@@ -66,12 +72,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | Shahanshah | 0.10% | ~449 |
 | Tear Down This Wall | 0.10% | ~449 |
 | That is mine! | 0.10% | ~449 |
+| That's a Silk Road | 0.10% | ~449 |
 | The Chrysanthemum Throne | 0.10% | ~449 |
 | The Continuation of Diplomacy | 0.10% | ~449 |
 | The Five Colonies | 0.10% | ~449 |
 | The pen is mightier than the sword | 0.10% | ~449 |
 | The Princess is in this Castle | 0.10% | ~449 |
+| The Rising Sun | 0.10% | ~449 |
 | This is fine | 0.10% | ~449 |
+| This is My Faith | 0.10% | ~449 |
 | Three Trivial Tributary Tribes | 0.10% | ~449 |
 | Time Bandit | 0.10% | ~449 |
 | Total Control | 0.10% | ~449 |
@@ -81,6 +90,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.10% | ~449 |
 | Until death do us apart | 0.10% | ~449 |
 | Victorious! | 0.10% | ~449 |
+| World Conqueror | 0.10% | ~449 |
 | World Discoverer | 0.10% | ~449 |
 | The Last Crusade | 0.10% | ~449 |
 | Truly Good Maaaaa-tch | 0.10% | ~449 |
@@ -98,7 +108,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | All belongs to Mother Russia | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
-| An early Reich | 0.00% | ~0 |
 | An Unlikely Candidate | 0.00% | ~0 |
 | Anglophile | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
@@ -110,7 +119,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Auld Alliance Reversed | 0.00% | ~0 |
 | Australia-Hungary | 0.00% | ~0 |
 | Avar Khaganate | 0.00% | ~0 |
-| Baa Baa Black Sheep | 0.00% | ~0 |
 | Back in Control | 0.00% | ~0 |
 | Back to the Piast | 0.00% | ~0 |
 | Baltic Crusader | 0.00% | ~0 |
@@ -120,7 +128,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Basque in Glory | 0.00% | ~0 |
 | Bengal Tiger | 0.00% | ~0 |
 | Better than Napoleon | 0.00% | ~0 |
-| Big Blue Blob | 0.00% | ~0 |
 | Black Jack | 0.00% | ~0 |
 | Bleed Them Dry | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
@@ -151,7 +158,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Dovmont's Own | 0.00% | ~0 |
 | Dracula's Revenge | 0.00% | ~0 |
 | Dude, Where's my Boat? | 0.00% | ~0 |
-| Early-Modern Warfare | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | Emperor of Hindustan | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
@@ -175,12 +181,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Global Hegemony | 0.00% | ~0 |
 | God Tier | 0.00% | ~0 |
 | Gold Rush | 0.00% | ~0 |
-| A Golden Empire | 0.00% | ~0 |
 | Golden Horn | 0.00% | ~0 |
 | Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
-| Grand Coalition | 0.00% | ~0 |
 | Grand Duchy | 0.00% | ~0 |
 | I'll graze my horse here.. And here… | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
@@ -310,7 +314,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Take that, von Habsburgs! | 0.00% | ~0 |
 | Tatarstan | 0.00% | ~0 |
 | Terra Mariana | 0.00% | ~0 |
-| That's a Silk Road | 0.00% | ~0 |
 | That's No Mon | 0.00% | ~0 |
 | The Bohemians | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
@@ -324,12 +327,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Pheasant Strut | 0.00% | ~0 |
 | The Power of Three | 0.00% | ~0 |
 | The Re-Reconquista | 0.00% | ~0 |
-| The Rising Sun | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
 | The Uncommonwealth | 0.00% | ~0 |
 | The White Company | 0.00% | ~0 |
-| This is My Faith | 0.00% | ~0 |
 | This is Persia! | 0.00% | ~0 |
 | This navy can take it all | 0.00% | ~0 |
 | This Revolution Was Crushed | 0.00% | ~0 |
@@ -359,7 +360,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Winged Hussars | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 | Wonderful | 0.00% | ~0 |
-| World Conqueror | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | You Get A New Home, And You Get A New Home | 0.00% | ~0 |
 | Breadbasket of the World | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,698 (Ranked 41)  
+Progressed: 448,753 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -570,10 +570,10 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-03 | 446,237 | 1 |
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
-| 2023-11-06 | 448,698 | 1 |
+| 2023-11-06 | 448,753 | 1 |
 ## Awards
 Max (Educational): 6,844  (Ranked 54)  
-Sum: 56,360 (Ranked 24)  
+Sum: 56,376 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -582,7 +582,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 6,550 |
 | This game has Challenging Combat | 6,480 |
 | This game is Extremely Fun | 6,466 |
-| This game is Relaxing | 6,294 |
+| This game is Relaxing | 6,310 |
 | This game has Competitive Players | 6,128 |
 | This game has Amazing Storytelling | 5,726 |
 | This game has Amazing Characters | 5,280 |
@@ -883,4 +883,4 @@ Diff (max vs sum): 30
 | 2023-11-03 | 4.69 | - | 6,817 | 55,956 |
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
-| 2023-11-06 | 4.69 | - | 6,844 | 56,360 |
+| 2023-11-06 | 4.69 | - | 6,844 | 56,376 |

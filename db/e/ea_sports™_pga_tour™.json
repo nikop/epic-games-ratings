@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 497,
+  "EOS_Progressed": 498,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -1660,6 +1660,11 @@
       "Time": "2023-11-06T16:09:05.3374049+00:00",
       "NumProgressed": 497,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-06T20:17:23.683844+00:00",
+      "NumProgressed": 498,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1672,15 +1677,15 @@
       "Name": "The Ultimate Prize",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_10",
       "SetID": "7ldgi7j",
       "Name": "Holey Moley",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 274
     },
     {
       "ID": "achievement_11",
@@ -1688,7 +1693,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "achievement_12",
@@ -1696,7 +1701,7 @@
       "Name": "From Way Downtown",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "achievement_13",
@@ -1728,7 +1733,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "achievement_17",
@@ -1736,7 +1741,7 @@
       "Name": "Clean Sheet",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "achievement_18",
@@ -1792,7 +1797,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_8",
@@ -1800,7 +1805,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 58,
       "XP": 35,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "achievement_9",
@@ -1815,13 +1820,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 497,
+      "Progressed": 498,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:09:04.1794411+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:17:23.6838436+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.7077213+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:59:07.1787737+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:09:04.1794607+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:06:12.5640746+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:17:23.6838619+00:00"
 }

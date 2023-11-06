@@ -1387,9 +1387,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 156935,
+  "EOS_Progressed": 156945,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1324,
+  "EOS_NewPlayers": 1321,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14622,6 +14622,11 @@
       "Time": "2023-11-06T19:08:38.0788138+00:00",
       "NumProgressed": 156935,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T20:16:56.6234924+00:00",
+      "NumProgressed": 156945,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14697,7 +14702,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6277
+      "UsersEstimate": 6278
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -14729,7 +14734,7 @@
       "Name": "Shapely",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -14817,7 +14822,7 @@
       "Name": "Watcher",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -14849,7 +14854,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6277
+      "UsersEstimate": 6278
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -15000,21 +15005,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156518,
+      "Progressed": 156528,
       "Completed": 1192
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 156935,
+      "Progressed": 156945,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-05T21:00:16.5008825+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:08:38.0788132+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:16:56.623492+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-06T19:01:04.9458075+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:08:38.078908+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:09:55.7229939+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:16:56.6235724+00:00"
 }

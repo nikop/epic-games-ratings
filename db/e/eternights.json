@@ -4,7 +4,7 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 384,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -1395,9 +1395,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -1411,9 +1411,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 115
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -1586,8 +1586,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:08:08.443676+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:16:35.8544641+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:15.0588776+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:58:30.5804642+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:08:08.4437173+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:03:45.263527+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:16:35.8544832+00:00"
 }

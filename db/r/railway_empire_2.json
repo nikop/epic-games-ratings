@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5738,9 +5738,9 @@
       "ID": "A18",
       "SetID": "9b7p7eo",
       "Name": "General Manager",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 588
     },
     {
       "ID": "A19",
@@ -6043,8 +6043,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-06T17:57:18.8272993+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:04:32.082269+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:12:43.5063075+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:57:30.89253+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:04:32.0823339+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:00:12.5709597+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:12:43.5063677+00:00"
 }

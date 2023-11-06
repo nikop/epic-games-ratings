@@ -2,7 +2,7 @@
   "ID": "7c6b6697df584024be9c60a1da59096b",
   "Name": "Dude, Where Is My Beer?",
   "ProductSlug": "dude-where-is-my-beer-2455aa",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 130,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -213,6 +213,11 @@
     {
       "Time": "2023-11-06T19:06:26.3158868+00:00",
       "NumProgressed": 47,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T20:14:47.784788+00:00",
+      "NumProgressed": 48,
       "NumCompleted": 0
     }
   ],
@@ -401,14 +406,14 @@
     {
       "ID": "6akbe6n",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:06:26.3158863+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:14:47.7847875+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:20.1757963+00:00",
-  "LastUpdate_Ratings": "2023-11-06T19:02:57.40629+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:06:26.3159004+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:11:00.7566202+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:14:47.7848034+00:00"
 }

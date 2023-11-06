@@ -5,28 +5,28 @@ Rating: 4.43 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,451 |
-| Ranidaphobia | 77.00% | ~1,214 |
-| Aspiring Editor | 74.00% | ~1,167 |
-| Gun for Hire | 69.00% | ~1,088 |
+| First Blood | 92.00% | ~1,452 |
+| Ranidaphobia | 77.00% | ~1,215 |
+| Aspiring Editor | 74.00% | ~1,168 |
+| Gun for Hire | 69.00% | ~1,089 |
 | I am the law! | 63.00% | ~994 |
 | Lumberjack | 53.00% | ~836 |
-| Croaked | 49.00% | ~773 |
+| Croaked | 48.00% | ~757 |
 | Limp Richard | 48.00% | ~757 |
-| Editor Adept | 47.00% | ~741 |
-| Exorcist | 47.00% | ~741 |
-| From Darkness to Light | 47.00% | ~741 |
+| Editor Adept | 47.00% | ~742 |
+| Exorcist | 47.00% | ~742 |
+| From Darkness to Light | 47.00% | ~742 |
 | Giant Killer | 45.00% | ~710 |
-| Sensei | 43.00% | ~678 |
-| Firestarter | 42.00% | ~662 |
+| Sensei | 43.00% | ~679 |
+| Firestarter | 42.00% | ~663 |
 | The meaning of Kain | 41.00% | ~647 |
 | Technophobe | 40.00% | ~631 |
 | Recycler | 39.00% | ~615 |
 | Are you not entertained? | 35.00% | ~552 |
 | Ganglord | 35.00% | ~552 |
 | Jarhead | 35.00% | ~552 |
-| Infiltrator | 34.00% | ~536 |
-| Pushing Daisy | 33.00% | ~520 |
+| Infiltrator | 34.00% | ~537 |
+| Pushing Daisy | 33.00% | ~521 |
 | Experienced | 32.00% | ~505 |
 | Hold The Line | 32.00% | ~505 |
 | Endgame | 27.00% | ~426 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 688)
 | Newtonian Knockout | 16.00% | ~252 |
 | Chaos Theory | 15.00% | ~237 |
 | Ruthless | 14.00% | ~221 |
-| Side Order | 11.00% | ~173 |
+| Side Order | 11.00% | ~174 |
 | Bot Whisperer | 9.00% | ~142 |
 | Chain Reaction | 9.00% | ~142 |
 | Curveball | 8.00% | ~126 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 688)
 | Goaaaaal! | 0.80% | ~13 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,577 (Ranked 230)  
+Progressed: 1,578 (Ranked 230)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -189,7 +189,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-03 | 1,572 | 0 |
 | 2023-11-04 | 1,574 | 0 |
 | 2023-11-05 | 1,575 | 0 |
-| 2023-11-06 | 1,577 | 0 |
+| 2023-11-06 | 1,578 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

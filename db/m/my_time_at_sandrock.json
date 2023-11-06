@@ -1950,9 +1950,9 @@
       "ID": "F_MONSTER_ELITE",
       "SetID": "80dcan0",
       "Name": "Big Game Hunter",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "F_RUIN_S_ALL",
@@ -1966,9 +1966,9 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 229,
+      "Percentage": 230,
       "XP": 10,
-      "UsersEstimate": 534
+      "UsersEstimate": 536
     },
     {
       "ID": "M_BACKPACK",
@@ -1990,9 +1990,9 @@
       "ID": "M_DISH",
       "SetID": "80dcan0",
       "Name": "Iron Chef",
-      "Percentage": 195,
+      "Percentage": 196,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 457
     },
     {
       "ID": "M_EXPAND",
@@ -2054,9 +2054,9 @@
       "ID": "P_CRANELIFT",
       "SetID": "80dcan0",
       "Name": "Better Late than Never",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "P_ENVIRONMENT",
@@ -2094,17 +2094,17 @@
       "ID": "P_MORTPHOTO",
       "SetID": "80dcan0",
       "Name": "Sepia Toned Memories",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "P_OFFICIAL",
       "SetID": "80dcan0",
       "Name": "Officially Official",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 63
     },
     {
       "ID": "P_OWENSTORY",
@@ -2142,17 +2142,17 @@
       "ID": "P_THEMEPARK",
       "SetID": "80dcan0",
       "Name": "Happier-est Place on Earth",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "P_TUNNEL",
       "SetID": "80dcan0",
       "Name": "No Mountain Wide Enough",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -2166,9 +2166,9 @@
       "ID": "P_WATERTOWER",
       "SetID": "80dcan0",
       "Name": "Got the Flow Back",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "S_BRIGHTSUN",
@@ -2206,9 +2206,9 @@
       "ID": "S_FRIEND",
       "SetID": "80dcan0",
       "Name": "One of the Cool Kids",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 56
     },
     {
       "ID": "S_GAMECOIN",
@@ -2294,9 +2294,9 @@
       "ID": "S_WHACKAMOLE",
       "SetID": "80dcan0",
       "Name": "Mole Masher",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "S_WINTERSOLSTICE",
@@ -2318,9 +2318,9 @@
       "ID": "X_CHEST",
       "SetID": "80dcan0",
       "Name": "Unboxing",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 68
     },
     {
       "ID": "X_CLEAN",
@@ -2342,17 +2342,17 @@
       "ID": "X_GET_DIAMOND",
       "SetID": "80dcan0",
       "Name": "Diamonds are Forever",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 82
     },
     {
       "ID": "X_GET_FECE",
       "SetID": "80dcan0",
       "Name": "Waste Not Want Not",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "X_KICK",
@@ -2382,8 +2382,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-06T16:03:00.8388045+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:04:26.884751+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:12:38.2989817+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:04.0136254+00:00",
-  "LastUpdate_Ratings": "2023-11-06T19:02:54.8984258+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:04:26.8848021+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:10:58.4794254+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:12:38.2990317+00:00"
 }

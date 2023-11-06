@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 90.00% | ~971 |
-| Off to a good start | 67.00% | ~723 |
-| Do... or do not. There is no try | 51.00% | ~550 |
-| A good blaster at your side | 32.00% | ~345 |
+| New Recruit | 90.00% | ~973 |
+| Off to a good start | 67.00% | ~724 |
+| Do... or do not. There is no try | 51.00% | ~551 |
+| A good blaster at your side | 32.00% | ~346 |
 | I suggest a new strategy | 20.00% | ~216 |
 | Scrap collector | 19.00% | ~205 |
-| Great shot, kid! | 18.00% | ~194 |
-| All right, I'll give it a try | 17.00% | ~183 |
+| Great shot, kid! | 18.00% | ~195 |
+| All right, I'll give it a try | 17.00% | ~184 |
 | Shoot first | 16.00% | ~173 |
 | The power of the Force | 15.00% | ~162 |
 | Together we can rule the galaxy | 15.00% | ~162 |
 | Collector | 14.00% | ~151 |
+| Survivor | 11.00% | ~119 |
 | Tell Jabba that I've got his money | 10.00% | ~108 |
 | Best star-pilot in the galaxy | 10.00% | ~108 |
-| Survivor | 10.00% | ~108 |
 | Never tell me the odds! | 9.00% | ~97 |
 | A cunning warrior | 9.00% | ~97 |
 | What's the cargo? | 8.00% | ~86 |
@@ -41,7 +41,6 @@
 | City in the Clouds | 3.00% | ~32 |
 | That's no moon | 3.00% | ~32 |
 | What will you become? | 3.00% | ~32 |
-| Disturbed tranquility | 3.00% | ~32 |
 | Hold the line! | 2.00% | ~22 |
 | The Force is strong with this one | 2.00% | ~22 |
 | Ackbar's Elite | 2.00% | ~22 |
@@ -49,6 +48,7 @@
 | Alternative solution | 2.00% | ~22 |
 | Onwards! | 2.00% | ~22 |
 | The circle is now complete | 2.00% | ~22 |
+| Disturbed tranquility | 2.00% | ~22 |
 | Playing the objective | 1.00% | ~11 |
 | No such thing as luck | 1.00% | ~11 |
 | Do we take prisoners? | 1.00% | ~11 |
@@ -58,8 +58,8 @@
 | A New Hope | 0.80% | ~9 |
 | Walker defender | 0.70% | ~8 |
 | I’ll take that bet | 0.60% | ~6 |
+| Stay on target | 0.50% | ~5 |
 | Don't get cocky | 0.50% | ~5 |
-| Stay on target | 0.40% | ~4 |
 | in a galaxy far, far away.... | 0.40% | ~4 |
 | Greed can be a very powerful ally | 0.40% | ~4 |
 | That got him! | 0.30% | ~3 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,079 (Ranked 247)  
+Progressed: 1,081 (Ranked 247)  
 Completed: 1 (0.09%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.09%) (Ranked 274)
 | 2023-11-03 | 1,025 | 1 |
 | 2023-11-04 | 1,048 | 1 |
 | 2023-11-05 | 1,069 | 1 |
-| 2023-11-06 | 1,079 | 1 |
+| 2023-11-06 | 1,081 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

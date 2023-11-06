@@ -5,60 +5,60 @@ Rating: 4.69 (Ranked 229)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 30.00% | ~204,746 |
-| 50 HEADSHOTS | 28.00% | ~191,096 |
-| SCIENCE AND INDUSTRY | 27.00% | ~184,271 |
-| FINISHED CHAPTER 1 | 26.00% | ~177,446 |
-| FINISHED CHAPTER 2 | 19.00% | ~129,672 |
-| 200 HEADSHOTS | 17.00% | ~116,022 |
-| FINISHED CHAPTER 3 | 16.00% | ~109,198 |
-| FINISHED CHAPTER 4 | 14.00% | ~95,548 |
-| FINISH CHAPTER 5 | 12.00% | ~81,898 |
-| FINISH CHAPTER 6 | 10.00% | ~68,248 |
-| CATHARTIC ESCAPISM | 10.00% | ~68,248 |
-| 1000 KILLS | 9.00% | ~61,424 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~27,299 |
+| 100 KILLS | 30.00% | ~204,752 |
+| 50 HEADSHOTS | 28.00% | ~191,101 |
+| SCIENCE AND INDUSTRY | 27.00% | ~184,276 |
+| FINISHED CHAPTER 1 | 26.00% | ~177,451 |
+| FINISHED CHAPTER 2 | 19.00% | ~129,676 |
+| 200 HEADSHOTS | 17.00% | ~116,026 |
+| FINISHED CHAPTER 3 | 16.00% | ~109,201 |
+| FINISHED CHAPTER 4 | 14.00% | ~95,551 |
+| FINISH CHAPTER 5 | 12.00% | ~81,901 |
+| FINISH CHAPTER 6 | 10.00% | ~68,250 |
+| CATHARTIC ESCAPISM | 10.00% | ~68,250 |
+| 1000 KILLS | 9.00% | ~61,425 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~27,300 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~13,650 |
 | FIRST BLOOD | 2.00% | ~13,650 |
 | PACEMAKER | 1.00% | ~6,825 |
 | TIME PARADOX | 1.00% | ~6,825 |
-| FIREFIGHT LEVEL 30 | 0.90% | ~6,142 |
-| OUT OF ORDER | 0.90% | ~6,142 |
+| FIREFIGHT LEVEL 30 | 0.90% | ~6,143 |
+| OUT OF ORDER | 0.90% | ~6,143 |
 | PARTYHARD | 0.80% | ~5,460 |
 | NEW GAME PLUS | 0.60% | ~4,095 |
-| FIREFIGHT LEVEL 40 | 0.50% | ~3,412 |
+| FIREFIGHT LEVEL 40 | 0.50% | ~3,413 |
 | CHURCH | 0.40% | ~2,730 |
-| FIREFIGHT LEVEL 50 | 0.30% | ~2,047 |
-| 5 RUNS | 0.30% | ~2,047 |
+| FIREFIGHT LEVEL 50 | 0.30% | ~2,048 |
+| 5 RUNS | 0.30% | ~2,048 |
 | CHALET | 0.20% | ~1,365 |
 | FIREFIGHT LEVEL 60 | 0.20% | ~1,365 |
 | REMEMBER THE ARMORY | 0.20% | ~1,365 |
 | SOUL - HORIZONS | 0.20% | ~1,365 |
-| HEY THATS CHEATING | 0.10% | ~682 |
-| COMPLIMENTS TO THE CHEF | 0.10% | ~682 |
-| BUT WHY? | 0.10% | ~682 |
-| COMMAND - [EXIST] | 0.10% | ~682 |
-| FIREFIGHT LEVEL 70 | 0.10% | ~682 |
-| FIREFIGHT LEVEL 80 | 0.10% | ~682 |
-| FIRE IN THE HOLE | 0.10% | ~682 |
-| FRESH | 0.10% | ~682 |
-| HUGE SUCCESS | 0.10% | ~682 |
-| ICARUS | 0.10% | ~682 |
-| INPUT - [QUERY] | 0.10% | ~682 |
-| KITTED OUT | 0.10% | ~682 |
-| HOLOGRAM SUMMER | 0.10% | ~682 |
-| OFF THE HINGES | 0.10% | ~682 |
-| ON THE EDGE | 0.10% | ~682 |
-| OVERCLOCKED | 0.10% | ~682 |
-| PAIN TRAIN | 0.10% | ~682 |
-| 10 RUNS | 0.10% | ~682 |
-| 20 RUNS | 0.10% | ~682 |
-| SAVOR THE MOMENT | 0.10% | ~682 |
-| THE COLLECTOR | 0.10% | ~682 |
-| THE GAMBLER | 0.10% | ~682 |
-| WARRIOR IN A GARDEN | 0.10% | ~682 |
+| HEY THATS CHEATING | 0.10% | ~683 |
+| COMPLIMENTS TO THE CHEF | 0.10% | ~683 |
+| BUT WHY? | 0.10% | ~683 |
+| COMMAND - [EXIST] | 0.10% | ~683 |
+| FIREFIGHT LEVEL 70 | 0.10% | ~683 |
+| FIREFIGHT LEVEL 80 | 0.10% | ~683 |
+| FIRE IN THE HOLE | 0.10% | ~683 |
+| FRESH | 0.10% | ~683 |
+| HUGE SUCCESS | 0.10% | ~683 |
+| ICARUS | 0.10% | ~683 |
+| INPUT - [QUERY] | 0.10% | ~683 |
+| KITTED OUT | 0.10% | ~683 |
+| HOLOGRAM SUMMER | 0.10% | ~683 |
+| OFF THE HINGES | 0.10% | ~683 |
+| ON THE EDGE | 0.10% | ~683 |
+| OVERCLOCKED | 0.10% | ~683 |
+| PAIN TRAIN | 0.10% | ~683 |
+| 10 RUNS | 0.10% | ~683 |
+| 20 RUNS | 0.10% | ~683 |
+| SAVOR THE MOMENT | 0.10% | ~683 |
+| THE COLLECTOR | 0.10% | ~683 |
+| THE GAMBLER | 0.10% | ~683 |
+| WARRIOR IN A GARDEN | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,485 (Ranked 24)  
+Progressed: 682,505 (Ranked 24)  
 Completed: 82 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,14 +258,14 @@ Completed: 82 (0.01%) (Ranked 321)
 | 2023-11-03 | 681,368 | 81 |
 | 2023-11-04 | 681,834 | 82 |
 | 2023-11-05 | 682,234 | 82 |
-| 2023-11-06 | 682,485 | 82 |
+| 2023-11-06 | 682,505 | 82 |
 ## Awards
-Max (Great Boss Battles): 384  (Ranked 228)  
-Sum: 384 (Ranked 339)  
-Diff (max vs sum): -111  
+Max (Great Boss Battles): 390  (Ranked 228)  
+Sum: 390 (Ranked 337)  
+Diff (max vs sum): -109  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 384 |
+| This game has Great Boss Battles | 390 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -383,3 +383,4 @@ Diff (max vs sum): -111
 | 2023-11-02 | 4.69 | 376 | 376 |
 | 2023-11-03 | 4.69 | 381 | 381 |
 | 2023-11-05 | 4.69 | 384 | 384 |
+| 2023-11-06 | 4.69 | 390 | 390 |

@@ -8,9 +8,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 5.00% | ~759 |
 | Play a Single Player Game | 5.00% | ~759 |
-| Explorer | 4.00% | ~607 |
-| Intrepid | 4.00% | ~607 |
-| Friendly Family | 4.00% | ~607 |
+| Explorer | 4.00% | ~608 |
+| Intrepid | 4.00% | ~608 |
+| Friendly Family | 4.00% | ~608 |
 | Able | 3.00% | ~456 |
 | Architect | 3.00% | ~456 |
 | Glorious | 3.00% | ~456 |
@@ -114,16 +114,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legionary | 0.90% | ~137 |
 | Phalangite | 0.90% | ~137 |
 | Ambition Victory | 0.90% | ~137 |
-| Capable | 0.80% | ~121 |
-| Ready | 0.80% | ~121 |
-| Learn to Play 4 | 0.80% | ~121 |
-| Babylonia | 0.80% | ~121 |
-| Carthage | 0.80% | ~121 |
-| One True Faith | 0.80% | ~121 |
-| Industrial Progress | 0.80% | ~121 |
-| Enlightenment | 0.80% | ~121 |
-| Veneration | 0.80% | ~121 |
-| Mounted Lancer | 0.80% | ~121 |
+| Capable | 0.80% | ~122 |
+| Ready | 0.80% | ~122 |
+| Learn to Play 4 | 0.80% | ~122 |
+| Babylonia | 0.80% | ~122 |
+| Carthage | 0.80% | ~122 |
+| One True Faith | 0.80% | ~122 |
+| Industrial Progress | 0.80% | ~122 |
+| Enlightenment | 0.80% | ~122 |
+| Veneration | 0.80% | ~122 |
+| Mounted Lancer | 0.80% | ~122 |
 | Devout | 0.70% | ~106 |
 | Clerics | 0.70% | ~106 |
 | Egypt | 0.70% | ~106 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,187 (Ranked 145)  
+Progressed: 15,188 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
 | 2023-11-05 | 15,167 | 5 |
-| 2023-11-06 | 15,187 | 5 |
+| 2023-11-06 | 15,188 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 271)  
 Sum: 1,868 (Ranked 212)  

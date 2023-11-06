@@ -11629,10 +11629,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 56360,
       "NumberOfAwardsMax": 6844
+    },
+    {
+      "Time": "2023-11-06T19:58:13.1714901+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56376,
+      "NumberOfAwardsMax": 6844
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56360,
+  "NumberOfAwards": 56376,
   "NumberOfAwardsMax": 6844,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11682,7 +11688,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6294
+      "Count": 6310
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11703,9 +11709,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448698,
+  "EOS_Progressed": 448753,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5508,
+  "EOS_NewPlayers": 5514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34583,6 +34589,11 @@
       "Time": "2023-11-06T19:04:31.7660586+00:00",
       "NumProgressed": 448698,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T20:12:43.236556+00:00",
+      "NumProgressed": 448753,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -34776,9 +34787,9 @@
       "ID": "achievement_an_early_reich",
       "SetID": "8p2n7he",
       "Name": "An early Reich",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_an_unlikely_candidate",
@@ -34880,9 +34891,9 @@
       "ID": "achievement_baa_baa_black_sheep",
       "SetID": "67mdiil",
       "Name": "Baa Baa Black Sheep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_back_in_control",
@@ -34960,9 +34971,9 @@
       "ID": "achievement_big_blue_blob",
       "SetID": "67mdiil",
       "Name": "Big Blue Blob",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_black_jack",
@@ -35288,9 +35299,9 @@
       "ID": "achievement_early_modern_warfare",
       "SetID": "8p2n7he",
       "Name": "Early-Modern Warfare",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_eat_your_greens",
@@ -35552,9 +35563,9 @@
       "ID": "achievement_golden_empire",
       "SetID": "8p2n7he",
       "Name": "A Golden Empire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_golden_horn",
@@ -35600,9 +35611,9 @@
       "ID": "achievement_grand_coalition",
       "SetID": "8p2n7he",
       "Name": "Grand Coalition",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_grand_duchy",
@@ -36880,9 +36891,9 @@
       "ID": "achievement_thats_a_silk_road",
       "SetID": "67mdiil",
       "Name": "That\u0027s a Silk Road",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_thats_no_mon",
@@ -37032,9 +37043,9 @@
       "ID": "achievement_the_rising_sun",
       "SetID": "8p2n7he",
       "Name": "The Rising Sun",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_the_third_way",
@@ -37080,9 +37091,9 @@
       "ID": "achievement_this_is_my_faith",
       "SetID": "8p2n7he",
       "Name": "This is My Faith",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_this_is_persia",
@@ -37392,9 +37403,9 @@
       "ID": "achievement_world_conqueror",
       "SetID": "67mdiil",
       "Name": "World Conqueror",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_world_discoverer",
@@ -37497,21 +37508,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448698,
+      "Progressed": 448753,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448698,
+      "Progressed": 448753,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-06T18:57:10.8762649+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:04:31.7660582+00:00",
+  "LastChanged": "2023-11-06T19:58:13.1714899+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:12:43.2365557+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:57:10.8762655+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:04:31.7672288+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:58:13.1714905+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:12:43.2376318+00:00"
 }

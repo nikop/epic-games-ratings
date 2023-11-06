@@ -2,7 +2,7 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 510,
+  "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 130,
@@ -149,9 +149,9 @@
       "ID": "AC_ALL_CASSETTES",
       "SetID": "16i2akc",
       "Name": "Sound",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "AC_ALL_COLUMNS",
@@ -381,9 +381,9 @@
       "ID": "AC_FLASHBACK_02",
       "SetID": "16i2akc",
       "Name": "Demise",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -437,9 +437,9 @@
       "ID": "AC_RECIPES_DONE_2",
       "SetID": "16i2akc",
       "Name": "Cheff",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC_ROCKET_MAX",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:07:38.6630503+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:16:03.6996247+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-06T19:01:32.2943015+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:07:38.663078+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:10:24.8469682+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:16:03.6996494+00:00"
 }

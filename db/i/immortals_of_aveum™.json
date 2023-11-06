@@ -5,9 +5,9 @@
   "Ranking_Rating": 984,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 373,
+  "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1024,9 +1024,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_36",
@@ -1056,9 +1056,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_41",
@@ -1128,9 +1128,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_50",
@@ -1176,9 +1176,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_60",
@@ -1265,8 +1265,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-05T03:01:16.136809+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:05:48.2627676+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:14:05.4341302+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-06T19:02:43.9117489+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:05:48.2628093+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:10:45.8800843+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:14:05.4341684+00:00"
 }

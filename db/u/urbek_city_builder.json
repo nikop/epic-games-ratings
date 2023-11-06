@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 381,
+  "EOS_Progressed": 382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1250,6 +1250,11 @@
       "Time": "2023-11-06T15:09:01.9770174+00:00",
       "NumProgressed": 381,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T20:18:14.9841031+00:00",
+      "NumProgressed": 382,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1589,7 +1594,7 @@
       "Name": "I like parks",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -1643,9 +1648,9 @@
       "ID": "NIGHT_LIFE_1",
       "SetID": "44dlcg0",
       "Name": "It is nice to share with friends in the city",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     },
     {
       "ID": "NIGHT_LIFE_2",
@@ -1892,7 +1897,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 381,
+      "Progressed": 382,
       "Completed": 0
     }
   ],
@@ -1900,8 +1905,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:09:52.9408852+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:18:14.9841028+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.6533843+00:00",
-  "LastUpdate_Ratings": "2023-11-06T19:03:06.2316721+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:09:52.9409586+00:00"
+  "LastUpdate_Ratings": "2023-11-06T20:11:11.688159+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:18:14.9841798+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 525,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2392,6 +2392,11 @@
       "Time": "2023-11-05T19:06:01.7834618+00:00",
       "NumProgressed": 524,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T20:16:19.4284423+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2451,7 +2456,7 @@
       "Name": "The Chemists\u0027 War",
       "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "REACH_DECEMBER_1919",
@@ -2498,7 +2503,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 525,
       "Completed": 0
     }
   ],
@@ -2506,8 +2511,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-02T22:00:31.3526393+00:00",
-  "LastChanged_Achievements": "2023-11-06T19:07:53.4436424+00:00",
+  "LastChanged_Achievements": "2023-11-06T20:16:19.4284419+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:46.4761888+00:00",
-  "LastUpdate_Ratings": "2023-11-06T18:57:10.1528287+00:00",
-  "LastUpdate_Achievements": "2023-11-06T19:07:53.4436619+00:00"
+  "LastUpdate_Ratings": "2023-11-06T19:58:10.1364461+00:00",
+  "LastUpdate_Achievements": "2023-11-06T20:16:19.4284611+00:00"
 }
