@@ -29,12 +29,12 @@
 | It's not easy being green! | 18.00% | ~25 |
 | Death is a part of life | 16.00% | ~22 |
 | Master of Thermodynamics | 15.00% | ~21 |
-| Unfullfilled dreams | 13.00% | ~18 |
+| Unfullfilled dreams | 14.00% | ~20 |
 | To err is human... | 12.00% | ~17 |
 | Useless but beautiful | 10.00% | ~14 |
+| Mumbo Jumbo | 10.00% | ~14 |
 | Lollipop | 9.00% | ~13 |
 | Nothing can stop me | 9.00% | ~13 |
-| Mumbo Jumbo | 9.00% | ~13 |
 | It's nothing personal | 8.00% | ~11 |
 | Where there is life, there is hope | 7.00% | ~10 |
 | Artistic master | 6.00% | ~8 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 384)  
+Progressed: 140 (Ranked 385)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |

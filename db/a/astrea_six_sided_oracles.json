@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -703,9 +703,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "MeissasSavior",
@@ -799,9 +799,9 @@
       "ID": "RoyalChoir",
       "SetID": "1jeo1g7",
       "Name": "Royal Choir",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SadisticPlan",
@@ -815,9 +815,9 @@
       "ID": "SanctuaryGuardian",
       "SetID": "1jeo1g7",
       "Name": "Sanctuary Guardian",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "Sentinelphobic",
@@ -1150,8 +1150,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:04:46.2173126+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:04:58.6710129+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:15.9709684+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:00:05.8190687+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:04:46.2174286+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:00:08.0071852+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:04:58.6711607+00:00"
 }

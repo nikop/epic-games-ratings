@@ -453,9 +453,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 5060,
+  "EOS_Progressed": 5061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1400,
+  "EOS_NewPlayers": 1396,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4648,6 +4648,11 @@
       "Time": "2023-11-06T08:06:06.6033282+00:00",
       "NumProgressed": 5060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T09:06:18.3736505+00:00",
+      "NumProgressed": 5061,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -4668,7 +4673,7 @@
       "Name": "Gathering Dust",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "achievement_0003",
@@ -4700,7 +4705,7 @@
       "Name": "Setting up for Success",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 3744
+      "UsersEstimate": 3745
     },
     {
       "ID": "achievement_0007",
@@ -4708,7 +4713,7 @@
       "Name": "Getting on the Step",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 4655
+      "UsersEstimate": 4656
     },
     {
       "ID": "achievement_0008",
@@ -4716,7 +4721,7 @@
       "Name": "On the Top Step",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "achievement_0009",
@@ -4732,7 +4737,7 @@
       "Name": "Network Success",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "achievement_0011",
@@ -4780,7 +4785,7 @@
       "Name": "Hitting a Season",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "achievement_0017",
@@ -4820,7 +4825,7 @@
       "Name": "Team Orders",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "achievement_0022",
@@ -4828,7 +4833,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "achievement_0023",
@@ -4836,7 +4841,7 @@
       "Name": "Sharing the Love",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "achievement_0024",
@@ -4874,9 +4879,9 @@
       "ID": "achievement_0028",
       "SetID": "9123ogc",
       "Name": "Spinning Around",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 607
+      "UsersEstimate": 557
     },
     {
       "ID": "achievement_0029",
@@ -4884,7 +4889,7 @@
       "Name": "Reduce",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "achievement_0030",
@@ -4996,7 +5001,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2378
+      "UsersEstimate": 2379
     },
     {
       "ID": "achievement_0044",
@@ -5020,7 +5025,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1214
+      "UsersEstimate": 1215
     },
     {
       "ID": "achievement_0047",
@@ -5051,7 +5056,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5060,
+      "Progressed": 5061,
       "Completed": 0
     }
   ],
@@ -5059,8 +5064,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-05T20:57:16.2005186+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:06:06.6033277+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:06:18.37365+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.9013209+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:57:54.0161619+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:06:06.6034012+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:57:56.4931371+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:06:18.3737205+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "i-did-not-buy-this-ticket-086fe2",
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-29T04:00:00+00:00",
@@ -185,9 +185,9 @@
       "ID": "ACHIronMemory",
       "SetID": "bjbioka",
       "Name": "Iron Memory",
-      "Percentage": 70,
+      "Percentage": 80,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACHLostTraveler",
@@ -281,9 +281,9 @@
       "ID": "ACHRelived",
       "SetID": "bjbioka",
       "Name": "Obsessive Thoughts",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHRoadtrip",
@@ -336,8 +336,8 @@
   ],
   "FirstSeen": "2023-10-07T02:12:50.0812742+00:00",
   "FirstSeenAchievements": "2023-08-28T18:02:58.8007193+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:09:47.6681983+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:10:16.319821+00:00",
   "LastUpdate_AppInfo": "2023-10-30T21:57:18.2584565+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:00:11.5270293+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:09:47.6682212+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:00:13.7449188+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:10:16.3198471+00:00"
 }

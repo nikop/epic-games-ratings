@@ -2,9 +2,9 @@
   "ID": "a204bb2c58bf4cc495fbbc802a5ee782",
   "Name": "SteamWorld Dig",
   "ProductSlug": "steamworld-dig-05e1e1",
-  "Ranking_EOS_Progress": 724,
+  "Ranking_EOS_Progress": 725,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-01T23:57:07.5109611+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:59:52.4870602+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:05:17.1898116+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:59:55.8863739+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:05:29.7008436+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4257,
+  "EOS_Progressed": 4258,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 953,
+  "EOS_NewPlayers": 948,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2210,6 +2210,11 @@
       "Time": "2023-11-06T08:09:16.4791979+00:00",
       "NumProgressed": 4257,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-06T09:09:46.022157+00:00",
+      "NumProgressed": 4258,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2220,9 +2225,9 @@
       "ID": "AllJackedUp",
       "SetID": "acc6ea0",
       "Name": "All Jacked Up",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 21
+      "UsersEstimate": 26
     },
     {
       "ID": "BabySteps",
@@ -2294,7 +2299,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2493,7 +2498,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4257,
+      "Progressed": 4258,
       "Completed": 5
     }
   ],
@@ -2501,8 +2506,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-05T20:58:48.2968347+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:09:16.4791974+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:09:46.0221564+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:59:03.7234397+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:09:16.4792453+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:59:06.2126315+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:09:46.0222016+00:00"
 }

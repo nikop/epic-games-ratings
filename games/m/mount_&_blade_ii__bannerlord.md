@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 39.00% | ~25,187 |
-| Landlord | 33.00% | ~21,312 |
+| Lawbringer | 39.00% | ~25,188 |
+| Landlord | 33.00% | ~21,313 |
 | Bannerlord | 23.00% | ~14,854 |
 | Horde breaker | 23.00% | ~14,854 |
 | Lawmaker | 23.00% | ~14,854 |
@@ -24,22 +24,22 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 10.00% | ~6,458 |
 | Swordbearer | 10.00% | ~6,458 |
 | What have the Romans ever done for us? | 10.00% | ~6,458 |
-| Butterlord | 9.00% | ~5,812 |
+| Butterlord | 9.00% | ~5,813 |
 | Know your enemy | 7.00% | ~4,521 |
 | Mastery | 7.00% | ~4,521 |
 | Crowdfunded | 5.00% | ~3,229 |
 | Crush your enemies | 5.00% | ~3,229 |
 | My way | 5.00% | ~3,229 |
 | Veni vidi vici | 4.00% | ~2,583 |
-| Freedom! | 3.00% | ~1,937 |
-| Long live the Empire! | 3.00% | ~1,937 |
-| Real Estate | 3.00% | ~1,937 |
+| Freedom! | 3.00% | ~1,938 |
+| Long live the Empire! | 3.00% | ~1,938 |
+| Real Estate | 3.00% | ~1,938 |
 | Entrepreneur | 1.00% | ~646 |
 | Supreme Emperor | 1.00% | ~646 |
 | Crackshot | 0.90% | ~581 |
 | Undercover | 0.80% | ~517 |
 | Fat Cat | 0.70% | ~452 |
-| Catch | 0.60% | ~387 |
+| Catch | 0.60% | ~388 |
 | Slice 'n dice | 0.50% | ~323 |
 | Ride it like you stole it | 0.40% | ~258 |
 | Mounted Archery | 0.30% | ~194 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,582 (Ranked 103)  
+Progressed: 64,584 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,10 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-03 | 64,423 | 0 |
 | 2023-11-04 | 64,499 | 0 |
 | 2023-11-05 | 64,565 | 0 |
-| 2023-11-06 | 64,582 | 0 |
+| 2023-11-06 | 64,584 | 0 |
 ## Awards
 Max (Character Customization): 7,328  (Ranked 52)  
-Sum: 15,140 (Ranked 67)  
+Sum: 15,143 (Ranked 67)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -270,7 +270,7 @@ Diff (max vs sum): -15
 | This game has Diverse Characters | 990 |
 | This game is Highly Recommended | 916 |
 | This game is Extremely Fun | 865 |
-| This game has Amazing Storytelling | 851 |
+| This game has Amazing Storytelling | 854 |
 | This game has Amazing Characters | 851 |
 | This game is Relaxing | 848 |
 | This game has Quickly Understood Controls | 822 |
@@ -575,4 +575,4 @@ Diff (max vs sum): -15
 | 2023-11-03 | 4.74 | - | 7,320 | 15,112 |
 | 2023-11-04 | 4.74 | - | 7,328 | 15,130 |
 | 2023-11-05 | 4.74 | - | 7,328 | 15,137 |
-| 2023-11-06 | 4.74 | - | 7,328 | 15,140 |
+| 2023-11-06 | 4.74 | - | 7,328 | 15,143 |

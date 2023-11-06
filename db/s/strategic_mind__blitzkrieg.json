@@ -2,9 +2,9 @@
   "ID": "b8097bc285294c5eaa27d83b6a0abb1e",
   "Name": "Strategic Mind: Blitzkrieg",
   "ProductSlug": "strategic-mind-blitzkrieg-d7e9a6",
-  "Ranking_EOS_Progress": 724,
+  "Ranking_EOS_Progress": 725,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-02-09T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:56.8895932+00:00",
   "LastChanged": "2023-03-31T05:57:56.8895933+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:58.84907+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:57:56.9001599+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:04:34.9046506+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:58:00.2159882+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:04:47.665587+00:00"
 }

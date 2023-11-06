@@ -5125,9 +5125,9 @@
       "Count": 669
     }
   ],
-  "EOS_Progressed": 3576998,
+  "EOS_Progressed": 3577003,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 2683,
+  "EOS_NewPlayers": 2682,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27975,6 +27975,11 @@
       "Time": "2023-11-06T08:06:04.429467+00:00",
       "NumProgressed": 3576998,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-06T09:06:16.2680234+00:00",
+      "NumProgressed": 3577003,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 52,
@@ -27994,7 +27999,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 894250
+      "UsersEstimate": 894251
     },
     {
       "ID": "BRICK",
@@ -28050,7 +28055,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1395029
+      "UsersEstimate": 1395031
     },
     {
       "ID": "CASH_2",
@@ -28114,7 +28119,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 715400
+      "UsersEstimate": 715401
     },
     {
       "ID": "HBPC_TIME",
@@ -28146,7 +28151,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1037329
+      "UsersEstimate": 1037331
     },
     {
       "ID": "JOBS_2",
@@ -28226,7 +28231,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1752729
+      "UsersEstimate": 1752731
     },
     {
       "ID": "NO_PASTE",
@@ -28234,7 +28239,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1645419
+      "UsersEstimate": 1645421
     },
     {
       "ID": "OPC_BM_1",
@@ -28401,15 +28406,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3576998,
+      "Progressed": 3577003,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-11-06T05:58:57.4551491+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:06:04.4294666+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:06:16.2680229+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.8447819+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:58:50.1424885+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:06:04.4297375+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:58:53.0692133+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:06:16.2682485+00:00"
 }

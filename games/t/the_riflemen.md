@@ -20,7 +20,7 @@ Rating: 4.47 (Ranked 632)
 | Grenade Master | 0.00% | ~0 |
 | Sword Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31,082 (Ranked 121)  
+Progressed: 31,083 (Ranked 121)  
 Completed: 11,759 (37.83%) (Ranked 7)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 11,759 (37.83%) (Ranked 7)
 | 2023-11-03 | 30,284 | 11,759 |
 | 2023-11-04 | 30,655 | 11,759 |
 | 2023-11-05 | 30,998 | 11,759 |
-| 2023-11-06 | 31,082 | 11,759 |
+| 2023-11-06 | 31,083 | 11,759 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,9 +2,9 @@
   "ID": "b0409fc6425f407fb8cfc707c70947fc",
   "Name": "Quasimorph",
   "ProductSlug": "quasimorph-6d2b87",
-  "Ranking_EOS_Progress": 724,
+  "Ranking_EOS_Progress": 725,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-02T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-02T22:00:25.0368579+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:18.2258397+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:58:06.6901365+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:05:52.2876084+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:58:08.7974405+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:06:04.3602366+00:00"
 }

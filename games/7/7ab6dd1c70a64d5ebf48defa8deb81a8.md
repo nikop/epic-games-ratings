@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 53.00% | ~74 |
+| Break Out | 53.00% | ~75 |
 | Trinity | 28.00% | ~39 |
 | Find Allies | 24.00% | ~34 |
 | The Collector | 24.00% | ~34 |
 | Adventurer | 23.00% | ~32 |
 | Fashion Victim | 23.00% | ~32 |
-| Scholar | 22.00% | ~31 |
+| Scholar | 23.00% | ~32 |
 | I Found It | 22.00% | ~31 |
-| Powerful Allies | 21.00% | ~29 |
-| A Taste of Wrath | 21.00% | ~29 |
-| Shatter Them All | 21.00% | ~29 |
-| Geared Up | 19.00% | ~27 |
+| Powerful Allies | 21.00% | ~30 |
+| A Taste of Wrath | 21.00% | ~30 |
+| Shatter Them All | 21.00% | ~30 |
+| Geared Up | 18.00% | ~25 |
 | Tributes of Caladrias | 17.00% | ~24 |
 | Stone Collection | 17.00% | ~24 |
-| Essence Blow | 10.00% | ~14 |
+| Essence Blow | 11.00% | ~16 |
 | Big Bazar | 8.00% | ~11 |
 | The Mentor | 6.00% | ~8 |
 | Airborne | 6.00% | ~8 |
@@ -41,7 +41,7 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 384)  
+Progressed: 141 (Ranked 384)  
 Completed: 1 (0.71%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 1 (0.71%) (Ranked 171)
 | 2023-11-03 | 95 | 1 |
 | 2023-11-04 | 115 | 1 |
 | 2023-11-05 | 133 | 1 |
-| 2023-11-06 | 140 | 1 |
+| 2023-11-06 | 141 | 1 |

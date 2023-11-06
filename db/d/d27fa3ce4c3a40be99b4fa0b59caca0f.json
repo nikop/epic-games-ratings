@@ -2,9 +2,9 @@
   "ID": "d27fa3ce4c3a40be99b4fa0b59caca0f",
   "Name": null,
   "ProductSlug": "razer-cortex",
-  "Ranking_EOS_Progress": 724,
+  "Ranking_EOS_Progress": 725,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T15:57:01.9373504+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:59:13.6864577+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:03:45.927776+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:59:15.2487823+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:03:59.1234788+00:00"
 }

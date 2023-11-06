@@ -2,7 +2,7 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 127,
@@ -608,17 +608,17 @@
       "ID": "3005_achv_getting_rich",
       "SetID": "dhn82m5",
       "Name": "Unfullfilled dreams",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "3011_achv_magicbox",
       "SetID": "dhn82m5",
       "Name": "Mumbo Jumbo",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "3014_achv_sendspot",
@@ -681,8 +681,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:06:59.5370232+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:09:00.7982498+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:51.6320481+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:57:38.0492014+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:06:59.5370745+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:57:41.5705141+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:09:00.7982966+00:00"
 }

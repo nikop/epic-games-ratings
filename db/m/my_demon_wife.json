@@ -2,9 +2,9 @@
   "ID": "a0545919882b4072acb71d0270bdb939",
   "Name": "My Demon Wife",
   "ProductSlug": "my-demon-wife-0d2461",
-  "Ranking_EOS_Progress": 724,
+  "Ranking_EOS_Progress": 667,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-31T17:00:00+00:00",
@@ -24,27 +24,171 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 0,
+  "EOS_Progressed": 1,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
-  "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "EosHistory": [
+    {
+      "Time": "2023-11-06T09:09:26.3097746+00:00",
+      "NumProgressed": 1,
+      "NumCompleted": 0
+    }
+  ],
+  "AchievementsAdded": "2023-11-06T09:09:26.3097778+00:00",
+  "TotalAchievements": 17,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "BIG BOSS",
+      "SetID": "c05pmpe",
+      "Name": "Lucy defeated",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "BULLETHELL",
+      "SetID": "c05pmpe",
+      "Name": "Gatling Gun found",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "COOLEST VAMPIRE EVER",
+      "SetID": "c05pmpe",
+      "Name": "Dracoolio tamed",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DELICIOUS",
+      "SetID": "c05pmpe",
+      "Name": "Soup prepared",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEMOLISHING ENDING",
+      "SetID": "c05pmpe",
+      "Name": "Demolishing Ending",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DEMON KID",
+      "SetID": "c05pmpe",
+      "Name": "You have been killed by Demon Kid",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "DOGMAN SWEEPER",
+      "SetID": "c05pmpe",
+      "Name": "Dogman killed with a broom",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GARGOYLE SWEEPER",
+      "SetID": "c05pmpe",
+      "Name": "Gargoyle killed with a broom",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "GRAND MUMMY SWEEPER",
+      "SetID": "c05pmpe",
+      "Name": "Grand Mummy killed with a broom",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HANDYMAN",
+      "SetID": "c05pmpe",
+      "Name": "Drill found",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "HARDCORE SWEEPER",
+      "SetID": "c05pmpe",
+      "Name": "Hardcore Level cleared",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ION STORM",
+      "SetID": "c05pmpe",
+      "Name": "Energy Gun found",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PARTY ENDING",
+      "SetID": "c05pmpe",
+      "Name": "Party ending",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PIGMAN SWEEPER",
+      "SetID": "c05pmpe",
+      "Name": "Pigman killed with a broom",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROCKETMAN",
+      "SetID": "c05pmpe",
+      "Name": "Rocket launcher found",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ROMANTIC ENDING",
+      "SetID": "c05pmpe",
+      "Name": "Romantic Ending",
+      "Percentage": 0,
+      "XP": 120,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "TRAP HATER",
+      "SetID": "c05pmpe",
+      "Name": "All traps locked",
+      "Percentage": 0,
+      "XP": 35,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "c05pmpe",
       "IsBase": true,
-      "Progressed": 0,
+      "Progressed": 1,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T13:59:34.4071162+00:00",
   "FirstSeenAchievements": "2023-10-30T21:08:49.841391+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:08:56.8218515+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:09:26.3097741+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:36.4650784+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:00:47.4554258+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:08:56.8218553+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:00:49.65641+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:09:26.3586602+00:00"
 }

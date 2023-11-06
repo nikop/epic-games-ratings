@@ -453,9 +453,9 @@
       "ID": "ACH_BAD_MEMORY",
       "SetID": "8h8m55b",
       "Name": "Bad Memory",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BAD_REVIEW",
@@ -469,9 +469,9 @@
       "ID": "ACH_BLOODISH_RED",
       "SetID": "8h8m55b",
       "Name": "Blood(ish) Red",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_BREW_FIRST_TIME",
@@ -525,9 +525,9 @@
       "ID": "ACH_FAILED_MESSENGER",
       "SetID": "8h8m55b",
       "Name": "Failed Messenger",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_FELLOW_INFLUENCER",
@@ -581,9 +581,9 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -645,9 +645,9 @@
       "ID": "ACH_MASTER_PURLOINER",
       "SetID": "8h8m55b",
       "Name": "Master Purloiner",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_NEW_GAME_FIRST_TIME",
@@ -677,9 +677,9 @@
       "ID": "ACH_OVERFLOWING_WARMTH",
       "SetID": "8h8m55b",
       "Name": "\u201COverflowing Warmth: CBAW\u201D",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_REMEMBRANCE",
@@ -693,9 +693,9 @@
       "ID": "ACH_SAVED100",
       "SetID": "8h8m55b",
       "Name": "Saved $100",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_STAR_CROSSED_SIBLINGS",
@@ -741,9 +741,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -765,9 +765,9 @@
       "ID": "ACH_UNLOCK_ALL_CHARACTER",
       "SetID": "8h8m55b",
       "Name": "We are all friends",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_UNLOCK_ALL_DRINK",
@@ -829,9 +829,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 58,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
@@ -844,8 +844,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:04:01.6876418+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:04:14.3322537+00:00",
   "LastUpdate_AppInfo": "2023-10-31T14:57:13.0012751+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:59:46.2934599+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:04:01.6877227+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:59:49.4600392+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:04:14.33231+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "389061e1584946a58872a5ca03d08443",
   "Name": "Flunky Farm",
   "ProductSlug": "flunkyfarm-3bfece",
-  "Ranking_EOS_Progress": 724,
+  "Ranking_EOS_Progress": 725,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-17T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-01T13:01:20.7100553+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:59:19.7995722+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:05:11.2774768+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:59:21.7413553+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:05:23.6021817+00:00"
 }

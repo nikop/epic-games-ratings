@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
@@ -540,6 +540,11 @@
       "Time": "2023-11-06T07:09:43.2846859+00:00",
       "NumProgressed": 140,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T09:10:15.3116652+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -551,7 +556,7 @@
       "Name": "Break Out",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_02",
@@ -567,7 +572,7 @@
       "Name": "Powerful Allies",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_04",
@@ -607,7 +612,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_09",
@@ -669,9 +674,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_17",
@@ -687,7 +692,7 @@
       "Name": "Shatter Them All",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_19",
@@ -725,9 +730,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_24",
@@ -749,9 +754,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_27",
@@ -838,14 +843,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:09:46.6622925+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:10:15.3116647+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:00:17.165025+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:09:46.6623232+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:00:19.1177507+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:10:15.3117019+00:00"
 }

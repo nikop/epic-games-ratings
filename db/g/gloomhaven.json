@@ -2363,9 +2363,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 18862,
+  "EOS_Progressed": 18864,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1704,
+  "EOS_NewPlayers": 1705,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8208,6 +8208,11 @@
       "Time": "2023-11-06T08:06:53.7343077+00:00",
       "NumProgressed": 18862,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T09:07:05.5791495+00:00",
+      "NumProgressed": 18864,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8244,7 +8249,7 @@
       "Name": "Merchant of doom",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "Achievement_Trophy05",
@@ -8284,7 +8289,7 @@
       "Name": "Caught off guard",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "Achievement_Trophy10",
@@ -8404,7 +8409,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 8111
+      "UsersEstimate": 8112
     },
     {
       "ID": "Achievement_Trophy25",
@@ -8420,7 +8425,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6413
+      "UsersEstimate": 6414
     },
     {
       "ID": "Achievement_Trophy27",
@@ -8436,7 +8441,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6224
+      "UsersEstimate": 6225
     },
     {
       "ID": "Achievement_Trophy29",
@@ -8460,7 +8465,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6224
+      "UsersEstimate": 6225
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8484,7 +8489,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "Achievement_Trophy35",
@@ -8604,7 +8609,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2830
     },
     {
       "ID": "Achievement_Trophy50",
@@ -8707,7 +8712,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 18862,
+      "Progressed": 18864,
       "Completed": 1
     }
   ],
@@ -8715,8 +8720,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-06T01:45:27.042099+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:06:53.7343072+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:07:05.5791489+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:59:40.9753625+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:06:53.7344015+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:59:44.8849126+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:07:05.5792639+00:00"
 }

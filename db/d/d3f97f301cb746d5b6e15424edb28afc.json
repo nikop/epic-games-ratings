@@ -917,9 +917,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -1021,9 +1021,9 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 134
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
@@ -1117,9 +1117,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 148
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -1189,9 +1189,9 @@
       "ID": "GSS_ACH_37_BROOM_03",
       "SetID": "5fn8ia4",
       "Name": "Dirt Stains? Not here!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "GSS_ACH_38_GARAGE_01",
@@ -1205,9 +1205,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -1293,9 +1293,9 @@
       "ID": "GSS_ACH_50_UPGRADE_STATION_04",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 5",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "GSS_ACH_51_UPGRADE_WORKSHOP_01",
@@ -1325,17 +1325,17 @@
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 4",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 5",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
@@ -1365,9 +1365,9 @@
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 4",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "GSS_ACH_60_UPGRADE_WAREHOUSE_05",
@@ -1469,9 +1469,9 @@
       "ID": "GSS_ACH_72_GAME_COMPLETE",
       "SetID": "5fn8ia4",
       "Name": "The Dust Bowl",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "GSS_ACH_73_MEETING_THE_UNCLE",
@@ -1564,8 +1564,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-06T07:08:20.8745862+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:03:51.6726809+00:00",
   "LastUpdate_AppInfo": "2023-10-30T14:57:17.9385279+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:00:02.9588776+00:00",
-  "LastUpdate_Achievements": "2023-11-06T07:08:20.8746599+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:00:04.8996295+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:03:51.6750901+00:00"
 }

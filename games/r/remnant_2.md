@@ -5,24 +5,24 @@ Rating: 4.75 (Ranked 142)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,640 |
-| The Killing Jar | 8.00% | ~17,458 |
-| Expanding Horizons | 7.00% | ~15,276 |
-| Quest for Survival | 7.00% | ~15,276 |
-| Not Your Average Trait | 7.00% | ~15,276 |
+| First of Many | 9.00% | ~19,641 |
+| The Killing Jar | 8.00% | ~17,459 |
+| Expanding Horizons | 7.00% | ~15,277 |
+| Quest for Survival | 7.00% | ~15,277 |
+| Not Your Average Trait | 7.00% | ~15,277 |
 | Gleaming the Cube | 6.00% | ~13,094 |
 | Familiar Face | 6.00% | ~13,094 |
 | Duality | 6.00% | ~13,094 |
 | Boss'n Up | 6.00% | ~13,094 |
 | Trait Chaser | 6.00% | ~13,094 |
-| Not So Special Now | 5.00% | ~10,911 |
-| Not a Janitor | 5.00% | ~10,911 |
-| Equal Measures | 5.00% | ~10,911 |
-| Blue Goddess | 5.00% | ~10,911 |
-| Top Performer | 5.00% | ~10,911 |
-| Almost There | 5.00% | ~10,911 |
-| Make Some Room | 5.00% | ~10,911 |
-| Good, But Could Be Better! | 5.00% | ~10,911 |
+| Not So Special Now | 5.00% | ~10,912 |
+| Not a Janitor | 5.00% | ~10,912 |
+| Equal Measures | 5.00% | ~10,912 |
+| Blue Goddess | 5.00% | ~10,912 |
+| Top Performer | 5.00% | ~10,912 |
+| Almost There | 5.00% | ~10,912 |
+| Make Some Room | 5.00% | ~10,912 |
+| Good, But Could Be Better! | 5.00% | ~10,912 |
 | Chaos | 4.00% | ~8,729 |
 | Traitor | 4.00% | ~8,729 |
 | Power Surge | 4.00% | ~8,729 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 142)
 | The Collector | 1.00% | ~2,182 |
 | Proving Grounds | 1.00% | ~2,182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,226 (Ranked 68)  
+Progressed: 218,236 (Ranked 68)  
 Completed: 432 (0.20%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,10 +169,10 @@ Completed: 432 (0.20%) (Ranked 243)
 | 2023-11-03 | 217,330 | 429 |
 | 2023-11-04 | 217,742 | 429 |
 | 2023-11-05 | 218,156 | 431 |
-| 2023-11-06 | 218,226 | 432 |
+| 2023-11-06 | 218,236 | 432 |
 ## Awards
 Max (Great Boss Battles): 2,066  (Ranked 109)  
-Sum: 4,607 (Ranked 143)  
+Sum: 4,613 (Ranked 143)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -181,7 +181,7 @@ Diff (max vs sum): -34
 | This game has Challenging Combat | 280 |
 | This game is Extremely Fun | 274 |
 | This game is Relaxing | 270 |
-| This game is Highly Recommended | 263 |
+| This game is Highly Recommended | 269 |
 | This game has Amazing Storytelling | 260 |
 | This game has Quickly Understood Controls | 247 |
 | This game has Amazing Characters | 246 |
@@ -293,4 +293,4 @@ Diff (max vs sum): -34
 | 2023-11-03 | 4.75 | 2,040 | 4,526 |
 | 2023-11-04 | 4.75 | 2,051 | 4,558 |
 | 2023-11-05 | 4.75 | 2,066 | 4,605 |
-| 2023-11-06 | 4.75 | 2,066 | 4,607 |
+| 2023-11-06 | 4.75 | 2,066 | 4,613 |

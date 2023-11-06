@@ -15,7 +15,7 @@
 | Vampires | 31.00% | ~27 |
 | Bloody stream | 31.00% | ~27 |
 | Fangs | 19.00% | ~17 |
-| Mirrors | 10.00% | ~9 |
+| Mirrors | 11.00% | ~10 |
 | Coat | 7.00% | ~6 |
 | I need a hero | 7.00% | ~6 |
 | At least there is something to read | 6.00% | ~5 |

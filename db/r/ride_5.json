@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2016,
+  "EOS_Progressed": 2017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4397,6 +4397,11 @@
       "Time": "2023-11-06T08:09:48.0296812+00:00",
       "NumProgressed": 2016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-06T09:10:16.5828863+00:00",
+      "NumProgressed": 2017,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4417,7 +4422,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4489,7 +4494,7 @@
       "Name": "Spoilt for Choice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4537,7 +4542,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -4545,7 +4550,7 @@
       "Name": "La Dolce Vita",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -4561,7 +4566,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4569,7 +4574,7 @@
       "Name": "Romantic Races",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4721,7 +4726,7 @@
       "Name": "Rounding Off",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -4800,14 +4805,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2016,
+      "Progressed": 2017,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:09:48.0296807+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:10:16.5828859+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:00:21.3671693+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:09:48.0297575+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:00:22.8529144+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:10:16.5829575+00:00"
 }

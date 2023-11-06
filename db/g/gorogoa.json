@@ -2,9 +2,9 @@
   "ID": "meerkat",
   "Name": "Gorogoa",
   "ProductSlug": "gorogoa",
-  "Ranking_EOS_Progress": 724,
+  "Ranking_EOS_Progress": 725,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2017-12-14T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:40.7538072+00:00",
   "LastChanged": "2023-03-31T05:57:40.7538073+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:40.6494623+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:03:32.3623295+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:05:41.6337172+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:03:43.9867099+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:05:54.0221972+00:00"
 }

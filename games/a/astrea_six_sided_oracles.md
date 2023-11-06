@@ -7,14 +7,14 @@
 | Meissa's Savior | 41.00% | ~28 |
 | Purification Pioneer | 40.00% | ~27 |
 | Dicesmithing Time! | 37.00% | ~25 |
+| Mechanical Buddy | 37.00% | ~25 |
 | Endless Tricks | 35.00% | ~24 |
-| Mechanical Buddy | 35.00% | ~24 |
 | Noctuan Champion | 35.00% | ~24 |
+| Sanctuary Guardian | 32.00% | ~22 |
 | Wild's Keeper | 32.00% | ~22 |
 | Eridanian Champion | 32.00% | ~22 |
 | Lacertian Champion | 32.00% | ~22 |
 | Mind Illuminator | 31.00% | ~21 |
-| Sanctuary Guardian | 31.00% | ~21 |
 | Apian Champion | 31.00% | ~21 |
 | Anomaly Destroyer | 26.00% | ~18 |
 | Stellar Dismantler | 26.00% | ~18 |
@@ -60,6 +60,7 @@
 | Lacertian Mastery | 4.00% | ~3 |
 | Noctuan Mastery | 4.00% | ~3 |
 | Prestidigitation | 3.00% | ~2 |
+| Royal Choir | 3.00% | ~2 |
 | Sentinelphobic | 3.00% | ~2 |
 | Eridanian Mastery | 3.00% | ~2 |
 | Anomaly Master | 1.00% | ~1 |
@@ -71,7 +72,6 @@
 | Gotta tinker'em all! | 1.00% | ~1 |
 | Plague Doctor | 1.00% | ~1 |
 | Pocket Astrarium | 1.00% | ~1 |
-| Royal Choir | 1.00% | ~1 |
 | This is Fine | 1.00% | ~1 |
 | Virtuous Warrior | 1.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |

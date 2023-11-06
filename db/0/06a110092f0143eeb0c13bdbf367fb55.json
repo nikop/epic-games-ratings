@@ -2,9 +2,9 @@
   "ID": "06a110092f0143eeb0c13bdbf367fb55",
   "Name": "Lost Colony",
   "ProductSlug": "lost-colony-5763c3",
-  "Ranking_EOS_Progress": 724,
+  "Ranking_EOS_Progress": 725,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-03T05:57:28.0814964+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:03:33.9441677+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:04:27.8871679+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:03:45.9519905+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:04:40.7291322+00:00"
 }

@@ -15,7 +15,7 @@ Number of Ratings: 281  (23.09.2022)
 | Scaling up | 2.00% | ~128 |
 | Fish Out of Water | 1.00% | ~64 |
 | Things that go Splash in the Night | 1.00% | ~64 |
-| Goldfish? | 0.90% | ~57 |
+| Goldfish? | 0.90% | ~58 |
 | Going for Gold | 0.80% | ~51 |
 | School's Out for Summer | 0.50% | ~32 |
 | Live by the Rod, Diez by the Rod! | 0.50% | ~29 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,388 (Ranked 177)  
+Progressed: 6,389 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 0 (0.00%) (Ranked 344)
 | 2023-11-03 | 6,286 | 0 |
 | 2023-11-04 | 6,326 | 0 |
 | 2023-11-05 | 6,377 | 0 |
-| 2023-11-06 | 6,388 | 0 |
+| 2023-11-06 | 6,389 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 190 (Ranked 402)  

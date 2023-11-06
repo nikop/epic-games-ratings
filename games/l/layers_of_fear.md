@@ -8,8 +8,8 @@
 | Something important | 73.00% | ~41 |
 | A piece of the story | 57.00% | ~32 |
 | Do what you have to | 39.00% | ~22 |
-| The artist’s impression | 38.00% | ~21 |
-| Scraps of love | 36.00% | ~20 |
+| The artist’s impression | 39.00% | ~22 |
+| Scraps of love | 38.00% | ~21 |
 | It's covered up for a reason | 34.00% | ~19 |
 | Refuse to look | 32.00% | ~18 |
 | Sign of weakness | 30.00% | ~17 |

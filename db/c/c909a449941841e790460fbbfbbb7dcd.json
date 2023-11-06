@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162,
+  "EOS_Progressed": 164,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.47,
+  "EOS_Completed_Percentage": 2.44,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -709,6 +709,11 @@
       "Time": "2023-11-06T08:09:29.7223866+00:00",
       "NumProgressed": 162,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-06T09:09:59.1175543+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -721,7 +726,7 @@
       "Name": "Kaboom!",
       "Percentage": 41,
       "XP": 60,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -729,15 +734,15 @@
       "Name": "Laser Beam",
       "Percentage": 58,
       "XP": 60,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -745,13 +750,13 @@
       "Name": "Assassin",
       "Percentage": 56,
       "XP": 60,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 40,
       "UsersEstimate": 134
     },
@@ -761,15 +766,15 @@
       "Name": "Killer",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Exterminator",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 110,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_0_0",
@@ -777,7 +782,7 @@
       "Name": "Peaceful is safe!",
       "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 100
+      "UsersEstimate": 102
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_0",
@@ -785,15 +790,15 @@
       "Name": "Badlands is safe!",
       "Percentage": 34,
       "XP": 60,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -801,7 +806,7 @@
       "Name": "Northbarrow is safe!",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -809,7 +814,7 @@
       "Name": "Sagehaven is safe!",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -847,7 +852,7 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
       "UsersEstimate": 130
     }
@@ -856,14 +861,14 @@
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 162,
+      "Progressed": 164,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:09:29.7223862+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:09:59.1175538+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-06T07:59:25.9185883+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:09:29.7224045+00:00"
+  "LastUpdate_Ratings": "2023-11-06T08:59:28.6222117+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:09:59.1175721+00:00"
 }

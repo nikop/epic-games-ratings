@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 498,
+  "EOS_Progressed": 499,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 461,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -672,6 +672,11 @@
       "Time": "2023-11-06T07:09:24.793784+00:00",
       "NumProgressed": 498,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-06T09:10:02.1258409+00:00",
+      "NumProgressed": 499,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -692,7 +697,7 @@
       "Name": "My Darkest Day",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "EV_ACH03",
@@ -708,7 +713,7 @@
       "Name": "No Bites",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "EV_ACH05",
@@ -716,15 +721,15 @@
       "Name": "Tear of Freedom",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 175
     },
     {
       "ID": "EV_ACH07",
@@ -732,7 +737,7 @@
       "Name": "3000 Year Blackout",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "EV_ACH08",
@@ -740,7 +745,7 @@
       "Name": "So Close",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "EV_ACH09",
@@ -748,7 +753,7 @@
       "Name": "You Get Used To It",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "EV_ACH10",
@@ -756,7 +761,7 @@
       "Name": "Family",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "EV_ACH11",
@@ -764,7 +769,7 @@
       "Name": "Biggest Snowball Ever",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "EV_ACH12",
@@ -772,7 +777,7 @@
       "Name": "Freeze The Ice Witch",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "EV_ACH13",
@@ -780,15 +785,15 @@
       "Name": "It Is Not Over",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 225
     },
     {
       "ID": "EV_ACH15",
@@ -812,7 +817,7 @@
       "Name": "Iceborn",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "EV_ACH18",
@@ -820,7 +825,7 @@
       "Name": "Snowy Poro",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "EV_ACH19",
@@ -828,15 +833,15 @@
       "Name": "On The Rocks",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 200
     },
     {
       "ID": "EV_ACH21",
@@ -852,7 +857,7 @@
       "Name": "Bullseye",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "EV_ACH23",
@@ -868,7 +873,7 @@
       "Name": "Never Gets Old",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "EV_ACH25",
@@ -876,7 +881,7 @@
       "Name": "Rhythm Of Willump",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "EV_ACH26",
@@ -962,9 +967,9 @@
       "ID": "EV_ACH36",
       "SetID": "6jeac23",
       "Name": "The Relentless Storm",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 180
     },
     {
       "ID": "EV_ACH37",
@@ -972,15 +977,15 @@
       "Name": "The Finisher",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "EV_ACH38",
       "SetID": "6jeac23",
       "Name": "Vertical Power",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 130
     },
     {
       "ID": "EV_ACH39",
@@ -988,7 +993,7 @@
       "Name": "Boosted!",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "EV_ACH40",
@@ -1012,7 +1017,7 @@
       "Name": "Deadliest and Biggest Snowball Ever!",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "EV_ACH43",
@@ -1035,14 +1040,14 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 498,
+      "Progressed": 499,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-06T08:09:33.3670518+00:00",
+  "LastChanged_Achievements": "2023-11-06T09:10:02.1258404+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-06T08:00:32.3275025+00:00",
-  "LastUpdate_Achievements": "2023-11-06T08:09:33.3670957+00:00"
+  "LastUpdate_Ratings": "2023-11-06T09:00:35.8245462+00:00",
+  "LastUpdate_Achievements": "2023-11-06T09:10:02.1258914+00:00"
 }
