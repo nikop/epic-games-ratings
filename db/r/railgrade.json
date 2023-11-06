@@ -591,9 +591,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18605,
+  "EOS_Progressed": 18604,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": -83,
+  "EOS_NewPlayers": -84,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -9071,6 +9071,11 @@
       "Time": "2023-11-06T06:07:00.76964+00:00",
       "NumProgressed": 18605,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-06T07:07:05.9509259+00:00",
+      "NumProgressed": 18604,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 37,
@@ -9114,7 +9119,7 @@
       "Name": "Builder",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 16186
+      "UsersEstimate": 16185
     },
     {
       "ID": "ach.060.goingdistance",
@@ -9122,7 +9127,7 @@
       "Name": "Going the Distance",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 10605
+      "UsersEstimate": 10604
     },
     {
       "ID": "ach.070.8kenough",
@@ -9136,9 +9141,9 @@
       "ID": "ach.080.eraser",
       "SetID": "384aaja",
       "Name": "Eraser",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 13582
+      "UsersEstimate": 13767
     },
     {
       "ID": "ach.090.perfectionist",
@@ -9154,7 +9159,7 @@
       "Name": "Indecisive",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5768
+      "UsersEstimate": 5767
     },
     {
       "ID": "ach.110.multiverse",
@@ -9170,7 +9175,7 @@
       "Name": "Simplification",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6698
+      "UsersEstimate": 6697
     },
     {
       "ID": "ach.130.minimalist",
@@ -9178,7 +9183,7 @@
       "Name": "Minimalist",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 17675
+      "UsersEstimate": 17674
     },
     {
       "ID": "ach.140.legacy",
@@ -9186,7 +9191,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 103,
       "XP": 60,
-      "UsersEstimate": 19163
+      "UsersEstimate": 19162
     },
     {
       "ID": "ach.150.pocket",
@@ -9202,7 +9207,7 @@
       "Name": "Box of Trains",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 6512
+      "UsersEstimate": 6511
     },
     {
       "ID": "ach.170.room",
@@ -9218,7 +9223,7 @@
       "Name": "Inspector",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 11535
+      "UsersEstimate": 11534
     },
     {
       "ID": "ach.190.scenic",
@@ -9234,7 +9239,7 @@
       "Name": "Let There be Light",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6326
+      "UsersEstimate": 6325
     },
     {
       "ID": "ach.210.baron",
@@ -9250,7 +9255,7 @@
       "Name": "Hot Water",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5954
+      "UsersEstimate": 5953
     },
     {
       "ID": "ach.230.infinity",
@@ -9274,7 +9279,7 @@
       "Name": "Before the Downfall",
       "Percentage": 98,
       "XP": 60,
-      "UsersEstimate": 18233
+      "UsersEstimate": 18232
     },
     {
       "ID": "ach.260.investor",
@@ -9338,7 +9343,7 @@
       "Name": "Money like Water",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 17861
+      "UsersEstimate": 17860
     },
     {
       "ID": "ach.340.steel",
@@ -9377,7 +9382,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18605,
+      "Progressed": 18604,
       "Completed": 31
     }
   ],
@@ -9385,8 +9390,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-10-23T18:59:29.6772157+00:00",
-  "LastChanged_Achievements": "2023-11-06T06:07:00.7696396+00:00",
+  "LastChanged_Achievements": "2023-11-06T07:07:05.9509255+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.5042419+00:00",
-  "LastUpdate_Ratings": "2023-11-06T06:00:57.3402052+00:00",
-  "LastUpdate_Achievements": "2023-11-06T06:07:00.7696992+00:00"
+  "LastUpdate_Ratings": "2023-11-06T07:00:57.6072956+00:00",
+  "LastUpdate_Achievements": "2023-11-06T07:07:05.9509759+00:00"
 }

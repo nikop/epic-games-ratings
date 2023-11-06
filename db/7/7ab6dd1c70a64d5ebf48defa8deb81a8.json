@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 386,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 127,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 139,
+  "EOS_Progressed": 140,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.72,
+  "EOS_Completed_Percentage": 0.71,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -535,6 +535,11 @@
       "Time": "2023-11-06T06:10:00.3632631+00:00",
       "NumProgressed": 139,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-06T07:09:43.2846859+00:00",
+      "NumProgressed": 140,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -554,7 +559,7 @@
       "Name": "Find Allies",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_03",
@@ -600,9 +605,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_09",
@@ -680,9 +685,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 29
     },
     {
       "ID": "ACH_19",
@@ -722,7 +727,7 @@
       "Name": "Geared Up",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_24",
@@ -802,7 +807,7 @@
       "Name": "The Collector",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_35",
@@ -833,14 +838,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 139,
+      "Progressed": 140,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-06T06:10:00.3632628+00:00",
+  "LastChanged_Achievements": "2023-11-06T07:09:43.2846856+00:00",
   "LastUpdate_AppInfo": "2023-10-30T17:56:59.119412+00:00",
-  "LastUpdate_Ratings": "2023-11-06T06:00:54.5639456+00:00",
-  "LastUpdate_Achievements": "2023-11-06T06:10:00.3632871+00:00"
+  "LastUpdate_Ratings": "2023-11-06T07:00:54.5623406+00:00",
+  "LastUpdate_Achievements": "2023-11-06T07:09:43.284707+00:00"
 }

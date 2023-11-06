@@ -3,7 +3,7 @@
   "Name": "Symphony of War",
   "ProductSlug": "symphony-of-war-60a76e",
   "Ranking_Rating": 330,
-  "Ranking_Popularity": 403,
+  "Ranking_Popularity": 402,
   "Ranking_PopularitySum": 468,
   "Ranking_EOS_Progress": 724,
   "Ranking_EOS_Completed": 344,
@@ -230,18 +230,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 67,
       "NumberOfAwardsMax": 67
+    },
+    {
+      "Time": "2023-11-06T06:58:27.8138765+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 68,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 67,
-  "NumberOfAwardsMax": 67,
+  "NumberOfAwards": 68,
+  "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 67
+      "Count": 68
     }
   ],
   "EOS_Progressed": 0,
@@ -255,8 +261,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:23.9681849+00:00",
-  "LastChanged": "2023-07-31T01:59:41.189267+00:00",
+  "LastChanged": "2023-11-06T06:58:27.8138764+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:18.7630468+00:00",
-  "LastUpdate_Ratings": "2023-11-06T05:58:34.2576532+00:00",
-  "LastUpdate_Achievements": "2023-11-06T06:07:34.1254987+00:00"
+  "LastUpdate_Ratings": "2023-11-06T06:58:27.8138772+00:00",
+  "LastUpdate_Achievements": "2023-11-06T07:07:40.7355377+00:00"
 }

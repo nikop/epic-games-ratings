@@ -719,9 +719,9 @@
       "ID": "MindIlluminator",
       "SetID": "1jeo1g7",
       "Name": "Mind Illuminator",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -855,9 +855,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "StellarDismantler",
@@ -1095,9 +1095,9 @@
       "ID": "LacertianChampion",
       "SetID": "1jeo1g7",
       "Name": "Lacertian Champion",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "LacertianHero",
@@ -1150,8 +1150,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-06T06:04:53.775126+00:00",
+  "LastChanged_Achievements": "2023-11-06T07:04:52.5511256+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:15.9709684+00:00",
-  "LastUpdate_Ratings": "2023-11-06T06:00:38.0537732+00:00",
-  "LastUpdate_Achievements": "2023-11-06T06:04:53.7752193+00:00"
+  "LastUpdate_Ratings": "2023-11-06T07:00:37.1090337+00:00",
+  "LastUpdate_Achievements": "2023-11-06T07:04:52.5512189+00:00"
 }

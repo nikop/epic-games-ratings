@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 1.00% | ~152 |
 | Mythology | 1.00% | ~152 |
 | Redemption | 1.00% | ~152 |
+| Cimmerian Archer | 1.00% | ~152 |
 | Double Victory | 1.00% | ~152 |
 | Points Victory | 1.00% | ~152 |
 | The Clergy | 1.00% | ~152 |
@@ -110,7 +111,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.90% | ~137 |
 | Gnosticism | 0.90% | ~137 |
 | Revelation | 0.90% | ~137 |
-| Cimmerian Archer | 0.90% | ~137 |
 | Legionary | 0.90% | ~137 |
 | Phalangite | 0.90% | ~137 |
 | Ambition Victory | 0.90% | ~137 |
@@ -133,6 +133,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kmt Unified | 0.70% | ~106 |
 | Bad Heir Day | 0.60% | ~91 |
 | Noble Difficulty | 0.60% | ~91 |
+| Cao'an | 0.60% | ~91 |
 | Rome | 0.60% | ~91 |
 | Hittite Paganism | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.50% | ~76 |
 | Carthage - Ox Hide | 0.50% | ~76 |
 | Peacemaker | 0.50% | ~76 |
-| Cao'an | 0.50% | ~76 |
 | Adur Burzen-Mihr | 0.50% | ~76 |
 | Learn to Play 5 | 0.50% | ~76 |
 | Old World Order | 0.50% | ~76 |
@@ -170,6 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.30% | ~46 |
 | Persia | 0.30% | ~46 |
 | Play a Network Game | 0.30% | ~46 |
+| Circus Maximus in Roma | 0.30% | ~46 |
 | Conquest Victory | 0.30% | ~46 |
 | Necropolis in Waset | 0.30% | ~46 |
 | Prosperous Kmt | 0.30% | ~46 |
@@ -191,7 +192,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.20% | ~30 |
 | Apadana in Parsa | 0.20% | ~30 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
-| Circus Maximus in Roma | 0.20% | ~30 |
 | Pantheon in Roma | 0.20% | ~30 |
 | Randomized Leaders | 0.20% | ~30 |
 | Kmt Golden Age | 0.20% | ~30 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,175 (Ranked 145)  
+Progressed: 15,176 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -549,7 +549,7 @@ Completed: 5 (0.03%) (Ranked 308)
 | 2023-11-03 | 15,118 | 5 |
 | 2023-11-04 | 15,141 | 5 |
 | 2023-11-05 | 15,167 | 5 |
-| 2023-11-06 | 15,175 | 5 |
+| 2023-11-06 | 15,176 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 271)  
 Sum: 1,868 (Ranked 212)  

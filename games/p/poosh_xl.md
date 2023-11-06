@@ -26,7 +26,7 @@
 | Challenge 12 | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 381)  
-Completed: 2 (1.34%) (Ranked 140)  
+Completed: 2 (1.34%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2021-12-02T16:00:00+00:00",
     "PcReleaseDate": "2019-01-17T15:00:00+00:00",
@@ -499,9 +499,9 @@
       "Count": 135
     }
   ],
-  "EOS_Progressed": 609479,
+  "EOS_Progressed": 609480,
   "EOS_Completed": 542,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -22859,6 +22859,11 @@
       "Time": "2023-11-06T06:04:30.9331519+00:00",
       "NumProgressed": 609479,
       "NumCompleted": 542
+    },
+    {
+      "Time": "2023-11-06T07:04:28.4675688+00:00",
+      "NumProgressed": 609480,
+      "NumCompleted": 542
     }
   ],
   "TotalAchievements": 28,
@@ -22934,7 +22939,7 @@
       "Name": "We need more gold",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 371782
+      "UsersEstimate": 371783
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -22998,7 +23003,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 566815
+      "UsersEstimate": 566816
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -23030,7 +23035,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 402256
+      "UsersEstimate": 402257
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -23093,15 +23098,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 609479,
+      "Progressed": 609480,
       "Completed": 542
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-10-24T11:00:57.0724389+00:00",
-  "LastChanged_Achievements": "2023-11-06T06:04:30.9331516+00:00",
+  "LastChanged_Achievements": "2023-11-06T07:04:28.4675684+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.6919076+00:00",
-  "LastUpdate_Ratings": "2023-11-06T06:02:53.364069+00:00",
-  "LastUpdate_Achievements": "2023-11-06T06:04:30.9332659+00:00"
+  "LastUpdate_Ratings": "2023-11-06T07:02:44.1337067+00:00",
+  "LastUpdate_Achievements": "2023-11-06T07:04:28.4677007+00:00"
 }

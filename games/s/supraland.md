@@ -6,44 +6,44 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~724,520 |
-| The Blues | 85.00% | ~622,062 |
-| Fast | 66.00% | ~483,013 |
-| Healthbar | 55.00% | ~402,511 |
-| Force Cube | 53.00% | ~387,874 |
-| Double Jump | 48.00% | ~351,282 |
-| Regeneration | 47.00% | ~343,964 |
-| Triple Jump | 43.00% | ~314,690 |
-| Climb the hill | 42.00% | ~307,372 |
-| Through the fire pipe | 39.00% | ~285,417 |
-| MacGuffin | 38.00% | ~278,098 |
-| Just once | 37.00% | ~270,780 |
-| Armor | 30.00% | ~219,551 |
+| Out of bed | 99.00% | ~724,523 |
+| The Blues | 85.00% | ~622,065 |
+| Fast | 66.00% | ~483,015 |
+| Healthbar | 55.00% | ~402,513 |
+| Force Cube | 53.00% | ~387,876 |
+| Double Jump | 48.00% | ~351,284 |
+| Regeneration | 47.00% | ~343,965 |
+| Triple Jump | 43.00% | ~314,692 |
+| Climb the hill | 42.00% | ~307,373 |
+| Through the fire pipe | 39.00% | ~285,418 |
+| MacGuffin | 38.00% | ~278,100 |
+| Just once | 37.00% | ~270,781 |
+| Armor | 30.00% | ~219,552 |
 | True holy spirit | 28.00% | ~204,915 |
-| That's how electronics work obviously | 27.00% | ~197,596 |
+| That's how electronics work obviously | 27.00% | ~197,597 |
 | Force Cube Catapult | 25.00% | ~182,960 |
 | Holy Sword | 23.00% | ~168,323 |
 | Telefrag | 23.00% | ~168,323 |
-| Freed from prison | 21.00% | ~153,686 |
-| Stomp | 21.00% | ~153,686 |
-| Double Health | 19.00% | ~139,049 |
-| Buckle | 17.00% | ~124,412 |
-| Green Keycard | 17.00% | ~124,412 |
-| Rattle Hag | 16.00% | ~117,094 |
+| Freed from prison | 21.00% | ~153,687 |
+| Stomp | 21.00% | ~153,687 |
+| Double Health | 19.00% | ~139,050 |
+| Buckle | 17.00% | ~124,413 |
+| Green Keycard | 17.00% | ~124,413 |
+| Rattle Hag | 16.00% | ~117,095 |
 | All Shells | 15.00% | ~109,776 |
-| Beam | 14.00% | ~102,457 |
+| Beam | 14.00% | ~102,458 |
 | Health Drink | 13.00% | ~95,139 |
 | Helped a star | 13.00% | ~95,139 |
 | 9 | 13.00% | ~95,139 |
 | Purple Cube | 13.00% | ~95,139 |
 | Supraball Noob | 13.00% | ~95,139 |
 | Strong | 12.00% | ~87,821 |
-| Blue King's lair | 11.00% | ~80,502 |
-| Payback | 11.00% | ~80,502 |
-| Got the coins back | 11.00% | ~80,502 |
-| Got the gun back | 11.00% | ~80,502 |
-| Infiltrated | 11.00% | ~80,502 |
-| Robbed | 11.00% | ~80,502 |
+| Blue King's lair | 11.00% | ~80,503 |
+| Payback | 11.00% | ~80,503 |
+| Got the coins back | 11.00% | ~80,503 |
+| Got the gun back | 11.00% | ~80,503 |
+| Infiltrated | 11.00% | ~80,503 |
+| Robbed | 11.00% | ~80,503 |
 | Fire Flies | 10.00% | ~73,184 |
 | Cave Flies | 10.00% | ~73,184 |
 | Gold Scam | 10.00% | ~73,184 |
@@ -51,10 +51,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~73,184 |
 | Translocator | 10.00% | ~73,184 |
 | Yellow Shot Button | 10.00% | ~73,184 |
-| Moon Door | 9.00% | ~65,865 |
-| Momentum | 9.00% | ~65,865 |
-| Through the tiny pipe | 9.00% | ~65,865 |
-| Win! | 9.00% | ~65,865 |
+| Moon Door | 9.00% | ~65,866 |
+| Momentum | 9.00% | ~65,866 |
+| Through the tiny pipe | 9.00% | ~65,866 |
+| Win! | 9.00% | ~65,866 |
 | The real real teleported man | 8.00% | ~58,547 |
 | Well deserved | 6.00% | ~43,910 |
 | Super Sword | 4.00% | ~29,274 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~732 |
 | DLC: Top of the world | 0.10% | ~732 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 731,838 (Ranked 19)  
+Progressed: 731,841 (Ranked 19)  
 Completed: 757 (0.10%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,16 +305,16 @@ Completed: 757 (0.10%) (Ranked 268)
 | 2023-11-03 | 731,523 | 756 |
 | 2023-11-04 | 731,666 | 757 |
 | 2023-11-05 | 731,818 | 757 |
-| 2023-11-06 | 731,838 | 757 |
+| 2023-11-06 | 731,841 | 757 |
 ## Awards
 Max (Challenging Puzzles): 7,718  (Ranked 49)  
-Sum: 10,065 (Ranked 91)  
+Sum: 10,066 (Ranked 91)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 7,718 |
 | This game is Educational | 283 |
-| This game has Amazing Storytelling | 279 |
+| This game has Amazing Storytelling | 280 |
 | This game is Relaxing | 278 |
 | This game has Amazing Characters | 277 |
 | This game is Great for Beginners | 269 |
@@ -507,3 +507,4 @@ Diff (max vs sum): -42
 | 2023-11-01 | 4.61 | - | 7,714 | 10,061 |
 | 2023-11-03 | 4.61 | - | 7,715 | 10,062 |
 | 2023-11-04 | 4.61 | - | 7,718 | 10,065 |
+| 2023-11-06 | 4.61 | - | 7,718 | 10,066 |

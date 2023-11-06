@@ -4,7 +4,7 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 211,
+  "EOS_Progressed": 212,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.9,
+  "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -1004,6 +1004,11 @@
       "Time": "2023-11-06T06:09:40.175949+00:00",
       "NumProgressed": 211,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-06T07:09:21.9275938+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -1015,15 +1020,15 @@
       "Name": "Are you still Alive?",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_DIE",
       "SetID": "c2kf3nm",
       "Name": "Sometimes Death is a Mercy",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 127
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH_DULLER",
@@ -1031,7 +1036,7 @@
       "Name": "STAY AWAY",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_ENTERLEVELRUN",
@@ -1039,15 +1044,15 @@
       "Name": "THERE IS NO EXIT",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_FIND_ENTITY",
       "SetID": "c2kf3nm",
       "Name": "YOU DESERVE THAT",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_FRIEND",
@@ -1055,7 +1060,7 @@
       "Name": "NO ONE CAN HEAR YOU SCREAM",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_GET_IN",
@@ -1063,7 +1068,7 @@
       "Name": "Lab Rat",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_GET_OUT",
@@ -1085,9 +1090,9 @@
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_HOUND",
@@ -1117,9 +1122,9 @@
       "ID": "ACH_PITFALLS",
       "SetID": "c2kf3nm",
       "Name": "Pitfalls",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_PITFALLSDIE",
@@ -1127,7 +1132,7 @@
       "Name": "One Wrong Step",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_RUN",
@@ -1149,23 +1154,23 @@
       "ID": "ACH_WHYRUNNING",
       "SetID": "c2kf3nm",
       "Name": "Why are you running?!",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 211,
+      "Progressed": 212,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-06T06:09:40.1759486+00:00",
+  "LastChanged_Achievements": "2023-11-06T07:09:21.9275934+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:51.9800214+00:00",
-  "LastUpdate_Ratings": "2023-11-06T06:00:27.3145979+00:00",
-  "LastUpdate_Achievements": "2023-11-06T06:09:40.175963+00:00"
+  "LastUpdate_Ratings": "2023-11-06T07:00:25.1368253+00:00",
+  "LastUpdate_Achievements": "2023-11-06T07:09:21.9276111+00:00"
 }

@@ -15,7 +15,7 @@ Rating: 4.60 (Ranked 407)
 | Calm Sailing | 36.00% | ~2,730 |
 | Open the Gate! | 33.00% | ~2,502 |
 | Mist Walker | 32.00% | ~2,426 |
-| Lumberjack | 26.00% | ~1,971 |
+| Lumberjack | 27.00% | ~2,047 |
 | Oui, Chef! | 23.00% | ~1,744 |
 | Clear the Air | 18.00% | ~1,365 |
 | Botanical Breakthrough | 17.00% | ~1,289 |

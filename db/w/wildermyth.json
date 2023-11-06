@@ -2005,9 +2005,9 @@
       "ID": "completedStory_monarchs",
       "SetID": "95dc8p",
       "Name": "Echoes Die",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "completedStory_procedural",
@@ -2205,8 +2205,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-11-06T06:09:28.7685213+00:00",
+  "LastChanged_Achievements": "2023-11-06T07:09:10.0177774+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:27.3279297+00:00",
-  "LastUpdate_Ratings": "2023-11-06T05:57:40.8611594+00:00",
-  "LastUpdate_Achievements": "2023-11-06T06:09:28.7685694+00:00"
+  "LastUpdate_Ratings": "2023-11-06T06:57:31.1341468+00:00",
+  "LastUpdate_Achievements": "2023-11-06T07:09:10.0178168+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_Completed": 137,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 508,
-  "EOS_Completed": 6,
+  "EOS_Completed": 7,
   "EOS_NewPlayers": 29,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 1.18,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -1550,6 +1550,11 @@
       "Time": "2023-11-05T21:04:18.6311582+00:00",
       "NumProgressed": 508,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-06T07:04:57.8290557+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1666,13 +1671,13 @@
       "ID": "51of0eo",
       "IsBase": true,
       "Progressed": 508,
-      "Completed": 6
+      "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-06T06:04:58.7771126+00:00",
+  "LastChanged_Achievements": "2023-11-06T07:04:57.8290552+00:00",
   "LastUpdate_AppInfo": "2023-11-03T01:40:42.0559682+00:00",
-  "LastUpdate_Ratings": "2023-11-06T05:59:54.2496424+00:00",
-  "LastUpdate_Achievements": "2023-11-06T06:04:58.7771288+00:00"
+  "LastUpdate_Ratings": "2023-11-06T06:59:50.0748964+00:00",
+  "LastUpdate_Achievements": "2023-11-06T07:04:57.8290762+00:00"
 }

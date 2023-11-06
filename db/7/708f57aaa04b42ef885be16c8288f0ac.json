@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4252,
+  "EOS_Progressed": 4254,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 958,
+  "EOS_NewPlayers": 959,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2200,6 +2200,11 @@
       "Time": "2023-11-06T05:08:49.8008791+00:00",
       "NumProgressed": 4252,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-06T07:09:02.3521691+00:00",
+      "NumProgressed": 4254,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2220,7 +2225,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "BeLikeWater",
@@ -2284,7 +2289,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2338,9 +2343,9 @@
       "ID": "LiveByTheSword",
       "SetID": "acc6ea0",
       "Name": "Live By The Sword",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "MasterManipulator",
@@ -2483,7 +2488,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4252,
+      "Progressed": 4254,
       "Completed": 5
     }
   ],
@@ -2491,8 +2496,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-05T20:58:48.2968347+00:00",
-  "LastChanged_Achievements": "2023-11-06T06:09:21.5791099+00:00",
+  "LastChanged_Achievements": "2023-11-06T07:09:02.3521687+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-06T05:59:16.6563307+00:00",
-  "LastUpdate_Achievements": "2023-11-06T06:09:21.5791461+00:00"
+  "LastUpdate_Ratings": "2023-11-06T06:59:09.9563771+00:00",
+  "LastUpdate_Achievements": "2023-11-06T07:09:02.3522+00:00"
 }
