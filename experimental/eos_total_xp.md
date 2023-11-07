@@ -308,6 +308,7 @@
 | [Gloomhaven](../games/g/gloomhaven.md) | 61 | 1,000 |
 | [Goat Simulator 3](../games/g/goat_simulator_3.md) | 39 | 1,000 |
 | [Godlike Burger](../games/g/godlike_burger.md) | 28 | 1,000 |
+| [Godzilla Voxel Wars](../games/8/8549e5bffe744f67933bf4f8689030c4.md) | 63 | 1,000 |
 | [Going Medieval](../games/g/going_medieval.md) | 31 | 1,000 |
 | [Golden Light](../games/c/ca05bd340e84436ebea4a0c0ca55befa.md) | 67 | 1,000 |
 | [Golfing in Aether](../games/4/40f6e4beb45a4bbfb77fdb6774331e83.md) | 14 | 1,000 |
