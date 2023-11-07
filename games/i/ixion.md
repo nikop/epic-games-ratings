@@ -12,7 +12,7 @@ Rating: 4.57 (Ranked 467)
 | Space Society | 17.00% | ~558 |
 | A Thousand Strong | 17.00% | ~558 |
 | Ready for a New World | 17.00% | ~558 |
-| Permanent Redesigns | 15.00% | ~492 |
+| Permanent Redesigns | 15.00% | ~493 |
 | Fully Recycled | 14.00% | ~460 |
 | The Ship of Theseus | 14.00% | ~460 |
 | Guy de Borderlands | 13.00% | ~427 |
@@ -38,11 +38,11 @@ Rating: 4.57 (Ranked 467)
 | Sustainable Energy | 4.00% | ~131 |
 | In Dolos We Trust | 4.00% | ~131 |
 | Pedal to the Metal | 4.00% | ~131 |
-| Praise the Hull! | 3.00% | ~98 |
-| Delivery! | 3.00% | ~98 |
-| Drill-dozer | 3.00% | ~98 |
-| Help of the Forgotten Member | 3.00% | ~98 |
-| Pulsar Disciple | 3.00% | ~98 |
+| Praise the Hull! | 3.00% | ~99 |
+| Delivery! | 3.00% | ~99 |
+| Drill-dozer | 3.00% | ~99 |
+| Help of the Forgotten Member | 3.00% | ~99 |
+| Pulsar Disciple | 3.00% | ~99 |
 | Mutual Loyalty | 2.00% | ~66 |
 | Tiqqun Contender | 2.00% | ~66 |
 | Catastrophe Avoided | 2.00% | ~66 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 467)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,283 (Ranked 200)  
+Progressed: 3,284 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,6 +255,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-04 | 3,277 | 0 |
 | 2023-11-05 | 3,281 | 0 |
 | 2023-11-06 | 3,283 | 0 |
+| 2023-11-07 | 3,284 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

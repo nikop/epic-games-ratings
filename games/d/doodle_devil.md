@@ -9,7 +9,7 @@
 | Master of Sins | 62.00% | ~53 |
 | Lucky Strike | 58.00% | ~49 |
 | Cardinal Sins | 48.00% | ~41 |
-| Warm and Fuzzy | 47.00% | ~40 |
+| Warm and Fuzzy | 48.00% | ~41 |
 | Master of Warfare | 34.00% | ~29 |
 | Vicious Delicious | 25.00% | ~21 |
 | Hellfire | 22.00% | ~19 |

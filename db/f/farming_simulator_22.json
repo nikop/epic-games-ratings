@@ -10906,10 +10906,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 42323,
       "NumberOfAwardsMax": 5430
+    },
+    {
+      "Time": "2023-11-07T02:18:21.870193+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42328,
+      "NumberOfAwardsMax": 5430
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42323,
+  "NumberOfAwards": 42328,
   "NumberOfAwardsMax": 5430,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -10965,7 +10971,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 3682
+      "Count": 3687
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10986,9 +10992,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51227,
+  "EOS_Progressed": 51228,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29121,6 +29127,11 @@
       "Time": "2023-11-07T01:49:04.2590669+00:00",
       "NumProgressed": 51227,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-07T02:23:40.7820585+00:00",
+      "NumProgressed": 51228,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -29212,7 +29223,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32785
+      "UsersEstimate": 32786
     },
     {
       "ID": "CutTree",
@@ -29228,7 +29239,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 31248
+      "UsersEstimate": 31249
     },
     {
       "ID": "DeliveryGrapes",
@@ -29268,7 +29279,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30736
+      "UsersEstimate": 30737
     },
     {
       "ID": "Harvested",
@@ -29284,7 +29295,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 38420
+      "UsersEstimate": 38421
     },
     {
       "ID": "HorseJumps",
@@ -29332,7 +29343,7 @@
       "Name": "Help me to help you",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 19466
+      "UsersEstimate": 19467
     },
     {
       "ID": "Money",
@@ -29340,7 +29351,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 27150
+      "UsersEstimate": 27151
     },
     {
       "ID": "NumBeehives",
@@ -29364,7 +29375,7 @@
       "Name": "All out of Land",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 23052
+      "UsersEstimate": 23053
     },
     {
       "ID": "NumProductionPoints",
@@ -29475,15 +29486,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51227,
+      "Progressed": 51228,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-11-06T21:58:47.0408185+00:00",
-  "LastChanged_Achievements": "2023-11-07T01:49:04.2590665+00:00",
+  "LastChanged": "2023-11-07T02:18:21.8701929+00:00",
+  "LastChanged_Achievements": "2023-11-07T02:23:40.782058+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:18.1648668+00:00",
-  "LastUpdate_Ratings": "2023-11-07T01:44:05.2485113+00:00",
-  "LastUpdate_Achievements": "2023-11-07T01:49:04.2591918+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:18:21.8701937+00:00",
+  "LastUpdate_Achievements": "2023-11-07T02:23:40.7822093+00:00"
 }

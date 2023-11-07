@@ -8694,7 +8694,7 @@
       "Count": 958
     }
   ],
-  "EOS_Progressed": 122691,
+  "EOS_Progressed": 122692,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 710,
   "EOS_NewCompleters": 0,
@@ -29674,6 +29674,11 @@
       "Time": "2023-11-07T01:51:43.1279611+00:00",
       "NumProgressed": 122691,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T02:27:33.2338195+00:00",
+      "NumProgressed": 122692,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 65,
@@ -29693,7 +29698,7 @@
       "Name": "Serenity Now!",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 66253
+      "UsersEstimate": 66254
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -29717,7 +29722,7 @@
       "Name": "Resurrection",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 76068
+      "UsersEstimate": 76069
     },
     {
       "ID": "altar_of_hope_unlock_hero_hellion",
@@ -29725,7 +29730,7 @@
       "Name": "Unleash Hell",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 83430
+      "UsersEstimate": 83431
     },
     {
       "ID": "altar_of_hope_unlock_hero_jester",
@@ -29733,7 +29738,7 @@
       "Name": "Funny Guy",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 82203
+      "UsersEstimate": 82204
     },
     {
       "ID": "altar_of_hope_unlock_hero_leper",
@@ -29741,7 +29746,7 @@
       "Name": "Long Live the King",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 80976
+      "UsersEstimate": 80977
     },
     {
       "ID": "altar_of_hope_unlock_hero_occultist",
@@ -29749,7 +29754,7 @@
       "Name": "Wyrdly Reconstructed",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 76068
+      "UsersEstimate": 76069
     },
     {
       "ID": "altar_of_hope_unlock_hero_runaway",
@@ -29765,7 +29770,7 @@
       "Name": "Unfulfilled Desires",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 83430
+      "UsersEstimate": 83431
     },
     {
       "ID": "altar_of_hope_upgrade_total_full",
@@ -29821,7 +29826,7 @@
       "Name": "Dissector",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 22084
+      "UsersEstimate": 22085
     },
     {
       "ID": "combat_kill_cosmic",
@@ -29829,7 +29834,7 @@
       "Name": "Banishment",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 38034
+      "UsersEstimate": 38035
     },
     {
       "ID": "combat_kill_death",
@@ -29861,7 +29866,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7361
+      "UsersEstimate": 7362
     },
     {
       "ID": "combat_kill_gaunts",
@@ -29877,7 +29882,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7361
+      "UsersEstimate": 7362
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -29925,7 +29930,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 22084
+      "UsersEstimate": 22085
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -29957,7 +29962,7 @@
       "Name": "It Happens",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 20857
+      "UsersEstimate": 20858
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -30077,7 +30082,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 114103
+      "UsersEstimate": 114104
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -30093,7 +30098,7 @@
       "Name": "FNG",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 36807
+      "UsersEstimate": 36808
     },
     {
       "ID": "inn_visit_all_variants",
@@ -30141,7 +30146,7 @@
       "Name": "Unshackled",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 82203
+      "UsersEstimate": 82204
     },
     {
       "ID": "run_victory_act02",
@@ -30204,15 +30209,15 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 122691,
+      "Progressed": 122692,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2023-11-07T01:43:00.963214+00:00",
-  "LastChanged_Achievements": "2023-11-07T01:51:43.1279608+00:00",
+  "LastChanged_Achievements": "2023-11-07T02:27:33.233819+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.2036198+00:00",
-  "LastUpdate_Ratings": "2023-11-07T01:43:00.9632146+00:00",
-  "LastUpdate_Achievements": "2023-11-07T01:51:43.1280818+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:17:15.8084534+00:00",
+  "LastUpdate_Achievements": "2023-11-07T02:27:33.2339847+00:00"
 }

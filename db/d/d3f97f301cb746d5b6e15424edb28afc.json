@@ -1117,9 +1117,9 @@
       "ID": "GSS_ACH_22_LOCKPICKING_02",
       "SetID": "5fn8ia4",
       "Name": "So Shady!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "GSS_ACH_23_LOCKPICKING_03",
@@ -1421,9 +1421,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 156
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -1604,8 +1604,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-07T01:48:19.9046632+00:00",
+  "LastChanged_Achievements": "2023-11-07T02:22:58.5671322+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:17.0856906+00:00",
-  "LastUpdate_Ratings": "2023-11-07T01:45:03.0504215+00:00",
-  "LastUpdate_Achievements": "2023-11-07T01:48:19.9047389+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:19:15.9066278+00:00",
+  "LastUpdate_Achievements": "2023-11-07T02:22:58.5672652+00:00"
 }

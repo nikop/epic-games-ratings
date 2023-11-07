@@ -5553,9 +5553,9 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1552820,
+  "EOS_Progressed": 1552825,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 3650,
+  "EOS_NewPlayers": 3643,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28423,6 +28423,11 @@
       "Time": "2023-11-07T01:49:45.4281584+00:00",
       "NumProgressed": 1552820,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-07T02:24:20.5406946+00:00",
+      "NumProgressed": 1552825,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 38,
@@ -28442,7 +28447,7 @@
       "Name": "Burning Man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 248451
+      "UsersEstimate": 248452
     },
     {
       "ID": "Chambermaid",
@@ -28514,7 +28519,7 @@
       "Name": "Guts",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 310564
+      "UsersEstimate": 310565
     },
     {
       "ID": "Highlander",
@@ -28530,7 +28535,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 636656
+      "UsersEstimate": 636658
     },
     {
       "ID": "JustScratch",
@@ -28546,7 +28551,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 760882
+      "UsersEstimate": 760884
     },
     {
       "ID": "KeepsComingOff",
@@ -28554,7 +28559,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 636656
+      "UsersEstimate": 636658
     },
     {
       "ID": "KungFu",
@@ -28570,7 +28575,7 @@
       "Name": "Lived to Tell the Tale",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 186338
+      "UsersEstimate": 186339
     },
     {
       "ID": "LivingSculpture",
@@ -28594,7 +28599,7 @@
       "Name": "Meat Grinder",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 295036
+      "UsersEstimate": 295037
     },
     {
       "ID": "NoOrdinaryCold",
@@ -28666,7 +28671,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 667713
+      "UsersEstimate": 667715
     },
     {
       "ID": "ToughNut",
@@ -28674,7 +28679,7 @@
       "Name": "Tough Nut to Crack",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 93169
+      "UsersEstimate": 93170
     },
     {
       "ID": "TrainingAccident",
@@ -28722,7 +28727,7 @@
       "Name": "Yoink",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 93169
+      "UsersEstimate": 93170
     },
     {
       "ID": "YoureWelcome",
@@ -28737,7 +28742,7 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1552820,
+      "Progressed": 1552825,
       "Completed": 68
     }
   ],
@@ -28745,8 +28750,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-11-06T22:58:53.8894945+00:00",
-  "LastChanged_Achievements": "2023-11-07T01:49:45.4281582+00:00",
+  "LastChanged_Achievements": "2023-11-07T02:24:20.5406941+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:05.202397+00:00",
-  "LastUpdate_Ratings": "2023-11-07T01:43:18.9997847+00:00",
-  "LastUpdate_Achievements": "2023-11-07T01:49:45.4283315+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:17:34.1867686+00:00",
+  "LastUpdate_Achievements": "2023-11-07T02:24:20.5408591+00:00"
 }

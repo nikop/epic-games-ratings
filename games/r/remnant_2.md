@@ -7,14 +7,14 @@ Rating: 4.75 (Ranked 142)
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~19,663 |
 | The Killing Jar | 8.00% | ~17,478 |
-| Expanding Horizons | 7.00% | ~15,293 |
-| Quest for Survival | 7.00% | ~15,293 |
-| Not Your Average Trait | 7.00% | ~15,293 |
-| Gleaming the Cube | 6.00% | ~13,108 |
-| Familiar Face | 6.00% | ~13,108 |
-| Duality | 6.00% | ~13,108 |
-| Boss'n Up | 6.00% | ~13,108 |
-| Trait Chaser | 6.00% | ~13,108 |
+| Expanding Horizons | 7.00% | ~15,294 |
+| Quest for Survival | 7.00% | ~15,294 |
+| Not Your Average Trait | 7.00% | ~15,294 |
+| Gleaming the Cube | 6.00% | ~13,109 |
+| Familiar Face | 6.00% | ~13,109 |
+| Duality | 6.00% | ~13,109 |
+| Boss'n Up | 6.00% | ~13,109 |
+| Trait Chaser | 6.00% | ~13,109 |
 | Not So Special Now | 5.00% | ~10,924 |
 | Not a Janitor | 5.00% | ~10,924 |
 | Equal Measures | 5.00% | ~10,924 |
@@ -42,21 +42,21 @@ Rating: 4.75 (Ranked 142)
 | Edgelord | 3.00% | ~6,554 |
 | Scrap Collector | 3.00% | ~6,554 |
 | The Ultimate Weapon | 3.00% | ~6,554 |
-| Crafty | 2.00% | ~4,369 |
-| Only Human | 2.00% | ~4,369 |
-| Red Room | 2.00% | ~4,369 |
-| Scrap Hoarder | 2.00% | ~4,369 |
-| Carnage in C-Minor | 2.00% | ~4,369 |
-| No One Should Have All That Power | 2.00% | ~4,369 |
-| Maxed Out! | 2.00% | ~4,369 |
-| Transmutate | 2.00% | ~4,369 |
+| Crafty | 2.00% | ~4,370 |
+| Only Human | 2.00% | ~4,370 |
+| Red Room | 2.00% | ~4,370 |
+| Scrap Hoarder | 2.00% | ~4,370 |
+| Carnage in C-Minor | 2.00% | ~4,370 |
+| No One Should Have All That Power | 2.00% | ~4,370 |
+| Maxed Out! | 2.00% | ~4,370 |
+| Transmutate | 2.00% | ~4,370 |
 | Ghost in the Machine | 1.00% | ~2,185 |
 | The Trigger | 1.00% | ~2,185 |
 | Cutting Edge | 1.00% | ~2,185 |
 | The Collector | 1.00% | ~2,185 |
 | Proving Grounds | 1.00% | ~2,185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,474 (Ranked 68)  
+Progressed: 218,480 (Ranked 68)  
 Completed: 432 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 432 (0.20%) (Ranked 244)
 | 2023-11-04 | 217,742 | 429 |
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
-| 2023-11-07 | 218,474 | 432 |
+| 2023-11-07 | 218,480 | 432 |
 ## Awards
 Max (Great Boss Battles): 2,080  (Ranked 109)  
 Sum: 4,653 (Ranked 143)  

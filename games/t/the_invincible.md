@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 72.00% | ~28 |
-| The Teleprobe | 36.00% | ~14 |
+| The Teleprobe | 38.00% | ~15 |
 | The City | 23.00% | ~9 |
 | Krauta is alive | 15.00% | ~6 |
 | I leave no man behind | 13.00% | ~5 |

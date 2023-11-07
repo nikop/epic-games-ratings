@@ -3049,9 +3049,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 36908,
+  "EOS_Progressed": 36909,
   "EOS_Completed": 302,
-  "EOS_NewPlayers": 927,
+  "EOS_NewPlayers": 928,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -25184,6 +25184,11 @@
       "Time": "2023-11-07T01:50:48.6138842+00:00",
       "NumProgressed": 36908,
       "NumCompleted": 302
+    },
+    {
+      "Time": "2023-11-07T02:25:20.9222638+00:00",
+      "NumProgressed": 36909,
+      "NumCompleted": 302
     }
   ],
   "TotalAchievements": 60,
@@ -25291,7 +25296,7 @@
       "Name": "The Stones\u2019 Power",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 6643
+      "UsersEstimate": 6644
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_2",
@@ -25315,7 +25320,7 @@
       "Name": "Spawner Killer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_2",
@@ -25331,7 +25336,7 @@
       "Name": "Stock Market Crash",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 11441
+      "UsersEstimate": 11442
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_1",
@@ -25411,7 +25416,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 15132
+      "UsersEstimate": 15133
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -25427,7 +25432,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 15132
+      "UsersEstimate": 15133
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -25451,7 +25456,7 @@
       "Name": "Ogre Solo!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 10334
+      "UsersEstimate": 10335
     },
     {
       "ID": "ACH_D3_Campaign_Infested_1",
@@ -25507,7 +25512,7 @@
       "Name": "Flat as a pancake",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 6274
+      "UsersEstimate": 6275
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_2",
@@ -25523,7 +25528,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -25555,7 +25560,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 11441
+      "UsersEstimate": 11442
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -25563,7 +25568,7 @@
       "Name": "A little something extra",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_Completed",
@@ -25587,7 +25592,7 @@
       "Name": "Shadow hunter",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 10703
+      "UsersEstimate": 10704
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_Completed",
@@ -25603,7 +25608,7 @@
       "Name": "The Benevolent Evil",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2214
+      "UsersEstimate": 2215
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_2",
@@ -25643,7 +25648,7 @@
       "Name": "Not-So-Overproud",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 11072
+      "UsersEstimate": 11073
     },
     {
       "ID": "ACH_D3_Campaign_Water_1",
@@ -25651,7 +25656,7 @@
       "Name": "Lifeguard",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 6274
+      "UsersEstimate": 6275
     },
     {
       "ID": "ACH_D3_Campaign_Water_2",
@@ -25674,15 +25679,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 36908,
+      "Progressed": 36909,
       "Completed": 302
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2023-11-06T05:59:22.6991774+00:00",
-  "LastChanged_Achievements": "2023-11-07T01:50:48.613884+00:00",
+  "LastChanged_Achievements": "2023-11-07T02:25:20.9222633+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:44.757246+00:00",
-  "LastUpdate_Ratings": "2023-11-07T01:44:08.371425+00:00",
-  "LastUpdate_Achievements": "2023-11-07T01:50:48.6140447+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:18:24.797947+00:00",
+  "LastUpdate_Achievements": "2023-11-07T02:25:20.9226327+00:00"
 }

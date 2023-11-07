@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3833,
+  "EOS_Progressed": 3834,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7737,6 +7737,11 @@
       "Time": "2023-11-07T00:12:13.7482711+00:00",
       "NumProgressed": 3833,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-07T02:25:03.8606443+00:00",
+      "NumProgressed": 3834,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7844,7 +7849,7 @@
       "Name": "Master of Secondaries",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_22_MASTER_OF_RIFLES",
@@ -7852,7 +7857,7 @@
       "Name": "Master of Rifles",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "REWARD_23_MASTER_AT_ARMS",
@@ -7996,7 +8001,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8060,7 +8065,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8084,7 +8089,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8315,13 +8320,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3784,
+      "Progressed": 3785,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3833,
+      "Progressed": 3834,
       "Completed": 11
     }
   ],
@@ -8329,8 +8334,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-07T01:50:30.0442627+00:00",
+  "LastChanged_Achievements": "2023-11-07T02:25:03.8606437+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-07T01:43:01.5593979+00:00",
-  "LastUpdate_Achievements": "2023-11-07T01:50:30.0443569+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:17:16.3922158+00:00",
+  "LastUpdate_Achievements": "2023-11-07T02:25:03.8607787+00:00"
 }

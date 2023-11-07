@@ -7,9 +7,9 @@ Rating: 4.46 (Ranked 644)
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~1,802 |
 | Confirming Suspicions | 41.00% | ~1,572 |
-| The Kraken Wakes | 37.00% | ~1,418 |
-| It's Starting to Crack | 34.00% | ~1,303 |
-| Change the Channel | 31.00% | ~1,188 |
+| The Kraken Wakes | 37.00% | ~1,419 |
+| It's Starting to Crack | 34.00% | ~1,304 |
+| Change the Channel | 31.00% | ~1,189 |
 | Lord of War | 30.00% | ~1,150 |
 | Taking it back | 29.00% | ~1,112 |
 | Resourceful | 27.00% | ~1,035 |
@@ -69,15 +69,15 @@ Rating: 4.46 (Ranked 644)
 | From Führer Away | 1.00% | ~38 |
 | Alpha | 1.00% | ~38 |
 | Das Familienjuwel | 1.00% | ~38 |
-| Master of Secondaries | 0.90% | ~34 |
-| Master of Rifles | 0.90% | ~34 |
+| Master of Secondaries | 0.90% | ~35 |
+| Master of Rifles | 0.90% | ~35 |
 | Operation Overlord | 0.80% | ~30 |
 | Master of Pistols | 0.70% | ~27 |
 | Master-at-arms | 0.70% | ~27 |
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,833 (Ranked 191)  
+Progressed: 3,834 (Ranked 191)  
 Completed: 11 (0.29%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 11 (0.29%) (Ranked 229)
 | 2023-11-04 | 3,824 | 11 |
 | 2023-11-05 | 3,828 | 11 |
 | 2023-11-06 | 3,832 | 11 |
-| 2023-11-07 | 3,833 | 11 |
+| 2023-11-07 | 3,834 | 11 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 527)  
 Sum: 23 (Ranked 530)  

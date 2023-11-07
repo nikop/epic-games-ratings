@@ -10,8 +10,8 @@ Rating: 4.28 (Ranked 844)
 | Fronting the Money | 15.00% | ~52,688 |
 | The Dawn of Automation | 14.00% | ~49,175 |
 | Extraordinary Logistics | 14.00% | ~49,175 |
-| Dirty Money | 13.00% | ~45,662 |
-| Family First | 13.00% | ~45,662 |
+| Dirty Money | 13.00% | ~45,663 |
+| Family First | 13.00% | ~45,663 |
 | Cleaning House | 12.00% | ~42,150 |
 | Room in the Back | 12.00% | ~42,150 |
 | Beating the Heat | 11.00% | ~38,638 |
@@ -29,13 +29,13 @@ Rating: 4.28 (Ranked 844)
 | Wise Head | 6.00% | ~21,075 |
 | Show ‘em the Sugar | 6.00% | ~21,075 |
 | Killing Them Softly | 6.00% | ~21,075 |
-| Street Knowledge | 5.00% | ~17,562 |
-| Oh Captain | 5.00% | ~17,562 |
-| Branching Out | 5.00% | ~17,562 |
-| Improvement Missions | 5.00% | ~17,562 |
-| Opportunity Knocked | 5.00% | ~17,562 |
-| City of Big Shoulders | 5.00% | ~17,562 |
-| Mission Mastery | 5.00% | ~17,562 |
+| Street Knowledge | 5.00% | ~17,563 |
+| Oh Captain | 5.00% | ~17,563 |
+| Branching Out | 5.00% | ~17,563 |
+| Improvement Missions | 5.00% | ~17,563 |
+| Opportunity Knocked | 5.00% | ~17,563 |
+| City of Big Shoulders | 5.00% | ~17,563 |
+| Mission Mastery | 5.00% | ~17,563 |
 | Considerable Clams | 4.00% | ~14,050 |
 | Gin Joint | 4.00% | ~14,050 |
 | An Affront to the Enemy | 4.00% | ~14,050 |
@@ -53,13 +53,13 @@ Rating: 4.28 (Ranked 844)
 | Dropping the Dime | 2.00% | ~7,025 |
 | Spiffy Speakeasies | 2.00% | ~7,025 |
 | Keeping Your Word | 2.00% | ~7,025 |
-| Boxing Them In | 1.00% | ~3,512 |
-| Backroom Empire | 1.00% | ~3,512 |
-| Corner Control | 1.00% | ~3,512 |
-| Full House | 1.00% | ~3,512 |
-| The Rubber Meets the Road | 1.00% | ~3,512 |
-| Cat’s Meow Clubs | 1.00% | ~3,512 |
-| Stepping It Up | 1.00% | ~3,512 |
+| Boxing Them In | 1.00% | ~3,513 |
+| Backroom Empire | 1.00% | ~3,513 |
+| Corner Control | 1.00% | ~3,513 |
+| Full House | 1.00% | ~3,513 |
+| The Rubber Meets the Road | 1.00% | ~3,513 |
+| Cat’s Meow Clubs | 1.00% | ~3,513 |
+| Stepping It Up | 1.00% | ~3,513 |
 | Determined Deliveries | 0.90% | ~3,161 |
 | Boots in the Ground | 0.80% | ~2,810 |
 | Getting Fancy | 0.80% | ~2,810 |
@@ -73,7 +73,7 @@ Rating: 4.28 (Ranked 844)
 | Dirty Work | 0.30% | ~1,054 |
 | Bottled Up | 0.30% | ~1,054 |
 | Streetwise | 0.30% | ~1,054 |
-| Balkan Firewater | 0.20% | ~702 |
+| Balkan Firewater | 0.20% | ~703 |
 | Windy City Win | 0.10% | ~351 |
 | Steeling Victory | 0.10% | ~351 |
 | Queen of the City | 0.10% | ~351 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 844)
 | High Pillow | 0.10% | ~351 |
 | Station Master | 0.10% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351,250 (Ranked 47)  
+Progressed: 351,252 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-04 | 350,901 | 7 |
 | 2023-11-05 | 351,094 | 7 |
 | 2023-11-06 | 351,245 | 7 |
-| 2023-11-07 | 351,250 | 7 |
+| 2023-11-07 | 351,252 | 7 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 448)  
 Sum: 186 (Ranked 405)  

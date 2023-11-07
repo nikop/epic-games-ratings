@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 903,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 160,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.2,
+  "Rating": 4.21,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -505,15 +505,21 @@
       "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-07T02:18:06.6938357+00:00",
+      "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8513,
+  "EOS_Progressed": 8514,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10766,6 +10772,11 @@
       "Time": "2023-11-07T01:49:09.454306+00:00",
       "NumProgressed": 8513,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-07T02:23:45.8208419+00:00",
+      "NumProgressed": 8514,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10777,7 +10788,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7066
+      "UsersEstimate": 7067
     },
     {
       "ID": "ACH02",
@@ -10785,7 +10796,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "ACH03",
@@ -10817,7 +10828,7 @@
       "Name": "Street Sweeper",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1533
     },
     {
       "ID": "ACH07",
@@ -11008,16 +11019,16 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8513,
+      "Progressed": 8514,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2023-10-06T23:02:27.8926786+00:00",
-  "LastChanged_Achievements": "2023-11-07T01:49:09.4543058+00:00",
+  "LastChanged": "2023-11-07T02:18:06.6938355+00:00",
+  "LastChanged_Achievements": "2023-11-07T02:23:45.8208412+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-07T01:43:50.7423127+00:00",
-  "LastUpdate_Achievements": "2023-11-07T01:49:09.454379+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:18:06.6938361+00:00",
+  "LastUpdate_Achievements": "2023-11-07T02:23:45.8209439+00:00"
 }
