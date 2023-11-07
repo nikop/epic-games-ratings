@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 239,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1178,
+  "EOS_Progressed": 1180,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4074,6 +4074,11 @@
       "Time": "2023-11-06T21:09:43.4268717+00:00",
       "NumProgressed": 1178,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T13:13:53.5923038+00:00",
+      "NumProgressed": 1180,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4085,7 +4090,7 @@
       "Name": "Adventurous 1",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "adventurous_2",
@@ -4109,7 +4114,7 @@
       "Name": "Archmage 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "archmage_2",
@@ -4253,7 +4258,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "elemental_stones_2",
@@ -4612,14 +4617,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1178,
+      "Progressed": 1180,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:09:39.2229933+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:13:53.5923034+00:00",
   "LastUpdate_AppInfo": "2023-10-31T13:57:04.3250062+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:57:56.5655003+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:09:39.2230614+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:02:32.7464558+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:13:53.5923999+00:00"
 }

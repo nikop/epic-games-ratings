@@ -2,13 +2,13 @@
   "ID": "6b0541b5d9aa476cbf407643ab3b1d7d",
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
-  "Ranking_Rating": 912,
+  "Ranking_Rating": 913,
   "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1451,9 +1451,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16412,
+  "EOS_Progressed": 16413,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8796,6 +8796,11 @@
       "Time": "2023-11-06T22:06:05.7326336+00:00",
       "NumProgressed": 16412,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-07T13:11:09.1415151+00:00",
+      "NumProgressed": 16413,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -8823,7 +8828,7 @@
       "Name": "Giving Back",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -8831,7 +8836,7 @@
       "Name": "You Need a Gun",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "DISARM_ENEMY",
@@ -8871,7 +8876,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -8943,7 +8948,7 @@
       "Name": "Terminated",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -9182,13 +9187,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16412,
+      "Progressed": 16413,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4338,
+      "Progressed": 4339,
       "Completed": 29
     }
   ],
@@ -9196,8 +9201,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-07T11:01:52.9628903+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:06:47.4719636+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:11:09.1415145+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:14.0432207+00:00",
-  "LastUpdate_Ratings": "2023-11-07T12:00:30.6929775+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:06:47.4720292+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:05:00.5797461+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:11:09.1416745+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.83,
+  "EOS_Completed_Percentage": 1.82,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -1039,6 +1039,11 @@
       "Time": "2023-11-07T05:09:02.2011454+00:00",
       "NumProgressed": 219,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-07T13:13:35.3640574+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -1050,7 +1055,7 @@
       "Name": "Are you still Alive?",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_DIE",
@@ -1058,7 +1063,7 @@
       "Name": "Sometimes Death is a Mercy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_DULLER",
@@ -1082,15 +1087,15 @@
       "Name": "YOU DESERVE THAT",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACH_FRIEND",
       "SetID": "c2kf3nm",
       "Name": "NO ONE CAN HEAR YOU SCREAM",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_GET_IN",
@@ -1098,7 +1103,7 @@
       "Name": "Lab Rat",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_GET_OUT",
@@ -1122,7 +1127,7 @@
       "Name": "GET THE HANG OF IT",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_HOUND",
@@ -1136,9 +1141,9 @@
       "ID": "ACH_KEY",
       "SetID": "c2kf3nm",
       "Name": "Key to your Death",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_PIPEDREAMS",
@@ -1154,7 +1159,7 @@
       "Name": "Pitfalls",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_PITFALLSDIE",
@@ -1168,9 +1173,9 @@
       "ID": "ACH_RUN",
       "SetID": "c2kf3nm",
       "Name": "RUN FOR YOUR LIFE",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_STAIRS",
@@ -1186,21 +1191,21 @@
       "Name": "Why are you running?!",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     }
   ],
   "AchievementSets": [
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:09:19.7896885+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:13:35.3640569+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:51.9800214+00:00",
-  "LastUpdate_Ratings": "2023-11-07T12:00:25.3532701+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:09:19.7897078+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:04:55.2051554+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:13:35.3640912+00:00"
 }

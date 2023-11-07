@@ -4,8 +4,8 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 490,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1282,9 +1282,9 @@
       "ID": "ShieldCrusher",
       "SetID": "82505mn",
       "Name": "Shield Crusher",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 39
     },
     {
       "ID": "SlingOfDavid",
@@ -1387,8 +1387,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:09:38.7362056+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:13:53.1263524+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:29.5957213+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:59:07.6139121+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:09:38.7362403+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:03:42.2309937+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:13:53.1263927+00:00"
 }

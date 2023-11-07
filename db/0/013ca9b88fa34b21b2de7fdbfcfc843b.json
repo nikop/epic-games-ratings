@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7613,
+  "EOS_Progressed": 7614,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 230,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6309,6 +6309,11 @@
       "Time": "2023-11-07T11:10:12.1335329+00:00",
       "NumProgressed": 7613,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T13:13:34.069569+00:00",
+      "NumProgressed": 7614,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6321,7 +6326,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5481
+      "UsersEstimate": 5482
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6329,7 +6334,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5329
+      "UsersEstimate": 5330
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6345,7 +6350,7 @@
       "Name": "Open the Gate!",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2512
+      "UsersEstimate": 2513
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -6353,7 +6358,7 @@
       "Name": "Clear the Air",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1370
+      "UsersEstimate": 1371
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -6409,7 +6414,7 @@
       "Name": "Lumberjack",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1979
+      "UsersEstimate": 1980
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -6425,7 +6430,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3730
+      "UsersEstimate": 3731
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6457,7 +6462,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6600,22 +6605,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7613,
+      "Progressed": 7614,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 230,
-      "Completed": 230
+      "Progressed": 231,
+      "Completed": 231
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:09:18.483239+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:13:34.0695684+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-07T12:02:55.0324086+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:09:18.4832939+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:07:31.5165051+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:13:34.069686+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
     "PcReleaseDate": "2022-09-01T15:00:00+00:00",
@@ -232,9 +232,9 @@
       "ID": "SteamAchievement_UpgradeEggDragonToMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "It was such a cute egg",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SteamAchievement_WinBattles01",
@@ -248,9 +248,9 @@
       "ID": "SteamAchievement_WinBattles02",
       "SetID": "b8gj0ip",
       "Name": "General",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SteamAchievements_KillDragons",
@@ -344,9 +344,9 @@
       "ID": "SteamAchievment_CompleteQuest04",
       "SetID": "b8gj0ip",
       "Name": "Forest Dragons\u0027 Ally",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SteamAchievment_CompleteQuest05",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:04:49.2044028+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:09:19.6150703+00:00",
   "LastUpdate_AppInfo": "2023-10-31T22:57:04.0799156+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:59:28.7899169+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:04:49.2044565+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:04:01.2921163+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:09:19.6151094+00:00"
 }

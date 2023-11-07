@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4341,
+  "EOS_Progressed": 4342,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 819,
+  "EOS_NewPlayers": 813,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2340,6 +2340,11 @@
       "Time": "2023-11-07T12:09:05.1238475+00:00",
       "NumProgressed": 4341,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-07T13:13:22.0640053+00:00",
+      "NumProgressed": 4342,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2432,7 +2437,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "GarbageMan",
@@ -2623,7 +2628,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4341,
+      "Progressed": 4342,
       "Completed": 5
     }
   ],
@@ -2631,8 +2636,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-05T20:58:48.2968347+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:09:05.123847+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:13:22.064005+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:59:26.2662523+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:09:05.1238783+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:03:59.0557259+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:13:22.0640459+00:00"
 }

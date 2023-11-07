@@ -4,11 +4,11 @@
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 941,
   "Ranking_Popularity": 537,
-  "Ranking_PopularitySum": 491,
+  "Ranking_PopularitySum": 492,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3254,
+  "EOS_Progressed": 3255,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4401,6 +4401,11 @@
       "Time": "2023-11-07T09:04:06.1549091+00:00",
       "NumProgressed": 3254,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T13:09:09.298323+00:00",
+      "NumProgressed": 3255,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4453,7 +4458,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "achievement_15",
@@ -4580,7 +4585,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3254,
+      "Progressed": 3255,
       "Completed": 0
     }
   ],
@@ -4588,8 +4593,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-07T03:59:05.6750597+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:04:38.1852326+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:09:09.2983225+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:59:40.1068913+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:04:38.1852722+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:04:11.2661117+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:09:09.2983942+00:00"
 }

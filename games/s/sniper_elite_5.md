@@ -14,17 +14,17 @@ Rating: 4.46 (Ranked 644)
 | Taking it back | 29.00% | ~1,112 |
 | Resourceful | 27.00% | ~1,035 |
 | Target America | 27.00% | ~1,035 |
-| The Kraken Sleeps | 25.00% | ~958 |
+| The Kraken Sleeps | 25.00% | ~959 |
 | Liberté | 23.00% | ~882 |
 | Organ Grinder | 23.00% | ~882 |
 | As Quiet as a Mouse | 23.00% | ~882 |
-| Sharpshooter | 22.00% | ~843 |
-| Explosive Efficiency | 19.00% | ~728 |
+| Sharpshooter | 22.00% | ~844 |
+| Explosive Efficiency | 19.00% | ~729 |
 | Gunslinger | 18.00% | ~690 |
 | Just a Flesh Wound | 17.00% | ~652 |
 | Der Geist | 17.00% | ~652 |
-| Climbing the Ladder | 16.00% | ~613 |
-| Close Quarters | 16.00% | ~613 |
+| Climbing the Ladder | 16.00% | ~614 |
+| Close Quarters | 16.00% | ~614 |
 | Skirmisher | 15.00% | ~575 |
 | Snake in the Grass | 15.00% | ~575 |
 | Brains of the Operation | 15.00% | ~575 |
@@ -33,9 +33,9 @@ Rating: 4.46 (Ranked 644)
 | Enemy at the Gates | 14.00% | ~537 |
 | Fields of Glory | 14.00% | ~537 |
 | Die Nussknacker Sweet! | 14.00% | ~537 |
-| Set Europe Ablaze | 13.00% | ~498 |
-| Precision Is Key | 10.00% | ~383 |
-| My Little Friend | 10.00% | ~383 |
+| Set Europe Ablaze | 13.00% | ~499 |
+| Precision Is Key | 10.00% | ~384 |
+| My Little Friend | 10.00% | ~384 |
 | Rigged to Blow | 9.00% | ~345 |
 | Herr Today, Gone Tomorrow | 7.00% | ~265 |
 | Operation Foxley | 6.00% | ~227 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 644)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,834 (Ranked 191)  
+Progressed: 3,835 (Ranked 191)  
 Completed: 11 (0.29%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 11 (0.29%) (Ranked 229)
 | 2023-11-04 | 3,824 | 11 |
 | 2023-11-05 | 3,828 | 11 |
 | 2023-11-06 | 3,832 | 11 |
-| 2023-11-07 | 3,834 | 11 |
+| 2023-11-07 | 3,835 | 11 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 527)  
 Sum: 23 (Ranked 530)  

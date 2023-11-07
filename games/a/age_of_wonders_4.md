@@ -47,7 +47,7 @@ Rating: 4.60 (Ranked 409)
 | Grexolis | 2.00% | ~106 |
 | One for All, All for One | 2.00% | ~106 |
 | Manufactured War | 1.00% | ~53 |
-| Snap Out of It! | 0.90% | ~47 |
+| Snap Out of It! | 0.90% | ~48 |
 | Betrayal Most Foul | 0.70% | ~37 |
 | I Want to Break Free | 0.30% | ~16 |
 | I'll Fight You All | 0.30% | ~16 |
@@ -56,7 +56,7 @@ Rating: 4.60 (Ranked 409)
 | Draconic Connoisseur | 0.20% | ~11 |
 | Master of Evilness | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,277 (Ranked 181)  
+Progressed: 5,278 (Ranked 181)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,14 +225,15 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-04 | 5,271 | 7 |
 | 2023-11-05 | 5,274 | 7 |
 | 2023-11-06 | 5,276 | 7 |
-| 2023-11-07 | 5,277 | 7 |
+| 2023-11-07 | 5,278 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
-Sum: 31 (Ranked 507)  
-Diff (max vs sum): -20  
+Sum: 51 (Ranked 477)  
+Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 31 |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -290,4 +291,4 @@ Diff (max vs sum): -20
 | 2023-10-28 | 4.60 | 27 | 27 |
 | 2023-10-31 | 4.60 | 28 | 28 |
 | 2023-11-02 | 4.60 | 30 | 30 |
-| 2023-11-07 | 4.60 | 31 | 31 |
+| 2023-11-07 | 4.60 | 31 | 51 |

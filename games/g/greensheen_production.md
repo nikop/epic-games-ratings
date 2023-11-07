@@ -28,19 +28,19 @@
 | How Do I Look? | 79.00% | ~11 |
 | Evasive prey | 79.00% | ~11 |
 | Twenty-Six | 71.00% | ~10 |
+| Far Ahead | 71.00% | ~10 |
 | Unladylike | 71.00% | ~10 |
 | Half hat | 71.00% | ~10 |
 | Sick Kids | 71.00% | ~10 |
 | Pale Kids | 71.00% | ~10 |
 | Wild Kids | 71.00% | ~10 |
 | Post Industrial | 71.00% | ~10 |
-| Far Ahead | 64.00% | ~9 |
 | No More Remains | 64.00% | ~9 |
 | School Kids | 64.00% | ~9 |
-| Primetime Content Consumer | 21.00% | ~3 |
+| Primetime Content Consumer | 29.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 552)  
-Completed: 3 (21.43%) (Ranked 16)  
+Completed: 4 (28.57%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,4 +55,4 @@ Completed: 3 (21.43%) (Ranked 16)
 | 2023-10-25 | 11 | 1 |
 | 2023-11-03 | 12 | 1 |
 | 2023-11-06 | 14 | 2 |
-| 2023-11-07 | 14 | 3 |
+| 2023-11-07 | 14 | 4 |

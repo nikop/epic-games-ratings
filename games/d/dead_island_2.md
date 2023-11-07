@@ -1,13 +1,13 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 521)  
+Rating: 4.54 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 1.00% | ~399 |
-| Whatever It Takes | 1.00% | ~399 |
-| Pork Chopped | 1.00% | ~399 |
+| One of Us | 1.00% | ~400 |
+| Whatever It Takes | 1.00% | ~400 |
+| Pork Chopped | 1.00% | ~400 |
 | Welcome To Hell-A | 0.50% | ~3,572 |
 | Break A Leg | 0.40% | ~2,858 |
 | Coup de Grâce | 0.40% | ~2,858 |
@@ -38,7 +38,9 @@ Rating: 4.54 (Ranked 521)
 | Humanity Distilled | 0.20% | ~1,429 |
 | I Am the Resurrection | 0.20% | ~1,429 |
 | Down with the Sickness | 0.20% | ~1,429 |
+| Go, Bobcats! | 0.20% | ~1,429 |
 | Our True Nature | 0.20% | ~1,429 |
+| Variety is the Spice of Death | 0.20% | ~1,429 |
 | Top That, Tisha! | 0.20% | ~80 |
 | Make it So | 0.10% | ~714 |
 | LA Influential | 0.10% | ~714 |
@@ -50,14 +52,12 @@ Rating: 4.54 (Ranked 521)
 | Gore Horse | 0.10% | ~714 |
 | Sharpest Tool in the Box | 0.10% | ~714 |
 | Survival Skills | 0.10% | ~714 |
-| Go, Bobcats! | 0.10% | ~714 |
-| Variety is the Spice of Death | 0.10% | ~714 |
 | Rising Star | 0.10% | ~714 |
 | Bucket List | 0.10% | ~714 |
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,385 (Ranked 21)  
+Progressed: 714,411 (Ranked 21)  
 Completed: 2,352 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,17 +258,17 @@ Completed: 2,352 (0.33%) (Ranked 219)
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
-| 2023-11-07 | 714,385 | 2,352 |
+| 2023-11-07 | 714,411 | 2,352 |
 ## Awards
 Max (Great Boss Battles): 7,125  (Ranked 53)  
-Sum: 10,796 (Ranked 89)  
+Sum: 10,803 (Ranked 89)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,125 |
 | This game is Great for Beginners | 520 |
 | This game has Diverse Characters | 516 |
-| This game has Quickly Understood Controls | 490 |
+| This game has Quickly Understood Controls | 497 |
 | This game is Relaxing | 459 |
 | This game has Amazing Storytelling | 443 |
 | This game is Highly Recommended | 425 |
@@ -477,4 +477,4 @@ Diff (max vs sum): -36
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
-| 2023-11-07 | 4.54 | 7,125 | 10,796 |
+| 2023-11-07 | 4.54 | 7,125 | 10,803 |

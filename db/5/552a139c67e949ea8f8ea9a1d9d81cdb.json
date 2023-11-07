@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 930,
+  "EOS_Progressed": 932,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1722,6 +1722,11 @@
       "Time": "2023-11-07T12:05:33.4672098+00:00",
       "NumProgressed": 930,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T13:10:00.9805255+00:00",
+      "NumProgressed": 932,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1734,7 +1739,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 783
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1742,7 +1747,7 @@
       "Name": "Acrobat",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1822,7 +1827,7 @@
       "Name": "Immortal",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -1838,7 +1843,7 @@
       "Name": "Shapeshifter",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -1862,7 +1867,7 @@
       "Name": "Solo",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -1878,7 +1883,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -1902,7 +1907,7 @@
       "Name": "The Octopus",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -1974,7 +1979,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -1988,9 +1993,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 419
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -1998,7 +2003,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2054,7 +2059,7 @@
       "Name": "You\u0027re good at this!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ML_ACHIEVEMENT_42",
@@ -2070,27 +2075,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 930,
+      "Progressed": 932,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 598,
-      "Completed": 598
+      "Progressed": 600,
+      "Completed": 600
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:05:33.4672094+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:10:00.9805251+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:57:15.873677+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:05:33.4672526+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:01:50.7229098+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:10:00.9805782+00:00"
 }

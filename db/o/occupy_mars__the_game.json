@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1693,
+  "EOS_Progressed": 1694,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4113,6 +4113,11 @@
       "Time": "2023-11-06T16:05:45.152054+00:00",
       "NumProgressed": 1693,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T13:09:51.557814+00:00",
+      "NumProgressed": 1694,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4228,7 +4233,7 @@
       "Name": "All Wheel Trouble",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "NEW_ACHIEVEMENT_BAREEL_ROLL",
@@ -4348,7 +4353,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4380,7 +4385,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4507,7 +4512,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1693,
+      "Progressed": 1694,
       "Completed": 0
     }
   ],
@@ -4515,8 +4520,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-05T15:57:26.1215548+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:05:23.3775782+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:09:51.5578135+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:13.9146471+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:58:23.360136+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:05:23.3776338+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:02:57.0609341+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:09:51.5579283+00:00"
 }

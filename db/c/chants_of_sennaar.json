@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 478,
+  "EOS_Progressed": 479,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.65,
+  "EOS_Completed_Percentage": 5.64,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2035,6 +2035,11 @@
       "Time": "2023-11-07T05:03:52.528143+00:00",
       "NumProgressed": 478,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-07T13:08:34.59937+00:00",
+      "NumProgressed": 479,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -2046,7 +2051,7 @@
       "Name": "I did it",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "END_GOOD",
@@ -2070,7 +2075,7 @@
       "Name": "Cable guy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2086,7 +2091,7 @@
       "Name": "Half the way",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2166,7 +2171,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2238,21 +2243,21 @@
       "Name": "One last step",
       "Percentage": 16,
       "XP": 80,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 478,
+      "Progressed": 479,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:04:01.2329852+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:08:34.5993696+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:57:54.0104804+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:04:01.2330134+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:02:29.4870864+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:08:34.5994072+00:00"
 }

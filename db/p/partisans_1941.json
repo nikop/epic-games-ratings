@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -3573,9 +3573,9 @@
       "ID": "E1M1",
       "SetID": "85nb4h3",
       "Name": "E1M1",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 685
     },
     {
       "ID": "Everyone_is_here",
@@ -3605,9 +3605,9 @@
       "ID": "Grenadier",
       "SetID": "85nb4h3",
       "Name": "Grenadier",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 653
+      "UsersEstimate": 669
     },
     {
       "ID": "Hard_Serpent",
@@ -3741,8 +3741,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:05:02.7323826+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:09:32.4074004+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:58:16.9520548+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:05:02.7324182+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:02:52.2370134+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:09:32.4074731+00:00"
 }

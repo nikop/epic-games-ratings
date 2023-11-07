@@ -6,9 +6,9 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 42.00% | ~669 |
+| E1M1 | 43.00% | ~685 |
+| Grenadier | 42.00% | ~669 |
 | War Never Changes | 42.00% | ~669 |
-| Grenadier | 41.00% | ~653 |
 | Heroes Never Die | 38.00% | ~605 |
 | Mosquito bite | 36.00% | ~573 |
 | Spice It Up | 32.00% | ~509 |

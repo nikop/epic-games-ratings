@@ -3,9 +3,9 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 190,
-  "Ranking_EOS_Completed": 168,
+  "Ranking_EOS_Completed": 167,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3872,
+  "EOS_Progressed": 3873,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 3,
@@ -9359,6 +9359,11 @@
       "Time": "2023-11-07T11:06:06.6895263+00:00",
       "NumProgressed": 3872,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-07T13:09:19.7632288+00:00",
+      "NumProgressed": 3873,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -9402,7 +9407,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "ach_architecture_completed",
@@ -9426,7 +9431,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "ach_color_splash",
@@ -9442,7 +9447,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "ach_food_completed",
@@ -9466,7 +9471,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2904
+      "UsersEstimate": 2905
     },
     {
       "ID": "ach_magic_wand",
@@ -9497,14 +9502,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3872,
+      "Progressed": 3873,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:04:49.4498226+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:09:19.7632284+00:00",
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.1990735+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:59:53.1535979+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:04:49.4498857+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:04:23.6652688+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:09:19.7633541+00:00"
 }

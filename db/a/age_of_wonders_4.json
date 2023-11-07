@@ -4,11 +4,11 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 409,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 507,
+  "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -391,10 +391,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 31,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-11-07T13:03:36.0070968+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 51,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31,
+  "NumberOfAwards": 51,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -403,11 +409,17 @@
       "Prefix": "This game is",
       "Type": "Great for Beginners",
       "Count": 31
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ],
-  "EOS_Progressed": 5277,
+  "EOS_Progressed": 5278,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6660,6 +6672,11 @@
       "Time": "2023-11-07T03:06:28.7356596+00:00",
       "NumProgressed": 5277,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-07T13:10:39.1227766+00:00",
+      "NumProgressed": 5278,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 50,
@@ -6679,7 +6696,7 @@
       "Name": "Snap Out of It!",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "11",
@@ -7070,22 +7087,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5277,
+      "Progressed": 5278,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5277,
+      "Progressed": 5278,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-11-07T03:58:33.0127178+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:06:14.8227949+00:00",
+  "LastChanged": "2023-11-07T13:03:36.0070967+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:10:39.122776+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:59:01.7669108+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:06:14.8228629+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:03:36.0070971+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:10:39.1229294+00:00"
 }

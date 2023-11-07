@@ -17,6 +17,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All That's Thine Shall Be Mine | 0.10% | ~449 |
 | All Your Trade Are Belong to Us | 0.10% | ~449 |
 | An early Reich | 0.10% | ~449 |
+| At every continent | 0.10% | ~449 |
 | Azur semé de lis or | 0.10% | ~449 |
 | Baa Baa Black Sheep | 0.10% | ~449 |
 | Big Blue Blob | 0.10% | ~449 |
@@ -24,6 +25,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Bright Spark | 0.10% | ~449 |
 | Brothers in Arms | 0.10% | ~449 |
 | Carthago Delenda Est | 0.10% | ~449 |
+| Center of Attention | 0.10% | ~449 |
 | City of Cities | 0.10% | ~449 |
 | Cold War | 0.10% | ~449 |
 | Combined Arms | 0.10% | ~449 |
@@ -132,7 +134,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Arabian Coffee | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Assembly Instructions Needed | 0.00% | ~0 |
-| At every continent | 0.00% | ~0 |
 | Atwix Legacy | 0.00% | ~0 |
 | Auld Alliance Reversed | 0.00% | ~0 |
 | Australia-Hungary | 0.00% | ~0 |
@@ -154,7 +155,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brick by Brick | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
-| Center of Attention | 0.00% | ~0 |
 | Cherrypicking | 0.00% | ~0 |
 | Chop Chop | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,076 (Ranked 41)  
+Progressed: 449,107 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 449,076 | 1 |
+| 2023-11-07 | 449,107 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,507 (Ranked 24)  

@@ -5,26 +5,26 @@ Rating: 4.21 (Ranked 896)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Day on the Job | 83.00% | ~7,075 |
-| Disposing of the Evidence | 38.00% | ~3,239 |
-| Without a Scratch | 34.00% | ~2,898 |
+| First Day on the Job | 83.00% | ~7,077 |
+| Disposing of the Evidence | 38.00% | ~3,240 |
+| Without a Scratch | 34.00% | ~2,899 |
 | Wreckless Driving | 28.00% | ~2,387 |
-| A Marked Man | 25.00% | ~2,131 |
-| Street Sweeper | 18.00% | ~1,534 |
+| A Marked Man | 25.00% | ~2,132 |
+| Street Sweeper | 18.00% | ~1,535 |
 | Liberty City Minute | 17.00% | ~1,449 |
-| Offshore Delivery | 14.00% | ~1,193 |
+| Offshore Delivery | 14.00% | ~1,194 |
 | Dirty Money | 13.00% | ~1,108 |
-| By a Mile | 10.00% | ~852 |
-| Not So Fast | 10.00% | ~852 |
-| Right-hand Man | 10.00% | ~852 |
+| By a Mile | 10.00% | ~853 |
+| Not So Fast | 10.00% | ~853 |
+| Right-hand Man | 10.00% | ~853 |
 | A Gift from the King | 7.00% | ~597 |
 | Full Artillery | 4.00% | ~341 |
 | Mob Boss | 3.00% | ~256 |
-| Escape Artist | 2.00% | ~170 |
-| Where To? | 2.00% | ~170 |
-| Splish Splash | 2.00% | ~170 |
-| Playing Doctor | 2.00% | ~170 |
-| Liberty City Secrets | 2.00% | ~170 |
+| Escape Artist | 2.00% | ~171 |
+| Where To? | 2.00% | ~171 |
+| Splish Splash | 2.00% | ~171 |
+| Playing Doctor | 2.00% | ~171 |
+| Liberty City Secrets | 2.00% | ~171 |
 | Planned Ahead | 1.00% | ~85 |
 | Got This Figured Out | 1.00% | ~85 |
 | Wheels Up | 1.00% | ~85 |
@@ -35,7 +35,7 @@ Rating: 4.21 (Ranked 896)
 | Is That All You've Got? | 0.90% | ~77 |
 | King of Liberty City | 0.70% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,524 (Ranked 160)  
+Progressed: 8,526 (Ranked 160)  
 Completed: 56 (0.66%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 56 (0.66%) (Ranked 174)
 | 2023-11-04 | 8,454 | 56 |
 | 2023-11-05 | 8,484 | 56 |
 | 2023-11-06 | 8,512 | 56 |
-| 2023-11-07 | 8,524 | 56 |
+| 2023-11-07 | 8,526 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

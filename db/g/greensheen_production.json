@@ -2,9 +2,9 @@
   "ID": "400fd43e2e2f4b3b97bdc32656cb8f09",
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 552,
-  "Ranking_EOS_Completed": 16,
+  "Ranking_EOS_Completed": 11,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -18,10 +18,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 14,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 21.43,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 28.57,
   "EosHistory": [
     {
       "Time": "2023-08-08T10:04:28.1768655+00:00",
@@ -102,6 +102,11 @@
       "Time": "2023-11-07T07:08:48.9692529+00:00",
       "NumProgressed": 14,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-07T13:13:00.5459791+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-08-08T10:04:28.176868+00:00",
@@ -192,9 +197,9 @@
       "ID": "FindAllHats",
       "SetID": "aph8hbk",
       "Name": "Far Ahead",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 75,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FindAllPhantomKids",
@@ -336,9 +341,9 @@
       "ID": "Platinum",
       "SetID": "aph8hbk",
       "Name": "Primetime Content Consumer",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Popcorn",
@@ -394,12 +399,12 @@
       "ID": "aph8hbk",
       "IsBase": true,
       "Progressed": 14,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:08:52.6929531+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:13:00.5459786+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-11-07T12:00:29.6140555+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:08:52.6929751+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:04:59.5687812+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:13:00.5460072+00:00"
 }

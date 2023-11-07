@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2265,9 +2265,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 8334,
+  "EOS_Progressed": 8335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7155,6 +7155,11 @@
       "Time": "2023-11-07T09:05:03.826975+00:00",
       "NumProgressed": 8334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T13:10:09.2127104+00:00",
+      "NumProgressed": 8335,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7191,7 +7196,7 @@
       "Name": "What Just Happened??",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "ach05",
@@ -7207,7 +7212,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6250
+      "UsersEstimate": 6251
     },
     {
       "ID": "ach07",
@@ -7215,7 +7220,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4667
+      "UsersEstimate": 4668
     },
     {
       "ID": "ach08",
@@ -7223,7 +7228,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "ach09",
@@ -7231,7 +7236,7 @@
       "Name": "Kontender",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ach10",
@@ -7295,7 +7300,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "ach18",
@@ -7335,7 +7340,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "ach23",
@@ -7367,7 +7372,7 @@
       "Name": "Running On Empty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "ach27",
@@ -7399,7 +7404,7 @@
       "Name": "Juggernaut",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "ach31",
@@ -7431,7 +7436,7 @@
       "Name": "Always Accessorize",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "ach35",
@@ -7479,7 +7484,7 @@
       "Name": "Found You",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "ach41",
@@ -7503,7 +7508,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3750
+      "UsersEstimate": 3751
     },
     {
       "ID": "ach44",
@@ -7535,7 +7540,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1834
     },
     {
       "ID": "ach48",
@@ -7559,14 +7564,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8334,
+      "Progressed": 8335,
       "Completed": 0
     }
   ],
@@ -7574,8 +7579,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-07T09:58:55.7225945+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:05:42.3454429+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:10:09.2127096+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:58:31.7235394+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:05:42.3455035+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:03:05.9972955+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:10:09.2128415+00:00"
 }

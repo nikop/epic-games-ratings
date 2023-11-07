@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6541,11 +6541,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 4324,
       "NumberOfAwardsMax": 554
+    },
+    {
+      "Time": "2023-11-07T13:05:19.3784828+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4327,
+      "NumberOfAwardsMax": 557
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4324,
-  "NumberOfAwardsMax": 554,
+  "NumberOfAwards": 4327,
+  "NumberOfAwardsMax": 557,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6558,7 +6564,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 554
+      "Count": 557
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6615,9 +6621,9 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 191539,
+  "EOS_Progressed": 191547,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2355,
+  "EOS_NewPlayers": 2351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29450,6 +29456,11 @@
       "Time": "2023-11-07T12:09:05.6608935+00:00",
       "NumProgressed": 191539,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-07T13:13:22.5246258+00:00",
+      "NumProgressed": 191547,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -29493,7 +29504,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30646
+      "UsersEstimate": 30648
     },
     {
       "ID": "Achievement_13",
@@ -29541,7 +29552,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 47885
+      "UsersEstimate": 47887
     },
     {
       "ID": "Achievement_5",
@@ -29588,15 +29599,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 191539,
+      "Progressed": 191547,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-06T21:00:52.5860117+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:09:05.6608931+00:00",
+  "LastChanged": "2023-11-07T13:05:19.3784826+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:13:22.5246253+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.8448394+00:00",
-  "LastUpdate_Ratings": "2023-11-07T12:00:51.8828059+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:09:05.6610145+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:05:19.3784832+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:13:22.5247934+00:00"
 }

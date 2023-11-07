@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -615,6 +615,11 @@
       "Time": "2023-11-07T12:09:36.7982047+00:00",
       "NumProgressed": 164,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T13:13:51.2768741+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -640,9 +645,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_04",
@@ -696,9 +701,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_11",
@@ -722,7 +727,7 @@
       "Name": "Adventurer",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_14",
@@ -730,7 +735,7 @@
       "Name": "Airborne",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_15",
@@ -760,9 +765,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_19",
@@ -818,7 +823,7 @@
       "Name": "Fashion Victim",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_26",
@@ -842,7 +847,7 @@
       "Name": "I Found It",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_29",
@@ -913,14 +918,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:09:36.7982044+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:13:51.2768735+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-07T12:00:47.9924632+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:09:36.7982267+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:05:15.1675687+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:13:51.2769292+00:00"
 }

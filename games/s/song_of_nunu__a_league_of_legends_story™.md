@@ -7,35 +7,35 @@
 | Feels Familiar | 74.00% | ~394 |
 | I Broke It | 71.00% | ~378 |
 | Better On Ice | 69.00% | ~368 |
-| Notai Notes | 68.00% | ~362 |
+| Notai Notes | 69.00% | ~368 |
 | Blue Dreams | 67.00% | ~357 |
 | He's Famous! | 67.00% | ~357 |
-| Krugmazing | 64.00% | ~341 |
+| Krugmazing | 65.00% | ~346 |
 | Cutie Poro | 64.00% | ~341 |
 | The Fire Below the Mountain | 62.00% | ~330 |
 | Moneyball | 58.00% | ~309 |
 | No Bites | 53.00% | ~282 |
-| Iceborn | 52.00% | ~277 |
+| Iceborn | 53.00% | ~282 |
 | Tear of Freedom | 49.00% | ~261 |
 | Boom Things | 48.00% | ~256 |
+| Rhythm Of Willump | 45.00% | ~240 |
 | My Darkest Day | 44.00% | ~235 |
-| Rhythm Of Willump | 44.00% | ~235 |
 | True Legends | 40.00% | ~213 |
 | The Relentless Storm | 40.00% | ~213 |
 | A Tragic Reminder | 38.00% | ~203 |
 | The Finisher | 38.00% | ~203 |
 | 3000 Year Blackout | 37.00% | ~197 |
 | So Close | 34.00% | ~181 |
+| You Get Used To It | 34.00% | ~181 |
 | On The Rocks | 34.00% | ~181 |
-| You Get Used To It | 33.00% | ~176 |
 | Never Gets Old | 33.00% | ~176 |
 | Snowy Poro | 32.00% | ~171 |
 | Bullseye | 32.00% | ~171 |
-| Boosted! | 31.00% | ~165 |
-| Family | 30.00% | ~160 |
-| Biggest Snowball Ever | 30.00% | ~160 |
-| Freeze The Ice Witch | 30.00% | ~160 |
-| Deadliest and Biggest Snowball Ever! | 30.00% | ~160 |
+| Boosted! | 32.00% | ~171 |
+| Family | 31.00% | ~165 |
+| Biggest Snowball Ever | 31.00% | ~165 |
+| Freeze The Ice Witch | 31.00% | ~165 |
+| Deadliest and Biggest Snowball Ever! | 31.00% | ~165 |
 | It Is Not Over | 29.00% | ~155 |
 | Vertical Power | 28.00% | ~149 |
 | One From The Heart | 14.00% | ~75 |

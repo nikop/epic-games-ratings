@@ -2,13 +2,13 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 903,
+  "Ranking_Rating": 904,
   "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 18,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -293,9 +293,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 304656,
+  "EOS_Progressed": 304702,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8118,
+  "EOS_NewPlayers": 8111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5058,6 +5058,11 @@
       "Time": "2023-11-07T12:06:07.8832417+00:00",
       "NumProgressed": 304656,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T13:10:32.6177542+00:00",
+      "NumProgressed": 304702,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -5196,9 +5201,9 @@
       "ID": "S17_ENTROPY",
       "SetID": "4j44ol8",
       "Name": "I know how to handle it",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 305
     },
     {
       "ID": "S18_CHALLENGE",
@@ -5389,7 +5394,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 304656,
+      "Progressed": 304702,
       "Completed": 1
     }
   ],
@@ -5397,8 +5402,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-06T04:59:55.1580901+00:00",
-  "LastChanged_Achievements": "2023-11-07T12:06:07.8832409+00:00",
+  "LastChanged_Achievements": "2023-11-07T13:10:32.6177536+00:00",
   "LastUpdate_AppInfo": "2023-11-02T18:57:05.9748032+00:00",
-  "LastUpdate_Ratings": "2023-11-07T12:00:46.4954175+00:00",
-  "LastUpdate_Achievements": "2023-11-07T12:06:07.8833025+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:05:13.6549843+00:00",
+  "LastUpdate_Achievements": "2023-11-07T13:10:32.6178606+00:00"
 }
