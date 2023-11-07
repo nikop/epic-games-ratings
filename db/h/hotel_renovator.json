@@ -2,12 +2,12 @@
   "ID": "3348e3d8eae449ecbcf9fe354d4fe8a0",
   "Name": "Hotel Renovator",
   "ProductSlug": "hotel-renovator",
-  "Ranking_Rating": 760,
+  "Ranking_Rating": 761,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1115,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
@@ -2183,6 +2183,11 @@
       "Time": "2023-11-07T00:09:32.6800463+00:00",
       "NumProgressed": 1115,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2023-11-07T01:48:30.8202643+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 27,
@@ -2210,7 +2215,7 @@
       "Name": "Soulmate?",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH_DICE_WIN",
@@ -2218,7 +2223,7 @@
       "Name": "Roll with it",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -2234,7 +2239,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -2282,7 +2287,7 @@
       "Name": "Memento",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "ACH_GRANDPA_LETTER",
@@ -2290,7 +2295,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -2298,7 +2303,7 @@
       "Name": "And so it begins",
       "Percentage": 73,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACH_INSTRUMENTS_FOUND",
@@ -2322,7 +2327,7 @@
       "Name": "Island boy",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_POWER_OUTRAGE_FIXED",
@@ -2330,7 +2335,7 @@
       "Name": "Let there be light",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "ACH_SKILLS_ALL",
@@ -2346,7 +2351,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "ACH_STAR_2",
@@ -2354,7 +2359,7 @@
       "Name": "Moving up",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ACH_STAR_3",
@@ -2362,7 +2367,7 @@
       "Name": "Still more work ahead",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_STAR_4",
@@ -2402,14 +2407,14 @@
       "Name": "I think you dropped this",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     }
   ],
   "AchievementSets": [
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1115,
+      "Progressed": 1116,
       "Completed": 16
     }
   ],
@@ -2417,8 +2422,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-06T04:59:47.279974+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:09:32.680046+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:48:30.8202641+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:07.8664624+00:00",
-  "LastUpdate_Ratings": "2023-11-07T00:01:17.3894293+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:09:32.6800718+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:45:07.6481924+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:48:30.8203292+00:00"
 }

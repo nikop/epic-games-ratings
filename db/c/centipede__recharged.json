@@ -317,9 +317,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18355,
+  "EOS_Progressed": 18356,
   "EOS_Completed": 113,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -15572,6 +15572,11 @@
       "Time": "2023-11-07T00:09:29.985393+00:00",
       "NumProgressed": 18355,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-11-07T01:48:28.868365+00:00",
+      "NumProgressed": 18356,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15591,7 +15596,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5139
+      "UsersEstimate": 5140
     },
     {
       "ID": "Deadline",
@@ -15655,7 +15660,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 7709
+      "UsersEstimate": 7710
     },
     {
       "ID": "Mirrors",
@@ -15687,7 +15692,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6791
+      "UsersEstimate": 6792
     },
     {
       "ID": "Still_Burning",
@@ -15710,15 +15715,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18355,
+      "Progressed": 18356,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:09:29.9853928+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:48:28.8683649+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.434836+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:58:16.1616193+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:09:29.9854635+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:43:13.2398431+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:48:28.8684296+00:00"
 }

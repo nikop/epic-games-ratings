@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 521)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 1.00% | ~397 |
-| Whatever It Takes | 1.00% | ~397 |
-| Pork Chopped | 1.00% | ~397 |
+| One of Us | 1.00% | ~398 |
+| Whatever It Takes | 1.00% | ~398 |
+| Pork Chopped | 1.00% | ~398 |
 | Break A Leg | 0.40% | ~2,857 |
 | Hotel California | 0.40% | ~2,857 |
 | Welcome To Hell-A | 0.40% | ~2,857 |
@@ -38,7 +38,7 @@ Rating: 4.54 (Ranked 521)
 | Down with the Sickness | 0.20% | ~1,428 |
 | Max Headroom | 0.20% | ~1,428 |
 | Our True Nature | 0.20% | ~1,428 |
-| Top That, Tisha! | 0.20% | ~79 |
+| Top That, Tisha! | 0.20% | ~80 |
 | Make it So | 0.10% | ~714 |
 | LA Influential | 0.10% | ~714 |
 | On Safari | 0.10% | ~714 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 521)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,186 (Ranked 21)  
-Completed: 2,349 (0.33%) (Ranked 218)  
+Progressed: 714,221 (Ranked 21)  
+Completed: 2,350 (0.33%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,10 +258,10 @@ Completed: 2,349 (0.33%) (Ranked 218)
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
-| 2023-11-07 | 714,186 | 2,349 |
+| 2023-11-07 | 714,221 | 2,350 |
 ## Awards
 Max (Great Boss Battles): 7,125  (Ranked 53)  
-Sum: 10,791 (Ranked 89)  
+Sum: 10,796 (Ranked 89)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -273,7 +273,7 @@ Diff (max vs sum): -36
 | This game has Amazing Storytelling | 443 |
 | This game is Highly Recommended | 425 |
 | This game is Extremely Fun | 418 |
-| This game has Amazing Characters | 395 |
+| This game has Amazing Characters | 400 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -477,3 +477,4 @@ Diff (max vs sum): -36
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
+| 2023-11-07 | 4.54 | 7,125 | 10,796 |

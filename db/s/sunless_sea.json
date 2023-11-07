@@ -736,9 +736,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40184,
+  "EOS_Progressed": 40187,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 469,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21221,6 +21221,11 @@
       "Time": "2023-11-07T00:14:44.8601321+00:00",
       "NumProgressed": 40184,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-07T01:53:39.1062975+00:00",
+      "NumProgressed": 40187,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -21248,7 +21253,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 6831
+      "UsersEstimate": 6832
     },
     {
       "ID": "ach_antiquarian10",
@@ -21296,7 +21301,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "ach_cursestone",
@@ -21320,7 +21325,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "ach_deathofermod",
@@ -21352,7 +21357,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14466
+      "UsersEstimate": 14467
     },
     {
       "ID": "ach_die10",
@@ -21400,7 +21405,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "ach_invictus",
@@ -21456,7 +21461,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4420
+      "UsersEstimate": 4421
     },
     {
       "ID": "ach_newstories",
@@ -21584,7 +21589,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7233
+      "UsersEstimate": 7234
     },
     {
       "ID": "ach_terror100",
@@ -21663,15 +21668,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40184,
+      "Progressed": 40187,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-05T20:00:39.9976702+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:14:44.8601317+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:53:39.1062973+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:36.007109+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:59:23.4795162+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:14:44.860288+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:43:58.1797565+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:53:39.1064135+00:00"
 }

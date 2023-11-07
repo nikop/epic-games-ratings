@@ -6,25 +6,25 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 27.00% | ~13,741 |
-| Student | 21.00% | ~10,688 |
-| Knower | 15.00% | ~7,634 |
-| Aspen Tree | 14.00% | ~7,125 |
-| Listener | 14.00% | ~7,125 |
-| Healer | 13.00% | ~6,616 |
-| Scientist | 11.00% | ~5,598 |
-| Soldier | 11.00% | ~5,598 |
-| Cow Level | 10.00% | ~5,089 |
-| Water | 10.00% | ~5,089 |
-| Old Friend | 9.00% | ~4,580 |
-| Herbalist | 9.00% | ~4,580 |
-| New Spirits | 9.00% | ~4,580 |
-| Voipel | 9.00% | ~4,580 |
-| Black Mage | 9.00% | ~4,580 |
-| Card Player | 8.00% | ~4,071 |
-| Pine Tree | 8.00% | ~4,071 |
-| Collector | 8.00% | ~4,071 |
-| Wolf | 8.00% | ~4,071 |
+| Initiation | 27.00% | ~13,744 |
+| Student | 21.00% | ~10,690 |
+| Knower | 15.00% | ~7,636 |
+| Aspen Tree | 14.00% | ~7,127 |
+| Listener | 14.00% | ~7,127 |
+| Healer | 13.00% | ~6,618 |
+| Scientist | 11.00% | ~5,599 |
+| Soldier | 11.00% | ~5,599 |
+| Cow Level | 10.00% | ~5,090 |
+| Water | 10.00% | ~5,090 |
+| Old Friend | 9.00% | ~4,581 |
+| Herbalist | 9.00% | ~4,581 |
+| New Spirits | 9.00% | ~4,581 |
+| Voipel | 9.00% | ~4,581 |
+| Black Mage | 9.00% | ~4,581 |
+| Card Player | 8.00% | ~4,072 |
+| Pine Tree | 8.00% | ~4,072 |
+| Collector | 8.00% | ~4,072 |
+| Wolf | 8.00% | ~4,072 |
 | Worthy | 7.00% | ~3,563 |
 | Black Book | 7.00% | ~3,563 |
 | Dead Man | 7.00% | ~3,563 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~509 |
 | Word Master | 0.20% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,893 (Ranked 109)  
+Progressed: 50,904 (Ranked 109)  
 Completed: 46 (0.09%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 46 (0.09%) (Ranked 274)
 | 2023-11-04 | 50,229 | 44 |
 | 2023-11-05 | 50,599 | 46 |
 | 2023-11-06 | 50,885 | 46 |
-| 2023-11-07 | 50,893 | 46 |
+| 2023-11-07 | 50,904 | 46 |
 ## Awards
 Max (Character Customization): 85  (Ranked 379)  
 Sum: 85 (Ranked 452)  

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cheap Tricks | 24.00% | ~858 |
+| Cheap Tricks | 23.00% | ~822 |
 | The Purpose Of Betrayal | 20.00% | ~715 |
 | Rightfully Yours | 17.00% | ~608 |
 | Like Swatting Flies | 16.00% | ~572 |
-| Moment Of Perfection | 10.00% | ~357 |
-| Even While Weakened | 10.00% | ~357 |
-| Balance Incarnate | 10.00% | ~357 |
+| Moment Of Perfection | 10.00% | ~358 |
+| Even While Weakened | 10.00% | ~358 |
+| Balance Incarnate | 10.00% | ~358 |
 | Purpose Lost | 7.00% | ~250 |
 | A Scarlet Mark | 7.00% | ~250 |
 | Hot Potato | 6.00% | ~214 |
@@ -18,12 +18,12 @@
 | Nothing To Lose | 4.00% | ~143 |
 | Dreams Of Perfection | 3.00% | ~107 |
 | Untouchable Legend | 3.00% | ~107 |
-| Loyal Companion | 2.00% | ~71 |
-| Atta Boy! | 2.00% | ~71 |
-| Not Afraid Of The Dark | 2.00% | ~71 |
-| Emperor's Education | 2.00% | ~71 |
-| Slam The Brakes! | 2.00% | ~71 |
-| Ashes Of Belief | 2.00% | ~71 |
+| Loyal Companion | 2.00% | ~72 |
+| Atta Boy! | 2.00% | ~72 |
+| Not Afraid Of The Dark | 2.00% | ~72 |
+| Emperor's Education | 2.00% | ~72 |
+| Slam The Brakes! | 2.00% | ~72 |
+| Ashes Of Belief | 2.00% | ~72 |
 | Buried Memories | 1.00% | ~36 |
 | Anything For The Throne | 0.90% | ~32 |
 | One Track Mind | 0.90% | ~32 |
@@ -40,7 +40,7 @@
 | Full Might Of The Armada | 0.10% | ~4 |
 | The Many Fates Of The Many | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,574 (Ranked 197)  
+Progressed: 3,575 (Ranked 197)  
 Completed: -28 (-0.78%) (Ranked 3,517)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,6 +125,7 @@ Completed: -28 (-0.78%) (Ranked 3,517)
 | 2023-11-01 | 3,569 | -28 |
 | 2023-11-02 | 3,572 | -28 |
 | 2023-11-06 | 3,574 | -28 |
+| 2023-11-07 | 3,575 | -28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

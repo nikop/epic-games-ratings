@@ -20,17 +20,17 @@
 | Tough conversation | 14.00% | ~8 |
 | Breaking free | 13.00% | ~7 |
 | The tragedy unfolds | 13.00% | ~7 |
+| Debut | 11.00% | ~6 |
+| The art of movement | 11.00% | ~6 |
 | A new way | 9.00% | ~5 |
-| Debut | 9.00% | ~5 |
-| The art of movement | 9.00% | ~5 |
+| A Slice of Life | 9.00% | ~5 |
 | True Reflection | 9.00% | ~5 |
-| A Slice of Life | 7.00% | ~4 |
+| Another perspective | 7.00% | ~4 |
+| Lights! Camera! Action! | 7.00% | ~4 |
 | Whispers long forgotten | 7.00% | ~4 |
-| Another perspective | 5.00% | ~3 |
 | We Are Not Alone | 5.00% | ~3 |
 | Sound Bite | 5.00% | ~3 |
 | Heavy Burden | 5.00% | ~3 |
-| Lights! Camera! Action! | 5.00% | ~3 |
 | Casting Finished | 4.00% | ~2 |
 | Something to think about | 4.00% | ~2 |
 | The Perfect Storm | 4.00% | ~2 |

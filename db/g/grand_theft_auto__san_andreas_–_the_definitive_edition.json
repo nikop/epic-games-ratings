@@ -1435,9 +1435,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13573,
+  "EOS_Progressed": 13576,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -14110,6 +14110,11 @@
       "Time": "2023-11-07T00:14:26.976334+00:00",
       "NumProgressed": 13573,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-07T01:53:26.3814212+00:00",
+      "NumProgressed": 13576,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 35,
@@ -14121,7 +14126,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 10994
+      "UsersEstimate": 10997
     },
     {
       "ID": "ACH02",
@@ -14153,7 +14158,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH06",
@@ -14161,7 +14166,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH07",
@@ -14177,7 +14182,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6922
+      "UsersEstimate": 6924
     },
     {
       "ID": "ACH09",
@@ -14193,7 +14198,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH11",
@@ -14201,7 +14206,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1357
+      "UsersEstimate": 1358
     },
     {
       "ID": "ACH12",
@@ -14209,7 +14214,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH13",
@@ -14241,7 +14246,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2307
+      "UsersEstimate": 2308
     },
     {
       "ID": "ACH17",
@@ -14257,7 +14262,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACH19",
@@ -14297,7 +14302,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3529
+      "UsersEstimate": 3530
     },
     {
       "ID": "ACH24",
@@ -14321,7 +14326,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH27",
@@ -14329,7 +14334,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH28",
@@ -14351,9 +14356,9 @@
       "ID": "ACH30",
       "SetID": "4ck5mbe",
       "Name": "Public Enemy No. 1",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 271
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH31",
@@ -14369,7 +14374,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH33",
@@ -14400,7 +14405,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13573,
+      "Progressed": 13576,
       "Completed": 51
     }
   ],
@@ -14408,8 +14413,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-06T17:03:25.7599111+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:14:26.9763337+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:53:26.381421+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:17.5596135+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:58:46.6761619+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:14:26.9764083+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:43:33.8726766+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:53:26.3815022+00:00"
 }

@@ -46,6 +46,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Navy | 0.10% | ~449 |
 | Holy Horder | 0.10% | ~449 |
 | Imperio español | 0.10% | ~449 |
+| Imposter Syndrome | 0.10% | ~449 |
 | In the Name of the Father | 0.10% | ~449 |
 | Industrial Powerhouse | 0.10% | ~449 |
 | Isn't this the way to India? | 0.10% | ~449 |
@@ -204,7 +205,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Holy Trinity | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
-| Imposter Syndrome | 0.00% | ~0 |
 | An Industrial Evolution | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,867 (Ranked 41)  
+Progressed: 448,897 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 448,867 | 1 |
+| 2023-11-07 | 448,897 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,411 (Ranked 24)  

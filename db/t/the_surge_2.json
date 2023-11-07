@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2174,
+  "EOS_Progressed": 2175,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3054,6 +3054,11 @@
       "Time": "2023-11-06T19:09:28.6268628+00:00",
       "NumProgressed": 2174,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-07T01:53:50.2858814+00:00",
+      "NumProgressed": 2175,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3073,7 +3078,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ACHV_03",
@@ -3081,7 +3086,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHV_04",
@@ -3161,7 +3166,7 @@
       "Name": "Own Medicine",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHV_14",
@@ -3265,7 +3270,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1739
+      "UsersEstimate": 1740
     },
     {
       "ID": "ACHV_27",
@@ -3289,7 +3294,7 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHV_30",
@@ -3367,9 +3372,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 1652
+      "UsersEstimate": 1675
     },
     {
       "ID": "ACHV_40",
@@ -3377,7 +3382,7 @@
       "Name": "Three Birds With One Stone",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHV_41",
@@ -3449,7 +3454,7 @@
       "Name": "Box Office Smash",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHV_50",
@@ -3481,7 +3486,7 @@
       "Name": "Going Postal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHV_54",
@@ -3513,14 +3518,14 @@
       "Name": "Loot, Pillage \u0026 Craft",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     }
   ],
   "AchievementSets": [
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2174,
+      "Progressed": 2175,
       "Completed": 13
     }
   ],
@@ -3528,8 +3533,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:15:01.0510263+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:53:50.2858812+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:22.6929066+00:00",
-  "LastUpdate_Ratings": "2023-11-07T00:00:07.088111+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:15:01.0510885+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:44:28.7316836+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:53:50.285925+00:00"
 }

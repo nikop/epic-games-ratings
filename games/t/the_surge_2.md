@@ -5,9 +5,9 @@ Rating: 4.24 (Ranked 878)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,739 |
-| Don't I Know You...? | 76.00% | ~1,652 |
-| Jailbreak | 66.00% | ~1,435 |
+| Rigged And Ready | 80.00% | ~1,740 |
+| Don't I Know You...? | 77.00% | ~1,675 |
+| Jailbreak | 66.00% | ~1,436 |
 | HEADSHOT! | 38.00% | ~826 |
 | Suited and Booted | 38.00% | ~826 |
 | Sleeping With The Fishes | 36.00% | ~783 |
@@ -24,7 +24,7 @@ Rating: 4.24 (Ranked 878)
 | Court Martial | 19.00% | ~413 |
 | Clean Cut | 19.00% | ~413 |
 | Unforeseeable Consequences | 19.00% | ~413 |
-| Dead Again | 18.00% | ~391 |
+| Dead Again | 18.00% | ~392 |
 | Full Arsenal | 17.00% | ~370 |
 | Can't Trust Banks | 15.00% | ~326 |
 | Mommy Dearest | 13.00% | ~283 |
@@ -35,7 +35,7 @@ Rating: 4.24 (Ranked 878)
 | Corrupted Beauty | 12.00% | ~261 |
 | Sorry, Didn't See You There | 12.00% | ~261 |
 | Marked For Success | 11.00% | ~239 |
-| Triplets | 10.00% | ~217 |
+| Triplets | 10.00% | ~218 |
 | Denying Prophecy | 9.00% | ~196 |
 | Stimulating The Local Economy | 9.00% | ~196 |
 | A Little Banged Up | 8.00% | ~174 |
@@ -55,15 +55,15 @@ Rating: 4.24 (Ranked 878)
 | Plank of Wood | 4.00% | ~87 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~65 |
 | Gotta Craft 'em All | 3.00% | ~65 |
-| Own Medicine | 2.00% | ~43 |
-| Three Birds With One Stone | 2.00% | ~43 |
-| Box Office Smash | 2.00% | ~43 |
-| Going Postal | 2.00% | ~43 |
-| Loot, Pillage & Craft | 2.00% | ~43 |
+| Own Medicine | 2.00% | ~44 |
+| Three Birds With One Stone | 2.00% | ~44 |
+| Box Office Smash | 2.00% | ~44 |
+| Going Postal | 2.00% | ~44 |
+| Loot, Pillage & Craft | 2.00% | ~44 |
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,174 (Ranked 213)  
+Progressed: 2,175 (Ranked 213)  
 Completed: 13 (0.60%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 13 (0.60%) (Ranked 180)
 | 2023-11-04 | 2,154 | 13 |
 | 2023-11-05 | 2,168 | 13 |
 | 2023-11-06 | 2,174 | 13 |
+| 2023-11-07 | 2,175 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "cardpocalypse",
   "Ranking_EOS_Progress": 728,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2019-09-19T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:47.4282024+00:00",
   "LastChanged": "2023-03-31T05:57:47.4282025+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.5187351+00:00",
-  "LastUpdate_Ratings": "2023-11-07T00:04:21.1472787+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:12:15.4910736+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:45:37.6523369+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:50:31.2784742+00:00"
 }

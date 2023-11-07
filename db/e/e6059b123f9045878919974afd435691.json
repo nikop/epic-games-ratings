@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1008,
+  "EOS_Progressed": 1009,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2559,6 +2559,11 @@
       "Time": "2023-11-03T02:25:52.083627+00:00",
       "NumProgressed": 1008,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T01:53:33.4022097+00:00",
+      "NumProgressed": 1009,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2570,7 +2575,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2610,7 +2615,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2626,7 +2631,7 @@
       "Name": "I Can Do This All Day",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ATK_ACHIEVEMENT_4",
@@ -2642,7 +2647,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2818,7 +2823,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2842,7 +2847,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -2850,7 +2855,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2866,7 +2871,7 @@
       "Name": "Decakill!",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2922,7 +2927,7 @@
       "Name": "Leecher Hunting Season",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -2986,7 +2991,7 @@
       "Name": "Reading and More Reading",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -3002,7 +3007,7 @@
       "Name": "The Last of Us",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3097,14 +3102,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1008,
+      "Progressed": 1009,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:14:36.8123503+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:53:33.4022095+00:00",
   "LastUpdate_AppInfo": "2023-11-02T22:56:57.9637955+00:00",
-  "LastUpdate_Ratings": "2023-11-07T00:03:42.9968824+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:14:36.8124384+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:45:29.99708+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:53:33.4022634+00:00"
 }

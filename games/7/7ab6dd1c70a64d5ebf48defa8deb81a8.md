@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 55.00% | ~85 |
-| Trinity | 30.00% | ~46 |
-| Find Allies | 25.00% | ~39 |
+| Break Out | 54.00% | ~84 |
+| Trinity | 30.00% | ~47 |
+| Find Allies | 24.00% | ~37 |
 | Shatter Them All | 24.00% | ~37 |
 | A Taste of Wrath | 23.00% | ~36 |
 | The Collector | 23.00% | ~36 |
@@ -15,18 +15,18 @@
 | Powerful Allies | 21.00% | ~33 |
 | Scholar | 21.00% | ~33 |
 | I Found It | 21.00% | ~33 |
-| Geared Up | 19.00% | ~29 |
-| Stone Collection | 19.00% | ~29 |
-| Tributes of Caladrias | 18.00% | ~28 |
+| Tributes of Caladrias | 19.00% | ~30 |
+| Geared Up | 19.00% | ~30 |
+| Stone Collection | 19.00% | ~30 |
 | Essence Blow | 12.00% | ~19 |
 | Big Bazar | 8.00% | ~12 |
 | Alchemist | 8.00% | ~12 |
 | Airborne | 7.00% | ~11 |
 | The Mentor | 6.00% | ~9 |
-| Calm before the Storm | 5.00% | ~8 |
-| To Battle | 5.00% | ~8 |
-| Godslayer | 5.00% | ~8 |
 | Miner | 5.00% | ~8 |
+| Calm before the Storm | 4.00% | ~6 |
+| To Battle | 4.00% | ~6 |
+| Godslayer | 4.00% | ~6 |
 | Flawless Victory | 4.00% | ~6 |
 | A Queen's Tale | 3.00% | ~5 |
 | Clear Sight | 2.00% | ~3 |
@@ -41,8 +41,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 382)  
-Completed: 1 (0.65%) (Ranked 175)  
+Progressed: 156 (Ranked 381)  
+Completed: 1 (0.64%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,3 +72,4 @@ Completed: 1 (0.65%) (Ranked 175)
 | 2023-11-04 | 115 | 1 |
 | 2023-11-05 | 133 | 1 |
 | 2023-11-06 | 155 | 1 |
+| 2023-11-07 | 156 | 1 |

@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16228,
+  "EOS_Progressed": 16229,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -13613,6 +13613,11 @@
       "Time": "2023-11-06T21:03:45.6135767+00:00",
       "NumProgressed": 16228,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-07T01:48:31.5591638+00:00",
+      "NumProgressed": 16229,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13640,7 +13645,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3732
+      "UsersEstimate": 3733
     },
     {
       "ID": "tpote_achievement_12",
@@ -13664,7 +13669,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5355
+      "UsersEstimate": 5356
     },
     {
       "ID": "tpote_achievement_15",
@@ -13712,7 +13717,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5355
+      "UsersEstimate": 5356
     },
     {
       "ID": "tpote_achievement_20",
@@ -13728,7 +13733,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4868
+      "UsersEstimate": 4869
     },
     {
       "ID": "tpote_achievement_22",
@@ -13888,7 +13893,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6491
+      "UsersEstimate": 6492
     },
     {
       "ID": "tpote_achievement_40",
@@ -13951,15 +13956,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16228,
+      "Progressed": 16229,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:09:33.6363746+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:48:31.5591635+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:38.0957248+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:59:25.7788324+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:09:33.6365673+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:43:59.6685528+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:48:31.559256+00:00"
 }

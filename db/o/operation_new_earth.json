@@ -65,7 +65,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1776,
+  "EOS_Progressed": 1777,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -6655,6 +6655,11 @@
       "Time": "2023-11-07T00:09:52.6556312+00:00",
       "NumProgressed": 1776,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T01:48:45.4228376+00:00",
+      "NumProgressed": 1777,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6680,9 +6685,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6778,7 +6783,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6842,7 +6847,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6969,7 +6974,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1776,
+      "Progressed": 1777,
       "Completed": 1
     }
   ],
@@ -6977,8 +6982,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:09:52.6556309+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:48:45.4228373+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-07T00:00:42.5828799+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:09:52.6556785+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:44:52.4638792+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:48:45.4228978+00:00"
 }

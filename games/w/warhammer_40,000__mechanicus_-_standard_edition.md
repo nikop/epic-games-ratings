@@ -5,18 +5,18 @@ Rating: 4.43 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,918 |
-| This is only the beginning | 19.00% | ~43,056 |
-| Knowledge is power | 12.00% | ~27,193 |
-| Galvanic Rifle | 10.00% | ~22,661 |
+| No aid from the Omnissiah | 26.00% | ~58,920 |
+| This is only the beginning | 19.00% | ~43,057 |
+| Knowledge is power | 12.00% | ~27,194 |
+| Galvanic Rifle | 10.00% | ~22,662 |
 | Power Ranger | 9.00% | ~20,395 |
 | Taser Goad | 9.00% | ~20,395 |
 | Radium Ready | 9.00% | ~20,395 |
 | Half a cog | 9.00% | ~20,395 |
-| Watch them crumble | 6.00% | ~13,596 |
-| Competent Cohort | 4.00% | ~9,064 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,064 |
-| One with the Machine | 4.00% | ~9,064 |
+| Watch them crumble | 6.00% | ~13,597 |
+| Competent Cohort | 4.00% | ~9,065 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,065 |
+| One with the Machine | 4.00% | ~9,065 |
 | Legio Cybernetica | 3.00% | ~6,798 |
 | Fleshy Disposal | 3.00% | ~6,798 |
 | Battle Servitor | 2.00% | ~4,532 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 688)
 | Perma-live | 0.10% | ~227 |
 | Purge the Heretek | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,608 (Ranked 66)  
+Progressed: 226,615 (Ranked 66)  
 Completed: 5 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,18 +241,18 @@ Completed: 5 (0.00%) (Ranked 345)
 | 2023-11-04 | 226,427 | 5 |
 | 2023-11-05 | 226,520 | 5 |
 | 2023-11-06 | 226,604 | 5 |
-| 2023-11-07 | 226,608 | 5 |
+| 2023-11-07 | 226,615 | 5 |
 ## Awards
 Max (Highly Recommended): 289  (Ranked 252)  
-Sum: 2,189 (Ranked 201)  
+Sum: 2,190 (Ranked 201)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 289 |
 | This game has Quickly Understood Controls | 283 |
 | This game is Extremely Fun | 279 |
+| This game has Amazing Characters | 267 |
 | This game has Diverse Characters | 267 |
-| This game has Amazing Characters | 266 |
 | This game has Amazing Storytelling | 249 |
 | This game is Relaxing | 243 |
 | This game has Unique Visuals | 213 |
@@ -349,3 +349,4 @@ Diff (max vs sum): 51
 | 2023-11-03 | 4.43 | 289 | 2,183 |
 | 2023-11-04 | 4.43 | 289 | 2,186 |
 | 2023-11-06 | 4.43 | 289 | 2,189 |
+| 2023-11-07 | 4.43 | 289 | 2,190 |

@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1015,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3083,9 +3083,9 @@
       "ID": "achievement_126",
       "SetID": "d252ncf",
       "Name": "Veteran",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 396
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_127",
@@ -3339,9 +3339,9 @@
       "ID": "achievement_40",
       "SetID": "b9pe172",
       "Name": "Suicide Mission",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 294
     },
     {
       "ID": "achievement_41",
@@ -3419,9 +3419,9 @@
       "ID": "achievement_5",
       "SetID": "b9pe172",
       "Name": "Honorarium of Corporate Service",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 619
+      "UsersEstimate": 629
     },
     {
       "ID": "achievement_50",
@@ -3871,8 +3871,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:11:24.5444892+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:49:53.9566482+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-07T00:06:34.3902595+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:11:24.5446376+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:47:45.9555899+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:49:53.956804+00:00"
 }

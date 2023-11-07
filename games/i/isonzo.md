@@ -12,7 +12,7 @@ Number of Ratings: 98  (23.09.2022)
 | Avanti Savoia! | 48.00% | ~3,416 |
 | Mamma Mia! | 38.00% | ~2,704 |
 | Conrad von Hotzensocks | 36.00% | ~2,562 |
-| Gabriele D'Annunzio | 34.00% | ~2,419 |
+| Gabriele D'Annunzio | 34.00% | ~2,420 |
 | Silver Lining | 31.00% | ~2,206 |
 | Aurelio Baruzzi | 24.00% | ~1,708 |
 | Decimation | 23.00% | ~1,637 |
@@ -33,17 +33,17 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 11.00% | ~783 |
 | I Have the High Ground | 11.00% | ~783 |
 | Millenial | 11.00% | ~783 |
-| The Show Must Go On | 9.00% | ~640 |
-| Tosca | 9.00% | ~640 |
+| The Show Must Go On | 9.00% | ~641 |
+| Tosca | 9.00% | ~641 |
 | 12th Bottle of the Isonzo | 7.00% | ~498 |
 | Cercatore d'Oro | 6.00% | ~427 |
 | The Enlightment | 6.00% | ~427 |
 | Generalissimo | 5.00% | ~356 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~285 |
 | Seeing Red | 4.00% | ~285 |
-| Farewell to Arms | 3.00% | ~213 |
-| Ponte of No Return | 3.00% | ~213 |
-| Soča Drag | 3.00% | ~213 |
+| Farewell to Arms | 3.00% | ~214 |
+| Ponte of No Return | 3.00% | ~214 |
+| Soča Drag | 3.00% | ~214 |
 | Saboteur | 2.00% | ~142 |
 | Compagnia della Morte | 1.00% | ~71 |
 | Drop and Give Me 20 | 1.00% | ~71 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,116 (Ranked 172)  
+Progressed: 7,117 (Ranked 172)  
 Completed: 9 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 9 (0.13%) (Ranked 257)
 | 2023-11-04 | 7,112 | 9 |
 | 2023-11-05 | 7,114 | 9 |
 | 2023-11-06 | 7,116 | 9 |
+| 2023-11-07 | 7,117 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 464)  
 Sum: 272 (Ranked 370)  

@@ -4,7 +4,7 @@
   "ProductSlug": "dros-6da0b2",
   "Ranking_EOS_Progress": 533,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-11T01:30:00+00:00",
@@ -156,17 +156,17 @@
       "ID": "CATCH_MADAME_BOUVINE",
       "SetID": "1k0m0ab",
       "Name": "Tower of Love",
-      "Percentage": 11,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CATCH_PIPES_TUNNEL",
       "SetID": "1k0m0ab",
       "Name": "Hidden Refuge",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "CATCH_SOUNDPROOF",
@@ -228,17 +228,17 @@
       "ID": "DRINK_RUSH",
       "SetID": "1k0m0ab",
       "Name": "PRIMA RUSH",
-      "Percentage": 33,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "DROSTOWN_TICKET",
       "SetID": "1k0m0ab",
       "Name": "Fair Trade",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ENDING_100",
@@ -436,9 +436,9 @@
       "ID": "SPIRITEDVOICE",
       "SetID": "1k0m0ab",
       "Name": "A Spirited Voice",
-      "Percentage": 17,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -451,8 +451,8 @@
   ],
   "FirstSeen": "2023-08-13T17:57:40.8250998+00:00",
   "FirstSeenAchievements": "2023-08-07T02:00:19.8030023+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:15:22.0823831+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:54:05.3276659+00:00",
   "LastUpdate_AppInfo": "2023-11-03T05:57:25.7337395+00:00",
-  "LastUpdate_Ratings": "2023-11-07T00:00:37.8119857+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:15:22.0824189+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:44:49.5980226+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:54:05.3276855+00:00"
 }

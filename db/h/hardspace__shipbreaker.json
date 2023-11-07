@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 943,
+  "EOS_Progressed": 944,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1882,6 +1882,11 @@
       "Time": "2023-11-06T10:08:30.4022756+00:00",
       "NumProgressed": 943,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T01:53:14.4637898+00:00",
+      "NumProgressed": 944,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1893,7 +1898,7 @@
       "Name": "Act I Complete",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_ACT_2_COMPLETE",
@@ -1901,7 +1906,7 @@
       "Name": "Act II Complete",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1925,7 +1930,7 @@
       "Name": "A drop in the Ocean",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_A_SUCCESSFUL_PROCEDURE",
@@ -1973,7 +1978,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1989,7 +1994,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2037,7 +2042,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -2045,7 +2050,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2053,7 +2058,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2093,7 +2098,7 @@
       "Name": "The Weight of the World",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_TRUELY_SHOCKING",
@@ -2108,7 +2113,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 943,
+      "Progressed": 944,
       "Completed": 0
     }
   ],
@@ -2116,8 +2121,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:14:10.7279812+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:53:14.4637896+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:01.9640751+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:59:51.7889205+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:14:10.7280041+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:44:17.7395578+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:53:14.4638151+00:00"
 }

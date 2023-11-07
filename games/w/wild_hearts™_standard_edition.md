@@ -24,8 +24,8 @@
 | Counter Specialist | 50.00% | ~116 |
 | Axer of Auspice | 45.00% | ~105 |
 | Fair Means or Foul | 44.00% | ~103 |
+| Mighty Marmelizer | 42.00% | ~98 |
 | Single Minded | 41.00% | ~96 |
-| Mighty Marmelizer | 41.00% | ~96 |
 | Snare Specialist | 41.00% | ~96 |
 | Karakuri Trail | 38.00% | ~89 |
 | Kemono at Heart | 38.00% | ~89 |
@@ -34,9 +34,9 @@
 | Reincarnation Cycle Stopper | 33.00% | ~77 |
 | Karakuri Isle | 32.00% | ~75 |
 | Left Arm Leverager | 28.00% | ~65 |
+| Human Believer | 28.00% | ~65 |
 | Canyon of Karakuri | 27.00% | ~63 |
 | Style Seeker | 27.00% | ~63 |
-| Human Believer | 27.00% | ~63 |
 | Unrivaled in Arms | 27.00% | ~63 |
 | Karakuri Minato | 27.00% | ~63 |
 | Threaded Harmony | 25.00% | ~58 |

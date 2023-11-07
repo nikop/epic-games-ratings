@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57687,
+  "EOS_Progressed": 57689,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12086,6 +12086,11 @@
       "Time": "2023-11-06T23:05:44.9035946+00:00",
       "NumProgressed": 57687,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-07T01:50:15.0279194+00:00",
+      "NumProgressed": 57689,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -12273,7 +12278,7 @@
       "Name": "Level Diver",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "LittleGirl",
@@ -12488,7 +12493,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57687,
+      "Progressed": 57689,
       "Completed": 6
     }
   ],
@@ -12496,8 +12501,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:11:53.1130661+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:50:15.0279192+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.8440774+00:00",
-  "LastUpdate_Ratings": "2023-11-07T00:01:47.4189719+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:11:53.1131663+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:45:12.796053+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:50:15.0280157+00:00"
 }

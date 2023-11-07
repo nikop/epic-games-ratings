@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 500)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 5.00% | ~736 |
-| Bosmang | 3.00% | ~441 |
+| Bosmang | 3.00% | ~442 |
 | The Pit and the Pirates | 2.00% | ~294 |
 | Stogie for Fogey | 2.00% | ~294 |
 | Drug Gifter | 2.00% | ~294 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,716 (Ranked 146)  
+Progressed: 14,718 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 33 (0.22%) (Ranked 236)
 | 2023-11-04 | 14,643 | 32 |
 | 2023-11-05 | 14,691 | 32 |
 | 2023-11-06 | 14,715 | 33 |
-| 2023-11-07 | 14,716 | 33 |
+| 2023-11-07 | 14,718 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

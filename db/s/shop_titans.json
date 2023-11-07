@@ -6895,9 +6895,9 @@
       "Count": 3772
     }
   ],
-  "EOS_Progressed": 138722,
+  "EOS_Progressed": 138728,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27370,6 +27370,11 @@
       "Time": "2023-11-07T00:09:46.599031+00:00",
       "NumProgressed": 138722,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-07T01:48:40.8792838+00:00",
+      "NumProgressed": 138728,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27381,7 +27386,7 @@
       "Name": "The Daily Grind",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "advlevel02",
@@ -27461,7 +27466,7 @@
       "Name": "One Easy Payment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "bigsale02",
@@ -27469,7 +27474,7 @@
       "Name": "Tax not Included",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "bigsale03",
@@ -27485,7 +27490,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "blueprint02",
@@ -27517,7 +27522,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "boss02",
@@ -27557,7 +27562,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "chest03",
@@ -27733,7 +27738,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "energy02",
@@ -27757,7 +27762,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "expansion02",
@@ -27837,7 +27842,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "gemsspent",
@@ -27861,7 +27866,7 @@
       "Name": "Pretty Penny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "gold03",
@@ -27933,7 +27938,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "jackslot02",
@@ -27965,7 +27970,7 @@
       "Name": "Budding Merchant",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "level02",
@@ -28037,7 +28042,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "master02",
@@ -28205,7 +28210,7 @@
       "Name": "Magical Harmony",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1248
+      "UsersEstimate": 1249
     },
     {
       "ID": "typeunlock01",
@@ -28245,7 +28250,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2774
+      "UsersEstimate": 2775
     },
     {
       "ID": "workers02",
@@ -28276,15 +28281,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138722,
+      "Progressed": 138728,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-06T21:57:42.9325342+00:00",
-  "LastChanged_Achievements": "2023-11-07T00:09:46.5990307+00:00",
+  "LastChanged_Achievements": "2023-11-07T01:48:40.8792836+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:58:01.7004928+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:09:46.5992106+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:43:03.4092696+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:48:40.8794739+00:00"
 }

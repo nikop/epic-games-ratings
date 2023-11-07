@@ -31,8 +31,8 @@
 | Own four walls | 60.00% | ~203 |
 | Employee of the year | 60.00% | ~203 |
 | Fight for life | 59.00% | ~199 |
+| Little hacker | 59.00% | ~199 |
 | Intriguing candies | 59.00% | ~199 |
-| Little hacker | 58.00% | ~196 |
 | Legal courier | 56.00% | ~189 |
 | Extreme neuropower! | 55.00% | ~186 |
 | Escaped from a big trouble | 53.00% | ~179 |

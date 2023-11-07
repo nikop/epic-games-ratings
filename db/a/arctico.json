@@ -4,7 +4,7 @@
   "ProductSlug": "arctico-c29f1d",
   "Ranking_EOS_Progress": 728,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-16T17:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:38.6605343+00:00",
   "LastChanged": "2023-03-31T05:58:38.6605344+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.4058778+00:00",
-  "LastUpdate_Ratings": "2023-11-07T00:00:31.7715279+00:00",
-  "LastUpdate_Achievements": "2023-11-07T00:14:17.0283935+00:00"
+  "LastUpdate_Ratings": "2023-11-07T01:44:46.0212129+00:00",
+  "LastUpdate_Achievements": "2023-11-07T01:53:19.1218602+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.46 (Ranked 644)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,596 |
-| A new Journey | 74.00% | ~1,554 |
-| From X to Y | 73.00% | ~1,533 |
-| Departure | 73.00% | ~1,533 |
-| Way of Iron | 70.00% | ~1,470 |
-| Mystery Tour | 69.00% | ~1,449 |
-| We brake for nobody | 68.00% | ~1,428 |
-| Brainstorm | 66.00% | ~1,386 |
-| Travel Company | 66.00% | ~1,386 |
-| Mind the Gap | 65.00% | ~1,365 |
-| All around the World | 62.00% | ~1,302 |
-| Right through the middle | 58.00% | ~1,218 |
-| Facility Manager | 54.00% | ~1,134 |
-| Poor Devil | 54.00% | ~1,134 |
+| Country Bumpkin | 76.00% | ~1,597 |
+| A new Journey | 74.00% | ~1,555 |
+| From X to Y | 73.00% | ~1,534 |
+| Departure | 73.00% | ~1,534 |
+| Way of Iron | 70.00% | ~1,471 |
+| Mystery Tour | 69.00% | ~1,450 |
+| We brake for nobody | 68.00% | ~1,429 |
+| Brainstorm | 66.00% | ~1,387 |
+| Travel Company | 66.00% | ~1,387 |
+| Mind the Gap | 65.00% | ~1,366 |
+| All around the World | 62.00% | ~1,303 |
+| Right through the middle | 58.00% | ~1,219 |
+| Facility Manager | 54.00% | ~1,135 |
+| Poor Devil | 54.00% | ~1,135 |
 | Producer | 50.00% | ~1,050 |
 | Apprentice | 42.00% | ~882 |
 | Bridge Builder | 42.00% | ~882 |
@@ -61,7 +61,7 @@ Rating: 4.46 (Ranked 644)
 | United States | 0.70% | ~15 |
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,100 (Ranked 215)  
+Progressed: 2,101 (Ranked 215)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,6 +235,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-04 | 2,090 | 0 |
 | 2023-11-05 | 2,099 | 0 |
 | 2023-11-06 | 2,100 | 0 |
+| 2023-11-07 | 2,101 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
