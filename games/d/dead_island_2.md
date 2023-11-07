@@ -24,20 +24,20 @@ Rating: 4.54 (Ranked 521)
 | Stacking the Deck | 0.30% | ~2,143 |
 | Personal Assistant Personally Assisted | 0.30% | ~2,143 |
 | This is My Weapon | 0.30% | ~2,143 |
-| Making Your Mark | 0.20% | ~1,428 |
-| Perks of the Job | 0.20% | ~1,428 |
-| I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,428 |
-| Slayer Squad | 0.20% | ~1,428 |
-| Like Riding a Bike | 0.20% | ~1,428 |
-| Not Even My Final Form | 0.20% | ~1,428 |
-| Zombologist | 0.20% | ~1,428 |
-| Ooh, Shiny! | 0.20% | ~1,428 |
-| A Patton Emerges | 0.20% | ~1,428 |
-| Humanity Distilled | 0.20% | ~1,428 |
-| I Am the Resurrection | 0.20% | ~1,428 |
-| Down with the Sickness | 0.20% | ~1,428 |
-| Max Headroom | 0.20% | ~1,428 |
-| Our True Nature | 0.20% | ~1,428 |
+| Making Your Mark | 0.20% | ~1,429 |
+| Perks of the Job | 0.20% | ~1,429 |
+| I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,429 |
+| Slayer Squad | 0.20% | ~1,429 |
+| Like Riding a Bike | 0.20% | ~1,429 |
+| Not Even My Final Form | 0.20% | ~1,429 |
+| Zombologist | 0.20% | ~1,429 |
+| Ooh, Shiny! | 0.20% | ~1,429 |
+| A Patton Emerges | 0.20% | ~1,429 |
+| Humanity Distilled | 0.20% | ~1,429 |
+| I Am the Resurrection | 0.20% | ~1,429 |
+| Down with the Sickness | 0.20% | ~1,429 |
+| Max Headroom | 0.20% | ~1,429 |
+| Our True Nature | 0.20% | ~1,429 |
 | Top That, Tisha! | 0.20% | ~80 |
 | Make it So | 0.10% | ~714 |
 | LA Influential | 0.10% | ~714 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,231 (Ranked 21)  
+Progressed: 714,253 (Ranked 21)  
 Completed: 2,350 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 2,350 (0.33%) (Ranked 219)
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
-| 2023-11-07 | 714,231 | 2,350 |
+| 2023-11-07 | 714,253 | 2,350 |
 ## Awards
 Max (Great Boss Battles): 7,125  (Ranked 53)  
 Sum: 10,796 (Ranked 89)  

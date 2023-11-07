@@ -6213,9 +6213,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714231,
+  "EOS_Progressed": 714253,
   "EOS_Completed": 2350,
-  "EOS_NewPlayers": 5339,
+  "EOS_NewPlayers": 5355,
   "EOS_NewCompleters": 65,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29083,6 +29083,11 @@
       "Time": "2023-11-07T02:24:55.179557+00:00",
       "NumProgressed": 714231,
       "NumCompleted": 2350
+    },
+    {
+      "Time": "2023-11-07T03:06:00.5161199+00:00",
+      "NumProgressed": 714253,
+      "NumCompleted": 2350
     }
   ],
   "TotalAchievements": 51,
@@ -29102,7 +29107,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_ammo_ran",
@@ -29142,7 +29147,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_bookworm",
@@ -29174,7 +29179,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -29190,7 +29195,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_explorer",
@@ -29222,7 +29227,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_good_eyesight",
@@ -29230,7 +29235,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_hazardous_materials",
@@ -29302,7 +29307,7 @@
       "Name": "Zombologist",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_legendary",
@@ -29310,7 +29315,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_magnum_opus",
@@ -29326,7 +29331,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_mind_over_monster",
@@ -29334,7 +29339,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_revival_tour",
@@ -29342,7 +29347,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_salvation",
@@ -29350,7 +29355,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_secrets_of_la",
@@ -29390,7 +29395,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_the_vcla",
@@ -29406,7 +29411,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -29501,22 +29506,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714231,
+      "Progressed": 714253,
       "Completed": 2350
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39773,
-      "Completed": 36472
+      "Progressed": 39795,
+      "Completed": 36474
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-07T01:42:53.6891474+00:00",
-  "LastChanged_Achievements": "2023-11-07T02:24:55.1795564+00:00",
+  "LastChanged_Achievements": "2023-11-07T03:06:00.5161189+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:17:08.6624066+00:00",
-  "LastUpdate_Achievements": "2023-11-07T02:24:55.1798507+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:57:57.5640382+00:00",
+  "LastUpdate_Achievements": "2023-11-07T03:06:00.5162871+00:00"
 }

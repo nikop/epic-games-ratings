@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4013,9 +4013,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76095,
+  "EOS_Progressed": 76096,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 600,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21728,6 +21728,11 @@
       "Time": "2023-11-07T02:25:02.6722644+00:00",
       "NumProgressed": 76095,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-07T03:06:09.7607804+00:00",
+      "NumProgressed": 76096,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21819,7 +21824,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9131
+      "UsersEstimate": 9132
     },
     {
       "ID": "APPLY_STATUS",
@@ -21915,7 +21920,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9131
+      "UsersEstimate": 9132
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -22043,7 +22048,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26633
+      "UsersEstimate": 26634
     },
     {
       "ID": "HARLEY_2",
@@ -22083,7 +22088,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38808
+      "UsersEstimate": 38809
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22131,7 +22136,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25872
+      "UsersEstimate": 25873
     },
     {
       "ID": "MYSTERY_02",
@@ -22187,7 +22192,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9131
+      "UsersEstimate": 9132
     },
     {
       "ID": "SECRET_CACHE",
@@ -22195,7 +22200,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8370
+      "UsersEstimate": 8371
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -22226,13 +22231,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76095,
+      "Progressed": 76096,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46375,
+      "Progressed": 46376,
       "Completed": 2673
     }
   ],
@@ -22240,8 +22245,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-06T15:58:10.8986589+00:00",
-  "LastChanged_Achievements": "2023-11-07T02:25:02.6722638+00:00",
+  "LastChanged_Achievements": "2023-11-07T03:06:09.76078+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:17:16.6839894+00:00",
-  "LastUpdate_Achievements": "2023-11-07T02:25:02.672425+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:58:07.0215796+00:00",
+  "LastUpdate_Achievements": "2023-11-07T03:06:09.7609496+00:00"
 }

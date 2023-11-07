@@ -1,35 +1,35 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 535)  
+Rating: 4.53 (Ranked 534)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's a steal! | 37.00% | ~30,253 |
-| Final touch | 35.00% | ~28,617 |
-| Prop-M Rover | 32.00% | ~26,164 |
+| Final touch | 35.00% | ~28,618 |
+| Prop-M Rover | 32.00% | ~26,165 |
 | Changing the Planet | 28.00% | ~22,894 |
 | Sojourner | 26.00% | ~21,259 |
-| Beagle 2 | 24.00% | ~19,623 |
+| Beagle 2 | 24.00% | ~19,624 |
 | New Home | 23.00% | ~18,806 |
-| Winner Winner Terraformer | 21.00% | ~17,170 |
-| Project Manager | 19.00% | ~15,535 |
-| Curiosity | 19.00% | ~15,535 |
-| Collector | 19.00% | ~15,535 |
-| Master | 19.00% | ~15,535 |
+| Winner Winner Terraformer | 21.00% | ~17,171 |
+| Project Manager | 19.00% | ~15,536 |
+| Curiosity | 19.00% | ~15,536 |
+| Collector | 19.00% | ~15,536 |
+| Master | 19.00% | ~15,536 |
 | No Longer Red | 18.00% | ~14,718 |
 | Self-sufficient | 18.00% | ~14,718 |
 | Money money | 15.00% | ~12,265 |
 | Biggest Reward | 14.00% | ~11,447 |
-| First Journey | 13.00% | ~10,629 |
+| First Journey | 13.00% | ~10,630 |
 | Acquired knowledge | 12.00% | ~9,812 |
 | Hellenic Elysium | 12.00% | ~9,812 |
 | Grand champion | 12.00% | ~9,812 |
 | Landlord | 11.00% | ~8,994 |
 | Most Achievements | 11.00% | ~8,994 |
-| Spirit | 10.00% | ~8,176 |
-| Ultimate success | 10.00% | ~8,176 |
+| Spirit | 10.00% | ~8,177 |
+| Ultimate success | 10.00% | ~8,177 |
 | Variety Expert | 9.00% | ~7,359 |
 | Frequent tester | 8.00% | ~6,541 |
 | Determined | 8.00% | ~6,541 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,453 |
 | Opportunity | 3.00% | ~2,453 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 81,764 (Ranked 93)  
+Progressed: 81,766 (Ranked 93)  
 Completed: 155 (0.19%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,14 +238,14 @@ Completed: 155 (0.19%) (Ranked 246)
 | 2023-11-04 | 81,481 | 155 |
 | 2023-11-05 | 81,662 | 155 |
 | 2023-11-06 | 81,745 | 155 |
-| 2023-11-07 | 81,764 | 155 |
+| 2023-11-07 | 81,766 | 155 |
 ## Awards
-Max (Relaxing): 522  (Ranked 203)  
-Sum: 3,237 (Ranked 169)  
+Max (Relaxing): 523  (Ranked 203)  
+Sum: 3,238 (Ranked 169)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 522 |
+| This game is Relaxing | 523 |
 | This game is Highly Recommended | 504 |
 | This game has Quickly Understood Controls | 474 |
 | This game is Extremely Fun | 458 |
@@ -461,3 +461,4 @@ Diff (max vs sum): 34
 | 2023-11-04 | 4.53 | - | 522 | 3,231 |
 | 2023-11-05 | 4.53 | - | 522 | 3,236 |
 | 2023-11-06 | 4.53 | - | 522 | 3,237 |
+| 2023-11-07 | 4.53 | - | 523 | 3,238 |

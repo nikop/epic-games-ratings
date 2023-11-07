@@ -181,9 +181,9 @@
       "ID": "AC_ALL_TOYS",
       "SetID": "16i2akc",
       "Name": "Gift",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -413,9 +413,9 @@
       "ID": "AC_MUSIC_CONCERT",
       "SetID": "16i2akc",
       "Name": "Band",
-      "Percentage": 4,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "AC_PISTOL_MAX",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-07T02:25:50.8960434+00:00",
+  "LastChanged_Achievements": "2023-11-07T03:07:08.4379464+00:00",
   "LastUpdate_AppInfo": "2023-10-31T15:57:23.3971518+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:19:44.3946327+00:00",
-  "LastUpdate_Achievements": "2023-11-07T02:25:50.896121+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:01:12.1456389+00:00",
+  "LastUpdate_Achievements": "2023-11-07T03:07:08.4379805+00:00"
 }

@@ -27,7 +27,7 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,197 |
 | The Completionist | 0.10% | ~1,549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549,155 (Ranked 8)  
+Progressed: 1,549,160 (Ranked 8)  
 Completed: 719 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 719 (0.05%) (Ranked 297)
 | 2023-11-04 | 1,548,771 | 719 |
 | 2023-11-05 | 1,548,957 | 719 |
 | 2023-11-06 | 1,549,134 | 719 |
-| 2023-11-07 | 1,549,155 | 719 |
+| 2023-11-07 | 1,549,160 | 719 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

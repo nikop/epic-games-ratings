@@ -2765,9 +2765,9 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 660473,
+  "EOS_Progressed": 660474,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2010,
+  "EOS_NewPlayers": 2007,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25575,6 +25575,11 @@
       "Time": "2023-11-07T02:28:08.5998228+00:00",
       "NumProgressed": 660473,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-07T03:09:07.0072412+00:00",
+      "NumProgressed": 660474,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -25634,7 +25639,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85861
+      "UsersEstimate": 85862
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -25834,7 +25839,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 112280
+      "UsersEstimate": 112281
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -26001,15 +26006,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 660473,
+      "Progressed": 660474,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-01T01:47:12.9011919+00:00",
-  "LastChanged_Achievements": "2023-11-07T02:28:08.5998223+00:00",
+  "LastChanged_Achievements": "2023-11-07T03:09:07.0072406+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:13.1583279+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:17:23.6128334+00:00",
-  "LastUpdate_Achievements": "2023-11-07T02:28:08.6001513+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:58:14.8685594+00:00",
+  "LastUpdate_Achievements": "2023-11-07T03:09:07.0074429+00:00"
 }

@@ -777,9 +777,9 @@
       "ID": "Level_completed_002_008",
       "SetID": "6od1ndi",
       "Name": "Onk Boga II",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 173
+      "UsersEstimate": 176
     },
     {
       "ID": "Level_completed_003_001",
@@ -890,8 +890,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-07T02:27:32.5776095+00:00",
+  "LastChanged_Achievements": "2023-11-07T03:08:23.9410525+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:45.8899995+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:16:33.0021347+00:00",
-  "LastUpdate_Achievements": "2023-11-07T02:27:32.5776365+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:57:13.7227672+00:00",
+  "LastUpdate_Achievements": "2023-11-07T03:08:23.9410748+00:00"
 }

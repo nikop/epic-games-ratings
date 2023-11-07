@@ -369,9 +369,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 3615,
+  "EOS_Progressed": 3616,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5629,6 +5629,11 @@
       "Time": "2023-11-07T01:49:41.3894967+00:00",
       "NumProgressed": 3615,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-07T03:05:14.0504824+00:00",
+      "NumProgressed": 3616,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5696,7 +5701,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -5734,9 +5739,9 @@
       "ID": "ACH_KILL_ALL_ALIEN_ONSLAUGHT",
       "SetID": "816efe",
       "Name": "Keep \u0027Em Coming",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2676
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5744,7 +5749,7 @@
       "Name": "Regicide",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -5752,7 +5757,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2277
+      "UsersEstimate": 2278
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -5760,7 +5765,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2422
+      "UsersEstimate": 2423
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -5832,7 +5837,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "ACH_MISSION_02",
@@ -5880,7 +5885,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "ACH_MISSION_08",
@@ -5888,7 +5893,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "ACH_MISSION_09",
@@ -5912,7 +5917,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "ACH_MISSION_12",
@@ -5936,7 +5941,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -5944,7 +5949,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -5960,7 +5965,7 @@
       "Name": "People Person",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -5968,7 +5973,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -5999,7 +6004,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3615,
+      "Progressed": 3616,
       "Completed": 3
     }
   ],
@@ -6007,8 +6012,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-01T20:58:36.9657779+00:00",
-  "LastChanged_Achievements": "2023-11-07T02:24:16.7895042+00:00",
+  "LastChanged_Achievements": "2023-11-07T03:05:14.0504819+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:19:42.2668005+00:00",
-  "LastUpdate_Achievements": "2023-11-07T02:24:16.7895784+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:01:09.4070594+00:00",
+  "LastUpdate_Achievements": "2023-11-07T03:05:14.0505456+00:00"
 }

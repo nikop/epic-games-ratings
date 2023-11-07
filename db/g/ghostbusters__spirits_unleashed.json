@@ -3031,10 +3031,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2709,
       "NumberOfAwardsMax": 305
+    },
+    {
+      "Time": "2023-11-07T02:59:10.0915908+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2712,
+      "NumberOfAwardsMax": 305
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2709,
+  "NumberOfAwards": 2712,
   "NumberOfAwardsMax": 305,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3066,7 +3072,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 262
+      "Count": 265
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3111,9 +3117,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30409,
+  "EOS_Progressed": 30412,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1338,
+  "EOS_NewPlayers": 1330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18196,6 +18202,11 @@
       "Time": "2023-11-07T02:26:00.5928403+00:00",
       "NumProgressed": 30409,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-07T03:07:20.5014209+00:00",
+      "NumProgressed": 30412,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18207,7 +18218,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "Animated",
@@ -18319,7 +18330,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "Escape_Artist",
@@ -18453,9 +18464,9 @@
       "ID": "Right_Back",
       "SetID": "819popo",
       "Name": "Right back at ya",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 912
     },
     {
       "ID": "Rivalry",
@@ -18614,16 +18625,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30409,
+      "Progressed": 30412,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-07T01:43:53.2119234+00:00",
-  "LastChanged_Achievements": "2023-11-07T02:26:00.5928398+00:00",
+  "LastChanged": "2023-11-07T02:59:10.0915905+00:00",
+  "LastChanged_Achievements": "2023-11-07T03:07:20.5014205+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:18:08.9935536+00:00",
-  "LastUpdate_Achievements": "2023-11-07T02:26:00.5930266+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:59:10.0915917+00:00",
+  "LastUpdate_Achievements": "2023-11-07T03:07:20.5015627+00:00"
 }

@@ -29,8 +29,8 @@ Rating: 4.63 (Ranked 346)
 | Betrayed | 37.00% | ~589 |
 | Exodus | 36.00% | ~573 |
 | Legend Teller | 36.00% | ~573 |
+| There's Always Peng! | 36.00% | ~573 |
 | Mindless Prey | 36.00% | ~573 |
-| There's Always Peng! | 35.00% | ~557 |
 | A Cut Above | 32.00% | ~509 |
 | Front Toward Enemy | 32.00% | ~509 |
 | Set A Benchmark | 28.00% | ~445 |
@@ -54,7 +54,7 @@ Rating: 4.63 (Ranked 346)
 | One Gun | 2.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,591 (Ranked 228)  
-Completed: 8 (0.50%) (Ranked 195)  
+Completed: 8 (0.50%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -687,9 +687,9 @@
       "ID": "LoyalPartner",
       "SetID": "1jeo1g7",
       "Name": "Loyal Partner",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "MechanicIntegration",
@@ -855,9 +855,9 @@
       "ID": "StarKiller",
       "SetID": "1jeo1g7",
       "Name": "Star Killer",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "StellarDismantler",
@@ -1071,9 +1071,9 @@
       "ID": "EridanianChampion",
       "SetID": "1jeo1g7",
       "Name": "Eridanian Champion",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "EridanianHero",
@@ -1150,8 +1150,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-07T02:24:06.9436667+00:00",
+  "LastChanged_Achievements": "2023-11-07T03:05:02.1442823+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:15.9709684+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:19:18.7993771+00:00",
-  "LastUpdate_Achievements": "2023-11-07T02:24:06.9438304+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:00:39.4360425+00:00",
+  "LastUpdate_Achievements": "2023-11-07T03:05:02.1444008+00:00"
 }

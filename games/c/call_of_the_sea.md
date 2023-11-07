@@ -5,18 +5,18 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~102,890 |
-| 74 miles East of Otaheité | 56.00% | ~72,023 |
-| Interesting... | 42.00% | ~54,017 |
+| A Family Heirloom | 80.00% | ~102,891 |
+| 74 miles East of Otaheité | 56.00% | ~72,024 |
+| Interesting... | 42.00% | ~54,018 |
 | The Everhart Expedition | 39.00% | ~50,159 |
 | The Vanishing of the Lady Shannon | 30.00% | ~38,584 |
 | Seaside Serenade | 30.00% | ~38,584 |
-| Halfway there | 29.00% | ~37,297 |
-| A brigantine, a brig and a barque | 28.00% | ~36,011 |
-| 506 East Hampden Avenue | 28.00% | ~36,011 |
-| Weekend at Walakea's | 27.00% | ~34,725 |
-| Quite a Show | 27.00% | ~34,725 |
-| Dark Water Ride | 25.00% | ~32,153 |
+| Halfway there | 29.00% | ~37,298 |
+| A brigantine, a brig and a barque | 28.00% | ~36,012 |
+| 506 East Hampden Avenue | 28.00% | ~36,012 |
+| Weekend at Walakea's | 27.00% | ~34,726 |
+| Quite a Show | 27.00% | ~34,726 |
+| Dark Water Ride | 25.00% | ~32,154 |
 | Sunken | 24.00% | ~30,867 |
 | Deep Cut | 24.00% | ~30,867 |
 | FHALGOF'N' | 23.00% | ~29,581 |
@@ -31,8 +31,8 @@ Rating: 4.39 (Ranked 746)
 | Underwater Royalty | 7.00% | ~9,003 |
 | Written in Stone | 6.00% | ~7,717 |
 | Fawning Developers | 5.00% | ~6,431 |
-| The Amazing Adventures of Norah Everhart | 4.00% | ~5,144 |
-| Candid Photo | 4.00% | ~5,144 |
+| The Amazing Adventures of Norah Everhart | 4.00% | ~5,145 |
+| Candid Photo | 4.00% | ~5,145 |
 | You looked that up in a guide! | 3.00% | ~3,858 |
 | The Lady Shannon Recording | 3.00% | ~3,858 |
 | Otherwordly Portal | 3.00% | ~3,858 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 746)
 | Gently down the stream... | 1.00% | ~1,286 |
 | Meta-reference | 1.00% | ~1,286 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 128,612 (Ranked 82)  
+Progressed: 128,614 (Ranked 82)  
 Completed: 1,100 (0.86%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 1,100 (0.86%) (Ranked 166)
 | 2023-11-04 | 128,224 | 1,097 |
 | 2023-11-05 | 128,459 | 1,098 |
 | 2023-11-06 | 128,597 | 1,100 |
-| 2023-11-07 | 128,612 | 1,100 |
+| 2023-11-07 | 128,614 | 1,100 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

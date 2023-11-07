@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 584)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 7.00% | ~2,129 |
-| Advancement | 5.00% | ~1,520 |
-| Meticulously Efficient | 5.00% | ~1,520 |
+| Advancement | 5.00% | ~1,521 |
+| Meticulously Efficient | 5.00% | ~1,521 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,216 |
 | Discovery | 4.00% | ~1,216 |
 | Fully Upgraded | 4.00% | ~1,216 |
@@ -17,6 +17,7 @@ Rating: 4.50 (Ranked 584)
 | Clutch Capture | 3.00% | ~912 |
 | Cultured | 3.00% | ~912 |
 | Ghostbuster In Training | 3.00% | ~912 |
+| Right back at ya | 3.00% | ~912 |
 | There you are! | 3.00% | ~912 |
 | Vaporous Expansion | 3.00% | ~912 |
 | Whoopsie | 3.00% | ~912 |
@@ -29,7 +30,6 @@ Rating: 4.50 (Ranked 584)
 | Legions | 2.00% | ~608 |
 | Pesky Jerks | 2.00% | ~608 |
 | Rift Destroyer | 2.00% | ~608 |
-| Right back at ya | 2.00% | ~608 |
 | Seasoned | 2.00% | ~608 |
 | Side Hustle | 2.00% | ~608 |
 | Skilled | 2.00% | ~608 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 584)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,409 (Ranked 122)  
+Progressed: 30,412 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,10 @@ Completed: 65 (0.21%) (Ranked 238)
 | 2023-11-04 | 30,114 | 65 |
 | 2023-11-05 | 30,292 | 65 |
 | 2023-11-06 | 30,390 | 65 |
-| 2023-11-07 | 30,409 | 65 |
+| 2023-11-07 | 30,412 | 65 |
 ## Awards
 Max (Great for Beginners): 305  (Ranked 245)  
-Sum: 2,709 (Ranked 180)  
+Sum: 2,712 (Ranked 180)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -270,8 +270,8 @@ Diff (max vs sum): 65
 | This game has Diverse Characters | 279 |
 | This game has Amazing Storytelling | 273 |
 | This game is Highly Recommended | 270 |
+| This game is Extremely Fun | 265 |
 | This game has Competitive Players | 265 |
-| This game is Extremely Fun | 262 |
 | This game is Relaxing | 262 |
 | This game has Amazing Characters | 248 |
 | This game has Quickly Understood Controls | 248 |
@@ -484,4 +484,4 @@ Diff (max vs sum): 65
 | 2023-11-04 | 4.50 | 302 | 2,693 |
 | 2023-11-05 | 4.50 | 302 | 2,703 |
 | 2023-11-06 | 4.50 | 305 | 2,708 |
-| 2023-11-07 | 4.50 | 305 | 2,709 |
+| 2023-11-07 | 4.50 | 305 | 2,712 |

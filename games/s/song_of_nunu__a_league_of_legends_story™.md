@@ -36,7 +36,7 @@
 | Biggest Snowball Ever | 30.00% | ~158 |
 | Freeze The Ice Witch | 30.00% | ~158 |
 | Deadliest and Biggest Snowball Ever! | 30.00% | ~158 |
-| It Is Not Over | 28.00% | ~147 |
+| It Is Not Over | 29.00% | ~152 |
 | Vertical Power | 28.00% | ~147 |
 | One From The Heart | 14.00% | ~74 |
 | Yummy | 12.00% | ~63 |

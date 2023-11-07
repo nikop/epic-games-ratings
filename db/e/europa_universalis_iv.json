@@ -11641,10 +11641,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 56411,
       "NumberOfAwardsMax": 6879
+    },
+    {
+      "Time": "2023-11-07T02:57:27.4287126+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56445,
+      "NumberOfAwardsMax": 6879
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56411,
+  "NumberOfAwards": 56445,
   "NumberOfAwardsMax": 6879,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11652,7 +11658,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6550
+      "Count": 6584
     },
     {
       "Text": "This game has Challenging Combat",
@@ -11715,9 +11721,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448909,
+  "EOS_Progressed": 448919,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5516,
+  "EOS_NewPlayers": 5517,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34630,6 +34636,11 @@
       "Time": "2023-11-07T02:23:35.2089395+00:00",
       "NumProgressed": 448909,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T03:04:24.9157781+00:00",
+      "NumProgressed": 448919,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -34663,9 +34674,9 @@
       "ID": "achievement_a_decent_reserve",
       "SetID": "8p2n7he",
       "Name": "A Decent Reserve",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_a_heros_welcome",
@@ -37544,21 +37555,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448909,
+      "Progressed": 448919,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448909,
+      "Progressed": 448919,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-06T22:57:38.819684+00:00",
-  "LastChanged_Achievements": "2023-11-07T02:23:35.208939+00:00",
+  "LastChanged": "2023-11-07T02:57:27.4287124+00:00",
+  "LastChanged_Achievements": "2023-11-07T03:04:24.9157774+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:16:43.9758291+00:00",
-  "LastUpdate_Achievements": "2023-11-07T02:23:35.2106385+00:00"
+  "LastUpdate_Ratings": "2023-11-07T02:57:27.4287132+00:00",
+  "LastUpdate_Achievements": "2023-11-07T03:04:24.9174001+00:00"
 }

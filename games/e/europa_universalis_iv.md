@@ -6,6 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Decent Reserve | 0.10% | ~449 |
 | A Manchurian Candidate | 0.10% | ~449 |
 | A Pile of Gold | 0.10% | ~449 |
 | A Protected Market | 0.10% | ~449 |
@@ -105,7 +106,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Blessed Nation | 0.00% | ~0 |
-| A Decent Reserve | 0.00% | ~0 |
 | A Hero’s Welcome | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | A tale of two Families | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,909 (Ranked 41)  
+Progressed: 448,919 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,16 +571,16 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 448,909 | 1 |
+| 2023-11-07 | 448,919 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
-Sum: 56,411 (Ranked 24)  
+Sum: 56,445 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,879 |
 | This game has Diverse Characters | 6,592 |
-| This game is Highly Recommended | 6,550 |
+| This game is Highly Recommended | 6,584 |
 | This game has Challenging Combat | 6,480 |
 | This game is Extremely Fun | 6,466 |
 | This game is Relaxing | 6,310 |
@@ -885,3 +885,4 @@ Diff (max vs sum): 30
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
 | 2023-11-06 | 4.69 | - | 6,879 | 56,411 |
+| 2023-11-07 | 4.69 | - | 6,879 | 56,445 |

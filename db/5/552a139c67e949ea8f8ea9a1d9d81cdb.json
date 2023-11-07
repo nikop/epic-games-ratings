@@ -1763,9 +1763,9 @@
       "ID": "ML_ACHIEVEMENT_08",
       "SetID": "5k00jcd",
       "Name": "Versatile riding",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 83
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -1891,9 +1891,9 @@
       "ID": "ML_ACHIEVEMENT_24",
       "SetID": "5k00jcd",
       "Name": "The Terrordactyl",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -2064,8 +2064,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-07T02:24:41.3961971+00:00",
+  "LastChanged_Achievements": "2023-11-07T03:05:43.3654259+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:22:08.6989272+00:00",
-  "LastUpdate_Achievements": "2023-11-07T02:24:41.3962753+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:01:15.9024513+00:00",
+  "LastUpdate_Achievements": "2023-11-07T03:05:43.3654724+00:00"
 }

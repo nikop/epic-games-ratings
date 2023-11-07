@@ -1,18 +1,18 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.53 (Ranked 535)  
+Rating: 4.53 (Ranked 534)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 46.00% | ~5,020 |
-| Greasy Palms | 42.00% | ~4,583 |
-| South American Connection | 26.00% | ~2,837 |
-| Life of the Party | 21.00% | ~2,292 |
+| Greasy Palms | 42.00% | ~4,584 |
+| South American Connection | 26.00% | ~2,838 |
+| Life of the Party | 20.00% | ~2,183 |
 | Tommy Two-Wheels | 16.00% | ~1,746 |
 | Big Heat from Little Havana | 15.00% | ~1,637 |
 | Chauffeur | 15.00% | ~1,637 |
-| Salutations My Little Friend | 11.00% | ~1,200 |
+| Salutations My Little Friend | 11.00% | ~1,201 |
 | Iron-y | 10.00% | ~1,091 |
 | Gun for Hire | 9.00% | ~982 |
 | Mischief Managed | 9.00% | ~982 |
@@ -21,8 +21,8 @@ Rating: 4.53 (Ranked 535)
 | Catch Me if You Can | 6.00% | ~655 |
 | Not my First Time | 5.00% | ~546 |
 | Grand Theft Auto | 5.00% | ~546 |
-| High Quality H2O | 4.00% | ~436 |
-| Pie Guy | 4.00% | ~436 |
+| High Quality H2O | 4.00% | ~437 |
+| Pie Guy | 4.00% | ~437 |
 | Running Rampant | 3.00% | ~327 |
 | Point A to Point B | 3.00% | ~327 |
 | Bull in a China Shop | 3.00% | ~327 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 535)
 | Done it All | 1.00% | ~109 |
 | Kingpin | 0.60% | ~65 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,912 (Ranked 154)  
+Progressed: 10,914 (Ranked 154)  
 Completed: 64 (0.59%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 64 (0.59%) (Ranked 182)
 | 2023-11-04 | 10,835 | 64 |
 | 2023-11-05 | 10,882 | 64 |
 | 2023-11-06 | 10,908 | 64 |
-| 2023-11-07 | 10,912 | 64 |
+| 2023-11-07 | 10,914 | 64 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 357)  
 Sum: 101 (Ranked 441)  
