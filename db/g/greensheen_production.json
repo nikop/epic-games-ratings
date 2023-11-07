@@ -2,9 +2,9 @@
   "ID": "400fd43e2e2f4b3b97bdc32656cb8f09",
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 551,
-  "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Completed": 16,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -18,10 +18,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 14,
-  "EOS_Completed": 2,
+  "EOS_Completed": 3,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 14.29,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 21.43,
   "EosHistory": [
     {
       "Time": "2023-08-08T10:04:28.1768655+00:00",
@@ -97,6 +97,11 @@
       "Time": "2023-11-06T14:08:24.8790198+00:00",
       "NumProgressed": 14,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-07T07:08:48.9692529+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-08T10:04:28.176868+00:00",
@@ -107,9 +112,9 @@
       "ID": "BFF",
       "SetID": "aph8hbk",
       "Name": "In The Palm Of My Hand",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "BugSmash",
@@ -147,9 +152,9 @@
       "ID": "CompletePaleCity",
       "SetID": "aph8hbk",
       "Name": "Paled",
-      "Percentage": 64,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "CompleteSchool",
@@ -187,9 +192,9 @@
       "ID": "FindAllHats",
       "SetID": "aph8hbk",
       "Name": "Far Ahead",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "FindAllPhantomKids",
@@ -219,9 +224,9 @@
       "ID": "GameComplete",
       "SetID": "aph8hbk",
       "Name": "Signal interruption",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 60,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Governess",
@@ -299,9 +304,9 @@
       "ID": "MailMan",
       "SetID": "aph8hbk",
       "Name": "Post Industrial",
-      "Percentage": 57,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "PaperPlaneWindow",
@@ -331,9 +336,9 @@
       "ID": "Platinum",
       "SetID": "aph8hbk",
       "Name": "Primetime Content Consumer",
-      "Percentage": 14,
+      "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Popcorn",
@@ -363,9 +368,9 @@
       "ID": "ThinmanHat",
       "SetID": "aph8hbk",
       "Name": "How Do I Look?",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TrapAvoid",
@@ -379,9 +384,9 @@
       "ID": "Xray",
       "SetID": "aph8hbk",
       "Name": "X Best Friends",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
@@ -389,12 +394,12 @@
       "ID": "aph8hbk",
       "IsBase": true,
       "Progressed": 14,
-      "Completed": 2
+      "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:08:42.6377395+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:08:48.9692526+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:00:45.4790454+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:08:42.6377678+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:00:27.3240407+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:08:48.9692745+00:00"
 }

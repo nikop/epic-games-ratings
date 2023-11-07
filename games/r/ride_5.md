@@ -15,7 +15,7 @@
 | Restored and Ready | 19.00% | ~385 |
 | I Want One Too! | 19.00% | ~385 |
 | Legendary!!! | 19.00% | ~385 |
-| Quick Pit Stop | 18.00% | ~365 |
+| Quick Pit Stop | 19.00% | ~385 |
 | I'm Here Too! | 18.00% | ~365 |
 | Go-Faster Stripes | 17.00% | ~345 |
 | We've Just Begun | 11.00% | ~223 |

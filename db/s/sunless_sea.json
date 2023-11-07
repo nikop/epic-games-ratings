@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -736,9 +736,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40196,
+  "EOS_Progressed": 40197,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 472,
+  "EOS_NewPlayers": 471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21251,6 +21251,11 @@
       "Time": "2023-11-07T06:08:54.6575252+00:00",
       "NumProgressed": 40196,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-07T07:08:59.8653241+00:00",
+      "NumProgressed": 40197,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -21470,7 +21475,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5627
+      "UsersEstimate": 5628
     },
     {
       "ID": "ach_legacysalvager",
@@ -21630,7 +21635,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6029
+      "UsersEstimate": 6030
     },
     {
       "ID": "ach_undercurrent",
@@ -21693,15 +21698,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40196,
+      "Progressed": 40197,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-05T20:00:39.9976702+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:08:54.6575247+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:08:59.865324+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:36.007109+00:00",
-  "LastUpdate_Ratings": "2023-11-07T05:59:27.217374+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:08:54.657732+00:00"
+  "LastUpdate_Ratings": "2023-11-07T06:59:18.6516268+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:08:59.8654239+00:00"
 }

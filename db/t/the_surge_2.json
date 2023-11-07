@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2177,
+  "EOS_Progressed": 2178,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3069,6 +3069,11 @@
       "Time": "2023-11-07T06:09:08.1492714+00:00",
       "NumProgressed": 2177,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-07T07:09:12.0238593+00:00",
+      "NumProgressed": 2178,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3094,9 +3099,9 @@
       "ID": "ACHV_03",
       "SetID": "8p5mlmc",
       "Name": "Dead Again",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 370
     },
     {
       "ID": "ACHV_04",
@@ -3232,7 +3237,7 @@
       "Name": "Marked For Success",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHV_21",
@@ -3248,7 +3253,7 @@
       "Name": "Offensive Defense",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACHV_23",
@@ -3256,7 +3261,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ACHV_24",
@@ -3344,7 +3349,7 @@
       "Name": "Shocking",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "ACHV_35",
@@ -3400,7 +3405,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ACHV_42",
@@ -3535,7 +3540,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2177,
+      "Progressed": 2178,
       "Completed": 13
     }
   ],
@@ -3543,8 +3548,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:09:08.1492709+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:09:12.0238589+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:22.6929066+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:00:05.1654576+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:09:08.149337+00:00"
+  "LastUpdate_Ratings": "2023-11-07T06:59:51.769152+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:09:12.023917+00:00"
 }

@@ -14798,9 +14798,9 @@
       "Count": 12552
     }
   ],
-  "EOS_Progressed": 895606,
+  "EOS_Progressed": 895608,
   "EOS_Completed": 2752,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1022,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37518,6 +37518,11 @@
       "Time": "2023-11-07T06:07:27.2196974+00:00",
       "NumProgressed": 895606,
       "NumCompleted": 2752
+    },
+    {
+      "Time": "2023-11-07T07:08:17.5670163+00:00",
+      "NumProgressed": 895608,
+      "NumCompleted": 2752
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37928,9 +37933,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 48
+      "UsersEstimate": 73
     },
     {
       "ID": "Kingofcups",
@@ -38065,21 +38070,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895606,
+      "Progressed": 895608,
       "Completed": 2752
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24229,
+      "Progressed": 24231,
       "Completed": 10197
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-07T06:01:08.1408339+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:07:27.2196969+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:08:17.5670159+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:01:08.1408347+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:07:27.2199216+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:00:45.8070299+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:08:17.5671797+00:00"
 }

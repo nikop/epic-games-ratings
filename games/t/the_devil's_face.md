@@ -14,7 +14,7 @@
 | The court | 9.00% | ~50 |
 | Holy Nails | 8.00% | ~44 |
 | The crucifixion | 7.00% | ~39 |
-| Flagellation | 6.00% | ~33 |
+| Flagellation | 7.00% | ~39 |
 | The choice | 4.00% | ~22 |
 | Hubris | 3.00% | ~17 |
 | Humility | 2.00% | ~11 |

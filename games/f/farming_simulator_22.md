@@ -6,18 +6,18 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,423 |
+| Own use | 75.00% | ~38,424 |
 | I read Shakespeare and stuff | 64.00% | ~32,788 |
-| Just a sprinkle | 62.00% | ~31,763 |
-| I'm stumped | 61.00% | ~31,251 |
+| Just a sprinkle | 62.00% | ~31,764 |
+| I'm stumped | 61.00% | ~31,252 |
 | Plant get enough | 60.00% | ~30,739 |
-| This is just my weekend vehicle | 58.00% | ~29,714 |
-| It's just the beginning | 58.00% | ~29,714 |
-| Hard work pays off | 53.00% | ~27,152 |
+| This is just my weekend vehicle | 58.00% | ~29,715 |
+| It's just the beginning | 58.00% | ~29,715 |
+| Hard work pays off | 53.00% | ~27,153 |
 | It's never too late to farm | 51.00% | ~26,128 |
 | All out of Land | 45.00% | ~23,054 |
 | Field Trip | 44.00% | ~22,542 |
-| I like to switch it up | 40.00% | ~20,492 |
+| I like to switch it up | 40.00% | ~20,493 |
 | Help me to help you | 38.00% | ~19,468 |
 | Ultimutt Pawesomeness | 28.00% | ~14,345 |
 | Van Gogh | 26.00% | ~13,320 |
@@ -31,8 +31,8 @@ Number of Ratings: 7,683  (23.09.2022)
 | That's a wrap | 15.00% | ~7,685 |
 | Fix me up | 13.00% | ~6,660 |
 | Rock on | 12.00% | ~6,148 |
-| Highly cultivated | 11.00% | ~5,635 |
-| It's sow easy | 11.00% | ~5,635 |
+| Highly cultivated | 11.00% | ~5,636 |
+| It's sow easy | 11.00% | ~5,636 |
 | Giddy-up! | 10.00% | ~5,123 |
 | Cowherd | 7.00% | ~3,586 |
 | Fluffyness | 6.00% | ~3,074 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~205 |
 | Raisin the stakes | 0.30% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,231 (Ranked 108)  
+Progressed: 51,232 (Ranked 108)  
 Completed: 6 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 6 (0.01%) (Ranked 321)
 | 2023-11-04 | 51,103 | 6 |
 | 2023-11-05 | 51,184 | 6 |
 | 2023-11-06 | 51,225 | 6 |
-| 2023-11-07 | 51,231 | 6 |
+| 2023-11-07 | 51,232 | 6 |
 ## Awards
 Max (Great for Beginners): 5,430  (Ranked 69)  
 Sum: 42,332 (Ranked 33)  

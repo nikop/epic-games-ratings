@@ -4,8 +4,8 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 367,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -962,9 +962,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -1194,9 +1194,9 @@
       "ID": "GSS_ACH_32_TRASH_03",
       "SetID": "5fn8ia4",
       "Name": "It has to be clean!",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 132
     },
     {
       "ID": "GSS_ACH_33_FLY",
@@ -1250,9 +1250,9 @@
       "ID": "GSS_ACH_39_GARAGE_02",
       "SetID": "5fn8ia4",
       "Name": "Machine Head",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "GSS_ACH_40_GARAGE_03",
@@ -1274,9 +1274,9 @@
       "ID": "GSS_ACH_42_CARAVAN_01",
       "SetID": "5fn8ia4",
       "Name": "Help Wanted!",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 128
     },
     {
       "ID": "GSS_ACH_43_CARAVAN_02",
@@ -1609,8 +1609,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:03:41.8362902+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:03:40.6240491+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:17.0856906+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:00:46.9304106+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:03:41.8364255+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:00:28.5718191+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:03:40.6241205+00:00"
 }

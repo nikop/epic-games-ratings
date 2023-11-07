@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 14.00% | ~5,083,956 |
-| Snowflake | 13.00% | ~4,720,816 |
-| Fall Throttle | 12.00% | ~4,357,677 |
-| Big Bully | 10.00% | ~3,631,397 |
-| Face First | 9.00% | ~3,268,257 |
-| Style Points | 9.00% | ~3,268,257 |
-| One to Watch | 8.00% | ~2,905,118 |
-| Troublemaker | 8.00% | ~2,905,118 |
-| Flawless Victory | 7.00% | ~2,541,978 |
-| Fall Bae | 7.00% | ~2,541,978 |
-| Ahead of the Pack | 7.00% | ~2,541,978 |
-| Stumble Chums | 7.00% | ~2,541,978 |
-| Victory! | 6.00% | ~2,178,838 |
-| Bargain Bucket | 5.00% | ~1,815,699 |
-| Household Name | 4.00% | ~1,452,559 |
-| One giant leap | 4.00% | ~1,452,559 |
-| Catwalk Model | 3.00% | ~1,089,419 |
-| Head Turner | 3.00% | ~1,089,419 |
-| Quite Dashing | 3.00% | ~1,089,419 |
-| Squad Goals | 3.00% | ~1,089,419 |
-| Big Air | 2.00% | ~726,279 |
-| Down to the Wire | 2.00% | ~726,279 |
-| Star of the Show | 2.00% | ~726,279 |
-| Shopping Spree | 2.00% | ~726,279 |
-| Top Tier | 2.00% | ~726,279 |
-| Low Baller | 1.00% | ~363,140 |
-| Mad Trendy | 1.00% | ~363,140 |
-| Veteran Status | 0.90% | ~326,826 |
-| Show Off | 0.90% | ~326,826 |
-| Track Star | 0.70% | ~254,198 |
-| Golden Guy | 0.70% | ~254,198 |
-| Big Tease | 0.40% | ~145,256 |
-| Fall Guy Fashionista | 0.40% | ~145,256 |
-| Infallible | 0.30% | ~108,942 |
+| One small trip | 14.00% | ~5,084,009 |
+| Snowflake | 13.00% | ~4,720,865 |
+| Fall Throttle | 12.00% | ~4,357,722 |
+| Big Bully | 10.00% | ~3,631,435 |
+| Face First | 9.00% | ~3,268,291 |
+| Style Points | 9.00% | ~3,268,291 |
+| One to Watch | 8.00% | ~2,905,148 |
+| Troublemaker | 8.00% | ~2,905,148 |
+| Flawless Victory | 7.00% | ~2,542,004 |
+| Fall Bae | 7.00% | ~2,542,004 |
+| Ahead of the Pack | 7.00% | ~2,542,004 |
+| Stumble Chums | 7.00% | ~2,542,004 |
+| Victory! | 6.00% | ~2,178,861 |
+| Bargain Bucket | 5.00% | ~1,815,717 |
+| Household Name | 4.00% | ~1,452,574 |
+| One giant leap | 4.00% | ~1,452,574 |
+| Catwalk Model | 3.00% | ~1,089,430 |
+| Head Turner | 3.00% | ~1,089,430 |
+| Quite Dashing | 3.00% | ~1,089,430 |
+| Squad Goals | 3.00% | ~1,089,430 |
+| Big Air | 2.00% | ~726,287 |
+| Down to the Wire | 2.00% | ~726,287 |
+| Star of the Show | 2.00% | ~726,287 |
+| Shopping Spree | 2.00% | ~726,287 |
+| Top Tier | 2.00% | ~726,287 |
+| Low Baller | 1.00% | ~363,143 |
+| Mad Trendy | 1.00% | ~363,143 |
+| Veteran Status | 0.90% | ~326,829 |
+| Show Off | 0.90% | ~326,829 |
+| Track Star | 0.70% | ~254,200 |
+| Golden Guy | 0.70% | ~254,200 |
+| Big Tease | 0.40% | ~145,257 |
+| Fall Guy Fashionista | 0.40% | ~145,257 |
+| Infallible | 0.30% | ~108,943 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,313,971 (Ranked 1)  
-Completed: 45,664 (0.13%) (Ranked 257)  
+Progressed: 36,314,349 (Ranked 1)  
+Completed: 45,665 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -242,7 +242,7 @@ Completed: 45,664 (0.13%) (Ranked 257)
 | 2023-11-04 | 36,277,367 | 45,531 |
 | 2023-11-05 | 36,297,089 | 45,599 |
 | 2023-11-06 | 36,310,506 | 45,646 |
-| 2023-11-07 | 36,313,971 | 45,664 |
+| 2023-11-07 | 36,314,349 | 45,665 |
 ## Awards
 Max (Great for Beginners): 151,278  (Ranked 7)  
 Sum: 1,382,267 (Ranked 5)  

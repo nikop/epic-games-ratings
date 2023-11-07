@@ -4,8 +4,8 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 250,
+  "EOS_Progressed": 251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -985,6 +985,11 @@
       "Time": "2023-11-06T18:05:43.3868738+00:00",
       "NumProgressed": 250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T07:06:07.8149864+00:00",
+      "NumProgressed": 251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -997,7 +1002,7 @@
       "Name": "You\u0027re Fired!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achMaxCage",
@@ -1037,7 +1042,7 @@
       "Name": "Moving Up a Gear",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achMaxTransmissionAll",
@@ -1093,7 +1098,7 @@
       "Name": "Corporate Cooperator",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "achSponsor5",
@@ -1220,14 +1225,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 250,
+      "Progressed": 251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:06:20.3336046+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:06:07.8149862+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:19.6547048+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:02:42.7838473+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:06:20.333634+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:01:05.8006481+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:06:07.8150026+00:00"
 }

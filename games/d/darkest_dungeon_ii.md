@@ -6,30 +6,30 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~114,116 |
+| A Place to Lay Your Head | 93.00% | ~114,117 |
 | Don't Make Me Turn This Coach Around | 71.00% | ~87,121 |
-| A Clear Conscience | 69.00% | ~84,666 |
-| Unleash Hell | 68.00% | ~83,439 |
-| Unfulfilled Desires | 68.00% | ~83,439 |
-| Funny Guy | 67.00% | ~82,212 |
-| Unshackled | 67.00% | ~82,212 |
-| Long Live the King | 66.00% | ~80,985 |
-| Resurrection | 62.00% | ~76,077 |
-| Wyrdly Reconstructed | 62.00% | ~76,077 |
-| Boxcar Kid | 61.00% | ~74,850 |
-| Rush Hour | 60.00% | ~73,623 |
-| To Grandmother's House | 60.00% | ~73,623 |
+| A Clear Conscience | 69.00% | ~84,667 |
+| Unleash Hell | 68.00% | ~83,440 |
+| Unfulfilled Desires | 68.00% | ~83,440 |
+| Funny Guy | 67.00% | ~82,213 |
+| Unshackled | 67.00% | ~82,213 |
+| Long Live the King | 66.00% | ~80,986 |
+| Resurrection | 62.00% | ~76,078 |
+| Wyrdly Reconstructed | 62.00% | ~76,078 |
+| Boxcar Kid | 61.00% | ~74,851 |
+| Rush Hour | 60.00% | ~73,624 |
+| To Grandmother's House | 60.00% | ~73,624 |
 | Serenity Now! | 54.00% | ~66,261 |
-| Hope Rekindled | 50.00% | ~61,352 |
-| Ramble On | 49.00% | ~60,125 |
-| Nope | 49.00% | ~60,125 |
+| Hope Rekindled | 50.00% | ~61,353 |
+| Ramble On | 49.00% | ~60,126 |
+| Nope | 49.00% | ~60,126 |
 | This Looks Familiar | 38.00% | ~46,628 |
 | Now Stay Dead | 38.00% | ~46,628 |
 | Harvest Festival | 37.00% | ~45,401 |
 | Merry Time | 36.00% | ~44,174 |
 | Hot Air | 36.00% | ~44,174 |
 | Creep and Sleep | 33.00% | ~40,493 |
-| Overdue Notice | 32.00% | ~39,266 |
+| Overdue Notice | 33.00% | ~40,493 |
 | Whale | 32.00% | ~39,266 |
 | Banishment | 31.00% | ~38,039 |
 | FNG | 30.00% | ~36,812 |
@@ -51,8 +51,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Not Today! | 13.00% | ~15,952 |
 | Shrine of Reflection | 12.00% | ~14,725 |
 | When You Want Something Done Right | 12.00% | ~14,725 |
-| Body of Work | 10.00% | ~12,270 |
-| Utopia | 9.00% | ~11,043 |
+| Body of Work | 10.00% | ~12,271 |
+| Utopia | 9.00% | ~11,044 |
 | Hat Trick | 7.00% | ~8,589 |
 | Ichthyophobic | 6.00% | ~7,362 |
 | No More Mouths to Feed | 6.00% | ~7,362 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~123 |
 | No Gravestone Left Unturned | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,705 (Ranked 83)  
+Progressed: 122,706 (Ranked 83)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 122,454 | 1 |
 | 2023-11-05 | 122,583 | 1 |
 | 2023-11-06 | 122,679 | 1 |
-| 2023-11-07 | 122,705 | 1 |
+| 2023-11-07 | 122,706 | 1 |
 ## Awards
 Max (Character Customization): 7,493  (Ranked 50)  
 Sum: 19,687 (Ranked 59)  

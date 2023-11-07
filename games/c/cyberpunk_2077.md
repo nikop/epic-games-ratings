@@ -16,6 +16,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.30% | ~2,687 |
 | The Hermit | 0.30% | ~2,687 |
 | True Warrior | 0.30% | ~2,687 |
+| Spin Doctor | 0.30% | ~73 |
 | All the President's Men | 0.30% | ~73 |
 | Arachnophobia | 0.30% | ~73 |
 | Bushido and Chill | 0.20% | ~1,791 |
@@ -31,7 +32,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.20% | ~1,791 |
 | Judy vs Night City | 0.20% | ~1,791 |
 | Legend of The Afterlife | 0.20% | ~1,791 |
-| Spin Doctor | 0.20% | ~48 |
 | King of Wands | 0.20% | ~48 |
 | Dirty Deeds | 0.20% | ~48 |
 | Easy Come, Easy Go | 0.20% | ~48 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,606 (Ranked 15)  
+Progressed: 895,608 (Ranked 15)  
 Completed: 2,752 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 2,752 (0.31%) (Ranked 222)
 | 2023-11-04 | 895,267 | 2,744 |
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
-| 2023-11-07 | 895,606 | 2,752 |
+| 2023-11-07 | 895,608 | 2,752 |
 ## Awards
 Max (Character Customization): 104,229  (Ranked 9)  
 Sum: 345,153 (Ranked 10)  

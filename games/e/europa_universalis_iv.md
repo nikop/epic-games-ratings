@@ -36,6 +36,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.10% | ~449 |
 | Factionalism | 0.10% | ~449 |
 | Fine Financials | 0.10% | ~449 |
+| Forgive me, for I have Sindh | 0.10% | ~449 |
 | Four For Trade | 0.10% | ~449 |
 | From Humble Origins | 0.10% | ~449 |
 | Full House | 0.10% | ~449 |
@@ -61,6 +62,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.10% | ~449 |
 | Marshy March | 0.10% | ~449 |
 | My armies are invincible! | 0.10% | ~449 |
+| Narcissism | 0.10% | ~449 |
 | Not just Pizza | 0.10% | ~449 |
 | Not so sad a state... | 0.10% | ~449 |
 | On the Rhodes Again | 0.10% | ~449 |
@@ -183,7 +185,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Emperor! | 0.00% | ~0 |
 | For the Glory | 0.00% | ~0 |
 | Forever Golden | 0.00% | ~0 |
-| Forgive me, for I have Sindh | 0.00% | ~0 |
 | Foul Mouthed | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
@@ -251,7 +252,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Multiculturalism | 0.00% | ~0 |
 | My True Friend | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
-| Narcissism | 0.00% | ~0 |
 | Neither Holy, Nor German | 0.00% | ~0 |
 | Networking | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,970 (Ranked 41)  
+Progressed: 448,985 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 448,970 | 1 |
+| 2023-11-07 | 448,985 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,445 (Ranked 24)  

@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23630,
+  "EOS_Progressed": 23631,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -21968,6 +21968,11 @@
       "Time": "2023-11-07T06:07:04.0429613+00:00",
       "NumProgressed": 23630,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2023-11-07T07:06:47.2264049+00:00",
+      "NumProgressed": 23631,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 20,
@@ -22043,7 +22048,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3544
+      "UsersEstimate": 3545
     },
     {
       "ID": "FOUND_ERIN",
@@ -22099,7 +22104,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18195
+      "UsersEstimate": 18196
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22131,22 +22136,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4253
+      "UsersEstimate": 4254
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23630,
+      "Progressed": 23631,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:07:04.0429608+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:06:47.2264046+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.680563+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:03:02.3020013+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:07:04.0431458+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:03:03.0984168+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:06:47.2265086+00:00"
 }

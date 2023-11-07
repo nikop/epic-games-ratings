@@ -16,7 +16,7 @@
 | Lab Rat | 25.00% | ~156 |
 | Stalemate | 20.00% | ~124 |
 | Kindar Surprise | 18.00% | ~112 |
-| MVP - Most Vanishing Person | 14.00% | ~87 |
+| MVP - Most Vanishing Person | 15.00% | ~93 |
 | Deadly Secret | 13.00% | ~81 |
 | Get Out Of This Alive | 10.00% | ~62 |
 | The Promise | 9.00% | ~56 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 162,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -2487,9 +2487,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "296pn27",
       "Name": "Flagellation",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 39
     }
   ],
   "AchievementSets": [
@@ -2502,8 +2502,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:04:32.0765123+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:04:25.9938824+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.460318+00:00",
-  "LastUpdate_Ratings": "2023-11-07T05:59:01.6654146+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:04:32.0765531+00:00"
+  "LastUpdate_Ratings": "2023-11-07T06:58:54.8568526+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:04:25.9939021+00:00"
 }

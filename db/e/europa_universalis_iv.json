@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11721,9 +11721,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448970,
+  "EOS_Progressed": 448985,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5521,
+  "EOS_NewPlayers": 5523,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34656,6 +34656,11 @@
       "Time": "2023-11-07T06:04:27.2821554+00:00",
       "NumProgressed": 448970,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T07:04:21.8197801+00:00",
+      "NumProgressed": 448985,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35513,9 +35518,9 @@
       "ID": "achievement_forgive_me_for_i_have_sind",
       "SetID": "8p2n7he",
       "Name": "Forgive me, for I have Sindh",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_foul_mouthed",
@@ -36257,9 +36262,9 @@
       "ID": "achievement_narcissism",
       "SetID": "8p2n7he",
       "Name": "Narcissism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_neither_holy_nor_german",
@@ -37570,21 +37575,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448970,
+      "Progressed": 448985,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448970,
+      "Progressed": 448985,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-07T02:57:27.4287124+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:04:27.282155+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:04:21.8197798+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T05:57:32.1070041+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:04:27.2835168+00:00"
+  "LastUpdate_Ratings": "2023-11-07T06:57:34.0509576+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:04:21.8208315+00:00"
 }

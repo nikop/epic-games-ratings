@@ -14,17 +14,17 @@
 | The darkness | 18.00% | ~86 |
 | A good beginning | 17.00% | ~81 |
 | I did it | 16.00% | ~76 |
+| Half the way | 16.00% | ~76 |
 | One last step | 16.00% | ~76 |
 | In this together | 15.00% | ~72 |
 | Peace walker | 15.00% | ~72 |
 | Cable guy | 15.00% | ~72 |
-| Half the way | 15.00% | ~72 |
 | Champollion | 15.00% | ~72 |
+| Alchemists Express | 14.00% | ~67 |
 | Open door | 13.00% | ~62 |
 | Feels like springtime | 13.00% | ~62 |
-| Alchemists Express | 13.00% | ~62 |
+| Free at last | 11.00% | ~53 |
 | Rascal | 11.00% | ~53 |
-| Free at last | 10.00% | ~48 |
 | A Link to the Past | 10.00% | ~48 |
 | A great audience | 8.00% | ~38 |
 | For its own good | 8.00% | ~38 |

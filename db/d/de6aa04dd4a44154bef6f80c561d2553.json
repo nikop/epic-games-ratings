@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 543,
   "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-06T02:00:00+00:00",
     "PcReleaseDate": "2020-10-28T16:00:00+00:00",
@@ -172,17 +172,17 @@
       "ID": "Chapter02_BlackTidings",
       "SetID": "c8fdd59",
       "Name": "Black Tidings",
-      "Percentage": 56,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Chapter03_DangerousDeal",
       "SetID": "c8fdd59",
       "Name": "Dangerous Deal",
-      "Percentage": 56,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Chapter04_AJourneyBegins",
@@ -483,8 +483,8 @@
   ],
   "FirstSeen": "2023-09-08T10:00:07.3821883+00:00",
   "FirstSeenAchievements": "2023-08-28T07:03:21.9021387+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:09:15.0813881+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:09:18.2234393+00:00",
   "LastUpdate_AppInfo": "2023-11-06T13:06:14.2935243+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:02:42.9432996+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:09:15.0814205+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:01:05.9378876+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:09:18.2234605+00:00"
 }

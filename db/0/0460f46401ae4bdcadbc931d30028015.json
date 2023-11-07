@@ -3,12 +3,12 @@
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
   "Ranking_Rating": 941,
-  "Ranking_Popularity": 536,
+  "Ranking_Popularity": 537,
   "Ranking_PopularitySum": 491,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -531,9 +531,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3250,
+  "EOS_Progressed": 3251,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4386,6 +4386,11 @@
       "Time": "2023-11-07T06:04:44.4408797+00:00",
       "NumProgressed": 3250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T07:04:37.07223+00:00",
+      "NumProgressed": 3251,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4406,7 +4411,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 1072
+      "UsersEstimate": 1073
     },
     {
       "ID": "achievement_11",
@@ -4454,7 +4459,7 @@
       "Name": "Gain Train",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_17",
@@ -4494,7 +4499,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1852
+      "UsersEstimate": 1853
     },
     {
       "ID": "achievement_21",
@@ -4502,7 +4507,7 @@
       "Name": "Clean The Pile",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_3",
@@ -4534,7 +4539,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "achievement_7",
@@ -4565,7 +4570,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3250,
+      "Progressed": 3251,
       "Completed": 0
     }
   ],
@@ -4573,8 +4578,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-07T03:59:05.6750597+00:00",
-  "LastChanged_Achievements": "2023-11-07T06:04:44.4408786+00:00",
+  "LastChanged_Achievements": "2023-11-07T07:04:37.0722298+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-07T05:59:50.9950743+00:00",
-  "LastUpdate_Achievements": "2023-11-07T06:04:44.4409219+00:00"
+  "LastUpdate_Ratings": "2023-11-07T06:59:38.8721008+00:00",
+  "LastUpdate_Achievements": "2023-11-07T07:04:37.0722716+00:00"
 }

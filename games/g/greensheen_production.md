@@ -11,8 +11,10 @@
 | Medicine ball | 86.00% | ~12 |
 | Mono Tones | 86.00% | ~12 |
 | True Colours | 86.00% | ~12 |
+| In The Palm Of My Hand | 79.00% | ~11 |
 | Bully of Bullies | 79.00% | ~11 |
 | Hospitalised | 79.00% | ~11 |
+| Paled | 79.00% | ~11 |
 | Foraged | 79.00% | ~11 |
 | Merciful feat | 79.00% | ~11 |
 | Referee! | 79.00% | ~11 |
@@ -20,27 +22,25 @@
 | Fly Free | 79.00% | ~11 |
 | Popcorn | 79.00% | ~11 |
 | First do no harm | 79.00% | ~11 |
-| In The Palm Of My Hand | 71.00% | ~10 |
+| X Best Friends | 79.00% | ~11 |
 | Twenty-Six | 71.00% | ~10 |
+| Signal interruption | 71.00% | ~10 |
 | Half hat | 71.00% | ~10 |
 | Fair Prey | 71.00% | ~10 |
 | Sick Kids | 71.00% | ~10 |
+| Post Industrial | 71.00% | ~10 |
+| How Do I Look? | 71.00% | ~10 |
 | Evasive prey | 71.00% | ~10 |
-| X Best Friends | 71.00% | ~10 |
-| Paled | 64.00% | ~9 |
-| Signal interruption | 64.00% | ~9 |
+| Far Ahead | 64.00% | ~9 |
 | Unladylike | 64.00% | ~9 |
 | Pale Kids | 64.00% | ~9 |
 | School Kids | 64.00% | ~9 |
 | Wild Kids | 64.00% | ~9 |
-| How Do I Look? | 64.00% | ~9 |
-| Far Ahead | 57.00% | ~8 |
 | No More Remains | 57.00% | ~8 |
-| Post Industrial | 57.00% | ~8 |
-| Primetime Content Consumer | 14.00% | ~2 |
+| Primetime Content Consumer | 21.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 551)  
-Completed: 2 (14.29%) (Ranked 25)  
+Completed: 3 (21.43%) (Ranked 16)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -55,3 +55,4 @@ Completed: 2 (14.29%) (Ranked 25)
 | 2023-10-25 | 11 | 1 |
 | 2023-11-03 | 12 | 1 |
 | 2023-11-06 | 14 | 2 |
+| 2023-11-07 | 14 | 3 |
