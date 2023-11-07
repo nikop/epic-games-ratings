@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~968 |
-| Off to a good start | 67.00% | ~729 |
-| Do... or do not. There is no try | 51.00% | ~555 |
-| A good blaster at your side | 32.00% | ~348 |
+| New Recruit | 89.00% | ~970 |
+| Off to a good start | 67.00% | ~730 |
+| Do... or do not. There is no try | 51.00% | ~556 |
+| A good blaster at your side | 32.00% | ~349 |
 | I suggest a new strategy | 20.00% | ~218 |
 | Scrap collector | 19.00% | ~207 |
 | Great shot, kid! | 18.00% | ~196 |
 | All right, I'll give it a try | 17.00% | ~185 |
-| The power of the Force | 15.00% | ~163 |
-| Together we can rule the galaxy | 15.00% | ~163 |
-| Shoot first | 15.00% | ~163 |
-| Collector | 14.00% | ~152 |
+| The power of the Force | 15.00% | ~164 |
+| Together we can rule the galaxy | 15.00% | ~164 |
+| Shoot first | 15.00% | ~164 |
+| Collector | 14.00% | ~153 |
 | Survivor | 11.00% | ~120 |
 | Tell Jabba that I've got his money | 10.00% | ~109 |
 | Best star-pilot in the galaxy | 10.00% | ~109 |
@@ -28,9 +28,9 @@
 | Distinguished | 6.00% | ~65 |
 | A tremor in the Force | 6.00% | ~65 |
 | Support the troops | 6.00% | ~65 |
-| Not bad for a little furball | 5.00% | ~54 |
 | On the ball | 4.00% | ~44 |
 | Safety ain't the point of a joyride | 4.00% | ~44 |
+| Not bad for a little furball | 4.00% | ~44 |
 | Patience you must have | 4.00% | ~44 |
 | Don't underestimate the Force | 4.00% | ~44 |
 | I've been waiting for you | 3.00% | ~33 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,088 (Ranked 247)  
+Progressed: 1,090 (Ranked 247)  
 Completed: 1 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 1 (0.09%) (Ranked 275)
 | 2023-11-04 | 1,048 | 1 |
 | 2023-11-05 | 1,069 | 1 |
 | 2023-11-06 | 1,083 | 1 |
-| 2023-11-07 | 1,088 | 1 |
+| 2023-11-07 | 1,090 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

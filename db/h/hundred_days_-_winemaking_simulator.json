@@ -1051,9 +1051,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11397,
+  "EOS_Progressed": 11403,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1030,
+  "EOS_NewPlayers": 1028,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9256,6 +9256,11 @@
       "Time": "2023-11-07T18:09:04.9524695+00:00",
       "NumProgressed": 11397,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-07T19:09:07.4967787+00:00",
+      "NumProgressed": 11403,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9316,7 +9321,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4559
+      "UsersEstimate": 4561
     },
     {
       "ID": "a_19",
@@ -9394,9 +9399,9 @@
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 114
     },
     {
       "ID": "a_3",
@@ -9515,7 +9520,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11397,
+      "Progressed": 11403,
       "Completed": 10
     }
   ],
@@ -9523,8 +9528,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-07T18:01:57.8090042+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:09:04.9524691+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:09:07.4967785+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.8121034+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:01:57.8090045+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:09:04.9525262+00:00"
+  "LastUpdate_Ratings": "2023-11-07T19:01:51.623843+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:09:07.4968234+00:00"
 }

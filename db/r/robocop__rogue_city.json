@@ -2,9 +2,12 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_EOS_Progress": 328,
+  "Ranking_Rating": 937,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
+  "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -17,14 +20,22 @@
       "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
-  "RatingHistory": [],
+  "Rating": 4.15,
+  "RatingHistory": [
+    {
+      "Time": "2023-11-07T18:58:52.6047076+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 323,
+  "EOS_Progressed": 331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 326,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -196,6 +207,11 @@
     {
       "Time": "2023-11-07T18:06:43.7881129+00:00",
       "NumProgressed": 323,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T19:06:44.5465465+00:00",
+      "NumProgressed": 331,
       "NumCompleted": 0
     }
   ],
@@ -424,14 +440,16 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 323,
+      "Progressed": 331,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
+  "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:06:43.7881125+00:00",
+  "LastChanged": "2023-11-07T18:58:52.6047075+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:06:44.5465461+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:12.760511+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:59:03.1399277+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:06:43.7881301+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:58:52.6047087+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:06:44.5465691+00:00"
 }

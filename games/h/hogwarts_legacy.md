@@ -5,34 +5,34 @@ Rating: 4.76 (Ranked 123)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,250 |
-| First Class Student | 14.00% | ~42,219 |
-| Troll with the Punches | 14.00% | ~42,219 |
-| A Keen Sense of Spell | 13.00% | ~39,203 |
-| A Talent for Spending | 12.00% | ~36,188 |
-| That's a Keeper | 12.00% | ~36,188 |
-| Grappling with a Graphorn | 11.00% | ~33,172 |
-| The One Who Mastered Memories | 11.00% | ~33,172 |
-| The Hallowed Hero | 11.00% | ~33,172 |
-| The Defender of Dragons | 11.00% | ~33,172 |
-| Loom for Improvement | 11.00% | ~33,172 |
-| Coasting Along | 11.00% | ~33,172 |
-| The Hero of Hogwarts | 10.00% | ~30,156 |
-| Challenge Accepted | 10.00% | ~30,156 |
-| Followed the Butterflies | 10.00% | ~30,156 |
-| The Spell Master | 9.00% | ~27,141 |
-| Rising From the Ashes | 9.00% | ~27,141 |
-| The Avenging Gazelle | 8.00% | ~24,125 |
-| Beast Friends | 8.00% | ~24,125 |
-| A Sallow Grave | 8.00% | ~24,125 |
-| Flight the Good Flight | 8.00% | ~24,125 |
-| The Seeker of Knowledge | 6.00% | ~18,094 |
-| The Root of the Problem | 6.00% | ~18,094 |
-| Third Time's a Charm | 6.00% | ~18,094 |
-| Raising Expectations | 6.00% | ~18,094 |
-| The Toast of the Town | 5.00% | ~15,078 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,078 |
-| The Ends Petrify the Means | 5.00% | ~15,078 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,253 |
+| First Class Student | 14.00% | ~42,221 |
+| Troll with the Punches | 14.00% | ~42,221 |
+| A Keen Sense of Spell | 13.00% | ~39,205 |
+| A Talent for Spending | 12.00% | ~36,189 |
+| That's a Keeper | 12.00% | ~36,189 |
+| Grappling with a Graphorn | 11.00% | ~33,174 |
+| The One Who Mastered Memories | 11.00% | ~33,174 |
+| The Hallowed Hero | 11.00% | ~33,174 |
+| The Defender of Dragons | 11.00% | ~33,174 |
+| Loom for Improvement | 11.00% | ~33,174 |
+| Coasting Along | 11.00% | ~33,174 |
+| The Hero of Hogwarts | 10.00% | ~30,158 |
+| Challenge Accepted | 10.00% | ~30,158 |
+| Followed the Butterflies | 10.00% | ~30,158 |
+| The Spell Master | 9.00% | ~27,142 |
+| Rising From the Ashes | 9.00% | ~27,142 |
+| The Avenging Gazelle | 8.00% | ~24,126 |
+| Beast Friends | 8.00% | ~24,126 |
+| A Sallow Grave | 8.00% | ~24,126 |
+| Flight the Good Flight | 8.00% | ~24,126 |
+| The Seeker of Knowledge | 6.00% | ~18,095 |
+| The Root of the Problem | 6.00% | ~18,095 |
+| Third Time's a Charm | 6.00% | ~18,095 |
+| Raising Expectations | 6.00% | ~18,095 |
+| The Toast of the Town | 5.00% | ~15,079 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,079 |
+| The Ends Petrify the Means | 5.00% | ~15,079 |
 | Going Through the Potions | 4.00% | ~12,063 |
 | Room with a View | 4.00% | ~12,063 |
 | The Intrepid Explorer | 4.00% | ~12,063 |
@@ -40,18 +40,18 @@ Rating: 4.76 (Ranked 123)
 | Put Down Roots | 3.00% | ~9,047 |
 | The Auror's Apprentice | 3.00% | ~9,047 |
 | Floo Around the World | 3.00% | ~9,047 |
-| The Good Samaritan | 2.00% | ~6,031 |
-| Rise to the Challenges | 2.00% | ~6,031 |
-| Demiguise Dread | 2.00% | ~6,031 |
-| Finishing Touches | 2.00% | ~6,031 |
-| A Forte for Achievement | 2.00% | ~6,031 |
+| The Good Samaritan | 2.00% | ~6,032 |
+| Rise to the Challenges | 2.00% | ~6,032 |
+| Demiguise Dread | 2.00% | ~6,032 |
+| Finishing Touches | 2.00% | ~6,032 |
+| A Forte for Achievement | 2.00% | ~6,032 |
 | Savvy Spender | 1.00% | ~3,016 |
 | Merlin's Beard! | 1.00% | ~3,016 |
 | Spilled Milk | 0.90% | ~2,714 |
 | The Nature of the Beast | 0.70% | ~2,111 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,565 (Ranked 50)  
+Progressed: 301,579 (Ranked 50)  
 Completed: 503 (0.17%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 503 (0.17%) (Ranked 250)
 | 2023-11-04 | 300,861 | 500 |
 | 2023-11-05 | 301,182 | 501 |
 | 2023-11-06 | 301,400 | 502 |
-| 2023-11-07 | 301,565 | 503 |
+| 2023-11-07 | 301,579 | 503 |
 ## Awards
 Max (Character Customization): 24,092  (Ranked 17)  
 Sum: 47,600 (Ranked 30)  

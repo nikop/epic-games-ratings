@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 54.00% | ~90 |
+| Break Out | 56.00% | ~94 |
 | Trinity | 28.00% | ~47 |
 | Find Allies | 23.00% | ~38 |
 | Shatter Them All | 23.00% | ~38 |
@@ -12,9 +12,9 @@
 | I Found It | 22.00% | ~37 |
 | The Collector | 22.00% | ~37 |
 | Fashion Victim | 21.00% | ~35 |
+| Scholar | 21.00% | ~35 |
 | Powerful Allies | 20.00% | ~33 |
 | Adventurer | 20.00% | ~33 |
-| Scholar | 20.00% | ~33 |
 | Geared Up | 19.00% | ~32 |
 | Stone Collection | 18.00% | ~30 |
 | Tributes of Caladrias | 17.00% | ~28 |

@@ -11659,10 +11659,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 56529,
       "NumberOfAwardsMax": 6879
+    },
+    {
+      "Time": "2023-11-07T18:57:42.7407564+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56549,
+      "NumberOfAwardsMax": 6879
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56529,
+  "NumberOfAwards": 56549,
   "NumberOfAwardsMax": 6879,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11688,7 +11694,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6466
+      "Count": 6486
     },
     {
       "Text": "This game is Educational",
@@ -11733,9 +11739,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 449331,
+  "EOS_Progressed": 449373,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5542,
+  "EOS_NewPlayers": 5539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34728,6 +34734,11 @@
       "Time": "2023-11-07T18:05:20.6848464+00:00",
       "NumProgressed": 449331,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T19:05:19.3661711+00:00",
+      "NumProgressed": 449373,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35113,9 +35124,9 @@
       "ID": "achievement_black_jack",
       "SetID": "67mdiil",
       "Name": "Black Jack",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_bleed_them_dry",
@@ -35833,9 +35844,9 @@
       "ID": "achievement_holiest_roman_empire",
       "SetID": "8p2n7he",
       "Name": "Holiest Roman Empire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_holy_horder",
@@ -36225,9 +36236,9 @@
       "ID": "achievement_mare_nostrum",
       "SetID": "8p2n7he",
       "Name": "Mare Nostrum",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_market_control",
@@ -37465,9 +37476,9 @@
       "ID": "achievement_we_bled_for_this",
       "SetID": "8p2n7he",
       "Name": "We bled for this",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_where_am_i",
@@ -37642,21 +37653,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 449331,
+      "Progressed": 449373,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 449331,
+      "Progressed": 449373,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-07T14:57:42.6356787+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:05:20.684846+00:00",
+  "LastChanged": "2023-11-07T18:57:42.7407563+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:05:19.3661707+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:57:51.093136+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:05:20.685889+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:57:42.7407569+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:05:19.367331+00:00"
 }

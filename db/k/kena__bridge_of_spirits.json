@@ -1427,9 +1427,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428876,
+  "EOS_Progressed": 428877,
   "EOS_Completed": 543,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -14637,6 +14637,11 @@
       "Time": "2023-11-07T17:11:42.7688587+00:00",
       "NumProgressed": 428876,
       "NumCompleted": 543
+    },
+    {
+      "Time": "2023-11-07T19:04:35.7513166+00:00",
+      "NumProgressed": 428877,
+      "NumCompleted": 543
     }
   ],
   "TotalAchievements": 41,
@@ -14648,7 +14653,7 @@
       "Name": "Skillful Spirit Guide",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 64331
+      "UsersEstimate": 64332
     },
     {
       "ID": "ACH_ABILITY_BOMB",
@@ -14816,7 +14821,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407432
+      "UsersEstimate": 407433
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -14848,7 +14853,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300213
+      "UsersEstimate": 300214
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -14864,7 +14869,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343101
+      "UsersEstimate": 343102
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -14920,7 +14925,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120085
+      "UsersEstimate": 120086
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -14936,7 +14941,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 188705
+      "UsersEstimate": 188706
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -14975,15 +14980,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428876,
+      "Progressed": 428877,
       "Completed": 543
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-06T02:19:00.4711602+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:04:38.7892267+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:04:35.7513162+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:01.6484259+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:59:09.2569675+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:04:38.7893038+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:58:57.3311576+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:04:35.7513907+00:00"
 }

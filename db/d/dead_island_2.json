@@ -6231,10 +6231,10 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714547,
-  "EOS_Completed": 2353,
-  "EOS_NewPlayers": 5193,
-  "EOS_NewCompleters": 62,
+  "EOS_Progressed": 714575,
+  "EOS_Completed": 2354,
+  "EOS_NewPlayers": 5161,
+  "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29181,6 +29181,11 @@
       "Time": "2023-11-07T18:07:08.1528357+00:00",
       "NumProgressed": 714547,
       "NumCompleted": 2353
+    },
+    {
+      "Time": "2023-11-07T19:07:09.4307697+00:00",
+      "NumProgressed": 714575,
+      "NumCompleted": 2354
     }
   ],
   "TotalAchievements": 51,
@@ -29214,9 +29219,9 @@
       "ID": "ach_anger_management",
       "SetID": "7km39fm",
       "Name": "Anger Management",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2858
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -29246,9 +29251,9 @@
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2858
     },
     {
       "ID": "ach_break_a_leg",
@@ -29406,9 +29411,9 @@
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 2144
     },
     {
       "ID": "ach_magnum_opus",
@@ -29599,22 +29604,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714547,
-      "Completed": 2353
+      "Progressed": 714575,
+      "Completed": 2354
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40089,
-      "Completed": 36479
+      "Progressed": 40117,
+      "Completed": 36480
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-07T17:58:31.4730956+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:07:08.1528353+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:07:09.4307692+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:58:31.4731079+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:07:08.1529798+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:58:22.0039153+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:07:09.430936+00:00"
 }

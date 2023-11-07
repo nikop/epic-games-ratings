@@ -10,15 +10,15 @@ Rating: 4.54 (Ranked 522)
 | Pork Chopped | 1.00% | ~401 |
 | Welcome To Hell-A | 0.50% | ~3,573 |
 | Git Gutte! | 0.40% | ~2,858 |
+| Anger Management | 0.40% | ~2,858 |
+| Bookworm | 0.40% | ~2,858 |
 | Break A Leg | 0.40% | ~2,858 |
 | Coup de Grâce | 0.40% | ~2,858 |
 | Hazardous Materials | 0.40% | ~2,858 |
 | Hotel California | 0.40% | ~2,858 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,858 |
 | Dr. Reed, I Presume? | 0.30% | ~2,144 |
-| Anger Management | 0.30% | ~2,144 |
 | Perks of the Job | 0.30% | ~2,144 |
-| Bookworm | 0.30% | ~2,144 |
 | I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,144 |
 | But Doctor, I am Butcho | 0.30% | ~2,144 |
 | Slayer Squad | 0.30% | ~2,144 |
@@ -27,6 +27,7 @@ Rating: 4.54 (Ranked 522)
 | Friends Like These | 0.30% | ~2,144 |
 | Apex Predator | 0.30% | ~2,144 |
 | Zombologist | 0.30% | ~2,144 |
+| Ooh, Shiny! | 0.30% | ~2,144 |
 | A Patton Emerges | 0.30% | ~2,144 |
 | Stacking the Deck | 0.30% | ~2,144 |
 | Max Headroom | 0.30% | ~2,144 |
@@ -35,7 +36,6 @@ Rating: 4.54 (Ranked 522)
 | Making Your Mark | 0.20% | ~1,429 |
 | Not Even My Final Form | 0.20% | ~1,429 |
 | Jumbo Keyring | 0.20% | ~1,429 |
-| Ooh, Shiny! | 0.20% | ~1,429 |
 | Humanity Distilled | 0.20% | ~1,429 |
 | I Am the Resurrection | 0.20% | ~1,429 |
 | Down with the Sickness | 0.20% | ~1,429 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,547 (Ranked 21)  
-Completed: 2,353 (0.33%) (Ranked 219)  
+Progressed: 714,575 (Ranked 21)  
+Completed: 2,354 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,7 +258,7 @@ Completed: 2,353 (0.33%) (Ranked 219)
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
-| 2023-11-07 | 714,547 | 2,353 |
+| 2023-11-07 | 714,575 | 2,354 |
 ## Awards
 Max (Great Boss Battles): 7,178  (Ranked 53)  
 Sum: 10,870 (Ranked 87)  

@@ -1,36 +1,36 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.00 (Ranked 984)  
+Rating: 4.00 (Ranked 985)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~157 |
-| Battlefields Have Memories | 83.00% | ~148 |
-| Enlisted | 80.00% | ~142 |
-| Maybe Engage a Little | 76.00% | ~135 |
+| Unforeseen | 88.00% | ~158 |
+| Battlefields Have Memories | 83.00% | ~149 |
+| Enlisted | 80.00% | ~143 |
+| Maybe Engage a Little | 76.00% | ~136 |
 | No More Names | 61.00% | ~109 |
 | Initiate | 51.00% | ~91 |
 | Thrada-Kul | 47.00% | ~84 |
-| Gravity-Challenged Rocks | 37.00% | ~66 |
+| Gravity-Challenged Rocks | 36.00% | ~64 |
 | Soldier | 31.00% | ~55 |
 | All the Major Food Groups | 31.00% | ~55 |
 | Beggars Would Ride | 28.00% | ~50 |
 | Control is an Illusion | 27.00% | ~48 |
-| Socialite | 25.00% | ~44 |
+| Socialite | 25.00% | ~45 |
 | The Means to Save It | 23.00% | ~41 |
 | Resilience to Sin | 20.00% | ~36 |
 | A Familiar Nest | 19.00% | ~34 |
 | Periapt Alizarin | 19.00% | ~34 |
 | Geas Aristeya | 18.00% | ~32 |
-| Armsman | 16.00% | ~28 |
-| A Perfect Cycle | 15.00% | ~27 |
+| A Perfect Cycle | 16.00% | ~29 |
+| Armsman | 16.00% | ~29 |
 | Recruit | 15.00% | ~27 |
 | Lights Army | 10.00% | ~18 |
 | Good Boy | 10.00% | ~18 |
 | Periapt Cerulean | 9.00% | ~16 |
-| Periapt Viridian | 7.00% | ~12 |
-| Shroudfane Explorer | 7.00% | ~12 |
+| Periapt Viridian | 7.00% | ~13 |
+| Shroudfane Explorer | 7.00% | ~13 |
 | Best Dressed | 6.00% | ~11 |
 | Armaments Azure | 5.00% | ~9 |
 | Armaments Gules | 5.00% | ~9 |
@@ -53,7 +53,7 @@ Rating: 4.00 (Ranked 984)
 | Tip of the Spear | 1.00% | ~2 |
 | Fowl Play | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 178 (Ranked 373)  
+Progressed: 179 (Ranked 373)  
 Completed: 1 (0.56%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 1 (0.56%) (Ranked 185)
 | 2023-11-04 | 155 | 1 |
 | 2023-11-05 | 161 | 1 |
 | 2023-11-06 | 172 | 1 |
-| 2023-11-07 | 178 | 1 |
+| 2023-11-07 | 179 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

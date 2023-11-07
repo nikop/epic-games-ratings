@@ -3197,9 +3197,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17235,
+  "EOS_Progressed": 17236,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13237,6 +13237,11 @@
       "Time": "2023-11-07T16:06:36.4062348+00:00",
       "NumProgressed": 17235,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-07T19:08:35.9768463+00:00",
+      "NumProgressed": 17236,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13336,7 +13341,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "WinHard",
@@ -13584,7 +13589,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "WinWithResolve",
@@ -13624,7 +13629,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "WinWithoutOrders",
@@ -13647,15 +13652,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17235,
+      "Progressed": 17236,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-07T02:17:46.2904842+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:08:34.1527251+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:08:35.9768459+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:59:31.7108819+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:08:34.1527941+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:59:20.392591+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:08:35.9769264+00:00"
 }

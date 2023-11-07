@@ -2,7 +2,7 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 352,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 85,
@@ -1358,9 +1358,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_38",
@@ -1508,8 +1508,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:05:02.7955725+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:05:00.8190134+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:02:40.9542708+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:05:02.7956086+00:00"
+  "LastUpdate_Ratings": "2023-11-07T19:02:34.6988711+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:05:00.8190515+00:00"
 }

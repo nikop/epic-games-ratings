@@ -2,9 +2,9 @@
   "ID": "3bdc6105771d472bbcbae40884c167aa",
   "Name": "Falling Frontier",
   "ProductSlug": "falling-frontier-cff16c",
-  "Ranking_EOS_Progress": 729,
+  "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.2185155+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:59:54.3941752+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:08:34.3566688+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:59:44.5325456+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:08:36.105791+00:00"
 }

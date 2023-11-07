@@ -877,9 +877,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6439,
+  "EOS_Progressed": 6440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9637,6 +9637,11 @@
       "Time": "2023-11-07T18:09:39.4426026+00:00",
       "NumProgressed": 6439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T19:09:42.4506847+00:00",
+      "NumProgressed": 6440,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9678,9 +9683,9 @@
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -9766,9 +9771,9 @@
       "ID": "ACHIEVEMENT_016",
       "SetID": "1a05lfd",
       "Name": "School\u0027s Out for Summer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -9782,9 +9787,9 @@
       "ID": "ACHIEVEMENT_018",
       "SetID": "1a05lfd",
       "Name": "The Beetles",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -9967,13 +9972,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6439,
+      "Progressed": 6440,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5811,
+      "Progressed": 5812,
       "Completed": 113
     }
   ],
@@ -9981,8 +9986,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:09:39.4426022+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:09:42.4506843+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:00:42.5859884+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:09:39.4426563+00:00"
+  "LastUpdate_Ratings": "2023-11-07T19:00:35.3815811+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:09:42.4507472+00:00"
 }

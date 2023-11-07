@@ -21,6 +21,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Azur semé de lis or | 0.10% | ~449 |
 | Baa Baa Black Sheep | 0.10% | ~449 |
 | Big Blue Blob | 0.10% | ~449 |
+| Black Jack | 0.10% | ~449 |
 | Blockader | 0.10% | ~449 |
 | Bright Spark | 0.10% | ~449 |
 | Brothers in Arms | 0.10% | ~449 |
@@ -54,6 +55,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.10% | ~449 |
 | Grand Duchy | 0.10% | ~449 |
 | That's a Grand Navy | 0.10% | ~449 |
+| Holiest Roman Empire | 0.10% | ~449 |
 | Holy Horder | 0.10% | ~449 |
 | Imperio español | 0.10% | ~449 |
 | Imposter Syndrome | 0.10% | ~449 |
@@ -70,6 +72,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Liberty or Death | 0.10% | ~449 |
 | Live Long and Prosper | 0.10% | ~449 |
 | Magellan’s Voyage | 0.10% | ~449 |
+| Mare Nostrum | 0.10% | ~449 |
 | Market Control | 0.10% | ~449 |
 | Marshy March | 0.10% | ~449 |
 | Multiculturalism | 0.10% | ~449 |
@@ -119,6 +122,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Victorious! | 0.10% | ~449 |
 | Viva la Revolución! | 0.10% | ~449 |
 | Voting Streak | 0.10% | ~449 |
+| We bled for this | 0.10% | ~449 |
 | Wonderful | 0.10% | ~449 |
 | World Conqueror | 0.10% | ~449 |
 | World Discoverer | 0.10% | ~449 |
@@ -158,7 +162,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Basque in Glory | 0.00% | ~0 |
 | Bengal Tiger | 0.00% | ~0 |
 | Better than Napoleon | 0.00% | ~0 |
-| Black Jack | 0.00% | ~0 |
 | Bleed Them Dry | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
@@ -215,7 +218,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hard Bargaining | 0.00% | ~0 |
 | Hessian Mercenaries | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
-| Holiest Roman Empire | 0.00% | ~0 |
 | Holy Trinity | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
 | Ideas Guy | 0.00% | ~0 |
@@ -248,7 +250,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Made in Japan | 0.00% | ~0 |
 | Maharana Pratap | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
-| Mare Nostrum | 0.00% | ~0 |
 | Mary of Lotharingia | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Master of India | 0.00% | ~0 |
@@ -354,7 +355,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ultimate Military | 0.00% | ~0 |
 | Victorian Three | 0.00% | ~0 |
 | Voltaire's Nightmare | 0.00% | ~0 |
-| We bled for this | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
 | Where the heart is | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,331 (Ranked 41)  
+Progressed: 449,373 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,10 +571,10 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 449,331 | 1 |
+| 2023-11-07 | 449,373 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
-Sum: 56,529 (Ranked 24)  
+Sum: 56,549 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -582,7 +582,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 6,592 |
 | This game is Highly Recommended | 6,584 |
 | This game has Challenging Combat | 6,502 |
-| This game is Extremely Fun | 6,466 |
+| This game is Extremely Fun | 6,486 |
 | This game is Relaxing | 6,310 |
 | This game has Competitive Players | 6,166 |
 | This game has Amazing Storytelling | 5,726 |
@@ -885,4 +885,4 @@ Diff (max vs sum): 30
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
 | 2023-11-06 | 4.69 | - | 6,879 | 56,411 |
-| 2023-11-07 | 4.69 | - | 6,879 | 56,529 |
+| 2023-11-07 | 4.69 | - | 6,879 | 56,549 |

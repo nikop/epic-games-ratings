@@ -2,9 +2,9 @@
   "ID": "70140b4f9b964d7db4d57615452f9a63",
   "Name": "Bad Rats Show",
   "ProductSlug": "bad-rats-show-1b74cf",
-  "Ranking_EOS_Progress": 729,
+  "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-05-25T04:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-03T01:40:41.8489165+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:00:57.5128898+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:04:04.521689+00:00"
+  "LastUpdate_Ratings": "2023-11-07T19:00:50.2348721+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:03:59.932829+00:00"
 }

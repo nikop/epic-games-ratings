@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7452,
+  "EOS_Progressed": 7454,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -5538,6 +5538,11 @@
       "Time": "2023-11-07T13:09:47.4474037+00:00",
       "NumProgressed": 7452,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-07T19:06:30.582692+00:00",
+      "NumProgressed": 7454,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5565,7 +5570,7 @@
       "Name": "Fields Watered",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 3130
+      "UsersEstimate": 3131
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -5581,7 +5586,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3950
+      "UsersEstimate": 3951
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5597,7 +5602,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -5605,7 +5610,7 @@
       "Name": "Irons Scorched",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "AK_ISLANDS_RECONNECTED",
@@ -5613,7 +5618,7 @@
       "Name": "Islands Connected",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "AK_KNOWLEDGE_SEEKER",
@@ -5629,7 +5634,7 @@
       "Name": "Knowledge Shared",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -5653,7 +5658,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -5677,7 +5682,7 @@
       "Name": "Relic Finder",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "AK_SEEKERS_FOUND",
@@ -5685,7 +5690,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -5693,7 +5698,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3055
+      "UsersEstimate": 3056
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -5701,7 +5706,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4173
+      "UsersEstimate": 4174
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5749,7 +5754,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -5764,15 +5769,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7452,
+      "Progressed": 7454,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:06:29.7160248+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:06:30.5826916+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:03:19.9180991+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:06:29.716068+00:00"
+  "LastUpdate_Ratings": "2023-11-07T19:03:13.3061257+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:06:30.5827366+00:00"
 }

@@ -2031,7 +2031,7 @@
       "Count": 217
     }
   ],
-  "EOS_Progressed": 21257,
+  "EOS_Progressed": 21258,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
@@ -10141,6 +10141,11 @@
       "Time": "2023-11-07T18:08:26.0471417+00:00",
       "NumProgressed": 21257,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-07T19:08:27.5877763+00:00",
+      "NumProgressed": 21258,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10152,7 +10157,7 @@
       "Name": "Family man",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "CarMechanic",
@@ -10200,7 +10205,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20194
+      "UsersEstimate": 20195
     },
     {
       "ID": "GameOver",
@@ -10240,7 +10245,7 @@
       "Name": "Junior Estate Agent",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2763
+      "UsersEstimate": 2764
     },
     {
       "ID": "KnockKnock",
@@ -10288,7 +10293,7 @@
       "Name": "Alpha Male",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4251
+      "UsersEstimate": 4252
     },
     {
       "ID": "SeniorEstateAgent",
@@ -10335,15 +10340,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21257,
+      "Progressed": 21258,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-05T18:57:59.1323329+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:08:26.0471414+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:08:27.5877758+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:23.4146129+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:59:47.6402497+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:08:26.0471912+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:59:37.5040073+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:08:27.5878354+00:00"
 }

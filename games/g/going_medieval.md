@@ -6,15 +6,15 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~4,994 |
-| Having A Field Day | 75.00% | ~4,994 |
-| Reap What You Sow | 72.00% | ~4,794 |
+| Get A Room | 75.00% | ~4,995 |
+| Having A Field Day | 75.00% | ~4,995 |
+| Reap What You Sow | 72.00% | ~4,795 |
 | The First Day | 69.00% | ~4,595 |
 | Green Thumb | 67.00% | ~4,462 |
 | Novice Researcher | 67.00% | ~4,462 |
-| Home Cooked Meal | 60.00% | ~3,995 |
+| Home Cooked Meal | 60.00% | ~3,996 |
 | Onward | 57.00% | ~3,796 |
-| The First Week | 55.00% | ~3,662 |
+| The First Week | 55.00% | ~3,663 |
 | Beam Me Up | 52.00% | ~3,463 |
 | Studious Researcher | 52.00% | ~3,463 |
 | Putting Food on the Table | 49.00% | ~3,263 |
@@ -22,15 +22,15 @@ Number of Ratings: 706  (23.09.2022)
 | Retribution | 42.00% | ~2,797 |
 | ...And Don’t Come Back! | 42.00% | ~2,797 |
 | Feast or Famine | 40.00% | ~2,664 |
-| Heating Up | 31.00% | ~2,064 |
-| Luminary Researcher | 31.00% | ~2,064 |
+| Heating Up | 31.00% | ~2,065 |
+| Luminary Researcher | 31.00% | ~2,065 |
 | Fit For A King | 30.00% | ~1,998 |
 | Winter Is Coming | 28.00% | ~1,865 |
 | Winter Is Here | 24.00% | ~1,598 |
 | Disassembled | 22.00% | ~1,465 |
 | Oh Deer! | 22.00% | ~1,465 |
-| A Party Now | 21.00% | ~1,398 |
-| All Year Round | 21.00% | ~1,398 |
+| A Party Now | 21.00% | ~1,399 |
+| All Year Round | 21.00% | ~1,399 |
 | Nothing Wasted | 13.00% | ~866 |
 | Don't Cry Wolf | 13.00% | ~866 |
 | Deerly Departed | 8.00% | ~533 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~133 |
 | Wabbit Season | 0.50% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,659 (Ranked 175)  
+Progressed: 6,660 (Ranked 175)  
 Completed: 14 (0.21%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,10 +218,10 @@ Completed: 14 (0.21%) (Ranked 238)
 | 2023-11-04 | 6,576 | 14 |
 | 2023-11-05 | 6,612 | 14 |
 | 2023-11-06 | 6,641 | 14 |
-| 2023-11-07 | 6,659 | 14 |
+| 2023-11-07 | 6,660 | 14 |
 ## Awards
 Max (Great for Beginners): 124  (Ranked 334)  
-Sum: 1,005 (Ranked 257)  
+Sum: 1,006 (Ranked 257)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -233,7 +233,7 @@ Diff (max vs sum): 77
 | This game is Highly Recommended | 102 |
 | This game has Amazing Characters | 92 |
 | This game has Amazing Storytelling | 87 |
-| This game has Unique Visuals | 83 |
+| This game has Unique Visuals | 84 |
 | This game has a Creative Community | 70 |
 | This game has Obsessive Gameplay | 56 |
 | This game is Educational | 21 |
@@ -386,3 +386,4 @@ Diff (max vs sum): 77
 | 2023-11-02 | 4.60 | - | 123 | 1,001 |
 | 2023-11-03 | 4.60 | - | 124 | 1,003 |
 | 2023-11-04 | 4.60 | - | 124 | 1,005 |
+| 2023-11-07 | 4.60 | - | 124 | 1,006 |

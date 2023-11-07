@@ -296,9 +296,9 @@
       "ID": "22",
       "SetID": "6bgoh8g",
       "Name": "I know kung fu",
-      "Percentage": 7,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "23",
@@ -407,8 +407,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:07:45.1306324+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:07:46.9020918+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:11.4303635+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:03:36.1454545+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:07:45.1306514+00:00"
+  "LastUpdate_Ratings": "2023-11-07T19:03:30.173993+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:07:46.9021144+00:00"
 }

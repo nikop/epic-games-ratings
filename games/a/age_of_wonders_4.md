@@ -6,7 +6,9 @@ Rating: 4.60 (Ranked 409)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Realm Estate | 0.10% | ~5 |
+| Secret Technique | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
+| But this one is mine | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
 | Snap Out of It! | 0.00% | ~0 |
 | There Can Only Be One! | 0.00% | ~0 |
@@ -22,7 +24,6 @@ Rating: 4.60 (Ranked 409)
 | The Goddess of Nature | 0.00% | ~0 |
 | Eternal Lord | 0.00% | ~0 |
 | A Wonderful Discovery | 0.00% | ~0 |
-| Secret Technique | 0.00% | ~0 |
 | Walls Cannot Stop Us | 0.00% | ~0 |
 | Bone Peddler | 0.00% | ~0 |
 | Digging for Treasure | 0.00% | ~0 |
@@ -63,10 +64,9 @@ Rating: 4.60 (Ranked 409)
 | A Conqueror's Cohort | 0.00% | ~0 |
 | Spoils of War | 0.00% | ~0 |
 | Dawn of the Dread | 0.00% | ~0 |
-| But this one is mine | 0.00% | ~0 |
 | A Very Special Ring | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,282 (Ranked 183)  
+Progressed: 5,283 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-04 | 5,271 | 7 |
 | 2023-11-05 | 5,274 | 7 |
 | 2023-11-06 | 5,276 | 7 |
-| 2023-11-07 | 5,282 | 7 |
+| 2023-11-07 | 5,283 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 51 (Ranked 477)  

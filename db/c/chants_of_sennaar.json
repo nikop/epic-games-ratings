@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 481,
+  "EOS_Progressed": 482,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.82,
+  "EOS_Completed_Percentage": 5.81,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2055,6 +2055,11 @@
       "Time": "2023-11-07T17:11:52.5798982+00:00",
       "NumProgressed": 481,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-07T19:04:46.2008171+00:00",
+      "NumProgressed": 482,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2096,9 +2101,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 87
     },
     {
       "ID": "META_HALF_LINK",
@@ -2128,9 +2133,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2138,7 +2143,7 @@
       "Name": "A great audience",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2146,7 +2151,7 @@
       "Name": "For its own good",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2178,7 +2183,7 @@
       "Name": "True G3M4R",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2216,17 +2221,17 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 159
     },
     {
       "ID": "PROGRESS_N2",
@@ -2265,14 +2270,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 481,
+      "Progressed": 482,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-07T18:04:48.964731+00:00",
+  "LastChanged_Achievements": "2023-11-07T19:04:46.2008166+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:58:17.4578671+00:00",
-  "LastUpdate_Achievements": "2023-11-07T18:04:48.9647737+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:58:08.6758386+00:00",
+  "LastUpdate_Achievements": "2023-11-07T19:04:46.2008463+00:00"
 }
