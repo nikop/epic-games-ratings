@@ -8,8 +8,8 @@
 | I like parks | 9.00% | ~34 |
 | The spiritual world... | 5.00% | ~19 |
 | It is nice to share with friends in the city | 5.00% | ~19 |
+| Sport is good for you | 5.00% | ~19 |
 | The woodcutter | 4.00% | ~15 |
-| Sport is good for you | 4.00% | ~15 |
 | Soviet town | 4.00% | ~15 |
 | I like books | 3.00% | ~11 |
 | I like my life | 3.00% | ~11 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383 (Ranked 315)  
+Progressed: 383 (Ranked 316)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

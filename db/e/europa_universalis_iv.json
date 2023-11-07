@@ -11671,10 +11671,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 56583,
       "NumberOfAwardsMax": 6879
+    },
+    {
+      "Time": "2023-11-07T20:57:35.9702303+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56604,
+      "NumberOfAwardsMax": 6879
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56583,
+  "NumberOfAwards": 56604,
   "NumberOfAwardsMax": 6879,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11694,7 +11700,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6592
+      "Count": 6613
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11745,9 +11751,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 449421,
+  "EOS_Progressed": 449463,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5544,
+  "EOS_NewPlayers": 5551,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34750,6 +34756,11 @@
       "Time": "2023-11-07T20:11:38.624479+00:00",
       "NumProgressed": 449421,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T21:04:12.3598865+00:00",
+      "NumProgressed": 449463,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36367,9 +36378,9 @@
       "ID": "achievement_networking",
       "SetID": "8p2n7he",
       "Name": "Networking",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_never_say_never",
@@ -37664,21 +37675,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 449421,
+      "Progressed": 449463,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 449421,
+      "Progressed": 449463,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-07T20:03:25.7565996+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:11:38.6244785+00:00",
+  "LastChanged": "2023-11-07T20:57:35.9702302+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:04:12.3598861+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:03:25.7566006+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:11:38.6260467+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:57:35.9702307+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:04:12.3609092+00:00"
 }

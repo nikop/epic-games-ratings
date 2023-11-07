@@ -27,8 +27,8 @@
 | All For One | 11.00% | ~59 |
 | Extinction is Forever | 11.00% | ~59 |
 | We Are a Family | 9.00% | ~48 |
+| For a Better Tomorrow | 4.00% | ~21 |
 | Mother Love | 4.00% | ~21 |
-| For a Better Tomorrow | 3.00% | ~16 |
 | Omnivore | 2.00% | ~11 |
 | Easter Egg | 2.00% | ~11 |
 | Endling | 0.90% | ~5 |

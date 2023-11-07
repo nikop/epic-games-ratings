@@ -5,24 +5,24 @@ Rating: 3.82 (Ranked 1,020)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~407,564 |
-| Handy | 41.00% | ~219,870 |
-| Cold Caller | 39.00% | ~209,145 |
-| A Bit On The Side | 27.00% | ~144,792 |
-| Backdoor | 25.00% | ~134,067 |
-| Rank Amateur | 21.00% | ~112,616 |
-| Three Way | 18.00% | ~96,528 |
-| Deadly Assassin | 15.00% | ~80,440 |
+| Pro Creation | 76.00% | ~407,567 |
+| Handy | 41.00% | ~219,872 |
+| Cold Caller | 39.00% | ~209,146 |
+| A Bit On The Side | 27.00% | ~144,794 |
+| Backdoor | 25.00% | ~134,068 |
+| Rank Amateur | 21.00% | ~112,617 |
+| Three Way | 18.00% | ~96,529 |
+| Deadly Assassin | 15.00% | ~80,441 |
 | Gutshot | 14.00% | ~75,078 |
 | Risk It For A Biscuit | 14.00% | ~75,078 |
 | Showoff | 13.00% | ~69,715 |
-| W.H.I.P. | 11.00% | ~58,989 |
+| W.H.I.P. | 11.00% | ~58,990 |
 | Bet Bet Bet | 10.00% | ~53,627 |
-| Blindman's Bluff | 9.00% | ~48,264 |
-| Poker Joker | 9.00% | ~48,264 |
-| Never Give Up | 8.00% | ~42,901 |
-| The Bigger They Are | 8.00% | ~42,901 |
-| Total Knock Out | 8.00% | ~42,901 |
+| Blindman's Bluff | 9.00% | ~48,265 |
+| Poker Joker | 9.00% | ~48,265 |
+| Never Give Up | 8.00% | ~42,902 |
+| The Bigger They Are | 8.00% | ~42,902 |
+| Total Knock Out | 8.00% | ~42,902 |
 | Dog Eat Dog | 7.00% | ~37,539 |
 | Quack Quack | 7.00% | ~37,539 |
 | Give Your Regards To Broadway | 6.00% | ~32,176 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,020)
 | Rounder | 0.10% | ~536 |
 | Top Dog | 0.10% | ~536 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,268 (Ranked 34)  
+Progressed: 536,273 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 2 (0.00%) (Ranked 345)
 | 2023-11-04 | 535,680 | 2 |
 | 2023-11-05 | 535,949 | 2 |
 | 2023-11-06 | 536,126 | 2 |
-| 2023-11-07 | 536,268 | 2 |
+| 2023-11-07 | 536,273 | 2 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 411)  
 Sum: 172 (Ranked 413)  

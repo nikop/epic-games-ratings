@@ -975,9 +975,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66062,
+  "EOS_Progressed": 66067,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8250,6 +8250,11 @@
       "Time": "2023-11-07T20:10:55.0740183+00:00",
       "NumProgressed": 66062,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-07T21:03:35.8911018+00:00",
+      "NumProgressed": 66067,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8262,7 +8267,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21800
+      "UsersEstimate": 21802
     },
     {
       "ID": "10",
@@ -8334,7 +8339,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8588
+      "UsersEstimate": 8589
     },
     {
       "ID": "4",
@@ -8342,7 +8347,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6606
+      "UsersEstimate": 6607
     },
     {
       "ID": "5",
@@ -8389,7 +8394,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66062,
+      "Progressed": 66067,
       "Completed": 29
     }
   ],
@@ -8397,8 +8402,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-06T23:57:13.8188041+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:10:55.0740175+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:03:35.8911014+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:03:45.6639422+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:10:55.0741156+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:57:37.4034595+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:03:35.8911444+00:00"
 }

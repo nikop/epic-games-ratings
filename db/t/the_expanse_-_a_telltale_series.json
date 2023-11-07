@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14740,
+  "EOS_Progressed": 14741,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10666,6 +10666,11 @@
       "Time": "2023-11-07T20:09:21.5602031+00:00",
       "NumProgressed": 14740,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-07T21:03:00.5070482+00:00",
+      "NumProgressed": 14741,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10748,9 +10753,9 @@
       "ID": "18",
       "SetID": "458bbdk",
       "Name": "Bottoms up!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 147
     },
     {
       "ID": "19",
@@ -10957,22 +10962,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14740,
+      "Progressed": 14741,
       "Completed": 33
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 694,
-      "Completed": 435
+      "Progressed": 695,
+      "Completed": 437
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:09:21.5602013+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:03:00.5070479+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:00:25.2128056+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:09:21.5631717+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:57:18.1701622+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:03:00.5071407+00:00"
 }

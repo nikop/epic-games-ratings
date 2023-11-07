@@ -8409,9 +8409,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 807535,
+  "EOS_Progressed": 807537,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 850,
+  "EOS_NewPlayers": 847,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30969,6 +30969,11 @@
       "Time": "2023-11-07T20:10:53.803267+00:00",
       "NumProgressed": 807535,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-07T21:03:34.845121+00:00",
+      "NumProgressed": 807537,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -31012,7 +31017,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169582
+      "UsersEstimate": 169583
     },
     {
       "ID": "BadGirl",
@@ -31060,7 +31065,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258411
+      "UsersEstimate": 258412
     },
     {
       "ID": "Bookworm",
@@ -31068,7 +31073,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121130
+      "UsersEstimate": 121131
     },
     {
       "ID": "Buddy",
@@ -31180,7 +31185,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185733
+      "UsersEstimate": 185734
     },
     {
       "ID": "Fighter",
@@ -31196,7 +31201,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121130
+      "UsersEstimate": 121131
     },
     {
       "ID": "Freud",
@@ -31380,7 +31385,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 56527
+      "UsersEstimate": 56528
     },
     {
       "ID": "MercenarysHonor",
@@ -31484,7 +31489,7 @@
       "Name": "Runt",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56527
+      "UsersEstimate": 56528
     },
     {
       "ID": "Saviour",
@@ -31635,15 +31640,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 807535,
+      "Progressed": 807537,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-07T20:08:43.3823194+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:10:53.8032664+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:03:34.8451207+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.089213+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:08:43.3823204+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:10:53.8035207+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:00:38.1709348+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:03:34.8453353+00:00"
 }

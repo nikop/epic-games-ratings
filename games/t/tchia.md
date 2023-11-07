@@ -1,11 +1,11 @@
 # Tchia
 [Store](https://store.epicgames.com/en-US/p/tchia)  
 [View Rawdata](../../db/t/tchia.json)  
-Rating: 4.74 (Ranked 154)  
+Rating: 4.74 (Ranked 155)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In a Pinch | 21.00% | ~1,613 |
+| In a Pinch | 21.00% | ~1,614 |
 | Energy Saver | 17.00% | ~1,306 |
 | The Journey Onwards | 14.00% | ~1,076 |
 | Body and Soul | 11.00% | ~845 |
@@ -20,14 +20,14 @@ Rating: 4.74 (Ranked 154)
 | Liberator | 5.00% | ~384 |
 | Shredder | 5.00% | ~384 |
 | Live Wire | 4.00% | ~307 |
-| Fashion Faux-Pas | 3.00% | ~230 |
-| Fashion Victim | 3.00% | ~230 |
+| Fashion Faux-Pas | 3.00% | ~231 |
+| Fashion Victim | 3.00% | ~231 |
 | Arrr! | 2.00% | ~154 |
 | Snip Snip | 2.00% | ~154 |
 | Ça de Wizz! | 1.00% | ~77 |
 | Thing | 1.00% | ~77 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,683 (Ranked 166)  
+Progressed: 7,684 (Ranked 166)  
 Completed: 34 (0.44%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,7 +226,7 @@ Completed: 34 (0.44%) (Ranked 204)
 | 2023-11-04 | 7,666 | 34 |
 | 2023-11-05 | 7,672 | 34 |
 | 2023-11-06 | 7,676 | 34 |
-| 2023-11-07 | 7,683 | 34 |
+| 2023-11-07 | 7,684 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

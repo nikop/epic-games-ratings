@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -690,9 +690,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_09",
@@ -706,9 +706,9 @@
       "ID": "ACH_10",
       "SetID": "efe2lj",
       "Name": "Trinity",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_11",
@@ -746,9 +746,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_16",
@@ -929,8 +929,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:16:09.1762802+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:08:59.7217034+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:08:34.7355338+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:16:09.1763231+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:00:31.5244489+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:08:59.721732+00:00"
 }

@@ -15,9 +15,9 @@ Rating: 4.82 (Ranked 63)
 | Are You Alright? | 49.00% | ~3,592 |
 | Drama King | 42.00% | ~3,079 |
 | You're Really Something Else | 37.00% | ~2,712 |
+| ONE PUNCH | 36.00% | ~2,639 |
+| Go Clean up In Your Own Way | 36.00% | ~2,639 |
 | Happy Family | 35.00% | ~2,566 |
-| ONE PUNCH | 35.00% | ~2,566 |
-| Go Clean up In Your Own Way | 35.00% | ~2,566 |
 | Worthless Speech | 35.00% | ~2,566 |
 | FIRST LOVE | 34.00% | ~2,493 |
 | Drama CP: Reel to Real | 34.00% | ~2,493 |
@@ -43,7 +43,7 @@ Rating: 4.82 (Ranked 63)
 | Life Is A Rollercoaster | 8.00% | ~586 |
 | Boys Need To Protect Themselves | 8.00% | ~586 |
 | Counting Sheep? | 8.00% | ~586 |
-| Stubborn Noob | 7.00% | ~513 |
+| Stubborn Noob | 8.00% | ~586 |
 | Hurrah! | 2.00% | ~147 |
 | Tall; Grande; Venti | 2.00% | ~147 |
 | Limerence | 2.00% | ~147 |

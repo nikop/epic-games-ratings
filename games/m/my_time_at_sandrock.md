@@ -6,46 +6,46 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 238.00% | ~576 |
-| Iron Chef | 197.00% | ~477 |
-| Greeno-B-Gone | 119.00% | ~288 |
-| Your Especially Earned Trajectory | 95.00% | ~230 |
-| No Mountain Wide Enough | 60.00% | ~145 |
-| On that Grindset | 57.00% | ~138 |
-| Can We Keep It? | 57.00% | ~138 |
+| Adept Assembler | 240.00% | ~583 |
+| Iron Chef | 198.00% | ~481 |
+| Greeno-B-Gone | 120.00% | ~292 |
+| Your Especially Earned Trajectory | 95.00% | ~231 |
+| No Mountain Wide Enough | 60.00% | ~146 |
+| Can We Keep It? | 58.00% | ~141 |
+| On that Grindset | 56.00% | ~136 |
 | My Time Mansion | 43.00% | ~104 |
-| Pack Mule | 41.00% | ~99 |
+| Pack Mule | 41.00% | ~100 |
 | Financially Secure | 40.00% | ~97 |
 | Yakmel Whisperer | 40.00% | ~97 |
-| Diamonds are Forever | 38.00% | ~92 |
+| Diamonds are Forever | 39.00% | ~95 |
 | Mole Masher | 36.00% | ~87 |
 | Happier-est Place on Earth | 35.00% | ~85 |
-| Knowledge is Power | 34.00% | ~82 |
-| Call Me Fishmael | 34.00% | ~82 |
+| Knowledge is Power | 34.00% | ~83 |
+| Unboxing | 34.00% | ~83 |
+| Call Me Fishmael | 34.00% | ~83 |
 | Big Game Hunter | 33.00% | ~80 |
 | Better Late than Never | 33.00% | ~80 |
 | Got Served | 33.00% | ~80 |
 | You Don't Win Friends With Salad | 33.00% | ~80 |
-| Unboxing | 33.00% | ~80 |
 | What Plants Crave | 31.00% | ~75 |
 | Anti-Santa | 31.00% | ~75 |
 | I Do! | 31.00% | ~75 |
-| Officially Official | 29.00% | ~70 |
+| Officially Official | 30.00% | ~73 |
 | One of the Cool Kids | 29.00% | ~70 |
 | Finishing Touches | 28.00% | ~68 |
 | Chatterbox | 28.00% | ~68 |
-| Panda-kin | 24.00% | ~58 |
+| Panda-kin | 23.00% | ~56 |
 | Jewel of the Eufaula | 23.00% | ~56 |
+| First Love | 22.00% | ~53 |
 | Who Ya Gonna Call...? | 21.00% | ~51 |
-| First Love | 21.00% | ~51 |
-| Builder of the Month | 17.00% | ~41 |
+| Builder of the Month | 18.00% | ~44 |
 | Martle's Dream | 17.00% | ~41 |
 | He Can Spin A Yarn... | 17.00% | ~41 |
 | Bridging the Gap | 16.00% | ~39 |
 | Waste Not Want Not | 16.00% | ~39 |
 | Newton | 16.00% | ~39 |
 | Elementary, My Dear | 15.00% | ~36 |
-| Got the Flow Back | 13.00% | ~31 |
+| Got the Flow Back | 13.00% | ~32 |
 | Commissions, commissions...! | 12.00% | ~29 |
 | Just What I Always Wanted! | 12.00% | ~29 |
 | Do Your Part | 12.00% | ~29 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 242 (Ranked 349)  
+Progressed: 243 (Ranked 349)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,12 +79,12 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 248 | 0 |
 | 2023-11-07 | 246 | 0 |
 ## Awards
-Max (Character Customization): 579  (Ranked 194)  
-Sum: 1,321 (Ranked 237)  
+Max (Character Customization): 580  (Ranked 194)  
+Sum: 1,322 (Ranked 237)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 579 |
+| This game has Inclusive Character Customization | 580 |
 | This game is Great for Beginners | 99 |
 | This game is Highly Recommended | 86 |
 | This game is Extremely Fun | 83 |
@@ -254,4 +254,4 @@ Diff (max vs sum): -43
 | 2023-11-04 | 4.68 | - | 576 | 1,257 |
 | 2023-11-05 | 4.68 | - | 576 | 1,259 |
 | 2023-11-06 | 4.68 | - | 579 | 1,317 |
-| 2023-11-07 | 4.68 | - | 579 | 1,321 |
+| 2023-11-07 | 4.68 | - | 580 | 1,322 |

@@ -1436,9 +1436,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130575,
+  "EOS_Progressed": 130577,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21261,6 +21261,11 @@
       "Time": "2023-11-07T20:13:52.3928853+00:00",
       "NumProgressed": 130575,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-07T21:06:03.7059021+00:00",
+      "NumProgressed": 130577,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21352,7 +21357,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36561
+      "UsersEstimate": 36562
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21464,7 +21469,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7834
+      "UsersEstimate": 7835
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -21488,7 +21493,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18280
+      "UsersEstimate": 18281
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -21552,7 +21557,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18280
+      "UsersEstimate": 18281
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -21591,15 +21596,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130575,
+      "Progressed": 130577,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-06T18:59:56.0180503+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:13:52.3928845+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:06:03.7059018+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:07:28.9355906+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:13:52.3931518+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:59:40.8292711+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:06:03.7060042+00:00"
 }

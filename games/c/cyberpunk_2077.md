@@ -8,7 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 2.00% | ~17,914 |
 | Gun Fu | 1.00% | ~8,957 |
-| Relic Ruler | 0.60% | ~146 |
+| Relic Ruler | 0.70% | ~170 |
 | Full Body Conversion | 0.40% | ~3,583 |
 | True Soldier | 0.40% | ~3,583 |
 | All the President's Men | 0.40% | ~97 |
@@ -31,6 +31,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.20% | ~1,791 |
 | The High Priestess | 0.20% | ~1,791 |
 | The World | 0.20% | ~1,791 |
+| Two Heads, One Bullet | 0.20% | ~1,791 |
 | Judy vs Night City | 0.20% | ~1,791 |
 | Legend of The Afterlife | 0.20% | ~1,791 |
 | King of Wands | 0.20% | ~49 |
@@ -55,7 +56,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.10% | ~896 |
 | Greetings from Pacifica! | 0.10% | ~896 |
 | The Jungle | 0.10% | ~896 |
-| Two Heads, One Bullet | 0.10% | ~896 |
 | It's Elementary | 0.10% | ~896 |
 | The APB is Not Enough | 0.10% | ~24 |
 | Judgement Day | 0.10% | ~24 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,700 (Ranked 15)  
+Progressed: 895,704 (Ranked 15)  
 Completed: 2,753 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 2,753 (0.31%) (Ranked 222)
 | 2023-11-04 | 895,267 | 2,744 |
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
-| 2023-11-07 | 895,700 | 2,753 |
+| 2023-11-07 | 895,704 | 2,753 |
 ## Awards
 Max (Character Customization): 104,395  (Ranked 9)  
 Sum: 345,617 (Ranked 10)  

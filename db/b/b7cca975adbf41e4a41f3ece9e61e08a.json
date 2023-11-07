@@ -121,7 +121,7 @@
   "Tags": [],
   "EOS_Progressed": 7331,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 1903,
+  "EOS_NewPlayers": 1902,
   "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
@@ -2789,9 +2789,9 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "7opfcp",
       "Name": "Stubborn Noob",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 513
+      "UsersEstimate": 586
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2829,9 +2829,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "7opfcp",
       "Name": "ONE PUNCH",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2639
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -2853,9 +2853,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "7opfcp",
       "Name": "Go Clean up In Your Own Way",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 2566
+      "UsersEstimate": 2639
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -2934,8 +2934,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-07T13:02:45.1718372+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:10:34.0992075+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:03:18.3346258+00:00",
   "LastUpdate_AppInfo": "2023-11-03T22:56:56.8302113+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:05:30.5401691+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:10:34.0993027+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:58:08.0844716+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:03:18.3346715+00:00"
 }

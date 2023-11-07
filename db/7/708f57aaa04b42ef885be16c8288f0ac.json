@@ -2,13 +2,13 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 154,
+  "Ranking_Rating": 123,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.76,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -69,15 +69,21 @@
       "Rating": 4.74,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-07T20:59:18.8994318+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4368,
+  "EOS_Progressed": 4370,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 789,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2380,6 +2386,11 @@
       "Time": "2023-11-07T20:15:14.080341+00:00",
       "NumProgressed": 4368,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-07T21:08:31.1512285+00:00",
+      "NumProgressed": 4370,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2663,16 +2674,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4368,
+      "Progressed": 4370,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2023-11-05T20:58:48.2968347+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:15:14.0803403+00:00",
+  "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:08:31.151228+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:07:02.7365278+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:15:14.0804097+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:59:18.8994326+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:08:31.1512611+00:00"
 }

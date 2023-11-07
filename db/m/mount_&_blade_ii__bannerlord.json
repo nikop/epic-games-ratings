@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 154,
+  "Ranking_Rating": 155,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 103,
@@ -8476,10 +8476,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15160,
       "NumberOfAwardsMax": 7339
+    },
+    {
+      "Time": "2023-11-07T21:00:44.7341784+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15162,
+      "NumberOfAwardsMax": 7339
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15160,
+  "NumberOfAwards": 15162,
   "NumberOfAwardsMax": 7339,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8493,7 +8499,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 917
+      "Count": 919
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8556,9 +8562,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64675,
+  "EOS_Progressed": 64676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29756,6 +29762,11 @@
       "Time": "2023-11-07T20:15:43.8011511+00:00",
       "NumProgressed": 64675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T21:08:38.8198464+00:00",
+      "NumProgressed": 64676,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30174,15 +30185,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64675,
+      "Progressed": 64676,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-07T16:00:59.4463232+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:15:43.8011503+00:00",
+  "LastChanged": "2023-11-07T21:00:44.7341782+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:08:38.819846+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:31.2641432+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:08:51.7390701+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:15:43.8013984+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:00:44.7341788+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:08:38.8200071+00:00"
 }

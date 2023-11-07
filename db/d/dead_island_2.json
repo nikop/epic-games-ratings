@@ -6169,10 +6169,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10870,
       "NumberOfAwardsMax": 7178
+    },
+    {
+      "Time": "2023-11-07T20:58:02.4189086+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10877,
+      "NumberOfAwardsMax": 7178
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10870,
+  "NumberOfAwards": 10877,
   "NumberOfAwardsMax": 7178,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6216,7 +6222,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 418
+      "Count": 425
     },
     {
       "Text": "This game is Relaxing",
@@ -6231,9 +6237,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714614,
+  "EOS_Progressed": 714651,
   "EOS_Completed": 2354,
-  "EOS_NewPlayers": 5153,
+  "EOS_NewPlayers": 5154,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29191,6 +29197,11 @@
       "Time": "2023-11-07T20:13:09.7355718+00:00",
       "NumProgressed": 714614,
       "NumCompleted": 2354
+    },
+    {
+      "Time": "2023-11-07T21:05:27.9233165+00:00",
+      "NumProgressed": 714651,
+      "NumCompleted": 2354
     }
   ],
   "TotalAchievements": 51,
@@ -29218,7 +29229,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_anger_management",
@@ -29226,7 +29237,7 @@
       "Name": "Anger Management",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -29258,7 +29269,7 @@
       "Name": "Bookworm",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_break_a_leg",
@@ -29266,7 +29277,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_contender",
@@ -29322,7 +29333,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -29346,7 +29357,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -29362,7 +29373,7 @@
       "Name": "Hotel California",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_impressive_aim",
@@ -29482,7 +29493,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_survival_expert",
@@ -29609,22 +29620,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714614,
+      "Progressed": 714651,
       "Completed": 2354
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40156,
-      "Completed": 36482
+      "Progressed": 40193,
+      "Completed": 36484
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-07T17:58:31.4730956+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:13:09.735571+00:00",
+  "LastChanged": "2023-11-07T20:58:02.4189085+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:05:27.9233162+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:05:18.0800464+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:13:09.7359047+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:58:02.418909+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:05:27.9234536+00:00"
 }

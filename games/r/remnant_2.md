@@ -1,20 +1,20 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 142)  
+Rating: 4.75 (Ranked 143)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,681 |
-| The Killing Jar | 8.00% | ~17,494 |
-| Expanding Horizons | 7.00% | ~15,307 |
-| Quest for Survival | 7.00% | ~15,307 |
-| Not Your Average Trait | 7.00% | ~15,307 |
-| Gleaming the Cube | 6.00% | ~13,120 |
-| Familiar Face | 6.00% | ~13,120 |
-| Duality | 6.00% | ~13,120 |
-| Boss'n Up | 6.00% | ~13,120 |
-| Trait Chaser | 6.00% | ~13,120 |
+| First of Many | 9.00% | ~19,682 |
+| The Killing Jar | 8.00% | ~17,495 |
+| Expanding Horizons | 7.00% | ~15,308 |
+| Quest for Survival | 7.00% | ~15,308 |
+| Not Your Average Trait | 7.00% | ~15,308 |
+| Gleaming the Cube | 6.00% | ~13,121 |
+| Familiar Face | 6.00% | ~13,121 |
+| Duality | 6.00% | ~13,121 |
+| Boss'n Up | 6.00% | ~13,121 |
+| Trait Chaser | 6.00% | ~13,121 |
 | Not So Special Now | 5.00% | ~10,934 |
 | Not a Janitor | 5.00% | ~10,934 |
 | Equal Measures | 5.00% | ~10,934 |
@@ -24,40 +24,40 @@ Rating: 4.75 (Ranked 142)
 | Almost There | 5.00% | ~10,934 |
 | Make Some Room | 5.00% | ~10,934 |
 | Good, But Could Be Better! | 5.00% | ~10,934 |
-| Chaos | 4.00% | ~8,747 |
-| Traitor | 4.00% | ~8,747 |
-| Power Surge | 4.00% | ~8,747 |
-| The God Gambit | 4.00% | ~8,747 |
-| Dark Designs | 4.00% | ~8,747 |
-| Madman's Paradise | 4.00% | ~8,747 |
-| Was This Supposed To Happen? | 4.00% | ~8,747 |
-| The Web | 4.00% | ~8,747 |
-| Scrap Collector | 4.00% | ~8,747 |
-| All These Traits� | 4.00% | ~8,747 |
-| Am I Seeing This? | 3.00% | ~6,560 |
-| Forever is a Long Time Coming | 3.00% | ~6,560 |
-| The Agenda | 3.00% | ~6,560 |
-| Tall Tales | 3.00% | ~6,560 |
-| Bad Moon Rising | 3.00% | ~6,560 |
-| Strapped | 3.00% | ~6,560 |
-| Edgelord | 3.00% | ~6,560 |
-| The Ultimate Weapon | 3.00% | ~6,560 |
-| Crafty | 2.00% | ~4,373 |
-| Only Human | 2.00% | ~4,373 |
-| Red Room | 2.00% | ~4,373 |
-| Scrap Hoarder | 2.00% | ~4,373 |
-| Carnage in C-Minor | 2.00% | ~4,373 |
-| No One Should Have All That Power | 2.00% | ~4,373 |
-| Maxed Out! | 2.00% | ~4,373 |
-| Transmutate | 2.00% | ~4,373 |
+| Chaos | 4.00% | ~8,748 |
+| Traitor | 4.00% | ~8,748 |
+| Power Surge | 4.00% | ~8,748 |
+| The God Gambit | 4.00% | ~8,748 |
+| Dark Designs | 4.00% | ~8,748 |
+| Madman's Paradise | 4.00% | ~8,748 |
+| Was This Supposed To Happen? | 4.00% | ~8,748 |
+| The Web | 4.00% | ~8,748 |
+| Scrap Collector | 4.00% | ~8,748 |
+| All These Traits� | 4.00% | ~8,748 |
+| Am I Seeing This? | 3.00% | ~6,561 |
+| Forever is a Long Time Coming | 3.00% | ~6,561 |
+| The Agenda | 3.00% | ~6,561 |
+| Tall Tales | 3.00% | ~6,561 |
+| Bad Moon Rising | 3.00% | ~6,561 |
+| Strapped | 3.00% | ~6,561 |
+| Edgelord | 3.00% | ~6,561 |
+| The Ultimate Weapon | 3.00% | ~6,561 |
+| Crafty | 2.00% | ~4,374 |
+| Only Human | 2.00% | ~4,374 |
+| Red Room | 2.00% | ~4,374 |
+| Scrap Hoarder | 2.00% | ~4,374 |
+| Carnage in C-Minor | 2.00% | ~4,374 |
+| No One Should Have All That Power | 2.00% | ~4,374 |
+| Maxed Out! | 2.00% | ~4,374 |
+| Transmutate | 2.00% | ~4,374 |
 | Ghost in the Machine | 1.00% | ~2,187 |
 | The Trigger | 1.00% | ~2,187 |
 | Cutting Edge | 1.00% | ~2,187 |
 | The Collector | 1.00% | ~2,187 |
 | Proving Grounds | 1.00% | ~2,187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,673 (Ranked 68)  
-Completed: 432 (0.20%) (Ranked 244)  
+Progressed: 218,688 (Ranked 68)  
+Completed: 433 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -170,17 +170,17 @@ Completed: 432 (0.20%) (Ranked 244)
 | 2023-11-04 | 217,742 | 429 |
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
-| 2023-11-07 | 218,673 | 432 |
+| 2023-11-07 | 218,688 | 433 |
 ## Awards
 Max (Great Boss Battles): 2,095  (Ranked 109)  
-Sum: 4,684 (Ranked 143)  
+Sum: 4,686 (Ranked 143)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,095 |
 | This game has Diverse Characters | 297 |
 | This game has Challenging Combat | 288 |
-| This game is Extremely Fun | 277 |
+| This game is Extremely Fun | 279 |
 | This game is Relaxing | 277 |
 | This game is Highly Recommended | 269 |
 | This game has Amazing Storytelling | 263 |
@@ -295,4 +295,4 @@ Diff (max vs sum): -34
 | 2023-11-04 | 4.75 | 2,051 | 4,558 |
 | 2023-11-05 | 4.75 | 2,066 | 4,605 |
 | 2023-11-06 | 4.75 | 2,080 | 4,650 |
-| 2023-11-07 | 4.75 | 2,095 | 4,684 |
+| 2023-11-07 | 4.75 | 2,095 | 4,686 |

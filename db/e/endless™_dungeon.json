@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1041,
+  "EOS_Progressed": 1043,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1460,6 +1460,11 @@
       "Time": "2023-11-07T20:14:21.299109+00:00",
       "NumProgressed": 1041,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T21:06:27.4322436+00:00",
+      "NumProgressed": 1043,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1504,7 +1509,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -1536,7 +1541,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -1552,7 +1557,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1560,7 +1565,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -1568,7 +1573,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1616,7 +1621,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1672,7 +1677,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -1711,14 +1716,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1041,
+      "Progressed": 1043,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:14:21.2991084+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:06:27.4322432+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:11.1557336+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:08:08.7352178+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:14:21.2991568+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:00:10.1724162+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:06:27.4322679+00:00"
 }

@@ -9,14 +9,14 @@ Rating: 4.54 (Ranked 522)
 | Whatever It Takes | 1.00% | ~402 |
 | Pork Chopped | 1.00% | ~402 |
 | Welcome To Hell-A | 0.50% | ~3,573 |
-| Git Gutte! | 0.40% | ~2,858 |
-| Anger Management | 0.40% | ~2,858 |
-| Bookworm | 0.40% | ~2,858 |
-| Break A Leg | 0.40% | ~2,858 |
-| Coup de Grâce | 0.40% | ~2,858 |
-| Hazardous Materials | 0.40% | ~2,858 |
-| Hotel California | 0.40% | ~2,858 |
-| Personal Assistant Personally Assisted | 0.40% | ~2,858 |
+| Git Gutte! | 0.40% | ~2,859 |
+| Anger Management | 0.40% | ~2,859 |
+| Bookworm | 0.40% | ~2,859 |
+| Break A Leg | 0.40% | ~2,859 |
+| Coup de Grâce | 0.40% | ~2,859 |
+| Hazardous Materials | 0.40% | ~2,859 |
+| Hotel California | 0.40% | ~2,859 |
+| Personal Assistant Personally Assisted | 0.40% | ~2,859 |
 | Dr. Reed, I Presume? | 0.30% | ~2,144 |
 | Perks of the Job | 0.30% | ~2,144 |
 | I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,144 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,614 (Ranked 21)  
+Progressed: 714,651 (Ranked 21)  
 Completed: 2,354 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,10 @@ Completed: 2,354 (0.33%) (Ranked 219)
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
-| 2023-11-07 | 714,614 | 2,354 |
+| 2023-11-07 | 714,651 | 2,354 |
 ## Awards
 Max (Great Boss Battles): 7,178  (Ranked 53)  
-Sum: 10,870 (Ranked 87)  
+Sum: 10,877 (Ranked 87)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -272,7 +272,7 @@ Diff (max vs sum): -34
 | This game is Relaxing | 459 |
 | This game has Amazing Storytelling | 443 |
 | This game is Highly Recommended | 432 |
-| This game is Extremely Fun | 418 |
+| This game is Extremely Fun | 425 |
 | This game has Amazing Characters | 400 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -477,4 +477,4 @@ Diff (max vs sum): -34
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
-| 2023-11-07 | 4.54 | 7,178 | 10,870 |
+| 2023-11-07 | 4.54 | 7,178 | 10,877 |

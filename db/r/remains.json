@@ -4,7 +4,7 @@
   "ProductSlug": "remains-dcb937",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-03T17:00:00+00:00",
@@ -396,8 +396,8 @@
   ],
   "FirstSeen": "2023-05-07T09:59:54.1262097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:43.8172139+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:14:21.8530919+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:06:27.9203417+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:26.3187127+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:08:48.8474128+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:14:21.8531025+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:00:42.5245916+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:06:27.92035+00:00"
 }

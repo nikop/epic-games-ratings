@@ -14822,9 +14822,9 @@
       "Count": 12552
     }
   ],
-  "EOS_Progressed": 895700,
+  "EOS_Progressed": 895704,
   "EOS_Completed": 2753,
-  "EOS_NewPlayers": 1012,
+  "EOS_NewPlayers": 1009,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37612,6 +37612,11 @@
       "Time": "2023-11-07T20:14:28.8130221+00:00",
       "NumProgressed": 895700,
       "NumCompleted": 2753
+    },
+    {
+      "Time": "2023-11-07T21:06:33.8212776+00:00",
+      "NumProgressed": 895704,
+      "NumCompleted": 2753
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37934,9 +37939,9 @@
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 896
+      "UsersEstimate": 1791
     },
     {
       "ID": "UnderPressure",
@@ -38062,9 +38067,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 146
+      "UsersEstimate": 170
     },
     {
       "ID": "UltimateSurvivor",
@@ -38159,21 +38164,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895700,
+      "Progressed": 895704,
       "Completed": 2753
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24323,
-      "Completed": 10201
+      "Progressed": 24327,
+      "Completed": 10202
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-07T17:09:51.4218515+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:14:28.8130214+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:06:33.8212772+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:08:37.9791674+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:14:28.8133666+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:00:34.5079698+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:06:33.8214076+00:00"
 }

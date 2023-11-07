@@ -1,7 +1,7 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 154)  
+Rating: 4.74 (Ranked 155)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,675 (Ranked 103)  
+Progressed: 64,676 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,17 +259,17 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-04 | 64,499 | 0 |
 | 2023-11-05 | 64,565 | 0 |
 | 2023-11-06 | 64,626 | 0 |
-| 2023-11-07 | 64,675 | 0 |
+| 2023-11-07 | 64,676 | 0 |
 ## Awards
 Max (Character Customization): 7,339  (Ranked 51)  
-Sum: 15,160 (Ranked 67)  
+Sum: 15,162 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,339 |
 | This game is Great for Beginners | 1,039 |
 | This game has Diverse Characters | 992 |
-| This game is Highly Recommended | 917 |
+| This game is Highly Recommended | 919 |
 | This game is Extremely Fun | 865 |
 | This game has Amazing Storytelling | 854 |
 | This game has Amazing Characters | 852 |
@@ -577,4 +577,4 @@ Diff (max vs sum): -16
 | 2023-11-04 | 4.74 | - | 7,328 | 15,130 |
 | 2023-11-05 | 4.74 | - | 7,328 | 15,137 |
 | 2023-11-06 | 4.74 | - | 7,333 | 15,154 |
-| 2023-11-07 | 4.74 | - | 7,339 | 15,160 |
+| 2023-11-07 | 4.74 | - | 7,339 | 15,162 |

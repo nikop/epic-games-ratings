@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2754,9 +2754,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 537547,
+  "EOS_Progressed": 537548,
   "EOS_Completed": 1609,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -24859,6 +24859,11 @@
       "Time": "2023-11-07T20:14:34.8841936+00:00",
       "NumProgressed": 537547,
       "NumCompleted": 1609
+    },
+    {
+      "Time": "2023-11-07T21:07:58.5152956+00:00",
+      "NumProgressed": 537548,
+      "NumCompleted": 1609
     }
   ],
   "TotalAchievements": 37,
@@ -24926,7 +24931,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 446164
+      "UsersEstimate": 446165
     },
     {
       "ID": "HONED",
@@ -25046,7 +25051,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96758
+      "UsersEstimate": 96759
     },
     {
       "ID": "THE_KEEP",
@@ -25126,7 +25131,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344030
+      "UsersEstimate": 344031
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -25165,15 +25170,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 537547,
+      "Progressed": 537548,
       "Completed": 1609
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-03T22:16:47.9233831+00:00",
-  "LastChanged_Achievements": "2023-11-07T20:14:34.8841925+00:00",
+  "LastChanged_Achievements": "2023-11-07T21:07:58.5152954+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:16.77314+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:06:19.7521921+00:00",
-  "LastUpdate_Achievements": "2023-11-07T20:14:34.8844202+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:58:44.5121097+00:00",
+  "LastUpdate_Achievements": "2023-11-07T21:07:58.5154135+00:00"
 }
