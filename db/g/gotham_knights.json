@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4019,9 +4019,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76134,
+  "EOS_Progressed": 76135,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21809,6 +21809,11 @@
       "Time": "2023-11-07T19:07:21.4657388+00:00",
       "NumProgressed": 76134,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-07T20:13:19.7475827+00:00",
+      "NumProgressed": 76135,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21980,7 +21985,7 @@
       "Name": "Not On My Watch",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 9897
+      "UsersEstimate": 9898
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -22028,7 +22033,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 9897
+      "UsersEstimate": 9898
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -22036,7 +22041,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7613
+      "UsersEstimate": 7614
     },
     {
       "ID": "FREEZE_1",
@@ -22060,7 +22065,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14465
+      "UsersEstimate": 14466
     },
     {
       "ID": "FREEZE_3",
@@ -22148,7 +22153,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12181
+      "UsersEstimate": 12182
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22164,7 +22169,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38828
+      "UsersEstimate": 38829
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22228,7 +22233,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16749
+      "UsersEstimate": 16750
     },
     {
       "ID": "MYSTERY_04",
@@ -22307,13 +22312,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76134,
+      "Progressed": 76135,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46414,
+      "Progressed": 46415,
       "Completed": 2673
     }
   ],
@@ -22321,8 +22326,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-07T04:58:05.9217971+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:07:21.4657384+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:13:19.7475819+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:58:35.0040818+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:07:21.4658638+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:05:32.8916523+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:13:19.7478769+00:00"
 }

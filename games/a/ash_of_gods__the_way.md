@@ -11,9 +11,9 @@
 | Under cover | 26.00% | ~8 |
 | All for one! | 19.00% | ~6 |
 | Royal blessing | 19.00% | ~6 |
+| Power of Inquisition | 16.00% | ~5 |
 | A hidden snake | 16.00% | ~5 |
 | Blood and sand | 16.00% | ~5 |
-| Power of Inquisition | 13.00% | ~4 |
 | Surpass the teacher | 13.00% | ~4 |
 | Vene, vidi, vici | 13.00% | ~4 |
 | Crimson rivers | 10.00% | ~3 |

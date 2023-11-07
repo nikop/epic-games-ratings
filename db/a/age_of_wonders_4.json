@@ -417,9 +417,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5283,
+  "EOS_Progressed": 5284,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6697,6 +6697,11 @@
       "Time": "2023-11-07T19:07:44.2320052+00:00",
       "NumProgressed": 5283,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-07T20:13:38.6614375+00:00",
+      "NumProgressed": 5284,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6914,9 +6919,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "34",
@@ -7114,9 +7119,9 @@
       "ID": "52",
       "SetID": "7132754",
       "Name": "Sehiran Oasis",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "53",
@@ -7154,9 +7159,9 @@
       "ID": "57",
       "SetID": "7132754",
       "Name": "Spoils of War",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "58",
@@ -7187,13 +7192,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5283,
+      "Progressed": 5284,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5283,
+      "Progressed": 5284,
       "Completed": 7
     }
   ],
@@ -7201,8 +7206,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-07T13:03:36.0070967+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:07:44.2320048+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:13:38.6614369+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:59:42.96927+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:07:44.232081+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:06:34.5446008+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:13:38.6615392+00:00"
 }

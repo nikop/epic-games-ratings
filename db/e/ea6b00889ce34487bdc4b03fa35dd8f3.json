@@ -2,10 +2,10 @@
   "ID": "ea6b00889ce34487bdc4b03fa35dd8f3",
   "Name": "Aerial Platforms",
   "ProductSlug": "aerial-platforms-119f15",
-  "Ranking_EOS_Progress": 591,
+  "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 393,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -62,6 +62,11 @@
       "Time": "2023-10-29T01:50:44.1365288+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T20:12:55.4806312+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-17T00:03:11.5466759+00:00",
@@ -72,7 +77,7 @@
       "ID": "AirDash",
       "SetID": "dab3ahb",
       "Name": "Air Dash Unlocked",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -88,7 +93,7 @@
       "ID": "CompleteFirstLevel",
       "SetID": "dab3ahb",
       "Name": "Getting Started",
-      "Percentage": 71,
+      "Percentage": 63,
       "XP": 70,
       "UsersEstimate": 5
     },
@@ -120,7 +125,7 @@
       "ID": "World1",
       "SetID": "dab3ahb",
       "Name": "World 1 Completed",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -161,13 +166,13 @@
     {
       "ID": "dab3ahb",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-16T19:01:22.6123387+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:06:52.4468255+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:12:55.4806304+00:00",
   "LastUpdate_AppInfo": "2023-11-01T17:57:12.5588837+00:00",
-  "LastUpdate_Ratings": "2023-11-07T19:03:15.9844224+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:06:52.4468663+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:09:07.190539+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:12:55.4806432+00:00"
 }

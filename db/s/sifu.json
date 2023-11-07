@@ -7529,7 +7529,7 @@
   ],
   "EOS_Progressed": 716300,
   "EOS_Completed": 12933,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -25547,9 +25547,9 @@
       "ID": "43_Arena_UnlockPack",
       "SetID": "14c2oii",
       "Name": "Project Arena",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 154
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -25705,8 +25705,8 @@
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-07T16:59:32.9624128+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:03:38.1639244+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:09:24.390075+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.5858311+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:57:26.0130607+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:03:38.1640504+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:01:29.8919543+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:09:24.3903878+00:00"
 }

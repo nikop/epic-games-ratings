@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7241,
+  "EOS_Progressed": 7242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8285,6 +8285,11 @@
       "Time": "2023-11-07T16:05:49.0179043+00:00",
       "NumProgressed": 7241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T20:13:27.0989068+00:00",
+      "NumProgressed": 7242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8336,7 +8341,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "Control_All_Relics",
@@ -8384,7 +8389,7 @@
       "Name": "Gain an Ally",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "First_Nebula_Anomaly",
@@ -8614,9 +8619,9 @@
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4345
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8808,7 +8813,7 @@
       "Name": "Win with a Custom Faction",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "Win_Diplomacy",
@@ -8871,15 +8876,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7241,
+      "Progressed": 7242,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:07:30.2294203+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:13:27.0989061+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:57:44.5144601+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:07:30.2295246+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:03:47.7032734+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:13:27.0991212+00:00"
 }

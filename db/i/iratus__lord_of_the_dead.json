@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-05-19T15:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -2281,9 +2281,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 44428,
+  "EOS_Progressed": 44429,
   "EOS_Completed": 24,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24171,6 +24171,11 @@
       "Time": "2023-11-07T19:05:14.4996459+00:00",
       "NumProgressed": 44428,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-11-07T20:11:34.2514308+00:00",
+      "NumProgressed": 44429,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 75,
@@ -24190,7 +24195,7 @@
       "Name": "Unholy Bones",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "achievements_11",
@@ -24214,7 +24219,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25324
+      "UsersEstimate": 25325
     },
     {
       "ID": "achievements_14",
@@ -24222,7 +24227,7 @@
       "Name": "Wild Hunger",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7108
+      "UsersEstimate": 7109
     },
     {
       "ID": "achievements_15",
@@ -24230,7 +24235,7 @@
       "Name": "Keeper of Keys",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20881
+      "UsersEstimate": 20882
     },
     {
       "ID": "achievements_17",
@@ -24262,7 +24267,7 @@
       "Name": "Lord of Fire",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "achievements_21",
@@ -24294,7 +24299,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 24435
+      "UsersEstimate": 24436
     },
     {
       "ID": "achievements_25",
@@ -24422,7 +24427,7 @@
       "Name": "Rage Concentrated",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 7108
+      "UsersEstimate": 7109
     },
     {
       "ID": "achievements_4",
@@ -24430,7 +24435,7 @@
       "Name": "Path of the Necromancer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 29322
+      "UsersEstimate": 29323
     },
     {
       "ID": "achievements_40",
@@ -24462,7 +24467,7 @@
       "Name": "Uncommon Warrior",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "achievements_44",
@@ -24486,7 +24491,7 @@
       "Name": "Improvement",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 37764
+      "UsersEstimate": 37765
     },
     {
       "ID": "achievements_47",
@@ -24518,7 +24523,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 22658
+      "UsersEstimate": 22659
     },
     {
       "ID": "achievements_50",
@@ -24534,7 +24539,7 @@
       "Name": "Prepared Necromancer",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 17771
+      "UsersEstimate": 17772
     },
     {
       "ID": "achievements_52",
@@ -24550,7 +24555,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25324
+      "UsersEstimate": 25325
     },
     {
       "ID": "achievements_54",
@@ -24758,7 +24763,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 32432
+      "UsersEstimate": 32433
     },
     {
       "ID": "achievements_8",
@@ -24781,15 +24786,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 44428,
+      "Progressed": 44429,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-11-05T19:02:45.7537131+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:05:14.4996456+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:11:34.2514302+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.8763868+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:57:04.1342037+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:05:14.4997938+00:00"
+  "LastUpdate_Ratings": "2023-11-07T19:58:33.0061748+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:11:34.2516743+00:00"
 }

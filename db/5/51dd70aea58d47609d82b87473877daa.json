@@ -4,8 +4,8 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 222,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -1087,9 +1087,9 @@
       "ID": "ACH_ENTERLEVELRUN",
       "SetID": "c2kf3nm",
       "Name": "THERE IS NO EXIT",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_FIND_ENTITY",
@@ -1103,9 +1103,9 @@
       "ID": "ACH_FRIEND",
       "SetID": "c2kf3nm",
       "Name": "NO ONE CAN HEAR YOU SCREAM",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 138
+      "UsersEstimate": 140
     },
     {
       "ID": "ACH_GET_IN",
@@ -1127,17 +1127,17 @@
       "ID": "ACH_HABITABLE",
       "SetID": "c2kf3nm",
       "Name": "Follow your Dreams",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_HOUND",
@@ -1151,25 +1151,25 @@
       "ID": "ACH_KEY",
       "SetID": "c2kf3nm",
       "Name": "Key to your Death",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_PIPEDREAMS",
       "SetID": "c2kf3nm",
       "Name": "DO NOT ENTER",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 40
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_PITFALLS",
       "SetID": "c2kf3nm",
       "Name": "Pitfalls",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_PITFALLSDIE",
@@ -1183,9 +1183,9 @@
       "ID": "ACH_RUN",
       "SetID": "c2kf3nm",
       "Name": "RUN FOR YOUR LIFE",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_STAIRS",
@@ -1214,8 +1214,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:09:56.8974255+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:15:50.0897282+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:51.9800214+00:00",
-  "LastUpdate_Ratings": "2023-11-07T19:01:37.6588849+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:09:56.8974445+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:08:11.8300951+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:15:50.0897598+00:00"
 }

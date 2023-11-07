@@ -877,9 +877,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -932,8 +932,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:09:56.0212526+00:00",
-  "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-07T19:00:48.5355307+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:09:56.0212679+00:00"
+  "LastChanged_Achievements": "2023-11-07T20:15:49.1241497+00:00",
+  "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
+  "LastUpdate_Ratings": "2023-11-07T20:07:29.3965418+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:15:49.1241664+00:00"
 }

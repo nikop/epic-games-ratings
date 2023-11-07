@@ -74,6 +74,7 @@
 | Pocket Astrarium | 1.00% | ~1 |
 | This is Fine | 1.00% | ~1 |
 | Virtuous Warrior | 1.00% | ~1 |
+| Apian Mastery | 1.00% | ~1 |
 | Apian Champion | 0.00% | ~0 |
 | Apian Hero | 0.00% | ~0 |
 | Apian Mastery | 0.00% | ~0 |
@@ -101,7 +102,6 @@
 | Skeptical | 0.00% | ~0 |
 | The world goes round... | 0.00% | ~0 |
 | Unepic Hero | 0.00% | ~0 |
-| Apian Mastery | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 68 (Ranked 441)  
 Completed: 0 (0.00%) (Ranked 345)  

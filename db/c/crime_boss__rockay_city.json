@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4479,9 +4479,9 @@
       "Count": 484
     }
   ],
-  "EOS_Progressed": 89623,
+  "EOS_Progressed": 89631,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24304,6 +24304,11 @@
       "Time": "2023-11-07T19:03:40.0885066+00:00",
       "NumProgressed": 89623,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-07T20:09:26.1906674+00:00",
+      "NumProgressed": 89631,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24355,7 +24360,7 @@
       "Name": "Legend Looter",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_0016",
@@ -24363,7 +24368,7 @@
       "Name": "Imports and Exports",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_0021",
@@ -24395,7 +24400,7 @@
       "Name": "I Like Trains",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_0050",
@@ -24403,7 +24408,7 @@
       "Name": "Foo Finder",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_0060",
@@ -24411,7 +24416,7 @@
       "Name": "Freebooter",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_0061",
@@ -24451,7 +24456,7 @@
       "Name": "Moneybags",
       "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_0200",
@@ -24459,7 +24464,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "ACH_0210",
@@ -24467,7 +24472,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "ACH_0211",
@@ -24642,13 +24647,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89623,
+      "Progressed": 89631,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17970,
+      "Progressed": 17978,
       "Completed": 15560
     }
   ],
@@ -24656,8 +24661,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-07T17:07:22.6745719+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:03:40.0885062+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:09:26.1906667+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-07T19:00:03.6760726+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:03:40.0886687+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:06:52.3424793+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:09:26.1909506+00:00"
 }

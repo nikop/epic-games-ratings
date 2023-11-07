@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3049,10 +3049,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2718,
       "NumberOfAwardsMax": 305
+    },
+    {
+      "Time": "2023-11-07T20:06:45.4959866+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2720,
+      "NumberOfAwardsMax": 305
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2718,
+  "NumberOfAwards": 2720,
   "NumberOfAwardsMax": 305,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3090,7 +3096,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 248
+      "Count": 250
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3129,9 +3135,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30455,
+  "EOS_Progressed": 30461,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1225,
+  "EOS_NewPlayers": 1206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18294,6 +18300,11 @@
       "Time": "2023-11-07T19:08:40.8636882+00:00",
       "NumProgressed": 30455,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-07T20:14:26.2299389+00:00",
+      "NumProgressed": 30461,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18687,9 +18698,9 @@
       "ID": "Vaporous_Expansion",
       "SetID": "819popo",
       "Name": "Vaporous Expansion",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 1218
     },
     {
       "ID": "Welcome_Crew",
@@ -18712,16 +18723,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30455,
+      "Progressed": 30461,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-07T17:07:14.999483+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:08:40.8636878+00:00",
+  "LastChanged": "2023-11-07T20:06:45.4959863+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:14:26.2299381+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:59:56.145379+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:08:40.8637851+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:06:45.4959874+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:14:26.2301788+00:00"
 }

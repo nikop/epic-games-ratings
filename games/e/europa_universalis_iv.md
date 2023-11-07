@@ -14,12 +14,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Absolutely | 0.10% | ~449 |
 | Aggressive Expander | 0.10% | ~449 |
 | Albania or Iberia | 0.10% | ~449 |
+| All belongs to Mother Russia | 0.10% | ~449 |
 | All That's Thine Shall Be Mine | 0.10% | ~449 |
 | All Your Trade Are Belong to Us | 0.10% | ~449 |
 | An early Reich | 0.10% | ~449 |
 | At every continent | 0.10% | ~449 |
 | Azur semé de lis or | 0.10% | ~449 |
 | Baa Baa Black Sheep | 0.10% | ~449 |
+| Barbarossa | 0.10% | ~449 |
 | Big Blue Blob | 0.10% | ~449 |
 | Black Jack | 0.10% | ~449 |
 | Blockader | 0.10% | ~449 |
@@ -44,6 +46,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 0.10% | ~449 |
 | Fine Financials | 0.10% | ~449 |
 | A Fine Goosestep | 0.10% | ~449 |
+| For the Glory | 0.10% | ~449 |
 | Forgive me, for I have Sindh | 0.10% | ~449 |
 | Four For Trade | 0.10% | ~449 |
 | From Humble Origins | 0.10% | ~449 |
@@ -96,6 +99,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sakoku Law | 0.10% | ~449 |
 | Seriously?! | 0.10% | ~449 |
 | Shahanshah | 0.10% | ~449 |
+| Sons of Carthage | 0.10% | ~449 |
 | Subsidize my Love | 0.10% | ~449 |
 | Tear Down This Wall | 0.10% | ~449 |
 | That is mine! | 0.10% | ~449 |
@@ -140,7 +144,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Academical | 0.00% | ~0 |
 | AEIOU | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
-| All belongs to Mother Russia | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
 | An Unlikely Candidate | 0.00% | ~0 |
@@ -157,7 +160,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Back to the Piast | 0.00% | ~0 |
 | Baltic Crusader | 0.00% | ~0 |
 | These Banners need a Saga | 0.00% | ~0 |
-| Barbarossa | 0.00% | ~0 |
 | Basileus | 0.00% | ~0 |
 | Basque in Glory | 0.00% | ~0 |
 | Bengal Tiger | 0.00% | ~0 |
@@ -196,7 +198,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The First Toungoo Empire | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
 | For the Emperor! | 0.00% | ~0 |
-| For the Glory | 0.00% | ~0 |
 | Forever Golden | 0.00% | ~0 |
 | Foul Mouthed | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
@@ -298,7 +299,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sinaasappel! | 0.00% | ~0 |
 | The Six Nations | 0.00% | ~0 |
 | Sleepless in Seattle | 0.00% | ~0 |
-| Sons of Carthage | 0.00% | ~0 |
 | Spaghetti Western | 0.00% | ~0 |
 | Spain is the Emperor | 0.00% | ~0 |
 | Spanish Fly | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,373 (Ranked 41)  
+Progressed: 449,421 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,10 +571,10 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 449,373 | 1 |
+| 2023-11-07 | 449,421 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
-Sum: 56,549 (Ranked 24)  
+Sum: 56,583 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -583,9 +583,9 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 6,584 |
 | This game has Challenging Combat | 6,502 |
 | This game is Extremely Fun | 6,486 |
-| This game is Relaxing | 6,310 |
+| This game is Relaxing | 6,332 |
 | This game has Competitive Players | 6,166 |
-| This game has Amazing Storytelling | 5,726 |
+| This game has Amazing Storytelling | 5,738 |
 | This game has Amazing Characters | 5,304 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -885,4 +885,4 @@ Diff (max vs sum): 30
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
 | 2023-11-06 | 4.69 | - | 6,879 | 56,411 |
-| 2023-11-07 | 4.69 | - | 6,879 | 56,549 |
+| 2023-11-07 | 4.69 | - | 6,879 | 56,583 |

@@ -3951,9 +3951,9 @@
       "Count": 277
     }
   ],
-  "EOS_Progressed": 218663,
+  "EOS_Progressed": 218673,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 3472,
+  "EOS_NewPlayers": 3408,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -16946,6 +16946,11 @@
       "Time": "2023-11-07T19:07:22.1947289+00:00",
       "NumProgressed": 218663,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-11-07T20:13:20.3483319+00:00",
+      "NumProgressed": 218673,
+      "NumCompleted": 432
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -16958,7 +16963,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15306
+      "UsersEstimate": 15307
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -17038,7 +17043,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17493
+      "UsersEstimate": 17494
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -17062,7 +17067,7 @@
       "Name": "Not So Special Now",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10933
+      "UsersEstimate": 10934
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -17078,7 +17083,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15306
+      "UsersEstimate": 15307
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -17102,7 +17107,7 @@
       "Name": "Not a Janitor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10933
+      "UsersEstimate": 10934
     },
     {
       "ID": "Meet_Flautist",
@@ -17118,7 +17123,7 @@
       "Name": "Equal Measures",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10933
+      "UsersEstimate": 10934
     },
     {
       "ID": "Meet_Mudtooth",
@@ -17134,7 +17139,7 @@
       "Name": "Blue Goddess",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10933
+      "UsersEstimate": 10934
     },
     {
       "ID": "Obtain_Archetype",
@@ -17142,7 +17147,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19680
+      "UsersEstimate": 19681
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -17158,7 +17163,7 @@
       "Name": "Top Performer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10933
+      "UsersEstimate": 10934
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -17166,7 +17171,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10933
+      "UsersEstimate": 10934
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -17262,7 +17267,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15306
+      "UsersEstimate": 15307
     },
     {
       "ID": "Obtain_Traits_B",
@@ -17302,7 +17307,7 @@
       "Name": "Almost There",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10933
+      "UsersEstimate": 10934
     },
     {
       "ID": "Upgrade_Relic",
@@ -17310,7 +17315,7 @@
       "Name": "Make Some Room",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10933
+      "UsersEstimate": 10934
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -17318,7 +17323,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10933
+      "UsersEstimate": 10934
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -17357,7 +17362,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218663,
+      "Progressed": 218673,
       "Completed": 432
     }
   ],
@@ -17365,8 +17370,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-07T19:03:28.6762397+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:07:22.1947285+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:13:20.3483311+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-07T19:03:28.6762403+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:07:22.1948648+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:09:16.6784155+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:13:20.348542+00:00"
 }

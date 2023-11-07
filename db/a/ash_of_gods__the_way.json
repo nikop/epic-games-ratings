@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -251,9 +251,9 @@
       "ID": "collect8",
       "SetID": "c64if4d",
       "Name": "Power of Inquisition",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "fights1",
@@ -596,8 +596,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:07:34.0065157+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:13:30.3037133+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.6760768+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:57:11.6932173+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:07:34.0065541+00:00"
+  "LastUpdate_Ratings": "2023-11-07T19:59:50.0079497+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:13:30.3037886+00:00"
 }

@@ -43,11 +43,11 @@ Rating: 4.19 (Ranked 913)
 | Subject Alpha | 0.40% | ~17 |
 | Don't Let It Mellow | 0.30% | ~13 |
 | The Protocol is About Life | 0.20% | ~33 |
+| Recidivist | 0.20% | ~9 |
 | Hoard Mode | 0.20% | ~9 |
 | It's over, Jacob! | 0.10% | ~16 |
 | Glutton for Punishment | 0.10% | ~4 |
 | You Belong Here | 0.10% | ~4 |
-| Recidivist | 0.10% | ~4 |
 | Lifer | 0.10% | ~4 |
 | Big Game Hunter | 0.10% | ~4 |
 | Bear Trap | 0.10% | ~4 |

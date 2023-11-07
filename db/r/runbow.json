@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 135,
+  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251069,
+  "EOS_Progressed": 251070,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18432,6 +18432,11 @@
       "Time": "2023-11-07T19:09:32.9901172+00:00",
       "NumProgressed": 251069,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-07T20:15:09.6388308+00:00",
+      "NumProgressed": 251070,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -18467,7 +18472,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52724
+      "UsersEstimate": 52725
     },
     {
       "ID": "blotbuster",
@@ -18539,7 +18544,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45192
+      "UsersEstimate": 45193
     },
     {
       "ID": "curator",
@@ -18683,7 +18688,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125534
+      "UsersEstimate": 125535
     },
     {
       "ID": "notScared",
@@ -18810,7 +18815,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251069,
+      "Progressed": 251070,
       "Completed": 6
     }
   ],
@@ -18818,8 +18823,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-07T19:09:32.9901168+00:00",
+  "LastChanged_Achievements": "2023-11-07T20:15:09.6388298+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:10.071238+00:00",
-  "LastUpdate_Ratings": "2023-11-07T18:59:12.0239133+00:00",
-  "LastUpdate_Achievements": "2023-11-07T19:09:32.9902403+00:00"
+  "LastUpdate_Ratings": "2023-11-07T20:06:08.2404602+00:00",
+  "LastUpdate_Achievements": "2023-11-07T20:15:09.6390972+00:00"
 }
