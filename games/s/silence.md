@@ -6,30 +6,30 @@
 | ---- | ---------- | ----- |
 | Chapter I | 52.00% | ~73 |
 | Fire in the... nevermind | 52.00% | ~73 |
-| Haute cuisine | 48.00% | ~67 |
+| Haute cuisine | 48.00% | ~68 |
 | I didn't do it! | 40.00% | ~56 |
 | Demolition expert | 39.00% | ~55 |
 | Wooooooow! | 37.00% | ~52 |
-| Open up wide | 36.00% | ~50 |
-| Keep away from children | 36.00% | ~50 |
+| Open up wide | 36.00% | ~51 |
 | Artistic fool | 35.00% | ~49 |
-| Let the boot talk | 31.00% | ~43 |
+| Keep away from children | 35.00% | ~49 |
+| Let the boot talk | 31.00% | ~44 |
 | Chapter II | 28.00% | ~39 |
 | Shadow on the wall | 25.00% | ~35 |
-| Handyman | 24.00% | ~34 |
-| Bubblekillerfamily | 24.00% | ~34 |
 | Achoo!! | 24.00% | ~34 |
 | Chapter III | 24.00% | ~34 |
 | Like a moth in the Wind | 24.00% | ~34 |
-| Quite a buggy game | 21.00% | ~29 |
-| Mirror mirror on the wall... | 21.00% | ~29 |
+| Handyman | 23.00% | ~32 |
+| Bubblekillerfamily | 23.00% | ~32 |
+| Quite a buggy game | 21.00% | ~30 |
+| Mirror mirror on the wall... | 21.00% | ~30 |
 | Pacifist | 20.00% | ~28 |
 | Fastidious Clown | 19.00% | ~27 |
-| It's not easy being green! | 19.00% | ~27 |
 | Home is where the heart is | 19.00% | ~27 |
-| Death is a part of life | 16.00% | ~22 |
+| It's not easy being green! | 18.00% | ~25 |
+| Death is a part of life | 16.00% | ~23 |
 | Master of Thermodynamics | 15.00% | ~21 |
-| Unfullfilled dreams | 14.00% | ~20 |
+| Unfullfilled dreams | 13.00% | ~18 |
 | To err is human... | 12.00% | ~17 |
 | Useless but beautiful | 10.00% | ~14 |
 | Nothing can stop me | 10.00% | ~14 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 388)  
+Progressed: 141 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-02 | 138 | 0 |
 | 2023-11-03 | 139 | 0 |
 | 2023-11-05 | 140 | 0 |
+| 2023-11-07 | 141 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

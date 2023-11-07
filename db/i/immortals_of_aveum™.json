@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -885,6 +885,11 @@
       "Time": "2023-11-07T10:06:15.9849156+00:00",
       "NumProgressed": 174,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T11:06:49.0417731+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -897,15 +902,15 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_11",
@@ -937,15 +942,15 @@
       "Name": "Geas Aristeya",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_16",
@@ -961,7 +966,7 @@
       "Name": "Lights Army",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_18",
@@ -969,7 +974,7 @@
       "Name": "Grand Magnus",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_19",
@@ -985,7 +990,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_20",
@@ -1041,7 +1046,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_36",
@@ -1071,9 +1076,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 108
     },
     {
       "ID": "achievement_41",
@@ -1129,15 +1134,15 @@
       "Name": "Enlisted",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_5",
@@ -1145,7 +1150,7 @@
       "Name": "Initiate",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_50",
@@ -1161,7 +1166,7 @@
       "Name": "Master of Ultramarine",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_55",
@@ -1177,7 +1182,7 @@
       "Name": "Master of Malachite",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_59",
@@ -1201,7 +1206,7 @@
       "Name": "Shroudfane Surveyor",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_62",
@@ -1217,7 +1222,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_64",
@@ -1241,7 +1246,7 @@
       "Name": "Good Boy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_7",
@@ -1249,7 +1254,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_8",
@@ -1265,14 +1270,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 1
     }
   ],
@@ -1280,8 +1285,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-05T03:01:16.136809+00:00",
-  "LastChanged_Achievements": "2023-11-07T10:06:15.984915+00:00",
+  "LastChanged_Achievements": "2023-11-07T11:06:49.0417727+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-07T09:57:27.7145653+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:06:15.9849524+00:00"
+  "LastUpdate_Ratings": "2023-11-07T10:57:39.1524232+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:06:49.0418365+00:00"
 }

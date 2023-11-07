@@ -5,25 +5,25 @@ Rating: 4.75 (Ranked 142)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,667 |
-| The Killing Jar | 8.00% | ~17,482 |
+| First of Many | 9.00% | ~19,668 |
+| The Killing Jar | 8.00% | ~17,483 |
 | Expanding Horizons | 7.00% | ~15,297 |
 | Quest for Survival | 7.00% | ~15,297 |
 | Not Your Average Trait | 7.00% | ~15,297 |
-| Gleaming the Cube | 6.00% | ~13,111 |
-| Familiar Face | 6.00% | ~13,111 |
-| Duality | 6.00% | ~13,111 |
-| Boss'n Up | 6.00% | ~13,111 |
-| Trait Chaser | 6.00% | ~13,111 |
-| Not So Special Now | 5.00% | ~10,926 |
-| Not a Janitor | 5.00% | ~10,926 |
-| Equal Measures | 5.00% | ~10,926 |
-| Blue Goddess | 5.00% | ~10,926 |
-| Top Performer | 5.00% | ~10,926 |
-| Shhh...It's a Secret | 5.00% | ~10,926 |
-| Almost There | 5.00% | ~10,926 |
-| Make Some Room | 5.00% | ~10,926 |
-| Good, But Could Be Better! | 5.00% | ~10,926 |
+| Gleaming the Cube | 6.00% | ~13,112 |
+| Familiar Face | 6.00% | ~13,112 |
+| Duality | 6.00% | ~13,112 |
+| Boss'n Up | 6.00% | ~13,112 |
+| Trait Chaser | 6.00% | ~13,112 |
+| Not So Special Now | 5.00% | ~10,927 |
+| Not a Janitor | 5.00% | ~10,927 |
+| Equal Measures | 5.00% | ~10,927 |
+| Blue Goddess | 5.00% | ~10,927 |
+| Top Performer | 5.00% | ~10,927 |
+| Shhh...It's a Secret | 5.00% | ~10,927 |
+| Almost There | 5.00% | ~10,927 |
+| Make Some Room | 5.00% | ~10,927 |
+| Good, But Could Be Better! | 5.00% | ~10,927 |
 | Chaos | 4.00% | ~8,741 |
 | Traitor | 4.00% | ~8,741 |
 | Power Surge | 4.00% | ~8,741 |
@@ -42,21 +42,21 @@ Rating: 4.75 (Ranked 142)
 | Strapped | 3.00% | ~6,556 |
 | Edgelord | 3.00% | ~6,556 |
 | The Ultimate Weapon | 3.00% | ~6,556 |
-| Crafty | 2.00% | ~4,370 |
-| Only Human | 2.00% | ~4,370 |
-| Red Room | 2.00% | ~4,370 |
-| Scrap Hoarder | 2.00% | ~4,370 |
-| Carnage in C-Minor | 2.00% | ~4,370 |
-| No One Should Have All That Power | 2.00% | ~4,370 |
-| Maxed Out! | 2.00% | ~4,370 |
-| Transmutate | 2.00% | ~4,370 |
+| Crafty | 2.00% | ~4,371 |
+| Only Human | 2.00% | ~4,371 |
+| Red Room | 2.00% | ~4,371 |
+| Scrap Hoarder | 2.00% | ~4,371 |
+| Carnage in C-Minor | 2.00% | ~4,371 |
+| No One Should Have All That Power | 2.00% | ~4,371 |
+| Maxed Out! | 2.00% | ~4,371 |
+| Transmutate | 2.00% | ~4,371 |
 | Ghost in the Machine | 1.00% | ~2,185 |
 | The Trigger | 1.00% | ~2,185 |
 | Cutting Edge | 1.00% | ~2,185 |
 | The Collector | 1.00% | ~2,185 |
 | Proving Grounds | 1.00% | ~2,185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,524 (Ranked 68)  
+Progressed: 218,534 (Ranked 68)  
 Completed: 432 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 432 (0.20%) (Ranked 244)
 | 2023-11-04 | 217,742 | 429 |
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
-| 2023-11-07 | 218,524 | 432 |
+| 2023-11-07 | 218,534 | 432 |
 ## Awards
 Max (Great Boss Battles): 2,080  (Ranked 109)  
 Sum: 4,661 (Ranked 143)  

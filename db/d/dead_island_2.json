@@ -6213,10 +6213,10 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714336,
-  "EOS_Completed": 2351,
-  "EOS_NewPlayers": 5291,
-  "EOS_NewCompleters": 61,
+  "EOS_Progressed": 714360,
+  "EOS_Completed": 2352,
+  "EOS_NewPlayers": 5294,
+  "EOS_NewCompleters": 62,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29123,6 +29123,11 @@
       "Time": "2023-11-07T10:06:48.6777266+00:00",
       "NumProgressed": 714336,
       "NumCompleted": 2351
+    },
+    {
+      "Time": "2023-11-07T11:07:22.9497722+00:00",
+      "NumProgressed": 714360,
+      "NumCompleted": 2352
     }
   ],
   "TotalAchievements": 51,
@@ -29180,9 +29185,9 @@
       "ID": "ach_blueprinted",
       "SetID": "7km39fm",
       "Name": "Perks of the Job",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 2143
     },
     {
       "ID": "ach_bookworm",
@@ -29541,13 +29546,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714336,
-      "Completed": 2351
+      "Progressed": 714360,
+      "Completed": 2352
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39878,
+      "Progressed": 39902,
       "Completed": 36476
     }
   ],
@@ -29555,8 +29560,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-07T01:42:53.6891474+00:00",
-  "LastChanged_Achievements": "2023-11-07T10:06:48.6777259+00:00",
+  "LastChanged_Achievements": "2023-11-07T11:07:22.9497717+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T09:58:20.4816043+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:06:48.6778676+00:00"
+  "LastUpdate_Ratings": "2023-11-07T10:58:35.3170107+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:07:22.9500516+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 33,
   "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -31,10 +31,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 224,
-  "EOS_Completed": 23,
+  "EOS_Completed": 24,
   "EOS_NewPlayers": 8,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 10.27,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 10.71,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -460,6 +460,11 @@
       "Time": "2023-11-07T08:09:10.3439523+00:00",
       "NumProgressed": 224,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2023-11-07T11:09:41.432784+00:00",
+      "NumProgressed": 224,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 17,
@@ -477,9 +482,9 @@
       "ID": "bless_the_rain",
       "SetID": "202dmm8",
       "Name": "I bless the rain down in London",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 74
     },
     {
       "ID": "blow",
@@ -541,17 +546,17 @@
       "ID": "just_like_me",
       "SetID": "202dmm8",
       "Name": "Just like me",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 78
     },
     {
       "ID": "making_a_murderer",
       "SetID": "202dmm8",
       "Name": "Making a murderer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "prove_it",
@@ -607,15 +612,15 @@
       "ID": "202dmm8",
       "IsBase": true,
       "Progressed": 224,
-      "Completed": 23
+      "Completed": 24
     }
   ],
   "FirstSeen": "2022-11-05T14:31:21.414427+00:00",
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-07T10:09:03.0465325+00:00",
+  "LastChanged_Achievements": "2023-11-07T11:09:41.4327834+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.2705596+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:00:37.1609271+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:09:03.0465459+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:00:58.4405221+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:09:41.4327998+00:00"
 }

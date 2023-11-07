@@ -6,20 +6,20 @@
 | ---- | ---------- | ----- |
 | First success | 100.00% | ~30 |
 | Suicide squad | 50.00% | ~15 |
-| First blood | 27.00% | ~8 |
-| Train hard, fight easy | 23.00% | ~7 |
-| Under cover | 23.00% | ~7 |
+| First blood | 30.00% | ~9 |
+| Train hard, fight easy | 27.00% | ~8 |
+| Under cover | 27.00% | ~8 |
 | All for one! | 20.00% | ~6 |
-| Royal blessing | 17.00% | ~5 |
+| Royal blessing | 20.00% | ~6 |
 | A hidden snake | 17.00% | ~5 |
 | Blood and sand | 17.00% | ~5 |
 | Power of Inquisition | 13.00% | ~4 |
+| Surpass the teacher | 13.00% | ~4 |
 | Vene, vidi, vici | 13.00% | ~4 |
 | Crimson rivers | 10.00% | ~3 |
 | Overplay the rogue | 10.00% | ~3 |
 | Berkanan Borgia | 10.00% | ~3 |
 | The champion of the arena | 10.00% | ~3 |
-| Surpass the teacher | 10.00% | ~3 |
 | By own strength | 10.00% | ~3 |
 | Protect the Healer! | 10.00% | ~3 |
 | Help of the Gell | 10.00% | ~3 |

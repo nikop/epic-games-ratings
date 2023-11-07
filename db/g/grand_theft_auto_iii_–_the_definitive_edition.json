@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 174,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -517,9 +517,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8521,
+  "EOS_Progressed": 8522,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10807,6 +10807,11 @@
       "Time": "2023-11-07T10:05:13.0460327+00:00",
       "NumProgressed": 8521,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-07T11:05:43.8690822+00:00",
+      "NumProgressed": 8522,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10818,7 +10823,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7072
+      "UsersEstimate": 7073
     },
     {
       "ID": "ACH02",
@@ -10962,7 +10967,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACH20",
@@ -11049,7 +11054,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8521,
+      "Progressed": 8522,
       "Completed": 56
     }
   ],
@@ -11057,8 +11062,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-07T02:18:06.6938355+00:00",
-  "LastChanged_Achievements": "2023-11-07T10:05:13.0460322+00:00",
+  "LastChanged_Achievements": "2023-11-07T11:05:43.8690817+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-07T09:59:45.3010779+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:05:13.0460995+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:00:06.7653108+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:05:43.8691882+00:00"
 }

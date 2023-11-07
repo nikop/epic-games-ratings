@@ -1,54 +1,54 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.81 (Ranked 78)  
+Rating: 4.81 (Ranked 77)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~6,723 |
-| I Challenge You To Save More Money! | 88.00% | ~6,362 |
-| I Love How Tough You Are | 74.00% | ~5,349 |
-| Wanna Come To My Place For Dinner? | 67.00% | ~4,843 |
-| What I Want Is You | 61.00% | ~4,410 |
-| To Be Or Not To Be | 57.00% | ~4,121 |
-| Are You Alright? | 49.00% | ~3,542 |
-| Love Actually | 48.00% | ~3,470 |
-| Drama King | 42.00% | ~3,036 |
-| You're Really Something Else | 37.00% | ~2,675 |
-| ONE PUNCH | 35.00% | ~2,530 |
-| Go Clean up In Your Own Way | 35.00% | ~2,530 |
-| Happy Family | 34.00% | ~2,458 |
-| FIRST LOVE | 34.00% | ~2,458 |
-| Drama CP: Reel to Real | 34.00% | ~2,458 |
-| Worthless Speech | 34.00% | ~2,458 |
-| Absolutely Elegant | 33.00% | ~2,386 |
-| Still Single | 32.00% | ~2,313 |
-| Go Get Some Fries On The Pier | 30.00% | ~2,169 |
-| Days Of Innocence | 29.00% | ~2,096 |
-| David | 28.00% | ~2,024 |
-| All I Have Is Money | 25.00% | ~1,807 |
-| Lover In Dark Alley | 24.00% | ~1,735 |
-| A Slap In The Face! | 24.00% | ~1,735 |
-| That's So You | 24.00% | ~1,735 |
-| SALUTE | 23.00% | ~1,663 |
-| Let Me Be Your Toy Boy | 22.00% | ~1,590 |
-| Off We Sail Tonight | 20.00% | ~1,446 |
-| Love You Three Thousand | 15.00% | ~1,084 |
-| Can You Do This Or Not? | 15.00% | ~1,084 |
+| Last Night...Did We... | 93.00% | ~6,728 |
+| I Challenge You To Save More Money! | 88.00% | ~6,366 |
+| I Love How Tough You Are | 74.00% | ~5,353 |
+| Wanna Come To My Place For Dinner? | 67.00% | ~4,847 |
+| What I Want Is You | 61.00% | ~4,413 |
+| To Be Or Not To Be | 58.00% | ~4,196 |
+| Are You Alright? | 49.00% | ~3,545 |
+| Love Actually | 48.00% | ~3,472 |
+| Drama King | 42.00% | ~3,038 |
+| You're Really Something Else | 37.00% | ~2,677 |
+| ONE PUNCH | 35.00% | ~2,532 |
+| Go Clean up In Your Own Way | 35.00% | ~2,532 |
+| Worthless Speech | 35.00% | ~2,532 |
+| Happy Family | 34.00% | ~2,460 |
+| FIRST LOVE | 34.00% | ~2,460 |
+| Drama CP: Reel to Real | 34.00% | ~2,460 |
+| Absolutely Elegant | 33.00% | ~2,387 |
+| Still Single | 32.00% | ~2,315 |
+| Go Get Some Fries On The Pier | 30.00% | ~2,170 |
+| Days Of Innocence | 29.00% | ~2,098 |
+| David | 28.00% | ~2,026 |
+| All I Have Is Money | 25.00% | ~1,808 |
+| Lover In Dark Alley | 24.00% | ~1,736 |
+| A Slap In The Face! | 24.00% | ~1,736 |
+| That's So You | 24.00% | ~1,736 |
+| SALUTE | 23.00% | ~1,664 |
+| Let Me Be Your Toy Boy | 22.00% | ~1,591 |
+| Off We Sail Tonight | 20.00% | ~1,447 |
+| Love You Three Thousand | 15.00% | ~1,085 |
+| Can You Do This Or Not? | 15.00% | ~1,085 |
 | Doesn't Matter I'll Handle It | 13.00% | ~940 |
-| The Flash | 11.00% | ~795 |
-| New Yoga Pose Unlocked | 11.00% | ~795 |
+| The Flash | 11.00% | ~796 |
+| New Yoga Pose Unlocked | 11.00% | ~796 |
 | My Dear Love! | 9.00% | ~651 |
-| Life Is A Rollercoaster | 8.00% | ~578 |
-| Boys Need To Protect Themselves | 8.00% | ~578 |
-| Counting Sheep? | 8.00% | ~578 |
-| This Ain't Right In Many Ways... | 8.00% | ~578 |
+| Life Is A Rollercoaster | 8.00% | ~579 |
+| Boys Need To Protect Themselves | 8.00% | ~579 |
+| Counting Sheep? | 8.00% | ~579 |
+| This Ain't Right In Many Ways... | 8.00% | ~579 |
 | Stubborn Noob | 7.00% | ~506 |
 | Hurrah! | 2.00% | ~145 |
 | Tall; Grande; Venti | 2.00% | ~145 |
 | Limerence | 2.00% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,229 (Ranked 170)  
+Progressed: 7,234 (Ranked 170)  
 Completed: 107 (1.48%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 107 (1.48%) (Ranked 135)
 | 2023-11-04 | 6,692 | 89 |
 | 2023-11-05 | 6,953 | 96 |
 | 2023-11-06 | 7,156 | 107 |
-| 2023-11-07 | 7,229 | 107 |
+| 2023-11-07 | 7,234 | 107 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

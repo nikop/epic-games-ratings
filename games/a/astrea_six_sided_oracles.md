@@ -37,12 +37,12 @@
 | Lacertian Hero | 12.00% | ~8 |
 | The Chaos Artisan | 10.00% | ~7 |
 | The Dark Moon | 10.00% | ~7 |
+| The Distorted Sage | 10.00% | ~7 |
 | Wave Bender | 10.00% | ~7 |
 | Behenian Hero | 10.00% | ~7 |
 | Artificer | 9.00% | ~6 |
 | Can't touch this | 9.00% | ~6 |
 | Denying Destiny | 9.00% | ~6 |
-| The Distorted Sage | 9.00% | ~6 |
 | If I Had Failed... | 7.00% | ~5 |
 | Purification Avatar | 7.00% | ~5 |
 | Sadistic Plan | 7.00% | ~5 |

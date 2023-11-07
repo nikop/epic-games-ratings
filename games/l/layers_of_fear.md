@@ -25,9 +25,9 @@
 | A new way | 9.00% | ~5 |
 | A Slice of Life | 9.00% | ~5 |
 | True Reflection | 9.00% | ~5 |
+| Whispers long forgotten | 9.00% | ~5 |
 | Another perspective | 7.00% | ~4 |
 | Lights! Camera! Action! | 7.00% | ~4 |
-| Whispers long forgotten | 7.00% | ~4 |
 | We Are Not Alone | 5.00% | ~3 |
 | Sound Bite | 5.00% | ~3 |
 | Heavy Burden | 5.00% | ~3 |

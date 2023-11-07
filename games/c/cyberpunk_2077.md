@@ -6,15 +6,16 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,912 |
+| V for Vendetta | 2.00% | ~17,913 |
 | Gun Fu | 0.90% | ~8,061 |
-| Relic Ruler | 0.60% | ~145 |
-| Full Body Conversion | 0.40% | ~3,582 |
-| True Soldier | 0.40% | ~3,582 |
+| Relic Ruler | 0.60% | ~146 |
+| Full Body Conversion | 0.40% | ~3,583 |
+| True Soldier | 0.40% | ~3,583 |
 | Right Back At Ya | 0.30% | ~2,687 |
 | The Quick and the Dead | 0.30% | ~2,687 |
 | Stanislavski's Method | 0.30% | ~2,687 |
 | The Hermit | 0.30% | ~2,687 |
+| The Lovers | 0.30% | ~2,687 |
 | True Warrior | 0.30% | ~2,687 |
 | Spin Doctor | 0.30% | ~73 |
 | All the President's Men | 0.30% | ~73 |
@@ -27,7 +28,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Life of the Road | 0.20% | ~1,791 |
 | The Fool | 0.20% | ~1,791 |
 | The High Priestess | 0.20% | ~1,791 |
-| The Lovers | 0.20% | ~1,791 |
 | The Wheel of Fortune | 0.20% | ~1,791 |
 | The World | 0.20% | ~1,791 |
 | Judy vs Night City | 0.20% | ~1,791 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,624 (Ranked 15)  
+Progressed: 895,627 (Ranked 15)  
 Completed: 2,752 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,10 +275,10 @@ Completed: 2,752 (0.31%) (Ranked 222)
 | 2023-11-04 | 895,267 | 2,744 |
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
-| 2023-11-07 | 895,624 | 2,752 |
+| 2023-11-07 | 895,627 | 2,752 |
 ## Awards
 Max (Character Customization): 104,229  (Ranked 9)  
-Sum: 345,234 (Ranked 10)  
+Sum: 345,291 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -290,7 +290,7 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 19,222 |
 | This game is Extremely Fun | 18,987 |
 | This game has Amazing Characters | 18,870 |
-| This game is Relaxing | 18,117 |
+| This game is Relaxing | 18,174 |
 | This game has Quickly Understood Controls | 18,090 |
 | This game has a Creative Community | 12,552 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -588,4 +588,4 @@ Diff (max vs sum): -1
 | 2023-11-04 | 4.64 | - | 103,855 | 341,961 |
 | 2023-11-05 | 4.64 | - | 104,068 | 343,386 |
 | 2023-11-06 | 4.64 | - | 104,229 | 344,688 |
-| 2023-11-07 | 4.64 | - | 104,229 | 345,234 |
+| 2023-11-07 | 4.64 | - | 104,229 | 345,291 |

@@ -4,8 +4,8 @@
   "ProductSlug": "teamfight-tactics",
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
     "PcReleaseDate": "2019-06-26T18:35:39+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:01.498296+00:00",
   "LastChanged": "2023-03-31T05:57:01.4982961+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:40.5009734+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:03:23.5901743+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:08:15.6355299+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:03:49.1303074+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:08:53.2898996+00:00"
 }

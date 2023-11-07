@@ -4,11 +4,11 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 760,
   "Ranking_Popularity": 439,
-  "Ranking_PopularitySum": 355,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1103,10 +1103,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 306,
       "NumberOfAwardsMax": 47
+    },
+    {
+      "Time": "2023-11-07T11:01:25.3721341+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 307,
+      "NumberOfAwardsMax": 47
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 306,
+  "NumberOfAwards": 307,
   "NumberOfAwardsMax": 47,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1126,7 +1132,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1171,7 +1177,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258138,
+  "EOS_Progressed": 258139,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
@@ -20766,6 +20772,11 @@
       "Time": "2023-11-07T10:06:06.8920668+00:00",
       "NumProgressed": 258138,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-07T11:06:40.0691456+00:00",
+      "NumProgressed": 258139,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -21224,16 +21235,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258138,
+      "Progressed": 258139,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-11-05T10:58:51.6184065+00:00",
-  "LastChanged_Achievements": "2023-11-07T10:06:06.8920662+00:00",
+  "LastChanged": "2023-11-07T11:01:25.3721338+00:00",
+  "LastChanged_Achievements": "2023-11-07T11:06:40.0691452+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:04.7970194+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:01:02.5871583+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:06:06.8922024+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:01:25.3721345+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:06:40.0693709+00:00"
 }

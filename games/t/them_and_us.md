@@ -17,7 +17,7 @@
 | Parasite Exterminated | 13.00% | ~39 |
 | The Cultists | 13.00% | ~39 |
 | The Forgotten Tower | 13.00% | ~39 |
-| Trapped | 10.00% | ~30 |
+| Trapped | 11.00% | ~33 |
 | Lover of classics | 9.00% | ~27 |
 | Modern Player | 9.00% | ~27 |
 | The Curse Is Real | 9.00% | ~27 |

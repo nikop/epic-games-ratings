@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470473,
+  "EOS_Progressed": 470474,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21677,6 +21677,11 @@
       "Time": "2023-11-07T10:09:59.090159+00:00",
       "NumProgressed": 470473,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-07T11:10:39.5517756+00:00",
+      "NumProgressed": 470474,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -21776,7 +21781,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310512
+      "UsersEstimate": 310513
     },
     {
       "ID": "achievement_story_landa",
@@ -22112,7 +22117,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207008
+      "UsersEstimate": 207009
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -22144,7 +22149,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183484
+      "UsersEstimate": 183485
     },
     {
       "ID": "achievement_win_run_hard",
@@ -22319,21 +22324,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14407,
+      "Progressed": 14408,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470473,
+      "Progressed": 470474,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-01T16:00:20.0866796+00:00",
-  "LastChanged_Achievements": "2023-11-07T10:09:59.090158+00:00",
+  "LastChanged_Achievements": "2023-11-07T11:10:39.5517751+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.6471409+00:00",
-  "LastUpdate_Ratings": "2023-11-07T09:59:09.9387523+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:09:59.090326+00:00"
+  "LastUpdate_Ratings": "2023-11-07T10:59:31.4451226+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:10:39.551997+00:00"
 }

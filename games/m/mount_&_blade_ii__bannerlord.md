@@ -16,8 +16,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | King Solomon | 18.00% | ~11,636 |
 | Apple of my eye | 16.00% | ~10,343 |
 | I can do it | 16.00% | ~10,343 |
-| God of the Arena | 13.00% | ~8,403 |
-| This Is Our Land | 13.00% | ~8,403 |
+| God of the Arena | 13.00% | ~8,404 |
+| This Is Our Land | 13.00% | ~8,404 |
 | Against all odds | 12.00% | ~7,757 |
 | Duelist | 10.00% | ~6,464 |
 | Dynasty | 10.00% | ~6,464 |
@@ -38,7 +38,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Supreme Emperor | 1.00% | ~646 |
 | Crackshot | 0.90% | ~582 |
 | Undercover | 0.80% | ~517 |
-| Fat Cat | 0.70% | ~452 |
+| Fat Cat | 0.70% | ~453 |
 | Catch | 0.60% | ~388 |
 | Slice 'n dice | 0.50% | ~323 |
 | Ride it like you stole it | 0.40% | ~259 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,642 (Ranked 103)  
+Progressed: 64,643 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-04 | 64,499 | 0 |
 | 2023-11-05 | 64,565 | 0 |
 | 2023-11-06 | 64,626 | 0 |
-| 2023-11-07 | 64,642 | 0 |
+| 2023-11-07 | 64,643 | 0 |
 ## Awards
 Max (Character Customization): 7,333  (Ranked 51)  
 Sum: 15,154 (Ranked 67)  

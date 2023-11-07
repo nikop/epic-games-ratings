@@ -14724,10 +14724,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 345234,
       "NumberOfAwardsMax": 104229
+    },
+    {
+      "Time": "2023-11-07T11:02:19.3565077+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 345291,
+      "NumberOfAwardsMax": 104229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 345234,
+  "NumberOfAwards": 345291,
   "NumberOfAwardsMax": 104229,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14753,7 +14759,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 18117
+      "Count": 18174
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14804,9 +14810,9 @@
       "Count": 12552
     }
   ],
-  "EOS_Progressed": 895624,
+  "EOS_Progressed": 895627,
   "EOS_Completed": 2752,
-  "EOS_NewPlayers": 1031,
+  "EOS_NewPlayers": 1026,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37544,6 +37550,11 @@
       "Time": "2023-11-07T10:08:22.4424903+00:00",
       "NumProgressed": 895624,
       "NumCompleted": 2752
+    },
+    {
+      "Time": "2023-11-07T11:08:59.8968941+00:00",
+      "NumProgressed": 895627,
+      "NumCompleted": 2752
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37580,7 +37591,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3582
+      "UsersEstimate": 3583
     },
     {
       "ID": "Denied",
@@ -37794,9 +37805,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1791
+      "UsersEstimate": 2687
     },
     {
       "ID": "TheStar",
@@ -37852,7 +37863,7 @@
       "Name": "True Soldier",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3582
+      "UsersEstimate": 3583
     },
     {
       "ID": "TrueWarrior",
@@ -37884,7 +37895,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17912
+      "UsersEstimate": 17913
     },
     {
       "ID": "YipMan",
@@ -37996,7 +38007,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "UltimateSurvivor",
@@ -38091,21 +38102,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895624,
+      "Progressed": 895627,
       "Completed": 2752
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24247,
+      "Progressed": 24250,
       "Completed": 10198
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-07T10:01:55.5198696+00:00",
-  "LastChanged_Achievements": "2023-11-07T10:08:22.4424897+00:00",
+  "LastChanged": "2023-11-07T11:02:19.3565074+00:00",
+  "LastChanged_Achievements": "2023-11-07T11:08:59.8968935+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:01:55.5198701+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:08:22.4426387+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:02:19.3565083+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:08:59.8970901+00:00"
 }

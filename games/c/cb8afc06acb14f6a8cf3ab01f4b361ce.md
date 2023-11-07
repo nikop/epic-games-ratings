@@ -14,19 +14,21 @@ Rating: 4.20 (Ranked 904)
 | We need to talk | 0.10% | ~305 |
 | I feel drawn to it | 0.10% | ~305 |
 | Here to stay | 0.10% | ~305 |
+| Counting on you | 0.10% | ~305 |
 | This is the end | 0.10% | ~305 |
 | We can choose to fight | 0.10% | ~305 |
 | No damsels in distress | 0.10% | ~305 |
 | The touch of Chaos | 0.10% | ~305 |
 | They won't last long | 0.10% | ~305 |
 | Pride is a sin, young Knight | 0.10% | ~305 |
+| Their fate is sealed | 0.10% | ~305 |
+| Not even from this world | 0.10% | ~305 |
 | Your wounds… They are healing so fast! | 0.10% | ~305 |
 | Bring it on! | 0.10% | ~305 |
 | You want more? I've got more! | 0.10% | ~305 |
 | Chaos be damned! | 0.10% | ~305 |
 | I took a risk | 0.10% | ~305 |
 | Let's raise the stakes!! | 0.10% | ~305 |
-| Counting on you | 0.00% | ~0 |
 | The immortal is bound to reborn | 0.00% | ~0 |
 | A legend among Chimeras | 0.00% | ~0 |
 | It's only pain | 0.00% | ~0 |
@@ -37,8 +39,6 @@ Rating: 4.20 (Ranked 904)
 | Through the Veil | 0.00% | ~0 |
 | Call this the Judge's mercy | 0.00% | ~0 |
 | There's too many of them! | 0.00% | ~0 |
-| Their fate is sealed | 0.00% | ~0 |
-| Not even from this world | 0.00% | ~0 |
 | I've been waiting for this! | 0.00% | ~0 |
 | I'm just warming up | 0.00% | ~0 |
 | We learned it the hard way | 0.00% | ~0 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 904)
 | Something... unnatural | 0.00% | ~0 |
 | We strike as one | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,592 (Ranked 49)  
+Progressed: 304,620 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 302,129 | 1 |
 | 2023-11-05 | 303,382 | 1 |
 | 2023-11-06 | 304,252 | 1 |
-| 2023-11-07 | 304,592 | 1 |
+| 2023-11-07 | 304,620 | 1 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 424)  
 Sum: 51 (Ranked 477)  

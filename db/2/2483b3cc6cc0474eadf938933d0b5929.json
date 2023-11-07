@@ -4,8 +4,8 @@
   "ProductSlug": "mimic-b2fb65",
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-05T15:57:03.3576039+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:01:33.5118766+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:07:21.956213+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:01:56.1210172+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:07:57.4390121+00:00"
 }

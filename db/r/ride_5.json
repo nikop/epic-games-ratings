@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2029,
+  "EOS_Progressed": 2030,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4457,6 +4457,11 @@
       "Time": "2023-11-07T10:09:57.2301223+00:00",
       "NumProgressed": 2029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T11:10:37.7367262+00:00",
+      "NumProgressed": 2030,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4469,7 +4474,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4509,7 +4514,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -4821,7 +4826,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4860,14 +4865,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2029,
+      "Progressed": 2030,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-07T10:09:57.230121+00:00",
+  "LastChanged_Achievements": "2023-11-07T11:10:37.7367255+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:01:59.456915+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:09:57.2301832+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:02:23.3991289+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:10:37.7368333+00:00"
 }

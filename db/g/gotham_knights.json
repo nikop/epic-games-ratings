@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4019,9 +4019,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76109,
+  "EOS_Progressed": 76110,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21769,6 +21769,11 @@
       "Time": "2023-11-07T10:06:59.7497362+00:00",
       "NumProgressed": 76109,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-07T11:07:34.5538834+00:00",
+      "NumProgressed": 76110,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22092,7 +22097,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19027
+      "UsersEstimate": 19028
     },
     {
       "ID": "HARLEY_3",
@@ -22108,7 +22113,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12177
+      "UsersEstimate": 12178
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22156,7 +22161,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20549
+      "UsersEstimate": 20550
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -22180,7 +22185,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19027
+      "UsersEstimate": 19028
     },
     {
       "ID": "MYSTERY_03",
@@ -22267,13 +22272,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76109,
+      "Progressed": 76110,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46389,
+      "Progressed": 46390,
       "Completed": 2673
     }
   ],
@@ -22281,8 +22286,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-07T04:58:05.9217971+00:00",
-  "LastChanged_Achievements": "2023-11-07T10:06:59.7497356+00:00",
+  "LastChanged_Achievements": "2023-11-07T11:07:34.5538829+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-07T09:58:31.5986575+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:06:59.7498661+00:00"
+  "LastUpdate_Ratings": "2023-11-07T10:58:49.9373391+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:07:34.5541368+00:00"
 }

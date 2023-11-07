@@ -2,13 +2,13 @@
   "ID": "4912067a5f4f4346b312aa226b2787ac",
   "Name": "Might \u0026 Magic Heroes 3",
   "ProductSlug": "might-and-magic-heroes-3",
-  "Ranking_Rating": 78,
+  "Ranking_Rating": 77,
   "Ranking_Popularity": 283,
   "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": "2015-01-29T16:00:00+00:00",
@@ -2126,10 +2126,16 @@
       "Rating": 4.81,
       "NumberOfAwards": 769,
       "NumberOfAwardsMax": 205
+    },
+    {
+      "Time": "2023-11-07T10:57:44.6112652+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 770,
+      "NumberOfAwardsMax": 205
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 769,
+  "NumberOfAwards": 770,
   "NumberOfAwardsMax": 205,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2197,7 +2203,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 45
+      "Count": 46
     },
     {
       "Text": "This game has a Creative Community",
@@ -2217,8 +2223,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:33.8101196+00:00",
-  "LastChanged": "2023-11-06T21:57:02.7162298+00:00",
+  "LastChanged": "2023-11-07T10:57:44.6112649+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.2530528+00:00",
-  "LastUpdate_Ratings": "2023-11-07T09:57:34.0980099+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:06:19.2088417+00:00"
+  "LastUpdate_Ratings": "2023-11-07T10:57:44.6112657+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:06:52.2396776+00:00"
 }

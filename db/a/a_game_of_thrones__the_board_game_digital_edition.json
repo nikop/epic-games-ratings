@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1314,9 +1314,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27815,
+  "EOS_Progressed": 27817,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 543,
+  "EOS_NewPlayers": 544,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22889,6 +22889,11 @@
       "Time": "2023-11-07T10:09:20.5454897+00:00",
       "NumProgressed": 27815,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-11-07T11:09:59.7913227+00:00",
+      "NumProgressed": 27817,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 22,
@@ -22964,7 +22969,7 @@
       "Name": "What is Dead may Never Die",
       "Percentage": 3,
       "XP": 65,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "1024",
@@ -22996,7 +23001,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2503
+      "UsersEstimate": 2504
     },
     {
       "ID": "1028",
@@ -23036,7 +23041,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11126
+      "UsersEstimate": 11127
     },
     {
       "ID": "1033",
@@ -23044,7 +23049,7 @@
       "Name": "The Swift",
       "Percentage": 3,
       "XP": 120,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "1034",
@@ -23075,15 +23080,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27815,
+      "Progressed": 27817,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-07T10:09:20.5454891+00:00",
+  "LastChanged_Achievements": "2023-11-07T11:09:59.7913219+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0319052+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:03:27.7158406+00:00",
-  "LastUpdate_Achievements": "2023-11-07T10:09:20.5456026+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:03:53.5186022+00:00",
+  "LastUpdate_Achievements": "2023-11-07T11:09:59.7914966+00:00"
 }

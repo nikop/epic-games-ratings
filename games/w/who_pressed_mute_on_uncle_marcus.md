@@ -12,18 +12,18 @@
 | Don't fear the baldness | 41.00% | ~92 |
 | Instinct | 40.00% | ~90 |
 | Blow | 37.00% | ~83 |
-| Just like me | 34.00% | ~76 |
-| I bless the rain down in London | 32.00% | ~72 |
+| Just like me | 35.00% | ~78 |
+| I bless the rain down in London | 33.00% | ~74 |
 | Brown nosing | 29.00% | ~65 |
 | Delusions | 29.00% | ~65 |
 | Cheat | 28.00% | ~63 |
 | Prove it | 27.00% | ~60 |
 | The truth | 27.00% | ~60 |
-| Making a murderer | 19.00% | ~43 |
+| Making a murderer | 20.00% | ~45 |
 | The whole truth | 16.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 224 (Ranked 356)  
-Completed: 23 (10.27%) (Ranked 33)  
+Completed: 24 (10.71%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -85,7 +85,7 @@ Completed: 23 (10.27%) (Ranked 33)
 | 2023-11-04 | 217 | 23 |
 | 2023-11-05 | 222 | 23 |
 | 2023-11-06 | 223 | 23 |
-| 2023-11-07 | 224 | 23 |
+| 2023-11-07 | 224 | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

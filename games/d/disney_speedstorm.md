@@ -5,32 +5,32 @@ Rating: 4.40 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 8.00% | ~22,739 |
-| IT MAKES BOOM! | 5.00% | ~14,212 |
-| EXTRA BOOST | 4.00% | ~11,370 |
-| PROTECTED | 3.00% | ~8,527 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,527 |
-| PRO | 3.00% | ~8,527 |
+| ROOKIE | 8.00% | ~22,742 |
+| IT MAKES BOOM! | 5.00% | ~14,214 |
+| EXTRA BOOST | 4.00% | ~11,371 |
+| PROTECTED | 3.00% | ~8,528 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,528 |
+| PRO | 3.00% | ~8,528 |
 | A TIGER'S FEAR | 2.00% | ~5,685 |
 | AGGRESSIVE RACER | 2.00% | ~5,685 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,842 |
-| ACE SPEEDSTER | 1.00% | ~2,842 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,843 |
+| ACE SPEEDSTER | 1.00% | ~2,843 |
 | RELEASE THE KRAKEN | 0.80% | ~2,274 |
 | DEFEAT OUR CHAMPION | 0.70% | ~1,990 |
 | LEGENDARY HERO | 0.70% | ~1,990 |
-| TRAINING HARD | 0.60% | ~1,705 |
-| BE OUR GUEST | 0.60% | ~1,705 |
-| THE EYE OF THE HUNTER | 0.60% | ~1,705 |
-| FRIENDLY | 0.60% | ~1,705 |
+| TRAINING HARD | 0.60% | ~1,706 |
+| BE OUR GUEST | 0.60% | ~1,706 |
+| THE EYE OF THE HUNTER | 0.60% | ~1,706 |
+| FRIENDLY | 0.60% | ~1,706 |
 | EXPERIENCED CREW | 0.50% | ~1,421 |
 | ACE BRAWLER | 0.40% | ~1,137 |
 | MASTER | 0.40% | ~1,137 |
 | ACE DEFENDER | 0.30% | ~853 |
-| PERFECTLY POISED | 0.20% | ~568 |
-| FRAMED! | 0.20% | ~568 |
-| ACE TRICKSTER | 0.20% | ~568 |
+| PERFECTLY POISED | 0.20% | ~569 |
+| FRAMED! | 0.20% | ~569 |
+| ACE TRICKSTER | 0.20% | ~569 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284,241 (Ranked 52)  
+Progressed: 284,270 (Ranked 52)  
 Completed: 272 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,7 +227,7 @@ Completed: 272 (0.10%) (Ranked 269)
 | 2023-11-04 | 279,553 | 268 |
 | 2023-11-05 | 282,134 | 270 |
 | 2023-11-06 | 283,675 | 271 |
-| 2023-11-07 | 284,241 | 272 |
+| 2023-11-07 | 284,270 | 272 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 415)  
 Sum: 439 (Ranked 330)  

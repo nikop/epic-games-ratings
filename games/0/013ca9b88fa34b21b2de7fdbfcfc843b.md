@@ -6,13 +6,13 @@ Rating: 4.60 (Ranked 409)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 72.00% | ~5,481 |
-| A Thorny Situation | 70.00% | ~5,328 |
-| ... And Spit Back Out | 60.00% | ~4,567 |
+| A Thorny Situation | 70.00% | ~5,329 |
+| ... And Spit Back Out | 60.00% | ~4,568 |
 | Break-Net Speed | 49.00% | ~3,730 |
 | Bramble Breaker | 46.00% | ~3,502 |
-| Miner 49er | 43.00% | ~3,273 |
+| Miner 49er | 43.00% | ~3,274 |
 | Humble Collector | 42.00% | ~3,197 |
-| Calm Sailing | 36.00% | ~2,740 |
+| Calm Sailing | 36.00% | ~2,741 |
 | Open the Gate! | 33.00% | ~2,512 |
 | Mist Walker | 32.00% | ~2,436 |
 | Lumberjack | 26.00% | ~1,979 |
@@ -31,8 +31,8 @@ Rating: 4.60 (Ranked 409)
 | Scattered Scroll Scrounger | 6.00% | ~457 |
 | Azorian Anniversary | 6.00% | ~457 |
 | I Now Pronounce You... | 5.00% | ~381 |
-| Chatty Neighbor | 4.00% | ~304 |
-| House Proud | 4.00% | ~304 |
+| Chatty Neighbor | 4.00% | ~305 |
+| House Proud | 4.00% | ~305 |
 | Right Tool For the Job | 3.00% | ~228 |
 | Captain of Cozy | 2.00% | ~152 |
 | Angling Authority | 1.00% | ~76 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 409)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,612 (Ranked 167)  
+Progressed: 7,613 (Ranked 167)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-04 | 7,539 | 0 |
 | 2023-11-05 | 7,572 | 1 |
 | 2023-11-06 | 7,594 | 1 |
-| 2023-11-07 | 7,612 | 1 |
+| 2023-11-07 | 7,613 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
