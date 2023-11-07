@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77772,
+  "EOS_Progressed": 77774,
   "EOS_Completed": 825,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -22572,6 +22572,11 @@
       "Time": "2023-11-07T11:04:48.0938077+00:00",
       "NumProgressed": 77772,
       "NumCompleted": 825
+    },
+    {
+      "Time": "2023-11-07T12:03:49.3811014+00:00",
+      "NumProgressed": 77774,
+      "NumCompleted": 825
     }
   ],
   "TotalAchievements": 25,
@@ -22655,7 +22660,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15554
+      "UsersEstimate": 15555
     },
     {
       "ID": "Hearty",
@@ -22671,7 +22676,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 6999
+      "UsersEstimate": 7000
     },
     {
       "ID": "Magnetic Miracles",
@@ -22687,7 +22692,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16332
+      "UsersEstimate": 16333
     },
     {
       "ID": "Meaty",
@@ -22735,7 +22740,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10110
+      "UsersEstimate": 10111
     },
     {
       "ID": "Sniper",
@@ -22782,7 +22787,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 77772,
+      "Progressed": 77774,
       "Completed": 825
     }
   ],
@@ -22790,8 +22795,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:04:48.0938073+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:03:49.3811009+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:01:21.8496948+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:04:48.0939882+00:00"
+  "LastUpdate_Ratings": "2023-11-07T12:00:06.8097561+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:03:49.3812607+00:00"
 }

@@ -205,9 +205,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16620,
+  "EOS_Progressed": 16621,
   "EOS_Completed": 173,
-  "EOS_NewPlayers": 1573,
+  "EOS_NewPlayers": 1564,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -8025,6 +8025,11 @@
       "Time": "2023-11-07T11:09:25.6078012+00:00",
       "NumProgressed": 16620,
       "NumCompleted": 173
+    },
+    {
+      "Time": "2023-11-07T12:08:42.4846335+00:00",
+      "NumProgressed": 16621,
+      "NumCompleted": 173
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -8045,7 +8050,7 @@
       "Name": "Everything is Connected",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 9972
+      "UsersEstimate": 9973
     },
     {
       "ID": "achievement_11",
@@ -8053,7 +8058,7 @@
       "Name": "The Holocron Awaits",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 7645
+      "UsersEstimate": 7646
     },
     {
       "ID": "achievement_12",
@@ -8069,7 +8074,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 9141
+      "UsersEstimate": 9142
     },
     {
       "ID": "achievement_14",
@@ -8085,7 +8090,7 @@
       "Name": "Gorgara Falls",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 8476
+      "UsersEstimate": 8477
     },
     {
       "ID": "achievement_16",
@@ -8101,7 +8106,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 7811
+      "UsersEstimate": 7812
     },
     {
       "ID": "achievement_18",
@@ -8157,7 +8162,7 @@
       "Name": "Big Bang",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "achievement_24",
@@ -8165,7 +8170,7 @@
       "Name": "Don\u0027t Mess with BD-1",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 6980
+      "UsersEstimate": 6981
     },
     {
       "ID": "achievement_25",
@@ -8213,7 +8218,7 @@
       "Name": "Legendary Beasts",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3656
+      "UsersEstimate": 3657
     },
     {
       "ID": "achievement_30",
@@ -8245,7 +8250,7 @@
       "Name": "Full House",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 5983
+      "UsersEstimate": 5984
     },
     {
       "ID": "achievement_34",
@@ -8261,7 +8266,7 @@
       "Name": "Sabersmith",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 13296
+      "UsersEstimate": 13297
     },
     {
       "ID": "achievement_36",
@@ -8269,7 +8274,7 @@
       "Name": "The Full Glow-Up",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 8476
+      "UsersEstimate": 8477
     },
     {
       "ID": "achievement_37",
@@ -8325,7 +8330,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 16620
+      "UsersEstimate": 16621
     },
     {
       "ID": "achievement_8",
@@ -8333,7 +8338,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 15457
+      "UsersEstimate": 15458
     },
     {
       "ID": "achievement_9",
@@ -8348,7 +8353,7 @@
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 16620,
+      "Progressed": 16621,
       "Completed": 173
     }
   ],
@@ -8356,8 +8361,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2023-11-03T22:13:33.7394354+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:09:25.6078008+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:08:42.4846331+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:23.5112937+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:01:50.6542801+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:09:25.6078927+00:00"
+  "LastUpdate_Ratings": "2023-11-07T12:00:29.0608587+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:08:42.4846957+00:00"
 }

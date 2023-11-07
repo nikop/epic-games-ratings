@@ -5,51 +5,51 @@ Rating: 4.81 (Ranked 77)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~6,728 |
-| I Challenge You To Save More Money! | 88.00% | ~6,366 |
-| I Love How Tough You Are | 74.00% | ~5,353 |
-| Wanna Come To My Place For Dinner? | 67.00% | ~4,847 |
-| What I Want Is You | 61.00% | ~4,413 |
-| To Be Or Not To Be | 58.00% | ~4,196 |
-| Are You Alright? | 49.00% | ~3,545 |
-| Love Actually | 48.00% | ~3,472 |
-| Drama King | 42.00% | ~3,038 |
-| You're Really Something Else | 37.00% | ~2,677 |
-| ONE PUNCH | 35.00% | ~2,532 |
-| Go Clean up In Your Own Way | 35.00% | ~2,532 |
-| Worthless Speech | 35.00% | ~2,532 |
-| Happy Family | 34.00% | ~2,460 |
-| FIRST LOVE | 34.00% | ~2,460 |
-| Drama CP: Reel to Real | 34.00% | ~2,460 |
-| Absolutely Elegant | 33.00% | ~2,387 |
-| Still Single | 32.00% | ~2,315 |
-| Go Get Some Fries On The Pier | 30.00% | ~2,170 |
-| Days Of Innocence | 29.00% | ~2,098 |
-| David | 28.00% | ~2,026 |
-| All I Have Is Money | 25.00% | ~1,808 |
-| Lover In Dark Alley | 24.00% | ~1,736 |
-| A Slap In The Face! | 24.00% | ~1,736 |
-| That's So You | 24.00% | ~1,736 |
-| SALUTE | 23.00% | ~1,664 |
-| Let Me Be Your Toy Boy | 22.00% | ~1,591 |
-| Off We Sail Tonight | 20.00% | ~1,447 |
-| Love You Three Thousand | 15.00% | ~1,085 |
-| Can You Do This Or Not? | 15.00% | ~1,085 |
-| Doesn't Matter I'll Handle It | 13.00% | ~940 |
-| The Flash | 11.00% | ~796 |
-| New Yoga Pose Unlocked | 11.00% | ~796 |
-| My Dear Love! | 9.00% | ~651 |
-| Life Is A Rollercoaster | 8.00% | ~579 |
-| Boys Need To Protect Themselves | 8.00% | ~579 |
-| Counting Sheep? | 8.00% | ~579 |
-| This Ain't Right In Many Ways... | 8.00% | ~579 |
-| Stubborn Noob | 7.00% | ~506 |
+| Last Night...Did We... | 93.00% | ~6,754 |
+| I Challenge You To Save More Money! | 88.00% | ~6,391 |
+| I Love How Tough You Are | 74.00% | ~5,374 |
+| Wanna Come To My Place For Dinner? | 67.00% | ~4,866 |
+| What I Want Is You | 61.00% | ~4,430 |
+| To Be Or Not To Be | 57.00% | ~4,139 |
+| Are You Alright? | 49.00% | ~3,558 |
+| Love Actually | 48.00% | ~3,486 |
+| Drama King | 42.00% | ~3,050 |
+| You're Really Something Else | 37.00% | ~2,687 |
+| ONE PUNCH | 35.00% | ~2,542 |
+| Go Clean up In Your Own Way | 35.00% | ~2,542 |
+| Worthless Speech | 35.00% | ~2,542 |
+| Happy Family | 34.00% | ~2,469 |
+| FIRST LOVE | 34.00% | ~2,469 |
+| Drama CP: Reel to Real | 34.00% | ~2,469 |
+| Absolutely Elegant | 33.00% | ~2,396 |
+| Still Single | 32.00% | ~2,324 |
+| Go Get Some Fries On The Pier | 30.00% | ~2,179 |
+| Days Of Innocence | 29.00% | ~2,106 |
+| David | 28.00% | ~2,033 |
+| All I Have Is Money | 25.00% | ~1,816 |
+| Lover In Dark Alley | 24.00% | ~1,743 |
+| A Slap In The Face! | 24.00% | ~1,743 |
+| That's So You | 24.00% | ~1,743 |
+| SALUTE | 23.00% | ~1,670 |
+| Let Me Be Your Toy Boy | 22.00% | ~1,598 |
+| Off We Sail Tonight | 20.00% | ~1,452 |
+| Love You Three Thousand | 15.00% | ~1,089 |
+| Can You Do This Or Not? | 15.00% | ~1,089 |
+| Doesn't Matter I'll Handle It | 13.00% | ~944 |
+| The Flash | 11.00% | ~799 |
+| New Yoga Pose Unlocked | 11.00% | ~799 |
+| My Dear Love! | 9.00% | ~654 |
+| Life Is A Rollercoaster | 8.00% | ~581 |
+| Boys Need To Protect Themselves | 8.00% | ~581 |
+| Counting Sheep? | 8.00% | ~581 |
+| This Ain't Right In Many Ways... | 8.00% | ~581 |
+| Stubborn Noob | 7.00% | ~508 |
 | Hurrah! | 2.00% | ~145 |
 | Tall; Grande; Venti | 2.00% | ~145 |
 | Limerence | 2.00% | ~145 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,234 (Ranked 170)  
-Completed: 107 (1.48%) (Ranked 135)  
+Progressed: 7,262 (Ranked 169)  
+Completed: 108 (1.49%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 107 (1.48%) (Ranked 135)
 | 2023-11-04 | 6,692 | 89 |
 | 2023-11-05 | 6,953 | 96 |
 | 2023-11-06 | 7,156 | 107 |
-| 2023-11-07 | 7,234 | 107 |
+| 2023-11-07 | 7,262 | 108 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

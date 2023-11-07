@@ -2354,9 +2354,9 @@
       "ID": "ACH_STAR_1",
       "SetID": "7k95e4n",
       "Name": "Good start",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 20,
-      "UsersEstimate": 849
+      "UsersEstimate": 860
     },
     {
       "ID": "ACH_STAR_2",
@@ -2427,8 +2427,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-06T04:59:47.279974+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:04:53.2791556+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:03:53.0761382+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:07.8664624+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:02:00.9619478+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:04:53.2791889+00:00"
+  "LastUpdate_Ratings": "2023-11-07T12:00:35.9287918+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:03:53.0761656+00:00"
 }

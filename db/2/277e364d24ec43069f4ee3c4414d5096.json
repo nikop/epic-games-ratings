@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113537,
+  "EOS_Progressed": 113539,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 692,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17092,6 +17092,11 @@
       "Time": "2023-11-07T11:09:33.5054335+00:00",
       "NumProgressed": 113537,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-07T12:08:48.4080012+00:00",
+      "NumProgressed": 113539,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 49,
@@ -17111,7 +17116,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87423
+      "UsersEstimate": 87425
     },
     {
       "ID": "EAwards_10",
@@ -17183,7 +17188,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10218
+      "UsersEstimate": 10219
     },
     {
       "ID": "EAwards_19",
@@ -17199,7 +17204,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54498
+      "UsersEstimate": 54499
     },
     {
       "ID": "EAwards_20",
@@ -17295,7 +17300,7 @@
       "Name": "Moves Like Jaguar",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4541
+      "UsersEstimate": 4542
     },
     {
       "ID": "EAwards_31",
@@ -17375,7 +17380,7 @@
       "Name": "Severed",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13624
+      "UsersEstimate": 13625
     },
     {
       "ID": "EAwards_40",
@@ -17471,7 +17476,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13624
+      "UsersEstimate": 13625
     },
     {
       "ID": "EAwards_8",
@@ -17479,7 +17484,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13624
+      "UsersEstimate": 13625
     },
     {
       "ID": "EAwards_9",
@@ -17494,7 +17499,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113537,
+      "Progressed": 113539,
       "Completed": 49
     }
   ],
@@ -17502,8 +17507,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:09:33.505433+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:08:48.4080009+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:59:21.3910228+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:09:33.5056684+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:58:35.1623535+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:08:48.4081139+00:00"
 }

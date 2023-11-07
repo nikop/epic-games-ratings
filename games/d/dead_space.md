@@ -21,7 +21,7 @@ Rating: 4.63 (Ranked 346)
 | Greenhouse Effect | 51.00% | ~815 |
 | Full Arsenal | 45.00% | ~719 |
 | S.O.S. | 44.00% | ~703 |
-| Get Off My Ship! | 42.00% | ~671 |
+| Get Off My Ship! | 43.00% | ~687 |
 | Strange Transmissions | 42.00% | ~671 |
 | Live with the Hot Ones | 41.00% | ~655 |
 | Wreckage | 40.00% | ~639 |

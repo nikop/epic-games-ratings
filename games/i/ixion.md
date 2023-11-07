@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 467)
 | Work Harder | 0.60% | ~20 |
 | Crunch Culture | 0.40% | ~13 |
 | Soylent Green | 0.40% | ~13 |
-| A Junker's Dream | 0.20% | ~7 |
+| A Junker's Dream | 0.30% | ~10 |
 | Scenic View | 0.20% | ~7 |
 | I Give You the Stars | 0.20% | ~3 |
 | This is Fine | 0.10% | ~3 |

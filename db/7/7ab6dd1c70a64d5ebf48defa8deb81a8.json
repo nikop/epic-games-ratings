@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -610,6 +610,11 @@
       "Time": "2023-11-07T09:09:03.3099937+00:00",
       "NumProgressed": 163,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T12:09:36.7982047+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -621,7 +626,7 @@
       "Name": "Break Out",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ACH_02",
@@ -629,7 +634,7 @@
       "Name": "Find Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_03",
@@ -683,9 +688,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_10",
@@ -693,7 +698,7 @@
       "Name": "Trinity",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_11",
@@ -733,7 +738,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_16",
@@ -757,7 +762,7 @@
       "Name": "Shatter Them All",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_19",
@@ -797,7 +802,7 @@
       "Name": "Geared Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_24",
@@ -861,7 +866,7 @@
       "Name": "Stone Collection",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "ACH_33",
@@ -908,14 +913,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:10:36.1710957+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:09:36.7982044+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:02:16.6618733+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:10:36.1711292+00:00"
+  "LastUpdate_Ratings": "2023-11-07T12:00:47.9924632+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:09:36.7982267+00:00"
 }

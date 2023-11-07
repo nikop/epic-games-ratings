@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 225,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1039,9 +1039,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11343,
+  "EOS_Progressed": 11348,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1011,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9209,6 +9209,11 @@
       "Time": "2023-11-07T11:09:25.3422235+00:00",
       "NumProgressed": 11343,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-07T12:08:42.0993527+00:00",
+      "NumProgressed": 11348,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9221,7 +9226,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1134
+      "UsersEstimate": 1135
     },
     {
       "ID": "a_10",
@@ -9269,7 +9274,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4537
+      "UsersEstimate": 4539
     },
     {
       "ID": "a_19",
@@ -9468,7 +9473,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11343,
+      "Progressed": 11348,
       "Completed": 10
     }
   ],
@@ -9476,8 +9481,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-10-31T06:57:44.1710899+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:09:25.342223+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:08:42.0993523+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.8121034+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:01:58.6583651+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:09:25.3423573+00:00"
+  "LastUpdate_Ratings": "2023-11-07T12:00:34.7025615+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:08:42.0993974+00:00"
 }

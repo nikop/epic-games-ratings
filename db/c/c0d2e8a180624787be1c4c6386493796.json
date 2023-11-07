@@ -199,9 +199,9 @@
       "ID": "KR4_ACHIEVEMENT_APEX_PREDATOR",
       "SetID": "caeik3h",
       "Name": "Apex Predator",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_ASRA_MAX",
@@ -231,9 +231,9 @@
       "ID": "KR4_ACHIEVEMENT_BLACKBROTHER",
       "SetID": "caeik3h",
       "Name": "My Watch Begins",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "KR4_ACHIEVEMENT_BLACKBURN_RETURNS",
@@ -359,9 +359,9 @@
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
       "SetID": "caeik3h",
       "Name": "Find Cap",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "KR4_ACHIEVEMENT_FROGGER",
@@ -775,9 +775,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_THING",
       "SetID": "caeik3h",
       "Name": "Get Away From That!",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "KR4_ACHIEVEMENT_TROLL",
@@ -822,8 +822,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:10:04.9281476+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:09:12.7799803+00:00",
   "LastUpdate_AppInfo": "2023-11-02T15:57:21.8803868+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:03:39.857047+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:10:04.9282193+00:00"
+  "LastUpdate_Ratings": "2023-11-07T12:02:58.0373117+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:09:12.780055+00:00"
 }

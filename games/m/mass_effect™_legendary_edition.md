@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~958 |
-| Spectre Inductee | 80.00% | ~815 |
+| Spectre Inductee | 81.00% | ~825 |
 | Medal of Exploration I | 72.00% | ~734 |
 | Recruit | 69.00% | ~703 |
 | Search and Rescue | 68.00% | ~693 |
@@ -52,14 +52,14 @@
 | The Prodigal | 33.00% | ~336 |
 | Shopaholic | 33.00% | ~336 |
 | Battlemaster | 32.00% | ~326 |
+| Catharsis | 32.00% | ~326 |
 | Ghost of the Father | 32.00% | ~326 |
 | The Cure | 32.00% | ~326 |
+| Heart of Darkness | 32.00% | ~326 |
 | Driven | 32.00% | ~326 |
-| Catharsis | 31.00% | ~316 |
 | Fade Away | 31.00% | ~316 |
 | Big Game Hunter | 31.00% | ~316 |
 | Revenge! | 31.00% | ~316 |
-| Heart of Darkness | 31.00% | ~316 |
 | Bringer of War | 31.00% | ~316 |
 | Focused | 30.00% | ~306 |
 | Archivist | 30.00% | ~306 |

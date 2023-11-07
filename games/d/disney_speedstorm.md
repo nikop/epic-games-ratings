@@ -1,18 +1,18 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.40 (Ranked 734)  
+Rating: 4.39 (Ranked 744)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 8.00% | ~22,742 |
-| IT MAKES BOOM! | 5.00% | ~14,214 |
-| EXTRA BOOST | 4.00% | ~11,371 |
-| PROTECTED | 3.00% | ~8,528 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,528 |
-| PRO | 3.00% | ~8,528 |
-| A TIGER'S FEAR | 2.00% | ~5,685 |
-| AGGRESSIVE RACER | 2.00% | ~5,685 |
+| ROOKIE | 8.00% | ~22,745 |
+| IT MAKES BOOM! | 5.00% | ~14,215 |
+| EXTRA BOOST | 4.00% | ~11,372 |
+| PROTECTED | 3.00% | ~8,529 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,529 |
+| PRO | 3.00% | ~8,529 |
+| A TIGER'S FEAR | 2.00% | ~5,686 |
+| AGGRESSIVE RACER | 2.00% | ~5,686 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~2,843 |
 | ACE SPEEDSTER | 1.00% | ~2,843 |
 | RELEASE THE KRAKEN | 0.80% | ~2,274 |
@@ -22,7 +22,7 @@ Rating: 4.40 (Ranked 734)
 | BE OUR GUEST | 0.60% | ~1,706 |
 | THE EYE OF THE HUNTER | 0.60% | ~1,706 |
 | FRIENDLY | 0.60% | ~1,706 |
-| EXPERIENCED CREW | 0.50% | ~1,421 |
+| EXPERIENCED CREW | 0.50% | ~1,422 |
 | ACE BRAWLER | 0.40% | ~1,137 |
 | MASTER | 0.40% | ~1,137 |
 | ACE DEFENDER | 0.30% | ~853 |
@@ -30,7 +30,7 @@ Rating: 4.40 (Ranked 734)
 | FRAMED! | 0.20% | ~569 |
 | ACE TRICKSTER | 0.20% | ~569 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 284,270 (Ranked 52)  
+Progressed: 284,309 (Ranked 52)  
 Completed: 272 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,16 +227,16 @@ Completed: 272 (0.10%) (Ranked 269)
 | 2023-11-04 | 279,553 | 268 |
 | 2023-11-05 | 282,134 | 270 |
 | 2023-11-06 | 283,675 | 271 |
-| 2023-11-07 | 284,270 | 272 |
+| 2023-11-07 | 284,309 | 272 |
 ## Awards
 Max (Great for Beginners): 55  (Ranked 415)  
-Sum: 439 (Ranked 330)  
+Sum: 441 (Ranked 330)  
 Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 55 |
 | This game has Diverse Characters | 54 |
-| This game is Great for Quick Sessions | 52 |
+| This game is Great for Quick Sessions | 54 |
 | This game has Amazing Characters | 43 |
 | This game has a Competitive Community | 38 |
 | This game has Playful Visuals | 36 |
@@ -286,3 +286,4 @@ Diff (max vs sum): 85
 | 2023-11-04 | 4.41 | 51 | 409 |
 | 2023-11-05 | 4.40 | 51 | 422 |
 | 2023-11-06 | 4.40 | 55 | 439 |
+| 2023-11-07 | 4.39 | 55 | 441 |

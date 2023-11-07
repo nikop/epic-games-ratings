@@ -2,12 +2,12 @@
   "ID": "f2d5f78997994c9891b8f23d962be28e",
   "Name": "Lords of the Fallen",
   "ProductSlug": "lords-of-the-fallen",
-  "Ranking_Rating": 891,
-  "Ranking_Popularity": 326,
-  "Ranking_PopularitySum": 385,
+  "Ranking_Rating": 903,
+  "Ranking_Popularity": 323,
+  "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.22,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-10-15T11:58:59.8898367+00:00",
@@ -397,18 +397,24 @@
       "Rating": 4.22,
       "NumberOfAwards": 228,
       "NumberOfAwardsMax": 131
+    },
+    {
+      "Time": "2023-11-07T11:58:55.800388+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 233,
+      "NumberOfAwardsMax": 136
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 228,
-  "NumberOfAwardsMax": 131,
+  "NumberOfAwards": 233,
+  "NumberOfAwardsMax": 136,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 131
+      "Count": 136
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -417,9 +423,9 @@
       "Count": 97
     }
   ],
-  "EOS_Progressed": 1463,
+  "EOS_Progressed": 1464,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -1842,6 +1848,11 @@
       "Time": "2023-11-07T01:48:07.8622748+00:00",
       "NumProgressed": 1463,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T12:03:30.0967918+00:00",
+      "NumProgressed": 1464,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -2357,16 +2368,16 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1463,
+      "Progressed": 1464,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2023-11-06T23:58:54.6338467+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:04:22.0553711+00:00",
+  "LastChanged": "2023-11-07T11:58:55.8003878+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:03:30.0967913+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:22.2529507+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:59:49.2015238+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:04:22.0554482+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:58:55.8003885+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:03:30.0968496+00:00"
 }

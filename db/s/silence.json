@@ -2,9 +2,9 @@
   "ID": "28885ec3cd4d49808b65636c95ee28c1",
   "Name": "Silence",
   "ProductSlug": "silence-57bc4e",
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 141,
+  "EOS_Progressed": 142,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -300,6 +300,11 @@
       "Time": "2023-11-07T11:04:34.5704719+00:00",
       "NumProgressed": 141,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T12:03:39.4018818+00:00",
+      "NumProgressed": 142,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -311,7 +316,7 @@
       "Name": "Artistic master",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "0000_achv_failbalance",
@@ -319,7 +324,7 @@
       "Name": "Artistic fool",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "0000_achv_fallspot",
@@ -341,9 +346,9 @@
       "ID": "0000_achv_gameovertwice",
       "SetID": "dhn82m5",
       "Name": "To err is human...",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "0000_achv_kickEverything",
@@ -375,7 +380,7 @@
       "Name": "Sadist",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "0000_achv_skip_puzzle",
@@ -423,7 +428,7 @@
       "Name": "Shadow on the wall",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "1004_achv_farts",
@@ -431,7 +436,7 @@
       "Name": "Fartjokes!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "1004_achv_wormtooth",
@@ -447,7 +452,7 @@
       "Name": "Chapter I",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "1006_achv_demoliton",
@@ -463,7 +468,7 @@
       "Name": "Fire in the... nevermind",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -471,7 +476,7 @@
       "Name": "Handyman",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "1006_achv_pacifist",
@@ -485,17 +490,17 @@
       "ID": "2001_achv_shrooms",
       "SetID": "dhn82m5",
       "Name": "Keep away from children",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 55
     },
     {
       "ID": "2002_achv_feedfish",
@@ -509,9 +514,9 @@
       "ID": "2002_achv_taste",
       "SetID": "dhn82m5",
       "Name": "Haute cuisine",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 67
     },
     {
       "ID": "2004_achv_abyss",
@@ -519,7 +524,7 @@
       "Name": "Wooooooow!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -527,15 +532,15 @@
       "Name": "The hands of a healer",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "2005n_achv_chapter2",
       "SetID": "dhn82m5",
       "Name": "Chapter II",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "2008_achv_bubble",
@@ -543,7 +548,7 @@
       "Name": "Bubblekillerfamily",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "2008_achv_spotfly",
@@ -557,9 +562,9 @@
       "ID": "2009_achv_deathwheel",
       "SetID": "dhn82m5",
       "Name": "Death is a part of life",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "2009_achv_dreamwheel",
@@ -631,7 +636,7 @@
       "Name": "It\u0027s not easy being green!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "3014_achv_shootgate",
@@ -669,16 +674,16 @@
       "ID": "4004_achv_mirror",
       "SetID": "dhn82m5",
       "Name": "Mirror mirror on the wall...",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 141,
+      "Progressed": 142,
       "Completed": 0
     }
   ],
@@ -686,8 +691,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:04:34.5704713+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:03:39.4018813+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:51.6320481+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:58:11.1307003+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:04:34.5705133+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:57:48.4906564+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:03:39.4019104+00:00"
 }

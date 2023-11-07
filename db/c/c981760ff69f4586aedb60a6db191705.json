@@ -218,9 +218,9 @@
       "ID": "CRYSTAL_UNLOCK_BRONZE",
       "SetID": "af18nmg",
       "Name": "Crystal Claimer (Bronze)",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CRYSTAL_UNLOCK_GOLD",
@@ -242,9 +242,9 @@
       "ID": "DAMAGE_DEALT_BRONZE",
       "SetID": "af18nmg",
       "Name": "Damage Dealer (Bronze)",
-      "Percentage": 20,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "DAMAGE_DEALT_GOLD",
@@ -274,9 +274,9 @@
       "ID": "ENEMY_DESTROY_BRONZE",
       "SetID": "af18nmg",
       "Name": "Robo-Regulator (Bronze)",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ENEMY_DESTROY_GOLD",
@@ -378,9 +378,9 @@
       "ID": "GADGET_UNLOCK_BRONZE",
       "SetID": "af18nmg",
       "Name": "Inspector Gadget (Bronze)",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "GADGET_UNLOCK_GOLD",
@@ -442,9 +442,9 @@
       "ID": "LANGUAGE_FRENCH",
       "SetID": "af18nmg",
       "Name": "Confr\u00E9rie du Croissant",
-      "Percentage": 30,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "LEGENDARY_BUDDYBOT",
@@ -562,9 +562,9 @@
       "ID": "POWERCELL_GATHER_BRONZE",
       "SetID": "af18nmg",
       "Name": "Powercell Gatherer (Bronze)",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "POWERCELL_GATHER_GOLD",
@@ -666,9 +666,9 @@
       "ID": "WRENCH_GATHER_BRONZE",
       "SetID": "af18nmg",
       "Name": "Wrench Picker (Bronze)",
-      "Percentage": 10,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "WRENCH_GATHER_GOLD",
@@ -696,8 +696,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-19T14:04:35.320246+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:06:53.1900691+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:05:25.3558065+00:00",
   "LastUpdate_AppInfo": "2023-11-06T16:57:20.8024249+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:58:00.8532204+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:06:53.1901734+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:57:40.4980254+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:05:25.355869+00:00"
 }

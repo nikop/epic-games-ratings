@@ -14,12 +14,12 @@
 | Cutie Poro | 64.00% | ~341 |
 | The Fire Below the Mountain | 62.00% | ~330 |
 | Moneyball | 58.00% | ~309 |
-| No Bites | 52.00% | ~277 |
+| No Bites | 53.00% | ~282 |
 | Iceborn | 52.00% | ~277 |
-| Tear of Freedom | 48.00% | ~256 |
+| Tear of Freedom | 49.00% | ~261 |
 | Boom Things | 48.00% | ~256 |
-| Rhythm Of Willump | 45.00% | ~240 |
 | My Darkest Day | 44.00% | ~235 |
+| Rhythm Of Willump | 44.00% | ~235 |
 | True Legends | 40.00% | ~213 |
 | The Relentless Storm | 40.00% | ~213 |
 | A Tragic Reminder | 38.00% | ~203 |

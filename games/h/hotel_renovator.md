@@ -5,7 +5,7 @@ Rating: 4.38 (Ranked 760)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start | 76.00% | ~849 |
+| Good start | 77.00% | ~860 |
 | And so it begins | 73.00% | ~815 |
 | No pressure | 70.00% | ~782 |
 | Memento | 62.00% | ~693 |

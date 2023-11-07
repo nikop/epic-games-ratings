@@ -1,7 +1,7 @@
 # The Suicide of Rachel Foster
 [Store](https://store.epicgames.com/en-US/p/the-suicide-of-rachel-foster-1dc01b)  
 [View Rawdata](../../db/t/the_suicide_of_rachel_foster.json)  
-Rating: 4.18 (Ranked 920)  
+Rating: 4.19 (Ranked 912)  
 Number of Ratings: 71  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -247,3 +247,4 @@ Completed: 73 (4.52%) (Ranked 74)
 | 2023-04-30 | 4.18 | - | 0 | 0 |
 | 2023-08-04 | 4.17 | - | 0 | 0 |
 | 2023-09-26 | 4.18 | - | 0 | 0 |
+| 2023-11-07 | 4.19 | - | 0 | 0 |

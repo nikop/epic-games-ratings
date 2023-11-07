@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100229,
+  "EOS_Progressed": 100230,
   "EOS_Completed": 4427,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 120,
   "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
@@ -6523,6 +6523,11 @@
       "Time": "2023-11-07T11:10:14.2293063+00:00",
       "NumProgressed": 100229,
       "NumCompleted": 4427
+    },
+    {
+      "Time": "2023-11-07T12:09:20.1107041+00:00",
+      "NumProgressed": 100230,
+      "NumCompleted": 4427
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -6535,7 +6540,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 63144
+      "UsersEstimate": 63145
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -6567,7 +6572,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 55126
+      "UsersEstimate": 55127
     },
     {
       "ID": "ShipDip",
@@ -6599,7 +6604,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 59135
+      "UsersEstimate": 59136
     },
     {
       "ID": "WeCanDoBetter",
@@ -6607,7 +6612,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 77176
+      "UsersEstimate": 77177
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -6630,7 +6635,7 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 100229,
+      "Progressed": 100230,
       "Completed": 4427
     }
   ],
@@ -6638,8 +6643,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-05T20:03:00.4569456+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:10:14.2293059+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:09:20.1107036+00:00",
   "LastUpdate_AppInfo": "2023-11-02T15:57:20.2519347+00:00",
-  "LastUpdate_Ratings": "2023-11-07T10:02:02.7868377+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:10:14.2293838+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:57:09.7602585+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:09:20.110753+00:00"
 }

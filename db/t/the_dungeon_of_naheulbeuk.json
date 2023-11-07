@@ -1275,9 +1275,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 235726,
+  "EOS_Progressed": 235735,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1544,
+  "EOS_NewPlayers": 1546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17625,6 +17625,11 @@
       "Time": "2023-11-07T11:07:15.5677264+00:00",
       "NumProgressed": 235726,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-07T12:05:42.3222582+00:00",
+      "NumProgressed": 235735,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18068,7 +18073,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11786
+      "UsersEstimate": 11787
     },
     {
       "ID": "ElfEpic",
@@ -18084,7 +18089,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 80147
+      "UsersEstimate": 80150
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18132,7 +18137,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     },
     {
       "ID": "FollowBraztok",
@@ -18339,21 +18344,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 235726,
+      "Progressed": 235735,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 235726,
+      "Progressed": 235735,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-04T01:39:13.702978+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:07:15.5677259+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:05:42.3222578+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:00:00.3774991+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:07:15.5679842+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:59:04.5762513+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:05:42.3223873+00:00"
 }

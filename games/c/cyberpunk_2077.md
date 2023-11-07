@@ -32,9 +32,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.20% | ~1,791 |
 | Judy vs Night City | 0.20% | ~1,791 |
 | Legend of The Afterlife | 0.20% | ~1,791 |
-| King of Wands | 0.20% | ~48 |
-| Dirty Deeds | 0.20% | ~48 |
-| Easy Come, Easy Go | 0.20% | ~48 |
+| King of Wands | 0.20% | ~49 |
+| Dirty Deeds | 0.20% | ~49 |
+| Easy Come, Easy Go | 0.20% | ~49 |
 | City Lights | 0.10% | ~896 |
 | To Bad Decisions! | 0.10% | ~896 |
 | The Wandering Fool | 0.10% | ~896 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,627 (Ranked 15)  
+Progressed: 895,636 (Ranked 15)  
 Completed: 2,752 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 2,752 (0.31%) (Ranked 222)
 | 2023-11-04 | 895,267 | 2,744 |
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
-| 2023-11-07 | 895,627 | 2,752 |
+| 2023-11-07 | 895,636 | 2,752 |
 ## Awards
 Max (Character Customization): 104,229  (Ranked 9)  
 Sum: 345,291 (Ranked 10)  

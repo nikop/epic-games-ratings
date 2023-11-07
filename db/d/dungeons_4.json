@@ -28,9 +28,499 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
+  "TotalAchievements": 61,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ach_main01begin_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Last Stand",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main01begin_die",
+      "SetID": "4hg22ll",
+      "Name": "Thalya\u00A0\u2013 Simply Immortal",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main01begin_storm",
+      "SetID": "4hg22ll",
+      "Name": "Thalya\u0027s Concentrated Fury",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main02horde_completed",
+      "SetID": "4hg22ll",
+      "Name": "Hammer Time, Round Two",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main02horde_creatures",
+      "SetID": "4hg22ll",
+      "Name": "For the Horde!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main02horde_traps",
+      "SetID": "4hg22ll",
+      "Name": "Trap Master",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main03demon_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Hellwoods",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main03demon_doors",
+      "SetID": "4hg22ll",
+      "Name": "Master of Magic",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main03demon_spells",
+      "SetID": "4hg22ll",
+      "Name": "Magic Accidents",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main04undead_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Plains of Strothalm",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main04undead_minions",
+      "SetID": "4hg22ll",
+      "Name": "Minions, Minions!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main04undead_sacrifice",
+      "SetID": "4hg22ll",
+      "Name": "Sacrificial Pit = Garbage Disposal?",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main05evil_completed",
+      "SetID": "4hg22ll",
+      "Name": "Bad Elves Go Everywhere",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main05evil_thalyalevel",
+      "SetID": "4hg22ll",
+      "Name": "Experienced Thalya",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main05evil_unicorn",
+      "SetID": "4hg22ll",
+      "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main06transporter_completed",
+      "SetID": "4hg22ll",
+      "Name": "Heroes\u2019 Gorge",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main06transporter_towers",
+      "SetID": "4hg22ll",
+      "Name": "Mana Cannon",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main06transporter_transport",
+      "SetID": "4hg22ll",
+      "Name": "YOU SHALL NOT PASS!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main07storm_classified",
+      "SetID": "4hg22ll",
+      "Name": "Hard Work",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main07storm_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Ascent",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main07storm_dynamite",
+      "SetID": "4hg22ll",
+      "Name": "Pure Dynamite!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main07storm_storm",
+      "SetID": "4hg22ll",
+      "Name": "It\u0027s Warm and Cozy at Home",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main08sacrifice_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Big Eaty",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main08sacrifice_gorguattack",
+      "SetID": "4hg22ll",
+      "Name": "Hungry, Hungry Gorgu!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main08sacrifice_overfed",
+      "SetID": "4hg22ll",
+      "Name": "Not Even a Tiny Thin Mint Wafer, Thanks!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main09journey_completed",
+      "SetID": "4hg22ll",
+      "Name": "\u201C\u2026 like son\u201D",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main09journey_killheroes",
+      "SetID": "4hg22ll",
+      "Name": "Dungeonlord Gorgu",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main09journey_nospells",
+      "SetID": "4hg22ll",
+      "Name": "Forbidden Knowledge",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main10fire_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Cathedral of Light",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main10fire_freehorde",
+      "SetID": "4hg22ll",
+      "Name": "Unstoppable Horde",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main10fire_naga",
+      "SetID": "4hg22ll",
+      "Name": "Shame! Shame! Shame!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main11blessing_completed",
+      "SetID": "4hg22ll",
+      "Name": "Tanos\u0027 Crusade Against Thalya",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main11blessing_ghostheroes",
+      "SetID": "4hg22ll",
+      "Name": "Ghost Pirates? Ghost Heroes!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main11blessing_undeadonly",
+      "SetID": "4hg22ll",
+      "Name": "Master of the Undead",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main12race_completed",
+      "SetID": "4hg22ll",
+      "Name": "All\u2019s Well That Ends Evil",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main12race_tanosevilness",
+      "SetID": "4hg22ll",
+      "Name": "Stop Tanos!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main12race_torture",
+      "SetID": "4hg22ll",
+      "Name": "My Little Torture Chamber",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main13tanos_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Duel",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main13tanos_dungeonlord",
+      "SetID": "4hg22ll",
+      "Name": "Gorgu is in the Best of Health",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main13tanos_evilbosses",
+      "SetID": "4hg22ll",
+      "Name": "Bonus Evilness",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main14run_completed",
+      "SetID": "4hg22ll",
+      "Name": "If Looks Could Kill",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main14run_mirroruses",
+      "SetID": "4hg22ll",
+      "Name": "Mirror, Mirror",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main14run_roomdamage",
+      "SetID": "4hg22ll",
+      "Name": "Laser Eyes Are So Useless",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main15drill_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Finitude Drill",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main15drill_sabotage",
+      "SetID": "4hg22ll",
+      "Name": "Sabotage!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main15drill_untouchable",
+      "SetID": "4hg22ll",
+      "Name": "Untouchable",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main16ring_completed",
+      "SetID": "4hg22ll",
+      "Name": "Doom Hill",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main16ring_lavalings",
+      "SetID": "4hg22ll",
+      "Name": "Lavalumps on Ice!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main16ring_spawners",
+      "SetID": "4hg22ll",
+      "Name": "Rubble and Ashes",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main17stone_completed",
+      "SetID": "4hg22ll",
+      "Name": "Raiders of the Lost Stone",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main17stone_explosions",
+      "SetID": "4hg22ll",
+      "Name": "Brimstone Shaken, Not Stirred",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main17stone_transporter",
+      "SetID": "4hg22ll",
+      "Name": "No Mana, No Cry",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main18unholy_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Rune Sockets of Finitude (Part 1)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main18unholy_researches",
+      "SetID": "4hg22ll",
+      "Name": "To the Max!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main18unholy_training",
+      "SetID": "4hg22ll",
+      "Name": "To Infinity And Beyond!",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main19war_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Rune Sockets of Finitude (Part 2)",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main19war_heal",
+      "SetID": "4hg22ll",
+      "Name": "Heal Heal Blessing",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main19war_stonedamage",
+      "SetID": "4hg22ll",
+      "Name": "Hands Off My Stones",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main20end_completed",
+      "SetID": "4hg22ll",
+      "Name": "The Last Stand\u00A0- This Time For Real!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main20end_notristan",
+      "SetID": "4hg22ll",
+      "Name": "I Don\u0027t Need Any Help",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ach_main20end_spawners",
+      "SetID": "4hg22ll",
+      "Name": "Evilification",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "4hg22ll",
@@ -40,8 +530,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:07:10.0836691+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:05:38.3005425+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:05.212996+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:01:38.8387199+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:07:10.0836734+00:00"
+  "LastUpdate_Ratings": "2023-11-07T12:00:20.4054643+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:05:38.3333356+00:00"
 }

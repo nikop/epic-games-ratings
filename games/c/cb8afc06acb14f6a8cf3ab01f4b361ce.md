@@ -1,7 +1,7 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.20 (Ranked 904)  
+Rating: 4.20 (Ranked 903)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,7 +18,10 @@ Rating: 4.20 (Ranked 904)
 | This is the end | 0.10% | ~305 |
 | We can choose to fight | 0.10% | ~305 |
 | No damsels in distress | 0.10% | ~305 |
+| It's only pain | 0.10% | ~305 |
 | The touch of Chaos | 0.10% | ~305 |
+| Settle this once and for all | 0.10% | ~305 |
+| The Shade | 0.10% | ~305 |
 | They won't last long | 0.10% | ~305 |
 | Pride is a sin, young Knight | 0.10% | ~305 |
 | Their fate is sealed | 0.10% | ~305 |
@@ -31,11 +34,8 @@ Rating: 4.20 (Ranked 904)
 | Let's raise the stakes!! | 0.10% | ~305 |
 | The immortal is bound to reborn | 0.00% | ~0 |
 | A legend among Chimeras | 0.00% | ~0 |
-| It's only pain | 0.00% | ~0 |
 | I know how to handle it | 0.00% | ~0 |
-| Settle this once and for all | 0.00% | ~0 |
 | The Ashen Knight | 0.00% | ~0 |
-| The Shade | 0.00% | ~0 |
 | Through the Veil | 0.00% | ~0 |
 | Call this the Judge's mercy | 0.00% | ~0 |
 | There's too many of them! | 0.00% | ~0 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 904)
 | Something... unnatural | 0.00% | ~0 |
 | We strike as one | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,620 (Ranked 49)  
+Progressed: 304,656 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 302,129 | 1 |
 | 2023-11-05 | 303,382 | 1 |
 | 2023-11-06 | 304,252 | 1 |
-| 2023-11-07 | 304,620 | 1 |
+| 2023-11-07 | 304,656 | 1 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 424)  
 Sum: 51 (Ranked 477)  

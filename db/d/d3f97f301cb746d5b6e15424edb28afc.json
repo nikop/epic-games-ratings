@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -919,9 +919,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_FISH",
@@ -959,9 +959,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 174
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -983,9 +983,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 168
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -1111,9 +1111,9 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 179
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
@@ -1159,9 +1159,9 @@
       "ID": "GSS_ACH_27_PAINT_01",
       "SetID": "5fn8ia4",
       "Name": "Fresh Coat of Paint",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 179
+      "UsersEstimate": 181
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
@@ -1287,9 +1287,9 @@
       "ID": "GSS_ACH_43_CARAVAN_02",
       "SetID": "5fn8ia4",
       "Name": "Raising the Stakes",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "GSS_ACH_44_CARAVAN_03",
@@ -1367,9 +1367,9 @@
       "ID": "GSS_ACH_53_UPGRADE_WORKSHOP_03",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 3",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "GSS_ACH_54_UPGRADE_WORKSHOP_04",
@@ -1614,8 +1614,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:04:38.4080969+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:03:42.3298289+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:17.0856906+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:01:53.1542804+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:04:38.4082545+00:00"
+  "LastUpdate_Ratings": "2023-11-07T12:00:30.8248868+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:03:42.3299113+00:00"
 }

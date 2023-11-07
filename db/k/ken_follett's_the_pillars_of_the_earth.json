@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16230,
+  "EOS_Progressed": 16231,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -13623,6 +13623,11 @@
       "Time": "2023-11-07T09:03:26.3637098+00:00",
       "NumProgressed": 16230,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-07T12:03:54.4948666+00:00",
+      "NumProgressed": 16231,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13714,7 +13719,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "tpote_achievement_2",
@@ -13786,7 +13791,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "tpote_achievement_28",
@@ -13826,7 +13831,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2921
+      "UsersEstimate": 2922
     },
     {
       "ID": "tpote_achievement_32",
@@ -13946,7 +13951,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "tpote_achievement_9",
@@ -13954,22 +13959,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5518
+      "UsersEstimate": 5519
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16230,
+      "Progressed": 16231,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:04:54.9504919+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:03:54.4948661+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:38.0957248+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:00:20.1822382+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:04:54.9506133+00:00"
+  "LastUpdate_Ratings": "2023-11-07T11:59:20.4370023+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:03:54.4949637+00:00"
 }

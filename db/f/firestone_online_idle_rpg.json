@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -451,9 +451,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2116,
+  "EOS_Progressed": 2117,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6566,6 +6566,11 @@
       "Time": "2023-11-06T18:06:46.5941856+00:00",
       "NumProgressed": 2116,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-07T12:07:04.1538524+00:00",
+      "NumProgressed": 2117,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6721,7 +6726,7 @@
       "Name": "Enchanting skill x5",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "engineermastery",
@@ -6801,7 +6806,7 @@
       "Name": "Guardian Master",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "guildpower",
@@ -6817,7 +6822,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "heroinspection",
@@ -6825,7 +6830,7 @@
       "Name": "Hero inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "howdoyouturnthison",
@@ -7033,7 +7038,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "thealchemist",
@@ -7065,7 +7070,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "thepowerofawakening",
@@ -7081,7 +7086,7 @@
       "Name": "The Unstoppable",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "titanpower",
@@ -7097,7 +7102,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -7137,7 +7142,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1968
+      "UsersEstimate": 1969
     },
     {
       "ID": "warmachinesarmy",
@@ -7161,7 +7166,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "worldmap",
@@ -7176,7 +7181,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2116,
+      "Progressed": 2117,
       "Completed": 2
     }
   ],
@@ -7184,8 +7189,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:09:01.3883772+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:07:04.153852+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:03:13.5285718+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:09:01.388486+00:00"
+  "LastUpdate_Ratings": "2023-11-07T12:00:59.5958521+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:07:04.1539448+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 897,
+  "Ranking_Rating": 896,
   "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 124,
@@ -1314,9 +1314,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27817,
+  "EOS_Progressed": 27818,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 544,
+  "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -22894,6 +22894,11 @@
       "Time": "2023-11-07T11:09:59.7913227+00:00",
       "NumProgressed": 27817,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2023-11-07T12:09:08.7176909+00:00",
+      "NumProgressed": 27818,
+      "NumCompleted": 75
     }
   ],
   "TotalAchievements": 22,
@@ -23025,7 +23030,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5563
+      "UsersEstimate": 5564
     },
     {
       "ID": "1031",
@@ -23033,7 +23038,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3894
+      "UsersEstimate": 3895
     },
     {
       "ID": "1032",
@@ -23080,15 +23085,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27817,
+      "Progressed": 27818,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-07T11:09:59.7913219+00:00",
+  "LastChanged_Achievements": "2023-11-07T12:09:08.7176905+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0319052+00:00",
-  "LastUpdate_Ratings": "2023-11-07T11:03:53.5186022+00:00",
-  "LastUpdate_Achievements": "2023-11-07T11:09:59.7914966+00:00"
+  "LastUpdate_Ratings": "2023-11-07T12:03:08.8271538+00:00",
+  "LastUpdate_Achievements": "2023-11-07T12:09:08.7177962+00:00"
 }
