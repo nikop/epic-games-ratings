@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 116,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -765,9 +765,9 @@
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -829,9 +829,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -892,8 +892,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:09:10.3226466+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:15:05.4152544+00:00",
   "LastUpdate_AppInfo": "2023-10-31T19:56:56.5556567+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:00:01.8352279+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:09:10.3226592+00:00"
+  "LastUpdate_Ratings": "2023-11-07T00:00:03.9018703+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:15:05.4152648+00:00"
 }

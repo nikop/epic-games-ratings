@@ -14,6 +14,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Right Back At Ya | 0.30% | ~2,687 |
 | The Quick and the Dead | 0.30% | ~2,687 |
 | Stanislavski's Method | 0.30% | ~2,687 |
+| True Warrior | 0.30% | ~2,687 |
 | All the President's Men | 0.30% | ~73 |
 | Arachnophobia | 0.30% | ~73 |
 | Bushido and Chill | 0.20% | ~1,791 |
@@ -28,7 +29,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.20% | ~1,791 |
 | The Wheel of Fortune | 0.20% | ~1,791 |
 | The World | 0.20% | ~1,791 |
-| True Warrior | 0.20% | ~1,791 |
 | Judy vs Night City | 0.20% | ~1,791 |
 | Legend of The Afterlife | 0.20% | ~1,791 |
 | Spin Doctor | 0.20% | ~48 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,578 (Ranked 15)  
-Completed: 2,750 (0.31%) (Ranked 222)  
+Progressed: 895,580 (Ranked 15)  
+Completed: 2,751 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -275,6 +275,7 @@ Completed: 2,750 (0.31%) (Ranked 222)
 | 2023-11-04 | 895,267 | 2,744 |
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
+| 2023-11-07 | 895,580 | 2,751 |
 ## Awards
 Max (Character Customization): 104,229  (Ranked 9)  
 Sum: 344,688 (Ranked 10)  

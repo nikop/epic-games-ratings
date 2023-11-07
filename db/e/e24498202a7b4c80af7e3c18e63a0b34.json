@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6687,
+  "EOS_Progressed": 6688,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -5086,6 +5086,11 @@
       "Time": "2023-11-06T23:05:21.7491958+00:00",
       "NumProgressed": 6687,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-07T00:11:20.0178895+00:00",
+      "NumProgressed": 6688,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5098,7 +5103,7 @@
       "Name": "First of Many",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5751
+      "UsersEstimate": 5752
     },
     {
       "ID": "achievement_01_02",
@@ -5138,7 +5143,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3945
+      "UsersEstimate": 3946
     },
     {
       "ID": "achievement_01_07",
@@ -5154,7 +5159,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4948
+      "UsersEstimate": 4949
     },
     {
       "ID": "achievement_01_09",
@@ -5162,7 +5167,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2875
+      "UsersEstimate": 2876
     },
     {
       "ID": "achievement_01_10",
@@ -5170,7 +5175,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3611
+      "UsersEstimate": 3612
     },
     {
       "ID": "achievement_02_01",
@@ -5202,7 +5207,7 @@
       "Name": "Master Champion",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_02_05",
@@ -5242,7 +5247,7 @@
       "Name": "USA - Check!",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "achievement_03_02",
@@ -5274,7 +5279,7 @@
       "Name": "Thailand - Check!",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "achievement_03_06",
@@ -5346,7 +5351,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "achievement_04_04",
@@ -5384,9 +5389,9 @@
       "ID": "achievement_04_08",
       "SetID": "4f1m94d",
       "Name": "Trigger-Happy",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 5751
+      "UsersEstimate": 5685
     },
     {
       "ID": "achievement_04_09",
@@ -5401,7 +5406,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6687,
+      "Progressed": 6688,
       "Completed": 35
     }
   ],
@@ -5409,8 +5414,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:05:21.7491954+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:11:20.0178892+00:00",
   "LastUpdate_AppInfo": "2023-11-02T20:57:08.8119241+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:01:14.6399979+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:05:21.7492644+00:00"
+  "LastUpdate_Ratings": "2023-11-07T00:04:13.7820728+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:11:20.0179465+00:00"
 }

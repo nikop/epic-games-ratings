@@ -6,7 +6,7 @@
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 155,
+  "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
@@ -7823,10 +7823,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32363,
       "NumberOfAwardsMax": 5482
+    },
+    {
+      "Time": "2023-11-07T00:04:13.5868124+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32367,
+      "NumberOfAwardsMax": 5482
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32363,
+  "NumberOfAwards": 32367,
   "NumberOfAwardsMax": 5482,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7864,7 +7870,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4196
+      "Count": 4200
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7873,9 +7879,9 @@
       "Count": 3509
     }
   ],
-  "EOS_Progressed": 233851,
+  "EOS_Progressed": 233856,
   "EOS_Completed": 2434,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -30283,6 +30289,11 @@
       "Time": "2023-11-06T23:04:39.5088567+00:00",
       "NumProgressed": 233851,
       "NumCompleted": 2434
+    },
+    {
+      "Time": "2023-11-07T00:10:20.8282579+00:00",
+      "NumProgressed": 233856,
+      "NumCompleted": 2434
     }
   ],
   "TotalAchievements": 532,
@@ -34532,9 +34543,9 @@
       "ID": "objective_completed_1552",
       "SetID": "415jc5c",
       "Name": "The End is the Beginning",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1401
     },
     {
       "ID": "objective_completed_1553",
@@ -34542,28 +34553,28 @@
       "Name": "See You on the Flipside",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 200125,
+      "Progressed": 200130,
       "Completed": 3892
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 233851,
+      "Progressed": 233856,
       "Completed": 2434
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-06T22:00:16.4048143+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:04:39.5088564+00:00",
+  "LastChanged": "2023-11-07T00:04:13.5868122+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:10:20.8282575+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.9071998+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:01:14.5224476+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:04:39.511104+00:00"
+  "LastUpdate_Ratings": "2023-11-07T00:04:13.586813+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:10:20.8304447+00:00"
 }

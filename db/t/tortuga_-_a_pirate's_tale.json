@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16919,
+  "EOS_Progressed": 16920,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -6093,6 +6093,11 @@
       "Time": "2023-11-06T23:05:34.9749275+00:00",
       "NumProgressed": 16919,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T00:11:38.9486958+00:00",
+      "NumProgressed": 16920,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6104,7 +6109,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16073
+      "UsersEstimate": 16074
     },
     {
       "ID": "ACH001",
@@ -6112,7 +6117,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14550
+      "UsersEstimate": 14551
     },
     {
       "ID": "ACH0010",
@@ -6136,7 +6141,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8290
+      "UsersEstimate": 8291
     },
     {
       "ID": "ACH0013",
@@ -6144,7 +6149,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3891
+      "UsersEstimate": 3892
     },
     {
       "ID": "ACH0014",
@@ -6256,7 +6261,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9305
+      "UsersEstimate": 9306
     },
     {
       "ID": "ACH004",
@@ -6311,7 +6316,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16919,
+      "Progressed": 16920,
       "Completed": 1
     }
   ],
@@ -6319,8 +6324,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-22T02:57:48.4170494+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:05:34.9749271+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:11:38.9486955+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:07.1150824+00:00",
-  "LastUpdate_Ratings": "2023-11-06T22:58:55.370661+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:05:34.9749695+00:00"
+  "LastUpdate_Ratings": "2023-11-06T23:58:27.343381+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:11:38.9487436+00:00"
 }

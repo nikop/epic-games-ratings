@@ -16,8 +16,8 @@
 | Scholar | 21.00% | ~33 |
 | I Found It | 21.00% | ~33 |
 | Geared Up | 19.00% | ~29 |
+| Stone Collection | 19.00% | ~29 |
 | Tributes of Caladrias | 18.00% | ~28 |
-| Stone Collection | 17.00% | ~26 |
 | Essence Blow | 12.00% | ~19 |
 | Big Bazar | 8.00% | ~12 |
 | Alchemist | 8.00% | ~12 |

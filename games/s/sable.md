@@ -6,45 +6,45 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~33,256 |
-| Just The Two of Us | 32.00% | ~31,300 |
-| Up On High | 25.00% | ~24,453 |
-| Under The Hood | 25.00% | ~24,453 |
-| Got Your Nose | 24.00% | ~23,475 |
-| The Gift of Gab | 24.00% | ~23,475 |
-| Wrapping Up | 22.00% | ~21,519 |
-| More Than A Box Of Sand | 18.00% | ~17,606 |
-| The Dunboyne | 17.00% | ~16,628 |
-| Badge Hobbyist | 17.00% | ~16,628 |
-| Chum Novice | 16.00% | ~15,650 |
-| Silver-Tongued Sable | 16.00% | ~15,650 |
-| Sticky Paws | 16.00% | ~15,650 |
-| Bubble Up | 16.00% | ~15,650 |
-| Thread The Needle | 15.00% | ~14,672 |
-| Power to the People | 14.00% | ~13,694 |
-| Nesting Giant | 14.00% | ~13,694 |
-| Take That! | 13.00% | ~12,716 |
-| Treasure Tracker | 13.00% | ~12,716 |
-| Big Spender | 13.00% | ~12,716 |
-| Badge Collector | 12.00% | ~11,738 |
-| Quite The Catch | 12.00% | ~11,738 |
-| Rowleys Way | 11.00% | ~10,759 |
-| The Machinist Mask | 10.00% | ~9,781 |
-| The Cartographer Mask | 10.00% | ~9,781 |
-| Balfron Connection | 10.00% | ~9,781 |
-| Ceiling Of Stars | 10.00% | ~9,781 |
-| Playing Dress Up | 10.00% | ~9,781 |
-| Many Different Faces | 9.00% | ~8,803 |
-| Trellick's Pillar | 9.00% | ~8,803 |
-| Centre Of Brunswick | 9.00% | ~8,803 |
-| Bike Collector | 9.00% | ~8,803 |
-| Dune Rider | 9.00% | ~8,803 |
-| Not That Kind Of Gliding | 9.00% | ~8,803 |
-| The Scrapper Mask | 8.00% | ~7,825 |
-| Shadow Of Neave | 8.00% | ~7,825 |
-| Fragile Goods | 8.00% | ~7,825 |
-| Glider on the Storm | 8.00% | ~7,825 |
-| Squeeze One Out | 8.00% | ~7,825 |
+| Simoon | 34.00% | ~33,259 |
+| Just The Two of Us | 32.00% | ~31,303 |
+| Up On High | 25.00% | ~24,455 |
+| Under The Hood | 25.00% | ~24,455 |
+| Got Your Nose | 24.00% | ~23,477 |
+| The Gift of Gab | 24.00% | ~23,477 |
+| Wrapping Up | 22.00% | ~21,521 |
+| More Than A Box Of Sand | 18.00% | ~17,608 |
+| The Dunboyne | 17.00% | ~16,630 |
+| Badge Hobbyist | 17.00% | ~16,630 |
+| Chum Novice | 16.00% | ~15,651 |
+| Silver-Tongued Sable | 16.00% | ~15,651 |
+| Sticky Paws | 16.00% | ~15,651 |
+| Bubble Up | 16.00% | ~15,651 |
+| Thread The Needle | 15.00% | ~14,673 |
+| Power to the People | 14.00% | ~13,695 |
+| Nesting Giant | 14.00% | ~13,695 |
+| Take That! | 13.00% | ~12,717 |
+| Treasure Tracker | 13.00% | ~12,717 |
+| Big Spender | 13.00% | ~12,717 |
+| Badge Collector | 12.00% | ~11,739 |
+| Quite The Catch | 12.00% | ~11,739 |
+| Rowleys Way | 11.00% | ~10,760 |
+| The Machinist Mask | 10.00% | ~9,782 |
+| The Cartographer Mask | 10.00% | ~9,782 |
+| Balfron Connection | 10.00% | ~9,782 |
+| Ceiling Of Stars | 10.00% | ~9,782 |
+| Playing Dress Up | 10.00% | ~9,782 |
+| Many Different Faces | 9.00% | ~8,804 |
+| Trellick's Pillar | 9.00% | ~8,804 |
+| Centre Of Brunswick | 9.00% | ~8,804 |
+| Bike Collector | 9.00% | ~8,804 |
+| Dune Rider | 9.00% | ~8,804 |
+| Not That Kind Of Gliding | 9.00% | ~8,804 |
+| The Scrapper Mask | 8.00% | ~7,826 |
+| Shadow Of Neave | 8.00% | ~7,826 |
+| Fragile Goods | 8.00% | ~7,826 |
+| Glider on the Storm | 8.00% | ~7,826 |
+| Squeeze One Out | 8.00% | ~7,826 |
 | Amateur Historian | 7.00% | ~6,847 |
 | The Beetle Mask | 7.00% | ~6,847 |
 | The Guard Mask | 7.00% | ~6,847 |
@@ -58,12 +58,12 @@ Number of Ratings: 43  (23.09.2022)
 | The Entertainer Mask | 5.00% | ~4,891 |
 | The Quick and the Curious | 4.00% | ~3,913 |
 | Bike Aficionado | 4.00% | ~3,913 |
-| Chum Expert | 3.00% | ~2,934 |
-| Gastric Bypass | 3.00% | ~2,934 |
-| The Angler Mask | 3.00% | ~2,934 |
+| Chum Expert | 3.00% | ~2,935 |
+| Gastric Bypass | 3.00% | ~2,935 |
+| The Angler Mask | 3.00% | ~2,935 |
 | Vivacious Vivarium | 2.00% | ~1,956 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 97,813 (Ranked 87)  
+Progressed: 97,821 (Ranked 87)  
 Completed: 990 (1.01%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,6 +264,7 @@ Completed: 990 (1.01%) (Ranked 156)
 | 2023-11-04 | 97,464 | 988 |
 | 2023-11-05 | 97,674 | 989 |
 | 2023-11-06 | 97,813 | 990 |
+| 2023-11-07 | 97,821 | 990 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 515)  
 Sum: 91 (Ranked 445)  

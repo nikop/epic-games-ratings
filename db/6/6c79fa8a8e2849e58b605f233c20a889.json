@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2837,
+  "EOS_Progressed": 2838,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7169,6 +7169,11 @@
       "Time": "2023-11-06T15:08:38.047909+00:00",
       "NumProgressed": 2837,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T00:14:52.1837136+00:00",
+      "NumProgressed": 2838,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7196,7 +7201,7 @@
       "Name": "Bot Destroyer",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "CLUMSY",
@@ -7236,7 +7241,7 @@
       "Name": "Face-To-Screen-To-Face",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "FEUD_APPRENTICE",
@@ -7260,7 +7265,7 @@
       "Name": "Novice",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "GLOVE_SLAP",
@@ -7284,7 +7289,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "GUARD_MAKER",
@@ -7355,14 +7360,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2837,
+      "Progressed": 2838,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:09:01.3559338+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:14:52.1837131+00:00",
   "LastUpdate_AppInfo": "2023-11-01T04:57:15.2432377+00:00",
-  "LastUpdate_Ratings": "2023-11-06T22:58:34.6324524+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:09:01.3559798+00:00"
+  "LastUpdate_Ratings": "2023-11-06T23:57:56.7196803+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:14:52.1837637+00:00"
 }

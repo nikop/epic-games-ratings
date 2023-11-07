@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 79,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3191,7 +3191,7 @@
       "Count": 323
     }
   ],
-  "EOS_Progressed": 17229,
+  "EOS_Progressed": 17230,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 1,
@@ -13201,6 +13201,11 @@
       "Time": "2023-11-06T23:06:50.5864704+00:00",
       "NumProgressed": 17229,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-07T00:13:25.2785648+00:00",
+      "NumProgressed": 17230,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13348,7 +13353,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "WinNearCrystals",
@@ -13372,7 +13377,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "WinNearFishmen",
@@ -13428,7 +13433,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "WinNearRuins",
@@ -13468,7 +13473,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "WinOnCoral",
@@ -13524,7 +13529,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "WinWIthCaches",
@@ -13611,15 +13616,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17229,
+      "Progressed": 17230,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-06T06:58:20.5242022+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:06:50.58647+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:13:25.2785642+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-06T22:59:04.6141316+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:06:50.5865458+00:00"
+  "LastUpdate_Ratings": "2023-11-06T23:58:41.6035861+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:13:25.2786388+00:00"
 }

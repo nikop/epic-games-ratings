@@ -10,11 +10,11 @@
 | Do what you have to | 41.00% | ~23 |
 | The artist’s impression | 39.00% | ~22 |
 | Scraps of love | 38.00% | ~21 |
+| Refuse to look | 36.00% | ~20 |
 | It's covered up for a reason | 34.00% | ~19 |
-| Refuse to look | 34.00% | ~19 |
 | Sign of weakness | 32.00% | ~18 |
 | Finished it | 29.00% | ~16 |
-| Face your fears | 18.00% | ~10 |
+| Face your fears | 20.00% | ~11 |
 | First steps | 14.00% | ~8 |
 | Playtime | 14.00% | ~8 |
 | Tough conversation | 14.00% | ~8 |

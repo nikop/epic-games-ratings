@@ -10,13 +10,13 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 197.00% | ~463 |
 | Greeno-B-Gone | 114.00% | ~268 |
 | Your Especially Earned Trajectory | 91.00% | ~214 |
+| Can We Keep It? | 57.00% | ~134 |
 | No Mountain Wide Enough | 57.00% | ~134 |
-| Can We Keep It? | 56.00% | ~132 |
 | On that Grindset | 54.00% | ~127 |
 | My Time Mansion | 41.00% | ~96 |
-| Pack Mule | 38.00% | ~89 |
+| Pack Mule | 39.00% | ~92 |
+| Financially Secure | 37.00% | ~87 |
 | Yakmel Whisperer | 37.00% | ~87 |
-| Financially Secure | 36.00% | ~85 |
 | Diamonds are Forever | 35.00% | ~82 |
 | Happier-est Place on Earth | 34.00% | ~80 |
 | Mole Masher | 34.00% | ~80 |
@@ -31,9 +31,9 @@ Number of Ratings: 892  (23.09.2022)
 | Got Served | 29.00% | ~68 |
 | Finishing Touches | 27.00% | ~63 |
 | What Plants Crave | 27.00% | ~63 |
-| Officially Official | 26.00% | ~61 |
+| Officially Official | 27.00% | ~63 |
 | One of the Cool Kids | 25.00% | ~59 |
-| Chatterbox | 23.00% | ~54 |
+| Chatterbox | 24.00% | ~56 |
 | Jewel of the Eufaula | 21.00% | ~49 |
 | First Love | 21.00% | ~49 |
 | Panda-kin | 20.00% | ~47 |
@@ -49,13 +49,13 @@ Number of Ratings: 892  (23.09.2022)
 | Do Your Part | 11.00% | ~26 |
 | Commissions, commissions...! | 10.00% | ~24 |
 | Santa In Training | 10.00% | ~24 |
+| Jack of All Trades | 9.00% | ~21 |
 | Time Flies | 9.00% | ~21 |
 | Kind of a Big Deal | 9.00% | ~21 |
 | Lifeline Pipeline | 9.00% | ~21 |
 | Got the Flow Back | 9.00% | ~21 |
 | Cardistry | 9.00% | ~21 |
 | Pro Gamer | 9.00% | ~21 |
-| Jack of All Trades | 8.00% | ~19 |
 | Sandrunning Speedster | 7.00% | ~16 |
 | It Belongs in a Museum! | 7.00% | ~16 |
 | It's High Noon... | 6.00% | ~14 |

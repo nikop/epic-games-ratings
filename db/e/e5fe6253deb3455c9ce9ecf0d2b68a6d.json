@@ -4,7 +4,7 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 295,
+  "EOS_Progressed": 296,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1109,6 +1109,11 @@
       "Time": "2023-11-06T20:14:57.8556343+00:00",
       "NumProgressed": 295,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T00:12:16.3813888+00:00",
+      "NumProgressed": 296,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -1159,9 +1164,9 @@
       "ID": "Last_second",
       "SetID": "cjfnji1",
       "Name": "In the last second",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 166
     },
     {
       "ID": "Master",
@@ -1209,7 +1214,7 @@
       "Name": "Tangentially",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "USSR",
@@ -1232,14 +1237,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 295,
+      "Progressed": 296,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:06:02.1254921+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:12:16.3813886+00:00",
   "LastUpdate_AppInfo": "2023-10-30T23:57:11.9435893+00:00",
-  "LastUpdate_Ratings": "2023-11-06T22:59:15.4557042+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:06:02.1255068+00:00"
+  "LastUpdate_Ratings": "2023-11-06T23:58:55.5702277+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:12:16.3814016+00:00"
 }

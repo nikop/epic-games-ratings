@@ -8293,10 +8293,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28170,
       "NumberOfAwardsMax": 7579
+    },
+    {
+      "Time": "2023-11-07T00:03:02.1455253+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28171,
+      "NumberOfAwardsMax": 7579
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28170,
+  "NumberOfAwards": 28171,
   "NumberOfAwardsMax": 7579,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8322,7 +8328,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1686
+      "Count": 1687
     },
     {
       "Text": "This game has Diverse Characters",
@@ -8379,9 +8385,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 807450,
+  "EOS_Progressed": 807452,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 849,
+  "EOS_NewPlayers": 847,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30844,6 +30850,11 @@
       "Time": "2023-11-06T23:03:58.8825313+00:00",
       "NumProgressed": 807450,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-07T00:09:21.6469997+00:00",
+      "NumProgressed": 807452,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -30863,7 +30874,7 @@
       "Name": "Woman\u0027s Lot",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "Alcoholic",
@@ -30887,7 +30898,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169564
+      "UsersEstimate": 169565
     },
     {
       "ID": "BadGirl",
@@ -30903,7 +30914,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40372
+      "UsersEstimate": 40373
     },
     {
       "ID": "Bailiff",
@@ -30935,7 +30946,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258384
+      "UsersEstimate": 258385
     },
     {
       "ID": "Bookworm",
@@ -30967,7 +30978,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201862
+      "UsersEstimate": 201863
     },
     {
       "ID": "Chivalrous",
@@ -30975,7 +30986,7 @@
       "Name": "Chivalrous Soul",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "ChristianBurial",
@@ -31047,7 +31058,7 @@
       "Name": "Spoilsport",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "Fatso",
@@ -31079,7 +31090,7 @@
       "Name": "Freud",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "FriendsWithoutBenefits",
@@ -31103,7 +31114,7 @@
       "Name": "Gambler",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "GameIsOver",
@@ -31135,7 +31146,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72670
+      "UsersEstimate": 72671
     },
     {
       "ID": "HardcoreHenry",
@@ -31175,7 +31186,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104968
+      "UsersEstimate": 104969
     },
     {
       "ID": "Judas",
@@ -31239,7 +31250,7 @@
       "Name": "Master Huntsman",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "MasterOfArena",
@@ -31279,7 +31290,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40372
+      "UsersEstimate": 40373
     },
     {
       "ID": "NotSoChristianBurial",
@@ -31383,7 +31394,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40372
+      "UsersEstimate": 40373
     },
     {
       "ID": "Sinner",
@@ -31407,7 +31418,7 @@
       "Name": "Stealth Killer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "TalmbergPreparation",
@@ -31510,15 +31521,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 807450,
+      "Progressed": 807452,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-06T20:10:11.0834409+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:03:58.8825309+00:00",
+  "LastChanged": "2023-11-07T00:03:02.1455251+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:09:21.6469992+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.089213+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:01:01.9915144+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:03:58.8826699+00:00"
+  "LastUpdate_Ratings": "2023-11-07T00:03:02.1455258+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:09:21.6471528+00:00"
 }

@@ -24,6 +24,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm Hooked! | 0.10% | ~6 |
 | Diamond in the Rough | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
+| Rod and Troll | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
 | Aguas Claras Conquistador | 0.10% | ~6 |
 | Hook, Line and Sinker | 0.00% | ~0 |
@@ -38,7 +39,6 @@ Number of Ratings: 281  (23.09.2022)
 | Lost and Flounder | 0.00% | ~0 |
 | Buckaroo | 0.00% | ~0 |
 | Gonna Need a Bigger Boat | 0.00% | ~0 |
-| Rod and Troll | 0.00% | ~0 |
 | Norway Jose | 0.00% | ~0 |
 | Trollsporet Tale Teller | 0.00% | ~0 |
 | Fish upon a Star | 0.00% | ~0 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | All Good Kings Must Come to an End | 0.00% | ~0 |
 | Three Square Meals | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,408 (Ranked 177)  
+Progressed: 6,409 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,6 +248,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-04 | 6,326 | 0 |
 | 2023-11-05 | 6,377 | 0 |
 | 2023-11-06 | 6,408 | 0 |
+| 2023-11-07 | 6,409 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 190 (Ranked 402)  

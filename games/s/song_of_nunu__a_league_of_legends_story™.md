@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~392 |
-| I Broke It | 70.00% | ~366 |
+| I Broke It | 71.00% | ~371 |
 | Better On Ice | 69.00% | ~361 |
 | He's Famous! | 68.00% | ~356 |
 | Notai Notes | 68.00% | ~356 |
@@ -17,25 +17,25 @@
 | Iceborn | 52.00% | ~272 |
 | No Bites | 51.00% | ~267 |
 | Tear of Freedom | 48.00% | ~251 |
-| Boom Things | 47.00% | ~246 |
+| Boom Things | 48.00% | ~251 |
+| Rhythm Of Willump | 45.00% | ~235 |
 | My Darkest Day | 44.00% | ~230 |
-| Rhythm Of Willump | 44.00% | ~230 |
 | True Legends | 40.00% | ~209 |
 | The Relentless Storm | 40.00% | ~209 |
 | A Tragic Reminder | 38.00% | ~199 |
 | The Finisher | 38.00% | ~199 |
 | 3000 Year Blackout | 37.00% | ~194 |
+| On The Rocks | 34.00% | ~178 |
 | So Close | 33.00% | ~173 |
 | You Get Used To It | 33.00% | ~173 |
-| On The Rocks | 33.00% | ~173 |
 | Never Gets Old | 33.00% | ~173 |
 | Snowy Poro | 32.00% | ~167 |
 | Bullseye | 32.00% | ~167 |
+| Family | 30.00% | ~157 |
+| Biggest Snowball Ever | 30.00% | ~157 |
 | Freeze The Ice Witch | 30.00% | ~157 |
 | Boosted! | 30.00% | ~157 |
-| Family | 29.00% | ~152 |
-| Biggest Snowball Ever | 29.00% | ~152 |
-| Deadliest and Biggest Snowball Ever! | 29.00% | ~152 |
+| Deadliest and Biggest Snowball Ever! | 30.00% | ~157 |
 | It Is Not Over | 28.00% | ~146 |
 | Vertical Power | 28.00% | ~146 |
 | One From The Heart | 14.00% | ~73 |

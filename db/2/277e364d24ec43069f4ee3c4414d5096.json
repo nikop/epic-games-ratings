@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113508,
+  "EOS_Progressed": 113511,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 697,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17042,6 +17042,11 @@
       "Time": "2023-11-06T23:08:42.1489597+00:00",
       "NumProgressed": 113508,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-07T00:14:25.0114988+00:00",
+      "NumProgressed": 113511,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 49,
@@ -17061,7 +17066,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87401
+      "UsersEstimate": 87403
     },
     {
       "ID": "EAwards_10",
@@ -17077,7 +17082,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29512
+      "UsersEstimate": 29513
     },
     {
       "ID": "EAwards_12",
@@ -17085,7 +17090,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17026
+      "UsersEstimate": 17027
     },
     {
       "ID": "EAwards_13",
@@ -17125,7 +17130,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 41998
+      "UsersEstimate": 41999
     },
     {
       "ID": "EAwards_18",
@@ -17141,7 +17146,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6810
+      "UsersEstimate": 6811
     },
     {
       "ID": "EAwards_2",
@@ -17149,7 +17154,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54484
+      "UsersEstimate": 54485
     },
     {
       "ID": "EAwards_20",
@@ -17173,7 +17178,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6810
+      "UsersEstimate": 6811
     },
     {
       "ID": "EAwards_23",
@@ -17444,7 +17449,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113508,
+      "Progressed": 113511,
       "Completed": 49
     }
   ],
@@ -17452,8 +17457,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:08:42.1489593+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:14:25.0114984+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-06T22:58:55.8434132+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:08:42.1490625+00:00"
+  "LastUpdate_Ratings": "2023-11-06T23:58:27.896937+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:14:25.0116104+00:00"
 }

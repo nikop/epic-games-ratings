@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18790,
+  "EOS_Progressed": 18791,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12683,6 +12683,11 @@
       "Time": "2023-11-06T19:06:35.8336164+00:00",
       "NumProgressed": 18790,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-07T00:12:16.3081514+00:00",
+      "NumProgressed": 18791,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12782,7 +12787,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3007
     },
     {
       "ID": "0013",
@@ -12798,7 +12803,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3006
+      "UsersEstimate": 3007
     },
     {
       "ID": "0015",
@@ -12981,7 +12986,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18790,
+      "Progressed": 18791,
       "Completed": 4
     }
   ],
@@ -12989,8 +12994,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:06:02.096858+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:12:16.3081511+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.0347505+00:00",
-  "LastUpdate_Ratings": "2023-11-06T22:59:49.2764709+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:06:02.0969572+00:00"
+  "LastUpdate_Ratings": "2023-11-06T23:59:45.7577072+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:12:16.3082688+00:00"
 }

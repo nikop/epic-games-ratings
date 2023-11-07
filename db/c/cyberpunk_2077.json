@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14780,10 +14780,10 @@
       "Count": 12552
     }
   ],
-  "EOS_Progressed": 895578,
-  "EOS_Completed": 2750,
-  "EOS_NewPlayers": 998,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 895580,
+  "EOS_Completed": 2751,
+  "EOS_NewPlayers": 994,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -37465,6 +37465,11 @@
       "Time": "2023-11-06T23:07:01.1172797+00:00",
       "NumProgressed": 895578,
       "NumCompleted": 2750
+    },
+    {
+      "Time": "2023-11-07T00:13:40.3531194+00:00",
+      "NumProgressed": 895580,
+      "NumCompleted": 2751
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37779,9 +37784,9 @@
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 1791
+      "UsersEstimate": 2687
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -38012,21 +38017,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895578,
-      "Completed": 2750
+      "Progressed": 895580,
+      "Completed": 2751
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24201,
+      "Progressed": 24203,
       "Completed": 10196
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-06T23:00:57.3978465+00:00",
-  "LastChanged_Achievements": "2023-11-06T23:07:01.1172793+00:00",
+  "LastChanged_Achievements": "2023-11-07T00:13:40.3531189+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-06T23:00:57.3978471+00:00",
-  "LastUpdate_Achievements": "2023-11-06T23:07:01.1174252+00:00"
+  "LastUpdate_Ratings": "2023-11-07T00:02:21.1165284+00:00",
+  "LastUpdate_Achievements": "2023-11-07T00:13:40.3532897+00:00"
 }
