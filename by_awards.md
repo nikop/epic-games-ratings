@@ -318,7 +318,7 @@
 | 315 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 150 | 4.77 | 115 |
 | 317 | [Night in the Woods](games/n/night_in_the_woods.md) | 146 | 4.73 | 172 |
 | 317 | [Timberborn](games/t/timberborn.md) | 146 | 4.72 | 184 |
-| 319 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 143 | 4.70 | 211 |
+| 319 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 144 | 4.70 | 211 |
 | 320 | [Fort Triumph](games/f/fort_triumph.md) | 142 | 4.08 | 963 |
 | 321 | [First Class Trouble](games/f/first_class_trouble.md) | 140 | 4.48 | 620 |
 | 322 | [Atomicrops](games/a/atomicrops.md) | 137 | 4.86 | 28 |
@@ -527,21 +527,21 @@
 | 519 | [WRC Generations](games/w/wrc_generations.md) | 24 | 4.44 | 676 |
 | 519 | [Yooka-Laylee](games/y/yooka-laylee.md) | 24 | 4.25 | 871 |
 | 527 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 23 | 4.88 | 16 |
+| 527 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 23 | 4.13 | 950 |
 | 527 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 23 | 4.46 | 644 |
-| 529 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.24 | 878 |
-| 529 | [DEMON'S TILT](games/d/demon's_tilt.md) | 22 | 4.53 | 534 |
-| 529 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 904 |
-| 529 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.87 | 23 |
-| 529 | [Torchlight](games/t/torchlight.md) | 22 | 4.34 | 800 |
-| 529 | [Void Bastards](games/v/void_bastards.md) | 22 | 4.60 | 409 |
-| 529 | [We Were Here Forever](games/w/we_were_here_forever.md) | 22 | 4.68 | 250 |
-| 536 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 346 |
-| 536 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 21 | 4.86 | 28 |
-| 536 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 21 | 4.10 | 955 |
-| 536 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 21 | 4.12 | 951 |
-| 536 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 21 | 4.14 | 941 |
-| 536 | [Moving Out](games/m/moving_out.md) | 21 | 4.58 | 445 |
-| 536 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 21 | 4.58 | 445 |
+| 530 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.24 | 878 |
+| 530 | [DEMON'S TILT](games/d/demon's_tilt.md) | 22 | 4.53 | 534 |
+| 530 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 904 |
+| 530 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.87 | 23 |
+| 530 | [Torchlight](games/t/torchlight.md) | 22 | 4.34 | 800 |
+| 530 | [Void Bastards](games/v/void_bastards.md) | 22 | 4.60 | 409 |
+| 530 | [We Were Here Forever](games/w/we_were_here_forever.md) | 22 | 4.68 | 250 |
+| 537 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 346 |
+| 537 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 21 | 4.86 | 28 |
+| 537 | [Book of Yog Idle RPG](games/f/f04733aedc1c43d985ef8e1fe8a8b04b.md) | 21 | 4.10 | 955 |
+| 537 | [Madden NFL 24](games/0/0460f46401ae4bdcadbc931d30028015.md) | 21 | 4.14 | 941 |
+| 537 | [Moving Out](games/m/moving_out.md) | 21 | 4.58 | 445 |
+| 537 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 21 | 4.58 | 445 |
 | 543 | [Figment](games/f/figment.md) | 20 | 4.46 | 644 |
 | 543 | [Mortal Shell](games/m/mortal_shell.md) | 20 | 4.28 | 844 |
 | 543 | [Riverbond](games/r/riverbond.md) | 20 | 4.47 | 633 |

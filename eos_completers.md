@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.59% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.58% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -15,17 +15,17 @@
 | 11 | [Overloop](games/o/overloop.md) | 25.00% |
 | 14 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 15 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 22.84% |
-| 16 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
-| 17 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
-| 18 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
-| 19 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.75% |
-| 20 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 18.18% |
-| 21 | [Island Cities](games/i/island_cities.md) | 17.09% |
-| 22 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 15.00% |
-| 23 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.94% |
-| 24 | [Remains](games/r/remains.md) | 14.81% |
-| 25 | [greensheen Production](games/g/greensheen_production.md) | 14.29% |
-| 25 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
+| 16 | [greensheen Production](games/g/greensheen_production.md) | 21.43% |
+| 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
+| 18 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
+| 19 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
+| 20 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 18.75% |
+| 21 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 18.18% |
+| 22 | [Island Cities](games/i/island_cities.md) | 17.09% |
+| 23 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 15.00% |
+| 24 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.94% |
+| 25 | [Remains](games/r/remains.md) | 14.81% |
+| 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.33% |
 | 28 | [Seven Doors](games/s/seven_doors.md) | 11.76% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.68% |
@@ -43,7 +43,7 @@
 | 41 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
 | 41 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.09% |
 | 41 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
-| 44 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.60% |
+| 44 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 45 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
 | 46 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 46 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
@@ -134,8 +134,8 @@
 | 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.60% |
 | 133 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.54% |
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.54% |
-| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.49% |
-| 136 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
+| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.48% |
+| 135 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 137 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
 | 137 | [Late Shift](games/l/late_shift.md) | 1.43% |
 | 139 | [Iron Danger](games/i/iron_danger.md) | 1.37% |
@@ -160,7 +160,7 @@
 | 158 | [Trifox](games/t/trifox.md) | 0.98% |
 | 159 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 159 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
-| 159 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.95% |
+| 161 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.94% |
 | 162 | [Hades](games/h/hades.md) | 0.91% |
 | 162 | [The Devil's Face](games/t/the_devil's_face.md) | 0.91% |
 | 164 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.90% |
@@ -212,9 +212,9 @@
 | 210 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.38% |
 | 210 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 210 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
-| 210 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.38% |
 | 210 | [Train Valley](games/t/train_valley.md) | 0.38% |
-| 215 | [The Surge](games/t/the_surge.md) | 0.37% |
+| 214 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.37% |
+| 214 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 216 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 216 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 218 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.34% |
@@ -727,4 +727,4 @@
 | 345 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 345 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 345 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,518 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,519 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
