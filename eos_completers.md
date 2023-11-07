@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.62% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.61% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -62,7 +62,7 @@
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.88% |
 | 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.67% |
-| 63 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
+| 63 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 65 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
 | 66 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
@@ -175,7 +175,7 @@
 | 173 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.67% |
 | 174 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 175 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |
-| 176 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.64% |
+| 176 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.63% |
 | 177 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
 | 177 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.62% |
 | 179 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
@@ -217,9 +217,9 @@
 | 215 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 216 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 216 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
-| 218 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
-| 218 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.33% |
-| 218 | [Them and Us](games/t/them_and_us.md) | 0.33% |
+| 218 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.34% |
+| 219 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
+| 219 | [Them and Us](games/t/them_and_us.md) | 0.33% |
 | 221 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.32% |
 | 222 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
 | 222 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
