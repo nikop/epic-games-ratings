@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~962 |
-| Spectre Inductee | 80.00% | ~818 |
+| Spectre Inductee | 81.00% | ~829 |
 | Medal of Exploration I | 72.00% | ~737 |
 | Recruit | 68.00% | ~696 |
 | Search and Rescue | 68.00% | ~696 |
@@ -13,9 +13,9 @@
 | Medal of Heroism | 61.00% | ~624 |
 | Honorarium of Corporate Service | 61.00% | ~624 |
 | Council Legion of Merit | 56.00% | ~573 |
+| Medal of Exploration II | 55.00% | ~563 |
 | Medal of Honor | 54.00% | ~552 |
 | Meritorious Service Medal | 54.00% | ~552 |
-| Medal of Exploration II | 54.00% | ~552 |
 | Turian Ally | 54.00% | ~552 |
 | Charismatic | 53.00% | ~542 |
 | Soldier | 52.00% | ~532 |
@@ -69,9 +69,9 @@
 | Agent | 30.00% | ~307 |
 | Digital Exorcist | 30.00% | ~307 |
 | Bringer of War | 30.00% | ~307 |
+| Mission Accomplished | 29.00% | ~297 |
 | Suicide Mission | 29.00% | ~297 |
-| Mission Accomplished | 28.00% | ~286 |
-| Against All Odds | 28.00% | ~286 |
+| Against All Odds | 29.00% | ~297 |
 | Mobilizer | 28.00% | ~286 |
 | Untouchable | 27.00% | ~276 |
 | Giant Killer | 27.00% | ~276 |
@@ -84,8 +84,8 @@
 | Liberator | 25.00% | ~256 |
 | Pathfinder | 24.00% | ~246 |
 | Arbiter | 24.00% | ~246 |
+| Savior | 23.00% | ~235 |
 | Lost and Found | 23.00% | ~235 |
-| Savior | 22.00% | ~225 |
 | Paramour II | 22.00% | ~225 |
 | Party Crasher | 22.00% | ~225 |
 | Hard Target | 21.00% | ~215 |

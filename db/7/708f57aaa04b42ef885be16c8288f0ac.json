@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -75,10 +75,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4357,
+  "EOS_Progressed": 4361,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 794,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 793,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -2360,6 +2360,11 @@
       "Time": "2023-11-07T16:08:51.2952417+00:00",
       "NumProgressed": 4357,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-07T17:16:20.2666737+00:00",
+      "NumProgressed": 4361,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2380,7 +2385,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "BeLikeWater",
@@ -2444,7 +2449,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2452,7 +2457,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "GarbageMan",
@@ -2460,7 +2465,7 @@
       "Name": "Garbage Man",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Godrunner",
@@ -2500,7 +2505,7 @@
       "Name": "Live By The Sword",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MasterManipulator",
@@ -2643,7 +2648,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4357,
+      "Progressed": 4361,
       "Completed": 5
     }
   ],
@@ -2651,8 +2656,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-05T20:58:48.2968347+00:00",
-  "LastChanged_Achievements": "2023-11-07T16:08:51.2952413+00:00",
+  "LastChanged_Achievements": "2023-11-07T17:16:20.2666733+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:59:33.588403+00:00",
-  "LastUpdate_Achievements": "2023-11-07T16:08:51.2952749+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:07:36.8266613+00:00",
+  "LastUpdate_Achievements": "2023-11-07T17:16:20.2667007+00:00"
 }

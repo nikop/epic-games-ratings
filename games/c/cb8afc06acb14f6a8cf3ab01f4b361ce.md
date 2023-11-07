@@ -26,6 +26,7 @@ Rating: 4.20 (Ranked 905)
 | The Ashen Knight | 0.10% | ~305 |
 | The Shade | 0.10% | ~305 |
 | They won't last long | 0.10% | ~305 |
+| Through the Veil | 0.10% | ~305 |
 | Pride is a sin, young Knight | 0.10% | ~305 |
 | Their fate is sealed | 0.10% | ~305 |
 | Not even from this world | 0.10% | ~305 |
@@ -36,7 +37,6 @@ Rating: 4.20 (Ranked 905)
 | I took a risk | 0.10% | ~305 |
 | Let's raise the stakes!! | 0.10% | ~305 |
 | A legend among Chimeras | 0.00% | ~0 |
-| Through the Veil | 0.00% | ~0 |
 | Call this the Judge's mercy | 0.00% | ~0 |
 | There's too many of them! | 0.00% | ~0 |
 | I've been waiting for this! | 0.00% | ~0 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 905)
 | Something... unnatural | 0.00% | ~0 |
 | We strike as one | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,825 (Ranked 49)  
+Progressed: 304,865 (Ranked 49)  
 Completed: 2 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 2 (0.00%) (Ranked 345)
 | 2023-11-04 | 302,129 | 1 |
 | 2023-11-05 | 303,382 | 1 |
 | 2023-11-06 | 304,252 | 1 |
-| 2023-11-07 | 304,825 | 2 |
+| 2023-11-07 | 304,865 | 2 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 424)  
 Sum: 51 (Ranked 477)  

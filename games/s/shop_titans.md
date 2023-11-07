@@ -8,10 +8,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | ---- | ---------- | ----- |
 | Sponsored by Argon | 4.00% | ~5,550 |
 | Titan's First Steps | 4.00% | ~5,550 |
-| Basic in Bulk | 3.00% | ~4,162 |
-| Disintermediation | 3.00% | ~4,162 |
-| Tinkle of Coins | 3.00% | ~4,162 |
-| Capitalism Ho! | 3.00% | ~4,162 |
+| Basic in Bulk | 3.00% | ~4,163 |
+| Disintermediation | 3.00% | ~4,163 |
+| Tinkle of Coins | 3.00% | ~4,163 |
+| Capitalism Ho! | 3.00% | ~4,163 |
 | The Daily Grind | 2.00% | ~2,775 |
 | One Easy Payment | 2.00% | ~2,775 |
 | Some Assembly Required | 2.00% | ~2,775 |
@@ -95,11 +95,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.70% | ~971 |
 | Exotic Commodities | 0.70% | ~971 |
 | King's Blade | 0.70% | ~971 |
-| Constellated | 0.60% | ~832 |
-| Fillin' the Bin | 0.60% | ~832 |
-| Industrial Evolution | 0.60% | ~832 |
-| A Legend is Born | 0.60% | ~832 |
-| Economy of Scarce | 0.60% | ~832 |
+| Constellated | 0.60% | ~833 |
+| Fillin' the Bin | 0.60% | ~833 |
+| Industrial Evolution | 0.60% | ~833 |
+| A Legend is Born | 0.60% | ~833 |
+| Economy of Scarce | 0.60% | ~833 |
 | Thank You Tom Nook | 0.50% | ~694 |
 | Jackpot! | 0.50% | ~694 |
 | Eternal Crusade | 0.50% | ~694 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,750 (Ranked 79)  
+Progressed: 138,751 (Ranked 79)  
 Completed: 178 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,10 +320,10 @@ Completed: 178 (0.13%) (Ranked 257)
 | 2023-11-04 | 138,604 | 178 |
 | 2023-11-05 | 138,681 | 178 |
 | 2023-11-06 | 138,721 | 178 |
-| 2023-11-07 | 138,750 | 178 |
+| 2023-11-07 | 138,751 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 73)  
-Sum: 27,506 (Ranked 51)  
+Sum: 27,507 (Ranked 51)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): 22
 | This game has Quickly Understood Controls | 4,027 |
 | This game has Diverse Characters | 3,932 |
 | This game is Highly Recommended | 3,773 |
-| This game has Easy Combat | 3,720 |
+| This game has Easy Combat | 3,721 |
 | This game has Playful Visuals | 3,196 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -619,4 +619,4 @@ Diff (max vs sum): 22
 | 2023-11-04 | 3.99 | - | 4,819 | 27,501 |
 | 2023-11-05 | 3.99 | - | 4,819 | 27,504 |
 | 2023-11-06 | 3.99 | - | 4,819 | 27,505 |
-| 2023-11-07 | 3.99 | - | 4,819 | 27,506 |
+| 2023-11-07 | 3.99 | - | 4,819 | 27,507 |

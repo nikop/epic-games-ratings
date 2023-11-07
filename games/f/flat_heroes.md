@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dash Crash | 74.00% | ~452 |
+| Dash Crash | 74.00% | ~453 |
 | Snake Eyes | 60.00% | ~367 |
-| Be water, my friend | 58.00% | ~354 |
-| Fireball | 46.00% | ~281 |
+| Be water, my friend | 58.00% | ~355 |
+| Fireball | 46.00% | ~282 |
 | The King of Flat | 45.00% | ~275 |
 | Hit That Ball | 35.00% | ~214 |
-| Air Slash | 34.00% | ~208 |
+| Air Slash | 33.00% | ~202 |
 | Eat That Apple | 26.00% | ~159 |
 | Tornado Chaser | 15.00% | ~92 |
 | Bomberman | 11.00% | ~67 |
-| Bubble Party | 9.00% | ~55 |
+| Bubble Party | 8.00% | ~49 |
 | The Colossus | 8.00% | ~49 |
 | Floor is Lava | 6.00% | ~37 |
 | Pim Pam Pum | 6.00% | ~37 |
@@ -49,7 +49,7 @@
 | Persistence | 0.00% | ~0 |
 | Colorful | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 611 (Ranked 280)  
+Progressed: 612 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,6 +113,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-31 | 606 | 0 |
 | 2023-11-01 | 608 | 0 |
 | 2023-11-02 | 611 | 0 |
+| 2023-11-07 | 612 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

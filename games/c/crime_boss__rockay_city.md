@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,001)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,614 (Ranked 91)  
+Progressed: 89,618 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,16 +248,16 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-04 | 89,561 | 54 |
 | 2023-11-05 | 89,585 | 55 |
 | 2023-11-06 | 89,596 | 55 |
-| 2023-11-07 | 89,614 | 55 |
+| 2023-11-07 | 89,618 | 55 |
 ## Awards
 Max (Diverse Characters): 522  (Ranked 204)  
-Sum: 2,962 (Ranked 175)  
+Sum: 2,964 (Ranked 175)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 522 |
 | This game is Highly Recommended | 502 |
-| This game has Quickly Understood Controls | 494 |
+| This game has Quickly Understood Controls | 496 |
 | This game has Challenging Combat | 485 |
 | This game is Extremely Fun | 484 |
 | This game has Amazing Characters | 475 |
@@ -486,4 +486,4 @@ Diff (max vs sum): 29
 | 2023-11-04 | 3.94 | 521 | 2,942 |
 | 2023-11-05 | 3.95 | 522 | 2,952 |
 | 2023-11-06 | 3.95 | 522 | 2,960 |
-| 2023-11-07 | 3.95 | 522 | 2,962 |
+| 2023-11-07 | 3.95 | 522 | 2,964 |

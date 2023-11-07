@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14736,18 +14736,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 345365,
       "NumberOfAwardsMax": 104229
+    },
+    {
+      "Time": "2023-11-07T17:09:51.4218517+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 345617,
+      "NumberOfAwardsMax": 104395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 345365,
-  "NumberOfAwardsMax": 104229,
+  "NumberOfAwards": 345617,
+  "NumberOfAwardsMax": 104395,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 104229
+      "Count": 104395
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -14759,7 +14765,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20126
+      "Count": 20212
     },
     {
       "Text": "This game is Relaxing",
@@ -14816,9 +14822,9 @@
       "Count": 12552
     }
   ],
-  "EOS_Progressed": 895667,
+  "EOS_Progressed": 895678,
   "EOS_Completed": 2753,
-  "EOS_NewPlayers": 1016,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37586,6 +37592,11 @@
       "Time": "2023-11-07T16:08:13.1834442+00:00",
       "NumProgressed": 895667,
       "NumCompleted": 2753
+    },
+    {
+      "Time": "2023-11-07T17:15:30.8649537+00:00",
+      "NumProgressed": 895678,
+      "NumCompleted": 2753
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37926,7 +37937,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17913
+      "UsersEstimate": 17914
     },
     {
       "ID": "YipMan",
@@ -38133,21 +38144,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895667,
+      "Progressed": 895678,
       "Completed": 2753
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24290,
+      "Progressed": 24301,
       "Completed": 10200
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-07T13:05:17.1451553+00:00",
-  "LastChanged_Achievements": "2023-11-07T16:08:13.1834439+00:00",
+  "LastChanged": "2023-11-07T17:09:51.4218515+00:00",
+  "LastChanged_Achievements": "2023-11-07T17:15:30.8649535+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-07T16:00:48.653834+00:00",
-  "LastUpdate_Achievements": "2023-11-07T16:08:13.1835841+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:09:51.4218523+00:00",
+  "LastUpdate_Achievements": "2023-11-07T17:15:30.8651071+00:00"
 }

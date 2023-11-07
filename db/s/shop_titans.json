@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6845,10 +6845,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27506,
       "NumberOfAwardsMax": 4819
+    },
+    {
+      "Time": "2023-11-07T17:04:13.3610273+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27507,
+      "NumberOfAwardsMax": 4819
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27506,
+  "NumberOfAwards": 27507,
   "NumberOfAwardsMax": 4819,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6874,7 +6880,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3720
+      "Count": 3721
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6901,9 +6907,9 @@
       "Count": 3773
     }
   ],
-  "EOS_Progressed": 138750,
+  "EOS_Progressed": 138751,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27436,6 +27442,11 @@
       "Time": "2023-11-07T16:03:56.2792189+00:00",
       "NumProgressed": 138750,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-07T17:11:56.9413107+00:00",
+      "NumProgressed": 138751,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -27511,7 +27522,7 @@
       "Name": "Constellated",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ashley_a",
@@ -27679,7 +27690,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "commonres02",
@@ -27703,7 +27714,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "craft01",
@@ -27711,7 +27722,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "craft02",
@@ -27735,7 +27746,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "craft05",
@@ -27895,7 +27906,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "fuseuncommon",
@@ -27919,7 +27930,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "gold02",
@@ -28223,7 +28234,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4162
+      "UsersEstimate": 4163
     },
     {
       "ID": "sell02",
@@ -28303,7 +28314,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "workers01",
@@ -28342,15 +28353,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138750,
+      "Progressed": 138751,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-07T08:58:05.1690659+00:00",
-  "LastChanged_Achievements": "2023-11-07T16:03:56.2792184+00:00",
+  "LastChanged": "2023-11-07T17:04:13.3610259+00:00",
+  "LastChanged_Achievements": "2023-11-07T17:11:56.9413104+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:58:28.2931756+00:00",
-  "LastUpdate_Achievements": "2023-11-07T16:03:56.2794522+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:04:13.3610276+00:00",
+  "LastUpdate_Achievements": "2023-11-07T17:11:56.9414847+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "kingdom-hearts-iii",
   "Ranking_Rating": 95,
   "Ranking_Popularity": 169,
-  "Ranking_PopularitySum": 229,
+  "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -2627,6 +2627,6 @@
   "FirstSeen": "2022-07-22T20:21:33.6381012+00:00",
   "LastChanged": "2023-11-05T18:58:59.4292155+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.9683005+00:00",
-  "LastUpdate_Ratings": "2023-11-07T16:00:11.2452175+00:00",
-  "LastUpdate_Achievements": "2023-11-07T16:03:36.207623+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:08:44.0741026+00:00",
+  "LastUpdate_Achievements": "2023-11-07T17:11:31.1067361+00:00"
 }

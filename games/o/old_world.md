@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 5.00% | ~760 |
 | Settler | 5.00% | ~760 |
 | Play a Single Player Game | 5.00% | ~760 |
-| Explorer | 4.00% | ~608 |
 | Intrepid | 4.00% | ~608 |
 | Friendly Family | 4.00% | ~608 |
 | Able | 3.00% | ~456 |
@@ -21,6 +21,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble | 3.00% | ~456 |
 | Pioneer | 3.00% | ~456 |
 | Strong | 3.00% | ~456 |
+| Warrior | 3.00% | ~456 |
 | Hanging Gardens | 3.00% | ~456 |
 | Oracle | 3.00% | ~456 |
 | Judaism | 3.00% | ~456 |
@@ -37,7 +38,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 2.00% | ~304 |
 | Mighty | 2.00% | ~304 |
 | Valiant | 2.00% | ~304 |
-| Warrior | 2.00% | ~304 |
 | Wise | 2.00% | ~304 |
 | Developing Cities | 2.00% | ~304 |
 | Legendary Cities | 2.00% | ~304 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kush | 0.50% | ~76 |
 | Beja Archer | 0.50% | ~76 |
 | Glorious Difficulty | 0.40% | ~61 |
+| Hatti | 0.40% | ~61 |
 | Pantheon of Gods | 0.40% | ~61 |
 | Capturing Cities | 0.40% | ~61 |
 | Ten Crowns | 0.40% | ~61 |
@@ -168,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.30% | ~46 |
 | Nenikekamen | 0.30% | ~46 |
 | Assyria | 0.30% | ~46 |
-| Hatti | 0.30% | ~46 |
 | Persia | 0.30% | ~46 |
 | Play a Network Game | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,199 (Ranked 145)  
+Progressed: 15,200 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,16 +550,16 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-04 | 15,141 | 5 |
 | 2023-11-05 | 15,167 | 5 |
 | 2023-11-06 | 15,191 | 5 |
-| 2023-11-07 | 15,199 | 5 |
+| 2023-11-07 | 15,200 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 271)  
-Sum: 1,868 (Ranked 212)  
+Sum: 1,869 (Ranked 212)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 226 |
 | This game has Diverse Characters | 218 |
-| This game is Highly Recommended | 217 |
+| This game is Highly Recommended | 218 |
 | This game is Extremely Fun | 214 |
 | This game is Educational | 212 |
 | This game has Challenging Combat | 202 |
@@ -731,3 +731,4 @@ Diff (max vs sum): 59
 | 2023-11-02 | 4.65 | - | 226 | 1,866 |
 | 2023-11-03 | 4.65 | - | 226 | 1,867 |
 | 2023-11-05 | 4.65 | - | 226 | 1,868 |
+| 2023-11-07 | 4.65 | - | 226 | 1,869 |

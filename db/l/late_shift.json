@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 628,
+  "EOS_Progressed": 629,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.43,
   "EosHistory": [
@@ -1380,6 +1380,11 @@
       "Time": "2023-11-06T22:03:42.1535319+00:00",
       "NumProgressed": 628,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-07T17:12:10.8865515+00:00",
+      "NumProgressed": 629,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1391,7 +1396,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1423,7 +1428,7 @@
       "Name": "The Ploy",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "ENDING_4",
@@ -1463,7 +1468,7 @@
       "Name": "Even Tempered",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -1479,7 +1484,7 @@
       "Name": "Fair Share",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "GOOD_KARMA",
@@ -1543,14 +1548,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 628,
+      "Progressed": 629,
       "Completed": 9
     }
   ],
@@ -1558,8 +1563,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-07T16:04:07.6412504+00:00",
+  "LastChanged_Achievements": "2023-11-07T17:12:10.8865512+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.789073+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:58:54.930848+00:00",
-  "LastUpdate_Achievements": "2023-11-07T16:04:07.6412768+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:06:15.310922+00:00",
+  "LastUpdate_Achievements": "2023-11-07T17:12:10.8865908+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "hundred-days-winemaking-simulator",
   "Ranking_Rating": 793,
   "Ranking_Popularity": 282,
-  "Ranking_PopularitySum": 225,
+  "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -971,10 +971,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1594,
       "NumberOfAwardsMax": 206
+    },
+    {
+      "Time": "2023-11-07T17:09:30.2481736+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1724,
+      "NumberOfAwardsMax": 206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1594,
+  "NumberOfAwards": 1724,
   "NumberOfAwardsMax": 206,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1024,7 +1030,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 127
+      "Count": 130
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1039,9 +1045,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11378,
+  "EOS_Progressed": 11387,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1021,
+  "EOS_NewPlayers": 1024,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9234,6 +9240,11 @@
       "Time": "2023-11-07T16:08:29.5269101+00:00",
       "NumProgressed": 11378,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-07T17:15:52.0898348+00:00",
+      "NumProgressed": 11387,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9246,7 +9257,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "a_10",
@@ -9278,7 +9289,7 @@
       "Name": "Big Money",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "a_16",
@@ -9294,7 +9305,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4551
+      "UsersEstimate": 4555
     },
     {
       "ID": "a_19",
@@ -9302,7 +9313,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "a_2",
@@ -9342,7 +9353,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "a_25",
@@ -9366,7 +9377,7 @@
       "Name": "Keep the doctor away",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "a_28",
@@ -9382,7 +9393,7 @@
       "Name": "Surprise of Langhe",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "a_30",
@@ -9478,7 +9489,7 @@
       "Name": "Famous",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "a_9",
@@ -9493,16 +9504,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11378,
+      "Progressed": 11387,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-10-31T06:57:44.1710899+00:00",
-  "LastChanged_Achievements": "2023-11-07T16:08:29.5269098+00:00",
+  "LastChanged": "2023-11-07T17:09:30.2481735+00:00",
+  "LastChanged_Achievements": "2023-11-07T17:15:52.0898345+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.8121034+00:00",
-  "LastUpdate_Ratings": "2023-11-07T16:00:35.0887362+00:00",
-  "LastUpdate_Achievements": "2023-11-07T16:08:29.5269665+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:09:30.2481739+00:00",
+  "LastUpdate_Achievements": "2023-11-07T17:15:52.089933+00:00"
 }

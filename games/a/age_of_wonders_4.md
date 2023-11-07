@@ -5,58 +5,68 @@ Rating: 4.60 (Ranked 409)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 9.00% | ~475 |
-| Realm Estate | 8.00% | ~422 |
-| A Wonderful Discovery | 8.00% | ~422 |
-| Walls Cannot Stop Us | 8.00% | ~422 |
-| Bone Peddler | 7.00% | ~370 |
-| From Friends to Family | 7.00% | ~370 |
-| Stronger Together | 7.00% | ~370 |
-| Magical Synergy | 7.00% | ~370 |
-| Seat of Power | 7.00% | ~370 |
-| Intimidation Tactics | 7.00% | ~370 |
-| Tipping the Scales | 7.00% | ~370 |
-| There Can Only Be One! | 6.00% | ~317 |
-| Full Ascension | 6.00% | ~317 |
-| My Final Form | 6.00% | ~317 |
-| In a Liege of Your Own | 6.00% | ~317 |
-| Blood of the Dragon | 6.00% | ~317 |
-| Mighty Hoard | 6.00% | ~317 |
-| Valley of Wonders | 5.00% | ~264 |
-| Digging for Treasure | 5.00% | ~264 |
-| Preparation Is Everything | 5.00% | ~264 |
-| Fiery Friend | 5.00% | ~264 |
-| Against the Odds | 5.00% | ~264 |
-| Impenetrable Fortress | 5.00% | ~264 |
-| Here be Dragons | 5.00% | ~264 |
-| Return of the Wizard King | 4.00% | ~211 |
-| Arch Mage | 4.00% | ~211 |
-| Enchanted Archipelago | 4.00% | ~211 |
-| God Emperor | 3.00% | ~158 |
-| Lord of Chaos | 3.00% | ~158 |
-| The Creator | 3.00% | ~158 |
-| The Goddess of Nature | 3.00% | ~158 |
-| Eternal Lord | 3.00% | ~158 |
-| Crimson Caldera | 3.00% | ~158 |
-| The Eternal Court | 3.00% | ~158 |
-| Duality | 3.00% | ~158 |
-| I've Got Everything I Need Right Here | 2.00% | ~106 |
-| The Magic That Empowers Me! | 2.00% | ~106 |
-| Jack of All Tomes | 2.00% | ~106 |
-| Pruning for Progress | 2.00% | ~106 |
-| Grexolis | 2.00% | ~106 |
-| One for All, All for One | 2.00% | ~106 |
-| Manufactured War | 1.00% | ~53 |
-| Snap Out of It! | 0.90% | ~48 |
-| Betrayal Most Foul | 0.70% | ~37 |
-| I Want to Break Free | 0.30% | ~16 |
-| I'll Fight You All | 0.30% | ~16 |
-| The Grey Wizard | 0.20% | ~11 |
-| Returning Circle | 0.20% | ~11 |
-| Draconic Connoisseur | 0.20% | ~11 |
-| Master of Evilness | 0.10% | ~5 |
+| Valley of Wonders | 0.00% | ~0 |
+| Snap Out of It! | 0.00% | ~0 |
+| There Can Only Be One! | 0.00% | ~0 |
+| I've Got Everything I Need Right Here | 0.00% | ~0 |
+| The Magic That Empowers Me! | 0.00% | ~0 |
+| Full Ascension | 0.00% | ~0 |
+| Return of the Wizard King | 0.00% | ~0 |
+| God Emperor | 0.00% | ~0 |
+| Lord of Chaos | 0.00% | ~0 |
+| Arch Mage | 0.00% | ~0 |
+| The Creator | 0.00% | ~0 |
+| Enchanted Archipelago | 0.00% | ~0 |
+| The Goddess of Nature | 0.00% | ~0 |
+| Eternal Lord | 0.00% | ~0 |
+| Realm Estate | 0.00% | ~0 |
+| A Wonderful Discovery | 0.00% | ~0 |
+| Secret Technique | 0.00% | ~0 |
+| Walls Cannot Stop Us | 0.00% | ~0 |
+| Bone Peddler | 0.00% | ~0 |
+| Digging for Treasure | 0.00% | ~0 |
+| From Friends to Family | 0.00% | ~0 |
+| Stronger Together | 0.00% | ~0 |
+| Crimson Caldera | 0.00% | ~0 |
+| Preparation Is Everything | 0.00% | ~0 |
+| Magical Synergy | 0.00% | ~0 |
+| My Final Form | 0.00% | ~0 |
+| Seat of Power | 0.00% | ~0 |
+| In a Liege of Your Own | 0.00% | ~0 |
+| I Want to Break Free | 0.00% | ~0 |
+| Fiery Friend | 0.00% | ~0 |
+| Against the Odds | 0.00% | ~0 |
+| Manufactured War | 0.00% | ~0 |
+| Impenetrable Fortress | 0.00% | ~0 |
+| The Eternal Court | 0.00% | ~0 |
+| Intimidation Tactics | 0.00% | ~0 |
+| Jack of All Tomes | 0.00% | ~0 |
+| Master of Evilness | 0.00% | ~0 |
+| The Grey Wizard | 0.00% | ~0 |
+| Pruning for Progress | 0.00% | ~0 |
+| Grexolis | 0.00% | ~0 |
+| One for All, All for One | 0.00% | ~0 |
+| Returning Circle | 0.00% | ~0 |
+| Betrayal Most Foul | 0.00% | ~0 |
+| I'll Fight You All | 0.00% | ~0 |
+| Here be Dragons | 0.00% | ~0 |
+| Tipping the Scales | 0.00% | ~0 |
+| Duality | 0.00% | ~0 |
+| Blood of the Dragon | 0.00% | ~0 |
+| Mighty Hoard | 0.00% | ~0 |
+| Draconic Connoisseur | 0.00% | ~0 |
+| Freed Lands of Manuhari | 0.00% | ~0 |
+| Sehiran Oasis | 0.00% | ~0 |
+| Prometheus Avenged | 0.00% | ~0 |
+| Chaos Surge | 0.00% | ~0 |
+| Seal the Deal | 0.00% | ~0 |
+| A Conqueror's Cohort | 0.00% | ~0 |
+| Spoils of War | 0.00% | ~0 |
+| Dawn of the Dread | 0.00% | ~0 |
+| But this one is mine | 0.00% | ~0 |
+| A Very Special Ring | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,280 (Ranked 182)  
+Progressed: 5,281 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +235,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-04 | 5,271 | 7 |
 | 2023-11-05 | 5,274 | 7 |
 | 2023-11-06 | 5,276 | 7 |
-| 2023-11-07 | 5,280 | 7 |
+| 2023-11-07 | 5,281 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 51 (Ranked 477)  

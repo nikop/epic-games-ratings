@@ -29,6 +29,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.10% | ~449 |
 | Cold War | 0.10% | ~449 |
 | Combined Arms | 0.10% | ~449 |
+| David the Builder | 0.10% | ~449 |
 | Defender of the Faith | 0.10% | ~449 |
 | Definitely the Sultan of Rum | 0.10% | ~449 |
 | Die Please Die | 0.10% | ~449 |
@@ -114,6 +115,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Vasa or Wettin? | 0.10% | ~449 |
 | Venetian Sea | 0.10% | ~449 |
 | Victorious! | 0.10% | ~449 |
+| Viva la Revolución! | 0.10% | ~449 |
 | Wonderful | 0.10% | ~449 |
 | World Conqueror | 0.10% | ~449 |
 | World Discoverer | 0.10% | ~449 |
@@ -174,7 +176,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Crossing the Finnish Line | 0.00% | ~0 |
 | Czechs and Balances | 0.00% | ~0 |
 | Dar al-Islam | 0.00% | ~0 |
-| David the Builder | 0.00% | ~0 |
 | Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Dracula's Revenge | 0.00% | ~0 |
@@ -351,7 +352,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turtles all the way down | 0.00% | ~0 |
 | Ultimate Military | 0.00% | ~0 |
 | Victorian Three | 0.00% | ~0 |
-| Viva la Revolución! | 0.00% | ~0 |
 | Voltaire's Nightmare | 0.00% | ~0 |
 | Voting Streak | 0.00% | ~0 |
 | We bled for this | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,235 (Ranked 41)  
+Progressed: 449,291 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 449,235 | 1 |
+| 2023-11-07 | 449,291 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,529 (Ranked 24)  

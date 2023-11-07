@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~28,110 |
-| Quick Understanding of Block Extrusion | 68.00% | ~25,486 |
-| Nature or Nurture | 51.00% | ~19,115 |
-| Power Glove | 49.00% | ~18,365 |
-| Forgotten Memories | 42.00% | ~15,742 |
-| Cogs in the Machine | 35.00% | ~13,118 |
-| Mission Success | 21.00% | ~7,871 |
-| There's No Place Like Home | 21.00% | ~7,871 |
-| Green Cube Killer | 18.00% | ~6,746 |
-| Infinity Loop | 15.00% | ~5,622 |
-| Path to Salvation | 15.00% | ~5,622 |
-| Descendants | 13.00% | ~4,872 |
-| The Flawed Teacher | 11.00% | ~4,123 |
+| Lost in Space | 75.00% | ~28,118 |
+| Quick Understanding of Block Extrusion | 68.00% | ~25,493 |
+| Nature or Nurture | 51.00% | ~19,120 |
+| Power Glove | 49.00% | ~18,370 |
+| Forgotten Memories | 42.00% | ~15,746 |
+| Cogs in the Machine | 35.00% | ~13,122 |
+| Mission Success | 21.00% | ~7,873 |
+| There's No Place Like Home | 21.00% | ~7,873 |
+| Green Cube Killer | 18.00% | ~6,748 |
+| Infinity Loop | 15.00% | ~5,624 |
+| Path to Salvation | 15.00% | ~5,624 |
+| Descendants | 13.00% | ~4,874 |
+| The Flawed Teacher | 11.00% | ~4,124 |
 | To Infinity and Beyond | 5.00% | ~1,874 |
-| The Truthful Enemy | 4.00% | ~1,499 |
+| The Truthful Enemy | 4.00% | ~1,500 |
 | Laser Sharp | 2.00% | ~750 |
 | True collector | 1.00% | ~375 |
 | Bronze collector | 1.00% | ~375 |
@@ -31,12 +31,12 @@ Number of Ratings: 94  (23.09.2022)
 | Puzzle Master | 1.00% | ~375 |
 | Competent Collector | 0.90% | ~337 |
 | Coming Home | 0.90% | ~337 |
+| Master Collector | 0.90% | ~337 |
 | Expert Collector | 0.90% | ~337 |
 | King of the Collectables | 0.80% | ~300 |
-| Master Collector | 0.80% | ~300 |
 | QUBE Master | 0.80% | ~300 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,480 (Ranked 119)  
+Progressed: 37,490 (Ranked 119)  
 Completed: 128 (0.34%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 128 (0.34%) (Ranked 218)
 | 2023-11-04 | 36,701 | 119 |
 | 2023-11-05 | 37,093 | 121 |
 | 2023-11-06 | 37,341 | 124 |
-| 2023-11-07 | 37,480 | 128 |
+| 2023-11-07 | 37,490 | 128 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

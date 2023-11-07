@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 22,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11733,9 +11733,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 449235,
+  "EOS_Progressed": 449291,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5518,
+  "EOS_NewPlayers": 5542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34718,6 +34718,11 @@
       "Time": "2023-11-07T16:04:15.9324816+00:00",
       "NumProgressed": 449235,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T17:12:21.9291491+00:00",
+      "NumProgressed": 449291,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35335,9 +35340,9 @@
       "ID": "achievement_david_the_builder",
       "SetID": "67mdiil",
       "Name": "David the Builder",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_defender_of_the_faith",
@@ -37431,9 +37436,9 @@
       "ID": "achievement_viva_la_revolucion",
       "SetID": "67mdiil",
       "Name": "Viva la Revoluci\u00F3n!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_voltaires_nightmare",
@@ -37632,21 +37637,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 449235,
+      "Progressed": 449291,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 449235,
+      "Progressed": 449291,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-07T14:57:42.6356787+00:00",
-  "LastChanged_Achievements": "2023-11-07T16:04:15.9324812+00:00",
+  "LastChanged_Achievements": "2023-11-07T17:12:21.9291488+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:57:52.5051478+00:00",
-  "LastUpdate_Achievements": "2023-11-07T16:04:15.9335934+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:00:53.7178714+00:00",
+  "LastUpdate_Achievements": "2023-11-07T17:12:21.9302048+00:00"
 }

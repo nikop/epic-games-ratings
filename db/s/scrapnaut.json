@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1537,9 +1537,9 @@
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Master",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -1625,9 +1625,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1665,9 +1665,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 206
+      "UsersEstimate": 211
     },
     {
       "ID": "ACH_KILL_50",
@@ -1770,8 +1770,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-10-28T14:03:22.2767403+00:00",
-  "LastChanged_Achievements": "2023-11-07T16:06:16.7108986+00:00",
+  "LastChanged_Achievements": "2023-11-07T17:14:58.5207149+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:38.3966279+00:00",
-  "LastUpdate_Ratings": "2023-11-07T16:02:55.1491972+00:00",
-  "LastUpdate_Achievements": "2023-11-07T16:06:16.7109203+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:10:32.01153+00:00",
+  "LastUpdate_Achievements": "2023-11-07T17:14:58.5207352+00:00"
 }

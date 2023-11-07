@@ -7,7 +7,7 @@ Rating: 4.00 (Ranked 984)
 | ---- | ---------- | ----- |
 | Unforeseen | 89.00% | ~157 |
 | Battlefields Have Memories | 84.00% | ~148 |
-| Enlisted | 80.00% | ~141 |
+| Enlisted | 81.00% | ~143 |
 | Maybe Engage a Little | 76.00% | ~134 |
 | No More Names | 62.00% | ~109 |
 | Initiate | 52.00% | ~92 |
@@ -17,7 +17,7 @@ Rating: 4.00 (Ranked 984)
 | Soldier | 31.00% | ~55 |
 | Beggars Would Ride | 28.00% | ~49 |
 | Control is an Illusion | 27.00% | ~48 |
-| Socialite | 25.00% | ~44 |
+| Socialite | 26.00% | ~46 |
 | The Means to Save It | 23.00% | ~40 |
 | Resilience to Sin | 20.00% | ~35 |
 | A Familiar Nest | 19.00% | ~33 |

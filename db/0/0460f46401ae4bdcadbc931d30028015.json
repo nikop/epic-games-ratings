@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -531,7 +531,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3259,
+  "EOS_Progressed": 3260,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 0,
@@ -4421,6 +4421,11 @@
       "Time": "2023-11-07T16:04:28.0536839+00:00",
       "NumProgressed": 3259,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T17:12:37.214144+00:00",
+      "NumProgressed": 3260,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4441,7 +4446,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1076
     },
     {
       "ID": "achievement_11",
@@ -4457,7 +4462,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "achievement_13",
@@ -4465,7 +4470,7 @@
       "Name": "MVP",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "achievement_14",
@@ -4473,7 +4478,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 1173
+      "UsersEstimate": 1174
     },
     {
       "ID": "achievement_15",
@@ -4600,7 +4605,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3259,
+      "Progressed": 3260,
       "Completed": 0
     }
   ],
@@ -4608,8 +4613,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-07T03:59:05.6750597+00:00",
-  "LastChanged_Achievements": "2023-11-07T16:04:28.0536836+00:00",
+  "LastChanged_Achievements": "2023-11-07T17:12:37.2141436+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:59:45.899123+00:00",
-  "LastUpdate_Achievements": "2023-11-07T16:04:28.0537189+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:08:02.2327726+00:00",
+  "LastUpdate_Achievements": "2023-11-07T17:12:37.2141756+00:00"
 }

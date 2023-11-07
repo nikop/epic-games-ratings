@@ -2,10 +2,10 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 502,
+  "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
     "PcReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 30,
+  "EOS_Progressed": 31,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -181,6 +181,11 @@
       "Time": "2023-11-06T19:06:44.3627173+00:00",
       "NumProgressed": 30,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T17:14:26.6641669+00:00",
+      "NumProgressed": 31,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 49,
@@ -198,7 +203,7 @@
       "ID": "collect2",
       "SetID": "c64if4d",
       "Name": "For the greater good",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -262,7 +267,7 @@
       "ID": "fights2",
       "SetID": "c64if4d",
       "Name": "The best apprentice",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -318,7 +323,7 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -326,7 +331,7 @@
       "ID": "special10",
       "SetID": "c64if4d",
       "Name": "Rage",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -358,7 +363,7 @@
       "ID": "special3",
       "SetID": "c64if4d",
       "Name": "Deadly strike",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -366,7 +371,7 @@
       "ID": "special4",
       "SetID": "c64if4d",
       "Name": "A solo player",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -374,7 +379,7 @@
       "ID": "special5",
       "SetID": "c64if4d",
       "Name": "Punish the Punisher",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -406,7 +411,7 @@
       "ID": "special9",
       "SetID": "c64if4d",
       "Name": "Cunning plan",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -416,7 +421,7 @@
       "Name": "First success",
       "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "story10",
@@ -470,7 +475,7 @@
       "ID": "story16",
       "SetID": "c64if4d",
       "Name": "All\u0027s fair in love and war",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -502,7 +507,7 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 50,
+      "Percentage": 48,
       "XP": 20,
       "UsersEstimate": 15
     },
@@ -526,7 +531,7 @@
       "ID": "story3",
       "SetID": "c64if4d",
       "Name": "Train hard, fight easy",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -534,7 +539,7 @@
       "ID": "story4",
       "SetID": "c64if4d",
       "Name": "Royal blessing",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -542,7 +547,7 @@
       "ID": "story5",
       "SetID": "c64if4d",
       "Name": "Under cover",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -550,7 +555,7 @@
       "ID": "story6",
       "SetID": "c64if4d",
       "Name": "First blood",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
       "UsersEstimate": 9
     },
@@ -558,7 +563,7 @@
       "ID": "story7",
       "SetID": "c64if4d",
       "Name": "A hidden snake",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -566,7 +571,7 @@
       "ID": "story8",
       "SetID": "c64if4d",
       "Name": "Blood and sand",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -583,7 +588,7 @@
     {
       "ID": "c64if4d",
       "IsBase": true,
-      "Progressed": 30,
+      "Progressed": 31,
       "Completed": 0
     }
   ],
@@ -591,8 +596,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-07T16:05:52.0124312+00:00",
+  "LastChanged_Achievements": "2023-11-07T17:14:26.6641666+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.6760768+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:57:32.9197577+00:00",
-  "LastUpdate_Achievements": "2023-11-07T16:05:52.0124582+00:00"
+  "LastUpdate_Ratings": "2023-11-07T16:58:29.4437435+00:00",
+  "LastUpdate_Achievements": "2023-11-07T17:14:26.6641959+00:00"
 }
