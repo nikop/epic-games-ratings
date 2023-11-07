@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 450,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -699,9 +699,9 @@
       "ID": "SMITH_UPGRADE_1",
       "SetID": "cm0d613",
       "Name": "Advanced Armaments",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SMITH_UPGRADE_2",
@@ -788,8 +788,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-07T08:07:16.6723701+00:00",
+  "LastChanged_Achievements": "2023-11-07T09:06:02.452182+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.0401446+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:02:47.7992853+00:00",
-  "LastUpdate_Achievements": "2023-11-07T08:07:16.6724191+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:00:31.5990595+00:00",
+  "LastUpdate_Achievements": "2023-11-07T09:06:02.452226+00:00"
 }

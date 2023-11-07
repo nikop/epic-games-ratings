@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -67,9 +67,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 525,
+  "EOS_Progressed": 527,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2397,6 +2397,11 @@
       "Time": "2023-11-06T20:16:19.4284423+00:00",
       "NumProgressed": 525,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T09:06:13.5972081+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -2414,7 +2419,7 @@
       "ID": "COMPLETE_ALL_HISTORIC BATTLES",
       "SetID": "6kcl14p",
       "Name": "A Student of History",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 80,
       "UsersEstimate": 5
     },
@@ -2462,7 +2467,7 @@
       "ID": "REACH_DECEMBER_1919",
       "SetID": "6kcl14p",
       "Name": "That\u0027s Not What Happened",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 70,
       "UsersEstimate": 5
     },
@@ -2470,9 +2475,9 @@
       "ID": "USE_UNDERMINE",
       "SetID": "6kcl14p",
       "Name": "Earth Shattering",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 90,
-      "UsersEstimate": 262
+      "UsersEstimate": 258
     },
     {
       "ID": "WIN_CAMPAIGN_AS_ALLIES",
@@ -2480,15 +2485,15 @@
       "Name": "La Der des Ders",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "WIN_CAMPAIGN_AS_CENTRAL_POWERS",
       "SetID": "6kcl14p",
       "Name": "Das Ist Endg\u00FCltig!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -2496,14 +2501,14 @@
       "Name": "Nothing Can Stop Us!",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 525,
+      "Progressed": 527,
       "Completed": 0
     }
   ],
@@ -2511,8 +2516,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-02T22:00:31.3526393+00:00",
-  "LastChanged_Achievements": "2023-11-07T08:08:31.0775647+00:00",
+  "LastChanged_Achievements": "2023-11-07T09:06:13.5972076+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:46.4761888+00:00",
-  "LastUpdate_Ratings": "2023-11-07T07:57:36.6900673+00:00",
-  "LastUpdate_Achievements": "2023-11-07T08:08:31.0776162+00:00"
+  "LastUpdate_Ratings": "2023-11-07T08:57:28.5713704+00:00",
+  "LastUpdate_Achievements": "2023-11-07T09:06:13.5972284+00:00"
 }

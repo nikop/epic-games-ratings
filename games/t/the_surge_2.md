@@ -32,9 +32,9 @@ Rating: 4.24 (Ranked 878)
 | Risk Tolerant | 13.00% | ~283 |
 | What A Catchy Song | 13.00% | ~283 |
 | Corrupted Beauty | 12.00% | ~261 |
+| Marked For Success | 12.00% | ~261 |
 | Where It All Began | 12.00% | ~261 |
 | Sorry, Didn't See You There | 12.00% | ~261 |
-| Marked For Success | 11.00% | ~240 |
 | Triplets | 10.00% | ~218 |
 | Denying Prophecy | 9.00% | ~196 |
 | Stimulating The Local Economy | 9.00% | ~196 |
@@ -45,11 +45,11 @@ Rating: 4.24 (Ranked 878)
 | Reborn | 6.00% | ~131 |
 | Remote Surgery | 6.00% | ~131 |
 | Turbo Booster | 6.00% | ~131 |
+| Juiced Up | 6.00% | ~131 |
 | Squid Pro Quo | 6.00% | ~131 |
 | Hello Darkness My Old Friend | 5.00% | ~109 |
 | Counter-Sniper | 5.00% | ~109 |
 | Shrimp Cocktail | 5.00% | ~109 |
-| Juiced Up | 5.00% | ~109 |
 | Geronimo! | 4.00% | ~87 |
 | Homewrecker | 4.00% | ~87 |
 | Plank of Wood | 4.00% | ~87 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 945,
+  "EOS_Progressed": 946,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1892,6 +1892,11 @@
       "Time": "2023-11-07T05:03:07.4855886+00:00",
       "NumProgressed": 945,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T09:02:55.3626411+00:00",
+      "NumProgressed": 946,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1911,7 +1916,7 @@
       "Name": "Act II Complete",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1925,9 +1930,9 @@
       "ID": "ACH_ALWAYS_FINDING_YOUR_MARK",
       "SetID": "108h92c",
       "Name": "Always Finding Your Mark",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 284
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_A_DROP_IN_THE_OCEAN",
@@ -1951,7 +1956,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -1983,7 +1988,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -1999,7 +2004,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2013,9 +2018,9 @@
       "ID": "ACH_FIRE_AND_BRIMSTONE",
       "SetID": "108h92c",
       "Name": "Fire and Brimstone",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_GECKO_GOAL_GETTER",
@@ -2039,7 +2044,7 @@
       "Name": "It\u2019s Heating up!",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2055,7 +2060,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2063,7 +2068,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2095,7 +2100,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -2118,7 +2123,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 945,
+      "Progressed": 946,
       "Completed": 0
     }
   ],
@@ -2126,8 +2131,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-11-07T08:03:29.9006477+00:00",
+  "LastChanged_Achievements": "2023-11-07T09:02:55.3626407+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:01.9640751+00:00",
-  "LastUpdate_Ratings": "2023-11-07T07:59:54.5248877+00:00",
-  "LastUpdate_Achievements": "2023-11-07T08:03:29.9007067+00:00"
+  "LastUpdate_Ratings": "2023-11-07T08:59:19.2485027+00:00",
+  "LastUpdate_Achievements": "2023-11-07T09:02:55.3626764+00:00"
 }

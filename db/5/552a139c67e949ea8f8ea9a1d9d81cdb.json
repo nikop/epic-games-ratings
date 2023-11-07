@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -1978,9 +1978,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 427
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2079,8 +2079,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-07T08:05:55.8095289+00:00",
+  "LastChanged_Achievements": "2023-11-07T09:04:55.6461012+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-07T07:57:14.8138616+00:00",
-  "LastUpdate_Achievements": "2023-11-07T08:05:55.8095743+00:00"
+  "LastUpdate_Ratings": "2023-11-07T08:57:10.0907328+00:00",
+  "LastUpdate_Achievements": "2023-11-07T09:04:55.6461395+00:00"
 }

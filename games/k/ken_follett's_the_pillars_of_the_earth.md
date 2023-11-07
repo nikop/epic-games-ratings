@@ -10,7 +10,7 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 34.00% | ~5,518 |
 | Friends of sorts | 33.00% | ~5,356 |
 | Yet another secret | 33.00% | ~5,356 |
-| Let there be darkness | 32.00% | ~5,193 |
+| Let there be darkness | 32.00% | ~5,194 |
 | End of Book One | 30.00% | ~4,869 |
 | Garden of Eden | 24.00% | ~3,895 |
 | Full house | 24.00% | ~3,895 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,272 |
 | Jack was here! | 14.00% | ~2,272 |
 | Exterminator | 13.00% | ~2,110 |
-| Whodunnit | 12.00% | ~1,947 |
+| Whodunnit | 12.00% | ~1,948 |
 | Good midwife | 11.00% | ~1,785 |
 | First profit | 11.00% | ~1,785 |
 | Friar Tuck | 10.00% | ~1,623 |
@@ -38,9 +38,9 @@ Number of Ratings: 368  (23.09.2022)
 | A cry for help | 8.00% | ~1,298 |
 | Silentium est aureum | 7.00% | ~1,136 |
 | Rebel without a cause | 6.00% | ~974 |
-| Staring contest champion | 5.00% | ~811 |
-| Lone wolf | 5.00% | ~811 |
-| Vox Populi | 5.00% | ~811 |
+| Staring contest champion | 5.00% | ~812 |
+| Lone wolf | 5.00% | ~812 |
+| Vox Populi | 5.00% | ~812 |
 | Revenge | 4.00% | ~649 |
 | Self-defense | 4.00% | ~649 |
 | Countess Aliena | 4.00% | ~649 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~487 |
 | Boy of mystery | 2.00% | ~325 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,229 (Ranked 144)  
+Progressed: 16,230 (Ranked 144)  
 Completed: 114 (0.70%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 114 (0.70%) (Ranked 172)
 | 2023-11-04 | 16,174 | 114 |
 | 2023-11-05 | 16,209 | 114 |
 | 2023-11-06 | 16,228 | 114 |
-| 2023-11-07 | 16,229 | 114 |
+| 2023-11-07 | 16,230 | 114 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 312)  
 Sum: 198 (Ranked 398)  

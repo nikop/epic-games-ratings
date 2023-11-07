@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23632,
+  "EOS_Progressed": 23634,
   "EOS_Completed": 451,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 510,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -21978,6 +21978,11 @@
       "Time": "2023-11-07T08:07:12.9880991+00:00",
       "NumProgressed": 23632,
       "NumCompleted": 451
+    },
+    {
+      "Time": "2023-11-07T09:05:59.4383538+00:00",
+      "NumProgressed": 23634,
+      "NumCompleted": 451
     }
   ],
   "TotalAchievements": 20,
@@ -21989,7 +21994,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4017
+      "UsersEstimate": 4018
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -22005,7 +22010,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3308
+      "UsersEstimate": 3309
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -22109,7 +22114,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18197
+      "UsersEstimate": 18198
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22148,15 +22153,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23632,
+      "Progressed": 23634,
       "Completed": 451
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-07T08:07:12.9880985+00:00",
+  "LastChanged_Achievements": "2023-11-07T09:05:59.4383534+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.680563+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:03:12.1957417+00:00",
-  "LastUpdate_Achievements": "2023-11-07T08:07:12.9882883+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:02:40.6482204+00:00",
+  "LastUpdate_Achievements": "2023-11-07T09:05:59.4384693+00:00"
 }

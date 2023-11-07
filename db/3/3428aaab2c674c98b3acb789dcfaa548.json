@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
@@ -7197,10 +7197,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 15213,
       "NumberOfAwardsMax": 5277
+    },
+    {
+      "Time": "2023-11-07T09:00:05.1008337+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 15215,
+      "NumberOfAwardsMax": 5277
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15213,
+  "NumberOfAwards": 15215,
   "NumberOfAwardsMax": 5277,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7250,7 +7256,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 487
+      "Count": 489
     },
     {
       "Text": "This game is Extremely Fun",
@@ -7277,9 +7283,9 @@
       "Count": 1100
     }
   ],
-  "EOS_Progressed": 833943,
+  "EOS_Progressed": 833952,
   "EOS_Completed": 194,
-  "EOS_NewPlayers": 5318,
+  "EOS_NewPlayers": 5304,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26732,6 +26738,11 @@
       "Time": "2023-11-07T08:05:16.0554113+00:00",
       "NumProgressed": 833943,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-11-07T09:04:23.0987795+00:00",
+      "NumProgressed": 833952,
+      "NumCompleted": 194
     }
   ],
   "TotalAchievements": 75,
@@ -26743,7 +26754,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 200146
+      "UsersEstimate": 200148
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -26783,7 +26794,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25018
+      "UsersEstimate": 25019
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -26807,7 +26818,7 @@
       "Name": "Cash Out",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8339
+      "UsersEstimate": 8340
     },
     {
       "ID": "ACHIEVEMENT_COMBAT_VETERAN",
@@ -26823,7 +26834,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 41697
+      "UsersEstimate": 41698
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -26847,7 +26858,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25018
+      "UsersEstimate": 25019
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -26967,7 +26978,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41697
+      "UsersEstimate": 41698
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -26983,7 +26994,7 @@
       "Name": "Love the Bomb",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8339
+      "UsersEstimate": 8340
     },
     {
       "ID": "ACHIEVEMENT_MAKE_UP_YOUR_MIND",
@@ -27055,7 +27066,7 @@
       "Name": "No Gods, No Masters",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8339
+      "UsersEstimate": 8340
     },
     {
       "ID": "ACHIEVEMENT_NO_TUMBLER_FUMBLER",
@@ -27151,7 +27162,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 41697
+      "UsersEstimate": 41698
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -27199,7 +27210,7 @@
       "Name": "Talent Pool",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8339
+      "UsersEstimate": 8340
     },
     {
       "ID": "ACHIEVEMENT_THAT_LUCKY_OL_SUN",
@@ -27223,7 +27234,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25018
+      "UsersEstimate": 25019
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -27295,7 +27306,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41697
+      "UsersEstimate": 41698
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -27311,7 +27322,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 25018
+      "UsersEstimate": 25019
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -27319,7 +27330,7 @@
       "Name": "Wild Card",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8339
+      "UsersEstimate": 8340
     },
     {
       "ID": "ACHIEVEMENT_YOULL_KNOW_WHEN_IT_HAPPENS",
@@ -27342,22 +27353,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 833943,
+      "Progressed": 833952,
       "Completed": 235
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 833943,
+      "Progressed": 833952,
       "Completed": 194
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2023-11-07T00:01:05.7179493+00:00",
-  "LastChanged_Achievements": "2023-11-07T08:05:16.0554105+00:00",
+  "LastChanged": "2023-11-07T09:00:05.1008335+00:00",
+  "LastChanged_Achievements": "2023-11-07T09:04:23.098773+00:00",
   "LastUpdate_AppInfo": "2023-11-03T05:57:26.006428+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:00:51.4391026+00:00",
-  "LastUpdate_Achievements": "2023-11-07T08:05:16.0556492+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:00:05.1008341+00:00",
+  "LastUpdate_Achievements": "2023-11-07T09:04:23.0989294+00:00"
 }

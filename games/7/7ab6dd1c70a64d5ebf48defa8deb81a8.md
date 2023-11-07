@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 54.00% | ~86 |
-| Trinity | 29.00% | ~46 |
-| Find Allies | 24.00% | ~38 |
-| A Taste of Wrath | 23.00% | ~37 |
+| Break Out | 53.00% | ~86 |
+| Trinity | 29.00% | ~47 |
+| Find Allies | 23.00% | ~37 |
 | Shatter Them All | 23.00% | ~37 |
-| The Collector | 23.00% | ~37 |
-| Fashion Victim | 22.00% | ~35 |
-| Powerful Allies | 21.00% | ~34 |
+| A Taste of Wrath | 22.00% | ~36 |
+| The Collector | 22.00% | ~36 |
 | Adventurer | 21.00% | ~34 |
-| Scholar | 21.00% | ~34 |
-| I Found It | 21.00% | ~34 |
-| Geared Up | 19.00% | ~30 |
+| Fashion Victim | 21.00% | ~34 |
+| Powerful Allies | 20.00% | ~33 |
+| Scholar | 20.00% | ~33 |
+| I Found It | 20.00% | ~33 |
 | Tributes of Caladrias | 18.00% | ~29 |
+| Geared Up | 18.00% | ~29 |
 | Stone Collection | 18.00% | ~29 |
 | Essence Blow | 11.00% | ~18 |
-| Airborne | 8.00% | ~13 |
 | Big Bazar | 8.00% | ~13 |
 | Alchemist | 8.00% | ~13 |
+| Airborne | 7.00% | ~11 |
 | The Mentor | 6.00% | ~10 |
 | Miner | 5.00% | ~8 |
-| Calm before the Storm | 4.00% | ~6 |
-| To Battle | 4.00% | ~6 |
-| Godslayer | 4.00% | ~6 |
-| Flawless Victory | 4.00% | ~6 |
-| A Queen's Tale | 3.00% | ~5 |
+| Calm before the Storm | 4.00% | ~7 |
+| To Battle | 4.00% | ~7 |
+| Godslayer | 4.00% | ~7 |
+| Flawless Victory | 4.00% | ~7 |
 | Clear Sight | 2.00% | ~3 |
 | Slayer | 2.00% | ~3 |
 | Fine Feathers Make Fine Birds | 2.00% | ~3 |
 | False God | 2.00% | ~3 |
+| A Queen's Tale | 2.00% | ~3 |
 | Shatterer | 1.00% | ~2 |
 | Shardbearer | 0.60% | ~1 |
 | Forgemaster | 0.00% | ~0 |
@@ -41,8 +41,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 380)  
-Completed: 1 (0.62%) (Ranked 176)  
+Progressed: 163 (Ranked 376)  
+Completed: 1 (0.61%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -72,4 +72,4 @@ Completed: 1 (0.62%) (Ranked 176)
 | 2023-11-04 | 115 | 1 |
 | 2023-11-05 | 133 | 1 |
 | 2023-11-06 | 155 | 1 |
-| 2023-11-07 | 160 | 1 |
+| 2023-11-07 | 163 | 1 |

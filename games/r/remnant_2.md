@@ -10,30 +10,30 @@ Rating: 4.75 (Ranked 142)
 | Expanding Horizons | 7.00% | ~15,296 |
 | Quest for Survival | 7.00% | ~15,296 |
 | Not Your Average Trait | 7.00% | ~15,296 |
-| Gleaming the Cube | 6.00% | ~13,110 |
-| Familiar Face | 6.00% | ~13,110 |
-| Duality | 6.00% | ~13,110 |
-| Boss'n Up | 6.00% | ~13,110 |
-| Trait Chaser | 6.00% | ~13,110 |
-| Not So Special Now | 5.00% | ~10,925 |
-| Not a Janitor | 5.00% | ~10,925 |
-| Equal Measures | 5.00% | ~10,925 |
-| Blue Goddess | 5.00% | ~10,925 |
-| Top Performer | 5.00% | ~10,925 |
-| Shhh...It's a Secret | 5.00% | ~10,925 |
-| Almost There | 5.00% | ~10,925 |
-| Make Some Room | 5.00% | ~10,925 |
-| Good, But Could Be Better! | 5.00% | ~10,925 |
-| Chaos | 4.00% | ~8,740 |
-| Traitor | 4.00% | ~8,740 |
-| Power Surge | 4.00% | ~8,740 |
-| The God Gambit | 4.00% | ~8,740 |
-| Dark Designs | 4.00% | ~8,740 |
-| Madman's Paradise | 4.00% | ~8,740 |
-| Was This Supposed To Happen? | 4.00% | ~8,740 |
-| The Web | 4.00% | ~8,740 |
-| Scrap Collector | 4.00% | ~8,740 |
-| All These Traits� | 4.00% | ~8,740 |
+| Gleaming the Cube | 6.00% | ~13,111 |
+| Familiar Face | 6.00% | ~13,111 |
+| Duality | 6.00% | ~13,111 |
+| Boss'n Up | 6.00% | ~13,111 |
+| Trait Chaser | 6.00% | ~13,111 |
+| Not So Special Now | 5.00% | ~10,926 |
+| Not a Janitor | 5.00% | ~10,926 |
+| Equal Measures | 5.00% | ~10,926 |
+| Blue Goddess | 5.00% | ~10,926 |
+| Top Performer | 5.00% | ~10,926 |
+| Shhh...It's a Secret | 5.00% | ~10,926 |
+| Almost There | 5.00% | ~10,926 |
+| Make Some Room | 5.00% | ~10,926 |
+| Good, But Could Be Better! | 5.00% | ~10,926 |
+| Chaos | 4.00% | ~8,741 |
+| Traitor | 4.00% | ~8,741 |
+| Power Surge | 4.00% | ~8,741 |
+| The God Gambit | 4.00% | ~8,741 |
+| Dark Designs | 4.00% | ~8,741 |
+| Madman's Paradise | 4.00% | ~8,741 |
+| Was This Supposed To Happen? | 4.00% | ~8,741 |
+| The Web | 4.00% | ~8,741 |
+| Scrap Collector | 4.00% | ~8,741 |
+| All These Traits� | 4.00% | ~8,741 |
 | Am I Seeing This? | 3.00% | ~6,555 |
 | Forever is a Long Time Coming | 3.00% | ~6,555 |
 | The Agenda | 3.00% | ~6,555 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 142)
 | The Collector | 1.00% | ~2,185 |
 | Proving Grounds | 1.00% | ~2,185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,508 (Ranked 68)  
+Progressed: 218,514 (Ranked 68)  
 Completed: 432 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 432 (0.20%) (Ranked 244)
 | 2023-11-04 | 217,742 | 429 |
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
-| 2023-11-07 | 218,508 | 432 |
+| 2023-11-07 | 218,514 | 432 |
 ## Awards
 Max (Great Boss Battles): 2,080  (Ranked 109)  
 Sum: 4,661 (Ranked 143)  

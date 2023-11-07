@@ -10,15 +10,15 @@ Rating: 4.60 (Ranked 409)
 | ... And Spit Back Out | 60.00% | ~4,565 |
 | Break-Net Speed | 49.00% | ~3,728 |
 | Bramble Breaker | 46.00% | ~3,500 |
-| Miner 49er | 43.00% | ~3,271 |
-| Humble Collector | 42.00% | ~3,195 |
+| Miner 49er | 43.00% | ~3,272 |
+| Humble Collector | 42.00% | ~3,196 |
 | Calm Sailing | 36.00% | ~2,739 |
 | Open the Gate! | 33.00% | ~2,511 |
 | Mist Walker | 32.00% | ~2,435 |
 | Lumberjack | 27.00% | ~2,054 |
 | Oui, Chef! | 23.00% | ~1,750 |
-| Clear the Air | 18.00% | ~1,369 |
-| Botanical Breakthrough | 17.00% | ~1,293 |
+| Clear the Air | 18.00% | ~1,370 |
+| Botanical Breakthrough | 17.00% | ~1,294 |
 | Search for the Hairy Grell | 14.00% | ~1,065 |
 | Higher Tax Bracket | 14.00% | ~1,065 |
 | Beach Comber | 13.00% | ~989 |
@@ -28,8 +28,8 @@ Rating: 4.60 (Ranked 409)
 | Rumble in the Jumble | 8.00% | ~609 |
 | Fae Farmer | 7.00% | ~533 |
 | Fanatical Farmer | 7.00% | ~533 |
-| Scattered Scroll Scrounger | 6.00% | ~456 |
-| Azorian Anniversary | 6.00% | ~456 |
+| Scattered Scroll Scrounger | 6.00% | ~457 |
+| Azorian Anniversary | 6.00% | ~457 |
 | I Now Pronounce You... | 5.00% | ~380 |
 | Chatty Neighbor | 4.00% | ~304 |
 | House Proud | 4.00% | ~304 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 409)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,608 (Ranked 167)  
+Progressed: 7,609 (Ranked 167)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-04 | 7,539 | 0 |
 | 2023-11-05 | 7,572 | 1 |
 | 2023-11-06 | 7,594 | 1 |
-| 2023-11-07 | 7,608 | 1 |
+| 2023-11-07 | 7,609 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

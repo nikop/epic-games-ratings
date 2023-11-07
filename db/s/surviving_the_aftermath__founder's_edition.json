@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1392,9 +1392,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10168,
+  "EOS_Progressed": 10169,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16532,6 +16532,11 @@
       "Time": "2023-11-07T04:04:07.0167673+00:00",
       "NumProgressed": 10168,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T09:04:06.9686854+00:00",
+      "NumProgressed": 10169,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16543,7 +16548,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6202
+      "UsersEstimate": 6203
     },
     {
       "ID": "10",
@@ -16575,7 +16580,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "14",
@@ -16623,7 +16628,7 @@
       "Name": "Healer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5389
+      "UsersEstimate": 5390
     },
     {
       "ID": "2",
@@ -16695,7 +16700,7 @@
       "Name": "Energized",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "28",
@@ -16815,7 +16820,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "41",
@@ -16871,7 +16876,7 @@
       "Name": "The Long Haul",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 3355
+      "UsersEstimate": 3356
     },
     {
       "ID": "48",
@@ -16967,7 +16972,7 @@
       "Name": "Tailored to fit",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "59",
@@ -17014,15 +17019,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10168,
+      "Progressed": 10169,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-04T14:57:34.7407793+00:00",
-  "LastChanged_Achievements": "2023-11-07T08:04:56.6841866+00:00",
+  "LastChanged_Achievements": "2023-11-07T09:04:06.9686851+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.6653375+00:00",
-  "LastUpdate_Ratings": "2023-11-07T07:59:26.0400448+00:00",
-  "LastUpdate_Achievements": "2023-11-07T08:04:56.6843734+00:00"
+  "LastUpdate_Ratings": "2023-11-07T08:58:57.7582066+00:00",
+  "LastUpdate_Achievements": "2023-11-07T09:04:06.9687936+00:00"
 }
