@@ -9,6 +9,7 @@ Rating: 4.54 (Ranked 521)
 | Whatever It Takes | 1.00% | ~398 |
 | Pork Chopped | 1.00% | ~398 |
 | Break A Leg | 0.40% | ~2,857 |
+| Coup de Grâce | 0.40% | ~2,857 |
 | Hotel California | 0.40% | ~2,857 |
 | Welcome To Hell-A | 0.40% | ~2,857 |
 | Dr. Reed, I Presume? | 0.30% | ~2,143 |
@@ -17,7 +18,6 @@ Rating: 4.54 (Ranked 521)
 | Bookworm | 0.30% | ~2,143 |
 | But Doctor, I am Butcho | 0.30% | ~2,143 |
 | Can't Handle the Truth | 0.30% | ~2,143 |
-| Coup de Grâce | 0.30% | ~2,143 |
 | Hazardous Materials | 0.30% | ~2,143 |
 | Friends Like These | 0.30% | ~2,143 |
 | Apex Predator | 0.30% | ~2,143 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 521)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,253 (Ranked 21)  
+Progressed: 714,263 (Ranked 21)  
 Completed: 2,350 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 2,350 (0.33%) (Ranked 219)
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
-| 2023-11-07 | 714,253 | 2,350 |
+| 2023-11-07 | 714,263 | 2,350 |
 ## Awards
 Max (Great Boss Battles): 7,125  (Ranked 53)  
 Sum: 10,796 (Ranked 89)  

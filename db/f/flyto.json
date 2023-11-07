@@ -2,9 +2,9 @@
   "ID": "05e01595336148b1963903952ee960b3",
   "Name": "Flyto",
   "ProductSlug": "flyto-c4d923",
-  "Ranking_EOS_Progress": 728,
+  "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-18T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-28T19:59:48.0827719+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:00.4465128+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:58:22.5734935+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:07:16.85385+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:58:03.2823403+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:06:12.9658577+00:00"
 }

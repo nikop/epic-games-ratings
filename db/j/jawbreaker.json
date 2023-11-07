@@ -2,9 +2,9 @@
   "ID": "25dc90a6e7c34e03a72007bc4777a254",
   "Name": "Jawbreaker",
   "ProductSlug": "jawbreaker-bb17a4",
-  "Ranking_EOS_Progress": 728,
+  "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T18:58:04.4504319+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:00:11.4589439+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:05:31.8648517+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:59:32.8864752+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:04:46.1344474+00:00"
 }

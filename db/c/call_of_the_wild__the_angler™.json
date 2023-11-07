@@ -9620,9 +9620,9 @@
       "ID": "ACHIEVEMENT_004",
       "SetID": "1a05lfd",
       "Name": "Ready to Rod and Roll",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -9900,17 +9900,17 @@
       "ID": "ACHIEVEMENT_040",
       "SetID": "6jk25od",
       "Name": "All Good Kings Must Come to an End",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_041",
       "SetID": "6jk25od",
       "Name": "Three Square Meals",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -9931,8 +9931,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:09:10.6515328+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:08:26.8197127+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:59:40.1779592+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:09:10.6516193+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:59:06.1310035+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:08:26.8197784+00:00"
 }

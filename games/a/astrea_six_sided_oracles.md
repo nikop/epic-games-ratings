@@ -17,7 +17,7 @@
 | Lacertian Champion | 32.00% | ~22 |
 | Apian Champion | 31.00% | ~21 |
 | Anomaly Destroyer | 28.00% | ~19 |
-| Stellar Dismantler | 26.00% | ~18 |
+| Stellar Dismantler | 28.00% | ~19 |
 | Loyal Partner | 25.00% | ~17 |
 | Behenian Champion | 25.00% | ~17 |
 | Star Killer | 24.00% | ~16 |

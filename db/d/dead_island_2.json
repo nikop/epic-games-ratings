@@ -6213,9 +6213,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714253,
+  "EOS_Progressed": 714263,
   "EOS_Completed": 2350,
-  "EOS_NewPlayers": 5355,
+  "EOS_NewPlayers": 5340,
   "EOS_NewCompleters": 65,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29088,6 +29088,11 @@
       "Time": "2023-11-07T03:06:00.5161199+00:00",
       "NumProgressed": 714253,
       "NumCompleted": 2350
+    },
+    {
+      "Time": "2023-11-07T04:05:09.8134371+00:00",
+      "NumProgressed": 714263,
+      "NumCompleted": 2350
     }
   ],
   "TotalAchievements": 51,
@@ -29217,9 +29222,9 @@
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2857
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -29506,22 +29511,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714253,
+      "Progressed": 714263,
       "Completed": 2350
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39795,
-      "Completed": 36474
+      "Progressed": 39805,
+      "Completed": 36475
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-07T01:42:53.6891474+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:06:00.5161189+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:05:09.8134366+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:57:57.5640382+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:06:00.5162871+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:57:42.8859367+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:05:09.8135724+00:00"
 }

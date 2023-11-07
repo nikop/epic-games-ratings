@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24450,
+  "EOS_Progressed": 24451,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6492,6 +6492,11 @@
       "Time": "2023-11-07T01:50:13.2562718+00:00",
       "NumProgressed": 24450,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-07T04:05:01.879247+00:00",
+      "NumProgressed": 24451,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6575,7 +6580,7 @@
       "Name": "Lezduit!",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -6607,7 +6612,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -6647,7 +6652,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -6671,7 +6676,7 @@
       "Name": "Self-Actualization",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -6687,7 +6692,7 @@
       "Name": "Fallout Doesn\u0027t Let You Do This",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_KNIFE_GENE",
@@ -6727,7 +6732,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -6751,7 +6756,7 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACH_CHARGED_BALL_KILLS",
@@ -6854,13 +6859,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24450,
+      "Progressed": 24451,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1743,
+      "Progressed": 1744,
       "Completed": 1376
     }
   ],
@@ -6868,8 +6873,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-04T04:58:56.1771258+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:05:50.6000362+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:05:01.8792464+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.8634233+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:01:03.1569729+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:05:50.6001142+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:00:13.8964052+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:05:01.8793047+00:00"
 }

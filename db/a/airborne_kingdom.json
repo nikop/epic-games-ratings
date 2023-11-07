@@ -5582,9 +5582,9 @@
       "ID": "AK_HARP_TUNED",
       "SetID": "dfmb89",
       "Name": "Harp Tuned",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1788
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -5718,9 +5718,9 @@
       "ID": "AK_TRAVELERS_RETURNED",
       "SetID": "dfmb89",
       "Name": "Travelers Returned",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1788
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -5766,8 +5766,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:05:27.8681478+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:04:43.0185833+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:02:59.5028704+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:05:27.8682023+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:02:39.4527345+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:04:43.0186223+00:00"
 }

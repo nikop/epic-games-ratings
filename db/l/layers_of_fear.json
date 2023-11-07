@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 455,
+  "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -299,6 +299,11 @@
       "Time": "2023-11-06T00:05:19.5592765+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T04:05:30.5737826+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -333,7 +338,7 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -389,7 +394,7 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -413,7 +418,7 @@
       "ID": "do_not_look",
       "SetID": "f2im8d",
       "Name": "Refuse to look",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 20
     },
@@ -421,7 +426,7 @@
       "ID": "do_what_you_have_to",
       "SetID": "f2im8d",
       "Name": "Do what you have to",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
       "UsersEstimate": 23
     },
@@ -437,7 +442,7 @@
       "ID": "face_your_fears",
       "SetID": "f2im8d",
       "Name": "Face your fears",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -461,7 +466,7 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -493,7 +498,7 @@
       "ID": "finished_it",
       "SetID": "f2im8d",
       "Name": "Finished it",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
       "UsersEstimate": 16
     },
@@ -581,7 +586,7 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -645,7 +650,7 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 73,
+      "Percentage": 72,
       "XP": 5,
       "UsersEstimate": 41
     },
@@ -677,7 +682,7 @@
       "ID": "the_tragedy_unfolds",
       "SetID": "f2im8d",
       "Name": "The tragedy unfolds",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -709,7 +714,7 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
       "UsersEstimate": 42
     },
@@ -726,14 +731,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:06:25.7497201+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:05:30.573782+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:41.7435557+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:03:10.4425463+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:06:25.7497675+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:02:48.3016745+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:05:30.5738172+00:00"
 }

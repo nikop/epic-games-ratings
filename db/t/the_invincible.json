@@ -100,9 +100,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "AchvAllMemories",
@@ -284,9 +284,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "AchvReachCondor",
@@ -339,8 +339,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:04:05.6213703+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:03:35.0845824+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.4081389+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:58:39.7218624+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:04:05.6213943+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:58:16.904816+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:03:35.0845985+00:00"
 }

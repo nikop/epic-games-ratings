@@ -1,9 +1,9 @@
 {
   "ID": "6720ac0d67e2464ba2f2f0c1f4ea3e41",
   "Name": "Phobos",
-  "Ranking_EOS_Progress": 728,
+  "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": null,
@@ -28,6 +28,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-05-05T13:32:32.935863+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:58:59.7595431+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:09:41.0188498+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:58:33.2663665+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:08:52.8652774+00:00"
 }

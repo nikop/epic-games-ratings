@@ -13,15 +13,15 @@
 | Adventurer | 21.00% | ~34 |
 | Fashion Victim | 21.00% | ~34 |
 | Scholar | 21.00% | ~34 |
+| I Found It | 21.00% | ~34 |
 | Powerful Allies | 20.00% | ~32 |
-| I Found It | 20.00% | ~32 |
 | Geared Up | 19.00% | ~30 |
 | Tributes of Caladrias | 18.00% | ~29 |
 | Stone Collection | 18.00% | ~29 |
 | Essence Blow | 11.00% | ~18 |
+| Airborne | 8.00% | ~13 |
 | Big Bazar | 8.00% | ~13 |
 | Alchemist | 8.00% | ~13 |
-| Airborne | 7.00% | ~11 |
 | The Mentor | 6.00% | ~10 |
 | Miner | 5.00% | ~8 |
 | Calm before the Storm | 4.00% | ~6 |

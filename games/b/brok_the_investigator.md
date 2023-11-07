@@ -16,8 +16,8 @@
 | Chapter 6 | 17.00% | ~4 |
 | Ads Fan | 13.00% | ~3 |
 | Best Student | 13.00% | ~3 |
+| Food Thief | 13.00% | ~3 |
 | Highway Survival | 13.00% | ~3 |
-| Food Thief | 9.00% | ~2 |
 | Paw Music | 9.00% | ~2 |
 | Sugar Pills Lover | 9.00% | ~2 |
 | Tramp Saver | 9.00% | ~2 |

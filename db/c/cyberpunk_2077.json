@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14786,9 +14786,9 @@
       "Count": 12552
     }
   ],
-  "EOS_Progressed": 895593,
+  "EOS_Progressed": 895597,
   "EOS_Completed": 2752,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1011,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37491,6 +37491,11 @@
       "Time": "2023-11-07T03:07:25.4002349+00:00",
       "NumProgressed": 895593,
       "NumCompleted": 2752
+    },
+    {
+      "Time": "2023-11-07T04:06:19.994201+00:00",
+      "NumProgressed": 895597,
+      "NumCompleted": 2752
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37725,9 +37730,9 @@
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1791
+      "UsersEstimate": 2687
     },
     {
       "ID": "TheHightPriestess",
@@ -38038,21 +38043,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895593,
+      "Progressed": 895597,
       "Completed": 2752
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24216,
+      "Progressed": 24220,
       "Completed": 10197
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-07T01:45:18.8449107+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:07:25.400234+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:06:19.9942004+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:00:56.3612528+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:07:25.4004322+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:00:08.8407366+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:06:19.9943522+00:00"
 }

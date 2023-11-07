@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -975,9 +975,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66005,
+  "EOS_Progressed": 66007,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 748,
+  "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8170,6 +8170,11 @@
       "Time": "2023-11-07T03:03:46.2599576+00:00",
       "NumProgressed": 66005,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-07T04:03:19.1053483+00:00",
+      "NumProgressed": 66007,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8262,7 +8267,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6600
+      "UsersEstimate": 6601
     },
     {
       "ID": "5",
@@ -8270,7 +8275,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "6",
@@ -8309,7 +8314,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66005,
+      "Progressed": 66007,
       "Completed": 29
     }
   ],
@@ -8317,8 +8322,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-06T23:57:13.8188041+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:03:46.2599572+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:03:19.1053477+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:57:29.6065976+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:03:46.2600172+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:57:18.9098383+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:03:19.1053907+00:00"
 }

@@ -4933,9 +4933,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 249990,
+  "EOS_Progressed": 249991,
   "EOS_Completed": 871,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 743,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -26793,6 +26793,11 @@
       "Time": "2023-11-07T03:09:33.8909519+00:00",
       "NumProgressed": 249990,
       "NumCompleted": 871
+    },
+    {
+      "Time": "2023-11-07T04:08:46.9669123+00:00",
+      "NumProgressed": 249991,
+      "NumCompleted": 871
     }
   ],
   "TotalAchievements": 39,
@@ -26836,7 +26841,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 67497
+      "UsersEstimate": 67498
     },
     {
       "ID": "AchievementBigFootID",
@@ -26860,7 +26865,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 64997
+      "UsersEstimate": 64998
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -26868,7 +26873,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 227491
+      "UsersEstimate": 227492
     },
     {
       "ID": "AchievementClownID",
@@ -26948,7 +26953,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 37498
+      "UsersEstimate": 37499
     },
     {
       "ID": "AchievementInstinctID",
@@ -26972,7 +26977,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142494
+      "UsersEstimate": 142495
     },
     {
       "ID": "AchievementLootBoxID",
@@ -27004,7 +27009,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 94996
+      "UsersEstimate": 94997
     },
     {
       "ID": "AchievementRampID",
@@ -27052,7 +27057,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 124995
+      "UsersEstimate": 124996
     },
     {
       "ID": "AchievementStreakingID",
@@ -27076,7 +27081,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137494
+      "UsersEstimate": 137495
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -27084,7 +27089,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 117495
+      "UsersEstimate": 117496
     },
     {
       "ID": "AchievementTrinketID",
@@ -27108,14 +27113,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 67497
+      "UsersEstimate": 67498
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 249990,
+      "Progressed": 249991,
       "Completed": 871
     }
   ],
@@ -27123,8 +27128,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-07T01:45:15.4802791+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:09:33.8909508+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:08:46.9669117+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:20.6664953+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:00:51.872545+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:09:33.8912161+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:00:05.3773714+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:08:46.9670344+00:00"
 }

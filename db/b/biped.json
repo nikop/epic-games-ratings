@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6901,
+  "EOS_Progressed": 6902,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12419,6 +12419,11 @@
       "Time": "2023-11-06T23:06:14.0642939+00:00",
       "NumProgressed": 6901,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T04:05:32.3143711+00:00",
+      "NumProgressed": 6902,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -12430,7 +12435,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "10",
@@ -12486,7 +12491,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1932
+      "UsersEstimate": 1933
     },
     {
       "ID": "3",
@@ -12549,7 +12554,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6901,
+      "Progressed": 6902,
       "Completed": 0
     }
   ],
@@ -12557,8 +12562,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:06:27.705173+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:05:32.3143704+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:28.2886211+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:02:52.3630277+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:06:27.7052511+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:02:33.9634523+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:05:32.3144358+00:00"
 }

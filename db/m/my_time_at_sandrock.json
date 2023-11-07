@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 237,
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1410,9 +1410,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 233,
+  "EOS_Progressed": 234,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1920,6 +1920,11 @@
       "Time": "2023-11-07T03:04:19.2758042+00:00",
       "NumProgressed": 233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T04:03:46.5463853+00:00",
+      "NumProgressed": 234,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-02T08:07:08.352719+00:00",
@@ -1946,9 +1951,9 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 126
     },
     {
       "ID": "C_STAYUP",
@@ -2004,7 +2009,7 @@
       "Name": "Adept Assembler",
       "Percentage": 235,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 550
     },
     {
       "ID": "M_BACKPACK",
@@ -2012,7 +2017,7 @@
       "Name": "Pack Mule",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "M_COMMISSION",
@@ -2026,7 +2031,7 @@
       "ID": "M_DISH",
       "SetID": "80dcan0",
       "Name": "Iron Chef",
-      "Percentage": 198,
+      "Percentage": 197,
       "XP": 10,
       "UsersEstimate": 461
     },
@@ -2074,9 +2079,9 @@
       "ID": "P_BEAUTIFYSANDROCK",
       "SetID": "80dcan0",
       "Name": "Finishing Touches",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "P_BRIDGE",
@@ -2092,7 +2097,7 @@
       "Name": "Better Late than Never",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "P_ENVIRONMENT",
@@ -2114,9 +2119,9 @@
       "ID": "P_HYDROGEL",
       "SetID": "80dcan0",
       "Name": "What Plants Crave",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "P_JEWEL",
@@ -2156,7 +2161,7 @@
       "Name": "Greeno-B-Gone",
       "Percentage": 116,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "P_SAVESANDROCK",
@@ -2164,7 +2169,7 @@
       "Name": "Your Especially Earned Trajectory",
       "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "P_SCHOOL",
@@ -2186,9 +2191,9 @@
       "ID": "P_TUNNEL",
       "SetID": "80dcan0",
       "Name": "No Mountain Wide Enough",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 133
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -2348,7 +2353,7 @@
       "Name": "Yakmel Whisperer",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "X_CHEST",
@@ -2356,7 +2361,7 @@
       "Name": "Unboxing",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "X_CLEAN",
@@ -2378,9 +2383,9 @@
       "ID": "X_GET_DIAMOND",
       "SetID": "80dcan0",
       "Name": "Diamonds are Forever",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "X_GET_FECE",
@@ -2411,15 +2416,15 @@
     {
       "ID": "80dcan0",
       "IsBase": true,
-      "Progressed": 233,
+      "Progressed": 234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-06T21:02:45.1047626+00:00",
-  "LastChanged_Achievements": "2023-11-07T03:04:19.2758036+00:00",
+  "LastChanged_Achievements": "2023-11-07T04:03:46.5463848+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:04.0136254+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:02:51.4317113+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:04:19.2758661+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:02:33.2143621+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:03:46.5586093+00:00"
 }

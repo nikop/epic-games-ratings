@@ -18,15 +18,15 @@
 | Iceborn | 52.00% | ~273 |
 | Tear of Freedom | 49.00% | ~257 |
 | Boom Things | 48.00% | ~252 |
+| My Darkest Day | 45.00% | ~236 |
 | Rhythm Of Willump | 45.00% | ~236 |
-| My Darkest Day | 44.00% | ~231 |
 | True Legends | 40.00% | ~210 |
 | The Relentless Storm | 40.00% | ~210 |
 | A Tragic Reminder | 38.00% | ~200 |
 | The Finisher | 38.00% | ~200 |
 | 3000 Year Blackout | 37.00% | ~194 |
+| So Close | 34.00% | ~178 |
 | On The Rocks | 34.00% | ~178 |
-| So Close | 33.00% | ~173 |
 | You Get Used To It | 33.00% | ~173 |
 | Never Gets Old | 33.00% | ~173 |
 | Snowy Poro | 32.00% | ~168 |

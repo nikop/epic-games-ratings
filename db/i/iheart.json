@@ -2,9 +2,9 @@
   "ID": "7be6958b730944d9925ddbee7aa207a6",
   "Name": "iHeart",
   "ProductSlug": "iheart",
-  "Ranking_EOS_Progress": 728,
+  "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T18:58:31.086176+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:02:39.3687958+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:06:53.8162637+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:00:25.6970429+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:05:53.5928201+00:00"
 }

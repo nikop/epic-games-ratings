@@ -2,9 +2,9 @@
   "ID": "5c5879f971c54d49a584be96ac0f4b49",
   "Name": "Dwerve",
   "ProductSlug": "dwerve-29930b",
-  "Ranking_EOS_Progress": 728,
+  "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-12T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-14T08:00:41.3279787+00:00",
   "LastUpdate_AppInfo": "2023-11-02T20:57:08.3765675+00:00",
-  "LastUpdate_Ratings": "2023-11-07T02:59:21.4365233+00:00",
-  "LastUpdate_Achievements": "2023-11-07T03:06:14.8754198+00:00"
+  "LastUpdate_Ratings": "2023-11-07T03:58:51.3377873+00:00",
+  "LastUpdate_Achievements": "2023-11-07T04:05:21.5388292+00:00"
 }
