@@ -8,6 +8,7 @@
 | Master trainee | 3.00% | ~1 |
 | You had one wish left | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
+| The adventurer | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
@@ -23,7 +24,6 @@
 | The seer | 0.00% | ~0 |
 | The bully | 0.00% | ~0 |
 | The scholar | 0.00% | ~0 |
-| The adventurer | 0.00% | ~0 |
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Heart Throbs | 0.00% | ~0 |

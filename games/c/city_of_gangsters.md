@@ -5,13 +5,13 @@ Rating: 4.28 (Ranked 845)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,109 |
-| Copacetic Coordination | 16.00% | ~56,207 |
-| Fronting the Money | 15.00% | ~52,694 |
-| The Dawn of Automation | 14.00% | ~49,181 |
-| Extraordinary Logistics | 14.00% | ~49,181 |
-| Dirty Money | 13.00% | ~45,668 |
-| Family First | 13.00% | ~45,668 |
+| Corner Clout | 47.00% | ~165,112 |
+| Copacetic Coordination | 16.00% | ~56,208 |
+| Fronting the Money | 15.00% | ~52,695 |
+| The Dawn of Automation | 14.00% | ~49,182 |
+| Extraordinary Logistics | 14.00% | ~49,182 |
+| Dirty Money | 13.00% | ~45,669 |
+| Family First | 13.00% | ~45,669 |
 | Cleaning House | 12.00% | ~42,156 |
 | Room in the Back | 12.00% | ~42,156 |
 | Beating the Heat | 11.00% | ~38,643 |
@@ -64,9 +64,9 @@ Rating: 4.28 (Ranked 845)
 | Boots in the Ground | 0.80% | ~2,810 |
 | Getting Fancy | 0.80% | ~2,810 |
 | Crossing Over | 0.80% | ~2,810 |
-| Still Dreaming | 0.50% | ~1,756 |
-| Working on the Railroad | 0.50% | ~1,756 |
-| Social Butterfly | 0.50% | ~1,756 |
+| Still Dreaming | 0.50% | ~1,757 |
+| Working on the Railroad | 0.50% | ~1,757 |
+| Social Butterfly | 0.50% | ~1,757 |
 | Homemade Hooch | 0.40% | ~1,405 |
 | High End Booze | 0.40% | ~1,405 |
 | In-House Maintenance | 0.40% | ~1,405 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 845)
 | High Pillow | 0.10% | ~351 |
 | Station Master | 0.10% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351,296 (Ranked 47)  
+Progressed: 351,302 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,7 +287,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-04 | 350,901 | 7 |
 | 2023-11-05 | 351,094 | 7 |
 | 2023-11-06 | 351,245 | 7 |
-| 2023-11-07 | 351,296 | 7 |
+| 2023-11-07 | 351,302 | 7 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 448)  
 Sum: 186 (Ranked 406)  

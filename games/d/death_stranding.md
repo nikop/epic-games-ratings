@@ -5,63 +5,63 @@ Rating: 4.77 (Ranked 115)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 91.00% | ~3,474,447 |
-| Good Samaritan | 88.00% | ~3,359,905 |
-| Rebuilding America | 65.00% | ~2,481,748 |
-| Like and Be Liked | 63.00% | ~2,405,387 |
-| Apprentice Builder | 51.00% | ~1,947,218 |
-| A New Day for the UCA | 50.00% | ~1,909,037 |
-| A Baby Blessing | 40.00% | ~1,527,230 |
-| Prominent Porter | 40.00% | ~1,527,230 |
-| I Couldn't Hold it In! | 38.00% | ~1,450,868 |
-| Well Connected | 36.00% | ~1,374,507 |
-| Building Bridges | 36.00% | ~1,374,507 |
-| The Custom Kid | 35.00% | ~1,336,326 |
-| Boots Are a Porter's Best Friend | 34.00% | ~1,298,145 |
-| Chiral Crafter | 33.00% | ~1,259,964 |
-| The People's Porter | 30.00% | ~1,145,422 |
-| Snooze 'n' Soothe | 29.00% | ~1,107,241 |
-| Sleep Tight, Little BB | 27.00% | ~1,030,880 |
-| Soothing Sounds | 27.00% | ~1,030,880 |
-| A Shout in the Dark | 25.00% | ~954,518 |
-| Everyday Delivery | 24.00% | ~916,338 |
-| Catcher Crusher | 21.00% | ~801,796 |
-| We Need You | 20.00% | ~763,615 |
-| A Thirst for Knowledge | 20.00% | ~763,615 |
-| Giver of Gifts | 18.00% | ~687,253 |
-| All Roads Lead to the UCA | 15.00% | ~572,711 |
-| The Automation Revolution | 14.00% | ~534,530 |
-| Pathfinder | 14.00% | ~534,530 |
-| Well-Traveled | 13.00% | ~496,350 |
-| I Won't Break | 11.00% | ~419,988 |
-| BB... | 11.00% | ~419,988 |
-| We're Whole Again | 9.00% | ~343,627 |
-| The World's Most Popular Porter | 8.00% | ~305,446 |
-| Pumped Porter | 8.00% | ~305,446 |
-| BBs: A Bridge Between This World and the One Beyond | 8.00% | ~305,446 |
-| BB | 8.00% | ~305,446 |
-| The Particle of God | 7.00% | ~267,265 |
-| I'm Your Die-Hardman | 7.00% | ~267,265 |
-| Bring Back My Baby | 7.00% | ~267,265 |
-| She's waiting for you on the Beach. | 7.00% | ~267,265 |
-| Soak and Sigh | 7.00% | ~267,265 |
-| Sixty Deaths and Sixty Births in a Day | 7.00% | ~267,265 |
-| Thank You, Sam | 6.00% | ~229,084 |
-| Thanks for Everything | 6.00% | ~229,084 |
-| Deliveries Done | 6.00% | ~229,084 |
-| Rest In Pieces | 6.00% | ~229,084 |
-| The Post Guides the Present | 3.00% | ~114,542 |
-| Hooked on Delivering!? | 3.00% | ~114,542 |
-| Public Service Porter | 3.00% | ~114,542 |
-| Childminder | 2.00% | ~76,361 |
-| God Particle Go-Getter | 2.00% | ~76,361 |
-| A Helping Hand | 1.00% | ~38,181 |
-| Master Builder | 1.00% | ~38,181 |
-| The Past Guides the Present | 0.70% | ~26,727 |
-| Any Porter in a Storm | 0.60% | ~22,908 |
-| Birth of a Legend | 0.30% | ~11,454 |
-| In Sam We Trust | 0.30% | ~11,454 |
-| Great Deliverer | 0.30% | ~11,454 |
+| Delivering Is What I Do | 91.00% | ~3,474,586 |
+| Good Samaritan | 88.00% | ~3,360,039 |
+| Rebuilding America | 65.00% | ~2,481,847 |
+| Like and Be Liked | 63.00% | ~2,405,482 |
+| Apprentice Builder | 51.00% | ~1,947,295 |
+| A New Day for the UCA | 50.00% | ~1,909,113 |
+| A Baby Blessing | 40.00% | ~1,527,290 |
+| Prominent Porter | 40.00% | ~1,527,290 |
+| I Couldn't Hold it In! | 38.00% | ~1,450,926 |
+| Well Connected | 36.00% | ~1,374,561 |
+| Building Bridges | 36.00% | ~1,374,561 |
+| The Custom Kid | 35.00% | ~1,336,379 |
+| Boots Are a Porter's Best Friend | 34.00% | ~1,298,197 |
+| Chiral Crafter | 33.00% | ~1,260,015 |
+| The People's Porter | 30.00% | ~1,145,468 |
+| Snooze 'n' Soothe | 29.00% | ~1,107,286 |
+| Sleep Tight, Little BB | 27.00% | ~1,030,921 |
+| Soothing Sounds | 27.00% | ~1,030,921 |
+| A Shout in the Dark | 25.00% | ~954,556 |
+| Everyday Delivery | 24.00% | ~916,374 |
+| Catcher Crusher | 21.00% | ~801,827 |
+| We Need You | 20.00% | ~763,645 |
+| A Thirst for Knowledge | 20.00% | ~763,645 |
+| Giver of Gifts | 18.00% | ~687,281 |
+| All Roads Lead to the UCA | 15.00% | ~572,734 |
+| The Automation Revolution | 14.00% | ~534,552 |
+| Pathfinder | 14.00% | ~534,552 |
+| Well-Traveled | 13.00% | ~496,369 |
+| I Won't Break | 11.00% | ~420,005 |
+| BB... | 11.00% | ~420,005 |
+| We're Whole Again | 9.00% | ~343,640 |
+| The World's Most Popular Porter | 8.00% | ~305,458 |
+| Pumped Porter | 8.00% | ~305,458 |
+| BBs: A Bridge Between This World and the One Beyond | 8.00% | ~305,458 |
+| BB | 8.00% | ~305,458 |
+| The Particle of God | 7.00% | ~267,276 |
+| I'm Your Die-Hardman | 7.00% | ~267,276 |
+| Bring Back My Baby | 7.00% | ~267,276 |
+| She's waiting for you on the Beach. | 7.00% | ~267,276 |
+| Soak and Sigh | 7.00% | ~267,276 |
+| Sixty Deaths and Sixty Births in a Day | 7.00% | ~267,276 |
+| Thank You, Sam | 6.00% | ~229,094 |
+| Thanks for Everything | 6.00% | ~229,094 |
+| Deliveries Done | 6.00% | ~229,094 |
+| Rest In Pieces | 6.00% | ~229,094 |
+| The Post Guides the Present | 3.00% | ~114,547 |
+| Hooked on Delivering!? | 3.00% | ~114,547 |
+| Public Service Porter | 3.00% | ~114,547 |
+| Childminder | 2.00% | ~76,365 |
+| God Particle Go-Getter | 2.00% | ~76,365 |
+| A Helping Hand | 1.00% | ~38,182 |
+| Master Builder | 1.00% | ~38,182 |
+| The Past Guides the Present | 0.70% | ~26,728 |
+| Any Porter in a Storm | 0.60% | ~22,909 |
+| Birth of a Legend | 0.30% | ~11,455 |
+| In Sam We Trust | 0.30% | ~11,455 |
+| Great Deliverer | 0.30% | ~11,455 |
 | Best Beloved | 0.20% | ~7,636 |
 | Greatest of Great Deliverers | 0.10% | ~3,818 |
 | Growth of a Legend | 0.10% | ~3,818 |
@@ -69,7 +69,7 @@ Rating: 4.77 (Ranked 115)
 | Trail-Blazer | 0.10% | ~3,818 |
 | Homo Faber | 0.10% | ~3,818 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,818,074 (Ranked 4)  
+Progressed: 3,818,226 (Ranked 4)  
 Completed: 1,985 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,10 +270,10 @@ Completed: 1,985 (0.05%) (Ranked 297)
 | 2023-11-04 | 3,811,589 | 1,975 |
 | 2023-11-05 | 3,814,805 | 1,979 |
 | 2023-11-06 | 3,816,998 | 1,982 |
-| 2023-11-07 | 3,818,074 | 1,985 |
+| 2023-11-07 | 3,818,226 | 1,985 |
 ## Awards
 Max (Great Boss Battles): 7,818  (Ranked 47)  
-Sum: 10,812 (Ranked 88)  
+Sum: 10,815 (Ranked 88)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |
@@ -283,9 +283,9 @@ Diff (max vs sum): -41
 | This game has Diverse Characters | 352 |
 | This game is Relaxing | 341 |
 | This game has Quickly Understood Controls | 336 |
+| This game is Extremely Fun | 324 |
 | This game has Amazing Storytelling | 323 |
 | This game has Amazing Characters | 321 |
-| This game is Extremely Fun | 321 |
 | This game has a Creative Community | 255 |
 | This game has Easy Combat | 28 |
 ## Ratings History
@@ -522,4 +522,4 @@ Diff (max vs sum): -41
 | 2023-11-04 | 4.77 | 7,777 | 10,746 |
 | 2023-11-05 | 4.77 | 7,799 | 10,783 |
 | 2023-11-06 | 4.77 | 7,818 | 10,808 |
-| 2023-11-07 | 4.77 | 7,818 | 10,812 |
+| 2023-11-07 | 4.77 | 7,818 | 10,815 |

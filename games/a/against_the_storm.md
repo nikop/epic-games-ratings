@@ -19,6 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Watchtower | 5.00% | ~862 |
 | A Real Challenge | 5.00% | ~862 |
 | Homesick | 4.00% | ~689 |
+| Against All Odds | 4.00% | ~689 |
 | Ruined Armory | 4.00% | ~689 |
 | Bandit Camp | 4.00% | ~689 |
 | Barren Lands | 4.00% | ~689 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Trade Baron | 4.00% | ~689 |
 | Serving Ale | 3.00% | ~517 |
 | Refinery | 3.00% | ~517 |
-| Against All Odds | 3.00% | ~517 |
 | Dangerous Lands | 3.00% | ~517 |
 | Fishmen Ritual Site | 3.00% | ~517 |
 | Forbidden Lands | 3.00% | ~517 |

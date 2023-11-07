@@ -63,8 +63,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Just Resting In My Account | 0.10% | ~449 |
 | Liberty or Death | 0.10% | ~449 |
 | Live Long and Prosper | 0.10% | ~449 |
+| Magellan’s Voyage | 0.10% | ~449 |
 | Market Control | 0.10% | ~449 |
 | Marshy March | 0.10% | ~449 |
+| Multiculturalism | 0.10% | ~449 |
 | My armies are invincible! | 0.10% | ~449 |
 | Narcissism | 0.10% | ~449 |
 | Not just Pizza | 0.10% | ~449 |
@@ -241,7 +243,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Made in Japan | 0.00% | ~0 |
-| Magellan’s Voyage | 0.00% | ~0 |
 | Maharana Pratap | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
 | Mare Nostrum | 0.00% | ~0 |
@@ -251,7 +252,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mehmet's Ambition | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Mewar Never Changes | 0.00% | ~0 |
-| Multiculturalism | 0.00% | ~0 |
 | My True Friend | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
 | Neither Holy, Nor German | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,107 (Ranked 41)  
+Progressed: 449,150 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 449,107 | 1 |
+| 2023-11-07 | 449,150 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,507 (Ranked 24)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -4859,10 +4859,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3768,
       "NumberOfAwardsMax": 454
+    },
+    {
+      "Time": "2023-11-07T14:01:27.7559372+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3769,
+      "NumberOfAwardsMax": 454
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3768,
+  "NumberOfAwards": 3769,
   "NumberOfAwardsMax": 454,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4870,7 +4876,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 354
+      "Count": 355
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4933,9 +4939,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 250008,
+  "EOS_Progressed": 250009,
   "EOS_Completed": 871,
-  "EOS_NewPlayers": 736,
+  "EOS_NewPlayers": 733,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -26838,6 +26844,11 @@
       "Time": "2023-11-07T13:13:44.4053042+00:00",
       "NumProgressed": 250008,
       "NumCompleted": 871
+    },
+    {
+      "Time": "2023-11-07T14:09:39.0749576+00:00",
+      "NumProgressed": 250009,
+      "NumCompleted": 871
     }
   ],
   "TotalAchievements": 39,
@@ -26897,7 +26908,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75002
+      "UsersEstimate": 75003
     },
     {
       "ID": "AchievementBoulderID",
@@ -26913,7 +26924,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 227507
+      "UsersEstimate": 227508
     },
     {
       "ID": "AchievementClownID",
@@ -26921,7 +26932,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42501
+      "UsersEstimate": 42502
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -26937,7 +26948,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 70002
+      "UsersEstimate": 70003
     },
     {
       "ID": "AchievementEggID",
@@ -26945,7 +26956,7 @@
       "Name": "Egg Simulator",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 45001
+      "UsersEstimate": 45002
     },
     {
       "ID": "AchievementFrenchFikaID",
@@ -26977,7 +26988,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 132504
+      "UsersEstimate": 132505
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -27081,7 +27092,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 185006
+      "UsersEstimate": 185007
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -27121,7 +27132,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137504
+      "UsersEstimate": 137505
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -27145,7 +27156,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 162505
+      "UsersEstimate": 162506
     },
     {
       "ID": "AchievementWhaleID",
@@ -27160,16 +27171,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250008,
+      "Progressed": 250009,
       "Completed": 871
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-11-07T01:45:15.4802791+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:13:44.4053036+00:00",
+  "LastChanged": "2023-11-07T14:01:27.7559371+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:09:39.074957+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:20.6664953+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:05:13.5283279+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:13:44.4054829+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:01:27.755938+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:09:39.0751553+00:00"
 }

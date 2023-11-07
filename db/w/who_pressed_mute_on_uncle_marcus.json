@@ -4,7 +4,7 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 33,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -530,9 +530,9 @@
       "ID": "instinct",
       "SetID": "202dmm8",
       "Name": "Instinct",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 92
     },
     {
       "ID": "job_one_done",
@@ -619,8 +619,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:13:02.1821073+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:08:58.7929395+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.2705596+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:04:19.9883843+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:13:02.1821315+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:00:18.8033404+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:08:58.7929567+00:00"
 }

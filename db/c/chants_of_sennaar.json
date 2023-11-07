@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.64,
+  "EOS_Completed_Percentage": 5.62,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2040,6 +2040,11 @@
       "Time": "2023-11-07T13:08:34.59937+00:00",
       "NumProgressed": 479,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-07T14:04:11.2794761+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 25,
@@ -2083,7 +2088,7 @@
       "Name": "A good beginning",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "META_HALF_LINK",
@@ -2211,7 +2216,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "PROGRESS_N2",
@@ -2219,7 +2224,7 @@
       "Name": "The great escape",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "PROGRESS_N3",
@@ -2227,7 +2232,7 @@
       "Name": "A new dawn",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "PROGRESS_N4",
@@ -2250,14 +2255,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:08:34.5993696+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:04:11.2794754+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:02:29.4870864+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:08:34.5994072+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:58:03.883324+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:04:11.2795112+00:00"
 }

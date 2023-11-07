@@ -14816,9 +14816,9 @@
       "Count": 12552
     }
   ],
-  "EOS_Progressed": 895645,
+  "EOS_Progressed": 895652,
   "EOS_Completed": 2752,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1026,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37571,6 +37571,11 @@
       "Time": "2023-11-07T13:12:33.3513332+00:00",
       "NumProgressed": 895645,
       "NumCompleted": 2752
+    },
+    {
+      "Time": "2023-11-07T14:07:43.5669066+00:00",
+      "NumProgressed": 895652,
+      "NumCompleted": 2752
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37629,9 +37634,9 @@
       "ID": "Fortuneteller",
       "SetID": "47clieb",
       "Name": "The Wandering Fool",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 896
+      "UsersEstimate": 1791
     },
     {
       "ID": "Gearhead",
@@ -38037,9 +38042,9 @@
       "ID": "AllThePresidentsMen",
       "SetID": "23nboa5",
       "Name": "All the President\u0027s Men",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 73
+      "UsersEstimate": 97
     },
     {
       "ID": "HydraIsDead",
@@ -38118,21 +38123,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895645,
+      "Progressed": 895652,
       "Completed": 2752
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24268,
+      "Progressed": 24275,
       "Completed": 10198
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-07T13:05:17.1451553+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:12:33.3513328+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:07:43.566906+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:05:17.145156+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:12:33.3515556+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:01:32.3398973+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:07:43.5671535+00:00"
 }

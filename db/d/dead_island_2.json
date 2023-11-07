@@ -6157,10 +6157,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10803,
       "NumberOfAwardsMax": 7125
+    },
+    {
+      "Time": "2023-11-07T13:58:15.7286797+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10810,
+      "NumberOfAwardsMax": 7125
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10803,
+  "NumberOfAwards": 10810,
   "NumberOfAwardsMax": 7125,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6192,7 +6198,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 425
+      "Count": 432
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6219,9 +6225,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714411,
+  "EOS_Progressed": 714432,
   "EOS_Completed": 2352,
-  "EOS_NewPlayers": 5259,
+  "EOS_NewPlayers": 5236,
   "EOS_NewCompleters": 61,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29144,6 +29150,11 @@
       "Time": "2023-11-07T13:10:14.5073851+00:00",
       "NumProgressed": 714411,
       "NumCompleted": 2352
+    },
+    {
+      "Time": "2023-11-07T14:06:17.8296535+00:00",
+      "NumProgressed": 714432,
+      "NumCompleted": 2352
     }
   ],
   "TotalAchievements": 51,
@@ -29233,9 +29244,9 @@
       "ID": "ach_defensive",
       "SetID": "7km39fm",
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 2143
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -29562,22 +29573,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714411,
+      "Progressed": 714432,
       "Completed": 2352
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39953,
-      "Completed": 36476
+      "Progressed": 39974,
+      "Completed": 36477
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-07T13:02:39.8819678+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:10:14.5073845+00:00",
+  "LastChanged": "2023-11-07T13:58:15.7286795+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:06:17.8296526+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:02:39.8819685+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:10:14.507719+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:58:15.7286802+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:06:17.8298696+00:00"
 }

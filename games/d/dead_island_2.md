@@ -18,6 +18,7 @@ Rating: 4.54 (Ranked 522)
 | Anger Management | 0.30% | ~2,143 |
 | Perks of the Job | 0.30% | ~2,143 |
 | Bookworm | 0.30% | ~2,143 |
+| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,143 |
 | But Doctor, I am Butcho | 0.30% | ~2,143 |
 | Can't Handle the Truth | 0.30% | ~2,143 |
 | Like Riding a Bike | 0.30% | ~2,143 |
@@ -29,7 +30,6 @@ Rating: 4.54 (Ranked 522)
 | Max Headroom | 0.30% | ~2,143 |
 | This is My Weapon | 0.30% | ~2,143 |
 | Making Your Mark | 0.20% | ~1,429 |
-| I Got a Zombie Army and You Can't Harm Me | 0.20% | ~1,429 |
 | Slayer Squad | 0.20% | ~1,429 |
 | Not Even My Final Form | 0.20% | ~1,429 |
 | Jumbo Keyring | 0.20% | ~1,429 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,411 (Ranked 21)  
+Progressed: 714,432 (Ranked 21)  
 Completed: 2,352 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,10 @@ Completed: 2,352 (0.33%) (Ranked 219)
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
-| 2023-11-07 | 714,411 | 2,352 |
+| 2023-11-07 | 714,432 | 2,352 |
 ## Awards
 Max (Great Boss Battles): 7,125  (Ranked 53)  
-Sum: 10,803 (Ranked 89)  
+Sum: 10,810 (Ranked 89)  
 Diff (max vs sum): -36  
 | Award | Count |
 | ----- | ----- |
@@ -271,7 +271,7 @@ Diff (max vs sum): -36
 | This game has Quickly Understood Controls | 497 |
 | This game is Relaxing | 459 |
 | This game has Amazing Storytelling | 443 |
-| This game is Highly Recommended | 425 |
+| This game is Highly Recommended | 432 |
 | This game is Extremely Fun | 418 |
 | This game has Amazing Characters | 400 |
 ## Ratings History
@@ -477,4 +477,4 @@ Diff (max vs sum): -36
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
-| 2023-11-07 | 4.54 | 7,125 | 10,803 |
+| 2023-11-07 | 4.54 | 7,125 | 10,810 |

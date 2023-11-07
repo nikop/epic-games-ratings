@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Iceberg Theory | 78.00% | ~87 |
-| Gear Up | 68.00% | ~75 |
-| A Grand Show | 68.00% | ~75 |
-| Freshen Up | 57.00% | ~63 |
-| GG EZ | 56.00% | ~62 |
-| Hydrophobia | 41.00% | ~46 |
+| Gear Up | 67.00% | ~75 |
+| A Grand Show | 67.00% | ~75 |
+| Freshen Up | 56.00% | ~63 |
+| GG EZ | 55.00% | ~62 |
+| Hydrophobia | 40.00% | ~45 |
 | Ka-Ching! | 32.00% | ~36 |
 | Stop Right There | 28.00% | ~31 |
 | Get to the Point | 26.00% | ~29 |
@@ -27,19 +27,19 @@
 | Antaeus | 6.00% | ~7 |
 | Hell of a Fight | 6.00% | ~7 |
 | Decapitation Strike | 6.00% | ~7 |
-| The Sunken City Conqueror | 5.00% | ~6 |
 | The Deep Frozen Conqueror | 5.00% | ~6 |
 | The Infinite Train Conqueror | 5.00% | ~6 |
 | The Paradox Coordinate Conqueror | 5.00% | ~6 |
-| The Zero Dimensional Capital Conqueror | 5.00% | ~6 |
 | The Inactivated Frozen Conqueror | 5.00% | ~6 |
-| Death Bringer Conqueror | 5.00% | ~6 |
-| Rapidfire | 5.00% | ~6 |
-| Air Interception | 5.00% | ~6 |
+| The Sunken City Conqueror | 4.00% | ~4 |
+| The Zero Dimensional Capital Conqueror | 4.00% | ~4 |
+| Death Bringer Conqueror | 4.00% | ~4 |
 | The Looping Space Conqueror | 4.00% | ~4 |
 | Space Ranger: Prologue | 4.00% | ~4 |
 | Breaking the Limit | 4.00% | ~4 |
 | The Truth? | 4.00% | ~4 |
+| Rapidfire | 4.00% | ~4 |
+| Air Interception | 4.00% | ~4 |
 | Break Through the Forbidden | 3.00% | ~3 |
 | Proliferation | 3.00% | ~3 |
 | Burn After Reading | 3.00% | ~3 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.90% | ~1 |
 | Super Alloy Ranger! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111 (Ranked 403)  
-Completed: 1 (0.90%) (Ranked 164)  
+Progressed: 112 (Ranked 402)  
+Completed: 1 (0.89%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -119,6 +119,7 @@ Completed: 1 (0.90%) (Ranked 164)
 | 2023-10-30 | 109 | 1 |
 | 2023-11-04 | 110 | 1 |
 | 2023-11-06 | 111 | 1 |
+| 2023-11-07 | 112 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

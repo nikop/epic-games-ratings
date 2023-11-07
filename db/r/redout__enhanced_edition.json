@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235078,
+  "EOS_Progressed": 235080,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21462,6 +21462,11 @@
       "Time": "2023-11-07T12:06:29.9036001+00:00",
       "NumProgressed": 235078,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-07T14:07:06.0597441+00:00",
+      "NumProgressed": 235080,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -21513,7 +21518,7 @@
       "Name": "CHALLENGE THE WORLD",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16455
+      "UsersEstimate": 16456
     },
     {
       "ID": "DRAGOON",
@@ -21641,7 +21646,7 @@
       "Name": "PHOTOFINISH",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 16455
+      "UsersEstimate": 16456
     },
     {
       "ID": "PILEUPTROPHIES",
@@ -21697,7 +21702,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51717
+      "UsersEstimate": 51718
     },
     {
       "ID": "TACTICIAN",
@@ -21721,7 +21726,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51717
+      "UsersEstimate": 51718
     },
     {
       "ID": "TUNINGMANIAC",
@@ -21737,22 +21742,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96382
+      "UsersEstimate": 96383
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235078,
+      "Progressed": 235080,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:10:53.1998039+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:07:06.0597434+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:23.1694158+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:03:32.1272117+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:10:53.2000907+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:59:20.2992802+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:07:06.0598885+00:00"
 }

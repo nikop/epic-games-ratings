@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 441,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -823,9 +823,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 10923,
+  "EOS_Progressed": 10924,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12533,6 +12533,11 @@
       "Time": "2023-11-07T13:08:37.0498759+00:00",
       "NumProgressed": 10923,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-07T14:04:14.3749378+00:00",
+      "NumProgressed": 10924,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12728,7 +12733,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "ACH25",
@@ -12736,7 +12741,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "ACH26",
@@ -12815,7 +12820,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10923,
+      "Progressed": 10924,
       "Completed": 64
     }
   ],
@@ -12823,8 +12828,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-06T21:02:56.1879294+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:08:37.0498754+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:04:14.374937+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:01:47.3378688+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:08:37.0500451+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:57:11.2221816+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:04:14.375035+00:00"
 }

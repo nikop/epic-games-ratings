@@ -6,7 +6,7 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
@@ -75,11 +75,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4342,
+  "EOS_Progressed": 4349,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 813,
+  "EOS_NewPlayers": 812,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -2345,6 +2345,11 @@
       "Time": "2023-11-07T13:13:22.0640053+00:00",
       "NumProgressed": 4342,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-07T14:09:10.984428+00:00",
+      "NumProgressed": 4349,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2365,7 +2370,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "BeLikeWater",
@@ -2397,7 +2402,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "Eavesdropper",
@@ -2419,9 +2424,9 @@
       "ID": "FasterThanLight",
       "SetID": "acc6ea0",
       "Name": "Faster Than Light",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 13
     },
     {
       "ID": "FirstTime",
@@ -2429,7 +2434,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 868
+      "UsersEstimate": 870
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2483,9 +2488,9 @@
       "ID": "LiveByTheSword",
       "SetID": "acc6ea0",
       "Name": "Live By The Sword",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 30
     },
     {
       "ID": "MasterManipulator",
@@ -2501,7 +2506,7 @@
       "Name": "Nasty!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "NoMoreTotems",
@@ -2549,7 +2554,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "TheQuarterback",
@@ -2557,7 +2562,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ThisIsDharma",
@@ -2611,9 +2616,9 @@
       "ID": "YouveReachedTheRightNumber",
       "SetID": "acc6ea0",
       "Name": "You\u0027ve Reached The Right Number",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 174
+      "UsersEstimate": 217
     },
     {
       "ID": "k01101110",
@@ -2628,7 +2633,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4342,
+      "Progressed": 4349,
       "Completed": 5
     }
   ],
@@ -2636,8 +2641,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-05T20:58:48.2968347+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:13:22.064005+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:09:10.9844274+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:03:59.0557259+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:13:22.0640459+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:59:51.9129404+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:09:10.984461+00:00"
 }

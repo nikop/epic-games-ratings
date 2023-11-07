@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -169,7 +169,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7614,
+  "EOS_Progressed": 7615,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 1,
@@ -6314,6 +6314,11 @@
       "Time": "2023-11-07T13:13:34.069569+00:00",
       "NumProgressed": 7614,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T14:09:26.1275196+00:00",
+      "NumProgressed": 7615,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6326,7 +6331,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5482
+      "UsersEstimate": 5483
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6412,9 +6417,9 @@
       "ID": "COLLECT_LOGS",
       "SetID": "9eia0f5",
       "Name": "Lumberjack",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1980
+      "UsersEstimate": 2056
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -6478,7 +6483,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4568
+      "UsersEstimate": 4569
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6486,7 +6491,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2436
+      "UsersEstimate": 2437
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -6502,7 +6507,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6550,7 +6555,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1294
+      "UsersEstimate": 1295
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -6605,22 +6610,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7614,
+      "Progressed": 7615,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 231,
-      "Completed": 231
+      "Progressed": 232,
+      "Completed": 232
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:13:34.0695684+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:09:26.1275187+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:07:31.5165051+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:13:34.069686+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:02:48.28883+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:09:26.1276119+00:00"
 }

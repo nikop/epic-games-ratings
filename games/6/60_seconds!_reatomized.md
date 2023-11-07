@@ -1,7 +1,7 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.61 (Ranked 381)  
+Rating: 4.61 (Ranked 382)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -35,8 +35,8 @@ Rating: 4.61 (Ranked 381)
 | A New Hope | 16.00% | ~886 |
 | Enigma | 16.00% | ~886 |
 | Challenger | 13.00% | ~720 |
+| Men in Black | 13.00% | ~720 |
 | No stone unturned | 12.00% | ~664 |
-| Men in Black | 12.00% | ~664 |
 | Unplugged | 8.00% | ~443 |
 | Holidays! | 7.00% | ~388 |
 | Mad Hatter | 7.00% | ~388 |

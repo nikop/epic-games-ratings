@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11727,9 +11727,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 449107,
+  "EOS_Progressed": 449150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5497,
+  "EOS_NewPlayers": 5514,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34697,6 +34697,11 @@
       "Time": "2023-11-07T13:08:56.4566109+00:00",
       "NumProgressed": 449107,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T14:04:39.0059751+00:00",
+      "NumProgressed": 449150,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36170,9 +36175,9 @@
       "ID": "achievement_magellans_voyage",
       "SetID": "8p2n7he",
       "Name": "Magellan\u2019s Voyage",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_maharana_pratap",
@@ -36266,9 +36271,9 @@
       "ID": "achievement_multiculturalism",
       "SetID": "8p2n7he",
       "Name": "Multiculturalism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_my_armies_are_invincible",
@@ -37611,21 +37616,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 449107,
+      "Progressed": 449150,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 449107,
+      "Progressed": 449150,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-07T08:57:29.4768789+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:08:56.4566106+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:04:39.0059745+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:02:12.3426988+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:08:56.4581917+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:57:43.0289828+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:04:39.0076718+00:00"
 }

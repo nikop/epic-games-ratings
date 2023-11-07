@@ -3,12 +3,12 @@
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
   "Ranking_Rating": 363,
-  "Ranking_Popularity": 433,
-  "Ranking_PopularitySum": 366,
+  "Ranking_Popularity": 430,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -931,18 +931,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 282,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-11-07T14:00:09.3243772+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 282,
-  "NumberOfAwardsMax": 48,
+  "NumberOfAwards": 284,
+  "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game is Extremely Fun",
@@ -984,7 +990,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1005,8 +1011,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-11-07T13:04:11.5290761+00:00",
+  "LastChanged": "2023-11-07T14:00:09.324377+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.1641052+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:04:11.5290767+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:10:00.0146911+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:00:09.3243779+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:05:59.3705619+00:00"
 }

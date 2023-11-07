@@ -1,21 +1,21 @@
 # Prison Architect
 [Store](https://store.epicgames.com/en-US/p/prison-architect)  
 [View Rawdata](../../db/p/prison_architect.json)  
-Rating: 4.61 (Ranked 381)  
+Rating: 4.61 (Ranked 382)  
 Number of Ratings: 4,491  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~47,887 |
-| Get Busy Living | 16.00% | ~30,648 |
-| Samuel Norton | 9.00% | ~17,239 |
-| Spare The Rod | 5.00% | ~9,577 |
-| Don't Put Me In The Dark | 3.00% | ~5,746 |
-| Wait and Hope | 3.00% | ~5,746 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,746 |
+| Stone Walls | 25.00% | ~47,891 |
+| Get Busy Living | 16.00% | ~30,650 |
+| Samuel Norton | 9.00% | ~17,241 |
+| Spare The Rod | 5.00% | ~9,578 |
+| Don't Put Me In The Dark | 3.00% | ~5,747 |
+| Wait and Hope | 3.00% | ~5,747 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,747 |
 | Throw The Book At Them | 2.00% | ~3,831 |
 | Iron Bars | 2.00% | ~3,831 |
-| D.B. Cooper | 1.00% | ~1,915 |
+| D.B. Cooper | 1.00% | ~1,916 |
 | Reformation | 0.60% | ~1,149 |
 | Crowd Control | 0.50% | ~958 |
 | Freedom | 0.40% | ~766 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~192 |
 | ... It's What You Can Prove | 0.10% | ~192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 191,547 (Ranked 73)  
+Progressed: 191,564 (Ranked 73)  
 Completed: 8 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,10 +224,10 @@ Completed: 8 (0.00%) (Ranked 345)
 | 2023-11-04 | 190,773 | 8 |
 | 2023-11-05 | 191,171 | 8 |
 | 2023-11-06 | 191,423 | 8 |
-| 2023-11-07 | 191,547 | 8 |
+| 2023-11-07 | 191,564 | 8 |
 ## Awards
 Max (Great for Beginners): 557  (Ranked 200)  
-Sum: 4,327 (Ranked 145)  
+Sum: 4,328 (Ranked 145)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -240,7 +240,7 @@ Diff (max vs sum): 55
 | This game has Diverse Characters | 465 |
 | This game is Educational | 448 |
 | This game has Amazing Characters | 423 |
-| This game has a Creative Community | 328 |
+| This game has a Creative Community | 329 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -533,4 +533,4 @@ Diff (max vs sum): 55
 | 2023-11-04 | 4.61 | - | 552 | 4,301 |
 | 2023-11-05 | 4.61 | - | 553 | 4,314 |
 | 2023-11-06 | 4.61 | - | 554 | 4,324 |
-| 2023-11-07 | 4.61 | - | 557 | 4,327 |
+| 2023-11-07 | 4.61 | - | 557 | 4,328 |

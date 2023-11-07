@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 54.00% | ~89 |
+| Break Out | 55.00% | ~91 |
 | Trinity | 28.00% | ~46 |
 | Find Allies | 23.00% | ~38 |
 | A Taste of Wrath | 22.00% | ~36 |
@@ -15,8 +15,8 @@
 | Fashion Victim | 21.00% | ~35 |
 | I Found It | 21.00% | ~35 |
 | Scholar | 20.00% | ~33 |
+| Geared Up | 19.00% | ~31 |
 | Tributes of Caladrias | 18.00% | ~30 |
-| Geared Up | 18.00% | ~30 |
 | Stone Collection | 18.00% | ~30 |
 | Essence Blow | 11.00% | ~18 |
 | Big Bazar | 8.00% | ~13 |

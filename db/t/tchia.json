@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7679,
+  "EOS_Progressed": 7680,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7839,6 +7839,11 @@
       "Time": "2023-11-07T09:04:35.3317084+00:00",
       "NumProgressed": 7679,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-07T14:05:33.754428+00:00",
+      "NumProgressed": 7680,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -7898,7 +7903,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1305
+      "UsersEstimate": 1306
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8017,7 +8022,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7679,
+      "Progressed": 7680,
       "Completed": 34
     }
   ],
@@ -8025,8 +8030,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-07T13:09:39.6834244+00:00",
+  "LastChanged_Achievements": "2023-11-07T14:05:33.7544273+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.1922608+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:02:21.7530965+00:00",
-  "LastUpdate_Achievements": "2023-11-07T13:09:39.6835436+00:00"
+  "LastUpdate_Ratings": "2023-11-07T13:57:55.1252459+00:00",
+  "LastUpdate_Achievements": "2023-11-07T14:05:33.7544987+00:00"
 }
