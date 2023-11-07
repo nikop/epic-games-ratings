@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2609,
+  "EOS_Progressed": 2610,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 9.08,
   "EosHistory": [
@@ -7036,6 +7036,11 @@
       "Time": "2023-11-07T17:16:41.3224373+00:00",
       "NumProgressed": 2609,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2023-11-07T23:10:10.9481074+00:00",
+      "NumProgressed": 2610,
+      "NumCompleted": 237
     }
   ],
   "TotalAchievements": 12,
@@ -7047,7 +7052,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "Bernard",
@@ -7079,7 +7084,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "Jakob",
@@ -7127,7 +7132,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "Nuremberg Laws",
@@ -7142,7 +7147,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2609,
+      "Progressed": 2610,
       "Completed": 237
     }
   ],
@@ -7150,8 +7155,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:08:47.415336+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:10:10.9481065+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:00.2861295+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:02:41.8596374+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:08:47.4153764+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:03:21.5247169+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:10:10.9481991+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 585,
   "Ranking_Popularity": 245,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 74,
@@ -3061,10 +3061,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2724,
       "NumberOfAwardsMax": 305
+    },
+    {
+      "Time": "2023-11-07T23:00:19.9397131+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2726,
+      "NumberOfAwardsMax": 305
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2724,
+  "NumberOfAwards": 2726,
   "NumberOfAwardsMax": 305,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3120,7 +3126,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 270
+      "Count": 272
     },
     {
       "Text": "This game is Relaxing",
@@ -3141,9 +3147,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30467,
+  "EOS_Progressed": 30471,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1180,
+  "EOS_NewPlayers": 1167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18321,6 +18327,11 @@
       "Time": "2023-11-07T22:06:35.0092932+00:00",
       "NumProgressed": 30467,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-07T23:08:58.5691044+00:00",
+      "NumProgressed": 30471,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18332,7 +18343,7 @@
       "Name": "Advancement",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "Animated",
@@ -18444,7 +18455,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "Escape_Artist",
@@ -18586,9 +18597,9 @@
       "ID": "Rivalry",
       "SetID": "819popo",
       "Name": "Rivalry",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 305
     },
     {
       "ID": "Seasoned",
@@ -18739,16 +18750,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30467,
+      "Progressed": 30471,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-07T20:59:06.0332308+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:06:35.0092928+00:00",
+  "LastChanged": "2023-11-07T23:00:19.939713+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:08:58.5691039+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:58:54.2820515+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:06:35.0093818+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:00:19.9397134+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:08:58.569248+00:00"
 }

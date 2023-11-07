@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5775,9 +5775,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1140
     },
     {
       "ID": "A18",
@@ -6088,8 +6088,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-06T17:57:18.8272993+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:04:10.4226531+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:05:32.9643627+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:57:40.4995189+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:04:10.4227246+00:00"
+  "LastUpdate_Ratings": "2023-11-07T22:58:32.0764318+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:05:32.9644488+00:00"
 }

@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~80,183 |
-| Alt+F4 | 8.00% | ~18,867 |
-| Where's that freaking Dwarf? | 7.00% | ~16,508 |
-| Déjà vu | 6.00% | ~14,150 |
+| Sowwy! | 35.00% | ~82,546 |
+| Alt+F4 | 8.00% | ~18,868 |
+| Where's that freaking Dwarf? | 7.00% | ~16,509 |
+| Déjà vu | 6.00% | ~14,151 |
 | Sock! SOCK! | 5.00% | ~11,792 |
-| A beer, two curses, three companions | 4.00% | ~9,433 |
-| GG EZ | 4.00% | ~9,433 |
-| Speedrun | 4.00% | ~9,433 |
+| A beer, two curses, three companions | 4.00% | ~9,434 |
+| GG EZ | 4.00% | ~9,434 |
+| Speedrun | 4.00% | ~9,434 |
 | Way of the Wimp | 3.00% | ~7,075 |
 | The plot thickens... At the tavern | 3.00% | ~7,075 |
 | DM intervention | 3.00% | ~7,075 |
@@ -43,7 +43,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 1.00% | ~2,358 |
 | Lust and Debauchery | 1.00% | ~2,358 |
 | Material Girl | 1.00% | ~2,358 |
-| Gargantua | 0.90% | ~2,122 |
+| Gargantua | 0.90% | ~2,123 |
 | In Navalu's footsteps | 0.80% | ~1,887 |
 | Lëgal Legend | 0.70% | ~1,651 |
 | Holistic Adventuring Party | 0.60% | ~1,415 |
@@ -52,10 +52,10 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 0.50% | ~1,179 |
 | Law and Order | 0.50% | ~1,179 |
 | It's been a hard day's night | 0.40% | ~943 |
-| Friendly fire | 0.30% | ~707 |
-| I'd rather... Just... Sing! | 0.30% | ~707 |
-| The number of the counting shalt be 7 | 0.30% | ~707 |
-| Inception | 0.30% | ~707 |
+| Friendly fire | 0.30% | ~708 |
+| I'd rather... Just... Sing! | 0.30% | ~708 |
+| The number of the counting shalt be 7 | 0.30% | ~708 |
+| Inception | 0.30% | ~708 |
 | Free customer service | 0.20% | ~472 |
 | Kudos from your DM | 0.20% | ~472 |
 | Insult to injury | 0.20% | ~472 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,833 (Ranked 61)  
+Progressed: 235,846 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-04 | 235,134 | 7 |
 | 2023-11-05 | 235,463 | 7 |
 | 2023-11-06 | 235,658 | 7 |
-| 2023-11-07 | 235,833 | 7 |
+| 2023-11-07 | 235,846 | 7 |
 ## Awards
 Max (Character Customization): 226  (Ranked 271)  
 Sum: 452 (Ranked 328)  

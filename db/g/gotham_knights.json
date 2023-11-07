@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4031,9 +4031,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76139,
+  "EOS_Progressed": 76141,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 557,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21836,6 +21836,11 @@
       "Time": "2023-11-07T22:05:39.6793332+00:00",
       "NumProgressed": 76139,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-07T23:07:39.9840482+00:00",
+      "NumProgressed": 76141,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21951,7 +21956,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15989
+      "UsersEstimate": 15990
     },
     {
       "ID": "CLAYFACE_2",
@@ -21967,7 +21972,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10659
+      "UsersEstimate": 10660
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -22079,7 +22084,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15989
+      "UsersEstimate": 15990
     },
     {
       "ID": "FREEZE_2",
@@ -22087,7 +22092,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14466
+      "UsersEstimate": 14467
     },
     {
       "ID": "FREEZE_3",
@@ -22095,7 +22100,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10659
+      "UsersEstimate": 10660
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -22175,7 +22180,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12182
+      "UsersEstimate": 12183
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22191,7 +22196,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38831
+      "UsersEstimate": 38832
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22239,7 +22244,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25887
+      "UsersEstimate": 25888
     },
     {
       "ID": "MYSTERY_02",
@@ -22287,7 +22292,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10659
+      "UsersEstimate": 10660
     },
     {
       "ID": "MYSTERY_08",
@@ -22303,7 +22308,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8375
+      "UsersEstimate": 8376
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -22334,13 +22339,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76139,
+      "Progressed": 76141,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46419,
+      "Progressed": 46421,
       "Completed": 2673
     }
   ],
@@ -22348,8 +22353,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-07T21:58:01.7323409+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:05:39.6793328+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:07:39.9840477+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:58:01.7323415+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:05:39.6794381+00:00"
+  "LastUpdate_Ratings": "2023-11-07T22:59:00.4490397+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:07:39.9842487+00:00"
 }

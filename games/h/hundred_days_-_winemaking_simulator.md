@@ -6,8 +6,8 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 40.00% | ~4,570 |
-| It's a good start | 10.00% | ~1,142 |
+| Bye Bye | 40.00% | ~4,571 |
+| It's a good start | 10.00% | ~1,143 |
 | Bonjour! | 7.00% | ~800 |
 | Quack | 7.00% | ~800 |
 | The Assistant | 6.00% | ~686 |
@@ -19,13 +19,13 @@ Number of Ratings: 7,669  (23.09.2022)
 | Keep the doctor away | 3.00% | ~343 |
 | Surprise of Langhe | 3.00% | ~343 |
 | Famous | 3.00% | ~343 |
-| What is that? A castle? | 2.00% | ~228 |
-| A lot of space | 2.00% | ~228 |
-| A big garage | 2.00% | ~228 |
-| Millionaire | 2.00% | ~228 |
-| Exotic | 2.00% | ~228 |
-| Welcome to the club | 2.00% | ~228 |
-| Very Important Winemaker | 2.00% | ~228 |
+| What is that? A castle? | 2.00% | ~229 |
+| A lot of space | 2.00% | ~229 |
+| A big garage | 2.00% | ~229 |
+| Millionaire | 2.00% | ~229 |
+| Exotic | 2.00% | ~229 |
+| Welcome to the club | 2.00% | ~229 |
+| Very Important Winemaker | 2.00% | ~229 |
 | Pastry Chef | 1.00% | ~114 |
 | King of Langhe | 1.00% | ~114 |
 | Gem of Monferrato | 1.00% | ~114 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~11 |
 | Master Winemaker | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,425 (Ranked 153)  
+Progressed: 11,428 (Ranked 153)  
 Completed: 10 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 10 (0.09%) (Ranked 275)
 | 2023-11-04 | 10,999 | 10 |
 | 2023-11-05 | 11,170 | 10 |
 | 2023-11-06 | 11,296 | 10 |
-| 2023-11-07 | 11,425 | 10 |
+| 2023-11-07 | 11,428 | 10 |
 ## Awards
 Max (Relaxing): 206  (Ranked 282)  
 Sum: 1,725 (Ranked 214)  

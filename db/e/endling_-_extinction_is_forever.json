@@ -2,7 +2,7 @@
   "ID": "f0757a2ab13941d89476cfa09df9a545",
   "Name": "Endling - Extinction is Forever",
   "ProductSlug": "endling-extinction-is-forever",
-  "Ranking_EOS_Progress": 290,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 185,
   "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 132,
@@ -1052,9 +1052,9 @@
       "ID": "TROP023",
       "SetID": "9n0dl35",
       "Name": "Detox diet",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 219
+      "UsersEstimate": 224
     },
     {
       "ID": "TROP024",
@@ -1101,8 +1101,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:09:02.1992904+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:10:31.2319523+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:43.1871778+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:57:29.757244+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:09:02.199311+00:00"
+  "LastUpdate_Ratings": "2023-11-07T22:58:17.8742945+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:10:31.2319798+00:00"
 }

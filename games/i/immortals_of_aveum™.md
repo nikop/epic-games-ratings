@@ -7,8 +7,8 @@ Rating: 4.00 (Ranked 984)
 | ---- | ---------- | ----- |
 | Unforeseen | 89.00% | ~164 |
 | Battlefields Have Memories | 84.00% | ~155 |
-| Enlisted | 80.00% | ~147 |
-| Maybe Engage a Little | 76.00% | ~140 |
+| Enlisted | 81.00% | ~149 |
+| Maybe Engage a Little | 77.00% | ~142 |
 | No More Names | 60.00% | ~110 |
 | Initiate | 49.00% | ~90 |
 | Thrada-Kul | 46.00% | ~85 |
@@ -17,7 +17,7 @@ Rating: 4.00 (Ranked 984)
 | Soldier | 30.00% | ~55 |
 | Beggars Would Ride | 27.00% | ~50 |
 | Control is an Illusion | 26.00% | ~48 |
-| Socialite | 25.00% | ~46 |
+| Socialite | 26.00% | ~48 |
 | The Means to Save It | 22.00% | ~40 |
 | Resilience to Sin | 20.00% | ~37 |
 | A Familiar Nest | 18.00% | ~33 |

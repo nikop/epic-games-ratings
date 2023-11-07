@@ -16,14 +16,14 @@ Rating: 4.63 (Ranked 346)
 | Story Teller | 55.00% | ~886 |
 | Raise the Stakes | 55.00% | ~886 |
 | Surgeon | 51.00% | ~821 |
-| Freeze | 50.00% | ~805 |
+| Freeze | 51.00% | ~821 |
 | Exterminator | 50.00% | ~805 |
 | Greenhouse Effect | 50.00% | ~805 |
 | Full Arsenal | 45.00% | ~724 |
 | S.O.S. | 44.00% | ~708 |
 | Get Off My Ship! | 43.00% | ~692 |
 | Strange Transmissions | 42.00% | ~676 |
-| Live with the Hot Ones | 40.00% | ~644 |
+| Live with the Hot Ones | 41.00% | ~660 |
 | Wreckage | 40.00% | ~644 |
 | Keeper of the Faith | 38.00% | ~612 |
 | Betrayed | 37.00% | ~596 |
@@ -35,12 +35,12 @@ Rating: 4.63 (Ranked 346)
 | Front Toward Enemy | 32.00% | ~515 |
 | Set A Benchmark | 28.00% | ~451 |
 | Whole Again | 27.00% | ~435 |
+| Final Regeneration | 25.00% | ~402 |
 | Full Contact | 25.00% | ~402 |
 | Pack Rat | 25.00% | ~402 |
-| Final Regeneration | 24.00% | ~386 |
 | Full Clearance | 23.00% | ~370 |
 | Pusher | 22.00% | ~354 |
-| Z-Baller | 21.00% | ~338 |
+| Z-Baller | 22.00% | ~354 |
 | Marked | 20.00% | ~322 |
 | Eviscerator | 18.00% | ~290 |
 | Backbreaker | 13.00% | ~209 |

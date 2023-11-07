@@ -6,7 +6,7 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 213,
-  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2186,
+  "EOS_Progressed": 2187,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3099,6 +3099,11 @@
       "Time": "2023-11-07T17:16:34.0152094+00:00",
       "NumProgressed": 2186,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-07T23:10:04.401374+00:00",
+      "NumProgressed": 2187,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3126,7 +3131,7 @@
       "Name": "Dead Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ACHV_04",
@@ -3142,7 +3147,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ACHV_06",
@@ -3158,7 +3163,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHV_08",
@@ -3310,7 +3315,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "ACHV_27",
@@ -3326,7 +3331,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHV_29",
@@ -3414,7 +3419,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACHV_40",
@@ -3470,7 +3475,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "ACHV_47",
@@ -3565,7 +3570,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2186,
+      "Progressed": 2187,
       "Completed": 13
     }
   ],
@@ -3573,8 +3578,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:08:42.7498279+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:10:04.4013731+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:22.6929066+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:59:30.1790071+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:08:42.7498927+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:01:12.8523846+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:10:04.4015304+00:00"
 }

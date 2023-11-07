@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4374,
+  "EOS_Progressed": 4375,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 784,
+  "EOS_NewPlayers": 781,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2396,6 +2396,11 @@
       "Time": "2023-11-07T22:08:32.6406644+00:00",
       "NumProgressed": 4374,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-07T23:09:50.1264006+00:00",
+      "NumProgressed": 4375,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2448,7 +2453,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "Eavesdropper",
@@ -2544,7 +2549,7 @@
       "Name": "Master Manipulator",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Nasty",
@@ -2558,9 +2563,9 @@
       "ID": "NoMoreTotems",
       "SetID": "acc6ea0",
       "Name": "No More Totems",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 262
     },
     {
       "ID": "NotLikeTheOthers",
@@ -2568,7 +2573,7 @@
       "Name": "Not Like The Others",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "OneStarMan",
@@ -2592,7 +2597,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "TheOldSchoolWay",
@@ -2600,7 +2605,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "TheQuarterback",
@@ -2679,7 +2684,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4374,
+      "Progressed": 4375,
       "Completed": 5
     }
   ],
@@ -2687,8 +2692,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:08:32.6406639+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:09:50.1264001+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:59:04.9091324+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:08:32.6406928+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:00:37.3723703+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:09:50.1264546+00:00"
 }

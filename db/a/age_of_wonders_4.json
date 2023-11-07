@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -417,9 +417,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5284,
+  "EOS_Progressed": 5285,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6702,6 +6702,11 @@
       "Time": "2023-11-07T20:13:38.6614375+00:00",
       "NumProgressed": 5284,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-07T23:08:02.4177823+00:00",
+      "NumProgressed": 5285,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6775,9 +6780,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "18",
@@ -6799,9 +6804,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "20",
@@ -6879,9 +6884,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "3",
@@ -6911,9 +6916,9 @@
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "33",
@@ -6967,9 +6972,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "4",
@@ -7192,13 +7197,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5284,
+      "Progressed": 5285,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5284,
+      "Progressed": 5285,
       "Completed": 7
     }
   ],
@@ -7206,8 +7211,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-07T13:03:36.0070967+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:05:55.3091566+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:08:02.4177816+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:58:45.8367758+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:05:55.3092316+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:00:06.3296179+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:08:02.4178846+00:00"
 }

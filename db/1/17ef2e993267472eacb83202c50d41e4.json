@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -65,7 +65,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7776,
+  "EOS_Progressed": 7778,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -5955,6 +5955,11 @@
       "Time": "2023-11-07T22:09:04.5336907+00:00",
       "NumProgressed": 7776,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T23:10:34.1804839+00:00",
+      "NumProgressed": 7778,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6111,7 +6116,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "GamesWon10",
@@ -6159,7 +6164,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "HAUpgraded1",
@@ -6558,7 +6563,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7776,
+      "Progressed": 7778,
       "Completed": 1
     }
   ],
@@ -6566,8 +6571,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-07T13:03:10.353816+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:09:04.5336904+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:10:34.1804833+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:58:23.831847+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:09:04.5337686+00:00"
+  "LastUpdate_Ratings": "2023-11-07T22:59:30.9848029+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:10:34.1806937+00:00"
 }

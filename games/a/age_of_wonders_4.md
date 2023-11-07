@@ -6,18 +6,23 @@ Rating: 4.60 (Ranked 409)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Return of the Wizard King | 0.10% | ~5 |
+| Lord of Chaos | 0.10% | ~5 |
 | Arch Mage | 0.10% | ~5 |
+| Enchanted Archipelago | 0.10% | ~5 |
 | Realm Estate | 0.10% | ~5 |
 | A Wonderful Discovery | 0.10% | ~5 |
 | Secret Technique | 0.10% | ~5 |
 | Walls Cannot Stop Us | 0.10% | ~5 |
 | Digging for Treasure | 0.10% | ~5 |
 | From Friends to Family | 0.10% | ~5 |
+| Stronger Together | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | Magical Synergy | 0.10% | ~5 |
+| My Final Form | 0.10% | ~5 |
 | Seat of Power | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
+| Impenetrable Fortress | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
 | Pruning for Progress | 0.10% | ~5 |
 | Freed Lands of Manuhari | 0.10% | ~5 |
@@ -31,19 +36,14 @@ Rating: 4.60 (Ranked 409)
 | The Magic That Empowers Me! | 0.00% | ~0 |
 | Full Ascension | 0.00% | ~0 |
 | God Emperor | 0.00% | ~0 |
-| Lord of Chaos | 0.00% | ~0 |
 | The Creator | 0.00% | ~0 |
-| Enchanted Archipelago | 0.00% | ~0 |
 | The Goddess of Nature | 0.00% | ~0 |
 | Eternal Lord | 0.00% | ~0 |
 | Bone Peddler | 0.00% | ~0 |
-| Stronger Together | 0.00% | ~0 |
 | Preparation Is Everything | 0.00% | ~0 |
-| My Final Form | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Fiery Friend | 0.00% | ~0 |
 | Manufactured War | 0.00% | ~0 |
-| Impenetrable Fortress | 0.00% | ~0 |
 | Intimidation Tactics | 0.00% | ~0 |
 | Jack of All Tomes | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 409)
 | Dawn of the Dread | 0.00% | ~0 |
 | A Very Special Ring | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,284 (Ranked 183)  
+Progressed: 5,285 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-04 | 5,271 | 7 |
 | 2023-11-05 | 5,274 | 7 |
 | 2023-11-06 | 5,276 | 7 |
-| 2023-11-07 | 5,284 | 7 |
+| 2023-11-07 | 5,285 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 51 (Ranked 477)  

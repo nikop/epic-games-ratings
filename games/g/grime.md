@@ -8,9 +8,9 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 4.00% | ~6,285 |
 | Imprint | 4.00% | ~6,285 |
-| The Hunt | 3.00% | ~4,713 |
-| Weeper | 3.00% | ~4,713 |
-| Ravenous | 3.00% | ~4,713 |
+| The Hunt | 3.00% | ~4,714 |
+| Weeper | 3.00% | ~4,714 |
+| Ravenous | 3.00% | ~4,714 |
 | Devourer | 2.00% | ~3,142 |
 | Scion | 1.00% | ~1,567 |
 | Harmless | 1.00% | ~1,571 |
@@ -34,17 +34,17 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 0.50% | ~786 |
 | Inevitable | 0.50% | ~786 |
 | Breathsmith | 0.50% | ~786 |
-| Dream | 0.50% | ~783 |
+| Dream | 0.50% | ~784 |
 | Unwrap the Gift | 0.40% | ~628 |
 | Passage | 0.40% | ~628 |
 | Bloodhunter | 0.30% | ~471 |
 | Zygote | 0.30% | ~470 |
 | Kinship | 0.30% | ~471 |
+| Kin | 0.30% | ~470 |
 | Listen | 0.30% | ~470 |
 | Proportions | 0.30% | ~471 |
 | Weakness | 0.20% | ~314 |
 | Generous | 0.20% | ~314 |
-| Kin | 0.20% | ~313 |
 | Intensify | 0.20% | ~313 |
 | Spiral Heart | 0.10% | ~157 |
 | Skinmaker | 0.10% | ~157 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Touch of Otherwhere | 0.10% | ~157 |
 | Enrich | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,113 (Ranked 76)  
+Progressed: 157,118 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,10 +231,10 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 156,591 | 1 |
 | 2023-11-05 | 156,812 | 1 |
 | 2023-11-06 | 156,967 | 1 |
-| 2023-11-07 | 157,113 | 1 |
+| 2023-11-07 | 157,118 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 426)  
-Sum: 350 (Ranked 348)  
+Sum: 351 (Ranked 348)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -242,8 +242,8 @@ Diff (max vs sum): 78
 | This game has Quickly Understood Controls | 49 |
 | This game has Unique Visuals | 48 |
 | This game is Extremely Fun | 46 |
+| This game has Challenging Combat | 44 |
 | This game has Amazing Storytelling | 44 |
-| This game has Challenging Combat | 43 |
 | This game has Amazing Characters | 37 |
 | This game has a Creative Community | 33 |
 | This game has Diverse Characters | 20 |
@@ -383,3 +383,4 @@ Diff (max vs sum): 78
 | 2023-11-03 | 4.58 | - | 50 | 343 |
 | 2023-11-04 | 4.58 | - | 50 | 344 |
 | 2023-11-05 | 4.59 | - | 50 | 350 |
+| 2023-11-07 | 4.59 | - | 50 | 351 |

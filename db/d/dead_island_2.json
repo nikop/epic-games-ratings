@@ -6175,10 +6175,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10877,
       "NumberOfAwardsMax": 7178
+    },
+    {
+      "Time": "2023-11-07T22:58:49.5109564+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10881,
+      "NumberOfAwardsMax": 7178
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10877,
+  "NumberOfAwards": 10881,
   "NumberOfAwardsMax": 7178,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6228,7 +6234,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 459
+      "Count": 463
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6237,9 +6243,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714687,
+  "EOS_Progressed": 714715,
   "EOS_Completed": 2354,
-  "EOS_NewPlayers": 5142,
+  "EOS_NewPlayers": 5131,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29207,6 +29213,11 @@
       "Time": "2023-11-07T22:05:31.3103252+00:00",
       "NumProgressed": 714687,
       "NumCompleted": 2354
+    },
+    {
+      "Time": "2023-11-07T23:07:28.3311016+00:00",
+      "NumProgressed": 714715,
+      "NumCompleted": 2354
     }
   ],
   "TotalAchievements": 51,
@@ -29378,7 +29389,7 @@
       "Name": "Hotel California",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3574
     },
     {
       "ID": "ach_impressive_aim",
@@ -29554,7 +29565,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3574
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29578,7 +29589,7 @@
       "Name": "One of Us",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ach_dark_magic",
@@ -29602,7 +29613,7 @@
       "Name": "Pork Chopped",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29618,29 +29629,29 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714687,
+      "Progressed": 714715,
       "Completed": 2354
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40229,
-      "Completed": 36484
+      "Progressed": 40257,
+      "Completed": 36488
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-07T20:58:02.4189085+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:05:31.3103247+00:00",
+  "LastChanged": "2023-11-07T22:58:49.5109561+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:07:28.3311012+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:57:54.4211719+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:05:31.3104596+00:00"
+  "LastUpdate_Ratings": "2023-11-07T22:58:49.510957+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:07:28.3312898+00:00"
 }

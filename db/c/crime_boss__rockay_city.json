@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4479,9 +4479,9 @@
       "Count": 484
     }
   ],
-  "EOS_Progressed": 89642,
+  "EOS_Progressed": 89646,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24319,6 +24319,11 @@
       "Time": "2023-11-07T22:03:08.1046546+00:00",
       "NumProgressed": 89642,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-07T23:04:03.824503+00:00",
+      "NumProgressed": 89646,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24328,9 +24333,9 @@
       "ID": "ACH_0001",
       "SetID": "3kam13l",
       "Name": "Neophyte Ninja",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 896
+      "UsersEstimate": 1793
     },
     {
       "ID": "ACH_0011",
@@ -24354,7 +24359,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH_0014",
@@ -24578,7 +24583,7 @@
       "Name": "True Player",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACH_0450",
@@ -24657,13 +24662,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89642,
+      "Progressed": 89646,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17989,
+      "Progressed": 17993,
       "Completed": 15560
     }
   ],
@@ -24671,8 +24676,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-07T17:07:22.6745719+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:03:08.1046542+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:04:03.8245025+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:58:58.6616204+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:03:08.1049051+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:00:27.0042231+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:04:03.824731+00:00"
 }

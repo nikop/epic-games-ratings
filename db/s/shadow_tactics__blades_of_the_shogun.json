@@ -1960,9 +1960,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 212496,
+  "EOS_Progressed": 212500,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 1357,
+  "EOS_NewPlayers": 1352,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24945,6 +24945,11 @@
       "Time": "2023-11-07T22:05:34.5035038+00:00",
       "NumProgressed": 212496,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-11-07T23:07:32.8846375+00:00",
+      "NumProgressed": 212500,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 44,
@@ -25004,7 +25009,7 @@
       "Name": "Five Shadows",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "FlyingRocks",
@@ -25284,7 +25289,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1912
+      "UsersEstimate": 1913
     },
     {
       "ID": "WinnerWinner",
@@ -25307,15 +25312,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 212496,
+      "Progressed": 212500,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-07T11:03:18.8279717+00:00",
-  "LastChanged_Achievements": "2023-11-07T22:05:34.5035031+00:00",
+  "LastChanged_Achievements": "2023-11-07T23:07:32.884637+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.1309249+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:02:38.6741062+00:00",
-  "LastUpdate_Achievements": "2023-11-07T22:05:34.5036129+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:03:17.5687564+00:00",
+  "LastUpdate_Achievements": "2023-11-07T23:07:32.884944+00:00"
 }
