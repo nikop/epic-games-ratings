@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1387,9 +1387,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157060,
+  "EOS_Progressed": 157067,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1305,
+  "EOS_NewPlayers": 1309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14722,6 +14722,11 @@
       "Time": "2023-11-07T15:08:51.555238+00:00",
       "NumProgressed": 157060,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T16:08:24.7231774+00:00",
+      "NumProgressed": 157067,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -14787,9 +14792,9 @@
       "ID": "ACQUIRE_MAXBREATH",
       "SetID": "ccc0dlh",
       "Name": "Breath",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 628
+      "UsersEstimate": 785
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -14797,7 +14802,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -14829,7 +14834,7 @@
       "Name": "Shapely",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -14949,7 +14954,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -14957,7 +14962,7 @@
       "Name": "Predator",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -15100,21 +15105,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156643,
-      "Completed": 1193
+      "Progressed": 156650,
+      "Completed": 1194
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157060,
+      "Progressed": 157067,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-05T21:00:16.5008825+00:00",
-  "LastChanged_Achievements": "2023-11-07T15:08:51.5552376+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:08:24.7231772+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:01:54.9085629+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:08:51.5553375+00:00"
+  "LastUpdate_Ratings": "2023-11-07T16:00:42.566702+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:08:24.7232477+00:00"
 }

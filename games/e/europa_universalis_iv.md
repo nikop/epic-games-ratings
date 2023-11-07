@@ -31,9 +31,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Combined Arms | 0.10% | ~449 |
 | Defender of the Faith | 0.10% | ~449 |
 | Definitely the Sultan of Rum | 0.10% | ~449 |
+| Die Please Die | 0.10% | ~449 |
 | Disciples of Enlightenment | 0.10% | ~449 |
 | Double the Love | 0.10% | ~449 |
 | Down Under | 0.10% | ~449 |
+| Dude, Where's my Boat? | 0.10% | ~449 |
 | Early-Modern Warfare | 0.10% | ~449 |
 | Electable! | 0.10% | ~449 |
 | The Emperors new clothes | 0.10% | ~449 |
@@ -62,6 +64,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about the money | 0.10% | ~449 |
 | Just a Little Patience | 0.10% | ~449 |
 | Just Resting In My Account | 0.10% | ~449 |
+| King of Jerusalem | 0.10% | ~449 |
 | Liberty or Death | 0.10% | ~449 |
 | Live Long and Prosper | 0.10% | ~449 |
 | Magellan’s Voyage | 0.10% | ~449 |
@@ -172,11 +175,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Czechs and Balances | 0.00% | ~0 |
 | Dar al-Islam | 0.00% | ~0 |
 | David the Builder | 0.00% | ~0 |
-| Die Please Die | 0.00% | ~0 |
 | Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Dracula's Revenge | 0.00% | ~0 |
-| Dude, Where's my Boat? | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | Emperor of Hindustan | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
@@ -223,7 +224,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Kaiser not just in name | 0.00% | ~0 |
 | Keep the Flame Burning | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
-| King of Jerusalem | 0.00% | ~0 |
 | Kingdom of God | 0.00% | ~0 |
 | Kinslayer | 0.00% | ~0 |
 | Kirishitan Japan | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,194 (Ranked 41)  
+Progressed: 449,235 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 449,194 | 1 |
+| 2023-11-07 | 449,235 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,529 (Ranked 24)  

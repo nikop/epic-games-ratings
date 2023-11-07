@@ -6,20 +6,20 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,751 |
-| First Steps | 80.00% | ~35,054 |
-| Control the Shadows | 67.00% | ~29,358 |
-| Tools of the Trade | 63.00% | ~27,605 |
+| Awakening | 93.00% | ~40,752 |
+| First Steps | 80.00% | ~35,055 |
+| Control the Shadows | 67.00% | ~29,359 |
+| Tools of the Trade | 63.00% | ~27,606 |
 | Apprentice | 60.00% | ~26,291 |
-| Secret Seeker | 57.00% | ~24,976 |
+| Secret Seeker | 57.00% | ~24,977 |
 | Forge of Assassins | 55.00% | ~24,100 |
-| Revenant | 52.00% | ~22,785 |
-| I don’t Care! | 45.00% | ~19,718 |
+| Revenant | 52.00% | ~22,786 |
+| I don’t Care! | 45.00% | ~19,719 |
 | Bird of Prey | 37.00% | ~16,213 |
 | Engraved with Power | 32.00% | ~14,022 |
 | Lady | 31.00% | ~13,584 |
 | Fashionable Assassin | 27.00% | ~11,831 |
-| Apex Predator | 24.00% | ~10,516 |
+| Apex Predator | 24.00% | ~10,517 |
 | Embers | 22.00% | ~9,640 |
 | Soul Reaver | 22.00% | ~9,640 |
 | Wall Lizard | 20.00% | ~8,764 |
@@ -36,8 +36,8 @@ Number of Ratings: 88  (23.09.2022)
 | Bonds | 9.00% | ~3,944 |
 | Get Over Here | 9.00% | ~3,944 |
 | The Hidden Village | 9.00% | ~3,944 |
-| Denouement | 8.00% | ~3,505 |
-| A Pleasant Stay | 8.00% | ~3,505 |
+| Denouement | 8.00% | ~3,506 |
+| A Pleasant Stay | 8.00% | ~3,506 |
 | Pilgrimage | 7.00% | ~3,067 |
 | The Lookout | 5.00% | ~2,191 |
 | The Spirit of Vengeance | 5.00% | ~2,191 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~876 |
 | Legacy | 2.00% | ~876 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,818 (Ranked 113)  
+Progressed: 43,819 (Ranked 113)  
 Completed: 239 (0.55%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,6 +252,7 @@ Completed: 239 (0.55%) (Ranked 187)
 | 2023-11-04 | 43,802 | 239 |
 | 2023-11-05 | 43,817 | 239 |
 | 2023-11-06 | 43,818 | 239 |
+| 2023-11-07 | 43,819 | 239 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

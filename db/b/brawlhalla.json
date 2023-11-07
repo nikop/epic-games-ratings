@@ -3,12 +3,12 @@
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 430,
-  "Ranking_Popularity": 210,
+  "Ranking_Popularity": 208,
   "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -8211,11 +8211,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 4192,
       "NumberOfAwardsMax": 474
+    },
+    {
+      "Time": "2023-11-07T15:58:44.2880201+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 4199,
+      "NumberOfAwardsMax": 477
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4192,
-  "NumberOfAwardsMax": 474,
+  "NumberOfAwards": 4199,
+  "NumberOfAwardsMax": 477,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -8240,7 +8246,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 474
+      "Count": 477
     },
     {
       "Text": "This game is Relaxing",
@@ -8276,13 +8282,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 403
+      "Count": 404
     },
     {
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 292
+      "Count": 295
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8303,8 +8309,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-11-07T01:43:17.9998767+00:00",
+  "LastChanged": "2023-11-07T15:58:44.2880199+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:04.1896586+00:00",
-  "LastUpdate_Ratings": "2023-11-07T14:58:57.5579758+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:09:48.7261183+00:00"
+  "LastUpdate_Ratings": "2023-11-07T15:58:44.2880205+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:09:06.5769311+00:00"
 }

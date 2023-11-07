@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 530847,
+  "EOS_Progressed": 530848,
   "EOS_Completed": 497,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 488,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -21902,6 +21902,11 @@
       "Time": "2023-11-07T15:05:37.0394338+00:00",
       "NumProgressed": 530847,
       "NumCompleted": 497
+    },
+    {
+      "Time": "2023-11-07T16:04:35.308219+00:00",
+      "NumProgressed": 530848,
+      "NumCompleted": 497
     }
   ],
   "TotalAchievements": 57,
@@ -21921,7 +21926,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238881
+      "UsersEstimate": 238882
     },
     {
       "ID": "11",
@@ -21929,7 +21934,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 371593
+      "UsersEstimate": 371594
     },
     {
       "ID": "12",
@@ -21937,7 +21942,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116786
+      "UsersEstimate": 116787
     },
     {
       "ID": "13",
@@ -21993,7 +21998,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329125
+      "UsersEstimate": 329126
     },
     {
       "ID": "2",
@@ -22009,7 +22014,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127403
+      "UsersEstimate": 127404
     },
     {
       "ID": "21",
@@ -22241,7 +22246,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329125
+      "UsersEstimate": 329126
     },
     {
       "ID": "48",
@@ -22249,7 +22254,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 106169
+      "UsersEstimate": 106170
     },
     {
       "ID": "49",
@@ -22368,15 +22373,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 530847,
+      "Progressed": 530848,
       "Completed": 497
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-07T15:05:37.0394333+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:04:35.3082187+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:04.9098123+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:01:17.2195762+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:05:37.0395998+00:00"
+  "LastUpdate_Ratings": "2023-11-07T16:00:18.4481583+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:04:35.3083413+00:00"
 }

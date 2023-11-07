@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1403,9 +1403,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 6657,
+  "EOS_Progressed": 6658,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12378,6 +12378,11 @@
       "Time": "2023-11-07T15:07:07.7666412+00:00",
       "NumProgressed": 6657,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-07T16:05:40.6112497+00:00",
+      "NumProgressed": 6658,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -12389,7 +12394,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -12413,7 +12418,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -12421,7 +12426,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4460
+      "UsersEstimate": 4461
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -12429,7 +12434,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -12437,7 +12442,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4793
+      "UsersEstimate": 4794
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -12493,7 +12498,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "KILL_RAIDER",
@@ -12509,7 +12514,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 3994
+      "UsersEstimate": 3995
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -12549,7 +12554,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4593
+      "UsersEstimate": 4594
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -12589,7 +12594,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3662
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -12597,7 +12602,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4460
+      "UsersEstimate": 4461
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -12605,7 +12610,7 @@
       "Name": "Adept Researcher",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 2929
+      "UsersEstimate": 2930
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -12621,7 +12626,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -12636,15 +12641,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6657,
+      "Progressed": 6658,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-04T15:00:01.549474+00:00",
-  "LastChanged_Achievements": "2023-11-07T15:07:07.7666406+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:05:40.6112493+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.6688935+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:03:02.494936+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:07:07.766731+00:00"
+  "LastUpdate_Ratings": "2023-11-07T16:02:47.7703341+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:05:40.6113211+00:00"
 }

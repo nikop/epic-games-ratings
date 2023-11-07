@@ -3,23 +3,23 @@
 [View Rawdata](../../db/b/brawlhalla.json)  
 Rating: 4.59 (Ranked 430)  
 ## Awards
-Max (Great for Quick Sessions): 474  (Ranked 210)  
-Sum: 4,192 (Ranked 148)  
-Diff (max vs sum): 62  
+Max (Great for Quick Sessions): 477  (Ranked 208)  
+Sum: 4,199 (Ranked 148)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Quick Sessions | 474 |
+| This game is Great for Quick Sessions | 477 |
 | This game has Diverse Characters | 431 |
 | This game is Relaxing | 415 |
 | This game has Competitive Players | 408 |
-| This game has Quickly Understood Controls | 403 |
+| This game has Quickly Understood Controls | 404 |
 | This game is Extremely Fun | 387 |
 | This game has Amazing Characters | 352 |
 | This game is Highly Recommended | 350 |
 | This game has Challenging Combat | 347 |
 | This game has Amazing Storytelling | 333 |
 | This game is Great for Beginners | 331 |
-| This game has a Competitive Community | 292 |
+| This game has a Competitive Community | 295 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -310,4 +310,4 @@ Diff (max vs sum): 62
 | 2023-11-04 | 4.59 | 471 | 4,132 |
 | 2023-11-05 | 4.59 | 474 | 4,160 |
 | 2023-11-06 | 4.59 | 474 | 4,185 |
-| 2023-11-07 | 4.59 | 474 | 4,192 |
+| 2023-11-07 | 4.59 | 477 | 4,199 |

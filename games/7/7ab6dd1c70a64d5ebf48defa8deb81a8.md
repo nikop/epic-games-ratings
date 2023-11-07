@@ -9,11 +9,11 @@
 | Find Allies | 23.00% | ~38 |
 | A Taste of Wrath | 22.00% | ~36 |
 | Shatter Them All | 22.00% | ~36 |
+| I Found It | 22.00% | ~36 |
 | The Collector | 22.00% | ~36 |
 | Powerful Allies | 21.00% | ~35 |
 | Adventurer | 21.00% | ~35 |
 | Fashion Victim | 21.00% | ~35 |
-| I Found It | 21.00% | ~35 |
 | Scholar | 20.00% | ~33 |
 | Geared Up | 19.00% | ~31 |
 | Tributes of Caladrias | 18.00% | ~30 |

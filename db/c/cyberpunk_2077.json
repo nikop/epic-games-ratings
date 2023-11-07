@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14816,10 +14816,10 @@
       "Count": 12552
     }
   ],
-  "EOS_Progressed": 895659,
+  "EOS_Progressed": 895667,
   "EOS_Completed": 2753,
   "EOS_NewPlayers": 1016,
-  "EOS_NewCompleters": 19,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -37581,6 +37581,11 @@
       "Time": "2023-11-07T15:08:34.9143974+00:00",
       "NumProgressed": 895659,
       "NumCompleted": 2753
+    },
+    {
+      "Time": "2023-11-07T16:08:13.1834442+00:00",
+      "NumProgressed": 895667,
+      "NumCompleted": 2753
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38063,9 +38068,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 73
+      "UsersEstimate": 97
     },
     {
       "ID": "KingOfTheCups",
@@ -38128,21 +38133,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895659,
+      "Progressed": 895667,
       "Completed": 2753
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24282,
-      "Completed": 10199
+      "Progressed": 24290,
+      "Completed": 10200
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-07T13:05:17.1451553+00:00",
-  "LastChanged_Achievements": "2023-11-07T15:08:34.9143967+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:08:13.1834439+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:02:34.2762477+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:08:34.9145733+00:00"
+  "LastUpdate_Ratings": "2023-11-07T16:00:48.653834+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:08:13.1835841+00:00"
 }

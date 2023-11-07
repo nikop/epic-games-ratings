@@ -25,7 +25,7 @@
 | I love you all | 6.00% | ~5 |
 | Skills to pay the bills | 6.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 88 (Ranked 423)  
+Progressed: 88 (Ranked 424)  
 Completed: 4 (4.55%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |

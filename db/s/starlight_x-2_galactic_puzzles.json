@@ -2,10 +2,10 @@
   "ID": "8805c35d5be3445883a032fd3efc14d0",
   "Name": "Starlight X-2 Galactic Puzzles",
   "ProductSlug": "starlight-x2-galactic-puzzles-dede7d",
-  "Ranking_EOS_Progress": 447,
+  "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-06-07T07:00:00+00:00",
     "PcReleaseDate": "2021-04-15T10:00:00+00:00",
@@ -676,8 +676,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:54:03.7448556+00:00",
-  "LastChanged_Achievements": "2023-11-07T15:08:53.9262432+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:08:26.8477072+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:22.8339713+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:01:03.0297982+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:08:53.9262704+00:00"
+  "LastUpdate_Ratings": "2023-11-07T16:00:08.2325302+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:08:26.8477391+00:00"
 }

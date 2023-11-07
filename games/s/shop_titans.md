@@ -23,28 +23,28 @@ Number of Ratings: 12,664  (23.09.2022)
 | Budding Merchant | 2.00% | ~2,775 |
 | Through Repetition, Perfection | 2.00% | ~2,775 |
 | Own the Means of Production | 2.00% | ~2,775 |
-| On the Path to Greatness | 1.00% | ~1,387 |
-| Ascended | 1.00% | ~1,387 |
-| Research & Development | 1.00% | ~1,387 |
-| Vanity, Verily | 1.00% | ~1,387 |
-| Fated Encounters | 1.00% | ~1,387 |
-| Blank Page Syndrome | 1.00% | ~1,387 |
-| Demand for Supplies | 1.00% | ~1,387 |
-| Flooding the Market | 1.00% | ~1,387 |
-| Where it Hurts | 1.00% | ~1,387 |
-| Power of Love | 1.00% | ~1,387 |
-| Efficient Floor Space | 1.00% | ~1,387 |
-| Flawless Fusion | 1.00% | ~1,387 |
-| Gem Expert | 1.00% | ~1,387 |
-| Gild-Gotten Goods | 1.00% | ~1,387 |
-| Royal Ransom | 1.00% | ~1,387 |
-| Helping Hand | 1.00% | ~1,387 |
-| Accomplished Merchant | 1.00% | ~1,387 |
-| Dungeon Imports | 1.00% | ~1,387 |
-| Natural 20 | 1.00% | ~1,387 |
-| Did we pack lunch? | 1.00% | ~1,387 |
-| Magical Harmony | 1.00% | ~1,387 |
-| Arcane Industries | 1.00% | ~1,387 |
+| On the Path to Greatness | 1.00% | ~1,388 |
+| Ascended | 1.00% | ~1,388 |
+| Research & Development | 1.00% | ~1,388 |
+| Vanity, Verily | 1.00% | ~1,388 |
+| Fated Encounters | 1.00% | ~1,388 |
+| Blank Page Syndrome | 1.00% | ~1,388 |
+| Demand for Supplies | 1.00% | ~1,388 |
+| Flooding the Market | 1.00% | ~1,388 |
+| Where it Hurts | 1.00% | ~1,388 |
+| Power of Love | 1.00% | ~1,388 |
+| Efficient Floor Space | 1.00% | ~1,388 |
+| Flawless Fusion | 1.00% | ~1,388 |
+| Gem Expert | 1.00% | ~1,388 |
+| Gild-Gotten Goods | 1.00% | ~1,388 |
+| Royal Ransom | 1.00% | ~1,388 |
+| Helping Hand | 1.00% | ~1,388 |
+| Accomplished Merchant | 1.00% | ~1,388 |
+| Dungeon Imports | 1.00% | ~1,388 |
+| Natural 20 | 1.00% | ~1,388 |
+| Did we pack lunch? | 1.00% | ~1,388 |
+| Magical Harmony | 1.00% | ~1,388 |
+| Arcane Industries | 1.00% | ~1,388 |
 | Tax not Included | 0.90% | ~1,249 |
 | For the Hoard! | 0.90% | ~1,249 |
 | Trash to Treasure | 0.90% | ~1,249 |
@@ -110,16 +110,16 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Greatest Grind | 0.30% | ~416 |
 | All or Nothing! | 0.30% | ~416 |
 | Marvels from the World Over | 0.30% | ~416 |
-| Bane of Legends | 0.20% | ~277 |
-| Ultimate Collector | 0.20% | ~277 |
-| Oligarch Monarch | 0.20% | ~277 |
-| Unleashed Potential | 0.20% | ~277 |
-| Merchant Extraordinaire | 0.20% | ~277 |
-| Cash Only Please | 0.20% | ~277 |
+| Bane of Legends | 0.20% | ~278 |
+| Ultimate Collector | 0.20% | ~278 |
+| Oligarch Monarch | 0.20% | ~278 |
+| Unleashed Potential | 0.20% | ~278 |
+| Merchant Extraordinaire | 0.20% | ~278 |
+| Cash Only Please | 0.20% | ~278 |
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,749 (Ranked 79)  
+Progressed: 138,750 (Ranked 79)  
 Completed: 178 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 178 (0.13%) (Ranked 257)
 | 2023-11-04 | 138,604 | 178 |
 | 2023-11-05 | 138,681 | 178 |
 | 2023-11-06 | 138,721 | 178 |
-| 2023-11-07 | 138,749 | 178 |
+| 2023-11-07 | 138,750 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 73)  
 Sum: 27,506 (Ranked 51)  

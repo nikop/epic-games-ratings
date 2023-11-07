@@ -1314,7 +1314,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27828,
+  "EOS_Progressed": 27830,
   "EOS_Completed": 76,
   "EOS_NewPlayers": 543,
   "EOS_NewCompleters": 2,
@@ -22914,6 +22914,11 @@
       "Time": "2023-11-07T15:09:32.0519286+00:00",
       "NumProgressed": 27828,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-11-07T16:08:54.4350725+00:00",
+      "NumProgressed": 27830,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 22,
@@ -22949,7 +22954,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "1019",
@@ -22965,7 +22970,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "1021",
@@ -23061,7 +23066,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11131
+      "UsersEstimate": 11132
     },
     {
       "ID": "1033",
@@ -23100,15 +23105,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27828,
+      "Progressed": 27830,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-07T15:09:32.0519282+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:08:54.4350721+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0319052+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:03:23.7508037+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:09:32.0520617+00:00"
+  "LastUpdate_Ratings": "2023-11-07T16:03:00.7448485+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:08:54.4351941+00:00"
 }

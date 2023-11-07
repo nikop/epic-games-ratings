@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -21,10 +21,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 480,
-  "EOS_Completed": 27,
+  "EOS_Completed": 28,
   "EOS_NewPlayers": 146,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.62,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 5.83,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2045,6 +2045,11 @@
       "Time": "2023-11-07T14:04:11.2794761+00:00",
       "NumProgressed": 480,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-07T16:03:52.7368454+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2086,9 +2091,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "META_HALF_LINK",
@@ -2102,9 +2107,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 67
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2256,13 +2261,13 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 480,
-      "Completed": 27
+      "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-07T15:04:39.1947087+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:03:52.7368446+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-07T14:58:07.6937792+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:04:39.1947342+00:00"
+  "LastUpdate_Ratings": "2023-11-07T15:58:09.0965642+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:03:52.7368719+00:00"
 }

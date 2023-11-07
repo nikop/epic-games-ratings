@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -179,10 +179,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 85530,
-  "EOS_Completed": 275,
-  "EOS_NewPlayers": 1009,
-  "EOS_NewCompleters": 10,
+  "EOS_Progressed": 85535,
+  "EOS_Completed": 276,
+  "EOS_NewPlayers": 1008,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
@@ -10059,6 +10059,11 @@
       "Time": "2023-11-07T15:03:51.1939166+00:00",
       "NumProgressed": 85530,
       "NumCompleted": 275
+    },
+    {
+      "Time": "2023-11-07T16:03:18.847203+00:00",
+      "NumProgressed": 85535,
+      "NumCompleted": 276
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -10071,7 +10076,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 68424
+      "UsersEstimate": 68428
     },
     {
       "ID": "grp_beet",
@@ -10079,7 +10084,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 17106
+      "UsersEstimate": 17107
     },
     {
       "ID": "grp_collect_ruby",
@@ -10087,7 +10092,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 65858
+      "UsersEstimate": 65862
     },
     {
       "ID": "grp_endless",
@@ -10095,7 +10100,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 29935
+      "UsersEstimate": 29937
     },
     {
       "ID": "grp_finallevel",
@@ -10111,7 +10116,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 21382
+      "UsersEstimate": 21384
     },
     {
       "ID": "grp_level10",
@@ -10119,7 +10124,7 @@
       "Name": "Level 10!",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4276
+      "UsersEstimate": 4277
     },
     {
       "ID": "grp_level20",
@@ -10159,7 +10164,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 45331
+      "UsersEstimate": 45334
     },
     {
       "ID": "grp_money_tree",
@@ -10167,7 +10172,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 63292
+      "UsersEstimate": 63296
     },
     {
       "ID": "grp_speed",
@@ -10175,7 +10180,7 @@
       "Name": "As the dodo flies",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 40199
+      "UsersEstimate": 40201
     },
     {
       "ID": "grp_stone",
@@ -10183,7 +10188,7 @@
       "Name": "Killing one stone with two birds",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 9408
+      "UsersEstimate": 9409
     },
     {
       "ID": "grp_store_ftux",
@@ -10191,7 +10196,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 36778
+      "UsersEstimate": 36780
     },
     {
       "ID": "grp_weekly_beaten",
@@ -10206,16 +10211,16 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 85530,
-      "Completed": 275
+      "Progressed": 85535,
+      "Completed": 276
     }
   ],
   "FirstSeen": "2023-08-08T23:57:15.7691389+00:00",
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2023-11-02T09:01:36.1372806+00:00",
-  "LastChanged_Achievements": "2023-11-07T15:03:51.1939164+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:03:18.8472027+00:00",
   "LastUpdate_AppInfo": "2023-11-02T14:57:01.7564564+00:00",
-  "LastUpdate_Ratings": "2023-11-07T14:59:33.1815767+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:03:51.193972+00:00"
+  "LastUpdate_Ratings": "2023-11-07T15:59:07.9930865+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:03:18.8472933+00:00"
 }

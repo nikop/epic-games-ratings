@@ -4,8 +4,8 @@
   "ProductSlug": "the-backroom-project-b6b434",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-05-29T22:00:00+00:00",
     "PcReleaseDate": "2022-05-15T10:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 220,
+  "EOS_Progressed": 221,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.82,
+  "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
     {
       "Time": "2023-05-25T20:00:56.6664784+00:00",
@@ -1044,6 +1044,11 @@
       "Time": "2023-11-07T13:13:35.3640574+00:00",
       "NumProgressed": 220,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-07T16:09:04.8911468+00:00",
+      "NumProgressed": 221,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 18,
@@ -1063,7 +1068,7 @@
       "Name": "Sometimes Death is a Mercy",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_DULLER",
@@ -1071,7 +1076,7 @@
       "Name": "STAY AWAY",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_ENTERLEVELRUN",
@@ -1087,7 +1092,7 @@
       "Name": "YOU DESERVE THAT",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_FRIEND",
@@ -1095,7 +1100,7 @@
       "Name": "NO ONE CAN HEAR YOU SCREAM",
       "Percentage": 62,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_GET_IN",
@@ -1103,7 +1108,7 @@
       "Name": "Lab Rat",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_GET_OUT",
@@ -1125,9 +1130,9 @@
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_HOUND",
@@ -1135,7 +1140,7 @@
       "Name": "DONT TURN BACK",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_KEY",
@@ -1198,14 +1203,14 @@
     {
       "ID": "c2kf3nm",
       "IsBase": true,
-      "Progressed": 220,
+      "Progressed": 221,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2023-11-07T15:09:46.4525251+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:09:04.8911464+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:51.9800214+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:01:29.8379002+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:09:46.4525493+00:00"
+  "LastUpdate_Ratings": "2023-11-07T16:00:26.3164198+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:09:04.8911627+00:00"
 }

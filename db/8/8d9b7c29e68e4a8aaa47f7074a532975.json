@@ -4,8 +4,8 @@
   "ProductSlug": "berzerk-recharged-c35563",
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-11-09T08:00:00+00:00",
     "PcReleaseDate": "2023-11-09T08:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "cipgabj",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-11-07T16:05:21.6524586+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:05:21.6524562+00:00",
   "LastUpdate_AppInfo": "2023-10-31T17:57:11.0179064+00:00",
-  "LastUpdate_Ratings": "2023-11-07T15:00:57.6080414+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:06:40.8335171+00:00"
+  "LastUpdate_Ratings": "2023-11-07T16:00:04.3582944+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:05:21.6524607+00:00"
 }

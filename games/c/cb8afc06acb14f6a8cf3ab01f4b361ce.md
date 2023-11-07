@@ -18,6 +18,7 @@ Rating: 4.20 (Ranked 905)
 | This is the end | 0.10% | ~305 |
 | We can choose to fight | 0.10% | ~305 |
 | No damsels in distress | 0.10% | ~305 |
+| The immortal is bound to reborn | 0.10% | ~305 |
 | It's only pain | 0.10% | ~305 |
 | I know how to handle it | 0.10% | ~305 |
 | The touch of Chaos | 0.10% | ~305 |
@@ -34,7 +35,6 @@ Rating: 4.20 (Ranked 905)
 | Chaos be damned! | 0.10% | ~305 |
 | I took a risk | 0.10% | ~305 |
 | Let's raise the stakes!! | 0.10% | ~305 |
-| The immortal is bound to reborn | 0.00% | ~0 |
 | A legend among Chimeras | 0.00% | ~0 |
 | Through the Veil | 0.00% | ~0 |
 | Call this the Judge's mercy | 0.00% | ~0 |
@@ -46,8 +46,8 @@ Rating: 4.20 (Ranked 905)
 | Something... unnatural | 0.00% | ~0 |
 | We strike as one | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,776 (Ranked 49)  
-Completed: 1 (0.00%) (Ranked 345)  
+Progressed: 304,825 (Ranked 49)  
+Completed: 2 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -91,7 +91,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 302,129 | 1 |
 | 2023-11-05 | 303,382 | 1 |
 | 2023-11-06 | 304,252 | 1 |
-| 2023-11-07 | 304,776 | 1 |
+| 2023-11-07 | 304,825 | 2 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 424)  
 Sum: 51 (Ranked 477)  

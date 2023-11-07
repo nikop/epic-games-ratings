@@ -12,6 +12,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.40% | ~3,583 |
 | True Soldier | 0.40% | ~3,583 |
 | All the President's Men | 0.40% | ~97 |
+| Arachnophobia | 0.40% | ~97 |
 | Right Back At Ya | 0.30% | ~2,687 |
 | The Quick and the Dead | 0.30% | ~2,687 |
 | Life of the Road | 0.30% | ~2,687 |
@@ -21,7 +22,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.30% | ~2,687 |
 | True Warrior | 0.30% | ~2,687 |
 | Spin Doctor | 0.30% | ~73 |
-| Arachnophobia | 0.30% | ~73 |
 | Bushido and Chill | 0.20% | ~1,791 |
 | To Protect and Serve | 0.20% | ~1,791 |
 | The Wandering Fool | 0.20% | ~1,791 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,659 (Ranked 15)  
+Progressed: 895,667 (Ranked 15)  
 Completed: 2,753 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 2,753 (0.31%) (Ranked 222)
 | 2023-11-04 | 895,267 | 2,744 |
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
-| 2023-11-07 | 895,659 | 2,753 |
+| 2023-11-07 | 895,667 | 2,753 |
 ## Awards
 Max (Character Customization): 104,229  (Ranked 9)  
 Sum: 345,365 (Ranked 10)  

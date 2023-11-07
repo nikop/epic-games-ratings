@@ -6225,9 +6225,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714459,
+  "EOS_Progressed": 714484,
   "EOS_Completed": 2352,
-  "EOS_NewPlayers": 5220,
+  "EOS_NewPlayers": 5204,
   "EOS_NewCompleters": 61,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29160,6 +29160,11 @@
       "Time": "2023-11-07T15:06:59.0632873+00:00",
       "NumProgressed": 714459,
       "NumCompleted": 2352
+    },
+    {
+      "Time": "2023-11-07T16:05:34.4871625+00:00",
+      "NumProgressed": 714484,
+      "NumCompleted": 2352
     }
   ],
   "TotalAchievements": 51,
@@ -29265,9 +29270,9 @@
       "ID": "ach_doom_buddies",
       "SetID": "7km39fm",
       "Name": "Slayer Squad",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 2143
     },
     {
       "ID": "ach_explorer",
@@ -29578,13 +29583,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714459,
+      "Progressed": 714484,
       "Completed": 2352
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40001,
+      "Progressed": 40026,
       "Completed": 36478
     }
   ],
@@ -29592,8 +29597,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-07T13:58:15.7286795+00:00",
-  "LastChanged_Achievements": "2023-11-07T15:06:59.0632869+00:00",
+  "LastChanged_Achievements": "2023-11-07T16:05:34.4871621+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T14:58:21.3666295+00:00",
-  "LastUpdate_Achievements": "2023-11-07T15:06:59.0634004+00:00"
+  "LastUpdate_Ratings": "2023-11-07T15:58:17.8011813+00:00",
+  "LastUpdate_Achievements": "2023-11-07T16:05:34.487277+00:00"
 }
