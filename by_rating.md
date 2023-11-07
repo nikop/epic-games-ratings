@@ -286,7 +286,7 @@
 | 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 570 | 197 |
 | 272 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.67 | 0 | 547 |
 | 272 | [Suzerain](games/s/suzerain.md) | 4.67 | 0 | 547 |
-| 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 707 | 181 |
+| 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 708 | 181 |
 | 272 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 547 |
 | 272 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 547 |
 | 272 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 547 |
@@ -486,7 +486,7 @@
 | 483 | [AXIOM VERGE](games/a/axiom_verge.md) | 4.56 | 48 | 433 |
 | 483 | [Aztez](games/a/aztez.md) | 4.56 | 0 | 547 |
 | 483 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 4.56 | 52 | 420 |
-| 483 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 907 | 157 |
+| 483 | [F.I.S.T.: Forged In Shadow Torch](games/f/f.i.s.t.__forged_in_shadow_torch.md) | 4.56 | 909 | 157 |
 | 483 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 4.56 | 27 | 505 |
 | 483 | [Ghost Recon Future Soldier: Ultimate Edition](games/g/ghost_recon_future_soldier__ultimate_edition.md) | 4.56 | 0 | 547 |
 | 483 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 4.56 | 376 | 230 |
@@ -535,7 +535,7 @@
 | 521 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 80 | 387 |
 | 534 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.53 | 0 | 547 |
 | 534 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 0 | 547 |
-| 534 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,517 | 18 |
+| 534 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,544 | 18 |
 | 534 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 22 | 529 |
 | 534 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 469 |
 | 534 | [Everything](games/e/everything.md) | 4.53 | 0 | 547 |
@@ -635,7 +635,7 @@
 | 633 | [ATOM RPG](games/a/atom_rpg.md) | 4.47 | 52 | 420 |
 | 633 | [Brothers - A Tale of Two Sons](games/b/brothers_-_a_tale_of_two_sons.md) | 4.47 | 0 | 547 |
 | 633 | [ELEX](games/e/elex.md) | 4.47 | 24 | 519 |
-| 633 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,566 | 90 |
+| 633 | [Gloomhaven](games/g/gloomhaven.md) | 4.47 | 3,569 | 90 |
 | 633 | [Halcyon 6 Starbase Commander](games/h/halcyon_6_starbase_commander.md) | 4.47 | 0 | 547 |
 | 633 | [Layers of Fear: Masterpiece Edition](games/l/layers_of_fear__masterpiece_edition.md) | 4.47 | 0 | 547 |
 | 633 | [Mortal Kombat 1](games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 4.47 | 1,436 | 133 |
@@ -922,7 +922,7 @@
 | 920 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 547 |
 | 920 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,907 | 98 |
 | 920 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.18 | 27 | 505 |
-| 920 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 210,404 | 5 |
+| 920 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 210,519 | 5 |
 | 920 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 363 |
 | 920 | [Tandem: A Tale of Shadows](games/t/tandem__a_tale_of_shadows.md) | 4.18 | 0 | 547 |
 | 920 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.18 | 0 | 547 |
