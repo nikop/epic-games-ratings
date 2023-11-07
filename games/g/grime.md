@@ -20,12 +20,12 @@ Number of Ratings: 46  (23.09.2022)
 | Silenced Whispers | 1.00% | ~1,571 |
 | Yank | 1.00% | ~1,571 |
 | Sharpened Vessel | 1.00% | ~1,571 |
-| Watcher | 0.90% | ~1,413 |
+| Watcher | 0.90% | ~1,414 |
 | Shapely | 0.80% | ~1,256 |
 | Glare | 0.80% | ~1,253 |
 | Predator | 0.80% | ~1,256 |
 | Assimilation | 0.70% | ~1,099 |
-| Host | 0.70% | ~1,096 |
+| Host | 0.70% | ~1,097 |
 | Celebration | 0.70% | ~1,099 |
 | Hunt Down | 0.60% | ~942 |
 | All-Seeing | 0.60% | ~942 |
@@ -43,17 +43,17 @@ Number of Ratings: 46  (23.09.2022)
 | Listen | 0.30% | ~470 |
 | Proportions | 0.30% | ~471 |
 | Weakness | 0.20% | ~314 |
+| Generous | 0.20% | ~314 |
 | Kin | 0.20% | ~313 |
 | Intensify | 0.20% | ~313 |
 | Spiral Heart | 0.10% | ~157 |
 | Skinmaker | 0.10% | ~157 |
 | Instruments | 0.10% | ~157 |
-| Generous | 0.10% | ~157 |
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 | Enrich | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,055 (Ranked 76)  
+Progressed: 157,060 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 156,591 | 1 |
 | 2023-11-05 | 156,812 | 1 |
 | 2023-11-06 | 156,967 | 1 |
-| 2023-11-07 | 157,055 | 1 |
+| 2023-11-07 | 157,060 | 1 |
 ## Awards
 Max (Highly Recommended): 50  (Ranked 426)  
 Sum: 350 (Ranked 348)  

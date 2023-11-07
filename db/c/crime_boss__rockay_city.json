@@ -4473,9 +4473,9 @@
       "Count": 484
     }
   ],
-  "EOS_Progressed": 89610,
+  "EOS_Progressed": 89613,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 149,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24273,6 +24273,11 @@
       "Time": "2023-11-07T14:03:13.3236083+00:00",
       "NumProgressed": 89610,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-07T15:03:33.5413627+00:00",
+      "NumProgressed": 89613,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24300,7 +24305,7 @@
       "Name": "Roid Ranger",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_0013",
@@ -24508,7 +24513,7 @@
       "Name": "King of the Hill",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_0430",
@@ -24548,7 +24553,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_0452",
@@ -24556,7 +24561,7 @@
       "Name": "Dragonslayer",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_0460",
@@ -24572,7 +24577,7 @@
       "Name": "Rockay Rex",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ACH_1010",
@@ -24611,13 +24616,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89610,
+      "Progressed": 89613,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17957,
+      "Progressed": 17960,
       "Completed": 15560
     }
   ],
@@ -24625,8 +24630,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-07T13:03:52.5155761+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:03:13.3236076+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:03:33.5413624+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:59:42.8967499+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:03:13.3237719+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:59:59.6653642+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:03:33.5414935+00:00"
 }

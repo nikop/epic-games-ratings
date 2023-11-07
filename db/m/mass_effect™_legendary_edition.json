@@ -3321,9 +3321,9 @@
       "ID": "achievement_35",
       "SetID": "d252ncf",
       "Name": "Mission Accomplished",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 125,
-      "UsersEstimate": 286
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_36",
@@ -3345,9 +3345,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 368
     },
     {
       "ID": "achievement_39",
@@ -3377,9 +3377,9 @@
       "ID": "achievement_41",
       "SetID": "b9pe172",
       "Name": "Against All Odds",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_42",
@@ -3825,9 +3825,9 @@
       "ID": "achievement_92",
       "SetID": "d252ncf",
       "Name": "Fact Finder",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_93",
@@ -3901,8 +3901,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:05:45.7560132+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:06:23.116485+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-07T14:02:50.0494158+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:05:45.7562503+00:00"
+  "LastUpdate_Ratings": "2023-11-07T15:03:04.9805727+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:06:23.1166443+00:00"
 }

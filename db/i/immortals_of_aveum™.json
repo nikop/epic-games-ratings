@@ -117,7 +117,7 @@
   "Tags": [],
   "EOS_Progressed": 175,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -924,9 +924,9 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_13",
@@ -1044,9 +1044,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "achievement_36",
@@ -1285,8 +1285,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-05T03:01:16.136809+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:05:47.2436633+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:06:24.6564061+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:57:28.5660153+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:05:47.2437231+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:57:26.5014175+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:06:24.6564397+00:00"
 }

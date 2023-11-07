@@ -64,6 +64,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 2.00% | ~304 |
 | Roman Paganism | 2.00% | ~304 |
 | Zoroastrianism | 2.00% | ~304 |
+| Mythology | 2.00% | ~304 |
 | Win a Single Player Game | 2.00% | ~304 |
 | Kushite Pyramids | 2.00% | ~304 |
 | Kushite Paganism | 2.00% | ~304 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 1.00% | ~152 |
 | Military Prestige | 1.00% | ~152 |
 | Legalism | 1.00% | ~152 |
-| Mythology | 1.00% | ~152 |
 | Redemption | 1.00% | ~152 |
 | Cimmerian Archer | 1.00% | ~152 |
 | Legionary | 1.00% | ~152 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,197 (Ranked 145)  
+Progressed: 15,199 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -550,11 +550,11 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-04 | 15,141 | 5 |
 | 2023-11-05 | 15,167 | 5 |
 | 2023-11-06 | 15,191 | 5 |
-| 2023-11-07 | 15,197 | 5 |
+| 2023-11-07 | 15,199 | 5 |
 ## Awards
-Max (Relaxing): 226  (Ranked 270)  
+Max (Relaxing): 226  (Ranked 271)  
 Sum: 1,868 (Ranked 212)  
-Diff (max vs sum): 58  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 226 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251062,
+  "EOS_Progressed": 251063,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18412,6 +18412,11 @@
       "Time": "2023-11-07T09:08:31.3568411+00:00",
       "NumProgressed": 251062,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-07T15:09:22.1760484+00:00",
+      "NumProgressed": 251063,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -18527,7 +18532,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50212
+      "UsersEstimate": 50213
     },
     {
       "ID": "didYourTime",
@@ -18583,7 +18588,7 @@
       "Name": "Here We Go!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "imHereAllNight",
@@ -18663,7 +18668,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125531
+      "UsersEstimate": 125532
     },
     {
       "ID": "notScared",
@@ -18790,7 +18795,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251062,
+      "Progressed": 251063,
       "Completed": 6
     }
   ],
@@ -18798,8 +18803,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:09:06.2668613+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:09:22.1760481+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:10.071238+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:58:58.2548367+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:09:06.2670455+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:59:08.506541+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:09:22.1761488+00:00"
 }

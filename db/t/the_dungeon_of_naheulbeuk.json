@@ -3,7 +3,7 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 445,
-  "Ranking_Popularity": 270,
+  "Ranking_Popularity": 271,
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 345,
@@ -1213,10 +1213,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 451,
       "NumberOfAwardsMax": 226
+    },
+    {
+      "Time": "2023-11-07T14:59:43.0477202+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 452,
+      "NumberOfAwardsMax": 226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 451,
+  "NumberOfAwards": 452,
   "NumberOfAwardsMax": 226,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1260,7 +1266,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27
+      "Count": 28
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1275,9 +1281,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 235752,
+  "EOS_Progressed": 235763,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1540,
+  "EOS_NewPlayers": 1547,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17640,6 +17646,11 @@
       "Time": "2023-11-07T14:06:11.3697646+00:00",
       "NumProgressed": 235752,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-07T15:06:51.9264454+00:00",
+      "NumProgressed": 235763,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -17699,7 +17710,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14145
+      "UsersEstimate": 14146
     },
     {
       "ID": "Chapter2",
@@ -17707,7 +17718,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9430
+      "UsersEstimate": 9431
     },
     {
       "ID": "Chapter3",
@@ -18099,7 +18110,7 @@
       "Name": "Sowwy!",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 80156
+      "UsersEstimate": 80159
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18115,7 +18126,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9430
+      "UsersEstimate": 9431
     },
     {
       "ID": "EndCombatOneHp",
@@ -18147,7 +18158,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18860
+      "UsersEstimate": 18861
     },
     {
       "ID": "FollowBraztok",
@@ -18299,7 +18310,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9430
+      "UsersEstimate": 9431
     },
     {
       "ID": "SupportCount4",
@@ -18354,21 +18365,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 235752,
+      "Progressed": 235763,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 235752,
+      "Progressed": 235763,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-11-04T01:39:13.702978+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:06:11.3697638+00:00",
+  "LastChanged": "2023-11-07T14:59:43.04772+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:06:51.926445+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:59:27.5128842+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:06:11.3700236+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:59:43.0477206+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:06:51.926598+00:00"
 }

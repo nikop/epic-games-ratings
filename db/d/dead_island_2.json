@@ -6225,9 +6225,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714432,
+  "EOS_Progressed": 714459,
   "EOS_Completed": 2352,
-  "EOS_NewPlayers": 5236,
+  "EOS_NewPlayers": 5220,
   "EOS_NewCompleters": 61,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29155,6 +29155,11 @@
       "Time": "2023-11-07T14:06:17.8296535+00:00",
       "NumProgressed": 714432,
       "NumCompleted": 2352
+    },
+    {
+      "Time": "2023-11-07T15:06:59.0632873+00:00",
+      "NumProgressed": 714459,
+      "NumCompleted": 2352
     }
   ],
   "TotalAchievements": 51,
@@ -29444,9 +29449,9 @@
       "ID": "ach_star_performance",
       "SetID": "7km39fm",
       "Name": "Personal Assistant Personally Assisted",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2858
     },
     {
       "ID": "ach_survival_expert",
@@ -29476,9 +29481,9 @@
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 1429
+      "UsersEstimate": 2143
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -29573,22 +29578,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714432,
+      "Progressed": 714459,
       "Completed": 2352
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39974,
-      "Completed": 36477
+      "Progressed": 40001,
+      "Completed": 36478
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-07T13:58:15.7286795+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:06:17.8296526+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:06:59.0632869+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:58:15.7286802+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:06:17.8298696+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:58:21.3666295+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:06:59.0634004+00:00"
 }

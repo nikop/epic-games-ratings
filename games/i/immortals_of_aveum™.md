@@ -8,7 +8,7 @@ Rating: 4.00 (Ranked 984)
 | Unforeseen | 89.00% | ~156 |
 | Battlefields Have Memories | 84.00% | ~147 |
 | Enlisted | 81.00% | ~142 |
-| Maybe Engage a Little | 76.00% | ~133 |
+| Maybe Engage a Little | 77.00% | ~135 |
 | No More Names | 62.00% | ~108 |
 | Initiate | 52.00% | ~91 |
 | Thrada-Kul | 48.00% | ~84 |
@@ -19,7 +19,7 @@ Rating: 4.00 (Ranked 984)
 | Control is an Illusion | 27.00% | ~47 |
 | Socialite | 25.00% | ~44 |
 | The Means to Save It | 23.00% | ~40 |
-| Resilience to Sin | 20.00% | ~35 |
+| Resilience to Sin | 21.00% | ~37 |
 | A Familiar Nest | 19.00% | ~33 |
 | Periapt Alizarin | 19.00% | ~33 |
 | Geas Aristeya | 18.00% | ~32 |

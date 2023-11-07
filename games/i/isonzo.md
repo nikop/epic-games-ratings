@@ -6,29 +6,29 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 55.00% | ~3,915 |
-| Peak Performance | 54.00% | ~3,844 |
-| You Shall Not Pass | 54.00% | ~3,844 |
-| Avanti Savoia! | 48.00% | ~3,417 |
-| Mamma Mia! | 38.00% | ~2,705 |
-| Conrad von Hotzensocks | 36.00% | ~2,562 |
-| Gabriele D'Annunzio | 34.00% | ~2,420 |
+| Tutti Eroi! | 55.00% | ~3,916 |
+| Peak Performance | 54.00% | ~3,845 |
+| You Shall Not Pass | 54.00% | ~3,845 |
+| Avanti Savoia! | 48.00% | ~3,418 |
+| Mamma Mia! | 38.00% | ~2,706 |
+| Conrad von Hotzensocks | 36.00% | ~2,563 |
+| Gabriele D'Annunzio | 34.00% | ~2,421 |
 | Silver Lining | 31.00% | ~2,207 |
-| Aurelio Baruzzi | 24.00% | ~1,708 |
-| Decimation | 23.00% | ~1,637 |
+| Aurelio Baruzzi | 24.00% | ~1,709 |
+| Decimation | 23.00% | ~1,638 |
 | Donatello | 22.00% | ~1,566 |
 | The Italian Job | 22.00% | ~1,566 |
 | Veni Vidi Vici | 22.00% | ~1,566 |
 | Insubordination | 20.00% | ~1,424 |
-| Ragazzi del '99 | 19.00% | ~1,352 |
-| The Lion of the Isonzo | 18.00% | ~1,281 |
+| Ragazzi del '99 | 19.00% | ~1,353 |
+| The Lion of the Isonzo | 18.00% | ~1,282 |
 | Luigi Cadorna | 16.00% | ~1,139 |
 | Dirty Dozen | 14.00% | ~997 |
 | Shaken, Not Stirred | 14.00% | ~997 |
 | Uomo Universale | 14.00% | ~997 |
-| Die Bosniaken Kommen! | 13.00% | ~925 |
-| Machiavelli | 13.00% | ~925 |
-| Thus With A Kiss | 13.00% | ~925 |
+| Die Bosniaken Kommen! | 13.00% | ~926 |
+| Machiavelli | 13.00% | ~926 |
+| Thus With A Kiss | 13.00% | ~926 |
 | The Devil's Paintbrush | 12.00% | ~854 |
 | Dante's Inferno | 11.00% | ~783 |
 | I Have the High Ground | 11.00% | ~783 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~28 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,118 (Ranked 172)  
+Progressed: 7,120 (Ranked 172)  
 Completed: 9 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 9 (0.13%) (Ranked 257)
 | 2023-11-04 | 7,112 | 9 |
 | 2023-11-05 | 7,114 | 9 |
 | 2023-11-06 | 7,116 | 9 |
-| 2023-11-07 | 7,118 | 9 |
+| 2023-11-07 | 7,120 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 464)  
 Sum: 272 (Ranked 370)  

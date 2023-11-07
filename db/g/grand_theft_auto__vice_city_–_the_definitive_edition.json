@@ -4,10 +4,10 @@
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 533,
   "Ranking_Popularity": 357,
-  "Ranking_PopularitySum": 441,
+  "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -823,9 +823,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 10924,
+  "EOS_Progressed": 10926,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12538,6 +12538,11 @@
       "Time": "2023-11-07T14:04:14.3749378+00:00",
       "NumProgressed": 10924,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-07T15:04:42.5486945+00:00",
+      "NumProgressed": 10926,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12565,7 +12570,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "ACH04",
@@ -12581,7 +12586,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH06",
@@ -12637,7 +12642,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "ACH13",
@@ -12653,7 +12658,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4589
     },
     {
       "ID": "ACH15",
@@ -12709,7 +12714,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5025
+      "UsersEstimate": 5026
     },
     {
       "ID": "ACH22",
@@ -12725,7 +12730,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2840
+      "UsersEstimate": 2841
     },
     {
       "ID": "ACH24",
@@ -12773,7 +12778,7 @@
       "Name": "Take the Cannoli",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH30",
@@ -12789,7 +12794,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH32",
@@ -12820,7 +12825,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10924,
+      "Progressed": 10926,
       "Completed": 64
     }
   ],
@@ -12828,8 +12833,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-06T21:02:56.1879294+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:04:14.374937+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:04:42.5486941+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:57:11.2221816+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:04:14.375035+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:57:06.8175992+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:04:42.5487671+00:00"
 }

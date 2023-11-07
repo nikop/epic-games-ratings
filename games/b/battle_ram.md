@@ -27,7 +27,7 @@
 | EMERAID RAM | 4.00% | ~12 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298 (Ranked 332)  
+Progressed: 298 (Ranked 333)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 88,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91926,
+  "EOS_Progressed": 91929,
   "EOS_Completed": 415,
-  "EOS_NewPlayers": 945,
+  "EOS_NewPlayers": 935,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -22843,6 +22843,11 @@
       "Time": "2023-11-07T14:04:52.1645604+00:00",
       "NumProgressed": 91926,
       "NumCompleted": 415
+    },
+    {
+      "Time": "2023-11-07T15:05:24.0653683+00:00",
+      "NumProgressed": 91929,
+      "NumCompleted": 415
     }
   ],
   "TotalAchievements": 10,
@@ -22878,7 +22883,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "Drawings04",
@@ -22918,7 +22923,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32174
+      "UsersEstimate": 32175
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -22933,15 +22938,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 91926,
+      "Progressed": 91929,
       "Completed": 415
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:04:52.1645597+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:05:24.065368+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:32.5230717+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:59:35.8191214+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:04:52.1647025+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:59:52.3205297+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:05:24.0654848+00:00"
 }

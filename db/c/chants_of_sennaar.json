@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -2070,9 +2070,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2118,9 +2118,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 67
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2142,9 +2142,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2166,9 +2166,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 91
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2261,8 +2261,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:04:11.2794754+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:04:39.1947087+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:58:03.883324+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:04:11.2795112+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:58:07.6937792+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:04:39.1947342+00:00"
 }

@@ -49,6 +49,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 0.10% | ~449 |
 | That's a Grand Army | 0.10% | ~449 |
 | Grand Coalition | 0.10% | ~449 |
+| Grand Duchy | 0.10% | ~449 |
 | That's a Grand Navy | 0.10% | ~449 |
 | Holy Horder | 0.10% | ~449 |
 | Imperio español | 0.10% | ~449 |
@@ -201,7 +202,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
-| Grand Duchy | 0.00% | ~0 |
 | I'll graze my horse here.. And here… | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,150 (Ranked 41)  
+Progressed: 449,194 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,17 +571,17 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 449,150 | 1 |
+| 2023-11-07 | 449,194 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
-Sum: 56,507 (Ranked 24)  
+Sum: 56,529 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,879 |
 | This game has Diverse Characters | 6,592 |
 | This game is Highly Recommended | 6,584 |
-| This game has Challenging Combat | 6,480 |
+| This game has Challenging Combat | 6,502 |
 | This game is Extremely Fun | 6,466 |
 | This game is Relaxing | 6,310 |
 | This game has Competitive Players | 6,166 |
@@ -885,4 +885,4 @@ Diff (max vs sum): 30
 | 2023-11-04 | 4.69 | - | 6,830 | 56,089 |
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
 | 2023-11-06 | 4.69 | - | 6,879 | 56,411 |
-| 2023-11-07 | 4.69 | - | 6,879 | 56,507 |
+| 2023-11-07 | 4.69 | - | 6,879 | 56,529 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -417,9 +417,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5278,
+  "EOS_Progressed": 5280,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6677,6 +6677,11 @@
       "Time": "2023-11-07T13:10:39.1227766+00:00",
       "NumProgressed": 5278,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-07T15:07:33.0610782+00:00",
+      "NumProgressed": 5280,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 50,
@@ -6832,7 +6837,7 @@
       "Name": "Bone Peddler",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "27",
@@ -6848,7 +6853,7 @@
       "Name": "From Friends to Family",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "29",
@@ -6856,7 +6861,7 @@
       "Name": "Stronger Together",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "3",
@@ -6880,7 +6885,7 @@
       "Name": "Magical Synergy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "32",
@@ -6896,7 +6901,7 @@
       "Name": "Seat of Power",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "34",
@@ -6960,7 +6965,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "41",
@@ -7048,7 +7053,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "47",
@@ -7087,13 +7092,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5278,
+      "Progressed": 5280,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5278,
+      "Progressed": 5280,
       "Completed": 7
     }
   ],
@@ -7101,8 +7106,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-07T13:03:36.0070967+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:06:48.363898+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:07:33.0610778+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-07T13:59:24.2774415+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:06:48.3640078+00:00"
+  "LastUpdate_Ratings": "2023-11-07T14:59:38.4152443+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:07:33.0611444+00:00"
 }

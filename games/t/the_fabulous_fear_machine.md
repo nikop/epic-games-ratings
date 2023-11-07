@@ -7,15 +7,17 @@
 | You have two wishes left | 6.00% | ~2 |
 | Master trainee | 3.00% | ~1 |
 | You had one wish left | 3.00% | ~1 |
+| Bread and bocaua | 3.00% | ~1 |
+| Fanatacism is... poisonous | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
 | The adventurer | 3.00% | ~1 |
+| Thirst for Oleum | 3.00% | ~1 |
+| ECO mode | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
 | Blood Red Island | 0.00% | ~0 |
-| Bread and bocaua | 0.00% | ~0 |
-| Fanatacism is... poisonous | 0.00% | ~0 |
 | Jung's dream | 0.00% | ~0 |
 | Giant | 0.00% | ~0 |
 | A rival with no options | 0.00% | ~0 |
@@ -40,9 +42,7 @@
 | Pulp! The Beyond | 0.00% | ~0 |
 | A continent with chemistry | 0.00% | ~0 |
 | Kirlian's best disciple | 0.00% | ~0 |
-| Thirst for Oleum | 0.00% | ~0 |
 | The barbarian invasions | 0.00% | ~0 |
-| ECO mode | 0.00% | ~0 |
 | America had no Faith | 0.00% | ~0 |
 | Vaccine fans | 0.00% | ~0 |
 | Troy is burning! | 0.00% | ~0 |
@@ -52,7 +52,7 @@
 | Ambition is... blind | 0.00% | ~0 |
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34 (Ranked 495)  
+Progressed: 34 (Ranked 496)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

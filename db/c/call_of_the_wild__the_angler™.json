@@ -9647,9 +9647,9 @@
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -9687,9 +9687,9 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -9966,8 +9966,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:09:14.4314723+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:09:31.6163579+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-07T14:00:08.8332388+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:09:14.4315586+00:00"
+  "LastUpdate_Ratings": "2023-11-07T15:00:27.6514451+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:09:31.6164421+00:00"
 }

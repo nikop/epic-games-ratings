@@ -14,9 +14,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | All the President's Men | 0.40% | ~97 |
 | Right Back At Ya | 0.30% | ~2,687 |
 | The Quick and the Dead | 0.30% | ~2,687 |
+| Life of the Road | 0.30% | ~2,687 |
 | Stanislavski's Method | 0.30% | ~2,687 |
 | The Hermit | 0.30% | ~2,687 |
 | The Lovers | 0.30% | ~2,687 |
+| The Wheel of Fortune | 0.30% | ~2,687 |
 | True Warrior | 0.30% | ~2,687 |
 | Spin Doctor | 0.30% | ~73 |
 | Arachnophobia | 0.30% | ~73 |
@@ -26,10 +28,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.20% | ~1,791 |
 | I Am The Law | 0.20% | ~1,791 |
 | Christmas Tree Attack | 0.20% | ~1,791 |
-| Life of the Road | 0.20% | ~1,791 |
 | The Fool | 0.20% | ~1,791 |
 | The High Priestess | 0.20% | ~1,791 |
-| The Wheel of Fortune | 0.20% | ~1,791 |
 | The World | 0.20% | ~1,791 |
 | Judy vs Night City | 0.20% | ~1,791 |
 | Legend of The Afterlife | 0.20% | ~1,791 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,652 (Ranked 15)  
-Completed: 2,752 (0.31%) (Ranked 222)  
+Progressed: 895,659 (Ranked 15)  
+Completed: 2,753 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -275,7 +275,7 @@ Completed: 2,752 (0.31%) (Ranked 222)
 | 2023-11-04 | 895,267 | 2,744 |
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
-| 2023-11-07 | 895,652 | 2,752 |
+| 2023-11-07 | 895,659 | 2,753 |
 ## Awards
 Max (Character Customization): 104,229  (Ranked 9)  
 Sum: 345,365 (Ranked 10)  

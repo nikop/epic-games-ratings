@@ -5,20 +5,20 @@ Rating: 4.53 (Ranked 533)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 46.00% | ~5,025 |
-| Greasy Palms | 42.00% | ~4,588 |
-| South American Connection | 26.00% | ~2,840 |
+| Legal Counsel | 46.00% | ~5,026 |
+| Greasy Palms | 42.00% | ~4,589 |
+| South American Connection | 26.00% | ~2,841 |
 | Life of the Party | 20.00% | ~2,185 |
 | Tommy Two-Wheels | 16.00% | ~1,748 |
 | Big Heat from Little Havana | 15.00% | ~1,639 |
 | Chauffeur | 15.00% | ~1,639 |
 | Salutations My Little Friend | 11.00% | ~1,202 |
-| Iron-y | 10.00% | ~1,092 |
+| Iron-y | 10.00% | ~1,093 |
 | Gun for Hire | 9.00% | ~983 |
 | Mischief Managed | 9.00% | ~983 |
 | Vice City Mogul | 7.00% | ~765 |
 | Bloodstained Hands | 7.00% | ~765 |
-| Catch Me if You Can | 6.00% | ~655 |
+| Catch Me if You Can | 6.00% | ~656 |
 | Not my First Time | 5.00% | ~546 |
 | Grand Theft Auto | 5.00% | ~546 |
 | High Quality H2O | 4.00% | ~437 |
@@ -30,9 +30,9 @@ Rating: 4.53 (Ranked 533)
 | Just Like the Real Thing | 3.00% | ~328 |
 | Don't Need Roads | 3.00% | ~328 |
 | City Sleuth | 3.00% | ~328 |
-| One is Better Than Two | 2.00% | ~218 |
-| Take the Cannoli | 2.00% | ~218 |
-| Chopper’d Up | 2.00% | ~218 |
+| One is Better Than Two | 2.00% | ~219 |
+| Take the Cannoli | 2.00% | ~219 |
+| Chopper’d Up | 2.00% | ~219 |
 | Born in the 80’s | 1.00% | ~109 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~109 |
 | I'm Famous! | 1.00% | ~109 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 533)
 | Done it All | 1.00% | ~109 |
 | Kingpin | 0.60% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,924 (Ranked 154)  
+Progressed: 10,926 (Ranked 154)  
 Completed: 64 (0.59%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,11 +241,11 @@ Completed: 64 (0.59%) (Ranked 182)
 | 2023-11-04 | 10,835 | 64 |
 | 2023-11-05 | 10,882 | 64 |
 | 2023-11-06 | 10,908 | 64 |
-| 2023-11-07 | 10,924 | 64 |
+| 2023-11-07 | 10,926 | 64 |
 ## Awards
 Max (Great Boss Battles): 101  (Ranked 357)  
-Sum: 101 (Ranked 441)  
-Diff (max vs sum): -84  
+Sum: 101 (Ranked 440)  
+Diff (max vs sum): -83  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 101 |

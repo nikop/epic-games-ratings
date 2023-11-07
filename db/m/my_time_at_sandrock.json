@@ -1416,9 +1416,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1981,6 +1981,11 @@
       "Time": "2023-11-07T14:04:29.791148+00:00",
       "NumProgressed": 235,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T15:04:59.4372224+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-02T08:07:08.352719+00:00",
@@ -1999,9 +2004,9 @@
       "ID": "C_KNOWLEDGE_ALL",
       "SetID": "80dcan0",
       "Name": "Jack of All Trades",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "C_STAMINA",
@@ -2015,9 +2020,9 @@
       "ID": "C_STAYUP",
       "SetID": "80dcan0",
       "Name": "Panda-kin",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "C_YEAR",
@@ -2049,7 +2054,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "F_RUIN_S_ALL",
@@ -2065,7 +2070,7 @@
       "Name": "Adept Assembler",
       "Percentage": 239,
       "XP": 10,
-      "UsersEstimate": 562
+      "UsersEstimate": 564
     },
     {
       "ID": "M_BACKPACK",
@@ -2087,9 +2092,9 @@
       "ID": "M_DISH",
       "SetID": "80dcan0",
       "Name": "Iron Chef",
-      "Percentage": 199,
+      "Percentage": 198,
       "XP": 10,
-      "UsersEstimate": 468
+      "UsersEstimate": 467
     },
     {
       "ID": "M_EXPAND",
@@ -2129,7 +2134,7 @@
       "Name": "Can We Keep It?",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "P_BEAUTIFYSANDROCK",
@@ -2159,9 +2164,9 @@
       "ID": "P_ENVIRONMENT",
       "SetID": "80dcan0",
       "Name": "Martle\u0027s Dream",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "P_FOREST",
@@ -2175,9 +2180,9 @@
       "ID": "P_HYDROGEL",
       "SetID": "80dcan0",
       "Name": "What Plants Crave",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 71
     },
     {
       "ID": "P_JEWEL",
@@ -2217,15 +2222,15 @@
       "Name": "Greeno-B-Gone",
       "Percentage": 119,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "P_SAVESANDROCK",
       "SetID": "80dcan0",
       "Name": "Your Especially Earned Trajectory",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 20,
-      "UsersEstimate": 221
+      "UsersEstimate": 224
     },
     {
       "ID": "P_SCHOOL",
@@ -2249,7 +2254,7 @@
       "Name": "No Mountain Wide Enough",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -2279,9 +2284,9 @@
       "ID": "S_CARD",
       "SetID": "80dcan0",
       "Name": "Cardistry",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "S_CHAT",
@@ -2353,7 +2358,7 @@
       "Name": "First Love",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "S_MARRY",
@@ -2361,7 +2366,7 @@
       "Name": "I Do!",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "S_PARTY",
@@ -2401,15 +2406,15 @@
       "Name": "You Don\u0027t Win Friends With Salad",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "S_YAKMEL",
       "SetID": "80dcan0",
       "Name": "Yakmel Whisperer",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "X_CHEST",
@@ -2447,9 +2452,9 @@
       "ID": "X_GET_FECE",
       "SetID": "80dcan0",
       "Name": "Waste Not Want Not",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "X_KICK",
@@ -2465,22 +2470,22 @@
       "Name": "It Belongs in a Museum!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     }
   ],
   "AchievementSets": [
     {
       "ID": "80dcan0",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-07T05:02:40.5628295+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:04:29.7911473+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:04:59.4372219+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:04.0136254+00:00",
-  "LastUpdate_Ratings": "2023-11-07T14:02:44.3714974+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:04:29.7912603+00:00"
+  "LastUpdate_Ratings": "2023-11-07T15:02:59.1766054+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:04:59.4372693+00:00"
 }

@@ -3,7 +3,7 @@
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 198,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 210,
+  "EOS_Progressed": 212,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.48,
+  "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
     {
       "Time": "2023-09-21T15:04:03.1209788+00:00",
@@ -967,6 +967,11 @@
       "Time": "2023-11-07T14:09:10.4272349+00:00",
       "NumProgressed": 210,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T15:09:26.9656816+00:00",
+      "NumProgressed": 212,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1009,7 +1014,7 @@
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
       "SetID": "5lffoo5",
       "Name": "Lesson learned",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 150,
       "UsersEstimate": 2
     },
@@ -1017,7 +1022,7 @@
       "ID": "ACHIEVEMENT_ENDING_GOOD_SANTA",
       "SetID": "5lffoo5",
       "Name": "Good list",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -1025,7 +1030,7 @@
       "ID": "ACHIEVEMENT_MAIN_FAILED",
       "SetID": "5lffoo5",
       "Name": "At least you tried",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1033,7 +1038,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_BUTTON",
       "SetID": "5lffoo5",
       "Name": "Golden Button",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1049,7 +1054,7 @@
       "ID": "ACHIEVEMENT_MAIN_GOLD_HAT",
       "SetID": "5lffoo5",
       "Name": "Golden Hat",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1089,7 +1094,7 @@
       "ID": "ACHIEVEMENT_MAIN_SILVER_CARROT",
       "SetID": "5lffoo5",
       "Name": "Silver Carrot",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1122,13 +1127,13 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 210,
+      "Progressed": 212,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:09:10.4272343+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:09:26.9656813+00:00",
   "LastUpdate_AppInfo": "2023-11-05T21:57:12.7230454+00:00",
-  "LastUpdate_Ratings": "2023-11-07T14:00:51.0238106+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:09:10.427255+00:00"
+  "LastUpdate_Ratings": "2023-11-07T15:01:16.9419098+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:09:26.9656983+00:00"
 }

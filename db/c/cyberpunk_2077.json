@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14816,10 +14816,10 @@
       "Count": 12552
     }
   ],
-  "EOS_Progressed": 895652,
-  "EOS_Completed": 2752,
-  "EOS_NewPlayers": 1026,
-  "EOS_NewCompleters": 18,
+  "EOS_Progressed": 895659,
+  "EOS_Completed": 2753,
+  "EOS_NewPlayers": 1016,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -37576,6 +37576,11 @@
       "Time": "2023-11-07T14:07:43.5669066+00:00",
       "NumProgressed": 895652,
       "NumCompleted": 2752
+    },
+    {
+      "Time": "2023-11-07T15:08:34.9143974+00:00",
+      "NumProgressed": 895659,
+      "NumCompleted": 2753
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37754,9 +37759,9 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1791
+      "UsersEstimate": 2687
     },
     {
       "ID": "Roleplayer",
@@ -37850,9 +37855,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1791
+      "UsersEstimate": 2687
     },
     {
       "ID": "TheWorld",
@@ -38123,21 +38128,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895652,
-      "Completed": 2752
+      "Progressed": 895659,
+      "Completed": 2753
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24275,
-      "Completed": 10198
+      "Progressed": 24282,
+      "Completed": 10199
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-07T13:05:17.1451553+00:00",
-  "LastChanged_Achievements": "2023-11-07T14:07:43.566906+00:00",
+  "LastChanged_Achievements": "2023-11-07T15:08:34.9143967+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-07T14:01:32.3398973+00:00",
-  "LastUpdate_Achievements": "2023-11-07T14:07:43.5671535+00:00"
+  "LastUpdate_Ratings": "2023-11-07T15:02:34.2762477+00:00",
+  "LastUpdate_Achievements": "2023-11-07T15:08:34.9145733+00:00"
 }

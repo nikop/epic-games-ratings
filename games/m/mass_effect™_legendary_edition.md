@@ -38,8 +38,8 @@
 | The Professor | 39.00% | ~398 |
 | The Archangel | 38.00% | ~388 |
 | Power Full | 38.00% | ~388 |
+| Colony Defense | 36.00% | ~368 |
 | The Convict | 36.00% | ~368 |
-| Colony Defense | 35.00% | ~357 |
 | The Krogan | 35.00% | ~357 |
 | Ghost Ship | 34.00% | ~347 |
 | Galactic Explorer | 34.00% | ~347 |
@@ -67,11 +67,11 @@
 | Treason | 30.00% | ~306 |
 | Agent | 30.00% | ~306 |
 | Bringer of War | 30.00% | ~306 |
+| Mission Accomplished | 29.00% | ~296 |
 | Suicide Mission | 29.00% | ~296 |
+| Against All Odds | 29.00% | ~296 |
 | Friend or Foe | 29.00% | ~296 |
 | Digital Exorcist | 29.00% | ~296 |
-| Mission Accomplished | 28.00% | ~286 |
-| Against All Odds | 28.00% | ~286 |
 | Mobilizer | 28.00% | ~286 |
 | Untouchable | 27.00% | ~276 |
 | Giant Killer | 27.00% | ~276 |
@@ -89,12 +89,12 @@
 | Paramour II | 22.00% | ~225 |
 | Party Crasher | 22.00% | ~225 |
 | Hard Target | 21.00% | ~214 |
+| Fact Finder | 21.00% | ~214 |
 | Problem Solver | 21.00% | ~214 |
 | Pyromaniac | 20.00% | ~204 |
 | Last Resort | 20.00% | ~204 |
 | No One Left Behind | 20.00% | ~204 |
 | Saboteur | 20.00% | ~204 |
-| Fact Finder | 20.00% | ~204 |
 | Under Pressure | 19.00% | ~194 |
 | Last Witness | 19.00% | ~194 |
 | Well Connected | 19.00% | ~194 |
