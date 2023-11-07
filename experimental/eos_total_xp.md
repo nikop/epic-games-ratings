@@ -360,6 +360,7 @@
 | [I Am Future - Cozy Apocalypse Survival](../games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 20 | 1,000 |
 | [I Did Not Buy This Ticket](../games/9/97359b2710354a139a24ddb1580b5b3d.md) | 30 | 1,000 |
 | [I Saw Black Clouds](../games/i/i_saw_black_clouds.md) | 15 | 1,000 |
+| [Ikonei Island: An Earthlock Adventure](../games/9/9d18d8b14f2249278132414a09234394.md) | 36 | 1,000 |
 | [Imagine Earth](../games/i/imagine_earth.md) | 24 | 1,000 |
 | [Immortals of Aveum™](../games/i/immortals_of_aveum™.md) | 47 | 1,000 |
 | [Indoor Kickball](../games/i/indoor_kickball.md) | 40 | 1,000 |

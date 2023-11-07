@@ -317,6 +317,7 @@
 | [Deceive Inc.](../games/d/deceive_inc..md) | 36 | 1,000 |
 | [Deponia Doomsday](../games/d/deponia_doomsday.md) | 36 | 1,000 |
 | [Heim](../games/h/heim.md) | 36 | 1,000 |
+| [Ikonei Island: An Earthlock Adventure](../games/9/9d18d8b14f2249278132414a09234394.md) | 36 | 1,000 |
 | [Survive on Raft](../games/s/survive_on_raft.md) | 36 | 1,000 |
 | [The Captain is Dead](../games/t/the_captain_is_dead.md) | 36 | 1,000 |
 | [The Lord of the Rings - Gollum™](../games/t/the_lord_of_the_rings_-_gollum™.md) | 36 | 1,000 |
