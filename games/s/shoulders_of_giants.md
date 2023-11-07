@@ -5,27 +5,27 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On the Shoulders of Giants | 88.00% | ~2,009 |
-| A Ribbiting Performance | 76.00% | ~1,735 |
-| At Least We Have Each Other... | 75.00% | ~1,712 |
-| Frogbot | 72.00% | ~1,644 |
-| Ouch | 55.00% | ~1,256 |
-| Fun in the Stun | 54.00% | ~1,233 |
-| The Interdimensional Power of Friendship | 44.00% | ~1,005 |
-| Do you feel like a tough guy? | 43.00% | ~982 |
-| Turn Up The HEAT | 41.00% | ~936 |
-| Stop Hitting Yourself! | 34.00% | ~776 |
-| Nothing to Wear | 31.00% | ~708 |
-| The First Law of Thermodynamics | 28.00% | ~639 |
-| The Second Law of Thermodynamics | 15.00% | ~342 |
-| Do you trust me? | 15.00% | ~342 |
-| Taking Out the Trash | 10.00% | ~228 |
-| The Third Law of Thermodynamics | 9.00% | ~205 |
-| Say "Cheese!" | 9.00% | ~205 |
+| On the Shoulders of Giants | 88.00% | ~2,013 |
+| A Ribbiting Performance | 76.00% | ~1,738 |
+| At Least We Have Each Other... | 75.00% | ~1,715 |
+| Frogbot | 72.00% | ~1,647 |
+| Ouch | 55.00% | ~1,258 |
+| Fun in the Stun | 53.00% | ~1,212 |
+| The Interdimensional Power of Friendship | 44.00% | ~1,006 |
+| Do you feel like a tough guy? | 43.00% | ~983 |
+| Turn Up The HEAT | 41.00% | ~938 |
+| Stop Hitting Yourself! | 34.00% | ~778 |
+| Nothing to Wear | 31.00% | ~709 |
+| The First Law of Thermodynamics | 28.00% | ~640 |
+| The Second Law of Thermodynamics | 15.00% | ~343 |
+| Do you trust me? | 15.00% | ~343 |
+| Taking Out the Trash | 10.00% | ~229 |
+| The Third Law of Thermodynamics | 9.00% | ~206 |
+| Say "Cheese!" | 9.00% | ~206 |
 | Better Than the Devs | 4.00% | ~91 |
 | So do we just stay up here, or?... | 2.00% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,283 (Ranked 211)  
+Progressed: 2,287 (Ranked 211)  
 Completed: 9 (0.39%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,6 +153,7 @@ Completed: 9 (0.39%) (Ranked 208)
 | 2023-10-29 | 2,280 | 9 |
 | 2023-11-04 | 2,281 | 9 |
 | 2023-11-05 | 2,283 | 9 |
+| 2023-11-07 | 2,287 | 9 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

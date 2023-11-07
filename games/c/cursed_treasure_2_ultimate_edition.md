@@ -8,10 +8,10 @@
 | On the Crest of a Wave | 96.00% | ~167 |
 | Foreman of Darkness | 96.00% | ~167 |
 | Brilliant Day | 94.00% | ~164 |
-| Evil Genius | 88.00% | ~153 |
+| Evil Genius | 89.00% | ~155 |
 | Air Defense | 85.00% | ~148 |
 | Tinned Corpse | 84.00% | ~146 |
-| Your War is Over | 82.00% | ~143 |
+| Your War is Over | 83.00% | ~144 |
 | The Starry Night | 77.00% | ~134 |
 | Go Home! | 76.00% | ~132 |
 | Brilliant: Meadowshire | 74.00% | ~129 |
@@ -58,7 +58,7 @@
 | Loveless | 19.00% | ~33 |
 | Hostile Waters | 18.00% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 371)  
+Progressed: 174 (Ranked 372)  
 Completed: 26 (14.94%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -29,14 +29,14 @@
 | X Best Friends | 71.00% | ~10 |
 | Paled | 64.00% | ~9 |
 | Signal interruption | 64.00% | ~9 |
+| Unladylike | 64.00% | ~9 |
+| Pale Kids | 64.00% | ~9 |
 | School Kids | 64.00% | ~9 |
 | Wild Kids | 64.00% | ~9 |
 | How Do I Look? | 64.00% | ~9 |
 | Far Ahead | 57.00% | ~8 |
-| Unladylike | 57.00% | ~8 |
-| Pale Kids | 57.00% | ~8 |
+| No More Remains | 57.00% | ~8 |
 | Post Industrial | 57.00% | ~8 |
-| No More Remains | 50.00% | ~7 |
 | Primetime Content Consumer | 14.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 551)  

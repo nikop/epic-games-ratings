@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4323,
+  "EOS_Progressed": 4325,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 843,
+  "EOS_NewPlayers": 840,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -2310,6 +2310,11 @@
       "Time": "2023-11-07T05:08:46.2844462+00:00",
       "NumProgressed": 4323,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-07T06:08:56.3009868+00:00",
+      "NumProgressed": 4325,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2336,9 +2341,9 @@
       "ID": "BeLikeWater",
       "SetID": "acc6ea0",
       "Name": "Be Like Water",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 35
     },
     {
       "ID": "Bikemaggedon",
@@ -2402,7 +2407,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "GarbageMan",
@@ -2593,7 +2598,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4323,
+      "Progressed": 4325,
       "Completed": 5
     }
   ],
@@ -2601,8 +2606,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-05T20:58:48.2968347+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:08:46.2844457+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:08:56.3009859+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:59:27.1765936+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:08:46.2844944+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:59:35.9496714+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:08:56.3010293+00:00"
 }

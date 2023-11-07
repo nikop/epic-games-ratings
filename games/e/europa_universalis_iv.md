@@ -56,6 +56,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about the money | 0.10% | ~449 |
 | Just a Little Patience | 0.10% | ~449 |
 | Just Resting In My Account | 0.10% | ~449 |
+| Liberty or Death | 0.10% | ~449 |
 | Live Long and Prosper | 0.10% | ~449 |
 | Market Control | 0.10% | ~449 |
 | Marshy March | 0.10% | ~449 |
@@ -233,7 +234,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Lessons of Hemmingstedt | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
 | The Levant Turnabout | 0.00% | ~0 |
-| Liberty or Death | 0.00% | ~0 |
 | Lion of the North | 0.00% | ~0 |
 | Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,955 (Ranked 41)  
+Progressed: 448,970 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 448,955 | 1 |
+| 2023-11-07 | 448,970 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,445 (Ranked 24)  

@@ -2,12 +2,12 @@
   "ID": "f696430be718494fac1d6542cfb22542",
   "Name": "Marvel\u2019s Spider-Man: Miles Morales",
   "ProductSlug": "marvels-spider-man-miles-morales",
-  "Ranking_Rating": 114,
+  "Ranking_Rating": 105,
   "Ranking_Popularity": 120,
-  "Ranking_PopularitySum": 193,
+  "Ranking_PopularitySum": 189,
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-11-18T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.77,
+  "Rating": 4.78,
   "RatingHistory": [
     {
       "Time": "2022-11-19T02:30:31.0923377+00:00",
@@ -2837,10 +2837,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 2409,
       "NumberOfAwardsMax": 1755
+    },
+    {
+      "Time": "2023-11-07T05:57:52.2736768+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 2470,
+      "NumberOfAwardsMax": 1755
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2409,
+  "NumberOfAwards": 2470,
   "NumberOfAwardsMax": 1755,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2920,7 +2926,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 33
+      "Count": 61
     }
   ],
   "EOS_Progressed": 0,
@@ -2935,8 +2941,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-18T19:57:18.4413349+00:00",
   "FirstSeenRating": "2022-11-19T02:30:31.0923375+00:00",
-  "LastChanged": "2023-11-06T17:57:21.298121+00:00",
+  "LastChanged": "2023-11-07T05:57:52.2736767+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.6790924+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:57:44.2215218+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:03:49.9784172+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:57:52.2736773+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:04:00.4512817+00:00"
 }

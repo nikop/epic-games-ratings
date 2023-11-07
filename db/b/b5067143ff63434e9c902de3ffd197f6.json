@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7862,
+  "EOS_Progressed": 7863,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1640,
+  "EOS_NewPlayers": 1639,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4439,6 +4439,11 @@
       "Time": "2023-11-07T05:04:17.0080096+00:00",
       "NumProgressed": 7862,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T06:04:27.8525224+00:00",
+      "NumProgressed": 7863,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -4555,7 +4560,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -4563,7 +4568,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -4579,7 +4584,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -4595,7 +4600,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -4642,14 +4647,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 7862,
+      "Progressed": 7863,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:04:17.0080092+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:04:27.8525218+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:16.1385723+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:59:39.0150496+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:04:17.0080556+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:59:47.887698+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:04:27.8525856+00:00"
 }

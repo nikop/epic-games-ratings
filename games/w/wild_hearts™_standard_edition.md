@@ -11,7 +11,7 @@
 | Man-Machine Master | 70.00% | ~164 |
 | Mountain Splitter | 68.00% | ~159 |
 | Fusion Conjuror | 67.00% | ~157 |
-| Memory Rouser | 66.00% | ~154 |
+| Memory Rouser | 67.00% | ~157 |
 | Charmed by the Hunt | 66.00% | ~154 |
 | Subsistence Skills | 65.00% | ~152 |
 | Kemono Hunter | 61.00% | ~143 |
@@ -45,7 +45,7 @@
 | Quintessence of Form | 22.00% | ~51 |
 | Haven Hunter | 21.00% | ~49 |
 | Volatile Vocation | 20.00% | ~47 |
-| Tender Touch | 19.00% | ~44 |
+| Tender Touch | 20.00% | ~47 |
 | Superlative View | 19.00% | ~44 |
 | Relentless Kemono Hunter | 15.00% | ~35 |
 | Vanquisher of the Volatile | 15.00% | ~35 |

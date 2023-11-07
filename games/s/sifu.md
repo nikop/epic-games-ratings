@@ -34,14 +34,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.30% | ~2,149 |
 | Kung-Fu Tussle | 0.30% | ~2,149 |
 | Bloody Sport | 0.30% | ~77 |
-| Muk Yan Master | 0.20% | ~1,432 |
-| Tiger on Fire | 0.20% | ~1,432 |
-| Source of Flying Daggers | 0.20% | ~1,432 |
-| Iron Money | 0.20% | ~1,432 |
-| Legendary Talismans of Wuxing | 0.20% | ~1,432 |
-| Detective Story | 0.20% | ~1,432 |
-| The 36th Chamber of Kung-Fu | 0.20% | ~1,432 |
-| Sword Stained With Blood | 0.20% | ~1,432 |
+| Muk Yan Master | 0.20% | ~1,433 |
+| Tiger on Fire | 0.20% | ~1,433 |
+| Source of Flying Daggers | 0.20% | ~1,433 |
+| Iron Money | 0.20% | ~1,433 |
+| Legendary Talismans of Wuxing | 0.20% | ~1,433 |
+| Detective Story | 0.20% | ~1,433 |
+| The 36th Chamber of Kung-Fu | 0.20% | ~1,433 |
+| Sword Stained With Blood | 0.20% | ~1,433 |
 | The best strikes are the ones we avoid | 0.20% | ~51 |
 | Beatmaker | 0.20% | ~51 |
 | Prodigal Child | 0.10% | ~716 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,249 (Ranked 20)  
+Progressed: 716,252 (Ranked 20)  
 Completed: 12,933 (1.81%) (Ranked 125)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,10 +268,10 @@ Completed: 12,933 (1.81%) (Ranked 125)
 | 2023-11-04 | 716,177 | 12,931 |
 | 2023-11-05 | 716,208 | 12,933 |
 | 2023-11-06 | 716,236 | 12,933 |
-| 2023-11-07 | 716,249 | 12,933 |
+| 2023-11-07 | 716,252 | 12,933 |
 ## Awards
 Max (Great Boss Battles): 6,764  (Ranked 55)  
-Sum: 11,811 (Ranked 82)  
+Sum: 11,813 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
@@ -281,8 +281,8 @@ Diff (max vs sum): -27
 | This game has Amazing Storytelling | 580 |
 | This game has Amazing Characters | 568 |
 | This game has Quickly Understood Controls | 567 |
+| This game is Highly Recommended | 565 |
 | This game is Extremely Fun | 563 |
-| This game is Highly Recommended | 563 |
 | This game has Unique Visuals | 544 |
 | This game has a Creative Community | 418 |
 | This game is Relaxing | 401 |
@@ -584,3 +584,4 @@ Diff (max vs sum): -27
 | 2023-11-04 | 4.82 | - | 6,756 | 11,791 |
 | 2023-11-05 | 4.82 | - | 6,759 | 11,800 |
 | 2023-11-06 | 4.82 | - | 6,764 | 11,811 |
+| 2023-11-07 | 4.82 | - | 6,764 | 11,813 |

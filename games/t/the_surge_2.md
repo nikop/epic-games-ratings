@@ -5,34 +5,34 @@ Rating: 4.24 (Ranked 878)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,741 |
-| Don't I Know You...? | 76.00% | ~1,654 |
-| Jailbreak | 66.00% | ~1,436 |
+| Rigged And Ready | 80.00% | ~1,742 |
+| Don't I Know You...? | 76.00% | ~1,655 |
+| Jailbreak | 66.00% | ~1,437 |
 | HEADSHOT! | 38.00% | ~827 |
 | Suited and Booted | 38.00% | ~827 |
-| Sleeping With The Fishes | 36.00% | ~783 |
+| Sleeping With The Fishes | 36.00% | ~784 |
 | Overheated | 30.00% | ~653 |
 | High Performance | 30.00% | ~653 |
-| Powered Up | 28.00% | ~609 |
+| Powered Up | 28.00% | ~610 |
 | Studied The Blade | 25.00% | ~544 |
-| Home Invasion | 23.00% | ~500 |
+| Home Invasion | 23.00% | ~501 |
 | Luminary | 22.00% | ~479 |
 | It's a Trap | 22.00% | ~479 |
 | True Survivor | 21.00% | ~457 |
 | Offensive Defense | 20.00% | ~435 |
 | Shocking | 20.00% | ~435 |
-| Court Martial | 19.00% | ~413 |
-| Clean Cut | 19.00% | ~413 |
-| Unforeseeable Consequences | 19.00% | ~413 |
+| Court Martial | 19.00% | ~414 |
+| Clean Cut | 19.00% | ~414 |
+| Unforeseeable Consequences | 19.00% | ~414 |
 | Dead Again | 18.00% | ~392 |
 | Full Arsenal | 17.00% | ~370 |
-| Can't Trust Banks | 15.00% | ~326 |
+| Can't Trust Banks | 15.00% | ~327 |
 | Mommy Dearest | 13.00% | ~283 |
 | Bad Dog | 13.00% | ~283 |
-| Where It All Began | 13.00% | ~283 |
 | Risk Tolerant | 13.00% | ~283 |
 | What A Catchy Song | 13.00% | ~283 |
 | Corrupted Beauty | 12.00% | ~261 |
+| Where It All Began | 12.00% | ~261 |
 | Sorry, Didn't See You There | 12.00% | ~261 |
 | Marked For Success | 11.00% | ~239 |
 | Triplets | 10.00% | ~218 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 878)
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,176 (Ranked 213)  
+Progressed: 2,177 (Ranked 213)  
 Completed: 13 (0.60%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,7 +215,7 @@ Completed: 13 (0.60%) (Ranked 180)
 | 2023-11-04 | 2,154 | 13 |
 | 2023-11-05 | 2,168 | 13 |
 | 2023-11-06 | 2,174 | 13 |
-| 2023-11-07 | 2,176 | 13 |
+| 2023-11-07 | 2,177 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

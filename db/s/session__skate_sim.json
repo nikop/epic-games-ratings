@@ -4,7 +4,7 @@
   "ProductSlug": "session-skate-sim",
   "Ranking_Rating": 229,
   "Ranking_Popularity": 413,
-  "Ranking_PopularitySum": 316,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 257,
@@ -1073,10 +1073,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 542,
       "NumberOfAwardsMax": 56
+    },
+    {
+      "Time": "2023-11-07T05:58:43.3315995+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 543,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 542,
+  "NumberOfAwards": 543,
   "NumberOfAwardsMax": 56,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1114,7 +1120,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 54
+      "Count": 55
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6063,9 +6069,9 @@
   ],
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
-  "LastChanged": "2023-11-03T21:01:16.2604961+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:04:50.5527805+00:00",
+  "LastChanged": "2023-11-07T05:58:43.3315994+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:05:01.4717963+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:14.8563448+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:58:35.7025921+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:04:50.5528982+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:58:43.3316+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:05:01.4718637+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "538efd8138f94b088f2d9e3da178edd6",
   "Name": "Trail Of Ayash",
   "ProductSlug": "trail-of-ayash-31a1d4",
-  "Ranking_EOS_Progress": 617,
+  "Ranking_EOS_Progress": 608,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 397,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-25T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4,
+  "EOS_Progressed": 5,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -48,6 +48,11 @@
     {
       "Time": "2023-10-28T13:10:30.5131982+00:00",
       "NumProgressed": 4,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T06:09:13.8387289+00:00",
+      "NumProgressed": 5,
       "NumCompleted": 0
     }
   ],
@@ -204,14 +209,14 @@
     {
       "ID": "2jfh9oo",
       "IsBase": true,
-      "Progressed": 4,
+      "Progressed": 5,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-30T22:57:41.1486641+00:00",
   "FirstSeenAchievements": "2023-06-27T21:01:01.0024576+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:09:03.8292757+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:09:13.838728+00:00",
   "LastUpdate_AppInfo": "2023-11-01T06:57:11.6007309+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:59:54.8868498+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:09:03.82929+00:00"
+  "LastUpdate_Ratings": "2023-11-07T06:00:03.2557419+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:09:13.8387597+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Night Has Just Begun | 1.00% | ~2 |
+| Night Has Just Begun | 1.00% | ~3 |
 | No stone unturned | 0.80% | ~2 |
 | Dead-On | 0.80% | ~2 |
 | "This Guy Is Really Good" | 0.80% | ~2 |
@@ -32,7 +32,7 @@
 | Good eyes, Murphy! | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 245 (Ranked 346)  
+Progressed: 251 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,4 +42,4 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-23 | 4 | 0 |
 | 2023-11-02 | 5 | 0 |
 | 2023-11-06 | 212 | 0 |
-| 2023-11-07 | 245 | 0 |
+| 2023-11-07 | 251 | 0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "recall-113630",
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-01-17T17:00:00+00:00",
@@ -35,6 +35,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-15T19:59:11.9788201+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:31.071922+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:59:09.5203753+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:07:57.1418126+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:59:16.9172878+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:07:29.6335228+00:00"
 }

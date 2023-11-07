@@ -3,7 +3,7 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": null,
@@ -195,9 +195,9 @@
       "ID": "FindAllPhantomKids",
       "SetID": "aph8hbk",
       "Name": "No More Remains",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "FootballGoal",
@@ -227,9 +227,9 @@
       "ID": "Governess",
       "SetID": "aph8hbk",
       "Name": "Unladylike",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "HalfHatsCollected",
@@ -275,9 +275,9 @@
       "ID": "KidsPaleCity",
       "SetID": "aph8hbk",
       "Name": "Pale Kids",
-      "Percentage": 57,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KidsSchool",
@@ -393,8 +393,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:08:32.7939167+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:08:42.6377395+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-11-07T05:00:37.5924407+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:08:32.7939542+00:00"
+  "LastUpdate_Ratings": "2023-11-07T06:00:45.4790454+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:08:42.6377678+00:00"
 }

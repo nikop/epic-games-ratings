@@ -2765,9 +2765,9 @@
       "Count": 147
     }
   ],
-  "EOS_Progressed": 660485,
+  "EOS_Progressed": 660490,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 2011,
+  "EOS_NewPlayers": 2013,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25590,6 +25590,11 @@
       "Time": "2023-11-07T05:08:46.0067947+00:00",
       "NumProgressed": 660485,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-07T06:08:56.0634402+00:00",
+      "NumProgressed": 660490,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -25601,7 +25606,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 99073
+      "UsersEstimate": 99074
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -25609,7 +25614,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79258
+      "UsersEstimate": 79259
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -25641,7 +25646,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 118887
+      "UsersEstimate": 118888
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -25649,7 +25654,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 85863
+      "UsersEstimate": 85864
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -25657,7 +25662,7 @@
       "Name": "Advanced Voyager",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26419
+      "UsersEstimate": 26420
     },
     {
       "ID": "_01_08_DISTANCE_1000_MEDIUM",
@@ -25681,7 +25686,7 @@
       "Name": "Expert Stroller",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26419
+      "UsersEstimate": 26420
     },
     {
       "ID": "_01_11_DISTANCE_200_HARD",
@@ -25721,7 +25726,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 92468
+      "UsersEstimate": 92469
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -25849,7 +25854,7 @@
       "Name": "Incurious",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 112282
+      "UsersEstimate": 112283
     },
     {
       "ID": "_03_01_MOJAVE_COURIER",
@@ -26016,15 +26021,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 660485,
+      "Progressed": 660490,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-01T01:47:12.9011919+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:08:46.0067941+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:08:56.0634395+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:13.1583279+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:58:14.6194473+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:08:46.0071262+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:58:22.3659503+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:08:56.0636105+00:00"
 }

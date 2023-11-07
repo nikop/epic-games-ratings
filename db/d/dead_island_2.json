@@ -6213,9 +6213,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714275,
+  "EOS_Progressed": 714284,
   "EOS_Completed": 2350,
-  "EOS_NewPlayers": 5325,
+  "EOS_NewPlayers": 5321,
   "EOS_NewCompleters": 64,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29098,6 +29098,11 @@
       "Time": "2023-11-07T05:05:50.9121006+00:00",
       "NumProgressed": 714275,
       "NumCompleted": 2350
+    },
+    {
+      "Time": "2023-11-07T06:06:01.9562683+00:00",
+      "NumProgressed": 714284,
+      "NumCompleted": 2350
     }
   ],
   "TotalAchievements": 51,
@@ -29299,9 +29304,9 @@
       "ID": "ach_jumbo_keyring",
       "SetID": "7km39fm",
       "Name": "Jumbo Keyring",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 714
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_knock_down",
@@ -29403,9 +29408,9 @@
       "ID": "ach_survival_of_the_fittest",
       "SetID": "7km39fm",
       "Name": "Max Headroom",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1429
+      "UsersEstimate": 2143
     },
     {
       "ID": "ach_the_vcla",
@@ -29516,13 +29521,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714275,
+      "Progressed": 714284,
       "Completed": 2350
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39817,
+      "Progressed": 39826,
       "Completed": 36475
     }
   ],
@@ -29530,8 +29535,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-07T01:42:53.6891474+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:05:50.9120998+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:06:01.9562676+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:57:55.517929+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:05:50.9124337+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:58:03.5022999+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:06:01.9564771+00:00"
 }

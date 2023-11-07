@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2176,
+  "EOS_Progressed": 2177,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3064,6 +3064,11 @@
       "Time": "2023-11-07T03:09:19.120518+00:00",
       "NumProgressed": 2176,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-07T06:09:08.1492714+00:00",
+      "NumProgressed": 2177,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3083,7 +3088,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ACHV_03",
@@ -3115,7 +3120,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ACHV_07",
@@ -3123,7 +3128,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACHV_08",
@@ -3275,7 +3280,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "ACHV_27",
@@ -3291,7 +3296,7 @@
       "Name": "Clean Cut",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACHV_29",
@@ -3307,15 +3312,15 @@
       "Name": "Powered Up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "ACHV_31",
       "SetID": "8p5mlmc",
       "Name": "Where It All Began",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 283
+      "UsersEstimate": 261
     },
     {
       "ID": "ACHV_32",
@@ -3347,7 +3352,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACHV_36",
@@ -3355,7 +3360,7 @@
       "Name": "Can\u0027t Trust Banks",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "ACHV_37",
@@ -3379,7 +3384,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "ACHV_40",
@@ -3435,7 +3440,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACHV_47",
@@ -3530,7 +3535,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2176,
+      "Progressed": 2177,
       "Completed": 13
     }
   ],
@@ -3538,8 +3543,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:08:58.1581351+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:09:08.1492709+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:22.6929066+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:59:56.9747367+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:08:58.1582646+00:00"
+  "LastUpdate_Ratings": "2023-11-07T06:00:05.1654576+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:09:08.149337+00:00"
 }

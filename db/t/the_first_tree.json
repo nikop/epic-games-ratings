@@ -253,9 +253,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37614,
+  "EOS_Progressed": 37615,
   "EOS_Completed": 117,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -17678,6 +17678,11 @@
       "Time": "2023-11-07T03:04:27.6251697+00:00",
       "NumProgressed": 37614,
       "NumCompleted": 117
+    },
+    {
+      "Time": "2023-11-07T06:04:29.1379861+00:00",
+      "NumProgressed": 37615,
+      "NumCompleted": 117
     }
   ],
   "TotalAchievements": 14,
@@ -17769,7 +17774,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9027
+      "UsersEstimate": 9028
     },
     {
       "ID": "firstItem",
@@ -17777,7 +17782,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 28963
+      "UsersEstimate": 28964
     },
     {
       "ID": "roots",
@@ -17785,7 +17790,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6394
+      "UsersEstimate": 6395
     },
     {
       "ID": "secretItem",
@@ -17800,15 +17805,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37614,
+      "Progressed": 37615,
       "Completed": 117
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:04:18.2207824+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:04:29.1379855+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:05.8183458+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:58:28.9358132+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:04:18.220992+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:58:37.2007027+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:04:29.1381437+00:00"
 }

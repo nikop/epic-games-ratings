@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -8391,9 +8391,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 807459,
+  "EOS_Progressed": 807462,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 840,
+  "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30876,6 +30876,11 @@
       "Time": "2023-11-07T04:03:17.5129797+00:00",
       "NumProgressed": 807459,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-07T06:03:45.5586218+00:00",
+      "NumProgressed": 807462,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -30911,7 +30916,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 129193
+      "UsersEstimate": 129194
     },
     {
       "ID": "Awakening",
@@ -30919,7 +30924,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169566
+      "UsersEstimate": 169567
     },
     {
       "ID": "BadGirl",
@@ -30967,7 +30972,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258387
+      "UsersEstimate": 258388
     },
     {
       "ID": "Bookworm",
@@ -30999,7 +31004,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201865
+      "UsersEstimate": 201866
     },
     {
       "ID": "Chivalrous",
@@ -31167,7 +31172,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72671
+      "UsersEstimate": 72672
     },
     {
       "ID": "HardcoreHenry",
@@ -31423,7 +31428,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88820
+      "UsersEstimate": 88821
     },
     {
       "ID": "Sniper",
@@ -31495,7 +31500,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88820
+      "UsersEstimate": 88821
     },
     {
       "ID": "TrialAndError",
@@ -31542,15 +31547,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 807459,
+      "Progressed": 807462,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-07T05:01:05.4117366+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:03:35.2771008+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:03:45.5586211+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.089213+00:00",
-  "LastUpdate_Ratings": "2023-11-07T05:01:05.4117376+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:03:35.2773636+00:00"
+  "LastUpdate_Ratings": "2023-11-07T06:01:13.6227926+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:03:45.5588847+00:00"
 }

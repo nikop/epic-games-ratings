@@ -7429,10 +7429,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 11811,
       "NumberOfAwardsMax": 6764
+    },
+    {
+      "Time": "2023-11-07T05:57:18.6009287+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 11813,
+      "NumberOfAwardsMax": 6764
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11811,
+  "NumberOfAwards": 11813,
   "NumberOfAwardsMax": 6764,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7500,7 +7506,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 563
+      "Count": 565
     },
     {
       "Text": "This game has a Creative Community",
@@ -7509,9 +7515,9 @@
       "Count": 418
     }
   ],
-  "EOS_Progressed": 716249,
+  "EOS_Progressed": 716252,
   "EOS_Completed": 12933,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -25119,6 +25125,11 @@
       "Time": "2023-11-07T05:07:57.8014858+00:00",
       "NumProgressed": 716249,
       "NumCompleted": 12933
+    },
+    {
+      "Time": "2023-11-07T06:07:30.4291003+00:00",
+      "NumProgressed": 716252,
+      "NumCompleted": 12933
     }
   ],
   "TotalAchievements": 60,
@@ -25178,7 +25189,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "08_Wude_H2",
@@ -25186,7 +25197,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "09_Wude_H3",
@@ -25194,7 +25205,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "10_Wude_H4",
@@ -25202,7 +25213,7 @@
       "Name": "Iron Money",
       "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "11_Wude_H5",
@@ -25210,7 +25221,7 @@
       "Name": "Legendary Talismans of Wuxing",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "12_MidAge",
@@ -25242,7 +25253,7 @@
       "Name": "Detective Story",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "16_Detective_H2",
@@ -25346,7 +25357,7 @@
       "Name": "The 36th Chamber of Kung-Fu",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "29_FocusAttack_Trophy",
@@ -25386,7 +25397,7 @@
       "Name": "Sword Stained With Blood",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "34_TimedTakedown",
@@ -25609,21 +25620,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25550,
+      "Progressed": 25553,
       "Completed": 10736
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716249,
+      "Progressed": 716252,
       "Completed": 12933
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2023-11-06T14:00:34.8058264+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:07:57.8014854+00:00",
+  "LastChanged": "2023-11-07T05:57:18.6009285+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:07:30.4290997+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.5858311+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:57:10.0199977+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:07:57.8016781+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:57:18.6009292+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:07:30.4292925+00:00"
 }

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 926,
+  "EOS_Progressed": 927,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1702,6 +1702,11 @@
       "Time": "2023-11-07T05:05:34.4243672+00:00",
       "NumProgressed": 926,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T06:05:45.2553614+00:00",
+      "NumProgressed": 927,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1714,7 +1719,7 @@
       "Name": "Rookie",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1858,7 +1863,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -1874,7 +1879,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -1882,7 +1887,7 @@
       "Name": "The Octopus",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -1954,7 +1959,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2057,20 +2062,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 926,
+      "Progressed": 927,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 594,
-      "Completed": 594
+      "Progressed": 595,
+      "Completed": 595
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:05:34.4243667+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:05:45.2553608+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
   "LastUpdate_Ratings": "2023-11-07T05:02:30.4860254+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:05:34.4244146+00:00"
+  "LastUpdate_Achievements": "2023-11-07T06:05:45.255442+00:00"
 }

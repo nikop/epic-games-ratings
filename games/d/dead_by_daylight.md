@@ -6,49 +6,49 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 6.00% | ~60,069 |
-| Skillful | 6.00% | ~60,069 |
-| Zealous | 5.00% | ~50,058 |
-| Not half bad | 5.00% | ~50,058 |
-| Make Some Noise | 5.00% | ~50,058 |
-| Handyman | 4.00% | ~40,046 |
-| Apt Survivor | 4.00% | ~40,046 |
-| Survival Treasures | 4.00% | ~40,046 |
-| Sorted | 4.00% | ~40,046 |
-| The Grand Sacrifice | 3.00% | ~30,035 |
-| Agonizing Escape | 3.00% | ~30,035 |
-| Backdoor Escape | 3.00% | ~30,035 |
-| No one left behind | 3.00% | ~30,035 |
-| Medic | 3.00% | ~30,035 |
-| Perfect Escape | 3.00% | ~30,035 |
-| Perfect Killing | 3.00% | ~30,035 |
-| Bloody Millionaire | 3.00% | ~30,035 |
-| I | 3.00% | ~30,035 |
-| Engineer | 3.00% | ~30,035 |
-| Healthy Obsession | 3.00% | ~30,035 |
-| Resurgence | 3.00% | ~30,035 |
-| Preemptive Strike | 3.00% | ~30,035 |
-| Humanitarian | 3.00% | ~30,035 |
-| Escape Artist | 2.00% | ~20,023 |
-| I've got your back | 2.00% | ~20,023 |
-| Nerves of steel | 2.00% | ~20,023 |
-| Apt Killer | 2.00% | ~20,023 |
-| Risk it all | 2.00% | ~20,023 |
-| Vulture | 2.00% | ~20,023 |
-| II | 2.00% | ~20,023 |
-| III | 2.00% | ~20,023 |
-| Cherish your Life | 2.00% | ~20,023 |
-| Wounded Healer | 2.00% | ~20,023 |
-| First to the Punch | 2.00% | ~20,023 |
-| Every Last Drop | 2.00% | ~20,023 |
-| Close Shave | 2.00% | ~20,023 |
-| Raccoon City Recruit | 2.00% | ~20,023 |
-| With Scars to Show | 2.00% | ~20,023 |
-| Flight to Freedom | 2.00% | ~20,023 |
-| A Fast Death | 2.00% | ~20,023 |
-| Chorus of Chaos | 2.00% | ~20,023 |
-| One More Step | 2.00% | ~20,023 |
-| Second Act | 2.00% | ~20,023 |
+| It wakes | 6.00% | ~60,073 |
+| Skillful | 6.00% | ~60,073 |
+| Zealous | 5.00% | ~50,060 |
+| Not half bad | 5.00% | ~50,060 |
+| Make Some Noise | 5.00% | ~50,060 |
+| Handyman | 4.00% | ~40,048 |
+| Apt Survivor | 4.00% | ~40,048 |
+| Survival Treasures | 4.00% | ~40,048 |
+| Sorted | 4.00% | ~40,048 |
+| The Grand Sacrifice | 3.00% | ~30,036 |
+| Agonizing Escape | 3.00% | ~30,036 |
+| Backdoor Escape | 3.00% | ~30,036 |
+| No one left behind | 3.00% | ~30,036 |
+| Medic | 3.00% | ~30,036 |
+| Perfect Escape | 3.00% | ~30,036 |
+| Perfect Killing | 3.00% | ~30,036 |
+| Bloody Millionaire | 3.00% | ~30,036 |
+| I | 3.00% | ~30,036 |
+| Engineer | 3.00% | ~30,036 |
+| Healthy Obsession | 3.00% | ~30,036 |
+| Resurgence | 3.00% | ~30,036 |
+| Preemptive Strike | 3.00% | ~30,036 |
+| Humanitarian | 3.00% | ~30,036 |
+| Escape Artist | 2.00% | ~20,024 |
+| I've got your back | 2.00% | ~20,024 |
+| Nerves of steel | 2.00% | ~20,024 |
+| Apt Killer | 2.00% | ~20,024 |
+| Risk it all | 2.00% | ~20,024 |
+| Vulture | 2.00% | ~20,024 |
+| II | 2.00% | ~20,024 |
+| III | 2.00% | ~20,024 |
+| Cherish your Life | 2.00% | ~20,024 |
+| Wounded Healer | 2.00% | ~20,024 |
+| First to the Punch | 2.00% | ~20,024 |
+| Every Last Drop | 2.00% | ~20,024 |
+| Close Shave | 2.00% | ~20,024 |
+| Raccoon City Recruit | 2.00% | ~20,024 |
+| With Scars to Show | 2.00% | ~20,024 |
+| Flight to Freedom | 2.00% | ~20,024 |
+| A Fast Death | 2.00% | ~20,024 |
+| Chorus of Chaos | 2.00% | ~20,024 |
+| One More Step | 2.00% | ~20,024 |
+| Second Act | 2.00% | ~20,024 |
 | A bite for the Entity | 1.00% | ~10,012 |
 | Blood on your hands | 1.00% | ~10,012 |
 | Blood on your face | 1.00% | ~10,012 |
@@ -84,15 +84,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Complete the Evolution | 1.00% | ~10,012 |
 | Extraterrestrial | 1.00% | ~10,012 |
 | MU/TH/UR Dearest | 1.00% | ~10,012 |
-| Game Over | 0.90% | ~9,010 |
-| Devoted Gatekeeping | 0.90% | ~9,010 |
-| Broken Bodies | 0.90% | ~9,010 |
-| End of Days | 0.90% | ~9,010 |
-| Insult and Injury | 0.90% | ~9,010 |
-| Jump Scares | 0.80% | ~8,009 |
-| Deep Cleansing | 0.80% | ~8,009 |
-| Party Crasher | 0.80% | ~8,009 |
-| Kitted Out | 0.80% | ~8,009 |
+| Game Over | 0.90% | ~9,011 |
+| Devoted Gatekeeping | 0.90% | ~9,011 |
+| Broken Bodies | 0.90% | ~9,011 |
+| End of Days | 0.90% | ~9,011 |
+| Insult and Injury | 0.90% | ~9,011 |
+| Jump Scares | 0.80% | ~8,010 |
+| Deep Cleansing | 0.80% | ~8,010 |
+| Party Crasher | 0.80% | ~8,010 |
+| Kitted Out | 0.80% | ~8,010 |
 | Texas BBQ | 0.70% | ~7,008 |
 | Outrage | 0.70% | ~7,008 |
 | I See You | 0.70% | ~7,008 |
@@ -112,16 +112,16 @@ Number of Ratings: 70,340  (23.09.2022)
 | Ghost in the Machine | 0.40% | ~4,005 |
 | Hack the Mainframe | 0.40% | ~4,005 |
 | Disarm and Dismember | 0.40% | ~4,005 |
-| A feast for the Entity | 0.30% | ~3,003 |
-| In the void she walks | 0.30% | ~3,003 |
-| Deranged Pursuit | 0.30% | ~3,003 |
-| Dismantle | 0.30% | ~3,003 |
-| Left For Dead | 0.30% | ~3,003 |
-| Bodyguard | 0.30% | ~3,003 |
-| Speed Kills | 0.30% | ~3,003 |
-| Rescue Mission | 0.30% | ~3,003 |
-| From the Deep | 0.30% | ~3,003 |
-| Terror of LV-426 | 0.30% | ~3,003 |
+| A feast for the Entity | 0.30% | ~3,004 |
+| In the void she walks | 0.30% | ~3,004 |
+| Deranged Pursuit | 0.30% | ~3,004 |
+| Dismantle | 0.30% | ~3,004 |
+| Left For Dead | 0.30% | ~3,004 |
+| Bodyguard | 0.30% | ~3,004 |
+| Speed Kills | 0.30% | ~3,004 |
+| Rescue Mission | 0.30% | ~3,004 |
+| From the Deep | 0.30% | ~3,004 |
+| Terror of LV-426 | 0.30% | ~3,004 |
 | Cripple them all | 0.20% | ~2,002 |
 | Adept Meg | 0.20% | ~2,002 |
 | Even Punishment | 0.20% | ~2,002 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,001 |
 | Adept Ripley | 0.10% | ~1,001 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,001,152 (Ranked 14)  
+Progressed: 1,001,210 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -437,15 +437,15 @@ Completed: 52 (0.01%) (Ranked 321)
 | 2023-11-04 | 996,333 | 52 |
 | 2023-11-05 | 998,907 | 52 |
 | 2023-11-06 | 1,000,713 | 52 |
-| 2023-11-07 | 1,001,152 | 52 |
+| 2023-11-07 | 1,001,210 | 52 |
 ## Awards
 Max (Diverse Characters): 35,459  (Ranked 15)  
-Sum: 272,141 (Ranked 13)  
+Sum: 272,203 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 35,459 |
-| This game is Highly Recommended | 31,092 |
+| This game is Highly Recommended | 31,154 |
 | This game has Amazing Characters | 30,706 |
 | This game has Competitive Players | 30,632 |
 | This game is Extremely Fun | 30,293 |
@@ -745,4 +745,4 @@ Diff (max vs sum): 2
 | 2023-11-04 | 4.51 | - | 35,350 | 271,318 |
 | 2023-11-05 | 4.51 | - | 35,408 | 271,745 |
 | 2023-11-06 | 4.51 | - | 35,459 | 272,093 |
-| 2023-11-07 | 4.51 | - | 35,459 | 272,141 |
+| 2023-11-07 | 4.51 | - | 35,459 | 272,203 |

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 75.00% | ~43 |
-| Something important | 74.00% | ~42 |
-| A piece of the story | 58.00% | ~33 |
+| Wanderer | 74.00% | ~43 |
+| Something important | 72.00% | ~42 |
+| A piece of the story | 57.00% | ~33 |
 | Do what you have to | 40.00% | ~23 |
-| The artist’s impression | 39.00% | ~22 |
-| Scraps of love | 37.00% | ~21 |
-| It's covered up for a reason | 35.00% | ~20 |
-| Refuse to look | 35.00% | ~20 |
-| Sign of weakness | 32.00% | ~18 |
+| The artist’s impression | 38.00% | ~22 |
+| Scraps of love | 36.00% | ~21 |
+| It's covered up for a reason | 34.00% | ~20 |
+| Refuse to look | 34.00% | ~20 |
+| Sign of weakness | 31.00% | ~18 |
 | Finished it | 28.00% | ~16 |
 | Face your fears | 19.00% | ~11 |
 | First steps | 14.00% | ~8 |
@@ -20,8 +20,8 @@
 | Tough conversation | 14.00% | ~8 |
 | Breaking free | 12.00% | ~7 |
 | The tragedy unfolds | 12.00% | ~7 |
-| Debut | 11.00% | ~6 |
-| The art of movement | 11.00% | ~6 |
+| Debut | 10.00% | ~6 |
+| The art of movement | 10.00% | ~6 |
 | A new way | 9.00% | ~5 |
 | A Slice of Life | 9.00% | ~5 |
 | True Reflection | 9.00% | ~5 |
@@ -31,10 +31,10 @@
 | We Are Not Alone | 5.00% | ~3 |
 | Sound Bite | 5.00% | ~3 |
 | Heavy Burden | 5.00% | ~3 |
-| Casting Finished | 4.00% | ~2 |
-| Something to think about | 4.00% | ~2 |
-| The Perfect Storm | 4.00% | ~2 |
-| Fisherman | 4.00% | ~2 |
+| Casting Finished | 3.00% | ~2 |
+| Something to think about | 3.00% | ~2 |
+| The Perfect Storm | 3.00% | ~2 |
+| Fisherman | 3.00% | ~2 |
 | Body of Work | 2.00% | ~1 |
 | Full Scoop | 2.00% | ~1 |
 | Se7en Seas | 2.00% | ~1 |
@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57 (Ranked 452)  
+Progressed: 58 (Ranked 451)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,4 +79,4 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-04 | 50 | 0 |
 | 2023-11-05 | 55 | 0 |
 | 2023-11-06 | 56 | 0 |
-| 2023-11-07 | 57 | 0 |
+| 2023-11-07 | 58 | 0 |

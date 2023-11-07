@@ -11721,7 +11721,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448955,
+  "EOS_Progressed": 448970,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 5521,
   "EOS_NewCompleters": 0,
@@ -34651,6 +34651,11 @@
       "Time": "2023-11-07T05:04:16.110546+00:00",
       "NumProgressed": 448955,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T06:04:27.2821554+00:00",
+      "NumProgressed": 448970,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36076,9 +36081,9 @@
       "ID": "achievement_liberty_or_death",
       "SetID": "8p2n7he",
       "Name": "Liberty or Death",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_lion_of_the_north",
@@ -37565,21 +37570,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448955,
+      "Progressed": 448970,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448955,
+      "Progressed": 448970,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-07T02:57:27.4287124+00:00",
-  "LastChanged_Achievements": "2023-11-07T05:04:16.1105452+00:00",
+  "LastChanged_Achievements": "2023-11-07T06:04:27.282155+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:57:23.3985935+00:00",
-  "LastUpdate_Achievements": "2023-11-07T05:04:16.1121247+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:57:32.1070041+00:00",
+  "LastUpdate_Achievements": "2023-11-07T06:04:27.2835168+00:00"
 }
