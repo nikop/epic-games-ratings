@@ -18,6 +18,7 @@
 | [The Dungeon of Naheulbeuk](../games/t/the_dungeon_of_naheulbeuk.md) | 88 | 1,490 |
 | [Homeworld: Deserts of Kharak](../games/e/e209b2d1d5384f639335f64e3e6c4bb8.md) | 48 | 1,440 |
 | [The Case of the Golden Idol](../games/t/the_case_of_the_golden_idol.md) | 17 | 1,440 |
+| [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 60 | 1,400 |
 | [Call of the Wild: The Angler™](../games/c/call_of_the_wild__the_angler™.md) | 40 | 1,400 |
 | [Full Moon Rush](../games/f/full_moon_rush.md) | 17 | 1,400 |
 | [Probo Rush](../games/p/probo_rush.md) | 17 | 1,400 |
@@ -31,7 +32,6 @@
 | [KeyWe](../games/k/keywe.md) | 20 | 1,250 |
 | [Destiny 2](../games/d/destiny_2.md) | 23 | 1,240 |
 | [Rogue Legacy 2](../games/r/rogue_legacy_2.md) | 39 | 1,240 |
-| [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 |
 | [Dying Light 2 Stay Human](../games/d/dying_light_2_stay_human.md) | 65 | 1,200 |
 | [GRIME](../games/g/grime.md) | 46 | 1,200 |
 | [The Expanse - A Telltale Series](../games/t/the_expanse_-_a_telltale_series.md) | 35 | 1,200 |

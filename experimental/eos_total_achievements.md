@@ -97,6 +97,7 @@
 | [Toasterball](../games/b/b0c40ea3edbd41f88219ee048d3d6cce.md) | 61 | 1,000 |
 | [Transport Fever 2](../games/t/transport_fever_2.md) | 61 | 1,000 |
 | [60 Seconds! Reatomized](../games/6/60_seconds!_reatomized.md) | 60 | 1,000 |
+| [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 60 | 1,400 |
 | [Curious Expedition 2](../games/c/curious_expedition_2.md) | 60 | 1,000 |
 | [Dungeons 3](../games/d/dungeons_3.md) | 60 | 1,000 |
 | [Life After Death](../games/l/life_after_death.md) | 60 | 1,000 |
@@ -158,7 +159,6 @@
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
 | [The Evil Within 2](../games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 51 | 1,000 |
 | [Against the Storm](../games/a/against_the_storm.md) | 50 | 1,000 |
-| [Age of Wonders 4](../games/a/age_of_wonders_4.md) | 50 | 1,215 |
 | [Arcadegeddon](../games/a/arcadegeddon.md) | 50 | 1,000 |
 | [Ash of Gods: Redemption](../games/b/bf3261d8abc64fdfb73c3f9c4f7870e0.md) | 50 | 1,000 |
 | [Black Book](../games/b/black_book.md) | 50 | 1,000 |
