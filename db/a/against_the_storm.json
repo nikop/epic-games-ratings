@@ -3129,10 +3129,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3211,
       "NumberOfAwardsMax": 439
+    },
+    {
+      "Time": "2023-11-07T21:58:31.8964787+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3212,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3211,
+  "NumberOfAwards": 3212,
   "NumberOfAwardsMax": 439,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3170,7 +3176,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 413
+      "Count": 414
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3197,9 +3203,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17237,
+  "EOS_Progressed": 17238,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13247,6 +13253,11 @@
       "Time": "2023-11-07T20:14:22.1454476+00:00",
       "NumProgressed": 17237,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-07T22:06:31.523665+00:00",
+      "NumProgressed": 17238,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13338,7 +13349,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinFirstGame",
@@ -13362,7 +13373,7 @@
       "Name": "Against All Odds",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearArmory",
@@ -13370,7 +13381,7 @@
       "Name": "Ruined Armory",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearBandit",
@@ -13378,7 +13389,7 @@
       "Name": "Bandit Camp",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearBarren",
@@ -13386,7 +13397,7 @@
       "Name": "Barren Lands",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearBattleground",
@@ -13402,7 +13413,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearDangerous",
@@ -13442,7 +13453,7 @@
       "Name": "Haunted Forest",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearLevitating",
@@ -13450,7 +13461,7 @@
       "Name": "Levitating Monument",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearMines",
@@ -13458,7 +13469,7 @@
       "Name": "Flooded Mines",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearMonastery",
@@ -13466,7 +13477,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearOutpost",
@@ -13482,7 +13493,7 @@
       "Name": "Lost Colonies",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearStatue",
@@ -13490,7 +13501,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearTemple",
@@ -13506,7 +13517,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinNearWatchtower",
@@ -13530,7 +13541,7 @@
       "Name": "Cursed Lands",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinOnMarshlands",
@@ -13626,7 +13637,7 @@
       "Name": "Trade Baron",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "WinWithoutDeath",
@@ -13657,15 +13668,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17237,
+      "Progressed": 17238,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-11-07T02:17:46.2904842+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:06:28.1655774+00:00",
+  "LastChanged": "2023-11-07T21:58:31.8964785+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:06:31.5236645+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:58:40.6656171+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:06:28.1656418+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:58:31.8964791+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:06:31.5237712+00:00"
 }

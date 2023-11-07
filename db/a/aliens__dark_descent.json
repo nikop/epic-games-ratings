@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -5795,9 +5795,9 @@
       "ID": "ACH_KILL_UNDETECTED",
       "SetID": "816efe",
       "Name": "Call Me Snake",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2286
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -6052,8 +6052,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-01T20:58:36.9657779+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:04:49.5230185+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:04:52.9849196+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:57:08.0825285+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:04:49.523065+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:56:56.8794917+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:04:52.9849638+00:00"
 }

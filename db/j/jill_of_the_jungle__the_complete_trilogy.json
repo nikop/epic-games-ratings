@@ -4,7 +4,7 @@
   "ProductSlug": "jill-of-the-jungle-the-complete-trilogy",
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-04-26T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1943,
+  "EOS_Progressed": 1944,
   "EOS_Completed": 152,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 7.82,
   "EosHistory": [
@@ -6967,6 +6967,11 @@
       "Time": "2023-11-07T17:13:11.5899887+00:00",
       "NumProgressed": 1943,
       "NumCompleted": 152
+    },
+    {
+      "Time": "2023-11-07T22:04:51.7763695+00:00",
+      "NumProgressed": 1944,
+      "NumCompleted": 152
     }
   ],
   "TotalAchievements": 5,
@@ -6978,7 +6983,7 @@
       "Name": "Welcome to the Jungle",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1944
     },
     {
       "ID": "2",
@@ -7010,14 +7015,14 @@
       "Name": "Jill the Champion",
       "Percentage": 8,
       "XP": 200,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     }
   ],
   "AchievementSets": [
     {
       "ID": "dg4cch5",
       "IsBase": true,
-      "Progressed": 1943,
+      "Progressed": 1944,
       "Completed": 152
     }
   ],
@@ -7025,8 +7030,8 @@
   "FirstSeenRating": "2023-04-27T14:58:11.4280155+00:00",
   "FirstSeenAchievements": "2023-04-26T15:59:54.0239456+00:00",
   "LastChanged": "2023-04-27T14:58:11.4280156+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:04:48.3464119+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:04:51.776369+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.7737994+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:58:04.3790417+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:04:48.3464622+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:57:56.4334888+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:04:51.7764152+00:00"
 }

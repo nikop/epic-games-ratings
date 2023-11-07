@@ -2,10 +2,10 @@
   "ID": "d400b874b09b4cd49d149358c67aa453",
   "Name": "Electrician Simulator",
   "ProductSlug": "electrician-simulator-164e9f",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
     "PcReleaseDate": "2022-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 484,
+  "EOS_Progressed": 485,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1614,6 +1614,11 @@
       "Time": "2023-11-07T04:07:58.8773967+00:00",
       "NumProgressed": 484,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T22:08:08.6943747+00:00",
+      "NumProgressed": 485,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -1674,7 +1679,7 @@
       "Name": "I love customers",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -1704,9 +1709,9 @@
       "ID": "ACH_FIRST_SHOCK",
       "SetID": "al4k4nh",
       "Name": "First shock",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -1770,7 +1775,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 479
+      "UsersEstimate": 480
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -1794,7 +1799,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -1833,14 +1838,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 484,
+      "Progressed": 485,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:08:06.9262781+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:08:08.694374+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:07.7959564+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:00:15.4986068+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:08:06.9263004+00:00"
+  "LastUpdate_Ratings": "2023-11-07T22:00:00.5529092+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:08:08.6943982+00:00"
 }

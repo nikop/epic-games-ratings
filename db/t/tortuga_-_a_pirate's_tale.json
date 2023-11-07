@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16936,
+  "EOS_Progressed": 16937,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -6153,6 +6153,11 @@
       "Time": "2023-11-07T21:05:11.6844009+00:00",
       "NumProgressed": 16936,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T22:05:15.0520146+00:00",
+      "NumProgressed": 16937,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6164,7 +6169,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16089
+      "UsersEstimate": 16090
     },
     {
       "ID": "ACH001",
@@ -6172,7 +6177,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14565
+      "UsersEstimate": 14566
     },
     {
       "ID": "ACH0010",
@@ -6204,7 +6209,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3895
+      "UsersEstimate": 3896
     },
     {
       "ID": "ACH0014",
@@ -6260,7 +6265,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12194
+      "UsersEstimate": 12195
     },
     {
       "ID": "ACH0020",
@@ -6324,7 +6329,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14734
+      "UsersEstimate": 14735
     },
     {
       "ID": "ACH005",
@@ -6371,7 +6376,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16936,
+      "Progressed": 16937,
       "Completed": 1
     }
   ],
@@ -6379,8 +6384,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-22T02:57:48.4170494+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:05:11.6844005+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:05:15.0520143+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:07.1150824+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:58:30.2413192+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:05:11.6844504+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:58:21.7178699+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:05:15.0520559+00:00"
 }

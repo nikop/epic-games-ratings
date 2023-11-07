@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1992,9 +1992,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15200,
+  "EOS_Progressed": 15201,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15582,6 +15582,11 @@
       "Time": "2023-11-07T17:14:31.2483087+00:00",
       "NumProgressed": 15200,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-07T22:05:52.7823813+00:00",
+      "NumProgressed": 15201,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16255,9 +16260,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_WARRIOR",
       "SetID": "9201eeb",
       "Name": "Warrior",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 456
+      "UsersEstimate": 304
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_WHITE_DEATH",
@@ -17583,9 +17588,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
       "SetID": "7l38kb8",
       "Name": "Mythology",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 304
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_REDEMPTION",
@@ -18328,21 +18333,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15200,
+      "Progressed": 15201,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15200,
+      "Progressed": 15201,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-07T17:00:23.6286983+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:05:49.3263074+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:05:52.7823807+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:57:30.2601418+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:05:49.3271871+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:57:18.6624951+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:05:52.7832472+00:00"
 }

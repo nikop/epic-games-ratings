@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -537,9 +537,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3264,
+  "EOS_Progressed": 3265,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 290,
+  "EOS_NewPlayers": 287,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4442,6 +4442,11 @@
       "Time": "2023-11-07T21:04:22.3070407+00:00",
       "NumProgressed": 3264,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T22:04:25.960309+00:00",
+      "NumProgressed": 3265,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4550,7 +4555,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1860
+      "UsersEstimate": 1861
     },
     {
       "ID": "achievement_21",
@@ -4566,7 +4571,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "achievement_4",
@@ -4621,7 +4626,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3264,
+      "Progressed": 3265,
       "Completed": 0
     }
   ],
@@ -4629,8 +4634,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-07T19:00:35.5326142+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:04:22.3070403+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:04:25.9603086+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:59:32.012474+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:04:22.3070923+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:59:17.6035867+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:04:25.9603345+00:00"
 }

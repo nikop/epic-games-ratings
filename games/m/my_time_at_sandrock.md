@@ -6,23 +6,23 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 240.00% | ~583 |
-| Iron Chef | 198.00% | ~481 |
-| Greeno-B-Gone | 120.00% | ~292 |
-| Your Especially Earned Trajectory | 95.00% | ~231 |
-| No Mountain Wide Enough | 60.00% | ~146 |
-| Can We Keep It? | 58.00% | ~141 |
-| On that Grindset | 56.00% | ~136 |
+| Adept Assembler | 241.00% | ~583 |
+| Iron Chef | 198.00% | ~479 |
+| Greeno-B-Gone | 120.00% | ~290 |
+| Your Especially Earned Trajectory | 95.00% | ~230 |
+| No Mountain Wide Enough | 61.00% | ~148 |
+| Can We Keep It? | 58.00% | ~140 |
+| On that Grindset | 57.00% | ~138 |
 | My Time Mansion | 43.00% | ~104 |
-| Pack Mule | 41.00% | ~100 |
+| Pack Mule | 42.00% | ~102 |
 | Financially Secure | 40.00% | ~97 |
 | Yakmel Whisperer | 40.00% | ~97 |
-| Diamonds are Forever | 39.00% | ~95 |
+| Diamonds are Forever | 40.00% | ~97 |
+| Happier-est Place on Earth | 36.00% | ~87 |
 | Mole Masher | 36.00% | ~87 |
-| Happier-est Place on Earth | 35.00% | ~85 |
-| Knowledge is Power | 34.00% | ~83 |
-| Unboxing | 34.00% | ~83 |
-| Call Me Fishmael | 34.00% | ~83 |
+| Unboxing | 36.00% | ~87 |
+| Knowledge is Power | 34.00% | ~82 |
+| Call Me Fishmael | 34.00% | ~82 |
 | Big Game Hunter | 33.00% | ~80 |
 | Better Late than Never | 33.00% | ~80 |
 | Got Served | 33.00% | ~80 |
@@ -31,21 +31,21 @@ Number of Ratings: 892  (23.09.2022)
 | Anti-Santa | 31.00% | ~75 |
 | I Do! | 31.00% | ~75 |
 | Officially Official | 30.00% | ~73 |
-| One of the Cool Kids | 29.00% | ~70 |
-| Finishing Touches | 28.00% | ~68 |
-| Chatterbox | 28.00% | ~68 |
-| Panda-kin | 23.00% | ~56 |
+| One of the Cool Kids | 30.00% | ~73 |
+| Finishing Touches | 29.00% | ~70 |
+| Chatterbox | 29.00% | ~70 |
+| Panda-kin | 24.00% | ~58 |
 | Jewel of the Eufaula | 23.00% | ~56 |
 | First Love | 22.00% | ~53 |
 | Who Ya Gonna Call...? | 21.00% | ~51 |
 | Builder of the Month | 18.00% | ~44 |
+| Bridging the Gap | 17.00% | ~41 |
 | Martle's Dream | 17.00% | ~41 |
 | He Can Spin A Yarn... | 17.00% | ~41 |
-| Bridging the Gap | 16.00% | ~39 |
-| Waste Not Want Not | 16.00% | ~39 |
-| Newton | 16.00% | ~39 |
+| Waste Not Want Not | 17.00% | ~41 |
+| Newton | 17.00% | ~41 |
 | Elementary, My Dear | 15.00% | ~36 |
-| Got the Flow Back | 13.00% | ~32 |
+| Got the Flow Back | 14.00% | ~34 |
 | Commissions, commissions...! | 12.00% | ~29 |
 | Just What I Always Wanted! | 12.00% | ~29 |
 | Do Your Part | 12.00% | ~29 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243 (Ranked 349)  
+Progressed: 242 (Ranked 349)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,8 +80,8 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-07 | 246 | 0 |
 ## Awards
 Max (Character Customization): 580  (Ranked 194)  
-Sum: 1,322 (Ranked 237)  
-Diff (max vs sum): -43  
+Sum: 1,322 (Ranked 238)  
+Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 580 |

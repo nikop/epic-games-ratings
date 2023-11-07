@@ -830,9 +830,9 @@
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 248
     },
     {
       "ID": "EV_ACH03",
@@ -854,25 +854,25 @@
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 270
     },
     {
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 220
     },
     {
       "ID": "EV_ACH07",
       "SetID": "6jeac23",
       "Name": "3000 Year Blackout",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 214
     },
     {
       "ID": "EV_ACH08",
@@ -926,9 +926,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 270
     },
     {
       "ID": "EV_ACH15",
@@ -942,25 +942,25 @@
       "ID": "EV_ACH16",
       "SetID": "6jeac23",
       "Name": "Krugmazing",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 352
+      "UsersEstimate": 358
     },
     {
       "ID": "EV_ACH17",
       "SetID": "6jeac23",
       "Name": "Iceborn",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 286
+      "UsersEstimate": 292
     },
     {
       "ID": "EV_ACH18",
       "SetID": "6jeac23",
       "Name": "Snowy Poro",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "EV_ACH19",
@@ -974,9 +974,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 226
     },
     {
       "ID": "EV_ACH21",
@@ -990,9 +990,9 @@
       "ID": "EV_ACH22",
       "SetID": "6jeac23",
       "Name": "Bullseye",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 176
+      "UsersEstimate": 182
     },
     {
       "ID": "EV_ACH23",
@@ -1078,9 +1078,9 @@
       "ID": "EV_ACH33",
       "SetID": "6jeac23",
       "Name": "Notai Notes",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 379
     },
     {
       "ID": "EV_ACH34",
@@ -1102,9 +1102,9 @@
       "ID": "EV_ACH36",
       "SetID": "6jeac23",
       "Name": "The Relentless Storm",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 231
     },
     {
       "ID": "EV_ACH37",
@@ -1181,8 +1181,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:08:47.0494781+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:08:48.7633054+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:00:43.5756795+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:08:47.0495094+00:00"
+  "LastUpdate_Ratings": "2023-11-07T22:02:38.2763133+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:08:48.7633382+00:00"
 }

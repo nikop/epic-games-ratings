@@ -6237,9 +6237,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714651,
+  "EOS_Progressed": 714687,
   "EOS_Completed": 2354,
-  "EOS_NewPlayers": 5154,
+  "EOS_NewPlayers": 5142,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29202,6 +29202,11 @@
       "Time": "2023-11-07T21:05:27.9233165+00:00",
       "NumProgressed": 714651,
       "NumCompleted": 2354
+    },
+    {
+      "Time": "2023-11-07T22:05:31.3103252+00:00",
+      "NumProgressed": 714687,
+      "NumCompleted": 2354
     }
   ],
   "TotalAchievements": 51,
@@ -29283,9 +29288,9 @@
       "ID": "ach_contender",
       "SetID": "7km39fm",
       "Name": "On Safari",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 715
+      "UsersEstimate": 1429
     },
     {
       "ID": "ach_defensive",
@@ -29371,9 +29376,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 3573
     },
     {
       "ID": "ach_impressive_aim",
@@ -29579,9 +29584,9 @@
       "ID": "ach_dark_magic",
       "SetID": "344c43k",
       "Name": "Whatever It Takes",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 805
     },
     {
       "ID": "ach_gardening_tools",
@@ -29620,13 +29625,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714651,
+      "Progressed": 714687,
       "Completed": 2354
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40193,
+      "Progressed": 40229,
       "Completed": 36484
     }
   ],
@@ -29634,8 +29639,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-07T20:58:02.4189085+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:05:27.9233162+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:05:31.3103247+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:58:02.418909+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:05:27.9234536+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:57:54.4211719+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:05:31.3104596+00:00"
 }

@@ -5774,9 +5774,9 @@
       "ID": "ACH_GLOBETROTTER",
       "SetID": "72olkc5",
       "Name": "Globetrotter",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_GO-WITH-THE-FLOW",
@@ -6070,8 +6070,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-07T05:58:43.3315994+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:04:37.7787649+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:04:41.4928209+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:14.8563448+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:58:34.3058168+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:04:37.7788276+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:58:26.7941854+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:04:41.492878+00:00"
 }

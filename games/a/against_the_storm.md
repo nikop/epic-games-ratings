@@ -18,21 +18,21 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 5.00% | ~862 |
 | Watchtower | 5.00% | ~862 |
 | A Real Challenge | 5.00% | ~862 |
-| Homesick | 4.00% | ~689 |
-| Against All Odds | 4.00% | ~689 |
-| Ruined Armory | 4.00% | ~689 |
-| Bandit Camp | 4.00% | ~689 |
-| Barren Lands | 4.00% | ~689 |
-| Sparkdew Crystals | 4.00% | ~689 |
-| Haunted Forest | 4.00% | ~689 |
-| Levitating Monument | 4.00% | ~689 |
-| Flooded Mines | 4.00% | ~689 |
-| Monastery of the Holy Flame | 4.00% | ~689 |
-| Lost Colonies | 4.00% | ~689 |
-| Statue of the Forefathers | 4.00% | ~689 |
-| Corrosive Torrent | 4.00% | ~689 |
-| Cursed Lands | 4.00% | ~689 |
-| Trade Baron | 4.00% | ~689 |
+| Homesick | 4.00% | ~690 |
+| Against All Odds | 4.00% | ~690 |
+| Ruined Armory | 4.00% | ~690 |
+| Bandit Camp | 4.00% | ~690 |
+| Barren Lands | 4.00% | ~690 |
+| Sparkdew Crystals | 4.00% | ~690 |
+| Haunted Forest | 4.00% | ~690 |
+| Levitating Monument | 4.00% | ~690 |
+| Flooded Mines | 4.00% | ~690 |
+| Monastery of the Holy Flame | 4.00% | ~690 |
+| Lost Colonies | 4.00% | ~690 |
+| Statue of the Forefathers | 4.00% | ~690 |
+| Corrosive Torrent | 4.00% | ~690 |
+| Cursed Lands | 4.00% | ~690 |
+| Trade Baron | 4.00% | ~690 |
 | Serving Ale | 3.00% | ~517 |
 | Refinery | 3.00% | ~517 |
 | Dangerous Lands | 3.00% | ~517 |
@@ -57,7 +57,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,237 (Ranked 139)  
+Progressed: 17,238 (Ranked 139)  
 Completed: 53 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,16 +258,16 @@ Completed: 53 (0.31%) (Ranked 222)
 | 2023-11-04 | 17,193 | 53 |
 | 2023-11-05 | 17,211 | 53 |
 | 2023-11-06 | 17,229 | 53 |
-| 2023-11-07 | 17,237 | 53 |
+| 2023-11-07 | 17,238 | 53 |
 ## Awards
 Max (Quickly Understood Controls): 439  (Ranked 217)  
-Sum: 3,211 (Ranked 170)  
+Sum: 3,212 (Ranked 170)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 439 |
 | This game is Relaxing | 428 |
-| This game is Great for Beginners | 413 |
+| This game is Great for Beginners | 414 |
 | This game is Extremely Fun | 406 |
 | This game is Highly Recommended | 388 |
 | This game has Unique Visuals | 324 |
@@ -503,4 +503,4 @@ Diff (max vs sum): 47
 | 2023-11-04 | 4.82 | - | 437 | 3,205 |
 | 2023-11-05 | 4.82 | - | 437 | 3,207 |
 | 2023-11-06 | 4.82 | - | 439 | 3,210 |
-| 2023-11-07 | 4.82 | - | 439 | 3,211 |
+| 2023-11-07 | 4.82 | - | 439 | 3,212 |

@@ -121,7 +121,7 @@
   "Tags": [],
   "EOS_Progressed": 7331,
   "EOS_Completed": 111,
-  "EOS_NewPlayers": 1902,
+  "EOS_NewPlayers": 1900,
   "EOS_NewCompleters": 58,
   "EOS_Completed_Percentage": 1.51,
   "EosHistory": [
@@ -2669,9 +2669,9 @@
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "7opfcp",
       "Name": "Days Of Innocence",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 2126
+      "UsersEstimate": 2199
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -2773,9 +2773,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "7opfcp",
       "Name": "Wanna Come To My Place For Dinner?",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 4912
+      "UsersEstimate": 4985
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -2934,8 +2934,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-07T13:02:45.1718372+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:03:18.3346258+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:03:22.306311+00:00",
   "LastUpdate_AppInfo": "2023-11-03T22:56:56.8302113+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:58:08.0844716+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:03:18.3346715+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:57:59.5519015+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:03:22.3063801+00:00"
 }

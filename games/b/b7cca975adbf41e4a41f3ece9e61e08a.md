@@ -8,7 +8,7 @@ Rating: 4.82 (Ranked 63)
 | Last Night...Did We... | 93.00% | ~6,818 |
 | I Challenge You To Save More Money! | 88.00% | ~6,451 |
 | I Love How Tough You Are | 74.00% | ~5,425 |
-| Wanna Come To My Place For Dinner? | 67.00% | ~4,912 |
+| Wanna Come To My Place For Dinner? | 68.00% | ~4,985 |
 | What I Want Is You | 61.00% | ~4,472 |
 | To Be Or Not To Be | 58.00% | ~4,252 |
 | Love Actually | 49.00% | ~3,592 |
@@ -24,7 +24,7 @@ Rating: 4.82 (Ranked 63)
 | Absolutely Elegant | 33.00% | ~2,419 |
 | Still Single | 32.00% | ~2,346 |
 | Go Get Some Fries On The Pier | 30.00% | ~2,199 |
-| Days Of Innocence | 29.00% | ~2,126 |
+| Days Of Innocence | 30.00% | ~2,199 |
 | David | 29.00% | ~2,126 |
 | All I Have Is Money | 25.00% | ~1,833 |
 | Lover In Dark Alley | 25.00% | ~1,833 |

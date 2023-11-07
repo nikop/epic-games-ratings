@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 22,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11751,9 +11751,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 449463,
+  "EOS_Progressed": 449490,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5551,
+  "EOS_NewPlayers": 5545,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34761,6 +34761,11 @@
       "Time": "2023-11-07T21:04:12.3598865+00:00",
       "NumProgressed": 449463,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T22:04:16.4563815+00:00",
+      "NumProgressed": 449490,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -34842,9 +34847,9 @@
       "ID": "achievement_a_tale_of_two_families",
       "SetID": "67mdiil",
       "Name": "A tale of two Families",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_aaa_credit",
@@ -37675,21 +37680,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 449463,
+      "Progressed": 449490,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 449463,
+      "Progressed": 449490,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-07T20:57:35.9702302+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:04:12.3598861+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:04:16.4563811+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:57:35.9702307+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:04:12.3609092+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:57:25.0657597+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:04:16.457516+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 971,
+  "Ranking_Rating": 970,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 226,
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -25245,6 +25245,6 @@
   "LastChanged": "2023-11-05T21:02:48.30835+00:00",
   "LastChanged_Achievements": "2023-11-07T21:06:33.5635845+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.5253438+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:02:51.0342683+00:00",
+  "LastUpdate_Ratings": "2023-11-07T22:02:54.3640946+00:00",
   "LastUpdate_Achievements": "2023-11-07T21:06:33.5637331+00:00"
 }

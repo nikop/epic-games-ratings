@@ -5,16 +5,16 @@ Rating: 4.50 (Ranked 585)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 7.00% | ~2,132 |
+| Stylish | 7.00% | ~2,133 |
 | Advancement | 5.00% | ~1,523 |
 | Meticulously Efficient | 5.00% | ~1,523 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,218 |
-| Discovery | 4.00% | ~1,218 |
-| Fully Upgraded | 4.00% | ~1,218 |
-| Solo Capture | 4.00% | ~1,218 |
-| Swift Rift Removers | 4.00% | ~1,218 |
-| Teamwork | 4.00% | ~1,218 |
-| Vaporous Expansion | 4.00% | ~1,218 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,219 |
+| Discovery | 4.00% | ~1,219 |
+| Fully Upgraded | 4.00% | ~1,219 |
+| Solo Capture | 4.00% | ~1,219 |
+| Swift Rift Removers | 4.00% | ~1,219 |
+| Teamwork | 4.00% | ~1,219 |
+| Vaporous Expansion | 4.00% | ~1,219 |
 | Clutch Capture | 3.00% | ~914 |
 | Cultured | 3.00% | ~914 |
 | Ghostbuster In Training | 3.00% | ~914 |
@@ -46,8 +46,8 @@ Rating: 4.50 (Ranked 585)
 | Fragile Panes | 0.80% | ~244 |
 | Liability | 0.80% | ~244 |
 | Surprise! | 0.80% | ~244 |
+| Therapeutic | 0.60% | ~183 |
 | Rift Seeker | 0.50% | ~152 |
-| Therapeutic | 0.50% | ~152 |
 | Master Collector | 0.40% | ~122 |
 | Ghost Expert | 0.20% | ~61 |
 | Little Help Here | 0.20% | ~61 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 585)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,462 (Ranked 122)  
+Progressed: 30,467 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 65 (0.21%) (Ranked 238)
 | 2023-11-04 | 30,114 | 65 |
 | 2023-11-05 | 30,292 | 65 |
 | 2023-11-06 | 30,390 | 65 |
-| 2023-11-07 | 30,462 | 65 |
+| 2023-11-07 | 30,467 | 65 |
 ## Awards
 Max (Great for Beginners): 305  (Ranked 245)  
 Sum: 2,724 (Ranked 180)  

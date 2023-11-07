@@ -1,11 +1,11 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 4.00 (Ranked 985)  
+Rating: 4.00 (Ranked 984)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I don't feel so good | 41.00% | ~695 |
+| I don't feel so good | 42.00% | ~712 |
 | Electrician | 34.00% | ~576 |
 | Fear my botany powers, Mars | 33.00% | ~559 |
 | Zero Waste | 30.00% | ~508 |

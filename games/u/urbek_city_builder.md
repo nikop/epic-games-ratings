@@ -9,10 +9,10 @@
 | The spiritual world... | 5.00% | ~19 |
 | It is nice to share with friends in the city | 5.00% | ~19 |
 | Sport is good for you | 5.00% | ~19 |
+| I like my life | 4.00% | ~15 |
 | The woodcutter | 4.00% | ~15 |
 | Soviet town | 4.00% | ~15 |
 | I like books | 3.00% | ~11 |
-| I like my life | 3.00% | ~11 |
 | Clean energy | 3.00% | ~11 |
 | Bucolic city | 3.00% | ~11 |
 | I love books! | 1.00% | ~4 |

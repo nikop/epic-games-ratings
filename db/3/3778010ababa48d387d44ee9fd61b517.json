@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 585,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -205,9 +205,9 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -395,8 +395,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:04:43.3148102+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:04:46.9044315+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:09.7585186+00:00",
-  "LastUpdate_Ratings": "2023-11-07T21:00:41.4500996+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:04:43.3148342+00:00"
+  "LastUpdate_Ratings": "2023-11-07T22:02:36.0150668+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:04:46.904455+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "endling-extinction-is-forever",
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -854,6 +854,11 @@
       "Time": "2023-11-07T15:10:10.3152742+00:00",
       "NumProgressed": 533,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-07T22:09:02.1992909+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 28,
@@ -871,9 +876,9 @@
       "ID": "TROP001",
       "SetID": "9n0dl35",
       "Name": "We Are a Family",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "TROP002",
@@ -905,7 +910,7 @@
       "Name": "A Friend in Need",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "TROP006",
@@ -929,7 +934,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "TROP009",
@@ -937,7 +942,7 @@
       "Name": "Surviving",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "TROP010",
@@ -999,9 +1004,9 @@
       "ID": "TROP017",
       "SetID": "9n0dl35",
       "Name": "Omnivore",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "TROP018",
@@ -1033,7 +1038,7 @@
       "Name": "Tasty",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "TROP022",
@@ -1073,7 +1078,7 @@
       "Name": "Lullaby",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "TROP027",
@@ -1088,7 +1093,7 @@
     {
       "ID": "9n0dl35",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 3
     }
   ],
@@ -1096,8 +1101,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.66574+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:20.8598233+00:00",
   "LastChanged": "2023-03-31T05:58:32.6657401+00:00",
-  "LastChanged_Achievements": "2023-11-07T21:09:00.3178588+00:00",
+  "LastChanged_Achievements": "2023-11-07T22:09:02.1992904+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:43.1871778+00:00",
-  "LastUpdate_Ratings": "2023-11-07T20:57:40.8790965+00:00",
-  "LastUpdate_Achievements": "2023-11-07T21:09:00.3178825+00:00"
+  "LastUpdate_Ratings": "2023-11-07T21:57:29.757244+00:00",
+  "LastUpdate_Achievements": "2023-11-07T22:09:02.199311+00:00"
 }
