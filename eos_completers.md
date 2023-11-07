@@ -6,14 +6,14 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.53% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.51% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 11 | [greensheen Production](games/g/greensheen_production.md) | 28.57% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.00% |
 | 12 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 12 | [Overloop](games/o/overloop.md) | 25.00% |
+| 14 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.92% |
 | 15 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 16 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 22.70% |
 | 17 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
@@ -61,7 +61,7 @@
 | 59 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.88% |
-| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.62% |
+| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.83% |
 | 63 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.56% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 65 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
@@ -109,7 +109,7 @@
 | 107 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
 | 109 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.56% |
-| 109 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.56% |
+| 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.55% |
 | 111 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 112 | [Lamentum](games/l/lamentum.md) | 2.43% |
 | 113 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
@@ -123,8 +123,8 @@
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
 | 122 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.89% |
 | 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
-| 124 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.82% |
-| 125 | [Sifu](games/s/sifu.md) | 1.81% |
+| 124 | [Sifu](games/s/sifu.md) | 1.81% |
+| 124 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.81% |
 | 126 | [Frogun](games/f/frogun.md) | 1.79% |
 | 127 | [Somerville](games/s/somerville.md) | 1.75% |
 | 128 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.72% |
@@ -134,7 +134,7 @@
 | 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.60% |
 | 133 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.54% |
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.54% |
-| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.51% |
+| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.52% |
 | 136 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 137 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
 | 137 | [Late Shift](games/l/late_shift.md) | 1.43% |
@@ -144,14 +144,14 @@
 | 142 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
 | 143 | [Chorus](games/c/chorus.md) | 1.34% |
 | 143 | [Poosh XL](games/p/poosh_xl.md) | 1.34% |
-| 145 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.33% |
+| 145 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.32% |
 | 146 | [Lemon Cake](games/l/lemon_cake.md) | 1.28% |
 | 147 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.27% |
 | 147 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.27% |
 | 149 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.25% |
 | 150 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
-| 151 | [Adios](games/a/adios.md) | 1.06% |
-| 151 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
+| 151 | [Adios](games/a/adios.md) | 1.07% |
+| 152 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
 | 153 | [Infindustry](games/i/infindustry.md) | 1.05% |
 | 154 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 154 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
@@ -211,10 +211,10 @@
 | 208 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
 | 210 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.38% |
 | 210 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
+| 210 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
 | 210 | [Train Valley](games/t/train_valley.md) | 0.38% |
-| 213 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.37% |
-| 213 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.37% |
-| 213 | [The Surge](games/t/the_surge.md) | 0.37% |
+| 214 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.37% |
+| 214 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 216 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 216 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 218 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.34% |
