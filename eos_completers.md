@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.66% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.64% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -61,7 +61,7 @@
 | 59 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.88% |
-| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.72% |
+| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.68% |
 | 63 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.58% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 65 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
@@ -123,10 +123,10 @@
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
 | 122 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.89% |
 | 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
-| 123 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.85% |
+| 124 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.84% |
 | 125 | [Sifu](games/s/sifu.md) | 1.81% |
 | 126 | [Frogun](games/f/frogun.md) | 1.79% |
-| 127 | [Somerville](games/s/somerville.md) | 1.76% |
+| 127 | [Somerville](games/s/somerville.md) | 1.75% |
 | 128 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.72% |
 | 129 | [Night Book](games/n/night_book.md) | 1.69% |
 | 130 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.63% |
@@ -134,10 +134,10 @@
 | 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.60% |
 | 133 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.54% |
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.54% |
-| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.50% |
+| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.49% |
 | 136 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 137 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.44% |
-| 138 | [Late Shift](games/l/late_shift.md) | 1.43% |
+| 137 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
+| 137 | [Late Shift](games/l/late_shift.md) | 1.43% |
 | 139 | [Iron Danger](games/i/iron_danger.md) | 1.37% |
 | 139 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.37% |
 | 141 | [Ten Dates](games/t/ten_dates.md) | 1.36% |
@@ -153,8 +153,8 @@
 | 151 | [Adios](games/a/adios.md) | 1.06% |
 | 151 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
 | 153 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 153 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.05% |
-| 155 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
+| 154 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
+| 154 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 156 | [Sable](games/s/sable.md) | 1.01% |
 | 157 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 1.00% |
 | 158 | [Trifox](games/t/trifox.md) | 0.98% |
