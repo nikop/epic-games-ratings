@@ -8,7 +8,6 @@ Rating: 4.55 (Ranked 500)
 | Oyedang, Kopengs | 6.00% | ~884 |
 | Bosmang | 3.00% | ~442 |
 | The Pit and the Pirates | 2.00% | ~295 |
-| Data Archivist | 2.00% | ~295 |
 | Stogie for Fogey | 2.00% | ~295 |
 | Drug Gifter | 2.00% | ~295 |
 | Spore Taste | 2.00% | ~295 |
@@ -23,6 +22,7 @@ Rating: 4.55 (Ranked 500)
 | Safe Cracker | 2.00% | ~14 |
 | Zen Master | 2.00% | ~14 |
 | Madame Undersecretary | 2.00% | ~14 |
+| Data Archivist | 1.00% | ~147 |
 | Thorston Mayer | 1.00% | ~147 |
 | Khan's Revenge | 1.00% | ~147 |
 | Master Negotiator | 1.00% | ~7 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,733 (Ranked 146)  
+Progressed: 14,735 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 33 (0.22%) (Ranked 236)
 | 2023-11-04 | 14,643 | 32 |
 | 2023-11-05 | 14,691 | 32 |
 | 2023-11-06 | 14,715 | 33 |
-| 2023-11-07 | 14,733 | 33 |
+| 2023-11-07 | 14,735 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

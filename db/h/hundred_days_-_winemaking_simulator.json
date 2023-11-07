@@ -977,10 +977,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 1724,
       "NumberOfAwardsMax": 206
+    },
+    {
+      "Time": "2023-11-07T18:01:57.8090043+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 1725,
+      "NumberOfAwardsMax": 206
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1724,
+  "NumberOfAwards": 1725,
   "NumberOfAwardsMax": 206,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -988,7 +994,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 178
+      "Count": 179
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1045,9 +1051,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11387,
+  "EOS_Progressed": 11397,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1030,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9245,6 +9251,11 @@
       "Time": "2023-11-07T17:15:52.0898348+00:00",
       "NumProgressed": 11387,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-07T18:09:04.9524695+00:00",
+      "NumProgressed": 11397,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9257,7 +9268,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "a_10",
@@ -9305,7 +9316,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4555
+      "UsersEstimate": 4559
     },
     {
       "ID": "a_19",
@@ -9313,7 +9324,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "a_2",
@@ -9321,7 +9332,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "a_20",
@@ -9329,7 +9340,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "a_21",
@@ -9337,7 +9348,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "a_22",
@@ -9345,7 +9356,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "a_23",
@@ -9353,7 +9364,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "a_25",
@@ -9361,7 +9372,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "a_26",
@@ -9504,16 +9515,16 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11387,
+      "Progressed": 11397,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:15.0097479+00:00",
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
-  "LastChanged": "2023-11-07T17:09:30.2481735+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:15:52.0898345+00:00",
+  "LastChanged": "2023-11-07T18:01:57.8090042+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:09:04.9524691+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.8121034+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:09:30.2481739+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:15:52.089933+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:01:57.8090045+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:09:04.9525262+00:00"
 }

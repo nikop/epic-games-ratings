@@ -6,10 +6,10 @@ Rating: 4.75 (Ranked 142)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~19,678 |
-| The Killing Jar | 8.00% | ~17,491 |
-| Expanding Horizons | 7.00% | ~15,305 |
-| Quest for Survival | 7.00% | ~15,305 |
-| Not Your Average Trait | 7.00% | ~15,305 |
+| The Killing Jar | 8.00% | ~17,492 |
+| Expanding Horizons | 7.00% | ~15,306 |
+| Quest for Survival | 7.00% | ~15,306 |
+| Not Your Average Trait | 7.00% | ~15,306 |
 | Gleaming the Cube | 6.00% | ~13,119 |
 | Familiar Face | 6.00% | ~13,119 |
 | Duality | 6.00% | ~13,119 |
@@ -34,14 +34,14 @@ Rating: 4.75 (Ranked 142)
 | The Web | 4.00% | ~8,746 |
 | Scrap Collector | 4.00% | ~8,746 |
 | All These Traits� | 4.00% | ~8,746 |
-| Am I Seeing This? | 3.00% | ~6,559 |
-| Forever is a Long Time Coming | 3.00% | ~6,559 |
-| The Agenda | 3.00% | ~6,559 |
-| Tall Tales | 3.00% | ~6,559 |
-| Bad Moon Rising | 3.00% | ~6,559 |
-| Strapped | 3.00% | ~6,559 |
-| Edgelord | 3.00% | ~6,559 |
-| The Ultimate Weapon | 3.00% | ~6,559 |
+| Am I Seeing This? | 3.00% | ~6,560 |
+| Forever is a Long Time Coming | 3.00% | ~6,560 |
+| The Agenda | 3.00% | ~6,560 |
+| Tall Tales | 3.00% | ~6,560 |
+| Bad Moon Rising | 3.00% | ~6,560 |
+| Strapped | 3.00% | ~6,560 |
+| Edgelord | 3.00% | ~6,560 |
+| The Ultimate Weapon | 3.00% | ~6,560 |
 | Crafty | 2.00% | ~4,373 |
 | Only Human | 2.00% | ~4,373 |
 | Red Room | 2.00% | ~4,373 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 142)
 | The Collector | 1.00% | ~2,186 |
 | Proving Grounds | 1.00% | ~2,186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,643 (Ranked 68)  
+Progressed: 218,650 (Ranked 68)  
 Completed: 432 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 432 (0.20%) (Ranked 244)
 | 2023-11-04 | 217,742 | 429 |
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
-| 2023-11-07 | 218,643 | 432 |
+| 2023-11-07 | 218,650 | 432 |
 ## Awards
 Max (Great Boss Battles): 2,095  (Ranked 109)  
 Sum: 4,681 (Ranked 143)  

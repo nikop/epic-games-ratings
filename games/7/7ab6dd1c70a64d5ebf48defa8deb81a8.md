@@ -7,8 +7,8 @@
 | Break Out | 54.00% | ~90 |
 | Trinity | 28.00% | ~47 |
 | Find Allies | 23.00% | ~38 |
+| Shatter Them All | 23.00% | ~38 |
 | A Taste of Wrath | 22.00% | ~37 |
-| Shatter Them All | 22.00% | ~37 |
 | I Found It | 22.00% | ~37 |
 | The Collector | 22.00% | ~37 |
 | Fashion Victim | 21.00% | ~35 |
@@ -16,8 +16,8 @@
 | Adventurer | 20.00% | ~33 |
 | Scholar | 20.00% | ~33 |
 | Geared Up | 19.00% | ~32 |
+| Stone Collection | 18.00% | ~30 |
 | Tributes of Caladrias | 17.00% | ~28 |
-| Stone Collection | 17.00% | ~28 |
 | Essence Blow | 11.00% | ~18 |
 | Big Bazar | 8.00% | ~13 |
 | Alchemist | 8.00% | ~13 |
@@ -41,7 +41,7 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 167 (Ranked 376)  
+Progressed: 167 (Ranked 377)  
 Completed: 1 (0.60%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |

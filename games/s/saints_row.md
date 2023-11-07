@@ -6,49 +6,49 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~36,448 |
-| To The Nines | 42.00% | ~32,571 |
-| Optimized | 37.00% | ~28,694 |
-| Performance Review | 36.00% | ~27,918 |
-| Making a Name | 35.00% | ~27,142 |
-| Tune Up | 34.00% | ~26,367 |
-| Landlord | 33.00% | ~25,592 |
-| Wet Work | 32.00% | ~24,816 |
-| The Side Job | 31.00% | ~24,040 |
-| Wrecking Ball | 28.00% | ~21,714 |
-| Food for Thought | 27.00% | ~20,938 |
-| Finders Keepers | 26.00% | ~20,163 |
-| A Young Empire | 26.00% | ~20,163 |
-| Work Ethic | 23.00% | ~17,836 |
-| Picking Fights | 20.00% | ~15,510 |
-| Power Players | 19.00% | ~14,734 |
-| Quality Time | 18.00% | ~13,959 |
+| First F#@!ing Day | 47.00% | ~36,451 |
+| To The Nines | 42.00% | ~32,573 |
+| Optimized | 37.00% | ~28,695 |
+| Performance Review | 36.00% | ~27,920 |
+| Making a Name | 35.00% | ~27,144 |
+| Tune Up | 34.00% | ~26,369 |
+| Landlord | 33.00% | ~25,593 |
+| Wet Work | 32.00% | ~24,818 |
+| The Side Job | 31.00% | ~24,042 |
+| Wrecking Ball | 28.00% | ~21,715 |
+| Food for Thought | 27.00% | ~20,940 |
+| Finders Keepers | 26.00% | ~20,164 |
+| A Young Empire | 26.00% | ~20,164 |
+| Work Ethic | 23.00% | ~17,838 |
+| Picking Fights | 20.00% | ~15,511 |
+| Power Players | 19.00% | ~14,735 |
+| Quality Time | 18.00% | ~13,960 |
 | Showdown | 17.00% | ~13,184 |
 | Et tu? | 17.00% | ~13,184 |
-| Took It to The Limit | 16.00% | ~12,408 |
-| Kitted Out | 14.00% | ~10,857 |
-| Masters of Santo Ileso | 12.00% | ~9,306 |
-| Hijacked | 11.00% | ~8,530 |
-| The Spins | 10.00% | ~7,755 |
-| The Mechanic | 10.00% | ~7,755 |
+| Took It to The Limit | 16.00% | ~12,409 |
+| Kitted Out | 14.00% | ~10,858 |
+| Masters of Santo Ileso | 12.00% | ~9,307 |
+| Hijacked | 11.00% | ~8,531 |
+| The Spins | 10.00% | ~7,756 |
+| The Mechanic | 10.00% | ~7,756 |
 | Closet Space | 8.00% | ~6,204 |
 | We could go home, or… | 7.00% | ~5,429 |
 | Challenge Accepted | 7.00% | ~5,429 |
 | A Golden Age | 7.00% | ~5,429 |
 | Producer Credit | 7.00% | ~3,443 |
 | Chaos Tamer | 6.00% | ~4,653 |
-| Face Off | 6.00% | ~2,951 |
+| Face Off | 6.00% | ~2,952 |
 | The Professional | 5.00% | ~3,878 |
 | Untouchable | 5.00% | ~3,878 |
 | Free Refills | 5.00% | ~3,878 |
 | Neighborly | 5.00% | ~3,878 |
 | Smooth Moves | 5.00% | ~3,878 |
-| Hazardous Heist | 5.00% | ~2,459 |
+| Hazardous Heist | 5.00% | ~2,460 |
 | Prankster | 4.00% | ~3,102 |
 | Tourist | 4.00% | ~3,102 |
-| Shopping Spree | 3.00% | ~2,326 |
-| Always Be Hustling | 3.00% | ~2,326 |
-| Community Outreach | 3.00% | ~2,326 |
+| Shopping Spree | 3.00% | ~2,327 |
+| Always Be Hustling | 3.00% | ~2,327 |
+| Community Outreach | 3.00% | ~2,327 |
 | Bonus Round | 2.00% | ~1,551 |
 | It's a Bird! | 1.00% | ~776 |
 | The Collector | 1.00% | ~776 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~155 |
 | Fiesta Time | 0.20% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,550 (Ranked 96)  
+Progressed: 77,555 (Ranked 96)  
 Completed: 51 (0.07%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,16 +261,16 @@ Completed: 51 (0.07%) (Ranked 286)
 | 2023-11-04 | 77,271 | 51 |
 | 2023-11-05 | 77,400 | 51 |
 | 2023-11-06 | 77,492 | 51 |
-| 2023-11-07 | 77,550 | 51 |
+| 2023-11-07 | 77,555 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
-Sum: 8,728 (Ranked 97)  
+Sum: 8,729 (Ranked 97)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 1,075 |
 | This game has Quickly Understood Controls | 1,045 |
-| This game is Great for Beginners | 1,016 |
+| This game is Great for Beginners | 1,017 |
 | This game is Highly Recommended | 1,014 |
 | This game has Diverse Characters | 1,004 |
 | This game has Amazing Characters | 997 |
@@ -496,4 +496,4 @@ Diff (max vs sum): 49
 | 2023-11-03 | 3.79 | - | 1,075 | 8,723 |
 | 2023-11-05 | 3.79 | - | 1,075 | 8,725 |
 | 2023-11-06 | 3.79 | - | 1,075 | 8,726 |
-| 2023-11-07 | 3.79 | - | 1,075 | 8,728 |
+| 2023-11-07 | 3.79 | - | 1,075 | 8,729 |

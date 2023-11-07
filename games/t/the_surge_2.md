@@ -32,9 +32,9 @@ Rating: 4.24 (Ranked 878)
 | Risk Tolerant | 13.00% | ~284 |
 | What A Catchy Song | 13.00% | ~284 |
 | Corrupted Beauty | 12.00% | ~262 |
+| Marked For Success | 12.00% | ~262 |
 | Where It All Began | 12.00% | ~262 |
 | Sorry, Didn't See You There | 12.00% | ~262 |
-| Marked For Success | 11.00% | ~240 |
 | Triplets | 10.00% | ~219 |
 | Denying Prophecy | 9.00% | ~197 |
 | Stimulating The Local Economy | 9.00% | ~197 |

@@ -6,68 +6,68 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 232.00% | ~571 |
-| Iron Chef | 191.00% | ~470 |
-| Greeno-B-Gone | 115.00% | ~283 |
-| Your Especially Earned Trajectory | 92.00% | ~226 |
-| No Mountain Wide Enough | 58.00% | ~143 |
-| Can We Keep It? | 56.00% | ~138 |
-| On that Grindset | 54.00% | ~133 |
-| My Time Mansion | 41.00% | ~101 |
+| Adept Assembler | 235.00% | ~573 |
+| Iron Chef | 193.00% | ~471 |
+| Greeno-B-Gone | 117.00% | ~285 |
+| Your Especially Earned Trajectory | 93.00% | ~227 |
+| No Mountain Wide Enough | 59.00% | ~144 |
+| Can We Keep It? | 57.00% | ~139 |
+| On that Grindset | 55.00% | ~134 |
+| My Time Mansion | 42.00% | ~102 |
 | Pack Mule | 40.00% | ~98 |
-| Financially Secure | 39.00% | ~96 |
-| Yakmel Whisperer | 38.00% | ~93 |
-| Diamonds are Forever | 37.00% | ~91 |
-| Mole Masher | 35.00% | ~86 |
-| Happier-est Place on Earth | 34.00% | ~84 |
-| Knowledge is Power | 32.00% | ~79 |
-| Better Late than Never | 32.00% | ~79 |
-| You Don't Win Friends With Salad | 32.00% | ~79 |
-| Unboxing | 32.00% | ~79 |
-| Call Me Fishmael | 32.00% | ~79 |
-| Big Game Hunter | 31.00% | ~76 |
-| Got Served | 31.00% | ~76 |
+| Financially Secure | 39.00% | ~95 |
+| Yakmel Whisperer | 39.00% | ~95 |
+| Diamonds are Forever | 37.00% | ~90 |
+| Mole Masher | 36.00% | ~88 |
+| Happier-est Place on Earth | 35.00% | ~85 |
+| Knowledge is Power | 32.00% | ~78 |
+| Big Game Hunter | 32.00% | ~78 |
+| Better Late than Never | 32.00% | ~78 |
+| Got Served | 32.00% | ~78 |
+| You Don't Win Friends With Salad | 32.00% | ~78 |
+| Unboxing | 32.00% | ~78 |
+| Call Me Fishmael | 32.00% | ~78 |
+| Anti-Santa | 31.00% | ~76 |
 | I Do! | 31.00% | ~76 |
-| Anti-Santa | 30.00% | ~74 |
-| What Plants Crave | 29.00% | ~71 |
-| Finishing Touches | 28.00% | ~69 |
-| Officially Official | 28.00% | ~69 |
-| One of the Cool Kids | 28.00% | ~69 |
-| Chatterbox | 26.00% | ~64 |
-| Panda-kin | 23.00% | ~57 |
-| Jewel of the Eufaula | 22.00% | ~54 |
-| Who Ya Gonna Call...? | 21.00% | ~52 |
+| What Plants Crave | 30.00% | ~73 |
+| One of the Cool Kids | 29.00% | ~71 |
+| Finishing Touches | 28.00% | ~68 |
+| Officially Official | 28.00% | ~68 |
+| Chatterbox | 26.00% | ~63 |
+| Panda-kin | 23.00% | ~56 |
+| Jewel of the Eufaula | 23.00% | ~56 |
+| Who Ya Gonna Call...? | 21.00% | ~51 |
 | First Love | 20.00% | ~49 |
 | Bridging the Gap | 16.00% | ~39 |
 | Martle's Dream | 16.00% | ~39 |
 | He Can Spin A Yarn... | 16.00% | ~39 |
+| Newton | 16.00% | ~39 |
 | Builder of the Month | 15.00% | ~37 |
-| Newton | 15.00% | ~37 |
-| Elementary, My Dear | 14.00% | ~34 |
-| Waste Not Want Not | 14.00% | ~34 |
-| Do Your Part | 12.00% | ~30 |
+| Elementary, My Dear | 15.00% | ~37 |
+| Waste Not Want Not | 15.00% | ~37 |
+| Got the Flow Back | 12.00% | ~29 |
+| Do Your Part | 12.00% | ~29 |
 | Commissions, commissions...! | 11.00% | ~27 |
 | Lifeline Pipeline | 11.00% | ~27 |
-| Got the Flow Back | 11.00% | ~27 |
 | Just What I Always Wanted! | 11.00% | ~27 |
-| Time Flies | 10.00% | ~25 |
-| Kind of a Big Deal | 10.00% | ~25 |
-| Cardistry | 10.00% | ~25 |
-| Pro Gamer | 10.00% | ~25 |
-| Santa In Training | 10.00% | ~25 |
+| Time Flies | 10.00% | ~24 |
+| Kind of a Big Deal | 10.00% | ~24 |
+| Cardistry | 10.00% | ~24 |
+| Pro Gamer | 10.00% | ~24 |
+| Santa In Training | 10.00% | ~24 |
 | Jack of All Trades | 8.00% | ~20 |
 | Sandrunning Speedster | 8.00% | ~20 |
-| It Belongs in a Museum! | 7.00% | ~17 |
+| It Belongs in a Museum! | 8.00% | ~20 |
 | It's High Noon... | 6.00% | ~15 |
+| Strong Arms | 5.00% | ~12 |
 | Got the Receipt? | 5.00% | ~12 |
-| Strong Arms | 4.00% | ~10 |
 | Sepia Toned Memories | 4.00% | ~10 |
 | Sandrock's Hottest Club | 2.00% | ~5 |
 | Super Spelunker | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 246 (Ranked 347)  
+Progressed: 244 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,13 +80,13 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-07 | 246 | 0 |
 ## Awards
 Max (Character Customization): 579  (Ranked 194)  
-Sum: 1,320 (Ranked 237)  
+Sum: 1,321 (Ranked 237)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 579 |
 | This game is Great for Beginners | 99 |
-| This game is Highly Recommended | 85 |
+| This game is Highly Recommended | 86 |
 | This game is Extremely Fun | 83 |
 | This game has Quickly Understood Controls | 77 |
 | This game has Diverse Characters | 74 |
@@ -254,4 +254,4 @@ Diff (max vs sum): -43
 | 2023-11-04 | 4.68 | - | 576 | 1,257 |
 | 2023-11-05 | 4.68 | - | 576 | 1,259 |
 | 2023-11-06 | 4.68 | - | 579 | 1,317 |
-| 2023-11-07 | 4.68 | - | 579 | 1,320 |
+| 2023-11-07 | 4.68 | - | 579 | 1,321 |

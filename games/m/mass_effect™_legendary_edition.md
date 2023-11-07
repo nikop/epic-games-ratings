@@ -95,8 +95,8 @@
 | Last Resort | 20.00% | ~205 |
 | No One Left Behind | 20.00% | ~205 |
 | Saboteur | 20.00% | ~205 |
+| Last Witness | 20.00% | ~205 |
 | Under Pressure | 19.00% | ~194 |
-| Last Witness | 19.00% | ~194 |
 | Well Connected | 19.00% | ~194 |
 | Executioner | 17.00% | ~174 |
 | Master and Commander | 17.00% | ~174 |

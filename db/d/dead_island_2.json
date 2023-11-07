@@ -4,7 +4,7 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 522,
   "Ranking_Popularity": 53,
-  "Ranking_PopularitySum": 89,
+  "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 25,
@@ -6163,18 +6163,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 10810,
       "NumberOfAwardsMax": 7125
+    },
+    {
+      "Time": "2023-11-07T17:58:31.4730959+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10870,
+      "NumberOfAwardsMax": 7178
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10810,
-  "NumberOfAwardsMax": 7125,
+  "NumberOfAwards": 10870,
+  "NumberOfAwardsMax": 7178,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7125
+      "Count": 7178
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6192,7 +6198,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 520
+      "Count": 527
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6225,9 +6231,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714516,
+  "EOS_Progressed": 714547,
   "EOS_Completed": 2353,
-  "EOS_NewPlayers": 5194,
+  "EOS_NewPlayers": 5193,
   "EOS_NewCompleters": 62,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29170,6 +29176,11 @@
       "Time": "2023-11-07T17:14:03.7197468+00:00",
       "NumProgressed": 714516,
       "NumCompleted": 2353
+    },
+    {
+      "Time": "2023-11-07T18:07:08.1528357+00:00",
+      "NumProgressed": 714547,
+      "NumCompleted": 2353
     }
   ],
   "TotalAchievements": 51,
@@ -29387,9 +29398,9 @@
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 2144
     },
     {
       "ID": "ach_legendary",
@@ -29588,22 +29599,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714516,
+      "Progressed": 714547,
       "Completed": 2353
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40058,
-      "Completed": 36478
+      "Progressed": 40089,
+      "Completed": 36479
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-07T13:58:15.7286795+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:14:03.7197465+00:00",
+  "LastChanged": "2023-11-07T17:58:31.4730956+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:07:08.1528353+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:03:15.2198145+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:14:03.7198833+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:58:31.4731079+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:07:08.1529798+00:00"
 }

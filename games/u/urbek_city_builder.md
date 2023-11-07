@@ -19,10 +19,10 @@
 | I love parks | 1.00% | ~4 |
 | King of fish | 0.80% | ~3 |
 | Food producer | 0.50% | ~2 |
+| City crisis | 0.50% | ~2 |
 | I am very happy! | 0.50% | ~2 |
 | Banking city | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |
-| City crisis | 0.30% | ~1 |
 | Oh, I am sad | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
 | ¡Muy feliz! | 0.30% | ~1 |

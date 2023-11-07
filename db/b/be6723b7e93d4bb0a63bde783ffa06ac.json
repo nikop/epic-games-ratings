@@ -467,9 +467,9 @@
       "ID": "ach5",
       "SetID": "baneh2j",
       "Name": "Size doesn\u0027t matter",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ach6",
@@ -514,8 +514,8 @@
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:12:23.412807+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:05:21.980986+00:00",
   "LastUpdate_AppInfo": "2023-11-01T04:57:15.3156204+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:07:09.3314357+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:12:23.4128309+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:00:00.5085384+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:05:21.9810355+00:00"
 }

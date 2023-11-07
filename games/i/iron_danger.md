@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Shard | 82.00% | ~239 |
-| Found the Healer | 35.00% | ~102 |
+| First Shard | 81.00% | ~237 |
+| Found the Healer | 35.00% | ~103 |
 | Second Shard | 9.00% | ~26 |
 | Champion of Kalevala | 8.00% | ~23 |
 | Death is Merely a Setback | 8.00% | ~23 |
 | Ring of Fire! | 8.00% | ~23 |
-| Keyu Exterminator | 7.00% | ~20 |
-| Third Shard | 7.00% | ~20 |
+| Keyu Exterminator | 7.00% | ~21 |
+| Third Shard | 7.00% | ~21 |
 | Berry Nice | 6.00% | ~18 |
 | Fourth Shard | 6.00% | ~18 |
 | Big Fish | 5.00% | ~15 |
@@ -28,7 +28,7 @@
 | Trolled | 1.00% | ~3 |
 | Troll Hunter | 1.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292 (Ranked 336)  
+Progressed: 293 (Ranked 336)  
 Completed: 4 (1.37%) (Ranked 139)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,6 +120,7 @@ Completed: 4 (1.37%) (Ranked 139)
 | 2023-11-01 | 287 | 4 |
 | 2023-11-03 | 288 | 4 |
 | 2023-11-04 | 292 | 4 |
+| 2023-11-07 | 293 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 34.00% | ~80,167 |
-| Alt+F4 | 8.00% | ~18,863 |
-| Where's that freaking Dwarf? | 7.00% | ~16,505 |
-| Déjà vu | 6.00% | ~14,147 |
-| Sock! SOCK! | 5.00% | ~11,789 |
-| A beer, two curses, three companions | 4.00% | ~9,431 |
-| GG EZ | 4.00% | ~9,431 |
-| Speedrun | 4.00% | ~9,431 |
+| Sowwy! | 34.00% | ~80,170 |
+| Alt+F4 | 8.00% | ~18,864 |
+| Where's that freaking Dwarf? | 7.00% | ~16,506 |
+| Déjà vu | 6.00% | ~14,148 |
+| Sock! SOCK! | 5.00% | ~11,790 |
+| A beer, two curses, three companions | 4.00% | ~9,432 |
+| GG EZ | 4.00% | ~9,432 |
+| Speedrun | 4.00% | ~9,432 |
 | Way of the Wimp | 3.00% | ~7,074 |
 | The plot thickens... At the tavern | 3.00% | ~7,074 |
 | DM intervention | 3.00% | ~7,074 |
@@ -45,7 +45,7 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,358 |
 | Gargantua | 0.90% | ~2,122 |
 | In Navalu's footsteps | 0.80% | ~1,886 |
-| Lëgal Legend | 0.70% | ~1,650 |
+| Lëgal Legend | 0.70% | ~1,651 |
 | Holistic Adventuring Party | 0.60% | ~1,415 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,415 |
 | We come in peace | 0.60% | ~1,415 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,785 (Ranked 61)  
+Progressed: 235,794 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-04 | 235,134 | 7 |
 | 2023-11-05 | 235,463 | 7 |
 | 2023-11-06 | 235,658 | 7 |
-| 2023-11-07 | 235,785 | 7 |
+| 2023-11-07 | 235,794 | 7 |
 ## Awards
 Max (Character Customization): 226  (Ranked 271)  
 Sum: 452 (Ranked 328)  

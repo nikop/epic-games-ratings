@@ -6,15 +6,15 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 40.00% | ~4,555 |
-| It's a good start | 10.00% | ~1,139 |
-| Bonjour! | 7.00% | ~797 |
-| Quack | 7.00% | ~797 |
-| The Assistant | 6.00% | ~683 |
-| The Blue Marl | 6.00% | ~683 |
-| Ostinata | 5.00% | ~569 |
-| Better than nothing? | 5.00% | ~569 |
-| A long journey | 4.00% | ~455 |
+| Bye Bye | 40.00% | ~4,559 |
+| It's a good start | 10.00% | ~1,140 |
+| Bonjour! | 7.00% | ~798 |
+| Quack | 7.00% | ~798 |
+| The Assistant | 6.00% | ~684 |
+| The Blue Marl | 6.00% | ~684 |
+| Ostinata | 5.00% | ~570 |
+| Better than nothing? | 5.00% | ~570 |
+| A long journey | 4.00% | ~456 |
 | Big Money | 3.00% | ~342 |
 | Keep the doctor away | 3.00% | ~342 |
 | Surprise of Langhe | 3.00% | ~342 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~11 |
 | Master Winemaker | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,387 (Ranked 153)  
+Progressed: 11,397 (Ranked 153)  
 Completed: 10 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,10 +112,10 @@ Completed: 10 (0.09%) (Ranked 275)
 | 2023-11-04 | 10,999 | 10 |
 | 2023-11-05 | 11,170 | 10 |
 | 2023-11-06 | 11,296 | 10 |
-| 2023-11-07 | 11,387 | 10 |
+| 2023-11-07 | 11,397 | 10 |
 ## Awards
 Max (Relaxing): 206  (Ranked 282)  
-Sum: 1,724 (Ranked 214)  
+Sum: 1,725 (Ranked 214)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
@@ -124,7 +124,7 @@ Diff (max vs sum): 68
 | This game has Quickly Understood Controls | 202 |
 | This game is Great for Beginners | 200 |
 | This game is Highly Recommended | 194 |
-| This game is Educational | 178 |
+| This game is Educational | 179 |
 | This game has Amazing Storytelling | 175 |
 | This game has Easy Combat | 130 |
 | This game has Amazing Characters | 126 |
@@ -194,4 +194,4 @@ Diff (max vs sum): 68
 | 2023-10-20 | 4.35 | - | 205 | 1,592 |
 | 2023-10-30 | 4.35 | - | 205 | 1,593 |
 | 2023-10-31 | 4.35 | - | 206 | 1,594 |
-| 2023-11-07 | 4.35 | - | 206 | 1,724 |
+| 2023-11-07 | 4.35 | - | 206 | 1,725 |

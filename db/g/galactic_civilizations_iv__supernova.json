@@ -2,12 +2,12 @@
   "ID": "c9e2559572f64192b1e37049eee27783",
   "Name": "Galactic Civilizations IV: Supernova",
   "ProductSlug": "galactic-civilizations-iv-supernova",
-  "Ranking_Rating": 584,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2023-04-27T14:45:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2241,
+  "EOS_Progressed": 2242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6907,6 +6907,11 @@
       "Time": "2023-11-07T01:50:22.8515758+00:00",
       "NumProgressed": 2241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T18:07:11.5605803+00:00",
+      "NumProgressed": 2242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 77,
@@ -7533,13 +7538,13 @@
     {
       "ID": "1b9olh7",
       "IsBase": true,
-      "Progressed": 2241,
+      "Progressed": 2242,
       "Completed": 0
     },
     {
       "ID": "8ce16g",
       "IsBase": false,
-      "Progressed": 2241,
+      "Progressed": 2242,
       "Completed": 0
     }
   ],
@@ -7547,8 +7552,8 @@
   "FirstSeenRating": "2023-04-27T21:57:06.0421025+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
   "LastChanged": "2023-10-23T05:58:31.8425446+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:14:07.0940899+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:07:11.5605798+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:57.2283927+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:08:53.4879932+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:14:07.0941713+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:01:30.0027075+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:07:11.560659+00:00"
 }

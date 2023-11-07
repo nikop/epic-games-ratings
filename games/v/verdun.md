@@ -1,18 +1,18 @@
 # Verdun
 [Store](https://store.epicgames.com/en-US/p/verdun)  
 [View Rawdata](../../db/v/verdun.json)  
-Rating: 4.53 (Ranked 533)  
+Rating: 4.53 (Ranked 534)  
 Number of Ratings: 1,999  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,964 |
-| Worth it | 63.00% | ~39,548 |
-| Eagle Eye | 55.00% | ~34,526 |
+| Setting an example | 78.00% | ~48,965 |
+| Worth it | 63.00% | ~39,549 |
+| Eagle Eye | 55.00% | ~34,527 |
 | Corpseman I | 40.00% | ~25,110 |
-| Blast fishing | 37.00% | ~23,226 |
+| Blast fishing | 37.00% | ~23,227 |
 | Not alone | 32.00% | ~20,088 |
-| Headhunter I | 26.00% | ~16,321 |
+| Headhunter I | 26.00% | ~16,322 |
 | Manual Labour I | 25.00% | ~15,694 |
 | Developers, Developers, Developers | 24.00% | ~15,066 |
 | Basic Training | 24.00% | ~15,066 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,883 |
 | Silver x100 | 3.00% | ~1,883 |
 | Impavidum Ferient Bella! | 3.00% | ~1,883 |
-| Bronze x100 | 2.00% | ~1,255 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,255 |
+| Bronze x100 | 2.00% | ~1,256 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,256 |
 | Gold x100 | 1.00% | ~628 |
 | Hunting the Hun | 1.00% | ~628 |
 | #1 | 1.00% | ~628 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~63 |
 | Blood Brother | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,774 (Ranked 104)  
+Progressed: 62,776 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 4 (0.01%) (Ranked 321)
 | 2023-11-04 | 62,568 | 4 |
 | 2023-11-05 | 62,667 | 4 |
 | 2023-11-06 | 62,733 | 4 |
-| 2023-11-07 | 62,774 | 4 |
+| 2023-11-07 | 62,776 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 351)  
 Sum: 903 (Ranked 270)  

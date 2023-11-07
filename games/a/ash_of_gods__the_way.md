@@ -20,6 +20,7 @@
 | Overplay the rogue | 10.00% | ~3 |
 | Berkanan Borgia | 10.00% | ~3 |
 | The champion of the arena | 10.00% | ~3 |
+| Rage | 10.00% | ~3 |
 | By own strength | 10.00% | ~3 |
 | Protect the Healer! | 10.00% | ~3 |
 | Help of the Gell | 10.00% | ~3 |
@@ -27,7 +28,6 @@
 | She-Wolf | 10.00% | ~3 |
 | For the greater good | 6.00% | ~2 |
 | The best apprentice | 6.00% | ~2 |
-| Rage | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |
 | A solo player | 6.00% | ~2 |
 | Punish the Punisher | 6.00% | ~2 |

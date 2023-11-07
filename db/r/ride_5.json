@@ -4601,9 +4601,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "c7hf6a4",
       "Name": "Quick Pit Stop",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 367
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -4896,8 +4896,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:17:00.5809925+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:10:18.860546+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:09:56.0047182+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:17:00.5810353+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:02:50.9755801+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:10:18.8605952+00:00"
 }

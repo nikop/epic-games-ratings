@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1397,9 +1397,9 @@
       "ID": "CRISIS_1",
       "SetID": "44dlcg0",
       "Name": "City crisis",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "CRISIS_2",
@@ -1910,8 +1910,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:16:57.1297656+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:10:14.9040598+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.6533843+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:10:28.3751261+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:16:57.1298236+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:03:21.2772203+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:10:14.9041223+00:00"
 }

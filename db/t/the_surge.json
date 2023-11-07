@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4816,
+  "EOS_Progressed": 4817,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3131,6 +3131,11 @@
       "Time": "2023-11-07T16:03:25.6322718+00:00",
       "NumProgressed": 4816,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-07T18:04:11.6306483+00:00",
+      "NumProgressed": 4817,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3198,7 +3203,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4527
+      "UsersEstimate": 4528
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3206,7 +3211,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3708
+      "UsersEstimate": 3709
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3230,7 +3235,7 @@
       "Name": "Gear Up",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ID_ACHIEV_13",
@@ -3254,7 +3259,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -3286,7 +3291,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -3294,7 +3299,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -3358,7 +3363,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3708
+      "UsersEstimate": 3709
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3374,7 +3379,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -3382,7 +3387,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -3406,7 +3411,7 @@
       "Name": "Most Wanted",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -3422,7 +3427,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -3470,7 +3475,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -3478,7 +3483,7 @@
       "Name": "GOLIATH",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -3590,7 +3595,7 @@
       "Name": "Is This Real Life?",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ID_ACHIEV_59",
@@ -3677,15 +3682,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4816,
+      "Progressed": 4817,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:11:17.064468+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:04:11.6306482+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:08.5598133+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:05:58.0712755+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:11:17.0645241+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:59:21.6453264+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:04:11.6307041+00:00"
 }

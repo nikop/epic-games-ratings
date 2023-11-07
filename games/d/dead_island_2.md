@@ -26,6 +26,7 @@ Rating: 4.54 (Ranked 522)
 | Like Riding a Bike | 0.30% | ~2,144 |
 | Friends Like These | 0.30% | ~2,144 |
 | Apex Predator | 0.30% | ~2,144 |
+| Zombologist | 0.30% | ~2,144 |
 | A Patton Emerges | 0.30% | ~2,144 |
 | Stacking the Deck | 0.30% | ~2,144 |
 | Max Headroom | 0.30% | ~2,144 |
@@ -34,7 +35,6 @@ Rating: 4.54 (Ranked 522)
 | Making Your Mark | 0.20% | ~1,429 |
 | Not Even My Final Form | 0.20% | ~1,429 |
 | Jumbo Keyring | 0.20% | ~1,429 |
-| Zombologist | 0.20% | ~1,429 |
 | Ooh, Shiny! | 0.20% | ~1,429 |
 | Humanity Distilled | 0.20% | ~1,429 |
 | I Am the Resurrection | 0.20% | ~1,429 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,516 (Ranked 21)  
+Progressed: 714,547 (Ranked 21)  
 Completed: 2,353 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,15 +258,15 @@ Completed: 2,353 (0.33%) (Ranked 219)
 | 2023-11-04 | 712,632 | 2,325 |
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
-| 2023-11-07 | 714,516 | 2,353 |
+| 2023-11-07 | 714,547 | 2,353 |
 ## Awards
-Max (Great Boss Battles): 7,125  (Ranked 53)  
-Sum: 10,810 (Ranked 89)  
-Diff (max vs sum): -36  
+Max (Great Boss Battles): 7,178  (Ranked 53)  
+Sum: 10,870 (Ranked 87)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,125 |
-| This game is Great for Beginners | 520 |
+| This game has Great Boss Battles | 7,178 |
+| This game is Great for Beginners | 527 |
 | This game has Diverse Characters | 516 |
 | This game has Quickly Understood Controls | 497 |
 | This game is Relaxing | 459 |
@@ -477,4 +477,4 @@ Diff (max vs sum): -36
 | 2023-11-04 | 4.54 | 7,004 | 10,576 |
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
-| 2023-11-07 | 4.54 | 7,125 | 10,810 |
+| 2023-11-07 | 4.54 | 7,178 | 10,870 |

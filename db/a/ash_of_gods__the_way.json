@@ -331,9 +331,9 @@
       "ID": "special10",
       "SetID": "c64if4d",
       "Name": "Rage",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "special11",
@@ -596,8 +596,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:14:26.6641666+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:07:32.5123666+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.6760768+00:00",
-  "LastUpdate_Ratings": "2023-11-07T16:58:29.4437435+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:14:26.6641959+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:57:19.42878+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:07:32.5123955+00:00"
 }

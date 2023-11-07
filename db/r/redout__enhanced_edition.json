@@ -2,12 +2,12 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 584,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 135,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235090,
+  "EOS_Progressed": 235091,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21482,6 +21482,11 @@
       "Time": "2023-11-07T17:14:53.8256772+00:00",
       "NumProgressed": 235090,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-07T18:08:02.3276256+00:00",
+      "NumProgressed": 235091,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -21685,7 +21690,7 @@
       "Name": "QAREEN",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 11754
+      "UsersEstimate": 11755
     },
     {
       "ID": "RESPWND",
@@ -21764,15 +21769,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235090,
+      "Progressed": 235091,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:14:53.8256769+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:08:02.3276252+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:23.1694158+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:06:52.8775034+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:14:53.8257895+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:59:47.2735724+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:08:02.3277281+00:00"
 }

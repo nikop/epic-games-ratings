@@ -11733,7 +11733,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 449291,
+  "EOS_Progressed": 449331,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 5542,
   "EOS_NewCompleters": 0,
@@ -34723,6 +34723,11 @@
       "Time": "2023-11-07T17:12:21.9291491+00:00",
       "NumProgressed": 449291,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T18:05:20.6848464+00:00",
+      "NumProgressed": 449331,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35996,9 +36001,9 @@
       "ID": "achievement_kaiser_not_just_in_name",
       "SetID": "8p2n7he",
       "Name": "A Kaiser not just in name",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_keep_the_flame_burning",
@@ -36372,9 +36377,9 @@
       "ID": "achievement_no_pirates_in_my_carribean",
       "SetID": "8p2n7he",
       "Name": "No Pirates in my Caribbean",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_no_trail_of_tears",
@@ -37452,9 +37457,9 @@
       "ID": "achievement_voting_streak",
       "SetID": "8p2n7he",
       "Name": "Voting Streak",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_we_bled_for_this",
@@ -37637,21 +37642,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 449291,
+      "Progressed": 449331,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 449291,
+      "Progressed": 449331,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-07T14:57:42.6356787+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:12:21.9291488+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:05:20.684846+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:00:53.7178714+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:12:21.9302048+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:57:51.093136+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:05:20.685889+00:00"
 }

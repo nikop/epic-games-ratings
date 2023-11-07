@@ -173,10 +173,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100254,
+  "EOS_Progressed": 100255,
   "EOS_Completed": 4428,
-  "EOS_NewPlayers": 1112,
-  "EOS_NewCompleters": 118,
+  "EOS_NewPlayers": 1109,
+  "EOS_NewCompleters": 117,
   "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
     {
@@ -6553,6 +6553,11 @@
       "Time": "2023-11-07T17:16:38.6973672+00:00",
       "NumProgressed": 100254,
       "NumCompleted": 4428
+    },
+    {
+      "Time": "2023-11-07T18:09:54.707724+00:00",
+      "NumProgressed": 100255,
+      "NumCompleted": 4428
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -6565,7 +6570,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 63160
+      "UsersEstimate": 63161
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -6613,7 +6618,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 75190
+      "UsersEstimate": 75191
     },
     {
       "ID": "TheGoldenRatio",
@@ -6645,7 +6650,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 78198
+      "UsersEstimate": 78199
     },
     {
       "ID": "WelcomeAboard",
@@ -6653,14 +6658,14 @@
       "Name": "Welcome Aboard!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 78198
+      "UsersEstimate": 78199
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 100254,
+      "Progressed": 100255,
       "Completed": 4428
     }
   ],
@@ -6668,8 +6673,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-05T20:03:00.4569456+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:16:38.6973668+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:09:54.7077237+00:00",
   "LastUpdate_AppInfo": "2023-11-02T15:57:20.2519347+00:00",
-  "LastUpdate_Ratings": "2023-11-07T16:57:50.8414048+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:16:38.6974071+00:00"
+  "LastUpdate_Ratings": "2023-11-07T17:57:11.4797939+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:09:54.7077601+00:00"
 }

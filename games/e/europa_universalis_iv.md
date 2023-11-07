@@ -65,6 +65,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's all about the money | 0.10% | ~449 |
 | Just a Little Patience | 0.10% | ~449 |
 | Just Resting In My Account | 0.10% | ~449 |
+| A Kaiser not just in name | 0.10% | ~449 |
 | King of Jerusalem | 0.10% | ~449 |
 | Liberty or Death | 0.10% | ~449 |
 | Live Long and Prosper | 0.10% | ~449 |
@@ -74,6 +75,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Multiculturalism | 0.10% | ~449 |
 | My armies are invincible! | 0.10% | ~449 |
 | Narcissism | 0.10% | ~449 |
+| No Pirates in my Caribbean | 0.10% | ~449 |
 | Not just Pizza | 0.10% | ~449 |
 | Not so sad a state... | 0.10% | ~449 |
 | On the Rhodes Again | 0.10% | ~449 |
@@ -116,6 +118,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Venetian Sea | 0.10% | ~449 |
 | Victorious! | 0.10% | ~449 |
 | Viva la Revolución! | 0.10% | ~449 |
+| Voting Streak | 0.10% | ~449 |
 | Wonderful | 0.10% | ~449 |
 | World Conqueror | 0.10% | ~449 |
 | World Discoverer | 0.10% | ~449 |
@@ -222,7 +225,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | It's All Greek To Me | 0.00% | ~0 |
 | Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
-| A Kaiser not just in name | 0.00% | ~0 |
 | Keep the Flame Burning | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
 | Kingdom of God | 0.00% | ~0 |
@@ -260,7 +262,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Never say Nevers | 0.00% | ~0 |
 | New, New Deli | 0.00% | ~0 |
 | No Country for Old Tercios | 0.00% | ~0 |
-| No Pirates in my Caribbean | 0.00% | ~0 |
 | No Trail of Tears | 0.00% | ~0 |
 | Nobody wants to die | 0.00% | ~0 |
 | Norwegian Wood | 0.00% | ~0 |
@@ -353,7 +354,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ultimate Military | 0.00% | ~0 |
 | Victorian Three | 0.00% | ~0 |
 | Voltaire's Nightmare | 0.00% | ~0 |
-| Voting Streak | 0.00% | ~0 |
 | We bled for this | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,291 (Ranked 41)  
+Progressed: 449,331 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 449,291 | 1 |
+| 2023-11-07 | 449,331 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,529 (Ranked 24)  

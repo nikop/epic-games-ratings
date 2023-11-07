@@ -2375,9 +2375,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 19120,
+  "EOS_Progressed": 19124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1703,
+  "EOS_NewPlayers": 1690,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8380,6 +8380,11 @@
       "Time": "2023-11-07T17:10:52.7390695+00:00",
       "NumProgressed": 19120,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T18:03:46.0170869+00:00",
+      "NumProgressed": 19124,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8560,7 +8565,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "Achievement_Trophy23",
@@ -8576,7 +8581,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8030
+      "UsersEstimate": 8032
     },
     {
       "ID": "Achievement_Trophy25",
@@ -8592,7 +8597,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6501
+      "UsersEstimate": 6502
     },
     {
       "ID": "Achievement_Trophy27",
@@ -8608,7 +8613,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6310
+      "UsersEstimate": 6311
     },
     {
       "ID": "Achievement_Trophy29",
@@ -8624,7 +8629,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5736
+      "UsersEstimate": 5737
     },
     {
       "ID": "Achievement_Trophy31",
@@ -8632,7 +8637,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6118
+      "UsersEstimate": 6120
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8656,7 +8661,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "Achievement_Trophy35",
@@ -8680,7 +8685,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4780
+      "UsersEstimate": 4781
     },
     {
       "ID": "Achievement_Trophy38",
@@ -8688,7 +8693,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3250
+      "UsersEstimate": 3251
     },
     {
       "ID": "Achievement_Trophy39",
@@ -8696,7 +8701,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3633
+      "UsersEstimate": 3634
     },
     {
       "ID": "Achievement_Trophy40",
@@ -8768,7 +8773,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2103
+      "UsersEstimate": 2104
     },
     {
       "ID": "Achievement_Trophy49",
@@ -8776,7 +8781,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "Achievement_Trophy50",
@@ -8879,7 +8884,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 19120,
+      "Progressed": 19124,
       "Completed": 1
     }
   ],
@@ -8887,8 +8892,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-07T05:00:13.3916278+00:00",
-  "LastChanged_Achievements": "2023-11-07T17:10:52.7390692+00:00",
+  "LastChanged_Achievements": "2023-11-07T18:03:46.0170866+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-07T17:08:43.3887491+00:00",
-  "LastUpdate_Achievements": "2023-11-07T17:10:52.73913+00:00"
+  "LastUpdate_Ratings": "2023-11-07T18:01:19.6113484+00:00",
+  "LastUpdate_Achievements": "2023-11-07T18:03:46.017152+00:00"
 }
