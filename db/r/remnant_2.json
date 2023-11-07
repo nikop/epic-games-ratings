@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 27,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -3933,10 +3933,10 @@
       "Count": 273
     }
   ],
-  "EOS_Progressed": 218494,
+  "EOS_Progressed": 218500,
   "EOS_Completed": 432,
-  "EOS_NewPlayers": 4169,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 4128,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -16853,6 +16853,11 @@
       "Time": "2023-11-07T04:05:18.2093898+00:00",
       "NumProgressed": 218494,
       "NumCompleted": 432
+    },
+    {
+      "Time": "2023-11-07T05:06:01.0515198+00:00",
+      "NumProgressed": 218500,
+      "NumCompleted": 432
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17049,7 +17054,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19664
+      "UsersEstimate": 19665
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -17151,9 +17156,9 @@
       "ID": "Obtain_Scrap_A",
       "SetID": "bkp3b1a",
       "Name": "Scrap Collector",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6555
+      "UsersEstimate": 8740
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -17264,7 +17269,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218494,
+      "Progressed": 218500,
       "Completed": 432
     }
   ],
@@ -17272,8 +17277,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-07T03:03:12.8149948+00:00",
-  "LastChanged_Achievements": "2023-11-07T04:05:18.2093892+00:00",
+  "LastChanged_Achievements": "2023-11-07T05:06:01.0515192+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:02:50.2222524+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:05:18.209481+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:03:01.3254093+00:00",
+  "LastUpdate_Achievements": "2023-11-07T05:06:01.051738+00:00"
 }

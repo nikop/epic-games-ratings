@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,001)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,599 (Ranked 91)  
+Progressed: 89,600 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-04 | 89,561 | 54 |
 | 2023-11-05 | 89,585 | 55 |
 | 2023-11-06 | 89,596 | 55 |
-| 2023-11-07 | 89,599 | 55 |
+| 2023-11-07 | 89,600 | 55 |
 ## Awards
 Max (Diverse Characters): 522  (Ranked 204)  
 Sum: 2,960 (Ranked 175)  

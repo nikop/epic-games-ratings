@@ -5,7 +5,7 @@ Rating: 4.75 (Ranked 142)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,664 |
+| First of Many | 9.00% | ~19,665 |
 | The Killing Jar | 8.00% | ~17,480 |
 | Expanding Horizons | 7.00% | ~15,295 |
 | Quest for Survival | 7.00% | ~15,295 |
@@ -32,6 +32,7 @@ Rating: 4.75 (Ranked 142)
 | Madman's Paradise | 4.00% | ~8,740 |
 | Was This Supposed To Happen? | 4.00% | ~8,740 |
 | The Web | 4.00% | ~8,740 |
+| Scrap Collector | 4.00% | ~8,740 |
 | All These Traits� | 4.00% | ~8,740 |
 | Am I Seeing This? | 3.00% | ~6,555 |
 | Forever is a Long Time Coming | 3.00% | ~6,555 |
@@ -40,7 +41,6 @@ Rating: 4.75 (Ranked 142)
 | Bad Moon Rising | 3.00% | ~6,555 |
 | Strapped | 3.00% | ~6,555 |
 | Edgelord | 3.00% | ~6,555 |
-| Scrap Collector | 3.00% | ~6,555 |
 | The Ultimate Weapon | 3.00% | ~6,555 |
 | Crafty | 2.00% | ~4,370 |
 | Only Human | 2.00% | ~4,370 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 142)
 | The Collector | 1.00% | ~2,185 |
 | Proving Grounds | 1.00% | ~2,185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,494 (Ranked 68)  
+Progressed: 218,500 (Ranked 68)  
 Completed: 432 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 432 (0.20%) (Ranked 244)
 | 2023-11-04 | 217,742 | 429 |
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
-| 2023-11-07 | 218,494 | 432 |
+| 2023-11-07 | 218,500 | 432 |
 ## Awards
 Max (Great Boss Battles): 2,080  (Ranked 109)  
 Sum: 4,661 (Ranked 143)  

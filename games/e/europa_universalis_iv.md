@@ -98,10 +98,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trustworthy | 0.10% | ~449 |
 | Until death do us apart | 0.10% | ~449 |
 | Vasa or Wettin? | 0.10% | ~449 |
+| Venetian Sea | 0.10% | ~449 |
 | Victorious! | 0.10% | ~449 |
 | Wonderful | 0.10% | ~449 |
 | World Conqueror | 0.10% | ~449 |
 | World Discoverer | 0.10% | ~449 |
+| You Get A New Home, And You Get A New Home | 0.10% | ~449 |
 | The Last Crusade | 0.10% | ~449 |
 | Truly Good Maaaaa-tch | 0.10% | ~449 |
 | The 52 Garhs | 0.00% | ~0 |
@@ -347,7 +349,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turning the Tide | 0.00% | ~0 |
 | Turtles all the way down | 0.00% | ~0 |
 | Ultimate Military | 0.00% | ~0 |
-| Venetian Sea | 0.00% | ~0 |
 | Victorian Three | 0.00% | ~0 |
 | Viva la Revolución! | 0.00% | ~0 |
 | Voltaire's Nightmare | 0.00% | ~0 |
@@ -361,7 +362,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Winged Hussars | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
-| You Get A New Home, And You Get A New Home | 0.00% | ~0 |
 | Breadbasket of the World | 0.00% | ~0 |
 | Desert Power | 0.00% | ~0 |
 | King of Kings | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 448,941 (Ranked 41)  
+Progressed: 448,955 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 448,941 | 1 |
+| 2023-11-07 | 448,955 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,445 (Ranked 24)  

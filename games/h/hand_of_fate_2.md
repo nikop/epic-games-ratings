@@ -259,8 +259,8 @@ Completed: 171 (0.03%) (Ranked 309)
 | 2023-11-07 | 664,315 | 171 |
 ## Awards
 Max (Amazing Storytelling): 35  (Ranked 469)  
-Sum: 189 (Ranked 403)  
-Diff (max vs sum): 66  
+Sum: 189 (Ranked 404)  
+Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 118 |

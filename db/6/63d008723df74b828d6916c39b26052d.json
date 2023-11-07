@@ -4,8 +4,8 @@
   "ProductSlug": "meta_lordz-8b5183",
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-06T18:30:00+00:00",
     "PcReleaseDate": "2023-11-06T18:30:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-11-07T04:57:51.8843787+00:00",
   "LastUpdate_AppInfo": "2023-11-05T16:57:27.6085459+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:57:39.5691147+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:03:26.8142758+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:57:51.8843843+00:00",
+  "LastUpdate_Achievements": "2023-11-07T05:03:46.4362523+00:00"
 }

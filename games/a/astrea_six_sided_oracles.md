@@ -13,8 +13,8 @@
 | Sanctuary Guardian | 34.00% | ~23 |
 | Wild's Keeper | 34.00% | ~23 |
 | Eridanian Champion | 34.00% | ~23 |
+| Lacertian Champion | 34.00% | ~23 |
 | Mind Illuminator | 32.00% | ~22 |
-| Lacertian Champion | 32.00% | ~22 |
 | Apian Champion | 31.00% | ~21 |
 | Anomaly Destroyer | 28.00% | ~19 |
 | Stellar Dismantler | 28.00% | ~19 |
@@ -23,17 +23,17 @@
 | Star Killer | 24.00% | ~16 |
 | Astral Adventurer | 22.00% | ~15 |
 | Aquarian Champion | 22.00% | ~15 |
+| Shard Spender | 21.00% | ~14 |
 | Astral Seeker | 19.00% | ~13 |
 | Heart Gate | 19.00% | ~13 |
-| Shard Spender | 19.00% | ~13 |
 | Unbeatable | 19.00% | ~13 |
 | The Corruption Goddess | 18.00% | ~12 |
 | The Goddes Avatar | 18.00% | ~12 |
-| Favored by the Cosmos | 15.00% | ~10 |
-| Stellar Haste | 13.00% | ~9 |
+| Favored by the Cosmos | 16.00% | ~11 |
+| Stellar Haste | 15.00% | ~10 |
+| Heavy Purger | 13.00% | ~9 |
+| Apian Hero | 13.00% | ~9 |
 | Anomaly Control | 12.00% | ~8 |
-| Heavy Purger | 12.00% | ~8 |
-| Apian Hero | 12.00% | ~8 |
 | Lacertian Hero | 12.00% | ~8 |
 | The Chaos Artisan | 10.00% | ~7 |
 | The Dark Moon | 10.00% | ~7 |
@@ -46,7 +46,7 @@
 | If I Had Failed... | 7.00% | ~5 |
 | Purification Avatar | 7.00% | ~5 |
 | Sadistic Plan | 7.00% | ~5 |
-| The Abyssal Terror | 6.00% | ~4 |
+| The Abyssal Terror | 7.00% | ~5 |
 | Aquarian Hero | 6.00% | ~4 |
 | Behenian Mastery | 6.00% | ~4 |
 | Eridanian Hero | 6.00% | ~4 |

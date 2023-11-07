@@ -6,13 +6,13 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 81.00% | ~810 |
-| My little farm | 64.00% | ~640 |
-| Every beginning is difficult | 63.00% | ~630 |
-| Gofer | 57.00% | ~570 |
-| 3, 2, 1, mine | 56.00% | ~560 |
-| O Captain! My Captain! | 55.00% | ~550 |
-| Seafarer | 52.00% | ~520 |
+| Cabin boy | 81.00% | ~811 |
+| My little farm | 64.00% | ~641 |
+| Every beginning is difficult | 63.00% | ~631 |
+| Gofer | 57.00% | ~571 |
+| 3, 2, 1, mine | 56.00% | ~561 |
+| O Captain! My Captain! | 55.00% | ~551 |
+| Seafarer | 52.00% | ~521 |
 | Intangible | 43.00% | ~430 |
 | Greed for gold | 43.00% | ~430 |
 | I'm out of here for a while | 42.00% | ~420 |
@@ -35,13 +35,13 @@ Number of Ratings: 53  (23.09.2022)
 | Paths of Glory | 8.00% | ~80 |
 | Panel of experts | 8.00% | ~80 |
 | Maker | 7.00% | ~70 |
-| Conglomerate | 7.00% | ~70 |
+| Conglomerate | 6.00% | ~60 |
 | The Grande Bouffe | 6.00% | ~60 |
 | Buccaneer | 5.00% | ~50 |
 | Flying Dutchman | 5.00% | ~50 |
-| Premier Maître | 4.00% | ~40 |
 | A true pirate! | 4.00% | ~40 |
 | Overpopulation | 4.00% | ~40 |
+| Premier Maître | 3.00% | ~30 |
 | Supreme conqueror | 3.00% | ~30 |
 | Strategist | 2.00% | ~20 |
 | The customer is always right | 2.00% | ~20 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,000 (Ranked 252)  
+Progressed: 1,001 (Ranked 252)  
 Completed: 1 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 1 (0.10%) (Ranked 269)
 | 2023-11-04 | 996 | 1 |
 | 2023-11-05 | 997 | 1 |
 | 2023-11-06 | 998 | 1 |
-| 2023-11-07 | 1,000 | 1 |
+| 2023-11-07 | 1,001 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

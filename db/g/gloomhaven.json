@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2289,18 +2289,24 @@
       "Rating": 4.47,
       "NumberOfAwards": 8339,
       "NumberOfAwardsMax": 3566
+    },
+    {
+      "Time": "2023-11-07T05:00:13.3916281+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 8342,
+      "NumberOfAwardsMax": 3569
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8339,
-  "NumberOfAwardsMax": 3566,
+  "NumberOfAwards": 8342,
+  "NumberOfAwardsMax": 3569,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 3566
+      "Count": 3569
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2369,9 +2375,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 19050,
+  "EOS_Progressed": 19054,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1706,
+  "EOS_NewPlayers": 1701,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8314,6 +8320,11 @@
       "Time": "2023-11-07T04:06:24.0676192+00:00",
       "NumProgressed": 19050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T05:07:58.8937472+00:00",
+      "NumProgressed": 19054,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8326,7 +8337,7 @@
       "Name": "Power Up!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Achievement_Trophy02",
@@ -8382,7 +8393,7 @@
       "Name": "Add a bit of colour",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Achievement_Trophy09",
@@ -8406,7 +8417,7 @@
       "Name": "Captain hooked",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Achievement_Trophy12",
@@ -8502,7 +8513,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "Achievement_Trophy24",
@@ -8510,7 +8521,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8001
+      "UsersEstimate": 8003
     },
     {
       "ID": "Achievement_Trophy25",
@@ -8518,7 +8529,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "Achievement_Trophy26",
@@ -8526,7 +8537,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6477
+      "UsersEstimate": 6478
     },
     {
       "ID": "Achievement_Trophy27",
@@ -8542,7 +8553,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6286
+      "UsersEstimate": 6288
     },
     {
       "ID": "Achievement_Trophy29",
@@ -8558,7 +8569,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5715
+      "UsersEstimate": 5716
     },
     {
       "ID": "Achievement_Trophy31",
@@ -8566,7 +8577,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6097
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8598,7 +8609,7 @@
       "Name": "The Pro from Dover",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Achievement_Trophy36",
@@ -8606,7 +8617,7 @@
       "Name": "Pretty lights!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Achievement_Trophy37",
@@ -8614,7 +8625,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4762
+      "UsersEstimate": 4764
     },
     {
       "ID": "Achievement_Trophy38",
@@ -8646,7 +8657,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2476
+      "UsersEstimate": 2477
     },
     {
       "ID": "Achievement_Trophy42",
@@ -8662,7 +8673,7 @@
       "Name": "Light of my life",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "Achievement_Trophy44",
@@ -8678,7 +8689,7 @@
       "Name": "Now you see me...",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "Achievement_Trophy46",
@@ -8766,7 +8777,7 @@
       "Name": "New Blood",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "Achievement_Trophy_JOTL_07",
@@ -8813,16 +8824,16 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 19050,
+      "Progressed": 19054,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-09-22T18:02:13.8573093+00:00",
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
-  "LastChanged": "2023-11-07T03:00:09.3808163+00:00",
-  "LastChanged_Achievements": "2023-11-07T04:06:24.0676186+00:00",
+  "LastChanged": "2023-11-07T05:00:13.3916278+00:00",
+  "LastChanged_Achievements": "2023-11-07T05:07:58.8937463+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:59:31.626786+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:06:24.0676896+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:00:13.3916285+00:00",
+  "LastUpdate_Achievements": "2023-11-07T05:07:58.8939167+00:00"
 }

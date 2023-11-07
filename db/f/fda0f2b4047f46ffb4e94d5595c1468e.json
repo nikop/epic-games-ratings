@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2259,9 +2259,9 @@
       "Count": 322
     }
   ],
-  "EOS_Progressed": 8331,
+  "EOS_Progressed": 8332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7134,6 +7134,11 @@
       "Time": "2023-11-07T04:05:04.6088024+00:00",
       "NumProgressed": 8331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T05:05:44.6885459+00:00",
+      "NumProgressed": 8332,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7162,7 +7167,7 @@
       "Name": "A New Timeline",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3832
+      "UsersEstimate": 3833
     },
     {
       "ID": "ach04",
@@ -7186,7 +7191,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6248
+      "UsersEstimate": 6249
     },
     {
       "ID": "ach07",
@@ -7194,7 +7199,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4665
+      "UsersEstimate": 4666
     },
     {
       "ID": "ach08",
@@ -7258,7 +7263,7 @@
       "Name": "Give A Koin",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "ach16",
@@ -7274,7 +7279,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "ach18",
@@ -7282,7 +7287,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "ach19",
@@ -7330,7 +7335,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3832
+      "UsersEstimate": 3833
     },
     {
       "ID": "ach25",
@@ -7338,7 +7343,7 @@
       "Name": "Talis-Mania",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1999
+      "UsersEstimate": 2000
     },
     {
       "ID": "ach26",
@@ -7394,7 +7399,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "ach33",
@@ -7410,7 +7415,7 @@
       "Name": "Always Accessorize",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "ach35",
@@ -7434,7 +7439,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4832
+      "UsersEstimate": 4833
     },
     {
       "ID": "ach38",
@@ -7466,7 +7471,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3082
+      "UsersEstimate": 3083
     },
     {
       "ID": "ach42",
@@ -7498,7 +7503,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "ach46",
@@ -7545,7 +7550,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8331,
+      "Progressed": 8332,
       "Completed": 0
     }
   ],
@@ -7553,8 +7558,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-07T02:58:26.7556918+00:00",
-  "LastChanged_Achievements": "2023-11-07T04:05:04.6088019+00:00",
+  "LastChanged_Achievements": "2023-11-07T05:05:44.6885453+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:58:06.8442933+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:05:04.6088566+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:58:26.5427339+00:00",
+  "LastUpdate_Achievements": "2023-11-07T05:05:44.6886783+00:00"
 }

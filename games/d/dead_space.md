@@ -5,16 +5,16 @@ Rating: 4.63 (Ranked 346)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~1,481 |
+| Marksman | 94.00% | ~1,496 |
 | Welcome Aboard | 84.00% | ~1,337 |
 | Lab Rat | 74.00% | ~1,178 |
 | All Systems Go | 65.00% | ~1,035 |
 | Brute Force | 64.00% | ~1,019 |
 | Cannon Fodder | 60.00% | ~955 |
 | Autofire | 57.00% | ~907 |
+| True Believer | 56.00% | ~892 |
 | Story Teller | 55.00% | ~876 |
 | Raise the Stakes | 55.00% | ~876 |
-| True Believer | 55.00% | ~876 |
 | Surgeon | 51.00% | ~812 |
 | Freeze | 50.00% | ~796 |
 | Exterminator | 50.00% | ~796 |
@@ -24,15 +24,15 @@ Rating: 4.63 (Ranked 346)
 | Get Off My Ship! | 42.00% | ~669 |
 | Strange Transmissions | 42.00% | ~669 |
 | Live with the Hot Ones | 41.00% | ~653 |
-| Wreckage | 40.00% | ~637 |
+| Wreckage | 41.00% | ~653 |
 | Keeper of the Faith | 38.00% | ~605 |
 | Betrayed | 37.00% | ~589 |
 | Legend Teller | 36.00% | ~573 |
 | Mindless Prey | 36.00% | ~573 |
 | Exodus | 35.00% | ~557 |
 | There's Always Peng! | 35.00% | ~557 |
+| Front Toward Enemy | 33.00% | ~525 |
 | A Cut Above | 32.00% | ~509 |
-| Front Toward Enemy | 32.00% | ~509 |
 | Set A Benchmark | 28.00% | ~446 |
 | Whole Again | 27.00% | ~430 |
 | Final Regeneration | 25.00% | ~398 |

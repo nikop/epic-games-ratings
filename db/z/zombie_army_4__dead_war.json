@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2322,9 +2322,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43794,
+  "EOS_Progressed": 43795,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8402,6 +8402,11 @@
       "Time": "2023-11-07T04:04:53.3663862+00:00",
       "NumProgressed": 43794,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-07T05:05:31.1687372+00:00",
+      "NumProgressed": 43795,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8413,7 +8418,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27152
+      "UsersEstimate": 27153
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8469,7 +8474,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12262
+      "UsersEstimate": 12263
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -8485,7 +8490,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18393
+      "UsersEstimate": 18394
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -8493,7 +8498,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -8605,7 +8610,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27590
+      "UsersEstimate": 27591
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -8629,7 +8634,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19269
+      "UsersEstimate": 19270
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -8661,7 +8666,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21459
+      "UsersEstimate": 21460
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -8709,7 +8714,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18393
+      "UsersEstimate": 18394
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -8741,7 +8746,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30218
+      "UsersEstimate": 30219
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -8765,7 +8770,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20583
+      "UsersEstimate": 20584
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -8781,7 +8786,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20583
+      "UsersEstimate": 20584
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -8797,7 +8802,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11824
+      "UsersEstimate": 11825
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -8805,7 +8810,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19707
+      "UsersEstimate": 19708
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -8813,7 +8818,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28904
+      "UsersEstimate": 28905
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -8869,7 +8874,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28904
+      "UsersEstimate": 28905
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -8940,15 +8945,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43794,
+      "Progressed": 43795,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-05T19:02:52.4624134+00:00",
-  "LastChanged_Achievements": "2023-11-07T04:04:53.3663857+00:00",
+  "LastChanged_Achievements": "2023-11-07T05:05:31.1687367+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:41.2954616+00:00",
-  "LastUpdate_Ratings": "2023-11-07T04:02:47.6801755+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:04:53.3664701+00:00"
+  "LastUpdate_Ratings": "2023-11-07T05:02:58.2848148+00:00",
+  "LastUpdate_Achievements": "2023-11-07T05:05:31.1688848+00:00"
 }

@@ -691,7 +691,7 @@
   ],
   "EOS_Progressed": 1592,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 235,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4976,9 +4976,9 @@
       "ID": "achievement_31",
       "SetID": "222fo9l",
       "Name": "Marksman",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 1481
+      "UsersEstimate": 1496
     },
     {
       "ID": "achievement_32",
@@ -5032,9 +5032,9 @@
       "ID": "achievement_38",
       "SetID": "222fo9l",
       "Name": "Front Toward Enemy",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 509
+      "UsersEstimate": 525
     },
     {
       "ID": "achievement_39",
@@ -5120,9 +5120,9 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 876
+      "UsersEstimate": 892
     },
     {
       "ID": "achievement_6",
@@ -5152,9 +5152,9 @@
       "ID": "achievement_9",
       "SetID": "222fo9l",
       "Name": "Wreckage",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 637
+      "UsersEstimate": 653
     }
   ],
   "AchievementSets": [
@@ -5169,8 +5169,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-05T01:50:21.7166978+00:00",
-  "LastChanged_Achievements": "2023-11-07T04:03:24.1438209+00:00",
+  "LastChanged_Achievements": "2023-11-07T05:03:43.3239632+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.4707049+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:57:26.947781+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:03:24.1438717+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:57:34.99232+00:00",
+  "LastUpdate_Achievements": "2023-11-07T05:03:43.3240825+00:00"
 }

@@ -10,11 +10,11 @@
 | A Taste of Wrath | 23.00% | ~37 |
 | Shatter Them All | 23.00% | ~37 |
 | The Collector | 23.00% | ~37 |
+| Fashion Victim | 22.00% | ~35 |
+| Powerful Allies | 21.00% | ~34 |
 | Adventurer | 21.00% | ~34 |
-| Fashion Victim | 21.00% | ~34 |
 | Scholar | 21.00% | ~34 |
 | I Found It | 21.00% | ~34 |
-| Powerful Allies | 20.00% | ~32 |
 | Geared Up | 19.00% | ~30 |
 | Tributes of Caladrias | 18.00% | ~29 |
 | Stone Collection | 18.00% | ~29 |

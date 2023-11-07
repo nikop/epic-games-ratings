@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11721,9 +11721,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 448941,
+  "EOS_Progressed": 448955,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5525,
+  "EOS_NewPlayers": 5521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34646,6 +34646,11 @@
       "Time": "2023-11-07T04:03:51.4319594+00:00",
       "NumProgressed": 448941,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T05:04:16.110546+00:00",
+      "NumProgressed": 448955,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37335,9 +37340,9 @@
       "ID": "achievement_venetian_sea",
       "SetID": "67mdiil",
       "Name": "Venetian Sea",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_victorian_three",
@@ -37479,9 +37484,9 @@
       "ID": "achievement_you_get_a_new_home_and_you_get_a_new_home",
       "SetID": "8p2n7he",
       "Name": "You Get A New Home, And You Get A New Home",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_breadbasket_of_the_world",
@@ -37560,21 +37565,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 448941,
+      "Progressed": 448955,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 448941,
+      "Progressed": 448955,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-07T02:57:27.4287124+00:00",
-  "LastChanged_Achievements": "2023-11-07T04:03:51.4319584+00:00",
+  "LastChanged_Achievements": "2023-11-07T05:04:16.1105452+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:57:17.268492+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:03:51.4330603+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:57:23.3985935+00:00",
+  "LastUpdate_Achievements": "2023-11-07T05:04:16.1121247+00:00"
 }

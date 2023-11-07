@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -877,9 +877,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6413,
+  "EOS_Progressed": 6414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 246,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9587,6 +9587,11 @@
       "Time": "2023-11-07T01:53:43.2539321+00:00",
       "NumProgressed": 6413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T05:08:49.6247152+00:00",
+      "NumProgressed": 6414,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9636,9 +9641,9 @@
       "ID": "ACHIEVEMENT_006",
       "SetID": "1a05lfd",
       "Name": "I\u0027m on a Boat!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -9917,13 +9922,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6413,
+      "Progressed": 6414,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5785,
+      "Progressed": 5786,
       "Completed": 113
     }
   ],
@@ -9931,8 +9936,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-04T22:58:17.3773353+00:00",
-  "LastChanged_Achievements": "2023-11-07T04:08:26.8197127+00:00",
+  "LastChanged_Achievements": "2023-11-07T05:08:49.6247147+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:59:06.1310035+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:08:26.8197784+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:59:42.6729007+00:00",
+  "LastUpdate_Achievements": "2023-11-07T05:08:49.6248428+00:00"
 }

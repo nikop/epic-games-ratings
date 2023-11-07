@@ -4,8 +4,8 @@
   "ProductSlug": "m1-tank-platoon-2-2d2c31",
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-03T06:00:00+00:00",
     "PcReleaseDate": "1998-03-25T00:00:00+00:00",
@@ -45,5 +45,5 @@
   "LastChanged": "2023-03-31T05:57:08.1684426+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:14.1669603+00:00",
   "LastUpdate_Ratings": "2023-11-07T04:00:22.1623419+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:06:30.9349843+00:00"
+  "LastUpdate_Achievements": "2023-11-07T05:08:06.8227574+00:00"
 }

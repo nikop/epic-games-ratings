@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 72,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3037,10 +3037,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2712,
       "NumberOfAwardsMax": 305
+    },
+    {
+      "Time": "2023-11-07T04:59:12.3319684+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2717,
+      "NumberOfAwardsMax": 305
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2712,
+  "NumberOfAwards": 2717,
   "NumberOfAwardsMax": 305,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3060,7 +3066,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 248
+      "Count": 253
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3117,9 +3123,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30419,
+  "EOS_Progressed": 30422,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1324,
+  "EOS_NewPlayers": 1314,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18212,6 +18218,11 @@
       "Time": "2023-11-07T04:06:16.0903193+00:00",
       "NumProgressed": 30419,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-07T05:07:09.5291254+00:00",
+      "NumProgressed": 30422,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18527,7 +18538,7 @@
       "Name": "Stylish",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "Summoner",
@@ -18630,16 +18641,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30419,
+      "Progressed": 30422,
       "Completed": 65
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-07T02:59:10.0915905+00:00",
-  "LastChanged_Achievements": "2023-11-07T04:06:16.0903187+00:00",
+  "LastChanged": "2023-11-07T04:59:12.3319682+00:00",
+  "LastChanged_Achievements": "2023-11-07T05:07:09.5291248+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:58:41.8721273+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:06:16.0904249+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:59:12.3319689+00:00",
+  "LastUpdate_Achievements": "2023-11-07T05:07:09.5293205+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5871,9 +5871,9 @@
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1072
     },
     {
       "ID": "A35",
@@ -6048,8 +6048,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-06T17:57:18.8272993+00:00",
-  "LastChanged_Achievements": "2023-11-07T04:03:49.3373531+00:00",
+  "LastChanged_Achievements": "2023-11-07T05:04:13.4397084+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-07T03:57:31.6772717+00:00",
-  "LastUpdate_Achievements": "2023-11-07T04:03:49.3374143+00:00"
+  "LastUpdate_Ratings": "2023-11-07T04:57:41.1549332+00:00",
+  "LastUpdate_Achievements": "2023-11-07T05:04:13.43981+00:00"
 }

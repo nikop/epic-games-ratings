@@ -19,7 +19,7 @@ Rating: 4.46 (Ranked 644)
 | Right through the middle | 58.00% | ~1,219 |
 | Facility Manager | 54.00% | ~1,135 |
 | Poor Devil | 54.00% | ~1,135 |
-| Producer | 50.00% | ~1,050 |
+| Producer | 51.00% | ~1,072 |
 | Apprentice | 42.00% | ~882 |
 | Bridge Builder | 42.00% | ~882 |
 | Access granted | 35.00% | ~735 |
