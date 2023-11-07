@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.61% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.60% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -175,9 +175,9 @@
 | 173 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.67% |
 | 174 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 175 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |
-| 176 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.63% |
-| 177 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
-| 177 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.62% |
+| 176 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.62% |
+| 176 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.62% |
+| 176 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.62% |
 | 179 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 180 | [Haven](games/h/haven.md) | 0.60% |
 | 180 | [The Surge 2](games/t/the_surge_2.md) | 0.60% |
@@ -194,9 +194,9 @@
 | 192 | [Eternights](games/e/eternights.md) | 0.52% |
 | 192 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.52% |
 | 192 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.52% |
-| 195 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
-| 195 | [Dead Space](games/d/dead_space.md) | 0.50% |
-| 195 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.50% |
+| 195 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.51% |
+| 196 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
+| 196 | [Dead Space](games/d/dead_space.md) | 0.50% |
 | 198 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.48% |
 | 198 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
 | 200 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.47% |
