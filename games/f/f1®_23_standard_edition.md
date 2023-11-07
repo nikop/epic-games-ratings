@@ -18,7 +18,7 @@ Rating: 4.68 (Ranked 250)
 | Making History | 30.00% | ~1,568 |
 | A Dozen Pieces | 28.00% | ~1,464 |
 | Network Success | 24.00% | ~1,255 |
-| Writing a new Chapter | 23.00% | ~1,202 |
+| Writing a new Chapter | 24.00% | ~1,255 |
 | Spring Cleaning | 22.00% | ~1,150 |
 | Reduce | 19.00% | ~993 |
 | Ups and Downs | 18.00% | ~941 |

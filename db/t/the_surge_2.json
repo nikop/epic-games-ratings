@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -264,9 +264,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2178,
+  "EOS_Progressed": 2179,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -3074,6 +3074,11 @@
       "Time": "2023-11-07T07:09:12.0238593+00:00",
       "NumProgressed": 2178,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-07T08:09:34.2391701+00:00",
+      "NumProgressed": 2179,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3093,15 +3098,15 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1437
+      "UsersEstimate": 1438
     },
     {
       "ID": "ACHV_03",
       "SetID": "8p5mlmc",
       "Name": "Dead Again",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 370
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHV_04",
@@ -3109,7 +3114,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACHV_05",
@@ -3117,7 +3122,7 @@
       "Name": "Studied The Blade",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "ACHV_06",
@@ -3173,7 +3178,7 @@
       "Name": "Reverse Engineering",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHV_13",
@@ -3213,7 +3218,7 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHV_18",
@@ -3221,7 +3226,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACHV_19",
@@ -3285,7 +3290,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "ACHV_27",
@@ -3293,7 +3298,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACHV_28",
@@ -3389,7 +3394,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "ACHV_40",
@@ -3540,7 +3545,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2178,
+      "Progressed": 2179,
       "Completed": 13
     }
   ],
@@ -3548,8 +3553,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-09-02T12:01:51.7744509+00:00",
-  "LastChanged_Achievements": "2023-11-07T07:09:12.0238589+00:00",
+  "LastChanged_Achievements": "2023-11-07T08:09:34.2391695+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:22.6929066+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:59:51.769152+00:00",
-  "LastUpdate_Achievements": "2023-11-07T07:09:12.023917+00:00"
+  "LastUpdate_Ratings": "2023-11-07T08:00:07.6390456+00:00",
+  "LastUpdate_Achievements": "2023-11-07T08:09:34.2392434+00:00"
 }

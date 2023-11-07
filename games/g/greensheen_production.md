@@ -19,12 +19,12 @@
 | Merciful feat | 79.00% | ~11 |
 | Referee! | 79.00% | ~11 |
 | What's in the box?! | 79.00% | ~11 |
+| Signal interruption | 79.00% | ~11 |
 | Fly Free | 79.00% | ~11 |
 | Popcorn | 79.00% | ~11 |
 | First do no harm | 79.00% | ~11 |
 | X Best Friends | 79.00% | ~11 |
 | Twenty-Six | 71.00% | ~10 |
-| Signal interruption | 71.00% | ~10 |
 | Half hat | 71.00% | ~10 |
 | Fair Prey | 71.00% | ~10 |
 | Sick Kids | 71.00% | ~10 |

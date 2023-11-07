@@ -4,8 +4,8 @@
   "ProductSlug": "robocop-rogue-city",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
     "PcReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 255,
+  "EOS_Progressed": 261,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -141,6 +141,11 @@
     {
       "Time": "2023-11-07T07:05:27.669137+00:00",
       "NumProgressed": 255,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T08:05:51.7600611+00:00",
+      "NumProgressed": 261,
       "NumCompleted": 0
     }
   ],
@@ -369,14 +374,14 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 255,
+      "Progressed": 261,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged_Achievements": "2023-11-07T07:05:27.6691367+00:00",
+  "LastChanged_Achievements": "2023-11-07T08:05:51.7600602+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:12.760511+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:58:25.6990944+00:00",
-  "LastUpdate_Achievements": "2023-11-07T07:05:27.6691518+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:58:33.1948168+00:00",
+  "LastUpdate_Achievements": "2023-11-07T08:05:51.7600816+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~23,975 |
-| Exploitative | 4.00% | ~19,180 |
-| Point Shooting | 4.00% | ~19,180 |
-| Wet Feet | 4.00% | ~19,180 |
+| Wallbanger | 5.00% | ~23,976 |
+| Exploitative | 4.00% | ~19,181 |
+| Point Shooting | 4.00% | ~19,181 |
+| Wet Feet | 4.00% | ~19,181 |
 | High Speed Low Drag | 3.00% | ~14,385 |
 | Lucky | 3.00% | ~14,385 |
 | Stylin' | 3.00% | ~14,385 |
@@ -23,26 +23,26 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~4,795 |
 | Ruthless | 1.00% | ~4,795 |
 | Semper Paratus | 1.00% | ~4,795 |
-| Carrying | 0.90% | ~4,315 |
-| Efficient | 0.90% | ~4,315 |
-| Mount & Gun | 0.90% | ~4,315 |
-| Personal | 0.90% | ~4,315 |
+| Carrying | 0.90% | ~4,316 |
+| Efficient | 0.90% | ~4,316 |
+| Mount & Gun | 0.90% | ~4,316 |
+| Personal | 0.90% | ~4,316 |
 | Grounded | 0.80% | ~3,836 |
 | Play to Win | 0.80% | ~3,836 |
-| Special Delivery | 0.70% | ~3,356 |
+| Special Delivery | 0.70% | ~3,357 |
 | Firefight Victory | 0.60% | ~2,877 |
 | #1 | 0.60% | ~2,877 |
-| Cinematic | 0.50% | ~2,397 |
+| Cinematic | 0.50% | ~2,398 |
 | Thanks Station! | 0.40% | ~1,918 |
-| Knock Knock | 0.30% | ~1,438 |
-| There For You | 0.30% | ~1,438 |
+| Knock Knock | 0.30% | ~1,439 |
+| There For You | 0.30% | ~1,439 |
 | Hit and Run | 0.20% | ~959 |
-| Designated Driver | 0.10% | ~479 |
-| J.R. .50 | 0.10% | ~479 |
-| It's All in the Reflexes | 0.10% | ~479 |
-| Road Hazard | 0.10% | ~479 |
+| Designated Driver | 0.10% | ~480 |
+| J.R. .50 | 0.10% | ~480 |
+| It's All in the Reflexes | 0.10% | ~480 |
+| Road Hazard | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,498 (Ranked 38)  
+Progressed: 479,515 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 2 (0.00%) (Ranked 345)
 | 2023-11-04 | 476,463 | 2 |
 | 2023-11-05 | 477,895 | 2 |
 | 2023-11-06 | 479,200 | 2 |
-| 2023-11-07 | 479,498 | 2 |
+| 2023-11-07 | 479,515 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 394  (Ranked 226)  
 Sum: 3,132 (Ranked 171)  

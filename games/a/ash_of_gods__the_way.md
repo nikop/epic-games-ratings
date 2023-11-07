@@ -6,18 +6,18 @@
 | ---- | ---------- | ----- |
 | First success | 100.00% | ~30 |
 | Suicide squad | 50.00% | ~15 |
+| First blood | 27.00% | ~8 |
 | Train hard, fight easy | 23.00% | ~7 |
 | Under cover | 23.00% | ~7 |
-| First blood | 23.00% | ~7 |
 | All for one! | 20.00% | ~6 |
 | Royal blessing | 17.00% | ~5 |
 | A hidden snake | 17.00% | ~5 |
 | Blood and sand | 17.00% | ~5 |
+| Power of Inquisition | 13.00% | ~4 |
 | Vene, vidi, vici | 13.00% | ~4 |
 | Crimson rivers | 10.00% | ~3 |
 | Overplay the rogue | 10.00% | ~3 |
 | Berkanan Borgia | 10.00% | ~3 |
-| Power of Inquisition | 10.00% | ~3 |
 | The champion of the arena | 10.00% | ~3 |
 | Surpass the teacher | 10.00% | ~3 |
 | By own strength | 10.00% | ~3 |

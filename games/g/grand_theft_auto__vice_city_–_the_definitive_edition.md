@@ -1,14 +1,14 @@
 # Grand Theft Auto: Vice City – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-vice-city-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__vice_city_–_the_definitive_edition.json)  
-Rating: 4.53 (Ranked 534)  
+Rating: 4.53 (Ranked 533)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Legal Counsel | 46.00% | ~5,022 |
 | Greasy Palms | 42.00% | ~4,586 |
 | South American Connection | 26.00% | ~2,839 |
-| Life of the Party | 20.00% | ~2,184 |
+| Life of the Party | 21.00% | ~2,293 |
 | Tommy Two-Wheels | 16.00% | ~1,747 |
 | Big Heat from Little Havana | 15.00% | ~1,638 |
 | Chauffeur | 15.00% | ~1,638 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3123,9 +3123,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30425,
+  "EOS_Progressed": 30426,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1307,
+  "EOS_NewPlayers": 1303,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18233,6 +18233,11 @@
       "Time": "2023-11-07T07:07:03.6240622+00:00",
       "NumProgressed": 30425,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-07T08:08:30.4956134+00:00",
+      "NumProgressed": 30426,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18252,7 +18257,7 @@
       "Name": "Animated",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Back_Off",
@@ -18260,7 +18265,7 @@
       "Name": "Back Off",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Best_Insurance",
@@ -18268,7 +18273,7 @@
       "Name": "We have the best insurance",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -18316,7 +18321,7 @@
       "Name": "Daily Dose",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Diabolical",
@@ -18348,7 +18353,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Efficient",
@@ -18404,7 +18409,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Legions",
@@ -18412,7 +18417,7 @@
       "Name": "Legions",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Liability",
@@ -18460,7 +18465,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Reckless",
@@ -18476,7 +18481,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Rift_Seeker",
@@ -18508,7 +18513,7 @@
       "Name": "Seasoned",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Side_Hustle",
@@ -18516,7 +18521,7 @@
       "Name": "Side Hustle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Skilled",
@@ -18524,7 +18529,7 @@
       "Name": "Skilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Solo_Capture",
@@ -18540,7 +18545,7 @@
       "Name": "Stunner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Stylish",
@@ -18556,7 +18561,7 @@
       "Name": "Summoner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Surprise",
@@ -18636,7 +18641,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "Whoopsie",
@@ -18651,7 +18656,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30425,
+      "Progressed": 30426,
       "Completed": 65
     }
   ],
@@ -18659,8 +18664,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-07T04:59:12.3319682+00:00",
-  "LastChanged_Achievements": "2023-11-07T07:07:03.624062+00:00",
+  "LastChanged_Achievements": "2023-11-07T08:08:30.4956128+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:59:12.1920584+00:00",
-  "LastUpdate_Achievements": "2023-11-07T07:07:03.6241484+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:59:22.850846+00:00",
+  "LastUpdate_Achievements": "2023-11-07T08:08:30.4957676+00:00"
 }

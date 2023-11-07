@@ -5,18 +5,18 @@ Rating: 4.84 (Ranked 50)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~227,495 |
-| Private Club | 74.00% | ~184,996 |
+| Forgotten Sorority | 91.00% | ~227,496 |
+| Private Club | 74.00% | ~184,997 |
 | Rogue Guild | 65.00% | ~162,497 |
-| I Watched the Intro | 57.00% | ~142,497 |
-| Covert Consortium | 55.00% | ~137,497 |
-| Goat Queen | 53.00% | ~132,497 |
+| I Watched the Intro | 57.00% | ~142,498 |
+| Covert Consortium | 55.00% | ~137,498 |
+| Goat Queen | 53.00% | ~132,498 |
 | Reach the Stratosphere | 50.00% | ~124,998 |
 | Synchronization Complete | 47.00% | ~117,498 |
 | Secret Society | 45.00% | ~112,498 |
 | Shadow Syndicate | 38.00% | ~94,998 |
-| What a Waste of Money | 33.00% | ~82,498 |
-| New Goat Order | 30.00% | ~74,998 |
+| What a Waste of Money | 33.00% | ~82,499 |
+| New Goat Order | 30.00% | ~74,999 |
 | Don't touch the servers | 28.00% | ~69,999 |
 | San Angora: Become Human | 27.00% | ~67,499 |
 | Real Buoy | 27.00% | ~67,499 |
@@ -28,7 +28,7 @@ Rating: 4.84 (Ranked 50)
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,499 |
 | Black Market | 14.00% | ~34,999 |
 | 401(K.O.) | 14.00% | ~34,999 |
-| Car Cave | 12.00% | ~29,999 |
+| Car Cave | 12.00% | ~30,000 |
 | Club Mohair | 8.00% | ~20,000 |
 | A Center for Ants? | 8.00% | ~20,000 |
 | French Fika | 7.00% | ~17,500 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 50)
 | Move! That! Bus! | 0.60% | ~1,500 |
 | G.O.A.T | 0.30% | ~750 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,995 (Ranked 59)  
+Progressed: 249,996 (Ranked 59)  
 Completed: 871 (0.35%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 871 (0.35%) (Ranked 216)
 | 2023-11-04 | 249,783 | 871 |
 | 2023-11-05 | 249,902 | 871 |
 | 2023-11-06 | 249,981 | 871 |
-| 2023-11-07 | 249,995 | 871 |
+| 2023-11-07 | 249,996 | 871 |
 ## Awards
 Max (Great for Beginners): 454  (Ranked 212)  
 Sum: 3,768 (Ranked 158)  

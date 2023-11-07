@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3869,
+  "EOS_Progressed": 3870,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -9349,6 +9349,11 @@
       "Time": "2023-11-07T06:04:56.7405766+00:00",
       "NumProgressed": 3869,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-07T08:05:07.8208188+00:00",
+      "NumProgressed": 3870,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -9392,7 +9397,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 2979
+      "UsersEstimate": 2980
     },
     {
       "ID": "ach_architecture_completed",
@@ -9480,21 +9485,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3869,
+      "Progressed": 3870,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-07T07:04:48.1180827+00:00",
+  "LastChanged_Achievements": "2023-11-07T08:05:07.8208181+00:00",
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.1990735+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:59:52.4547133+00:00",
-  "LastUpdate_Achievements": "2023-11-07T07:04:48.1181357+00:00"
+  "LastUpdate_Ratings": "2023-11-07T08:00:08.4044975+00:00",
+  "LastUpdate_Achievements": "2023-11-07T08:05:07.8208981+00:00"
 }

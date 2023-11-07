@@ -2,7 +2,7 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 734,
+  "Ranking_Rating": 760,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 141,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-10-16T17:01:54.4862812+00:00",
@@ -142,15 +142,21 @@
       "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-07T07:59:47.709403+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16782,
+  "EOS_Progressed": 16787,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 3328,
+  "EOS_NewPlayers": 3326,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -2298,6 +2304,11 @@
       "Time": "2023-11-07T07:09:18.2090963+00:00",
       "NumProgressed": 16782,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-07T08:09:40.9582554+00:00",
+      "NumProgressed": 16787,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 24,
@@ -2309,7 +2320,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH_CollectAll",
@@ -2357,7 +2368,7 @@
       "Name": "Bronze Trophy",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_S8AllCubes",
@@ -2389,7 +2400,7 @@
       "Name": "Phew!",
       "Percentage": 0.7,
       "XP": 45,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_S8AllPuzzles",
@@ -2413,7 +2424,7 @@
       "Name": "Completed It.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACH_S8MasterRoom",
@@ -2437,7 +2448,7 @@
       "Name": "Sector 1",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "ACH_Sector2",
@@ -2477,7 +2488,7 @@
       "Name": "Sector 6",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH_Sector7",
@@ -2500,16 +2511,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 16782,
+      "Progressed": 16787,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
-  "LastChanged": "2023-11-06T08:59:13.9101699+00:00",
-  "LastChanged_Achievements": "2023-11-07T07:09:18.2090961+00:00",
+  "LastChanged": "2023-11-07T07:59:47.7094027+00:00",
+  "LastChanged_Achievements": "2023-11-07T08:09:40.9582546+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:46.5183282+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:59:34.0215611+00:00",
-  "LastUpdate_Achievements": "2023-11-07T07:09:18.2091139+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:59:47.7094034+00:00",
+  "LastUpdate_Achievements": "2023-11-07T08:09:40.9583128+00:00"
 }

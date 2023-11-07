@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,549 |
-| Titan's First Steps | 4.00% | ~5,549 |
+| Sponsored by Argon | 4.00% | ~5,550 |
+| Titan's First Steps | 4.00% | ~5,550 |
 | Basic in Bulk | 3.00% | ~4,162 |
 | Disintermediation | 3.00% | ~4,162 |
 | Tinkle of Coins | 3.00% | ~4,162 |
@@ -43,11 +43,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 1.00% | ~1,387 |
 | Natural 20 | 1.00% | ~1,387 |
 | Did we pack lunch? | 1.00% | ~1,387 |
+| Magical Harmony | 1.00% | ~1,387 |
 | Arcane Industries | 1.00% | ~1,387 |
 | Tax not Included | 0.90% | ~1,249 |
 | For the Hoard! | 0.90% | ~1,249 |
 | Trash to Treasure | 0.90% | ~1,249 |
-| Magical Harmony | 0.90% | ~1,249 |
 | A Notch Above the Rest | 0.80% | ~1,110 |
 | The King's Caprice | 0.80% | ~1,110 |
 | Big Game Hunting | 0.80% | ~1,110 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,737 (Ranked 79)  
+Progressed: 138,738 (Ranked 79)  
 Completed: 178 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 178 (0.13%) (Ranked 257)
 | 2023-11-04 | 138,604 | 178 |
 | 2023-11-05 | 138,681 | 178 |
 | 2023-11-06 | 138,721 | 178 |
-| 2023-11-07 | 138,737 | 178 |
+| 2023-11-07 | 138,738 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 73)  
 Sum: 27,505 (Ranked 51)  

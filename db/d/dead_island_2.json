@@ -6213,9 +6213,9 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714293,
+  "EOS_Progressed": 714313,
   "EOS_Completed": 2350,
-  "EOS_NewPlayers": 5315,
+  "EOS_NewPlayers": 5335,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29108,6 +29108,11 @@
       "Time": "2023-11-07T07:05:51.2901912+00:00",
       "NumProgressed": 714293,
       "NumCompleted": 2350
+    },
+    {
+      "Time": "2023-11-07T08:06:12.2877005+00:00",
+      "NumProgressed": 714313,
+      "NumCompleted": 2350
     }
   ],
   "TotalAchievements": 51,
@@ -29453,9 +29458,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2857
+      "UsersEstimate": 3572
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29479,7 +29484,7 @@
       "Name": "One of Us",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ach_dark_magic",
@@ -29487,7 +29492,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ach_gardening_tools",
@@ -29503,7 +29508,7 @@
       "Name": "Pork Chopped",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29526,22 +29531,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714293,
+      "Progressed": 714313,
       "Completed": 2350
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39835,
-      "Completed": 36475
+      "Progressed": 39855,
+      "Completed": 36476
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-07T01:42:53.6891474+00:00",
-  "LastChanged_Achievements": "2023-11-07T07:05:51.290191+00:00",
+  "LastChanged_Achievements": "2023-11-07T08:06:12.2876997+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:58:03.4902653+00:00",
-  "LastUpdate_Achievements": "2023-11-07T07:05:51.2903311+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:58:09.4003552+00:00",
+  "LastUpdate_Achievements": "2023-11-07T08:06:12.2879296+00:00"
 }

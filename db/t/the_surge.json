@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 214,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4812,
+  "EOS_Progressed": 4813,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3116,6 +3116,11 @@
       "Time": "2023-11-07T06:03:31.0370245+00:00",
       "NumProgressed": 4812,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-07T08:03:43.1739284+00:00",
+      "NumProgressed": 4813,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3135,7 +3140,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -3151,7 +3156,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -3167,7 +3172,7 @@
       "Name": "For the Good of Mankind",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -3175,7 +3180,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4090
+      "UsersEstimate": 4091
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3183,7 +3188,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4523
+      "UsersEstimate": 4524
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3191,7 +3196,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3705
+      "UsersEstimate": 3706
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3199,7 +3204,7 @@
       "Name": "Hey Listen",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1780
+      "UsersEstimate": 1781
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -3223,7 +3228,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -3343,7 +3348,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3705
+      "UsersEstimate": 3706
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3391,7 +3396,7 @@
       "Name": "Most Wanted",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -3471,7 +3476,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3487,7 +3492,7 @@
       "Name": "Sniffing Around",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ID_ACHIEV_48",
@@ -3559,7 +3564,7 @@
       "Name": "Rusty Rat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ID_ACHIEV_57",
@@ -3647,7 +3652,7 @@
       "Name": "Desecration",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ID_ACHIEV_68",
@@ -3662,15 +3667,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4812,
+      "Progressed": 4813,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-11-07T07:03:29.8205214+00:00",
+  "LastChanged_Achievements": "2023-11-07T08:03:43.1739279+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:08.5598133+00:00",
-  "LastUpdate_Ratings": "2023-11-07T06:58:38.2318893+00:00",
-  "LastUpdate_Achievements": "2023-11-07T07:03:29.8205766+00:00"
+  "LastUpdate_Ratings": "2023-11-07T07:58:46.3761181+00:00",
+  "LastUpdate_Achievements": "2023-11-07T08:03:43.1740209+00:00"
 }

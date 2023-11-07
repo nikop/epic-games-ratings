@@ -3,7 +3,7 @@
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 551,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": null,
@@ -224,9 +224,9 @@
       "ID": "GameComplete",
       "SetID": "aph8hbk",
       "Name": "Signal interruption",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 60,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Governess",
@@ -398,8 +398,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-11-07T07:08:48.9692526+00:00",
+  "LastChanged_Achievements": "2023-11-07T08:09:08.2505017+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-11-07T07:00:27.3240407+00:00",
-  "LastUpdate_Achievements": "2023-11-07T07:08:48.9692745+00:00"
+  "LastUpdate_Ratings": "2023-11-07T08:00:48.9414899+00:00",
+  "LastUpdate_Achievements": "2023-11-07T08:09:08.2505265+00:00"
 }

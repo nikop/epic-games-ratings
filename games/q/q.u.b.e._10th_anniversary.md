@@ -1,28 +1,28 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.40 (Ranked 734)  
+Rating: 4.38 (Ranked 760)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 9.00% | ~1,510 |
+| Sector 1 | 9.00% | ~1,511 |
 | Sector 2 | 8.00% | ~1,343 |
 | Crush That Cube! | 7.00% | ~1,175 |
 | Sector 3 | 7.00% | ~1,175 |
 | Crush That Ball! | 6.00% | ~1,007 |
 | Sector 4 | 5.00% | ~839 |
 | Sector 5 | 4.00% | ~671 |
-| Feeling the Blues | 3.00% | ~503 |
-| Sector 6 | 3.00% | ~503 |
+| Feeling the Blues | 3.00% | ~504 |
+| Sector 6 | 3.00% | ~504 |
 | Squished | 2.00% | ~336 |
 | Finale | 2.00% | ~336 |
 | Sector 7 | 2.00% | ~336 |
 | Did That Work? -- No! | 2.00% | ~336 |
 | Master Room | 1.00% | ~168 |
 | The Puzzle Master | 0.90% | ~151 |
-| Bronze Trophy | 0.70% | ~117 |
-| Phew! | 0.70% | ~117 |
-| Completed It. | 0.70% | ~117 |
+| Bronze Trophy | 0.70% | ~118 |
+| Phew! | 0.70% | ~118 |
+| Completed It. | 0.70% | ~118 |
 | Gold Trophy | 0.60% | ~101 |
 | Hopefully that's all of them! | 0.60% | ~101 |
 | Silver Trophy | 0.60% | ~101 |
@@ -30,7 +30,7 @@ Rating: 4.40 (Ranked 734)
 | The Collector | 0.50% | ~84 |
 | Master Of The Collectables | 0.50% | ~84 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,782 (Ranked 141)  
+Progressed: 16,787 (Ranked 141)  
 Completed: 28 (0.17%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -54,7 +54,7 @@ Completed: 28 (0.17%) (Ranked 250)
 | 2023-11-04 | 15,819 | 16 |
 | 2023-11-05 | 16,344 | 23 |
 | 2023-11-06 | 16,699 | 28 |
-| 2023-11-07 | 16,782 | 28 |
+| 2023-11-07 | 16,787 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -76,3 +76,4 @@ Completed: 28 (0.17%) (Ranked 250)
 | 2023-11-03 | 4.38 | 0 | 0 |
 | 2023-11-04 | 4.39 | 0 | 0 |
 | 2023-11-06 | 4.40 | 0 | 0 |
+| 2023-11-07 | 4.38 | 0 | 0 |

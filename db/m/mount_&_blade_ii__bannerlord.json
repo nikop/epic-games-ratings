@@ -2,13 +2,13 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 153,
+  "Ranking_Rating": 154,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8550,9 +8550,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64636,
+  "EOS_Progressed": 64640,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29695,6 +29695,11 @@
       "Time": "2023-11-07T05:08:55.4553804+00:00",
       "NumProgressed": 64636,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-07T08:09:31.3773669+00:00",
+      "NumProgressed": 64640,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29706,7 +29711,7 @@
       "Name": "Against all odds",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7756
+      "UsersEstimate": 7757
     },
     {
       "ID": "Apple of my eye",
@@ -29722,7 +29727,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14866
+      "UsersEstimate": 14867
     },
     {
       "ID": "Best served cold",
@@ -29746,7 +29751,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5817
+      "UsersEstimate": 5818
     },
     {
       "ID": "Catch",
@@ -29866,7 +29871,7 @@
       "Name": "Horde breaker",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 14866
+      "UsersEstimate": 14867
     },
     {
       "ID": "I can do it",
@@ -29898,7 +29903,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11634
+      "UsersEstimate": 11635
     },
     {
       "ID": "Kingslayer",
@@ -29930,7 +29935,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21330
+      "UsersEstimate": 21331
     },
     {
       "ID": "Lawbringer",
@@ -29938,7 +29943,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25854
+      "UsersEstimate": 25856
     },
     {
       "ID": "Lawmaker",
@@ -29946,7 +29951,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14866
+      "UsersEstimate": 14867
     },
     {
       "ID": "Long live the Empire",
@@ -30058,7 +30063,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12281
+      "UsersEstimate": 12282
     },
     {
       "ID": "This Is Our Land",
@@ -30082,7 +30087,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14866
+      "UsersEstimate": 14867
     },
     {
       "ID": "Undercover",
@@ -30098,7 +30103,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -30113,15 +30118,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64636,
+      "Progressed": 64640,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-06T17:14:27.2373134+00:00",
-  "LastChanged_Achievements": "2023-11-07T07:09:09.6821953+00:00",
+  "LastChanged_Achievements": "2023-11-07T08:09:31.3773661+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:31.2641432+00:00",
-  "LastUpdate_Ratings": "2023-11-07T07:01:02.0456991+00:00",
-  "LastUpdate_Achievements": "2023-11-07T07:09:09.682328+00:00"
+  "LastUpdate_Ratings": "2023-11-07T08:02:49.9719661+00:00",
+  "LastUpdate_Achievements": "2023-11-07T08:09:31.3775799+00:00"
 }

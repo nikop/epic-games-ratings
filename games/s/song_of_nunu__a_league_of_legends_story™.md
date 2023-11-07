@@ -31,8 +31,8 @@
 | Never Gets Old | 33.00% | ~175 |
 | Snowy Poro | 32.00% | ~170 |
 | Bullseye | 32.00% | ~170 |
+| Family | 31.00% | ~164 |
 | Boosted! | 31.00% | ~164 |
-| Family | 30.00% | ~159 |
 | Biggest Snowball Ever | 30.00% | ~159 |
 | Freeze The Ice Witch | 30.00% | ~159 |
 | Deadliest and Biggest Snowball Ever! | 30.00% | ~159 |

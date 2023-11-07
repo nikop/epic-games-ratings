@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 67.00% | ~29 |
+| The Camp | 72.00% | ~31 |
 | The Teleprobe | 37.00% | ~16 |
 | The City | 23.00% | ~10 |
 | Krauta is alive | 14.00% | ~6 |

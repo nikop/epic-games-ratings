@@ -6,27 +6,27 @@ Number of Ratings: 101  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Our Man | 86.00% | ~571 |
-| Take-Off | 80.00% | ~531 |
-| Hokey-Pokey | 71.00% | ~471 |
-| Camellos | 58.00% | ~385 |
-| Didn't Miss A Single One | 46.00% | ~305 |
-| Bad Trip | 46.00% | ~305 |
-| Spread | 41.00% | ~272 |
+| Our Man | 86.00% | ~572 |
+| Take-Off | 80.00% | ~532 |
+| Hokey-Pokey | 71.00% | ~472 |
+| Camellos | 58.00% | ~386 |
+| Didn't Miss A Single One | 46.00% | ~306 |
+| Bad Trip | 46.00% | ~306 |
+| Spread | 41.00% | ~273 |
 | That was base | 40.00% | ~266 |
-| Safe Pair of Hands | 38.00% | ~252 |
-| Don't Let Mom Know You're A Druglord | 32.00% | ~212 |
+| Safe Pair of Hands | 37.00% | ~246 |
+| Don't Let Mom Know You're A Druglord | 32.00% | ~213 |
 | Architect of Fortunes | 26.00% | ~173 |
-| Pampered Life | 24.00% | ~159 |
+| Pampered Life | 24.00% | ~160 |
 | Bite the Blow | 23.00% | ~153 |
 | Spreading Fear | 10.00% | ~66 |
-| Follow the Money | 7.00% | ~46 |
-| I'm Going To Call You Kitty | 7.00% | ~46 |
+| Follow the Money | 7.00% | ~47 |
+| I'm Going To Call You Kitty | 7.00% | ~47 |
 | Operation Odessa | 1.00% | ~7 |
 | Iron Lady | 0.60% | ~4 |
 | Sense Of Style | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 664 (Ranked 273)  
+Progressed: 665 (Ranked 273)  
 Completed: 2 (0.30%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 2 (0.30%) (Ranked 225)
 | 2023-11-03 | 659 | 2 |
 | 2023-11-04 | 662 | 2 |
 | 2023-11-05 | 663 | 2 |
-| 2023-11-07 | 664 | 2 |
+| 2023-11-07 | 665 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
