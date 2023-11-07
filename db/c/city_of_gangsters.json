@@ -2,13 +2,13 @@
   "ID": "e33138cc2b964d38a42a812b83b6507e",
   "Name": "City of Gangsters",
   "ProductSlug": "city-of-gangsters-6c2974",
-  "Ranking_Rating": 844,
+  "Ranking_Rating": 845,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -736,9 +736,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 351280,
+  "EOS_Progressed": 351282,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1144,
+  "EOS_NewPlayers": 1145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23501,6 +23501,11 @@
       "Time": "2023-11-07T09:06:19.241703+00:00",
       "NumProgressed": 351280,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-07T10:08:27.3643066+00:00",
+      "NumProgressed": 351282,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -23600,7 +23605,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28102
+      "UsersEstimate": 28103
     },
     {
       "ID": "ach013",
@@ -23640,7 +23645,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 45666
+      "UsersEstimate": 45667
     },
     {
       "ID": "ach018",
@@ -23648,7 +23653,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28102
+      "UsersEstimate": 28103
     },
     {
       "ID": "ach019",
@@ -23720,7 +23725,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 165102
+      "UsersEstimate": 165103
     },
     {
       "ID": "ach028",
@@ -23864,7 +23869,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 45666
+      "UsersEstimate": 45667
     },
     {
       "ID": "ach046",
@@ -24151,7 +24156,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 351280,
+      "Progressed": 351282,
       "Completed": 7
     }
   ],
@@ -24159,8 +24164,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-03T12:00:54.9425355+00:00",
-  "LastChanged_Achievements": "2023-11-07T09:06:19.2417027+00:00",
+  "LastChanged_Achievements": "2023-11-07T10:08:27.3643053+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.7953727+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:57:19.4855331+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:06:19.2418484+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:57:27.4221352+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:08:27.3644901+00:00"
 }

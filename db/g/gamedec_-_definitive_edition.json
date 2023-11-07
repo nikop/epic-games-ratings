@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 835,
+  "Ranking_Rating": 836,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -477,7 +477,7 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 251358,
+  "EOS_Progressed": 251359,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 0,
@@ -22947,6 +22947,11 @@
       "Time": "2023-11-07T09:04:46.6453986+00:00",
       "NumProgressed": 251358,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-07T10:06:17.6102816+00:00",
+      "NumProgressed": 251359,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23102,7 +23107,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70380
+      "UsersEstimate": 70381
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -23238,7 +23243,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15081
+      "UsersEstimate": 15082
     },
     {
       "ID": "ACH_MEMORY5",
@@ -23326,7 +23331,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15081
+      "UsersEstimate": 15082
     },
     {
       "ID": "ACH_TROLLKING",
@@ -23373,7 +23378,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251358,
+      "Progressed": 251359,
       "Completed": 7
     }
   ],
@@ -23381,8 +23386,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-07T09:04:46.6453983+00:00",
+  "LastChanged_Achievements": "2023-11-07T10:06:17.610281+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.5962658+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:58:16.0990091+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:04:46.6455187+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:58:49.2300717+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:06:17.6104434+00:00"
 }

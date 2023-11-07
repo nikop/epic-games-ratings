@@ -27,7 +27,7 @@ Rating: 4.38 (Ranked 760)
 | Nearly there | 26.00% | ~290 |
 | Broken heart | 24.00% | ~268 |
 | Island boy | 22.00% | ~246 |
-| You're a star | 20.00% | ~223 |
+| You're a star | 21.00% | ~235 |
 | Unstoppable | 19.00% | ~212 |
 | Reunited | 19.00% | ~212 |
 | King of hospitality | 11.00% | ~123 |

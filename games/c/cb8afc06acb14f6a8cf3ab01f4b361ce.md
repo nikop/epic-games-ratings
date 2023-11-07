@@ -6,21 +6,27 @@ Rating: 4.20 (Ranked 904)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | May the Torchbearer light our way | 0.10% | ~305 |
+| A powerful aura was here | 0.10% | ~305 |
+| Rumors are true | 0.10% | ~305 |
+| We'll be careful | 0.10% | ~305 |
+| Back to your senses | 0.10% | ~305 |
+| They tricked me | 0.10% | ~305 |
+| We need to talk | 0.10% | ~305 |
+| I feel drawn to it | 0.10% | ~305 |
+| Here to stay | 0.10% | ~305 |
+| This is the end | 0.10% | ~305 |
+| We can choose to fight | 0.10% | ~305 |
+| No damsels in distress | 0.10% | ~305 |
 | The touch of Chaos | 0.10% | ~305 |
+| They won't last long | 0.10% | ~305 |
+| Pride is a sin, young Knight | 0.10% | ~305 |
+| Your wounds… They are healing so fast! | 0.10% | ~305 |
+| Bring it on! | 0.10% | ~305 |
+| You want more? I've got more! | 0.10% | ~305 |
 | Chaos be damned! | 0.10% | ~305 |
+| I took a risk | 0.10% | ~305 |
 | Let's raise the stakes!! | 0.10% | ~305 |
-| A powerful aura was here | 0.00% | ~0 |
-| Rumors are true | 0.00% | ~0 |
-| We'll be careful | 0.00% | ~0 |
-| Back to your senses | 0.00% | ~0 |
-| They tricked me | 0.00% | ~0 |
-| We need to talk | 0.00% | ~0 |
-| I feel drawn to it | 0.00% | ~0 |
-| Here to stay | 0.00% | ~0 |
 | Counting on you | 0.00% | ~0 |
-| This is the end | 0.00% | ~0 |
-| We can choose to fight | 0.00% | ~0 |
-| No damsels in distress | 0.00% | ~0 |
 | The immortal is bound to reborn | 0.00% | ~0 |
 | A legend among Chimeras | 0.00% | ~0 |
 | It's only pain | 0.00% | ~0 |
@@ -28,25 +34,19 @@ Rating: 4.20 (Ranked 904)
 | Settle this once and for all | 0.00% | ~0 |
 | The Ashen Knight | 0.00% | ~0 |
 | The Shade | 0.00% | ~0 |
-| They won't last long | 0.00% | ~0 |
 | Through the Veil | 0.00% | ~0 |
 | Call this the Judge's mercy | 0.00% | ~0 |
-| Pride is a sin, young Knight | 0.00% | ~0 |
 | There's too many of them! | 0.00% | ~0 |
 | Their fate is sealed | 0.00% | ~0 |
 | Not even from this world | 0.00% | ~0 |
-| Your wounds… They are healing so fast! | 0.00% | ~0 |
-| Bring it on! | 0.00% | ~0 |
 | I've been waiting for this! | 0.00% | ~0 |
-| You want more? I've got more! | 0.00% | ~0 |
 | I'm just warming up | 0.00% | ~0 |
 | We learned it the hard way | 0.00% | ~0 |
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 | We strike as one | 0.00% | ~0 |
-| I took a risk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 304,560 (Ranked 49)  
+Progressed: 304,592 (Ranked 49)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 302,129 | 1 |
 | 2023-11-05 | 303,382 | 1 |
 | 2023-11-06 | 304,252 | 1 |
-| 2023-11-07 | 304,560 | 1 |
+| 2023-11-07 | 304,592 | 1 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 424)  
 Sum: 51 (Ranked 477)  

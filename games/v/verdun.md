@@ -6,9 +6,9 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~48,945 |
-| Worth it | 63.00% | ~39,532 |
-| Eagle Eye | 55.00% | ~34,512 |
+| Setting an example | 78.00% | ~48,946 |
+| Worth it | 63.00% | ~39,533 |
+| Eagle Eye | 55.00% | ~34,513 |
 | Corpseman I | 40.00% | ~25,100 |
 | Blast fishing | 37.00% | ~23,218 |
 | Not alone | 32.00% | ~20,080 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Providentiea Memor | 9.00% | ~5,648 |
 | For King and Country | 9.00% | ~5,648 |
 | Battle hardened | 8.00% | ~5,020 |
-| Semper Fidelis! | 7.00% | ~4,392 |
-| Honneur et Patrie | 7.00% | ~4,392 |
+| Semper Fidelis! | 7.00% | ~4,393 |
+| Honneur et Patrie | 7.00% | ~4,393 |
 | In Treue Fest | 5.00% | ~3,138 |
 | Voor De Koning | 5.00% | ~3,138 |
 | Extreme Headhunter | 5.00% | ~3,138 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~2,510 |
 | There is no I in team | 4.00% | ~2,510 |
 | Corpseman II | 4.00% | ~2,510 |
-| Offense is the best defence | 3.00% | ~1,882 |
-| Veteran | 3.00% | ~1,882 |
-| Manual Labour II | 3.00% | ~1,882 |
-| In My Defens God Me Defend | 3.00% | ~1,882 |
-| Silver x100 | 3.00% | ~1,882 |
-| Impavidum Ferient Bella! | 3.00% | ~1,882 |
+| Offense is the best defence | 3.00% | ~1,883 |
+| Veteran | 3.00% | ~1,883 |
+| Manual Labour II | 3.00% | ~1,883 |
+| In My Defens God Me Defend | 3.00% | ~1,883 |
+| Silver x100 | 3.00% | ~1,883 |
+| Impavidum Ferient Bella! | 3.00% | ~1,883 |
 | Bronze x100 | 2.00% | ~1,255 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,255 |
 | Gold x100 | 1.00% | ~628 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~63 |
 | Blood Brother | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,750 (Ranked 104)  
+Progressed: 62,751 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 4 (0.01%) (Ranked 321)
 | 2023-11-04 | 62,568 | 4 |
 | 2023-11-05 | 62,667 | 4 |
 | 2023-11-06 | 62,733 | 4 |
-| 2023-11-07 | 62,750 | 4 |
+| 2023-11-07 | 62,751 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 351)  
 Sum: 903 (Ranked 270)  

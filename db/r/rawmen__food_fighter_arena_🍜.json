@@ -4,8 +4,8 @@
   "ProductSlug": "rawmen-03f74e",
   "Ranking_EOS_Progress": 729,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.7807932+00:00",
   "LastChanged": "2023-03-31T05:58:41.7807933+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.3933971+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:58:06.7277623+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:04:29.5019351+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:58:35.9556853+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:05:53.217916+00:00"
 }

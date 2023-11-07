@@ -1,9 +1,9 @@
 {
   "ID": "400fd43e2e2f4b3b97bdc32656cb8f09",
   "Name": "greensheen Production",
-  "Ranking_EOS_Progress": 551,
+  "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": null,
@@ -264,9 +264,9 @@
       "ID": "HunterHunted",
       "SetID": "aph8hbk",
       "Name": "Fair Prey",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "KidsHospital",
@@ -296,9 +296,9 @@
       "ID": "KidsWilderness",
       "SetID": "aph8hbk",
       "Name": "Wild Kids",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "MailMan",
@@ -376,17 +376,17 @@
       "ID": "TrapAvoid",
       "SetID": "aph8hbk",
       "Name": "Evasive prey",
-      "Percentage": 71,
+      "Percentage": 79,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Xray",
       "SetID": "aph8hbk",
       "Name": "X Best Friends",
-      "Percentage": 79,
+      "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -398,8 +398,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-11-07T09:08:23.7565183+00:00",
+  "LastChanged_Achievements": "2023-11-07T10:09:00.7055536+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-11-07T09:00:03.551438+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:08:23.7565388+00:00"
+  "LastUpdate_Ratings": "2023-11-07T10:01:28.8125444+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:09:00.7055764+00:00"
 }

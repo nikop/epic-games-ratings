@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 137,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -2386,9 +2386,9 @@
       "ID": "ACH_STAR_5",
       "SetID": "7k95e4n",
       "Name": "You\u0027re a star",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 80,
-      "UsersEstimate": 223
+      "UsersEstimate": 235
     },
     {
       "ID": "ACH_STORY_MODE_FINISHED",
@@ -2427,8 +2427,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2023-11-06T04:59:47.279974+00:00",
-  "LastChanged_Achievements": "2023-11-07T09:03:25.3241771+00:00",
+  "LastChanged_Achievements": "2023-11-07T10:04:23.9349228+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:07.8664624+00:00",
-  "LastUpdate_Ratings": "2023-11-07T09:00:09.14046+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:03:25.324205+00:00"
+  "LastUpdate_Ratings": "2023-11-07T10:01:38.0094321+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:04:23.9349488+00:00"
 }

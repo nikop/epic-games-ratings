@@ -8,8 +8,8 @@
 | I Broke It | 71.00% | ~378 |
 | Better On Ice | 69.00% | ~367 |
 | Notai Notes | 68.00% | ~362 |
+| Blue Dreams | 67.00% | ~356 |
 | He's Famous! | 67.00% | ~356 |
-| Blue Dreams | 66.00% | ~351 |
 | Krugmazing | 64.00% | ~340 |
 | Cutie Poro | 64.00% | ~340 |
 | The Fire Below the Mountain | 61.00% | ~325 |
@@ -37,7 +37,7 @@
 | Freeze The Ice Witch | 30.00% | ~160 |
 | Deadliest and Biggest Snowball Ever! | 30.00% | ~160 |
 | It Is Not Over | 29.00% | ~154 |
-| Vertical Power | 27.00% | ~144 |
+| Vertical Power | 28.00% | ~149 |
 | One From The Heart | 14.00% | ~74 |
 | Yummy | 12.00% | ~64 |
 | Snowball Fightn't | 11.00% | ~59 |

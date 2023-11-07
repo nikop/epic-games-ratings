@@ -4467,9 +4467,9 @@
       "Count": 484
     }
   ],
-  "EOS_Progressed": 89602,
+  "EOS_Progressed": 89604,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24247,6 +24247,11 @@
       "Time": "2023-11-07T09:08:29.4640193+00:00",
       "NumProgressed": 89602,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-07T10:09:08.9502183+00:00",
+      "NumProgressed": 89604,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24304,9 +24309,9 @@
       "ID": "ACH_0016",
       "SetID": "3kam13l",
       "Name": "Imports and Exports",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 269
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_0021",
@@ -24585,13 +24590,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89602,
+      "Progressed": 89604,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 17949,
+      "Progressed": 17951,
       "Completed": 15560
     }
   ],
@@ -24599,8 +24604,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-06T13:58:36.277341+00:00",
-  "LastChanged_Achievements": "2023-11-07T09:08:29.464019+00:00",
+  "LastChanged_Achievements": "2023-11-07T10:09:08.9502175+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:59:00.5260503+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:08:29.4641227+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:59:56.4872215+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:09:08.9503362+00:00"
 }

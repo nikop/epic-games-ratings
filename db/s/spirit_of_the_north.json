@@ -2,12 +2,12 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 777,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73553,
+  "EOS_Progressed": 73554,
   "EOS_Completed": 386,
-  "EOS_NewPlayers": 671,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -22443,6 +22443,11 @@
       "Time": "2023-11-07T09:08:24.0700904+00:00",
       "NumProgressed": 73553,
       "NumCompleted": 386
+    },
+    {
+      "Time": "2023-11-07T10:09:01.1290654+00:00",
+      "NumProgressed": 73554,
+      "NumCompleted": 386
     }
   ],
   "TotalAchievements": 24,
@@ -22470,7 +22475,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50016
+      "UsersEstimate": 50017
     },
     {
       "ID": "BEST_FRIENDS",
@@ -22510,7 +22515,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21330
+      "UsersEstimate": 21331
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -22534,7 +22539,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 38983
+      "UsersEstimate": 38984
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -22638,14 +22643,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11768
+      "UsersEstimate": 11769
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73553,
+      "Progressed": 73554,
       "Completed": 386
     }
   ],
@@ -22653,8 +22658,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-07T09:08:24.0700899+00:00",
+  "LastChanged_Achievements": "2023-11-07T10:09:01.1290648+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:53.4635591+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:59:25.7736571+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:08:24.0702085+00:00"
+  "LastUpdate_Ratings": "2023-11-07T10:00:33.9356573+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:09:01.1291817+00:00"
 }

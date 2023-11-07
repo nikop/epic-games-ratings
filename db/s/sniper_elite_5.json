@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -8247,9 +8247,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 189
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -8334,8 +8334,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-07T09:05:17.6652571+00:00",
+  "LastChanged_Achievements": "2023-11-07T10:07:01.1643115+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:58:03.5828059+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:05:17.6653294+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:58:31.2275084+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:07:01.1644043+00:00"
 }

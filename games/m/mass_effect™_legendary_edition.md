@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~957 |
-| Spectre Inductee | 80.00% | ~814 |
+| Spectre Inductee | 81.00% | ~825 |
 | Medal of Exploration I | 72.00% | ~733 |
 | Recruit | 69.00% | ~702 |
 | Search and Rescue | 68.00% | ~692 |
@@ -51,10 +51,10 @@
 | The Quarian | 33.00% | ~336 |
 | The Prodigal | 33.00% | ~336 |
 | Shopaholic | 33.00% | ~336 |
+| Battlemaster | 32.00% | ~326 |
 | Ghost of the Father | 32.00% | ~326 |
 | The Cure | 32.00% | ~326 |
 | Driven | 32.00% | ~326 |
-| Battlemaster | 31.00% | ~316 |
 | Catharsis | 31.00% | ~316 |
 | Fade Away | 31.00% | ~316 |
 | Big Game Hunter | 31.00% | ~316 |
@@ -68,8 +68,8 @@
 | Doppelganger | 30.00% | ~305 |
 | Treason | 30.00% | ~305 |
 | Agent | 30.00% | ~305 |
+| Digital Exorcist | 30.00% | ~305 |
 | Suicide Mission | 29.00% | ~295 |
-| Digital Exorcist | 29.00% | ~295 |
 | Mission Accomplished | 28.00% | ~285 |
 | Against All Odds | 28.00% | ~285 |
 | Mobilizer | 28.00% | ~285 |

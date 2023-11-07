@@ -23,6 +23,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Blockader | 0.10% | ~449 |
 | Bright Spark | 0.10% | ~449 |
 | Brothers in Arms | 0.10% | ~449 |
+| Carthago Delenda Est | 0.10% | ~449 |
 | City of Cities | 0.10% | ~449 |
 | Cold War | 0.10% | ~449 |
 | Combined Arms | 0.10% | ~449 |
@@ -36,6 +37,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Emperors new clothes | 0.10% | ~449 |
 | Factionalism | 0.10% | ~449 |
 | Fine Financials | 0.10% | ~449 |
+| A Fine Goosestep | 0.10% | ~449 |
 | Forgive me, for I have Sindh | 0.10% | ~449 |
 | Four For Trade | 0.10% | ~449 |
 | From Humble Origins | 0.10% | ~449 |
@@ -152,7 +154,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brick by Brick | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
-| Carthago Delenda Est | 0.00% | ~0 |
 | Center of Attention | 0.00% | ~0 |
 | Cherrypicking | 0.00% | ~0 |
 | Chop Chop | 0.00% | ~0 |
@@ -180,7 +181,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Everything's Coming Up Mulhouse | 0.00% | ~0 |
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
-| A Fine Goosestep | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
 | The First Toungoo Empire | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,025 (Ranked 41)  
+Progressed: 449,046 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -571,7 +571,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-04 | 447,177 | 1 |
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
-| 2023-11-07 | 449,025 | 1 |
+| 2023-11-07 | 449,046 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,507 (Ranked 24)  

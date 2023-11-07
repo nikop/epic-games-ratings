@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 928,
+  "EOS_Progressed": 929,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1712,6 +1712,11 @@
       "Time": "2023-11-07T08:05:55.8095296+00:00",
       "NumProgressed": 928,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T10:06:30.1516038+00:00",
+      "NumProgressed": 929,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1868,7 +1873,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -1876,7 +1881,7 @@
       "Name": "Challenge accepted!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -1996,7 +2001,7 @@
       "Name": "Extra gear",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2067,20 +2072,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 928,
+      "Progressed": 929,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 596,
-      "Completed": 596
+      "Progressed": 597,
+      "Completed": 597
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-07T09:04:55.6461012+00:00",
+  "LastChanged_Achievements": "2023-11-07T10:06:30.1516032+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:57:10.0907328+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:04:55.6461395+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:57:13.8691341+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:06:30.1516401+00:00"
 }

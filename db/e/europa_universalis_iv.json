@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11727,9 +11727,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 449025,
+  "EOS_Progressed": 449046,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5525,
+  "EOS_NewPlayers": 5524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34677,6 +34677,11 @@
       "Time": "2023-11-07T09:03:52.8134905+00:00",
       "NumProgressed": 449025,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-07T10:05:02.6345695+00:00",
+      "NumProgressed": 449046,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35150,9 +35155,9 @@
       "ID": "achievement_carthago_delenda_est",
       "SetID": "8p2n7he",
       "Name": "Carthago Delenda Est",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_center_of_attention",
@@ -35478,9 +35483,9 @@
       "ID": "achievement_fine_goosestep",
       "SetID": "67mdiil",
       "Name": "A Fine Goosestep",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_first_come_first_serve",
@@ -37591,21 +37596,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 449025,
+      "Progressed": 449046,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 449025,
+      "Progressed": 449046,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-07T08:57:29.4768789+00:00",
-  "LastChanged_Achievements": "2023-11-07T09:03:52.8134902+00:00",
+  "LastChanged_Achievements": "2023-11-07T10:05:02.6345689+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:57:29.4768795+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:03:52.8144908+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:57:43.3747638+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:05:02.6357305+00:00"
 }

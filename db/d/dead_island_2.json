@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 89,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6213,10 +6213,10 @@
       "Count": 443
     }
   ],
-  "EOS_Progressed": 714323,
+  "EOS_Progressed": 714336,
   "EOS_Completed": 2351,
-  "EOS_NewPlayers": 5303,
-  "EOS_NewCompleters": 63,
+  "EOS_NewPlayers": 5291,
+  "EOS_NewCompleters": 61,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29118,6 +29118,11 @@
       "Time": "2023-11-07T09:05:08.8710286+00:00",
       "NumProgressed": 714323,
       "NumCompleted": 2351
+    },
+    {
+      "Time": "2023-11-07T10:06:48.6777266+00:00",
+      "NumProgressed": 714336,
+      "NumCompleted": 2351
     }
   ],
   "TotalAchievements": 51,
@@ -29271,9 +29276,9 @@
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2143
+      "UsersEstimate": 2857
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -29536,13 +29541,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714323,
+      "Progressed": 714336,
       "Completed": 2351
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 39865,
+      "Progressed": 39878,
       "Completed": 36476
     }
   ],
@@ -29550,8 +29555,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-07T01:42:53.6891474+00:00",
-  "LastChanged_Achievements": "2023-11-07T09:05:08.8710282+00:00",
+  "LastChanged_Achievements": "2023-11-07T10:06:48.6777259+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T08:57:55.8481678+00:00",
-  "LastUpdate_Achievements": "2023-11-07T09:05:08.8711789+00:00"
+  "LastUpdate_Ratings": "2023-11-07T09:58:20.4816043+00:00",
+  "LastUpdate_Achievements": "2023-11-07T10:06:48.6778676+00:00"
 }

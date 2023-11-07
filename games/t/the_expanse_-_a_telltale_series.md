@@ -7,17 +7,17 @@ Rating: 4.55 (Ranked 500)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 6.00% | ~884 |
 | Bosmang | 3.00% | ~442 |
-| The Pit and the Pirates | 2.00% | ~294 |
-| Stogie for Fogey | 2.00% | ~294 |
-| Drug Gifter | 2.00% | ~294 |
-| Spore Taste | 2.00% | ~294 |
-| Martian Music | 2.00% | ~294 |
-| Drone Dodger | 2.00% | ~294 |
-| Heal Thy Medic | 2.00% | ~294 |
-| Call it Even | 2.00% | ~294 |
-| Captain Drummer | 2.00% | ~294 |
-| Celebrations are in Order | 2.00% | ~294 |
-| Impossible Objects | 2.00% | ~294 |
+| The Pit and the Pirates | 2.00% | ~295 |
+| Stogie for Fogey | 2.00% | ~295 |
+| Drug Gifter | 2.00% | ~295 |
+| Spore Taste | 2.00% | ~295 |
+| Martian Music | 2.00% | ~295 |
+| Drone Dodger | 2.00% | ~295 |
+| Heal Thy Medic | 2.00% | ~295 |
+| Call it Even | 2.00% | ~295 |
+| Captain Drummer | 2.00% | ~295 |
+| Celebrations are in Order | 2.00% | ~295 |
+| Impossible Objects | 2.00% | ~295 |
 | Keep Arjun in Check | 2.00% | ~14 |
 | Safe Cracker | 2.00% | ~14 |
 | Zen Master | 2.00% | ~14 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 500)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,725 (Ranked 146)  
+Progressed: 14,726 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -149,7 +149,7 @@ Completed: 33 (0.22%) (Ranked 236)
 | 2023-11-04 | 14,643 | 32 |
 | 2023-11-05 | 14,691 | 32 |
 | 2023-11-06 | 14,715 | 33 |
-| 2023-11-07 | 14,725 | 33 |
+| 2023-11-07 | 14,726 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

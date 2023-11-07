@@ -10,7 +10,7 @@ Rating: 4.55 (Ranked 500)
 | Ranged Weapon | 63.00% | ~1,251 |
 | Defeat 25 Frogs | 63.00% | ~1,251 |
 | Collect Monster Parts | 59.00% | ~1,171 |
-| Two Handed Weapon | 57.00% | ~1,131 |
+| Two Handed Weapon | 58.00% | ~1,151 |
 | Defeat 25 Grubs | 54.00% | ~1,072 |
 | Rescue Redgi's Brothers | 53.00% | ~1,052 |
 | Collect Iron Ore | 49.00% | ~973 |

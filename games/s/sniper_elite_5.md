@@ -44,11 +44,11 @@ Rating: 4.46 (Ranked 644)
 | It'll Buff Right Out | 5.00% | ~192 |
 | Don't hold your breath | 5.00% | ~192 |
 | Last Resort | 5.00% | ~189 |
+| Siegebreaker | 5.00% | ~189 |
 | Ghost of Falaise | 5.00% | ~189 |
 | Strategist | 4.00% | ~153 |
 | Locomotion Commotion | 4.00% | ~153 |
 | Road Rage | 4.00% | ~153 |
-| Siegebreaker | 4.00% | ~151 |
 | From Paris with Love | 3.00% | ~115 |
 | Burn after reading | 3.00% | ~115 |
 | Souvenir hunter | 3.00% | ~115 |
