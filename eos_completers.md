@@ -95,8 +95,8 @@
 | 93 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.14% |
 | 94 | [Monster Harvest](games/m/monster_harvest.md) | 3.09% |
 | 95 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.07% |
-| 96 | [The Complex](games/t/the_complex.md) | 3.06% |
-| 97 | [HordeCore](games/h/hordecore.md) | 3.05% |
+| 96 | [HordeCore](games/h/hordecore.md) | 3.05% |
+| 96 | [The Complex](games/t/the_complex.md) | 3.05% |
 | 98 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 99 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 100 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.90% |
@@ -116,7 +116,7 @@
 | 114 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 115 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 116 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.34% |
-| 117 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.30% |
+| 117 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 2.29% |
 | 118 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.26% |
 | 119 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.22% |
 | 120 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
@@ -160,19 +160,19 @@
 | 158 | [Trifox](games/t/trifox.md) | 0.98% |
 | 159 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 159 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
-| 161 | [Hades](games/h/hades.md) | 0.91% |
-| 161 | [The Devil's Face](games/t/the_devil's_face.md) | 0.91% |
-| 163 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.90% |
-| 164 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
-| 165 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.87% |
-| 166 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
-| 167 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.85% |
-| 168 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
-| 169 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 170 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
-| 171 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.76% |
+| 159 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.95% |
+| 162 | [Hades](games/h/hades.md) | 0.91% |
+| 162 | [The Devil's Face](games/t/the_devil's_face.md) | 0.91% |
+| 164 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.90% |
+| 165 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
+| 166 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.87% |
+| 167 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
+| 168 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.85% |
+| 169 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
+| 170 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 171 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 172 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
-| 173 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.67% |
+| 173 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.68% |
 | 174 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 175 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |
 | 176 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.62% |
