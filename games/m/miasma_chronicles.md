@@ -13,9 +13,9 @@ Rating: 4.43 (Ranked 689)
 | Lumberjack | 53.00% | ~837 |
 | Croaked | 49.00% | ~774 |
 | Limp Richard | 48.00% | ~758 |
+| From Darkness to Light | 48.00% | ~758 |
 | Editor Adept | 47.00% | ~743 |
 | Exorcist | 47.00% | ~743 |
-| From Darkness to Light | 47.00% | ~743 |
 | Giant Killer | 45.00% | ~711 |
 | Sensei | 43.00% | ~679 |
 | Firestarter | 42.00% | ~664 |
@@ -57,7 +57,7 @@ Rating: 4.43 (Ranked 689)
 | Goaaaaal! | 0.80% | ~13 |
 | QA Has Suffered! (Redux) | 0.80% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,580 (Ranked 230)  
+Progressed: 1,580 (Ranked 231)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

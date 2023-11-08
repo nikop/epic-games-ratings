@@ -6,13 +6,13 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~8,068 |
+| Goofy's Investor | 70.00% | ~8,069 |
 | Photographer | 68.00% | ~7,838 |
-| Valley's Helper | 62.00% | ~7,146 |
-| Constructor | 51.00% | ~5,878 |
-| Renovator | 51.00% | ~5,878 |
-| Bestest Friend | 47.00% | ~5,417 |
-| Banker | 39.00% | ~4,495 |
+| Valley's Helper | 62.00% | ~7,147 |
+| Constructor | 51.00% | ~5,879 |
+| Renovator | 51.00% | ~5,879 |
+| Bestest Friend | 47.00% | ~5,418 |
+| Banker | 39.00% | ~4,496 |
 | Gardener | 31.00% | ~3,573 |
 | Generous | 25.00% | ~2,882 |
 | Chef Cook | 18.00% | ~2,075 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 5.00% | ~576 |
 | Chit Chatter | 3.00% | ~346 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,526 (Ranked 152)  
+Progressed: 11,527 (Ranked 152)  
 Completed: 272 (2.36%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,10 +175,10 @@ Completed: 272 (2.36%) (Ranked 115)
 | 2023-11-05 | 11,466 | 272 |
 | 2023-11-06 | 11,498 | 272 |
 | 2023-11-07 | 11,516 | 272 |
-| 2023-11-08 | 11,526 | 272 |
+| 2023-11-08 | 11,527 | 272 |
 ## Awards
 Max (Great for Beginners): 1,051  (Ranked 147)  
-Sum: 7,861 (Ranked 107)  
+Sum: 7,864 (Ranked 107)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -190,7 +190,7 @@ Diff (max vs sum): 40
 | This game has Amazing Storytelling | 774 |
 | This game is Extremely Fun | 762 |
 | This game has Quickly Understood Controls | 753 |
-| This game has a Creative Community | 658 |
+| This game has a Creative Community | 661 |
 | This game has Easy Combat | 522 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -434,4 +434,4 @@ Diff (max vs sum): 40
 | 2023-11-03 | 4.76 | - | 1,045 | 7,843 |
 | 2023-11-05 | 4.76 | - | 1,049 | 7,856 |
 | 2023-11-06 | 4.76 | - | 1,051 | 7,858 |
-| 2023-11-08 | 4.76 | - | 1,051 | 7,861 |
+| 2023-11-08 | 4.76 | - | 1,051 | 7,864 |

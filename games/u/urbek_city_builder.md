@@ -22,6 +22,7 @@
 | City crisis | 0.50% | ~2 |
 | I am very happy! | 0.50% | ~2 |
 | Metropolurbek | 0.50% | ~2 |
+| Rebel city | 0.50% | ~2 |
 | Banking city | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |
 | Oh, I am sad | 0.30% | ~1 |
@@ -30,7 +31,6 @@
 | Farming Frenzy | 0.30% | ~1 |
 | Farming Frenzy Plus | 0.30% | ~1 |
 | What would we do if we can't go out with friends? | 0.30% | ~1 |
-| Rebel city | 0.30% | ~1 |
 | Temperate builder | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |

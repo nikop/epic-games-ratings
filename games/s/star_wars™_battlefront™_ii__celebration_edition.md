@@ -4,51 +4,51 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Quick Strike | 70.00% | ~100,191 |
-| The Cleaner | 68.00% | ~97,328 |
-| Battle Beyond the Stars | 64.00% | ~91,603 |
-| The Battle of Endor | 59.00% | ~84,447 |
-| A Job Well Done | 56.00% | ~80,153 |
-| The Dauntless | 55.00% | ~78,722 |
-| The Observatory | 53.00% | ~75,859 |
-| The Storm | 51.00% | ~72,996 |
-| There Has Been An Awakening | 50.00% | ~71,565 |
-| Heavy is the Hand | 50.00% | ~71,565 |
-| Outcasts | 49.00% | ~70,134 |
-| Royalty | 48.00% | ~68,702 |
-| General Distress | 46.00% | ~65,840 |
-| There is No Such Thing As Luck | 45.00% | ~64,408 |
-| Under Covered Skies | 43.00% | ~61,546 |
-| Cache Grab | 41.00% | ~58,683 |
-| The Battle of Jakku | 40.00% | ~57,252 |
-| Until Ashes | 39.00% | ~55,821 |
-| Discoveries | 38.00% | ~54,389 |
-| Outbound Flight | 37.00% | ~52,958 |
-| We are the Spark | 36.00% | ~51,527 |
-| What a Blast | 33.00% | ~47,233 |
-| Scoped | 32.00% | ~45,802 |
-| Choose Your Path | 31.00% | ~44,370 |
-| Project: Resurrection | 30.00% | ~42,939 |
-| Ashes of the Empire | 28.00% | ~40,076 |
-| X-wing vs. TIE Fighter | 27.00% | ~38,645 |
-| Sentry Mode Engaged | 27.00% | ~38,645 |
-| Inferno | 27.00% | ~38,645 |
-| A Dominating Presence | 24.00% | ~34,351 |
-| Do. Or Do Not. There is no Try. | 23.00% | ~32,920 |
-| Dark Forces | 22.00% | ~31,489 |
-| The Force is Strong With This One | 19.00% | ~27,195 |
-| Strike Back | 18.00% | ~25,763 |
-| Master of Deception | 13.00% | ~18,607 |
-| Not All Miss | 13.00% | ~18,607 |
-| Complete Your Training | 11.00% | ~15,744 |
-| The Interceptor | 7.00% | ~10,019 |
-| Ignore Your Instincts At Your Peril | 7.00% | ~10,019 |
-| A Galaxy at War | 7.00% | ~10,019 |
-| Balance Point | 4.00% | ~5,725 |
-| Multi-tasking | 0.70% | ~1,002 |
+| Quick Strike | 70.00% | ~100,269 |
+| The Cleaner | 68.00% | ~97,405 |
+| Battle Beyond the Stars | 64.00% | ~91,675 |
+| The Battle of Endor | 59.00% | ~84,513 |
+| A Job Well Done | 56.00% | ~80,216 |
+| The Dauntless | 55.00% | ~78,783 |
+| The Observatory | 53.00% | ~75,918 |
+| The Storm | 51.00% | ~73,053 |
+| There Has Been An Awakening | 50.00% | ~71,621 |
+| Heavy is the Hand | 50.00% | ~71,621 |
+| Outcasts | 49.00% | ~70,189 |
+| Royalty | 48.00% | ~68,756 |
+| General Distress | 46.00% | ~65,891 |
+| There is No Such Thing As Luck | 45.00% | ~64,459 |
+| Under Covered Skies | 43.00% | ~61,594 |
+| Cache Grab | 41.00% | ~58,729 |
+| The Battle of Jakku | 40.00% | ~57,297 |
+| Until Ashes | 39.00% | ~55,864 |
+| Discoveries | 38.00% | ~54,432 |
+| Outbound Flight | 37.00% | ~53,000 |
+| We are the Spark | 36.00% | ~51,567 |
+| What a Blast | 33.00% | ~47,270 |
+| Scoped | 32.00% | ~45,837 |
+| Choose Your Path | 31.00% | ~44,405 |
+| Project: Resurrection | 30.00% | ~42,973 |
+| Ashes of the Empire | 28.00% | ~40,108 |
+| X-wing vs. TIE Fighter | 27.00% | ~38,675 |
+| Sentry Mode Engaged | 27.00% | ~38,675 |
+| Inferno | 27.00% | ~38,675 |
+| A Dominating Presence | 24.00% | ~34,378 |
+| Do. Or Do Not. There is no Try. | 23.00% | ~32,946 |
+| Dark Forces | 22.00% | ~31,513 |
+| The Force is Strong With This One | 19.00% | ~27,216 |
+| Strike Back | 18.00% | ~25,784 |
+| Master of Deception | 13.00% | ~18,621 |
+| Not All Miss | 13.00% | ~18,621 |
+| Complete Your Training | 11.00% | ~15,757 |
+| The Interceptor | 7.00% | ~10,027 |
+| Ignore Your Instincts At Your Peril | 7.00% | ~10,027 |
+| A Galaxy at War | 7.00% | ~10,027 |
+| Balance Point | 4.00% | ~5,730 |
+| Multi-tasking | 0.70% | ~1,003 |
 | The Bomber | 0.40% | ~573 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 143,130 (Ranked 78)  
+Progressed: 143,242 (Ranked 78)  
 Completed: 39 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 39 (0.03%) (Ranked 309)
 | 2023-11-05 | 138,987 | 38 |
 | 2023-11-06 | 140,733 | 39 |
 | 2023-11-07 | 142,244 | 39 |
-| 2023-11-08 | 143,130 | 39 |
+| 2023-11-08 | 143,242 | 39 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

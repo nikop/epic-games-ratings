@@ -29,9 +29,9 @@ Rating: 4.01 (Ranked 986)
 | Driver's License | 2.00% | ~34 |
 | Explosive Miner | 2.00% | ~34 |
 | Rocket Jump | 2.00% | ~34 |
+| Thunderstruck | 2.00% | ~34 |
 | Caveman | 1.00% | ~17 |
 | Planetary Defence | 1.00% | ~17 |
-| Thunderstruck | 1.00% | ~17 |
 | 5G Network | 0.80% | ~14 |
 | One does not simply... | 0.80% | ~14 |
 | Rover Mechanic | 0.50% | ~8 |

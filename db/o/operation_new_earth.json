@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1784,
+  "EOS_Progressed": 1786,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6680,6 +6680,11 @@
       "Time": "2023-11-07T21:03:55.7161643+00:00",
       "NumProgressed": 1784,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T17:04:59.2773901+00:00",
+      "NumProgressed": 1786,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6819,7 +6824,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -6883,7 +6888,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -6899,7 +6904,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -6915,7 +6920,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -6931,7 +6936,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -6994,7 +6999,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1784,
+      "Progressed": 1786,
       "Completed": 1
     }
   ],
@@ -7002,8 +7007,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:04:11.1501833+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:04:59.2773896+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:00:22.468763+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:04:11.1502773+00:00"
+  "LastUpdate_Ratings": "2023-11-08T17:02:32.2891822+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:04:59.2774684+00:00"
 }

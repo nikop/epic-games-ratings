@@ -5,28 +5,28 @@ Rating: 4.63 (Ranked 347)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 94.00% | ~1,530 |
+| Marksman | 94.00% | ~1,531 |
 | Welcome Aboard | 84.00% | ~1,368 |
 | Lab Rat | 74.00% | ~1,205 |
-| All Systems Go | 65.00% | ~1,058 |
-| Brute Force | 64.00% | ~1,042 |
+| All Systems Go | 65.00% | ~1,059 |
+| Brute Force | 64.00% | ~1,043 |
 | Cannon Fodder | 60.00% | ~977 |
-| Autofire | 57.00% | ~928 |
+| Autofire | 57.00% | ~929 |
 | True Believer | 56.00% | ~912 |
-| Story Teller | 55.00% | ~895 |
-| Raise the Stakes | 55.00% | ~895 |
-| Surgeon | 51.00% | ~830 |
-| Freeze | 51.00% | ~830 |
+| Story Teller | 55.00% | ~896 |
+| Raise the Stakes | 55.00% | ~896 |
+| Surgeon | 51.00% | ~831 |
+| Freeze | 51.00% | ~831 |
 | Exterminator | 50.00% | ~814 |
 | Greenhouse Effect | 50.00% | ~814 |
 | Full Arsenal | 45.00% | ~733 |
-| S.O.S. | 44.00% | ~716 |
+| S.O.S. | 44.00% | ~717 |
 | Get Off My Ship! | 42.00% | ~684 |
 | Strange Transmissions | 42.00% | ~684 |
-| Live with the Hot Ones | 41.00% | ~667 |
-| Wreckage | 40.00% | ~651 |
+| Live with the Hot Ones | 41.00% | ~668 |
+| Wreckage | 40.00% | ~652 |
 | Keeper of the Faith | 38.00% | ~619 |
-| Betrayed | 37.00% | ~602 |
+| Betrayed | 37.00% | ~603 |
 | Legend Teller | 36.00% | ~586 |
 | Exodus | 35.00% | ~570 |
 | There's Always Peng! | 35.00% | ~570 |
@@ -38,7 +38,7 @@ Rating: 4.63 (Ranked 347)
 | Full Contact | 25.00% | ~407 |
 | Pack Rat | 25.00% | ~407 |
 | Final Regeneration | 24.00% | ~391 |
-| Full Clearance | 23.00% | ~374 |
+| Full Clearance | 23.00% | ~375 |
 | Pusher | 22.00% | ~358 |
 | Z-Baller | 21.00% | ~342 |
 | Marked | 20.00% | ~326 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 347)
 | Untouchable | 2.00% | ~33 |
 | One Gun | 2.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,628 (Ranked 227)  
+Progressed: 1,629 (Ranked 227)  
 Completed: 8 (0.49%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 8 (0.49%) (Ranked 197)
 | 2023-11-05 | 1,560 | 8 |
 | 2023-11-06 | 1,587 | 8 |
 | 2023-11-07 | 1,610 | 8 |
-| 2023-11-08 | 1,628 | 8 |
+| 2023-11-08 | 1,629 | 8 |
 ## Awards
 Max (Great Boss Battles): 108  (Ranked 348)  
 Sum: 108 (Ranked 437)  

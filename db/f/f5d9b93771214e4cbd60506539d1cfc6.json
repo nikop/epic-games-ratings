@@ -2,7 +2,7 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 77,
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151877,
+  "EOS_Progressed": 151880,
   "EOS_Completed": 324,
-  "EOS_NewPlayers": 1060,
+  "EOS_NewPlayers": 1052,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -17383,6 +17383,11 @@
       "Time": "2023-11-08T16:06:02.090612+00:00",
       "NumProgressed": 151877,
       "NumCompleted": 324
+    },
+    {
+      "Time": "2023-11-08T17:07:17.054521+00:00",
+      "NumProgressed": 151880,
+      "NumCompleted": 324
     }
   ],
   "TotalAchievements": 31,
@@ -17402,7 +17407,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 106314
+      "UsersEstimate": 106316
     },
     {
       "ID": "EAwards_10",
@@ -17418,7 +17423,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 31894
+      "UsersEstimate": 31895
     },
     {
       "ID": "EAwards_12",
@@ -17426,7 +17431,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 25819
+      "UsersEstimate": 25820
     },
     {
       "ID": "EAwards_13",
@@ -17442,7 +17447,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 59232
+      "UsersEstimate": 59233
     },
     {
       "ID": "EAwards_15",
@@ -17450,7 +17455,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18225
+      "UsersEstimate": 18226
     },
     {
       "ID": "EAwards_16",
@@ -17466,7 +17471,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33413
+      "UsersEstimate": 33414
     },
     {
       "ID": "EAwards_18",
@@ -17474,7 +17479,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33413
+      "UsersEstimate": 33414
     },
     {
       "ID": "EAwards_19",
@@ -17506,7 +17511,7 @@
       "Name": "Got to catch them all",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16706
+      "UsersEstimate": 16707
     },
     {
       "ID": "EAwards_22",
@@ -17602,7 +17607,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 16706
+      "UsersEstimate": 16707
     },
     {
       "ID": "EAwards_6",
@@ -17610,7 +17615,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37969
+      "UsersEstimate": 37970
     },
     {
       "ID": "EAwards_7",
@@ -17626,7 +17631,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 56194
+      "UsersEstimate": 56196
     },
     {
       "ID": "EAwards_9",
@@ -17634,14 +17639,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18225
+      "UsersEstimate": 18226
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 151877,
+      "Progressed": 151880,
       "Completed": 324
     }
   ],
@@ -17649,8 +17654,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:06:02.0906115+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:07:17.0545202+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:58.8508803+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:57:09.3159861+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:06:02.0907226+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:57:33.602292+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:07:17.0546464+00:00"
 }

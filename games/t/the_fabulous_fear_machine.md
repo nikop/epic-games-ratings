@@ -8,6 +8,7 @@
 | You have two wishes left | 6.00% | ~2 |
 | Master trainee | 3.00% | ~1 |
 | You had one wish left | 3.00% | ~1 |
+| Blood Red Island | 3.00% | ~1 |
 | Bread and bocaua | 3.00% | ~1 |
 | Fanatacism is... poisonous | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
@@ -17,7 +18,6 @@
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
-| Blood Red Island | 0.00% | ~0 |
 | Jung's dream | 0.00% | ~0 |
 | Giant | 0.00% | ~0 |
 | A rival with no options | 0.00% | ~0 |

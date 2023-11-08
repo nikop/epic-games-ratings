@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4418,
+  "EOS_Progressed": 4422,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2486,6 +2486,11 @@
       "Time": "2023-11-08T16:08:41.32121+00:00",
       "NumProgressed": 4418,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-08T17:09:20.1818001+00:00",
+      "NumProgressed": 4422,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2506,7 +2511,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "BeLikeWater",
@@ -2642,7 +2647,7 @@
       "Name": "Nasty!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "NoMoreTotems",
@@ -2698,7 +2703,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "ThisIsDharma",
@@ -2706,7 +2711,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -2738,7 +2743,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2769,7 +2774,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4418,
+      "Progressed": 4422,
       "Completed": 5
     }
   ],
@@ -2777,8 +2782,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:08:41.3212096+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:09:20.1817996+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:59:30.6185908+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:08:41.3212399+00:00"
+  "LastUpdate_Ratings": "2023-11-08T17:00:28.252735+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:09:20.181842+00:00"
 }

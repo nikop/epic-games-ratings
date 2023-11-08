@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1061,9 +1061,9 @@
       "Count": 130
     }
   ],
-  "EOS_Progressed": 8268,
+  "EOS_Progressed": 8269,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -5166,6 +5166,11 @@
       "Time": "2023-11-07T12:04:16.8687554+00:00",
       "NumProgressed": 8268,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-08T17:05:07.9881901+00:00",
+      "NumProgressed": 8269,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 24,
@@ -5177,7 +5182,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1984
+      "UsersEstimate": 1985
     },
     {
       "ID": "Chatterbox",
@@ -5337,7 +5342,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 7689
+      "UsersEstimate": 7690
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -5345,7 +5350,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 4051
+      "UsersEstimate": 4052
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -5361,22 +5366,22 @@
       "Name": "What should I buy?",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 6945
+      "UsersEstimate": 6946
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 8268,
+      "Progressed": 8269,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2023-11-03T04:03:09.5652469+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:04:18.2501352+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:05:07.9881895+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:43.1811852+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:58:16.2461414+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:04:18.2501715+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:58:57.1856789+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:05:07.9882396+00:00"
 }

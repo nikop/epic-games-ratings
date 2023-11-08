@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17145,
+  "EOS_Progressed": 17156,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 3036,
+  "EOS_NewPlayers": 3024,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2475,6 +2475,11 @@
       "Time": "2023-11-08T16:08:56.4017115+00:00",
       "NumProgressed": 17145,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-08T17:09:38.7776857+00:00",
+      "NumProgressed": 17156,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 24,
@@ -2486,7 +2491,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_CollectAll",
@@ -2502,7 +2507,7 @@
       "Name": "Squished",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -2574,7 +2579,7 @@
       "Name": "The Puzzle Master",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_S8AllSilver",
@@ -2598,7 +2603,7 @@
       "Name": "Master Room",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -2614,7 +2619,7 @@
       "Name": "Sector 1",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1716
     },
     {
       "ID": "ACH_Sector2",
@@ -2622,7 +2627,7 @@
       "Name": "Sector 2",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "ACH_Sector3",
@@ -2654,7 +2659,7 @@
       "Name": "Sector 6",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_Sector7",
@@ -2677,7 +2682,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 17145,
+      "Progressed": 17156,
       "Completed": 31
     }
   ],
@@ -2685,8 +2690,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-08T11:01:26.018295+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:08:56.4017111+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:09:38.7776851+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:46.5183282+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:59:38.5573341+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:08:56.4017318+00:00"
+  "LastUpdate_Ratings": "2023-11-08T17:00:38.6466973+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:09:38.7777164+00:00"
 }

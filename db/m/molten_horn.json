@@ -4,11 +4,11 @@
   "ProductSlug": "molten-horn-e846ef",
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
-    "ReleaseDate": "2023-12-31T00:00:00+00:00",
-    "PcReleaseDate": "2023-12-31T00:00:00+00:00",
+    "ReleaseDate": "2023-11-09T18:00:00+00:00",
+    "PcReleaseDate": "2023-11-09T18:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
     "EpicFirstRunAdded": null,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T18:58:47.5922329+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:57:45.9490114+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:05:49.2301609+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:58:19.1200785+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:07:02.0393768+00:00"
 }

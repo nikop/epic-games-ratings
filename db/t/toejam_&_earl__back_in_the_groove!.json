@@ -2,7 +2,7 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 811,
+  "Ranking_Rating": 810,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 105,
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57707,
+  "EOS_Progressed": 57708,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12166,6 +12166,11 @@
       "Time": "2023-11-08T16:05:36.7052221+00:00",
       "NumProgressed": 57707,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-08T17:06:46.6627951+00:00",
+      "NumProgressed": 57708,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -12241,7 +12246,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4039
+      "UsersEstimate": 4040
     },
     {
       "ID": "FlyingPresent",
@@ -12568,7 +12573,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57707,
+      "Progressed": 57708,
       "Completed": 6
     }
   ],
@@ -12576,8 +12581,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:05:36.7052217+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:06:46.6627945+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.8440774+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:02:30.2520442+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:05:36.7053201+00:00"
+  "LastUpdate_Ratings": "2023-11-08T17:02:53.2267349+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:06:46.6629236+00:00"
 }

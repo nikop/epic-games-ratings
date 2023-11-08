@@ -4,7 +4,7 @@
   "ProductSlug": "deverse-world-3ccb84",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2024-02-29T02:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1939,6 +1939,11 @@
       "Time": "2023-11-05T19:09:21.2437083+00:00",
       "NumProgressed": 450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T17:09:54.6250474+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-19T08:04:21.5092334+00:00",
@@ -2063,7 +2068,7 @@
       "Name": "Tireless Explorer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "treant_destroyer",
@@ -2087,7 +2092,7 @@
       "Name": "Visit Cleric",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "waifu_kata",
@@ -2102,14 +2107,14 @@
     {
       "ID": "5fi1i42",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-12T15:57:01.7070767+00:00",
   "FirstSeenAchievements": "2023-07-18T16:05:27.8243884+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:09:09.4898454+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:09:54.6250468+00:00",
   "LastUpdate_AppInfo": "2023-11-02T14:57:01.1908012+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:57:47.9061038+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:09:09.489868+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:58:20.6462194+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:09:54.6250789+00:00"
 }

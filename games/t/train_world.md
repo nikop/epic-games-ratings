@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Task Apprentice | 18.00% | ~2 |
-| City Link | 18.00% | ~2 |
-| Billionaire Club | 9.00% | ~1 |
-| Trainee | 9.00% | ~1 |
-| Line Up | 9.00% | ~1 |
-| Full House | 9.00% | ~1 |
-| Speed Demon | 9.00% | ~1 |
-| Regional Express | 9.00% | ~1 |
-| Industrial Giant | 9.00% | ~1 |
-| Steam Power | 9.00% | ~1 |
-| Urban Network | 9.00% | ~1 |
-| Supply Chain | 9.00% | ~1 |
-| Mega Train | 9.00% | ~1 |
-| Heavy Load | 9.00% | ~1 |
-| Line Master | 9.00% | ~1 |
-| Industrial Revolution | 9.00% | ~1 |
-| Double Trouble | 9.00% | ~1 |
+| Task Apprentice | 17.00% | ~2 |
+| City Link | 17.00% | ~2 |
+| Billionaire Club | 8.00% | ~1 |
+| Trainee | 8.00% | ~1 |
+| Line Up | 8.00% | ~1 |
+| Full House | 8.00% | ~1 |
+| Speed Demon | 8.00% | ~1 |
+| Regional Express | 8.00% | ~1 |
+| Industrial Giant | 8.00% | ~1 |
+| Steam Power | 8.00% | ~1 |
+| Urban Network | 8.00% | ~1 |
+| Supply Chain | 8.00% | ~1 |
+| Mega Train | 8.00% | ~1 |
+| Heavy Load | 8.00% | ~1 |
+| Line Master | 8.00% | ~1 |
+| Industrial Revolution | 8.00% | ~1 |
+| Double Trouble | 8.00% | ~1 |
 | Capital Connection | 0.00% | ~0 |
 | World Explorer | 0.00% | ~0 |
 | Mass Upgrade | 0.00% | ~0 |
@@ -55,7 +55,7 @@
 | Money Matters | 0.00% | ~0 |
 | Long Train | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 573)  
+Progressed: 12 (Ranked 568)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -70,3 +70,4 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-22 | 9 | 0 |
 | 2023-10-27 | 10 | 0 |
 | 2023-11-05 | 11 | 0 |
+| 2023-11-08 | 12 | 0 |

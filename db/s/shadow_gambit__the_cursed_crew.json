@@ -2715,9 +2715,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 89
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2764,8 +2764,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:09:08.4157827+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:09:53.4538062+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:47.5023284+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:57:45.8318381+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:09:08.4158076+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:58:19.0873673+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:09:53.4538441+00:00"
 }

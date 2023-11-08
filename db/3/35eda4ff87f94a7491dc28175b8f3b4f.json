@@ -2,7 +2,7 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 811,
+  "Ranking_Rating": 810,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 610,
@@ -239,9 +239,9 @@
       "ID": "SECRETS_OUT_1_9",
       "SetID": "24fdn9j",
       "Name": "Secrets Out",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 90,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -272,8 +272,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-08T09:59:43.5893554+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:04:11.9314479+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:05:00.0003991+00:00",
   "LastUpdate_AppInfo": "2023-11-02T15:57:21.686114+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:59:09.3599864+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:04:11.9314571+00:00"
+  "LastUpdate_Ratings": "2023-11-08T17:00:03.0890268+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:05:00.0004093+00:00"
 }

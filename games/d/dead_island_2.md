@@ -1,20 +1,20 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 523)  
+Rating: 4.54 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 2.00% | ~811 |
-| One of Us | 1.00% | ~405 |
-| Pork Chopped | 1.00% | ~405 |
+| One of Us | 1.00% | ~406 |
+| Pork Chopped | 1.00% | ~406 |
+| Break A Leg | 0.50% | ~3,575 |
 | Hotel California | 0.50% | ~3,575 |
 | Welcome To Hell-A | 0.50% | ~3,575 |
 | Dr. Reed, I Presume? | 0.40% | ~2,860 |
 | Git Gutte! | 0.40% | ~2,860 |
 | Anger Management | 0.40% | ~2,860 |
 | Bookworm | 0.40% | ~2,860 |
-| Break A Leg | 0.40% | ~2,860 |
 | Coup de Grâce | 0.40% | ~2,860 |
 | Hazardous Materials | 0.40% | ~2,860 |
 | Friends Like These | 0.40% | ~2,860 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,993 (Ranked 21)  
-Completed: 2,357 (0.33%) (Ranked 219)  
+Progressed: 715,024 (Ranked 21)  
+Completed: 2,358 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,10 +259,10 @@ Completed: 2,357 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 714,993 | 2,357 |
+| 2023-11-08 | 715,024 | 2,358 |
 ## Awards
 Max (Great Boss Battles): 7,178  (Ranked 54)  
-Sum: 10,890 (Ranked 87)  
+Sum: 10,894 (Ranked 87)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -272,7 +272,7 @@ Diff (max vs sum): -33
 | This game has Quickly Understood Controls | 497 |
 | This game is Relaxing | 463 |
 | This game has Amazing Storytelling | 445 |
-| This game is Highly Recommended | 432 |
+| This game is Highly Recommended | 436 |
 | This game is Extremely Fun | 425 |
 | This game has Amazing Characters | 402 |
 ## Ratings History
@@ -479,4 +479,4 @@ Diff (max vs sum): -33
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
-| 2023-11-08 | 4.54 | 7,178 | 10,890 |
+| 2023-11-08 | 4.54 | 7,178 | 10,894 |

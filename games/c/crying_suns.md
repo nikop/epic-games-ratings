@@ -6,16 +6,16 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~310,560 |
-| Jeef Skeejj | 44.00% | ~207,040 |
-| Careful planning | 39.00% | ~183,513 |
+| The Shutdown | 66.00% | ~310,562 |
+| Jeef Skeejj | 44.00% | ~207,041 |
+| Careful planning | 39.00% | ~183,514 |
 | Second Coming | 34.00% | ~159,986 |
 | Jeef Skagg | 30.00% | ~141,164 |
-| Mother | 25.00% | ~117,636 |
-| In space, no one can hear you scream | 24.00% | ~112,931 |
-| Chapter I: Echoes | 22.00% | ~103,520 |
-| Excelsior Rule | 22.00% | ~103,520 |
-| Things persisted in not being what they seemed | 20.00% | ~94,109 |
+| Mother | 25.00% | ~117,637 |
+| In space, no one can hear you scream | 24.00% | ~112,932 |
+| Chapter I: Echoes | 22.00% | ~103,521 |
+| Excelsior Rule | 22.00% | ~103,521 |
+| Things persisted in not being what they seemed | 20.00% | ~94,110 |
 | Knightmare Frames | 15.00% | ~70,582 |
 | May His passing cleanse the world | 15.00% | ~70,582 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,582 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~14 |
 | Kronos Rule | 0.10% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,546 (Ranked 40)  
+Progressed: 470,548 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,14 +288,14 @@ Completed: 20 (0.00%) (Ranked 345)
 | 2023-11-05 | 470,393 | 19 |
 | 2023-11-06 | 470,453 | 20 |
 | 2023-11-07 | 470,506 | 20 |
-| 2023-11-08 | 470,546 | 20 |
+| 2023-11-08 | 470,548 | 20 |
 ## Awards
-Max (Character Customization): 222  (Ranked 273)  
-Sum: 244 (Ranked 379)  
-Diff (max vs sum): -106  
+Max (Character Customization): 223  (Ranked 273)  
+Sum: 245 (Ranked 378)  
+Diff (max vs sum): -105  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 222 |
+| This game has Inclusive Character Customization | 223 |
 | This game is Great for Quick Sessions | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -385,3 +385,4 @@ Diff (max vs sum): -106
 | 2023-10-10 | 4.50 | - | 221 | 242 |
 | 2023-10-26 | 4.50 | - | 221 | 243 |
 | 2023-11-01 | 4.50 | - | 222 | 244 |
+| 2023-11-08 | 4.50 | - | 223 | 245 |

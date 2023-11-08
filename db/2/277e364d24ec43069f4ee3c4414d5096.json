@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113635,
+  "EOS_Progressed": 113637,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 686,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17232,6 +17232,11 @@
       "Time": "2023-11-08T16:08:26.1352551+00:00",
       "NumProgressed": 113635,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-08T17:09:01.7889719+00:00",
+      "NumProgressed": 113637,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17251,7 +17256,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87499
+      "UsersEstimate": 87500
     },
     {
       "ID": "EAwards_10",
@@ -17267,7 +17272,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29545
+      "UsersEstimate": 29546
     },
     {
       "ID": "EAwards_12",
@@ -17275,7 +17280,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17045
+      "UsersEstimate": 17046
     },
     {
       "ID": "EAwards_13",
@@ -17307,7 +17312,7 @@
       "Name": "PERFECT",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7954
+      "UsersEstimate": 7955
     },
     {
       "ID": "EAwards_17",
@@ -17315,7 +17320,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42045
+      "UsersEstimate": 42046
     },
     {
       "ID": "EAwards_18",
@@ -17339,7 +17344,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54545
+      "UsersEstimate": 54546
     },
     {
       "ID": "EAwards_20",
@@ -17355,7 +17360,7 @@
       "Name": "Special Delivery!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 7954
+      "UsersEstimate": 7955
     },
     {
       "ID": "EAwards_22",
@@ -17379,7 +17384,7 @@
       "Name": "Temple Raider",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 7954
+      "UsersEstimate": 7955
     },
     {
       "ID": "EAwards_25",
@@ -17451,7 +17456,7 @@
       "Name": "El T\u00E9cnico T\u00E1ctico",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7954
+      "UsersEstimate": 7955
     },
     {
       "ID": "EAwards_33",
@@ -17601,9 +17606,9 @@
       "ID": "EAwards_6",
       "SetID": "69kac5j",
       "Name": "Severed 2",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 10227
+      "UsersEstimate": 9091
     },
     {
       "ID": "EAwards_7",
@@ -17625,16 +17630,16 @@
       "ID": "EAwards_9",
       "SetID": "69kac5j",
       "Name": "Grapple Expert",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11364
+      "UsersEstimate": 12500
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113635,
+      "Progressed": 113637,
       "Completed": 50
     }
   ],
@@ -17642,8 +17647,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:08:26.1352547+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:09:01.7889708+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:58:40.3664922+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:08:26.1353693+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:59:29.8292958+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:09:01.7891234+00:00"
 }

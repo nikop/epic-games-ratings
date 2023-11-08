@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -3292,9 +3292,9 @@
       "ID": "ACH_Appuntamento",
       "SetID": "7a9m7mj",
       "Name": "Cutepie",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 664
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -3388,8 +3388,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:05:53.9901276+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:07:07.5869345+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.3333831+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:59:09.9766238+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:05:53.9901574+00:00"
+  "LastUpdate_Ratings": "2023-11-08T17:00:03.9540829+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:07:07.5869692+00:00"
 }

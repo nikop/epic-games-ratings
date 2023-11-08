@@ -871,7 +871,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7123,
+  "EOS_Progressed": 7124,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -6491,6 +6491,11 @@
       "Time": "2023-11-08T13:10:18.1828924+00:00",
       "NumProgressed": 7123,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-08T17:06:24.7513821+00:00",
+      "NumProgressed": 7124,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6518,7 +6523,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3419
+      "UsersEstimate": 3420
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -6550,7 +6555,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 2564
+      "UsersEstimate": 2565
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -6566,7 +6571,7 @@
       "Name": "Decimation",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1638
+      "UsersEstimate": 1639
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -6694,7 +6699,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6710,7 +6715,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -6780,9 +6785,9 @@
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
       "SetID": "akchbl3",
       "Name": "The Enlightment",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 499
+      "UsersEstimate": 427
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -6854,14 +6859,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7123,
+      "Progressed": 7124,
       "Completed": 9
     }
   ],
@@ -6869,8 +6874,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-04T20:00:49.9036999+00:00",
-  "LastChanged_Achievements": "2023-11-08T16:05:19.746664+00:00",
+  "LastChanged_Achievements": "2023-11-08T17:06:24.7513815+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.5980871+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:58:08.9899958+00:00",
-  "LastUpdate_Achievements": "2023-11-08T16:05:19.7467186+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:58:48.2580369+00:00",
+  "LastUpdate_Achievements": "2023-11-08T17:06:24.7514613+00:00"
 }
