@@ -543,7 +543,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3287,
+  "EOS_Progressed": 3289,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 303,
   "EOS_NewCompleters": 0,
@@ -4478,6 +4478,11 @@
       "Time": "2023-11-08T03:05:08.8451184+00:00",
       "NumProgressed": 3287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T04:05:06.4428972+00:00",
+      "NumProgressed": 3289,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4490,7 +4495,7 @@
       "Name": "Primetime",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "achievement_10",
@@ -4506,7 +4511,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "achievement_12",
@@ -4522,7 +4527,7 @@
       "Name": "MVP",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "achievement_14",
@@ -4530,7 +4535,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1184
     },
     {
       "ID": "achievement_15",
@@ -4586,7 +4591,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "achievement_21",
@@ -4618,7 +4623,7 @@
       "Name": "Change of Scenery",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "achievement_6",
@@ -4642,7 +4647,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "achievement_9",
@@ -4657,7 +4662,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3287,
+      "Progressed": 3289,
       "Completed": 0
     }
   ],
@@ -4665,8 +4670,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-07T23:59:37.0119968+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:05:08.8451179+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:05:06.4428968+00:00",
   "LastUpdate_AppInfo": "2023-11-02T04:56:54.1039918+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:00:16.6893776+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:05:08.8451597+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:00:19.5138636+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:05:06.4429383+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "4cbfe407ada24702a556b6e4d28a8800",
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 128,
@@ -1189,9 +1189,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_17",
@@ -1429,9 +1429,9 @@
       "ID": "achievement_43",
       "SetID": "2cpn27e",
       "Name": "Team Hunter",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_44",
@@ -1523,8 +1523,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:04:41.2368443+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:04:39.7632283+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:01:27.2242119+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:04:41.2368981+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:01:30.3691462+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:04:39.7632807+00:00"
 }

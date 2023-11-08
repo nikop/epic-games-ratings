@@ -4,7 +4,7 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 614,
+  "EOS_Progressed": 615,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1064,6 +1064,11 @@
       "Time": "2023-11-07T20:14:20.5235765+00:00",
       "NumProgressed": 614,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T04:08:21.2043103+00:00",
+      "NumProgressed": 615,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1091,7 +1096,7 @@
       "Name": "Fireball",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "DashDashDash",
@@ -1099,7 +1104,7 @@
       "Name": "Be water, my friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -1355,7 +1360,7 @@
       "Name": "Dash Crash",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "World2Boss",
@@ -1363,7 +1368,7 @@
       "Name": "Snake Eyes",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "World3Boss",
@@ -1371,7 +1376,7 @@
       "Name": "The King of Flat",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "World4Boss",
@@ -1426,7 +1431,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 614,
+      "Progressed": 615,
       "Completed": 0
     }
   ],
@@ -1434,8 +1439,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:07:37.9815689+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:08:21.2043099+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:16.2787316+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:02:50.413232+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:07:37.9816211+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:02:53.7601919+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:08:21.204355+00:00"
 }

@@ -16,7 +16,7 @@
 | Subsistence Skills | 64.00% | ~153 |
 | Kemono Hunter | 59.00% | ~141 |
 | Expert Conjuror | 58.00% | ~139 |
-| Distance Devourer | 54.00% | ~129 |
+| Distance Devourer | 55.00% | ~131 |
 | Flawless Crystal | 53.00% | ~127 |
 | Bonds of Enmity | 52.00% | ~124 |
 | Helpful Heart | 52.00% | ~124 |
@@ -29,7 +29,7 @@
 | Snare Specialist | 40.00% | ~96 |
 | Kemono at Heart | 38.00% | ~91 |
 | Karakuri Trail | 37.00% | ~88 |
-| Team Hunter | 34.00% | ~81 |
+| Team Hunter | 35.00% | ~84 |
 | Artful Assister | 34.00% | ~81 |
 | Reincarnation Cycle Stopper | 33.00% | ~79 |
 | Karakuri Isle | 31.00% | ~74 |
@@ -53,7 +53,7 @@
 | Big Spender | 11.00% | ~26 |
 | Tsukumo Whisperer | 7.00% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239 (Ranked 350)  
+Progressed: 239 (Ranked 351)  
 Completed: 6 (2.51%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |

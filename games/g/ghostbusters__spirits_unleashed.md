@@ -47,17 +47,17 @@ Rating: 4.50 (Ranked 584)
 | Liability | 0.80% | ~244 |
 | Surprise! | 0.80% | ~244 |
 | Therapeutic | 0.60% | ~183 |
-| Rift Seeker | 0.50% | ~152 |
+| Rift Seeker | 0.50% | ~153 |
 | Master Collector | 0.40% | ~122 |
 | Ghost Expert | 0.20% | ~61 |
 | Little Help Here | 0.20% | ~61 |
-| Catostrophic Destroyer | 0.10% | ~30 |
-| I don't need these | 0.10% | ~30 |
-| Line em' up | 0.10% | ~30 |
-| Mycophile | 0.10% | ~30 |
-| Ultimate Defense | 0.10% | ~30 |
+| Catostrophic Destroyer | 0.10% | ~31 |
+| I don't need these | 0.10% | ~31 |
+| Line em' up | 0.10% | ~31 |
+| Mycophile | 0.10% | ~31 |
+| Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,498 (Ranked 122)  
+Progressed: 30,506 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 65 (0.21%) (Ranked 238)
 | 2023-11-05 | 30,292 | 65 |
 | 2023-11-06 | 30,390 | 65 |
 | 2023-11-07 | 30,471 | 65 |
-| 2023-11-08 | 30,498 | 65 |
+| 2023-11-08 | 30,506 | 65 |
 ## Awards
 Max (Great for Beginners): 309  (Ranked 245)  
 Sum: 2,732 (Ranked 179)  

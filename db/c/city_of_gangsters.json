@@ -736,9 +736,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 351367,
+  "EOS_Progressed": 351370,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1113,
+  "EOS_NewPlayers": 1115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23581,6 +23581,11 @@
       "Time": "2023-11-08T03:03:28.659124+00:00",
       "NumProgressed": 351367,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T04:03:30.466811+00:00",
+      "NumProgressed": 351370,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -23680,7 +23685,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28109
+      "UsersEstimate": 28110
     },
     {
       "ID": "ach013",
@@ -23696,7 +23701,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 52705
+      "UsersEstimate": 52706
     },
     {
       "ID": "ach015",
@@ -23728,7 +23733,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 28109
+      "UsersEstimate": 28110
     },
     {
       "ID": "ach019",
@@ -23800,7 +23805,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 165142
+      "UsersEstimate": 165144
     },
     {
       "ID": "ach028",
@@ -23816,7 +23821,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38650
+      "UsersEstimate": 38651
     },
     {
       "ID": "ach030",
@@ -23992,7 +23997,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38650
+      "UsersEstimate": 38651
     },
     {
       "ID": "ach052",
@@ -24104,7 +24109,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49191
+      "UsersEstimate": 49192
     },
     {
       "ID": "ach067",
@@ -24128,7 +24133,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 49191
+      "UsersEstimate": 49192
     },
     {
       "ID": "ach070",
@@ -24231,7 +24236,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 351367,
+      "Progressed": 351370,
       "Completed": 7
     }
   ],
@@ -24239,8 +24244,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-03T12:00:54.9425355+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:03:28.6591235+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:03:30.4668106+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.7953727+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:57:46.8907297+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:03:28.6593715+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:57:45.7976913+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:03:30.4670785+00:00"
 }

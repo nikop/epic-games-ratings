@@ -3159,9 +3159,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30498,
+  "EOS_Progressed": 30506,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1128,
+  "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18364,6 +18364,11 @@
       "Time": "2023-11-08T03:07:44.2015668+00:00",
       "NumProgressed": 30498,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-08T04:08:27.085352+00:00",
+      "NumProgressed": 30506,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18407,7 +18412,7 @@
       "Name": "Catostrophic Destroyer",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Clutch_Capture",
@@ -18471,7 +18476,7 @@
       "Name": "I don\u0027t need these",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Ectoplasmic_Entity",
@@ -18559,7 +18564,7 @@
       "Name": "Line em\u0027 up",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Little_Help",
@@ -18583,7 +18588,7 @@
       "Name": "Mycophile",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Pesky_Jerks",
@@ -18615,7 +18620,7 @@
       "Name": "Rift Seeker",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "Right_Back",
@@ -18751,7 +18756,7 @@
       "Name": "Ultimate Defense",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Vaporous_Expansion",
@@ -18782,7 +18787,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30498,
+      "Progressed": 30506,
       "Completed": 65
     }
   ],
@@ -18790,8 +18795,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-08T02:59:47.2584025+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:07:44.2015663+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:08:27.0853516+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:59:47.2584031+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:07:44.2017168+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:59:47.0934291+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:08:27.0854867+00:00"
 }

@@ -6,26 +6,26 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,376 |
-| Un-Lonely Island | 47.00% | ~2,742 |
-| The Beginning of a Servantship | 45.00% | ~2,625 |
+| Just One...More...Term... | 75.00% | ~4,377 |
+| Un-Lonely Island | 47.00% | ~2,743 |
+| The Beginning of a Servantship | 45.00% | ~2,626 |
 | Trade Is My Trait | 37.00% | ~2,159 |
-| Number 18 | 24.00% | ~1,400 |
-| We Don't Have Time For That | 19.00% | ~1,108 |
+| Number 18 | 24.00% | ~1,401 |
+| We Don't Have Time For That | 19.00% | ~1,109 |
 | The Governator | 17.00% | ~992 |
-| The Legend of Langostino | 16.00% | ~933 |
+| The Legend of Langostino | 16.00% | ~934 |
 | Caribbean Comrade | 15.00% | ~875 |
 | The Dreamer of Dreams | 15.00% | ~875 |
 | Go Sovereigns! | 11.00% | ~642 |
 | For Science! | 11.00% | ~642 |
-| Happy Ending? | 10.00% | ~583 |
-| Of Seals And Men | 10.00% | ~583 |
+| Happy Ending? | 10.00% | ~584 |
+| Of Seals And Men | 10.00% | ~584 |
 | Shackadelic | 9.00% | ~525 |
 | Double Trouble | 8.00% | ~467 |
 | Firestarter | 8.00% | ~467 |
-| I Owe You Nothing | 7.00% | ~408 |
-| Make Tropico Great Again! | 7.00% | ~408 |
-| French Connection | 7.00% | ~408 |
+| I Owe You Nothing | 7.00% | ~409 |
+| Make Tropico Great Again! | 7.00% | ~409 |
+| French Connection | 7.00% | ~409 |
 | Don't Panic! | 6.00% | ~350 |
 | Beware The Betman | 6.00% | ~350 |
 | Viva Tropico! | 5.00% | ~292 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~53 |
 | My Ways | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,834 (Ranked 179)  
+Progressed: 5,836 (Ranked 179)  
 Completed: 2 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 2 (0.03%) (Ranked 309)
 | 2023-11-05 | 5,801 | 2 |
 | 2023-11-06 | 5,813 | 2 |
 | 2023-11-07 | 5,831 | 2 |
-| 2023-11-08 | 5,834 | 2 |
+| 2023-11-08 | 5,836 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 102  (Ranked 356)  
 Sum: 724 (Ranked 291)  

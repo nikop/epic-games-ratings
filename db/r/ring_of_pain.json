@@ -3316,9 +3316,9 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 239346,
+  "EOS_Progressed": 239348,
   "EOS_Completed": 286,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24236,6 +24236,11 @@
       "Time": "2023-11-08T03:09:48.1018772+00:00",
       "NumProgressed": 239346,
       "NumCompleted": 286
+    },
+    {
+      "Time": "2023-11-08T04:09:47.3870221+00:00",
+      "NumProgressed": 239348,
+      "NumCompleted": 286
     }
   ],
   "TotalAchievements": 138,
@@ -24893,9 +24898,9 @@
       "ID": "PASSIVEROOM",
       "SetID": "5l8oe0h",
       "Name": "A Quick Escape",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 479
     },
     {
       "ID": "PETRIFY50",
@@ -25350,13 +25355,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239346,
+      "Progressed": 239348,
       "Completed": 286
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 826,
+      "Progressed": 828,
       "Completed": 373
     }
   ],
@@ -25364,8 +25369,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-07T19:03:22.9894893+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:09:48.1018767+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:09:47.3870214+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:03:10.0872016+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:09:48.1021952+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:03:10.1980493+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:09:47.3873785+00:00"
 }

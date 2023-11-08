@@ -6249,10 +6249,10 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 714782,
-  "EOS_Completed": 2354,
-  "EOS_NewPlayers": 5074,
-  "EOS_NewCompleters": 62,
+  "EOS_Progressed": 714794,
+  "EOS_Completed": 2355,
+  "EOS_NewPlayers": 5070,
+  "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29244,6 +29244,11 @@
       "Time": "2023-11-08T03:06:28.9490821+00:00",
       "NumProgressed": 714782,
       "NumCompleted": 2354
+    },
+    {
+      "Time": "2023-11-08T04:06:25.1814516+00:00",
+      "NumProgressed": 714794,
+      "NumCompleted": 2355
     }
   ],
   "TotalAchievements": 51,
@@ -29623,7 +29628,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ach_gardening_tools",
@@ -29662,22 +29667,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714782,
-      "Completed": 2354
+      "Progressed": 714794,
+      "Completed": 2355
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40324,
-      "Completed": 36488
+      "Progressed": 40336,
+      "Completed": 36490
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-08T01:42:27.4184216+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:06:28.9490815+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:06:25.1814511+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:58:32.8678228+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:06:28.9492703+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:58:29.9850504+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:06:25.1816372+00:00"
 }

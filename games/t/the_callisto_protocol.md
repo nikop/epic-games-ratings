@@ -5,7 +5,7 @@ Rating: 4.19 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get a Grip | 9.00% | ~1,477 |
+| Get a Grip | 9.00% | ~1,478 |
 | Paper Jams | 8.00% | ~1,313 |
 | Flesh Wound | 7.00% | ~1,149 |
 | Float Like A Butterfly | 7.00% | ~1,149 |
@@ -28,7 +28,7 @@ Rating: 4.19 (Ranked 913)
 | I Do Belong Here | 4.00% | ~657 |
 | Terminated | 4.00% | ~657 |
 | It's Time | 4.00% | ~174 |
-| The Commonality | 3.00% | ~492 |
+| The Commonality | 3.00% | ~493 |
 | In Striking Distance | 2.00% | ~328 |
 | One Last Job | 2.00% | ~87 |
 | This Isn't About Escape | 1.00% | ~43 |
@@ -37,7 +37,7 @@ Rating: 4.19 (Ranked 913)
 | Information Overload | 0.80% | ~35 |
 | Grim Reaper | 0.70% | ~115 |
 | Parole Denied | 0.70% | ~30 |
-| Mugshot | 0.60% | ~98 |
+| Mugshot | 0.60% | ~99 |
 | Instigator | 0.60% | ~26 |
 | Quick Pick | 0.60% | ~26 |
 | Subject Alpha | 0.40% | ~17 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 913)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,415 (Ranked 143)  
+Progressed: 16,417 (Ranked 143)  
 Completed: 79 (0.48%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 79 (0.48%) (Ranked 198)
 | 2023-11-05 | 16,410 | 79 |
 | 2023-11-06 | 16,412 | 79 |
 | 2023-11-07 | 16,414 | 79 |
-| 2023-11-08 | 16,415 | 79 |
+| 2023-11-08 | 16,417 | 79 |
 ## Awards
 Max (Highly Recommended): 81  (Ranked 385)  
 Sum: 476 (Ranked 325)  

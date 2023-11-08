@@ -6,15 +6,15 @@ Rating: 4.75 (Ranked 143)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~19,687 |
-| The Killing Jar | 8.00% | ~17,499 |
+| The Killing Jar | 8.00% | ~17,500 |
 | Expanding Horizons | 7.00% | ~15,312 |
 | Quest for Survival | 7.00% | ~15,312 |
 | Not Your Average Trait | 7.00% | ~15,312 |
-| Gleaming the Cube | 6.00% | ~13,124 |
-| Familiar Face | 6.00% | ~13,124 |
-| Duality | 6.00% | ~13,124 |
-| Boss'n Up | 6.00% | ~13,124 |
-| Trait Chaser | 6.00% | ~13,124 |
+| Gleaming the Cube | 6.00% | ~13,125 |
+| Familiar Face | 6.00% | ~13,125 |
+| Duality | 6.00% | ~13,125 |
+| Boss'n Up | 6.00% | ~13,125 |
+| Trait Chaser | 6.00% | ~13,125 |
 | Not So Special Now | 5.00% | ~10,937 |
 | Not a Janitor | 5.00% | ~10,937 |
 | Equal Measures | 5.00% | ~10,937 |
@@ -42,21 +42,21 @@ Rating: 4.75 (Ranked 143)
 | Strapped | 3.00% | ~6,562 |
 | Edgelord | 3.00% | ~6,562 |
 | The Ultimate Weapon | 3.00% | ~6,562 |
+| No One Should Have All That Power | 3.00% | ~6,562 |
 | Crafty | 2.00% | ~4,375 |
 | Only Human | 2.00% | ~4,375 |
 | Red Room | 2.00% | ~4,375 |
+| The Collector | 2.00% | ~4,375 |
 | Scrap Hoarder | 2.00% | ~4,375 |
 | Carnage in C-Minor | 2.00% | ~4,375 |
-| No One Should Have All That Power | 2.00% | ~4,375 |
 | Maxed Out! | 2.00% | ~4,375 |
 | Transmutate | 2.00% | ~4,375 |
 | Ghost in the Machine | 1.00% | ~2,187 |
 | The Trigger | 1.00% | ~2,187 |
 | Cutting Edge | 1.00% | ~2,187 |
-| The Collector | 1.00% | ~2,187 |
 | Proving Grounds | 1.00% | ~2,187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,739 (Ranked 68)  
+Progressed: 218,747 (Ranked 68)  
 Completed: 433 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 433 (0.20%) (Ranked 244)
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
 | 2023-11-07 | 218,702 | 433 |
-| 2023-11-08 | 218,739 | 433 |
+| 2023-11-08 | 218,747 | 433 |
 ## Awards
 Max (Great Boss Battles): 2,095  (Ranked 109)  
 Sum: 4,689 (Ranked 143)  

@@ -13,7 +13,7 @@ Number of Ratings: 281  (23.09.2022)
 | Scaling up | 0.60% | ~39 |
 | Ready to Rod and Roll | 0.50% | ~32 |
 | I'm on a Boat! | 0.50% | ~32 |
-| Fish Out of Water | 0.30% | ~19 |
+| Fish Out of Water | 0.40% | ~26 |
 | Things that go Splash in the Night | 0.20% | ~13 |
 | Goldfish? | 0.20% | ~13 |
 | Going for Gold | 0.20% | ~13 |

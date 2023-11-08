@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113602,
+  "EOS_Progressed": 113604,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17172,6 +17172,11 @@
       "Time": "2023-11-08T03:08:50.1706808+00:00",
       "NumProgressed": 113602,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-08T04:08:51.635092+00:00",
+      "NumProgressed": 113604,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17191,7 +17196,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87474
+      "UsersEstimate": 87475
     },
     {
       "ID": "EAwards_10",
@@ -17215,7 +17220,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17040
+      "UsersEstimate": 17041
     },
     {
       "ID": "EAwards_13",
@@ -17279,7 +17284,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54529
+      "UsersEstimate": 54530
     },
     {
       "ID": "EAwards_20",
@@ -17327,7 +17332,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21584
+      "UsersEstimate": 21585
     },
     {
       "ID": "EAwards_26",
@@ -17367,7 +17372,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 21584
+      "UsersEstimate": 21585
     },
     {
       "ID": "EAwards_30",
@@ -17574,7 +17579,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113602,
+      "Progressed": 113604,
       "Completed": 50
     }
   ],
@@ -17582,8 +17587,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:08:50.1706803+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:08:51.635091+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:59:07.3649249+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:08:50.1708302+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:59:06.7102118+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:08:51.6352188+00:00"
 }

@@ -18,10 +18,10 @@ Rating: 4.62 (Ranked 363)
 | No, Thanks! | 21.00% | ~193 |
 | Breaking Down Barriers | 21.00% | ~193 |
 | The Wicked Twins | 21.00% | ~193 |
+| Honest Mistake | 21.00% | ~193 |
 | Fast Learner | 21.00% | ~193 |
 | Immaculate Aim | 21.00% | ~193 |
 | The Betrayer | 20.00% | ~183 |
-| Honest Mistake | 20.00% | ~183 |
 | Like Clockwork | 19.00% | ~174 |
 | Golem Chaser | 19.00% | ~174 |
 | Check Your Pulse | 19.00% | ~174 |
@@ -38,12 +38,12 @@ Rating: 4.62 (Ranked 363)
 | Family Memories | 12.00% | ~110 |
 | Syron for Hope | 11.00% | ~101 |
 | Ask Questions Later | 11.00% | ~101 |
+| Factorywood Explorer | 10.00% | ~92 |
 | Fairgrounds Explorer | 10.00% | ~92 |
 | Sump Explorer | 10.00% | ~92 |
 | Theater Explorer | 10.00% | ~92 |
 | Cultivair Explorer | 9.00% | ~83 |
 | Entresol Explorer | 9.00% | ~83 |
-| Factorywood Explorer | 9.00% | ~83 |
 | Corin Goes Home | 8.00% | ~73 |
 | Sartorialist | 8.00% | ~73 |
 | Golem Hunter | 7.00% | ~64 |

@@ -29,8 +29,8 @@ Rating: 4.55 (Ranked 500)
 | Master Negotiator | 1.00% | ~7 |
 | Miraculous Maya | 0.90% | ~133 |
 | Doctor Approved | 0.80% | ~118 |
+| Data Logger | 0.60% | ~88 |
 | Data Master | 0.60% | ~88 |
-| Data Logger | 0.50% | ~74 |
 | Brother's Reaper | 0.40% | ~59 |
 | No Belter Left Behind | 0.40% | ~59 |
 | Debris Spree | 0.40% | ~59 |

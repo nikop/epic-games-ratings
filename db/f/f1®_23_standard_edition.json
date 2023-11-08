@@ -455,7 +455,7 @@
   ],
   "EOS_Progressed": 5365,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1379,
+  "EOS_NewPlayers": 1377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4879,9 +4879,9 @@
       "ID": "achievement_0003",
       "SetID": "9123ogc",
       "Name": "Under the Microscope",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_0004",
@@ -5031,9 +5031,9 @@
       "ID": "achievement_0022",
       "SetID": "9123ogc",
       "Name": "A Dozen Pieces",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1502
+      "UsersEstimate": 1556
     },
     {
       "ID": "achievement_0023",
@@ -5223,9 +5223,9 @@
       "ID": "achievement_0046",
       "SetID": "9123ogc",
       "Name": "Writing a new Chapter",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1288
     },
     {
       "ID": "achievement_0047",
@@ -5264,8 +5264,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-05T20:57:16.2005186+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:07:07.9255034+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:07:02.5511684+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.9013209+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:58:34.3778548+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:07:07.9255745+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:58:31.5174599+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:07:02.551242+00:00"
 }

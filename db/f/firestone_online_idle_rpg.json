@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -451,9 +451,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2121,
+  "EOS_Progressed": 2122,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6581,6 +6581,11 @@
       "Time": "2023-11-08T03:07:46.4098195+00:00",
       "NumProgressed": 2121,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-08T04:08:29.415072+00:00",
+      "NumProgressed": 2122,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6686,9 +6691,9 @@
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 255
+      "UsersEstimate": 233
     },
     {
       "ID": "dragonclicker",
@@ -6704,7 +6709,7 @@
       "Name": "Dragon Master",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "dragonslayer",
@@ -6760,7 +6765,7 @@
       "Name": "Enlightenment",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "exoticmerchant",
@@ -6824,7 +6829,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "herewegoagain",
@@ -6848,7 +6853,7 @@
       "Name": "How Do You Turn This On?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "hunter",
@@ -6888,7 +6893,7 @@
       "Name": "Lieutenant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "lockandload",
@@ -6896,7 +6901,7 @@
       "Name": "Lock And Load",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "masterenchanter",
@@ -6936,7 +6941,7 @@
       "Name": "Missions Dedication",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "movinguptheladder",
@@ -6984,7 +6989,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "prestigiousx10",
@@ -7008,7 +7013,7 @@
       "Name": "Sailor",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "scientist",
@@ -7048,7 +7053,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "thealchemist",
@@ -7056,7 +7061,7 @@
       "Name": "The Alchemist",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "theexpeditioner",
@@ -7080,7 +7085,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "thepowerofawakening",
@@ -7191,7 +7196,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2121,
+      "Progressed": 2122,
       "Completed": 2
     }
   ],
@@ -7199,8 +7204,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:07:46.409819+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:08:29.4150715+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:01:35.7633722+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:07:46.4099348+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:02:49.4894913+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:08:29.4151999+00:00"
 }

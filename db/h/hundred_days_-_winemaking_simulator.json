@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 80,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1051,9 +1051,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11444,
+  "EOS_Progressed": 11449,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1033,
+  "EOS_NewPlayers": 1036,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9301,6 +9301,11 @@
       "Time": "2023-11-08T03:08:41.9678063+00:00",
       "NumProgressed": 11444,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-08T04:08:43.8242845+00:00",
+      "NumProgressed": 11449,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9313,7 +9318,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "a_10",
@@ -9361,7 +9366,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4578
+      "UsersEstimate": 4580
     },
     {
       "ID": "a_19",
@@ -9439,9 +9444,9 @@
       "ID": "a_28",
       "SetID": "daiie3o",
       "Name": "Pastry Chef",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 229
     },
     {
       "ID": "a_3",
@@ -9560,7 +9565,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11444,
+      "Progressed": 11449,
       "Completed": 10
     }
   ],
@@ -9568,8 +9573,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-07T18:01:57.8090042+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:08:41.9678053+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:08:43.8242841+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.8121034+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:01:17.099885+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:08:41.9678848+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:01:20.4253587+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:08:43.824357+00:00"
 }

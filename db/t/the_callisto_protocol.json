@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1451,9 +1451,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16415,
+  "EOS_Progressed": 16417,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8811,6 +8811,11 @@
       "Time": "2023-11-08T00:07:54.7837916+00:00",
       "NumProgressed": 16415,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-08T04:07:26.1014273+00:00",
+      "NumProgressed": 16417,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -8926,7 +8931,7 @@
       "Name": "Get a Grip",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1477
+      "UsersEstimate": 1478
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -8974,7 +8979,7 @@
       "Name": "The Commonality",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -9006,7 +9011,7 @@
       "Name": "Mugshot",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -9197,13 +9202,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16415,
+      "Progressed": 16417,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4341,
+      "Progressed": 4343,
       "Completed": 29
     }
   ],
@@ -9211,8 +9216,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-07T11:01:52.9628903+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:07:32.4779382+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:07:26.1014262+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:14.0432207+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:01:12.3156712+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:07:32.4780182+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:01:15.0109079+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:07:26.1015169+00:00"
 }

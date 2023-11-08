@@ -885,7 +885,7 @@
   ],
   "EOS_Progressed": 6443,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9699,9 +9699,9 @@
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -10002,8 +10002,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-07T23:00:55.7232721+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:09:12.0575263+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:09:12.6330621+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:00:16.5295821+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:09:12.0576191+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:00:19.3577164+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:09:12.6331517+00:00"
 }

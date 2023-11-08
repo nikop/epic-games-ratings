@@ -4,7 +4,7 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 810,
   "Ranking_Popularity": 198,
-  "Ranking_PopularitySum": 301,
+  "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 232,
   "Ranking_EOS_NewPlayers": 120,
@@ -302,7 +302,7 @@
   ],
   "EOS_Progressed": 204883,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -22185,8 +22185,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-04T17:58:09.1318446+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:05:44.272424+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:05:41.6892768+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.2818735+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:59:46.0797296+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:05:44.272579+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:59:45.9049783+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:05:41.6894336+00:00"
 }

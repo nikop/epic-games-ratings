@@ -6,18 +6,18 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,502 |
+| Genin | 12.00% | ~25,503 |
 | A thief's beginning | 10.00% | ~21,252 |
 | Thorough | 10.00% | ~21,252 |
-| Disguised | 9.00% | ~19,126 |
-| Rollin' | 9.00% | ~19,126 |
-| Tanuki Time | 9.00% | ~19,126 |
-| Rescue Takuma | 8.00% | ~17,001 |
-| Stoned Ox | 8.00% | ~17,001 |
-| Happy Planning | 7.00% | ~14,876 |
-| Ice Ice Yuki | 7.00% | ~14,876 |
-| Jonin | 7.00% | ~14,876 |
-| Yabu | 7.00% | ~14,876 |
+| Disguised | 9.00% | ~19,127 |
+| Rollin' | 9.00% | ~19,127 |
+| Tanuki Time | 9.00% | ~19,127 |
+| Rescue Takuma | 8.00% | ~17,002 |
+| Stoned Ox | 8.00% | ~17,002 |
+| Happy Planning | 7.00% | ~14,877 |
+| Ice Ice Yuki | 7.00% | ~14,877 |
+| Jonin | 7.00% | ~14,877 |
+| Yabu | 7.00% | ~14,877 |
 | Chunin | 6.00% | ~12,751 |
 | Flying Rocks | 6.00% | ~12,751 |
 | Mugen Unchained | 6.00% | ~12,751 |
@@ -29,9 +29,9 @@ Number of Ratings: 495  (23.09.2022)
 | Happy little accidents | 4.00% | ~8,501 |
 | Noboru | 4.00% | ~8,501 |
 | Still Rollin' | 4.00% | ~8,501 |
-| It's raining men | 3.00% | ~6,375 |
-| Stoned | 3.00% | ~6,375 |
-| The Old Way | 3.00% | ~6,375 |
+| It's raining men | 3.00% | ~6,376 |
+| Stoned | 3.00% | ~6,376 |
+| The Old Way | 3.00% | ~6,376 |
 | Atheist Ox | 2.00% | ~4,250 |
 | No Gimmicks | 2.00% | ~4,250 |
 | Old Man | 2.00% | ~4,250 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~213 |
 | Release the Kraken | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,515 (Ranked 70)  
+Progressed: 212,522 (Ranked 70)  
 Completed: 96 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 96 (0.05%) (Ranked 297)
 | 2023-11-05 | 212,140 | 96 |
 | 2023-11-06 | 212,316 | 96 |
 | 2023-11-07 | 212,500 | 96 |
-| 2023-11-08 | 212,515 | 96 |
+| 2023-11-08 | 212,522 | 96 |
 ## Awards
 Max (Great for Beginners): 571  (Ranked 197)  
 Sum: 4,830 (Ranked 139)  

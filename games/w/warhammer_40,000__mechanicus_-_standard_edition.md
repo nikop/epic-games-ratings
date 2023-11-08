@@ -5,10 +5,10 @@ Rating: 4.43 (Ranked 688)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~58,935 |
+| No aid from the Omnissiah | 26.00% | ~58,936 |
 | This is only the beginning | 19.00% | ~43,068 |
 | Knowledge is power | 12.00% | ~27,201 |
-| Galvanic Rifle | 10.00% | ~22,667 |
+| Galvanic Rifle | 10.00% | ~22,668 |
 | Power Ranger | 9.00% | ~20,401 |
 | Taser Goad | 9.00% | ~20,401 |
 | Radium Ready | 9.00% | ~20,401 |
@@ -19,11 +19,11 @@ Rating: 4.43 (Ranked 688)
 | One with the Machine | 4.00% | ~9,067 |
 | Legio Cybernetica | 3.00% | ~6,800 |
 | Fleshy Disposal | 3.00% | ~6,800 |
-| Battle Servitor | 2.00% | ~4,533 |
-| Ding Dong Szaregon's Gone | 2.00% | ~4,533 |
-| Impatient destruction | 2.00% | ~4,533 |
-| Vivisected Vizier | 2.00% | ~4,533 |
-| Architect Abortion | 2.00% | ~4,533 |
+| Battle Servitor | 2.00% | ~4,534 |
+| Ding Dong Szaregon's Gone | 2.00% | ~4,534 |
+| Impatient destruction | 2.00% | ~4,534 |
+| Vivisected Vizier | 2.00% | ~4,534 |
+| Architect Abortion | 2.00% | ~4,534 |
 | Cohortus Maximus | 0.80% | ~1,813 |
 | Mother of Xenarites | 0.40% | ~907 |
 | False God | 0.30% | ~680 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 688)
 | Perma-live | 0.10% | ~227 |
 | Purge the Heretek | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,674 (Ranked 67)  
+Progressed: 226,675 (Ranked 67)  
 Completed: 5 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,17 +242,17 @@ Completed: 5 (0.00%) (Ranked 345)
 | 2023-11-05 | 226,520 | 5 |
 | 2023-11-06 | 226,604 | 5 |
 | 2023-11-07 | 226,670 | 5 |
-| 2023-11-08 | 226,674 | 5 |
+| 2023-11-08 | 226,675 | 5 |
 ## Awards
 Max (Highly Recommended): 289  (Ranked 252)  
-Sum: 2,190 (Ranked 201)  
+Sum: 2,191 (Ranked 201)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 289 |
 | This game has Quickly Understood Controls | 283 |
 | This game is Extremely Fun | 279 |
-| This game has Amazing Characters | 267 |
+| This game has Amazing Characters | 268 |
 | This game has Diverse Characters | 267 |
 | This game has Amazing Storytelling | 249 |
 | This game is Relaxing | 243 |
@@ -351,3 +351,4 @@ Diff (max vs sum): 51
 | 2023-11-04 | 4.43 | 289 | 2,186 |
 | 2023-11-06 | 4.43 | 289 | 2,189 |
 | 2023-11-07 | 4.43 | 289 | 2,190 |
+| 2023-11-08 | 4.43 | 289 | 2,191 |

@@ -3969,9 +3969,9 @@
       "Count": 277
     }
   ],
-  "EOS_Progressed": 218739,
+  "EOS_Progressed": 218747,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 3012,
+  "EOS_NewPlayers": 2966,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17004,6 +17004,11 @@
       "Time": "2023-11-08T03:06:39.6077194+00:00",
       "NumProgressed": 218739,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-11-08T04:06:35.4355969+00:00",
+      "NumProgressed": 218747,
+      "NumCompleted": 433
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17064,7 +17069,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13124
+      "UsersEstimate": 13125
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -17096,7 +17101,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17499
+      "UsersEstimate": 17500
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -17168,7 +17173,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13124
+      "UsersEstimate": 13125
     },
     {
       "ID": "Meet_Meidra",
@@ -17208,7 +17213,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13124
+      "UsersEstimate": 13125
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -17248,7 +17253,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13124
+      "UsersEstimate": 13125
     },
     {
       "ID": "Obtain_Guns_A",
@@ -17294,9 +17299,9 @@
       "ID": "Obtain_Relics",
       "SetID": "bkp3b1a",
       "Name": "The Collector",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 2187
+      "UsersEstimate": 4375
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -17382,9 +17387,9 @@
       "ID": "Upgrade_Standard_Weapon_B",
       "SetID": "bkp3b1a",
       "Name": "No One Should Have All That Power",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4375
+      "UsersEstimate": 6562
     },
     {
       "ID": "Upgrade_Traits_A",
@@ -17392,7 +17397,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13124
+      "UsersEstimate": 13125
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -17415,7 +17420,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218739,
+      "Progressed": 218747,
       "Completed": 433
     }
   ],
@@ -17423,8 +17428,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-08T01:47:06.5119302+00:00",
-  "LastChanged_Achievements": "2023-11-08T03:06:39.6077188+00:00",
+  "LastChanged_Achievements": "2023-11-08T04:06:35.4355965+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:03:14.9267218+00:00",
-  "LastUpdate_Achievements": "2023-11-08T03:06:39.6078465+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:03:15.2452727+00:00",
+  "LastUpdate_Achievements": "2023-11-08T04:06:35.4357201+00:00"
 }

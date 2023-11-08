@@ -27,6 +27,7 @@ Rating: 4.20 (Ranked 905)
 | The Shade | 0.10% | ~305 |
 | They won't last long | 0.10% | ~305 |
 | Through the Veil | 0.10% | ~305 |
+| Call this the Judge's mercy | 0.10% | ~305 |
 | Pride is a sin, young Knight | 0.10% | ~305 |
 | Their fate is sealed | 0.10% | ~305 |
 | Not even from this world | 0.10% | ~305 |
@@ -38,7 +39,6 @@ Rating: 4.20 (Ranked 905)
 | I took a risk | 0.10% | ~305 |
 | Let's raise the stakes!! | 0.10% | ~305 |
 | A legend among Chimeras | 0.00% | ~0 |
-| Call this the Judge's mercy | 0.00% | ~0 |
 | There's too many of them! | 0.00% | ~0 |
 | I've been waiting for this! | 0.00% | ~0 |
 | I'm just warming up | 0.00% | ~0 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 905)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305,242 (Ranked 49)  
+Progressed: 305,275 (Ranked 49)  
 Completed: 2 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 2 (0.00%) (Ranked 345)
 | 2023-11-05 | 303,382 | 1 |
 | 2023-11-06 | 304,252 | 1 |
 | 2023-11-07 | 305,112 | 2 |
-| 2023-11-08 | 305,242 | 2 |
+| 2023-11-08 | 305,275 | 2 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 424)  
 Sum: 51 (Ranked 477)  

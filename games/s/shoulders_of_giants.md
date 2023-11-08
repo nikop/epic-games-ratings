@@ -6,7 +6,7 @@ Rating: 4.39 (Ranked 744)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | On the Shoulders of Giants | 88.00% | ~2,013 |
-| A Ribbiting Performance | 76.00% | ~1,739 |
+| A Ribbiting Performance | 77.00% | ~1,762 |
 | At Least We Have Each Other... | 75.00% | ~1,716 |
 | Frogbot | 73.00% | ~1,670 |
 | Ouch | 55.00% | ~1,258 |

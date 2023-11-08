@@ -16,9 +16,9 @@ Rating: 4.68 (Ranked 250)
 | Hitting a Season | 33.00% | ~1,770 |
 | Challenge Yourself | 30.00% | ~1,610 |
 | Making History | 30.00% | ~1,610 |
-| A Dozen Pieces | 28.00% | ~1,502 |
+| A Dozen Pieces | 29.00% | ~1,556 |
 | Network Success | 24.00% | ~1,288 |
-| Writing a new Chapter | 23.00% | ~1,234 |
+| Writing a new Chapter | 24.00% | ~1,288 |
 | Spring Cleaning | 22.00% | ~1,180 |
 | Reduce | 19.00% | ~1,019 |
 | Ups and Downs | 18.00% | ~966 |
@@ -47,9 +47,9 @@ Rating: 4.68 (Ranked 250)
 | Hitting a Century | 3.00% | ~161 |
 | Wait, I know you? | 2.00% | ~107 |
 | Filling in the Gaps | 2.00% | ~107 |
+| Under the Microscope | 1.00% | ~54 |
 | Saturday Night Drama | 1.00% | ~54 |
 | Media Darling | 1.00% | ~54 |
-| Under the Microscope | 0.90% | ~48 |
 | Ultimate Collector | 0.50% | ~27 |
 | Golden Touch | 0.30% | ~16 |
 | Elite Racer | 0.10% | ~5 |
