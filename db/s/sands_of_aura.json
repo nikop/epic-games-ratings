@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 64,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -320,6 +320,11 @@
       "Time": "2023-11-07T23:08:46.9205717+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T22:03:17.3939218+00:00",
+      "NumProgressed": 64,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -530,7 +535,7 @@
       "ID": "DEFEAT_FERRUM_BOSSES",
       "SetID": "cm0d613",
       "Name": "Dousing a Venerable Flame",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -714,7 +719,7 @@
       "ID": "SMITH_UPGRADE_1",
       "SetID": "cm0d613",
       "Name": "Advanced Armaments",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -732,7 +737,7 @@
       "Name": "Setting Sail",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "UBAANI_DEFEAT",
@@ -795,7 +800,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 64,
       "Completed": 0
     }
   ],
@@ -803,8 +808,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:13:45.7558604+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:03:17.3939214+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.0401446+00:00",
-  "LastUpdate_Ratings": "2023-11-08T20:59:16.1831859+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:13:45.755904+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:57:20.8988946+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:03:17.3939751+00:00"
 }

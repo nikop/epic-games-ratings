@@ -1,38 +1,38 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 865)  
+Rating: 4.26 (Ranked 866)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 76.00% | ~137,933 |
-| Dead-ball specialist | 63.00% | ~114,339 |
-| Multitasking | 52.00% | ~94,375 |
-| European Legend | 52.00% | ~94,375 |
-| Balanced Path | 49.00% | ~88,931 |
-| High Grades | 49.00% | ~88,931 |
-| Let the Games Begin | 48.00% | ~87,116 |
-| A Moment of Your Time | 47.00% | ~85,301 |
-| Aiming High | 46.00% | ~83,486 |
-| Tactical Tinkerer | 41.00% | ~74,411 |
-| Intuition and Execution | 40.00% | ~72,596 |
-| Squad Building Connoisseur | 39.00% | ~70,781 |
-| The Winning Formula | 37.00% | ~67,152 |
-| Parking the Bus | 29.00% | ~52,632 |
-| Safe House | 27.00% | ~49,003 |
-| Best of Five | 25.00% | ~45,373 |
-| Football is Everything | 24.00% | ~43,558 |
-| The Chosen One | 23.00% | ~41,743 |
-| Fresh Fit | 21.00% | ~38,113 |
-| Bring it on | 17.00% | ~30,853 |
-| Life-Like | 14.00% | ~25,409 |
-| Make the Grade | 13.00% | ~23,594 |
-| Specialist | 11.00% | ~19,964 |
-| I Played Them All | 10.00% | ~18,149 |
-| Teamwork works | 9.00% | ~16,334 |
-| First of Many | 9.00% | ~16,334 |
-| Momentous Achievement | 6.00% | ~10,889 |
-| Shop till you drop | 6.00% | ~10,889 |
+| Power Shot | 76.00% | ~137,942 |
+| Dead-ball specialist | 63.00% | ~114,346 |
+| Multitasking | 52.00% | ~94,381 |
+| European Legend | 52.00% | ~94,381 |
+| Balanced Path | 49.00% | ~88,936 |
+| High Grades | 49.00% | ~88,936 |
+| Let the Games Begin | 48.00% | ~87,121 |
+| A Moment of Your Time | 47.00% | ~85,306 |
+| Aiming High | 46.00% | ~83,491 |
+| Tactical Tinkerer | 41.00% | ~74,416 |
+| Intuition and Execution | 40.00% | ~72,601 |
+| Squad Building Connoisseur | 39.00% | ~70,786 |
+| The Winning Formula | 37.00% | ~67,156 |
+| Parking the Bus | 29.00% | ~52,636 |
+| Safe House | 27.00% | ~49,006 |
+| Best of Five | 25.00% | ~45,376 |
+| Football is Everything | 24.00% | ~43,560 |
+| The Chosen One | 23.00% | ~41,745 |
+| Fresh Fit | 21.00% | ~38,115 |
+| Bring it on | 17.00% | ~30,855 |
+| Life-Like | 14.00% | ~25,410 |
+| Make the Grade | 13.00% | ~23,595 |
+| Specialist | 11.00% | ~19,965 |
+| I Played Them All | 10.00% | ~18,150 |
+| Teamwork works | 9.00% | ~16,335 |
+| First of Many | 9.00% | ~16,335 |
+| Momentous Achievement | 6.00% | ~10,890 |
+| Shop till you drop | 6.00% | ~10,890 |
 | In Cahoots | 5.00% | ~9,075 |
 | Tune Your Club | 5.00% | ~9,075 |
 | Becoming Unplayable | 5.00% | ~9,075 |
@@ -42,10 +42,10 @@ Rating: 4.26 (Ranked 865)
 | Sharing is Caring | 4.00% | ~7,260 |
 | Full wardrobe | 0.60% | ~1,089 |
 | Girl Power | 0.40% | ~726 |
-| Training Addict | 0.10% | ~181 |
-| Dazzling Personality | 0.10% | ~181 |
+| Training Addict | 0.10% | ~182 |
+| Dazzling Personality | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181,491 (Ranked 74)  
+Progressed: 181,502 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,14 +100,14 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 180,068 | 0 |
 | 2023-11-06 | 180,553 | 0 |
 | 2023-11-07 | 181,035 | 0 |
-| 2023-11-08 | 181,491 | 0 |
+| 2023-11-08 | 181,502 | 0 |
 ## Awards
-Max (Diverse Characters): 20,853  (Ranked 19)  
-Sum: 104,863 (Ranked 14)  
+Max (Diverse Characters): 20,867  (Ranked 19)  
+Sum: 104,877 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 20,853 |
+| This game has Diverse Characters | 20,867 |
 | This game is Highly Recommended | 14,393 |
 | This game has a Competitive Community | 13,625 |
 | This game has Amazing Characters | 11,827 |
@@ -426,4 +426,4 @@ Diff (max vs sum): 5
 | 2023-11-05 | 4.26 | 20,817 | 104,706 |
 | 2023-11-06 | 4.26 | 20,831 | 104,774 |
 | 2023-11-07 | 4.26 | 20,853 | 104,832 |
-| 2023-11-08 | 4.26 | 20,853 | 104,863 |
+| 2023-11-08 | 4.26 | 20,867 | 104,877 |

@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2059,
+  "EOS_Progressed": 2060,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4562,6 +4562,11 @@
       "Time": "2023-11-08T21:19:40.2697496+00:00",
       "NumProgressed": 2059,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T22:09:14.3623917+00:00",
+      "NumProgressed": 2060,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4574,7 +4579,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4782,7 +4787,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4830,7 +4835,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -4862,7 +4867,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4965,14 +4970,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2059,
+      "Progressed": 2060,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:19:40.2697493+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:09:14.3623914+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-08T20:59:50.0828145+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:19:40.2698561+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:57:24.2846256+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:09:14.3624522+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 809,
+  "EOS_Progressed": 810,
   "EOS_Completed": 27,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.34,
+  "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2542,6 +2542,11 @@
       "Time": "2023-11-08T19:09:59.8891991+00:00",
       "NumProgressed": 809,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-08T22:09:11.5385663+00:00",
+      "NumProgressed": 810,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2562,7 +2567,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     },
     {
       "ID": "_03_FinishAct1",
@@ -2578,7 +2583,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "_05_FinishAct2",
@@ -2674,7 +2679,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2720,9 +2725,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 81
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2761,7 +2766,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 809,
+      "Progressed": 810,
       "Completed": 27
     }
   ],
@@ -2769,8 +2774,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:19:37.2835455+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:09:11.5385659+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:47.5023284+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:05:20.1916155+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:19:37.2835728+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:58:02.8179556+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:09:11.5385954+00:00"
 }

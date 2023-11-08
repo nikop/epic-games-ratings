@@ -5,7 +5,7 @@ Rating: 4.38 (Ranked 764)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,038 |
+| Survivor | 31.00% | ~80,039 |
 | Predator I | 23.00% | ~59,383 |
 | Fixer I | 10.00% | ~25,819 |
 | A week in Century City | 10.00% | ~25,819 |
@@ -14,10 +14,10 @@ Rating: 4.38 (Ranked 764)
 | Cleaning Company | 6.00% | ~15,491 |
 | Well-oiled machine | 5.00% | ~12,909 |
 | Saver I | 5.00% | ~12,909 |
-| The Ascent | 4.00% | ~10,327 |
-| Pacifist | 4.00% | ~10,327 |
-| Vandalism | 4.00% | ~10,327 |
-| Capitalist I | 4.00% | ~10,327 |
+| The Ascent | 4.00% | ~10,328 |
+| Pacifist | 4.00% | ~10,328 |
+| Vandalism | 4.00% | ~10,328 |
+| Capitalist I | 4.00% | ~10,328 |
 | Fixer II | 3.00% | ~7,746 |
 | Adrenaline | 3.00% | ~7,746 |
 | By a hair | 2.00% | ~5,164 |
@@ -35,8 +35,8 @@ Rating: 4.38 (Ranked 764)
 | Don't try this at home | 1.00% | ~2,582 |
 | Bricklayer | 1.00% | ~2,582 |
 | Run the Economy | 1.00% | ~2,582 |
-| Committed Relationship | 0.80% | ~2,065 |
-| Number 1 | 0.80% | ~2,065 |
+| Committed Relationship | 0.80% | ~2,066 |
+| Number 1 | 0.80% | ~2,066 |
 | Interior designer | 0.60% | ~1,549 |
 | The Gamble | 0.50% | ~1,291 |
 | The Descent | 0.50% | ~1,291 |
@@ -62,7 +62,7 @@ Rating: 4.38 (Ranked 764)
 | Capitalist III | 0.10% | ~258 |
 | Hell Is You | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,187 (Ranked 55)  
+Progressed: 258,189 (Ranked 55)  
 Completed: 3 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 3 (0.00%) (Ranked 345)
 | 2023-11-05 | 258,100 | 3 |
 | 2023-11-06 | 258,127 | 3 |
 | 2023-11-07 | 258,154 | 3 |
-| 2023-11-08 | 258,187 | 3 |
+| 2023-11-08 | 258,189 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 436)  
 Sum: 310 (Ranked 354)  

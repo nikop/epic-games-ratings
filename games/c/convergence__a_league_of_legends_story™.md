@@ -30,8 +30,8 @@ Rating: 4.62 (Ranked 365)
 | The Loose Cannon | 18.00% | ~165 |
 | The Family Fortune | 18.00% | ~165 |
 | Street Style | 17.00% | ~156 |
+| Treasure Trove | 15.00% | ~138 |
 | Cartographer | 15.00% | ~138 |
-| Treasure Trove | 14.00% | ~128 |
 | Whiz Kid | 14.00% | ~128 |
 | Good Neighbor | 13.00% | ~119 |
 | Chaincrawler Explorer | 12.00% | ~110 |

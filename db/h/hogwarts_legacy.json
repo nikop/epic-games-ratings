@@ -10227,9 +10227,9 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 301714,
+  "EOS_Progressed": 301715,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1604,
+  "EOS_NewPlayers": 1593,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -31962,6 +31962,11 @@
       "Time": "2023-11-08T21:19:26.165166+00:00",
       "NumProgressed": 301714,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-08T22:09:00.3391563+00:00",
+      "NumProgressed": 301715,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -32005,7 +32010,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30171
+      "UsersEstimate": 30172
     },
     {
       "ID": "PFA_14",
@@ -32077,7 +32082,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30171
+      "UsersEstimate": 30172
     },
     {
       "ID": "PFA_22",
@@ -32197,7 +32202,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30171
+      "UsersEstimate": 30172
     },
     {
       "ID": "PFA_36",
@@ -32332,7 +32337,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301714,
+      "Progressed": 301715,
       "Completed": 505
     }
   ],
@@ -32340,8 +32345,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-08T19:58:04.0749307+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:19:26.1651657+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:09:00.3391559+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:04:08.2816737+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:19:26.1652945+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:57:53.7284883+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:09:00.3392808+00:00"
 }

@@ -18,8 +18,8 @@
 | Chicken Dinner | 21.00% | ~112 |
 | Peaceful Instinct | 18.00% | ~96 |
 | Maternity | 16.00% | ~86 |
+| Family Reunion | 15.00% | ~80 |
 | Barking in The Rain | 15.00% | ~80 |
-| Family Reunion | 14.00% | ~75 |
 | Never Run Around | 14.00% | ~75 |
 | Beyond Words | 14.00% | ~75 |
 | Three Little Foxes | 11.00% | ~59 |

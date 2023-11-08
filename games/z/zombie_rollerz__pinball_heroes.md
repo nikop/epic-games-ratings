@@ -5,23 +5,23 @@ Rating: 4.30 (Ranked 833)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~160 |
-| Bullseye! | 85.00% | ~155 |
-| Graduation! | 79.00% | ~144 |
-| Villfir Forest | 75.00% | ~136 |
-| Right in the kisser! | 59.00% | ~107 |
+| Level Up! | 88.00% | ~161 |
+| Bullseye! | 85.00% | ~156 |
+| Graduation! | 79.00% | ~145 |
+| Villfir Forest | 75.00% | ~137 |
+| Right in the kisser! | 58.00% | ~106 |
+| Duscot Steamcity | 48.00% | ~88 |
 | The Thrower | 47.00% | ~86 |
-| Duscot Steamcity | 47.00% | ~86 |
 | The Penguin | 45.00% | ~82 |
 | The Shaman | 45.00% | ~82 |
 | The Magician | 40.00% | ~73 |
 | The Tunneler | 39.00% | ~71 |
-| Level Up!! | 36.00% | ~66 |
-| The Shield | 36.00% | ~66 |
+| Level Up!! | 37.00% | ~68 |
+| The Shield | 37.00% | ~68 |
 | Kill-streak | 29.00% | ~53 |
-| Topped up | 27.00% | ~49 |
+| Topped up | 28.00% | ~51 |
 | The Bird | 27.00% | ~49 |
-| The Ninja | 26.00% | ~47 |
+| The Ninja | 26.00% | ~48 |
 | The Idol | 25.00% | ~46 |
 | Inferno Ruins | 25.00% | ~46 |
 | I'm Rich | 22.00% | ~40 |
@@ -34,8 +34,8 @@ Rating: 4.30 (Ranked 833)
 | The Flower | 16.00% | ~29 |
 | Out of the Frying Pan... | 16.00% | ~29 |
 | The Ooze | 15.00% | ~27 |
-| The Assistant | 14.00% | ~25 |
-| Turquoise | 14.00% | ~25 |
+| The Assistant | 14.00% | ~26 |
+| Turquoise | 14.00% | ~26 |
 | The Steampunk | 13.00% | ~24 |
 | The Droid | 10.00% | ~18 |
 | Verse | 10.00% | ~18 |
@@ -79,7 +79,7 @@ Rating: 4.30 (Ranked 833)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182 (Ranked 373)  
+Progressed: 183 (Ranked 372)  
 Completed: 1 (0.55%) (Ranked 186)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 1 (0.55%) (Ranked 186)
 | 2023-11-04 | 179 | 1 |
 | 2023-11-05 | 181 | 1 |
 | 2023-11-06 | 182 | 1 |
+| 2023-11-08 | 183 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

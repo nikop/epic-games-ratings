@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -2760,9 +2760,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 537635,
+  "EOS_Progressed": 537636,
   "EOS_Completed": 1609,
-  "EOS_NewPlayers": 657,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -24990,6 +24990,11 @@
       "Time": "2023-11-08T21:18:37.1968887+00:00",
       "NumProgressed": 537635,
       "NumCompleted": 1609
+    },
+    {
+      "Time": "2023-11-08T22:08:02.6379661+00:00",
+      "NumProgressed": 537636,
+      "NumCompleted": 1609
     }
   ],
   "TotalAchievements": 37,
@@ -25057,7 +25062,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 446237
+      "UsersEstimate": 446238
     },
     {
       "ID": "HONED",
@@ -25129,7 +25134,7 @@
       "Name": "The Cave",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37634
+      "UsersEstimate": 37635
     },
     {
       "ID": "THE_CONSTRUCT",
@@ -25201,7 +25206,7 @@
       "Name": "The Mire",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 37634
+      "UsersEstimate": 37635
     },
     {
       "ID": "THE_PALACE",
@@ -25249,7 +25254,7 @@
       "Name": "The Stone Roots",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 37634
+      "UsersEstimate": 37635
     },
     {
       "ID": "THE_THREE",
@@ -25257,7 +25262,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344086
+      "UsersEstimate": 344087
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -25296,15 +25301,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 537635,
+      "Progressed": 537636,
       "Completed": 1609
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-08T19:59:31.6301571+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:18:37.1968884+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:08:02.6379657+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:16.77314+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:10:43.803318+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:18:37.19701+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:59:15.4883502+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:08:02.638119+00:00"
 }

@@ -20,6 +20,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.30% | ~2,687 |
 | Life of the Road | 0.30% | ~2,687 |
 | The Hermit | 0.30% | ~2,687 |
+| The High Priestess | 0.30% | ~2,687 |
 | The Lovers | 0.30% | ~2,687 |
 | The Wheel of Fortune | 0.30% | ~2,687 |
 | True Warrior | 0.30% | ~2,687 |
@@ -30,7 +31,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.20% | ~1,792 |
 | I Am The Law | 0.20% | ~1,792 |
 | The Fool | 0.20% | ~1,792 |
-| The High Priestess | 0.20% | ~1,792 |
 | The World | 0.20% | ~1,792 |
 | Two Heads, One Bullet | 0.20% | ~1,792 |
 | Judy vs Night City | 0.20% | ~1,792 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,808 (Ranked 15)  
+Progressed: 895,818 (Ranked 15)  
 Completed: 2,757 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 2,757 (0.31%) (Ranked 222)
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
 | 2023-11-07 | 895,712 | 2,753 |
-| 2023-11-08 | 895,808 | 2,757 |
+| 2023-11-08 | 895,818 | 2,757 |
 ## Awards
 Max (Character Customization): 104,529  (Ranked 9)  
 Sum: 346,547 (Ranked 10)  

@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18808,
+  "EOS_Progressed": 18809,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12748,6 +12748,11 @@
       "Time": "2023-11-08T21:17:52.0593372+00:00",
       "NumProgressed": 18808,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T22:06:08.8477546+00:00",
+      "NumProgressed": 18809,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12759,7 +12764,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5642
+      "UsersEstimate": 5643
     },
     {
       "ID": "0002",
@@ -12775,7 +12780,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "0004",
@@ -12783,7 +12788,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "0005",
@@ -12815,7 +12820,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3385
+      "UsersEstimate": 3386
     },
     {
       "ID": "0009",
@@ -12951,7 +12956,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3385
+      "UsersEstimate": 3386
     },
     {
       "ID": "0026",
@@ -12991,7 +12996,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3385
+      "UsersEstimate": 3386
     },
     {
       "ID": "0031",
@@ -13046,7 +13051,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18808,
+      "Progressed": 18809,
       "Completed": 4
     }
   ],
@@ -13054,8 +13059,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:17:52.0593368+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:06:08.8477543+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.0347505+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:11:53.4817144+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:17:52.059414+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:59:57.0145425+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:06:08.8478539+00:00"
 }

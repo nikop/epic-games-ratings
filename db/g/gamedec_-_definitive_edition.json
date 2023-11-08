@@ -477,7 +477,7 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 251470,
+  "EOS_Progressed": 251472,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 0,
@@ -23117,6 +23117,11 @@
       "Time": "2023-11-08T21:16:56.3886131+00:00",
       "NumProgressed": 251470,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T22:05:33.281163+00:00",
+      "NumProgressed": 251472,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23168,7 +23173,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30176
+      "UsersEstimate": 30177
     },
     {
       "ID": "ACH_ENJOY",
@@ -23543,7 +23548,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251470,
+      "Progressed": 251472,
       "Completed": 7
     }
   ],
@@ -23551,8 +23556,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:16:56.3886127+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:05:33.2811623+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.5962658+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:09:56.3558507+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:16:56.3887575+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:58:51.9492861+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:05:33.2813351+00:00"
 }

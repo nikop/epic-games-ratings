@@ -11,19 +11,19 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 18.00% | ~2,169 |
 | Mythic Choices | 15.00% | ~1,808 |
 | Defender's Heart | 15.00% | ~1,808 |
-| Banner over the Citadel | 13.00% | ~1,566 |
+| Banner over the Citadel | 13.00% | ~1,567 |
 | Queen's Gratitude | 12.00% | ~1,446 |
 | Fifth Crusade | 8.00% | ~964 |
 | Embrace of the Abyss | 6.00% | ~723 |
 | Path of the Angel | 6.00% | ~723 |
 | Demonic and Divine | 6.00% | ~723 |
-| Path of the Azata | 5.00% | ~602 |
-| Transformation | 5.00% | ~602 |
-| The Legacy | 5.00% | ~602 |
-| Great Upstart | 5.00% | ~602 |
-| Voice from Your Dreams | 5.00% | ~602 |
-| All Paths Open | 5.00% | ~602 |
-| Next-Door Play | 5.00% | ~602 |
+| Path of the Azata | 5.00% | ~603 |
+| Transformation | 5.00% | ~603 |
+| The Legacy | 5.00% | ~603 |
+| Great Upstart | 5.00% | ~603 |
+| Voice from Your Dreams | 5.00% | ~603 |
+| All Paths Open | 5.00% | ~603 |
+| Next-Door Play | 5.00% | ~603 |
 | Heart of the Fallen Land | 4.00% | ~482 |
 | Divide and Rule | 4.00% | ~482 |
 | Mythic Reinforcements | 4.00% | ~482 |
@@ -44,10 +44,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Stay Underground | 2.00% | ~217 |
 | Hanged Man's Notes | 2.00% | ~217 |
 | Sarkoris Will Be Green | 2.00% | ~217 |
-| The Final Threshold | 1.00% | ~120 |
-| Path of the Legend | 1.00% | ~120 |
-| Strategic Victory | 1.00% | ~120 |
-| Abyssal Conspiracy | 1.00% | ~120 |
+| The Final Threshold | 1.00% | ~121 |
+| Path of the Legend | 1.00% | ~121 |
+| Strategic Victory | 1.00% | ~121 |
+| Abyssal Conspiracy | 1.00% | ~121 |
 | This Wall Won't Fall | 1.00% | ~108 |
 | Not the Last Sarkorian | 1.00% | ~108 |
 | Path of the Dragon | 0.90% | ~108 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,050 (Ranked 151)  
+Progressed: 12,051 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 12,030 | 0 |
 | 2023-11-06 | 12,036 | 0 |
 | 2023-11-07 | 12,043 | 0 |
-| 2023-11-08 | 12,050 | 0 |
+| 2023-11-08 | 12,051 | 0 |
 ## Awards
 Max (Character Customization): 1,736  (Ranked 121)  
 Sum: 7,035 (Ranked 119)  

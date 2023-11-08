@@ -61,6 +61,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.80% | ~1,110 |
 | Expansion in Session | 0.80% | ~1,110 |
 | Cranked up to 11 | 0.80% | ~1,110 |
+| Fit for a King | 0.80% | ~1,110 |
 | Mammonite | 0.80% | ~1,110 |
 | Fat Cat Tag Team | 0.80% | ~1,110 |
 | Necromancer Queen | 0.80% | ~1,110 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Omae wa Mou Shindeiru | 0.70% | ~972 |
 | Supercharged | 0.70% | ~972 |
 | Ritualist | 0.70% | ~972 |
-| Fit for a King | 0.70% | ~972 |
 | By Your Powers Combined... | 0.70% | ~972 |
 | Wealth Beyond Measure | 0.70% | ~972 |
 | Item of Renown | 0.70% | ~972 |

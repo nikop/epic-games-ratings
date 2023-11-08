@@ -594,9 +594,9 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
@@ -849,8 +849,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:15:22.5912315+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:04:22.3515462+00:00",
   "LastUpdate_AppInfo": "2023-11-07T15:57:22.1108619+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:12:38.3625085+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:15:22.5912742+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:00:34.9732224+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:04:22.3515785+00:00"
 }

@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Wraith | 63.00% | ~347 |
+| The Wraith | 63.00% | ~348 |
 | Welcome to Mordor! | 54.00% | ~298 |
-| Collectibles Part 1 | 53.00% | ~292 |
+| Collectibles Part 1 | 53.00% | ~293 |
 | Wait! Wait! Not yet! | 39.00% | ~215 |
-| Like Flying... | 34.00% | ~187 |
-| The Maggot | 28.00% | ~154 |
-| Memories | 28.00% | ~154 |
+| Like Flying... | 34.00% | ~188 |
+| The Maggot | 28.00% | ~155 |
+| Memories | 28.00% | ~155 |
 | The Breeder | 23.00% | ~127 |
 | The Veteran | 19.00% | ~105 |
 | The Traitor | 15.00% | ~83 |
@@ -41,7 +41,7 @@
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 551 (Ranked 288)  
+Progressed: 552 (Ranked 288)  
 Completed: 1 (0.18%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,4 +141,4 @@ Completed: 1 (0.18%) (Ranked 249)
 | 2023-11-05 | 547 | 1 |
 | 2023-11-06 | 548 | 1 |
 | 2023-11-07 | 549 | 1 |
-| 2023-11-08 | 551 | 1 |
+| 2023-11-08 | 552 | 1 |

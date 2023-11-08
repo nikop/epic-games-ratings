@@ -3931,10 +3931,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4724,
       "NumberOfAwardsMax": 2109
+    },
+    {
+      "Time": "2023-11-08T22:02:59.9052336+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4727,
+      "NumberOfAwardsMax": 2109
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4724,
+  "NumberOfAwards": 4727,
   "NumberOfAwardsMax": 2109,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3960,7 +3966,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 288
+      "Count": 291
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4005,9 +4011,9 @@
       "Count": 285
     }
   ],
-  "EOS_Progressed": 218923,
+  "EOS_Progressed": 218927,
   "EOS_Completed": 435,
-  "EOS_NewPlayers": 2246,
+  "EOS_NewPlayers": 2227,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17130,6 +17136,11 @@
       "Time": "2023-11-08T21:17:49.4038269+00:00",
       "NumProgressed": 218923,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-11-08T22:06:06.1110065+00:00",
+      "NumProgressed": 218927,
+      "NumCompleted": 435
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17150,7 +17161,7 @@
       "Name": "Crafty",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -17174,7 +17185,7 @@
       "Name": "Only Human",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -17190,7 +17201,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -17270,7 +17281,7 @@
       "Name": "Red Room",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -17294,7 +17305,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "Meet_Meidra",
@@ -17334,7 +17345,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -17374,7 +17385,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "Obtain_Guns_A",
@@ -17422,7 +17433,7 @@
       "Name": "The Collector",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -17438,7 +17449,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Obtain_Traits_A",
@@ -17470,7 +17481,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -17518,7 +17529,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13135
+      "UsersEstimate": 13136
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -17526,7 +17537,7 @@
       "Name": "Maxed Out!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -17534,23 +17545,23 @@
       "Name": "Transmutate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218923,
+      "Progressed": 218927,
       "Completed": 435
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-08T18:19:52.1682542+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:17:49.4038266+00:00",
+  "LastChanged": "2023-11-08T22:02:59.9052334+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:06:06.111006+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:13:29.0736755+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:17:49.4039197+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:02:59.9052339+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:06:06.1111009+00:00"
 }

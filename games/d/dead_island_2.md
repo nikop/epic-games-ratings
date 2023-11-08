@@ -23,19 +23,19 @@ Rating: 4.54 (Ranked 523)
 | Stacking the Deck | 0.40% | ~2,861 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,861 |
 | This is My Weapon | 0.40% | ~2,861 |
-| Making Your Mark | 0.30% | ~2,145 |
-| Perks of the Job | 0.30% | ~2,145 |
-| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,145 |
-| Slayer Squad | 0.30% | ~2,145 |
-| Can't Handle the Truth | 0.30% | ~2,145 |
-| Like Riding a Bike | 0.30% | ~2,145 |
-| Not Even My Final Form | 0.30% | ~2,145 |
-| Zombologist | 0.30% | ~2,145 |
-| Ooh, Shiny! | 0.30% | ~2,145 |
-| A Patton Emerges | 0.30% | ~2,145 |
-| I Am the Resurrection | 0.30% | ~2,145 |
-| Max Headroom | 0.30% | ~2,145 |
-| Our True Nature | 0.30% | ~2,145 |
+| Making Your Mark | 0.30% | ~2,146 |
+| Perks of the Job | 0.30% | ~2,146 |
+| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,146 |
+| Slayer Squad | 0.30% | ~2,146 |
+| Can't Handle the Truth | 0.30% | ~2,146 |
+| Like Riding a Bike | 0.30% | ~2,146 |
+| Not Even My Final Form | 0.30% | ~2,146 |
+| Zombologist | 0.30% | ~2,146 |
+| Ooh, Shiny! | 0.30% | ~2,146 |
+| A Patton Emerges | 0.30% | ~2,146 |
+| I Am the Resurrection | 0.30% | ~2,146 |
+| Max Headroom | 0.30% | ~2,146 |
+| Our True Nature | 0.30% | ~2,146 |
 | On Safari | 0.20% | ~1,430 |
 | Internet Famous | 0.20% | ~1,430 |
 | Jumbo Keyring | 0.20% | ~1,430 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,151 (Ranked 21)  
+Progressed: 715,172 (Ranked 21)  
 Completed: 2,358 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,10 +259,10 @@ Completed: 2,358 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 715,151 | 2,358 |
+| 2023-11-08 | 715,172 | 2,358 |
 ## Awards
 Max (Great Boss Battles): 7,208  (Ranked 54)  
-Sum: 10,927 (Ranked 87)  
+Sum: 10,930 (Ranked 87)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -273,7 +273,7 @@ Diff (max vs sum): -33
 | This game is Relaxing | 463 |
 | This game has Amazing Storytelling | 445 |
 | This game is Highly Recommended | 436 |
-| This game is Extremely Fun | 425 |
+| This game is Extremely Fun | 428 |
 | This game has Amazing Characters | 402 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -479,4 +479,4 @@ Diff (max vs sum): -33
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
-| 2023-11-08 | 4.54 | 7,208 | 10,927 |
+| 2023-11-08 | 4.54 | 7,208 | 10,930 |

@@ -119,7 +119,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7482,
+  "EOS_Progressed": 7483,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 1728,
   "EOS_NewCompleters": 47,
@@ -2694,6 +2694,11 @@
       "Time": "2023-11-08T21:14:14.1618633+00:00",
       "NumProgressed": 7482,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-08T22:03:45.2515912+00:00",
+      "NumProgressed": 7483,
+      "NumCompleted": 114
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -2706,7 +2711,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 6958
+      "UsersEstimate": 6959
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2714,7 +2719,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2730,7 +2735,7 @@
       "Name": "Doesn\u0027t Matter I\u0027ll Handle It",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1047
+      "UsersEstimate": 1048
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -2738,7 +2743,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1497
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -2746,7 +2751,7 @@
       "Name": "All I Have Is Money",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -2762,7 +2767,7 @@
       "Name": "Lover In Dark Alley",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -2794,7 +2799,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1870
+      "UsersEstimate": 1871
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -2842,7 +2847,7 @@
       "Name": "Love Actually",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -2858,7 +2863,7 @@
       "Name": "Still Single",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -2962,7 +2967,7 @@
       "Name": "Are You Alright?",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -3002,7 +3007,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -3018,7 +3023,7 @@
       "Name": "Drama King",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 3142
+      "UsersEstimate": 3143
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -3041,7 +3046,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 7482,
+      "Progressed": 7483,
       "Completed": 114
     }
   ],
@@ -3049,8 +3054,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-07T13:02:45.1718372+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:14:14.1618629+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:03:45.2515908+00:00",
   "LastUpdate_AppInfo": "2023-11-03T22:56:56.8302113+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:08:58.277358+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:14:14.1619043+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:58:38.6168571+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:03:45.2516359+00:00"
 }

@@ -736,7 +736,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40274,
+  "EOS_Progressed": 40276,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 430,
   "EOS_NewCompleters": 0,
@@ -21411,6 +21411,11 @@
       "Time": "2023-11-08T21:19:08.3546179+00:00",
       "NumProgressed": 40274,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T22:08:43.0997949+00:00",
+      "NumProgressed": 40276,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -21582,7 +21587,7 @@
       "Name": "Roaring Rise",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ach_hunterskeep",
@@ -21598,7 +21603,7 @@
       "Name": "I am the Captain of my Soul",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 805
+      "UsersEstimate": 806
     },
     {
       "ID": "ach_ladylilac",
@@ -21630,7 +21635,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 5638
+      "UsersEstimate": 5639
     },
     {
       "ID": "ach_legacysalvager",
@@ -21774,7 +21779,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7249
+      "UsersEstimate": 7250
     },
     {
       "ID": "ach_terror100",
@@ -21853,15 +21858,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40274,
+      "Progressed": 40276,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-05T20:00:39.9976702+00:00",
-  "LastChanged_Achievements": "2023-11-08T21:19:08.3546176+00:00",
+  "LastChanged_Achievements": "2023-11-08T22:08:43.0997946+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:36.007109+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:11:34.1389486+00:00",
-  "LastUpdate_Achievements": "2023-11-08T21:19:08.3547503+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:59:43.0371623+00:00",
+  "LastUpdate_Achievements": "2023-11-08T22:08:43.0999287+00:00"
 }
