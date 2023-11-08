@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1096,
+  "EOS_Progressed": 1097,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -3149,6 +3149,11 @@
       "Time": "2023-11-08T00:09:06.1444519+00:00",
       "NumProgressed": 1096,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T01:53:29.6907501+00:00",
+      "NumProgressed": 1097,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3233,7 +3238,7 @@
       "Name": "The power of the Force",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_19",
@@ -3257,7 +3262,7 @@
       "Name": "Collector",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "achievement_21",
@@ -3305,7 +3310,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_27",
@@ -3385,7 +3390,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "achievement_36",
@@ -3401,7 +3406,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "achievement_38",
@@ -3513,7 +3518,7 @@
       "Name": "Shoot first",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_50",
@@ -3664,13 +3669,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1096,
+      "Progressed": 1097,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1096,
+      "Progressed": 1097,
       "Completed": 1
     }
   ],
@@ -3678,8 +3683,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:09:06.1444513+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:53:29.6907497+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:57:48.0622264+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:09:06.1445499+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:42:04.4047456+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:53:29.6908188+00:00"
 }

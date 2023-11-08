@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3153,9 +3153,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30482,
+  "EOS_Progressed": 30490,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1166,
+  "EOS_NewPlayers": 1144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18343,6 +18343,11 @@
       "Time": "2023-11-08T00:08:04.4578775+00:00",
       "NumProgressed": 30482,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-08T01:52:23.3247303+00:00",
+      "NumProgressed": 30490,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18394,7 +18399,7 @@
       "Name": "Clutch Capture",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "Collect_Spores",
@@ -18402,7 +18407,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "Collector",
@@ -18418,7 +18423,7 @@
       "Name": "Cultured",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "Daily_Dose",
@@ -18442,7 +18447,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "Dont_Need_These",
@@ -18490,7 +18495,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "GB_In_Training",
@@ -18498,7 +18503,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "Ghost_Expert",
@@ -18602,7 +18607,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "Rivalry",
@@ -18642,7 +18647,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "Stunner",
@@ -18682,7 +18687,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "Teamwork",
@@ -18690,7 +18695,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "Terrifying",
@@ -18714,7 +18719,7 @@
       "Name": "There you are!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     },
     {
       "ID": "Tobins_Prodigy",
@@ -18738,7 +18743,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "Welcome_Crew",
@@ -18754,14 +18759,14 @@
       "Name": "Whoopsie",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 914
+      "UsersEstimate": 915
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30482,
+      "Progressed": 30490,
       "Completed": 65
     }
   ],
@@ -18769,8 +18774,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-07T23:59:13.6604033+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:08:04.457877+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:52:23.3247299+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:59:13.6604042+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:08:04.4580165+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:43:34.8015438+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:52:23.3248255+00:00"
 }

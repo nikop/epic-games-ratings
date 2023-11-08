@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 230,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -591,8 +591,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:08:16.0019714+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:52:35.6249637+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:20.7646643+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:58:04.9433943+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:08:16.0019929+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:42:20.3453009+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:52:35.6249778+00:00"
 }

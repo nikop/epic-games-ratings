@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,8 +20,8 @@
   "Tags": [],
   "EOS_Progressed": 1030,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 144,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 142,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -3602,9 +3602,9 @@
       "ID": "achievement_64",
       "SetID": "d252ncf",
       "Name": "Merciless",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 464
     },
     {
       "ID": "achievement_65",
@@ -3754,9 +3754,9 @@
       "ID": "achievement_81",
       "SetID": "d252ncf",
       "Name": "Mobilizer",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 299
     },
     {
       "ID": "achievement_82",
@@ -3834,9 +3834,9 @@
       "ID": "achievement_90",
       "SetID": "d252ncf",
       "Name": "Executioner",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 165
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_91",
@@ -3926,8 +3926,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:05:16.3808615+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:49:28.949338+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-08T00:02:44.5913145+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:05:16.3811066+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:46:54.2496665+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:49:28.9494841+00:00"
 }

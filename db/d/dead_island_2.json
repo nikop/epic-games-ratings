@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6181,10 +6181,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10881,
       "NumberOfAwardsMax": 7178
+    },
+    {
+      "Time": "2023-11-08T01:42:27.4184218+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10883,
+      "NumberOfAwardsMax": 7178
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10881,
+  "NumberOfAwards": 10883,
   "NumberOfAwardsMax": 7178,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6240,12 +6246,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 443
+      "Count": 445
     }
   ],
-  "EOS_Progressed": 714735,
+  "EOS_Progressed": 714762,
   "EOS_Completed": 2354,
-  "EOS_NewPlayers": 5112,
+  "EOS_NewPlayers": 5092,
   "EOS_NewCompleters": 62,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29223,6 +29229,11 @@
       "Time": "2023-11-08T00:05:40.8971513+00:00",
       "NumProgressed": 714735,
       "NumCompleted": 2354
+    },
+    {
+      "Time": "2023-11-08T01:49:56.1434677+00:00",
+      "NumProgressed": 714762,
+      "NumCompleted": 2354
     }
   ],
   "TotalAchievements": 51,
@@ -29232,9 +29243,9 @@
       "ID": "ach_a_day_in_the_beach",
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -29242,7 +29253,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ach_ammo_ran",
@@ -29306,7 +29317,7 @@
       "Name": "On Safari",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ach_defensive",
@@ -29370,7 +29381,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ach_hazardous_materials",
@@ -29384,9 +29395,9 @@
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2144
+      "UsersEstimate": 2859
     },
     {
       "ID": "ach_hotel_california",
@@ -29426,7 +29437,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ach_knock_down",
@@ -29474,7 +29485,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ach_revival_tour",
@@ -29482,7 +29493,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ach_salvation",
@@ -29490,7 +29501,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ach_secrets_of_la",
@@ -29538,7 +29549,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ach_thesacrifice",
@@ -29562,7 +29573,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -29578,7 +29589,7 @@
       "Name": "Rising Star",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ach_well_trained",
@@ -29641,22 +29652,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714735,
+      "Progressed": 714762,
       "Completed": 2354
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40277,
+      "Progressed": 40304,
       "Completed": 36488
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-07T22:58:49.5109561+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:05:40.8971509+00:00",
+  "LastChanged": "2023-11-08T01:42:27.4184216+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:49:56.1434671+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:58:11.9795317+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:05:40.8973762+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:42:27.4184226+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:49:56.1436313+00:00"
 }

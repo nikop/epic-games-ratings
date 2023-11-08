@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -115,11 +115,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 187,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.54,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -925,6 +925,11 @@
       "Time": "2023-11-08T00:05:16.9884848+00:00",
       "NumProgressed": 185,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T01:49:29.4521267+00:00",
+      "NumProgressed": 187,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -935,7 +940,7 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
       "UsersEstimate": 163
     },
@@ -945,7 +950,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_11",
@@ -961,7 +966,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_13",
@@ -969,7 +974,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_14",
@@ -977,7 +982,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_15",
@@ -991,9 +996,9 @@
       "ID": "achievement_16",
       "SetID": "18al4io",
       "Name": "Recruit",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "achievement_17",
@@ -1001,7 +1006,7 @@
       "Name": "Lights Army",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_18",
@@ -1017,13 +1022,13 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 10,
       "UsersEstimate": 155
     },
@@ -1079,7 +1084,7 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 15,
       "UsersEstimate": 142
     },
@@ -1111,9 +1116,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_41",
@@ -1153,7 +1158,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_46",
@@ -1167,7 +1172,7 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 150
     },
@@ -1185,7 +1190,7 @@
       "Name": "Initiate",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "achievement_50",
@@ -1231,9 +1236,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_60",
@@ -1281,23 +1286,23 @@
       "Name": "Good Boy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_9",
@@ -1312,7 +1317,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 187,
       "Completed": 1
     }
   ],
@@ -1320,8 +1325,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-05T03:01:16.136809+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:05:16.988484+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:49:29.4521264+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:57:33.6776935+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:05:16.9885339+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:41:48.2478002+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:49:29.4521651+00:00"
 }

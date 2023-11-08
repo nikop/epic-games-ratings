@@ -8,19 +8,19 @@ Rating: 4.50 (Ranked 584)
 | Stylish | 7.00% | ~2,134 |
 | Advancement | 5.00% | ~1,524 |
 | Meticulously Efficient | 5.00% | ~1,524 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,219 |
-| Discovery | 4.00% | ~1,219 |
-| Fully Upgraded | 4.00% | ~1,219 |
-| Solo Capture | 4.00% | ~1,219 |
-| Swift Rift Removers | 4.00% | ~1,219 |
-| Teamwork | 4.00% | ~1,219 |
-| Vaporous Expansion | 4.00% | ~1,219 |
-| Clutch Capture | 3.00% | ~914 |
-| Cultured | 3.00% | ~914 |
-| Ghostbuster In Training | 3.00% | ~914 |
-| Right back at ya | 3.00% | ~914 |
-| There you are! | 3.00% | ~914 |
-| Whoopsie | 3.00% | ~914 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,220 |
+| Discovery | 4.00% | ~1,220 |
+| Fully Upgraded | 4.00% | ~1,220 |
+| Solo Capture | 4.00% | ~1,220 |
+| Swift Rift Removers | 4.00% | ~1,220 |
+| Teamwork | 4.00% | ~1,220 |
+| Vaporous Expansion | 4.00% | ~1,220 |
+| Clutch Capture | 3.00% | ~915 |
+| Cultured | 3.00% | ~915 |
+| Ghostbuster In Training | 3.00% | ~915 |
+| Right back at ya | 3.00% | ~915 |
+| There you are! | 3.00% | ~915 |
+| Whoopsie | 3.00% | ~915 |
 | Animated | 2.00% | ~610 |
 | Back Off | 2.00% | ~610 |
 | We have the best insurance | 2.00% | ~610 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 584)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,482 (Ranked 122)  
+Progressed: 30,490 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 65 (0.21%) (Ranked 238)
 | 2023-11-05 | 30,292 | 65 |
 | 2023-11-06 | 30,390 | 65 |
 | 2023-11-07 | 30,471 | 65 |
-| 2023-11-08 | 30,482 | 65 |
+| 2023-11-08 | 30,490 | 65 |
 ## Awards
 Max (Great for Beginners): 309  (Ranked 245)  
 Sum: 2,730 (Ranked 179)  

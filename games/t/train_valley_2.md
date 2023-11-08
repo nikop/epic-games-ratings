@@ -6,35 +6,35 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~302,275 |
-| Full garage | 61.00% | ~252,586 |
-| To the eyeballs! | 51.00% | ~211,179 |
-| Individual delivery | 46.00% | ~190,475 |
-| Non-Stop | 45.00% | ~186,334 |
-| Juggler | 36.00% | ~149,067 |
-| Forgot something | 35.00% | ~144,927 |
-| Close call! | 30.00% | ~124,223 |
-| Get out my way | 28.00% | ~115,941 |
-| Common cause | 26.00% | ~107,660 |
-| Critical care | 26.00% | ~107,660 |
-| Mega-railroad | 23.00% | ~95,237 |
-| Upgrade complete | 23.00% | ~95,237 |
-| Just in time! | 18.00% | ~74,534 |
-| Builder | 17.00% | ~70,393 |
-| Long Haul | 17.00% | ~70,281 |
-| Steam Age | 16.00% | ~66,252 |
-| Multilevel road | 15.00% | ~62,111 |
-| Bridgemania | 14.00% | ~57,971 |
-| Need to think | 14.00% | ~57,971 |
-| The Tortoise | 12.00% | ~49,689 |
-| Beginner | 11.00% | ~45,548 |
-| Without a lunch break | 11.00% | ~45,548 |
-| One way | 10.00% | ~41,408 |
-| Relocation | 10.00% | ~41,408 |
-| Industrial Age | 9.00% | ~37,267 |
+| Dealmaker | 73.00% | ~302,283 |
+| Full garage | 61.00% | ~252,592 |
+| To the eyeballs! | 51.00% | ~211,184 |
+| Individual delivery | 46.00% | ~190,480 |
+| Non-Stop | 45.00% | ~186,339 |
+| Juggler | 36.00% | ~149,071 |
+| Forgot something | 35.00% | ~144,930 |
+| Close call! | 30.00% | ~124,226 |
+| Get out my way | 28.00% | ~115,944 |
+| Common cause | 26.00% | ~107,662 |
+| Critical care | 26.00% | ~107,662 |
+| Mega-railroad | 23.00% | ~95,240 |
+| Upgrade complete | 23.00% | ~95,240 |
+| Just in time! | 18.00% | ~74,535 |
+| Builder | 17.00% | ~70,395 |
+| Long Haul | 17.00% | ~70,283 |
+| Steam Age | 16.00% | ~66,254 |
+| Multilevel road | 15.00% | ~62,113 |
+| Bridgemania | 14.00% | ~57,972 |
+| Need to think | 14.00% | ~57,972 |
+| The Tortoise | 12.00% | ~49,690 |
+| Beginner | 11.00% | ~45,549 |
+| Without a lunch break | 11.00% | ~45,549 |
+| One way | 10.00% | ~41,409 |
+| Relocation | 10.00% | ~41,409 |
+| Industrial Age | 9.00% | ~37,268 |
 | Just One More Valley | 9.00% | ~37,208 |
-| Prick of conscience | 8.00% | ~33,126 |
-| Missed it! | 7.00% | ~28,985 |
+| Prick of conscience | 8.00% | ~33,127 |
+| Missed it! | 7.00% | ~28,986 |
 | At the last moment! | 6.00% | ~24,845 |
 | Overseer | 6.00% | ~24,845 |
 | Highlander | 5.00% | ~20,704 |
@@ -44,10 +44,10 @@ Number of Ratings: 87  (23.09.2022)
 | Electrical Age | 4.00% | ~16,563 |
 | Large construction | 4.00% | ~16,563 |
 | Squander | 4.00% | ~16,563 |
-| Engineer | 3.00% | ~12,422 |
-| Globalisation Age | 3.00% | ~12,422 |
-| Living it large | 3.00% | ~12,422 |
-| Sabotage | 3.00% | ~12,422 |
+| Engineer | 3.00% | ~12,423 |
+| Globalisation Age | 3.00% | ~12,423 |
+| Living it large | 3.00% | ~12,423 |
+| Sabotage | 3.00% | ~12,423 |
 | Test Batch | 3.00% | ~12,403 |
 | Astronomer | 2.00% | ~8,282 |
 | Innovator | 2.00% | ~8,282 |
@@ -56,7 +56,7 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 2.00% | ~8,282 |
 | Will work | 2.00% | ~8,282 |
 | Woodcutter | 2.00% | ~8,282 |
-| Occupied! | 2.00% | ~8,268 |
+| Occupied! | 2.00% | ~8,269 |
 | Achiever | 1.00% | ~4,141 |
 | Environmental activist | 1.00% | ~4,141 |
 | Metro builder | 1.00% | ~4,141 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~413 |
 | World Zapper | 0.10% | ~413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414,076 (Ranked 43)  
+Progressed: 414,086 (Ranked 43)  
 Completed: 21 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,10 +260,10 @@ Completed: 21 (0.01%) (Ranked 321)
 | 2023-11-05 | 413,561 | 21 |
 | 2023-11-06 | 413,826 | 21 |
 | 2023-11-07 | 414,068 | 21 |
-| 2023-11-08 | 414,076 | 21 |
+| 2023-11-08 | 414,086 | 21 |
 ## Awards
 Max (Challenging Puzzles): 859  (Ranked 161)  
-Sum: 1,719 (Ranked 215)  
+Sum: 1,720 (Ranked 215)  
 Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
@@ -271,7 +271,7 @@ Diff (max vs sum): -54
 | This game is Great for Beginners | 151 |
 | This game has Quickly Understood Controls | 100 |
 | This game has Playful Visuals | 97 |
-| This game is Extremely Fun | 92 |
+| This game is Extremely Fun | 93 |
 | This game is Relaxing | 92 |
 | This game is Highly Recommended | 87 |
 | This game has Challenging Combat | 75 |
@@ -450,3 +450,4 @@ Diff (max vs sum): -54
 | 2023-11-05 | 4.44 | - | 850 | 1,708 |
 | 2023-11-06 | 4.44 | - | 856 | 1,715 |
 | 2023-11-07 | 4.44 | - | 859 | 1,719 |
+| 2023-11-08 | 4.44 | - | 859 | 1,720 |

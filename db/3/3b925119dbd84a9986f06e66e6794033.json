@@ -4,8 +4,8 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -504,6 +504,11 @@
       "Time": "2023-11-07T22:08:23.3798946+00:00",
       "NumProgressed": 163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T01:52:52.920333+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -548,7 +553,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -556,7 +561,7 @@
       "Name": "Hypnotorious: Self Aware",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -604,7 +609,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "TIME_JINX",
@@ -612,7 +617,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TIME_ORWELL",
@@ -666,23 +671,23 @@
       "ID": "TKO2_NOT_HERE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: I Wasn\u2019t Supposed To Be Here",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:08:31.8957027+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:52:52.9203325+00:00",
   "LastUpdate_AppInfo": "2023-11-03T22:56:56.0814967+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:59:57.6515353+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:08:31.8957235+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:44:25.6151737+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:52:52.9203455+00:00"
 }

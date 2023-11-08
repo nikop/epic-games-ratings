@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,7 +188,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5561,
+  "EOS_Progressed": 5562,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -4188,6 +4188,11 @@
       "Time": "2023-11-07T18:07:08.836592+00:00",
       "NumProgressed": 5561,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T01:49:56.6274182+00:00",
+      "NumProgressed": 5562,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4255,7 +4260,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "ach_campaign_progress10",
@@ -4319,7 +4324,7 @@
       "Name": "Level: Rising Markets",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "ach_campaign_progress7",
@@ -4806,15 +4811,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5561,
+      "Progressed": 5562,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:05:41.3079531+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:49:56.6274179+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:39.3394459+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:57:34.3305371+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:05:41.3080878+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:41:49.0767905+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:49:56.6274955+00:00"
 }

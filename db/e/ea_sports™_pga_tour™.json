@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 503,
+  "EOS_Progressed": 504,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.59,
   "EosHistory": [
@@ -1690,6 +1690,11 @@
       "Time": "2023-11-07T23:09:38.7033903+00:00",
       "NumProgressed": 503,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-08T01:52:54.2353587+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1726,7 +1731,7 @@
       "Name": "From Way Downtown",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "achievement_13",
@@ -1734,7 +1739,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_14",
@@ -1742,7 +1747,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "achievement_15",
@@ -1774,7 +1779,7 @@
       "Name": "Perfect Round",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_2",
@@ -1822,7 +1827,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_8",
@@ -1845,13 +1850,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 503,
+      "Progressed": 504,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:08:33.4401964+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:52:54.2353582+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.7077213+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:59:10.405755+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:08:33.4402196+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:43:32.570701+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:52:54.2353771+00:00"
 }

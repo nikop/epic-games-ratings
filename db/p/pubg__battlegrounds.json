@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 13,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-06T05:00:00+00:00",
     "PcReleaseDate": "2022-12-06T05:00:00+00:00",
@@ -5671,9 +5671,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 694033,
+  "EOS_Progressed": 694035,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 14139,
+  "EOS_NewPlayers": 14054,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28646,6 +28646,11 @@
       "Time": "2023-11-08T00:05:07.4145424+00:00",
       "NumProgressed": 694033,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-08T01:49:19.0551496+00:00",
+      "NumProgressed": 694035,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -28737,7 +28742,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 499704
+      "UsersEstimate": 499705
     },
     {
       "ID": "2",
@@ -28817,7 +28822,7 @@
       "Name": "Now You See Me, Now You Don\u0027t",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 69403
+      "UsersEstimate": 69404
     },
     {
       "ID": "29",
@@ -28849,7 +28854,7 @@
       "Name": "Guardian Angel",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 235971
+      "UsersEstimate": 235972
     },
     {
       "ID": "32",
@@ -28897,7 +28902,7 @@
       "Name": "Health Junkie",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 277613
+      "UsersEstimate": 277614
     },
     {
       "ID": "4",
@@ -28905,7 +28910,7 @@
       "Name": "Fantastic Four",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 131866
+      "UsersEstimate": 131867
     },
     {
       "ID": "5",
@@ -28952,7 +28957,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 694033,
+      "Progressed": 694035,
       "Completed": 10
     }
   ],
@@ -28960,8 +28965,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-11-07T18:56:54.4041486+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:05:07.4145419+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:49:19.0551492+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.1983815+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:57:11.6283283+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:05:07.414737+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:41:25.5788482+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:49:19.0552683+00:00"
 }

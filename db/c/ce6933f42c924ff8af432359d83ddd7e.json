@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -1272,9 +1272,9 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 222
+      "UsersEstimate": 226
     },
     {
       "ID": "ACH_DONUTS",
@@ -1312,9 +1312,9 @@
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 85,
-      "UsersEstimate": 272
+      "UsersEstimate": 276
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1351,8 +1351,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:08:37.0593937+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:52:58.1513013+00:00",
   "LastUpdate_AppInfo": "2023-11-03T14:57:17.1958059+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:59:11.7854163+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:08:37.059528+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:43:32.843304+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:52:58.1513154+00:00"
 }

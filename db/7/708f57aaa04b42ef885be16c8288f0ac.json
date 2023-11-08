@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4376,
+  "EOS_Progressed": 4380,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 779,
+  "EOS_NewPlayers": 777,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2406,6 +2406,11 @@
       "Time": "2023-11-08T00:08:41.7098542+00:00",
       "NumProgressed": 4376,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-08T01:53:03.2150518+00:00",
+      "NumProgressed": 4380,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2426,7 +2431,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "BeLikeWater",
@@ -2490,7 +2495,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2562,7 +2567,7 @@
       "Name": "Nasty!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "NoMoreTotems",
@@ -2618,7 +2623,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "ThisIsDharma",
@@ -2626,7 +2631,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -2658,7 +2663,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2689,7 +2694,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4376,
+      "Progressed": 4380,
       "Completed": 5
     }
   ],
@@ -2697,8 +2702,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-08T00:08:41.7098537+00:00",
+  "LastChanged_Achievements": "2023-11-08T01:53:03.2150513+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-07T23:59:24.2416534+00:00",
-  "LastUpdate_Achievements": "2023-11-08T00:08:41.7099012+00:00"
+  "LastUpdate_Ratings": "2023-11-08T01:43:48.1989436+00:00",
+  "LastUpdate_Achievements": "2023-11-08T01:53:03.215085+00:00"
 }

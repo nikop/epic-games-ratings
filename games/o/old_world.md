@@ -139,11 +139,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Noble Difficulty | 0.60% | ~91 |
 | Cao'an | 0.60% | ~91 |
 | Adur Burzen-Mihr | 0.60% | ~91 |
+| Learn to Play 5 | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
 | Carthage - Ox Hide | 0.50% | ~76 |
 | Old | 0.50% | ~76 |
 | Peacemaker | 0.50% | ~76 |
-| Learn to Play 5 | 0.50% | ~76 |
 | Old World Order | 0.50% | ~76 |
 | Cataphract Archer | 0.50% | ~76 |
 | No Undo | 0.50% | ~76 |

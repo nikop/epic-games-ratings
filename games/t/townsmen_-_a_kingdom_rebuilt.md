@@ -17,9 +17,9 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man II | 8.00% | ~347 |
 | A time consuming game I | 8.00% | ~347 |
 | Time for some trade | 8.00% | ~347 |
-| Bread for the people I | 7.00% | ~303 |
-| Completionist I | 7.00% | ~303 |
-| Full-time job I | 7.00% | ~303 |
+| Bread for the people I | 7.00% | ~304 |
+| Completionist I | 7.00% | ~304 |
+| Full-time job I | 7.00% | ~304 |
 | I like to build stuff... II | 6.00% | ~260 |
 | Full-time job II | 6.00% | ~260 |
 | A time consuming game II | 6.00% | ~260 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,335 (Ranked 188)  
+Progressed: 4,336 (Ranked 188)  
 Completed: 3 (0.07%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,6 +221,7 @@ Completed: 3 (0.07%) (Ranked 286)
 | 2023-11-04 | 4,329 | 3 |
 | 2023-11-05 | 4,332 | 3 |
 | 2023-11-06 | 4,335 | 3 |
+| 2023-11-08 | 4,336 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

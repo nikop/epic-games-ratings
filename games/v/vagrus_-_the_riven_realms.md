@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~92 |
-| Press-ganged | 41.00% | ~66 |
-| The Package | 27.00% | ~44 |
+| A Second Chance | 57.00% | ~93 |
+| Press-ganged | 41.00% | ~67 |
+| The Package | 26.00% | ~42 |
 | Conquered | 18.00% | ~29 |
 | Randomized | 17.00% | ~28 |
 | Scribe | 9.00% | ~15 |
@@ -23,16 +23,16 @@
 | Harbinger | 5.00% | ~8 |
 | Been There | 5.00% | ~8 |
 | Spiritual Journey | 5.00% | ~8 |
-| Quartermaster | 4.00% | ~6 |
-| Potential Unlocked | 4.00% | ~6 |
-| Xevarian Gambit | 4.00% | ~6 |
-| Deputized | 4.00% | ~6 |
-| Courier | 4.00% | ~6 |
-| The Voice of Hereafter | 4.00% | ~6 |
-| A Terrible Will | 4.00% | ~6 |
-| Pilgrimage's End | 4.00% | ~6 |
-| Inquisitions of Discord | 4.00% | ~6 |
-| Trouble at Fort Larius | 4.00% | ~6 |
+| Quartermaster | 4.00% | ~7 |
+| Potential Unlocked | 4.00% | ~7 |
+| Xevarian Gambit | 4.00% | ~7 |
+| Deputized | 4.00% | ~7 |
+| Courier | 4.00% | ~7 |
+| The Voice of Hereafter | 4.00% | ~7 |
+| A Terrible Will | 4.00% | ~7 |
+| Pilgrimage's End | 4.00% | ~7 |
+| Inquisitions of Discord | 4.00% | ~7 |
+| Trouble at Fort Larius | 4.00% | ~7 |
 | Bounty Hunter | 3.00% | ~5 |
 | Merchant | 3.00% | ~5 |
 | Unseen Patterns | 3.00% | ~5 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 162 (Ranked 380)  
+Progressed: 163 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,6 +174,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-28 | 160 | 0 |
 | 2023-11-01 | 161 | 0 |
 | 2023-11-05 | 162 | 0 |
+| 2023-11-08 | 163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

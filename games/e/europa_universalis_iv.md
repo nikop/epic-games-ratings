@@ -39,6 +39,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Definitely the Sultan of Rum | 0.10% | ~450 |
 | Die Please Die | 0.10% | ~450 |
 | Disciples of Enlightenment | 0.10% | ~450 |
+| Don’t be Cilli | 0.10% | ~450 |
 | Double the Love | 0.10% | ~450 |
 | Down Under | 0.10% | ~450 |
 | Dude, Where's my Boat? | 0.10% | ~450 |
@@ -186,7 +187,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Crossing the Finnish Line | 0.00% | ~0 |
 | Czechs and Balances | 0.00% | ~0 |
 | Dar al-Islam | 0.00% | ~0 |
-| Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Dracula's Revenge | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,535 (Ranked 41)  
+Progressed: 449,553 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -572,14 +572,14 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
-| 2023-11-08 | 449,535 | 1 |
+| 2023-11-08 | 449,553 | 1 |
 ## Awards
-Max (Educational): 6,879  (Ranked 54)  
-Sum: 56,604 (Ranked 24)  
+Max (Educational): 6,903  (Ranked 54)  
+Sum: 56,628 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,879 |
+| This game is Educational | 6,903 |
 | This game has Diverse Characters | 6,613 |
 | This game is Highly Recommended | 6,584 |
 | This game has Challenging Combat | 6,502 |
@@ -887,3 +887,4 @@ Diff (max vs sum): 30
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
 | 2023-11-06 | 4.69 | - | 6,879 | 56,411 |
 | 2023-11-07 | 4.69 | - | 6,879 | 56,604 |
+| 2023-11-08 | 4.69 | - | 6,903 | 56,628 |

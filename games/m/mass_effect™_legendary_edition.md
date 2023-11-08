@@ -25,8 +25,8 @@
 | Principled | 47.00% | ~484 |
 | Paramour I | 46.00% | ~474 |
 | Colonial Savior | 45.00% | ~464 |
+| Merciless | 45.00% | ~464 |
 | Scientist | 45.00% | ~464 |
-| Merciless | 44.00% | ~453 |
 | Krogan Ally | 43.00% | ~443 |
 | Missing in Action | 43.00% | ~443 |
 | Very Elusive | 43.00% | ~443 |
@@ -72,7 +72,7 @@
 | Suicide Mission | 29.00% | ~299 |
 | Against All Odds | 29.00% | ~299 |
 | Friend or Foe | 29.00% | ~299 |
-| Mobilizer | 28.00% | ~288 |
+| Mobilizer | 29.00% | ~299 |
 | Untouchable | 27.00% | ~278 |
 | A House Divided | 27.00% | ~278 |
 | Eye of the Hurricane | 26.00% | ~268 |
@@ -98,10 +98,10 @@
 | Saboteur | 20.00% | ~206 |
 | Last Witness | 20.00% | ~206 |
 | Well Connected | 19.00% | ~196 |
+| Executioner | 17.00% | ~175 |
 | Master and Commander | 17.00% | ~175 |
 | Electronics Specialist | 16.00% | ~165 |
 | Sabotage Specialist | 16.00% | ~165 |
-| Executioner | 16.00% | ~165 |
 | Patriot | 16.00% | ~165 |
 | Throw Mastery | 15.00% | ~154 |
 | Legend | 15.00% | ~154 |

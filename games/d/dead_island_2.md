@@ -10,22 +10,22 @@ Rating: 4.54 (Ranked 522)
 | Pork Chopped | 1.00% | ~403 |
 | Hotel California | 0.50% | ~3,574 |
 | Welcome To Hell-A | 0.50% | ~3,574 |
+| Dr. Reed, I Presume? | 0.40% | ~2,859 |
 | Git Gutte! | 0.40% | ~2,859 |
 | Anger Management | 0.40% | ~2,859 |
 | Bookworm | 0.40% | ~2,859 |
 | Break A Leg | 0.40% | ~2,859 |
 | Coup de Grâce | 0.40% | ~2,859 |
 | Hazardous Materials | 0.40% | ~2,859 |
+| Friends Like These | 0.40% | ~2,859 |
 | Apex Predator | 0.40% | ~2,859 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,859 |
-| Dr. Reed, I Presume? | 0.30% | ~2,144 |
 | Perks of the Job | 0.30% | ~2,144 |
 | I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,144 |
 | But Doctor, I am Butcho | 0.30% | ~2,144 |
 | Slayer Squad | 0.30% | ~2,144 |
 | Can't Handle the Truth | 0.30% | ~2,144 |
 | Like Riding a Bike | 0.30% | ~2,144 |
-| Friends Like These | 0.30% | ~2,144 |
 | Zombologist | 0.30% | ~2,144 |
 | Ooh, Shiny! | 0.30% | ~2,144 |
 | A Patton Emerges | 0.30% | ~2,144 |
@@ -33,16 +33,16 @@ Rating: 4.54 (Ranked 522)
 | Max Headroom | 0.30% | ~2,144 |
 | Our True Nature | 0.30% | ~2,144 |
 | This is My Weapon | 0.30% | ~2,144 |
-| Making Your Mark | 0.20% | ~1,429 |
-| On Safari | 0.20% | ~1,429 |
-| Not Even My Final Form | 0.20% | ~1,429 |
-| Jumbo Keyring | 0.20% | ~1,429 |
-| Humanity Distilled | 0.20% | ~1,429 |
-| I Am the Resurrection | 0.20% | ~1,429 |
-| Down with the Sickness | 0.20% | ~1,429 |
-| Go, Bobcats! | 0.20% | ~1,429 |
-| Variety is the Spice of Death | 0.20% | ~1,429 |
-| Rising Star | 0.20% | ~1,429 |
+| Making Your Mark | 0.20% | ~1,430 |
+| On Safari | 0.20% | ~1,430 |
+| Not Even My Final Form | 0.20% | ~1,430 |
+| Jumbo Keyring | 0.20% | ~1,430 |
+| Humanity Distilled | 0.20% | ~1,430 |
+| I Am the Resurrection | 0.20% | ~1,430 |
+| Down with the Sickness | 0.20% | ~1,430 |
+| Go, Bobcats! | 0.20% | ~1,430 |
+| Variety is the Spice of Death | 0.20% | ~1,430 |
+| Rising Star | 0.20% | ~1,430 |
 | Top That, Tisha! | 0.20% | ~81 |
 | Make it So | 0.10% | ~715 |
 | LA Influential | 0.10% | ~715 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,735 (Ranked 21)  
+Progressed: 714,762 (Ranked 21)  
 Completed: 2,354 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,10 +259,10 @@ Completed: 2,354 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 714,735 | 2,354 |
+| 2023-11-08 | 714,762 | 2,354 |
 ## Awards
 Max (Great Boss Battles): 7,178  (Ranked 53)  
-Sum: 10,881 (Ranked 87)  
+Sum: 10,883 (Ranked 87)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -271,7 +271,7 @@ Diff (max vs sum): -34
 | This game has Diverse Characters | 516 |
 | This game has Quickly Understood Controls | 497 |
 | This game is Relaxing | 463 |
-| This game has Amazing Storytelling | 443 |
+| This game has Amazing Storytelling | 445 |
 | This game is Highly Recommended | 432 |
 | This game is Extremely Fun | 425 |
 | This game has Amazing Characters | 400 |
@@ -479,3 +479,4 @@ Diff (max vs sum): -34
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
+| 2023-11-08 | 4.54 | 7,178 | 10,883 |

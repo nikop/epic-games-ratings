@@ -5,6 +5,7 @@ Rating: 4.60 (Ranked 409)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| But this one is mine | 0.20% | ~11 |
 | Return of the Wizard King | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | Arch Mage | 0.10% | ~5 |
@@ -28,7 +29,6 @@ Rating: 4.60 (Ranked 409)
 | Freed Lands of Manuhari | 0.10% | ~5 |
 | Sehiran Oasis | 0.10% | ~5 |
 | Spoils of War | 0.10% | ~5 |
-| But this one is mine | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
 | Snap Out of It! | 0.00% | ~0 |
 | There Can Only Be One! | 0.00% | ~0 |
