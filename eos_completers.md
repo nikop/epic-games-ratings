@@ -33,9 +33,9 @@
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 32 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.71% |
-| 34 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.26% |
-| 35 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
-| 36 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 10.00% |
+| 34 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
+| 35 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 10.00% |
+| 35 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 37 | [Smelter](games/s/smelter.md) | 9.76% |
 | 38 | [Anna's Quest](games/a/anna's_quest.md) | 9.52% |
 | 39 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.38% |
@@ -61,7 +61,7 @@
 | 59 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.88% |
-| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.77% |
+| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.76% |
 | 63 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.54% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 65 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
@@ -109,7 +109,7 @@
 | 107 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 107 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
 | 109 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
-| 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.52% |
+| 110 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.51% |
 | 111 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 112 | [Lamentum](games/l/lamentum.md) | 2.43% |
 | 113 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
@@ -131,7 +131,7 @@
 | 129 | [Night Book](games/n/night_book.md) | 1.68% |
 | 130 | [Five Dates](games/f/five_dates.md) | 1.62% |
 | 131 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.60% |
-| 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.59% |
+| 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.58% |
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.54% |
 | 134 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
 | 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.51% |
