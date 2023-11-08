@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -5578,9 +5578,9 @@
       "ID": "AK_FIELDS_WATERED",
       "SetID": "dfmb89",
       "Name": "Fields Watered",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 3057
+      "UsersEstimate": 3132
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -5786,8 +5786,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:05:14.1562493+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:10:13.7581125+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-08T12:02:51.4009406+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:05:14.1563115+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:07:43.2806207+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:10:13.7581798+00:00"
 }

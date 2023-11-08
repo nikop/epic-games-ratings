@@ -1,13 +1,13 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 523)  
+Rating: 4.54 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 2.00% | ~809 |
-| One of Us | 1.00% | ~404 |
-| Pork Chopped | 1.00% | ~404 |
+| One of Us | 1.00% | ~405 |
+| Pork Chopped | 1.00% | ~405 |
 | Hotel California | 0.50% | ~3,575 |
 | Welcome To Hell-A | 0.50% | ~3,575 |
 | Dr. Reed, I Presume? | 0.40% | ~2,860 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,905 (Ranked 21)  
+Progressed: 714,927 (Ranked 21)  
 Completed: 2,357 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2,357 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 714,905 | 2,357 |
+| 2023-11-08 | 714,927 | 2,357 |
 ## Awards
 Max (Great Boss Battles): 7,178  (Ranked 53)  
 Sum: 10,890 (Ranked 87)  

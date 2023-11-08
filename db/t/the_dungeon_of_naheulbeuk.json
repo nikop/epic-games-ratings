@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 62,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1287,7 +1287,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 235914,
+  "EOS_Progressed": 235921,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1561,
   "EOS_NewCompleters": 0,
@@ -17762,6 +17762,11 @@
       "Time": "2023-11-08T12:05:36.5504217+00:00",
       "NumProgressed": 235914,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T13:10:36.8702918+00:00",
+      "NumProgressed": 235921,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -17789,7 +17794,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "BarbarianEpic",
@@ -17805,7 +17810,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7078
     },
     {
       "ID": "BookCollection",
@@ -17837,7 +17842,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7078
     },
     {
       "ID": "Chapter4",
@@ -18221,7 +18226,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82570
+      "UsersEstimate": 82572
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18245,7 +18250,7 @@
       "Name": "DM intervention",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7078
     },
     {
       "ID": "EndGameCursed",
@@ -18269,7 +18274,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18873
+      "UsersEstimate": 18874
     },
     {
       "ID": "FollowBraztok",
@@ -18285,7 +18290,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "InsultLoose",
@@ -18309,7 +18314,7 @@
       "Name": "We come in peace",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "MinistrelEpic",
@@ -18469,28 +18474,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7077
+      "UsersEstimate": 7078
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 235914,
+      "Progressed": 235921,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 235914,
+      "Progressed": 235921,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-08T05:00:13.6693879+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:05:36.5504212+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:10:36.8702913+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:59:11.499201+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:05:36.5506563+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:04:07.1025942+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:10:36.8705029+00:00"
 }

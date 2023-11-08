@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251086,
+  "EOS_Progressed": 251089,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 231,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18487,6 +18487,11 @@
       "Time": "2023-11-08T12:08:46.7640575+00:00",
       "NumProgressed": 251086,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-08T13:13:28.500967+00:00",
+      "NumProgressed": 251089,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -18522,7 +18527,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52728
+      "UsersEstimate": 52729
     },
     {
       "ID": "blotbuster",
@@ -18594,7 +18599,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45195
+      "UsersEstimate": 45196
     },
     {
       "ID": "curator",
@@ -18602,7 +18607,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50217
+      "UsersEstimate": 50218
     },
     {
       "ID": "didYourTime",
@@ -18674,7 +18679,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133076
+      "UsersEstimate": 133077
     },
     {
       "ID": "indegestible",
@@ -18698,7 +18703,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65282
+      "UsersEstimate": 65283
     },
     {
       "ID": "justABit",
@@ -18738,7 +18743,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125543
+      "UsersEstimate": 125544
     },
     {
       "ID": "notScared",
@@ -18802,7 +18807,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55239
+      "UsersEstimate": 55240
     },
     {
       "ID": "thunderstruck",
@@ -18818,7 +18823,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32641
+      "UsersEstimate": 32642
     },
     {
       "ID": "treeMedalist",
@@ -18865,7 +18870,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251086,
+      "Progressed": 251089,
       "Completed": 6
     }
   ],
@@ -18873,8 +18878,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:08:46.764057+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:13:28.5009665+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:10.071238+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:58:49.6758466+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:08:46.764212+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:03:43.6614024+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:13:28.5011602+00:00"
 }

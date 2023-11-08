@@ -2,10 +2,10 @@
   "ID": "7d8459956d774d788532fd472b437df8",
   "Name": "Bunny Park",
   "ProductSlug": "bunny-park-835c4c",
-  "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Completed": 89,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-30T00:00:00+00:00",
     "PcReleaseDate": "2020-01-14T12:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 299,
+  "EOS_Progressed": 300,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.34,
+  "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:49.4240429+00:00",
@@ -170,6 +170,11 @@
       "Time": "2023-09-25T22:03:21.9842034+00:00",
       "NumProgressed": 299,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-08T13:13:21.5637192+00:00",
+      "NumProgressed": 300,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 18,
@@ -181,7 +186,7 @@
       "Name": "Lonely Bunny",
       "Percentage": 97,
       "XP": 25,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "BP-02",
@@ -205,7 +210,7 @@
       "Name": "Debris Finder",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "BP-05",
@@ -213,7 +218,7 @@
       "Name": "Debris Gatherer",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "BP-06",
@@ -324,7 +329,7 @@
     {
       "ID": "7fc93f2",
       "IsBase": true,
-      "Progressed": 299,
+      "Progressed": 300,
       "Completed": 10
     }
   ],
@@ -332,8 +337,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.5432443+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:49.424044+00:00",
   "LastChanged": "2023-03-31T05:58:48.5432443+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:08:40.3817492+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:13:21.5637186+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:23.895359+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:57:09.4324281+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:08:40.3817687+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:01:55.6160164+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:13:21.5637381+00:00"
 }

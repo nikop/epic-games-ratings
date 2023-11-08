@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 53.00% | ~75 |
-| Fire in the... nevermind | 53.00% | ~75 |
+| Chapter I | 52.00% | ~74 |
+| Fire in the... nevermind | 52.00% | ~74 |
 | Haute cuisine | 47.00% | ~67 |
 | Demolition expert | 40.00% | ~57 |
 | I didn't do it! | 40.00% | ~57 |
-| Open up wide | 37.00% | ~53 |
-| Keep away from children | 37.00% | ~53 |
 | Wooooooow! | 37.00% | ~53 |
-| Artistic fool | 35.00% | ~50 |
-| Let the boot talk | 32.00% | ~45 |
-| Chapter II | 27.00% | ~38 |
+| Open up wide | 36.00% | ~51 |
+| Keep away from children | 36.00% | ~51 |
+| Artistic fool | 34.00% | ~49 |
+| Let the boot talk | 31.00% | ~44 |
+| Chapter II | 27.00% | ~39 |
 | Shadow on the wall | 26.00% | ~37 |
 | Achoo!! | 24.00% | ~34 |
 | Chapter III | 24.00% | ~34 |
@@ -22,15 +22,15 @@
 | Handyman | 23.00% | ~33 |
 | Bubblekillerfamily | 23.00% | ~33 |
 | Quite a buggy game | 21.00% | ~30 |
-| Pacifist | 20.00% | ~28 |
-| Mirror mirror on the wall... | 20.00% | ~28 |
+| Pacifist | 20.00% | ~29 |
+| Mirror mirror on the wall... | 20.00% | ~29 |
 | Fastidious Clown | 19.00% | ~27 |
 | Home is where the heart is | 19.00% | ~27 |
 | It's not easy being green! | 18.00% | ~26 |
 | Master of Thermodynamics | 15.00% | ~21 |
 | Death is a part of life | 15.00% | ~21 |
-| To err is human... | 13.00% | ~18 |
-| Unfullfilled dreams | 13.00% | ~18 |
+| To err is human... | 13.00% | ~19 |
+| Unfullfilled dreams | 13.00% | ~19 |
 | Useless but beautiful | 10.00% | ~14 |
 | Nothing can stop me | 10.00% | ~14 |
 | Mumbo Jumbo | 10.00% | ~14 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 388)  
+Progressed: 143 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-03 | 139 | 0 |
 | 2023-11-05 | 140 | 0 |
 | 2023-11-07 | 142 | 0 |
+| 2023-11-08 | 143 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

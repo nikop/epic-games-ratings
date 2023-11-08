@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 105,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -876,9 +876,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 60,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -947,8 +947,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:09:02.3573332+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:13:43.9561595+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:59:50.2474794+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:09:02.3573536+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:04:49.3318941+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:13:43.9561794+00:00"
 }

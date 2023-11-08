@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 29,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 489,
+  "EOS_Progressed": 490,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.73,
+  "EOS_Completed_Percentage": 5.71,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2095,6 +2095,11 @@
       "Time": "2023-11-08T12:04:04.8500018+00:00",
       "NumProgressed": 489,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-08T13:09:00.6346297+00:00",
+      "NumProgressed": 490,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2114,7 +2119,7 @@
       "Name": "In this together",
       "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "META_ALL_LINK",
@@ -2154,7 +2159,7 @@
       "Name": "Open door",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2170,15 +2175,15 @@
       "Name": "Feels like springtime",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 44
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2192,9 +2197,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 54
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2202,7 +2207,7 @@
       "Name": "Alchemists Express",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2250,7 +2255,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2266,7 +2271,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "PROGRESS_N2",
@@ -2305,14 +2310,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 489,
+      "Progressed": 490,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:04:04.8500012+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:09:00.6346292+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:58:07.3639009+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:04:04.8500335+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:02:59.0667373+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:09:00.6346681+00:00"
 }

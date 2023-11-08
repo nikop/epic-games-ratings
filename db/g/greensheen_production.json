@@ -2,9 +2,9 @@
   "ID": "400fd43e2e2f4b3b97bdc32656cb8f09",
   "Name": "greensheen Production",
   "Ranking_EOS_Progress": 554,
-  "Ranking_EOS_Completed": 11,
+  "Ranking_EOS_Completed": 9,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -18,10 +18,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 14,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 28.57,
+  "EOS_NewCompleters": 4,
+  "EOS_Completed_Percentage": 35.71,
   "EosHistory": [
     {
       "Time": "2023-08-08T10:04:28.1768655+00:00",
@@ -107,6 +107,11 @@
       "Time": "2023-11-07T13:13:00.5459791+00:00",
       "NumProgressed": 14,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T13:13:21.5158234+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-08T10:04:28.176868+00:00",
@@ -341,9 +346,9 @@
       "ID": "Platinum",
       "SetID": "aph8hbk",
       "Name": "Primetime Content Consumer",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Popcorn",
@@ -399,12 +404,12 @@
       "ID": "aph8hbk",
       "IsBase": true,
       "Progressed": 14,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeenAchievements": "2023-07-31T13:15:39.9572089+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:08:40.3238023+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:13:21.5158227+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:13.194983+00:00",
-  "LastUpdate_Ratings": "2023-11-08T12:00:27.1202966+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:08:40.3238353+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:05:28.0695318+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:13:21.5158519+00:00"
 }

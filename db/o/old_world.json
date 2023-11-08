@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1992,7 +1992,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15210,
+  "EOS_Progressed": 15211,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -15617,6 +15617,11 @@
       "Time": "2023-11-08T12:06:03.7692513+00:00",
       "NumProgressed": 15210,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-08T13:11:05.0177946+00:00",
+      "NumProgressed": 15211,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16060,7 +16065,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -16252,7 +16257,7 @@
       "Name": "Settler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -17380,7 +17385,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -18363,21 +18368,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15210,
+      "Progressed": 15211,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15210,
+      "Progressed": 15211,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-07T17:00:23.6286983+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:06:03.7692507+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:11:05.0177941+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:57:46.1921914+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:06:03.770878+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:02:33.9752189+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:11:05.0191602+00:00"
 }

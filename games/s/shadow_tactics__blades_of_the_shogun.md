@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~25,509 |
-| A thief's beginning | 10.00% | ~21,257 |
-| Thorough | 10.00% | ~21,257 |
+| A thief's beginning | 10.00% | ~21,258 |
+| Thorough | 10.00% | ~21,258 |
 | Disguised | 9.00% | ~19,132 |
 | Rollin' | 9.00% | ~19,132 |
 | Tanuki Time | 9.00% | ~19,132 |
@@ -18,10 +18,10 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 7.00% | ~14,880 |
 | Jonin | 7.00% | ~14,880 |
 | Yabu | 7.00% | ~14,880 |
-| Chunin | 6.00% | ~12,754 |
-| Flying Rocks | 6.00% | ~12,754 |
-| Mugen Unchained | 6.00% | ~12,754 |
-| Warzone | 6.00% | ~12,754 |
+| Chunin | 6.00% | ~12,755 |
+| Flying Rocks | 6.00% | ~12,755 |
+| Mugen Unchained | 6.00% | ~12,755 |
+| Warzone | 6.00% | ~12,755 |
 | Okkoto | 5.00% | ~10,629 |
 | Prisoners | 5.00% | ~10,629 |
 | Too Early | 5.00% | ~10,629 |
@@ -32,10 +32,10 @@ Number of Ratings: 495  (23.09.2022)
 | It's raining men | 3.00% | ~6,377 |
 | Stoned | 3.00% | ~6,377 |
 | The Old Way | 3.00% | ~6,377 |
-| Atheist Ox | 2.00% | ~4,251 |
-| No Gimmicks | 2.00% | ~4,251 |
-| Old Man | 2.00% | ~4,251 |
-| Winner Winner | 2.00% | ~4,251 |
+| Atheist Ox | 2.00% | ~4,252 |
+| No Gimmicks | 2.00% | ~4,252 |
+| Old Man | 2.00% | ~4,252 |
+| Winner Winner | 2.00% | ~4,252 |
 | Meticulous | 1.00% | ~2,126 |
 | The End | 1.00% | ~2,126 |
 | Undeserved Honor | 1.00% | ~2,126 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~213 |
 | Release the Kraken | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,573 (Ranked 70)  
+Progressed: 212,578 (Ranked 70)  
 Completed: 96 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,10 +253,10 @@ Completed: 96 (0.05%) (Ranked 297)
 | 2023-11-05 | 212,140 | 96 |
 | 2023-11-06 | 212,316 | 96 |
 | 2023-11-07 | 212,500 | 96 |
-| 2023-11-08 | 212,573 | 96 |
+| 2023-11-08 | 212,578 | 96 |
 ## Awards
 Max (Great for Beginners): 571  (Ranked 197)  
-Sum: 4,830 (Ranked 139)  
+Sum: 4,831 (Ranked 139)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -267,7 +267,7 @@ Diff (max vs sum): 58
 | This game has Amazing Characters | 496 |
 | This game is Highly Recommended | 491 |
 | This game is Relaxing | 491 |
-| This game has Challenging Combat | 488 |
+| This game has Challenging Combat | 489 |
 | This game has Quickly Understood Controls | 456 |
 | This game has a Creative Community | 252 |
 | This game has Unique Visuals | 20 |
@@ -480,3 +480,4 @@ Diff (max vs sum): 58
 | 2023-11-05 | 4.67 | - | 570 | 4,825 |
 | 2023-11-06 | 4.67 | - | 570 | 4,827 |
 | 2023-11-07 | 4.67 | - | 571 | 4,830 |
+| 2023-11-08 | 4.67 | - | 571 | 4,831 |

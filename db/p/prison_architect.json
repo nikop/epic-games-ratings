@@ -3,12 +3,12 @@
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
   "Ranking_Rating": 383,
-  "Ranking_Popularity": 200,
+  "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6559,11 +6559,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 4329,
       "NumberOfAwardsMax": 557
+    },
+    {
+      "Time": "2023-11-08T13:01:57.7424799+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4332,
+      "NumberOfAwardsMax": 560
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4329,
-  "NumberOfAwardsMax": 557,
+  "NumberOfAwards": 4332,
+  "NumberOfAwardsMax": 560,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6576,7 +6582,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 557
+      "Count": 560
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6633,9 +6639,9 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 191817,
+  "EOS_Progressed": 191824,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2355,
+  "EOS_NewPlayers": 2343,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29588,6 +29594,11 @@
       "Time": "2023-11-08T12:08:50.388364+00:00",
       "NumProgressed": 191817,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-08T13:13:32.078285+00:00",
+      "NumProgressed": 191824,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -29631,7 +29642,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30691
+      "UsersEstimate": 30692
     },
     {
       "ID": "Achievement_13",
@@ -29679,7 +29690,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 47954
+      "UsersEstimate": 47956
     },
     {
       "ID": "Achievement_5",
@@ -29726,15 +29737,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 191817,
+      "Progressed": 191824,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-08T02:15:37.4350282+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:08:50.3883634+00:00",
+  "LastChanged": "2023-11-08T13:01:57.7424798+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:13:32.0782845+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.8448394+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:57:12.966546+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:08:50.3886006+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:01:57.7424805+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:13:32.078472+00:00"
 }

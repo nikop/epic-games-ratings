@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 21,
@@ -6261,10 +6261,10 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 714905,
+  "EOS_Progressed": 714927,
   "EOS_Completed": 2357,
-  "EOS_NewPlayers": 4982,
-  "EOS_NewCompleters": 65,
+  "EOS_NewPlayers": 4954,
+  "EOS_NewCompleters": 64,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29301,6 +29301,11 @@
       "Time": "2023-11-08T12:05:40.9463255+00:00",
       "NumProgressed": 714905,
       "NumCompleted": 2357
+    },
+    {
+      "Time": "2023-11-08T13:10:41.3807574+00:00",
+      "NumProgressed": 714927,
+      "NumCompleted": 2357
     }
   ],
   "TotalAchievements": 51,
@@ -29672,7 +29677,7 @@
       "Name": "One of Us",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ach_dark_magic",
@@ -29696,7 +29701,7 @@
       "Name": "Pork Chopped",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 404
+      "UsersEstimate": 405
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29719,13 +29724,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714905,
+      "Progressed": 714927,
       "Completed": 2357
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40447,
+      "Progressed": 40469,
       "Completed": 36493
     }
   ],
@@ -29733,8 +29738,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-08T11:58:17.7761573+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:05:40.9463248+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:10:41.3807568+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:58:17.7761578+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:05:40.9465173+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:03:07.9796377+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:10:41.3809432+00:00"
 }

@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~8,496 |
+| Throwing up Tags | 92.00% | ~8,497 |
 | Cool Whip | 90.00% | ~8,312 |
-| Fashion Killa | 88.00% | ~8,127 |
-| Drop the Beat | 85.00% | ~7,850 |
-| Hey Lakeshore | 84.00% | ~7,757 |
-| 100 Miles and Runnin' | 83.00% | ~7,665 |
-| Public Enemy | 82.00% | ~7,573 |
-| Rebel Without a Pause | 67.00% | ~6,187 |
-| Hey Speedie! | 67.00% | ~6,187 |
-| Most Wanted | 63.00% | ~5,818 |
+| Fashion Killa | 88.00% | ~8,128 |
+| Drop the Beat | 85.00% | ~7,851 |
+| Hey Lakeshore | 84.00% | ~7,758 |
+| 100 Miles and Runnin' | 83.00% | ~7,666 |
+| Public Enemy | 82.00% | ~7,574 |
+| Rebel Without a Pause | 67.00% | ~6,188 |
+| Hey Speedie! | 67.00% | ~6,188 |
+| Most Wanted | 63.00% | ~5,819 |
 | New Crew | 62.00% | ~5,726 |
 | Serious Guap | 53.00% | ~4,895 |
 | Escape Artist | 53.00% | ~4,895 |
-| Style it Out | 52.00% | ~4,802 |
-| Untouchable | 52.00% | ~4,802 |
+| Style it Out | 52.00% | ~4,803 |
+| Untouchable | 52.00% | ~4,803 |
 | Oh, It's On | 50.00% | ~4,618 |
 | Rydell's Rydes | 48.00% | ~4,433 |
 | Cash Money Millionaire | 45.00% | ~4,156 |
@@ -26,11 +26,11 @@
 | Access All Areas | 34.00% | ~3,140 |
 | #Blessed | 34.00% | ~3,140 |
 | Found Family | 31.00% | ~2,863 |
-| Kick it | 30.00% | ~2,770 |
+| Kick it | 30.00% | ~2,771 |
 | In the Flow | 29.00% | ~2,678 |
 | The Collector | 29.00% | ~2,678 |
 | Top Billin' | 22.00% | ~2,032 |
-| Teacher's Pet | 21.00% | ~1,939 |
+| Teacher's Pet | 21.00% | ~1,940 |
 | Full House | 18.00% | ~1,662 |
 | B for My Name | 18.00% | ~1,662 |
 | Superstar | 18.00% | ~1,662 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 2.00% | ~185 |
 | Cleaning Up | 2.00% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,235 (Ranked 159)  
+Progressed: 9,236 (Ranked 159)  
 Completed: 47 (0.51%) (Ranked 194)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,4 +100,4 @@ Completed: 47 (0.51%) (Ranked 194)
 | 2023-11-05 | 8,945 | 45 |
 | 2023-11-06 | 9,055 | 45 |
 | 2023-11-07 | 9,176 | 46 |
-| 2023-11-08 | 9,235 | 47 |
+| 2023-11-08 | 9,236 | 47 |

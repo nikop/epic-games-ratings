@@ -4,8 +4,8 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 438,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2023-05-03T15:00:00+00:00",
@@ -459,9 +459,9 @@
       "ID": "A19",
       "SetID": "7f5j12l",
       "Name": "Purple Flame",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "A2",
@@ -658,8 +658,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-08T12:03:21.9169412+00:00",
+  "LastChanged_Achievements": "2023-11-08T13:08:15.537553+00:00",
   "LastUpdate_AppInfo": "2023-11-07T08:57:06.7637727+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:57:24.4812095+00:00",
-  "LastUpdate_Achievements": "2023-11-08T12:03:21.9169711+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:02:08.6923897+00:00",
+  "LastUpdate_Achievements": "2023-11-08T13:08:15.5375838+00:00"
 }

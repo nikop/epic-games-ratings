@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 0.30% | ~16 |
+| But this one is mine | 0.40% | ~21 |
 | There Can Only Be One! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
@@ -42,6 +42,7 @@ Rating: 4.60 (Ranked 410)
 | Chaos Surge | 0.10% | ~5 |
 | A Conqueror's Cohort | 0.10% | ~5 |
 | Spoils of War | 0.10% | ~5 |
+| Dawn of the Dread | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
 | Snap Out of It! | 0.00% | ~0 |
 | I've Got Everything I Need Right Here | 0.00% | ~0 |
@@ -63,7 +64,6 @@ Rating: 4.60 (Ranked 410)
 | Duality | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 | Seal the Deal | 0.00% | ~0 |
-| Dawn of the Dread | 0.00% | ~0 |
 | A Very Special Ring | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,290 (Ranked 183)  
