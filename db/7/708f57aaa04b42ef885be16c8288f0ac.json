@@ -2,13 +2,13 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 123,
+  "Ranking_Rating": 124,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 54,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4429,
+  "EOS_Progressed": 4431,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 718,
+  "EOS_NewPlayers": 717,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2501,6 +2501,11 @@
       "Time": "2023-11-08T19:09:24.0680617+00:00",
       "NumProgressed": 4429,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-08T20:08:50.3273107+00:00",
+      "NumProgressed": 4431,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2657,7 +2662,7 @@
       "Name": "Nasty!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "NoMoreTotems",
@@ -2737,7 +2742,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -2784,7 +2789,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4429,
+      "Progressed": 4431,
       "Completed": 5
     }
   ],
@@ -2792,8 +2797,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:09:24.0680613+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:08:50.3273105+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:00:49.7937621+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:09:24.0680924+00:00"
+  "LastUpdate_Ratings": "2023-11-08T20:00:07.4648407+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:08:50.3273413+00:00"
 }

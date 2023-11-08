@@ -2,9 +2,9 @@
   "ID": "2c3af4f6ffce46e78bac85bcbe7bc11f",
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
-  "Ranking_EOS_Progress": 427,
-  "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 289,
+  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Completed": 70,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 86,
+  "EOS_Progressed": 87,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.65,
+  "EOS_Completed_Percentage": 4.6,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -464,6 +464,11 @@
       "Time": "2023-11-05T18:03:25.010394+00:00",
       "NumProgressed": 86,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T20:04:25.926136+00:00",
+      "NumProgressed": 87,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 26,
@@ -505,7 +510,7 @@
       "ID": "Butterfly",
       "SetID": "6j29jep",
       "Name": "Something gentle...",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -537,7 +542,7 @@
       "ID": "Flower",
       "SetID": "6j29jep",
       "Name": "Something fully in bloom...",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -577,7 +582,7 @@
       "ID": "Home",
       "SetID": "6j29jep",
       "Name": "Somewhere to belong...",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -609,7 +614,7 @@
       "ID": "Mountain",
       "SetID": "6j29jep",
       "Name": "Something monumental...",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -665,7 +670,7 @@
       "ID": "Water",
       "SetID": "6j29jep",
       "Name": "Something reflective...",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -682,14 +687,14 @@
     {
       "ID": "6j29jep",
       "IsBase": true,
-      "Progressed": 86,
+      "Progressed": 87,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:04:58.8371545+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:04:25.9261357+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:09.4603105+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:57:16.0994673+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:04:58.8371744+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:57:20.1408149+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:04:25.92616+00:00"
 }

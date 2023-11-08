@@ -2,7 +2,7 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 123,
+  "Ranking_Rating": 124,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
@@ -10141,10 +10141,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 47673,
       "NumberOfAwardsMax": 24120
+    },
+    {
+      "Time": "2023-11-08T19:58:04.074931+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47675,
+      "NumberOfAwardsMax": 24120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47673,
+  "NumberOfAwards": 47675,
   "NumberOfAwardsMax": 24120,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10170,7 +10176,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1184
+      "Count": 1186
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10221,9 +10227,9 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 301709,
+  "EOS_Progressed": 301713,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1619,
+  "EOS_NewPlayers": 1611,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -31946,6 +31952,11 @@
       "Time": "2023-11-08T19:09:45.6257715+00:00",
       "NumProgressed": 301709,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-08T20:09:07.2481963+00:00",
+      "NumProgressed": 301713,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -31957,7 +31968,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48273
+      "UsersEstimate": 48274
     },
     {
       "ID": "PFA_10",
@@ -32045,7 +32056,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15085
+      "UsersEstimate": 15086
     },
     {
       "ID": "PFA_20",
@@ -32077,7 +32088,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39222
+      "UsersEstimate": 39223
     },
     {
       "ID": "PFA_24",
@@ -32109,7 +32120,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12068
+      "UsersEstimate": 12069
     },
     {
       "ID": "PFA_28",
@@ -32141,7 +32152,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36205
+      "UsersEstimate": 36206
     },
     {
       "ID": "PFA_31",
@@ -32157,7 +32168,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12068
+      "UsersEstimate": 12069
     },
     {
       "ID": "PFA_33",
@@ -32205,7 +32216,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12068
+      "UsersEstimate": 12069
     },
     {
       "ID": "PFA_39",
@@ -32221,7 +32232,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15085
+      "UsersEstimate": 15086
     },
     {
       "ID": "PFA_40",
@@ -32237,7 +32248,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15085
+      "UsersEstimate": 15086
     },
     {
       "ID": "PFA_42",
@@ -32277,7 +32288,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12068
+      "UsersEstimate": 12069
     },
     {
       "ID": "PFA_6",
@@ -32285,7 +32296,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42239
+      "UsersEstimate": 42240
     },
     {
       "ID": "PFA_7",
@@ -32293,7 +32304,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42239
+      "UsersEstimate": 42240
     },
     {
       "ID": "PFA_8",
@@ -32301,7 +32312,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36205
+      "UsersEstimate": 36206
     },
     {
       "ID": "PFA_9",
@@ -32316,16 +32327,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301709,
+      "Progressed": 301713,
       "Completed": 505
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-08T16:58:08.0795665+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:09:45.6257712+00:00",
+  "LastChanged": "2023-11-08T19:58:04.0749307+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:09:07.2481957+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:58:09.8081158+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:09:45.625905+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:58:04.0749315+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:09:07.2482991+00:00"
 }

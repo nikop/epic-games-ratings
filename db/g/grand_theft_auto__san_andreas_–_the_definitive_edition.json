@@ -2,10 +2,10 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 484,
+  "Ranking_Rating": 485,
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 305,
-  "Ranking_EOS_Progress": 148,
+  "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 67,
@@ -1447,9 +1447,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13620,
+  "EOS_Progressed": 13621,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -14247,6 +14247,11 @@
       "Time": "2023-11-08T18:25:27.4582741+00:00",
       "NumProgressed": 13620,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-08T20:08:36.0268255+00:00",
+      "NumProgressed": 13621,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 35,
@@ -14258,7 +14263,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11032
+      "UsersEstimate": 11033
     },
     {
       "ID": "ACH02",
@@ -14314,7 +14319,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6946
+      "UsersEstimate": 6947
     },
     {
       "ID": "ACH09",
@@ -14378,7 +14383,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2315
+      "UsersEstimate": 2316
     },
     {
       "ID": "ACH17",
@@ -14537,7 +14542,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13620,
+      "Progressed": 13621,
       "Completed": 52
     }
   ],
@@ -14545,8 +14550,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-08T16:59:45.9318547+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:09:05.9817893+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:08:36.0268249+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:17.5596135+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:00:01.2364512+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:09:05.9818714+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:59:31.6250951+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:08:36.026896+00:00"
 }

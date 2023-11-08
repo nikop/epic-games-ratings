@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.63 (Ranked 347)  
+Rating: 4.63 (Ranked 348)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,7 +24,7 @@ Rating: 4.63 (Ranked 347)
 | Get Off My Ship! | 43.00% | ~703 |
 | Strange Transmissions | 42.00% | ~687 |
 | Live with the Hot Ones | 41.00% | ~670 |
-| Wreckage | 40.00% | ~654 |
+| Wreckage | 41.00% | ~670 |
 | Keeper of the Faith | 38.00% | ~621 |
 | Betrayed | 37.00% | ~605 |
 | Legend Teller | 36.00% | ~589 |
@@ -54,7 +54,7 @@ Rating: 4.63 (Ranked 347)
 | One Gun | 2.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,635 (Ranked 228)  
-Completed: 8 (0.49%) (Ranked 197)  
+Completed: 8 (0.49%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

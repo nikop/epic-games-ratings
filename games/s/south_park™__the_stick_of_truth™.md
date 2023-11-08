@@ -1,12 +1,12 @@
 # South Park™: The Stick of Truth™
 [Store](https://store.epicgames.com/en-US/p/south-park-the-stick-of-truth)  
 [View Rawdata](../../db/s/south_park™__the_stick_of_truth™.json)  
-Rating: 4.81 (Ranked 78)  
+Rating: 4.81 (Ranked 79)  
 Number of Ratings: 115  (23.09.2022)  
 ## Awards
 Max (Character Customization): 51  (Ranked 424)  
-Sum: 51 (Ranked 477)  
-Diff (max vs sum): -53  
+Sum: 51 (Ranked 478)  
+Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 51 |

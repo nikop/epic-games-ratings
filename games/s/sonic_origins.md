@@ -1,7 +1,7 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.58 (Ranked 446)  
+Rating: 4.58 (Ranked 447)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,8 +11,8 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic CD | 71.00% | ~422 |
 | Welcome to Sonic 3 & Knuckles | 71.00% | ~422 |
 | Welcome to Sonic the Hedgehog 2 | 69.00% | ~410 |
+| Time Traveler | 66.00% | ~392 |
 | Ring Collector | 66.00% | ~392 |
-| Time Traveler | 65.00% | ~386 |
 | Everyone's Hero | 62.00% | ~368 |
 | Gallant Spin Dash | 59.00% | ~350 |
 | Easy Peasy with Shields | 58.00% | ~345 |

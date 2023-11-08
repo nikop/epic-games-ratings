@@ -2,12 +2,12 @@
   "ID": "cbd5b3d310a54b12bf3fe8c41994174f",
   "Name": "VALORANT",
   "ProductSlug": "valorant",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 553,
   "Ranking_Popularity": 10,
   "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -11417,10 +11417,16 @@
       "Rating": 4.52,
       "NumberOfAwards": 580014,
       "NumberOfAwardsMax": 80402
+    },
+    {
+      "Time": "2023-11-08T20:02:58.3491237+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 580171,
+      "NumberOfAwardsMax": 80402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 580014,
+  "NumberOfAwards": 580171,
   "NumberOfAwardsMax": 80402,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -11458,7 +11464,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 63812
+      "Count": 63892
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11470,7 +11476,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 58683
+      "Count": 58760
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -11496,8 +11502,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:57.2451123+00:00",
-  "LastChanged": "2023-11-08T19:03:09.4668505+00:00",
+  "LastChanged": "2023-11-08T20:02:58.3491235+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.3833501+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:03:09.4668511+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:03:36.4516945+00:00"
+  "LastUpdate_Ratings": "2023-11-08T20:02:58.349124+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:03:19.7656529+00:00"
 }

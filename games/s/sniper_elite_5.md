@@ -1,7 +1,7 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.46 (Ranked 645)  
+Rating: 4.46 (Ranked 646)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,19 +10,19 @@ Rating: 4.46 (Ranked 645)
 | The Kraken Wakes | 37.00% | ~1,420 |
 | It's Starting to Crack | 34.00% | ~1,305 |
 | Change the Channel | 31.00% | ~1,190 |
-| Lord of War | 30.00% | ~1,151 |
+| Lord of War | 30.00% | ~1,152 |
 | Taking it back | 29.00% | ~1,113 |
-| Resourceful | 27.00% | ~1,036 |
-| Target America | 27.00% | ~1,036 |
+| Resourceful | 27.00% | ~1,037 |
+| Target America | 27.00% | ~1,037 |
 | The Kraken Sleeps | 25.00% | ~960 |
 | Liberté | 23.00% | ~883 |
 | Organ Grinder | 23.00% | ~883 |
 | As Quiet as a Mouse | 23.00% | ~883 |
-| Sharpshooter | 22.00% | ~844 |
+| Sharpshooter | 22.00% | ~845 |
 | Explosive Efficiency | 19.00% | ~729 |
 | Gunslinger | 18.00% | ~691 |
-| Just a Flesh Wound | 17.00% | ~652 |
-| Der Geist | 17.00% | ~652 |
+| Just a Flesh Wound | 17.00% | ~653 |
+| Der Geist | 17.00% | ~653 |
 | Climbing the Ladder | 16.00% | ~614 |
 | Close Quarters | 16.00% | ~614 |
 | Skirmisher | 15.00% | ~576 |
@@ -36,16 +36,16 @@ Rating: 4.46 (Ranked 645)
 | Set Europe Ablaze | 13.00% | ~499 |
 | Precision Is Key | 10.00% | ~384 |
 | My Little Friend | 10.00% | ~384 |
-| Rigged to Blow | 9.00% | ~345 |
+| Rigged to Blow | 9.00% | ~346 |
 | Herr Today, Gone Tomorrow | 7.00% | ~265 |
 | Operation Foxley | 6.00% | ~227 |
 | The Long Game | 5.00% | ~192 |
 | Tinkerer | 5.00% | ~192 |
 | It'll Buff Right Out | 5.00% | ~192 |
 | Don't hold your breath | 5.00% | ~192 |
-| Last Resort | 5.00% | ~189 |
-| Siegebreaker | 5.00% | ~189 |
-| Ghost of Falaise | 5.00% | ~189 |
+| Last Resort | 5.00% | ~190 |
+| Siegebreaker | 5.00% | ~190 |
+| Ghost of Falaise | 5.00% | ~190 |
 | Strategist | 4.00% | ~154 |
 | Locomotion Commotion | 4.00% | ~154 |
 | Road Rage | 4.00% | ~154 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 645)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,838 (Ranked 191)  
+Progressed: 3,839 (Ranked 191)  
 Completed: 11 (0.29%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 11 (0.29%) (Ranked 229)
 | 2023-11-05 | 3,828 | 11 |
 | 2023-11-06 | 3,832 | 11 |
 | 2023-11-07 | 3,837 | 11 |
-| 2023-11-08 | 3,838 | 11 |
+| 2023-11-08 | 3,839 | 11 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 527)  
 Sum: 23 (Ranked 530)  

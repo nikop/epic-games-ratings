@@ -1,23 +1,23 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.55 (Ranked 501)  
+Rating: 4.55 (Ranked 502)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 76.00% | ~2,769 |
+| Venture Outward | 76.00% | ~2,770 |
 | Ready for Winter | 65.00% | ~2,369 |
-| Ready for Summer | 53.00% | ~1,931 |
+| Ready for Summer | 53.00% | ~1,932 |
 | Cordon Bleu | 45.00% | ~1,640 |
 | Tapped! | 38.00% | ~1,385 |
 | Eureka | 33.00% | ~1,203 |
-| Scourge Slayer | 26.00% | ~947 |
+| Scourge Slayer | 26.00% | ~948 |
 | Science, Troglodyte! | 24.00% | ~875 |
 | Exceptional Skill | 23.00% | ~838 |
 | Home Sweet Home | 23.00% | ~838 |
 | Encyclopedic! | 20.00% | ~729 |
-| The Power of Family | 17.00% | ~619 |
+| The Power of Family | 17.00% | ~620 |
 | A Fortress Toppled! | 16.00% | ~583 |
 | Apex Predator | 16.00% | ~583 |
 | The Power of Faith | 13.00% | ~474 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~11 |
 | The Absolute Pinnacle. | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,644 (Ranked 194)  
+Progressed: 3,645 (Ranked 194)  
 Completed: 4 (0.11%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,10 +239,11 @@ Completed: 4 (0.11%) (Ranked 265)
 | 2023-11-05 | 3,639 | 4 |
 | 2023-11-06 | 3,643 | 4 |
 | 2023-11-07 | 3,644 | 4 |
+| 2023-11-08 | 3,645 | 4 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 469)  
-Sum: 244 (Ranked 380)  
-Diff (max vs sum): 89  
+Sum: 244 (Ranked 381)  
+Diff (max vs sum): 88  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 35 |

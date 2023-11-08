@@ -1,35 +1,35 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.57 (Ranked 469)  
+Rating: 4.57 (Ranked 470)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 97.00% | ~30 |
-| Map reader | 90.00% | ~28 |
-| Philanthropist | 81.00% | ~25 |
-| Adventurer | 77.00% | ~24 |
-| The brave little tailor | 58.00% | ~18 |
-| Samaritan | 55.00% | ~17 |
-| Archer | 55.00% | ~17 |
-| Field hand | 52.00% | ~16 |
-| Well-to-do | 48.00% | ~15 |
-| The merciful one | 45.00% | ~14 |
-| Ladies' man | 45.00% | ~14 |
-| Ferocious wild boars | 35.00% | ~11 |
-| Idiot | 35.00% | ~11 |
-| The fourth triplet | 29.00% | ~9 |
-| Wise man | 26.00% | ~8 |
-| Family man | 26.00% | ~8 |
-| Beast slayer | 26.00% | ~8 |
-| Ogre friend | 26.00% | ~8 |
-| Hard worker | 26.00% | ~8 |
-| Death of a legend | 23.00% | ~7 |
-| Archaeologist | 23.00% | ~7 |
-| Workaholic | 23.00% | ~7 |
-| Peacekeeper | 23.00% | ~7 |
-| Sidelined | 23.00% | ~7 |
-| Master detective | 23.00% | ~7 |
+| Beginner | 97.00% | ~31 |
+| Map reader | 91.00% | ~29 |
+| Philanthropist | 81.00% | ~26 |
+| Adventurer | 78.00% | ~25 |
+| The brave little tailor | 59.00% | ~19 |
+| Archer | 56.00% | ~18 |
+| Field hand | 53.00% | ~17 |
+| Samaritan | 53.00% | ~17 |
+| Well-to-do | 47.00% | ~15 |
+| The merciful one | 44.00% | ~14 |
+| Ladies' man | 44.00% | ~14 |
+| Ferocious wild boars | 34.00% | ~11 |
+| Idiot | 34.00% | ~11 |
+| The fourth triplet | 28.00% | ~9 |
+| Wise man | 25.00% | ~8 |
+| Family man | 25.00% | ~8 |
+| Beast slayer | 25.00% | ~8 |
+| Ogre friend | 25.00% | ~8 |
+| Hard worker | 25.00% | ~8 |
+| Death of a legend | 22.00% | ~7 |
+| Archaeologist | 22.00% | ~7 |
+| Workaholic | 22.00% | ~7 |
+| Peacekeeper | 22.00% | ~7 |
+| Sidelined | 22.00% | ~7 |
+| Master detective | 22.00% | ~7 |
 | Defender | 19.00% | ~6 |
 | Pandora's box | 19.00% | ~6 |
 | Ghost hunter | 19.00% | ~6 |
@@ -41,8 +41,8 @@ Rating: 4.57 (Ranked 469)
 | Master thief | 13.00% | ~4 |
 | Moneybags | 13.00% | ~4 |
 | King of the handymen | 13.00% | ~4 |
-| Titan Lord | 10.00% | ~3 |
-| Terror of the hens | 10.00% | ~3 |
+| Titan Lord | 9.00% | ~3 |
+| Terror of the hens | 9.00% | ~3 |
 | The traveler | 6.00% | ~2 |
 | Expert | 6.00% | ~2 |
 | King Midas | 6.00% | ~2 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 469)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 31 (Ranked 503)  
+Progressed: 32 (Ranked 502)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-04 | 27 | 0 |
 | 2023-11-05 | 30 | 0 |
 | 2023-11-07 | 31 | 0 |
+| 2023-11-08 | 32 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

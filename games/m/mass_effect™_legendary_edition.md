@@ -91,12 +91,12 @@
 | Fact Finder | 21.00% | ~219 |
 | Problem Solver | 21.00% | ~219 |
 | Pyromaniac | 20.00% | ~208 |
+| Under Pressure | 20.00% | ~208 |
 | Last Resort | 20.00% | ~208 |
 | No One Left Behind | 20.00% | ~208 |
 | Hard Target | 20.00% | ~208 |
 | Saboteur | 20.00% | ~208 |
 | Last Witness | 20.00% | ~208 |
-| Under Pressure | 19.00% | ~198 |
 | Well Connected | 19.00% | ~198 |
 | Executioner | 17.00% | ~177 |
 | Master and Commander | 17.00% | ~177 |
@@ -109,9 +109,9 @@
 | Long Service Medal | 14.00% | ~146 |
 | Combined Arms | 13.00% | ~135 |
 | Bruiser | 12.00% | ~125 |
+| Paramour III | 11.00% | ~115 |
 | Warp Mastery | 11.00% | ~115 |
 | Always Prepared | 10.00% | ~104 |
-| Paramour III | 10.00% | ~104 |
 | Overload Specialist | 10.00% | ~104 |
 | Barrier Mastery | 9.00% | ~94 |
 | Hijacker | 9.00% | ~94 |

@@ -2,12 +2,12 @@
   "ID": "dfd2530e80e4425d801913b0879be444",
   "Name": "Zombie Army 4: Dead War",
   "ProductSlug": "zombie-army-4-dead-war",
-  "Ranking_Rating": 230,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 162,
   "Ranking_PopularitySum": 186,
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2334,9 +2334,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43800,
+  "EOS_Progressed": 43801,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8439,6 +8439,11 @@
       "Time": "2023-11-08T12:05:25.8384508+00:00",
       "NumProgressed": 43800,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-08T20:05:54.2108858+00:00",
+      "NumProgressed": 43801,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8450,7 +8455,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27156
+      "UsersEstimate": 27157
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8642,7 +8647,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27594
+      "UsersEstimate": 27595
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -8754,7 +8759,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22338
+      "UsersEstimate": 22339
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -8778,7 +8783,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30222
+      "UsersEstimate": 30223
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -8810,7 +8815,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24966
+      "UsersEstimate": 24967
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -8850,7 +8855,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28908
+      "UsersEstimate": 28909
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -8906,7 +8911,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28908
+      "UsersEstimate": 28909
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -8977,15 +8982,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43800,
+      "Progressed": 43801,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-08T12:02:58.2871276+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:06:48.195883+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:05:54.2108855+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:41.2954616+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:03:17.399265+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:06:48.1959485+00:00"
+  "LastUpdate_Ratings": "2023-11-08T20:03:04.0491008+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:05:54.2109478+00:00"
 }

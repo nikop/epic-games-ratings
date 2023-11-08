@@ -1,12 +1,12 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.06 (Ranked 971)  
+Rating: 4.06 (Ranked 972)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Beginning is the End | 1.00% | ~2,002 |
+| The Beginning is the End | 1.00% | ~2,003 |
 | The End is the Beginning | 0.70% | ~1,402 |
 | Tomb of Champions | 0.50% | ~1,001 |
 | See You on the Flipside | 0.40% | ~801 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~200 |
 | Time Out | 0.10% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 233,975 (Ranked 63)  
+Progressed: 233,979 (Ranked 63)  
 Completed: 2,437 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -741,7 +741,7 @@ Completed: 2,437 (1.04%) (Ranked 154)
 | 2023-11-05 | 233,772 | 2,432 |
 | 2023-11-06 | 233,851 | 2,434 |
 | 2023-11-07 | 233,928 | 2,437 |
-| 2023-11-08 | 233,975 | 2,437 |
+| 2023-11-08 | 233,979 | 2,437 |
 ## Awards
 Max (Great for Beginners): 5,492  (Ranked 69)  
 Sum: 32,386 (Ranked 41)  

@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 331,
+  "Ranking_Rating": 332,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
@@ -14858,9 +14858,9 @@
       "Count": 12601
     }
   ],
-  "EOS_Progressed": 895800,
+  "EOS_Progressed": 895804,
   "EOS_Completed": 2757,
-  "EOS_NewPlayers": 984,
+  "EOS_NewPlayers": 982,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37753,6 +37753,11 @@
       "Time": "2023-11-08T19:03:48.7976328+00:00",
       "NumProgressed": 895800,
       "NumCompleted": 2757
+    },
+    {
+      "Time": "2023-11-08T20:03:29.6189239+00:00",
+      "NumProgressed": 895804,
+      "NumCompleted": 2757
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38300,21 +38305,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895800,
+      "Progressed": 895804,
       "Completed": 2757
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24423,
+      "Progressed": 24427,
       "Completed": 10204
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-08T16:57:19.653663+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:03:48.7976324+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:03:29.6189236+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:57:16.4724497+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:03:48.7977628+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:57:20.5245263+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:03:29.6190941+00:00"
 }

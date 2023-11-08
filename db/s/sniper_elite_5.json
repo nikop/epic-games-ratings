@@ -2,12 +2,12 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 645,
+  "Ranking_Rating": 646,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3838,
+  "EOS_Progressed": 3839,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7762,6 +7762,11 @@
       "Time": "2023-11-08T03:06:41.1974613+00:00",
       "NumProgressed": 3838,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-08T20:06:21.3463481+00:00",
+      "NumProgressed": 3839,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7829,7 +7834,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7909,7 +7914,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -7957,7 +7962,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -7981,7 +7986,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1152
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -7997,7 +8002,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8005,7 +8010,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8165,7 +8170,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8261,7 +8266,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -8269,7 +8274,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -8277,7 +8282,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -8340,13 +8345,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3789,
+      "Progressed": 3790,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3838,
+      "Progressed": 3839,
       "Completed": 11
     }
   ],
@@ -8354,8 +8359,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:07:22.902004+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:06:21.3463479+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:59:14.8795841+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:07:22.9020858+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:58:50.3258622+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:06:21.3464299+00:00"
 }

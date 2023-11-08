@@ -1,23 +1,23 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 198)  
+Rating: 4.71 (Ranked 199)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~258,437 |
-| Cavalier | 25.00% | ~201,904 |
-| Fatso | 23.00% | ~185,752 |
+| Blacksmith's Son | 32.00% | ~258,439 |
+| Cavalier | 25.00% | ~201,905 |
+| Fatso | 23.00% | ~185,753 |
 | Awakening | 21.00% | ~169,600 |
-| Ranger | 20.00% | ~161,523 |
-| Scrooge | 20.00% | ~161,523 |
+| Ranger | 20.00% | ~161,524 |
+| Scrooge | 20.00% | ~161,524 |
 | Anorectic | 16.00% | ~129,219 |
 | Bookworm | 15.00% | ~121,143 |
 | Firestarter | 15.00% | ~121,143 |
-| Insomniac | 13.00% | ~104,990 |
-| Buddy | 12.00% | ~96,914 |
-| Thief | 12.00% | ~96,914 |
+| Insomniac | 13.00% | ~104,991 |
+| Buddy | 12.00% | ~96,915 |
+| Thief | 12.00% | ~96,915 |
 | Sinner | 11.00% | ~88,838 |
 | Traveller | 11.00% | ~88,838 |
 | Convict | 10.00% | ~80,762 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~808 |
 | Wingman | 0.10% | ~808 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807,617 (Ranked 17)  
+Progressed: 807,621 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,10 +291,10 @@ Completed: 51 (0.01%) (Ranked 321)
 | 2023-11-05 | 807,329 | 51 |
 | 2023-11-06 | 807,450 | 51 |
 | 2023-11-07 | 807,542 | 51 |
-| 2023-11-08 | 807,617 | 51 |
+| 2023-11-08 | 807,621 | 51 |
 ## Awards
 Max (Character Customization): 7,582  (Ranked 50)  
-Sum: 28,186 (Ranked 50)  
+Sum: 28,187 (Ranked 50)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): 0
 | This game has Great Boss Battles | 5,563 |
 | This game has Challenging Combat | 1,771 |
 | This game has Diverse Characters | 1,719 |
-| This game has Amazing Storytelling | 1,714 |
+| This game has Amazing Storytelling | 1,715 |
 | This game is Highly Recommended | 1,689 |
 | This game is Extremely Fun | 1,687 |
 | This game has Realistic Visuals | 1,662 |
@@ -598,4 +598,4 @@ Diff (max vs sum): 0
 | 2023-11-05 | 4.71 | - | 7,577 | 28,163 |
 | 2023-11-06 | 4.71 | - | 7,579 | 28,170 |
 | 2023-11-07 | 4.71 | - | 7,582 | 28,182 |
-| 2023-11-08 | 4.71 | - | 7,582 | 28,186 |
+| 2023-11-08 | 4.71 | - | 7,582 | 28,187 |

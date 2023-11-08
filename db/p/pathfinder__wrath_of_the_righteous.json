@@ -2,7 +2,7 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 123,
+  "Ranking_Rating": 124,
   "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 151,
@@ -4139,7 +4139,7 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12049,
+  "EOS_Progressed": 12050,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -15289,6 +15289,11 @@
       "Time": "2023-11-08T15:05:13.4833256+00:00",
       "NumProgressed": 12049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T20:04:47.1313433+00:00",
+      "NumProgressed": 12050,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15388,7 +15393,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "13_PathOfLich",
@@ -15436,7 +15441,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "19_EqualToAroden",
@@ -15524,7 +15529,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "31_DivideAndRule",
@@ -15548,7 +15553,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15572,7 +15577,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -15668,7 +15673,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "49_Flame",
@@ -15684,7 +15689,7 @@
       "Name": "Hey, I Know You!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "51_DemonicAndDivine",
@@ -16227,21 +16232,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10831,
+      "Progressed": 10832,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12049,
+      "Progressed": 12050,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-07T23:02:08.8137886+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:05:24.2562377+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:04:47.131343+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:16.1536797+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:57:17.6732531+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:05:24.2563974+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:57:22.7990879+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:04:47.1314926+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "7e2ec8a47b8d41528eb6dd2efd2b1abc",
   "Name": "Disney Dreamlight Valley",
   "ProductSlug": "disney-dreamlight-valley",
-  "Ranking_Rating": 123,
+  "Ranking_Rating": 124,
   "Ranking_Popularity": 147,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 115,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -4489,11 +4489,17 @@
       "Rating": 4.76,
       "NumberOfAwards": 7864,
       "NumberOfAwardsMax": 1051
+    },
+    {
+      "Time": "2023-11-08T19:58:40.4686846+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7867,
+      "NumberOfAwardsMax": 1054
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7864,
-  "NumberOfAwardsMax": 1051,
+  "NumberOfAwards": 7867,
+  "NumberOfAwardsMax": 1054,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4506,7 +4512,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1051
+      "Count": 1054
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4565,7 +4571,7 @@
   ],
   "EOS_Progressed": 11528,
   "EOS_Completed": 272,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 252,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
@@ -18305,9 +18311,9 @@
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2023-11-08T16:58:52.4224126+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:06:45.8008655+00:00",
+  "LastChanged": "2023-11-08T19:58:40.4686842+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:05:52.1941581+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:05.8389263+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:59:02.3043159+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:06:45.8009471+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:58:40.4686849+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:05:52.1942226+00:00"
 }

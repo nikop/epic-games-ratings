@@ -1,12 +1,12 @@
 # Saturnalia
 [Store](https://store.epicgames.com/en-US/p/saturnalia)  
 [View Rawdata](../../db/s/saturnalia.json)  
-Rating: 4.26 (Ranked 864)  
+Rating: 4.26 (Ranked 865)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bonfire Lit | 4.00% | ~2,719 |
-| Out of Shape | 4.00% | ~2,719 |
+| Bonfire Lit | 4.00% | ~2,720 |
+| Out of Shape | 4.00% | ~2,720 |
 | Survival Expert | 3.00% | ~2,040 |
 | Denial | 2.00% | ~1,360 |
 | Acceptance | 2.00% | ~1,360 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 864)
 | Are you still there? | 0.40% | ~272 |
 | Ear Ringing | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,987 (Ranked 100)  
+Progressed: 67,988 (Ranked 100)  
 Completed: 18 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,7 +228,7 @@ Completed: 18 (0.03%) (Ranked 309)
 | 2023-11-05 | 67,917 | 18 |
 | 2023-11-06 | 67,945 | 18 |
 | 2023-11-07 | 67,969 | 18 |
-| 2023-11-08 | 67,987 | 18 |
+| 2023-11-08 | 67,988 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 21,
@@ -6211,10 +6211,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10924,
       "NumberOfAwardsMax": 7208
+    },
+    {
+      "Time": "2023-11-08T19:58:40.9870162+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10927,
+      "NumberOfAwardsMax": 7208
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10924,
+  "NumberOfAwards": 10927,
   "NumberOfAwardsMax": 7208,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6240,7 +6246,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 527
+      "Count": 530
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6273,9 +6279,9 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 715092,
+  "EOS_Progressed": 715115,
   "EOS_Completed": 2358,
-  "EOS_NewPlayers": 4818,
+  "EOS_NewPlayers": 4796,
   "EOS_NewCompleters": 62,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29348,6 +29354,11 @@
       "Time": "2023-11-08T19:07:09.5484326+00:00",
       "NumProgressed": 715092,
       "NumCompleted": 2358
+    },
+    {
+      "Time": "2023-11-08T20:06:10.8346263+00:00",
+      "NumProgressed": 715115,
+      "NumCompleted": 2358
     }
   ],
   "TotalAchievements": 51,
@@ -29365,9 +29376,9 @@
       "ID": "ach_a_taste_of_stardom",
       "SetID": "7km39fm",
       "Name": "Making Your Mark",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 2145
     },
     {
       "ID": "ach_ammo_ran",
@@ -29423,7 +29434,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "ach_contender",
@@ -29519,7 +29530,7 @@
       "Name": "Hotel California",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "ach_impressive_aim",
@@ -29695,7 +29706,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3575
+      "UsersEstimate": 3576
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29719,7 +29730,7 @@
       "Name": "One of Us",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ach_dark_magic",
@@ -29743,7 +29754,7 @@
       "Name": "Pork Chopped",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29766,22 +29777,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715092,
+      "Progressed": 715115,
       "Completed": 2358
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40634,
-      "Completed": 36495
+      "Progressed": 40657,
+      "Completed": 36497
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-08T18:10:06.3412603+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:07:09.5484323+00:00",
+  "LastChanged": "2023-11-08T19:58:40.9870161+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:06:10.8346261+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:59:03.0051533+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:07:09.5485468+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:58:40.9870165+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:06:10.8347774+00:00"
 }

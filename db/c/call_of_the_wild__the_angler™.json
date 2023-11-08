@@ -2,7 +2,7 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 924,
+  "Ranking_Rating": 925,
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 177,
@@ -883,9 +883,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6449,
+  "EOS_Progressed": 6450,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 242,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9688,6 +9688,11 @@
       "Time": "2023-11-08T19:09:27.8581528+00:00",
       "NumProgressed": 6449,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T20:08:53.2290722+00:00",
+      "NumProgressed": 6450,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9769,9 +9774,9 @@
       "ID": "ACHIEVEMENT_010",
       "SetID": "1a05lfd",
       "Name": "License to Gill",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_011",
@@ -10018,13 +10023,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6449,
+      "Progressed": 6450,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5821,
+      "Progressed": 5822,
       "Completed": 113
     }
   ],
@@ -10032,8 +10037,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-07T23:00:55.7232721+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:09:27.8581524+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:08:53.2290719+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:01:08.3980712+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:09:27.8582338+00:00"
+  "LastUpdate_Ratings": "2023-11-08T20:00:22.1328645+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:08:53.2291252+00:00"
 }

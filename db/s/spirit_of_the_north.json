@@ -2,13 +2,13 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 779,
+  "Ranking_Rating": 780,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 189,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -333,10 +333,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73665,
+  "EOS_Progressed": 73667,
   "EOS_Completed": 388,
-  "EOS_NewPlayers": 655,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 652,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
@@ -22608,6 +22608,11 @@
       "Time": "2023-11-08T19:09:09.2956432+00:00",
       "NumProgressed": 73665,
       "NumCompleted": 388
+    },
+    {
+      "Time": "2023-11-08T20:08:38.6758828+00:00",
+      "NumProgressed": 73667,
+      "NumCompleted": 388
     }
   ],
   "TotalAchievements": 24,
@@ -22627,7 +22632,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16206
+      "UsersEstimate": 16207
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -22635,7 +22640,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50092
+      "UsersEstimate": 50094
     },
     {
       "ID": "BEST_FRIENDS",
@@ -22643,7 +22648,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16206
+      "UsersEstimate": 16207
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -22667,7 +22672,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 20626
+      "UsersEstimate": 20627
     },
     {
       "ID": "FOXIN_AROUND",
@@ -22699,7 +22704,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39042
+      "UsersEstimate": 39044
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -22803,14 +22808,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11786
+      "UsersEstimate": 11787
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73665,
+      "Progressed": 73667,
       "Completed": 388
     }
   ],
@@ -22818,8 +22823,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:09:09.2956426+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:08:38.6758826+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:53.4635591+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:01:16.6407537+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:09:09.295774+00:00"
+  "LastUpdate_Ratings": "2023-11-08T20:00:28.421465+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:08:38.6759849+00:00"
 }

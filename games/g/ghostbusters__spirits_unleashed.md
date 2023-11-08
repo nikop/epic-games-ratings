@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 586)  
+Rating: 4.50 (Ranked 587)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,16 +15,16 @@ Rating: 4.50 (Ranked 586)
 | Swift Rift Removers | 4.00% | ~1,222 |
 | Teamwork | 4.00% | ~1,222 |
 | Vaporous Expansion | 4.00% | ~1,222 |
+| Animated | 3.00% | ~916 |
 | Clutch Capture | 3.00% | ~916 |
 | Cultured | 3.00% | ~916 |
+| Daily Dose | 3.00% | ~916 |
 | Ghostbuster In Training | 3.00% | ~916 |
 | Right back at ya | 3.00% | ~916 |
 | There you are! | 3.00% | ~916 |
 | Whoopsie | 3.00% | ~916 |
-| Animated | 2.00% | ~611 |
 | Back Off | 2.00% | ~611 |
 | We have the best insurance | 2.00% | ~611 |
-| Daily Dose | 2.00% | ~611 |
 | Ectoplasmic Entity | 2.00% | ~611 |
 | Icing on the Cake | 2.00% | ~611 |
 | Legions | 2.00% | ~611 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 586)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,547 (Ranked 122)  
+Progressed: 30,549 (Ranked 122)  
 Completed: 66 (0.22%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,16 +259,16 @@ Completed: 66 (0.22%) (Ranked 236)
 | 2023-11-05 | 30,292 | 65 |
 | 2023-11-06 | 30,390 | 65 |
 | 2023-11-07 | 30,471 | 65 |
-| 2023-11-08 | 30,547 | 66 |
+| 2023-11-08 | 30,549 | 66 |
 ## Awards
 Max (Great for Beginners): 309  (Ranked 245)  
-Sum: 2,733 (Ranked 179)  
+Sum: 2,737 (Ranked 179)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 309 |
 | This game is Great for Quick Sessions | 298 |
-| This game has Diverse Characters | 279 |
+| This game has Diverse Characters | 283 |
 | This game has Amazing Storytelling | 273 |
 | This game is Highly Recommended | 272 |
 | This game has Competitive Players | 269 |
@@ -486,4 +486,4 @@ Diff (max vs sum): 66
 | 2023-11-05 | 4.50 | 302 | 2,703 |
 | 2023-11-06 | 4.50 | 305 | 2,708 |
 | 2023-11-07 | 4.50 | 309 | 2,730 |
-| 2023-11-08 | 4.50 | 309 | 2,733 |
+| 2023-11-08 | 4.50 | 309 | 2,737 |

@@ -2,12 +2,12 @@
   "ID": "25e53de2e4ab4da8aa589d881273a11c",
   "Name": "Pillars of Eternity - Definitive Edition",
   "ProductSlug": "pillars-of-eternity",
-  "Ranking_Rating": 291,
+  "Ranking_Rating": 292,
   "Ranking_Popularity": 112,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 3532,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-12-10T16:00:00+00:00",
@@ -3245,7 +3245,7 @@
   ],
   "EOS_Progressed": 1092,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": -1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -3904,8 +3904,8 @@
   "FirstSeen": "2022-07-22T20:26:19.0250263+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.7524763+00:00",
   "LastChanged": "2023-11-07T13:58:47.8569522+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:05:27.4532012+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:04:49.6146749+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:14.0326185+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:59:39.9580096+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:05:27.4532391+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:59:13.3328198+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:04:49.6147136+00:00"
 }

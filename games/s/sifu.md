@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 63)  
+Rating: 4.82 (Ranked 64)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,378 (Ranked 20)  
+Progressed: 716,382 (Ranked 20)  
 Completed: 12,934 (1.81%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,14 +269,14 @@ Completed: 12,934 (1.81%) (Ranked 124)
 | 2023-11-05 | 716,208 | 12,933 |
 | 2023-11-06 | 716,236 | 12,933 |
 | 2023-11-07 | 716,309 | 12,933 |
-| 2023-11-08 | 716,378 | 12,934 |
+| 2023-11-08 | 716,382 | 12,934 |
 ## Awards
-Max (Great Boss Battles): 6,769  (Ranked 56)  
-Sum: 11,822 (Ranked 82)  
+Max (Great Boss Battles): 6,772  (Ranked 56)  
+Sum: 11,825 (Ranked 82)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,769 |
+| This game has Great Boss Battles | 6,772 |
 | This game has Diverse Characters | 648 |
 | This game has Challenging Combat | 598 |
 | This game has Amazing Storytelling | 580 |
@@ -586,4 +586,4 @@ Diff (max vs sum): -26
 | 2023-11-05 | 4.82 | - | 6,759 | 11,800 |
 | 2023-11-06 | 4.82 | - | 6,764 | 11,811 |
 | 2023-11-07 | 4.82 | - | 6,769 | 11,819 |
-| 2023-11-08 | 4.82 | - | 6,769 | 11,822 |
+| 2023-11-08 | 4.82 | - | 6,772 | 11,825 |

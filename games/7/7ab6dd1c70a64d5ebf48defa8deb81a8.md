@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 57.00% | ~99 |
+| Break Out | 58.00% | ~101 |
 | Trinity | 30.00% | ~52 |
 | Shatter Them All | 25.00% | ~44 |
 | I Found It | 25.00% | ~44 |
@@ -12,20 +12,20 @@
 | A Taste of Wrath | 24.00% | ~42 |
 | Fashion Victim | 24.00% | ~42 |
 | The Collector | 24.00% | ~42 |
+| Powerful Allies | 22.00% | ~38 |
 | Adventurer | 22.00% | ~38 |
 | Geared Up | 22.00% | ~38 |
 | Scholar | 22.00% | ~38 |
-| Powerful Allies | 21.00% | ~37 |
 | Tributes of Caladrias | 20.00% | ~35 |
 | Stone Collection | 18.00% | ~31 |
 | Essence Blow | 11.00% | ~19 |
+| Big Bazar | 9.00% | ~16 |
 | Airborne | 8.00% | ~14 |
-| Big Bazar | 8.00% | ~14 |
 | Alchemist | 8.00% | ~14 |
 | The Mentor | 7.00% | ~12 |
+| Miner | 6.00% | ~10 |
 | Calm before the Storm | 5.00% | ~9 |
 | Flawless Victory | 5.00% | ~9 |
-| Miner | 5.00% | ~9 |
 | To Battle | 4.00% | ~7 |
 | Godslayer | 4.00% | ~7 |
 | Clear Sight | 2.00% | ~3 |

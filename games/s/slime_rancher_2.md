@@ -1,16 +1,16 @@
 # Slime Rancher 2
 [Store](https://store.epicgames.com/en-US/p/slime-rancher-2)  
 [View Rawdata](../../db/s/slime_rancher_2.json)  
-Rating: 4.80 (Ranked 86)  
+Rating: 4.80 (Ranked 87)  
 Number of Ratings: 36  (23.09.2022)  
 ## Awards
-Max (Amazing Storytelling): 101  (Ranked 358)  
-Sum: 872 (Ranked 274)  
+Max (Great for Beginners): 101  (Ranked 358)  
+Sum: 873 (Ranked 274)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
+| This game is Great for Beginners | 101 |
 | This game has Amazing Storytelling | 101 |
-| This game is Great for Beginners | 100 |
 | This game has Quickly Understood Controls | 96 |
 | This game is Relaxing | 90 |
 | This game is Extremely Fun | 88 |
@@ -96,3 +96,4 @@ Diff (max vs sum): 84
 | 2023-10-28 | 4.80 | - | 101 | 870 |
 | 2023-10-30 | 4.80 | - | 101 | 871 |
 | 2023-11-03 | 4.80 | - | 101 | 872 |
+| 2023-11-08 | 4.80 | - | 101 | 873 |

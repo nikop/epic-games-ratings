@@ -2,12 +2,12 @@
   "ID": "48ffecf4a89f4fd496817b0451384f39",
   "Name": "Rise of the Tomb Raider: 20 Year Celebration",
   "ProductSlug": "rise-of-the-tomb-raider",
-  "Ranking_Rating": 230,
+  "Ranking_Rating": 231,
   "Ranking_Popularity": 37,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-18T13:00:00+00:00",
@@ -4580,10 +4580,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 14720,
       "NumberOfAwardsMax": 11593
+    },
+    {
+      "Time": "2023-11-08T20:00:25.7080469+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 14723,
+      "NumberOfAwardsMax": 11593
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14720,
+  "NumberOfAwards": 14723,
   "NumberOfAwardsMax": 11593,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4639,7 +4645,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 354
+      "Count": 357
     },
     {
       "Text": "This game has a Creative Community",
@@ -4665,8 +4671,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:10.6439255+00:00",
-  "LastChanged": "2023-11-08T15:59:49.9821047+00:00",
+  "LastChanged": "2023-11-08T20:00:25.7080468+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:51.7445928+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:01:13.0277112+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:08:41.4623021+00:00"
+  "LastUpdate_Ratings": "2023-11-08T20:00:25.7080473+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:08:16.6683022+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1042,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3076,9 +3076,9 @@
       "ID": "achievement_113",
       "SetID": "d252ncf",
       "Name": "Under Pressure",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 208
     },
     {
       "ID": "achievement_114",
@@ -3156,9 +3156,9 @@
       "ID": "achievement_122",
       "SetID": "d252ncf",
       "Name": "Paramour III",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_123",
@@ -3976,8 +3976,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:06:37.5463421+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:05:45.5996705+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:03:04.835379+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:06:37.546494+00:00"
+  "LastUpdate_Ratings": "2023-11-08T20:02:54.6554958+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:05:45.5998256+00:00"
 }

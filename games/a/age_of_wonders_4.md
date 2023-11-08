@@ -1,12 +1,14 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 410)  
+Rating: 4.60 (Ranked 411)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 0.60% | ~32 |
 | Secret Technique | 0.20% | ~11 |
+| Walls Cannot Stop Us | 0.20% | ~11 |
+| Freed Lands of Manuhari | 0.20% | ~11 |
 | Spoils of War | 0.20% | ~11 |
 | Valley of Wonders | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
@@ -19,7 +21,6 @@ Rating: 4.60 (Ranked 410)
 | Eternal Lord | 0.10% | ~5 |
 | Realm Estate | 0.10% | ~5 |
 | A Wonderful Discovery | 0.10% | ~5 |
-| Walls Cannot Stop Us | 0.10% | ~5 |
 | Bone Peddler | 0.10% | ~5 |
 | Digging for Treasure | 0.10% | ~5 |
 | From Friends to Family | 0.10% | ~5 |
@@ -42,7 +43,6 @@ Rating: 4.60 (Ranked 410)
 | Tipping the Scales | 0.10% | ~5 |
 | Blood of the Dragon | 0.10% | ~5 |
 | Mighty Hoard | 0.10% | ~5 |
-| Freed Lands of Manuhari | 0.10% | ~5 |
 | Sehiran Oasis | 0.10% | ~5 |
 | Prometheus Avenged | 0.10% | ~5 |
 | Chaos Surge | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 410)
 | Duality | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,293 (Ranked 183)  
+Progressed: 5,296 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,15 +236,15 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-05 | 5,274 | 7 |
 | 2023-11-06 | 5,276 | 7 |
 | 2023-11-07 | 5,285 | 7 |
-| 2023-11-08 | 5,293 | 7 |
+| 2023-11-08 | 5,296 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
-Sum: 51 (Ranked 477)  
-Diff (max vs sum): 10  
+Sum: 52 (Ranked 474)  
+Diff (max vs sum): 13  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 31 |
-| This game has Diverse Characters | 20 |
+| This game has Diverse Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -303,3 +303,4 @@ Diff (max vs sum): 10
 | 2023-10-31 | 4.60 | 28 | 28 |
 | 2023-11-02 | 4.60 | 30 | 30 |
 | 2023-11-07 | 4.60 | 31 | 51 |
+| 2023-11-08 | 4.60 | 31 | 52 |

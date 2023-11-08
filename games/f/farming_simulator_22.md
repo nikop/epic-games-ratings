@@ -1,28 +1,28 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 230)  
+Rating: 4.69 (Ranked 231)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,473 |
-| I read Shakespeare and stuff | 64.00% | ~32,830 |
-| Just a sprinkle | 62.00% | ~31,804 |
-| I'm stumped | 61.00% | ~31,291 |
-| Plant get enough | 60.00% | ~30,778 |
-| This is just my weekend vehicle | 58.00% | ~29,752 |
-| It's just the beginning | 58.00% | ~29,752 |
-| Hard work pays off | 53.00% | ~27,187 |
-| It's never too late to farm | 51.00% | ~26,161 |
-| All out of Land | 45.00% | ~23,084 |
-| Field Trip | 44.00% | ~22,571 |
-| I like to switch it up | 40.00% | ~20,519 |
-| Help me to help you | 38.00% | ~19,493 |
-| Ultimutt Pawesomeness | 28.00% | ~14,363 |
-| Van Gogh | 26.00% | ~13,337 |
-| You wood not believe it | 22.00% | ~11,285 |
-| Vehicle fleet | 22.00% | ~11,285 |
+| Own use | 75.00% | ~38,476 |
+| I read Shakespeare and stuff | 64.00% | ~32,833 |
+| Just a sprinkle | 62.00% | ~31,807 |
+| I'm stumped | 61.00% | ~31,294 |
+| Plant get enough | 60.00% | ~30,781 |
+| This is just my weekend vehicle | 58.00% | ~29,755 |
+| It's just the beginning | 58.00% | ~29,755 |
+| Hard work pays off | 53.00% | ~27,190 |
+| It's never too late to farm | 51.00% | ~26,164 |
+| All out of Land | 45.00% | ~23,085 |
+| Field Trip | 44.00% | ~22,572 |
+| I like to switch it up | 40.00% | ~20,520 |
+| Help me to help you | 38.00% | ~19,494 |
+| Ultimutt Pawesomeness | 28.00% | ~14,364 |
+| Van Gogh | 26.00% | ~13,338 |
+| You wood not believe it | 22.00% | ~11,286 |
+| Vehicle fleet | 22.00% | ~11,286 |
 | The plot thickens | 16.00% | ~8,208 |
 | Large-scale supplier | 16.00% | ~8,208 |
 | Well-Oiled Machine | 16.00% | ~8,208 |
@@ -44,13 +44,13 @@ Number of Ratings: 7,683  (23.09.2022)
 | Pretty colourful | 0.80% | ~410 |
 | Original grain | 0.80% | ~410 |
 | Thoroughbred! | 0.60% | ~308 |
-| Gone but not for cotton | 0.50% | ~256 |
+| Gone but not for cotton | 0.50% | ~257 |
 | Cheese it | 0.40% | ~205 |
 | Olea europaea | 0.40% | ~205 |
 | You are not a kangaroo | 0.40% | ~205 |
 | Raisin the stakes | 0.30% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,297 (Ranked 108)  
+Progressed: 51,301 (Ranked 109)  
 Completed: 6 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 6 (0.01%) (Ranked 321)
 | 2023-11-05 | 51,184 | 6 |
 | 2023-11-06 | 51,225 | 6 |
 | 2023-11-07 | 51,265 | 6 |
-| 2023-11-08 | 51,297 | 6 |
+| 2023-11-08 | 51,301 | 6 |
 ## Awards
 Max (Great for Beginners): 5,438  (Ranked 70)  
 Sum: 42,367 (Ranked 33)  

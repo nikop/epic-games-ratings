@@ -1,26 +1,26 @@
 # Q.U.B.E. 2
 [Store](https://store.epicgames.com/en-US/p/q-u-b-e-2)  
 [View Rawdata](../../db/q/q.u.b.e._2.json)  
-Rating: 4.46 (Ranked 645)  
+Rating: 4.46 (Ranked 646)  
 Number of Ratings: 94  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~28,296 |
-| Quick Understanding of Block Extrusion | 68.00% | ~25,655 |
-| Nature or Nurture | 51.00% | ~19,241 |
-| Power Glove | 49.00% | ~18,487 |
-| Forgotten Memories | 42.00% | ~15,846 |
-| Cogs in the Machine | 35.00% | ~13,205 |
-| Mission Success | 21.00% | ~7,923 |
-| There's No Place Like Home | 21.00% | ~7,923 |
-| Green Cube Killer | 18.00% | ~6,791 |
-| Path to Salvation | 16.00% | ~6,036 |
-| Infinity Loop | 15.00% | ~5,659 |
-| Descendants | 13.00% | ~4,905 |
-| The Flawed Teacher | 11.00% | ~4,150 |
-| To Infinity and Beyond | 5.00% | ~1,886 |
-| The Truthful Enemy | 4.00% | ~1,509 |
+| Lost in Space | 75.00% | ~28,306 |
+| Quick Understanding of Block Extrusion | 68.00% | ~25,664 |
+| Nature or Nurture | 51.00% | ~19,248 |
+| Power Glove | 49.00% | ~18,493 |
+| Forgotten Memories | 42.00% | ~15,851 |
+| Cogs in the Machine | 35.00% | ~13,209 |
+| Mission Success | 21.00% | ~7,926 |
+| There's No Place Like Home | 21.00% | ~7,926 |
+| Green Cube Killer | 18.00% | ~6,793 |
+| Path to Salvation | 16.00% | ~6,039 |
+| Infinity Loop | 15.00% | ~5,661 |
+| Descendants | 13.00% | ~4,906 |
+| The Flawed Teacher | 11.00% | ~4,152 |
+| To Infinity and Beyond | 5.00% | ~1,887 |
+| The Truthful Enemy | 4.00% | ~1,510 |
 | Laser Sharp | 2.00% | ~755 |
 | True collector | 1.00% | ~377 |
 | Bronze collector | 1.00% | ~377 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 0.90% | ~340 |
 | Expert Collector | 0.90% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37,728 (Ranked 118)  
+Progressed: 37,741 (Ranked 118)  
 Completed: 131 (0.35%) (Ranked 216)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 131 (0.35%) (Ranked 216)
 | 2023-11-05 | 37,093 | 121 |
 | 2023-11-06 | 37,341 | 124 |
 | 2023-11-07 | 37,556 | 128 |
-| 2023-11-08 | 37,728 | 131 |
+| 2023-11-08 | 37,741 | 131 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

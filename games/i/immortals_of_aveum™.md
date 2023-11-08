@@ -1,28 +1,28 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.02 (Ranked 985)  
+Rating: 4.02 (Ranked 986)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~176 |
+| Unforeseen | 87.00% | ~177 |
 | Battlefields Have Memories | 82.00% | ~166 |
-| Enlisted | 78.00% | ~158 |
-| Maybe Engage a Little | 74.00% | ~149 |
-| No More Names | 61.00% | ~123 |
+| Enlisted | 79.00% | ~160 |
+| Maybe Engage a Little | 74.00% | ~150 |
+| No More Names | 61.00% | ~124 |
 | Initiate | 49.00% | ~99 |
 | Thrada-Kul | 45.00% | ~91 |
-| Gravity-Challenged Rocks | 35.00% | ~71 |
+| Gravity-Challenged Rocks | 34.00% | ~69 |
 | Soldier | 29.00% | ~59 |
 | All the Major Food Groups | 29.00% | ~59 |
 | Socialite | 26.00% | ~53 |
 | Beggars Would Ride | 26.00% | ~53 |
-| Control is an Illusion | 25.00% | ~50 |
-| The Means to Save It | 21.00% | ~42 |
-| Resilience to Sin | 19.00% | ~38 |
-| A Familiar Nest | 18.00% | ~36 |
-| Periapt Alizarin | 18.00% | ~36 |
-| Geas Aristeya | 17.00% | ~34 |
+| Control is an Illusion | 25.00% | ~51 |
+| The Means to Save It | 21.00% | ~43 |
+| Resilience to Sin | 19.00% | ~39 |
+| A Familiar Nest | 18.00% | ~37 |
+| Periapt Alizarin | 18.00% | ~37 |
+| Geas Aristeya | 17.00% | ~35 |
 | A Perfect Cycle | 15.00% | ~30 |
 | Recruit | 15.00% | ~30 |
 | Armsman | 15.00% | ~30 |
@@ -53,8 +53,8 @@ Rating: 4.02 (Ranked 985)
 | Tip of the Spear | 1.00% | ~2 |
 | Fowl Play | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 202 (Ranked 367)  
-Completed: 1 (0.50%) (Ranked 195)  
+Progressed: 203 (Ranked 366)  
+Completed: 1 (0.49%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,7 +100,7 @@ Completed: 1 (0.50%) (Ranked 195)
 | 2023-11-05 | 161 | 1 |
 | 2023-11-06 | 172 | 1 |
 | 2023-11-07 | 184 | 1 |
-| 2023-11-08 | 202 | 1 |
+| 2023-11-08 | 203 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

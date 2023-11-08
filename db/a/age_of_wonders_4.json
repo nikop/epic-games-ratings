@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 410,
+  "Ranking_Rating": 411,
   "Ranking_Popularity": 487,
-  "Ranking_PopularitySum": 477,
+  "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -397,10 +397,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 51,
       "NumberOfAwardsMax": 31
+    },
+    {
+      "Time": "2023-11-08T19:59:43.5707763+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 52,
+      "NumberOfAwardsMax": 31
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51,
+  "NumberOfAwards": 52,
   "NumberOfAwardsMax": 31,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -414,12 +420,12 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 5293,
+  "EOS_Progressed": 5296,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6737,6 +6743,11 @@
       "Time": "2023-11-08T17:07:23.1886686+00:00",
       "NumProgressed": 5293,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T20:06:36.1413093+00:00",
+      "NumProgressed": 5296,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6882,9 +6893,9 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "26",
@@ -7146,9 +7157,9 @@
       "ID": "51",
       "SetID": "7132754",
       "Name": "Freed Lands of Manuhari",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "52",
@@ -7227,22 +7238,22 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5293,
+      "Progressed": 5296,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5293,
+      "Progressed": 5296,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-11-07T13:03:36.0070967+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:07:41.8894986+00:00",
+  "LastChanged": "2023-11-08T19:59:43.5707761+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:06:36.141309+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:00:17.9435938+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:07:41.8895626+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:59:43.5707765+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:06:36.1413741+00:00"
 }

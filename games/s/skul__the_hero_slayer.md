@@ -1,7 +1,7 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.72 (Ranked 184)  
+Rating: 4.72 (Ranked 185)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,8 +16,8 @@ Number of Ratings: 546  (23.09.2022)
 | Quick Movements | 35.00% | ~2,894 |
 | Inventory Management | 35.00% | ~2,894 |
 | The Fall of the Leonia Order | 32.00% | ~2,646 |
+| The Hero Killer | 30.00% | ~2,481 |
 | Go Home... | 29.00% | ~2,398 |
-| The Hero Killer | 29.00% | ~2,398 |
 | The Final Battle of the First Hero | 28.00% | ~2,315 |
 | Brain at Full Throttle | 24.00% | ~1,985 |
 | Rookies Welcome | 20.00% | ~1,654 |

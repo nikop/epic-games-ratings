@@ -2,12 +2,12 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 564,
+  "Ranking_Rating": 565,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
@@ -8195,10 +8195,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 11037,
       "NumberOfAwardsMax": 2977
+    },
+    {
+      "Time": "2023-11-08T19:57:59.761572+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 11040,
+      "NumberOfAwardsMax": 2977
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11037,
+  "NumberOfAwards": 11040,
   "NumberOfAwardsMax": 2977,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8266,7 +8272,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 580
+      "Count": 583
     },
     {
       "Text": "This game has a Kind Community",
@@ -8299,8 +8305,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-11-08T15:57:34.0841881+00:00",
+  "LastChanged": "2023-11-08T19:57:59.7615718+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:39.9564583+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:58:04.5787862+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:08:13.6695259+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:57:59.7615723+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:06:45.154968+00:00"
 }

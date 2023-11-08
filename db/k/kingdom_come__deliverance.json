@@ -2,7 +2,7 @@
   "ID": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "Name": "Kingdom Come: Deliverance",
   "ProductSlug": "kingdom-come-deliverance",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 199,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 17,
@@ -8335,10 +8335,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28186,
       "NumberOfAwardsMax": 7582
+    },
+    {
+      "Time": "2023-11-08T20:02:43.5434984+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28187,
+      "NumberOfAwardsMax": 7582
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28186,
+  "NumberOfAwards": 28187,
   "NumberOfAwardsMax": 7582,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8394,7 +8400,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1714
+      "Count": 1715
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -8421,7 +8427,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 807617,
+  "EOS_Progressed": 807621,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 837,
   "EOS_NewCompleters": 0,
@@ -31096,6 +31102,11 @@
       "Time": "2023-11-08T19:04:40.1909337+00:00",
       "NumProgressed": 807617,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-08T20:04:10.4687338+00:00",
+      "NumProgressed": 807621,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -31187,7 +31198,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258437
+      "UsersEstimate": 258439
     },
     {
       "ID": "Bookworm",
@@ -31203,7 +31214,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96914
+      "UsersEstimate": 96915
     },
     {
       "ID": "Casanova",
@@ -31219,7 +31230,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201904
+      "UsersEstimate": 201905
     },
     {
       "ID": "Chivalrous",
@@ -31307,7 +31318,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185752
+      "UsersEstimate": 185753
     },
     {
       "ID": "Fighter",
@@ -31427,7 +31438,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104990
+      "UsersEstimate": 104991
     },
     {
       "ID": "Judas",
@@ -31587,7 +31598,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161523
+      "UsersEstimate": 161524
     },
     {
       "ID": "RevenantOfLedechko",
@@ -31627,7 +31638,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161523
+      "UsersEstimate": 161524
     },
     {
       "ID": "SerialKiller",
@@ -31683,7 +31694,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 96914
+      "UsersEstimate": 96915
     },
     {
       "ID": "TisButAScratch",
@@ -31762,15 +31773,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 807617,
+      "Progressed": 807621,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-08T18:19:19.7100727+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:04:40.1909334+00:00",
+  "LastChanged": "2023-11-08T20:02:43.5434983+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:04:10.4687333+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.089213+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:02:49.9007489+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:04:40.1910926+00:00"
+  "LastUpdate_Ratings": "2023-11-08T20:02:43.5434989+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:04:10.4688953+00:00"
 }

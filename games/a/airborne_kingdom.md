@@ -1,7 +1,7 @@
 # Airborne Kingdom
 [Store](https://store.epicgames.com/en-US/p/airborne-kingdom)  
 [View Rawdata](../../db/a/airborne_kingdom.json)  
-Rating: 4.65 (Ranked 310)  
+Rating: 4.65 (Ranked 312)  
 Number of Ratings: 74  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,9 +17,9 @@ Number of Ratings: 74  (23.09.2022)
 | Daylight Found | 26.00% | ~1,939 |
 | Irons Scorched | 25.00% | ~1,864 |
 | Islands Connected | 25.00% | ~1,864 |
+| Travelers Returned | 24.00% | ~1,790 |
 | Harp Tuned | 23.00% | ~1,715 |
 | Pyre Ignited | 23.00% | ~1,715 |
-| Travelers Returned | 23.00% | ~1,715 |
 | Hopes Hoisted | 22.00% | ~1,641 |
 | Knowledge Shared | 20.00% | ~1,491 |
 | Relic Finder | 20.00% | ~1,491 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~149 |
 | A True Challenge | 2.00% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,457 (Ranked 169)  
+Progressed: 7,457 (Ranked 170)  
 Completed: 58 (0.78%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,16 +1,16 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 123)  
+Rating: 4.76 (Ranked 124)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Devoured by Darkness | 26.00% | ~3,133 |
-| A Spark | 19.00% | ~2,289 |
+| A Spark | 19.00% | ~2,290 |
 | Burning City | 18.00% | ~2,169 |
-| Mythic Choices | 15.00% | ~1,807 |
-| Defender's Heart | 15.00% | ~1,807 |
+| Mythic Choices | 15.00% | ~1,808 |
+| Defender's Heart | 15.00% | ~1,808 |
 | Banner over the Citadel | 13.00% | ~1,566 |
 | Queen's Gratitude | 12.00% | ~1,446 |
 | Fifth Crusade | 8.00% | ~964 |
@@ -29,10 +29,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Mythic Reinforcements | 4.00% | ~482 |
 | A Flame | 4.00% | ~482 |
 | Get the Toad | 4.00% | ~482 |
-| Path of the Trickster | 3.00% | ~361 |
-| Heroic Victory | 3.00% | ~361 |
-| Core of the Riddle | 3.00% | ~361 |
-| Hey, I Know You! | 3.00% | ~361 |
+| Path of the Trickster | 3.00% | ~362 |
+| Heroic Victory | 3.00% | ~362 |
+| Core of the Riddle | 3.00% | ~362 |
+| Hey, I Know You! | 3.00% | ~362 |
 | The Lady of the Forest | 3.00% | ~325 |
 | Beware Still Water | 3.00% | ~325 |
 | Path of the Demon | 2.00% | ~241 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,049 (Ranked 151)  
+Progressed: 12,050 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 12,030 | 0 |
 | 2023-11-06 | 12,036 | 0 |
 | 2023-11-07 | 12,043 | 0 |
-| 2023-11-08 | 12,049 | 0 |
+| 2023-11-08 | 12,050 | 0 |
 ## Awards
 Max (Character Customization): 1,736  (Ranked 121)  
 Sum: 7,035 (Ranked 119)  

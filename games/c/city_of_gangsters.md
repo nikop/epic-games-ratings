@@ -1,34 +1,34 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 846)  
+Rating: 4.28 (Ranked 847)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,177 |
-| Copacetic Coordination | 16.00% | ~56,230 |
-| Fronting the Money | 15.00% | ~52,716 |
-| The Dawn of Automation | 14.00% | ~49,202 |
-| Extraordinary Logistics | 14.00% | ~49,202 |
-| Dirty Money | 13.00% | ~45,687 |
-| Family First | 13.00% | ~45,687 |
-| Cleaning House | 12.00% | ~42,173 |
-| Room in the Back | 12.00% | ~42,173 |
-| Beating the Heat | 11.00% | ~38,658 |
-| Booze Baron | 11.00% | ~38,658 |
-| Friends on the Force | 10.00% | ~35,144 |
-| Neighborhood Watch | 10.00% | ~35,144 |
-| Core Corps | 8.00% | ~28,115 |
-| Sizeable Stash | 8.00% | ~28,115 |
+| Corner Clout | 47.00% | ~165,181 |
+| Copacetic Coordination | 16.00% | ~56,232 |
+| Fronting the Money | 15.00% | ~52,717 |
+| The Dawn of Automation | 14.00% | ~49,203 |
+| Extraordinary Logistics | 14.00% | ~49,203 |
+| Dirty Money | 13.00% | ~45,688 |
+| Family First | 13.00% | ~45,688 |
+| Cleaning House | 12.00% | ~42,174 |
+| Room in the Back | 12.00% | ~42,174 |
+| Beating the Heat | 11.00% | ~38,659 |
+| Booze Baron | 11.00% | ~38,659 |
+| Friends on the Force | 10.00% | ~35,145 |
+| Neighborhood Watch | 10.00% | ~35,145 |
+| Core Corps | 8.00% | ~28,116 |
+| Sizeable Stash | 8.00% | ~28,116 |
 | Street Fighter | 7.00% | ~24,601 |
 | Friendly Gestures | 7.00% | ~24,601 |
 | People Person | 7.00% | ~24,601 |
-| Liquor Lord | 6.00% | ~21,086 |
-| Safety in Numbers | 6.00% | ~21,086 |
-| Moving Experiences | 6.00% | ~21,086 |
-| Wise Head | 6.00% | ~21,086 |
-| Show ‘em the Sugar | 6.00% | ~21,086 |
-| Killing Them Softly | 6.00% | ~21,086 |
+| Liquor Lord | 6.00% | ~21,087 |
+| Safety in Numbers | 6.00% | ~21,087 |
+| Moving Experiences | 6.00% | ~21,087 |
+| Wise Head | 6.00% | ~21,087 |
+| Show ‘em the Sugar | 6.00% | ~21,087 |
+| Killing Them Softly | 6.00% | ~21,087 |
 | Street Knowledge | 5.00% | ~17,572 |
 | Oh Captain | 5.00% | ~17,572 |
 | Branching Out | 5.00% | ~17,572 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 846)
 | High Pillow | 0.10% | ~351 |
 | Station Master | 0.10% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351,440 (Ranked 47)  
+Progressed: 351,448 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-05 | 351,094 | 7 |
 | 2023-11-06 | 351,245 | 7 |
 | 2023-11-07 | 351,352 | 7 |
-| 2023-11-08 | 351,440 | 7 |
+| 2023-11-08 | 351,448 | 7 |
 ## Awards
 Max (Great for Beginners): 44  (Ranked 447)  
 Sum: 187 (Ranked 405)  

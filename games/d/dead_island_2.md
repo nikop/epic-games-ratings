@@ -1,16 +1,16 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 522)  
+Rating: 4.54 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 2.00% | ~813 |
-| One of Us | 1.00% | ~406 |
-| Pork Chopped | 1.00% | ~406 |
-| Break A Leg | 0.50% | ~3,575 |
-| Hotel California | 0.50% | ~3,575 |
-| Welcome To Hell-A | 0.50% | ~3,575 |
+| One of Us | 1.00% | ~407 |
+| Pork Chopped | 1.00% | ~407 |
+| Break A Leg | 0.50% | ~3,576 |
+| Hotel California | 0.50% | ~3,576 |
+| Welcome To Hell-A | 0.50% | ~3,576 |
 | Dr. Reed, I Presume? | 0.40% | ~2,860 |
 | Git Gutte! | 0.40% | ~2,860 |
 | Anger Management | 0.40% | ~2,860 |
@@ -22,6 +22,7 @@ Rating: 4.54 (Ranked 522)
 | Stacking the Deck | 0.40% | ~2,860 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,860 |
 | This is My Weapon | 0.40% | ~2,860 |
+| Making Your Mark | 0.30% | ~2,145 |
 | Perks of the Job | 0.30% | ~2,145 |
 | I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,145 |
 | But Doctor, I am Butcho | 0.30% | ~2,145 |
@@ -35,7 +36,6 @@ Rating: 4.54 (Ranked 522)
 | I Am the Resurrection | 0.30% | ~2,145 |
 | Max Headroom | 0.30% | ~2,145 |
 | Our True Nature | 0.30% | ~2,145 |
-| Making Your Mark | 0.20% | ~1,430 |
 | On Safari | 0.20% | ~1,430 |
 | Internet Famous | 0.20% | ~1,430 |
 | Jumbo Keyring | 0.20% | ~1,430 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,092 (Ranked 21)  
+Progressed: 715,115 (Ranked 21)  
 Completed: 2,358 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,15 +259,15 @@ Completed: 2,358 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 715,092 | 2,358 |
+| 2023-11-08 | 715,115 | 2,358 |
 ## Awards
 Max (Great Boss Battles): 7,208  (Ranked 54)  
-Sum: 10,924 (Ranked 87)  
+Sum: 10,927 (Ranked 87)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,208 |
-| This game is Great for Beginners | 527 |
+| This game is Great for Beginners | 530 |
 | This game has Diverse Characters | 521 |
 | This game has Quickly Understood Controls | 497 |
 | This game is Relaxing | 463 |
@@ -479,4 +479,4 @@ Diff (max vs sum): -33
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
-| 2023-11-08 | 4.54 | 7,208 | 10,924 |
+| 2023-11-08 | 4.54 | 7,208 | 10,927 |

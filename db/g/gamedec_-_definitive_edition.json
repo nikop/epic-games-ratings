@@ -2,12 +2,12 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 837,
+  "Ranking_Rating": 838,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -477,9 +477,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 251460,
+  "EOS_Progressed": 251466,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23107,6 +23107,11 @@
       "Time": "2023-11-08T19:06:38.0502877+00:00",
       "NumProgressed": 251460,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T20:05:45.9582866+00:00",
+      "NumProgressed": 251466,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23118,7 +23123,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67894
+      "UsersEstimate": 67896
     },
     {
       "ID": "ACH_AON",
@@ -23142,7 +23147,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10058
+      "UsersEstimate": 10059
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -23158,7 +23163,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30175
+      "UsersEstimate": 30176
     },
     {
       "ID": "ACH_ENJOY",
@@ -23182,7 +23187,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32690
+      "UsersEstimate": 32691
     },
     {
       "ID": "ACH_HATTRICK",
@@ -23198,7 +23203,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22631
+      "UsersEstimate": 22632
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -23262,7 +23267,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70409
+      "UsersEstimate": 70410
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -23286,7 +23291,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10058
+      "UsersEstimate": 10059
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -23334,7 +23339,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62865
+      "UsersEstimate": 62866
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -23390,7 +23395,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17602
+      "UsersEstimate": 17603
     },
     {
       "ID": "ACH_MEMESMART",
@@ -23438,7 +23443,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62865
+      "UsersEstimate": 62866
     },
     {
       "ID": "ACH_SOREAD",
@@ -23446,7 +23451,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10058
+      "UsersEstimate": 10059
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -23533,7 +23538,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251460,
+      "Progressed": 251466,
       "Completed": 7
     }
   ],
@@ -23541,8 +23546,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-08T19:06:38.0502875+00:00",
+  "LastChanged_Achievements": "2023-11-08T20:05:45.9582864+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.5962658+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:59:32.8058015+00:00",
-  "LastUpdate_Achievements": "2023-11-08T19:06:38.050434+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:59:06.765162+00:00",
+  "LastUpdate_Achievements": "2023-11-08T20:05:45.9584728+00:00"
 }

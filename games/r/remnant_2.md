@@ -1,29 +1,29 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 143)  
+Rating: 4.75 (Ranked 144)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,701 |
-| The Killing Jar | 8.00% | ~17,512 |
-| Expanding Horizons | 7.00% | ~15,323 |
-| Quest for Survival | 7.00% | ~15,323 |
-| Not Your Average Trait | 7.00% | ~15,323 |
-| Gleaming the Cube | 6.00% | ~13,134 |
-| Familiar Face | 6.00% | ~13,134 |
-| Duality | 6.00% | ~13,134 |
-| Boss'n Up | 6.00% | ~13,134 |
-| Trait Chaser | 6.00% | ~13,134 |
-| Not So Special Now | 5.00% | ~10,945 |
-| Not a Janitor | 5.00% | ~10,945 |
-| Equal Measures | 5.00% | ~10,945 |
-| Blue Goddess | 5.00% | ~10,945 |
-| Top Performer | 5.00% | ~10,945 |
-| Shhh...It's a Secret | 5.00% | ~10,945 |
-| Almost There | 5.00% | ~10,945 |
-| Make Some Room | 5.00% | ~10,945 |
-| Good, But Could Be Better! | 5.00% | ~10,945 |
+| First of Many | 9.00% | ~19,702 |
+| The Killing Jar | 8.00% | ~17,513 |
+| Expanding Horizons | 7.00% | ~15,324 |
+| Quest for Survival | 7.00% | ~15,324 |
+| Not Your Average Trait | 7.00% | ~15,324 |
+| Gleaming the Cube | 6.00% | ~13,135 |
+| Familiar Face | 6.00% | ~13,135 |
+| Duality | 6.00% | ~13,135 |
+| Boss'n Up | 6.00% | ~13,135 |
+| Trait Chaser | 6.00% | ~13,135 |
+| Not So Special Now | 5.00% | ~10,946 |
+| Not a Janitor | 5.00% | ~10,946 |
+| Equal Measures | 5.00% | ~10,946 |
+| Blue Goddess | 5.00% | ~10,946 |
+| Top Performer | 5.00% | ~10,946 |
+| Shhh...It's a Secret | 5.00% | ~10,946 |
+| Almost There | 5.00% | ~10,946 |
+| Make Some Room | 5.00% | ~10,946 |
+| Good, But Could Be Better! | 5.00% | ~10,946 |
 | Chaos | 4.00% | ~8,756 |
 | Traitor | 4.00% | ~8,756 |
 | Power Surge | 4.00% | ~8,756 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 143)
 | Cutting Edge | 1.00% | ~2,189 |
 | Proving Grounds | 1.00% | ~2,189 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,898 (Ranked 68)  
+Progressed: 218,910 (Ranked 68)  
 Completed: 435 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 435 (0.20%) (Ranked 244)
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
 | 2023-11-07 | 218,702 | 433 |
-| 2023-11-08 | 218,898 | 435 |
+| 2023-11-08 | 218,910 | 435 |
 ## Awards
 Max (Great Boss Battles): 2,109  (Ranked 109)  
 Sum: 4,724 (Ranked 144)  

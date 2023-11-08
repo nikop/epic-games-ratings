@@ -1,11 +1,11 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 501)  
+Rating: 4.55 (Ranked 502)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 6.00% | ~885 |
+| Oyedang, Kopengs | 6.00% | ~886 |
 | The Pit and the Pirates | 3.00% | ~443 |
 | Bosmang | 3.00% | ~443 |
 | Data Archivist | 2.00% | ~295 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 501)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,758 (Ranked 146)  
+Progressed: 14,761 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 33 (0.22%) (Ranked 236)
 | 2023-11-05 | 14,691 | 32 |
 | 2023-11-06 | 14,715 | 33 |
 | 2023-11-07 | 14,744 | 33 |
-| 2023-11-08 | 14,758 | 33 |
+| 2023-11-08 | 14,761 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
