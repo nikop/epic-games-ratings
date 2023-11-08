@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.22% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.20% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [greensheen Production](games/g/greensheen_production.md) | 35.71% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
@@ -81,8 +81,8 @@
 | 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.19% |
 | 80 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.15% |
 | 81 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
-| 82 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
-| 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.75% |
+| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.75% |
+| 82 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
 | 84 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.45% |
 | 85 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.40% |
 | 86 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.37% |
@@ -125,7 +125,7 @@
 | 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 124 | [Sifu](games/s/sifu.md) | 1.81% |
 | 125 | [Frogun](games/f/frogun.md) | 1.79% |
-| 125 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.79% |
+| 126 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.78% |
 | 127 | [Somerville](games/s/somerville.md) | 1.75% |
 | 128 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.72% |
 | 129 | [Night Book](games/n/night_book.md) | 1.68% |
@@ -134,7 +134,7 @@
 | 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.58% |
 | 133 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.53% |
-| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.51% |
+| 133 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.53% |
 | 136 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 137 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
 | 138 | [Late Shift](games/l/late_shift.md) | 1.42% |
@@ -159,7 +159,7 @@
 | 157 | [Trifox](games/t/trifox.md) | 0.98% |
 | 158 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 158 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
-| 160 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
+| 160 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
 | 161 | [Hades](games/h/hades.md) | 0.91% |
 | 161 | [The Devil's Face](games/t/the_devil's_face.md) | 0.91% |
 | 163 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
@@ -193,9 +193,9 @@
 | 189 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.53% |
 | 192 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.52% |
 | 193 | [Eternights](games/e/eternights.md) | 0.51% |
-| 193 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.51% |
 | 193 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.51% |
-| 196 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
+| 195 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
+| 195 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.50% |
 | 197 | [Dead Space](games/d/dead_space.md) | 0.49% |
 | 198 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
 | 198 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
@@ -266,14 +266,14 @@
 | 264 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
 | 265 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
 | 265 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.11% |
-| 265 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.11% |
 | 265 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 269 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 269 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
-| 269 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 269 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.10% |
-| 269 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
-| 269 | [Supraland](games/s/supraland.md) | 0.10% |
+| 268 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 268 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
+| 268 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.10% |
+| 268 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 268 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.10% |
+| 268 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
+| 268 | [Supraland](games/s/supraland.md) | 0.10% |
 | 275 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 275 | [Black Book](games/b/black_book.md) | 0.09% |
 | 275 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.09% |
