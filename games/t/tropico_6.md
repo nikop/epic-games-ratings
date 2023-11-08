@@ -6,37 +6,37 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,386 |
-| Un-Lonely Island | 47.00% | ~2,749 |
+| Just One...More...Term... | 75.00% | ~4,388 |
+| Un-Lonely Island | 47.00% | ~2,750 |
 | The Beginning of a Servantship | 45.00% | ~2,632 |
 | Trade Is My Trait | 37.00% | ~2,164 |
 | Number 18 | 24.00% | ~1,404 |
-| We Don't Have Time For That | 19.00% | ~1,111 |
-| The Governator | 17.00% | ~994 |
+| We Don't Have Time For That | 19.00% | ~1,112 |
+| The Governator | 17.00% | ~995 |
+| Caribbean Comrade | 16.00% | ~936 |
 | The Legend of Langostino | 16.00% | ~936 |
-| Caribbean Comrade | 15.00% | ~877 |
-| The Dreamer of Dreams | 15.00% | ~877 |
-| Go Sovereigns! | 11.00% | ~643 |
-| For Science! | 11.00% | ~643 |
+| The Dreamer of Dreams | 15.00% | ~878 |
+| Go Sovereigns! | 11.00% | ~644 |
+| For Science! | 11.00% | ~644 |
 | Happy Ending? | 10.00% | ~585 |
 | Of Seals And Men | 10.00% | ~585 |
-| Shackadelic | 9.00% | ~526 |
+| Shackadelic | 10.00% | ~585 |
 | Double Trouble | 8.00% | ~468 |
 | Firestarter | 8.00% | ~468 |
-| I Owe You Nothing | 7.00% | ~409 |
-| Make Tropico Great Again! | 7.00% | ~409 |
-| French Connection | 7.00% | ~409 |
+| I Owe You Nothing | 7.00% | ~410 |
+| Make Tropico Great Again! | 7.00% | ~410 |
+| French Connection | 7.00% | ~410 |
 | Don't Panic! | 6.00% | ~351 |
 | Beware The Betman | 6.00% | ~351 |
 | Viva Tropico! | 5.00% | ~292 |
 | Computer Says "No" | 5.00% | ~292 |
 | Watch The World Burn | 5.00% | ~292 |
 | Fairy Tale Come True | 5.00% | ~292 |
-| Been there, Done That | 3.00% | ~175 |
-| Apocalypso | 3.00% | ~175 |
-| Narcissist | 3.00% | ~175 |
-| Promising Endeavors | 3.00% | ~175 |
-| The Time For Wonders | 3.00% | ~175 |
+| Been there, Done That | 3.00% | ~176 |
+| Apocalypso | 3.00% | ~176 |
+| Narcissist | 3.00% | ~176 |
+| Promising Endeavors | 3.00% | ~176 |
+| The Time For Wonders | 3.00% | ~176 |
 | Chain Gang | 2.00% | ~117 |
 | One Does Not Simply Stage A Coup | 2.00% | ~117 |
 | Sublime Subliminal Supreme | 2.00% | ~117 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~53 |
 | My Ways | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,848 (Ranked 179)  
+Progressed: 5,850 (Ranked 179)  
 Completed: 2 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 2 (0.03%) (Ranked 309)
 | 2023-11-05 | 5,801 | 2 |
 | 2023-11-06 | 5,813 | 2 |
 | 2023-11-07 | 5,831 | 2 |
-| 2023-11-08 | 5,848 | 2 |
+| 2023-11-08 | 5,850 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 102  (Ranked 356)  
 Sum: 724 (Ranked 291)  

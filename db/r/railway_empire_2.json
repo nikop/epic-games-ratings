@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5776,9 +5776,9 @@
       "ID": "A14",
       "SetID": "9b7p7eo",
       "Name": "A new Journey",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1587
     },
     {
       "ID": "A15",
@@ -6113,8 +6113,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-06T17:57:18.8272993+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:05:13.1442228+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:21:56.7306171+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:58:38.7093853+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:05:13.1443044+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:08:33.1091302+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:21:56.7307056+00:00"
 }

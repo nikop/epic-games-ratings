@@ -5,18 +5,18 @@ Rating: 4.76 (Ranked 123)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,272 |
-| First Class Student | 14.00% | ~42,238 |
-| Troll with the Punches | 14.00% | ~42,238 |
-| A Keen Sense of Spell | 13.00% | ~39,221 |
-| A Talent for Spending | 12.00% | ~36,204 |
-| That's a Keeper | 12.00% | ~36,204 |
-| Grappling with a Graphorn | 11.00% | ~33,187 |
-| The One Who Mastered Memories | 11.00% | ~33,187 |
-| The Hallowed Hero | 11.00% | ~33,187 |
-| The Defender of Dragons | 11.00% | ~33,187 |
-| Loom for Improvement | 11.00% | ~33,187 |
-| Coasting Along | 11.00% | ~33,187 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,273 |
+| First Class Student | 14.00% | ~42,239 |
+| Troll with the Punches | 14.00% | ~42,239 |
+| A Keen Sense of Spell | 13.00% | ~39,222 |
+| A Talent for Spending | 12.00% | ~36,205 |
+| That's a Keeper | 12.00% | ~36,205 |
+| Grappling with a Graphorn | 11.00% | ~33,188 |
+| The One Who Mastered Memories | 11.00% | ~33,188 |
+| The Hallowed Hero | 11.00% | ~33,188 |
+| The Defender of Dragons | 11.00% | ~33,188 |
+| Loom for Improvement | 11.00% | ~33,188 |
+| Coasting Along | 11.00% | ~33,188 |
 | The Hero of Hogwarts | 10.00% | ~30,170 |
 | Challenge Accepted | 10.00% | ~30,170 |
 | Followed the Butterflies | 10.00% | ~30,170 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 123)
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,700 (Ranked 50)  
+Progressed: 301,705 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 505 (0.17%) (Ranked 251)
 | 2023-11-05 | 301,182 | 501 |
 | 2023-11-06 | 301,400 | 502 |
 | 2023-11-07 | 301,629 | 504 |
-| 2023-11-08 | 301,700 | 505 |
+| 2023-11-08 | 301,705 | 505 |
 ## Awards
 Max (Character Customization): 24,120  (Ranked 17)  
 Sum: 47,673 (Ranked 30)  

@@ -124,16 +124,16 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.80% | ~122 |
 | Enlightenment | 0.80% | ~122 |
 | Veneration | 0.80% | ~122 |
-| Devout | 0.70% | ~106 |
-| Clerics | 0.70% | ~106 |
-| Egypt | 0.70% | ~106 |
-| Rome | 0.70% | ~106 |
-| Assyrian Paganism | 0.70% | ~106 |
-| Hittite Paganism | 0.70% | ~106 |
-| Turreted Elephant | 0.70% | ~106 |
-| The Great Mage | 0.70% | ~106 |
-| Poetic Leader | 0.70% | ~106 |
-| Kmt Unified | 0.70% | ~106 |
+| Devout | 0.70% | ~107 |
+| Clerics | 0.70% | ~107 |
+| Egypt | 0.70% | ~107 |
+| Rome | 0.70% | ~107 |
+| Assyrian Paganism | 0.70% | ~107 |
+| Hittite Paganism | 0.70% | ~107 |
+| Turreted Elephant | 0.70% | ~107 |
+| The Great Mage | 0.70% | ~107 |
+| Poetic Leader | 0.70% | ~107 |
+| Kmt Unified | 0.70% | ~107 |
 | Bad Heir Day | 0.60% | ~91 |
 | Ishtar Gate in Babylon | 0.60% | ~91 |
 | Noble Difficulty | 0.60% | ~91 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,213 (Ranked 145)  
+Progressed: 15,215 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-05 | 15,167 | 5 |
 | 2023-11-06 | 15,191 | 5 |
 | 2023-11-07 | 15,201 | 5 |
-| 2023-11-08 | 15,213 | 5 |
+| 2023-11-08 | 15,215 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 272)  
 Sum: 1,869 (Ranked 212)  

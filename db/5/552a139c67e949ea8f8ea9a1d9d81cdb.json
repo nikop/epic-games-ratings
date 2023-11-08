@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 954,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1935,9 +1935,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 334
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2063,9 +2063,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 439
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2164,8 +2164,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:06:36.0032708+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:23:19.4220082+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:57:53.490013+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:06:36.0033184+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:03:16.7408272+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:23:19.42206+00:00"
 }

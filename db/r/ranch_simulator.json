@@ -4,10 +4,10 @@
   "ProductSlug": "ranch-simulator",
   "Ranking_Rating": 689,
   "Ranking_Popularity": 412,
-  "Ranking_PopularitySum": 342,
+  "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-02-10T16:30:00+00:00",
@@ -1032,10 +1032,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 371,
       "NumberOfAwardsMax": 57
+    },
+    {
+      "Time": "2023-11-08T18:05:47.6126828+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 372,
+      "NumberOfAwardsMax": 57
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 371,
+  "NumberOfAwards": 372,
   "NumberOfAwardsMax": 57,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1073,7 +1079,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1117,8 +1123,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:57.8144749+00:00",
-  "LastChanged": "2023-11-04T19:03:02.3551962+00:00",
+  "LastChanged": "2023-11-08T18:05:47.6126826+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:57.6271658+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:58:14.5710729+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:08:30.253146+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:05:47.6126839+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:24:34.173898+00:00"
 }

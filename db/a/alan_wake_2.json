@@ -537,10 +537,10 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 165928,
-  "EOS_Completed": 1247,
-  "EOS_NewPlayers": 34939,
-  "EOS_NewCompleters": 919,
+  "EOS_Progressed": 166117,
+  "EOS_Completed": 1252,
+  "EOS_NewPlayers": 34712,
+  "EOS_NewCompleters": 912,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
     {
@@ -2812,6 +2812,11 @@
       "Time": "2023-11-08T17:04:34.3351748+00:00",
       "NumProgressed": 165928,
       "NumCompleted": 1247
+    },
+    {
+      "Time": "2023-11-08T18:21:17.4364421+00:00",
+      "NumProgressed": 166117,
+      "NumCompleted": 1252
     }
   ],
   "AchievementsAdded": "2023-10-18T15:08:41.0490704+00:00",
@@ -2824,7 +2829,7 @@
       "Name": "Escape its Gravity",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 54756
+      "UsersEstimate": 54819
     },
     {
       "ID": "10",
@@ -2832,7 +2837,7 @@
       "Name": "Strange Reality",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 43141
+      "UsersEstimate": 43190
     },
     {
       "ID": "11",
@@ -2840,7 +2845,7 @@
       "Name": "The Koskela Brothers",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 16593
+      "UsersEstimate": 16612
     },
     {
       "ID": "12",
@@ -2848,7 +2853,7 @@
       "Name": "The Trail of the Writer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 16593
+      "UsersEstimate": 16612
     },
     {
       "ID": "13",
@@ -2856,7 +2861,7 @@
       "Name": "Bring It",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 111172
+      "UsersEstimate": 111298
     },
     {
       "ID": "14",
@@ -2864,7 +2869,7 @@
       "Name": "Ready for a Fight",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 33186
+      "UsersEstimate": 33223
     },
     {
       "ID": "15",
@@ -2872,7 +2877,7 @@
       "Name": "Greatest Hits",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 64712
+      "UsersEstimate": 64786
     },
     {
       "ID": "16",
@@ -2880,7 +2885,7 @@
       "Name": "Stop Right There",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 31526
+      "UsersEstimate": 31562
     },
     {
       "ID": "17",
@@ -2888,7 +2893,7 @@
       "Name": "Find the Light",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 99557
+      "UsersEstimate": 99670
     },
     {
       "ID": "18",
@@ -2896,7 +2901,7 @@
       "Name": "Lights Shining",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 59734
+      "UsersEstimate": 59802
     },
     {
       "ID": "19",
@@ -2904,7 +2909,7 @@
       "Name": "Yippee Ki-yay",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 56416
+      "UsersEstimate": 56480
     },
     {
       "ID": "2",
@@ -2912,7 +2917,7 @@
       "Name": "This is the Moment",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 66371
+      "UsersEstimate": 66447
     },
     {
       "ID": "20",
@@ -2920,7 +2925,7 @@
       "Name": "Aimed Ahead",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 99557
+      "UsersEstimate": 99670
     },
     {
       "ID": "21",
@@ -2928,7 +2933,7 @@
       "Name": "Coffee Thermos",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 122787
+      "UsersEstimate": 122927
     },
     {
       "ID": "22",
@@ -2936,7 +2941,7 @@
       "Name": "Felt Good",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 117809
+      "UsersEstimate": 117943
     },
     {
       "ID": "23",
@@ -2944,7 +2949,7 @@
       "Name": "Lawman",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 114490
+      "UsersEstimate": 114621
     },
     {
       "ID": "24",
@@ -2952,7 +2957,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 58075
+      "UsersEstimate": 58141
     },
     {
       "ID": "25",
@@ -2960,7 +2965,7 @@
       "Name": "Girl in Love",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 39823
+      "UsersEstimate": 39868
     },
     {
       "ID": "26",
@@ -2968,7 +2973,7 @@
       "Name": "Filled with Rage",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 26548
+      "UsersEstimate": 26579
     },
     {
       "ID": "27",
@@ -2976,7 +2981,7 @@
       "Name": "Storm Cloud",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 82964
+      "UsersEstimate": 83058
     },
     {
       "ID": "28",
@@ -2984,7 +2989,7 @@
       "Name": "Stop the Monster",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 61393
+      "UsersEstimate": 61463
     },
     {
       "ID": "29",
@@ -2992,7 +2997,7 @@
       "Name": "Growing Stronger",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 73008
+      "UsersEstimate": 73091
     },
     {
       "ID": "3",
@@ -3000,7 +3005,7 @@
       "Name": "Not the Last",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 142698
+      "UsersEstimate": 142861
     },
     {
       "ID": "30",
@@ -3008,7 +3013,7 @@
       "Name": "All Smiles",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 14934
+      "UsersEstimate": 14951
     },
     {
       "ID": "31",
@@ -3016,7 +3021,7 @@
       "Name": "Carry his Words",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 94579
+      "UsersEstimate": 94687
     },
     {
       "ID": "32",
@@ -3024,7 +3029,7 @@
       "Name": "Nightmare Territory",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 155972
+      "UsersEstimate": 156150
     },
     {
       "ID": "33",
@@ -3032,7 +3037,7 @@
       "Name": "Grew Bigger",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 119468
+      "UsersEstimate": 119604
     },
     {
       "ID": "34",
@@ -3040,7 +3045,7 @@
       "Name": "I\u0027ll Find You",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 8296
+      "UsersEstimate": 8306
     },
     {
       "ID": "35",
@@ -3048,7 +3053,7 @@
       "Name": "Stunning Vistas",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 41482
+      "UsersEstimate": 41529
     },
     {
       "ID": "36",
@@ -3056,7 +3061,7 @@
       "Name": "Gone for Good",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 31526
+      "UsersEstimate": 31562
     },
     {
       "ID": "37",
@@ -3064,7 +3069,7 @@
       "Name": "The Story Come True",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 26548
+      "UsersEstimate": 26579
     },
     {
       "ID": "38",
@@ -3072,7 +3077,7 @@
       "Name": "Hunting Season",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 159291
+      "UsersEstimate": 159472
     },
     {
       "ID": "39",
@@ -3080,15 +3085,15 @@
       "Name": "Somebody\u0027s Home",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 131083
+      "UsersEstimate": 131232
     },
     {
       "ID": "4",
       "SetID": "b5e4c1b",
       "Name": "Shining in the Night",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 71349
+      "UsersEstimate": 73091
     },
     {
       "ID": "40",
@@ -3096,15 +3101,15 @@
       "Name": "Into the Overlap",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 114490
+      "UsersEstimate": 114621
     },
     {
       "ID": "41",
       "SetID": "b5e4c1b",
       "Name": "Back in Watery",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 56416
+      "UsersEstimate": 58141
     },
     {
       "ID": "42",
@@ -3112,7 +3117,7 @@
       "Name": "We Watch in the Night",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 51438
+      "UsersEstimate": 51496
     },
     {
       "ID": "43",
@@ -3120,7 +3125,7 @@
       "Name": "The Old Gods",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 39823
+      "UsersEstimate": 39868
     },
     {
       "ID": "44",
@@ -3128,7 +3133,7 @@
       "Name": "Seeing Double",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 33186
+      "UsersEstimate": 33223
     },
     {
       "ID": "45",
@@ -3136,7 +3141,7 @@
       "Name": "Rock n\u0027 Roll, Baby",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 26548
+      "UsersEstimate": 26579
     },
     {
       "ID": "46",
@@ -3144,7 +3149,7 @@
       "Name": "The Final Deerfest",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 26548
+      "UsersEstimate": 26579
     },
     {
       "ID": "47",
@@ -3152,7 +3157,7 @@
       "Name": "End of the Road",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 26548
+      "UsersEstimate": 26579
     },
     {
       "ID": "48",
@@ -3160,7 +3165,7 @@
       "Name": "Talk Show",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 102875
+      "UsersEstimate": 102993
     },
     {
       "ID": "49",
@@ -3168,7 +3173,7 @@
       "Name": "New York City",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 81305
+      "UsersEstimate": 81397
     },
     {
       "ID": "5",
@@ -3176,7 +3181,7 @@
       "Name": "Secret Stashes",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 122787
+      "UsersEstimate": 122927
     },
     {
       "ID": "50",
@@ -3184,7 +3189,7 @@
       "Name": "Return",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 79645
+      "UsersEstimate": 79736
     },
     {
       "ID": "51",
@@ -3192,15 +3197,15 @@
       "Name": "All His Life",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 58075
+      "UsersEstimate": 58141
     },
     {
       "ID": "52",
       "SetID": "b5e4c1b",
       "Name": "In a Fancy Hotel",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 44801
+      "UsersEstimate": 46513
     },
     {
       "ID": "53",
@@ -3208,7 +3213,7 @@
       "Name": "Told and Retold",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 39823
+      "UsersEstimate": 39868
     },
     {
       "ID": "54",
@@ -3216,15 +3221,15 @@
       "Name": "Behind the Masks",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 36504
+      "UsersEstimate": 36546
     },
     {
       "ID": "55",
       "SetID": "b5e4c1b",
       "Name": "The Cult of the Word",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 31526
+      "UsersEstimate": 33223
     },
     {
       "ID": "56",
@@ -3232,7 +3237,7 @@
       "Name": "His Way Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 26548
+      "UsersEstimate": 26579
     },
     {
       "ID": "57",
@@ -3240,7 +3245,7 @@
       "Name": "All Accounted For",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 23230
+      "UsersEstimate": 23256
     },
     {
       "ID": "58",
@@ -3248,7 +3253,7 @@
       "Name": "In One Go",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 51438
+      "UsersEstimate": 51496
     },
     {
       "ID": "59",
@@ -3256,15 +3261,15 @@
       "Name": "Shift in Reality",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 8296
+      "UsersEstimate": 8306
     },
     {
       "ID": "6",
       "SetID": "b5e4c1b",
       "Name": "Finding a Way",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 64712
+      "UsersEstimate": 66447
     },
     {
       "ID": "60",
@@ -3272,7 +3277,7 @@
       "Name": "Hidden by the Trees",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6637
+      "UsersEstimate": 6645
     },
     {
       "ID": "61",
@@ -3280,7 +3285,7 @@
       "Name": "Coffee-Themed Fun",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9956
+      "UsersEstimate": 9967
     },
     {
       "ID": "62",
@@ -3288,7 +3293,7 @@
       "Name": "Filling the Shape",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 71349
+      "UsersEstimate": 71430
     },
     {
       "ID": "63",
@@ -3296,7 +3301,7 @@
       "Name": "Rustic Charm",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 6637
+      "UsersEstimate": 6645
     },
     {
       "ID": "64",
@@ -3304,7 +3309,7 @@
       "Name": "Back to Life",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 23230
+      "UsersEstimate": 23256
     },
     {
       "ID": "65",
@@ -3312,7 +3317,7 @@
       "Name": "The Nice Things in Life",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9956
+      "UsersEstimate": 9967
     },
     {
       "ID": "66",
@@ -3320,7 +3325,7 @@
       "Name": "The Other Side",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 79645
+      "UsersEstimate": 79736
     },
     {
       "ID": "7",
@@ -3328,7 +3333,7 @@
       "Name": "Cut Short",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 39823
+      "UsersEstimate": 39868
     },
     {
       "ID": "8",
@@ -3336,7 +3341,7 @@
       "Name": "Chased the Source",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 119468
+      "UsersEstimate": 119604
     },
     {
       "ID": "9",
@@ -3344,23 +3349,23 @@
       "Name": "Darkness Coiled",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 119468
+      "UsersEstimate": 119604
     }
   ],
   "AchievementSets": [
     {
       "ID": "b5e4c1b",
       "IsBase": true,
-      "Progressed": 165928,
-      "Completed": 1247
+      "Progressed": 166117,
+      "Completed": 1252
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.3265667+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.7516471+00:00",
   "FirstSeenAchievements": "2023-08-28T13:10:00.1421232+00:00",
   "LastChanged": "2023-11-08T11:59:43.700654+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:04:34.3351742+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:21:17.4364417+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:51.0874835+00:00",
-  "LastUpdate_Ratings": "2023-11-08T17:00:47.6271715+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:04:34.3352559+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:17:43.6226659+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:21:17.4365257+00:00"
 }

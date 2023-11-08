@@ -11781,9 +11781,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 449930,
+  "EOS_Progressed": 449985,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5522,
+  "EOS_NewPlayers": 5520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34891,6 +34891,11 @@
       "Time": "2023-11-08T17:05:25.4412734+00:00",
       "NumProgressed": 449930,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T18:22:09.3563508+00:00",
+      "NumProgressed": 449985,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35932,9 +35937,9 @@
       "ID": "achievement_graze_my_horse_here_and_here",
       "SetID": "8p2n7he",
       "Name": "I\u0027ll graze my horse here.. And here\u2026",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_great_moravia",
@@ -37468,9 +37473,9 @@
       "ID": "achievement_traditional_player",
       "SetID": "8p2n7he",
       "Name": "Traditional Player",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_triple_rome",
@@ -37805,21 +37810,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 449930,
+      "Progressed": 449985,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 449930,
+      "Progressed": 449985,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-08T16:58:19.5479313+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:05:25.4412729+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:22:09.3563504+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:58:19.5479324+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:05:25.4425593+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:06:20.6017462+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:22:09.3578955+00:00"
 }

@@ -293,9 +293,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 305615,
+  "EOS_Progressed": 305651,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7921,
+  "EOS_NewPlayers": 7917,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5203,6 +5203,11 @@
       "Time": "2023-11-08T17:07:14.2619877+00:00",
       "NumProgressed": 305615,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-08T18:23:58.07845+00:00",
+      "NumProgressed": 305651,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -5349,9 +5354,9 @@
       "ID": "S18_CHALLENGE",
       "SetID": "4j44ol8",
       "Name": "The touch of Chaos",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 306
+      "UsersEstimate": 611
     },
     {
       "ID": "S19_CHALLENGES",
@@ -5534,7 +5539,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 305615,
+      "Progressed": 305651,
       "Completed": 3
     }
   ],
@@ -5542,8 +5547,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-06T04:59:55.1580901+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:07:14.2619872+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:23:58.0784497+00:00",
   "LastUpdate_AppInfo": "2023-11-02T18:57:05.9748032+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:57:32.3882513+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:07:14.2620535+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:00:08.9401823+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:23:58.0785157+00:00"
 }

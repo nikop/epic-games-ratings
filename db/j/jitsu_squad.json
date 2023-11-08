@@ -4,7 +4,7 @@
   "ProductSlug": "jitsu-squad-af3f2f",
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-01T09:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:55.148193+00:00",
   "LastChanged": "2023-03-31T05:57:55.1481931+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:17.6621382+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:57:14.7650099+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:05:34.917042+00:00"
+  "LastUpdate_Ratings": "2023-11-08T17:57:26.5076363+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:22:18.1698534+00:00"
 }

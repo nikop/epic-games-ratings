@@ -5,23 +5,23 @@ Rating: 4.39 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 10.00% | ~1,716 |
-| Sector 2 | 9.00% | ~1,544 |
-| Crush That Cube! | 8.00% | ~1,372 |
-| Sector 3 | 8.00% | ~1,372 |
-| Crush That Ball! | 6.00% | ~1,029 |
-| Sector 4 | 6.00% | ~1,029 |
-| Sector 5 | 4.00% | ~686 |
+| Sector 1 | 10.00% | ~1,718 |
+| Sector 2 | 9.00% | ~1,546 |
+| Crush That Cube! | 8.00% | ~1,374 |
+| Sector 3 | 8.00% | ~1,374 |
+| Crush That Ball! | 6.00% | ~1,031 |
+| Sector 4 | 6.00% | ~1,031 |
+| Sector 5 | 4.00% | ~687 |
+| Sector 6 | 4.00% | ~687 |
 | Feeling the Blues | 3.00% | ~515 |
 | Squished | 3.00% | ~515 |
-| Sector 6 | 3.00% | ~515 |
-| Finale | 2.00% | ~343 |
-| Sector 7 | 2.00% | ~343 |
-| Did That Work? -- No! | 2.00% | ~343 |
+| Finale | 2.00% | ~344 |
+| Sector 7 | 2.00% | ~344 |
+| Did That Work? -- No! | 2.00% | ~344 |
 | The Puzzle Master | 1.00% | ~172 |
 | Master Room | 1.00% | ~172 |
+| Bronze Trophy | 0.80% | ~137 |
 | Completed It. | 0.80% | ~137 |
-| Bronze Trophy | 0.70% | ~120 |
 | Hopefully that's all of them! | 0.70% | ~120 |
 | Phew! | 0.70% | ~120 |
 | Silver Trophy | 0.70% | ~120 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 744)
 | Gold Trophy | 0.60% | ~103 |
 | Maxed Out | 0.60% | ~103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,156 (Ranked 140)  
+Progressed: 17,176 (Ranked 140)  
 Completed: 31 (0.18%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 31 (0.18%) (Ranked 248)
 | 2023-11-05 | 16,344 | 23 |
 | 2023-11-06 | 16,699 | 28 |
 | 2023-11-07 | 16,971 | 30 |
-| 2023-11-08 | 17,156 | 31 |
+| 2023-11-08 | 17,176 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

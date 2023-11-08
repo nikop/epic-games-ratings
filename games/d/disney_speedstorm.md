@@ -5,20 +5,20 @@ Rating: 4.39 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 9.00% | ~25,739 |
-| IT MAKES BOOM! | 5.00% | ~14,300 |
-| EXTRA BOOST | 4.00% | ~11,440 |
-| PROTECTED | 3.00% | ~8,580 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,580 |
-| PRO | 3.00% | ~8,580 |
-| A TIGER'S FEAR | 2.00% | ~5,720 |
-| AGGRESSIVE RACER | 2.00% | ~5,720 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,860 |
-| ACE SPEEDSTER | 1.00% | ~2,860 |
-| RELEASE THE KRAKEN | 0.80% | ~2,288 |
-| BE OUR GUEST | 0.70% | ~2,002 |
-| DEFEAT OUR CHAMPION | 0.70% | ~2,002 |
-| LEGENDARY HERO | 0.70% | ~2,002 |
+| ROOKIE | 9.00% | ~25,747 |
+| IT MAKES BOOM! | 5.00% | ~14,304 |
+| EXTRA BOOST | 4.00% | ~11,443 |
+| PROTECTED | 3.00% | ~8,582 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,582 |
+| PRO | 3.00% | ~8,582 |
+| A TIGER'S FEAR | 2.00% | ~5,722 |
+| AGGRESSIVE RACER | 2.00% | ~5,722 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,861 |
+| ACE SPEEDSTER | 1.00% | ~2,861 |
+| RELEASE THE KRAKEN | 0.80% | ~2,289 |
+| BE OUR GUEST | 0.70% | ~2,003 |
+| DEFEAT OUR CHAMPION | 0.70% | ~2,003 |
+| LEGENDARY HERO | 0.70% | ~2,003 |
 | TRAINING HARD | 0.60% | ~1,716 |
 | THE EYE OF THE HUNTER | 0.60% | ~1,716 |
 | FRIENDLY | 0.60% | ~1,716 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 744)
 | FRAMED! | 0.20% | ~572 |
 | ACE TRICKSTER | 0.20% | ~572 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285,992 (Ranked 52)  
-Completed: 272 (0.10%) (Ranked 268)  
+Progressed: 286,082 (Ranked 52)  
+Completed: 274 (0.10%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -228,10 +228,10 @@ Completed: 272 (0.10%) (Ranked 268)
 | 2023-11-05 | 282,134 | 270 |
 | 2023-11-06 | 283,675 | 271 |
 | 2023-11-07 | 285,088 | 272 |
-| 2023-11-08 | 285,992 | 272 |
+| 2023-11-08 | 286,082 | 274 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 412)  
-Sum: 454 (Ranked 328)  
+Sum: 455 (Ranked 328)  
 Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
@@ -242,7 +242,7 @@ Diff (max vs sum): 84
 | This game has a Competitive Community | 39 |
 | This game has Playful Visuals | 38 |
 | This game is Highly Recommended | 36 |
-| This game has Competitive Players | 35 |
+| This game has Competitive Players | 36 |
 | This game has Amazing Storytelling | 33 |
 | This game has Quickly Understood Controls | 32 |
 | This game is Extremely Fun | 30 |
@@ -288,4 +288,4 @@ Diff (max vs sum): 84
 | 2023-11-05 | 4.40 | 51 | 422 |
 | 2023-11-06 | 4.40 | 55 | 439 |
 | 2023-11-07 | 4.39 | 57 | 450 |
-| 2023-11-08 | 4.39 | 57 | 454 |
+| 2023-11-08 | 4.39 | 57 | 455 |

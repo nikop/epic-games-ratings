@@ -9,12 +9,12 @@ Rating: 3.94 (Ranked 1,006)
 | First One’s Free | 2.00% | ~1,796 |
 | Downed but Not Outed | 2.00% | ~1,796 |
 | Underworld Initiate | 1.00% | ~898 |
+| Roid Ranger | 1.00% | ~898 |
 | Too Old for This | 1.00% | ~898 |
 | Fancy Pants | 1.00% | ~898 |
 | Off the Rocks | 1.00% | ~898 |
 | Raider’s Ruin | 1.00% | ~898 |
 | Dragonslayer | 1.00% | ~898 |
-| Roid Ranger | 0.90% | ~808 |
 | King of the Hill | 0.90% | ~808 |
 | Rockay Rex | 0.90% | ~808 |
 | Case Closed | 0.80% | ~718 |
@@ -47,8 +47,8 @@ Rating: 3.94 (Ranked 1,006)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,776 (Ranked 91)  
-Completed: 55 (0.06%) (Ranked 291)  
+Progressed: 89,785 (Ranked 91)  
+Completed: 55 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,7 +249,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-05 | 89,585 | 55 |
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
-| 2023-11-08 | 89,776 | 55 |
+| 2023-11-08 | 89,785 | 55 |
 ## Awards
 Max (Diverse Characters): 522  (Ranked 204)  
 Sum: 2,970 (Ranked 175)  

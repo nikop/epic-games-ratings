@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7456,
+  "EOS_Progressed": 7457,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
@@ -5553,6 +5553,11 @@
       "Time": "2023-11-08T05:06:43.556613+00:00",
       "NumProgressed": 7456,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-08T18:23:02.4311388+00:00",
+      "NumProgressed": 7457,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5612,7 +5617,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -5716,7 +5721,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4175
+      "UsersEstimate": 4176
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5764,7 +5769,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2982
+      "UsersEstimate": 2983
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -5779,15 +5784,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7456,
+      "Progressed": 7457,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:06:19.3867044+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:23:02.4311385+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-08T17:03:09.8915001+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:06:19.3867642+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:19:37.7480148+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:23:02.4311956+00:00"
 }

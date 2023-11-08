@@ -5,6 +5,7 @@ Rating: 4.20 (Ranked 907)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The touch of Chaos | 0.20% | ~611 |
 | May the Torchbearer light our way | 0.10% | ~306 |
 | A powerful aura was here | 0.10% | ~306 |
 | Rumors are true | 0.10% | ~306 |
@@ -21,7 +22,6 @@ Rating: 4.20 (Ranked 907)
 | The immortal is bound to reborn | 0.10% | ~306 |
 | It's only pain | 0.10% | ~306 |
 | I know how to handle it | 0.10% | ~306 |
-| The touch of Chaos | 0.10% | ~306 |
 | Settle this once and for all | 0.10% | ~306 |
 | The Ashen Knight | 0.10% | ~306 |
 | The Shade | 0.10% | ~306 |
@@ -46,7 +46,7 @@ Rating: 4.20 (Ranked 907)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 305,615 (Ranked 49)  
+Progressed: 305,651 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -92,7 +92,7 @@ Completed: 3 (0.00%) (Ranked 345)
 | 2023-11-05 | 303,382 | 1 |
 | 2023-11-06 | 304,252 | 1 |
 | 2023-11-07 | 305,112 | 2 |
-| 2023-11-08 | 305,615 | 3 |
+| 2023-11-08 | 305,651 | 3 |
 ## Awards
 Max (Great Boss Battles): 51  (Ranked 424)  
 Sum: 51 (Ranked 477)  

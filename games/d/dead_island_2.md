@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~811 |
+| Whatever It Takes | 2.00% | ~812 |
 | One of Us | 1.00% | ~406 |
 | Pork Chopped | 1.00% | ~406 |
 | Break A Leg | 0.50% | ~3,575 |
@@ -37,6 +37,7 @@ Rating: 4.54 (Ranked 522)
 | Our True Nature | 0.30% | ~2,145 |
 | Making Your Mark | 0.20% | ~1,430 |
 | On Safari | 0.20% | ~1,430 |
+| Internet Famous | 0.20% | ~1,430 |
 | Jumbo Keyring | 0.20% | ~1,430 |
 | Humanity Distilled | 0.20% | ~1,430 |
 | Down with the Sickness | 0.20% | ~1,430 |
@@ -48,7 +49,6 @@ Rating: 4.54 (Ranked 522)
 | LA Influential | 0.10% | ~715 |
 | Smorgasbord | 0.10% | ~715 |
 | Donk! | 0.10% | ~715 |
-| Internet Famous | 0.10% | ~715 |
 | Sole Survivor | 0.10% | ~715 |
 | Gore Horse | 0.10% | ~715 |
 | Sharpest Tool in the Box | 0.10% | ~715 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,024 (Ranked 21)  
+Progressed: 715,076 (Ranked 21)  
 Completed: 2,358 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,14 +259,14 @@ Completed: 2,358 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 715,024 | 2,358 |
+| 2023-11-08 | 715,076 | 2,358 |
 ## Awards
-Max (Great Boss Battles): 7,178  (Ranked 54)  
-Sum: 10,894 (Ranked 87)  
+Max (Great Boss Battles): 7,208  (Ranked 54)  
+Sum: 10,924 (Ranked 87)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,178 |
+| This game has Great Boss Battles | 7,208 |
 | This game is Great for Beginners | 527 |
 | This game has Diverse Characters | 521 |
 | This game has Quickly Understood Controls | 497 |
@@ -479,4 +479,4 @@ Diff (max vs sum): -33
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
-| 2023-11-08 | 4.54 | 7,178 | 10,894 |
+| 2023-11-08 | 4.54 | 7,208 | 10,924 |

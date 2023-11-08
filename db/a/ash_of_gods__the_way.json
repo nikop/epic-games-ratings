@@ -4,7 +4,7 @@
   "ProductSlug": "ash-of-gods-the-way-58bd36",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 31,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -323,9 +323,9 @@
       "ID": "special1",
       "SetID": "c64if4d",
       "Name": "All for one!",
-      "Percentage": 19,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "special10",
@@ -507,9 +507,9 @@
       "ID": "story2",
       "SetID": "c64if4d",
       "Name": "Suicide squad",
-      "Percentage": 55,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "story20",
@@ -596,8 +596,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:07:14.0168593+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:23:57.8330778+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.6760768+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:57:52.9626629+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:07:14.0169025+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:03:11.8422874+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:23:57.8331226+00:00"
 }

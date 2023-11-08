@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1347,9 +1347,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5848,
+  "EOS_Progressed": 5850,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12447,6 +12447,11 @@
       "Time": "2023-11-08T17:09:54.4208814+00:00",
       "NumProgressed": 5848,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-08T18:26:19.2549652+00:00",
+      "NumProgressed": 5850,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12490,7 +12495,7 @@
       "Name": "Been there, Done That",
       "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_EP_BALLGAME",
@@ -12498,7 +12503,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -12512,9 +12517,9 @@
       "ID": "ACH_EP_BETTERREDTHANDEAD",
       "SetID": "1p8ab95",
       "Name": "Caribbean Comrade",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 877
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -12530,7 +12535,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -12568,9 +12573,9 @@
       "ID": "ACH_EP_SHACKLAND",
       "SetID": "1p8ab95",
       "Name": "Shackadelic",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 585
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -12594,7 +12599,7 @@
       "Name": "Apocalypso",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_EP_TROPICOLAND",
@@ -12602,7 +12607,7 @@
       "Name": "For Science!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -12610,7 +12615,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 994
+      "UsersEstimate": 995
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -12618,7 +12623,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4388
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12642,7 +12647,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -12650,7 +12655,7 @@
       "Name": "I Owe You Nothing",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_MYWAYS",
@@ -12666,7 +12671,7 @@
       "Name": "Narcissist",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_PROMISINGENDEAVORS",
@@ -12674,7 +12679,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -12714,7 +12719,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -12722,7 +12727,7 @@
       "Name": "The Time For Wonders",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_TRADEISMYTRAIT",
@@ -12738,7 +12743,7 @@
       "Name": "Make Tropico Great Again!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_WATCHTHEWORLDBURN",
@@ -12762,7 +12767,7 @@
       "Name": "French Connection",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -12777,15 +12782,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5848,
+      "Progressed": 5850,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-03T19:58:07.8489681+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:09:54.4208808+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:26:19.2549649+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.1282192+00:00",
-  "LastUpdate_Ratings": "2023-11-08T17:01:14.3334284+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:09:54.4209925+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:18:23.8812197+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:26:19.2550613+00:00"
 }

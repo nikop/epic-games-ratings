@@ -6,7 +6,7 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 222,
-  "Ranking_EOS_Completed": 291,
+  "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1786,
+  "EOS_Progressed": 1788,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6685,6 +6685,11 @@
       "Time": "2023-11-08T17:04:59.2773901+00:00",
       "NumProgressed": 1786,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T18:21:42.6372583+00:00",
+      "NumProgressed": 1788,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6728,7 +6733,7 @@
       "Name": "Gold Achiever",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ach_gold_rewards_25",
@@ -6816,7 +6821,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -6872,7 +6877,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -6880,7 +6885,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -6912,7 +6917,7 @@
       "Name": "Resourceful",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "objective_key_objectives_completed_2",
@@ -6952,7 +6957,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -6999,7 +7004,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1786,
+      "Progressed": 1788,
       "Completed": 1
     }
   ],
@@ -7007,8 +7012,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:04:59.2773896+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:21:42.6372579+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-08T17:02:32.2891822+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:04:59.2774684+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:18:50.1682805+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:21:42.6373339+00:00"
 }

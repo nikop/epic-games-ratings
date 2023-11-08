@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 200,
+  "EOS_Progressed": 201,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -981,6 +981,11 @@
       "Time": "2023-11-08T17:06:22.972995+00:00",
       "NumProgressed": 200,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T18:23:06.5218308+00:00",
+      "NumProgressed": 201,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -991,9 +996,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 175
     },
     {
       "ID": "achievement_10",
@@ -1007,9 +1012,9 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_12",
@@ -1039,9 +1044,9 @@
       "ID": "achievement_15",
       "SetID": "18al4io",
       "Name": "A Perfect Cycle",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_16",
@@ -1063,9 +1068,9 @@
       "ID": "achievement_18",
       "SetID": "18al4io",
       "Name": "Grand Magnus",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_19",
@@ -1081,7 +1086,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_20",
@@ -1137,7 +1142,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "achievement_36",
@@ -1169,23 +1174,23 @@
       "Name": "No More Names",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_41",
       "SetID": "18al4io",
       "Name": "Armaments Azure",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_42",
       "SetID": "18al4io",
       "Name": "Armaments Gules",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_43",
@@ -1199,9 +1204,9 @@
       "ID": "achievement_44",
       "SetID": "18al4io",
       "Name": "Periapt Cerulean",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_45",
@@ -1215,9 +1220,9 @@
       "ID": "achievement_46",
       "SetID": "18al4io",
       "Name": "Periapt Viridian",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_48",
@@ -1225,7 +1230,7 @@
       "Name": "Enlisted",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "achievement_49",
@@ -1255,25 +1260,25 @@
       "ID": "achievement_54",
       "SetID": "18al4io",
       "Name": "Master of Ultramarine",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_55",
       "SetID": "18al4io",
       "Name": "Master of Carmine",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_56",
       "SetID": "18al4io",
       "Name": "Master of Malachite",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_59",
@@ -1287,9 +1292,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_60",
@@ -1327,9 +1332,9 @@
       "ID": "achievement_66",
       "SetID": "18al4io",
       "Name": "Backtracker",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_67",
@@ -1368,7 +1373,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 1
     }
   ],
@@ -1376,8 +1381,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:06:22.9729944+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:23:06.5218288+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:58:05.7203022+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:06:22.9730444+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:04:53.1077908+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:23:06.521883+00:00"
 }

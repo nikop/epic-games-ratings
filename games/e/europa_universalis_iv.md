@@ -62,6 +62,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Grand Coalition | 0.10% | ~450 |
 | Grand Duchy | 0.10% | ~450 |
 | That's a Grand Navy | 0.10% | ~450 |
+| I'll graze my horse here.. And here… | 0.10% | ~450 |
 | Holiest Roman Empire | 0.10% | ~450 |
 | Holy Horder | 0.10% | ~450 |
 | Imperio español | 0.10% | ~450 |
@@ -126,6 +127,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.10% | ~450 |
 | Time Bandit | 0.10% | ~450 |
 | Total Control | 0.10% | ~450 |
+| Traditional Player | 0.10% | ~450 |
 | Trophy Hunter | 0.10% | ~450 |
 | True Catholic | 0.10% | ~450 |
 | Truly Divine Ruler | 0.10% | ~450 |
@@ -217,7 +219,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
-| I'll graze my horse here.. And here… | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Guarantor of Peace | 0.00% | ~0 |
@@ -345,7 +346,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Trade Hegemon | 0.00% | ~0 |
-| Traditional Player | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,930 (Ranked 41)  
+Progressed: 449,985 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -572,7 +572,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
-| 2023-11-08 | 449,930 | 1 |
+| 2023-11-08 | 449,985 | 1 |
 ## Awards
 Max (Educational): 6,903  (Ranked 55)  
 Sum: 56,718 (Ranked 24)  

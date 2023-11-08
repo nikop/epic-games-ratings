@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewPlayers": 59,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10221,9 +10221,9 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 301700,
+  "EOS_Progressed": 301705,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1620,
+  "EOS_NewPlayers": 1619,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -31936,6 +31936,11 @@
       "Time": "2023-11-08T17:09:40.1248506+00:00",
       "NumProgressed": 301700,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-08T18:26:04.5615707+00:00",
+      "NumProgressed": 301705,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -31947,7 +31952,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48272
+      "UsersEstimate": 48273
     },
     {
       "ID": "PFA_10",
@@ -31955,7 +31960,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33187
+      "UsersEstimate": 33188
     },
     {
       "ID": "PFA_11",
@@ -31963,7 +31968,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33187
+      "UsersEstimate": 33188
     },
     {
       "ID": "PFA_12",
@@ -31971,7 +31976,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33187
+      "UsersEstimate": 33188
     },
     {
       "ID": "PFA_13",
@@ -32003,7 +32008,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33187
+      "UsersEstimate": 33188
     },
     {
       "ID": "PFA_17",
@@ -32067,7 +32072,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39221
+      "UsersEstimate": 39222
     },
     {
       "ID": "PFA_24",
@@ -32075,7 +32080,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33187
+      "UsersEstimate": 33188
     },
     {
       "ID": "PFA_25",
@@ -32131,7 +32136,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36204
+      "UsersEstimate": 36205
     },
     {
       "ID": "PFA_31",
@@ -32203,7 +32208,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33187
+      "UsersEstimate": 33188
     },
     {
       "ID": "PFA_4",
@@ -32275,7 +32280,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42238
+      "UsersEstimate": 42239
     },
     {
       "ID": "PFA_7",
@@ -32283,7 +32288,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42238
+      "UsersEstimate": 42239
     },
     {
       "ID": "PFA_8",
@@ -32291,7 +32296,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36204
+      "UsersEstimate": 36205
     },
     {
       "ID": "PFA_9",
@@ -32306,7 +32311,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301700,
+      "Progressed": 301705,
       "Completed": 505
     }
   ],
@@ -32314,8 +32319,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-08T16:58:08.0795665+00:00",
-  "LastChanged_Achievements": "2023-11-08T17:09:40.1248499+00:00",
+  "LastChanged_Achievements": "2023-11-08T18:26:04.5615704+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-08T16:58:08.0795676+00:00",
-  "LastUpdate_Achievements": "2023-11-08T17:09:40.1250578+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:05:04.7192481+00:00",
+  "LastUpdate_Achievements": "2023-11-08T18:26:04.5617495+00:00"
 }

@@ -8,10 +8,10 @@
 | Trinity | 29.00% | ~50 |
 | Shatter Them All | 25.00% | ~43 |
 | I Found It | 25.00% | ~43 |
+| Find Allies | 24.00% | ~42 |
 | A Taste of Wrath | 24.00% | ~42 |
 | Fashion Victim | 24.00% | ~42 |
-| Find Allies | 23.00% | ~40 |
-| The Collector | 23.00% | ~40 |
+| The Collector | 24.00% | ~42 |
 | Adventurer | 22.00% | ~38 |
 | Scholar | 22.00% | ~38 |
 | Powerful Allies | 21.00% | ~36 |
@@ -22,12 +22,12 @@
 | Airborne | 8.00% | ~14 |
 | Big Bazar | 8.00% | ~14 |
 | Alchemist | 8.00% | ~14 |
-| The Mentor | 6.00% | ~10 |
+| The Mentor | 7.00% | ~12 |
+| Calm before the Storm | 5.00% | ~9 |
+| Flawless Victory | 5.00% | ~9 |
 | Miner | 5.00% | ~9 |
-| Calm before the Storm | 4.00% | ~7 |
 | To Battle | 4.00% | ~7 |
 | Godslayer | 4.00% | ~7 |
-| Flawless Victory | 3.00% | ~5 |
 | Clear Sight | 2.00% | ~3 |
 | Slayer | 2.00% | ~3 |
 | Fine Feathers Make Fine Birds | 2.00% | ~3 |

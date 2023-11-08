@@ -5,17 +5,19 @@ Rating: 4.60 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 0.50% | ~26 |
+| But this one is mine | 0.60% | ~32 |
+| Secret Technique | 0.20% | ~11 |
+| Spoils of War | 0.20% | ~11 |
 | There Can Only Be One! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | Arch Mage | 0.10% | ~5 |
+| The Creator | 0.10% | ~5 |
 | Enchanted Archipelago | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | Realm Estate | 0.10% | ~5 |
 | A Wonderful Discovery | 0.10% | ~5 |
-| Secret Technique | 0.10% | ~5 |
 | Walls Cannot Stop Us | 0.10% | ~5 |
 | Bone Peddler | 0.10% | ~5 |
 | Digging for Treasure | 0.10% | ~5 |
@@ -45,7 +47,6 @@ Rating: 4.60 (Ranked 410)
 | Chaos Surge | 0.10% | ~5 |
 | Seal the Deal | 0.10% | ~5 |
 | A Conqueror's Cohort | 0.10% | ~5 |
-| Spoils of War | 0.10% | ~5 |
 | Dawn of the Dread | 0.10% | ~5 |
 | A Very Special Ring | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
@@ -54,7 +55,6 @@ Rating: 4.60 (Ranked 410)
 | The Magic That Empowers Me! | 0.00% | ~0 |
 | Full Ascension | 0.00% | ~0 |
 | God Emperor | 0.00% | ~0 |
-| The Creator | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Fiery Friend | 0.00% | ~0 |
 | Manufactured War | 0.00% | ~0 |
