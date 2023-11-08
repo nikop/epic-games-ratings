@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1051,9 +1051,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11442,
+  "EOS_Progressed": 11444,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1035,
+  "EOS_NewPlayers": 1033,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9296,6 +9296,11 @@
       "Time": "2023-11-08T02:27:20.4950578+00:00",
       "NumProgressed": 11442,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-08T03:08:41.9678063+00:00",
+      "NumProgressed": 11444,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9356,7 +9361,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "a_19",
@@ -9364,7 +9369,7 @@
       "Name": "Bonjour!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "a_2",
@@ -9555,7 +9560,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11442,
+      "Progressed": 11444,
       "Completed": 10
     }
   ],
@@ -9563,8 +9568,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-07T18:01:57.8090042+00:00",
-  "LastChanged_Achievements": "2023-11-08T02:27:20.4950572+00:00",
+  "LastChanged_Achievements": "2023-11-08T03:08:41.9678053+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.8121034+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:20:53.2322832+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:27:20.4952633+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:01:17.099885+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:08:41.9678848+00:00"
 }

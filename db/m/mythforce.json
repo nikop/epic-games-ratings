@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -772,7 +772,7 @@
   ],
   "EOS_Progressed": 4729,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8978,9 +8978,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1135
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9082,8 +9082,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-08T02:28:19.0543451+00:00",
+  "LastChanged_Achievements": "2023-11-08T03:09:43.30295+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:21:28.1255167+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:28:19.0544279+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:02:53.137533+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:09:43.3030191+00:00"
 }

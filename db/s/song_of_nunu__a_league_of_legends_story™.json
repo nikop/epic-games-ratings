@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 557,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 518,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.9,
   "EosHistory": [
@@ -827,6 +827,11 @@
       "Time": "2023-11-08T01:53:20.7074491+00:00",
       "NumProgressed": 556,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-08T03:09:28.5395519+00:00",
+      "NumProgressed": 557,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -847,7 +852,7 @@
       "Name": "My Darkest Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "EV_ACH03",
@@ -879,7 +884,7 @@
       "Name": "A Tragic Reminder",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "EV_ACH07",
@@ -911,7 +916,7 @@
       "Name": "Family",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "EV_ACH11",
@@ -919,7 +924,7 @@
       "Name": "Biggest Snowball Ever",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "EV_ACH12",
@@ -927,15 +932,15 @@
       "Name": "Freeze The Ice Witch",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "EV_ACH13",
       "SetID": "6jeac23",
       "Name": "It Is Not Over",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 161
+      "UsersEstimate": 167
     },
     {
       "ID": "EV_ACH14",
@@ -943,7 +948,7 @@
       "Name": "Boom Things",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "EV_ACH15",
@@ -959,7 +964,7 @@
       "Name": "Krugmazing",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "EV_ACH17",
@@ -1007,7 +1012,7 @@
       "Name": "Bullseye",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "EV_ACH23",
@@ -1023,7 +1028,7 @@
       "Name": "Never Gets Old",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "EV_ACH25",
@@ -1039,7 +1044,7 @@
       "Name": "Moneyball",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "EV_ACH27",
@@ -1063,7 +1068,7 @@
       "Name": "Cutie Poro",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "EV_ACH30",
@@ -1079,7 +1084,7 @@
       "Name": "Feels Familiar",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "EV_ACH32",
@@ -1087,7 +1092,7 @@
       "Name": "It Was Him",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "EV_ACH33",
@@ -1143,7 +1148,7 @@
       "Name": "Boosted!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "EV_ACH40",
@@ -1167,7 +1172,7 @@
       "Name": "Deadliest and Biggest Snowball Ever!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "EV_ACH43",
@@ -1190,14 +1195,14 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 557,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-08T02:28:05.0012464+00:00",
+  "LastChanged_Achievements": "2023-11-08T03:09:28.5395513+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:21:23.0130608+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:28:05.0013205+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:02:47.9814879+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:09:28.5395923+00:00"
 }

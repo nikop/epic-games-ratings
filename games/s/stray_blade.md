@@ -8,9 +8,9 @@
 | Tinkerer | 69.00% | ~81 |
 | Welcome to the Club | 40.00% | ~47 |
 | Apprentice | 38.00% | ~44 |
-| A new World ahead | 29.00% | ~34 |
+| A new World ahead | 30.00% | ~35 |
 | Can't touch this | 27.00% | ~32 |
-| Don't Cry Wolf | 25.00% | ~29 |
+| Don't Cry Wolf | 26.00% | ~30 |
 | Expert | 19.00% | ~22 |
 | Freezing Cold | 18.00% | ~21 |
 | Searing Heat | 15.00% | ~18 |

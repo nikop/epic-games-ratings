@@ -14828,9 +14828,9 @@
       "Count": 12601
     }
   ],
-  "EOS_Progressed": 895724,
+  "EOS_Progressed": 895726,
   "EOS_Completed": 2753,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1004,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37643,6 +37643,11 @@
       "Time": "2023-11-08T02:22:02.9464318+00:00",
       "NumProgressed": 895724,
       "NumCompleted": 2753
+    },
+    {
+      "Time": "2023-11-08T03:03:25.1058994+00:00",
+      "NumProgressed": 895726,
+      "NumCompleted": 2753
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37685,9 +37690,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2687
+      "UsersEstimate": 3583
     },
     {
       "ID": "FollowingTheRiver",
@@ -37773,9 +37778,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1791
+      "UsersEstimate": 2687
     },
     {
       "ID": "MaxPain",
@@ -37983,7 +37988,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17914
+      "UsersEstimate": 17915
     },
     {
       "ID": "YipMan",
@@ -38190,21 +38195,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895724,
+      "Progressed": 895726,
       "Completed": 2753
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24347,
+      "Progressed": 24349,
       "Completed": 10202
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-08T01:45:05.0116374+00:00",
-  "LastChanged_Achievements": "2023-11-08T02:22:02.9464312+00:00",
+  "LastChanged_Achievements": "2023-11-08T03:03:25.1058989+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:21:09.2150633+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:22:02.946663+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:01:28.3127878+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:03:25.10611+00:00"
 }

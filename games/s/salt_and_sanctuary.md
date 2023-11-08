@@ -6,24 +6,24 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~446,177 |
-| The Three | 64.00% | ~344,040 |
-| The Banquet | 40.00% | ~215,025 |
-| Devara's Light | 31.00% | ~166,645 |
-| The Iron Ones | 18.00% | ~96,761 |
-| The Village | 17.00% | ~91,386 |
-| The Forest | 15.00% | ~80,634 |
-| The Keep | 14.00% | ~75,259 |
-| Branded | 13.00% | ~69,883 |
-| The Imposter | 13.00% | ~69,883 |
-| The Castle | 11.00% | ~59,132 |
+| Find Sanctuary | 83.00% | ~446,182 |
+| The Three | 64.00% | ~344,044 |
+| The Banquet | 40.00% | ~215,028 |
+| Devara's Light | 31.00% | ~166,646 |
+| The Iron Ones | 18.00% | ~96,762 |
+| The Village | 17.00% | ~91,387 |
+| The Forest | 15.00% | ~80,635 |
+| The Keep | 14.00% | ~75,260 |
+| Branded | 13.00% | ~69,884 |
+| The Imposter | 13.00% | ~69,884 |
+| The Castle | 11.00% | ~59,133 |
 | The Dome | 9.00% | ~48,381 |
 | The Red Hall | 9.00% | ~48,381 |
-| The Sacrifice | 8.00% | ~43,005 |
-| The Ziggurat | 8.00% | ~43,005 |
-| The Cave | 7.00% | ~37,629 |
-| The Mire | 7.00% | ~37,629 |
-| The Stone Roots | 7.00% | ~37,629 |
+| The Sacrifice | 8.00% | ~43,006 |
+| The Ziggurat | 8.00% | ~43,006 |
+| The Cave | 7.00% | ~37,630 |
+| The Mire | 7.00% | ~37,630 |
+| The Stone Roots | 7.00% | ~37,630 |
 | Storied | 6.00% | ~32,254 |
 | The Construct | 6.00% | ~32,254 |
 | The Lake | 6.00% | ~32,254 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,751 |
 | Fading Fast | 1.00% | ~5,376 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,563 (Ranked 33)  
+Progressed: 537,569 (Ranked 33)  
 Completed: 1,609 (0.30%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 1,609 (0.30%) (Ranked 225)
 | 2023-11-05 | 537,413 | 1,607 |
 | 2023-11-06 | 537,477 | 1,608 |
 | 2023-11-07 | 537,553 | 1,609 |
-| 2023-11-08 | 537,563 | 1,609 |
+| 2023-11-08 | 537,569 | 1,609 |
 ## Awards
 Max (Challenging Combat): 292  (Ranked 250)  
 Sum: 1,986 (Ranked 209)  

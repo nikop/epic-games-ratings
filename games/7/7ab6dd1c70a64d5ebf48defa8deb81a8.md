@@ -11,8 +11,8 @@
 | A Taste of Wrath | 23.00% | ~39 |
 | Fashion Victim | 23.00% | ~39 |
 | I Found It | 23.00% | ~39 |
+| Powerful Allies | 22.00% | ~38 |
 | The Collector | 22.00% | ~38 |
-| Powerful Allies | 21.00% | ~36 |
 | Adventurer | 21.00% | ~36 |
 | Scholar | 21.00% | ~36 |
 | Geared Up | 20.00% | ~34 |

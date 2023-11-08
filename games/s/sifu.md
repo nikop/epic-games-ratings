@@ -27,7 +27,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Path of the Prospect | 0.40% | ~2,865 |
 | Rumble in the Hangar | 0.40% | ~2,865 |
 | Take damage to save time | 0.40% | ~2,865 |
-| Martial Hub | 0.40% | ~102 |
+| Martial Hub | 0.40% | ~103 |
 | Scareless | 0.30% | ~2,149 |
 | Dance of the Praying Mantis | 0.30% | ~2,149 |
 | Qi Gong: Mind | 0.30% | ~2,149 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,324 (Ranked 20)  
+Progressed: 716,329 (Ranked 20)  
 Completed: 12,933 (1.81%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 12,933 (1.81%) (Ranked 124)
 | 2023-11-05 | 716,208 | 12,933 |
 | 2023-11-06 | 716,236 | 12,933 |
 | 2023-11-07 | 716,309 | 12,933 |
-| 2023-11-08 | 716,324 | 12,933 |
+| 2023-11-08 | 716,329 | 12,933 |
 ## Awards
 Max (Great Boss Battles): 6,769  (Ranked 55)  
 Sum: 11,819 (Ranked 82)  

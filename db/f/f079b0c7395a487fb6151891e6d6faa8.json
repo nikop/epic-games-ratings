@@ -4,8 +4,8 @@
   "ProductSlug": "knowledge-party-0f7f62",
   "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-07T08:57:06.5209244+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:20:12.1729024+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:25:25.7676941+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:00:51.6462476+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:06:24.3495107+00:00"
 }

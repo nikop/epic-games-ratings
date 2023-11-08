@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4,
+  "Rating": 4.02,
   "RatingHistory": [
     {
       "Time": "2023-08-31T18:56:53.9930762+00:00",
@@ -107,6 +107,12 @@
     {
       "Time": "2023-11-05T03:01:16.1368091+00:00",
       "Rating": 4,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-08T02:57:46.8975232+00:00",
+      "Rating": 4.02,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -945,9 +951,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "achievement_10",
@@ -1089,9 +1095,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "achievement_36",
@@ -1121,9 +1127,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_41",
@@ -1177,9 +1183,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_49",
@@ -1329,9 +1335,9 @@
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2023-11-05T03:01:16.136809+00:00",
-  "LastChanged_Achievements": "2023-11-08T02:25:01.639718+00:00",
+  "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
+  "LastChanged_Achievements": "2023-11-08T03:05:59.4908067+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:16:14.9236242+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:25:01.6397778+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:57:46.8975246+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:05:59.490856+00:00"
 }

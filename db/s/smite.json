@@ -2,13 +2,13 @@
   "ID": "076207fa2b5c4803a636af606c3c28b7",
   "Name": "SMITE",
   "ProductSlug": "smite",
-  "Ranking_Rating": 689,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 79,
   "Ranking_PopularitySum": 45,
   "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-04-28T15:00:00+00:00",
     "PcReleaseDate": "2020-04-28T15:00:00+00:00",
@@ -9640,10 +9640,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 29822,
       "NumberOfAwardsMax": 4552
+    },
+    {
+      "Time": "2023-11-08T02:58:42.5334577+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 29826,
+      "NumberOfAwardsMax": 4552
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 29822,
+  "NumberOfAwards": 29826,
   "NumberOfAwardsMax": 4552,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9669,7 +9675,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 3667
+      "Count": 3670
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9693,7 +9699,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 2773
+      "Count": 2774
     },
     {
       "Text": "This game has a Competitive Community",
@@ -9719,8 +9725,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:32.4644513+00:00",
-  "LastChanged": "2023-11-08T01:42:35.6805982+00:00",
+  "LastChanged": "2023-11-08T02:58:42.5334576+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:28.0896177+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:17:22.5473022+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:23:33.2107986+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:58:42.5334582+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:04:59.0892068+00:00"
 }

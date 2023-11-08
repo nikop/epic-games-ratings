@@ -7313,9 +7313,9 @@
       "Count": 1105
     }
   ],
-  "EOS_Progressed": 834395,
+  "EOS_Progressed": 834408,
   "EOS_Completed": 194,
-  "EOS_NewPlayers": 5191,
+  "EOS_NewPlayers": 5186,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -26858,6 +26858,11 @@
       "Time": "2023-11-08T02:24:35.0953956+00:00",
       "NumProgressed": 834395,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-11-08T03:05:31.5492591+00:00",
+      "NumProgressed": 834408,
+      "NumCompleted": 194
     }
   ],
   "TotalAchievements": 75,
@@ -26869,7 +26874,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 200255
+      "UsersEstimate": 200258
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -27468,13 +27473,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 834395,
+      "Progressed": 834408,
       "Completed": 235
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 834395,
+      "Progressed": 834408,
       "Completed": 194
     }
   ],
@@ -27482,8 +27487,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-11-08T01:44:52.5606716+00:00",
-  "LastChanged_Achievements": "2023-11-08T02:24:35.0953948+00:00",
+  "LastChanged_Achievements": "2023-11-08T03:05:31.5492586+00:00",
   "LastUpdate_AppInfo": "2023-11-03T05:57:26.006428+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:20:48.3004951+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:24:35.0956187+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:01:13.1885837+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:05:31.549459+00:00"
 }

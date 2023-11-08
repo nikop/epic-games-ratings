@@ -2,13 +2,13 @@
   "ID": "ca93b6d41a4e41af864942d8f0a2a826",
   "Name": "UNO Standard Edition",
   "ProductSlug": "uno",
-  "Ranking_Rating": 644,
+  "Ranking_Rating": 688,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-03-17T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.46,
+  "Rating": 4.43,
   "NumberOfRatings": 58,
   "RatingHistory": [
     {
@@ -293,6 +293,12 @@
       "Rating": 4.46,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-08T03:00:45.7397029+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -310,8 +316,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:51.0779321+00:00",
-  "LastChanged": "2023-08-01T03:58:39.0451919+00:00",
+  "LastChanged": "2023-11-08T03:00:45.7397028+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:04.1776152+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:20:05.37871+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:27:47.6476327+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:00:45.739704+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:09:10.67124+00:00"
 }

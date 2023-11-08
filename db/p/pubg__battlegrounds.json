@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 13,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-06T05:00:00+00:00",
     "PcReleaseDate": "2022-12-06T05:00:00+00:00",
@@ -5671,9 +5671,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 694036,
+  "EOS_Progressed": 694038,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 14040,
+  "EOS_NewPlayers": 14015,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28656,6 +28656,11 @@
       "Time": "2023-11-08T02:24:50.5094877+00:00",
       "NumProgressed": 694036,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-08T03:05:47.9807827+00:00",
+      "NumProgressed": 694038,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -28667,7 +28672,7 @@
       "Name": "Last Survivor",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 27761
+      "UsersEstimate": 27762
     },
     {
       "ID": "10",
@@ -28739,7 +28744,7 @@
       "Name": "Devil Inside Me",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 180449
+      "UsersEstimate": 180450
     },
     {
       "ID": "19",
@@ -28747,7 +28752,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 499706
+      "UsersEstimate": 499707
     },
     {
       "ID": "2",
@@ -28771,7 +28776,7 @@
       "Name": "Killing Spree",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 124926
+      "UsersEstimate": 124927
     },
     {
       "ID": "22",
@@ -28795,7 +28800,7 @@
       "Name": "First Blood",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 83284
+      "UsersEstimate": 83285
     },
     {
       "ID": "25",
@@ -28859,7 +28864,7 @@
       "Name": "Guardian Angel",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 235972
+      "UsersEstimate": 235973
     },
     {
       "ID": "32",
@@ -28907,7 +28912,7 @@
       "Name": "Health Junkie",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 277614
+      "UsersEstimate": 277615
     },
     {
       "ID": "4",
@@ -28923,7 +28928,7 @@
       "Name": "Top 10",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 83284
+      "UsersEstimate": 83285
     },
     {
       "ID": "6",
@@ -28962,7 +28967,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 694036,
+      "Progressed": 694038,
       "Completed": 10
     }
   ],
@@ -28970,8 +28975,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-11-07T18:56:54.4041486+00:00",
-  "LastChanged_Achievements": "2023-11-08T02:24:50.5094871+00:00",
+  "LastChanged_Achievements": "2023-11-08T03:05:47.9807816+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.1983815+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:15:45.2761276+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:24:50.5096774+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:57:20.5324086+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:05:47.9809312+00:00"
 }

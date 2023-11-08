@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 505,
+  "EOS_Progressed": 506,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.58,
   "EosHistory": [
@@ -1700,6 +1700,11 @@
       "Time": "2023-11-08T02:27:36.0111724+00:00",
       "NumProgressed": 505,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-08T03:08:58.2075071+00:00",
+      "NumProgressed": 506,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1736,7 +1741,7 @@
       "Name": "From Way Downtown",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "achievement_13",
@@ -1760,7 +1765,7 @@
       "Name": "Victory Lap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_16",
@@ -1768,7 +1773,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "achievement_17",
@@ -1776,7 +1781,7 @@
       "Name": "Clean Sheet",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_18",
@@ -1784,7 +1789,7 @@
       "Name": "Perfect Round",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "achievement_2",
@@ -1808,7 +1813,7 @@
       "Name": "From Many, One",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_5",
@@ -1832,7 +1837,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_8",
@@ -1855,13 +1860,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 505,
+      "Progressed": 506,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-08T02:27:36.0111718+00:00",
+  "LastChanged_Achievements": "2023-11-08T03:08:58.2075065+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.7077213+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:18:50.5728118+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:27:36.0112145+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:59:44.7373752+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:08:58.2075287+00:00"
 }

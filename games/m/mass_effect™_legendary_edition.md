@@ -110,9 +110,9 @@
 | Combined Arms | 13.00% | ~134 |
 | Bruiser | 12.00% | ~124 |
 | Paramour III | 11.00% | ~113 |
+| Overload Specialist | 11.00% | ~113 |
 | Warp Mastery | 11.00% | ~113 |
 | Always Prepared | 10.00% | ~103 |
-| Overload Specialist | 10.00% | ~103 |
 | Barrier Mastery | 9.00% | ~93 |
 | Hijacker | 9.00% | ~93 |
 | Lift Mastery | 9.00% | ~93 |

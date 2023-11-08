@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17867,
+  "EOS_Progressed": 17868,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2157,
+  "EOS_NewPlayers": 2153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5794,6 +5794,11 @@
       "Time": "2023-11-08T02:28:21.3070484+00:00",
       "NumProgressed": 17867,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T03:09:45.639194+00:00",
+      "NumProgressed": 17868,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -5854,7 +5859,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3574
     },
     {
       "ID": "achievement_16",
@@ -6030,7 +6035,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 16795
+      "UsersEstimate": 16796
     },
     {
       "ID": "achievement_36",
@@ -6150,7 +6155,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2501
+      "UsersEstimate": 2502
     },
     {
       "ID": "achievement_7",
@@ -6181,7 +6186,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 17867,
+      "Progressed": 17868,
       "Completed": 1
     }
   ],
@@ -6189,8 +6194,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-08T02:28:21.3070479+00:00",
+  "LastChanged_Achievements": "2023-11-08T03:09:45.6391935+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:57.9109843+00:00",
-  "LastUpdate_Ratings": "2023-11-08T02:21:41.8589651+00:00",
-  "LastUpdate_Achievements": "2023-11-08T02:28:21.3071371+00:00"
+  "LastUpdate_Ratings": "2023-11-08T03:03:06.7304658+00:00",
+  "LastUpdate_Achievements": "2023-11-08T03:09:45.6392745+00:00"
 }
