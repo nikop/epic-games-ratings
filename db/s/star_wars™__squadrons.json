@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17897,
+  "EOS_Progressed": 17903,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2162,
+  "EOS_NewPlayers": 2158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5824,6 +5824,11 @@
       "Time": "2023-11-08T08:10:03.5196715+00:00",
       "NumProgressed": 17897,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T09:09:16.2595816+00:00",
+      "NumProgressed": 17903,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -5844,7 +5849,7 @@
       "Name": "Seasoned Star Pilot",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_11",
@@ -5884,7 +5889,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 3579
+      "UsersEstimate": 3581
     },
     {
       "ID": "achievement_16",
@@ -6044,7 +6049,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 3400
+      "UsersEstimate": 3402
     },
     {
       "ID": "achievement_34",
@@ -6060,7 +6065,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 94,
       "XP": 15,
-      "UsersEstimate": 16823
+      "UsersEstimate": 16829
     },
     {
       "ID": "achievement_36",
@@ -6092,7 +6097,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4295
+      "UsersEstimate": 4297
     },
     {
       "ID": "achievement_4",
@@ -6188,7 +6193,7 @@
       "Name": "Special Modifications",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "achievement_8",
@@ -6196,7 +6201,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4295
+      "UsersEstimate": 4297
     },
     {
       "ID": "achievement_9",
@@ -6211,7 +6216,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 17897,
+      "Progressed": 17903,
       "Completed": 1
     }
   ],
@@ -6219,8 +6224,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-08T08:10:03.519671+00:00",
+  "LastChanged_Achievements": "2023-11-08T09:09:16.2595813+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:57.9109843+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:03:17.2516135+00:00",
-  "LastUpdate_Achievements": "2023-11-08T08:10:03.5197885+00:00"
+  "LastUpdate_Ratings": "2023-11-08T09:02:52.3232317+00:00",
+  "LastUpdate_Achievements": "2023-11-08T09:09:16.2596414+00:00"
 }

@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 487,
+  "EOS_Progressed": 488,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.75,
+  "EOS_Completed_Percentage": 5.74,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2085,6 +2085,11 @@
       "Time": "2023-11-08T05:05:03.6090855+00:00",
       "NumProgressed": 487,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-08T09:04:00.1471845+00:00",
+      "NumProgressed": 488,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2208,7 +2213,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2240,7 +2245,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2248,7 +2253,7 @@
       "Name": "Scholar",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "PROGRESS_N1",
@@ -2264,7 +2269,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "PROGRESS_N3",
@@ -2295,14 +2300,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 487,
+      "Progressed": 488,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-08T08:04:43.6169729+00:00",
+  "LastChanged_Achievements": "2023-11-08T09:04:00.1471842+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:58:39.6809008+00:00",
-  "LastUpdate_Achievements": "2023-11-08T08:04:43.6170021+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:58:06.8296793+00:00",
+  "LastUpdate_Achievements": "2023-11-08T09:04:00.1472066+00:00"
 }

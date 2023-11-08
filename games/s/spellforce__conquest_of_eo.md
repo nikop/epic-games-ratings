@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 567)  
+Progressed: 12 (Ranked 568)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -6,21 +6,21 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 27.00% | ~13,819 |
-| Student | 21.00% | ~10,748 |
-| Knower | 15.00% | ~7,677 |
-| Aspen Tree | 14.00% | ~7,166 |
-| Healer | 14.00% | ~7,166 |
-| Listener | 14.00% | ~7,166 |
-| Scientist | 11.00% | ~5,630 |
-| Soldier | 11.00% | ~5,630 |
-| Cow Level | 10.00% | ~5,118 |
-| Water | 10.00% | ~5,118 |
-| Old Friend | 9.00% | ~4,606 |
-| Herbalist | 9.00% | ~4,606 |
-| New Spirits | 9.00% | ~4,606 |
-| Voipel | 9.00% | ~4,606 |
-| Black Mage | 9.00% | ~4,606 |
+| Initiation | 27.00% | ~13,821 |
+| Student | 21.00% | ~10,750 |
+| Knower | 15.00% | ~7,678 |
+| Aspen Tree | 14.00% | ~7,167 |
+| Healer | 14.00% | ~7,167 |
+| Listener | 14.00% | ~7,167 |
+| Scientist | 11.00% | ~5,631 |
+| Soldier | 11.00% | ~5,631 |
+| Cow Level | 10.00% | ~5,119 |
+| Water | 10.00% | ~5,119 |
+| Old Friend | 9.00% | ~4,607 |
+| Herbalist | 9.00% | ~4,607 |
+| New Spirits | 9.00% | ~4,607 |
+| Voipel | 9.00% | ~4,607 |
+| Black Mage | 9.00% | ~4,607 |
 | Card Player | 8.00% | ~4,095 |
 | Pine Tree | 8.00% | ~4,095 |
 | Collector | 8.00% | ~4,095 |
@@ -40,16 +40,16 @@ Number of Ratings: 96  (23.09.2022)
 | Sinner | 6.00% | ~3,071 |
 | Folklorist | 6.00% | ~3,071 |
 | Keeper of Knowledge | 6.00% | ~3,071 |
-| Vorsa | 5.00% | ~2,559 |
-| Susanin | 5.00% | ~2,559 |
-| Traveller | 5.00% | ~2,559 |
-| Musician | 4.00% | ~2,047 |
-| Black Sorceress | 3.00% | ~1,535 |
-| Cheater | 3.00% | ~1,535 |
-| Diplomat | 3.00% | ~1,535 |
-| Righteous | 3.00% | ~1,535 |
-| White Head | 3.00% | ~1,535 |
-| Koldun | 3.00% | ~1,535 |
+| Vorsa | 5.00% | ~2,560 |
+| Susanin | 5.00% | ~2,560 |
+| Traveller | 5.00% | ~2,560 |
+| Musician | 4.00% | ~2,048 |
+| Black Sorceress | 3.00% | ~1,536 |
+| Cheater | 3.00% | ~1,536 |
+| Diplomat | 3.00% | ~1,536 |
+| Righteous | 3.00% | ~1,536 |
+| White Head | 3.00% | ~1,536 |
+| Koldun | 3.00% | ~1,536 |
 | Revelation | 2.00% | ~1,024 |
 | Mistress of Hell | 2.00% | ~1,024 |
 | Detective | 2.00% | ~1,024 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 1.00% | ~512 |
 | Word Master | 0.20% | ~102 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,183 (Ranked 109)  
+Progressed: 51,190 (Ranked 109)  
 Completed: 46 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 46 (0.09%) (Ranked 275)
 | 2023-11-05 | 50,599 | 46 |
 | 2023-11-06 | 50,885 | 46 |
 | 2023-11-07 | 51,113 | 46 |
-| 2023-11-08 | 51,183 | 46 |
+| 2023-11-08 | 51,190 | 46 |
 ## Awards
 Max (Character Customization): 85  (Ranked 380)  
 Sum: 85 (Ranked 452)  

@@ -750,17 +750,17 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_14",
       "SetID": "efe2lj",
       "Name": "Airborne",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_15",
@@ -830,9 +830,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_24",
@@ -949,8 +949,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-08T08:10:01.934005+00:00",
+  "LastChanged_Achievements": "2023-11-08T09:09:14.9547614+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:57:25.9422278+00:00",
-  "LastUpdate_Achievements": "2023-11-08T08:10:01.934041+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:57:15.2080801+00:00",
+  "LastUpdate_Achievements": "2023-11-08T09:09:14.9547802+00:00"
 }

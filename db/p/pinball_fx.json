@@ -1895,10 +1895,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 1591,
       "NumberOfAwardsMax": 199
+    },
+    {
+      "Time": "2023-11-08T09:02:54.6721537+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 1592,
+      "NumberOfAwardsMax": 199
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1591,
+  "NumberOfAwards": 1592,
   "NumberOfAwardsMax": 199,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1924,7 +1930,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 188
+      "Count": 189
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -1981,9 +1987,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 278819,
+  "EOS_Progressed": 278823,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2430,
+  "EOS_NewPlayers": 2427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25036,6 +25042,11 @@
       "Time": "2023-11-08T08:03:39.391563+00:00",
       "NumProgressed": 278819,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T09:03:10.7759366+00:00",
+      "NumProgressed": 278823,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -25207,7 +25218,7 @@
       "Name": "I Found it!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 30670
+      "UsersEstimate": 30671
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -25271,7 +25282,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 228632
+      "UsersEstimate": 228635
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -25279,22 +25290,22 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 94798
+      "UsersEstimate": 94800
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 278819,
+      "Progressed": 278823,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
-  "LastChanged": "2023-11-05T21:02:48.30835+00:00",
-  "LastChanged_Achievements": "2023-11-08T08:03:39.3915622+00:00",
+  "LastChanged": "2023-11-08T09:02:54.6721535+00:00",
+  "LastChanged_Achievements": "2023-11-08T09:03:10.7759364+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.5253438+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:03:20.15967+00:00",
-  "LastUpdate_Achievements": "2023-11-08T08:03:39.3918061+00:00"
+  "LastUpdate_Ratings": "2023-11-08T09:02:54.672154+00:00",
+  "LastUpdate_Achievements": "2023-11-08T09:03:10.776069+00:00"
 }

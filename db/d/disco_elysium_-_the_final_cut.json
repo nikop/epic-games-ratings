@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewPlayers": 134,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130590,
+  "EOS_Progressed": 130591,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21327,6 +21327,11 @@
       "Time": "2023-11-08T08:07:32.0235306+00:00",
       "NumProgressed": 130590,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-08T09:06:10.315555+00:00",
+      "NumProgressed": 130591,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21442,7 +21447,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20894
+      "UsersEstimate": 20895
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -21474,7 +21479,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20894
+      "UsersEstimate": 20895
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -21657,15 +21662,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130590,
+      "Progressed": 130591,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-08T08:07:32.0235298+00:00",
+  "LastChanged_Achievements": "2023-11-08T09:06:10.3155545+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:00:54.9339805+00:00",
-  "LastUpdate_Achievements": "2023-11-08T08:07:32.0237077+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:59:47.3480461+00:00",
+  "LastUpdate_Achievements": "2023-11-08T09:06:10.3156718+00:00"
 }

@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~133 |
 | Wabbit Season | 0.50% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,664 (Ranked 175)  
+Progressed: 6,664 (Ranked 176)  
 Completed: 14 (0.21%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |

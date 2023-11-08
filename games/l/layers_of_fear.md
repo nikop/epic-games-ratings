@@ -7,12 +7,12 @@
 | Wanderer | 76.00% | ~45 |
 | Something important | 75.00% | ~44 |
 | A piece of the story | 59.00% | ~35 |
-| Do what you have to | 42.00% | ~25 |
+| Do what you have to | 44.00% | ~26 |
 | The artist’s impression | 42.00% | ~25 |
 | Scraps of love | 41.00% | ~24 |
+| Refuse to look | 39.00% | ~23 |
 | It's covered up for a reason | 37.00% | ~22 |
-| Refuse to look | 37.00% | ~22 |
-| Sign of weakness | 34.00% | ~20 |
+| Sign of weakness | 36.00% | ~21 |
 | Finished it | 29.00% | ~17 |
 | Face your fears | 19.00% | ~11 |
 | First steps | 14.00% | ~8 |

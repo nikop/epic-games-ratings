@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3085,10 +3085,10 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 81875,
-  "EOS_Completed": 155,
-  "EOS_NewPlayers": 883,
-  "EOS_NewCompleters": 4,
+  "EOS_Progressed": 81876,
+  "EOS_Completed": 156,
+  "EOS_NewPlayers": 882,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
     {
@@ -25515,6 +25515,11 @@
       "Time": "2023-11-08T07:08:57.057127+00:00",
       "NumProgressed": 81875,
       "NumCompleted": 155
+    },
+    {
+      "Time": "2023-11-08T09:08:28.7415605+00:00",
+      "NumProgressed": 81876,
+      "NumCompleted": 156
     }
   ],
   "TotalAchievements": 30,
@@ -25702,7 +25707,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 28656
+      "UsersEstimate": 28657
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -25740,9 +25745,9 @@
       "ID": "ACHIEVEMENT_27",
       "SetID": "aonc16",
       "Name": "Grand champion",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 9006
+      "UsersEstimate": 9825
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -25765,15 +25770,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 81875,
-      "Completed": 155
+      "Progressed": 81876,
+      "Completed": 156
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-07T02:59:01.3603893+00:00",
-  "LastChanged_Achievements": "2023-11-08T08:09:02.6339759+00:00",
+  "LastChanged_Achievements": "2023-11-08T09:08:28.74156+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.8339695+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:00:01.8603624+00:00",
-  "LastUpdate_Achievements": "2023-11-08T08:09:02.6341737+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:59:07.5332774+00:00",
+  "LastUpdate_Achievements": "2023-11-08T09:08:28.7416835+00:00"
 }

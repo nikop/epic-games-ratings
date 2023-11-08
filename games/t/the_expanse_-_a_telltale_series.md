@@ -15,6 +15,7 @@ Rating: 4.55 (Ranked 501)
 | Martian Music | 2.00% | ~295 |
 | Drone Dodger | 2.00% | ~295 |
 | Heal Thy Medic | 2.00% | ~295 |
+| Khan's Revenge | 2.00% | ~295 |
 | Call it Even | 2.00% | ~295 |
 | Captain Drummer | 2.00% | ~295 |
 | Celebrations are in Order | 2.00% | ~295 |
@@ -25,7 +26,6 @@ Rating: 4.55 (Ranked 501)
 | Madame Undersecretary | 2.00% | ~14 |
 | Bottoms up! | 1.00% | ~147 |
 | Thorston Mayer | 1.00% | ~147 |
-| Khan's Revenge | 1.00% | ~147 |
 | Master Negotiator | 1.00% | ~7 |
 | Miraculous Maya | 0.90% | ~133 |
 | Doctor Approved | 0.80% | ~118 |

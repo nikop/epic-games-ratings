@@ -8,18 +8,18 @@
 | The Teleprobe | 47.00% | ~36 |
 | The City | 35.00% | ~27 |
 | Krauta is alive | 22.00% | ~17 |
-| The field base | 19.00% | ~15 |
+| The field base | 21.00% | ~16 |
 | Volcanologist | 17.00% | ~13 |
 | The Alliance | 14.00% | ~11 |
 | The Necroevolution | 13.00% | ~10 |
-| Survivors | 12.00% | ~9 |
+| Survivors | 13.00% | ~10 |
+| The Condor | 9.00% | ~7 |
 | I leave no man behind | 8.00% | ~6 |
-| The Condor | 8.00% | ~6 |
 | Flying Objects Operator | 8.00% | ~6 |
 | The End | 8.00% | ~6 |
 | On her own | 6.00% | ~5 |
+| Beyond divisions | 6.00% | ~5 |
 | I remember everything! | 5.00% | ~4 |
-| Beyond divisions | 5.00% | ~4 |
 | Fierce fight | 4.00% | ~3 |
 | Peacemaker | 4.00% | ~3 |
 | Evacuation | 4.00% | ~3 |

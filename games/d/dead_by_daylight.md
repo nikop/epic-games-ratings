@@ -6,30 +6,30 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~70,223 |
-| Zealous | 6.00% | ~60,191 |
-| Skillful | 6.00% | ~60,191 |
-| Not half bad | 5.00% | ~50,159 |
-| Apt Survivor | 5.00% | ~50,159 |
-| Make Some Noise | 5.00% | ~50,159 |
-| Handyman | 4.00% | ~40,127 |
-| Survival Treasures | 4.00% | ~40,127 |
-| I | 4.00% | ~40,127 |
-| Sorted | 4.00% | ~40,127 |
-| The Grand Sacrifice | 3.00% | ~30,095 |
-| Agonizing Escape | 3.00% | ~30,095 |
-| Backdoor Escape | 3.00% | ~30,095 |
-| I've got your back | 3.00% | ~30,095 |
-| No one left behind | 3.00% | ~30,095 |
-| Medic | 3.00% | ~30,095 |
-| Perfect Escape | 3.00% | ~30,095 |
-| Perfect Killing | 3.00% | ~30,095 |
-| Bloody Millionaire | 3.00% | ~30,095 |
-| Engineer | 3.00% | ~30,095 |
-| Healthy Obsession | 3.00% | ~30,095 |
-| Resurgence | 3.00% | ~30,095 |
-| Preemptive Strike | 3.00% | ~30,095 |
-| Humanitarian | 3.00% | ~30,095 |
+| It wakes | 7.00% | ~70,225 |
+| Zealous | 6.00% | ~60,193 |
+| Skillful | 6.00% | ~60,193 |
+| Not half bad | 5.00% | ~50,161 |
+| Apt Survivor | 5.00% | ~50,161 |
+| Make Some Noise | 5.00% | ~50,161 |
+| Handyman | 4.00% | ~40,129 |
+| Survival Treasures | 4.00% | ~40,129 |
+| I | 4.00% | ~40,129 |
+| Sorted | 4.00% | ~40,129 |
+| The Grand Sacrifice | 3.00% | ~30,097 |
+| Agonizing Escape | 3.00% | ~30,097 |
+| Backdoor Escape | 3.00% | ~30,097 |
+| I've got your back | 3.00% | ~30,097 |
+| No one left behind | 3.00% | ~30,097 |
+| Medic | 3.00% | ~30,097 |
+| Perfect Escape | 3.00% | ~30,097 |
+| Perfect Killing | 3.00% | ~30,097 |
+| Bloody Millionaire | 3.00% | ~30,097 |
+| Engineer | 3.00% | ~30,097 |
+| Healthy Obsession | 3.00% | ~30,097 |
+| Resurgence | 3.00% | ~30,097 |
+| Preemptive Strike | 3.00% | ~30,097 |
+| Humanitarian | 3.00% | ~30,097 |
 | Escape Artist | 2.00% | ~20,064 |
 | Nerves of steel | 2.00% | ~20,064 |
 | Apt Killer | 2.00% | ~20,064 |
@@ -91,15 +91,15 @@ Number of Ratings: 70,340  (23.09.2022)
 | Broken Bodies | 0.90% | ~9,029 |
 | Insult and Injury | 0.90% | ~9,029 |
 | Kitted Out | 0.90% | ~9,029 |
-| Deep Cleansing | 0.80% | ~8,025 |
-| Texas BBQ | 0.80% | ~8,025 |
-| Party Crasher | 0.80% | ~8,025 |
-| High Speed Pursuit | 0.80% | ~8,025 |
-| Outrage | 0.70% | ~7,022 |
-| Heavy Burden | 0.70% | ~7,022 |
-| I See You | 0.70% | ~7,022 |
-| Prowler | 0.70% | ~7,022 |
-| Triage | 0.70% | ~7,022 |
+| Deep Cleansing | 0.80% | ~8,026 |
+| Texas BBQ | 0.80% | ~8,026 |
+| Party Crasher | 0.80% | ~8,026 |
+| High Speed Pursuit | 0.80% | ~8,026 |
+| Outrage | 0.70% | ~7,023 |
+| Heavy Burden | 0.70% | ~7,023 |
+| I See You | 0.70% | ~7,023 |
+| Prowler | 0.70% | ~7,023 |
+| Triage | 0.70% | ~7,023 |
 | Blood in your mouth | 0.60% | ~6,019 |
 | Whiffing to Success | 0.60% | ~6,019 |
 | Power Moves | 0.60% | ~6,019 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,003 |
 | Adept Ripley | 0.10% | ~1,003 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,003,182 (Ranked 14)  
+Progressed: 1,003,221 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -438,18 +438,18 @@ Completed: 52 (0.01%) (Ranked 321)
 | 2023-11-05 | 998,907 | 52 |
 | 2023-11-06 | 1,000,713 | 52 |
 | 2023-11-07 | 1,002,710 | 52 |
-| 2023-11-08 | 1,003,182 | 52 |
+| 2023-11-08 | 1,003,221 | 52 |
 ## Awards
 Max (Diverse Characters): 35,546  (Ranked 15)  
-Sum: 272,734 (Ranked 13)  
+Sum: 272,820 (Ranked 13)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 35,546 |
 | This game is Highly Recommended | 31,213 |
-| This game has Amazing Characters | 30,758 |
+| This game has Amazing Characters | 30,812 |
 | This game has Competitive Players | 30,678 |
-| This game is Extremely Fun | 30,348 |
+| This game is Extremely Fun | 30,380 |
 | This game has Challenging Combat | 30,101 |
 | This game has Quickly Understood Controls | 29,692 |
 | This game has Amazing Storytelling | 27,895 |
@@ -747,4 +747,4 @@ Diff (max vs sum): 2
 | 2023-11-05 | 4.51 | - | 35,408 | 271,745 |
 | 2023-11-06 | 4.51 | - | 35,459 | 272,093 |
 | 2023-11-07 | 4.51 | - | 35,546 | 272,613 |
-| 2023-11-08 | 4.51 | - | 35,546 | 272,734 |
+| 2023-11-08 | 4.51 | - | 35,546 | 272,820 |

@@ -12,16 +12,16 @@
 | A Taste of Wrath | 23.00% | ~40 |
 | Fashion Victim | 23.00% | ~40 |
 | Powerful Allies | 22.00% | ~38 |
+| Adventurer | 22.00% | ~38 |
 | The Collector | 22.00% | ~38 |
-| Adventurer | 21.00% | ~36 |
+| Geared Up | 21.00% | ~36 |
 | Scholar | 21.00% | ~36 |
-| Geared Up | 20.00% | ~34 |
 | Tributes of Caladrias | 19.00% | ~33 |
 | Stone Collection | 18.00% | ~31 |
 | Essence Blow | 11.00% | ~19 |
+| Airborne | 8.00% | ~14 |
 | Big Bazar | 8.00% | ~14 |
 | Alchemist | 8.00% | ~14 |
-| Airborne | 7.00% | ~12 |
 | The Mentor | 6.00% | ~10 |
 | Miner | 5.00% | ~9 |
 | Calm before the Storm | 4.00% | ~7 |

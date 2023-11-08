@@ -6,20 +6,20 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~16,846 |
-| Sword Runner | 61.00% | ~13,521 |
+| Longrunner | 76.00% | ~16,847 |
+| Sword Runner | 61.00% | ~13,522 |
 | Running out of breath | 54.00% | ~11,970 |
-| Wallrunner | 53.00% | ~11,748 |
+| Wallrunner | 53.00% | ~11,749 |
 | Homerunner | 45.00% | ~9,975 |
 | Out of order | 44.00% | ~9,753 |
-| I call it luck | 43.00% | ~9,531 |
-| Where are my Keys? | 40.00% | ~8,866 |
-| Back to hell | 37.00% | ~8,201 |
+| I call it luck | 43.00% | ~9,532 |
+| Where are my Keys? | 40.00% | ~8,867 |
+| Back to hell | 37.00% | ~8,202 |
 | Perfection | 32.00% | ~7,093 |
 | Why not both | 30.00% | ~6,650 |
 | Sword to a gunfight | 29.00% | ~6,428 |
 | Upgrades not mandatory | 29.00% | ~6,428 |
-| Artificial selection | 28.00% | ~6,206 |
+| Artificial selection | 28.00% | ~6,207 |
 | Control freak | 27.00% | ~5,985 |
 | Running Wild | 27.00% | ~5,985 |
 | Finish line | 26.00% | ~5,763 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Junkrunner | 2.00% | ~443 |
 | One man's trash | 2.00% | ~443 |
 | Hit me if you can | 1.00% | ~222 |
-| Obedient Machine | 0.90% | ~199 |
+| Obedient Machine | 0.90% | ~200 |
 | Everyone Needs A Hobby | 0.70% | ~155 |
 | Legacy Drivers | 0.50% | ~111 |
 | A Grade | 0.40% | ~89 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~89 |
 | Up Close And Personal | 0.40% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,166 (Ranked 128)  
+Progressed: 22,167 (Ranked 128)  
 Completed: 83 (0.37%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 83 (0.37%) (Ranked 213)
 | 2023-11-05 | 22,003 | 83 |
 | 2023-11-06 | 22,078 | 83 |
 | 2023-11-07 | 22,152 | 83 |
-| 2023-11-08 | 22,166 | 83 |
+| 2023-11-08 | 22,167 | 83 |
 ## Awards
 Max (Great Boss Battles): 517  (Ranked 205)  
 Sum: 745 (Ranked 285)  

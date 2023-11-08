@@ -477,9 +477,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 251421,
+  "EOS_Progressed": 251423,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23052,6 +23052,11 @@
       "Time": "2023-11-08T08:06:17.456842+00:00",
       "NumProgressed": 251421,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T09:05:12.8188104+00:00",
+      "NumProgressed": 251423,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23279,7 +23284,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62855
+      "UsersEstimate": 62856
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -23335,7 +23340,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17599
+      "UsersEstimate": 17600
     },
     {
       "ID": "ACH_MEMESMART",
@@ -23383,7 +23388,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62855
+      "UsersEstimate": 62856
     },
     {
       "ID": "ACH_SOREAD",
@@ -23478,7 +23483,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251421,
+      "Progressed": 251423,
       "Completed": 7
     }
   ],
@@ -23486,8 +23491,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-08T08:06:17.4568414+00:00",
+  "LastChanged_Achievements": "2023-11-08T09:05:12.8188102+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.5962658+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:59:18.0055011+00:00",
-  "LastUpdate_Achievements": "2023-11-08T08:06:17.4570148+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:58:36.6123241+00:00",
+  "LastUpdate_Achievements": "2023-11-08T09:05:12.8189351+00:00"
 }

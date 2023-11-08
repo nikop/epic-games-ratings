@@ -2,9 +2,9 @@
   "ID": "3778010ababa48d387d44ee9fd61b517",
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
-  "Ranking_EOS_Progress": 585,
+  "Ranking_EOS_Progress": 586,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -237,9 +237,9 @@
       "ID": "A_LEVEL",
       "SetID": "324h56e",
       "Name": "Ding!",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_MEAT meat (0-10000)",
@@ -285,9 +285,9 @@
       "ID": "A_POPULATION",
       "SetID": "324h56e",
       "Name": "Full Hive",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_QUEEN",
@@ -341,9 +341,9 @@
       "ID": "A_SUNKEN",
       "SetID": "324h56e",
       "Name": "The Sunken City",
-      "Percentage": 13,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_TURRET",
@@ -395,8 +395,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-08T08:05:50.8712735+00:00",
+  "LastChanged_Achievements": "2023-11-08T09:04:52.1917209+00:00",
   "LastUpdate_AppInfo": "2023-11-01T23:57:09.7585186+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:02:57.5038509+00:00",
-  "LastUpdate_Achievements": "2023-11-08T08:05:50.8713015+00:00"
+  "LastUpdate_Ratings": "2023-11-08T09:02:38.4398923+00:00",
+  "LastUpdate_Achievements": "2023-11-08T09:04:52.1917464+00:00"
 }

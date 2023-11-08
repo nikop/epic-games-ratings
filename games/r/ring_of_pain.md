@@ -7,8 +7,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matching | 0.50% | ~4 |
-| Not Touching You | 0.30% | ~2 |
+| Not Touching You | 0.30% | ~3 |
 | First Steps | 0.20% | ~479 |
+| Getting A Glimpse | 0.20% | ~479 |
 | A Quick Escape | 0.20% | ~479 |
 | Uncharted Territory | 0.20% | ~479 |
 | An Offering | 0.20% | ~479 |
@@ -28,7 +29,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Delving Deeper | 0.10% | ~239 |
 | A Long Climb | 0.10% | ~239 |
 | A Rough Road | 0.10% | ~239 |
-| Getting A Glimpse | 0.10% | ~239 |
 | Hydrophobe | 0.10% | ~239 |
 | Disposal | 0.10% | ~239 |
 | Dead Revels | 0.10% | ~239 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,353 (Ranked 60)  
+Progressed: 239,354 (Ranked 60)  
 Completed: 287 (0.12%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 287 (0.12%) (Ranked 264)
 | 2023-11-05 | 239,241 | 286 |
 | 2023-11-06 | 239,288 | 286 |
 | 2023-11-07 | 239,335 | 286 |
-| 2023-11-08 | 239,353 | 287 |
+| 2023-11-08 | 239,354 | 287 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 129)  
 Sum: 11,656 (Ranked 83)  

@@ -3203,9 +3203,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17241,
+  "EOS_Progressed": 17242,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13273,6 +13273,11 @@
       "Time": "2023-11-08T05:08:42.7186446+00:00",
       "NumProgressed": 17241,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-08T09:06:29.5559971+00:00",
+      "NumProgressed": 17242,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13380,7 +13385,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "WinImpossible",
@@ -13548,7 +13553,7 @@
       "Name": "Coral Forest",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "WinOnCursed",
@@ -13572,7 +13577,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "WinPrestige10",
@@ -13683,15 +13688,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17241,
+      "Progressed": 17242,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-07T21:58:31.8964785+00:00",
-  "LastChanged_Achievements": "2023-11-08T08:08:37.1009154+00:00",
+  "LastChanged_Achievements": "2023-11-08T09:06:29.5559968+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:59:39.9235578+00:00",
-  "LastUpdate_Achievements": "2023-11-08T08:08:37.1010467+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:58:52.7558085+00:00",
+  "LastUpdate_Achievements": "2023-11-08T09:06:29.5560657+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 143)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,689 |
-| The Killing Jar | 8.00% | ~17,501 |
+| First of Many | 9.00% | ~19,690 |
+| The Killing Jar | 8.00% | ~17,502 |
 | Expanding Horizons | 7.00% | ~15,314 |
 | Quest for Survival | 7.00% | ~15,314 |
 | Not Your Average Trait | 7.00% | ~15,314 |
@@ -15,15 +15,15 @@ Rating: 4.75 (Ranked 143)
 | Duality | 6.00% | ~13,126 |
 | Boss'n Up | 6.00% | ~13,126 |
 | Trait Chaser | 6.00% | ~13,126 |
-| Not So Special Now | 5.00% | ~10,938 |
-| Not a Janitor | 5.00% | ~10,938 |
-| Equal Measures | 5.00% | ~10,938 |
-| Blue Goddess | 5.00% | ~10,938 |
-| Top Performer | 5.00% | ~10,938 |
-| Shhh...It's a Secret | 5.00% | ~10,938 |
-| Almost There | 5.00% | ~10,938 |
-| Make Some Room | 5.00% | ~10,938 |
-| Good, But Could Be Better! | 5.00% | ~10,938 |
+| Not So Special Now | 5.00% | ~10,939 |
+| Not a Janitor | 5.00% | ~10,939 |
+| Equal Measures | 5.00% | ~10,939 |
+| Blue Goddess | 5.00% | ~10,939 |
+| Top Performer | 5.00% | ~10,939 |
+| Shhh...It's a Secret | 5.00% | ~10,939 |
+| Almost There | 5.00% | ~10,939 |
+| Make Some Room | 5.00% | ~10,939 |
+| Good, But Could Be Better! | 5.00% | ~10,939 |
 | Chaos | 4.00% | ~8,751 |
 | Traitor | 4.00% | ~8,751 |
 | Power Surge | 4.00% | ~8,751 |
@@ -43,21 +43,21 @@ Rating: 4.75 (Ranked 143)
 | Edgelord | 3.00% | ~6,563 |
 | The Ultimate Weapon | 3.00% | ~6,563 |
 | No One Should Have All That Power | 3.00% | ~6,563 |
-| Crafty | 2.00% | ~4,375 |
-| Only Human | 2.00% | ~4,375 |
-| Red Room | 2.00% | ~4,375 |
-| The Collector | 2.00% | ~4,375 |
-| Scrap Hoarder | 2.00% | ~4,375 |
-| Carnage in C-Minor | 2.00% | ~4,375 |
-| Maxed Out! | 2.00% | ~4,375 |
-| Transmutate | 2.00% | ~4,375 |
+| Crafty | 2.00% | ~4,376 |
+| Only Human | 2.00% | ~4,376 |
+| Red Room | 2.00% | ~4,376 |
+| The Collector | 2.00% | ~4,376 |
+| Scrap Hoarder | 2.00% | ~4,376 |
+| Carnage in C-Minor | 2.00% | ~4,376 |
+| Maxed Out! | 2.00% | ~4,376 |
+| Transmutate | 2.00% | ~4,376 |
 | Ghost in the Machine | 1.00% | ~2,188 |
 | The Trigger | 1.00% | ~2,188 |
 | Cutting Edge | 1.00% | ~2,188 |
 | Proving Grounds | 1.00% | ~2,188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,768 (Ranked 68)  
-Completed: 433 (0.20%) (Ranked 244)  
+Progressed: 218,775 (Ranked 68)  
+Completed: 434 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -171,7 +171,7 @@ Completed: 433 (0.20%) (Ranked 244)
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
 | 2023-11-07 | 218,702 | 433 |
-| 2023-11-08 | 218,768 | 433 |
+| 2023-11-08 | 218,775 | 434 |
 ## Awards
 Max (Great Boss Battles): 2,095  (Ranked 109)  
 Sum: 4,692 (Ranked 143)  
