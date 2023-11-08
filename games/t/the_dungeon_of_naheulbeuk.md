@@ -6,14 +6,14 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,578 |
+| Sowwy! | 35.00% | ~82,579 |
 | Alt+F4 | 8.00% | ~18,875 |
 | Where's that freaking Dwarf? | 7.00% | ~16,516 |
 | Déjà vu | 6.00% | ~14,156 |
 | Sock! SOCK! | 5.00% | ~11,797 |
-| A beer, two curses, three companions | 4.00% | ~9,437 |
-| GG EZ | 4.00% | ~9,437 |
-| Speedrun | 4.00% | ~9,437 |
+| A beer, two curses, three companions | 4.00% | ~9,438 |
+| GG EZ | 4.00% | ~9,438 |
+| Speedrun | 4.00% | ~9,438 |
 | Way of the Wimp | 3.00% | ~7,078 |
 | The plot thickens... At the tavern | 3.00% | ~7,078 |
 | DM intervention | 3.00% | ~7,078 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,359 |
 | Material Girl | 1.00% | ~2,359 |
 | Gargantua | 0.90% | ~2,123 |
-| In Navalu's footsteps | 0.80% | ~1,887 |
+| In Navalu's footsteps | 0.80% | ~1,888 |
 | Lëgal Legend | 0.70% | ~1,652 |
 | Holistic Adventuring Party | 0.60% | ~1,416 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,416 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,936 (Ranked 61)  
+Progressed: 235,939 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-05 | 235,463 | 7 |
 | 2023-11-06 | 235,658 | 7 |
 | 2023-11-07 | 235,846 | 7 |
-| 2023-11-08 | 235,936 | 7 |
+| 2023-11-08 | 235,939 | 7 |
 ## Awards
 Max (Character Customization): 227  (Ranked 271)  
 Sum: 453 (Ranked 328)  

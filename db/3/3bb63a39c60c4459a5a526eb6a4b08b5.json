@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 910,
+  "EOS_Progressed": 911,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3439,6 +3439,11 @@
       "Time": "2023-11-07T20:15:42.4981902+00:00",
       "NumProgressed": 910,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T16:08:48.2057007+00:00",
+      "NumProgressed": 911,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3482,7 +3487,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Calculated",
@@ -3546,7 +3551,7 @@
       "Name": "Game Started",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "FullCompletion",
@@ -3586,7 +3591,7 @@
       "Name": "Large Airport",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LargeTerritories",
@@ -3664,9 +3669,9 @@
       "ID": "NoWayBack",
       "SetID": "1e89b4i",
       "Name": "No Way Back",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 392
     },
     {
       "ID": "NotPlanned",
@@ -3722,7 +3727,7 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "Restructuring",
@@ -3770,7 +3775,7 @@
       "Name": "Time for Management",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "TransportHub",
@@ -3778,21 +3783,21 @@
       "Name": "Transport Hub",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 910,
+      "Progressed": 911,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:09:12.9641422+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:08:48.2057002+00:00",
   "LastUpdate_AppInfo": "2023-11-07T15:57:21.4761392+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:59:33.3491704+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:09:12.9642629+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:58:50.000589+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:08:48.2057558+00:00"
 }

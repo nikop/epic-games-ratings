@@ -12,6 +12,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Getting A Glimpse | 0.20% | ~479 |
 | Colorful Corpse | 0.20% | ~479 |
 | Defeat The Dark | 0.20% | ~479 |
+| Goodbye, Frog Friend | 0.20% | ~479 |
 | A Quick Escape | 0.20% | ~479 |
 | Uncharted Territory | 0.20% | ~479 |
 | Explorer | 0.20% | ~479 |
@@ -75,7 +76,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Overthrown | 0.10% | ~239 |
 | All Consuming | 0.10% | ~239 |
 | Poor Choices | 0.10% | ~239 |
-| Goodbye, Frog Friend | 0.10% | ~239 |
 | Heartless | 0.10% | ~239 |
 | What's Yours Is Mine | 0.10% | ~239 |
 | Stop Hitting Yourself | 0.10% | ~239 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,366 (Ranked 60)  
+Progressed: 239,368 (Ranked 60)  
 Completed: 287 (0.12%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 287 (0.12%) (Ranked 264)
 | 2023-11-05 | 239,241 | 286 |
 | 2023-11-06 | 239,288 | 286 |
 | 2023-11-07 | 239,335 | 286 |
-| 2023-11-08 | 239,366 | 287 |
+| 2023-11-08 | 239,368 | 287 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 129)  
 Sum: 11,660 (Ranked 83)  

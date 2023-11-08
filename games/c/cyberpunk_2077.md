@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,915 |
+| V for Vendetta | 2.00% | ~17,916 |
 | Gun Fu | 1.00% | ~8,958 |
 | Relic Ruler | 0.70% | ~171 |
 | Full Body Conversion | 0.50% | ~4,479 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,773 (Ranked 15)  
+Progressed: 895,779 (Ranked 15)  
 Completed: 2,754 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 2,754 (0.31%) (Ranked 222)
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
 | 2023-11-07 | 895,712 | 2,753 |
-| 2023-11-08 | 895,773 | 2,754 |
+| 2023-11-08 | 895,779 | 2,754 |
 ## Awards
 Max (Character Customization): 104,395  (Ranked 9)  
 Sum: 346,336 (Ranked 10)  

@@ -105,10 +105,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 0.50% | ~694 |
 | All Accounted For | 0.50% | ~694 |
 | The Free Encyclopedia | 0.40% | ~555 |
+| All or Nothing! | 0.40% | ~555 |
 | JACKPOT!!! | 0.30% | ~416 |
 | Anything not Nailed Down | 0.30% | ~416 |
 | The Greatest Grind | 0.30% | ~416 |
-| All or Nothing! | 0.30% | ~416 |
 | Marvels from the World Over | 0.30% | ~416 |
 | Bane of Legends | 0.20% | ~278 |
 | Ultimate Collector | 0.20% | ~278 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,790 (Ranked 79)  
+Progressed: 138,793 (Ranked 79)  
 Completed: 178 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 178 (0.13%) (Ranked 257)
 | 2023-11-05 | 138,681 | 178 |
 | 2023-11-06 | 138,721 | 178 |
 | 2023-11-07 | 138,763 | 178 |
-| 2023-11-08 | 138,790 | 178 |
+| 2023-11-08 | 138,793 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 74)  
 Sum: 27,509 (Ranked 52)  

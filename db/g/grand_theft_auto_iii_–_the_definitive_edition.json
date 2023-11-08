@@ -517,9 +517,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8539,
+  "EOS_Progressed": 8540,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10867,6 +10867,11 @@
       "Time": "2023-11-08T15:05:24.4082187+00:00",
       "NumProgressed": 8539,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-08T16:04:32.6973702+00:00",
+      "NumProgressed": 8540,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10878,7 +10883,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7087
+      "UsersEstimate": 7088
     },
     {
       "ID": "ACH02",
@@ -10886,7 +10891,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2903
+      "UsersEstimate": 2904
     },
     {
       "ID": "ACH03",
@@ -11006,7 +11011,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "ACH18",
@@ -11109,7 +11114,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8539,
+      "Progressed": 8540,
       "Completed": 56
     }
   ],
@@ -11117,8 +11122,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-07T02:18:06.6938355+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:05:24.4082182+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:04:32.6973695+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:00:01.628861+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:05:24.4082838+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:59:17.2925989+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:04:32.6974735+00:00"
 }

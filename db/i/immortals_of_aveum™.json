@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 197,
+  "EOS_Progressed": 198,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -971,6 +971,11 @@
       "Time": "2023-11-08T15:06:18.3897298+00:00",
       "NumProgressed": 197,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T16:05:18.3122086+00:00",
+      "NumProgressed": 198,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -983,7 +988,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "achievement_10",
@@ -991,7 +996,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_11",
@@ -999,7 +1004,7 @@
       "Name": "The Means to Save It",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "achievement_12",
@@ -1007,7 +1012,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "achievement_13",
@@ -1015,7 +1020,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_14",
@@ -1023,7 +1028,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievement_15",
@@ -1159,7 +1164,7 @@
       "Name": "No More Names",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_41",
@@ -1199,7 +1204,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_46",
@@ -1213,9 +1218,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 156
     },
     {
       "ID": "achievement_49",
@@ -1333,9 +1338,9 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_8",
@@ -1358,7 +1363,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 197,
+      "Progressed": 198,
       "Completed": 1
     }
   ],
@@ -1366,8 +1371,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:06:18.3897293+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:05:18.3122081+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:58:01.2925349+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:06:18.3897681+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:57:36.4596084+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:05:18.3122468+00:00"
 }

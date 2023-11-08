@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 0.40% | ~21 |
+| But this one is mine | 0.50% | ~26 |
 | There Can Only Be One! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 410)
 | Draconic Connoisseur | 0.00% | ~0 |
 | A Very Special Ring | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,291 (Ranked 183)  
+Progressed: 5,292 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-05 | 5,274 | 7 |
 | 2023-11-06 | 5,276 | 7 |
 | 2023-11-07 | 5,285 | 7 |
-| 2023-11-08 | 5,291 | 7 |
+| 2023-11-08 | 5,292 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 51 (Ranked 477)  

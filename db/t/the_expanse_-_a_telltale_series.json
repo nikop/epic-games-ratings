@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -213,7 +213,7 @@
   "Tags": [],
   "EOS_Progressed": 14755,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10756,9 +10756,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 118
+      "UsersEstimate": 133
     },
     {
       "ID": "15",
@@ -11004,15 +11004,15 @@
       "ID": "9nnpo9n",
       "IsBase": false,
       "Progressed": 709,
-      "Completed": 450
+      "Completed": 451
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:03:52.622918+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:03:14.2943052+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:57:52.4737405+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:03:52.6229908+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:57:29.0213983+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:03:14.2943957+00:00"
 }

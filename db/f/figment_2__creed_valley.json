@@ -309,9 +309,9 @@
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "story_principle_square",
@@ -334,8 +334,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:09:39.1322079+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:09:09.6032695+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:20.3478442+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:59:44.0926956+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:09:39.1322206+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:59:01.204597+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:09:09.6032897+00:00"
 }

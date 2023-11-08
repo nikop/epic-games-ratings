@@ -4957,9 +4957,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 250092,
+  "EOS_Progressed": 250093,
   "EOS_Completed": 871,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 706,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -26982,6 +26982,11 @@
       "Time": "2023-11-08T15:09:31.2305162+00:00",
       "NumProgressed": 250092,
       "NumCompleted": 871
+    },
+    {
+      "Time": "2023-11-08T16:09:03.7462363+00:00",
+      "NumProgressed": 250093,
+      "NumCompleted": 871
     }
   ],
   "TotalAchievements": 39,
@@ -27057,7 +27062,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 227584
+      "UsersEstimate": 227585
     },
     {
       "ID": "AchievementClownID",
@@ -27097,7 +27102,7 @@
       "Name": "French Fika",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17506
+      "UsersEstimate": 17507
     },
     {
       "ID": "AchievementGatorID",
@@ -27105,7 +27110,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 82530
+      "UsersEstimate": 82531
     },
     {
       "ID": "AchievementGoatID",
@@ -27129,7 +27134,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 47517
+      "UsersEstimate": 47518
     },
     {
       "ID": "AchievementINirvanaID",
@@ -27153,7 +27158,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 112541
+      "UsersEstimate": 112542
     },
     {
       "ID": "AchievementIntroID",
@@ -27161,7 +27166,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142552
+      "UsersEstimate": 142553
     },
     {
       "ID": "AchievementLootBoxID",
@@ -27225,7 +27230,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 185068
+      "UsersEstimate": 185069
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -27273,7 +27278,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 117543
+      "UsersEstimate": 117544
     },
     {
       "ID": "AchievementTrinketID",
@@ -27304,7 +27309,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250092,
+      "Progressed": 250093,
       "Completed": 871
     }
   ],
@@ -27312,8 +27317,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-08T01:45:04.638138+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:09:31.2305158+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:09:03.746236+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:20.6664953+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:57:15.9340145+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:09:31.2306453+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:56:54.6909042+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:09:03.7463535+00:00"
 }

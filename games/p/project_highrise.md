@@ -63,11 +63,11 @@
 | Penthouse in the Sky | 5.00% | ~18 |
 | Baron of Business | 5.00% | ~18 |
 | Office Bigwigs | 4.00% | ~14 |
+| Three of a Kind | 4.00% | ~14 |
 | Sandbagger | 4.00% | ~14 |
 | Decorator's Touch | 3.00% | ~10 |
 | Apartment Awareness | 3.00% | ~10 |
 | Luxury Boutiques | 3.00% | ~10 |
-| Three of a Kind | 3.00% | ~10 |
 | Four of a Kind | 3.00% | ~10 |
 | In the Money | 3.00% | ~10 |
 | Curated Class | 2.00% | ~7 |

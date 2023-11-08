@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The adventurer | 6.00% | ~2 |
 | You have two wishes left | 6.00% | ~2 |
 | Master trainee | 3.00% | ~1 |
 | You had one wish left | 3.00% | ~1 |
 | Bread and bocaua | 3.00% | ~1 |
 | Fanatacism is... poisonous | 3.00% | ~1 |
 | You have three wishes left | 3.00% | ~1 |
-| The adventurer | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
 | ECO mode | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |

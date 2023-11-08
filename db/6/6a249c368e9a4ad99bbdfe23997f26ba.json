@@ -2,9 +2,9 @@
   "ID": "6a249c368e9a4ad99bbdfe23997f26ba",
   "Name": "Forest Fire",
   "ProductSlug": "forest-fire-b4bb7e",
-  "Ranking_EOS_Progress": 438,
+  "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -369,6 +369,11 @@
       "Time": "2023-11-07T22:03:07.8928594+00:00",
       "NumProgressed": 73,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T16:03:17.3279287+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-18T00:01:21.9503191+00:00",
@@ -379,7 +384,7 @@
       "ID": "A1",
       "SetID": "7f5j12l",
       "Name": "Level 1 Completed",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -403,7 +408,7 @@
       "ID": "A12",
       "SetID": "7f5j12l",
       "Name": "White House Destroyed",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 10,
       "UsersEstimate": 29
     },
@@ -419,7 +424,7 @@
       "ID": "A14",
       "SetID": "7f5j12l",
       "Name": "Pentagon Destroyed",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -611,7 +616,7 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -652,14 +657,14 @@
     {
       "ID": "7f5j12l",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:03:56.3861657+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:03:17.3279283+00:00",
   "LastUpdate_AppInfo": "2023-11-07T08:57:06.7637727+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:57:39.1004643+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:03:56.3861881+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:57:17.4443883+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:03:17.3279575+00:00"
 }

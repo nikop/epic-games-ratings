@@ -6919,9 +6919,9 @@
       "Count": 3773
     }
   ],
-  "EOS_Progressed": 138790,
+  "EOS_Progressed": 138793,
   "EOS_Completed": 178,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27544,6 +27544,11 @@
       "Time": "2023-11-08T15:04:55.9358063+00:00",
       "NumProgressed": 138790,
       "NumCompleted": 178
+    },
+    {
+      "Time": "2023-11-08T16:04:08.6669536+00:00",
+      "NumProgressed": 138793,
+      "NumCompleted": 178
     }
   ],
   "TotalAchievements": 112,
@@ -28249,9 +28254,9 @@
       "ID": "masterpiece",
       "SetID": "anfd17p",
       "Name": "All or Nothing!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 555
     },
     {
       "ID": "polonia_a",
@@ -28450,15 +28455,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138790,
+      "Progressed": 138793,
       "Completed": 178
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-08T09:58:50.3948987+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:04:55.9358058+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:04:08.6669532+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:58:58.4786687+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:04:55.9360258+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:58:22.4387786+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:04:08.6672133+00:00"
 }

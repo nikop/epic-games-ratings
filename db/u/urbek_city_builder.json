@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1418,9 +1418,9 @@
       "ID": "CULTURE_1",
       "SetID": "44dlcg0",
       "Name": "I like books",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "CULTURE_2",
@@ -1490,9 +1490,9 @@
       "ID": "FAITH_1",
       "SetID": "44dlcg0",
       "Name": "The spiritual world...",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 23
     },
     {
       "ID": "FAITH_2",
@@ -1578,9 +1578,9 @@
       "ID": "FISHING",
       "SetID": "44dlcg0",
       "Name": "King of fish",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "GRANJA_1",
@@ -1915,8 +1915,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:09:39.7584995+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:09:09.9515702+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.6533843+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:03:03.3698405+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:09:39.7585751+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:02:44.0880938+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:09:09.9516345+00:00"
 }

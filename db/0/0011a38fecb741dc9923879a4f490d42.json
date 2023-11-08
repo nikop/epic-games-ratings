@@ -4,7 +4,7 @@
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
@@ -549,9 +549,9 @@
       "ID": "NEW_ACHIEVEMENT_2_30",
       "SetID": "631i43e",
       "Name": "Backpages",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_31",
@@ -573,9 +573,9 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "631i43e",
       "Name": "Get Lost",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -628,8 +628,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:06:42.5486226+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:05:38.4078852+00:00",
   "LastUpdate_AppInfo": "2023-11-01T15:57:00.4568972+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:02:54.43314+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:06:42.5486757+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:02:37.6759395+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:05:38.4079455+00:00"
 }

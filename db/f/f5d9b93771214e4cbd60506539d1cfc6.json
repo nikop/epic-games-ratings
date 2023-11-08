@@ -2,13 +2,13 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151875,
+  "EOS_Progressed": 151877,
   "EOS_Completed": 324,
-  "EOS_NewPlayers": 1072,
+  "EOS_NewPlayers": 1060,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -17378,6 +17378,11 @@
       "Time": "2023-11-08T15:07:09.968239+00:00",
       "NumProgressed": 151875,
       "NumCompleted": 324
+    },
+    {
+      "Time": "2023-11-08T16:06:02.090612+00:00",
+      "NumProgressed": 151877,
+      "NumCompleted": 324
     }
   ],
   "TotalAchievements": 31,
@@ -17397,7 +17402,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 106312
+      "UsersEstimate": 106314
     },
     {
       "ID": "EAwards_10",
@@ -17429,7 +17434,7 @@
       "Name": "Next-gen!!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9112
+      "UsersEstimate": 9113
     },
     {
       "ID": "EAwards_14",
@@ -17437,7 +17442,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 59231
+      "UsersEstimate": 59232
     },
     {
       "ID": "EAwards_15",
@@ -17461,7 +17466,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33412
+      "UsersEstimate": 33413
     },
     {
       "ID": "EAwards_18",
@@ -17469,7 +17474,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33412
+      "UsersEstimate": 33413
     },
     {
       "ID": "EAwards_19",
@@ -17485,7 +17490,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 42525
+      "UsersEstimate": 42526
     },
     {
       "ID": "EAwards_20",
@@ -17573,7 +17578,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28856
+      "UsersEstimate": 28857
     },
     {
       "ID": "EAwards_30",
@@ -17589,7 +17594,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22781
+      "UsersEstimate": 22782
     },
     {
       "ID": "EAwards_5",
@@ -17636,7 +17641,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 151875,
+      "Progressed": 151877,
       "Completed": 324
     }
   ],
@@ -17644,8 +17649,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:07:09.9682387+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:06:02.0906115+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:58.8508803+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:57:29.4011489+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:07:09.9683366+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:57:09.3159861+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:06:02.0907226+00:00"
 }

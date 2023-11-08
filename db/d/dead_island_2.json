@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 21,
@@ -6261,9 +6261,9 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 714968,
+  "EOS_Progressed": 714993,
   "EOS_Completed": 2357,
-  "EOS_NewPlayers": 4888,
+  "EOS_NewPlayers": 4868,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29316,6 +29316,11 @@
       "Time": "2023-11-08T15:06:47.4304722+00:00",
       "NumProgressed": 714968,
       "NumCompleted": 2357
+    },
+    {
+      "Time": "2023-11-08T16:05:42.5593222+00:00",
+      "NumProgressed": 714993,
+      "NumCompleted": 2357
     }
   ],
   "TotalAchievements": 51,
@@ -29695,7 +29700,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ach_gardening_tools",
@@ -29734,13 +29739,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714968,
+      "Progressed": 714993,
       "Completed": 2357
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40510,
+      "Progressed": 40535,
       "Completed": 36494
     }
   ],
@@ -29748,8 +29753,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-08T11:58:17.7761573+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:06:47.4304717+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:05:42.5593218+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:58:46.5869715+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:06:47.430619+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:58:13.4092344+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:05:42.5595224+00:00"
 }

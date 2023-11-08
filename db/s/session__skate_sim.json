@@ -5734,9 +5734,9 @@
       "ID": "ACH_DIY-BOSS",
       "SetID": "72olkc5",
       "Name": "DIY Boss",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 184
     },
     {
       "ID": "ACH_FASHIONISTA",
@@ -6070,8 +6070,8 @@
   "FirstSeen": "2022-07-22T20:29:58.6746014+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.8637309+00:00",
   "LastChanged": "2023-11-07T05:58:43.3315994+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:05:48.1796584+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:04:52.8827974+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:14.8563448+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:59:27.6539038+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:05:48.1797119+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:58:44.2332435+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:04:52.8828446+00:00"
 }

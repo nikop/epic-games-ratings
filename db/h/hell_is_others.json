@@ -1195,9 +1195,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258175,
+  "EOS_Progressed": 258176,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 238,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20900,6 +20900,11 @@
       "Time": "2023-11-08T15:06:11.1773681+00:00",
       "NumProgressed": 258175,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-08T16:05:12.2478668+00:00",
+      "NumProgressed": 258176,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -20959,7 +20964,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80034
+      "UsersEstimate": 80035
     },
     {
       "ID": "BackHomeNTimes",
@@ -21111,7 +21116,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15490
+      "UsersEstimate": 15491
     },
     {
       "ID": "GrowPlants2",
@@ -21167,7 +21172,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15490
+      "UsersEstimate": 15491
     },
     {
       "ID": "KillOtherWithKatana",
@@ -21358,7 +21363,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258175,
+      "Progressed": 258176,
       "Completed": 3
     }
   ],
@@ -21366,8 +21371,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-08T11:02:14.953828+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:06:11.1773676+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:05:12.2478661+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:04.7970194+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:01:10.3917217+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:06:11.1775013+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:00:13.338039+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:05:12.2480118+00:00"
 }

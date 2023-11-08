@@ -4,7 +4,7 @@
   "ProductSlug": "strange-house-5fd1b5",
   "Ranking_EOS_Progress": 540,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -122,17 +122,17 @@
       "ID": "AlcoholMachine",
       "SetID": "a2ci5mh",
       "Name": "Alcoholic",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "EndPrologue",
       "SetID": "a2ci5mh",
       "Name": "Chapter 1",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "FoundPig",
@@ -154,9 +154,9 @@
       "ID": "Underground",
       "SetID": "a2ci5mh",
       "Name": "Underground",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 150,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VisorGlass1",
@@ -176,8 +176,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:06:56.659685+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:05:50.0652833+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.6534253+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:01:13.2180773+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:06:56.6596912+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:00:16.2385366+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:05:50.0652906+00:00"
 }

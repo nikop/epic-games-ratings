@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16945,
+  "EOS_Progressed": 16946,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6188,6 +6188,11 @@
       "Time": "2023-11-08T15:06:27.239611+00:00",
       "NumProgressed": 16945,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T16:05:25.5634134+00:00",
+      "NumProgressed": 16946,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6199,7 +6204,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16098
+      "UsersEstimate": 16099
     },
     {
       "ID": "ACH001",
@@ -6207,7 +6212,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14573
+      "UsersEstimate": 14574
     },
     {
       "ID": "ACH0010",
@@ -6231,7 +6236,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8303
+      "UsersEstimate": 8304
     },
     {
       "ID": "ACH0013",
@@ -6239,7 +6244,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3898
     },
     {
       "ID": "ACH0014",
@@ -6247,7 +6252,7 @@
       "Name": "Sharing Is Caring",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1694
+      "UsersEstimate": 1695
     },
     {
       "ID": "ACH0015",
@@ -6295,7 +6300,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12200
+      "UsersEstimate": 12201
     },
     {
       "ID": "ACH0020",
@@ -6359,7 +6364,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14742
+      "UsersEstimate": 14743
     },
     {
       "ID": "ACH005",
@@ -6375,7 +6380,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 6947
+      "UsersEstimate": 6948
     },
     {
       "ID": "ACH007",
@@ -6383,7 +6388,7 @@
       "Name": "To the World\u0027s End",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "ACH008",
@@ -6406,7 +6411,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16945,
+      "Progressed": 16946,
       "Completed": 1
     }
   ],
@@ -6414,8 +6419,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-10-22T02:57:48.4170494+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:06:27.2396106+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:05:25.563413+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:07.1150824+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:59:22.9105161+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:06:27.2396542+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:58:40.2512607+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:05:25.5634676+00:00"
 }

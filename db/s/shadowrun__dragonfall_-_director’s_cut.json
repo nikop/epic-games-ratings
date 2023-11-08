@@ -2,7 +2,7 @@
   "ID": "805a1b31b65f4c3db221ab242f894482",
   "Name": "Shadowrun: Dragonfall - Director\u2019s Cut",
   "ProductSlug": "shadowrun-dragonfall",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 501,
   "Ranking_Popularity": 363,
   "Ranking_PopularitySum": 442,
   "Ranking_EOS_Progress": 733,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "NumberOfRatings": 236,
   "RatingHistory": [
     {
@@ -503,6 +503,12 @@
       "Rating": 4.54,
       "NumberOfAwards": 96,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-11-08T16:00:12.5008864+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 96,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
@@ -528,8 +534,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:02.9464373+00:00",
-  "LastChanged": "2023-11-03T15:59:01.0828744+00:00",
+  "LastChanged": "2023-11-08T16:00:12.5008863+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:04.2048967+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:01:09.4275683+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:06:00.3399167+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:00:12.5008868+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:05:02.9271631+00:00"
 }

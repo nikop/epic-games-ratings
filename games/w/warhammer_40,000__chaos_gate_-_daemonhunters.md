@@ -27,6 +27,7 @@ Number of Ratings: 371  (23.09.2022)
 | Hive Exterminator | 2.00% | ~66 |
 | Daemonkeeper | 1.00% | ~33 |
 | Exterminator | 1.00% | ~33 |
+| Mind Like a Fortress | 1.00% | ~33 |
 | Efficient Killer | 1.00% | ~33 |
 | Only in Death | 1.00% | ~33 |
 | Junk Banishment | 1.00% | ~33 |
@@ -35,7 +36,6 @@ Number of Ratings: 371  (23.09.2022)
 | Execution Force | 1.00% | ~33 |
 | Tactical Sabotage | 1.00% | ~33 |
 | Fleetmaster | 0.90% | ~30 |
-| Mind Like a Fortress | 0.90% | ~30 |
 | Tactical Flexibility | 0.90% | ~30 |
 | Patron of Deimos | 0.80% | ~26 |
 | For the Machine God | 0.80% | ~26 |

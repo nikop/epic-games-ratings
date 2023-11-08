@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2114,
+  "EOS_Progressed": 2115,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5645,6 +5645,11 @@
       "Time": "2023-11-08T15:05:12.208226+00:00",
       "NumProgressed": 2114,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T16:04:22.6372817+00:00",
+      "NumProgressed": 2115,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -5680,7 +5685,7 @@
       "Name": "Resistance is futile",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "A04",
@@ -5736,7 +5741,7 @@
       "Name": "From X to Y",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "A11",
@@ -5752,7 +5757,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1543
+      "UsersEstimate": 1544
     },
     {
       "ID": "A13",
@@ -5760,15 +5765,15 @@
       "Name": "Seven at one stroke",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "A14",
       "SetID": "9b7p7eo",
       "Name": "A new Journey",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1586
     },
     {
       "ID": "A15",
@@ -5792,7 +5797,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1121
     },
     {
       "ID": "A18",
@@ -5832,7 +5837,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "A23",
@@ -5904,7 +5909,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "A32",
@@ -5928,7 +5933,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1057
+      "UsersEstimate": 1058
     },
     {
       "ID": "A35",
@@ -5976,7 +5981,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "A41",
@@ -5984,7 +5989,7 @@
       "Name": "Right through the middle",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1226
+      "UsersEstimate": 1227
     },
     {
       "ID": "A42",
@@ -6030,9 +6035,9 @@
       "ID": "A47",
       "SetID": "9b7p7eo",
       "Name": "Travel Company",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1375
     },
     {
       "ID": "A48",
@@ -6048,7 +6053,7 @@
       "Name": "Financial Shark",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "A50",
@@ -6072,7 +6077,7 @@
       "Name": "Socializer",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "A53",
@@ -6095,7 +6100,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2114,
+      "Progressed": 2115,
       "Completed": 0
     }
   ],
@@ -6103,8 +6108,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-06T17:57:18.8272993+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:05:12.2082256+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:04:22.6372813+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:58:30.3132336+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:05:12.2082896+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:58:01.3568243+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:04:22.637356+00:00"
 }

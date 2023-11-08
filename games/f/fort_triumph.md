@@ -3,9 +3,9 @@
 [View Rawdata](../../db/f/fort_triumph.json)  
 Rating: 4.08 (Ranked 965)  
 ## Awards
-Max (Character Customization): 142  (Ranked 320)  
+Max (Character Customization): 142  (Ranked 321)  
 Sum: 142 (Ranked 423)  
-Diff (max vs sum): -103  
+Diff (max vs sum): -102  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 142 |

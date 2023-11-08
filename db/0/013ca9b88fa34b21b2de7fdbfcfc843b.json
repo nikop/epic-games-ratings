@@ -169,9 +169,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7625,
+  "EOS_Progressed": 7626,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6364,6 +6364,11 @@
       "Time": "2023-11-08T14:10:20.8976629+00:00",
       "NumProgressed": 7625,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T16:08:53.5566631+00:00",
+      "NumProgressed": 7626,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6376,7 +6381,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5490
+      "UsersEstimate": 5491
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6400,7 +6405,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2592
+      "UsersEstimate": 2593
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -6408,7 +6413,7 @@
       "Name": "Clear the Air",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -6480,7 +6485,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3736
+      "UsersEstimate": 3737
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6512,7 +6517,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3203
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6528,7 +6533,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4575
+      "UsersEstimate": 4576
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6632,7 +6637,7 @@
       "Name": "Captain of Cozy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -6655,22 +6660,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7625,
+      "Progressed": 7626,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 242,
-      "Completed": 242
+      "Progressed": 243,
+      "Completed": 243
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:09:19.2210699+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:08:53.5566627+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:02:59.2316121+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:09:19.2211202+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:02:41.1845287+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:08:53.5567128+00:00"
 }

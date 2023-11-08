@@ -8,20 +8,20 @@ Rating: 3.94 (Ranked 1,006)
 | Neophyte Ninja | 2.00% | ~1,795 |
 | First One’s Free | 2.00% | ~1,795 |
 | Downed but Not Outed | 2.00% | ~1,795 |
-| Underworld Initiate | 1.00% | ~897 |
-| Too Old for This | 1.00% | ~897 |
-| Fancy Pants | 1.00% | ~897 |
-| Off the Rocks | 1.00% | ~897 |
-| Raider’s Ruin | 1.00% | ~897 |
-| Dragonslayer | 1.00% | ~897 |
+| Underworld Initiate | 1.00% | ~898 |
+| Too Old for This | 1.00% | ~898 |
+| Fancy Pants | 1.00% | ~898 |
+| Off the Rocks | 1.00% | ~898 |
+| Raider’s Ruin | 1.00% | ~898 |
+| Dragonslayer | 1.00% | ~898 |
 | Roid Ranger | 0.90% | ~808 |
 | King of the Hill | 0.90% | ~808 |
 | Rockay Rex | 0.90% | ~808 |
 | Case Closed | 0.80% | ~718 |
 | Hidden Sonata | 0.70% | ~628 |
 | True Player | 0.70% | ~628 |
-| Track Star | 0.60% | ~538 |
-| Headhunter | 0.60% | ~538 |
+| Track Star | 0.60% | ~539 |
+| Headhunter | 0.60% | ~539 |
 | I Like Trains | 0.50% | ~449 |
 | Legend Looter | 0.40% | ~359 |
 | Imports and Exports | 0.40% | ~359 |
@@ -32,12 +32,12 @@ Rating: 3.94 (Ranked 1,006)
 | Olympus Ascended | 0.30% | ~269 |
 | Ding Dong | 0.30% | ~269 |
 | All that Glitters | 0.30% | ~54 |
-| Rockay Raider | 0.20% | ~179 |
-| Rockay Knight | 0.20% | ~179 |
-| Groundhog Days | 0.20% | ~179 |
-| Cracked the Jack | 0.20% | ~179 |
-| Red Star | 0.20% | ~179 |
-| Classy Joint | 0.20% | ~179 |
+| Rockay Raider | 0.20% | ~180 |
+| Rockay Knight | 0.20% | ~180 |
+| Groundhog Days | 0.20% | ~180 |
+| Cracked the Jack | 0.20% | ~180 |
+| Red Star | 0.20% | ~180 |
+| Classy Joint | 0.20% | ~180 |
 | All for One | 0.20% | ~36 |
 | One for All | 0.20% | ~36 |
 | Privateer | 0.10% | ~90 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 1,006)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,746 (Ranked 91)  
+Progressed: 89,756 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,10 +249,10 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-05 | 89,585 | 55 |
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
-| 2023-11-08 | 89,746 | 55 |
+| 2023-11-08 | 89,756 | 55 |
 ## Awards
 Max (Diverse Characters): 522  (Ranked 204)  
-Sum: 2,968 (Ranked 175)  
+Sum: 2,970 (Ranked 175)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -260,7 +260,7 @@ Diff (max vs sum): 29
 | This game is Highly Recommended | 504 |
 | This game has Quickly Understood Controls | 496 |
 | This game has Challenging Combat | 487 |
-| This game is Extremely Fun | 484 |
+| This game is Extremely Fun | 486 |
 | This game has Amazing Characters | 475 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -488,4 +488,4 @@ Diff (max vs sum): 29
 | 2023-11-05 | 3.95 | 522 | 2,952 |
 | 2023-11-06 | 3.95 | 522 | 2,960 |
 | 2023-11-07 | 3.95 | 522 | 2,964 |
-| 2023-11-08 | 3.95 | 522 | 2,968 |
+| 2023-11-08 | 3.95 | 522 | 2,970 |

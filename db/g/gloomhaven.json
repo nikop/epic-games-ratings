@@ -2375,9 +2375,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 19275,
+  "EOS_Progressed": 19280,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1668,
+  "EOS_NewPlayers": 1660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8480,6 +8480,11 @@
       "Time": "2023-11-08T15:03:51.2428401+00:00",
       "NumProgressed": 19275,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T16:03:13.0460315+00:00",
+      "NumProgressed": 19280,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8660,7 +8665,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "Achievement_Trophy23",
@@ -8676,7 +8681,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8096
+      "UsersEstimate": 8098
     },
     {
       "ID": "Achievement_Trophy25",
@@ -8692,7 +8697,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6554
+      "UsersEstimate": 6555
     },
     {
       "ID": "Achievement_Trophy27",
@@ -8708,7 +8713,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6361
+      "UsersEstimate": 6362
     },
     {
       "ID": "Achievement_Trophy29",
@@ -8724,7 +8729,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5782
+      "UsersEstimate": 5784
     },
     {
       "ID": "Achievement_Trophy31",
@@ -8732,7 +8737,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6168
+      "UsersEstimate": 6170
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8756,7 +8761,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2313
+      "UsersEstimate": 2314
     },
     {
       "ID": "Achievement_Trophy35",
@@ -8780,7 +8785,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4819
+      "UsersEstimate": 4820
     },
     {
       "ID": "Achievement_Trophy38",
@@ -8788,7 +8793,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "Achievement_Trophy39",
@@ -8796,7 +8801,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "Achievement_Trophy40",
@@ -8836,7 +8841,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "Achievement_Trophy45",
@@ -8868,7 +8873,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2120
+      "UsersEstimate": 2121
     },
     {
       "ID": "Achievement_Trophy49",
@@ -8876,7 +8881,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "Achievement_Trophy50",
@@ -8979,7 +8984,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 19275,
+      "Progressed": 19280,
       "Completed": 1
     }
   ],
@@ -8987,8 +8992,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-07T05:00:13.3916278+00:00",
-  "LastChanged_Achievements": "2023-11-08T15:03:51.2428396+00:00",
+  "LastChanged_Achievements": "2023-11-08T16:03:13.0460311+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-08T15:01:08.8136474+00:00",
-  "LastUpdate_Achievements": "2023-11-08T15:03:51.2429139+00:00"
+  "LastUpdate_Ratings": "2023-11-08T16:00:11.6746652+00:00",
+  "LastUpdate_Achievements": "2023-11-08T16:03:13.0461127+00:00"
 }
