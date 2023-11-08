@@ -11,6 +11,8 @@ Rating: 4.60 (Ranked 410)
 | Lord of Chaos | 0.10% | ~5 |
 | Arch Mage | 0.10% | ~5 |
 | Enchanted Archipelago | 0.10% | ~5 |
+| The Goddess of Nature | 0.10% | ~5 |
+| Eternal Lord | 0.10% | ~5 |
 | Realm Estate | 0.10% | ~5 |
 | A Wonderful Discovery | 0.10% | ~5 |
 | Secret Technique | 0.10% | ~5 |
@@ -50,8 +52,6 @@ Rating: 4.60 (Ranked 410)
 | Full Ascension | 0.00% | ~0 |
 | God Emperor | 0.00% | ~0 |
 | The Creator | 0.00% | ~0 |
-| The Goddess of Nature | 0.00% | ~0 |
-| Eternal Lord | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Fiery Friend | 0.00% | ~0 |
 | Manufactured War | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 410)
 | Seal the Deal | 0.00% | ~0 |
 | A Very Special Ring | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,290 (Ranked 183)  
+Progressed: 5,291 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-05 | 5,274 | 7 |
 | 2023-11-06 | 5,276 | 7 |
 | 2023-11-07 | 5,285 | 7 |
-| 2023-11-08 | 5,290 | 7 |
+| 2023-11-08 | 5,291 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 51 (Ranked 477)  

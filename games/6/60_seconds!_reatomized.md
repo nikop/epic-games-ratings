@@ -5,33 +5,33 @@ Rating: 4.61 (Ranked 383)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 93.00% | ~5,150 |
-| All thumbs | 92.00% | ~5,095 |
-| I will survive! | 92.00% | ~5,095 |
+| Prepper | 93.00% | ~5,151 |
+| All thumbs | 92.00% | ~5,096 |
+| I will survive! | 92.00% | ~5,096 |
 | Home, sweet home | 91.00% | ~5,040 |
-| Survivalist | 90.00% | ~4,984 |
-| One way ticket | 85.00% | ~4,707 |
-| Last man standing | 80.00% | ~4,430 |
-| Family guy | 77.00% | ~4,264 |
-| Out of the Bag | 76.00% | ~4,209 |
+| Survivalist | 90.00% | ~4,985 |
+| One way ticket | 85.00% | ~4,708 |
+| Last man standing | 80.00% | ~4,431 |
+| Family guy | 77.00% | ~4,265 |
+| Out of the Bag | 76.00% | ~4,210 |
 | The Dark Side | 70.00% | ~3,877 |
-| Duck and cover! | 66.00% | ~3,655 |
+| Duck and cover! | 66.00% | ~3,656 |
 | Souper! | 65.00% | ~3,600 |
-| Pacifist | 59.00% | ~3,267 |
-| 2-1-6 | 58.00% | ~3,212 |
+| Pacifist | 59.00% | ~3,268 |
+| 2-1-6 | 58.00% | ~3,213 |
 | A gift | 54.00% | ~2,991 |
-| Girl Power | 48.00% | ~2,658 |
+| Girl Power | 48.00% | ~2,659 |
 | What goes around... | 44.00% | ~2,437 |
-| Be Prepared | 38.00% | ~2,104 |
+| Be Prepared | 38.00% | ~2,105 |
 | Unbreakable | 37.00% | ~2,049 |
 | Gotta get 'em all | 34.00% | ~1,883 |
 | This is the end | 34.00% | ~1,883 |
 | Atomic drill | 32.00% | ~1,772 |
 | Disco Roach | 28.00% | ~1,551 |
-| Dawkins Residence | 22.00% | ~1,218 |
+| Dawkins Residence | 22.00% | ~1,219 |
 | New order | 18.00% | ~997 |
 | Rescue time! | 18.00% | ~997 |
-| New species | 17.00% | ~941 |
+| New species | 17.00% | ~942 |
 | A New Hope | 16.00% | ~886 |
 | Enigma | 16.00% | ~886 |
 | Challenger | 13.00% | ~720 |
@@ -58,15 +58,15 @@ Rating: 4.61 (Ranked 383)
 | Konrad style! | 1.00% | ~55 |
 | Cat Lady | 0.90% | ~50 |
 | Bughunter | 0.80% | ~44 |
-| Naysayer | 0.70% | ~39 |
-| Pro gamer | 0.70% | ~39 |
+| Naysayer | 0.60% | ~33 |
 | Manhattan Project | 0.60% | ~33 |
+| Pro gamer | 0.60% | ~33 |
 | Fair Exchange | 0.40% | ~22 |
 | Miracle | 0.30% | ~17 |
 | Tora! Tora! Tora! | 0.20% | ~11 |
 | Dead Hand | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,538 (Ranked 181)  
+Progressed: 5,539 (Ranked 181)  
 Completed: 1 (0.02%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,6 +268,7 @@ Completed: 1 (0.02%) (Ranked 314)
 | 2023-11-05 | 5,528 | 1 |
 | 2023-11-06 | 5,536 | 1 |
 | 2023-11-07 | 5,538 | 1 |
+| 2023-11-08 | 5,539 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

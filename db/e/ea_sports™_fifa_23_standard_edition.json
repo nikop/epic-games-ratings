@@ -8501,9 +8501,9 @@
       "Count": 14393
     }
   ],
-  "EOS_Progressed": 181252,
+  "EOS_Progressed": 181277,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5274,
+  "EOS_NewPlayers": 5252,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14431,6 +14431,11 @@
       "Time": "2023-11-08T13:09:18.1207994+00:00",
       "NumProgressed": 181252,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T14:06:01.3314381+00:00",
+      "NumProgressed": 181277,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:04:56.3859799+00:00",
@@ -14443,7 +14448,7 @@
       "Name": "Volta\u0027s best",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7250
+      "UsersEstimate": 7251
     },
     {
       "ID": "achievement_10",
@@ -14459,7 +14464,7 @@
       "Name": "Power Shot",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 137752
+      "UsersEstimate": 137771
     },
     {
       "ID": "achievement_12",
@@ -14467,7 +14472,7 @@
       "Name": "Bring it on",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 30813
+      "UsersEstimate": 30817
     },
     {
       "ID": "achievement_13",
@@ -14475,7 +14480,7 @@
       "Name": "Squad Building Connoisseur",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 70688
+      "UsersEstimate": 70698
     },
     {
       "ID": "achievement_14",
@@ -14483,7 +14488,7 @@
       "Name": "The Winning Formula",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 67063
+      "UsersEstimate": 67072
     },
     {
       "ID": "achievement_15",
@@ -14491,7 +14496,7 @@
       "Name": "Tactical Tinkerer",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 74313
+      "UsersEstimate": 74324
     },
     {
       "ID": "achievement_16",
@@ -14499,7 +14504,7 @@
       "Name": "Safe House",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 48938
+      "UsersEstimate": 48945
     },
     {
       "ID": "achievement_17",
@@ -14507,7 +14512,7 @@
       "Name": "Parking the Bus",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 52563
+      "UsersEstimate": 52570
     },
     {
       "ID": "achievement_18",
@@ -14515,7 +14520,7 @@
       "Name": "In Cahoots",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9063
+      "UsersEstimate": 9064
     },
     {
       "ID": "achievement_19",
@@ -14523,7 +14528,7 @@
       "Name": "A Moment of Your Time",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 85188
+      "UsersEstimate": 85200
     },
     {
       "ID": "achievement_2",
@@ -14531,7 +14536,7 @@
       "Name": "Teamwork works",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16313
+      "UsersEstimate": 16315
     },
     {
       "ID": "achievement_20",
@@ -14539,7 +14544,7 @@
       "Name": "Momentous Achievement",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 10875
+      "UsersEstimate": 10877
     },
     {
       "ID": "achievement_21",
@@ -14547,7 +14552,7 @@
       "Name": "I Played Them All",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 18125
+      "UsersEstimate": 18128
     },
     {
       "ID": "achievement_22",
@@ -14555,7 +14560,7 @@
       "Name": "Let the Games Begin",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 87001
+      "UsersEstimate": 87013
     },
     {
       "ID": "achievement_23",
@@ -14563,7 +14568,7 @@
       "Name": "Tune Your Club",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9063
+      "UsersEstimate": 9064
     },
     {
       "ID": "achievement_24",
@@ -14571,7 +14576,7 @@
       "Name": "The Chosen One",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 41688
+      "UsersEstimate": 41694
     },
     {
       "ID": "achievement_25",
@@ -14579,7 +14584,7 @@
       "Name": "Becoming Unplayable",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 9063
+      "UsersEstimate": 9064
     },
     {
       "ID": "achievement_26",
@@ -14587,7 +14592,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 16313
+      "UsersEstimate": 16315
     },
     {
       "ID": "achievement_27",
@@ -14595,7 +14600,7 @@
       "Name": "Full-House",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 7250
+      "UsersEstimate": 7251
     },
     {
       "ID": "achievement_28",
@@ -14603,7 +14608,7 @@
       "Name": "Specialist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 19938
+      "UsersEstimate": 19940
     },
     {
       "ID": "achievement_29",
@@ -14611,7 +14616,7 @@
       "Name": "Make the Grade",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 23563
+      "UsersEstimate": 23566
     },
     {
       "ID": "achievement_3",
@@ -14619,7 +14624,7 @@
       "Name": "Fresh Fit",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 38063
+      "UsersEstimate": 38068
     },
     {
       "ID": "achievement_30",
@@ -14635,7 +14640,7 @@
       "Name": "Balanced Path",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 88813
+      "UsersEstimate": 88826
     },
     {
       "ID": "achievement_32",
@@ -14651,7 +14656,7 @@
       "Name": "Multitasking",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 94251
+      "UsersEstimate": 94264
     },
     {
       "ID": "achievement_34",
@@ -14659,7 +14664,7 @@
       "Name": "Life-Like",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 25375
+      "UsersEstimate": 25379
     },
     {
       "ID": "achievement_35",
@@ -14667,7 +14672,7 @@
       "Name": "High Grades",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 88813
+      "UsersEstimate": 88826
     },
     {
       "ID": "achievement_36",
@@ -14675,7 +14680,7 @@
       "Name": "Aiming High",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 83376
+      "UsersEstimate": 83387
     },
     {
       "ID": "achievement_37",
@@ -14683,7 +14688,7 @@
       "Name": "European Legend",
       "Percentage": 52,
       "XP": 90,
-      "UsersEstimate": 94251
+      "UsersEstimate": 94264
     },
     {
       "ID": "achievement_38",
@@ -14691,7 +14696,7 @@
       "Name": "Best of Five",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 45313
+      "UsersEstimate": 45319
     },
     {
       "ID": "achievement_39",
@@ -14699,7 +14704,7 @@
       "Name": "Football is Everything",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 43500
+      "UsersEstimate": 43506
     },
     {
       "ID": "achievement_4",
@@ -14715,7 +14720,7 @@
       "Name": "Shop till you drop",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10875
+      "UsersEstimate": 10877
     },
     {
       "ID": "achievement_6",
@@ -14723,7 +14728,7 @@
       "Name": "On the way up",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 9063
+      "UsersEstimate": 9064
     },
     {
       "ID": "achievement_7",
@@ -14731,7 +14736,7 @@
       "Name": "Sharing is Caring",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 7250
+      "UsersEstimate": 7251
     },
     {
       "ID": "achievement_8",
@@ -14739,7 +14744,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 114189
+      "UsersEstimate": 114205
     },
     {
       "ID": "achievement_9",
@@ -14747,14 +14752,14 @@
       "Name": "Intuition and Execution",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 72501
+      "UsersEstimate": 72511
     }
   ],
   "AchievementSets": [
     {
       "ID": "6kj437b",
       "IsBase": true,
-      "Progressed": 181252,
+      "Progressed": 181277,
       "Completed": 0
     }
   ],
@@ -14762,8 +14767,8 @@
   "FirstSeenRating": "2022-10-06T07:01:15.4932538+00:00",
   "FirstSeenAchievements": "2023-06-30T22:04:55.4343947+00:00",
   "LastChanged": "2023-11-08T01:43:04.9051956+00:00",
-  "LastChanged_Achievements": "2023-11-08T13:09:18.1207989+00:00",
+  "LastChanged_Achievements": "2023-11-08T14:06:01.3314373+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:11.8112726+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:03:45.028369+00:00",
-  "LastUpdate_Achievements": "2023-11-08T13:09:18.1208818+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:00:20.8313757+00:00",
+  "LastUpdate_Achievements": "2023-11-08T14:06:01.3315062+00:00"
 }

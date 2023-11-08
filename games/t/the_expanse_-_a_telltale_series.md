@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 501)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 6.00% | ~885 |
-| Bosmang | 3.00% | ~442 |
+| Bosmang | 3.00% | ~443 |
 | The Pit and the Pirates | 2.00% | ~295 |
 | Data Archivist | 2.00% | ~295 |
 | Stogie for Fogey | 2.00% | ~295 |
@@ -24,24 +24,24 @@ Rating: 4.55 (Ranked 501)
 | Safe Cracker | 2.00% | ~14 |
 | Zen Master | 2.00% | ~14 |
 | Madame Undersecretary | 2.00% | ~14 |
-| Bottoms up! | 1.00% | ~147 |
-| Thorston Mayer | 1.00% | ~147 |
+| Bottoms up! | 1.00% | ~148 |
+| Thorston Mayer | 1.00% | ~148 |
 | Master Negotiator | 1.00% | ~7 |
 | Miraculous Maya | 0.90% | ~133 |
 | Doctor Approved | 0.80% | ~118 |
-| Data Logger | 0.60% | ~88 |
-| Data Master | 0.60% | ~88 |
+| Data Logger | 0.60% | ~89 |
+| Data Master | 0.60% | ~89 |
 | Brother's Reaper | 0.40% | ~59 |
 | No Belter Left Behind | 0.40% | ~59 |
 | Debris Spree | 0.40% | ~59 |
 | Data Recoverer | 0.30% | ~44 |
-| Urshanabi Hoarder | 0.20% | ~29 |
+| Urshanabi Hoarder | 0.20% | ~30 |
 | Data Miner | 0.10% | ~15 |
 | Scavenger Star | 0.10% | ~15 |
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,749 (Ranked 146)  
+Progressed: 14,753 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,7 +150,7 @@ Completed: 33 (0.22%) (Ranked 236)
 | 2023-11-05 | 14,691 | 32 |
 | 2023-11-06 | 14,715 | 33 |
 | 2023-11-07 | 14,744 | 33 |
-| 2023-11-08 | 14,749 | 33 |
+| 2023-11-08 | 14,753 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2170,9 +2170,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 679314,
+  "EOS_Progressed": 679322,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1935,
+  "EOS_NewPlayers": 1930,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25190,6 +25190,11 @@
       "Time": "2023-11-08T13:14:01.7762421+00:00",
       "NumProgressed": 679314,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-08T14:10:45.0272358+00:00",
+      "NumProgressed": 679322,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -25201,7 +25206,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 543451
+      "UsersEstimate": 543458
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -25289,7 +25294,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 244553
+      "UsersEstimate": 244556
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -25313,7 +25318,7 @@
       "Name": "Size isn\u0027t everything",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20379
+      "UsersEstimate": 20380
     },
     {
       "ID": "CONTRACT_WITHIN_10SEC",
@@ -25321,7 +25326,7 @@
       "Name": "Close shave",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20379
+      "UsersEstimate": 20380
     },
     {
       "ID": "DLC001_CHALLENGES",
@@ -25441,7 +25446,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 210587
+      "UsersEstimate": 210590
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -25505,7 +25510,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 101897
+      "UsersEstimate": 101898
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -25561,7 +25566,7 @@
       "Name": "Credible",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 47552
+      "UsersEstimate": 47553
     },
     {
       "ID": "RP_DISTINGUISHED",
@@ -25577,7 +25582,7 @@
       "Name": "Established",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 20379
+      "UsersEstimate": 20380
     },
     {
       "ID": "RP_ESTEEMED",
@@ -25601,7 +25606,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 122277
+      "UsersEstimate": 122278
     },
     {
       "ID": "RP_TRUSTED",
@@ -25617,7 +25622,7 @@
       "Name": "Blade Runner",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 61138
+      "UsersEstimate": 61139
     },
     {
       "ID": "UPGRADE_COMPANY_HQ",
@@ -25632,15 +25637,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 679314,
+      "Progressed": 679322,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-07T10:02:24.1341182+00:00",
-  "LastChanged_Achievements": "2023-11-08T13:14:01.7762417+00:00",
+  "LastChanged_Achievements": "2023-11-08T14:10:45.0272353+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:03.9326585+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:07:37.2125911+00:00",
-  "LastUpdate_Achievements": "2023-11-08T13:14:01.7764689+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:03:16.4340225+00:00",
+  "LastUpdate_Achievements": "2023-11-08T14:10:45.0274595+00:00"
 }

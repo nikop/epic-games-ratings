@@ -2,8 +2,8 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 251,
-  "Ranking_Popularity": 69,
+  "Ranking_Rating": 250,
+  "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 321,
@@ -11022,9 +11022,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51279,
+  "EOS_Progressed": 51280,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29272,6 +29272,11 @@
       "Time": "2023-11-08T12:04:28.4932948+00:00",
       "NumProgressed": 51279,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-08T14:06:11.6846146+00:00",
+      "NumProgressed": 51280,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -29371,7 +29376,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 11281
+      "UsersEstimate": 11282
     },
     {
       "ID": "CutTreeFirst",
@@ -29379,7 +29384,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 31280
+      "UsersEstimate": 31281
     },
     {
       "ID": "DeliveryGrapes",
@@ -29419,7 +29424,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30767
+      "UsersEstimate": 30768
     },
     {
       "ID": "Harvested",
@@ -29435,7 +29440,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 38459
+      "UsersEstimate": 38460
     },
     {
       "ID": "HorseJumps",
@@ -29467,7 +29472,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 26152
+      "UsersEstimate": 26153
     },
     {
       "ID": "Mission",
@@ -29531,7 +29536,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 11281
+      "UsersEstimate": 11282
     },
     {
       "ID": "NumVehiclesSmall",
@@ -29571,7 +29576,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 31793
+      "UsersEstimate": 31794
     },
     {
       "ID": "Stones",
@@ -29579,7 +29584,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6153
+      "UsersEstimate": 6154
     },
     {
       "ID": "TractorDriving",
@@ -29626,15 +29631,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51279,
+      "Progressed": 51280,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-08T01:43:49.3193927+00:00",
-  "LastChanged_Achievements": "2023-11-08T13:09:25.7909311+00:00",
+  "LastChanged_Achievements": "2023-11-08T14:06:11.6846139+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:18.1648668+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:04:29.4480619+00:00",
-  "LastUpdate_Achievements": "2023-11-08T13:09:25.7910805+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:01:23.0530871+00:00",
+  "LastUpdate_Achievements": "2023-11-08T14:06:11.6847669+00:00"
 }

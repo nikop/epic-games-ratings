@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Eat My Dust | 44.00% | ~902 |
 | First Love | 43.00% | ~882 |
-| Clean Race | 41.00% | ~840 |
+| Clean Race | 41.00% | ~841 |
 | Hear That Roar! | 39.00% | ~800 |
 | Rivals to the End | 28.00% | ~574 |
 | Bitter Rivalry | 26.00% | ~533 |
@@ -17,12 +17,12 @@
 | Legendary!!! | 19.00% | ~390 |
 | Quick Pit Stop | 18.00% | ~369 |
 | I'm Here Too! | 18.00% | ~369 |
-| Go-Faster Stripes | 17.00% | ~348 |
+| Go-Faster Stripes | 17.00% | ~349 |
 | We've Just Begun | 11.00% | ~226 |
 | Stamina Star | 8.00% | ~164 |
 | Is It the Right Size? | 8.00% | ~164 |
 | Evangelist | 6.00% | ~123 |
-| Make It Your Own! | 5.00% | ~102 |
+| Make It Your Own! | 5.00% | ~103 |
 | I Make the Rules! | 4.00% | ~82 |
 | Spoilt for Choice | 3.00% | ~62 |
 | Cherry Blossom and Temples | 3.00% | ~62 |
@@ -35,9 +35,9 @@
 | Still Here | 2.00% | ~41 |
 | My Work Here Is Done | 2.00% | ~41 |
 | Overtaking the Master | 2.00% | ~41 |
-| I'll Be the Best! | 1.00% | ~20 |
-| Next Level | 1.00% | ~20 |
-| I Don't Stop | 1.00% | ~20 |
+| I'll Be the Best! | 1.00% | ~21 |
+| Next Level | 1.00% | ~21 |
+| I Don't Stop | 1.00% | ~21 |
 | Exhausted but Happy | 0.70% | ~14 |
 | In Search of Perfection | 0.60% | ~12 |
 | Globe-trotter | 0.50% | ~10 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,050 (Ranked 217)  
+Progressed: 2,051 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,4 +122,4 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 2,012 | 0 |
 | 2023-11-06 | 2,026 | 0 |
 | 2023-11-07 | 2,043 | 0 |
-| 2023-11-08 | 2,050 | 0 |
+| 2023-11-08 | 2,051 | 0 |

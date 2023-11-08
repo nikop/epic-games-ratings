@@ -5,11 +5,11 @@ Rating: 4.48 (Ranked 621)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie No More | 28.00% | ~325 |
-| Increasing your Power Level | 28.00% | ~325 |
-| Enter the Speed Gauntlet | 25.00% | ~290 |
-| I just can't choose | 25.00% | ~290 |
-| A Cheese Grater to the Face | 20.00% | ~232 |
+| Rookie No More | 28.00% | ~326 |
+| Increasing your Power Level | 28.00% | ~326 |
+| Enter the Speed Gauntlet | 25.00% | ~291 |
+| I just can't choose | 25.00% | ~291 |
+| A Cheese Grater to the Face | 20.00% | ~233 |
 | Put it on a shelf | 19.00% | ~221 |
 | It's like an haircut | 18.00% | ~209 |
 | Ride in the rising sun | 16.00% | ~186 |
@@ -27,13 +27,13 @@ Rating: 4.48 (Ranked 621)
 | Even Faster! | 6.00% | ~70 |
 | Longshot | 6.00% | ~70 |
 | B-asic! | 5.00% | ~58 |
-| Under the neon lights | 4.00% | ~46 |
-| All Power to Engines! | 4.00% | ~46 |
-| Had to sweat a bit | 4.00% | ~46 |
-| Almost broke the game | 4.00% | ~46 |
-| Better luck next time | 4.00% | ~46 |
-| Dev, this! | 4.00% | ~46 |
-| He who laughs last... | 4.00% | ~46 |
+| Under the neon lights | 4.00% | ~47 |
+| All Power to Engines! | 4.00% | ~47 |
+| Had to sweat a bit | 4.00% | ~47 |
+| Almost broke the game | 4.00% | ~47 |
+| Better luck next time | 4.00% | ~47 |
+| Dev, this! | 4.00% | ~47 |
+| He who laughs last... | 4.00% | ~47 |
 | Try them all | 3.00% | ~35 |
 | A-mazing! | 3.00% | ~35 |
 | To infinity and gravity! | 3.00% | ~35 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 621)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,162 (Ranked 241)  
+Progressed: 1,163 (Ranked 241)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,7 +178,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-30 | 1,159 | 0 |
 | 2023-11-04 | 1,160 | 0 |
 | 2023-11-05 | 1,161 | 0 |
-| 2023-11-08 | 1,162 | 0 |
+| 2023-11-08 | 1,163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

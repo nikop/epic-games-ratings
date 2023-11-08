@@ -35,12 +35,12 @@
 | The Scheme | 21.00% | ~6 |
 | A curious phrase | 17.00% | ~5 |
 | Evelyn Lakshmi Warbeck | 14.00% | ~4 |
+| Horace Mountjoy | 14.00% | ~4 |
 | Johan Kristiansen | 14.00% | ~4 |
 | The Suspects | 14.00% | ~4 |
 | Well-travelled | 10.00% | ~3 |
 | A peculiar fellow | 10.00% | ~3 |
 | Florence Farquhar | 10.00% | ~3 |
-| Horace Mountjoy | 10.00% | ~3 |
 | Mortimer Ailsworth | 10.00% | ~3 |
 | The Secrets | 10.00% | ~3 |
 | The Investigation Starts Anew | 10.00% | ~3 |

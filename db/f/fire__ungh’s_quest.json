@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -763,9 +763,9 @@
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
       "SetID": "6od1ndi",
       "Name": "Kokakoka",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -900,8 +900,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-08T13:13:00.9508272+00:00",
+  "LastChanged_Achievements": "2023-11-08T14:09:19.6031051+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:45.8899995+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:02:26.2137492+00:00",
-  "LastUpdate_Achievements": "2023-11-08T13:13:00.9508547+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:58:28.5178707+00:00",
+  "LastUpdate_Achievements": "2023-11-08T14:09:19.6031308+00:00"
 }

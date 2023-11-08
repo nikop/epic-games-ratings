@@ -3,7 +3,7 @@
   "Name": "Maneater",
   "ProductSlug": "maneater",
   "Ranking_Rating": 606,
-  "Ranking_Popularity": 28,
+  "Ranking_Popularity": 29,
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
@@ -3480,10 +3480,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 18063,
       "NumberOfAwardsMax": 13785
+    },
+    {
+      "Time": "2023-11-08T14:03:33.9193663+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 18064,
+      "NumberOfAwardsMax": 13785
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18063,
+  "NumberOfAwards": 18064,
   "NumberOfAwardsMax": 13785,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3527,7 +3533,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3583,8 +3589,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2023-11-08T09:02:54.9750167+00:00",
+  "LastChanged": "2023-11-08T14:03:33.9193661+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.6643858+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:07:49.5169735+00:00",
-  "LastUpdate_Achievements": "2023-11-08T13:10:37.3940692+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:03:33.9193668+00:00",
+  "LastUpdate_Achievements": "2023-11-08T14:07:51.6361547+00:00"
 }

@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 994)  
+Rating: 3.99 (Ranked 995)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -323,8 +323,8 @@ Completed: 178 (0.13%) (Ranked 257)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,786 | 178 |
 ## Awards
-Max (Great for Beginners): 4,819  (Ranked 73)  
-Sum: 27,509 (Ranked 51)  
+Max (Great for Beginners): 4,819  (Ranked 74)  
+Sum: 27,509 (Ranked 52)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |

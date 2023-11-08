@@ -1775,9 +1775,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 62831,
+  "EOS_Progressed": 62832,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23930,6 +23930,11 @@
       "Time": "2023-11-08T13:10:09.3087354+00:00",
       "NumProgressed": 62831,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T14:07:12.0398971+00:00",
+      "NumProgressed": 62832,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -23941,7 +23946,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 34557
+      "UsersEstimate": 34558
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -24061,7 +24066,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15079
+      "UsersEstimate": 15080
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -24205,7 +24210,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 25132
+      "UsersEstimate": 25133
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -24253,7 +24258,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15079
+      "UsersEstimate": 15080
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -24261,7 +24266,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -24309,7 +24314,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 49008
+      "UsersEstimate": 49009
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -24405,22 +24410,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 23247
+      "UsersEstimate": 23248
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 62831,
+      "Progressed": 62832,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-07T21:58:33.8721529+00:00",
-  "LastChanged_Achievements": "2023-11-08T13:10:09.3087349+00:00",
+  "LastChanged_Achievements": "2023-11-08T14:07:12.0398964+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:16.5561604+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:03:51.3379561+00:00",
-  "LastUpdate_Achievements": "2023-11-08T13:10:09.308989+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:00:29.6298124+00:00",
+  "LastUpdate_Achievements": "2023-11-08T14:07:12.0400868+00:00"
 }

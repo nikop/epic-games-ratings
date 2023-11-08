@@ -455,9 +455,9 @@
       "ID": "1006_achv_chapter1",
       "SetID": "dhn82m5",
       "Name": "Chapter I",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "1006_achv_demoliton",
@@ -471,9 +471,9 @@
       "ID": "1006_achv_dropball",
       "SetID": "dhn82m5",
       "Name": "Fire in the... nevermind",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "1006_achv_fixbomb",
@@ -495,17 +495,17 @@
       "ID": "2001_achv_shrooms",
       "SetID": "dhn82m5",
       "Name": "Keep away from children",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "2002_achv_burnswamp",
       "SetID": "dhn82m5",
       "Name": "I didn\u0027t do it!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     },
     {
       "ID": "2002_achv_feedfish",
@@ -519,9 +519,9 @@
       "ID": "2002_achv_taste",
       "SetID": "dhn82m5",
       "Name": "Haute cuisine",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "2004_achv_abyss",
@@ -696,8 +696,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-08T13:08:40.0902367+00:00",
+  "LastChanged_Achievements": "2023-11-08T14:05:08.4266507+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:51.6320481+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:02:54.1906068+00:00",
-  "LastUpdate_Achievements": "2023-11-08T13:08:40.0902809+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:59:06.2408327+00:00",
+  "LastUpdate_Achievements": "2023-11-08T14:05:08.4266921+00:00"
 }

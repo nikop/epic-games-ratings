@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 229)  
+Rating: 4.69 (Ranked 230)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -78,6 +78,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Jerusalem | 0.10% | ~450 |
 | Liberty or Death | 0.10% | ~450 |
 | Live Long and Prosper | 0.10% | ~450 |
+| Luck of the Irish | 0.10% | ~450 |
 | Magellan’s Voyage | 0.10% | ~450 |
 | Mare Nostrum | 0.10% | ~450 |
 | Market Control | 0.10% | ~450 |
@@ -250,7 +251,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Let It Go! | 0.00% | ~0 |
 | The Levant Turnabout | 0.00% | ~0 |
 | Lion of the North | 0.00% | ~0 |
-| Luck of the Irish | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Made in Japan | 0.00% | ~0 |
 | Maharana Pratap | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,763 (Ranked 41)  
+Progressed: 449,796 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -572,11 +572,11 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
-| 2023-11-08 | 449,763 | 1 |
+| 2023-11-08 | 449,796 | 1 |
 ## Awards
-Max (Educational): 6,903  (Ranked 54)  
+Max (Educational): 6,903  (Ranked 55)  
 Sum: 56,693 (Ranked 24)  
-Diff (max vs sum): 30  
+Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,903 |

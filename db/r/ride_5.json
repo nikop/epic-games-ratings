@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2050,
+  "EOS_Progressed": 2051,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4532,6 +4532,11 @@
       "Time": "2023-11-08T12:09:20.3490929+00:00",
       "NumProgressed": 2050,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T14:10:45.6293397+00:00",
+      "NumProgressed": 2051,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4560,7 +4565,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -4584,7 +4589,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -4656,7 +4661,7 @@
       "Name": "I\u0027ll Be the Best!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -4752,7 +4757,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4808,7 +4813,7 @@
       "Name": "Next Level",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -4880,7 +4885,7 @@
       "Name": "I Don\u0027t Stop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -4935,14 +4940,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2050,
+      "Progressed": 2051,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-08T13:14:02.0123664+00:00",
+  "LastChanged_Achievements": "2023-11-08T14:10:45.629339+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:02:00.2558393+00:00",
-  "LastUpdate_Achievements": "2023-11-08T13:14:02.0124513+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:57:43.7370211+00:00",
+  "LastUpdate_Achievements": "2023-11-08T14:10:45.6294036+00:00"
 }

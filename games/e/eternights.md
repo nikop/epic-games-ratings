@@ -31,7 +31,7 @@
 | Bond Lord | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 391 (Ranked 314)  
-Completed: 2 (0.51%) (Ranked 194)  
+Completed: 2 (0.51%) (Ranked 193)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

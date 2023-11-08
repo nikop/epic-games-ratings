@@ -3,8 +3,8 @@
 [View Rawdata](../../db/f/fallout_3__game_of_the_year_edition.json)  
 Rating: 4.60 (Ranked 410)  
 ## Awards
-Max (Character Customization): 13,935  (Ranked 27)  
-Sum: 28,697 (Ranked 47)  
+Max (Character Customization): 13,935  (Ranked 28)  
+Sum: 28,697 (Ranked 48)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |

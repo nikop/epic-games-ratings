@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 345,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 163,
+  "EOS_Progressed": 164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -591,6 +591,11 @@
       "Time": "2023-11-08T01:47:52.9475096+00:00",
       "NumProgressed": 163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T14:05:17.5837161+00:00",
+      "NumProgressed": 164,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -600,9 +605,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -834,7 +839,7 @@
       "Name": "Conquered",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -1256,9 +1261,9 @@
       "ID": "Vanilla_TasksCompleted",
       "SetID": "27kik8p",
       "Name": "Taskmaster",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "Vanilla_TaxEvasion",
@@ -1282,7 +1287,7 @@
       "Name": "The Package",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1393,7 +1398,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 163,
+      "Progressed": 164,
       "Completed": 0
     }
   ],
@@ -1401,8 +1406,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-08T13:08:46.5435402+00:00",
+  "LastChanged_Achievements": "2023-11-08T14:05:17.5837155+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.0695346+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:07:46.0687795+00:00",
-  "LastUpdate_Achievements": "2023-11-08T13:08:46.5436902+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:03:28.949072+00:00",
+  "LastUpdate_Achievements": "2023-11-08T14:05:17.5838395+00:00"
 }

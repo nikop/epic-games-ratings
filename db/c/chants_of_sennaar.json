@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.71,
+  "EOS_Completed_Percentage": 5.7,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2100,6 +2100,11 @@
       "Time": "2023-11-08T13:09:00.6346297+00:00",
       "NumProgressed": 490,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-08T14:05:37.2097741+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2111,7 +2116,7 @@
       "Name": "I did it",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "END_GOOD",
@@ -2127,7 +2132,7 @@
       "Name": "Peace walker",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2135,7 +2140,7 @@
       "Name": "Cable guy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2231,7 +2236,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2247,7 +2252,7 @@
       "Name": "Champollion",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2310,14 +2315,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-08T13:09:00.6346292+00:00",
+  "LastChanged_Achievements": "2023-11-08T14:05:37.2097734+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:02:59.0667373+00:00",
-  "LastUpdate_Achievements": "2023-11-08T13:09:00.6346681+00:00"
+  "LastUpdate_Ratings": "2023-11-08T13:59:13.5873116+00:00",
+  "LastUpdate_Achievements": "2023-11-08T14:05:37.2098121+00:00"
 }

@@ -40,7 +40,7 @@
 | Catastrophe | 0.00% | ~0 |
 | Flawless Tunnel Runner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52 (Ranked 466)  
+Progressed: 52 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

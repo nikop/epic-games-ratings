@@ -5,20 +5,20 @@ Rating: 4.39 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 9.00% | ~25,720 |
-| IT MAKES BOOM! | 5.00% | ~14,289 |
-| EXTRA BOOST | 4.00% | ~11,431 |
-| PROTECTED | 3.00% | ~8,573 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,573 |
-| PRO | 3.00% | ~8,573 |
-| A TIGER'S FEAR | 2.00% | ~5,716 |
-| AGGRESSIVE RACER | 2.00% | ~5,716 |
+| ROOKIE | 9.00% | ~25,724 |
+| IT MAKES BOOM! | 5.00% | ~14,291 |
+| EXTRA BOOST | 4.00% | ~11,433 |
+| PROTECTED | 3.00% | ~8,575 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,575 |
+| PRO | 3.00% | ~8,575 |
+| A TIGER'S FEAR | 2.00% | ~5,717 |
+| AGGRESSIVE RACER | 2.00% | ~5,717 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~2,858 |
 | ACE SPEEDSTER | 1.00% | ~2,858 |
-| RELEASE THE KRAKEN | 0.80% | ~2,286 |
-| BE OUR GUEST | 0.70% | ~2,000 |
-| DEFEAT OUR CHAMPION | 0.70% | ~2,000 |
-| LEGENDARY HERO | 0.70% | ~2,000 |
+| RELEASE THE KRAKEN | 0.80% | ~2,287 |
+| BE OUR GUEST | 0.70% | ~2,001 |
+| DEFEAT OUR CHAMPION | 0.70% | ~2,001 |
+| LEGENDARY HERO | 0.70% | ~2,001 |
 | TRAINING HARD | 0.60% | ~1,715 |
 | THE EYE OF THE HUNTER | 0.60% | ~1,715 |
 | FRIENDLY | 0.60% | ~1,715 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 744)
 | FRAMED! | 0.20% | ~572 |
 | ACE TRICKSTER | 0.20% | ~572 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285,779 (Ranked 52)  
+Progressed: 285,826 (Ranked 52)  
 Completed: 272 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,11 +228,11 @@ Completed: 272 (0.10%) (Ranked 269)
 | 2023-11-05 | 282,134 | 270 |
 | 2023-11-06 | 283,675 | 271 |
 | 2023-11-07 | 285,088 | 272 |
-| 2023-11-08 | 285,779 | 272 |
+| 2023-11-08 | 285,826 | 272 |
 ## Awards
 Max (Great for Beginners): 57  (Ranked 412)  
-Sum: 450 (Ranked 329)  
-Diff (max vs sum): 83  
+Sum: 453 (Ranked 328)  
+Diff (max vs sum): 84  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 57 |
@@ -245,7 +245,7 @@ Diff (max vs sum): 83
 | This game has Competitive Players | 35 |
 | This game has Amazing Storytelling | 33 |
 | This game has Quickly Understood Controls | 32 |
-| This game is Extremely Fun | 27 |
+| This game is Extremely Fun | 30 |
 | This game is Relaxing | 25 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -288,3 +288,4 @@ Diff (max vs sum): 83
 | 2023-11-05 | 4.40 | 51 | 422 |
 | 2023-11-06 | 4.40 | 55 | 439 |
 | 2023-11-07 | 4.39 | 57 | 450 |
+| 2023-11-08 | 4.39 | 57 | 453 |
