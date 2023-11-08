@@ -108,6 +108,7 @@
 | [WTC - Relentless Protagonist](../games/w/wtc_-_relentless_protagonist.md) | 60 | 1,000 |
 | [PC Building Simulator 2](../games/p/pc_building_simulator_2.md) | 59 | 1,000 |
 | [Surviving the Aftermath](../games/s/surviving_the_aftermath__founder's_edition.md) | 59 | 1,000 |
+| [The Talos Principle 2](../games/4/43acebbd46cd4aac956ad049c10c603a.md) | 59 | 1,000 |
 | [Verdun](../games/v/verdun.md) | 59 | 1,000 |
 | [War Mongrels](../games/w/war_mongrels.md) | 59 | 1,000 |
 | [Sands of Aura](../games/s/sands_of_aura.md) | 58 | 1,000 |

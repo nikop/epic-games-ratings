@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.31% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.30% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -134,7 +134,7 @@
 | 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.58% |
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.54% |
 | 134 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
-| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.51% |
+| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.50% |
 | 136 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 137 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
 | 137 | [Late Shift](games/l/late_shift.md) | 1.43% |
@@ -169,7 +169,7 @@
 | 167 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 167 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.85% |
 | 169 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
-| 170 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
+| 170 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 171 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 172 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.74% |
 | 173 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
@@ -194,8 +194,8 @@
 | 192 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.52% |
 | 192 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.52% |
 | 194 | [Eternights](games/e/eternights.md) | 0.51% |
-| 195 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
-| 195 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.50% |
+| 194 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.51% |
+| 196 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
 | 197 | [Dead Space](games/d/dead_space.md) | 0.49% |
 | 198 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
 | 198 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
@@ -693,6 +693,7 @@
 | 345 | [The Making of Karateka](games/7/72a2d3937aaf45b082fc20ad5b6703ae.md) | 0.00% |
 | 345 | [The Many Pieces of Mr. Coo](games/t/the_many_pieces_of_mr._coo.md) | 0.00% |
 | 345 | [The Spirit and the Mouse](games/t/the_spirit_and_the_mouse.md) | 0.00% |
+| 345 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.00% |
 | 345 | [The Tenants](games/t/the_tenants.md) | 0.00% |
 | 345 | [The Unbeatable Path](games/t/the_unbeatable_path.md) | 0.00% |
 | 345 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 0.00% |
@@ -728,4 +729,4 @@
 | 345 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 345 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 345 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,527 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,529 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |

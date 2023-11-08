@@ -715,6 +715,7 @@
 | [The Surge 2](../games/t/the_surge_2.md) | 57 | 1,000 |
 | [The Swine](../games/t/the_swine.md) | 5 | 1,000 |
 | [The Tale of Bistun](../games/t/the_tale_of_bistun.md) | 38 | 1,000 |
+| [The Talos Principle 2](../games/4/43acebbd46cd4aac956ad049c10c603a.md) | 59 | 1,000 |
 | [The Unbeatable Path](../games/t/the_unbeatable_path.md) | 23 | 1,000 |
 | [The Uncertain: Last Quiet Day](../games/t/the_uncertain__last_quiet_day.md) | 32 | 1,000 |
 | [The Uncertain: Light at the End](../games/t/the_uncertain__light_at_the_end.md) | 29 | 1,000 |
