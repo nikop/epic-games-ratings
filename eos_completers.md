@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.13% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.11% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [greensheen Production](games/g/greensheen_production.md) | 35.71% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
@@ -53,7 +53,7 @@
 | 51 | [Sonic Origins](games/s/sonic_origins.md) | 7.58% |
 | 52 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.14% |
 | 53 | [Time Loader](games/t/time_loader.md) | 7.09% |
-| 54 | [Scorn](games/s/scorn.md) | 6.88% |
+| 54 | [Scorn](games/s/scorn.md) | 6.87% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 56 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 56 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.25% |
@@ -116,7 +116,7 @@
 | 114 | [Bloodshore](games/b/bloodshore.md) | 2.42% |
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
-| 117 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.34% |
+| 117 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.33% |
 | 118 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.26% |
 | 119 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.17% |
 | 120 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
@@ -145,8 +145,8 @@
 | 143 | [Chorus](games/c/chorus.md) | 1.34% |
 | 143 | [Poosh XL](games/p/poosh_xl.md) | 1.34% |
 | 145 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.32% |
-| 146 | [Lemon Cake](games/l/lemon_cake.md) | 1.27% |
 | 146 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.27% |
+| 147 | [Lemon Cake](games/l/lemon_cake.md) | 1.26% |
 | 148 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.25% |
 | 148 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 150 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
@@ -207,11 +207,11 @@
 | 204 | [Tchia](games/t/tchia.md) | 0.44% |
 | 206 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.42% |
 | 207 | [Wildermyth](games/w/wildermyth.md) | 0.41% |
+| 208 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.39% |
 | 208 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
 | 208 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
-| 210 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.38% |
-| 210 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
-| 210 | [Train Valley](games/t/train_valley.md) | 0.38% |
+| 211 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
+| 211 | [Train Valley](games/t/train_valley.md) | 0.38% |
 | 213 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
 | 213 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.37% |
 | 213 | [The Surge](games/t/the_surge.md) | 0.37% |
@@ -244,10 +244,10 @@
 | 239 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 239 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.21% |
 | 244 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
+| 244 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.20% |
 | 244 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
-| 246 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
-| 246 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.19% |
-| 246 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.19% |
+| 247 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
+| 247 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.19% |
 | 249 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 249 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.18% |
 | 251 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
