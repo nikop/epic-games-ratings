@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 110,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1250,9 +1250,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_23",
@@ -1528,8 +1528,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:04:31.4911938+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:05:06.854988+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:02:31.4797844+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:04:31.4912497+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:02:25.6983901+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:05:06.8550303+00:00"
 }

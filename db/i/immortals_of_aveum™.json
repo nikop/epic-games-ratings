@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1137,9 +1137,9 @@
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_41",
@@ -1346,8 +1346,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:05:46.7394727+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:06:35.337302+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:57:37.5213566+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:05:46.7395216+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:57:55.9556012+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:06:35.3373331+00:00"
 }

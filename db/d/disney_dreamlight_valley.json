@@ -4551,9 +4551,9 @@
       "Count": 522
     }
   ],
-  "EOS_Progressed": 11523,
+  "EOS_Progressed": 11524,
   "EOS_Completed": 272,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 2.36,
   "EosHistory": [
@@ -18136,6 +18136,11 @@
       "Time": "2023-11-08T06:05:55.7582052+00:00",
       "NumProgressed": 11523,
       "NumCompleted": 272
+    },
+    {
+      "Time": "2023-11-08T07:06:45.9917945+00:00",
+      "NumProgressed": 11524,
+      "NumCompleted": 272
     }
   ],
   "TotalAchievements": 15,
@@ -18219,7 +18224,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 8066
+      "UsersEstimate": 8067
     },
     {
       "ID": "Miner",
@@ -18233,9 +18238,9 @@
       "ID": "Photographer",
       "SetID": "chapdi4",
       "Name": "Photographer",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7836
+      "UsersEstimate": 7952
     },
     {
       "ID": "Renovator",
@@ -18259,14 +18264,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 7144
+      "UsersEstimate": 7145
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11523,
+      "Progressed": 11524,
       "Completed": 272
     }
   ],
@@ -18274,8 +18279,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-08T01:42:26.8680138+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:05:55.7582047+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:06:45.9917942+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:05.8389263+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:58:21.4328931+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:05:55.7582935+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:58:49.0507742+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:06:45.9918884+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2047,
+  "EOS_Progressed": 2048,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4517,6 +4517,11 @@
       "Time": "2023-11-08T05:10:21.8184266+00:00",
       "NumProgressed": 2047,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T07:10:05.152873+00:00",
+      "NumProgressed": 2048,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4529,7 +4534,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 880
+      "UsersEstimate": 881
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4537,7 +4542,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 798
+      "UsersEstimate": 799
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4601,7 +4606,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4633,7 +4638,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -4705,7 +4710,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -4737,7 +4742,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4833,7 +4838,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 491
+      "UsersEstimate": 492
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4920,14 +4925,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2047,
+      "Progressed": 2048,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:09:35.2726477+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:10:05.1528727+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:57:07.092291+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:09:35.2727171+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:57:18.8525804+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:10:05.1529507+00:00"
 }

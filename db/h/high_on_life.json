@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 125,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -307,7 +307,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24456,
+  "EOS_Progressed": 24457,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
@@ -6522,6 +6522,11 @@
       "Time": "2023-11-08T04:06:15.9133803+00:00",
       "NumProgressed": 24456,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-08T07:06:58.6268977+00:00",
+      "NumProgressed": 24457,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 44,
@@ -6845,7 +6850,7 @@
       "Name": "Give Away All Your Money",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_PARASITE_PASSENGER_LOVE",
@@ -6861,7 +6866,7 @@
       "Name": "Meet Frasier from Frasier",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_RIDDLE_MASTER",
@@ -6869,7 +6874,7 @@
       "Name": "It\u0027s Like The Santa Clause",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_TOXXO_BATH",
@@ -6877,20 +6882,20 @@
       "Name": "Bathe With A Giant Nude Alien",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 24456,
+      "Progressed": 24457,
       "Completed": 13
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 1749,
+      "Progressed": 1750,
       "Completed": 1376
     }
   ],
@@ -6898,8 +6903,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-11-04T04:58:56.1771258+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:06:06.6184884+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:06:58.6268972+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.8634233+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:02:35.434728+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:06:06.6185658+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:02:30.4667385+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:06:58.6269553+00:00"
 }

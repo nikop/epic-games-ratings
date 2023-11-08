@@ -7,11 +7,11 @@ Number of Ratings: 1,845  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Real Expedition | 7.00% | ~1,207 |
+| The Marshlands | 7.00% | ~1,207 |
 | Taking Action | 7.00% | ~1,207 |
 | No Deaths | 7.00% | ~1,207 |
 | Overcoming Difficulty | 6.00% | ~1,034 |
 | Coral Forest | 6.00% | ~1,034 |
-| The Marshlands | 6.00% | ~1,034 |
 | The Scarlet Orchard | 6.00% | ~1,034 |
 | Ancient Battleground | 5.00% | ~862 |
 | Fertile Meadows | 5.00% | ~862 |

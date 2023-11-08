@@ -5,7 +5,7 @@ Rating: 4.75 (Ranked 143)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,688 |
+| First of Many | 9.00% | ~19,689 |
 | The Killing Jar | 8.00% | ~17,501 |
 | Expanding Horizons | 7.00% | ~15,313 |
 | Quest for Survival | 7.00% | ~15,313 |
@@ -24,16 +24,16 @@ Rating: 4.75 (Ranked 143)
 | Almost There | 5.00% | ~10,938 |
 | Make Some Room | 5.00% | ~10,938 |
 | Good, But Could Be Better! | 5.00% | ~10,938 |
-| Chaos | 4.00% | ~8,750 |
-| Traitor | 4.00% | ~8,750 |
-| Power Surge | 4.00% | ~8,750 |
-| The God Gambit | 4.00% | ~8,750 |
-| Dark Designs | 4.00% | ~8,750 |
-| Madman's Paradise | 4.00% | ~8,750 |
-| Was This Supposed To Happen? | 4.00% | ~8,750 |
-| The Web | 4.00% | ~8,750 |
-| Scrap Collector | 4.00% | ~8,750 |
-| All These Traits� | 4.00% | ~8,750 |
+| Chaos | 4.00% | ~8,751 |
+| Traitor | 4.00% | ~8,751 |
+| Power Surge | 4.00% | ~8,751 |
+| The God Gambit | 4.00% | ~8,751 |
+| Dark Designs | 4.00% | ~8,751 |
+| Madman's Paradise | 4.00% | ~8,751 |
+| Was This Supposed To Happen? | 4.00% | ~8,751 |
+| The Web | 4.00% | ~8,751 |
+| Scrap Collector | 4.00% | ~8,751 |
+| All These Traits� | 4.00% | ~8,751 |
 | Am I Seeing This? | 3.00% | ~6,563 |
 | Forever is a Long Time Coming | 3.00% | ~6,563 |
 | The Agenda | 3.00% | ~6,563 |
@@ -42,13 +42,13 @@ Rating: 4.75 (Ranked 143)
 | Strapped | 3.00% | ~6,563 |
 | Edgelord | 3.00% | ~6,563 |
 | The Ultimate Weapon | 3.00% | ~6,563 |
-| No One Should Have All That Power | 3.00% | ~6,563 |
 | Crafty | 2.00% | ~4,375 |
 | Only Human | 2.00% | ~4,375 |
 | Red Room | 2.00% | ~4,375 |
 | The Collector | 2.00% | ~4,375 |
 | Scrap Hoarder | 2.00% | ~4,375 |
 | Carnage in C-Minor | 2.00% | ~4,375 |
+| No One Should Have All That Power | 2.00% | ~4,375 |
 | Maxed Out! | 2.00% | ~4,375 |
 | Transmutate | 2.00% | ~4,375 |
 | Ghost in the Machine | 1.00% | ~2,188 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 143)
 | Cutting Edge | 1.00% | ~2,188 |
 | Proving Grounds | 1.00% | ~2,188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,759 (Ranked 68)  
+Progressed: 218,763 (Ranked 68)  
 Completed: 433 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 433 (0.20%) (Ranked 244)
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
 | 2023-11-07 | 218,702 | 433 |
-| 2023-11-08 | 218,759 | 433 |
+| 2023-11-08 | 218,763 | 433 |
 ## Awards
 Max (Great Boss Battles): 2,095  (Ranked 109)  
 Sum: 4,689 (Ranked 143)  

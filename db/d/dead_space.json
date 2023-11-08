@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -4983,9 +4983,9 @@
       "ID": "achievement_21",
       "SetID": "222fo9l",
       "Name": "Live with the Hot Ones",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 664
     },
     {
       "ID": "achievement_22",
@@ -5264,8 +5264,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-05T01:50:21.7166978+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:04:09.9319428+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:04:41.6995367+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.4707049+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:58:02.5251394+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:04:09.9320166+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:58:24.6516402+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:04:41.6995885+00:00"
 }

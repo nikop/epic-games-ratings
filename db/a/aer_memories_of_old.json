@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23686,
+  "EOS_Progressed": 23688,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 493,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -22083,6 +22083,11 @@
       "Time": "2023-11-08T06:07:13.6065983+00:00",
       "NumProgressed": 23686,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-11-08T07:08:18.6965294+00:00",
+      "NumProgressed": 23688,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 20,
@@ -22126,7 +22131,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -22150,7 +22155,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -22166,7 +22171,7 @@
       "Name": "Hide and Seek",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "FOUND_FOX_STATUE",
@@ -22206,7 +22211,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "INTRO_FINISHED",
@@ -22214,7 +22219,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18238
+      "UsersEstimate": 18240
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22222,7 +22227,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6395
+      "UsersEstimate": 6396
     },
     {
       "ID": "NORTH_FINISHED",
@@ -22246,22 +22251,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4263
+      "UsersEstimate": 4264
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23686,
+      "Progressed": 23688,
       "Completed": 452
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:07:13.6065968+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:08:18.696529+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.680563+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:56:59.9265906+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:07:13.6067506+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:57:10.094409+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:08:18.6966278+00:00"
 }

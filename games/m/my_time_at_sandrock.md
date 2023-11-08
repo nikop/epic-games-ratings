@@ -9,7 +9,7 @@ Number of Ratings: 892  (23.09.2022)
 | Adept Assembler | 235.00% | ~592 |
 | Iron Chef | 192.00% | ~484 |
 | Greeno-B-Gone | 118.00% | ~297 |
-| Your Especially Earned Trajectory | 92.00% | ~232 |
+| Your Especially Earned Trajectory | 93.00% | ~234 |
 | No Mountain Wide Enough | 60.00% | ~151 |
 | Can We Keep It? | 57.00% | ~144 |
 | On that Grindset | 56.00% | ~141 |

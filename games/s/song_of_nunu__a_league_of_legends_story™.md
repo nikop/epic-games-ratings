@@ -9,7 +9,7 @@
 | Better On Ice | 69.00% | ~386 |
 | Notai Notes | 69.00% | ~386 |
 | Blue Dreams | 68.00% | ~381 |
-| He's Famous! | 67.00% | ~375 |
+| He's Famous! | 68.00% | ~381 |
 | Krugmazing | 65.00% | ~364 |
 | Cutie Poro | 63.00% | ~353 |
 | The Fire Below the Mountain | 62.00% | ~347 |

@@ -18,15 +18,15 @@
 | Mirrors | 11.00% | ~10 |
 | Coat | 8.00% | ~7 |
 | At least there is something to read | 7.00% | ~6 |
+| Sarcophagus | 7.00% | ~6 |
 | I need a hero | 7.00% | ~6 |
 | I love you all | 7.00% | ~6 |
 | Skills to pay the bills | 7.00% | ~6 |
-| Sarcophagus | 6.00% | ~5 |
 | Missing pages | 6.00% | ~5 |
 | Master of puppets | 6.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 88 (Ranked 424)  
-Completed: 4 (4.55%) (Ranked 71)  
+Completed: 5 (5.68%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,6 +77,7 @@ Completed: 4 (4.55%) (Ranked 71)
 | 2023-10-31 | 85 | 4 |
 | 2023-11-03 | 86 | 4 |
 | 2023-11-05 | 88 | 4 |
+| 2023-11-08 | 88 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

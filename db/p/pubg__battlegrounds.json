@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 13,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-06T05:00:00+00:00",
     "PcReleaseDate": "2022-12-06T05:00:00+00:00",
@@ -5671,9 +5671,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 694046,
+  "EOS_Progressed": 694048,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 13902,
+  "EOS_NewPlayers": 13848,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28676,6 +28676,11 @@
       "Time": "2023-11-08T06:05:35.7613602+00:00",
       "NumProgressed": 694046,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-08T07:06:22.6943633+00:00",
+      "NumProgressed": 694048,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -28767,7 +28772,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 499713
+      "UsersEstimate": 499715
     },
     {
       "ID": "2",
@@ -28791,7 +28796,7 @@
       "Name": "Killing Spree",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 124928
+      "UsersEstimate": 124929
     },
     {
       "ID": "22",
@@ -28911,7 +28916,7 @@
       "Name": "You Complete Me",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 263737
+      "UsersEstimate": 263738
     },
     {
       "ID": "36",
@@ -28927,7 +28932,7 @@
       "Name": "Health Junkie",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 277618
+      "UsersEstimate": 277619
     },
     {
       "ID": "4",
@@ -28982,7 +28987,7 @@
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 694046,
+      "Progressed": 694048,
       "Completed": 10
     }
   ],
@@ -28990,8 +28995,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-11-07T18:56:54.4041486+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:05:35.7613586+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:06:22.6943626+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.1983815+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:57:12.2611872+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:05:35.7615289+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:57:24.9022566+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:06:22.6944846+00:00"
 }

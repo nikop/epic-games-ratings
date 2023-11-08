@@ -14,7 +14,7 @@
 | Memory Rouser | 65.00% | ~156 |
 | Charmed by the Hunt | 65.00% | ~156 |
 | Subsistence Skills | 63.00% | ~151 |
-| Kemono Hunter | 59.00% | ~142 |
+| Kemono Hunter | 60.00% | ~144 |
 | Expert Conjuror | 58.00% | ~139 |
 | Distance Devourer | 55.00% | ~132 |
 | Flawless Crystal | 53.00% | ~127 |

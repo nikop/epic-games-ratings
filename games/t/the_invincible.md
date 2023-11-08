@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 74.00% | ~57 |
-| The Teleprobe | 45.00% | ~35 |
+| The Teleprobe | 47.00% | ~36 |
 | The City | 34.00% | ~26 |
 | Krauta is alive | 21.00% | ~16 |
 | The field base | 19.00% | ~15 |
@@ -19,12 +19,12 @@
 | The End | 8.00% | ~6 |
 | On her own | 6.00% | ~5 |
 | I remember everything! | 5.00% | ~4 |
+| Beyond divisions | 5.00% | ~4 |
 | Fierce fight | 4.00% | ~3 |
 | Peacemaker | 4.00% | ~3 |
 | Evacuation | 4.00% | ~3 |
 | Another giant | 4.00% | ~3 |
 | Got lost again | 4.00% | ~3 |
-| Beyond divisions | 4.00% | ~3 |
 | Violent solution | 3.00% | ~2 |
 | The Invincible | 3.00% | ~2 |
 | Ubiquitous holes | 1.00% | ~1 |

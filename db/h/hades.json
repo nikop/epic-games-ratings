@@ -5284,9 +5284,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 712952,
+  "EOS_Progressed": 712953,
   "EOS_Completed": 6468,
-  "EOS_NewPlayers": 1614,
+  "EOS_NewPlayers": 1608,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -27029,6 +27029,11 @@
       "Time": "2023-11-08T05:09:32.3017827+00:00",
       "NumProgressed": 712952,
       "NumCompleted": 6468
+    },
+    {
+      "Time": "2023-11-08T07:09:16.7245899+00:00",
+      "NumProgressed": 712953,
+      "NumCompleted": 6468
     }
   ],
   "TotalAchievements": 49,
@@ -27056,7 +27061,7 @@
       "Name": "To Charon\u0027s Credit",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 156849
+      "UsersEstimate": 156850
     },
     {
       "ID": "AchBronzeSkellyTrophy",
@@ -27096,7 +27101,7 @@
       "Name": "Is There No Escape?",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 370735
+      "UsersEstimate": 370736
     },
     {
       "ID": "AchClearAsphodel",
@@ -27112,7 +27117,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 470548
+      "UsersEstimate": 470549
     },
     {
       "ID": "AchClearElysiumEM",
@@ -27128,7 +27133,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 128331
+      "UsersEstimate": 128332
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -27144,7 +27149,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 634527
+      "UsersEstimate": 634528
     },
     {
       "ID": "AchCrushedThanatos",
@@ -27152,7 +27157,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 320828
+      "UsersEstimate": 320829
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -27200,7 +27205,7 @@
       "Name": "Rare Collectible",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 156849
+      "UsersEstimate": 156850
     },
     {
       "ID": "AchGreaterCall",
@@ -27208,7 +27213,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 477678
+      "UsersEstimate": 477679
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -27232,7 +27237,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 263792
+      "UsersEstimate": 263793
     },
     {
       "ID": "AchManyCosmetics",
@@ -27256,7 +27261,7 @@
       "Name": "Blood Bound",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 249533
+      "UsersEstimate": 249534
     },
     {
       "ID": "AchMeetChthonicGods",
@@ -27264,7 +27269,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 442030
+      "UsersEstimate": 442031
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -27328,7 +27333,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 263792
+      "UsersEstimate": 263793
     },
     {
       "ID": "AchPickedManyHammers",
@@ -27400,7 +27405,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 499066
+      "UsersEstimate": 499067
     },
     {
       "ID": "AchWeaponClears",
@@ -27431,15 +27436,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 712952,
+      "Progressed": 712953,
       "Completed": 6468
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-11-07T11:58:09.0560326+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:08:54.0541991+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:09:16.7245895+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:23.3619553+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:58:27.4982167+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:08:54.0543762+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:58:58.1293296+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:09:16.724736+00:00"
 }

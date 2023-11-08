@@ -26,7 +26,7 @@ Rating: 4.63 (Ranked 346)
 | Fallout Doesn't Let You Do This | 1.00% | ~245 |
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~245 |
 | Series Wrap on Suit-O | 1.00% | ~245 |
-| Bathe With A Giant Nude Alien | 1.00% | ~17 |
+| Bathe With A Giant Nude Alien | 1.00% | ~18 |
 | We Came, We Chainsaw, We Conquered | 0.90% | ~16 |
 | Mux Ado About Shipping | 0.70% | ~12 |
 | Gunning For Your Job | 0.50% | ~122 |
@@ -37,9 +37,9 @@ Rating: 4.63 (Ranked 346)
 | Mods Please Ban | 0.20% | ~49 |
 | A Starfish Is Born | 0.20% | ~49 |
 | Carried Stan's Load To Completion | 0.20% | ~49 |
-| Give Away All Your Money | 0.20% | ~3 |
-| Meet Frasier from Frasier | 0.20% | ~3 |
-| It's Like The Santa Clause | 0.20% | ~3 |
+| Give Away All Your Money | 0.20% | ~4 |
+| Meet Frasier from Frasier | 0.20% | ~4 |
+| It's Like The Santa Clause | 0.20% | ~4 |
 | Epic Legendary Prize | 0.10% | ~24 |
 | Playing Card To Get | 0.10% | ~24 |
 | Luglox Genocide | 0.10% | ~24 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 346)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,456 (Ranked 125)  
+Progressed: 24,457 (Ranked 125)  
 Completed: 13 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 13 (0.05%) (Ranked 297)
 | 2023-11-05 | 24,443 | 13 |
 | 2023-11-06 | 24,449 | 13 |
 | 2023-11-07 | 24,454 | 13 |
-| 2023-11-08 | 24,456 | 13 |
+| 2023-11-08 | 24,457 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -19,12 +19,12 @@ Number of Ratings: 22,103  (23.09.2022)
 | Food for Thought | 27.00% | ~20,953 |
 | Finders Keepers | 26.00% | ~20,177 |
 | A Young Empire | 26.00% | ~20,177 |
-| Work Ethic | 23.00% | ~17,848 |
-| Picking Fights | 20.00% | ~15,520 |
-| Power Players | 19.00% | ~14,744 |
-| Quality Time | 18.00% | ~13,968 |
-| Showdown | 17.00% | ~13,192 |
-| Et tu? | 17.00% | ~13,192 |
+| Work Ethic | 23.00% | ~17,849 |
+| Picking Fights | 20.00% | ~15,521 |
+| Power Players | 19.00% | ~14,745 |
+| Quality Time | 18.00% | ~13,969 |
+| Showdown | 17.00% | ~13,193 |
+| Et tu? | 17.00% | ~13,193 |
 | Took It to The Limit | 16.00% | ~12,416 |
 | Kitted Out | 14.00% | ~10,864 |
 | Masters of Santo Ileso | 12.00% | ~9,312 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~155 |
 | Fiesta Time | 0.20% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,602 (Ranked 96)  
+Progressed: 77,603 (Ranked 96)  
 Completed: 51 (0.07%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 51 (0.07%) (Ranked 286)
 | 2023-11-05 | 77,400 | 51 |
 | 2023-11-06 | 77,492 | 51 |
 | 2023-11-07 | 77,585 | 51 |
-| 2023-11-08 | 77,602 | 51 |
+| 2023-11-08 | 77,603 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
 Sum: 8,729 (Ranked 97)  

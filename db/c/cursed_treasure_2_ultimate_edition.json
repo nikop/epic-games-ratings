@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -319,9 +319,9 @@
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
       "SetID": "ak6pfjk",
       "Name": "Brilliant: Meadowshire",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_2",
@@ -383,9 +383,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT",
       "SetID": "ak6pfjk",
       "Name": "The Starry Night",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_1",
@@ -535,9 +535,9 @@
       "ID": "BADGE_GOLD_COINS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Look After the Pence...",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 129
     },
     {
       "ID": "BADGE_HOSTILE_WATERS",
@@ -672,8 +672,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:04:17.4719646+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:04:50.2228432+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.7745702+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:59:22.9022212+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:04:17.4720132+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:00:05.8829131+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:04:50.2228776+00:00"
 }

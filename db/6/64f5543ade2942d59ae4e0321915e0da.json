@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -450,9 +450,9 @@
       "ID": "AC_ROCKET_MAX",
       "SetID": "16i2akc",
       "Name": "Rocket",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AC_ROSCOBOSS",
@@ -497,8 +497,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:08:08.3202124+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:08:23.6650564+00:00",
   "LastUpdate_AppInfo": "2023-11-07T16:57:12.9013304+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:57:03.0600999+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:08:08.3202459+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:57:13.4542101+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:08:23.6650811+00:00"
 }

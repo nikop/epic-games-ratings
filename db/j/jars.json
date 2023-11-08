@@ -3,9 +3,9 @@
   "Name": "JARS",
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 424,
-  "Ranking_EOS_Completed": 71,
+  "Ranking_EOS_Completed": 63,
   "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
     "PcReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -30,10 +30,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 88,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 3,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.55,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.68,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -304,6 +304,11 @@
       "Time": "2023-11-05T11:04:39.3165176+00:00",
       "NumProgressed": 88,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T07:07:15.4761272+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -377,9 +382,9 @@
       "ID": "ACH_CHAPTER_5_DONE",
       "SetID": "3jfhgga",
       "Name": "Sarcophagus",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_ENCYCLOPEDIA_ENTRY",
@@ -475,15 +480,15 @@
       "ID": "3jfhgga",
       "IsBase": true,
       "Progressed": 88,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:26:25.1355207+00:00",
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-11-08T06:06:20.8294637+00:00",
+  "LastChanged_Achievements": "2023-11-08T07:07:15.4761266+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:01.4833197+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:00:30.6195494+00:00",
-  "LastUpdate_Achievements": "2023-11-08T06:06:20.8294806+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:01:28.1311572+00:00",
+  "LastUpdate_Achievements": "2023-11-08T07:07:15.4761387+00:00"
 }
