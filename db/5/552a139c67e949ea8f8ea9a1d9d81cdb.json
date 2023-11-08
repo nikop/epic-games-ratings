@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 960,
+  "EOS_Progressed": 961,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1807,6 +1807,11 @@
       "Time": "2023-11-08T22:05:42.0782879+00:00",
       "NumProgressed": 960,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T23:05:35.0002835+00:00",
+      "NumProgressed": 961,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1819,7 +1824,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1827,7 +1832,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1835,7 +1840,7 @@
       "Name": "Out of control",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2009,9 +2014,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 19
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -2162,20 +2167,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 960,
+      "Progressed": 961,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 628,
-      "Completed": 628
+      "Progressed": 629,
+      "Completed": 629
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-08T22:05:42.0782876+00:00",
+  "LastChanged_Achievements": "2023-11-08T23:05:35.0002832+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:57:40.8749373+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:05:42.0783257+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:57:37.8601304+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:05:35.0003184+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "d06d0271a51d400c870f668d7e80e980",
   "Name": "Revita",
   "ProductSlug": "revita-d8ff55",
-  "Ranking_Rating": 348,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-21T13:00:00+00:00",
     "PcReleaseDate": "2022-04-21T00:00:00+00:00",
@@ -91,6 +91,6 @@
   "FirstSeenRating": "2022-07-30T11:31:49.5619799+00:00",
   "LastChanged": "2023-11-02T16:00:20.6290006+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.184676+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:59:25.4179957+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:05:08.340549+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:59:18.4252311+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:05:02.5568434+00:00"
 }

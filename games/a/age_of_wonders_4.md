@@ -5,7 +5,7 @@ Rating: 4.60 (Ranked 411)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 0.60% | ~32 |
+| But this one is mine | 0.70% | ~37 |
 | Secret Technique | 0.20% | ~11 |
 | Walls Cannot Stop Us | 0.20% | ~11 |
 | Freed Lands of Manuhari | 0.20% | ~11 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 411)
 | Duality | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,297 (Ranked 183)  
+Progressed: 5,299 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-05 | 5,274 | 7 |
 | 2023-11-06 | 5,276 | 7 |
 | 2023-11-07 | 5,285 | 7 |
-| 2023-11-08 | 5,297 | 7 |
+| 2023-11-08 | 5,299 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 474)  

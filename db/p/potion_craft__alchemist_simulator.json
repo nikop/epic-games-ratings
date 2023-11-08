@@ -2,13 +2,13 @@
   "ID": "076c0aa2704a4741a2cb7e2436efd2fd",
   "Name": "Potion Craft: Alchemist Simulator",
   "ProductSlug": "potion-craft-7656a2",
-  "Ranking_Rating": 485,
+  "Ranking_Rating": 470,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-13T17:00:00+00:00",
     "PcReleaseDate": "2022-12-13T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.56,
+  "Rating": 4.57,
   "RatingHistory": [
     {
       "Time": "2022-12-27T02:02:09.6574845+00:00",
@@ -197,6 +197,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-08T22:59:46.2168867+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -223,9 +229,9 @@
   "FirstSeen": "2022-12-14T02:15:37.2843558+00:00",
   "FirstSeenRating": "2022-12-27T02:02:09.6574842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.9399918+00:00",
-  "LastChanged": "2023-10-30T21:02:04.9163265+00:00",
-  "LastChanged_Achievements": "2023-11-08T22:05:12.9186701+00:00",
+  "LastChanged": "2023-11-08T22:59:46.2168864+00:00",
+  "LastChanged_Achievements": "2023-11-08T23:05:06.8015561+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:45.0180623+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:59:53.3673072+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:05:12.9186735+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:59:46.2168872+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:05:06.8015587+00:00"
 }

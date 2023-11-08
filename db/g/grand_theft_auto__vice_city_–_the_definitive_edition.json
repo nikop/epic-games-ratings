@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -829,7 +829,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 10949,
+  "EOS_Progressed": 10950,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
@@ -12624,6 +12624,11 @@
       "Time": "2023-11-08T21:15:18.0454759+00:00",
       "NumProgressed": 10949,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-08T23:04:12.8891637+00:00",
+      "NumProgressed": 10950,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12635,7 +12640,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH02",
@@ -12659,7 +12664,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH05",
@@ -12707,7 +12712,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ACH11",
@@ -12755,7 +12760,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH17",
@@ -12763,7 +12768,7 @@
       "Name": "Gun for Hire",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ACH18",
@@ -12771,7 +12776,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH19",
@@ -12787,7 +12792,7 @@
       "Name": "Daredevil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH21",
@@ -12803,7 +12808,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2299
+      "UsersEstimate": 2300
     },
     {
       "ID": "ACH23",
@@ -12843,7 +12848,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH28",
@@ -12851,7 +12856,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ACH29",
@@ -12867,7 +12872,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "ACH31",
@@ -12891,7 +12896,7 @@
       "Name": "Done it All",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH34",
@@ -12906,7 +12911,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10949,
+      "Progressed": 10950,
       "Completed": 64
     }
   ],
@@ -12914,8 +12919,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-08T07:57:41.8052355+00:00",
-  "LastChanged_Achievements": "2023-11-08T22:04:18.0269094+00:00",
+  "LastChanged_Achievements": "2023-11-08T23:04:12.8891634+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:57:36.7265635+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:04:18.0269912+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:57:34.6438696+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:04:12.8892373+00:00"
 }

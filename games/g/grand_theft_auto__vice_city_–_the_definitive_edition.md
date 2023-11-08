@@ -8,19 +8,19 @@ Rating: 4.53 (Ranked 536)
 | Legal Counsel | 46.00% | ~5,037 |
 | Greasy Palms | 42.00% | ~4,599 |
 | South American Connection | 26.00% | ~2,847 |
-| Life of the Party | 21.00% | ~2,299 |
+| Life of the Party | 21.00% | ~2,300 |
 | Tommy Two-Wheels | 16.00% | ~1,752 |
 | Big Heat from Little Havana | 15.00% | ~1,642 |
 | Chauffeur | 15.00% | ~1,642 |
 | Salutations My Little Friend | 11.00% | ~1,204 |
 | Iron-y | 10.00% | ~1,095 |
-| Gun for Hire | 9.00% | ~985 |
-| Mischief Managed | 9.00% | ~985 |
-| Vice City Mogul | 7.00% | ~766 |
-| Bloodstained Hands | 7.00% | ~766 |
+| Gun for Hire | 9.00% | ~986 |
+| Mischief Managed | 9.00% | ~986 |
+| Vice City Mogul | 7.00% | ~767 |
+| Bloodstained Hands | 7.00% | ~767 |
 | Catch Me if You Can | 6.00% | ~657 |
-| Not my First Time | 5.00% | ~547 |
-| Grand Theft Auto | 5.00% | ~547 |
+| Not my First Time | 5.00% | ~548 |
+| Grand Theft Auto | 5.00% | ~548 |
 | High Quality H2O | 4.00% | ~438 |
 | Pie Guy | 4.00% | ~438 |
 | Running Rampant | 3.00% | ~328 |
@@ -33,14 +33,14 @@ Rating: 4.53 (Ranked 536)
 | One is Better Than Two | 2.00% | ~219 |
 | Take the Cannoli | 2.00% | ~219 |
 | Chopper’d Up | 2.00% | ~219 |
-| Born in the 80’s | 1.00% | ~109 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~109 |
-| I'm Famous! | 1.00% | ~109 |
-| Daredevil | 1.00% | ~109 |
-| Done it All | 1.00% | ~109 |
+| Born in the 80’s | 1.00% | ~110 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~110 |
+| I'm Famous! | 1.00% | ~110 |
+| Daredevil | 1.00% | ~110 |
+| Done it All | 1.00% | ~110 |
 | Kingpin | 0.60% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,949 (Ranked 154)  
+Progressed: 10,950 (Ranked 154)  
 Completed: 64 (0.58%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 64 (0.58%) (Ranked 181)
 | 2023-11-05 | 10,882 | 64 |
 | 2023-11-06 | 10,908 | 64 |
 | 2023-11-07 | 10,933 | 64 |
-| 2023-11-08 | 10,949 | 64 |
+| 2023-11-08 | 10,950 | 64 |
 ## Awards
 Max (Great Boss Battles): 102  (Ranked 356)  
 Sum: 102 (Ranked 440)  

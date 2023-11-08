@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~990 |
-| Off to a good start | 67.00% | ~745 |
-| Do... or do not. There is no try | 51.00% | ~567 |
+| New Recruit | 89.00% | ~991 |
+| Off to a good start | 67.00% | ~746 |
+| Do... or do not. There is no try | 51.00% | ~568 |
 | A good blaster at your side | 32.00% | ~356 |
-| I suggest a new strategy | 20.00% | ~222 |
-| Scrap collector | 19.00% | ~211 |
-| Great shot, kid! | 18.00% | ~200 |
+| I suggest a new strategy | 20.00% | ~223 |
+| Scrap collector | 18.00% | ~201 |
+| Great shot, kid! | 18.00% | ~201 |
 | All right, I'll give it a try | 17.00% | ~189 |
 | The power of the Force | 15.00% | ~167 |
 | Together we can rule the galaxy | 15.00% | ~167 |
@@ -28,11 +28,11 @@
 | Distinguished | 6.00% | ~67 |
 | A tremor in the Force | 6.00% | ~67 |
 | Support the troops | 6.00% | ~67 |
-| On the ball | 4.00% | ~44 |
-| Safety ain't the point of a joyride | 4.00% | ~44 |
-| Not bad for a little furball | 4.00% | ~44 |
-| Patience you must have | 4.00% | ~44 |
-| Don't underestimate the Force | 4.00% | ~44 |
+| On the ball | 4.00% | ~45 |
+| Safety ain't the point of a joyride | 4.00% | ~45 |
+| Not bad for a little furball | 4.00% | ~45 |
+| Patience you must have | 4.00% | ~45 |
+| Don't underestimate the Force | 4.00% | ~45 |
 | I've been waiting for you | 3.00% | ~33 |
 | When 900 years old you reach... | 3.00% | ~33 |
 | Determined | 3.00% | ~33 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,112 (Ranked 247)  
+Progressed: 1,114 (Ranked 246)  
 Completed: 1 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 1 (0.09%) (Ranked 275)
 | 2023-11-05 | 1,069 | 1 |
 | 2023-11-06 | 1,083 | 1 |
 | 2023-11-07 | 1,095 | 1 |
-| 2023-11-08 | 1,112 | 1 |
+| 2023-11-08 | 1,114 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

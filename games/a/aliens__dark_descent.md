@@ -35,8 +35,8 @@ Rating: 4.49 (Ranked 607)
 | Excavating The Truth | 22.00% | ~799 |
 | One For Every Occasion | 21.00% | ~763 |
 | Frontliner | 21.00% | ~763 |
+| The Cable Guy | 21.00% | ~763 |
 | Abysmal Horrors | 21.00% | ~763 |
-| The Cable Guy | 20.00% | ~726 |
 | Bandage Lover | 19.00% | ~690 |
 | Regicide | 16.00% | ~581 |
 | This Went Smoothly | 14.00% | ~508 |

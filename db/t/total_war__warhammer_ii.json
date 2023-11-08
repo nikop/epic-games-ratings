@@ -2,13 +2,13 @@
   "ID": "0f710ebf203f42e1a26a8bc5cb48709a",
   "Name": "Total War: WARHAMMER II",
   "ProductSlug": "total-war-warhammer-ii",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 212,
   "Ranking_Popularity": 77,
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-28T14:00:00+00:00",
     "PcReleaseDate": "2017-09-28T11:20:00+00:00",
@@ -6611,6 +6611,6 @@
   "FirstSeen": "2022-07-22T20:16:56.1200636+00:00",
   "LastChanged": "2023-11-08T18:19:50.6601891+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:58.0494316+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:02:58.8385495+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:08:21.2393227+00:00"
+  "LastUpdate_Ratings": "2023-11-08T23:02:52.9124114+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:08:09.9361015+00:00"
 }

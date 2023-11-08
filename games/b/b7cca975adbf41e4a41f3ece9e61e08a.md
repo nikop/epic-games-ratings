@@ -5,12 +5,12 @@ Rating: 4.82 (Ranked 64)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~6,959 |
-| I Challenge You To Save More Money! | 88.00% | ~6,585 |
-| I Love How Tough You Are | 75.00% | ~5,612 |
-| Wanna Come To My Place For Dinner? | 68.00% | ~5,088 |
-| What I Want Is You | 62.00% | ~4,639 |
-| To Be Or Not To Be | 58.00% | ~4,340 |
+| Last Night...Did We... | 93.00% | ~6,960 |
+| I Challenge You To Save More Money! | 88.00% | ~6,586 |
+| I Love How Tough You Are | 75.00% | ~5,613 |
+| Wanna Come To My Place For Dinner? | 68.00% | ~5,089 |
+| What I Want Is You | 62.00% | ~4,640 |
+| To Be Or Not To Be | 58.00% | ~4,341 |
 | Love Actually | 49.00% | ~3,667 |
 | Are You Alright? | 49.00% | ~3,667 |
 | Drama King | 42.00% | ~3,143 |
@@ -19,9 +19,9 @@ Rating: 4.82 (Ranked 64)
 | Go Clean up In Your Own Way | 36.00% | ~2,694 |
 | Happy Family | 35.00% | ~2,619 |
 | Worthless Speech | 35.00% | ~2,619 |
-| FIRST LOVE | 34.00% | ~2,544 |
-| Drama CP: Reel to Real | 34.00% | ~2,544 |
-| Absolutely Elegant | 33.00% | ~2,469 |
+| FIRST LOVE | 34.00% | ~2,545 |
+| Drama CP: Reel to Real | 34.00% | ~2,545 |
+| Absolutely Elegant | 33.00% | ~2,470 |
 | Still Single | 32.00% | ~2,395 |
 | Go Get Some Fries On The Pier | 30.00% | ~2,245 |
 | Days Of Innocence | 30.00% | ~2,245 |
@@ -33,13 +33,13 @@ Rating: 4.82 (Ranked 64)
 | SALUTE | 24.00% | ~1,796 |
 | Let Me Be Your Toy Boy | 22.00% | ~1,646 |
 | Off We Sail Tonight | 20.00% | ~1,497 |
-| Love You Three Thousand | 15.00% | ~1,122 |
-| Can You Do This Or Not? | 15.00% | ~1,122 |
+| Love You Three Thousand | 15.00% | ~1,123 |
+| Can You Do This Or Not? | 15.00% | ~1,123 |
 | Doesn't Matter I'll Handle It | 14.00% | ~1,048 |
 | The Flash | 12.00% | ~898 |
 | New Yoga Pose Unlocked | 11.00% | ~823 |
-| My Dear Love! | 9.00% | ~673 |
-| This Ain't Right In Many Ways... | 9.00% | ~673 |
+| My Dear Love! | 9.00% | ~674 |
+| This Ain't Right In Many Ways... | 9.00% | ~674 |
 | Life Is A Rollercoaster | 8.00% | ~599 |
 | Boys Need To Protect Themselves | 8.00% | ~599 |
 | Counting Sheep? | 8.00% | ~599 |
@@ -48,7 +48,7 @@ Rating: 4.82 (Ranked 64)
 | Tall; Grande; Venti | 2.00% | ~150 |
 | Limerence | 2.00% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,483 (Ranked 169)  
+Progressed: 7,484 (Ranked 169)  
 Completed: 114 (1.52%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 114 (1.52%) (Ranked 135)
 | 2023-11-05 | 6,953 | 96 |
 | 2023-11-06 | 7,156 | 107 |
 | 2023-11-07 | 7,332 | 111 |
-| 2023-11-08 | 7,483 | 114 |
+| 2023-11-08 | 7,484 | 114 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

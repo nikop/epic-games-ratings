@@ -6,28 +6,28 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~310,573 |
-| Jeef Skeejj | 44.00% | ~207,049 |
-| Careful planning | 39.00% | ~183,520 |
-| Second Coming | 34.00% | ~159,992 |
-| Jeef Skagg | 30.00% | ~141,170 |
-| Mother | 25.00% | ~117,641 |
-| In space, no one can hear you scream | 24.00% | ~112,936 |
-| Chapter I: Echoes | 22.00% | ~103,524 |
-| Excelsior Rule | 22.00% | ~103,524 |
-| Things persisted in not being what they seemed | 20.00% | ~94,113 |
+| The Shutdown | 66.00% | ~310,576 |
+| Jeef Skeejj | 44.00% | ~207,050 |
+| Careful planning | 39.00% | ~183,522 |
+| Second Coming | 34.00% | ~159,993 |
+| Jeef Skagg | 30.00% | ~141,171 |
+| Mother | 25.00% | ~117,642 |
+| In space, no one can hear you scream | 24.00% | ~112,937 |
+| Chapter I: Echoes | 22.00% | ~103,525 |
+| Excelsior Rule | 22.00% | ~103,525 |
+| Things persisted in not being what they seemed | 20.00% | ~94,114 |
 | Knightmare Frames | 15.00% | ~70,585 |
 | May His passing cleanse the world | 15.00% | ~70,585 |
 | Chapter II: Fallible Flesh | 15.00% | ~70,585 |
 | Pope Zenon | 15.00% | ~70,585 |
-| Tetsuo | 11.00% | ~51,762 |
-| Plan for the worst | 11.00% | ~51,762 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,056 |
-| Chapter IV: Through the Looking Glass | 8.00% | ~37,645 |
-| Through the mirror | 8.00% | ~37,645 |
-| General Vivar | 8.00% | ~37,645 |
-| Back to Ganyma | 8.00% | ~37,645 |
-| Kaos Rule | 8.00% | ~37,645 |
+| Tetsuo | 11.00% | ~51,763 |
+| Plan for the worst | 11.00% | ~51,763 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,057 |
+| Chapter IV: Through the Looking Glass | 8.00% | ~37,646 |
+| Through the mirror | 8.00% | ~37,646 |
+| General Vivar | 8.00% | ~37,646 |
+| Back to Ganyma | 8.00% | ~37,646 |
+| Kaos Rule | 8.00% | ~37,646 |
 | Admiral Okonkwo | 7.00% | ~32,940 |
 | The Survivalists | 7.00% | ~32,940 |
 | The Tech Specialist | 7.00% | ~32,940 |
@@ -58,8 +58,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Void Rule | 1.00% | ~4,706 |
 | Excelsior Mastery | 0.90% | ~4,235 |
 | The greatest admiral of all time | 0.50% | ~2,353 |
-| Hand of the Emperor | 0.50% | ~72 |
-| Soldiers of Fortune | 0.30% | ~43 |
+| Hand of the Emperor | 0.50% | ~73 |
+| Soldiers of Fortune | 0.30% | ~44 |
 | Liberator | 0.10% | ~471 |
 | The Art of War | 0.10% | ~471 |
 | Geno Mastery | 0.10% | ~471 |
@@ -73,20 +73,20 @@ Number of Ratings: 1,003  (23.09.2022)
 | Kaos Mastery | 0.10% | ~471 |
 | Kaos Supremacy | 0.10% | ~471 |
 | Excelsior Supremacy | 0.10% | ~471 |
-| The Blade | 0.10% | ~14 |
-| The Ghost | 0.10% | ~14 |
-| The Extractor | 0.10% | ~14 |
-| The Executioner | 0.10% | ~14 |
-| Savior | 0.10% | ~14 |
-| The God of War | 0.10% | ~14 |
-| Horus Mastery | 0.10% | ~14 |
-| Horus Supremacy | 0.10% | ~14 |
-| Kronos Mastery | 0.10% | ~14 |
-| Kronos Supremacy | 0.10% | ~14 |
-| Horus Rule | 0.10% | ~14 |
-| Kronos Rule | 0.10% | ~14 |
+| The Blade | 0.10% | ~15 |
+| The Ghost | 0.10% | ~15 |
+| The Extractor | 0.10% | ~15 |
+| The Executioner | 0.10% | ~15 |
+| Savior | 0.10% | ~15 |
+| The God of War | 0.10% | ~15 |
+| Horus Mastery | 0.10% | ~15 |
+| Horus Supremacy | 0.10% | ~15 |
+| Kronos Mastery | 0.10% | ~15 |
+| Kronos Supremacy | 0.10% | ~15 |
+| Horus Rule | 0.10% | ~15 |
+| Kronos Rule | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,565 (Ranked 40)  
+Progressed: 470,569 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,7 +288,7 @@ Completed: 20 (0.00%) (Ranked 345)
 | 2023-11-05 | 470,393 | 19 |
 | 2023-11-06 | 470,453 | 20 |
 | 2023-11-07 | 470,506 | 20 |
-| 2023-11-08 | 470,565 | 20 |
+| 2023-11-08 | 470,569 | 20 |
 ## Awards
 Max (Character Customization): 223  (Ranked 273)  
 Sum: 245 (Ranked 379)  

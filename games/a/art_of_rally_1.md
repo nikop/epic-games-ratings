@@ -6,13 +6,13 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 96.00% | ~9,894 |
+| light attack | 96.00% | ~9,895 |
 | keep it tidy | 78.00% | ~8,039 |
-| podium | 72.00% | ~7,420 |
+| podium | 72.00% | ~7,421 |
 | medium attack | 60.00% | ~6,184 |
-| brail | 57.00% | ~5,874 |
+| brail | 57.00% | ~5,875 |
 | good drivers have dead flies on the side windows | 43.00% | ~4,432 |
-| grocery-getter | 40.00% | ~4,122 |
+| grocery-getter | 40.00% | ~4,123 |
 | rwd only | 27.00% | ~2,783 |
 | food tour: pasta | 27.00% | ~2,783 |
 | to finish first, first you must finish | 21.00% | ~2,164 |
@@ -31,8 +31,8 @@ Number of Ratings: 56  (23.09.2022)
 | maximum attack | 11.00% | ~1,134 |
 | espresso | 10.00% | ~1,031 |
 | parallel universe | 10.00% | ~1,031 |
-| mittens | 8.00% | ~824 |
-| samir | 8.00% | ~824 |
+| mittens | 8.00% | ~825 |
+| samir | 8.00% | ~825 |
 | eurobeat | 7.00% | ~721 |
 | viking | 7.00% | ~721 |
 | master of rally | 7.00% | ~721 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | if everything seems under control, you're not going fast enough | 0.40% | ~41 |
 | barely keeping it together | 0.40% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,306 (Ranked 155)  
+Progressed: 10,307 (Ranked 155)  
 Completed: 9 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 9 (0.09%) (Ranked 275)
 | 2023-11-02 | 10,300 | 9 |
 | 2023-11-05 | 10,301 | 9 |
 | 2023-11-06 | 10,304 | 9 |
-| 2023-11-08 | 10,306 | 9 |
+| 2023-11-08 | 10,307 | 9 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

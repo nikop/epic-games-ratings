@@ -8,14 +8,14 @@
 | Something foundational... | 14.00% | ~12 |
 | Something to make you dream... | 14.00% | ~12 |
 | Something to long for... | 14.00% | ~12 |
+| Something fully in bloom... | 13.00% | ~11 |
 | Something natural... | 13.00% | ~11 |
 | Something firmly rooted... | 13.00% | ~11 |
+| Something free... | 11.00% | ~10 |
 | Something gentle... | 11.00% | ~10 |
-| Something fully in bloom... | 11.00% | ~10 |
 | Somewhere to belong... | 11.00% | ~10 |
 | Something monumental... | 11.00% | ~10 |
 | Something reflective... | 11.00% | ~10 |
-| Something free... | 10.00% | ~9 |
 | Something to make you dream... (fragile) | 9.00% | ~8 |
 | Something free... (fragile) | 8.00% | ~7 |
 | Something gentle... (fragile) | 8.00% | ~7 |

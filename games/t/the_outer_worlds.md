@@ -1,11 +1,11 @@
 # The Outer Worlds
 [Store](https://store.epicgames.com/en-US/p/the-outer-worlds)  
 [View Rawdata](../../db/t/the_outer_worlds.json)  
-Rating: 4.63 (Ranked 348)  
+Rating: 4.63 (Ranked 349)  
 Number of Ratings: 2,487  (23.09.2022)  
 ## Awards
 Max (Character Customization): 1,797  (Ranked 117)  
-Sum: 3,703 (Ranked 159)  
+Sum: 3,704 (Ranked 159)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): -42
 | This game is Extremely Fun | 234 |
 | This game has Diverse Characters | 230 |
 | This game is Great for Beginners | 216 |
-| This game has Quickly Understood Controls | 215 |
+| This game has Quickly Understood Controls | 216 |
 | This game is Relaxing | 215 |
 | This game has Amazing Characters | 207 |
 | This game has Easy Combat | 161 |
@@ -219,3 +219,4 @@ Diff (max vs sum): -42
 | 2023-11-04 | 4.63 | - | 1,797 | 3,701 |
 | 2023-11-05 | 4.63 | - | 1,797 | 3,702 |
 | 2023-11-07 | 4.63 | - | 1,797 | 3,703 |
+| 2023-11-08 | 4.63 | - | 1,797 | 3,704 |

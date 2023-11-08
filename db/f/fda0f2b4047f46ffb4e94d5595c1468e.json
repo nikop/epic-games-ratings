@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2319,7 +2319,7 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 8360,
+  "EOS_Progressed": 8361,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -7299,6 +7299,11 @@
       "Time": "2023-11-08T22:05:51.6674803+00:00",
       "NumProgressed": 8360,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T23:05:44.3195472+00:00",
+      "NumProgressed": 8361,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7325,9 +7330,9 @@
       "ID": "ach03",
       "SetID": "47in8n6",
       "Name": "A New Timeline",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3930
     },
     {
       "ID": "ach04",
@@ -7351,7 +7356,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6270
+      "UsersEstimate": 6271
     },
     {
       "ID": "ach07",
@@ -7367,7 +7372,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     },
     {
       "ID": "ach09",
@@ -7447,7 +7452,7 @@
       "Name": "Adventure Time",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "ach19",
@@ -7479,7 +7484,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "ach23",
@@ -7503,7 +7508,7 @@
       "Name": "Talis-Mania",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "ach26",
@@ -7519,7 +7524,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "ach28",
@@ -7527,7 +7532,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2842
+      "UsersEstimate": 2843
     },
     {
       "ID": "ach29",
@@ -7607,7 +7612,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "ach39",
@@ -7623,7 +7628,7 @@
       "Name": "Found You",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     },
     {
       "ID": "ach41",
@@ -7631,7 +7636,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "ach42",
@@ -7639,7 +7644,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "ach43",
@@ -7703,14 +7708,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3260
+      "UsersEstimate": 3261
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8360,
+      "Progressed": 8361,
       "Completed": 0
     }
   ],
@@ -7718,8 +7723,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-08T21:10:12.1771767+00:00",
-  "LastChanged_Achievements": "2023-11-08T22:05:51.66748+00:00",
+  "LastChanged_Achievements": "2023-11-08T23:05:44.319547+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:58:58.8321636+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:05:51.6675493+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:58:51.8665656+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:05:44.319599+00:00"
 }

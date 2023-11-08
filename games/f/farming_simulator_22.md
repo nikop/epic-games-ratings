@@ -1,20 +1,20 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 230)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,478 |
+| Own use | 75.00% | ~38,479 |
 | I read Shakespeare and stuff | 64.00% | ~32,835 |
-| Just a sprinkle | 62.00% | ~31,808 |
-| I'm stumped | 61.00% | ~31,295 |
-| Plant get enough | 60.00% | ~30,782 |
-| This is just my weekend vehicle | 58.00% | ~29,756 |
-| It's just the beginning | 58.00% | ~29,756 |
-| Hard work pays off | 53.00% | ~27,191 |
-| It's never too late to farm | 51.00% | ~26,165 |
+| Just a sprinkle | 62.00% | ~31,809 |
+| I'm stumped | 61.00% | ~31,296 |
+| Plant get enough | 60.00% | ~30,783 |
+| This is just my weekend vehicle | 58.00% | ~29,757 |
+| It's just the beginning | 58.00% | ~29,757 |
+| Hard work pays off | 53.00% | ~27,192 |
+| It's never too late to farm | 51.00% | ~26,166 |
 | All out of Land | 45.00% | ~23,087 |
 | Field Trip | 44.00% | ~22,574 |
 | I like to switch it up | 40.00% | ~20,522 |
@@ -30,9 +30,9 @@ Number of Ratings: 7,683  (23.09.2022)
 | Clucky Streak | 15.00% | ~7,696 |
 | That's a wrap | 15.00% | ~7,696 |
 | Fix me up | 13.00% | ~6,670 |
-| Rock on | 12.00% | ~6,156 |
-| Highly cultivated | 11.00% | ~5,643 |
-| It's sow easy | 11.00% | ~5,643 |
+| Rock on | 12.00% | ~6,157 |
+| Highly cultivated | 11.00% | ~5,644 |
+| It's sow easy | 11.00% | ~5,644 |
 | Giddy-up! | 10.00% | ~5,130 |
 | Cowherd | 7.00% | ~3,591 |
 | Fluffyness | 6.00% | ~3,078 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~205 |
 | Raisin the stakes | 0.30% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,304 (Ranked 109)  
+Progressed: 51,305 (Ranked 109)  
 Completed: 6 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 6 (0.01%) (Ranked 321)
 | 2023-11-05 | 51,184 | 6 |
 | 2023-11-06 | 51,225 | 6 |
 | 2023-11-07 | 51,265 | 6 |
-| 2023-11-08 | 51,304 | 6 |
+| 2023-11-08 | 51,305 | 6 |
 ## Awards
 Max (Great for Beginners): 5,438  (Ranked 70)  
 Sum: 42,371 (Ranked 33)  

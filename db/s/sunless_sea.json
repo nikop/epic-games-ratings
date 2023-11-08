@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -736,9 +736,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40276,
+  "EOS_Progressed": 40279,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 430,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21416,6 +21416,11 @@
       "Time": "2023-11-08T22:08:43.0997949+00:00",
       "NumProgressed": 40276,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T23:08:40.0003638+00:00",
+      "NumProgressed": 40279,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -21491,7 +21496,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4430
+      "UsersEstimate": 4431
     },
     {
       "ID": "ach_cursestone",
@@ -21515,7 +21520,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4430
+      "UsersEstimate": 4431
     },
     {
       "ID": "ach_deathofermod",
@@ -21547,7 +21552,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 14499
+      "UsersEstimate": 14500
     },
     {
       "ID": "ach_die10",
@@ -21555,7 +21560,7 @@
       "Name": "Never Stop Sinking...",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ach_die5",
@@ -21595,7 +21600,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4430
+      "UsersEstimate": 4431
     },
     {
       "ID": "ach_invictus",
@@ -21627,7 +21632,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "ach_legacyrival",
@@ -21643,7 +21648,7 @@
       "Name": "Salvager",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "ach_legacyshipmate",
@@ -21651,7 +21656,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4430
+      "UsersEstimate": 4431
     },
     {
       "ID": "ach_newstories",
@@ -21659,7 +21664,7 @@
       "Name": "Open Your Ears",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "ach_portbell",
@@ -21675,7 +21680,7 @@
       "Name": "His bones in whispers",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ach_portdeep",
@@ -21683,7 +21688,7 @@
       "Name": "The beauty of the deep",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ach_portdragon",
@@ -21691,7 +21696,7 @@
       "Name": "The dragon in the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ach_portfish",
@@ -21731,7 +21736,7 @@
       "Name": "No regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ach_portrose",
@@ -21747,7 +21752,7 @@
       "Name": "Under the zee",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ach_scion",
@@ -21771,7 +21776,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "ach_sweetheart",
@@ -21795,7 +21800,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6041
+      "UsersEstimate": 6042
     },
     {
       "ID": "ach_undercurrent",
@@ -21811,7 +21816,7 @@
       "Name": "Depth charge",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ach_underpressure",
@@ -21858,15 +21863,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40276,
+      "Progressed": 40279,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-05T20:00:39.9976702+00:00",
-  "LastChanged_Achievements": "2023-11-08T22:08:43.0997946+00:00",
+  "LastChanged_Achievements": "2023-11-08T23:08:40.000363+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:36.007109+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:59:43.0371623+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:08:43.0999287+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:59:34.9687818+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:08:40.0006514+00:00"
 }

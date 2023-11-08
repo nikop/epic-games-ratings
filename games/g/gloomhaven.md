@@ -6,23 +6,23 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~8,127 |
-| Overkill | 34.00% | ~6,579 |
-| Vaccine Incoming | 33.00% | ~6,386 |
-| A normal day in Gloomhaven | 32.00% | ~6,192 |
-| Spread the plague | 30.00% | ~5,805 |
-| Get over here! | 25.00% | ~4,838 |
-| Just when I thought I was out... | 19.00% | ~3,677 |
-| Precious! | 17.00% | ~3,290 |
-| Mine... All Mine... | 17.00% | ~3,290 |
+| I'm not dead yet | 42.00% | ~8,130 |
+| Overkill | 35.00% | ~6,775 |
+| Vaccine Incoming | 33.00% | ~6,387 |
+| A normal day in Gloomhaven | 32.00% | ~6,194 |
+| Spread the plague | 30.00% | ~5,807 |
+| Get over here! | 25.00% | ~4,839 |
+| Just when I thought I was out... | 19.00% | ~3,678 |
+| Precious! | 17.00% | ~3,291 |
+| Mine... All Mine... | 17.00% | ~3,291 |
 | Anatomy Lesson | 15.00% | ~2,903 |
-| Grizzled veteran | 14.00% | ~2,709 |
-| Light of my life | 14.00% | ~2,709 |
+| Grizzled veteran | 14.00% | ~2,710 |
+| Light of my life | 14.00% | ~2,710 |
 | You activated my trap card! | 13.00% | ~2,516 |
 | Obstacle race | 13.00% | ~2,516 |
-| Augmented rat | 12.00% | ~2,322 |
+| Augmented rat | 12.00% | ~2,323 |
 | Doom and gloom | 11.00% | ~2,129 |
-| Who's the Boss? | 10.00% | ~1,935 |
+| Who's the Boss? | 10.00% | ~1,936 |
 | Dungeon Veteran | 8.00% | ~1,548 |
 | Pack leader | 8.00% | ~1,548 |
 | Pain is your friend | 8.00% | ~1,548 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~19 |
 | Murder Death Kill | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,351 (Ranked 133)  
+Progressed: 19,356 (Ranked 133)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-05 | 18,799 | 1 |
 | 2023-11-06 | 19,002 | 1 |
 | 2023-11-07 | 19,194 | 1 |
-| 2023-11-08 | 19,351 | 1 |
+| 2023-11-08 | 19,356 | 1 |
 ## Awards
 Max (Character Customization): 3,570  (Ranked 90)  
 Sum: 8,344 (Ranked 99)  

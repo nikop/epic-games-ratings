@@ -13,7 +13,7 @@ Rating: 4.57 (Ranked 470)
 | Archer | 56.00% | ~18 |
 | Field hand | 53.00% | ~17 |
 | Samaritan | 53.00% | ~17 |
-| Well-to-do | 47.00% | ~15 |
+| Well-to-do | 50.00% | ~16 |
 | The merciful one | 44.00% | ~14 |
 | Ladies' man | 44.00% | ~14 |
 | Ferocious wild boars | 34.00% | ~11 |
@@ -24,12 +24,12 @@ Rating: 4.57 (Ranked 470)
 | Beast slayer | 25.00% | ~8 |
 | Ogre friend | 25.00% | ~8 |
 | Hard worker | 25.00% | ~8 |
+| Master detective | 25.00% | ~8 |
 | Death of a legend | 22.00% | ~7 |
 | Archaeologist | 22.00% | ~7 |
 | Workaholic | 22.00% | ~7 |
 | Peacekeeper | 22.00% | ~7 |
 | Sidelined | 22.00% | ~7 |
-| Master detective | 22.00% | ~7 |
 | Defender | 19.00% | ~6 |
 | Pandora's box | 19.00% | ~6 |
 | Ghost hunter | 19.00% | ~6 |

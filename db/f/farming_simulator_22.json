@@ -2,13 +2,13 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 231,
+  "Ranking_Rating": 230,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11046,9 +11046,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51304,
+  "EOS_Progressed": 51305,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 365,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29341,6 +29341,11 @@
       "Time": "2023-11-08T22:04:40.9709422+00:00",
       "NumProgressed": 51304,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-08T23:04:35.5450986+00:00",
+      "NumProgressed": 51305,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -29424,7 +29429,7 @@
       "Name": "Highly cultivated",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "CultivateFirst",
@@ -29448,7 +29453,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 31295
+      "UsersEstimate": 31296
     },
     {
       "ID": "DeliveryGrapes",
@@ -29488,7 +29493,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30782
+      "UsersEstimate": 30783
     },
     {
       "ID": "Harvested",
@@ -29504,7 +29509,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 38478
+      "UsersEstimate": 38479
     },
     {
       "ID": "HorseJumps",
@@ -29536,7 +29541,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 26165
+      "UsersEstimate": 26166
     },
     {
       "ID": "Mission",
@@ -29560,7 +29565,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 27191
+      "UsersEstimate": 27192
     },
     {
       "ID": "NumBeehives",
@@ -29608,7 +29613,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 29756
+      "UsersEstimate": 29757
     },
     {
       "ID": "PetDog",
@@ -29624,7 +29629,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 29756
+      "UsersEstimate": 29757
     },
     {
       "ID": "Sow",
@@ -29632,7 +29637,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "SowFirst",
@@ -29640,7 +29645,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 31808
+      "UsersEstimate": 31809
     },
     {
       "ID": "Stones",
@@ -29648,7 +29653,7 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6156
+      "UsersEstimate": 6157
     },
     {
       "ID": "TractorDriving",
@@ -29695,15 +29700,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51304,
+      "Progressed": 51305,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-08T21:11:42.3396636+00:00",
-  "LastChanged_Achievements": "2023-11-08T22:04:40.9709416+00:00",
+  "LastChanged_Achievements": "2023-11-08T23:04:35.5450981+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:18.1648668+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:59:49.6483021+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:04:40.9710806+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:59:42.3058058+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:04:35.5452092+00:00"
 }

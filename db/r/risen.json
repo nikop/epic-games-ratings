@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -534,9 +534,9 @@
       "ID": "id_57",
       "SetID": "bk9jib6",
       "Name": "Well-to-do",
-      "Percentage": 47,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "id_58",
@@ -614,9 +614,9 @@
       "ID": "id_9",
       "SetID": "bk9jib6",
       "Name": "Master detective",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
@@ -631,8 +631,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-08-16T05:58:52.6642985+00:00",
-  "LastChanged_Achievements": "2023-11-08T22:08:29.7812926+00:00",
+  "LastChanged_Achievements": "2023-11-08T23:08:18.3398241+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:17.0231727+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:57:32.9148377+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:08:29.7813214+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:57:30.8426713+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:08:18.3398564+00:00"
 }

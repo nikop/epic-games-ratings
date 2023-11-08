@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -327,9 +327,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199674,
+  "EOS_Progressed": 199675,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21817,6 +21817,11 @@
       "Time": "2023-11-08T22:07:53.7458584+00:00",
       "NumProgressed": 199674,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T23:06:33.3860834+00:00",
+      "NumProgressed": 199675,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -21860,7 +21865,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35941
+      "UsersEstimate": 35942
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -21932,7 +21937,7 @@
       "Name": "Tag Team Champions",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 3993
+      "UsersEstimate": 3994
     },
     {
       "ID": "ACH_WIN_COOP_NODAMAGE_SIEGE",
@@ -21955,7 +21960,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 199674,
+      "Progressed": 199675,
       "Completed": 4
     }
   ],
@@ -21963,8 +21968,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-08T22:07:53.7458579+00:00",
+  "LastChanged_Achievements": "2023-11-08T23:06:33.3860831+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:54.3998533+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:00:08.611344+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:07:53.7459856+00:00"
+  "LastUpdate_Ratings": "2023-11-08T23:00:02.139546+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:06:33.3861925+00:00"
 }

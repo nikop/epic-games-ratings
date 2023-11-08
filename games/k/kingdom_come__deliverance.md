@@ -1,33 +1,33 @@
 # Kingdom Come: Deliverance
 [Store](https://store.epicgames.com/en-US/p/kingdom-come-deliverance)  
 [View Rawdata](../../db/k/kingdom_come__deliverance.json)  
-Rating: 4.71 (Ranked 199)  
+Rating: 4.71 (Ranked 198)  
 Number of Ratings: 9,133  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~258,441 |
-| Cavalier | 25.00% | ~201,907 |
-| Fatso | 23.00% | ~185,755 |
-| Awakening | 21.00% | ~169,602 |
-| Ranger | 20.00% | ~161,526 |
-| Scrooge | 20.00% | ~161,526 |
+| Blacksmith's Son | 32.00% | ~258,443 |
+| Cavalier | 25.00% | ~201,908 |
+| Fatso | 23.00% | ~185,756 |
+| Awakening | 21.00% | ~169,603 |
+| Ranger | 20.00% | ~161,527 |
+| Scrooge | 20.00% | ~161,527 |
 | Anorectic | 16.00% | ~129,221 |
-| Bookworm | 15.00% | ~121,144 |
-| Firestarter | 15.00% | ~121,144 |
+| Bookworm | 15.00% | ~121,145 |
+| Firestarter | 15.00% | ~121,145 |
 | Insomniac | 13.00% | ~104,992 |
-| Buddy | 12.00% | ~96,915 |
-| Thief | 12.00% | ~96,915 |
-| Sinner | 11.00% | ~88,839 |
-| Traveller | 11.00% | ~88,839 |
+| Buddy | 12.00% | ~96,916 |
+| Thief | 12.00% | ~96,916 |
+| Sinner | 11.00% | ~88,840 |
+| Traveller | 11.00% | ~88,840 |
 | Convict | 10.00% | ~80,763 |
 | Haggler | 9.00% | ~72,687 |
 | McLovin | 7.00% | ~56,534 |
 | Runt | 7.00% | ~56,534 |
 | Casanova | 6.00% | ~48,458 |
-| Bad Trip | 5.00% | ~40,381 |
-| Monk | 5.00% | ~40,381 |
-| Serial Killer | 5.00% | ~40,381 |
+| Bad Trip | 5.00% | ~40,382 |
+| Monk | 5.00% | ~40,382 |
+| Serial Killer | 5.00% | ~40,382 |
 | Bastard | 4.00% | ~32,305 |
 | Hunter | 4.00% | ~32,305 |
 | Plague Doctor | 4.00% | ~32,305 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~808 |
 | Wingman | 0.10% | ~808 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807,629 (Ranked 17)  
+Progressed: 807,634 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 51 (0.01%) (Ranked 321)
 | 2023-11-05 | 807,329 | 51 |
 | 2023-11-06 | 807,450 | 51 |
 | 2023-11-07 | 807,542 | 51 |
-| 2023-11-08 | 807,629 | 51 |
+| 2023-11-08 | 807,634 | 51 |
 ## Awards
 Max (Character Customization): 7,582  (Ranked 50)  
 Sum: 28,187 (Ranked 50)  

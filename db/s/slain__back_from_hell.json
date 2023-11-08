@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40009,
+  "EOS_Progressed": 40012,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22433,6 +22433,11 @@
       "Time": "2023-11-08T21:14:43.4055512+00:00",
       "NumProgressed": 40009,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-08T23:04:08.6596958+00:00",
+      "NumProgressed": 40012,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22444,7 +22449,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6001
+      "UsersEstimate": 6002
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -22452,7 +22457,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8402
+      "UsersEstimate": 8403
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -22516,7 +22521,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -22675,7 +22680,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40009,
+      "Progressed": 40012,
       "Completed": 26
     }
   ],
@@ -22683,8 +22688,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-08T22:04:13.6953383+00:00",
+  "LastChanged_Achievements": "2023-11-08T23:04:08.6596954+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.8126355+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:59:38.5226333+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:04:13.6954633+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:59:30.3063342+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:04:08.6598125+00:00"
 }

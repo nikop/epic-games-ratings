@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -275,9 +275,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2117,
+  "EOS_Progressed": 2118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5660,6 +5660,11 @@
       "Time": "2023-11-08T21:15:35.3257219+00:00",
       "NumProgressed": 2117,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T23:04:29.4452439+00:00",
+      "NumProgressed": 2118,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -5671,7 +5676,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "A01",
@@ -5703,7 +5708,7 @@
       "Name": "Go West",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "A05",
@@ -5751,7 +5756,7 @@
       "Name": "From X to Y",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "A11",
@@ -5767,7 +5772,7 @@
       "Name": "Departure",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1546
     },
     {
       "ID": "A13",
@@ -5799,7 +5804,7 @@
       "Name": "Traffic Jam",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "A17",
@@ -5807,7 +5812,7 @@
       "Name": "Facility Manager",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "A18",
@@ -5831,7 +5836,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1609
+      "UsersEstimate": 1610
     },
     {
       "ID": "A21",
@@ -5847,7 +5852,7 @@
       "Name": "Brainstorm",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "A23",
@@ -5879,7 +5884,7 @@
       "Name": "Max Power",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "A27",
@@ -5919,7 +5924,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "A32",
@@ -5943,7 +5948,7 @@
       "Name": "Producer",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "A35",
@@ -5959,7 +5964,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1482
+      "UsersEstimate": 1483
     },
     {
       "ID": "A37",
@@ -5975,7 +5980,7 @@
       "Name": "Poor Devil",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "A39",
@@ -5991,7 +5996,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "A41",
@@ -6007,7 +6012,7 @@
       "Name": "Bridge Builder",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "A43",
@@ -6047,7 +6052,7 @@
       "Name": "Travel Company",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "A48",
@@ -6063,7 +6068,7 @@
       "Name": "Financial Shark",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "A50",
@@ -6087,7 +6092,7 @@
       "Name": "Socializer",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "A53",
@@ -6110,7 +6115,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2117,
+      "Progressed": 2118,
       "Completed": 0
     }
   ],
@@ -6118,8 +6123,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-06T17:57:18.8272993+00:00",
-  "LastChanged_Achievements": "2023-11-08T22:04:34.9340059+00:00",
+  "LastChanged_Achievements": "2023-11-08T23:04:29.4452436+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-08T21:58:18.5955275+00:00",
-  "LastUpdate_Achievements": "2023-11-08T22:04:34.934059+00:00"
+  "LastUpdate_Ratings": "2023-11-08T22:58:11.3034671+00:00",
+  "LastUpdate_Achievements": "2023-11-08T23:04:29.4453059+00:00"
 }
