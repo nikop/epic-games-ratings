@@ -4,8 +4,8 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -407,9 +407,9 @@
       "ID": "KR4_ACHIEVEMENT_GROOT",
       "SetID": "caeik3h",
       "Name": "I\u0027m Root",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "KR4_ACHIEVEMENT_GUMMY_BEARS",
@@ -479,9 +479,9 @@
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
       "SetID": "caeik3h",
       "Name": "Number Of The Beast",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "KR4_ACHIEVEMENT_IRON",
@@ -551,9 +551,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -583,9 +583,9 @@
       "ID": "KR4_ACHIEVEMENT_MERCENARIES",
       "SetID": "caeik3h",
       "Name": "Soldiers of fortune",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_MINE_CART_CARNAGE",
@@ -735,9 +735,9 @@
       "ID": "KR4_ACHIEVEMENT_SPIDERS",
       "SetID": "caeik3h",
       "Name": "Broodmother",
-      "Percentage": 15,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPIRITMAUSOLEUM",
@@ -822,8 +822,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:09:17.8952026+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:09:49.6820786+00:00",
   "LastUpdate_AppInfo": "2023-11-02T15:57:21.8803868+00:00",
-  "LastUpdate_Ratings": "2023-11-08T04:03:03.6851672+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:09:17.8952895+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:02:54.0795006+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:09:49.6822249+00:00"
 }

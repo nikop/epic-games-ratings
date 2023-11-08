@@ -6187,10 +6187,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10883,
       "NumberOfAwardsMax": 7178
+    },
+    {
+      "Time": "2023-11-08T04:58:52.5876532+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10888,
+      "NumberOfAwardsMax": 7178
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10883,
+  "NumberOfAwards": 10888,
   "NumberOfAwardsMax": 7178,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6204,7 +6210,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 516
+      "Count": 521
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6249,9 +6255,9 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 714794,
+  "EOS_Progressed": 714805,
   "EOS_Completed": 2355,
-  "EOS_NewPlayers": 5070,
+  "EOS_NewPlayers": 5061,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29249,6 +29255,11 @@
       "Time": "2023-11-08T04:06:25.1814516+00:00",
       "NumProgressed": 714794,
       "NumCompleted": 2355
+    },
+    {
+      "Time": "2023-11-08T05:07:22.549392+00:00",
+      "NumProgressed": 714805,
+      "NumCompleted": 2355
     }
   ],
   "TotalAchievements": 51,
@@ -29394,9 +29405,9 @@
       "ID": "ach_good_eyesight",
       "SetID": "7km39fm",
       "Name": "Not Even My Final Form",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 2144
     },
     {
       "ID": "ach_hazardous_materials",
@@ -29667,22 +29678,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714794,
+      "Progressed": 714805,
       "Completed": 2355
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40336,
+      "Progressed": 40347,
       "Completed": 36490
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-08T01:42:27.4184216+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:06:25.1814511+00:00",
+  "LastChanged": "2023-11-08T04:58:52.587653+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:07:22.5493914+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:58:29.9850504+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:06:25.1816372+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:58:52.5876536+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:07:22.5495809+00:00"
 }

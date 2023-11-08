@@ -4,8 +4,8 @@
   "ProductSlug": "critadel",
   "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-13T18:00:00+00:00",
     "PcReleaseDate": "2021-10-13T18:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:55.4238056+00:00",
   "LastChanged": "2023-03-31T05:57:55.4238056+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.870679+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:59:35.6582805+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:03:59.6886041+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:00:09.5906502+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:04:30.2963812+00:00"
 }

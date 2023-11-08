@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 74.00% | ~57 |
-| The Teleprobe | 44.00% | ~34 |
-| The City | 32.00% | ~25 |
+| The Teleprobe | 45.00% | ~35 |
+| The City | 34.00% | ~26 |
 | Krauta is alive | 21.00% | ~16 |
 | The field base | 19.00% | ~15 |
 | Volcanologist | 16.00% | ~12 |
@@ -23,10 +23,10 @@
 | Peacemaker | 4.00% | ~3 |
 | Evacuation | 4.00% | ~3 |
 | Another giant | 4.00% | ~3 |
+| Got lost again | 4.00% | ~3 |
 | Beyond divisions | 4.00% | ~3 |
 | Violent solution | 3.00% | ~2 |
 | The Invincible | 3.00% | ~2 |
-| Got lost again | 3.00% | ~2 |
 | Ubiquitous holes | 1.00% | ~1 |
 | No more mistakes | 1.00% | ~1 |
 | Strong objection | 1.00% | ~1 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749983,
+  "EOS_Progressed": 749986,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1913,
+  "EOS_NewPlayers": 1912,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23329,6 +23329,11 @@
       "Time": "2023-11-08T04:04:38.9590767+00:00",
       "NumProgressed": 749983,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T05:05:17.3207099+00:00",
+      "NumProgressed": 749986,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -23404,7 +23409,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 277494
+      "UsersEstimate": 277495
     },
     {
       "ID": "ach_demolish_trees",
@@ -23412,7 +23417,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 127497
+      "UsersEstimate": 127498
     },
     {
       "ID": "ach_free_cam_mode",
@@ -23468,7 +23473,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 359992
+      "UsersEstimate": 359993
     },
     {
       "ID": "ach_produced",
@@ -23484,7 +23489,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 119997
+      "UsersEstimate": 119998
     },
     {
       "ID": "ach_raise_money",
@@ -23500,7 +23505,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22499
+      "UsersEstimate": 22500
     },
     {
       "ID": "ach_sell_to_state",
@@ -23555,7 +23560,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 749983,
+      "Progressed": 749986,
       "Completed": 4
     }
   ],
@@ -23563,8 +23568,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:04:38.9590763+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:05:17.3207091+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:11.2241033+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:59:13.1061927+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:04:38.9592319+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:59:39.7436551+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:05:17.320992+00:00"
 }

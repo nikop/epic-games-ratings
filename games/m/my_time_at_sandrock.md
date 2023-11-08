@@ -6,39 +6,39 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 239.00% | ~590 |
-| Iron Chef | 195.00% | ~482 |
-| Greeno-B-Gone | 119.00% | ~294 |
-| Your Especially Earned Trajectory | 94.00% | ~232 |
-| No Mountain Wide Enough | 60.00% | ~148 |
-| Can We Keep It? | 57.00% | ~141 |
-| On that Grindset | 56.00% | ~138 |
-| My Time Mansion | 43.00% | ~106 |
-| Pack Mule | 42.00% | ~104 |
-| Financially Secure | 40.00% | ~99 |
-| Yakmel Whisperer | 40.00% | ~99 |
-| Diamonds are Forever | 40.00% | ~99 |
-| Mole Masher | 36.00% | ~89 |
-| Knowledge is Power | 35.00% | ~86 |
-| Happier-est Place on Earth | 35.00% | ~86 |
-| Unboxing | 35.00% | ~86 |
-| Big Game Hunter | 34.00% | ~84 |
-| Better Late than Never | 34.00% | ~84 |
-| Got Served | 34.00% | ~84 |
+| Adept Assembler | 237.00% | ~590 |
+| Iron Chef | 194.00% | ~483 |
+| Greeno-B-Gone | 118.00% | ~294 |
+| Your Especially Earned Trajectory | 93.00% | ~232 |
+| No Mountain Wide Enough | 60.00% | ~149 |
+| Can We Keep It? | 57.00% | ~142 |
+| On that Grindset | 56.00% | ~139 |
+| My Time Mansion | 43.00% | ~107 |
+| Pack Mule | 41.00% | ~102 |
+| Financially Secure | 40.00% | ~100 |
+| Diamonds are Forever | 40.00% | ~100 |
+| Yakmel Whisperer | 39.00% | ~97 |
+| Mole Masher | 36.00% | ~90 |
+| Knowledge is Power | 35.00% | ~87 |
+| Happier-est Place on Earth | 35.00% | ~87 |
+| Unboxing | 35.00% | ~87 |
+| Big Game Hunter | 34.00% | ~85 |
+| Better Late than Never | 33.00% | ~82 |
+| Got Served | 33.00% | ~82 |
 | You Don't Win Friends With Salad | 33.00% | ~82 |
 | Call Me Fishmael | 33.00% | ~82 |
 | What Plants Crave | 31.00% | ~77 |
 | Officially Official | 31.00% | ~77 |
 | Anti-Santa | 31.00% | ~77 |
 | I Do! | 31.00% | ~77 |
-| One of the Cool Kids | 30.00% | ~74 |
-| Finishing Touches | 28.00% | ~69 |
-| Chatterbox | 28.00% | ~69 |
+| One of the Cool Kids | 30.00% | ~75 |
+| Finishing Touches | 28.00% | ~70 |
+| Chatterbox | 28.00% | ~70 |
 | Panda-kin | 23.00% | ~57 |
-| Jewel of the Eufaula | 23.00% | ~57 |
-| Who Ya Gonna Call...? | 22.00% | ~54 |
-| First Love | 21.00% | ~52 |
-| Builder of the Month | 18.00% | ~44 |
+| Jewel of the Eufaula | 22.00% | ~55 |
+| Who Ya Gonna Call...? | 22.00% | ~55 |
+| First Love | 22.00% | ~55 |
+| Builder of the Month | 18.00% | ~45 |
 | Bridging the Gap | 17.00% | ~42 |
 | Martle's Dream | 17.00% | ~42 |
 | He Can Spin A Yarn... | 17.00% | ~42 |
@@ -47,17 +47,17 @@ Number of Ratings: 892  (23.09.2022)
 | Newton | 16.00% | ~40 |
 | Got the Flow Back | 13.00% | ~32 |
 | Commissions, commissions...! | 12.00% | ~30 |
+| Lifeline Pipeline | 12.00% | ~30 |
 | Do Your Part | 12.00% | ~30 |
 | Kind of a Big Deal | 11.00% | ~27 |
-| Lifeline Pipeline | 11.00% | ~27 |
-| Cardistry | 11.00% | ~27 |
-| Santa In Training | 11.00% | ~27 |
 | Just What I Always Wanted! | 11.00% | ~27 |
 | Time Flies | 10.00% | ~25 |
+| Cardistry | 10.00% | ~25 |
 | Pro Gamer | 10.00% | ~25 |
-| It Belongs in a Museum! | 9.00% | ~22 |
+| Santa In Training | 10.00% | ~25 |
 | Jack of All Trades | 8.00% | ~20 |
 | Sandrunning Speedster | 8.00% | ~20 |
+| It Belongs in a Museum! | 8.00% | ~20 |
 | It's High Noon... | 6.00% | ~15 |
 | Sepia Toned Memories | 6.00% | ~15 |
 | Strong Arms | 5.00% | ~12 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247 (Ranked 348)  
+Progressed: 249 (Ranked 348)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,10 +78,10 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 236 | 0 |
 | 2023-11-06 | 248 | 0 |
 | 2023-11-07 | 246 | 0 |
-| 2023-11-08 | 247 | 0 |
+| 2023-11-08 | 249 | 0 |
 ## Awards
 Max (Character Customization): 580  (Ranked 194)  
-Sum: 1,322 (Ranked 238)  
+Sum: 1,323 (Ranked 238)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
@@ -94,7 +94,7 @@ Diff (max vs sum): -44
 | This game is Relaxing | 69 |
 | This game has Amazing Characters | 68 |
 | This game has Amazing Storytelling | 68 |
-| This game has Easy Combat | 65 |
+| This game has Easy Combat | 66 |
 | This game has a Creative Community | 53 |
 | This game has a Kind Community | 46 |
 | This game has Obsessive Gameplay | 40 |
@@ -256,3 +256,4 @@ Diff (max vs sum): -44
 | 2023-11-05 | 4.68 | - | 576 | 1,259 |
 | 2023-11-06 | 4.68 | - | 579 | 1,317 |
 | 2023-11-07 | 4.68 | - | 580 | 1,322 |
+| 2023-11-08 | 4.68 | - | 580 | 1,323 |

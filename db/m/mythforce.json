@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4729,
+  "EOS_Progressed": 4730,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8880,6 +8880,11 @@
       "Time": "2023-11-08T02:28:19.0543456+00:00",
       "NumProgressed": 4729,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-08T05:10:19.5735755+00:00",
+      "NumProgressed": 4730,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9004,7 +9009,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -9052,7 +9057,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -9075,15 +9080,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4729,
+      "Progressed": 4730,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:09:42.8520622+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:10:19.5735748+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-08T04:02:56.2201685+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:09:42.852126+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:02:44.9278669+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:10:19.5736442+00:00"
 }

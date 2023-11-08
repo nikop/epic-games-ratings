@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -1438,9 +1438,9 @@
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
       "SetID": "9bke6f1",
       "Name": "Expert Scavenger",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 100,
-      "UsersEstimate": 141
+      "UsersEstimate": 145
     },
     {
       "ID": "ACHIEVEMENT_14_PromiseYuna",
@@ -1621,8 +1621,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:03:35.3639648+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:04:01.3179875+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:15.0588776+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:59:11.7396648+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:03:35.3639932+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:59:38.0479741+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:04:01.3180168+00:00"
 }

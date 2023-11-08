@@ -18,6 +18,7 @@ Rating: 4.63 (Ranked 346)
 | Cold-Blooded Driller | 2.00% | ~489 |
 | Who's The Boss? | 2.00% | ~489 |
 | Don't Knife The Hand That Feeds | 2.00% | ~489 |
+| Eatin' Good in the Neighborhood | 1.00% | ~245 |
 | Lezduit! | 1.00% | ~245 |
 | Eye Scream, You Scream | 1.00% | ~245 |
 | Legendary Bounty Hunter | 1.00% | ~245 |
@@ -26,12 +27,11 @@ Rating: 4.63 (Ranked 346)
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~245 |
 | Series Wrap on Suit-O | 1.00% | ~245 |
 | Bathe With A Giant Nude Alien | 1.00% | ~17 |
-| Eatin' Good in the Neighborhood | 0.90% | ~220 |
 | We Came, We Chainsaw, We Conquered | 0.90% | ~16 |
 | Mux Ado About Shipping | 0.70% | ~12 |
 | Gunning For Your Job | 0.50% | ~122 |
+| We Paid For The Rights To Put A Whole Movie In Here | 0.50% | ~122 |
 | Sequel-Bait | 0.40% | ~98 |
-| We Paid For The Rights To Put A Whole Movie In Here | 0.40% | ~98 |
 | Fall In Love With A Parasite | 0.40% | ~7 |
 | Playing Favorites | 0.30% | ~73 |
 | Mods Please Ban | 0.20% | ~49 |

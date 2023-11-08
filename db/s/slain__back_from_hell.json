@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 117,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 39973,
+  "EOS_Progressed": 39976,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 433,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -22353,6 +22353,11 @@
       "Time": "2023-11-08T04:04:25.418588+00:00",
       "NumProgressed": 39973,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-08T05:05:00.9785475+00:00",
+      "NumProgressed": 39976,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22372,7 +22377,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8394
+      "UsersEstimate": 8395
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -22404,7 +22409,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -22476,7 +22481,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -22516,7 +22521,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2398
+      "UsersEstimate": 2399
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -22524,7 +22529,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2398
+      "UsersEstimate": 2399
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -22595,7 +22600,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 39973,
+      "Progressed": 39976,
       "Completed": 26
     }
   ],
@@ -22603,8 +22608,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:04:25.4185873+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:05:00.9785469+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.8126355+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:59:49.2813056+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:04:25.4187406+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:00:26.7248602+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:05:00.9787182+00:00"
 }

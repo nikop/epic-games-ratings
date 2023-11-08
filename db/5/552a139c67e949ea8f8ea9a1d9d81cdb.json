@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 948,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1870,9 +1870,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 57
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -1950,9 +1950,9 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 199
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2139,8 +2139,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:06:08.9570802+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:07:02.8137834+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:57:34.9673557+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:06:08.9571279+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:57:45.965677+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:07:02.8138333+00:00"
 }

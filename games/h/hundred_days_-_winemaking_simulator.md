@@ -6,19 +6,19 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 40.00% | ~4,580 |
-| It's a good start | 10.00% | ~1,145 |
-| Bonjour! | 8.00% | ~916 |
-| Quack | 7.00% | ~801 |
+| Bye Bye | 40.00% | ~4,583 |
+| It's a good start | 10.00% | ~1,146 |
+| Bonjour! | 8.00% | ~917 |
+| Quack | 7.00% | ~802 |
 | The Assistant | 6.00% | ~687 |
 | The Blue Marl | 6.00% | ~687 |
-| Ostinata | 5.00% | ~572 |
-| Better than nothing? | 5.00% | ~572 |
+| Ostinata | 5.00% | ~573 |
+| Better than nothing? | 5.00% | ~573 |
 | A long journey | 4.00% | ~458 |
-| Big Money | 3.00% | ~343 |
-| Keep the doctor away | 3.00% | ~343 |
-| Surprise of Langhe | 3.00% | ~343 |
-| Famous | 3.00% | ~343 |
+| Big Money | 3.00% | ~344 |
+| Keep the doctor away | 3.00% | ~344 |
+| Surprise of Langhe | 3.00% | ~344 |
+| Famous | 3.00% | ~344 |
 | What is that? A castle? | 2.00% | ~229 |
 | A lot of space | 2.00% | ~229 |
 | A big garage | 2.00% | ~229 |
@@ -27,8 +27,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Pastry Chef | 2.00% | ~229 |
 | Welcome to the club | 2.00% | ~229 |
 | Very Important Winemaker | 2.00% | ~229 |
-| King of Langhe | 1.00% | ~114 |
-| Gem of Monferrato | 1.00% | ~114 |
+| King of Langhe | 1.00% | ~115 |
+| Gem of Monferrato | 1.00% | ~115 |
 | Treasure of Roero | 0.70% | ~80 |
 | Knight of Langhe | 0.50% | ~57 |
 | King of red wines | 0.20% | ~23 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~11 |
 | Master Winemaker | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,449 (Ranked 153)  
+Progressed: 11,457 (Ranked 153)  
 Completed: 10 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 10 (0.09%) (Ranked 275)
 | 2023-11-05 | 11,170 | 10 |
 | 2023-11-06 | 11,296 | 10 |
 | 2023-11-07 | 11,428 | 10 |
-| 2023-11-08 | 11,449 | 10 |
+| 2023-11-08 | 11,457 | 10 |
 ## Awards
 Max (Relaxing): 206  (Ranked 282)  
 Sum: 1,725 (Ranked 214)  

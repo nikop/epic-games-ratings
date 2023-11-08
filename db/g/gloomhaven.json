@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2375,9 +2375,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 19238,
+  "EOS_Progressed": 19241,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1705,
+  "EOS_NewPlayers": 1707,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8430,6 +8430,11 @@
       "Time": "2023-11-08T04:03:29.9285481+00:00",
       "NumProgressed": 19238,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T05:03:54.9908099+00:00",
+      "NumProgressed": 19241,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8610,7 +8615,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "Achievement_Trophy23",
@@ -8618,7 +8623,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "Achievement_Trophy24",
@@ -8626,7 +8631,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8080
+      "UsersEstimate": 8081
     },
     {
       "ID": "Achievement_Trophy25",
@@ -8642,7 +8647,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6541
+      "UsersEstimate": 6542
     },
     {
       "ID": "Achievement_Trophy27",
@@ -8658,7 +8663,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "Achievement_Trophy29",
@@ -8674,7 +8679,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5771
+      "UsersEstimate": 5772
     },
     {
       "ID": "Achievement_Trophy31",
@@ -8682,7 +8687,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6156
+      "UsersEstimate": 6157
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8738,7 +8743,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3270
+      "UsersEstimate": 3271
     },
     {
       "ID": "Achievement_Trophy39",
@@ -8746,7 +8751,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "Achievement_Trophy40",
@@ -8778,7 +8783,7 @@
       "Name": "Light of my life",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "Achievement_Trophy44",
@@ -8818,7 +8823,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "Achievement_Trophy49",
@@ -8929,7 +8934,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 19238,
+      "Progressed": 19241,
       "Completed": 1
     }
   ],
@@ -8937,8 +8942,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-07T05:00:13.3916278+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:03:29.9285477+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:03:54.9908093+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-08T04:00:47.7105559+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:03:29.9286494+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:01:38.6494543+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:03:54.990915+00:00"
 }

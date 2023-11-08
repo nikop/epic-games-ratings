@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -417,9 +417,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5285,
+  "EOS_Progressed": 5287,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6707,6 +6707,11 @@
       "Time": "2023-11-07T23:08:02.4177823+00:00",
       "NumProgressed": 5285,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T05:07:56.8428926+00:00",
+      "NumProgressed": 5287,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7076,9 +7081,9 @@
       "ID": "46",
       "SetID": "7132754",
       "Name": "Tipping the Scales",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "47",
@@ -7140,9 +7145,9 @@
       "ID": "54",
       "SetID": "7132754",
       "Name": "Chaos Surge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "55",
@@ -7197,13 +7202,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5285,
+      "Progressed": 5287,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5285,
+      "Progressed": 5287,
       "Completed": 7
     }
   ],
@@ -7211,8 +7216,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-07T13:03:36.0070967+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:06:53.4332816+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:07:56.842892+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:59:36.1450696+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:06:53.4333822+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:00:10.3191821+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:07:56.8429926+00:00"
 }

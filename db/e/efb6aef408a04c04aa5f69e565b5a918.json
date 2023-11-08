@@ -4,8 +4,8 @@
   "ProductSlug": "clash-5f995e",
   "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-05T21:57:13.7313118+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:58:19.6482337+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:05:42.9872044+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:58:39.8959531+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:06:32.0985388+00:00"
 }

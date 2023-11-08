@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 486,
+  "EOS_Progressed": 487,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.76,
+  "EOS_Completed_Percentage": 5.75,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2080,6 +2080,11 @@
       "Time": "2023-11-08T02:23:03.6338864+00:00",
       "NumProgressed": 486,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-08T05:05:03.6090855+00:00",
+      "NumProgressed": 487,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2123,7 +2128,7 @@
       "Name": "A good beginning",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "META_HALF_LINK",
@@ -2147,7 +2152,7 @@
       "Name": "Free at last",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2195,7 +2200,7 @@
       "Name": "Rascal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2211,7 +2216,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2251,7 +2256,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "PROGRESS_N2",
@@ -2275,7 +2280,7 @@
       "Name": "The darkness",
       "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "PROGRESS_N5",
@@ -2290,14 +2295,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 486,
+      "Progressed": 487,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:04:27.5637073+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:05:03.6090846+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:58:18.674934+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:04:27.5637419+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:58:38.7417084+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:05:03.6091167+00:00"
 }

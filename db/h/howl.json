@@ -4,8 +4,8 @@
   "ProductSlug": "the-howl-ee6924",
   "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -39,8 +39,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-22T13:08:25.6440981+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:09:42.1858592+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:10:18.6882029+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0617937+00:00",
-  "LastUpdate_Ratings": "2023-11-08T04:03:15.092459+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:09:42.185863+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:03:36.9356635+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:10:18.6882084+00:00"
 }

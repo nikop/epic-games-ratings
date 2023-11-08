@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4386,
+  "EOS_Progressed": 4388,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 773,
+  "EOS_NewPlayers": 765,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2426,6 +2426,11 @@
       "Time": "2023-11-08T04:09:09.4125328+00:00",
       "NumProgressed": 4386,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-08T05:09:40.1674259+00:00",
+      "NumProgressed": 4388,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2510,7 +2515,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2582,7 +2587,7 @@
       "Name": "Nasty!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "NoMoreTotems",
@@ -2702,14 +2707,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4386,
+      "Progressed": 4388,
       "Completed": 5
     }
   ],
@@ -2717,8 +2722,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:09:09.4125324+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:09:40.1674253+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-08T04:00:01.1020495+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:09:09.412574+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:00:41.0955718+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:09:40.1674679+00:00"
 }

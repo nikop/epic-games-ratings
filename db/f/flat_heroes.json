@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 615,
+  "EOS_Progressed": 616,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1069,6 +1069,11 @@
       "Time": "2023-11-08T04:08:21.2043103+00:00",
       "NumProgressed": 615,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T05:08:41.0991348+00:00",
+      "NumProgressed": 616,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1190,7 +1195,7 @@
       "ID": "HeroWorld8Boss",
       "SetID": "d9ekhim",
       "Name": "The Colossus - Hero Edition",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -1360,7 +1365,7 @@
       "Name": "Dash Crash",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "World2Boss",
@@ -1368,7 +1373,7 @@
       "Name": "Snake Eyes",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "World3Boss",
@@ -1384,15 +1389,15 @@
       "Name": "Hit That Ball",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "World5Boss",
       "SetID": "d9ekhim",
       "Name": "Eat That Apple",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 154
     },
     {
       "ID": "World6Boss",
@@ -1431,7 +1436,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 615,
+      "Progressed": 616,
       "Completed": 0
     }
   ],
@@ -1439,8 +1444,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:08:21.2043099+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:08:41.0991342+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:16.2787316+00:00",
-  "LastUpdate_Ratings": "2023-11-08T04:02:53.7601919+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:08:21.204355+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:02:41.8615227+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:08:41.0992013+00:00"
 }

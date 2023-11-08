@@ -4,8 +4,8 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2046,
+  "EOS_Progressed": 2047,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4512,6 +4512,11 @@
       "Time": "2023-11-08T04:09:44.7825461+00:00",
       "NumProgressed": 2046,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T05:10:21.8184266+00:00",
+      "NumProgressed": 2047,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4820,7 +4825,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 900
+      "UsersEstimate": 901
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4915,14 +4920,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2046,
+      "Progressed": 2047,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:09:44.7825456+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:10:21.8184259+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:57:15.0632107+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:09:44.7826202+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:57:22.1822466+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:10:21.8185121+00:00"
 }

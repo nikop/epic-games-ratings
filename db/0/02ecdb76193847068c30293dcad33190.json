@@ -4,8 +4,8 @@
   "ProductSlug": "lae-1c780e",
   "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-06T02:18:25.0060107+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:59:44.9399696+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:06:49.5005163+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:00:21.2772417+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:07:51.5950742+00:00"
 }

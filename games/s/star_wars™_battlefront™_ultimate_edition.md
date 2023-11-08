@@ -16,9 +16,9 @@
 | Together we can rule the galaxy | 15.00% | ~165 |
 | Shoot first | 15.00% | ~165 |
 | Collector | 14.00% | ~154 |
+| Survivor | 11.00% | ~121 |
 | Tell Jabba that I've got his money | 10.00% | ~110 |
 | Best star-pilot in the galaxy | 10.00% | ~110 |
-| Survivor | 10.00% | ~110 |
 | Never tell me the odds! | 9.00% | ~99 |
 | What's the cargo? | 8.00% | ~88 |
 | A cunning warrior | 8.00% | ~88 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,099 (Ranked 246)  
+Progressed: 1,099 (Ranked 247)  
 Completed: 1 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |

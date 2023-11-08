@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1219,18 +1219,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 452,
       "NumberOfAwardsMax": 226
+    },
+    {
+      "Time": "2023-11-08T05:00:13.6693881+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 453,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 452,
-  "NumberOfAwardsMax": 226,
+  "NumberOfAwards": 453,
+  "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 226
+      "Count": 227
     },
     {
       "Text": "This game is Relaxing",
@@ -1281,7 +1287,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 235876,
+  "EOS_Progressed": 235879,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1557,
   "EOS_NewCompleters": 0,
@@ -17716,6 +17722,11 @@
       "Time": "2023-11-08T04:06:19.6541706+00:00",
       "NumProgressed": 235876,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T05:07:15.8926987+00:00",
+      "NumProgressed": 235879,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18127,7 +18138,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16511
+      "UsersEstimate": 16512
     },
     {
       "ID": "DwarfElf15Support",
@@ -18175,7 +18186,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82557
+      "UsersEstimate": 82558
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18430,21 +18441,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 235876,
+      "Progressed": 235879,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 235876,
+      "Progressed": 235879,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-11-07T14:59:43.04772+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:06:19.6541702+00:00",
+  "LastChanged": "2023-11-08T05:00:13.6693879+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:07:15.8926977+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:59:38.92757+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:06:19.654375+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:00:13.6693888+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:07:15.8930587+00:00"
 }

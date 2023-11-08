@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -477,9 +477,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 251413,
+  "EOS_Progressed": 251415,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23032,6 +23032,11 @@
       "Time": "2023-11-08T04:05:57.6962853+00:00",
       "NumProgressed": 251413,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T05:06:49.4303335+00:00",
+      "NumProgressed": 251415,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23259,7 +23264,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62853
+      "UsersEstimate": 62854
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -23363,7 +23368,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62853
+      "UsersEstimate": 62854
     },
     {
       "ID": "ACH_SOREAD",
@@ -23458,7 +23463,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251413,
+      "Progressed": 251415,
       "Completed": 7
     }
   ],
@@ -23466,8 +23471,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:05:57.6962846+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:06:49.4303329+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.5962658+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:58:54.4361352+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:05:57.6964924+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:59:20.5924782+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:06:49.4305177+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "the-invincible-iron-ivyenter-the-pretty-pretty-princess-ed912d",
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-21T00:00:00+00:00",
     "PcReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -42,17 +42,17 @@
       "ID": "Acquire Ivy Bow",
       "SetID": "kh2i7p",
       "Name": "Acquired Ivy Bow",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Acquire Ivy Vine Whip",
       "SetID": "kh2i7p",
       "Name": "Acquired Ivy Vine Whip",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Acquire Laserblade",
@@ -96,8 +96,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-26T07:05:55.7899277+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:04:03.4497846+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:04:34.888637+00:00",
   "LastUpdate_AppInfo": "2023-11-05T18:57:05.3224525+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:58:00.3575252+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:04:03.4497965+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:58:16.572341+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:04:34.8886455+00:00"
 }

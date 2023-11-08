@@ -26,6 +26,7 @@ Rating: 4.54 (Ranked 522)
 | Slayer Squad | 0.30% | ~2,144 |
 | Can't Handle the Truth | 0.30% | ~2,144 |
 | Like Riding a Bike | 0.30% | ~2,144 |
+| Not Even My Final Form | 0.30% | ~2,144 |
 | Zombologist | 0.30% | ~2,144 |
 | Ooh, Shiny! | 0.30% | ~2,144 |
 | A Patton Emerges | 0.30% | ~2,144 |
@@ -35,7 +36,6 @@ Rating: 4.54 (Ranked 522)
 | This is My Weapon | 0.30% | ~2,144 |
 | Making Your Mark | 0.20% | ~1,430 |
 | On Safari | 0.20% | ~1,430 |
-| Not Even My Final Form | 0.20% | ~1,430 |
 | Jumbo Keyring | 0.20% | ~1,430 |
 | Humanity Distilled | 0.20% | ~1,430 |
 | I Am the Resurrection | 0.20% | ~1,430 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,794 (Ranked 21)  
+Progressed: 714,805 (Ranked 21)  
 Completed: 2,355 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,16 +259,16 @@ Completed: 2,355 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 714,794 | 2,355 |
+| 2023-11-08 | 714,805 | 2,355 |
 ## Awards
 Max (Great Boss Battles): 7,178  (Ranked 53)  
-Sum: 10,883 (Ranked 87)  
+Sum: 10,888 (Ranked 87)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,178 |
 | This game is Great for Beginners | 527 |
-| This game has Diverse Characters | 516 |
+| This game has Diverse Characters | 521 |
 | This game has Quickly Understood Controls | 497 |
 | This game is Relaxing | 463 |
 | This game has Amazing Storytelling | 445 |
@@ -479,4 +479,4 @@ Diff (max vs sum): -34
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
-| 2023-11-08 | 4.54 | 7,178 | 10,883 |
+| 2023-11-08 | 4.54 | 7,178 | 10,888 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9547,
+  "EOS_Progressed": 9548,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11230,6 +11230,11 @@
       "Time": "2023-11-08T03:05:04.3115647+00:00",
       "NumProgressed": 9547,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T05:05:44.7769753+00:00",
+      "NumProgressed": 9548,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -11241,7 +11246,7 @@
       "Name": "Adventure Time",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7351
+      "UsersEstimate": 7352
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -11297,7 +11302,7 @@
       "Name": "Field Medic",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3532
+      "UsersEstimate": 3533
     },
     {
       "ID": "ACH_GET_FURIOUS",
@@ -11305,7 +11310,7 @@
       "Name": "Get Furious",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -11353,7 +11358,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -11385,7 +11390,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 8401
+      "UsersEstimate": 8402
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -11409,7 +11414,7 @@
       "Name": "Meching Enemies",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 4487
+      "UsersEstimate": 4488
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -11441,7 +11446,7 @@
       "Name": "Photogenic",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 8115
+      "UsersEstimate": 8116
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -11449,7 +11454,7 @@
       "Name": "Playing With Power",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 7065
+      "UsersEstimate": 7066
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -11457,7 +11462,7 @@
       "Name": "Plug It In",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7733
+      "UsersEstimate": 7734
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -11465,7 +11470,7 @@
       "Name": "Poppin Noggins",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "ACH_PYROTECHNICAL",
@@ -11609,7 +11614,7 @@
       "Name": "Ticket Toddler",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 4105
+      "UsersEstimate": 4106
     },
     {
       "ID": "ACH_TO_BE_CONTINUED",
@@ -11640,15 +11645,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9547,
+      "Progressed": 9548,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-11-08T04:05:02.164984+00:00",
+  "LastChanged_Achievements": "2023-11-08T05:05:44.7769746+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:11.3285205+00:00",
-  "LastUpdate_Ratings": "2023-11-08T03:58:46.3213704+00:00",
-  "LastUpdate_Achievements": "2023-11-08T04:05:02.1650954+00:00"
+  "LastUpdate_Ratings": "2023-11-08T04:59:12.6664685+00:00",
+  "LastUpdate_Achievements": "2023-11-08T05:05:44.7770852+00:00"
 }
