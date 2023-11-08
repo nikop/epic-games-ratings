@@ -6553,10 +6553,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4328,
       "NumberOfAwardsMax": 557
+    },
+    {
+      "Time": "2023-11-08T02:15:37.4350285+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4329,
+      "NumberOfAwardsMax": 557
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4328,
+  "NumberOfAwards": 4329,
   "NumberOfAwardsMax": 557,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6594,7 +6600,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 523
+      "Count": 524
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6627,9 +6633,9 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 191726,
+  "EOS_Progressed": 191728,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2348,
+  "EOS_NewPlayers": 2347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29527,6 +29533,11 @@
       "Time": "2023-11-08T01:53:03.377516+00:00",
       "NumProgressed": 191726,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-08T02:27:46.1185986+00:00",
+      "NumProgressed": 191728,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -29650,7 +29661,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17255
+      "UsersEstimate": 17256
     },
     {
       "ID": "Achievement_9",
@@ -29665,15 +29676,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 191726,
+      "Progressed": 191728,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-07T14:01:34.5473471+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:53:03.3775156+00:00",
+  "LastChanged": "2023-11-08T02:15:37.4350282+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:27:46.1185978+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.8448394+00:00",
-  "LastUpdate_Ratings": "2023-11-08T00:02:29.6597935+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:53:03.3776336+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:15:37.4350293+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:27:46.1188872+00:00"
 }

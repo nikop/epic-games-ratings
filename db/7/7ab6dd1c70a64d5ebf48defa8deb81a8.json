@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -745,9 +745,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_14",
@@ -944,8 +944,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:53:34.3241434+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:28:19.7458892+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:41:21.2691266+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:53:34.3241732+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:15:40.8636764+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:28:19.7459231+00:00"
 }

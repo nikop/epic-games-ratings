@@ -3,11 +3,11 @@
   "Name": "Submerged: Hidden Depths",
   "ProductSlug": "submerged-hidden-depths-6065a1",
   "Ranking_Rating": 878,
-  "Ranking_Popularity": 440,
+  "Ranking_Popularity": 441,
   "Ranking_PopularitySum": 352,
   "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-03-10T00:00:00+00:00",
@@ -827,6 +827,6 @@
   "FirstSeenRating": "2022-09-02T17:02:43.442034+00:00",
   "LastChanged": "2023-10-29T01:48:05.0204814+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.0595473+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:47:01.1014723+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:47:57.1539395+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:21:47.4100187+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:22:51.2429951+00:00"
 }

@@ -48,6 +48,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 0.90% | ~1,249 |
 | For the Hoard! | 0.90% | ~1,249 |
 | Trash to Treasure | 0.90% | ~1,249 |
+| Seasoned Journeyman | 0.90% | ~1,249 |
 | A Notch Above the Rest | 0.80% | ~1,110 |
 | The King's Caprice | 0.80% | ~1,110 |
 | Big Game Hunting | 0.80% | ~1,110 |
@@ -63,7 +64,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Necromancer Queen | 0.80% | ~1,110 |
 | Miracle Alchemist | 0.80% | ~1,110 |
 | Laden with Loot | 0.80% | ~1,110 |
-| Seasoned Journeyman | 0.80% | ~1,110 |
 | Scourge of the Seas | 0.80% | ~1,110 |
 | Black Friday Special | 0.80% | ~1,110 |
 | Special Ingredient | 0.80% | ~1,110 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,766 (Ranked 79)  
+Progressed: 138,767 (Ranked 79)  
 Completed: 178 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 178 (0.13%) (Ranked 257)
 | 2023-11-05 | 138,681 | 178 |
 | 2023-11-06 | 138,721 | 178 |
 | 2023-11-07 | 138,763 | 178 |
-| 2023-11-08 | 138,766 | 178 |
+| 2023-11-08 | 138,767 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 73)  
 Sum: 27,508 (Ranked 51)  

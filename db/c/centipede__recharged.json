@@ -317,7 +317,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18376,
+  "EOS_Progressed": 18377,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -15642,6 +15642,11 @@
       "Time": "2023-11-08T01:47:58.3944333+00:00",
       "NumProgressed": 18376,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-11-08T02:22:52.5908221+00:00",
+      "NumProgressed": 18377,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15661,7 +15666,7 @@
       "Name": "Burning For You",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5145
+      "UsersEstimate": 5146
     },
     {
       "ID": "Deadline",
@@ -15780,15 +15785,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18376,
+      "Progressed": 18377,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:47:58.3944329+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:22:52.5908217+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.434836+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:42:49.4181341+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:47:58.3945269+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:17:36.5547006+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:22:52.5909496+00:00"
 }

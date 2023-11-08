@@ -1790,9 +1790,9 @@
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 370
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1830,9 +1830,9 @@
       "ID": "ML_ACHIEVEMENT_07",
       "SetID": "5k00jcd",
       "Name": "Globetrotter",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 284
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2139,8 +2139,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:49:40.5975444+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:25:13.8868114+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:41:38.3729894+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:49:40.5975738+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:16:02.4948484+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:25:13.8868926+00:00"
 }

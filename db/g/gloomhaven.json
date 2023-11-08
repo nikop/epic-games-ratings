@@ -2,7 +2,7 @@
   "ID": "bc079f73f020432fac896d30c8e2c330",
   "Name": "Gloomhaven",
   "ProductSlug": "gloomhaven-92f741",
-  "Ranking_Rating": 633,
+  "Ranking_Rating": 634,
   "Ranking_Popularity": 90,
   "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 133,
@@ -2375,9 +2375,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 19216,
+  "EOS_Progressed": 19225,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1694,
+  "EOS_NewPlayers": 1698,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8415,6 +8415,11 @@
       "Time": "2023-11-08T01:47:15.4129694+00:00",
       "NumProgressed": 19216,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T02:22:05.9555756+00:00",
+      "NumProgressed": 19225,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8435,7 +8440,7 @@
       "Name": "Dungeon Veteran",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "Achievement_Trophy03",
@@ -8443,7 +8448,7 @@
       "Name": "I hate portals",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Achievement_Trophy04",
@@ -8489,9 +8494,9 @@
       "ID": "Achievement_Trophy09",
       "SetID": "724h0m0",
       "Name": "Caught off guard",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 961
+      "UsersEstimate": 769
     },
     {
       "ID": "Achievement_Trophy10",
@@ -8523,7 +8528,7 @@
       "Name": "Down the hatch",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Achievement_Trophy14",
@@ -8531,7 +8536,7 @@
       "Name": "An eye for an eye",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Achievement_Trophy15",
@@ -8595,7 +8600,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3267
+      "UsersEstimate": 3268
     },
     {
       "ID": "Achievement_Trophy23",
@@ -8603,7 +8608,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2692
     },
     {
       "ID": "Achievement_Trophy24",
@@ -8611,7 +8616,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8071
+      "UsersEstimate": 8074
     },
     {
       "ID": "Achievement_Trophy25",
@@ -8619,7 +8624,7 @@
       "Name": "You activated my trap card!",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "Achievement_Trophy26",
@@ -8627,7 +8632,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6533
+      "UsersEstimate": 6537
     },
     {
       "ID": "Achievement_Trophy27",
@@ -8643,7 +8648,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6341
+      "UsersEstimate": 6344
     },
     {
       "ID": "Achievement_Trophy29",
@@ -8659,7 +8664,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 5765
+      "UsersEstimate": 5768
     },
     {
       "ID": "Achievement_Trophy31",
@@ -8667,7 +8672,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6149
+      "UsersEstimate": 6152
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8683,7 +8688,7 @@
       "Name": "Pack leader",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "Achievement_Trophy34",
@@ -8691,7 +8696,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2306
+      "UsersEstimate": 2307
     },
     {
       "ID": "Achievement_Trophy35",
@@ -8715,7 +8720,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4804
+      "UsersEstimate": 4806
     },
     {
       "ID": "Achievement_Trophy38",
@@ -8723,7 +8728,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3267
+      "UsersEstimate": 3268
     },
     {
       "ID": "Achievement_Trophy39",
@@ -8731,7 +8736,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3651
+      "UsersEstimate": 3653
     },
     {
       "ID": "Achievement_Trophy40",
@@ -8739,7 +8744,7 @@
       "Name": "Pain is your friend",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "Achievement_Trophy41",
@@ -8747,7 +8752,7 @@
       "Name": "Obstacle race",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2498
+      "UsersEstimate": 2499
     },
     {
       "ID": "Achievement_Trophy42",
@@ -8755,7 +8760,7 @@
       "Name": "Black death",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "Achievement_Trophy43",
@@ -8763,7 +8768,7 @@
       "Name": "Light of my life",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2690
+      "UsersEstimate": 2692
     },
     {
       "ID": "Achievement_Trophy44",
@@ -8771,7 +8776,7 @@
       "Name": "Quad damage",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "Achievement_Trophy45",
@@ -8795,7 +8800,7 @@
       "Name": "Play it again, Sam",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "Achievement_Trophy48",
@@ -8803,7 +8808,7 @@
       "Name": "Doom and gloom",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "Achievement_Trophy49",
@@ -8811,7 +8816,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2884
     },
     {
       "ID": "Achievement_Trophy50",
@@ -8914,7 +8919,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 19216,
+      "Progressed": 19225,
       "Completed": 1
     }
   ],
@@ -8922,8 +8927,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-07T05:00:13.3916278+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:47:15.4129689+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:22:05.9555751+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:44:29.8763306+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:47:15.4130517+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:20:05.6502858+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:22:05.9557041+00:00"
 }

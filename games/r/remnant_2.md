@@ -7,9 +7,9 @@ Rating: 4.75 (Ranked 143)
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~19,686 |
 | The Killing Jar | 8.00% | ~17,499 |
-| Expanding Horizons | 7.00% | ~15,311 |
-| Quest for Survival | 7.00% | ~15,311 |
-| Not Your Average Trait | 7.00% | ~15,311 |
+| Expanding Horizons | 7.00% | ~15,312 |
+| Quest for Survival | 7.00% | ~15,312 |
+| Not Your Average Trait | 7.00% | ~15,312 |
 | Gleaming the Cube | 6.00% | ~13,124 |
 | Familiar Face | 6.00% | ~13,124 |
 | Duality | 6.00% | ~13,124 |
@@ -45,7 +45,6 @@ Rating: 4.75 (Ranked 143)
 | Crafty | 2.00% | ~4,375 |
 | Only Human | 2.00% | ~4,375 |
 | Red Room | 2.00% | ~4,375 |
-| The Collector | 2.00% | ~4,375 |
 | Scrap Hoarder | 2.00% | ~4,375 |
 | Carnage in C-Minor | 2.00% | ~4,375 |
 | No One Should Have All That Power | 2.00% | ~4,375 |
@@ -54,9 +53,10 @@ Rating: 4.75 (Ranked 143)
 | Ghost in the Machine | 1.00% | ~2,187 |
 | The Trigger | 1.00% | ~2,187 |
 | Cutting Edge | 1.00% | ~2,187 |
+| The Collector | 1.00% | ~2,187 |
 | Proving Grounds | 1.00% | ~2,187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,733 (Ranked 68)  
+Progressed: 218,737 (Ranked 68)  
 Completed: 433 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,7 +171,7 @@ Completed: 433 (0.20%) (Ranked 244)
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
 | 2023-11-07 | 218,702 | 433 |
-| 2023-11-08 | 218,733 | 433 |
+| 2023-11-08 | 218,737 | 433 |
 ## Awards
 Max (Great Boss Battles): 2,095  (Ranked 109)  
 Sum: 4,689 (Ranked 143)  

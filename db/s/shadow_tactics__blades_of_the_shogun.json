@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1960,9 +1960,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 212512,
+  "EOS_Progressed": 212514,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 1352,
+  "EOS_NewPlayers": 1353,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24960,6 +24960,11 @@
       "Time": "2023-11-08T01:49:59.7080557+00:00",
       "NumProgressed": 212512,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-11-08T02:25:33.993661+00:00",
+      "NumProgressed": 212514,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 44,
@@ -25035,7 +25040,7 @@
       "Name": "Gear up",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8500
+      "UsersEstimate": 8501
     },
     {
       "ID": "Genin",
@@ -25043,7 +25048,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25501
+      "UsersEstimate": 25502
     },
     {
       "ID": "HappyLittleAccidents",
@@ -25051,7 +25056,7 @@
       "Name": "Happy little accidents",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8500
+      "UsersEstimate": 8501
     },
     {
       "ID": "HappyPlanning",
@@ -25139,7 +25144,7 @@
       "Name": "Noboru",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 8500
+      "UsersEstimate": 8501
     },
     {
       "ID": "Okkoto",
@@ -25203,7 +25208,7 @@
       "Name": "Still Rollin\u0027",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 8500
+      "UsersEstimate": 8501
     },
     {
       "ID": "Stoned",
@@ -25322,15 +25327,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 212512,
+      "Progressed": 212514,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-07T11:03:18.8279717+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:49:59.7080554+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:25:33.9936602+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.1309249+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:46:45.6820817+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:49:59.7081569+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:21:22.865125+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:25:33.9939905+00:00"
 }

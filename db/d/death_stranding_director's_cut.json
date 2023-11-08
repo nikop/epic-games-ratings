@@ -7969,9 +7969,9 @@
       "Count": 632
     }
   ],
-  "EOS_Progressed": 543072,
+  "EOS_Progressed": 543073,
   "EOS_Completed": 2109,
-  "EOS_NewPlayers": 1710,
+  "EOS_NewPlayers": 1707,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -30904,6 +30904,11 @@
       "Time": "2023-11-08T01:50:03.2101524+00:00",
       "NumProgressed": 543072,
       "NumCompleted": 2109
+    },
+    {
+      "Time": "2023-11-08T02:25:37.8476695+00:00",
+      "NumProgressed": 543073,
+      "NumCompleted": 2109
     }
   ],
   "TotalAchievements": 63,
@@ -30923,7 +30928,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 499626
+      "UsersEstimate": 499627
     },
     {
       "ID": "10",
@@ -30963,7 +30968,7 @@
       "Name": "Thank You, Sam",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 108614
+      "UsersEstimate": 108615
     },
     {
       "ID": "15",
@@ -30971,7 +30976,7 @@
       "Name": "Thanks for Everything",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 108614
+      "UsersEstimate": 108615
     },
     {
       "ID": "16",
@@ -30979,7 +30984,7 @@
       "Name": "Everyday Delivery",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 282397
+      "UsersEstimate": 282398
     },
     {
       "ID": "17",
@@ -30987,7 +30992,7 @@
       "Name": "Deliveries Done",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 130337
+      "UsersEstimate": 130338
     },
     {
       "ID": "18",
@@ -31035,7 +31040,7 @@
       "Name": "Apprentice Builder",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 391012
+      "UsersEstimate": 391013
     },
     {
       "ID": "23",
@@ -31051,7 +31056,7 @@
       "Name": "A New Day for the UCA",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 385581
+      "UsersEstimate": 385582
     },
     {
       "ID": "25",
@@ -31083,7 +31088,7 @@
       "Name": "Like and Be Liked",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 418165
+      "UsersEstimate": 418166
     },
     {
       "ID": "29",
@@ -31091,7 +31096,7 @@
       "Name": "The People\u0027s Porter",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 309551
+      "UsersEstimate": 309552
     },
     {
       "ID": "3",
@@ -31099,7 +31104,7 @@
       "Name": "We Need You",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 244382
+      "UsersEstimate": 244383
     },
     {
       "ID": "30",
@@ -31115,7 +31120,7 @@
       "Name": "Good Samaritan",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 488765
+      "UsersEstimate": 488766
     },
     {
       "ID": "32",
@@ -31131,7 +31136,7 @@
       "Name": "Chiral Crafter",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 320412
+      "UsersEstimate": 320413
     },
     {
       "ID": "34",
@@ -31155,7 +31160,7 @@
       "Name": "The Custom Kid",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 331274
+      "UsersEstimate": 331275
     },
     {
       "ID": "37",
@@ -31235,7 +31240,7 @@
       "Name": "Catcher Crusher",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 244382
+      "UsersEstimate": 244383
     },
     {
       "ID": "46",
@@ -31251,7 +31256,7 @@
       "Name": "Boots Are a Porter\u0027s Best Friend",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 320412
+      "UsersEstimate": 320413
     },
     {
       "ID": "48",
@@ -31291,7 +31296,7 @@
       "Name": "God Particle Go-Getter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48876
+      "UsersEstimate": 48877
     },
     {
       "ID": "52",
@@ -31347,7 +31352,7 @@
       "Name": "I Couldn\u0027t Hold it In!",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 304120
+      "UsersEstimate": 304121
     },
     {
       "ID": "59",
@@ -31371,7 +31376,7 @@
       "Name": "Soothing Sounds",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 249813
+      "UsersEstimate": 249814
     },
     {
       "ID": "61",
@@ -31379,7 +31384,7 @@
       "Name": "Building Bridges",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 347566
+      "UsersEstimate": 347567
     },
     {
       "ID": "62",
@@ -31418,15 +31423,15 @@
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 543072,
+      "Progressed": 543073,
       "Completed": 2109
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2023-11-08T00:02:28.1777604+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:50:03.2101521+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:25:37.847669+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:20.8742024+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:45:05.281389+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:50:03.2103301+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:21:09.5124058+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:25:37.8479098+00:00"
 }

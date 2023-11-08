@@ -13,8 +13,8 @@
 | Scholar | 20.00% | ~97 |
 | The darkness | 19.00% | ~92 |
 | A good beginning | 18.00% | ~87 |
-| Half the way | 17.00% | ~82 |
-| One last step | 17.00% | ~82 |
+| Half the way | 17.00% | ~83 |
+| One last step | 17.00% | ~83 |
 | I did it | 16.00% | ~78 |
 | Peace walker | 16.00% | ~78 |
 | Cable guy | 16.00% | ~78 |
@@ -24,14 +24,14 @@
 | Feels like springtime | 14.00% | ~68 |
 | Alchemists Express | 14.00% | ~68 |
 | Free at last | 11.00% | ~53 |
-| A Link to the Past | 11.00% | ~53 |
 | Rascal | 11.00% | ~53 |
+| A Link to the Past | 10.00% | ~49 |
 | A great audience | 8.00% | ~39 |
 | For its own good | 8.00% | ~39 |
 | Fashion victim | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 485 (Ranked 298)  
-Completed: 28 (5.77%) (Ranked 62)  
+Progressed: 486 (Ranked 298)  
+Completed: 28 (5.76%) (Ranked 62)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -139,3 +139,4 @@ Completed: 28 (5.77%) (Ranked 62)
 | 2023-11-05 | 456 | 27 |
 | 2023-11-06 | 472 | 27 |
 | 2023-11-07 | 485 | 28 |
+| 2023-11-08 | 486 | 28 |

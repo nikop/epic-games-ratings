@@ -24,20 +24,20 @@
 | The Relentless Storm | 41.00% | ~228 |
 | A Tragic Reminder | 40.00% | ~222 |
 | 3000 Year Blackout | 39.00% | ~217 |
-| The Finisher | 38.00% | ~211 |
+| The Finisher | 39.00% | ~217 |
 | So Close | 35.00% | ~195 |
 | You Get Used To It | 35.00% | ~195 |
 | On The Rocks | 34.00% | ~189 |
 | Bullseye | 33.00% | ~183 |
+| Never Gets Old | 33.00% | ~183 |
 | Snowy Poro | 32.00% | ~178 |
-| Never Gets Old | 32.00% | ~178 |
 | Family | 31.00% | ~172 |
 | Biggest Snowball Ever | 31.00% | ~172 |
 | Freeze The Ice Witch | 31.00% | ~172 |
 | Boosted! | 31.00% | ~172 |
 | Deadliest and Biggest Snowball Ever! | 31.00% | ~172 |
 | It Is Not Over | 29.00% | ~161 |
-| Vertical Power | 27.00% | ~150 |
+| Vertical Power | 28.00% | ~156 |
 | One From The Heart | 14.00% | ~78 |
 | Yummy | 12.00% | ~67 |
 | Snowball Fightn't | 11.00% | ~61 |

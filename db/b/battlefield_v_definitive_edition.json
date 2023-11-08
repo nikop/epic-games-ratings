@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 18516,
+  "EOS_Progressed": 18521,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1516,
+  "EOS_NewPlayers": 1521,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5743,6 +5743,11 @@
       "Time": "2023-11-08T01:53:03.7353869+00:00",
       "NumProgressed": 18516,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T02:27:46.4985457+00:00",
+      "NumProgressed": 18521,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -5763,7 +5768,7 @@
       "Name": "Globetrotter",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "achievement_11",
@@ -5787,7 +5792,7 @@
       "Name": "Grim Reaper",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 13887
+      "UsersEstimate": 13891
     },
     {
       "ID": "achievement_14",
@@ -5795,7 +5800,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 7777
+      "UsersEstimate": 7779
     },
     {
       "ID": "achievement_15",
@@ -5803,7 +5808,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 9813
+      "UsersEstimate": 9816
     },
     {
       "ID": "achievement_16",
@@ -5811,7 +5816,7 @@
       "Name": "Heads Down",
       "Percentage": 73,
       "XP": 30,
-      "UsersEstimate": 13517
+      "UsersEstimate": 13520
     },
     {
       "ID": "achievement_17",
@@ -5819,7 +5824,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "achievement_18",
@@ -5827,7 +5832,7 @@
       "Name": "Eager Beaver",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 8703
+      "UsersEstimate": 8705
     },
     {
       "ID": "achievement_19",
@@ -5835,7 +5840,7 @@
       "Name": "Elite",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 4814
+      "UsersEstimate": 4815
     },
     {
       "ID": "achievement_2",
@@ -5851,7 +5856,7 @@
       "Name": "Last Man Standing",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 17220
+      "UsersEstimate": 17225
     },
     {
       "ID": "achievement_21",
@@ -5859,7 +5864,7 @@
       "Name": "Not On My Watch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 12961
+      "UsersEstimate": 12965
     },
     {
       "ID": "achievement_3",
@@ -5875,7 +5880,7 @@
       "Name": "Lovely",
       "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 7036
+      "UsersEstimate": 7038
     },
     {
       "ID": "achievement_5",
@@ -5883,7 +5888,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4629
+      "UsersEstimate": 4630
     },
     {
       "ID": "achievement_6",
@@ -5891,7 +5896,7 @@
       "Name": "Ou La Mort",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "achievement_7",
@@ -5907,7 +5912,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 13517
+      "UsersEstimate": 13520
     },
     {
       "ID": "achievement_9",
@@ -5922,13 +5927,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 18516,
+      "Progressed": 18521,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:53:03.7353862+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:27:46.498545+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:38.3718732+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:43:46.4906281+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:53:03.7354305+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:19:08.5580439+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:27:46.4986401+00:00"
 }

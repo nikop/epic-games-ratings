@@ -13,8 +13,8 @@
 | I Found It | 23.00% | ~39 |
 | The Collector | 22.00% | ~38 |
 | Powerful Allies | 21.00% | ~36 |
+| Adventurer | 21.00% | ~36 |
 | Scholar | 21.00% | ~36 |
-| Adventurer | 20.00% | ~34 |
 | Geared Up | 20.00% | ~34 |
 | Tributes of Caladrias | 19.00% | ~32 |
 | Stone Collection | 18.00% | ~31 |

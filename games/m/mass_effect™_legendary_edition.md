@@ -74,9 +74,9 @@
 | Friend or Foe | 29.00% | ~299 |
 | Mobilizer | 29.00% | ~299 |
 | Untouchable | 27.00% | ~278 |
+| Giant Killer | 27.00% | ~278 |
 | A House Divided | 27.00% | ~278 |
 | Eye of the Hurricane | 26.00% | ~268 |
-| Giant Killer | 26.00% | ~268 |
 | First Aid Specialist | 26.00% | ~268 |
 | World Shaker | 26.00% | ~268 |
 | Weapon Specialist | 25.00% | ~258 |

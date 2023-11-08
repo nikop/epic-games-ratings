@@ -597,9 +597,9 @@
       "ID": "ENEMY_23",
       "SetID": "50pdlpn",
       "Name": "Arnold, Boom Bang Dang \u0026 Mahone",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ENEMY_24",
@@ -1004,8 +1004,8 @@
   ],
   "FirstSeen": "2023-07-03T16:57:31.1356684+00:00",
   "FirstSeenAchievements": "2023-05-08T09:03:21.3999065+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:47:32.1957829+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:22:24.2555185+00:00",
   "LastUpdate_AppInfo": "2023-11-06T22:56:57.4875901+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:44:52.276875+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:47:32.1958365+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:20:47.6555588+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:22:24.2556356+00:00"
 }

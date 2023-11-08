@@ -12755,9 +12755,9 @@
       "ID": "ACH22",
       "SetID": "9llo822",
       "Name": "Life of the Party",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2187
+      "UsersEstimate": 2297
     },
     {
       "ID": "ACH23",
@@ -12868,8 +12868,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-06T21:02:56.1879294+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:48:11.3005577+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:23:06.5012786+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:41:33.9337141+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:48:11.3006237+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:15:58.0749663+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:23:06.5013871+00:00"
 }

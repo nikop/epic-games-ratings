@@ -4,7 +4,7 @@
   "ProductSlug": "asemblance-oversight",
   "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-03T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:11.3746064+00:00",
   "LastChanged": "2023-03-31T05:58:11.3746065+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:17.5030725+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:42:40.4487765+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:48:39.5459645+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:17:27.907077+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:24:06.978427+00:00"
 }

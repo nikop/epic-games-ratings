@@ -5671,9 +5671,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 694035,
+  "EOS_Progressed": 694036,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 14054,
+  "EOS_NewPlayers": 14040,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28651,6 +28651,11 @@
       "Time": "2023-11-08T01:49:19.0551496+00:00",
       "NumProgressed": 694035,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-08T02:24:50.5094877+00:00",
+      "NumProgressed": 694036,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 37,
@@ -28742,7 +28747,7 @@
       "Name": "Blood on My Hands",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 499705
+      "UsersEstimate": 499706
     },
     {
       "ID": "2",
@@ -28886,7 +28891,7 @@
       "Name": "You Complete Me",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 263733
+      "UsersEstimate": 263734
     },
     {
       "ID": "36",
@@ -28950,14 +28955,14 @@
       "Name": "CQB Novice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 48582
+      "UsersEstimate": 48583
     }
   ],
   "AchievementSets": [
     {
       "ID": "7ko8h8f",
       "IsBase": true,
-      "Progressed": 694035,
+      "Progressed": 694036,
       "Completed": 10
     }
   ],
@@ -28965,8 +28970,8 @@
   "FirstSeenRating": "2022-12-08T10:57:21.6139879+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.6020282+00:00",
   "LastChanged": "2023-11-07T18:56:54.4041486+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:49:19.0551492+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:24:50.5094871+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.1983815+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:41:25.5788482+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:49:19.0552683+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:15:45.2761276+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:24:50.5096774+00:00"
 }

@@ -689,9 +689,9 @@
       "Count": 108
     }
   ],
-  "EOS_Progressed": 1613,
+  "EOS_Progressed": 1614,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4844,6 +4844,11 @@
       "Time": "2023-11-08T01:48:00.5503752+00:00",
       "NumProgressed": 1613,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-08T02:22:54.7349443+00:00",
+      "NumProgressed": 1614,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -4856,7 +4861,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "achievement_10",
@@ -4888,7 +4893,7 @@
       "Name": "Final Regeneration",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_14",
@@ -4952,7 +4957,7 @@
       "Name": "Autofire",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "achievement_21",
@@ -4960,7 +4965,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "achievement_22",
@@ -4984,7 +4989,7 @@
       "Name": "Eviscerator",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "achievement_25",
@@ -4992,7 +4997,7 @@
       "Name": "Full Contact",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_26",
@@ -5008,7 +5013,7 @@
       "Name": "Pack Rat",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_28",
@@ -5016,7 +5021,7 @@
       "Name": "Story Teller",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "achievement_29",
@@ -5032,7 +5037,7 @@
       "Name": "All Systems Go",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "achievement_30",
@@ -5048,7 +5053,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1500
+      "UsersEstimate": 1501
     },
     {
       "ID": "achievement_32",
@@ -5072,7 +5077,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "achievement_35",
@@ -5144,7 +5149,7 @@
       "Name": "Brute Force",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "achievement_43",
@@ -5152,7 +5157,7 @@
       "Name": "Exterminator",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "achievement_44",
@@ -5192,7 +5197,7 @@
       "Name": "True Believer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 903
+      "UsersEstimate": 904
     },
     {
       "ID": "achievement_6",
@@ -5200,7 +5205,7 @@
       "Name": "Greenhouse Effect",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "achievement_7",
@@ -5216,7 +5221,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "achievement_9",
@@ -5224,14 +5229,14 @@
       "Name": "Wreckage",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 645
+      "UsersEstimate": 646
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1613,
+      "Progressed": 1614,
       "Completed": 8
     }
   ],
@@ -5239,8 +5244,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-05T01:50:21.7166978+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:48:00.5503746+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:22:54.7349438+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.4707049+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:42:09.1836375+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:48:00.5504283+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:16:45.2641323+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:22:54.7350245+00:00"
 }

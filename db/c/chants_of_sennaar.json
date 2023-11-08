@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 5.77,
+  "EOS_Completed_Percentage": 5.76,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2075,6 +2075,11 @@
       "Time": "2023-11-07T22:03:52.4519765+00:00",
       "NumProgressed": 485,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-08T02:23:03.6338864+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2126,7 +2131,7 @@
       "Name": "Half the way",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2172,9 +2177,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 49
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2278,21 +2283,21 @@
       "Name": "One last step",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:48:08.6940011+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:23:03.6338857+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:42:17.3448645+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:48:08.6940277+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:16:57.473387+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:23:03.6339209+00:00"
 }

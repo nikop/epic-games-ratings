@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23679,
+  "EOS_Progressed": 23682,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 497,
+  "EOS_NewPlayers": 496,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -22058,6 +22058,11 @@
       "Time": "2023-11-08T01:51:50.2154775+00:00",
       "NumProgressed": 23679,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-11-08T02:26:28.9723268+00:00",
+      "NumProgressed": 23682,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 20,
@@ -22069,7 +22074,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4025
+      "UsersEstimate": 4026
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -22125,7 +22130,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -22165,7 +22170,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -22181,7 +22186,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2841
+      "UsersEstimate": 2842
     },
     {
       "ID": "INTRO_FINISHED",
@@ -22189,7 +22194,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18233
+      "UsersEstimate": 18235
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22197,7 +22202,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6393
+      "UsersEstimate": 6394
     },
     {
       "ID": "NORTH_FINISHED",
@@ -22205,7 +22210,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3078
+      "UsersEstimate": 3079
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -22221,22 +22226,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23679,
+      "Progressed": 23682,
       "Completed": 452
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:51:50.2154771+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:26:28.9723262+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.680563+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:46:59.1373022+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:51:50.215599+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:21:40.1610066+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:26:28.9725002+00:00"
 }

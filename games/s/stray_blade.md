@@ -5,15 +5,15 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self-Defence | 85.00% | ~99 |
-| Tinkerer | 69.00% | ~80 |
-| Welcome to the Club | 41.00% | ~48 |
+| Tinkerer | 69.00% | ~81 |
+| Welcome to the Club | 40.00% | ~47 |
 | Apprentice | 38.00% | ~44 |
 | A new World ahead | 29.00% | ~34 |
-| Can't touch this | 28.00% | ~32 |
+| Can't touch this | 27.00% | ~32 |
 | Don't Cry Wolf | 25.00% | ~29 |
 | Expert | 19.00% | ~22 |
 | Freezing Cold | 18.00% | ~21 |
-| Searing Heat | 15.00% | ~17 |
+| Searing Heat | 15.00% | ~18 |
 | Locked and Loaded | 14.00% | ~16 |
 | Nothing but the Truth | 14.00% | ~16 |
 | The Power of the Mountains | 14.00% | ~16 |
@@ -21,8 +21,8 @@
 | Changing the World | 11.00% | ~13 |
 | Defeat Tezuth | 10.00% | ~12 |
 | The A-Team | 10.00% | ~12 |
-| Craftsmen | 9.00% | ~10 |
-| Witch | 9.00% | ~10 |
+| Craftsmen | 9.00% | ~11 |
+| Witch | 9.00% | ~11 |
 | Defeat Uskol | 8.00% | ~9 |
 | Through Dangers Untold | 8.00% | ~9 |
 | Mirror, Mirror on the Wall | 7.00% | ~8 |
@@ -34,11 +34,11 @@
 | Ancient Powers | 4.00% | ~5 |
 | The End | 4.00% | ~5 |
 | But what of the Acreans? | 4.00% | ~5 |
-| Sponsor | 3.00% | ~3 |
-| Wizard | 3.00% | ~3 |
-| Wayseeker | 3.00% | ~3 |
-| Pathfinder | 3.00% | ~3 |
-| Globetrotter | 3.00% | ~3 |
+| Sponsor | 3.00% | ~4 |
+| Wizard | 3.00% | ~4 |
+| Wayseeker | 3.00% | ~4 |
+| Pathfinder | 3.00% | ~4 |
+| Globetrotter | 3.00% | ~4 |
 | Style over Stats | 2.00% | ~2 |
 | Mountain Lover | 2.00% | ~2 |
 | Forest Expert | 2.00% | ~2 |
@@ -51,7 +51,7 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 399)  
+Progressed: 117 (Ranked 398)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,6 +128,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-31 | 112 | 0 |
 | 2023-11-04 | 115 | 0 |
 | 2023-11-05 | 116 | 0 |
+| 2023-11-08 | 117 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

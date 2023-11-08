@@ -6,38 +6,38 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 63.00% | ~212 |
-| Cartographer | 56.00% | ~188 |
-| A Strange Artefact | 51.00% | ~171 |
+| The Adventure Begins | 62.00% | ~209 |
+| Cartographer | 56.00% | ~189 |
+| A Strange Artefact | 51.00% | ~172 |
 | Insomnia | 47.00% | ~158 |
 | From Whence we Came | 41.00% | ~138 |
-| Lost & Found & Lost Again | 40.00% | ~134 |
+| Lost & Found & Lost Again | 40.00% | ~135 |
 | Fire and Flood | 39.00% | ~131 |
-| Spooky! | 37.00% | ~124 |
+| Spooky! | 37.00% | ~125 |
 | Shennong Herbalist | 33.00% | ~111 |
 | Treasure Hunt | 33.00% | ~111 |
-| Good Mama | 32.00% | ~108 |
+| Good Mama | 31.00% | ~104 |
 | O Captain My Captain | 30.00% | ~101 |
 | Plunderer | 27.00% | ~91 |
-| Taxonomist | 26.00% | ~87 |
+| Taxonomist | 26.00% | ~88 |
 | Traveller | 24.00% | ~81 |
-| Nahua Seeker | 24.00% | ~81 |
 | Uncertain Loyalties | 24.00% | ~81 |
+| Nahua Seeker | 23.00% | ~78 |
 | Roll to Save | 22.00% | ~74 |
 | Veteran Explorer | 20.00% | ~67 |
-| Red Flag Pirate | 18.00% | ~60 |
+| Red Flag Pirate | 18.00% | ~61 |
 | Iron Man | 17.00% | ~57 |
 | Shortening of the Way | 16.00% | ~54 |
 | A Gentle Beast | 16.00% | ~54 |
-| For the Club! | 15.00% | ~50 |
-| Practical Palaeontology | 15.00% | ~50 |
-| Dapper | 15.00% | ~50 |
+| For the Club! | 15.00% | ~51 |
+| Practical Palaeontology | 15.00% | ~51 |
+| Dapper | 15.00% | ~51 |
 | Adventurer | 14.00% | ~47 |
 | The New Director | 13.00% | ~44 |
 | The Director is Dead | 13.00% | ~44 |
-| And Here Is Your Statue | 13.00% | ~44 |
 | Discovery | 13.00% | ~44 |
 | Plays Well With Others | 13.00% | ~44 |
+| And Here Is Your Statue | 12.00% | ~40 |
 | Very Classy | 12.00% | ~40 |
 | Under the Table | 10.00% | ~34 |
 | It's Complicated | 10.00% | ~34 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 336 (Ranked 323)  
+Progressed: 337 (Ranked 323)  
 Completed: 1 (0.30%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,6 +112,7 @@ Completed: 1 (0.30%) (Ranked 225)
 | 2023-11-01 | 334 | 1 |
 | 2023-11-02 | 335 | 1 |
 | 2023-11-05 | 336 | 1 |
+| 2023-11-08 | 337 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

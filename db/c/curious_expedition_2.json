@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,9 +70,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -310,6 +310,11 @@
       "Time": "2023-11-05T11:09:06.6045764+00:00",
       "NumProgressed": 336,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T02:28:14.3131704+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -407,9 +412,9 @@
       "ID": "ach-campaign-fameThreshold",
       "SetID": "17ih7ma",
       "Name": "And Here Is Your Statue",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "ach-campaign-finish-easy",
@@ -457,7 +462,7 @@
       "Name": "A Strange Artefact",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ach-campaign-story2",
@@ -465,7 +470,7 @@
       "Name": "Lost \u0026 Found \u0026 Lost Again",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ach-campaign-story3",
@@ -497,7 +502,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "ach-discover-locations-high",
@@ -529,7 +534,7 @@
       "Name": "Red Flag Pirate",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ach-find-treasure-high",
@@ -543,9 +548,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 209
     },
     {
       "ID": "ach-hardExpeditions",
@@ -569,7 +574,7 @@
       "Name": "For the Club!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach-keepHighStanding",
@@ -585,7 +590,7 @@
       "Name": "Taxonomist",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ach-kill-hyenas",
@@ -649,7 +654,7 @@
       "Name": "Spooky!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ach-noEquipment",
@@ -671,9 +676,9 @@
       "ID": "ach-pacifist-goals",
       "SetID": "17ih7ma",
       "Name": "Nahua Seeker",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 78
     },
     {
       "ID": "ach-paleMask-cure",
@@ -711,9 +716,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 104
     },
     {
       "ID": "ach-redElk",
@@ -729,7 +734,7 @@
       "Name": "Practical Palaeontology",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "ach-rob-shrines",
@@ -793,14 +798,14 @@
       "Name": "Dapper",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 1
     }
   ],
@@ -808,8 +813,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-08T01:53:29.2833491+00:00",
+  "LastChanged_Achievements": "2023-11-08T02:28:14.3131698+00:00",
   "LastUpdate_AppInfo": "2023-11-04T10:56:59.8670243+00:00",
-  "LastUpdate_Ratings": "2023-11-08T01:43:45.8730822+00:00",
-  "LastUpdate_Achievements": "2023-11-08T01:53:29.2833946+00:00"
+  "LastUpdate_Ratings": "2023-11-08T02:19:08.1202962+00:00",
+  "LastUpdate_Achievements": "2023-11-08T02:28:14.3132705+00:00"
 }
