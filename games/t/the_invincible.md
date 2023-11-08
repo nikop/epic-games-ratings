@@ -15,7 +15,7 @@
 | Survivors | 13.00% | ~10 |
 | The Condor | 10.00% | ~8 |
 | The End | 10.00% | ~8 |
-| I leave no man behind | 8.00% | ~6 |
+| I leave no man behind | 9.00% | ~7 |
 | Flying Objects Operator | 8.00% | ~6 |
 | On her own | 6.00% | ~5 |
 | Evacuation | 6.00% | ~5 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3893,
+  "EOS_Progressed": 3894,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -9419,6 +9419,11 @@
       "Time": "2023-11-08T10:05:31.1741155+00:00",
       "NumProgressed": 3893,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-08T12:04:47.1375632+00:00",
+      "NumProgressed": 3894,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -9502,7 +9507,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     },
     {
       "ID": "ach_food_completed",
@@ -9518,7 +9523,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "ach_game_opened",
@@ -9542,7 +9547,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ach_tornado",
@@ -9557,14 +9562,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3893,
+      "Progressed": 3894,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:06:28.3104776+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:04:47.1375623+00:00",
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.1990735+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:01:52.3871863+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:06:28.31056+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:59:52.8361561+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:04:47.1376358+00:00"
 }

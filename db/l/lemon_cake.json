@@ -4,8 +4,8 @@
   "ProductSlug": "lemon-cake-c683d8",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -304,9 +304,9 @@
       "ID": "LC-06",
       "SetID": "ap2ljl4",
       "Name": "Adept Baker",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "LC-07",
@@ -409,8 +409,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:08:13.5318701+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:05:59.8790354+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:19.0782936+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:00:28.6495964+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:08:13.5318849+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:59:00.5631878+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:05:59.8790519+00:00"
 }

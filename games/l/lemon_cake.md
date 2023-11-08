@@ -9,7 +9,7 @@
 | Apprentice Baker | 34.00% | ~53 |
 | The Kitchen Is On Fire | 34.00% | ~53 |
 | Perfect Server | 15.00% | ~24 |
-| Adept Baker | 11.00% | ~17 |
+| Adept Baker | 12.00% | ~19 |
 | Expert Baker | 10.00% | ~16 |
 | Verdant Greenhouse | 10.00% | ~16 |
 | Luxury Kitchen | 10.00% | ~16 |

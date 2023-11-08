@@ -3557,7 +3557,7 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 51933,
+  "EOS_Progressed": 51934,
   "EOS_Completed": 247,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
@@ -13542,6 +13542,11 @@
       "Time": "2023-11-08T03:08:59.3541292+00:00",
       "NumProgressed": 51933,
       "NumCompleted": 247
+    },
+    {
+      "Time": "2023-11-08T12:08:43.5916944+00:00",
+      "NumProgressed": 51934,
+      "NumCompleted": 247
     }
   ],
   "TotalAchievements": 45,
@@ -13577,7 +13582,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 41027
+      "UsersEstimate": 41028
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -13665,7 +13670,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 30640
+      "UsersEstimate": 30641
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -13793,7 +13798,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 30640
+      "UsersEstimate": 30641
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -13817,7 +13822,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 50375
+      "UsersEstimate": 50376
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -13912,15 +13917,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 51933,
+      "Progressed": 51934,
       "Completed": 247
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2023-11-04T10:58:18.5364018+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:09:45.0081813+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:08:43.5916938+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:19.1753674+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:01:33.5036555+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:09:45.0083+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:59:41.8866329+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:08:43.5918132+00:00"
 }

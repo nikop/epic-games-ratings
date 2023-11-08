@@ -2,13 +2,13 @@
   "ID": "7051eadbb8c2435caf32a9bc0dc17936",
   "Name": "RimWorld",
   "ProductSlug": "rimworld",
-  "Ranking_Rating": 10,
+  "Ranking_Rating": 11,
   "Ranking_Popularity": 213,
   "Ranking_PopularitySum": 155,
-  "Ranking_EOS_Progress": 732,
+  "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-06-09T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2774,6 +2774,6 @@
   "FirstSeen": "2022-07-22T20:18:32.0105732+00:00",
   "LastChanged": "2023-11-08T02:57:38.135311+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:33.3278983+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:58:13.9826485+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:08:09.1839101+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:57:34.453282+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:05:56.8720868+00:00"
 }

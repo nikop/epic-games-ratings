@@ -2,10 +2,10 @@
   "ID": "be46e9830cad476eb46085098aee4afb",
   "Name": "Oxygen Cocktail",
   "ProductSlug": "oxygen-cocktail-20cd1c",
-  "Ranking_EOS_Progress": 732,
+  "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-16T18:00:00+00:00",
     "PcReleaseDate": "2023-11-16T18:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-08T07:57:14.8492371+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:00:29.0366919+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:07:52.4244649+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:59:00.8081791+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:05:45.3854597+00:00"
 }

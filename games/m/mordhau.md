@@ -5,23 +5,23 @@ Rating: 4.39 (Ranked 744)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~761,123 |
-| The ABCs | 43.00% | ~667,925 |
-| Home Run | 41.00% | ~636,858 |
-| Keeps Coming Off | 41.00% | ~636,858 |
-| Guts | 20.00% | ~310,663 |
-| Meat Grinder | 19.00% | ~295,129 |
-| Burning Man | 16.00% | ~248,530 |
-| Lived to Tell the Tale | 12.00% | ~186,398 |
-| Highlander | 10.00% | ~155,331 |
-| Unstoppable | 10.00% | ~155,331 |
-| Just a Scratch | 9.00% | ~139,798 |
+| Justice from the Grave | 49.00% | ~761,127 |
+| The ABCs | 43.00% | ~667,928 |
+| Home Run | 41.00% | ~636,862 |
+| Keeps Coming Off | 41.00% | ~636,862 |
+| Guts | 20.00% | ~310,664 |
+| Meat Grinder | 19.00% | ~295,131 |
+| Burning Man | 16.00% | ~248,531 |
+| Lived to Tell the Tale | 12.00% | ~186,399 |
+| Highlander | 10.00% | ~155,332 |
+| Unstoppable | 10.00% | ~155,332 |
+| Just a Scratch | 9.00% | ~139,799 |
 | Tough Nut to Crack | 6.00% | ~93,199 |
 | Yoink | 6.00% | ~93,199 |
 | Long List of Names | 4.00% | ~62,133 |
 | Pyromaniac | 4.00% | ~62,133 |
 | The Queen of Weapons | 4.00% | ~62,133 |
-| This isn’t Sparta | 3.00% | ~46,599 |
+| This isn’t Sparta | 3.00% | ~46,600 |
 | Crybaby | 2.00% | ~31,066 |
 | Eagle Eye | 2.00% | ~31,066 |
 | I Know Kung Fu | 2.00% | ~31,066 |
@@ -44,7 +44,7 @@ Rating: 4.39 (Ranked 744)
 | That’s No Ordinary Cold | 0.10% | ~1,553 |
 | Stairway to Hell | 0.10% | ~1,553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,553,313 (Ranked 7)  
+Progressed: 1,553,321 (Ranked 7)  
 Completed: 68 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 68 (0.00%) (Ranked 345)
 | 2023-11-05 | 1,552,385 | 68 |
 | 2023-11-06 | 1,552,780 | 68 |
 | 2023-11-07 | 1,553,192 | 68 |
-| 2023-11-08 | 1,553,313 | 68 |
+| 2023-11-08 | 1,553,321 | 68 |
 ## Awards
 Max (Diverse Characters): 900  (Ranked 158)  
 Sum: 4,165 (Ranked 150)  

@@ -2,10 +2,10 @@
   "ID": "078713096df541f58f5fc4032efeeb2d",
   "Name": "Creepy Tale 3 - Ingrid Penance",
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
-  "Ranking_EOS_Progress": 572,
+  "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 11,
+  "EOS_Progressed": 12,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -79,6 +79,11 @@
       "Time": "2023-11-03T17:06:25.0380683+00:00",
       "NumProgressed": 11,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T12:06:24.7623681+00:00",
+      "NumProgressed": 12,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:05:23.4224547+00:00",
@@ -89,7 +94,7 @@
       "ID": "creepytale3_ach_1",
       "SetID": "7idcjbn",
       "Name": "On the good path",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -105,7 +110,7 @@
       "ID": "creepytale3_ach_11",
       "SetID": "7idcjbn",
       "Name": "Dexterity",
-      "Percentage": 64,
+      "Percentage": 58,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -113,7 +118,7 @@
       "ID": "creepytale3_ach_12",
       "SetID": "7idcjbn",
       "Name": "Exchange of pleasantries",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -121,7 +126,7 @@
       "ID": "creepytale3_ach_14",
       "SetID": "7idcjbn",
       "Name": "Dinner is served!",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -129,7 +134,7 @@
       "ID": "creepytale3_ach_15",
       "SetID": "7idcjbn",
       "Name": "Bathing time!",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -137,7 +142,7 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -153,7 +158,7 @@
       "ID": "creepytale3_ach_19",
       "SetID": "7idcjbn",
       "Name": "A deal, there is a deal.",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -177,7 +182,7 @@
       "ID": "creepytale3_ach_21",
       "SetID": "7idcjbn",
       "Name": "Larva",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -193,7 +198,7 @@
       "ID": "creepytale3_ach_23",
       "SetID": "7idcjbn",
       "Name": "Who wrote this stuff?",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -201,7 +206,7 @@
       "ID": "creepytale3_ach_24",
       "SetID": "7idcjbn",
       "Name": "Boring book!",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -209,7 +214,7 @@
       "ID": "creepytale3_ach_26",
       "SetID": "7idcjbn",
       "Name": "Trap",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -217,7 +222,7 @@
       "ID": "creepytale3_ach_27",
       "SetID": "7idcjbn",
       "Name": "Mimic",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -225,7 +230,7 @@
       "ID": "creepytale3_ach_3",
       "SetID": "7idcjbn",
       "Name": "Goodness",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -233,7 +238,7 @@
       "ID": "creepytale3_ach_31",
       "SetID": "7idcjbn",
       "Name": "An insidious ritual",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -241,7 +246,7 @@
       "ID": "creepytale3_ach_32",
       "SetID": "7idcjbn",
       "Name": "Classic",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -257,7 +262,7 @@
       "ID": "creepytale3_ach_34",
       "SetID": "7idcjbn",
       "Name": "Harvest",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -265,7 +270,7 @@
       "ID": "creepytale3_ach_35",
       "SetID": "7idcjbn",
       "Name": "Heartfelt conversations",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -281,7 +286,7 @@
       "ID": "creepytale3_ach_37",
       "SetID": "7idcjbn",
       "Name": "Inspector",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -289,7 +294,7 @@
       "ID": "creepytale3_ach_38",
       "SetID": "7idcjbn",
       "Name": "Paranoia",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -297,7 +302,7 @@
       "ID": "creepytale3_ach_39",
       "SetID": "7idcjbn",
       "Name": "Picklock style",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -313,7 +318,7 @@
       "ID": "creepytale3_ach_5",
       "SetID": "7idcjbn",
       "Name": "Bloodthirsty",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 3
     },
@@ -337,7 +342,7 @@
       "ID": "creepytale3_ach_8",
       "SetID": "7idcjbn",
       "Name": "Save mission",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -354,14 +359,14 @@
     {
       "ID": "7idcjbn",
       "IsBase": true,
-      "Progressed": 11,
+      "Progressed": 12,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:08:49.4224652+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:06:24.7623675+00:00",
   "LastUpdate_AppInfo": "2023-11-08T03:57:09.983531+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:03:49.3179563+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:08:49.4224962+00:00"
+  "LastUpdate_Ratings": "2023-11-08T12:02:58.6056477+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:06:24.7623993+00:00"
 }

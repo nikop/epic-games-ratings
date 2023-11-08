@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7785,
+  "EOS_Progressed": 7786,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5990,6 +5990,11 @@
       "Time": "2023-11-08T08:10:05.1376676+00:00",
       "NumProgressed": 7785,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T12:09:22.1812365+00:00",
+      "NumProgressed": 7786,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6106,7 +6111,7 @@
       "Name": "Upgraded Fast Recharge to Level 3",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "GPurchased1",
@@ -6114,7 +6119,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "GamesPlayed1",
@@ -6122,7 +6127,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2413
+      "UsersEstimate": 2414
     },
     {
       "ID": "GamesPlayed10",
@@ -6218,7 +6223,7 @@
       "Name": "Purchased Healing Sphere",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "HSUPurchased1",
@@ -6394,7 +6399,7 @@
       "Name": "2000 Minion Eliminations",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "NIUpgraded1",
@@ -6593,7 +6598,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7785,
+      "Progressed": 7786,
       "Completed": 1
     }
   ],
@@ -6601,8 +6606,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-07T13:03:10.353816+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:10:38.9508383+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:09:22.181236+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:00:06.1599717+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:10:38.9509609+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:58:46.1625157+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:09:22.1813745+00:00"
 }

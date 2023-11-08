@@ -84,6 +84,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Marshy March | 0.10% | ~450 |
 | Multiculturalism | 0.10% | ~450 |
 | My armies are invincible! | 0.10% | ~450 |
+| My True Friend | 0.10% | ~450 |
 | Narcissism | 0.10% | ~450 |
 | Networking | 0.10% | ~450 |
 | No Pirates in my Caribbean | 0.10% | ~450 |
@@ -260,7 +261,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mehmet's Ambition | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Mewar Never Changes | 0.00% | ~0 |
-| My True Friend | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
 | Neither Holy, Nor German | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,714 (Ranked 41)  
+Progressed: 449,738 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -572,7 +572,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
-| 2023-11-08 | 449,714 | 1 |
+| 2023-11-08 | 449,738 | 1 |
 ## Awards
 Max (Educational): 6,903  (Ranked 54)  
 Sum: 56,693 (Ranked 24)  

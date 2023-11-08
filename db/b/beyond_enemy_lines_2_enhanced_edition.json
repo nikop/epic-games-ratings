@@ -2,10 +2,10 @@
   "ID": "8c49243eef3f4c558f8035738b3613ec",
   "Name": "Beyond Enemy Lines 2 Enhanced Edition",
   "ProductSlug": "beyond-enemy-lines-2-enhanced-edition-9c7abd",
-  "Ranking_EOS_Progress": 732,
+  "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2019-08-08T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T16:57:17.8444124+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:03:28.1050274+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:08:08.5822689+00:00"
+  "LastUpdate_Ratings": "2023-11-08T12:02:44.3535043+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:05:56.4608787+00:00"
 }

@@ -20,6 +20,7 @@ Rating: 4.60 (Ranked 410)
 | From Friends to Family | 0.10% | ~5 |
 | Stronger Together | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
+| Preparation Is Everything | 0.10% | ~5 |
 | Magical Synergy | 0.10% | ~5 |
 | My Final Form | 0.10% | ~5 |
 | Seat of Power | 0.10% | ~5 |
@@ -27,11 +28,13 @@ Rating: 4.60 (Ranked 410)
 | Against the Odds | 0.10% | ~5 |
 | Impenetrable Fortress | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
+| Intimidation Tactics | 0.10% | ~5 |
 | Pruning for Progress | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
 | Tipping the Scales | 0.10% | ~5 |
+| Blood of the Dragon | 0.10% | ~5 |
 | Mighty Hoard | 0.10% | ~5 |
 | Freed Lands of Manuhari | 0.10% | ~5 |
 | Sehiran Oasis | 0.10% | ~5 |
@@ -48,11 +51,9 @@ Rating: 4.60 (Ranked 410)
 | The Creator | 0.00% | ~0 |
 | The Goddess of Nature | 0.00% | ~0 |
 | Eternal Lord | 0.00% | ~0 |
-| Preparation Is Everything | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Fiery Friend | 0.00% | ~0 |
 | Manufactured War | 0.00% | ~0 |
-| Intimidation Tactics | 0.00% | ~0 |
 | Jack of All Tomes | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
@@ -60,7 +61,6 @@ Rating: 4.60 (Ranked 410)
 | I'll Fight You All | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 | Duality | 0.00% | ~0 |
-| Blood of the Dragon | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 | Seal the Deal | 0.00% | ~0 |
 | Dawn of the Dread | 0.00% | ~0 |

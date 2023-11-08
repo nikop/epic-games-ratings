@@ -2,10 +2,10 @@
   "ID": "62b220f76b3c49768bc4ceee6d43947c",
   "Name": "Outbreak Island",
   "ProductSlug": "outbreak-island-13e71f",
-  "Ranking_EOS_Progress": 732,
+  "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T18:57:32.6767749+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:00:58.2405233+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:08:11.7055837+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:59:18.5571661+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:05:58.6600083+00:00"
 }

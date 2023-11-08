@@ -7,7 +7,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | V for Vendetta | 2.00% | ~17,915 |
-| Gun Fu | 1.00% | ~8,957 |
+| Gun Fu | 1.00% | ~8,958 |
 | Relic Ruler | 0.70% | ~171 |
 | Full Body Conversion | 0.50% | ~4,479 |
 | Right Back At Ya | 0.40% | ~3,583 |
@@ -24,16 +24,16 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.30% | ~2,687 |
 | Legend of The Afterlife | 0.30% | ~2,687 |
 | Spin Doctor | 0.30% | ~73 |
-| Bushido and Chill | 0.20% | ~1,791 |
-| To Protect and Serve | 0.20% | ~1,791 |
-| The Wandering Fool | 0.20% | ~1,791 |
-| Master Crafter | 0.20% | ~1,791 |
-| I Am The Law | 0.20% | ~1,791 |
-| The Fool | 0.20% | ~1,791 |
-| The High Priestess | 0.20% | ~1,791 |
-| The World | 0.20% | ~1,791 |
-| Two Heads, One Bullet | 0.20% | ~1,791 |
-| Judy vs Night City | 0.20% | ~1,791 |
+| Bushido and Chill | 0.20% | ~1,792 |
+| To Protect and Serve | 0.20% | ~1,792 |
+| The Wandering Fool | 0.20% | ~1,792 |
+| Master Crafter | 0.20% | ~1,792 |
+| I Am The Law | 0.20% | ~1,792 |
+| The Fool | 0.20% | ~1,792 |
+| The High Priestess | 0.20% | ~1,792 |
+| The World | 0.20% | ~1,792 |
+| Two Heads, One Bullet | 0.20% | ~1,792 |
+| Judy vs Night City | 0.20% | ~1,792 |
 | King of Wands | 0.20% | ~49 |
 | Dirty Deeds | 0.20% | ~49 |
 | Easy Come, Easy Go | 0.20% | ~49 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,746 (Ranked 15)  
+Progressed: 895,751 (Ranked 15)  
 Completed: 2,754 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 2,754 (0.31%) (Ranked 222)
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
 | 2023-11-07 | 895,712 | 2,753 |
-| 2023-11-08 | 895,746 | 2,754 |
+| 2023-11-08 | 895,751 | 2,754 |
 ## Awards
 Max (Character Customization): 104,395  (Ranked 9)  
 Sum: 346,259 (Ranked 10)  

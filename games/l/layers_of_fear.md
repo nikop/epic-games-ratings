@@ -14,7 +14,7 @@
 | It's covered up for a reason | 37.00% | ~22 |
 | Sign of weakness | 36.00% | ~21 |
 | Finished it | 29.00% | ~17 |
-| Face your fears | 19.00% | ~11 |
+| Face your fears | 20.00% | ~12 |
 | First steps | 14.00% | ~8 |
 | Playtime | 14.00% | ~8 |
 | Tough conversation | 14.00% | ~8 |

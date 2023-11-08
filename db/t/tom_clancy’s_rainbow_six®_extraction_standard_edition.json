@@ -4,11 +4,11 @@
   "ProductSlug": "rainbow-six-extraction",
   "Ranking_Rating": 586,
   "Ranking_Popularity": 301,
-  "Ranking_PopularitySum": 252,
-  "Ranking_EOS_Progress": 732,
+  "Ranking_PopularitySum": 253,
+  "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-01-20T05:00:00+00:00",
     "PcReleaseDate": "2022-01-20T05:00:00+00:00",
@@ -2284,6 +2284,6 @@
   "FirstSeen": "2022-07-22T20:22:18.7941234+00:00",
   "LastChanged": "2023-11-05T14:58:00.1944258+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.1173801+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:00:52.1223648+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:10:24.4530848+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:59:14.7623564+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:09:11.0017969+00:00"
 }

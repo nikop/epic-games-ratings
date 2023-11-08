@@ -2,10 +2,10 @@
   "ID": "4c82d55f22d3437c96cf3e0fcb53b73f",
   "Name": "Agatha Christie - Hercule Poirot: The London Case",
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
-  "Ranking_EOS_Progress": 507,
+  "Ranking_EOS_Progress": 508,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 29,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
@@ -559,8 +559,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:04:36.1213027+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:03:30.4122406+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:40.2553683+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:03:47.9183979+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:04:36.1213459+00:00"
+  "LastUpdate_Ratings": "2023-11-08T12:02:57.7484632+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:03:30.4122842+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 244,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -3981,9 +3981,9 @@
       "Count": 277
     }
   ],
-  "EOS_Progressed": 218792,
+  "EOS_Progressed": 218800,
   "EOS_Completed": 434,
-  "EOS_NewPlayers": 2788,
+  "EOS_NewPlayers": 2738,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17056,6 +17056,11 @@
       "Time": "2023-11-08T11:07:57.6547654+00:00",
       "NumProgressed": 218792,
       "NumCompleted": 434
+    },
+    {
+      "Time": "2023-11-08T12:05:48.95268+00:00",
+      "NumProgressed": 218800,
+      "NumCompleted": 434
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17068,7 +17073,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15316
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -17148,7 +17153,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17503
+      "UsersEstimate": 17504
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -17188,7 +17193,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15316
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -17252,7 +17257,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19691
+      "UsersEstimate": 19692
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -17372,7 +17377,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15315
+      "UsersEstimate": 15316
     },
     {
       "ID": "Obtain_Traits_B",
@@ -17467,7 +17472,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218792,
+      "Progressed": 218800,
       "Completed": 434
     }
   ],
@@ -17475,8 +17480,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-08T10:03:25.8799118+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:07:57.6547647+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:05:48.9526793+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:03:52.5850357+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:07:57.6549114+00:00"
+  "LastUpdate_Ratings": "2023-11-08T12:03:00.4510092+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:05:48.9528207+00:00"
 }

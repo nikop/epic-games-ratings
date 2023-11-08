@@ -11,12 +11,12 @@
 | Sport is good for you | 5.00% | ~19 |
 | I like my life | 4.00% | ~15 |
 | The woodcutter | 4.00% | ~15 |
+| Bucolic city | 4.00% | ~15 |
 | Soviet town | 4.00% | ~15 |
 | I like books | 3.00% | ~12 |
 | Clean energy | 3.00% | ~12 |
-| Bucolic city | 3.00% | ~12 |
+| I love parks | 2.00% | ~8 |
 | I love books! | 1.00% | ~4 |
-| I love parks | 1.00% | ~4 |
 | King of fish | 0.80% | ~3 |
 | Food producer | 0.50% | ~2 |
 | City crisis | 0.50% | ~2 |

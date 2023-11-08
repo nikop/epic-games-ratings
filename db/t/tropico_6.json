@@ -2,13 +2,13 @@
   "ID": "e1055bf1e5654b93a27e19e6bb86cb2a",
   "Name": "Tropico 6",
   "ProductSlug": "tropico-6",
-  "Ranking_Rating": 292,
+  "Ranking_Rating": 291,
   "Ranking_Popularity": 356,
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1349,7 +1349,7 @@
   ],
   "EOS_Progressed": 5842,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12764,8 +12764,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-03T19:58:07.8489681+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:10:34.3902031+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:09:18.3754851+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.1282192+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:02:09.6138782+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:10:34.390303+00:00"
+  "LastUpdate_Ratings": "2023-11-08T12:00:04.3790106+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:09:18.3756085+00:00"
 }

@@ -10209,9 +10209,9 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 301672,
+  "EOS_Progressed": 301673,
   "EOS_Completed": 504,
-  "EOS_NewPlayers": 1638,
+  "EOS_NewPlayers": 1630,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -31894,6 +31894,11 @@
       "Time": "2023-11-08T11:10:17.7847939+00:00",
       "NumProgressed": 301672,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-11-08T12:09:06.5684117+00:00",
+      "NumProgressed": 301673,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 45,
@@ -32209,7 +32214,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27150
+      "UsersEstimate": 27151
     },
     {
       "ID": "PFA_45",
@@ -32257,14 +32262,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 27150
+      "UsersEstimate": 27151
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301672,
+      "Progressed": 301673,
       "Completed": 504
     }
   ],
@@ -32272,8 +32277,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-08T09:57:55.1406935+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:10:17.7847933+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:09:06.5684111+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:58:26.7706219+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:10:17.7850029+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:57:42.2749009+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:09:06.5686464+00:00"
 }

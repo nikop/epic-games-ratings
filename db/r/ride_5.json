@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2049,
+  "EOS_Progressed": 2050,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4527,6 +4527,11 @@
       "Time": "2023-11-08T10:09:46.0858976+00:00",
       "NumProgressed": 2049,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T12:09:20.3490929+00:00",
+      "NumProgressed": 2050,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4539,7 +4544,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 881
+      "UsersEstimate": 882
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4547,7 +4552,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4571,7 +4576,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4595,7 +4600,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4619,7 +4624,7 @@
       "Name": "Spoilt for Choice",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_12",
@@ -4627,7 +4632,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4667,7 +4672,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -4675,7 +4680,7 @@
       "Name": "La Dolce Vita",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -4691,7 +4696,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -4699,7 +4704,7 @@
       "Name": "Romantic Races",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -4795,7 +4800,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -4851,7 +4856,7 @@
       "Name": "Rounding Off",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -4930,14 +4935,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2049,
+      "Progressed": 2050,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:10:37.0150892+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:09:20.3490923+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:57:45.8932998+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:10:37.0151823+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:57:17.8681498+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:09:20.3491811+00:00"
 }

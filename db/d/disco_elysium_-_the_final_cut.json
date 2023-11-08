@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130591,
+  "EOS_Progressed": 130592,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 253,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21332,6 +21332,11 @@
       "Time": "2023-11-08T09:06:10.315555+00:00",
       "NumProgressed": 130591,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-08T12:06:15.3397526+00:00",
+      "NumProgressed": 130592,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21375,7 +21380,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23506
+      "UsersEstimate": 23507
     },
     {
       "ID": "ACH_COP_BAD",
@@ -21423,7 +21428,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36565
+      "UsersEstimate": 36566
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21535,7 +21540,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7835
+      "UsersEstimate": 7836
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -21662,15 +21667,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130591,
+      "Progressed": 130592,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:08:36.0215115+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:06:15.3397521+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:01:46.9985964+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:08:36.0216949+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:59:49.7646898+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:06:15.3399379+00:00"
 }

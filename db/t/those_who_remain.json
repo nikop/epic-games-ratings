@@ -2,10 +2,10 @@
   "ID": "8734719880bd4649bed766a32ff991f8",
   "Name": "Those Who Remain",
   "ProductSlug": "those-who-remain",
-  "Ranking_EOS_Progress": 732,
+  "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-11-02T16:00:00+00:00",
     "PcReleaseDate": "2020-05-28T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.5795423+00:00",
   "LastChanged": "2023-03-31T05:57:42.5795424+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.4428377+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:02:11.7144959+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:06:12.8203566+00:00"
+  "LastUpdate_Ratings": "2023-11-08T12:00:06.3429191+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:04:36.7057861+00:00"
 }

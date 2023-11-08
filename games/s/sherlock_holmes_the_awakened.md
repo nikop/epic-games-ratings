@@ -1,17 +1,17 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.66 (Ranked 292)  
+Rating: 4.66 (Ranked 291)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 66.00% | ~528 |
-| To Hell In A Handcart | 66.00% | ~528 |
-| High Profile | 60.00% | ~480 |
-| Whispers In The Dark | 58.00% | ~464 |
-| Fond Memories | 56.00% | ~448 |
-| A Method To His Madness | 54.00% | ~432 |
-| History Check | 53.00% | ~424 |
+| Read Between The Lines | 66.00% | ~529 |
+| To Hell In A Handcart | 66.00% | ~529 |
+| High Profile | 60.00% | ~481 |
+| Whispers In The Dark | 58.00% | ~465 |
+| Fond Memories | 56.00% | ~449 |
+| A Method To His Madness | 54.00% | ~433 |
+| History Check | 53.00% | ~425 |
 | The New World | 50.00% | ~400 |
 | Gaze Into The Abyss | 49.00% | ~392 |
 | Open Sesame | 49.00% | ~392 |
@@ -19,23 +19,23 @@ Rating: 4.66 (Ranked 292)
 | Knives Out | 49.00% | ~392 |
 | Lock, Stock, And Barrel | 48.00% | ~384 |
 | Land, Ho! | 48.00% | ~384 |
-| Back In The Saddle | 47.00% | ~376 |
 | No Man Is An Island | 47.00% | ~376 |
+| Back In The Saddle | 46.00% | ~368 |
 | At Wits' End | 46.00% | ~368 |
 | Fhtagn! | 45.00% | ~360 |
 | Up In Flames | 44.00% | ~352 |
 | Bookworm | 43.00% | ~344 |
 | Going Once... | 40.00% | ~320 |
 | Let Me Be Frank | 38.00% | ~304 |
-| No Stone Unturned | 37.00% | ~296 |
 | Brain Food | 36.00% | ~288 |
+| No Stone Unturned | 36.00% | ~288 |
 | Read It And Weep | 22.00% | ~176 |
 | Curiosity Killed The Cat | 19.00% | ~152 |
 | Big Breakthrough | 14.00% | ~112 |
 | Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 800 (Ranked 264)  
-Completed: 27 (3.38%) (Ranked 87)  
+Progressed: 801 (Ranked 264)  
+Completed: 27 (3.37%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -204,6 +204,7 @@ Completed: 27 (3.38%) (Ranked 87)
 | 2023-11-04 | 796 | 26 |
 | 2023-11-05 | 799 | 27 |
 | 2023-11-06 | 800 | 27 |
+| 2023-11-08 | 801 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

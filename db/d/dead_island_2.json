@@ -6193,10 +6193,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10888,
       "NumberOfAwardsMax": 7178
+    },
+    {
+      "Time": "2023-11-08T11:58:17.7761574+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10890,
+      "NumberOfAwardsMax": 7178
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10888,
+  "NumberOfAwards": 10890,
   "NumberOfAwardsMax": 7178,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6234,7 +6240,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 400
+      "Count": 402
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6255,9 +6261,9 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 714884,
+  "EOS_Progressed": 714905,
   "EOS_Completed": 2357,
-  "EOS_NewPlayers": 5009,
+  "EOS_NewPlayers": 4982,
   "EOS_NewCompleters": 65,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29290,6 +29296,11 @@
       "Time": "2023-11-08T11:07:45.936675+00:00",
       "NumProgressed": 714884,
       "NumCompleted": 2357
+    },
+    {
+      "Time": "2023-11-08T12:05:40.9463255+00:00",
+      "NumProgressed": 714905,
+      "NumCompleted": 2357
     }
   ],
   "TotalAchievements": 51,
@@ -29461,7 +29472,7 @@
       "Name": "Hotel California",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3575
     },
     {
       "ID": "ach_impressive_aim",
@@ -29547,9 +29558,9 @@
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 2145
     },
     {
       "ID": "ach_salvation",
@@ -29637,7 +29648,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3574
+      "UsersEstimate": 3575
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29708,22 +29719,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714884,
+      "Progressed": 714905,
       "Completed": 2357
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40426,
+      "Progressed": 40447,
       "Completed": 36493
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-08T04:58:52.587653+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:07:45.9366743+00:00",
+  "LastChanged": "2023-11-08T11:58:17.7761573+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:05:40.9463248+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:59:21.2782226+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:07:45.9369036+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:58:17.7761578+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:05:40.9465173+00:00"
 }

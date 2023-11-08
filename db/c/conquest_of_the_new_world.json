@@ -2,10 +2,10 @@
   "ID": "38d2c48fbfe04c8dbec95b60b5eefcb4",
   "Name": "Conquest of the New World",
   "ProductSlug": "conquest-of-the-new-world-f321f0",
-  "Ranking_EOS_Progress": 732,
+  "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-02T16:00:00+00:00",
     "PcReleaseDate": "2022-09-02T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:14.8395098+00:00",
   "LastChanged": "2023-03-31T05:58:14.8395099+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:07.9755752+00:00",
-  "LastUpdate_Ratings": "2023-11-08T11:02:24.0806885+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:07:02.5829609+00:00"
+  "LastUpdate_Ratings": "2023-11-08T12:00:15.0511311+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:05:10.5181986+00:00"
 }

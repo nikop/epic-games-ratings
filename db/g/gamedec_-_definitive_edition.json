@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -477,9 +477,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 251432,
+  "EOS_Progressed": 251434,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23067,6 +23067,11 @@
       "Time": "2023-11-08T11:07:13.1119116+00:00",
       "NumProgressed": 251432,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T12:05:18.2519689+00:00",
+      "NumProgressed": 251434,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23222,7 +23227,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70401
+      "UsersEstimate": 70402
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -23493,7 +23498,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251432,
+      "Progressed": 251434,
       "Completed": 7
     }
   ],
@@ -23501,8 +23506,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-08T11:07:13.111911+00:00",
+  "LastChanged_Achievements": "2023-11-08T12:05:18.2519683+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.5962658+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:59:52.1783389+00:00",
-  "LastUpdate_Achievements": "2023-11-08T11:07:13.1121272+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:58:37.4157168+00:00",
+  "LastUpdate_Achievements": "2023-11-08T12:05:18.252198+00:00"
 }

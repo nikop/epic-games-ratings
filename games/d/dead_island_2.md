@@ -8,8 +8,8 @@ Rating: 4.54 (Ranked 523)
 | Whatever It Takes | 2.00% | ~809 |
 | One of Us | 1.00% | ~404 |
 | Pork Chopped | 1.00% | ~404 |
-| Hotel California | 0.50% | ~3,574 |
-| Welcome To Hell-A | 0.50% | ~3,574 |
+| Hotel California | 0.50% | ~3,575 |
+| Welcome To Hell-A | 0.50% | ~3,575 |
 | Dr. Reed, I Presume? | 0.40% | ~2,860 |
 | Git Gutte! | 0.40% | ~2,860 |
 | Anger Management | 0.40% | ~2,860 |
@@ -30,6 +30,7 @@ Rating: 4.54 (Ranked 523)
 | Zombologist | 0.30% | ~2,145 |
 | Ooh, Shiny! | 0.30% | ~2,145 |
 | A Patton Emerges | 0.30% | ~2,145 |
+| I Am the Resurrection | 0.30% | ~2,145 |
 | Stacking the Deck | 0.30% | ~2,145 |
 | Max Headroom | 0.30% | ~2,145 |
 | Our True Nature | 0.30% | ~2,145 |
@@ -38,7 +39,6 @@ Rating: 4.54 (Ranked 523)
 | On Safari | 0.20% | ~1,430 |
 | Jumbo Keyring | 0.20% | ~1,430 |
 | Humanity Distilled | 0.20% | ~1,430 |
-| I Am the Resurrection | 0.20% | ~1,430 |
 | Down with the Sickness | 0.20% | ~1,430 |
 | Go, Bobcats! | 0.20% | ~1,430 |
 | Variety is the Spice of Death | 0.20% | ~1,430 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,884 (Ranked 21)  
+Progressed: 714,905 (Ranked 21)  
 Completed: 2,357 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,10 +259,10 @@ Completed: 2,357 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 714,884 | 2,357 |
+| 2023-11-08 | 714,905 | 2,357 |
 ## Awards
 Max (Great Boss Battles): 7,178  (Ranked 53)  
-Sum: 10,888 (Ranked 87)  
+Sum: 10,890 (Ranked 87)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -274,7 +274,7 @@ Diff (max vs sum): -34
 | This game has Amazing Storytelling | 445 |
 | This game is Highly Recommended | 432 |
 | This game is Extremely Fun | 425 |
-| This game has Amazing Characters | 400 |
+| This game has Amazing Characters | 402 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -479,4 +479,4 @@ Diff (max vs sum): -34
 | 2023-11-05 | 4.54 | 7,072 | 10,687 |
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
-| 2023-11-08 | 4.54 | 7,178 | 10,888 |
+| 2023-11-08 | 4.54 | 7,178 | 10,890 |
