@@ -16,7 +16,7 @@ Number of Ratings: 20  (23.09.2022)
 | Spooky! | 37.00% | ~125 |
 | Shennong Herbalist | 33.00% | ~111 |
 | Treasure Hunt | 33.00% | ~111 |
-| Good Mama | 31.00% | ~104 |
+| Good Mama | 32.00% | ~108 |
 | O Captain My Captain | 30.00% | ~101 |
 | Plunderer | 27.00% | ~91 |
 | Taxonomist | 26.00% | ~88 |

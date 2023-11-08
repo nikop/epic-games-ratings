@@ -3,8 +3,8 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 410,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 144,
@@ -171,7 +171,7 @@
   "Tags": [],
   "EOS_Progressed": 7625,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 203,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6398,9 +6398,9 @@
       "ID": "CHAPTER_4_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Open the Gate!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2592
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -6669,8 +6669,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-08T14:10:20.897662+00:00",
+  "LastChanged_Achievements": "2023-11-08T15:09:19.2210699+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:03:21.7893884+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:10:20.8977512+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:02:59.2316121+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:09:19.2211202+00:00"
 }

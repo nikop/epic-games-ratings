@@ -35,6 +35,7 @@ Rating: 4.60 (Ranked 410)
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
+| Here be Dragons | 0.10% | ~5 |
 | Tipping the Scales | 0.10% | ~5 |
 | Blood of the Dragon | 0.10% | ~5 |
 | Mighty Hoard | 0.10% | ~5 |
@@ -42,6 +43,7 @@ Rating: 4.60 (Ranked 410)
 | Sehiran Oasis | 0.10% | ~5 |
 | Prometheus Avenged | 0.10% | ~5 |
 | Chaos Surge | 0.10% | ~5 |
+| Seal the Deal | 0.10% | ~5 |
 | A Conqueror's Cohort | 0.10% | ~5 |
 | Spoils of War | 0.10% | ~5 |
 | Dawn of the Dread | 0.10% | ~5 |
@@ -60,10 +62,8 @@ Rating: 4.60 (Ranked 410)
 | The Grey Wizard | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
-| Here be Dragons | 0.00% | ~0 |
 | Duality | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
-| Seal the Deal | 0.00% | ~0 |
 | A Very Special Ring | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,291 (Ranked 183)  

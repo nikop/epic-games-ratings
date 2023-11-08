@@ -13,7 +13,7 @@ Rating: 4.60 (Ranked 410)
 | Miner 49er | 43.00% | ~3,279 |
 | Humble Collector | 42.00% | ~3,202 |
 | Calm Sailing | 36.00% | ~2,745 |
-| Open the Gate! | 33.00% | ~2,516 |
+| Open the Gate! | 34.00% | ~2,592 |
 | Mist Walker | 32.00% | ~2,440 |
 | Lumberjack | 27.00% | ~2,059 |
 | Oui, Chef! | 23.00% | ~1,754 |

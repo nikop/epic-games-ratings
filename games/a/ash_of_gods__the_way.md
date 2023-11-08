@@ -5,12 +5,12 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 100.00% | ~31 |
-| Suicide squad | 52.00% | ~16 |
-| First blood | 29.00% | ~9 |
-| Train hard, fight easy | 26.00% | ~8 |
-| Under cover | 26.00% | ~8 |
+| Suicide squad | 55.00% | ~17 |
+| First blood | 32.00% | ~10 |
+| Train hard, fight easy | 29.00% | ~9 |
+| Under cover | 29.00% | ~9 |
+| Royal blessing | 23.00% | ~7 |
 | All for one! | 19.00% | ~6 |
-| Royal blessing | 19.00% | ~6 |
 | A hidden snake | 19.00% | ~6 |
 | Power of Inquisition | 16.00% | ~5 |
 | Blood and sand | 16.00% | ~5 |

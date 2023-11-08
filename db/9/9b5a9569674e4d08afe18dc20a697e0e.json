@@ -4,8 +4,8 @@
   "ProductSlug": "arons-adventure-1e76cd",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -296,8 +296,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2023-11-08T14:06:37.6147198+00:00",
+  "LastChanged_Achievements": "2023-11-08T15:05:40.2691947+00:00",
   "LastUpdate_AppInfo": "2023-11-01T20:57:07.3462919+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:59:31.0717469+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:06:37.6149441+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:58:48.0787045+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:05:40.2692134+00:00"
 }

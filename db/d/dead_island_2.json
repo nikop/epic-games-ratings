@@ -6261,9 +6261,9 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 714949,
+  "EOS_Progressed": 714968,
   "EOS_Completed": 2357,
-  "EOS_NewPlayers": 4918,
+  "EOS_NewPlayers": 4888,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29311,6 +29311,11 @@
       "Time": "2023-11-08T14:07:57.2290269+00:00",
       "NumProgressed": 714949,
       "NumCompleted": 2357
+    },
+    {
+      "Time": "2023-11-08T15:06:47.4304722+00:00",
+      "NumProgressed": 714968,
+      "NumCompleted": 2357
     }
   ],
   "TotalAchievements": 51,
@@ -29592,9 +29597,9 @@
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_star_performance",
@@ -29640,9 +29645,9 @@
       "ID": "ach_this_is_my_weapon",
       "SetID": "7km39fm",
       "Name": "This is My Weapon",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2145
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -29698,7 +29703,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_pork_chops",
@@ -29714,7 +29719,7 @@
       "Name": "Wilhelm",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_zombie_predator",
@@ -29729,13 +29734,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714949,
+      "Progressed": 714968,
       "Completed": 2357
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40491,
+      "Progressed": 40510,
       "Completed": 36494
     }
   ],
@@ -29743,8 +29748,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-08T11:58:17.7761573+00:00",
-  "LastChanged_Achievements": "2023-11-08T14:07:57.2290264+00:00",
+  "LastChanged_Achievements": "2023-11-08T15:06:47.4304717+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:59:29.1560715+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:07:57.2292918+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:58:46.5869715+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:06:47.430619+00:00"
 }

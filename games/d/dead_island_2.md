@@ -19,7 +19,9 @@ Rating: 4.54 (Ranked 522)
 | Hazardous Materials | 0.40% | ~2,860 |
 | Friends Like These | 0.40% | ~2,860 |
 | Apex Predator | 0.40% | ~2,860 |
+| Stacking the Deck | 0.40% | ~2,860 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,860 |
+| This is My Weapon | 0.40% | ~2,860 |
 | Perks of the Job | 0.30% | ~2,145 |
 | I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,145 |
 | But Doctor, I am Butcho | 0.30% | ~2,145 |
@@ -31,10 +33,8 @@ Rating: 4.54 (Ranked 522)
 | Ooh, Shiny! | 0.30% | ~2,145 |
 | A Patton Emerges | 0.30% | ~2,145 |
 | I Am the Resurrection | 0.30% | ~2,145 |
-| Stacking the Deck | 0.30% | ~2,145 |
 | Max Headroom | 0.30% | ~2,145 |
 | Our True Nature | 0.30% | ~2,145 |
-| This is My Weapon | 0.30% | ~2,145 |
 | Making Your Mark | 0.20% | ~1,430 |
 | On Safari | 0.20% | ~1,430 |
 | Jumbo Keyring | 0.20% | ~1,430 |
@@ -54,10 +54,10 @@ Rating: 4.54 (Ranked 522)
 | Sharpest Tool in the Box | 0.10% | ~715 |
 | Survival Skills | 0.10% | ~715 |
 | Bucket List | 0.10% | ~715 |
-| Lawn and Order | 0.10% | ~40 |
-| Wilhelm | 0.10% | ~40 |
+| Lawn and Order | 0.10% | ~41 |
+| Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,949 (Ranked 21)  
+Progressed: 714,968 (Ranked 21)  
 Completed: 2,357 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2,357 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 714,949 | 2,357 |
+| 2023-11-08 | 714,968 | 2,357 |
 ## Awards
 Max (Great Boss Battles): 7,178  (Ranked 54)  
 Sum: 10,890 (Ranked 87)  

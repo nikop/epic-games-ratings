@@ -6,8 +6,8 @@ Number of Ratings: 75  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level: Returning Home | 49.00% | ~2,725 |
-| Returning Home: Quick Learner | 26.00% | ~1,446 |
+| Level: Returning Home | 49.00% | ~2,726 |
+| Returning Home: Quick Learner | 26.00% | ~1,447 |
 | Level: Charlie's Circuits | 22.00% | ~1,224 |
 | Level: Rising Markets | 9.00% | ~501 |
 | Peddler | 8.00% | ~445 |
@@ -17,9 +17,9 @@ Number of Ratings: 75  (23.09.2022)
 | Millionaire | 6.00% | ~334 |
 | Data Churn Type II | 5.00% | ~278 |
 | Speedy | 5.00% | ~278 |
-| Extra Life: Wish Granted | 4.00% | ~222 |
-| High Five! | 4.00% | ~222 |
-| Modular Progress | 4.00% | ~222 |
+| Extra Life: Wish Granted | 4.00% | ~223 |
+| High Five! | 4.00% | ~223 |
+| Modular Progress | 4.00% | ~223 |
 | Campaign: Lesson Learned | 3.00% | ~167 |
 | Level: Bet On Bots | 3.00% | ~167 |
 | Modular Performance | 3.00% | ~167 |
@@ -44,7 +44,7 @@ Number of Ratings: 75  (23.09.2022)
 | Keen Eye | 1.00% | ~56 |
 | Level: Topple The Top | 0.90% | ~50 |
 | Tycoon | 0.90% | ~50 |
-| Bet On Bots: Safety First | 0.80% | ~44 |
+| Bet On Bots: Safety First | 0.80% | ~45 |
 | Merry-Go-Around: Self-Made | 0.70% | ~39 |
 | Level: Eye In The Sky | 0.60% | ~33 |
 | Bet On Bots: Inspector's Favorite | 0.60% | ~33 |
@@ -83,7 +83,7 @@ Number of Ratings: 75  (23.09.2022)
 | Know-it-all | 0.10% | ~6 |
 | Prestigious | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,562 (Ranked 180)  
+Progressed: 5,564 (Ranked 180)  
 Completed: 1 (0.02%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 1 (0.02%) (Ranked 314)
 | 2023-11-05 | 5,557 | 1 |
 | 2023-11-06 | 5,560 | 1 |
 | 2023-11-07 | 5,561 | 1 |
-| 2023-11-08 | 5,562 | 1 |
+| 2023-11-08 | 5,564 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

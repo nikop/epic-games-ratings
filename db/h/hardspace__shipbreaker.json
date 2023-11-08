@@ -3,12 +3,12 @@
   "Name": "Hardspace: Shipbreaker",
   "ProductSlug": "hardspace-shipbreaker",
   "Ranking_Rating": 291,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 256,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 548,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 951,
+  "EOS_Progressed": 952,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1922,6 +1922,11 @@
       "Time": "2023-11-08T10:03:57.73808+00:00",
       "NumProgressed": 951,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T15:04:05.105669+00:00",
+      "NumProgressed": 952,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2013,7 +2018,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2029,7 +2034,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2085,7 +2090,7 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
@@ -2093,7 +2098,7 @@
       "Name": "Let\u2019s patch things up",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2109,7 +2114,7 @@
       "Name": "Post No Bills",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2141,14 +2146,14 @@
       "Name": "Truly Shocking!",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     }
   ],
   "AchievementSets": [
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 951,
+      "Progressed": 952,
       "Completed": 0
     }
   ],
@@ -2156,8 +2161,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-11-08T14:04:43.5155582+00:00",
+  "LastChanged_Achievements": "2023-11-08T15:04:05.1056683+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:01.9640751+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:01:41.059828+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:04:43.515588+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:00:39.1005125+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:04:05.1056923+00:00"
 }

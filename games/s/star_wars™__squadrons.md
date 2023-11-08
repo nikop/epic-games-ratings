@@ -4,33 +4,33 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 94.00% | ~16,872 |
-| Safety in the Storm | 24.00% | ~4,308 |
-| A Better Idea | 24.00% | ~4,308 |
-| Begin the Ceremony | 20.00% | ~3,590 |
-| Mission Accomplished | 19.00% | ~3,410 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,692 |
-| A Starfighter of Your Own | 14.00% | ~2,513 |
-| Asset Secured | 13.00% | ~2,333 |
-| Unkillable | 8.00% | ~1,436 |
-| Together, Vanguard | 7.00% | ~1,256 |
+| Fracture at Fostar Haven | 94.00% | ~16,881 |
+| Safety in the Storm | 24.00% | ~4,310 |
+| A Better Idea | 24.00% | ~4,310 |
+| Begin the Ceremony | 20.00% | ~3,592 |
+| Mission Accomplished | 19.00% | ~3,412 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,694 |
+| A Starfighter of Your Own | 14.00% | ~2,514 |
+| Asset Secured | 13.00% | ~2,335 |
+| Unkillable | 8.00% | ~1,437 |
+| Together, Vanguard | 7.00% | ~1,257 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,077 |
 | Sound Strategy | 6.00% | ~1,077 |
-| Fearless | 5.00% | ~897 |
-| Flames Over Mon Cala | 5.00% | ~897 |
-| Stomped | 5.00% | ~897 |
-| A Promising Career | 5.00% | ~897 |
+| Fearless | 5.00% | ~898 |
+| Flames Over Mon Cala | 5.00% | ~898 |
+| Stomped | 5.00% | ~898 |
+| A Promising Career | 5.00% | ~898 |
 | Great Shot, Kid | 4.00% | ~718 |
 | Back From the Brink | 4.00% | ~718 |
 | Temporary Guardian | 4.00% | ~718 |
 | Baited | 4.00% | ~718 |
-| Stronger Together | 3.00% | ~538 |
-| Squadron Hunter | 3.00% | ~538 |
-| Punch It | 3.00% | ~538 |
-| Combat Pilot | 3.00% | ~538 |
+| Stronger Together | 3.00% | ~539 |
+| Squadron Hunter | 3.00% | ~539 |
+| Punch It | 3.00% | ~539 |
+| Combat Pilot | 3.00% | ~539 |
 | Stun 'Em | 2.00% | ~359 |
 | Dressed for the Job You Want | 2.00% | ~359 |
-| I Have You Now | 1.00% | ~179 |
+| I Have You Now | 1.00% | ~180 |
 | Against the Current | 0.90% | ~162 |
 | Denied | 0.80% | ~144 |
 | Found Your Place | 0.70% | ~126 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~18 |
 | The Galaxy's Finest (Ace) | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,949 (Ranked 138)  
+Progressed: 17,958 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,7 +105,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-05 | 17,359 | 1 |
 | 2023-11-06 | 17,592 | 1 |
 | 2023-11-07 | 17,833 | 1 |
-| 2023-11-08 | 17,949 | 1 |
+| 2023-11-08 | 17,958 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

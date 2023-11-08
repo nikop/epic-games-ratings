@@ -2,13 +2,13 @@
   "ID": "0584d2013f0149a791e7b9bad0eec102",
   "Name": "Grand Theft Auto V: Premium Edition",
   "ProductSlug": "grand-theft-auto-v",
-  "Ranking_Rating": 250,
+  "Ranking_Rating": 251,
   "Ranking_Popularity": 4,
   "Ranking_PopularitySum": 3,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-05-14T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -9299,10 +9299,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1753269,
       "NumberOfAwardsMax": 255870
+    },
+    {
+      "Time": "2023-11-08T15:02:47.1182923+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1754045,
+      "NumberOfAwardsMax": 255870
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1753269,
+  "NumberOfAwards": 1754045,
   "NumberOfAwardsMax": 255870,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9310,7 +9316,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 222509
+      "Count": 222778
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9328,13 +9334,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 206889
+      "Count": 207143
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 208915
+      "Count": 209168
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9378,8 +9384,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:49.586898+00:00",
-  "LastChanged": "2023-11-08T14:03:08.4926014+00:00",
+  "LastChanged": "2023-11-08T15:02:47.1182922+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.1130053+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:03:08.4926021+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:06:29.3378017+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:02:47.1182927+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:05:33.4479241+00:00"
 }

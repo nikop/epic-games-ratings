@@ -1,7 +1,7 @@
 # The Crew® – Standard Edition
 [Store](https://store.epicgames.com/en-US/p/the-crew)  
 [View Rawdata](../../db/t/the_crew®_–_standard_edition.json)  
-Rating: 4.68 (Ranked 250)  
+Rating: 4.67 (Ranked 272)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -57,3 +57,4 @@ Rating: 4.68 (Ranked 250)
 | 2023-09-30 | 4.68 | 0 | 0 |
 | 2023-10-04 | 4.67 | 0 | 0 |
 | 2023-10-13 | 4.68 | 0 | 0 |
+| 2023-11-08 | 4.67 | 0 | 0 |

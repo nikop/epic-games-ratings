@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.95 (Ranked 1,003)  
+Rating: 3.94 (Ranked 1,006)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,003)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,737 (Ranked 91)  
+Progressed: 89,746 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,15 +249,15 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-05 | 89,585 | 55 |
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
-| 2023-11-08 | 89,737 | 55 |
+| 2023-11-08 | 89,746 | 55 |
 ## Awards
 Max (Diverse Characters): 522  (Ranked 204)  
-Sum: 2,966 (Ranked 175)  
+Sum: 2,968 (Ranked 175)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 522 |
-| This game is Highly Recommended | 502 |
+| This game is Highly Recommended | 504 |
 | This game has Quickly Understood Controls | 496 |
 | This game has Challenging Combat | 487 |
 | This game is Extremely Fun | 484 |
@@ -488,4 +488,4 @@ Diff (max vs sum): 29
 | 2023-11-05 | 3.95 | 522 | 2,952 |
 | 2023-11-06 | 3.95 | 522 | 2,960 |
 | 2023-11-07 | 3.95 | 522 | 2,964 |
-| 2023-11-08 | 3.95 | 522 | 2,966 |
+| 2023-11-08 | 3.95 | 522 | 2,968 |

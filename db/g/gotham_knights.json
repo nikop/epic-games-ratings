@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4049,9 +4049,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76159,
+  "EOS_Progressed": 76160,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 519,
+  "EOS_NewPlayers": 514,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21909,6 +21909,11 @@
       "Time": "2023-11-08T12:05:49.0410082+00:00",
       "NumProgressed": 76159,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-08T15:06:57.4646318+00:00",
+      "NumProgressed": 76160,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22024,7 +22029,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15993
+      "UsersEstimate": 15994
     },
     {
       "ID": "CLAYFACE_2",
@@ -22152,7 +22157,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15993
+      "UsersEstimate": 15994
     },
     {
       "ID": "FREEZE_2",
@@ -22248,7 +22253,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12185
+      "UsersEstimate": 12186
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22264,7 +22269,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38841
+      "UsersEstimate": 38842
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22376,7 +22381,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 8377
+      "UsersEstimate": 8378
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -22407,13 +22412,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76159,
+      "Progressed": 76160,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46439,
+      "Progressed": 46440,
       "Completed": 2673
     }
   ],
@@ -22421,8 +22426,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-08T07:59:00.8733715+00:00",
-  "LastChanged_Achievements": "2023-11-08T14:08:09.1365425+00:00",
+  "LastChanged_Achievements": "2023-11-08T15:06:57.4646312+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:59:41.4629412+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:08:09.1367119+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:58:56.3054582+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:06:57.4647615+00:00"
 }

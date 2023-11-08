@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -414,9 +414,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 45,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -517,8 +517,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-08T14:10:05.0905798+00:00",
+  "LastChanged_Achievements": "2023-11-08T15:09:05.5139399+00:00",
   "LastUpdate_AppInfo": "2023-11-03T11:57:09.8011419+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:58:44.3521968+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:10:05.0905918+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:58:09.9053326+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:09:05.5139568+00:00"
 }

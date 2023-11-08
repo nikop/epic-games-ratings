@@ -3,6 +3,13 @@
 [View Rawdata](../../db/a/aztez.json)  
 Rating: 4.56 (Ranked 484)  
 Number of Ratings: 43  (23.09.2022)  
+## Awards
+Max (Great Boss Battles): 20  (Ranked 543)  
+Sum: 20 (Ranked 544)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game has Great Boss Battles | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -55,3 +62,4 @@ Number of Ratings: 43  (23.09.2022)
 | 2023-09-16 | 4.56 | - | 0 | 0 |
 | 2023-10-28 | 4.55 | - | 0 | 0 |
 | 2023-10-30 | 4.56 | - | 0 | 0 |
+| 2023-11-08 | 4.56 | - | 20 | 20 |

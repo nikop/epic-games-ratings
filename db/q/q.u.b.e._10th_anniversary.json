@@ -3,8 +3,8 @@
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
   "Ranking_Rating": 744,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 37,
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17115,
+  "EOS_Progressed": 17129,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 3052,
+  "EOS_NewPlayers": 3044,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -2465,6 +2465,11 @@
       "Time": "2023-11-08T14:10:24.9120175+00:00",
       "NumProgressed": 17115,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-08T15:09:22.6366194+00:00",
+      "NumProgressed": 17129,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 24,
@@ -2476,7 +2481,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_CollectAll",
@@ -2492,7 +2497,7 @@
       "Name": "Squished",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -2500,7 +2505,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -2508,7 +2513,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACH_Finale",
@@ -2516,7 +2521,7 @@
       "Name": "Finale",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_S8AllBronze",
@@ -2604,7 +2609,7 @@
       "Name": "Sector 1",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1713
     },
     {
       "ID": "ACH_Sector2",
@@ -2612,7 +2617,7 @@
       "Name": "Sector 2",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1540
+      "UsersEstimate": 1542
     },
     {
       "ID": "ACH_Sector3",
@@ -2620,7 +2625,7 @@
       "Name": "Sector 3",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1199
     },
     {
       "ID": "ACH_Sector4",
@@ -2628,7 +2633,7 @@
       "Name": "Sector 4",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "ACH_Sector5",
@@ -2644,7 +2649,7 @@
       "Name": "Sector 6",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "ACH_Sector7",
@@ -2652,7 +2657,7 @@
       "Name": "Sector 7",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_TurnBallBlack",
@@ -2660,14 +2665,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 17115,
+      "Progressed": 17129,
       "Completed": 31
     }
   ],
@@ -2675,8 +2680,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-08T11:01:26.018295+00:00",
-  "LastChanged_Achievements": "2023-11-08T14:10:24.9120169+00:00",
+  "LastChanged_Achievements": "2023-11-08T15:09:22.636619+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:46.5183282+00:00",
-  "LastUpdate_Ratings": "2023-11-08T14:01:32.3123503+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:10:24.9120587+00:00"
+  "LastUpdate_Ratings": "2023-11-08T15:00:32.5945151+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:09:22.6366454+00:00"
 }

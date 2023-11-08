@@ -5,42 +5,42 @@ Rating: 4.28 (Ranked 846)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,161 |
-| Copacetic Coordination | 16.00% | ~56,225 |
-| Fronting the Money | 15.00% | ~52,711 |
-| The Dawn of Automation | 14.00% | ~49,197 |
-| Extraordinary Logistics | 14.00% | ~49,197 |
-| Dirty Money | 13.00% | ~45,683 |
-| Family First | 13.00% | ~45,683 |
-| Cleaning House | 12.00% | ~42,169 |
-| Room in the Back | 12.00% | ~42,169 |
-| Beating the Heat | 11.00% | ~38,655 |
-| Booze Baron | 11.00% | ~38,655 |
+| Corner Clout | 47.00% | ~165,165 |
+| Copacetic Coordination | 16.00% | ~56,226 |
+| Fronting the Money | 15.00% | ~52,712 |
+| The Dawn of Automation | 14.00% | ~49,198 |
+| Extraordinary Logistics | 14.00% | ~49,198 |
+| Dirty Money | 13.00% | ~45,684 |
+| Family First | 13.00% | ~45,684 |
+| Cleaning House | 12.00% | ~42,170 |
+| Room in the Back | 12.00% | ~42,170 |
+| Beating the Heat | 11.00% | ~38,656 |
+| Booze Baron | 11.00% | ~38,656 |
 | Friends on the Force | 10.00% | ~35,141 |
 | Neighborhood Watch | 10.00% | ~35,141 |
 | Core Corps | 8.00% | ~28,113 |
 | Sizeable Stash | 8.00% | ~28,113 |
-| Street Fighter | 7.00% | ~24,598 |
-| Friendly Gestures | 7.00% | ~24,598 |
-| People Person | 7.00% | ~24,598 |
-| Liquor Lord | 6.00% | ~21,084 |
-| Safety in Numbers | 6.00% | ~21,084 |
-| Moving Experiences | 6.00% | ~21,084 |
-| Wise Head | 6.00% | ~21,084 |
-| Show ‘em the Sugar | 6.00% | ~21,084 |
-| Killing Them Softly | 6.00% | ~21,084 |
-| Street Knowledge | 5.00% | ~17,570 |
-| Oh Captain | 5.00% | ~17,570 |
-| Branching Out | 5.00% | ~17,570 |
-| Improvement Missions | 5.00% | ~17,570 |
-| Opportunity Knocked | 5.00% | ~17,570 |
-| City of Big Shoulders | 5.00% | ~17,570 |
-| Mission Mastery | 5.00% | ~17,570 |
-| Considerable Clams | 4.00% | ~14,056 |
-| Gin Joint | 4.00% | ~14,056 |
-| An Affront to the Enemy | 4.00% | ~14,056 |
-| Friends from Back Home | 4.00% | ~14,056 |
-| Half Century Mark | 4.00% | ~14,056 |
+| Street Fighter | 7.00% | ~24,599 |
+| Friendly Gestures | 7.00% | ~24,599 |
+| People Person | 7.00% | ~24,599 |
+| Liquor Lord | 6.00% | ~21,085 |
+| Safety in Numbers | 6.00% | ~21,085 |
+| Moving Experiences | 6.00% | ~21,085 |
+| Wise Head | 6.00% | ~21,085 |
+| Show ‘em the Sugar | 6.00% | ~21,085 |
+| Killing Them Softly | 6.00% | ~21,085 |
+| Street Knowledge | 5.00% | ~17,571 |
+| Oh Captain | 5.00% | ~17,571 |
+| Branching Out | 5.00% | ~17,571 |
+| Improvement Missions | 5.00% | ~17,571 |
+| Opportunity Knocked | 5.00% | ~17,571 |
+| City of Big Shoulders | 5.00% | ~17,571 |
+| Mission Mastery | 5.00% | ~17,571 |
+| Considerable Clams | 4.00% | ~14,057 |
+| Gin Joint | 4.00% | ~14,057 |
+| An Affront to the Enemy | 4.00% | ~14,057 |
+| Friends from Back Home | 4.00% | ~14,057 |
+| Half Century Mark | 4.00% | ~14,057 |
 | Corner Opportunities | 3.00% | ~10,542 |
 | 2122 North Clark Street | 3.00% | ~10,542 |
 | Copious Cabbage | 3.00% | ~10,542 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 846)
 | High Pillow | 0.10% | ~351 |
 | Station Master | 0.10% | ~351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351,407 (Ranked 47)  
+Progressed: 351,414 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -288,14 +288,14 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-05 | 351,094 | 7 |
 | 2023-11-06 | 351,245 | 7 |
 | 2023-11-07 | 351,352 | 7 |
-| 2023-11-08 | 351,407 | 7 |
+| 2023-11-08 | 351,414 | 7 |
 ## Awards
-Max (Great for Beginners): 43  (Ranked 448)  
-Sum: 186 (Ranked 406)  
+Max (Great for Beginners): 44  (Ranked 447)  
+Sum: 187 (Ranked 405)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 43 |
+| This game is Great for Beginners | 44 |
 | This game is Highly Recommended | 34 |
 | This game is Relaxing | 32 |
 | This game is Extremely Fun | 28 |
@@ -399,3 +399,4 @@ Diff (max vs sum): 42
 | 2023-10-29 | 4.28 | 41 | 183 |
 | 2023-11-01 | 4.28 | 42 | 185 |
 | 2023-11-03 | 4.28 | 43 | 186 |
+| 2023-11-08 | 4.28 | 44 | 187 |

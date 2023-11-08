@@ -3,12 +3,12 @@
   "Name": "Good Company",
   "ProductSlug": "good-company",
   "Ranking_Rating": 676,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 548,
+  "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5562,
+  "EOS_Progressed": 5564,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4193,6 +4193,11 @@
       "Time": "2023-11-08T01:49:56.6274182+00:00",
       "NumProgressed": 5562,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T15:06:48.0929687+00:00",
+      "NumProgressed": 5564,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4316,7 +4321,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "ach_campaign_progress6",
@@ -4356,7 +4361,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1446
+      "UsersEstimate": 1447
     },
     {
       "ID": "ach_campaign_special10",
@@ -4364,7 +4369,7 @@
       "Name": "Bet On Bots: Safety First",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "ach_campaign_special11",
@@ -4460,7 +4465,7 @@
       "Name": "Extra Life: Wish Granted",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ach_campaign_special6",
@@ -4548,7 +4553,7 @@
       "Name": "High Five!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ach_frp_high_networth",
@@ -4564,7 +4569,7 @@
       "Name": "Modular Progress",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "ach_frp_many_modules2",
@@ -4811,15 +4816,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5562,
+      "Progressed": 5564,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-11-08T14:07:58.0535525+00:00",
+  "LastChanged_Achievements": "2023-11-08T15:06:48.0929683+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:39.3394459+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:58:32.6008954+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:07:58.0536764+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:58:02.245081+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:06:48.093056+00:00"
 }

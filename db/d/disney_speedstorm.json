@@ -981,9 +981,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 285826,
+  "EOS_Progressed": 285872,
   "EOS_Completed": 272,
-  "EOS_NewPlayers": 15423,
+  "EOS_NewPlayers": 15387,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11106,6 +11106,11 @@
       "Time": "2023-11-08T14:05:43.5807939+00:00",
       "NumProgressed": 285826,
       "NumCompleted": 272
+    },
+    {
+      "Time": "2023-11-08T15:04:55.5505755+00:00",
+      "NumProgressed": 285872,
+      "NumCompleted": 272
     }
   ],
   "TotalAchievements": 24,
@@ -11117,7 +11122,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "10",
@@ -11125,7 +11130,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11433
+      "UsersEstimate": 11435
     },
     {
       "ID": "11",
@@ -11157,7 +11162,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14291
+      "UsersEstimate": 14294
     },
     {
       "ID": "15",
@@ -11205,7 +11210,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2858
+      "UsersEstimate": 2859
     },
     {
       "ID": "20",
@@ -11213,7 +11218,7 @@
       "Name": "PROTECTED",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8575
+      "UsersEstimate": 8576
     },
     {
       "ID": "21",
@@ -11245,7 +11250,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 8575
+      "UsersEstimate": 8576
     },
     {
       "ID": "3",
@@ -11269,7 +11274,7 @@
       "Name": "ROOKIE",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25724
+      "UsersEstimate": 25728
     },
     {
       "ID": "6",
@@ -11277,7 +11282,7 @@
       "Name": "PRO",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8575
+      "UsersEstimate": 8576
     },
     {
       "ID": "7",
@@ -11308,7 +11313,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 285826,
+      "Progressed": 285872,
       "Completed": 272
     }
   ],
@@ -11316,8 +11321,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-08T13:59:56.9179387+00:00",
-  "LastChanged_Achievements": "2023-11-08T14:05:43.5807932+00:00",
+  "LastChanged_Achievements": "2023-11-08T15:04:55.5505751+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:29.9120851+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:59:56.9179394+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:05:43.5809029+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:59:08.8189804+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:04:55.5506366+00:00"
 }

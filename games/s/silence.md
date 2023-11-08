@@ -9,11 +9,11 @@
 | Haute cuisine | 48.00% | ~69 |
 | I didn't do it! | 41.00% | ~59 |
 | Demolition expert | 40.00% | ~57 |
+| Wooooooow! | 38.00% | ~54 |
 | Keep away from children | 37.00% | ~53 |
-| Wooooooow! | 37.00% | ~53 |
 | Open up wide | 36.00% | ~51 |
 | Artistic fool | 34.00% | ~49 |
-| Let the boot talk | 31.00% | ~44 |
+| Let the boot talk | 32.00% | ~46 |
 | Chapter II | 27.00% | ~39 |
 | Shadow on the wall | 26.00% | ~37 |
 | Achoo!! | 24.00% | ~34 |

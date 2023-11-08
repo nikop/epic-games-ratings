@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2051,
+  "EOS_Progressed": 2052,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4537,6 +4537,11 @@
       "Time": "2023-11-08T14:10:45.6293397+00:00",
       "NumProgressed": 2051,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T15:09:41.280445+00:00",
+      "NumProgressed": 2052,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4837,7 +4842,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4845,7 +4850,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4901,7 +4906,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4940,14 +4945,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2051,
+      "Progressed": 2052,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-08T14:10:45.629339+00:00",
+  "LastChanged_Achievements": "2023-11-08T15:09:41.2804445+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-08T13:57:43.7370211+00:00",
-  "LastUpdate_Achievements": "2023-11-08T14:10:45.6294036+00:00"
+  "LastUpdate_Ratings": "2023-11-08T14:57:30.4082755+00:00",
+  "LastUpdate_Achievements": "2023-11-08T15:09:41.280499+00:00"
 }
