@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.23% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.22% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
 | 9 | [greensheen Production](games/g/greensheen_production.md) | 35.71% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
@@ -26,7 +26,7 @@
 | 24 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.94% |
 | 25 | [Remains](games/r/remains.md) | 14.55% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
-| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.36% |
+| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.35% |
 | 28 | [Seven Doors](games/s/seven_doors.md) | 11.76% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.68% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
@@ -85,11 +85,11 @@
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.75% |
 | 84 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.45% |
 | 85 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.40% |
-| 86 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 3.39% |
-| 87 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.37% |
-| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.34% |
-| 89 | [Bunny Park](games/b/bunny_park.md) | 3.33% |
-| 89 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.33% |
+| 86 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.37% |
+| 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.34% |
+| 88 | [Bunny Park](games/b/bunny_park.md) | 3.33% |
+| 88 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.33% |
+| 88 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 3.33% |
 | 91 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.23% |
 | 92 | [The Complex](games/t/the_complex.md) | 3.21% |
 | 93 | [Doodle God](games/d/doodle_god.md) | 3.20% |
@@ -118,7 +118,7 @@
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 117 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.34% |
 | 118 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.26% |
-| 119 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.22% |
+| 119 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2.17% |
 | 120 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
 | 122 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.89% |
@@ -134,7 +134,7 @@
 | 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.58% |
 | 133 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.53% |
-| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.52% |
+| 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.51% |
 | 136 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 137 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
 | 138 | [Late Shift](games/l/late_shift.md) | 1.42% |
@@ -186,8 +186,8 @@
 | 181 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.58% |
 | 185 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.56% |
 | 186 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 186 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.55% |
 | 186 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.55% |
+| 188 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.54% |
 | 189 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
 | 189 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
 | 189 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.53% |

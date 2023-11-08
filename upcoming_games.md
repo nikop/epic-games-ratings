@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 2023-11-08 | 12 (1,000 XP) | 0 | - | - |
 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 2023-11-08 | 9 (1,000 XP) | 1 | - | - |
 | [Crown Of The Empire Collectors Edition](games/a/a8edf5117e73463e8d4b8351b07a3d0d.md) | 2023-11-08 | - |  | - | - |
 | [Berzerk Recharged](games/8/8d9b7c29e68e4a8aaa47f7074a532975.md) | 2023-11-09 | - |  | - | - |
@@ -18,7 +17,7 @@
 | [Naheulbeuk's Dungeon Master](games/4/4885ae8497a54a0d95073db643c65ea0.md) | 2023-11-15 | - |  | - | - |
 | [Oxygen Cocktail](games/b/be46e9830cad476eb46085098aee4afb.md) | 2023-11-16 | - |  | - | - |
 | [Flunky Farm](games/3/389061e1584946a58872a5ca03d08443.md) | 2023-11-17 | - |  | - | - |
-| [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 45 | - | - |
+| [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 46 | - | - |
 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 2023-11-17 | 6 (1,000 XP) | 7 | - | - |
 | [Cooking Trip New Challenge. Collector's Edition](games/e/eb5c6704ff734d0cad7717cddb28cae0.md) | 2023-11-17 | - |  | - | - |
 | [Aron's Adventure: Magic Reborn](games/9/9b5a9569674e4d08afe18dc20a697e0e.md) | 2023-11-20 | 31 (1,000 XP) | 2 | - | - |
@@ -26,6 +25,7 @@
 | [Starship Troopers: Extermination](games/9/9920915e59484e01a3fa39f9a1853311.md) | 2023-11-21 | - |  | - | - |
 | [Mosaics Galore 2](games/b/b4ca61f0058d4bd1b2a27da72bd328be.md) | 2023-11-23 | - |  | - | - |
 | [Strike Solitaire](games/b/bbecef13094b48d792e21268610ecda5.md) | 2023-11-26 | - |  | - | - |
+| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2023-11-28 | - |  | - | - |
 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2023-11-28 | 12 (1,000 XP) | 11 | - | - |
 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 2023-11-29 | 16 (1,000 XP) | 2 | - | - |
@@ -88,7 +88,6 @@
 | [Howl](games/h/howl.md) | 2023-12-31 | - |  | - | - |
 | [Hyper Drill](games/1/1e40029294a44b7591ee6a14d9bed25a.md) | 2023-12-31 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2023-12-31 | - |  | - | - |
-| [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-12-31 | - |  | - | - |
 | [Inn Keeper](games/i/inn_keeper.md) | 2023-12-31 | - |  | - | - |
 | [Jawbreaker](games/j/jawbreaker.md) | 2023-12-31 | - |  | - | - |
 | [KibaGames](games/d/d9dec92aafc5427699be1f9a259dba83.md) | 2023-12-31 | - |  | - | - |
@@ -155,7 +154,7 @@
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 276,918 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 276,996 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -370,7 +369,7 @@
 | [New Arc Line](games/8/8d86c6965e66438d89f062a09a273782.md) | 2099-01-01 | - |  | - | - |
 | [Nifty Island](games/9/95afff33bcc840f99fdfb7f2a387c855.md) | 2099-01-01 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | - |  | - | - |
-| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 139 | - | - |
+| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 140 | - | - |
 | [Nova Assault](games/b/burnout.md) | 2099-01-01 | - |  | - | - |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2099-01-01 | - |  | - | - |
 | [Oddsparks: An Automation Adventure](games/7/77c83b36cd1047f7aceeef2e5f84ab85.md) | 2099-01-01 | - |  | - | - |
