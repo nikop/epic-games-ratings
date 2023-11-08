@@ -19,7 +19,7 @@
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,120 | 4.76 | 123 |
 | 18 | [Dauntless](games/d/dauntless.md) | 23,544 | 4.53 | 534 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,853 | 4.26 | 863 |
-| 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,238 | 4.57 | 468 |
+| 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,249 | 4.57 | 468 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,838 | 4.89 | 10 |
 | 22 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 18,807 | 4.74 | 155 |
 | 23 | [Warframe](games/w/warframe.md) | 18,244 | 4.60 | 409 |
@@ -33,7 +33,7 @@
 | 31 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,746 | 4.36 | 778 |
 | 32 | [Satisfactory](games/s/satisfactory.md) | 12,469 | 4.88 | 16 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,214 | 4.45 | 660 |
-| 34 | [SnowRunner](games/s/snowrunner.md) | 11,993 | 4.76 | 123 |
+| 34 | [SnowRunner](games/s/snowrunner.md) | 12,016 | 4.76 | 123 |
 | 35 | [NBA 2K21](games/n/nba_2k21.md) | 11,784 | 4.39 | 744 |
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,589 | 4.69 | 228 |
 | 37 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,592 | 4.78 | 105 |
@@ -373,7 +373,7 @@
 | 371 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 584 |
 | 371 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 91 | 4.62 | 363 |
 | 371 | [Returnal™](games/r/returnal™.md) | 91 | 4.61 | 382 |
-| 371 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 91 | 3.80 | 1,024 |
+| 371 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 91 | 3.81 | 1,024 |
 | 375 | [Barony](games/b/barony.md) | 90 | 4.72 | 184 |
 | 376 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 88 | 4.29 | 836 |
 | 377 | [Solitairica](games/s/solitairica.md) | 87 | 4.50 | 584 |
@@ -437,9 +437,9 @@
 | 431 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 49 | 4.55 | 500 |
 | 436 | [AXIOM VERGE](games/a/axiom_verge.md) | 48 | 4.56 | 483 |
 | 436 | [Desperados III](games/d/desperados_iii.md) | 48 | 4.84 | 50 |
+| 436 | [Hell is Others](games/h/hell_is_others.md) | 48 | 4.38 | 760 |
 | 436 | [The Alto Collection](games/t/the_alto_collection.md) | 48 | 4.70 | 211 |
 | 436 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 48 | 4.60 | 409 |
-| 440 | [Hell is Others](games/h/hell_is_others.md) | 47 | 4.38 | 760 |
 | 441 | [Submerged: Hidden Depths](games/s/submerged__hidden_depths.md) | 46 | 4.24 | 878 |
 | 442 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 45 | 4.58 | 445 |
 | 442 | [Ancient Enemy](games/a/ancient_enemy.md) | 45 | 3.95 | 1,002 |

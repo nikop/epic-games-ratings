@@ -6,9 +6,9 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.32% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.31% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 35.97% |
-| 9 | [Volley Pals](games/v/volley_pals.md) | 29.60% |
+| 9 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 10 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 11 | [greensheen Production](games/g/greensheen_production.md) | 28.57% |
 | 12 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
@@ -62,18 +62,18 @@
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 60 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.88% |
 | 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.75% |
-| 63 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.54% |
-| 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
-| 65 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
-| 66 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
-| 67 | [Bugsnax](games/b/bugsnax.md) | 4.80% |
-| 68 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 4.65% |
-| 69 | [ZZT!](games/z/zzt!.md) | 4.64% |
-| 70 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
-| 71 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
-| 71 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.55% |
-| 71 | [JARS](games/j/jars.md) | 4.55% |
-| 71 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.55% |
+| 63 | [JARS](games/j/jars.md) | 5.68% |
+| 64 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.54% |
+| 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
+| 66 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
+| 67 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
+| 68 | [Bugsnax](games/b/bugsnax.md) | 4.80% |
+| 69 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 4.65% |
+| 70 | [ZZT!](games/z/zzt!.md) | 4.64% |
+| 71 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
+| 72 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
+| 72 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.55% |
+| 72 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.55% |
 | 75 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.51% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.42% |
 | 77 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
@@ -728,4 +728,4 @@
 | 345 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 345 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 345 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,526 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,527 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |

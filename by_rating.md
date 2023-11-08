@@ -136,7 +136,7 @@
 | 123 | [Legend Bowl](games/l/legend_bowl.md) | 4.76 | 0 | 547 |
 | 123 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 4.76 | 1,736 | 121 |
 | 123 | [SLUDGE LIFE](games/s/sludge_life.md) | 4.76 | 0 | 547 |
-| 123 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 11,993 | 34 |
+| 123 | [SnowRunner](games/s/snowrunner.md) | 4.76 | 12,016 | 34 |
 | 123 | [The Forgotten City](games/t/the_forgotten_city.md) | 4.76 | 0 | 547 |
 | 123 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 50 | 426 |
 | 123 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 454 |
@@ -478,7 +478,7 @@
 | 468 | [Risen](games/r/risen.md) | 4.57 | 0 | 547 |
 | 468 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 547 |
 | 468 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,298 | 81 |
-| 468 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,238 | 20 |
+| 468 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,249 | 20 |
 | 468 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,791 | 118 |
 | 468 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 547 |
 | 468 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 83 | 382 |
@@ -761,7 +761,7 @@
 | 744 | [WE ARE FOOTBALL](games/w/we_are_football.md) | 4.39 | 0 | 547 |
 | 760 | [Baldur's Gate Dark Alliance II](games/b/baldur's_gate_dark_alliance_ii.md) | 4.38 | 0 | 547 |
 | 760 | [Beholder 3](games/b/beholder_3.md) | 4.38 | 0 | 547 |
-| 760 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 47 | 440 |
+| 760 | [Hell is Others](games/h/hell_is_others.md) | 4.38 | 48 | 436 |
 | 760 | [Hotel Renovator](games/h/hotel_renovator.md) | 4.38 | 0 | 547 |
 | 760 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 4.38 | 166 | 307 |
 | 760 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.38 | 0 | 547 |
@@ -1023,8 +1023,8 @@
 | 1,020 | [Poker Club](games/p/poker_club.md) | 3.82 | 58 | 411 |
 | 1,020 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 69 | 401 |
 | 1,020 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 547 |
-| 1,024 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.80 | 0 | 547 |
-| 1,024 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.80 | 91 | 371 |
+| 1,024 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 3.81 | 91 | 371 |
+| 1,025 | [SpellForce 3: Versus Edition](games/s/spellforce_3__versus_edition.md) | 3.80 | 0 | 547 |
 | 1,026 | [Saints Row](games/s/saints_row.md) | 3.79 | 1,075 | 146 |
 | 1,026 | [Tortuga - A Pirate's Tale](games/t/tortuga_-_a_pirate's_tale.md) | 3.79 | 0 | 547 |
 | 1,028 | [Blood Bowl 3	](games/b/blood_bowl_3.md) | 3.76 | 0 | 547 |
