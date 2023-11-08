@@ -57,6 +57,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Full House | 0.10% | ~450 |
 | Gentle Persuasion | 0.10% | ~450 |
 | Georgia on my Mind | 0.10% | ~450 |
+| Global Hegemony | 0.10% | ~450 |
 | A Golden Empire | 0.10% | ~450 |
 | That's a Grand Army | 0.10% | ~450 |
 | Grand Coalition | 0.10% | ~450 |
@@ -212,7 +213,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Frozen Assets | 0.00% | ~0 |
 | Fugger Banking | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
-| Global Hegemony | 0.00% | ~0 |
 | God Tier | 0.00% | ~0 |
 | Gold Rush | 0.00% | ~0 |
 | Golden Horn | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,985 (Ranked 41)  
+Progressed: 450,024 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -572,10 +572,10 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
-| 2023-11-08 | 449,985 | 1 |
+| 2023-11-08 | 450,024 | 1 |
 ## Awards
 Max (Educational): 6,903  (Ranked 55)  
-Sum: 56,718 (Ranked 24)  
+Sum: 56,735 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -583,7 +583,7 @@ Diff (max vs sum): 31
 | This game has Diverse Characters | 6,613 |
 | This game is Highly Recommended | 6,608 |
 | This game has Challenging Combat | 6,527 |
-| This game is Extremely Fun | 6,486 |
+| This game is Extremely Fun | 6,503 |
 | This game is Relaxing | 6,332 |
 | This game has Competitive Players | 6,193 |
 | This game has Amazing Storytelling | 5,738 |
@@ -887,4 +887,4 @@ Diff (max vs sum): 31
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
 | 2023-11-06 | 4.69 | - | 6,879 | 56,411 |
 | 2023-11-07 | 4.69 | - | 6,879 | 56,604 |
-| 2023-11-08 | 4.69 | - | 6,903 | 56,718 |
+| 2023-11-08 | 4.69 | - | 6,903 | 56,735 |

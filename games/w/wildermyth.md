@@ -19,9 +19,9 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 0.60% | ~9 |
 | Echoes Die | 0.60% | ~9 |
 | Core Failure | 0.60% | ~9 |
+| A Mythic Menagerie | 0.40% | ~6 |
 | Who's Counting? | 0.40% | ~6 |
 | Thematic Divergence | 0.40% | ~6 |
-| A Mythic Menagerie | 0.30% | ~4 |
 | Empty the Caves | 0.30% | ~4 |
 | Pyrrhic Victory | 0.30% | ~4 |
 | A Story of Heroes | 0.30% | ~4 |

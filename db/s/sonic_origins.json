@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -316,7 +316,7 @@
   ],
   "EOS_Progressed": 594,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 7.58,
   "EosHistory": [
@@ -2737,9 +2737,9 @@
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
       "SetID": "7o8nc5m",
       "Name": "Gallant Spin Dash",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 345
+      "UsersEstimate": 350
     },
     {
       "ID": "ID_15_NOVICE_HERO",
@@ -2753,9 +2753,9 @@
       "ID": "ID_16_WATCH_AT_MUSEUM",
       "SetID": "7o8nc5m",
       "Name": "Museum Time",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 244
     },
     {
       "ID": "ID_17_CLEAR_FIRST_MISSION",
@@ -2921,8 +2921,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-10-27T02:57:20.6331407+00:00",
-  "LastChanged_Achievements": "2023-11-08T18:26:21.4475109+00:00",
+  "LastChanged_Achievements": "2023-11-08T19:10:03.1791003+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.2319443+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:06:56.4446906+00:00",
-  "LastUpdate_Achievements": "2023-11-08T18:26:21.4475539+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:58:27.9918264+00:00",
+  "LastUpdate_Achievements": "2023-11-08T19:10:03.1791395+00:00"
 }

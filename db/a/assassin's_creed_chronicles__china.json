@@ -2,7 +2,7 @@
   "ID": "f8c4ac7957164721802514c6fc99e66d",
   "Name": "Assassin\u0027s Creed Chronicles: China",
   "ProductSlug": "assassins-creed-chronicles-china",
-  "Ranking_Rating": 309,
+  "Ranking_Rating": 291,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 733,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.65,
+  "Rating": 4.66,
   "RatingHistory": [
     {
       "Time": "2023-03-08T07:58:37.2695889+00:00",
@@ -113,6 +113,12 @@
       "Rating": 4.65,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-08T19:00:23.7823948+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -131,8 +137,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-29T20:03:01.8251049+00:00",
   "FirstSeenRating": "2023-03-08T07:58:37.2695884+00:00",
-  "LastChanged": "2023-10-17T13:09:19.1158898+00:00",
+  "LastChanged": "2023-11-08T19:00:23.7823942+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:29.0876733+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:16:48.3114148+00:00",
-  "LastUpdate_Achievements": "2023-11-08T18:20:32.8462374+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:00:23.7823964+00:00",
+  "LastUpdate_Achievements": "2023-11-08T19:03:53.4498192+00:00"
 }

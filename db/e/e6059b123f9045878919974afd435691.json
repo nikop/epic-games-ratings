@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1010,
+  "EOS_Progressed": 1011,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2569,6 +2569,11 @@
       "Time": "2023-11-08T15:08:57.5192438+00:00",
       "NumProgressed": 1010,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T19:09:17.1477983+00:00",
+      "NumProgressed": 1011,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2586,9 +2591,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 485
+      "UsersEstimate": 475
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2620,7 +2625,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2628,7 +2633,7 @@
       "Name": "Goat Whisperer",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ATK_ACHIEVEMENT_3",
@@ -2652,7 +2657,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2660,7 +2665,7 @@
       "Name": "The Judge, the Jury and the ... Barkannan",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "BARK_ACHIEVEMENT_3",
@@ -2684,7 +2689,7 @@
       "Name": "Main Course",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "BRO_ACHIEVEMENT_2",
@@ -2700,7 +2705,7 @@
       "Name": "Burnt Smell",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2708,7 +2713,7 @@
       "Name": "Where There\u0027s Smoke There\u0027s Fire",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "BURN_ACHIEVEMENT_3",
@@ -2780,7 +2785,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2794,9 +2799,9 @@
       "ID": "EXT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Fire Alarm",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 152
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -2810,9 +2815,9 @@
       "ID": "FREED_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "End of Rest",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 111
     },
     {
       "ID": "FREEM_ACHIEVEMENT_1",
@@ -2860,7 +2865,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -2900,7 +2905,7 @@
       "Name": "And There We Go",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2956,7 +2961,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3010,9 +3015,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 273
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3107,14 +3112,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1010,
+      "Progressed": 1011,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-08T18:25:38.0860495+00:00",
+  "LastChanged_Achievements": "2023-11-08T19:09:17.1477978+00:00",
   "LastUpdate_AppInfo": "2023-11-02T22:56:57.9637955+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:02:03.7569071+00:00",
-  "LastUpdate_Achievements": "2023-11-08T18:25:38.0861386+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:57:42.5787068+00:00",
+  "LastUpdate_Achievements": "2023-11-08T19:09:17.1478596+00:00"
 }

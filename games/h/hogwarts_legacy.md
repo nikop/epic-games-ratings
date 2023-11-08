@@ -17,19 +17,19 @@ Rating: 4.76 (Ranked 123)
 | The Defender of Dragons | 11.00% | ~33,188 |
 | Loom for Improvement | 11.00% | ~33,188 |
 | Coasting Along | 11.00% | ~33,188 |
-| The Hero of Hogwarts | 10.00% | ~30,170 |
-| Challenge Accepted | 10.00% | ~30,170 |
-| Followed the Butterflies | 10.00% | ~30,170 |
-| The Spell Master | 9.00% | ~27,153 |
-| Rising From the Ashes | 9.00% | ~27,153 |
-| The Avenging Gazelle | 8.00% | ~24,136 |
-| Beast Friends | 8.00% | ~24,136 |
-| A Sallow Grave | 8.00% | ~24,136 |
-| Flight the Good Flight | 8.00% | ~24,136 |
-| The Seeker of Knowledge | 6.00% | ~18,102 |
-| The Root of the Problem | 6.00% | ~18,102 |
-| Third Time's a Charm | 6.00% | ~18,102 |
-| Raising Expectations | 6.00% | ~18,102 |
+| The Hero of Hogwarts | 10.00% | ~30,171 |
+| Challenge Accepted | 10.00% | ~30,171 |
+| Followed the Butterflies | 10.00% | ~30,171 |
+| The Spell Master | 9.00% | ~27,154 |
+| Rising From the Ashes | 9.00% | ~27,154 |
+| The Avenging Gazelle | 8.00% | ~24,137 |
+| Beast Friends | 8.00% | ~24,137 |
+| A Sallow Grave | 8.00% | ~24,137 |
+| Flight the Good Flight | 8.00% | ~24,137 |
+| The Seeker of Knowledge | 6.00% | ~18,103 |
+| The Root of the Problem | 6.00% | ~18,103 |
+| Third Time's a Charm | 6.00% | ~18,103 |
+| Raising Expectations | 6.00% | ~18,103 |
 | The Toast of the Town | 5.00% | ~15,085 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,085 |
 | The Ends Petrify the Means | 5.00% | ~15,085 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 123)
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,705 (Ranked 50)  
+Progressed: 301,709 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 505 (0.17%) (Ranked 251)
 | 2023-11-05 | 301,182 | 501 |
 | 2023-11-06 | 301,400 | 502 |
 | 2023-11-07 | 301,629 | 504 |
-| 2023-11-08 | 301,705 | 505 |
+| 2023-11-08 | 301,709 | 505 |
 ## Awards
 Max (Character Customization): 24,120  (Ranked 17)  
 Sum: 47,673 (Ranked 30)  

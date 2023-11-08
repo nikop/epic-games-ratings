@@ -1347,9 +1347,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5850,
+  "EOS_Progressed": 5852,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12452,6 +12452,11 @@
       "Time": "2023-11-08T18:26:19.2549652+00:00",
       "NumProgressed": 5850,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-08T19:10:00.966465+00:00",
+      "NumProgressed": 5852,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12511,15 +12516,15 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
       "SetID": "1p8ab95",
       "Name": "Caribbean Comrade",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 936
+      "UsersEstimate": 878
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -12527,7 +12532,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -12559,7 +12564,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -12623,7 +12628,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12631,7 +12636,7 @@
       "Name": "From Knight to Little Duck",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_MILITARYCOUP",
@@ -12735,7 +12740,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2164
+      "UsersEstimate": 2165
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -12751,7 +12756,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -12759,7 +12764,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -12782,15 +12787,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5850,
+      "Progressed": 5852,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-03T19:58:07.8489681+00:00",
-  "LastChanged_Achievements": "2023-11-08T18:26:19.2549649+00:00",
+  "LastChanged_Achievements": "2023-11-08T19:10:00.9664644+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.1282192+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:18:23.8812197+00:00",
-  "LastUpdate_Achievements": "2023-11-08T18:26:19.2550613+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:01:38.8218277+00:00",
+  "LastUpdate_Achievements": "2023-11-08T19:10:00.9665681+00:00"
 }

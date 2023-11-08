@@ -5,19 +5,19 @@ Rating: 3.82 (Ranked 1,020)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~407,681 |
-| Handy | 41.00% | ~219,933 |
-| Cold Caller | 39.00% | ~209,205 |
-| A Bit On The Side | 27.00% | ~144,834 |
+| Pro Creation | 76.00% | ~407,684 |
+| Handy | 41.00% | ~219,935 |
+| Cold Caller | 39.00% | ~209,206 |
+| A Bit On The Side | 27.00% | ~144,835 |
 | Backdoor | 25.00% | ~134,106 |
 | Rank Amateur | 21.00% | ~112,649 |
-| Three Way | 19.00% | ~101,920 |
-| Deadly Assassin | 15.00% | ~80,463 |
-| Gutshot | 14.00% | ~75,099 |
-| Risk It For A Biscuit | 14.00% | ~75,099 |
+| Three Way | 19.00% | ~101,921 |
+| Deadly Assassin | 15.00% | ~80,464 |
+| Gutshot | 14.00% | ~75,100 |
+| Risk It For A Biscuit | 14.00% | ~75,100 |
 | Showoff | 13.00% | ~69,735 |
 | W.H.I.P. | 12.00% | ~64,371 |
-| Bet Bet Bet | 10.00% | ~53,642 |
+| Bet Bet Bet | 10.00% | ~53,643 |
 | Blindman's Bluff | 9.00% | ~48,278 |
 | Poker Joker | 9.00% | ~48,278 |
 | Never Give Up | 8.00% | ~42,914 |
@@ -25,13 +25,13 @@ Rating: 3.82 (Ranked 1,020)
 | Total Knock Out | 8.00% | ~42,914 |
 | Dog Eat Dog | 7.00% | ~37,550 |
 | Quack Quack | 7.00% | ~37,550 |
-| Give Your Regards To Broadway | 6.00% | ~32,185 |
+| Give Your Regards To Broadway | 6.00% | ~32,186 |
 | Check Yourself | 4.00% | ~21,457 |
 | Moneymaker | 4.00% | ~21,457 |
 | In The Gang | 3.00% | ~16,093 |
 | On The Button | 3.00% | ~16,093 |
-| Before You Wreck Yourself | 2.00% | ~10,728 |
-| Keep Your Heads Up | 2.00% | ~10,728 |
+| Before You Wreck Yourself | 2.00% | ~10,729 |
+| Keep Your Heads Up | 2.00% | ~10,729 |
 | Bluffing Eh? | 1.00% | ~5,364 |
 | Go For It | 1.00% | ~5,364 |
 | Holding Your Own | 1.00% | ~5,364 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,020)
 | Rounder | 0.10% | ~536 |
 | Top Dog | 0.10% | ~536 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,422 (Ranked 34)  
+Progressed: 536,426 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 2 (0.00%) (Ranked 345)
 | 2023-11-05 | 535,949 | 2 |
 | 2023-11-06 | 536,126 | 2 |
 | 2023-11-07 | 536,286 | 2 |
-| 2023-11-08 | 536,422 | 2 |
+| 2023-11-08 | 536,426 | 2 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 411)  
 Sum: 172 (Ranked 413)  

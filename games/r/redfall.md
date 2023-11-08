@@ -43,11 +43,11 @@ Rating: 3.51 (Ranked 1,035)
 | What Lies Below | 0.30% | ~5 |
 | Starve the Beast | 0.30% | ~5 |
 | Nice Try | 0.30% | ~5 |
+| Blacklight Down | 0.30% | ~5 |
 | Dexterity Save | 0.30% | ~5 |
 | Neighborhood Watch | 0.20% | ~4 |
 | Bloody Initiate | 0.20% | ~4 |
 | So Anyway I Started Blasting | 0.20% | ~4 |
-| Blacklight Down | 0.20% | ~4 |
 | Under a Bushel | 0.20% | ~4 |
 | Enemy of My Enemy | 0.20% | ~4 |
 | Bob’s Final Hour | 0.20% | ~4 |

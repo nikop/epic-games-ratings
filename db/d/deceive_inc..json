@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18806,
+  "EOS_Progressed": 18807,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12738,6 +12738,11 @@
       "Time": "2023-11-08T12:05:51.4430595+00:00",
       "NumProgressed": 18806,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T19:07:24.0422131+00:00",
+      "NumProgressed": 18807,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12813,7 +12818,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "0010",
@@ -12933,7 +12938,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4137
+      "UsersEstimate": 4138
     },
     {
       "ID": "0025",
@@ -12965,7 +12970,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4325
+      "UsersEstimate": 4326
     },
     {
       "ID": "0029",
@@ -13036,7 +13041,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18806,
+      "Progressed": 18807,
       "Completed": 4
     }
   ],
@@ -13044,8 +13049,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-08T18:23:50.7689339+00:00",
+  "LastChanged_Achievements": "2023-11-08T19:07:24.0422128+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.0347505+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:17:33.9890439+00:00",
-  "LastUpdate_Achievements": "2023-11-08T18:23:50.7690478+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:01:01.7947354+00:00",
+  "LastUpdate_Achievements": "2023-11-08T19:07:24.0422845+00:00"
 }

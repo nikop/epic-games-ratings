@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~25,890 |
-| Landlord | 33.00% | ~21,359 |
+| Lawbringer | 40.00% | ~25,891 |
+| Landlord | 33.00% | ~21,360 |
 | Bannerlord | 23.00% | ~14,887 |
 | Horde breaker | 23.00% | ~14,887 |
 | Lawmaker | 23.00% | ~14,887 |
 | Trained | 23.00% | ~14,887 |
 | The king is pleased | 19.00% | ~12,298 |
-| King Solomon | 18.00% | ~11,650 |
+| King Solomon | 18.00% | ~11,651 |
 | Apple of my eye | 16.00% | ~10,356 |
 | I can do it | 16.00% | ~10,356 |
-| God of the Arena | 13.00% | ~8,414 |
-| This Is Our Land | 13.00% | ~8,414 |
-| Against all odds | 12.00% | ~7,767 |
-| Duelist | 10.00% | ~6,472 |
-| Dynasty | 10.00% | ~6,472 |
-| I spit on your grave | 10.00% | ~6,472 |
-| Swordbearer | 10.00% | ~6,472 |
-| What have the Romans ever done for us? | 10.00% | ~6,472 |
-| Butterlord | 9.00% | ~5,825 |
+| Against all odds | 13.00% | ~8,415 |
+| God of the Arena | 13.00% | ~8,415 |
+| This Is Our Land | 13.00% | ~8,415 |
+| Duelist | 10.00% | ~6,473 |
+| Dynasty | 10.00% | ~6,473 |
+| I spit on your grave | 10.00% | ~6,473 |
+| Swordbearer | 10.00% | ~6,473 |
+| What have the Romans ever done for us? | 10.00% | ~6,473 |
+| Butterlord | 9.00% | ~5,826 |
 | Know your enemy | 7.00% | ~4,531 |
 | Mastery | 7.00% | ~4,531 |
 | Crowdfunded | 5.00% | ~3,236 |
@@ -34,7 +34,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Freedom! | 3.00% | ~1,942 |
 | Long live the Empire! | 3.00% | ~1,942 |
 | Real Estate | 3.00% | ~1,942 |
-| Supreme Emperor | 2.00% | ~1,294 |
+| Supreme Emperor | 2.00% | ~1,295 |
 | Entrepreneur | 1.00% | ~647 |
 | Crackshot | 0.90% | ~583 |
 | Undercover | 0.80% | ~518 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,724 (Ranked 103)  
+Progressed: 64,728 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,14 +260,14 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 64,565 | 0 |
 | 2023-11-06 | 64,626 | 0 |
 | 2023-11-07 | 64,682 | 0 |
-| 2023-11-08 | 64,724 | 0 |
+| 2023-11-08 | 64,728 | 0 |
 ## Awards
-Max (Character Customization): 7,339  (Ranked 52)  
-Sum: 15,168 (Ranked 67)  
+Max (Character Customization): 7,345  (Ranked 52)  
+Sum: 15,174 (Ranked 67)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,339 |
+| This game has Inclusive Character Customization | 7,345 |
 | This game is Great for Beginners | 1,040 |
 | This game has Diverse Characters | 994 |
 | This game is Highly Recommended | 919 |
@@ -579,4 +579,4 @@ Diff (max vs sum): -15
 | 2023-11-05 | 4.74 | - | 7,328 | 15,137 |
 | 2023-11-06 | 4.74 | - | 7,333 | 15,154 |
 | 2023-11-07 | 4.74 | - | 7,339 | 15,162 |
-| 2023-11-08 | 4.74 | - | 7,339 | 15,168 |
+| 2023-11-08 | 4.74 | - | 7,345 | 15,174 |

@@ -7539,9 +7539,9 @@
       "Count": 418
     }
   ],
-  "EOS_Progressed": 716373,
+  "EOS_Progressed": 716378,
   "EOS_Completed": 12934,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -25304,6 +25304,11 @@
       "Time": "2023-11-08T18:20:36.1637475+00:00",
       "NumProgressed": 716373,
       "NumCompleted": 12934
+    },
+    {
+      "Time": "2023-11-08T19:03:57.0540555+00:00",
+      "NumProgressed": 716378,
+      "NumCompleted": 12934
     }
   ],
   "TotalAchievements": 60,
@@ -25339,7 +25344,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "05_Vengeance_H4",
@@ -25347,7 +25352,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "06_Vengeance_H5",
@@ -25355,7 +25360,7 @@
       "Name": "Furious Fists",
       "Percentage": 0.4,
       "XP": 75,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "07_Wude_H1",
@@ -25419,7 +25424,7 @@
       "Name": "Kill Nil",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "15_Detective_H1",
@@ -25467,7 +25472,7 @@
       "Name": "Stuntmaster",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -25483,7 +25488,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -25523,7 +25528,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -25563,7 +25568,7 @@
       "Name": "Old Child",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "33_BladeOneShot",
@@ -25595,7 +25600,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -25603,7 +25608,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -25627,7 +25632,7 @@
       "Name": "Take damage to save time",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -25794,21 +25799,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25674,
+      "Progressed": 25679,
       "Completed": 10737
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716373,
+      "Progressed": 716378,
       "Completed": 12934
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-08T10:58:23.7250252+00:00",
-  "LastChanged_Achievements": "2023-11-08T18:20:36.1637472+00:00",
+  "LastChanged_Achievements": "2023-11-08T19:03:57.0540552+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.5858311+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:04:41.4735676+00:00",
-  "LastUpdate_Achievements": "2023-11-08T18:20:36.1639246+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:58:06.7800052+00:00",
+  "LastUpdate_Achievements": "2023-11-08T19:03:57.0541671+00:00"
 }

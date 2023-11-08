@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1966,9 +1966,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 212629,
+  "EOS_Progressed": 212630,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 1358,
+  "EOS_NewPlayers": 1353,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25051,6 +25051,11 @@
       "Time": "2023-11-08T18:23:41.4584702+00:00",
       "NumProgressed": 212629,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-11-08T19:07:14.0190167+00:00",
+      "NumProgressed": 212630,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 44,
@@ -25134,7 +25139,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25515
+      "UsersEstimate": 25516
     },
     {
       "ID": "HappyLittleAccidents",
@@ -25238,7 +25243,7 @@
       "Name": "Okkoto",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 10631
+      "UsersEstimate": 10632
     },
     {
       "ID": "OldMan",
@@ -25262,7 +25267,7 @@
       "Name": "Prisoners",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10631
+      "UsersEstimate": 10632
     },
     {
       "ID": "ReleaseTheKraken",
@@ -25374,7 +25379,7 @@
       "Name": "Too Early",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 10631
+      "UsersEstimate": 10632
     },
     {
       "ID": "Warzone",
@@ -25413,15 +25418,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 212629,
+      "Progressed": 212630,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-08T13:07:33.1246959+00:00",
-  "LastChanged_Achievements": "2023-11-08T18:23:41.4584699+00:00",
+  "LastChanged_Achievements": "2023-11-08T19:07:14.0190163+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.1309249+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:19:22.8679846+00:00",
-  "LastUpdate_Achievements": "2023-11-08T18:23:41.4586561+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:02:53.7988852+00:00",
+  "LastUpdate_Achievements": "2023-11-08T19:07:14.0191382+00:00"
 }

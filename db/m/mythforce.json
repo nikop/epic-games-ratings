@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4737,
+  "EOS_Progressed": 4738,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8895,6 +8895,11 @@
       "Time": "2023-11-08T16:09:09.102598+00:00",
       "NumProgressed": 4737,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-08T19:10:00.6877521+00:00",
+      "NumProgressed": 4738,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8923,7 +8928,7 @@
       "Name": "Deadication",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -9051,7 +9056,7 @@
       "Name": "Season Finale",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "MF_Ach_SpendingSpree",
@@ -9090,15 +9095,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4737,
+      "Progressed": 4738,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-08T18:26:19.0048836+00:00",
+  "LastChanged_Achievements": "2023-11-08T19:10:00.6877518+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:19:28.549717+00:00",
-  "LastUpdate_Achievements": "2023-11-08T18:26:19.0049537+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:02:59.9959042+00:00",
+  "LastUpdate_Achievements": "2023-11-08T19:10:00.6878004+00:00"
 }

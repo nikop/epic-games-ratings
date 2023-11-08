@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,795 (Ranked 15)  
+Progressed: 895,800 (Ranked 15)  
 Completed: 2,757 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 2,757 (0.31%) (Ranked 222)
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
 | 2023-11-07 | 895,712 | 2,753 |
-| 2023-11-08 | 895,795 | 2,757 |
+| 2023-11-08 | 895,800 | 2,757 |
 ## Awards
 Max (Character Customization): 104,529  (Ranked 9)  
 Sum: 346,547 (Ranked 10)  

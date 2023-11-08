@@ -14,8 +14,8 @@ Number of Ratings: 154  (23.09.2022)
 | Ring Collector | 66.00% | ~392 |
 | Time Traveler | 65.00% | ~386 |
 | Everyone's Hero | 62.00% | ~368 |
+| Gallant Spin Dash | 59.00% | ~350 |
 | Easy Peasy with Shields | 58.00% | ~345 |
-| Gallant Spin Dash | 58.00% | ~345 |
 | Knuckles the Echidna | 58.00% | ~345 |
 | Bubbly Breath | 57.00% | ~339 |
 | Miles "Tails" Prower | 57.00% | ~339 |
@@ -24,8 +24,8 @@ Number of Ratings: 154  (23.09.2022)
 | Super Sonic | 43.00% | ~255 |
 | Shut Down Metal Sonic | 41.00% | ~244 |
 | Beware Stingers! | 41.00% | ~244 |
+| Museum Time | 41.00% | ~244 |
 | Very First Mission Clear! | 41.00% | ~244 |
-| Museum Time | 40.00% | ~238 |
 | Cleared Sonic the Hedgehog 2 | 39.00% | ~232 |
 | Beware Moto Bugs! | 38.00% | ~226 |
 | Cleared Sonic CD | 38.00% | ~226 |

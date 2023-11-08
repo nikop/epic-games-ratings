@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113642,
+  "EOS_Progressed": 113644,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17242,6 +17242,11 @@
       "Time": "2023-11-08T18:25:25.6815168+00:00",
       "NumProgressed": 113642,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-08T19:09:04.226297+00:00",
+      "NumProgressed": 113644,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17261,7 +17266,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87504
+      "UsersEstimate": 87506
     },
     {
       "ID": "EAwards_10",
@@ -17285,7 +17290,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17046
+      "UsersEstimate": 17047
     },
     {
       "ID": "EAwards_13",
@@ -17349,7 +17354,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54548
+      "UsersEstimate": 54549
     },
     {
       "ID": "EAwards_20",
@@ -17381,7 +17386,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9091
+      "UsersEstimate": 9092
     },
     {
       "ID": "EAwards_24",
@@ -17485,7 +17490,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9091
+      "UsersEstimate": 9092
     },
     {
       "ID": "EAwards_36",
@@ -17613,7 +17618,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9091
+      "UsersEstimate": 9092
     },
     {
       "ID": "EAwards_7",
@@ -17635,16 +17640,16 @@
       "ID": "EAwards_9",
       "SetID": "69kac5j",
       "Name": "Grapple Expert",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11364
+      "UsersEstimate": 12501
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113642,
+      "Progressed": 113644,
       "Completed": 50
     }
   ],
@@ -17652,8 +17657,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-08T18:25:25.6815165+00:00",
+  "LastChanged_Achievements": "2023-11-08T19:09:04.2262967+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:14:31.051299+00:00",
-  "LastUpdate_Achievements": "2023-11-08T18:25:25.6816787+00:00"
+  "LastUpdate_Ratings": "2023-11-08T18:59:43.789945+00:00",
+  "LastUpdate_Achievements": "2023-11-08T19:09:04.2264148+00:00"
 }

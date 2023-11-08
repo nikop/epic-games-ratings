@@ -18,8 +18,8 @@ Rating: 3.94 (Ranked 1,006)
 | King of the Hill | 0.90% | ~808 |
 | Rockay Rex | 0.90% | ~808 |
 | Case Closed | 0.80% | ~718 |
-| Hidden Sonata | 0.70% | ~628 |
-| True Player | 0.70% | ~628 |
+| Hidden Sonata | 0.70% | ~629 |
+| True Player | 0.70% | ~629 |
 | Track Star | 0.60% | ~539 |
 | Headhunter | 0.60% | ~539 |
 | I Like Trains | 0.50% | ~449 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 1,006)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,785 (Ranked 91)  
+Progressed: 89,789 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 55 (0.06%) (Ranked 290)
 | 2023-11-05 | 89,585 | 55 |
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
-| 2023-11-08 | 89,785 | 55 |
+| 2023-11-08 | 89,789 | 55 |
 ## Awards
 Max (Diverse Characters): 522  (Ranked 204)  
 Sum: 2,970 (Ranked 175)  

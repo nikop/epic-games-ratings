@@ -437,9 +437,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216791,
+  "EOS_Progressed": 216792,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1206,
+  "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23397,6 +23397,11 @@
       "Time": "2023-11-08T18:21:46.5052641+00:00",
       "NumProgressed": 216791,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-08T19:05:11.9361707+00:00",
+      "NumProgressed": 216792,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -23456,7 +23461,7 @@
       "Name": "Check",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 119235
+      "UsersEstimate": 119236
     },
     {
       "ID": "Checkmate",
@@ -23464,7 +23469,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 65037
+      "UsersEstimate": 65038
     },
     {
       "ID": "ChessChampion",
@@ -23600,7 +23605,7 @@
       "Name": "Piece Collector",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13007
+      "UsersEstimate": 13008
     },
     {
       "ID": "ProblemSolved",
@@ -23624,7 +23629,7 @@
       "Name": "Promotion",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 67205
+      "UsersEstimate": 67206
     },
     {
       "ID": "QueenSacrifice",
@@ -23656,7 +23661,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 39022
+      "UsersEstimate": 39023
     },
     {
       "ID": "StrangerDanger",
@@ -23711,7 +23716,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 216791,
+      "Progressed": 216792,
       "Completed": 2
     }
   ],
@@ -23719,8 +23724,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-11-06T13:09:15.0359019+00:00",
-  "LastChanged_Achievements": "2023-11-08T18:21:46.5052637+00:00",
+  "LastChanged_Achievements": "2023-11-08T19:05:11.9361704+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.0141074+00:00",
-  "LastUpdate_Ratings": "2023-11-08T18:19:18.8321104+00:00",
-  "LastUpdate_Achievements": "2023-11-08T18:21:46.5054543+00:00"
+  "LastUpdate_Ratings": "2023-11-08T19:02:49.0500022+00:00",
+  "LastUpdate_Achievements": "2023-11-08T19:05:11.9362828+00:00"
 }
