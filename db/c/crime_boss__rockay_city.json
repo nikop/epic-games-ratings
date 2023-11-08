@@ -2,13 +2,13 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1002,
+  "Ranking_Rating": 1003,
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4479,9 +4479,9 @@
       "Count": 484
     }
   ],
-  "EOS_Progressed": 89679,
+  "EOS_Progressed": 89685,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24364,6 +24364,11 @@
       "Time": "2023-11-08T07:03:50.0040517+00:00",
       "NumProgressed": 89679,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-08T08:03:48.3822282+00:00",
+      "NumProgressed": 89685,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24702,13 +24707,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89679,
+      "Progressed": 89685,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18026,
+      "Progressed": 18032,
       "Completed": 15560
     }
   ],
@@ -24716,8 +24721,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-07T17:07:22.6745719+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:03:50.0040515+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:03:48.3822274+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:00:30.405675+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:03:50.0042074+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:00:19.4836981+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:03:48.3824513+00:00"
 }

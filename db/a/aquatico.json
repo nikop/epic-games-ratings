@@ -2,9 +2,9 @@
   "ID": "3741c7ec4dd94f79a305a08521e71668",
   "Name": "Aquatico",
   "ProductSlug": "aquatico-b4f0ce",
-  "Ranking_EOS_Progress": 730,
+  "Ranking_EOS_Progress": 731,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-12T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:57:36.7899329+00:00",
   "LastChanged": "2023-03-31T05:57:36.789933+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:59.6478834+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:01:23.0243925+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:07:45.688023+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:01:05.0084982+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:07:19.9674429+00:00"
 }

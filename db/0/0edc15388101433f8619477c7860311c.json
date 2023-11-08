@@ -224,9 +224,9 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "DatingAttraction",
@@ -344,9 +344,9 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 92,
+      "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "RoadToSalvation",
@@ -407,8 +407,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:09:29.4481421+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:09:31.5276179+00:00",
   "LastUpdate_AppInfo": "2023-11-06T08:57:34.2276809+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:59:10.3264582+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:09:29.4481528+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:59:08.2282614+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:09:31.5276343+00:00"
 }

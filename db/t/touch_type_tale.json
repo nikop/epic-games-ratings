@@ -4,7 +4,7 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3760,
+  "EOS_Progressed": 3761,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4437,6 +4437,11 @@
       "Time": "2023-11-08T07:07:09.2480076+00:00",
       "NumProgressed": 3760,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-08T08:06:47.4372014+00:00",
+      "NumProgressed": 3761,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4496,7 +4501,7 @@
       "Name": "You and what Army?",
       "Percentage": 88,
       "XP": 30,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3310
     },
     {
       "ID": "campaign10",
@@ -4600,7 +4605,7 @@
       "Name": "Economics 101",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2256
+      "UsersEstimate": 2257
     },
     {
       "ID": "campaign4",
@@ -4624,7 +4629,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "campaign7",
@@ -4711,7 +4716,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3760,
+      "Progressed": 3761,
       "Completed": 11
     }
   ],
@@ -4719,8 +4724,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:07:09.2480074+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:06:47.4372009+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.5782351+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:57:25.6493933+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:07:09.2480443+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:57:31.8051232+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:06:47.4372697+00:00"
 }

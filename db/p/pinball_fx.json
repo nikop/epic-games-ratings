@@ -2,7 +2,7 @@
   "ID": "c11f80fe3b674a2bbf60e4c46d588a54",
   "Name": "Pinball FX",
   "ProductSlug": "pinball-fx",
-  "Ranking_Rating": 970,
+  "Ranking_Rating": 971,
   "Ranking_Popularity": 286,
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 53,
@@ -1981,9 +1981,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 278816,
+  "EOS_Progressed": 278819,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2442,
+  "EOS_NewPlayers": 2430,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25031,6 +25031,11 @@
       "Time": "2023-11-08T07:03:39.8894482+00:00",
       "NumProgressed": 278816,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T08:03:39.391563+00:00",
+      "NumProgressed": 278819,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -25162,7 +25167,7 @@
       "Name": "Ready Steady Score",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8364
+      "UsersEstimate": 8365
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -25250,7 +25255,7 @@
       "Name": "Dress Code",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 8364
+      "UsersEstimate": 8365
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -25266,7 +25271,7 @@
       "Name": "Ball Launched",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 228629
+      "UsersEstimate": 228632
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -25274,22 +25279,22 @@
       "Name": "I know the Rules",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 94797
+      "UsersEstimate": 94798
     }
   ],
   "AchievementSets": [
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 278816,
+      "Progressed": 278819,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2023-11-05T21:02:48.30835+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:03:39.889448+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:03:39.3915622+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.5253438+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:02:57.9319046+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:03:39.8896036+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:03:20.15967+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:03:39.3918061+00:00"
 }

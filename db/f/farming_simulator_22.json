@@ -2,12 +2,12 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 250,
+  "Ranking_Rating": 251,
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11022,7 +11022,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51274,
+  "EOS_Progressed": 51275,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
@@ -29257,6 +29257,11 @@
       "Time": "2023-11-08T07:05:25.8033963+00:00",
       "NumProgressed": 51274,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-08T08:05:13.9281501+00:00",
+      "NumProgressed": 51275,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -29348,7 +29353,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32815
+      "UsersEstimate": 32816
     },
     {
       "ID": "CutTree",
@@ -29364,7 +29369,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 31277
+      "UsersEstimate": 31278
     },
     {
       "ID": "DeliveryGrapes",
@@ -29404,7 +29409,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30764
+      "UsersEstimate": 30765
     },
     {
       "ID": "Harvested",
@@ -29444,7 +29449,7 @@
       "Name": "Giddy-up!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 5127
+      "UsersEstimate": 5128
     },
     {
       "ID": "LoadedOldSavegame",
@@ -29476,7 +29481,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 27175
+      "UsersEstimate": 27176
     },
     {
       "ID": "NumBeehives",
@@ -29500,7 +29505,7 @@
       "Name": "All out of Land",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 23073
+      "UsersEstimate": 23074
     },
     {
       "ID": "NumProductionPoints",
@@ -29588,7 +29593,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 13331
+      "UsersEstimate": 13332
     },
     {
       "ID": "VehicleRepair",
@@ -29611,15 +29616,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51274,
+      "Progressed": 51275,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-08T01:43:49.3193927+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:05:25.8033958+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:05:13.9281494+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:18.1648668+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:00:42.7295096+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:05:25.8035701+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:00:29.1793604+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:05:13.928307+00:00"
 }

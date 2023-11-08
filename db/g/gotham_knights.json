@@ -2,12 +2,12 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 922,
+  "Ranking_Rating": 923,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3975,10 +3975,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4943,
       "NumberOfAwardsMax": 2914
+    },
+    {
+      "Time": "2023-11-08T07:59:00.8733717+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4947,
+      "NumberOfAwardsMax": 2914
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4943,
+  "NumberOfAwards": 4947,
   "NumberOfAwardsMax": 2914,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4034,7 +4040,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 257
+      "Count": 261
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4043,7 +4049,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76155,
+  "EOS_Progressed": 76156,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 540,
   "EOS_NewCompleters": 1,
@@ -21883,6 +21889,11 @@
       "Time": "2023-11-08T06:06:25.7530497+00:00",
       "NumProgressed": 76155,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-08T08:06:58.2589347+00:00",
+      "NumProgressed": 76156,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21990,7 +22001,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12946
+      "UsersEstimate": 12947
     },
     {
       "ID": "CLAYFACE_1",
@@ -22118,7 +22129,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21323
+      "UsersEstimate": 21324
     },
     {
       "ID": "FREEZE_1_5",
@@ -22134,7 +22145,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14469
+      "UsersEstimate": 14470
     },
     {
       "ID": "FREEZE_3",
@@ -22198,7 +22209,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26654
+      "UsersEstimate": 26655
     },
     {
       "ID": "HARLEY_2",
@@ -22238,7 +22249,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38839
+      "UsersEstimate": 38840
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22381,22 +22392,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76155,
+      "Progressed": 76156,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46435,
+      "Progressed": 46436,
       "Completed": 2673
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-08T05:58:31.1915874+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:07:21.2544459+00:00",
+  "LastChanged": "2023-11-08T07:59:00.8733715+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:06:58.2589339+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:59:02.0639158+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:07:21.2545975+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:59:00.873372+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:06:58.2591075+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "5a2ea5980ac147c195775039195a3081",
   "Name": "STAR WARS Jedi: Survivor\u2122",
   "ProductSlug": "star-wars-jedi-survivor",
-  "Ranking_Rating": 584,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 170,
@@ -4911,9 +4911,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 7260,
+  "EOS_Progressed": 7261,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 703,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -10321,6 +10321,11 @@
       "Time": "2023-11-08T07:06:56.5762372+00:00",
       "NumProgressed": 7260,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-11-08T08:06:36.0022298+00:00",
+      "NumProgressed": 7261,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -10333,7 +10338,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 7187
+      "UsersEstimate": 7188
     },
     {
       "ID": "achievement_a10",
@@ -10357,7 +10362,7 @@
       "Name": "Into the Abyss",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3412
+      "UsersEstimate": 3413
     },
     {
       "ID": "achievement_a13",
@@ -10365,7 +10370,7 @@
       "Name": "A Place You Could Call Home",
       "Percentage": 44,
       "XP": 70,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "achievement_a14",
@@ -10373,7 +10378,7 @@
       "Name": "Han Slowlo",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "achievement_a15",
@@ -10405,7 +10410,7 @@
       "Name": "They Never Saw It Coming",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 5590
+      "UsersEstimate": 5591
     },
     {
       "ID": "achievement_a19",
@@ -10421,7 +10426,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 7115
+      "UsersEstimate": 7116
     },
     {
       "ID": "achievement_a20",
@@ -10453,7 +10458,7 @@
       "Name": "Mirror Match",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4647
     },
     {
       "ID": "achievement_a24",
@@ -10501,7 +10506,7 @@
       "Name": "There Is No Try",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "achievement_a3",
@@ -10509,7 +10514,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 6607
+      "UsersEstimate": 6608
     },
     {
       "ID": "achievement_a30",
@@ -10517,7 +10522,7 @@
       "Name": "Now, This Isn\u0027t Podracing",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4646
+      "UsersEstimate": 4647
     },
     {
       "ID": "achievement_a31",
@@ -10533,7 +10538,7 @@
       "Name": "They\u0027re Probably Fine",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "achievement_a33",
@@ -10557,7 +10562,7 @@
       "Name": "Max Capacity",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "achievement_a36",
@@ -10581,7 +10586,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "achievement_a39",
@@ -10597,7 +10602,7 @@
       "Name": "The Past Made Present",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 6026
+      "UsersEstimate": 6027
     },
     {
       "ID": "achievement_a40",
@@ -10605,7 +10610,7 @@
       "Name": "Greezy Money",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "achievement_a41",
@@ -10621,7 +10626,7 @@
       "Name": "A Presence I\u0027ve Not Felt Since...",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "achievement_a43",
@@ -10629,7 +10634,7 @@
       "Name": "Hey, Luke At Us",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3557
+      "UsersEstimate": 3558
     },
     {
       "ID": "achievement_a44",
@@ -10685,7 +10690,7 @@
       "Name": "Survivors, We Adapt",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 5735
+      "UsersEstimate": 5736
     },
     {
       "ID": "achievement_a50",
@@ -10709,7 +10714,7 @@
       "Name": "The Jedi Path",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2323
+      "UsersEstimate": 2324
     },
     {
       "ID": "achievement_a53",
@@ -10725,7 +10730,7 @@
       "Name": "Among the Masters",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 5590
+      "UsersEstimate": 5591
     },
     {
       "ID": "achievement_a7",
@@ -10733,7 +10738,7 @@
       "Name": "For the Path",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 4719
+      "UsersEstimate": 4720
     },
     {
       "ID": "achievement_a8",
@@ -10741,7 +10746,7 @@
       "Name": "Out of Bedlam",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4356
+      "UsersEstimate": 4357
     },
     {
       "ID": "achievement_a9",
@@ -10749,14 +10754,14 @@
       "Name": "Tanalorr Bound",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 3775
+      "UsersEstimate": 3776
     }
   ],
   "AchievementSets": [
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 7260,
+      "Progressed": 7261,
       "Completed": 42
     }
   ],
@@ -10764,8 +10769,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-07T17:59:01.2177163+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:06:56.5762368+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:06:36.0022293+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.356826+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:59:17.9886247+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:06:56.5763219+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:59:14.8030253+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:06:36.0023751+00:00"
 }

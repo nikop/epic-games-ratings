@@ -2,7 +2,7 @@
   "ID": "2e92a78949e2474aa89271b8b893f3b0",
   "Name": "Alan Wake Remastered",
   "ProductSlug": "alan-wake-remastered",
-  "Ranking_Rating": 534,
+  "Ranking_Rating": 535,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 90,
@@ -551,9 +551,9 @@
       "Count": 153
     }
   ],
-  "EOS_Progressed": 91327,
+  "EOS_Progressed": 91329,
   "EOS_Completed": 87,
-  "EOS_NewPlayers": 4829,
+  "EOS_NewPlayers": 4797,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -20966,6 +20966,11 @@
       "Time": "2023-11-08T07:10:06.9918909+00:00",
       "NumProgressed": 91327,
       "NumCompleted": 87
+    },
+    {
+      "Time": "2023-11-08T08:10:04.974194+00:00",
+      "NumProgressed": 91329,
+      "NumCompleted": 87
     }
   ],
   "TotalAchievements": 67,
@@ -20977,7 +20982,7 @@
       "Name": "Follow the Light",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 51143
+      "UsersEstimate": 51144
     },
     {
       "ID": "02",
@@ -20993,7 +20998,7 @@
       "Name": "Bright Falls\u0027 Finest",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 31964
+      "UsersEstimate": 31965
     },
     {
       "ID": "04",
@@ -21009,7 +21014,7 @@
       "Name": "Under a Thin Layer of Skin",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 28311
+      "UsersEstimate": 28312
     },
     {
       "ID": "06",
@@ -21017,7 +21022,7 @@
       "Name": "Park Ranger",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 23745
+      "UsersEstimate": 23746
     },
     {
       "ID": "07",
@@ -21033,7 +21038,7 @@
       "Name": "Iron Horse",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 17352
+      "UsersEstimate": 17353
     },
     {
       "ID": "09",
@@ -21041,7 +21046,7 @@
       "Name": "Wheels Within Wheels",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 18265
+      "UsersEstimate": 18266
     },
     {
       "ID": "10",
@@ -21145,7 +21150,7 @@
       "Name": "The Six-Gun Scribe",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 17352
+      "UsersEstimate": 17353
     },
     {
       "ID": "23",
@@ -21161,7 +21166,7 @@
       "Name": "It\u0027s Not Just a Typewriter Brand",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 14612
+      "UsersEstimate": 14613
     },
     {
       "ID": "25",
@@ -21177,7 +21182,7 @@
       "Name": "Thunder and Lightning",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 14612
+      "UsersEstimate": 14613
     },
     {
       "ID": "27",
@@ -21209,7 +21214,7 @@
       "Name": "Two For the Price of One",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 14612
+      "UsersEstimate": 14613
     },
     {
       "ID": "31",
@@ -21217,7 +21222,7 @@
       "Name": "Back! Back, I Say!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 21918
+      "UsersEstimate": 21919
     },
     {
       "ID": "32",
@@ -21225,7 +21230,7 @@
       "Name": "Float Like a Butterfly",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 40184
+      "UsersEstimate": 40185
     },
     {
       "ID": "33",
@@ -21249,7 +21254,7 @@
       "Name": "Let There Be Light",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 42010
+      "UsersEstimate": 42011
     },
     {
       "ID": "36",
@@ -21297,7 +21302,7 @@
       "Name": "Finders Keepers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 21918
+      "UsersEstimate": 21919
     },
     {
       "ID": "42",
@@ -21313,7 +21318,7 @@
       "Name": "Paging Mr. Wake",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 23745
+      "UsersEstimate": 23746
     },
     {
       "ID": "44",
@@ -21512,21 +21517,21 @@
     {
       "ID": "212770e",
       "IsBase": true,
-      "Progressed": 91327,
+      "Progressed": 91329,
       "Completed": 87
     },
     {
       "ID": "6apfemg",
       "IsBase": false,
-      "Progressed": 54795,
+      "Progressed": 54797,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:22:49.7160325+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.0360727+00:00",
   "LastChanged": "2023-11-07T02:59:22.3611576+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:10:06.9918907+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:10:04.9741934+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.8972091+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:00:38.7071941+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:10:06.9920428+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:00:25.6158512+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:10:04.9743706+00:00"
 }

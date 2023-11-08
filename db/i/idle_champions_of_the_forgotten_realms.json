@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 970,
+  "Ranking_Rating": 971,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 63,
@@ -7899,7 +7899,7 @@
   ],
   "EOS_Progressed": 233945,
   "EOS_Completed": 2437,
-  "EOS_NewPlayers": 588,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -34736,8 +34736,8 @@
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-07T22:57:49.1873406+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:05:46.8232731+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:05:33.3911408+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.9071998+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:57:49.9002011+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:05:46.8253859+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:57:54.3080652+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:05:33.3945571+00:00"
 }

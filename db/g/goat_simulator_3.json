@@ -4957,9 +4957,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 250067,
+  "EOS_Progressed": 250068,
   "EOS_Completed": 871,
-  "EOS_NewPlayers": 728,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -26942,6 +26942,11 @@
       "Time": "2023-11-08T07:09:54.5856565+00:00",
       "NumProgressed": 250067,
       "NumCompleted": 871
+    },
+    {
+      "Time": "2023-11-08T08:09:54.0036427+00:00",
+      "NumProgressed": 250068,
+      "NumCompleted": 871
     }
   ],
   "TotalAchievements": 39,
@@ -27009,7 +27014,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 65017
+      "UsersEstimate": 65018
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -27017,7 +27022,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 227561
+      "UsersEstimate": 227562
     },
     {
       "ID": "AchievementClownID",
@@ -27025,7 +27030,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42511
+      "UsersEstimate": 42512
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -27113,7 +27118,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 112530
+      "UsersEstimate": 112531
     },
     {
       "ID": "AchievementIntroID",
@@ -27121,7 +27126,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142538
+      "UsersEstimate": 142539
     },
     {
       "ID": "AchievementLootBoxID",
@@ -27129,7 +27134,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 35009
+      "UsersEstimate": 35010
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -27153,7 +27158,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 95025
+      "UsersEstimate": 95026
     },
     {
       "ID": "AchievementRampID",
@@ -27217,7 +27222,7 @@
       "Name": "401(K.O.)",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 35009
+      "UsersEstimate": 35010
     },
     {
       "ID": "AchievementThroneID",
@@ -27233,7 +27238,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 117531
+      "UsersEstimate": 117532
     },
     {
       "ID": "AchievementTrinketID",
@@ -27264,7 +27269,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250067,
+      "Progressed": 250068,
       "Completed": 871
     }
   ],
@@ -27272,8 +27277,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-08T01:45:04.638138+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:09:54.5856562+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:09:54.0036417+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:20.6664953+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:02:25.8820315+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:09:54.5857908+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:02:50.5507476+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:09:54.0039444+00:00"
 }

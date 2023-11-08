@@ -1,45 +1,45 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.68 (Ranked 250)  
+Rating: 4.68 (Ranked 251)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Place to Lay Your Head | 93.00% | ~114,237 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~87,213 |
-| A Clear Conscience | 69.00% | ~84,756 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~87,214 |
+| A Clear Conscience | 69.00% | ~84,757 |
 | Unleash Hell | 68.00% | ~83,528 |
 | Unfulfilled Desires | 68.00% | ~83,528 |
-| Funny Guy | 67.00% | ~82,299 |
-| Unshackled | 67.00% | ~82,299 |
-| Long Live the King | 66.00% | ~81,071 |
+| Funny Guy | 67.00% | ~82,300 |
+| Unshackled | 67.00% | ~82,300 |
+| Long Live the King | 66.00% | ~81,072 |
 | Resurrection | 62.00% | ~76,158 |
 | Wyrdly Reconstructed | 62.00% | ~76,158 |
-| Boxcar Kid | 61.00% | ~74,929 |
-| Rush Hour | 60.00% | ~73,701 |
-| To Grandmother's House | 60.00% | ~73,701 |
+| Boxcar Kid | 61.00% | ~74,930 |
+| Rush Hour | 60.00% | ~73,702 |
+| To Grandmother's House | 60.00% | ~73,702 |
 | Serenity Now! | 54.00% | ~66,331 |
 | Hope Rekindled | 50.00% | ~61,418 |
-| Ramble On | 49.00% | ~60,189 |
-| Nope | 49.00% | ~60,189 |
-| This Looks Familiar | 38.00% | ~46,677 |
-| Now Stay Dead | 38.00% | ~46,677 |
+| Ramble On | 49.00% | ~60,190 |
+| Nope | 49.00% | ~60,190 |
+| This Looks Familiar | 38.00% | ~46,678 |
+| Now Stay Dead | 38.00% | ~46,678 |
 | Harvest Festival | 37.00% | ~45,449 |
 | Merry Time | 36.00% | ~44,221 |
 | Hot Air | 36.00% | ~44,221 |
 | Creep and Sleep | 33.00% | ~40,536 |
 | Overdue Notice | 33.00% | ~40,536 |
-| Whale | 32.00% | ~39,307 |
+| Whale | 32.00% | ~39,308 |
 | Banishment | 31.00% | ~38,079 |
-| FNG | 30.00% | ~36,850 |
+| FNG | 30.00% | ~36,851 |
 | Predator | 25.00% | ~30,709 |
 | Reverse Banditry | 25.00% | ~30,709 |
 | Autodidact | 25.00% | ~30,709 |
 | Meat and Greet | 23.00% | ~28,252 |
 | Spelunker | 22.00% | ~27,024 |
 | Road Trip | 22.00% | ~27,024 |
-| Eyes Up | 21.00% | ~25,795 |
+| Eyes Up | 21.00% | ~25,796 |
 | It Rings a Bell | 20.00% | ~24,567 |
 | Dissector | 18.00% | ~22,110 |
 | Escape from the Black Hole | 18.00% | ~22,110 |
@@ -53,7 +53,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 12.00% | ~14,740 |
 | Body of Work | 10.00% | ~12,284 |
 | Utopia | 9.00% | ~11,055 |
-| Hat Trick | 7.00% | ~8,598 |
+| Hat Trick | 7.00% | ~8,599 |
 | Ichthyophobic | 6.00% | ~7,370 |
 | No More Mouths to Feed | 6.00% | ~7,370 |
 | The World As It Was | 4.00% | ~4,913 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~123 |
 | No Gravestone Left Unturned | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 122,835 (Ranked 83)  
+Progressed: 122,836 (Ranked 83)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-05 | 122,583 | 1 |
 | 2023-11-06 | 122,679 | 1 |
 | 2023-11-07 | 122,788 | 1 |
-| 2023-11-08 | 122,835 | 1 |
+| 2023-11-08 | 122,836 | 1 |
 ## Awards
 Max (Character Customization): 7,493  (Ranked 50)  
 Sum: 19,690 (Ranked 59)  

@@ -2,7 +2,7 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 793,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 282,
   "Ranking_PopularitySum": 215,
   "Ranking_EOS_Progress": 153,
@@ -1051,9 +1051,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11460,
+  "EOS_Progressed": 11464,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1038,
+  "EOS_NewPlayers": 1040,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9321,6 +9321,11 @@
       "Time": "2023-11-08T07:08:53.1386609+00:00",
       "NumProgressed": 11460,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-08T08:08:59.1697572+00:00",
+      "NumProgressed": 11464,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9381,7 +9386,7 @@
       "Name": "Bye Bye",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 4584
+      "UsersEstimate": 4586
     },
     {
       "ID": "a_19",
@@ -9421,7 +9426,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "a_23",
@@ -9580,7 +9585,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11460,
+      "Progressed": 11464,
       "Completed": 10
     }
   ],
@@ -9588,8 +9593,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-07T18:01:57.8090042+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:08:53.1386606+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:08:59.1697566+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.8121034+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:02:14.9785901+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:08:53.1387102+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:01:51.3539293+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:08:59.1698313+00:00"
 }

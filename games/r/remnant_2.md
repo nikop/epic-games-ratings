@@ -7,9 +7,9 @@ Rating: 4.75 (Ranked 143)
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~19,689 |
 | The Killing Jar | 8.00% | ~17,501 |
-| Expanding Horizons | 7.00% | ~15,313 |
-| Quest for Survival | 7.00% | ~15,313 |
-| Not Your Average Trait | 7.00% | ~15,313 |
+| Expanding Horizons | 7.00% | ~15,314 |
+| Quest for Survival | 7.00% | ~15,314 |
+| Not Your Average Trait | 7.00% | ~15,314 |
 | Gleaming the Cube | 6.00% | ~13,126 |
 | Familiar Face | 6.00% | ~13,126 |
 | Duality | 6.00% | ~13,126 |
@@ -42,13 +42,13 @@ Rating: 4.75 (Ranked 143)
 | Strapped | 3.00% | ~6,563 |
 | Edgelord | 3.00% | ~6,563 |
 | The Ultimate Weapon | 3.00% | ~6,563 |
+| No One Should Have All That Power | 3.00% | ~6,563 |
 | Crafty | 2.00% | ~4,375 |
 | Only Human | 2.00% | ~4,375 |
 | Red Room | 2.00% | ~4,375 |
 | The Collector | 2.00% | ~4,375 |
 | Scrap Hoarder | 2.00% | ~4,375 |
 | Carnage in C-Minor | 2.00% | ~4,375 |
-| No One Should Have All That Power | 2.00% | ~4,375 |
 | Maxed Out! | 2.00% | ~4,375 |
 | Transmutate | 2.00% | ~4,375 |
 | Ghost in the Machine | 1.00% | ~2,188 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 143)
 | Cutting Edge | 1.00% | ~2,188 |
 | Proving Grounds | 1.00% | ~2,188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,763 (Ranked 68)  
+Progressed: 218,768 (Ranked 68)  
 Completed: 433 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,10 +171,10 @@ Completed: 433 (0.20%) (Ranked 244)
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
 | 2023-11-07 | 218,702 | 433 |
-| 2023-11-08 | 218,763 | 433 |
+| 2023-11-08 | 218,768 | 433 |
 ## Awards
 Max (Great Boss Battles): 2,095  (Ranked 109)  
-Sum: 4,689 (Ranked 143)  
+Sum: 4,692 (Ranked 143)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -187,7 +187,7 @@ Diff (max vs sum): -34
 | This game has Amazing Storytelling | 264 |
 | This game has Quickly Understood Controls | 252 |
 | This game has Amazing Characters | 252 |
-| This game has Unique Visuals | 216 |
+| This game has Unique Visuals | 219 |
 | This game has a Creative Community | 198 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -297,4 +297,4 @@ Diff (max vs sum): -34
 | 2023-11-05 | 4.75 | 2,066 | 4,605 |
 | 2023-11-06 | 4.75 | 2,080 | 4,650 |
 | 2023-11-07 | 4.75 | 2,095 | 4,688 |
-| 2023-11-08 | 4.75 | 2,095 | 4,689 |
+| 2023-11-08 | 4.75 | 2,095 | 4,692 |

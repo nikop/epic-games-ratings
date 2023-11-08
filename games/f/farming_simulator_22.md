@@ -1,26 +1,26 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.68 (Ranked 250)  
+Rating: 4.68 (Ranked 251)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~38,456 |
-| I read Shakespeare and stuff | 64.00% | ~32,815 |
+| I read Shakespeare and stuff | 64.00% | ~32,816 |
 | Just a sprinkle | 62.00% | ~31,790 |
-| I'm stumped | 61.00% | ~31,277 |
-| Plant get enough | 60.00% | ~30,764 |
+| I'm stumped | 61.00% | ~31,278 |
+| Plant get enough | 60.00% | ~30,765 |
 | This is just my weekend vehicle | 58.00% | ~29,739 |
 | It's just the beginning | 58.00% | ~29,739 |
-| Hard work pays off | 53.00% | ~27,175 |
+| Hard work pays off | 53.00% | ~27,176 |
 | It's never too late to farm | 51.00% | ~26,150 |
-| All out of Land | 45.00% | ~23,073 |
+| All out of Land | 45.00% | ~23,074 |
 | Field Trip | 44.00% | ~22,561 |
 | I like to switch it up | 40.00% | ~20,510 |
 | Help me to help you | 38.00% | ~19,484 |
 | Ultimutt Pawesomeness | 28.00% | ~14,357 |
-| Van Gogh | 26.00% | ~13,331 |
+| Van Gogh | 26.00% | ~13,332 |
 | You wood not believe it | 22.00% | ~11,280 |
 | Vehicle fleet | 22.00% | ~11,280 |
 | The plot thickens | 16.00% | ~8,204 |
@@ -33,7 +33,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Rock on | 12.00% | ~6,153 |
 | Highly cultivated | 11.00% | ~5,640 |
 | It's sow easy | 11.00% | ~5,640 |
-| Giddy-up! | 10.00% | ~5,127 |
+| Giddy-up! | 10.00% | ~5,128 |
 | Cowherd | 7.00% | ~3,589 |
 | Fluffyness | 6.00% | ~3,076 |
 | Road Trip | 6.00% | ~3,076 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~205 |
 | Raisin the stakes | 0.30% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,274 (Ranked 108)  
+Progressed: 51,275 (Ranked 108)  
 Completed: 6 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 6 (0.01%) (Ranked 321)
 | 2023-11-05 | 51,184 | 6 |
 | 2023-11-06 | 51,225 | 6 |
 | 2023-11-07 | 51,265 | 6 |
-| 2023-11-08 | 51,274 | 6 |
+| 2023-11-08 | 51,275 | 6 |
 ## Awards
 Max (Great for Beginners): 5,435  (Ranked 69)  
 Sum: 42,358 (Ranked 33)  

@@ -2,7 +2,7 @@
   "ID": "70d9536d99af4c70a55e4c23989f4225",
   "Name": "Lawn Mowing Simulator",
   "ProductSlug": "lawn-mowing-simulator-838bf3",
-  "Ranking_Rating": 964,
+  "Ranking_Rating": 965,
   "Ranking_Popularity": 296,
   "Ranking_PopularitySum": 262,
   "Ranking_EOS_Progress": 25,
@@ -2170,9 +2170,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 679271,
+  "EOS_Progressed": 679272,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1958,
+  "EOS_NewPlayers": 1952,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25160,6 +25160,11 @@
       "Time": "2023-11-08T07:10:04.9580604+00:00",
       "NumProgressed": 679271,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-08T08:10:03.0546574+00:00",
+      "NumProgressed": 679272,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -25171,7 +25176,7 @@
       "Name": "The dream begins",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 543417
+      "UsersEstimate": 543418
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -25602,15 +25607,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 679271,
+      "Progressed": 679272,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-07T10:02:24.1341182+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:10:04.9580601+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:10:03.0546565+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:03.9326585+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:02:42.3339633+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:10:04.9582165+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:03:05.3709807+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:10:03.0548475+00:00"
 }

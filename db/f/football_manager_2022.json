@@ -8154,10 +8154,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 50975,
       "NumberOfAwardsMax": 6465
+    },
+    {
+      "Time": "2023-11-08T08:01:16.9588079+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 50976,
+      "NumberOfAwardsMax": 6465
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50975,
+  "NumberOfAwards": 50976,
   "NumberOfAwardsMax": 6465,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -8183,7 +8189,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 5888
+      "Count": 5889
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8228,9 +8234,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 475636,
+  "EOS_Progressed": 475637,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28813,6 +28819,11 @@
       "Time": "2023-11-08T05:03:53.189667+00:00",
       "NumProgressed": 475636,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-08T08:03:41.5861913+00:00",
+      "NumProgressed": 475637,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -28848,7 +28859,7 @@
       "Name": "Unbeatable!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 175985
+      "UsersEstimate": 175986
     },
     {
       "ID": "achievement_10_seasons_at_one_club",
@@ -28880,7 +28891,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 123665
+      "UsersEstimate": 123666
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -28920,7 +28931,7 @@
       "Name": "Parked The Bus",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137934
+      "UsersEstimate": 137935
     },
     {
       "ID": "achievement_5_manager_of_the_year_awards",
@@ -28968,7 +28979,7 @@
       "Name": "Beating Expectations",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71345
+      "UsersEstimate": 71346
     },
     {
       "ID": "achievement_big_win",
@@ -28976,7 +28987,7 @@
       "Name": "Thumping",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 175985
+      "UsersEstimate": 175986
     },
     {
       "ID": "achievement_buy_50_million_plus_player",
@@ -29056,7 +29067,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199767
+      "UsersEstimate": 199768
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -29136,7 +29147,7 @@
       "Name": "Shrewd Spender",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137934
+      "UsersEstimate": 137935
     },
     {
       "ID": "achievement_hattrick",
@@ -29200,7 +29211,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109396
+      "UsersEstimate": 109397
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -29216,7 +29227,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 123665
+      "UsersEstimate": 123666
     },
     {
       "ID": "achievement_mr_delegator",
@@ -29296,7 +29307,7 @@
       "Name": "Star Man",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 137934
+      "UsersEstimate": 137935
     },
     {
       "ID": "achievement_player_in_world_cup_best_xi",
@@ -29368,7 +29379,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 228305
+      "UsersEstimate": 228306
     },
     {
       "ID": "achievement_signed_a_player",
@@ -29384,7 +29395,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109396
+      "UsersEstimate": 109397
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -29440,7 +29451,7 @@
       "Name": "Window Shopping",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 71345
+      "UsersEstimate": 71346
     },
     {
       "ID": "achievement_won_20_cup_competitions",
@@ -29607,15 +29618,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 475636,
+      "Progressed": 475637,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2023-11-08T07:01:35.1805772+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:03:42.2479309+00:00",
+  "LastChanged": "2023-11-08T08:01:16.9588078+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:03:41.5861907+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:02.7258269+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:01:35.180578+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:03:42.2481625+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:01:16.9588082+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:03:41.5868791+00:00"
 }

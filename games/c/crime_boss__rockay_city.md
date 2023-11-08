@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.95 (Ranked 1,002)  
+Rating: 3.95 (Ranked 1,003)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,002)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,679 (Ranked 91)  
+Progressed: 89,685 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-05 | 89,585 | 55 |
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
-| 2023-11-08 | 89,679 | 55 |
+| 2023-11-08 | 89,685 | 55 |
 ## Awards
 Max (Diverse Characters): 522  (Ranked 204)  
 Sum: 2,964 (Ranked 175)  

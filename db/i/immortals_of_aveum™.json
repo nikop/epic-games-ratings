@@ -2,12 +2,12 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 984,
+  "Ranking_Rating": 985,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 191,
+  "EOS_Progressed": 192,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -951,6 +951,11 @@
       "Time": "2023-11-08T05:06:48.093818+00:00",
       "NumProgressed": 191,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T08:06:16.0380717+00:00",
+      "NumProgressed": 192,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -963,7 +968,7 @@
       "Name": "Unforeseen",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_10",
@@ -995,7 +1000,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_14",
@@ -1003,7 +1008,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_15",
@@ -1107,7 +1112,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_36",
@@ -1131,15 +1136,15 @@
       "Name": "Best Dressed",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_4",
       "SetID": "18al4io",
       "Name": "No More Names",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "achievement_41",
@@ -1179,7 +1184,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_46",
@@ -1193,9 +1198,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 152
     },
     {
       "ID": "achievement_49",
@@ -1203,7 +1208,7 @@
       "Name": "Soldier",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_5",
@@ -1251,7 +1256,7 @@
       "Name": "Shroudfane Explorer",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_6",
@@ -1313,9 +1318,9 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_8",
@@ -1323,7 +1328,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_9",
@@ -1338,7 +1343,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 191,
+      "Progressed": 192,
       "Completed": 1
     }
   ],
@@ -1346,8 +1351,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:06:35.337302+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:06:16.0380693+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:57:55.9556012+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:06:35.3373331+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:57:59.4798008+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:06:16.0381199+00:00"
 }

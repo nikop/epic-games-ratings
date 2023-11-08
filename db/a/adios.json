@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1033,
+  "Ranking_Rating": 1034,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 95,
@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77837,
+  "EOS_Progressed": 77840,
   "EOS_Completed": 830,
   "EOS_NewPlayers": 611,
   "EOS_NewCompleters": 15,
@@ -22672,6 +22672,11 @@
       "Time": "2023-11-08T07:04:36.4836456+00:00",
       "NumProgressed": 77837,
       "NumCompleted": 830
+    },
+    {
+      "Time": "2023-11-08T08:04:30.0254244+00:00",
+      "NumProgressed": 77840,
+      "NumCompleted": 830
     }
   ],
   "TotalAchievements": 25,
@@ -22715,7 +22720,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17124
+      "UsersEstimate": 17125
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -22731,7 +22736,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "Cut Call",
@@ -22755,7 +22760,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15567
+      "UsersEstimate": 15568
     },
     {
       "ID": "Hearty",
@@ -22771,7 +22776,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7005
+      "UsersEstimate": 7006
     },
     {
       "ID": "Magnetic Miracles",
@@ -22803,7 +22808,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14789
+      "UsersEstimate": 14790
     },
     {
       "ID": "Nice Try",
@@ -22851,7 +22856,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "Taco Toto",
@@ -22882,7 +22887,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 77837,
+      "Progressed": 77840,
       "Completed": 830
     }
   ],
@@ -22890,8 +22895,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:04:36.4836452+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:04:30.0254239+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:01:34.4171064+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:04:36.4837676+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:01:16.4505816+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:04:30.0255929+00:00"
 }

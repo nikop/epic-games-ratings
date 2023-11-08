@@ -1,29 +1,29 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 309)  
+Rating: 4.65 (Ranked 310)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,753,014 |
-| Easy to forget | 46.00% | ~1,645,687 |
-| Back in the black | 39.00% | ~1,395,256 |
-| That's what I'm talking about | 29.00% | ~1,037,498 |
-| The Best of Both Worlds | 25.00% | ~894,395 |
-| Get your wings | 20.00% | ~715,516 |
+| You need to plug it in... | 49.00% | ~1,753,016 |
+| Easy to forget | 46.00% | ~1,645,689 |
+| Back in the black | 39.00% | ~1,395,258 |
+| That's what I'm talking about | 29.00% | ~1,037,499 |
+| The Best of Both Worlds | 25.00% | ~894,396 |
+| Get your wings | 20.00% | ~715,517 |
 | Double trouble | 16.00% | ~572,413 |
 | Smashing it | 11.00% | ~393,534 |
-| But can it run Crysis? | 9.00% | ~321,982 |
-| My favourite feature... | 9.00% | ~321,982 |
+| But can it run Crysis? | 9.00% | ~321,983 |
+| My favourite feature... | 9.00% | ~321,983 |
 | From humble beginnings... | 7.00% | ~250,431 |
 | Customer satisfaction | 7.00% | ~250,431 |
 | Keeping things neat | 4.00% | ~143,103 |
 | Seems you're pretty good at this | 4.00% | ~143,103 |
 | Bending over backwards | 4.00% | ~143,103 |
-| Triple threat | 3.00% | ~107,327 |
-| You rock at this! | 3.00% | ~107,327 |
-| Your music sucks | 3.00% | ~107,327 |
+| Triple threat | 3.00% | ~107,328 |
+| You rock at this! | 3.00% | ~107,328 |
+| Your music sucks | 3.00% | ~107,328 |
 | I'm broke, Uncle! | 2.00% | ~71,552 |
 | Maybe you should try something else? | 2.00% | ~71,552 |
 | Taking care of business | 2.00% | ~71,552 |
@@ -39,8 +39,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Owner | 1.00% | ~35,776 |
 | Show off | 0.90% | ~32,198 |
 | Work ethic 101 | 0.70% | ~25,043 |
-| Building momentum | 0.60% | ~21,465 |
-| Lead by example | 0.60% | ~21,465 |
+| Building momentum | 0.60% | ~21,466 |
+| Lead by example | 0.60% | ~21,466 |
 | Treat yourself - RAM | 0.50% | ~17,888 |
 | Mr big business | 0.40% | ~14,310 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,733 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,578 |
 | Treat yourself - GPU | 0.10% | ~3,578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,577,580 (Ranked 5)  
+Progressed: 3,577,584 (Ranked 5)  
 Completed: 37 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,10 +261,10 @@ Completed: 37 (0.00%) (Ranked 345)
 | 2023-11-05 | 3,576,913 | 37 |
 | 2023-11-06 | 3,577,222 | 37 |
 | 2023-11-07 | 3,577,530 | 37 |
-| 2023-11-08 | 3,577,580 | 37 |
+| 2023-11-08 | 3,577,584 | 37 |
 ## Awards
 Max (Great for Beginners): 1,099  (Ranked 143)  
-Sum: 8,114 (Ranked 103)  
+Sum: 8,115 (Ranked 103)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -273,7 +273,7 @@ Diff (max vs sum): 40
 | This game is Extremely Fun | 1,004 |
 | This game is Relaxing | 991 |
 | This game has Quickly Understood Controls | 951 |
-| This game is Highly Recommended | 905 |
+| This game is Highly Recommended | 906 |
 | This game has Amazing Storytelling | 827 |
 | This game has Amazing Characters | 669 |
 | This game has Obsessive Gameplay | 664 |
@@ -529,3 +529,4 @@ Diff (max vs sum): 40
 | 2023-11-05 | 4.65 | - | 1,096 | 8,107 |
 | 2023-11-06 | 4.65 | - | 1,099 | 8,113 |
 | 2023-11-07 | 4.65 | - | 1,099 | 8,114 |
+| 2023-11-08 | 4.65 | - | 1,099 | 8,115 |

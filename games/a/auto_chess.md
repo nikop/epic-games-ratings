@@ -1,11 +1,11 @@
 # Auto Chess
 [Store](https://store.epicgames.com/en-US/p/auto-chess)  
 [View Rawdata](../../db/a/auto_chess.json)  
-Rating: 4.52 (Ranked 551)  
+Rating: 4.52 (Ranked 552)  
 Number of Ratings: 2,249  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 836  (Ranked 165)  
-Sum: 6,332 (Ranked 128)  
+Sum: 6,333 (Ranked 128)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 37
 | This game is Extremely Fun | 646 |
 | This game is Highly Recommended | 587 |
 | This game has Amazing Characters | 570 |
-| This game has Amazing Storytelling | 510 |
+| This game has Amazing Storytelling | 511 |
 | This game has Playful Visuals | 463 |
 | This game has a Competitive Community | 435 |
 | This game is Great for Beginners | 394 |
@@ -300,4 +300,4 @@ Diff (max vs sum): 37
 | 2023-11-05 | 4.52 | - | 836 | 6,326 |
 | 2023-11-06 | 4.52 | - | 836 | 6,329 |
 | 2023-11-07 | 4.52 | - | 836 | 6,330 |
-| 2023-11-08 | 4.52 | - | 836 | 6,332 |
+| 2023-11-08 | 4.52 | - | 836 | 6,333 |

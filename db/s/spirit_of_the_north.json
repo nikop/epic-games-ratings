@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 98,
@@ -333,7 +333,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73628,
+  "EOS_Progressed": 73629,
   "EOS_Completed": 387,
   "EOS_NewPlayers": 669,
   "EOS_NewCompleters": 4,
@@ -22553,6 +22553,11 @@
       "Time": "2023-11-08T07:09:07.7550941+00:00",
       "NumProgressed": 73628,
       "NumCompleted": 387
+    },
+    {
+      "Time": "2023-11-08T08:09:12.2934816+00:00",
+      "NumProgressed": 73629,
+      "NumCompleted": 387
     }
   ],
   "TotalAchievements": 24,
@@ -22580,7 +22585,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50067
+      "UsersEstimate": 50068
     },
     {
       "ID": "BEST_FRIENDS",
@@ -22596,7 +22601,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19143
+      "UsersEstimate": 19144
     },
     {
       "ID": "ERADICATE",
@@ -22748,14 +22753,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11780
+      "UsersEstimate": 11781
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73628,
+      "Progressed": 73629,
       "Completed": 387
     }
   ],
@@ -22763,8 +22768,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:09:07.7550936+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:09:12.2934811+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:53.4635591+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:01:09.5941133+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:09:07.7552286+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:00:51.8066673+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:09:12.2936316+00:00"
 }

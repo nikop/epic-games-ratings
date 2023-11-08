@@ -2,13 +2,13 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 931,
+  "Ranking_Rating": 932,
   "Ranking_Popularity": 381,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -987,7 +987,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66096,
+  "EOS_Progressed": 66098,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 744,
   "EOS_NewCompleters": 2,
@@ -8312,6 +8312,11 @@
       "Time": "2023-11-08T07:04:33.8972974+00:00",
       "NumProgressed": 66096,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-08T08:04:27.6540703+00:00",
+      "NumProgressed": 66098,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8388,7 +8393,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11236
+      "UsersEstimate": 11237
     },
     {
       "ID": "3",
@@ -8396,7 +8401,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8592
+      "UsersEstimate": 8593
     },
     {
       "ID": "4",
@@ -8451,7 +8456,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66096,
+      "Progressed": 66098,
       "Completed": 29
     }
   ],
@@ -8459,8 +8464,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-08T04:58:16.2899351+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:04:33.8972971+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:04:27.6540689+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:58:13.5821443+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:04:33.897345+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:58:17.8368781+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:04:27.6541385+00:00"
 }

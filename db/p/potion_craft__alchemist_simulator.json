@@ -2,12 +2,12 @@
   "ID": "076c0aa2704a4741a2cb7e2436efd2fd",
   "Name": "Potion Craft: Alchemist Simulator",
   "ProductSlug": "potion-craft-7656a2",
-  "Ranking_Rating": 483,
+  "Ranking_Rating": 484,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 730,
+  "Ranking_EOS_Progress": 731,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-13T17:00:00+00:00",
@@ -224,8 +224,8 @@
   "FirstSeenRating": "2022-12-27T02:02:09.6574842+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.9399918+00:00",
   "LastChanged": "2023-10-30T21:02:04.9163265+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:06:10.4668418+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:05:53.8425998+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:45.0180623+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:00:49.0108211+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:06:10.4668432+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:00:34.3979157+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:05:53.8426022+00:00"
 }

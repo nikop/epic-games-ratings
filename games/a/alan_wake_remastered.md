@@ -1,35 +1,35 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.53 (Ranked 534)  
+Rating: 4.53 (Ranked 535)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 56.00% | ~51,143 |
-| Let There Be Light | 46.00% | ~42,010 |
-| Float Like a Butterfly | 44.00% | ~40,184 |
+| Follow the Light | 56.00% | ~51,144 |
+| Let There Be Light | 46.00% | ~42,011 |
+| Float Like a Butterfly | 44.00% | ~40,185 |
 | Nordic Walking | 36.00% | ~32,878 |
-| Bright Falls' Finest | 35.00% | ~31,964 |
-| Under a Thin Layer of Skin | 31.00% | ~28,311 |
-| Park Ranger | 26.00% | ~23,745 |
-| Paging Mr. Wake | 26.00% | ~23,745 |
-| Back! Back, I Say! | 24.00% | ~21,918 |
-| Finders Keepers | 24.00% | ~21,918 |
+| Bright Falls' Finest | 35.00% | ~31,965 |
+| Under a Thin Layer of Skin | 31.00% | ~28,312 |
+| Park Ranger | 26.00% | ~23,746 |
+| Paging Mr. Wake | 26.00% | ~23,746 |
+| Back! Back, I Say! | 24.00% | ~21,919 |
+| Finders Keepers | 24.00% | ~21,919 |
 | Sound and Fury | 22.00% | ~20,092 |
 | Missed by a Mile | 22.00% | ~20,092 |
 | Damn Good Cup of Coffee | 22.00% | ~20,092 |
 | They're Heeeeeere! | 21.00% | ~19,179 |
-| Wheels Within Wheels | 20.00% | ~18,265 |
-| Iron Horse | 19.00% | ~17,352 |
-| The Six-Gun Scribe | 19.00% | ~17,352 |
+| Wheels Within Wheels | 20.00% | ~18,266 |
+| Iron Horse | 19.00% | ~17,353 |
+| The Six-Gun Scribe | 19.00% | ~17,353 |
 | Heavy Metal | 18.00% | ~16,439 |
 | Collateral Carnage | 18.00% | ~16,439 |
 | Come One, Come All | 18.00% | ~16,439 |
 | Perchance to Dream | 17.00% | ~15,526 |
-| It's Not Just a Typewriter Brand | 16.00% | ~14,612 |
-| Thunder and Lightning | 16.00% | ~14,612 |
-| Two For the Price of One | 16.00% | ~14,612 |
+| It's Not Just a Typewriter Brand | 16.00% | ~14,613 |
+| Thunder and Lightning | 16.00% | ~14,613 |
+| Two For the Price of One | 16.00% | ~14,613 |
 | Gatekeeper | 15.00% | ~13,699 |
 | Energized! | 15.00% | ~13,699 |
 | The Lady of the Light | 14.00% | ~12,786 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Licensed Properties | 0.20% | ~110 |
 | No Punctuation | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,327 (Ranked 90)  
+Progressed: 91,329 (Ranked 90)  
 Completed: 87 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,7 +276,7 @@ Completed: 87 (0.10%) (Ranked 269)
 | 2023-11-05 | 90,442 | 85 |
 | 2023-11-06 | 90,868 | 86 |
 | 2023-11-07 | 91,224 | 87 |
-| 2023-11-08 | 91,327 | 87 |
+| 2023-11-08 | 91,329 | 87 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

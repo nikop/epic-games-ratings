@@ -2,12 +2,12 @@
   "ID": "d2b282a6b53e409a8f8329d3d3356f21",
   "Name": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
   "ProductSlug": "stranger-of-paradise-final-fantasy-origin",
-  "Ranking_Rating": 563,
+  "Ranking_Rating": 564,
   "Ranking_Popularity": 171,
   "Ranking_PopularitySum": 229,
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 53,
   "Store": {
     "ReleaseDate": "2022-03-18T04:00:00+00:00",
@@ -1747,9 +1747,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 79903,
+  "EOS_Progressed": 79904,
   "EOS_Completed": 2189,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.74,
   "EosHistory": [
@@ -9422,6 +9422,11 @@
       "Time": "2023-11-08T06:03:49.0372095+00:00",
       "NumProgressed": 79903,
       "NumCompleted": 2189
+    },
+    {
+      "Time": "2023-11-08T08:04:12.3170752+00:00",
+      "NumProgressed": 79904,
+      "NumCompleted": 2189
     }
   ],
   "TotalAchievements": 46,
@@ -9441,7 +9446,7 @@
       "Name": "Hopes and Dreams",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 65520
+      "UsersEstimate": 65521
     },
     {
       "ID": "002_TROPHY_MISSION_JOURNEY_BEGIN",
@@ -9449,7 +9454,7 @@
       "Name": "The Pirate\u0027s Way",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 59128
+      "UsersEstimate": 59129
     },
     {
       "ID": "003_TROPHY_MISSION_DARK_ELF",
@@ -9457,7 +9462,7 @@
       "Name": "The King of the Dark Elves",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 54334
+      "UsersEstimate": 54335
     },
     {
       "ID": "004_TROPHY_MISSION_NATURAL_DISTORTION",
@@ -9465,7 +9470,7 @@
       "Name": "Distortion\u0027s Progeny",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 50339
+      "UsersEstimate": 50340
     },
     {
       "ID": "005_TROPHY_MISSION_FAMILIAR_PLACE",
@@ -9489,7 +9494,7 @@
       "Name": "Vague Remembrances",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 39152
+      "UsersEstimate": 39153
     },
     {
       "ID": "008_TROPHY_MISSION_FIRE_MEMORIES",
@@ -9497,7 +9502,7 @@
       "Name": "The Fire\u0027s Light",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37554
+      "UsersEstimate": 37555
     },
     {
       "ID": "009_TROPHY_MISSION_PAST_PHANTOM",
@@ -9505,7 +9510,7 @@
       "Name": "Phantom Memories",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37554
+      "UsersEstimate": 37555
     },
     {
       "ID": "010_TROPHY_MISSION_EARTH_MEMORIES",
@@ -9513,7 +9518,7 @@
       "Name": "The Earth\u0027s Light",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 35956
+      "UsersEstimate": 35957
     },
     {
       "ID": "011_TROPHY_MISSION_REMEMBER",
@@ -9521,7 +9526,7 @@
       "Name": "Shared Recollections",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 33559
+      "UsersEstimate": 33560
     },
     {
       "ID": "012_TROPHY_MISSION_WATER_MEMORIES",
@@ -9529,7 +9534,7 @@
       "Name": "The Water\u0027s Light",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31961
+      "UsersEstimate": 31962
     },
     {
       "ID": "013_TROPHY_MISSION_PAST_SCHEME",
@@ -9537,7 +9542,7 @@
       "Name": "Malice Takes Root",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 30363
+      "UsersEstimate": 30364
     },
     {
       "ID": "014_TROPHY_MISSION_REMEMBERING_HOME",
@@ -9577,7 +9582,7 @@
       "Name": "Cycle of Darkness",
       "Percentage": 16,
       "XP": 95,
-      "UsersEstimate": 12784
+      "UsersEstimate": 12785
     },
     {
       "ID": "019_TROPHY_CLEAR_SUB_MISSION",
@@ -9585,7 +9590,7 @@
       "Name": "Memories of the Distant Past",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 52736
+      "UsersEstimate": 52737
     },
     {
       "ID": "020_TROPHY_COMPLETE_SUB_MISSION",
@@ -9601,7 +9606,7 @@
       "Name": "Manifestation of the Soul",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 77506
+      "UsersEstimate": 77507
     },
     {
       "ID": "022_TROPHY_FIRST_WEAPON_ABILITY",
@@ -9609,7 +9614,7 @@
       "Name": "Imbued Memories",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 37554
+      "UsersEstimate": 37555
     },
     {
       "ID": "023_TROPHY_DEFEAT_USAB",
@@ -9625,7 +9630,7 @@
       "Name": "Lantern Smasher",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 62324
+      "UsersEstimate": 62325
     },
     {
       "ID": "025_TROPHY_FIRST_ANIMA_FRAGMENT",
@@ -9705,7 +9710,7 @@
       "Name": "Dark Crystal, Warrior\u0027s Heart",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 56731
+      "UsersEstimate": 56732
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -9785,7 +9790,7 @@
       "Name": "Path of the Sage",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 31961
+      "UsersEstimate": 31962
     },
     {
       "ID": "045_TROPHY_UNLOCKED_CYCLIC_WARRIOR",
@@ -9800,15 +9805,15 @@
     {
       "ID": "4ajkb4b",
       "IsBase": true,
-      "Progressed": 79903,
+      "Progressed": 79904,
       "Completed": 2189
     }
   ],
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2023-11-06T01:44:20.6687067+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:04:16.7569515+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:04:12.3170748+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:17.2090976+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:59:49.8721339+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:04:16.7570108+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:59:43.9005181+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:04:12.3172367+00:00"
 }

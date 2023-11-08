@@ -1,11 +1,11 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 522)  
+Rating: 4.54 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~807 |
+| Whatever It Takes | 2.00% | ~808 |
 | One of Us | 1.00% | ~404 |
 | Pork Chopped | 1.00% | ~404 |
 | Hotel California | 0.50% | ~3,574 |
@@ -20,20 +20,20 @@ Rating: 4.54 (Ranked 522)
 | Friends Like These | 0.40% | ~2,859 |
 | Apex Predator | 0.40% | ~2,859 |
 | Personal Assistant Personally Assisted | 0.40% | ~2,859 |
-| Perks of the Job | 0.30% | ~2,144 |
-| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,144 |
-| But Doctor, I am Butcho | 0.30% | ~2,144 |
-| Slayer Squad | 0.30% | ~2,144 |
-| Can't Handle the Truth | 0.30% | ~2,144 |
-| Like Riding a Bike | 0.30% | ~2,144 |
-| Not Even My Final Form | 0.30% | ~2,144 |
-| Zombologist | 0.30% | ~2,144 |
-| Ooh, Shiny! | 0.30% | ~2,144 |
-| A Patton Emerges | 0.30% | ~2,144 |
-| Stacking the Deck | 0.30% | ~2,144 |
-| Max Headroom | 0.30% | ~2,144 |
-| Our True Nature | 0.30% | ~2,144 |
-| This is My Weapon | 0.30% | ~2,144 |
+| Perks of the Job | 0.30% | ~2,145 |
+| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,145 |
+| But Doctor, I am Butcho | 0.30% | ~2,145 |
+| Slayer Squad | 0.30% | ~2,145 |
+| Can't Handle the Truth | 0.30% | ~2,145 |
+| Like Riding a Bike | 0.30% | ~2,145 |
+| Not Even My Final Form | 0.30% | ~2,145 |
+| Zombologist | 0.30% | ~2,145 |
+| Ooh, Shiny! | 0.30% | ~2,145 |
+| A Patton Emerges | 0.30% | ~2,145 |
+| Stacking the Deck | 0.30% | ~2,145 |
+| Max Headroom | 0.30% | ~2,145 |
+| Our True Nature | 0.30% | ~2,145 |
+| This is My Weapon | 0.30% | ~2,145 |
 | Making Your Mark | 0.20% | ~1,430 |
 | On Safari | 0.20% | ~1,430 |
 | Jumbo Keyring | 0.20% | ~1,430 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,830 (Ranked 21)  
+Progressed: 714,844 (Ranked 21)  
 Completed: 2,356 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 2,356 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 714,830 | 2,356 |
+| 2023-11-08 | 714,844 | 2,356 |
 ## Awards
 Max (Great Boss Battles): 7,178  (Ranked 53)  
 Sum: 10,888 (Ranked 87)  

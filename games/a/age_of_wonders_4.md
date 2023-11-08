@@ -1,11 +1,11 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 409)  
+Rating: 4.60 (Ranked 410)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 0.20% | ~11 |
+| But this one is mine | 0.30% | ~16 |
 | Return of the Wizard King | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | Arch Mage | 0.10% | ~5 |

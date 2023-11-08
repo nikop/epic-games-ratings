@@ -1,14 +1,14 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 922)  
+Rating: 4.18 (Ranked 923)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,839 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,654 |
+| First Step Into the Knight | 51.00% | ~38,840 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,655 |
 | Loose Ends | 34.00% | ~25,893 |
-| To the Victor Go the Spoils | 28.00% | ~21,323 |
+| To the Victor Go the Spoils | 28.00% | ~21,324 |
 | Knighthood | 27.00% | ~20,562 |
 | Get ReQ'd | 25.00% | ~19,039 |
 | Whispered Words | 25.00% | ~19,039 |
@@ -19,10 +19,10 @@ Rating: 4.18 (Ranked 922)
 | Working Hard or Harley Working? | 20.00% | ~15,231 |
 | Unstoppable Force | 20.00% | ~15,231 |
 | Bad Apples in Every Orchard | 20.00% | ~15,231 |
-| Snow Problem | 19.00% | ~14,469 |
+| Snow Problem | 19.00% | ~14,470 |
 | The Show Mud Go On | 18.00% | ~13,708 |
 | From Inside Gotham's Walls | 18.00% | ~13,708 |
-| Protector of Gotham | 17.00% | ~12,946 |
+| Protector of Gotham | 17.00% | ~12,947 |
 | Universal Health Scare | 16.00% | ~12,185 |
 | In Your Element | 15.00% | ~11,423 |
 | Voiceless | 15.00% | ~11,423 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 922)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,155 (Ranked 97)  
+Progressed: 76,156 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,17 +269,17 @@ Completed: 123 (0.16%) (Ranked 254)
 | 2023-11-05 | 76,025 | 123 |
 | 2023-11-06 | 76,084 | 123 |
 | 2023-11-07 | 76,141 | 123 |
-| 2023-11-08 | 76,155 | 123 |
+| 2023-11-08 | 76,156 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,914  (Ranked 98)  
-Sum: 4,943 (Ranked 137)  
+Sum: 4,947 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,914 |
+| This game has Diverse Characters | 261 |
 | This game is Extremely Fun | 258 |
 | This game is Relaxing | 257 |
-| This game has Diverse Characters | 257 |
 | This game is Great for Beginners | 254 |
 | This game has Quickly Understood Controls | 253 |
 | This game has Amazing Characters | 251 |
@@ -545,4 +545,4 @@ Diff (max vs sum): -39
 | 2023-11-05 | 4.18 | 2,907 | 4,924 |
 | 2023-11-06 | 4.18 | 2,907 | 4,927 |
 | 2023-11-07 | 4.18 | 2,907 | 4,934 |
-| 2023-11-08 | 4.18 | 2,914 | 4,943 |
+| 2023-11-08 | 4.18 | 2,914 | 4,947 |

@@ -2,9 +2,9 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "WRC",
   "ProductSlug": "wrc",
-  "Ranking_EOS_Progress": 730,
+  "Ranking_EOS_Progress": 731,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -249,8 +249,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:09:45.7670104+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:09:46.0153393+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:01:40.5374738+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:09:45.7670284+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:01:21.3246418+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:09:46.0153614+00:00"
 }

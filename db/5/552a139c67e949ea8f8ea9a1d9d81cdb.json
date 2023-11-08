@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 950,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1920,9 +1920,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 323
+      "UsersEstimate": 332
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2149,8 +2149,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:06:50.2828376+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:06:29.3936445+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:57:41.985617+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:06:50.2828786+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:57:46.0390768+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:06:29.3936928+00:00"
 }

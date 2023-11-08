@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 330)  
+Rating: 4.64 (Ranked 331)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,13 +11,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 0.70% | ~170 |
 | Full Body Conversion | 0.40% | ~3,583 |
 | Right Back At Ya | 0.40% | ~3,583 |
+| Stanislavski's Method | 0.40% | ~3,583 |
 | True Soldier | 0.40% | ~3,583 |
 | All the President's Men | 0.40% | ~97 |
 | Arachnophobia | 0.40% | ~97 |
 | Christmas Tree Attack | 0.30% | ~2,687 |
 | The Quick and the Dead | 0.30% | ~2,687 |
 | Life of the Road | 0.30% | ~2,687 |
-| Stanislavski's Method | 0.30% | ~2,687 |
 | The Hermit | 0.30% | ~2,687 |
 | The Lovers | 0.30% | ~2,687 |
 | The Wheel of Fortune | 0.30% | ~2,687 |
@@ -75,7 +75,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 895,734 (Ranked 15)  
-Completed: 2,753 (0.31%) (Ranked 222)  
+Completed: 2,754 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -276,7 +276,7 @@ Completed: 2,753 (0.31%) (Ranked 222)
 | 2023-11-05 | 895,449 | 2,747 |
 | 2023-11-06 | 895,578 | 2,750 |
 | 2023-11-07 | 895,712 | 2,753 |
-| 2023-11-08 | 895,734 | 2,753 |
+| 2023-11-08 | 895,734 | 2,754 |
 ## Awards
 Max (Character Customization): 104,395  (Ranked 9)  
 Sum: 346,106 (Ranked 10)  

@@ -2,7 +2,7 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 584,
+  "Ranking_Rating": 585,
   "Ranking_Popularity": 245,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
@@ -3165,9 +3165,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30512,
+  "EOS_Progressed": 30514,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 1106,
+  "EOS_NewPlayers": 1099,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18390,6 +18390,11 @@
       "Time": "2023-11-08T07:08:33.8685316+00:00",
       "NumProgressed": 30512,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-08T08:08:41.8823468+00:00",
+      "NumProgressed": 30514,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 51,
@@ -18449,7 +18454,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "Collector",
@@ -18489,7 +18494,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "Dont_Need_These",
@@ -18537,7 +18542,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "GB_In_Training",
@@ -18689,7 +18694,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "Stunner",
@@ -18729,7 +18734,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "Teamwork",
@@ -18737,7 +18742,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "Terrifying",
@@ -18785,7 +18790,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "Welcome_Crew",
@@ -18808,7 +18813,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30512,
+      "Progressed": 30514,
       "Completed": 65
     }
   ],
@@ -18816,8 +18821,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-08T05:00:23.999272+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:08:33.8685312+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:08:41.8823462+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:00:21.8130733+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:08:33.8686564+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:00:12.2377343+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:08:41.8825088+00:00"
 }

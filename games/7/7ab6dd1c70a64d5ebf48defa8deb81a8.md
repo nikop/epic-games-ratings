@@ -7,10 +7,10 @@
 | Break Out | 58.00% | ~100 |
 | Trinity | 29.00% | ~50 |
 | Shatter Them All | 24.00% | ~41 |
+| I Found It | 24.00% | ~41 |
 | Find Allies | 23.00% | ~40 |
 | A Taste of Wrath | 23.00% | ~40 |
 | Fashion Victim | 23.00% | ~40 |
-| I Found It | 23.00% | ~40 |
 | Powerful Allies | 22.00% | ~38 |
 | The Collector | 22.00% | ~38 |
 | Adventurer | 21.00% | ~36 |

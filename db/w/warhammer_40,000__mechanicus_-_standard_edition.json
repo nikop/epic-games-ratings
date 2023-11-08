@@ -2,12 +2,12 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 688,
+  "Ranking_Rating": 689,
   "Ranking_Popularity": 252,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -906,9 +906,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 226682,
+  "EOS_Progressed": 226683,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 519,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22981,6 +22981,11 @@
       "Time": "2023-11-08T07:09:43.4728457+00:00",
       "NumProgressed": 226682,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-08T08:09:44.0893107+00:00",
+      "NumProgressed": 226683,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -23000,7 +23005,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 58937
+      "UsersEstimate": 58938
     },
     {
       "ID": "ACH_BASE_11",
@@ -23263,7 +23268,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226682,
+      "Progressed": 226683,
       "Completed": 5
     }
   ],
@@ -23271,8 +23276,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-08T03:59:07.4586743+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:09:43.4728453+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:09:44.0893098+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:07.5149381+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:59:33.2204292+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:09:43.4730144+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:59:29.0829005+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:09:44.0894751+00:00"
 }

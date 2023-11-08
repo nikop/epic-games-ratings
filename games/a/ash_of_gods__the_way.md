@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 100.00% | ~31 |
-| Suicide squad | 48.00% | ~15 |
+| Suicide squad | 52.00% | ~16 |
 | First blood | 29.00% | ~9 |
 | Train hard, fight easy | 26.00% | ~8 |
 | Under cover | 26.00% | ~8 |

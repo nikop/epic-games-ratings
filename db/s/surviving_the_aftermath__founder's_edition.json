@@ -2,7 +2,7 @@
   "ID": "95b4d5a753d042678f775d5e1eb5ab25",
   "Name": "Surviving the Aftermath",
   "ProductSlug": "surviving-the-aftermath",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 621,
   "Ranking_Popularity": 354,
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 156,
@@ -1392,9 +1392,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10181,
+  "EOS_Progressed": 10182,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16587,6 +16587,11 @@
       "Time": "2023-11-08T04:05:07.9210968+00:00",
       "NumProgressed": 10181,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T08:05:26.5105709+00:00",
+      "NumProgressed": 10182,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16598,7 +16603,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6210
+      "UsersEstimate": 6211
     },
     {
       "ID": "10",
@@ -16686,7 +16691,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3563
+      "UsersEstimate": 3564
     },
     {
       "ID": "20",
@@ -16710,7 +16715,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7432
+      "UsersEstimate": 7433
     },
     {
       "ID": "23",
@@ -16822,7 +16827,7 @@
       "Name": "War Never Changes",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "36",
@@ -16862,7 +16867,7 @@
       "Name": "Catastrofan",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 2952
+      "UsersEstimate": 2953
     },
     {
       "ID": "40",
@@ -16870,7 +16875,7 @@
       "Name": "Bread and Circuses",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "41",
@@ -16942,7 +16947,7 @@
       "Name": "Mentor",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "5",
@@ -16990,7 +16995,7 @@
       "Name": "Top Notch",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 2545
+      "UsersEstimate": 2546
     },
     {
       "ID": "55",
@@ -17022,7 +17027,7 @@
       "Name": "Tailored to fit",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "59",
@@ -17069,15 +17074,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10181,
+      "Progressed": 10182,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-04T14:57:34.7407793+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:05:39.8660246+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:05:26.51057+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.6653375+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:00:25.7348145+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:05:39.8661504+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:00:15.4666119+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:05:26.5107586+00:00"
 }

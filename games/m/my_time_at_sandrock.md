@@ -1,62 +1,62 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 250)  
+Rating: 4.68 (Ranked 251)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 235.00% | ~592 |
-| Iron Chef | 192.00% | ~484 |
-| Greeno-B-Gone | 118.00% | ~297 |
-| Your Especially Earned Trajectory | 93.00% | ~234 |
+| Adept Assembler | 236.00% | ~592 |
+| Iron Chef | 193.00% | ~484 |
+| Greeno-B-Gone | 119.00% | ~299 |
+| Your Especially Earned Trajectory | 94.00% | ~236 |
 | No Mountain Wide Enough | 60.00% | ~151 |
-| Can We Keep It? | 57.00% | ~144 |
+| Can We Keep It? | 57.00% | ~143 |
 | On that Grindset | 56.00% | ~141 |
-| My Time Mansion | 42.00% | ~106 |
+| My Time Mansion | 43.00% | ~108 |
 | Pack Mule | 41.00% | ~103 |
-| Diamonds are Forever | 40.00% | ~101 |
+| Diamonds are Forever | 40.00% | ~100 |
 | Financially Secure | 39.00% | ~98 |
 | Yakmel Whisperer | 39.00% | ~98 |
-| Mole Masher | 36.00% | ~91 |
+| Mole Masher | 36.00% | ~90 |
 | Happier-est Place on Earth | 35.00% | ~88 |
-| Knowledge is Power | 34.00% | ~86 |
-| Big Game Hunter | 34.00% | ~86 |
-| Unboxing | 34.00% | ~86 |
+| Knowledge is Power | 34.00% | ~85 |
+| Big Game Hunter | 34.00% | ~85 |
+| Unboxing | 34.00% | ~85 |
 | Better Late than Never | 33.00% | ~83 |
 | Got Served | 33.00% | ~83 |
 | You Don't Win Friends With Salad | 33.00% | ~83 |
 | Call Me Fishmael | 33.00% | ~83 |
 | I Do! | 31.00% | ~78 |
-| What Plants Crave | 30.00% | ~76 |
-| Officially Official | 30.00% | ~76 |
-| Anti-Santa | 30.00% | ~76 |
-| One of the Cool Kids | 30.00% | ~76 |
+| What Plants Crave | 30.00% | ~75 |
+| Officially Official | 30.00% | ~75 |
+| Anti-Santa | 30.00% | ~75 |
+| One of the Cool Kids | 30.00% | ~75 |
 | Chatterbox | 29.00% | ~73 |
-| Finishing Touches | 28.00% | ~71 |
-| Panda-kin | 23.00% | ~58 |
+| Finishing Touches | 28.00% | ~70 |
+| Panda-kin | 24.00% | ~60 |
 | Jewel of the Eufaula | 23.00% | ~58 |
+| Who Ya Gonna Call...? | 22.00% | ~55 |
 | First Love | 22.00% | ~55 |
-| Who Ya Gonna Call...? | 21.00% | ~53 |
 | Builder of the Month | 18.00% | ~45 |
 | Bridging the Gap | 18.00% | ~45 |
+| He Can Spin A Yarn... | 18.00% | ~45 |
+| Waste Not Want Not | 18.00% | ~45 |
 | Martle's Dream | 17.00% | ~43 |
-| He Can Spin A Yarn... | 17.00% | ~43 |
-| Waste Not Want Not | 17.00% | ~43 |
 | Elementary, My Dear | 16.00% | ~40 |
 | Newton | 16.00% | ~40 |
-| Got the Flow Back | 13.00% | ~33 |
-| Commissions, commissions...! | 12.00% | ~30 |
+| Got the Flow Back | 14.00% | ~35 |
+| Commissions, commissions...! | 13.00% | ~33 |
+| Kind of a Big Deal | 12.00% | ~30 |
 | Lifeline Pipeline | 12.00% | ~30 |
 | Do Your Part | 12.00% | ~30 |
-| Kind of a Big Deal | 11.00% | ~28 |
 | Cardistry | 11.00% | ~28 |
 | Just What I Always Wanted! | 11.00% | ~28 |
 | Time Flies | 10.00% | ~25 |
 | Pro Gamer | 10.00% | ~25 |
 | Santa In Training | 10.00% | ~25 |
+| Sandrunning Speedster | 9.00% | ~23 |
 | Jack of All Trades | 8.00% | ~20 |
-| Sandrunning Speedster | 8.00% | ~20 |
 | It Belongs in a Museum! | 8.00% | ~20 |
 | It's High Noon... | 6.00% | ~15 |
 | Sepia Toned Memories | 6.00% | ~15 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 252 (Ranked 347)  
+Progressed: 251 (Ranked 347)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

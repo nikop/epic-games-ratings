@@ -2,7 +2,7 @@
   "ID": "ae373893881044d2bf26d6f8363a120e",
   "Name": "Supraland",
   "ProductSlug": "supraland",
-  "Ranking_Rating": 382,
+  "Ranking_Rating": 383,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 19,
@@ -3133,9 +3133,9 @@
       "Count": 195
     }
   ],
-  "EOS_Progressed": 732031,
+  "EOS_Progressed": 732032,
   "EOS_Completed": 758,
-  "EOS_NewPlayers": 826,
+  "EOS_NewPlayers": 825,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -25773,6 +25773,11 @@
       "Time": "2023-11-08T07:07:04.3276059+00:00",
       "NumProgressed": 732031,
       "NumCompleted": 758
+    },
+    {
+      "Time": "2023-11-08T08:06:42.9304577+00:00",
+      "NumProgressed": 732032,
+      "NumCompleted": 758
     }
   ],
   "TotalAchievements": 98,
@@ -25816,7 +25821,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 219609
+      "UsersEstimate": 219610
     },
     {
       "ID": "BallShooter",
@@ -25864,7 +25869,7 @@
       "Name": "Blue King\u0027s lair",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 80523
+      "UsersEstimate": 80524
     },
     {
       "ID": "Buckle",
@@ -25912,7 +25917,7 @@
       "Name": "Payback",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 80523
+      "UsersEstimate": 80524
     },
     {
       "ID": "CoinsBack",
@@ -25920,7 +25925,7 @@
       "Name": "Got the coins back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 80523
+      "UsersEstimate": 80524
     },
     {
       "ID": "Crash2",
@@ -26032,7 +26037,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 387976
+      "UsersEstimate": 387977
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -26120,7 +26125,7 @@
       "Name": "Got the gun back",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 80523
+      "UsersEstimate": 80524
     },
     {
       "ID": "Happiness",
@@ -26144,7 +26149,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 402617
+      "UsersEstimate": 402618
     },
     {
       "ID": "Healthregen",
@@ -26200,7 +26205,7 @@
       "Name": "Infiltrated",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 80523
+      "UsersEstimate": 80524
     },
     {
       "ID": "InvisibleWall",
@@ -26224,7 +26229,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 270851
+      "UsersEstimate": 270852
     },
     {
       "ID": "MacGuffin",
@@ -26240,7 +26245,7 @@
       "Name": "The real real teleported man",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 58562
+      "UsersEstimate": 58563
     },
     {
       "ID": "Mime",
@@ -26296,7 +26301,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 724711
+      "UsersEstimate": 724712
     },
     {
       "ID": "PanicLights",
@@ -26368,7 +26373,7 @@
       "Name": "That\u0027s how electronics work obviously",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 197648
+      "UsersEstimate": 197649
     },
     {
       "ID": "RedstonePickaxe",
@@ -26384,7 +26389,7 @@
       "Name": "Robbed",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 80523
+      "UsersEstimate": 80524
     },
     {
       "ID": "Shady",
@@ -26416,7 +26421,7 @@
       "Name": "Fast",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 483140
+      "UsersEstimate": 483141
     },
     {
       "ID": "Strong",
@@ -26456,7 +26461,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 622226
+      "UsersEstimate": 622227
     },
     {
       "ID": "ThroughPipe",
@@ -26496,7 +26501,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 314773
+      "UsersEstimate": 314774
     },
     {
       "ID": "True_Holy_Spirit",
@@ -26567,15 +26572,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 732031,
+      "Progressed": 732032,
       "Completed": 758
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2023-11-07T05:57:12.0828285+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:07:04.3276057+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:06:42.9304568+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.5589934+00:00",
-  "LastUpdate_Ratings": "2023-11-08T06:57:46.557738+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:07:04.3277857+00:00"
+  "LastUpdate_Ratings": "2023-11-08T07:57:51.5937644+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:06:42.9307297+00:00"
 }

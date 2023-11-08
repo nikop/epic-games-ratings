@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 409,
+  "Ranking_Rating": 410,
   "Ranking_Popularity": 487,
   "Ranking_PopularitySum": 477,
   "Ranking_EOS_Progress": 183,
@@ -7190,9 +7190,9 @@
       "ID": "59",
       "SetID": "7132754",
       "Name": "But this one is mine",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "60",
@@ -7221,8 +7221,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-07T13:03:36.0070967+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:07:42.9700214+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:07:17.6411317+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:00:08.119336+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:07:42.9700852+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:00:00.0990921+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:07:17.6412428+00:00"
 }

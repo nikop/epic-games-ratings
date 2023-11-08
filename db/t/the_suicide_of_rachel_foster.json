@@ -2,7 +2,7 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 913,
+  "Ranking_Rating": 914,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 228,
@@ -265,7 +265,7 @@
   "Tags": [],
   "EOS_Progressed": 1618,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.51,
   "EosHistory": [
@@ -3378,8 +3378,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-08T07:07:25.7299575+00:00",
+  "LastChanged_Achievements": "2023-11-08T08:07:02.1704137+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.3333831+00:00",
-  "LastUpdate_Ratings": "2023-11-08T07:00:09.6112755+00:00",
-  "LastUpdate_Achievements": "2023-11-08T07:07:25.729976+00:00"
+  "LastUpdate_Ratings": "2023-11-08T08:00:01.3950191+00:00",
+  "LastUpdate_Achievements": "2023-11-08T08:07:02.1704494+00:00"
 }
