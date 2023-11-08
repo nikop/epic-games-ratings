@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,566 |
-| Alt+F4 | 8.00% | ~18,872 |
-| Where's that freaking Dwarf? | 7.00% | ~16,513 |
-| Déjà vu | 6.00% | ~14,154 |
-| Sock! SOCK! | 5.00% | ~11,795 |
+| Sowwy! | 35.00% | ~82,569 |
+| Alt+F4 | 8.00% | ~18,873 |
+| Where's that freaking Dwarf? | 7.00% | ~16,514 |
+| Déjà vu | 6.00% | ~14,155 |
+| Sock! SOCK! | 5.00% | ~11,796 |
 | A beer, two curses, three companions | 4.00% | ~9,436 |
 | GG EZ | 4.00% | ~9,436 |
 | Speedrun | 4.00% | ~9,436 |
@@ -27,6 +27,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Dungeon Master | 2.00% | ~4,718 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,718 |
 | The Woman in the High Castle | 2.00% | ~4,718 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,718 |
 | A tale of adventurers not quite like the others... | 2.00% | ~4,718 |
 | The beards of change | 2.00% | ~4,718 |
 | The Ranger of Chaos | 2.00% | ~4,718 |
@@ -35,7 +36,6 @@ Number of Ratings: 118  (23.09.2022)
 | Team Building Exercise | 2.00% | ~4,718 |
 | Oh, when I'll be level 10... | 2.00% | ~4,718 |
 | Res Judicata | 1.00% | ~2,359 |
-| The Famous Dungeon of Naheulbeuk | 1.00% | ~2,359 |
 | Dwarf Fortress | 1.00% | ~2,359 |
 | %#*!$*! | 1.00% | ~2,359 |
 | Look but don't touch | 1.00% | ~2,359 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,904 (Ranked 61)  
+Progressed: 235,911 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-05 | 235,463 | 7 |
 | 2023-11-06 | 235,658 | 7 |
 | 2023-11-07 | 235,846 | 7 |
-| 2023-11-08 | 235,904 | 7 |
+| 2023-11-08 | 235,911 | 7 |
 ## Awards
 Max (Character Customization): 227  (Ranked 271)  
 Sum: 453 (Ranked 328)  

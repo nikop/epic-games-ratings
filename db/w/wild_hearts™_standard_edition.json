@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1383,9 +1383,9 @@
       "ID": "achievement_37",
       "SetID": "2cpn27e",
       "Name": "Hidden History",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_38",
@@ -1495,9 +1495,9 @@
       "ID": "achievement_6",
       "SetID": "2cpn27e",
       "Name": "Commencing of Quests",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_7",
@@ -1533,8 +1533,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-08T10:04:52.809775+00:00",
+  "LastChanged_Achievements": "2023-11-08T11:05:41.7742888+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:02:54.1028985+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:04:52.8098128+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:02:56.3468451+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:05:41.7743518+00:00"
 }

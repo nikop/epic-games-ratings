@@ -12,17 +12,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 3.00% | ~4,163 |
 | Tinkle of Coins | 3.00% | ~4,163 |
 | Capitalism Ho! | 3.00% | ~4,163 |
-| The Daily Grind | 2.00% | ~2,775 |
-| One Easy Payment | 2.00% | ~2,775 |
-| Some Assembly Required | 2.00% | ~2,775 |
-| Bounty Hunters | 2.00% | ~2,775 |
-| Another Satisfied Customer | 2.00% | ~2,775 |
-| It's Free Real Estate | 2.00% | ~2,775 |
-| Pretty Penny | 2.00% | ~2,775 |
-| One-Armed Bandit | 2.00% | ~2,775 |
-| Budding Merchant | 2.00% | ~2,775 |
-| Through Repetition, Perfection | 2.00% | ~2,775 |
-| Own the Means of Production | 2.00% | ~2,775 |
+| The Daily Grind | 2.00% | ~2,776 |
+| One Easy Payment | 2.00% | ~2,776 |
+| Some Assembly Required | 2.00% | ~2,776 |
+| Bounty Hunters | 2.00% | ~2,776 |
+| Another Satisfied Customer | 2.00% | ~2,776 |
+| It's Free Real Estate | 2.00% | ~2,776 |
+| Pretty Penny | 2.00% | ~2,776 |
+| One-Armed Bandit | 2.00% | ~2,776 |
+| Budding Merchant | 2.00% | ~2,776 |
+| Dungeon Imports | 2.00% | ~2,776 |
+| Through Repetition, Perfection | 2.00% | ~2,776 |
+| Own the Means of Production | 2.00% | ~2,776 |
 | On the Path to Greatness | 1.00% | ~1,388 |
 | Ascended | 1.00% | ~1,388 |
 | Research & Development | 1.00% | ~1,388 |
@@ -40,7 +41,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Royal Ransom | 1.00% | ~1,388 |
 | Helping Hand | 1.00% | ~1,388 |
 | Accomplished Merchant | 1.00% | ~1,388 |
-| Dungeon Imports | 1.00% | ~1,388 |
 | Natural 20 | 1.00% | ~1,388 |
 | Did we pack lunch? | 1.00% | ~1,388 |
 | Magical Harmony | 1.00% | ~1,388 |
@@ -49,6 +49,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | For the Hoard! | 0.90% | ~1,249 |
 | Trash to Treasure | 0.90% | ~1,249 |
 | Seasoned Journeyman | 0.90% | ~1,249 |
+| Special Ingredient | 0.90% | ~1,249 |
 | A Notch Above the Rest | 0.80% | ~1,110 |
 | The King's Caprice | 0.80% | ~1,110 |
 | Big Game Hunting | 0.80% | ~1,110 |
@@ -66,7 +67,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.80% | ~1,110 |
 | Scourge of the Seas | 0.80% | ~1,110 |
 | Black Friday Special | 0.80% | ~1,110 |
-| Special Ingredient | 0.80% | ~1,110 |
 | Complete Monopoly | 0.80% | ~1,110 |
 | Cream of the Crop | 0.70% | ~971 |
 | Top of the World | 0.70% | ~971 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,773 (Ranked 79)  
+Progressed: 138,777 (Ranked 79)  
 Completed: 178 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 178 (0.13%) (Ranked 257)
 | 2023-11-05 | 138,681 | 178 |
 | 2023-11-06 | 138,721 | 178 |
 | 2023-11-07 | 138,763 | 178 |
-| 2023-11-08 | 138,773 | 178 |
+| 2023-11-08 | 138,777 | 178 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 73)  
 Sum: 27,509 (Ranked 51)  

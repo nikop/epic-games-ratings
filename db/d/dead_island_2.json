@@ -6255,10 +6255,10 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 714869,
-  "EOS_Completed": 2356,
-  "EOS_NewPlayers": 5021,
-  "EOS_NewCompleters": 64,
+  "EOS_Progressed": 714884,
+  "EOS_Completed": 2357,
+  "EOS_NewPlayers": 5009,
+  "EOS_NewCompleters": 65,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29285,6 +29285,11 @@
       "Time": "2023-11-08T10:06:34.3333032+00:00",
       "NumProgressed": 714869,
       "NumCompleted": 2356
+    },
+    {
+      "Time": "2023-11-08T11:07:45.936675+00:00",
+      "NumProgressed": 714884,
+      "NumCompleted": 2357
     }
   ],
   "TotalAchievements": 51,
@@ -29296,7 +29301,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -29312,7 +29317,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_anger_management",
@@ -29320,7 +29325,7 @@
       "Name": "Anger Management",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -29352,7 +29357,7 @@
       "Name": "Bookworm",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_break_a_leg",
@@ -29360,7 +29365,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_contender",
@@ -29416,7 +29421,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -29440,7 +29445,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -29448,7 +29453,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_hotel_california",
@@ -29496,7 +29501,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_knowledgeable",
@@ -29576,7 +29581,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "ach_survival_expert",
@@ -29664,7 +29669,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ach_gardening_tools",
@@ -29703,22 +29708,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 714869,
-      "Completed": 2356
+      "Progressed": 714884,
+      "Completed": 2357
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40411,
-      "Completed": 36492
+      "Progressed": 40426,
+      "Completed": 36493
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-08T04:58:52.587653+00:00",
-  "LastChanged_Achievements": "2023-11-08T10:06:34.3333028+00:00",
+  "LastChanged_Achievements": "2023-11-08T11:07:45.9366743+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-08T09:58:40.0027528+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:06:34.3334495+00:00"
+  "LastUpdate_Ratings": "2023-11-08T10:59:21.2782226+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:07:45.9369036+00:00"
 }

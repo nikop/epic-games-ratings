@@ -6,14 +6,14 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~25,879 |
-| Landlord | 33.00% | ~21,350 |
-| Bannerlord | 23.00% | ~14,880 |
-| Horde breaker | 23.00% | ~14,880 |
-| Lawmaker | 23.00% | ~14,880 |
-| Trained | 23.00% | ~14,880 |
-| The king is pleased | 19.00% | ~12,292 |
-| King Solomon | 18.00% | ~11,645 |
+| Lawbringer | 40.00% | ~25,880 |
+| Landlord | 33.00% | ~21,351 |
+| Bannerlord | 23.00% | ~14,881 |
+| Horde breaker | 23.00% | ~14,881 |
+| Lawmaker | 23.00% | ~14,881 |
+| Trained | 23.00% | ~14,881 |
+| The king is pleased | 19.00% | ~12,293 |
+| King Solomon | 18.00% | ~11,646 |
 | Apple of my eye | 16.00% | ~10,352 |
 | I can do it | 16.00% | ~10,352 |
 | God of the Arena | 13.00% | ~8,411 |
@@ -40,7 +40,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Undercover | 0.80% | ~518 |
 | Fat Cat | 0.70% | ~453 |
 | Catch | 0.60% | ~388 |
-| Slice 'n dice | 0.50% | ~323 |
+| Slice 'n dice | 0.50% | ~324 |
 | Ride it like you stole it | 0.40% | ~259 |
 | Mounted Archery | 0.30% | ~194 |
 | Explorer | 0.20% | ~129 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,697 (Ranked 103)  
+Progressed: 64,700 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,15 +260,15 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 64,565 | 0 |
 | 2023-11-06 | 64,626 | 0 |
 | 2023-11-07 | 64,682 | 0 |
-| 2023-11-08 | 64,697 | 0 |
+| 2023-11-08 | 64,700 | 0 |
 ## Awards
 Max (Character Customization): 7,339  (Ranked 51)  
-Sum: 15,164 (Ranked 67)  
+Sum: 15,165 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 7,339 |
-| This game is Great for Beginners | 1,039 |
+| This game is Great for Beginners | 1,040 |
 | This game has Diverse Characters | 992 |
 | This game is Highly Recommended | 919 |
 | This game is Extremely Fun | 865 |
@@ -579,4 +579,4 @@ Diff (max vs sum): -16
 | 2023-11-05 | 4.74 | - | 7,328 | 15,137 |
 | 2023-11-06 | 4.74 | - | 7,333 | 15,154 |
 | 2023-11-07 | 4.74 | - | 7,339 | 15,162 |
-| 2023-11-08 | 4.74 | - | 7,339 | 15,164 |
+| 2023-11-08 | 4.74 | - | 7,339 | 15,165 |

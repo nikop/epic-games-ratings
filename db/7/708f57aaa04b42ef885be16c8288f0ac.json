@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4400,
+  "EOS_Progressed": 4402,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 751,
+  "EOS_NewPlayers": 746,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2456,6 +2456,11 @@
       "Time": "2023-11-08T10:09:11.914927+00:00",
       "NumProgressed": 4400,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-08T11:09:55.6161592+00:00",
+      "NumProgressed": 4402,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2482,9 +2487,9 @@
       "ID": "BeLikeWater",
       "SetID": "acc6ea0",
       "Name": "Be Like Water",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 35
+      "UsersEstimate": 31
     },
     {
       "ID": "Bikemaggedon",
@@ -2530,9 +2535,9 @@
       "ID": "FasterThanLight",
       "SetID": "acc6ea0",
       "Name": "Faster Than Light",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 9
     },
     {
       "ID": "FirstTime",
@@ -2739,7 +2744,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4400,
+      "Progressed": 4402,
       "Completed": 5
     }
   ],
@@ -2747,8 +2752,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-08T10:09:11.9149266+00:00",
+  "LastChanged_Achievements": "2023-11-08T11:09:55.6161585+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:00:08.1370384+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:09:11.9149573+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:01:13.7781921+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:09:55.6162068+00:00"
 }

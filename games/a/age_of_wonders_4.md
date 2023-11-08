@@ -35,7 +35,9 @@ Rating: 4.60 (Ranked 410)
 | Mighty Hoard | 0.10% | ~5 |
 | Freed Lands of Manuhari | 0.10% | ~5 |
 | Sehiran Oasis | 0.10% | ~5 |
+| Prometheus Avenged | 0.10% | ~5 |
 | Chaos Surge | 0.10% | ~5 |
+| A Conqueror's Cohort | 0.10% | ~5 |
 | Spoils of War | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
 | Snap Out of It! | 0.00% | ~0 |
@@ -60,9 +62,7 @@ Rating: 4.60 (Ranked 410)
 | Duality | 0.00% | ~0 |
 | Blood of the Dragon | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
-| Prometheus Avenged | 0.00% | ~0 |
 | Seal the Deal | 0.00% | ~0 |
-| A Conqueror's Cohort | 0.00% | ~0 |
 | Dawn of the Dread | 0.00% | ~0 |
 | A Very Special Ring | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

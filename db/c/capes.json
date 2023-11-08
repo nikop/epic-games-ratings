@@ -2,9 +2,9 @@
   "ID": "18ebe75ea3164c309f95bc6bd0fc18d6",
   "Name": "Capes",
   "ProductSlug": "capes-8b1229",
-  "Ranking_EOS_Progress": 731,
+  "Ranking_EOS_Progress": 732,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T13:57:11.4678873+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:00:36.2973191+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:04:14.0041859+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:01:48.5984618+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:04:53.3803579+00:00"
 }

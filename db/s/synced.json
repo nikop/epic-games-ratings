@@ -3,12 +3,12 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 933,
-  "Ranking_Popularity": 381,
+  "Ranking_Popularity": 382,
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -987,9 +987,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66098,
+  "EOS_Progressed": 66099,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8317,6 +8317,11 @@
       "Time": "2023-11-08T08:04:27.6540703+00:00",
       "NumProgressed": 66098,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-08T11:05:07.870893+00:00",
+      "NumProgressed": 66099,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8329,7 +8334,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21812
+      "UsersEstimate": 21813
     },
     {
       "ID": "10",
@@ -8456,7 +8461,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66098,
+      "Progressed": 66099,
       "Completed": 29
     }
   ],
@@ -8464,8 +8469,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-08T04:58:16.2899351+00:00",
-  "LastChanged_Achievements": "2023-11-08T10:04:25.8774945+00:00",
+  "LastChanged_Achievements": "2023-11-08T11:05:07.8708925+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-08T09:58:07.7184338+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:04:25.8775366+00:00"
+  "LastUpdate_Ratings": "2023-11-08T10:58:43.910372+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:05:07.870962+00:00"
 }

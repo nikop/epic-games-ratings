@@ -10209,7 +10209,7 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 301669,
+  "EOS_Progressed": 301672,
   "EOS_Completed": 504,
   "EOS_NewPlayers": 1638,
   "EOS_NewCompleters": 6,
@@ -31889,6 +31889,11 @@
       "Time": "2023-11-08T10:09:30.0569424+00:00",
       "NumProgressed": 301669,
       "NumCompleted": 504
+    },
+    {
+      "Time": "2023-11-08T11:10:17.7847939+00:00",
+      "NumProgressed": 301672,
+      "NumCompleted": 504
     }
   ],
   "TotalAchievements": 45,
@@ -31900,7 +31905,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48267
+      "UsersEstimate": 48268
     },
     {
       "ID": "PFA_10",
@@ -31988,7 +31993,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15083
+      "UsersEstimate": 15084
     },
     {
       "ID": "PFA_20",
@@ -32084,7 +32089,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36200
+      "UsersEstimate": 36201
     },
     {
       "ID": "PFA_31",
@@ -32164,7 +32169,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15083
+      "UsersEstimate": 15084
     },
     {
       "ID": "PFA_40",
@@ -32180,7 +32185,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15083
+      "UsersEstimate": 15084
     },
     {
       "ID": "PFA_42",
@@ -32244,7 +32249,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36200
+      "UsersEstimate": 36201
     },
     {
       "ID": "PFA_9",
@@ -32259,7 +32264,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301669,
+      "Progressed": 301672,
       "Completed": 504
     }
   ],
@@ -32267,8 +32272,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-08T09:57:55.1406935+00:00",
-  "LastChanged_Achievements": "2023-11-08T10:09:30.0569418+00:00",
+  "LastChanged_Achievements": "2023-11-08T11:10:17.7847933+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-08T09:57:55.140694+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:09:30.0570708+00:00"
+  "LastUpdate_Ratings": "2023-11-08T10:58:26.7706219+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:10:17.7850029+00:00"
 }

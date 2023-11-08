@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~808 |
+| Whatever It Takes | 2.00% | ~809 |
 | One of Us | 1.00% | ~404 |
 | Pork Chopped | 1.00% | ~404 |
 | Hotel California | 0.50% | ~3,574 |
 | Welcome To Hell-A | 0.50% | ~3,574 |
-| Dr. Reed, I Presume? | 0.40% | ~2,859 |
-| Git Gutte! | 0.40% | ~2,859 |
-| Anger Management | 0.40% | ~2,859 |
-| Bookworm | 0.40% | ~2,859 |
-| Break A Leg | 0.40% | ~2,859 |
-| Coup de Grâce | 0.40% | ~2,859 |
-| Hazardous Materials | 0.40% | ~2,859 |
-| Friends Like These | 0.40% | ~2,859 |
-| Apex Predator | 0.40% | ~2,859 |
-| Personal Assistant Personally Assisted | 0.40% | ~2,859 |
+| Dr. Reed, I Presume? | 0.40% | ~2,860 |
+| Git Gutte! | 0.40% | ~2,860 |
+| Anger Management | 0.40% | ~2,860 |
+| Bookworm | 0.40% | ~2,860 |
+| Break A Leg | 0.40% | ~2,860 |
+| Coup de Grâce | 0.40% | ~2,860 |
+| Hazardous Materials | 0.40% | ~2,860 |
+| Friends Like These | 0.40% | ~2,860 |
+| Apex Predator | 0.40% | ~2,860 |
+| Personal Assistant Personally Assisted | 0.40% | ~2,860 |
 | Perks of the Job | 0.30% | ~2,145 |
 | I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,145 |
 | But Doctor, I am Butcho | 0.30% | ~2,145 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~40 |
 | Wilhelm | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 714,869 (Ranked 21)  
-Completed: 2,356 (0.33%) (Ranked 219)  
+Progressed: 714,884 (Ranked 21)  
+Completed: 2,357 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 2,356 (0.33%) (Ranked 219)
 | 2023-11-05 | 713,574 | 2,341 |
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
-| 2023-11-08 | 714,869 | 2,356 |
+| 2023-11-08 | 714,884 | 2,357 |
 ## Awards
 Max (Great Boss Battles): 7,178  (Ranked 53)  
 Sum: 10,888 (Ranked 87)  

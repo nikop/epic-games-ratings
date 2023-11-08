@@ -4,7 +4,7 @@
   "ProductSlug": "asterix-and-obelix-heroes",
   "Ranking_EOS_Progress": 629,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -230,8 +230,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2023-11-08T10:05:00.1538943+00:00",
+  "LastChanged_Achievements": "2023-11-08T11:05:50.9802443+00:00",
   "LastUpdate_AppInfo": "2023-11-02T18:57:07.0093705+00:00",
-  "LastUpdate_Ratings": "2023-11-08T09:58:24.0553633+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:05:00.1539074+00:00"
+  "LastUpdate_Ratings": "2023-11-08T10:59:04.0846973+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:05:50.980264+00:00"
 }

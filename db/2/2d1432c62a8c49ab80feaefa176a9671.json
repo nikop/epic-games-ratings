@@ -2,9 +2,9 @@
   "ID": "2d1432c62a8c49ab80feaefa176a9671",
   "Name": "The Precinct",
   "ProductSlug": "the-precinct-e86840",
-  "Ranking_EOS_Progress": 731,
+  "Ranking_EOS_Progress": 732,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-01T23:57:07.0609803+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:01:07.7252819+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:07:33.1300388+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:02:26.9087194+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:08:57.616301+00:00"
 }

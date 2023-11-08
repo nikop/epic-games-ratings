@@ -5,20 +5,20 @@ Rating: 4.18 (Ranked 924)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,840 |
+| First Step Into the Knight | 51.00% | ~38,841 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,655 |
-| Loose Ends | 34.00% | ~25,893 |
+| Loose Ends | 34.00% | ~25,894 |
 | To the Victor Go the Spoils | 28.00% | ~21,324 |
-| Knighthood | 27.00% | ~20,562 |
-| Get ReQ'd | 25.00% | ~19,039 |
-| Whispered Words | 25.00% | ~19,039 |
+| Knighthood | 27.00% | ~20,563 |
+| Get ReQ'd | 25.00% | ~19,040 |
+| Whispered Words | 25.00% | ~19,040 |
 | The Batman Family | 23.00% | ~17,516 |
 | Lock and Key | 22.00% | ~16,755 |
 | Something in the Clay | 21.00% | ~15,993 |
 | Quartzer Life Crisis | 21.00% | ~15,993 |
-| Working Hard or Harley Working? | 20.00% | ~15,231 |
-| Unstoppable Force | 20.00% | ~15,231 |
-| Bad Apples in Every Orchard | 20.00% | ~15,231 |
+| Working Hard or Harley Working? | 20.00% | ~15,232 |
+| Unstoppable Force | 20.00% | ~15,232 |
+| Bad Apples in Every Orchard | 20.00% | ~15,232 |
 | Snow Problem | 19.00% | ~14,470 |
 | The Show Mud Go On | 18.00% | ~13,708 |
 | From Inside Gotham's Walls | 18.00% | ~13,708 |
@@ -29,8 +29,8 @@ Rating: 4.18 (Ranked 924)
 | Rock and a Hard Place | 14.00% | ~10,662 |
 | Cooldown | 14.00% | ~10,662 |
 | Seeking Asylum | 14.00% | ~10,662 |
-| Not On My Watch | 13.00% | ~9,900 |
-| Shock Til They Drop | 13.00% | ~9,900 |
+| Not On My Watch | 13.00% | ~9,901 |
+| Shock Til They Drop | 13.00% | ~9,901 |
 | End of an Era | 12.00% | ~9,139 |
 | Bulldozed | 12.00% | ~9,139 |
 | Gotham Knight | 12.00% | ~9,139 |
@@ -51,9 +51,9 @@ Rating: 4.18 (Ranked 924)
 | The Man-Bat Family | 1.00% | ~762 |
 | Batarang Collector | 1.00% | ~762 |
 | Claiming the Mural High Ground | 1.00% | ~762 |
-| Icebreaker | 0.80% | ~371 |
+| Icebreaker | 0.80% | ~372 |
 | History Major | 0.80% | ~609 |
-| A Sophisticated Mallet | 0.80% | ~371 |
+| A Sophisticated Mallet | 0.80% | ~372 |
 | Read Owl About It | 0.70% | ~533 |
 | Gotham's Greatest Depths | 0.60% | ~279 |
 | Don't Mecha Big Deal About It | 0.60% | ~279 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 924)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,157 (Ranked 97)  
+Progressed: 76,158 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 123 (0.16%) (Ranked 254)
 | 2023-11-05 | 76,025 | 123 |
 | 2023-11-06 | 76,084 | 123 |
 | 2023-11-07 | 76,141 | 123 |
-| 2023-11-08 | 76,157 | 123 |
+| 2023-11-08 | 76,158 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,914  (Ranked 98)  
 Sum: 4,947 (Ranked 137)  

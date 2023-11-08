@@ -2,9 +2,9 @@
   "ID": "2e953f5d56f44248ab500be341e54a65",
   "Name": "Wild West Dynasty",
   "ProductSlug": "wild-west-dynasty",
-  "Ranking_EOS_Progress": 731,
+  "Ranking_EOS_Progress": 732,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-16T18:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:39.0792307+00:00",
   "LastChanged": "2023-03-31T05:58:39.0792308+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.37192+00:00",
-  "LastUpdate_Ratings": "2023-11-08T09:57:27.0246264+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:05:32.4689118+00:00"
+  "LastUpdate_Ratings": "2023-11-08T10:57:51.4128365+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:06:29.849763+00:00"
 }

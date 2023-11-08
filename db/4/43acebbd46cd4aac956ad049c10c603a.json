@@ -2,9 +2,9 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_EOS_Progress": 539,
+  "Ranking_EOS_Progress": 509,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 28,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -44,6 +44,11 @@
       "Time": "2023-11-08T10:07:07.4387406+00:00",
       "NumProgressed": 17,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T11:08:26.5629956+00:00",
+      "NumProgressed": 28,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -54,7 +59,7 @@
       "ID": "AbAeterno",
       "SetID": "1n308hc",
       "Name": "Ab Aeterno",
-      "Percentage": 6,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -62,7 +67,7 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 12,
+      "Percentage": 7,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -94,9 +99,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "BreakTheLoop",
@@ -110,9 +115,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "ChasingTheLight",
@@ -142,9 +147,9 @@
       "ID": "DesolateIsland",
       "SetID": "1n308hc",
       "Name": "Desolate Island",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Discovery",
@@ -222,9 +227,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "JustOneLap",
@@ -238,9 +243,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "LostMarshes",
@@ -254,9 +259,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "Mnemosyne",
@@ -310,9 +315,9 @@
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Persistent",
@@ -342,7 +347,7 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 24,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -398,9 +403,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 12,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "TextAdventurer",
@@ -414,9 +419,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TheEdgeOfForever",
@@ -462,17 +467,17 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 18,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 24,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "TrevorsBiographer",
@@ -527,14 +532,14 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 28,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged_Achievements": "2023-11-08T10:07:07.4387402+00:00",
+  "LastChanged_Achievements": "2023-11-08T11:08:26.5629948+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:18.3402794+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:00:46.7011216+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:07:07.4387825+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:02:00.0183115+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:08:26.5630626+00:00"
 }

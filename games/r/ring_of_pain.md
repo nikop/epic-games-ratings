@@ -11,6 +11,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.20% | ~479 |
 | Getting A Glimpse | 0.20% | ~479 |
 | Colorful Corpse | 0.20% | ~479 |
+| Defeat The Dark | 0.20% | ~479 |
 | A Quick Escape | 0.20% | ~479 |
 | Uncharted Territory | 0.20% | ~479 |
 | An Offering | 0.20% | ~479 |
@@ -63,7 +64,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Save Our Souls | 0.10% | ~239 |
 | Resourceful | 0.10% | ~239 |
 | Become The Nightmare | 0.10% | ~239 |
-| Defeat The Dark | 0.10% | ~239 |
 | Destroy Your Fears | 0.10% | ~239 |
 | Trail Of Death | 0.10% | ~239 |
 | Clearing The Room | 0.10% | ~239 |

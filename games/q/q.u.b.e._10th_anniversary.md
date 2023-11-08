@@ -1,20 +1,20 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.38 (Ranked 761)  
+Rating: 4.39 (Ranked 744)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 10.00% | ~1,708 |
-| Sector 2 | 9.00% | ~1,537 |
-| Crush That Cube! | 8.00% | ~1,366 |
-| Sector 3 | 7.00% | ~1,195 |
+| Sector 1 | 10.00% | ~1,709 |
+| Sector 2 | 9.00% | ~1,538 |
+| Crush That Cube! | 8.00% | ~1,367 |
+| Sector 3 | 7.00% | ~1,196 |
 | Crush That Ball! | 6.00% | ~1,025 |
 | Sector 4 | 6.00% | ~1,025 |
 | Sector 5 | 4.00% | ~683 |
-| Feeling the Blues | 3.00% | ~512 |
-| Squished | 3.00% | ~512 |
-| Sector 6 | 3.00% | ~512 |
+| Feeling the Blues | 3.00% | ~513 |
+| Squished | 3.00% | ~513 |
+| Sector 6 | 3.00% | ~513 |
 | Finale | 2.00% | ~342 |
 | Sector 7 | 2.00% | ~342 |
 | Did That Work? -- No! | 2.00% | ~342 |
@@ -25,12 +25,12 @@ Rating: 4.38 (Ranked 761)
 | Hopefully that's all of them! | 0.70% | ~120 |
 | Phew! | 0.70% | ~120 |
 | Silver Trophy | 0.70% | ~120 |
-| The Collector | 0.60% | ~102 |
-| Master Of The Collectables | 0.60% | ~102 |
-| Gold Trophy | 0.60% | ~102 |
-| Maxed Out | 0.60% | ~102 |
+| The Collector | 0.60% | ~103 |
+| Master Of The Collectables | 0.60% | ~103 |
+| Gold Trophy | 0.60% | ~103 |
+| Maxed Out | 0.60% | ~103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,076 (Ranked 140)  
+Progressed: 17,086 (Ranked 140)  
 Completed: 31 (0.18%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -55,7 +55,7 @@ Completed: 31 (0.18%) (Ranked 248)
 | 2023-11-05 | 16,344 | 23 |
 | 2023-11-06 | 16,699 | 28 |
 | 2023-11-07 | 16,971 | 30 |
-| 2023-11-08 | 17,076 | 31 |
+| 2023-11-08 | 17,086 | 31 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -78,3 +78,4 @@ Completed: 31 (0.18%) (Ranked 248)
 | 2023-11-04 | 4.39 | 0 | 0 |
 | 2023-11-06 | 4.40 | 0 | 0 |
 | 2023-11-07 | 4.38 | 0 | 0 |
+| 2023-11-08 | 4.39 | 0 | 0 |

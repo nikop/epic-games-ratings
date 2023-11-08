@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -1609,9 +1609,9 @@
       "ID": "ACH_eou3",
       "SetID": "51of0eo",
       "Name": "Destroy Security Grid",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 133
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_eou4",
@@ -1625,9 +1625,9 @@
       "ID": "ACH_eou5",
       "SetID": "51of0eo",
       "Name": "Shut Down Processing Plant",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_eou6",
@@ -1657,9 +1657,9 @@
       "ID": "ACH_mg2",
       "SetID": "51of0eo",
       "Name": "Disc Collector",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 31
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_n64",
@@ -1696,8 +1696,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-08T10:05:41.8855343+00:00",
+  "LastChanged_Achievements": "2023-11-08T11:06:41.2198797+00:00",
   "LastUpdate_AppInfo": "2023-11-03T01:40:42.0559682+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:00:45.8190869+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:05:41.8855503+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:01:59.3319622+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:06:41.2199023+00:00"
 }

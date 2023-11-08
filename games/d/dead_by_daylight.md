@@ -6,51 +6,51 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~70,228 |
-| Zealous | 6.00% | ~60,195 |
-| Skillful | 6.00% | ~60,195 |
-| Not half bad | 5.00% | ~50,163 |
-| Apt Survivor | 5.00% | ~50,163 |
-| Make Some Noise | 5.00% | ~50,163 |
-| Handyman | 4.00% | ~40,130 |
-| Survival Treasures | 4.00% | ~40,130 |
-| I | 4.00% | ~40,130 |
-| Sorted | 4.00% | ~40,130 |
-| The Grand Sacrifice | 3.00% | ~30,098 |
-| Agonizing Escape | 3.00% | ~30,098 |
-| Backdoor Escape | 3.00% | ~30,098 |
-| I've got your back | 3.00% | ~30,098 |
-| No one left behind | 3.00% | ~30,098 |
-| Medic | 3.00% | ~30,098 |
-| Perfect Escape | 3.00% | ~30,098 |
-| Perfect Killing | 3.00% | ~30,098 |
-| Bloody Millionaire | 3.00% | ~30,098 |
-| Engineer | 3.00% | ~30,098 |
-| Healthy Obsession | 3.00% | ~30,098 |
-| Resurgence | 3.00% | ~30,098 |
-| Preemptive Strike | 3.00% | ~30,098 |
-| Humanitarian | 3.00% | ~30,098 |
-| Escape Artist | 2.00% | ~20,065 |
-| Nerves of steel | 2.00% | ~20,065 |
-| Apt Killer | 2.00% | ~20,065 |
-| Risk it all | 2.00% | ~20,065 |
-| Vulture | 2.00% | ~20,065 |
-| II | 2.00% | ~20,065 |
-| III | 2.00% | ~20,065 |
-| III-50 | 2.00% | ~20,065 |
-| Cherish your Life | 2.00% | ~20,065 |
-| Wounded Healer | 2.00% | ~20,065 |
-| First to the Punch | 2.00% | ~20,065 |
-| Operation: Survival | 2.00% | ~20,065 |
-| Every Last Drop | 2.00% | ~20,065 |
-| Close Shave | 2.00% | ~20,065 |
-| Raccoon City Recruit | 2.00% | ~20,065 |
-| With Scars to Show | 2.00% | ~20,065 |
-| Flight to Freedom | 2.00% | ~20,065 |
-| A Fast Death | 2.00% | ~20,065 |
-| Chorus of Chaos | 2.00% | ~20,065 |
-| One More Step | 2.00% | ~20,065 |
-| Second Act | 2.00% | ~20,065 |
+| It wakes | 7.00% | ~70,231 |
+| Zealous | 6.00% | ~60,198 |
+| Skillful | 6.00% | ~60,198 |
+| Not half bad | 5.00% | ~50,165 |
+| Apt Survivor | 5.00% | ~50,165 |
+| Make Some Noise | 5.00% | ~50,165 |
+| Handyman | 4.00% | ~40,132 |
+| Survival Treasures | 4.00% | ~40,132 |
+| I | 4.00% | ~40,132 |
+| Sorted | 4.00% | ~40,132 |
+| The Grand Sacrifice | 3.00% | ~30,099 |
+| Agonizing Escape | 3.00% | ~30,099 |
+| Backdoor Escape | 3.00% | ~30,099 |
+| I've got your back | 3.00% | ~30,099 |
+| No one left behind | 3.00% | ~30,099 |
+| Medic | 3.00% | ~30,099 |
+| Perfect Escape | 3.00% | ~30,099 |
+| Perfect Killing | 3.00% | ~30,099 |
+| Bloody Millionaire | 3.00% | ~30,099 |
+| Engineer | 3.00% | ~30,099 |
+| Healthy Obsession | 3.00% | ~30,099 |
+| Resurgence | 3.00% | ~30,099 |
+| Preemptive Strike | 3.00% | ~30,099 |
+| Humanitarian | 3.00% | ~30,099 |
+| Escape Artist | 2.00% | ~20,066 |
+| Nerves of steel | 2.00% | ~20,066 |
+| Apt Killer | 2.00% | ~20,066 |
+| Risk it all | 2.00% | ~20,066 |
+| Vulture | 2.00% | ~20,066 |
+| II | 2.00% | ~20,066 |
+| III | 2.00% | ~20,066 |
+| III-50 | 2.00% | ~20,066 |
+| Cherish your Life | 2.00% | ~20,066 |
+| Wounded Healer | 2.00% | ~20,066 |
+| First to the Punch | 2.00% | ~20,066 |
+| Operation: Survival | 2.00% | ~20,066 |
+| Every Last Drop | 2.00% | ~20,066 |
+| Close Shave | 2.00% | ~20,066 |
+| Raccoon City Recruit | 2.00% | ~20,066 |
+| With Scars to Show | 2.00% | ~20,066 |
+| Flight to Freedom | 2.00% | ~20,066 |
+| A Fast Death | 2.00% | ~20,066 |
+| Chorus of Chaos | 2.00% | ~20,066 |
+| One More Step | 2.00% | ~20,066 |
+| Second Act | 2.00% | ~20,066 |
 | A bite for the Entity | 1.00% | ~10,033 |
 | Blood on your hands | 1.00% | ~10,033 |
 | Blood on your face | 1.00% | ~10,033 |
@@ -86,11 +86,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Complete the Evolution | 1.00% | ~10,033 |
 | Extraterrestrial | 1.00% | ~10,033 |
 | MU/TH/UR Dearest | 1.00% | ~10,033 |
-| Jump Scares | 0.90% | ~9,029 |
-| Game Over | 0.90% | ~9,029 |
-| Broken Bodies | 0.90% | ~9,029 |
-| Insult and Injury | 0.90% | ~9,029 |
-| Kitted Out | 0.90% | ~9,029 |
+| Jump Scares | 0.90% | ~9,030 |
+| Game Over | 0.90% | ~9,030 |
+| Broken Bodies | 0.90% | ~9,030 |
+| Insult and Injury | 0.90% | ~9,030 |
+| Kitted Out | 0.90% | ~9,030 |
 | Deep Cleansing | 0.80% | ~8,026 |
 | Texas BBQ | 0.80% | ~8,026 |
 | Party Crasher | 0.80% | ~8,026 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,003 |
 | Adept Ripley | 0.10% | ~1,003 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,003,253 (Ranked 14)  
+Progressed: 1,003,296 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -438,7 +438,7 @@ Completed: 52 (0.01%) (Ranked 321)
 | 2023-11-05 | 998,907 | 52 |
 | 2023-11-06 | 1,000,713 | 52 |
 | 2023-11-07 | 1,002,710 | 52 |
-| 2023-11-08 | 1,003,253 | 52 |
+| 2023-11-08 | 1,003,296 | 52 |
 ## Awards
 Max (Diverse Characters): 35,546  (Ranked 15)  
 Sum: 272,863 (Ranked 13)  

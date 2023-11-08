@@ -2375,9 +2375,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 19254,
+  "EOS_Progressed": 19255,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1701,
+  "EOS_NewPlayers": 1695,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8455,6 +8455,11 @@
       "Time": "2023-11-08T10:03:44.4903992+00:00",
       "NumProgressed": 19254,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T11:04:17.5307183+00:00",
+      "NumProgressed": 19255,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8507,7 +8512,7 @@
       "Name": "Who\u0027s the Boss?",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1925
+      "UsersEstimate": 1926
     },
     {
       "ID": "Achievement_Trophy07",
@@ -8667,7 +8672,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6546
+      "UsersEstimate": 6547
     },
     {
       "ID": "Achievement_Trophy27",
@@ -8707,7 +8712,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6161
+      "UsersEstimate": 6162
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8731,7 +8736,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "Achievement_Trophy35",
@@ -8954,7 +8959,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 19254,
+      "Progressed": 19255,
       "Completed": 1
     }
   ],
@@ -8962,8 +8967,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-07T05:00:13.3916278+00:00",
-  "LastChanged_Achievements": "2023-11-08T10:03:44.4903987+00:00",
+  "LastChanged_Achievements": "2023-11-08T11:04:17.5307176+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-08T10:00:56.1882786+00:00",
-  "LastUpdate_Achievements": "2023-11-08T10:03:44.4904854+00:00"
+  "LastUpdate_Ratings": "2023-11-08T11:02:12.8558059+00:00",
+  "LastUpdate_Achievements": "2023-11-08T11:04:17.530832+00:00"
 }
