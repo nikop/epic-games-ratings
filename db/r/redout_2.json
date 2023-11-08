@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 240,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 364,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1161,
+  "EOS_Progressed": 1162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1068,6 +1068,11 @@
       "Time": "2023-11-05T16:08:45.9991808+00:00",
       "NumProgressed": 1161,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T00:08:59.4342874+00:00",
+      "NumProgressed": 1162,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1183,7 +1188,7 @@
       "Name": "To the core",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1303,7 +1308,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FINISHSOUND",
@@ -1494,7 +1499,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1161,
+      "Progressed": 1162,
       "Completed": 0
     }
   ],
@@ -1502,8 +1507,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:10:14.561642+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:08:59.4342869+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:27.9905953+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:59:01.2260896+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:10:14.5617359+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:58:19.4778516+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:08:59.4343434+00:00"
 }

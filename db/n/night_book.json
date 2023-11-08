@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -368,9 +368,9 @@
       "ID": "career_woman",
       "SetID": "a3kkelb",
       "Name": "Career Woman",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 157
     },
     {
       "ID": "deal_or_no_deal",
@@ -505,8 +505,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:04:39.714498+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:03:41.6004624+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.4190966+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:59:52.0003365+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:04:39.7145129+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:58:55.6719028+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:03:41.6004794+00:00"
 }

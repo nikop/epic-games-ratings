@@ -823,9 +823,9 @@
       "Count": 101
     }
   ],
-  "EOS_Progressed": 10933,
+  "EOS_Progressed": 10935,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12568,6 +12568,11 @@
       "Time": "2023-11-07T23:05:10.8640828+00:00",
       "NumProgressed": 10933,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-08T00:04:03.8377852+00:00",
+      "NumProgressed": 10935,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12595,7 +12600,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "ACH04",
@@ -12683,7 +12688,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4592
+      "UsersEstimate": 4593
     },
     {
       "ID": "ACH15",
@@ -12739,7 +12744,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5029
+      "UsersEstimate": 5030
     },
     {
       "ID": "ACH22",
@@ -12779,7 +12784,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1749
+      "UsersEstimate": 1750
     },
     {
       "ID": "ACH27",
@@ -12850,7 +12855,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10933,
+      "Progressed": 10935,
       "Completed": 64
     }
   ],
@@ -12858,8 +12863,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-06T21:02:56.1879294+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:05:10.8640822+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:04:03.8377848+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:57:36.50009+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:05:10.8642531+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:57:19.1729238+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:04:03.837908+00:00"
 }

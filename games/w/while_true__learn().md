@@ -1,18 +1,18 @@
 # while True: learn()
 [Store](https://store.epicgames.com/en-US/p/while-true-learn)  
 [View Rawdata](../../db/w/while_true__learn().json)  
-Rating: 4.51 (Ranked 564)  
+Rating: 4.51 (Ranked 563)  
 Number of Ratings: 896  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First.. Bit? | 93.00% | ~567,019 |
-| Error: Stack Overflow | 66.00% | ~402,401 |
-| We need more gold | 61.00% | ~371,916 |
-| The dawn of civilization | 53.00% | ~323,140 |
-| More FPS for the FPS god! | 50.00% | ~304,849 |
-| Beauty and harmony | 48.00% | ~292,655 |
-| One more! | 44.00% | ~268,267 |
+| First.. Bit? | 93.00% | ~567,023 |
+| Error: Stack Overflow | 66.00% | ~402,403 |
+| We need more gold | 61.00% | ~371,918 |
+| The dawn of civilization | 53.00% | ~323,142 |
+| More FPS for the FPS god! | 50.00% | ~304,851 |
+| Beauty and harmony | 48.00% | ~292,657 |
+| One more! | 44.00% | ~268,269 |
 | Overmind | 24.00% | ~146,328 |
 | RNG is my best friend now | 18.00% | ~109,746 |
 | Cosplay | 13.00% | ~79,261 |
@@ -29,13 +29,13 @@ Number of Ratings: 896  (23.09.2022)
 | The hoarder | 1.00% | ~6,097 |
 | Ping | 1.00% | ~6,097 |
 | Magna cum laude | 1.00% | ~6,097 |
-| Deal with it! | 0.50% | ~3,048 |
+| Deal with it! | 0.50% | ~3,049 |
 | Gold rush | 0.40% | ~2,439 |
 | Cat-o-holic | 0.40% | ~2,439 |
 | Elements will destroy you! | 0.30% | ~1,829 |
 | The Scrooge | 0.10% | ~610 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 609,698 (Ranked 30)  
+Progressed: 609,702 (Ranked 30)  
 Completed: 543 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,6 +237,7 @@ Completed: 543 (0.09%) (Ranked 275)
 | 2023-11-05 | 609,453 | 542 |
 | 2023-11-06 | 609,567 | 542 |
 | 2023-11-07 | 609,698 | 543 |
+| 2023-11-08 | 609,702 | 543 |
 ## Awards
 Max (Challenging Puzzles): 135  (Ranked 324)  
 Sum: 135 (Ranked 425)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 946,
+  "EOS_Progressed": 947,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -1762,6 +1762,11 @@
       "Time": "2023-11-07T23:07:09.1176241+00:00",
       "NumProgressed": 946,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T00:05:27.2436432+00:00",
+      "NumProgressed": 947,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1774,7 +1779,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1782,7 +1787,7 @@
       "Name": "Acrobat",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1790,7 +1795,7 @@
       "Name": "Out of control",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1822,7 +1827,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -1918,7 +1923,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2038,7 +2043,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2110,27 +2115,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 946,
+      "Progressed": 947,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 614,
-      "Completed": 614
+      "Progressed": 615,
+      "Completed": 615
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:07:09.1176235+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:05:27.2436426+00:00",
   "LastUpdate_AppInfo": "2023-11-02T02:13:41.8615902+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:57:42.0030612+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:07:09.1177124+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:57:24.1393303+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:05:27.2436936+00:00"
 }

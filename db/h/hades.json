@@ -5284,9 +5284,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 712942,
+  "EOS_Progressed": 712943,
   "EOS_Completed": 6468,
-  "EOS_NewPlayers": 1647,
+  "EOS_NewPlayers": 1644,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -26999,6 +26999,11 @@
       "Time": "2023-11-07T23:09:43.2416046+00:00",
       "NumProgressed": 712942,
       "NumCompleted": 6468
+    },
+    {
+      "Time": "2023-11-08T00:08:36.7641043+00:00",
+      "NumProgressed": 712943,
+      "NumCompleted": 6468
     }
   ],
   "TotalAchievements": 49,
@@ -27034,7 +27039,7 @@
       "Name": "The Useless Trinket",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 92682
+      "UsersEstimate": 92683
     },
     {
       "ID": "AchBuffedButterfly",
@@ -27058,7 +27063,7 @@
       "Name": "Three-Headed Boy",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 228141
+      "UsersEstimate": 228142
     },
     {
       "ID": "AchClearAnyRun",
@@ -27090,7 +27095,7 @@
       "Name": "Champion of Elysium",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 92682
+      "UsersEstimate": 92683
     },
     {
       "ID": "AchClearHeatGate",
@@ -27114,7 +27119,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 89,
       "XP": 25,
-      "UsersEstimate": 634518
+      "UsersEstimate": 634519
     },
     {
       "ID": "AchCrushedThanatos",
@@ -27178,7 +27183,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 477671
+      "UsersEstimate": 477672
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -27210,7 +27215,7 @@
       "Name": "Home Makeover",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 192494
+      "UsersEstimate": 192495
     },
     {
       "ID": "AchManyQuests",
@@ -27234,7 +27239,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 442024
+      "UsersEstimate": 442025
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -27370,7 +27375,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 499059
+      "UsersEstimate": 499060
     },
     {
       "ID": "AchWeaponClears",
@@ -27401,15 +27406,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 712942,
+      "Progressed": 712943,
       "Completed": 6468
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2023-11-07T11:58:09.0560326+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:09:43.241604+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:08:36.7641038+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:23.3619553+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:58:56.2708526+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:09:43.2418596+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:58:16.27509+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:08:36.7643729+00:00"
 }

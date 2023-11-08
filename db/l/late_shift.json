@@ -2,9 +2,9 @@
   "ID": "537156dc975644649b905ec6e958506e",
   "Name": "Late Shift",
   "ProductSlug": "late-shift-8b0634",
-  "Ranking_EOS_Progress": 275,
+  "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 629,
+  "EOS_Progressed": 630,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
@@ -1385,6 +1385,11 @@
       "Time": "2023-11-07T17:12:10.8865515+00:00",
       "NumProgressed": 629,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-08T00:04:15.584068+00:00",
+      "NumProgressed": 630,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 20,
@@ -1396,7 +1401,7 @@
       "Name": "Cause and Effect",
       "Percentage": 96,
       "XP": 25,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "CHOICES_MATTER",
@@ -1420,7 +1425,7 @@
       "Name": "The Lion\u0027s Den",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ENDING_3",
@@ -1444,7 +1449,7 @@
       "Name": "The Delivery",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ENDING_6",
@@ -1484,7 +1489,7 @@
       "Name": "Fair Share",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "GOOD_KARMA",
@@ -1508,7 +1513,7 @@
       "Name": "Office Clerk",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -1532,7 +1537,7 @@
       "Name": "Sabotage",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "SHILL_BIDDER",
@@ -1540,7 +1545,7 @@
       "Name": "Shill Bidder",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -1555,7 +1560,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 629,
+      "Progressed": 630,
       "Completed": 9
     }
   ],
@@ -1563,8 +1568,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:05:27.4199795+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:04:15.5840675+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.789073+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:59:38.8516001+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:05:27.4200183+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:58:46.0856768+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:04:15.5840904+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
     "PcReleaseDate": "2019-05-21T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2840,
+  "EOS_Progressed": 2841,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7184,6 +7184,11 @@
       "Time": "2023-11-07T13:13:25.2975873+00:00",
       "NumProgressed": 2840,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T00:08:44.5274465+00:00",
+      "NumProgressed": 2841,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7281,9 +7286,9 @@
       "ID": "GLOVE_SLAP",
       "SetID": "8lhbnh7",
       "Name": "Glove Slap!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 57
     },
     {
       "ID": "GONNA_FLY_NOW",
@@ -7299,7 +7304,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "GUARD_MAKER",
@@ -7370,14 +7375,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2840,
+      "Progressed": 2841,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:09:54.0031126+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:08:44.527446+00:00",
   "LastUpdate_AppInfo": "2023-11-01T04:57:15.2432377+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:58:58.5463189+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:09:54.0031755+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:58:17.7875614+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:08:44.5275188+00:00"
 }

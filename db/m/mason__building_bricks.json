@@ -4,8 +4,8 @@
   "ProductSlug": "mason-building-bricks-73659e",
   "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 393,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-14T14:00:00+00:00",
     "PcReleaseDate": "2020-11-09T15:00:00+00:00",
@@ -33,8 +33,8 @@
   "Tags": [],
   "EOS_Progressed": 49,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 0,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 14.29,
   "EosHistory": [
     {
@@ -294,8 +294,8 @@
   "FirstSeenRating": "2023-04-19T03:58:31.2715304+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:22.1557568+00:00",
   "LastChanged": "2023-04-19T03:58:31.2715304+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:06:00.2171359+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:04:36.9384404+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.2945232+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:58:59.2896156+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:06:00.2171469+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:58:18.1789989+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:04:36.9384696+00:00"
 }

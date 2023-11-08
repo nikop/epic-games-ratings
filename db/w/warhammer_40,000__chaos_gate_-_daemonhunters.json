@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 324,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -747,9 +747,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3291,
+  "EOS_Progressed": 3292,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3782,6 +3782,11 @@
       "Time": "2023-11-04T16:09:33.3515789+00:00",
       "NumProgressed": 3291,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T00:08:50.4748468+00:00",
+      "NumProgressed": 3292,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4025,7 +4030,7 @@
       "Name": "Purging Spree",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "Kills_Vakir",
@@ -4041,7 +4046,7 @@
       "Name": "An Ill Omen",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -4336,21 +4341,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3291,
+      "Progressed": 3292,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3291,
+      "Progressed": 3292,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-10-29T02:59:23.6089798+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:10:02.1878306+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:08:50.474846+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:02.5672969+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:58:51.668877+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:10:02.1879209+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:58:13.2896713+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:08:50.4749793+00:00"
 }

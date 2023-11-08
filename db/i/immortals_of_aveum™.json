@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 185,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -920,6 +920,11 @@
       "Time": "2023-11-07T22:05:07.1597193+00:00",
       "NumProgressed": 184,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T00:05:16.9884848+00:00",
+      "NumProgressed": 185,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -930,9 +935,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_10",
@@ -948,15 +953,15 @@
       "Name": "The Means to Save It",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_13",
@@ -1010,9 +1015,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_2",
@@ -1084,7 +1089,7 @@
       "Name": "Armsman",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_37",
@@ -1108,7 +1113,7 @@
       "Name": "No More Names",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_41",
@@ -1164,7 +1169,7 @@
       "Name": "Enlisted",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_49",
@@ -1172,7 +1177,7 @@
       "Name": "Soldier",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "achievement_5",
@@ -1180,7 +1185,7 @@
       "Name": "Initiate",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_50",
@@ -1218,9 +1223,9 @@
       "ID": "achievement_59",
       "SetID": "18al4io",
       "Name": "Shroudfane Explorer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_6",
@@ -1282,9 +1287,9 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_8",
@@ -1307,7 +1312,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 185,
       "Completed": 1
     }
   ],
@@ -1315,8 +1320,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-05T03:01:16.136809+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:06:54.8148162+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:05:16.988484+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:57:55.3624763+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:06:54.8148685+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:57:33.6776935+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:05:16.9885339+00:00"
 }

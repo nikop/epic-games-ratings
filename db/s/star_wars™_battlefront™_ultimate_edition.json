@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1095,
+  "EOS_Progressed": 1096,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3144,6 +3144,11 @@
       "Time": "2023-11-07T22:08:57.0432546+00:00",
       "NumProgressed": 1095,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T00:09:06.1444519+00:00",
+      "NumProgressed": 1096,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3402,9 +3407,9 @@
       "ID": "achievement_38",
       "SetID": "271ol84",
       "Name": "Survivor",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 120
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_39",
@@ -3428,7 +3433,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "achievement_41",
@@ -3460,7 +3465,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "achievement_45",
@@ -3659,13 +3664,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1095,
+      "Progressed": 1096,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1095,
+      "Progressed": 1096,
       "Completed": 1
     }
   ],
@@ -3673,8 +3678,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:10:24.2103754+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:09:06.1444513+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:58:17.8486466+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:10:24.2105107+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:57:48.0622264+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:09:06.1445499+00:00"
 }

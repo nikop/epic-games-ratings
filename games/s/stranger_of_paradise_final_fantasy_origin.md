@@ -1,45 +1,45 @@
 # STRANGER OF PARADISE FINAL FANTASY ORIGIN
 [Store](https://store.epicgames.com/en-US/p/stranger-of-paradise-final-fantasy-origin)  
 [View Rawdata](../../db/s/stranger_of_paradise_final_fantasy_origin.json)  
-Rating: 4.51 (Ranked 564)  
+Rating: 4.51 (Ranked 563)  
 Number of Ratings: 1,919  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Manifestation of the Soul | 97.00% | ~77,501 |
-| No Escape | 86.00% | ~68,712 |
-| Seeker of Power | 85.00% | ~67,913 |
-| Hopes and Dreams | 82.00% | ~65,516 |
-| Lantern Smasher | 78.00% | ~62,320 |
-| The Pirate's Way | 74.00% | ~59,125 |
-| Dark Crystal, Warrior's Heart | 71.00% | ~56,728 |
-| The King of the Dark Elves | 68.00% | ~54,331 |
-| Memories of the Distant Past | 66.00% | ~52,733 |
-| Distortion's Progeny | 63.00% | ~50,336 |
-| Savant | 62.00% | ~49,537 |
-| A Landscape of Memory | 58.00% | ~46,341 |
-| The Wind's Light | 54.00% | ~43,145 |
-| Vague Remembrances | 49.00% | ~39,150 |
-| The Fire's Light | 47.00% | ~37,552 |
-| Phantom Memories | 47.00% | ~37,552 |
-| Imbued Memories | 47.00% | ~37,552 |
-| The Earth's Light | 45.00% | ~35,954 |
-| Shared Recollections | 42.00% | ~33,557 |
-| The Water's Light | 40.00% | ~31,959 |
-| Path of the Sage | 40.00% | ~31,959 |
-| Malice Takes Root | 38.00% | ~30,361 |
-| Path of the Dark Knight | 37.00% | ~29,562 |
-| Path of the Paladin | 37.00% | ~29,562 |
-| Path of the Breaker | 37.00% | ~29,562 |
-| Duty's Course | 36.00% | ~28,763 |
-| Path of the Liberator | 35.00% | ~27,964 |
-| Path of the Tyrant | 35.00% | ~27,964 |
-| Led by the Nose | 34.00% | ~27,165 |
-| Path of the Void Knight | 34.00% | ~27,165 |
-| Terminus of Fate | 33.00% | ~26,366 |
-| Path of the Ninja | 33.00% | ~26,366 |
-| His Name Is Garland | 33.00% | ~26,366 |
-| Path of the Assassin | 32.00% | ~25,567 |
+| Manifestation of the Soul | 97.00% | ~77,503 |
+| No Escape | 86.00% | ~68,714 |
+| Seeker of Power | 85.00% | ~67,915 |
+| Hopes and Dreams | 82.00% | ~65,518 |
+| Lantern Smasher | 78.00% | ~62,322 |
+| The Pirate's Way | 74.00% | ~59,126 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~56,729 |
+| The King of the Dark Elves | 68.00% | ~54,332 |
+| Memories of the Distant Past | 66.00% | ~52,734 |
+| Distortion's Progeny | 63.00% | ~50,337 |
+| Savant | 62.00% | ~49,538 |
+| A Landscape of Memory | 58.00% | ~46,342 |
+| The Wind's Light | 54.00% | ~43,146 |
+| Vague Remembrances | 49.00% | ~39,151 |
+| The Fire's Light | 47.00% | ~37,553 |
+| Phantom Memories | 47.00% | ~37,553 |
+| Imbued Memories | 47.00% | ~37,553 |
+| The Earth's Light | 45.00% | ~35,955 |
+| Shared Recollections | 42.00% | ~33,558 |
+| The Water's Light | 40.00% | ~31,960 |
+| Path of the Sage | 40.00% | ~31,960 |
+| Malice Takes Root | 38.00% | ~30,362 |
+| Path of the Dark Knight | 37.00% | ~29,563 |
+| Path of the Paladin | 37.00% | ~29,563 |
+| Path of the Breaker | 37.00% | ~29,563 |
+| Duty's Course | 36.00% | ~28,764 |
+| Path of the Liberator | 35.00% | ~27,965 |
+| Path of the Tyrant | 35.00% | ~27,965 |
+| Led by the Nose | 34.00% | ~27,166 |
+| Path of the Void Knight | 34.00% | ~27,166 |
+| Terminus of Fate | 33.00% | ~26,367 |
+| Path of the Ninja | 33.00% | ~26,367 |
+| His Name Is Garland | 33.00% | ~26,367 |
+| Path of the Assassin | 32.00% | ~25,568 |
 | Seeker of Ultimate Power | 24.00% | ~19,176 |
 | Artifact Collector | 22.00% | ~17,578 |
 | True Potential | 22.00% | ~17,578 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Strangers' Memories | 3.00% | ~2,397 |
 | A Tale of Origins and Endings | 2.00% | ~1,598 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79,898 (Ranked 94)  
+Progressed: 79,900 (Ranked 94)  
 Completed: 2,189 (2.74%) (Ranked 104)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,6 +254,7 @@ Completed: 2,189 (2.74%) (Ranked 104)
 | 2023-11-05 | 79,893 | 2,186 |
 | 2023-11-06 | 79,896 | 2,187 |
 | 2023-11-07 | 79,898 | 2,189 |
+| 2023-11-08 | 79,900 | 2,189 |
 ## Awards
 Max (Great Boss Battles): 773  (Ranked 171)  
 Sum: 1,590 (Ranked 227)  

@@ -19,9 +19,9 @@
 | Turian Ally | 54.00% | ~556 |
 | Charismatic | 52.00% | ~536 |
 | Soldier | 51.00% | ~525 |
+| Asari Ally | 48.00% | ~494 |
 | Medal of Exploration III | 47.00% | ~484 |
 | Soldier Ally | 47.00% | ~484 |
-| Asari Ally | 47.00% | ~484 |
 | Principled | 47.00% | ~484 |
 | Paramour I | 46.00% | ~474 |
 | Colonial Savior | 45.00% | ~464 |
@@ -91,12 +91,12 @@
 | Fact Finder | 21.00% | ~216 |
 | Problem Solver | 21.00% | ~216 |
 | Pyromaniac | 20.00% | ~206 |
+| Under Pressure | 20.00% | ~206 |
 | Last Resort | 20.00% | ~206 |
 | No One Left Behind | 20.00% | ~206 |
 | Hard Target | 20.00% | ~206 |
 | Saboteur | 20.00% | ~206 |
 | Last Witness | 20.00% | ~206 |
-| Under Pressure | 19.00% | ~196 |
 | Well Connected | 19.00% | ~196 |
 | Master and Commander | 17.00% | ~175 |
 | Electronics Specialist | 16.00% | ~165 |

@@ -4,8 +4,8 @@
   "ProductSlug": "phageborn-c7b533",
   "Ranking_EOS_Progress": 730,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-19T10:00:00+00:00",
     "PcReleaseDate": "2022-08-11T09:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-20T07:59:05.2211705+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:43.8246998+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:58:30.0537366+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:04:08.8858146+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:57:56.8053857+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:03:10.5439339+00:00"
 }

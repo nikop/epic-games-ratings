@@ -2,13 +2,13 @@
   "ID": "93ea0d593cb04e62afb0741bbf894173",
   "Name": "Redout: Enhanced Edition",
   "ProductSlug": "redout-enhanced-edition",
-  "Ranking_Rating": 585,
+  "Ranking_Rating": 584,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
     "PcReleaseDate": "2016-09-02T15:00:00+00:00",
@@ -337,9 +337,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235106,
+  "EOS_Progressed": 235107,
   "EOS_Completed": 48,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21512,6 +21512,11 @@
       "Time": "2023-11-07T23:08:22.4395862+00:00",
       "NumProgressed": 235106,
       "NumCompleted": 48
+    },
+    {
+      "Time": "2023-11-08T00:06:18.9692403+00:00",
+      "NumProgressed": 235107,
+      "NumCompleted": 48
     }
   ],
   "TotalAchievements": 34,
@@ -21547,7 +21552,7 @@
       "Name": "CENTAUR",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 18808
+      "UsersEstimate": 18809
     },
     {
       "ID": "CHALLENGER",
@@ -21587,7 +21592,7 @@
       "Name": "FASTER THAN EVER",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 18808
+      "UsersEstimate": 18809
     },
     {
       "ID": "FLAWLESS",
@@ -21747,7 +21752,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51723
+      "UsersEstimate": 51724
     },
     {
       "ID": "TACTICIAN",
@@ -21771,7 +21776,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 51723
+      "UsersEstimate": 51724
     },
     {
       "ID": "TUNINGMANIAC",
@@ -21787,22 +21792,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 96393
+      "UsersEstimate": 96394
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 235106,
+      "Progressed": 235107,
       "Completed": 48
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-10-05T20:58:08.2184331+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:08:22.4395857+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:06:18.9692396+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:23.1694158+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:59:59.8115303+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:08:22.4397446+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:58:59.8346891+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:06:18.9694441+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -369,9 +369,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 3628,
+  "EOS_Progressed": 3629,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5674,6 +5674,11 @@
       "Time": "2023-11-07T21:04:49.5230189+00:00",
       "NumProgressed": 3628,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-08T00:05:02.7375958+00:00",
+      "NumProgressed": 3629,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5725,7 +5730,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1850
+      "UsersEstimate": 1851
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -5733,7 +5738,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -5741,7 +5746,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -5781,7 +5786,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5789,15 +5794,15 @@
       "Name": "Regicide",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
       "SetID": "816efe",
       "Name": "Call Me Snake",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2250
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -5845,7 +5850,7 @@
       "Name": "Bandage Lover",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -5877,7 +5882,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "ACH_MISSION_02",
@@ -5901,7 +5906,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5909,7 +5914,7 @@
       "Name": "Where It All Begun",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1451
+      "UsersEstimate": 1452
     },
     {
       "ID": "ACH_MISSION_06",
@@ -5925,7 +5930,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "ACH_MISSION_08",
@@ -5949,7 +5954,7 @@
       "Name": "The Spire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "ACH_MISSION_11",
@@ -6037,14 +6042,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2068
+      "UsersEstimate": 2069
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3628,
+      "Progressed": 3629,
       "Completed": 3
     }
   ],
@@ -6052,8 +6057,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-01T20:58:36.9657779+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:06:35.2572365+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:05:02.7375953+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:57:30.0259226+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:06:35.257312+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:57:15.3681448+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:05:02.7376712+00:00"
 }

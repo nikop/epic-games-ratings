@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2043,
+  "EOS_Progressed": 2044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4497,6 +4497,11 @@
       "Time": "2023-11-07T21:09:00.8216508+00:00",
       "NumProgressed": 2043,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T00:09:11.6291536+00:00",
+      "NumProgressed": 2044,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4509,7 +4514,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4533,7 +4538,7 @@
       "Name": "Stamina Star",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -4573,7 +4578,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -4581,7 +4586,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4813,7 +4818,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4861,7 +4866,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 592
+      "UsersEstimate": 593
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -4900,14 +4905,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2043,
+      "Progressed": 2044,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-07T23:10:31.9137682+00:00",
+  "LastChanged_Achievements": "2023-11-08T00:09:11.6291533+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-07T22:02:31.4950869+00:00",
-  "LastUpdate_Achievements": "2023-11-07T23:10:31.9138595+00:00"
+  "LastUpdate_Ratings": "2023-11-07T23:57:07.5077329+00:00",
+  "LastUpdate_Achievements": "2023-11-08T00:09:11.6292231+00:00"
 }

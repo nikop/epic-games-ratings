@@ -18,8 +18,8 @@ Rating: 4.48 (Ranked 620)
 | Running at the speed of sound | 14.00% | ~163 |
 | Rookie No-No More | 13.00% | ~151 |
 | Martian explorer | 11.00% | ~128 |
-| To the core | 9.00% | ~104 |
-| Blurred photofinish | 9.00% | ~104 |
+| To the core | 9.00% | ~105 |
+| Blurred photofinish | 9.00% | ~105 |
 | EZ game EZ life | 7.00% | ~81 |
 | First step into a larger world | 7.00% | ~81 |
 | Over the clouds | 6.00% | ~70 |
@@ -58,7 +58,7 @@ Rating: 4.48 (Ranked 620)
 | I, need, more, shelves! | 0.40% | ~5 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,161 (Ranked 240)  
+Progressed: 1,162 (Ranked 240)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -178,6 +178,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-10-30 | 1,159 | 0 |
 | 2023-11-04 | 1,160 | 0 |
 | 2023-11-05 | 1,161 | 0 |
+| 2023-11-08 | 1,162 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

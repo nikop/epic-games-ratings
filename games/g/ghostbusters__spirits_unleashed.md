@@ -1,11 +1,11 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 585)  
+Rating: 4.50 (Ranked 584)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 7.00% | ~2,133 |
+| Stylish | 7.00% | ~2,134 |
 | Advancement | 5.00% | ~1,524 |
 | Meticulously Efficient | 5.00% | ~1,524 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,219 |
@@ -21,21 +21,21 @@ Rating: 4.50 (Ranked 585)
 | Right back at ya | 3.00% | ~914 |
 | There you are! | 3.00% | ~914 |
 | Whoopsie | 3.00% | ~914 |
-| Animated | 2.00% | ~609 |
-| Back Off | 2.00% | ~609 |
-| We have the best insurance | 2.00% | ~609 |
-| Daily Dose | 2.00% | ~609 |
-| Ectoplasmic Entity | 2.00% | ~609 |
-| Icing on the Cake | 2.00% | ~609 |
-| Legions | 2.00% | ~609 |
-| Pesky Jerks | 2.00% | ~609 |
-| Rift Destroyer | 2.00% | ~609 |
-| Seasoned | 2.00% | ~609 |
-| Side Hustle | 2.00% | ~609 |
-| Skilled | 2.00% | ~609 |
-| Stunner | 2.00% | ~609 |
-| Summoner | 2.00% | ~609 |
-| Welcome to the Crew | 2.00% | ~609 |
+| Animated | 2.00% | ~610 |
+| Back Off | 2.00% | ~610 |
+| We have the best insurance | 2.00% | ~610 |
+| Daily Dose | 2.00% | ~610 |
+| Ectoplasmic Entity | 2.00% | ~610 |
+| Icing on the Cake | 2.00% | ~610 |
+| Legions | 2.00% | ~610 |
+| Pesky Jerks | 2.00% | ~610 |
+| Rift Destroyer | 2.00% | ~610 |
+| Seasoned | 2.00% | ~610 |
+| Side Hustle | 2.00% | ~610 |
+| Skilled | 2.00% | ~610 |
+| Stunner | 2.00% | ~610 |
+| Summoner | 2.00% | ~610 |
+| Welcome to the Crew | 2.00% | ~610 |
 | Collector | 1.00% | ~305 |
 | Diabolical | 1.00% | ~305 |
 | Escape Artist | 1.00% | ~305 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 585)
 | Mycophile | 0.10% | ~30 |
 | Ultimate Defense | 0.10% | ~30 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,471 (Ranked 122)  
+Progressed: 30,482 (Ranked 122)  
 Completed: 65 (0.21%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,13 +259,14 @@ Completed: 65 (0.21%) (Ranked 238)
 | 2023-11-05 | 30,292 | 65 |
 | 2023-11-06 | 30,390 | 65 |
 | 2023-11-07 | 30,471 | 65 |
+| 2023-11-08 | 30,482 | 65 |
 ## Awards
-Max (Great for Beginners): 305  (Ranked 245)  
-Sum: 2,726 (Ranked 179)  
+Max (Great for Beginners): 309  (Ranked 245)  
+Sum: 2,730 (Ranked 179)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 305 |
+| This game is Great for Beginners | 309 |
 | This game is Great for Quick Sessions | 298 |
 | This game has Diverse Characters | 279 |
 | This game has Amazing Storytelling | 273 |
@@ -484,4 +485,4 @@ Diff (max vs sum): 66
 | 2023-11-04 | 4.50 | 302 | 2,693 |
 | 2023-11-05 | 4.50 | 302 | 2,703 |
 | 2023-11-06 | 4.50 | 305 | 2,708 |
-| 2023-11-07 | 4.50 | 305 | 2,726 |
+| 2023-11-07 | 4.50 | 309 | 2,730 |

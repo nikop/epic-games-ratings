@@ -8,11 +8,11 @@ Rating: 3.95 (Ranked 1,002)
 | Neophyte Ninja | 2.00% | ~1,793 |
 | First One’s Free | 2.00% | ~1,793 |
 | Downed but Not Outed | 2.00% | ~1,793 |
-| Underworld Initiate | 1.00% | ~896 |
-| Too Old for This | 1.00% | ~896 |
-| Fancy Pants | 1.00% | ~896 |
-| Off the Rocks | 1.00% | ~896 |
-| Dragonslayer | 1.00% | ~896 |
+| Underworld Initiate | 1.00% | ~897 |
+| Too Old for This | 1.00% | ~897 |
+| Fancy Pants | 1.00% | ~897 |
+| Off the Rocks | 1.00% | ~897 |
+| Dragonslayer | 1.00% | ~897 |
 | Roid Ranger | 0.90% | ~807 |
 | King of the Hill | 0.90% | ~807 |
 | Raider’s Ruin | 0.90% | ~807 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,002)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,646 (Ranked 91)  
+Progressed: 89,652 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,6 +249,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-05 | 89,585 | 55 |
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
+| 2023-11-08 | 89,652 | 55 |
 ## Awards
 Max (Diverse Characters): 522  (Ranked 204)  
 Sum: 2,964 (Ranked 175)  

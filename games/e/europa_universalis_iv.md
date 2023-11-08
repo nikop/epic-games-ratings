@@ -23,6 +23,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Azur semé de lis or | 0.10% | ~450 |
 | Baa Baa Black Sheep | 0.10% | ~450 |
 | Barbarossa | 0.10% | ~450 |
+| Basileus | 0.10% | ~450 |
 | Big Blue Blob | 0.10% | ~450 |
 | Black Jack | 0.10% | ~450 |
 | Blockader | 0.10% | ~450 |
@@ -115,6 +116,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is fine | 0.10% | ~450 |
 | This is My Faith | 0.10% | ~450 |
 | This navy can take it all | 0.10% | ~450 |
+| This Revolution Was Crushed | 0.10% | ~450 |
 | Three Trivial Tributary Tribes | 0.10% | ~450 |
 | Time Bandit | 0.10% | ~450 |
 | Total Control | 0.10% | ~450 |
@@ -161,7 +163,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Back to the Piast | 0.00% | ~0 |
 | Baltic Crusader | 0.00% | ~0 |
 | These Banners need a Saga | 0.00% | ~0 |
-| Basileus | 0.00% | ~0 |
 | Basque in Glory | 0.00% | ~0 |
 | Bengal Tiger | 0.00% | ~0 |
 | Better than Napoleon | 0.00% | ~0 |
@@ -341,7 +342,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Uncommonwealth | 0.00% | ~0 |
 | The White Company | 0.00% | ~0 |
 | This is Persia! | 0.00% | ~0 |
-| This Revolution Was Crushed | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Trade Hegemon | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,516 (Ranked 41)  
+Progressed: 449,535 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -572,6 +572,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
+| 2023-11-08 | 449,535 | 1 |
 ## Awards
 Max (Educational): 6,879  (Ranked 54)  
 Sum: 56,604 (Ranked 24)  
