@@ -214,7 +214,7 @@
 | 212 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 454 | 4.84 | 50 |
 | 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 451 | 4.71 | 197 |
 | 213 | [RimWorld](games/r/rimworld.md) | 451 | 4.89 | 10 |
-| 215 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 444 | 4.70 | 211 |
+| 215 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 446 | 4.70 | 211 |
 | 216 | [Warface](games/w/warface.md) | 440 | 3.90 | 1,011 |
 | 217 | [Against the Storm](games/a/against_the_storm.md) | 439 | 4.82 | 63 |
 | 218 | [Into the Breach](games/i/into_the_breach.md) | 437 | 4.84 | 50 |

@@ -211,7 +211,7 @@
 | 197 | [Total War: WARHAMMER III](games/t/total_war__warhammer_iii.md) | 4.71 | 2,067 | 110 |
 | 197 | [Ys IX: Monstrum Nox](games/y/ys_ix__monstrum_nox_(launch_week).md) | 4.71 | 0 | 547 |
 | 211 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4.70 | 4,598 | 77 |
-| 211 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 444 | 215 |
+| 211 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 446 | 215 |
 | 211 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,860 | 46 |
 | 211 | [For The King](games/f/for_the_king.md) | 4.70 | 403 | 223 |
 | 211 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,336 | 135 |

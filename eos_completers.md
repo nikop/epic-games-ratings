@@ -84,8 +84,8 @@
 | 82 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.80% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.75% |
 | 84 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.45% |
-| 84 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 3.45% |
-| 86 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.40% |
+| 85 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.40% |
+| 86 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 3.39% |
 | 87 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.38% |
 | 88 | [Bunny Park](games/b/bunny_park.md) | 3.34% |
 | 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.34% |
@@ -171,7 +171,7 @@
 | 169 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 170 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
 | 171 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
-| 172 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.73% |
+| 172 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.74% |
 | 173 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 174 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 175 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |
