@@ -157,9 +157,9 @@
 | 155 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 156 | [Sable](games/s/sable.md) | 1.01% |
 | 157 | [Trifox](games/t/trifox.md) | 0.98% |
-| 158 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
-| 158 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
-| 160 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.92% |
+| 158 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.96% |
+| 159 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
+| 159 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
 | 161 | [Hades](games/h/hades.md) | 0.91% |
 | 161 | [The Devil's Face](games/t/the_devil's_face.md) | 0.91% |
 | 163 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.90% |
