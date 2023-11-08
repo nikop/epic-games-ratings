@@ -398,7 +398,7 @@
 | 383 | [MudRunner](games/m/mudrunner.md) | 4.61 | 275 | 261 |
 | 383 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,674 | 100 |
 | 383 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 107 | 349 |
-| 383 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 557 | 200 |
+| 383 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 560 | 199 |
 | 383 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 4.61 | 10,371 | 38 |
 | 383 | [Returnal™](games/r/returnal™.md) | 4.61 | 91 | 371 |
 | 383 | [RiME](games/r/rime.md) | 4.61 | 0 | 547 |
@@ -478,7 +478,7 @@
 | 469 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 4.57 | 3,345 | 94 |
 | 469 | [Risen](games/r/risen.md) | 4.57 | 0 | 547 |
 | 469 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 547 |
-| 469 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,298 | 81 |
+| 469 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,307 | 81 |
 | 469 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,249 | 20 |
 | 469 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,791 | 118 |
 | 469 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 547 |
@@ -500,7 +500,6 @@
 | 484 | [Potion Craft: Alchemist Simulator](games/p/potion_craft__alchemist_simulator.md) | 4.56 | 0 | 547 |
 | 484 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.56 | 31 | 487 |
 | 484 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4.56 | 4,789 | 74 |
-| 501 | [Alan Wake](games/a/alan_wake.md) | 4.55 | 0 | 547 |
 | 501 | [Aragami 2](games/a/aragami_2.md) | 4.55 | 0 | 547 |
 | 501 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 4.55 | 0 | 547 |
 | 501 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 4.55 | 1,639 | 123 |
@@ -522,18 +521,19 @@
 | 501 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.55 | 0 | 547 |
 | 501 | [Train Sim World® 3: Standard Edition](games/t/train_sim_world®_3__standard_edition.md) | 4.55 | 366 | 235 |
 | 501 | [XCOM® 2](games/x/xcom®_2.md) | 4.55 | 1,345 | 134 |
-| 523 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 515 |
-| 523 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,539 | 127 |
-| 523 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 0 | 547 |
-| 523 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,178 | 53 |
-| 523 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 464 |
-| 523 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 547 |
-| 523 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 547 |
-| 523 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 475 |
-| 523 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 519 |
-| 523 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 362 |
-| 523 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 96 | 363 |
-| 523 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 80 | 387 |
+| 522 | [Alan Wake](games/a/alan_wake.md) | 4.54 | 0 | 547 |
+| 522 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 4.54 | 25 | 515 |
+| 522 | [Conan Exiles](games/c/conan_exiles.md) | 4.54 | 1,539 | 127 |
+| 522 | [Costume Quest](games/c/costume_quest.md) | 4.54 | 0 | 547 |
+| 522 | [Dead Island 2](games/d/dead_island_2.md) | 4.54 | 7,178 | 53 |
+| 522 | [DEATHLOOP](games/d/deathloop.md) | 4.54 | 36 | 464 |
+| 522 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 4.54 | 0 | 547 |
+| 522 | [Nexomon: Extinction](games/n/nexomon__extinction.md) | 4.54 | 0 | 547 |
+| 522 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 4.54 | 34 | 475 |
+| 522 | [RUINER](games/r/ruiner.md) | 4.54 | 24 | 519 |
+| 522 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 4.54 | 97 | 362 |
+| 522 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 4.54 | 96 | 363 |
+| 522 | [Tribes of Midgard](games/t/tribes_of_midgard.md) | 4.54 | 80 | 387 |
 | 535 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 4.53 | 0 | 547 |
 | 535 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 0 | 547 |
 | 535 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 0 | 547 |
@@ -566,7 +566,7 @@
 | 564 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 124 | 334 |
 | 564 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,145 | 83 |
 | 564 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 547 |
-| 564 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 35,546 | 15 |
+| 564 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 35,641 | 15 |
 | 564 | [Duskers](games/d/duskers.md) | 4.51 | 0 | 547 |
 | 564 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 151,331 | 7 |
 | 564 | [Far Cry](games/f/far_cry.md) | 4.51 | 32 | 482 |
@@ -830,7 +830,7 @@
 | 827 | [Animation Throwdown: The Quest for Cards](games/a/animation_throwdown__the_quest_for_cards.md) | 4.31 | 370 | 233 |
 | 827 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 4.31 | 375 | 231 |
 | 827 | [Rogue Company](games/r/rogue_company.md) | 4.31 | 5,630 | 66 |
-| 827 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 975 | 153 |
+| 827 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 4.31 | 976 | 153 |
 | 832 | [Anodyne 2: Return To Dust](games/a/anodyne_2__return_to_dust.md) | 4.30 | 0 | 547 |
 | 832 | [Far Cry 2: Standard Edition](games/f/far_cry_2__standard_edition.md) | 4.30 | 0 | 547 |
 | 832 | [Hammerting](games/h/hammerting.md) | 4.30 | 0 | 547 |
@@ -969,7 +969,7 @@
 | 965 | [Fort Triumph](games/f/fort_triumph.md) | 4.08 | 142 | 320 |
 | 965 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 4.08 | 182 | 296 |
 | 965 | [New Tales from the Borderlands](games/n/new_tales_from_the_borderlands.md) | 4.08 | 0 | 547 |
-| 970 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 558 | 199 |
+| 970 | [Godfall Ultimate Edition](games/g/godfall.md) | 4.07 | 558 | 200 |
 | 971 | [Alan Wake’s American Nightmare](games/a/alan_wake’s_american_nightmare.md) | 4.06 | 0 | 547 |
 | 971 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 4.06 | 5,488 | 68 |
 | 971 | [Necromunda: Hired Gun](games/n/necromunda__hired_gun.md) | 4.06 | 0 | 547 |
