@@ -6,9 +6,9 @@
   "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 305,
   "Ranking_EOS_Progress": 149,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1447,7 +1447,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13621,
+  "EOS_Progressed": 13622,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 2,
@@ -14252,6 +14252,11 @@
       "Time": "2023-11-08T20:08:36.0268255+00:00",
       "NumProgressed": 13621,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-08T21:18:55.1531655+00:00",
+      "NumProgressed": 13622,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 35,
@@ -14263,7 +14268,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11033
+      "UsersEstimate": 11034
     },
     {
       "ID": "ACH02",
@@ -14271,7 +14276,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH03",
@@ -14439,7 +14444,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "ACH24",
@@ -14542,7 +14547,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13621,
+      "Progressed": 13622,
       "Completed": 52
     }
   ],
@@ -14550,8 +14555,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-08T16:59:45.9318547+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:08:36.0268249+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:18:55.1531652+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:17.5596135+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:59:31.6250951+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:08:36.026896+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:10:43.671233+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:18:55.1532446+00:00"
 }

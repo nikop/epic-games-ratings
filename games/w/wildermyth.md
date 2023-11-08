@@ -14,11 +14,11 @@ Number of Ratings: 45  (23.09.2022)
 | Cutthroat Competitors | 1.00% | ~15 |
 | Daybreak | 1.00% | ~15 |
 | Passing Shadow | 0.90% | ~13 |
+| War Endured | 0.70% | ~10 |
+| Core Failure | 0.70% | ~10 |
 | Let Me Get My Chisel | 0.60% | ~9 |
 | Completing the Look | 0.60% | ~9 |
-| War Endured | 0.60% | ~9 |
 | Echoes Die | 0.60% | ~9 |
-| Core Failure | 0.60% | ~9 |
 | A Mythic Menagerie | 0.40% | ~6 |
 | Who's Counting? | 0.40% | ~6 |
 | Thematic Divergence | 0.40% | ~6 |

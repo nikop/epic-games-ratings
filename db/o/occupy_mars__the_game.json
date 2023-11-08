@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -289,7 +289,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1695,
+  "EOS_Progressed": 1696,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -4129,6 +4129,11 @@
       "Time": "2023-11-07T18:06:35.2991381+00:00",
       "NumProgressed": 1695,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T21:16:55.4965558+00:00",
+      "NumProgressed": 1696,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4220,7 +4225,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4260,7 +4265,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -4316,7 +4321,7 @@
       "Name": "Electrician",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -4340,7 +4345,7 @@
       "Name": "Get your hands dirty",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "NEW_ACHIEVEMENT_GOOD_MARTIAN",
@@ -4500,7 +4505,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4523,7 +4528,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1695,
+      "Progressed": 1696,
       "Completed": 0
     }
   ],
@@ -4531,8 +4536,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-08T15:58:28.9481693+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:05:45.0675981+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:16:55.4965555+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:13.9146471+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:59:02.5686438+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:05:45.0676499+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:09:49.7818393+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:16:55.4966047+00:00"
 }

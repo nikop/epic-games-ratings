@@ -17,8 +17,8 @@ Number of Ratings: 74  (23.09.2022)
 | Daylight Found | 26.00% | ~1,939 |
 | Irons Scorched | 25.00% | ~1,864 |
 | Islands Connected | 25.00% | ~1,864 |
+| Harp Tuned | 24.00% | ~1,790 |
 | Travelers Returned | 24.00% | ~1,790 |
-| Harp Tuned | 23.00% | ~1,715 |
 | Pyre Ignited | 23.00% | ~1,715 |
 | Hopes Hoisted | 22.00% | ~1,641 |
 | Knowledge Shared | 20.00% | ~1,491 |

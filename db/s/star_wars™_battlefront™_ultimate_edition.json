@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1111,
+  "EOS_Progressed": 1112,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
@@ -3204,6 +3204,11 @@
       "Time": "2023-11-08T20:09:15.4105956+00:00",
       "NumProgressed": 1111,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T21:19:34.5033142+00:00",
+      "NumProgressed": 1112,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3238,9 +3243,9 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_13",
@@ -3342,9 +3347,9 @@
       "ID": "achievement_24",
       "SetID": "271ol84",
       "Name": "Don\u0027t get cocky",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_25",
@@ -3440,7 +3445,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achievement_36",
@@ -3456,7 +3461,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "achievement_38",
@@ -3719,13 +3724,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1111,
+      "Progressed": 1112,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1111,
+      "Progressed": 1112,
       "Completed": 1
     }
   ],
@@ -3733,8 +3738,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:09:15.4105953+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:19:34.5033139+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:58:17.1651331+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:09:15.4106489+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:06:07.9325973+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:19:34.5033819+00:00"
 }

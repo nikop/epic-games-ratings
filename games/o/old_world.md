@@ -11,22 +11,22 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 5.00% | ~761 |
 | Intrepid | 4.00% | ~609 |
 | Friendly Family | 4.00% | ~609 |
-| Able | 3.00% | ~456 |
-| Architect | 3.00% | ~456 |
-| Glorious | 3.00% | ~456 |
-| Good | 3.00% | ~456 |
-| Just | 3.00% | ~456 |
-| Learned | 3.00% | ~456 |
-| Mason | 3.00% | ~456 |
-| Noble | 3.00% | ~456 |
-| Pioneer | 3.00% | ~456 |
-| Strong | 3.00% | ~456 |
-| Warrior | 3.00% | ~456 |
-| Hanging Gardens | 3.00% | ~456 |
-| Oracle | 3.00% | ~456 |
-| Judaism | 3.00% | ~456 |
-| Naming Landmarks | 3.00% | ~456 |
-| Trade Caravan | 3.00% | ~456 |
+| Able | 3.00% | ~457 |
+| Architect | 3.00% | ~457 |
+| Glorious | 3.00% | ~457 |
+| Good | 3.00% | ~457 |
+| Just | 3.00% | ~457 |
+| Learned | 3.00% | ~457 |
+| Mason | 3.00% | ~457 |
+| Noble | 3.00% | ~457 |
+| Pioneer | 3.00% | ~457 |
+| Strong | 3.00% | ~457 |
+| Warrior | 3.00% | ~457 |
+| Hanging Gardens | 3.00% | ~457 |
+| Oracle | 3.00% | ~457 |
+| Judaism | 3.00% | ~457 |
+| Naming Landmarks | 3.00% | ~457 |
+| Trade Caravan | 3.00% | ~457 |
 | Regicide | 2.00% | ~304 |
 | Ambitious | 2.00% | ~304 |
 | Drillmaster | 2.00% | ~304 |
@@ -121,6 +121,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.80% | ~122 |
 | Babylonia | 0.80% | ~122 |
 | One True Faith | 0.80% | ~122 |
+| Assyrian Paganism | 0.80% | ~122 |
 | Industrial Progress | 0.80% | ~122 |
 | Enlightenment | 0.80% | ~122 |
 | Veneration | 0.80% | ~122 |
@@ -128,7 +129,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.70% | ~107 |
 | Egypt | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
-| Assyrian Paganism | 0.70% | ~107 |
 | Hittite Paganism | 0.70% | ~107 |
 | Turreted Elephant | 0.70% | ~107 |
 | The Great Mage | 0.70% | ~107 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,215 (Ranked 145)  
+Progressed: 15,217 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -551,7 +551,7 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-05 | 15,167 | 5 |
 | 2023-11-06 | 15,191 | 5 |
 | 2023-11-07 | 15,201 | 5 |
-| 2023-11-08 | 15,215 | 5 |
+| 2023-11-08 | 15,217 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 272)  
 Sum: 1,869 (Ranked 212)  

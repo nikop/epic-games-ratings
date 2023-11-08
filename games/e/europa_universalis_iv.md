@@ -121,6 +121,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The pen is mightier than the sword | 0.10% | ~450 |
 | The Princess is in this Castle | 0.10% | ~450 |
 | The Rising Sun | 0.10% | ~450 |
+| The Uncommonwealth | 0.10% | ~450 |
 | This is fine | 0.10% | ~450 |
 | This is My Faith | 0.10% | ~450 |
 | This navy can take it all | 0.10% | ~450 |
@@ -340,7 +341,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Re-Reconquista | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
-| The Uncommonwealth | 0.00% | ~0 |
 | The White Company | 0.00% | ~0 |
 | This is Persia! | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,070 (Ranked 41)  
+Progressed: 450,109 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -572,19 +572,19 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
-| 2023-11-08 | 450,070 | 1 |
+| 2023-11-08 | 450,109 | 1 |
 ## Awards
 Max (Educational): 6,903  (Ranked 55)  
-Sum: 56,735 (Ranked 24)  
+Sum: 56,778 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,903 |
-| This game has Diverse Characters | 6,613 |
+| This game has Diverse Characters | 6,633 |
 | This game is Highly Recommended | 6,608 |
 | This game has Challenging Combat | 6,527 |
 | This game is Extremely Fun | 6,503 |
-| This game is Relaxing | 6,332 |
+| This game is Relaxing | 6,355 |
 | This game has Competitive Players | 6,193 |
 | This game has Amazing Storytelling | 5,738 |
 | This game has Amazing Characters | 5,318 |
@@ -887,4 +887,4 @@ Diff (max vs sum): 31
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
 | 2023-11-06 | 4.69 | - | 6,879 | 56,411 |
 | 2023-11-07 | 4.69 | - | 6,879 | 56,604 |
-| 2023-11-08 | 4.69 | - | 6,903 | 56,735 |
+| 2023-11-08 | 4.69 | - | 6,903 | 56,778 |

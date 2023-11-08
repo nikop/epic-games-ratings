@@ -691,7 +691,7 @@
   ],
   "EOS_Progressed": 1635,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -5180,9 +5180,9 @@
       "ID": "achievement_39",
       "SetID": "222fo9l",
       "Name": "Z-Baller",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_4",
@@ -5220,9 +5220,9 @@
       "ID": "achievement_43",
       "SetID": "222fo9l",
       "Name": "Exterminator",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 818
+      "UsersEstimate": 834
     },
     {
       "ID": "achievement_44",
@@ -5309,8 +5309,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-05T01:50:21.7166978+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:04:16.4754717+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:14:37.929076+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.4707049+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:58:22.5460042+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:04:16.4755348+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:06:39.8569565+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:14:37.9291296+00:00"
 }

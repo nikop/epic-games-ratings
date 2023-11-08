@@ -1999,9 +1999,9 @@
       "ID": "completedStory_enduringWar",
       "SetID": "95dc8p",
       "Name": "War Endured",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "completedStory_legacy",
@@ -2063,9 +2063,9 @@
       "ID": "enduringWar_destroyCores",
       "SetID": "95dc8p",
       "Name": "Core Failure",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "enduringWar_destroyEnduring",
@@ -2215,8 +2215,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:08:56.7929146+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:19:15.9880722+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:27.3279297+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:58:43.8569595+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:08:56.7929618+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:08:35.9867553+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:19:15.9881206+00:00"
 }

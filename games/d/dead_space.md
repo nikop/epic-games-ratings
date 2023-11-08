@@ -17,7 +17,7 @@ Rating: 4.63 (Ranked 348)
 | Raise the Stakes | 55.00% | ~899 |
 | Surgeon | 51.00% | ~834 |
 | Freeze | 51.00% | ~834 |
-| Exterminator | 50.00% | ~818 |
+| Exterminator | 51.00% | ~834 |
 | Greenhouse Effect | 50.00% | ~818 |
 | Full Arsenal | 45.00% | ~736 |
 | S.O.S. | 44.00% | ~719 |
@@ -40,7 +40,7 @@ Rating: 4.63 (Ranked 348)
 | Final Regeneration | 24.00% | ~392 |
 | Full Clearance | 23.00% | ~376 |
 | Pusher | 22.00% | ~360 |
-| Z-Baller | 21.00% | ~343 |
+| Z-Baller | 22.00% | ~360 |
 | Marked | 20.00% | ~327 |
 | Eviscerator | 18.00% | ~294 |
 | Backbreaker | 13.00% | ~213 |

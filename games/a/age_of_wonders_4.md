@@ -12,6 +12,7 @@ Rating: 4.60 (Ranked 411)
 | Spoils of War | 0.20% | ~11 |
 | Valley of Wonders | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
+| Full Ascension | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | Arch Mage | 0.10% | ~5 |
@@ -53,7 +54,6 @@ Rating: 4.60 (Ranked 411)
 | Snap Out of It! | 0.00% | ~0 |
 | I've Got Everything I Need Right Here | 0.00% | ~0 |
 | The Magic That Empowers Me! | 0.00% | ~0 |
-| Full Ascension | 0.00% | ~0 |
 | God Emperor | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Fiery Friend | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 411)
 | Duality | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,296 (Ranked 183)  
+Progressed: 5,297 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-05 | 5,274 | 7 |
 | 2023-11-06 | 5,276 | 7 |
 | 2023-11-07 | 5,285 | 7 |
-| 2023-11-08 | 5,296 | 7 |
+| 2023-11-08 | 5,297 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 474)  

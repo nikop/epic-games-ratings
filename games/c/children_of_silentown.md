@@ -17,7 +17,7 @@
 | Complicated padlock | 42.00% | ~89 |
 | Big metal ruler | 40.00% | ~84 |
 | Windmill | 40.00% | ~84 |
-| Doll | 37.00% | ~78 |
+| Doll | 38.00% | ~80 |
 | Mysterious paintings | 35.00% | ~74 |
 | Cat | 33.00% | ~70 |
 | Depths of the well | 27.00% | ~57 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 304,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -993,7 +993,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66129,
+  "EOS_Progressed": 66133,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 2,
@@ -8368,6 +8368,11 @@
       "Time": "2023-11-08T20:04:10.6639997+00:00",
       "NumProgressed": 66129,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-08T21:14:32.5669874+00:00",
+      "NumProgressed": 66133,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8380,7 +8385,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21823
+      "UsersEstimate": 21824
     },
     {
       "ID": "10",
@@ -8444,7 +8449,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11242
+      "UsersEstimate": 11243
     },
     {
       "ID": "3",
@@ -8468,7 +8473,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 5290
+      "UsersEstimate": 5291
     },
     {
       "ID": "6",
@@ -8507,7 +8512,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66129,
+      "Progressed": 66133,
       "Completed": 29
     }
   ],
@@ -8515,8 +8520,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-08T18:58:25.9990991+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:04:10.6639994+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:14:32.5669869+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:58:14.7642499+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:04:10.6640451+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:05:42.8509856+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:14:32.5670289+00:00"
 }

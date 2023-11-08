@@ -5,12 +5,12 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~177 |
-| Battlefields Have Memories | 82.00% | ~166 |
+| Unforeseen | 88.00% | ~179 |
+| Battlefields Have Memories | 83.00% | ~168 |
 | Enlisted | 79.00% | ~160 |
-| Maybe Engage a Little | 74.00% | ~150 |
+| Maybe Engage a Little | 75.00% | ~152 |
 | No More Names | 61.00% | ~124 |
-| Initiate | 49.00% | ~99 |
+| Initiate | 50.00% | ~102 |
 | Thrada-Kul | 45.00% | ~91 |
 | Gravity-Challenged Rocks | 34.00% | ~69 |
 | Soldier | 29.00% | ~59 |
@@ -18,7 +18,7 @@ Rating: 4.02 (Ranked 986)
 | Socialite | 26.00% | ~53 |
 | Beggars Would Ride | 26.00% | ~53 |
 | Control is an Illusion | 25.00% | ~51 |
-| The Means to Save It | 21.00% | ~43 |
+| The Means to Save It | 22.00% | ~45 |
 | Resilience to Sin | 19.00% | ~39 |
 | A Familiar Nest | 18.00% | ~37 |
 | Periapt Alizarin | 18.00% | ~37 |

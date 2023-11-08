@@ -7,26 +7,26 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,504 |
-| Man of politics | 34.00% | ~5,528 |
-| Friends of sorts | 33.00% | ~5,365 |
-| Yet another secret | 33.00% | ~5,365 |
-| Let there be darkness | 32.00% | ~5,203 |
+| Man of politics | 34.00% | ~5,529 |
+| Friends of sorts | 33.00% | ~5,366 |
+| Yet another secret | 33.00% | ~5,366 |
+| Let there be darkness | 32.00% | ~5,204 |
 | End of Book One | 30.00% | ~4,878 |
-| Garden of Eden | 24.00% | ~3,902 |
-| Full house | 24.00% | ~3,902 |
+| Garden of Eden | 24.00% | ~3,903 |
+| Full house | 24.00% | ~3,903 |
 | Wannabe knight | 23.00% | ~3,740 |
-| Help an old friend | 21.00% | ~3,414 |
+| Help an old friend | 21.00% | ~3,415 |
 | Two of us | 20.00% | ~3,252 |
 | Negotiation skills | 18.00% | ~2,927 |
 | Workers' union | 18.00% | ~2,927 |
 | End of Book Two | 18.00% | ~2,927 |
 | Everything's in order | 17.00% | ~2,764 |
-| Twist of Fate | 14.00% | ~2,276 |
-| Jack was here! | 14.00% | ~2,276 |
+| Twist of Fate | 14.00% | ~2,277 |
+| Jack was here! | 14.00% | ~2,277 |
 | Exterminator | 13.00% | ~2,114 |
 | Whodunnit | 12.00% | ~1,951 |
-| Good midwife | 11.00% | ~1,788 |
-| First profit | 11.00% | ~1,788 |
+| Good midwife | 11.00% | ~1,789 |
+| First profit | 11.00% | ~1,789 |
 | Friar Tuck | 10.00% | ~1,626 |
 | Team player | 10.00% | ~1,626 |
 | Skilled merchant | 9.00% | ~1,463 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~488 |
 | Boy of mystery | 2.00% | ~325 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,259 (Ranked 144)  
+Progressed: 16,261 (Ranked 144)  
 Completed: 114 (0.70%) (Ranked 173)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 114 (0.70%) (Ranked 173)
 | 2023-11-05 | 16,209 | 114 |
 | 2023-11-06 | 16,228 | 114 |
 | 2023-11-07 | 16,245 | 114 |
-| 2023-11-08 | 16,259 | 114 |
+| 2023-11-08 | 16,261 | 114 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 312)  
 Sum: 198 (Ranked 399)  

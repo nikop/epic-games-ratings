@@ -883,9 +883,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6450,
+  "EOS_Progressed": 6451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9693,6 +9693,11 @@
       "Time": "2023-11-08T20:08:53.2290722+00:00",
       "NumProgressed": 6450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T21:19:12.4333042+00:00",
+      "NumProgressed": 6451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9710,17 +9715,17 @@
       "ID": "ACHIEVEMENT_002",
       "SetID": "1a05lfd",
       "Name": "Can you smell what the Rod is Hooking",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 52
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -9742,9 +9747,9 @@
       "ID": "ACHIEVEMENT_006",
       "SetID": "1a05lfd",
       "Name": "I\u0027m on a Boat!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -10023,13 +10028,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6450,
+      "Progressed": 6451,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5822,
+      "Progressed": 5823,
       "Completed": 113
     }
   ],
@@ -10037,8 +10042,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-07T23:00:55.7232721+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:08:53.2290719+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:19:12.4333037+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-08T20:00:22.1328645+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:08:53.2291252+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:12:00.3398142+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:19:12.4333696+00:00"
 }

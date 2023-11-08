@@ -4,7 +4,7 @@
   "ProductSlug": "wrath-aeon-of-ruin",
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-02-18T18:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:23.3987798+00:00",
   "LastChanged": "2023-03-31T05:57:23.3987799+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:29.4180096+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:57:57.4392453+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:06:19.0052794+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:03:23.3360019+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:17:48.7646863+00:00"
 }

@@ -5,9 +5,9 @@
   "Ranking_Rating": 292,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
-  "Ranking_EOS_Progress": 256,
+  "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 952,
+  "EOS_Progressed": 953,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1927,6 +1927,11 @@
       "Time": "2023-11-08T15:04:05.105669+00:00",
       "NumProgressed": 952,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T21:14:06.7309746+00:00",
+      "NumProgressed": 953,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -2010,7 +2015,7 @@
       "Name": "Breaking the Ice",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ACH_BREATHE_IN_BREATHE_OUT",
@@ -2018,7 +2023,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2072,9 +2077,9 @@
       "ID": "ACH_ITS_HEATING_UP",
       "SetID": "108h92c",
       "Name": "It\u2019s Heating up!",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 666
+      "UsersEstimate": 658
     },
     {
       "ID": "ACH_I_AINT_AFRAID_OF_NO_GHOST",
@@ -2082,7 +2087,7 @@
       "Name": "I ain\u2019t afraid of no Ghost",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_I_CAN_FIX_IT",
@@ -2112,9 +2117,9 @@
       "ID": "ACH_POST_NO_BILLS",
       "SetID": "108h92c",
       "Name": "Post No Bills",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 515
     },
     {
       "ID": "ACH_SEE_YOU_SPACE_COWBOY",
@@ -2153,7 +2158,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 952,
+      "Progressed": 953,
       "Completed": 0
     }
   ],
@@ -2161,8 +2166,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:03:44.4097084+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:14:06.7309741+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:01.9640751+00:00",
-  "LastUpdate_Ratings": "2023-11-08T20:00:22.2526428+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:03:44.4097361+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:12:00.6512797+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:14:06.7309971+00:00"
 }

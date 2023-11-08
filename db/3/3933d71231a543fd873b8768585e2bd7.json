@@ -283,9 +283,9 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "achievements.completemission.master.02",
@@ -315,9 +315,9 @@
       "ID": "achievements.firstchain",
       "SetID": "1kd1942",
       "Name": "ForestTreePlank",
-      "Percentage": 85,
+      "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievements.firstexpedition",
@@ -355,9 +355,9 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 17,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievements.researches.upgrades50",
@@ -394,8 +394,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:04:48.3059501+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:15:37.5877494+00:00",
   "LastUpdate_AppInfo": "2023-11-03T14:57:17.404807+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:59:55.7053333+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:04:48.3059582+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:11:24.9686104+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:15:37.5877589+00:00"
 }

@@ -15,12 +15,12 @@ Number of Ratings: 7,683  (23.09.2022)
 | It's just the beginning | 58.00% | ~29,755 |
 | Hard work pays off | 53.00% | ~27,190 |
 | It's never too late to farm | 51.00% | ~26,164 |
-| All out of Land | 45.00% | ~23,085 |
-| Field Trip | 44.00% | ~22,572 |
-| I like to switch it up | 40.00% | ~20,520 |
-| Help me to help you | 38.00% | ~19,494 |
-| Ultimutt Pawesomeness | 28.00% | ~14,364 |
-| Van Gogh | 26.00% | ~13,338 |
+| All out of Land | 45.00% | ~23,086 |
+| Field Trip | 44.00% | ~22,573 |
+| I like to switch it up | 40.00% | ~20,521 |
+| Help me to help you | 38.00% | ~19,495 |
+| Ultimutt Pawesomeness | 28.00% | ~14,365 |
+| Van Gogh | 26.00% | ~13,339 |
 | You wood not believe it | 22.00% | ~11,286 |
 | Vehicle fleet | 22.00% | ~11,286 |
 | The plot thickens | 16.00% | ~8,208 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~205 |
 | Raisin the stakes | 0.30% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,301 (Ranked 109)  
+Progressed: 51,302 (Ranked 109)  
 Completed: 6 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,10 +252,10 @@ Completed: 6 (0.01%) (Ranked 321)
 | 2023-11-05 | 51,184 | 6 |
 | 2023-11-06 | 51,225 | 6 |
 | 2023-11-07 | 51,265 | 6 |
-| 2023-11-08 | 51,301 | 6 |
+| 2023-11-08 | 51,302 | 6 |
 ## Awards
 Max (Great for Beginners): 5,438  (Ranked 70)  
-Sum: 42,367 (Ranked 33)  
+Sum: 42,371 (Ranked 33)  
 Diff (max vs sum): 37  
 | Award | Count |
 | ----- | ----- |
@@ -265,8 +265,8 @@ Diff (max vs sum): 37
 | This game is Relaxing | 4,250 |
 | This game has Quickly Understood Controls | 4,227 |
 | This game is Highly Recommended | 4,215 |
-| This game is Extremely Fun | 4,146 |
-| This game has Amazing Storytelling | 4,023 |
+| This game is Extremely Fun | 4,148 |
+| This game has Amazing Storytelling | 4,025 |
 | This game has Amazing Characters | 3,687 |
 | This game has a Creative Community | 3,606 |
 | This game has Obsessive Gameplay | 2,386 |
@@ -569,4 +569,4 @@ Diff (max vs sum): 37
 | 2023-11-05 | 4.69 | - | 5,424 | 42,284 |
 | 2023-11-06 | 4.69 | - | 5,430 | 42,323 |
 | 2023-11-07 | 4.68 | - | 5,435 | 42,354 |
-| 2023-11-08 | 4.69 | - | 5,438 | 42,367 |
+| 2023-11-08 | 4.69 | - | 5,438 | 42,371 |

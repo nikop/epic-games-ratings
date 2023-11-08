@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8109,
+  "EOS_Progressed": 8122,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1545,
+  "EOS_NewPlayers": 1546,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4629,6 +4629,11 @@
       "Time": "2023-11-08T20:04:46.7756501+00:00",
       "NumProgressed": 8109,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T21:15:36.0493783+00:00",
+      "NumProgressed": 8122,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -4729,7 +4734,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -4737,7 +4742,7 @@
       "Name": "Level 0",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2193
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -4745,7 +4750,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 973
+      "UsersEstimate": 975
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -4753,7 +4758,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 973
+      "UsersEstimate": 975
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -4761,7 +4766,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -4769,7 +4774,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -4785,7 +4790,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -4801,7 +4806,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -4832,14 +4837,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 8109,
+      "Progressed": 8122,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:04:46.7756498+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:15:36.0493779+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:16.1385723+00:00",
-  "LastUpdate_Ratings": "2023-11-08T20:00:18.8180944+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:04:46.7756866+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:11:55.435881+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:15:36.0494132+00:00"
 }

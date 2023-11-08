@@ -2,7 +2,7 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 98,
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73667,
+  "EOS_Progressed": 73668,
   "EOS_Completed": 388,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -22613,6 +22613,11 @@
       "Time": "2023-11-08T20:08:38.6758828+00:00",
       "NumProgressed": 73667,
       "NumCompleted": 388
+    },
+    {
+      "Time": "2023-11-08T21:18:57.7970975+00:00",
+      "NumProgressed": 73668,
+      "NumCompleted": 388
     }
   ],
   "TotalAchievements": 24,
@@ -22656,7 +22661,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19153
+      "UsersEstimate": 19154
     },
     {
       "ID": "ERADICATE",
@@ -22680,7 +22685,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21363
+      "UsersEstimate": 21364
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -22784,7 +22789,7 @@
       "Name": "SPIRIT FORM",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 12523
+      "UsersEstimate": 12524
     },
     {
       "ID": "UPROOTING_DARKNESS",
@@ -22815,7 +22820,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73667,
+      "Progressed": 73668,
       "Completed": 388
     }
   ],
@@ -22823,8 +22828,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:08:38.6758826+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:18:57.7970971+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:53.4635591+00:00",
-  "LastUpdate_Ratings": "2023-11-08T20:00:28.421465+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:08:38.6759849+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:12:12.0537194+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:18:57.7972144+00:00"
 }

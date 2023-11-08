@@ -10227,9 +10227,9 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 301713,
+  "EOS_Progressed": 301714,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1611,
+  "EOS_NewPlayers": 1604,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -31957,6 +31957,11 @@
       "Time": "2023-11-08T20:09:07.2481963+00:00",
       "NumProgressed": 301713,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-08T21:19:26.165166+00:00",
+      "NumProgressed": 301714,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -31976,7 +31981,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33188
+      "UsersEstimate": 33189
     },
     {
       "ID": "PFA_11",
@@ -31984,7 +31989,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33188
+      "UsersEstimate": 33189
     },
     {
       "ID": "PFA_12",
@@ -31992,7 +31997,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33188
+      "UsersEstimate": 33189
     },
     {
       "ID": "PFA_13",
@@ -32024,7 +32029,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33188
+      "UsersEstimate": 33189
     },
     {
       "ID": "PFA_17",
@@ -32096,7 +32101,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33188
+      "UsersEstimate": 33189
     },
     {
       "ID": "PFA_25",
@@ -32224,7 +32229,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33188
+      "UsersEstimate": 33189
     },
     {
       "ID": "PFA_4",
@@ -32327,7 +32332,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301713,
+      "Progressed": 301714,
       "Completed": 505
     }
   ],
@@ -32335,8 +32340,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-08T19:58:04.0749307+00:00",
-  "LastChanged_Achievements": "2023-11-08T20:09:07.2481957+00:00",
+  "LastChanged_Achievements": "2023-11-08T21:19:26.1651657+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-08T19:58:04.0749315+00:00",
-  "LastUpdate_Achievements": "2023-11-08T20:09:07.2482991+00:00"
+  "LastUpdate_Ratings": "2023-11-08T21:04:08.2816737+00:00",
+  "LastUpdate_Achievements": "2023-11-08T21:19:26.1652945+00:00"
 }

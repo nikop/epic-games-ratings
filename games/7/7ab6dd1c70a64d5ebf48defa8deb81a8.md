@@ -20,8 +20,8 @@
 | Stone Collection | 18.00% | ~31 |
 | Essence Blow | 11.00% | ~19 |
 | Big Bazar | 9.00% | ~16 |
+| Alchemist | 9.00% | ~16 |
 | Airborne | 8.00% | ~14 |
-| Alchemist | 8.00% | ~14 |
 | The Mentor | 7.00% | ~12 |
 | Miner | 6.00% | ~10 |
 | Calm before the Storm | 5.00% | ~9 |
