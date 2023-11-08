@@ -2,13 +2,13 @@
   "ID": "3a5c77a536854024add2714cbd0fa865",
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
-  "Ranking_Rating": 938,
+  "Ranking_Rating": 879,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
     "PcReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -20,11 +20,17 @@
       "com.epicgames.app.blacklist": "robocop-rogue-city"
     }
   },
-  "Rating": 4.15,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2023-11-07T18:58:52.6047076+00:00",
       "Rating": 4.15,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-08T09:59:00.9070101+00:00",
+      "Rating": 4.24,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -33,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 363,
+  "EOS_Progressed": 367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -273,6 +279,11 @@
       "Time": "2023-11-08T09:05:18.3191353+00:00",
       "NumProgressed": 363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-08T10:06:14.1309209+00:00",
+      "NumProgressed": 367,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-10T15:05:52.8911905+00:00",
@@ -443,7 +454,7 @@
       "ID": "SecretArcadeRoom",
       "SetID": "80nhi4a",
       "Name": "No stone unturned",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -467,7 +478,7 @@
       "ID": "ShootingRangeBronze",
       "SetID": "80nhi4a",
       "Name": "Dead-On",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -483,7 +494,7 @@
       "ID": "ShootingRangeSilver",
       "SetID": "80nhi4a",
       "Name": "\u0022This Guy Is Really Good\u0022",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -500,16 +511,16 @@
     {
       "ID": "80nhi4a",
       "IsBase": true,
-      "Progressed": 363,
+      "Progressed": 367,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2023-11-07T18:58:52.6047075+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:05:18.319135+00:00",
+  "LastChanged": "2023-11-08T09:59:00.9070099+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:06:14.1309205+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:12.760511+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:58:35.6005191+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:05:18.3191523+00:00"
+  "LastUpdate_Ratings": "2023-11-08T09:59:00.9070103+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:06:14.1309384+00:00"
 }

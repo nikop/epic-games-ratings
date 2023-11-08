@@ -6,21 +6,21 @@ Rating: 4.24 (Ranked 879)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 80.00% | ~1,750 |
-| Don't I Know You...? | 76.00% | ~1,662 |
-| Jailbreak | 66.00% | ~1,443 |
+| Don't I Know You...? | 76.00% | ~1,663 |
+| Jailbreak | 66.00% | ~1,444 |
 | HEADSHOT! | 38.00% | ~831 |
 | Suited and Booted | 38.00% | ~831 |
-| Sleeping With The Fishes | 36.00% | ~787 |
+| Sleeping With The Fishes | 36.00% | ~788 |
 | Overheated | 30.00% | ~656 |
 | High Performance | 30.00% | ~656 |
-| Powered Up | 28.00% | ~612 |
+| Powered Up | 28.00% | ~613 |
 | Studied The Blade | 25.00% | ~547 |
 | Home Invasion | 23.00% | ~503 |
 | Luminary | 22.00% | ~481 |
 | It's a Trap | 22.00% | ~481 |
 | True Survivor | 21.00% | ~459 |
-| Offensive Defense | 20.00% | ~437 |
-| Shocking | 20.00% | ~437 |
+| Offensive Defense | 20.00% | ~438 |
+| Shocking | 20.00% | ~438 |
 | Court Martial | 19.00% | ~416 |
 | Clean Cut | 19.00% | ~416 |
 | Unforeseeable Consequences | 19.00% | ~416 |
@@ -31,10 +31,10 @@ Rating: 4.24 (Ranked 879)
 | Bad Dog | 13.00% | ~284 |
 | Risk Tolerant | 13.00% | ~284 |
 | What A Catchy Song | 13.00% | ~284 |
-| Corrupted Beauty | 12.00% | ~262 |
-| Marked For Success | 12.00% | ~262 |
-| Where It All Began | 12.00% | ~262 |
-| Sorry, Didn't See You There | 12.00% | ~262 |
+| Corrupted Beauty | 12.00% | ~263 |
+| Marked For Success | 12.00% | ~263 |
+| Where It All Began | 12.00% | ~263 |
+| Sorry, Didn't See You There | 12.00% | ~263 |
 | Triplets | 10.00% | ~219 |
 | Denying Prophecy | 9.00% | ~197 |
 | Stimulating The Local Economy | 9.00% | ~197 |
@@ -50,9 +50,9 @@ Rating: 4.24 (Ranked 879)
 | Counter-Sniper | 5.00% | ~109 |
 | Shrimp Cocktail | 5.00% | ~109 |
 | Juiced Up | 5.00% | ~109 |
-| Geronimo! | 4.00% | ~87 |
-| Homewrecker | 4.00% | ~87 |
-| Plank of Wood | 4.00% | ~87 |
+| Geronimo! | 4.00% | ~88 |
+| Homewrecker | 4.00% | ~88 |
+| Plank of Wood | 4.00% | ~88 |
 | It Lives! It Sniffs! It Conquers! | 3.00% | ~66 |
 | Gotta Craft 'em All | 3.00% | ~66 |
 | Own Medicine | 2.00% | ~44 |
@@ -63,7 +63,7 @@ Rating: 4.24 (Ranked 879)
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,187 (Ranked 213)  
+Progressed: 2,188 (Ranked 213)  
 Completed: 13 (0.59%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,6 +216,7 @@ Completed: 13 (0.59%) (Ranked 180)
 | 2023-11-05 | 2,168 | 13 |
 | 2023-11-06 | 2,174 | 13 |
 | 2023-11-07 | 2,187 | 13 |
+| 2023-11-08 | 2,188 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

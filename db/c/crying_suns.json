@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -637,9 +637,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470527,
+  "EOS_Progressed": 470529,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21772,6 +21772,11 @@
       "Time": "2023-11-08T09:09:17.1970516+00:00",
       "NumProgressed": 470527,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-08T10:09:47.2659067+00:00",
+      "NumProgressed": 470529,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -21799,7 +21804,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112926
+      "UsersEstimate": 112927
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -21871,7 +21876,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310548
+      "UsersEstimate": 310549
     },
     {
       "ID": "achievement_story_landa",
@@ -21959,7 +21964,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94105
+      "UsersEstimate": 94106
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -21967,7 +21972,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159979
+      "UsersEstimate": 159980
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22207,7 +22212,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207032
+      "UsersEstimate": 207033
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -22215,7 +22220,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141158
+      "UsersEstimate": 141159
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -22414,21 +22419,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14461,
+      "Progressed": 14463,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470527,
+      "Progressed": 470529,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-01T16:00:20.0866796+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:09:17.1970513+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:09:47.2659063+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.6471409+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:58:49.9413904+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:09:17.1971838+00:00"
+  "LastUpdate_Ratings": "2023-11-08T09:59:20.4725032+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:09:47.2660711+00:00"
 }

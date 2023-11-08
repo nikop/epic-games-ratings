@@ -13,16 +13,16 @@
 | The Alliance | 14.00% | ~11 |
 | The Necroevolution | 13.00% | ~10 |
 | Survivors | 13.00% | ~10 |
-| The Condor | 9.00% | ~7 |
+| The Condor | 10.00% | ~8 |
+| The End | 9.00% | ~7 |
 | I leave no man behind | 8.00% | ~6 |
 | Flying Objects Operator | 8.00% | ~6 |
-| The End | 8.00% | ~6 |
 | On her own | 6.00% | ~5 |
 | Beyond divisions | 6.00% | ~5 |
 | I remember everything! | 5.00% | ~4 |
-| Fierce fight | 4.00% | ~3 |
-| Peacemaker | 4.00% | ~3 |
-| Evacuation | 4.00% | ~3 |
+| Fierce fight | 5.00% | ~4 |
+| Peacemaker | 5.00% | ~4 |
+| Evacuation | 5.00% | ~4 |
 | Another giant | 4.00% | ~3 |
 | Got lost again | 4.00% | ~3 |
 | Violent solution | 3.00% | ~2 |

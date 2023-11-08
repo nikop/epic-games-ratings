@@ -7,14 +7,14 @@ Rating: 4.75 (Ranked 143)
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~19,690 |
 | The Killing Jar | 8.00% | ~17,502 |
-| Expanding Horizons | 7.00% | ~15,314 |
-| Quest for Survival | 7.00% | ~15,314 |
-| Not Your Average Trait | 7.00% | ~15,314 |
-| Gleaming the Cube | 6.00% | ~13,126 |
-| Familiar Face | 6.00% | ~13,126 |
-| Duality | 6.00% | ~13,126 |
-| Boss'n Up | 6.00% | ~13,126 |
-| Trait Chaser | 6.00% | ~13,126 |
+| Expanding Horizons | 7.00% | ~15,315 |
+| Quest for Survival | 7.00% | ~15,315 |
+| Not Your Average Trait | 7.00% | ~15,315 |
+| Gleaming the Cube | 6.00% | ~13,127 |
+| Familiar Face | 6.00% | ~13,127 |
+| Duality | 6.00% | ~13,127 |
+| Boss'n Up | 6.00% | ~13,127 |
+| Trait Chaser | 6.00% | ~13,127 |
 | Not So Special Now | 5.00% | ~10,939 |
 | Not a Janitor | 5.00% | ~10,939 |
 | Equal Measures | 5.00% | ~10,939 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 143)
 | Cutting Edge | 1.00% | ~2,188 |
 | Proving Grounds | 1.00% | ~2,188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,775 (Ranked 68)  
+Progressed: 218,781 (Ranked 68)  
 Completed: 434 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,10 +171,10 @@ Completed: 434 (0.20%) (Ranked 244)
 | 2023-11-05 | 218,156 | 431 |
 | 2023-11-06 | 218,456 | 432 |
 | 2023-11-07 | 218,702 | 433 |
-| 2023-11-08 | 218,775 | 434 |
+| 2023-11-08 | 218,781 | 434 |
 ## Awards
 Max (Great Boss Battles): 2,095  (Ranked 109)  
-Sum: 4,692 (Ranked 143)  
+Sum: 4,696 (Ranked 143)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -183,7 +183,7 @@ Diff (max vs sum): -34
 | This game has Challenging Combat | 288 |
 | This game is Extremely Fun | 279 |
 | This game is Relaxing | 277 |
-| This game is Highly Recommended | 269 |
+| This game is Highly Recommended | 273 |
 | This game has Amazing Storytelling | 264 |
 | This game has Quickly Understood Controls | 252 |
 | This game has Amazing Characters | 252 |
@@ -297,4 +297,4 @@ Diff (max vs sum): -34
 | 2023-11-05 | 4.75 | 2,066 | 4,605 |
 | 2023-11-06 | 4.75 | 2,080 | 4,650 |
 | 2023-11-07 | 4.75 | 2,095 | 4,688 |
-| 2023-11-08 | 4.75 | 2,095 | 4,692 |
+| 2023-11-08 | 4.75 | 2,095 | 4,696 |

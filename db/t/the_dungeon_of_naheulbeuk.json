@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1287,9 +1287,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 235897,
+  "EOS_Progressed": 235904,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1561,
+  "EOS_NewPlayers": 1564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17747,6 +17747,11 @@
       "Time": "2023-11-08T09:05:31.5360274+00:00",
       "NumProgressed": 235897,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-08T10:06:29.1966065+00:00",
+      "NumProgressed": 235904,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -17798,7 +17803,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "Chapter1",
@@ -18206,7 +18211,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82564
+      "UsersEstimate": 82566
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18326,7 +18331,7 @@
       "Name": "Law and Order",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "Poster",
@@ -18461,21 +18466,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 235897,
+      "Progressed": 235904,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 235897,
+      "Progressed": 235904,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-08T05:00:13.6693879+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:05:31.536027+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:06:29.196606+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:59:08.3607439+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:05:31.5362131+00:00"
+  "LastUpdate_Ratings": "2023-11-08T09:59:46.3379666+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:06:29.1967614+00:00"
 }

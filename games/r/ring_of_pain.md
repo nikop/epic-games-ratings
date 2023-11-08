@@ -10,6 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not Touching You | 0.30% | ~3 |
 | First Steps | 0.20% | ~479 |
 | Getting A Glimpse | 0.20% | ~479 |
+| Colorful Corpse | 0.20% | ~479 |
 | A Quick Escape | 0.20% | ~479 |
 | Uncharted Territory | 0.20% | ~479 |
 | An Offering | 0.20% | ~479 |
@@ -36,7 +37,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | To The Death! | 0.10% | ~239 |
 | New Game+ | 0.10% | ~239 |
 | That Was Quick | 0.10% | ~239 |
-| Colorful Corpse | 0.10% | ~239 |
 | Dig Your Own Grave | 0.10% | ~239 |
 | Friend of Vermin | 0.10% | ~239 |
 | Well Prepared | 0.10% | ~239 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,354 (Ranked 60)  
+Progressed: 239,355 (Ranked 60)  
 Completed: 287 (0.12%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 287 (0.12%) (Ranked 264)
 | 2023-11-05 | 239,241 | 286 |
 | 2023-11-06 | 239,288 | 286 |
 | 2023-11-07 | 239,335 | 286 |
-| 2023-11-08 | 239,354 | 287 |
+| 2023-11-08 | 239,355 | 287 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 129)  
 Sum: 11,656 (Ranked 83)  

@@ -5,9 +5,9 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 58.00% | ~100 |
-| Trinity | 29.00% | ~50 |
+| Trinity | 30.00% | ~52 |
+| I Found It | 26.00% | ~45 |
 | Shatter Them All | 24.00% | ~41 |
-| I Found It | 24.00% | ~41 |
 | Find Allies | 23.00% | ~40 |
 | A Taste of Wrath | 23.00% | ~40 |
 | Fashion Victim | 23.00% | ~40 |

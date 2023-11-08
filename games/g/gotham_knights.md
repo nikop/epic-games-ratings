@@ -1,7 +1,7 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 923)  
+Rating: 4.18 (Ranked 924)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.18 (Ranked 923)
 | Get ReQ'd | 25.00% | ~19,039 |
 | Whispered Words | 25.00% | ~19,039 |
 | The Batman Family | 23.00% | ~17,516 |
-| Lock and Key | 22.00% | ~16,754 |
+| Lock and Key | 22.00% | ~16,755 |
 | Something in the Clay | 21.00% | ~15,993 |
 | Quartzer Life Crisis | 21.00% | ~15,993 |
 | Working Hard or Harley Working? | 20.00% | ~15,231 |
@@ -24,8 +24,8 @@ Rating: 4.18 (Ranked 923)
 | From Inside Gotham's Walls | 18.00% | ~13,708 |
 | Protector of Gotham | 17.00% | ~12,947 |
 | Universal Health Scare | 16.00% | ~12,185 |
-| In Your Element | 15.00% | ~11,423 |
-| Voiceless | 15.00% | ~11,423 |
+| In Your Element | 15.00% | ~11,424 |
+| Voiceless | 15.00% | ~11,424 |
 | Rock and a Hard Place | 14.00% | ~10,662 |
 | Cooldown | 14.00% | ~10,662 |
 | Seeking Asylum | 14.00% | ~10,662 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 923)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,156 (Ranked 97)  
+Progressed: 76,157 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 123 (0.16%) (Ranked 254)
 | 2023-11-05 | 76,025 | 123 |
 | 2023-11-06 | 76,084 | 123 |
 | 2023-11-07 | 76,141 | 123 |
-| 2023-11-08 | 76,156 | 123 |
+| 2023-11-08 | 76,157 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,914  (Ranked 98)  
 Sum: 4,947 (Ranked 137)  

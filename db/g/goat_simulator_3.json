@@ -4957,9 +4957,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 250070,
+  "EOS_Progressed": 250071,
   "EOS_Completed": 871,
-  "EOS_NewPlayers": 726,
+  "EOS_NewPlayers": 722,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -26952,6 +26952,11 @@
       "Time": "2023-11-08T09:09:08.7506528+00:00",
       "NumProgressed": 250070,
       "NumCompleted": 871
+    },
+    {
+      "Time": "2023-11-08T10:09:37.2931896+00:00",
+      "NumProgressed": 250071,
+      "NumCompleted": 871
     }
   ],
   "TotalAchievements": 39,
@@ -26979,7 +26984,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 30008
+      "UsersEstimate": 30009
     },
     {
       "ID": "AchievementBaywatchID",
@@ -27027,7 +27032,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 227564
+      "UsersEstimate": 227565
     },
     {
       "ID": "AchievementClownID",
@@ -27091,7 +27096,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 132537
+      "UsersEstimate": 132538
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -27107,7 +27112,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 37510
+      "UsersEstimate": 37511
     },
     {
       "ID": "AchievementInstinctID",
@@ -27195,7 +27200,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 185052
+      "UsersEstimate": 185053
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -27211,7 +27216,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 125035
+      "UsersEstimate": 125036
     },
     {
       "ID": "AchievementStreakingID",
@@ -27235,7 +27240,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137538
+      "UsersEstimate": 137539
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -27274,7 +27279,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250070,
+      "Progressed": 250071,
       "Completed": 871
     }
   ],
@@ -27282,8 +27287,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-08T01:45:04.638138+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:09:08.7506523+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:09:37.2931891+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:20.6664953+00:00",
-  "LastUpdate_Ratings": "2023-11-08T09:00:33.1822817+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:09:08.7507497+00:00"
+  "LastUpdate_Ratings": "2023-11-08T10:02:54.2667109+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:09:37.2933171+00:00"
 }

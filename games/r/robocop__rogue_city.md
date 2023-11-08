@@ -1,14 +1,14 @@
 # RoboCop: Rogue City
 [Store](https://store.epicgames.com/en-US/p/robocop-rogue-city)  
 [View Rawdata](../../db/r/robocop__rogue_city.json)  
-Rating: 4.15 (Ranked 938)  
+Rating: 4.24 (Ranked 879)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Night Has Just Begun | 0.80% | ~3 |
-| No stone unturned | 0.60% | ~2 |
-| Dead-On | 0.60% | ~2 |
-| "This Guy Is Really Good" | 0.60% | ~2 |
+| No stone unturned | 0.50% | ~2 |
+| Dead-On | 0.50% | ~2 |
+| "This Guy Is Really Good" | 0.50% | ~2 |
 | I'd Buy That For a Dollar! | 0.30% | ~1 |
 | Hard Boiled | 0.30% | ~1 |
 | Uphold the Law | 0.30% | ~1 |
@@ -33,7 +33,7 @@ Rating: 4.15 (Ranked 938)
 | Good eyes, Murphy! | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363 (Ranked 318)  
+Progressed: 367 (Ranked 318)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -44,8 +44,9 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-02 | 5 | 0 |
 | 2023-11-06 | 212 | 0 |
 | 2023-11-07 | 349 | 0 |
-| 2023-11-08 | 363 | 0 |
+| 2023-11-08 | 367 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
 | 2023-11-07 | 4.15 | 0 | 0 |
+| 2023-11-08 | 4.24 | 0 | 0 |

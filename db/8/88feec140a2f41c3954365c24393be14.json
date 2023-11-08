@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -173,10 +173,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100325,
-  "EOS_Completed": 4435,
-  "EOS_NewPlayers": 1110,
-  "EOS_NewCompleters": 107,
+  "EOS_Progressed": 100326,
+  "EOS_Completed": 4437,
+  "EOS_NewPlayers": 1105,
+  "EOS_NewCompleters": 108,
   "EOS_Completed_Percentage": 4.42,
   "EosHistory": [
     {
@@ -6628,6 +6628,11 @@
       "Time": "2023-11-08T09:08:59.732061+00:00",
       "NumProgressed": 100325,
       "NumCompleted": 4435
+    },
+    {
+      "Time": "2023-11-08T10:09:26.3983853+00:00",
+      "NumProgressed": 100326,
+      "NumCompleted": 4437
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -6712,7 +6717,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 77250
+      "UsersEstimate": 77251
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -6735,16 +6740,16 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 100325,
-      "Completed": 4435
+      "Progressed": 100326,
+      "Completed": 4437
     }
   ],
   "FirstSeen": "2023-09-14T19:57:24.2585556+00:00",
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-05T20:03:00.4569456+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:08:59.7320607+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:09:26.3983848+00:00",
   "LastUpdate_AppInfo": "2023-11-02T15:57:20.2519347+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:57:24.1740099+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:08:59.7320889+00:00"
+  "LastUpdate_Ratings": "2023-11-08T09:57:33.9718503+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:09:26.3984232+00:00"
 }

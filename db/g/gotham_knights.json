@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 923,
+  "Ranking_Rating": 924,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4049,9 +4049,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76156,
+  "EOS_Progressed": 76157,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21894,6 +21894,11 @@
       "Time": "2023-11-08T08:06:58.2589347+00:00",
       "NumProgressed": 76156,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-08T10:06:44.0271964+00:00",
+      "NumProgressed": 76157,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -21993,7 +21998,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11423
+      "UsersEstimate": 11424
     },
     {
       "ID": "CHALLENGES_1",
@@ -22313,7 +22318,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16754
+      "UsersEstimate": 16755
     },
     {
       "ID": "MYSTERY_04",
@@ -22337,7 +22342,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11423
+      "UsersEstimate": 11424
     },
     {
       "ID": "MYSTERY_07",
@@ -22392,13 +22397,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76156,
+      "Progressed": 76157,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46436,
+      "Progressed": 46437,
       "Completed": 2673
     }
   ],
@@ -22406,8 +22411,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-08T07:59:00.8733715+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:05:44.1439165+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:06:44.0271959+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:58:23.5528126+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:05:44.144017+00:00"
+  "LastUpdate_Ratings": "2023-11-08T09:58:48.3554901+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:06:44.0273562+00:00"
 }

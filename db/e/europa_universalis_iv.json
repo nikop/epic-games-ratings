@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11695,10 +11695,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 56666,
       "NumberOfAwardsMax": 6903
+    },
+    {
+      "Time": "2023-11-08T09:58:05.9238942+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56693,
+      "NumberOfAwardsMax": 6903
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56666,
+  "NumberOfAwards": 56693,
   "NumberOfAwardsMax": 6903,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11742,7 +11748,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6166
+      "Count": 6193
     },
     {
       "Text": "This game is Relaxing",
@@ -11769,9 +11775,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 449667,
+  "EOS_Progressed": 449690,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5554,
+  "EOS_NewPlayers": 5553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34839,6 +34845,11 @@
       "Time": "2023-11-08T09:04:25.9349062+00:00",
       "NumProgressed": 449667,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-08T10:05:11.3050123+00:00",
+      "NumProgressed": 449690,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35392,9 +35403,9 @@
       "ID": "achievement_consulate_of_the_sea",
       "SetID": "8p2n7he",
       "Name": "Consulate of the Sea",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_copium_wars",
@@ -36584,9 +36595,9 @@
       "ID": "achievement_one_night_in_paris",
       "SetID": "67mdiil",
       "Name": "One Night in Paris",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_ostindisk_kompagni_te",
@@ -37753,21 +37764,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 449667,
+      "Progressed": 449690,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 449667,
+      "Progressed": 449690,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-08T08:57:49.5371199+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:04:25.9349059+00:00",
+  "LastChanged": "2023-11-08T09:58:05.9238941+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:05:11.3050118+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:57:49.5371205+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:04:25.9359399+00:00"
+  "LastUpdate_Ratings": "2023-11-08T09:58:05.9238999+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:05:11.3061364+00:00"
 }

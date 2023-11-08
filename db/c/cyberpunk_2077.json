@@ -14754,10 +14754,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 346106,
       "NumberOfAwardsMax": 104395
+    },
+    {
+      "Time": "2023-11-08T10:02:54.7647396+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 346187,
+      "NumberOfAwardsMax": 104395
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 346106,
+  "NumberOfAwards": 346187,
   "NumberOfAwardsMax": 104395,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14807,7 +14813,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20522
+      "Count": 20603
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14834,9 +14840,9 @@
       "Count": 12601
     }
   ],
-  "EOS_Progressed": 895734,
+  "EOS_Progressed": 895742,
   "EOS_Completed": 2754,
-  "EOS_NewPlayers": 984,
+  "EOS_NewPlayers": 986,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37679,6 +37685,11 @@
       "Time": "2023-11-08T08:03:39.4875959+00:00",
       "NumProgressed": 895734,
       "NumCompleted": 2754
+    },
+    {
+      "Time": "2023-11-08T10:03:41.2298296+00:00",
+      "NumProgressed": 895742,
+      "NumCompleted": 2754
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38131,7 +38142,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "UltimateSurvivor",
@@ -38226,21 +38237,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895734,
+      "Progressed": 895742,
       "Completed": 2754
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24357,
+      "Progressed": 24365,
       "Completed": 10203
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-08T06:02:32.135417+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:03:10.7697812+00:00",
+  "LastChanged": "2023-11-08T10:02:54.7647394+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:03:41.2298291+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-08T09:00:33.5306275+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:03:10.7699296+00:00"
+  "LastUpdate_Ratings": "2023-11-08T10:02:54.76474+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:03:41.2300117+00:00"
 }

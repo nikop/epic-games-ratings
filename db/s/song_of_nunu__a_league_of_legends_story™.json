@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 163,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -1014,9 +1014,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 224
+      "UsersEstimate": 230
     },
     {
       "ID": "EV_ACH21",
@@ -1102,9 +1102,9 @@
       "ID": "EV_ACH31",
       "SetID": "6jeac23",
       "Name": "Feels Familiar",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 421
     },
     {
       "ID": "EV_ACH32",
@@ -1221,8 +1221,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:09:03.0413744+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:09:30.5099347+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-08T09:02:39.7980818+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:09:03.0413999+00:00"
+  "LastUpdate_Ratings": "2023-11-08T10:03:01.7653221+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:09:30.5099658+00:00"
 }

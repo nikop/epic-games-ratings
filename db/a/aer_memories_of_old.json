@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23693,
+  "EOS_Progressed": 23694,
   "EOS_Completed": 452,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -22098,6 +22098,11 @@
       "Time": "2023-11-08T09:06:22.8165084+00:00",
       "NumProgressed": 23693,
       "NumCompleted": 452
+    },
+    {
+      "Time": "2023-11-08T10:07:30.2589098+00:00",
+      "NumProgressed": 23694,
+      "NumCompleted": 452
     }
   ],
   "TotalAchievements": 20,
@@ -22155,9 +22160,9 @@
       "ID": "FOUND_CRAB_ISLAND",
       "SetID": "b6m2mm5",
       "Name": "An uninvited guest",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1895
+      "UsersEstimate": 1659
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -22268,15 +22273,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23693,
+      "Progressed": 23694,
       "Completed": 452
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:06:22.816508+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:07:30.2589093+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.680563+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:57:10.0553481+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:06:22.8165963+00:00"
+  "LastUpdate_Ratings": "2023-11-08T09:57:16.2692376+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:07:30.2590239+00:00"
 }

@@ -39,7 +39,7 @@
 | School Kids | 64.00% | ~9 |
 | Primetime Content Consumer | 29.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 553)  
+Progressed: 14 (Ranked 554)  
 Completed: 4 (28.57%) (Ranked 11)  
 ## EOS Players History
 | Date | Progressed | Completed |

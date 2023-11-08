@@ -24,8 +24,8 @@
 | Takeover | 70.00% | ~122 |
 | Sharpshooter | 70.00% | ~122 |
 | Architect of Darkness | 70.00% | ~122 |
+| The Apotheosis of War | 68.00% | ~118 |
 | Stasis Alcatraz | 68.00% | ~118 |
-| The Apotheosis of War | 67.00% | ~117 |
 | Brilliant: Holy Mountain | 63.00% | ~110 |
 | Combo Breaker | 63.00% | ~110 |
 | Tastes Like Chicken | 63.00% | ~110 |

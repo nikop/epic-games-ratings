@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~415 |
+| Feels Familiar | 75.00% | ~421 |
 | I Broke It | 71.00% | ~398 |
 | Better On Ice | 70.00% | ~393 |
 | Notai Notes | 69.00% | ~387 |
@@ -20,9 +20,9 @@
 | Tear of Freedom | 48.00% | ~269 |
 | My Darkest Day | 45.00% | ~252 |
 | Rhythm Of Willump | 45.00% | ~252 |
+| True Legends | 41.00% | ~230 |
 | The Relentless Storm | 41.00% | ~230 |
 | A Tragic Reminder | 40.00% | ~224 |
-| True Legends | 40.00% | ~224 |
 | 3000 Year Blackout | 39.00% | ~219 |
 | The Finisher | 39.00% | ~219 |
 | So Close | 35.00% | ~196 |

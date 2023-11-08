@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -338,9 +338,9 @@
       "ID": "mesmerecital",
       "SetID": "5bkacmp",
       "Name": "A bard day\u0027s night",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "moneyTalks",
@@ -531,8 +531,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:04:31.2478551+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:05:17.4448268+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.4024338+00:00",
-  "LastUpdate_Ratings": "2023-11-08T08:59:37.4447011+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:04:31.247889+00:00"
+  "LastUpdate_Ratings": "2023-11-08T10:00:21.2515698+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:05:17.4448541+00:00"
 }

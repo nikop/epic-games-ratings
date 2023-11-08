@@ -34,6 +34,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | City of Cities | 0.10% | ~450 |
 | Cold War | 0.10% | ~450 |
 | Combined Arms | 0.10% | ~450 |
+| Consulate of the Sea | 0.10% | ~450 |
 | David the Builder | 0.10% | ~450 |
 | Defender of the Faith | 0.10% | ~450 |
 | Definitely the Sultan of Rum | 0.10% | ~450 |
@@ -92,6 +93,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Faith | 0.10% | ~450 |
 | One Family to Rule them All | 0.10% | ~450 |
 | One King to Rule! | 0.10% | ~450 |
+| One Night in Paris | 0.10% | ~450 |
 | Over a Thousand! | 0.10% | ~450 |
 | Populists in Government | 0.10% | ~450 |
 | Queen of Conquest | 0.10% | ~450 |
@@ -179,7 +181,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
 | Colonial Management | 0.00% | ~0 |
-| Consulate of the Sea | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
 | Cotton Kandy | 0.00% | ~0 |
@@ -270,7 +271,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Norwegian Wood | 0.00% | ~0 |
 | On the Edge of Madness | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
-| One Night in Paris | 0.00% | ~0 |
 | Østindisk Kompagni Te | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
 | Parisian Pasha | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449,667 (Ranked 41)  
+Progressed: 449,690 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -572,10 +572,10 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-05 | 448,126 | 1 |
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
-| 2023-11-08 | 449,667 | 1 |
+| 2023-11-08 | 449,690 | 1 |
 ## Awards
 Max (Educational): 6,903  (Ranked 54)  
-Sum: 56,666 (Ranked 24)  
+Sum: 56,693 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -585,7 +585,7 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 6,502 |
 | This game is Extremely Fun | 6,486 |
 | This game is Relaxing | 6,332 |
-| This game has Competitive Players | 6,166 |
+| This game has Competitive Players | 6,193 |
 | This game has Amazing Storytelling | 5,738 |
 | This game has Amazing Characters | 5,318 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -887,4 +887,4 @@ Diff (max vs sum): 30
 | 2023-11-05 | 4.69 | - | 6,844 | 56,214 |
 | 2023-11-06 | 4.69 | - | 6,879 | 56,411 |
 | 2023-11-07 | 4.69 | - | 6,879 | 56,604 |
-| 2023-11-08 | 4.69 | - | 6,903 | 56,666 |
+| 2023-11-08 | 4.69 | - | 6,903 | 56,693 |

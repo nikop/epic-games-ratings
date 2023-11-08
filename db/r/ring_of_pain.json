@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3316,7 +3316,7 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 239354,
+  "EOS_Progressed": 239355,
   "EOS_Completed": 287,
   "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 1,
@@ -24266,6 +24266,11 @@
       "Time": "2023-11-08T09:09:18.110897+00:00",
       "NumProgressed": 239354,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-08T10:09:48.2837129+00:00",
+      "NumProgressed": 239355,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 138,
@@ -24459,9 +24464,9 @@
       "ID": "DIERAINBOWSOCKS",
       "SetID": "5l8oe0h",
       "Name": "Colorful Corpse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 479
     },
     {
       "ID": "DIETOGRAVESTONE",
@@ -25380,13 +25385,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239354,
+      "Progressed": 239355,
       "Completed": 287
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 834,
+      "Progressed": 835,
       "Completed": 373
     }
   ],
@@ -25394,8 +25399,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-07T19:03:22.9894893+00:00",
-  "LastChanged_Achievements": "2023-11-08T09:09:18.1108968+00:00",
+  "LastChanged_Achievements": "2023-11-08T10:09:48.2837124+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-08T09:02:55.2248931+00:00",
-  "LastUpdate_Achievements": "2023-11-08T09:09:18.1111187+00:00"
+  "LastUpdate_Ratings": "2023-11-08T10:03:20.9225732+00:00",
+  "LastUpdate_Achievements": "2023-11-08T10:09:48.2839751+00:00"
 }

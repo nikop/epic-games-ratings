@@ -6,6 +6,7 @@ Rating: 4.60 (Ranked 410)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 0.30% | ~16 |
+| There Can Only Be One! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | Arch Mage | 0.10% | ~5 |
@@ -38,7 +39,6 @@ Rating: 4.60 (Ranked 410)
 | Spoils of War | 0.10% | ~5 |
 | Valley of Wonders | 0.00% | ~0 |
 | Snap Out of It! | 0.00% | ~0 |
-| There Can Only Be One! | 0.00% | ~0 |
 | I've Got Everything I Need Right Here | 0.00% | ~0 |
 | The Magic That Empowers Me! | 0.00% | ~0 |
 | Full Ascension | 0.00% | ~0 |

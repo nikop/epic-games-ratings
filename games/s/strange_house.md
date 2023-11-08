@@ -11,7 +11,7 @@
 | Lost Cat | 0.00% | ~0 |
 | Underground | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16 (Ranked 544)  
+Progressed: 16 (Ranked 545)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
