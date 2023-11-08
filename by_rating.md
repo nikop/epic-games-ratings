@@ -9,7 +9,7 @@
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 547 |
 | 6 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 4.90 | 1,934 | 112 |
 | 6 | [The Jackbox Party Pack 4](games/t/the_jackbox_party_pack_4.md) | 4.90 | 0 | 547 |
-| 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,593 | 42 |
+| 10 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 4.89 | 8,599 | 42 |
 | 10 | [Firework](games/f/firework.md) | 4.89 | 0 | 547 |
 | 10 | [Flatout 2](games/f/flatout_2.md) | 4.89 | 0 | 547 |
 | 10 | [RimWorld](games/r/rimworld.md) | 4.89 | 451 | 213 |
@@ -319,7 +319,7 @@
 | 309 | [Freedom Fighters](games/f/freedom_fighters.md) | 4.65 | 0 | 547 |
 | 309 | [Hell is other demons](games/h/hell_is_other_demons.md) | 4.65 | 0 | 547 |
 | 309 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.65 | 0 | 547 |
-| 309 | [Old World](games/o/old_world.md) | 4.65 | 226 | 271 |
+| 309 | [Old World](games/o/old_world.md) | 4.65 | 226 | 272 |
 | 309 | [PC Building Simulator](games/p/pc_building_simulator.md) | 4.65 | 1,099 | 143 |
 | 309 | [Rogue Lords](games/r/rogue_lords.md) | 4.65 | 0 | 547 |
 | 309 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 4.65 | 56 | 414 |
@@ -460,7 +460,7 @@
 | 445 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 328 |
 | 445 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 216 | 279 |
 | 445 | [The Colonists](games/t/the_colonists.md) | 4.58 | 0 | 547 |
-| 445 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 226 | 271 |
+| 445 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 4.58 | 227 | 271 |
 | 445 | [The Escapists 2](games/t/the_escapists_2.md) | 4.58 | 55 | 416 |
 | 445 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 4.58 | 6,505 | 57 |
 | 445 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 547 |
@@ -858,7 +858,7 @@
 | 855 | [Franchise Hockey Manager 8](games/f/franchise_hockey_manager_8.md) | 4.27 | 0 | 547 |
 | 855 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 4.27 | 3,843 | 86 |
 | 855 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 547 |
-| 855 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,643 | 101 |
+| 855 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,648 | 101 |
 | 855 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 547 |
 | 855 | [Scrapnaut](games/s/scrapnaut.md) | 4.27 | 0 | 547 |
 | 855 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 547 |
@@ -925,7 +925,7 @@
 | 922 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 547 |
 | 922 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,914 | 98 |
 | 922 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.18 | 27 | 505 |
-| 922 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 210,519 | 5 |
+| 922 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 210,626 | 5 |
 | 922 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 363 |
 | 928 | [Eximius: Seize the Frontline](games/e/eximius__seize_the_frontline.md) | 4.17 | 0 | 547 |
 | 928 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 4.17 | 94 | 369 |
