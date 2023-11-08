@@ -1960,9 +1960,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 212527,
+  "EOS_Progressed": 212530,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 1354,
+  "EOS_NewPlayers": 1353,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -24980,6 +24980,11 @@
       "Time": "2023-11-08T05:07:27.089185+00:00",
       "NumProgressed": 212527,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-11-08T06:06:19.70901+00:00",
+      "NumProgressed": 212530,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 44,
@@ -25031,7 +25036,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19127
+      "UsersEstimate": 19128
     },
     {
       "ID": "FiveShadows",
@@ -25063,7 +25068,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25503
+      "UsersEstimate": 25504
     },
     {
       "ID": "HappyLittleAccidents",
@@ -25215,7 +25220,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19127
+      "UsersEstimate": 19128
     },
     {
       "ID": "StillRollin",
@@ -25247,7 +25252,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19127
+      "UsersEstimate": 19128
     },
     {
       "ID": "TheCave",
@@ -25342,15 +25347,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 212527,
+      "Progressed": 212530,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-07T11:03:18.8279717+00:00",
-  "LastChanged_Achievements": "2023-11-08T05:07:27.0891843+00:00",
+  "LastChanged_Achievements": "2023-11-08T06:06:19.7090089+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.1309249+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:02:38.9655727+00:00",
-  "LastUpdate_Achievements": "2023-11-08T05:07:27.0893613+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:02:40.5328768+00:00",
+  "LastUpdate_Achievements": "2023-11-08T06:06:19.7091886+00:00"
 }

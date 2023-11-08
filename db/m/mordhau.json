@@ -5571,7 +5571,7 @@
       "Count": 132
     }
   ],
-  "EOS_Progressed": 1553250,
+  "EOS_Progressed": 1553256,
   "EOS_Completed": 68,
   "EOS_NewPlayers": 3602,
   "EOS_NewCompleters": 0,
@@ -28581,6 +28581,11 @@
       "Time": "2023-11-08T05:06:32.4985751+00:00",
       "NumProgressed": 1553250,
       "NumCompleted": 68
+    },
+    {
+      "Time": "2023-11-08T06:05:33.8628673+00:00",
+      "NumProgressed": 1553256,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 38,
@@ -28600,7 +28605,7 @@
       "Name": "Burning Man",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 248520
+      "UsersEstimate": 248521
     },
     {
       "ID": "Chambermaid",
@@ -28608,7 +28613,7 @@
       "Name": "Chambermaid",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 15532
+      "UsersEstimate": 15533
     },
     {
       "ID": "Clobbered",
@@ -28616,7 +28621,7 @@
       "Name": "Clobbered",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ComingThrough",
@@ -28624,7 +28629,7 @@
       "Name": "Coming Through",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 15532
+      "UsersEstimate": 15533
     },
     {
       "ID": "Crybaby",
@@ -28672,7 +28677,7 @@
       "Name": "Guts",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 310650
+      "UsersEstimate": 310651
     },
     {
       "ID": "Highlander",
@@ -28680,7 +28685,7 @@
       "Name": "Highlander",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 155325
+      "UsersEstimate": 155326
     },
     {
       "ID": "HomeRun",
@@ -28688,7 +28693,7 @@
       "Name": "Home Run",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 636832
+      "UsersEstimate": 636835
     },
     {
       "ID": "JustScratch",
@@ -28696,7 +28701,7 @@
       "Name": "Just a Scratch",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 139792
+      "UsersEstimate": 139793
     },
     {
       "ID": "JusticeFromGrave",
@@ -28704,7 +28709,7 @@
       "Name": "Justice from the Grave",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 761092
+      "UsersEstimate": 761095
     },
     {
       "ID": "KeepsComingOff",
@@ -28712,7 +28717,7 @@
       "Name": "Keeps Coming Off",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 636832
+      "UsersEstimate": 636835
     },
     {
       "ID": "KungFu",
@@ -28728,7 +28733,7 @@
       "Name": "Lived to Tell the Tale",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 186390
+      "UsersEstimate": 186391
     },
     {
       "ID": "LivingSculpture",
@@ -28752,7 +28757,7 @@
       "Name": "Meat Grinder",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 295118
+      "UsersEstimate": 295119
     },
     {
       "ID": "NoOrdinaryCold",
@@ -28824,7 +28829,7 @@
       "Name": "The ABCs",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 667898
+      "UsersEstimate": 667900
     },
     {
       "ID": "ToughNut",
@@ -28848,7 +28853,7 @@
       "Name": "Unstoppable",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 155325
+      "UsersEstimate": 155326
     },
     {
       "ID": "Virtuoso",
@@ -28895,7 +28900,7 @@
     {
       "ID": "anh8moj",
       "IsBase": true,
-      "Progressed": 1553250,
+      "Progressed": 1553256,
       "Completed": 68
     }
   ],
@@ -28903,8 +28908,8 @@
   "FirstSeenRating": "2023-04-13T15:58:07.417088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:33.1084407+00:00",
   "LastChanged": "2023-11-07T22:59:26.4255273+00:00",
-  "LastChanged_Achievements": "2023-11-08T05:06:32.4985745+00:00",
+  "LastChanged_Achievements": "2023-11-08T06:05:33.8628664+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:05.202397+00:00",
-  "LastUpdate_Ratings": "2023-11-08T04:59:28.7954688+00:00",
-  "LastUpdate_Achievements": "2023-11-08T05:06:32.4987464+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:58:52.0910249+00:00",
+  "LastUpdate_Achievements": "2023-11-08T06:05:33.8630389+00:00"
 }

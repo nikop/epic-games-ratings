@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113606,
+  "EOS_Progressed": 113607,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 699,
+  "EOS_NewPlayers": 696,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17182,6 +17182,11 @@
       "Time": "2023-11-08T05:09:18.238976+00:00",
       "NumProgressed": 113606,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-08T06:08:42.1165719+00:00",
+      "NumProgressed": 113607,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17265,7 +17270,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42034
+      "UsersEstimate": 42035
     },
     {
       "ID": "EAwards_18",
@@ -17321,7 +17326,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9088
+      "UsersEstimate": 9089
     },
     {
       "ID": "EAwards_24",
@@ -17425,7 +17430,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9088
+      "UsersEstimate": 9089
     },
     {
       "ID": "EAwards_36",
@@ -17553,7 +17558,7 @@
       "Name": "Severed 2",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 9088
+      "UsersEstimate": 9089
     },
     {
       "ID": "EAwards_7",
@@ -17584,7 +17589,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113606,
+      "Progressed": 113607,
       "Completed": 50
     }
   ],
@@ -17592,8 +17597,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-08T05:09:18.2389754+00:00",
+  "LastChanged_Achievements": "2023-11-08T06:08:42.1165714+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-08T04:59:31.864892+00:00",
-  "LastUpdate_Achievements": "2023-11-08T05:09:18.2391245+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:58:54.8743072+00:00",
+  "LastUpdate_Achievements": "2023-11-08T06:08:42.1167213+00:00"
 }

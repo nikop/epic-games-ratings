@@ -271,9 +271,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 232012,
+  "EOS_Progressed": 232013,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 271,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20871,6 +20871,11 @@
       "Time": "2023-11-08T05:05:08.4563701+00:00",
       "NumProgressed": 232012,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-08T06:04:23.2292356+00:00",
+      "NumProgressed": 232013,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -20946,7 +20951,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83524
+      "UsersEstimate": 83525
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -21082,7 +21087,7 @@
       "Name": "Makin\u0027 Bacon",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9280
+      "UsersEstimate": 9281
     },
     {
       "ID": "WIN_1_ONLINE_MATCH",
@@ -21105,7 +21110,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232012,
+      "Progressed": 232013,
       "Completed": 5
     }
   ],
@@ -21113,8 +21118,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-11-08T05:05:08.4563694+00:00",
+  "LastChanged_Achievements": "2023-11-08T06:04:23.2292345+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.5446579+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:01:44.4457179+00:00",
-  "LastUpdate_Achievements": "2023-11-08T05:05:08.4565919+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:00:42.579641+00:00",
+  "LastUpdate_Achievements": "2023-11-08T06:04:23.2293842+00:00"
 }

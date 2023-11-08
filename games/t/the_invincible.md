@@ -10,9 +10,9 @@
 | Krauta is alive | 21.00% | ~16 |
 | The field base | 19.00% | ~15 |
 | Volcanologist | 16.00% | ~12 |
-| The Alliance | 13.00% | ~10 |
-| The Necroevolution | 12.00% | ~9 |
-| Survivors | 10.00% | ~8 |
+| The Alliance | 14.00% | ~11 |
+| The Necroevolution | 13.00% | ~10 |
+| Survivors | 12.00% | ~9 |
 | I leave no man behind | 8.00% | ~6 |
 | The Condor | 8.00% | ~6 |
 | Flying Objects Operator | 8.00% | ~6 |

@@ -3969,9 +3969,9 @@
       "Count": 277
     }
   ],
-  "EOS_Progressed": 218753,
+  "EOS_Progressed": 218759,
   "EOS_Completed": 433,
-  "EOS_NewPlayers": 2934,
+  "EOS_NewPlayers": 2915,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17014,6 +17014,11 @@
       "Time": "2023-11-08T05:07:34.6758536+00:00",
       "NumProgressed": 218753,
       "NumCompleted": 433
+    },
+    {
+      "Time": "2023-11-08T06:06:25.9841452+00:00",
+      "NumProgressed": 218759,
+      "NumCompleted": 433
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17074,7 +17079,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13125
+      "UsersEstimate": 13126
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -17106,7 +17111,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17500
+      "UsersEstimate": 17501
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -17178,7 +17183,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13125
+      "UsersEstimate": 13126
     },
     {
       "ID": "Meet_Meidra",
@@ -17218,7 +17223,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13125
+      "UsersEstimate": 13126
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -17258,7 +17263,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13125
+      "UsersEstimate": 13126
     },
     {
       "ID": "Obtain_Guns_A",
@@ -17402,7 +17407,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13125
+      "UsersEstimate": 13126
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -17425,7 +17430,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218753,
+      "Progressed": 218759,
       "Completed": 433
     }
   ],
@@ -17433,8 +17438,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-08T01:47:06.5119302+00:00",
-  "LastChanged_Achievements": "2023-11-08T05:07:34.6758529+00:00",
+  "LastChanged_Achievements": "2023-11-08T06:06:25.9841437+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:03:37.1269815+00:00",
-  "LastUpdate_Achievements": "2023-11-08T05:07:34.676013+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:03:04.2686328+00:00",
+  "LastUpdate_Achievements": "2023-11-08T06:06:25.9842657+00:00"
 }

@@ -7,15 +7,15 @@ Rating: 4.18 (Ranked 922)
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 51.00% | ~38,839 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,654 |
-| Loose Ends | 34.00% | ~25,892 |
+| Loose Ends | 34.00% | ~25,893 |
 | To the Victor Go the Spoils | 28.00% | ~21,323 |
 | Knighthood | 27.00% | ~20,562 |
-| Get ReQ'd | 25.00% | ~19,038 |
-| Whispered Words | 25.00% | ~19,038 |
-| The Batman Family | 23.00% | ~17,515 |
+| Get ReQ'd | 25.00% | ~19,039 |
+| Whispered Words | 25.00% | ~19,039 |
+| The Batman Family | 23.00% | ~17,516 |
 | Lock and Key | 22.00% | ~16,754 |
-| Something in the Clay | 21.00% | ~15,992 |
-| Quartzer Life Crisis | 21.00% | ~15,992 |
+| Something in the Clay | 21.00% | ~15,993 |
+| Quartzer Life Crisis | 21.00% | ~15,993 |
 | Working Hard or Harley Working? | 20.00% | ~15,231 |
 | Unstoppable Force | 20.00% | ~15,231 |
 | Bad Apples in Every Orchard | 20.00% | ~15,231 |
@@ -31,11 +31,11 @@ Rating: 4.18 (Ranked 922)
 | Seeking Asylum | 14.00% | ~10,662 |
 | Not On My Watch | 13.00% | ~9,900 |
 | Shock Til They Drop | 13.00% | ~9,900 |
-| End of an Era | 12.00% | ~9,138 |
-| Bulldozed | 12.00% | ~9,138 |
-| Gotham Knight | 12.00% | ~9,138 |
+| End of an Era | 12.00% | ~9,139 |
+| Bulldozed | 12.00% | ~9,139 |
+| Gotham Knight | 12.00% | ~9,139 |
 | Gotham City Confidential | 11.00% | ~8,377 |
-| Drone You Out | 10.00% | ~7,615 |
+| Drone You Out | 10.00% | ~7,616 |
 | Out of Their League | 9.00% | ~6,854 |
 | Solid Alibi | 9.00% | ~6,854 |
 | Fusion Expert | 7.00% | ~5,331 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 922)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,154 (Ranked 97)  
+Progressed: 76,155 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,10 +269,10 @@ Completed: 123 (0.16%) (Ranked 254)
 | 2023-11-05 | 76,025 | 123 |
 | 2023-11-06 | 76,084 | 123 |
 | 2023-11-07 | 76,141 | 123 |
-| 2023-11-08 | 76,154 | 123 |
+| 2023-11-08 | 76,155 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,914  (Ranked 98)  
-Sum: 4,941 (Ranked 137)  
+Sum: 4,943 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -284,7 +284,7 @@ Diff (max vs sum): -39
 | This game has Quickly Understood Controls | 253 |
 | This game has Amazing Characters | 251 |
 | This game has Amazing Storytelling | 251 |
-| This game is Highly Recommended | 246 |
+| This game is Highly Recommended | 248 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -545,4 +545,4 @@ Diff (max vs sum): -39
 | 2023-11-05 | 4.18 | 2,907 | 4,924 |
 | 2023-11-06 | 4.18 | 2,907 | 4,927 |
 | 2023-11-07 | 4.18 | 2,907 | 4,934 |
-| 2023-11-08 | 4.18 | 2,914 | 4,941 |
+| 2023-11-08 | 4.18 | 2,914 | 4,943 |

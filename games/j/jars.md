@@ -17,13 +17,13 @@
 | Fangs | 19.00% | ~17 |
 | Mirrors | 11.00% | ~10 |
 | Coat | 8.00% | ~7 |
+| At least there is something to read | 7.00% | ~6 |
 | I need a hero | 7.00% | ~6 |
-| At least there is something to read | 6.00% | ~5 |
+| I love you all | 7.00% | ~6 |
+| Skills to pay the bills | 7.00% | ~6 |
 | Sarcophagus | 6.00% | ~5 |
 | Missing pages | 6.00% | ~5 |
 | Master of puppets | 6.00% | ~5 |
-| I love you all | 6.00% | ~5 |
-| Skills to pay the bills | 6.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 88 (Ranked 424)  
 Completed: 4 (4.55%) (Ranked 71)  

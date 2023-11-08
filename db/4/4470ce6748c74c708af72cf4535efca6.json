@@ -467,9 +467,9 @@
       "ID": "29",
       "SetID": "5e3maia",
       "Name": "Park ranger",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "3",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-11-08T05:08:16.8084009+00:00",
+  "LastChanged_Achievements": "2023-11-08T06:07:00.7615183+00:00",
   "LastUpdate_AppInfo": "2023-11-04T03:56:58.2483027+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:02:08.1760434+00:00",
-  "LastUpdate_Achievements": "2023-11-08T05:08:16.8085043+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:01:04.4701256+00:00",
+  "LastUpdate_Achievements": "2023-11-08T06:07:00.7616095+00:00"
 }

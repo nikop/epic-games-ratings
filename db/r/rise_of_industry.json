@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749986,
+  "EOS_Progressed": 749988,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1912,
+  "EOS_NewPlayers": 1904,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23334,6 +23334,11 @@
       "Time": "2023-11-08T05:05:17.3207099+00:00",
       "NumProgressed": 749986,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-08T06:04:30.5975802+00:00",
+      "NumProgressed": 749988,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -23409,7 +23414,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 277495
+      "UsersEstimate": 277496
     },
     {
       "ID": "ach_demolish_trees",
@@ -23449,7 +23454,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 89998
+      "UsersEstimate": 89999
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -23473,7 +23478,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 359993
+      "UsersEstimate": 359994
     },
     {
       "ID": "ach_produced",
@@ -23545,7 +23550,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 89998
+      "UsersEstimate": 89999
     },
     {
       "ID": "ach_warehouse_clients",
@@ -23553,14 +23558,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 142497
+      "UsersEstimate": 142498
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 749986,
+      "Progressed": 749988,
       "Completed": 4
     }
   ],
@@ -23568,8 +23573,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-08T05:05:17.3207091+00:00",
+  "LastChanged_Achievements": "2023-11-08T06:04:30.5975798+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:11.2241033+00:00",
-  "LastUpdate_Ratings": "2023-11-08T04:59:39.7436551+00:00",
-  "LastUpdate_Achievements": "2023-11-08T05:05:17.320992+00:00"
+  "LastUpdate_Ratings": "2023-11-08T05:59:01.8198333+00:00",
+  "LastUpdate_Achievements": "2023-11-08T06:04:30.5977629+00:00"
 }

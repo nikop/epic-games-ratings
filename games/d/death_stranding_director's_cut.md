@@ -6,36 +6,36 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~499,647 |
-| Good Samaritan | 90.00% | ~488,786 |
-| Rebuilding America | 80.00% | ~434,476 |
-| Like and Be Liked | 77.00% | ~418,183 |
-| Apprentice Builder | 72.00% | ~391,028 |
-| A New Day for the UCA | 71.00% | ~385,597 |
-| A Baby Blessing | 65.00% | ~353,012 |
-| Prominent Porter | 65.00% | ~353,012 |
-| Building Bridges | 64.00% | ~347,581 |
-| Well Connected | 62.00% | ~336,719 |
-| The Custom Kid | 61.00% | ~331,288 |
-| Chiral Crafter | 59.00% | ~320,426 |
-| Boots Are a Porter's Best Friend | 59.00% | ~320,426 |
-| The People's Porter | 57.00% | ~309,564 |
-| I Couldn't Hold it In! | 56.00% | ~304,133 |
-| Everyday Delivery | 52.00% | ~282,409 |
+| Delivering Is What I Do | 92.00% | ~499,649 |
+| Good Samaritan | 90.00% | ~488,787 |
+| Rebuilding America | 80.00% | ~434,478 |
+| Like and Be Liked | 77.00% | ~418,185 |
+| Apprentice Builder | 72.00% | ~391,030 |
+| A New Day for the UCA | 71.00% | ~385,599 |
+| A Baby Blessing | 65.00% | ~353,013 |
+| Prominent Porter | 65.00% | ~353,013 |
+| Building Bridges | 64.00% | ~347,582 |
+| Well Connected | 62.00% | ~336,720 |
+| The Custom Kid | 61.00% | ~331,289 |
+| Chiral Crafter | 59.00% | ~320,427 |
+| Boots Are a Porter's Best Friend | 59.00% | ~320,427 |
+| The People's Porter | 57.00% | ~309,565 |
+| I Couldn't Hold it In! | 56.00% | ~304,134 |
+| Everyday Delivery | 52.00% | ~282,410 |
 | A Shout in the Dark | 50.00% | ~271,548 |
-| A Thirst for Knowledge | 48.00% | ~260,686 |
-| Snooze 'n' Soothe | 48.00% | ~260,686 |
-| Soothing Sounds | 46.00% | ~249,824 |
-| We Need You | 45.00% | ~244,393 |
-| Catcher Crusher | 45.00% | ~244,393 |
-| Sleep Tight, Little BB | 44.00% | ~238,962 |
-| Giver of Gifts | 39.00% | ~211,807 |
-| All Roads Lead to the UCA | 39.00% | ~211,807 |
-| Well-Traveled | 37.00% | ~200,945 |
-| The Automation Revolution | 36.00% | ~195,514 |
-| Pathfinder | 36.00% | ~195,514 |
-| I Won't Break | 32.00% | ~173,790 |
-| BB... | 32.00% | ~173,790 |
+| A Thirst for Knowledge | 48.00% | ~260,687 |
+| Snooze 'n' Soothe | 48.00% | ~260,687 |
+| Soothing Sounds | 46.00% | ~249,825 |
+| We Need You | 45.00% | ~244,394 |
+| Catcher Crusher | 45.00% | ~244,394 |
+| Sleep Tight, Little BB | 44.00% | ~238,963 |
+| Giver of Gifts | 39.00% | ~211,808 |
+| All Roads Lead to the UCA | 39.00% | ~211,808 |
+| Well-Traveled | 37.00% | ~200,946 |
+| The Automation Revolution | 36.00% | ~195,515 |
+| Pathfinder | 36.00% | ~195,515 |
+| I Won't Break | 32.00% | ~173,791 |
+| BB... | 32.00% | ~173,791 |
 | The World's Most Popular Porter | 29.00% | ~157,498 |
 | Pumped Porter | 28.00% | ~152,067 |
 | We're Whole Again | 28.00% | ~152,067 |
@@ -51,10 +51,10 @@ Number of Ratings: 3,099  (23.09.2022)
 | Thank You, Sam | 20.00% | ~108,619 |
 | Thanks for Everything | 20.00% | ~108,619 |
 | The Post Guides the Present | 17.00% | ~92,326 |
-| Rest In Pieces | 16.00% | ~86,895 |
-| Hooked on Delivering!? | 15.00% | ~81,464 |
-| Childminder | 14.00% | ~76,033 |
-| Public Service Porter | 12.00% | ~65,171 |
+| Rest In Pieces | 16.00% | ~86,896 |
+| Hooked on Delivering!? | 15.00% | ~81,465 |
+| Childminder | 14.00% | ~76,034 |
+| Public Service Porter | 12.00% | ~65,172 |
 | God Particle Go-Getter | 9.00% | ~48,879 |
 | A Helping Hand | 5.00% | ~27,155 |
 | The Past Guides the Present | 5.00% | ~27,155 |
@@ -70,7 +70,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,172 |
 | Homo Faber | 0.40% | ~2,172 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543,095 (Ranked 32)  
+Progressed: 543,097 (Ranked 32)  
 Completed: 2,109 (0.39%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 2,109 (0.39%) (Ranked 208)
 | 2023-11-05 | 542,675 | 2,106 |
 | 2023-11-06 | 542,881 | 2,107 |
 | 2023-11-07 | 543,063 | 2,108 |
-| 2023-11-08 | 543,095 | 2,109 |
+| 2023-11-08 | 543,097 | 2,109 |
 ## Awards
 Max (Great Boss Battles): 8,599  (Ranked 42)  
 Sum: 14,791 (Ranked 70)  

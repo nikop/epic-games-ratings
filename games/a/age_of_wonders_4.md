@@ -26,6 +26,9 @@ Rating: 4.60 (Ranked 409)
 | Impenetrable Fortress | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
 | Pruning for Progress | 0.10% | ~5 |
+| Grexolis | 0.10% | ~5 |
+| One for All, All for One | 0.10% | ~5 |
+| Returning Circle | 0.10% | ~5 |
 | Tipping the Scales | 0.10% | ~5 |
 | Freed Lands of Manuhari | 0.10% | ~5 |
 | Sehiran Oasis | 0.10% | ~5 |
@@ -50,9 +53,6 @@ Rating: 4.60 (Ranked 409)
 | Jack of All Tomes | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
-| Grexolis | 0.00% | ~0 |
-| One for All, All for One | 0.00% | ~0 |
-| Returning Circle | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |

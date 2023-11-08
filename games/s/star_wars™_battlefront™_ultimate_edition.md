@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~978 |
-| Off to a good start | 67.00% | ~736 |
-| Do... or do not. There is no try | 51.00% | ~560 |
+| New Recruit | 89.00% | ~980 |
+| Off to a good start | 67.00% | ~738 |
+| Do... or do not. There is no try | 51.00% | ~562 |
 | A good blaster at your side | 32.00% | ~352 |
 | I suggest a new strategy | 20.00% | ~220 |
 | Scrap collector | 19.00% | ~209 |
@@ -58,8 +58,8 @@
 | A New Hope | 0.80% | ~9 |
 | Walker defender | 0.70% | ~8 |
 | I’ll take that bet | 0.60% | ~7 |
-| Stay on target | 0.50% | ~5 |
-| Don't get cocky | 0.50% | ~5 |
+| Stay on target | 0.50% | ~6 |
+| Don't get cocky | 0.50% | ~6 |
 | in a galaxy far, far away.... | 0.40% | ~4 |
 | Greed can be a very powerful ally | 0.40% | ~4 |
 | That got him! | 0.30% | ~3 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,099 (Ranked 247)  
+Progressed: 1,101 (Ranked 247)  
 Completed: 1 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,7 +121,7 @@ Completed: 1 (0.09%) (Ranked 275)
 | 2023-11-05 | 1,069 | 1 |
 | 2023-11-06 | 1,083 | 1 |
 | 2023-11-07 | 1,095 | 1 |
-| 2023-11-08 | 1,099 | 1 |
+| 2023-11-08 | 1,101 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

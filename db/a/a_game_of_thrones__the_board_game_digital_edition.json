@@ -1314,7 +1314,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27875,
+  "EOS_Progressed": 27876,
   "EOS_Completed": 76,
   "EOS_NewPlayers": 544,
   "EOS_NewCompleters": 2,
@@ -22974,6 +22974,11 @@
       "Time": "2023-11-08T05:09:43.2234446+00:00",
       "NumProgressed": 27875,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-11-08T06:09:02.7079694+00:00",
+      "NumProgressed": 27876,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 22,
@@ -22993,7 +22998,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "1017",
@@ -23001,7 +23006,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "1018",
@@ -23033,7 +23038,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "1022",
@@ -23041,7 +23046,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "1023",
@@ -23160,15 +23165,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27875,
+      "Progressed": 27876,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-08T05:09:43.2234439+00:00",
+  "LastChanged_Achievements": "2023-11-08T06:09:02.707969+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0319052+00:00",
-  "LastUpdate_Ratings": "2023-11-08T05:03:36.3713065+00:00",
-  "LastUpdate_Achievements": "2023-11-08T05:09:43.2235932+00:00"
+  "LastUpdate_Ratings": "2023-11-08T06:03:03.7733348+00:00",
+  "LastUpdate_Achievements": "2023-11-08T06:09:02.7081196+00:00"
 }
