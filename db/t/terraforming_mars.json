@@ -3091,9 +3091,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82009,
+  "EOS_Progressed": 82010,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 854,
+  "EOS_NewPlayers": 849,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -25676,6 +25676,11 @@
       "Time": "2023-11-09T17:08:46.607525+00:00",
       "NumProgressed": 82009,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-11-09T18:08:55.6932701+00:00",
+      "NumProgressed": 82010,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 30,
@@ -25767,7 +25772,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30343
+      "UsersEstimate": 30344
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -25823,7 +25828,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21322
+      "UsersEstimate": 21323
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -25855,7 +25860,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 12301
+      "UsersEstimate": 12302
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -25926,15 +25931,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82009,
+      "Progressed": 82010,
       "Completed": 158
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-08T19:59:45.0886109+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:08:46.607524+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:08:55.6932696+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.8339695+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:00:12.5147286+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:08:46.6076881+00:00"
+  "LastUpdate_Ratings": "2023-11-09T18:00:47.1707742+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:08:55.6934344+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -429,9 +429,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5306,
+  "EOS_Progressed": 5309,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6794,6 +6794,11 @@
       "Time": "2023-11-09T17:08:17.1226042+00:00",
       "NumProgressed": 5306,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-09T18:08:01.5303484+00:00",
+      "NumProgressed": 5309,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7203,9 +7208,9 @@
       "ID": "51",
       "SetID": "7132754",
       "Name": "Freed Lands of Manuhari",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "52",
@@ -7284,13 +7289,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5306,
+      "Progressed": 5309,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5306,
+      "Progressed": 5309,
       "Completed": 7
     }
   ],
@@ -7298,8 +7303,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-09T11:59:25.9904404+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:08:17.1226037+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:08:01.5303477+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:00:09.9476373+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:08:17.122705+00:00"
+  "LastUpdate_Ratings": "2023-11-09T18:00:43.6308466+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:08:01.5304533+00:00"
 }

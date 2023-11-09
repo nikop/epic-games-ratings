@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113710,
+  "EOS_Progressed": 113711,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 672,
+  "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17342,6 +17342,11 @@
       "Time": "2023-11-09T17:08:50.846942+00:00",
       "NumProgressed": 113710,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-09T18:09:00.359111+00:00",
+      "NumProgressed": 113711,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17385,7 +17390,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17056
+      "UsersEstimate": 17057
     },
     {
       "ID": "EAwards_13",
@@ -17535,9 +17540,9 @@
       "ID": "EAwards_3",
       "SetID": "69kac5j",
       "Name": "Show\u0027s Over, Go Home",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 21605
+      "UsersEstimate": 22742
     },
     {
       "ID": "EAwards_30",
@@ -17744,7 +17749,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113710,
+      "Progressed": 113711,
       "Completed": 50
     }
   ],
@@ -17752,8 +17757,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:08:50.846941+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:09:00.3591104+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:59:40.0481084+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:08:50.8470893+00:00"
+  "LastUpdate_Ratings": "2023-11-09T18:00:11.1798626+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:09:00.3592446+00:00"
 }

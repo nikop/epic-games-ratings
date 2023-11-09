@@ -33,6 +33,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.10% | ~451 |
 | Carthago Delenda Est | 0.10% | ~451 |
 | Center of Attention | 0.10% | ~451 |
+| Cherrypicking | 0.10% | ~451 |
 | City of Cities | 0.10% | ~451 |
 | Cold War | 0.10% | ~451 |
 | Combined Arms | 0.10% | ~451 |
@@ -197,7 +198,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brick by Brick | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
-| Cherrypicking | 0.00% | ~0 |
 | Chop Chop | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,540 (Ranked 41)  
+Progressed: 450,582 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
-| 2023-11-09 | 450,540 | 1 |
+| 2023-11-09 | 450,582 | 1 |
 ## Awards
 Max (Educational): 6,915  (Ranked 55)  
 Sum: 56,853 (Ranked 24)  

@@ -8,9 +8,9 @@ Rating: 4.61 (Ranked 385)
 | But this one is mine | 0.80% | ~42 |
 | Secret Technique | 0.30% | ~16 |
 | Walls Cannot Stop Us | 0.30% | ~16 |
+| Freed Lands of Manuhari | 0.30% | ~16 |
 | Realm Estate | 0.20% | ~11 |
 | A Wonderful Discovery | 0.20% | ~11 |
-| Freed Lands of Manuhari | 0.20% | ~11 |
 | Spoils of War | 0.20% | ~11 |
 | Valley of Wonders | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 385)
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,306 (Ranked 183)  
+Progressed: 5,309 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-06 | 5,276 | 7 |
 | 2023-11-07 | 5,285 | 7 |
 | 2023-11-08 | 5,299 | 7 |
-| 2023-11-09 | 5,306 | 7 |
+| 2023-11-09 | 5,309 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 474)  

@@ -12,9 +12,9 @@
 | All for one! | 24.00% | ~8 |
 | Royal blessing | 21.00% | ~7 |
 | A hidden snake | 21.00% | ~7 |
-| Blood and sand | 18.00% | ~6 |
+| Blood and sand | 21.00% | ~7 |
+| Vene, vidi, vici | 18.00% | ~6 |
 | Power of Inquisition | 15.00% | ~5 |
-| Vene, vidi, vici | 15.00% | ~5 |
 | The champion of the arena | 12.00% | ~4 |
 | Surpass the teacher | 12.00% | ~4 |
 | Rage | 12.00% | ~4 |
@@ -38,6 +38,7 @@
 | First among Frisians | 3.00% | ~1 |
 | The power of persuasion | 3.00% | ~1 |
 | Do it yourself | 3.00% | ~1 |
+| By someone else's hands | 3.00% | ~1 |
 | The End | 3.00% | ~1 |
 | Nothing is settled | 3.00% | ~1 |
 | Berserk | 0.00% | ~0 |
@@ -47,7 +48,6 @@
 | Never laid a finger | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |
 | By own rules | 0.00% | ~0 |
-| By someone else's hands | 0.00% | ~0 |
 | There can be only one | 0.00% | ~0 |
 | Blood and honour | 0.00% | ~0 |
 | Happily ever after | 0.00% | ~0 |

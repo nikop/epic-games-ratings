@@ -4,7 +4,7 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 523,
   "Ranking_Popularity": 54,
-  "Ranking_PopularitySum": 87,
+  "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 219,
   "Ranking_EOS_NewPlayers": 25,
@@ -6247,18 +6247,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 10945,
       "NumberOfAwardsMax": 7208
+    },
+    {
+      "Time": "2023-11-09T17:59:35.420953+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10986,
+      "NumberOfAwardsMax": 7249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10945,
-  "NumberOfAwardsMax": 7208,
+  "NumberOfAwards": 10986,
+  "NumberOfAwardsMax": 7249,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7208
+      "Count": 7249
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6309,10 +6315,10 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 715509,
+  "EOS_Progressed": 715537,
   "EOS_Completed": 2365,
-  "EOS_NewPlayers": 4673,
-  "EOS_NewCompleters": 64,
+  "EOS_NewPlayers": 4665,
+  "EOS_NewCompleters": 62,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29494,6 +29500,11 @@
       "Time": "2023-11-09T17:06:36.7661428+00:00",
       "NumProgressed": 715509,
       "NumCompleted": 2365
+    },
+    {
+      "Time": "2023-11-09T18:07:38.7927344+00:00",
+      "NumProgressed": 715537,
+      "NumCompleted": 2365
     }
   ],
   "TotalAchievements": 51,
@@ -29519,9 +29530,9 @@
       "ID": "ach_ammo_ran",
       "SetID": "7km39fm",
       "Name": "Git Gutte!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2862
+      "UsersEstimate": 3578
     },
     {
       "ID": "ach_anger_management",
@@ -29631,9 +29642,9 @@
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2862
     },
     {
       "ID": "ach_good_eyesight",
@@ -29873,7 +29884,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ach_gardening_tools",
@@ -29912,22 +29923,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715509,
+      "Progressed": 715537,
       "Completed": 2365
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 41051,
-      "Completed": 36503
+      "Progressed": 41079,
+      "Completed": 36505
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-09T08:59:09.4815374+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:06:36.7661422+00:00",
+  "LastChanged": "2023-11-09T17:59:35.4209527+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:07:38.7927338+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:59:08.0949153+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:06:36.7663255+00:00"
+  "LastUpdate_Ratings": "2023-11-09T17:59:35.4209535+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:07:38.7929612+00:00"
 }

@@ -19,18 +19,18 @@
 | Witness Protection | 4.00% | ~11 |
 | The Wing and the Thigh | 4.00% | ~11 |
 | Something Rotten | 3.00% | ~8 |
-| Blood Capade | 2.00% | ~5 |
-| The Crush And Smash The Dino Four | 2.00% | ~3 |
-| … Women Inherit The Earth | 2.00% | ~3 |
+| Blood Capade | 1.00% | ~3 |
+| The Crush And Smash The Dino Four | 1.00% | ~1 |
+| … Women Inherit The Earth | 1.00% | ~1 |
 | Bee Squat | 1.00% | ~3 |
-| Crazy SOB, You Did It | 0.80% | ~1 |
-| The Germophobes | 0.80% | ~2 |
+| Crazy SOB, You Did It | 0.70% | ~1 |
+| The Germophobes | 0.70% | ~2 |
 | Do-you-think-he-saurus | 0.40% | ~1 |
 | Cha Cha Real Smooth | 0.40% | ~1 |
 | That’s One Big Pile | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 346)  
-Completed: 6 (2.26%) (Ranked 118)  
+Progressed: 267 (Ranked 346)  
+Completed: 6 (2.25%) (Ranked 118)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,6 +97,7 @@ Completed: 6 (2.26%) (Ranked 118)
 | 2023-11-01 | 263 | 6 |
 | 2023-11-04 | 265 | 6 |
 | 2023-11-08 | 266 | 6 |
+| 2023-11-09 | 267 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

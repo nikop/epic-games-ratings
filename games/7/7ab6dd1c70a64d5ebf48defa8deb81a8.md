@@ -9,9 +9,9 @@
 | I Found It | 26.00% | ~45 |
 | The Collector | 26.00% | ~45 |
 | Find Allies | 25.00% | ~44 |
+| A Taste of Wrath | 25.00% | ~44 |
 | Shatter Them All | 25.00% | ~44 |
 | Fashion Victim | 25.00% | ~44 |
-| A Taste of Wrath | 24.00% | ~42 |
 | Adventurer | 24.00% | ~42 |
 | Geared Up | 24.00% | ~42 |
 | Scholar | 23.00% | ~40 |
@@ -23,11 +23,11 @@
 | Alchemist | 10.00% | ~17 |
 | The Mentor | 8.00% | ~14 |
 | Airborne | 8.00% | ~14 |
+| Miner | 7.00% | ~12 |
 | Flawless Victory | 6.00% | ~10 |
-| Miner | 6.00% | ~10 |
 | Calm before the Storm | 5.00% | ~9 |
-| To Battle | 4.00% | ~7 |
-| Godslayer | 4.00% | ~7 |
+| To Battle | 5.00% | ~9 |
+| Godslayer | 5.00% | ~9 |
 | Clear Sight | 2.00% | ~3 |
 | Slayer | 2.00% | ~3 |
 | Fine Feathers Make Fine Birds | 2.00% | ~3 |

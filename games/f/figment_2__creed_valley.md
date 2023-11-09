@@ -23,7 +23,7 @@
 | You're a-MAZE-ing! | 0.00% | ~0 |
 | Memory Completionist | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 512)  
+Progressed: 28 (Ranked 513)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

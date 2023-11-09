@@ -12,8 +12,8 @@
 | Air Defense | 85.00% | ~150 |
 | Tinned Corpse | 84.00% | ~148 |
 | Your War is Over | 83.00% | ~146 |
-| The Starry Night | 77.00% | ~136 |
-| Go Home! | 76.00% | ~134 |
+| The Starry Night | 78.00% | ~137 |
+| Go Home! | 77.00% | ~136 |
 | Brilliant: Meadowshire | 74.00% | ~130 |
 | Sergeant of the Evil | 74.00% | ~130 |
 | Look After the Pence... | 73.00% | ~128 |
@@ -58,7 +58,7 @@
 | Loveless | 19.00% | ~33 |
 | Hostile Waters | 18.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 176 (Ranked 374)  
+Progressed: 176 (Ranked 375)  
 Completed: 26 (14.77%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |

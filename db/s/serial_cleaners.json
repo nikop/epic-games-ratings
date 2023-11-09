@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.26,
+  "EOS_Completed_Percentage": 2.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:28.6580163+00:00",
@@ -594,6 +594,11 @@
       "Time": "2023-11-08T21:17:25.4664496+00:00",
       "NumProgressed": 266,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-09T18:07:20.1701406+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 24,
@@ -619,9 +624,9 @@
       "ID": "BOB_SLIDE",
       "SetID": "2lk004m",
       "Name": "Blood Capade",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "CHAPTER1_COMPLETE",
@@ -691,7 +696,7 @@
       "ID": "DLC01_ACHIEVEMENT01",
       "SetID": "5jieak",
       "Name": "Crazy SOB, You Did It",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 125,
       "UsersEstimate": 1
     },
@@ -723,17 +728,17 @@
       "ID": "DLC01_ACHIEVEMENT05",
       "SetID": "5jieak",
       "Name": "The Crush And Smash The Dino Four",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "DLC01_ACHIEVEMENT06",
       "SetID": "5jieak",
       "Name": "\u2026 Women Inherit The Earth",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 1
     },
     {
       "ID": "LATI_SPRAY",
@@ -755,7 +760,7 @@
       "ID": "PERFECT_CLEANED_EVERY_MAP",
       "SetID": "2lk004m",
       "Name": "The Germophobes",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -796,13 +801,13 @@
     {
       "ID": "5jieak",
       "IsBase": false,
-      "Progressed": 129,
+      "Progressed": 130,
       "Completed": 16
     },
     {
       "ID": "2lk004m",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 6
     }
   ],
@@ -810,8 +815,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:06:21.3466947+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:07:20.1701401+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.0309877+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:57:50.5247036+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:06:21.3467179+00:00"
+  "LastUpdate_Ratings": "2023-11-09T17:58:10.3102383+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:07:20.1701597+00:00"
 }

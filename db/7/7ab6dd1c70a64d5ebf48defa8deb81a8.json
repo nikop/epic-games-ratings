@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -696,17 +696,17 @@
       "ID": "ACH_05",
       "SetID": "efe2lj",
       "Name": "To Battle",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_07",
@@ -720,9 +720,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_09",
@@ -912,9 +912,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ACH_34",
@@ -959,8 +959,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:09:33.6556685+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:09:50.9107215+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:57:55.548309+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:09:33.6557014+00:00"
+  "LastUpdate_Ratings": "2023-11-09T17:58:15.3825126+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:09:50.9107796+00:00"
 }

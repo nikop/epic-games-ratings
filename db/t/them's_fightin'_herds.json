@@ -271,9 +271,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 232054,
+  "EOS_Progressed": 232056,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21006,6 +21006,11 @@
       "Time": "2023-11-09T17:04:58.2631099+00:00",
       "NumProgressed": 232054,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T18:05:39.4111519+00:00",
+      "NumProgressed": 232056,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -21081,7 +21086,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83539
+      "UsersEstimate": 83540
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -21161,7 +21166,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78898
+      "UsersEstimate": 78899
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -21225,7 +21230,7 @@
       "Name": "A Worthy Opponent",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 39449
+      "UsersEstimate": 39450
     },
     {
       "ID": "WIN_25_ONLINE_MATCHES",
@@ -21240,7 +21245,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232054,
+      "Progressed": 232056,
       "Completed": 5
     }
   ],
@@ -21248,8 +21253,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:04:58.263109+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:05:39.4111513+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.5446579+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:01:14.343898+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:04:58.2632552+00:00"
+  "LastUpdate_Ratings": "2023-11-09T18:02:38.0716676+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:05:39.4112885+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 153,
+  "EOS_Progressed": 154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -714,6 +714,11 @@
       "Time": "2023-11-09T06:05:30.0226302+00:00",
       "NumProgressed": 153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T18:07:05.7836075+00:00",
+      "NumProgressed": 154,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -723,7 +728,7 @@
       "ID": "ach_beamer_zone",
       "SetID": "5a4225j",
       "Name": "Won Beamer Zone",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -747,7 +752,7 @@
       "ID": "ach_boss_zone",
       "SetID": "5a4225j",
       "Name": "Won Mega Boss",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -781,7 +786,7 @@
       "Name": "Customize Ship",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ach_endless_120",
@@ -795,9 +800,9 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 35,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_endless_60",
@@ -805,13 +810,13 @@
       "Name": "Endless 60 Seconds",
       "Percentage": 27,
       "XP": 35,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ach_endless_c_60",
       "SetID": "5a4225j",
       "Name": "Endless Cursed 60 Seconds",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -932,14 +937,14 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 153,
+      "Progressed": 154,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:06:09.2321891+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:07:05.7836069+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.2742753+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:57:57.6432714+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:06:09.2322132+00:00"
+  "LastUpdate_Ratings": "2023-11-09T17:58:17.155615+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:07:05.7836315+00:00"
 }

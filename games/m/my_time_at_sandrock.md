@@ -6,19 +6,19 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 226.00% | ~637 |
-| Iron Chef | 182.00% | ~513 |
-| Greeno-B-Gone | 112.00% | ~316 |
-| Your Especially Earned Trajectory | 90.00% | ~254 |
-| No Mountain Wide Enough | 56.00% | ~158 |
-| On that Grindset | 55.00% | ~155 |
-| Can We Keep It? | 55.00% | ~155 |
-| Pack Mule | 43.00% | ~121 |
-| Diamonds are Forever | 42.00% | ~118 |
+| Adept Assembler | 225.00% | ~637 |
+| Iron Chef | 182.00% | ~515 |
+| Greeno-B-Gone | 111.00% | ~314 |
+| Your Especially Earned Trajectory | 90.00% | ~255 |
+| No Mountain Wide Enough | 57.00% | ~161 |
+| On that Grindset | 55.00% | ~156 |
+| Can We Keep It? | 55.00% | ~156 |
+| Pack Mule | 43.00% | ~122 |
+| Diamonds are Forever | 42.00% | ~119 |
 | My Time Mansion | 40.00% | ~113 |
 | Financially Secure | 40.00% | ~113 |
 | Yakmel Whisperer | 39.00% | ~110 |
-| Unboxing | 38.00% | ~107 |
+| Unboxing | 38.00% | ~108 |
 | Knowledge is Power | 35.00% | ~99 |
 | Big Game Hunter | 35.00% | ~99 |
 | Happier-est Place on Earth | 35.00% | ~99 |
@@ -27,28 +27,28 @@ Number of Ratings: 892  (23.09.2022)
 | One of the Cool Kids | 34.00% | ~96 |
 | Call Me Fishmael | 34.00% | ~96 |
 | Better Late than Never | 33.00% | ~93 |
-| Anti-Santa | 32.00% | ~90 |
-| You Don't Win Friends With Salad | 32.00% | ~90 |
-| What Plants Crave | 31.00% | ~87 |
-| I Do! | 31.00% | ~87 |
+| You Don't Win Friends With Salad | 32.00% | ~91 |
+| What Plants Crave | 31.00% | ~88 |
+| Anti-Santa | 31.00% | ~88 |
+| I Do! | 31.00% | ~88 |
 | Chatterbox | 30.00% | ~85 |
 | Finishing Touches | 29.00% | ~82 |
 | Officially Official | 29.00% | ~82 |
-| First Love | 25.00% | ~70 |
+| First Love | 25.00% | ~71 |
 | Panda-kin | 24.00% | ~68 |
 | Jewel of the Eufaula | 23.00% | ~65 |
 | Builder of the Month | 22.00% | ~62 |
 | Who Ya Gonna Call...? | 22.00% | ~62 |
-| Bridging the Gap | 20.00% | ~56 |
-| He Can Spin A Yarn... | 20.00% | ~56 |
+| Bridging the Gap | 21.00% | ~59 |
+| He Can Spin A Yarn... | 20.00% | ~57 |
 | Waste Not Want Not | 19.00% | ~54 |
 | Martle's Dream | 18.00% | ~51 |
+| Elementary, My Dear | 18.00% | ~51 |
 | Commissions, commissions...! | 17.00% | ~48 |
-| Elementary, My Dear | 17.00% | ~48 |
 | Newton | 17.00% | ~48 |
 | Lifeline Pipeline | 16.00% | ~45 |
-| Got the Flow Back | 15.00% | ~42 |
-| Do Your Part | 14.00% | ~39 |
+| Got the Flow Back | 14.00% | ~40 |
+| Do Your Part | 14.00% | ~40 |
 | Kind of a Big Deal | 13.00% | ~37 |
 | Just What I Always Wanted! | 13.00% | ~37 |
 | Time Flies | 11.00% | ~31 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 282 (Ranked 342)  
+Progressed: 283 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

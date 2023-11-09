@@ -6,9 +6,9 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 119,
-  "Ranking_EOS_Completed": 222,
+  "Ranking_EOS_Completed": 221,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -253,11 +253,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 37690,
-  "EOS_Completed": 118,
-  "EOS_NewPlayers": 281,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Progressed": 37692,
+  "EOS_Completed": 119,
+  "EOS_NewPlayers": 279,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:42:12.9453937+00:00",
@@ -17883,6 +17883,11 @@
       "Time": "2023-11-09T16:15:15.3763456+00:00",
       "NumProgressed": 37690,
       "NumCompleted": 118
+    },
+    {
+      "Time": "2023-11-09T18:06:00.111+00:00",
+      "NumProgressed": 37692,
+      "NumCompleted": 119
     }
   ],
   "TotalAchievements": 14,
@@ -17894,7 +17899,7 @@
       "Name": "100 Stars",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "150stars",
@@ -17910,7 +17915,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9799
+      "UsersEstimate": 9800
     },
     {
       "ID": "allItems",
@@ -17982,7 +17987,7 @@
       "Name": "Two Worlds",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 29021
+      "UsersEstimate": 29023
     },
     {
       "ID": "roots",
@@ -17990,7 +17995,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6407
+      "UsersEstimate": 6408
     },
     {
       "ID": "secretItem",
@@ -18005,15 +18010,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 37690,
-      "Completed": 118
+      "Progressed": 37692,
+      "Completed": 119
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2023-10-14T11:57:58.6551569+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:05:15.1062478+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:06:00.1109995+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:05.8183458+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:59:36.7272418+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:05:15.1064167+00:00"
+  "LastUpdate_Ratings": "2023-11-09T18:00:09.3153465+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:06:00.1111441+00:00"
 }

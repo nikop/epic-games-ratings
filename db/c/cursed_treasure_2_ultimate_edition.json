@@ -2,9 +2,9 @@
   "ID": "68f36df0a2174a6ab9059fb149f994f4",
   "Name": "Cursed Treasure 2 Ultimate Edition",
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
-  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -393,9 +393,9 @@
       "ID": "BADGE_BRILLIANT_NIGHT",
       "SetID": "ak6pfjk",
       "Name": "The Starry Night",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "BADGE_BRILLIANT_NIGHT_CHAPTER_1",
@@ -497,9 +497,9 @@
       "ID": "BADGE_ENEMIES_FRIGHTEN",
       "SetID": "ak6pfjk",
       "Name": "Go Home!",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 136
     },
     {
       "ID": "BADGE_ENEMIES_KILL",
@@ -682,8 +682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:04:53.3470354+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:05:33.775482+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.7745702+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:00:06.6060021+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:04:53.3470817+00:00"
+  "LastUpdate_Ratings": "2023-11-09T18:00:41.2454728+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:05:33.7755307+00:00"
 }

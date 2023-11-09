@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 221,
+  "EOS_Progressed": 222,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
@@ -1056,6 +1056,11 @@
       "Time": "2023-11-09T15:05:40.3617355+00:00",
       "NumProgressed": 221,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T18:07:08.4433471+00:00",
+      "NumProgressed": 222,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1068,7 +1073,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "achievement_10",
@@ -1084,23 +1089,23 @@
       "Name": "The Means to Save It",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_13",
       "SetID": "18al4io",
       "Name": "A Familiar Nest",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_14",
@@ -1108,7 +1113,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_15",
@@ -1148,7 +1153,7 @@
       "Name": "Socialite",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "achievement_2",
@@ -1156,7 +1161,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_20",
@@ -1212,7 +1217,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_36",
@@ -1244,7 +1249,7 @@
       "Name": "No More Names",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "achievement_41",
@@ -1282,9 +1287,9 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_46",
@@ -1300,15 +1305,15 @@
       "Name": "Enlisted",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_5",
@@ -1354,9 +1359,9 @@
       "ID": "achievement_59",
       "SetID": "18al4io",
       "Name": "Shroudfane Explorer",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_6",
@@ -1410,9 +1415,9 @@
       "ID": "achievement_67",
       "SetID": "18al4io",
       "Name": "Good Boy",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "achievement_7",
@@ -1426,9 +1431,9 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_9",
@@ -1436,14 +1441,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 221,
+      "Progressed": 222,
       "Completed": 1
     }
   ],
@@ -1451,8 +1456,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:06:11.3856192+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:07:08.4433464+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:58:24.3580757+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:06:11.3856701+00:00"
+  "LastUpdate_Ratings": "2023-11-09T17:58:47.9286718+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:07:08.4433947+00:00"
 }

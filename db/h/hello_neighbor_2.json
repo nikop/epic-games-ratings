@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -465,9 +465,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3184,
+  "EOS_Progressed": 3185,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 4.18,
   "EosHistory": [
@@ -4605,6 +4605,11 @@
       "Time": "2023-11-09T09:07:11.2552428+00:00",
       "NumProgressed": 3184,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-11-09T18:03:43.1782748+00:00",
+      "NumProgressed": 3185,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 14,
@@ -4616,7 +4621,7 @@
       "Name": "Ancient Curse",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -4656,7 +4661,7 @@
       "Name": "Easy As Pie",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -4680,7 +4685,7 @@
       "Name": "Imprisonment",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -4727,7 +4732,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3184,
+      "Progressed": 3185,
       "Completed": 133
     }
   ],
@@ -4735,8 +4740,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-04T12:59:35.7337599+00:00",
-  "LastChanged_Achievements": "2023-11-09T17:03:22.3872011+00:00",
+  "LastChanged_Achievements": "2023-11-09T18:03:43.1782742+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.1318979+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:59:49.7036887+00:00",
-  "LastUpdate_Achievements": "2023-11-09T17:03:22.3872539+00:00"
+  "LastUpdate_Ratings": "2023-11-09T18:00:22.5702865+00:00",
+  "LastUpdate_Achievements": "2023-11-09T18:03:43.1783206+00:00"
 }
