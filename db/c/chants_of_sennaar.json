@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 501,
+  "EOS_Progressed": 502,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.59,
+  "EOS_Completed_Percentage": 5.58,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2145,6 +2145,11 @@
       "Time": "2023-11-09T19:12:45.7665294+00:00",
       "NumProgressed": 501,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-09T20:05:46.9772681+00:00",
+      "NumProgressed": 502,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2162,9 +2167,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 75
+      "UsersEstimate": 80
     },
     {
       "ID": "META_ALL_LINK",
@@ -2276,7 +2281,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2300,7 +2305,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2316,7 +2321,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "PROGRESS_N2",
@@ -2324,7 +2329,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "PROGRESS_N3",
@@ -2355,14 +2360,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 501,
+      "Progressed": 502,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:12:45.766529+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:05:46.9772675+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:06:41.2231396+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:12:45.7665613+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:59:27.0041498+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:05:46.977335+00:00"
 }

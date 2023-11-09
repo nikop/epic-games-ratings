@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -268,9 +268,9 @@
       "ID": "AC_BOSS_04",
       "SetID": "16i2akc",
       "Name": "Heresy",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_COMBO_1",
@@ -507,8 +507,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:11:09.2837417+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:04:12.2433411+00:00",
   "LastUpdate_AppInfo": "2023-11-07T16:57:12.9013304+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:03:52.8390968+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:11:09.2837784+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:58:17.2448358+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:04:12.2433711+00:00"
 }

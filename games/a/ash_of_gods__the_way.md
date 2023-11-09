@@ -15,12 +15,12 @@
 | Blood and sand | 21.00% | ~7 |
 | Vene, vidi, vici | 18.00% | ~6 |
 | Power of Inquisition | 15.00% | ~5 |
+| Crimson rivers | 12.00% | ~4 |
 | The champion of the arena | 12.00% | ~4 |
 | Surpass the teacher | 12.00% | ~4 |
 | Rage | 12.00% | ~4 |
 | Protect the Healer! | 12.00% | ~4 |
 | She-Wolf | 12.00% | ~4 |
-| Crimson rivers | 9.00% | ~3 |
 | Overplay the rogue | 9.00% | ~3 |
 | Berkanan Borgia | 9.00% | ~3 |
 | By own strength | 9.00% | ~3 |

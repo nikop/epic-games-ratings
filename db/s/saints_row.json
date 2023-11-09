@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4023,9 +4023,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 77752,
+  "EOS_Progressed": 77753,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27003,6 +27003,11 @@
       "Time": "2023-11-09T19:15:25.7190217+00:00",
       "NumProgressed": 77752,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-09T20:08:54.5270485+00:00",
+      "NumProgressed": 77753,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -27030,7 +27035,7 @@
       "Name": "Quality Time",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 13995
+      "UsersEstimate": 13996
     },
     {
       "ID": "buy_1_thing_from_every_store",
@@ -27126,7 +27131,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36543
+      "UsersEstimate": 36544
     },
     {
       "ID": "customize_a_vehicle",
@@ -27142,7 +27147,7 @@
       "Name": "Optimized",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 28768
+      "UsersEstimate": 28769
     },
     {
       "ID": "cutting_edge_materials",
@@ -27286,7 +27291,7 @@
       "Name": "Picking Fights",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15550
+      "UsersEstimate": 15551
     },
     {
       "ID": "kill_enemy_with_tetherd_object",
@@ -27310,7 +27315,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27213
+      "UsersEstimate": 27214
     },
     {
       "ID": "one_third_purple",
@@ -27430,20 +27435,20 @@
       "Name": "Hazardous Heist",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 77752,
+      "Progressed": 77753,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 49389,
+      "Progressed": 49390,
       "Completed": 4282
     }
   ],
@@ -27451,8 +27456,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-07T18:03:25.9766934+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:15:25.7190213+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:08:54.527048+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.8364565+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:09:43.3630083+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:15:25.7192083+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:03:36.5141852+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:08:54.5273156+00:00"
 }

@@ -3,12 +3,12 @@
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
 Rating: 4.18 (Ranked 925)  
 ## Awards
-Max (Diverse Characters): 27  (Ranked 505)  
-Sum: 79 (Ranked 456)  
-Diff (max vs sum): 49  
+Max (Diverse Characters): 28  (Ranked 501)  
+Sum: 80 (Ranked 455)  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 27 |
+| This game has Diverse Characters | 28 |
 | This game has Amazing Characters | 27 |
 | This game is Educational | 25 |
 ## Ratings History
@@ -93,3 +93,4 @@ Diff (max vs sum): 49
 | 2023-11-03 | 4.18 | 26 | 76 |
 | 2023-11-06 | 4.18 | 27 | 77 |
 | 2023-11-07 | 4.18 | 27 | 79 |
+| 2023-11-09 | 4.18 | 28 | 80 |

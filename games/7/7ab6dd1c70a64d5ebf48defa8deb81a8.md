@@ -11,19 +11,19 @@
 | Find Allies | 25.00% | ~44 |
 | A Taste of Wrath | 25.00% | ~44 |
 | Shatter Them All | 25.00% | ~44 |
+| Geared Up | 25.00% | ~44 |
 | Fashion Victim | 25.00% | ~44 |
 | Adventurer | 24.00% | ~42 |
-| Geared Up | 24.00% | ~42 |
+| Powerful Allies | 23.00% | ~40 |
 | Scholar | 23.00% | ~40 |
-| Powerful Allies | 22.00% | ~38 |
 | Tributes of Caladrias | 21.00% | ~37 |
 | Stone Collection | 20.00% | ~35 |
 | Essence Blow | 11.00% | ~19 |
 | Big Bazar | 11.00% | ~19 |
-| Alchemist | 10.00% | ~17 |
+| Alchemist | 11.00% | ~19 |
 | The Mentor | 8.00% | ~14 |
 | Airborne | 8.00% | ~14 |
-| Miner | 7.00% | ~12 |
+| Miner | 8.00% | ~14 |
 | Flawless Victory | 6.00% | ~10 |
 | Calm before the Storm | 5.00% | ~9 |
 | To Battle | 5.00% | ~9 |

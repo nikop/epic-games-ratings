@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7460,
+  "EOS_Progressed": 7461,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -5573,6 +5573,11 @@
       "Time": "2023-11-09T17:06:07.6353078+00:00",
       "NumProgressed": 7460,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-09T20:07:15.7742322+00:00",
+      "NumProgressed": 7461,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5600,7 +5605,7 @@
       "Name": "Fields Watered",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -5624,7 +5629,7 @@
       "Name": "Harp Tuned",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -5688,7 +5693,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -5752,7 +5757,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -5760,7 +5765,7 @@
       "Name": "Travelers Returned",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1790
+      "UsersEstimate": 1791
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -5792,22 +5797,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7460,
+      "Progressed": 7461,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:14:15.1338563+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:07:15.7742315+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:09:39.8035974+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:14:15.13391+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:03:33.0337336+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:07:15.7743238+00:00"
 }

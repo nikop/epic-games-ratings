@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -689,7 +689,7 @@
       "Count": 108
     }
   ],
-  "EOS_Progressed": 1656,
+  "EOS_Progressed": 1657,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
@@ -4974,6 +4974,11 @@
       "Time": "2023-11-09T18:05:26.3255223+00:00",
       "NumProgressed": 1656,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-09T20:05:38.2101236+00:00",
+      "NumProgressed": 1657,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -4986,7 +4991,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achievement_10",
@@ -4994,7 +4999,7 @@
       "Name": "Keeper of the Faith",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_11",
@@ -5018,7 +5023,7 @@
       "Name": "Final Regeneration",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "achievement_14",
@@ -5058,7 +5063,7 @@
       "Name": "Full Arsenal",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "achievement_19",
@@ -5074,7 +5079,7 @@
       "Name": "Lab Rat",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "achievement_20",
@@ -5106,7 +5111,7 @@
       "Name": "Pusher",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_24",
@@ -5154,7 +5159,7 @@
       "Name": "Legend Teller",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "achievement_3",
@@ -5162,7 +5167,7 @@
       "Name": "All Systems Go",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "achievement_30",
@@ -5178,7 +5183,7 @@
       "Name": "Marksman",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "achievement_32",
@@ -5194,7 +5199,7 @@
       "Name": "Wishbone",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "achievement_34",
@@ -5242,7 +5247,7 @@
       "Name": "Z-Baller",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "achievement_4",
@@ -5290,7 +5295,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "achievement_45",
@@ -5298,7 +5303,7 @@
       "Name": "Mindless Prey",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "achievement_46",
@@ -5322,7 +5327,7 @@
       "Name": "True Believer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "achievement_6",
@@ -5361,7 +5366,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1656,
+      "Progressed": 1657,
       "Completed": 8
     }
   ],
@@ -5369,8 +5374,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-05T01:50:21.7166978+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:12:36.7043727+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:05:38.210123+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.4707049+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:06:32.8545032+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:12:36.7044431+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:59:18.5370994+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:05:38.2101889+00:00"
 }

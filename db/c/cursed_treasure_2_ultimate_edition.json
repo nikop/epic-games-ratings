@@ -4,7 +4,7 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 24,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
@@ -465,9 +465,9 @@
       "ID": "BADGE_BUILDINGS_CAPTURE",
       "SetID": "ak6pfjk",
       "Name": "Takeover",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL",
@@ -569,9 +569,9 @@
       "ID": "BADGE_MANA_POTIONS_COLLECT",
       "SetID": "ak6pfjk",
       "Name": "Drunken Master",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 128
+      "UsersEstimate": 130
     },
     {
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
@@ -682,8 +682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:12:44.5258161+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:05:45.773561+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.7745702+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:08:05.4205341+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:12:44.5258689+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:00:39.5461136+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:05:45.7736086+00:00"
 }

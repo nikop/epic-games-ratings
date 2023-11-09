@@ -11,8 +11,8 @@ Rating: 4.57 (Ranked 469)
 | Adventurer | 78.00% | ~25 |
 | The brave little tailor | 59.00% | ~19 |
 | Archer | 59.00% | ~19 |
+| Samaritan | 56.00% | ~18 |
 | Field hand | 53.00% | ~17 |
-| Samaritan | 53.00% | ~17 |
 | Well-to-do | 50.00% | ~16 |
 | Ladies' man | 47.00% | ~15 |
 | The merciful one | 44.00% | ~14 |

@@ -4,7 +4,7 @@
   "ProductSlug": "wild-animal-sports-day-2bd1c2",
   "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-28T11:00:00+00:00",
@@ -187,8 +187,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:51:32.0342938+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:16:27.9474249+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:09:56.1201109+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.9776464+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:09:47.9470925+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:16:27.9474339+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:03:40.8602941+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:09:56.1201225+00:00"
 }

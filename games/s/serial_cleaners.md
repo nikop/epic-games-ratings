@@ -9,7 +9,7 @@
 | A New Broom Sweeps Clean | 18.00% | ~48 |
 | Off to a Good Start | 16.00% | ~43 |
 | Small-time Finder | 16.00% | ~43 |
-| Business as usual | 12.00% | ~32 |
+| Business as usual | 13.00% | ~35 |
 | Mr. Hygeni | 10.00% | ~27 |
 | Pride and Joy | 9.00% | ~24 |
 | Eyes Yet To Open | 7.00% | ~19 |

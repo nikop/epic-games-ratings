@@ -6,47 +6,47 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~396,436 |
-| Happy Returns | 78.00% | ~381,753 |
-| Hey! That's mine! | 78.00% | ~381,753 |
-| Field Promotion | 74.00% | ~362,176 |
-| Leadhead | 71.00% | ~347,493 |
-| Eradicator | 67.00% | ~327,916 |
-| Surplus | 65.00% | ~318,128 |
-| I Spy | 64.00% | ~313,233 |
-| Burn Baby Burn | 59.00% | ~288,762 |
-| Yellow Beats Green | 56.00% | ~274,079 |
-| Salvage Rights | 53.00% | ~259,396 |
-| Close Call | 50.00% | ~244,714 |
-| Pew Pew | 50.00% | ~244,714 |
-| What IS that? | 50.00% | ~244,714 |
-| Penny Pincher | 49.00% | ~239,819 |
-| Arsenal | 46.00% | ~225,136 |
-| Boot Camp | 45.00% | ~220,242 |
-| Flawless Victory | 42.00% | ~205,559 |
-| Confident | 41.00% | ~200,665 |
-| Exterminator | 36.00% | ~176,194 |
-| Sharpshooter | 34.00% | ~166,405 |
-| Not So Fast | 33.00% | ~161,511 |
-| Great Ball of Fire | 32.00% | ~156,617 |
-| No Sale | 31.00% | ~151,722 |
-| Kaboom! | 30.00% | ~146,828 |
-| Liquidator | 29.00% | ~141,934 |
-| High Voltage | 24.00% | ~117,462 |
-| Filthy Rich | 20.00% | ~97,885 |
+| First Blood | 81.00% | ~396,438 |
+| Happy Returns | 78.00% | ~381,755 |
+| Hey! That's mine! | 78.00% | ~381,755 |
+| Field Promotion | 74.00% | ~362,178 |
+| Leadhead | 71.00% | ~347,495 |
+| Eradicator | 67.00% | ~327,918 |
+| Surplus | 65.00% | ~318,130 |
+| I Spy | 64.00% | ~313,235 |
+| Burn Baby Burn | 59.00% | ~288,764 |
+| Yellow Beats Green | 56.00% | ~274,081 |
+| Salvage Rights | 53.00% | ~259,398 |
+| Close Call | 50.00% | ~244,715 |
+| Pew Pew | 50.00% | ~244,715 |
+| What IS that? | 50.00% | ~244,715 |
+| Penny Pincher | 49.00% | ~239,821 |
+| Arsenal | 46.00% | ~225,138 |
+| Boot Camp | 45.00% | ~220,244 |
+| Flawless Victory | 42.00% | ~205,561 |
+| Confident | 41.00% | ~200,666 |
+| Exterminator | 36.00% | ~176,195 |
+| Sharpshooter | 34.00% | ~166,406 |
+| Not So Fast | 33.00% | ~161,512 |
+| Great Ball of Fire | 32.00% | ~156,618 |
+| No Sale | 31.00% | ~151,723 |
+| Kaboom! | 30.00% | ~146,829 |
+| Liquidator | 29.00% | ~141,935 |
+| High Voltage | 24.00% | ~117,463 |
+| Filthy Rich | 20.00% | ~97,886 |
 | The Not-So-Friendly Skies | 18.00% | ~88,097 |
 | Power Builder | 17.00% | ~83,203 |
 | Pyrrhic Victory | 17.00% | ~83,203 |
-| Death From Above | 16.00% | ~78,308 |
-| Retry | 16.00% | ~78,308 |
-| Head Trauma | 12.00% | ~58,731 |
+| Death From Above | 16.00% | ~78,309 |
+| Retry | 16.00% | ~78,309 |
+| Head Trauma | 12.00% | ~58,732 |
 | Full Defense | 10.00% | ~48,943 |
-| Overseer | 9.00% | ~44,048 |
+| Overseer | 9.00% | ~44,049 |
 | Annihilator | 8.00% | ~39,154 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~39,154 |
 | Indecisive | 6.00% | ~29,366 |
-| Base Defender | 5.00% | ~24,471 |
-| Relay Race | 5.00% | ~24,471 |
+| Base Defender | 5.00% | ~24,472 |
+| Relay Race | 5.00% | ~24,472 |
 | Tower Expert | 4.00% | ~19,577 |
 | Diversity | 3.00% | ~14,683 |
 | Full Potential | 3.00% | ~14,683 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~489 |
 | You Monster | 0.10% | ~489 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489,427 (Ranked 36)  
+Progressed: 489,430 (Ranked 36)  
 Completed: 5 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,16 +297,16 @@ Completed: 5 (0.00%) (Ranked 345)
 | 2023-11-06 | 489,267 | 5 |
 | 2023-11-07 | 489,318 | 5 |
 | 2023-11-08 | 489,379 | 5 |
-| 2023-11-09 | 489,427 | 5 |
+| 2023-11-09 | 489,430 | 5 |
 ## Awards
 Max (Great for Beginners): 257  (Ranked 266)  
-Sum: 1,716 (Ranked 220)  
+Sum: 1,717 (Ranked 220)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 257 |
 | This game has Quickly Understood Controls | 226 |
-| This game is Relaxing | 219 |
+| This game is Relaxing | 220 |
 | This game is Extremely Fun | 206 |
 | This game is Highly Recommended | 195 |
 | This game has Challenging Combat | 186 |
@@ -459,3 +459,4 @@ Diff (max vs sum): 46
 | 2023-11-03 | 4.45 | - | 255 | 1,714 |
 | 2023-11-05 | 4.45 | - | 256 | 1,715 |
 | 2023-11-07 | 4.45 | - | 257 | 1,716 |
+| 2023-11-09 | 4.45 | - | 257 | 1,717 |

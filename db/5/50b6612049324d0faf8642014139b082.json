@@ -2,9 +2,9 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "WRC",
   "ProductSlug": "wrc",
-  "Ranking_EOS_Progress": 426,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 97,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -145,6 +145,11 @@
       "Time": "2023-11-09T19:16:31.5431204+00:00",
       "NumProgressed": 91,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T20:09:59.6175779+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -163,17 +168,17 @@
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_12",
@@ -181,7 +186,7 @@
       "Name": "Snow Specialist",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_13",
@@ -195,9 +200,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "achievement_15",
@@ -211,17 +216,17 @@
       "ID": "achievement_16",
       "SetID": "jnappp",
       "Name": "Class Act",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_17",
       "SetID": "jnappp",
       "Name": "Your first time?",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_18",
@@ -243,9 +248,9 @@
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_20",
@@ -285,7 +290,7 @@
       "Name": "Miracle in the Mountains",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_25",
@@ -293,7 +298,7 @@
       "Name": "E-stonia",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_26",
@@ -301,7 +306,7 @@
       "Name": "Driver\u0027s Alliance",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_3",
@@ -309,7 +314,7 @@
       "Name": "Rookie Season",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_4",
@@ -341,7 +346,7 @@
       "Name": "NEW PB!",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 36
+      "UsersEstimate": 39
     },
     {
       "ID": "achievement_8",
@@ -355,23 +360,23 @@
       "ID": "achievement_9",
       "SetID": "jnappp",
       "Name": "Perfect Score",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 97,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:16:31.5431201+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:09:59.6175774+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:09:19.3469309+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:16:31.5431387+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:03:13.0908435+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:09:59.6175964+00:00"
 }

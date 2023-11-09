@@ -64,9 +64,9 @@ Rating: 4.10 (Ranked 958)
 | Gear Enchanting | 4.00% | ~85 |
 | Mythic Power | 4.00% | ~85 |
 | What lies behind the bush | 4.00% | ~85 |
+| Cauldron Liberator | 3.00% | ~64 |
 | Enchanting skill x5 | 3.00% | ~64 |
 | Guardian Master | 3.00% | ~64 |
-| Cauldron Liberator | 2.00% | ~42 |
 | Pokerface | 2.00% | ~42 |
 | Titan Power | 2.00% | ~42 |
 | Transmute | 2.00% | ~42 |

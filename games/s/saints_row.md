@@ -6,11 +6,11 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~36,543 |
+| First F#@!ing Day | 47.00% | ~36,544 |
 | To The Nines | 42.00% | ~32,656 |
-| Optimized | 37.00% | ~28,768 |
+| Optimized | 37.00% | ~28,769 |
 | Performance Review | 36.00% | ~27,991 |
-| Making a Name | 35.00% | ~27,213 |
+| Making a Name | 35.00% | ~27,214 |
 | Tune Up | 34.00% | ~26,436 |
 | Landlord | 33.00% | ~25,658 |
 | Wet Work | 32.00% | ~24,881 |
@@ -20,9 +20,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Finders Keepers | 26.00% | ~20,216 |
 | A Young Empire | 26.00% | ~20,216 |
 | Work Ethic | 23.00% | ~17,883 |
-| Picking Fights | 20.00% | ~15,550 |
+| Picking Fights | 20.00% | ~15,551 |
 | Power Players | 19.00% | ~14,773 |
-| Quality Time | 18.00% | ~13,995 |
+| Quality Time | 18.00% | ~13,996 |
 | Showdown | 17.00% | ~13,218 |
 | Et tu? | 17.00% | ~13,218 |
 | Took It to The Limit | 16.00% | ~12,440 |
@@ -44,7 +44,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | Neighborly | 5.00% | ~3,888 |
 | Prankster | 5.00% | ~3,888 |
 | Smooth Moves | 5.00% | ~3,888 |
-| Hazardous Heist | 5.00% | ~2,469 |
+| Hazardous Heist | 5.00% | ~2,470 |
 | Tourist | 4.00% | ~3,110 |
 | Shopping Spree | 3.00% | ~2,333 |
 | Always Be Hustling | 3.00% | ~2,333 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~156 |
 | Fiesta Time | 0.20% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,752 (Ranked 96)  
+Progressed: 77,753 (Ranked 96)  
 Completed: 51 (0.07%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 51 (0.07%) (Ranked 286)
 | 2023-11-06 | 77,492 | 51 |
 | 2023-11-07 | 77,585 | 51 |
 | 2023-11-08 | 77,678 | 51 |
-| 2023-11-09 | 77,752 | 51 |
+| 2023-11-09 | 77,753 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
 Sum: 8,729 (Ranked 97)  

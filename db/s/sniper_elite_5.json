@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3841,
+  "EOS_Progressed": 3842,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7777,6 +7777,11 @@
       "Time": "2023-11-09T13:12:17.327875+00:00",
       "NumProgressed": 3841,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-09T20:08:31.8035848+00:00",
+      "NumProgressed": 3842,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7796,7 +7801,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7852,7 +7857,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -7868,7 +7873,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7996,7 +8001,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8028,7 +8033,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8036,7 +8041,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8252,7 +8257,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -8355,13 +8360,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3792,
+      "Progressed": 3793,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3841,
+      "Progressed": 3842,
       "Completed": 11
     }
   ],
@@ -8369,8 +8374,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:15:01.9949647+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:08:31.8035843+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:07:07.0846104+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:15:01.9950833+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:59:48.6207359+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:08:31.8037126+00:00"
 }

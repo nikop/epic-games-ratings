@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 138,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -885,7 +885,7 @@
   ],
   "EOS_Progressed": 6465,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9818,9 +9818,9 @@
       "ID": "ACHIEVEMENT_008",
       "SetID": "1a05lfd",
       "Name": "Scaling up",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 52
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -9866,9 +9866,9 @@
       "ID": "ACHIEVEMENT_014",
       "SetID": "1a05lfd",
       "Name": "Goldfish?",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 19
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -10097,8 +10097,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-07T23:00:55.7232721+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:16:16.2603729+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:09:44.4957498+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:08:50.5029406+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:16:16.2604636+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:01:25.0049544+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:09:44.4958524+00:00"
 }

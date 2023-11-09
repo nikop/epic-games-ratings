@@ -6315,10 +6315,10 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 715574,
-  "EOS_Completed": 2366,
-  "EOS_NewPlayers": 4660,
-  "EOS_NewCompleters": 63,
+  "EOS_Progressed": 715594,
+  "EOS_Completed": 2367,
+  "EOS_NewPlayers": 4637,
+  "EOS_NewCompleters": 64,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29510,6 +29510,11 @@
       "Time": "2023-11-09T19:14:50.4492169+00:00",
       "NumProgressed": 715574,
       "NumCompleted": 2366
+    },
+    {
+      "Time": "2023-11-09T20:07:50.6562204+00:00",
+      "NumProgressed": 715594,
+      "NumCompleted": 2367
     }
   ],
   "TotalAchievements": 51,
@@ -29681,7 +29686,7 @@
       "Name": "Hotel California",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "ach_impressive_aim",
@@ -29857,7 +29862,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29889,7 +29894,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "ach_gardening_tools",
@@ -29928,22 +29933,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715574,
-      "Completed": 2366
+      "Progressed": 715594,
+      "Completed": 2367
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 41116,
-      "Completed": 36507
+      "Progressed": 41136,
+      "Completed": 36508
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-09T17:59:35.4209527+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:14:50.4492166+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:07:50.6562199+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:06:53.6875425+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:14:50.4494477+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:59:38.7131059+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:07:50.6564302+00:00"
 }

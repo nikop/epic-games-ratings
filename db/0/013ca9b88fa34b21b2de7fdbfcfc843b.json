@@ -175,9 +175,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7641,
+  "EOS_Progressed": 7642,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6415,6 +6415,11 @@
       "Time": "2023-11-09T19:16:27.3711292+00:00",
       "NumProgressed": 7641,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T20:09:55.5535201+00:00",
+      "NumProgressed": 7642,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6459,7 +6464,7 @@
       "Name": "Clear the Air",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1375
+      "UsersEstimate": 1376
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -6531,7 +6536,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3744
+      "UsersEstimate": 3745
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6563,7 +6568,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3209
+      "UsersEstimate": 3210
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6571,15 +6576,15 @@
       "Name": "Scattered Scroll Scrounger",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 4661
+      "UsersEstimate": 4585
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6643,7 +6648,7 @@
       "Name": "Oui, Chef!",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "PRODUCE_HYBRIDFLOWER",
@@ -6659,7 +6664,7 @@
       "Name": "Azorian Anniversary",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "UPGRADE_ALLSKILLSMAX",
@@ -6706,22 +6711,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7641,
+      "Progressed": 7642,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 258,
-      "Completed": 258
+      "Progressed": 259,
+      "Completed": 259
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-09T19:09:37.5658278+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:16:27.3711282+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:09:55.5535195+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:09:37.5658284+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:16:27.3711868+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:03:30.8070879+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:09:55.5535824+00:00"
 }

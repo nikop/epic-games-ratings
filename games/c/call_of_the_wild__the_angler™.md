@@ -8,16 +8,16 @@ Number of Ratings: 281  (23.09.2022)
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 0.90% | ~58 |
 | Hey Good Hookin | 0.90% | ~58 |
+| Scaling up | 0.90% | ~58 |
 | Can you smell what the Rod is Hooking | 0.80% | ~52 |
 | I'm on a Boat! | 0.80% | ~52 |
 | More Fish in the Sea | 0.80% | ~52 |
-| Scaling up | 0.80% | ~52 |
 | Ready to Rod and Roll | 0.60% | ~39 |
 | Fish Out of Water | 0.50% | ~32 |
 | Things that go Splash in the Night | 0.50% | ~32 |
+| Goldfish? | 0.30% | ~19 |
 | School's Out for Summer | 0.30% | ~19 |
 | License to Gill | 0.20% | ~13 |
-| Goldfish? | 0.20% | ~13 |
 | Going for Gold | 0.20% | ~13 |
 | I'm Hooked! | 0.20% | ~13 |
 | More than a Tourist | 0.10% | ~6 |

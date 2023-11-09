@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1053,
+  "EOS_Progressed": 1056,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1510,6 +1510,11 @@
       "Time": "2023-11-09T16:17:43.2075721+00:00",
       "NumProgressed": 1053,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T20:08:58.9883575+00:00",
+      "NumProgressed": 1056,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1546,7 +1551,7 @@
       "Name": "Endless Biographer",
       "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_BLOB_BOSS",
@@ -1554,7 +1559,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -1562,7 +1567,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -1570,7 +1575,7 @@
       "Name": "Aggressive Antivirus",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "ACHIEVEMENT_BUG_BOSS",
@@ -1578,7 +1583,7 @@
       "Name": "Pest Control",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -1592,9 +1597,9 @@
       "ID": "ACHIEVEMENT_EXPLORATOR",
       "SetID": "9991201",
       "Name": "What\u0027s Behind Every Door?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 53
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -1602,7 +1607,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 739
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1610,7 +1615,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -1618,7 +1623,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 444
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1666,7 +1671,7 @@
       "Name": "Hoarder",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -1730,7 +1735,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -1761,14 +1766,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1053,
+      "Progressed": 1056,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:15:30.2420418+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:08:58.9883552+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:11.1557336+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:00:26.458386+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:15:30.2420736+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:57:50.5932916+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:08:58.9883908+00:00"
 }

@@ -3091,9 +3091,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82016,
+  "EOS_Progressed": 82018,
   "EOS_Completed": 158,
-  "EOS_NewPlayers": 848,
+  "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -25686,6 +25686,11 @@
       "Time": "2023-11-09T19:15:50.0085055+00:00",
       "NumProgressed": 82016,
       "NumCompleted": 158
+    },
+    {
+      "Time": "2023-11-09T20:09:18.6151744+00:00",
+      "NumProgressed": 82018,
+      "NumCompleted": 158
     }
   ],
   "TotalAchievements": 30,
@@ -25705,7 +25710,7 @@
       "Name": "Team Effort",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -25745,7 +25750,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11482
+      "UsersEstimate": 11483
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -25761,7 +25766,7 @@
       "Name": "Variety Expert",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 7381
+      "UsersEstimate": 7382
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -25777,7 +25782,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30346
+      "UsersEstimate": 30347
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -25785,7 +25790,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 22964
+      "UsersEstimate": 22965
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -25793,7 +25798,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 26245
+      "UsersEstimate": 26246
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -25809,7 +25814,7 @@
       "Name": "Opportunity",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -25833,7 +25838,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21324
+      "UsersEstimate": 21325
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -25849,7 +25854,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 17223
+      "UsersEstimate": 17224
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -25865,7 +25870,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 12302
+      "UsersEstimate": 12303
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -25936,15 +25941,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82016,
+      "Progressed": 82018,
       "Completed": 158
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-08T19:59:45.0886109+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:15:50.0085051+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:09:18.6151738+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.8339695+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:08:11.2575177+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:15:50.0086627+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:00:44.8974604+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:09:18.6153713+00:00"
 }

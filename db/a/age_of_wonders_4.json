@@ -6936,9 +6936,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "25",
@@ -7192,9 +7192,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "50",
@@ -7248,9 +7248,9 @@
       "ID": "56",
       "SetID": "7132754",
       "Name": "A Conqueror\u0027s Cohort",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "57",
@@ -7272,9 +7272,9 @@
       "ID": "59",
       "SetID": "7132754",
       "Name": "But this one is mine",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "60",
@@ -7303,8 +7303,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-09T11:59:25.9904404+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:15:13.8723045+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:08:43.1399631+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:08:07.7859854+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:15:13.8724043+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:00:41.7961905+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:08:43.1401197+00:00"
 }

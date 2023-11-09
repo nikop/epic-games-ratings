@@ -35,9 +35,9 @@ Rating: 4.25 (Ranked 873)
 | Marked For Success | 12.00% | ~263 |
 | Where It All Began | 12.00% | ~263 |
 | Sorry, Didn't See You There | 12.00% | ~263 |
+| Stimulating The Local Economy | 10.00% | ~219 |
 | Triplets | 10.00% | ~219 |
 | Denying Prophecy | 9.00% | ~197 |
-| Stimulating The Local Economy | 9.00% | ~197 |
 | A Little Banged Up | 8.00% | ~175 |
 | Defense in Depth | 8.00% | ~175 |
 | Reverse Engineering | 7.00% | ~153 |

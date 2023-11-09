@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1415,9 +1415,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 6676,
+  "EOS_Progressed": 6677,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12465,6 +12465,11 @@
       "Time": "2023-11-09T06:06:00.7093182+00:00",
       "NumProgressed": 6676,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-09T20:08:27.2714151+00:00",
+      "NumProgressed": 6677,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -12476,7 +12481,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -12508,7 +12513,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -12516,7 +12521,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5007
+      "UsersEstimate": 5008
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -12604,7 +12609,7 @@
       "Name": "Feast or Famine",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -12620,7 +12625,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3271
+      "UsersEstimate": 3272
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -12628,7 +12633,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 1869
+      "UsersEstimate": 1870
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -12636,7 +12641,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4606
+      "UsersEstimate": 4607
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -12684,7 +12689,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4473
+      "UsersEstimate": 4474
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -12692,7 +12697,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3004
+      "UsersEstimate": 3005
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -12708,7 +12713,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3805
+      "UsersEstimate": 3806
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -12723,15 +12728,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6676,
+      "Progressed": 6677,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-09T17:02:57.7669931+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:14:57.4008168+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:08:27.2714144+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.6688935+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:09:34.6352515+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:14:57.4009103+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:03:28.1115007+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:08:27.2715192+00:00"
 }

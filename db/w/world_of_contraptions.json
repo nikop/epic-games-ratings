@@ -4,7 +4,7 @@
   "ProductSlug": "world-of-contraptions-6dbc07",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-29T11:00:00+00:00",
@@ -1623,9 +1623,9 @@
       "ID": "TUTORIAL_COMPLETED",
       "SetID": "aemieak",
       "Name": "Graduated in contraptions",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "LEVEL_EXTREME",
@@ -1670,8 +1670,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:15:12.4112496+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:08:41.9211111+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:15.3910156+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:07:50.95067+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:15:12.411276+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:00:26.1700936+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:08:41.9211443+00:00"
 }

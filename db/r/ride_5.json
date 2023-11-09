@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2072,
+  "EOS_Progressed": 2073,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
@@ -4617,6 +4617,11 @@
       "Time": "2023-11-09T19:16:48.8336772+00:00",
       "NumProgressed": 2072,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T20:10:15.9615066+00:00",
+      "NumProgressed": 2073,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4701,7 +4706,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4933,7 +4938,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5020,14 +5025,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2072,
+      "Progressed": 2073,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:16:48.8336766+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:10:15.961506+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:04:17.9692011+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:16:48.8337388+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:58:24.601004+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:10:15.9615745+00:00"
 }

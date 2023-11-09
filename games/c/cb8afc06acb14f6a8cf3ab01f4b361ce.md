@@ -34,6 +34,7 @@ Rating: 4.21 (Ranked 901)
 | Your wounds… They are healing so fast! | 0.10% | ~306 |
 | Bring it on! | 0.10% | ~306 |
 | You want more? I've got more! | 0.10% | ~306 |
+| We learned it the hard way | 0.10% | ~306 |
 | We strike as one | 0.10% | ~306 |
 | Chaos be damned! | 0.10% | ~306 |
 | I took a risk | 0.10% | ~306 |
@@ -42,11 +43,10 @@ Rating: 4.21 (Ranked 901)
 | There's too many of them! | 0.00% | ~0 |
 | I've been waiting for this! | 0.00% | ~0 |
 | I'm just warming up | 0.00% | ~0 |
-| We learned it the hard way | 0.00% | ~0 |
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306,417 (Ranked 49)  
+Progressed: 306,454 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,7 +93,7 @@ Completed: 3 (0.00%) (Ranked 345)
 | 2023-11-06 | 304,252 | 1 |
 | 2023-11-07 | 305,112 | 2 |
 | 2023-11-08 | 305,812 | 3 |
-| 2023-11-09 | 306,417 | 3 |
+| 2023-11-09 | 306,454 | 3 |
 ## Awards
 Max (Great Boss Battles): 52  (Ranked 420)  
 Sum: 52 (Ranked 474)  

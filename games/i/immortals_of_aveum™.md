@@ -5,32 +5,32 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~195 |
+| Unforeseen | 88.00% | ~198 |
 | Battlefields Have Memories | 82.00% | ~184 |
-| Enlisted | 79.00% | ~177 |
-| Maybe Engage a Little | 75.00% | ~168 |
-| No More Names | 60.00% | ~134 |
-| Initiate | 46.00% | ~103 |
+| Enlisted | 79.00% | ~178 |
+| Maybe Engage a Little | 75.00% | ~169 |
+| No More Names | 60.00% | ~135 |
+| Initiate | 46.00% | ~104 |
 | Thrada-Kul | 42.00% | ~94 |
-| Gravity-Challenged Rocks | 33.00% | ~74 |
-| Soldier | 27.00% | ~60 |
-| All the Major Food Groups | 27.00% | ~60 |
+| Gravity-Challenged Rocks | 32.00% | ~72 |
+| Soldier | 28.00% | ~63 |
+| All the Major Food Groups | 27.00% | ~61 |
 | Socialite | 26.00% | ~58 |
-| Beggars Would Ride | 25.00% | ~56 |
 | Control is an Illusion | 24.00% | ~54 |
-| The Means to Save It | 21.00% | ~47 |
+| Beggars Would Ride | 24.00% | ~54 |
+| The Means to Save It | 20.00% | ~45 |
 | Resilience to Sin | 18.00% | ~40 |
 | A Familiar Nest | 17.00% | ~38 |
-| Geas Aristeya | 17.00% | ~38 |
 | Periapt Alizarin | 17.00% | ~38 |
+| Geas Aristeya | 16.00% | ~36 |
 | A Perfect Cycle | 15.00% | ~34 |
-| Recruit | 14.00% | ~31 |
-| Armsman | 14.00% | ~31 |
+| Recruit | 14.00% | ~32 |
+| Armsman | 14.00% | ~32 |
 | Lights Army | 10.00% | ~22 |
 | Periapt Cerulean | 8.00% | ~18 |
 | Good Boy | 8.00% | ~18 |
-| Periapt Viridian | 6.00% | ~13 |
-| Shroudfane Explorer | 6.00% | ~13 |
+| Periapt Viridian | 6.00% | ~14 |
+| Shroudfane Explorer | 6.00% | ~14 |
 | Best Dressed | 5.00% | ~11 |
 | Scholar | 4.00% | ~9 |
 | Armaments Azure | 4.00% | ~9 |
@@ -53,8 +53,8 @@ Rating: 4.02 (Ranked 986)
 | Tip of the Spear | 0.90% | ~2 |
 | Fowl Play | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 224 (Ranked 360)  
-Completed: 1 (0.45%) (Ranked 199)  
+Progressed: 225 (Ranked 359)  
+Completed: 1 (0.44%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -101,7 +101,7 @@ Completed: 1 (0.45%) (Ranked 199)
 | 2023-11-06 | 172 | 1 |
 | 2023-11-07 | 184 | 1 |
 | 2023-11-08 | 207 | 1 |
-| 2023-11-09 | 224 | 1 |
+| 2023-11-09 | 225 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

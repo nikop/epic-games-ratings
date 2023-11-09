@@ -5,13 +5,15 @@ Rating: 4.61 (Ranked 385)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 0.90% | ~48 |
+| But this one is mine | 1.00% | ~53 |
+| Secret Technique | 0.40% | ~21 |
 | Realm Estate | 0.30% | ~16 |
-| Secret Technique | 0.30% | ~16 |
 | Walls Cannot Stop Us | 0.30% | ~16 |
 | Freed Lands of Manuhari | 0.30% | ~16 |
 | A Wonderful Discovery | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
+| Mighty Hoard | 0.20% | ~11 |
+| A Conqueror's Cohort | 0.20% | ~11 |
 | Spoils of War | 0.20% | ~11 |
 | Valley of Wonders | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
@@ -48,12 +50,10 @@ Rating: 4.61 (Ranked 385)
 | Here be Dragons | 0.10% | ~5 |
 | Tipping the Scales | 0.10% | ~5 |
 | Duality | 0.10% | ~5 |
-| Mighty Hoard | 0.10% | ~5 |
 | Sehiran Oasis | 0.10% | ~5 |
 | Prometheus Avenged | 0.10% | ~5 |
 | Chaos Surge | 0.10% | ~5 |
 | Seal the Deal | 0.10% | ~5 |
-| A Conqueror's Cohort | 0.10% | ~5 |
 | Dawn of the Dread | 0.10% | ~5 |
 | A Very Special Ring | 0.10% | ~5 |
 | Snap Out of It! | 0.00% | ~0 |

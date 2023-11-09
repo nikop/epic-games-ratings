@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 69.00% | ~29 |
-| Thalya – Simply Immortal | 69.00% | ~29 |
-| Thalya's Concentrated Fury | 57.00% | ~24 |
-| For the Horde! | 38.00% | ~16 |
-| Hammer Time, Round Two | 12.00% | ~5 |
-| Trap Master | 12.00% | ~5 |
-| Experienced Thalya | 12.00% | ~5 |
-| Unicorn steaks – fresh off the hoof! | 10.00% | ~4 |
-| The Hellwoods | 2.00% | ~1 |
-| Master of Magic | 2.00% | ~1 |
-| Magic Accidents | 2.00% | ~1 |
+| The Last Stand | 66.00% | ~35 |
+| Thalya – Simply Immortal | 66.00% | ~35 |
+| Thalya's Concentrated Fury | 55.00% | ~29 |
+| For the Horde! | 49.00% | ~26 |
+| Hammer Time, Round Two | 42.00% | ~22 |
+| Master of Magic | 25.00% | ~13 |
+| Trap Master | 19.00% | ~10 |
+| The Hellwoods | 11.00% | ~6 |
+| Magic Accidents | 11.00% | ~6 |
+| Experienced Thalya | 9.00% | ~5 |
+| Unicorn steaks – fresh off the hoof! | 8.00% | ~4 |
+| Bad Elves Go Everywhere | 6.00% | ~3 |
 | The Plains of Strothalm | 2.00% | ~1 |
 | Minions, Minions! | 2.00% | ~1 |
 | Sacrificial Pit = Garbage Disposal? | 2.00% | ~1 |
-| Bad Elves Go Everywhere | 2.00% | ~1 |
 | Heroes’ Gorge | 2.00% | ~1 |
 | Mana Cannon | 2.00% | ~1 |
 | YOU SHALL NOT PASS! | 2.00% | ~1 |
@@ -66,9 +66,9 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42 (Ranked 485)  
+Progressed: 53 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-09 | 42 | 0 |
+| 2023-11-09 | 53 | 0 |

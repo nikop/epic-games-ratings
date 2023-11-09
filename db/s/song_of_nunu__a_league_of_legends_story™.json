@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 608,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 335,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -1169,17 +1169,17 @@
       "ID": "EV_ACH25",
       "SetID": "6jeac23",
       "Name": "Rhythm Of Willump",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 280
     },
     {
       "ID": "EV_ACH26",
       "SetID": "6jeac23",
       "Name": "Moneyball",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 359
     },
     {
       "ID": "EV_ACH27",
@@ -1336,8 +1336,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-09T19:16:33.8015446+00:00",
+  "LastChanged_Achievements": "2023-11-09T20:10:01.4044295+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:09:29.8102551+00:00",
-  "LastUpdate_Achievements": "2023-11-09T19:16:33.8015866+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:03:23.2752488+00:00",
+  "LastUpdate_Achievements": "2023-11-09T20:10:01.404473+00:00"
 }

@@ -7,17 +7,17 @@ Rating: 4.59 (Ranked 432)
 | ---- | ---------- | ----- |
 | Azoria Beckons | 72.00% | ~5,502 |
 | A Thorny Situation | 70.00% | ~5,349 |
-| ... And Spit Back Out | 61.00% | ~4,661 |
-| Break-Net Speed | 49.00% | ~3,744 |
+| ... And Spit Back Out | 60.00% | ~4,585 |
+| Break-Net Speed | 49.00% | ~3,745 |
 | Bramble Breaker | 46.00% | ~3,515 |
 | Miner 49er | 43.00% | ~3,286 |
-| Humble Collector | 42.00% | ~3,209 |
+| Humble Collector | 42.00% | ~3,210 |
 | Calm Sailing | 36.00% | ~2,751 |
 | Open the Gate! | 34.00% | ~2,598 |
 | Mist Walker | 32.00% | ~2,445 |
 | Lumberjack | 27.00% | ~2,063 |
-| Oui, Chef! | 23.00% | ~1,757 |
-| Clear the Air | 18.00% | ~1,375 |
+| Oui, Chef! | 23.00% | ~1,758 |
+| Clear the Air | 18.00% | ~1,376 |
 | Botanical Breakthrough | 17.00% | ~1,299 |
 | Search for the Hairy Grell | 14.00% | ~1,070 |
 | Beach Comber | 14.00% | ~1,070 |
@@ -28,8 +28,8 @@ Rating: 4.59 (Ranked 432)
 | Rumble in the Jumble | 8.00% | ~611 |
 | Fanatical Farmer | 8.00% | ~611 |
 | Fae Farmer | 7.00% | ~535 |
-| Scattered Scroll Scrounger | 6.00% | ~458 |
-| Azorian Anniversary | 6.00% | ~458 |
+| Scattered Scroll Scrounger | 6.00% | ~459 |
+| Azorian Anniversary | 6.00% | ~459 |
 | I Now Pronounce You... | 5.00% | ~382 |
 | Chatty Neighbor | 4.00% | ~306 |
 | House Proud | 4.00% | ~306 |
@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 432)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,641 (Ranked 168)  
+Progressed: 7,642 (Ranked 168)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-06 | 7,594 | 1 |
 | 2023-11-07 | 7,620 | 1 |
 | 2023-11-08 | 7,630 | 1 |
-| 2023-11-09 | 7,641 | 1 |
+| 2023-11-09 | 7,642 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

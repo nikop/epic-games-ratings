@@ -5,25 +5,25 @@ Rating: 4.73 (Ranked 174)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,745 |
-| Newcomers | 79.00% | ~10,944 |
-| A Burden of Blood | 74.00% | ~10,251 |
-| Protector's Duty | 70.00% | ~9,697 |
+| Under a New Sun | 92.00% | ~12,746 |
+| Newcomers | 79.00% | ~10,945 |
+| A Burden of Blood | 74.00% | ~10,252 |
+| Protector's Duty | 70.00% | ~9,698 |
 | Alchemist | 69.00% | ~9,559 |
-| In our Wake | 68.00% | ~9,420 |
-| Leaving all Behind | 65.00% | ~9,004 |
+| In our Wake | 68.00% | ~9,421 |
+| Leaving all Behind | 65.00% | ~9,005 |
 | Felons | 62.00% | ~8,589 |
-| A Sea of Promises | 61.00% | ~8,450 |
+| A Sea of Promises | 61.00% | ~8,451 |
 | Tales and Revelations | 58.00% | ~8,035 |
-| Bloodline | 53.00% | ~7,342 |
+| Bloodline | 53.00% | ~7,343 |
 | The Cradle of Centuries | 49.00% | ~6,788 |
 | The Life We Deserve | 47.00% | ~6,511 |
-| Night guard | 44.00% | ~6,095 |
-| Nothing Left | 40.00% | ~5,541 |
-| Healing our Wounds | 38.00% | ~5,264 |
+| Night guard | 44.00% | ~6,096 |
+| Nothing Left | 40.00% | ~5,542 |
+| Healing our Wounds | 38.00% | ~5,265 |
 | Dying Sun | 34.00% | ~4,710 |
-| Improved crossbow | 27.00% | ~3,740 |
-| King Hugo | 25.00% | ~3,463 |
+| Improved crossbow | 27.00% | ~3,741 |
+| King Hugo | 25.00% | ~3,464 |
 | Mercy | 24.00% | ~3,325 |
 | Perfect shot | 23.00% | ~3,186 |
 | Effective instruments | 22.00% | ~3,048 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 174)
 | Old protector | 2.00% | ~277 |
 | Malignant | 1.00% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,853 (Ranked 148)  
+Progressed: 13,854 (Ranked 148)  
 Completed: 54 (0.39%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,14 +243,14 @@ Completed: 54 (0.39%) (Ranked 208)
 | 2023-11-06 | 13,807 | 52 |
 | 2023-11-07 | 13,824 | 53 |
 | 2023-11-08 | 13,841 | 54 |
-| 2023-11-09 | 13,853 | 54 |
+| 2023-11-09 | 13,854 | 54 |
 ## Awards
-Max (Great Boss Battles): 428  (Ranked 220)  
-Sum: 673 (Ranked 298)  
-Diff (max vs sum): -78  
+Max (Great Boss Battles): 429  (Ranked 219)  
+Sum: 674 (Ranked 298)  
+Diff (max vs sum): -79  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 428 |
+| This game has Great Boss Battles | 429 |
 | This game is Great for Beginners | 33 |
 | This game is Highly Recommended | 33 |
 | This game has Amazing Storytelling | 30 |
@@ -337,4 +337,4 @@ Diff (max vs sum): -78
 | 2023-11-05 | 4.73 | 428 | 669 |
 | 2023-11-06 | 4.73 | 428 | 670 |
 | 2023-11-08 | 4.73 | 428 | 672 |
-| 2023-11-09 | 4.73 | 428 | 673 |
+| 2023-11-09 | 4.73 | 429 | 674 |
