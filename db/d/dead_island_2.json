@@ -6285,9 +6285,9 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 715246,
+  "EOS_Progressed": 715255,
   "EOS_Completed": 2361,
-  "EOS_NewPlayers": 4744,
+  "EOS_NewPlayers": 4739,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29390,6 +29390,11 @@
       "Time": "2023-11-09T01:50:48.6632683+00:00",
       "NumProgressed": 715246,
       "NumCompleted": 2361
+    },
+    {
+      "Time": "2023-11-09T02:24:48.4858887+00:00",
+      "NumProgressed": 715255,
+      "NumCompleted": 2361
     }
   ],
   "TotalAchievements": 51,
@@ -29473,7 +29478,7 @@
       "Name": "On Safari",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ach_defensive",
@@ -29577,7 +29582,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ach_investigator",
@@ -29593,7 +29598,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ach_knock_down",
@@ -29641,7 +29646,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ach_revival_tour",
@@ -29657,7 +29662,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ach_secrets_of_la",
@@ -29705,7 +29710,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ach_thesacrifice",
@@ -29729,7 +29734,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -29737,7 +29742,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4291
+      "UsersEstimate": 4292
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29745,7 +29750,7 @@
       "Name": "Rising Star",
       "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "ach_well_trained",
@@ -29808,13 +29813,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715246,
+      "Progressed": 715255,
       "Completed": 2361
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40788,
+      "Progressed": 40797,
       "Completed": 36499
     }
   ],
@@ -29822,8 +29827,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-08T21:58:33.0229559+00:00",
-  "LastChanged_Achievements": "2023-11-09T01:50:48.6632678+00:00",
+  "LastChanged_Achievements": "2023-11-09T02:24:48.4858882+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-09T01:43:13.396109+00:00",
-  "LastUpdate_Achievements": "2023-11-09T01:50:48.6633829+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:17:07.0279067+00:00",
+  "LastUpdate_Achievements": "2023-11-09T02:24:48.4860133+00:00"
 }

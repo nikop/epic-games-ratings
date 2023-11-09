@@ -23,8 +23,8 @@
 | Lieutenant Colonel Baran | 9.00% | ~27 |
 | Colonel Baran | 7.00% | ~21 |
 | Brigadier General Baran | 6.00% | ~18 |
-| Lieutenant General Baran | 5.00% | ~15 |
-| EMERAID RAM | 4.00% | ~12 |
+| Lieutenant General Baran | 6.00% | ~18 |
+| EMERAID RAM | 5.00% | ~15 |
 | GOLDEN RAM | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 298 (Ranked 335)  

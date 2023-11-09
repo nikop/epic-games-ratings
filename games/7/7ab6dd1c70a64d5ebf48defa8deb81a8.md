@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~101 |
-| Trinity | 30.00% | ~52 |
+| Break Out | 59.00% | ~103 |
+| Trinity | 32.00% | ~56 |
 | Shatter Them All | 25.00% | ~44 |
 | I Found It | 25.00% | ~44 |
 | The Collector | 25.00% | ~44 |

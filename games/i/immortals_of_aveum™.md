@@ -5,7 +5,7 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~183 |
+| Unforeseen | 88.00% | ~185 |
 | Battlefields Have Memories | 82.00% | ~172 |
 | Enlisted | 79.00% | ~166 |
 | Maybe Engage a Little | 74.00% | ~155 |
@@ -15,7 +15,7 @@ Rating: 4.02 (Ranked 986)
 | Gravity-Challenged Rocks | 34.00% | ~71 |
 | Soldier | 29.00% | ~61 |
 | All the Major Food Groups | 28.00% | ~59 |
-| Socialite | 25.00% | ~52 |
+| Socialite | 26.00% | ~55 |
 | Beggars Would Ride | 25.00% | ~52 |
 | Control is an Illusion | 24.00% | ~50 |
 | The Means to Save It | 21.00% | ~44 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -814,9 +814,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 45681,
+  "EOS_Progressed": 45682,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 928,
+  "EOS_NewPlayers": 926,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23679,6 +23679,11 @@
       "Time": "2023-11-09T01:48:43.151108+00:00",
       "NumProgressed": 45681,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T02:22:47.0947369+00:00",
+      "NumProgressed": 45682,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -23842,7 +23847,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3654
+      "UsersEstimate": 3655
     },
     {
       "ID": "playerPaz",
@@ -23986,7 +23991,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3654
+      "UsersEstimate": 3655
     },
     {
       "ID": "windswept",
@@ -24001,15 +24006,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 45681,
+      "Progressed": 45682,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-05T18:00:57.4223088+00:00",
-  "LastChanged_Achievements": "2023-11-09T01:48:43.1511076+00:00",
+  "LastChanged_Achievements": "2023-11-09T02:22:47.0947366+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.4734423+00:00",
-  "LastUpdate_Ratings": "2023-11-09T01:42:27.0216101+00:00",
-  "LastUpdate_Achievements": "2023-11-09T01:48:43.1512691+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:16:26.6947114+00:00",
+  "LastUpdate_Achievements": "2023-11-09T02:22:47.0948876+00:00"
 }

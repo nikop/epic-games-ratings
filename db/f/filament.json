@@ -300,9 +300,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 204928,
+  "EOS_Progressed": 204929,
   "EOS_Completed": 525,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -22020,6 +22020,11 @@
       "Time": "2023-11-09T01:50:10.1836743+00:00",
       "NumProgressed": 204928,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-11-09T02:24:11.104671+00:00",
+      "NumProgressed": 204929,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 29,
@@ -22055,7 +22060,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192632
+      "UsersEstimate": 192633
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -22063,7 +22068,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -22127,7 +22132,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -22262,7 +22267,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 204928,
+      "Progressed": 204929,
       "Completed": 525
     }
   ],
@@ -22270,8 +22275,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-04T17:58:09.1318446+00:00",
-  "LastChanged_Achievements": "2023-11-09T01:50:10.1836736+00:00",
+  "LastChanged_Achievements": "2023-11-09T02:24:11.1046705+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.2818735+00:00",
-  "LastUpdate_Ratings": "2023-11-09T01:44:18.6030035+00:00",
-  "LastUpdate_Achievements": "2023-11-09T01:50:10.1838129+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:18:13.6471491+00:00",
+  "LastUpdate_Achievements": "2023-11-09T02:24:11.1048235+00:00"
 }

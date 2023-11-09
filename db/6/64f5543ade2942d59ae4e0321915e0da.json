@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -386,9 +386,9 @@
       "ID": "AC_FLASHBACK_02",
       "SetID": "16i2akc",
       "Name": "Demise",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -466,9 +466,9 @@
       "ID": "AC_SHOTGUN_MAX",
       "SetID": "16i2akc",
       "Name": "Shot",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -497,8 +497,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:11:52.7861252+00:00",
+  "LastChanged_Achievements": "2023-11-09T02:21:52.5362283+00:00",
   "LastUpdate_AppInfo": "2023-11-07T16:57:12.9013304+00:00",
-  "LastUpdate_Ratings": "2023-11-09T01:42:01.0164815+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:11:52.7861584+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:16:01.8954367+00:00",
+  "LastUpdate_Achievements": "2023-11-09T02:21:52.5362641+00:00"
 }

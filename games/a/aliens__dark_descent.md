@@ -27,7 +27,7 @@ Rating: 4.49 (Ranked 606)
 | Omelette Du Fromage | 33.00% | ~1,198 |
 | The Darwin Era Was Here | 30.00% | ~1,089 |
 | Deep Into Insanity | 29.00% | ~1,053 |
-| The Passenger | 28.00% | ~1,017 |
+| The Passenger | 29.00% | ~1,053 |
 | Come on, You Wanna Live Forever? | 27.00% | ~980 |
 | The Spire | 26.00% | ~944 |
 | El Riesgo Siempre Vive | 25.00% | ~908 |
@@ -191,12 +191,12 @@ Completed: 3 (0.08%) (Ranked 284)
 | 2023-11-07 | 3,628 | 3 |
 | 2023-11-08 | 3,631 | 3 |
 ## Awards
-Max (Great Boss Battles): 33  (Ranked 480)  
-Sum: 33 (Ranked 506)  
+Max (Great Boss Battles): 34  (Ranked 475)  
+Sum: 34 (Ranked 501)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 33 |
+| This game has Great Boss Battles | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -252,3 +252,4 @@ Diff (max vs sum): -26
 | 2023-10-15 | 4.48 | 32 | 32 |
 | 2023-10-22 | 4.48 | 33 | 33 |
 | 2023-11-01 | 4.49 | 33 | 33 |
+| 2023-11-09 | 4.49 | 34 | 34 |

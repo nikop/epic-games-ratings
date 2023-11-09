@@ -3,12 +3,12 @@
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
   "Ranking_Rating": 606,
-  "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 506,
+  "Ranking_Popularity": 475,
+  "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -355,18 +355,24 @@
       "Rating": 4.49,
       "NumberOfAwards": 33,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-11-09T02:16:14.1164806+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 34,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33,
-  "NumberOfAwardsMax": 33,
+  "NumberOfAwards": 34,
+  "NumberOfAwardsMax": 34,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 33
+      "Count": 34
     }
   ],
   "EOS_Progressed": 3631,
@@ -5954,9 +5960,9 @@
       "ID": "ACH_MISSION_09",
       "SetID": "816efe",
       "Name": "The Passenger",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1053
     },
     {
       "ID": "ACH_MISSION_10",
@@ -6066,9 +6072,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-11-01T20:58:36.9657779+00:00",
-  "LastChanged_Achievements": "2023-11-09T01:50:07.9798521+00:00",
+  "LastChanged": "2023-11-09T02:16:14.1164804+00:00",
+  "LastChanged_Achievements": "2023-11-09T02:24:09.0562463+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-09T01:42:13.1213927+00:00",
-  "LastUpdate_Achievements": "2023-11-09T01:50:07.979905+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:16:14.1164808+00:00",
+  "LastUpdate_Achievements": "2023-11-09T02:24:09.056309+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3328,7 +3328,7 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 239390,
+  "EOS_Progressed": 239391,
   "EOS_Completed": 287,
   "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 1,
@@ -24348,6 +24348,11 @@
       "Time": "2023-11-09T01:54:05.2830058+00:00",
       "NumProgressed": 239390,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-09T02:28:11.2480351+00:00",
+      "NumProgressed": 239391,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 138,
@@ -25413,7 +25418,7 @@
       "ID": "KILLBOSSINDIRECTLY",
       "SetID": "1peahb6",
       "Name": "Not Touching You",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -25453,22 +25458,22 @@
       "ID": "WEARSAMESETINSLOTS",
       "SetID": "1peahb6",
       "Name": "Matching",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239390,
+      "Progressed": 239391,
       "Completed": 287
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 870,
+      "Progressed": 871,
       "Completed": 373
     }
   ],
@@ -25476,8 +25481,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-08T13:07:48.8922242+00:00",
-  "LastChanged_Achievements": "2023-11-09T01:54:05.2830052+00:00",
+  "LastChanged_Achievements": "2023-11-09T02:28:11.2480346+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-09T01:47:39.9836701+00:00",
-  "LastUpdate_Achievements": "2023-11-09T01:54:05.2832583+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:21:44.5324912+00:00",
+  "LastUpdate_Achievements": "2023-11-09T02:28:11.248292+00:00"
 }

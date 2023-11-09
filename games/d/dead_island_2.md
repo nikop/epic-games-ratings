@@ -8,7 +8,7 @@ Rating: 4.54 (Ranked 523)
 | Whatever It Takes | 2.00% | ~816 |
 | One of Us | 1.00% | ~408 |
 | Pork Chopped | 1.00% | ~408 |
-| Welcome To Hell-A | 0.60% | ~4,291 |
+| Welcome To Hell-A | 0.60% | ~4,292 |
 | Break A Leg | 0.50% | ~3,576 |
 | Coup de Grâce | 0.50% | ~3,576 |
 | Hotel California | 0.50% | ~3,576 |
@@ -36,14 +36,14 @@ Rating: 4.54 (Ranked 523)
 | I Am the Resurrection | 0.30% | ~2,146 |
 | Max Headroom | 0.30% | ~2,146 |
 | Our True Nature | 0.30% | ~2,146 |
-| On Safari | 0.20% | ~1,430 |
-| Internet Famous | 0.20% | ~1,430 |
-| Jumbo Keyring | 0.20% | ~1,430 |
-| Humanity Distilled | 0.20% | ~1,430 |
-| Down with the Sickness | 0.20% | ~1,430 |
-| Go, Bobcats! | 0.20% | ~1,430 |
-| Variety is the Spice of Death | 0.20% | ~1,430 |
-| Rising Star | 0.20% | ~1,430 |
+| On Safari | 0.20% | ~1,431 |
+| Internet Famous | 0.20% | ~1,431 |
+| Jumbo Keyring | 0.20% | ~1,431 |
+| Humanity Distilled | 0.20% | ~1,431 |
+| Down with the Sickness | 0.20% | ~1,431 |
+| Go, Bobcats! | 0.20% | ~1,431 |
+| Variety is the Spice of Death | 0.20% | ~1,431 |
+| Rising Star | 0.20% | ~1,431 |
 | Top That, Tisha! | 0.20% | ~82 |
 | Make it So | 0.10% | ~715 |
 | LA Influential | 0.10% | ~715 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,246 (Ranked 21)  
+Progressed: 715,255 (Ranked 21)  
 Completed: 2,361 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 2,361 (0.33%) (Ranked 219)
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
-| 2023-11-09 | 715,246 | 2,361 |
+| 2023-11-09 | 715,255 | 2,361 |
 ## Awards
 Max (Great Boss Battles): 7,208  (Ranked 54)  
 Sum: 10,930 (Ranked 87)  

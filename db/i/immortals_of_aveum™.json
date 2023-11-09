@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1021,9 +1021,9 @@
       "ID": "achievement_1",
       "SetID": "18al4io",
       "Name": "Unforeseen",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 185
     },
     {
       "ID": "achievement_10",
@@ -1101,9 +1101,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_2",
@@ -1406,8 +1406,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-09T01:50:23.0265369+00:00",
+  "LastChanged_Achievements": "2023-11-09T02:24:23.6045115+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-09T01:42:31.7284384+00:00",
-  "LastUpdate_Achievements": "2023-11-09T01:50:23.0265712+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:16:31.3392557+00:00",
+  "LastUpdate_Achievements": "2023-11-09T02:24:23.604544+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 469)
 Number of Ratings: 10,807  (23.09.2022)  
 ## Awards
 Max (Character Customization): 8,171  (Ranked 45)  
-Sum: 19,864 (Ranked 58)  
+Sum: 19,865 (Ranked 58)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -14,7 +14,7 @@ Diff (max vs sum): -13
 | This game has Challenging Combat | 907 |
 | This game is Highly Recommended | 896 |
 | This game is Extremely Fun | 890 |
-| This game has Diverse Characters | 880 |
+| This game has Diverse Characters | 881 |
 | This game has Amazing Storytelling | 868 |
 | This game has Amazing Characters | 835 |
 | This game has Unique Visuals | 742 |
@@ -310,3 +310,4 @@ Diff (max vs sum): -13
 | 2023-11-06 | 4.57 | - | 8,158 | 19,821 |
 | 2023-11-07 | 4.57 | - | 8,166 | 19,847 |
 | 2023-11-08 | 4.57 | - | 8,171 | 19,864 |
+| 2023-11-09 | 4.57 | - | 8,171 | 19,865 |

@@ -6,17 +6,17 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 75.00% | ~38,480 |
-| I read Shakespeare and stuff | 64.00% | ~32,836 |
-| Just a sprinkle | 62.00% | ~31,810 |
-| I'm stumped | 61.00% | ~31,297 |
-| Plant get enough | 60.00% | ~30,784 |
-| This is just my weekend vehicle | 58.00% | ~29,758 |
-| It's just the beginning | 58.00% | ~29,758 |
+| Own use | 75.00% | ~38,481 |
+| I read Shakespeare and stuff | 64.00% | ~32,837 |
+| Just a sprinkle | 62.00% | ~31,811 |
+| I'm stumped | 61.00% | ~31,298 |
+| Plant get enough | 60.00% | ~30,785 |
+| This is just my weekend vehicle | 58.00% | ~29,759 |
+| It's just the beginning | 58.00% | ~29,759 |
 | Hard work pays off | 53.00% | ~27,193 |
 | It's never too late to farm | 51.00% | ~26,167 |
-| All out of Land | 45.00% | ~23,088 |
-| Field Trip | 44.00% | ~22,575 |
+| All out of Land | 45.00% | ~23,089 |
+| Field Trip | 44.00% | ~22,576 |
 | I like to switch it up | 40.00% | ~20,523 |
 | Help me to help you | 38.00% | ~19,497 |
 | Ultimutt Pawesomeness | 28.00% | ~14,366 |
@@ -34,7 +34,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | Highly cultivated | 11.00% | ~5,644 |
 | It's sow easy | 11.00% | ~5,644 |
 | Giddy-up! | 10.00% | ~5,131 |
-| Cowherd | 7.00% | ~3,591 |
+| Cowherd | 7.00% | ~3,592 |
 | Fluffyness | 6.00% | ~3,078 |
 | Road Trip | 6.00% | ~3,078 |
 | Helper A does not stop … ever | 6.00% | ~3,078 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~205 |
 | Raisin the stakes | 0.30% | ~154 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,307 (Ranked 109)  
+Progressed: 51,308 (Ranked 109)  
 Completed: 6 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 6 (0.01%) (Ranked 321)
 | 2023-11-06 | 51,225 | 6 |
 | 2023-11-07 | 51,265 | 6 |
 | 2023-11-08 | 51,305 | 6 |
-| 2023-11-09 | 51,307 | 6 |
+| 2023-11-09 | 51,308 | 6 |
 ## Awards
 Max (Great for Beginners): 5,438  (Ranked 70)  
 Sum: 42,371 (Ranked 33)  

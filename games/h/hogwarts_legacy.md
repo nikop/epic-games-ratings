@@ -11,12 +11,12 @@ Rating: 4.76 (Ranked 124)
 | A Keen Sense of Spell | 13.00% | ~39,224 |
 | A Talent for Spending | 12.00% | ~36,207 |
 | That's a Keeper | 12.00% | ~36,207 |
-| Grappling with a Graphorn | 11.00% | ~33,189 |
-| The One Who Mastered Memories | 11.00% | ~33,189 |
-| The Hallowed Hero | 11.00% | ~33,189 |
-| The Defender of Dragons | 11.00% | ~33,189 |
-| Loom for Improvement | 11.00% | ~33,189 |
-| Coasting Along | 11.00% | ~33,189 |
+| Grappling with a Graphorn | 11.00% | ~33,190 |
+| The One Who Mastered Memories | 11.00% | ~33,190 |
+| The Hallowed Hero | 11.00% | ~33,190 |
+| The Defender of Dragons | 11.00% | ~33,190 |
+| Loom for Improvement | 11.00% | ~33,190 |
+| Coasting Along | 11.00% | ~33,190 |
 | The Hero of Hogwarts | 10.00% | ~30,172 |
 | Challenge Accepted | 10.00% | ~30,172 |
 | Followed the Butterflies | 10.00% | ~30,172 |
@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 124)
 | A Forte for Achievement | 2.00% | ~6,034 |
 | Savvy Spender | 1.00% | ~3,017 |
 | Merlin's Beard! | 1.00% | ~3,017 |
-| Spilled Milk | 0.90% | ~2,715 |
+| Spilled Milk | 0.90% | ~2,716 |
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,722 (Ranked 50)  
+Progressed: 301,724 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 505 (0.17%) (Ranked 251)
 | 2023-11-06 | 301,400 | 502 |
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
-| 2023-11-09 | 301,722 | 505 |
+| 2023-11-09 | 301,724 | 505 |
 ## Awards
 Max (Character Customization): 24,144  (Ranked 17)  
 Sum: 47,723 (Ranked 30)  

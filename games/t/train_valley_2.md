@@ -6,29 +6,29 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~302,455 |
-| Full garage | 61.00% | ~252,736 |
-| To the eyeballs! | 51.00% | ~211,304 |
-| Individual delivery | 46.00% | ~190,588 |
-| Non-Stop | 45.00% | ~186,445 |
-| Juggler | 36.00% | ~149,156 |
+| Dealmaker | 73.00% | ~302,457 |
+| Full garage | 61.00% | ~252,738 |
+| To the eyeballs! | 51.00% | ~211,305 |
+| Individual delivery | 46.00% | ~190,589 |
+| Non-Stop | 45.00% | ~186,446 |
+| Juggler | 36.00% | ~149,157 |
 | Forgot something | 35.00% | ~145,013 |
 | Close call! | 30.00% | ~124,297 |
-| Get out my way | 28.00% | ~116,010 |
+| Get out my way | 28.00% | ~116,011 |
 | Common cause | 26.00% | ~107,724 |
 | Critical care | 26.00% | ~107,724 |
-| Mega-railroad | 23.00% | ~95,294 |
-| Upgrade complete | 23.00% | ~95,294 |
+| Mega-railroad | 23.00% | ~95,295 |
+| Upgrade complete | 23.00% | ~95,295 |
 | Just in time! | 18.00% | ~74,578 |
 | Builder | 17.00% | ~70,435 |
 | Long Haul | 17.00% | ~70,323 |
 | Steam Age | 16.00% | ~66,292 |
-| Multilevel road | 15.00% | ~62,148 |
+| Multilevel road | 15.00% | ~62,149 |
 | Bridgemania | 14.00% | ~58,005 |
 | Need to think | 14.00% | ~58,005 |
 | The Tortoise | 12.00% | ~49,719 |
-| Beginner | 11.00% | ~45,575 |
-| Without a lunch break | 11.00% | ~45,575 |
+| Beginner | 11.00% | ~45,576 |
+| Without a lunch break | 11.00% | ~45,576 |
 | One way | 10.00% | ~41,432 |
 | Relocation | 10.00% | ~41,432 |
 | Industrial Age | 9.00% | ~37,289 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~414 |
 | World Zapper | 0.10% | ~414 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 414,322 (Ranked 43)  
+Progressed: 414,324 (Ranked 43)  
 Completed: 21 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,11 +261,11 @@ Completed: 21 (0.01%) (Ranked 321)
 | 2023-11-06 | 413,826 | 21 |
 | 2023-11-07 | 414,068 | 21 |
 | 2023-11-08 | 414,296 | 21 |
-| 2023-11-09 | 414,322 | 21 |
+| 2023-11-09 | 414,324 | 21 |
 ## Awards
 Max (Challenging Puzzles): 863  (Ranked 161)  
-Sum: 1,728 (Ranked 216)  
-Diff (max vs sum): -55  
+Sum: 1,728 (Ranked 217)  
+Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 863 |

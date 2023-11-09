@@ -39,7 +39,7 @@
 | Canyon of Karakuri | 26.00% | ~63 |
 | Style Seeker | 26.00% | ~63 |
 | Karakuri Minato | 26.00% | ~63 |
-| Threaded Harmony | 24.00% | ~58 |
+| Threaded Harmony | 25.00% | ~61 |
 | Jack of All Trades | 23.00% | ~56 |
 | Karakuri Fortress | 22.00% | ~53 |
 | Quintessence of Form | 22.00% | ~53 |

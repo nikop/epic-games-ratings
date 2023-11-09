@@ -1314,9 +1314,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27924,
+  "EOS_Progressed": 27926,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23064,6 +23064,11 @@
       "Time": "2023-11-09T01:53:35.7440561+00:00",
       "NumProgressed": 27924,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-11-09T02:27:41.9616506+00:00",
+      "NumProgressed": 27926,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 22,
@@ -23083,7 +23088,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "1017",
@@ -23091,7 +23096,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "1018",
@@ -23123,7 +23128,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "1022",
@@ -23131,7 +23136,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "1023",
@@ -23155,7 +23160,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "1026",
@@ -23179,7 +23184,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "1029",
@@ -23203,7 +23208,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3909
+      "UsersEstimate": 3910
     },
     {
       "ID": "1032",
@@ -23250,15 +23255,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27924,
+      "Progressed": 27926,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-09T01:53:35.7440555+00:00",
+  "LastChanged_Achievements": "2023-11-09T02:27:41.9616491+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0319052+00:00",
-  "LastUpdate_Ratings": "2023-11-09T01:47:44.5259654+00:00",
-  "LastUpdate_Achievements": "2023-11-09T01:53:35.7442157+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:21:48.2309892+00:00",
+  "LastUpdate_Achievements": "2023-11-09T02:27:41.9617538+00:00"
 }
