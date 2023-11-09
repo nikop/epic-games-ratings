@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4757,
+  "EOS_Progressed": 4758,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8955,6 +8955,11 @@
       "Time": "2023-11-09T19:16:46.0084232+00:00",
       "NumProgressed": 4757,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-09T21:09:33.6229465+00:00",
+      "NumProgressed": 4758,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9015,7 +9020,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1189
+      "UsersEstimate": 1190
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9087,7 +9092,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9150,15 +9155,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4757,
+      "Progressed": 4758,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-09T20:10:13.2839778+00:00",
+  "LastChanged_Achievements": "2023-11-09T21:09:33.6229456+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-09T20:03:27.8501635+00:00",
-  "LastUpdate_Achievements": "2023-11-09T20:10:13.2840468+00:00"
+  "LastUpdate_Ratings": "2023-11-09T21:02:52.5282209+00:00",
+  "LastUpdate_Achievements": "2023-11-09T21:09:33.6230134+00:00"
 }

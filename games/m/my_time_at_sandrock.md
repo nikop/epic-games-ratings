@@ -6,39 +6,39 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 223.00% | ~642 |
+| Adept Assembler | 224.00% | ~645 |
 | Iron Chef | 179.00% | ~516 |
 | Greeno-B-Gone | 110.00% | ~317 |
 | Your Especially Earned Trajectory | 89.00% | ~256 |
-| No Mountain Wide Enough | 56.00% | ~161 |
+| No Mountain Wide Enough | 57.00% | ~164 |
 | On that Grindset | 55.00% | ~158 |
 | Can We Keep It? | 55.00% | ~158 |
 | Pack Mule | 43.00% | ~124 |
-| Diamonds are Forever | 42.00% | ~121 |
+| Diamonds are Forever | 43.00% | ~124 |
+| Yakmel Whisperer | 40.00% | ~115 |
 | My Time Mansion | 39.00% | ~112 |
 | Financially Secure | 39.00% | ~112 |
-| Yakmel Whisperer | 39.00% | ~112 |
 | Unboxing | 38.00% | ~109 |
 | Knowledge is Power | 35.00% | ~101 |
 | Big Game Hunter | 35.00% | ~101 |
+| Mole Masher | 35.00% | ~101 |
 | Happier-est Place on Earth | 34.00% | ~98 |
 | Got Served | 34.00% | ~98 |
 | One of the Cool Kids | 34.00% | ~98 |
-| Mole Masher | 34.00% | ~98 |
 | Call Me Fishmael | 34.00% | ~98 |
+| You Don't Win Friends With Salad | 33.00% | ~95 |
 | Better Late than Never | 32.00% | ~92 |
-| You Don't Win Friends With Salad | 32.00% | ~92 |
 | What Plants Crave | 31.00% | ~89 |
 | Anti-Santa | 31.00% | ~89 |
 | I Do! | 31.00% | ~89 |
+| Officially Official | 30.00% | ~86 |
 | Chatterbox | 30.00% | ~86 |
-| Officially Official | 29.00% | ~84 |
 | Finishing Touches | 28.00% | ~81 |
-| First Love | 25.00% | ~72 |
+| First Love | 26.00% | ~75 |
 | Panda-kin | 24.00% | ~69 |
 | Jewel of the Eufaula | 23.00% | ~66 |
+| Who Ya Gonna Call...? | 23.00% | ~66 |
 | Builder of the Month | 22.00% | ~63 |
-| Who Ya Gonna Call...? | 22.00% | ~63 |
 | Bridging the Gap | 21.00% | ~60 |
 | He Can Spin A Yarn... | 20.00% | ~58 |
 | Waste Not Want Not | 19.00% | ~55 |
@@ -49,15 +49,15 @@ Number of Ratings: 892  (23.09.2022)
 | Newton | 16.00% | ~46 |
 | Got the Flow Back | 15.00% | ~43 |
 | Kind of a Big Deal | 14.00% | ~40 |
+| Just What I Always Wanted! | 14.00% | ~40 |
 | Do Your Part | 14.00% | ~40 |
-| Just What I Always Wanted! | 13.00% | ~37 |
 | Time Flies | 11.00% | ~32 |
 | Santa In Training | 11.00% | ~32 |
+| It Belongs in a Museum! | 11.00% | ~32 |
+| Sepia Toned Memories | 10.00% | ~29 |
 | Cardistry | 10.00% | ~29 |
 | Pro Gamer | 10.00% | ~29 |
-| It Belongs in a Museum! | 10.00% | ~29 |
-| Sepia Toned Memories | 9.00% | ~26 |
-| Sandrunning Speedster | 9.00% | ~26 |
+| Sandrunning Speedster | 10.00% | ~29 |
 | Jack of All Trades | 7.00% | ~20 |
 | It's High Noon... | 6.00% | ~17 |
 | Got the Receipt? | 6.00% | ~17 |

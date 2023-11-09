@@ -5,32 +5,32 @@ Rating: 4.39 (Ranked 746)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 11.00% | ~1,923 |
-| Sector 2 | 10.00% | ~1,748 |
-| Crush That Cube! | 9.00% | ~1,573 |
-| Sector 3 | 8.00% | ~1,399 |
-| Crush That Ball! | 7.00% | ~1,224 |
-| Sector 4 | 7.00% | ~1,224 |
-| Sector 5 | 5.00% | ~874 |
-| Sector 6 | 4.00% | ~699 |
-| Feeling the Blues | 3.00% | ~524 |
-| Squished | 3.00% | ~524 |
-| Finale | 3.00% | ~524 |
-| Sector 7 | 3.00% | ~524 |
+| Sector 1 | 11.00% | ~1,925 |
+| Sector 2 | 10.00% | ~1,750 |
+| Crush That Cube! | 9.00% | ~1,575 |
+| Sector 3 | 8.00% | ~1,400 |
+| Crush That Ball! | 7.00% | ~1,225 |
+| Sector 4 | 7.00% | ~1,225 |
+| Sector 5 | 5.00% | ~875 |
+| Sector 6 | 4.00% | ~700 |
+| Feeling the Blues | 3.00% | ~525 |
+| Squished | 3.00% | ~525 |
+| Finale | 3.00% | ~525 |
+| Sector 7 | 3.00% | ~525 |
 | Did That Work? -- No! | 2.00% | ~350 |
 | The Puzzle Master | 1.00% | ~175 |
 | Master Room | 1.00% | ~175 |
 | Bronze Trophy | 0.80% | ~140 |
 | Phew! | 0.80% | ~140 |
 | Completed It. | 0.80% | ~140 |
-| The Collector | 0.70% | ~122 |
-| Master Of The Collectables | 0.70% | ~122 |
-| Gold Trophy | 0.70% | ~122 |
-| Hopefully that's all of them! | 0.70% | ~122 |
-| Silver Trophy | 0.70% | ~122 |
-| Maxed Out | 0.70% | ~122 |
+| The Collector | 0.70% | ~123 |
+| Master Of The Collectables | 0.70% | ~123 |
+| Gold Trophy | 0.70% | ~123 |
+| Hopefully that's all of them! | 0.70% | ~123 |
+| Silver Trophy | 0.70% | ~123 |
+| Maxed Out | 0.70% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,482 (Ranked 139)  
+Progressed: 17,503 (Ranked 139)  
 Completed: 38 (0.22%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 38 (0.22%) (Ranked 236)
 | 2023-11-06 | 16,699 | 28 |
 | 2023-11-07 | 16,971 | 30 |
 | 2023-11-08 | 17,246 | 34 |
-| 2023-11-09 | 17,482 | 38 |
+| 2023-11-09 | 17,503 | 38 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

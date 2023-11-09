@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 5.00% | ~761 |
-| Settler | 5.00% | ~761 |
-| Play a Single Player Game | 5.00% | ~761 |
+| Explorer | 5.00% | ~762 |
+| Settler | 5.00% | ~762 |
+| Play a Single Player Game | 5.00% | ~762 |
 | Intrepid | 4.00% | ~609 |
 | Friendly Family | 4.00% | ~609 |
 | Able | 3.00% | ~457 |
@@ -29,6 +29,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 3.00% | ~457 |
 | Pyramids | 3.00% | ~457 |
 | Judaism | 3.00% | ~457 |
+| Greek Paganism | 3.00% | ~457 |
 | Naming Landmarks | 3.00% | ~457 |
 | Trade Caravan | 3.00% | ~457 |
 | Regicide | 2.00% | ~305 |
@@ -61,7 +62,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonian Paganism | 2.00% | ~305 |
 | Carthaginian Paganism | 2.00% | ~305 |
 | Egyptian Paganism | 2.00% | ~305 |
-| Greek Paganism | 2.00% | ~305 |
 | Roman Paganism | 2.00% | ~305 |
 | Zoroastrianism | 2.00% | ~305 |
 | Mythology | 2.00% | ~305 |
@@ -154,6 +154,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.40% | ~61 |
 | Persia | 0.40% | ~61 |
 | Pantheon of Gods | 0.40% | ~61 |
+| Play a Network Game | 0.40% | ~61 |
 | Capturing Cities | 0.40% | ~61 |
 | Three Man Chariot | 0.40% | ~61 |
 | Siege Tower | 0.40% | ~61 |
@@ -170,7 +171,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Run, Pheidippides, Run! | 0.30% | ~46 |
 | Nenikekamen | 0.30% | ~46 |
 | Assyria | 0.30% | ~46 |
-| Play a Network Game | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
 | Necropolis in Waset | 0.30% | ~46 |
 | Prosperous Kmt | 0.30% | ~46 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,228 (Ranked 145)  
+Progressed: 15,230 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,11 +552,11 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-06 | 15,191 | 5 |
 | 2023-11-07 | 15,201 | 5 |
 | 2023-11-08 | 15,218 | 5 |
-| 2023-11-09 | 15,228 | 5 |
+| 2023-11-09 | 15,230 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 272)  
-Sum: 1,872 (Ranked 212)  
-Diff (max vs sum): 60  
+Sum: 1,872 (Ranked 213)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 226 |

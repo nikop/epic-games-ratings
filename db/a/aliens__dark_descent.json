@@ -375,9 +375,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 3639,
+  "EOS_Progressed": 3640,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5730,6 +5730,11 @@
       "Time": "2023-11-09T18:06:49.8003084+00:00",
       "NumProgressed": 3639,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-09T21:06:29.6298295+00:00",
+      "NumProgressed": 3640,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5821,7 +5826,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -5837,7 +5842,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5861,7 +5866,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -5901,7 +5906,7 @@
       "Name": "Bandage Lover",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -5957,7 +5962,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5973,7 +5978,7 @@
       "Name": "Living Nightmare",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACH_MISSION_07",
@@ -5989,7 +5994,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ACH_MISSION_09",
@@ -6037,7 +6042,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6053,7 +6058,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -6069,7 +6074,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1528
+      "UsersEstimate": 1529
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -6077,7 +6082,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -6085,7 +6090,7 @@
       "Name": "The More The Merrier",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -6093,14 +6098,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3639,
+      "Progressed": 3640,
       "Completed": 3
     }
   ],
@@ -6108,8 +6113,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-09T02:16:14.1164804+00:00",
-  "LastChanged_Achievements": "2023-11-09T20:07:01.3276587+00:00",
+  "LastChanged_Achievements": "2023-11-09T21:06:29.6298289+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:58:32.8656187+00:00",
-  "LastUpdate_Achievements": "2023-11-09T20:07:01.3277353+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:58:13.5623287+00:00",
+  "LastUpdate_Achievements": "2023-11-09T21:06:29.6299165+00:00"
 }

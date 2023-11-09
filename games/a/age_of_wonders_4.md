@@ -11,8 +11,11 @@ Rating: 4.61 (Ranked 385)
 | Walls Cannot Stop Us | 0.30% | ~16 |
 | Freed Lands of Manuhari | 0.30% | ~16 |
 | A Wonderful Discovery | 0.20% | ~11 |
+| Bone Peddler | 0.20% | ~11 |
+| From Friends to Family | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
 | Mighty Hoard | 0.20% | ~11 |
+| Chaos Surge | 0.20% | ~11 |
 | A Conqueror's Cohort | 0.20% | ~11 |
 | Spoils of War | 0.20% | ~11 |
 | Valley of Wonders | 0.10% | ~5 |
@@ -26,9 +29,7 @@ Rating: 4.61 (Ranked 385)
 | Enchanted Archipelago | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
-| Bone Peddler | 0.10% | ~5 |
 | Digging for Treasure | 0.10% | ~5 |
-| From Friends to Family | 0.10% | ~5 |
 | Stronger Together | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
@@ -52,7 +53,6 @@ Rating: 4.61 (Ranked 385)
 | Duality | 0.10% | ~5 |
 | Sehiran Oasis | 0.10% | ~5 |
 | Prometheus Avenged | 0.10% | ~5 |
-| Chaos Surge | 0.10% | ~5 |
 | Seal the Deal | 0.10% | ~5 |
 | Dawn of the Dread | 0.10% | ~5 |
 | A Very Special Ring | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 385)
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,309 (Ranked 183)  
+Progressed: 5,310 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-06 | 5,276 | 7 |
 | 2023-11-07 | 5,285 | 7 |
 | 2023-11-08 | 5,299 | 7 |
-| 2023-11-09 | 5,309 | 7 |
+| 2023-11-09 | 5,310 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 474)  

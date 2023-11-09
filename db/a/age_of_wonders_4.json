@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -429,9 +429,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5309,
+  "EOS_Progressed": 5310,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6799,6 +6799,11 @@
       "Time": "2023-11-09T18:08:01.5303484+00:00",
       "NumProgressed": 5309,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-09T21:07:42.1442313+00:00",
+      "NumProgressed": 5310,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6952,9 +6957,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "27",
@@ -6968,9 +6973,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "29",
@@ -7232,9 +7237,9 @@
       "ID": "54",
       "SetID": "7132754",
       "Name": "Chaos Surge",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "55",
@@ -7289,13 +7294,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5309,
+      "Progressed": 5310,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5309,
+      "Progressed": 5310,
       "Completed": 7
     }
   ],
@@ -7303,8 +7308,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-09T11:59:25.9904404+00:00",
-  "LastChanged_Achievements": "2023-11-09T20:08:43.1399631+00:00",
+  "LastChanged_Achievements": "2023-11-09T21:07:42.1442307+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-09T20:00:41.7961905+00:00",
-  "LastUpdate_Achievements": "2023-11-09T20:08:43.1401197+00:00"
+  "LastUpdate_Ratings": "2023-11-09T21:00:26.8526057+00:00",
+  "LastUpdate_Achievements": "2023-11-09T21:07:42.144366+00:00"
 }

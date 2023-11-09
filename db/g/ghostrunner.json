@@ -1359,9 +1359,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22242,
+  "EOS_Progressed": 22243,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -23504,6 +23504,11 @@
       "Time": "2023-11-09T20:06:38.6328867+00:00",
       "NumProgressed": 22242,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-11-09T21:06:05.9879177+00:00",
+      "NumProgressed": 22243,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 45,
@@ -23619,7 +23624,7 @@
       "Name": "Improvise, adapt, overrun",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 2891
+      "UsersEstimate": 2892
     },
     {
       "ID": "Junkrunner",
@@ -23651,7 +23656,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 16904
+      "UsersEstimate": 16905
     },
     {
       "ID": "MoreThanHuman",
@@ -23667,7 +23672,7 @@
       "Name": "Control freak",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6005
+      "UsersEstimate": 6006
     },
     {
       "ID": "ObedientMachine",
@@ -23699,7 +23704,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 9786
+      "UsersEstimate": 9787
     },
     {
       "ID": "Perfection",
@@ -23707,7 +23712,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 7117
+      "UsersEstimate": 7118
     },
     {
       "ID": "PreempativeStrike",
@@ -23747,7 +23752,7 @@
       "Name": "Running Wild",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 6005
+      "UsersEstimate": 6006
     },
     {
       "ID": "Scrapped",
@@ -23835,7 +23840,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 11788
+      "UsersEstimate": 11789
     },
     {
       "ID": "WaveOfMutilation",
@@ -23874,21 +23879,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22242,
+      "Progressed": 22243,
       "Completed": 55
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22242,
+      "Progressed": 22243,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-07T02:19:41.4454124+00:00",
-  "LastChanged_Achievements": "2023-11-09T20:06:38.6328862+00:00",
+  "LastChanged_Achievements": "2023-11-09T21:06:05.9879171+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.493479+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:58:33.0270316+00:00",
-  "LastUpdate_Achievements": "2023-11-09T20:06:38.6339259+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:58:13.7354087+00:00",
+  "LastUpdate_Achievements": "2023-11-09T21:06:05.9882125+00:00"
 }

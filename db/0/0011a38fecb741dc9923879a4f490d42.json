@@ -157,9 +157,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "631i43e",
       "Name": "Might Show Up",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -245,9 +245,9 @@
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "631i43e",
       "Name": "Watch Your Back",
-      "Percentage": 36,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -309,17 +309,17 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "631i43e",
       "Name": "Just A Little Taste",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "631i43e",
       "Name": "White Knuckles",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -628,8 +628,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-11-09T20:07:45.9648347+00:00",
+  "LastChanged_Achievements": "2023-11-09T21:07:14.6584228+00:00",
   "LastUpdate_AppInfo": "2023-11-08T16:57:13.5237514+00:00",
-  "LastUpdate_Ratings": "2023-11-09T20:03:25.7996159+00:00",
-  "LastUpdate_Achievements": "2023-11-09T20:07:45.9649002+00:00"
+  "LastUpdate_Ratings": "2023-11-09T21:02:50.4945973+00:00",
+  "LastUpdate_Achievements": "2023-11-09T21:07:14.6585366+00:00"
 }

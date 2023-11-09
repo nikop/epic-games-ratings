@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -3206,9 +3206,9 @@
       "ID": "MQ05_4",
       "SetID": "bbing49",
       "Name": "Knives Out",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 386
+      "UsersEstimate": 394
     },
     {
       "ID": "MQ06_1",
@@ -3303,8 +3303,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-05T09:59:32.7817162+00:00",
-  "LastChanged_Achievements": "2023-11-09T20:07:40.8578498+00:00",
+  "LastChanged_Achievements": "2023-11-09T21:07:09.5348742+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:56.8261686+00:00",
   "LastUpdate_Ratings": "2023-11-09T20:03:13.1288109+00:00",
-  "LastUpdate_Achievements": "2023-11-09T20:07:40.8578893+00:00"
+  "LastUpdate_Achievements": "2023-11-09T21:07:09.5349261+00:00"
 }

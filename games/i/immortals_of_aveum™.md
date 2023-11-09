@@ -5,43 +5,43 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~198 |
-| Battlefields Have Memories | 82.00% | ~184 |
-| Enlisted | 79.00% | ~178 |
-| Maybe Engage a Little | 75.00% | ~169 |
-| No More Names | 60.00% | ~135 |
+| Unforeseen | 88.00% | ~199 |
+| Battlefields Have Memories | 82.00% | ~185 |
+| Enlisted | 79.00% | ~179 |
+| Maybe Engage a Little | 75.00% | ~170 |
+| No More Names | 61.00% | ~138 |
 | Initiate | 46.00% | ~104 |
-| Thrada-Kul | 42.00% | ~94 |
+| Thrada-Kul | 42.00% | ~95 |
 | Gravity-Challenged Rocks | 32.00% | ~72 |
-| Soldier | 28.00% | ~63 |
+| Soldier | 27.00% | ~61 |
 | All the Major Food Groups | 27.00% | ~61 |
-| Socialite | 26.00% | ~58 |
-| Control is an Illusion | 24.00% | ~54 |
+| Socialite | 26.00% | ~59 |
 | Beggars Would Ride | 24.00% | ~54 |
+| Control is an Illusion | 23.00% | ~52 |
 | The Means to Save It | 20.00% | ~45 |
-| Resilience to Sin | 18.00% | ~40 |
+| Resilience to Sin | 18.00% | ~41 |
 | A Familiar Nest | 17.00% | ~38 |
 | Periapt Alizarin | 17.00% | ~38 |
 | Geas Aristeya | 16.00% | ~36 |
 | A Perfect Cycle | 15.00% | ~34 |
 | Recruit | 14.00% | ~32 |
 | Armsman | 14.00% | ~32 |
-| Lights Army | 10.00% | ~22 |
+| Lights Army | 10.00% | ~23 |
 | Periapt Cerulean | 8.00% | ~18 |
 | Good Boy | 8.00% | ~18 |
+| Best Dressed | 6.00% | ~14 |
 | Periapt Viridian | 6.00% | ~14 |
 | Shroudfane Explorer | 6.00% | ~14 |
-| Best Dressed | 5.00% | ~11 |
 | Scholar | 4.00% | ~9 |
 | Armaments Azure | 4.00% | ~9 |
 | Armaments Gules | 4.00% | ~9 |
 | Kitted Out | 3.00% | ~7 |
 | Armaments Vert | 3.00% | ~7 |
 | Veteran | 3.00% | ~7 |
-| Master of Carmine | 2.00% | ~4 |
-| Shroudfane Surveyor | 2.00% | ~4 |
-| Treasure Hunter | 2.00% | ~4 |
-| Backtracker | 2.00% | ~4 |
+| Master of Carmine | 2.00% | ~5 |
+| Shroudfane Surveyor | 2.00% | ~5 |
+| Treasure Hunter | 2.00% | ~5 |
+| Backtracker | 2.00% | ~5 |
 | Grand Magnus | 1.00% | ~2 |
 | Master of Ultramarine | 1.00% | ~2 |
 | Master of Malachite | 1.00% | ~2 |
@@ -53,7 +53,7 @@ Rating: 4.02 (Ranked 986)
 | Tip of the Spear | 0.90% | ~2 |
 | Fowl Play | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 359)  
+Progressed: 226 (Ranked 358)  
 Completed: 1 (0.44%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,7 +101,7 @@ Completed: 1 (0.44%) (Ranked 203)
 | 2023-11-06 | 172 | 1 |
 | 2023-11-07 | 184 | 1 |
 | 2023-11-08 | 207 | 1 |
-| 2023-11-09 | 225 | 1 |
+| 2023-11-09 | 226 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

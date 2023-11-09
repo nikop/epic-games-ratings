@@ -4,7 +4,7 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -781,9 +781,9 @@
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
       "SetID": "6od1ndi",
       "Name": "1978",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "Level_completed_001_002",
@@ -805,9 +805,9 @@
       "ID": "Level_completed_003_001",
       "SetID": "6od1ndi",
       "Name": "Onk Boga III",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 35,
-      "UsersEstimate": 140
+      "UsersEstimate": 142
     },
     {
       "ID": "Level_completed_004_009",
@@ -821,17 +821,17 @@
       "ID": "Level_completed_005_003",
       "SetID": "6od1ndi",
       "Name": "Onk Boga V",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "Level_completed_006_004",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VI",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "Level_completed_007_006",
@@ -869,9 +869,9 @@
       "ID": "Monkey_IQ_test_passed_in_004",
       "SetID": "6od1ndi",
       "Name": "IQ62",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "Rainman_was_shocked_by_lightning_in_001",
@@ -910,8 +910,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-09T20:09:03.0032777+00:00",
+  "LastChanged_Achievements": "2023-11-09T21:08:22.0830041+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:45.8899995+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:58:53.1145719+00:00",
-  "LastUpdate_Achievements": "2023-11-09T20:09:03.0033014+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:58:34.0811333+00:00",
+  "LastUpdate_Achievements": "2023-11-09T21:08:22.0830338+00:00"
 }

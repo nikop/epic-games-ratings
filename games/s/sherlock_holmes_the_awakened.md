@@ -16,8 +16,8 @@ Rating: 4.66 (Ranked 291)
 | Gaze Into The Abyss | 49.00% | ~394 |
 | Open Sesame | 49.00% | ~394 |
 | Sticky Fingers | 49.00% | ~394 |
+| Knives Out | 49.00% | ~394 |
 | Lock, Stock, And Barrel | 48.00% | ~386 |
-| Knives Out | 48.00% | ~386 |
 | Land, Ho! | 48.00% | ~386 |
 | Back In The Saddle | 47.00% | ~378 |
 | No Man Is An Island | 47.00% | ~378 |

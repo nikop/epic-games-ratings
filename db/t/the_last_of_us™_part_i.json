@@ -3,11 +3,11 @@
   "Name": "The Last of Us\u2122 Part I",
   "ProductSlug": "the-last-of-us-part-1",
   "Ranking_Rating": 847,
-  "Ranking_Popularity": 293,
-  "Ranking_PopularitySum": 407,
+  "Ranking_Popularity": 291,
+  "Ranking_PopularitySum": 405,
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -975,18 +975,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 185,
       "NumberOfAwardsMax": 185
+    },
+    {
+      "Time": "2023-11-09T20:59:11.8698761+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 187,
+      "NumberOfAwardsMax": 187
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 185,
-  "NumberOfAwardsMax": 185,
+  "NumberOfAwards": 187,
+  "NumberOfAwardsMax": 187,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 185
+      "Count": 187
     }
   ],
   "EOS_Progressed": 0,
@@ -1001,8 +1007,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-28T17:57:06.372926+00:00",
   "FirstSeenRating": "2023-03-30T20:57:18.2148276+00:00",
-  "LastChanged": "2023-11-06T14:57:13.2285763+00:00",
+  "LastChanged": "2023-11-09T20:59:11.8698759+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:12.7003582+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:59:28.7593645+00:00",
-  "LastUpdate_Achievements": "2023-11-09T20:05:18.4946511+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:59:11.8698768+00:00",
+  "LastUpdate_Achievements": "2023-11-09T21:04:44.6671559+00:00"
 }

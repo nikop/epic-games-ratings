@@ -28,6 +28,7 @@
 | Trial by cold | 9.00% | ~3 |
 | For the greater good | 6.00% | ~2 |
 | The best apprentice | 6.00% | ~2 |
+| The power of persuasion | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |
 | A solo player | 6.00% | ~2 |
 | Punish the Punisher | 6.00% | ~2 |
@@ -36,7 +37,6 @@
 | Collector | 3.00% | ~1 |
 | Stronger than Gellian steel | 3.00% | ~1 |
 | First among Frisians | 3.00% | ~1 |
-| The power of persuasion | 3.00% | ~1 |
 | Do it yourself | 3.00% | ~1 |
 | By someone else's hands | 3.00% | ~1 |
 | The End | 3.00% | ~1 |

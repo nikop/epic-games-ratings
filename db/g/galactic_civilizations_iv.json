@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7250,
+  "EOS_Progressed": 7251,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
@@ -8330,6 +8330,11 @@
       "Time": "2023-11-09T19:15:04.8995325+00:00",
       "NumProgressed": 7250,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T21:07:33.2769807+00:00",
+      "NumProgressed": 7251,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8373,7 +8378,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2102
+      "UsersEstimate": 2103
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8381,7 +8386,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4422
+      "UsersEstimate": 4423
     },
     {
       "ID": "Control_All_Relics",
@@ -8389,7 +8394,7 @@
       "Name": "Relic Hoarder",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Destroy_8_Pirate_Bases",
@@ -8445,7 +8450,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5582
+      "UsersEstimate": 5583
     },
     {
       "ID": "First_Race_Met",
@@ -8453,7 +8458,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5220
+      "UsersEstimate": 5221
     },
     {
       "ID": "First_Ship_Designed",
@@ -8477,7 +8482,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5582
+      "UsersEstimate": 5583
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8557,7 +8562,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2393
     },
     {
       "ID": "Play_1000_Hours",
@@ -8661,7 +8666,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4350
+      "UsersEstimate": 4351
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8709,7 +8714,7 @@
       "Name": "Win as the Baratak",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Win_As_Drath",
@@ -8773,7 +8778,7 @@
       "Name": "Win as the Mimot",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "Win_As_Navigators",
@@ -8829,7 +8834,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4712
+      "UsersEstimate": 4713
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8893,7 +8898,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "Win_Quickly",
@@ -8916,15 +8921,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7250,
+      "Progressed": 7251,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-09T20:08:34.4739096+00:00",
+  "LastChanged_Achievements": "2023-11-09T21:07:33.2769801+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-09T19:59:10.4185689+00:00",
-  "LastUpdate_Achievements": "2023-11-09T20:08:34.4740251+00:00"
+  "LastUpdate_Ratings": "2023-11-09T20:58:52.3766094+00:00",
+  "LastUpdate_Achievements": "2023-11-09T21:07:33.2771846+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.21 (Ranked 901)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 0.30% | ~919 |
-| May the Torchbearer light our way | 0.20% | ~613 |
+| May the Torchbearer light our way | 0.30% | ~920 |
+| The touch of Chaos | 0.30% | ~920 |
 | A powerful aura was here | 0.20% | ~613 |
 | Rumors are true | 0.10% | ~306 |
 | We'll be careful | 0.10% | ~306 |
@@ -33,6 +33,7 @@ Rating: 4.21 (Ranked 901)
 | Not even from this world | 0.10% | ~306 |
 | Your wounds… They are healing so fast! | 0.10% | ~306 |
 | Bring it on! | 0.10% | ~306 |
+| I've been waiting for this! | 0.10% | ~306 |
 | You want more? I've got more! | 0.10% | ~306 |
 | We learned it the hard way | 0.10% | ~306 |
 | We strike as one | 0.10% | ~306 |
@@ -41,12 +42,11 @@ Rating: 4.21 (Ranked 901)
 | Let's raise the stakes!! | 0.10% | ~306 |
 | A legend among Chimeras | 0.00% | ~0 |
 | There's too many of them! | 0.00% | ~0 |
-| I've been waiting for this! | 0.00% | ~0 |
 | I'm just warming up | 0.00% | ~0 |
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 306,454 (Ranked 49)  
+Progressed: 306,500 (Ranked 49)  
 Completed: 3 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -93,11 +93,11 @@ Completed: 3 (0.00%) (Ranked 345)
 | 2023-11-06 | 304,252 | 1 |
 | 2023-11-07 | 305,112 | 2 |
 | 2023-11-08 | 305,812 | 3 |
-| 2023-11-09 | 306,454 | 3 |
+| 2023-11-09 | 306,500 | 3 |
 ## Awards
-Max (Great Boss Battles): 52  (Ranked 420)  
+Max (Great Boss Battles): 52  (Ranked 421)  
 Sum: 52 (Ranked 474)  
-Diff (max vs sum): -54  
+Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 52 |

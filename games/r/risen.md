@@ -14,13 +14,13 @@ Rating: 4.57 (Ranked 469)
 | Samaritan | 56.00% | ~18 |
 | Field hand | 53.00% | ~17 |
 | Well-to-do | 50.00% | ~16 |
+| The merciful one | 47.00% | ~15 |
 | Ladies' man | 47.00% | ~15 |
-| The merciful one | 44.00% | ~14 |
 | Ferocious wild boars | 34.00% | ~11 |
 | Idiot | 34.00% | ~11 |
 | Wise man | 28.00% | ~9 |
+| Family man | 28.00% | ~9 |
 | The fourth triplet | 28.00% | ~9 |
-| Family man | 25.00% | ~8 |
 | Beast slayer | 25.00% | ~8 |
 | Ogre friend | 25.00% | ~8 |
 | Hard worker | 25.00% | ~8 |
