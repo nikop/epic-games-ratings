@@ -2,7 +2,7 @@
   "ID": "04db5160b1fa4fb9acd8f8603f65e12d",
   "Name": "Your Computer Might Be At Risk",
   "ProductSlug": "your-computer-might-be-at-risk-c5dea9",
-  "Ranking_EOS_Progress": 736,
+  "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-06-11T08:01:53.6412466+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:04:24.5909872+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:11:33.2461674+00:00",
   "LastUpdate_AppInfo": "2023-11-05T21:57:12.9124399+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:57:23.8125576+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:04:24.5909907+00:00"
+  "LastUpdate_Ratings": "2023-11-09T18:58:19.6683719+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:11:33.2461714+00:00"
 }

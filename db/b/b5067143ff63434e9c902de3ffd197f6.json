@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 60,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8220,
+  "EOS_Progressed": 8242,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1506,
+  "EOS_NewPlayers": 1512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4739,6 +4739,11 @@
       "Time": "2023-11-09T18:05:58.946067+00:00",
       "NumProgressed": 8220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T19:13:09.6606333+00:00",
+      "NumProgressed": 8242,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -4783,7 +4788,7 @@
       "Name": "KITTY",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_MEGLAB",
@@ -4799,7 +4804,7 @@
       "Name": "RUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_SECRETENDING",
@@ -4839,7 +4844,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -4847,7 +4852,7 @@
       "Name": "Level 0",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 2219
+      "UsersEstimate": 2225
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -4855,7 +4860,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 986
+      "UsersEstimate": 989
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -4863,7 +4868,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 986
+      "UsersEstimate": 989
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -4879,7 +4884,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -4887,7 +4892,7 @@
       "Name": "Glitchy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_WINLEVEL5",
@@ -4895,7 +4900,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -4903,7 +4908,7 @@
       "Name": "The Dark Road",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_WINLEVEL94",
@@ -4919,7 +4924,7 @@
       "Name": "Endless",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_WINLEVELFUN",
@@ -4927,7 +4932,7 @@
       "Name": "FUN",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_WINLEVELLIGHTOUT",
@@ -4935,21 +4940,21 @@
       "Name": "Lights Out",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 8220,
+      "Progressed": 8242,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:05:58.9460664+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:13:09.6606324+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:16.1385723+00:00",
-  "LastUpdate_Ratings": "2023-11-09T18:01:22.5908516+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:05:58.9461204+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:08:47.6731155+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:13:09.6606805+00:00"
 }

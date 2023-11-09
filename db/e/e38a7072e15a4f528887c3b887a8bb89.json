@@ -2,9 +2,9 @@
   "ID": "e38a7072e15a4f528887c3b887a8bb89",
   "Name": "Outbreak The New Nightmare Revisited",
   "ProductSlug": "outbreak-the-new-nightmare-revisited-90517a",
-  "Ranking_EOS_Progress": 632,
+  "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-08T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36,6 +36,11 @@
     {
       "Time": "2023-11-09T15:05:47.0109205+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T19:14:27.7175441+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -63,7 +68,7 @@
       "ID": "EVERY_SHOT_COUNTS_ACH",
       "SetID": "c01b5ga",
       "Name": "Every Shot Counts!",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -79,7 +84,7 @@
       "ID": "HORRIBLE_END_ACH",
       "SetID": "c01b5ga",
       "Name": "Horrible End",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -95,7 +100,7 @@
       "ID": "NO_FEAR_ACH",
       "SetID": "c01b5ga",
       "Name": "No Fear",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -144,13 +149,13 @@
     {
       "ID": "c01b5ga",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:07:16.6243487+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:14:27.7175438+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:36.0936228+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:58:05.5145312+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:07:16.6243578+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:03:29.2259707+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:14:27.717556+00:00"
 }

@@ -9093,9 +9093,9 @@
       "ID": "STORY_OUTBREAK",
       "SetID": "4hj6d86",
       "Name": "Desperate Times",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 821
+      "UsersEstimate": 985
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -9252,8 +9252,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-08T17:02:45.4793564+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:04:24.1139327+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:11:32.8259191+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:14.0432207+00:00",
-  "LastUpdate_Ratings": "2023-11-09T18:02:41.7886562+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:04:24.1140121+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:09:24.1756617+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:11:32.8260082+00:00"
 }

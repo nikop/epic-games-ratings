@@ -2,12 +2,12 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 432,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2023-09-18T15:57:21.5975399+00:00",
@@ -163,15 +163,21 @@
       "Rating": 4.6,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-09T19:09:37.5658279+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7639,
+  "EOS_Progressed": 7641,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6404,6 +6410,11 @@
       "Time": "2023-11-09T18:09:32.1536641+00:00",
       "NumProgressed": 7639,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T19:16:27.3711292+00:00",
+      "NumProgressed": 7641,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6416,7 +6427,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5500
+      "UsersEstimate": 5502
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6424,7 +6435,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5347
+      "UsersEstimate": 5349
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6432,7 +6443,7 @@
       "Name": "Calm Sailing",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6440,7 +6451,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -6456,7 +6467,7 @@
       "Name": "Search for the Hairy Grell",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "CHAPTER_7_COMPLETE",
@@ -6512,7 +6523,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3285
+      "UsersEstimate": 3286
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6520,7 +6531,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3743
+      "UsersEstimate": 3744
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6528,7 +6539,7 @@
       "Name": "Beach Comber",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "COMPLETE_ALLJOBQUESTS",
@@ -6552,7 +6563,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3208
+      "UsersEstimate": 3209
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6566,9 +6577,9 @@
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4583
+      "UsersEstimate": 4661
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6576,7 +6587,7 @@
       "Name": "Mist Walker",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -6592,7 +6603,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3514
+      "UsersEstimate": 3515
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6600,7 +6611,7 @@
       "Name": "Higher Tax Bracket",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "HARVEST_VEGETABLES_1",
@@ -6695,22 +6706,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7639,
+      "Progressed": 7641,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 256,
-      "Completed": 256
+      "Progressed": 258,
+      "Completed": 258
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
-  "LastChanged": "2023-11-01T19:00:12.2684426+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:09:32.1536635+00:00",
+  "LastChanged": "2023-11-09T19:09:37.5658278+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:16:27.3711282+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-09T18:03:18.203471+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:09:32.1537349+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:09:37.5658284+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:16:27.3711868+00:00"
 }

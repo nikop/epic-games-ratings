@@ -19,7 +19,7 @@
 | Nowhere you can hide | 0.00% | ~0 |
 | Pound of Flesh | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10 (Ranked 581)  
+Progressed: 10 (Ranked 582)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

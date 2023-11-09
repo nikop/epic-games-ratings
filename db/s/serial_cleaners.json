@@ -632,9 +632,9 @@
       "ID": "CHAPTER1_COMPLETE",
       "SetID": "2lk004m",
       "Name": "Off to a Good Start",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "CHAPTER2_COMPLETE",
@@ -815,8 +815,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.206805+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:28.6580173+00:00",
   "LastChanged": "2023-03-31T05:57:22.2068051+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:07:20.1701401+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:14:31.4899825+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.0309877+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:58:10.3102383+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:07:20.1701597+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:03:56.2430218+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:14:31.490008+00:00"
 }

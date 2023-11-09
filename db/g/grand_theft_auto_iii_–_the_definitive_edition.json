@@ -2,12 +2,12 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -517,11 +517,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8549,
+  "EOS_Progressed": 8550,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -10917,6 +10917,11 @@
       "Time": "2023-11-09T18:06:11.5373508+00:00",
       "NumProgressed": 8549,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-09T19:13:22.0143699+00:00",
+      "NumProgressed": 8550,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10976,7 +10981,7 @@
       "Name": "Planned Ahead",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH08",
@@ -10984,7 +10989,7 @@
       "Name": "Got This Figured Out",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH09",
@@ -11008,7 +11013,7 @@
       "Name": "Wheels Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH12",
@@ -11016,7 +11021,7 @@
       "Name": "Come Out to Play-y-y-y",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH13",
@@ -11032,7 +11037,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "ACH15",
@@ -11048,7 +11053,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2137
+      "UsersEstimate": 2138
     },
     {
       "ID": "ACH17",
@@ -11072,7 +11077,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "ACH20",
@@ -11080,7 +11085,7 @@
       "Name": "Man Toyz",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH21",
@@ -11104,7 +11109,7 @@
       "Name": "Going Rogue",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH24",
@@ -11112,7 +11117,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "ACH25",
@@ -11128,7 +11133,7 @@
       "Name": "Furious First Responder",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH27",
@@ -11159,7 +11164,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8549,
+      "Progressed": 8550,
       "Completed": 56
     }
   ],
@@ -11167,8 +11172,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-07T02:18:06.6938355+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:06:11.5373502+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:13:22.0143696+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-09T18:00:52.5749304+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:06:11.5374511+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:08:16.8872212+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:13:22.014454+00:00"
 }

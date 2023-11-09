@@ -14,13 +14,13 @@ Number of Ratings: 38  (23.09.2022)
 | Teleport | 44.00% | ~204 |
 | Scrap Master | 38.00% | ~176 |
 | Smelter | 35.00% | ~162 |
-| Digger | 32.00% | ~148 |
+| Digger | 33.00% | ~153 |
 | Electro-Scrap Gatherer | 32.00% | ~148 |
 | Survivor | 31.00% | ~144 |
 | Lumberjack | 30.00% | ~139 |
 | Herbalist | 29.00% | ~135 |
 | Robot Destroyer | 29.00% | ~135 |
-| Prepper | 26.00% | ~121 |
+| Prepper | 27.00% | ~125 |
 | Electro-Scrap Master | 23.00% | ~107 |
 | Robot Hunter | 20.00% | ~93 |
 | Advanced Survivalist | 18.00% | ~84 |

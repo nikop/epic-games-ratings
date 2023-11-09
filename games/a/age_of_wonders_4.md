@@ -5,12 +5,13 @@ Rating: 4.61 (Ranked 385)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 0.80% | ~42 |
+| But this one is mine | 0.90% | ~48 |
+| Realm Estate | 0.30% | ~16 |
 | Secret Technique | 0.30% | ~16 |
 | Walls Cannot Stop Us | 0.30% | ~16 |
 | Freed Lands of Manuhari | 0.30% | ~16 |
-| Realm Estate | 0.20% | ~11 |
 | A Wonderful Discovery | 0.20% | ~11 |
+| Blood of the Dragon | 0.20% | ~11 |
 | Spoils of War | 0.20% | ~11 |
 | Valley of Wonders | 0.10% | ~5 |
 | There Can Only Be One! | 0.10% | ~5 |
@@ -47,7 +48,6 @@ Rating: 4.61 (Ranked 385)
 | Here be Dragons | 0.10% | ~5 |
 | Tipping the Scales | 0.10% | ~5 |
 | Duality | 0.10% | ~5 |
-| Blood of the Dragon | 0.10% | ~5 |
 | Mighty Hoard | 0.10% | ~5 |
 | Sehiran Oasis | 0.10% | ~5 |
 | Prometheus Avenged | 0.10% | ~5 |

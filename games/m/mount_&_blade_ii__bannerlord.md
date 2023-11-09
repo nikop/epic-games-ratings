@@ -6,14 +6,14 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~25,906 |
-| Landlord | 33.00% | ~21,373 |
-| Horde breaker | 24.00% | ~15,544 |
-| Bannerlord | 23.00% | ~14,896 |
-| Lawmaker | 23.00% | ~14,896 |
-| Trained | 23.00% | ~14,896 |
+| Lawbringer | 40.00% | ~25,908 |
+| Landlord | 33.00% | ~21,374 |
+| Horde breaker | 24.00% | ~15,545 |
+| Bannerlord | 23.00% | ~14,897 |
+| Lawmaker | 23.00% | ~14,897 |
+| Trained | 23.00% | ~14,897 |
 | The king is pleased | 19.00% | ~12,306 |
-| King Solomon | 18.00% | ~11,658 |
+| King Solomon | 18.00% | ~11,659 |
 | Apple of my eye | 16.00% | ~10,363 |
 | I can do it | 16.00% | ~10,363 |
 | Against all odds | 13.00% | ~8,420 |
@@ -27,9 +27,9 @@ Number of Ratings: 5,603  (23.09.2022)
 | Butterlord | 9.00% | ~5,829 |
 | Know your enemy | 7.00% | ~4,534 |
 | Mastery | 7.00% | ~4,534 |
-| Crowdfunded | 5.00% | ~3,238 |
-| Crush your enemies | 5.00% | ~3,238 |
-| My way | 5.00% | ~3,238 |
+| Crowdfunded | 5.00% | ~3,239 |
+| Crush your enemies | 5.00% | ~3,239 |
+| My way | 5.00% | ~3,239 |
 | Veni vidi vici | 4.00% | ~2,591 |
 | Freedom! | 3.00% | ~1,943 |
 | Long live the Empire! | 3.00% | ~1,943 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,766 (Ranked 103)  
+Progressed: 64,771 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 64,626 | 0 |
 | 2023-11-07 | 64,682 | 0 |
 | 2023-11-08 | 64,735 | 0 |
-| 2023-11-09 | 64,766 | 0 |
+| 2023-11-09 | 64,771 | 0 |
 ## Awards
 Max (Character Customization): 7,345  (Ranked 52)  
 Sum: 15,181 (Ranked 67)  

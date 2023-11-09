@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fire in the... nevermind | 54.00% | ~78 |
 | Chapter I | 53.00% | ~77 |
-| Haute cuisine | 48.00% | ~70 |
+| Fire in the... nevermind | 53.00% | ~77 |
+| Haute cuisine | 47.00% | ~69 |
 | Demolition expert | 40.00% | ~58 |
 | I didn't do it! | 40.00% | ~58 |
 | Keep away from children | 37.00% | ~54 |
 | Wooooooow! | 37.00% | ~54 |
-| Open up wide | 36.00% | ~52 |
-| Artistic fool | 34.00% | ~49 |
-| Let the boot talk | 32.00% | ~46 |
+| Open up wide | 36.00% | ~53 |
+| Artistic fool | 34.00% | ~50 |
+| Let the boot talk | 32.00% | ~47 |
 | Chapter II | 27.00% | ~39 |
 | Shadow on the wall | 26.00% | ~38 |
 | Handyman | 24.00% | ~35 |
-| Bubblekillerfamily | 23.00% | ~33 |
-| Achoo!! | 23.00% | ~33 |
-| Chapter III | 23.00% | ~33 |
-| Like a moth in the Wind | 23.00% | ~33 |
-| Quite a buggy game | 21.00% | ~30 |
-| Pacifist | 21.00% | ~30 |
+| Bubblekillerfamily | 23.00% | ~34 |
+| Achoo!! | 23.00% | ~34 |
+| Chapter III | 23.00% | ~34 |
+| Like a moth in the Wind | 23.00% | ~34 |
+| Quite a buggy game | 21.00% | ~31 |
+| Pacifist | 21.00% | ~31 |
 | Mirror mirror on the wall... | 20.00% | ~29 |
-| Fastidious Clown | 19.00% | ~28 |
-| Home is where the heart is | 19.00% | ~28 |
+| Fastidious Clown | 18.00% | ~26 |
 | It's not easy being green! | 18.00% | ~26 |
+| Home is where the heart is | 18.00% | ~26 |
 | Death is a part of life | 15.00% | ~22 |
 | Master of Thermodynamics | 14.00% | ~20 |
 | Unfullfilled dreams | 13.00% | ~19 |
-| To err is human... | 12.00% | ~17 |
-| Useless but beautiful | 10.00% | ~14 |
-| Nothing can stop me | 10.00% | ~14 |
-| Mumbo Jumbo | 10.00% | ~14 |
+| To err is human... | 12.00% | ~18 |
+| Useless but beautiful | 10.00% | ~15 |
+| Nothing can stop me | 10.00% | ~15 |
+| Mumbo Jumbo | 10.00% | ~15 |
 | Lollipop | 9.00% | ~13 |
 | It's nothing personal | 8.00% | ~12 |
 | Where there is life, there is hope | 7.00% | ~10 |
-| Artistic master | 6.00% | ~9 |
-| Sadist | 6.00% | ~9 |
-| Fartjokes! | 6.00% | ~9 |
-| The hands of a healer | 6.00% | ~9 |
+| Artistic master | 5.00% | ~7 |
+| Sadist | 5.00% | ~7 |
+| Fartjokes! | 5.00% | ~7 |
+| The hands of a healer | 5.00% | ~7 |
 | Shut up clown! | 5.00% | ~7 |
 | The Green, the Fat, the Ugly | 3.00% | ~4 |
 | Life is but a dream | 3.00% | ~4 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145 (Ranked 389)  
+Progressed: 146 (Ranked 389)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 140 | 0 |
 | 2023-11-07 | 142 | 0 |
 | 2023-11-08 | 143 | 0 |
-| 2023-11-09 | 145 | 0 |
+| 2023-11-09 | 146 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -15,9 +15,9 @@
 | A good beginning | 19.00% | ~95 |
 | One last step | 18.00% | ~90 |
 | I did it | 17.00% | ~85 |
+| Peace walker | 17.00% | ~85 |
 | Cable guy | 17.00% | ~85 |
 | Half the way | 17.00% | ~85 |
-| Peace walker | 16.00% | ~80 |
 | Champollion | 16.00% | ~80 |
 | In this together | 15.00% | ~75 |
 | Open door | 15.00% | ~75 |
@@ -30,8 +30,8 @@
 | For its own good | 9.00% | ~45 |
 | Fashion victim | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 500 (Ranked 297)  
-Completed: 28 (5.60%) (Ranked 63)  
+Progressed: 501 (Ranked 297)  
+Completed: 28 (5.59%) (Ranked 63)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -140,4 +140,4 @@ Completed: 28 (5.60%) (Ranked 63)
 | 2023-11-06 | 472 | 27 |
 | 2023-11-07 | 485 | 28 |
 | 2023-11-08 | 495 | 28 |
-| 2023-11-09 | 500 | 28 |
+| 2023-11-09 | 501 | 28 |

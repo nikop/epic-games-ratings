@@ -5,16 +5,16 @@ Rating: 4.75 (Ranked 144)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,721 |
+| First of Many | 9.00% | ~19,722 |
 | The Killing Jar | 8.00% | ~17,530 |
-| Expanding Horizons | 7.00% | ~15,338 |
-| Quest for Survival | 7.00% | ~15,338 |
-| Not Your Average Trait | 7.00% | ~15,338 |
-| Gleaming the Cube | 6.00% | ~13,147 |
-| Familiar Face | 6.00% | ~13,147 |
-| Duality | 6.00% | ~13,147 |
-| Boss'n Up | 6.00% | ~13,147 |
-| Trait Chaser | 6.00% | ~13,147 |
+| Expanding Horizons | 7.00% | ~15,339 |
+| Quest for Survival | 7.00% | ~15,339 |
+| Not Your Average Trait | 7.00% | ~15,339 |
+| Gleaming the Cube | 6.00% | ~13,148 |
+| Familiar Face | 6.00% | ~13,148 |
+| Duality | 6.00% | ~13,148 |
+| Boss'n Up | 6.00% | ~13,148 |
+| Trait Chaser | 6.00% | ~13,148 |
 | Not So Special Now | 5.00% | ~10,956 |
 | Not a Janitor | 5.00% | ~10,956 |
 | Equal Measures | 5.00% | ~10,956 |
@@ -43,20 +43,20 @@ Rating: 4.75 (Ranked 144)
 | Edgelord | 3.00% | ~6,574 |
 | The Ultimate Weapon | 3.00% | ~6,574 |
 | No One Should Have All That Power | 3.00% | ~6,574 |
-| Crafty | 2.00% | ~4,382 |
-| Only Human | 2.00% | ~4,382 |
-| Red Room | 2.00% | ~4,382 |
-| The Collector | 2.00% | ~4,382 |
-| Scrap Hoarder | 2.00% | ~4,382 |
-| Carnage in C-Minor | 2.00% | ~4,382 |
-| Maxed Out! | 2.00% | ~4,382 |
-| Transmutate | 2.00% | ~4,382 |
+| Crafty | 2.00% | ~4,383 |
+| Only Human | 2.00% | ~4,383 |
+| Red Room | 2.00% | ~4,383 |
+| The Collector | 2.00% | ~4,383 |
+| Scrap Hoarder | 2.00% | ~4,383 |
+| Carnage in C-Minor | 2.00% | ~4,383 |
+| Maxed Out! | 2.00% | ~4,383 |
+| Transmutate | 2.00% | ~4,383 |
 | Ghost in the Machine | 1.00% | ~2,191 |
 | The Trigger | 1.00% | ~2,191 |
 | Cutting Edge | 1.00% | ~2,191 |
 | Proving Grounds | 1.00% | ~2,191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,120 (Ranked 68)  
+Progressed: 219,130 (Ranked 68)  
 Completed: 435 (0.20%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 435 (0.20%) (Ranked 245)
 | 2023-11-06 | 218,456 | 432 |
 | 2023-11-07 | 218,702 | 433 |
 | 2023-11-08 | 218,941 | 435 |
-| 2023-11-09 | 219,120 | 435 |
+| 2023-11-09 | 219,130 | 435 |
 ## Awards
 Max (Great Boss Battles): 2,121  (Ranked 109)  
 Sum: 4,762 (Ranked 143)  

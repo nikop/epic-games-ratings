@@ -2351,9 +2351,9 @@
       "ID": "AC02",
       "SetID": "l4abp0",
       "Name": "Blood and Dust",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 716
+      "UsersEstimate": 725
     },
     {
       "ID": "AC03",
@@ -2712,8 +2712,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:09:43.902812+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:16:39.9892246+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:16.3145336+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:57:35.5586245+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:09:43.902864+00:00"
+  "LastUpdate_Ratings": "2023-11-09T18:59:41.961597+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:16:39.9892754+00:00"
 }

@@ -6315,10 +6315,10 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 715537,
-  "EOS_Completed": 2365,
-  "EOS_NewPlayers": 4665,
-  "EOS_NewCompleters": 62,
+  "EOS_Progressed": 715574,
+  "EOS_Completed": 2366,
+  "EOS_NewPlayers": 4660,
+  "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29505,6 +29505,11 @@
       "Time": "2023-11-09T18:07:38.7927344+00:00",
       "NumProgressed": 715537,
       "NumCompleted": 2365
+    },
+    {
+      "Time": "2023-11-09T19:14:50.4492169+00:00",
+      "NumProgressed": 715574,
+      "NumCompleted": 2366
     }
   ],
   "TotalAchievements": 51,
@@ -29546,9 +29551,9 @@
       "ID": "ach_ayeaye_captain_vixen",
       "SetID": "7km39fm",
       "Name": "Make it So",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 716
+      "UsersEstimate": 1431
     },
     {
       "ID": "ach_big_name_in_town",
@@ -29923,22 +29928,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715537,
-      "Completed": 2365
+      "Progressed": 715574,
+      "Completed": 2366
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 41079,
-      "Completed": 36505
+      "Progressed": 41116,
+      "Completed": 36507
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-09T17:59:35.4209527+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:07:38.7927338+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:14:50.4492166+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:59:35.4209535+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:07:38.7929612+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:06:53.6875425+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:14:50.4494477+00:00"
 }

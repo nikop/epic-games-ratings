@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,639 |
-| Alt+F4 | 8.00% | ~18,889 |
-| Where's that freaking Dwarf? | 7.00% | ~16,528 |
+| Sowwy! | 35.00% | ~82,643 |
+| Alt+F4 | 8.00% | ~18,890 |
+| Where's that freaking Dwarf? | 7.00% | ~16,529 |
 | Déjà vu | 6.00% | ~14,167 |
 | Sock! SOCK! | 5.00% | ~11,806 |
-| A beer, two curses, three companions | 4.00% | ~9,444 |
-| GG EZ | 4.00% | ~9,444 |
-| DM intervention | 4.00% | ~9,444 |
-| Speedrun | 4.00% | ~9,444 |
-| Way of the Wimp | 3.00% | ~7,083 |
-| The plot thickens... At the tavern | 3.00% | ~7,083 |
-| Fireproof Wizardess | 3.00% | ~7,083 |
+| A beer, two curses, three companions | 4.00% | ~9,445 |
+| GG EZ | 4.00% | ~9,445 |
+| DM intervention | 4.00% | ~9,445 |
+| Speedrun | 4.00% | ~9,445 |
+| Way of the Wimp | 3.00% | ~7,084 |
+| The plot thickens... At the tavern | 3.00% | ~7,084 |
+| Fireproof Wizardess | 3.00% | ~7,084 |
 | Livin' in a dwarven paradise | 2.00% | ~4,722 |
 | Shiny and Crôm | 2.00% | ~4,722 |
 | The demons' feast | 2.00% | ~4,722 |
@@ -61,6 +61,7 @@ Number of Ratings: 118  (23.09.2022)
 | Insult to injury | 0.20% | ~472 |
 | 100% satisfaction guarantee | 0.20% | ~472 |
 | Death is for wimps | 0.20% | ~472 |
+| Demisemiquaver | 0.20% | ~472 |
 | Cursed die | 0.10% | ~236 |
 | Necrophilia | 0.10% | ~236 |
 | The Blood Countess | 0.10% | ~236 |
@@ -91,11 +92,10 @@ Number of Ratings: 118  (23.09.2022)
 | Pyrrhic victory | 0.10% | ~236 |
 | Super-Ultra-Lydian | 0.10% | ~236 |
 | Lord of the Drunks | 0.10% | ~236 |
-| Demisemiquaver | 0.10% | ~236 |
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,111 (Ranked 61)  
+Progressed: 236,122 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-06 | 235,658 | 7 |
 | 2023-11-07 | 235,846 | 7 |
 | 2023-11-08 | 235,997 | 7 |
-| 2023-11-09 | 236,111 | 7 |
+| 2023-11-09 | 236,122 | 7 |
 ## Awards
 Max (Character Customization): 227  (Ranked 271)  
 Sum: 455 (Ranked 329)  

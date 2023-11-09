@@ -37,6 +37,7 @@ Rating: 4.54 (Ranked 523)
 | I Am the Resurrection | 0.30% | ~2,147 |
 | Max Headroom | 0.30% | ~2,147 |
 | Our True Nature | 0.30% | ~2,147 |
+| Make it So | 0.20% | ~1,431 |
 | On Safari | 0.20% | ~1,431 |
 | Smorgasbord | 0.20% | ~1,431 |
 | Internet Famous | 0.20% | ~1,431 |
@@ -46,7 +47,6 @@ Rating: 4.54 (Ranked 523)
 | Variety is the Spice of Death | 0.20% | ~1,431 |
 | Rising Star | 0.20% | ~1,431 |
 | Top That, Tisha! | 0.20% | ~82 |
-| Make it So | 0.10% | ~716 |
 | LA Influential | 0.10% | ~716 |
 | Donk! | 0.10% | ~716 |
 | Sole Survivor | 0.10% | ~716 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,537 (Ranked 21)  
-Completed: 2,365 (0.33%) (Ranked 219)  
+Progressed: 715,574 (Ranked 21)  
+Completed: 2,366 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -260,7 +260,7 @@ Completed: 2,365 (0.33%) (Ranked 219)
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
-| 2023-11-09 | 715,537 | 2,365 |
+| 2023-11-09 | 715,574 | 2,366 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
 Sum: 10,986 (Ranked 86)  

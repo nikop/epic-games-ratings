@@ -2,7 +2,7 @@
   "ID": "3b03927495db4362bb88a812e8db5e59",
   "Name": "Cosmic Express",
   "ProductSlug": "cosmic-express",
-  "Ranking_EOS_Progress": 736,
+  "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.8855378+00:00",
   "LastChanged": "2023-03-31T05:58:42.8855379+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.525207+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:59:13.5653869+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:07:49.2230312+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:06:32.2912227+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:15:01.1632168+00:00"
 }

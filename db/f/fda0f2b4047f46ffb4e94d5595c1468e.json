@@ -2361,7 +2361,7 @@
       "Count": 329
     }
   ],
-  "EOS_Progressed": 8373,
+  "EOS_Progressed": 8374,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
@@ -7391,6 +7391,11 @@
       "Time": "2023-11-09T18:07:33.0440058+00:00",
       "NumProgressed": 8373,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T19:14:44.773946+00:00",
+      "NumProgressed": 8374,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7411,7 +7416,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "ach03",
@@ -7419,7 +7424,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3935
+      "UsersEstimate": 3936
     },
     {
       "ID": "ach04",
@@ -7459,7 +7464,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     },
     {
       "ID": "ach09",
@@ -7497,9 +7502,9 @@
       "ID": "ach13",
       "SetID": "47in8n6",
       "Name": "Making Friends Is Easy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1591
     },
     {
       "ID": "ach14",
@@ -7579,15 +7584,15 @@
       "Name": "Take And Deny",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "ach24",
       "SetID": "47in8n6",
       "Name": "Ultimate Power",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3852
+      "UsersEstimate": 3936
     },
     {
       "ID": "ach25",
@@ -7611,7 +7616,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2679
+      "UsersEstimate": 2680
     },
     {
       "ID": "ach28",
@@ -7627,7 +7632,7 @@
       "Name": "Unstoppable",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "ach30",
@@ -7691,7 +7696,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4856
+      "UsersEstimate": 4857
     },
     {
       "ID": "ach38",
@@ -7715,7 +7720,7 @@
       "Name": "Found You",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     },
     {
       "ID": "ach41",
@@ -7731,7 +7736,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3684
+      "UsersEstimate": 3685
     },
     {
       "ID": "ach43",
@@ -7779,7 +7784,7 @@
       "Name": "Total Disrespect",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "ach49",
@@ -7795,14 +7800,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3265
+      "UsersEstimate": 3266
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8373,
+      "Progressed": 8374,
       "Completed": 0
     }
   ],
@@ -7810,8 +7815,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-09T16:09:37.5112007+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:07:33.0440052+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:14:44.7739456+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-09T18:00:07.4951423+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:07:33.0441119+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:07:33.2523471+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:14:44.7740234+00:00"
 }

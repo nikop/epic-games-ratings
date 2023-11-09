@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 606,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 186,
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4756,
+  "EOS_Progressed": 4757,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8950,6 +8950,11 @@
       "Time": "2023-11-09T16:19:01.7794783+00:00",
       "NumProgressed": 4756,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-09T19:16:46.0084232+00:00",
+      "NumProgressed": 4757,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -8986,7 +8991,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -9074,7 +9079,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -9122,7 +9127,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -9145,15 +9150,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4756,
+      "Progressed": 4757,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:09:49.5651524+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:16:46.0084228+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-09T18:03:13.0130369+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:09:49.5652154+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:09:34.4645106+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:16:46.0084881+00:00"
 }

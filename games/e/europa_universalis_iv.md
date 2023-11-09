@@ -28,6 +28,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Basileus | 0.10% | ~451 |
 | Big Blue Blob | 0.10% | ~451 |
 | Black Jack | 0.10% | ~451 |
+| Bleed Them Dry | 0.10% | ~451 |
 | Blockader | 0.10% | ~451 |
 | Bright Spark | 0.10% | ~451 |
 | Brothers in Arms | 0.10% | ~451 |
@@ -64,6 +65,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Gentle Persuasion | 0.10% | ~451 |
 | Georgia on my Mind | 0.10% | ~451 |
 | Global Hegemony | 0.10% | ~451 |
+| Gold Rush | 0.10% | ~451 |
 | A Golden Empire | 0.10% | ~451 |
 | That's a Grand Army | 0.10% | ~451 |
 | Grand Coalition | 0.10% | ~451 |
@@ -134,6 +136,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Chrysanthemum Throne | 0.10% | ~451 |
 | The Continuation of Diplomacy | 0.10% | ~451 |
 | The Five Colonies | 0.10% | ~451 |
+| The Great Khan | 0.10% | ~451 |
 | The pen is mightier than the sword | 0.10% | ~451 |
 | The Princess is in this Castle | 0.10% | ~451 |
 | The Rising Sun | 0.10% | ~451 |
@@ -191,7 +194,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Basque in Glory | 0.00% | ~0 |
 | Bengal Tiger | 0.00% | ~0 |
 | Better than Napoleon | 0.00% | ~0 |
-| Bleed Them Dry | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
@@ -226,7 +228,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Fugger Banking | 0.00% | ~0 |
 | Ganges Khan | 0.00% | ~0 |
 | God Tier | 0.00% | ~0 |
-| Gold Rush | 0.00% | ~0 |
 | Golden Horn | 0.00% | ~0 |
 | Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
@@ -333,7 +334,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Coin is Stronger than the Sword | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Grand Armada | 0.00% | ~0 |
-| The Great Khan | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
 | The Navigator | 0.00% | ~0 |
 | The Ostenders | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,582 (Ranked 41)  
+Progressed: 450,645 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
-| 2023-11-09 | 450,582 | 1 |
+| 2023-11-09 | 450,645 | 1 |
 ## Awards
 Max (Educational): 6,915  (Ranked 55)  
 Sum: 56,853 (Ranked 24)  

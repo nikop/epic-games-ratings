@@ -1,35 +1,35 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.65 (Ranked 313)  
+Rating: 4.66 (Ranked 291)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,753,226 |
-| Easy to forget | 46.00% | ~1,645,886 |
-| Back in the black | 39.00% | ~1,395,425 |
-| That's what I'm talking about | 29.00% | ~1,037,624 |
-| The Best of Both Worlds | 25.00% | ~894,503 |
-| Get your wings | 20.00% | ~715,603 |
-| Double trouble | 16.00% | ~572,482 |
-| Smashing it | 11.00% | ~393,581 |
-| But can it run Crysis? | 9.00% | ~322,021 |
-| My favourite feature... | 9.00% | ~322,021 |
-| From humble beginnings... | 7.00% | ~250,461 |
-| Customer satisfaction | 7.00% | ~250,461 |
+| You need to plug it in... | 49.00% | ~1,753,235 |
+| Easy to forget | 46.00% | ~1,645,894 |
+| Back in the black | 39.00% | ~1,395,432 |
+| That's what I'm talking about | 29.00% | ~1,037,629 |
+| The Best of Both Worlds | 25.00% | ~894,508 |
+| Get your wings | 20.00% | ~715,606 |
+| Double trouble | 16.00% | ~572,485 |
+| Smashing it | 11.00% | ~393,583 |
+| But can it run Crysis? | 9.00% | ~322,023 |
+| My favourite feature... | 9.00% | ~322,023 |
+| From humble beginnings... | 7.00% | ~250,462 |
+| Customer satisfaction | 7.00% | ~250,462 |
 | Keeping things neat | 4.00% | ~143,121 |
 | Seems you're pretty good at this | 4.00% | ~143,121 |
 | Bending over backwards | 4.00% | ~143,121 |
-| Triple threat | 3.00% | ~107,340 |
-| You rock at this! | 3.00% | ~107,340 |
-| Your music sucks | 3.00% | ~107,340 |
-| I'm broke, Uncle! | 2.00% | ~71,560 |
-| Maybe you should try something else? | 2.00% | ~71,560 |
-| Taking care of business | 2.00% | ~71,560 |
-| Things are under control | 2.00% | ~71,560 |
-| Perfection | 2.00% | ~71,560 |
-| Calling in Sick | 2.00% | ~71,560 |
+| Triple threat | 3.00% | ~107,341 |
+| You rock at this! | 3.00% | ~107,341 |
+| Your music sucks | 3.00% | ~107,341 |
+| I'm broke, Uncle! | 2.00% | ~71,561 |
+| Maybe you should try something else? | 2.00% | ~71,561 |
+| Taking care of business | 2.00% | ~71,561 |
+| Things are under control | 2.00% | ~71,561 |
+| Perfection | 2.00% | ~71,561 |
+| Calling in Sick | 2.00% | ~71,561 |
 | Overvolted | 1.00% | ~35,780 |
 | If you fail the first time... | 1.00% | ~35,780 |
 | Amazonian | 1.00% | ~35,780 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,578 |
 | Treat yourself - GPU | 0.10% | ~3,578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,578,013 (Ranked 5)  
+Progressed: 3,578,031 (Ranked 5)  
 Completed: 37 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,10 +262,10 @@ Completed: 37 (0.00%) (Ranked 345)
 | 2023-11-06 | 3,577,222 | 37 |
 | 2023-11-07 | 3,577,530 | 37 |
 | 2023-11-08 | 3,577,801 | 37 |
-| 2023-11-09 | 3,578,013 | 37 |
+| 2023-11-09 | 3,578,031 | 37 |
 ## Awards
 Max (Great for Beginners): 1,099  (Ranked 143)  
-Sum: 8,115 (Ranked 103)  
+Sum: 8,116 (Ranked 103)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -273,7 +273,7 @@ Diff (max vs sum): 40
 | This game is Educational | 1,010 |
 | This game is Extremely Fun | 1,004 |
 | This game is Relaxing | 991 |
-| This game has Quickly Understood Controls | 951 |
+| This game has Quickly Understood Controls | 952 |
 | This game is Highly Recommended | 906 |
 | This game has Amazing Storytelling | 827 |
 | This game has Amazing Characters | 669 |
@@ -531,3 +531,4 @@ Diff (max vs sum): 40
 | 2023-11-06 | 4.65 | - | 1,099 | 8,113 |
 | 2023-11-07 | 4.65 | - | 1,099 | 8,114 |
 | 2023-11-08 | 4.65 | - | 1,099 | 8,115 |
+| 2023-11-09 | 4.66 | - | 1,099 | 8,116 |

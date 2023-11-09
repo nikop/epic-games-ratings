@@ -1,7 +1,7 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.21 (Ranked 900)  
+Rating: 4.21 (Ranked 901)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,15 +9,15 @@ Rating: 4.21 (Ranked 900)
 | Disposing of the Evidence | 38.00% | ~3,249 |
 | Without a Scratch | 34.00% | ~2,907 |
 | Wreckless Driving | 28.00% | ~2,394 |
-| A Marked Man | 25.00% | ~2,137 |
+| A Marked Man | 25.00% | ~2,138 |
 | Street Sweeper | 19.00% | ~1,624 |
-| Liberty City Minute | 17.00% | ~1,453 |
+| Liberty City Minute | 17.00% | ~1,454 |
 | Offshore Delivery | 14.00% | ~1,197 |
-| Dirty Money | 13.00% | ~1,111 |
+| Dirty Money | 13.00% | ~1,112 |
 | By a Mile | 10.00% | ~855 |
 | Not So Fast | 10.00% | ~855 |
 | Right-hand Man | 10.00% | ~855 |
-| A Gift from the King | 7.00% | ~598 |
+| A Gift from the King | 7.00% | ~599 |
 | Full Artillery | 4.00% | ~342 |
 | Mob Boss | 3.00% | ~256 |
 | Escape Artist | 2.00% | ~171 |
@@ -25,18 +25,18 @@ Rating: 4.21 (Ranked 900)
 | Splish Splash | 2.00% | ~171 |
 | Playing Doctor | 2.00% | ~171 |
 | Liberty City Secrets | 2.00% | ~171 |
-| Planned Ahead | 1.00% | ~85 |
-| Got This Figured Out | 1.00% | ~85 |
-| Wheels Up | 1.00% | ~85 |
-| Come Out to Play-y-y-y | 1.00% | ~85 |
-| Man Toyz | 1.00% | ~85 |
-| Going Rogue | 1.00% | ~85 |
-| Furious First Responder | 1.00% | ~85 |
+| Planned Ahead | 1.00% | ~86 |
+| Got This Figured Out | 1.00% | ~86 |
+| Wheels Up | 1.00% | ~86 |
+| Come Out to Play-y-y-y | 1.00% | ~86 |
+| Man Toyz | 1.00% | ~86 |
+| Going Rogue | 1.00% | ~86 |
+| Furious First Responder | 1.00% | ~86 |
 | Is That All You've Got? | 0.90% | ~77 |
 | King of Liberty City | 0.70% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,549 (Ranked 160)  
-Completed: 56 (0.66%) (Ranked 174)  
+Progressed: 8,550 (Ranked 160)  
+Completed: 56 (0.65%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,7 +238,7 @@ Completed: 56 (0.66%) (Ranked 174)
 | 2023-11-06 | 8,512 | 56 |
 | 2023-11-07 | 8,535 | 56 |
 | 2023-11-08 | 8,543 | 56 |
-| 2023-11-09 | 8,549 | 56 |
+| 2023-11-09 | 8,550 | 56 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 313)  
+Rating: 4.65 (Ranked 314)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.50% | ~76 |
 | Peacemaker | 0.50% | ~76 |
 | Old World Order | 0.50% | ~76 |
+| Ten Crowns | 0.50% | ~76 |
 | Cataphract Archer | 0.50% | ~76 |
 | No Undo | 0.50% | ~76 |
 | Kush | 0.50% | ~76 |
@@ -154,7 +155,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.40% | ~61 |
 | Pantheon of Gods | 0.40% | ~61 |
 | Capturing Cities | 0.40% | ~61 |
-| Ten Crowns | 0.40% | ~61 |
 | Three Man Chariot | 0.40% | ~61 |
 | Siege Tower | 0.40% | ~61 |
 | Conquest Victory | 0.40% | ~61 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,226 (Ranked 145)  
+Progressed: 15,227 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-06 | 15,191 | 5 |
 | 2023-11-07 | 15,201 | 5 |
 | 2023-11-08 | 15,218 | 5 |
-| 2023-11-09 | 15,226 | 5 |
+| 2023-11-09 | 15,227 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 272)  
 Sum: 1,872 (Ranked 212)  

@@ -1,7 +1,7 @@
 {
   "ID": "4e00072a641f4d839f220614dccd1c0a",
   "Name": "Venus",
-  "Ranking_EOS_Progress": 736,
+  "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:53:03.1650698+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:07:51.4298616+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:15:03.7392775+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:33:17.77043+00:00",
-  "LastUpdate_Ratings": "2023-11-09T18:00:57.5990233+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:07:51.4298653+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:08:22.2323338+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:15:03.7392806+00:00"
 }

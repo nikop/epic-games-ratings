@@ -6,24 +6,24 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,659 |
-| Now You're Talking | 62.00% | ~329,184 |
-| Steel Yourself | 62.00% | ~329,184 |
-| Window Dressing | 50.00% | ~265,471 |
-| Trigger Happy | 46.00% | ~244,233 |
+| First Step | 70.00% | ~371,660 |
+| Now You're Talking | 62.00% | ~329,185 |
+| Steel Yourself | 62.00% | ~329,185 |
+| Window Dressing | 50.00% | ~265,472 |
+| Trigger Happy | 46.00% | ~244,234 |
 | Riverborn | 45.00% | ~238,924 |
-| Starry Eyed | 34.00% | ~180,520 |
-| Poking Around | 34.00% | ~180,520 |
+| Starry Eyed | 34.00% | ~180,521 |
+| Poking Around | 34.00% | ~180,521 |
 | Talk of the Town | 24.00% | ~127,426 |
 | AAARR! | 23.00% | ~122,117 |
 | Hello Darkness | 23.00% | ~122,117 |
 | Wind At Our Backs | 22.00% | ~116,807 |
-| To the Beat | 20.00% | ~106,188 |
+| To the Beat | 20.00% | ~106,189 |
 | Sunny Shores | 17.00% | ~90,260 |
 | Sunday Best | 16.00% | ~84,951 |
 | To Victory! | 15.00% | ~79,641 |
 | Two of a Kind | 14.00% | ~74,332 |
-| Keep On Trucking | 13.00% | ~69,022 |
+| Keep On Trucking | 13.00% | ~69,023 |
 | Going on an Adventure | 11.00% | ~58,404 |
 | Make Peace, Not War | 11.00% | ~58,404 |
 | Walking The Line | 10.00% | ~53,094 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,593 |
 | Point Taken | 0.20% | ~1,062 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,942 (Ranked 35)  
+Progressed: 530,943 (Ranked 35)  
 Completed: 497 (0.09%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 497 (0.09%) (Ranked 274)
 | 2023-11-06 | 530,816 | 497 |
 | 2023-11-07 | 530,866 | 497 |
 | 2023-11-08 | 530,913 | 497 |
-| 2023-11-09 | 530,942 | 497 |
+| 2023-11-09 | 530,943 | 497 |
 ## Awards
 Max (Relaxing): 20  (Ranked 543)  
 Sum: 20 (Ranked 544)  

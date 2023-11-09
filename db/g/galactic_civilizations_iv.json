@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7249,
+  "EOS_Progressed": 7250,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
@@ -8325,6 +8325,11 @@
       "Time": "2023-11-09T18:07:52.6661448+00:00",
       "NumProgressed": 7249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T19:15:04.8995325+00:00",
+      "NumProgressed": 7250,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8392,7 +8397,7 @@
       "Name": "Pirate Cleansing",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Destroy_Any_Faction",
@@ -8400,7 +8405,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8416,7 +8421,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2247
+      "UsersEstimate": 2248
     },
     {
       "ID": "First_Major_Ally",
@@ -8448,7 +8453,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5219
+      "UsersEstimate": 5220
     },
     {
       "ID": "First_Ship_Designed",
@@ -8456,7 +8461,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "First_Stream_Travel",
@@ -8656,7 +8661,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4349
+      "UsersEstimate": 4350
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8678,9 +8683,9 @@
       "ID": "War_Without_Translator",
       "SetID": "4h07amh",
       "Name": "War with the Unknown",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 435
     },
     {
       "ID": "Win_As_Altarian",
@@ -8712,7 +8717,7 @@
       "Name": "Win as the Drath",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Win_As_Drengin",
@@ -8744,7 +8749,7 @@
       "Name": "Win as the Iridium",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Win_As_Krynn",
@@ -8760,7 +8765,7 @@
       "Name": "Win as the Manti",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Win_As_Mimot",
@@ -8784,7 +8789,7 @@
       "Name": "Win as the Onyx",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Win_As_Terran",
@@ -8792,7 +8797,7 @@
       "Name": "Win as Terrans",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "Win_As_Torian",
@@ -8856,7 +8861,7 @@
       "Name": "Diplomatic Victory!",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Win_ImmenseMap",
@@ -8864,7 +8869,7 @@
       "Name": "Win an Immense Game",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "Win_Influence",
@@ -8911,15 +8916,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7249,
+      "Progressed": 7250,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:07:52.6661443+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:15:04.8995322+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-09T17:59:06.2788671+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:07:52.6662713+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:06:21.6991567+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:15:04.8996529+00:00"
 }

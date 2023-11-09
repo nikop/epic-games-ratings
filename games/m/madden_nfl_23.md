@@ -5,13 +5,13 @@ Rating: 4.28 (Ranked 847)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 55.00% | ~1,828 |
-| MVP | 54.00% | ~1,795 |
+| Bragging Rights | 55.00% | ~1,829 |
+| MVP | 54.00% | ~1,796 |
 | Big Spender | 53.00% | ~1,762 |
 | Stud Finder | 41.00% | ~1,363 |
-| Dealmaker | 39.00% | ~1,296 |
+| Dealmaker | 39.00% | ~1,297 |
 | ROTY | 32.00% | ~1,064 |
-| Roster Reshuffle | 31.00% | ~1,030 |
+| Roster Reshuffle | 31.00% | ~1,031 |
 | Future of the Franchise | 19.00% | ~632 |
 | Throwin’ Dots | 17.00% | ~565 |
 | Already in Progress | 17.00% | ~565 |
@@ -27,7 +27,7 @@ Rating: 4.28 (Ranked 847)
 | Lockdown Leader | 0.50% | ~17 |
 | The Fortress | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,324 (Ranked 200)  
+Progressed: 3,325 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 3,261 | 0 |
 | 2023-11-07 | 3,288 | 0 |
 | 2023-11-08 | 3,303 | 0 |
-| 2023-11-09 | 3,324 | 0 |
+| 2023-11-09 | 3,325 | 0 |
 ## Awards
 Max (Diverse Characters): 36  (Ranked 464)  
 Sum: 87 (Ranked 450)  

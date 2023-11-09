@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 309,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1347,9 +1347,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5866,
+  "EOS_Progressed": 5867,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12517,6 +12517,11 @@
       "Time": "2023-11-09T18:09:50.2852228+00:00",
       "NumProgressed": 5866,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-09T19:16:46.953568+00:00",
+      "NumProgressed": 5867,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12800,7 +12805,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2170
+      "UsersEstimate": 2171
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -12847,15 +12852,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5866,
+      "Progressed": 5867,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-03T19:58:07.8489681+00:00",
-  "LastChanged_Achievements": "2023-11-09T18:09:50.2852222+00:00",
+  "LastChanged_Achievements": "2023-11-09T19:16:46.9535677+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.1282192+00:00",
-  "LastUpdate_Ratings": "2023-11-09T18:02:31.0896514+00:00",
-  "LastUpdate_Achievements": "2023-11-09T18:09:50.2853408+00:00"
+  "LastUpdate_Ratings": "2023-11-09T19:09:13.9053622+00:00",
+  "LastUpdate_Achievements": "2023-11-09T19:16:46.9536671+00:00"
 }
