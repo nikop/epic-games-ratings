@@ -60,8 +60,8 @@
 | 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,509 | 4.58 | 446 |
 | 59 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,465 | 4.80 | 87 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,440 | 4.75 | 144 |
-| 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,090 | 4.79 | 96 |
-| 62 | [Cities: Skylines](games/c/cities__skylines.md) | 6,089 | 4.66 | 291 |
+| 61 | [Cities: Skylines](games/c/cities__skylines.md) | 6,102 | 4.66 | 291 |
+| 62 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,090 | 4.79 | 96 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,022 | 4.82 | 64 |
 | 64 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,990 | 4.64 | 332 |
 | 65 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,951 | 4.66 | 291 |
@@ -79,7 +79,7 @@
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,671 | 4.70 | 213 |
 | 78 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,598 | 4.70 | 213 |
 | 79 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,574 | 3.97 | 1,002 |
-| 80 | [SMITE](games/s/smite.md) | 4,552 | 4.43 | 690 |
+| 80 | [SMITE](games/s/smite.md) | 4,558 | 4.43 | 690 |
 | 81 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,307 | 4.57 | 469 |
 | 82 | [God of War](games/g/god_of_war.md) | 4,276 | 4.88 | 17 |
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,145 | 4.51 | 565 |
@@ -203,7 +203,7 @@
 | 201 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 550 | 4.60 | 411 |
 | 202 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 536 | 4.86 | 29 |
 | 203 | [Terraforming Mars](games/t/terraforming_mars.md) | 524 | 4.53 | 536 |
-| 204 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 522 | 3.95 | 1,004 |
+| 204 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 523 | 3.95 | 1,004 |
 | 205 | [Ghostrunner](games/g/ghostrunner.md) | 517 | 4.72 | 185 |
 | 206 | [Surviving Mars](games/s/surviving_mars.md) | 504 | 4.61 | 385 |
 | 207 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 484 | 4.40 | 736 |
@@ -247,17 +247,17 @@
 | 245 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 309 | 4.50 | 587 |
 | 246 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.63 | 349 |
 | 246 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 305 | 4.43 | 690 |
+| 248 | [Blazing Sails](games/b/blazing_sails.md) | 298 | 3.89 | 1,014 |
 | 248 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 298 | 4.80 | 87 |
-| 249 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 866 |
-| 250 | [Dead Cells](games/d/dead_cells.md) | 293 | 4.87 | 24 |
-| 251 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 292 | 4.61 | 385 |
-| 252 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 291 | 4.45 | 662 |
-| 253 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 289 | 4.43 | 690 |
-| 254 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 288 | 4.36 | 779 |
-| 255 | [Diabotical](games/d/diabotical.md) | 286 | 4.74 | 156 |
-| 256 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 284 | 4.62 | 367 |
-| 257 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 281 | 4.60 | 411 |
-| 258 | [Blazing Sails](games/b/blazing_sails.md) | 280 | 3.89 | 1,014 |
+| 250 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 866 |
+| 251 | [Dead Cells](games/d/dead_cells.md) | 293 | 4.87 | 24 |
+| 252 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 292 | 4.61 | 385 |
+| 253 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 291 | 4.45 | 662 |
+| 254 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 289 | 4.43 | 690 |
+| 255 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 288 | 4.36 | 779 |
+| 256 | [Diabotical](games/d/diabotical.md) | 286 | 4.74 | 156 |
+| 257 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 284 | 4.62 | 367 |
+| 258 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 281 | 4.60 | 411 |
 | 259 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 278 | 4.49 | 606 |
 | 260 | [Sheltered](games/s/sheltered.md) | 276 | 4.41 | 720 |
 | 261 | [MudRunner](games/m/mudrunner.md) | 275 | 4.61 | 385 |
@@ -288,7 +288,7 @@
 | 285 | [Unrailed!](games/u/unrailed!.md) | 201 | 4.64 | 332 |
 | 287 | [Pinball FX](games/p/pinball_fx.md) | 199 | 4.06 | 972 |
 | 288 | [LEGO® Batman™: The Videogame](games/l/lego®_batman™__the_videogame.md) | 198 | 4.52 | 553 |
-| 289 | [Alan Wake 2](games/a/alan_wake_2.md) | 196 | 4.77 | 115 |
+| 289 | [Alan Wake 2](games/a/alan_wake_2.md) | 197 | 4.77 | 115 |
 | 290 | [Crashlands](games/c/crashlands.md) | 195 | 4.66 | 291 |
 | 291 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 187 | 4.62 | 367 |
 | 292 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 186 | 4.22 | 896 |
@@ -306,9 +306,9 @@
 | 303 | [The Outlast Trials](games/t/the_outlast_trials.md) | 174 | 4.65 | 312 |
 | 305 | [Cris Tales](games/c/cris_tales.md) | 173 | 4.36 | 779 |
 | 305 | [Swords of Legends Online](games/s/swords_of_legends_online.md) | 173 | 4.28 | 847 |
+| 307 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 166 | 4.79 | 96 |
 | 307 | [Mages of Mystralia](games/m/mages_of_mystralia.md) | 166 | 4.38 | 763 |
-| 308 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 165 | 4.55 | 502 |
-| 309 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 164 | 4.79 | 96 |
+| 309 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 165 | 4.55 | 502 |
 | 310 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 158 | 4.86 | 29 |
 | 311 | [Blasphemous](games/b/blasphemous.md) | 157 | 4.86 | 29 |
 | 312 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 155 | 4.51 | 565 |
