@@ -1434,9 +1434,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 283,
+  "EOS_Progressed": 284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 283,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2174,6 +2174,11 @@
       "Time": "2023-11-09T02:23:24.1471552+00:00",
       "NumProgressed": 283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T03:04:32.6235462+00:00",
+      "NumProgressed": 284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-02T08:07:08.352719+00:00",
@@ -2184,9 +2189,9 @@
       "ID": "C_KNOWLEDGE",
       "SetID": "80dcan0",
       "Name": "Knowledge is Power",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 94
     },
     {
       "ID": "C_KNOWLEDGE_ALL",
@@ -2202,15 +2207,15 @@
       "Name": "On that Grindset",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "C_STAYUP",
       "SetID": "80dcan0",
       "Name": "Panda-kin",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     },
     {
       "ID": "C_YEAR",
@@ -2240,9 +2245,9 @@
       "ID": "F_MONSTER_ELITE",
       "SetID": "80dcan0",
       "Name": "Big Game Hunter",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "F_RUIN_S_ALL",
@@ -2256,17 +2261,17 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 220,
+      "Percentage": 219,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 622
     },
     {
       "ID": "M_BACKPACK",
       "SetID": "80dcan0",
       "Name": "Pack Mule",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "M_COMMISSION",
@@ -2282,7 +2287,7 @@
       "Name": "Iron Chef",
       "Percentage": 177,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 503
     },
     {
       "ID": "M_EXPAND",
@@ -2290,7 +2295,7 @@
       "Name": "My Time Mansion",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "M_GOLS",
@@ -2330,15 +2335,15 @@
       "Name": "Finishing Touches",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "P_BRIDGE",
       "SetID": "80dcan0",
       "Name": "Bridging the Gap",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "P_CRANELIFT",
@@ -2410,7 +2415,7 @@
       "Name": "Greeno-B-Gone",
       "Percentage": 110,
       "XP": 20,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "P_SAVESANDROCK",
@@ -2418,7 +2423,7 @@
       "Name": "Your Especially Earned Trajectory",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "P_SCHOOL",
@@ -2432,9 +2437,9 @@
       "ID": "P_THEMEPARK",
       "SetID": "80dcan0",
       "Name": "Happier-est Place on Earth",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 94
     },
     {
       "ID": "P_TUNNEL",
@@ -2482,7 +2487,7 @@
       "Name": "Chatterbox",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "S_DANCE",
@@ -2586,7 +2591,7 @@
       "Name": "Mole Masher",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "S_WINTERSOLSTICE",
@@ -2634,7 +2639,7 @@
       "Name": "Diamonds are Forever",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "X_GET_FECE",
@@ -2650,7 +2655,7 @@
       "Name": "Newton",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "X_MUSEUM",
@@ -2665,15 +2670,15 @@
     {
       "ID": "80dcan0",
       "IsBase": true,
-      "Progressed": 283,
+      "Progressed": 284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-08T05:02:45.886678+00:00",
-  "LastChanged_Achievements": "2023-11-09T02:23:24.1471547+00:00",
+  "LastChanged_Achievements": "2023-11-09T03:04:32.6235457+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:04.0136254+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:21:31.6057285+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:23:24.1471979+00:00"
+  "LastUpdate_Ratings": "2023-11-09T03:02:41.3353514+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:04:32.6235977+00:00"
 }

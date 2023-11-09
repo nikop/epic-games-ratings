@@ -2287,7 +2287,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 44504,
+  "EOS_Progressed": 44505,
   "EOS_Completed": 24,
   "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
@@ -24312,6 +24312,11 @@
       "Time": "2023-11-09T01:49:27.2345316+00:00",
       "NumProgressed": 44504,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-11-09T03:04:38.21398+00:00",
+      "NumProgressed": 44505,
+      "NumCompleted": 24
     }
   ],
   "TotalAchievements": 75,
@@ -24355,7 +24360,7 @@
       "Name": "Cursed Creature",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25367
+      "UsersEstimate": 25368
     },
     {
       "ID": "achievements_14",
@@ -24379,7 +24384,7 @@
       "Name": "Mad Genius",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 15576
+      "UsersEstimate": 15577
     },
     {
       "ID": "achievements_19",
@@ -24427,7 +24432,7 @@
       "Name": "Chainbreaker - I",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26702
+      "UsersEstimate": 26703
     },
     {
       "ID": "achievements_24",
@@ -24435,7 +24440,7 @@
       "Name": "Chainbreaker - II",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 24477
+      "UsersEstimate": 24478
     },
     {
       "ID": "achievements_25",
@@ -24475,7 +24480,7 @@
       "Name": "Bane of Mercenaries - I",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14241
+      "UsersEstimate": 14242
     },
     {
       "ID": "achievements_3",
@@ -24491,7 +24496,7 @@
       "Name": "Bane of Mercenaries - II",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 13796
+      "UsersEstimate": 13797
     },
     {
       "ID": "achievements_31",
@@ -24507,7 +24512,7 @@
       "Name": "Cannon Fodder - I",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 15131
+      "UsersEstimate": 15132
     },
     {
       "ID": "achievements_33",
@@ -24619,7 +24624,7 @@
       "Name": "Legendary Warrior",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 5340
+      "UsersEstimate": 5341
     },
     {
       "ID": "achievements_46",
@@ -24627,7 +24632,7 @@
       "Name": "Improvement",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 38273
+      "UsersEstimate": 38274
     },
     {
       "ID": "achievements_47",
@@ -24659,7 +24664,7 @@
       "Name": "Necromancer\u0027s Apprentice",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 22697
+      "UsersEstimate": 22698
     },
     {
       "ID": "achievements_50",
@@ -24691,7 +24696,7 @@
       "Name": "Extraction",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25367
+      "UsersEstimate": 25368
     },
     {
       "ID": "achievements_54",
@@ -24747,7 +24752,7 @@
       "Name": "Soul of Lies",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 15131
+      "UsersEstimate": 15132
     },
     {
       "ID": "achievements_61",
@@ -24899,7 +24904,7 @@
       "Name": "Blood Moon",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 32488
+      "UsersEstimate": 32489
     },
     {
       "ID": "achievements_8",
@@ -24922,15 +24927,15 @@
     {
       "ID": "6hgbao0",
       "IsBase": true,
-      "Progressed": 44504,
+      "Progressed": 44505,
       "Completed": 24
     }
   ],
   "FirstSeen": "2022-07-22T20:19:38.7739804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.1063389+00:00",
   "LastChanged": "2023-11-08T14:57:43.055603+00:00",
-  "LastChanged_Achievements": "2023-11-09T02:23:29.684249+00:00",
+  "LastChanged_Achievements": "2023-11-09T03:04:38.2139796+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.8763868+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:16:16.9979179+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:23:29.6844067+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:57:41.7650692+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:04:38.2141345+00:00"
 }

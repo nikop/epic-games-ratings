@@ -4895,10 +4895,16 @@
       "Rating": 4.84,
       "NumberOfAwards": 3777,
       "NumberOfAwardsMax": 454
+    },
+    {
+      "Time": "2023-11-09T02:57:18.8352494+00:00",
+      "Rating": 4.84,
+      "NumberOfAwards": 3778,
+      "NumberOfAwardsMax": 454
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3777,
+  "NumberOfAwards": 3778,
   "NumberOfAwardsMax": 454,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4906,7 +4912,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 355
+      "Count": 356
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4969,9 +4975,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 250135,
+  "EOS_Progressed": 250136,
   "EOS_Completed": 871,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 693,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -27039,6 +27045,11 @@
       "Time": "2023-11-09T01:53:55.4252938+00:00",
       "NumProgressed": 250135,
       "NumCompleted": 871
+    },
+    {
+      "Time": "2023-11-09T03:09:05.486248+00:00",
+      "NumProgressed": 250136,
+      "NumCompleted": 871
     }
   ],
   "TotalAchievements": 39,
@@ -27082,7 +27093,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 67536
+      "UsersEstimate": 67537
     },
     {
       "ID": "AchievementBigFootID",
@@ -27098,7 +27109,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75040
+      "UsersEstimate": 75041
     },
     {
       "ID": "AchievementBoulderID",
@@ -27114,7 +27125,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 227623
+      "UsersEstimate": 227624
     },
     {
       "ID": "AchievementClownID",
@@ -27154,7 +27165,7 @@
       "Name": "French Fika",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 17509
+      "UsersEstimate": 17510
     },
     {
       "ID": "AchievementGatorID",
@@ -27218,7 +27229,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142577
+      "UsersEstimate": 142578
     },
     {
       "ID": "AchievementLootBoxID",
@@ -27250,7 +27261,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 95051
+      "UsersEstimate": 95052
     },
     {
       "ID": "AchievementRampID",
@@ -27282,7 +27293,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 185100
+      "UsersEstimate": 185101
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -27322,7 +27333,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137574
+      "UsersEstimate": 137575
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -27330,7 +27341,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 117563
+      "UsersEstimate": 117564
     },
     {
       "ID": "AchievementTrinketID",
@@ -27354,23 +27365,23 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 67536
+      "UsersEstimate": 67537
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250135,
+      "Progressed": 250136,
       "Completed": 871
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2023-11-08T22:57:11.4077501+00:00",
-  "LastChanged_Achievements": "2023-11-09T02:28:01.7616075+00:00",
+  "LastChanged": "2023-11-09T02:57:18.8352492+00:00",
+  "LastChanged_Achievements": "2023-11-09T03:09:05.4862475+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:20.6664953+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:15:54.383068+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:28:01.7617183+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:57:18.8352501+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:09:05.4863457+00:00"
 }

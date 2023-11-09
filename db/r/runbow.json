@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251103,
+  "EOS_Progressed": 251104,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18542,6 +18542,11 @@
       "Time": "2023-11-09T01:53:29.5632533+00:00",
       "NumProgressed": 251103,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-09T03:08:40.1406604+00:00",
+      "NumProgressed": 251104,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -18625,7 +18630,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37665
+      "UsersEstimate": 37666
     },
     {
       "ID": "clearCut",
@@ -18785,7 +18790,7 @@
       "Name": "Muddy Waters",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35154
+      "UsersEstimate": 35155
     },
     {
       "ID": "myFirstRunbow",
@@ -18873,7 +18878,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32643
+      "UsersEstimate": 32644
     },
     {
       "ID": "treeMedalist",
@@ -18913,14 +18918,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40176
+      "UsersEstimate": 40177
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251103,
+      "Progressed": 251104,
       "Completed": 6
     }
   ],
@@ -18928,8 +18933,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-09T02:27:15.9194055+00:00",
+  "LastChanged_Achievements": "2023-11-09T03:08:40.14066+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:10.071238+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:17:44.0620199+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:27:15.9195322+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:59:11.7364345+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:08:40.1407572+00:00"
 }

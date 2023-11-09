@@ -6,16 +6,16 @@
 | ---- | ---------- | ----- |
 | Break Out | 59.00% | ~103 |
 | Trinity | 32.00% | ~56 |
+| The Collector | 26.00% | ~45 |
 | Shatter Them All | 25.00% | ~44 |
 | I Found It | 25.00% | ~44 |
-| The Collector | 25.00% | ~44 |
 | Find Allies | 24.00% | ~42 |
 | A Taste of Wrath | 24.00% | ~42 |
 | Fashion Victim | 24.00% | ~42 |
+| Geared Up | 23.00% | ~40 |
 | Scholar | 23.00% | ~40 |
 | Powerful Allies | 22.00% | ~38 |
 | Adventurer | 22.00% | ~38 |
-| Geared Up | 22.00% | ~38 |
 | Tributes of Caladrias | 20.00% | ~35 |
 | Stone Collection | 18.00% | ~31 |
 | Essence Blow | 11.00% | ~19 |

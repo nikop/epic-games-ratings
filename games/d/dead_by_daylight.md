@@ -6,53 +6,53 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~70,347 |
-| Zealous | 6.00% | ~60,298 |
-| Skillful | 6.00% | ~60,298 |
-| Not half bad | 5.00% | ~50,248 |
-| Apt Survivor | 5.00% | ~50,248 |
-| Make Some Noise | 5.00% | ~50,248 |
-| Handyman | 4.00% | ~40,199 |
-| Survival Treasures | 4.00% | ~40,199 |
-| I | 4.00% | ~40,199 |
-| Sorted | 4.00% | ~40,199 |
-| Resurgence | 4.00% | ~40,199 |
-| The Grand Sacrifice | 3.00% | ~30,149 |
-| Agonizing Escape | 3.00% | ~30,149 |
-| Backdoor Escape | 3.00% | ~30,149 |
-| I've got your back | 3.00% | ~30,149 |
-| No one left behind | 3.00% | ~30,149 |
-| Medic | 3.00% | ~30,149 |
-| Perfect Escape | 3.00% | ~30,149 |
-| Perfect Killing | 3.00% | ~30,149 |
-| Bloody Millionaire | 3.00% | ~30,149 |
-| Risk it all | 3.00% | ~30,149 |
-| II | 3.00% | ~30,149 |
-| Engineer | 3.00% | ~30,149 |
-| Healthy Obsession | 3.00% | ~30,149 |
-| Close Shave | 3.00% | ~30,149 |
-| Preemptive Strike | 3.00% | ~30,149 |
-| Humanitarian | 3.00% | ~30,149 |
-| Blood on your hands | 2.00% | ~20,099 |
-| Escape Artist | 2.00% | ~20,099 |
-| Nerves of steel | 2.00% | ~20,099 |
-| Apt Killer | 2.00% | ~20,099 |
-| Vulture | 2.00% | ~20,099 |
-| III | 2.00% | ~20,099 |
-| III-50 | 2.00% | ~20,099 |
-| Cherish your Life | 2.00% | ~20,099 |
-| Wounded Healer | 2.00% | ~20,099 |
-| First to the Punch | 2.00% | ~20,099 |
-| Operation: Survival | 2.00% | ~20,099 |
-| Old West Oasis | 2.00% | ~20,099 |
-| Every Last Drop | 2.00% | ~20,099 |
-| Raccoon City Recruit | 2.00% | ~20,099 |
-| With Scars to Show | 2.00% | ~20,099 |
-| Flight to Freedom | 2.00% | ~20,099 |
-| A Fast Death | 2.00% | ~20,099 |
-| Chorus of Chaos | 2.00% | ~20,099 |
-| One More Step | 2.00% | ~20,099 |
-| Second Act | 2.00% | ~20,099 |
+| It wakes | 7.00% | ~70,352 |
+| Zealous | 6.00% | ~60,301 |
+| Skillful | 6.00% | ~60,301 |
+| Not half bad | 5.00% | ~50,251 |
+| Apt Survivor | 5.00% | ~50,251 |
+| Make Some Noise | 5.00% | ~50,251 |
+| Handyman | 4.00% | ~40,201 |
+| Survival Treasures | 4.00% | ~40,201 |
+| I | 4.00% | ~40,201 |
+| Sorted | 4.00% | ~40,201 |
+| Resurgence | 4.00% | ~40,201 |
+| The Grand Sacrifice | 3.00% | ~30,151 |
+| Agonizing Escape | 3.00% | ~30,151 |
+| Backdoor Escape | 3.00% | ~30,151 |
+| I've got your back | 3.00% | ~30,151 |
+| No one left behind | 3.00% | ~30,151 |
+| Medic | 3.00% | ~30,151 |
+| Perfect Escape | 3.00% | ~30,151 |
+| Perfect Killing | 3.00% | ~30,151 |
+| Bloody Millionaire | 3.00% | ~30,151 |
+| Risk it all | 3.00% | ~30,151 |
+| II | 3.00% | ~30,151 |
+| Engineer | 3.00% | ~30,151 |
+| Healthy Obsession | 3.00% | ~30,151 |
+| Close Shave | 3.00% | ~30,151 |
+| Preemptive Strike | 3.00% | ~30,151 |
+| Humanitarian | 3.00% | ~30,151 |
+| Blood on your hands | 2.00% | ~20,100 |
+| Escape Artist | 2.00% | ~20,100 |
+| Nerves of steel | 2.00% | ~20,100 |
+| Apt Killer | 2.00% | ~20,100 |
+| Vulture | 2.00% | ~20,100 |
+| III | 2.00% | ~20,100 |
+| III-50 | 2.00% | ~20,100 |
+| Cherish your Life | 2.00% | ~20,100 |
+| Wounded Healer | 2.00% | ~20,100 |
+| First to the Punch | 2.00% | ~20,100 |
+| Operation: Survival | 2.00% | ~20,100 |
+| Old West Oasis | 2.00% | ~20,100 |
+| Every Last Drop | 2.00% | ~20,100 |
+| Raccoon City Recruit | 2.00% | ~20,100 |
+| With Scars to Show | 2.00% | ~20,100 |
+| Flight to Freedom | 2.00% | ~20,100 |
+| A Fast Death | 2.00% | ~20,100 |
+| Chorus of Chaos | 2.00% | ~20,100 |
+| One More Step | 2.00% | ~20,100 |
+| Second Act | 2.00% | ~20,100 |
 | A bite for the Entity | 1.00% | ~10,050 |
 | Blood on your face | 1.00% | ~10,050 |
 | Made it out alive! | 1.00% | ~10,050 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,005 |
 | Adept Ripley | 0.10% | ~1,005 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,004,964 (Ranked 14)  
+Progressed: 1,005,022 (Ranked 14)  
 Completed: 52 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -439,7 +439,7 @@ Completed: 52 (0.01%) (Ranked 321)
 | 2023-11-06 | 1,000,713 | 52 |
 | 2023-11-07 | 1,002,710 | 52 |
 | 2023-11-08 | 1,004,632 | 52 |
-| 2023-11-09 | 1,004,964 | 52 |
+| 2023-11-09 | 1,005,022 | 52 |
 ## Awards
 Max (Diverse Characters): 35,641  (Ranked 15)  
 Sum: 273,111 (Ranked 13)  

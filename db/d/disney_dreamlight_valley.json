@@ -4569,7 +4569,7 @@
       "Count": 522
     }
   ],
-  "EOS_Progressed": 11535,
+  "EOS_Progressed": 11536,
   "EOS_Completed": 272,
   "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 3,
@@ -18194,6 +18194,11 @@
       "Time": "2023-11-09T01:50:30.3159591+00:00",
       "NumProgressed": 11535,
       "NumCompleted": 272
+    },
+    {
+      "Time": "2023-11-09T03:05:37.8116602+00:00",
+      "NumProgressed": 11536,
+      "NumCompleted": 272
     }
   ],
   "TotalAchievements": 15,
@@ -18221,7 +18226,7 @@
       "Name": "Bestest Friend",
       "Percentage": 47,
       "XP": 75,
-      "UsersEstimate": 5421
+      "UsersEstimate": 5422
     },
     {
       "ID": "Chef_Cook",
@@ -18253,7 +18258,7 @@
       "Name": "Duty Bound",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "Gardener",
@@ -18277,7 +18282,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 70,
       "XP": 75,
-      "UsersEstimate": 8074
+      "UsersEstimate": 8075
     },
     {
       "ID": "Miner",
@@ -18293,7 +18298,7 @@
       "Name": "Photographer",
       "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7959
+      "UsersEstimate": 7960
     },
     {
       "ID": "Renovator",
@@ -18324,7 +18329,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 11535,
+      "Progressed": 11536,
       "Completed": 272
     }
   ],
@@ -18332,8 +18337,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-08T19:58:40.4686842+00:00",
-  "LastChanged_Achievements": "2023-11-09T02:24:30.6521479+00:00",
+  "LastChanged_Achievements": "2023-11-09T03:05:37.8116598+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:05.8389263+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:17:06.6420276+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:24:30.6522627+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:58:37.06+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:05:37.8117422+00:00"
 }

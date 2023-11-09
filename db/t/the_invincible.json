@@ -336,9 +336,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "AchvLava",
@@ -424,9 +424,9 @@
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "AchvReachCondor",
@@ -479,8 +479,8 @@
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-09T02:23:11.7523334+00:00",
+  "LastChanged_Achievements": "2023-11-09T03:04:20.3959719+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.4081389+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:17:47.087185+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:23:11.7523499+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:59:15.3312823+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:04:20.3959868+00:00"
 }

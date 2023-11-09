@@ -6285,9 +6285,9 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 715255,
+  "EOS_Progressed": 715262,
   "EOS_Completed": 2361,
-  "EOS_NewPlayers": 4739,
+  "EOS_NewPlayers": 4735,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29395,6 +29395,11 @@
       "Time": "2023-11-09T02:24:48.4858887+00:00",
       "NumProgressed": 715255,
       "NumCompleted": 2361
+    },
+    {
+      "Time": "2023-11-09T03:05:55.5016292+00:00",
+      "NumProgressed": 715262,
+      "NumCompleted": 2361
     }
   ],
   "TotalAchievements": 51,
@@ -29508,9 +29513,9 @@
       "ID": "ach_explorer",
       "SetID": "7km39fm",
       "Name": "Smorgasbord",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 715
+      "UsersEstimate": 1431
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -29813,22 +29818,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715255,
+      "Progressed": 715262,
       "Completed": 2361
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40797,
-      "Completed": 36499
+      "Progressed": 40804,
+      "Completed": 36500
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-08T21:58:33.0229559+00:00",
-  "LastChanged_Achievements": "2023-11-09T02:24:48.4858882+00:00",
+  "LastChanged_Achievements": "2023-11-09T03:05:55.501629+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:17:07.0279067+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:24:48.4860133+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:58:37.3331253+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:05:55.5017446+00:00"
 }

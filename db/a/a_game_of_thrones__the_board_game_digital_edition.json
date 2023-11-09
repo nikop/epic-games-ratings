@@ -1314,7 +1314,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 27926,
+  "EOS_Progressed": 27929,
   "EOS_Completed": 76,
   "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 2,
@@ -23069,6 +23069,11 @@
       "Time": "2023-11-09T02:27:41.9616506+00:00",
       "NumProgressed": 27926,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-11-09T03:08:46.0426434+00:00",
+      "NumProgressed": 27929,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 22,
@@ -23176,7 +23181,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "1028",
@@ -23200,7 +23205,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5585
+      "UsersEstimate": 5586
     },
     {
       "ID": "1031",
@@ -23216,7 +23221,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11170
+      "UsersEstimate": 11172
     },
     {
       "ID": "1033",
@@ -23240,7 +23245,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3630
+      "UsersEstimate": 3631
     },
     {
       "ID": "1036",
@@ -23255,15 +23260,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 27926,
+      "Progressed": 27929,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-09T02:27:41.9616491+00:00",
+  "LastChanged_Achievements": "2023-11-09T03:08:46.0426429+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0319052+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:21:48.2309892+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:27:41.9617538+00:00"
+  "LastUpdate_Ratings": "2023-11-09T03:02:56.7630832+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:08:46.0427467+00:00"
 }

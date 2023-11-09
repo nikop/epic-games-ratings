@@ -6,14 +6,14 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~49,042 |
-| Worth it | 63.00% | ~39,611 |
-| Eagle Eye | 55.00% | ~34,581 |
+| Setting an example | 78.00% | ~49,043 |
+| Worth it | 63.00% | ~39,612 |
+| Eagle Eye | 55.00% | ~34,582 |
 | Corpseman I | 40.00% | ~25,150 |
-| Blast fishing | 37.00% | ~23,263 |
+| Blast fishing | 37.00% | ~23,264 |
 | Not alone | 32.00% | ~20,120 |
-| Headhunter I | 26.00% | ~16,347 |
-| Manual Labour I | 25.00% | ~15,718 |
+| Headhunter I | 26.00% | ~16,348 |
+| Manual Labour I | 25.00% | ~15,719 |
 | Developers, Developers, Developers | 24.00% | ~15,090 |
 | Basic Training | 24.00% | ~15,090 |
 | Furchtlos und Treu | 13.00% | ~8,174 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~1,886 |
 | Silver x100 | 3.00% | ~1,886 |
 | Impavidum Ferient Bella! | 3.00% | ~1,886 |
-| Bronze x100 | 2.00% | ~1,257 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,257 |
+| Bronze x100 | 2.00% | ~1,258 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,258 |
 | Gold x100 | 1.00% | ~629 |
 | Hunting the Hun | 1.00% | ~629 |
 | #1 | 1.00% | ~629 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Headhunter II | 1.00% | ~629 |
 | Corpseman III | 1.00% | ~629 |
 | Elite Player | 0.80% | ~503 |
-| Manual Labour III | 0.40% | ~251 |
+| Manual Labour III | 0.40% | ~252 |
 | Buddy | 0.30% | ~189 |
 | War is better with friends II | 0.20% | ~126 |
 | Gold Collector | 0.10% | ~63 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~63 |
 | Blood Brother | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,874 (Ranked 104)  
+Progressed: 62,876 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 4 (0.01%) (Ranked 321)
 | 2023-11-06 | 62,733 | 4 |
 | 2023-11-07 | 62,792 | 4 |
 | 2023-11-08 | 62,864 | 4 |
-| 2023-11-09 | 62,874 | 4 |
+| 2023-11-09 | 62,876 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 351)  
 Sum: 905 (Ranked 270)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3203,7 +3203,7 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17250,
+  "EOS_Progressed": 17251,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -13313,6 +13313,11 @@
       "Time": "2023-11-09T00:07:23.6470115+00:00",
       "NumProgressed": 17250,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-09T03:03:14.7200792+00:00",
+      "NumProgressed": 17251,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13340,7 +13345,7 @@
       "Name": "Paradise",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "AllServices",
@@ -13460,7 +13465,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "WinNearCrystals",
@@ -13484,7 +13489,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "WinNearFishmen",
@@ -13540,7 +13545,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "WinNearRuins",
@@ -13548,7 +13553,7 @@
       "Name": "Lost Colonies",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "WinNearStatue",
@@ -13580,7 +13585,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "WinOnCoral",
@@ -13620,7 +13625,7 @@
       "Name": "Prestigious Expedition",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "WinPrestige20",
@@ -13636,7 +13641,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "WinWIthCaches",
@@ -13652,7 +13657,7 @@
       "Name": "Blood Flower Farmer",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "WinWithEvents",
@@ -13723,15 +13728,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17250,
+      "Progressed": 17251,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-07T21:58:31.8964785+00:00",
-  "LastChanged_Achievements": "2023-11-09T02:22:03.4193181+00:00",
+  "LastChanged_Achievements": "2023-11-09T03:03:14.720079+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:17:50.2399872+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:22:03.4193841+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:59:17.5407977+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:03:14.7201634+00:00"
 }

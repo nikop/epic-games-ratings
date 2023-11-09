@@ -8341,18 +8341,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 28187,
       "NumberOfAwardsMax": 7582
+    },
+    {
+      "Time": "2023-11-09T03:02:33.0538326+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28192,
+      "NumberOfAwardsMax": 7587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28187,
-  "NumberOfAwardsMax": 7582,
+  "NumberOfAwards": 28192,
+  "NumberOfAwardsMax": 7587,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7582
+      "Count": 7587
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8427,7 +8433,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 807650,
+  "EOS_Progressed": 807651,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 843,
   "EOS_NewCompleters": 0,
@@ -31137,6 +31143,11 @@
       "Time": "2023-11-09T02:22:56.1652632+00:00",
       "NumProgressed": 807650,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-09T03:04:04.9442666+00:00",
+      "NumProgressed": 807651,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -31156,7 +31167,7 @@
       "Name": "Woman\u0027s Lot",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "Alcoholic",
@@ -31180,7 +31191,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169606
+      "UsersEstimate": 169607
     },
     {
       "ID": "BadGirl",
@@ -31196,7 +31207,7 @@
       "Name": "Bad Trip",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40382
+      "UsersEstimate": 40383
     },
     {
       "ID": "Bailiff",
@@ -31260,7 +31271,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201912
+      "UsersEstimate": 201913
     },
     {
       "ID": "Chivalrous",
@@ -31268,7 +31279,7 @@
       "Name": "Chivalrous Soul",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "ChristianBurial",
@@ -31340,7 +31351,7 @@
       "Name": "Spoilsport",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "Fatso",
@@ -31372,7 +31383,7 @@
       "Name": "Freud",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "FriendsWithoutBenefits",
@@ -31396,7 +31407,7 @@
       "Name": "Gambler",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "GameIsOver",
@@ -31428,7 +31439,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72688
+      "UsersEstimate": 72689
     },
     {
       "ID": "HardcoreHenry",
@@ -31468,7 +31479,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 104994
+      "UsersEstimate": 104995
     },
     {
       "ID": "Judas",
@@ -31532,7 +31543,7 @@
       "Name": "Master Huntsman",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "MasterOfArena",
@@ -31572,7 +31583,7 @@
       "Name": "Monk",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40382
+      "UsersEstimate": 40383
     },
     {
       "ID": "NotSoChristianBurial",
@@ -31676,7 +31687,7 @@
       "Name": "Serial Killer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40382
+      "UsersEstimate": 40383
     },
     {
       "ID": "Sinner",
@@ -31700,7 +31711,7 @@
       "Name": "Stealth Killer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 8076
+      "UsersEstimate": 8077
     },
     {
       "ID": "TalmbergPreparation",
@@ -31803,15 +31814,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 807650,
+      "Progressed": 807651,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-08T20:02:43.5434983+00:00",
-  "LastChanged_Achievements": "2023-11-09T02:22:56.1652629+00:00",
+  "LastChanged": "2023-11-09T03:02:33.0538325+00:00",
+  "LastChanged_Achievements": "2023-11-09T03:04:04.9442662+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.089213+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:21:24.0948264+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:22:56.1654952+00:00"
+  "LastUpdate_Ratings": "2023-11-09T03:02:33.053833+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:04:04.9444167+00:00"
 }

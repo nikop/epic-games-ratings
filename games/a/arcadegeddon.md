@@ -6,32 +6,32 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 88.00% | ~8,410 |
-| Photogenic | 85.00% | ~8,123 |
-| Surge Gauntlet Jockey | 82.00% | ~7,837 |
-| Plug It In | 81.00% | ~7,741 |
-| Adventure Time | 77.00% | ~7,359 |
-| Playing With Power | 74.00% | ~7,072 |
-| Coup d'Etat | 57.00% | ~5,447 |
-| You're Fired | 55.00% | ~5,256 |
+| Let's Get This Party Started | 88.00% | ~8,411 |
+| Photogenic | 85.00% | ~8,124 |
+| Surge Gauntlet Jockey | 82.00% | ~7,838 |
+| Plug It In | 81.00% | ~7,742 |
+| Adventure Time | 77.00% | ~7,360 |
+| Playing With Power | 74.00% | ~7,073 |
+| Coup d'Etat | 57.00% | ~5,448 |
+| You're Fired | 55.00% | ~5,257 |
 | Get Furious | 54.00% | ~5,161 |
 | Hacks In Stacks | 54.00% | ~5,161 |
-| Gunplay And Cosplay | 53.00% | ~5,065 |
+| Gunplay And Cosplay | 53.00% | ~5,066 |
 | Meching Enemies | 47.00% | ~4,492 |
 | Ticket Toddler | 43.00% | ~4,110 |
 | Booty Bashing | 38.00% | ~3,632 |
 | Field Medic | 37.00% | ~3,536 |
 | Here Comes a New Challenger | 36.00% | ~3,441 |
-| Rapid Response | 32.00% | ~3,058 |
+| Rapid Response | 32.00% | ~3,059 |
 | Surge Ahead | 30.00% | ~2,867 |
 | The Full Monty | 30.00% | ~2,867 |
-| Guardian Angel | 27.00% | ~2,580 |
+| Guardian Angel | 27.00% | ~2,581 |
 | Poppin Noggins | 24.00% | ~2,294 |
 | Clips and Crits | 19.00% | ~1,816 |
 | Grey Goo | 17.00% | ~1,625 |
 | Boss of Bosses | 15.00% | ~1,434 |
 | The Final Blow | 14.00% | ~1,338 |
-| To Be Continued | 13.00% | ~1,242 |
+| To Be Continued | 13.00% | ~1,243 |
 | Light My Fire | 11.00% | ~1,051 |
 | Seasoned Adventurer | 11.00% | ~1,051 |
 | 1.21 Gigawatts | 10.00% | ~956 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,557 (Ranked 158)  
+Progressed: 9,558 (Ranked 158)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-06 | 9,531 | 1 |
 | 2023-11-07 | 9,546 | 1 |
 | 2023-11-08 | 9,556 | 1 |
-| 2023-11-09 | 9,557 | 1 |
+| 2023-11-09 | 9,558 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 407)  
 Sum: 463 (Ranked 327)  

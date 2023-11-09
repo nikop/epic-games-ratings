@@ -2,7 +2,7 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 362,
   "Ranking_EOS_Progress": 733,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-10-26T20:01:30.909406+00:00",
@@ -257,6 +257,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 290,
       "NumberOfAwardsMax": 224
+    },
+    {
+      "Time": "2023-11-09T02:57:28.8788922+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 290,
+      "NumberOfAwardsMax": 224
     }
   ],
   "ReviewsDisabled": false,
@@ -301,8 +307,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-08T23:59:15.3613299+00:00",
+  "LastChanged": "2023-11-09T02:57:28.878892+00:00",
   "LastUpdate_AppInfo": "2023-11-07T18:56:54.0544561+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:16:03.8891299+00:00",
-  "LastUpdate_Achievements": "2023-11-09T02:22:00.6346576+00:00"
+  "LastUpdate_Ratings": "2023-11-09T02:57:28.8788926+00:00",
+  "LastUpdate_Achievements": "2023-11-09T03:03:11.9915408+00:00"
 }
