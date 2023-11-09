@@ -44,7 +44,7 @@
 | 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 536 | 202 |
 | 29 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 548 |
 | 44 | [Coffee Talk](games/c/coffee_talk.md) | 4.85 | 0 | 548 |
-| 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,030 | 46 |
+| 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,035 | 46 |
 | 44 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,612 | 68 |
 | 44 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 222 | 275 |
 | 44 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 154 | 313 |

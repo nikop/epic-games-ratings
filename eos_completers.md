@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.06% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.02% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.01% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.69% |
 | 9 | [greensheen Production](games/g/greensheen_production.md) | 35.71% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
@@ -23,13 +23,13 @@
 | 21 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 18.18% |
 | 22 | [Island Cities](games/i/island_cities.md) | 17.22% |
 | 23 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 15.56% |
-| 24 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.86% |
+| 24 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.77% |
 | 25 | [Remains](games/r/remains.md) | 14.55% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.35% |
 | 28 | [Seven Doors](games/s/seven_doors.md) | 11.76% |
 | 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.68% |
-| 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.43% |
+| 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.27% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 32 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.67% |
@@ -125,8 +125,8 @@
 | 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 124 | [Sifu](games/s/sifu.md) | 1.81% |
 | 125 | [Frogun](games/f/frogun.md) | 1.79% |
-| 126 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.77% |
-| 127 | [Somerville](games/s/somerville.md) | 1.75% |
+| 126 | [Somerville](games/s/somerville.md) | 1.75% |
+| 126 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.75% |
 | 128 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.72% |
 | 129 | [Night Book](games/n/night_book.md) | 1.68% |
 | 130 | [Five Dates](games/f/five_dates.md) | 1.62% |
@@ -138,9 +138,9 @@
 | 136 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 137 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
 | 138 | [Late Shift](games/l/late_shift.md) | 1.42% |
-| 139 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.37% |
-| 140 | [Iron Danger](games/i/iron_danger.md) | 1.36% |
-| 140 | [Ten Dates](games/t/ten_dates.md) | 1.36% |
+| 139 | [Iron Danger](games/i/iron_danger.md) | 1.36% |
+| 139 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.36% |
+| 139 | [Ten Dates](games/t/ten_dates.md) | 1.36% |
 | 142 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
 | 143 | [Chorus](games/c/chorus.md) | 1.34% |
 | 143 | [Poosh XL](games/p/poosh_xl.md) | 1.34% |

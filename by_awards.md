@@ -45,7 +45,7 @@
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,599 | 4.89 | 12 |
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,482 | 4.48 | 622 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,171 | 4.57 | 469 |
-| 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,030 | 4.85 | 44 |
+| 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,035 | 4.85 | 44 |
 | 47 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,872 | 4.70 | 213 |
 | 48 | [DEATH STRANDING](games/d/death_stranding.md) | 7,840 | 4.77 | 115 |
 | 49 | [Supraland](games/s/supraland.md) | 7,720 | 4.61 | 385 |
