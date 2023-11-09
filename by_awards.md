@@ -34,7 +34,7 @@
 | 32 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,748 | 4.36 | 778 |
 | 33 | [Satisfactory](games/s/satisfactory.md) | 12,487 | 4.88 | 17 |
 | 34 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 12,232 | 4.45 | 662 |
-| 35 | [SnowRunner](games/s/snowrunner.md) | 12,016 | 4.76 | 124 |
+| 35 | [SnowRunner](games/s/snowrunner.md) | 12,037 | 4.76 | 124 |
 | 36 | [NBA 2K21](games/n/nba_2k21.md) | 11,785 | 4.39 | 745 |
 | 37 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,593 | 4.69 | 230 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,605 | 4.78 | 106 |
@@ -42,7 +42,7 @@
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,935 | 4.58 | 446 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,352 | 4.58 | 446 |
 | 42 | [Control](games/c/control.md) | 8,690 | 4.60 | 411 |
-| 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,599 | 4.89 | 12 |
+| 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,604 | 4.89 | 12 |
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,482 | 4.48 | 622 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,171 | 4.57 | 469 |
 | 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,035 | 4.85 | 44 |
@@ -73,7 +73,7 @@
 | 71 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,323 | 4.69 | 230 |
 | 72 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 5,018 | 4.76 | 124 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,860 | 4.60 | 411 |
-| 74 | [Shop Titans](games/s/shop_titans.md) | 4,819 | 3.99 | 996 |
+| 74 | [Shop Titans](games/s/shop_titans.md) | 4,822 | 3.99 | 996 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,795 | 4.56 | 486 |
 | 76 | [MultiVersus](games/m/multiversus.md) | 4,750 | 4.56 | 486 |
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,671 | 4.70 | 213 |
@@ -102,7 +102,7 @@
 | 100 | [Path of Exile](games/p/path_of_exile.md) | 2,674 | 4.61 | 385 |
 | 101 | [RAGE 2](games/r/rage_2.md) | 2,648 | 4.27 | 857 |
 | 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 958 |
-| 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,505 | 4.80 | 87 |
+| 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,506 | 4.80 | 87 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,435 | 4.78 | 106 |
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,275 | 4.67 | 272 |
 | 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,261 | 4.63 | 349 |
@@ -242,8 +242,8 @@
 | 240 | [Tannenberg](games/t/tannenberg.md) | 335 | 4.39 | 745 |
 | 241 | [Darkwood](games/d/darkwood.md) | 328 | 4.61 | 385 |
 | 242 | [Railway Empire](games/r/railway_empire.md) | 323 | 4.51 | 565 |
-| 243 | [Hello Neighbor](games/h/hello_neighbor.md) | 319 | 4.56 | 486 |
-| 243 | [House Flipper](games/h/house_flipper.md) | 319 | 4.69 | 230 |
+| 243 | [Hello Neighbor](games/h/hello_neighbor.md) | 321 | 4.56 | 486 |
+| 244 | [House Flipper](games/h/house_flipper.md) | 319 | 4.69 | 230 |
 | 245 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 309 | 4.50 | 587 |
 | 246 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.63 | 349 |
 | 246 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 305 | 4.43 | 690 |
@@ -362,12 +362,12 @@
 | 360 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 98 | 4.86 | 29 |
 | 360 | [The Captain](games/t/the_captain.md) | 98 | 4.44 | 677 |
 | 362 | [Shadowrun Hong Kong - Extended Edition](games/s/shadowrun_hong_kong_-_extended_edition.md) | 97 | 4.54 | 523 |
+| 363 | [Armored Warfare](games/a/armored_warfare.md) | 96 | 4.10 | 958 |
 | 363 | [Scavengers](games/s/scavengers.md) | 96 | 4.18 | 925 |
 | 363 | [Shadowrun: Dragonfall - Director’s Cut](games/s/shadowrun__dragonfall_-_director’s_cut.md) | 96 | 4.55 | 502 |
 | 363 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 96 | 4.82 | 64 |
-| 366 | [Armored Warfare](games/a/armored_warfare.md) | 95 | 4.10 | 958 |
-| 366 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 95 | 4.41 | 720 |
-| 366 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 95 | 4.68 | 252 |
+| 367 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 95 | 4.41 | 720 |
+| 367 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 95 | 4.68 | 252 |
 | 369 | [Galactic Civilizations IV](games/g/galactic_civilizations_iv.md) | 94 | 4.17 | 931 |
 | 370 | [RAILGRADE](games/r/railgrade.md) | 92 | 4.55 | 502 |
 | 371 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 587 |
@@ -423,13 +423,13 @@
 | 420 | [Dandara: Trials of Fear Edition](games/d/dandara__trials_of_fear_edition.md) | 52 | 4.56 | 486 |
 | 420 | [Hyper Light Drifter](games/h/hyper_light_drifter.md) | 52 | 4.71 | 198 |
 | 420 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 52 | 4.38 | 763 |
+| 424 | [GRIME](games/g/grime.md) | 51 | 4.59 | 433 |
 | 424 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 51 | 4.21 | 901 |
 | 424 | [South Park™: The Stick of Truth™](games/s/south_park™__the_stick_of_truth™.md) | 51 | 4.81 | 80 |
-| 426 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 916 |
-| 426 | [GRIME](games/g/grime.md) | 50 | 4.59 | 433 |
-| 426 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 50 | 4.36 | 778 |
-| 426 | [The Riftbreaker](games/t/the_riftbreaker.md) | 50 | 4.76 | 124 |
-| 426 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 50 | 4.27 | 857 |
+| 427 | [Crayta](games/c/crayta.md) | 50 | 4.19 | 916 |
+| 427 | [Stubbs the Zombie in Rebel Without a Pulse](games/s/stubbs_the_zombie_in_rebel_without_a_pulse.md) | 50 | 4.36 | 778 |
+| 427 | [The Riftbreaker](games/t/the_riftbreaker.md) | 50 | 4.76 | 124 |
+| 427 | [Train Sim World® 4: Standard Edition](games/c/c2e18b972be9485bbc408c021e620cff.md) | 50 | 4.27 | 857 |
 | 431 | [Aimlabs](games/a/aimlabs.md) | 49 | 4.62 | 367 |
 | 431 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 49 | 4.43 | 690 |
 | 431 | [Expeditions: Rome](games/e/expeditions__rome.md) | 49 | 4.67 | 272 |

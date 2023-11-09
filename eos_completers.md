@@ -68,7 +68,7 @@
 | 66 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
 | 67 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 68 | [Bugsnax](games/b/bugsnax.md) | 4.80% |
-| 69 | [ZZT!](games/z/zzt!.md) | 4.64% |
+| 69 | [ZZT!](games/z/zzt!.md) | 4.63% |
 | 70 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
 | 70 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 4.60% |
 | 72 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
@@ -166,9 +166,9 @@
 | 163 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.89% |
 | 165 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.87% |
 | 166 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
-| 166 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.85% |
-| 168 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.84% |
-| 168 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
+| 167 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.84% |
+| 167 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.84% |
+| 167 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 170 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 171 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 172 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.77% |
