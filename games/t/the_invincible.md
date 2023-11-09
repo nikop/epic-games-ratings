@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 77.00% | ~73 |
-| The Teleprobe | 52.00% | ~49 |
+| The Teleprobe | 53.00% | ~50 |
 | The City | 43.00% | ~41 |
 | Krauta is alive | 31.00% | ~29 |
 | The field base | 26.00% | ~25 |

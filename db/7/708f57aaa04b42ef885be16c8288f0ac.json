@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4455,
+  "EOS_Progressed": 4456,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 703,
+  "EOS_NewPlayers": 702,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2551,6 +2551,11 @@
       "Time": "2023-11-09T06:08:38.2792331+00:00",
       "NumProgressed": 4455,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T07:09:27.791584+00:00",
+      "NumProgressed": 4456,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2763,7 +2768,7 @@
       "Name": "The Quarterback",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ThisIsDharma",
@@ -2834,7 +2839,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4455,
+      "Progressed": 4456,
       "Completed": 5
     }
   ],
@@ -2842,8 +2847,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:08:38.2792327+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:09:27.7915834+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-09T05:59:44.776212+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:08:38.2792683+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:01:01.5915261+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:09:27.791631+00:00"
 }

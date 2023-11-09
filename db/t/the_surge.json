@@ -376,9 +376,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4818,
+  "EOS_Progressed": 4819,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -3141,6 +3141,11 @@
       "Time": "2023-11-07T22:03:26.1014337+00:00",
       "NumProgressed": 4818,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-09T07:04:38.1021367+00:00",
+      "NumProgressed": 4819,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3200,7 +3205,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4095
+      "UsersEstimate": 4096
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3208,7 +3213,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4529
+      "UsersEstimate": 4530
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3216,7 +3221,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3710
+      "UsersEstimate": 3711
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3288,7 +3293,7 @@
       "Name": "Pusher Man",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ID_ACHIEV_19",
@@ -3368,7 +3373,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3710
+      "UsersEstimate": 3711
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3496,7 +3501,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3528,7 +3533,7 @@
       "Name": "Squad Chief Helvig",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ID_ACHIEV_50",
@@ -3687,15 +3692,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4818,
+      "Progressed": 4819,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:03:55.9948+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:04:38.1021362+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:08.5598133+00:00",
-  "LastUpdate_Ratings": "2023-11-09T05:59:02.6128216+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:03:55.9948907+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:00:02.8707951+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:04:38.102239+00:00"
 }

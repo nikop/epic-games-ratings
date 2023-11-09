@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -423,9 +423,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5300,
+  "EOS_Progressed": 5301,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6763,6 +6763,11 @@
       "Time": "2023-11-09T04:08:17.3333363+00:00",
       "NumProgressed": 5300,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-09T07:08:21.9056234+00:00",
+      "NumProgressed": 5301,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6884,9 +6889,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "23",
@@ -7253,13 +7258,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5300,
+      "Progressed": 5301,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5300,
+      "Progressed": 5301,
       "Completed": 7
     }
   ],
@@ -7267,8 +7272,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-08T19:59:43.5707761+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:06:16.7915669+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:08:21.9056228+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-09T05:59:25.0025469+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:06:16.7916641+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:00:34.4333648+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:08:21.9057404+00:00"
 }

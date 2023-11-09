@@ -13,8 +13,8 @@ Number of Ratings: 398  (23.09.2022)
 | Number 18 | 24.00% | ~1,406 |
 | We Don't Have Time For That | 19.00% | ~1,113 |
 | The Governator | 17.00% | ~996 |
+| Caribbean Comrade | 16.00% | ~937 |
 | The Legend of Langostino | 16.00% | ~937 |
-| Caribbean Comrade | 15.00% | ~879 |
 | The Dreamer of Dreams | 15.00% | ~879 |
 | Go Sovereigns! | 11.00% | ~644 |
 | For Science! | 11.00% | ~644 |

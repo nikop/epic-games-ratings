@@ -94,9 +94,9 @@
 | No One Left Behind | 20.00% | ~211 |
 | Hard Target | 20.00% | ~211 |
 | Saboteur | 20.00% | ~211 |
+| Last Witness | 20.00% | ~211 |
 | Fact Finder | 20.00% | ~211 |
 | Under Pressure | 19.00% | ~200 |
-| Last Witness | 19.00% | ~200 |
 | Well Connected | 19.00% | ~200 |
 | Executioner | 17.00% | ~179 |
 | Master and Commander | 17.00% | ~179 |

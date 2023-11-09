@@ -883,7 +883,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6455,
+  "EOS_Progressed": 6456,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
@@ -9718,6 +9718,11 @@
       "Time": "2023-11-09T06:08:40.9936239+00:00",
       "NumProgressed": 6455,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T07:09:31.4737071+00:00",
+      "NumProgressed": 6456,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9727,9 +9732,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 58
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -9903,9 +9908,9 @@
       "ID": "ACHIEVEMENT_023",
       "SetID": "1a05lfd",
       "Name": "No Fin left to give",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -9927,9 +9932,9 @@
       "ID": "ACHIEVEMENT_026",
       "SetID": "1a05lfd",
       "Name": "Big Fish Small Pond",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -10048,13 +10053,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6455,
+      "Progressed": 6456,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5827,
+      "Progressed": 5828,
       "Completed": 113
     }
   ],
@@ -10062,8 +10067,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-07T23:00:55.7232721+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:08:40.9936235+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:09:31.4737066+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-09T05:59:58.0517049+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:08:40.993713+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:01:18.2327059+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:09:31.4738156+00:00"
 }

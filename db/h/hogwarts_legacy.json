@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10239,9 +10239,9 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 301729,
+  "EOS_Progressed": 301731,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1555,
+  "EOS_NewPlayers": 1556,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32019,6 +32019,11 @@
       "Time": "2023-11-09T06:08:53.6672773+00:00",
       "NumProgressed": 301729,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-09T07:09:48.0288967+00:00",
+      "NumProgressed": 301731,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -32118,7 +32123,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15086
+      "UsersEstimate": 15087
     },
     {
       "ID": "PFA_20",
@@ -32214,7 +32219,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36207
+      "UsersEstimate": 36208
     },
     {
       "ID": "PFA_31",
@@ -32294,7 +32299,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15086
+      "UsersEstimate": 15087
     },
     {
       "ID": "PFA_40",
@@ -32310,7 +32315,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15086
+      "UsersEstimate": 15087
     },
     {
       "ID": "PFA_42",
@@ -32374,7 +32379,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36207
+      "UsersEstimate": 36208
     },
     {
       "ID": "PFA_9",
@@ -32389,7 +32394,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301729,
+      "Progressed": 301731,
       "Completed": 505
     }
   ],
@@ -32397,8 +32402,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-09T01:42:33.0554123+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:08:53.6672768+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:09:48.0288962+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-09T05:57:51.9494267+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:08:53.6674477+00:00"
+  "LastUpdate_Ratings": "2023-11-09T06:58:35.0695931+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:09:48.0290859+00:00"
 }

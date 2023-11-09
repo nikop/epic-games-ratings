@@ -4055,9 +4055,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76189,
+  "EOS_Progressed": 76190,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 471,
+  "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21985,6 +21985,11 @@
       "Time": "2023-11-09T06:06:03.9075997+00:00",
       "NumProgressed": 76189,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-09T07:07:24.903107+00:00",
+      "NumProgressed": 76190,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22044,7 +22049,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17523
+      "UsersEstimate": 17524
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -22116,7 +22121,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10666
+      "UsersEstimate": 10667
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -22244,7 +22249,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10666
+      "UsersEstimate": 10667
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -22308,7 +22313,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19047
+      "UsersEstimate": 19048
     },
     {
       "ID": "HARLEY_3",
@@ -22340,7 +22345,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38856
+      "UsersEstimate": 38857
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22388,7 +22393,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25904
+      "UsersEstimate": 25905
     },
     {
       "ID": "MYSTERY_02",
@@ -22396,7 +22401,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19047
+      "UsersEstimate": 19048
     },
     {
       "ID": "MYSTERY_03",
@@ -22436,7 +22441,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10666
+      "UsersEstimate": 10667
     },
     {
       "ID": "MYSTERY_08",
@@ -22483,13 +22488,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76189,
+      "Progressed": 76190,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46469,
+      "Progressed": 46470,
       "Completed": 2673
     }
   ],
@@ -22497,8 +22502,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-09T00:03:12.8084582+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:06:03.907599+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:07:24.9031064+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-09T05:58:36.0353205+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:06:03.9077656+00:00"
+  "LastUpdate_Ratings": "2023-11-09T06:59:32.2207953+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:07:24.9033145+00:00"
 }

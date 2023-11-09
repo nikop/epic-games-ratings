@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40025,
+  "EOS_Progressed": 40026,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22463,6 +22463,11 @@
       "Time": "2023-11-09T06:04:18.195441+00:00",
       "NumProgressed": 40025,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-09T07:05:06.7735381+00:00",
+      "NumProgressed": 40026,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22514,7 +22519,7 @@
       "Name": "Down Boy!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACH_08_HIGHLANDS_SECRET_PASSAGE",
@@ -22586,7 +22591,7 @@
       "Name": "A Snowball\u0027s Chance in Hell",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 800
+      "UsersEstimate": 801
     },
     {
       "ID": "ACH_17_DEFEATED_ICE_BEAST",
@@ -22705,7 +22710,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40025,
+      "Progressed": 40026,
       "Completed": 26
     }
   ],
@@ -22713,8 +22718,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:04:18.1954401+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:05:06.7735376+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.8126355+00:00",
-  "LastUpdate_Ratings": "2023-11-09T05:59:36.2349286+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:04:18.1956163+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:00:49.3008142+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:05:06.7737218+00:00"
 }

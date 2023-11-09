@@ -22,7 +22,7 @@
 | Don’t Touch the Rum! | 6.00% | ~1 |
 | Oh... You didn't think to bring it? | 6.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17 (Ranked 542)  
+Progressed: 17 (Ranked 543)  
 Completed: 2 (11.76%) (Ranked 28)  
 ## EOS Players History
 | Date | Progressed | Completed |

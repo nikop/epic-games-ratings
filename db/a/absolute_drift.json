@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -457,10 +457,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1549458,
-  "EOS_Completed": 719,
+  "EOS_Progressed": 1549463,
+  "EOS_Completed": 720,
   "EOS_NewPlayers": 1268,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
     {
@@ -23517,6 +23517,11 @@
       "Time": "2023-11-09T06:03:08.486663+00:00",
       "NumProgressed": 1549458,
       "NumCompleted": 719
+    },
+    {
+      "Time": "2023-11-09T07:03:36.9893115+00:00",
+      "NumProgressed": 1549463,
+      "NumCompleted": 720
     }
   ],
   "TotalAchievements": 20,
@@ -23576,7 +23581,7 @@
       "Name": "Good Skills",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 139451
+      "UsersEstimate": 139452
     },
     {
       "ID": "ACH_HOON_AIRLINES",
@@ -23640,7 +23645,7 @@
       "Name": "Multiplier Master",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139451
+      "UsersEstimate": 139452
     },
     {
       "ID": "ACH_SAKE_BOMBS",
@@ -23687,15 +23692,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1549458,
-      "Completed": 719
+      "Progressed": 1549463,
+      "Completed": 720
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:03:08.4866626+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:03:36.9893109+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:09.8871032+00:00",
-  "LastUpdate_Ratings": "2023-11-09T05:59:03.9466841+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:03:08.4868281+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:00:06.9760349+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:03:36.9894929+00:00"
 }

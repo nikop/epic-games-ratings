@@ -4,7 +4,7 @@
   "ProductSlug": "1428-shadows-over-silesia-266e5f",
   "Ranking_EOS_Progress": 677,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -544,8 +544,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:06:06.5797684+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:07:28.5071626+00:00",
   "LastUpdate_AppInfo": "2023-11-06T14:56:52.1000661+00:00",
-  "LastUpdate_Ratings": "2023-11-09T06:02:29.6741141+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:06:06.579825+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:02:00.0685362+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:07:28.50723+00:00"
 }

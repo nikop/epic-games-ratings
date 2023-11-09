@@ -2,7 +2,7 @@
   "ID": "7c6b6697df584024be9c60a1da59096b",
   "Name": "Dude, Where Is My Beer?",
   "ProductSlug": "dude-where-is-my-beer-2455aa",
-  "Ranking_EOS_Progress": 464,
+  "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 128,
@@ -432,8 +432,8 @@
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:05:57.4134696+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:07:16.9530298+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:20.1757963+00:00",
-  "LastUpdate_Ratings": "2023-11-09T05:57:31.4620904+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:05:57.4134872+00:00"
+  "LastUpdate_Ratings": "2023-11-09T06:58:02.957235+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:07:16.9530495+00:00"
 }

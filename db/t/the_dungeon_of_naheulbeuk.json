@@ -1231,10 +1231,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 454,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2023-11-09T07:00:38.1958087+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 455,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 454,
+  "NumberOfAwards": 455,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1272,7 +1278,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1293,9 +1299,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 236031,
+  "EOS_Progressed": 236033,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1523,
+  "EOS_NewPlayers": 1522,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17858,6 +17864,11 @@
       "Time": "2023-11-09T06:05:50.967524+00:00",
       "NumProgressed": 236031,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-09T07:07:08.0561122+00:00",
+      "NumProgressed": 236033,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18317,7 +18328,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82611
+      "UsersEstimate": 82612
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18365,7 +18376,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18882
+      "UsersEstimate": 18883
     },
     {
       "ID": "FollowBraztok",
@@ -18572,21 +18583,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 236031,
+      "Progressed": 236033,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 236031,
+      "Progressed": 236033,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-11-08T18:16:42.3668396+00:00",
-  "LastChanged_Achievements": "2023-11-09T06:05:50.9675231+00:00",
+  "LastChanged": "2023-11-09T07:00:38.1958085+00:00",
+  "LastChanged_Achievements": "2023-11-09T07:07:08.0561116+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-09T05:59:28.571342+00:00",
-  "LastUpdate_Achievements": "2023-11-09T06:05:50.9677234+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:00:38.1958092+00:00",
+  "LastUpdate_Achievements": "2023-11-09T07:07:08.0563217+00:00"
 }

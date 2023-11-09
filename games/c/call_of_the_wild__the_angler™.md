@@ -6,7 +6,7 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 0.80% | ~52 |
+| Fish Just Got Reel | 0.90% | ~58 |
 | Hey Good Hookin | 0.80% | ~52 |
 | Can you smell what the Rod is Hooking | 0.70% | ~45 |
 | I'm on a Boat! | 0.70% | ~45 |
@@ -26,6 +26,8 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 0.10% | ~6 |
 | I'm Hooked! | 0.10% | ~6 |
 | Diamond in the Rough | 0.10% | ~6 |
+| No Fin left to give | 0.10% | ~6 |
+| Big Fish Small Pond | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
 | Gonna Need a Bigger Boat | 0.10% | ~6 |
 | Rod and Troll | 0.10% | ~6 |
@@ -35,10 +37,8 @@ Number of Ratings: 281  (23.09.2022)
 | Three Square Meals | 0.10% | ~6 |
 | Head for Heights | 0.00% | ~0 |
 | Lake Me up Before You Go Go | 0.00% | ~0 |
-| No Fin left to give | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Taylor Made | 0.00% | ~0 |
-| Big Fish Small Pond | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |
 | Buckaroo | 0.00% | ~0 |
 | Norway Jose | 0.00% | ~0 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,455 (Ranked 177)  
+Progressed: 6,456 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 6,408 | 0 |
 | 2023-11-07 | 6,443 | 0 |
 | 2023-11-08 | 6,452 | 0 |
-| 2023-11-09 | 6,455 | 0 |
+| 2023-11-09 | 6,456 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 190 (Ranked 403)  
