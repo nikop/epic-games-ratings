@@ -4,7 +4,7 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 433,
   "Ranking_Popularity": 425,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 70,
@@ -1337,10 +1337,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 353,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-11-09T14:57:27.7658804+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 354,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 353,
+  "NumberOfAwards": 354,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1384,7 +1390,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1399,9 +1405,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157330,
+  "EOS_Progressed": 157341,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14969,6 +14975,11 @@
       "Time": "2023-11-09T14:08:10.2064178+00:00",
       "NumProgressed": 157330,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T15:08:16.9808929+00:00",
+      "NumProgressed": 157341,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15044,7 +15055,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6293
+      "UsersEstimate": 6294
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -15196,7 +15207,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6293
+      "UsersEstimate": 6294
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -15347,21 +15358,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156913,
+      "Progressed": 156924,
       "Completed": 1196
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157330,
+      "Progressed": 157341,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-09T07:57:23.5235747+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:08:10.2064172+00:00",
+  "LastChanged": "2023-11-09T14:57:27.7658801+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:08:16.9808845+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:57:23.121469+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:08:10.2065491+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:57:27.7658808+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:08:16.981052+00:00"
 }

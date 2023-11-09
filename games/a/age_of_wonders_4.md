@@ -7,9 +7,9 @@ Rating: 4.61 (Ranked 385)
 | ---- | ---------- | ----- |
 | But this one is mine | 0.80% | ~42 |
 | Secret Technique | 0.30% | ~16 |
+| Walls Cannot Stop Us | 0.30% | ~16 |
 | Realm Estate | 0.20% | ~11 |
 | A Wonderful Discovery | 0.20% | ~11 |
-| Walls Cannot Stop Us | 0.20% | ~11 |
 | Freed Lands of Manuhari | 0.20% | ~11 |
 | Spoils of War | 0.20% | ~11 |
 | Valley of Wonders | 0.10% | ~5 |

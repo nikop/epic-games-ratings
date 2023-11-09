@@ -33,7 +33,7 @@ Rating: 4.21 (Ranked 900)
 | Good eyes, Murphy! | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 435 (Ranked 308)  
+Progressed: 438 (Ranked 308)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -45,7 +45,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 212 | 0 |
 | 2023-11-07 | 349 | 0 |
 | 2023-11-08 | 400 | 0 |
-| 2023-11-09 | 435 | 0 |
+| 2023-11-09 | 438 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

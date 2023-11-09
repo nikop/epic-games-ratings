@@ -11823,9 +11823,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 450413,
+  "EOS_Progressed": 450445,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5405,
+  "EOS_NewPlayers": 5385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35038,6 +35038,11 @@
       "Time": "2023-11-09T14:04:57.935875+00:00",
       "NumProgressed": 450413,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T15:04:59.3826399+00:00",
+      "NumProgressed": 450445,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36959,9 +36964,9 @@
       "ID": "achievement_redecorating",
       "SetID": "8p2n7he",
       "Name": "Redecorating",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_rekindling_the_flames",
@@ -37952,21 +37957,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 450413,
+      "Progressed": 450445,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 450413,
+      "Progressed": 450445,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-09T13:02:40.9414134+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:04:57.9358744+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:04:59.3826389+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:58:14.4670143+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:04:57.9371809+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:58:19.3306839+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:04:59.3841681+00:00"
 }

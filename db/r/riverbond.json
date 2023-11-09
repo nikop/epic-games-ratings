@@ -6,9 +6,9 @@
   "Ranking_Popularity": 543,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 35,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_Completed": 274,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 530934,
+  "EOS_Progressed": 530935,
   "EOS_Completed": 497,
-  "EOS_NewPlayers": 465,
+  "EOS_NewPlayers": 463,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -22097,6 +22097,11 @@
       "Time": "2023-11-09T13:09:38.3483169+00:00",
       "NumProgressed": 530934,
       "NumCompleted": 497
+    },
+    {
+      "Time": "2023-11-09T15:05:05.8014476+00:00",
+      "NumProgressed": 530935,
+      "NumCompleted": 497
     }
   ],
   "TotalAchievements": 57,
@@ -22116,7 +22121,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238920
+      "UsersEstimate": 238921
     },
     {
       "ID": "11",
@@ -22132,7 +22137,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 116805
+      "UsersEstimate": 116806
     },
     {
       "ID": "13",
@@ -22140,7 +22145,7 @@
       "Name": "Keep On Trucking",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69021
+      "UsersEstimate": 69022
     },
     {
       "ID": "14",
@@ -22156,7 +22161,7 @@
       "Name": "Walking The Line",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 53093
+      "UsersEstimate": 53094
     },
     {
       "ID": "16",
@@ -22188,7 +22193,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329179
+      "UsersEstimate": 329180
     },
     {
       "ID": "2",
@@ -22196,7 +22201,7 @@
       "Name": "Not So Cute Anymore",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 53093
+      "UsersEstimate": 53094
     },
     {
       "ID": "20",
@@ -22332,7 +22337,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 265467
+      "UsersEstimate": 265468
     },
     {
       "ID": "36",
@@ -22340,7 +22345,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 84949
+      "UsersEstimate": 84950
     },
     {
       "ID": "37",
@@ -22436,7 +22441,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329179
+      "UsersEstimate": 329180
     },
     {
       "ID": "48",
@@ -22563,15 +22568,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 530934,
+      "Progressed": 530935,
       "Completed": 497
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:05:04.5101965+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:05:05.8014468+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:04.9098123+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:57:19.7567232+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:05:04.5103938+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:57:23.8961456+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:05:05.8016458+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 811,
+  "EOS_Progressed": 812,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
@@ -2552,6 +2552,11 @@
       "Time": "2023-11-09T11:09:57.0689177+00:00",
       "NumProgressed": 811,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-09T15:09:07.0984234+00:00",
+      "NumProgressed": 812,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2564,7 +2569,7 @@
       "Name": "Somewhere Deep in the Lost Caribbean",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "_02_FinishFirstMission",
@@ -2572,7 +2577,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "_03_FinishAct1",
@@ -2612,7 +2617,7 @@
       "Name": "All Good Things",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "_08_Completion_10",
@@ -2628,7 +2633,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "_10_Completion_30",
@@ -2716,7 +2721,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2748,7 +2753,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2771,7 +2776,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 811,
+      "Progressed": 812,
       "Completed": 27
     }
   ],
@@ -2779,8 +2784,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:09:01.1567054+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:09:07.0984226+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:47.5023284+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:58:14.0177957+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:09:01.1567392+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:58:18.8367283+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:09:07.0984549+00:00"
 }

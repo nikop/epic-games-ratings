@@ -62,7 +62,7 @@ Rating: 4.38 (Ranked 763)
 | Capitalist III | 0.10% | ~258 |
 | Hell Is You | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,203 (Ranked 55)  
+Progressed: 258,204 (Ranked 55)  
 Completed: 3 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,16 +265,16 @@ Completed: 3 (0.00%) (Ranked 345)
 | 2023-11-06 | 258,127 | 3 |
 | 2023-11-07 | 258,154 | 3 |
 | 2023-11-08 | 258,189 | 3 |
-| 2023-11-09 | 258,203 | 3 |
+| 2023-11-09 | 258,204 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 436)  
-Sum: 311 (Ranked 354)  
+Sum: 312 (Ranked 354)  
 Diff (max vs sum): 82  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 48 |
 | This game has Unique Visuals | 41 |
-| This game has Amazing Characters | 37 |
+| This game has Amazing Characters | 38 |
 | This game has Challenging Combat | 36 |
 | This game has Amazing Storytelling | 35 |
 | This game is Highly Recommended | 33 |
@@ -445,4 +445,4 @@ Diff (max vs sum): 82
 | 2023-11-05 | 4.38 | 47 | 306 |
 | 2023-11-07 | 4.38 | 47 | 308 |
 | 2023-11-08 | 4.38 | 48 | 310 |
-| 2023-11-09 | 4.38 | 48 | 311 |
+| 2023-11-09 | 4.38 | 48 | 312 |

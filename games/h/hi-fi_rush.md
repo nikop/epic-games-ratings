@@ -11,7 +11,7 @@ Rating: 4.86 (Ranked 29)
 | Who put gears in there? | 14.00% | ~589 |
 | Cream of the Crop | 13.00% | ~547 |
 | Thanks for the free chip, Peppermint! | 13.00% | ~547 |
-| You got this, Peppermint? | 13.00% | ~547 |
+| You got this, Peppermint? | 12.00% | ~505 |
 | Perfect Parry | 12.00% | ~505 |
 | Alright, that felt AWESOME! | 12.00% | ~505 |
 | This will cost you big time | 11.00% | ~463 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 29)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,208 (Ranked 189)  
+Progressed: 4,209 (Ranked 189)  
 Completed: 8 (0.19%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,6 +271,7 @@ Completed: 8 (0.19%) (Ranked 247)
 | 2023-11-03 | 4,204 | 8 |
 | 2023-11-04 | 4,207 | 8 |
 | 2023-11-07 | 4,208 | 8 |
+| 2023-11-09 | 4,209 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

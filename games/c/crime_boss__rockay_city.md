@@ -5,21 +5,21 @@ Rating: 3.95 (Ranked 1,004)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 2.00% | ~1,798 |
-| First One’s Free | 2.00% | ~1,798 |
-| Downed but Not Outed | 2.00% | ~1,798 |
+| Neophyte Ninja | 2.00% | ~1,799 |
+| First One’s Free | 2.00% | ~1,799 |
+| Downed but Not Outed | 2.00% | ~1,799 |
 | Underworld Initiate | 1.00% | ~899 |
 | Roid Ranger | 1.00% | ~899 |
 | Too Old for This | 1.00% | ~899 |
+| King of the Hill | 1.00% | ~899 |
 | Fancy Pants | 1.00% | ~899 |
 | Off the Rocks | 1.00% | ~899 |
 | Raider’s Ruin | 1.00% | ~899 |
 | Dragonslayer | 1.00% | ~899 |
 | Case Closed | 0.90% | ~809 |
-| King of the Hill | 0.90% | ~809 |
 | Rockay Rex | 0.90% | ~809 |
-| Hidden Sonata | 0.70% | ~629 |
-| True Player | 0.70% | ~629 |
+| Hidden Sonata | 0.70% | ~630 |
+| True Player | 0.70% | ~630 |
 | Track Star | 0.60% | ~540 |
 | Headhunter | 0.60% | ~540 |
 | I Like Trains | 0.50% | ~450 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,925 (Ranked 91)  
+Progressed: 89,941 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,17 +250,17 @@ Completed: 55 (0.06%) (Ranked 290)
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
 | 2023-11-08 | 89,818 | 55 |
-| 2023-11-09 | 89,925 | 55 |
+| 2023-11-09 | 89,941 | 55 |
 ## Awards
 Max (Diverse Characters): 523  (Ranked 204)  
-Sum: 2,971 (Ranked 175)  
+Sum: 2,973 (Ranked 175)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 523 |
 | This game is Highly Recommended | 504 |
 | This game has Quickly Understood Controls | 496 |
-| This game has Challenging Combat | 487 |
+| This game has Challenging Combat | 489 |
 | This game is Extremely Fun | 486 |
 | This game has Amazing Characters | 475 |
 | This game is Great for Quick Sessions | 70 |
@@ -490,4 +490,4 @@ Diff (max vs sum): 29
 | 2023-11-06 | 3.95 | 522 | 2,960 |
 | 2023-11-07 | 3.95 | 522 | 2,964 |
 | 2023-11-08 | 3.95 | 522 | 2,970 |
-| 2023-11-09 | 3.95 | 523 | 2,971 |
+| 2023-11-09 | 3.95 | 523 | 2,973 |

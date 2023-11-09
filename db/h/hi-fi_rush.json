@@ -139,7 +139,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4208,
+  "EOS_Progressed": 4209,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
@@ -7269,6 +7269,11 @@
       "Time": "2023-11-07T13:09:04.9949773+00:00",
       "NumProgressed": 4208,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-09T15:04:57.0030169+00:00",
+      "NumProgressed": 4209,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7470,9 +7475,9 @@
       "ID": "Ach025",
       "SetID": "12n4k20",
       "Name": "You got this, Peppermint?",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 505
     },
     {
       "ID": "Ach026",
@@ -7847,13 +7852,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4208,
+      "Progressed": 4209,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2729,
+      "Progressed": 2730,
       "Completed": 1930
     }
   ],
@@ -7861,8 +7866,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:04:55.4644956+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:04:57.0030158+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.7120425+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:58:10.0849682+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:04:55.4646212+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:58:14.5110631+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:04:57.0031919+00:00"
 }

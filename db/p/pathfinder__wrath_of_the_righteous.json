@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4151,9 +4151,9 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12055,
+  "EOS_Progressed": 12056,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15331,6 +15331,11 @@
       "Time": "2023-11-09T14:04:45.4618136+00:00",
       "NumProgressed": 12055,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T15:04:47.2559513+00:00",
+      "NumProgressed": 12056,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15342,7 +15347,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3134
+      "UsersEstimate": 3135
     },
     {
       "ID": "02_BurningCity",
@@ -15454,7 +15459,7 @@
       "Name": "Path of the Dragon",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "16_PathOfLegend",
@@ -15646,7 +15651,7 @@
       "Name": "End of Eternal Guard",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "41_PlayfulMood",
@@ -15710,7 +15715,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2290
+      "UsersEstimate": 2291
     },
     {
       "ID": "49_Flame",
@@ -15750,7 +15755,7 @@
       "Name": "Truly Profane Gift",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "54_DeathByColumn",
@@ -16269,21 +16274,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10837,
+      "Progressed": 10838,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12055,
+      "Progressed": 12056,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-09T05:57:15.2812529+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:04:45.4618126+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:04:47.2559505+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:16.1536797+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:57:26.1049033+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:04:45.4620545+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:57:31.3793694+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:04:47.256251+00:00"
 }

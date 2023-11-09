@@ -4,8 +4,8 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 599,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 366,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -965,9 +965,9 @@
       "ID": "EV_ACH02",
       "SetID": "6jeac23",
       "Name": "My Darkest Day",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 270
     },
     {
       "ID": "EV_ACH03",
@@ -1069,9 +1069,9 @@
       "ID": "EV_ACH15",
       "SetID": "6jeac23",
       "Name": "Better On Ice",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 407
+      "UsersEstimate": 413
     },
     {
       "ID": "EV_ACH16",
@@ -1149,9 +1149,9 @@
       "ID": "EV_ACH25",
       "SetID": "6jeac23",
       "Name": "Rhythm Of Willump",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 270
     },
     {
       "ID": "EV_ACH26",
@@ -1316,8 +1316,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:08:51.2229977+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:08:57.2869725+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:02:29.0714834+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:08:51.2230416+00:00"
+  "LastUpdate_Ratings": "2023-11-09T15:02:31.9410877+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:08:57.2870248+00:00"
 }

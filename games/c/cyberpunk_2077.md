@@ -8,7 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 2.00% | ~17,918 |
 | Gun Fu | 1.00% | ~8,959 |
-| Relic Ruler | 0.70% | ~171 |
+| Relic Ruler | 0.70% | ~172 |
 | Full Body Conversion | 0.50% | ~4,479 |
 | True Soldier | 0.50% | ~4,479 |
 | Right Back At Ya | 0.40% | ~3,584 |
@@ -25,7 +25,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.30% | ~2,688 |
 | True Warrior | 0.30% | ~2,688 |
 | Legend of The Afterlife | 0.30% | ~2,688 |
-| Spin Doctor | 0.30% | ~73 |
+| Spin Doctor | 0.30% | ~74 |
 | To Protect and Serve | 0.20% | ~1,792 |
 | The Wandering Fool | 0.20% | ~1,792 |
 | Master Crafter | 0.20% | ~1,792 |
@@ -57,12 +57,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Greetings from Pacifica! | 0.10% | ~896 |
 | The Jungle | 0.10% | ~896 |
 | It's Elementary | 0.10% | ~896 |
-| The APB is Not Enough | 0.10% | ~24 |
-| Judgement Day | 0.10% | ~24 |
-| King of Cups | 0.10% | ~24 |
-| King of Pentacles | 0.10% | ~24 |
-| King of Swords | 0.10% | ~24 |
-| The Tower | 0.10% | ~24 |
+| The APB is Not Enough | 0.10% | ~25 |
+| Judgement Day | 0.10% | ~25 |
+| King of Cups | 0.10% | ~25 |
+| King of Pentacles | 0.10% | ~25 |
+| King of Swords | 0.10% | ~25 |
+| The Tower | 0.10% | ~25 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,876 (Ranked 15)  
+Progressed: 895,889 (Ranked 15)  
 Completed: 2,759 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,7 +277,7 @@ Completed: 2,759 (0.31%) (Ranked 222)
 | 2023-11-06 | 895,578 | 2,750 |
 | 2023-11-07 | 895,712 | 2,753 |
 | 2023-11-08 | 895,820 | 2,757 |
-| 2023-11-09 | 895,876 | 2,759 |
+| 2023-11-09 | 895,889 | 2,759 |
 ## Awards
 Max (Character Customization): 104,529  (Ranked 9)  
 Sum: 347,253 (Ranked 10)  

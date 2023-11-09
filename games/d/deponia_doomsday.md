@@ -14,8 +14,8 @@ Rating: 4.55 (Ranked 502)
 | Chunky | 50.00% | ~228 |
 | Shall we play a game? | 49.00% | ~223 |
 | Boat of love, boat of love | 49.00% | ~223 |
-| School's out | 43.00% | ~196 |
-| Elysian Minigame-Master | 37.00% | ~168 |
+| School's out | 44.00% | ~200 |
+| Elysian Minigame-Master | 38.00% | ~173 |
 | Sole Music | 36.00% | ~164 |
 | Scaffolding Expert | 36.00% | ~164 |
 | No man left behind! | 30.00% | ~136 |
@@ -30,8 +30,8 @@ Rating: 4.55 (Ranked 502)
 | Heading the inverter | 14.00% | ~64 |
 | Blast from the Past | 12.00% | ~55 |
 | Play it again, Ronny | 11.00% | ~50 |
+| Goat Team | 10.00% | ~46 |
 | Paradox! | 10.00% | ~46 |
-| Goat Team | 9.00% | ~41 |
 | Weapons 101 | 8.00% | ~36 |
 | Sadist | 7.00% | ~32 |
 | The customer is always right | 6.00% | ~27 |

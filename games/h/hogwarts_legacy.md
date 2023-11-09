@@ -5,27 +5,27 @@ Rating: 4.76 (Ranked 124)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,279 |
-| First Class Student | 14.00% | ~42,244 |
-| Troll with the Punches | 14.00% | ~42,244 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,280 |
+| First Class Student | 14.00% | ~42,245 |
+| Troll with the Punches | 14.00% | ~42,245 |
 | A Keen Sense of Spell | 13.00% | ~39,227 |
-| A Talent for Spending | 12.00% | ~36,209 |
-| That's a Keeper | 12.00% | ~36,209 |
+| A Talent for Spending | 12.00% | ~36,210 |
+| That's a Keeper | 12.00% | ~36,210 |
 | Grappling with a Graphorn | 11.00% | ~33,192 |
 | The One Who Mastered Memories | 11.00% | ~33,192 |
 | The Hallowed Hero | 11.00% | ~33,192 |
 | The Defender of Dragons | 11.00% | ~33,192 |
 | Loom for Improvement | 11.00% | ~33,192 |
 | Coasting Along | 11.00% | ~33,192 |
-| The Hero of Hogwarts | 10.00% | ~30,174 |
-| Challenge Accepted | 10.00% | ~30,174 |
-| Followed the Butterflies | 10.00% | ~30,174 |
+| The Hero of Hogwarts | 10.00% | ~30,175 |
+| Challenge Accepted | 10.00% | ~30,175 |
+| Followed the Butterflies | 10.00% | ~30,175 |
 | The Spell Master | 9.00% | ~27,157 |
 | Rising From the Ashes | 9.00% | ~27,157 |
-| The Avenging Gazelle | 8.00% | ~24,139 |
-| Beast Friends | 8.00% | ~24,139 |
-| A Sallow Grave | 8.00% | ~24,139 |
-| Flight the Good Flight | 8.00% | ~24,139 |
+| The Avenging Gazelle | 8.00% | ~24,140 |
+| Beast Friends | 8.00% | ~24,140 |
+| A Sallow Grave | 8.00% | ~24,140 |
+| Flight the Good Flight | 8.00% | ~24,140 |
 | The Seeker of Knowledge | 6.00% | ~18,105 |
 | The Root of the Problem | 6.00% | ~18,105 |
 | Third Time's a Charm | 6.00% | ~18,105 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 124)
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,743 (Ranked 50)  
+Progressed: 301,747 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 505 (0.17%) (Ranked 251)
 | 2023-11-06 | 301,400 | 502 |
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
-| 2023-11-09 | 301,743 | 505 |
+| 2023-11-09 | 301,747 | 505 |
 ## Awards
 Max (Character Customization): 24,144  (Ranked 17)  
 Sum: 47,742 (Ranked 30)  

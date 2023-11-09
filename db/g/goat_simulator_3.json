@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 216,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -4975,10 +4975,10 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 250155,
+  "EOS_Progressed": 250156,
   "EOS_Completed": 872,
-  "EOS_NewPlayers": 684,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 681,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
@@ -27090,6 +27090,11 @@
       "Time": "2023-11-09T14:08:56.5457727+00:00",
       "NumProgressed": 250155,
       "NumCompleted": 872
+    },
+    {
+      "Time": "2023-11-09T15:09:02.5387156+00:00",
+      "NumProgressed": 250156,
+      "NumCompleted": 872
     }
   ],
   "TotalAchievements": 39,
@@ -27149,7 +27154,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75046
+      "UsersEstimate": 75047
     },
     {
       "ID": "AchievementBoulderID",
@@ -27157,7 +27162,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 65040
+      "UsersEstimate": 65041
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -27165,7 +27170,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 227641
+      "UsersEstimate": 227642
     },
     {
       "ID": "AchievementClownID",
@@ -27173,7 +27178,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42526
+      "UsersEstimate": 42527
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -27189,7 +27194,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 70043
+      "UsersEstimate": 70044
     },
     {
       "ID": "AchievementEggID",
@@ -27229,7 +27234,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 132582
+      "UsersEstimate": 132583
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -27237,7 +27242,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 47529
+      "UsersEstimate": 47530
     },
     {
       "ID": "AchievementINirvanaID",
@@ -27269,7 +27274,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142588
+      "UsersEstimate": 142589
     },
     {
       "ID": "AchievementLootBoxID",
@@ -27373,7 +27378,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137585
+      "UsersEstimate": 137586
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -27412,7 +27417,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250155,
+      "Progressed": 250156,
       "Completed": 872
     }
   ],
@@ -27420,8 +27425,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-09T02:57:18.8352492+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:08:56.545772+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:09:02.5387147+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:20.6664953+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:57:26.8209567+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:08:56.5459505+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:57:32.0540836+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:09:02.5389575+00:00"
 }

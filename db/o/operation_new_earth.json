@@ -65,7 +65,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1792,
+  "EOS_Progressed": 1793,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
@@ -6710,6 +6710,11 @@
       "Time": "2023-11-09T12:04:37.4157406+00:00",
       "NumProgressed": 1792,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T15:04:33.9414183+00:00",
+      "NumProgressed": 1793,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6729,7 +6734,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ach_defeat_players_10",
@@ -6825,7 +6830,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 376
+      "UsersEstimate": 377
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7024,7 +7029,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1792,
+      "Progressed": 1793,
       "Completed": 1
     }
   ],
@@ -7032,8 +7037,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:04:32.0925317+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:04:33.9414174+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:00:50.5535248+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:04:32.0926073+00:00"
+  "LastUpdate_Ratings": "2023-11-09T15:00:53.9473021+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:04:33.9414935+00:00"
 }

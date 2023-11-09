@@ -5,24 +5,24 @@ Rating: 4.39 (Ranked 745)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 9.00% | ~25,835 |
-| IT MAKES BOOM! | 5.00% | ~14,353 |
-| EXTRA BOOST | 4.00% | ~11,482 |
-| PROTECTED | 3.00% | ~8,612 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,612 |
-| PRO | 3.00% | ~8,612 |
-| A TIGER'S FEAR | 2.00% | ~5,741 |
-| AGGRESSIVE RACER | 2.00% | ~5,741 |
+| ROOKIE | 9.00% | ~25,841 |
+| IT MAKES BOOM! | 5.00% | ~14,356 |
+| EXTRA BOOST | 4.00% | ~11,485 |
+| PROTECTED | 3.00% | ~8,614 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,614 |
+| PRO | 3.00% | ~8,614 |
+| A TIGER'S FEAR | 2.00% | ~5,742 |
+| AGGRESSIVE RACER | 2.00% | ~5,742 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~2,871 |
 | ACE SPEEDSTER | 1.00% | ~2,871 |
-| RELEASE THE KRAKEN | 0.80% | ~2,296 |
-| BE OUR GUEST | 0.70% | ~2,009 |
-| DEFEAT OUR CHAMPION | 0.70% | ~2,009 |
-| LEGENDARY HERO | 0.70% | ~2,009 |
-| TRAINING HARD | 0.60% | ~1,722 |
-| THE EYE OF THE HUNTER | 0.60% | ~1,722 |
-| FRIENDLY | 0.60% | ~1,722 |
-| EXPERIENCED CREW | 0.50% | ~1,435 |
+| RELEASE THE KRAKEN | 0.80% | ~2,297 |
+| BE OUR GUEST | 0.70% | ~2,010 |
+| DEFEAT OUR CHAMPION | 0.70% | ~2,010 |
+| LEGENDARY HERO | 0.70% | ~2,010 |
+| TRAINING HARD | 0.60% | ~1,723 |
+| THE EYE OF THE HUNTER | 0.60% | ~1,723 |
+| FRIENDLY | 0.60% | ~1,723 |
+| EXPERIENCED CREW | 0.50% | ~1,436 |
 | ACE BRAWLER | 0.40% | ~1,148 |
 | ACE DEFENDER | 0.40% | ~1,148 |
 | MASTER | 0.40% | ~1,148 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 745)
 | FRAMED! | 0.20% | ~574 |
 | ACE TRICKSTER | 0.20% | ~574 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 287,061 (Ranked 52)  
+Progressed: 287,121 (Ranked 52)  
 Completed: 277 (0.10%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,7 +229,7 @@ Completed: 277 (0.10%) (Ranked 268)
 | 2023-11-06 | 283,675 | 271 |
 | 2023-11-07 | 285,088 | 272 |
 | 2023-11-08 | 286,412 | 276 |
-| 2023-11-09 | 287,061 | 277 |
+| 2023-11-09 | 287,121 | 277 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 411)  
 Sum: 459 (Ranked 328)  

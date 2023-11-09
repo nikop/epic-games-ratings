@@ -4,7 +4,7 @@
   "ProductSlug": "airport-ceo-442ecc",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40,
+  "EOS_Progressed": 41,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -229,6 +229,11 @@
       "Time": "2023-11-07T22:06:29.4771033+00:00",
       "NumProgressed": 40,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T15:07:47.3135336+00:00",
+      "NumProgressed": 41,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -247,7 +252,7 @@
       "ID": "AndIWouldFly500Miles",
       "SetID": "d11cl5p",
       "Name": "And I would fly 500 miles",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -263,7 +268,7 @@
       "ID": "BehemothOfTheSkies",
       "SetID": "d11cl5p",
       "Name": "Behemoth of the skies",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -295,7 +300,7 @@
       "ID": "Hedda",
       "SetID": "d11cl5p",
       "Name": "Hilma af Klint",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 5
     },
@@ -303,7 +308,7 @@
       "ID": "InterimCEO",
       "SetID": "d11cl5p",
       "Name": "Interim CEO",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
       "UsersEstimate": 5
     },
@@ -359,7 +364,7 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 11
     },
@@ -367,7 +372,7 @@
       "ID": "OrACEO",
       "SetID": "d11cl5p",
       "Name": "Or\u2026 a CEO!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -375,7 +380,7 @@
       "ID": "Over9000",
       "SetID": "d11cl5p",
       "Name": "Over 9000!!!",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 75,
       "UsersEstimate": 1
     },
@@ -383,7 +388,7 @@
       "ID": "QueenOfTheSkies",
       "SetID": "d11cl5p",
       "Name": "Queen of the skies",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -391,7 +396,7 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -423,7 +428,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 68,
+      "Percentage": 66,
       "XP": 25,
       "UsersEstimate": 27
     },
@@ -439,7 +444,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 83,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -471,7 +476,7 @@
       "ID": "TheScientist",
       "SetID": "d11cl5p",
       "Name": "The scientist",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -495,7 +500,7 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -512,14 +517,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 40,
+      "Progressed": 41,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:08:00.3824741+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:07:47.3135328+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:06.4973231+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:00:32.7501634+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:08:00.3825003+00:00"
+  "LastUpdate_Ratings": "2023-11-09T15:00:33.8140586+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:07:47.3135573+00:00"
 }

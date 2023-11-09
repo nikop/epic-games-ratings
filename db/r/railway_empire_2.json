@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5785,9 +5785,9 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1570
     },
     {
       "ID": "A13",
@@ -5825,9 +5825,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1124
+      "UsersEstimate": 1145
     },
     {
       "ID": "A18",
@@ -5985,9 +5985,9 @@
       "ID": "A37",
       "SetID": "9b7p7eo",
       "Name": "All around the World",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1336
     },
     {
       "ID": "A38",
@@ -6138,8 +6138,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-06T17:57:18.8272993+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:04:43.4668608+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:04:45.1284483+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:58:28.8403428+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:04:43.4669476+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:58:35.8604697+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:04:45.1286016+00:00"
 }

@@ -7866,9 +7866,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1805
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8369,8 +8369,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:06:14.2923631+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:06:13.3799642+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:58:53.1353434+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:06:14.2924853+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:58:54.6946907+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:06:13.3801058+00:00"
 }

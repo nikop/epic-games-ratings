@@ -4,7 +4,7 @@
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 446,
   "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 364,
+  "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 116,
@@ -738,7 +738,7 @@
   ],
   "EOS_Progressed": 40299,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21920,8 +21920,8 @@
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-05T20:00:39.9976702+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:08:34.2504047+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:08:40.7576117+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:36.007109+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:00:01.1291166+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:08:34.25059+00:00"
+  "LastUpdate_Ratings": "2023-11-09T15:00:02.6413558+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:08:40.7577965+00:00"
 }

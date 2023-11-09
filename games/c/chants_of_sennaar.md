@@ -11,7 +11,7 @@
 | A new dawn | 23.00% | ~115 |
 | True G3M4R | 20.00% | ~100 |
 | Scholar | 20.00% | ~100 |
-| The darkness | 19.00% | ~95 |
+| The darkness | 20.00% | ~100 |
 | A good beginning | 18.00% | ~90 |
 | I did it | 17.00% | ~85 |
 | Half the way | 17.00% | ~85 |

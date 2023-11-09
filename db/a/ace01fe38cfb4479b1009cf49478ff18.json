@@ -490,9 +490,9 @@
       "ID": "ach_defeat_great_unclean_one",
       "SetID": "d499apg",
       "Name": "Defeat a Great Unclean One",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 45,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -537,8 +537,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-09T14:08:35.6066813+00:00",
+  "LastChanged_Achievements": "2023-11-09T15:08:41.9906243+00:00",
   "LastUpdate_AppInfo": "2023-11-03T11:57:09.8011419+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:58:11.1274673+00:00",
-  "LastUpdate_Achievements": "2023-11-09T14:08:35.6066942+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:58:15.9225928+00:00",
+  "LastUpdate_Achievements": "2023-11-09T15:08:41.9906408+00:00"
 }

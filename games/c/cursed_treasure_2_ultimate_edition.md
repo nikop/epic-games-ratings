@@ -18,10 +18,10 @@
 | Sergeant of the Evil | 74.00% | ~130 |
 | Look After the Pence... | 73.00% | ~128 |
 | Drunken Master | 73.00% | ~128 |
-| V.I.P. Cemetery | 71.00% | ~125 |
+| V.I.P. Cemetery | 72.00% | ~127 |
+| Top of the World | 70.00% | ~123 |
 | Woodcutter | 70.00% | ~123 |
 | Architect of Darkness | 70.00% | ~123 |
-| Top of the World | 69.00% | ~121 |
 | Takeover | 69.00% | ~121 |
 | Sharpshooter | 69.00% | ~121 |
 | Stasis Alcatraz | 68.00% | ~120 |
@@ -32,8 +32,8 @@
 | Thunderstorm | 63.00% | ~111 |
 | Clean Forests | 61.00% | ~107 |
 | Starry: Meadowshire | 57.00% | ~100 |
+| Avada Kedavra | 56.00% | ~99 |
 | Lieutenant of the Evil | 56.00% | ~99 |
-| Avada Kedavra | 55.00% | ~97 |
 | Brilliant: Tanglewood | 53.00% | ~93 |
 | It's a Trap | 53.00% | ~93 |
 | Starry: Holy Mountain | 52.00% | ~92 |

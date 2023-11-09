@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Feels Familiar | 74.00% | ~443 |
 | I Broke It | 70.00% | ~419 |
-| Better On Ice | 68.00% | ~407 |
+| Better On Ice | 69.00% | ~413 |
 | Notai Notes | 68.00% | ~407 |
 | Blue Dreams | 66.00% | ~395 |
 | He's Famous! | 66.00% | ~395 |
@@ -18,8 +18,8 @@
 | Iceborn | 53.00% | ~317 |
 | Tear of Freedom | 49.00% | ~294 |
 | Boom Things | 49.00% | ~294 |
-| My Darkest Day | 44.00% | ~264 |
-| Rhythm Of Willump | 44.00% | ~264 |
+| My Darkest Day | 45.00% | ~270 |
+| Rhythm Of Willump | 45.00% | ~270 |
 | The Relentless Storm | 41.00% | ~246 |
 | A Tragic Reminder | 40.00% | ~240 |
 | True Legends | 40.00% | ~240 |
