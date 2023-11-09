@@ -19,7 +19,7 @@
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,144 | 4.76 | 124 |
 | 18 | [Dauntless](games/d/dauntless.md) | 23,564 | 4.53 | 536 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,867 | 4.26 | 866 |
-| 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,249 | 4.57 | 469 |
+| 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,264 | 4.57 | 469 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,857 | 4.89 | 12 |
 | 22 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 18,907 | 4.74 | 156 |
 | 23 | [Warframe](games/w/warframe.md) | 18,254 | 4.60 | 411 |
@@ -226,8 +226,8 @@
 | 223 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 403 | 4.66 | 291 |
 | 225 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 402 | 4.75 | 144 |
 | 226 | [Nuclear Throne](games/n/nuclear_throne.md) | 399 | 4.79 | 96 |
-| 227 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 395 | 4.62 | 367 |
-| 227 | [Severed Steel](games/s/severed_steel.md) | 395 | 4.69 | 230 |
+| 227 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 396 | 4.62 | 367 |
+| 228 | [Severed Steel](games/s/severed_steel.md) | 395 | 4.69 | 230 |
 | 229 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 388 | 4.62 | 367 |
 | 230 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 377 | 4.56 | 486 |
 | 231 | [EA SPORTS FC™ 24 Standard Edition](games/4/4750c68b2bfa4f43933b81cfd5cc510c.md) | 375 | 4.31 | 828 |
@@ -318,7 +318,7 @@
 | 315 | [Subnautica Below Zero](games/s/subnautica_below_zero.md) | 150 | 4.77 | 115 |
 | 317 | [Night in the Woods](games/n/night_in_the_woods.md) | 146 | 4.73 | 174 |
 | 317 | [Timberborn](games/t/timberborn.md) | 146 | 4.72 | 185 |
-| 319 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 144 | 4.70 | 213 |
+| 319 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 145 | 4.70 | 213 |
 | 320 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 143 | 4.20 | 909 |
 | 321 | [Fort Triumph](games/f/fort_triumph.md) | 142 | 4.08 | 966 |
 | 322 | [First Class Trouble](games/f/first_class_trouble.md) | 140 | 4.48 | 622 |

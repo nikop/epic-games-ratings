@@ -218,7 +218,7 @@
 | 213 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,872 | 47 |
 | 213 | [For The King](games/f/for_the_king.md) | 4.70 | 403 | 223 |
 | 213 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,339 | 135 |
-| 213 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 144 | 319 |
+| 213 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 145 | 319 |
 | 213 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,923 | 114 |
 | 213 | [SuchArt: Genius Artist Simulator](games/s/suchart__genius_artist_simulator.md) | 4.70 | 0 | 548 |
 | 213 | [Tales from the Borderlands](games/t/tales_from_the_borderlands.md) | 4.70 | 0 | 548 |
@@ -243,7 +243,7 @@
 | 230 | [No Straight Roads](games/n/no_straight_roads.md) | 4.69 | 0 | 548 |
 | 230 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 4.69 | 11,593 | 37 |
 | 230 | [Session: Skate Sim](games/s/session__skate_sim.md) | 4.69 | 56 | 414 |
-| 230 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 395 | 227 |
+| 230 | [Severed Steel](games/s/severed_steel.md) | 4.69 | 395 | 228 |
 | 230 | [Songs of Conquest](games/s/songs_of_conquest.md) | 4.69 | 27 | 505 |
 | 230 | [Splinter Cell Chaos Theory](games/s/splinter_cell_chaos_theory.md) | 4.69 | 0 | 548 |
 | 230 | [Steep Standard Edition](games/s/steep_standard_edition.md) | 4.69 | 0 | 548 |
@@ -375,7 +375,7 @@
 | 367 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 4.62 | 91 | 371 |
 | 367 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.62 | 1,606 | 124 |
 | 367 | [HOT WHEELS UNLEASHED™](games/h/hot_wheels_unleashed™.md) | 4.62 | 39 | 456 |
-| 367 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 395 | 227 |
+| 367 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 4.62 | 396 | 227 |
 | 367 | [Jurassic World Evolution](games/j/jurassic_world_evolution.md) | 4.62 | 596 | 192 |
 | 367 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.62 | 187 | 291 |
 | 367 | [Limbo](games/l/limbo.md) | 4.62 | 0 | 548 |
@@ -481,7 +481,7 @@
 | 469 | [Risen](games/r/risen.md) | 4.57 | 0 | 548 |
 | 469 | [The Jackbox Party Pack 6](games/t/the_jackbox_party_pack_6.md) | 4.57 | 0 | 548 |
 | 469 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4.57 | 4,307 | 81 |
-| 469 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,249 | 20 |
+| 469 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 4.57 | 20,264 | 20 |
 | 469 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 4.57 | 1,791 | 118 |
 | 469 | [Travellers Rest](games/t/travellers_rest.md) | 4.57 | 0 | 548 |
 | 469 | [Watch Dogs Standard Edition](games/w/watch_dogs_standard_edition.md) | 4.57 | 83 | 383 |

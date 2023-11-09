@@ -497,6 +497,7 @@
 | [Backrooms: Realm of Shadows](../games/b/b5067143ff63434e9c902de3ffd197f6.md) | 24 | 1,000 |
 | [BloodRayne Betrayal Fresh Bites](../games/b/bloodrayne_betrayal_fresh_bites.md) | 24 | 1,000 |
 | [Bottle: Pilgrim Redux](../games/d/d5f88a2d15f2400db1c116d6651e7c9e.md) | 24 | 1,000 |
+| [Cave Digger 2](../games/9/959857360f1a4558b390204178101bc3.md) | 24 | 1,000 |
 | [Colossal Cave](../games/c/colossal_cave.md) | 24 | 1,000 |
 | [Dark Fantasy 2: Jigsaw Puzzle](../games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 24 | 1,000 |
 | [Disney Speedstorm](../games/d/disney_speedstorm.md) | 24 | 1,000 |
