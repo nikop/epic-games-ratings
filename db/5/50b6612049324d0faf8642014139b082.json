@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -299,9 +299,9 @@
       "ID": "achievement_7",
       "SetID": "jnappp",
       "Name": "NEW PB!",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_8",
@@ -330,8 +330,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:09:19.3135443+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:09:42.7375669+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:01:43.726871+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:09:19.3135622+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:02:36.1155715+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:09:42.7375818+00:00"
 }

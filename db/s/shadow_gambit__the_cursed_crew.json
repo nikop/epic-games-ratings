@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 810,
+  "EOS_Progressed": 811,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.33,
   "EosHistory": [
@@ -2547,6 +2547,11 @@
       "Time": "2023-11-08T22:09:11.5385663+00:00",
       "NumProgressed": 810,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-09T11:09:57.0689177+00:00",
+      "NumProgressed": 811,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2575,7 +2580,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2591,15 +2596,15 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 235
     },
     {
       "ID": "_07_FinishAct3",
@@ -2615,7 +2620,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "_09_Completion_20",
@@ -2631,7 +2636,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "_11_Completion_40",
@@ -2663,7 +2668,7 @@
       "Name": "Freebooter",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "_15_Completion_80",
@@ -2687,7 +2692,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2766,7 +2771,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 810,
+      "Progressed": 811,
       "Completed": 27
     }
   ],
@@ -2774,8 +2779,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:09:32.6785454+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:09:57.0689174+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:47.5023284+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:58:39.6338404+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:09:32.6785771+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:58:46.2590914+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:09:57.0689429+00:00"
 }

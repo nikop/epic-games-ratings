@@ -4,8 +4,8 @@
   "ProductSlug": "cybertd-22dbd6",
   "Ranking_EOS_Progress": 556,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -112,9 +112,9 @@
       "ID": "1",
       "SetID": "6hl9l7f",
       "Name": "Activator",
-      "Percentage": 64,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "10",
@@ -136,17 +136,17 @@
       "ID": "12",
       "SetID": "6hl9l7f",
       "Name": "Weapon Unlocked",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "13",
       "SetID": "6hl9l7f",
       "Name": "Ability Unlocked",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "14",
@@ -168,17 +168,17 @@
       "ID": "16",
       "SetID": "6hl9l7f",
       "Name": "Brute",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "17",
       "SetID": "6hl9l7f",
       "Name": "Launcher",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "18",
@@ -408,9 +408,9 @@
       "ID": "6",
       "SetID": "6hl9l7f",
       "Name": "Loadout Accepted",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "7",
@@ -447,8 +447,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:06:21.9832917+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:06:54.8208747+00:00",
   "LastUpdate_AppInfo": "2023-11-05T13:57:09.5296508+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:00:49.3574848+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:06:21.9833237+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:01:03.550483+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:06:54.8209048+00:00"
 }

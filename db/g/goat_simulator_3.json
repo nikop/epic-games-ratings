@@ -4975,9 +4975,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 250144,
+  "EOS_Progressed": 250145,
   "EOS_Completed": 872,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -27070,6 +27070,11 @@
       "Time": "2023-11-09T10:09:27.4874816+00:00",
       "NumProgressed": 250144,
       "NumCompleted": 872
+    },
+    {
+      "Time": "2023-11-09T11:09:51.6321762+00:00",
+      "NumProgressed": 250145,
+      "NumCompleted": 872
     }
   ],
   "TotalAchievements": 39,
@@ -27129,7 +27134,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75043
+      "UsersEstimate": 75044
     },
     {
       "ID": "AchievementBoulderID",
@@ -27137,7 +27142,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 65037
+      "UsersEstimate": 65038
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -27145,7 +27150,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 227631
+      "UsersEstimate": 227632
     },
     {
       "ID": "AchievementClownID",
@@ -27153,7 +27158,7 @@
       "Name": "Where is It?",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 42524
+      "UsersEstimate": 42525
     },
     {
       "ID": "AchievementContainerPartyID",
@@ -27169,7 +27174,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 70040
+      "UsersEstimate": 70041
     },
     {
       "ID": "AchievementEggID",
@@ -27209,7 +27214,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 132576
+      "UsersEstimate": 132577
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -27217,7 +27222,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 47527
+      "UsersEstimate": 47528
     },
     {
       "ID": "AchievementINirvanaID",
@@ -27249,7 +27254,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142582
+      "UsersEstimate": 142583
     },
     {
       "ID": "AchievementLootBoxID",
@@ -27353,7 +27358,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137579
+      "UsersEstimate": 137580
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -27392,7 +27397,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250144,
+      "Progressed": 250145,
       "Completed": 872
     }
   ],
@@ -27400,8 +27405,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-09T02:57:18.8352492+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:09:27.487481+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:09:51.6321757+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:20.6664953+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:57:35.5114822+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:09:27.4876623+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:57:41.4637225+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:09:51.6323023+00:00"
 }

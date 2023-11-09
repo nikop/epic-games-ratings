@@ -10,8 +10,8 @@
 | Recruit | 68.00% | ~718 |
 | Search and Rescue | 67.00% | ~708 |
 | Quarian Ally | 63.00% | ~665 |
+| Honorarium of Corporate Service | 61.00% | ~644 |
 | Medal of Heroism | 60.00% | ~634 |
-| Honorarium of Corporate Service | 60.00% | ~634 |
 | Council Legion of Merit | 55.00% | ~581 |
 | Medal of Exploration II | 54.00% | ~570 |
 | Medal of Honor | 53.00% | ~560 |
@@ -83,8 +83,8 @@
 | Tunnel Rat | 25.00% | ~264 |
 | Liberator | 25.00% | ~264 |
 | Pathfinder | 24.00% | ~253 |
+| Arbiter | 24.00% | ~253 |
 | Savior | 23.00% | ~243 |
-| Arbiter | 23.00% | ~243 |
 | Lost and Found | 23.00% | ~243 |
 | Paramour II | 21.00% | ~222 |
 | Party Crasher | 21.00% | ~222 |

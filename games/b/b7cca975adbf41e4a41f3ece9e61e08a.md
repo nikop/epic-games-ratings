@@ -5,50 +5,50 @@ Rating: 4.82 (Ranked 64)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~7,010 |
-| I Challenge You To Save More Money! | 88.00% | ~6,633 |
-| I Love How Tough You Are | 74.00% | ~5,578 |
-| Wanna Come To My Place For Dinner? | 68.00% | ~5,126 |
-| What I Want Is You | 62.00% | ~4,674 |
-| To Be Or Not To Be | 58.00% | ~4,372 |
-| Love Actually | 49.00% | ~3,694 |
-| Are You Alright? | 49.00% | ~3,694 |
-| Drama King | 42.00% | ~3,166 |
-| You're Really Something Else | 37.00% | ~2,789 |
-| ONE PUNCH | 36.00% | ~2,714 |
-| Go Clean up In Your Own Way | 36.00% | ~2,714 |
-| Happy Family | 35.00% | ~2,638 |
-| Worthless Speech | 35.00% | ~2,638 |
-| Absolutely Elegant | 34.00% | ~2,563 |
-| FIRST LOVE | 34.00% | ~2,563 |
-| Drama CP: Reel to Real | 34.00% | ~2,563 |
-| Still Single | 32.00% | ~2,412 |
-| Go Get Some Fries On The Pier | 30.00% | ~2,261 |
-| Days Of Innocence | 30.00% | ~2,261 |
-| David | 29.00% | ~2,186 |
-| All I Have Is Money | 25.00% | ~1,884 |
-| Lover In Dark Alley | 25.00% | ~1,884 |
-| A Slap In The Face! | 25.00% | ~1,884 |
-| That's So You | 24.00% | ~1,809 |
-| SALUTE | 24.00% | ~1,809 |
-| Let Me Be Your Toy Boy | 23.00% | ~1,734 |
-| Off We Sail Tonight | 20.00% | ~1,508 |
-| Love You Three Thousand | 15.00% | ~1,131 |
-| Can You Do This Or Not? | 15.00% | ~1,131 |
-| Doesn't Matter I'll Handle It | 14.00% | ~1,055 |
-| The Flash | 12.00% | ~905 |
-| New Yoga Pose Unlocked | 11.00% | ~829 |
-| My Dear Love! | 9.00% | ~678 |
-| This Ain't Right In Many Ways... | 9.00% | ~678 |
-| Life Is A Rollercoaster | 8.00% | ~603 |
-| Boys Need To Protect Themselves | 8.00% | ~603 |
-| Counting Sheep? | 8.00% | ~603 |
-| Stubborn Noob | 8.00% | ~603 |
+| Last Night...Did We... | 93.00% | ~7,020 |
+| I Challenge You To Save More Money! | 88.00% | ~6,642 |
+| I Love How Tough You Are | 74.00% | ~5,586 |
+| Wanna Come To My Place For Dinner? | 68.00% | ~5,133 |
+| What I Want Is You | 62.00% | ~4,680 |
+| To Be Or Not To Be | 58.00% | ~4,378 |
+| Love Actually | 49.00% | ~3,699 |
+| Are You Alright? | 49.00% | ~3,699 |
+| Drama King | 42.00% | ~3,170 |
+| You're Really Something Else | 37.00% | ~2,793 |
+| ONE PUNCH | 36.00% | ~2,717 |
+| Go Clean up In Your Own Way | 36.00% | ~2,717 |
+| Happy Family | 35.00% | ~2,642 |
+| Worthless Speech | 35.00% | ~2,642 |
+| Absolutely Elegant | 34.00% | ~2,566 |
+| FIRST LOVE | 34.00% | ~2,566 |
+| Drama CP: Reel to Real | 34.00% | ~2,566 |
+| Still Single | 32.00% | ~2,415 |
+| Go Get Some Fries On The Pier | 30.00% | ~2,264 |
+| Days Of Innocence | 30.00% | ~2,264 |
+| David | 29.00% | ~2,189 |
+| All I Have Is Money | 25.00% | ~1,887 |
+| Lover In Dark Alley | 25.00% | ~1,887 |
+| A Slap In The Face! | 25.00% | ~1,887 |
+| That's So You | 24.00% | ~1,812 |
+| SALUTE | 24.00% | ~1,812 |
+| Let Me Be Your Toy Boy | 23.00% | ~1,736 |
+| Off We Sail Tonight | 20.00% | ~1,510 |
+| Love You Three Thousand | 15.00% | ~1,132 |
+| Can You Do This Or Not? | 15.00% | ~1,132 |
+| Doesn't Matter I'll Handle It | 14.00% | ~1,057 |
+| The Flash | 12.00% | ~906 |
+| New Yoga Pose Unlocked | 11.00% | ~830 |
+| My Dear Love! | 9.00% | ~679 |
+| This Ain't Right In Many Ways... | 9.00% | ~679 |
+| Life Is A Rollercoaster | 8.00% | ~604 |
+| Boys Need To Protect Themselves | 8.00% | ~604 |
+| Counting Sheep? | 8.00% | ~604 |
+| Stubborn Noob | 8.00% | ~604 |
 | Hurrah! | 2.00% | ~151 |
 | Tall; Grande; Venti | 2.00% | ~151 |
 | Limerence | 2.00% | ~151 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,538 (Ranked 169)  
+Progressed: 7,548 (Ranked 169)  
 Completed: 114 (1.51%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -81,7 +81,7 @@ Completed: 114 (1.51%) (Ranked 135)
 | 2023-11-06 | 7,156 | 107 |
 | 2023-11-07 | 7,332 | 111 |
 | 2023-11-08 | 7,484 | 114 |
-| 2023-11-09 | 7,538 | 114 |
+| 2023-11-09 | 7,548 | 114 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

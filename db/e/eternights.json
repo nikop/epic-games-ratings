@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 193,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 392,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -1404,6 +1404,11 @@
       "Time": "2023-11-08T03:03:34.0735482+00:00",
       "NumProgressed": 391,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-09T11:04:22.5636182+00:00",
+      "NumProgressed": 392,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -1448,7 +1453,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -1464,7 +1469,7 @@
       "Name": "Yohan\u0027s Promise",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACHIEVEMENT_17_PromiseSia",
@@ -1496,7 +1501,7 @@
       "Name": "Shelter Escape",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -1560,7 +1565,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -1568,7 +1573,7 @@
       "Name": "Master Craftsman",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -1582,9 +1587,9 @@
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
       "SetID": "9bke6f1",
       "Name": "Piggyback Expert",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 192
+      "UsersEstimate": 188
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -1600,7 +1605,7 @@
       "Name": "Stone Retriever",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -1608,21 +1613,21 @@
       "Name": "Flawless",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     }
   ],
   "AchievementSets": [
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 392,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:04:01.1014264+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:04:22.5636173+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:15.0588776+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:59:58.9411866+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:04:01.1014501+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:00:09.548397+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:04:22.5636396+00:00"
 }

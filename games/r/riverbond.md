@@ -6,19 +6,19 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,649 |
+| First Step | 70.00% | ~371,650 |
 | Now You're Talking | 62.00% | ~329,175 |
 | Steel Yourself | 62.00% | ~329,175 |
 | Window Dressing | 50.00% | ~265,464 |
-| Trigger Happy | 46.00% | ~244,226 |
-| Riverborn | 45.00% | ~238,917 |
-| Starry Eyed | 34.00% | ~180,515 |
-| Poking Around | 34.00% | ~180,515 |
-| Talk of the Town | 24.00% | ~127,422 |
+| Trigger Happy | 46.00% | ~244,227 |
+| Riverborn | 45.00% | ~238,918 |
+| Starry Eyed | 34.00% | ~180,516 |
+| Poking Around | 34.00% | ~180,516 |
+| Talk of the Town | 24.00% | ~127,423 |
 | AAARR! | 23.00% | ~122,113 |
 | Hello Darkness | 23.00% | ~122,113 |
 | Wind At Our Backs | 22.00% | ~116,804 |
-| To the Beat | 20.00% | ~106,185 |
+| To the Beat | 20.00% | ~106,186 |
 | Sunny Shores | 17.00% | ~90,258 |
 | Sunday Best | 16.00% | ~84,948 |
 | To Victory! | 15.00% | ~79,639 |
@@ -28,8 +28,8 @@ Number of Ratings: 617  (23.09.2022)
 | Make Peace, Not War | 11.00% | ~58,402 |
 | Walking The Line | 10.00% | ~53,093 |
 | Not So Cute Anymore | 10.00% | ~53,093 |
-| Road Less Travelled | 9.00% | ~47,783 |
-| Lost and Found | 9.00% | ~47,783 |
+| Road Less Travelled | 9.00% | ~47,784 |
+| Lost and Found | 9.00% | ~47,784 |
 | Under the Radar | 8.00% | ~42,474 |
 | Partner in Crime | 7.00% | ~37,165 |
 | Hard to Hear | 7.00% | ~37,165 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,593 |
 | Point Taken | 0.20% | ~1,062 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,927 (Ranked 35)  
+Progressed: 530,928 (Ranked 35)  
 Completed: 497 (0.09%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 497 (0.09%) (Ranked 273)
 | 2023-11-06 | 530,816 | 497 |
 | 2023-11-07 | 530,866 | 497 |
 | 2023-11-08 | 530,913 | 497 |
-| 2023-11-09 | 530,927 | 497 |
+| 2023-11-09 | 530,928 | 497 |
 ## Awards
 Max (Relaxing): 20  (Ranked 543)  
 Sum: 20 (Ranked 544)  

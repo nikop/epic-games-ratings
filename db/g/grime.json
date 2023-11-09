@@ -3,12 +3,12 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 433,
-  "Ranking_Popularity": 424,
+  "Ranking_Popularity": 425,
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1399,9 +1399,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157299,
+  "EOS_Progressed": 157304,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1254,
+  "EOS_NewPlayers": 1256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14949,6 +14949,11 @@
       "Time": "2023-11-09T10:08:31.2061641+00:00",
       "NumProgressed": 157299,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T11:08:30.9930522+00:00",
+      "NumProgressed": 157304,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15016,7 +15021,7 @@
       "Name": "Breath",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -15048,7 +15053,7 @@
       "Name": "Artisan",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -15088,7 +15093,7 @@
       "Name": "Hush",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -15128,7 +15133,7 @@
       "Name": "Inevitable",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -15142,9 +15147,9 @@
       "ID": "DEFEAT_WATCHER",
       "SetID": "ccc0dlh",
       "Name": "Watcher",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1573
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -15208,7 +15213,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 786
+      "UsersEstimate": 787
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -15327,21 +15332,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 156882,
+      "Progressed": 156887,
       "Completed": 1196
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157299,
+      "Progressed": 157304,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-09T07:57:23.5235747+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:08:31.2061636+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:08:30.9930518+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:57:29.6286577+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:08:31.2062935+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:57:36.1958552+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:08:30.9931641+00:00"
 }

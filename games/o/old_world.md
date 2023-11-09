@@ -13,6 +13,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Friendly Family | 4.00% | ~609 |
 | Able | 3.00% | ~457 |
 | Architect | 3.00% | ~457 |
+| Enlightened | 3.00% | ~457 |
 | Glorious | 3.00% | ~457 |
 | Good | 3.00% | ~457 |
 | Just | 3.00% | ~457 |
@@ -33,7 +34,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambitious | 2.00% | ~304 |
 | Drillmaster | 2.00% | ~304 |
 | Brilliant | 2.00% | ~304 |
-| Enlightened | 2.00% | ~304 |
 | Fountainhead | 2.00% | ~304 |
 | Great | 2.00% | ~304 |
 | Magnificent | 2.00% | ~304 |

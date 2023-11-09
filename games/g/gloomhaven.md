@@ -8,10 +8,10 @@ Number of Ratings: 68  (23.09.2022)
 | ---- | ---------- | ----- |
 | I'm not dead yet | 42.00% | ~8,164 |
 | Overkill | 35.00% | ~6,803 |
-| Vaccine Incoming | 33.00% | ~6,414 |
+| Vaccine Incoming | 33.00% | ~6,415 |
 | A normal day in Gloomhaven | 32.00% | ~6,220 |
 | Spread the plague | 30.00% | ~5,831 |
-| Get over here! | 25.00% | ~4,859 |
+| Get over here! | 25.00% | ~4,860 |
 | Just when I thought I was out... | 19.00% | ~3,693 |
 | Precious! | 17.00% | ~3,304 |
 | Mine... All Mine... | 17.00% | ~3,304 |
@@ -20,7 +20,7 @@ Number of Ratings: 68  (23.09.2022)
 | Light of my life | 14.00% | ~2,721 |
 | You activated my trap card! | 13.00% | ~2,527 |
 | Obstacle race | 13.00% | ~2,527 |
-| Augmented rat | 12.00% | ~2,332 |
+| Augmented rat | 12.00% | ~2,333 |
 | Doom and gloom | 11.00% | ~2,138 |
 | Who's the Boss? | 10.00% | ~1,944 |
 | Dungeon Veteran | 8.00% | ~1,555 |
@@ -34,7 +34,7 @@ Number of Ratings: 68  (23.09.2022)
 | The Pro from Dover | 5.00% | ~972 |
 | Pretty lights! | 5.00% | ~972 |
 | Now you see me... | 5.00% | ~972 |
-| Merchant of doom | 4.00% | ~777 |
+| Merchant of doom | 4.00% | ~778 |
 | I hate portals | 3.00% | ~583 |
 | Down the hatch | 3.00% | ~583 |
 | An eye for an eye | 3.00% | ~583 |
@@ -49,8 +49,8 @@ Number of Ratings: 68  (23.09.2022)
 | Add a bit of colour | 1.00% | ~194 |
 | Captain hooked | 1.00% | ~194 |
 | New Blood | 1.00% | ~194 |
-| Betray this | 0.80% | ~155 |
-| Spoiler police! | 0.80% | ~155 |
+| Betray this | 0.80% | ~156 |
+| Spoiler police! | 0.80% | ~156 |
 | The Pacifist | 0.50% | ~97 |
 | Born Support | 0.50% | ~97 |
 | A tough job | 0.40% | ~78 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~19 |
 | Murder Death Kill | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,437 (Ranked 133)  
+Progressed: 19,438 (Ranked 133)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-06 | 19,002 | 1 |
 | 2023-11-07 | 19,194 | 1 |
 | 2023-11-08 | 19,356 | 1 |
-| 2023-11-09 | 19,437 | 1 |
+| 2023-11-09 | 19,438 | 1 |
 ## Awards
 Max (Character Customization): 3,570  (Ranked 90)  
 Sum: 8,344 (Ranked 99)  

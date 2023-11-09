@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 99,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 57,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2381,9 +2381,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 19437,
+  "EOS_Progressed": 19438,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1658,
+  "EOS_NewPlayers": 1647,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8581,6 +8581,11 @@
       "Time": "2023-11-09T10:03:56.1630645+00:00",
       "NumProgressed": 19437,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T11:04:17.1295758+00:00",
+      "NumProgressed": 19438,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8617,7 +8622,7 @@
       "Name": "Merchant of doom",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "Achievement_Trophy05",
@@ -8641,7 +8646,7 @@
       "Name": "Betray this",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Achievement_Trophy08",
@@ -8729,7 +8734,7 @@
       "Name": "Spoiler police!",
       "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Achievement_Trophy19",
@@ -8809,7 +8814,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6414
+      "UsersEstimate": 6415
     },
     {
       "ID": "Achievement_Trophy29",
@@ -8857,7 +8862,7 @@
       "Name": "Augmented rat",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2332
+      "UsersEstimate": 2333
     },
     {
       "ID": "Achievement_Trophy35",
@@ -8881,7 +8886,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4859
+      "UsersEstimate": 4860
     },
     {
       "ID": "Achievement_Trophy38",
@@ -9080,7 +9085,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 19437,
+      "Progressed": 19438,
       "Completed": 1
     }
   ],
@@ -9088,8 +9093,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-08T21:12:32.8884434+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:03:56.1630641+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:04:17.1295753+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:01:40.3858465+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:03:56.1631622+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:02:32.4390627+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:04:17.1296479+00:00"
 }

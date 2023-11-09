@@ -9,10 +9,10 @@
 | The great escape | 28.00% | ~139 |
 | The Preacher's fate | 27.00% | ~134 |
 | A new dawn | 23.00% | ~114 |
+| Scholar | 21.00% | ~104 |
 | True G3M4R | 20.00% | ~99 |
-| Scholar | 20.00% | ~99 |
+| A good beginning | 19.00% | ~94 |
 | The darkness | 19.00% | ~94 |
-| A good beginning | 18.00% | ~89 |
 | I did it | 17.00% | ~84 |
 | Half the way | 17.00% | ~84 |
 | One last step | 17.00% | ~84 |
@@ -20,7 +20,7 @@
 | Cable guy | 16.00% | ~79 |
 | Champollion | 16.00% | ~79 |
 | In this together | 15.00% | ~74 |
-| Open door | 14.00% | ~69 |
+| Open door | 15.00% | ~74 |
 | Feels like springtime | 14.00% | ~69 |
 | Alchemists Express | 14.00% | ~69 |
 | Free at last | 11.00% | ~55 |

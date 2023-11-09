@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4023,7 +4023,7 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 77721,
+  "EOS_Progressed": 77722,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 747,
   "EOS_NewCompleters": 0,
@@ -26958,6 +26958,11 @@
       "Time": "2023-11-09T10:07:32.5961548+00:00",
       "NumProgressed": 77721,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-09T11:08:11.7133619+00:00",
+      "NumProgressed": 77722,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -27017,7 +27022,7 @@
       "Name": "Finders Keepers",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 20207
+      "UsersEstimate": 20208
     },
     {
       "ID": "complet_epilogue_mission",
@@ -27025,7 +27030,7 @@
       "Name": "We could go home, or\u2026",
       "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "complete_all_of_wanted",
@@ -27049,7 +27054,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "complete_final_mission",
@@ -27145,7 +27150,7 @@
       "Name": "A Young Empire",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 20207
+      "UsersEstimate": 20208
     },
     {
       "ID": "empire_tier_3",
@@ -27169,7 +27174,7 @@
       "Name": "A Golden Age",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 5440
+      "UsersEstimate": 5441
     },
     {
       "ID": "first_building_placed",
@@ -27225,7 +27230,7 @@
       "Name": "Took It to The Limit",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 12435
+      "UsersEstimate": 12436
     },
     {
       "ID": "infinite_boost_refill",
@@ -27265,7 +27270,7 @@
       "Name": "Making a Name",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 27202
+      "UsersEstimate": 27203
     },
     {
       "ID": "one_third_purple",
@@ -27377,7 +27382,7 @@
       "Name": "Face Off",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "bfhj_complete_mission_3_collectible",
@@ -27392,13 +27397,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 77721,
+      "Progressed": 77722,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 49358,
+      "Progressed": 49359,
       "Completed": 4280
     }
   ],
@@ -27406,8 +27411,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-07T18:03:25.9766934+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:07:32.5961543+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:08:11.7133617+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.8364565+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:02:59.3021889+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:07:32.5963494+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:03:15.3921687+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:08:11.7135017+00:00"
 }

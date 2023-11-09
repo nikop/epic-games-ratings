@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1056,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3564,9 +3564,9 @@
       "ID": "achievement_5",
       "SetID": "b9pe172",
       "Name": "Honorarium of Corporate Service",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 634
+      "UsersEstimate": 644
     },
     {
       "ID": "achievement_50",
@@ -3900,9 +3900,9 @@
       "ID": "achievement_88",
       "SetID": "d252ncf",
       "Name": "Arbiter",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 243
+      "UsersEstimate": 253
     },
     {
       "ID": "achievement_89",
@@ -4016,8 +4016,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:06:26.4841924+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:06:59.8645142+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:02:52.8553651+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:06:26.4844248+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:03:08.1331225+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:06:59.8647034+00:00"
 }

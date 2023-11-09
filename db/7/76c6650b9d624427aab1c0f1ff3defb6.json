@@ -2,9 +2,9 @@
   "ID": "76c6650b9d624427aab1c0f1ff3defb6",
   "Name": "The Repair House: Restoration Sim",
   "ProductSlug": "the-repair-house-349cf9",
-  "Ranking_EOS_Progress": 611,
+  "Ranking_EOS_Progress": 612,
   "Ranking_EOS_Completed": 1,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-09-18T09:00:00+00:00",
@@ -69,8 +69,8 @@
   ],
   "FirstSeen": "2023-11-06T07:02:40.1582806+00:00",
   "FirstSeenAchievements": "2023-09-12T12:01:01.0703502+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:07:06.46556+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:07:43.3312269+00:00",
   "LastUpdate_AppInfo": "2023-11-07T15:57:20.4243549+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:58:39.1445206+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:07:06.4655642+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:58:45.7258281+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:07:43.3312304+00:00"
 }

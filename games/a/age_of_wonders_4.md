@@ -6,9 +6,9 @@ Rating: 4.60 (Ranked 411)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 0.70% | ~37 |
+| Secret Technique | 0.30% | ~16 |
 | Realm Estate | 0.20% | ~11 |
 | A Wonderful Discovery | 0.20% | ~11 |
-| Secret Technique | 0.20% | ~11 |
 | Walls Cannot Stop Us | 0.20% | ~11 |
 | Freed Lands of Manuhari | 0.20% | ~11 |
 | Spoils of War | 0.20% | ~11 |
@@ -32,6 +32,7 @@ Rating: 4.60 (Ranked 411)
 | My Final Form | 0.10% | ~5 |
 | Seat of Power | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
+| Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
 | Impenetrable Fortress | 0.10% | ~5 |
@@ -59,14 +60,13 @@ Rating: 4.60 (Ranked 411)
 | The Magic That Empowers Me! | 0.00% | ~0 |
 | God Emperor | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
-| Fiery Friend | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,302 (Ranked 183)  
+Progressed: 5,304 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-06 | 5,276 | 7 |
 | 2023-11-07 | 5,285 | 7 |
 | 2023-11-08 | 5,299 | 7 |
-| 2023-11-09 | 5,302 | 7 |
+| 2023-11-09 | 5,304 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 474)  

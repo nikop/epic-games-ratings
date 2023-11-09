@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14808,10 +14808,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 347106,
       "NumberOfAwardsMax": 104529
+    },
+    {
+      "Time": "2023-11-09T10:57:39.0459198+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 347171,
+      "NumberOfAwardsMax": 104529
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 347106,
+  "NumberOfAwards": 347171,
   "NumberOfAwardsMax": 104529,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14837,7 +14843,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 18246
+      "Count": 18311
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14888,9 +14894,9 @@
       "Count": 12644
     }
   ],
-  "EOS_Progressed": 895853,
+  "EOS_Progressed": 895857,
   "EOS_Completed": 2759,
-  "EOS_NewPlayers": 971,
+  "EOS_NewPlayers": 967,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -37858,6 +37864,11 @@
       "Time": "2023-11-09T10:03:53.7696549+00:00",
       "NumProgressed": 895853,
       "NumCompleted": 2759
+    },
+    {
+      "Time": "2023-11-09T11:04:14.6513885+00:00",
+      "NumProgressed": 895857,
+      "NumCompleted": 2759
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38405,21 +38416,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895853,
+      "Progressed": 895857,
       "Completed": 2759
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24476,
+      "Progressed": 24480,
       "Completed": 10204
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-09T09:57:32.7156279+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:03:53.7696543+00:00",
+  "LastChanged": "2023-11-09T10:57:39.0459196+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:04:14.651388+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:57:32.7156284+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:03:53.7698785+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:57:39.0459202+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:04:14.6515392+00:00"
 }

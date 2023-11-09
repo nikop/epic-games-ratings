@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -2161,9 +2161,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 94
     },
     {
       "ID": "META_HALF_LINK",
@@ -2177,9 +2177,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 74
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2281,9 +2281,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 104
     },
     {
       "ID": "PROGRESS_N1",
@@ -2336,8 +2336,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:04:55.6157411+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:05:20.9241111+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:59:03.0409716+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:04:55.6157743+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:59:09.8712472+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:05:20.9241348+00:00"
 }

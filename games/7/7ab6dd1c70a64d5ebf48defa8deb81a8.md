@@ -11,13 +11,13 @@
 | I Found It | 25.00% | ~44 |
 | Find Allies | 24.00% | ~42 |
 | A Taste of Wrath | 24.00% | ~42 |
+| Adventurer | 24.00% | ~42 |
 | Geared Up | 24.00% | ~42 |
 | Fashion Victim | 24.00% | ~42 |
-| Adventurer | 23.00% | ~40 |
 | Scholar | 23.00% | ~40 |
 | Powerful Allies | 22.00% | ~38 |
 | Tributes of Caladrias | 20.00% | ~35 |
-| Stone Collection | 18.00% | ~31 |
+| Stone Collection | 19.00% | ~33 |
 | Essence Blow | 11.00% | ~19 |
 | Big Bazar | 10.00% | ~17 |
 | Alchemist | 9.00% | ~16 |

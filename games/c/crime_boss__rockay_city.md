@@ -15,9 +15,9 @@ Rating: 3.95 (Ranked 1,004)
 | Off the Rocks | 1.00% | ~899 |
 | Raider’s Ruin | 1.00% | ~899 |
 | Dragonslayer | 1.00% | ~899 |
-| Case Closed | 0.90% | ~809 |
 | King of the Hill | 0.90% | ~809 |
 | Rockay Rex | 0.90% | ~809 |
+| Case Closed | 0.80% | ~719 |
 | Hidden Sonata | 0.70% | ~629 |
 | True Player | 0.70% | ~629 |
 | Track Star | 0.60% | ~539 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,882 (Ranked 91)  
+Progressed: 89,887 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 55 (0.06%) (Ranked 290)
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
 | 2023-11-08 | 89,818 | 55 |
-| 2023-11-09 | 89,882 | 55 |
+| 2023-11-09 | 89,887 | 55 |
 ## Awards
 Max (Diverse Characters): 523  (Ranked 204)  
 Sum: 2,971 (Ranked 175)  

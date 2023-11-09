@@ -19,17 +19,17 @@
 | Playtime | 14.00% | ~8 |
 | Tough conversation | 14.00% | ~8 |
 | Breaking free | 12.00% | ~7 |
+| Debut | 12.00% | ~7 |
+| The art of movement | 12.00% | ~7 |
 | The tragedy unfolds | 12.00% | ~7 |
-| Debut | 10.00% | ~6 |
-| The art of movement | 10.00% | ~6 |
+| A Slice of Life | 10.00% | ~6 |
 | A new way | 8.00% | ~5 |
-| A Slice of Life | 8.00% | ~5 |
+| Another perspective | 8.00% | ~5 |
+| Lights! Camera! Action! | 8.00% | ~5 |
 | True Reflection | 8.00% | ~5 |
 | Whispers long forgotten | 8.00% | ~5 |
-| Another perspective | 7.00% | ~4 |
 | Sound Bite | 7.00% | ~4 |
 | Heavy Burden | 7.00% | ~4 |
-| Lights! Camera! Action! | 7.00% | ~4 |
 | We Are Not Alone | 5.00% | ~3 |
 | Casting Finished | 3.00% | ~2 |
 | Something to think about | 3.00% | ~2 |

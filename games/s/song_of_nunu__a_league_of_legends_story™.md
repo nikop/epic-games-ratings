@@ -19,7 +19,7 @@
 | Tear of Freedom | 49.00% | ~291 |
 | Boom Things | 49.00% | ~291 |
 | My Darkest Day | 45.00% | ~267 |
-| Rhythm Of Willump | 44.00% | ~261 |
+| Rhythm Of Willump | 45.00% | ~267 |
 | The Relentless Storm | 41.00% | ~243 |
 | A Tragic Reminder | 40.00% | ~237 |
 | True Legends | 40.00% | ~237 |

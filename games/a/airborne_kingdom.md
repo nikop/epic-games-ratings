@@ -7,12 +7,12 @@ Number of Ratings: 74  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Small Community | 56.00% | ~4,176 |
-| A Grove Replanted | 53.00% | ~3,952 |
+| A Grove Replanted | 53.00% | ~3,953 |
 | Fields Watered | 42.00% | ~3,132 |
-| Seekers Found | 41.00% | ~3,057 |
-| Settling the Skies | 41.00% | ~3,057 |
+| Seekers Found | 41.00% | ~3,058 |
+| Settling the Skies | 41.00% | ~3,058 |
 | Wind Powered | 40.00% | ~2,983 |
-| It Takes a Village | 34.00% | ~2,535 |
+| It Takes a Village | 34.00% | ~2,536 |
 | On the Town | 28.00% | ~2,088 |
 | Daylight Found | 26.00% | ~1,939 |
 | Irons Scorched | 25.00% | ~1,864 |
@@ -21,12 +21,12 @@ Number of Ratings: 74  (23.09.2022)
 | Travelers Returned | 24.00% | ~1,790 |
 | Pyre Ignited | 23.00% | ~1,715 |
 | Hopes Hoisted | 22.00% | ~1,641 |
-| Knowledge Shared | 20.00% | ~1,491 |
-| Relic Finder | 20.00% | ~1,491 |
+| Knowledge Shared | 20.00% | ~1,492 |
+| Relic Finder | 20.00% | ~1,492 |
 | Worthy of the Title | 19.00% | ~1,417 |
 | A Peaceful Respite | 14.00% | ~1,044 |
-| A Learned Scholar | 13.00% | ~969 |
-| Prophecy Fulfilled | 13.00% | ~969 |
+| A Learned Scholar | 13.00% | ~970 |
+| Prophecy Fulfilled | 13.00% | ~970 |
 | A Wanderer’s Guide | 11.00% | ~820 |
 | Knowledge Seeker | 6.00% | ~447 |
 | The Cycle Continues | 3.00% | ~224 |
@@ -34,7 +34,7 @@ Number of Ratings: 74  (23.09.2022)
 | Sparkling Alloys | 2.00% | ~149 |
 | A True Challenge | 2.00% | ~149 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,457 (Ranked 170)  
+Progressed: 7,458 (Ranked 170)  
 Completed: 58 (0.78%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,6 +236,7 @@ Completed: 58 (0.78%) (Ranked 171)
 | 2023-11-06 | 7,450 | 58 |
 | 2023-11-07 | 7,454 | 58 |
 | 2023-11-08 | 7,457 | 58 |
+| 2023-11-09 | 7,458 | 58 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

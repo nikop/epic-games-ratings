@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -423,9 +423,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5302,
+  "EOS_Progressed": 5304,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6773,6 +6773,11 @@
       "Time": "2023-11-09T09:07:54.0264483+00:00",
       "NumProgressed": 5302,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-09T11:07:57.6073886+00:00",
+      "NumProgressed": 5304,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6910,9 +6915,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "25",
@@ -7014,9 +7019,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "37",
@@ -7263,13 +7268,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5302,
+      "Progressed": 5304,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5302,
+      "Progressed": 5304,
       "Completed": 7
     }
   ],
@@ -7277,8 +7282,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-08T19:59:43.5707761+00:00",
-  "LastChanged_Achievements": "2023-11-09T10:07:19.6239832+00:00",
+  "LastChanged_Achievements": "2023-11-09T11:07:57.6073882+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:00:27.6290112+00:00",
-  "LastUpdate_Achievements": "2023-11-09T10:07:19.6240755+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:00:40.5583798+00:00",
+  "LastUpdate_Achievements": "2023-11-09T11:07:57.6074677+00:00"
 }

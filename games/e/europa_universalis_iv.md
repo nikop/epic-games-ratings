@@ -85,6 +85,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Kaiser not just in name | 0.10% | ~450 |
 | King of Jerusalem | 0.10% | ~450 |
 | Kingdom of God | 0.10% | ~450 |
+| Laughingstock | 0.10% | ~450 |
 | Liberty or Death | 0.10% | ~450 |
 | Live Long and Prosper | 0.10% | ~450 |
 | Luck of the Irish | 0.10% | ~450 |
@@ -253,7 +254,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
 | Land of Eastern Jade | 0.00% | ~0 |
-| Laughingstock | 0.00% | ~0 |
 | Lazarus | 0.00% | ~0 |
 | Lessons of Hemmingstedt | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,308 (Ranked 41)  
+Progressed: 450,338 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,10 +573,10 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
-| 2023-11-09 | 450,308 | 1 |
+| 2023-11-09 | 450,338 | 1 |
 ## Awards
 Max (Educational): 6,915  (Ranked 55)  
-Sum: 56,813 (Ranked 24)  
+Sum: 56,832 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
@@ -586,7 +586,7 @@ Diff (max vs sum): 31
 | This game has Challenging Combat | 6,527 |
 | This game is Extremely Fun | 6,503 |
 | This game is Relaxing | 6,355 |
-| This game has Competitive Players | 6,193 |
+| This game has Competitive Players | 6,212 |
 | This game has Amazing Storytelling | 5,747 |
 | This game has Amazing Characters | 5,318 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -889,4 +889,4 @@ Diff (max vs sum): 31
 | 2023-11-06 | 4.69 | - | 6,879 | 56,411 |
 | 2023-11-07 | 4.69 | - | 6,879 | 56,604 |
 | 2023-11-08 | 4.69 | - | 6,903 | 56,787 |
-| 2023-11-09 | 4.69 | - | 6,915 | 56,813 |
+| 2023-11-09 | 4.69 | - | 6,915 | 56,832 |
