@@ -769,6 +769,7 @@
 | [We Are OFK](../games/w/we_are_ofk.md) | 28 | 1,000 |
 | [We Were Here Expeditions: The FriendShip](../games/8/88feec140a2f41c3954365c24393be14.md) | 12 | 1,000 |
 | [Weird West: Definitive Edition](../games/w/weird_west.md) | 53 | 1,000 |
+| [What The Duck](../games/0/087e76c9e4ba4fc8bacc75b794cc27b2.md) | 44 | 1,000 |
 | [while True: learn()](../games/w/while_true__learn().md) | 28 | 1,000 |
 | [Who Pressed Mute on Uncle Marcus?](../games/w/who_pressed_mute_on_uncle_marcus.md) | 17 | 1,000 |
 | [Who's Your Daddy?!](../games/6/63d0293742c943d68b88af4173b1a5d0.md) | 28 | 1,000 |

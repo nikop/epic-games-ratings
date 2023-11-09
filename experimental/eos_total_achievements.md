@@ -234,6 +234,7 @@
 | [Shadow Tactics: Blades of the Shogun](../games/s/shadow_tactics__blades_of_the_shogun.md) | 44 | 1,000 |
 | [Song of Nunu: A League of Legends Story](../games/s/song_of_nunu__a_league_of_legends_story™.md) | 44 | 1,000 |
 | [SpongeBob SquarePants: The Cosmic Shake](../games/s/spongebob_squarepants__the_cosmic_shake.md) | 44 | 1,000 |
+| [What The Duck](../games/0/087e76c9e4ba4fc8bacc75b794cc27b2.md) | 44 | 1,000 |
 | [World of Warships](../games/w/world_of_warships.md) | 44 | 1,000 |
 | [Xuan-Yuan Sword VII](../games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 44 | 1,000 |
 | [Art of Rally](../games/a/art_of_rally_1.md) | 43 | 1,000 |
