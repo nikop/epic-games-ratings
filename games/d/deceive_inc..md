@@ -14,8 +14,8 @@ Rating: 4.57 (Ranked 469)
 | Tailor-Made | 18.00% | ~3,386 |
 | For your Eyes only | 18.00% | ~3,386 |
 | Assistant Accountant | 17.00% | ~3,198 |
-| You Only Live Twice | 16.00% | ~3,009 |
-| Fully Decked Out | 16.00% | ~3,009 |
+| You Only Live Twice | 16.00% | ~3,010 |
+| Fully Decked Out | 16.00% | ~3,010 |
 | A view to Win | 13.00% | ~2,445 |
 | The Living Portrait | 12.00% | ~2,257 |
 | Smells Like Trouble | 12.00% | ~2,257 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 469)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,809 (Ranked 134)  
+Progressed: 18,810 (Ranked 134)  
 Completed: 4 (0.02%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,6 +245,7 @@ Completed: 4 (0.02%) (Ranked 314)
 | 2023-11-06 | 18,790 | 4 |
 | 2023-11-07 | 18,802 | 4 |
 | 2023-11-08 | 18,809 | 4 |
+| 2023-11-09 | 18,810 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

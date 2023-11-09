@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 745)
 | Master Of The Collectables | 0.60% | ~104 |
 | Maxed Out | 0.60% | ~104 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,297 (Ranked 139)  
+Progressed: 17,305 (Ranked 139)  
 Completed: 35 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -56,7 +56,7 @@ Completed: 35 (0.20%) (Ranked 244)
 | 2023-11-06 | 16,699 | 28 |
 | 2023-11-07 | 16,971 | 30 |
 | 2023-11-08 | 17,246 | 34 |
-| 2023-11-09 | 17,297 | 35 |
+| 2023-11-09 | 17,305 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

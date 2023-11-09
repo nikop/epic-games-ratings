@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,552 |
-| Basic in Bulk | 4.00% | ~5,552 |
-| Titan's First Steps | 4.00% | ~5,552 |
+| Sponsored by Argon | 4.00% | ~5,553 |
+| Basic in Bulk | 4.00% | ~5,553 |
+| Titan's First Steps | 4.00% | ~5,553 |
 | Disintermediation | 3.00% | ~4,164 |
 | Tinkle of Coins | 3.00% | ~4,164 |
 | Capitalism Ho! | 3.00% | ~4,164 |
@@ -51,26 +51,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.90% | ~1,249 |
 | Seasoned Journeyman | 0.90% | ~1,249 |
 | Special Ingredient | 0.90% | ~1,249 |
-| A Notch Above the Rest | 0.80% | ~1,110 |
-| Above the Norm | 0.80% | ~1,110 |
-| The King's Caprice | 0.80% | ~1,110 |
-| Big Game Hunting | 0.80% | ~1,110 |
-| Locally Sourced | 0.80% | ~1,110 |
-| Flying off the Shelves | 0.80% | ~1,110 |
-| This Power Level...! | 0.80% | ~1,110 |
-| Master of Transmutation | 0.80% | ~1,110 |
-| Hidden Potential | 0.80% | ~1,110 |
-| Expansion in Session | 0.80% | ~1,110 |
-| Cranked up to 11 | 0.80% | ~1,110 |
-| Fit for a King | 0.80% | ~1,110 |
-| Mammonite | 0.80% | ~1,110 |
-| Fat Cat Tag Team | 0.80% | ~1,110 |
-| Necromancer Queen | 0.80% | ~1,110 |
-| Miracle Alchemist | 0.80% | ~1,110 |
-| Laden with Loot | 0.80% | ~1,110 |
-| Scourge of the Seas | 0.80% | ~1,110 |
-| Black Friday Special | 0.80% | ~1,110 |
-| Complete Monopoly | 0.80% | ~1,110 |
+| A Notch Above the Rest | 0.80% | ~1,111 |
+| Above the Norm | 0.80% | ~1,111 |
+| The King's Caprice | 0.80% | ~1,111 |
+| Big Game Hunting | 0.80% | ~1,111 |
+| Locally Sourced | 0.80% | ~1,111 |
+| Flying off the Shelves | 0.80% | ~1,111 |
+| This Power Level...! | 0.80% | ~1,111 |
+| Master of Transmutation | 0.80% | ~1,111 |
+| Hidden Potential | 0.80% | ~1,111 |
+| Expansion in Session | 0.80% | ~1,111 |
+| Cranked up to 11 | 0.80% | ~1,111 |
+| Fit for a King | 0.80% | ~1,111 |
+| Mammonite | 0.80% | ~1,111 |
+| Fat Cat Tag Team | 0.80% | ~1,111 |
+| Necromancer Queen | 0.80% | ~1,111 |
+| Miracle Alchemist | 0.80% | ~1,111 |
+| Laden with Loot | 0.80% | ~1,111 |
+| Scourge of the Seas | 0.80% | ~1,111 |
+| Black Friday Special | 0.80% | ~1,111 |
+| Complete Monopoly | 0.80% | ~1,111 |
 | Cream of the Crop | 0.70% | ~972 |
 | Top of the World | 0.70% | ~972 |
 | Proud Paladin | 0.70% | ~972 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,809 (Ranked 79)  
+Progressed: 138,813 (Ranked 79)  
 Completed: 179 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 179 (0.13%) (Ranked 257)
 | 2023-11-06 | 138,721 | 178 |
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
-| 2023-11-09 | 138,809 | 179 |
+| 2023-11-09 | 138,813 | 179 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 74)  
 Sum: 27,511 (Ranked 52)  

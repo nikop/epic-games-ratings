@@ -8,7 +8,7 @@ Number of Ratings: 170  (23.09.2022)
 | ---- | ---------- | ----- |
 | Light at the end of the tunnel | 77.00% | ~18,281 |
 | Mama? | 27.00% | ~6,410 |
-| People's Haven | 18.00% | ~4,273 |
+| People's Haven | 18.00% | ~4,274 |
 | Cartographer | 17.00% | ~4,036 |
 | Antlers of Stone | 15.00% | ~3,561 |
 | Knowledge for Power | 14.00% | ~3,324 |
@@ -20,14 +20,14 @@ Number of Ratings: 170  (23.09.2022)
 | Condor condo | 10.00% | ~2,374 |
 | Memorial | 9.00% | ~2,137 |
 | An uninvited guest | 8.00% | ~1,899 |
-| Tails of Stone | 6.00% | ~1,424 |
-| Baa from the past | 6.00% | ~1,424 |
-| Written in stone | 6.00% | ~1,424 |
-| Talk to all the spirit animals | 6.00% | ~1,424 |
+| Tails of Stone | 6.00% | ~1,425 |
+| Baa from the past | 6.00% | ~1,425 |
+| Written in stone | 6.00% | ~1,425 |
+| Talk to all the spirit animals | 6.00% | ~1,425 |
 | Ripples on the surface | 5.00% | ~1,187 |
 | Hide and Seek | 4.00% | ~950 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,741 (Ranked 126)  
+Progressed: 23,742 (Ranked 126)  
 Completed: 454 (1.91%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 454 (1.91%) (Ranked 121)
 | 2023-11-06 | 23,615 | 450 |
 | 2023-11-07 | 23,672 | 452 |
 | 2023-11-08 | 23,724 | 454 |
-| 2023-11-09 | 23,741 | 454 |
+| 2023-11-09 | 23,742 | 454 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

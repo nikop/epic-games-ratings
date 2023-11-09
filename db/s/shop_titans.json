@@ -6925,9 +6925,9 @@
       "Count": 3773
     }
   ],
-  "EOS_Progressed": 138809,
+  "EOS_Progressed": 138813,
   "EOS_Completed": 179,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27610,6 +27610,11 @@
       "Time": "2023-11-09T05:04:41.2171639+00:00",
       "NumProgressed": 138809,
       "NumCompleted": 179
+    },
+    {
+      "Time": "2023-11-09T06:04:26.0666452+00:00",
+      "NumProgressed": 138813,
+      "NumCompleted": 179
     }
   ],
   "TotalAchievements": 112,
@@ -27637,7 +27642,7 @@
       "Name": "A Notch Above the Rest",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "advlevel04",
@@ -27677,7 +27682,7 @@
       "Name": "Above the Norm",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "ascend03",
@@ -27717,7 +27722,7 @@
       "Name": "The King\u0027s Caprice",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "blueprint01",
@@ -27765,7 +27770,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "boss03",
@@ -27789,7 +27794,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "chest02",
@@ -27853,7 +27858,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "commonres02",
@@ -27869,7 +27874,7 @@
       "Name": "Locally Sourced",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "commonres04",
@@ -27901,7 +27906,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "craft04",
@@ -27933,7 +27938,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "damage03",
@@ -27949,7 +27954,7 @@
       "Name": "Master of Transmutation",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "enchant01",
@@ -27957,7 +27962,7 @@
       "Name": "Hidden Potential",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "enchant02",
@@ -28005,7 +28010,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "expansion03",
@@ -28037,7 +28042,7 @@
       "Name": "Cranked up to 11",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "furniture03",
@@ -28045,7 +28050,7 @@
       "Name": "Fit for a King",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "fuseepic",
@@ -28125,7 +28130,7 @@
       "Name": "Mammonite",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "gold06",
@@ -28149,7 +28154,7 @@
       "Name": "Fat Cat Tag Team",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "help03",
@@ -28165,7 +28170,7 @@
       "Name": "Necromancer Queen",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "jackslot01",
@@ -28237,7 +28242,7 @@
       "Name": "Miracle Alchemist",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "loot01",
@@ -28253,7 +28258,7 @@
       "Name": "Laden with Loot",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "loot03",
@@ -28325,7 +28330,7 @@
       "Name": "Scourge of the Seas",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "quest01",
@@ -28405,7 +28410,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "sell03",
@@ -28437,7 +28442,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5552
+      "UsersEstimate": 5553
     },
     {
       "ID": "twinenchant01",
@@ -28501,7 +28506,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1111
     },
     {
       "ID": "yami_a",
@@ -28516,15 +28521,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138809,
+      "Progressed": 138813,
       "Completed": 179
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-09T02:58:49.6495553+00:00",
-  "LastChanged_Achievements": "2023-11-09T05:04:41.2171633+00:00",
+  "LastChanged_Achievements": "2023-11-09T06:04:26.0666448+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:58:40.1865288+00:00",
-  "LastUpdate_Achievements": "2023-11-09T05:04:41.2174326+00:00"
+  "LastUpdate_Ratings": "2023-11-09T05:58:37.4792706+00:00",
+  "LastUpdate_Achievements": "2023-11-09T06:04:26.0668901+00:00"
 }

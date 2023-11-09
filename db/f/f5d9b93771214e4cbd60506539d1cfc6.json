@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151945,
+  "EOS_Progressed": 151946,
   "EOS_Completed": 326,
-  "EOS_NewPlayers": 1023,
+  "EOS_NewPlayers": 1020,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -17448,6 +17448,11 @@
       "Time": "2023-11-09T05:08:17.9746998+00:00",
       "NumProgressed": 151945,
       "NumCompleted": 326
+    },
+    {
+      "Time": "2023-11-09T06:06:11.5832821+00:00",
+      "NumProgressed": 151946,
+      "NumCompleted": 326
     }
   ],
   "TotalAchievements": 31,
@@ -17483,7 +17488,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 31908
+      "UsersEstimate": 31909
     },
     {
       "ID": "EAwards_12",
@@ -17515,7 +17520,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18233
+      "UsersEstimate": 18234
     },
     {
       "ID": "EAwards_16",
@@ -17699,14 +17704,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18233
+      "UsersEstimate": 18234
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 151945,
+      "Progressed": 151946,
       "Completed": 326
     }
   ],
@@ -17714,8 +17719,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-09T05:08:17.9746993+00:00",
+  "LastChanged_Achievements": "2023-11-09T06:06:11.5832816+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:58.8508803+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:57:25.0616903+00:00",
-  "LastUpdate_Achievements": "2023-11-09T05:08:17.9748265+00:00"
+  "LastUpdate_Ratings": "2023-11-09T05:57:25.1894677+00:00",
+  "LastUpdate_Achievements": "2023-11-09T06:06:11.5834107+00:00"
 }

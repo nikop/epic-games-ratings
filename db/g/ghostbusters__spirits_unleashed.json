@@ -3103,10 +3103,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2740,
       "NumberOfAwardsMax": 309
+    },
+    {
+      "Time": "2023-11-09T05:59:34.6371111+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2745,
+      "NumberOfAwardsMax": 309
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2740,
+  "NumberOfAwards": 2745,
   "NumberOfAwardsMax": 309,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3132,7 +3138,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 298
+      "Count": 302
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3162,7 +3168,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 272
+      "Count": 273
     },
     {
       "Text": "This game is Relaxing",
@@ -3183,9 +3189,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30576,
+  "EOS_Progressed": 30581,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 946,
+  "EOS_NewPlayers": 949,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -18508,6 +18514,11 @@
       "Time": "2023-11-09T05:03:36.274965+00:00",
       "NumProgressed": 30576,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-11-09T06:03:20.9740233+00:00",
+      "NumProgressed": 30581,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 51,
@@ -18525,9 +18536,9 @@
       "ID": "Animated",
       "SetID": "819popo",
       "Name": "Animated",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 612
+      "UsersEstimate": 917
     },
     {
       "ID": "Back_Off",
@@ -18823,7 +18834,7 @@
       "Name": "Stylish",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "Summoner",
@@ -18926,16 +18937,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30576,
+      "Progressed": 30581,
       "Completed": 66
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-09T01:44:19.6498733+00:00",
-  "LastChanged_Achievements": "2023-11-09T05:03:36.2749645+00:00",
+  "LastChanged": "2023-11-09T05:59:34.6371109+00:00",
+  "LastChanged_Achievements": "2023-11-09T06:03:20.9740229+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:59:30.5954564+00:00",
-  "LastUpdate_Achievements": "2023-11-09T05:03:36.2751022+00:00"
+  "LastUpdate_Ratings": "2023-11-09T05:59:34.6371114+00:00",
+  "LastUpdate_Achievements": "2023-11-09T06:03:20.97416+00:00"
 }

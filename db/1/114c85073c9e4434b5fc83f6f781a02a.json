@@ -2,9 +2,9 @@
   "ID": "114c85073c9e4434b5fc83f6f781a02a",
   "Name": "Supfly Delivery Simulator",
   "ProductSlug": "supfly-delivery-simulator-82d2fd",
-  "Ranking_EOS_Progress": 676,
+  "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-08T17:00:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2023-11-06T10:07:21.2241111+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T06:08:06.8892274+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -74,9 +79,9 @@
       "ID": "OOPS",
       "SetID": "7ae64fg",
       "Name": "Oops",
-      "Percentage": 400,
+      "Percentage": 250,
       "XP": 110,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SMALL_BUSINESS",
@@ -90,7 +95,7 @@
       "ID": "SPECIAL_DELIVERY",
       "SetID": "7ae64fg",
       "Name": "Special delivery",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 110,
       "UsersEstimate": 2
     },
@@ -106,7 +111,7 @@
       "ID": "TIME_TO_START",
       "SetID": "7ae64fg",
       "Name": "Time to start",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 110,
       "UsersEstimate": 2
     }
@@ -115,13 +120,13 @@
     {
       "ID": "7ae64fg",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-26T15:04:27.1843787+00:00",
-  "LastChanged_Achievements": "2023-11-09T05:08:44.0860985+00:00",
+  "LastChanged_Achievements": "2023-11-09T06:08:06.8892271+00:00",
   "LastUpdate_AppInfo": "2023-11-02T15:57:20.7656286+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:57:42.434534+00:00",
-  "LastUpdate_Achievements": "2023-11-09T05:08:44.086107+00:00"
+  "LastUpdate_Ratings": "2023-11-09T05:57:41.2157312+00:00",
+  "LastUpdate_Achievements": "2023-11-09T06:08:06.8892329+00:00"
 }

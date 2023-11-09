@@ -4,53 +4,53 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 92.00% | ~11 |
-| First to the post | 92.00% | ~11 |
-| Expansion | 83.00% | ~10 |
-| Home Sweet Home | 83.00% | ~10 |
-| A kind of Magic | 83.00% | ~10 |
-| Connected | 83.00% | ~10 |
-| Artificer's Apprentice | 75.00% | ~9 |
-| Harvest Time | 75.00% | ~9 |
-| Friend of Lyraine | 75.00% | ~9 |
-| Mine! | 75.00% | ~9 |
-| Fly the friendly Sky | 75.00% | ~9 |
-| Redecorating | 67.00% | ~8 |
-| Get out of here! | 67.00% | ~8 |
-| The Circle | 58.00% | ~7 |
-| Slave to the rhythm | 50.00% | ~6 |
-| Friend of Sevenkeeps | 50.00% | ~6 |
-| Alchemist's Apprentice | 42.00% | ~5 |
-| Necromancer's Apprentice | 42.00% | ~5 |
-| Friend of Gillyshire | 42.00% | ~5 |
-| Break Free | 42.00% | ~5 |
-| Castle Meldec | 33.00% | ~4 |
-| Sevenkeeps Seat of Kings | 33.00% | ~4 |
-| Defeat Gor | 25.00% | ~3 |
-| Defeat Hokan | 25.00% | ~3 |
-| Defeat Isgrimm | 25.00% | ~3 |
-| Elynn's Tale | 25.00% | ~3 |
-| Philo's Tale | 25.00% | ~3 |
-| Stormwatch Faste | 25.00% | ~3 |
-| Friend of Alluvyan | 25.00% | ~3 |
-| Friend of Orgash | 25.00% | ~3 |
-| Friend of Connach | 25.00% | ~3 |
-| Friend of Bastion | 25.00% | ~3 |
-| Friend of Windholme | 25.00% | ~3 |
-| A Joke | 25.00% | ~3 |
-| Bad JuJu | 25.00% | ~3 |
-| Defeat Ianna | 17.00% | ~2 |
-| Defeat Rohen | 17.00% | ~2 |
-| Defeat Undergast | 17.00% | ~2 |
-| Defeat Uram | 17.00% | ~2 |
-| Defeat Yria | 17.00% | ~2 |
-| Lore's Tale | 17.00% | ~2 |
-| Tuscari Sea Portal | 17.00% | ~2 |
-| Breaking the circle | 17.00% | ~2 |
-| A Master of Magic | 17.00% | ~2 |
-| Balanced | 17.00% | ~2 |
-| Friend of Silver Drift Hollow | 17.00% | ~2 |
-| Magic Academy | 17.00% | ~2 |
+| Enough rooms to swing a cat | 92.00% | ~12 |
+| First to the post | 92.00% | ~12 |
+| Expansion | 85.00% | ~11 |
+| Home Sweet Home | 85.00% | ~11 |
+| A kind of Magic | 85.00% | ~11 |
+| Connected | 85.00% | ~11 |
+| Harvest Time | 77.00% | ~10 |
+| Friend of Lyraine | 77.00% | ~10 |
+| Mine! | 77.00% | ~10 |
+| Fly the friendly Sky | 77.00% | ~10 |
+| Artificer's Apprentice | 69.00% | ~9 |
+| Redecorating | 62.00% | ~8 |
+| The Circle | 62.00% | ~8 |
+| Get out of here! | 62.00% | ~8 |
+| Alchemist's Apprentice | 46.00% | ~6 |
+| Slave to the rhythm | 46.00% | ~6 |
+| Friend of Sevenkeeps | 46.00% | ~6 |
+| Necromancer's Apprentice | 38.00% | ~5 |
+| Friend of Gillyshire | 38.00% | ~5 |
+| Break Free | 38.00% | ~5 |
+| Castle Meldec | 31.00% | ~4 |
+| Sevenkeeps Seat of Kings | 31.00% | ~4 |
+| Defeat Gor | 23.00% | ~3 |
+| Defeat Hokan | 23.00% | ~3 |
+| Defeat Isgrimm | 23.00% | ~3 |
+| Elynn's Tale | 23.00% | ~3 |
+| Philo's Tale | 23.00% | ~3 |
+| Stormwatch Faste | 23.00% | ~3 |
+| Friend of Alluvyan | 23.00% | ~3 |
+| Friend of Orgash | 23.00% | ~3 |
+| Friend of Connach | 23.00% | ~3 |
+| Friend of Bastion | 23.00% | ~3 |
+| Friend of Windholme | 23.00% | ~3 |
+| A Joke | 23.00% | ~3 |
+| Bad JuJu | 23.00% | ~3 |
+| Defeat Ianna | 15.00% | ~2 |
+| Defeat Rohen | 15.00% | ~2 |
+| Defeat Undergast | 15.00% | ~2 |
+| Defeat Uram | 15.00% | ~2 |
+| Defeat Yria | 15.00% | ~2 |
+| Lore's Tale | 15.00% | ~2 |
+| Tuscari Sea Portal | 15.00% | ~2 |
+| Breaking the circle | 15.00% | ~2 |
+| A Master of Magic | 15.00% | ~2 |
+| Balanced | 15.00% | ~2 |
+| Friend of Silver Drift Hollow | 15.00% | ~2 |
+| Magic Academy | 15.00% | ~2 |
 | Get to the Airship! | 8.00% | ~1 |
 | Defeat Raith | 8.00% | ~1 |
 | Lytra's Tale | 8.00% | ~1 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12 (Ranked 569)  
+Progressed: 13 (Ranked 562)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,6 +88,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-01 | 10 | 0 |
 | 2023-11-04 | 11 | 0 |
 | 2023-11-07 | 12 | 0 |
+| 2023-11-09 | 13 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,40 +6,40 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 37.00% | ~240,244 |
-| First Shot | 35.00% | ~227,257 |
-| Into the Unknown | 34.00% | ~220,764 |
-| Herzlich Wilkommen! | 33.00% | ~214,271 |
-| Good Night & Good Luck | 32.00% | ~207,778 |
-| Sancho Panza | 31.00% | ~201,285 |
-| Oh, So This Is How It Works! | 28.00% | ~181,806 |
-| Flag Burning | 26.00% | ~168,820 |
-| Under Pressure | 24.00% | ~155,834 |
-| On the Trail of the Enemy | 24.00% | ~155,834 |
-| Light in the Darkness | 24.00% | ~155,834 |
-| It Wasn't That Hard, Was It? | 24.00% | ~155,834 |
-| Can't Touch This! | 24.00% | ~155,834 |
-| Get Outta My House! | 23.00% | ~149,341 |
+| You Never Forget Your First... | 37.00% | ~240,245 |
+| First Shot | 35.00% | ~227,259 |
+| Into the Unknown | 34.00% | ~220,766 |
+| Herzlich Wilkommen! | 33.00% | ~214,273 |
+| Good Night & Good Luck | 32.00% | ~207,780 |
+| Sancho Panza | 31.00% | ~201,286 |
+| Oh, So This Is How It Works! | 28.00% | ~181,807 |
+| Flag Burning | 26.00% | ~168,821 |
+| Under Pressure | 24.00% | ~155,835 |
+| On the Trail of the Enemy | 24.00% | ~155,835 |
+| Light in the Darkness | 24.00% | ~155,835 |
+| It Wasn't That Hard, Was It? | 24.00% | ~155,835 |
+| Can't Touch This! | 24.00% | ~155,835 |
+| Get Outta My House! | 23.00% | ~149,342 |
 | Night Hunter | 22.00% | ~142,848 |
-| Being All Social | 21.00% | ~136,354 |
-| After the Fall | 19.00% | ~123,368 |
-| We Will Be Heard! | 18.00% | ~116,875 |
-| Tunnel Entrance | 17.00% | ~110,382 |
-| Known Associate | 16.00% | ~103,889 |
-| Brush with Death | 16.00% | ~103,889 |
-| Debris and Ashes | 15.00% | ~97,396 |
-| Going Down | 15.00% | ~97,396 |
-| Family First | 15.00% | ~97,396 |
-| Your World, Your Rules | 14.00% | ~90,903 |
-| Death From Afar | 14.00% | ~90,903 |
-| Terminal Headache | 14.00% | ~90,903 |
+| Being All Social | 21.00% | ~136,355 |
+| After the Fall | 19.00% | ~123,369 |
+| We Will Be Heard! | 18.00% | ~116,876 |
+| Tunnel Entrance | 17.00% | ~110,383 |
+| Known Associate | 16.00% | ~103,890 |
+| Brush with Death | 16.00% | ~103,890 |
+| Debris and Ashes | 15.00% | ~97,397 |
+| Going Down | 15.00% | ~97,397 |
+| Family First | 15.00% | ~97,397 |
+| Your World, Your Rules | 14.00% | ~90,904 |
+| Death From Afar | 14.00% | ~90,904 |
+| Terminal Headache | 14.00% | ~90,904 |
 | Slowpoke! | 12.00% | ~77,917 |
-| Tickets, Please! | 7.00% | ~45,451 |
-| Parkour Master | 6.00% | ~38,958 |
-| Combat Master | 6.00% | ~38,958 |
-| Municipal Services | 5.00% | ~32,465 |
-| Ban Hammer | 5.00% | ~32,465 |
-| Modder | 5.00% | ~32,465 |
+| Tickets, Please! | 7.00% | ~45,452 |
+| Parkour Master | 6.00% | ~38,959 |
+| Combat Master | 6.00% | ~38,959 |
+| Municipal Services | 5.00% | ~32,466 |
+| Ban Hammer | 5.00% | ~32,466 |
+| Modder | 5.00% | ~32,466 |
 | Tube Map | 4.00% | ~25,972 |
 | Don Quixote | 4.00% | ~25,972 |
 | Can't You Read the Signs? | 4.00% | ~25,972 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~295 |
 | Connoisseur | 0.10% | ~295 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649,307 (Ranked 28)  
+Progressed: 649,311 (Ranked 28)  
 Completed: 67 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,10 +275,10 @@ Completed: 67 (0.01%) (Ranked 321)
 | 2023-11-06 | 648,363 | 67 |
 | 2023-11-07 | 648,824 | 67 |
 | 2023-11-08 | 649,246 | 67 |
-| 2023-11-09 | 649,307 | 67 |
+| 2023-11-09 | 649,311 | 67 |
 ## Awards
 Max (Character Customization): 9,935  (Ranked 40)  
-Sum: 24,885 (Ranked 54)  
+Sum: 24,888 (Ranked 54)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -286,7 +286,7 @@ Diff (max vs sum): -14
 | This game has Great Boss Battles | 6,050 |
 | This game is Great for Beginners | 1,162 |
 | This game has Diverse Characters | 1,065 |
-| This game is Highly Recommended | 1,040 |
+| This game is Highly Recommended | 1,043 |
 | This game has Amazing Characters | 1,014 |
 | This game has Amazing Storytelling | 986 |
 | This game is Extremely Fun | 956 |
@@ -598,3 +598,4 @@ Diff (max vs sum): -14
 | 2023-11-06 | 4.58 | - | 9,884 | 24,693 |
 | 2023-11-07 | 4.58 | - | 9,905 | 24,784 |
 | 2023-11-08 | 4.58 | - | 9,935 | 24,885 |
+| 2023-11-09 | 4.58 | - | 9,935 | 24,888 |

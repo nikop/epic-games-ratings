@@ -1447,9 +1447,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13624,
+  "EOS_Progressed": 13625,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -14262,6 +14262,11 @@
       "Time": "2023-11-09T05:09:02.3095707+00:00",
       "NumProgressed": 13624,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-09T06:08:25.5149824+00:00",
+      "NumProgressed": 13625,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 35,
@@ -14273,7 +14278,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11035
+      "UsersEstimate": 11036
     },
     {
       "ID": "ACH02",
@@ -14329,7 +14334,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6948
+      "UsersEstimate": 6949
     },
     {
       "ID": "ACH09",
@@ -14409,7 +14414,7 @@
       "Name": "Saviour",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH19",
@@ -14552,7 +14557,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13624,
+      "Progressed": 13625,
       "Completed": 52
     }
   ],
@@ -14560,8 +14565,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-08T16:59:45.9318547+00:00",
-  "LastChanged_Achievements": "2023-11-09T05:09:02.30957+00:00",
+  "LastChanged_Achievements": "2023-11-09T06:08:25.514982+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:17.5596135+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:59:10.1730789+00:00",
-  "LastUpdate_Achievements": "2023-11-09T05:09:02.3096749+00:00"
+  "LastUpdate_Ratings": "2023-11-09T05:59:13.2421787+00:00",
+  "LastUpdate_Achievements": "2023-11-09T06:08:25.5150862+00:00"
 }

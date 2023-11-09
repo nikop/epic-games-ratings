@@ -4,7 +4,7 @@
   "ProductSlug": "anotherearth-ee1a1d",
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-13T03:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-02T07:57:04.3863532+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:59:30.7768327+00:00",
-  "LastUpdate_Achievements": "2023-11-09T05:05:22.9140871+00:00"
+  "LastUpdate_Ratings": "2023-11-09T05:59:34.827567+00:00",
+  "LastUpdate_Achievements": "2023-11-09T06:05:07.8757734+00:00"
 }

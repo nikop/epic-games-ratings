@@ -2,9 +2,9 @@
   "ID": "c5fe11872c2c407baee53f1a1a9131ed",
   "Name": "SPINGUN",
   "ProductSlug": "spingun-843f78",
-  "Ranking_EOS_Progress": 385,
+  "Ranking_EOS_Progress": 384,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151,
+  "EOS_Progressed": 153,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -709,6 +709,11 @@
       "Time": "2023-11-08T00:05:15.5970765+00:00",
       "NumProgressed": 151,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T06:05:30.0226302+00:00",
+      "NumProgressed": 153,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -774,9 +779,9 @@
       "ID": "ach_customized",
       "SetID": "5a4225j",
       "Name": "Customize Ship",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_endless_120",
@@ -790,7 +795,7 @@
       "ID": "ach_endless_30",
       "SetID": "5a4225j",
       "Name": "Endless 30 Seconds",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 35,
       "UsersEstimate": 103
     },
@@ -927,14 +932,14 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 151,
+      "Progressed": 153,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-11-09T05:05:45.2085942+00:00",
+  "LastChanged_Achievements": "2023-11-09T06:05:30.0226298+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.2742753+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:57:27.5270649+00:00",
-  "LastUpdate_Achievements": "2023-11-09T05:05:45.2086205+00:00"
+  "LastUpdate_Ratings": "2023-11-09T05:57:29.2072864+00:00",
+  "LastUpdate_Achievements": "2023-11-09T06:05:30.0226517+00:00"
 }

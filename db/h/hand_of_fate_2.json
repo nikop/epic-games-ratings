@@ -919,9 +919,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664382,
+  "EOS_Progressed": 664383,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 326,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20154,6 +20154,11 @@
       "Time": "2023-11-09T04:06:20.7735904+00:00",
       "NumProgressed": 664382,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-09T06:04:57.5071796+00:00",
+      "NumProgressed": 664383,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -20165,7 +20170,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478355
+      "UsersEstimate": 478356
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -20309,7 +20314,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93013
+      "UsersEstimate": 93014
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -20548,15 +20553,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664382,
+      "Progressed": 664383,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-31T06:59:31.6976797+00:00",
-  "LastChanged_Achievements": "2023-11-09T05:05:12.5329157+00:00",
+  "LastChanged_Achievements": "2023-11-09T06:04:57.5071789+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.6002518+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:58:18.4609594+00:00",
-  "LastUpdate_Achievements": "2023-11-09T05:05:12.533072+00:00"
+  "LastUpdate_Ratings": "2023-11-09T05:58:15.4506416+00:00",
+  "LastUpdate_Achievements": "2023-11-09T06:04:57.5073335+00:00"
 }

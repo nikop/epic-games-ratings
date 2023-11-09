@@ -19,7 +19,7 @@ Number of Ratings: 1,023  (23.09.2022)
 | Estate Agent | 5.00% | ~1,063 |
 | Millionaire | 5.00% | ~1,063 |
 | Perfectionist | 5.00% | ~1,063 |
-| I'm Belieber | 2.00% | ~425 |
+| I'm Belieber | 3.00% | ~638 |
 | Knock, knock | 1.00% | ~213 |
 | You do it wrong | 1.00% | ~213 |
 | Wall Street Shark | 0.90% | ~191 |
