@@ -8,7 +8,7 @@ Rating: 4.76 (Ranked 124)
 | The Sort Who Makes an Entrance | 16.00% | ~48,279 |
 | First Class Student | 14.00% | ~42,244 |
 | Troll with the Punches | 14.00% | ~42,244 |
-| A Keen Sense of Spell | 13.00% | ~39,226 |
+| A Keen Sense of Spell | 13.00% | ~39,227 |
 | A Talent for Spending | 12.00% | ~36,209 |
 | That's a Keeper | 12.00% | ~36,209 |
 | Grappling with a Graphorn | 11.00% | ~33,192 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 124)
 | Beast Friends | 8.00% | ~24,139 |
 | A Sallow Grave | 8.00% | ~24,139 |
 | Flight the Good Flight | 8.00% | ~24,139 |
-| The Seeker of Knowledge | 6.00% | ~18,104 |
-| The Root of the Problem | 6.00% | ~18,104 |
-| Third Time's a Charm | 6.00% | ~18,104 |
-| Raising Expectations | 6.00% | ~18,104 |
+| The Seeker of Knowledge | 6.00% | ~18,105 |
+| The Root of the Problem | 6.00% | ~18,105 |
+| Third Time's a Charm | 6.00% | ~18,105 |
+| Raising Expectations | 6.00% | ~18,105 |
 | The Toast of the Town | 5.00% | ~15,087 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,087 |
 | The Ends Petrify the Means | 5.00% | ~15,087 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 124)
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,741 (Ranked 50)  
+Progressed: 301,743 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 505 (0.17%) (Ranked 251)
 | 2023-11-06 | 301,400 | 502 |
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
-| 2023-11-09 | 301,741 | 505 |
+| 2023-11-09 | 301,743 | 505 |
 ## Awards
 Max (Character Customization): 24,144  (Ranked 17)  
 Sum: 47,742 (Ranked 30)  

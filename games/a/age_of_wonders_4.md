@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 385)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 0.70% | ~37 |
+| But this one is mine | 0.80% | ~42 |
 | Secret Technique | 0.30% | ~16 |
 | Realm Estate | 0.20% | ~11 |
 | A Wonderful Discovery | 0.20% | ~11 |
@@ -16,6 +16,7 @@ Rating: 4.61 (Ranked 385)
 | There Can Only Be One! | 0.10% | ~5 |
 | Full Ascension | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
+| God Emperor | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | Arch Mage | 0.10% | ~5 |
 | The Creator | 0.10% | ~5 |
@@ -58,7 +59,6 @@ Rating: 4.61 (Ranked 385)
 | Snap Out of It! | 0.00% | ~0 |
 | I've Got Everything I Need Right Here | 0.00% | ~0 |
 | The Magic That Empowers Me! | 0.00% | ~0 |
-| God Emperor | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |

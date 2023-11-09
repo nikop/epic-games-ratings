@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 33,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
     "PcReleaseDate": "2016-05-17T16:00:00+00:00",
@@ -2766,10 +2766,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 537690,
+  "EOS_Progressed": 537692,
   "EOS_Completed": 1609,
-  "EOS_NewPlayers": 667,
-  "EOS_NewCompleters": 5,
+  "EOS_NewPlayers": 665,
+  "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -25076,6 +25076,11 @@
       "Time": "2023-11-09T13:12:47.6367195+00:00",
       "NumProgressed": 537690,
       "NumCompleted": 1609
+    },
+    {
+      "Time": "2023-11-09T14:08:04.8258283+00:00",
+      "NumProgressed": 537692,
+      "NumCompleted": 1609
     }
   ],
   "TotalAchievements": 37,
@@ -25103,7 +25108,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 166684
+      "UsersEstimate": 166685
     },
     {
       "ID": "DEVOTED",
@@ -25143,7 +25148,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 446283
+      "UsersEstimate": 446284
     },
     {
       "ID": "HONED",
@@ -25183,7 +25188,7 @@
       "Name": "Storied",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32261
+      "UsersEstimate": 32262
     },
     {
       "ID": "THE_ALKYMANCERY",
@@ -25191,7 +25196,7 @@
       "Name": "The Alkymancery",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26884
+      "UsersEstimate": 26885
     },
     {
       "ID": "THE_BANQUET",
@@ -25199,7 +25204,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 215076
+      "UsersEstimate": 215077
     },
     {
       "ID": "THE_CASTLE",
@@ -25223,7 +25228,7 @@
       "Name": "The Construct",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32261
+      "UsersEstimate": 32262
     },
     {
       "ID": "THE_CRYPT",
@@ -25263,7 +25268,7 @@
       "Name": "The Iron Ones",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 96784
+      "UsersEstimate": 96785
     },
     {
       "ID": "THE_KEEP",
@@ -25279,7 +25284,7 @@
       "Name": "The Lake",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32261
+      "UsersEstimate": 32262
     },
     {
       "ID": "THE_MIRE",
@@ -25303,7 +25308,7 @@
       "Name": "The Pitchwoods",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 26884
+      "UsersEstimate": 26885
     },
     {
       "ID": "THE_RED_HALL",
@@ -25319,7 +25324,7 @@
       "Name": "The Ruins",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 32261
+      "UsersEstimate": 32262
     },
     {
       "ID": "THE_SACRIFICE",
@@ -25343,7 +25348,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344122
+      "UsersEstimate": 344123
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -25359,7 +25364,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91407
+      "UsersEstimate": 91408
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -25382,15 +25387,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 537690,
+      "Progressed": 537692,
       "Completed": 1609
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-09T04:00:16.5826272+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:12:47.636719+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:08:04.8258277+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:16.77314+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:03:54.787153+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:12:47.6369243+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:59:28.5706597+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:08:04.8260097+00:00"
 }

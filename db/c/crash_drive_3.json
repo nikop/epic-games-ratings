@@ -3,8 +3,8 @@
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 313,
-  "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_Completed": 195,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 404,
+  "EOS_Progressed": 405,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.5,
+  "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:19.8064239+00:00",
@@ -584,6 +584,11 @@
       "Time": "2023-11-06T04:08:25.0173549+00:00",
       "NumProgressed": 404,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-09T14:04:00.6188806+00:00",
+      "NumProgressed": 405,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -595,7 +600,7 @@
       "Name": "Brace for impact!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -633,9 +638,9 @@
       "ID": "COLLECT_1_CAR",
       "SetID": "20koof9",
       "Name": "Baby\u0027s First Car",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "COLLECT_20_CARS",
@@ -667,7 +672,7 @@
       "Name": "Special Forces",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "CUSTOMIZATION_BANANA",
@@ -787,15 +792,15 @@
       "Name": "Earth Defense Force",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "HIT_BIG_SNOWMAN",
       "SetID": "20koof9",
       "Name": "Take that Frosty!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 81
     },
     {
       "ID": "HIT_EXPLOSIVE_BARREL",
@@ -819,7 +824,7 @@
       "Name": "Toot Toot!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "JOIN_A_FRIEND",
@@ -849,17 +854,17 @@
       "ID": "LOADED_LVL_DESERT",
       "SetID": "20koof9",
       "Name": "The Wild West",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "LOADED_LVL_FOREST",
       "SetID": "20koof9",
       "Name": "A Forest Walk",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 117
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -947,7 +952,7 @@
       "Name": "Rocketman",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "USE_TUNNEL",
@@ -1027,14 +1032,14 @@
       "Name": "Blasting away!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 404,
+      "Progressed": 405,
       "Completed": 2
     }
   ],
@@ -1042,8 +1047,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:08:34.7206175+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:04:00.61888+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:06.6861694+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:03:40.1940006+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:08:34.7206757+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:59:15.0107715+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:04:00.6189341+00:00"
 }

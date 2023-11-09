@@ -8,10 +8,10 @@
 | On the Crest of a Wave | 96.00% | ~169 |
 | Foreman of Darkness | 96.00% | ~169 |
 | Brilliant Day | 94.00% | ~165 |
-| Evil Genius | 88.00% | ~155 |
+| Evil Genius | 89.00% | ~157 |
 | Air Defense | 85.00% | ~150 |
 | Tinned Corpse | 84.00% | ~148 |
-| Your War is Over | 82.00% | ~144 |
+| Your War is Over | 83.00% | ~146 |
 | The Starry Night | 77.00% | ~136 |
 | Go Home! | 76.00% | ~134 |
 | Brilliant: Meadowshire | 74.00% | ~130 |
@@ -29,7 +29,7 @@
 | Brilliant: Holy Mountain | 63.00% | ~111 |
 | Combo Breaker | 63.00% | ~111 |
 | Tastes Like Chicken | 63.00% | ~111 |
-| Thunderstorm | 62.00% | ~109 |
+| Thunderstorm | 63.00% | ~111 |
 | Clean Forests | 61.00% | ~107 |
 | Starry: Meadowshire | 57.00% | ~100 |
 | Lieutenant of the Evil | 56.00% | ~99 |

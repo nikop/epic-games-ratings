@@ -36,8 +36,8 @@ Rating: 3.28 (Ranked 1,037)
 | General | 2.00% | ~36 |
 | Seek & Destroy | 2.00% | ~36 |
 | Battle Ready | 2.00% | ~36 |
+| Titan Tanks | 2.00% | ~36 |
 | Advanced Interceptors | 1.00% | ~18 |
-| Titan Tanks | 1.00% | ~18 |
 | Shock Troops | 1.00% | ~18 |
 | Jet Troops | 0.80% | ~14 |
 | Gold Competitor | 0.10% | ~2 |

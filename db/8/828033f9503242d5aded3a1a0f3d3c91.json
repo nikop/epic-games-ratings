@@ -2,9 +2,9 @@
   "ID": "828033f9503242d5aded3a1a0f3d3c91",
   "Name": "Joyville",
   "ProductSlug": "joyville-67f9bf",
-  "Ranking_EOS_Progress": 734,
+  "Ranking_EOS_Progress": 735,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-29T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-07T02:18:05.0666319+00:00",
   "LastUpdate_AppInfo": "2023-11-02T22:56:57.131939+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:04:30.9352032+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:09:04.4343619+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:00:06.2722609+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:04:30.6797588+00:00"
 }

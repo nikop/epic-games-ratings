@@ -4023,9 +4023,9 @@
       "Count": 285
     }
   ],
-  "EOS_Progressed": 219055,
+  "EOS_Progressed": 219062,
   "EOS_Completed": 435,
-  "EOS_NewPlayers": 2200,
+  "EOS_NewPlayers": 2188,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17228,6 +17228,11 @@
       "Time": "2023-11-09T13:11:15.9204472+00:00",
       "NumProgressed": 219055,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-11-09T14:06:13.5943629+00:00",
+      "NumProgressed": 219062,
+      "NumCompleted": 435
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17288,7 +17293,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13143
+      "UsersEstimate": 13144
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -17320,7 +17325,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17524
+      "UsersEstimate": 17525
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -17392,7 +17397,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13143
+      "UsersEstimate": 13144
     },
     {
       "ID": "Meet_Meidra",
@@ -17424,7 +17429,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19715
+      "UsersEstimate": 19716
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -17432,7 +17437,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13143
+      "UsersEstimate": 13144
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -17472,7 +17477,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13143
+      "UsersEstimate": 13144
     },
     {
       "ID": "Obtain_Guns_A",
@@ -17616,7 +17621,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13143
+      "UsersEstimate": 13144
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -17639,7 +17644,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 219055,
+      "Progressed": 219062,
       "Completed": 435
     }
   ],
@@ -17647,8 +17652,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-09T04:03:32.9607739+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:11:15.9204465+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:06:13.5943623+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:07:27.4662253+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:11:15.920666+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:02:50.5696556+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:06:13.5944966+00:00"
 }

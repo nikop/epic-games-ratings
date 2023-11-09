@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 94.00% | ~995 |
-| Spectre Inductee | 79.00% | ~836 |
+| Spectre Inductee | 80.00% | ~846 |
 | Medal of Exploration I | 71.00% | ~751 |
 | Recruit | 68.00% | ~719 |
 | Search and Rescue | 67.00% | ~709 |
@@ -35,9 +35,9 @@
 | Operative | 40.00% | ~423 |
 | Scholar | 40.00% | ~423 |
 | Veteran | 39.00% | ~413 |
+| The Archangel | 38.00% | ~402 |
 | The Professor | 38.00% | ~402 |
 | Power Full | 38.00% | ~402 |
-| The Archangel | 37.00% | ~391 |
 | The Convict | 36.00% | ~381 |
 | Colony Defense | 35.00% | ~370 |
 | The Krogan | 35.00% | ~370 |

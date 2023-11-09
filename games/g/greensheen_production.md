@@ -37,10 +37,10 @@
 | Post Industrial | 71.00% | ~10 |
 | No More Remains | 64.00% | ~9 |
 | School Kids | 64.00% | ~9 |
-| Primetime Content Consumer | 36.00% | ~5 |
+| Primetime Content Consumer | 50.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 14 (Ranked 557)  
-Completed: 5 (35.71%) (Ranked 9)  
+Completed: 7 (50.00%) (Ranked 3)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -57,3 +57,4 @@ Completed: 5 (35.71%) (Ranked 9)
 | 2023-11-06 | 14 | 2 |
 | 2023-11-07 | 14 | 4 |
 | 2023-11-08 | 14 | 5 |
+| 2023-11-09 | 14 | 7 |

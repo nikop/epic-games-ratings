@@ -2,9 +2,9 @@
   "ID": "824dd71739cf45fba9d997979856c5a9",
   "Name": "The Ecdysis",
   "ProductSlug": "the-ecdysis-9c880c",
-  "Ranking_EOS_Progress": 734,
+  "Ranking_EOS_Progress": 735,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-30T11:30:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-05T18:57:05.3569901+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:07:30.1965469+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:10:11.4483737+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:02:53.2119791+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:05:38.2535639+00:00"
 }

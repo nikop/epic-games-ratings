@@ -2,7 +2,7 @@
   "ID": "a25444fc25e9498781983b58ceba30c5",
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 132,
@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19484,
+  "EOS_Progressed": 19485,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 1,
@@ -16488,6 +16488,11 @@
       "Time": "2023-11-09T13:10:03.3528541+00:00",
       "NumProgressed": 19484,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-09T14:05:30.0543354+00:00",
+      "NumProgressed": 19485,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -16539,7 +16544,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -16577,9 +16582,9 @@
       "ID": "ACH_LOOK_AT_ME_NOW",
       "SetID": "1blkama",
       "Name": "Look at Me Now",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 5261
+      "UsersEstimate": 5456
     },
     {
       "ID": "ACH_THE_FALL",
@@ -16610,15 +16615,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19484,
+      "Progressed": 19485,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:10:03.3528533+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:05:30.0543348+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:02.0209795+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:01:33.8758281+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:10:03.3530135+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:57:06.2470766+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:05:30.0544646+00:00"
 }

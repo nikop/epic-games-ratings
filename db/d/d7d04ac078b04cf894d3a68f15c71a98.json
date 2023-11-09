@@ -2,9 +2,9 @@
   "ID": "d7d04ac078b04cf894d3a68f15c71a98",
   "Name": "Unleaving",
   "ProductSlug": "unleaving-9d452e",
-  "Ranking_EOS_Progress": 734,
+  "Ranking_EOS_Progress": 735,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-06T14:56:51.9098505+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:06:58.7724108+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:11:15.4981898+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:00:51.0475048+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:06:13.1573953+00:00"
 }

@@ -6309,10 +6309,10 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 715407,
-  "EOS_Completed": 2363,
-  "EOS_NewPlayers": 4701,
-  "EOS_NewCompleters": 62,
+  "EOS_Progressed": 715434,
+  "EOS_Completed": 2364,
+  "EOS_NewPlayers": 4708,
+  "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29474,6 +29474,11 @@
       "Time": "2023-11-09T13:11:07.6041008+00:00",
       "NumProgressed": 715407,
       "NumCompleted": 2363
+    },
+    {
+      "Time": "2023-11-09T14:06:04.6867238+00:00",
+      "NumProgressed": 715434,
+      "NumCompleted": 2364
     }
   ],
   "TotalAchievements": 51,
@@ -29763,9 +29768,9 @@
       "ID": "ach_star_performance",
       "SetID": "7km39fm",
       "Name": "Personal Assistant Personally Assisted",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2862
+      "UsersEstimate": 3577
     },
     {
       "ID": "ach_survival_expert",
@@ -29821,7 +29826,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     },
     {
       "ID": "ach_well_known_survivor",
@@ -29845,7 +29850,7 @@
       "Name": "One of Us",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ach_dark_magic",
@@ -29853,7 +29858,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 819
+      "UsersEstimate": 820
     },
     {
       "ID": "ach_gardening_tools",
@@ -29869,7 +29874,7 @@
       "Name": "Pork Chopped",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29892,13 +29897,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715407,
-      "Completed": 2363
+      "Progressed": 715434,
+      "Completed": 2364
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40949,
+      "Progressed": 40976,
       "Completed": 36503
     }
   ],
@@ -29906,8 +29911,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-09T08:59:09.4815374+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:11:07.6041002+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:06:04.6867231+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:03:09.4784884+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:11:07.6043279+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:58:42.894668+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:06:04.686924+00:00"
 }

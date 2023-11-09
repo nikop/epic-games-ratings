@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,917 |
+| V for Vendetta | 2.00% | ~17,918 |
 | Gun Fu | 1.00% | ~8,959 |
 | Relic Ruler | 0.70% | ~171 |
 | Full Body Conversion | 0.50% | ~4,479 |
 | True Soldier | 0.50% | ~4,479 |
-| Right Back At Ya | 0.40% | ~3,583 |
-| Stanislavski's Method | 0.40% | ~3,583 |
+| Right Back At Ya | 0.40% | ~3,584 |
+| Stanislavski's Method | 0.40% | ~3,584 |
 | All the President's Men | 0.40% | ~98 |
 | Arachnophobia | 0.40% | ~98 |
 | Bushido and Chill | 0.30% | ~2,688 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,873 (Ranked 15)  
+Progressed: 895,876 (Ranked 15)  
 Completed: 2,759 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,10 +277,10 @@ Completed: 2,759 (0.31%) (Ranked 222)
 | 2023-11-06 | 895,578 | 2,750 |
 | 2023-11-07 | 895,712 | 2,753 |
 | 2023-11-08 | 895,820 | 2,757 |
-| 2023-11-09 | 895,873 | 2,759 |
+| 2023-11-09 | 895,876 | 2,759 |
 ## Awards
 Max (Character Customization): 104,529  (Ranked 9)  
-Sum: 347,171 (Ranked 10)  
+Sum: 347,253 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -290,7 +290,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 20,289 |
 | This game is Highly Recommended | 19,496 |
 | This game has Amazing Storytelling | 19,373 |
-| This game is Extremely Fun | 19,138 |
+| This game is Extremely Fun | 19,220 |
 | This game has Amazing Characters | 19,004 |
 | This game is Relaxing | 18,311 |
 | This game has Quickly Understood Controls | 18,215 |
@@ -592,4 +592,4 @@ Diff (max vs sum): -1
 | 2023-11-06 | 4.64 | - | 104,229 | 344,688 |
 | 2023-11-07 | 4.64 | - | 104,395 | 345,617 |
 | 2023-11-08 | 4.64 | - | 104,529 | 346,547 |
-| 2023-11-09 | 4.64 | - | 104,529 | 347,171 |
+| 2023-11-09 | 4.64 | - | 104,529 | 347,253 |

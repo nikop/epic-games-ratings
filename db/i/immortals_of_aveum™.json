@@ -6,7 +6,7 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 361,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -121,11 +121,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.46,
+  "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
     {
       "Time": "2023-09-21T22:04:20.3441483+00:00",
@@ -1046,6 +1046,11 @@
       "Time": "2023-11-09T13:10:12.717525+00:00",
       "NumProgressed": 219,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T14:05:39.5712773+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1058,7 +1063,7 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "achievement_10",
@@ -1072,9 +1077,9 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_12",
@@ -1082,7 +1087,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_13",
@@ -1146,7 +1151,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "achievement_20",
@@ -1202,7 +1207,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "achievement_36",
@@ -1234,7 +1239,7 @@
       "Name": "No More Names",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_41",
@@ -1290,7 +1295,7 @@
       "Name": "Enlisted",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_49",
@@ -1298,7 +1303,7 @@
       "Name": "Soldier",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_5",
@@ -1354,7 +1359,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_60",
@@ -1410,15 +1415,15 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_9",
@@ -1433,7 +1438,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 1
     }
   ],
@@ -1441,8 +1446,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:10:12.7175245+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:05:39.5712766+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:02:28.7094227+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:10:12.7175783+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:58:03.9610076+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:05:39.5713267+00:00"
 }

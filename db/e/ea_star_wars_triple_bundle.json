@@ -1,9 +1,9 @@
 {
   "ID": "d52ebad606f44f6486d9a10f6303a930",
   "Name": "EA Star Wars Triple Bundle",
-  "Ranking_EOS_Progress": 734,
+  "Ranking_EOS_Progress": 735,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": null,
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-31T02:03:39.8751678+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:07:47.5789125+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:03:11.9848711+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:32:49.6681251+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:04:30.6973143+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:07:47.5789169+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:00:06.0008025+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:03:11.9848745+00:00"
 }

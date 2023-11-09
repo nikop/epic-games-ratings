@@ -2,9 +2,9 @@
   "ID": "c6d8ffe7390d4a8ab74d373d67f0762a",
   "Name": "Ash of Gods: The Way",
   "ProductSlug": "ash-of-gods-the-way-58bd36",
-  "Ranking_EOS_Progress": 504,
+  "Ranking_EOS_Progress": 505,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T11:00:00+00:00",
@@ -568,9 +568,9 @@
       "ID": "story7",
       "SetID": "c64if4d",
       "Name": "A hidden snake",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "story8",
@@ -601,8 +601,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:12:23.8438745+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:06:20.8238218+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.6760768+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:02:18.0730737+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:12:23.8439498+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:57:54.4487944+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:06:20.8238659+00:00"
 }

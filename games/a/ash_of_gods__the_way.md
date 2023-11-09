@@ -11,7 +11,7 @@
 | Under cover | 28.00% | ~9 |
 | All for one! | 22.00% | ~7 |
 | Royal blessing | 22.00% | ~7 |
-| A hidden snake | 19.00% | ~6 |
+| A hidden snake | 22.00% | ~7 |
 | Blood and sand | 19.00% | ~6 |
 | Power of Inquisition | 16.00% | ~5 |
 | Vene, vidi, vici | 16.00% | ~5 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 504)  
+Progressed: 32 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

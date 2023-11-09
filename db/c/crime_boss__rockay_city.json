@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4509,9 +4509,9 @@
       "Count": 486
     }
   ],
-  "EOS_Progressed": 89912,
+  "EOS_Progressed": 89925,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 432,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24544,6 +24544,11 @@
       "Time": "2023-11-09T13:08:13.852911+00:00",
       "NumProgressed": 89912,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-09T14:03:39.3855204+00:00",
+      "NumProgressed": 89925,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24587,7 +24592,7 @@
       "Name": "Track Star",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_0015",
@@ -24667,7 +24672,7 @@
       "Name": "Headhunter",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ACH_0101",
@@ -24882,13 +24887,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89912,
+      "Progressed": 89925,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18259,
+      "Progressed": 18272,
       "Completed": 15562
     }
   ],
@@ -24896,8 +24901,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-09T04:59:36.1360072+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:08:13.8529103+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:03:39.38552+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:04:23.6754291+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:08:13.8531991+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:00:00.3410387+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:03:39.3856915+00:00"
 }

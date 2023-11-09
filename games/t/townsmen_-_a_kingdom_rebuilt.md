@@ -1,7 +1,7 @@
 # Townsmen - A Kingdom Rebuilt
 [Store](https://store.epicgames.com/en-US/p/townsmen-a-kingdom-rebuilt-07c09d)  
 [View Rawdata](../../db/t/townsmen_-_a_kingdom_rebuilt.json)  
-Rating: 4.23 (Ranked 889)  
+Rating: 4.23 (Ranked 888)  
 Number of Ratings: 37  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -73,10 +73,10 @@ Number of Ratings: 37  (23.09.2022)
 | Tax-man V | 1.00% | ~43 |
 | A time consuming game V | 1.00% | ~43 |
 | I've been everywhere VI | 0.90% | ~39 |
+| The wood shortage | 0.90% | ~39 |
 | Last man standing | 0.80% | ~35 |
 | Builder V | 0.80% | ~35 |
 | Ten-Hut! | 0.80% | ~35 |
-| The wood shortage | 0.80% | ~35 |
 | Buried | 0.70% | ~30 |
 | Craftsmen challenge | 0.70% | ~30 |
 | Penny pincher | 0.70% | ~30 |

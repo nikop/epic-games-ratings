@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~997 |
-| Off to a good start | 67.00% | ~750 |
-| Do... or do not. There is no try | 51.00% | ~571 |
-| A good blaster at your side | 32.00% | ~358 |
+| New Recruit | 89.00% | ~998 |
+| Off to a good start | 67.00% | ~751 |
+| Do... or do not. There is no try | 51.00% | ~572 |
+| A good blaster at your side | 32.00% | ~359 |
 | I suggest a new strategy | 20.00% | ~224 |
 | Scrap collector | 19.00% | ~213 |
-| Great shot, kid! | 18.00% | ~202 |
-| All right, I'll give it a try | 17.00% | ~190 |
+| All right, I'll give it a try | 17.00% | ~191 |
+| Great shot, kid! | 17.00% | ~191 |
 | The power of the Force | 15.00% | ~168 |
 | Together we can rule the galaxy | 15.00% | ~168 |
 | Shoot first | 15.00% | ~168 |
@@ -38,13 +38,13 @@
 | Determined | 3.00% | ~34 |
 | Your journey has only started | 3.00% | ~34 |
 | Precision shot | 3.00% | ~34 |
-| City in the Clouds | 3.00% | ~34 |
 | That's no moon | 3.00% | ~34 |
 | What will you become? | 3.00% | ~34 |
 | Hold the line! | 2.00% | ~22 |
 | The Force is strong with this one | 2.00% | ~22 |
 | Ackbar's Elite | 2.00% | ~22 |
 | This is a new day, a new beginning | 2.00% | ~22 |
+| City in the Clouds | 2.00% | ~22 |
 | Alternative solution | 2.00% | ~22 |
 | Onwards! | 2.00% | ~22 |
 | The circle is now complete | 2.00% | ~22 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,120 (Ranked 245)  
+Progressed: 1,121 (Ranked 244)  
 Completed: 1 (0.09%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.09%) (Ranked 273)
 | 2023-11-06 | 1,083 | 1 |
 | 2023-11-07 | 1,095 | 1 |
 | 2023-11-08 | 1,114 | 1 |
-| 2023-11-09 | 1,120 | 1 |
+| 2023-11-09 | 1,121 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1359,9 +1359,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22222,
+  "EOS_Progressed": 22223,
   "EOS_Completed": 83,
-  "EOS_NewPlayers": 527,
+  "EOS_NewPlayers": 526,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -23469,6 +23469,11 @@
       "Time": "2023-11-09T13:09:39.6628194+00:00",
       "NumProgressed": 22222,
       "NumCompleted": 83
+    },
+    {
+      "Time": "2023-11-09T14:05:05.8666951+00:00",
+      "NumProgressed": 22223,
+      "NumCompleted": 83
     }
   ],
   "TotalAchievements": 45,
@@ -23504,7 +23509,7 @@
       "Name": "Back to hell",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 8222
+      "UsersEstimate": 8223
     },
     {
       "ID": "CantRunCantHide",
@@ -23576,7 +23581,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 9555
+      "UsersEstimate": 9556
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -23624,7 +23629,7 @@
       "Name": "More than human",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "Neuromancer",
@@ -23752,7 +23757,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 13555
+      "UsersEstimate": 13556
     },
     {
       "ID": "SwordToAGunfight",
@@ -23760,7 +23765,7 @@
       "Name": "Sword to a gunfight",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 6444
+      "UsersEstimate": 6445
     },
     {
       "ID": "TripleA",
@@ -23792,7 +23797,7 @@
       "Name": "Upgrades not mandatory",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 6444
+      "UsersEstimate": 6445
     },
     {
       "ID": "Wallrunner",
@@ -23839,21 +23844,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22222,
+      "Progressed": 22223,
       "Completed": 55
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22222,
+      "Progressed": 22223,
       "Completed": 83
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-07T02:19:41.4454124+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:09:39.6628187+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:05:05.8666946+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.493479+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:02:10.5490418+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:09:39.6631288+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:57:45.1722099+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:05:05.866882+00:00"
 }

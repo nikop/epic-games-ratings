@@ -5649,9 +5649,9 @@
       "ID": "AK_KNOWLEDGE_SEEKER",
       "SetID": "dfmb89",
       "Name": "Knowledge Seeker",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 448
+      "UsersEstimate": 522
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -5801,8 +5801,8 @@
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:10:09.0069164+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:05:35.8481146+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:07:17.0983257+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:10:09.0070083+00:00"
+  "LastUpdate_Ratings": "2023-11-09T14:02:38.4081621+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:05:35.8481719+00:00"
 }

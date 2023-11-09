@@ -6,18 +6,18 @@ Number of Ratings: 285  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Faceroll the Bones | 25.00% | ~1,187 |
-| Debuff Dogpile | 23.00% | ~1,092 |
-| Hit 'Em Where It Hurts | 23.00% | ~1,092 |
-| Perk Shard Punch Card | 23.00% | ~1,092 |
-| That'll Leave a Mark | 23.00% | ~1,092 |
+| Faceroll the Bones | 25.00% | ~1,188 |
+| Debuff Dogpile | 23.00% | ~1,093 |
+| Hit 'Em Where It Hurts | 23.00% | ~1,093 |
+| Perk Shard Punch Card | 23.00% | ~1,093 |
+| That'll Leave a Mark | 23.00% | ~1,093 |
 | Mushroom Madness! | 22.00% | ~1,045 |
-| First Strike | 19.00% | ~902 |
+| First Strike | 19.00% | ~903 |
 | Spending Spree | 18.00% | ~855 |
-| Horder Better Faster Stronger | 17.00% | ~807 |
-| Ten Steps from the Grave | 15.00% | ~712 |
+| Horder Better Faster Stronger | 17.00% | ~808 |
+| Ten Steps from the Grave | 15.00% | ~713 |
 | Everything Must Go! | 14.00% | ~665 |
-| Next Time on MythForce... | 13.00% | ~617 |
+| Next Time on MythForce... | 13.00% | ~618 |
 | Cold-Blooded Critters | 10.00% | ~475 |
 | Death Becomes You | 8.00% | ~380 |
 | Flawless Victory | 6.00% | ~285 |
@@ -25,12 +25,12 @@ Number of Ratings: 285  (23.09.2022)
 | On this Episode! | 6.00% | ~285 |
 | Deadication | 4.00% | ~190 |
 | Season Finale | 4.00% | ~190 |
-| We've Got a Kaiju on the Field | 3.00% | ~142 |
+| We've Got a Kaiju on the Field | 3.00% | ~143 |
 | The Fourth Gate | 2.00% | ~95 |
 | Vexed Her | 0.40% | ~19 |
-| Deadalus and Loving It | 0.20% | ~9 |
+| Deadalus and Loving It | 0.20% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,749 (Ranked 186)  
+Progressed: 4,751 (Ranked 186)  
 Completed: 3 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,7 +147,7 @@ Completed: 3 (0.06%) (Ranked 290)
 | 2023-11-06 | 4,704 | 3 |
 | 2023-11-07 | 4,724 | 3 |
 | 2023-11-08 | 4,742 | 3 |
-| 2023-11-09 | 4,749 | 3 |
+| 2023-11-09 | 4,751 | 3 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 469)  
 Sum: 286 (Ranked 366)  

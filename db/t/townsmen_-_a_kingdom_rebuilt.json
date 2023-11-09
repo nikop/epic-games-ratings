@@ -2,7 +2,7 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 889,
+  "Ranking_Rating": 888,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 188,
@@ -2130,9 +2130,9 @@
       "ID": "ACHIEVEMENT_SCENARIO_WOODSHORTAGE",
       "SetID": "9eacipp",
       "Name": "The wood shortage",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 39
     },
     {
       "ID": "ACHIEVEMENT_SERVE_PROTECT",
@@ -2314,8 +2314,8 @@
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2023-10-21T14:59:27.3816446+00:00",
-  "LastChanged_Achievements": "2023-11-09T13:13:49.1647463+00:00",
+  "LastChanged_Achievements": "2023-11-09T14:09:06.6571131+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:17.4116172+00:00",
-  "LastUpdate_Ratings": "2023-11-09T13:01:52.7667093+00:00",
-  "LastUpdate_Achievements": "2023-11-09T13:13:49.1650354+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:57:26.7755179+00:00",
+  "LastUpdate_Achievements": "2023-11-09T14:09:06.6572509+00:00"
 }
