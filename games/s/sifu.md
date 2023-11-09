@@ -42,8 +42,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.20% | ~1,433 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,433 |
 | Sword Stained With Blood | 0.20% | ~1,433 |
-| The best strikes are the ones we avoid | 0.20% | ~51 |
-| Beatmaker | 0.20% | ~51 |
+| The best strikes are the ones we avoid | 0.20% | ~52 |
+| Beatmaker | 0.20% | ~52 |
 | Prodigal Child | 0.10% | ~716 |
 | Drunken Fighter | 0.10% | ~716 |
 | Martial Artist | 0.10% | ~716 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,445 (Ranked 20)  
+Progressed: 716,449 (Ranked 20)  
 Completed: 12,934 (1.81%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 12,934 (1.81%) (Ranked 124)
 | 2023-11-06 | 716,236 | 12,933 |
 | 2023-11-07 | 716,309 | 12,933 |
 | 2023-11-08 | 716,394 | 12,934 |
-| 2023-11-09 | 716,445 | 12,934 |
+| 2023-11-09 | 716,449 | 12,934 |
 ## Awards
 Max (Great Boss Battles): 6,772  (Ranked 56)  
 Sum: 11,827 (Ranked 82)  

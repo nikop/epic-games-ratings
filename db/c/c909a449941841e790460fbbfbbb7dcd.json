@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 183,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
@@ -889,17 +889,17 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -952,8 +952,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:03:00.6027647+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:12:43.5353914+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
-  "LastUpdate_Ratings": "2023-11-09T15:00:31.7820595+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:03:00.6028147+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:11:24.9021347+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:12:43.5354095+00:00"
 }

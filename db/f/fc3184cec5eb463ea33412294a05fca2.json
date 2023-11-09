@@ -3,7 +3,7 @@
   "Name": "Placid Plastic Duck Simulator",
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 338,
-  "Ranking_EOS_Completed": 51,
+  "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
@@ -1263,9 +1263,9 @@
       "ID": "NEW_ACHIEVEMENT_1_0",
       "SetID": "8d3ci0",
       "Name": "Three is company",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 169
+      "UsersEstimate": 172
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -1279,9 +1279,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "8d3ci0",
       "Name": "Cruise ship",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -1303,9 +1303,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "8d3ci0",
       "Name": "High-rise",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 178
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1327,33 +1327,33 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "8d3ci0",
       "Name": "Family pond",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 116
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "8d3ci0",
       "Name": "Catch a flight",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "8d3ci0",
       "Name": "Way to the shore",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1398,8 +1398,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:04:23.6260518+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:14:44.945504+00:00",
   "LastUpdate_AppInfo": "2023-11-04T23:57:11.4274776+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:58:49.998065+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:04:23.6261026+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:09:01.5483444+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:14:44.9455204+00:00"
 }

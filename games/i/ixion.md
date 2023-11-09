@@ -6,7 +6,7 @@ Rating: 4.57 (Ranked 469)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 29.00% | ~953 |
-| Sputnik 2049 | 26.00% | ~854 |
+| Sputnik 2049 | 26.00% | ~855 |
 | Infinite Growth... | 24.00% | ~789 |
 | Without Breaking Some Eggs... | 23.00% | ~756 |
 | Space Society | 17.00% | ~559 |
@@ -19,8 +19,8 @@ Rating: 4.57 (Ranked 469)
 | Ain't Nobody Got Time for That | 13.00% | ~427 |
 | Exceeding Capacity | 12.00% | ~394 |
 | Hope Seeker | 12.00% | ~394 |
-| A Hunk of Junk | 11.00% | ~361 |
-| Breaking Protocol | 11.00% | ~361 |
+| A Hunk of Junk | 11.00% | ~362 |
+| Breaking Protocol | 11.00% | ~362 |
 | Man's Best Friend | 9.00% | ~296 |
 | Power Outage | 8.00% | ~263 |
 | Convenient Transport | 8.00% | ~263 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 469)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,286 (Ranked 202)  
+Progressed: 3,287 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 3,283 | 0 |
 | 2023-11-07 | 3,284 | 0 |
 | 2023-11-08 | 3,285 | 0 |
-| 2023-11-09 | 3,286 | 0 |
+| 2023-11-09 | 3,287 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

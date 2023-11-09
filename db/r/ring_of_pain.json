@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3328,7 +3328,7 @@
       "Count": 739
     }
   ],
-  "EOS_Progressed": 239412,
+  "EOS_Progressed": 239414,
   "EOS_Completed": 287,
   "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 1,
@@ -24398,6 +24398,11 @@
       "Time": "2023-11-09T15:09:12.029885+00:00",
       "NumProgressed": 239412,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-09T16:19:07.2504911+00:00",
+      "NumProgressed": 239414,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 138,
@@ -25007,9 +25012,9 @@
       "ID": "MULTIKILL30",
       "SetID": "5l8oe0h",
       "Name": "C-C-Combo",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 479
     },
     {
       "ID": "NOEPIC",
@@ -25512,13 +25517,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239412,
+      "Progressed": 239414,
       "Completed": 287
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 892,
+      "Progressed": 894,
       "Completed": 373
     }
   ],
@@ -25526,8 +25531,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-08T13:07:48.8922242+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:09:12.0298841+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:19:07.2504905+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-09T15:02:48.3696941+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:09:12.0302421+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:12:24.3815669+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:19:07.2507636+00:00"
 }

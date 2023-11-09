@@ -10,23 +10,23 @@ Number of Ratings: 892  (23.09.2022)
 | Iron Chef | 184.00% | ~512 |
 | Greeno-B-Gone | 113.00% | ~314 |
 | Your Especially Earned Trajectory | 91.00% | ~253 |
+| No Mountain Wide Enough | 57.00% | ~158 |
 | On that Grindset | 56.00% | ~156 |
 | Can We Keep It? | 56.00% | ~156 |
-| No Mountain Wide Enough | 56.00% | ~156 |
 | Pack Mule | 44.00% | ~122 |
 | Diamonds are Forever | 42.00% | ~117 |
 | My Time Mansion | 40.00% | ~111 |
 | Financially Secure | 40.00% | ~111 |
 | Yakmel Whisperer | 40.00% | ~111 |
-| Unboxing | 38.00% | ~106 |
+| Unboxing | 39.00% | ~108 |
+| Knowledge is Power | 36.00% | ~100 |
 | Big Game Hunter | 36.00% | ~100 |
-| Knowledge is Power | 35.00% | ~97 |
 | Happier-est Place on Earth | 35.00% | ~97 |
 | Mole Masher | 35.00% | ~97 |
+| Got Served | 34.00% | ~95 |
+| One of the Cool Kids | 34.00% | ~95 |
 | Call Me Fishmael | 34.00% | ~95 |
 | Better Late than Never | 33.00% | ~92 |
-| Got Served | 33.00% | ~92 |
-| One of the Cool Kids | 33.00% | ~92 |
 | What Plants Crave | 32.00% | ~89 |
 | Anti-Santa | 32.00% | ~89 |
 | I Do! | 32.00% | ~89 |
@@ -35,10 +35,10 @@ Number of Ratings: 892  (23.09.2022)
 | Finishing Touches | 29.00% | ~81 |
 | Officially Official | 29.00% | ~81 |
 | First Love | 25.00% | ~70 |
-| Panda-kin | 23.00% | ~64 |
+| Panda-kin | 24.00% | ~67 |
 | Jewel of the Eufaula | 23.00% | ~64 |
+| Builder of the Month | 22.00% | ~61 |
 | Who Ya Gonna Call...? | 22.00% | ~61 |
-| Builder of the Month | 21.00% | ~58 |
 | Bridging the Gap | 21.00% | ~58 |
 | He Can Spin A Yarn... | 21.00% | ~58 |
 | Waste Not Want Not | 19.00% | ~53 |
@@ -46,7 +46,7 @@ Number of Ratings: 892  (23.09.2022)
 | Elementary, My Dear | 18.00% | ~50 |
 | Commissions, commissions...! | 17.00% | ~47 |
 | Newton | 17.00% | ~47 |
-| Lifeline Pipeline | 15.00% | ~42 |
+| Lifeline Pipeline | 16.00% | ~44 |
 | Got the Flow Back | 15.00% | ~42 |
 | Just What I Always Wanted! | 14.00% | ~39 |
 | Do Your Part | 14.00% | ~39 |

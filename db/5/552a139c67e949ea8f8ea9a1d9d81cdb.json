@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 968,
+  "EOS_Progressed": 969,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1837,6 +1837,11 @@
       "Time": "2023-11-09T15:05:50.8333588+00:00",
       "NumProgressed": 968,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T16:16:40.791714+00:00",
+      "NumProgressed": 969,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1849,7 +1854,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1993,7 +1998,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2039,9 +2044,9 @@
       "ID": "ML_ACHIEVEMENT_25",
       "SetID": "5k00jcd",
       "Name": "The Yeti",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 29
     },
     {
       "ID": "ML_ACHIEVEMENT_26",
@@ -2089,7 +2094,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2113,7 +2118,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2185,27 +2190,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 968,
+      "Progressed": 969,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 636,
-      "Completed": 636
+      "Progressed": 637,
+      "Completed": 637
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:05:50.8333575+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:16:40.7917128+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:57:57.0523986+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:05:50.8334045+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:05:38.8084667+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:16:40.7917551+00:00"
 }

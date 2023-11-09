@@ -6309,9 +6309,9 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 715455,
+  "EOS_Progressed": 715490,
   "EOS_Completed": 2364,
-  "EOS_NewPlayers": 4684,
+  "EOS_NewPlayers": 4696,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29484,6 +29484,11 @@
       "Time": "2023-11-09T15:06:04.5574205+00:00",
       "NumProgressed": 715455,
       "NumCompleted": 2364
+    },
+    {
+      "Time": "2023-11-09T16:16:59.1207853+00:00",
+      "NumProgressed": 715490,
+      "NumCompleted": 2364
     }
   ],
   "TotalAchievements": 51,
@@ -29653,9 +29658,9 @@
       "ID": "ach_hotel_california",
       "SetID": "7km39fm",
       "Name": "Hotel California",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3577
+      "UsersEstimate": 4293
     },
     {
       "ID": "ach_impressive_aim",
@@ -29863,7 +29868,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ach_gardening_tools",
@@ -29902,13 +29907,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715455,
+      "Progressed": 715490,
       "Completed": 2364
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40997,
+      "Progressed": 41032,
       "Completed": 36503
     }
   ],
@@ -29916,8 +29921,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-09T08:59:09.4815374+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:06:04.5574196+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:16:59.1207846+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:58:46.4501355+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:06:04.5575959+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:08:55.39433+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:16:59.120928+00:00"
 }

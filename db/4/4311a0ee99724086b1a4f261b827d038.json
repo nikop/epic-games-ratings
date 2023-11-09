@@ -533,9 +533,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 231383,
+  "EOS_Progressed": 231388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1346,
+  "EOS_NewPlayers": 1342,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13068,6 +13068,11 @@
       "Time": "2023-11-09T15:08:52.0534067+00:00",
       "NumProgressed": 231383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T16:18:41.4296448+00:00",
+      "NumProgressed": 231388,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -13136,7 +13141,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48590
+      "UsersEstimate": 48591
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -13144,7 +13149,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20824
+      "UsersEstimate": 20825
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -13160,7 +13165,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9255
+      "UsersEstimate": 9256
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -13176,7 +13181,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6941
+      "UsersEstimate": 6942
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -13184,7 +13189,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6941
+      "UsersEstimate": 6942
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -13336,7 +13341,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57846
+      "UsersEstimate": 57847
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -13351,7 +13356,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 231383,
+      "Progressed": 231388,
       "Completed": 0
     }
   ],
@@ -13359,8 +13364,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-06T21:59:06.6835297+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:08:52.0534058+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:18:41.4296442+00:00",
   "LastUpdate_AppInfo": "2023-11-03T01:40:41.4334567+00:00",
-  "LastUpdate_Ratings": "2023-11-09T15:00:34.7663845+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:08:52.0535076+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:11:27.5693721+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:18:41.4297228+00:00"
 }

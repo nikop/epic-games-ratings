@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4477,
+  "EOS_Progressed": 4483,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2596,6 +2596,11 @@
       "Time": "2023-11-09T15:08:41.0858229+00:00",
       "NumProgressed": 4477,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T16:18:26.8997038+00:00",
+      "NumProgressed": 4483,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2616,7 +2621,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "BeLikeWater",
@@ -2680,7 +2685,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 895
+      "UsersEstimate": 897
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2752,7 +2757,7 @@
       "Name": "Nasty!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "NoMoreTotems",
@@ -2806,9 +2811,9 @@
       "ID": "TheQuarterback",
       "SetID": "acc6ea0",
       "Name": "The Quarterback",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 761
+      "UsersEstimate": 717
     },
     {
       "ID": "ThisIsDharma",
@@ -2816,7 +2821,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -2848,7 +2853,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -2879,7 +2884,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4477,
+      "Progressed": 4483,
       "Completed": 5
     }
   ],
@@ -2887,8 +2892,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:08:41.085822+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:18:26.8997032+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-09T15:00:09.5878892+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:08:41.085868+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:10:51.6171449+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:18:26.8997354+00:00"
 }

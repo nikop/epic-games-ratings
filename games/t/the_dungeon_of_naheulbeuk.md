@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,628 |
-| Alt+F4 | 8.00% | ~18,886 |
+| Sowwy! | 35.00% | ~82,632 |
+| Alt+F4 | 8.00% | ~18,887 |
 | Where's that freaking Dwarf? | 7.00% | ~16,526 |
 | Déjà vu | 6.00% | ~14,165 |
 | Sock! SOCK! | 5.00% | ~11,804 |
-| A beer, two curses, three companions | 4.00% | ~9,443 |
-| GG EZ | 4.00% | ~9,443 |
-| DM intervention | 4.00% | ~9,443 |
-| Speedrun | 4.00% | ~9,443 |
-| Way of the Wimp | 3.00% | ~7,082 |
-| The plot thickens... At the tavern | 3.00% | ~7,082 |
-| Fireproof Wizardess | 3.00% | ~7,082 |
+| A beer, two curses, three companions | 4.00% | ~9,444 |
+| GG EZ | 4.00% | ~9,444 |
+| DM intervention | 4.00% | ~9,444 |
+| Speedrun | 4.00% | ~9,444 |
+| Way of the Wimp | 3.00% | ~7,083 |
+| The plot thickens... At the tavern | 3.00% | ~7,083 |
+| Fireproof Wizardess | 3.00% | ~7,083 |
 | Livin' in a dwarven paradise | 2.00% | ~4,722 |
 | Shiny and Crôm | 2.00% | ~4,722 |
 | The demons' feast | 2.00% | ~4,722 |
@@ -46,9 +46,9 @@ Number of Ratings: 118  (23.09.2022)
 | Gargantua | 0.90% | ~2,125 |
 | In Navalu's footsteps | 0.80% | ~1,889 |
 | Lëgal Legend | 0.70% | ~1,653 |
-| Holistic Adventuring Party | 0.60% | ~1,416 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,416 |
-| We come in peace | 0.60% | ~1,416 |
+| Holistic Adventuring Party | 0.60% | ~1,417 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,417 |
+| We come in peace | 0.60% | ~1,417 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,180 |
 | Law and Order | 0.50% | ~1,180 |
 | It's been a hard day's night | 0.40% | ~944 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,080 (Ranked 61)  
+Progressed: 236,090 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-06 | 235,658 | 7 |
 | 2023-11-07 | 235,846 | 7 |
 | 2023-11-08 | 235,997 | 7 |
-| 2023-11-09 | 236,080 | 7 |
+| 2023-11-09 | 236,090 | 7 |
 ## Awards
 Max (Character Customization): 227  (Ranked 271)  
 Sum: 455 (Ranked 329)  

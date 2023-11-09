@@ -375,9 +375,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 3637,
+  "EOS_Progressed": 3638,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 117,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5720,6 +5720,11 @@
       "Time": "2023-11-09T15:05:25.6785047+00:00",
       "NumProgressed": 3637,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-09T16:16:07.7466617+00:00",
+      "NumProgressed": 3638,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5779,7 +5784,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -5827,7 +5832,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5843,7 +5848,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -5859,7 +5864,7 @@
       "Name": "Heavy Steps",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -5883,7 +5888,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -5947,7 +5952,7 @@
       "Name": "Making a Stand",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ACH_MISSION_05",
@@ -5955,7 +5960,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "ACH_MISSION_06",
@@ -5987,7 +5992,7 @@
       "Name": "The Passenger",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "ACH_MISSION_10",
@@ -6009,9 +6014,9 @@
       "ID": "ACH_MISSION_12",
       "SetID": "816efe",
       "Name": "Abysmal Horrors",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 764
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -6027,7 +6032,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6035,7 +6040,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2946
+      "UsersEstimate": 2947
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6067,7 +6072,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -6083,14 +6088,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2074
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3637,
+      "Progressed": 3638,
       "Completed": 3
     }
   ],
@@ -6098,8 +6103,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-09T02:16:14.1164804+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:05:25.6785039+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:16:07.7466611+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:57:49.7033842+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:05:25.6786176+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:04:39.1459547+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:16:07.7467167+00:00"
 }

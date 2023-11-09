@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -871,9 +871,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7128,
+  "EOS_Progressed": 7129,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6516,6 +6516,11 @@
       "Time": "2023-11-09T15:05:41.5590672+00:00",
       "NumProgressed": 7128,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-09T16:16:28.6869363+00:00",
+      "NumProgressed": 7129,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6543,7 +6548,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -6591,7 +6596,7 @@
       "Name": "Decimation",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -6671,7 +6676,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -6719,7 +6724,7 @@
       "Name": "Peak Performance",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3849
+      "UsersEstimate": 3850
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -6735,7 +6740,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -6855,7 +6860,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 3920
+      "UsersEstimate": 3921
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -6879,14 +6884,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3849
+      "UsersEstimate": 3850
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7128,
+      "Progressed": 7129,
       "Completed": 9
     }
   ],
@@ -6894,8 +6899,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-04T20:00:49.9036999+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:05:41.5590664+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:16:28.6869358+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.5980871+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:58:43.0758848+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:05:41.5592046+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:08:47.5629003+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:16:28.6869942+00:00"
 }

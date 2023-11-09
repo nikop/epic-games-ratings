@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First success | 97.00% | ~31 |
-| Suicide squad | 56.00% | ~18 |
-| First blood | 31.00% | ~10 |
-| Train hard, fight easy | 28.00% | ~9 |
-| Under cover | 28.00% | ~9 |
-| All for one! | 22.00% | ~7 |
-| Royal blessing | 22.00% | ~7 |
-| A hidden snake | 22.00% | ~7 |
-| Blood and sand | 19.00% | ~6 |
-| Power of Inquisition | 16.00% | ~5 |
-| Vene, vidi, vici | 16.00% | ~5 |
-| The champion of the arena | 13.00% | ~4 |
-| Surpass the teacher | 13.00% | ~4 |
-| Protect the Healer! | 13.00% | ~4 |
-| She-Wolf | 13.00% | ~4 |
+| First success | 97.00% | ~32 |
+| Suicide squad | 55.00% | ~18 |
+| First blood | 30.00% | ~10 |
+| Train hard, fight easy | 27.00% | ~9 |
+| Under cover | 27.00% | ~9 |
+| All for one! | 24.00% | ~8 |
+| Royal blessing | 21.00% | ~7 |
+| A hidden snake | 21.00% | ~7 |
+| Blood and sand | 18.00% | ~6 |
+| Power of Inquisition | 15.00% | ~5 |
+| Vene, vidi, vici | 15.00% | ~5 |
+| The champion of the arena | 12.00% | ~4 |
+| Surpass the teacher | 12.00% | ~4 |
+| Rage | 12.00% | ~4 |
+| Protect the Healer! | 12.00% | ~4 |
+| She-Wolf | 12.00% | ~4 |
 | Crimson rivers | 9.00% | ~3 |
 | Overplay the rogue | 9.00% | ~3 |
 | Berkanan Borgia | 9.00% | ~3 |
-| Rage | 9.00% | ~3 |
 | By own strength | 9.00% | ~3 |
 | Help of the Gell | 9.00% | ~3 |
 | Trial by cold | 9.00% | ~3 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 505)  
+Progressed: 33 (Ranked 504)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,6 +75,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 30 | 0 |
 | 2023-11-07 | 31 | 0 |
 | 2023-11-08 | 32 | 0 |
+| 2023-11-09 | 33 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

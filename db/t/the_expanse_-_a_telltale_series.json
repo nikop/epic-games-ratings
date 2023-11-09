@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14774,
+  "EOS_Progressed": 14775,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10766,6 +10766,11 @@
       "Time": "2023-11-09T15:03:37.6322554+00:00",
       "NumProgressed": 14774,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-09T16:13:33.3863909+00:00",
+      "NumProgressed": 14775,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10802,7 +10807,7 @@
       "Name": "Data Archivist",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "13",
@@ -10826,7 +10831,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "16",
@@ -10834,7 +10839,7 @@
       "Name": "Drug Gifter",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "17",
@@ -10842,7 +10847,7 @@
       "Name": "Spore Taste",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "18",
@@ -10858,7 +10863,7 @@
       "Name": "Martian Music",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "2",
@@ -10882,7 +10887,7 @@
       "Name": "Drone Dodger",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "22",
@@ -10898,7 +10903,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "24",
@@ -10914,7 +10919,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "26",
@@ -10922,7 +10927,7 @@
       "Name": "Call it Even",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "27",
@@ -10954,7 +10959,7 @@
       "Name": "Captain Drummer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "30",
@@ -11010,7 +11015,7 @@
       "Name": "Impossible Objects",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "31",
@@ -11057,13 +11062,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14774,
+      "Progressed": 14775,
       "Completed": 33
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 728,
+      "Progressed": 729,
       "Completed": 466
     }
   ],
@@ -11071,8 +11076,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:03:37.6322545+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:13:33.3863903+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:57:59.9188691+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:03:37.6324042+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:06:01.702685+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:13:33.3864654+00:00"
 }

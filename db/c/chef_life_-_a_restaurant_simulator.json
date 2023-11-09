@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 666,
+  "EOS_Progressed": 667,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2927,6 +2927,11 @@
       "Time": "2023-11-09T00:11:02.4707964+00:00",
       "NumProgressed": 666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T16:17:07.5858555+00:00",
+      "NumProgressed": 667,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -2936,7 +2941,7 @@
       "ID": "3StaffsDishesMenu",
       "SetID": "d1bm05f",
       "Name": "Teamwork",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -3016,7 +3021,7 @@
       "ID": "DilemasResponsibility10",
       "SetID": "d1bm05f",
       "Name": "Eco Warrior",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -3048,7 +3053,7 @@
       "ID": "GalvanizedStaff3Days10",
       "SetID": "d1bm05f",
       "Name": "Chef, Yes Chef!",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -3064,7 +3069,7 @@
       "ID": "LayoutBig",
       "SetID": "d1bm05f",
       "Name": "The Bigger the Better",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -3104,9 +3109,9 @@
       "ID": "Money10000",
       "SetID": "d1bm05f",
       "Name": "Rolling in Dough",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 27
     },
     {
       "ID": "OpenRestaurant",
@@ -3114,7 +3119,7 @@
       "Name": "The Big Day",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Packing20",
@@ -3192,9 +3197,9 @@
       "ID": "StaffMemberSpecialityDishes10",
       "SetID": "d1bm05f",
       "Name": "You\u0027re the Expert!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 213
+      "UsersEstimate": 207
     },
     {
       "ID": "TrattoriaSet",
@@ -3257,7 +3262,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 666,
+      "Progressed": 667,
       "Completed": 0
     }
   ],
@@ -3265,8 +3270,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-11-09T15:06:10.4157127+00:00",
+  "LastChanged_Achievements": "2023-11-09T16:17:07.585855+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.6799836+00:00",
-  "LastUpdate_Ratings": "2023-11-09T14:58:35.9495635+00:00",
-  "LastUpdate_Achievements": "2023-11-09T15:06:10.4158472+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:08:36.2008386+00:00",
+  "LastUpdate_Achievements": "2023-11-09T16:17:07.5858942+00:00"
 }
