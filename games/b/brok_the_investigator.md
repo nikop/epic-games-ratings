@@ -14,16 +14,16 @@
 | All Materials | 39.00% | ~9 |
 | Chapter 5 | 35.00% | ~8 |
 | Chapter 6 | 22.00% | ~5 |
-| Ads Fan | 13.00% | ~3 |
+| Ads Fan | 17.00% | ~4 |
 | Best Student | 13.00% | ~3 |
 | Food Thief | 13.00% | ~3 |
 | Highway Survival | 13.00% | ~3 |
+| Tramp Saver | 13.00% | ~3 |
+| Secret Locker | 9.00% | ~2 |
 | Paw Music | 9.00% | ~2 |
 | Sugar Pills Lover | 9.00% | ~2 |
-| Tramp Saver | 9.00% | ~2 |
 | Hard To Wake Up | 9.00% | ~2 |
 | Chipmunk | 4.00% | ~1 |
-| Secret Locker | 4.00% | ~1 |
 | Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |

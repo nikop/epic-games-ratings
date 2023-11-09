@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73690,
+  "EOS_Progressed": 73691,
   "EOS_Completed": 388,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -22648,6 +22648,11 @@
       "Time": "2023-11-09T04:09:17.0757277+00:00",
       "NumProgressed": 73690,
       "NumCompleted": 388
+    },
+    {
+      "Time": "2023-11-09T05:09:04.6283935+00:00",
+      "NumProgressed": 73691,
+      "NumCompleted": 388
     }
   ],
   "TotalAchievements": 24,
@@ -22675,7 +22680,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50109
+      "UsersEstimate": 50110
     },
     {
       "ID": "BEST_FRIENDS",
@@ -22691,7 +22696,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19159
+      "UsersEstimate": 19160
     },
     {
       "ID": "ERADICATE",
@@ -22843,14 +22848,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11790
+      "UsersEstimate": 11791
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73690,
+      "Progressed": 73691,
       "Completed": 388
     }
   ],
@@ -22858,8 +22863,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:09:17.0757272+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:09:04.6283928+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:53.4635591+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:01:34.8714503+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:09:17.0758582+00:00"
+  "LastUpdate_Ratings": "2023-11-09T05:00:01.7639147+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:09:04.628543+00:00"
 }

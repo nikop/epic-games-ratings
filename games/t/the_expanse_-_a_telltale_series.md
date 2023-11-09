@@ -8,6 +8,7 @@ Rating: 4.55 (Ranked 502)
 | Oyedang, Kopengs | 6.00% | ~886 |
 | The Pit and the Pirates | 3.00% | ~443 |
 | Bosmang | 3.00% | ~443 |
+| Celebrations are in Order | 3.00% | ~443 |
 | Data Archivist | 2.00% | ~295 |
 | Stogie for Fogey | 2.00% | ~295 |
 | Drug Gifter | 2.00% | ~295 |
@@ -18,7 +19,6 @@ Rating: 4.55 (Ranked 502)
 | Khan's Revenge | 2.00% | ~295 |
 | Call it Even | 2.00% | ~295 |
 | Captain Drummer | 2.00% | ~295 |
-| Celebrations are in Order | 2.00% | ~295 |
 | Impossible Objects | 2.00% | ~295 |
 | Keep Arjun in Check | 2.00% | ~14 |
 | Safe Cracker | 2.00% | ~14 |

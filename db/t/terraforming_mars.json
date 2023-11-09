@@ -3091,9 +3091,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 81963,
+  "EOS_Progressed": 81964,
   "EOS_Completed": 157,
-  "EOS_NewPlayers": 859,
+  "EOS_NewPlayers": 860,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -25621,6 +25621,11 @@
       "Time": "2023-11-09T04:09:06.8631396+00:00",
       "NumProgressed": 81963,
       "NumCompleted": 157
+    },
+    {
+      "Time": "2023-11-09T05:08:57.7143902+00:00",
+      "NumProgressed": 81964,
+      "NumCompleted": 157
     }
   ],
   "TotalAchievements": 30,
@@ -25656,7 +25661,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 18851
+      "UsersEstimate": 18852
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -25664,7 +25669,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -25712,7 +25717,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30326
+      "UsersEstimate": 30327
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -25768,7 +25773,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21310
+      "UsersEstimate": 21311
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -25800,7 +25805,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 12294
+      "UsersEstimate": 12295
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -25816,7 +25821,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14753
+      "UsersEstimate": 14754
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -25871,15 +25876,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 81963,
+      "Progressed": 81964,
       "Completed": 157
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-08T19:59:45.0886109+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:09:06.8631393+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:08:57.7143897+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.8339695+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:00:37.4674664+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:09:06.8632474+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:59:24.5465171+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:08:57.714547+00:00"
 }

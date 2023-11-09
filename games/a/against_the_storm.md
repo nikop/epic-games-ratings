@@ -11,10 +11,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 7.00% | ~1,208 |
 | No Deaths | 7.00% | ~1,208 |
 | Overcoming Difficulty | 6.00% | ~1,035 |
+| Fertile Meadows | 6.00% | ~1,035 |
 | Coral Forest | 6.00% | ~1,035 |
 | The Scarlet Orchard | 6.00% | ~1,035 |
 | Ancient Battleground | 5.00% | ~863 |
-| Fertile Meadows | 5.00% | ~863 |
 | Royal Outpost | 5.00% | ~863 |
 | Lost Colonies | 5.00% | ~863 |
 | Watchtower | 5.00% | ~863 |

@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23738,
+  "EOS_Progressed": 23741,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 490,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -22188,6 +22188,11 @@
       "Time": "2023-11-09T04:08:39.8893167+00:00",
       "NumProgressed": 23738,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-11-09T05:08:38.8769698+00:00",
+      "NumProgressed": 23741,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 20,
@@ -22199,7 +22204,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4035
+      "UsersEstimate": 4036
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -22215,7 +22220,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3324
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -22223,7 +22228,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2136
+      "UsersEstimate": 2137
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -22231,7 +22236,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -22319,7 +22324,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18278
+      "UsersEstimate": 18281
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22327,7 +22332,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6409
+      "UsersEstimate": 6410
     },
     {
       "ID": "NORTH_FINISHED",
@@ -22358,15 +22363,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23738,
+      "Progressed": 23741,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:08:39.8893164+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:08:38.8769689+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.680563+00:00",
-  "LastUpdate_Ratings": "2023-11-09T03:57:33.1271511+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:08:39.889423+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:57:19.5142361+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:08:38.8771145+00:00"
 }

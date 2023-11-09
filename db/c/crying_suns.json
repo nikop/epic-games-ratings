@@ -643,7 +643,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470577,
+  "EOS_Progressed": 470578,
   "EOS_Completed": 20,
   "EOS_NewPlayers": 498,
   "EOS_NewCompleters": 1,
@@ -21868,6 +21868,11 @@
       "Time": "2023-11-09T03:09:13.9975095+00:00",
       "NumProgressed": 470577,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-09T05:09:44.2958652+00:00",
+      "NumProgressed": 470578,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -21895,7 +21900,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112938
+      "UsersEstimate": 112939
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -22031,7 +22036,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51763
+      "UsersEstimate": 51764
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -22055,7 +22060,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94115
+      "UsersEstimate": 94116
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -22063,7 +22068,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159996
+      "UsersEstimate": 159997
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22327,7 +22332,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51763
+      "UsersEstimate": 51764
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -22510,21 +22515,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14511,
+      "Progressed": 14512,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470577,
+      "Progressed": 470578,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:10:13.0772661+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:09:44.2958647+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.6471409+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:00:04.2758773+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:10:13.0774035+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:59:03.7889931+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:09:44.2960941+00:00"
 }

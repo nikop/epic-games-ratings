@@ -43,6 +43,7 @@ Rating: 4.60 (Ranked 411)
 | Returning Circle | 0.10% | ~5 |
 | Here be Dragons | 0.10% | ~5 |
 | Tipping the Scales | 0.10% | ~5 |
+| Duality | 0.10% | ~5 |
 | Blood of the Dragon | 0.10% | ~5 |
 | Mighty Hoard | 0.10% | ~5 |
 | Sehiran Oasis | 0.10% | ~5 |
@@ -63,7 +64,6 @@ Rating: 4.60 (Ranked 411)
 | The Grey Wizard | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
-| Duality | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,300 (Ranked 183)  

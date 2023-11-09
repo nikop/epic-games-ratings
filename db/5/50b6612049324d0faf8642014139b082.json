@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -247,9 +247,9 @@
       "ID": "achievement_3",
       "SetID": "jnappp",
       "Name": "Rookie Season",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_4",
@@ -310,8 +310,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:09:52.9642608+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:09:29.789974+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:02:37.0077091+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:09:52.9642743+00:00"
+  "LastUpdate_Ratings": "2023-11-09T05:02:35.3919413+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:09:29.7899914+00:00"
 }

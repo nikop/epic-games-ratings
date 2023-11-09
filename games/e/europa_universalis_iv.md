@@ -118,6 +118,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Six Nations | 0.10% | ~450 |
 | Sons of Carthage | 0.10% | ~450 |
 | Spain is the Emperor | 0.10% | ~450 |
+| The Spice Must Flow | 0.10% | ~450 |
 | Subsidize my Love | 0.10% | ~450 |
 | Tear Down This Wall | 0.10% | ~450 |
 | That is mine! | 0.10% | ~450 |
@@ -306,7 +307,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Spaghetti Western | 0.00% | ~0 |
 | Spanish Fly | 0.00% | ~0 |
 | Spice Girls | 0.00% | ~0 |
-| The Spice Must Flow | 0.00% | ~0 |
 | Stardust Crusaders | 0.00% | ~0 |
 | Stern des Südens | 0.00% | ~0 |
 | Stiff Upper Lippe | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,226 (Ranked 41)  
+Progressed: 450,235 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,16 +573,16 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
-| 2023-11-09 | 450,226 | 1 |
+| 2023-11-09 | 450,235 | 1 |
 ## Awards
 Max (Educational): 6,915  (Ranked 55)  
-Sum: 56,799 (Ranked 24)  
+Sum: 56,813 (Ranked 24)  
 Diff (max vs sum): 31  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,915 |
 | This game has Diverse Characters | 6,633 |
-| This game is Highly Recommended | 6,608 |
+| This game is Highly Recommended | 6,622 |
 | This game has Challenging Combat | 6,527 |
 | This game is Extremely Fun | 6,503 |
 | This game is Relaxing | 6,355 |
@@ -889,4 +889,4 @@ Diff (max vs sum): 31
 | 2023-11-06 | 4.69 | - | 6,879 | 56,411 |
 | 2023-11-07 | 4.69 | - | 6,879 | 56,604 |
 | 2023-11-08 | 4.69 | - | 6,903 | 56,787 |
-| 2023-11-09 | 4.69 | - | 6,915 | 56,799 |
+| 2023-11-09 | 4.69 | - | 6,915 | 56,813 |

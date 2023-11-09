@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 56,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750174,
+  "EOS_Progressed": 750176,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1830,
+  "EOS_NewPlayers": 1828,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23449,6 +23449,11 @@
       "Time": "2023-11-09T04:05:39.9563175+00:00",
       "NumProgressed": 750174,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-09T05:04:44.425625+00:00",
+      "NumProgressed": 750176,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -23484,7 +23489,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45010
+      "UsersEstimate": 45011
     },
     {
       "ID": "ach_build_bridge",
@@ -23492,7 +23497,7 @@
       "Name": "Engineer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 15003
+      "UsersEstimate": 15004
     },
     {
       "ID": "ach_build_tunnel",
@@ -23524,7 +23529,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 277564
+      "UsersEstimate": 277565
     },
     {
       "ID": "ach_demolish_trees",
@@ -23556,7 +23561,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 45010
+      "UsersEstimate": 45011
     },
     {
       "ID": "ach_max_truck_distance",
@@ -23652,7 +23657,7 @@
       "Name": "High Flyer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 15003
+      "UsersEstimate": 15004
     },
     {
       "ID": "ach_use_terraforming",
@@ -23675,7 +23680,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 750174,
+      "Progressed": 750176,
       "Completed": 4
     }
   ],
@@ -23683,8 +23688,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:05:39.9563171+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:04:44.4256247+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:11.2241033+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:00:02.4045494+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:05:39.956433+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:59:02.6462875+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:04:44.4257832+00:00"
 }

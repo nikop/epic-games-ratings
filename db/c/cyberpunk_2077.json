@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14864,10 +14864,10 @@
       "Count": 12644
     }
   ],
-  "EOS_Progressed": 895830,
+  "EOS_Progressed": 895835,
   "EOS_Completed": 2758,
-  "EOS_NewPlayers": 967,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 970,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -37804,6 +37804,11 @@
       "Time": "2023-11-09T04:04:16.7149529+00:00",
       "NumProgressed": 895830,
       "NumCompleted": 2758
+    },
+    {
+      "Time": "2023-11-09T05:03:46.6095101+00:00",
+      "NumProgressed": 895835,
+      "NumCompleted": 2758
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -37832,7 +37837,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "Cyberjunkie",
@@ -37936,7 +37941,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "MaxPain",
@@ -37944,7 +37949,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "MustBeTheRats",
@@ -37984,7 +37989,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "Roleplayer",
@@ -38040,7 +38045,7 @@
       "Name": "The Hermit",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "TheHightPriestess",
@@ -38048,7 +38053,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "TheLovers",
@@ -38056,7 +38061,7 @@
       "Name": "The Lovers",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "TheStar",
@@ -38080,7 +38085,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "TheWorld",
@@ -38120,7 +38125,7 @@
       "Name": "True Warrior",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -38160,7 +38165,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2687
+      "UsersEstimate": 2688
     },
     {
       "ID": "All the President\u0027s Men",
@@ -38351,21 +38356,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895830,
+      "Progressed": 895835,
       "Completed": 2758
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24453,
+      "Progressed": 24458,
       "Completed": 10204
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-09T01:41:52.5340906+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:04:16.7149526+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:03:46.6095095+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-09T03:57:25.059945+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:04:16.7150943+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:57:14.3491109+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:03:46.609679+00:00"
 }

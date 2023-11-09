@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11731,10 +11731,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 56799,
       "NumberOfAwardsMax": 6915
+    },
+    {
+      "Time": "2023-11-09T04:58:05.1173182+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56813,
+      "NumberOfAwardsMax": 6915
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56799,
+  "NumberOfAwards": 56813,
   "NumberOfAwardsMax": 6915,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11742,7 +11748,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6608
+      "Count": 6622
     },
     {
       "Text": "This game has Challenging Combat",
@@ -11805,9 +11811,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 450226,
+  "EOS_Progressed": 450235,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5479,
+  "EOS_NewPlayers": 5480,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34970,6 +34976,11 @@
       "Time": "2023-11-09T04:06:10.0544017+00:00",
       "NumProgressed": 450226,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T05:05:05.4064339+00:00",
+      "NumProgressed": 450235,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37083,9 +37094,9 @@
       "ID": "achievement_spice_must_flow",
       "SetID": "8p2n7he",
       "Name": "The Spice Must Flow",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_stardust_crusaders",
@@ -37884,21 +37895,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 450226,
+      "Progressed": 450235,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 450226,
+      "Progressed": 450235,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-09T02:16:42.0745951+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:06:10.0544014+00:00",
+  "LastChanged": "2023-11-09T04:58:05.1173181+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:05:05.4064331+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-09T03:58:32.7333086+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:06:10.0554304+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:58:05.1173187+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:05:05.4078705+00:00"
 }

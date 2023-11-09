@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 495,
+  "EOS_Progressed": 496,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.66,
+  "EOS_Completed_Percentage": 5.65,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2115,6 +2115,11 @@
       "Time": "2023-11-08T22:04:16.1019596+00:00",
       "NumProgressed": 495,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-09T05:04:35.9712474+00:00",
+      "NumProgressed": 496,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2182,7 +2187,7 @@
       "Name": "Free at last",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2196,9 +2201,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 45
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2214,7 +2219,7 @@
       "Name": "A Link to the Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2230,7 +2235,7 @@
       "Name": "Rascal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2270,7 +2275,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2286,7 +2291,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "PROGRESS_N2",
@@ -2325,14 +2330,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 495,
+      "Progressed": 496,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:05:27.6366472+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:04:35.9712469+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-09T03:58:57.9588895+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:05:27.6366752+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:58:21.8898358+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:04:35.9712786+00:00"
 }

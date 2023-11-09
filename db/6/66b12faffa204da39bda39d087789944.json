@@ -4,8 +4,8 @@
   "ProductSlug": "danghost-30897c",
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-27T08:00:00+00:00",
     "PcReleaseDate": "2023-09-27T16:00:00+00:00",
@@ -573,8 +573,8 @@
   ],
   "FirstSeen": "2023-10-21T11:57:57.6655407+00:00",
   "FirstSeenAchievements": "2023-08-02T10:01:01.4047594+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:08:13.1759259+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:08:20.4874921+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:05.839067+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:00:59.1601083+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:08:13.1759672+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:59:39.4661206+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:08:20.4875548+00:00"
 }

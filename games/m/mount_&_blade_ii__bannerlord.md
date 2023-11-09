@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~25,895 |
+| Lawbringer | 40.00% | ~25,896 |
 | Landlord | 33.00% | ~21,364 |
 | Bannerlord | 23.00% | ~14,890 |
 | Horde breaker | 23.00% | ~14,890 |
@@ -24,7 +24,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 10.00% | ~6,474 |
 | Swordbearer | 10.00% | ~6,474 |
 | What have the Romans ever done for us? | 10.00% | ~6,474 |
-| Butterlord | 9.00% | ~5,826 |
+| Butterlord | 9.00% | ~5,827 |
 | Know your enemy | 7.00% | ~4,532 |
 | Mastery | 7.00% | ~4,532 |
 | Crowdfunded | 5.00% | ~3,237 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,738 (Ranked 103)  
+Progressed: 64,739 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 64,626 | 0 |
 | 2023-11-07 | 64,682 | 0 |
 | 2023-11-08 | 64,735 | 0 |
-| 2023-11-09 | 64,738 | 0 |
+| 2023-11-09 | 64,739 | 0 |
 ## Awards
 Max (Character Customization): 7,345  (Ranked 52)  
 Sum: 15,174 (Ranked 67)  

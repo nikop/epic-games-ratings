@@ -21,7 +21,7 @@
 | Mysterious paintings | 35.00% | ~74 |
 | Cat | 33.00% | ~70 |
 | Depths of the well | 27.00% | ~57 |
-| Children | 23.00% | ~49 |
+| Children | 24.00% | ~51 |
 | Huge Snail | 16.00% | ~34 |
 | Flower of hope | 14.00% | ~30 |
 | Back Home | 12.00% | ~25 |
@@ -31,7 +31,7 @@
 | Hope | 6.00% | ~13 |
 | Hairball | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212 (Ranked 363)  
+Progressed: 212 (Ranked 364)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -9,10 +9,10 @@
 | Better On Ice | 69.00% | ~406 |
 | Notai Notes | 68.00% | ~400 |
 | Blue Dreams | 67.00% | ~394 |
-| He's Famous! | 66.00% | ~388 |
+| He's Famous! | 67.00% | ~394 |
 | Cutie Poro | 65.00% | ~382 |
 | Krugmazing | 64.00% | ~376 |
-| The Fire Below the Mountain | 61.00% | ~359 |
+| The Fire Below the Mountain | 62.00% | ~365 |
 | Moneyball | 58.00% | ~341 |
 | No Bites | 54.00% | ~318 |
 | Iceborn | 53.00% | ~312 |
@@ -22,10 +22,10 @@
 | Rhythm Of Willump | 44.00% | ~259 |
 | The Relentless Storm | 41.00% | ~241 |
 | A Tragic Reminder | 40.00% | ~235 |
+| 3000 Year Blackout | 40.00% | ~235 |
 | True Legends | 40.00% | ~235 |
-| 3000 Year Blackout | 39.00% | ~229 |
 | The Finisher | 39.00% | ~229 |
-| So Close | 35.00% | ~206 |
+| So Close | 36.00% | ~212 |
 | You Get Used To It | 35.00% | ~206 |
 | On The Rocks | 33.00% | ~194 |
 | Bullseye | 33.00% | ~194 |
@@ -40,7 +40,7 @@
 | Vertical Power | 27.00% | ~159 |
 | One From The Heart | 13.00% | ~76 |
 | Yummy | 11.00% | ~65 |
-| Snowball Fightn't | 10.00% | ~59 |
+| Snowball Fightn't | 11.00% | ~65 |
 | It Was Him | 8.00% | ~47 |
 | The Pied Piper Of Freljord | 7.00% | ~41 |
 | Handy Yeti | 7.00% | ~41 |

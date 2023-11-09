@@ -4,8 +4,8 @@
   "ProductSlug": "touch-type-tale",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3762,
+  "EOS_Progressed": 3763,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -4447,6 +4447,11 @@
       "Time": "2023-11-09T04:07:43.4445787+00:00",
       "NumProgressed": 3762,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-09T05:06:10.1019764+00:00",
+      "NumProgressed": 3763,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -4522,7 +4527,7 @@
       "Name": "Reinforcements",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "campaign12",
@@ -4578,7 +4583,7 @@
       "Name": "Sweet Revenge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "campaign19",
@@ -4594,7 +4599,7 @@
       "Name": "Flanked!",
       "Percentage": 76,
       "XP": 30,
-      "UsersEstimate": 2859
+      "UsersEstimate": 2860
     },
     {
       "ID": "campaign20",
@@ -4610,7 +4615,7 @@
       "Name": "Economics 101",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "campaign4",
@@ -4632,9 +4637,9 @@
       "ID": "campaign6",
       "SetID": "2h56gn1",
       "Name": "Nowhere left to Hide",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 527
+      "UsersEstimate": 489
     },
     {
       "ID": "campaign7",
@@ -4650,7 +4655,7 @@
       "Name": "Held Back by the Roots",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "campaign9",
@@ -4698,7 +4703,7 @@
       "Name": "We Have the Technology",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "scenario6",
@@ -4706,7 +4711,7 @@
       "Name": "Figure of Breach",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "scenario7",
@@ -4721,7 +4726,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 3762,
+      "Progressed": 3763,
       "Completed": 11
     }
   ],
@@ -4729,8 +4734,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2023-03-31T05:57:45.7559866+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:07:43.4445783+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:06:10.1019758+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.5782351+00:00",
-  "LastUpdate_Ratings": "2023-11-09T03:57:47.2834217+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:07:43.444625+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:57:29.8162267+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:06:10.1020283+00:00"
 }

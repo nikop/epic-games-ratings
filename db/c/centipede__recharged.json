@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -317,7 +317,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18404,
+  "EOS_Progressed": 18405,
   "EOS_Completed": 113,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -15737,6 +15737,11 @@
       "Time": "2023-11-09T02:22:59.4456055+00:00",
       "NumProgressed": 18404,
       "NumCompleted": 113
+    },
+    {
+      "Time": "2023-11-09T05:04:26.7525247+00:00",
+      "NumProgressed": 18405,
+      "NumCompleted": 113
     }
   ],
   "TotalAchievements": 16,
@@ -15772,7 +15777,7 @@
       "Name": "Don\u0027t Fear The Reaper",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "Eyes_On_Fire",
@@ -15796,7 +15801,7 @@
       "Name": "Fireworks",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6073
+      "UsersEstimate": 6074
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -15852,7 +15857,7 @@
       "Name": "Sole Survivor",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 6809
+      "UsersEstimate": 6810
     },
     {
       "ID": "Still_Burning",
@@ -15875,15 +15880,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 18404,
+      "Progressed": 18405,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2023-10-25T18:58:07.6387527+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:05:14.1451116+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:04:26.752524+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.434836+00:00",
-  "LastUpdate_Ratings": "2023-11-09T03:59:43.7911942+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:05:14.1452129+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:58:49.3883863+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:04:26.7526303+00:00"
 }

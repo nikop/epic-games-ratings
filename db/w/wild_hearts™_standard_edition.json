@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 112,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1358,9 +1358,9 @@
       "ID": "achievement_32",
       "SetID": "2cpn27e",
       "Name": "Style Seeker",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 66
     },
     {
       "ID": "achievement_33",
@@ -1548,8 +1548,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:05:42.6614752+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:04:46.1936138+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-09T03:57:25.7871395+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:05:42.6615309+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:57:14.7408475+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:04:46.193663+00:00"
 }

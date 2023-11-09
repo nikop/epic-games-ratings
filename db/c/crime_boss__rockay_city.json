@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4441,11 +4441,17 @@
       "Rating": 3.95,
       "NumberOfAwards": 2970,
       "NumberOfAwardsMax": 522
+    },
+    {
+      "Time": "2023-11-09T04:59:36.1360073+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2971,
+      "NumberOfAwardsMax": 523
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2970,
-  "NumberOfAwardsMax": 522,
+  "NumberOfAwards": 2971,
+  "NumberOfAwardsMax": 523,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4458,7 +4464,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 522
+      "Count": 523
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4503,9 +4509,9 @@
       "Count": 486
     }
   ],
-  "EOS_Progressed": 89850,
+  "EOS_Progressed": 89857,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24493,6 +24499,11 @@
       "Time": "2023-11-09T04:04:26.0995613+00:00",
       "NumProgressed": 89850,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-09T05:03:53.0156143+00:00",
+      "NumProgressed": 89857,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24512,7 +24523,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH_0012",
@@ -24520,7 +24531,7 @@
       "Name": "Roid Ranger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH_0013",
@@ -24672,7 +24683,7 @@
       "Name": "Too Old for This",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH_0300",
@@ -24736,7 +24747,7 @@
       "Name": "Fancy Pants",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH_0431",
@@ -24760,7 +24771,7 @@
       "Name": "Off the Rocks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH_0451",
@@ -24768,7 +24779,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH_0452",
@@ -24776,7 +24787,7 @@
       "Name": "Dragonslayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ACH_0460",
@@ -24831,22 +24842,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 89850,
+      "Progressed": 89857,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18197,
+      "Progressed": 18204,
       "Completed": 15562
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-09T01:44:25.167327+00:00",
-  "LastChanged_Achievements": "2023-11-09T04:04:26.0995609+00:00",
+  "LastChanged": "2023-11-09T04:59:36.1360072+00:00",
+  "LastChanged_Achievements": "2023-11-09T05:03:53.0156138+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-09T04:00:54.8415956+00:00",
-  "LastUpdate_Achievements": "2023-11-09T04:04:26.0997014+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:59:36.1360081+00:00",
+  "LastUpdate_Achievements": "2023-11-09T05:03:53.0157694+00:00"
 }
