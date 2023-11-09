@@ -26,10 +26,10 @@
 | 24 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 14.77% |
 | 25 | [Remains](games/r/remains.md) | 14.55% |
 | 26 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
-| 27 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.35% |
-| 28 | [Seven Doors](games/s/seven_doors.md) | 11.76% |
-| 29 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.68% |
-| 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 11.27% |
+| 27 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.68% |
+| 28 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.35% |
+| 29 | [Seven Doors](games/s/seven_doors.md) | 11.76% |
+| 30 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.68% |
 | 31 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 32 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 33 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.67% |
@@ -156,8 +156,8 @@
 | 154 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 155 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 156 | [Sable](games/s/sable.md) | 1.01% |
-| 157 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
 | 157 | [Trifox](games/t/trifox.md) | 0.98% |
+| 158 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.97% |
 | 159 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 159 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
 | 161 | [Hades](games/h/hades.md) | 0.91% |
@@ -171,7 +171,7 @@
 | 167 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 170 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 171 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
-| 172 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.77% |
+| 171 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.78% |
 | 173 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 174 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.66% |
 | 175 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |
@@ -198,8 +198,8 @@
 | 196 | [Dead Space](games/d/dead_space.md) | 0.49% |
 | 197 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
 | 197 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
-| 199 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.47% |
-| 200 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.46% |
+| 199 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.46% |
+| 199 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.46% |
 | 201 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 201 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.45% |
 | 201 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
@@ -575,6 +575,7 @@
 | 345 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 0.00% |
 | 345 | [Outbreak Epidemic Viral Terror](games/e/ef23a06e26f1497a8a39ff8d70e66833.md) | 0.00% |
 | 345 | [Outbreak Lost Hope Broken Faith](games/0/08a9c02dda9c41a59230704e270c4c01.md) | 0.00% |
+| 345 | [Outbreak The New Nightmare Revisited](games/e/e38a7072e15a4f528887c3b887a8bb89.md) | 0.00% |
 | 345 | [Outbreak The Nightmare Chronicles Reinvestigated](games/8/84675ff3b0cd4f26bf1f655da1b6265f.md) | 0.00% |
 | 345 | [Outcore - Desktop Adventure](games/o/outcore_-_desktop_adventure.md) | 0.00% |
 | 345 | [Outliver: Tribulation](games/1/13e30807efce43ea9e04ac1c45668d8e.md) | 0.00% |
@@ -731,4 +732,4 @@
 | 345 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 345 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 345 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,534 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,535 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
