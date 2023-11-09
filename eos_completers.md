@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.06% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.05% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.69% |
 | 9 | [greensheen Production](games/g/greensheen_production.md) | 35.71% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
@@ -196,9 +196,9 @@
 | 194 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
 | 194 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.50% |
 | 196 | [Dead Space](games/d/dead_space.md) | 0.49% |
-| 197 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.48% |
 | 197 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
 | 197 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
+| 199 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.47% |
 | 200 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.46% |
 | 201 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
 | 201 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.45% |
