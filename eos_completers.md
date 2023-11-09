@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.06% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.03% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.02% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.69% |
 | 9 | [greensheen Production](games/g/greensheen_production.md) | 35.71% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
@@ -88,8 +88,8 @@
 | 86 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.36% |
 | 87 | [Bunny Park](games/b/bunny_park.md) | 3.33% |
 | 87 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.33% |
-| 87 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 3.33% |
 | 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.33% |
+| 90 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 3.28% |
 | 91 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.23% |
 | 92 | [Doodle God](games/d/doodle_god.md) | 3.20% |
 | 92 | [The Complex](games/t/the_complex.md) | 3.20% |
@@ -156,10 +156,10 @@
 | 154 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 154 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.04% |
 | 156 | [Sable](games/s/sable.md) | 1.01% |
+| 157 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.98% |
 | 157 | [Trifox](games/t/trifox.md) | 0.98% |
-| 158 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
-| 158 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
-| 160 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
+| 159 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
+| 159 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
 | 161 | [Hades](games/h/hades.md) | 0.91% |
 | 161 | [The Devil's Face](games/t/the_devil's_face.md) | 0.91% |
 | 163 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
