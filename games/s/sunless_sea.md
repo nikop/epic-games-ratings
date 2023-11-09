@@ -6,23 +6,23 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~14,514 |
-| Sweet Sorrow | 18.00% | ~7,257 |
-| Rules the Waves | 17.00% | ~6,854 |
+| Sink Beneath the Waves | 36.00% | ~14,516 |
+| Sweet Sorrow | 18.00% | ~7,258 |
+| Rules the Waves | 17.00% | ~6,855 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,048 |
-| Rival | 14.00% | ~5,644 |
-| Correspondent | 12.00% | ~4,838 |
-| Lose Your Mind | 12.00% | ~4,838 |
-| Sound Mind? | 12.00% | ~4,838 |
-| Salt's Curse | 11.00% | ~4,435 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,435 |
-| The Fall of the House | 11.00% | ~4,435 |
-| Shipmate | 11.00% | ~4,435 |
-| One Year at Zee | 8.00% | ~3,225 |
-| Pupil | 7.00% | ~2,822 |
-| Salvager | 7.00% | ~2,822 |
-| Open Your Ears | 7.00% | ~2,822 |
-| The Ascent of Man | 7.00% | ~2,822 |
+| Rival | 14.00% | ~5,645 |
+| Correspondent | 12.00% | ~4,839 |
+| Lose Your Mind | 12.00% | ~4,839 |
+| Sound Mind? | 12.00% | ~4,839 |
+| Salt's Curse | 11.00% | ~4,436 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,436 |
+| The Fall of the House | 11.00% | ~4,436 |
+| Shipmate | 11.00% | ~4,436 |
+| One Year at Zee | 8.00% | ~3,226 |
+| Pupil | 7.00% | ~2,823 |
+| Salvager | 7.00% | ~2,823 |
+| Open Your Ears | 7.00% | ~2,823 |
+| The Ascent of Man | 7.00% | ~2,823 |
 | Zee Fever | 5.00% | ~2,016 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,613 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,613 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~40 |
 | Ten Years at Zee | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,317 (Ranked 116)  
+Progressed: 40,323 (Ranked 116)  
 Completed: 4 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 4 (0.01%) (Ranked 321)
 | 2023-11-06 | 40,180 | 4 |
 | 2023-11-07 | 40,232 | 4 |
 | 2023-11-08 | 40,279 | 4 |
-| 2023-11-09 | 40,317 | 4 |
+| 2023-11-09 | 40,323 | 4 |
 ## Awards
 Max (Character Customization): 216  (Ranked 280)  
 Sum: 289 (Ranked 365)  

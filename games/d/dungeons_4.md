@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 76.00% | ~44 |
-| Thalya – Simply Immortal | 76.00% | ~44 |
-| Thalya's Concentrated Fury | 60.00% | ~35 |
-| For the Horde! | 52.00% | ~30 |
-| Hammer Time, Round Two | 43.00% | ~25 |
-| The Hellwoods | 34.00% | ~20 |
-| Master of Magic | 31.00% | ~18 |
-| Trap Master | 24.00% | ~14 |
-| Magic Accidents | 24.00% | ~14 |
-| Experienced Thalya | 10.00% | ~6 |
-| Unicorn steaks – fresh off the hoof! | 9.00% | ~5 |
-| Bad Elves Go Everywhere | 7.00% | ~4 |
-| The Plains of Strothalm | 3.00% | ~2 |
-| Minions, Minions! | 3.00% | ~2 |
-| Sacrificial Pit = Garbage Disposal? | 3.00% | ~2 |
-| Heroes’ Gorge | 2.00% | ~1 |
-| Mana Cannon | 2.00% | ~1 |
-| YOU SHALL NOT PASS! | 2.00% | ~1 |
-| The Big Eaty | 2.00% | ~1 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 2.00% | ~1 |
-| All’s Well That Ends Evil | 2.00% | ~1 |
-| Stop Tanos! | 2.00% | ~1 |
-| My Little Torture Chamber | 2.00% | ~1 |
-| The Last Stand - This Time For Real! | 2.00% | ~1 |
+| The Last Stand | 72.00% | ~48 |
+| Thalya – Simply Immortal | 72.00% | ~48 |
+| Thalya's Concentrated Fury | 61.00% | ~41 |
+| For the Horde! | 49.00% | ~33 |
+| Hammer Time, Round Two | 45.00% | ~30 |
+| The Hellwoods | 34.00% | ~23 |
+| Master of Magic | 30.00% | ~20 |
+| Trap Master | 22.00% | ~15 |
+| Magic Accidents | 22.00% | ~15 |
+| Experienced Thalya | 16.00% | ~11 |
+| Unicorn steaks – fresh off the hoof! | 13.00% | ~9 |
+| Minions, Minions! | 9.00% | ~6 |
+| The Plains of Strothalm | 7.00% | ~5 |
+| Bad Elves Go Everywhere | 7.00% | ~5 |
+| Sacrificial Pit = Garbage Disposal? | 4.00% | ~3 |
+| Heroes’ Gorge | 1.00% | ~1 |
+| Mana Cannon | 1.00% | ~1 |
+| YOU SHALL NOT PASS! | 1.00% | ~1 |
+| The Big Eaty | 1.00% | ~1 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 1.00% | ~1 |
+| All’s Well That Ends Evil | 1.00% | ~1 |
+| Stop Tanos! | 1.00% | ~1 |
+| My Little Torture Chamber | 1.00% | ~1 |
+| The Last Stand - This Time For Real! | 1.00% | ~1 |
 | Hard Work | 0.00% | ~0 |
 | The Ascent | 0.00% | ~0 |
 | Pure Dynamite! | 0.00% | ~0 |
@@ -66,9 +66,9 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58 (Ranked 459)  
+Progressed: 67 (Ranked 448)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2023-11-09 | 58 | 0 |
+| 2023-11-09 | 67 | 0 |

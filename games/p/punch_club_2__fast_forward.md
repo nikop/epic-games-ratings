@@ -33,7 +33,7 @@
 | Fight for life | 59.00% | ~199 |
 | Little hacker | 59.00% | ~199 |
 | Intriguing candies | 59.00% | ~199 |
-| Legal courier | 56.00% | ~189 |
+| Legal courier | 57.00% | ~193 |
 | Extreme neuropower! | 55.00% | ~186 |
 | Escaped from a big trouble | 53.00% | ~179 |
 | Now you are worthy | 50.00% | ~169 |
@@ -43,8 +43,8 @@
 | No blades in the gym | 46.00% | ~155 |
 | Champion – no way back | 44.00% | ~149 |
 | Underground dwellers | 43.00% | ~145 |
+| Responsible approach | 43.00% | ~145 |
 | Deal with life | 42.00% | ~142 |
-| Responsible approach | 42.00% | ~142 |
 | Mom got better | 41.00% | ~139 |
 | GYM professional | 41.00% | ~139 |
 | Poisoned fighter | 41.00% | ~139 |

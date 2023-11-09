@@ -5,7 +5,7 @@ Rating: 4.25 (Ranked 873)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,751 |
+| Rigged And Ready | 80.00% | ~1,752 |
 | Don't I Know You...? | 76.00% | ~1,664 |
 | Jailbreak | 66.00% | ~1,445 |
 | HEADSHOT! | 38.00% | ~832 |
@@ -14,8 +14,8 @@ Rating: 4.25 (Ranked 873)
 | Overheated | 30.00% | ~657 |
 | High Performance | 30.00% | ~657 |
 | Powered Up | 28.00% | ~613 |
-| Studied The Blade | 25.00% | ~547 |
-| Home Invasion | 23.00% | ~503 |
+| Studied The Blade | 25.00% | ~548 |
+| Home Invasion | 23.00% | ~504 |
 | Luminary | 22.00% | ~482 |
 | It's a Trap | 22.00% | ~482 |
 | True Survivor | 21.00% | ~460 |
@@ -35,9 +35,9 @@ Rating: 4.25 (Ranked 873)
 | Marked For Success | 12.00% | ~263 |
 | Where It All Began | 12.00% | ~263 |
 | Sorry, Didn't See You There | 12.00% | ~263 |
-| Stimulating The Local Economy | 10.00% | ~219 |
 | Triplets | 10.00% | ~219 |
 | Denying Prophecy | 9.00% | ~197 |
+| Stimulating The Local Economy | 9.00% | ~197 |
 | A Little Banged Up | 8.00% | ~175 |
 | Defense in Depth | 8.00% | ~175 |
 | Reverse Engineering | 7.00% | ~153 |
@@ -46,10 +46,10 @@ Rating: 4.25 (Ranked 873)
 | Remote Surgery | 6.00% | ~131 |
 | Turbo Booster | 6.00% | ~131 |
 | Squid Pro Quo | 6.00% | ~131 |
-| Hello Darkness My Old Friend | 5.00% | ~109 |
-| Counter-Sniper | 5.00% | ~109 |
-| Shrimp Cocktail | 5.00% | ~109 |
-| Juiced Up | 5.00% | ~109 |
+| Hello Darkness My Old Friend | 5.00% | ~110 |
+| Counter-Sniper | 5.00% | ~110 |
+| Shrimp Cocktail | 5.00% | ~110 |
+| Juiced Up | 5.00% | ~110 |
 | Geronimo! | 4.00% | ~88 |
 | Homewrecker | 4.00% | ~88 |
 | Plank of Wood | 4.00% | ~88 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 873)
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,189 (Ranked 215)  
+Progressed: 2,190 (Ranked 215)  
 Completed: 13 (0.59%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,7 +217,7 @@ Completed: 13 (0.59%) (Ranked 180)
 | 2023-11-06 | 2,174 | 13 |
 | 2023-11-07 | 2,187 | 13 |
 | 2023-11-08 | 2,188 | 13 |
-| 2023-11-09 | 2,189 | 13 |
+| 2023-11-09 | 2,190 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

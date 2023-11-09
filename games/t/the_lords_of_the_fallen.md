@@ -5,7 +5,7 @@ Rating: 4.20 (Ranked 909)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Comrades | 0.50% | ~7 |
+| Comrades | 0.50% | ~8 |
 | A Veil Lifted | 0.40% | ~6 |
 | Shared Triumph | 0.40% | ~6 |
 | No Mercy | 0.40% | ~6 |
@@ -18,58 +18,58 @@ Rating: 4.20 (Ranked 909)
 | Ammunition Collector | 0.20% | ~3 |
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
-| Wayfarer | 0.10% | ~1 |
-| Ironclad | 0.10% | ~1 |
-| Trinket Collector | 0.10% | ~1 |
-| Inferno Adept | 0.10% | ~1 |
-| Radiant Adept | 0.10% | ~1 |
-| Umbral Adept | 0.10% | ~1 |
-| Salvation in Blood | 0.10% | ~1 |
-| Honed to Perfection | 0.10% | ~1 |
-| Rune Novice | 0.10% | ~1 |
-| Rune Master | 0.10% | ~1 |
-| Carving Out Victory | 0.10% | ~1 |
-| Utmost Insight | 0.10% | ~1 |
-| Vengeance for the Fallen | 0.10% | ~1 |
-| Infernal Offerings | 0.10% | ~1 |
-| Radiant Offerings | 0.10% | ~1 |
-| Umbral Offerings | 0.10% | ~1 |
-| Rise and Fall | 0.10% | ~1 |
-| Together in Death | 0.10% | ~1 |
-| Burying the Past | 0.10% | ~1 |
-| Unwanted | 0.10% | ~1 |
-| Unbroken to the End | 0.10% | ~1 |
-| Wings of Grief | 0.10% | ~1 |
-| Twin Faces of Sin | 0.10% | ~1 |
-| Judgement | 0.10% | ~1 |
-| Hunt's End | 0.10% | ~1 |
-| The King is Dead | 0.10% | ~1 |
-| A Hunger Sated | 0.10% | ~1 |
-| Fallen | 0.10% | ~1 |
-| None Shall be Spared | 0.10% | ~1 |
-| The Price of Knowledge | 0.10% | ~1 |
-| Part of the Divine | 0.10% | ~1 |
-| Travels Resumed | 0.10% | ~1 |
-| Moving On | 0.10% | ~1 |
-| Hero Worship | 0.10% | ~1 |
-| Antanas' Legacy | 0.10% | ~1 |
-| Faithful | 0.10% | ~1 |
-| Without Purpose | 0.10% | ~1 |
-| A Queen's Rest | 0.10% | ~1 |
-| The Last Step | 0.10% | ~1 |
-| Vengeful Reflection | 0.10% | ~1 |
-| Lord of the Risen | 0.10% | ~1 |
-| In Light we Walk | 0.10% | ~1 |
-| Back to the Void | 0.10% | ~1 |
-| A Shadow Dispelled | 0.10% | ~1 |
-| Essence of Death | 0.10% | ~1 |
-| Seasoned | 0.10% | ~1 |
-| Lord of the Fallen | 0.10% | ~1 |
-| Lingering Moments | 0.10% | ~1 |
-| A Rest Among the Dead | 0.10% | ~1 |
-| A Trace of Venom | 0.10% | ~1 |
+| Wayfarer | 0.10% | ~2 |
+| Ironclad | 0.10% | ~2 |
+| Trinket Collector | 0.10% | ~2 |
+| Inferno Adept | 0.10% | ~2 |
+| Radiant Adept | 0.10% | ~2 |
+| Umbral Adept | 0.10% | ~2 |
+| Salvation in Blood | 0.10% | ~2 |
+| Honed to Perfection | 0.10% | ~2 |
+| Rune Novice | 0.10% | ~2 |
+| Rune Master | 0.10% | ~2 |
+| Carving Out Victory | 0.10% | ~2 |
+| Utmost Insight | 0.10% | ~2 |
+| Vengeance for the Fallen | 0.10% | ~2 |
+| Infernal Offerings | 0.10% | ~2 |
+| Radiant Offerings | 0.10% | ~2 |
+| Umbral Offerings | 0.10% | ~2 |
+| Rise and Fall | 0.10% | ~2 |
+| Together in Death | 0.10% | ~2 |
+| Burying the Past | 0.10% | ~2 |
+| Unwanted | 0.10% | ~2 |
+| Unbroken to the End | 0.10% | ~2 |
+| Wings of Grief | 0.10% | ~2 |
+| Twin Faces of Sin | 0.10% | ~2 |
+| Judgement | 0.10% | ~2 |
+| Hunt's End | 0.10% | ~2 |
+| The King is Dead | 0.10% | ~2 |
+| A Hunger Sated | 0.10% | ~2 |
+| Fallen | 0.10% | ~2 |
+| None Shall be Spared | 0.10% | ~2 |
+| The Price of Knowledge | 0.10% | ~2 |
+| Part of the Divine | 0.10% | ~2 |
+| Travels Resumed | 0.10% | ~2 |
+| Moving On | 0.10% | ~2 |
+| Hero Worship | 0.10% | ~2 |
+| Antanas' Legacy | 0.10% | ~2 |
+| Faithful | 0.10% | ~2 |
+| Without Purpose | 0.10% | ~2 |
+| A Queen's Rest | 0.10% | ~2 |
+| The Last Step | 0.10% | ~2 |
+| Vengeful Reflection | 0.10% | ~2 |
+| Lord of the Risen | 0.10% | ~2 |
+| In Light we Walk | 0.10% | ~2 |
+| Back to the Void | 0.10% | ~2 |
+| A Shadow Dispelled | 0.10% | ~2 |
+| Essence of Death | 0.10% | ~2 |
+| Seasoned | 0.10% | ~2 |
+| Lord of the Fallen | 0.10% | ~2 |
+| Lingering Moments | 0.10% | ~2 |
+| A Rest Among the Dead | 0.10% | ~2 |
+| A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,498 (Ranked 234)  
+Progressed: 1,500 (Ranked 234)  
 Completed: 1 (0.07%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.07%) (Ranked 286)
 | 2023-11-06 | 1,460 | 1 |
 | 2023-11-07 | 1,466 | 1 |
 | 2023-11-08 | 1,486 | 1 |
-| 2023-11-09 | 1,498 | 1 |
+| 2023-11-09 | 1,500 | 1 |
 ## Awards
 Max (Character Customization): 143  (Ranked 320)  
 Sum: 244 (Ranked 381)  

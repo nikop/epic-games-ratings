@@ -22,7 +22,7 @@ Rating: 4.19 (Ranked 916)
 | Crash Site | 5.00% | ~821 |
 | Full Circle | 5.00% | ~821 |
 | Power Up | 5.00% | ~821 |
-| Keep Fighting | 5.00% | ~217 |
+| Keep Fighting | 5.00% | ~218 |
 | Giving Back | 4.00% | ~657 |
 | You Need a Gun | 4.00% | ~657 |
 | I Do Belong Here | 4.00% | ~657 |
@@ -31,7 +31,7 @@ Rating: 4.19 (Ranked 916)
 | The Commonality | 3.00% | ~493 |
 | In Striking Distance | 2.00% | ~328 |
 | One Last Job | 2.00% | ~87 |
-| This Isn't About Escape | 1.00% | ~43 |
+| This Isn't About Escape | 1.00% | ~44 |
 | Big Spender | 0.90% | ~39 |
 | Armed to the Teeth | 0.80% | ~35 |
 | Information Overload | 0.80% | ~35 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 916)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,423 (Ranked 143)  
+Progressed: 16,424 (Ranked 143)  
 Completed: 79 (0.48%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 79 (0.48%) (Ranked 196)
 | 2023-11-06 | 16,412 | 79 |
 | 2023-11-07 | 16,414 | 79 |
 | 2023-11-08 | 16,420 | 79 |
-| 2023-11-09 | 16,423 | 79 |
+| 2023-11-09 | 16,424 | 79 |
 ## Awards
 Max (Highly Recommended): 82  (Ranked 385)  
 Sum: 477 (Ranked 326)  

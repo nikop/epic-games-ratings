@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -885,7 +885,7 @@
   ],
   "EOS_Progressed": 6467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9783,9 +9783,9 @@
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 65
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -10102,8 +10102,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-07T23:00:55.7232721+00:00",
-  "LastChanged_Achievements": "2023-11-09T21:09:04.0126245+00:00",
+  "LastChanged_Achievements": "2023-11-09T22:11:58.6014446+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-09T21:01:08.9351774+00:00",
-  "LastUpdate_Achievements": "2023-11-09T21:09:04.0127138+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:04:22.9176791+00:00",
+  "LastUpdate_Achievements": "2023-11-09T22:11:58.6015503+00:00"
 }

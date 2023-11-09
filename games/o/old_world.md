@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 314)  
+Rating: 4.65 (Ranked 313)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -140,13 +140,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.60% | ~91 |
 | Adur Burzen-Mihr | 0.60% | ~91 |
 | Learn to Play 5 | 0.60% | ~91 |
+| Cataphract Archer | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
 | Carthage - Ox Hide | 0.50% | ~76 |
 | Old | 0.50% | ~76 |
 | Peacemaker | 0.50% | ~76 |
 | Old World Order | 0.50% | ~76 |
 | Ten Crowns | 0.50% | ~76 |
-| Cataphract Archer | 0.50% | ~76 |
 | No Undo | 0.50% | ~76 |
 | Kush | 0.50% | ~76 |
 | Beja Archer | 0.50% | ~76 |

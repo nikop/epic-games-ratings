@@ -2,10 +2,10 @@
   "ID": "b5067143ff63434e9c902de3ffd197f6",
   "Name": "Backrooms: Realm of Shadows",
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
-  "Ranking_EOS_Progress": 165,
+  "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8260,
+  "EOS_Progressed": 8270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1508,
+  "EOS_NewPlayers": 1504,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4754,6 +4754,11 @@
       "Time": "2023-11-09T21:05:37.6007344+00:00",
       "NumProgressed": 8260,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T22:08:25.9599844+00:00",
+      "NumProgressed": 8270,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -4854,7 +4859,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -4862,7 +4867,7 @@
       "Name": "Level 0",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2233
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -4870,7 +4875,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -4878,7 +4883,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -4894,7 +4899,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -4910,7 +4915,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -4957,14 +4962,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 8260,
+      "Progressed": 8270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-09T21:05:37.6007337+00:00",
+  "LastChanged_Achievements": "2023-11-09T22:08:25.9599833+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:16.1385723+00:00",
-  "LastUpdate_Ratings": "2023-11-09T21:01:06.0297597+00:00",
-  "LastUpdate_Achievements": "2023-11-09T21:05:37.600809+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:04:19.4808152+00:00",
+  "LastUpdate_Achievements": "2023-11-09T22:08:25.9600318+00:00"
 }

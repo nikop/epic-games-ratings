@@ -13,6 +13,8 @@ Rating: 4.61 (Ranked 385)
 | A Wonderful Discovery | 0.20% | ~11 |
 | Bone Peddler | 0.20% | ~11 |
 | From Friends to Family | 0.20% | ~11 |
+| Magical Synergy | 0.20% | ~11 |
+| Seat of Power | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
 | Mighty Hoard | 0.20% | ~11 |
 | Chaos Surge | 0.20% | ~11 |
@@ -33,9 +35,7 @@ Rating: 4.61 (Ranked 385)
 | Stronger Together | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
-| Magical Synergy | 0.10% | ~5 |
 | My Final Form | 0.10% | ~5 |
-| Seat of Power | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
 | Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |

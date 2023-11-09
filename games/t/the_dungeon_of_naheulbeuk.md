@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,652 |
+| Sowwy! | 35.00% | ~82,654 |
 | Alt+F4 | 8.00% | ~18,892 |
-| Where's that freaking Dwarf? | 7.00% | ~16,530 |
+| Where's that freaking Dwarf? | 7.00% | ~16,531 |
 | Déjà vu | 6.00% | ~14,169 |
-| Sock! SOCK! | 5.00% | ~11,807 |
+| Sock! SOCK! | 5.00% | ~11,808 |
 | A beer, two curses, three companions | 4.00% | ~9,446 |
 | GG EZ | 4.00% | ~9,446 |
 | DM intervention | 4.00% | ~9,446 |
 | Speedrun | 4.00% | ~9,446 |
-| Way of the Wimp | 3.00% | ~7,084 |
-| The plot thickens... At the tavern | 3.00% | ~7,084 |
-| Fireproof Wizardess | 3.00% | ~7,084 |
+| Way of the Wimp | 3.00% | ~7,085 |
+| The plot thickens... At the tavern | 3.00% | ~7,085 |
+| Fireproof Wizardess | 3.00% | ~7,085 |
 | Livin' in a dwarven paradise | 2.00% | ~4,723 |
 | Shiny and Crôm | 2.00% | ~4,723 |
 | The demons' feast | 2.00% | ~4,723 |
@@ -35,14 +35,14 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,723 |
 | Team Building Exercise | 2.00% | ~4,723 |
 | Oh, when I'll be level 10... | 2.00% | ~4,723 |
-| Res Judicata | 1.00% | ~2,361 |
-| Dwarf Fortress | 1.00% | ~2,361 |
-| %#*!$*! | 1.00% | ~2,361 |
-| Look but don't touch | 1.00% | ~2,361 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,361 |
-| Dead for good | 1.00% | ~2,361 |
-| Lust and Debauchery | 1.00% | ~2,361 |
-| Material Girl | 1.00% | ~2,361 |
+| Res Judicata | 1.00% | ~2,362 |
+| Dwarf Fortress | 1.00% | ~2,362 |
+| %#*!$*! | 1.00% | ~2,362 |
+| Look but don't touch | 1.00% | ~2,362 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,362 |
+| Dead for good | 1.00% | ~2,362 |
+| Lust and Debauchery | 1.00% | ~2,362 |
+| Material Girl | 1.00% | ~2,362 |
 | Gargantua | 0.90% | ~2,125 |
 | In Navalu's footsteps | 0.80% | ~1,889 |
 | We come in peace | 0.70% | ~1,653 |
@@ -57,6 +57,7 @@ Number of Ratings: 118  (23.09.2022)
 | The number of the counting shalt be 7 | 0.30% | ~708 |
 | Inception | 0.30% | ~708 |
 | Free customer service | 0.20% | ~472 |
+| Imposture and Trowels | 0.20% | ~472 |
 | Kudos from your DM | 0.20% | ~472 |
 | Insult to injury | 0.20% | ~472 |
 | 100% satisfaction guarantee | 0.20% | ~472 |
@@ -75,7 +76,6 @@ Number of Ratings: 118  (23.09.2022)
 | Elite Adventurers | 0.10% | ~236 |
 | Take your time back in time | 0.10% | ~236 |
 | Egghead | 0.10% | ~236 |
-| Imposture and Trowels | 0.10% | ~236 |
 | Deep changes | 0.10% | ~236 |
 | A broken clock… | 0.10% | ~236 |
 | Sleep schedule mastery | 0.10% | ~236 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,149 (Ranked 61)  
+Progressed: 236,153 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-06 | 235,658 | 7 |
 | 2023-11-07 | 235,846 | 7 |
 | 2023-11-08 | 235,997 | 7 |
-| 2023-11-09 | 236,149 | 7 |
+| 2023-11-09 | 236,153 | 7 |
 ## Awards
 Max (Character Customization): 227  (Ranked 271)  
 Sum: 455 (Ranked 329)  

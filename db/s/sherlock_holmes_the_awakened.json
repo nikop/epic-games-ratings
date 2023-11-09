@@ -3262,9 +3262,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 297
     },
     {
       "ID": "MQ08_2",
@@ -3303,8 +3303,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-05T09:59:32.7817162+00:00",
-  "LastChanged_Achievements": "2023-11-09T21:07:09.5348742+00:00",
+  "LastChanged_Achievements": "2023-11-09T22:10:11.0195984+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:56.8261686+00:00",
-  "LastUpdate_Ratings": "2023-11-09T20:03:13.1288109+00:00",
-  "LastUpdate_Achievements": "2023-11-09T21:07:09.5349261+00:00"
+  "LastUpdate_Ratings": "2023-11-09T21:57:20.8500214+00:00",
+  "LastUpdate_Achievements": "2023-11-09T22:10:11.0196407+00:00"
 }

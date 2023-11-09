@@ -9,9 +9,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 4.00% | ~5,554 |
 | Basic in Bulk | 4.00% | ~5,554 |
 | Titan's First Steps | 4.00% | ~5,554 |
-| Disintermediation | 3.00% | ~4,165 |
-| Tinkle of Coins | 3.00% | ~4,165 |
-| Capitalism Ho! | 3.00% | ~4,165 |
+| Disintermediation | 3.00% | ~4,166 |
+| Tinkle of Coins | 3.00% | ~4,166 |
+| Capitalism Ho! | 3.00% | ~4,166 |
 | The Daily Grind | 2.00% | ~2,777 |
 | One Easy Payment | 2.00% | ~2,777 |
 | Some Assembly Required | 2.00% | ~2,777 |
@@ -25,26 +25,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 2.00% | ~2,777 |
 | Through Repetition, Perfection | 2.00% | ~2,777 |
 | Own the Means of Production | 2.00% | ~2,777 |
-| On the Path to Greatness | 1.00% | ~1,388 |
-| Ascended | 1.00% | ~1,388 |
-| Research & Development | 1.00% | ~1,388 |
-| Vanity, Verily | 1.00% | ~1,388 |
-| Fated Encounters | 1.00% | ~1,388 |
-| Blank Page Syndrome | 1.00% | ~1,388 |
-| Demand for Supplies | 1.00% | ~1,388 |
-| Where it Hurts | 1.00% | ~1,388 |
-| Power of Love | 1.00% | ~1,388 |
-| Efficient Floor Space | 1.00% | ~1,388 |
-| Flawless Fusion | 1.00% | ~1,388 |
-| Gem Expert | 1.00% | ~1,388 |
-| Gild-Gotten Goods | 1.00% | ~1,388 |
-| Royal Ransom | 1.00% | ~1,388 |
-| Helping Hand | 1.00% | ~1,388 |
-| Accomplished Merchant | 1.00% | ~1,388 |
-| Natural 20 | 1.00% | ~1,388 |
-| Did we pack lunch? | 1.00% | ~1,388 |
-| Magical Harmony | 1.00% | ~1,388 |
-| Arcane Industries | 1.00% | ~1,388 |
+| On the Path to Greatness | 1.00% | ~1,389 |
+| Ascended | 1.00% | ~1,389 |
+| Research & Development | 1.00% | ~1,389 |
+| Vanity, Verily | 1.00% | ~1,389 |
+| Fated Encounters | 1.00% | ~1,389 |
+| Blank Page Syndrome | 1.00% | ~1,389 |
+| Demand for Supplies | 1.00% | ~1,389 |
+| Where it Hurts | 1.00% | ~1,389 |
+| Power of Love | 1.00% | ~1,389 |
+| Efficient Floor Space | 1.00% | ~1,389 |
+| Flawless Fusion | 1.00% | ~1,389 |
+| Gem Expert | 1.00% | ~1,389 |
+| Gild-Gotten Goods | 1.00% | ~1,389 |
+| Royal Ransom | 1.00% | ~1,389 |
+| Helping Hand | 1.00% | ~1,389 |
+| Accomplished Merchant | 1.00% | ~1,389 |
+| Natural 20 | 1.00% | ~1,389 |
+| Did we pack lunch? | 1.00% | ~1,389 |
+| Magical Harmony | 1.00% | ~1,389 |
+| Arcane Industries | 1.00% | ~1,389 |
 | Tax not Included | 0.90% | ~1,250 |
 | For the Hoard! | 0.90% | ~1,250 |
 | Scrapbooker | 0.90% | ~1,250 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,842 (Ranked 79)  
+Progressed: 138,851 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 180 (0.13%) (Ranked 257)
 | 2023-11-06 | 138,721 | 178 |
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
-| 2023-11-09 | 138,842 | 180 |
+| 2023-11-09 | 138,851 | 180 |
 ## Awards
 Max (Great for Beginners): 4,822  (Ranked 74)  
 Sum: 27,516 (Ranked 52)  

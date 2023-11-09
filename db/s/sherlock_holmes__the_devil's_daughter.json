@@ -2,13 +2,13 @@
   "ID": "cinnamon",
   "Name": "Sherlock Holmes: The Devil\u0027s Daughter",
   "ProductSlug": "sherlock-holmes-the-devils-daughter",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-06-25T15:00:00+00:00",
     "PcReleaseDate": "2016-06-10T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "NumberOfRatings": 56,
   "RatingHistory": [
     {
@@ -282,6 +282,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-09T22:05:07.0034402+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -299,8 +305,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:15.2288345+00:00",
-  "LastChanged": "2023-11-03T20:59:42.2320654+00:00",
+  "LastChanged": "2023-11-09T22:05:07.0034399+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:32.2395091+00:00",
-  "LastUpdate_Ratings": "2023-11-09T21:02:47.9853727+00:00",
-  "LastUpdate_Achievements": "2023-11-09T21:09:11.3665856+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:05:07.0034406+00:00",
+  "LastUpdate_Achievements": "2023-11-09T22:12:06.663883+00:00"
 }

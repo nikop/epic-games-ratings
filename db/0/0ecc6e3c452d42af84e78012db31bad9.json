@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3915,
+  "EOS_Progressed": 3916,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -9489,6 +9489,11 @@
       "Time": "2023-11-09T20:06:41.034971+00:00",
       "NumProgressed": 3915,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-09T22:09:00.5671393+00:00",
+      "NumProgressed": 3916,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -9572,7 +9577,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "ach_food_completed",
@@ -9588,7 +9593,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "ach_game_opened",
@@ -9596,7 +9601,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2936
+      "UsersEstimate": 2937
     },
     {
       "ID": "ach_magic_wand",
@@ -9604,7 +9609,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1175
     },
     {
       "ID": "ach_no_boosters",
@@ -9627,14 +9632,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3915,
+      "Progressed": 3916,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-09T21:06:08.3108205+00:00",
+  "LastChanged_Achievements": "2023-11-09T22:09:00.5671143+00:00",
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.1990735+00:00",
-  "LastUpdate_Ratings": "2023-11-09T21:01:23.9173533+00:00",
-  "LastUpdate_Achievements": "2023-11-09T21:06:08.310939+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:04:39.5856506+00:00",
+  "LastUpdate_Achievements": "2023-11-09T22:09:00.5672707+00:00"
 }

@@ -11,11 +11,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 0.20% | ~479 |
 | Nothing To Lose | 0.20% | ~479 |
 | Heavy Hitter | 0.20% | ~479 |
+| Delving Deeper | 0.20% | ~479 |
 | Getting A Glimpse | 0.20% | ~479 |
 | That Was Quick | 0.20% | ~479 |
 | Colorful Corpse | 0.20% | ~479 |
 | Defeat The Dark | 0.20% | ~479 |
 | Goodbye, Frog Friend | 0.20% | ~479 |
+| Heartless | 0.20% | ~479 |
 | A Donation | 0.20% | ~479 |
 | C-C-Combo | 0.20% | ~479 |
 | Deflection | 0.20% | ~479 |
@@ -34,7 +36,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Shadow Spreads | 0.10% | ~239 |
 | Challenge Increases | 0.10% | ~239 |
 | Max Damage! | 0.10% | ~239 |
-| Delving Deeper | 0.10% | ~239 |
 | A Long Climb | 0.10% | ~239 |
 | A Rough Road | 0.10% | ~239 |
 | Hydrophobe | 0.10% | ~239 |
@@ -79,7 +80,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Overthrown | 0.10% | ~239 |
 | All Consuming | 0.10% | ~239 |
 | Poor Choices | 0.10% | ~239 |
-| Heartless | 0.10% | ~239 |
 | What's Yours Is Mine | 0.10% | ~239 |
 | Stop Hitting Yourself | 0.10% | ~239 |
 | Not What I Meant | 0.10% | ~239 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,423 (Ranked 60)  
+Progressed: 239,427 (Ranked 60)  
 Completed: 287 (0.12%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 287 (0.12%) (Ranked 264)
 | 2023-11-06 | 239,288 | 286 |
 | 2023-11-07 | 239,335 | 286 |
 | 2023-11-08 | 239,386 | 287 |
-| 2023-11-09 | 239,423 | 287 |
+| 2023-11-09 | 239,427 | 287 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 130)  
 Sum: 11,663 (Ranked 83)  

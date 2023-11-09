@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | Break Out | 59.00% | ~103 |
 | Trinity | 33.00% | ~57 |
+| A Taste of Wrath | 26.00% | ~45 |
 | I Found It | 26.00% | ~45 |
 | The Collector | 26.00% | ~45 |
 | Find Allies | 25.00% | ~44 |
-| A Taste of Wrath | 25.00% | ~44 |
 | Shatter Them All | 25.00% | ~44 |
 | Geared Up | 25.00% | ~44 |
 | Fashion Victim | 25.00% | ~44 |
@@ -21,7 +21,7 @@
 | Essence Blow | 11.00% | ~19 |
 | Big Bazar | 11.00% | ~19 |
 | Alchemist | 11.00% | ~19 |
-| The Mentor | 8.00% | ~14 |
+| The Mentor | 9.00% | ~16 |
 | Airborne | 8.00% | ~14 |
 | Miner | 8.00% | ~14 |
 | Flawless Victory | 6.00% | ~10 |

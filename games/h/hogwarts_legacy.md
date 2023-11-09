@@ -5,12 +5,12 @@ Rating: 4.76 (Ranked 124)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,283 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,284 |
 | First Class Student | 14.00% | ~42,248 |
 | Troll with the Punches | 14.00% | ~42,248 |
 | A Keen Sense of Spell | 13.00% | ~39,230 |
-| A Talent for Spending | 12.00% | ~36,212 |
-| That's a Keeper | 12.00% | ~36,212 |
+| A Talent for Spending | 12.00% | ~36,213 |
+| That's a Keeper | 12.00% | ~36,213 |
 | Grappling with a Graphorn | 11.00% | ~33,195 |
 | The One Who Mastered Memories | 11.00% | ~33,195 |
 | The Hallowed Hero | 11.00% | ~33,195 |
@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 124)
 | Challenge Accepted | 10.00% | ~30,177 |
 | Followed the Butterflies | 10.00% | ~30,177 |
 | Rising From the Ashes | 10.00% | ~30,177 |
-| The Spell Master | 9.00% | ~27,159 |
+| The Spell Master | 9.00% | ~27,160 |
 | The Avenging Gazelle | 8.00% | ~24,142 |
 | Beast Friends | 8.00% | ~24,142 |
 | A Sallow Grave | 8.00% | ~24,142 |
@@ -30,9 +30,9 @@ Rating: 4.76 (Ranked 124)
 | The Root of the Problem | 6.00% | ~18,106 |
 | Third Time's a Charm | 6.00% | ~18,106 |
 | Raising Expectations | 6.00% | ~18,106 |
-| The Toast of the Town | 5.00% | ~15,088 |
-| The Gryffindor in the Graveyard | 5.00% | ~15,088 |
-| The Ends Petrify the Means | 5.00% | ~15,088 |
+| The Toast of the Town | 5.00% | ~15,089 |
+| The Gryffindor in the Graveyard | 5.00% | ~15,089 |
+| The Ends Petrify the Means | 5.00% | ~15,089 |
 | Going Through the Potions | 4.00% | ~12,071 |
 | Room with a View | 4.00% | ~12,071 |
 | The Intrepid Explorer | 4.00% | ~12,071 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 124)
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,769 (Ranked 50)  
+Progressed: 301,773 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 505 (0.17%) (Ranked 251)
 | 2023-11-06 | 301,400 | 502 |
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
-| 2023-11-09 | 301,769 | 505 |
+| 2023-11-09 | 301,773 | 505 |
 ## Awards
 Max (Character Customization): 24,144  (Ranked 17)  
 Sum: 47,744 (Ranked 30)  

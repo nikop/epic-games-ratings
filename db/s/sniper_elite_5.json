@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3842,
+  "EOS_Progressed": 3843,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7782,6 +7782,11 @@
       "Time": "2023-11-09T20:08:31.8035848+00:00",
       "NumProgressed": 3842,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-09T22:10:35.0150394+00:00",
+      "NumProgressed": 3843,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7945,7 +7950,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -7961,7 +7966,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8017,7 +8022,7 @@
       "Name": "Resourceful",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -8105,7 +8110,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1306
+      "UsersEstimate": 1307
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -8185,7 +8190,7 @@
       "Name": "Target America",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -8201,7 +8206,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8360,13 +8365,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3793,
+      "Progressed": 3794,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3842,
+      "Progressed": 3843,
       "Completed": 11
     }
   ],
@@ -8374,8 +8379,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-09T21:07:30.5717693+00:00",
+  "LastChanged_Achievements": "2023-11-09T22:10:35.0150384+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-09T20:59:31.1225062+00:00",
-  "LastUpdate_Achievements": "2023-11-09T21:07:30.5720084+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:02:21.8919892+00:00",
+  "LastUpdate_Achievements": "2023-11-09T22:10:35.0151918+00:00"
 }

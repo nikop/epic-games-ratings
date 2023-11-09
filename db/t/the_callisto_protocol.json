@@ -1457,7 +1457,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16423,
+  "EOS_Progressed": 16424,
   "EOS_Completed": 79,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 1,
@@ -8852,6 +8852,11 @@
       "Time": "2023-11-09T18:04:24.1139334+00:00",
       "NumProgressed": 16423,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-09T22:06:34.6005366+00:00",
+      "NumProgressed": 16424,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -9199,7 +9204,7 @@
       "Name": "This Isn\u0027t About Escape",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "FINISH_DLC4",
@@ -9215,7 +9220,7 @@
       "Name": "Keep Fighting",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -9238,13 +9243,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16423,
+      "Progressed": 16424,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4349,
+      "Progressed": 4350,
       "Completed": 29
     }
   ],
@@ -9252,8 +9257,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-08T17:02:45.4793564+00:00",
-  "LastChanged_Achievements": "2023-11-09T21:04:01.725985+00:00",
+  "LastChanged_Achievements": "2023-11-09T22:06:34.6005355+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:14.0432207+00:00",
-  "LastUpdate_Ratings": "2023-11-09T21:02:42.1225783+00:00",
-  "LastUpdate_Achievements": "2023-11-09T21:04:01.7261307+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:05:00.0666968+00:00",
+  "LastUpdate_Achievements": "2023-11-09T22:06:34.6006395+00:00"
 }

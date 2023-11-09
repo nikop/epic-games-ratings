@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~536,889 |
-| Every story has a beginning | 36.00% | ~244,658 |
-| The first of many | 31.00% | ~210,678 |
-| Positive word of mouth | 18.00% | ~122,329 |
-| Lawn in the U.S.A. | 15.00% | ~101,941 |
+| The dream begins | 79.00% | ~536,897 |
+| Every story has a beginning | 36.00% | ~244,662 |
+| The first of many | 31.00% | ~210,681 |
+| Positive word of mouth | 18.00% | ~122,331 |
+| Lawn in the U.S.A. | 15.00% | ~101,942 |
 | Blade Runner | 9.00% | ~61,165 |
-| Credible | 7.00% | ~47,572 |
-| Teamwork makes the dream work | 6.00% | ~40,776 |
-| Where there's muck there's brass | 4.00% | ~27,184 |
-| Bigger and better | 4.00% | ~27,184 |
-| Aggressive expansion | 4.00% | ~27,184 |
+| Credible | 7.00% | ~47,573 |
+| Teamwork makes the dream work | 6.00% | ~40,777 |
+| Where there's muck there's brass | 4.00% | ~27,185 |
+| Bigger and better | 4.00% | ~27,185 |
+| Aggressive expansion | 4.00% | ~27,185 |
 | Size isn't everything | 3.00% | ~20,388 |
 | Close shave | 3.00% | ~20,388 |
 | Established | 3.00% | ~20,388 |
@@ -27,11 +27,11 @@ Number of Ratings: 5,086  (23.09.2022)
 | The top of the mountain | 2.00% | ~13,592 |
 | First step on the ladder | 2.00% | ~13,592 |
 | Trusted | 2.00% | ~13,592 |
-| Earn your stripes | 0.90% | ~6,116 |
-| Lawn & Order | 0.90% | ~6,116 |
-| Jack of all trades | 0.90% | ~6,116 |
-| All hands on deck | 0.90% | ~6,116 |
-| Professional | 0.90% | ~6,116 |
+| Earn your stripes | 0.90% | ~6,117 |
+| Lawn & Order | 0.90% | ~6,117 |
+| Jack of all trades | 0.90% | ~6,117 |
+| All hands on deck | 0.90% | ~6,117 |
+| Professional | 0.90% | ~6,117 |
 | The grass is always greener | 0.80% | ~5,437 |
 | Worked your grass off | 0.80% | ~5,437 |
 | Phoenix rises | 0.40% | ~2,718 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~680 |
 | Mo mowers, mo problems | 0.10% | ~680 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679,606 (Ranked 25)  
+Progressed: 679,616 (Ranked 25)  
 Completed: 17 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 17 (0.00%) (Ranked 345)
 | 2023-11-06 | 678,995 | 17 |
 | 2023-11-07 | 679,209 | 17 |
 | 2023-11-08 | 679,407 | 17 |
-| 2023-11-09 | 679,606 | 17 |
+| 2023-11-09 | 679,616 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 297)  
 Sum: 983 (Ranked 262)  

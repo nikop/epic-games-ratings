@@ -10257,9 +10257,9 @@
       "Count": 771
     }
   ],
-  "EOS_Progressed": 301769,
+  "EOS_Progressed": 301773,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1480,
+  "EOS_NewPlayers": 1474,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32112,6 +32112,11 @@
       "Time": "2023-11-09T21:09:20.9761428+00:00",
       "NumProgressed": 301769,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-09T22:12:17.8101193+00:00",
+      "NumProgressed": 301773,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -32123,7 +32128,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48283
+      "UsersEstimate": 48284
     },
     {
       "ID": "PFA_10",
@@ -32211,7 +32216,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15088
+      "UsersEstimate": 15089
     },
     {
       "ID": "PFA_20",
@@ -32307,7 +32312,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36212
+      "UsersEstimate": 36213
     },
     {
       "ID": "PFA_31",
@@ -32387,7 +32392,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15088
+      "UsersEstimate": 15089
     },
     {
       "ID": "PFA_40",
@@ -32403,7 +32408,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15088
+      "UsersEstimate": 15089
     },
     {
       "ID": "PFA_42",
@@ -32427,7 +32432,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27159
+      "UsersEstimate": 27160
     },
     {
       "ID": "PFA_45",
@@ -32467,7 +32472,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36212
+      "UsersEstimate": 36213
     },
     {
       "ID": "PFA_9",
@@ -32482,7 +32487,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301769,
+      "Progressed": 301773,
       "Completed": 505
     }
   ],
@@ -32490,8 +32495,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-09T20:58:38.5048614+00:00",
-  "LastChanged_Achievements": "2023-11-09T21:09:20.9761423+00:00",
+  "LastChanged_Achievements": "2023-11-09T22:12:17.8101183+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-09T20:58:38.5048623+00:00",
-  "LastUpdate_Achievements": "2023-11-09T21:09:20.9763141+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:01:08.0114237+00:00",
+  "LastUpdate_Achievements": "2023-11-09T22:12:17.8103231+00:00"
 }

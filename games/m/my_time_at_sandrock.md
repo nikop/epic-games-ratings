@@ -1,58 +1,58 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 252)  
+Rating: 4.68 (Ranked 253)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 224.00% | ~645 |
-| Iron Chef | 179.00% | ~516 |
-| Greeno-B-Gone | 110.00% | ~317 |
-| Your Especially Earned Trajectory | 89.00% | ~256 |
-| No Mountain Wide Enough | 57.00% | ~164 |
-| On that Grindset | 55.00% | ~158 |
-| Can We Keep It? | 55.00% | ~158 |
-| Pack Mule | 43.00% | ~124 |
-| Diamonds are Forever | 43.00% | ~124 |
-| Yakmel Whisperer | 40.00% | ~115 |
-| My Time Mansion | 39.00% | ~112 |
-| Financially Secure | 39.00% | ~112 |
-| Unboxing | 38.00% | ~109 |
-| Knowledge is Power | 35.00% | ~101 |
-| Big Game Hunter | 35.00% | ~101 |
-| Mole Masher | 35.00% | ~101 |
-| Happier-est Place on Earth | 34.00% | ~98 |
-| Got Served | 34.00% | ~98 |
-| One of the Cool Kids | 34.00% | ~98 |
-| Call Me Fishmael | 34.00% | ~98 |
-| You Don't Win Friends With Salad | 33.00% | ~95 |
-| Better Late than Never | 32.00% | ~92 |
-| What Plants Crave | 31.00% | ~89 |
-| Anti-Santa | 31.00% | ~89 |
-| I Do! | 31.00% | ~89 |
-| Officially Official | 30.00% | ~86 |
-| Chatterbox | 30.00% | ~86 |
-| Finishing Touches | 28.00% | ~81 |
+| Adept Assembler | 223.00% | ~647 |
+| Iron Chef | 178.00% | ~516 |
+| Greeno-B-Gone | 110.00% | ~319 |
+| Your Especially Earned Trajectory | 89.00% | ~258 |
+| No Mountain Wide Enough | 56.00% | ~162 |
+| On that Grindset | 54.00% | ~157 |
+| Can We Keep It? | 54.00% | ~157 |
+| Pack Mule | 43.00% | ~125 |
+| Diamonds are Forever | 43.00% | ~125 |
+| My Time Mansion | 39.00% | ~113 |
+| Financially Secure | 39.00% | ~113 |
+| Yakmel Whisperer | 39.00% | ~113 |
+| Unboxing | 38.00% | ~110 |
+| Knowledge is Power | 35.00% | ~102 |
+| Big Game Hunter | 35.00% | ~102 |
+| Happier-est Place on Earth | 34.00% | ~99 |
+| One of the Cool Kids | 34.00% | ~99 |
+| Mole Masher | 34.00% | ~99 |
+| Call Me Fishmael | 34.00% | ~99 |
+| Got Served | 33.00% | ~96 |
+| You Don't Win Friends With Salad | 33.00% | ~96 |
+| Better Late than Never | 32.00% | ~93 |
+| What Plants Crave | 31.00% | ~90 |
+| Anti-Santa | 31.00% | ~90 |
+| I Do! | 31.00% | ~90 |
+| Chatterbox | 30.00% | ~87 |
+| Finishing Touches | 29.00% | ~84 |
+| Officially Official | 29.00% | ~84 |
 | First Love | 26.00% | ~75 |
-| Panda-kin | 24.00% | ~69 |
-| Jewel of the Eufaula | 23.00% | ~66 |
-| Who Ya Gonna Call...? | 23.00% | ~66 |
-| Builder of the Month | 22.00% | ~63 |
-| Bridging the Gap | 21.00% | ~60 |
-| He Can Spin A Yarn... | 20.00% | ~58 |
+| Panda-kin | 24.00% | ~70 |
+| Jewel of the Eufaula | 23.00% | ~67 |
+| Who Ya Gonna Call...? | 23.00% | ~67 |
+| Builder of the Month | 21.00% | ~61 |
+| Bridging the Gap | 21.00% | ~61 |
+| He Can Spin A Yarn... | 21.00% | ~61 |
+| Martle's Dream | 19.00% | ~55 |
 | Waste Not Want Not | 19.00% | ~55 |
-| Martle's Dream | 18.00% | ~52 |
 | Commissions, commissions...! | 17.00% | ~49 |
 | Elementary, My Dear | 17.00% | ~49 |
 | Lifeline Pipeline | 16.00% | ~46 |
 | Newton | 16.00% | ~46 |
-| Got the Flow Back | 15.00% | ~43 |
-| Kind of a Big Deal | 14.00% | ~40 |
-| Just What I Always Wanted! | 14.00% | ~40 |
-| Do Your Part | 14.00% | ~40 |
+| Got the Flow Back | 15.00% | ~44 |
+| Do Your Part | 14.00% | ~41 |
+| Kind of a Big Deal | 13.00% | ~38 |
+| Just What I Always Wanted! | 13.00% | ~38 |
+| Santa In Training | 12.00% | ~35 |
 | Time Flies | 11.00% | ~32 |
-| Santa In Training | 11.00% | ~32 |
 | It Belongs in a Museum! | 11.00% | ~32 |
 | Sepia Toned Memories | 10.00% | ~29 |
 | Cardistry | 10.00% | ~29 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288 (Ranked 342)  
+Progressed: 290 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

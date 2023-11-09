@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 325,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 305,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 307,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -3934,9 +3934,9 @@
       "ID": "FrequentWarpSurges",
       "SetID": "3jha1np",
       "Name": "Unstable Immaterium",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "FullBarracks",
@@ -4364,8 +4364,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-10-29T02:59:23.6089798+00:00",
-  "LastChanged_Achievements": "2023-11-09T21:09:13.6796424+00:00",
+  "LastChanged_Achievements": "2023-11-09T22:12:09.3171897+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:02.5672969+00:00",
-  "LastUpdate_Ratings": "2023-11-09T20:59:23.1161153+00:00",
-  "LastUpdate_Achievements": "2023-11-09T21:09:13.6797914+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:02:11.4667813+00:00",
+  "LastUpdate_Achievements": "2023-11-09T22:12:09.3172903+00:00"
 }
