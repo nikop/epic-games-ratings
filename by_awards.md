@@ -40,7 +40,7 @@
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 10,605 | 4.78 | 106 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,375 | 4.61 | 385 |
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,949 | 4.58 | 446 |
-| 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,352 | 4.58 | 446 |
+| 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,367 | 4.58 | 446 |
 | 42 | [Control](games/c/control.md) | 8,690 | 4.60 | 412 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,604 | 4.89 | 12 |
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,482 | 4.48 | 622 |
@@ -97,7 +97,7 @@
 | 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,147 | 4.50 | 587 |
 | 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,135 | 4.35 | 793 |
 | 97 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 2,977 | 4.51 | 565 |
-| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,914 | 4.18 | 925 |
+| 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,917 | 4.18 | 925 |
 | 99 | [Among Us](games/a/among_us.md) | 2,815 | 4.57 | 469 |
 | 100 | [Path of Exile](games/p/path_of_exile.md) | 2,674 | 4.61 | 385 |
 | 101 | [RAGE 2](games/r/rage_2.md) | 2,652 | 4.27 | 857 |
@@ -115,7 +115,7 @@
 | 112 | [The Binding of Isaac: Repentance](games/t/the_binding_of_isaac__repentance.md) | 1,934 | 4.90 | 7 |
 | 114 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,923 | 4.70 | 213 |
 | 115 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 1,817 | 4.56 | 486 |
-| 116 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,815 | 4.50 | 587 |
+| 116 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 1,816 | 4.50 | 587 |
 | 117 | [The Outer Worlds](games/t/the_outer_worlds.md) | 1,797 | 4.63 | 349 |
 | 118 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 1,791 | 4.81 | 80 |
 | 118 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,791 | 4.57 | 469 |
@@ -222,9 +222,9 @@
 | 220 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 428 | 4.73 | 174 |
 | 221 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 426 | 4.55 | 502 |
 | 222 | [Slime Rancher](games/s/slime_rancher.md) | 424 | 4.82 | 64 |
-| 223 | [For The King](games/f/for_the_king.md) | 403 | 4.70 | 213 |
-| 223 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 403 | 4.66 | 292 |
-| 225 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 402 | 4.75 | 144 |
+| 223 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 404 | 4.75 | 144 |
+| 224 | [For The King](games/f/for_the_king.md) | 403 | 4.70 | 213 |
+| 224 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 403 | 4.66 | 292 |
 | 226 | [Nuclear Throne](games/n/nuclear_throne.md) | 399 | 4.79 | 96 |
 | 227 | [Insurgency: Sandstorm](games/i/insurgency__sandstorm.md) | 396 | 4.62 | 366 |
 | 228 | [Severed Steel](games/s/severed_steel.md) | 395 | 4.69 | 230 |

@@ -154,7 +154,7 @@
 | 144 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 795 | 170 |
 | 144 | [The Machines Arena](games/t/the_machines_arena.md) | 4.75 | 0 | 548 |
 | 144 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 548 |
-| 144 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 402 | 225 |
+| 144 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 404 | 223 |
 | 156 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 548 |
 | 156 | [Diabotical](games/d/diabotical.md) | 4.74 | 286 | 256 |
 | 156 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 548 |
@@ -216,7 +216,7 @@
 | 213 | [Fallout 2: A Post Nuclear Role Playing Game](games/f/fallout_2__a_post_nuclear_role_playing_game.md) | 4.70 | 114 | 342 |
 | 213 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 4.70 | 446 | 215 |
 | 213 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 4.70 | 7,872 | 47 |
-| 213 | [For The King](games/f/for_the_king.md) | 4.70 | 403 | 223 |
+| 213 | [For The King](games/f/for_the_king.md) | 4.70 | 403 | 224 |
 | 213 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 4.70 | 1,339 | 135 |
 | 213 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 4.70 | 145 | 319 |
 | 213 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 4.70 | 1,923 | 114 |
@@ -306,7 +306,7 @@
 | 292 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 4.66 | 54 | 418 |
 | 292 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 4.66 | 1,934 | 112 |
 | 292 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 4.66 | 0 | 548 |
-| 292 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 403 | 223 |
+| 292 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 403 | 224 |
 | 292 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,954 | 65 |
 | 292 | [Trackmania](games/t/trackmania.md) | 4.66 | 3,895 | 85 |
 | 292 | [Tropico 6](games/t/tropico_6.md) | 4.66 | 102 | 356 |
@@ -456,7 +456,7 @@
 | 446 | [Journey to the Savage Planet](games/j/journey_to_the_savage_planet.md) | 4.58 | 39 | 456 |
 | 446 | [Little Inferno](games/l/little_inferno.md) | 4.58 | 0 | 548 |
 | 446 | [Moving Out](games/m/moving_out.md) | 4.58 | 21 | 537 |
-| 446 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 9,352 | 41 |
+| 446 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 9,367 | 41 |
 | 446 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,503 | 130 |
 | 446 | [Sonic Origins](games/s/sonic_origins.md) | 4.58 | 128 | 328 |
 | 446 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 216 | 280 |
@@ -586,7 +586,7 @@
 | 565 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.51 | 0 | 548 |
 | 565 | [while True: learn()](games/w/while_true__learn().md) | 4.51 | 137 | 324 |
 | 565 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 4.51 | 28 | 501 |
-| 587 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,815 | 116 |
+| 587 | [A Total War Saga: TROY](games/a/a_total_war_saga__troy.md) | 4.50 | 1,816 | 116 |
 | 587 | [Anno 2070](games/a/anno_2070.md) | 4.50 | 0 | 548 |
 | 587 | [Assassin's Creed® III: Remastered](games/a/assassin's_creed®_iii__remastered.md) | 4.50 | 0 | 548 |
 | 587 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 4.50 | 429 | 219 |
@@ -926,7 +926,7 @@
 | 916 | [Windbound](games/w/windbound.md) | 4.19 | 0 | 548 |
 | 925 | [Call of the Wild: The Angler™](games/c/call_of_the_wild__the_angler™.md) | 4.18 | 36 | 464 |
 | 925 | [Gone Home](games/g/gone_home.md) | 4.18 | 0 | 548 |
-| 925 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,914 | 98 |
+| 925 | [Gotham Knights](games/g/gotham_knights.md) | 4.18 | 2,917 | 98 |
 | 925 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 4.18 | 27 | 505 |
 | 925 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 4.18 | 210,720 | 5 |
 | 925 | [Scavengers](games/s/scavengers.md) | 4.18 | 96 | 363 |
