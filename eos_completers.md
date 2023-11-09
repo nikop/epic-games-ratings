@@ -7,7 +7,7 @@
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.06% |
 | 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 8 | [The Riflemen](games/t/the_riflemen.md) | 36.86% |
+| 8 | [The Riflemen](games/t/the_riflemen.md) | 36.84% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.69% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -74,7 +74,7 @@
 | 72 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 72 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 4.55% |
 | 74 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.54% |
-| 75 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.50% |
+| 75 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.49% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.44% |
 | 77 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 78 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.18% |
@@ -111,8 +111,8 @@
 | 108 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
 | 110 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
 | 111 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 112 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.43% |
-| 113 | [Lamentum](games/l/lamentum.md) | 2.42% |
+| 112 | [Lamentum](games/l/lamentum.md) | 2.42% |
+| 112 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.42% |
 | 114 | [Bloodshore](games/b/bloodshore.md) | 2.40% |
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
@@ -131,7 +131,7 @@
 | 129 | [Night Book](games/n/night_book.md) | 1.68% |
 | 130 | [Five Dates](games/f/five_dates.md) | 1.62% |
 | 131 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.60% |
-| 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.56% |
+| 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.55% |
 | 133 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
 | 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.53% |
 | 135 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.52% |
@@ -144,7 +144,7 @@
 | 142 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
 | 143 | [Chorus](games/c/chorus.md) | 1.34% |
 | 143 | [Poosh XL](games/p/poosh_xl.md) | 1.34% |
-| 145 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.32% |
+| 145 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.31% |
 | 146 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.27% |
 | 147 | [Lemon Cake](games/l/lemon_cake.md) | 1.25% |
 | 147 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
@@ -170,7 +170,7 @@
 | 167 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 169 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.82% |
 | 170 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
-| 171 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.79% |
+| 171 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.80% |
 | 172 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 173 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 174 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |
