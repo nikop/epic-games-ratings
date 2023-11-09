@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 120,195 | 4.69 | 230 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 104,529 | 4.64 | 332 |
 | 10 | [VALORANT](games/v/valorant.md) | 80,402 | 4.52 | 553 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 63,223 | 4.58 | 446 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 63,252 | 4.58 | 446 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 48,493 | 4.61 | 385 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 41,303 | 4.74 | 156 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 39,025 | 4.49 | 606 |
@@ -54,7 +54,7 @@
 | 52 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,345 | 4.74 | 156 |
 | 53 | [Bloons TD 6](games/b/bloons_td_6.md) | 7,247 | 4.77 | 115 |
 | 54 | [Dead Island 2](games/d/dead_island_2.md) | 7,208 | 4.54 | 523 |
-| 55 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,903 | 4.69 | 230 |
+| 55 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,915 | 4.69 | 230 |
 | 56 | [Sifu](games/s/sifu.md) | 6,772 | 4.82 | 64 |
 | 57 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 715 |
 | 58 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,505 | 4.58 | 446 |
@@ -88,7 +88,7 @@
 | 86 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,843 | 4.27 | 857 |
 | 87 | [Paladins](games/p/paladins.md) | 3,802 | 4.32 | 821 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,791 | 4.68 | 252 |
-| 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,691 | 4.46 | 646 |
+| 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,692 | 4.46 | 646 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,570 | 4.47 | 636 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,379 | 4.76 | 124 |
 | 92 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,377 | 4.68 | 252 |
@@ -164,7 +164,7 @@
 | 162 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 850 | 4.69 | 230 |
 | 163 | [Assassin's Creed Unity](games/a/assassin's_creed_unity.md) | 848 | 4.62 | 367 |
 | 164 | [KINGDOM HEARTS HD 1.5+2.5 ReMIX](games/k/kingdom_hearts_hd_1.5+2.5_remix.md) | 844 | 4.82 | 64 |
-| 165 | [Auto Chess](games/a/auto_chess.md) | 836 | 4.52 | 553 |
+| 165 | [Auto Chess](games/a/auto_chess.md) | 838 | 4.52 | 553 |
 | 166 | [Frostpunk](games/f/frostpunk.md) | 834 | 4.74 | 156 |
 | 167 | [The Long Dark](games/t/the_long_dark.md) | 831 | 4.74 | 156 |
 | 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 814 | 4.75 | 144 |
@@ -474,13 +474,13 @@
 | 469 | [MythForce](games/m/mythforce.md) | 35 | 4.49 | 606 |
 | 469 | [Outward Definitive Edition](games/o/outward.md) | 35 | 4.55 | 502 |
 | 469 | [TUNIC](games/t/tunic.md) | 35 | 4.83 | 58 |
+| 475 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 34 | 4.49 | 606 |
 | 475 | [Chorus](games/c/chorus.md) | 34 | 4.46 | 646 |
 | 475 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 34 | 4.63 | 349 |
 | 475 | [DOOM (1993)](games/d/doom_(1993).md) | 34 | 4.82 | 64 |
 | 475 | [Poly Bridge 2](games/p/poly_bridge_2.md) | 34 | 4.54 | 523 |
 | 475 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 34 | 4.65 | 312 |
-| 480 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 33 | 4.49 | 606 |
-| 480 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.20 | 908 |
+| 481 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 33 | 4.20 | 908 |
 | 482 | [Amnesia: Rebirth](games/a/amnesia__rebirth.md) | 32 | 4.24 | 880 |
 | 482 | [Assassin's Creed II Standard Edition](games/a/assassin's_creed_ii_standard_edition.md) | 32 | 4.76 | 124 |
 | 482 | [Blankos Block Party](games/b/blankos_block_party.md) | 32 | 4.21 | 901 |

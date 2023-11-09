@@ -232,7 +232,7 @@
 | 230 | [Bad North](games/b/bad_north.md) | 4.69 | 0 | 548 |
 | 230 | [Borderlands 3](games/b/borderlands_3.md) | 4.69 | 120,195 | 8 |
 | 230 | [Card Shark](games/c/card_shark.md) | 4.69 | 0 | 548 |
-| 230 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,903 | 55 |
+| 230 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 4.69 | 6,915 | 55 |
 | 230 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 4.69 | 5,323 | 71 |
 | 230 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.69 | 5,438 | 70 |
 | 230 | [Fights in Tight Spaces](games/f/fights_in_tight_spaces.md) | 4.69 | 0 | 548 |
@@ -448,7 +448,7 @@
 | 446 | [Amnesia: The Dark Descent](games/a/amnesia__the_dark_descent.md) | 4.58 | 0 | 548 |
 | 446 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 442 |
 | 446 | [Arcade Paradise](games/a/arcade_paradise.md) | 4.58 | 0 | 548 |
-| 446 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 63,223 | 11 |
+| 446 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 63,252 | 11 |
 | 446 | [Assassin's Creed Rogue Standard Edition](games/a/assassin's_creed_rogue_standard_edition.md) | 4.58 | 180 | 299 |
 | 446 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 9,935 | 40 |
 | 446 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 264 | 263 |
@@ -552,7 +552,7 @@
 | 536 | [The Medium](games/t/the_medium.md) | 4.53 | 0 | 548 |
 | 536 | [The Tenants](games/t/the_tenants.md) | 4.53 | 0 | 548 |
 | 536 | [Verdun](games/v/verdun.md) | 4.53 | 106 | 351 |
-| 553 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 836 | 165 |
+| 553 | [Auto Chess](games/a/auto_chess.md) | 4.52 | 838 | 165 |
 | 553 | [For Honor Standard Edition](games/f/for_honor_standard_edition.md) | 4.52 | 0 | 548 |
 | 553 | [Industries of Titan](games/i/industries_of_titan.md) | 4.52 | 0 | 548 |
 | 553 | [Just Die Already](games/j/just_die_already.md) | 4.52 | 107 | 349 |
@@ -605,7 +605,7 @@
 | 587 | [SpellForce 3 Reforced](games/s/spellforce_3_reforced.md) | 4.50 | 0 | 548 |
 | 587 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 4.50 | 3,147 | 95 |
 | 587 | [Tom Clancy's Rainbow Six Extraction](games/t/tom_clancy’s_rainbow_six®_extraction_standard_edition.md) | 4.50 | 176 | 300 |
-| 606 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 33 | 480 |
+| 606 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 4.49 | 34 | 475 |
 | 606 | [Arcadegeddon](games/a/arcadegeddon.md) | 4.49 | 64 | 407 |
 | 606 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 4.49 | 2,011 | 111 |
 | 606 | [Destiny 2](games/d/destiny_2.md) | 4.49 | 39,025 | 14 |
@@ -648,7 +648,7 @@
 | 646 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 4.46 | 0 | 548 |
 | 646 | [Assassin's Creed Chronicles: India](games/a/assassin's_creed_chronicles__india.md) | 4.46 | 0 | 548 |
 | 646 | [Assassin's Creed® I: Director's Cut](games/a/assassin's_creed®_i__director's_cut.md) | 4.46 | 0 | 548 |
-| 646 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,691 | 89 |
+| 646 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4.46 | 3,692 | 89 |
 | 646 | [Blazing Beaks](games/b/blazing_beaks.md) | 4.46 | 0 | 548 |
 | 646 | [Chorus](games/c/chorus.md) | 4.46 | 34 | 475 |
 | 646 | [Faeria](games/f/faeria.md) | 4.46 | 114 | 342 |
@@ -910,7 +910,7 @@
 | 908 | [Aven Colony](games/a/aven_colony.md) | 4.20 | 127 | 329 |
 | 908 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 548 |
 | 908 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 548 |
-| 908 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 480 |
+| 908 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 481 |
 | 908 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 530 |
 | 908 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.20 | 143 | 320 |
 | 908 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.20 | 0 | 548 |

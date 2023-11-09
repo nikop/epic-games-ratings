@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.44% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.07% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 37.06% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.69% |
 | 9 | [greensheen Production](games/g/greensheen_production.md) | 35.71% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
@@ -731,4 +731,4 @@
 | 345 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 345 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 345 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,533 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,534 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
