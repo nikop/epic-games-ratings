@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470580,
+  "EOS_Progressed": 470581,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 496,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21883,6 +21883,11 @@
       "Time": "2023-11-09T07:10:05.0995779+00:00",
       "NumProgressed": 470580,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-09T09:09:39.1671263+00:00",
+      "NumProgressed": 470581,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22078,7 +22083,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 159997
+      "UsersEstimate": 159998
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22318,7 +22323,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207055
+      "UsersEstimate": 207056
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -22350,7 +22355,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183526
+      "UsersEstimate": 183527
     },
     {
       "ID": "achievement_win_run_hard",
@@ -22525,21 +22530,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14514,
+      "Progressed": 14515,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470580,
+      "Progressed": 470581,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-09T08:09:34.2513075+00:00",
+  "LastChanged_Achievements": "2023-11-09T09:09:39.1671259+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.6471409+00:00",
-  "LastUpdate_Ratings": "2023-11-09T07:59:18.9791116+00:00",
-  "LastUpdate_Achievements": "2023-11-09T08:09:34.2514608+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:00:00.5861549+00:00",
+  "LastUpdate_Achievements": "2023-11-09T09:09:39.1672918+00:00"
 }

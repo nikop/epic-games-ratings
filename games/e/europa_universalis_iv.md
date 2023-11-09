@@ -11,6 +11,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Manchurian Candidate | 0.10% | ~450 |
 | A Pile of Gold | 0.10% | ~450 |
 | A Protected Market | 0.10% | ~450 |
+| A Sun God | 0.10% | ~450 |
 | A tale of two Families | 0.10% | ~450 |
 | AAA Credit | 0.10% | ~450 |
 | Absolutely | 0.10% | ~450 |
@@ -161,7 +162,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Hero’s Welcome | 0.00% | ~0 |
-| A Sun God | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
 | AEIOU | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,272 (Ranked 41)  
+Progressed: 450,289 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
-| 2023-11-09 | 450,272 | 1 |
+| 2023-11-09 | 450,289 | 1 |
 ## Awards
 Max (Educational): 6,915  (Ranked 55)  
 Sum: 56,813 (Ranked 24)  

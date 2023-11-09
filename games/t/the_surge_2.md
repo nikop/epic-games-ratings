@@ -5,20 +5,20 @@ Rating: 4.25 (Ranked 873)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,750 |
-| Don't I Know You...? | 76.00% | ~1,663 |
-| Jailbreak | 66.00% | ~1,444 |
-| HEADSHOT! | 38.00% | ~831 |
-| Suited and Booted | 38.00% | ~831 |
+| Rigged And Ready | 80.00% | ~1,751 |
+| Don't I Know You...? | 76.00% | ~1,664 |
+| Jailbreak | 66.00% | ~1,445 |
+| HEADSHOT! | 38.00% | ~832 |
+| Suited and Booted | 38.00% | ~832 |
 | Sleeping With The Fishes | 36.00% | ~788 |
-| Overheated | 30.00% | ~656 |
-| High Performance | 30.00% | ~656 |
+| Overheated | 30.00% | ~657 |
+| High Performance | 30.00% | ~657 |
 | Powered Up | 28.00% | ~613 |
 | Studied The Blade | 25.00% | ~547 |
 | Home Invasion | 23.00% | ~503 |
-| Luminary | 22.00% | ~481 |
-| It's a Trap | 22.00% | ~481 |
-| True Survivor | 21.00% | ~459 |
+| Luminary | 22.00% | ~482 |
+| It's a Trap | 22.00% | ~482 |
+| True Survivor | 21.00% | ~460 |
 | Offensive Defense | 20.00% | ~438 |
 | Shocking | 20.00% | ~438 |
 | Court Martial | 19.00% | ~416 |
@@ -27,10 +27,10 @@ Rating: 4.25 (Ranked 873)
 | Dead Again | 18.00% | ~394 |
 | Full Arsenal | 17.00% | ~372 |
 | Can't Trust Banks | 15.00% | ~328 |
-| Mommy Dearest | 13.00% | ~284 |
-| Bad Dog | 13.00% | ~284 |
-| Risk Tolerant | 13.00% | ~284 |
-| What A Catchy Song | 13.00% | ~284 |
+| Mommy Dearest | 13.00% | ~285 |
+| Bad Dog | 13.00% | ~285 |
+| Risk Tolerant | 13.00% | ~285 |
+| What A Catchy Song | 13.00% | ~285 |
 | Corrupted Beauty | 12.00% | ~263 |
 | Marked For Success | 12.00% | ~263 |
 | Where It All Began | 12.00% | ~263 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 873)
 | Swiss Army Drone | 1.00% | ~22 |
 | The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,188 (Ranked 215)  
+Progressed: 2,189 (Ranked 215)  
 Completed: 13 (0.59%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 13 (0.59%) (Ranked 180)
 | 2023-11-06 | 2,174 | 13 |
 | 2023-11-07 | 2,187 | 13 |
 | 2023-11-08 | 2,188 | 13 |
+| 2023-11-09 | 2,189 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

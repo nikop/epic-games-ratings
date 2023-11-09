@@ -9,7 +9,7 @@ Rating: 4.29 (Ranked 838)
 | A Good Day To Die | 15.00% | ~6,004 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,402 |
 | Right Back Atcha | 6.00% | ~2,402 |
-| Killed by Death | 5.00% | ~2,001 |
+| Killed by Death | 5.00% | ~2,002 |
 | Kill 'Em All | 4.00% | ~1,601 |
 | Down Boy! | 2.00% | ~801 |
 | A Snowball's Chance in Hell | 2.00% | ~801 |
@@ -24,8 +24,8 @@ Rating: 4.29 (Ranked 838)
 | Start As You Mean To Go On | 0.70% | ~280 |
 | Hail the Great Horned Metal God! | 0.70% | ~280 |
 | That'll Come In Handy... | 0.70% | ~280 |
+| Four Legged Friend | 0.50% | ~200 |
 | Oh God, Mother! Blood! Blood! | 0.50% | ~200 |
-| Four Legged Friend | 0.40% | ~160 |
 | Ice To See You | 0.40% | ~160 |
 | Smack My Imp Up | 0.40% | ~160 |
 | Vroll With It | 0.30% | ~120 |
@@ -35,7 +35,7 @@ Rating: 4.29 (Ranked 838)
 | Heart Of Steel | 0.10% | ~40 |
 | Death or Glory | 0.10% | ~40 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 40,028 (Ranked 117)  
+Progressed: 40,030 (Ranked 117)  
 Completed: 26 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 26 (0.06%) (Ranked 290)
 | 2023-11-06 | 39,910 | 26 |
 | 2023-11-07 | 39,965 | 26 |
 | 2023-11-08 | 40,012 | 26 |
-| 2023-11-09 | 40,028 | 26 |
+| 2023-11-09 | 40,030 | 26 |
 ## Awards
 Max (Great Boss Battles): 127  (Ranked 329)  
 Sum: 127 (Ranked 427)  

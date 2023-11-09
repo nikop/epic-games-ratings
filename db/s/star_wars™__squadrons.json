@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18136,
+  "EOS_Progressed": 18139,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2093,
+  "EOS_NewPlayers": 2091,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5944,6 +5944,11 @@
       "Time": "2023-11-09T08:09:33.4627343+00:00",
       "NumProgressed": 18136,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T09:09:38.2412375+00:00",
+      "NumProgressed": 18139,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -5956,7 +5961,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "achievement_10",
@@ -5972,7 +5977,7 @@
       "Name": "Great Shot, Kid",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "achievement_12",
@@ -6004,7 +6009,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 3627
+      "UsersEstimate": 3628
     },
     {
       "ID": "achievement_16",
@@ -6076,7 +6081,7 @@
       "Name": "Back From the Brink",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "achievement_24",
@@ -6180,7 +6185,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 17229
+      "UsersEstimate": 17232
     },
     {
       "ID": "achievement_36",
@@ -6204,7 +6209,7 @@
       "Name": "Temporary Guardian",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "achievement_39",
@@ -6236,7 +6241,7 @@
       "Name": "Baited",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "achievement_42",
@@ -6331,7 +6336,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 18136,
+      "Progressed": 18139,
       "Completed": 1
     }
   ],
@@ -6339,8 +6344,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-09T08:09:33.4627336+00:00",
+  "LastChanged_Achievements": "2023-11-09T09:09:38.2412368+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:57.9109843+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:02:59.4383342+00:00",
-  "LastUpdate_Achievements": "2023-11-09T08:09:33.4628057+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:03:11.4299163+00:00",
+  "LastUpdate_Achievements": "2023-11-09T09:09:38.2413+00:00"
 }

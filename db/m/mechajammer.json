@@ -4,7 +4,7 @@
   "ProductSlug": "mechajammer-abc2dc",
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-12-02T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:56:55.8949366+00:00",
   "LastChanged": "2023-03-31T05:56:55.8949367+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.4241173+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:02:45.2207859+00:00",
-  "LastUpdate_Achievements": "2023-11-09T08:08:29.3325942+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:02:52.9791524+00:00",
+  "LastUpdate_Achievements": "2023-11-09T09:08:11.4303033+00:00"
 }

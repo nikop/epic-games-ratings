@@ -6,21 +6,21 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,753,164 |
-| Easy to forget | 46.00% | ~1,645,827 |
-| Back in the black | 39.00% | ~1,395,375 |
-| That's what I'm talking about | 29.00% | ~1,037,587 |
-| The Best of Both Worlds | 25.00% | ~894,471 |
-| Get your wings | 20.00% | ~715,577 |
+| You need to plug it in... | 49.00% | ~1,753,166 |
+| Easy to forget | 46.00% | ~1,645,829 |
+| Back in the black | 39.00% | ~1,395,377 |
+| That's what I'm talking about | 29.00% | ~1,037,588 |
+| The Best of Both Worlds | 25.00% | ~894,472 |
+| Get your wings | 20.00% | ~715,578 |
 | Double trouble | 16.00% | ~572,462 |
-| Smashing it | 11.00% | ~393,567 |
+| Smashing it | 11.00% | ~393,568 |
 | But can it run Crysis? | 9.00% | ~322,010 |
 | My favourite feature... | 9.00% | ~322,010 |
 | From humble beginnings... | 7.00% | ~250,452 |
 | Customer satisfaction | 7.00% | ~250,452 |
-| Keeping things neat | 4.00% | ~143,115 |
-| Seems you're pretty good at this | 4.00% | ~143,115 |
-| Bending over backwards | 4.00% | ~143,115 |
+| Keeping things neat | 4.00% | ~143,116 |
+| Seems you're pretty good at this | 4.00% | ~143,116 |
+| Bending over backwards | 4.00% | ~143,116 |
 | Triple threat | 3.00% | ~107,337 |
 | You rock at this! | 3.00% | ~107,337 |
 | Your music sucks | 3.00% | ~107,337 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,578 |
 | Treat yourself - GPU | 0.10% | ~3,578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,577,885 (Ranked 5)  
+Progressed: 3,577,890 (Ranked 5)  
 Completed: 37 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 37 (0.00%) (Ranked 345)
 | 2023-11-06 | 3,577,222 | 37 |
 | 2023-11-07 | 3,577,530 | 37 |
 | 2023-11-08 | 3,577,801 | 37 |
-| 2023-11-09 | 3,577,885 | 37 |
+| 2023-11-09 | 3,577,890 | 37 |
 ## Awards
 Max (Great for Beginners): 1,099  (Ranked 143)  
 Sum: 8,115 (Ranked 103)  

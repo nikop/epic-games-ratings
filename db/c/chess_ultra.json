@@ -437,9 +437,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 216861,
+  "EOS_Progressed": 216862,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23467,6 +23467,11 @@
       "Time": "2023-11-09T08:04:40.3236409+00:00",
       "NumProgressed": 216861,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-09T09:05:29.6871015+00:00",
+      "NumProgressed": 216862,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -23534,7 +23539,7 @@
       "Name": "Checkmate",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 65058
+      "UsersEstimate": 65059
     },
     {
       "ID": "ChessChampion",
@@ -23598,7 +23603,7 @@
       "Name": "En Passant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19517
+      "UsersEstimate": 19518
     },
     {
       "ID": "EpauletteMate",
@@ -23781,7 +23786,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 216861,
+      "Progressed": 216862,
       "Completed": 2
     }
   ],
@@ -23789,8 +23794,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-11-06T13:09:15.0359019+00:00",
-  "LastChanged_Achievements": "2023-11-09T08:04:40.3236403+00:00",
+  "LastChanged_Achievements": "2023-11-09T09:05:29.6871002+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.0141074+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:02:40.7497319+00:00",
-  "LastUpdate_Achievements": "2023-11-09T08:04:40.323766+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:02:47.7462863+00:00",
+  "LastUpdate_Achievements": "2023-11-09T09:05:29.6872283+00:00"
 }

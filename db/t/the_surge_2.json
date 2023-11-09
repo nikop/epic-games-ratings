@@ -270,9 +270,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2188,
+  "EOS_Progressed": 2189,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -3115,6 +3115,11 @@
       "Time": "2023-11-08T10:09:23.8319589+00:00",
       "NumProgressed": 2188,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2023-11-09T09:09:14.2221184+00:00",
+      "NumProgressed": 2189,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -3134,7 +3139,7 @@
       "Name": "Jailbreak",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1444
+      "UsersEstimate": 1445
     },
     {
       "ID": "ACHV_03",
@@ -3150,7 +3155,7 @@
       "Name": "Overheated",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACHV_05",
@@ -3182,7 +3187,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACHV_09",
@@ -3190,7 +3195,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACHV_10",
@@ -3262,7 +3267,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ACHV_19",
@@ -3302,7 +3307,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "ACHV_24",
@@ -3326,7 +3331,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "ACHV_27",
@@ -3334,7 +3339,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "ACHV_28",
@@ -3414,7 +3419,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACHV_38",
@@ -3422,7 +3427,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACHV_39",
@@ -3430,7 +3435,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ACHV_40",
@@ -3446,7 +3451,7 @@
       "Name": "Suited and Booted",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "ACHV_42",
@@ -3462,7 +3467,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACHV_44",
@@ -3478,7 +3483,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 481
+      "UsersEstimate": 482
     },
     {
       "ID": "ACHV_46",
@@ -3581,7 +3586,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2188,
+      "Progressed": 2189,
       "Completed": 13
     }
   ],
@@ -3589,8 +3594,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2023-11-09T04:01:40.9959515+00:00",
-  "LastChanged_Achievements": "2023-11-09T08:09:15.4402461+00:00",
+  "LastChanged_Achievements": "2023-11-09T09:09:14.2221179+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:22.6929066+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:00:23.4292475+00:00",
-  "LastUpdate_Achievements": "2023-11-09T08:09:15.4402936+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:01:30.2912262+00:00",
+  "LastUpdate_Achievements": "2023-11-09T09:09:14.2221715+00:00"
 }

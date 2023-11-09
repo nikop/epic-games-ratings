@@ -6,8 +6,8 @@ Rating: 4.02 (Ranked 986)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 88.00% | ~189 |
-| Battlefields Have Memories | 82.00% | ~176 |
-| Enlisted | 79.00% | ~170 |
+| Battlefields Have Memories | 83.00% | ~178 |
+| Enlisted | 80.00% | ~172 |
 | Maybe Engage a Little | 74.00% | ~159 |
 | No More Names | 60.00% | ~129 |
 | Initiate | 48.00% | ~103 |
@@ -19,7 +19,7 @@ Rating: 4.02 (Ranked 986)
 | Beggars Would Ride | 25.00% | ~54 |
 | Control is an Illusion | 24.00% | ~52 |
 | The Means to Save It | 21.00% | ~45 |
-| Resilience to Sin | 18.00% | ~39 |
+| Resilience to Sin | 19.00% | ~41 |
 | A Familiar Nest | 17.00% | ~37 |
 | Periapt Alizarin | 17.00% | ~37 |
 | Geas Aristeya | 16.00% | ~34 |

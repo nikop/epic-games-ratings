@@ -4,7 +4,7 @@
   "ProductSlug": "cave-digger-2-4f2a94",
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -28,9 +28,203 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-09T09:04:33.8853814+00:00",
+  "TotalAchievements": 24,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "b1run",
+      "SetID": "80p8koc",
+      "Name": "Cave Miner",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "b2run",
+      "SetID": "80p8koc",
+      "Name": "Salty Dog",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "b3run",
+      "SetID": "80p8koc",
+      "Name": "Scale Climber",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "b4run",
+      "SetID": "80p8koc",
+      "Name": "Eldritch Horror",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "brain",
+      "SetID": "80p8koc",
+      "Name": "Ending: Change your mind",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "cold",
+      "SetID": "80p8koc",
+      "Name": "Ending: Cold storage",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "comics",
+      "SetID": "80p8koc",
+      "Name": "Well, actually\u2026",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "completionist",
+      "SetID": "80p8koc",
+      "Name": "Completionist",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "dollar",
+      "SetID": "80p8koc",
+      "Name": "Scrooger",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "elevators",
+      "SetID": "80p8koc",
+      "Name": "Elevator Operator",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "enemies",
+      "SetID": "80p8koc",
+      "Name": "Safari",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "errands1",
+      "SetID": "80p8koc",
+      "Name": "Keepin\u2019 Busy",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "errands2",
+      "SetID": "80p8koc",
+      "Name": "MTC MVP",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "escape",
+      "SetID": "80p8koc",
+      "Name": "Ending: Escape the Valley!",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "frogger",
+      "SetID": "80p8koc",
+      "Name": "Ending: Batrachian anurids",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "gems",
+      "SetID": "80p8koc",
+      "Name": "Bejeweled",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "meteor",
+      "SetID": "80p8koc",
+      "Name": "Ending: I Welcome The End",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "money",
+      "SetID": "80p8koc",
+      "Name": "Grinderman",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ores",
+      "SetID": "80p8koc",
+      "Name": "Ore is it?",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "relics",
+      "SetID": "80p8koc",
+      "Name": "Fox the Hunter",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "safe1",
+      "SetID": "80p8koc",
+      "Name": "Riddle Me This",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "safes2",
+      "SetID": "80p8koc",
+      "Name": "167-671",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "topworlds",
+      "SetID": "80p8koc",
+      "Name": "The Great Explorer",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "up",
+      "SetID": "80p8koc",
+      "Name": "Ending: Withering heights",
+      "Percentage": 0,
+      "XP": 40,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "80p8koc",
@@ -40,8 +234,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-03T14:03:12.6851297+00:00",
-  "LastChanged_Achievements": "2023-11-09T08:03:59.1143087+00:00",
+  "LastChanged_Achievements": "2023-11-09T09:04:33.8853805+00:00",
   "LastUpdate_AppInfo": "2023-11-05T16:57:28.352684+00:00",
-  "LastUpdate_Ratings": "2023-11-09T07:58:35.04912+00:00",
-  "LastUpdate_Achievements": "2023-11-09T08:03:59.1143118+00:00"
+  "LastUpdate_Ratings": "2023-11-09T08:59:04.0577848+00:00",
+  "LastUpdate_Achievements": "2023-11-09T09:04:33.9254576+00:00"
 }

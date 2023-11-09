@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -423,9 +423,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5301,
+  "EOS_Progressed": 5302,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6768,6 +6768,11 @@
       "Time": "2023-11-09T07:08:21.9056234+00:00",
       "NumProgressed": 5301,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-09T09:07:54.0264483+00:00",
+      "NumProgressed": 5302,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6897,9 +6902,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "24",
@@ -7258,13 +7263,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5301,
+      "Progressed": 5302,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5301,
+      "Progressed": 5302,
       "Completed": 7
     }
   ],
@@ -7272,8 +7277,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-08T19:59:43.5707761+00:00",
-  "LastChanged_Achievements": "2023-11-09T08:06:25.658022+00:00",
+  "LastChanged_Achievements": "2023-11-09T09:07:54.0264478+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-09T07:59:40.009163+00:00",
-  "LastUpdate_Achievements": "2023-11-09T08:06:25.6580862+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:00:25.9333131+00:00",
+  "LastUpdate_Achievements": "2023-11-09T09:07:54.0265295+00:00"
 }

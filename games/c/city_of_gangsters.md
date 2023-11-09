@@ -60,33 +60,33 @@ Rating: 4.28 (Ranked 847)
 | The Rubber Meets the Road | 1.00% | ~3,515 |
 | Cat’s Meow Clubs | 1.00% | ~3,515 |
 | Stepping It Up | 1.00% | ~3,515 |
-| Determined Deliveries | 0.90% | ~3,163 |
+| Determined Deliveries | 0.90% | ~3,164 |
 | Boots in the Ground | 0.80% | ~2,812 |
 | Getting Fancy | 0.80% | ~2,812 |
 | Crossing Over | 0.80% | ~2,812 |
-| Still Dreaming | 0.50% | ~1,757 |
-| Working on the Railroad | 0.50% | ~1,757 |
-| Social Butterfly | 0.50% | ~1,757 |
+| Still Dreaming | 0.50% | ~1,758 |
+| Working on the Railroad | 0.50% | ~1,758 |
+| Social Butterfly | 0.50% | ~1,758 |
 | Homemade Hooch | 0.40% | ~1,406 |
 | High End Booze | 0.40% | ~1,406 |
 | In-House Maintenance | 0.40% | ~1,406 |
-| Dirty Work | 0.30% | ~1,054 |
-| Bottled Up | 0.30% | ~1,054 |
-| Streetwise | 0.30% | ~1,054 |
+| Dirty Work | 0.30% | ~1,055 |
+| Bottled Up | 0.30% | ~1,055 |
+| Streetwise | 0.30% | ~1,055 |
 | Balkan Firewater | 0.20% | ~703 |
-| Windy City Win | 0.10% | ~351 |
-| Steeling Victory | 0.10% | ~351 |
-| Queen of the City | 0.10% | ~351 |
-| Vehicles to Victory | 0.10% | ~351 |
-| Putting on the Ritz | 0.10% | ~351 |
-| Bourbon Barrels | 0.10% | ~351 |
-| Tied Houses | 0.10% | ~351 |
-| Laying Low | 0.10% | ~351 |
-| No Applesauce | 0.10% | ~351 |
-| High Pillow | 0.10% | ~351 |
-| Station Master | 0.10% | ~351 |
+| Windy City Win | 0.10% | ~352 |
+| Steeling Victory | 0.10% | ~352 |
+| Queen of the City | 0.10% | ~352 |
+| Vehicles to Victory | 0.10% | ~352 |
+| Putting on the Ritz | 0.10% | ~352 |
+| Bourbon Barrels | 0.10% | ~352 |
+| Tied Houses | 0.10% | ~352 |
+| Laying Low | 0.10% | ~352 |
+| No Applesauce | 0.10% | ~352 |
+| High Pillow | 0.10% | ~352 |
+| Station Master | 0.10% | ~352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351,499 (Ranked 47)  
+Progressed: 351,501 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-06 | 351,245 | 7 |
 | 2023-11-07 | 351,352 | 7 |
 | 2023-11-08 | 351,466 | 7 |
-| 2023-11-09 | 351,499 | 7 |
+| 2023-11-09 | 351,501 | 7 |
 ## Awards
 Max (Great for Beginners): 44  (Ranked 447)  
 Sum: 187 (Ranked 405)  

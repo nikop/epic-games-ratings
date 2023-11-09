@@ -2381,9 +2381,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 19432,
+  "EOS_Progressed": 19434,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1662,
+  "EOS_NewPlayers": 1660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8571,6 +8571,11 @@
       "Time": "2023-11-09T08:03:42.4355722+00:00",
       "NumProgressed": 19432,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T09:04:12.3082959+00:00",
+      "NumProgressed": 19434,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8751,7 +8756,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3303
+      "UsersEstimate": 3304
     },
     {
       "ID": "Achievement_Trophy23",
@@ -8759,7 +8764,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "Achievement_Trophy24",
@@ -8767,7 +8772,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8161
+      "UsersEstimate": 8162
     },
     {
       "ID": "Achievement_Trophy25",
@@ -8783,7 +8788,7 @@
       "Name": "Overkill",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 6801
+      "UsersEstimate": 6802
     },
     {
       "ID": "Achievement_Trophy27",
@@ -8823,7 +8828,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6218
+      "UsersEstimate": 6219
     },
     {
       "ID": "Achievement_Trophy32",
@@ -8879,7 +8884,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3303
+      "UsersEstimate": 3304
     },
     {
       "ID": "Achievement_Trophy39",
@@ -8919,7 +8924,7 @@
       "Name": "Light of my life",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "Achievement_Trophy44",
@@ -9070,7 +9075,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 19432,
+      "Progressed": 19434,
       "Completed": 1
     }
   ],
@@ -9078,8 +9083,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-08T21:12:32.8884434+00:00",
-  "LastChanged_Achievements": "2023-11-09T08:03:42.4355717+00:00",
+  "LastChanged_Achievements": "2023-11-09T09:04:12.3082956+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:00:35.669954+00:00",
-  "LastUpdate_Achievements": "2023-11-09T08:03:42.4356507+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:02:27.0726391+00:00",
+  "LastUpdate_Achievements": "2023-11-09T09:04:12.3083684+00:00"
 }

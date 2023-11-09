@@ -10,7 +10,7 @@ Rating: 4.28 (Ranked 847)
 | Check | 55.00% | ~119,274 |
 | Absolute pin | 47.00% | ~101,925 |
 | Promotion | 31.00% | ~67,227 |
-| Checkmate | 30.00% | ~65,058 |
+| Checkmate | 30.00% | ~65,059 |
 | O-O | 24.00% | ~52,047 |
 | Spanish Bishop | 21.00% | ~45,541 |
 | Queen Sacrifice | 20.00% | ~43,372 |
@@ -18,7 +18,7 @@ Rating: 4.28 (Ranked 847)
 | O-O-O | 13.00% | ~28,192 |
 | Octopus | 13.00% | ~28,192 |
 | Stranger Danger | 12.00% | ~26,023 |
-| En Passant | 9.00% | ~19,517 |
+| En Passant | 9.00% | ~19,518 |
 | Double Check | 7.00% | ~15,180 |
 | Piece Collector | 6.00% | ~13,012 |
 | ELO | 5.00% | ~10,843 |
@@ -44,7 +44,7 @@ Rating: 4.28 (Ranked 847)
 | Tournament Master | 0.10% | ~217 |
 | Tournament Pro | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,861 (Ranked 69)  
+Progressed: 216,862 (Ranked 69)  
 Completed: 2 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 2 (0.00%) (Ranked 345)
 | 2023-11-06 | 216,562 | 2 |
 | 2023-11-07 | 216,692 | 2 |
 | 2023-11-08 | 216,818 | 2 |
-| 2023-11-09 | 216,861 | 2 |
+| 2023-11-09 | 216,862 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

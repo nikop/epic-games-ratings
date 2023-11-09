@@ -12,10 +12,10 @@
 | Find Allies | 24.00% | ~42 |
 | A Taste of Wrath | 24.00% | ~42 |
 | Fashion Victim | 24.00% | ~42 |
+| Adventurer | 23.00% | ~40 |
 | Geared Up | 23.00% | ~40 |
 | Scholar | 23.00% | ~40 |
 | Powerful Allies | 22.00% | ~38 |
-| Adventurer | 22.00% | ~38 |
 | Tributes of Caladrias | 20.00% | ~35 |
 | Stone Collection | 18.00% | ~31 |
 | Essence Blow | 11.00% | ~19 |

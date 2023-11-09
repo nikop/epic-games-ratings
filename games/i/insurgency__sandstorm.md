@@ -6,7 +6,7 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,039 |
+| Wallbanger | 5.00% | ~24,040 |
 | Exploitative | 4.00% | ~19,232 |
 | Point Shooting | 4.00% | ~19,232 |
 | Wet Feet | 4.00% | ~19,232 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~481 |
 | Road Hazard | 0.10% | ~481 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 480,788 (Ranked 38)  
+Progressed: 480,807 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,14 +245,14 @@ Completed: 2 (0.00%) (Ranked 345)
 | 2023-11-06 | 479,200 | 2 |
 | 2023-11-07 | 479,948 | 2 |
 | 2023-11-08 | 480,563 | 2 |
-| 2023-11-09 | 480,788 | 2 |
+| 2023-11-09 | 480,807 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 395  (Ranked 227)  
-Sum: 3,137 (Ranked 171)  
+Max (Quickly Understood Controls): 396  (Ranked 227)  
+Sum: 3,138 (Ranked 171)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 395 |
+| This game has Quickly Understood Controls | 396 |
 | This game has Challenging Combat | 379 |
 | This game is Extremely Fun | 363 |
 | This game has Competitive Players | 362 |
@@ -543,3 +543,4 @@ Diff (max vs sum): 56
 | 2023-11-06 | 4.62 | - | 394 | 3,132 |
 | 2023-11-07 | 4.62 | - | 395 | 3,135 |
 | 2023-11-08 | 4.62 | - | 395 | 3,137 |
+| 2023-11-09 | 4.62 | - | 396 | 3,138 |

@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~817 |
+| Whatever It Takes | 2.00% | ~818 |
 | One of Us | 1.00% | ~409 |
 | Pork Chopped | 1.00% | ~409 |
 | Welcome To Hell-A | 0.60% | ~4,292 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,328 (Ranked 21)  
+Progressed: 715,337 (Ranked 21)  
 Completed: 2,362 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,16 +260,16 @@ Completed: 2,362 (0.33%) (Ranked 219)
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
-| 2023-11-09 | 715,328 | 2,362 |
+| 2023-11-09 | 715,337 | 2,362 |
 ## Awards
 Max (Great Boss Battles): 7,208  (Ranked 54)  
-Sum: 10,941 (Ranked 87)  
+Sum: 10,945 (Ranked 87)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,208 |
 | This game is Great for Beginners | 530 |
-| This game has Diverse Characters | 521 |
+| This game has Diverse Characters | 525 |
 | This game has Quickly Understood Controls | 499 |
 | This game is Relaxing | 469 |
 | This game has Amazing Storytelling | 448 |
@@ -481,4 +481,4 @@ Diff (max vs sum): -33
 | 2023-11-06 | 4.54 | 7,125 | 10,791 |
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
 | 2023-11-08 | 4.54 | 7,208 | 10,930 |
-| 2023-11-09 | 4.54 | 7,208 | 10,941 |
+| 2023-11-09 | 4.54 | 7,208 | 10,945 |
