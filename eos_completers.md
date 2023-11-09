@@ -7,7 +7,7 @@
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.06% |
 | 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 8 | [The Riflemen](games/t/the_riflemen.md) | 36.92% |
+| 8 | [The Riflemen](games/t/the_riflemen.md) | 36.90% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.69% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -45,7 +45,7 @@
 | 41 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
 | 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.07% |
 | 45 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
-| 46 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.86% |
+| 46 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.85% |
 | 47 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 47 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 49 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.66% |
@@ -62,7 +62,7 @@
 | 60 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
 | 61 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 62 | [JARS](games/j/jars.md) | 5.68% |
-| 63 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.61% |
+| 63 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.60% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
 | 65 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.51% |
 | 66 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
@@ -117,7 +117,7 @@
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 117 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.33% |
-| 118 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.26% |
+| 118 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.25% |
 | 119 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
 | 120 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
 | 121 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.89% |
@@ -152,14 +152,14 @@
 | 150 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 151 | [Adios](games/a/adios.md) | 1.07% |
 | 152 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
-| 153 | [Infindustry](games/i/infindustry.md) | 1.05% |
-| 154 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
+| 153 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
+| 153 | [Infindustry](games/i/infindustry.md) | 1.04% |
 | 155 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
 | 156 | [Sable](games/s/sable.md) | 1.01% |
-| 157 | [Trifox](games/t/trifox.md) | 0.98% |
-| 158 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
-| 158 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
-| 158 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.95% |
+| 157 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.99% |
+| 158 | [Trifox](games/t/trifox.md) | 0.98% |
+| 159 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
+| 159 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.95% |
 | 161 | [Hades](games/h/hades.md) | 0.91% |
 | 161 | [The Devil's Face](games/t/the_devil's_face.md) | 0.91% |
 | 163 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
@@ -221,9 +221,9 @@
 | 219 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 219 | [Them and Us](games/t/them_and_us.md) | 0.33% |
 | 221 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.32% |
-| 222 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
-| 222 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
-| 222 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 221 | [The First Tree](games/t/the_first_tree.md) | 0.32% |
+| 223 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
+| 223 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 225 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 225 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
 | 225 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
@@ -237,13 +237,13 @@
 | 235 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 236 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 236 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.22% |
+| 236 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.22% |
 | 236 | [Scrapnaut](games/s/scrapnaut.md) | 0.22% |
 | 236 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.22% |
-| 240 | [Blanc](games/b/blanc.md) | 0.21% |
-| 240 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
-| 240 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.21% |
-| 240 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
-| 240 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.21% |
+| 241 | [Blanc](games/b/blanc.md) | 0.21% |
+| 241 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
+| 241 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.21% |
+| 241 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 245 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
 | 245 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 247 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
