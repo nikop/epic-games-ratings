@@ -1,41 +1,41 @@
 # Cities: Skylines
 [Store](https://store.epicgames.com/en-US/p/cities-skylines)  
 [View Rawdata](../../db/c/cities__skylines.json)  
-Rating: 4.66 (Ranked 291)  
+Rating: 4.66 (Ranked 293)  
 Number of Ratings: 25,248  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~829,543 |
-| Green Energy | 60.00% | ~701,022 |
-| Foggy Weather | 59.00% | ~689,338 |
-| Singing In The- | 59.00% | ~689,338 |
-| Unpopular Mayor | 40.00% | ~467,348 |
-| Power at Your Fingertips | 33.00% | ~385,562 |
-| City Planner | 23.00% | ~268,725 |
-| Rolling in Dough | 20.00% | ~233,674 |
-| Does My Bum Look Big In This? | 17.00% | ~198,623 |
-| Climbing the Social Ladder | 16.00% | ~186,939 |
-| Safe City | 14.00% | ~163,572 |
-| Quay-King | 11.00% | ~128,521 |
-| Lawmaker | 10.00% | ~116,837 |
-| With Canals You Can! | 10.00% | ~116,837 |
-| Nomen Est Omen | 7.00% | ~81,786 |
-| Well Informed | 6.00% | ~70,102 |
-| Fire Watch | 5.00% | ~58,418 |
-| Greenest City | 4.00% | ~46,735 |
-| Heavenly City | 3.00% | ~35,051 |
-| Reporting! | 3.00% | ~35,051 |
-| SIMulated City | 3.00% | ~35,051 |
-| The Safest Town | 3.00% | ~35,051 |
-| Professional Dumper | 2.00% | ~23,367 |
-| City in Motion | 1.00% | ~11,684 |
-| Earthloving City | 1.00% | ~11,684 |
-| Metropolis | 1.00% | ~11,684 |
-| Higher Education | 0.80% | ~9,347 |
+| Pioneer | 71.00% | ~829,604 |
+| Green Energy | 60.00% | ~701,074 |
+| Foggy Weather | 59.00% | ~689,389 |
+| Singing In The- | 59.00% | ~689,389 |
+| Unpopular Mayor | 40.00% | ~467,382 |
+| Power at Your Fingertips | 33.00% | ~385,590 |
+| City Planner | 23.00% | ~268,745 |
+| Rolling in Dough | 20.00% | ~233,691 |
+| Does My Bum Look Big In This? | 17.00% | ~198,638 |
+| Climbing the Social Ladder | 16.00% | ~186,953 |
+| Safe City | 14.00% | ~163,584 |
+| Quay-King | 11.00% | ~128,530 |
+| Lawmaker | 10.00% | ~116,846 |
+| With Canals You Can! | 10.00% | ~116,846 |
+| Nomen Est Omen | 7.00% | ~81,792 |
+| Well Informed | 6.00% | ~70,107 |
+| Fire Watch | 5.00% | ~58,423 |
+| Greenest City | 4.00% | ~46,738 |
+| Heavenly City | 3.00% | ~35,054 |
+| Reporting! | 3.00% | ~35,054 |
+| SIMulated City | 3.00% | ~35,054 |
+| The Safest Town | 3.00% | ~35,054 |
+| Professional Dumper | 2.00% | ~23,369 |
+| City in Motion | 1.00% | ~11,685 |
+| Earthloving City | 1.00% | ~11,685 |
+| Metropolis | 1.00% | ~11,685 |
+| Higher Education | 0.80% | ~9,348 |
 | Beam Me Up | 0.70% | ~8,179 |
-| Full Capacity | 0.60% | ~7,010 |
-| Terraformer | 0.60% | ~7,010 |
+| Full Capacity | 0.60% | ~7,011 |
+| Terraformer | 0.60% | ~7,011 |
 | Decorator | 0.50% | ~5,842 |
 | Drop the Base | 0.50% | ~5,842 |
 | It's heading right for us! | 0.50% | ~5,842 |
@@ -44,12 +44,12 @@ Number of Ratings: 25,248  (23.09.2022)
 | Speed up! | 0.50% | ~5,842 |
 | The Waters of Our Lives | 0.50% | ~5,842 |
 | Twist and shout | 0.50% | ~5,842 |
-| Airfield Expertise | 0.40% | ~4,673 |
-| Get Your Snowshoes Ready! | 0.40% | ~4,673 |
-| Happy Town | 0.40% | ~4,673 |
-| I Want It All | 0.40% | ~4,673 |
-| Just Tolling | 0.40% | ~4,673 |
-| Thunder and Lightning | 0.40% | ~4,673 |
+| Airfield Expertise | 0.40% | ~4,674 |
+| Get Your Snowshoes Ready! | 0.40% | ~4,674 |
+| Happy Town | 0.40% | ~4,674 |
+| I Want It All | 0.40% | ~4,674 |
+| Just Tolling | 0.40% | ~4,674 |
+| Thunder and Lightning | 0.40% | ~4,674 |
 | A Huge Hadron | 0.30% | ~3,505 |
 | Airlifter | 0.30% | ~3,505 |
 | Airport Architect | 0.30% | ~3,505 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,168 |
 | Z00 | 0.10% | ~1,168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,168,370 (Ranked 11)  
+Progressed: 1,168,456 (Ranked 11)  
 Completed: 10 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 10 (0.00%) (Ranked 345)
 | 2023-11-06 | 1,163,051 | 10 |
 | 2023-11-07 | 1,165,046 | 10 |
 | 2023-11-08 | 1,166,752 | 10 |
-| 2023-11-09 | 1,168,370 | 10 |
+| 2023-11-09 | 1,168,456 | 10 |
 ## Awards
 Max (Great for Beginners): 6,102  (Ranked 61)  
 Sum: 45,596 (Ranked 32)  

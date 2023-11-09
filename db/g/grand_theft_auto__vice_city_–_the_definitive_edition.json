@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -835,9 +835,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 10960,
+  "EOS_Progressed": 10961,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 190,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -12670,6 +12670,11 @@
       "Time": "2023-11-09T21:05:15.8935567+00:00",
       "NumProgressed": 10960,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-09T23:06:08.2949997+00:00",
+      "NumProgressed": 10961,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12785,7 +12790,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "ACH15",
@@ -12952,7 +12957,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10960,
+      "Progressed": 10961,
       "Completed": 64
     }
   ],
@@ -12960,8 +12965,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-09T19:58:38.2755624+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:08:00.2541615+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:06:08.2949991+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:00:33.3787933+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:08:00.2543203+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:58:38.9653795+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:06:08.2951144+00:00"
 }

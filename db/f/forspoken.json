@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42474,
+  "EOS_Progressed": 42475,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11997,6 +11997,11 @@
       "Time": "2023-11-09T18:06:29.956154+00:00",
       "NumProgressed": 42474,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-09T23:07:09.3600924+00:00",
+      "NumProgressed": 42475,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -12056,7 +12061,7 @@
       "Name": "Attachments",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 4247
+      "UsersEstimate": 4248
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -12080,7 +12085,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -12088,7 +12093,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -12096,7 +12101,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -12208,7 +12213,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -12256,7 +12261,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -12280,7 +12285,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "MONUMENT_ALL",
@@ -12431,22 +12436,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42474,
+      "Progressed": 42475,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7311,
-      "Completed": 7311
+      "Progressed": 7312,
+      "Completed": 7312
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:09:02.2138683+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:07:09.3600915+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:26.2731446+00:00",
-  "LastUpdate_Ratings": "2023-11-09T21:59:50.8510664+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:09:02.2140397+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:58:21.6472114+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:07:09.3602344+00:00"
 }

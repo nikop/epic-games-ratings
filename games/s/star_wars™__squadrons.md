@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~17,377 |
-| Safety in the Storm | 24.00% | ~4,390 |
-| A Better Idea | 24.00% | ~4,390 |
-| Begin the Ceremony | 20.00% | ~3,658 |
-| Mission Accomplished | 19.00% | ~3,475 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~2,744 |
-| A Starfighter of Your Own | 14.00% | ~2,561 |
-| Asset Secured | 13.00% | ~2,378 |
-| Unkillable | 8.00% | ~1,463 |
-| Together, Vanguard | 7.00% | ~1,280 |
+| Fracture at Fostar Haven | 95.00% | ~17,391 |
+| Safety in the Storm | 24.00% | ~4,393 |
+| A Better Idea | 24.00% | ~4,393 |
+| Begin the Ceremony | 20.00% | ~3,661 |
+| Mission Accomplished | 19.00% | ~3,478 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~2,746 |
+| A Starfighter of Your Own | 14.00% | ~2,563 |
+| Asset Secured | 13.00% | ~2,380 |
+| Unkillable | 8.00% | ~1,464 |
+| Together, Vanguard | 7.00% | ~1,281 |
 | The Galaxy's Finest (Pilot) | 6.00% | ~1,098 |
 | Sound Strategy | 6.00% | ~1,098 |
 | Fearless | 5.00% | ~915 |
@@ -34,9 +34,9 @@
 | Against the Current | 0.90% | ~165 |
 | Denied | 0.80% | ~146 |
 | Found Your Place | 0.70% | ~128 |
-| Seasoned Star Pilot | 0.50% | ~91 |
-| Unstoppable Ace | 0.50% | ~91 |
-| Special Modifications | 0.50% | ~91 |
+| Seasoned Star Pilot | 0.50% | ~92 |
+| Unstoppable Ace | 0.50% | ~92 |
+| Special Modifications | 0.50% | ~92 |
 | Heavy Hitter | 0.40% | ~73 |
 | The Trap is Set | 0.40% | ~73 |
 | The Galaxy's Finest (Veteran) | 0.40% | ~73 |
@@ -52,7 +52,7 @@
 | Fully Decorated | 0.10% | ~18 |
 | The Galaxy's Finest (Ace) | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,292 (Ranked 138)  
+Progressed: 18,306 (Ranked 138)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -106,7 +106,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-06 | 17,592 | 1 |
 | 2023-11-07 | 17,833 | 1 |
 | 2023-11-08 | 18,057 | 1 |
-| 2023-11-09 | 18,292 | 1 |
+| 2023-11-09 | 18,306 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

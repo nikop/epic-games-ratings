@@ -4041,9 +4041,9 @@
       "Count": 285
     }
   ],
-  "EOS_Progressed": 219163,
+  "EOS_Progressed": 219166,
   "EOS_Completed": 435,
-  "EOS_NewPlayers": 2167,
+  "EOS_NewPlayers": 2157,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17291,6 +17291,11 @@
       "Time": "2023-11-09T22:10:33.3478043+00:00",
       "NumProgressed": 219163,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-11-09T23:08:40.4303067+00:00",
+      "NumProgressed": 219166,
+      "NumCompleted": 435
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17303,7 +17308,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15341
+      "UsersEstimate": 15342
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -17423,7 +17428,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15341
+      "UsersEstimate": 15342
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -17607,7 +17612,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15341
+      "UsersEstimate": 15342
     },
     {
       "ID": "Obtain_Traits_B",
@@ -17702,7 +17707,7 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 219163,
+      "Progressed": 219166,
       "Completed": 435
     }
   ],
@@ -17710,8 +17715,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-09T20:03:44.3574544+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:10:33.3478032+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:08:40.4303061+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:05:32.7028015+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:10:33.3479549+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:03:42.402182+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:08:40.4304322+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3287,
+  "EOS_Progressed": 3288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5583,6 +5583,11 @@
       "Time": "2023-11-09T16:14:47.2945927+00:00",
       "NumProgressed": 3287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T23:06:04.9338873+00:00",
+      "NumProgressed": 3288,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5682,7 +5687,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH_BASE_22",
@@ -5690,7 +5695,7 @@
       "Name": "Sustainable Energy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_BASE_23",
@@ -5738,7 +5743,7 @@
       "Name": "In Dolos We Trust",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_BASE_29",
@@ -5762,7 +5767,7 @@
       "Name": "Exceeding Capacity",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_BASE_31",
@@ -5954,7 +5959,7 @@
       "Name": "Pedal to the Metal",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ACH_BASE_58",
@@ -5978,7 +5983,7 @@
       "Name": "Hope Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_BASE_60",
@@ -6049,13 +6054,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1470,
+      "Progressed": 1471,
       "Completed": 8
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3287,
+      "Progressed": 3288,
       "Completed": 0
     }
   ],
@@ -6063,8 +6068,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:07:56.7353559+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:06:04.9338868+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.4196212+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:05:04.2574856+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:07:56.7354525+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:03:14.3691945+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:06:04.9339826+00:00"
 }

@@ -1,17 +1,17 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.28 (Ranked 847)  
+Rating: 4.28 (Ranked 848)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,250 |
-| Copacetic Coordination | 16.00% | ~56,255 |
-| Fronting the Money | 15.00% | ~52,739 |
-| The Dawn of Automation | 14.00% | ~49,223 |
-| Extraordinary Logistics | 14.00% | ~49,223 |
-| Dirty Money | 13.00% | ~45,707 |
-| Family First | 13.00% | ~45,707 |
+| Corner Clout | 47.00% | ~165,252 |
+| Copacetic Coordination | 16.00% | ~56,256 |
+| Fronting the Money | 15.00% | ~52,740 |
+| The Dawn of Automation | 14.00% | ~49,224 |
+| Extraordinary Logistics | 14.00% | ~49,224 |
+| Dirty Money | 13.00% | ~45,708 |
+| Family First | 13.00% | ~45,708 |
 | Cleaning House | 12.00% | ~42,192 |
 | Room in the Back | 12.00% | ~42,192 |
 | Beating the Heat | 11.00% | ~38,676 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 847)
 | High Pillow | 0.10% | ~352 |
 | Station Master | 0.10% | ~352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351,596 (Ranked 47)  
+Progressed: 351,600 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-06 | 351,245 | 7 |
 | 2023-11-07 | 351,352 | 7 |
 | 2023-11-08 | 351,466 | 7 |
-| 2023-11-09 | 351,596 | 7 |
+| 2023-11-09 | 351,600 | 7 |
 ## Awards
 Max (Great for Beginners): 44  (Ranked 447)  
 Sum: 187 (Ranked 405)  

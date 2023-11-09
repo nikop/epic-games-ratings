@@ -1,29 +1,29 @@
 # World of Warships
 [Store](https://store.epicgames.com/en-US/p/world-of-warships)  
 [View Rawdata](../../db/w/world_of_warships.json)  
-Rating: 4.41 (Ranked 721)  
+Rating: 4.41 (Ranked 722)  
 Number of Ratings: 4,733  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~41,273 |
-| Initial Capital | 67.00% | ~34,566 |
-| Junior Supply Officer | 46.00% | ~23,732 |
-| Moneybags | 45.00% | ~23,216 |
-| Naval Warfare. Arson | 34.00% | ~17,541 |
-| Naval Warfare. Ramming | 33.00% | ~17,025 |
-| Naval Constructor | 32.00% | ~16,509 |
-| Amateur | 31.00% | ~15,993 |
-| Naval Warfare. Tactics | 31.00% | ~15,993 |
-| Naval Warfare. Weaponry Basics | 23.00% | ~11,866 |
-| Naval Warfare. Flooding | 20.00% | ~10,318 |
-| Naval Warfare. Lucky Shot | 20.00% | ~10,318 |
-| Business Magnate | 17.00% | ~8,770 |
-| Battle Hero | 16.00% | ~8,255 |
-| Smooth Supply | 14.00% | ~7,223 |
-| Warrior | 13.00% | ~6,707 |
-| Supply Officer | 13.00% | ~6,707 |
-| Veteran | 8.00% | ~4,127 |
+| Junior Naval Designer | 80.00% | ~41,284 |
+| Initial Capital | 67.00% | ~34,575 |
+| Junior Supply Officer | 46.00% | ~23,738 |
+| Moneybags | 45.00% | ~23,222 |
+| Naval Warfare. Arson | 34.00% | ~17,546 |
+| Naval Warfare. Ramming | 33.00% | ~17,030 |
+| Naval Constructor | 32.00% | ~16,514 |
+| Amateur | 31.00% | ~15,998 |
+| Naval Warfare. Tactics | 31.00% | ~15,998 |
+| Naval Warfare. Weaponry Basics | 23.00% | ~11,869 |
+| Naval Warfare. Flooding | 20.00% | ~10,321 |
+| Naval Warfare. Lucky Shot | 20.00% | ~10,321 |
+| Business Magnate | 17.00% | ~8,773 |
+| Battle Hero | 16.00% | ~8,257 |
+| Smooth Supply | 14.00% | ~7,225 |
+| Warrior | 13.00% | ~6,709 |
+| Supply Officer | 13.00% | ~6,709 |
+| Veteran | 8.00% | ~4,128 |
 | Legend of the Seas | 4.00% | ~2,064 |
 | Chief Naval Architect | 4.00% | ~2,064 |
 | Shield | 4.00% | ~2,064 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~52 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~52 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,591 (Ranked 108)  
+Progressed: 51,605 (Ranked 108)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -139,14 +139,14 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 50,456 | 0 |
 | 2023-11-07 | 50,790 | 0 |
 | 2023-11-08 | 51,170 | 0 |
-| 2023-11-09 | 51,591 | 0 |
+| 2023-11-09 | 51,605 | 0 |
 ## Awards
-Max (Relaxing): 1,496  (Ranked 131)  
-Sum: 12,511 (Ranked 79)  
+Max (Relaxing): 1,500  (Ranked 131)  
+Sum: 12,515 (Ranked 79)  
 Diff (max vs sum): 52  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 1,496 |
+| This game is Relaxing | 1,500 |
 | This game has Quickly Understood Controls | 1,490 |
 | This game has Challenging Combat | 1,475 |
 | This game has Competitive Players | 1,459 |
@@ -460,4 +460,4 @@ Diff (max vs sum): 52
 | 2023-11-06 | 4.41 | - | 1,485 | 12,440 |
 | 2023-11-07 | 4.41 | - | 1,490 | 12,464 |
 | 2023-11-08 | 4.41 | - | 1,496 | 12,492 |
-| 2023-11-09 | 4.41 | - | 1,496 | 12,511 |
+| 2023-11-09 | 4.41 | - | 1,500 | 12,515 |

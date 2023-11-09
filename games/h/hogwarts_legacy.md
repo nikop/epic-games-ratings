@@ -6,9 +6,9 @@ Rating: 4.76 (Ranked 124)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,284 |
-| First Class Student | 14.00% | ~42,248 |
-| Troll with the Punches | 14.00% | ~42,248 |
-| A Keen Sense of Spell | 13.00% | ~39,230 |
+| First Class Student | 14.00% | ~42,249 |
+| Troll with the Punches | 14.00% | ~42,249 |
+| A Keen Sense of Spell | 13.00% | ~39,231 |
 | A Talent for Spending | 12.00% | ~36,213 |
 | That's a Keeper | 12.00% | ~36,213 |
 | Grappling with a Graphorn | 11.00% | ~33,195 |
@@ -17,10 +17,10 @@ Rating: 4.76 (Ranked 124)
 | The Defender of Dragons | 11.00% | ~33,195 |
 | Loom for Improvement | 11.00% | ~33,195 |
 | Coasting Along | 11.00% | ~33,195 |
-| The Hero of Hogwarts | 10.00% | ~30,177 |
-| Challenge Accepted | 10.00% | ~30,177 |
-| Followed the Butterflies | 10.00% | ~30,177 |
-| Rising From the Ashes | 10.00% | ~30,177 |
+| The Hero of Hogwarts | 10.00% | ~30,178 |
+| Challenge Accepted | 10.00% | ~30,178 |
+| Followed the Butterflies | 10.00% | ~30,178 |
+| Rising From the Ashes | 10.00% | ~30,178 |
 | The Spell Master | 9.00% | ~27,160 |
 | The Avenging Gazelle | 8.00% | ~24,142 |
 | Beast Friends | 8.00% | ~24,142 |
@@ -40,18 +40,18 @@ Rating: 4.76 (Ranked 124)
 | Put Down Roots | 3.00% | ~9,053 |
 | The Auror's Apprentice | 3.00% | ~9,053 |
 | Floo Around the World | 3.00% | ~9,053 |
-| The Good Samaritan | 2.00% | ~6,035 |
-| Rise to the Challenges | 2.00% | ~6,035 |
-| Demiguise Dread | 2.00% | ~6,035 |
-| Finishing Touches | 2.00% | ~6,035 |
-| A Forte for Achievement | 2.00% | ~6,035 |
+| The Good Samaritan | 2.00% | ~6,036 |
+| Rise to the Challenges | 2.00% | ~6,036 |
+| Demiguise Dread | 2.00% | ~6,036 |
+| Finishing Touches | 2.00% | ~6,036 |
+| A Forte for Achievement | 2.00% | ~6,036 |
 | Savvy Spender | 1.00% | ~3,018 |
 | Merlin's Beard! | 1.00% | ~3,018 |
 | Spilled Milk | 0.90% | ~2,716 |
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,773 (Ranked 50)  
+Progressed: 301,775 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,10 +254,10 @@ Completed: 505 (0.17%) (Ranked 251)
 | 2023-11-06 | 301,400 | 502 |
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
-| 2023-11-09 | 301,773 | 505 |
+| 2023-11-09 | 301,775 | 505 |
 ## Awards
 Max (Character Customization): 24,144  (Ranked 17)  
-Sum: 47,744 (Ranked 30)  
+Sum: 47,745 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -266,7 +266,7 @@ Diff (max vs sum): -13
 | This game is Great for Beginners | 1,278 |
 | This game has Amazing Storytelling | 1,230 |
 | This game has Diverse Characters | 1,224 |
-| This game is Extremely Fun | 1,217 |
+| This game is Extremely Fun | 1,218 |
 | This game is Relaxing | 1,210 |
 | This game has Amazing Characters | 1,186 |
 | This game is Highly Recommended | 1,149 |
@@ -506,4 +506,4 @@ Diff (max vs sum): -13
 | 2023-11-06 | 4.76 | 24,092 | 47,578 |
 | 2023-11-07 | 4.76 | 24,120 | 47,655 |
 | 2023-11-08 | 4.76 | 24,120 | 47,675 |
-| 2023-11-09 | 4.76 | 24,144 | 47,744 |
+| 2023-11-09 | 4.76 | 24,144 | 47,745 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 4,
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-06-08T23:00:00+00:00",
     "PcReleaseDate": "2021-06-08T23:00:00+00:00",
@@ -13815,10 +13815,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 1428886,
       "NumberOfAwardsMax": 313907
+    },
+    {
+      "Time": "2023-11-09T23:03:13.5891119+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1429022,
+      "NumberOfAwardsMax": 313907
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1428886,
+  "NumberOfAwards": 1429022,
   "NumberOfAwardsMax": 313907,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13862,7 +13868,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 120231
+      "Count": 120311
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -13880,7 +13886,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 113625
+      "Count": 113681
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -13900,8 +13906,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:42.3518763+00:00",
-  "LastChanged": "2023-11-09T19:09:27.1445185+00:00",
+  "LastChanged": "2023-11-09T23:03:13.5891116+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:24.7279246+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:05:03.4678125+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:10:28.9961896+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:03:13.5891125+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:08:36.0345808+00:00"
 }

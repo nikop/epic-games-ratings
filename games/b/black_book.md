@@ -1,38 +1,38 @@
 # Black Book
 [Store](https://store.epicgames.com/en-US/p/black-book)  
 [View Rawdata](../../db/b/black_book.json)  
-Rating: 4.66 (Ranked 291)  
+Rating: 4.66 (Ranked 293)  
 Number of Ratings: 96  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 27.00% | ~13,917 |
-| Student | 21.00% | ~10,824 |
-| Knower | 15.00% | ~7,732 |
-| Aspen Tree | 14.00% | ~7,216 |
-| Healer | 14.00% | ~7,216 |
-| Listener | 14.00% | ~7,216 |
-| Scientist | 11.00% | ~5,670 |
-| Soldier | 11.00% | ~5,670 |
-| Cow Level | 10.00% | ~5,154 |
-| Water | 10.00% | ~5,154 |
-| Old Friend | 9.00% | ~4,639 |
-| Herbalist | 9.00% | ~4,639 |
-| New Spirits | 9.00% | ~4,639 |
-| Voipel | 9.00% | ~4,639 |
-| Black Mage | 9.00% | ~4,639 |
-| Card Player | 8.00% | ~4,124 |
-| Pine Tree | 8.00% | ~4,124 |
-| Collector | 8.00% | ~4,124 |
-| Wolf | 8.00% | ~4,124 |
-| Worthy | 7.00% | ~3,608 |
-| Black Book | 7.00% | ~3,608 |
-| Dead Man | 7.00% | ~3,608 |
-| Fern | 7.00% | ~3,608 |
-| 100 Friends | 7.00% | ~3,608 |
-| Dead Friend | 7.00% | ~3,608 |
-| Researcher | 7.00% | ~3,608 |
-| Savvy | 7.00% | ~3,608 |
+| Initiation | 27.00% | ~13,920 |
+| Student | 21.00% | ~10,827 |
+| Knower | 15.00% | ~7,734 |
+| Aspen Tree | 14.00% | ~7,218 |
+| Healer | 14.00% | ~7,218 |
+| Listener | 14.00% | ~7,218 |
+| Scientist | 11.00% | ~5,671 |
+| Soldier | 11.00% | ~5,671 |
+| Cow Level | 10.00% | ~5,156 |
+| Water | 10.00% | ~5,156 |
+| Old Friend | 9.00% | ~4,640 |
+| Herbalist | 9.00% | ~4,640 |
+| New Spirits | 9.00% | ~4,640 |
+| Voipel | 9.00% | ~4,640 |
+| Black Mage | 9.00% | ~4,640 |
+| Card Player | 8.00% | ~4,125 |
+| Pine Tree | 8.00% | ~4,125 |
+| Collector | 8.00% | ~4,125 |
+| Wolf | 8.00% | ~4,125 |
+| Worthy | 7.00% | ~3,609 |
+| Black Book | 7.00% | ~3,609 |
+| Dead Man | 7.00% | ~3,609 |
+| Fern | 7.00% | ~3,609 |
+| 100 Friends | 7.00% | ~3,609 |
+| Dead Friend | 7.00% | ~3,609 |
+| Researcher | 7.00% | ~3,609 |
+| Savvy | 7.00% | ~3,609 |
 | Black Sorcerer | 6.00% | ~3,093 |
 | Encyclopedist | 6.00% | ~3,093 |
 | Witch | 6.00% | ~3,093 |
@@ -40,16 +40,16 @@ Number of Ratings: 96  (23.09.2022)
 | Sinner | 6.00% | ~3,093 |
 | Folklorist | 6.00% | ~3,093 |
 | Keeper of Knowledge | 6.00% | ~3,093 |
-| Vorsa | 5.00% | ~2,577 |
-| Susanin | 5.00% | ~2,577 |
-| Traveller | 5.00% | ~2,577 |
+| Vorsa | 5.00% | ~2,578 |
+| Susanin | 5.00% | ~2,578 |
+| Traveller | 5.00% | ~2,578 |
 | Musician | 4.00% | ~2,062 |
-| Black Sorceress | 3.00% | ~1,546 |
-| Cheater | 3.00% | ~1,546 |
-| Diplomat | 3.00% | ~1,546 |
-| Righteous | 3.00% | ~1,546 |
-| White Head | 3.00% | ~1,546 |
-| Koldun | 3.00% | ~1,546 |
+| Black Sorceress | 3.00% | ~1,547 |
+| Cheater | 3.00% | ~1,547 |
+| Diplomat | 3.00% | ~1,547 |
+| Righteous | 3.00% | ~1,547 |
+| White Head | 3.00% | ~1,547 |
+| Koldun | 3.00% | ~1,547 |
 | Revelation | 2.00% | ~1,031 |
 | Mistress of Hell | 2.00% | ~1,031 |
 | Detective | 2.00% | ~1,031 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,031 |
 | Word Master | 0.20% | ~103 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,544 (Ranked 109)  
+Progressed: 51,557 (Ranked 109)  
 Completed: 46 (0.09%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,14 +132,14 @@ Completed: 46 (0.09%) (Ranked 274)
 | 2023-11-06 | 50,885 | 46 |
 | 2023-11-07 | 51,113 | 46 |
 | 2023-11-08 | 51,329 | 46 |
-| 2023-11-09 | 51,544 | 46 |
+| 2023-11-09 | 51,557 | 46 |
 ## Awards
-Max (Character Customization): 85  (Ranked 381)  
-Sum: 85 (Ranked 452)  
-Diff (max vs sum): -71  
+Max (Character Customization): 86  (Ranked 379)  
+Sum: 86 (Ranked 451)  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 85 |
+| This game has Inclusive Character Customization | 86 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -238,3 +238,4 @@ Diff (max vs sum): -71
 | 2023-11-02 | 4.67 | - | 82 | 82 |
 | 2023-11-03 | 4.66 | - | 83 | 83 |
 | 2023-11-04 | 4.66 | - | 85 | 85 |
+| 2023-11-09 | 4.66 | - | 86 | 86 |

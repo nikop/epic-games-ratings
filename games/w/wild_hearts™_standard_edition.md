@@ -10,17 +10,17 @@
 | Commencing of Quests | 77.00% | ~192 |
 | Man-Machine Master | 68.00% | ~169 |
 | Mountain Splitter | 66.00% | ~164 |
+| Charmed by the Hunt | 66.00% | ~164 |
 | Fusion Conjuror | 65.00% | ~162 |
 | Memory Rouser | 65.00% | ~162 |
-| Charmed by the Hunt | 65.00% | ~162 |
 | Subsistence Skills | 64.00% | ~159 |
 | Kemono Hunter | 59.00% | ~147 |
 | Expert Conjuror | 58.00% | ~144 |
 | Distance Devourer | 55.00% | ~137 |
 | Flawless Crystal | 53.00% | ~132 |
 | Bonds of Enmity | 52.00% | ~129 |
+| Helpful Heart | 52.00% | ~129 |
 | Master of the Skies | 51.00% | ~127 |
-| Helpful Heart | 51.00% | ~127 |
 | Counter Specialist | 49.00% | ~122 |
 | Axer of Auspice | 44.00% | ~110 |
 | Fair Means or Foul | 43.00% | ~107 |

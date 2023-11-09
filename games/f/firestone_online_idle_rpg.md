@@ -5,21 +5,21 @@ Rating: 4.10 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~1,977 |
-| World Map | 79.00% | ~1,680 |
-| Temple of Eternals | 57.00% | ~1,212 |
-| Prestigious | 54.00% | ~1,148 |
-| Fellowship Power | 42.00% | ~893 |
-| Guild Power | 26.00% | ~553 |
-| Prestigious x10 | 23.00% | ~489 |
-| The game is on | 21.00% | ~446 |
-| Exotic Merchant | 20.00% | ~425 |
+| Victor | 93.00% | ~1,980 |
+| World Map | 79.00% | ~1,682 |
+| Temple of Eternals | 57.00% | ~1,214 |
+| Prestigious | 54.00% | ~1,150 |
+| Fellowship Power | 42.00% | ~894 |
+| Guild Power | 26.00% | ~554 |
+| Prestigious x10 | 23.00% | ~490 |
+| The game is on | 21.00% | ~447 |
+| Exotic Merchant | 20.00% | ~426 |
 | Dragon Clicker | 18.00% | ~383 |
-| Full Party | 17.00% | ~361 |
-| Inspection | 17.00% | ~361 |
-| Miner Clicker | 17.00% | ~361 |
-| Dragon Master | 16.00% | ~340 |
-| Enlightenment | 16.00% | ~340 |
+| Full Party | 17.00% | ~362 |
+| Inspection | 17.00% | ~362 |
+| Miner Clicker | 17.00% | ~362 |
+| Dragon Master | 16.00% | ~341 |
+| Enlightenment | 16.00% | ~341 |
 | Hero inspection | 15.00% | ~319 |
 | Lieutenant | 15.00% | ~319 |
 | Milestone collector | 14.00% | ~298 |
@@ -27,7 +27,7 @@ Rating: 4.10 (Ranked 958)
 | Natural Talent | 14.00% | ~298 |
 | Superior | 14.00% | ~298 |
 | The Unstoppable | 14.00% | ~298 |
-| Scientist | 13.00% | ~276 |
+| Scientist | 13.00% | ~277 |
 | Doing My Part | 12.00% | ~255 |
 | Hunter | 12.00% | ~255 |
 | The power of Awakening | 12.00% | ~255 |
@@ -41,8 +41,8 @@ Rating: 4.10 (Ranked 958)
 | Scroll Master | 11.00% | ~234 |
 | Master Enchanter | 10.00% | ~213 |
 | The father of Dragons | 10.00% | ~213 |
-| Here We Go Again | 9.00% | ~191 |
-| Trader | 9.00% | ~191 |
+| Here We Go Again | 9.00% | ~192 |
+| Trader | 9.00% | ~192 |
 | Blueprint Upgrades | 8.00% | ~170 |
 | Crystal Mining | 8.00% | ~170 |
 | Dragon Slayer | 8.00% | ~170 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 958)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,126 (Ranked 216)  
+Progressed: 2,129 (Ranked 216)  
 Completed: 2 (0.09%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 2 (0.09%) (Ranked 274)
 | 2023-11-06 | 2,116 | 2 |
 | 2023-11-07 | 2,119 | 2 |
 | 2023-11-08 | 2,124 | 2 |
-| 2023-11-09 | 2,126 | 2 |
+| 2023-11-09 | 2,129 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 491)  
 Sum: 57 (Ranked 471)  

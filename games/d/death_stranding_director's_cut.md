@@ -6,51 +6,51 @@ Number of Ratings: 3,099  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Delivering Is What I Do | 92.00% | ~499,934 |
-| Good Samaritan | 90.00% | ~489,066 |
-| Rebuilding America | 80.00% | ~434,726 |
-| Like and Be Liked | 77.00% | ~418,423 |
-| Apprentice Builder | 72.00% | ~391,253 |
-| A New Day for the UCA | 71.00% | ~385,819 |
-| A Baby Blessing | 65.00% | ~353,215 |
-| Prominent Porter | 65.00% | ~353,215 |
-| Building Bridges | 64.00% | ~347,780 |
-| Well Connected | 62.00% | ~336,912 |
-| The Custom Kid | 61.00% | ~331,478 |
-| Chiral Crafter | 59.00% | ~320,610 |
-| Boots Are a Porter's Best Friend | 59.00% | ~320,610 |
-| The People's Porter | 57.00% | ~309,742 |
-| I Couldn't Hold it In! | 56.00% | ~304,308 |
-| Everyday Delivery | 52.00% | ~282,572 |
+| Delivering Is What I Do | 92.00% | ~499,936 |
+| Good Samaritan | 90.00% | ~489,068 |
+| Rebuilding America | 80.00% | ~434,727 |
+| Like and Be Liked | 77.00% | ~418,425 |
+| Apprentice Builder | 72.00% | ~391,254 |
+| A New Day for the UCA | 71.00% | ~385,820 |
+| A Baby Blessing | 65.00% | ~353,216 |
+| Prominent Porter | 65.00% | ~353,216 |
+| Building Bridges | 64.00% | ~347,782 |
+| Well Connected | 62.00% | ~336,914 |
+| The Custom Kid | 61.00% | ~331,479 |
+| Chiral Crafter | 59.00% | ~320,611 |
+| Boots Are a Porter's Best Friend | 59.00% | ~320,611 |
+| The People's Porter | 57.00% | ~309,743 |
+| I Couldn't Hold it In! | 56.00% | ~304,309 |
+| Everyday Delivery | 52.00% | ~282,573 |
 | A Shout in the Dark | 50.00% | ~271,704 |
-| A Thirst for Knowledge | 48.00% | ~260,835 |
-| Snooze 'n' Soothe | 48.00% | ~260,835 |
-| Soothing Sounds | 46.00% | ~249,967 |
-| We Need You | 45.00% | ~244,533 |
-| Catcher Crusher | 45.00% | ~244,533 |
-| Sleep Tight, Little BB | 44.00% | ~239,099 |
-| Giver of Gifts | 39.00% | ~211,929 |
-| All Roads Lead to the UCA | 39.00% | ~211,929 |
+| A Thirst for Knowledge | 48.00% | ~260,836 |
+| Snooze 'n' Soothe | 48.00% | ~260,836 |
+| Soothing Sounds | 46.00% | ~249,968 |
+| We Need You | 45.00% | ~244,534 |
+| Catcher Crusher | 45.00% | ~244,534 |
+| Sleep Tight, Little BB | 44.00% | ~239,100 |
+| Giver of Gifts | 39.00% | ~211,930 |
+| All Roads Lead to the UCA | 39.00% | ~211,930 |
 | Well-Traveled | 37.00% | ~201,061 |
 | The Automation Revolution | 36.00% | ~195,627 |
 | Pathfinder | 36.00% | ~195,627 |
-| I Won't Break | 32.00% | ~173,890 |
-| BB... | 32.00% | ~173,890 |
-| The World's Most Popular Porter | 29.00% | ~157,588 |
-| Pumped Porter | 28.00% | ~152,154 |
-| We're Whole Again | 28.00% | ~152,154 |
+| I Won't Break | 32.00% | ~173,891 |
+| BB... | 32.00% | ~173,891 |
+| The World's Most Popular Porter | 29.00% | ~157,589 |
+| Pumped Porter | 28.00% | ~152,155 |
+| We're Whole Again | 28.00% | ~152,155 |
 | BBs: A Bridge Between This World and the One Beyond | 26.00% | ~141,286 |
 | "BB" | 26.00% | ~141,286 |
 | Soak and Sigh | 25.00% | ~135,852 |
 | Deliveries Done | 24.00% | ~130,418 |
 | Sixty Deaths and Sixty Births in a Day | 22.00% | ~119,550 |
-| The Particle of God | 21.00% | ~114,115 |
-| I'm Your Die-Hardman | 21.00% | ~114,115 |
-| Bring Back My Baby | 21.00% | ~114,115 |
-| She's waiting for you on the Beach. | 21.00% | ~114,115 |
-| Thank You, Sam | 20.00% | ~108,681 |
-| Thanks for Everything | 20.00% | ~108,681 |
-| The Post Guides the Present | 17.00% | ~92,379 |
+| The Particle of God | 21.00% | ~114,116 |
+| I'm Your Die-Hardman | 21.00% | ~114,116 |
+| Bring Back My Baby | 21.00% | ~114,116 |
+| She's waiting for you on the Beach. | 21.00% | ~114,116 |
+| Thank You, Sam | 20.00% | ~108,682 |
+| Thanks for Everything | 20.00% | ~108,682 |
+| The Post Guides the Present | 17.00% | ~92,380 |
 | Rest In Pieces | 16.00% | ~86,945 |
 | Hooked on Delivering!? | 15.00% | ~81,511 |
 | Childminder | 14.00% | ~76,077 |
@@ -70,7 +70,7 @@ Number of Ratings: 3,099  (23.09.2022)
 | Greatest of Great Deliverers | 0.40% | ~2,174 |
 | Homo Faber | 0.40% | ~2,174 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 543,407 (Ranked 32)  
+Progressed: 543,409 (Ranked 32)  
 Completed: 2,115 (0.39%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 2,115 (0.39%) (Ranked 208)
 | 2023-11-06 | 542,881 | 2,107 |
 | 2023-11-07 | 543,063 | 2,108 |
 | 2023-11-08 | 543,232 | 2,111 |
-| 2023-11-09 | 543,407 | 2,115 |
+| 2023-11-09 | 543,409 | 2,115 |
 ## Awards
 Max (Great Boss Battles): 8,604  (Ranked 43)  
 Sum: 14,810 (Ranked 70)  

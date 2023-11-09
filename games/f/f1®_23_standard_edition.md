@@ -5,18 +5,18 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~5,058 |
-| On the Top Step | 85.00% | ~4,673 |
-| Setting up for Success | 74.00% | ~4,069 |
-| Team Orders | 73.00% | ~4,014 |
-| Engineer | 52.00% | ~2,859 |
-| Familiar Faces | 46.00% | ~2,529 |
-| Going the Extra Mile | 41.00% | ~2,254 |
-| Sharing the Love | 39.00% | ~2,144 |
-| Hitting a Season | 33.00% | ~1,814 |
-| Challenge Yourself | 30.00% | ~1,649 |
-| Making History | 30.00% | ~1,649 |
-| A Dozen Pieces | 29.00% | ~1,594 |
+| Getting on the Step | 92.00% | ~5,060 |
+| On the Top Step | 85.00% | ~4,675 |
+| Setting up for Success | 74.00% | ~4,070 |
+| Team Orders | 73.00% | ~4,015 |
+| Engineer | 52.00% | ~2,860 |
+| Familiar Faces | 46.00% | ~2,530 |
+| Going the Extra Mile | 41.00% | ~2,255 |
+| Sharing the Love | 39.00% | ~2,145 |
+| Hitting a Season | 33.00% | ~1,815 |
+| Challenge Yourself | 30.00% | ~1,650 |
+| Making History | 30.00% | ~1,650 |
+| A Dozen Pieces | 29.00% | ~1,595 |
 | Network Success | 24.00% | ~1,320 |
 | Writing a new Chapter | 24.00% | ~1,320 |
 | Spring Cleaning | 22.00% | ~1,210 |
@@ -49,13 +49,13 @@ Rating: 4.69 (Ranked 230)
 | Filling in the Gaps | 2.00% | ~110 |
 | Saturday Night Drama | 1.00% | ~55 |
 | Media Darling | 1.00% | ~55 |
-| Under the Microscope | 0.90% | ~49 |
-| Ultimate Collector | 0.50% | ~27 |
+| Under the Microscope | 0.90% | ~50 |
+| Ultimate Collector | 0.50% | ~28 |
 | Golden Touch | 0.30% | ~16 |
-| Elite Racer | 0.10% | ~5 |
+| Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,498 (Ranked 182)  
+Progressed: 5,500 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -112,7 +112,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 5,175 | 0 |
 | 2023-11-07 | 5,352 | 0 |
 | 2023-11-08 | 5,432 | 0 |
-| 2023-11-09 | 5,498 | 0 |
+| 2023-11-09 | 5,500 | 0 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 515)  
 Sum: 49 (Ranked 481)  

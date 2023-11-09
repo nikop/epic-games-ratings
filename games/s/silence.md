@@ -5,36 +5,36 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fire in the... nevermind | 53.00% | ~78 |
-| Chapter I | 52.00% | ~76 |
-| Haute cuisine | 47.00% | ~69 |
-| Demolition expert | 39.00% | ~57 |
-| I didn't do it! | 39.00% | ~57 |
-| Keep away from children | 37.00% | ~54 |
-| Wooooooow! | 37.00% | ~54 |
-| Open up wide | 35.00% | ~51 |
+| Chapter I | 52.00% | ~77 |
+| Haute cuisine | 47.00% | ~70 |
+| Demolition expert | 39.00% | ~58 |
+| I didn't do it! | 39.00% | ~58 |
+| Keep away from children | 36.00% | ~53 |
+| Wooooooow! | 36.00% | ~53 |
+| Open up wide | 35.00% | ~52 |
 | Artistic fool | 33.00% | ~49 |
 | Let the boot talk | 31.00% | ~46 |
-| Chapter II | 27.00% | ~40 |
 | Shadow on the wall | 26.00% | ~38 |
-| Handyman | 24.00% | ~35 |
+| Chapter II | 26.00% | ~38 |
+| Handyman | 24.00% | ~36 |
 | Achoo!! | 23.00% | ~34 |
 | Chapter III | 23.00% | ~34 |
 | Like a moth in the Wind | 23.00% | ~34 |
-| Bubblekillerfamily | 22.00% | ~32 |
-| Quite a buggy game | 20.00% | ~29 |
-| Pacifist | 20.00% | ~29 |
-| Mirror mirror on the wall... | 20.00% | ~29 |
-| Fastidious Clown | 18.00% | ~26 |
-| It's not easy being green! | 18.00% | ~26 |
-| Home is where the heart is | 18.00% | ~26 |
+| Bubblekillerfamily | 22.00% | ~33 |
+| Quite a buggy game | 20.00% | ~30 |
+| Pacifist | 20.00% | ~30 |
+| Mirror mirror on the wall... | 20.00% | ~30 |
+| Fastidious Clown | 18.00% | ~27 |
+| It's not easy being green! | 18.00% | ~27 |
+| Home is where the heart is | 18.00% | ~27 |
 | Death is a part of life | 15.00% | ~22 |
 | Master of Thermodynamics | 14.00% | ~21 |
 | Unfullfilled dreams | 13.00% | ~19 |
 | To err is human... | 12.00% | ~18 |
-| Useless but beautiful | 10.00% | ~15 |
-| Nothing can stop me | 10.00% | ~15 |
-| Mumbo Jumbo | 10.00% | ~15 |
+| Useless but beautiful | 9.00% | ~13 |
 | Lollipop | 9.00% | ~13 |
+| Nothing can stop me | 9.00% | ~13 |
+| Mumbo Jumbo | 9.00% | ~13 |
 | Where there is life, there is hope | 7.00% | ~10 |
 | It's nothing personal | 7.00% | ~10 |
 | Artistic master | 5.00% | ~7 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 147 (Ranked 388)  
+Progressed: 148 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 140 | 0 |
 | 2023-11-07 | 142 | 0 |
 | 2023-11-08 | 143 | 0 |
-| 2023-11-09 | 147 | 0 |
+| 2023-11-09 | 148 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

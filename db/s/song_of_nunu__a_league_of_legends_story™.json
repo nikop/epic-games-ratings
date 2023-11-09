@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 612,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -1027,9 +1027,9 @@
       "ID": "EV_ACH06",
       "SetID": "6jeac23",
       "Name": "A Tragic Reminder",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 251
     },
     {
       "ID": "EV_ACH07",
@@ -1043,9 +1043,9 @@
       "ID": "EV_ACH08",
       "SetID": "6jeac23",
       "Name": "So Close",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 220
     },
     {
       "ID": "EV_ACH09",
@@ -1075,17 +1075,17 @@
       "ID": "EV_ACH12",
       "SetID": "6jeac23",
       "Name": "Freeze The Ice Witch",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 202
     },
     {
       "ID": "EV_ACH13",
       "SetID": "6jeac23",
       "Name": "It Is Not Over",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 184
+      "UsersEstimate": 190
     },
     {
       "ID": "EV_ACH14",
@@ -1179,9 +1179,9 @@
       "ID": "EV_ACH25",
       "SetID": "6jeac23",
       "Name": "Rhythm Of Willump",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 282
     },
     {
       "ID": "EV_ACH26",
@@ -1259,9 +1259,9 @@
       "ID": "EV_ACH35",
       "SetID": "6jeac23",
       "Name": "The Fire Below the Mountain",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 386
     },
     {
       "ID": "EV_ACH36",
@@ -1275,9 +1275,9 @@
       "ID": "EV_ACH37",
       "SetID": "6jeac23",
       "Name": "The Finisher",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 239
     },
     {
       "ID": "EV_ACH38",
@@ -1346,8 +1346,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:12:18.8807638+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:10:25.9724551+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:05:06.6327509+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:12:18.8808144+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:03:16.8345102+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:10:25.9725016+00:00"
 }

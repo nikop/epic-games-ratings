@@ -10,9 +10,9 @@ Rating: 4.20 (Ranked 909)
 | Shared Triumph | 0.40% | ~6 |
 | No Mercy | 0.40% | ~6 |
 | Thriving in Darkness | 0.40% | ~6 |
-| Lost and Found | 0.30% | ~4 |
-| Shades of Violence | 0.30% | ~4 |
-| The Past Shapes the Present | 0.30% | ~4 |
+| Lost and Found | 0.30% | ~5 |
+| Shades of Violence | 0.30% | ~5 |
+| The Past Shapes the Present | 0.30% | ~5 |
 | Weapon Collector | 0.20% | ~3 |
 | What Sights Contained Within | 0.20% | ~3 |
 | Ammunition Collector | 0.20% | ~3 |
@@ -69,7 +69,7 @@ Rating: 4.20 (Ranked 909)
 | A Rest Among the Dead | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,500 (Ranked 234)  
+Progressed: 1,501 (Ranked 234)  
 Completed: 1 (0.07%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -91,7 +91,7 @@ Completed: 1 (0.07%) (Ranked 286)
 | 2023-11-06 | 1,460 | 1 |
 | 2023-11-07 | 1,466 | 1 |
 | 2023-11-08 | 1,486 | 1 |
-| 2023-11-09 | 1,500 | 1 |
+| 2023-11-09 | 1,501 | 1 |
 ## Awards
 Max (Character Customization): 143  (Ranked 320)  
 Sum: 244 (Ranked 381)  

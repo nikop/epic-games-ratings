@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 469)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 29.00% | ~953 |
+| Wakey Wakey | 29.00% | ~954 |
 | Sputnik 2049 | 26.00% | ~855 |
 | Infinite Growth... | 24.00% | ~789 |
 | Without Breaking Some Eggs... | 23.00% | ~756 |
@@ -17,8 +17,8 @@ Rating: 4.57 (Ranked 469)
 | The Ship of Theseus | 14.00% | ~460 |
 | Guy de Borderlands | 13.00% | ~427 |
 | Ain't Nobody Got Time for That | 13.00% | ~427 |
-| Exceeding Capacity | 12.00% | ~394 |
-| Hope Seeker | 12.00% | ~394 |
+| Exceeding Capacity | 12.00% | ~395 |
+| Hope Seeker | 12.00% | ~395 |
 | A Hunk of Junk | 11.00% | ~362 |
 | Breaking Protocol | 11.00% | ~362 |
 | Man's Best Friend | 9.00% | ~296 |
@@ -35,9 +35,9 @@ Rating: 4.57 (Ranked 469)
 | ...  in a finite world | 5.00% | ~164 |
 | BRAWL! | 5.00% | ~164 |
 | What the Ruins Teach Us | 5.00% | ~164 |
-| Sustainable Energy | 4.00% | ~131 |
-| In Dolos We Trust | 4.00% | ~131 |
-| Pedal to the Metal | 4.00% | ~131 |
+| Sustainable Energy | 4.00% | ~132 |
+| In Dolos We Trust | 4.00% | ~132 |
+| Pedal to the Metal | 4.00% | ~132 |
 | Praise the Hull! | 3.00% | ~99 |
 | Delivery! | 3.00% | ~99 |
 | Drill-dozer | 3.00% | ~99 |
@@ -63,7 +63,7 @@ Rating: 4.57 (Ranked 469)
 | Suburban Perfection | 0.10% | ~3 |
 | Beyond Time and Space | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,287 (Ranked 202)  
+Progressed: 3,288 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 3,283 | 0 |
 | 2023-11-07 | 3,284 | 0 |
 | 2023-11-08 | 3,285 | 0 |
-| 2023-11-09 | 3,287 | 0 |
+| 2023-11-09 | 3,288 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

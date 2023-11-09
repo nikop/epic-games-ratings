@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11082,9 +11082,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51339,
+  "EOS_Progressed": 51340,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29467,6 +29467,11 @@
       "Time": "2023-11-09T22:08:34.0558323+00:00",
       "NumProgressed": 51339,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-09T23:06:41.1494157+00:00",
+      "NumProgressed": 51340,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -29558,7 +29563,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32857
+      "UsersEstimate": 32858
     },
     {
       "ID": "CutTree",
@@ -29614,7 +29619,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30803
+      "UsersEstimate": 30804
     },
     {
       "ID": "Harvested",
@@ -29630,7 +29635,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 38504
+      "UsersEstimate": 38505
     },
     {
       "ID": "HorseJumps",
@@ -29766,7 +29771,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 31830
+      "UsersEstimate": 31831
     },
     {
       "ID": "Stones",
@@ -29782,7 +29787,7 @@
       "Name": "Field Trip",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 22589
+      "UsersEstimate": 22590
     },
     {
       "ID": "TruckDriving",
@@ -29821,15 +29826,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51339,
+      "Progressed": 51340,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-09T21:00:53.8045868+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:08:34.0558313+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:06:41.1494151+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:18.1648668+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:04:05.7643669+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:08:34.0560114+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:01:36.353622+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:06:41.1495726+00:00"
 }

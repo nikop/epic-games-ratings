@@ -6,35 +6,35 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~49,085 |
-| Worth it | 63.00% | ~39,645 |
-| Eagle Eye | 55.00% | ~34,611 |
-| Corpseman I | 40.00% | ~25,172 |
-| Blast fishing | 37.00% | ~23,284 |
-| Not alone | 32.00% | ~20,137 |
-| Headhunter I | 26.00% | ~16,362 |
-| Manual Labour I | 25.00% | ~15,732 |
-| Developers, Developers, Developers | 24.00% | ~15,103 |
-| Basic Training | 24.00% | ~15,103 |
-| Furchtlos und Treu | 13.00% | ~8,181 |
-| Gott Mit Uns | 12.00% | ~7,551 |
-| This We'll Defend! | 9.00% | ~5,664 |
-| Anker wirf! | 9.00% | ~5,664 |
-| Providentiea Memor | 9.00% | ~5,664 |
-| For King and Country | 9.00% | ~5,664 |
-| Battle hardened | 8.00% | ~5,034 |
-| Semper Fidelis! | 7.00% | ~4,405 |
-| Honneur et Patrie | 7.00% | ~4,405 |
-| In Treue Fest | 5.00% | ~3,146 |
-| Voor De Koning | 5.00% | ~3,146 |
-| Extreme Headhunter | 5.00% | ~3,146 |
-| Advance Australia | 4.00% | ~2,517 |
-| We Stand on Guard | 4.00% | ~2,517 |
-| Sidi Brahim | 4.00% | ~2,517 |
-| War is better with friends I | 4.00% | ~2,517 |
-| Let them, come to us | 4.00% | ~2,517 |
-| There is no I in team | 4.00% | ~2,517 |
-| Corpseman II | 4.00% | ~2,517 |
+| Setting an example | 78.00% | ~49,093 |
+| Worth it | 63.00% | ~39,652 |
+| Eagle Eye | 55.00% | ~34,617 |
+| Corpseman I | 40.00% | ~25,176 |
+| Blast fishing | 37.00% | ~23,288 |
+| Not alone | 32.00% | ~20,141 |
+| Headhunter I | 26.00% | ~16,364 |
+| Manual Labour I | 25.00% | ~15,735 |
+| Developers, Developers, Developers | 24.00% | ~15,106 |
+| Basic Training | 24.00% | ~15,106 |
+| Furchtlos und Treu | 13.00% | ~8,182 |
+| Gott Mit Uns | 12.00% | ~7,553 |
+| This We'll Defend! | 9.00% | ~5,665 |
+| Anker wirf! | 9.00% | ~5,665 |
+| Providentiea Memor | 9.00% | ~5,665 |
+| For King and Country | 9.00% | ~5,665 |
+| Battle hardened | 8.00% | ~5,035 |
+| Semper Fidelis! | 7.00% | ~4,406 |
+| Honneur et Patrie | 7.00% | ~4,406 |
+| In Treue Fest | 5.00% | ~3,147 |
+| Voor De Koning | 5.00% | ~3,147 |
+| Extreme Headhunter | 5.00% | ~3,147 |
+| Advance Australia | 4.00% | ~2,518 |
+| We Stand on Guard | 4.00% | ~2,518 |
+| Sidi Brahim | 4.00% | ~2,518 |
+| War is better with friends I | 4.00% | ~2,518 |
+| Let them, come to us | 4.00% | ~2,518 |
+| There is no I in team | 4.00% | ~2,518 |
+| Corpseman II | 4.00% | ~2,518 |
 | Offense is the best defence | 3.00% | ~1,888 |
 | Veteran | 3.00% | ~1,888 |
 | Manual Labour II | 3.00% | ~1,888 |
@@ -51,7 +51,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Do you even die? | 1.00% | ~629 |
 | Headhunter II | 1.00% | ~629 |
 | Corpseman III | 1.00% | ~629 |
-| Elite Player | 0.80% | ~503 |
+| Elite Player | 0.80% | ~504 |
 | Manual Labour III | 0.40% | ~252 |
 | Buddy | 0.30% | ~189 |
 | War is better with friends II | 0.20% | ~126 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~63 |
 | Blood Brother | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 62,929 (Ranked 104)  
+Progressed: 62,940 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,10 +269,10 @@ Completed: 4 (0.01%) (Ranked 321)
 | 2023-11-06 | 62,733 | 4 |
 | 2023-11-07 | 62,792 | 4 |
 | 2023-11-08 | 62,864 | 4 |
-| 2023-11-09 | 62,929 | 4 |
+| 2023-11-09 | 62,940 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 351)  
-Sum: 905 (Ranked 270)  
+Sum: 906 (Ranked 270)  
 Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
@@ -287,7 +287,7 @@ Diff (max vs sum): 81
 | This game has Competitive Players | 74 |
 | This game has Realistic Visuals | 72 |
 | This game has a Competitive Community | 71 |
-| This game has Amazing Storytelling | 60 |
+| This game has Amazing Storytelling | 61 |
 | This game has Challenging Combat | 55 |
 | This game has Obsessive Gameplay | 46 |
 ## Ratings History
@@ -434,3 +434,4 @@ Diff (max vs sum): 81
 | 2023-11-05 | 4.53 | - | 106 | 903 |
 | 2023-11-07 | 4.53 | - | 106 | 904 |
 | 2023-11-08 | 4.53 | - | 106 | 905 |
+| 2023-11-09 | 4.53 | - | 106 | 906 |

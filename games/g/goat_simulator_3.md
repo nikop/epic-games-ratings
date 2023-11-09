@@ -5,22 +5,22 @@ Rating: 4.84 (Ranked 51)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~227,680 |
+| Forgotten Sorority | 91.00% | ~227,681 |
 | Private Club | 74.00% | ~185,147 |
 | Rogue Guild | 65.00% | ~162,629 |
 | I Watched the Intro | 57.00% | ~142,613 |
 | Covert Consortium | 55.00% | ~137,609 |
 | Goat Queen | 53.00% | ~132,605 |
-| Reach the Stratosphere | 50.00% | ~125,099 |
-| Synchronization Complete | 47.00% | ~117,593 |
-| Secret Society | 45.00% | ~112,589 |
-| Shadow Syndicate | 38.00% | ~95,075 |
-| What a Waste of Money | 33.00% | ~82,565 |
-| New Goat Order | 30.00% | ~75,059 |
-| Don't touch the servers | 28.00% | ~70,055 |
-| San Angora: Become Human | 27.00% | ~67,553 |
-| Real Buoy | 27.00% | ~67,553 |
-| Raider of the Lost Parking Garage | 26.00% | ~65,051 |
+| Reach the Stratosphere | 50.00% | ~125,100 |
+| Synchronization Complete | 47.00% | ~117,594 |
+| Secret Society | 45.00% | ~112,590 |
+| Shadow Syndicate | 38.00% | ~95,076 |
+| What a Waste of Money | 33.00% | ~82,566 |
+| New Goat Order | 30.00% | ~75,060 |
+| Don't touch the servers | 28.00% | ~70,056 |
+| San Angora: Become Human | 27.00% | ~67,554 |
+| Real Buoy | 27.00% | ~67,554 |
+| Raider of the Lost Parking Garage | 26.00% | ~65,052 |
 | Welcome to Earth | 25.00% | ~62,550 |
 | Into the Matrix | 19.00% | ~47,538 |
 | Egg Simulator | 18.00% | ~45,036 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 51)
 | Move! That! Bus! | 0.60% | ~1,501 |
 | G.O.A.T | 0.30% | ~751 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,198 (Ranked 59)  
+Progressed: 250,199 (Ranked 59)  
 Completed: 872 (0.35%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,14 +248,14 @@ Completed: 872 (0.35%) (Ranked 217)
 | 2023-11-06 | 249,981 | 871 |
 | 2023-11-07 | 250,052 | 871 |
 | 2023-11-08 | 250,133 | 871 |
-| 2023-11-09 | 250,198 | 872 |
+| 2023-11-09 | 250,199 | 872 |
 ## Awards
-Max (Great for Beginners): 454  (Ranked 212)  
-Sum: 3,784 (Ranked 158)  
+Max (Great for Beginners): 455  (Ranked 212)  
+Sum: 3,785 (Ranked 158)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 454 |
+| This game is Great for Beginners | 455 |
 | This game has Diverse Characters | 436 |
 | This game is Highly Recommended | 397 |
 | This game has Amazing Characters | 373 |
@@ -495,4 +495,4 @@ Diff (max vs sum): 54
 | 2023-11-06 | 4.84 | 448 | 3,762 |
 | 2023-11-07 | 4.84 | 454 | 3,770 |
 | 2023-11-08 | 4.84 | 454 | 3,777 |
-| 2023-11-09 | 4.84 | 454 | 3,784 |
+| 2023-11-09 | 4.84 | 455 | 3,785 |

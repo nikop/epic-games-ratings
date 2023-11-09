@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1457,9 +1457,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16424,
+  "EOS_Progressed": 16425,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8857,6 +8857,11 @@
       "Time": "2023-11-09T22:06:34.6005366+00:00",
       "NumProgressed": 16424,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-09T23:04:42.9741735+00:00",
+      "NumProgressed": 16425,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -8996,7 +9001,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "KILL_ROBOT",
@@ -9036,7 +9041,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "PRINT_WEAPON",
@@ -9060,7 +9065,7 @@
       "Name": "The Outer Way",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "STORY_ESCAPE",
@@ -9100,7 +9105,7 @@
       "Name": "Desperate Times",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -9243,13 +9248,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16424,
+      "Progressed": 16425,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4350,
+      "Progressed": 4351,
       "Completed": 29
     }
   ],
@@ -9257,8 +9262,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-08T17:02:45.4793564+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:06:34.6005355+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:04:42.9741725+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:14.0432207+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:05:00.0666968+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:06:34.6006395+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:03:10.233981+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:04:42.9742764+00:00"
 }

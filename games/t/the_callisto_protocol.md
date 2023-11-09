@@ -9,10 +9,10 @@ Rating: 4.19 (Ranked 916)
 | Paper Jams | 8.00% | ~1,314 |
 | Flesh Wound | 7.00% | ~1,150 |
 | Float Like A Butterfly | 7.00% | ~1,150 |
-| Chew 'Em Up | 6.00% | ~985 |
-| Reforged | 6.00% | ~985 |
-| The Outer Way | 6.00% | ~985 |
-| Desperate Times | 6.00% | ~985 |
+| Chew 'Em Up | 6.00% | ~986 |
+| Reforged | 6.00% | ~986 |
+| The Outer Way | 6.00% | ~986 |
+| Desperate Times | 6.00% | ~986 |
 | Two Heads Are Better Than One | 5.00% | ~821 |
 | Workplace Hazard | 5.00% | ~821 |
 | If the SHU Fits... | 5.00% | ~821 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 916)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,424 (Ranked 143)  
+Progressed: 16,425 (Ranked 143)  
 Completed: 79 (0.48%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 79 (0.48%) (Ranked 196)
 | 2023-11-06 | 16,412 | 79 |
 | 2023-11-07 | 16,414 | 79 |
 | 2023-11-08 | 16,420 | 79 |
-| 2023-11-09 | 16,424 | 79 |
+| 2023-11-09 | 16,425 | 79 |
 ## Awards
 Max (Highly Recommended): 82  (Ranked 385)  
 Sum: 477 (Ranked 326)  

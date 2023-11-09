@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -429,9 +429,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5310,
+  "EOS_Progressed": 5312,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6804,6 +6804,11 @@
       "Time": "2023-11-09T21:07:42.1442313+00:00",
       "NumProgressed": 5310,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-09T23:08:55.3146206+00:00",
+      "NumProgressed": 5312,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6829,9 +6834,9 @@
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "12",
@@ -6845,9 +6850,9 @@
       "ID": "13",
       "SetID": "3aa2279",
       "Name": "The Magic That Empowers Me!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "14",
@@ -7221,9 +7226,9 @@
       "ID": "52",
       "SetID": "7132754",
       "Name": "Sehiran Oasis",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "53",
@@ -7269,9 +7274,9 @@
       "ID": "58",
       "SetID": "7132754",
       "Name": "Dawn of the Dread",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "59",
@@ -7294,13 +7299,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5310,
+      "Progressed": 5312,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5310,
+      "Progressed": 5312,
       "Completed": 7
     }
   ],
@@ -7308,8 +7313,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-09T11:59:25.9904404+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:10:48.337499+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:08:55.31462+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:03:33.6474105+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:10:48.3376296+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:01:04.5566789+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:08:55.3147433+00:00"
 }

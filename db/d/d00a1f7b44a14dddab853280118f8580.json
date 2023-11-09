@@ -4,8 +4,8 @@
   "ProductSlug": "100-doors-escape-from-prison-1e0ba3",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 16,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-07-28T07:00:00+00:00",
     "PcReleaseDate": "2022-06-15T07:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 163,
-  "EOS_Completed": 37,
+  "EOS_Completed": 38,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 22.7,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 23.31,
   "EosHistory": [
     {
       "Time": "2023-07-27T20:02:52.2340673+00:00",
@@ -809,6 +809,11 @@
       "Time": "2023-11-07T13:09:23.1611075+00:00",
       "NumProgressed": 163,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-09T23:07:13.3708548+00:00",
+      "NumProgressed": 163,
+      "NumCompleted": 38
     }
   ],
   "AchievementsAdded": "2023-07-27T20:02:52.2356404+00:00",
@@ -883,25 +888,25 @@
       "ID": "ach_skip_1",
       "SetID": "5e260i9",
       "Name": "Keep moving on!",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_skip_3",
       "SetID": "5e260i9",
       "Name": "Advance further!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 80,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ach_skip_5",
       "SetID": "5e260i9",
       "Name": "Skip and conquer!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 150,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     }
   ],
   "AchievementSets": [
@@ -909,13 +914,13 @@
       "ID": "5e260i9",
       "IsBase": true,
       "Progressed": 163,
-      "Completed": 37
+      "Completed": 38
     }
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:09:06.3840887+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:07:13.3708542+00:00",
   "LastUpdate_AppInfo": "2023-11-03T04:57:16.3564398+00:00",
-  "LastUpdate_Ratings": "2023-11-09T21:58:33.8872959+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:09:06.3841099+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:57:46.5237302+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:07:13.3708726+00:00"
 }

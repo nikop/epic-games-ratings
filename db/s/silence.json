@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 147,
+  "EOS_Progressed": 148,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -330,6 +330,11 @@
       "Time": "2023-11-09T22:07:28.9401323+00:00",
       "NumProgressed": 147,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T23:05:37.9957723+00:00",
+      "NumProgressed": 148,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 46,
@@ -365,7 +370,7 @@
       "Name": "Quite a buggy game",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "0000_achv_gameovertwice",
@@ -427,9 +432,9 @@
       "ID": "0000_achv_spotinteract",
       "SetID": "dhn82m5",
       "Name": "Useless but beautiful",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "0000_achv_spotlick",
@@ -443,9 +448,9 @@
       "ID": "0000_achv_unstoppable",
       "SetID": "dhn82m5",
       "Name": "Nothing can stop me",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "1001_achv_shadowplay",
@@ -469,7 +474,7 @@
       "Name": "Open up wide",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "1006_achv_chapter1",
@@ -477,7 +482,7 @@
       "Name": "Chapter I",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "1006_achv_demoliton",
@@ -485,7 +490,7 @@
       "Name": "Demolition expert",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "1006_achv_dropball",
@@ -501,7 +506,7 @@
       "Name": "Handyman",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "1006_achv_pacifist",
@@ -509,15 +514,15 @@
       "Name": "Pacifist",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "2001_achv_shrooms",
       "SetID": "dhn82m5",
       "Name": "Keep away from children",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "2002_achv_burnswamp",
@@ -525,7 +530,7 @@
       "Name": "I didn\u0027t do it!",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "2002_achv_feedfish",
@@ -541,15 +546,15 @@
       "Name": "Haute cuisine",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "2004_achv_abyss",
       "SetID": "dhn82m5",
       "Name": "Wooooooow!",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "2004_achv_hitkyra",
@@ -563,9 +568,9 @@
       "ID": "2005n_achv_chapter2",
       "SetID": "dhn82m5",
       "Name": "Chapter II",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 38
     },
     {
       "ID": "2008_achv_bubble",
@@ -573,7 +578,7 @@
       "Name": "Bubblekillerfamily",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "2008_achv_spotfly",
@@ -629,7 +634,7 @@
       "Name": "Fastidious Clown",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "3004_achv_sneeze",
@@ -651,9 +656,9 @@
       "ID": "3011_achv_magicbox",
       "SetID": "dhn82m5",
       "Name": "Mumbo Jumbo",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 13
     },
     {
       "ID": "3014_achv_sendspot",
@@ -661,7 +666,7 @@
       "Name": "It\u0027s not easy being green!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "3014_achv_shootgate",
@@ -693,7 +698,7 @@
       "Name": "Home is where the heart is",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "4004_achv_mirror",
@@ -701,14 +706,14 @@
       "Name": "Mirror mirror on the wall...",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
     {
       "ID": "dhn82m5",
       "IsBase": true,
-      "Progressed": 147,
+      "Progressed": 148,
       "Completed": 0
     }
   ],
@@ -716,8 +721,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:07:28.9401313+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:05:37.9957717+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:51.6320481+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:01:48.5979847+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:07:28.9401756+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:59:31.088747+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:05:37.9958316+00:00"
 }

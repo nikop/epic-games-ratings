@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -451,9 +451,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2126,
+  "EOS_Progressed": 2129,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6606,6 +6606,11 @@
       "Time": "2023-11-09T22:11:11.641094+00:00",
       "NumProgressed": 2126,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-09T23:09:18.6122656+00:00",
+      "NumProgressed": 2129,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6729,7 +6734,7 @@
       "Name": "Dragon Master",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "dragonslayer",
@@ -6785,7 +6790,7 @@
       "Name": "Enlightenment",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "exoticmerchant",
@@ -6793,7 +6798,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "fellowshippower",
@@ -6801,7 +6806,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 893
+      "UsersEstimate": 894
     },
     {
       "ID": "fourleafclover",
@@ -6825,7 +6830,7 @@
       "Name": "Full Party",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "gearenchanting",
@@ -6849,7 +6854,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 553
+      "UsersEstimate": 554
     },
     {
       "ID": "herewegoagain",
@@ -6857,7 +6862,7 @@
       "Name": "Here We Go Again",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "heroinspection",
@@ -6889,7 +6894,7 @@
       "Name": "Inspection",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "jewelenchanting",
@@ -6953,7 +6958,7 @@
       "Name": "Miner Clicker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "missionsdedication",
@@ -7009,7 +7014,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1148
+      "UsersEstimate": 1150
     },
     {
       "ID": "prestigiousx10",
@@ -7017,7 +7022,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "relicofthepast",
@@ -7041,7 +7046,7 @@
       "Name": "Scientist",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "scrollmaster",
@@ -7073,7 +7078,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1214
     },
     {
       "ID": "thealchemist",
@@ -7105,7 +7110,7 @@
       "Name": "The game is on",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "thepowerofawakening",
@@ -7137,7 +7142,7 @@
       "Name": "Trader",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "trainingmakesaproplayer",
@@ -7177,7 +7182,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1977
+      "UsersEstimate": 1980
     },
     {
       "ID": "warmachinesarmy",
@@ -7209,14 +7214,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1680
+      "UsersEstimate": 1682
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2126,
+      "Progressed": 2129,
       "Completed": 2
     }
   ],
@@ -7224,8 +7229,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:11:11.6410927+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:09:18.6122651+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-09T21:57:51.289098+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:11:11.6412887+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:57:26.9823877+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:09:18.6124079+00:00"
 }

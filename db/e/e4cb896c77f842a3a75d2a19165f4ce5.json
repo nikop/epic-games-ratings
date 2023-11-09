@@ -4,7 +4,7 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 101,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 623,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.89,
   "EosHistory": [
@@ -1868,9 +1868,9 @@
       "ID": "LEVEL_001",
       "SetID": "7jk5g4e",
       "Name": "Pit-house",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 45,
-      "UsersEstimate": 579
+      "UsersEstimate": 586
     },
     {
       "ID": "LEVEL_003",
@@ -1963,8 +1963,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-09T22:10:10.2636145+00:00",
+  "LastChanged_Achievements": "2023-11-09T23:08:17.4215061+00:00",
   "LastUpdate_AppInfo": "2023-11-07T02:16:30.7589721+00:00",
-  "LastUpdate_Ratings": "2023-11-09T21:58:01.0153537+00:00",
-  "LastUpdate_Achievements": "2023-11-09T22:10:10.2636415+00:00"
+  "LastUpdate_Ratings": "2023-11-09T22:57:31.6903588+00:00",
+  "LastUpdate_Achievements": "2023-11-09T23:08:17.4215327+00:00"
 }
