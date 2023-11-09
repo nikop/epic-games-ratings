@@ -17,11 +17,11 @@
 | A Sandwyrm's Hoard | 5.00% | ~3 |
 | Bladesmith | 3.00% | ~2 |
 | Let Me Solo Them | 3.00% | ~2 |
+| Explorer | 3.00% | ~2 |
 | Frigid Winds | 3.00% | ~2 |
 | Twin Thorns | 3.00% | ~2 |
 | Sommelier | 2.00% | ~1 |
 | Smotherly Love | 2.00% | ~1 |
-| Explorer | 2.00% | ~1 |
 | The River Styx | 2.00% | ~1 |
 | Transformative Nature | 2.00% | ~1 |
 | Champion of Starspire | 2.00% | ~1 |

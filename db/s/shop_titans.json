@@ -6869,11 +6869,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27511,
       "NumberOfAwardsMax": 4819
+    },
+    {
+      "Time": "2023-11-09T07:58:52.7434133+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27514,
+      "NumberOfAwardsMax": 4822
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27511,
-  "NumberOfAwardsMax": 4819,
+  "NumberOfAwards": 27514,
+  "NumberOfAwardsMax": 4822,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6892,7 +6898,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4819
+      "Count": 4822
     },
     {
       "Text": "This game has Easy Combat",
@@ -6925,7 +6931,7 @@
       "Count": 3773
     }
   ],
-  "EOS_Progressed": 138815,
+  "EOS_Progressed": 138818,
   "EOS_Completed": 179,
   "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 1,
@@ -27620,6 +27626,11 @@
       "Time": "2023-11-09T07:05:17.7741892+00:00",
       "NumProgressed": 138815,
       "NumCompleted": 179
+    },
+    {
+      "Time": "2023-11-09T08:04:35.7896122+00:00",
+      "NumProgressed": 138818,
+      "NumCompleted": 179
     }
   ],
   "TotalAchievements": 112,
@@ -27895,7 +27906,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "craft02",
@@ -28103,7 +28114,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "gold02",
@@ -28407,7 +28418,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "sell02",
@@ -28526,15 +28537,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138815,
+      "Progressed": 138818,
       "Completed": 179
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-09T02:58:49.6495553+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:05:17.7741885+00:00",
+  "LastChanged": "2023-11-09T07:58:52.7434131+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:04:35.7896118+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-09T06:59:34.3996899+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:05:17.7745369+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:58:52.7434136+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:04:35.7897929+00:00"
 }

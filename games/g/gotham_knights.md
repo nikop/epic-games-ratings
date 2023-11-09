@@ -6,10 +6,10 @@ Rating: 4.18 (Ranked 925)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 51.00% | ~38,857 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,666 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,667 |
 | Loose Ends | 34.00% | ~25,905 |
 | To the Victor Go the Spoils | 28.00% | ~21,333 |
-| Knighthood | 27.00% | ~20,571 |
+| Knighthood | 27.00% | ~20,572 |
 | Get ReQ'd | 25.00% | ~19,048 |
 | Whispered Words | 25.00% | ~19,048 |
 | The Batman Family | 23.00% | ~17,524 |
@@ -23,9 +23,9 @@ Rating: 4.18 (Ranked 925)
 | The Show Mud Go On | 18.00% | ~13,714 |
 | From Inside Gotham's Walls | 18.00% | ~13,714 |
 | Protector of Gotham | 17.00% | ~12,952 |
-| Universal Health Scare | 16.00% | ~12,190 |
-| In Your Element | 15.00% | ~11,428 |
-| Voiceless | 15.00% | ~11,428 |
+| Universal Health Scare | 16.00% | ~12,191 |
+| In Your Element | 15.00% | ~11,429 |
+| Voiceless | 15.00% | ~11,429 |
 | Rock and a Hard Place | 14.00% | ~10,667 |
 | Cooldown | 14.00% | ~10,667 |
 | Seeking Asylum | 14.00% | ~10,667 |
@@ -61,13 +61,13 @@ Rating: 4.18 (Ranked 925)
 | That's Showbiz, Clayby | 0.50% | ~232 |
 | Hammer and Icicle | 0.40% | ~186 |
 | Renewable Enemy Source | 0.40% | ~186 |
+| Crime Is a Terrible Thing to Waste | 0.40% | ~186 |
 | Showdown Sovereign | 0.40% | ~186 |
-| Crime Is a Terrible Thing to Waste | 0.30% | ~139 |
 | The Cold, the Bad and the Ugly | 0.30% | ~139 |
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,190 (Ranked 97)  
+Progressed: 76,191 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 123 (0.16%) (Ranked 254)
 | 2023-11-06 | 76,084 | 123 |
 | 2023-11-07 | 76,141 | 123 |
 | 2023-11-08 | 76,175 | 123 |
-| 2023-11-09 | 76,190 | 123 |
+| 2023-11-09 | 76,191 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,914  (Ranked 98)  
 Sum: 4,948 (Ranked 137)  

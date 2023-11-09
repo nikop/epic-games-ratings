@@ -271,9 +271,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 232043,
+  "EOS_Progressed": 232044,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20966,6 +20966,11 @@
       "Time": "2023-11-09T05:04:39.1553583+00:00",
       "NumProgressed": 232043,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T08:04:33.5720012+00:00",
+      "NumProgressed": 232044,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -21041,7 +21046,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 83535
+      "UsersEstimate": 83536
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -21137,7 +21142,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51049
+      "UsersEstimate": 51050
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -21200,7 +21205,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232043,
+      "Progressed": 232044,
       "Completed": 5
     }
   ],
@@ -21208,8 +21213,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:05:14.6140288+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:04:33.5720007+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.5446579+00:00",
-  "LastUpdate_Ratings": "2023-11-09T07:01:54.3320745+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:05:14.6142238+00:00"
+  "LastUpdate_Ratings": "2023-11-09T08:00:39.4528131+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:04:33.5721071+00:00"
 }

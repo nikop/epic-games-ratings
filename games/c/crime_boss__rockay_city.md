@@ -5,9 +5,9 @@ Rating: 3.95 (Ranked 1,004)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 2.00% | ~1,797 |
-| First One’s Free | 2.00% | ~1,797 |
-| Downed but Not Outed | 2.00% | ~1,797 |
+| Neophyte Ninja | 2.00% | ~1,798 |
+| First One’s Free | 2.00% | ~1,798 |
+| Downed but Not Outed | 2.00% | ~1,798 |
 | Underworld Initiate | 1.00% | ~899 |
 | Roid Ranger | 1.00% | ~899 |
 | Too Old for This | 1.00% | ~899 |
@@ -23,11 +23,11 @@ Rating: 3.95 (Ranked 1,004)
 | Track Star | 0.60% | ~539 |
 | Headhunter | 0.60% | ~539 |
 | I Like Trains | 0.50% | ~449 |
-| Legend Looter | 0.40% | ~359 |
-| Imports and Exports | 0.40% | ~359 |
-| Foo Finder | 0.40% | ~359 |
-| Freebooter | 0.40% | ~359 |
-| Moneybags | 0.40% | ~359 |
+| Legend Looter | 0.40% | ~360 |
+| Imports and Exports | 0.40% | ~360 |
+| Foo Finder | 0.40% | ~360 |
+| Freebooter | 0.40% | ~360 |
+| Moneybags | 0.40% | ~360 |
 | Savvy Seeker | 0.30% | ~270 |
 | Olympus Ascended | 0.30% | ~270 |
 | Ding Dong | 0.30% | ~270 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,869 (Ranked 91)  
+Progressed: 89,876 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 55 (0.06%) (Ranked 290)
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
 | 2023-11-08 | 89,818 | 55 |
-| 2023-11-09 | 89,869 | 55 |
+| 2023-11-09 | 89,876 | 55 |
 ## Awards
 Max (Diverse Characters): 523  (Ranked 204)  
 Sum: 2,971 (Ranked 175)  

@@ -5,30 +5,30 @@ Rating: 4.60 (Ranked 411)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bootstrapping | 65.00% | ~163,335 |
-| Shine On | 60.00% | ~150,770 |
-| On the Job | 58.00% | ~145,745 |
-| Get Stuck In | 57.00% | ~143,232 |
-| Room for Expansion | 57.00% | ~143,232 |
-| Chill Out | 56.00% | ~140,719 |
-| Sales Pitch | 55.00% | ~138,206 |
-| Grand Designs | 53.00% | ~133,181 |
-| Tinker | 51.00% | ~128,155 |
-| Hot Stuff | 47.00% | ~118,103 |
-| MOAR RGB | 44.00% | ~110,565 |
-| Dream Theme | 37.00% | ~92,975 |
-| The Customer is King | 36.00% | ~90,462 |
-| Working Hard | 35.00% | ~87,949 |
-| On the Bench | 35.00% | ~87,949 |
+| Bootstrapping | 65.00% | ~163,336 |
+| Shine On | 60.00% | ~150,772 |
+| On the Job | 58.00% | ~145,746 |
+| Get Stuck In | 57.00% | ~143,233 |
+| Room for Expansion | 57.00% | ~143,233 |
+| Chill Out | 56.00% | ~140,720 |
+| Sales Pitch | 55.00% | ~138,207 |
+| Grand Designs | 53.00% | ~133,182 |
+| Tinker | 51.00% | ~128,156 |
+| Hot Stuff | 47.00% | ~118,104 |
+| MOAR RGB | 44.00% | ~110,566 |
+| Dream Theme | 37.00% | ~92,976 |
+| The Customer is King | 36.00% | ~90,463 |
+| Working Hard | 35.00% | ~87,950 |
+| On the Bench | 35.00% | ~87,950 |
 | The More the Merrier | 34.00% | ~85,437 |
-| Recycler | 31.00% | ~77,898 |
-| Mix and Match | 30.00% | ~75,385 |
-| Very Imported PC | 30.00% | ~75,385 |
-| Foot in the Door | 30.00% | ~75,385 |
-| Full Throttle | 29.00% | ~72,872 |
+| Recycler | 31.00% | ~77,899 |
+| Mix and Match | 30.00% | ~75,386 |
+| Very Imported PC | 30.00% | ~75,386 |
+| Foot in the Door | 30.00% | ~75,386 |
+| Full Throttle | 29.00% | ~72,873 |
 | Pimp My Rig | 26.00% | ~65,334 |
 | Repair Master | 26.00% | ~65,334 |
-| Local Hero | 23.00% | ~57,795 |
+| Local Hero | 23.00% | ~57,796 |
 | Broken to Smokin' | 21.00% | ~52,770 |
 | Workaholic | 21.00% | ~52,770 |
 | Bench Warmer | 21.00% | ~52,770 |
@@ -41,8 +41,8 @@ Rating: 4.60 (Ranked 411)
 | Variations on a Theme | 18.00% | ~45,231 |
 | Cowboy | 18.00% | ~45,231 |
 | Slap Happy | 18.00% | ~45,231 |
-| Paste Not, Want Not | 16.00% | ~40,205 |
-| Supercool | 16.00% | ~40,205 |
+| Paste Not, Want Not | 16.00% | ~40,206 |
+| Supercool | 16.00% | ~40,206 |
 | Stabiliser | 15.00% | ~37,693 |
 | This One Goes to 11 | 15.00% | ~37,693 |
 | Going Places | 13.00% | ~32,667 |
@@ -65,7 +65,7 @@ Rating: 4.60 (Ranked 411)
 | Keep 'Em Coming | 0.30% | ~754 |
 | Export Expert | 0.20% | ~503 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,284 (Ranked 57)  
+Progressed: 251,286 (Ranked 57)  
 Completed: 153 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 153 (0.06%) (Ranked 290)
 | 2023-11-06 | 250,444 | 153 |
 | 2023-11-07 | 250,909 | 153 |
 | 2023-11-08 | 251,203 | 153 |
-| 2023-11-09 | 251,284 | 153 |
+| 2023-11-09 | 251,286 | 153 |
 ## Awards
 Max (Great for Beginners): 729  (Ranked 178)  
 Sum: 5,192 (Ranked 135)  

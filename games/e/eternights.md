@@ -21,7 +21,7 @@
 | Sia's Promise | 20.00% | ~78 |
 | Truebro | 20.00% | ~78 |
 | Romantic | 16.00% | ~63 |
-| TentacleMAN | 10.00% | ~39 |
+| TentacleMAN | 11.00% | ~43 |
 | Yohan's Promise | 6.00% | ~23 |
 | Flawless | 6.00% | ~23 |
 | Plushyboy | 4.00% | ~16 |

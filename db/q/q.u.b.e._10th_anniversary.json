@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 37,
+  "Ranking_EOS_NewPlayers": 38,
   "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
@@ -160,10 +160,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17312,
+  "EOS_Progressed": 17314,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 2919,
-  "EOS_NewCompleters": 35,
+  "EOS_NewPlayers": 2906,
+  "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -2550,6 +2550,11 @@
       "Time": "2023-11-09T07:09:45.6142025+00:00",
       "NumProgressed": 17312,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-09T08:09:18.6515216+00:00",
+      "NumProgressed": 17314,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 24,
@@ -2609,7 +2614,7 @@
       "Name": "Bronze Trophy",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_S8AllCubes",
@@ -2641,7 +2646,7 @@
       "Name": "Phew!",
       "Percentage": 0.8,
       "XP": 45,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_S8AllPuzzles",
@@ -2665,7 +2670,7 @@
       "Name": "Completed It.",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_S8MasterRoom",
@@ -2721,7 +2726,7 @@
       "Name": "Sector 5",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "ACH_Sector6",
@@ -2729,7 +2734,7 @@
       "Name": "Sector 6",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "ACH_Sector7",
@@ -2752,7 +2757,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 17312,
+      "Progressed": 17314,
       "Completed": 35
     }
   ],
@@ -2760,8 +2765,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-08T11:01:26.018295+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:09:45.6142018+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:09:18.651521+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:46.5183282+00:00",
-  "LastUpdate_Ratings": "2023-11-09T07:01:12.3913255+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:09:45.6142408+00:00"
+  "LastUpdate_Ratings": "2023-11-09T08:00:08.7212936+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:09:18.6515498+00:00"
 }

@@ -4055,7 +4055,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76190,
+  "EOS_Progressed": 76191,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 472,
   "EOS_NewCompleters": 1,
@@ -21990,6 +21990,11 @@
       "Time": "2023-11-09T07:07:24.903107+00:00",
       "NumProgressed": 76190,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-09T08:06:13.2448764+00:00",
+      "NumProgressed": 76191,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22031,9 +22036,9 @@
       "ID": "AC1_HA_RESERVOIR",
       "SetID": "18c818l",
       "Name": "Crime Is a Terrible Thing to Waste",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 186
     },
     {
       "ID": "AC1_HA_STARLABS",
@@ -22089,7 +22094,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11428
+      "UsersEstimate": 11429
     },
     {
       "ID": "CHALLENGES_1",
@@ -22305,7 +22310,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26666
+      "UsersEstimate": 26667
     },
     {
       "ID": "HARLEY_2",
@@ -22329,7 +22334,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12190
+      "UsersEstimate": 12191
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22377,7 +22382,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20571
+      "UsersEstimate": 20572
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -22433,7 +22438,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11428
+      "UsersEstimate": 11429
     },
     {
       "ID": "MYSTERY_07",
@@ -22488,13 +22493,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76190,
+      "Progressed": 76191,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46470,
+      "Progressed": 46471,
       "Completed": 2673
     }
   ],
@@ -22502,8 +22507,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-09T00:03:12.8084582+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:07:24.9031064+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:06:13.2448759+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-09T06:59:32.2207953+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:07:24.9033145+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:58:51.049602+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:06:13.2449872+00:00"
 }

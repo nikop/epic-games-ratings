@@ -16,7 +16,7 @@ Number of Ratings: 62  (23.09.2022)
 | OPERATOR | 36.00% | ~1,735 |
 | It's Blue Light | 33.00% | ~1,590 |
 | Most Wanted | 27.00% | ~1,301 |
-| Infidel | 23.00% | ~1,108 |
+| Infidel | 24.00% | ~1,157 |
 | GOLIATH | 21.00% | ~1,012 |
 | Firebug | 20.00% | ~964 |
 | I Choose You | 18.00% | ~867 |

@@ -11811,7 +11811,7 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 450259,
+  "EOS_Progressed": 450272,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 5476,
   "EOS_NewCompleters": 0,
@@ -34991,6 +34991,11 @@
       "Time": "2023-11-09T07:05:50.1689244+00:00",
       "NumProgressed": 450259,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T08:05:00.9004917+00:00",
+      "NumProgressed": 450272,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35016,9 +35021,9 @@
       "ID": "achievement_a_blessed_nation",
       "SetID": "8p2n7he",
       "Name": "A Blessed Nation",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_a_decent_reserve",
@@ -36816,9 +36821,9 @@
       "ID": "achievement_prester_john",
       "SetID": "8p2n7he",
       "Name": "Prester John",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_prince_of_egypt",
@@ -37905,21 +37910,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 450259,
+      "Progressed": 450272,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 450259,
+      "Progressed": 450272,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-09T04:58:05.1173181+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:05:50.1689233+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:05:00.900491+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-09T06:58:46.3348197+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:05:50.1706979+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:58:14.073924+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:05:00.9014917+00:00"
 }

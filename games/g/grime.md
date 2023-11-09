@@ -8,9 +8,9 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 4.00% | ~6,291 |
 | Imprint | 4.00% | ~6,291 |
-| The Hunt | 3.00% | ~4,718 |
-| Weeper | 3.00% | ~4,718 |
-| Ravenous | 3.00% | ~4,718 |
+| The Hunt | 3.00% | ~4,719 |
+| Weeper | 3.00% | ~4,719 |
+| Ravenous | 3.00% | ~4,719 |
 | Devourer | 2.00% | ~3,146 |
 | Scion | 1.00% | ~1,569 |
 | Harmless | 1.00% | ~1,573 |
@@ -45,15 +45,15 @@ Number of Ratings: 46  (23.09.2022)
 | Proportions | 0.30% | ~472 |
 | Weakness | 0.20% | ~315 |
 | Generous | 0.20% | ~315 |
+| Enrich | 0.20% | ~314 |
 | Intensify | 0.20% | ~314 |
 | Spiral Heart | 0.10% | ~157 |
 | Skinmaker | 0.10% | ~157 |
 | Instruments | 0.10% | ~157 |
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
-| Enrich | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,281 (Ranked 76)  
+Progressed: 157,285 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,15 +233,15 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 156,967 | 1 |
 | 2023-11-07 | 157,118 | 1 |
 | 2023-11-08 | 157,236 | 1 |
-| 2023-11-09 | 157,281 | 1 |
+| 2023-11-09 | 157,285 | 1 |
 ## Awards
-Max (Highly Recommended): 50  (Ranked 426)  
-Sum: 351 (Ranked 348)  
-Diff (max vs sum): 78  
+Max (Quickly Understood Controls): 51  (Ranked 424)  
+Sum: 353 (Ranked 348)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
+| This game has Quickly Understood Controls | 51 |
 | This game is Highly Recommended | 50 |
-| This game has Quickly Understood Controls | 49 |
 | This game has Unique Visuals | 48 |
 | This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 44 |
@@ -386,3 +386,4 @@ Diff (max vs sum): 78
 | 2023-11-04 | 4.58 | - | 50 | 344 |
 | 2023-11-05 | 4.59 | - | 50 | 350 |
 | 2023-11-07 | 4.59 | - | 50 | 351 |
+| 2023-11-09 | 4.59 | - | 51 | 353 |

@@ -37,6 +37,7 @@ Rating: 4.60 (Ranked 411)
 | Impenetrable Fortress | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
 | Intimidation Tactics | 0.10% | ~5 |
+| Jack of All Tomes | 0.10% | ~5 |
 | Pruning for Progress | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
@@ -59,7 +60,6 @@ Rating: 4.60 (Ranked 411)
 | God Emperor | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Fiery Friend | 0.00% | ~0 |
-| Jack of All Tomes | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 | Betrayal Most Foul | 0.00% | ~0 |

@@ -6,31 +6,31 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~36,525 |
-| To The Nines | 42.00% | ~32,639 |
-| Optimized | 37.00% | ~28,754 |
-| Performance Review | 36.00% | ~27,977 |
-| Making a Name | 35.00% | ~27,200 |
-| Tune Up | 34.00% | ~26,422 |
-| Landlord | 33.00% | ~25,645 |
-| Wet Work | 32.00% | ~24,868 |
-| The Side Job | 31.00% | ~24,091 |
+| First F#@!ing Day | 47.00% | ~36,527 |
+| To The Nines | 42.00% | ~32,641 |
+| Optimized | 37.00% | ~28,755 |
+| Performance Review | 36.00% | ~27,978 |
+| Making a Name | 35.00% | ~27,201 |
+| Tune Up | 34.00% | ~26,423 |
+| Landlord | 33.00% | ~25,646 |
+| Wet Work | 32.00% | ~24,869 |
+| The Side Job | 31.00% | ~24,092 |
 | Wrecking Ball | 28.00% | ~21,760 |
 | Food for Thought | 28.00% | ~21,760 |
-| Finders Keepers | 26.00% | ~20,205 |
-| A Young Empire | 26.00% | ~20,205 |
-| Work Ethic | 23.00% | ~17,874 |
+| Finders Keepers | 26.00% | ~20,206 |
+| A Young Empire | 26.00% | ~20,206 |
+| Work Ethic | 23.00% | ~17,875 |
 | Picking Fights | 20.00% | ~15,543 |
-| Power Players | 19.00% | ~14,765 |
-| Quality Time | 18.00% | ~13,988 |
-| Showdown | 17.00% | ~13,211 |
-| Et tu? | 17.00% | ~13,211 |
-| Took It to The Limit | 16.00% | ~12,434 |
+| Power Players | 19.00% | ~14,766 |
+| Quality Time | 18.00% | ~13,989 |
+| Showdown | 17.00% | ~13,212 |
+| Et tu? | 17.00% | ~13,212 |
+| Took It to The Limit | 16.00% | ~12,435 |
 | Kitted Out | 14.00% | ~10,880 |
 | Masters of Santo Ileso | 12.00% | ~9,326 |
-| Hijacked | 11.00% | ~8,548 |
-| The Spins | 10.00% | ~7,771 |
-| The Mechanic | 10.00% | ~7,771 |
+| Hijacked | 11.00% | ~8,549 |
+| The Spins | 10.00% | ~7,772 |
+| The Mechanic | 10.00% | ~7,772 |
 | Closet Space | 8.00% | ~6,217 |
 | We could go home, or… | 7.00% | ~5,440 |
 | Challenge Accepted | 7.00% | ~5,440 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~155 |
 | Fiesta Time | 0.20% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,713 (Ranked 96)  
+Progressed: 77,716 (Ranked 96)  
 Completed: 51 (0.07%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 51 (0.07%) (Ranked 286)
 | 2023-11-06 | 77,492 | 51 |
 | 2023-11-07 | 77,585 | 51 |
 | 2023-11-08 | 77,678 | 51 |
-| 2023-11-09 | 77,713 | 51 |
+| 2023-11-09 | 77,716 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
 Sum: 8,729 (Ranked 97)  

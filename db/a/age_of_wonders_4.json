@@ -7057,9 +7057,9 @@
       "ID": "41",
       "SetID": "3aa2279",
       "Name": "Jack of All Tomes",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "42",
@@ -7272,8 +7272,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-08T19:59:43.5707761+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:08:21.9056228+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:06:25.658022+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-09T07:00:34.4333648+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:08:21.9057404+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:59:40.009163+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:06:25.6580862+00:00"
 }

@@ -1487,7 +1487,7 @@
   ],
   "EOS_Progressed": 51984,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1983,
+  "EOS_NewPlayers": 1978,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7346,9 +7346,9 @@
       "ID": "achievement_20",
       "SetID": "3o4m6ni",
       "Name": "Record Breaker",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 8837
+      "UsersEstimate": 9357
     },
     {
       "ID": "achievement_21",
@@ -7579,8 +7579,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-09T01:45:07.3167107+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:04:13.6404346+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:03:45.7383477+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:57.7495818+00:00",
-  "LastUpdate_Ratings": "2023-11-09T07:01:40.8969961+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:04:13.6405099+00:00"
+  "LastUpdate_Ratings": "2023-11-09T08:00:29.2608077+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:03:45.7384011+00:00"
 }

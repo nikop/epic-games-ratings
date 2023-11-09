@@ -5,14 +5,14 @@ Rating: 4.51 (Ranked 565)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~162,536 |
-| FIRST BLOOD | 40.00% | ~144,477 |
-| KEVIN! | 30.00% | ~108,358 |
-| JACK OF ALL TRADES | 23.00% | ~83,074 |
-| CRIMINAL | 20.00% | ~72,238 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~39,731 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~32,507 |
-| HONORS STUDENT | 8.00% | ~28,895 |
+| MASTER CHEF | 45.00% | ~162,543 |
+| FIRST BLOOD | 40.00% | ~144,482 |
+| KEVIN! | 30.00% | ~108,362 |
+| JACK OF ALL TRADES | 23.00% | ~83,077 |
+| CRIMINAL | 20.00% | ~72,241 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~39,733 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~32,509 |
+| HONORS STUDENT | 8.00% | ~28,896 |
 | BUTCHER | 6.00% | ~21,672 |
 | INDIVIDUAL APPROACH | 5.00% | ~18,060 |
 | RAMBO | 5.00% | ~18,060 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 565)
 | MISTER ALL THUMBS | 0.10% | ~361 |
 | TRAVELER | 0.10% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361,192 (Ranked 45)  
+Progressed: 361,206 (Ranked 45)  
 Completed: 34 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -164,7 +164,7 @@ Completed: 34 (0.01%) (Ranked 321)
 | 2023-11-06 | 359,380 | 33 |
 | 2023-11-07 | 360,210 | 34 |
 | 2023-11-08 | 360,993 | 34 |
-| 2023-11-09 | 361,192 | 34 |
+| 2023-11-09 | 361,206 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

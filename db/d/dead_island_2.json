@@ -6235,10 +6235,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10935,
       "NumberOfAwardsMax": 7208
+    },
+    {
+      "Time": "2023-11-09T07:58:40.5405197+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10941,
+      "NumberOfAwardsMax": 7208
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10935,
+  "NumberOfAwards": 10941,
   "NumberOfAwardsMax": 7208,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6288,7 +6294,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 463
+      "Count": 469
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6297,9 +6303,9 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 715314,
+  "EOS_Progressed": 715328,
   "EOS_Completed": 2362,
-  "EOS_NewPlayers": 4734,
+  "EOS_NewPlayers": 4738,
   "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29432,6 +29438,11 @@
       "Time": "2023-11-09T07:07:13.748412+00:00",
       "NumProgressed": 715314,
       "NumCompleted": 2362
+    },
+    {
+      "Time": "2023-11-09T08:06:04.7573297+00:00",
+      "NumProgressed": 715328,
+      "NumCompleted": 2362
     }
   ],
   "TotalAchievements": 51,
@@ -29585,9 +29596,9 @@
       "ID": "ach_hazardous_materials",
       "SetID": "7km39fm",
       "Name": "Hazardous Materials",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 3577
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -29850,22 +29861,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715314,
+      "Progressed": 715328,
       "Completed": 2362
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40856,
+      "Progressed": 40870,
       "Completed": 36501
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-09T05:58:28.1833868+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:07:13.7484114+00:00",
+  "LastChanged": "2023-11-09T07:58:40.5405194+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:06:04.7573292+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-09T06:59:19.4191927+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:07:13.748662+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:58:40.5405201+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:06:04.7574661+00:00"
 }

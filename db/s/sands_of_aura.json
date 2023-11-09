@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -551,9 +551,9 @@
       "ID": "DISCOVER_ALL_ISLANDS",
       "SetID": "cm0d613",
       "Name": "Explorer",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DISCOVER_ONCEMAN_TOWN",
@@ -808,8 +808,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:03:58.71886+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:03:34.3203737+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.0401446+00:00",
-  "LastUpdate_Ratings": "2023-11-09T06:57:52.4262942+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:03:58.7189091+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:57:33.9336573+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:03:34.3204115+00:00"
 }

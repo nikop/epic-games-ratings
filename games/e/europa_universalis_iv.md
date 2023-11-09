@@ -6,6 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Blessed Nation | 0.10% | ~450 |
 | A Decent Reserve | 0.10% | ~450 |
 | A Manchurian Candidate | 0.10% | ~450 |
 | A Pile of Gold | 0.10% | ~450 |
@@ -106,6 +107,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One Night in Paris | 0.10% | ~450 |
 | Over a Thousand! | 0.10% | ~450 |
 | Populists in Government | 0.10% | ~450 |
+| Prester John | 0.10% | ~450 |
 | Queen of Conquest | 0.10% | ~450 |
 | Relentless Push East | 0.10% | ~450 |
 | Respected | 0.10% | ~450 |
@@ -158,7 +160,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~450 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
-| A Blessed Nation | 0.00% | ~0 |
 | A Hero’s Welcome | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
@@ -283,7 +284,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Pick Your Poison | 0.00% | ~0 |
 | Pirate Bay of Janjira | 0.00% | ~0 |
 | Poland can into space | 0.00% | ~0 |
-| Prester John | 0.00% | ~0 |
 | The Prince of Egypt | 0.00% | ~0 |
 | Protect the Secret | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,259 (Ranked 41)  
+Progressed: 450,272 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
-| 2023-11-09 | 450,259 | 1 |
+| 2023-11-09 | 450,272 | 1 |
 ## Awards
 Max (Educational): 6,915  (Ranked 55)  
 Sum: 56,813 (Ranked 24)  

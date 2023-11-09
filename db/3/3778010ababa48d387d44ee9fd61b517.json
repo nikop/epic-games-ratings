@@ -100,9 +100,9 @@
       "ID": "A_AVATAR",
       "SetID": "324h56e",
       "Name": "The Avatar",
-      "Percentage": 11,
+      "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_CHAINBOLT",
@@ -403,8 +403,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:06:17.0344165+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:05:21.3552858+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:41.4462946+00:00",
-  "LastUpdate_Ratings": "2023-11-09T07:02:53.9069985+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:06:17.0344521+00:00"
+  "LastUpdate_Ratings": "2023-11-09T08:02:43.003895+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:05:21.3553113+00:00"
 }

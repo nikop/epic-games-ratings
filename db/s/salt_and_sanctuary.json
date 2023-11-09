@@ -2766,9 +2766,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 537667,
+  "EOS_Progressed": 537668,
   "EOS_Completed": 1609,
-  "EOS_NewPlayers": 661,
+  "EOS_NewPlayers": 659,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -25046,6 +25046,11 @@
       "Time": "2023-11-09T07:08:50.6614295+00:00",
       "NumProgressed": 537667,
       "NumCompleted": 1609
+    },
+    {
+      "Time": "2023-11-09T08:08:36.3946666+00:00",
+      "NumProgressed": 537668,
+      "NumCompleted": 1609
     }
   ],
   "TotalAchievements": 37,
@@ -25241,7 +25246,7 @@
       "Name": "The Keep",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 75273
+      "UsersEstimate": 75274
     },
     {
       "ID": "THE_LAKE",
@@ -25313,7 +25318,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 344107
+      "UsersEstimate": 344108
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -25329,7 +25334,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 91403
+      "UsersEstimate": 91404
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -25352,15 +25357,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 537667,
+      "Progressed": 537668,
       "Completed": 1609
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2023-11-09T04:00:16.5826272+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:08:50.6614291+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:08:36.3946663+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:16.77314+00:00",
-  "LastUpdate_Ratings": "2023-11-09T07:00:19.69105+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:08:50.6616129+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:59:27.6818305+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:08:36.3948034+00:00"
 }

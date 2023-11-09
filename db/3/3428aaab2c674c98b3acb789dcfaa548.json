@@ -7361,9 +7361,9 @@
       "Count": 1105
     }
   ],
-  "EOS_Progressed": 835051,
+  "EOS_Progressed": 835060,
   "EOS_Completed": 194,
-  "EOS_NewPlayers": 4999,
+  "EOS_NewPlayers": 4990,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27051,6 +27051,11 @@
       "Time": "2023-11-09T07:06:15.5567023+00:00",
       "NumProgressed": 835051,
       "NumCompleted": 194
+    },
+    {
+      "Time": "2023-11-09T08:05:20.2109831+00:00",
+      "NumProgressed": 835060,
+      "NumCompleted": 194
     }
   ],
   "TotalAchievements": 75,
@@ -27062,7 +27067,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 200412
+      "UsersEstimate": 200414
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -27142,7 +27147,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 50103
+      "UsersEstimate": 50104
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -27158,7 +27163,7 @@
       "Name": "Crafty",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 50103
+      "UsersEstimate": 50104
     },
     {
       "ID": "ACHIEVEMENT_CURIOS_AND_RELICS",
@@ -27358,7 +27363,7 @@
       "Name": "New Kid",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 50103
+      "UsersEstimate": 50104
     },
     {
       "ID": "ACHIEVEMENT_NEW_VEGAS_SAMURAI",
@@ -27398,7 +27403,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 50103
+      "UsersEstimate": 50104
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -27534,7 +27539,7 @@
       "Name": "They Went That-a-Way",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 50103
+      "UsersEstimate": 50104
     },
     {
       "ID": "ACHIEVEMENT_THE_BOSS",
@@ -27661,13 +27666,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 835051,
+      "Progressed": 835060,
       "Completed": 235
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 835051,
+      "Progressed": 835060,
       "Completed": 194
     }
   ],
@@ -27675,8 +27680,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-11-09T05:57:04.6448502+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:06:15.5567013+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:05:20.2109822+00:00",
   "LastUpdate_AppInfo": "2023-11-03T05:57:26.006428+00:00",
-  "LastUpdate_Ratings": "2023-11-09T06:57:32.8977682+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:06:15.5569177+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:57:18.4277008+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:05:20.2111174+00:00"
 }

@@ -4,70 +4,70 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 92.00% | ~12 |
-| First to the post | 92.00% | ~12 |
-| Expansion | 85.00% | ~11 |
-| Home Sweet Home | 85.00% | ~11 |
-| A kind of Magic | 85.00% | ~11 |
-| Connected | 85.00% | ~11 |
-| Harvest Time | 77.00% | ~10 |
-| Friend of Lyraine | 77.00% | ~10 |
-| Mine! | 77.00% | ~10 |
-| Fly the friendly Sky | 77.00% | ~10 |
-| Artificer's Apprentice | 69.00% | ~9 |
-| Redecorating | 62.00% | ~8 |
-| The Circle | 62.00% | ~8 |
-| Get out of here! | 62.00% | ~8 |
-| Alchemist's Apprentice | 46.00% | ~6 |
-| Slave to the rhythm | 46.00% | ~6 |
-| Friend of Sevenkeeps | 46.00% | ~6 |
-| Necromancer's Apprentice | 38.00% | ~5 |
-| Friend of Gillyshire | 38.00% | ~5 |
-| Break Free | 38.00% | ~5 |
-| Castle Meldec | 31.00% | ~4 |
-| Sevenkeeps Seat of Kings | 31.00% | ~4 |
-| Defeat Gor | 23.00% | ~3 |
-| Defeat Hokan | 23.00% | ~3 |
-| Defeat Isgrimm | 23.00% | ~3 |
-| Elynn's Tale | 23.00% | ~3 |
-| Philo's Tale | 23.00% | ~3 |
-| Stormwatch Faste | 23.00% | ~3 |
-| Friend of Alluvyan | 23.00% | ~3 |
-| Friend of Orgash | 23.00% | ~3 |
-| Friend of Connach | 23.00% | ~3 |
-| Friend of Bastion | 23.00% | ~3 |
-| Friend of Windholme | 23.00% | ~3 |
-| A Joke | 23.00% | ~3 |
-| Bad JuJu | 23.00% | ~3 |
-| Defeat Ianna | 15.00% | ~2 |
-| Defeat Rohen | 15.00% | ~2 |
-| Defeat Undergast | 15.00% | ~2 |
-| Defeat Uram | 15.00% | ~2 |
-| Defeat Yria | 15.00% | ~2 |
-| Lore's Tale | 15.00% | ~2 |
-| Tuscari Sea Portal | 15.00% | ~2 |
-| Breaking the circle | 15.00% | ~2 |
-| A Master of Magic | 15.00% | ~2 |
-| Balanced | 15.00% | ~2 |
-| Friend of Silver Drift Hollow | 15.00% | ~2 |
-| Magic Academy | 15.00% | ~2 |
-| Get to the Airship! | 8.00% | ~1 |
-| Defeat Raith | 8.00% | ~1 |
-| Lytra's Tale | 8.00% | ~1 |
-| Yngrid's Tale | 8.00% | ~1 |
-| Crypt of the Revenant | 8.00% | ~1 |
-| The Forge of Regan Gor | 8.00% | ~1 |
-| Silver Drift Hollow Mine | 8.00% | ~1 |
-| Master Alchemist | 8.00% | ~1 |
-| Master Artificer | 8.00% | ~1 |
-| Mage Teacher | 8.00% | ~1 |
-| Heroes | 8.00% | ~1 |
-| Friend of Grey Dusk Vale | 8.00% | ~1 |
-| Friend of Uram Gor | 8.00% | ~1 |
+| Enough rooms to swing a cat | 93.00% | ~13 |
+| First to the post | 93.00% | ~13 |
+| Expansion | 86.00% | ~12 |
+| Home Sweet Home | 86.00% | ~12 |
+| A kind of Magic | 86.00% | ~12 |
+| Connected | 86.00% | ~12 |
+| Harvest Time | 79.00% | ~11 |
+| Friend of Lyraine | 79.00% | ~11 |
+| Mine! | 79.00% | ~11 |
+| Fly the friendly Sky | 79.00% | ~11 |
+| Artificer's Apprentice | 71.00% | ~10 |
+| Redecorating | 64.00% | ~9 |
+| The Circle | 64.00% | ~9 |
+| Get out of here! | 64.00% | ~9 |
+| Alchemist's Apprentice | 50.00% | ~7 |
+| Friend of Sevenkeeps | 50.00% | ~7 |
+| Necromancer's Apprentice | 43.00% | ~6 |
+| Slave to the rhythm | 43.00% | ~6 |
+| Friend of Gillyshire | 43.00% | ~6 |
+| Break Free | 43.00% | ~6 |
+| Castle Meldec | 36.00% | ~5 |
+| Sevenkeeps Seat of Kings | 36.00% | ~5 |
+| Defeat Gor | 29.00% | ~4 |
+| Stormwatch Faste | 29.00% | ~4 |
+| Friend of Alluvyan | 29.00% | ~4 |
+| Friend of Orgash | 29.00% | ~4 |
+| Friend of Connach | 29.00% | ~4 |
+| Friend of Bastion | 29.00% | ~4 |
+| Bad JuJu | 29.00% | ~4 |
+| Defeat Hokan | 21.00% | ~3 |
+| Defeat Isgrimm | 21.00% | ~3 |
+| Defeat Uram | 21.00% | ~3 |
+| Elynn's Tale | 21.00% | ~3 |
+| Lore's Tale | 21.00% | ~3 |
+| Philo's Tale | 21.00% | ~3 |
+| A Master of Magic | 21.00% | ~3 |
+| Friend of Silver Drift Hollow | 21.00% | ~3 |
+| Friend of Windholme | 21.00% | ~3 |
+| Magic Academy | 21.00% | ~3 |
+| A Joke | 21.00% | ~3 |
+| Defeat Ianna | 14.00% | ~2 |
+| Defeat Rohen | 14.00% | ~2 |
+| Defeat Undergast | 14.00% | ~2 |
+| Defeat Yria | 14.00% | ~2 |
+| Lytra's Tale | 14.00% | ~2 |
+| Tuscari Sea Portal | 14.00% | ~2 |
+| Master Alchemist | 14.00% | ~2 |
+| Breaking the circle | 14.00% | ~2 |
+| Mage Teacher | 14.00% | ~2 |
+| Balanced | 14.00% | ~2 |
+| Get to the Airship! | 7.00% | ~1 |
+| Defeat Raith | 7.00% | ~1 |
+| Yngrid's Tale | 7.00% | ~1 |
+| Crypt of the Revenant | 7.00% | ~1 |
+| The Forge of Regan Gor | 7.00% | ~1 |
+| Silver Drift Hollow Mine | 7.00% | ~1 |
+| Master Artificer | 7.00% | ~1 |
+| Heroes | 7.00% | ~1 |
+| My Friends! | 7.00% | ~1 |
+| Friend of Grey Dusk Vale | 7.00% | ~1 |
+| Friend of Uram Gor | 7.00% | ~1 |
 | Misty Coast Dragonbones | 0.00% | ~0 |
 | Fireforge | 0.00% | ~0 |
 | A Monopoly of Might | 0.00% | ~0 |
-| My Friends! | 0.00% | ~0 |
 | Hard Life | 0.00% | ~0 |
 | Master Necromancer | 0.00% | ~0 |
 | Impossible Mission | 0.00% | ~0 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13 (Ranked 562)  
+Progressed: 14 (Ranked 556)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -88,7 +88,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-01 | 10 | 0 |
 | 2023-11-04 | 11 | 0 |
 | 2023-11-07 | 12 | 0 |
-| 2023-11-09 | 13 | 0 |
+| 2023-11-09 | 14 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -12,7 +12,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm on a Boat! | 0.70% | ~45 |
 | More Fish in the Sea | 0.70% | ~45 |
 | Scaling up | 0.70% | ~45 |
-| Ready to Rod and Roll | 0.50% | ~32 |
+| Ready to Rod and Roll | 0.60% | ~39 |
 | Fish Out of Water | 0.40% | ~26 |
 | Things that go Splash in the Night | 0.40% | ~26 |
 | School's Out for Summer | 0.30% | ~19 |

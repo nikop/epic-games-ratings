@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151947,
+  "EOS_Progressed": 151948,
   "EOS_Completed": 326,
-  "EOS_NewPlayers": 1017,
+  "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -17458,6 +17458,11 @@
       "Time": "2023-11-09T07:07:34.9327987+00:00",
       "NumProgressed": 151947,
       "NumCompleted": 326
+    },
+    {
+      "Time": "2023-11-09T08:06:20.8920642+00:00",
+      "NumProgressed": 151948,
+      "NumCompleted": 326
     }
   ],
   "TotalAchievements": 31,
@@ -17477,7 +17482,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 106363
+      "UsersEstimate": 106364
     },
     {
       "ID": "EAwards_10",
@@ -17517,7 +17522,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 59259
+      "UsersEstimate": 59260
     },
     {
       "ID": "EAwards_15",
@@ -17541,7 +17546,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33428
+      "UsersEstimate": 33429
     },
     {
       "ID": "EAwards_18",
@@ -17549,7 +17554,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33428
+      "UsersEstimate": 33429
     },
     {
       "ID": "EAwards_19",
@@ -17701,7 +17706,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 56220
+      "UsersEstimate": 56221
     },
     {
       "ID": "EAwards_9",
@@ -17716,7 +17721,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 151947,
+      "Progressed": 151948,
       "Completed": 326
     }
   ],
@@ -17724,8 +17729,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-09T07:07:34.9327979+00:00",
+  "LastChanged_Achievements": "2023-11-09T08:06:20.8920636+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:58.8508803+00:00",
-  "LastUpdate_Ratings": "2023-11-09T06:57:56.3110522+00:00",
-  "LastUpdate_Achievements": "2023-11-09T07:07:34.9329486+00:00"
+  "LastUpdate_Ratings": "2023-11-09T07:57:36.5085625+00:00",
+  "LastUpdate_Achievements": "2023-11-09T08:06:20.8921599+00:00"
 }
