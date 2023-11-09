@@ -6931,9 +6931,9 @@
       "Count": 3773
     }
   ],
-  "EOS_Progressed": 138822,
+  "EOS_Progressed": 138824,
   "EOS_Completed": 179,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27646,6 +27646,11 @@
       "Time": "2023-11-09T11:05:28.588627+00:00",
       "NumProgressed": 138822,
       "NumCompleted": 179
+    },
+    {
+      "Time": "2023-11-09T12:04:36.3232463+00:00",
+      "NumProgressed": 138824,
+      "NumCompleted": 179
     }
   ],
   "TotalAchievements": 112,
@@ -28167,9 +28172,9 @@
       "ID": "gold06",
       "SetID": "anfd17p",
       "Name": "Wealth Beyond Measure",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 1111
     },
     {
       "ID": "help01",
@@ -28503,9 +28508,9 @@
       "ID": "uncommonres02",
       "SetID": "anfd17p",
       "Name": "Exotic Commodities",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 972
+      "UsersEstimate": 1111
     },
     {
       "ID": "uncommonres03",
@@ -28552,15 +28557,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138822,
+      "Progressed": 138824,
       "Completed": 179
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-09T07:58:52.7434131+00:00",
-  "LastChanged_Achievements": "2023-11-09T11:05:28.5886265+00:00",
+  "LastChanged_Achievements": "2023-11-09T12:04:36.3232458+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:59:36.6591342+00:00",
-  "LastUpdate_Achievements": "2023-11-09T11:05:28.5888872+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:58:44.052761+00:00",
+  "LastUpdate_Achievements": "2023-11-09T12:04:36.323416+00:00"
 }

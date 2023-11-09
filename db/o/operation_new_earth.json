@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1791,
+  "EOS_Progressed": 1792,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6705,6 +6705,11 @@
       "Time": "2023-11-09T11:05:30.2254983+00:00",
       "NumProgressed": 1791,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T12:04:37.4157406+00:00",
+      "NumProgressed": 1792,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6788,7 +6793,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_headquarters_10",
@@ -6804,7 +6809,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_headquarters_20",
@@ -6884,7 +6889,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -6892,7 +6897,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7019,7 +7024,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1791,
+      "Progressed": 1792,
       "Completed": 1
     }
   ],
@@ -7027,8 +7032,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-09T11:05:30.2254977+00:00",
+  "LastChanged_Achievements": "2023-11-09T12:04:37.41574+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:02:42.1712802+00:00",
-  "LastUpdate_Achievements": "2023-11-09T11:05:30.2255503+00:00"
+  "LastUpdate_Ratings": "2023-11-09T12:00:35.1686009+00:00",
+  "LastUpdate_Achievements": "2023-11-09T12:04:37.4157845+00:00"
 }

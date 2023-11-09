@@ -5,10 +5,10 @@
   "Ranking_Rating": 2,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -169,6 +169,11 @@
     {
       "Time": "2023-11-09T11:08:00.5279392+00:00",
       "NumProgressed": 157,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T12:06:30.2373993+00:00",
+      "NumProgressed": 159,
       "NumCompleted": 0
     }
   ],
@@ -364,9 +369,9 @@
       "ID": "LordOfTheFiles",
       "SetID": "1n308hc",
       "Name": "Lord of the Files",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "LostMarshes",
@@ -382,7 +387,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Mnemosyne",
@@ -438,15 +443,15 @@
       "Name": "Overload",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "PrometheusUnbound",
@@ -468,9 +473,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 28,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "RenaissanceRobot",
@@ -526,7 +531,7 @@
       "Name": "Team Spirit",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "TextAdventurer",
@@ -542,7 +547,7 @@
       "Name": "The All-Gifted",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TheEdgeOfForever",
@@ -588,17 +593,17 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 83
     },
     {
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "TrevorsBiographer",
@@ -653,7 +658,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
@@ -661,8 +666,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-08T20:00:37.8164589+00:00",
-  "LastChanged_Achievements": "2023-11-09T11:08:00.5279389+00:00",
+  "LastChanged_Achievements": "2023-11-09T12:06:30.2373988+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:18.3402794+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:01:55.4286561+00:00",
-  "LastUpdate_Achievements": "2023-11-09T11:08:00.5279862+00:00"
+  "LastUpdate_Ratings": "2023-11-09T12:00:23.8323342+00:00",
+  "LastUpdate_Achievements": "2023-11-09T12:06:30.2374355+00:00"
 }

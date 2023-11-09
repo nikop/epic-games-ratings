@@ -9,8 +9,8 @@ Rating: 4.76 (Ranked 124)
 | First Class Student | 14.00% | ~42,243 |
 | Troll with the Punches | 14.00% | ~42,243 |
 | A Keen Sense of Spell | 13.00% | ~39,226 |
-| A Talent for Spending | 12.00% | ~36,208 |
-| That's a Keeper | 12.00% | ~36,208 |
+| A Talent for Spending | 12.00% | ~36,209 |
+| That's a Keeper | 12.00% | ~36,209 |
 | Grappling with a Graphorn | 11.00% | ~33,191 |
 | The One Who Mastered Memories | 11.00% | ~33,191 |
 | The Hallowed Hero | 11.00% | ~33,191 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 124)
 | The Toast of the Town | 5.00% | ~15,087 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,087 |
 | The Ends Petrify the Means | 5.00% | ~15,087 |
-| Going Through the Potions | 4.00% | ~12,069 |
-| Room with a View | 4.00% | ~12,069 |
-| The Intrepid Explorer | 4.00% | ~12,069 |
-| The Wise Owl | 4.00% | ~12,069 |
+| Going Through the Potions | 4.00% | ~12,070 |
+| Room with a View | 4.00% | ~12,070 |
+| The Intrepid Explorer | 4.00% | ~12,070 |
+| The Wise Owl | 4.00% | ~12,070 |
 | Put Down Roots | 3.00% | ~9,052 |
 | The Auror's Apprentice | 3.00% | ~9,052 |
 | Floo Around the World | 3.00% | ~9,052 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 124)
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,737 (Ranked 50)  
+Progressed: 301,738 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 505 (0.17%) (Ranked 251)
 | 2023-11-06 | 301,400 | 502 |
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
-| 2023-11-09 | 301,737 | 505 |
+| 2023-11-09 | 301,738 | 505 |
 ## Awards
 Max (Character Customization): 24,144  (Ranked 17)  
 Sum: 47,738 (Ranked 30)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 283,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1064,9 +1064,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -1104,9 +1104,9 @@
       "ID": "ACH_FEED_GATOR",
       "SetID": "5fn8ia4",
       "Name": "Feed the Beast",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_FISH",
@@ -1144,9 +1144,9 @@
       "ID": "GSS_ACH_01_SHOP_01",
       "SetID": "5fn8ia4",
       "Name": "First Customer!",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 243
     },
     {
       "ID": "GSS_ACH_02_SHOP_02",
@@ -1168,9 +1168,9 @@
       "ID": "GSS_ACH_04_TIP_02",
       "SetID": "5fn8ia4",
       "Name": "Gaining skill",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 235
     },
     {
       "ID": "GSS_ACH_05_TIP_03",
@@ -1248,9 +1248,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 238
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -1320,9 +1320,9 @@
       "ID": "GSS_ACH_23_LOCKPICKING_03",
       "SetID": "5fn8ia4",
       "Name": "Just Checking!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 74
     },
     {
       "ID": "GSS_ACH_25_DENNIS",
@@ -1336,9 +1336,9 @@
       "ID": "GSS_ACH_26_EXCAVATOR_RESET",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s a kind of magic",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 153
     },
     {
       "ID": "GSS_ACH_27_PAINT_01",
@@ -1504,9 +1504,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 241
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -1592,9 +1592,9 @@
       "ID": "GSS_ACH_58_UPGRADE_WAREHOUSE_03",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Lvl. 3",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "GSS_ACH_59_UPGRADE_WAREHOUSE_04",
@@ -1616,9 +1616,9 @@
       "ID": "GSS_ACH_61_POPULARITY_01",
       "SetID": "5fn8ia4",
       "Name": "On the Map",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 218
     },
     {
       "ID": "GSS_ACH_62_POPULARITY_02",
@@ -1656,9 +1656,9 @@
       "ID": "GSS_ACH_66_POPULARITY_06",
       "SetID": "5fn8ia4",
       "Name": "Getting Famous",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 85
     },
     {
       "ID": "GSS_ACH_67_POPULARITY_07",
@@ -1688,9 +1688,9 @@
       "ID": "GSS_ACH_70_POPULARITY_10",
       "SetID": "5fn8ia4",
       "Name": "Superstar!",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "GSS_ACH_71_UNCLE_LOAN_PAID",
@@ -1720,9 +1720,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -1799,8 +1799,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-09T11:05:00.4807916+00:00",
+  "LastChanged_Achievements": "2023-11-09T12:04:15.3847462+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:17.0856906+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:02:46.6784009+00:00",
-  "LastUpdate_Achievements": "2023-11-09T11:05:00.4808769+00:00"
+  "LastUpdate_Ratings": "2023-11-09T12:02:37.9203685+00:00",
+  "LastUpdate_Achievements": "2023-11-09T12:04:15.3848394+00:00"
 }

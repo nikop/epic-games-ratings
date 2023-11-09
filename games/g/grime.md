@@ -22,7 +22,7 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,573 |
 | Sharpened Vessel | 1.00% | ~1,573 |
 | Shapely | 0.90% | ~1,416 |
-| Glare | 0.80% | ~1,255 |
+| Glare | 0.90% | ~1,412 |
 | Predator | 0.80% | ~1,258 |
 | Assimilation | 0.70% | ~1,101 |
 | Host | 0.70% | ~1,098 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,304 (Ranked 76)  
+Progressed: 157,309 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 156,967 | 1 |
 | 2023-11-07 | 157,118 | 1 |
 | 2023-11-08 | 157,236 | 1 |
-| 2023-11-09 | 157,304 | 1 |
+| 2023-11-09 | 157,309 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 425)  
 Sum: 353 (Ranked 348)  

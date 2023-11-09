@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1119,
+  "EOS_Progressed": 1120,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3234,6 +3234,11 @@
       "Time": "2023-11-09T07:09:58.0242596+00:00",
       "NumProgressed": 1119,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T12:09:19.2895962+00:00",
+      "NumProgressed": 1120,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3470,7 +3475,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 996
+      "UsersEstimate": 997
     },
     {
       "ID": "achievement_36",
@@ -3686,7 +3691,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "achievement_60",
@@ -3749,13 +3754,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1119,
+      "Progressed": 1120,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1119,
+      "Progressed": 1120,
       "Completed": 1
     }
   ],
@@ -3763,8 +3768,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-09T11:09:54.4169216+00:00",
+  "LastChanged_Achievements": "2023-11-09T12:09:19.2895955+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:58:52.3480254+00:00",
-  "LastUpdate_Achievements": "2023-11-09T11:09:54.4169904+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:58:11.1867058+00:00",
+  "LastUpdate_Achievements": "2023-11-09T12:09:19.2896623+00:00"
 }

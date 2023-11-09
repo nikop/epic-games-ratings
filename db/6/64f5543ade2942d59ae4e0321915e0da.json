@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 394,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 395,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -338,9 +338,9 @@
       "ID": "AC_DEATH_ENEMIES_3",
       "SetID": "16i2akc",
       "Name": "Genocide",
-      "Percentage": 30,
+      "Percentage": 33,
       "XP": 45,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -426,9 +426,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 19,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -497,8 +497,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2023-11-09T11:03:43.5886439+00:00",
+  "LastChanged_Achievements": "2023-11-09T12:03:18.5855498+00:00",
   "LastUpdate_AppInfo": "2023-11-07T16:57:12.9013304+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:57:49.6044857+00:00",
-  "LastUpdate_Achievements": "2023-11-09T11:03:43.5886707+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:57:24.9994698+00:00",
+  "LastUpdate_Achievements": "2023-11-09T12:03:18.5856101+00:00"
 }

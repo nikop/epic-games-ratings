@@ -65,12 +65,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cranked up to 11 | 0.80% | ~1,111 |
 | Fit for a King | 0.80% | ~1,111 |
 | Mammonite | 0.80% | ~1,111 |
+| Wealth Beyond Measure | 0.80% | ~1,111 |
 | Fat Cat Tag Team | 0.80% | ~1,111 |
 | Necromancer Queen | 0.80% | ~1,111 |
 | Miracle Alchemist | 0.80% | ~1,111 |
 | Laden with Loot | 0.80% | ~1,111 |
 | Scourge of the Seas | 0.80% | ~1,111 |
 | Black Friday Special | 0.80% | ~1,111 |
+| Exotic Commodities | 0.80% | ~1,111 |
 | Cream of the Crop | 0.70% | ~972 |
 | Top of the World | 0.70% | ~972 |
 | Proud Paladin | 0.70% | ~972 |
@@ -82,7 +84,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Supercharged | 0.70% | ~972 |
 | Ritualist | 0.70% | ~972 |
 | By Your Powers Combined... | 0.70% | ~972 |
-| Wealth Beyond Measure | 0.70% | ~972 |
 | Item of Renown | 0.70% | ~972 |
 | Master Merchant | 0.70% | ~972 |
 | Bountiful Harvest | 0.70% | ~972 |
@@ -93,7 +94,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.70% | ~972 |
 | King's Shadow | 0.70% | ~972 |
 | Master Recycler | 0.70% | ~972 |
-| Exotic Commodities | 0.70% | ~972 |
 | King's Blade | 0.70% | ~972 |
 | Constellated | 0.60% | ~833 |
 | Fillin' the Bin | 0.60% | ~833 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,822 (Ranked 79)  
+Progressed: 138,824 (Ranked 79)  
 Completed: 179 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 179 (0.13%) (Ranked 257)
 | 2023-11-06 | 138,721 | 178 |
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
-| 2023-11-09 | 138,822 | 179 |
+| 2023-11-09 | 138,824 | 179 |
 ## Awards
 Max (Great for Beginners): 4,822  (Ranked 74)  
 Sum: 27,514 (Ranked 52)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 62,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 496,
+  "EOS_Progressed": 497,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.65,
+  "EOS_Completed_Percentage": 5.63,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2120,6 +2120,11 @@
       "Time": "2023-11-09T05:04:35.9712474+00:00",
       "NumProgressed": 496,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-09T12:04:30.4752395+00:00",
+      "NumProgressed": 497,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2139,7 +2144,7 @@
       "Name": "In this together",
       "Percentage": 15,
       "XP": 200,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "META_ALL_LINK",
@@ -2147,7 +2152,7 @@
       "Name": "Peace walker",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2155,7 +2160,7 @@
       "Name": "Cable guy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2177,9 +2182,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 70
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2195,7 +2200,7 @@
       "Name": "Feels like springtime",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2227,7 +2232,7 @@
       "Name": "Alchemists Express",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2267,7 +2272,7 @@
       "Name": "Champollion",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2313,9 +2318,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 94
+      "UsersEstimate": 99
     },
     {
       "ID": "PROGRESS_N5",
@@ -2330,14 +2335,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 496,
+      "Progressed": 497,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-09T11:05:20.9241111+00:00",
+  "LastChanged_Achievements": "2023-11-09T12:04:30.475239+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:59:09.8712472+00:00",
-  "LastUpdate_Achievements": "2023-11-09T11:05:20.9241348+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:58:25.6274921+00:00",
+  "LastUpdate_Achievements": "2023-11-09T12:04:30.4752597+00:00"
 }

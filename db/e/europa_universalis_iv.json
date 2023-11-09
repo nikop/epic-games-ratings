@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11817,9 +11817,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 450338,
+  "EOS_Progressed": 450366,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5458,
+  "EOS_NewPlayers": 5446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35017,6 +35017,11 @@
       "Time": "2023-11-09T11:06:03.3098114+00:00",
       "NumProgressed": 450338,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T12:05:01.7007894+00:00",
+      "NumProgressed": 450366,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37890,9 +37895,9 @@
       "ID": "achievement_mets_hayk",
       "SetID": "8p2n7he",
       "Name": "Mets Hayk",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_restore_the_pentarchy",
@@ -37931,21 +37936,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 450338,
+      "Progressed": 450366,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 450338,
+      "Progressed": 450366,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-09T10:58:46.8975694+00:00",
-  "LastChanged_Achievements": "2023-11-09T11:06:03.3098109+00:00",
+  "LastChanged_Achievements": "2023-11-09T12:05:01.7007888+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-09T10:58:46.89757+00:00",
-  "LastUpdate_Achievements": "2023-11-09T11:06:03.3111692+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:58:07.7020036+00:00",
+  "LastUpdate_Achievements": "2023-11-09T12:05:01.7017594+00:00"
 }

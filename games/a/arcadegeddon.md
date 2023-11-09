@@ -6,21 +6,21 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 88.00% | ~8,415 |
+| Let's Get This Party Started | 88.00% | ~8,416 |
 | Photogenic | 85.00% | ~8,129 |
 | Surge Gauntlet Jockey | 82.00% | ~7,842 |
-| Plug It In | 81.00% | ~7,746 |
+| Plug It In | 81.00% | ~7,747 |
 | Adventure Time | 77.00% | ~7,364 |
 | Playing With Power | 74.00% | ~7,077 |
 | Coup d'Etat | 57.00% | ~5,451 |
 | You're Fired | 55.00% | ~5,260 |
-| Get Furious | 54.00% | ~5,164 |
-| Hacks In Stacks | 54.00% | ~5,164 |
-| Gunplay And Cosplay | 53.00% | ~5,068 |
+| Get Furious | 54.00% | ~5,165 |
+| Hacks In Stacks | 54.00% | ~5,165 |
+| Gunplay And Cosplay | 53.00% | ~5,069 |
 | Meching Enemies | 47.00% | ~4,495 |
-| Ticket Toddler | 43.00% | ~4,112 |
+| Ticket Toddler | 43.00% | ~4,113 |
 | Booty Bashing | 38.00% | ~3,634 |
-| Field Medic | 37.00% | ~3,538 |
+| Field Medic | 37.00% | ~3,539 |
 | Here Comes a New Challenger | 36.00% | ~3,443 |
 | Rapid Response | 32.00% | ~3,060 |
 | Surge Ahead | 30.00% | ~2,869 |
@@ -29,7 +29,7 @@ Number of Ratings: 801  (23.09.2022)
 | Poppin Noggins | 24.00% | ~2,295 |
 | Clips and Crits | 19.00% | ~1,817 |
 | Grey Goo | 17.00% | ~1,626 |
-| Boss of Bosses | 15.00% | ~1,434 |
+| Boss of Bosses | 15.00% | ~1,435 |
 | The Final Blow | 14.00% | ~1,339 |
 | To Be Continued | 13.00% | ~1,243 |
 | Light My Fire | 11.00% | ~1,052 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,563 (Ranked 158)  
+Progressed: 9,564 (Ranked 158)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-06 | 9,531 | 1 |
 | 2023-11-07 | 9,546 | 1 |
 | 2023-11-08 | 9,556 | 1 |
-| 2023-11-09 | 9,563 | 1 |
+| 2023-11-09 | 9,564 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 407)  
 Sum: 463 (Ranked 327)  

@@ -6,24 +6,24 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 219.00% | ~631 |
-| Iron Chef | 177.00% | ~510 |
-| Greeno-B-Gone | 108.00% | ~311 |
-| Your Especially Earned Trajectory | 87.00% | ~251 |
-| No Mountain Wide Enough | 55.00% | ~158 |
-| On that Grindset | 53.00% | ~153 |
-| Can We Keep It? | 53.00% | ~153 |
-| Pack Mule | 41.00% | ~118 |
-| Diamonds are Forever | 40.00% | ~115 |
+| Adept Assembler | 221.00% | ~632 |
+| Iron Chef | 179.00% | ~512 |
+| Greeno-B-Gone | 109.00% | ~312 |
+| Your Especially Earned Trajectory | 87.00% | ~249 |
+| No Mountain Wide Enough | 55.00% | ~157 |
+| On that Grindset | 53.00% | ~152 |
+| Can We Keep It? | 53.00% | ~152 |
+| Pack Mule | 42.00% | ~120 |
+| Diamonds are Forever | 41.00% | ~117 |
 | My Time Mansion | 39.00% | ~112 |
-| Financially Secure | 38.00% | ~109 |
+| Financially Secure | 39.00% | ~112 |
 | Yakmel Whisperer | 38.00% | ~109 |
-| Unboxing | 35.00% | ~101 |
-| Knowledge is Power | 33.00% | ~95 |
-| Big Game Hunter | 33.00% | ~95 |
-| Happier-est Place on Earth | 33.00% | ~95 |
-| Mole Masher | 33.00% | ~95 |
-| Call Me Fishmael | 33.00% | ~95 |
+| Unboxing | 36.00% | ~103 |
+| Knowledge is Power | 34.00% | ~97 |
+| Big Game Hunter | 34.00% | ~97 |
+| Happier-est Place on Earth | 34.00% | ~97 |
+| Mole Masher | 33.00% | ~94 |
+| Call Me Fishmael | 33.00% | ~94 |
 | Better Late than Never | 32.00% | ~92 |
 | Got Served | 32.00% | ~92 |
 | One of the Cool Kids | 31.00% | ~89 |
@@ -31,26 +31,26 @@ Number of Ratings: 892  (23.09.2022)
 | You Don't Win Friends With Salad | 31.00% | ~89 |
 | What Plants Crave | 30.00% | ~86 |
 | Anti-Santa | 30.00% | ~86 |
-| Finishing Touches | 28.00% | ~81 |
-| Officially Official | 28.00% | ~81 |
-| Chatterbox | 28.00% | ~81 |
+| Officially Official | 29.00% | ~83 |
+| Finishing Touches | 28.00% | ~80 |
+| Chatterbox | 28.00% | ~80 |
 | First Love | 24.00% | ~69 |
 | Panda-kin | 22.00% | ~63 |
 | Jewel of the Eufaula | 22.00% | ~63 |
-| Builder of the Month | 20.00% | ~58 |
-| Bridging the Gap | 20.00% | ~58 |
-| Who Ya Gonna Call...? | 20.00% | ~58 |
-| He Can Spin A Yarn... | 19.00% | ~55 |
-| Waste Not Want Not | 18.00% | ~52 |
+| Builder of the Month | 21.00% | ~60 |
+| Who Ya Gonna Call...? | 21.00% | ~60 |
+| Bridging the Gap | 20.00% | ~57 |
+| He Can Spin A Yarn... | 20.00% | ~57 |
+| Waste Not Want Not | 18.00% | ~51 |
 | Martle's Dream | 17.00% | ~49 |
-| Elementary, My Dear | 16.00% | ~46 |
+| Elementary, My Dear | 17.00% | ~49 |
 | Newton | 16.00% | ~46 |
 | Commissions, commissions...! | 15.00% | ~43 |
-| Lifeline Pipeline | 14.00% | ~40 |
+| Lifeline Pipeline | 15.00% | ~43 |
 | Got the Flow Back | 13.00% | ~37 |
 | Just What I Always Wanted! | 13.00% | ~37 |
 | Do Your Part | 13.00% | ~37 |
-| Kind of a Big Deal | 12.00% | ~35 |
+| Kind of a Big Deal | 12.00% | ~34 |
 | Time Flies | 10.00% | ~29 |
 | Cardistry | 10.00% | ~29 |
 | Pro Gamer | 10.00% | ~29 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288 (Ranked 341)  
+Progressed: 286 (Ranked 341)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,13 +82,13 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-09 | 294 | 0 |
 ## Awards
 Max (Character Customization): 580  (Ranked 194)  
-Sum: 1,323 (Ranked 238)  
+Sum: 1,324 (Ranked 238)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 580 |
 | This game is Great for Beginners | 99 |
-| This game is Highly Recommended | 86 |
+| This game is Highly Recommended | 87 |
 | This game is Extremely Fun | 83 |
 | This game has Quickly Understood Controls | 77 |
 | This game has Diverse Characters | 74 |
@@ -258,3 +258,4 @@ Diff (max vs sum): -44
 | 2023-11-06 | 4.68 | - | 579 | 1,317 |
 | 2023-11-07 | 4.68 | - | 580 | 1,322 |
 | 2023-11-08 | 4.68 | - | 580 | 1,323 |
+| 2023-11-09 | 4.68 | - | 580 | 1,324 |

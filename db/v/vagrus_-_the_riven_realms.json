@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -620,9 +620,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -1421,8 +1421,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-09T11:05:05.0118135+00:00",
+  "LastChanged_Achievements": "2023-11-09T12:04:18.7432207+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.0695346+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:03:16.2913083+00:00",
-  "LastUpdate_Achievements": "2023-11-09T11:05:05.0119185+00:00"
+  "LastUpdate_Ratings": "2023-11-09T12:02:58.4051411+00:00",
+  "LastUpdate_Achievements": "2023-11-09T12:04:18.7433099+00:00"
 }

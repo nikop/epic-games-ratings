@@ -6,43 +6,43 @@ Number of Ratings: 1,046,587  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One small trip | 14.00% | ~5,087,504 |
-| Snowflake | 13.00% | ~4,724,111 |
-| Fall Throttle | 12.00% | ~4,360,718 |
-| Big Bully | 10.00% | ~3,633,932 |
-| Face First | 9.00% | ~3,270,538 |
-| Style Points | 9.00% | ~3,270,538 |
-| One to Watch | 8.00% | ~2,907,145 |
-| Troublemaker | 8.00% | ~2,907,145 |
-| Flawless Victory | 7.00% | ~2,543,752 |
-| Fall Bae | 7.00% | ~2,543,752 |
-| Ahead of the Pack | 7.00% | ~2,543,752 |
-| Stumble Chums | 7.00% | ~2,543,752 |
-| Victory! | 6.00% | ~2,180,359 |
-| Bargain Bucket | 5.00% | ~1,816,966 |
-| Household Name | 4.00% | ~1,453,573 |
-| One giant leap | 4.00% | ~1,453,573 |
-| Catwalk Model | 3.00% | ~1,090,179 |
-| Head Turner | 3.00% | ~1,090,179 |
-| Quite Dashing | 3.00% | ~1,090,179 |
-| Squad Goals | 3.00% | ~1,090,179 |
-| Big Air | 2.00% | ~726,786 |
-| Down to the Wire | 2.00% | ~726,786 |
-| Star of the Show | 2.00% | ~726,786 |
-| Shopping Spree | 2.00% | ~726,786 |
-| Top Tier | 2.00% | ~726,786 |
-| Low Baller | 1.00% | ~363,393 |
-| Mad Trendy | 1.00% | ~363,393 |
-| Veteran Status | 0.90% | ~327,054 |
-| Show Off | 0.90% | ~327,054 |
-| Track Star | 0.70% | ~254,375 |
-| Golden Guy | 0.70% | ~254,375 |
-| Big Tease | 0.40% | ~145,357 |
-| Fall Guy Fashionista | 0.40% | ~145,357 |
-| Infallible | 0.30% | ~109,018 |
+| One small trip | 14.00% | ~5,087,563 |
+| Snowflake | 13.00% | ~4,724,166 |
+| Fall Throttle | 12.00% | ~4,360,769 |
+| Big Bully | 10.00% | ~3,633,974 |
+| Face First | 9.00% | ~3,270,577 |
+| Style Points | 9.00% | ~3,270,577 |
+| One to Watch | 8.00% | ~2,907,179 |
+| Troublemaker | 8.00% | ~2,907,179 |
+| Flawless Victory | 7.00% | ~2,543,782 |
+| Fall Bae | 7.00% | ~2,543,782 |
+| Ahead of the Pack | 7.00% | ~2,543,782 |
+| Stumble Chums | 7.00% | ~2,543,782 |
+| Victory! | 6.00% | ~2,180,384 |
+| Bargain Bucket | 5.00% | ~1,816,987 |
+| Household Name | 4.00% | ~1,453,590 |
+| One giant leap | 4.00% | ~1,453,590 |
+| Catwalk Model | 3.00% | ~1,090,192 |
+| Head Turner | 3.00% | ~1,090,192 |
+| Quite Dashing | 3.00% | ~1,090,192 |
+| Squad Goals | 3.00% | ~1,090,192 |
+| Big Air | 2.00% | ~726,795 |
+| Down to the Wire | 2.00% | ~726,795 |
+| Star of the Show | 2.00% | ~726,795 |
+| Shopping Spree | 2.00% | ~726,795 |
+| Top Tier | 2.00% | ~726,795 |
+| Low Baller | 1.00% | ~363,397 |
+| Mad Trendy | 1.00% | ~363,397 |
+| Veteran Status | 0.90% | ~327,058 |
+| Show Off | 0.90% | ~327,058 |
+| Track Star | 0.70% | ~254,378 |
+| Golden Guy | 0.70% | ~254,378 |
+| Big Tease | 0.40% | ~145,359 |
+| Fall Guy Fashionista | 0.40% | ~145,359 |
+| Infallible | 0.30% | ~109,019 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36,339,316 (Ranked 1)  
-Completed: 45,791 (0.13%) (Ranked 257)  
+Progressed: 36,339,739 (Ranked 1)  
+Completed: 45,794 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,10 +244,10 @@ Completed: 45,791 (0.13%) (Ranked 257)
 | 2023-11-06 | 36,310,506 | 45,646 |
 | 2023-11-07 | 36,322,526 | 45,717 |
 | 2023-11-08 | 36,334,433 | 45,767 |
-| 2023-11-09 | 36,339,316 | 45,791 |
+| 2023-11-09 | 36,339,739 | 45,794 |
 ## Awards
 Max (Great for Beginners): 151,384  (Ranked 7)  
-Sum: 1,382,848 (Ranked 5)  
+Sum: 1,382,902 (Ranked 5)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -256,11 +256,11 @@ Diff (max vs sum): 2
 | This game has Competitive Players | 134,024 |
 | This game has Quickly Understood Controls | 133,746 |
 | This game is Great for Quick Sessions | 133,656 |
-| This game has Diverse Characters | 129,788 |
+| This game has Diverse Characters | 129,821 |
 | This game is Extremely Fun | 122,456 |
 | This game is Highly Recommended | 116,477 |
 | This game has Amazing Characters | 113,167 |
-| This game has Amazing Storytelling | 107,567 |
+| This game has Amazing Storytelling | 107,588 |
 | This game has Playful Visuals | 103,966 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -553,4 +553,4 @@ Diff (max vs sum): 2
 | 2023-11-06 | 4.51 | - | 151,245 | 1,382,216 |
 | 2023-11-07 | 4.51 | - | 151,278 | 1,382,471 |
 | 2023-11-08 | 4.51 | - | 151,331 | 1,382,769 |
-| 2023-11-09 | 4.51 | - | 151,384 | 1,382,848 |
+| 2023-11-09 | 4.51 | - | 151,384 | 1,382,902 |

@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4465,
+  "EOS_Progressed": 4467,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 695,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2576,6 +2576,11 @@
       "Time": "2023-11-09T11:09:02.6361561+00:00",
       "NumProgressed": 4465,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T12:08:55.8703656+00:00",
+      "NumProgressed": 4467,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2596,7 +2601,7 @@
       "Name": "Baby Steps",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "BeLikeWater",
@@ -2628,7 +2633,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Eavesdropper",
@@ -2780,7 +2785,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "TheQuarterback",
@@ -2859,7 +2864,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4465,
+      "Progressed": 4467,
       "Completed": 5
     }
   ],
@@ -2867,8 +2872,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-09T11:09:02.6361556+00:00",
+  "LastChanged_Achievements": "2023-11-09T12:08:55.8703649+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:01:10.6518754+00:00",
-  "LastUpdate_Achievements": "2023-11-09T11:09:02.6361877+00:00"
+  "LastUpdate_Ratings": "2023-11-09T11:59:51.211241+00:00",
+  "LastUpdate_Achievements": "2023-11-09T12:08:55.8703961+00:00"
 }
