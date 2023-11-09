@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -428,9 +428,9 @@
       "ID": "KR4_ACHIEVEMENT_HAPPY_NEW_YEAR",
       "SetID": "caeik3h",
       "Name": "Happy New Year!",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KR4_ACHIEVEMENT_HEROIC",
@@ -700,9 +700,9 @@
       "ID": "KR4_ACHIEVEMENT_SHAOLIN_MASTER",
       "SetID": "caeik3h",
       "Name": "Follow the Master",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
@@ -827,8 +827,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:08:48.3042014+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:47:49.6909765+00:00",
   "LastUpdate_AppInfo": "2023-11-02T15:57:21.8803868+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:06:16.2123018+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:08:48.3042636+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:47:34.3025753+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:47:49.6910356+00:00"
 }

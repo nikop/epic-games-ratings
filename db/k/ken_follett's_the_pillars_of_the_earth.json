@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 399,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16264,
+  "EOS_Progressed": 16265,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -13728,6 +13728,11 @@
       "Time": "2023-11-08T23:04:05.3071448+00:00",
       "NumProgressed": 16264,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-09T01:49:00.1876211+00:00",
+      "NumProgressed": 16265,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13843,7 +13848,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4879
+      "UsersEstimate": 4880
     },
     {
       "ID": "tpote_achievement_22",
@@ -13915,7 +13920,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5204
+      "UsersEstimate": 5205
     },
     {
       "ID": "tpote_achievement_30",
@@ -14027,7 +14032,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3904
     },
     {
       "ID": "tpote_achievement_6",
@@ -14035,7 +14040,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3904
     },
     {
       "ID": "tpote_achievement_7",
@@ -14043,7 +14048,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "tpote_achievement_8",
@@ -14051,7 +14056,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3415
+      "UsersEstimate": 3416
     },
     {
       "ID": "tpote_achievement_9",
@@ -14066,15 +14071,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16264,
+      "Progressed": 16265,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:08:45.5392274+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:49:00.1876207+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:38.0957248+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:04:30.4888121+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:08:45.5393569+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:44:26.9669689+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:49:00.1877134+00:00"
 }

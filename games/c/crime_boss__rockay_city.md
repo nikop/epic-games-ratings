@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.94 (Ranked 1,007)  
+Rating: 3.95 (Ranked 1,004)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 3.94 (Ranked 1,007)
 | Off the Rocks | 1.00% | ~898 |
 | Raider’s Ruin | 1.00% | ~898 |
 | Dragonslayer | 1.00% | ~898 |
-| King of the Hill | 0.90% | ~808 |
-| Rockay Rex | 0.90% | ~808 |
+| King of the Hill | 0.90% | ~809 |
+| Rockay Rex | 0.90% | ~809 |
 | Case Closed | 0.80% | ~719 |
 | Hidden Sonata | 0.70% | ~629 |
 | True Player | 0.70% | ~629 |
@@ -28,9 +28,9 @@ Rating: 3.94 (Ranked 1,007)
 | Foo Finder | 0.40% | ~359 |
 | Freebooter | 0.40% | ~359 |
 | Moneybags | 0.40% | ~359 |
-| Savvy Seeker | 0.30% | ~269 |
-| Olympus Ascended | 0.30% | ~269 |
-| Ding Dong | 0.30% | ~269 |
+| Savvy Seeker | 0.30% | ~270 |
+| Olympus Ascended | 0.30% | ~270 |
+| Ding Dong | 0.30% | ~270 |
 | All that Glitters | 0.30% | ~55 |
 | Rockay Raider | 0.20% | ~180 |
 | Rockay Knight | 0.20% | ~180 |
@@ -47,7 +47,7 @@ Rating: 3.94 (Ranked 1,007)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,826 (Ranked 91)  
+Progressed: 89,839 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 55 (0.06%) (Ranked 290)
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
 | 2023-11-08 | 89,818 | 55 |
-| 2023-11-09 | 89,826 | 55 |
+| 2023-11-09 | 89,839 | 55 |
 ## Awards
 Max (Diverse Characters): 522  (Ranked 204)  
 Sum: 2,970 (Ranked 175)  
@@ -490,3 +490,4 @@ Diff (max vs sum): 29
 | 2023-11-06 | 3.95 | 522 | 2,960 |
 | 2023-11-07 | 3.95 | 522 | 2,964 |
 | 2023-11-08 | 3.95 | 522 | 2,970 |
+| 2023-11-09 | 3.95 | 522 | 2,970 |

@@ -11799,9 +11799,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 450176,
+  "EOS_Progressed": 450195,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5489,
+  "EOS_NewPlayers": 5477,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34944,6 +34944,11 @@
       "Time": "2023-11-09T00:09:29.6774598+00:00",
       "NumProgressed": 450176,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T01:49:37.1585617+00:00",
+      "NumProgressed": 450195,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36409,9 +36414,9 @@
       "ID": "achievement_made_in_japan",
       "SetID": "8p2n7he",
       "Name": "Made in Japan",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 450
     },
     {
       "ID": "achievement_magellans_voyage",
@@ -37858,21 +37863,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 450176,
+      "Progressed": 450195,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 450176,
+      "Progressed": 450195,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-08T22:57:57.7396045+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:09:29.6774591+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:49:37.1585614+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:02:05.3814245+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:09:29.6789212+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:42:44.0668261+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:49:37.1595814+00:00"
 }

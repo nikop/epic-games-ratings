@@ -4,7 +4,7 @@
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 359,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -146,8 +146,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:13:38.8809988+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:53:58.420138+00:00",
   "LastUpdate_AppInfo": "2023-11-07T05:57:07.5089556+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:05:12.5202832+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:13:38.8810103+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:45:05.1354806+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:53:58.4201512+00:00"
 }

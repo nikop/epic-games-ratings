@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 622,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.89,
   "EosHistory": [
@@ -1895,9 +1895,9 @@
       "ID": "LEVEL_012",
       "SetID": "7jk5g4e",
       "Name": "Poultry house",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 95,
-      "UsersEstimate": 187
+      "UsersEstimate": 193
     },
     {
       "ID": "LEVEL_017",
@@ -1958,8 +1958,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:10:46.1363539+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:50:41.1330699+00:00",
   "LastUpdate_AppInfo": "2023-11-07T02:16:30.7589721+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:05:42.938222+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:10:46.1363774+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:45:28.753331+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:50:41.1330906+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10153,18 +10153,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 47696,
       "NumberOfAwardsMax": 24120
+    },
+    {
+      "Time": "2023-11-09T01:42:33.0554125+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47723,
+      "NumberOfAwardsMax": 24144
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47696,
-  "NumberOfAwardsMax": 24120,
+  "NumberOfAwards": 47723,
+  "NumberOfAwardsMax": 24144,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 24120
+      "Count": 24144
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10188,7 +10194,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1275
+      "Count": 1278
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10233,9 +10239,9 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 301719,
+  "EOS_Progressed": 301722,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1582,
+  "EOS_NewPlayers": 1575,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -31983,6 +31989,11 @@
       "Time": "2023-11-09T00:13:27.2814531+00:00",
       "NumProgressed": 301719,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-09T01:53:49.4483076+00:00",
+      "NumProgressed": 301722,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -31994,7 +32005,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48275
+      "UsersEstimate": 48276
     },
     {
       "ID": "PFA_10",
@@ -32114,7 +32125,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39223
+      "UsersEstimate": 39224
     },
     {
       "ID": "PFA_24",
@@ -32178,7 +32189,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36206
+      "UsersEstimate": 36207
     },
     {
       "ID": "PFA_31",
@@ -32338,7 +32349,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36206
+      "UsersEstimate": 36207
     },
     {
       "ID": "PFA_9",
@@ -32353,16 +32364,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301719,
+      "Progressed": 301722,
       "Completed": 505
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-09T00:01:42.4533132+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:13:27.2814525+00:00",
+  "LastChanged": "2023-11-09T01:42:33.0554123+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:53:49.4483072+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:01:42.4533139+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:13:27.2816084+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:42:33.0554128+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:53:49.4484204+00:00"
 }

@@ -25,8 +25,8 @@ Rating: 3.51 (Ranked 1,036)
 | Radio Silence | 0.80% | ~14 |
 | Bad Wiring | 0.70% | ~12 |
 | Sic Transit Umbra | 0.70% | ~12 |
+| Bell-ringer | 0.70% | ~12 |
 | From the Shadows | 0.70% | ~12 |
-| Bell-ringer | 0.60% | ~11 |
 | Good Morning | 0.60% | ~11 |
 | Harvest’s End | 0.60% | ~11 |
 | Helping Hand | 0.60% | ~11 |

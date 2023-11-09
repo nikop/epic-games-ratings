@@ -22,6 +22,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 3.00% | ~457 |
 | Strong | 3.00% | ~457 |
 | Warrior | 3.00% | ~457 |
+| Strong Cities | 3.00% | ~457 |
 | Hanging Gardens | 3.00% | ~457 |
 | Oracle | 3.00% | ~457 |
 | Judaism | 3.00% | ~457 |
@@ -41,7 +42,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 2.00% | ~304 |
 | Developing Cities | 2.00% | ~304 |
 | Legendary Cities | 2.00% | ~304 |
-| Strong Cities | 2.00% | ~304 |
 | Able Difficulty | 2.00% | ~304 |
 | Just Difficulty | 2.00% | ~304 |
 | Artisans | 2.00% | ~304 |
@@ -111,6 +111,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.90% | ~137 |
 | Learn to Play 4 | 0.90% | ~137 |
 | Carthage | 0.90% | ~137 |
+| One True Faith | 0.90% | ~137 |
 | Dualism | 0.90% | ~137 |
 | Gnosticism | 0.90% | ~137 |
 | Revelation | 0.90% | ~137 |
@@ -118,14 +119,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.90% | ~137 |
 | Ambition Victory | 0.90% | ~137 |
 | Capable | 0.80% | ~122 |
+| Devout | 0.80% | ~122 |
 | Ready | 0.80% | ~122 |
 | Babylonia | 0.80% | ~122 |
-| One True Faith | 0.80% | ~122 |
 | Assyrian Paganism | 0.80% | ~122 |
 | Industrial Progress | 0.80% | ~122 |
 | Enlightenment | 0.80% | ~122 |
 | Veneration | 0.80% | ~122 |
-| Devout | 0.70% | ~107 |
 | Clerics | 0.70% | ~107 |
 | Egypt | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,220 (Ranked 145)  
+Progressed: 15,222 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-06 | 15,191 | 5 |
 | 2023-11-07 | 15,201 | 5 |
 | 2023-11-08 | 15,218 | 5 |
-| 2023-11-09 | 15,220 | 5 |
+| 2023-11-09 | 15,222 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 272)  
 Sum: 1,869 (Ranked 212)  

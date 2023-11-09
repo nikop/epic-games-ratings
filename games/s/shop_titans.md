@@ -47,13 +47,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 1.00% | ~1,388 |
 | Tax not Included | 0.90% | ~1,249 |
 | For the Hoard! | 0.90% | ~1,249 |
+| Scrapbooker | 0.90% | ~1,249 |
 | Trash to Treasure | 0.90% | ~1,249 |
 | Seasoned Journeyman | 0.90% | ~1,249 |
 | Special Ingredient | 0.90% | ~1,249 |
 | A Notch Above the Rest | 0.80% | ~1,110 |
+| Above the Norm | 0.80% | ~1,110 |
 | The King's Caprice | 0.80% | ~1,110 |
 | Big Game Hunting | 0.80% | ~1,110 |
-| Scrapbooker | 0.80% | ~1,110 |
 | Locally Sourced | 0.80% | ~1,110 |
 | Flying off the Shelves | 0.80% | ~1,110 |
 | This Power Level...! | 0.80% | ~1,110 |
@@ -73,7 +74,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.70% | ~972 |
 | Top of the World | 0.70% | ~972 |
 | Proud Paladin | 0.70% | ~972 |
-| Above the Norm | 0.70% | ~972 |
 | A Ronin Reborn | 0.70% | ~972 |
 | Thirst for Knowledge | 0.70% | ~972 |
 | Booty by the Boatload | 0.70% | ~972 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,804 (Ranked 79)  
+Progressed: 138,805 (Ranked 79)  
 Completed: 179 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 179 (0.13%) (Ranked 257)
 | 2023-11-06 | 138,721 | 178 |
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
-| 2023-11-09 | 138,804 | 179 |
+| 2023-11-09 | 138,805 | 179 |
 ## Awards
 Max (Great for Beginners): 4,819  (Ranked 74)  
 Sum: 27,509 (Ranked 52)  

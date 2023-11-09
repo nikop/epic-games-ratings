@@ -13,7 +13,7 @@
 | Coal's fur | 58.00% | ~122 |
 | Blue's drawing | 54.00% | ~114 |
 | Mysterious footprints | 48.00% | ~101 |
-| Glass shards | 46.00% | ~97 |
+| Glass shards | 47.00% | ~99 |
 | Complicated padlock | 42.00% | ~89 |
 | Big metal ruler | 40.00% | ~84 |
 | Windmill | 40.00% | ~84 |
@@ -26,7 +26,7 @@
 | Flower of hope | 14.00% | ~30 |
 | Back Home | 12.00% | ~25 |
 | Friend | 12.00% | ~25 |
-| Old kettle | 11.00% | ~23 |
+| Old kettle | 12.00% | ~25 |
 | Forest Howl | 9.00% | ~19 |
 | Hope | 6.00% | ~13 |
 | Hairball | 0.00% | ~0 |

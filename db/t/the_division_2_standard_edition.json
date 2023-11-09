@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
@@ -12321,18 +12321,24 @@
       "Rating": 4.48,
       "NumberOfAwards": 28584,
       "NumberOfAwardsMax": 8472
+    },
+    {
+      "Time": "2023-11-09T01:43:46.3770726+00:00",
+      "Rating": 4.48,
+      "NumberOfAwards": 28601,
+      "NumberOfAwardsMax": 8482
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28584,
-  "NumberOfAwardsMax": 8472,
+  "NumberOfAwards": 28601,
+  "NumberOfAwardsMax": 8482,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8472
+      "Count": 8482
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -12344,7 +12350,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1775
+      "Count": 1780
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12398,7 +12404,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1462
+      "Count": 1464
     }
   ],
   "EOS_Progressed": 0,
@@ -12412,8 +12418,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2023-11-08T21:10:23.3738805+00:00",
+  "LastChanged": "2023-11-09T01:43:46.3770724+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:07.9962335+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:03:42.0462398+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:10:26.069336+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:43:46.377073+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:50:24.3573635+00:00"
 }

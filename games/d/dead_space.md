@@ -17,7 +17,7 @@ Rating: 4.63 (Ranked 349)
 | Raise the Stakes | 55.00% | ~903 |
 | Surgeon | 51.00% | ~837 |
 | Freeze | 51.00% | ~837 |
-| Exterminator | 50.00% | ~821 |
+| Exterminator | 51.00% | ~837 |
 | Greenhouse Effect | 50.00% | ~821 |
 | Full Arsenal | 45.00% | ~739 |
 | S.O.S. | 44.00% | ~722 |

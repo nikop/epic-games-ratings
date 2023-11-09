@@ -222,9 +222,9 @@
       "ID": "CrossMagmaWithAnguirus",
       "SetID": "59jf8f5",
       "Name": "Fearless",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "CrossMagmaWithKuwaganoko",
@@ -518,9 +518,9 @@
       "ID": "PlayEveryoneStage",
       "SetID": "59jf8f5",
       "Name": "Battle in Another Universe",
-      "Percentage": 50,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "PlayGameForHours20",
@@ -572,8 +572,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:08:07.8940825+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:48:28.0589635+00:00",
   "LastUpdate_AppInfo": "2023-11-07T03:57:00.1604084+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:01:16.0606833+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:08:07.8941439+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:42:26.6023423+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:48:28.0590139+00:00"
 }

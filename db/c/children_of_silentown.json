@@ -401,9 +401,9 @@
       "ID": "Cellar",
       "SetID": "9kk0gal",
       "Name": "Glass shards",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "DogHair",
@@ -537,9 +537,9 @@
       "ID": "Secret",
       "SetID": "9kk0gal",
       "Name": "Old kettle",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 25
     },
     {
       "ID": "Spyglass",
@@ -602,8 +602,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:08:22.6399198+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:48:40.3620797+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:44.1521466+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:04:40.6083363+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:08:22.6399641+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:44:38.5686025+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:48:40.3621293+00:00"
 }

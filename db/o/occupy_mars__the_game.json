@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewPlayers": 288,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1697,
+  "EOS_Progressed": 1698,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4139,6 +4139,11 @@
       "Time": "2023-11-08T22:05:32.3472796+00:00",
       "NumProgressed": 1697,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T01:50:23.9137765+00:00",
+      "NumProgressed": 1698,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4222,7 +4227,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -4302,7 +4307,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4374,7 +4379,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4533,7 +4538,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1697,
+      "Progressed": 1698,
       "Completed": 0
     }
   ],
@@ -4541,8 +4546,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-08T15:58:28.9481693+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:10:25.2622093+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:50:23.913776+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:13.9146471+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:03:24.9495175+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:10:25.262269+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:43:31.0518764+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:50:23.9138286+00:00"
 }

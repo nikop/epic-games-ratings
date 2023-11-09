@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 587)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 7.00% | ~2,139 |
+| Stylish | 7.00% | ~2,140 |
 | Meticulously Efficient | 6.00% | ~1,834 |
 | Advancement | 5.00% | ~1,528 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,223 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,563 (Ranked 122)  
+Progressed: 30,570 (Ranked 122)  
 Completed: 66 (0.22%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,10 +260,10 @@ Completed: 66 (0.22%) (Ranked 236)
 | 2023-11-06 | 30,390 | 65 |
 | 2023-11-07 | 30,471 | 65 |
 | 2023-11-08 | 30,559 | 66 |
-| 2023-11-09 | 30,563 | 66 |
+| 2023-11-09 | 30,570 | 66 |
 ## Awards
 Max (Great for Beginners): 309  (Ranked 245)  
-Sum: 2,739 (Ranked 179)  
+Sum: 2,740 (Ranked 179)  
 Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
@@ -276,7 +276,7 @@ Diff (max vs sum): 66
 | This game is Extremely Fun | 267 |
 | This game is Relaxing | 263 |
 | This game has Amazing Characters | 255 |
-| This game has Quickly Understood Controls | 250 |
+| This game has Quickly Understood Controls | 251 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -488,3 +488,4 @@ Diff (max vs sum): 66
 | 2023-11-06 | 4.50 | 305 | 2,708 |
 | 2023-11-07 | 4.50 | 309 | 2,730 |
 | 2023-11-08 | 4.50 | 309 | 2,739 |
+| 2023-11-09 | 4.50 | 309 | 2,740 |

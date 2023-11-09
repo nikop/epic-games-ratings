@@ -1,26 +1,26 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.61 (Ranked 384)  
+Rating: 4.61 (Ranked 385)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~446,244 |
-| The Three | 64.00% | ~344,092 |
-| The Banquet | 40.00% | ~215,057 |
-| Devara's Light | 31.00% | ~166,669 |
-| The Iron Ones | 18.00% | ~96,776 |
-| The Village | 17.00% | ~91,399 |
-| The Forest | 15.00% | ~80,646 |
-| The Keep | 14.00% | ~75,270 |
+| Find Sanctuary | 83.00% | ~446,248 |
+| The Three | 64.00% | ~344,095 |
+| The Banquet | 40.00% | ~215,059 |
+| Devara's Light | 31.00% | ~166,671 |
+| The Iron Ones | 18.00% | ~96,777 |
+| The Village | 17.00% | ~91,400 |
+| The Forest | 15.00% | ~80,647 |
+| The Keep | 14.00% | ~75,271 |
 | Branded | 13.00% | ~69,894 |
 | The Imposter | 13.00% | ~69,894 |
 | The Castle | 11.00% | ~59,141 |
 | The Dome | 9.00% | ~48,388 |
 | The Red Hall | 9.00% | ~48,388 |
-| The Sacrifice | 8.00% | ~43,011 |
-| The Ziggurat | 8.00% | ~43,011 |
+| The Sacrifice | 8.00% | ~43,012 |
+| The Ziggurat | 8.00% | ~43,012 |
 | The Cave | 7.00% | ~37,635 |
 | The Mire | 7.00% | ~37,635 |
 | The Stone Roots | 7.00% | ~37,635 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,753 |
 | Fading Fast | 1.00% | ~5,376 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,643 (Ranked 33)  
+Progressed: 537,648 (Ranked 33)  
 Completed: 1,609 (0.30%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,11 +247,11 @@ Completed: 1,609 (0.30%) (Ranked 225)
 | 2023-11-06 | 537,477 | 1,608 |
 | 2023-11-07 | 537,553 | 1,609 |
 | 2023-11-08 | 537,639 | 1,609 |
-| 2023-11-09 | 537,643 | 1,609 |
+| 2023-11-09 | 537,648 | 1,609 |
 ## Awards
-Max (Challenging Combat): 292  (Ranked 250)  
+Max (Challenging Combat): 292  (Ranked 251)  
 Sum: 1,988 (Ranked 209)  
-Diff (max vs sum): 41  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 292 |

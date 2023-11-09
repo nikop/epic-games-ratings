@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -2026,18 +2026,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 1143,
       "NumberOfAwardsMax": 812
+    },
+    {
+      "Time": "2023-11-09T01:42:23.9342223+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1145,
+      "NumberOfAwardsMax": 814
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1143,
-  "NumberOfAwardsMax": 812,
+  "NumberOfAwards": 1145,
+  "NumberOfAwardsMax": 814,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 812
+      "Count": 814
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2117,8 +2123,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:28.893212+00:00",
-  "LastChanged": "2023-11-08T21:57:42.2508467+00:00",
+  "LastChanged": "2023-11-09T01:42:23.9342221+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:32.8291858+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:01:05.3868469+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:10:56.0764522+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:42:23.9342226+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:50:49.5192937+00:00"
 }

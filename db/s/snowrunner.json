@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
@@ -12493,10 +12493,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 80504,
       "NumberOfAwardsMax": 12016
+    },
+    {
+      "Time": "2023-11-09T01:43:38.3839805+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 80518,
+      "NumberOfAwardsMax": 12016
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 80504,
+  "NumberOfAwards": 80518,
   "NumberOfAwardsMax": 12016,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12546,7 +12552,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7030
+      "Count": 7044
     },
     {
       "Text": "This game has Amazing Characters",
@@ -12572,8 +12578,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2023-11-09T00:03:32.7275159+00:00",
+  "LastChanged": "2023-11-09T01:43:38.3839803+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:02.1640632+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:03:32.7275166+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:09:28.2021983+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:43:38.3839808+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:49:35.6616526+00:00"
 }

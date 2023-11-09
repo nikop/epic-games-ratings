@@ -2,12 +2,12 @@
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
-  "Ranking_Rating": 365,
+  "Ranking_Rating": 349,
   "Ranking_Popularity": 475,
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 733,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 85,
   "RatingHistory": [
     {
@@ -279,6 +279,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 34,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-11-09T01:43:19.9714921+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 34,
+      "NumberOfAwardsMax": 34
     }
   ],
   "ReviewsDisabled": false,
@@ -304,8 +310,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
-  "LastChanged": "2023-04-21T20:57:46.983965+00:00",
+  "LastChanged": "2023-11-09T01:43:19.9714919+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:23.9470091+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:03:10.2310775+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:08:50.7519937+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:43:19.9714925+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:49:04.4116774+00:00"
 }

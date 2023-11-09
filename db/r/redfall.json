@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2533,9 +2533,9 @@
       "ID": "Achievement_022",
       "SetID": "6b34g18",
       "Name": "Bell-ringer",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement_023",
@@ -2910,8 +2910,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-10-08T15:57:53.1748386+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:07:18.5431469+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:47:54.9397181+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.8692687+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:00:49.3771149+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:07:18.5432334+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:42:20.8381397+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:47:54.9398061+00:00"
 }

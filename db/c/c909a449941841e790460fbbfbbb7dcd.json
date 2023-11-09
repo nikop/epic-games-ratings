@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 372,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 183,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
@@ -884,9 +884,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -947,8 +947,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:13:21.3587008+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:53:44.5725512+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:05:05.7007516+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:13:21.3587207+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:44:57.3877457+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:53:44.5725644+00:00"
 }

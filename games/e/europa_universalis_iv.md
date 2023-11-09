@@ -85,6 +85,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Liberty or Death | 0.10% | ~450 |
 | Live Long and Prosper | 0.10% | ~450 |
 | Luck of the Irish | 0.10% | ~450 |
+| Made in Japan | 0.10% | ~450 |
 | Magellan’s Voyage | 0.10% | ~450 |
 | Mare Nostrum | 0.10% | ~450 |
 | Market Control | 0.10% | ~450 |
@@ -256,7 +257,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Levant Turnabout | 0.00% | ~0 |
 | Lion of the North | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
-| Made in Japan | 0.00% | ~0 |
 | Maharana Pratap | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
 | Mary of Lotharingia | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,176 (Ranked 41)  
+Progressed: 450,195 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
-| 2023-11-09 | 450,176 | 1 |
+| 2023-11-09 | 450,195 | 1 |
 ## Awards
 Max (Educational): 6,903  (Ranked 55)  
 Sum: 56,787 (Ranked 24)  

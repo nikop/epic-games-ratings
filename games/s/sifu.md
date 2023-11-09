@@ -15,7 +15,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 0.50% | ~3,582 |
 | Qi Gong: Breath | 0.50% | ~3,582 |
 | Lightning Hands | 0.50% | ~3,582 |
-| Fight the way you practice | 0.50% | ~128 |
+| Fight the way you practice | 0.50% | ~129 |
 | A Lady's Blood in the Snow | 0.40% | ~2,866 |
 | Lady Wing Chun | 0.40% | ~2,866 |
 | Furious Fists | 0.40% | ~2,866 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,396 (Ranked 20)  
+Progressed: 716,401 (Ranked 20)  
 Completed: 12,934 (1.81%) (Ranked 124)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 12,934 (1.81%) (Ranked 124)
 | 2023-11-06 | 716,236 | 12,933 |
 | 2023-11-07 | 716,309 | 12,933 |
 | 2023-11-08 | 716,394 | 12,934 |
-| 2023-11-09 | 716,396 | 12,934 |
+| 2023-11-09 | 716,401 | 12,934 |
 ## Awards
 Max (Great Boss Battles): 6,772  (Ranked 56)  
 Sum: 11,827 (Ranked 82)  

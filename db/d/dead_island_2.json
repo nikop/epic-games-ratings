@@ -6285,10 +6285,10 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 715211,
-  "EOS_Completed": 2359,
-  "EOS_NewPlayers": 4745,
-  "EOS_NewCompleters": 62,
+  "EOS_Progressed": 715246,
+  "EOS_Completed": 2361,
+  "EOS_NewPlayers": 4744,
+  "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29385,6 +29385,11 @@
       "Time": "2023-11-09T00:10:54.93974+00:00",
       "NumProgressed": 715211,
       "NumCompleted": 2359
+    },
+    {
+      "Time": "2023-11-09T01:50:48.6632683+00:00",
+      "NumProgressed": 715246,
+      "NumCompleted": 2361
     }
   ],
   "TotalAchievements": 51,
@@ -29514,9 +29519,9 @@
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2861
+      "UsersEstimate": 3576
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -29764,7 +29769,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 816
     },
     {
       "ID": "ach_gardening_tools",
@@ -29803,22 +29808,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715211,
-      "Completed": 2359
+      "Progressed": 715246,
+      "Completed": 2361
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40753,
-      "Completed": 36497
+      "Progressed": 40788,
+      "Completed": 36499
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-08T21:58:33.0229559+00:00",
-  "LastChanged_Achievements": "2023-11-09T00:10:54.9397393+00:00",
+  "LastChanged_Achievements": "2023-11-09T01:50:48.6632678+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-09T00:03:01.697017+00:00",
-  "LastUpdate_Achievements": "2023-11-09T00:10:54.9399398+00:00"
+  "LastUpdate_Ratings": "2023-11-09T01:43:13.396109+00:00",
+  "LastUpdate_Achievements": "2023-11-09T01:50:48.6633829+00:00"
 }

@@ -6,21 +6,21 @@ Number of Ratings: 10,109  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 86.00% | ~38,272 |
-| Blood Moon | 73.00% | ~32,486 |
-| Path of the Necromancer | 66.00% | ~29,371 |
-| Chainbreaker - I | 60.00% | ~26,701 |
-| Cursed Creature | 57.00% | ~25,366 |
-| Extraction | 57.00% | ~25,366 |
-| Chainbreaker - II | 55.00% | ~24,476 |
-| Necromancer's Apprentice | 51.00% | ~22,696 |
-| Keeper of Keys | 47.00% | ~20,916 |
-| Distillation | 43.00% | ~19,136 |
-| Mountain King - I | 42.00% | ~18,691 |
-| Transmutation | 42.00% | ~18,691 |
-| Prepared Necromancer | 40.00% | ~17,801 |
-| Mountain King - II | 39.00% | ~17,356 |
-| Blind Rage | 38.00% | ~16,911 |
+| Improvement | 86.00% | ~38,273 |
+| Blood Moon | 73.00% | ~32,488 |
+| Path of the Necromancer | 66.00% | ~29,373 |
+| Chainbreaker - I | 60.00% | ~26,702 |
+| Cursed Creature | 57.00% | ~25,367 |
+| Extraction | 57.00% | ~25,367 |
+| Chainbreaker - II | 55.00% | ~24,477 |
+| Necromancer's Apprentice | 51.00% | ~22,697 |
+| Keeper of Keys | 47.00% | ~20,917 |
+| Distillation | 43.00% | ~19,137 |
+| Mountain King - I | 42.00% | ~18,692 |
+| Transmutation | 42.00% | ~18,692 |
+| Prepared Necromancer | 40.00% | ~17,802 |
+| Mountain King - II | 39.00% | ~17,357 |
+| Blind Rage | 38.00% | ~16,912 |
 | Mad Genius | 35.00% | ~15,576 |
 | Cannon Fodder - I | 34.00% | ~15,131 |
 | Soul of Lies | 34.00% | ~15,131 |
@@ -32,27 +32,27 @@ Number of Ratings: 10,109  (23.09.2022)
 | Chainbreaker - III | 28.00% | ~12,461 |
 | Revealed Secrets - I | 27.00% | ~12,016 |
 | Revealed Secrets - II | 25.00% | ~11,126 |
-| Blood Elemental | 24.00% | ~10,680 |
-| Unholy Bones | 23.00% | ~10,235 |
-| Lord of Fire | 23.00% | ~10,235 |
-| Uncommon Warrior | 23.00% | ~10,235 |
-| Cannon Fodder - III | 22.00% | ~9,790 |
-| Spiritual Attraction | 22.00% | ~9,790 |
-| Nightmare of the Humanity - I | 22.00% | ~9,790 |
-| Nightmare of the Humanity - II | 21.00% | ~9,345 |
-| That Was Easy! | 20.00% | ~8,900 |
-| Silent Waters | 20.00% | ~8,900 |
-| Calcination | 20.00% | ~8,900 |
-| Head of Order | 20.00% | ~8,900 |
-| Blood Mage | 17.00% | ~7,565 |
-| Wild Hunger | 16.00% | ~7,120 |
-| Rage Concentrated | 16.00% | ~7,120 |
-| Mountain King - III | 15.00% | ~6,675 |
-| Rare Warrior | 15.00% | ~6,675 |
-| Grand Arena | 14.00% | ~6,230 |
-| Blood Madness | 13.00% | ~5,785 |
-| First Sacrifice | 13.00% | ~5,785 |
-| Master of Alchemy | 13.00% | ~5,785 |
+| Blood Elemental | 24.00% | ~10,681 |
+| Unholy Bones | 23.00% | ~10,236 |
+| Lord of Fire | 23.00% | ~10,236 |
+| Uncommon Warrior | 23.00% | ~10,236 |
+| Cannon Fodder - III | 22.00% | ~9,791 |
+| Spiritual Attraction | 22.00% | ~9,791 |
+| Nightmare of the Humanity - I | 22.00% | ~9,791 |
+| Nightmare of the Humanity - II | 21.00% | ~9,346 |
+| That Was Easy! | 20.00% | ~8,901 |
+| Silent Waters | 20.00% | ~8,901 |
+| Calcination | 20.00% | ~8,901 |
+| Head of Order | 20.00% | ~8,901 |
+| Blood Mage | 17.00% | ~7,566 |
+| Wild Hunger | 16.00% | ~7,121 |
+| Rage Concentrated | 16.00% | ~7,121 |
+| Mountain King - III | 15.00% | ~6,676 |
+| Rare Warrior | 15.00% | ~6,676 |
+| Grand Arena | 14.00% | ~6,231 |
+| Blood Madness | 13.00% | ~5,786 |
+| First Sacrifice | 13.00% | ~5,786 |
+| Master of Alchemy | 13.00% | ~5,786 |
 | Legendary Warrior | 12.00% | ~5,340 |
 | Bane of Mercenaries - III | 10.00% | ~4,450 |
 | Monument to Greatness | 10.00% | ~4,450 |
@@ -82,7 +82,7 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~223 |
 | Renowned Researcher | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,502 (Ranked 112)  
+Progressed: 44,504 (Ranked 112)  
 Completed: 24 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 24 (0.05%) (Ranked 297)
 | 2023-11-06 | 44,357 | 24 |
 | 2023-11-07 | 44,445 | 24 |
 | 2023-11-08 | 44,499 | 24 |
-| 2023-11-09 | 44,502 | 24 |
+| 2023-11-09 | 44,504 | 24 |
 ## Awards
 Max (Character Customization): 2,160  (Ranked 108)  
 Sum: 4,193 (Ranked 149)  
