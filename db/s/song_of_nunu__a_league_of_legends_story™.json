@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 588,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 408,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -917,6 +917,11 @@
       "Time": "2023-11-09T03:09:00.2724464+00:00",
       "NumProgressed": 587,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T04:09:54.7907767+00:00",
+      "NumProgressed": 588,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -929,7 +934,7 @@
       "Name": "Blue Dreams",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "EV_ACH02",
@@ -937,15 +942,15 @@
       "Name": "My Darkest Day",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 388
     },
     {
       "ID": "EV_ACH04",
@@ -953,7 +958,7 @@
       "Name": "No Bites",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "EV_ACH05",
@@ -975,9 +980,9 @@
       "ID": "EV_ACH07",
       "SetID": "6jeac23",
       "Name": "3000 Year Blackout",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 229
     },
     {
       "ID": "EV_ACH08",
@@ -985,7 +990,7 @@
       "Name": "So Close",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "EV_ACH09",
@@ -993,7 +998,7 @@
       "Name": "You Get Used To It",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "EV_ACH10",
@@ -1041,7 +1046,7 @@
       "Name": "Better On Ice",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "EV_ACH16",
@@ -1057,7 +1062,7 @@
       "Name": "Iceborn",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "EV_ACH18",
@@ -1121,7 +1126,7 @@
       "Name": "Rhythm Of Willump",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "EV_ACH26",
@@ -1129,7 +1134,7 @@
       "Name": "Moneyball",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "EV_ACH27",
@@ -1161,7 +1166,7 @@
       "Name": "Braum\u0027s Poro Ranch",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "EV_ACH31",
@@ -1169,7 +1174,7 @@
       "Name": "Feels Familiar",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "EV_ACH32",
@@ -1185,7 +1190,7 @@
       "Name": "Notai Notes",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "EV_ACH34",
@@ -1201,7 +1206,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "EV_ACH36",
@@ -1225,7 +1230,7 @@
       "Name": "Vertical Power",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "EV_ACH39",
@@ -1280,14 +1285,14 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 588,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-09T03:09:00.272446+00:00",
+  "LastChanged_Achievements": "2023-11-09T04:09:54.7907764+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-09T03:02:37.749861+00:00",
-  "LastUpdate_Achievements": "2023-11-09T03:09:00.2724737+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:03:05.8294203+00:00",
+  "LastUpdate_Achievements": "2023-11-09T04:09:54.7908089+00:00"
 }

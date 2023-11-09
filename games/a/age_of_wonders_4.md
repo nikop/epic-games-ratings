@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 411)
 | Duality | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,299 (Ranked 183)  
+Progressed: 5,300 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,6 +237,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-06 | 5,276 | 7 |
 | 2023-11-07 | 5,285 | 7 |
 | 2023-11-08 | 5,299 | 7 |
+| 2023-11-09 | 5,300 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 474)  

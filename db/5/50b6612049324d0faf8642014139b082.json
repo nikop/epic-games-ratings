@@ -2,7 +2,7 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "WRC",
   "ProductSlug": "wrc",
-  "Ranking_EOS_Progress": 474,
+  "Ranking_EOS_Progress": 470,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 127,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -80,6 +80,11 @@
       "Time": "2023-11-09T03:08:58.8599305+00:00",
       "NumProgressed": 50,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T04:09:52.9642611+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -98,17 +103,17 @@
       "ID": "achievement_10",
       "SetID": "jnappp",
       "Name": "Asphalt Artist",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 35,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 32,
+      "Percentage": 35,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_12",
@@ -130,7 +135,7 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 25,
       "UsersEstimate": 23
     },
@@ -154,7 +159,7 @@
       "ID": "achievement_17",
       "SetID": "jnappp",
       "Name": "Your first time?",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 30,
       "UsersEstimate": 26
     },
@@ -178,9 +183,9 @@
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "achievement_20",
@@ -218,9 +223,9 @@
       "ID": "achievement_24",
       "SetID": "jnappp",
       "Name": "Miracle in the Mountains",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_25",
@@ -274,7 +279,7 @@
       "ID": "achievement_7",
       "SetID": "jnappp",
       "Name": "NEW PB!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 35,
       "UsersEstimate": 20
     },
@@ -299,14 +304,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-09T03:08:58.8599299+00:00",
+  "LastChanged_Achievements": "2023-11-09T04:09:52.9642608+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-09T03:00:36.3178338+00:00",
-  "LastUpdate_Achievements": "2023-11-09T03:08:58.8599455+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:02:37.0077091+00:00",
+  "LastUpdate_Achievements": "2023-11-09T04:09:52.9642743+00:00"
 }

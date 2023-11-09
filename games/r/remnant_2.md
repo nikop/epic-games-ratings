@@ -5,16 +5,16 @@ Rating: 4.75 (Ranked 144)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,707 |
+| First of Many | 9.00% | ~19,708 |
 | The Killing Jar | 8.00% | ~17,518 |
-| Expanding Horizons | 7.00% | ~15,328 |
-| Quest for Survival | 7.00% | ~15,328 |
-| Not Your Average Trait | 7.00% | ~15,328 |
-| Gleaming the Cube | 6.00% | ~13,138 |
-| Familiar Face | 6.00% | ~13,138 |
-| Duality | 6.00% | ~13,138 |
-| Boss'n Up | 6.00% | ~13,138 |
-| Trait Chaser | 6.00% | ~13,138 |
+| Expanding Horizons | 7.00% | ~15,329 |
+| Quest for Survival | 7.00% | ~15,329 |
+| Not Your Average Trait | 7.00% | ~15,329 |
+| Gleaming the Cube | 6.00% | ~13,139 |
+| Familiar Face | 6.00% | ~13,139 |
+| Duality | 6.00% | ~13,139 |
+| Boss'n Up | 6.00% | ~13,139 |
+| Trait Chaser | 6.00% | ~13,139 |
 | Not So Special Now | 5.00% | ~10,949 |
 | Not a Janitor | 5.00% | ~10,949 |
 | Equal Measures | 5.00% | ~10,949 |
@@ -43,20 +43,20 @@ Rating: 4.75 (Ranked 144)
 | Edgelord | 3.00% | ~6,569 |
 | The Ultimate Weapon | 3.00% | ~6,569 |
 | No One Should Have All That Power | 3.00% | ~6,569 |
-| Crafty | 2.00% | ~4,379 |
-| Only Human | 2.00% | ~4,379 |
-| Red Room | 2.00% | ~4,379 |
-| The Collector | 2.00% | ~4,379 |
-| Scrap Hoarder | 2.00% | ~4,379 |
-| Carnage in C-Minor | 2.00% | ~4,379 |
-| Maxed Out! | 2.00% | ~4,379 |
-| Transmutate | 2.00% | ~4,379 |
+| Crafty | 2.00% | ~4,380 |
+| Only Human | 2.00% | ~4,380 |
+| Red Room | 2.00% | ~4,380 |
+| The Collector | 2.00% | ~4,380 |
+| Scrap Hoarder | 2.00% | ~4,380 |
+| Carnage in C-Minor | 2.00% | ~4,380 |
+| Maxed Out! | 2.00% | ~4,380 |
+| Transmutate | 2.00% | ~4,380 |
 | Ghost in the Machine | 1.00% | ~2,190 |
 | The Trigger | 1.00% | ~2,190 |
 | Cutting Edge | 1.00% | ~2,190 |
 | Proving Grounds | 1.00% | ~2,190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,972 (Ranked 68)  
+Progressed: 218,980 (Ranked 68)  
 Completed: 435 (0.20%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,15 +172,15 @@ Completed: 435 (0.20%) (Ranked 244)
 | 2023-11-06 | 218,456 | 432 |
 | 2023-11-07 | 218,702 | 433 |
 | 2023-11-08 | 218,941 | 435 |
-| 2023-11-09 | 218,972 | 435 |
+| 2023-11-09 | 218,980 | 435 |
 ## Awards
 Max (Great Boss Battles): 2,109  (Ranked 109)  
-Sum: 4,731 (Ranked 144)  
+Sum: 4,732 (Ranked 144)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,109 |
-| This game has Diverse Characters | 299 |
+| This game has Diverse Characters | 300 |
 | This game has Challenging Combat | 291 |
 | This game is Relaxing | 285 |
 | This game is Extremely Fun | 283 |
@@ -299,4 +299,4 @@ Diff (max vs sum): -35
 | 2023-11-06 | 4.75 | 2,080 | 4,650 |
 | 2023-11-07 | 4.75 | 2,095 | 4,688 |
 | 2023-11-08 | 4.75 | 2,109 | 4,727 |
-| 2023-11-09 | 4.75 | 2,109 | 4,731 |
+| 2023-11-09 | 4.75 | 2,109 | 4,732 |

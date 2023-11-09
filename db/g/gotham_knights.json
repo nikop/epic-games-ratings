@@ -4055,9 +4055,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76183,
+  "EOS_Progressed": 76186,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 477,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21970,6 +21970,11 @@
       "Time": "2023-11-09T03:06:04.0349455+00:00",
       "NumProgressed": 76183,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-09T04:07:56.1536923+00:00",
+      "NumProgressed": 76186,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22029,7 +22034,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17522
+      "UsersEstimate": 17523
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -22069,7 +22074,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11427
+      "UsersEstimate": 11428
     },
     {
       "ID": "CHALLENGES_1",
@@ -22077,7 +22082,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12951
+      "UsersEstimate": 12952
     },
     {
       "ID": "CLAYFACE_1",
@@ -22085,7 +22090,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15998
+      "UsersEstimate": 15999
     },
     {
       "ID": "CLAYFACE_2",
@@ -22165,7 +22170,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -22197,7 +22202,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7618
+      "UsersEstimate": 7619
     },
     {
       "ID": "FREEZE_1",
@@ -22205,7 +22210,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21331
+      "UsersEstimate": 21332
     },
     {
       "ID": "FREEZE_1_5",
@@ -22213,7 +22218,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 15998
+      "UsersEstimate": 15999
     },
     {
       "ID": "FREEZE_2",
@@ -22285,7 +22290,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26664
+      "UsersEstimate": 26665
     },
     {
       "ID": "HARLEY_2",
@@ -22309,7 +22314,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12189
+      "UsersEstimate": 12190
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22325,7 +22330,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38853
+      "UsersEstimate": 38855
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22341,7 +22346,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -22357,7 +22362,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20569
+      "UsersEstimate": 20570
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -22373,7 +22378,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25902
+      "UsersEstimate": 25903
     },
     {
       "ID": "MYSTERY_02",
@@ -22389,7 +22394,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16760
+      "UsersEstimate": 16761
     },
     {
       "ID": "MYSTERY_04",
@@ -22413,7 +22418,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11427
+      "UsersEstimate": 11428
     },
     {
       "ID": "MYSTERY_07",
@@ -22445,7 +22450,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6856
+      "UsersEstimate": 6857
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -22461,20 +22466,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2285
+      "UsersEstimate": 2286
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76183,
+      "Progressed": 76186,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46463,
+      "Progressed": 46466,
       "Completed": 2673
     }
   ],
@@ -22482,8 +22487,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-09T00:03:12.8084582+00:00",
-  "LastChanged_Achievements": "2023-11-09T03:06:04.0349451+00:00",
+  "LastChanged_Achievements": "2023-11-09T04:07:56.1536918+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:58:48.2398783+00:00",
-  "LastUpdate_Achievements": "2023-11-09T03:06:04.0350827+00:00"
+  "LastUpdate_Ratings": "2023-11-09T03:59:25.0720111+00:00",
+  "LastUpdate_Achievements": "2023-11-09T04:07:56.1538402+00:00"
 }

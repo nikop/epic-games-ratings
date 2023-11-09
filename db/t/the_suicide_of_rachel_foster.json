@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1621,
+  "EOS_Progressed": 1622,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.5,
   "EosHistory": [
@@ -3288,6 +3288,11 @@
       "Time": "2023-11-09T00:11:08.5378777+00:00",
       "NumProgressed": 1621,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-09T04:07:59.217719+00:00",
+      "NumProgressed": 1622,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3297,9 +3302,9 @@
       "ID": "ACH_Appuntamento",
       "SetID": "7a9m7mj",
       "Name": "Cutepie",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 681
+      "UsersEstimate": 665
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -3315,7 +3320,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -3339,7 +3344,7 @@
       "Name": "Alone",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_FineGioco",
@@ -3355,7 +3360,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -3363,7 +3368,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3386,15 +3391,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1621,
+      "Progressed": 1622,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-09T03:06:06.264296+00:00",
+  "LastChanged_Achievements": "2023-11-09T04:07:59.2177186+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.3333831+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:59:32.877675+00:00",
-  "LastUpdate_Achievements": "2023-11-09T03:06:06.2643204+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:00:34.8889269+00:00",
+  "LastUpdate_Achievements": "2023-11-09T04:07:59.2177416+00:00"
 }

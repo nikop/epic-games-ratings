@@ -6,7 +6,7 @@
   "Ranking_Popularity": 543,
   "Ranking_PopularitySum": 544,
   "Ranking_EOS_Progress": 35,
-  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 530918,
+  "EOS_Progressed": 530919,
   "EOS_Completed": 497,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 467,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -22052,6 +22052,11 @@
       "Time": "2023-11-09T03:04:57.0764681+00:00",
       "NumProgressed": 530918,
       "NumCompleted": 497
+    },
+    {
+      "Time": "2023-11-09T04:06:22.3823199+00:00",
+      "NumProgressed": 530919,
+      "NumCompleted": 497
     }
   ],
   "TotalAchievements": 57,
@@ -22071,7 +22076,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 238913
+      "UsersEstimate": 238914
     },
     {
       "ID": "11",
@@ -22143,7 +22148,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329169
+      "UsersEstimate": 329170
     },
     {
       "ID": "2",
@@ -22159,7 +22164,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127420
+      "UsersEstimate": 127421
     },
     {
       "ID": "21",
@@ -22287,7 +22292,7 @@
       "Name": "Window Dressing",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 265459
+      "UsersEstimate": 265460
     },
     {
       "ID": "36",
@@ -22367,7 +22372,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42473
+      "UsersEstimate": 42474
     },
     {
       "ID": "45",
@@ -22391,7 +22396,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329169
+      "UsersEstimate": 329170
     },
     {
       "ID": "48",
@@ -22439,7 +22444,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 244222
+      "UsersEstimate": 244223
     },
     {
       "ID": "53",
@@ -22518,15 +22523,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 530918,
+      "Progressed": 530919,
       "Completed": 497
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-09T03:04:57.0764675+00:00",
+  "LastChanged_Achievements": "2023-11-09T04:06:22.3823196+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:04.9098123+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:57:12.0846584+00:00",
-  "LastUpdate_Achievements": "2023-11-09T03:04:57.0765892+00:00"
+  "LastUpdate_Ratings": "2023-11-09T03:57:17.5155051+00:00",
+  "LastUpdate_Achievements": "2023-11-09T04:06:22.3824287+00:00"
 }

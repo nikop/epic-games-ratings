@@ -6,19 +6,19 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~446,250 |
-| The Three | 64.00% | ~344,096 |
-| The Banquet | 40.00% | ~215,060 |
-| Devara's Light | 31.00% | ~166,672 |
-| The Iron Ones | 18.00% | ~96,777 |
-| The Village | 17.00% | ~91,400 |
+| Find Sanctuary | 83.00% | ~446,253 |
+| The Three | 64.00% | ~344,099 |
+| The Banquet | 40.00% | ~215,062 |
+| Devara's Light | 31.00% | ~166,673 |
+| The Iron Ones | 18.00% | ~96,778 |
+| The Village | 17.00% | ~91,401 |
 | The Forest | 15.00% | ~80,648 |
-| The Keep | 14.00% | ~75,271 |
-| Branded | 13.00% | ~69,894 |
-| The Imposter | 13.00% | ~69,894 |
+| The Keep | 14.00% | ~75,272 |
+| Branded | 13.00% | ~69,895 |
+| The Imposter | 13.00% | ~69,895 |
 | The Castle | 11.00% | ~59,142 |
-| The Dome | 9.00% | ~48,388 |
-| The Red Hall | 9.00% | ~48,388 |
+| The Dome | 9.00% | ~48,389 |
+| The Red Hall | 9.00% | ~48,389 |
 | The Sacrifice | 8.00% | ~43,012 |
 | The Ziggurat | 8.00% | ~43,012 |
 | The Cave | 7.00% | ~37,636 |
@@ -28,8 +28,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Construct | 6.00% | ~32,259 |
 | The Lake | 6.00% | ~32,259 |
 | The Ruins | 6.00% | ~32,259 |
-| The Alkymancery | 5.00% | ~26,882 |
-| The Pitchwoods | 5.00% | ~26,882 |
+| The Alkymancery | 5.00% | ~26,883 |
+| The Pitchwoods | 5.00% | ~26,883 |
 | Honed | 4.00% | ~21,506 |
 | The House of Splendor | 4.00% | ~21,506 |
 | The Crypt | 4.00% | ~21,506 |
@@ -42,9 +42,9 @@ Number of Ratings: 3,114  (23.09.2022)
 | Keepers of Fire and Sky | 2.00% | ~10,753 |
 | Order of the Betrayer | 2.00% | ~10,753 |
 | Wise Words | 2.00% | ~10,753 |
-| Fading Fast | 1.00% | ~5,376 |
+| Fading Fast | 1.00% | ~5,377 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,650 (Ranked 33)  
+Progressed: 537,654 (Ranked 33)  
 Completed: 1,609 (0.30%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,21 +247,21 @@ Completed: 1,609 (0.30%) (Ranked 225)
 | 2023-11-06 | 537,477 | 1,608 |
 | 2023-11-07 | 537,553 | 1,609 |
 | 2023-11-08 | 537,639 | 1,609 |
-| 2023-11-09 | 537,650 | 1,609 |
+| 2023-11-09 | 537,654 | 1,609 |
 ## Awards
 Max (Challenging Combat): 292  (Ranked 251)  
-Sum: 1,988 (Ranked 209)  
+Sum: 1,990 (Ranked 209)  
 Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 292 |
 | This game is Highly Recommended | 263 |
-| This game has Quickly Understood Controls | 261 |
+| This game has Quickly Understood Controls | 262 |
 | This game has Diverse Characters | 245 |
 | This game is Extremely Fun | 243 |
 | This game has Amazing Storytelling | 232 |
 | This game has Amazing Characters | 230 |
-| This game has Unique Visuals | 222 |
+| This game has Unique Visuals | 223 |
 | This game has Obsessive Gameplay | 164 |
 | This game has a Creative Community | 94 |
 ## Ratings History
@@ -446,3 +446,4 @@ Diff (max vs sum): 42
 | 2023-11-02 | 4.61 | - | 292 | 1,985 |
 | 2023-11-03 | 4.61 | - | 292 | 1,986 |
 | 2023-11-08 | 4.61 | - | 292 | 1,988 |
+| 2023-11-09 | 4.61 | - | 292 | 1,990 |

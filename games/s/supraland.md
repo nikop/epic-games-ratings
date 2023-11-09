@@ -6,24 +6,24 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~724,785 |
-| The Blues | 85.00% | ~622,290 |
-| Fast | 66.00% | ~483,190 |
-| Healthbar | 55.00% | ~402,658 |
-| Force Cube | 53.00% | ~388,016 |
+| Out of bed | 99.00% | ~724,786 |
+| The Blues | 85.00% | ~622,291 |
+| Fast | 66.00% | ~483,191 |
+| Healthbar | 55.00% | ~402,659 |
+| Force Cube | 53.00% | ~388,017 |
 | Double Jump | 48.00% | ~351,411 |
 | Regeneration | 47.00% | ~344,090 |
 | Triple Jump | 43.00% | ~314,806 |
 | Climb the hill | 42.00% | ~307,485 |
-| Through the fire pipe | 39.00% | ~285,521 |
-| MacGuffin | 38.00% | ~278,200 |
-| Just once | 37.00% | ~270,879 |
+| Through the fire pipe | 39.00% | ~285,522 |
+| MacGuffin | 38.00% | ~278,201 |
+| Just once | 37.00% | ~270,880 |
 | Armor | 30.00% | ~219,632 |
 | True holy spirit | 28.00% | ~204,990 |
 | That's how electronics work obviously | 27.00% | ~197,669 |
-| Force Cube Catapult | 25.00% | ~183,026 |
-| Holy Sword | 23.00% | ~168,384 |
-| Telefrag | 23.00% | ~168,384 |
+| Force Cube Catapult | 25.00% | ~183,027 |
+| Holy Sword | 23.00% | ~168,385 |
+| Telefrag | 23.00% | ~168,385 |
 | Freed from prison | 21.00% | ~153,742 |
 | Stomp | 21.00% | ~153,742 |
 | Double Health | 19.00% | ~139,100 |
@@ -55,7 +55,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Momentum | 9.00% | ~65,890 |
 | Through the tiny pipe | 9.00% | ~65,890 |
 | Win! | 9.00% | ~65,890 |
-| The real real teleported man | 8.00% | ~58,568 |
+| The real real teleported man | 8.00% | ~58,569 |
 | Well deserved | 6.00% | ~43,926 |
 | Super Sword | 4.00% | ~29,284 |
 | Happiness | 3.00% | ~21,963 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~732 |
 | DLC: Top of the world | 0.10% | ~732 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,106 (Ranked 19)  
+Progressed: 732,107 (Ranked 19)  
 Completed: 759 (0.10%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 759 (0.10%) (Ranked 268)
 | 2023-11-06 | 731,921 | 757 |
 | 2023-11-07 | 732,010 | 758 |
 | 2023-11-08 | 732,098 | 759 |
-| 2023-11-09 | 732,106 | 759 |
+| 2023-11-09 | 732,107 | 759 |
 ## Awards
 Max (Challenging Puzzles): 7,720  (Ranked 49)  
 Sum: 10,069 (Ranked 91)  

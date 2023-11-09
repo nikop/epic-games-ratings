@@ -3943,10 +3943,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4731,
       "NumberOfAwardsMax": 2109
+    },
+    {
+      "Time": "2023-11-09T04:03:32.9607741+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4732,
+      "NumberOfAwardsMax": 2109
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4731,
+  "NumberOfAwards": 4732,
   "NumberOfAwardsMax": 2109,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3978,7 +3984,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 299
+      "Count": 300
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4017,9 +4023,9 @@
       "Count": 285
     }
   ],
-  "EOS_Progressed": 218972,
+  "EOS_Progressed": 218980,
   "EOS_Completed": 435,
-  "EOS_NewPlayers": 2211,
+  "EOS_NewPlayers": 2208,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17172,6 +17178,11 @@
       "Time": "2023-11-09T03:06:03.3695035+00:00",
       "NumProgressed": 218972,
       "NumCompleted": 435
+    },
+    {
+      "Time": "2023-11-09T04:07:55.2548251+00:00",
+      "NumProgressed": 218980,
+      "NumCompleted": 435
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17184,7 +17195,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15328
+      "UsersEstimate": 15329
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -17192,7 +17203,7 @@
       "Name": "Crafty",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -17216,7 +17227,7 @@
       "Name": "Only Human",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -17232,7 +17243,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13138
+      "UsersEstimate": 13139
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -17304,7 +17315,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15328
+      "UsersEstimate": 15329
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -17312,7 +17323,7 @@
       "Name": "Red Room",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -17336,7 +17347,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13138
+      "UsersEstimate": 13139
     },
     {
       "ID": "Meet_Meidra",
@@ -17368,7 +17379,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19707
+      "UsersEstimate": 19708
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -17376,7 +17387,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13138
+      "UsersEstimate": 13139
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -17416,7 +17427,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13138
+      "UsersEstimate": 13139
     },
     {
       "ID": "Obtain_Guns_A",
@@ -17464,7 +17475,7 @@
       "Name": "The Collector",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -17480,7 +17491,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "Obtain_Traits_A",
@@ -17488,7 +17499,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15328
+      "UsersEstimate": 15329
     },
     {
       "ID": "Obtain_Traits_B",
@@ -17512,7 +17523,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -17560,7 +17571,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13138
+      "UsersEstimate": 13139
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -17568,7 +17579,7 @@
       "Name": "Maxed Out!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -17576,23 +17587,23 @@
       "Name": "Transmutate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4379
+      "UsersEstimate": 4380
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 218972,
+      "Progressed": 218980,
       "Completed": 435
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-09T03:02:56.7650127+00:00",
-  "LastChanged_Achievements": "2023-11-09T03:06:03.3695031+00:00",
+  "LastChanged": "2023-11-09T04:03:32.9607739+00:00",
+  "LastChanged_Achievements": "2023-11-09T04:07:55.2548248+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-09T03:02:56.7650131+00:00",
-  "LastUpdate_Achievements": "2023-11-09T03:06:03.3695822+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:03:32.9607744+00:00",
+  "LastUpdate_Achievements": "2023-11-09T04:07:55.254909+00:00"
 }

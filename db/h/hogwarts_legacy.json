@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10239,9 +10239,9 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 301725,
+  "EOS_Progressed": 301727,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1565,
+  "EOS_NewPlayers": 1561,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32004,6 +32004,11 @@
       "Time": "2023-11-09T03:08:59.6104111+00:00",
       "NumProgressed": 301725,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-09T04:09:53.8530104+00:00",
+      "NumProgressed": 301727,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -32047,7 +32052,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30172
+      "UsersEstimate": 30173
     },
     {
       "ID": "PFA_14",
@@ -32111,7 +32116,7 @@
       "Name": "The Good Samaritan",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "PFA_21",
@@ -32119,7 +32124,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30172
+      "UsersEstimate": 30173
     },
     {
       "ID": "PFA_22",
@@ -32135,7 +32140,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39224
+      "UsersEstimate": 39225
     },
     {
       "ID": "PFA_24",
@@ -32239,7 +32244,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30172
+      "UsersEstimate": 30173
     },
     {
       "ID": "PFA_36",
@@ -32247,7 +32252,7 @@
       "Name": "Rise to the Challenges",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "PFA_37",
@@ -32287,7 +32292,7 @@
       "Name": "Demiguise Dread",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "PFA_41",
@@ -32311,7 +32316,7 @@
       "Name": "Finishing Touches",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "PFA_44",
@@ -32327,7 +32332,7 @@
       "Name": "A Forte for Achievement",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 6034
+      "UsersEstimate": 6035
     },
     {
       "ID": "PFA_5",
@@ -32374,7 +32379,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301725,
+      "Progressed": 301727,
       "Completed": 505
     }
   ],
@@ -32382,8 +32387,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-09T01:42:33.0554123+00:00",
-  "LastChanged_Achievements": "2023-11-09T03:08:59.6104107+00:00",
+  "LastChanged_Achievements": "2023-11-09T04:09:53.8530096+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:57:59.8058924+00:00",
-  "LastUpdate_Achievements": "2023-11-09T03:08:59.6105498+00:00"
+  "LastUpdate_Ratings": "2023-11-09T03:58:20.1952229+00:00",
+  "LastUpdate_Achievements": "2023-11-09T04:09:53.8531517+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "lost-ruins-d6233b",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1049,6 +1049,11 @@
       "Time": "2023-11-05T22:10:18.0894784+00:00",
       "NumProgressed": 490,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T04:10:12.1648476+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1100,7 +1105,7 @@
       "Name": "Bug Hunter",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Cryomancer",
@@ -1124,7 +1129,7 @@
       "Name": "Ghost Buster",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Gladiator",
@@ -1170,17 +1175,17 @@
       "ID": "Iconoclasm",
       "SetID": "82505mn",
       "Name": "Iconoclasm",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "Inquisitor",
       "SetID": "82505mn",
       "Name": "Inquisitor",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 182
     },
     {
       "ID": "Librarian",
@@ -1252,15 +1257,15 @@
       "Name": "Pyromancer",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Reincarnation",
       "SetID": "82505mn",
       "Name": "Reincarnation",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 78
+      "UsersEstimate": 74
     },
     {
       "ID": "Roughneck",
@@ -1379,7 +1384,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 1
     }
   ],
@@ -1387,8 +1392,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-11-09T03:09:13.275694+00:00",
+  "LastChanged_Achievements": "2023-11-09T04:10:12.1648474+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:29.5957213+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:59:37.9496108+00:00",
-  "LastUpdate_Achievements": "2023-11-09T03:09:13.2757314+00:00"
+  "LastUpdate_Ratings": "2023-11-09T04:00:41.6379574+00:00",
+  "LastUpdate_Achievements": "2023-11-09T04:10:12.1648779+00:00"
 }

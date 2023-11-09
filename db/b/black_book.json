@@ -6,9 +6,9 @@
   "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 108,
-  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 50,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -627,7 +627,7 @@
       "Count": 85
     }
   ],
-  "EOS_Progressed": 51359,
+  "EOS_Progressed": 51362,
   "EOS_Completed": 46,
   "EOS_NewPlayers": 2095,
   "EOS_NewCompleters": 3,
@@ -8947,6 +8947,11 @@
       "Time": "2023-11-09T03:05:58.7373801+00:00",
       "NumProgressed": 51359,
       "NumCompleted": 46
+    },
+    {
+      "Time": "2023-11-09T04:07:48.5713315+00:00",
+      "NumProgressed": 51362,
+      "NumCompleted": 46
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -8983,7 +8988,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7190
+      "UsersEstimate": 7191
     },
     {
       "ID": "BAD_END",
@@ -9063,7 +9068,7 @@
       "Name": "Old Friend",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "ENCYCLOPEDIA_1",
@@ -9071,7 +9076,7 @@
       "Name": "Student",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 10785
+      "UsersEstimate": 10786
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -9079,7 +9084,7 @@
       "Name": "Scientist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 5649
+      "UsersEstimate": 5650
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -9135,7 +9140,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7190
+      "UsersEstimate": 7191
     },
     {
       "ID": "HERBS_2",
@@ -9143,7 +9148,7 @@
       "Name": "Herbalist",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "HERBS_3",
@@ -9159,7 +9164,7 @@
       "Name": "Initiation",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 13867
+      "UsersEstimate": 13868
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -9199,7 +9204,7 @@
       "Name": "New Spirits",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "NIKOLAY_LOYAL",
@@ -9207,7 +9212,7 @@
       "Name": "Soldier",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 5649
+      "UsersEstimate": 5650
     },
     {
       "ID": "NORMAL_END",
@@ -9247,7 +9252,7 @@
       "Name": "Voipel",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "SAVVY",
@@ -9279,7 +9284,7 @@
       "Name": "Listener",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 7190
+      "UsersEstimate": 7191
     },
     {
       "ID": "TALES_2",
@@ -9343,7 +9348,7 @@
       "Name": "Black Mage",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 4622
+      "UsersEstimate": 4623
     },
     {
       "ID": "ZNATKOST_3",
@@ -9358,15 +9363,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 51359,
+      "Progressed": 51362,
       "Completed": 46
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-04T19:59:55.55078+00:00",
-  "LastChanged_Achievements": "2023-11-09T03:05:58.7373797+00:00",
+  "LastChanged_Achievements": "2023-11-09T04:07:48.5713313+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:33.0427887+00:00",
-  "LastUpdate_Ratings": "2023-11-09T02:57:48.8364407+00:00",
-  "LastUpdate_Achievements": "2023-11-09T03:05:58.7374369+00:00"
+  "LastUpdate_Ratings": "2023-11-09T03:58:07.667203+00:00",
+  "LastUpdate_Achievements": "2023-11-09T04:07:48.5713877+00:00"
 }

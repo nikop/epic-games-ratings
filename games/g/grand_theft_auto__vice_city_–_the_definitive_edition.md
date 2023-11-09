@@ -10,9 +10,9 @@ Rating: 4.53 (Ranked 536)
 | South American Connection | 26.00% | ~2,847 |
 | Life of the Party | 21.00% | ~2,300 |
 | Tommy Two-Wheels | 16.00% | ~1,752 |
-| Big Heat from Little Havana | 15.00% | ~1,642 |
-| Chauffeur | 15.00% | ~1,642 |
-| Salutations My Little Friend | 11.00% | ~1,204 |
+| Big Heat from Little Havana | 15.00% | ~1,643 |
+| Chauffeur | 15.00% | ~1,643 |
+| Salutations My Little Friend | 11.00% | ~1,205 |
 | Iron-y | 10.00% | ~1,095 |
 | Gun for Hire | 9.00% | ~986 |
 | Mischief Managed | 9.00% | ~986 |
@@ -23,13 +23,13 @@ Rating: 4.53 (Ranked 536)
 | Grand Theft Auto | 5.00% | ~548 |
 | High Quality H2O | 4.00% | ~438 |
 | Pie Guy | 4.00% | ~438 |
-| Running Rampant | 3.00% | ~328 |
-| Point A to Point B | 3.00% | ~328 |
-| Bull in a China Shop | 3.00% | ~328 |
-| Somebody Call the Wambulance? | 3.00% | ~328 |
-| Just Like the Real Thing | 3.00% | ~328 |
-| Don't Need Roads | 3.00% | ~328 |
-| City Sleuth | 3.00% | ~328 |
+| Running Rampant | 3.00% | ~329 |
+| Point A to Point B | 3.00% | ~329 |
+| Bull in a China Shop | 3.00% | ~329 |
+| Somebody Call the Wambulance? | 3.00% | ~329 |
+| Just Like the Real Thing | 3.00% | ~329 |
+| Don't Need Roads | 3.00% | ~329 |
+| City Sleuth | 3.00% | ~329 |
 | One is Better Than Two | 2.00% | ~219 |
 | Take the Cannoli | 2.00% | ~219 |
 | Chopper’d Up | 2.00% | ~219 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 536)
 | Done it All | 1.00% | ~110 |
 | Kingpin | 0.60% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,950 (Ranked 154)  
+Progressed: 10,951 (Ranked 154)  
 Completed: 64 (0.58%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 64 (0.58%) (Ranked 181)
 | 2023-11-06 | 10,908 | 64 |
 | 2023-11-07 | 10,933 | 64 |
 | 2023-11-08 | 10,950 | 64 |
+| 2023-11-09 | 10,951 | 64 |
 ## Awards
 Max (Great Boss Battles): 102  (Ranked 356)  
 Sum: 102 (Ranked 440)  

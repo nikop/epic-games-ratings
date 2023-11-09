@@ -16,6 +16,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Glorious | 3.00% | ~457 |
 | Good | 3.00% | ~457 |
 | Just | 3.00% | ~457 |
+| Keystone | 3.00% | ~457 |
 | Learned | 3.00% | ~457 |
 | Mason | 3.00% | ~457 |
 | Noble | 3.00% | ~457 |
@@ -35,7 +36,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Enlightened | 2.00% | ~304 |
 | Fountainhead | 2.00% | ~304 |
 | Great | 2.00% | ~304 |
-| Keystone | 2.00% | ~304 |
 | Magnificent | 2.00% | ~304 |
 | Mighty | 2.00% | ~304 |
 | Valiant | 2.00% | ~304 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,222 (Ranked 145)  
+Progressed: 15,223 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -552,7 +552,7 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-06 | 15,191 | 5 |
 | 2023-11-07 | 15,201 | 5 |
 | 2023-11-08 | 15,218 | 5 |
-| 2023-11-09 | 15,222 | 5 |
+| 2023-11-09 | 15,223 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 272)  
 Sum: 1,869 (Ranked 212)  
