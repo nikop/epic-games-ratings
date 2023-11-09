@@ -10,7 +10,7 @@ Rating: 4.57 (Ranked 469)
 | Philanthropist | 81.00% | ~26 |
 | Adventurer | 78.00% | ~25 |
 | The brave little tailor | 59.00% | ~19 |
-| Archer | 56.00% | ~18 |
+| Archer | 59.00% | ~19 |
 | Field hand | 53.00% | ~17 |
 | Samaritan | 53.00% | ~17 |
 | Well-to-do | 50.00% | ~16 |
@@ -18,8 +18,8 @@ Rating: 4.57 (Ranked 469)
 | Ladies' man | 44.00% | ~14 |
 | Ferocious wild boars | 34.00% | ~11 |
 | Idiot | 34.00% | ~11 |
+| Wise man | 28.00% | ~9 |
 | The fourth triplet | 28.00% | ~9 |
-| Wise man | 25.00% | ~8 |
 | Family man | 25.00% | ~8 |
 | Beast slayer | 25.00% | ~8 |
 | Ogre friend | 25.00% | ~8 |

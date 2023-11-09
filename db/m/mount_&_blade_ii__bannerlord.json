@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8518,10 +8518,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 15175,
       "NumberOfAwardsMax": 7345
+    },
+    {
+      "Time": "2023-11-09T13:07:06.5012538+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 15177,
+      "NumberOfAwardsMax": 7345
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15175,
+  "NumberOfAwards": 15177,
   "NumberOfAwardsMax": 7345,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8535,7 +8541,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 919
+      "Count": 921
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8598,9 +8604,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64750,
+  "EOS_Progressed": 64752,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29963,6 +29969,11 @@
       "Time": "2023-11-09T12:09:04.9409391+00:00",
       "NumProgressed": 64750,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T13:13:27.1256776+00:00",
+      "NumProgressed": 64752,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -29990,7 +30001,7 @@
       "Name": "Bannerlord",
       "Percentage": 23,
       "XP": 65,
-      "UsersEstimate": 14892
+      "UsersEstimate": 14893
     },
     {
       "ID": "Best served cold",
@@ -30022,7 +30033,7 @@
       "Name": "Catch",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Champion",
@@ -30094,7 +30105,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "God of the Arena",
@@ -30132,9 +30143,9 @@
       "ID": "Horde breaker",
       "SetID": "den0lp1",
       "Name": "Horde breaker",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 14892
+      "UsersEstimate": 15540
     },
     {
       "ID": "I can do it",
@@ -30182,7 +30193,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 4532
+      "UsersEstimate": 4533
     },
     {
       "ID": "Lance-a-lot",
@@ -30206,7 +30217,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25900
+      "UsersEstimate": 25901
     },
     {
       "ID": "Lawmaker",
@@ -30214,7 +30225,7 @@
       "Name": "Lawmaker",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14892
+      "UsersEstimate": 14893
     },
     {
       "ID": "Long live the Empire",
@@ -30222,7 +30233,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "Mastery",
@@ -30230,7 +30241,7 @@
       "Name": "Mastery",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 4532
+      "UsersEstimate": 4533
     },
     {
       "ID": "Minor Clan",
@@ -30262,7 +30273,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1942
+      "UsersEstimate": 1943
     },
     {
       "ID": "Ride it like you stole it",
@@ -30326,7 +30337,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12302
+      "UsersEstimate": 12303
     },
     {
       "ID": "This Is Our Land",
@@ -30350,7 +30361,7 @@
       "Name": "Trained",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 14892
+      "UsersEstimate": 14893
     },
     {
       "ID": "Undercover",
@@ -30381,15 +30392,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64750,
+      "Progressed": 64752,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2023-11-09T10:02:44.1430369+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:09:04.9409382+00:00",
+  "LastChanged": "2023-11-09T13:07:06.5012535+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:13:27.1256771+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:31.2641432+00:00",
-  "LastUpdate_Ratings": "2023-11-09T12:02:45.8730773+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:09:04.9410792+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:07:06.5012542+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:13:27.1259254+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18166,
+  "EOS_Progressed": 18173,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2094,
+  "EOS_NewPlayers": 2088,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5964,6 +5964,11 @@
       "Time": "2023-11-09T12:09:24.1354195+00:00",
       "NumProgressed": 18166,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T13:13:46.6828745+00:00",
+      "NumProgressed": 18173,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -5976,7 +5981,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 2725
+      "UsersEstimate": 2726
     },
     {
       "ID": "achievement_10",
@@ -6000,7 +6005,7 @@
       "Name": "Victory for the New Republic",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_13",
@@ -6008,7 +6013,7 @@
       "Name": "Victory for the Empire",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_14",
@@ -6024,7 +6029,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 3633
+      "UsersEstimate": 3635
     },
     {
       "ID": "achievement_16",
@@ -6048,7 +6053,7 @@
       "Name": "Stay on Target",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_19",
@@ -6088,7 +6093,7 @@
       "Name": "Fearless",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "achievement_23",
@@ -6128,7 +6133,7 @@
       "Name": "Unkillable",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "achievement_28",
@@ -6160,7 +6165,7 @@
       "Name": "Across the Stars",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_31",
@@ -6184,7 +6189,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3453
     },
     {
       "ID": "achievement_34",
@@ -6200,7 +6205,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 17258
+      "UsersEstimate": 17264
     },
     {
       "ID": "achievement_36",
@@ -6232,7 +6237,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4362
     },
     {
       "ID": "achievement_4",
@@ -6248,7 +6253,7 @@
       "Name": "Flames Over Mon Cala",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "achievement_41",
@@ -6264,7 +6269,7 @@
       "Name": "Against the Current",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "achievement_43",
@@ -6304,7 +6309,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "achievement_5",
@@ -6320,7 +6325,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "achievement_7",
@@ -6336,7 +6341,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4362
     },
     {
       "ID": "achievement_9",
@@ -6344,14 +6349,14 @@
       "Name": "A Promising Career",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 18166,
+      "Progressed": 18173,
       "Completed": 1
     }
   ],
@@ -6359,8 +6364,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:09:24.1354189+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:13:46.6828737+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:57.9109843+00:00",
-  "LastUpdate_Ratings": "2023-11-09T12:02:58.060227+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:09:24.1354824+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:07:21.2955657+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:13:46.6830186+00:00"
 }

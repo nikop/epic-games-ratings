@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -555,7 +555,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3333,
+  "EOS_Progressed": 3334,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
@@ -4595,6 +4595,11 @@
       "Time": "2023-11-09T09:05:58.231297+00:00",
       "NumProgressed": 3333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T13:09:30.5880073+00:00",
+      "NumProgressed": 3334,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4639,7 +4644,7 @@
       "Name": "MVP",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "achievement_14",
@@ -4669,9 +4674,9 @@
       "ID": "achievement_17",
       "SetID": "aiin7da",
       "Name": "Ol\u0027 Reliable",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_18",
@@ -4743,7 +4748,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "achievement_7",
@@ -4759,7 +4764,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "achievement_9",
@@ -4774,7 +4779,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3333,
+      "Progressed": 3334,
       "Completed": 0
     }
   ],
@@ -4782,8 +4787,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-09T03:00:08.4063866+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:05:01.0186696+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:09:30.5880069+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-09T12:00:03.7501049+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:05:01.0186997+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:04:48.2778433+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:09:30.5880487+00:00"
 }

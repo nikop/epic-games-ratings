@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,7 +577,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3840,
+  "EOS_Progressed": 3841,
   "EOS_Completed": 11,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -7772,6 +7772,11 @@
       "Time": "2023-11-09T08:06:14.1856767+00:00",
       "NumProgressed": 3840,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-09T13:12:17.327875+00:00",
+      "NumProgressed": 3841,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7783,7 +7788,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7861,9 +7866,9 @@
       "ID": "REWARD_1_MEETING_RESISTANCE",
       "SetID": "bm6el81",
       "Name": "Meeting Resistance",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1767
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -7951,7 +7956,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8039,7 +8044,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 614
+      "UsersEstimate": 615
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8119,7 +8124,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1190
+      "UsersEstimate": 1191
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8255,7 +8260,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -8350,13 +8355,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3791,
+      "Progressed": 3792,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3840,
+      "Progressed": 3841,
       "Completed": 11
     }
   ],
@@ -8364,8 +8369,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:06:16.8222268+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:12:17.3278746+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:58:41.7136856+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:06:16.8223203+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:03:17.3364065+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:12:17.3279968+00:00"
 }

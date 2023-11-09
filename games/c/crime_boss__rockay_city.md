@@ -15,14 +15,14 @@ Rating: 3.95 (Ranked 1,004)
 | Off the Rocks | 1.00% | ~899 |
 | Raider’s Ruin | 1.00% | ~899 |
 | Dragonslayer | 1.00% | ~899 |
+| Case Closed | 0.90% | ~809 |
 | King of the Hill | 0.90% | ~809 |
 | Rockay Rex | 0.90% | ~809 |
-| Case Closed | 0.80% | ~719 |
 | Hidden Sonata | 0.70% | ~629 |
 | True Player | 0.70% | ~629 |
 | Track Star | 0.60% | ~539 |
 | Headhunter | 0.60% | ~539 |
-| I Like Trains | 0.50% | ~449 |
+| I Like Trains | 0.50% | ~450 |
 | Legend Looter | 0.40% | ~360 |
 | Imports and Exports | 0.40% | ~360 |
 | Foo Finder | 0.40% | ~360 |
@@ -38,8 +38,8 @@ Rating: 3.95 (Ranked 1,004)
 | Cracked the Jack | 0.20% | ~180 |
 | Red Star | 0.20% | ~180 |
 | Classy Joint | 0.20% | ~180 |
-| All for One | 0.20% | ~36 |
-| One for All | 0.20% | ~36 |
+| All for One | 0.20% | ~37 |
+| One for All | 0.20% | ~37 |
 | Privateer | 0.10% | ~90 |
 | Talent Scout | 0.10% | ~90 |
 | Full House | 0.10% | ~90 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,899 (Ranked 91)  
+Progressed: 89,912 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 55 (0.06%) (Ranked 290)
 | 2023-11-06 | 89,596 | 55 |
 | 2023-11-07 | 89,646 | 55 |
 | 2023-11-08 | 89,818 | 55 |
-| 2023-11-09 | 89,899 | 55 |
+| 2023-11-09 | 89,912 | 55 |
 ## Awards
 Max (Diverse Characters): 523  (Ranked 204)  
 Sum: 2,971 (Ranked 175)  

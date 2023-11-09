@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 24,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -321,9 +321,9 @@
       "ID": "BADGE_BRILLIANT_DAY",
       "SetID": "ak6pfjk",
       "Name": "Brilliant Day",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "BADGE_BRILLIANT_DAY_CHAPTER_1",
@@ -473,9 +473,9 @@
       "ID": "BADGE_CHAMPIONS_KILL",
       "SetID": "ak6pfjk",
       "Name": "On the Crest of a Wave",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "BADGE_CHAMPIONS_KILL_2",
@@ -521,9 +521,9 @@
       "ID": "BADGE_ENEMIES_WITH_GEM_KILL",
       "SetID": "ak6pfjk",
       "Name": "Don\u0027t Touch My Gems!",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "BADGE_FLYING_ENEMY_KILL",
@@ -657,9 +657,9 @@
       "ID": "BADGE_TOWER_UPGRADE",
       "SetID": "ak6pfjk",
       "Name": "Foreman of Darkness",
-      "Percentage": 95,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 167
+      "UsersEstimate": 169
     },
     {
       "ID": "BADGE_TOWER_UPGRADE_2",
@@ -682,8 +682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:04:29.2648762+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:08:56.9372952+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.7745702+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:59:23.7271701+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:04:29.2649127+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:04:04.2675571+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:08:56.9373761+00:00"
 }

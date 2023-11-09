@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 183,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.73,
   "EosHistory": [
@@ -892,9 +892,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -947,8 +947,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:03:08.1800083+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:07:33.1230741+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
-  "LastUpdate_Ratings": "2023-11-09T12:00:15.3530154+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:03:08.1800362+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:04:57.5047877+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:07:33.1231066+00:00"
 }

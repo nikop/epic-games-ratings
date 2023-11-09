@@ -4,8 +4,8 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 491,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 320,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -288,9 +288,9 @@
       "ID": "KarmaEyes",
       "SetID": "7m88n8p",
       "Name": "Karma in My Eyes",
-      "Percentage": 23,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Letters",
@@ -407,8 +407,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:08:59.9876583+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:13:22.3699263+00:00",
   "LastUpdate_AppInfo": "2023-11-06T08:57:34.2276809+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:58:47.4215792+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:08:59.9876732+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:03:21.9077474+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:13:22.3699461+00:00"
 }

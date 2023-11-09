@@ -2,10 +2,10 @@
   "ID": "8b24875aea504fdc8032dff4fcdf31d4",
   "Name": "Timothy vs the Aliens",
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
-  "Ranking_EOS_Progress": 519,
+  "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
     "PcReleaseDate": "2021-07-21T22:00:00+00:00",
@@ -279,9 +279,9 @@
       "ID": "ACH_GETTOTIMOTHYS",
       "SetID": "73kff7",
       "Name": "A drink, solitude and my memories",
-      "Percentage": 83,
+      "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_KILLSTOCKII",
@@ -303,9 +303,9 @@
       "ID": "ACH_LEAVETIMOTHYS",
       "SetID": "73kff7",
       "Name": "I should have paid attention",
-      "Percentage": 63,
+      "Percentage": 67,
       "XP": 40,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_POLICESTATION",
@@ -349,8 +349,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:03:49.5546601+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:08:15.4587064+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:39.7958389+00:00",
-  "LastUpdate_Ratings": "2023-11-09T12:00:32.0932375+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:03:49.5546829+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:05:15.6833424+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:08:15.4587244+00:00"
 }

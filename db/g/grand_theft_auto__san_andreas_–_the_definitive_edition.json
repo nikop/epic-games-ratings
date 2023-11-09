@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1447,10 +1447,10 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13625,
+  "EOS_Progressed": 13626,
   "EOS_Completed": 52,
   "EOS_NewPlayers": 258,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
     {
@@ -14267,6 +14267,11 @@
       "Time": "2023-11-09T06:08:25.5149824+00:00",
       "NumProgressed": 13625,
       "NumCompleted": 52
+    },
+    {
+      "Time": "2023-11-09T13:13:04.035829+00:00",
+      "NumProgressed": 13626,
+      "NumCompleted": 52
     }
   ],
   "TotalAchievements": 35,
@@ -14278,7 +14283,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11036
+      "UsersEstimate": 11037
     },
     {
       "ID": "ACH02",
@@ -14310,7 +14315,7 @@
       "Name": "A Legitimate Business",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH06",
@@ -14318,7 +14323,7 @@
       "Name": "I\u2019ll Have Two Number 9s",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH07",
@@ -14350,7 +14355,7 @@
       "Name": "Who Needs Directions?",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH11",
@@ -14358,7 +14363,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1362
+      "UsersEstimate": 1363
     },
     {
       "ID": "ACH12",
@@ -14366,7 +14371,7 @@
       "Name": "Swiss Army Strife",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH13",
@@ -14454,7 +14459,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3542
+      "UsersEstimate": 3543
     },
     {
       "ID": "ACH24",
@@ -14478,7 +14483,7 @@
       "Name": "Double or Nothin\u0027",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH27",
@@ -14486,7 +14491,7 @@
       "Name": "Assassin",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH28",
@@ -14526,7 +14531,7 @@
       "Name": "Ain\u2019t Nothing But a G Thing",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH33",
@@ -14550,14 +14555,14 @@
       "Name": "I Ain\u0027t No Buster",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     }
   ],
   "AchievementSets": [
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13625,
+      "Progressed": 13626,
       "Completed": 52
     }
   ],
@@ -14565,8 +14570,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-08T16:59:45.9318547+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:08:42.8705021+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:13:04.0358283+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:17.5596135+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:59:15.5468929+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:08:42.8705876+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:03:55.5863362+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:13:04.035981+00:00"
 }

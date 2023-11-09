@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -271,9 +271,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 232047,
+  "EOS_Progressed": 232048,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20986,6 +20986,11 @@
       "Time": "2023-11-09T12:04:33.6598378+00:00",
       "NumProgressed": 232047,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T13:09:01.6955963+00:00",
+      "NumProgressed": 232048,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -21157,7 +21162,7 @@
       "Name": "Be Gentle...",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 51050
+      "UsersEstimate": 51051
     },
     {
       "ID": "PLAY_25_ONLINE_MATCHES",
@@ -21220,7 +21225,7 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232047,
+      "Progressed": 232048,
       "Completed": 5
     }
   ],
@@ -21228,8 +21233,8 @@
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
   "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:04:33.6598373+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:09:01.6955958+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.5446579+00:00",
-  "LastUpdate_Ratings": "2023-11-09T12:00:31.4761394+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:04:33.6599843+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:05:14.879439+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:09:01.6957513+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 249,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130614,
+  "EOS_Progressed": 130617,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 248,
+  "EOS_NewPlayers": 249,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21407,6 +21407,11 @@
       "Time": "2023-11-09T11:03:40.2522434+00:00",
       "NumProgressed": 130614,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-09T13:07:41.0323186+00:00",
+      "NumProgressed": 130617,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21442,7 +21447,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3918
+      "UsersEstimate": 3919
     },
     {
       "ID": "ACH_COP_ART",
@@ -21466,7 +21471,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11755
+      "UsersEstimate": 11756
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -21474,7 +21479,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31347
+      "UsersEstimate": 31348
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -21482,7 +21487,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11755
+      "UsersEstimate": 11756
     },
     {
       "ID": "ACH_COP_DORK",
@@ -21498,7 +21503,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36572
+      "UsersEstimate": 36573
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21522,7 +21527,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20898
+      "UsersEstimate": 20899
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -21530,7 +21535,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27429
+      "UsersEstimate": 27430
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -21554,7 +21559,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20898
+      "UsersEstimate": 20899
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -21578,7 +21583,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13061
+      "UsersEstimate": 13062
     },
     {
       "ID": "ACH_GLUTEN",
@@ -21642,7 +21647,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3918
+      "UsersEstimate": 3919
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -21737,15 +21742,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130614,
+      "Progressed": 130617,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:03:16.1607095+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:07:41.0323179+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-09T12:00:14.5516259+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:03:16.1608057+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:04:56.8629873+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:07:41.0326103+00:00"
 }

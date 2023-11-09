@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 497,
+  "EOS_Progressed": 498,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.63,
+  "EOS_Completed_Percentage": 5.62,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2125,6 +2125,11 @@
       "Time": "2023-11-09T12:04:30.4752395+00:00",
       "NumProgressed": 497,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-09T13:08:58.2524143+00:00",
+      "NumProgressed": 498,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2136,7 +2141,7 @@
       "Name": "I did it",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "END_GOOD",
@@ -2166,9 +2171,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "META_HALF_LINK",
@@ -2176,7 +2181,7 @@
       "Name": "Half the way",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2248,7 +2253,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2286,9 +2291,9 @@
       "ID": "PROGRESS_HALF_RUNES",
       "SetID": "2gma9an",
       "Name": "Scholar",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 100
     },
     {
       "ID": "PROGRESS_N1",
@@ -2312,15 +2317,15 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 60,
-      "UsersEstimate": 99
+      "UsersEstimate": 95
     },
     {
       "ID": "PROGRESS_N5",
@@ -2328,21 +2333,21 @@
       "Name": "One last step",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 497,
+      "Progressed": 498,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:04:30.475239+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:08:58.2524138+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:58:25.6274921+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:04:30.4752597+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:03:00.533778+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:08:58.2524602+00:00"
 }

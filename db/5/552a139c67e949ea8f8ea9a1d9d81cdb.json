@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 964,
+  "EOS_Progressed": 966,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -1827,6 +1827,11 @@
       "Time": "2023-11-09T11:07:10.2438032+00:00",
       "NumProgressed": 964,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T13:10:23.0651126+00:00",
+      "NumProgressed": 966,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1839,15 +1844,15 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 800
+      "UsersEstimate": 802
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
       "SetID": "5k00jcd",
       "Name": "Acrobat",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 377
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1855,7 +1860,7 @@
       "Name": "Out of control",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1871,7 +1876,7 @@
       "Name": "Like lightning!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -1903,7 +1908,7 @@
       "Name": "Masterful!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -1967,7 +1972,7 @@
       "Name": "Solo",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2007,7 +2012,7 @@
       "Name": "The Octopus",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2079,7 +2084,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2087,7 +2092,7 @@
       "Name": "Spendthrift",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -2095,7 +2100,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2103,7 +2108,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2151,7 +2156,7 @@
       "Name": "A little nest egg",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -2175,27 +2180,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 964,
+      "Progressed": 966,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 632,
-      "Completed": 632
+      "Progressed": 634,
+      "Completed": 634
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:05:52.3103924+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:10:23.0651122+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:57:45.5941694+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:05:52.3104224+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:02:18.6028415+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:10:23.06516+00:00"
 }

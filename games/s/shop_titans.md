@@ -12,19 +12,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 3.00% | ~4,165 |
 | Tinkle of Coins | 3.00% | ~4,165 |
 | Capitalism Ho! | 3.00% | ~4,165 |
-| The Daily Grind | 2.00% | ~2,776 |
-| One Easy Payment | 2.00% | ~2,776 |
-| Some Assembly Required | 2.00% | ~2,776 |
-| Bounty Hunters | 2.00% | ~2,776 |
-| Flooding the Market | 2.00% | ~2,776 |
-| Another Satisfied Customer | 2.00% | ~2,776 |
-| It's Free Real Estate | 2.00% | ~2,776 |
-| Pretty Penny | 2.00% | ~2,776 |
-| One-Armed Bandit | 2.00% | ~2,776 |
-| Budding Merchant | 2.00% | ~2,776 |
-| Dungeon Imports | 2.00% | ~2,776 |
-| Through Repetition, Perfection | 2.00% | ~2,776 |
-| Own the Means of Production | 2.00% | ~2,776 |
+| The Daily Grind | 2.00% | ~2,777 |
+| One Easy Payment | 2.00% | ~2,777 |
+| Some Assembly Required | 2.00% | ~2,777 |
+| Bounty Hunters | 2.00% | ~2,777 |
+| Flooding the Market | 2.00% | ~2,777 |
+| Another Satisfied Customer | 2.00% | ~2,777 |
+| It's Free Real Estate | 2.00% | ~2,777 |
+| Pretty Penny | 2.00% | ~2,777 |
+| One-Armed Bandit | 2.00% | ~2,777 |
+| Budding Merchant | 2.00% | ~2,777 |
+| Dungeon Imports | 2.00% | ~2,777 |
+| Through Repetition, Perfection | 2.00% | ~2,777 |
+| Own the Means of Production | 2.00% | ~2,777 |
 | On the Path to Greatness | 1.00% | ~1,388 |
 | Ascended | 1.00% | ~1,388 |
 | Research & Development | 1.00% | ~1,388 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,824 (Ranked 79)  
+Progressed: 138,829 (Ranked 79)  
 Completed: 179 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 179 (0.13%) (Ranked 257)
 | 2023-11-06 | 138,721 | 178 |
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
-| 2023-11-09 | 138,824 | 179 |
+| 2023-11-09 | 138,829 | 179 |
 ## Awards
 Max (Great for Beginners): 4,822  (Ranked 74)  
-Sum: 27,514 (Ranked 52)  
+Sum: 27,515 (Ranked 52)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): 22
 | This game has Quickly Understood Controls | 4,028 |
 | This game has Diverse Characters | 3,934 |
 | This game is Highly Recommended | 3,773 |
-| This game has Easy Combat | 3,721 |
+| This game has Easy Combat | 3,722 |
 | This game has Playful Visuals | 3,197 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -623,4 +623,4 @@ Diff (max vs sum): 22
 | 2023-11-06 | 3.99 | - | 4,819 | 27,505 |
 | 2023-11-07 | 3.99 | - | 4,819 | 27,508 |
 | 2023-11-08 | 3.99 | - | 4,819 | 27,509 |
-| 2023-11-09 | 3.99 | - | 4,822 | 27,514 |
+| 2023-11-09 | 3.99 | - | 4,822 | 27,515 |

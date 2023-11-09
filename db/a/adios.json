@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 151,
-  "Ranking_EOS_NewPlayers": 103,
+  "Ranking_EOS_NewPlayers": 104,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77915,
+  "EOS_Progressed": 77916,
   "EOS_Completed": 832,
-  "EOS_NewPlayers": 599,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -22802,6 +22802,11 @@
       "Time": "2023-11-09T12:04:19.1771799+00:00",
       "NumProgressed": 77915,
       "NumCompleted": 832
+    },
+    {
+      "Time": "2023-11-09T13:08:46.4902486+00:00",
+      "NumProgressed": 77916,
+      "NumCompleted": 832
     }
   ],
   "TotalAchievements": 25,
@@ -22845,7 +22850,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17141
+      "UsersEstimate": 17142
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -22941,7 +22946,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12466
+      "UsersEstimate": 12467
     },
     {
       "ID": "Nothing Left to Say",
@@ -23012,7 +23017,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 77915,
+      "Progressed": 77916,
       "Completed": 832
     }
   ],
@@ -23020,8 +23025,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:04:19.1771793+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:08:46.490248+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-09T12:00:27.8204665+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:04:19.177317+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:05:10.9614149+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:08:46.4904664+00:00"
 }

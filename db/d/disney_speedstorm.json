@@ -919,10 +919,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 456,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-11-09T13:03:27.3774521+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 459,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 456,
+  "NumberOfAwards": 459,
   "NumberOfAwardsMax": 58,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -930,7 +936,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 54
+      "Count": 57
     },
     {
       "Text": "This game is Great for Beginners",
@@ -999,10 +1005,10 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 286978,
+  "EOS_Progressed": 287021,
   "EOS_Completed": 277,
-  "EOS_NewPlayers": 14906,
-  "EOS_NewCompleters": 27,
+  "EOS_NewPlayers": 14878,
+  "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -11234,6 +11240,11 @@
       "Time": "2023-11-09T12:04:34.4278857+00:00",
       "NumProgressed": 286978,
       "NumCompleted": 277
+    },
+    {
+      "Time": "2023-11-09T13:09:02.4793794+00:00",
+      "NumProgressed": 287021,
+      "NumCompleted": 277
     }
   ],
   "TotalAchievements": 24,
@@ -11253,7 +11264,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11479
+      "UsersEstimate": 11481
     },
     {
       "ID": "11",
@@ -11285,7 +11296,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 14349
+      "UsersEstimate": 14351
     },
     {
       "ID": "15",
@@ -11341,7 +11352,7 @@
       "Name": "PROTECTED",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8609
+      "UsersEstimate": 8611
     },
     {
       "ID": "21",
@@ -11373,7 +11384,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 8609
+      "UsersEstimate": 8611
     },
     {
       "ID": "3",
@@ -11397,7 +11408,7 @@
       "Name": "ROOKIE",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 25828
+      "UsersEstimate": 25832
     },
     {
       "ID": "6",
@@ -11405,7 +11416,7 @@
       "Name": "PRO",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8609
+      "UsersEstimate": 8611
     },
     {
       "ID": "7",
@@ -11436,16 +11447,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 286978,
+      "Progressed": 287021,
       "Completed": 277
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-09T00:03:26.6631251+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:04:34.4278851+00:00",
+  "LastChanged": "2023-11-09T13:03:27.377452+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:09:02.4793789+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:29.9120851+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:58:51.7746295+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:04:34.4279431+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:03:27.3774524+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:09:02.4794638+00:00"
 }

@@ -33,6 +33,7 @@ Rating: 4.54 (Ranked 523)
 | Zombologist | 0.30% | ~2,146 |
 | Ooh, Shiny! | 0.30% | ~2,146 |
 | A Patton Emerges | 0.30% | ~2,146 |
+| Humanity Distilled | 0.30% | ~2,146 |
 | I Am the Resurrection | 0.30% | ~2,146 |
 | Max Headroom | 0.30% | ~2,146 |
 | Our True Nature | 0.30% | ~2,146 |
@@ -40,7 +41,6 @@ Rating: 4.54 (Ranked 523)
 | Smorgasbord | 0.20% | ~1,431 |
 | Internet Famous | 0.20% | ~1,431 |
 | Jumbo Keyring | 0.20% | ~1,431 |
-| Humanity Distilled | 0.20% | ~1,431 |
 | Down with the Sickness | 0.20% | ~1,431 |
 | Go, Bobcats! | 0.20% | ~1,431 |
 | Variety is the Spice of Death | 0.20% | ~1,431 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,385 (Ranked 21)  
+Progressed: 715,407 (Ranked 21)  
 Completed: 2,363 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 2,363 (0.33%) (Ranked 219)
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
-| 2023-11-09 | 715,385 | 2,363 |
+| 2023-11-09 | 715,407 | 2,363 |
 ## Awards
 Max (Great Boss Battles): 7,208  (Ranked 54)  
 Sum: 10,945 (Ranked 87)  

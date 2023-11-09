@@ -272,12 +272,12 @@ Completed: 123 (0.16%) (Ranked 254)
 | 2023-11-08 | 76,175 | 123 |
 | 2023-11-09 | 76,196 | 123 |
 ## Awards
-Max (Great Boss Battles): 2,914  (Ranked 98)  
-Sum: 4,948 (Ranked 137)  
+Max (Great Boss Battles): 2,917  (Ranked 98)  
+Sum: 4,951 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,914 |
+| This game has Great Boss Battles | 2,917 |
 | This game has Diverse Characters | 261 |
 | This game is Relaxing | 258 |
 | This game is Extremely Fun | 258 |
@@ -547,4 +547,4 @@ Diff (max vs sum): -39
 | 2023-11-06 | 4.18 | 2,907 | 4,927 |
 | 2023-11-07 | 4.18 | 2,907 | 4,934 |
 | 2023-11-08 | 4.18 | 2,914 | 4,947 |
-| 2023-11-09 | 4.18 | 2,914 | 4,948 |
+| 2023-11-09 | 4.18 | 2,917 | 4,951 |

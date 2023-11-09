@@ -4,8 +4,8 @@
   "ProductSlug": "asterix-and-obelix-heroes",
   "Ranking_EOS_Progress": 623,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -53,9 +53,9 @@
       "ID": "1",
       "SetID": "5jnn47e",
       "Name": "First Steps of a long journey",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "10",
@@ -235,8 +235,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-05T17:02:30.1575422+00:00",
-  "LastChanged_Achievements": "2023-11-09T12:04:45.6188241+00:00",
+  "LastChanged_Achievements": "2023-11-09T13:09:14.5378087+00:00",
   "LastUpdate_AppInfo": "2023-11-02T18:57:07.0093705+00:00",
-  "LastUpdate_Ratings": "2023-11-09T11:58:25.5293832+00:00",
-  "LastUpdate_Achievements": "2023-11-09T12:04:45.6188378+00:00"
+  "LastUpdate_Ratings": "2023-11-09T13:03:00.4893113+00:00",
+  "LastUpdate_Achievements": "2023-11-09T13:09:14.5378287+00:00"
 }

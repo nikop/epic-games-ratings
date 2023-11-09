@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Touch My Gems! | 97.00% | ~171 |
-| On the Crest of a Wave | 95.00% | ~167 |
-| Foreman of Darkness | 95.00% | ~167 |
-| Brilliant Day | 93.00% | ~164 |
+| Don't Touch My Gems! | 98.00% | ~172 |
+| On the Crest of a Wave | 96.00% | ~169 |
+| Foreman of Darkness | 96.00% | ~169 |
+| Brilliant Day | 94.00% | ~165 |
 | Evil Genius | 88.00% | ~155 |
 | Air Defense | 85.00% | ~150 |
 | Tinned Corpse | 84.00% | ~148 |
