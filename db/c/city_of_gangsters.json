@@ -742,9 +742,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 351559,
+  "EOS_Progressed": 351560,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1078,
+  "EOS_NewPlayers": 1065,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23772,6 +23772,11 @@
       "Time": "2023-11-09T16:13:35.0839725+00:00",
       "NumProgressed": 351559,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-09T17:04:05.6329365+00:00",
+      "NumProgressed": 351560,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -24007,7 +24012,7 @@
       "Name": "Beating the Heat",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38671
+      "UsersEstimate": 38672
     },
     {
       "ID": "ach030",
@@ -24183,7 +24188,7 @@
       "Name": "Booze Baron",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 38671
+      "UsersEstimate": 38672
     },
     {
       "ID": "ach052",
@@ -24311,7 +24316,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56249
+      "UsersEstimate": 56250
     },
     {
       "ID": "ach069",
@@ -24422,7 +24427,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 351559,
+      "Progressed": 351560,
       "Completed": 7
     }
   ],
@@ -24430,8 +24435,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-08T14:58:01.1395201+00:00",
-  "LastChanged_Achievements": "2023-11-09T16:13:35.083972+00:00",
+  "LastChanged_Achievements": "2023-11-09T17:04:05.6329359+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.7953727+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:06:52.7577646+00:00",
-  "LastUpdate_Achievements": "2023-11-09T16:13:35.0842087+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:58:24.3255696+00:00",
+  "LastUpdate_Achievements": "2023-11-09T17:04:05.6331724+00:00"
 }

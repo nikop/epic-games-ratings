@@ -1,40 +1,40 @@
 # Arcadegeddon
 [Store](https://store.epicgames.com/en-US/p/arcadegeddon)  
 [View Rawdata](../../db/a/arcadegeddon.json)  
-Rating: 4.49 (Ranked 606)  
+Rating: 4.49 (Ranked 607)  
 Number of Ratings: 801  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 88.00% | ~8,417 |
-| Photogenic | 85.00% | ~8,130 |
-| Surge Gauntlet Jockey | 82.00% | ~7,843 |
+| Let's Get This Party Started | 88.00% | ~8,418 |
+| Photogenic | 85.00% | ~8,131 |
+| Surge Gauntlet Jockey | 82.00% | ~7,844 |
 | Plug It In | 81.00% | ~7,748 |
-| Adventure Time | 77.00% | ~7,365 |
-| Playing With Power | 74.00% | ~7,078 |
-| Coup d'Etat | 57.00% | ~5,452 |
+| Adventure Time | 77.00% | ~7,366 |
+| Playing With Power | 74.00% | ~7,079 |
+| Coup d'Etat | 57.00% | ~5,453 |
 | You're Fired | 55.00% | ~5,261 |
-| Get Furious | 54.00% | ~5,165 |
-| Hacks In Stacks | 54.00% | ~5,165 |
-| Gunplay And Cosplay | 53.00% | ~5,069 |
+| Get Furious | 54.00% | ~5,166 |
+| Hacks In Stacks | 54.00% | ~5,166 |
+| Gunplay And Cosplay | 53.00% | ~5,070 |
 | Meching Enemies | 47.00% | ~4,496 |
 | Ticket Toddler | 43.00% | ~4,113 |
 | Booty Bashing | 38.00% | ~3,635 |
 | Field Medic | 37.00% | ~3,539 |
-| Here Comes a New Challenger | 36.00% | ~3,443 |
+| Here Comes a New Challenger | 36.00% | ~3,444 |
 | Rapid Response | 32.00% | ~3,061 |
 | Surge Ahead | 30.00% | ~2,870 |
 | The Full Monty | 30.00% | ~2,870 |
 | Guardian Angel | 27.00% | ~2,583 |
 | Poppin Noggins | 24.00% | ~2,296 |
-| Clips and Crits | 19.00% | ~1,817 |
+| Clips and Crits | 19.00% | ~1,818 |
 | Grey Goo | 17.00% | ~1,626 |
 | Boss of Bosses | 15.00% | ~1,435 |
 | The Final Blow | 14.00% | ~1,339 |
-| To Be Continued | 13.00% | ~1,243 |
+| To Be Continued | 13.00% | ~1,244 |
 | Light My Fire | 11.00% | ~1,052 |
 | Seasoned Adventurer | 11.00% | ~1,052 |
-| 1.21 Gigawatts | 10.00% | ~956 |
+| 1.21 Gigawatts | 10.00% | ~957 |
 | Get In The Ring! | 9.00% | ~861 |
 | This Is My Boomstick! | 9.00% | ~861 |
 | Rescue Ranger | 8.00% | ~765 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,565 (Ranked 158)  
+Progressed: 9,566 (Ranked 158)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-06 | 9,531 | 1 |
 | 2023-11-07 | 9,546 | 1 |
 | 2023-11-08 | 9,556 | 1 |
-| 2023-11-09 | 9,565 | 1 |
+| 2023-11-09 | 9,566 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 407)  
 Sum: 463 (Ranked 327)  

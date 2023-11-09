@@ -6,14 +6,14 @@ Rating: 4.54 (Ranked 523)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 2.00% | ~821 |
-| One of Us | 1.00% | ~410 |
-| Pork Chopped | 1.00% | ~410 |
+| One of Us | 1.00% | ~411 |
+| Pork Chopped | 1.00% | ~411 |
 | Hotel California | 0.60% | ~4,293 |
 | Welcome To Hell-A | 0.60% | ~4,293 |
-| Break A Leg | 0.50% | ~3,577 |
-| Coup de Grâce | 0.50% | ~3,577 |
-| Hazardous Materials | 0.50% | ~3,577 |
-| Personal Assistant Personally Assisted | 0.50% | ~3,577 |
+| Break A Leg | 0.50% | ~3,578 |
+| Coup de Grâce | 0.50% | ~3,578 |
+| Hazardous Materials | 0.50% | ~3,578 |
+| Personal Assistant Personally Assisted | 0.50% | ~3,578 |
 | Dr. Reed, I Presume? | 0.40% | ~2,862 |
 | Git Gutte! | 0.40% | ~2,862 |
 | Anger Management | 0.40% | ~2,862 |
@@ -24,19 +24,19 @@ Rating: 4.54 (Ranked 523)
 | Apex Predator | 0.40% | ~2,862 |
 | Stacking the Deck | 0.40% | ~2,862 |
 | This is My Weapon | 0.40% | ~2,862 |
-| Making Your Mark | 0.30% | ~2,146 |
-| Perks of the Job | 0.30% | ~2,146 |
-| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,146 |
-| Slayer Squad | 0.30% | ~2,146 |
-| Like Riding a Bike | 0.30% | ~2,146 |
-| Not Even My Final Form | 0.30% | ~2,146 |
-| Zombologist | 0.30% | ~2,146 |
-| Ooh, Shiny! | 0.30% | ~2,146 |
-| A Patton Emerges | 0.30% | ~2,146 |
-| Humanity Distilled | 0.30% | ~2,146 |
-| I Am the Resurrection | 0.30% | ~2,146 |
-| Max Headroom | 0.30% | ~2,146 |
-| Our True Nature | 0.30% | ~2,146 |
+| Making Your Mark | 0.30% | ~2,147 |
+| Perks of the Job | 0.30% | ~2,147 |
+| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,147 |
+| Slayer Squad | 0.30% | ~2,147 |
+| Like Riding a Bike | 0.30% | ~2,147 |
+| Not Even My Final Form | 0.30% | ~2,147 |
+| Zombologist | 0.30% | ~2,147 |
+| Ooh, Shiny! | 0.30% | ~2,147 |
+| A Patton Emerges | 0.30% | ~2,147 |
+| Humanity Distilled | 0.30% | ~2,147 |
+| I Am the Resurrection | 0.30% | ~2,147 |
+| Max Headroom | 0.30% | ~2,147 |
+| Our True Nature | 0.30% | ~2,147 |
 | On Safari | 0.20% | ~1,431 |
 | Smorgasbord | 0.20% | ~1,431 |
 | Internet Famous | 0.20% | ~1,431 |
@@ -46,19 +46,19 @@ Rating: 4.54 (Ranked 523)
 | Variety is the Spice of Death | 0.20% | ~1,431 |
 | Rising Star | 0.20% | ~1,431 |
 | Top That, Tisha! | 0.20% | ~82 |
-| Make it So | 0.10% | ~715 |
-| LA Influential | 0.10% | ~715 |
-| Donk! | 0.10% | ~715 |
-| Sole Survivor | 0.10% | ~715 |
-| Gore Horse | 0.10% | ~715 |
-| Sharpest Tool in the Box | 0.10% | ~715 |
-| Survival Skills | 0.10% | ~715 |
-| Bucket List | 0.10% | ~715 |
+| Make it So | 0.10% | ~716 |
+| LA Influential | 0.10% | ~716 |
+| Donk! | 0.10% | ~716 |
+| Sole Survivor | 0.10% | ~716 |
+| Gore Horse | 0.10% | ~716 |
+| Sharpest Tool in the Box | 0.10% | ~716 |
+| Survival Skills | 0.10% | ~716 |
+| Bucket List | 0.10% | ~716 |
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,490 (Ranked 21)  
-Completed: 2,364 (0.33%) (Ranked 219)  
+Progressed: 715,509 (Ranked 21)  
+Completed: 2,365 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -260,7 +260,7 @@ Completed: 2,364 (0.33%) (Ranked 219)
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
-| 2023-11-09 | 715,490 | 2,364 |
+| 2023-11-09 | 715,509 | 2,365 |
 ## Awards
 Max (Great Boss Battles): 7,208  (Ranked 54)  
 Sum: 10,945 (Ranked 87)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -2910,9 +2910,9 @@
       "ID": "ACH035",
       "SetID": "69nfp41",
       "Name": "All mine!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 81
+      "UsersEstimate": 91
     },
     {
       "ID": "ACH036",
@@ -3038,8 +3038,8 @@
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-09T16:16:55.3529503+00:00",
+  "LastChanged_Achievements": "2023-11-09T17:06:33.590709+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:47.4518958+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:07:53.3697112+00:00",
-  "LastUpdate_Achievements": "2023-11-09T16:16:55.3529966+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:58:38.2963349+00:00",
+  "LastUpdate_Achievements": "2023-11-09T17:06:33.5907672+00:00"
 }

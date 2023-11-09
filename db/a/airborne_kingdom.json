@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7459,
+  "EOS_Progressed": 7460,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -5568,6 +5568,11 @@
       "Time": "2023-11-09T13:10:09.0069169+00:00",
       "NumProgressed": 7459,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-09T17:06:07.6353078+00:00",
+      "NumProgressed": 7460,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5587,7 +5592,7 @@
       "Name": "Daylight Found",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1939
+      "UsersEstimate": 1940
     },
     {
       "ID": "AK_FIELDS_WATERED",
@@ -5611,7 +5616,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5715,7 +5720,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3058
+      "UsersEstimate": 3059
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -5723,7 +5728,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3058
+      "UsersEstimate": 3059
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -5731,7 +5736,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4177
+      "UsersEstimate": 4178
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5771,7 +5776,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -5794,15 +5799,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7459,
+      "Progressed": 7460,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-09T16:16:22.4756999+00:00",
+  "LastChanged_Achievements": "2023-11-09T17:06:07.6353074+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:12:15.8541535+00:00",
-  "LastUpdate_Achievements": "2023-11-09T16:16:22.4757407+00:00"
+  "LastUpdate_Ratings": "2023-11-09T17:03:02.1520043+00:00",
+  "LastUpdate_Achievements": "2023-11-09T17:06:07.63536+00:00"
 }

@@ -1,23 +1,23 @@
 # The Alto Collection
 [Store](https://store.epicgames.com/en-US/p/the-alto-collection)  
 [View Rawdata](../../db/t/the_alto_collection.json)  
-Rating: 4.70 (Ranked 213)  
+Rating: 4.71 (Ranked 198)  
 Number of Ratings: 332  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 27.00% | ~12,345 |
+| Rookie | 27.00% | ~12,346 |
 | Finding Your Footing | 26.00% | ~11,888 |
 | Nomad | 17.00% | ~7,773 |
 | Picking Up Speed | 16.00% | ~7,316 |
-| Welcome Maya | 15.00% | ~6,858 |
-| Scout | 11.00% | ~5,029 |
-| Sightseer | 11.00% | ~5,029 |
+| Welcome Maya | 15.00% | ~6,859 |
+| Scout | 11.00% | ~5,030 |
+| Sightseer | 11.00% | ~5,030 |
 | Amateur | 10.00% | ~4,572 |
 | Unlock Maya | 8.00% | ~3,658 |
 | Wanderer | 8.00% | ~3,658 |
 | Enter Paz | 7.00% | ~3,201 |
-| Aviator | 6.00% | ~2,743 |
+| Aviator | 6.00% | ~2,744 |
 | My Little Friend | 5.00% | ~2,286 |
 | One With The Board | 5.00% | ~2,286 |
 | Voyager | 5.00% | ~2,286 |
@@ -36,7 +36,7 @@ Number of Ratings: 332  (23.09.2022)
 | Daredevil | 1.00% | ~457 |
 | Introducing Sumara | 1.00% | ~457 |
 | Vandal | 1.00% | ~457 |
-| Unlock Felipe | 0.90% | ~411 |
+| Unlock Felipe | 0.90% | ~412 |
 | Adventurer | 0.80% | ~366 |
 | Unlock Tupa | 0.50% | ~229 |
 | Master Of The Sands | 0.30% | ~137 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~46 |
 | Windswept | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,722 (Ranked 111)  
+Progressed: 45,725 (Ranked 111)  
 Completed: 5 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 5 (0.01%) (Ranked 321)
 | 2023-11-06 | 45,466 | 5 |
 | 2023-11-07 | 45,560 | 5 |
 | 2023-11-08 | 45,673 | 5 |
-| 2023-11-09 | 45,722 | 5 |
+| 2023-11-09 | 45,725 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 436)  
 Sum: 372 (Ranked 342)  
@@ -379,3 +379,4 @@ Diff (max vs sum): 94
 | 2023-10-28 | 4.70 | - | 48 | 370 |
 | 2023-11-02 | 4.70 | - | 48 | 371 |
 | 2023-11-05 | 4.70 | - | 48 | 372 |
+| 2023-11-09 | 4.71 | - | 48 | 372 |

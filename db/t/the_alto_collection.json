@@ -2,7 +2,7 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 213,
+  "Ranking_Rating": 198,
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 111,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.71,
   "NumberOfRatings": 332,
   "RatingHistory": [
     {
@@ -746,6 +746,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 372,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-11-09T16:58:19.787914+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 372,
+      "NumberOfAwardsMax": 48
     }
   ],
   "ReviewsDisabled": false,
@@ -814,9 +820,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 45722,
+  "EOS_Progressed": 45725,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 917,
+  "EOS_NewPlayers": 916,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23744,6 +23750,11 @@
       "Time": "2023-11-09T16:14:09.0088759+00:00",
       "NumProgressed": 45722,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T17:04:32.5854332+00:00",
+      "NumProgressed": 45725,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -23779,7 +23790,7 @@
       "Name": "Scout",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5029
+      "UsersEstimate": 5030
     },
     {
       "ID": "distance500000",
@@ -23795,7 +23806,7 @@
       "Name": "Rookie",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12345
+      "UsersEstimate": 12346
     },
     {
       "ID": "goals180",
@@ -23835,7 +23846,7 @@
       "Name": "Aviator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2743
+      "UsersEstimate": 2744
     },
     {
       "ID": "journeyer",
@@ -23891,7 +23902,7 @@
       "Name": "Unlock Felipe",
       "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "playerIzel",
@@ -23979,7 +23990,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5029
+      "UsersEstimate": 5030
     },
     {
       "ID": "ultimate",
@@ -24019,7 +24030,7 @@
       "Name": "Welcome Maya",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6858
+      "UsersEstimate": 6859
     },
     {
       "ID": "unlockpaz",
@@ -24066,15 +24077,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 45722,
+      "Progressed": 45725,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
-  "LastChanged": "2023-11-05T18:00:57.4223088+00:00",
-  "LastChanged_Achievements": "2023-11-09T16:14:09.0088754+00:00",
+  "LastChanged": "2023-11-09T16:58:19.7879138+00:00",
+  "LastChanged_Achievements": "2023-11-09T17:04:32.5854327+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.4734423+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:06:18.2298674+00:00",
-  "LastUpdate_Achievements": "2023-11-09T16:14:09.0090133+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:58:19.7879143+00:00",
+  "LastUpdate_Achievements": "2023-11-09T17:04:32.5855833+00:00"
 }

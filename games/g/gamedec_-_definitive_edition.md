@@ -6,13 +6,13 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,427 |
-| Powergamer | 27.00% | ~67,912 |
-| Write that down | 25.00% | ~62,881 |
-| Barely scratched the surface | 25.00% | ~62,881 |
-| Guns, lots of guns | 13.00% | ~32,698 |
-| Collector | 12.00% | ~30,183 |
-| Elementary! | 9.00% | ~22,637 |
+| I will finish what you started | 28.00% | ~70,428 |
+| Powergamer | 27.00% | ~67,913 |
+| Write that down | 25.00% | ~62,882 |
+| Barely scratched the surface | 25.00% | ~62,882 |
+| Guns, lots of guns | 13.00% | ~32,699 |
+| Collector | 12.00% | ~30,184 |
+| Elementary! | 9.00% | ~22,638 |
 | Griever | 8.00% | ~20,122 |
 | Pumpkin Jack | 8.00% | ~20,122 |
 | Wake up! | 8.00% | ~20,122 |
@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,546 |
 | I like to sniff around | 3.00% | ~7,546 |
 | Mind reader | 3.00% | ~7,546 |
-| Catnip | 2.00% | ~5,030 |
-| Gentleman's classic | 2.00% | ~5,030 |
-| Is that a rift? | 2.00% | ~5,030 |
-| It's alive! | 2.00% | ~5,030 |
-| Enjoy the beach | 2.00% | ~5,030 |
-| Rinse and repeat | 2.00% | ~5,030 |
-| Mama, I'm a criminal | 2.00% | ~5,030 |
-| Never gonna give you up | 2.00% | ~5,030 |
+| Catnip | 2.00% | ~5,031 |
+| Gentleman's classic | 2.00% | ~5,031 |
+| Is that a rift? | 2.00% | ~5,031 |
+| It's alive! | 2.00% | ~5,031 |
+| Enjoy the beach | 2.00% | ~5,031 |
+| Rinse and repeat | 2.00% | ~5,031 |
+| Mama, I'm a criminal | 2.00% | ~5,031 |
+| Never gonna give you up | 2.00% | ~5,031 |
 | A muscle to rely on | 1.00% | ~2,515 |
 | A true blacksmith | 1.00% | ~2,515 |
 | I am in great pain, please help me | 1.00% | ~2,515 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~503 |
 | Memory 5 | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,525 (Ranked 56)  
+Progressed: 251,530 (Ranked 56)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-06 | 251,335 | 7 |
 | 2023-11-07 | 251,403 | 7 |
 | 2023-11-08 | 251,472 | 7 |
-| 2023-11-09 | 251,525 | 7 |
+| 2023-11-09 | 251,530 | 7 |
 ## Awards
 Max (Character Customization): 88  (Ranked 376)  
 Sum: 88 (Ranked 449)  

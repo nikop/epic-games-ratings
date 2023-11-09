@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6881,10 +6881,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27515,
       "NumberOfAwardsMax": 4822
+    },
+    {
+      "Time": "2023-11-09T16:59:18.2888839+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27516,
+      "NumberOfAwardsMax": 4822
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27515,
+  "NumberOfAwards": 27516,
   "NumberOfAwardsMax": 4822,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6934,10 +6940,10 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3773
+      "Count": 3774
     }
   ],
-  "EOS_Progressed": 138833,
+  "EOS_Progressed": 138834,
   "EOS_Completed": 180,
   "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 2,
@@ -27672,6 +27678,11 @@
       "Time": "2023-11-09T16:14:57.2930515+00:00",
       "NumProgressed": 138833,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2023-11-09T17:05:01.6239113+00:00",
+      "NumProgressed": 138834,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 112,
@@ -27771,7 +27782,7 @@
       "Name": "Tax not Included",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "bigsale03",
@@ -27859,7 +27870,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "chest03",
@@ -27883,7 +27894,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "collection03",
@@ -28139,7 +28150,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "gemsspent",
@@ -28251,7 +28262,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "legenchant01",
@@ -28331,7 +28342,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "master01",
@@ -28355,7 +28366,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "master04",
@@ -28371,7 +28382,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "masterpiece",
@@ -28443,7 +28454,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "rudo_a",
@@ -28523,7 +28534,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "uncommonres02",
@@ -28563,7 +28574,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1249
+      "UsersEstimate": 1250
     },
     {
       "ID": "yami_a",
@@ -28578,15 +28589,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138833,
+      "Progressed": 138834,
       "Completed": 180
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-09T13:03:18.9401498+00:00",
-  "LastChanged_Achievements": "2023-11-09T16:14:57.293051+00:00",
+  "LastChanged": "2023-11-09T16:59:18.2888837+00:00",
+  "LastChanged_Achievements": "2023-11-09T17:05:01.6239108+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:09:11.8935771+00:00",
-  "LastUpdate_Achievements": "2023-11-09T16:14:57.293271+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:59:18.2888844+00:00",
+  "LastUpdate_Achievements": "2023-11-09T17:05:01.6241602+00:00"
 }

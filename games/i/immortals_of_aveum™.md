@@ -7,8 +7,8 @@ Rating: 4.02 (Ranked 986)
 | ---- | ---------- | ----- |
 | Unforeseen | 88.00% | ~194 |
 | Battlefields Have Memories | 83.00% | ~183 |
-| Enlisted | 79.00% | ~175 |
-| Maybe Engage a Little | 75.00% | ~166 |
+| Enlisted | 80.00% | ~177 |
+| Maybe Engage a Little | 76.00% | ~168 |
 | No More Names | 59.00% | ~130 |
 | Initiate | 47.00% | ~104 |
 | Thrada-Kul | 43.00% | ~95 |
@@ -19,7 +19,7 @@ Rating: 4.02 (Ranked 986)
 | Beggars Would Ride | 25.00% | ~55 |
 | Control is an Illusion | 24.00% | ~53 |
 | The Means to Save It | 21.00% | ~46 |
-| Resilience to Sin | 18.00% | ~40 |
+| Resilience to Sin | 19.00% | ~42 |
 | A Familiar Nest | 17.00% | ~38 |
 | Periapt Alizarin | 17.00% | ~38 |
 | Geas Aristeya | 16.00% | ~35 |
@@ -54,7 +54,7 @@ Rating: 4.02 (Ranked 986)
 | Fowl Play | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 221 (Ranked 361)  
-Completed: 1 (0.45%) (Ranked 200)  
+Completed: 1 (0.45%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

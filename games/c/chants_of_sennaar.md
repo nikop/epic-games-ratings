@@ -12,7 +12,7 @@
 | Scholar | 21.00% | ~105 |
 | True G3M4R | 20.00% | ~100 |
 | The darkness | 20.00% | ~100 |
-| A good beginning | 18.00% | ~90 |
+| A good beginning | 19.00% | ~95 |
 | One last step | 18.00% | ~90 |
 | I did it | 17.00% | ~85 |
 | Cable guy | 17.00% | ~85 |
@@ -21,7 +21,7 @@
 | Champollion | 16.00% | ~80 |
 | In this together | 15.00% | ~75 |
 | Open door | 15.00% | ~75 |
-| Feels like springtime | 14.00% | ~70 |
+| Feels like springtime | 15.00% | ~75 |
 | Alchemists Express | 14.00% | ~70 |
 | Free at last | 12.00% | ~60 |
 | A Link to the Past | 11.00% | ~55 |

@@ -45,13 +45,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,388 |
 | Magical Harmony | 1.00% | ~1,388 |
 | Arcane Industries | 1.00% | ~1,388 |
-| Tax not Included | 0.90% | ~1,249 |
-| For the Hoard! | 0.90% | ~1,249 |
-| Scrapbooker | 0.90% | ~1,249 |
-| Trash to Treasure | 0.90% | ~1,249 |
-| Seasoned Journeyman | 0.90% | ~1,249 |
-| Special Ingredient | 0.90% | ~1,249 |
-| Complete Monopoly | 0.90% | ~1,249 |
+| Tax not Included | 0.90% | ~1,250 |
+| For the Hoard! | 0.90% | ~1,250 |
+| Scrapbooker | 0.90% | ~1,250 |
+| Trash to Treasure | 0.90% | ~1,250 |
+| Seasoned Journeyman | 0.90% | ~1,250 |
+| Special Ingredient | 0.90% | ~1,250 |
+| Complete Monopoly | 0.90% | ~1,250 |
 | A Notch Above the Rest | 0.80% | ~1,111 |
 | Above the Norm | 0.80% | ~1,111 |
 | The King's Caprice | 0.80% | ~1,111 |
@@ -106,10 +106,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | All Accounted For | 0.50% | ~694 |
 | The Free Encyclopedia | 0.40% | ~555 |
 | All or Nothing! | 0.40% | ~555 |
-| JACKPOT!!! | 0.30% | ~416 |
-| Anything not Nailed Down | 0.30% | ~416 |
-| The Greatest Grind | 0.30% | ~416 |
-| Marvels from the World Over | 0.30% | ~416 |
+| JACKPOT!!! | 0.30% | ~417 |
+| Anything not Nailed Down | 0.30% | ~417 |
+| The Greatest Grind | 0.30% | ~417 |
+| Marvels from the World Over | 0.30% | ~417 |
 | Bane of Legends | 0.20% | ~278 |
 | Ultimate Collector | 0.20% | ~278 |
 | Oligarch Monarch | 0.20% | ~278 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,833 (Ranked 79)  
+Progressed: 138,834 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 180 (0.13%) (Ranked 257)
 | 2023-11-06 | 138,721 | 178 |
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
-| 2023-11-09 | 138,833 | 180 |
+| 2023-11-09 | 138,834 | 180 |
 ## Awards
 Max (Great for Beginners): 4,822  (Ranked 74)  
-Sum: 27,515 (Ranked 52)  
+Sum: 27,516 (Ranked 52)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +333,7 @@ Diff (max vs sum): 22
 | This game is Relaxing | 4,039 |
 | This game has Quickly Understood Controls | 4,028 |
 | This game has Diverse Characters | 3,934 |
-| This game is Highly Recommended | 3,773 |
+| This game is Highly Recommended | 3,774 |
 | This game has Easy Combat | 3,722 |
 | This game has Playful Visuals | 3,197 |
 | This game has Inclusive Character Customization | 22 |
@@ -623,4 +623,4 @@ Diff (max vs sum): 22
 | 2023-11-06 | 3.99 | - | 4,819 | 27,505 |
 | 2023-11-07 | 3.99 | - | 4,819 | 27,508 |
 | 2023-11-08 | 3.99 | - | 4,819 | 27,509 |
-| 2023-11-09 | 3.99 | - | 4,822 | 27,515 |
+| 2023-11-09 | 3.99 | - | 4,822 | 27,516 |

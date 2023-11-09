@@ -6,52 +6,52 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,529 |
-| A thief's beginning | 10.00% | ~21,274 |
-| Thorough | 10.00% | ~21,274 |
-| Disguised | 9.00% | ~19,147 |
-| Rollin' | 9.00% | ~19,147 |
-| Tanuki Time | 9.00% | ~19,147 |
+| Genin | 12.00% | ~25,530 |
+| A thief's beginning | 10.00% | ~21,275 |
+| Thorough | 10.00% | ~21,275 |
+| Disguised | 9.00% | ~19,148 |
+| Rollin' | 9.00% | ~19,148 |
+| Tanuki Time | 9.00% | ~19,148 |
 | Rescue Takuma | 8.00% | ~17,020 |
 | Stoned Ox | 8.00% | ~17,020 |
-| Happy Planning | 7.00% | ~14,892 |
-| Ice Ice Yuki | 7.00% | ~14,892 |
-| Jonin | 7.00% | ~14,892 |
-| Yabu | 7.00% | ~14,892 |
+| Happy Planning | 7.00% | ~14,893 |
+| Ice Ice Yuki | 7.00% | ~14,893 |
+| Jonin | 7.00% | ~14,893 |
+| Yabu | 7.00% | ~14,893 |
 | Chunin | 6.00% | ~12,765 |
 | Flying Rocks | 6.00% | ~12,765 |
 | Mugen Unchained | 6.00% | ~12,765 |
 | Warzone | 6.00% | ~12,765 |
-| Okkoto | 5.00% | ~10,637 |
-| Prisoners | 5.00% | ~10,637 |
-| Too Early | 5.00% | ~10,637 |
+| Okkoto | 5.00% | ~10,638 |
+| Prisoners | 5.00% | ~10,638 |
+| Too Early | 5.00% | ~10,638 |
 | Gear up | 4.00% | ~8,510 |
 | Happy little accidents | 4.00% | ~8,510 |
 | Noboru | 4.00% | ~8,510 |
 | Still Rollin' | 4.00% | ~8,510 |
-| It's raining men | 3.00% | ~6,382 |
-| Stoned | 3.00% | ~6,382 |
-| The Old Way | 3.00% | ~6,382 |
+| It's raining men | 3.00% | ~6,383 |
+| Stoned | 3.00% | ~6,383 |
+| The Old Way | 3.00% | ~6,383 |
 | Atheist Ox | 2.00% | ~4,255 |
 | No Gimmicks | 2.00% | ~4,255 |
 | Old Man | 2.00% | ~4,255 |
 | Winner Winner | 2.00% | ~4,255 |
-| Meticulous | 1.00% | ~2,127 |
-| The End | 1.00% | ~2,127 |
-| Undeserved Honor | 1.00% | ~2,127 |
+| Meticulous | 1.00% | ~2,128 |
+| The End | 1.00% | ~2,128 |
+| Undeserved Honor | 1.00% | ~2,128 |
 | When Cut Across the Neck | 0.90% | ~1,915 |
 | High Five the Moon | 0.80% | ~1,702 |
 | The Cave | 0.80% | ~1,702 |
 | Merciful | 0.50% | ~1,064 |
 | Time Paradox | 0.50% | ~1,064 |
 | Five Shadows | 0.30% | ~638 |
-| Complete Mastery | 0.20% | ~425 |
-| Praise the Shogun | 0.20% | ~425 |
+| Complete Mastery | 0.20% | ~426 |
+| Praise the Shogun | 0.20% | ~426 |
 | Chicken Dinner | 0.10% | ~213 |
 | Mimimi | 0.10% | ~213 |
 | Release the Kraken | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,744 (Ranked 70)  
+Progressed: 212,751 (Ranked 70)  
 Completed: 96 (0.05%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 96 (0.05%) (Ranked 297)
 | 2023-11-06 | 212,316 | 96 |
 | 2023-11-07 | 212,500 | 96 |
 | 2023-11-08 | 212,647 | 96 |
-| 2023-11-09 | 212,744 | 96 |
+| 2023-11-09 | 212,751 | 96 |
 ## Awards
 Max (Great for Beginners): 572  (Ranked 197)  
 Sum: 4,832 (Ranked 139)  

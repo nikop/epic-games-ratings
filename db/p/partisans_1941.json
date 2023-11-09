@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1607,
+  "EOS_Progressed": 1608,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3544,6 +3544,11 @@
       "Time": "2023-11-09T15:05:22.2909167+00:00",
       "NumProgressed": 1607,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T17:05:52.8666304+00:00",
+      "NumProgressed": 1608,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3603,7 +3608,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "Defense_Common",
@@ -3691,7 +3696,7 @@
       "Name": "Payback Time",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "How",
@@ -3707,7 +3712,7 @@
       "Name": "Spice It Up",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "KillAllM2",
@@ -3794,15 +3799,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1607,
+      "Progressed": 1608,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-09T16:16:03.6307324+00:00",
+  "LastChanged_Achievements": "2023-11-09T17:05:52.8666298+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:09:14.0167662+00:00",
-  "LastUpdate_Achievements": "2023-11-09T16:16:03.6307662+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:59:20.3394232+00:00",
+  "LastUpdate_Achievements": "2023-11-09T17:05:52.8666718+00:00"
 }

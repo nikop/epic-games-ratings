@@ -6866,9 +6866,9 @@
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
       "SetID": "akchbl3",
       "Name": "Uomo Universale",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 998
+      "UsersEstimate": 1069
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -6899,8 +6899,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-04T20:00:49.9036999+00:00",
-  "LastChanged_Achievements": "2023-11-09T16:16:28.6869358+00:00",
+  "LastChanged_Achievements": "2023-11-09T17:06:12.5407143+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.5980871+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:08:47.5629003+00:00",
-  "LastUpdate_Achievements": "2023-11-09T16:16:28.6869942+00:00"
+  "LastUpdate_Ratings": "2023-11-09T16:59:04.2504809+00:00",
+  "LastUpdate_Achievements": "2023-11-09T17:06:12.5407844+00:00"
 }

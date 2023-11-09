@@ -7,8 +7,8 @@
 | That wasn't so bad | 86.00% | ~253 |
 | Let it begin | 49.00% | ~144 |
 | The intellectual | 27.00% | ~79 |
+| The boss | 26.00% | ~76 |
 | The athlete | 26.00% | ~76 |
-| The boss | 25.00% | ~74 |
 | The activist | 22.00% | ~65 |
 | The individualist | 20.00% | ~59 |
 | The nice guy | 13.00% | ~38 |

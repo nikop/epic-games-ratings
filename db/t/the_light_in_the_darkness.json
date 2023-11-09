@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 44,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -33,8 +33,8 @@
   "Tags": [],
   "EOS_Progressed": 2613,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 22,
-  "EOS_NewCompleters": 6,
+  "EOS_NewPlayers": 21,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 9.07,
   "EosHistory": [
     {
@@ -7170,8 +7170,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-09T16:18:45.0704442+00:00",
+  "LastChanged_Achievements": "2023-11-09T17:09:19.4419065+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:00.2861295+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:12:04.6662017+00:00",
-  "LastUpdate_Achievements": "2023-11-09T16:18:45.0704821+00:00"
+  "LastUpdate_Ratings": "2023-11-09T17:02:54.7180231+00:00",
+  "LastUpdate_Achievements": "2023-11-09T17:09:19.4419614+00:00"
 }

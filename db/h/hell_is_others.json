@@ -4,7 +4,7 @@
   "ProductSlug": "hell-is-others-789262",
   "Ranking_Rating": 763,
   "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 354,
+  "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 133,
@@ -1207,9 +1207,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258206,
+  "EOS_Progressed": 258208,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20997,6 +20997,11 @@
       "Time": "2023-11-09T16:16:19.7970583+00:00",
       "NumProgressed": 258206,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-09T17:06:05.4507693+00:00",
+      "NumProgressed": 258208,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -21008,7 +21013,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18074
+      "UsersEstimate": 18075
     },
     {
       "ID": "Act2",
@@ -21296,7 +21301,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59387
+      "UsersEstimate": 59388
     },
     {
       "ID": "KillOthers2",
@@ -21455,7 +21460,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258206,
+      "Progressed": 258208,
       "Completed": 3
     }
   ],
@@ -21463,8 +21468,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-09T15:00:48.0859289+00:00",
-  "LastChanged_Achievements": "2023-11-09T16:16:19.7970578+00:00",
+  "LastChanged_Achievements": "2023-11-09T17:06:05.4507688+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:04.7970194+00:00",
-  "LastUpdate_Ratings": "2023-11-09T16:11:44.9921761+00:00",
-  "LastUpdate_Achievements": "2023-11-09T16:16:19.7971865+00:00"
+  "LastUpdate_Ratings": "2023-11-09T17:01:11.4547885+00:00",
+  "LastUpdate_Achievements": "2023-11-09T17:06:05.4509573+00:00"
 }
