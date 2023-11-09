@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 194,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
     "PcReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 9351,
+  "EOS_Progressed": 9352,
   "EOS_Completed": 47,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 974,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -5943,6 +5943,11 @@
       "Time": "2023-11-09T09:04:05.8315184+00:00",
       "NumProgressed": 9351,
       "NumCompleted": 47
+    },
+    {
+      "Time": "2023-11-09T10:03:50.4605111+00:00",
+      "NumProgressed": 9352,
+      "NumCompleted": 47
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -6027,7 +6032,7 @@
       "Name": "In the Flow",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2619
     },
     {
       "ID": "achievement_19",
@@ -6043,7 +6048,7 @@
       "Name": "Most Wanted",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5892
     },
     {
       "ID": "achievement_20",
@@ -6059,7 +6064,7 @@
       "Name": "Rydell\u0027s Rydes",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "achievement_22",
@@ -6067,7 +6072,7 @@
       "Name": "Escape Artist",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 4956
+      "UsersEstimate": 4957
     },
     {
       "ID": "achievement_23",
@@ -6075,7 +6080,7 @@
       "Name": "Public Enemy",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 7668
+      "UsersEstimate": 7669
     },
     {
       "ID": "achievement_24",
@@ -6179,7 +6184,7 @@
       "Name": "Hey Speedie!",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 6265
+      "UsersEstimate": 6266
     },
     {
       "ID": "achievement_36",
@@ -6187,7 +6192,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 7761
+      "UsersEstimate": 7762
     },
     {
       "ID": "achievement_37",
@@ -6195,7 +6200,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 8603
+      "UsersEstimate": 8604
     },
     {
       "ID": "achievement_38",
@@ -6203,7 +6208,7 @@
       "Name": "Fashion Killa",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 8229
+      "UsersEstimate": 8230
     },
     {
       "ID": "achievement_39",
@@ -6211,7 +6216,7 @@
       "Name": "Cool Whip",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 8416
+      "UsersEstimate": 8417
     },
     {
       "ID": "achievement_4",
@@ -6227,7 +6232,7 @@
       "Name": "Kick it",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "achievement_41",
@@ -6235,7 +6240,7 @@
       "Name": "Drop the Beat",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 7948
+      "UsersEstimate": 7949
     },
     {
       "ID": "achievement_5",
@@ -6259,7 +6264,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 7855
+      "UsersEstimate": 7856
     },
     {
       "ID": "achievement_8",
@@ -6282,13 +6287,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 9351,
+      "Progressed": 9352,
       "Completed": 47
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2023-11-09T09:04:05.8315181+00:00",
+  "LastChanged_Achievements": "2023-11-09T10:03:50.4605106+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:22.9265664+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:57:48.6451165+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:04:05.831573+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:57:54.2889087+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:03:50.4605947+00:00"
 }

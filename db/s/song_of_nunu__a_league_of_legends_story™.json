@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 593,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -947,9 +947,9 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 397
     },
     {
       "ID": "EV_ACH02",
@@ -963,17 +963,17 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 397
     },
     {
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 314
+      "UsersEstimate": 320
     },
     {
       "ID": "EV_ACH05",
@@ -1067,9 +1067,9 @@
       "ID": "EV_ACH16",
       "SetID": "6jeac23",
       "Name": "Krugmazing",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 385
     },
     {
       "ID": "EV_ACH17",
@@ -1306,8 +1306,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-09T09:09:22.0759992+00:00",
+  "LastChanged_Achievements": "2023-11-09T10:09:21.1546875+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:02:55.567902+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:09:22.0760316+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:02:45.1028955+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:09:21.1547284+00:00"
 }

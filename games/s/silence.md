@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Fire in the... nevermind | 54.00% | ~78 |
 | Chapter I | 53.00% | ~77 |
-| Fire in the... nevermind | 53.00% | ~77 |
 | Haute cuisine | 48.00% | ~70 |
 | Demolition expert | 40.00% | ~58 |
 | I didn't do it! | 40.00% | ~58 |
@@ -16,13 +16,13 @@
 | Let the boot talk | 32.00% | ~46 |
 | Chapter II | 27.00% | ~39 |
 | Shadow on the wall | 26.00% | ~38 |
-| Handyman | 23.00% | ~33 |
+| Handyman | 24.00% | ~35 |
 | Bubblekillerfamily | 23.00% | ~33 |
 | Achoo!! | 23.00% | ~33 |
 | Chapter III | 23.00% | ~33 |
 | Like a moth in the Wind | 23.00% | ~33 |
 | Quite a buggy game | 21.00% | ~30 |
-| Pacifist | 20.00% | ~29 |
+| Pacifist | 21.00% | ~30 |
 | Mirror mirror on the wall... | 20.00% | ~29 |
 | Fastidious Clown | 19.00% | ~28 |
 | Home is where the heart is | 19.00% | ~28 |

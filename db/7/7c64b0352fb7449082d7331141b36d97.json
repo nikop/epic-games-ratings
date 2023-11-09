@@ -2,10 +2,10 @@
   "ID": "7c64b0352fb7449082d7331141b36d97",
   "Name": "Commandos: Origins",
   "ProductSlug": "commandos-origins-ec78ba",
-  "Ranking_EOS_Progress": 733,
+  "Ranking_EOS_Progress": 734,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-02T15:57:20.586418+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:58:10.8033202+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:06:27.7635825+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:58:16.4187161+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:06:00.7153763+00:00"
 }

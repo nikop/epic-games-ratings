@@ -2,13 +2,13 @@
   "ID": "5f2fcf280d11455f8eab5c1e2a4d0392",
   "Name": "House Party",
   "ProductSlug": "house-party-ae8b27",
-  "Ranking_Rating": 821,
+  "Ranking_Rating": 820,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -6706,8 +6706,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-08-31T08:00:08.7899457+00:00",
-  "LastChanged_Achievements": "2023-11-09T09:05:04.5143097+00:00",
+  "LastChanged_Achievements": "2023-11-09T10:04:44.8943814+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.1273071+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:59:57.6218459+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:05:04.5143929+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:59:59.8738341+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:04:44.8944924+00:00"
 }

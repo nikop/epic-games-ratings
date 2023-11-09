@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -517,9 +517,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8545,
+  "EOS_Progressed": 8546,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -10897,6 +10897,11 @@
       "Time": "2023-11-09T08:04:57.5686459+00:00",
       "NumProgressed": 8545,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-09T10:05:29.3878871+00:00",
+      "NumProgressed": 8546,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10908,7 +10913,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7092
+      "UsersEstimate": 7093
     },
     {
       "ID": "ACH02",
@@ -10916,7 +10921,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2905
+      "UsersEstimate": 2906
     },
     {
       "ID": "ACH03",
@@ -10972,7 +10977,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH10",
@@ -11044,7 +11049,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH19",
@@ -11100,7 +11105,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH26",
@@ -11139,7 +11144,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8545,
+      "Progressed": 8546,
       "Completed": 56
     }
   ],
@@ -11147,8 +11152,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-07T02:18:06.6938355+00:00",
-  "LastChanged_Achievements": "2023-11-09T09:05:53.3723098+00:00",
+  "LastChanged_Achievements": "2023-11-09T10:05:29.3878865+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:00:36.4849161+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:05:53.3723736+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:00:37.8156826+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:05:29.3879826+00:00"
 }

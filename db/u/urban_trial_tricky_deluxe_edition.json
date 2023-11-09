@@ -2,10 +2,10 @@
   "ID": "b1cf8d219f3843f0b971cd37b13abab1",
   "Name": "Urban Trial Tricky Deluxe Edition",
   "ProductSlug": "urban-trial-tricky-eb0205",
-  "Ranking_EOS_Progress": 733,
+  "Ranking_EOS_Progress": 734,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-05-13T13:00:00+00:00",
     "PcReleaseDate": "2021-07-22T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:45.2113814+00:00",
   "LastChanged": "2023-03-31T05:57:45.2113815+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:30.2310335+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:57:59.1215828+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:05:48.3003259+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:58:04.325964+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:05:24.6045043+00:00"
 }

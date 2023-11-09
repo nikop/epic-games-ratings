@@ -16,6 +16,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | One Easy Payment | 2.00% | ~2,776 |
 | Some Assembly Required | 2.00% | ~2,776 |
 | Bounty Hunters | 2.00% | ~2,776 |
+| Flooding the Market | 2.00% | ~2,776 |
 | Another Satisfied Customer | 2.00% | ~2,776 |
 | It's Free Real Estate | 2.00% | ~2,776 |
 | Pretty Penny | 2.00% | ~2,776 |
@@ -31,7 +32,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 1.00% | ~1,388 |
 | Blank Page Syndrome | 1.00% | ~1,388 |
 | Demand for Supplies | 1.00% | ~1,388 |
-| Flooding the Market | 1.00% | ~1,388 |
 | Where it Hurts | 1.00% | ~1,388 |
 | Power of Love | 1.00% | ~1,388 |
 | Efficient Floor Space | 1.00% | ~1,388 |
@@ -51,6 +51,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Trash to Treasure | 0.90% | ~1,249 |
 | Seasoned Journeyman | 0.90% | ~1,249 |
 | Special Ingredient | 0.90% | ~1,249 |
+| Complete Monopoly | 0.90% | ~1,249 |
 | A Notch Above the Rest | 0.80% | ~1,111 |
 | Above the Norm | 0.80% | ~1,111 |
 | The King's Caprice | 0.80% | ~1,111 |
@@ -70,7 +71,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.80% | ~1,111 |
 | Scourge of the Seas | 0.80% | ~1,111 |
 | Black Friday Special | 0.80% | ~1,111 |
-| Complete Monopoly | 0.80% | ~1,111 |
 | Cream of the Crop | 0.70% | ~972 |
 | Top of the World | 0.70% | ~972 |
 | Proud Paladin | 0.70% | ~972 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,819 (Ranked 79)  
+Progressed: 138,821 (Ranked 79)  
 Completed: 179 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 179 (0.13%) (Ranked 257)
 | 2023-11-06 | 138,721 | 178 |
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
-| 2023-11-09 | 138,819 | 179 |
+| 2023-11-09 | 138,821 | 179 |
 ## Awards
 Max (Great for Beginners): 4,822  (Ranked 74)  
 Sum: 27,514 (Ranked 52)  

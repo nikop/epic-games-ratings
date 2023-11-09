@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 551,
+  "EOS_Progressed": 552,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -2374,6 +2374,11 @@
       "Time": "2023-11-07T01:49:04.0759405+00:00",
       "NumProgressed": 551,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T10:05:23.7581952+00:00",
+      "NumProgressed": 552,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 14,
@@ -2385,7 +2390,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2433,7 +2438,7 @@
       "Name": "The path to enlightenment",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2496,14 +2501,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 551,
+      "Progressed": 552,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-09T09:05:47.4003589+00:00",
+  "LastChanged_Achievements": "2023-11-09T10:05:23.7581947+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.460318+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:00:17.2771568+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:05:47.4003798+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:00:18.2702465+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:05:23.7582223+00:00"
 }

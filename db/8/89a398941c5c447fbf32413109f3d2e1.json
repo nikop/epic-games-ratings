@@ -2,10 +2,10 @@
   "ID": "89a398941c5c447fbf32413109f3d2e1",
   "Name": "Cyber\uFF1AMind Dive",
   "ProductSlug": "syber_mind-dive-0227fe",
-  "Ranking_EOS_Progress": 733,
+  "Ranking_EOS_Progress": 734,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-06T22:56:57.1738813+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:01:06.7174047+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:04:22.296096+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:01:04.6969162+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:04:05.314766+00:00"
 }

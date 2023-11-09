@@ -79,6 +79,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Italian Ambition | 0.10% | ~450 |
 | It's all about luck | 0.10% | ~450 |
 | It's all about the money | 0.10% | ~450 |
+| Je maintiendrai | 0.10% | ~450 |
 | Just a Little Patience | 0.10% | ~450 |
 | Just Resting In My Account | 0.10% | ~450 |
 | A Kaiser not just in name | 0.10% | ~450 |
@@ -240,7 +241,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
-| Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
 | Keep the Flame Burning | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,289 (Ranked 41)  
+Progressed: 450,308 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,7 +573,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
-| 2023-11-09 | 450,289 | 1 |
+| 2023-11-09 | 450,308 | 1 |
 ## Awards
 Max (Educational): 6,915  (Ranked 55)  
 Sum: 56,813 (Ranked 24)  

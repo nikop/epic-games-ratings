@@ -12,7 +12,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Horde breaker | 23.00% | ~14,891 |
 | Lawmaker | 23.00% | ~14,891 |
 | Trained | 23.00% | ~14,891 |
-| The king is pleased | 19.00% | ~12,301 |
+| The king is pleased | 19.00% | ~12,302 |
 | King Solomon | 18.00% | ~11,654 |
 | Apple of my eye | 16.00% | ~10,359 |
 | I can do it | 16.00% | ~10,359 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,744 (Ranked 103)  
+Progressed: 64,745 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,10 +261,10 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-06 | 64,626 | 0 |
 | 2023-11-07 | 64,682 | 0 |
 | 2023-11-08 | 64,735 | 0 |
-| 2023-11-09 | 64,744 | 0 |
+| 2023-11-09 | 64,745 | 0 |
 ## Awards
 Max (Character Customization): 7,345  (Ranked 52)  
-Sum: 15,174 (Ranked 67)  
+Sum: 15,175 (Ranked 67)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
@@ -275,7 +275,7 @@ Diff (max vs sum): -15
 | This game is Extremely Fun | 865 |
 | This game has Amazing Storytelling | 856 |
 | This game has Amazing Characters | 853 |
-| This game is Relaxing | 848 |
+| This game is Relaxing | 849 |
 | This game has Quickly Understood Controls | 822 |
 | This game has a Creative Community | 632 |
 | This game has Obsessive Gameplay | 376 |
@@ -581,3 +581,4 @@ Diff (max vs sum): -15
 | 2023-11-06 | 4.74 | - | 7,333 | 15,154 |
 | 2023-11-07 | 4.74 | - | 7,339 | 15,162 |
 | 2023-11-08 | 4.74 | - | 7,345 | 15,174 |
+| 2023-11-09 | 4.74 | - | 7,345 | 15,175 |

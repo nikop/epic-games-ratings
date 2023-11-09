@@ -3,9 +3,9 @@
   "Name": "SPACE WAR - INFINITY",
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 440,
-  "Ranking_EOS_Completed": 30,
+  "Ranking_EOS_Completed": 27,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
     "PcReleaseDate": "2019-05-28T13:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 71,
-  "EOS_Completed": 8,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.27,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 12.68,
   "EosHistory": [
     {
       "Time": "2023-08-15T16:04:17.9751205+00:00",
@@ -369,6 +369,11 @@
       "Time": "2023-11-09T07:03:53.6292471+00:00",
       "NumProgressed": 71,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-09T10:03:41.1367203+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-08-09T13:13:29.9534063+00:00",
@@ -451,9 +456,9 @@
       "ID": "_destroyer",
       "SetID": "2d5739o",
       "Name": "Destroyer",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "_double_item",
@@ -531,9 +536,9 @@
       "ID": "_laser_enemy",
       "SetID": "2d5739o",
       "Name": "Laser enemy",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "_laser_mine",
@@ -699,9 +704,9 @@
       "ID": "_time",
       "SetID": "2d5739o",
       "Name": "Time",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "_x2orb",
@@ -725,13 +730,13 @@
       "ID": "2d5739o",
       "IsBase": true,
       "Progressed": 71,
-      "Completed": 8
+      "Completed": 9
     }
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-11-09T09:03:55.7320375+00:00",
+  "LastChanged_Achievements": "2023-11-09T10:03:41.1367194+00:00",
   "LastUpdate_AppInfo": "2023-11-08T19:57:13.7743335+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:01:41.9609064+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:03:55.7320675+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:01:36.1160936+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:03:41.1367567+00:00"
 }

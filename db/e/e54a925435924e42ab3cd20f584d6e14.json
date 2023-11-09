@@ -2,10 +2,10 @@
   "ID": "e54a925435924e42ab3cd20f584d6e14",
   "Name": "Eternal Exodus",
   "ProductSlug": "eternal-exodus-3e2f8d",
-  "Ranking_EOS_Progress": 733,
+  "Ranking_EOS_Progress": 734,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2024-05-31T00:00:00+00:00",
     "PcReleaseDate": "2024-05-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-08T19:57:13.4529639+00:00",
-  "LastUpdate_Ratings": "2023-11-09T09:00:23.7382988+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:04:55.9471231+00:00"
+  "LastUpdate_Ratings": "2023-11-09T10:00:25.5869795+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:04:36.9083704+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6931,9 +6931,9 @@
       "Count": 3773
     }
   ],
-  "EOS_Progressed": 138819,
+  "EOS_Progressed": 138821,
   "EOS_Completed": 179,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27636,6 +27636,11 @@
       "Time": "2023-11-09T09:05:23.539395+00:00",
       "NumProgressed": 138819,
       "NumCompleted": 179
+    },
+    {
+      "Time": "2023-11-09T10:05:02.5261119+00:00",
+      "NumProgressed": 138821,
+      "NumCompleted": 179
     }
   ],
   "TotalAchievements": 112,
@@ -27917,9 +27922,9 @@
       "ID": "craft02",
       "SetID": "anfd17p",
       "Name": "Flooding the Market",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1388
+      "UsersEstimate": 2776
     },
     {
       "ID": "craft03",
@@ -28525,9 +28530,9 @@
       "ID": "workers03",
       "SetID": "anfd17p",
       "Name": "Complete Monopoly",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1249
     },
     {
       "ID": "yami_a",
@@ -28542,15 +28547,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138819,
+      "Progressed": 138821,
       "Completed": 179
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-09T07:58:52.7434131+00:00",
-  "LastChanged_Achievements": "2023-11-09T09:05:23.5393945+00:00",
+  "LastChanged_Achievements": "2023-11-09T10:05:02.5261113+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:59:23.8801481+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:05:23.5396094+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:59:28.38457+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:05:02.5264636+00:00"
 }

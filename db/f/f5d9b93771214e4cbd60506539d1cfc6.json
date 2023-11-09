@@ -233,9 +233,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 151953,
+  "EOS_Progressed": 151955,
   "EOS_Completed": 326,
-  "EOS_NewPlayers": 1017,
+  "EOS_NewPlayers": 1016,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -17468,6 +17468,11 @@
       "Time": "2023-11-09T09:07:47.4273498+00:00",
       "NumProgressed": 151953,
       "NumCompleted": 326
+    },
+    {
+      "Time": "2023-11-09T10:07:13.7047404+00:00",
+      "NumProgressed": 151955,
+      "NumCompleted": 326
     }
   ],
   "TotalAchievements": 31,
@@ -17487,7 +17492,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 106367
+      "UsersEstimate": 106368
     },
     {
       "ID": "EAwards_10",
@@ -17495,7 +17500,7 @@
       "Name": "Combo Nerd",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 21273
+      "UsersEstimate": 21274
     },
     {
       "ID": "EAwards_11",
@@ -17503,7 +17508,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 31910
+      "UsersEstimate": 31911
     },
     {
       "ID": "EAwards_12",
@@ -17535,7 +17540,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18234
+      "UsersEstimate": 18235
     },
     {
       "ID": "EAwards_16",
@@ -17695,7 +17700,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 37988
+      "UsersEstimate": 37989
     },
     {
       "ID": "EAwards_7",
@@ -17719,14 +17724,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18234
+      "UsersEstimate": 18235
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 151953,
+      "Progressed": 151955,
       "Completed": 326
     }
   ],
@@ -17734,8 +17739,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-09T09:07:47.427349+00:00",
+  "LastChanged_Achievements": "2023-11-09T10:07:13.7047398+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:58.8508803+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:57:42.180395+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:07:47.4274472+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:57:48.114419+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:07:13.7048899+00:00"
 }

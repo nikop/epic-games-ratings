@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
@@ -457,7 +457,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1549473,
+  "EOS_Progressed": 1549479,
   "EOS_Completed": 720,
   "EOS_NewPlayers": 1267,
   "EOS_NewCompleters": 3,
@@ -23532,6 +23532,11 @@
       "Time": "2023-11-09T09:03:37.9033877+00:00",
       "NumProgressed": 1549473,
       "NumCompleted": 720
+    },
+    {
+      "Time": "2023-11-09T10:03:24.6976475+00:00",
+      "NumProgressed": 1549479,
+      "NumCompleted": 720
     }
   ],
   "TotalAchievements": 20,
@@ -23551,7 +23556,7 @@
       "Name": "Maverick",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 108463
+      "UsersEstimate": 108464
     },
     {
       "ID": "ACH_CUBIC_RUCKUS",
@@ -23559,7 +23564,7 @@
       "Name": "Bring the Cubic Ruckus",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30989
+      "UsersEstimate": 30990
     },
     {
       "ID": "ACH_DOUBLE_RAINBOW",
@@ -23615,7 +23620,7 @@
       "Name": "Jelly Donuts",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30989
+      "UsersEstimate": 30990
     },
     {
       "ID": "ACH_MAD_SKILLS",
@@ -23631,7 +23636,7 @@
       "Name": "Master Drifter",
       "Percentage": 2,
       "XP": 95,
-      "UsersEstimate": 30989
+      "UsersEstimate": 30990
     },
     {
       "ID": "ACH_MIDNIGHT_DRIFTER",
@@ -23639,7 +23644,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 154947
+      "UsersEstimate": 154948
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -23671,7 +23676,7 @@
       "Name": "Spin Doctor",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 30989
+      "UsersEstimate": 30990
     },
     {
       "ID": "ACH_THE_COMPLETIONIST",
@@ -23702,15 +23707,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1549473,
+      "Progressed": 1549479,
       "Completed": 720
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-11-09T09:03:37.9033873+00:00",
+  "LastChanged_Achievements": "2023-11-09T10:03:24.6976469+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:09.8871032+00:00",
-  "LastUpdate_Ratings": "2023-11-09T08:59:57.4362835+00:00",
-  "LastUpdate_Achievements": "2023-11-09T09:03:37.9035108+00:00"
+  "LastUpdate_Ratings": "2023-11-09T09:59:59.7116173+00:00",
+  "LastUpdate_Achievements": "2023-11-09T10:03:24.6978213+00:00"
 }
