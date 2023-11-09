@@ -4,7 +4,7 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 284,
   "Ranking_EOS_Completed": 166,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 584,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 426,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -917,9 +917,9 @@
       "ID": "EV_ACH01",
       "SetID": "6jeac23",
       "Name": "Blue Dreams",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 391
     },
     {
       "ID": "EV_ACH02",
@@ -933,9 +933,9 @@
       "ID": "EV_ACH03",
       "SetID": "6jeac23",
       "Name": "He\u0027s Famous!",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 385
+      "UsersEstimate": 391
     },
     {
       "ID": "EV_ACH04",
@@ -949,9 +949,9 @@
       "ID": "EV_ACH05",
       "SetID": "6jeac23",
       "Name": "Tear of Freedom",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 286
     },
     {
       "ID": "EV_ACH06",
@@ -989,9 +989,9 @@
       "ID": "EV_ACH10",
       "SetID": "6jeac23",
       "Name": "Family",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 181
+      "UsersEstimate": 187
     },
     {
       "ID": "EV_ACH11",
@@ -1085,9 +1085,9 @@
       "ID": "EV_ACH22",
       "SetID": "6jeac23",
       "Name": "Bullseye",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 193
     },
     {
       "ID": "EV_ACH23",
@@ -1213,9 +1213,9 @@
       "ID": "EV_ACH38",
       "SetID": "6jeac23",
       "Name": "Vertical Power",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 158
+      "UsersEstimate": 164
     },
     {
       "ID": "EV_ACH39",
@@ -1276,8 +1276,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:08:57.9943288+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:13:27.9215485+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-08T23:02:33.8412204+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:08:57.9943614+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:06:02.6422684+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:13:27.9215905+00:00"
 }

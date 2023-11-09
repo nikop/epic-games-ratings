@@ -5,10 +5,10 @@
   "Ranking_Rating": 64,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 170,
-  "Ranking_EOS_Progress": 139,
+  "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3203,9 +3203,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17249,
+  "EOS_Progressed": 17250,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13308,6 +13308,11 @@
       "Time": "2023-11-08T21:13:38.678795+00:00",
       "NumProgressed": 17249,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-09T00:07:23.6470115+00:00",
+      "NumProgressed": 17250,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13319,7 +13324,7 @@
       "Name": "Serving Ale",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "AllFood",
@@ -13391,7 +13396,7 @@
       "Name": "Refinery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Win5Years",
@@ -13407,7 +13412,7 @@
       "Name": "First Real Expedition",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "WinHard",
@@ -13471,7 +13476,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "WinNearFertile",
@@ -13487,7 +13492,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "WinNearForbidden",
@@ -13495,7 +13500,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "WinNearHaunted",
@@ -13541,9 +13546,9 @@
       "ID": "WinNearRuins",
       "SetID": "cfbk359",
       "Name": "Lost Colonies",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 862
     },
     {
       "ID": "WinNearStatue",
@@ -13559,7 +13564,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "WinNearTorrent",
@@ -13599,7 +13604,7 @@
       "Name": "The Marshlands",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "WinOnMoorlands",
@@ -13623,7 +13628,7 @@
       "Name": "The Queen\u0027s Chosen",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "WinVeryHard",
@@ -13655,7 +13660,7 @@
       "Name": "Taking Action",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "WinWithResolve",
@@ -13679,7 +13684,7 @@
       "Name": "Like a Machine",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "WinWithTradeRoutes",
@@ -13695,7 +13700,7 @@
       "Name": "No Deaths",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "WinWithoutOrders",
@@ -13703,7 +13708,7 @@
       "Name": "Defying the Crown",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "Year1Dangerous",
@@ -13711,22 +13716,22 @@
       "Name": "Into the Forest",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     }
   ],
   "AchievementSets": [
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17249,
+      "Progressed": 17250,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-07T21:58:31.8964785+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:03:06.0240309+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:07:23.6470109+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:59:04.4319885+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:03:06.0241519+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:03:51.7725757+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:07:23.6471843+00:00"
 }

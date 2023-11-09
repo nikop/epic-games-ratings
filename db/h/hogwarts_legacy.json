@@ -10147,10 +10147,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 47675,
       "NumberOfAwardsMax": 24120
+    },
+    {
+      "Time": "2023-11-09T00:01:42.4533134+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47696,
+      "NumberOfAwardsMax": 24120
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47675,
+  "NumberOfAwards": 47696,
   "NumberOfAwardsMax": 24120,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10164,13 +10170,13 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12213
+      "Count": 12230
     },
     {
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 1010
+      "Count": 1014
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10227,9 +10233,9 @@
       "Count": 769
     }
   ],
-  "EOS_Progressed": 301718,
+  "EOS_Progressed": 301719,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1588,
+  "EOS_NewPlayers": 1582,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -31972,6 +31978,11 @@
       "Time": "2023-11-08T23:08:57.5208598+00:00",
       "NumProgressed": 301718,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-09T00:13:27.2814531+00:00",
+      "NumProgressed": 301719,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -32031,7 +32042,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24137
+      "UsersEstimate": 24138
     },
     {
       "ID": "PFA_16",
@@ -32047,7 +32058,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24137
+      "UsersEstimate": 24138
     },
     {
       "ID": "PFA_18",
@@ -32055,7 +32066,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24137
+      "UsersEstimate": 24138
     },
     {
       "ID": "PFA_19",
@@ -32063,7 +32074,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24137
+      "UsersEstimate": 24138
     },
     {
       "ID": "PFA_2",
@@ -32342,16 +32353,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301718,
+      "Progressed": 301719,
       "Completed": 505
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-08T19:58:04.0749307+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:08:57.5208594+00:00",
+  "LastChanged": "2023-11-09T00:01:42.4533132+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:13:27.2814525+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:57:48.0118738+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:08:57.5209884+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:01:42.4533139+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:13:27.2816084+00:00"
 }

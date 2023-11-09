@@ -6285,9 +6285,9 @@
       "Count": 445
     }
   ],
-  "EOS_Progressed": 715198,
+  "EOS_Progressed": 715211,
   "EOS_Completed": 2359,
-  "EOS_NewPlayers": 4766,
+  "EOS_NewPlayers": 4745,
   "EOS_NewCompleters": 62,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29380,6 +29380,11 @@
       "Time": "2023-11-08T23:05:49.3205965+00:00",
       "NumProgressed": 715198,
       "NumCompleted": 2359
+    },
+    {
+      "Time": "2023-11-09T00:10:54.93974+00:00",
+      "NumProgressed": 715211,
+      "NumCompleted": 2359
     }
   ],
   "TotalAchievements": 51,
@@ -29751,7 +29756,7 @@
       "Name": "One of Us",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ach_dark_magic",
@@ -29775,7 +29780,7 @@
       "Name": "Pork Chopped",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29791,20 +29796,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715198,
+      "Progressed": 715211,
       "Completed": 2359
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 40740,
+      "Progressed": 40753,
       "Completed": 36497
     }
   ],
@@ -29812,8 +29817,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-08T21:58:33.0229559+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:05:49.3205962+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:10:54.9397393+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:58:24.505409+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:05:49.3207359+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:03:01.697017+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:10:54.9399398+00:00"
 }

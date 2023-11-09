@@ -5,23 +5,23 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~180 |
-| Battlefields Have Memories | 82.00% | ~170 |
-| Enlisted | 78.00% | ~161 |
-| Maybe Engage a Little | 74.00% | ~153 |
-| No More Names | 60.00% | ~124 |
-| Initiate | 49.00% | ~101 |
-| Thrada-Kul | 44.00% | ~91 |
-| Gravity-Challenged Rocks | 34.00% | ~70 |
-| Soldier | 29.00% | ~60 |
-| All the Major Food Groups | 29.00% | ~60 |
-| Socialite | 26.00% | ~54 |
-| Beggars Would Ride | 26.00% | ~54 |
-| Control is an Illusion | 25.00% | ~52 |
-| The Means to Save It | 21.00% | ~43 |
-| Resilience to Sin | 18.00% | ~37 |
-| A Familiar Nest | 17.00% | ~35 |
-| Periapt Alizarin | 17.00% | ~35 |
+| Unforeseen | 88.00% | ~184 |
+| Battlefields Have Memories | 83.00% | ~173 |
+| Enlisted | 78.00% | ~163 |
+| Maybe Engage a Little | 73.00% | ~153 |
+| No More Names | 60.00% | ~125 |
+| Initiate | 49.00% | ~102 |
+| Thrada-Kul | 44.00% | ~92 |
+| Gravity-Challenged Rocks | 34.00% | ~71 |
+| Soldier | 29.00% | ~61 |
+| All the Major Food Groups | 28.00% | ~59 |
+| Socialite | 25.00% | ~52 |
+| Beggars Would Ride | 25.00% | ~52 |
+| Control is an Illusion | 24.00% | ~50 |
+| The Means to Save It | 21.00% | ~44 |
+| Resilience to Sin | 18.00% | ~38 |
+| A Familiar Nest | 17.00% | ~36 |
+| Periapt Alizarin | 17.00% | ~36 |
 | Geas Aristeya | 16.00% | ~33 |
 | A Perfect Cycle | 15.00% | ~31 |
 | Armsman | 15.00% | ~31 |
@@ -29,9 +29,9 @@ Rating: 4.02 (Ranked 986)
 | Lights Army | 10.00% | ~21 |
 | Good Boy | 9.00% | ~19 |
 | Periapt Cerulean | 8.00% | ~17 |
-| Best Dressed | 6.00% | ~12 |
-| Periapt Viridian | 6.00% | ~12 |
-| Shroudfane Explorer | 6.00% | ~12 |
+| Best Dressed | 6.00% | ~13 |
+| Periapt Viridian | 6.00% | ~13 |
+| Shroudfane Explorer | 6.00% | ~13 |
 | Scholar | 4.00% | ~8 |
 | Armaments Azure | 4.00% | ~8 |
 | Armaments Gules | 4.00% | ~8 |
@@ -53,7 +53,7 @@ Rating: 4.02 (Ranked 986)
 | Tip of the Spear | 1.00% | ~2 |
 | Fowl Play | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207 (Ranked 365)  
+Progressed: 209 (Ranked 364)  
 Completed: 1 (0.48%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 1 (0.48%) (Ranked 197)
 | 2023-11-06 | 172 | 1 |
 | 2023-11-07 | 184 | 1 |
 | 2023-11-08 | 207 | 1 |
+| 2023-11-09 | 209 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

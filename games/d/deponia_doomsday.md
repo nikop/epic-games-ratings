@@ -5,35 +5,35 @@ Rating: 4.55 (Ranked 502)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Huzza, he's back. | 87.00% | ~394 |
-| And again, and again, and... | 64.00% | ~290 |
-| Burn, Elysium, burn! | 63.00% | ~285 |
+| Huzza, he's back. | 87.00% | ~395 |
+| And again, and again, and... | 64.00% | ~291 |
+| Burn, Elysium, burn! | 63.00% | ~286 |
 | Kuvaq Minigame-Master | 62.00% | ~281 |
-| FunScore | 55.00% | ~249 |
-| Funtime's over | 53.00% | ~240 |
-| Chunky | 51.00% | ~231 |
+| FunScore | 55.00% | ~250 |
+| Funtime's over | 53.00% | ~241 |
+| Chunky | 50.00% | ~227 |
 | Shall we play a game? | 49.00% | ~222 |
 | Boat of love, boat of love | 49.00% | ~222 |
 | School's out | 43.00% | ~195 |
-| Elysian Minigame-Master | 38.00% | ~172 |
-| Sole Music | 36.00% | ~163 |
+| Elysian Minigame-Master | 37.00% | ~168 |
 | Scaffolding Expert | 36.00% | ~163 |
+| Sole Music | 35.00% | ~159 |
 | No man left behind! | 30.00% | ~136 |
 | Portals come in packs | 30.00% | ~136 |
 | Photo Friend | 26.00% | ~118 |
 | Brainfreeze | 21.00% | ~95 |
 | And everything comes full circle. | 20.00% | ~91 |
 | Masseltov | 19.00% | ~86 |
-| Quickdraw | 16.00% | ~72 |
+| Quickdraw | 16.00% | ~73 |
 | Thuna...? | 15.00% | ~68 |
-| Monstrous Harassment | 14.00% | ~63 |
-| Heading the inverter | 14.00% | ~63 |
+| Monstrous Harassment | 14.00% | ~64 |
+| Heading the inverter | 14.00% | ~64 |
 | Blast from the Past | 12.00% | ~54 |
 | Play it again, Ronny | 11.00% | ~50 |
 | Paradox! | 10.00% | ~45 |
 | Goat Team | 9.00% | ~41 |
 | Weapons 101 | 8.00% | ~36 |
-| Sadist | 8.00% | ~36 |
+| Sadist | 7.00% | ~32 |
 | The customer is always right | 6.00% | ~27 |
 | Pacifist | 6.00% | ~27 |
 | Apoca...huh? | 6.00% | ~27 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 502)
 | Every man for himself! | 5.00% | ~23 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453 (Ranked 304)  
+Progressed: 454 (Ranked 303)  
 Completed: 6 (1.32%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,6 +111,7 @@ Completed: 6 (1.32%) (Ranked 145)
 | 2023-11-04 | 451 | 6 |
 | 2023-11-06 | 452 | 6 |
 | 2023-11-07 | 453 | 6 |
+| 2023-11-09 | 454 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

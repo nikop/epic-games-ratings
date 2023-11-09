@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7244,
+  "EOS_Progressed": 7245,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8300,6 +8300,11 @@
       "Time": "2023-11-08T22:06:12.2950235+00:00",
       "NumProgressed": 7244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T00:11:12.4616908+00:00",
+      "NumProgressed": 7245,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8415,7 +8420,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5578
+      "UsersEstimate": 5579
     },
     {
       "ID": "First_Race_Met",
@@ -8447,7 +8452,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5578
+      "UsersEstimate": 5579
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8631,7 +8636,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4346
+      "UsersEstimate": 4347
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8886,15 +8891,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7244,
+      "Progressed": 7245,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:06:03.5408927+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:11:12.4616902+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:58:00.6956851+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:06:03.540982+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:02:18.1590225+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:11:12.46184+00:00"
 }

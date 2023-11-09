@@ -6,22 +6,22 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~724,777 |
-| The Blues | 85.00% | ~622,283 |
-| Fast | 66.00% | ~483,185 |
-| Healthbar | 55.00% | ~402,654 |
-| Force Cube | 53.00% | ~388,012 |
-| Double Jump | 48.00% | ~351,407 |
-| Regeneration | 47.00% | ~344,086 |
-| Triple Jump | 43.00% | ~314,802 |
-| Climb the hill | 42.00% | ~307,481 |
-| Through the fire pipe | 39.00% | ~285,518 |
-| MacGuffin | 38.00% | ~278,197 |
-| Just once | 37.00% | ~270,876 |
-| Armor | 30.00% | ~219,629 |
-| True holy spirit | 28.00% | ~204,987 |
-| That's how electronics work obviously | 27.00% | ~197,666 |
-| Force Cube Catapult | 25.00% | ~183,024 |
+| Out of bed | 99.00% | ~724,779 |
+| The Blues | 85.00% | ~622,285 |
+| Fast | 66.00% | ~483,186 |
+| Healthbar | 55.00% | ~402,655 |
+| Force Cube | 53.00% | ~388,013 |
+| Double Jump | 48.00% | ~351,408 |
+| Regeneration | 47.00% | ~344,087 |
+| Triple Jump | 43.00% | ~314,803 |
+| Climb the hill | 42.00% | ~307,482 |
+| Through the fire pipe | 39.00% | ~285,519 |
+| MacGuffin | 38.00% | ~278,198 |
+| Just once | 37.00% | ~270,877 |
+| Armor | 30.00% | ~219,630 |
+| True holy spirit | 28.00% | ~204,988 |
+| That's how electronics work obviously | 27.00% | ~197,667 |
+| Force Cube Catapult | 25.00% | ~183,025 |
 | Holy Sword | 23.00% | ~168,383 |
 | Telefrag | 23.00% | ~168,383 |
 | Freed from prison | 21.00% | ~153,741 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~732 |
 | DLC: Top of the world | 0.10% | ~732 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,098 (Ranked 19)  
+Progressed: 732,100 (Ranked 19)  
 Completed: 759 (0.10%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,6 +308,7 @@ Completed: 759 (0.10%) (Ranked 268)
 | 2023-11-06 | 731,921 | 757 |
 | 2023-11-07 | 732,010 | 758 |
 | 2023-11-08 | 732,098 | 759 |
+| 2023-11-09 | 732,100 | 759 |
 ## Awards
 Max (Challenging Puzzles): 7,720  (Ranked 49)  
 Sum: 10,069 (Ranked 91)  

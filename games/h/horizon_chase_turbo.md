@@ -6,21 +6,21 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~964,803 |
-| I Need a Bigger Garage | 63.00% | ~675,362 |
-| Pump my Ride | 47.00% | ~503,841 |
-| Ghostbuster | 34.00% | ~364,481 |
-| Call Roadside Assistance | 18.00% | ~192,961 |
-| That Was Close | 18.00% | ~192,961 |
-| Quickie | 11.00% | ~117,920 |
-| California Dreamer | 7.00% | ~75,040 |
-| Can't Touch This | 5.00% | ~53,600 |
-| Carménère Taster | 4.00% | ~42,880 |
-| Comeback | 4.00% | ~42,880 |
-| Driver from Ipanema | 3.00% | ~32,160 |
-| Supersonic | 3.00% | ~32,160 |
-| Marathonist | 3.00% | ~32,160 |
-| Living Legend | 3.00% | ~32,160 |
+| The First of Many | 90.00% | ~964,817 |
+| I Need a Bigger Garage | 63.00% | ~675,372 |
+| Pump my Ride | 47.00% | ~503,849 |
+| Ghostbuster | 34.00% | ~364,486 |
+| Call Roadside Assistance | 18.00% | ~192,963 |
+| That Was Close | 18.00% | ~192,963 |
+| Quickie | 11.00% | ~117,922 |
+| California Dreamer | 7.00% | ~75,041 |
+| Can't Touch This | 5.00% | ~53,601 |
+| Carménère Taster | 4.00% | ~42,881 |
+| Comeback | 4.00% | ~42,881 |
+| Driver from Ipanema | 3.00% | ~32,161 |
+| Supersonic | 3.00% | ~32,161 |
+| Marathonist | 3.00% | ~32,161 |
+| Living Legend | 3.00% | ~32,161 |
 | God of Roads | 2.00% | ~21,440 |
 | Pathfinder | 2.00% | ~21,440 |
 | Go-Kart Champion | 2.00% | ~21,440 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,072 |
 | Look Mom, No Hands! | 0.10% | ~1,072 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,072,003 (Ranked 13)  
+Progressed: 1,072,019 (Ranked 13)  
 Completed: 481 (0.04%) (Ranked 304)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 481 (0.04%) (Ranked 304)
 | 2023-11-06 | 1,071,360 | 479 |
 | 2023-11-07 | 1,071,675 | 479 |
 | 2023-11-08 | 1,072,003 | 481 |
+| 2023-11-09 | 1,072,019 | 481 |
 ## Awards
 Max (Great for Beginners): 165  (Ranked 308)  
 Sum: 1,366 (Ranked 236)  

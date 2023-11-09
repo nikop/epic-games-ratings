@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3981,10 +3981,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4947,
       "NumberOfAwardsMax": 2914
+    },
+    {
+      "Time": "2023-11-09T00:03:12.8084584+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4948,
+      "NumberOfAwardsMax": 2914
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4947,
+  "NumberOfAwards": 4948,
   "NumberOfAwardsMax": 2914,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4028,7 +4034,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 257
+      "Count": 258
     },
     {
       "Text": "This game is Extremely Fun",
@@ -4049,9 +4055,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76175,
+  "EOS_Progressed": 76177,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 486,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -21949,6 +21955,11 @@
       "Time": "2023-11-08T23:05:58.0255685+00:00",
       "NumProgressed": 76175,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-09T00:11:05.6908551+00:00",
+      "NumProgressed": 76177,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22008,7 +22019,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17520
+      "UsersEstimate": 17521
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -22048,7 +22059,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11426
+      "UsersEstimate": 11427
     },
     {
       "ID": "CHALLENGES_1",
@@ -22112,7 +22123,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -22160,7 +22171,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -22184,7 +22195,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21329
+      "UsersEstimate": 21330
     },
     {
       "ID": "FREEZE_1_5",
@@ -22200,7 +22211,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14473
+      "UsersEstimate": 14474
     },
     {
       "ID": "FREEZE_3",
@@ -22264,7 +22275,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26661
+      "UsersEstimate": 26662
     },
     {
       "ID": "HARLEY_2",
@@ -22304,7 +22315,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38849
+      "UsersEstimate": 38850
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22336,7 +22347,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20567
+      "UsersEstimate": 20568
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -22344,7 +22355,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4570
+      "UsersEstimate": 4571
     },
     {
       "ID": "MYSTERY_01",
@@ -22368,7 +22379,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16758
+      "UsersEstimate": 16759
     },
     {
       "ID": "MYSTERY_04",
@@ -22392,7 +22403,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11426
+      "UsersEstimate": 11427
     },
     {
       "ID": "MYSTERY_07",
@@ -22447,22 +22458,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76175,
+      "Progressed": 76177,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46455,
+      "Progressed": 46457,
       "Completed": 2673
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-08T07:59:00.8733715+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:05:58.0255681+00:00",
+  "LastChanged": "2023-11-09T00:03:12.8084582+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:11:05.6908544+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:58:32.3699698+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:05:58.0256966+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:03:12.8084588+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:11:05.6910678+00:00"
 }

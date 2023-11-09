@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19470,
+  "EOS_Progressed": 19471,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -16438,6 +16438,11 @@
       "Time": "2023-11-08T23:05:15.7166616+00:00",
       "NumProgressed": 19470,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-09T00:10:12.6440224+00:00",
+      "NumProgressed": 19471,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -16505,7 +16510,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10319
+      "UsersEstimate": 10320
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -16513,7 +16518,7 @@
       "Name": "In For The Kill",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2336
+      "UsersEstimate": 2337
     },
     {
       "ID": "ACH_IN_MY_OWN_TIME",
@@ -16560,15 +16565,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19470,
+      "Progressed": 19471,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:05:15.7166613+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:10:12.6440217+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:02.0209795+00:00",
-  "LastUpdate_Ratings": "2023-11-08T23:00:14.8501894+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:05:15.7167462+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:05:19.9084785+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:10:12.644121+00:00"
 }

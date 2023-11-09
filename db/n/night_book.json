@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -448,9 +448,9 @@
       "ID": "personal_life",
       "SetID": "a3kkelb",
       "Name": "Personal Life",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "save_dad",
@@ -505,8 +505,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:03:51.530089+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:08:28.6907078+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.4190966+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:59:11.5586629+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:03:51.5301203+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:04:00.1053674+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:08:28.690732+00:00"
 }

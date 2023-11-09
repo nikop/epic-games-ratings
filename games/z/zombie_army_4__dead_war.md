@@ -6,42 +6,42 @@ Number of Ratings: 743  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 69.00% | ~30,223 |
-| Say goodbye, creep! | 66.00% | ~28,909 |
-| Blood splattered | 66.00% | ~28,909 |
-| Choo choo! | 63.00% | ~27,595 |
-| Groovy | 62.00% | ~27,157 |
-| Cleanup on aisle 4! | 57.00% | ~24,967 |
-| Gold | 51.00% | ~22,339 |
-| The boat can leave now...tell the crew | 49.00% | ~21,462 |
-| Give me something to shoot! | 47.00% | ~20,586 |
-| Stand back boy! | 47.00% | ~20,586 |
-| Chain reaction | 45.00% | ~19,710 |
-| Weird science | 44.00% | ~19,272 |
-| Look mummy! A shark! | 42.00% | ~18,396 |
-| What did you say, Blain? | 42.00% | ~18,396 |
-| In the dark dark woods... | 39.00% | ~17,082 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,644 |
-| Double tap | 37.00% | ~16,206 |
-| Cranial blowout! | 37.00% | ~16,206 |
-| All of this has happened before… | 36.00% | ~15,768 |
-| Zombie killin' machine | 36.00% | ~15,768 |
-| Every bullet counts | 36.00% | ~15,768 |
-| All roads lead to Rome | 34.00% | ~14,892 |
-| You've got red on you | 34.00% | ~14,892 |
-| You're all going to die down here | 32.00% | ~14,016 |
-| He did Nazi that coming | 32.00% | ~14,016 |
-| Kill of the week | 31.00% | ~13,578 |
-| I never liked them anyway | 30.00% | ~13,140 |
-| Is it over? | 28.00% | ~12,264 |
-| Got your back | 27.00% | ~11,826 |
-| Gore soaked | 24.00% | ~10,512 |
-| Shock therapy | 23.00% | ~10,074 |
-| Leave the limbs you've lost | 23.00% | ~10,074 |
-| Everyone's a mad scientist, life is the lab | 19.00% | ~8,322 |
-| Take them down screaming | 18.00% | ~7,884 |
-| Bad Blood | 17.00% | ~7,446 |
-| Weapons expert | 17.00% | ~7,446 |
+| Shoot it, man! Shoot it in the head! | 69.00% | ~30,224 |
+| Say goodbye, creep! | 66.00% | ~28,910 |
+| Blood splattered | 66.00% | ~28,910 |
+| Choo choo! | 63.00% | ~27,596 |
+| Groovy | 62.00% | ~27,158 |
+| Cleanup on aisle 4! | 57.00% | ~24,968 |
+| Gold | 51.00% | ~22,340 |
+| The boat can leave now...tell the crew | 49.00% | ~21,463 |
+| Give me something to shoot! | 47.00% | ~20,587 |
+| Stand back boy! | 47.00% | ~20,587 |
+| Chain reaction | 45.00% | ~19,711 |
+| Weird science | 44.00% | ~19,273 |
+| What did you say, Blain? | 42.00% | ~18,397 |
+| Look mummy! A shark! | 41.00% | ~17,959 |
+| In the dark dark woods... | 39.00% | ~17,083 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,645 |
+| Double tap | 37.00% | ~16,207 |
+| Cranial blowout! | 37.00% | ~16,207 |
+| All of this has happened before… | 36.00% | ~15,769 |
+| Zombie killin' machine | 36.00% | ~15,769 |
+| Every bullet counts | 36.00% | ~15,769 |
+| All roads lead to Rome | 34.00% | ~14,893 |
+| You've got red on you | 34.00% | ~14,893 |
+| You're all going to die down here | 32.00% | ~14,017 |
+| He did Nazi that coming | 32.00% | ~14,017 |
+| Kill of the week | 31.00% | ~13,579 |
+| I never liked them anyway | 30.00% | ~13,141 |
+| Is it over? | 28.00% | ~12,265 |
+| Got your back | 27.00% | ~11,827 |
+| Gore soaked | 24.00% | ~10,513 |
+| Shock therapy | 23.00% | ~10,075 |
+| Leave the limbs you've lost | 23.00% | ~10,075 |
+| Everyone's a mad scientist, life is the lab | 19.00% | ~8,323 |
+| Take them down screaming | 18.00% | ~7,885 |
+| Bad Blood | 17.00% | ~7,447 |
+| Weapons expert | 17.00% | ~7,447 |
 | The bigger they are... | 15.00% | ~6,570 |
 | I'm going deeper underground | 14.00% | ~6,132 |
 | Well equipped | 13.00% | ~5,694 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~438 |
 | None more hard | 0.50% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,801 (Ranked 114)  
+Progressed: 43,803 (Ranked 114)  
 Completed: 25 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -276,6 +276,7 @@ Completed: 25 (0.06%) (Ranked 290)
 | 2023-11-06 | 43,793 | 25 |
 | 2023-11-07 | 43,799 | 25 |
 | 2023-11-08 | 43,801 | 25 |
+| 2023-11-09 | 43,803 | 25 |
 ## Awards
 Max (Great Boss Battles): 850  (Ranked 162)  
 Sum: 2,552 (Ranked 186)  

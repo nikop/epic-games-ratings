@@ -6,16 +6,17 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Real Expedition | 7.00% | ~1,207 |
-| The Marshlands | 7.00% | ~1,207 |
-| Taking Action | 7.00% | ~1,207 |
-| No Deaths | 7.00% | ~1,207 |
+| First Real Expedition | 7.00% | ~1,208 |
+| The Marshlands | 7.00% | ~1,208 |
+| Taking Action | 7.00% | ~1,208 |
+| No Deaths | 7.00% | ~1,208 |
 | Overcoming Difficulty | 6.00% | ~1,035 |
 | Coral Forest | 6.00% | ~1,035 |
 | The Scarlet Orchard | 6.00% | ~1,035 |
 | Ancient Battleground | 5.00% | ~862 |
 | Fertile Meadows | 5.00% | ~862 |
 | Royal Outpost | 5.00% | ~862 |
+| Lost Colonies | 5.00% | ~862 |
 | Watchtower | 5.00% | ~862 |
 | A Real Challenge | 5.00% | ~862 |
 | Homesick | 4.00% | ~690 |
@@ -28,20 +29,19 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 4.00% | ~690 |
 | Flooded Mines | 4.00% | ~690 |
 | Monastery of the Holy Flame | 4.00% | ~690 |
-| Lost Colonies | 4.00% | ~690 |
 | Statue of the Forefathers | 4.00% | ~690 |
 | Corrosive Torrent | 4.00% | ~690 |
 | Cursed Lands | 4.00% | ~690 |
 | Trade Baron | 4.00% | ~690 |
-| Serving Ale | 3.00% | ~517 |
-| Refinery | 3.00% | ~517 |
-| Dangerous Lands | 3.00% | ~517 |
-| Fishmen Ritual Site | 3.00% | ~517 |
-| Forbidden Lands | 3.00% | ~517 |
-| Forsaken Gods Temple | 3.00% | ~517 |
-| Like a Machine | 3.00% | ~517 |
-| Defying the Crown | 3.00% | ~517 |
-| Into the Forest | 3.00% | ~517 |
+| Serving Ale | 3.00% | ~518 |
+| Refinery | 3.00% | ~518 |
+| Dangerous Lands | 3.00% | ~518 |
+| Fishmen Ritual Site | 3.00% | ~518 |
+| Forbidden Lands | 3.00% | ~518 |
+| Forsaken Gods Temple | 3.00% | ~518 |
+| Like a Machine | 3.00% | ~518 |
+| Defying the Crown | 3.00% | ~518 |
+| Into the Forest | 3.00% | ~518 |
 | Feeding The People | 2.00% | ~345 |
 | Efficient Explorer | 2.00% | ~345 |
 | Victory through Prosperity | 2.00% | ~345 |
@@ -50,14 +50,14 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.90% | ~155 |
 | Human Utopia | 0.80% | ~138 |
 | Beaver Utopia | 0.70% | ~121 |
-| The Queen's Chosen | 0.60% | ~103 |
+| The Queen's Chosen | 0.60% | ~104 |
 | Harpy Utopia | 0.50% | ~86 |
 | Ruins | 0.50% | ~86 |
 | Treasure | 0.40% | ~69 |
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,249 (Ranked 139)  
+Progressed: 17,250 (Ranked 140)  
 Completed: 53 (0.31%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,6 +260,7 @@ Completed: 53 (0.31%) (Ranked 222)
 | 2023-11-06 | 17,229 | 53 |
 | 2023-11-07 | 17,238 | 53 |
 | 2023-11-08 | 17,249 | 53 |
+| 2023-11-09 | 17,250 | 53 |
 ## Awards
 Max (Quickly Understood Controls): 439  (Ranked 217)  
 Sum: 3,212 (Ranked 170)  

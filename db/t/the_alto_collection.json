@@ -2,13 +2,13 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 212,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 341,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 321,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -814,9 +814,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 45673,
+  "EOS_Progressed": 45674,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 935,
+  "EOS_NewPlayers": 931,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -23669,6 +23669,11 @@
       "Time": "2023-11-08T23:03:49.4055295+00:00",
       "NumProgressed": 45673,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T00:08:26.0949106+00:00",
+      "NumProgressed": 45674,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -23800,7 +23805,7 @@
       "Name": "Nomad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7764
+      "UsersEstimate": 7765
     },
     {
       "ID": "novice",
@@ -23991,15 +23996,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 45673,
+      "Progressed": 45674,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2023-11-05T18:00:57.4223088+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:03:49.4055292+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:08:26.09491+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.4734423+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:57:41.9064809+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:03:49.4056517+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:01:21.7041004+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:08:26.0951409+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 749,
+  "EOS_Progressed": 750,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2171,6 +2171,11 @@
       "Time": "2023-11-08T16:08:47.1120117+00:00",
       "NumProgressed": 749,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-09T00:12:44.6335171+00:00",
+      "NumProgressed": 750,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2182,7 +2187,7 @@
       "Name": "Extensive retelling",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "BadApple",
@@ -2222,7 +2227,7 @@
       "Name": "Loremaster",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Extremist",
@@ -2238,7 +2243,7 @@
       "Name": "Sneak peek",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Favourite",
@@ -2254,7 +2259,7 @@
       "Name": "Fishing fanatic",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Goal",
@@ -2270,7 +2275,7 @@
       "Name": "Gold rush",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "GossipGirl",
@@ -2278,7 +2283,7 @@
       "Name": "The word around is...",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "HeadOnHerShoulders",
@@ -2326,7 +2331,7 @@
       "Name": "The cycle acknowledged",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "NoMoreWards",
@@ -2334,7 +2339,7 @@
       "Name": "Awards unwarded",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Queen",
@@ -2342,7 +2347,7 @@
       "Name": "Queen",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Rats",
@@ -2358,7 +2363,7 @@
       "Name": "Slavic squatter",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "Specialist",
@@ -2382,7 +2387,7 @@
       "Name": "Baba Yaga",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ToadCharming",
@@ -2398,7 +2403,7 @@
       "Name": "Tooth fairy",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Toxic",
@@ -2422,7 +2427,7 @@
       "Name": "Forbidden techniques",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "YagaProfessional",
@@ -2437,7 +2442,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 749,
+      "Progressed": 750,
       "Completed": 1
     }
   ],
@@ -2445,8 +2450,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:08:46.6696593+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:12:44.6335165+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:31.5200978+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:58:24.8837197+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:08:46.6696879+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:03:02.8897569+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:12:44.6335565+00:00"
 }

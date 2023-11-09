@@ -5,24 +5,24 @@ Rating: 4.68 (Ranked 252)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tooth fairy | 25.00% | ~187 |
+| Tooth fairy | 25.00% | ~188 |
 | Dental maturity | 20.00% | ~150 |
 | Devil's in the details | 15.00% | ~112 |
 | Uprooting | 14.00% | ~105 |
-| Forbidden techniques | 13.00% | ~97 |
+| Forbidden techniques | 13.00% | ~98 |
 | Devoted | 10.00% | ~75 |
-| Slavic squatter | 9.00% | ~67 |
+| Slavic squatter | 9.00% | ~68 |
 | Spirit animal | 8.00% | ~60 |
-| Gold rush | 7.00% | ~52 |
+| Gold rush | 7.00% | ~53 |
 | Liar Liar | 6.00% | ~45 |
 | A friend in need... | 6.00% | ~45 |
-| Extensive retelling | 5.00% | ~37 |
-| Sneak peek | 5.00% | ~37 |
-| Fishing fanatic | 5.00% | ~37 |
-| The word around is... | 5.00% | ~37 |
-| The cycle acknowledged | 5.00% | ~37 |
-| Queen | 5.00% | ~37 |
-| Baba Yaga | 5.00% | ~37 |
+| Extensive retelling | 5.00% | ~38 |
+| Sneak peek | 5.00% | ~38 |
+| Fishing fanatic | 5.00% | ~38 |
+| The word around is... | 5.00% | ~38 |
+| The cycle acknowledged | 5.00% | ~38 |
+| Queen | 5.00% | ~38 |
+| Baba Yaga | 5.00% | ~38 |
 | Favorite | 4.00% | ~30 |
 | Goal! | 3.00% | ~22 |
 | Both sides | 3.00% | ~22 |
@@ -33,12 +33,12 @@ Rating: 4.68 (Ranked 252)
 | Witch's cookbook | 3.00% | ~22 |
 | Bad apple | 2.00% | ~15 |
 | Gnowlledgeable | 2.00% | ~15 |
-| Loremaster | 1.00% | ~7 |
-| Awards unwarded | 1.00% | ~7 |
+| Loremaster | 1.00% | ~8 |
+| Awards unwarded | 1.00% | ~8 |
 | Mushrooming enthusiast | 0.70% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 749 (Ranked 269)  
+Progressed: 750 (Ranked 269)  
 Completed: 1 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,6 +203,7 @@ Completed: 1 (0.13%) (Ranked 257)
 | 2023-11-06 | 744 | 1 |
 | 2023-11-07 | 748 | 1 |
 | 2023-11-08 | 749 | 1 |
+| 2023-11-09 | 750 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

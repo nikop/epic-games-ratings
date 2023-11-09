@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 449,
   "Ranking_EOS_Progress": 56,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -477,9 +477,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 251472,
+  "EOS_Progressed": 251473,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23122,6 +23122,11 @@
       "Time": "2023-11-08T22:05:33.281163+00:00",
       "NumProgressed": 251472,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-09T00:10:26.3413886+00:00",
+      "NumProgressed": 251473,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23133,7 +23138,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67897
+      "UsersEstimate": 67898
     },
     {
       "ID": "ACH_AON",
@@ -23213,7 +23218,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22632
+      "UsersEstimate": 22633
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -23548,7 +23553,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251472,
+      "Progressed": 251473,
       "Completed": 7
     }
   ],
@@ -23556,8 +23561,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:05:26.5882305+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:10:26.3413876+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.5962658+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:58:46.1024252+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:05:26.5883704+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:03:29.1708607+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:10:26.34159+00:00"
 }

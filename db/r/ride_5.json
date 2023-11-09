@@ -2,10 +2,10 @@
   "ID": "82aa77fde0b14916a86b66b1e6345c30",
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
-  "Ranking_EOS_Progress": 217,
+  "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2060,
+  "EOS_Progressed": 2061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4567,6 +4567,11 @@
       "Time": "2023-11-08T22:09:14.3623917+00:00",
       "NumProgressed": 2060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T00:13:44.7681204+00:00",
+      "NumProgressed": 2061,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4587,7 +4592,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4611,7 +4616,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4635,7 +4640,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4651,7 +4656,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4667,7 +4672,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4875,7 +4880,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4883,7 +4888,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -4970,14 +4975,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2060,
+      "Progressed": 2061,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:09:11.2279611+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:13:44.7681198+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:57:22.3614264+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:09:11.2280125+00:00"
+  "LastUpdate_Ratings": "2023-11-08T23:59:24.0353434+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:13:44.768197+00:00"
 }

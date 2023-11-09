@@ -5,10 +5,10 @@
   "Ranking_Rating": 502,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
-  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 453,
+  "EOS_Progressed": 454,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -560,6 +560,11 @@
       "Time": "2023-11-07T16:03:44.903819+00:00",
       "NumProgressed": 453,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-09T00:08:43.8517248+00:00",
+      "NumProgressed": 454,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -571,15 +576,15 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "dep4_achievement_10",
       "SetID": "5d32b60",
       "Name": "Sole Music",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 163
+      "UsersEstimate": 159
     },
     {
       "ID": "dep4_achievement_11",
@@ -603,7 +608,7 @@
       "Name": "Quickdraw",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "dep4_achievement_14",
@@ -641,9 +646,9 @@
       "ID": "dep4_achievement_18",
       "SetID": "5d32b60",
       "Name": "Chunky",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 227
     },
     {
       "ID": "dep4_achievement_19",
@@ -651,7 +656,7 @@
       "Name": "FunScore",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "dep4_achievement_2",
@@ -659,15 +664,15 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "dep4_achievement_20",
       "SetID": "5d32b60",
       "Name": "Sadist",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 32
     },
     {
       "ID": "dep4_achievement_21",
@@ -707,7 +712,7 @@
       "Name": "Monstrous Harassment",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "dep4_achievement_26",
@@ -747,15 +752,15 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "dep4_achievement_30",
       "SetID": "5d32b60",
       "Name": "Elysian Minigame-Master",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 172
+      "UsersEstimate": 168
     },
     {
       "ID": "dep4_achievement_31",
@@ -779,7 +784,7 @@
       "Name": "Heading the inverter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "dep4_achievement_34",
@@ -811,7 +816,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "dep4_achievement_5",
@@ -858,7 +863,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 453,
+      "Progressed": 454,
       "Completed": 6
     }
   ],
@@ -866,8 +871,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:04:03.8653859+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:08:43.8517242+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8280786+00:00",
-  "LastUpdate_Ratings": "2023-11-08T23:00:19.034712+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:04:03.8654106+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:05:27.4338394+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:08:43.8517551+00:00"
 }

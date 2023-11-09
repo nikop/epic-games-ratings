@@ -248,8 +248,8 @@ Completed: 35 (0.15%) (Ranked 256)
 | 2023-11-07 | 23,467 | 35 |
 | 2023-11-08 | 23,470 | 35 |
 ## Awards
-Max (Extremely Fun): 222  (Ranked 274)  
-Sum: 1,701 (Ranked 220)  
+Max (Extremely Fun): 222  (Ranked 275)  
+Sum: 1,701 (Ranked 221)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |

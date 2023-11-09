@@ -22,10 +22,10 @@ Rating: 4.76 (Ranked 124)
 | Followed the Butterflies | 10.00% | ~30,172 |
 | The Spell Master | 9.00% | ~27,155 |
 | Rising From the Ashes | 9.00% | ~27,155 |
-| The Avenging Gazelle | 8.00% | ~24,137 |
-| Beast Friends | 8.00% | ~24,137 |
-| A Sallow Grave | 8.00% | ~24,137 |
-| Flight the Good Flight | 8.00% | ~24,137 |
+| The Avenging Gazelle | 8.00% | ~24,138 |
+| Beast Friends | 8.00% | ~24,138 |
+| A Sallow Grave | 8.00% | ~24,138 |
+| Flight the Good Flight | 8.00% | ~24,138 |
 | The Seeker of Knowledge | 6.00% | ~18,103 |
 | The Root of the Problem | 6.00% | ~18,103 |
 | Third Time's a Charm | 6.00% | ~18,103 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 124)
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,718 (Ranked 50)  
+Progressed: 301,719 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,14 +254,15 @@ Completed: 505 (0.17%) (Ranked 251)
 | 2023-11-06 | 301,400 | 502 |
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
+| 2023-11-09 | 301,719 | 505 |
 ## Awards
 Max (Character Customization): 24,120  (Ranked 17)  
-Sum: 47,675 (Ranked 30)  
+Sum: 47,696 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,120 |
-| This game has Great Boss Battles | 12,213 |
+| This game has Great Boss Battles | 12,230 |
 | This game is Great for Beginners | 1,275 |
 | This game has Amazing Storytelling | 1,226 |
 | This game has Diverse Characters | 1,219 |
@@ -270,7 +271,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 1,186 |
 | This game is Highly Recommended | 1,149 |
 | This game has Quickly Understood Controls | 1,089 |
-| This game has Beautiful Visuals | 1,010 |
+| This game has Beautiful Visuals | 1,014 |
 | This game has a Creative Community | 769 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -505,3 +506,4 @@ Diff (max vs sum): -13
 | 2023-11-06 | 4.76 | 24,092 | 47,578 |
 | 2023-11-07 | 4.76 | 24,120 | 47,655 |
 | 2023-11-08 | 4.76 | 24,120 | 47,675 |
+| 2023-11-09 | 4.76 | 24,120 | 47,696 |

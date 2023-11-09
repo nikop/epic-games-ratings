@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4441,
+  "EOS_Progressed": 4444,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 714,
   "EOS_NewCompleters": 2,
@@ -2521,6 +2521,11 @@
       "Time": "2023-11-08T23:08:40.7598502+00:00",
       "NumProgressed": 4441,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-09T00:12:37.3032403+00:00",
+      "NumProgressed": 4444,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2605,7 +2610,7 @@
       "Name": "First Time?",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2613,7 +2618,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "GarbageMan",
@@ -2685,7 +2690,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "NotLikeTheOthers",
@@ -2804,7 +2809,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4441,
+      "Progressed": 4444,
       "Completed": 5
     }
   ],
@@ -2812,8 +2817,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:08:40.7598498+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:12:37.3032397+00:00",
   "LastUpdate_AppInfo": "2023-11-02T11:57:17.9235167+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:59:40.1258864+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:08:40.7598852+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:04:35.8779419+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:12:37.3032823+00:00"
 }

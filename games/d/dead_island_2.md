@@ -6,8 +6,8 @@ Rating: 4.54 (Ranked 523)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 2.00% | ~815 |
-| One of Us | 1.00% | ~407 |
-| Pork Chopped | 1.00% | ~407 |
+| One of Us | 1.00% | ~408 |
+| Pork Chopped | 1.00% | ~408 |
 | Welcome To Hell-A | 0.60% | ~4,291 |
 | Break A Leg | 0.50% | ~3,576 |
 | Hotel California | 0.50% | ~3,576 |
@@ -44,7 +44,7 @@ Rating: 4.54 (Ranked 523)
 | Go, Bobcats! | 0.20% | ~1,430 |
 | Variety is the Spice of Death | 0.20% | ~1,430 |
 | Rising Star | 0.20% | ~1,430 |
-| Top That, Tisha! | 0.20% | ~81 |
+| Top That, Tisha! | 0.20% | ~82 |
 | Make it So | 0.10% | ~715 |
 | LA Influential | 0.10% | ~715 |
 | Smorgasbord | 0.10% | ~715 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,198 (Ranked 21)  
+Progressed: 715,211 (Ranked 21)  
 Completed: 2,359 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,6 +260,7 @@ Completed: 2,359 (0.33%) (Ranked 219)
 | 2023-11-06 | 714,161 | 2,349 |
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
+| 2023-11-09 | 715,211 | 2,359 |
 ## Awards
 Max (Great Boss Battles): 7,208  (Ranked 54)  
 Sum: 10,930 (Ranked 87)  

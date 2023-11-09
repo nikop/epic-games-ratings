@@ -33,6 +33,7 @@ Rating: 4.60 (Ranked 411)
 | Seat of Power | 0.10% | ~5 |
 | In a Liege of Your Own | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
+| Manufactured War | 0.10% | ~5 |
 | Impenetrable Fortress | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
 | Intimidation Tactics | 0.10% | ~5 |
@@ -57,7 +58,6 @@ Rating: 4.60 (Ranked 411)
 | God Emperor | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Fiery Friend | 0.00% | ~0 |
-| Manufactured War | 0.00% | ~0 |
 | Jack of All Tomes | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |

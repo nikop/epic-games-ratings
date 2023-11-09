@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77887,
+  "EOS_Progressed": 77888,
   "EOS_Completed": 831,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -22747,6 +22747,11 @@
       "Time": "2023-11-08T23:03:59.6144398+00:00",
       "NumProgressed": 77887,
       "NumCompleted": 831
+    },
+    {
+      "Time": "2023-11-09T00:08:38.5661851+00:00",
+      "NumProgressed": 77888,
+      "NumCompleted": 831
     }
   ],
   "TotalAchievements": 25,
@@ -22806,7 +22811,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3115
+      "UsersEstimate": 3116
     },
     {
       "ID": "Cut Call",
@@ -22830,7 +22835,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15577
+      "UsersEstimate": 15578
     },
     {
       "ID": "Hearty",
@@ -22926,7 +22931,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3115
+      "UsersEstimate": 3116
     },
     {
       "ID": "Taco Toto",
@@ -22957,7 +22962,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 77887,
+      "Progressed": 77888,
       "Completed": 831
     }
   ],
@@ -22965,8 +22970,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:03:59.6144395+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:08:38.5661844+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-08T23:00:18.6855654+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:03:59.6145539+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:05:27.0121965+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:08:38.5663276+00:00"
 }

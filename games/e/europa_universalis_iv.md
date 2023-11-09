@@ -35,6 +35,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cold War | 0.10% | ~450 |
 | Combined Arms | 0.10% | ~450 |
 | Consulate of the Sea | 0.10% | ~450 |
+| Cowardly Tactics | 0.10% | ~450 |
 | Czechs and Balances | 0.10% | ~450 |
 | David the Builder | 0.10% | ~450 |
 | Defender of the Faith | 0.10% | ~450 |
@@ -51,6 +52,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Factionalism | 0.10% | ~450 |
 | Fine Financials | 0.10% | ~450 |
 | A Fine Goosestep | 0.10% | ~450 |
+| The First Toungoo Empire | 0.10% | ~450 |
 | For the Glory | 0.10% | ~450 |
 | Forgive me, for I have Sindh | 0.10% | ~450 |
 | Four For Trade | 0.10% | ~450 |
@@ -79,6 +81,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Just Resting In My Account | 0.10% | ~450 |
 | A Kaiser not just in name | 0.10% | ~450 |
 | King of Jerusalem | 0.10% | ~450 |
+| Kingdom of God | 0.10% | ~450 |
 | Liberty or Death | 0.10% | ~450 |
 | Live Long and Prosper | 0.10% | ~450 |
 | Luck of the Irish | 0.10% | ~450 |
@@ -193,7 +196,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
 | Cotton Kandy | 0.00% | ~0 |
-| Cowardly Tactics | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
 | Dar al-Islam | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
@@ -206,7 +208,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
-| The First Toungoo Empire | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
 | For the Emperor! | 0.00% | ~0 |
 | Forever Golden | 0.00% | ~0 |
@@ -239,7 +240,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Jihad | 0.00% | ~0 |
 | Keep the Flame Burning | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
-| Kingdom of God | 0.00% | ~0 |
 | Kinslayer | 0.00% | ~0 |
 | Kirishitan Japan | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mets Hayk | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,161 (Ranked 41)  
+Progressed: 450,176 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -573,6 +573,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-06 | 448,846 | 1 |
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
+| 2023-11-09 | 450,176 | 1 |
 ## Awards
 Max (Educational): 6,903  (Ranked 55)  
 Sum: 56,787 (Ranked 24)  

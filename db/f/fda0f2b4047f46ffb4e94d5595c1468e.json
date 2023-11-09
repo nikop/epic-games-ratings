@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2319,7 +2319,7 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 8361,
+  "EOS_Progressed": 8362,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -7304,6 +7304,11 @@
       "Time": "2023-11-08T23:05:44.3195472+00:00",
       "NumProgressed": 8361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-09T00:10:48.8113815+00:00",
+      "NumProgressed": 8362,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7316,7 +7321,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2926
+      "UsersEstimate": 2927
     },
     {
       "ID": "ach02",
@@ -7330,9 +7335,9 @@
       "ID": "ach03",
       "SetID": "47in8n6",
       "Name": "A New Timeline",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 3930
+      "UsersEstimate": 3847
     },
     {
       "ID": "ach04",
@@ -7340,7 +7345,7 @@
       "Name": "What Just Happened??",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ach05",
@@ -7356,7 +7361,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6271
+      "UsersEstimate": 6272
     },
     {
       "ID": "ach07",
@@ -7364,7 +7369,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4682
+      "UsersEstimate": 4683
     },
     {
       "ID": "ach08",
@@ -7396,7 +7401,7 @@
       "Name": "Karnage",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "ach12",
@@ -7428,7 +7433,7 @@
       "Name": "Give A Koin",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "ach16",
@@ -7444,7 +7449,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4431
+      "UsersEstimate": 4432
     },
     {
       "ID": "ach18",
@@ -7500,7 +7505,7 @@
       "Name": "Ultimate Power",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3846
+      "UsersEstimate": 3847
     },
     {
       "ID": "ach25",
@@ -7564,7 +7569,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "ach33",
@@ -7604,7 +7609,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4849
+      "UsersEstimate": 4850
     },
     {
       "ID": "ach38",
@@ -7652,7 +7657,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     },
     {
       "ID": "ach44",
@@ -7684,7 +7689,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "ach48",
@@ -7715,7 +7720,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8361,
+      "Progressed": 8362,
       "Completed": 0
     }
   ],
@@ -7723,8 +7728,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-08T21:10:12.1771767+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:05:44.319547+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:10:48.8113808+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-08T22:58:51.8665656+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:05:44.319599+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:03:35.7005355+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:10:48.8114685+00:00"
 }

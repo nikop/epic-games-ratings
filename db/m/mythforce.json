@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 606,
   "Ranking_Popularity": 469,
-  "Ranking_PopularitySum": 365,
+  "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 290,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4742,
+  "EOS_Progressed": 4743,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 151,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8910,6 +8910,11 @@
       "Time": "2023-11-08T21:19:38.0829211+00:00",
       "NumProgressed": 4742,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-09T00:13:41.8853761+00:00",
+      "NumProgressed": 4743,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9042,7 +9047,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9105,15 +9110,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4742,
+      "Progressed": 4743,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-08T23:09:09.127974+00:00",
+  "LastChanged_Achievements": "2023-11-09T00:13:41.8853753+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-08T23:02:37.0355544+00:00",
-  "LastUpdate_Achievements": "2023-11-08T23:09:09.1280237+00:00"
+  "LastUpdate_Ratings": "2023-11-09T00:06:08.5742141+00:00",
+  "LastUpdate_Achievements": "2023-11-09T00:13:41.8854583+00:00"
 }

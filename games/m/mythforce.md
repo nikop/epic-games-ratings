@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 607)  
+Rating: 4.49 (Ranked 606)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 285  (23.09.2022)
 | Horder Better Faster Stronger | 17.00% | ~806 |
 | Ten Steps from the Grave | 15.00% | ~711 |
 | Everything Must Go! | 14.00% | ~664 |
-| Next Time on MythForce... | 13.00% | ~616 |
+| Next Time on MythForce... | 13.00% | ~617 |
 | Cold-Blooded Critters | 10.00% | ~474 |
 | Death Becomes You | 8.00% | ~379 |
 | Flawless Victory | 6.00% | ~285 |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~19 |
 | Deadalus and Loving It | 0.20% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,742 (Ranked 186)  
+Progressed: 4,743 (Ranked 186)  
 Completed: 3 (0.06%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,10 +147,11 @@ Completed: 3 (0.06%) (Ranked 290)
 | 2023-11-06 | 4,704 | 3 |
 | 2023-11-07 | 4,724 | 3 |
 | 2023-11-08 | 4,742 | 3 |
+| 2023-11-09 | 4,743 | 3 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 469)  
-Sum: 286 (Ranked 365)  
-Diff (max vs sum): 104  
+Sum: 286 (Ranked 366)  
+Diff (max vs sum): 103  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 35 |
