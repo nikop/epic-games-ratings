@@ -345,6 +345,7 @@
 | [Battlefield™ 2042](../games/b/battlefield™_2042.md) | 34 | 1,000 |
 | [Call of the Sea](../games/c/call_of_the_sea.md) | 34 | 1,000 |
 | [Crayta](../games/c/crayta.md) | 34 | 1,000 |
+| [EARTHLOCK](../games/5/5c82c05d2978489090d30c05e17e6e12.md) | 34 | 1,000 |
 | [Elypse](../games/e/elypse.md) | 34 | 1,000 |
 | [Fall Guys](../games/f/fall_guys.md) | 34 | 1,000 |
 | [Forest Fire](../games/6/6a249c368e9a4ad99bbdfe23997f26ba.md) | 34 | 1,000 |

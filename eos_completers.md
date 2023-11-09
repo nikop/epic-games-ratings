@@ -6,7 +6,7 @@
 | 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.06% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 6 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 7 | [The Riflemen](games/t/the_riflemen.md) | 36.99% |
+| 7 | [The Riflemen](games/t/the_riflemen.md) | 36.97% |
 | 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.69% |
 | 9 | [greensheen Production](games/g/greensheen_production.md) | 35.71% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
@@ -61,7 +61,7 @@
 | 59 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
 | 60 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 61 | [JARS](games/j/jars.md) | 5.68% |
-| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.65% |
+| 62 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.63% |
 | 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
 | 64 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.51% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
@@ -87,10 +87,10 @@
 | 85 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.40% |
 | 86 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.36% |
 | 87 | [Bunny Park](games/b/bunny_park.md) | 3.33% |
-| 87 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.33% |
 | 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.33% |
-| 90 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 3.28% |
-| 91 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.23% |
+| 89 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 3.28% |
+| 90 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.23% |
+| 90 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.23% |
 | 92 | [Doodle God](games/d/doodle_god.md) | 3.20% |
 | 92 | [The Complex](games/t/the_complex.md) | 3.20% |
 | 94 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.14% |
@@ -111,7 +111,7 @@
 | 108 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.61% |
 | 110 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
 | 111 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 112 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.46% |
+| 112 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.45% |
 | 113 | [Lamentum](games/l/lamentum.md) | 2.43% |
 | 114 | [Bloodshore](games/b/bloodshore.md) | 2.40% |
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
@@ -195,9 +195,9 @@
 | 193 | [Eternights](games/e/eternights.md) | 0.51% |
 | 194 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.50% |
 | 194 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.50% |
-| 196 | [Dead Space](games/d/dead_space.md) | 0.49% |
-| 197 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
-| 197 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
+| 196 | [Dead Space](games/d/dead_space.md) | 0.48% |
+| 196 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.48% |
+| 196 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.48% |
 | 199 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.46% |
 | 199 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.46% |
 | 201 | [Among the Sleep - Enhanced Edition](games/a/among_the_sleep_-_enhanced_edition.md) | 0.45% |
@@ -732,4 +732,4 @@
 | 345 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 345 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 345 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,535 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,536 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
