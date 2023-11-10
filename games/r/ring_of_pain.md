@@ -18,6 +18,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | That Was Quick | 0.20% | ~479 |
 | Colorful Corpse | 0.20% | ~479 |
 | Defeat The Dark | 0.20% | ~479 |
+| The Bestiary | 0.20% | ~479 |
 | Goodbye, Frog Friend | 0.20% | ~479 |
 | Heartless | 0.20% | ~479 |
 | What's Yours Is Mine | 0.20% | ~479 |
@@ -77,7 +78,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Destroy Your Fears | 0.10% | ~239 |
 | Trail Of Death | 0.10% | ~239 |
 | Clearing The Room | 0.10% | ~239 |
-| The Bestiary | 0.10% | ~239 |
 | Blizzard | 0.10% | ~239 |
 | The Boulder | 0.10% | ~239 |
 | Don't Ignore Me! | 0.10% | ~239 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,461 (Ranked 60)  
+Progressed: 239,468 (Ranked 60)  
 Completed: 287 (0.12%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 287 (0.12%) (Ranked 265)
 | 2023-11-07 | 239,335 | 286 |
 | 2023-11-08 | 239,386 | 287 |
 | 2023-11-09 | 239,427 | 287 |
-| 2023-11-10 | 239,461 | 287 |
+| 2023-11-10 | 239,468 | 287 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 130)  
 Sum: 11,665 (Ranked 83)  

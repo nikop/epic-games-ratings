@@ -2,13 +2,13 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 124,
+  "Ranking_Rating": 125,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewPlayers": 68,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10317,9 +10317,9 @@
       "Count": 776
     }
   ],
-  "EOS_Progressed": 301814,
+  "EOS_Progressed": 301815,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 1307,
+  "EOS_NewPlayers": 1296,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32282,6 +32282,11 @@
       "Time": "2023-11-10T20:09:00.3334082+00:00",
       "NumProgressed": 301814,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2023-11-10T21:17:29.4937358+00:00",
+      "NumProgressed": 301815,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 45,
@@ -32325,7 +32330,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30181
+      "UsersEstimate": 30182
     },
     {
       "ID": "PFA_14",
@@ -32397,7 +32402,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30181
+      "UsersEstimate": 30182
     },
     {
       "ID": "PFA_22",
@@ -32517,7 +32522,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30181
+      "UsersEstimate": 30182
     },
     {
       "ID": "PFA_36",
@@ -32645,14 +32650,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30181
+      "UsersEstimate": 30182
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301814,
+      "Progressed": 301815,
       "Completed": 507
     }
   ],
@@ -32660,8 +32665,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-10T17:58:34.1854943+00:00",
-  "LastChanged_Achievements": "2023-11-10T20:09:00.3334079+00:00",
+  "LastChanged_Achievements": "2023-11-10T21:17:29.4937355+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-10T19:58:44.9201307+00:00",
-  "LastUpdate_Achievements": "2023-11-10T20:09:00.333572+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:04:12.69184+00:00",
+  "LastUpdate_Achievements": "2023-11-10T21:17:29.4938301+00:00"
 }

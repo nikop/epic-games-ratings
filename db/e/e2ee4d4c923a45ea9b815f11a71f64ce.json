@@ -2,10 +2,10 @@
   "ID": "e2ee4d4c923a45ea9b815f11a71f64ce",
   "Name": "Fix Me Up Doc - Dark Humor",
   "ProductSlug": "fix-me-up-doc-dark-humor-9ebac0",
-  "Ranking_EOS_Progress": 739,
+  "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-12T07:00:00+00:00",
     "PcReleaseDate": "2017-06-21T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-08T16:57:12.9861971+00:00",
-  "LastUpdate_Ratings": "2023-11-10T20:00:15.28728+00:00",
-  "LastUpdate_Achievements": "2023-11-10T20:08:12.4334565+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:10:09.8085408+00:00",
+  "LastUpdate_Achievements": "2023-11-10T21:16:25.6135974+00:00"
 }

@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,706 |
-| Alt+F4 | 8.00% | ~18,904 |
-| Where's that freaking Dwarf? | 7.00% | ~16,541 |
-| Déjà vu | 6.00% | ~14,178 |
-| Sock! SOCK! | 5.00% | ~11,815 |
-| A beer, two curses, three companions | 4.00% | ~9,452 |
-| GG EZ | 4.00% | ~9,452 |
-| DM intervention | 4.00% | ~9,452 |
-| Speedrun | 4.00% | ~9,452 |
+| Sowwy! | 35.00% | ~82,710 |
+| Alt+F4 | 8.00% | ~18,905 |
+| Where's that freaking Dwarf? | 7.00% | ~16,542 |
+| Déjà vu | 6.00% | ~14,179 |
+| Sock! SOCK! | 5.00% | ~11,816 |
+| A beer, two curses, three companions | 4.00% | ~9,453 |
+| GG EZ | 4.00% | ~9,453 |
+| DM intervention | 4.00% | ~9,453 |
+| Speedrun | 4.00% | ~9,453 |
 | Livin' in a dwarven paradise | 3.00% | ~7,089 |
 | Way of the Wimp | 3.00% | ~7,089 |
 | The plot thickens... At the tavern | 3.00% | ~7,089 |
@@ -44,7 +44,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,363 |
 | Material Girl | 1.00% | ~2,363 |
 | Gargantua | 0.90% | ~2,127 |
-| In Navalu's footsteps | 0.80% | ~1,890 |
+| In Navalu's footsteps | 0.80% | ~1,891 |
 | We come in peace | 0.70% | ~1,654 |
 | Lëgal Legend | 0.70% | ~1,654 |
 | Holistic Adventuring Party | 0.60% | ~1,418 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,303 (Ranked 61)  
+Progressed: 236,313 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 7 (0.00%) (Ranked 347)
 | 2023-11-07 | 235,846 | 7 |
 | 2023-11-08 | 235,997 | 7 |
 | 2023-11-09 | 236,158 | 7 |
-| 2023-11-10 | 236,303 | 7 |
+| 2023-11-10 | 236,313 | 7 |
 ## Awards
 Max (Character Customization): 228  (Ranked 272)  
 Sum: 456 (Ranked 329)  

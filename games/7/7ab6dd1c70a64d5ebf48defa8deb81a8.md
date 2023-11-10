@@ -12,7 +12,7 @@
 | Shatter Them All | 27.00% | ~48 |
 | Fashion Victim | 27.00% | ~48 |
 | I Found It | 27.00% | ~48 |
-| Adventurer | 25.00% | ~44 |
+| Adventurer | 26.00% | ~46 |
 | Geared Up | 24.00% | ~42 |
 | Powerful Allies | 23.00% | ~40 |
 | Scholar | 23.00% | ~40 |
@@ -25,9 +25,9 @@
 | Airborne | 9.00% | ~16 |
 | Miner | 9.00% | ~16 |
 | Calm before the Storm | 6.00% | ~11 |
+| To Battle | 6.00% | ~11 |
+| Godslayer | 6.00% | ~11 |
 | Flawless Victory | 6.00% | ~11 |
-| To Battle | 5.00% | ~9 |
-| Godslayer | 5.00% | ~9 |
 | Clear Sight | 2.00% | ~4 |
 | Slayer | 2.00% | ~4 |
 | Fine Feathers Make Fine Birds | 2.00% | ~4 |

@@ -2,10 +2,10 @@
   "ID": "d28938c1044945239079d371d545e5c7",
   "Name": "INDIKA",
   "ProductSlug": "indika-296db0",
-  "Ranking_EOS_Progress": 739,
+  "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-08T16:57:12.7631827+00:00",
-  "LastUpdate_Ratings": "2023-11-10T19:59:44.1296556+00:00",
-  "LastUpdate_Achievements": "2023-11-10T20:03:27.6959617+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:08:31.7445472+00:00",
+  "LastUpdate_Achievements": "2023-11-10T21:11:49.0253544+00:00"
 }

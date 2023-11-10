@@ -9,8 +9,8 @@
 | A piece of the story | 59.00% | ~35 |
 | Do what you have to | 44.00% | ~26 |
 | The artist’s impression | 42.00% | ~25 |
+| Refuse to look | 41.00% | ~24 |
 | Scraps of love | 41.00% | ~24 |
-| Refuse to look | 39.00% | ~23 |
 | It's covered up for a reason | 37.00% | ~22 |
 | Sign of weakness | 36.00% | ~21 |
 | Finished it | 29.00% | ~17 |
@@ -20,24 +20,25 @@
 | Tough conversation | 15.00% | ~9 |
 | Breaking free | 14.00% | ~8 |
 | The tragedy unfolds | 14.00% | ~8 |
+| A Slice of Life | 12.00% | ~7 |
 | Debut | 12.00% | ~7 |
 | The art of movement | 12.00% | ~7 |
 | True Reflection | 12.00% | ~7 |
 | A new way | 10.00% | ~6 |
-| A Slice of Life | 10.00% | ~6 |
 | Another perspective | 8.00% | ~5 |
+| Sound Bite | 8.00% | ~5 |
 | Heavy Burden | 8.00% | ~5 |
 | Lights! Camera! Action! | 8.00% | ~5 |
 | Whispers long forgotten | 8.00% | ~5 |
 | Casting Finished | 7.00% | ~4 |
 | We Are Not Alone | 7.00% | ~4 |
-| Sound Bite | 7.00% | ~4 |
+| Fisherman | 5.00% | ~3 |
 | Something to think about | 3.00% | ~2 |
 | Body of Work | 3.00% | ~2 |
 | The Perfect Storm | 3.00% | ~2 |
-| Fisherman | 3.00% | ~2 |
 | Dark correspondence | 2.00% | ~1 |
 | Full Scoop | 2.00% | ~1 |
+| In One Take | 2.00% | ~1 |
 | Se7en Seas | 2.00% | ~1 |
 | A Mosaic of Misery | 2.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
@@ -47,7 +48,6 @@
 | The whole story | 0.00% | ~0 |
 | Immortalized in my heart | 0.00% | ~0 |
 | You might have a problem | 0.00% | ~0 |
-| In One Take | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 | Letting go | 0.00% | ~0 |
 | Once Upon a Time | 0.00% | ~0 |

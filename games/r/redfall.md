@@ -22,20 +22,20 @@ Rating: 3.51 (Ranked 1,036)
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
 | Neighborhood Revitalization | 0.80% | ~14 |
+| Sic Transit Umbra | 0.80% | ~14 |
 | Radio Silence | 0.80% | ~14 |
 | Bad Wiring | 0.70% | ~12 |
-| Sic Transit Umbra | 0.70% | ~12 |
 | Bell-ringer | 0.70% | ~12 |
+| Good Morning | 0.70% | ~12 |
 | From the Shadows | 0.70% | ~12 |
 | Harvest’s End | 0.70% | ~12 |
 | Silence Is Golden | 0.60% | ~11 |
-| Good Morning | 0.60% | ~11 |
 | Helping Hand | 0.60% | ~11 |
 | Contingency Plans | 0.50% | ~9 |
+| Check, Please! | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
+| Curious Finch | 0.50% | ~9 |
 | You Clean It Up | 0.40% | ~7 |
-| Check, Please! | 0.40% | ~7 |
-| Curious Finch | 0.40% | ~7 |
 | I Spit On Your Grave | 0.40% | ~7 |
 | Revelations | 0.30% | ~5 |
 | Block Party | 0.30% | ~5 |

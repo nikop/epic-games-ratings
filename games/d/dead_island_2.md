@@ -5,34 +5,34 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~832 |
-| Pork Chopped | 2.00% | ~832 |
-| One of Us | 1.00% | ~416 |
+| Whatever It Takes | 2.00% | ~833 |
+| Pork Chopped | 2.00% | ~833 |
+| One of Us | 1.00% | ~417 |
 | Welcome To Hell-A | 0.70% | ~5,013 |
-| Break A Leg | 0.60% | ~4,296 |
-| Hotel California | 0.60% | ~4,296 |
-| Dr. Reed, I Presume? | 0.50% | ~3,580 |
-| Git Gutte! | 0.50% | ~3,580 |
-| Anger Management | 0.50% | ~3,580 |
-| Bookworm | 0.50% | ~3,580 |
-| Coup de Grâce | 0.50% | ~3,580 |
-| Hazardous Materials | 0.50% | ~3,580 |
-| Friends Like These | 0.50% | ~3,580 |
-| Apex Predator | 0.50% | ~3,580 |
-| Stacking the Deck | 0.50% | ~3,580 |
-| Personal Assistant Personally Assisted | 0.50% | ~3,580 |
-| Perks of the Job | 0.40% | ~2,864 |
-| I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,864 |
-| But Doctor, I am Butcho | 0.40% | ~2,864 |
-| Slayer Squad | 0.40% | ~2,864 |
-| Can't Handle the Truth | 0.40% | ~2,864 |
-| Like Riding a Bike | 0.40% | ~2,864 |
-| Zombologist | 0.40% | ~2,864 |
-| Ooh, Shiny! | 0.40% | ~2,864 |
-| A Patton Emerges | 0.40% | ~2,864 |
-| Max Headroom | 0.40% | ~2,864 |
-| Our True Nature | 0.40% | ~2,864 |
-| This is My Weapon | 0.40% | ~2,864 |
+| Break A Leg | 0.60% | ~4,297 |
+| Hotel California | 0.60% | ~4,297 |
+| Dr. Reed, I Presume? | 0.50% | ~3,581 |
+| Git Gutte! | 0.50% | ~3,581 |
+| Anger Management | 0.50% | ~3,581 |
+| Bookworm | 0.50% | ~3,581 |
+| Coup de Grâce | 0.50% | ~3,581 |
+| Hazardous Materials | 0.50% | ~3,581 |
+| Friends Like These | 0.50% | ~3,581 |
+| Apex Predator | 0.50% | ~3,581 |
+| Stacking the Deck | 0.50% | ~3,581 |
+| Personal Assistant Personally Assisted | 0.50% | ~3,581 |
+| This is My Weapon | 0.50% | ~3,581 |
+| Perks of the Job | 0.40% | ~2,865 |
+| I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,865 |
+| But Doctor, I am Butcho | 0.40% | ~2,865 |
+| Slayer Squad | 0.40% | ~2,865 |
+| Can't Handle the Truth | 0.40% | ~2,865 |
+| Like Riding a Bike | 0.40% | ~2,865 |
+| Zombologist | 0.40% | ~2,865 |
+| Ooh, Shiny! | 0.40% | ~2,865 |
+| A Patton Emerges | 0.40% | ~2,865 |
+| Max Headroom | 0.40% | ~2,865 |
+| Our True Nature | 0.40% | ~2,865 |
 | Making Your Mark | 0.30% | ~2,148 |
 | Not Even My Final Form | 0.30% | ~2,148 |
 | Humanity Distilled | 0.30% | ~2,148 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,073 (Ranked 21)  
-Completed: 2,373 (0.33%) (Ranked 220)  
+Progressed: 716,129 (Ranked 21)  
+Completed: 2,374 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,7 +261,7 @@ Completed: 2,373 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 716,073 | 2,373 |
+| 2023-11-10 | 716,129 | 2,374 |
 ## Awards
 Max (Great Boss Battles): 7,279  (Ranked 53)  
 Sum: 11,038 (Ranked 86)  

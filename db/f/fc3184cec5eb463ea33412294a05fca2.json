@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -1388,9 +1388,9 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "8d3ci0",
       "Name": "Watery help",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
@@ -1403,8 +1403,8 @@
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-10T20:04:47.5188098+00:00",
+  "LastChanged_Achievements": "2023-11-10T21:13:34.0743428+00:00",
   "LastUpdate_AppInfo": "2023-11-04T23:57:11.4274776+00:00",
-  "LastUpdate_Ratings": "2023-11-10T19:59:19.855775+00:00",
-  "LastUpdate_Achievements": "2023-11-10T20:04:47.518821+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:06:54.1969912+00:00",
+  "LastUpdate_Achievements": "2023-11-10T21:13:34.0743573+00:00"
 }

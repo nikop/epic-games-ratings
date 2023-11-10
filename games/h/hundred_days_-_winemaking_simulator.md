@@ -1,24 +1,24 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 794)  
+Rating: 4.35 (Ranked 795)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 40.00% | ~4,699 |
-| It's a good start | 10.00% | ~1,175 |
-| Bonjour! | 7.00% | ~822 |
-| Quack | 7.00% | ~822 |
-| The Assistant | 6.00% | ~705 |
-| The Blue Marl | 6.00% | ~705 |
-| Ostinata | 5.00% | ~587 |
-| Better than nothing? | 5.00% | ~587 |
+| Bye Bye | 40.00% | ~4,705 |
+| It's a good start | 10.00% | ~1,176 |
+| Bonjour! | 7.00% | ~823 |
+| Quack | 7.00% | ~823 |
+| The Assistant | 6.00% | ~706 |
+| The Blue Marl | 6.00% | ~706 |
+| Ostinata | 5.00% | ~588 |
+| Better than nothing? | 5.00% | ~588 |
 | A long journey | 4.00% | ~470 |
-| Big Money | 3.00% | ~352 |
-| Keep the doctor away | 3.00% | ~352 |
-| Surprise of Langhe | 3.00% | ~352 |
-| Famous | 3.00% | ~352 |
+| Big Money | 3.00% | ~353 |
+| Keep the doctor away | 3.00% | ~353 |
+| Surprise of Langhe | 3.00% | ~353 |
+| Famous | 3.00% | ~353 |
 | What is that? A castle? | 2.00% | ~235 |
 | A lot of space | 2.00% | ~235 |
 | A big garage | 2.00% | ~235 |
@@ -27,18 +27,18 @@ Number of Ratings: 7,669  (23.09.2022)
 | Pastry Chef | 2.00% | ~235 |
 | Welcome to the club | 2.00% | ~235 |
 | Very Important Winemaker | 2.00% | ~235 |
-| King of Langhe | 1.00% | ~117 |
-| Gem of Monferrato | 1.00% | ~117 |
+| King of Langhe | 1.00% | ~118 |
+| Gem of Monferrato | 1.00% | ~118 |
 | Treasure of Roero | 0.70% | ~82 |
 | Knight of Langhe | 0.50% | ~59 |
-| King of red wines | 0.20% | ~23 |
-| King of white wines | 0.20% | ~23 |
-| Sales Expert | 0.20% | ~23 |
-| Big deals | 0.20% | ~23 |
-| Unsuitable Terroir | 0.20% | ~23 |
+| King of red wines | 0.20% | ~24 |
+| King of white wines | 0.20% | ~24 |
+| Sales Expert | 0.20% | ~24 |
+| Big deals | 0.20% | ~24 |
+| Unsuitable Terroir | 0.20% | ~24 |
 | Master Winemaker | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,747 (Ranked 152)  
+Progressed: 11,762 (Ranked 152)  
 Completed: 10 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 10 (0.09%) (Ranked 275)
 | 2023-11-07 | 11,428 | 10 |
 | 2023-11-08 | 11,530 | 10 |
 | 2023-11-09 | 11,619 | 10 |
-| 2023-11-10 | 11,747 | 10 |
+| 2023-11-10 | 11,762 | 10 |
 ## Awards
 Max (Relaxing): 206  (Ranked 284)  
 Sum: 1,725 (Ranked 219)  

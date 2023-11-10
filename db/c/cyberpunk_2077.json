@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14948,10 +14948,10 @@
       "Count": 12694
     }
   ],
-  "EOS_Progressed": 896061,
+  "EOS_Progressed": 896067,
   "EOS_Completed": 2760,
   "EOS_NewPlayers": 987,
-  "EOS_NewCompleters": 20,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38088,6 +38088,11 @@
       "Time": "2023-11-10T20:04:01.4264232+00:00",
       "NumProgressed": 896061,
       "NumCompleted": 2760
+    },
+    {
+      "Time": "2023-11-10T21:12:33.7137465+00:00",
+      "NumProgressed": 896067,
+      "NumCompleted": 2760
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38138,9 +38143,9 @@
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 1792
+      "UsersEstimate": 2688
     },
     {
       "ID": "Fortuneteller",
@@ -38540,7 +38545,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "UltimateSurvivor",
@@ -38570,9 +38575,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 99
+      "UsersEstimate": 123
     },
     {
       "ID": "KingOfTheCups",
@@ -38635,21 +38640,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896061,
+      "Progressed": 896067,
       "Completed": 2760
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24684,
+      "Progressed": 24690,
       "Completed": 10205
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-10T17:07:53.5536398+00:00",
-  "LastChanged_Achievements": "2023-11-10T20:04:01.4264231+00:00",
+  "LastChanged_Achievements": "2023-11-10T21:12:33.7137462+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-10T19:58:09.7816127+00:00",
-  "LastUpdate_Achievements": "2023-11-10T20:04:01.4265679+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:00:28.4645009+00:00",
+  "LastUpdate_Achievements": "2023-11-10T21:12:33.7139027+00:00"
 }

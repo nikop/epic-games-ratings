@@ -3,12 +3,12 @@
   "Name": "Anno 1800 Standard Edition",
   "ProductSlug": "anno-1800",
   "Ranking_Rating": 79,
-  "Ranking_Popularity": 118,
+  "Ranking_Popularity": 117,
   "Ranking_PopularitySum": 75,
-  "Ranking_EOS_Progress": 739,
+  "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2019-05-30T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10209,11 +10209,17 @@
       "Rating": 4.81,
       "NumberOfAwards": 13926,
       "NumberOfAwardsMax": 1796
+    },
+    {
+      "Time": "2023-11-10T20:57:48.6411266+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 13935,
+      "NumberOfAwardsMax": 1800
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13926,
-  "NumberOfAwardsMax": 1796,
+  "NumberOfAwards": 13935,
+  "NumberOfAwardsMax": 1800,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -10232,7 +10238,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1707
+      "Count": 1709
     },
     {
       "Text": "This game is Educational",
@@ -10256,7 +10262,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1796
+      "Count": 1800
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -10268,7 +10274,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1569
+      "Count": 1572
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10294,8 +10300,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:47.4504911+00:00",
-  "LastChanged": "2023-11-10T18:57:34.3348565+00:00",
+  "LastChanged": "2023-11-10T20:57:48.6411264+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:21.1665951+00:00",
-  "LastUpdate_Ratings": "2023-11-10T19:57:40.5523036+00:00",
-  "LastUpdate_Achievements": "2023-11-10T20:04:17.6604483+00:00"
+  "LastUpdate_Ratings": "2023-11-10T20:57:48.6411269+00:00",
+  "LastUpdate_Achievements": "2023-11-10T21:12:54.9696995+00:00"
 }

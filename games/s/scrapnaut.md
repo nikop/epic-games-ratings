@@ -32,14 +32,14 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Lord | 10.00% | ~46 |
 | Fuel | 9.00% | ~42 |
 | Smelting Master | 9.00% | ~42 |
-| Black Gold | 6.00% | ~28 |
+| Black Gold | 7.00% | ~32 |
 | Survival Master | 4.00% | ~19 |
 | Traveler | 3.00% | ~14 |
 | Forest Killer | 2.00% | ~9 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 464 (Ranked 303)  
-Completed: 1 (0.22%) (Ranked 237)  
+Progressed: 464 (Ranked 305)  
+Completed: 1 (0.22%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

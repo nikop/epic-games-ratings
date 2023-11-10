@@ -17,9 +17,9 @@ Number of Ratings: 20  (23.09.2022)
 | Shennong Herbalist | 34.00% | ~115 |
 | Treasure Hunt | 34.00% | ~115 |
 | Good Mama | 32.00% | ~108 |
-| O Captain My Captain | 30.00% | ~101 |
+| O Captain My Captain | 31.00% | ~105 |
+| Taxonomist | 28.00% | ~95 |
 | Plunderer | 28.00% | ~95 |
-| Taxonomist | 27.00% | ~91 |
 | Traveller | 25.00% | ~84 |
 | Uncertain Loyalties | 25.00% | ~84 |
 | Nahua Seeker | 24.00% | ~81 |
@@ -34,10 +34,10 @@ Number of Ratings: 20  (23.09.2022)
 | Dapper | 15.00% | ~51 |
 | The New Director | 14.00% | ~47 |
 | Adventurer | 14.00% | ~47 |
+| Plays Well With Others | 14.00% | ~47 |
 | The Director is Dead | 13.00% | ~44 |
 | And Here Is Your Statue | 13.00% | ~44 |
 | Discovery | 13.00% | ~44 |
-| Plays Well With Others | 13.00% | ~44 |
 | Very Classy | 12.00% | ~41 |
 | Under the Table | 11.00% | ~37 |
 | It's Complicated | 10.00% | ~34 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338 (Ranked 325)  
+Progressed: 338 (Ranked 326)  
 Completed: 1 (0.30%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |

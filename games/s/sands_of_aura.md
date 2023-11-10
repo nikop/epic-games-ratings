@@ -14,11 +14,11 @@
 | Rain Must Fall | 6.00% | ~4 |
 | The Guardian of Fire | 6.00% | ~4 |
 | Bladesmith | 5.00% | ~3 |
+| Explorer | 5.00% | ~3 |
 | Sovereignty of Irons | 5.00% | ~3 |
 | A Sandwyrm's Hoard | 5.00% | ~3 |
 | Sommelier | 3.00% | ~2 |
 | Let Me Solo Them | 3.00% | ~2 |
-| Explorer | 3.00% | ~2 |
 | Frigid Winds | 3.00% | ~2 |
 | Twin Thorns | 3.00% | ~2 |
 | Smotherly Love | 2.00% | ~1 |

@@ -14,8 +14,8 @@ Number of Ratings: 45  (23.09.2022)
 | The Cost of Heroism | 1.00% | ~15 |
 | Cutthroat Competitors | 1.00% | ~15 |
 | Daybreak | 1.00% | ~15 |
-| War Endured | 0.70% | ~10 |
-| Core Failure | 0.70% | ~10 |
+| War Endured | 0.80% | ~12 |
+| Core Failure | 0.80% | ~12 |
 | Let Me Get My Chisel | 0.60% | ~9 |
 | Completing the Look | 0.60% | ~9 |
 | Echoes Die | 0.60% | ~9 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,453 (Ranked 235)  
-Completed: 6 (0.41%) (Ranked 208)  
+Completed: 6 (0.41%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

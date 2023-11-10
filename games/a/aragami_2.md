@@ -7,19 +7,19 @@ Number of Ratings: 88  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Awakening | 93.00% | ~40,767 |
-| First Steps | 80.00% | ~35,068 |
-| Control the Shadows | 67.00% | ~29,369 |
-| Tools of the Trade | 63.00% | ~27,616 |
-| Apprentice | 60.00% | ~26,301 |
-| Secret Seeker | 57.00% | ~24,986 |
-| Forge of Assassins | 55.00% | ~24,109 |
-| Revenant | 52.00% | ~22,794 |
+| First Steps | 80.00% | ~35,069 |
+| Control the Shadows | 67.00% | ~29,370 |
+| Tools of the Trade | 63.00% | ~27,617 |
+| Apprentice | 60.00% | ~26,302 |
+| Secret Seeker | 57.00% | ~24,987 |
+| Forge of Assassins | 55.00% | ~24,110 |
+| Revenant | 52.00% | ~22,795 |
 | I don’t Care! | 45.00% | ~19,726 |
 | Bird of Prey | 37.00% | ~16,219 |
-| Engraved with Power | 32.00% | ~14,027 |
+| Engraved with Power | 32.00% | ~14,028 |
 | Lady | 31.00% | ~13,589 |
-| Fashionable Assassin | 27.00% | ~11,835 |
-| Apex Predator | 24.00% | ~10,520 |
+| Fashionable Assassin | 27.00% | ~11,836 |
+| Apex Predator | 24.00% | ~10,521 |
 | Embers | 22.00% | ~9,644 |
 | Soul Reaver | 22.00% | ~9,644 |
 | Wall Lizard | 20.00% | ~8,767 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | The Hidden Village | 9.00% | ~3,945 |
 | Denouement | 8.00% | ~3,507 |
 | A Pleasant Stay | 8.00% | ~3,507 |
-| Pilgrimage | 7.00% | ~3,068 |
+| Pilgrimage | 7.00% | ~3,069 |
 | The Lookout | 5.00% | ~2,192 |
 | The Spirit of Vengeance | 5.00% | ~2,192 |
 | Hollow | 5.00% | ~2,192 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~877 |
 | Legacy | 2.00% | ~877 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,835 (Ranked 113)  
+Progressed: 43,836 (Ranked 113)  
 Completed: 239 (0.55%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 239 (0.55%) (Ranked 187)
 | 2023-11-07 | 43,820 | 239 |
 | 2023-11-08 | 43,825 | 239 |
 | 2023-11-09 | 43,829 | 239 |
-| 2023-11-10 | 43,835 | 239 |
+| 2023-11-10 | 43,836 | 239 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

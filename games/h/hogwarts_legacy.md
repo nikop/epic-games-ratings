@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 124)  
+Rating: 4.76 (Ranked 125)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -17,10 +17,10 @@ Rating: 4.76 (Ranked 124)
 | The Defender of Dragons | 11.00% | ~33,200 |
 | Loom for Improvement | 11.00% | ~33,200 |
 | Coasting Along | 11.00% | ~33,200 |
-| The Hero of Hogwarts | 10.00% | ~30,181 |
-| Challenge Accepted | 10.00% | ~30,181 |
-| Followed the Butterflies | 10.00% | ~30,181 |
-| Rising From the Ashes | 10.00% | ~30,181 |
+| The Hero of Hogwarts | 10.00% | ~30,182 |
+| Challenge Accepted | 10.00% | ~30,182 |
+| Followed the Butterflies | 10.00% | ~30,182 |
+| Rising From the Ashes | 10.00% | ~30,182 |
 | The Spell Master | 9.00% | ~27,163 |
 | The Avenging Gazelle | 8.00% | ~24,145 |
 | Beast Friends | 8.00% | ~24,145 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 124)
 | The Nature of the Beast | 0.70% | ~2,113 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,814 (Ranked 50)  
+Progressed: 301,815 (Ranked 50)  
 Completed: 507 (0.17%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 507 (0.17%) (Ranked 252)
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
 | 2023-11-09 | 301,775 | 505 |
-| 2023-11-10 | 301,814 | 507 |
+| 2023-11-10 | 301,815 | 507 |
 ## Awards
 Max (Character Customization): 24,162  (Ranked 17)  
 Sum: 47,810 (Ranked 30)  

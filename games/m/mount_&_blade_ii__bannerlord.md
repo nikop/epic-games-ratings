@@ -6,16 +6,16 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~25,934 |
-| Landlord | 33.00% | ~21,396 |
-| Horde breaker | 24.00% | ~15,560 |
-| Bannerlord | 23.00% | ~14,912 |
-| Lawmaker | 23.00% | ~14,912 |
-| Trained | 23.00% | ~14,912 |
-| The king is pleased | 19.00% | ~12,319 |
-| King Solomon | 18.00% | ~11,670 |
-| Apple of my eye | 16.00% | ~10,374 |
-| I can do it | 16.00% | ~10,374 |
+| Lawbringer | 40.00% | ~25,937 |
+| Landlord | 33.00% | ~21,398 |
+| Horde breaker | 24.00% | ~15,562 |
+| Bannerlord | 23.00% | ~14,914 |
+| Lawmaker | 23.00% | ~14,914 |
+| Trained | 23.00% | ~14,914 |
+| The king is pleased | 19.00% | ~12,320 |
+| King Solomon | 18.00% | ~11,672 |
+| Apple of my eye | 16.00% | ~10,375 |
+| I can do it | 16.00% | ~10,375 |
 | Against all odds | 13.00% | ~8,429 |
 | God of the Arena | 13.00% | ~8,429 |
 | This Is Our Land | 13.00% | ~8,429 |
@@ -24,13 +24,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | I spit on your grave | 10.00% | ~6,484 |
 | Swordbearer | 10.00% | ~6,484 |
 | What have the Romans ever done for us? | 10.00% | ~6,484 |
-| Butterlord | 9.00% | ~5,835 |
-| Know your enemy | 7.00% | ~4,538 |
-| Mastery | 7.00% | ~4,538 |
+| Butterlord | 9.00% | ~5,836 |
+| Know your enemy | 7.00% | ~4,539 |
+| Mastery | 7.00% | ~4,539 |
 | Crowdfunded | 5.00% | ~3,242 |
 | Crush your enemies | 5.00% | ~3,242 |
 | My way | 5.00% | ~3,242 |
-| Veni vidi vici | 4.00% | ~2,593 |
+| Veni vidi vici | 4.00% | ~2,594 |
 | Freedom! | 3.00% | ~1,945 |
 | Long live the Empire! | 3.00% | ~1,945 |
 | Real Estate | 3.00% | ~1,945 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,835 (Ranked 103)  
+Progressed: 64,842 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 64,682 | 0 |
 | 2023-11-08 | 64,735 | 0 |
 | 2023-11-09 | 64,776 | 0 |
-| 2023-11-10 | 64,835 | 0 |
+| 2023-11-10 | 64,842 | 0 |
 ## Awards
 Max (Character Customization): 7,352  (Ranked 51)  
 Sum: 15,197 (Ranked 67)  

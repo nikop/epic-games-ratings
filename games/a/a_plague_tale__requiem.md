@@ -5,43 +5,43 @@ Rating: 4.73 (Ranked 174)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,753 |
-| Newcomers | 79.00% | ~10,951 |
-| A Burden of Blood | 74.00% | ~10,258 |
-| Protector's Duty | 70.00% | ~9,703 |
-| Alchemist | 69.00% | ~9,565 |
-| In our Wake | 68.00% | ~9,426 |
-| Leaving all Behind | 65.00% | ~9,010 |
-| Felons | 62.00% | ~8,594 |
-| A Sea of Promises | 61.00% | ~8,456 |
-| Tales and Revelations | 58.00% | ~8,040 |
-| Bloodline | 53.00% | ~7,347 |
-| The Cradle of Centuries | 49.00% | ~6,792 |
-| The Life We Deserve | 47.00% | ~6,515 |
-| Night guard | 44.00% | ~6,099 |
-| Nothing Left | 40.00% | ~5,545 |
-| Healing our Wounds | 38.00% | ~5,268 |
-| Dying Sun | 34.00% | ~4,713 |
-| Improved crossbow | 27.00% | ~3,743 |
+| Under a New Sun | 92.00% | ~12,756 |
+| Newcomers | 79.00% | ~10,953 |
+| A Burden of Blood | 74.00% | ~10,260 |
+| Protector's Duty | 70.00% | ~9,706 |
+| Alchemist | 69.00% | ~9,567 |
+| In our Wake | 68.00% | ~9,428 |
+| Leaving all Behind | 65.00% | ~9,012 |
+| Felons | 62.00% | ~8,596 |
+| A Sea of Promises | 61.00% | ~8,458 |
+| Tales and Revelations | 58.00% | ~8,042 |
+| Bloodline | 53.00% | ~7,348 |
+| The Cradle of Centuries | 49.00% | ~6,794 |
+| The Life We Deserve | 47.00% | ~6,517 |
+| Night guard | 44.00% | ~6,101 |
+| Nothing Left | 40.00% | ~5,546 |
+| Healing our Wounds | 38.00% | ~5,269 |
+| Dying Sun | 34.00% | ~4,714 |
+| Improved crossbow | 27.00% | ~3,744 |
 | King Hugo | 25.00% | ~3,466 |
-| Mercy | 24.00% | ~3,327 |
-| Perfect shot | 23.00% | ~3,188 |
+| Mercy | 24.00% | ~3,328 |
+| Perfect shot | 23.00% | ~3,189 |
 | Effective instruments | 22.00% | ~3,050 |
 | Perfect throw | 22.00% | ~3,050 |
-| Knights! | 21.00% | ~2,911 |
+| Knights! | 21.00% | ~2,912 |
 | Handful of pockets | 13.00% | ~1,802 |
-| Pocket laboratory | 12.00% | ~1,663 |
+| Pocket laboratory | 12.00% | ~1,664 |
 | Not a toy anymore | 11.00% | ~1,525 |
 | Herbalist | 8.00% | ~1,109 |
 | Fighter | 8.00% | ~1,109 |
 | Ornithologist | 5.00% | ~693 |
-| Immortal memories | 4.00% | ~554 |
-| Sneaky | 4.00% | ~554 |
+| Immortal memories | 4.00% | ~555 |
+| Sneaky | 4.00% | ~555 |
 | Explorer | 2.00% | ~277 |
 | Old protector | 2.00% | ~277 |
 | Malignant | 1.00% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,862 (Ranked 148)  
+Progressed: 13,865 (Ranked 148)  
 Completed: 54 (0.39%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 54 (0.39%) (Ranked 209)
 | 2023-11-07 | 13,824 | 53 |
 | 2023-11-08 | 13,841 | 54 |
 | 2023-11-09 | 13,855 | 54 |
-| 2023-11-10 | 13,862 | 54 |
+| 2023-11-10 | 13,865 | 54 |
 ## Awards
 Max (Great Boss Battles): 429  (Ranked 220)  
 Sum: 675 (Ranked 298)  

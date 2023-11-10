@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -6747,9 +6747,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 144
     },
     {
       "ID": "ach_defeat_players_10",
@@ -7052,8 +7052,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-10T20:04:57.8962549+00:00",
+  "LastChanged_Achievements": "2023-11-10T21:13:47.8645648+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-10T19:57:43.0779344+00:00",
-  "LastUpdate_Achievements": "2023-11-10T20:04:57.8963207+00:00"
+  "LastUpdate_Ratings": "2023-11-10T20:57:52.3635279+00:00",
+  "LastUpdate_Achievements": "2023-11-10T21:13:47.8646182+00:00"
 }

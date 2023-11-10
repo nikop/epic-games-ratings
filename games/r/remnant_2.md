@@ -5,44 +5,44 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,747 |
-| The Killing Jar | 8.00% | ~17,553 |
-| Expanding Horizons | 7.00% | ~15,358 |
-| Quest for Survival | 7.00% | ~15,358 |
-| Not Your Average Trait | 7.00% | ~15,358 |
-| Gleaming the Cube | 6.00% | ~13,164 |
-| Familiar Face | 6.00% | ~13,164 |
-| Duality | 6.00% | ~13,164 |
-| Boss'n Up | 6.00% | ~13,164 |
-| Trait Chaser | 6.00% | ~13,164 |
-| Not So Special Now | 5.00% | ~10,970 |
-| Not a Janitor | 5.00% | ~10,970 |
-| Equal Measures | 5.00% | ~10,970 |
-| Blue Goddess | 5.00% | ~10,970 |
-| Top Performer | 5.00% | ~10,970 |
-| Shhh...It's a Secret | 5.00% | ~10,970 |
-| Almost There | 5.00% | ~10,970 |
-| Make Some Room | 5.00% | ~10,970 |
-| Good, But Could Be Better! | 5.00% | ~10,970 |
-| Chaos | 4.00% | ~8,776 |
-| Traitor | 4.00% | ~8,776 |
-| Power Surge | 4.00% | ~8,776 |
-| The God Gambit | 4.00% | ~8,776 |
-| Dark Designs | 4.00% | ~8,776 |
-| Madman's Paradise | 4.00% | ~8,776 |
-| Was This Supposed To Happen? | 4.00% | ~8,776 |
-| The Web | 4.00% | ~8,776 |
-| Scrap Collector | 4.00% | ~8,776 |
-| All These Traits� | 4.00% | ~8,776 |
-| Am I Seeing This? | 3.00% | ~6,582 |
-| Forever is a Long Time Coming | 3.00% | ~6,582 |
-| The Agenda | 3.00% | ~6,582 |
-| Tall Tales | 3.00% | ~6,582 |
-| Bad Moon Rising | 3.00% | ~6,582 |
-| Strapped | 3.00% | ~6,582 |
-| Edgelord | 3.00% | ~6,582 |
-| The Ultimate Weapon | 3.00% | ~6,582 |
-| No One Should Have All That Power | 3.00% | ~6,582 |
+| First of Many | 9.00% | ~19,748 |
+| The Killing Jar | 8.00% | ~17,554 |
+| Expanding Horizons | 7.00% | ~15,360 |
+| Quest for Survival | 7.00% | ~15,360 |
+| Not Your Average Trait | 7.00% | ~15,360 |
+| Gleaming the Cube | 6.00% | ~13,166 |
+| Familiar Face | 6.00% | ~13,166 |
+| Duality | 6.00% | ~13,166 |
+| Boss'n Up | 6.00% | ~13,166 |
+| Trait Chaser | 6.00% | ~13,166 |
+| Not So Special Now | 5.00% | ~10,971 |
+| Not a Janitor | 5.00% | ~10,971 |
+| Equal Measures | 5.00% | ~10,971 |
+| Blue Goddess | 5.00% | ~10,971 |
+| Top Performer | 5.00% | ~10,971 |
+| Shhh...It's a Secret | 5.00% | ~10,971 |
+| Almost There | 5.00% | ~10,971 |
+| Make Some Room | 5.00% | ~10,971 |
+| Good, But Could Be Better! | 5.00% | ~10,971 |
+| Chaos | 4.00% | ~8,777 |
+| Traitor | 4.00% | ~8,777 |
+| Power Surge | 4.00% | ~8,777 |
+| The God Gambit | 4.00% | ~8,777 |
+| Dark Designs | 4.00% | ~8,777 |
+| Madman's Paradise | 4.00% | ~8,777 |
+| Was This Supposed To Happen? | 4.00% | ~8,777 |
+| The Web | 4.00% | ~8,777 |
+| Scrap Collector | 4.00% | ~8,777 |
+| All These Traits� | 4.00% | ~8,777 |
+| Am I Seeing This? | 3.00% | ~6,583 |
+| Forever is a Long Time Coming | 3.00% | ~6,583 |
+| The Agenda | 3.00% | ~6,583 |
+| Tall Tales | 3.00% | ~6,583 |
+| Bad Moon Rising | 3.00% | ~6,583 |
+| Strapped | 3.00% | ~6,583 |
+| Edgelord | 3.00% | ~6,583 |
+| The Ultimate Weapon | 3.00% | ~6,583 |
+| No One Should Have All That Power | 3.00% | ~6,583 |
 | Crafty | 2.00% | ~4,388 |
 | Only Human | 2.00% | ~4,388 |
 | Red Room | 2.00% | ~4,388 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,194 |
 | Proving Grounds | 1.00% | ~2,194 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,407 (Ranked 68)  
+Progressed: 219,425 (Ranked 68)  
 Completed: 437 (0.20%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 437 (0.20%) (Ranked 246)
 | 2023-11-07 | 218,702 | 433 |
 | 2023-11-08 | 218,941 | 435 |
 | 2023-11-09 | 219,166 | 435 |
-| 2023-11-10 | 219,407 | 437 |
+| 2023-11-10 | 219,425 | 437 |
 ## Awards
 Max (Great Boss Battles): 2,129  (Ranked 109)  
 Sum: 4,797 (Ranked 142)  
