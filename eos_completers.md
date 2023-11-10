@@ -7,7 +7,7 @@
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.06% |
 | 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 8 | [The Riflemen](games/t/the_riflemen.md) | 36.81% |
+| 8 | [The Riflemen](games/t/the_riflemen.md) | 36.80% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.69% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
@@ -63,7 +63,7 @@
 | 61 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 62 | [JARS](games/j/jars.md) | 5.68% |
 | 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
-| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.54% |
+| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.53% |
 | 65 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.47% |
 | 66 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 67 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
@@ -132,9 +132,9 @@
 | 130 | [Five Dates](games/f/five_dates.md) | 1.62% |
 | 131 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.60% |
 | 132 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.55% |
-| 133 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.54% |
-| 134 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
-| 134 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.53% |
+| 133 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
+| 133 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.53% |
+| 133 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.53% |
 | 136 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 137 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
 | 138 | [Late Shift](games/l/late_shift.md) | 1.42% |
