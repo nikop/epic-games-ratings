@@ -4,7 +4,7 @@
 | 2 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 0 | 548 |
 | 3 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 548 |
 | 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,684 | 122 |
-| 4 | [Hades](games/h/hades.md) | 4.92 | 3,358 | 93 |
+| 4 | [Hades](games/h/hades.md) | 4.92 | 3,360 | 93 |
 | 6 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 548 |
 | 6 | [Mago](games/m/mago.md) | 4.90 | 0 | 548 |
 | 6 | [Outer Wilds](games/o/outer_wilds.md) | 4.90 | 0 | 548 |
@@ -102,7 +102,7 @@
 | 96 | [Kerbal Space Program](games/k/kerbal_space_program.md) | 4.79 | 1,090 | 145 |
 | 96 | [KID A MNESIA EXHIBITION](games/k/kid_a_mnesia_exhibition.md) | 4.79 | 0 | 548 |
 | 96 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 4.79 | 799 | 169 |
-| 96 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,090 | 62 |
+| 96 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,091 | 62 |
 | 96 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 399 | 226 |
 | 96 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 42 | 451 |
 | 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 548 |
@@ -162,7 +162,7 @@
 | 156 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 4.74 | 18,974 | 22 |
 | 156 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 4.74 | 0 | 548 |
 | 156 | [Jurassic World Evolution 2](games/j/jurassic_world_evolution_2.md) | 4.74 | 737 | 175 |
-| 156 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,345 | 52 |
+| 156 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 4.74 | 7,352 | 52 |
 | 156 | [Neighbours back From Hell](games/n/neighbours_back_from_hell.md) | 4.74 | 0 | 548 |
 | 156 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 4.74 | 0 | 548 |
 | 156 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 4.74 | 41,343 | 13 |
@@ -687,7 +687,7 @@
 | 677 | [The Captain](games/t/the_captain.md) | 4.44 | 98 | 360 |
 | 677 | [Train Valley 2](games/t/train_valley_2.md) | 4.44 | 866 | 161 |
 | 677 | [Wall World](games/w/wall_world.md) | 4.44 | 0 | 548 |
-| 677 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 410 |
+| 677 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 4.44 | 59 | 411 |
 | 677 | [WRC Generations](games/w/wrc_generations.md) | 4.44 | 24 | 520 |
 | 690 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 4.43 | 49 | 432 |
 | 690 | [Far Cry New Dawn Standard Edition](games/f/far_cry_new_dawn_standard_edition.md) | 4.43 | 247 | 269 |
@@ -748,7 +748,7 @@
 | 746 | [Asterigos: Curse of the Stars](games/a/asterigos__curse_of_the_stars.md) | 4.39 | 0 | 548 |
 | 746 | [Beyond Blue](games/b/beyond_blue.md) | 4.39 | 0 | 548 |
 | 746 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.39 | 0 | 548 |
-| 746 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.39 | 58 | 411 |
+| 746 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 4.39 | 62 | 410 |
 | 746 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 548 |
 | 746 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 597 | 191 |
 | 746 | [MORDHAU](games/m/mordhau.md) | 4.39 | 905 | 158 |
@@ -1021,7 +1021,7 @@
 | 1,019 | [Wildcat Gun Machine](games/w/wildcat_gun_machine.md) | 3.84 | 0 | 548 |
 | 1,020 | [To The Rescue](games/t/to_the_rescue.md) | 3.83 | 0 | 548 |
 | 1,021 | [Edge Of Eternity](games/e/edge_of_eternity.md) | 3.82 | 0 | 548 |
-| 1,021 | [Poker Club](games/p/poker_club.md) | 3.82 | 58 | 411 |
+| 1,021 | [Poker Club](games/p/poker_club.md) | 3.82 | 58 | 412 |
 | 1,021 | [Potion Permit](games/p/potion_permit.md) | 3.82 | 69 | 401 |
 | 1,021 | [Spelldrifter](games/s/spelldrifter.md) | 3.82 | 0 | 548 |
 | 1,021 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 3.82 | 0 | 548 |

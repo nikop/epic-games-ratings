@@ -51,7 +51,7 @@
 | 49 | [Supraland](games/s/supraland.md) | 7,720 | 4.61 | 385 |
 | 50 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,591 | 4.71 | 198 |
 | 51 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,499 | 4.68 | 254 |
-| 52 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,345 | 4.74 | 156 |
+| 52 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,352 | 4.74 | 156 |
 | 53 | [Bloons TD 6](games/b/bloons_td_6.md) | 7,266 | 4.77 | 115 |
 | 54 | [Dead Island 2](games/d/dead_island_2.md) | 7,249 | 4.54 | 522 |
 | 55 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 6,930 | 4.69 | 230 |
@@ -61,7 +61,7 @@
 | 59 | [Football Manager 2022](games/f/football_manager_2022.md) | 6,465 | 4.80 | 87 |
 | 60 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 6,445 | 4.75 | 145 |
 | 61 | [Cities: Skylines](games/c/cities__skylines.md) | 6,102 | 4.66 | 293 |
-| 62 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,090 | 4.79 | 96 |
+| 62 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,091 | 4.79 | 96 |
 | 63 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,027 | 4.82 | 64 |
 | 64 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,990 | 4.64 | 332 |
 | 65 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,954 | 4.66 | 293 |
@@ -92,7 +92,7 @@
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,571 | 4.47 | 636 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,379 | 4.76 | 124 |
 | 92 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,378 | 4.68 | 254 |
-| 93 | [Hades](games/h/hades.md) | 3,358 | 4.92 | 4 |
+| 93 | [Hades](games/h/hades.md) | 3,360 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,346 | 4.57 | 469 |
 | 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,155 | 4.50 | 587 |
 | 96 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 3,143 | 4.35 | 792 |
@@ -409,9 +409,9 @@
 | 407 | [Arcadegeddon](games/a/arcadegeddon.md) | 64 | 4.49 | 606 |
 | 408 | [Heavy Rain](games/h/heavy_rain.md) | 63 | 4.59 | 432 |
 | 408 | [In Sound Mind](games/i/in_sound_mind.md) | 63 | 4.60 | 410 |
-| 410 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 677 |
-| 411 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 58 | 4.39 | 746 |
-| 411 | [Poker Club](games/p/poker_club.md) | 58 | 3.82 | 1,021 |
+| 410 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 62 | 4.39 | 746 |
+| 411 | [Wonder Boy The Dragons Trap](games/w/wonder_boy_the_dragons_trap.md) | 59 | 4.44 | 677 |
+| 412 | [Poker Club](games/p/poker_club.md) | 58 | 3.82 | 1,021 |
 | 413 | [Ranch Simulator](games/r/ranch_simulator.md) | 57 | 4.43 | 690 |
 | 414 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 56 | 4.65 | 313 |
 | 414 | [Session: Skate Sim](games/s/session__skate_sim.md) | 56 | 4.69 | 230 |

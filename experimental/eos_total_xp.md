@@ -127,6 +127,7 @@
 | [BLACKTAIL](../games/b/blacktail.md) | 32 | 1,000 |
 | [Blanc](../games/b/blanc.md) | 13 | 1,000 |
 | [Blasphemous 2](../games/c/c2890856ddb844f1a7d552fc929838a7.md) | 46 | 1,000 |
+| [Blood Flowers](../games/5/5ab7474f6a7043aaba392d4b64096737.md) | 20 | 1,000 |
 | [Blood of Titans](../games/6/6c2272d1b5f64cb483a3c1088021b39a.md) | 66 | 1,000 |
 | [BloodRayne 2: Terminal Cut](../games/b/bloodrayne_2__terminal_cut.md) | 14 | 1,000 |
 | [BloodRayne Betrayal Fresh Bites](../games/b/bloodrayne_betrayal_fresh_bites.md) | 24 | 1,000 |
