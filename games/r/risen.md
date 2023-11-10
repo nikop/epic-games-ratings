@@ -5,42 +5,42 @@ Rating: 4.57 (Ranked 469)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 97.00% | ~31 |
-| Map reader | 91.00% | ~29 |
-| Philanthropist | 81.00% | ~26 |
-| Adventurer | 78.00% | ~25 |
-| The brave little tailor | 59.00% | ~19 |
-| Archer | 59.00% | ~19 |
-| Samaritan | 56.00% | ~18 |
-| Field hand | 53.00% | ~17 |
-| Well-to-do | 53.00% | ~17 |
-| Ladies' man | 50.00% | ~16 |
-| The merciful one | 47.00% | ~15 |
-| Ferocious wild boars | 34.00% | ~11 |
-| Idiot | 34.00% | ~11 |
-| Family man | 31.00% | ~10 |
-| Wise man | 28.00% | ~9 |
-| Ogre friend | 28.00% | ~9 |
-| The fourth triplet | 28.00% | ~9 |
-| Beast slayer | 25.00% | ~8 |
-| Hard worker | 25.00% | ~8 |
-| Peacekeeper | 25.00% | ~8 |
-| Master detective | 25.00% | ~8 |
-| Death of a legend | 22.00% | ~7 |
-| Archaeologist | 22.00% | ~7 |
-| Workaholic | 22.00% | ~7 |
-| Sidelined | 22.00% | ~7 |
-| Defender | 19.00% | ~6 |
-| Pandora's box | 19.00% | ~6 |
-| Ghost hunter | 19.00% | ~6 |
-| Fence | 19.00% | ~6 |
-| Little hero | 16.00% | ~5 |
-| Safecracker | 16.00% | ~5 |
-| Freedom fighter | 13.00% | ~4 |
-| Showdown | 13.00% | ~4 |
-| Master thief | 13.00% | ~4 |
-| Moneybags | 13.00% | ~4 |
-| King of the handymen | 13.00% | ~4 |
+| Beginner | 97.00% | ~32 |
+| Map reader | 91.00% | ~30 |
+| Philanthropist | 82.00% | ~27 |
+| Adventurer | 79.00% | ~26 |
+| The brave little tailor | 61.00% | ~20 |
+| Archer | 61.00% | ~20 |
+| Samaritan | 58.00% | ~19 |
+| Field hand | 55.00% | ~18 |
+| Well-to-do | 55.00% | ~18 |
+| Ladies' man | 52.00% | ~17 |
+| The merciful one | 48.00% | ~16 |
+| Ferocious wild boars | 36.00% | ~12 |
+| Idiot | 36.00% | ~12 |
+| Family man | 33.00% | ~11 |
+| Ogre friend | 30.00% | ~10 |
+| The fourth triplet | 30.00% | ~10 |
+| Wise man | 27.00% | ~9 |
+| Beast slayer | 27.00% | ~9 |
+| Peacekeeper | 27.00% | ~9 |
+| Death of a legend | 24.00% | ~8 |
+| Archaeologist | 24.00% | ~8 |
+| Hard worker | 24.00% | ~8 |
+| Sidelined | 24.00% | ~8 |
+| Master detective | 24.00% | ~8 |
+| Ghost hunter | 21.00% | ~7 |
+| Workaholic | 21.00% | ~7 |
+| Fence | 21.00% | ~7 |
+| Defender | 18.00% | ~6 |
+| Pandora's box | 18.00% | ~6 |
+| Safecracker | 18.00% | ~6 |
+| Little hero | 15.00% | ~5 |
+| Master thief | 15.00% | ~5 |
+| Freedom fighter | 12.00% | ~4 |
+| Showdown | 12.00% | ~4 |
+| Moneybags | 12.00% | ~4 |
+| King of the handymen | 12.00% | ~4 |
 | Titan Lord | 9.00% | ~3 |
 | Terror of the hens | 9.00% | ~3 |
 | The traveler | 6.00% | ~2 |
@@ -56,7 +56,7 @@ Rating: 4.57 (Ranked 469)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 508)  
+Progressed: 33 (Ranked 506)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,6 +79,7 @@ Completed: 0 (0.00%) (Ranked 346)
 | 2023-11-05 | 30 | 0 |
 | 2023-11-07 | 31 | 0 |
 | 2023-11-08 | 32 | 0 |
+| 2023-11-10 | 33 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

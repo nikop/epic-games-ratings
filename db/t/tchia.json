@@ -5,10 +5,10 @@
   "Ranking_Rating": 156,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
-  "Ranking_EOS_Progress": 167,
+  "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 204,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7707,
+  "EOS_Progressed": 7708,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7959,6 +7959,11 @@
       "Time": "2023-11-10T13:10:34.4717898+00:00",
       "NumProgressed": 7707,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-10T14:05:42.0828942+00:00",
+      "NumProgressed": 7708,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8010,7 +8015,7 @@
       "Name": "Clay Pigeon",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ENERGY_SAVER",
@@ -8074,7 +8079,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "LIBERATOR",
@@ -8137,7 +8142,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7707,
+      "Progressed": 7708,
       "Completed": 34
     }
   ],
@@ -8145,8 +8150,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-10T13:10:34.4717895+00:00",
+  "LastChanged_Achievements": "2023-11-10T14:05:42.0828937+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.1922608+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:03:28.2496362+00:00",
-  "LastUpdate_Achievements": "2023-11-10T13:10:34.4718318+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:58:46.7372954+00:00",
+  "LastUpdate_Achievements": "2023-11-10T14:05:42.0829394+00:00"
 }

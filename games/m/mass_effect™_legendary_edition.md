@@ -20,9 +20,9 @@
 | Soldier | 50.00% | ~544 |
 | Charismatic | 50.00% | ~544 |
 | Medal of Exploration III | 46.00% | ~500 |
+| Soldier Ally | 46.00% | ~500 |
 | Asari Ally | 46.00% | ~500 |
 | Principled | 46.00% | ~500 |
-| Soldier Ally | 45.00% | ~490 |
 | Paramour I | 44.00% | ~479 |
 | Colonial Savior | 44.00% | ~479 |
 | Scientist | 44.00% | ~479 |
@@ -58,12 +58,12 @@
 | Big Game Hunter | 31.00% | ~337 |
 | Heart of Darkness | 31.00% | ~337 |
 | Driven | 31.00% | ~337 |
+| Archivist | 30.00% | ~326 |
 | Fade Away | 30.00% | ~326 |
 | Agent | 30.00% | ~326 |
 | Revenge! | 30.00% | ~326 |
 | Bringer of War | 30.00% | ~326 |
 | Focused | 29.00% | ~316 |
-| Archivist | 29.00% | ~316 |
 | Friend or Foe | 29.00% | ~316 |
 | Cat's in the Cradle | 29.00% | ~316 |
 | Doppelganger | 29.00% | ~316 |

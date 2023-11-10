@@ -74,10 +74,10 @@
 | Loft Life | 2.00% | ~7 |
 | Glut of Gastronomy | 2.00% | ~7 |
 | Plebs Are Needed | 2.00% | ~7 |
+| Full House | 2.00% | ~7 |
 | Royal Flush | 2.00% | ~7 |
 | The King of Cool | 2.00% | ~7 |
 | It is Payday | 2.00% | ~7 |
-| Full House | 1.00% | ~4 |
 | Double Down | 1.00% | ~4 |
 | Such Great Heights | 1.00% | ~4 |
 | Lofty Landlord | 1.00% | ~4 |

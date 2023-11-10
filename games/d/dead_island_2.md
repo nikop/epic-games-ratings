@@ -5,21 +5,21 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~828 |
-| Pork Chopped | 2.00% | ~828 |
-| One of Us | 1.00% | ~414 |
+| Whatever It Takes | 2.00% | ~829 |
+| Pork Chopped | 2.00% | ~829 |
+| One of Us | 1.00% | ~415 |
 | Hotel California | 0.60% | ~4,295 |
 | Welcome To Hell-A | 0.60% | ~4,295 |
-| Dr. Reed, I Presume? | 0.50% | ~3,579 |
-| Git Gutte! | 0.50% | ~3,579 |
-| Anger Management | 0.50% | ~3,579 |
-| Bookworm | 0.50% | ~3,579 |
-| Break A Leg | 0.50% | ~3,579 |
-| Coup de Grâce | 0.50% | ~3,579 |
-| Hazardous Materials | 0.50% | ~3,579 |
-| Friends Like These | 0.50% | ~3,579 |
-| Apex Predator | 0.50% | ~3,579 |
-| Personal Assistant Personally Assisted | 0.50% | ~3,579 |
+| Dr. Reed, I Presume? | 0.50% | ~3,580 |
+| Git Gutte! | 0.50% | ~3,580 |
+| Anger Management | 0.50% | ~3,580 |
+| Bookworm | 0.50% | ~3,580 |
+| Break A Leg | 0.50% | ~3,580 |
+| Coup de Grâce | 0.50% | ~3,580 |
+| Hazardous Materials | 0.50% | ~3,580 |
+| Friends Like These | 0.50% | ~3,580 |
+| Apex Predator | 0.50% | ~3,580 |
+| Personal Assistant Personally Assisted | 0.50% | ~3,580 |
 | Perks of the Job | 0.40% | ~2,864 |
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,864 |
 | But Doctor, I am Butcho | 0.40% | ~2,864 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,878 (Ranked 21)  
+Progressed: 715,911 (Ranked 21)  
 Completed: 2,371 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,10 +261,10 @@ Completed: 2,371 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,878 | 2,371 |
+| 2023-11-10 | 715,911 | 2,371 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
-Sum: 11,000 (Ranked 86)  
+Sum: 11,001 (Ranked 86)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -276,7 +276,7 @@ Diff (max vs sum): -32
 | This game has Amazing Storytelling | 453 |
 | This game is Highly Recommended | 437 |
 | This game is Extremely Fun | 428 |
-| This game has Amazing Characters | 402 |
+| This game has Amazing Characters | 403 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -483,4 +483,4 @@ Diff (max vs sum): -32
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
 | 2023-11-08 | 4.54 | 7,208 | 10,930 |
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
-| 2023-11-10 | 4.54 | 7,249 | 11,000 |
+| 2023-11-10 | 4.54 | 7,249 | 11,001 |

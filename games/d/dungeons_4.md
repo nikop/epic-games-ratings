@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 73.00% | ~85 |
-| Thalya – Simply Immortal | 73.00% | ~85 |
+| The Last Stand | 76.00% | ~88 |
+| Thalya – Simply Immortal | 76.00% | ~88 |
 | Thalya's Concentrated Fury | 59.00% | ~68 |
 | For the Horde! | 58.00% | ~67 |
-| Hammer Time, Round Two | 54.00% | ~63 |
-| The Hellwoods | 44.00% | ~51 |
-| Master of Magic | 35.00% | ~41 |
+| Hammer Time, Round Two | 56.00% | ~65 |
+| The Hellwoods | 47.00% | ~55 |
+| Master of Magic | 37.00% | ~43 |
+| Magic Accidents | 34.00% | ~39 |
 | Trap Master | 31.00% | ~36 |
-| Magic Accidents | 31.00% | ~36 |
-| Experienced Thalya | 27.00% | ~31 |
-| Unicorn steaks – fresh off the hoof! | 24.00% | ~28 |
-| The Plains of Strothalm | 22.00% | ~26 |
+| Experienced Thalya | 28.00% | ~32 |
+| Unicorn steaks – fresh off the hoof! | 25.00% | ~29 |
+| The Plains of Strothalm | 24.00% | ~28 |
+| Minions, Minions! | 19.00% | ~22 |
 | Bad Elves Go Everywhere | 19.00% | ~22 |
-| Minions, Minions! | 17.00% | ~20 |
-| Heroes’ Gorge | 7.00% | ~8 |
-| YOU SHALL NOT PASS! | 7.00% | ~8 |
-| Mana Cannon | 5.00% | ~6 |
+| Heroes’ Gorge | 8.00% | ~9 |
+| YOU SHALL NOT PASS! | 8.00% | ~9 |
+| Mana Cannon | 7.00% | ~8 |
 | Sacrificial Pit = Garbage Disposal? | 4.00% | ~5 |
 | The Ascent | 3.00% | ~3 |
 | Pure Dynamite! | 3.00% | ~3 |
@@ -66,7 +66,7 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 116 (Ranked 404)  
+Progressed: 116 (Ranked 405)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |

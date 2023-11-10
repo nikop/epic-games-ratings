@@ -31,8 +31,8 @@ Rating: 4.19 (Ranked 916)
 | The Commonality | 3.00% | ~493 |
 | In Striking Distance | 2.00% | ~329 |
 | One Last Job | 2.00% | ~87 |
+| Big Spender | 1.00% | ~44 |
 | This Isn't About Escape | 1.00% | ~44 |
-| Big Spender | 0.90% | ~39 |
 | Armed to the Teeth | 0.80% | ~35 |
 | Information Overload | 0.80% | ~35 |
 | Grim Reaper | 0.70% | ~115 |

@@ -2,13 +2,13 @@
   "ID": "fd0183d33a5a40ff8cd4a6ebb52f6ace",
   "Name": "A Short Hike",
   "ProductSlug": "a-short-hike",
-  "Ranking_Rating": 64,
+  "Ranking_Rating": 65,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-03-04T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -390,6 +390,6 @@
   "FirstSeen": "2022-07-22T20:29:23.6184484+00:00",
   "LastChanged": "2023-06-21T02:05:57.1569664+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.3733276+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:04:46.6671625+00:00",
-  "LastUpdate_Achievements": "2023-11-10T13:09:23.0979867+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:00:00.4504928+00:00",
+  "LastUpdate_Achievements": "2023-11-10T14:04:31.9523528+00:00"
 }

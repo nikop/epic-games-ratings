@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -316,9 +316,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 98
     },
     {
       "ID": "BreakTheLoop",
@@ -340,9 +340,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "Chicken",
@@ -372,9 +372,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "EasternWetlands",
@@ -548,9 +548,9 @@
       "ID": "PrometheusUnbound",
       "SetID": "1n308hc",
       "Name": "Prometheus Unbound",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "PuzzleFiend",
@@ -684,9 +684,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 121
     },
     {
       "ID": "TouchGrass",
@@ -757,8 +757,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-09T22:04:46.1643525+00:00",
-  "LastChanged_Achievements": "2023-11-10T13:11:25.4742552+00:00",
+  "LastChanged_Achievements": "2023-11-10T14:06:32.5529955+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:05:17.461731+00:00",
-  "LastUpdate_Achievements": "2023-11-10T13:11:25.4743037+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:00:29.8307345+00:00",
+  "LastUpdate_Achievements": "2023-11-10T14:06:32.5530346+00:00"
 }

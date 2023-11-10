@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129056,
+  "EOS_Progressed": 129057,
   "EOS_Completed": 1102,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1100,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -23465,6 +23465,11 @@
       "Time": "2023-11-10T13:08:16.4355888+00:00",
       "NumProgressed": 129056,
       "NumCompleted": 1102
+    },
+    {
+      "Time": "2023-11-10T14:03:27.5214953+00:00",
+      "NumProgressed": 129057,
+      "NumCompleted": 1102
     }
   ],
   "TotalAchievements": 34,
@@ -23500,7 +23505,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 37426
+      "UsersEstimate": 37427
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -23532,7 +23537,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 103245
+      "UsersEstimate": 103246
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -23548,7 +23553,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 72271
+      "UsersEstimate": 72272
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -23628,7 +23633,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 19358
+      "UsersEstimate": 19359
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -23692,7 +23697,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 30973
+      "UsersEstimate": 30974
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -23724,7 +23729,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 30973
+      "UsersEstimate": 30974
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -23747,7 +23752,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 129056,
+      "Progressed": 129057,
       "Completed": 1102
     }
   ],
@@ -23755,8 +23760,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-10-24T13:02:43.2101137+00:00",
-  "LastChanged_Achievements": "2023-11-10T13:08:16.4355885+00:00",
+  "LastChanged_Achievements": "2023-11-10T14:03:27.5214949+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:05.9938118+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:04:10.4289165+00:00",
-  "LastUpdate_Achievements": "2023-11-10T13:08:16.4357266+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:59:25.4796968+00:00",
+  "LastUpdate_Achievements": "2023-11-10T14:03:27.5216058+00:00"
 }

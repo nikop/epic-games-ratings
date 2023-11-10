@@ -3346,9 +3346,9 @@
       "Count": 740
     }
   ],
-  "EOS_Progressed": 239450,
+  "EOS_Progressed": 239453,
   "EOS_Completed": 287,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 403,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24511,6 +24511,11 @@
       "Time": "2023-11-10T13:14:06.1459958+00:00",
       "NumProgressed": 239450,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-10T14:09:22.2327761+00:00",
+      "NumProgressed": 239453,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 138,
@@ -24672,9 +24677,9 @@
       "ID": "DIE25TIMES",
       "SetID": "5l8oe0h",
       "Name": "R.I.P",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 479
     },
     {
       "ID": "DIEBOSS",
@@ -25625,13 +25630,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239450,
+      "Progressed": 239453,
       "Completed": 287
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 930,
+      "Progressed": 933,
       "Completed": 374
     }
   ],
@@ -25639,8 +25644,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-10T07:03:14.5085513+00:00",
-  "LastChanged_Achievements": "2023-11-10T13:14:06.1459955+00:00",
+  "LastChanged_Achievements": "2023-11-10T14:09:22.2327757+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:07:35.7744217+00:00",
-  "LastUpdate_Achievements": "2023-11-10T13:14:06.1462461+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:02:46.5105374+00:00",
+  "LastUpdate_Achievements": "2023-11-10T14:09:22.2330419+00:00"
 }

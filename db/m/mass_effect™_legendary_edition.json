@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -3387,9 +3387,9 @@
       "ID": "achievement_19",
       "SetID": "b9pe172",
       "Name": "Archivist",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 326
     },
     {
       "ID": "achievement_2",
@@ -3435,9 +3435,9 @@
       "ID": "achievement_24",
       "SetID": "b9pe172",
       "Name": "Soldier Ally",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 500
     },
     {
       "ID": "achievement_25",
@@ -4111,8 +4111,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-10T13:10:49.9155905+00:00",
+  "LastChanged_Achievements": "2023-11-10T14:05:57.1909387+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:07:28.1716061+00:00",
-  "LastUpdate_Achievements": "2023-11-10T13:10:49.9157337+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:02:38.6299862+00:00",
+  "LastUpdate_Achievements": "2023-11-10T14:05:57.1911027+00:00"
 }

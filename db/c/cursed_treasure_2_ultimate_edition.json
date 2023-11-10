@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "BADGE_ARMORED_KNIGHT_KILL",
       "SetID": "ak6pfjk",
       "Name": "Tinned Corpse",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     },
     {
       "ID": "BADGE_BOSS_1_KILL",
@@ -577,9 +577,9 @@
       "ID": "BADGE_METEOR_SIMULTANEOUS_KILL",
       "SetID": "ak6pfjk",
       "Name": "Sharpshooter",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 123
     },
     {
       "ID": "BADGE_MONUMENT_KEEPER",
@@ -682,8 +682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-10T13:09:30.0117997+00:00",
+  "LastChanged_Achievements": "2023-11-10T14:04:38.5033872+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.7745702+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:04:33.9759074+00:00",
-  "LastUpdate_Achievements": "2023-11-10T13:09:30.0118373+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:59:48.3856801+00:00",
+  "LastUpdate_Achievements": "2023-11-10T14:04:38.5034185+00:00"
 }

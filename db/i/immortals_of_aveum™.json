@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1265,9 +1265,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 177
     },
     {
       "ID": "achievement_36",
@@ -1361,9 +1361,9 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_5",
@@ -1489,9 +1489,9 @@
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
@@ -1506,8 +1506,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-10T13:10:46.6249378+00:00",
+  "LastChanged_Achievements": "2023-11-10T14:05:53.8544562+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:03:09.0106558+00:00",
-  "LastUpdate_Achievements": "2023-11-10T13:10:46.6249765+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:58:28.0787359+00:00",
+  "LastUpdate_Achievements": "2023-11-10T14:05:53.8544895+00:00"
 }

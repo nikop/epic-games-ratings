@@ -9,8 +9,8 @@
 | Foreman of Darkness | 96.00% | ~169 |
 | Brilliant Day | 94.00% | ~165 |
 | Evil Genius | 89.00% | ~157 |
+| Tinned Corpse | 85.00% | ~150 |
 | Air Defense | 85.00% | ~150 |
-| Tinned Corpse | 84.00% | ~148 |
 | Your War is Over | 83.00% | ~146 |
 | The Starry Night | 78.00% | ~137 |
 | Go Home! | 77.00% | ~136 |
@@ -23,7 +23,7 @@
 | Architect of Darkness | 71.00% | ~125 |
 | Top of the World | 70.00% | ~123 |
 | Takeover | 70.00% | ~123 |
-| Sharpshooter | 69.00% | ~121 |
+| Sharpshooter | 70.00% | ~123 |
 | The Apotheosis of War | 68.00% | ~120 |
 | Stasis Alcatraz | 68.00% | ~120 |
 | Brilliant: Holy Mountain | 64.00% | ~113 |

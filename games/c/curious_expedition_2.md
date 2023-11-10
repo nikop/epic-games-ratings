@@ -25,7 +25,7 @@ Number of Ratings: 20  (23.09.2022)
 | Nahua Seeker | 24.00% | ~81 |
 | Roll to Save | 22.00% | ~74 |
 | Veteran Explorer | 21.00% | ~71 |
-| Red Flag Pirate | 18.00% | ~61 |
+| Red Flag Pirate | 19.00% | ~64 |
 | Iron Man | 17.00% | ~57 |
 | Shortening of the Way | 16.00% | ~54 |
 | A Gentle Beast | 16.00% | ~54 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338 (Ranked 323)  
+Progressed: 338 (Ranked 324)  
 Completed: 1 (0.30%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |

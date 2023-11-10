@@ -5,12 +5,12 @@ Rating: 4.25 (Ranked 874)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 80.00% | ~1,752 |
-| Don't I Know You...? | 76.00% | ~1,664 |
-| Jailbreak | 66.00% | ~1,445 |
-| HEADSHOT! | 38.00% | ~832 |
-| Suited and Booted | 38.00% | ~832 |
-| Sleeping With The Fishes | 36.00% | ~788 |
+| Rigged And Ready | 80.00% | ~1,753 |
+| Don't I Know You...? | 76.00% | ~1,665 |
+| Jailbreak | 66.00% | ~1,446 |
+| HEADSHOT! | 38.00% | ~833 |
+| Suited and Booted | 38.00% | ~833 |
+| Sleeping With The Fishes | 36.00% | ~789 |
 | Overheated | 30.00% | ~657 |
 | High Performance | 30.00% | ~657 |
 | Powered Up | 28.00% | ~613 |
@@ -26,7 +26,7 @@ Rating: 4.25 (Ranked 874)
 | Unforeseeable Consequences | 19.00% | ~416 |
 | Dead Again | 18.00% | ~394 |
 | Full Arsenal | 17.00% | ~372 |
-| Can't Trust Banks | 15.00% | ~328 |
+| Can't Trust Banks | 15.00% | ~329 |
 | Mommy Dearest | 13.00% | ~285 |
 | Bad Dog | 13.00% | ~285 |
 | Where It All Began | 13.00% | ~285 |
@@ -63,7 +63,7 @@ Rating: 4.25 (Ranked 874)
 | Loot, Pillage & Craft | 2.00% | ~44 |
 | Swiss Army Drone | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,190 (Ranked 215)  
+Progressed: 2,191 (Ranked 215)  
 Completed: 13 (0.59%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 13 (0.59%) (Ranked 181)
 | 2023-11-07 | 2,187 | 13 |
 | 2023-11-08 | 2,188 | 13 |
 | 2023-11-09 | 2,190 | 13 |
+| 2023-11-10 | 2,191 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

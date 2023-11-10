@@ -8,15 +8,15 @@ Rating: 4.02 (Ranked 986)
 | Unforeseen | 88.00% | ~208 |
 | Battlefields Have Memories | 83.00% | ~196 |
 | Enlisted | 78.00% | ~184 |
-| Maybe Engage a Little | 74.00% | ~175 |
+| Maybe Engage a Little | 75.00% | ~177 |
 | No More Names | 61.00% | ~144 |
 | Initiate | 47.00% | ~111 |
 | Thrada-Kul | 43.00% | ~101 |
 | Gravity-Challenged Rocks | 32.00% | ~76 |
-| Soldier | 28.00% | ~66 |
+| Soldier | 29.00% | ~68 |
 | All the Major Food Groups | 28.00% | ~66 |
 | Socialite | 26.00% | ~61 |
-| Beggars Would Ride | 24.00% | ~57 |
+| Beggars Would Ride | 25.00% | ~59 |
 | Control is an Illusion | 23.00% | ~54 |
 | The Means to Save It | 20.00% | ~47 |
 | Resilience to Sin | 18.00% | ~42 |

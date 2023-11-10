@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -4424,9 +4424,9 @@
       "ID": "NEW_ACHIEVEMENT_MR_STARK",
       "SetID": "l546gc",
       "Name": "I don\u0027t feel so good",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 697
+      "UsersEstimate": 714
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4561,8 +4561,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-08T15:58:28.9481693+00:00",
-  "LastChanged_Achievements": "2023-11-10T13:10:47.4092403+00:00",
+  "LastChanged_Achievements": "2023-11-10T14:05:54.7211875+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:13.9146471+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:04:00.3707857+00:00",
-  "LastUpdate_Achievements": "2023-11-10T13:10:47.4092919+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:59:16.5255048+00:00",
+  "LastUpdate_Achievements": "2023-11-10T14:05:54.7212361+00:00"
 }
