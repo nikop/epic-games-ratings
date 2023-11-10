@@ -561,9 +561,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3369,
+  "EOS_Progressed": 3370,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 299,
+  "EOS_NewPlayers": 300,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4691,6 +4691,11 @@
       "Time": "2023-11-10T12:05:16.1744261+00:00",
       "NumProgressed": 3369,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T13:10:03.6313256+00:00",
+      "NumProgressed": 3370,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4711,7 +4716,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "achievement_11",
@@ -4735,7 +4740,7 @@
       "Name": "MVP",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "achievement_14",
@@ -4799,7 +4804,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1920
+      "UsersEstimate": 1921
     },
     {
       "ID": "achievement_21",
@@ -4855,7 +4860,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "achievement_9",
@@ -4870,7 +4875,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3369,
+      "Progressed": 3370,
       "Completed": 0
     }
   ],
@@ -4878,8 +4883,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-09T22:04:22.9317958+00:00",
-  "LastChanged_Achievements": "2023-11-10T12:05:16.1744256+00:00",
+  "LastChanged_Achievements": "2023-11-10T13:10:03.6313251+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:56:57.0851178+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:05:16.1744576+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:01:51.386123+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:10:03.6313612+00:00"
 }

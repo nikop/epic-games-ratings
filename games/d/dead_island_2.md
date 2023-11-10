@@ -20,21 +20,21 @@ Rating: 4.54 (Ranked 522)
 | Friends Like These | 0.50% | ~3,579 |
 | Apex Predator | 0.50% | ~3,579 |
 | Personal Assistant Personally Assisted | 0.50% | ~3,579 |
-| Perks of the Job | 0.40% | ~2,863 |
-| But Doctor, I am Butcho | 0.40% | ~2,863 |
-| Can't Handle the Truth | 0.40% | ~2,863 |
-| Like Riding a Bike | 0.40% | ~2,863 |
-| Zombologist | 0.40% | ~2,863 |
-| A Patton Emerges | 0.40% | ~2,863 |
-| Stacking the Deck | 0.40% | ~2,863 |
-| Max Headroom | 0.40% | ~2,863 |
-| Our True Nature | 0.40% | ~2,863 |
-| This is My Weapon | 0.40% | ~2,863 |
+| Perks of the Job | 0.40% | ~2,864 |
+| I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,864 |
+| But Doctor, I am Butcho | 0.40% | ~2,864 |
+| Slayer Squad | 0.40% | ~2,864 |
+| Can't Handle the Truth | 0.40% | ~2,864 |
+| Like Riding a Bike | 0.40% | ~2,864 |
+| Zombologist | 0.40% | ~2,864 |
+| Ooh, Shiny! | 0.40% | ~2,864 |
+| A Patton Emerges | 0.40% | ~2,864 |
+| Stacking the Deck | 0.40% | ~2,864 |
+| Max Headroom | 0.40% | ~2,864 |
+| Our True Nature | 0.40% | ~2,864 |
+| This is My Weapon | 0.40% | ~2,864 |
 | Making Your Mark | 0.30% | ~2,148 |
-| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,148 |
-| Slayer Squad | 0.30% | ~2,148 |
 | Not Even My Final Form | 0.30% | ~2,148 |
-| Ooh, Shiny! | 0.30% | ~2,148 |
 | Humanity Distilled | 0.30% | ~2,148 |
 | I Am the Resurrection | 0.30% | ~2,148 |
 | Down with the Sickness | 0.30% | ~2,148 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,856 (Ranked 21)  
+Progressed: 715,878 (Ranked 21)  
 Completed: 2,371 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2,371 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,856 | 2,371 |
+| 2023-11-10 | 715,878 | 2,371 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
 Sum: 11,000 (Ranked 86)  

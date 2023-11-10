@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -3993,10 +3993,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4951,
       "NumberOfAwardsMax": 2917
+    },
+    {
+      "Time": "2023-11-10T13:03:52.6122133+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4955,
+      "NumberOfAwardsMax": 2917
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4951,
+  "NumberOfAwards": 4955,
   "NumberOfAwardsMax": 2917,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4010,7 +4016,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 253
+      "Count": 257
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4061,9 +4067,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76223,
+  "EOS_Progressed": 76224,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22101,6 +22107,11 @@
       "Time": "2023-11-10T11:03:54.7975017+00:00",
       "NumProgressed": 76223,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-10T13:08:02.2523444+00:00",
+      "NumProgressed": 76224,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22160,7 +22171,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17531
+      "UsersEstimate": 17532
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -22200,7 +22211,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11433
+      "UsersEstimate": 11434
     },
     {
       "ID": "CHALLENGES_1",
@@ -22336,7 +22347,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21342
+      "UsersEstimate": 21343
     },
     {
       "ID": "FREEZE_1_5",
@@ -22352,7 +22363,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14482
+      "UsersEstimate": 14483
     },
     {
       "ID": "FREEZE_3",
@@ -22544,7 +22555,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11433
+      "UsersEstimate": 11434
     },
     {
       "ID": "MYSTERY_07",
@@ -22599,22 +22610,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76223,
+      "Progressed": 76224,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46503,
+      "Progressed": 46504,
       "Completed": 2673
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-09T13:03:17.698361+00:00",
-  "LastChanged_Achievements": "2023-11-10T12:03:15.1199267+00:00",
+  "LastChanged": "2023-11-10T13:03:52.6122131+00:00",
+  "LastChanged_Achievements": "2023-11-10T13:08:02.2523441+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:58:56.1400709+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:03:15.1200578+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:03:52.6122137+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:08:02.2524764+00:00"
 }

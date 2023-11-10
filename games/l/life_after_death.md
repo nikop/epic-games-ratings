@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Game is Starting! | 18.00% | ~5 |
-| First steps!! | 11.00% | ~3 |
-| Keep going!!! | 11.00% | ~3 |
+| The Game is Starting! | 17.00% | ~5 |
+| First steps!! | 10.00% | ~3 |
+| Keep going!!! | 10.00% | ~3 |
 | There is always a first time!!! | 7.00% | ~2 |
-| I can do it more!!! | 4.00% | ~1 |
-| This is a a good day!!!! | 4.00% | ~1 |
-| Sometimes is better think twice!!!! | 4.00% | ~1 |
-| I will not wait for tomorrow is now!!! | 4.00% | ~1 |
+| I can do it more!!! | 3.00% | ~1 |
+| This is a a good day!!!! | 3.00% | ~1 |
+| Sometimes is better think twice!!!! | 3.00% | ~1 |
+| I will not wait for tomorrow is now!!! | 3.00% | ~1 |
 | They can hit but don't hurt!!! | 0.00% | ~0 |
 | So cool when we achieve!!! | 0.00% | ~0 |
 | This getting hot!!! | 0.00% | ~0 |
@@ -65,7 +65,7 @@
 | I will clean this world!!! | 0.00% | ~0 |
 | Break the rules!!! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28 (Ranked 514)  
+Progressed: 29 (Ranked 512)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -90,3 +90,4 @@ Completed: 0 (0.00%) (Ranked 346)
 | 2023-10-08 | 26 | 0 |
 | 2023-10-10 | 27 | 0 |
 | 2023-11-04 | 28 | 0 |
+| 2023-11-10 | 29 | 0 |

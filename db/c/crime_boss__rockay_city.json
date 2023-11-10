@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4533,9 +4533,9 @@
       "Count": 486
     }
   ],
-  "EOS_Progressed": 90108,
+  "EOS_Progressed": 90126,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24683,6 +24683,11 @@
       "Time": "2023-11-10T12:03:58.9912519+00:00",
       "NumProgressed": 90108,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-10T13:08:46.0278349+00:00",
+      "NumProgressed": 90126,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24694,7 +24699,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACH_0011",
@@ -24734,7 +24739,7 @@
       "Name": "Legend Looter",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_0016",
@@ -24742,7 +24747,7 @@
       "Name": "Imports and Exports",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_0021",
@@ -24782,7 +24787,7 @@
       "Name": "Foo Finder",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_0060",
@@ -24790,7 +24795,7 @@
       "Name": "Freebooter",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_0061",
@@ -24830,7 +24835,7 @@
       "Name": "Moneybags",
       "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_0200",
@@ -24838,7 +24843,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACH_0210",
@@ -24846,7 +24851,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1803
     },
     {
       "ID": "ACH_0211",
@@ -25021,22 +25026,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90108,
+      "Progressed": 90126,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18455,
-      "Completed": 15564
+      "Progressed": 18473,
+      "Completed": 15565
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-10T11:01:24.2243642+00:00",
-  "LastChanged_Achievements": "2023-11-10T12:03:58.9912514+00:00",
+  "LastChanged_Achievements": "2023-11-10T13:08:46.0278346+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:59:53.0150841+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:03:58.9913737+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:04:49.6554908+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:08:46.0279863+00:00"
 }

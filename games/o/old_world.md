@@ -102,6 +102,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 1.00% | ~152 |
 | Cimmerian Archer | 1.00% | ~152 |
 | Legionary | 1.00% | ~152 |
+| Phalangite | 1.00% | ~152 |
 | Double Victory | 1.00% | ~152 |
 | Points Victory | 1.00% | ~152 |
 | The Clergy | 1.00% | ~152 |
@@ -116,8 +117,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Dualism | 0.90% | ~137 |
 | Gnosticism | 0.90% | ~137 |
 | Revelation | 0.90% | ~137 |
+| Veneration | 0.90% | ~137 |
 | Mounted Lancer | 0.90% | ~137 |
-| Phalangite | 0.90% | ~137 |
 | Ambition Victory | 0.90% | ~137 |
 | Capable | 0.80% | ~122 |
 | Devout | 0.80% | ~122 |
@@ -126,7 +127,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.80% | ~122 |
 | Industrial Progress | 0.80% | ~122 |
 | Enlightenment | 0.80% | ~122 |
-| Veneration | 0.80% | ~122 |
+| Bad Heir Day | 0.70% | ~107 |
 | Clerics | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
 | Hittite Paganism | 0.70% | ~107 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.70% | ~107 |
 | Poetic Leader | 0.70% | ~107 |
 | Kmt Unified | 0.70% | ~107 |
-| Bad Heir Day | 0.60% | ~91 |
 | Ishtar Gate in Babylon | 0.60% | ~91 |
 | Noble Difficulty | 0.60% | ~91 |
 | Cao'an | 0.60% | ~91 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,233 (Ranked 145)  
+Progressed: 15,235 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 5 (0.03%) (Ranked 310)
 | 2023-11-07 | 15,201 | 5 |
 | 2023-11-08 | 15,218 | 5 |
 | 2023-11-09 | 15,231 | 5 |
-| 2023-11-10 | 15,233 | 5 |
+| 2023-11-10 | 15,235 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 273)  
 Sum: 1,872 (Ranked 214)  

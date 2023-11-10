@@ -6,18 +6,20 @@ Rating: 4.61 (Ranked 385)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 1.00% | ~53 |
+| Secret Technique | 0.50% | ~27 |
 | Realm Estate | 0.40% | ~21 |
-| Secret Technique | 0.40% | ~21 |
 | A Wonderful Discovery | 0.30% | ~16 |
 | Walls Cannot Stop Us | 0.30% | ~16 |
 | Freed Lands of Manuhari | 0.30% | ~16 |
 | Spoils of War | 0.30% | ~16 |
 | There Can Only Be One! | 0.20% | ~11 |
+| Full Ascension | 0.20% | ~11 |
 | Bone Peddler | 0.20% | ~11 |
 | From Friends to Family | 0.20% | ~11 |
 | Stronger Together | 0.20% | ~11 |
 | Magical Synergy | 0.20% | ~11 |
 | Seat of Power | 0.20% | ~11 |
+| In a Liege of Your Own | 0.20% | ~11 |
 | Impenetrable Fortress | 0.20% | ~11 |
 | Intimidation Tactics | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
@@ -29,7 +31,6 @@ Rating: 4.61 (Ranked 385)
 | Valley of Wonders | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
-| Full Ascension | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
@@ -42,7 +43,6 @@ Rating: 4.61 (Ranked 385)
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
 | My Final Form | 0.10% | ~5 |
-| In a Liege of Your Own | 0.10% | ~5 |
 | Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |

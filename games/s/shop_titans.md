@@ -1,30 +1,30 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 995)  
+Rating: 3.99 (Ranked 996)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,560 |
-| Basic in Bulk | 4.00% | ~5,560 |
-| Titan's First Steps | 4.00% | ~5,560 |
-| Disintermediation | 3.00% | ~4,170 |
-| Tinkle of Coins | 3.00% | ~4,170 |
-| Capitalism Ho! | 3.00% | ~4,170 |
-| The Daily Grind | 2.00% | ~2,780 |
-| One Easy Payment | 2.00% | ~2,780 |
-| Some Assembly Required | 2.00% | ~2,780 |
-| Bounty Hunters | 2.00% | ~2,780 |
-| Flooding the Market | 2.00% | ~2,780 |
-| Another Satisfied Customer | 2.00% | ~2,780 |
-| It's Free Real Estate | 2.00% | ~2,780 |
-| Pretty Penny | 2.00% | ~2,780 |
-| One-Armed Bandit | 2.00% | ~2,780 |
-| Budding Merchant | 2.00% | ~2,780 |
-| Dungeon Imports | 2.00% | ~2,780 |
-| Through Repetition, Perfection | 2.00% | ~2,780 |
-| Own the Means of Production | 2.00% | ~2,780 |
+| Sponsored by Argon | 4.00% | ~5,561 |
+| Basic in Bulk | 4.00% | ~5,561 |
+| Titan's First Steps | 4.00% | ~5,561 |
+| Disintermediation | 3.00% | ~4,171 |
+| Tinkle of Coins | 3.00% | ~4,171 |
+| Capitalism Ho! | 3.00% | ~4,171 |
+| The Daily Grind | 2.00% | ~2,781 |
+| One Easy Payment | 2.00% | ~2,781 |
+| Some Assembly Required | 2.00% | ~2,781 |
+| Bounty Hunters | 2.00% | ~2,781 |
+| Flooding the Market | 2.00% | ~2,781 |
+| Another Satisfied Customer | 2.00% | ~2,781 |
+| It's Free Real Estate | 2.00% | ~2,781 |
+| Pretty Penny | 2.00% | ~2,781 |
+| One-Armed Bandit | 2.00% | ~2,781 |
+| Budding Merchant | 2.00% | ~2,781 |
+| Dungeon Imports | 2.00% | ~2,781 |
+| Through Repetition, Perfection | 2.00% | ~2,781 |
+| Own the Means of Production | 2.00% | ~2,781 |
 | On the Path to Greatness | 1.00% | ~1,390 |
 | Ascended | 1.00% | ~1,390 |
 | Tax not Included | 1.00% | ~1,390 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,010 (Ranked 79)  
+Progressed: 139,027 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 139,010 | 180 |
+| 2023-11-10 | 139,027 | 180 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 74)  
 Sum: 27,521 (Ranked 52)  

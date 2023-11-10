@@ -2,7 +2,7 @@
   "ID": "f89c6ace5ad646039f92408601334491",
   "Name": "Mars Base",
   "ProductSlug": "mars-base-a00ce0",
-  "Ranking_EOS_Progress": 738,
+  "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 129,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:32.1644396+00:00",
   "LastChanged": "2023-03-31T05:57:32.1644397+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:47.315137+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:58:22.0183511+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:05:18.4612846+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:03:18.6225151+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:10:05.9022645+00:00"
 }

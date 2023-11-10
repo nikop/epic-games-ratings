@@ -747,9 +747,9 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -1299,9 +1299,9 @@
       "ID": "PRG_SP_arcadeFTUX",
       "SetID": "89cjc9l",
       "Name": "Graduation!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
@@ -1316,8 +1316,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-11-10T12:04:44.2384101+00:00",
+  "LastChanged_Achievements": "2023-11-10T13:09:32.08993+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:11.9944802+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:57:22.1032644+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:04:44.2384742+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:02:16.9758375+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:09:32.0899815+00:00"
 }

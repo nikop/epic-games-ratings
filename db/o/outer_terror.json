@@ -2,7 +2,7 @@
   "ID": "ec372db47e1b41449719ca1ce595bf36",
   "Name": "Outer Terror",
   "ProductSlug": "outer-terror-9f2593",
-  "Ranking_EOS_Progress": 738,
+  "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 129,
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-20T16:57:55.6391049+00:00",
   "LastChanged": "2023-04-20T16:57:55.6391049+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:20.9031718+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:58:44.8312308+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:08:00.2641917+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:03:41.1783741+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:11:26.5931862+00:00"
 }

@@ -7,8 +7,8 @@
 | Eat My Dust | 44.00% | ~917 |
 | First Love | 43.00% | ~896 |
 | Clean Race | 41.00% | ~854 |
-| Hear That Roar! | 39.00% | ~812 |
-| Rivals to the End | 28.00% | ~583 |
+| Hear That Roar! | 39.00% | ~813 |
+| Rivals to the End | 28.00% | ~584 |
 | Bitter Rivalry | 26.00% | ~542 |
 | We're Going to Need a Bigger Garage | 24.00% | ~500 |
 | Champagne Spray | 24.00% | ~500 |
@@ -24,12 +24,12 @@
 | Evangelist | 6.00% | ~125 |
 | Make It Your Own! | 5.00% | ~104 |
 | I Make the Rules! | 4.00% | ~83 |
-| Spoilt for Choice | 3.00% | ~62 |
-| Cherry Blossom and Temples | 3.00% | ~62 |
-| La Dolce Vita | 3.00% | ~62 |
-| The Road to Liberty | 3.00% | ~62 |
-| Romantic Races | 3.00% | ~62 |
-| Rounding Off | 3.00% | ~62 |
+| Spoilt for Choice | 3.00% | ~63 |
+| Cherry Blossom and Temples | 3.00% | ~63 |
+| La Dolce Vita | 3.00% | ~63 |
+| The Road to Liberty | 3.00% | ~63 |
+| Romantic Races | 3.00% | ~63 |
+| Rounding Off | 3.00% | ~63 |
 | Iconic! | 2.00% | ~42 |
 | Back in Blighty | 2.00% | ~42 |
 | Still Here | 2.00% | ~42 |
@@ -39,7 +39,7 @@
 | Next Level | 1.00% | ~21 |
 | I Don't Stop | 1.00% | ~21 |
 | Exhausted but Happy | 0.70% | ~15 |
-| In Search of Perfection | 0.60% | ~12 |
+| In Search of Perfection | 0.60% | ~13 |
 | Globe-trotter | 0.50% | ~10 |
 | Maximum Endurance | 0.30% | ~6 |
 | All My Own Toys | 0.20% | ~4 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,083 (Ranked 218)  
+Progressed: 2,084 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,4 +124,4 @@ Completed: 0 (0.00%) (Ranked 346)
 | 2023-11-07 | 2,043 | 0 |
 | 2023-11-08 | 2,060 | 0 |
 | 2023-11-09 | 2,075 | 0 |
-| 2023-11-10 | 2,083 | 0 |
+| 2023-11-10 | 2,084 | 0 |

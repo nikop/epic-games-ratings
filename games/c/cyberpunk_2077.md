@@ -12,13 +12,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.50% | ~4,480 |
 | True Soldier | 0.50% | ~4,480 |
 | Right Back At Ya | 0.40% | ~3,584 |
+| The Quick and the Dead | 0.40% | ~3,584 |
 | Stanislavski's Method | 0.40% | ~3,584 |
-| All the President's Men | 0.40% | ~98 |
-| Arachnophobia | 0.40% | ~98 |
+| All the President's Men | 0.40% | ~99 |
+| Arachnophobia | 0.40% | ~99 |
 | Bushido and Chill | 0.30% | ~2,688 |
 | Master Crafter | 0.30% | ~2,688 |
 | Christmas Tree Attack | 0.30% | ~2,688 |
-| The Quick and the Dead | 0.30% | ~2,688 |
 | Life of the Road | 0.30% | ~2,688 |
 | The Hermit | 0.30% | ~2,688 |
 | The High Priestess | 0.30% | ~2,688 |
@@ -34,6 +34,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 0.20% | ~1,792 |
 | I Am The Law | 0.20% | ~1,792 |
 | The Fool | 0.20% | ~1,792 |
+| The Sun | 0.20% | ~1,792 |
 | Two Heads, One Bullet | 0.20% | ~1,792 |
 | King of Wands | 0.20% | ~49 |
 | The Tower | 0.20% | ~49 |
@@ -54,7 +55,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Rough Landing | 0.10% | ~896 |
 | The Devil | 0.10% | ~896 |
 | The Star | 0.10% | ~896 |
-| The Sun | 0.10% | ~896 |
 | Greetings from Pacifica! | 0.10% | ~896 |
 | The Jungle | 0.10% | ~896 |
 | It's Elementary | 0.10% | ~896 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,995 (Ranked 15)  
+Progressed: 896,003 (Ranked 15)  
 Completed: 2,760 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 2,760 (0.31%) (Ranked 224)
 | 2023-11-07 | 895,712 | 2,753 |
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
-| 2023-11-10 | 895,995 | 2,760 |
+| 2023-11-10 | 896,003 | 2,760 |
 ## Awards
 Max (Character Customization): 104,676  (Ranked 9)  
 Sum: 348,069 (Ranked 10)  

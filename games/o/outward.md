@@ -34,8 +34,8 @@ Number of Ratings: 266  (23.09.2022)
 | The stuff of legends. | 6.00% | ~219 |
 | Ancestor's Pride | 4.00% | ~146 |
 | For All Aurai | 4.00% | ~146 |
+| Light of Levant | 4.00% | ~146 |
 | Memory of a legend | 4.00% | ~146 |
-| Light of Levant | 3.00% | ~109 |
 | This was a mistake... | 3.00% | ~109 |
 | Crowd Pleaser. | 2.00% | ~73 |
 | Perfect Defense | 2.00% | ~73 |

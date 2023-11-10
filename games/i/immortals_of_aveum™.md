@@ -5,18 +5,18 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~207 |
-| Battlefields Have Memories | 83.00% | ~195 |
-| Enlisted | 79.00% | ~186 |
-| Maybe Engage a Little | 74.00% | ~174 |
-| No More Names | 61.00% | ~143 |
-| Initiate | 48.00% | ~113 |
+| Unforeseen | 88.00% | ~208 |
+| Battlefields Have Memories | 83.00% | ~196 |
+| Enlisted | 78.00% | ~184 |
+| Maybe Engage a Little | 74.00% | ~175 |
+| No More Names | 61.00% | ~144 |
+| Initiate | 47.00% | ~111 |
 | Thrada-Kul | 43.00% | ~101 |
-| Gravity-Challenged Rocks | 32.00% | ~75 |
+| Gravity-Challenged Rocks | 32.00% | ~76 |
 | Soldier | 28.00% | ~66 |
 | All the Major Food Groups | 28.00% | ~66 |
 | Socialite | 26.00% | ~61 |
-| Beggars Would Ride | 24.00% | ~56 |
+| Beggars Would Ride | 24.00% | ~57 |
 | Control is an Illusion | 23.00% | ~54 |
 | The Means to Save It | 20.00% | ~47 |
 | Resilience to Sin | 18.00% | ~42 |
@@ -45,16 +45,16 @@ Rating: 4.02 (Ranked 986)
 | Grand Magnus | 1.00% | ~2 |
 | Master of Ultramarine | 1.00% | ~2 |
 | Master of Malachite | 1.00% | ~2 |
-| Family Business | 0.90% | ~2 |
-| Diplomat | 0.90% | ~2 |
-| Petite Bourgeoisie | 0.90% | ~2 |
-| Witch-Taker | 0.90% | ~2 |
-| Out of Time | 0.90% | ~2 |
-| Tip of the Spear | 0.90% | ~2 |
-| Fowl Play | 0.90% | ~2 |
+| Family Business | 0.80% | ~2 |
+| Diplomat | 0.80% | ~2 |
+| Petite Bourgeoisie | 0.80% | ~2 |
+| Witch-Taker | 0.80% | ~2 |
+| Out of Time | 0.80% | ~2 |
+| Tip of the Spear | 0.80% | ~2 |
+| Fowl Play | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 356)  
-Completed: 1 (0.43%) (Ranked 205)  
+Progressed: 236 (Ranked 356)  
+Completed: 1 (0.42%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,7 +102,7 @@ Completed: 1 (0.43%) (Ranked 205)
 | 2023-11-07 | 184 | 1 |
 | 2023-11-08 | 207 | 1 |
 | 2023-11-09 | 230 | 1 |
-| 2023-11-10 | 235 | 1 |
+| 2023-11-10 | 236 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,9 +5,9 @@ Rating: 4.62 (Ranked 366)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 32.00% | ~293 |
-| Rail Rat | 26.00% | ~238 |
-| The Mysterious Stranger | 25.00% | ~229 |
+| Time Heals All Wounds | 32.00% | ~294 |
+| The Mysterious Stranger | 25.00% | ~230 |
+| Rail Rat | 25.00% | ~230 |
 | The Prince in Heels | 22.00% | ~202 |
 | Immaculate Aim | 22.00% | ~202 |
 | The Brass Boss | 22.00% | ~202 |
@@ -18,10 +18,10 @@ Rating: 4.62 (Ranked 366)
 | No, Thanks! | 21.00% | ~193 |
 | Breaking Down Barriers | 21.00% | ~193 |
 | The Wicked Twins | 21.00% | ~193 |
-| Honest Mistake | 21.00% | ~193 |
 | Fast Learner | 21.00% | ~193 |
 | Immaculate Aim | 21.00% | ~193 |
-| The Betrayer | 20.00% | ~183 |
+| The Betrayer | 20.00% | ~184 |
+| Honest Mistake | 20.00% | ~184 |
 | Like Clockwork | 19.00% | ~174 |
 | Golem Chaser | 19.00% | ~174 |
 | Check Your Pulse | 19.00% | ~174 |
@@ -31,8 +31,8 @@ Rating: 4.62 (Ranked 366)
 | The Loose Cannon | 18.00% | ~165 |
 | Street Style | 17.00% | ~156 |
 | Treasure Trove | 15.00% | ~138 |
-| Whiz Kid | 15.00% | ~138 |
 | Cartographer | 15.00% | ~138 |
+| Whiz Kid | 14.00% | ~129 |
 | Good Neighbor | 13.00% | ~119 |
 | Chaincrawler Explorer | 12.00% | ~110 |
 | Family Memories | 12.00% | ~110 |
@@ -59,7 +59,7 @@ Rating: 4.62 (Ranked 366)
 | Going to Live Forever | 0.70% | ~6 |
 | Raw Talent | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 917 (Ranked 259)  
+Progressed: 918 (Ranked 258)  
 Completed: 6 (0.65%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,6 +188,7 @@ Completed: 6 (0.65%) (Ranked 175)
 | 2023-11-02 | 915 | 6 |
 | 2023-11-04 | 916 | 6 |
 | 2023-11-05 | 917 | 6 |
+| 2023-11-10 | 918 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

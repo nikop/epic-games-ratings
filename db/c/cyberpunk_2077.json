@@ -14936,10 +14936,10 @@
       "Count": 12694
     }
   ],
-  "EOS_Progressed": 895995,
+  "EOS_Progressed": 896003,
   "EOS_Completed": 2760,
-  "EOS_NewPlayers": 977,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 978,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38036,6 +38036,11 @@
       "Time": "2023-11-10T12:03:52.6347204+00:00",
       "NumProgressed": 895995,
       "NumCompleted": 2760
+    },
+    {
+      "Time": "2023-11-10T13:08:39.5947266+00:00",
+      "NumProgressed": 896003,
+      "NumCompleted": 2760
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38174,9 +38179,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2688
+      "UsersEstimate": 3584
     },
     {
       "ID": "MustBeTheRats",
@@ -38302,9 +38307,9 @@
       "ID": "TheSun",
       "SetID": "47clieb",
       "Name": "The Sun",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 896
+      "UsersEstimate": 1792
     },
     {
       "ID": "TheWheelOfFortune",
@@ -38504,7 +38509,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "HydraIsDead",
@@ -38520,7 +38525,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "KingOfTheCups",
@@ -38583,21 +38588,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 895995,
+      "Progressed": 896003,
       "Completed": 2760
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24618,
+      "Progressed": 24626,
       "Completed": 10205
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-10T10:58:12.4927222+00:00",
-  "LastChanged_Achievements": "2023-11-10T12:03:52.6347199+00:00",
+  "LastChanged_Achievements": "2023-11-10T13:08:39.5947263+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:57:37.7448099+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:03:52.6348732+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:02:33.7203422+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:08:39.5949098+00:00"
 }

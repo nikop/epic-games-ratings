@@ -2,7 +2,7 @@
   "ID": "5c82c05d2978489090d30c05e17e6e12",
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
-  "Ranking_EOS_Progress": 738,
+  "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 129,
@@ -314,8 +314,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged_Achievements": "2023-11-10T12:03:16.5280686+00:00",
+  "LastChanged_Achievements": "2023-11-10T13:08:03.5803239+00:00",
   "LastUpdate_AppInfo": "2023-11-09T11:56:57.0899631+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:57:18.1627673+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:03:16.5280893+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:02:12.8123695+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:08:03.5803441+00:00"
 }

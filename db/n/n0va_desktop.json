@@ -2,7 +2,7 @@
   "ID": "591075eb5c4547bd9d490edb66f1dde4",
   "Name": "N0va Desktop",
   "ProductSlug": "n0va-desktop",
-  "Ranking_EOS_Progress": 738,
+  "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 129,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:36.5112066+00:00",
   "LastChanged": "2023-03-31T05:58:36.5112067+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:26.146212+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:59:02.004797+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:03:54.7186928+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:03:59.2177303+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:08:41.6681801+00:00"
 }

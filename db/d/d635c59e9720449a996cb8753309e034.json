@@ -2,7 +2,7 @@
   "ID": "d635c59e9720449a996cb8753309e034",
   "Name": "Mall of Mayhem",
   "ProductSlug": "mallofmayhem-15344c",
-  "Ranking_EOS_Progress": 738,
+  "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 129,
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-21T13:57:05.1894029+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:57.7516862+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:56:54.2874287+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:08:05.0055429+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:01:48.4845019+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:11:31.383252+00:00"
 }

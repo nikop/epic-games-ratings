@@ -19,9 +19,9 @@
 | Playtime | 15.00% | ~9 |
 | Tough conversation | 15.00% | ~9 |
 | Breaking free | 14.00% | ~8 |
+| The tragedy unfolds | 14.00% | ~8 |
 | Debut | 12.00% | ~7 |
 | The art of movement | 12.00% | ~7 |
-| The tragedy unfolds | 12.00% | ~7 |
 | True Reflection | 12.00% | ~7 |
 | A new way | 10.00% | ~6 |
 | A Slice of Life | 10.00% | ~6 |
@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59 (Ranked 459)  
+Progressed: 59 (Ranked 460)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |

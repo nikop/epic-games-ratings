@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16292,
+  "EOS_Progressed": 16293,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -13823,6 +13823,11 @@
       "Time": "2023-11-10T08:05:46.0518124+00:00",
       "NumProgressed": 16292,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-10T13:09:25.3976688+00:00",
+      "NumProgressed": 16293,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13874,7 +13879,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5376
+      "UsersEstimate": 5377
     },
     {
       "ID": "tpote_achievement_15",
@@ -13922,7 +13927,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5376
+      "UsersEstimate": 5377
     },
     {
       "ID": "tpote_achievement_20",
@@ -13946,7 +13951,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "tpote_achievement_23",
@@ -14010,7 +14015,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5213
+      "UsersEstimate": 5214
     },
     {
       "ID": "tpote_achievement_30",
@@ -14138,7 +14143,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1140
+      "UsersEstimate": 1141
     },
     {
       "ID": "tpote_achievement_8",
@@ -14146,7 +14151,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3421
+      "UsersEstimate": 3422
     },
     {
       "ID": "tpote_achievement_9",
@@ -14154,22 +14159,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5539
+      "UsersEstimate": 5540
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16292,
+      "Progressed": 16293,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-10T12:04:38.0185944+00:00",
+  "LastChanged_Achievements": "2023-11-10T13:09:25.3976684+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:38.0957248+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:59:54.6625637+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:04:38.0186848+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:04:51.4401466+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:09:25.3977783+00:00"
 }

@@ -4448,9 +4448,9 @@
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
       "SetID": "l546gc",
       "Name": "One does not simply...",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -4561,8 +4561,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-08T15:58:28.9481693+00:00",
-  "LastChanged_Achievements": "2023-11-10T12:05:59.7390012+00:00",
+  "LastChanged_Achievements": "2023-11-10T13:10:47.4092403+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:13.9146471+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:59:03.1599218+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:05:59.7390524+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:04:00.3707857+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:10:47.4092919+00:00"
 }

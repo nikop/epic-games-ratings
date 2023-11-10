@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15233,
+  "EOS_Progressed": 15235,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15720,6 +15720,11 @@
       "Time": "2023-11-10T06:04:19.9664956+00:00",
       "NumProgressed": 15233,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-10T13:08:11.8495195+00:00",
+      "NumProgressed": 15235,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -15785,9 +15790,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 91
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -17745,9 +17750,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
       "SetID": "7l38kb8",
       "Name": "Veneration",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -17809,9 +17814,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 152
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -18466,21 +18471,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15233,
+      "Progressed": 15235,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15233,
+      "Progressed": 15235,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-10T12:03:25.1327375+00:00",
+  "LastChanged_Achievements": "2023-11-10T13:08:11.8495192+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:58:17.8097891+00:00",
-  "LastUpdate_Achievements": "2023-11-10T12:03:25.1337534+00:00"
+  "LastUpdate_Ratings": "2023-11-10T13:03:14.4734763+00:00",
+  "LastUpdate_Achievements": "2023-11-10T13:08:11.8504548+00:00"
 }

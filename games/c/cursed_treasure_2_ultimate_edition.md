@@ -26,7 +26,7 @@
 | Sharpshooter | 69.00% | ~121 |
 | The Apotheosis of War | 68.00% | ~120 |
 | Stasis Alcatraz | 68.00% | ~120 |
-| Brilliant: Holy Mountain | 63.00% | ~111 |
+| Brilliant: Holy Mountain | 64.00% | ~113 |
 | Combo Breaker | 63.00% | ~111 |
 | Tastes Like Chicken | 63.00% | ~111 |
 | Thunderstorm | 63.00% | ~111 |
@@ -35,8 +35,8 @@
 | Avada Kedavra | 56.00% | ~99 |
 | Lieutenant of the Evil | 56.00% | ~99 |
 | Brilliant: Tanglewood | 53.00% | ~93 |
+| Starry: Holy Mountain | 53.00% | ~93 |
 | It's a Trap | 53.00% | ~93 |
-| Starry: Holy Mountain | 52.00% | ~92 |
 | Deposition | 49.00% | ~86 |
 | Brilliant: Arcania | 49.00% | ~86 |
 | Starry: Tanglewood | 47.00% | ~83 |

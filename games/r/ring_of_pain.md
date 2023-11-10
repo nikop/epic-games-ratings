@@ -19,6 +19,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Goodbye, Frog Friend | 0.20% | ~479 |
 | Heartless | 0.20% | ~479 |
 | What's Yours Is Mine | 0.20% | ~479 |
+| Spine Breaker | 0.20% | ~479 |
 | A Donation | 0.20% | ~479 |
 | C-C-Combo | 0.20% | ~479 |
 | Deflection | 0.20% | ~479 |
@@ -84,7 +85,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Poor Choices | 0.10% | ~239 |
 | Stop Hitting Yourself | 0.10% | ~239 |
 | Not What I Meant | 0.10% | ~239 |
-| Spine Breaker | 0.10% | ~239 |
 | Shootout | 0.10% | ~239 |
 | A Rock And A Hard Place | 0.10% | ~239 |
 | Illuminate, Eliminate | 0.10% | ~239 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,447 (Ranked 60)  
+Progressed: 239,450 (Ranked 60)  
 Completed: 287 (0.12%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 287 (0.12%) (Ranked 265)
 | 2023-11-07 | 239,335 | 286 |
 | 2023-11-08 | 239,386 | 287 |
 | 2023-11-09 | 239,427 | 287 |
-| 2023-11-10 | 239,447 | 287 |
+| 2023-11-10 | 239,450 | 287 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 130)  
 Sum: 11,664 (Ranked 83)  

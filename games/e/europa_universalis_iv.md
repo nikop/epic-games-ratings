@@ -119,6 +119,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Over a Thousand! | 0.10% | ~451 |
 | Populists in Government | 0.10% | ~451 |
 | Prester John | 0.10% | ~451 |
+| Pyramid of Skulls | 0.10% | ~451 |
 | Queen of Conquest | 0.10% | ~451 |
 | Redecorating | 0.10% | ~451 |
 | Relentless Push East | 0.10% | ~451 |
@@ -291,7 +292,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Prince of Egypt | 0.00% | ~0 |
 | Protect the Secret | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
-| Pyramid of Skulls | 0.00% | ~0 |
 | Qing of China | 0.00% | ~0 |
 | Queen of Mercury | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451,080 (Ranked 41)  
+Progressed: 451,130 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -574,7 +574,7 @@ Completed: 1 (0.00%) (Ranked 346)
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
-| 2023-11-10 | 451,080 | 1 |
+| 2023-11-10 | 451,130 | 1 |
 ## Awards
 Max (Educational): 6,930  (Ranked 55)  
 Sum: 56,948 (Ranked 24)  
