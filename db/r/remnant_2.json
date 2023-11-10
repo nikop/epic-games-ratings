@@ -4003,10 +4003,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4797,
       "NumberOfAwardsMax": 2129
+    },
+    {
+      "Time": "2023-11-10T22:02:51.4628206+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4800,
+      "NumberOfAwardsMax": 2129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4797,
+  "NumberOfAwards": 4800,
   "NumberOfAwardsMax": 2129,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4056,7 +4062,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 201
+      "Count": 204
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4077,9 +4083,9 @@
       "Count": 289
     }
   ],
-  "EOS_Progressed": 219425,
+  "EOS_Progressed": 219435,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 2127,
+  "EOS_NewPlayers": 2112,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17442,6 +17448,11 @@
       "Time": "2023-11-10T21:16:10.2586789+00:00",
       "NumProgressed": 219425,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-11-10T22:07:40.3712392+00:00",
+      "NumProgressed": 219435,
+      "NumCompleted": 437
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17462,7 +17473,7 @@
       "Name": "Crafty",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -17486,7 +17497,7 @@
       "Name": "Only Human",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -17534,7 +17545,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17554
+      "UsersEstimate": 17555
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -17558,7 +17569,7 @@
       "Name": "Not So Special Now",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -17582,7 +17593,7 @@
       "Name": "Red Room",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -17598,7 +17609,7 @@
       "Name": "Not a Janitor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "Meet_Flautist",
@@ -17614,7 +17625,7 @@
       "Name": "Equal Measures",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "Meet_Mudtooth",
@@ -17630,7 +17641,7 @@
       "Name": "Blue Goddess",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "Obtain_Archetype",
@@ -17638,7 +17649,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19748
+      "UsersEstimate": 19749
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -17654,7 +17665,7 @@
       "Name": "Top Performer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -17662,7 +17673,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -17734,7 +17745,7 @@
       "Name": "The Collector",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -17750,7 +17761,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "Obtain_Traits_A",
@@ -17782,7 +17793,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -17798,7 +17809,7 @@
       "Name": "Almost There",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "Upgrade_Relic",
@@ -17806,7 +17817,7 @@
       "Name": "Make Some Room",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -17814,7 +17825,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 10971
+      "UsersEstimate": 10972
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -17838,7 +17849,7 @@
       "Name": "Maxed Out!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -17846,23 +17857,23 @@
       "Name": "Transmutate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4389
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 219425,
+      "Progressed": 219435,
       "Completed": 437
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-10T19:03:15.2844896+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:16:10.2586786+00:00",
+  "LastChanged": "2023-11-10T22:02:51.4628204+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:07:40.3712388+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:11:04.8244792+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:16:10.258816+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:02:51.462821+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:07:40.3713348+00:00"
 }

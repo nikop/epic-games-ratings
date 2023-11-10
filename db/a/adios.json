@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78029,
+  "EOS_Progressed": 78031,
   "EOS_Completed": 833,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -22967,6 +22967,11 @@
       "Time": "2023-11-10T21:13:22.6325377+00:00",
       "NumProgressed": 78029,
       "NumCompleted": 833
+    },
+    {
+      "Time": "2023-11-10T22:04:37.6007084+00:00",
+      "NumProgressed": 78031,
+      "NumCompleted": 833
     }
   ],
   "TotalAchievements": 25,
@@ -22994,7 +22999,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 14045
+      "UsersEstimate": 14046
     },
     {
       "ID": "Audiophile",
@@ -23010,7 +23015,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17166
+      "UsersEstimate": 17167
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -23018,7 +23023,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14045
+      "UsersEstimate": 14046
     },
     {
       "ID": "Butcher",
@@ -23040,9 +23045,9 @@
       "ID": "Fair\u0027sFair",
       "SetID": "1e8d2nk",
       "Name": "Fair\u0027s Fair",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 2341
+      "UsersEstimate": 3121
     },
     {
       "ID": "HardWorker",
@@ -23074,7 +23079,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3901
+      "UsersEstimate": 3902
     },
     {
       "ID": "Master, Commander",
@@ -23082,7 +23087,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16386
+      "UsersEstimate": 16387
     },
     {
       "ID": "Meaty",
@@ -23177,7 +23182,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78029,
+      "Progressed": 78031,
       "Completed": 833
     }
   ],
@@ -23185,8 +23190,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:13:22.6325375+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:04:37.6007079+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-10T20:57:40.3379898+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:13:22.6326482+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:57:21.8003968+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:04:37.600845+00:00"
 }

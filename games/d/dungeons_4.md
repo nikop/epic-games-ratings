@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 78.00% | ~119 |
-| Thalya – Simply Immortal | 78.00% | ~119 |
-| For the Horde! | 67.00% | ~103 |
-| Hammer Time, Round Two | 62.00% | ~95 |
+| The Last Stand | 79.00% | ~121 |
+| Thalya – Simply Immortal | 79.00% | ~121 |
+| For the Horde! | 68.00% | ~104 |
+| Hammer Time, Round Two | 64.00% | ~98 |
 | Thalya's Concentrated Fury | 61.00% | ~93 |
-| The Hellwoods | 50.00% | ~76 |
-| Master of Magic | 42.00% | ~64 |
-| Trap Master | 39.00% | ~60 |
-| Magic Accidents | 37.00% | ~57 |
-| Experienced Thalya | 35.00% | ~54 |
-| The Plains of Strothalm | 33.00% | ~50 |
-| Unicorn steaks – fresh off the hoof! | 31.00% | ~47 |
-| Minions, Minions! | 25.00% | ~38 |
-| Bad Elves Go Everywhere | 24.00% | ~37 |
-| Heroes’ Gorge | 12.00% | ~18 |
+| The Hellwoods | 52.00% | ~80 |
+| Master of Magic | 43.00% | ~66 |
+| Trap Master | 40.00% | ~61 |
+| Magic Accidents | 39.00% | ~60 |
+| Experienced Thalya | 38.00% | ~58 |
+| The Plains of Strothalm | 35.00% | ~54 |
+| Unicorn steaks – fresh off the hoof! | 33.00% | ~50 |
+| Minions, Minions! | 27.00% | ~41 |
+| Bad Elves Go Everywhere | 25.00% | ~38 |
+| Heroes’ Gorge | 13.00% | ~20 |
 | YOU SHALL NOT PASS! | 12.00% | ~18 |
-| Mana Cannon | 10.00% | ~15 |
+| Mana Cannon | 11.00% | ~17 |
 | Sacrificial Pit = Garbage Disposal? | 7.00% | ~11 |
+| The Ascent | 7.00% | ~11 |
 | Pure Dynamite! | 7.00% | ~11 |
-| The Ascent | 6.00% | ~9 |
-| It's Warm and Cozy at Home | 6.00% | ~9 |
+| It's Warm and Cozy at Home | 7.00% | ~11 |
 | Hard Work | 4.00% | ~6 |
+| The Big Eaty | 4.00% | ~6 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 4.00% | ~6 |
-| The Big Eaty | 3.00% | ~5 |
-| Hungry, Hungry Gorgu! | 2.00% | ~3 |
+| Hungry, Hungry Gorgu! | 3.00% | ~5 |
 | “… like son” | 1.00% | ~2 |
 | Dungeonlord Gorgu | 1.00% | ~2 |
 | Forbidden Knowledge | 1.00% | ~2 |

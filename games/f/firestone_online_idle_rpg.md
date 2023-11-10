@@ -5,19 +5,19 @@ Rating: 4.10 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,032 |
-| World Map | 79.00% | ~1,726 |
-| Temple of Eternals | 57.00% | ~1,245 |
-| Prestigious | 54.00% | ~1,180 |
-| Fellowship Power | 42.00% | ~918 |
-| Guild Power | 26.00% | ~568 |
+| Victor | 93.00% | ~2,034 |
+| World Map | 79.00% | ~1,728 |
+| Temple of Eternals | 57.00% | ~1,247 |
+| Prestigious | 54.00% | ~1,181 |
+| Fellowship Power | 42.00% | ~919 |
+| Guild Power | 26.00% | ~569 |
 | Prestigious x10 | 23.00% | ~503 |
 | The game is on | 21.00% | ~459 |
-| Exotic Merchant | 19.00% | ~415 |
-| Dragon Clicker | 17.00% | ~371 |
-| Full Party | 17.00% | ~371 |
-| Inspection | 17.00% | ~371 |
-| Miner Clicker | 17.00% | ~371 |
+| Exotic Merchant | 19.00% | ~416 |
+| Dragon Clicker | 17.00% | ~372 |
+| Full Party | 17.00% | ~372 |
+| Inspection | 17.00% | ~372 |
+| Miner Clicker | 17.00% | ~372 |
 | Dragon Master | 16.00% | ~350 |
 | Enlightenment | 16.00% | ~350 |
 | Hero inspection | 15.00% | ~328 |
@@ -29,18 +29,18 @@ Rating: 4.10 (Ranked 958)
 | Milestone collector | 13.00% | ~284 |
 | Scientist | 12.00% | ~262 |
 | The power of Awakening | 12.00% | ~262 |
-| Challenger | 11.00% | ~240 |
-| Daily Quest Completionist | 11.00% | ~240 |
-| Doing My Part | 11.00% | ~240 |
-| Hunter | 11.00% | ~240 |
-| Mastery | 11.00% | ~240 |
-| Moving Up The Ladder | 11.00% | ~240 |
-| Relic Of The Past | 11.00% | ~240 |
-| Scroll Master | 11.00% | ~240 |
-| Four Leaf Clover | 10.00% | ~218 |
-| Frostfire Liberator | 10.00% | ~218 |
-| Master Enchanter | 10.00% | ~218 |
-| The father of Dragons | 10.00% | ~218 |
+| Challenger | 11.00% | ~241 |
+| Daily Quest Completionist | 11.00% | ~241 |
+| Doing My Part | 11.00% | ~241 |
+| Hunter | 11.00% | ~241 |
+| Mastery | 11.00% | ~241 |
+| Moving Up The Ladder | 11.00% | ~241 |
+| Relic Of The Past | 11.00% | ~241 |
+| Scroll Master | 11.00% | ~241 |
+| Four Leaf Clover | 10.00% | ~219 |
+| Frostfire Liberator | 10.00% | ~219 |
+| Master Enchanter | 10.00% | ~219 |
+| The father of Dragons | 10.00% | ~219 |
 | Here We Go Again | 9.00% | ~197 |
 | Trader | 9.00% | ~197 |
 | Blueprint Upgrades | 8.00% | ~175 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 958)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,185 (Ranked 216)  
+Progressed: 2,187 (Ranked 216)  
 Completed: 2 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 2 (0.09%) (Ranked 275)
 | 2023-11-07 | 2,119 | 2 |
 | 2023-11-08 | 2,124 | 2 |
 | 2023-11-09 | 2,129 | 2 |
-| 2023-11-10 | 2,185 | 2 |
+| 2023-11-10 | 2,187 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 491)  
 Sum: 57 (Ranked 471)  

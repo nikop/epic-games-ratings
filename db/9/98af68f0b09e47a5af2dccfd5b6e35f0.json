@@ -4,7 +4,7 @@
   "ProductSlug": "cygnus-enterprises-279177",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-09T11:02:09.2953012+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:11:32.4055622+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:03:12.4176774+00:00",
   "LastUpdate_AppInfo": "2023-11-05T03:57:11.4815244+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:11:05.8429304+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:11:32.405565+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:02:52.1013932+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:03:12.4176824+00:00"
 }

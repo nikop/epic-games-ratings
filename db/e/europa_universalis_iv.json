@@ -11815,10 +11815,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 56997,
       "NumberOfAwardsMax": 6930
+    },
+    {
+      "Time": "2023-11-10T21:58:38.357714+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57025,
+      "NumberOfAwardsMax": 6930
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56997,
+  "NumberOfAwards": 57025,
   "NumberOfAwardsMax": 6930,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11838,7 +11844,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6641
+      "Count": 6669
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11889,9 +11895,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 451661,
+  "EOS_Progressed": 451713,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5523,
+  "EOS_NewPlayers": 5510,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35259,6 +35265,11 @@
       "Time": "2023-11-10T21:14:29.8480434+00:00",
       "NumProgressed": 451661,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T22:05:29.7951195+00:00",
+      "NumProgressed": 451713,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35868,9 +35879,9 @@
       "ID": "achievement_dar_al_islam",
       "SetID": "8p2n7he",
       "Name": "Dar al-Islam",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_david_the_builder",
@@ -36804,9 +36815,9 @@
       "ID": "achievement_mehmet_ambition",
       "SetID": "8p2n7he",
       "Name": "Mehmet\u0027s Ambition",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_meissner_porcelain",
@@ -38044,9 +38055,9 @@
       "ID": "achievement_winged_hussars",
       "SetID": "8p2n7he",
       "Name": "Winged Hussars",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_with_a_little_help",
@@ -38173,21 +38184,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 451661,
+      "Progressed": 451713,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 451661,
+      "Progressed": 451713,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-10T21:04:56.2634484+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:14:29.8480432+00:00",
+  "LastChanged": "2023-11-10T21:58:38.3577139+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:05:29.7951191+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:04:56.2634504+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:14:29.8491655+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:58:38.3577146+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:05:29.796118+00:00"
 }

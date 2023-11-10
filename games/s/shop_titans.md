@@ -9,10 +9,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 4.00% | ~5,566 |
 | Basic in Bulk | 4.00% | ~5,566 |
 | Titan's First Steps | 4.00% | ~5,566 |
-| Disintermediation | 3.00% | ~4,174 |
-| It's Free Real Estate | 3.00% | ~4,174 |
-| Tinkle of Coins | 3.00% | ~4,174 |
-| Capitalism Ho! | 3.00% | ~4,174 |
+| Disintermediation | 3.00% | ~4,175 |
+| It's Free Real Estate | 3.00% | ~4,175 |
+| Tinkle of Coins | 3.00% | ~4,175 |
+| Capitalism Ho! | 3.00% | ~4,175 |
 | The Daily Grind | 2.00% | ~2,783 |
 | One Easy Payment | 2.00% | ~2,783 |
 | Some Assembly Required | 2.00% | ~2,783 |
@@ -25,27 +25,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 2.00% | ~2,783 |
 | Through Repetition, Perfection | 2.00% | ~2,783 |
 | Own the Means of Production | 2.00% | ~2,783 |
-| On the Path to Greatness | 1.00% | ~1,391 |
-| Ascended | 1.00% | ~1,391 |
-| Tax not Included | 1.00% | ~1,391 |
-| Research & Development | 1.00% | ~1,391 |
-| Vanity, Verily | 1.00% | ~1,391 |
-| Fated Encounters | 1.00% | ~1,391 |
-| Blank Page Syndrome | 1.00% | ~1,391 |
-| Demand for Supplies | 1.00% | ~1,391 |
-| Where it Hurts | 1.00% | ~1,391 |
-| Power of Love | 1.00% | ~1,391 |
-| Efficient Floor Space | 1.00% | ~1,391 |
-| Flawless Fusion | 1.00% | ~1,391 |
-| Gem Expert | 1.00% | ~1,391 |
-| Gild-Gotten Goods | 1.00% | ~1,391 |
-| Royal Ransom | 1.00% | ~1,391 |
-| Helping Hand | 1.00% | ~1,391 |
-| Accomplished Merchant | 1.00% | ~1,391 |
-| Natural 20 | 1.00% | ~1,391 |
-| Did we pack lunch? | 1.00% | ~1,391 |
-| Magical Harmony | 1.00% | ~1,391 |
-| Arcane Industries | 1.00% | ~1,391 |
+| On the Path to Greatness | 1.00% | ~1,392 |
+| Ascended | 1.00% | ~1,392 |
+| Tax not Included | 1.00% | ~1,392 |
+| Research & Development | 1.00% | ~1,392 |
+| Vanity, Verily | 1.00% | ~1,392 |
+| Fated Encounters | 1.00% | ~1,392 |
+| Blank Page Syndrome | 1.00% | ~1,392 |
+| Demand for Supplies | 1.00% | ~1,392 |
+| Where it Hurts | 1.00% | ~1,392 |
+| Power of Love | 1.00% | ~1,392 |
+| Efficient Floor Space | 1.00% | ~1,392 |
+| Flawless Fusion | 1.00% | ~1,392 |
+| Gem Expert | 1.00% | ~1,392 |
+| Gild-Gotten Goods | 1.00% | ~1,392 |
+| Royal Ransom | 1.00% | ~1,392 |
+| Helping Hand | 1.00% | ~1,392 |
+| Accomplished Merchant | 1.00% | ~1,392 |
+| Natural 20 | 1.00% | ~1,392 |
+| Did we pack lunch? | 1.00% | ~1,392 |
+| Magical Harmony | 1.00% | ~1,392 |
+| Arcane Industries | 1.00% | ~1,392 |
 | For the Hoard! | 0.90% | ~1,252 |
 | Scrapbooker | 0.90% | ~1,252 |
 | This Power Level...! | 0.90% | ~1,252 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,147 (Ranked 79)  
+Progressed: 139,158 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 139,147 | 180 |
+| 2023-11-10 | 139,158 | 180 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 73)  
 Sum: 27,523 (Ranked 51)  

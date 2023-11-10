@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3352,9 +3352,9 @@
       "Count": 740
     }
   ],
-  "EOS_Progressed": 239468,
+  "EOS_Progressed": 239470,
   "EOS_Completed": 287,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24547,6 +24547,11 @@
       "Time": "2023-11-10T21:17:46.7643515+00:00",
       "NumProgressed": 239468,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-10T22:09:13.3179488+00:00",
+      "NumProgressed": 239470,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 138,
@@ -24828,9 +24833,9 @@
       "ID": "FULLINVENTORY",
       "SetID": "5l8oe0h",
       "Name": "I Am Overburdened",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 479
     },
     {
       "ID": "FULLYPRESTIGESPOON",
@@ -25661,13 +25666,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239468,
+      "Progressed": 239470,
       "Completed": 287
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 948,
+      "Progressed": 950,
       "Completed": 374
     }
   ],
@@ -25675,8 +25680,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-10T17:17:52.1140572+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:17:46.7643513+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:09:13.3179485+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:11:00.2754408+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:17:46.7645719+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:02:48.1230325+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:09:13.3182072+00:00"
 }

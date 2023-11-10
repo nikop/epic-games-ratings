@@ -42,6 +42,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Consulate of the Sea | 0.10% | ~452 |
 | Cowardly Tactics | 0.10% | ~452 |
 | Czechs and Balances | 0.10% | ~452 |
+| Dar al-Islam | 0.10% | ~452 |
 | David the Builder | 0.10% | ~452 |
 | Defender of the Faith | 0.10% | ~452 |
 | Definitely the Sultan of Rum | 0.10% | ~452 |
@@ -102,6 +103,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mare Nostrum | 0.10% | ~452 |
 | Market Control | 0.10% | ~452 |
 | Marshy March | 0.10% | ~452 |
+| Mehmet's Ambition | 0.10% | ~452 |
 | Multiculturalism | 0.10% | ~452 |
 | My armies are invincible! | 0.10% | ~452 |
 | My True Friend | 0.10% | ~452 |
@@ -168,6 +170,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Viva la Revolución! | 0.10% | ~452 |
 | Voting Streak | 0.10% | ~452 |
 | We bled for this | 0.10% | ~452 |
+| Winged Hussars | 0.10% | ~452 |
 | Wonderful | 0.10% | ~452 |
 | World Conqueror | 0.10% | ~452 |
 | World Discoverer | 0.10% | ~452 |
@@ -215,7 +218,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Core-fu | 0.00% | ~0 |
 | Cotton Kandy | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
-| Dar al-Islam | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | Dracula's Revenge | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
@@ -272,7 +274,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mary of Lotharingia | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Master of India | 0.00% | ~0 |
-| Mehmet's Ambition | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Mewar Never Changes | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
@@ -361,7 +362,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Where the heart is | 0.00% | ~0 |
 | The White Elephant | 0.00% | ~0 |
 | Why is the Rûm gone!? | 0.00% | ~0 |
-| Winged Hussars | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | Breadbasket of the World | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451,661 (Ranked 41)  
+Progressed: 451,713 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -574,16 +574,16 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
-| 2023-11-10 | 451,661 | 1 |
+| 2023-11-10 | 451,713 | 1 |
 ## Awards
 Max (Educational): 6,930  (Ranked 54)  
-Sum: 56,997 (Ranked 24)  
+Sum: 57,025 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,930 |
+| This game has Diverse Characters | 6,669 |
 | This game is Highly Recommended | 6,646 |
-| This game has Diverse Characters | 6,641 |
 | This game has Challenging Combat | 6,557 |
 | This game is Extremely Fun | 6,528 |
 | This game is Relaxing | 6,366 |
@@ -891,4 +891,4 @@ Diff (max vs sum): 30
 | 2023-11-07 | 4.69 | - | 6,879 | 56,604 |
 | 2023-11-08 | 4.69 | - | 6,903 | 56,787 |
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
-| 2023-11-10 | 4.69 | - | 6,930 | 56,997 |
+| 2023-11-10 | 4.69 | - | 6,930 | 57,025 |

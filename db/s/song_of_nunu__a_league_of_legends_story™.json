@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 172,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 630,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1081,9 +1081,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 340
     },
     {
       "ID": "EV_ACH05",
@@ -1145,9 +1145,9 @@
       "ID": "EV_ACH12",
       "SetID": "6jeac23",
       "Name": "Freeze The Ice Witch",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 208
     },
     {
       "ID": "EV_ACH13",
@@ -1169,9 +1169,9 @@
       "ID": "EV_ACH15",
       "SetID": "6jeac23",
       "Name": "Better On Ice",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 441
     },
     {
       "ID": "EV_ACH16",
@@ -1281,9 +1281,9 @@
       "ID": "EV_ACH29",
       "SetID": "6jeac23",
       "Name": "Cutie Poro",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 416
     },
     {
       "ID": "EV_ACH30",
@@ -1361,9 +1361,9 @@
       "ID": "EV_ACH39",
       "SetID": "6jeac23",
       "Name": "Boosted!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 214
     },
     {
       "ID": "EV_ACH40",
@@ -1416,8 +1416,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:17:30.1977999+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:09:00.4090645+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:10:46.8569407+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:17:30.1978335+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:02:38.3600775+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:09:00.4090926+00:00"
 }

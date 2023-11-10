@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2614,
+  "EOS_Progressed": 2615,
   "EOS_Completed": 237,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9.07,
+  "EOS_Completed_Percentage": 9.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:59.632354+00:00",
@@ -7061,6 +7061,11 @@
       "Time": "2023-11-09T18:09:34.4028434+00:00",
       "NumProgressed": 2614,
       "NumCompleted": 237
+    },
+    {
+      "Time": "2023-11-10T22:08:56.3615211+00:00",
+      "NumProgressed": 2615,
+      "NumCompleted": 237
     }
   ],
   "TotalAchievements": 12,
@@ -7104,7 +7109,7 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "Jakob",
@@ -7167,7 +7172,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2614,
+      "Progressed": 2615,
       "Completed": 237
     }
   ],
@@ -7175,8 +7180,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:17:24.9224124+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:08:56.3615206+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:00.2861295+00:00",
-  "LastUpdate_Ratings": "2023-11-10T20:57:17.3947125+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:17:24.9224515+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:57:07.1623027+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:08:56.3615566+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 87.00% | ~210 |
+| Unforeseen | 88.00% | ~212 |
 | Battlefields Have Memories | 83.00% | ~200 |
 | Enlisted | 79.00% | ~190 |
 | Maybe Engage a Little | 75.00% | ~181 |
@@ -27,8 +27,8 @@ Rating: 4.02 (Ranked 986)
 | Armsman | 14.00% | ~34 |
 | Recruit | 13.00% | ~31 |
 | Lights Army | 9.00% | ~22 |
+| Periapt Cerulean | 8.00% | ~19 |
 | Good Boy | 8.00% | ~19 |
-| Periapt Cerulean | 7.00% | ~17 |
 | Periapt Viridian | 6.00% | ~14 |
 | Shroudfane Explorer | 6.00% | ~14 |
 | Best Dressed | 5.00% | ~12 |

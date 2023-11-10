@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8466,
+  "EOS_Progressed": 8474,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1463,
+  "EOS_NewPlayers": 1449,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4869,6 +4869,11 @@
       "Time": "2023-11-10T21:14:02.797086+00:00",
       "NumProgressed": 8466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T22:05:08.4200013+00:00",
+      "NumProgressed": 8474,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -4969,7 +4974,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -4977,7 +4982,7 @@
       "Name": "Level 0",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2288
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -4985,7 +4990,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -4993,7 +4998,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1017
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -5072,14 +5077,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 8466,
+      "Progressed": 8474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:14:02.7970858+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:05:08.420001+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:16.1385723+00:00",
   "LastUpdate_Ratings": "2023-11-10T21:10:30.8049424+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:14:02.7971108+00:00"
+  "LastUpdate_Achievements": "2023-11-10T22:05:08.4200337+00:00"
 }

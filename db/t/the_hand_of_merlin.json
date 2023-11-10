@@ -4,7 +4,7 @@
   "ProductSlug": "the-hand-of-merlin",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-05-11T17:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:56.4154804+00:00",
   "LastChanged": "2023-03-31T05:57:56.4154805+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:04.9798468+00:00",
-  "LastUpdate_Ratings": "2023-11-10T20:57:42.0250105+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:13:28.542229+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:57:22.9835747+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:04:42.087577+00:00"
 }

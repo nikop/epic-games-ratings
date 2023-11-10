@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7840,
+  "EOS_Progressed": 7841,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6160,6 +6160,11 @@
       "Time": "2023-11-10T21:17:46.3255687+00:00",
       "NumProgressed": 7840,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T22:09:12.9284271+00:00",
+      "NumProgressed": 7841,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6292,7 +6297,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2430
+      "UsersEstimate": 2431
     },
     {
       "ID": "GamesPlayed10",
@@ -6364,7 +6369,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "HAUpgraded1",
@@ -6746,9 +6751,9 @@
       "ID": "TowerKills11",
       "SetID": "12d07c7",
       "Name": "Destroyed 11 Towers",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 157
     },
     {
       "ID": "WCUpgraded1",
@@ -6763,7 +6768,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7840,
+      "Progressed": 7841,
       "Completed": 1
     }
   ],
@@ -6771,8 +6776,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-07T13:03:10.353816+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:17:46.3255686+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:09:12.9284269+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:08:29.616504+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:17:46.3256344+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:59:29.6062949+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:09:12.9285105+00:00"
 }

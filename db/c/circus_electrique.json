@@ -6,8 +6,8 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 302,
-  "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_Completed": 241,
+  "Ranking_EOS_NewPlayers": 398,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 474,
+  "EOS_Progressed": 475,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -497,6 +497,11 @@
       "Time": "2023-11-04T14:16:02.0472632+00:00",
       "NumProgressed": 474,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T22:05:10.6689562+00:00",
+      "NumProgressed": 475,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -508,7 +513,7 @@
       "Name": "Grand Opening",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -556,7 +561,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -564,15 +569,15 @@
       "Name": "Built in a Day",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACHIEVEMENT_09",
       "SetID": "631ndc2",
       "Name": "Path of Learning",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 195
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -652,7 +657,7 @@
       "Name": "Unmatched Skills",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -692,7 +697,7 @@
       "Name": "Hundred Percent Fifth",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -780,7 +785,7 @@
       "Name": "King of District 6",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_36",
@@ -788,7 +793,7 @@
       "Name": "Grand Slam",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -804,7 +809,7 @@
       "Name": "The Greatest Show",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -907,7 +912,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 474,
+      "Progressed": 475,
       "Completed": 1
     }
   ],
@@ -915,8 +920,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:14:05.5439259+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:05:10.6689557+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:26.1398723+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:02:48.7878306+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:14:05.5439624+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:58:16.2477562+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:05:10.6689963+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1796,
+  "EOS_Progressed": 1797,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6730,6 +6730,11 @@
       "Time": "2023-11-10T19:05:42.1482602+00:00",
       "NumProgressed": 1796,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T22:04:56.9607274+00:00",
+      "NumProgressed": 1797,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6755,9 +6760,9 @@
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 162
     },
     {
       "ID": "ach_defeat_players_100",
@@ -6853,7 +6858,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -7044,7 +7049,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1796,
+      "Progressed": 1797,
       "Completed": 1
     }
   ],
@@ -7052,8 +7057,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:13:47.8645648+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:04:56.9607269+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-10T20:57:52.3635279+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:13:47.8646182+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:57:28.3090181+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:04:56.9607794+00:00"
 }

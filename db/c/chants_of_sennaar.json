@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 512,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.47,
   "EosHistory": [
@@ -2204,17 +2204,17 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 200,
-      "UsersEstimate": 77
+      "UsersEstimate": 82
     },
     {
       "ID": "META_ALL_LINK",
@@ -2411,8 +2411,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:13:38.4668208+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:04:49.8449047+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:06:04.2303488+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:13:38.4668383+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:58:53.702724+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:04:49.8449235+00:00"
 }

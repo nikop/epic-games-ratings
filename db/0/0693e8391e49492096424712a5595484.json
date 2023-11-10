@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 50,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2299,9 +2299,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 275
+      "UsersEstimate": 280
     },
     {
       "ID": "PrincessThrone",
@@ -2410,8 +2410,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-10T21:13:39.5068844+00:00",
+  "LastChanged_Achievements": "2023-11-10T22:04:50.6321711+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:13.8933831+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:08:32.2712754+00:00",
-  "LastUpdate_Achievements": "2023-11-10T21:13:39.5069238+00:00"
+  "LastUpdate_Ratings": "2023-11-10T21:59:31.1064976+00:00",
+  "LastUpdate_Achievements": "2023-11-10T22:04:50.6322086+00:00"
 }

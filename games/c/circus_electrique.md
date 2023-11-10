@@ -7,10 +7,10 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self Defense | 46.00% | ~218 |
-| Grand Opening | 42.00% | ~199 |
-| Circus Electrique Proudly Presents... | 42.00% | ~199 |
-| Path of Learning | 42.00% | ~199 |
-| Built in a Day | 34.00% | ~161 |
+| Grand Opening | 42.00% | ~200 |
+| Circus Electrique Proudly Presents... | 42.00% | ~200 |
+| Path of Learning | 41.00% | ~195 |
+| Built in a Day | 34.00% | ~162 |
 | More Brain Than Brawn | 30.00% | ~142 |
 | Perfect Illusion | 24.00% | ~114 |
 | Hundred Percent First | 24.00% | ~114 |
@@ -44,11 +44,11 @@ Number of Ratings: 22  (23.09.2022)
 | Victorian Victor | 3.00% | ~14 |
 | Perfect Chemistry | 3.00% | ~14 |
 | Last Man Standing | 3.00% | ~14 |
-| Unmatched Skills | 2.00% | ~9 |
-| Hundred Percent Fifth | 2.00% | ~9 |
-| King of District 6 | 2.00% | ~9 |
-| Grand Slam | 2.00% | ~9 |
-| The Greatest Show | 2.00% | ~9 |
+| Unmatched Skills | 2.00% | ~10 |
+| Hundred Percent Fifth | 2.00% | ~10 |
+| King of District 6 | 2.00% | ~10 |
+| Grand Slam | 2.00% | ~10 |
+| The Greatest Show | 2.00% | ~10 |
 | Hundred Percent Sixth | 1.00% | ~5 |
 | London Liberator | 1.00% | ~5 |
 | Vicious Busters | 1.00% | ~5 |
@@ -57,8 +57,8 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474 (Ranked 302)  
-Completed: 1 (0.21%) (Ranked 242)  
+Progressed: 475 (Ranked 302)  
+Completed: 1 (0.21%) (Ranked 241)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,6 +113,7 @@ Completed: 1 (0.21%) (Ranked 242)
 | 2023-10-18 | 472 | 1 |
 | 2023-10-29 | 473 | 1 |
 | 2023-11-04 | 474 | 1 |
+| 2023-11-10 | 475 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

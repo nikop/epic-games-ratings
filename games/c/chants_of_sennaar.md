@@ -14,12 +14,12 @@
 | The darkness | 20.00% | ~102 |
 | A good beginning | 19.00% | ~97 |
 | One last step | 19.00% | ~97 |
+| I did it | 18.00% | ~92 |
 | Cable guy | 18.00% | ~92 |
 | Half the way | 18.00% | ~92 |
-| I did it | 17.00% | ~87 |
 | Peace walker | 17.00% | ~87 |
 | Champollion | 17.00% | ~87 |
-| In this together | 15.00% | ~77 |
+| In this together | 16.00% | ~82 |
 | Open door | 15.00% | ~77 |
 | Feels like springtime | 15.00% | ~77 |
 | Alchemists Express | 15.00% | ~77 |

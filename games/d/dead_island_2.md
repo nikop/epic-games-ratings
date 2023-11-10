@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~833 |
-| Pork Chopped | 2.00% | ~833 |
+| Whatever It Takes | 2.00% | ~834 |
+| Pork Chopped | 2.00% | ~834 |
 | One of Us | 1.00% | ~417 |
 | Welcome To Hell-A | 0.70% | ~5,013 |
 | Break A Leg | 0.60% | ~4,297 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,129 (Ranked 21)  
+Progressed: 716,164 (Ranked 21)  
 Completed: 2,374 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2,374 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 716,129 | 2,374 |
+| 2023-11-10 | 716,164 | 2,374 |
 ## Awards
 Max (Great Boss Battles): 7,279  (Ranked 53)  
 Sum: 11,038 (Ranked 86)  
