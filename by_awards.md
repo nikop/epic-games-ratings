@@ -10,7 +10,7 @@
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 120,253 | 4.69 | 230 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 104,676 | 4.64 | 332 |
 | 10 | [VALORANT](games/v/valorant.md) | 80,574 | 4.52 | 553 |
-| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 63,252 | 4.58 | 446 |
+| 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 63,287 | 4.58 | 446 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 48,541 | 4.61 | 385 |
 | 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 41,343 | 4.74 | 156 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 39,044 | 4.49 | 606 |
@@ -79,7 +79,7 @@
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,671 | 4.70 | 214 |
 | 78 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,599 | 4.70 | 214 |
 | 79 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,588 | 3.97 | 1,002 |
-| 80 | [SMITE](games/s/smite.md) | 4,558 | 4.43 | 690 |
+| 80 | [SMITE](games/s/smite.md) | 4,561 | 4.43 | 690 |
 | 81 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,310 | 4.57 | 469 |
 | 82 | [God of War](games/g/god_of_war.md) | 4,276 | 4.88 | 17 |
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,145 | 4.51 | 565 |
@@ -321,10 +321,10 @@
 | 319 | [KINGDOM HEARTS HD 2.8 Final Chapter Prologue](games/k/kingdom_hearts_hd_2.8_final_chapter_prologue.md) | 145 | 4.70 | 214 |
 | 319 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 145 | 4.20 | 909 |
 | 321 | [Fort Triumph](games/f/fort_triumph.md) | 142 | 4.08 | 966 |
+| 322 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 140 | 4.45 | 662 |
 | 322 | [First Class Trouble](games/f/first_class_trouble.md) | 140 | 4.48 | 623 |
-| 323 | [Atomicrops](games/a/atomicrops.md) | 138 | 4.86 | 30 |
-| 324 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 137 | 4.45 | 662 |
-| 324 | [while True: learn()](games/w/while_true__learn().md) | 137 | 4.51 | 565 |
+| 324 | [Atomicrops](games/a/atomicrops.md) | 138 | 4.86 | 30 |
+| 325 | [while True: learn()](games/w/while_true__learn().md) | 137 | 4.51 | 565 |
 | 326 | [Alien: Isolation](games/a/alien__isolation.md) | 135 | 4.61 | 385 |
 | 327 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 130 | 4.72 | 186 |
 | 328 | [Sonic Origins](games/s/sonic_origins.md) | 128 | 4.58 | 446 |
@@ -500,17 +500,17 @@
 | 495 | [Speed Brawl](games/s/speed_brawl.md) | 29 | 4.32 | 821 |
 | 495 | [The Surge](games/t/the_surge.md) | 29 | 4.43 | 690 |
 | 495 | [Warpips](games/w/warpips.md) | 29 | 4.43 | 690 |
+| 501 | [God's Trigger](games/g/god's_trigger.md) | 28 | 4.15 | 940 |
 | 501 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 28 | 4.18 | 925 |
 | 501 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 28 | 4.82 | 64 |
 | 501 | [Weird West: Definitive Edition](games/w/weird_west.md) | 28 | 4.45 | 662 |
 | 501 | [Wildermyth](games/w/wildermyth.md) | 28 | 4.78 | 106 |
 | 501 | [WRC 9 FIA World Rally Championship](games/w/wrc_9_fia_world_rally_championship.md) | 28 | 4.51 | 565 |
-| 506 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 803 |
-| 506 | [DOOM II](games/d/doom_ii.md) | 27 | 4.64 | 332 |
-| 506 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 486 |
-| 506 | [God's Trigger](games/g/god's_trigger.md) | 27 | 4.14 | 944 |
-| 506 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 502 |
-| 506 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 230 |
+| 507 | [Automachef](games/a/automachef.md) | 27 | 4.34 | 803 |
+| 507 | [DOOM II](games/d/doom_ii.md) | 27 | 4.64 | 332 |
+| 507 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 486 |
+| 507 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 502 |
+| 507 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 230 |
 | 512 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 778 |
 | 512 | [Star Atlas](games/s/star_atlas.md) | 26 | 4.80 | 87 |
 | 512 | [Tunche](games/t/tunche.md) | 26 | 4.46 | 646 |
