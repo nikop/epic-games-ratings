@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 339,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.56,
+  "EOS_Completed_Percentage": 7.53,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1254,6 +1254,11 @@
       "Time": "2023-11-09T15:04:23.6260527+00:00",
       "NumProgressed": 291,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-10T04:04:47.7851785+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 16,
@@ -1335,9 +1340,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "8d3ci0",
       "Name": "Make a wish",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1353,7 +1358,7 @@
       "Name": "Way to the shore",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1361,7 +1366,7 @@
       "Name": "Private pool",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1392,14 +1397,14 @@
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 22
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2023-11-10T03:04:50.6841778+00:00",
+  "LastChanged_Achievements": "2023-11-10T04:04:47.785178+00:00",
   "LastUpdate_AppInfo": "2023-11-04T23:57:11.4274776+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:59:02.7953215+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:04:50.6841902+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:59:03.0759099+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:04:47.7851917+00:00"
 }

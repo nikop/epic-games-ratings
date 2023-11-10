@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -410,9 +410,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "GrasslandsRing",
@@ -610,9 +610,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "TextAdventurer",
@@ -658,9 +658,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "TheThiefOfFire",
@@ -747,8 +747,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-09T22:04:46.1643525+00:00",
-  "LastChanged_Achievements": "2023-11-10T03:08:13.266932+00:00",
+  "LastChanged_Achievements": "2023-11-10T04:08:07.7122843+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-10T03:00:44.2954856+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:08:13.2669676+00:00"
+  "LastUpdate_Ratings": "2023-11-10T04:00:45.0823935+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:08:07.7123405+00:00"
 }

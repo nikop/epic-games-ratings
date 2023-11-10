@@ -6,21 +6,21 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~724,876 |
-| The Blues | 85.00% | ~622,368 |
-| Fast | 66.00% | ~483,251 |
-| Healthbar | 55.00% | ~402,709 |
-| Force Cube | 53.00% | ~388,065 |
-| Double Jump | 48.00% | ~351,455 |
-| Regeneration | 47.00% | ~344,133 |
-| Triple Jump | 43.00% | ~314,845 |
-| Climb the hill | 42.00% | ~307,523 |
-| Through the fire pipe | 39.00% | ~285,557 |
-| MacGuffin | 38.00% | ~278,235 |
-| Just once | 37.00% | ~270,913 |
-| Armor | 30.00% | ~219,659 |
-| True holy spirit | 28.00% | ~205,015 |
-| That's how electronics work obviously | 27.00% | ~197,693 |
+| Out of bed | 99.00% | ~724,880 |
+| The Blues | 85.00% | ~622,372 |
+| Fast | 66.00% | ~483,253 |
+| Healthbar | 55.00% | ~402,711 |
+| Force Cube | 53.00% | ~388,067 |
+| Double Jump | 48.00% | ~351,457 |
+| Regeneration | 47.00% | ~344,135 |
+| Triple Jump | 43.00% | ~314,847 |
+| Climb the hill | 42.00% | ~307,525 |
+| Through the fire pipe | 39.00% | ~285,559 |
+| MacGuffin | 38.00% | ~278,237 |
+| Just once | 37.00% | ~270,915 |
+| Armor | 30.00% | ~219,661 |
+| True holy spirit | 28.00% | ~205,017 |
+| That's how electronics work obviously | 27.00% | ~197,695 |
 | Force Cube Catapult | 25.00% | ~183,050 |
 | Holy Sword | 23.00% | ~168,406 |
 | Telefrag | 23.00% | ~168,406 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~732 |
 | DLC: Top of the world | 0.10% | ~732 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,198 (Ranked 19)  
+Progressed: 732,202 (Ranked 19)  
 Completed: 759 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 759 (0.10%) (Ranked 269)
 | 2023-11-07 | 732,010 | 758 |
 | 2023-11-08 | 732,098 | 759 |
 | 2023-11-09 | 732,182 | 759 |
-| 2023-11-10 | 732,198 | 759 |
+| 2023-11-10 | 732,202 | 759 |
 ## Awards
 Max (Challenging Puzzles): 7,720  (Ranked 49)  
 Sum: 10,069 (Ranked 91)  

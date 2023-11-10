@@ -8,7 +8,7 @@
 | Anything Else? | 83.00% | ~571 |
 | The Ones that Got Away | 68.00% | ~468 |
 | Immortal | 41.00% | ~282 |
-| Up! | 34.00% | ~234 |
+| Up! | 35.00% | ~241 |
 | Bird Breeder | 27.00% | ~186 |
 | Science Enthusiast | 27.00% | ~186 |
 | Master Angler | 24.00% | ~165 |

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 166,
+  "EOS_Progressed": 167,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -519,6 +519,11 @@
       "Time": "2023-11-08T05:09:26.0458699+00:00",
       "NumProgressed": 166,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T04:08:42.433165+00:00",
+      "NumProgressed": 167,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -563,7 +568,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -625,9 +630,9 @@
       "ID": "TIME_JINX",
       "SetID": "9j9h72e",
       "Name": "Timejinx: Timejinx",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 85
+      "UsersEstimate": 84
     },
     {
       "ID": "TIME_ORWELL",
@@ -643,7 +648,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -690,14 +695,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 166,
+      "Progressed": 167,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-10T03:08:48.2743735+00:00",
+  "LastChanged_Achievements": "2023-11-10T04:08:42.4331646+00:00",
   "LastUpdate_AppInfo": "2023-11-03T22:56:56.0814967+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:57:26.8678696+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:08:48.2743857+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:57:27.7781816+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:08:42.4331808+00:00"
 }

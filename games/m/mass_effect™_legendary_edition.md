@@ -50,11 +50,11 @@
 | The Assassin | 32.00% | ~346 |
 | The Quarian | 32.00% | ~346 |
 | Ghost of the Father | 32.00% | ~346 |
+| The Cure | 32.00% | ~346 |
 | The Prodigal | 32.00% | ~346 |
 | Shopaholic | 32.00% | ~346 |
 | Battlemaster | 31.00% | ~335 |
 | Catharsis | 31.00% | ~335 |
-| The Cure | 31.00% | ~335 |
 | Revenge! | 31.00% | ~335 |
 | Heart of Darkness | 31.00% | ~335 |
 | Driven | 31.00% | ~335 |
@@ -80,8 +80,8 @@
 | Eye of the Hurricane | 25.00% | ~270 |
 | First Aid Specialist | 25.00% | ~270 |
 | Weapon Specialist | 25.00% | ~270 |
+| Liberator | 25.00% | ~270 |
 | Tunnel Rat | 24.00% | ~259 |
-| Liberator | 24.00% | ~259 |
 | Pathfinder | 23.00% | ~249 |
 | Arbiter | 23.00% | ~249 |
 | Lost and Found | 23.00% | ~249 |

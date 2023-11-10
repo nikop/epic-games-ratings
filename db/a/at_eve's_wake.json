@@ -4,7 +4,7 @@
   "ProductSlug": "at-eves-wake-definitive-edition",
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T06:58:21.5477392+00:00",
   "LastChanged": "2023-03-31T06:58:21.5477393+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:04.3377029+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:59:24.6754857+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:05:38.6302413+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:59:25.1819059+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:05:35.295958+00:00"
 }

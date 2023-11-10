@@ -14,7 +14,7 @@ Rating: 4.02 (Ranked 986)
 | Thrada-Kul | 42.00% | ~97 |
 | Gravity-Challenged Rocks | 32.00% | ~74 |
 | Soldier | 28.00% | ~65 |
-| All the Major Food Groups | 27.00% | ~63 |
+| All the Major Food Groups | 28.00% | ~65 |
 | Socialite | 26.00% | ~60 |
 | Beggars Would Ride | 25.00% | ~58 |
 | Control is an Illusion | 23.00% | ~53 |

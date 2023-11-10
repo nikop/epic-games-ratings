@@ -20,7 +20,7 @@
 | Boom Things | 49.00% | ~301 |
 | My Darkest Day | 46.00% | ~282 |
 | Rhythm Of Willump | 46.00% | ~282 |
-| The Relentless Storm | 42.00% | ~258 |
+| The Relentless Storm | 43.00% | ~264 |
 | A Tragic Reminder | 41.00% | ~252 |
 | 3000 Year Blackout | 40.00% | ~246 |
 | True Legends | 40.00% | ~246 |
@@ -28,18 +28,18 @@
 | So Close | 36.00% | ~221 |
 | You Get Used To It | 36.00% | ~221 |
 | Bullseye | 34.00% | ~209 |
+| Boosted! | 34.00% | ~209 |
 | Family | 33.00% | ~203 |
 | Biggest Snowball Ever | 33.00% | ~203 |
 | Freeze The Ice Witch | 33.00% | ~203 |
 | On The Rocks | 33.00% | ~203 |
-| Boosted! | 33.00% | ~203 |
 | Deadliest and Biggest Snowball Ever! | 33.00% | ~203 |
 | It Is Not Over | 31.00% | ~190 |
+| Snowy Poro | 31.00% | ~190 |
 | Never Gets Old | 31.00% | ~190 |
-| Snowy Poro | 30.00% | ~184 |
 | Vertical Power | 27.00% | ~166 |
-| One From The Heart | 13.00% | ~80 |
-| Yummy | 11.00% | ~68 |
+| One From The Heart | 14.00% | ~86 |
+| Yummy | 12.00% | ~74 |
 | Snowball Fightn't | 11.00% | ~68 |
 | It Was Him | 8.00% | ~49 |
 | The Pied Piper Of Freljord | 7.00% | ~43 |

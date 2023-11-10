@@ -26,7 +26,7 @@
 | Fair Means or Foul | 43.00% | ~107 |
 | Single Minded | 41.00% | ~102 |
 | Mighty Marmelizer | 41.00% | ~102 |
-| Snare Specialist | 39.00% | ~97 |
+| Snare Specialist | 40.00% | ~100 |
 | Karakuri Trail | 38.00% | ~95 |
 | Kemono at Heart | 37.00% | ~92 |
 | Artful Assister | 35.00% | ~87 |

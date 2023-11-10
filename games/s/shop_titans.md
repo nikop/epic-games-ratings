@@ -73,28 +73,28 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.80% | ~1,111 |
 | Black Friday Special | 0.80% | ~1,111 |
 | Exotic Commodities | 0.80% | ~1,111 |
-| Cream of the Crop | 0.70% | ~972 |
-| Top of the World | 0.70% | ~972 |
-| Proud Paladin | 0.70% | ~972 |
-| A Ronin Reborn | 0.70% | ~972 |
-| Thirst for Knowledge | 0.70% | ~972 |
-| Booty by the Boatload | 0.70% | ~972 |
-| Archivist | 0.70% | ~972 |
-| Omae wa Mou Shindeiru | 0.70% | ~972 |
-| Supercharged | 0.70% | ~972 |
-| Ritualist | 0.70% | ~972 |
-| By Your Powers Combined... | 0.70% | ~972 |
-| Item of Renown | 0.70% | ~972 |
-| Master Merchant | 0.70% | ~972 |
-| Bountiful Harvest | 0.70% | ~972 |
-| Precision Engineering | 0.70% | ~972 |
-| Attrition Mission | 0.70% | ~972 |
-| Glittering Collection | 0.70% | ~972 |
-| Treasure Trove | 0.70% | ~972 |
-| Moment of Respite | 0.70% | ~972 |
-| King's Shadow | 0.70% | ~972 |
-| Master Recycler | 0.70% | ~972 |
-| King's Blade | 0.70% | ~972 |
+| Cream of the Crop | 0.70% | ~973 |
+| Top of the World | 0.70% | ~973 |
+| Proud Paladin | 0.70% | ~973 |
+| A Ronin Reborn | 0.70% | ~973 |
+| Thirst for Knowledge | 0.70% | ~973 |
+| Booty by the Boatload | 0.70% | ~973 |
+| Archivist | 0.70% | ~973 |
+| Omae wa Mou Shindeiru | 0.70% | ~973 |
+| Supercharged | 0.70% | ~973 |
+| Ritualist | 0.70% | ~973 |
+| By Your Powers Combined... | 0.70% | ~973 |
+| Item of Renown | 0.70% | ~973 |
+| Master Merchant | 0.70% | ~973 |
+| Bountiful Harvest | 0.70% | ~973 |
+| Precision Engineering | 0.70% | ~973 |
+| Attrition Mission | 0.70% | ~973 |
+| Glittering Collection | 0.70% | ~973 |
+| Treasure Trove | 0.70% | ~973 |
+| Moment of Respite | 0.70% | ~973 |
+| King's Shadow | 0.70% | ~973 |
+| Master Recycler | 0.70% | ~973 |
+| King's Blade | 0.70% | ~973 |
 | Constellated | 0.60% | ~834 |
 | Fillin' the Bin | 0.60% | ~834 |
 | Industrial Evolution | 0.60% | ~834 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,928 (Ranked 79)  
+Progressed: 138,934 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 138,928 | 180 |
+| 2023-11-10 | 138,934 | 180 |
 ## Awards
 Max (Great for Beginners): 4,822  (Ranked 74)  
 Sum: 27,516 (Ranked 52)  

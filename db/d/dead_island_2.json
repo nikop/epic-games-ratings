@@ -6253,10 +6253,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10986,
       "NumberOfAwardsMax": 7249
+    },
+    {
+      "Time": "2023-11-10T03:58:59.650628+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 10989,
+      "NumberOfAwardsMax": 7249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10986,
+  "NumberOfAwards": 10989,
   "NumberOfAwardsMax": 7249,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6282,7 +6288,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 530
+      "Count": 533
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6315,10 +6321,10 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 715711,
+  "EOS_Progressed": 715732,
   "EOS_Completed": 2369,
-  "EOS_NewPlayers": 4574,
-  "EOS_NewCompleters": 64,
+  "EOS_NewPlayers": 4588,
+  "EOS_NewCompleters": 63,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29550,6 +29556,11 @@
       "Time": "2023-11-10T03:06:41.4110088+00:00",
       "NumProgressed": 715711,
       "NumCompleted": 2369
+    },
+    {
+      "Time": "2023-11-10T04:06:36.9143566+00:00",
+      "NumProgressed": 715732,
+      "NumCompleted": 2369
     }
   ],
   "TotalAchievements": 51,
@@ -29559,9 +29570,9 @@
       "ID": "ach_a_day_in_the_beach",
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 3579
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -29968,22 +29979,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715711,
+      "Progressed": 715732,
       "Completed": 2369
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 41253,
+      "Progressed": 41274,
       "Completed": 36513
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-09T17:59:35.4209527+00:00",
-  "LastChanged_Achievements": "2023-11-10T03:06:41.4110086+00:00",
+  "LastChanged": "2023-11-10T03:58:59.6506278+00:00",
+  "LastChanged_Achievements": "2023-11-10T04:06:36.9143563+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:58:59.3892443+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:06:41.4111238+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:58:59.6506284+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:06:36.9144797+00:00"
 }

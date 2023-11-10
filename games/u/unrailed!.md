@@ -6,23 +6,23 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~119,002 |
-| Incurious | 17.00% | ~112,391 |
-| Climate Change | 16.00% | ~105,780 |
-| Stroller | 15.00% | ~99,168 |
-| Toy Train | 14.00% | ~92,557 |
-| Advanced Hiker | 13.00% | ~85,946 |
-| Hiker | 12.00% | ~79,335 |
-| Mojave Courier | 6.00% | ~39,667 |
-| Saved by Nausicaä | 5.00% | ~33,056 |
+| Advanced Stroller | 18.00% | ~119,004 |
+| Incurious | 17.00% | ~112,393 |
+| Climate Change | 16.00% | ~105,781 |
+| Stroller | 15.00% | ~99,170 |
+| Toy Train | 14.00% | ~92,559 |
+| Advanced Hiker | 13.00% | ~85,947 |
+| Hiker | 12.00% | ~79,336 |
+| Mojave Courier | 6.00% | ~39,668 |
+| Saved by Nausicaä | 5.00% | ~33,057 |
 | Advanced Voyager | 4.00% | ~26,445 |
 | Expert Stroller | 4.00% | ~26,445 |
 | Voyager | 3.00% | ~19,834 |
 | Orient Express | 3.00% | ~19,834 |
 | Marathon | 3.00% | ~19,834 |
 | Destructionist | 3.00% | ~19,834 |
-| Expert Hiker | 2.00% | ~13,222 |
-| Lost | 2.00% | ~13,222 |
+| Expert Hiker | 2.00% | ~13,223 |
+| Lost | 2.00% | ~13,223 |
 | Rocketman | 0.80% | ~5,289 |
 | Expert Voyager | 0.70% | ~4,628 |
 | Shopaholic | 0.70% | ~4,628 |
@@ -30,9 +30,9 @@ Number of Ratings: 21,990  (23.09.2022)
 | Nanuk | 0.60% | ~3,967 |
 | Scrooge | 0.50% | ~3,306 |
 | Terminal Station | 0.50% | ~3,306 |
-| Wayfarer | 0.40% | ~2,644 |
-| Advanced Wayfarer | 0.40% | ~2,644 |
-| Tough Nut! | 0.40% | ~2,644 |
+| Wayfarer | 0.40% | ~2,645 |
+| Advanced Wayfarer | 0.40% | ~2,645 |
+| Tough Nut! | 0.40% | ~2,645 |
 | Trans-Siberian Railway | 0.30% | ~1,983 |
 | Engineer | 0.30% | ~1,983 |
 | Satan's Minion | 0.30% | ~1,983 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~661 |
 | 20 Miles under the Sea | 0.10% | ~661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,123 (Ranked 27)  
+Progressed: 661,133 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 12 (0.00%) (Ranked 346)
 | 2023-11-07 | 660,662 | 12 |
 | 2023-11-08 | 660,863 | 12 |
 | 2023-11-09 | 661,078 | 12 |
-| 2023-11-10 | 661,123 | 12 |
+| 2023-11-10 | 661,133 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 286)  
 Sum: 1,591 (Ranked 229)  

@@ -1,46 +1,46 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 253)  
+Rating: 4.68 (Ranked 254)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 226.00% | ~651 |
-| Iron Chef | 180.00% | ~518 |
-| Greeno-B-Gone | 111.00% | ~320 |
-| Your Especially Earned Trajectory | 90.00% | ~259 |
-| No Mountain Wide Enough | 58.00% | ~167 |
-| On that Grindset | 55.00% | ~158 |
-| Can We Keep It? | 55.00% | ~158 |
+| Adept Assembler | 225.00% | ~650 |
+| Iron Chef | 180.00% | ~520 |
+| Greeno-B-Gone | 111.00% | ~321 |
+| Your Especially Earned Trajectory | 90.00% | ~260 |
+| No Mountain Wide Enough | 58.00% | ~168 |
+| Can We Keep It? | 56.00% | ~162 |
+| On that Grindset | 55.00% | ~159 |
 | Pack Mule | 44.00% | ~127 |
-| Diamonds are Forever | 43.00% | ~124 |
+| Diamonds are Forever | 44.00% | ~127 |
 | Yakmel Whisperer | 42.00% | ~121 |
-| My Time Mansion | 39.00% | ~112 |
-| Financially Secure | 39.00% | ~112 |
-| Unboxing | 39.00% | ~112 |
+| My Time Mansion | 39.00% | ~113 |
+| Financially Secure | 39.00% | ~113 |
+| Unboxing | 38.00% | ~110 |
 | Big Game Hunter | 36.00% | ~104 |
 | Knowledge is Power | 35.00% | ~101 |
 | Got Served | 35.00% | ~101 |
 | One of the Cool Kids | 35.00% | ~101 |
 | Mole Masher | 35.00% | ~101 |
+| Call Me Fishmael | 35.00% | ~101 |
 | Happier-est Place on Earth | 34.00% | ~98 |
 | You Don't Win Friends With Salad | 34.00% | ~98 |
-| Call Me Fishmael | 34.00% | ~98 |
 | Better Late than Never | 33.00% | ~95 |
-| I Do! | 32.00% | ~92 |
-| What Plants Crave | 31.00% | ~89 |
-| Anti-Santa | 31.00% | ~89 |
-| Chatterbox | 31.00% | ~89 |
-| Officially Official | 30.00% | ~86 |
+| I Do! | 33.00% | ~95 |
+| What Plants Crave | 31.00% | ~90 |
+| Anti-Santa | 31.00% | ~90 |
+| Chatterbox | 31.00% | ~90 |
 | Finishing Touches | 29.00% | ~84 |
+| Officially Official | 29.00% | ~84 |
 | First Love | 27.00% | ~78 |
 | Panda-kin | 25.00% | ~72 |
 | Jewel of the Eufaula | 24.00% | ~69 |
 | Who Ya Gonna Call...? | 24.00% | ~69 |
-| Builder of the Month | 22.00% | ~63 |
-| Bridging the Gap | 22.00% | ~63 |
-| He Can Spin A Yarn... | 21.00% | ~60 |
+| Builder of the Month | 22.00% | ~64 |
+| Bridging the Gap | 22.00% | ~64 |
+| He Can Spin A Yarn... | 21.00% | ~61 |
 | Waste Not Want Not | 20.00% | ~58 |
 | Martle's Dream | 19.00% | ~55 |
 | Commissions, commissions...! | 18.00% | ~52 |
@@ -48,10 +48,10 @@ Number of Ratings: 892  (23.09.2022)
 | Lifeline Pipeline | 17.00% | ~49 |
 | Newton | 17.00% | ~49 |
 | Got the Flow Back | 15.00% | ~43 |
-| Kind of a Big Deal | 14.00% | ~40 |
 | Just What I Always Wanted! | 14.00% | ~40 |
 | Do Your Part | 14.00% | ~40 |
-| Santa In Training | 13.00% | ~37 |
+| Kind of a Big Deal | 13.00% | ~38 |
+| Santa In Training | 12.00% | ~35 |
 | Time Flies | 11.00% | ~32 |
 | Cardistry | 11.00% | ~32 |
 | Pro Gamer | 11.00% | ~32 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288 (Ranked 342)  
+Progressed: 289 (Ranked 342)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,7 +80,7 @@ Completed: 0 (0.00%) (Ranked 346)
 | 2023-11-07 | 246 | 0 |
 | 2023-11-08 | 276 | 0 |
 | 2023-11-09 | 294 | 0 |
-| 2023-11-10 | 288 | 0 |
+| 2023-11-10 | 289 | 0 |
 ## Awards
 Max (Character Customization): 580  (Ranked 194)  
 Sum: 1,326 (Ranked 238)  

@@ -173,10 +173,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100480,
+  "EOS_Progressed": 100481,
   "EOS_Completed": 4464,
   "EOS_NewPlayers": 899,
-  "EOS_NewCompleters": 105,
+  "EOS_NewCompleters": 103,
   "EOS_Completed_Percentage": 4.44,
   "EosHistory": [
     {
@@ -6818,6 +6818,11 @@
       "Time": "2023-11-10T03:09:10.5169393+00:00",
       "NumProgressed": 100480,
       "NumCompleted": 4464
+    },
+    {
+      "Time": "2023-11-10T04:09:04.9580723+00:00",
+      "NumProgressed": 100481,
+      "NumCompleted": 4464
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -6830,7 +6835,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 63302
+      "UsersEstimate": 63303
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -6862,7 +6867,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 55264
+      "UsersEstimate": 55265
     },
     {
       "ID": "ShipDip",
@@ -6878,7 +6883,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 75360
+      "UsersEstimate": 75361
     },
     {
       "ID": "TheGoldenRatio",
@@ -6894,7 +6899,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 59,
       "XP": 75,
-      "UsersEstimate": 59283
+      "UsersEstimate": 59284
     },
     {
       "ID": "WeCanDoBetter",
@@ -6910,7 +6915,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 78374
+      "UsersEstimate": 78375
     },
     {
       "ID": "WelcomeAboard",
@@ -6918,14 +6923,14 @@
       "Name": "Welcome Aboard!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 78374
+      "UsersEstimate": 78375
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 100480,
+      "Progressed": 100481,
       "Completed": 4464
     }
   ],
@@ -6933,8 +6938,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-05T20:03:00.4569456+00:00",
-  "LastChanged_Achievements": "2023-11-10T03:09:10.5169391+00:00",
+  "LastChanged_Achievements": "2023-11-10T04:09:04.9580715+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:30.5933971+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:58:04.5011584+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:09:10.5169757+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:58:05.444262+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:09:04.9581125+00:00"
 }

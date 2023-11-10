@@ -12,7 +12,7 @@
 | Scholar | 21.00% | ~106 |
 | True G3M4R | 20.00% | ~101 |
 | The darkness | 20.00% | ~101 |
-| A good beginning | 18.00% | ~91 |
+| A good beginning | 19.00% | ~96 |
 | One last step | 18.00% | ~91 |
 | I did it | 17.00% | ~86 |
 | Peace walker | 17.00% | ~86 |

@@ -10,6 +10,7 @@ Rating: 4.54 (Ranked 522)
 | Pork Chopped | 1.00% | ~413 |
 | Hotel California | 0.60% | ~4,294 |
 | Welcome To Hell-A | 0.60% | ~4,294 |
+| Dr. Reed, I Presume? | 0.50% | ~3,579 |
 | Git Gutte! | 0.50% | ~3,579 |
 | Anger Management | 0.50% | ~3,579 |
 | Bookworm | 0.50% | ~3,579 |
@@ -17,7 +18,6 @@ Rating: 4.54 (Ranked 522)
 | Coup de Grâce | 0.50% | ~3,579 |
 | Hazardous Materials | 0.50% | ~3,579 |
 | Personal Assistant Personally Assisted | 0.50% | ~3,579 |
-| Dr. Reed, I Presume? | 0.40% | ~2,863 |
 | Perks of the Job | 0.40% | ~2,863 |
 | But Doctor, I am Butcho | 0.40% | ~2,863 |
 | Can't Handle the Truth | 0.40% | ~2,863 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,711 (Ranked 21)  
+Progressed: 715,732 (Ranked 21)  
 Completed: 2,369 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,15 +261,15 @@ Completed: 2,369 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,711 | 2,369 |
+| 2023-11-10 | 715,732 | 2,369 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
-Sum: 10,986 (Ranked 86)  
+Sum: 10,989 (Ranked 86)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,249 |
-| This game is Great for Beginners | 530 |
+| This game is Great for Beginners | 533 |
 | This game has Diverse Characters | 525 |
 | This game has Quickly Understood Controls | 499 |
 | This game is Relaxing | 469 |
@@ -483,3 +483,4 @@ Diff (max vs sum): -32
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
 | 2023-11-08 | 4.54 | 7,208 | 10,930 |
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
+| 2023-11-10 | 4.54 | 7,249 | 10,989 |

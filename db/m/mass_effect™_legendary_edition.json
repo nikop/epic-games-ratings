@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1081,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3701,9 +3701,9 @@
       "ID": "achievement_58",
       "SetID": "d252ncf",
       "Name": "The Cure",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 335
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_59",
@@ -4013,9 +4013,9 @@
       "ID": "achievement_93",
       "SetID": "d252ncf",
       "Name": "Liberator",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 270
     },
     {
       "ID": "achievement_94",
@@ -4081,8 +4081,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-10T03:06:18.2936939+00:00",
+  "LastChanged_Achievements": "2023-11-10T04:06:14.1892964+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-10T03:02:51.5081596+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:06:18.2938403+00:00"
+  "LastUpdate_Ratings": "2023-11-10T04:02:50.6046467+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:06:14.1894565+00:00"
 }

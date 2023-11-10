@@ -2,7 +2,7 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 374,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 83,
   "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 40,
@@ -886,9 +886,9 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "14g34pl",
       "Name": "Fairfort is safe!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 35
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -957,8 +957,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-10T03:03:20.9358502+00:00",
+  "LastChanged_Achievements": "2023-11-10T04:03:20.8796362+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
-  "LastUpdate_Ratings": "2023-11-10T03:00:37.4154196+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:03:20.9358604+00:00"
+  "LastUpdate_Ratings": "2023-11-10T04:00:37.9954515+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:03:20.8796481+00:00"
 }

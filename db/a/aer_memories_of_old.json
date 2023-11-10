@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 121,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23800,
+  "EOS_Progressed": 23802,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 500,
+  "EOS_NewPlayers": 502,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -22283,6 +22283,11 @@
       "Time": "2023-11-10T01:47:37.7159131+00:00",
       "NumProgressed": 23800,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-11-10T04:03:16.9953375+00:00",
+      "NumProgressed": 23802,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 20,
@@ -22414,7 +22419,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18326
+      "UsersEstimate": 18328
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22422,7 +22427,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6426
+      "UsersEstimate": 6427
     },
     {
       "ID": "NORTH_FINISHED",
@@ -22453,15 +22458,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23800,
+      "Progressed": 23802,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-10T03:03:16.9962626+00:00",
+  "LastChanged_Achievements": "2023-11-10T04:03:16.9953372+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.680563+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:57:48.8024329+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:03:16.9964044+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:57:49.355601+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:03:16.9954891+00:00"
 }

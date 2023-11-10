@@ -1375,9 +1375,9 @@
       "ID": "achievement_31",
       "SetID": "2cpn27e",
       "Name": "Snare Specialist",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_32",
@@ -1573,8 +1573,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-10T03:05:06.2377349+00:00",
+  "LastChanged_Achievements": "2023-11-10T04:05:03.5480347+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:57:43.6686363+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:05:06.2377716+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:57:44.1151396+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:05:03.5480752+00:00"
 }

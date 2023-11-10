@@ -110,6 +110,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.90% | ~137 |
 | Pantheon | 0.90% | ~137 |
 | Learn to Play 4 | 0.90% | ~137 |
+| Babylonia | 0.90% | ~137 |
 | Carthage | 0.90% | ~137 |
 | One True Faith | 0.90% | ~137 |
 | Dualism | 0.90% | ~137 |
@@ -121,7 +122,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.80% | ~122 |
 | Devout | 0.80% | ~122 |
 | Ready | 0.80% | ~122 |
-| Babylonia | 0.80% | ~122 |
 | Egypt | 0.80% | ~122 |
 | Assyrian Paganism | 0.80% | ~122 |
 | Industrial Progress | 0.80% | ~122 |

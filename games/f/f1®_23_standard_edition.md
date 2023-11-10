@@ -5,28 +5,28 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~5,069 |
+| Getting on the Step | 92.00% | ~5,070 |
 | On the Top Step | 85.00% | ~4,684 |
-| Setting up for Success | 74.00% | ~4,077 |
-| Team Orders | 73.00% | ~4,022 |
-| Engineer | 52.00% | ~2,865 |
+| Setting up for Success | 74.00% | ~4,078 |
+| Team Orders | 73.00% | ~4,023 |
+| Engineer | 52.00% | ~2,866 |
 | Familiar Faces | 46.00% | ~2,535 |
-| Going the Extra Mile | 41.00% | ~2,259 |
+| Going the Extra Mile | 41.00% | ~2,260 |
 | Sharing the Love | 39.00% | ~2,149 |
-| Hitting a Season | 33.00% | ~1,818 |
+| Hitting a Season | 33.00% | ~1,819 |
 | Challenge Yourself | 30.00% | ~1,653 |
 | Making History | 30.00% | ~1,653 |
 | A Dozen Pieces | 29.00% | ~1,598 |
-| Network Success | 24.00% | ~1,322 |
-| Writing a new Chapter | 24.00% | ~1,322 |
+| Network Success | 24.00% | ~1,323 |
+| Writing a new Chapter | 24.00% | ~1,323 |
 | Spring Cleaning | 22.00% | ~1,212 |
 | Reduce | 19.00% | ~1,047 |
 | Ups and Downs | 18.00% | ~992 |
 | Crucial Combo | 17.00% | ~937 |
-| Reuse | 15.00% | ~826 |
-| One for the Book | 15.00% | ~826 |
-| Proving Them Wrong | 15.00% | ~826 |
-| Gathering Dust | 14.00% | ~771 |
+| Reuse | 15.00% | ~827 |
+| One for the Book | 15.00% | ~827 |
+| Proving Them Wrong | 15.00% | ~827 |
+| Gathering Dust | 14.00% | ~772 |
 | Oil and Water | 13.00% | ~716 |
 | Eagle Eye | 12.00% | ~661 |
 | Hitting a Bullseye | 12.00% | ~661 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 230)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,510 (Ranked 182)  
+Progressed: 5,511 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 346)
 | 2023-11-07 | 5,352 | 0 |
 | 2023-11-08 | 5,432 | 0 |
 | 2023-11-09 | 5,500 | 0 |
-| 2023-11-10 | 5,510 | 0 |
+| 2023-11-10 | 5,511 | 0 |
 ## Awards
 Max (Great for Beginners): 25  (Ranked 515)  
 Sum: 49 (Ranked 481)  

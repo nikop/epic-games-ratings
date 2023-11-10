@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3844,
+  "EOS_Progressed": 3845,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7792,6 +7792,11 @@
       "Time": "2023-11-10T01:52:19.3812397+00:00",
       "NumProgressed": 3844,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-10T04:06:46.3604953+00:00",
+      "NumProgressed": 3845,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7859,7 +7864,7 @@
       "Name": "Just a Flesh Wound",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "REWARD_18_ORGAN_GRINDER",
@@ -7923,7 +7928,7 @@
       "Name": "Gunslinger",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "REWARD_25_SKIRMISHER",
@@ -8003,7 +8008,7 @@
       "Name": "Explosive Efficiency",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -8011,7 +8016,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8035,7 +8040,7 @@
       "Name": "Der Geist",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "REWARD_39_AS_QUIET_AS_A_MOUSE",
@@ -8051,7 +8056,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8297,9 +8302,9 @@
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
       "SetID": "83mdf7p",
       "Name": "Siegebreaker",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 152
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -8370,13 +8375,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3795,
+      "Progressed": 3796,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3844,
+      "Progressed": 3845,
       "Completed": 11
     }
   ],
@@ -8384,8 +8389,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-10T03:06:50.7692788+00:00",
+  "LastChanged_Achievements": "2023-11-10T04:06:46.3604949+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.5977127+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:59:07.7000982+00:00",
-  "LastUpdate_Achievements": "2023-11-10T03:06:50.7693543+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:59:07.9004176+00:00",
+  "LastUpdate_Achievements": "2023-11-10T04:06:46.3605686+00:00"
 }
