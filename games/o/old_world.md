@@ -6,34 +6,34 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 5.00% | ~762 |
-| Settler | 5.00% | ~762 |
-| Play a Single Player Game | 5.00% | ~762 |
+| Explorer | 5.00% | ~763 |
+| Settler | 5.00% | ~763 |
+| Play a Single Player Game | 5.00% | ~763 |
 | Intrepid | 4.00% | ~610 |
 | Friendly Family | 4.00% | ~610 |
-| Able | 3.00% | ~457 |
-| Ambitious | 3.00% | ~457 |
-| Architect | 3.00% | ~457 |
-| Enlightened | 3.00% | ~457 |
-| Glorious | 3.00% | ~457 |
-| Good | 3.00% | ~457 |
-| Just | 3.00% | ~457 |
-| Keystone | 3.00% | ~457 |
-| Learned | 3.00% | ~457 |
-| Mason | 3.00% | ~457 |
-| Noble | 3.00% | ~457 |
-| Pioneer | 3.00% | ~457 |
-| Strong | 3.00% | ~457 |
-| Warrior | 3.00% | ~457 |
-| Developing Cities | 3.00% | ~457 |
-| Strong Cities | 3.00% | ~457 |
-| Hanging Gardens | 3.00% | ~457 |
-| Oracle | 3.00% | ~457 |
-| Pyramids | 3.00% | ~457 |
-| Judaism | 3.00% | ~457 |
-| Greek Paganism | 3.00% | ~457 |
-| Naming Landmarks | 3.00% | ~457 |
-| Trade Caravan | 3.00% | ~457 |
+| Able | 3.00% | ~458 |
+| Ambitious | 3.00% | ~458 |
+| Architect | 3.00% | ~458 |
+| Enlightened | 3.00% | ~458 |
+| Glorious | 3.00% | ~458 |
+| Good | 3.00% | ~458 |
+| Just | 3.00% | ~458 |
+| Keystone | 3.00% | ~458 |
+| Learned | 3.00% | ~458 |
+| Mason | 3.00% | ~458 |
+| Noble | 3.00% | ~458 |
+| Pioneer | 3.00% | ~458 |
+| Strong | 3.00% | ~458 |
+| Warrior | 3.00% | ~458 |
+| Developing Cities | 3.00% | ~458 |
+| Strong Cities | 3.00% | ~458 |
+| Hanging Gardens | 3.00% | ~458 |
+| Oracle | 3.00% | ~458 |
+| Pyramids | 3.00% | ~458 |
+| Judaism | 3.00% | ~458 |
+| Greek Paganism | 3.00% | ~458 |
+| Naming Landmarks | 3.00% | ~458 |
+| Trade Caravan | 3.00% | ~458 |
 | Regicide | 2.00% | ~305 |
 | Drillmaster | 2.00% | ~305 |
 | Brilliant | 2.00% | ~305 |
@@ -68,44 +68,45 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 2.00% | ~305 |
 | Kushite Pyramids | 2.00% | ~305 |
 | Kushite Paganism | 2.00% | ~305 |
-| Hanging Gardens in Babylon | 1.00% | ~152 |
-| Beloved | 1.00% | ~152 |
-| Conqueror | 1.00% | ~152 |
-| Intercessor | 1.00% | ~152 |
-| Invincible | 1.00% | ~152 |
-| Lion | 1.00% | ~152 |
-| Subjugator | 1.00% | ~152 |
-| Victorious | 1.00% | ~152 |
-| Good Difficulty | 1.00% | ~152 |
-| Champions | 1.00% | ~152 |
-| Landowners | 1.00% | ~152 |
-| Patrons | 1.00% | ~152 |
-| Riders | 1.00% | ~152 |
-| Sages | 1.00% | ~152 |
-| Statesmen | 1.00% | ~152 |
-| Traders | 1.00% | ~152 |
-| Hittite Iron | 1.00% | ~152 |
-| Acropolis | 1.00% | ~152 |
-| Circus Maximus | 1.00% | ~152 |
-| Hagia Sophia | 1.00% | ~152 |
-| Temple of Solomon | 1.00% | ~152 |
-| Mausoleum | 1.00% | ~152 |
-| Via Recta Souk | 1.00% | ~152 |
-| Learn to Play 3 | 1.00% | ~152 |
-| Greece | 1.00% | ~152 |
-| Power to the People | 1.00% | ~152 |
-| Persian Paganism | 1.00% | ~152 |
-| Building Wonders | 1.00% | ~152 |
-| Economic Reform | 1.00% | ~152 |
-| Military Prestige | 1.00% | ~152 |
-| Legalism | 1.00% | ~152 |
-| Redemption | 1.00% | ~152 |
-| Cimmerian Archer | 1.00% | ~152 |
-| Legionary | 1.00% | ~152 |
-| Phalangite | 1.00% | ~152 |
-| Double Victory | 1.00% | ~152 |
-| Points Victory | 1.00% | ~152 |
-| The Clergy | 1.00% | ~152 |
+| Hanging Gardens in Babylon | 1.00% | ~153 |
+| Beloved | 1.00% | ~153 |
+| Conqueror | 1.00% | ~153 |
+| Intercessor | 1.00% | ~153 |
+| Invincible | 1.00% | ~153 |
+| Lion | 1.00% | ~153 |
+| Subjugator | 1.00% | ~153 |
+| Victorious | 1.00% | ~153 |
+| Good Difficulty | 1.00% | ~153 |
+| Champions | 1.00% | ~153 |
+| Landowners | 1.00% | ~153 |
+| Patrons | 1.00% | ~153 |
+| Riders | 1.00% | ~153 |
+| Sages | 1.00% | ~153 |
+| Statesmen | 1.00% | ~153 |
+| Traders | 1.00% | ~153 |
+| Hittite Iron | 1.00% | ~153 |
+| Acropolis | 1.00% | ~153 |
+| Circus Maximus | 1.00% | ~153 |
+| Hagia Sophia | 1.00% | ~153 |
+| Temple of Solomon | 1.00% | ~153 |
+| Mausoleum | 1.00% | ~153 |
+| Via Recta Souk | 1.00% | ~153 |
+| Learn to Play 3 | 1.00% | ~153 |
+| Greece | 1.00% | ~153 |
+| Power to the People | 1.00% | ~153 |
+| Persian Paganism | 1.00% | ~153 |
+| Building Wonders | 1.00% | ~153 |
+| Economic Reform | 1.00% | ~153 |
+| Military Prestige | 1.00% | ~153 |
+| Dualism | 1.00% | ~153 |
+| Legalism | 1.00% | ~153 |
+| Redemption | 1.00% | ~153 |
+| Cimmerian Archer | 1.00% | ~153 |
+| Legionary | 1.00% | ~153 |
+| Phalangite | 1.00% | ~153 |
+| Double Victory | 1.00% | ~153 |
+| Points Victory | 1.00% | ~153 |
+| The Clergy | 1.00% | ~153 |
 | Capable | 0.90% | ~137 |
 | Strong Difficulty | 0.90% | ~137 |
 | Hunters | 0.90% | ~137 |
@@ -115,7 +116,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.90% | ~137 |
 | Carthage | 0.90% | ~137 |
 | One True Faith | 0.90% | ~137 |
-| Dualism | 0.90% | ~137 |
 | Gnosticism | 0.90% | ~137 |
 | Revelation | 0.90% | ~137 |
 | Veneration | 0.90% | ~137 |
@@ -135,15 +135,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Great Mage | 0.70% | ~107 |
 | Poetic Leader | 0.70% | ~107 |
 | Kmt Unified | 0.70% | ~107 |
-| Ishtar Gate in Babylon | 0.60% | ~91 |
-| Carthage - Ox Hide | 0.60% | ~91 |
-| Peacemaker | 0.60% | ~91 |
-| Noble Difficulty | 0.60% | ~91 |
-| Cao'an | 0.60% | ~91 |
-| Adur Burzen-Mihr | 0.60% | ~91 |
-| Learn to Play 5 | 0.60% | ~91 |
-| Cataphract Archer | 0.60% | ~91 |
-| All Nations | 0.60% | ~91 |
+| Ishtar Gate in Babylon | 0.60% | ~92 |
+| Carthage - Ox Hide | 0.60% | ~92 |
+| Peacemaker | 0.60% | ~92 |
+| Noble Difficulty | 0.60% | ~92 |
+| Cao'an | 0.60% | ~92 |
+| Adur Burzen-Mihr | 0.60% | ~92 |
+| Learn to Play 5 | 0.60% | ~92 |
+| Cataphract Archer | 0.60% | ~92 |
+| All Nations | 0.60% | ~92 |
 | Old | 0.50% | ~76 |
 | Old World Order | 0.50% | ~76 |
 | Ten Crowns | 0.50% | ~76 |
@@ -174,29 +174,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.30% | ~46 |
 | Necropolis in Waset | 0.30% | ~46 |
 | Prosperous Kmt | 0.30% | ~46 |
-| Gold Victory (Carthage 1) | 0.20% | ~30 |
-| Bronze Victory (Carthage 2) | 0.20% | ~30 |
-| Silver Victory (Carthage 2) | 0.20% | ~30 |
-| Carthage - Rise of Rome | 0.20% | ~30 |
-| Cleopatra's Love | 0.20% | ~30 |
-| Holy | 0.20% | ~30 |
-| Great Difficulty | 0.20% | ~30 |
-| Event Level High | 0.20% | ~30 |
-| Get the Hellas Out | 0.20% | ~30 |
-| The Turning Point | 0.20% | ~30 |
-| A Good Start | 0.20% | ~30 |
-| Like a Lion | 0.20% | ~30 |
-| Tell the Spartans | 0.20% | ~30 |
-| Learn By Playing 1 - Able | 0.20% | ~30 |
-| Macedonian Wars | 0.20% | ~30 |
-| Medo-Babylonian Conquest | 0.20% | ~30 |
-| Apadana in Parsa | 0.20% | ~30 |
-| Play a Free-For-All Game (>2 Players) | 0.20% | ~30 |
-| Pantheon in Roma | 0.20% | ~30 |
-| Randomized Leaders | 0.20% | ~30 |
-| Kmt Golden Age | 0.20% | ~30 |
-| Glory to The Aten | 0.20% | ~30 |
-| Akhenaten's Legacy | 0.20% | ~30 |
+| Gold Victory (Carthage 1) | 0.20% | ~31 |
+| Bronze Victory (Carthage 2) | 0.20% | ~31 |
+| Silver Victory (Carthage 2) | 0.20% | ~31 |
+| Carthage - Rise of Rome | 0.20% | ~31 |
+| Cleopatra's Love | 0.20% | ~31 |
+| Holy | 0.20% | ~31 |
+| Great Difficulty | 0.20% | ~31 |
+| Event Level High | 0.20% | ~31 |
+| Get the Hellas Out | 0.20% | ~31 |
+| The Turning Point | 0.20% | ~31 |
+| A Good Start | 0.20% | ~31 |
+| Like a Lion | 0.20% | ~31 |
+| Tell the Spartans | 0.20% | ~31 |
+| Learn By Playing 1 - Able | 0.20% | ~31 |
+| Macedonian Wars | 0.20% | ~31 |
+| Medo-Babylonian Conquest | 0.20% | ~31 |
+| Apadana in Parsa | 0.20% | ~31 |
+| Play a Free-For-All Game (>2 Players) | 0.20% | ~31 |
+| Pantheon in Roma | 0.20% | ~31 |
+| Randomized Leaders | 0.20% | ~31 |
+| Kmt Golden Age | 0.20% | ~31 |
+| Glory to The Aten | 0.20% | ~31 |
+| Akhenaten's Legacy | 0.20% | ~31 |
 | Centenarian | 0.10% | ~15 |
 | Alexander the Great | 0.10% | ~15 |
 | Alexander the who? | 0.10% | ~15 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,249 (Ranked 145)  
+Progressed: 15,253 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 5 (0.03%) (Ranked 310)
 | 2023-11-07 | 15,201 | 5 |
 | 2023-11-08 | 15,218 | 5 |
 | 2023-11-09 | 15,231 | 5 |
-| 2023-11-10 | 15,249 | 5 |
+| 2023-11-10 | 15,253 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 273)  
 Sum: 1,872 (Ranked 214)  

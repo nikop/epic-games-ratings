@@ -2,9 +2,9 @@
   "ID": "a5c7f255d82b45c29d9ae3e3d2e5563a",
   "Name": "The Case of the Golden Idol",
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
-  "Ranking_EOS_Progress": 371,
+  "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 202,
+  "EOS_Progressed": 203,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.96,
+  "EOS_Completed_Percentage": 3.94,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -816,6 +816,11 @@
       "Time": "2023-10-26T22:06:03.5553536+00:00",
       "NumProgressed": 202,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-10T23:06:44.0708222+00:00",
+      "NumProgressed": 203,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -923,7 +928,7 @@
       "Name": "Solved The Spider of Lanka 2nd Case",
       "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "13",
@@ -931,7 +936,7 @@
       "Name": "Solved The Spider of Lanka 3rd Case",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "14",
@@ -939,7 +944,7 @@
       "Name": "Solved the Lemurian Vampire 1st Case",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "15",
@@ -962,13 +967,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 202,
+      "Progressed": 203,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 109
     }
   ],
@@ -976,8 +981,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:06:08.9842312+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:06:44.0708218+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.4325624+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:59:48.5554017+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:06:08.9842434+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:00:16.9436239+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:06:44.0708374+00:00"
 }

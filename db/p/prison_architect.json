@@ -2,7 +2,7 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 199,
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 73,
@@ -6625,10 +6625,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4345,
       "NumberOfAwardsMax": 560
+    },
+    {
+      "Time": "2023-11-10T22:58:21.0220995+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4349,
+      "NumberOfAwardsMax": 560
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4345,
+  "NumberOfAwards": 4349,
   "NumberOfAwardsMax": 560,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6648,13 +6654,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 554
+      "Count": 556
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 466
+      "Count": 468
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -6699,9 +6705,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 192576,
+  "EOS_Progressed": 192590,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2207,
+  "EOS_NewPlayers": 2203,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29944,6 +29950,11 @@
       "Time": "2023-11-10T22:08:41.7796832+00:00",
       "NumProgressed": 192576,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-10T23:08:52.5445298+00:00",
+      "NumProgressed": 192590,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 16,
@@ -29971,7 +29982,7 @@
       "Name": "Don\u0027t Put Me In The Dark",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5777
+      "UsersEstimate": 5778
     },
     {
       "ID": "Achievement_11",
@@ -29979,7 +29990,7 @@
       "Name": "Wait and Hope",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 5777
+      "UsersEstimate": 5778
     },
     {
       "ID": "Achievement_12",
@@ -29987,7 +29998,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30812
+      "UsersEstimate": 30814
     },
     {
       "ID": "Achievement_13",
@@ -30011,7 +30022,7 @@
       "Name": "I May Have Found A Way Out Of Here",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5777
+      "UsersEstimate": 5778
     },
     {
       "ID": "Achievement_2",
@@ -30019,7 +30030,7 @@
       "Name": "Reformation",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "Achievement_3",
@@ -30035,7 +30046,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 48144
+      "UsersEstimate": 48148
     },
     {
       "ID": "Achievement_5",
@@ -30067,7 +30078,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17332
+      "UsersEstimate": 17333
     },
     {
       "ID": "Achievement_9",
@@ -30075,22 +30086,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9629
+      "UsersEstimate": 9630
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 192576,
+      "Progressed": 192590,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-10T14:58:16.6866184+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:08:41.7796829+00:00",
+  "LastChanged": "2023-11-10T22:58:21.0220994+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:08:52.5445295+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.8448394+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:58:03.1486111+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:08:41.7797936+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:58:21.0220999+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:08:52.5446255+00:00"
 }

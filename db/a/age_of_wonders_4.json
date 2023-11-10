@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 487,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -429,9 +429,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5331,
+  "EOS_Progressed": 5335,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6869,6 +6869,11 @@
       "Time": "2023-11-10T22:02:58.390546+00:00",
       "NumProgressed": 5331,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-10T23:03:13.356866+00:00",
+      "NumProgressed": 5335,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7294,9 +7299,9 @@
       "ID": "53",
       "SetID": "7132754",
       "Name": "Prometheus Avenged",
-      "Percentage": 0.2,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "54",
@@ -7359,13 +7364,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5331,
+      "Progressed": 5335,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5331,
+      "Progressed": 5335,
       "Completed": 7
     }
   ],
@@ -7373,8 +7378,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-09T11:59:25.9904404+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:02:58.3905456+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:03:13.3568657+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:59:51.0942636+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:02:58.3906317+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:00:19.6500212+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:03:13.3569477+00:00"
 }

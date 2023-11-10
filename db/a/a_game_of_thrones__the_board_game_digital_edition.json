@@ -2,7 +2,7 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 900,
   "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 124,
@@ -1314,7 +1314,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28028,
+  "EOS_Progressed": 28032,
   "EOS_Completed": 76,
   "EOS_NewPlayers": 489,
   "EOS_NewCompleters": 1,
@@ -23254,6 +23254,11 @@
       "Time": "2023-11-10T22:08:44.7293728+00:00",
       "NumProgressed": 28028,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-11-10T23:08:55.9312641+00:00",
+      "NumProgressed": 28032,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 22,
@@ -23289,7 +23294,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "1019",
@@ -23305,7 +23310,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1402
     },
     {
       "ID": "1021",
@@ -23337,7 +23342,7 @@
       "Name": "Daggers in the Dark",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "1025",
@@ -23369,7 +23374,7 @@
       "Name": "The Kingsroad",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 5045
+      "UsersEstimate": 5046
     },
     {
       "ID": "1029",
@@ -23377,7 +23382,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "1030",
@@ -23401,7 +23406,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11211
+      "UsersEstimate": 11213
     },
     {
       "ID": "1033",
@@ -23433,22 +23438,22 @@
       "Name": "A Long Journey",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     }
   ],
   "AchievementSets": [
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28028,
+      "Progressed": 28032,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:08:44.7293719+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:08:55.9312637+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0319052+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:02:51.494863+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:08:44.729478+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:03:04.0023384+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:08:55.9313884+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14948,10 +14948,10 @@
       "Count": 12694
     }
   ],
-  "EOS_Progressed": 896071,
-  "EOS_Completed": 2760,
-  "EOS_NewPlayers": 985,
-  "EOS_NewCompleters": 19,
+  "EOS_Progressed": 896078,
+  "EOS_Completed": 2761,
+  "EOS_NewPlayers": 986,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38098,6 +38098,11 @@
       "Time": "2023-11-10T22:04:00.6651044+00:00",
       "NumProgressed": 896071,
       "NumCompleted": 2760
+    },
+    {
+      "Time": "2023-11-10T23:04:21.1011696+00:00",
+      "NumProgressed": 896078,
+      "NumCompleted": 2761
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38132,9 +38137,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4480
+      "UsersEstimate": 5376
     },
     {
       "ID": "Denied",
@@ -38438,7 +38443,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17921
+      "UsersEstimate": 17922
     },
     {
       "ID": "YipMan",
@@ -38566,7 +38571,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "HydraIsDead",
@@ -38582,7 +38587,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "KingOfTheCups",
@@ -38645,21 +38650,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896071,
-      "Completed": 2760
+      "Progressed": 896078,
+      "Completed": 2761
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24694,
-      "Completed": 10205
+      "Progressed": 24701,
+      "Completed": 10206
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-10T17:07:53.5536398+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:04:00.6651038+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:04:21.1011692+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:57:54.8440062+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:04:00.6652579+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:58:12.0382264+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:04:21.1013302+00:00"
 }

@@ -18,9 +18,9 @@
 | The Witch’s Haunt | 21.00% | ~4 |
 | Thanksgiving Day | 16.00% | ~3 |
 | Trapped in Time | 16.00% | ~3 |
-| A Cabin Boy with Potential | 11.00% | ~2 |
+| A Cabin Boy with Potential | 16.00% | ~3 |
+| Oh... You didn't think to bring it? | 11.00% | ~2 |
 | Don’t Touch the Rum! | 5.00% | ~1 |
-| Oh... You didn't think to bring it? | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 19 (Ranked 538)  
 Completed: 2 (10.53%) (Ranked 35)  

@@ -4,7 +4,7 @@
   "ProductSlug": "reverie-sweet-as-edition-a2f649",
   "Ranking_EOS_Progress": 626,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-28T08:00:00+00:00",
@@ -343,8 +343,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:50:48.1130388+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:08:21.2575963+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:08:30.0632634+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.6487759+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:58:16.7913714+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:08:21.2576135+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:58:36.1461476+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:08:30.063286+00:00"
 }

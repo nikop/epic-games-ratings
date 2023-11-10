@@ -6,13 +6,13 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,921 |
+| V for Vendetta | 2.00% | ~17,922 |
 | Gun Fu | 1.00% | ~8,961 |
 | Relic Ruler | 0.80% | ~198 |
-| Full Body Conversion | 0.50% | ~4,480 |
+| Full Body Conversion | 0.60% | ~5,376 |
 | True Soldier | 0.50% | ~4,480 |
-| All the President's Men | 0.50% | ~123 |
-| Arachnophobia | 0.50% | ~123 |
+| All the President's Men | 0.50% | ~124 |
+| Arachnophobia | 0.50% | ~124 |
 | Right Back At Ya | 0.40% | ~3,584 |
 | The Quick and the Dead | 0.40% | ~3,584 |
 | Stanislavski's Method | 0.40% | ~3,584 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,071 (Ranked 15)  
-Completed: 2,760 (0.31%) (Ranked 224)  
+Progressed: 896,078 (Ranked 15)  
+Completed: 2,761 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -278,7 +278,7 @@ Completed: 2,760 (0.31%) (Ranked 224)
 | 2023-11-07 | 895,712 | 2,753 |
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
-| 2023-11-10 | 896,071 | 2,760 |
+| 2023-11-10 | 896,078 | 2,761 |
 ## Awards
 Max (Character Customization): 104,816  (Ranked 9)  
 Sum: 348,364 (Ranked 10)  

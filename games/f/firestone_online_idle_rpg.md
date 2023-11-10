@@ -5,14 +5,14 @@ Rating: 4.10 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,034 |
-| World Map | 79.00% | ~1,728 |
-| Temple of Eternals | 57.00% | ~1,247 |
-| Prestigious | 54.00% | ~1,181 |
+| Victor | 93.00% | ~2,036 |
+| World Map | 78.00% | ~1,707 |
+| Temple of Eternals | 57.00% | ~1,248 |
+| Prestigious | 54.00% | ~1,182 |
 | Fellowship Power | 42.00% | ~919 |
 | Guild Power | 26.00% | ~569 |
 | Prestigious x10 | 23.00% | ~503 |
-| The game is on | 21.00% | ~459 |
+| The game is on | 21.00% | ~460 |
 | Exotic Merchant | 19.00% | ~416 |
 | Dragon Clicker | 17.00% | ~372 |
 | Full Party | 17.00% | ~372 |
@@ -26,9 +26,9 @@ Rating: 4.10 (Ranked 958)
 | Natural Talent | 14.00% | ~306 |
 | Superior | 14.00% | ~306 |
 | The Unstoppable | 14.00% | ~306 |
-| Milestone collector | 13.00% | ~284 |
-| Scientist | 12.00% | ~262 |
-| The power of Awakening | 12.00% | ~262 |
+| Milestone collector | 13.00% | ~285 |
+| Scientist | 12.00% | ~263 |
+| The power of Awakening | 12.00% | ~263 |
 | Challenger | 11.00% | ~241 |
 | Daily Quest Completionist | 11.00% | ~241 |
 | Doing My Part | 11.00% | ~241 |
@@ -61,9 +61,9 @@ Rating: 4.10 (Ranked 958)
 | Arena Challenger | 5.00% | ~109 |
 | Background Story | 5.00% | ~109 |
 | Ebony Jungle Liberator | 5.00% | ~109 |
-| Gear Enchanting | 4.00% | ~87 |
-| Mythic Power | 4.00% | ~87 |
-| What lies behind the bush | 4.00% | ~87 |
+| Gear Enchanting | 4.00% | ~88 |
+| Mythic Power | 4.00% | ~88 |
+| What lies behind the bush | 4.00% | ~88 |
 | Guardian Master | 3.00% | ~66 |
 | Cauldron Liberator | 2.00% | ~44 |
 | Enchanting skill x5 | 2.00% | ~44 |
@@ -76,12 +76,12 @@ Rating: 4.10 (Ranked 958)
 | Training makes a Pro player | 1.00% | ~22 |
 | Tree of Life | 1.00% | ~22 |
 | Beast War Machines | 0.90% | ~20 |
-| Silverwood liberator | 0.80% | ~17 |
-| Ultimate War Machines | 0.80% | ~17 |
+| Silverwood liberator | 0.80% | ~18 |
+| Ultimate War Machines | 0.80% | ~18 |
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,187 (Ranked 216)  
+Progressed: 2,189 (Ranked 216)  
 Completed: 2 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 2 (0.09%) (Ranked 275)
 | 2023-11-07 | 2,119 | 2 |
 | 2023-11-08 | 2,124 | 2 |
 | 2023-11-09 | 2,129 | 2 |
-| 2023-11-10 | 2,187 | 2 |
+| 2023-11-10 | 2,189 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 491)  
 Sum: 57 (Ranked 471)  

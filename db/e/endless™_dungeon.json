@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1066,
+  "EOS_Progressed": 1067,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1560,6 +1560,11 @@
       "Time": "2023-11-10T22:07:53.91736+00:00",
       "NumProgressed": 1066,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T23:08:22.1034742+00:00",
+      "NumProgressed": 1067,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1652,7 +1657,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1811,14 +1816,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1066,
+      "Progressed": 1067,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:07:53.9173597+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:08:22.1034738+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:11.1557336+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:57:42.0350504+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:07:53.91738+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:57:57.6584143+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:08:22.1034937+00:00"
 }

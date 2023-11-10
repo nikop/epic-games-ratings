@@ -9,7 +9,7 @@ Rating: 4.56 (Ranked 486)
 | Don't judge a manhole by its cover | 60.00% | ~409 |
 | I just love stuff! | 43.00% | ~293 |
 | Keep 'em coming! | 43.00% | ~293 |
-| The things they print nowadays | 40.00% | ~272 |
+| The things they print nowadays | 40.00% | ~273 |
 | Big Spender | 39.00% | ~266 |
 | That's gotta hurt | 37.00% | ~252 |
 | I think it's broke | 27.00% | ~184 |
@@ -19,16 +19,16 @@ Rating: 4.56 (Ranked 486)
 | Omnipotence | 21.00% | ~143 |
 | The Warlord | 21.00% | ~143 |
 | You are the One | 20.00% | ~136 |
-| Deadly Kombationem | 19.00% | ~129 |
+| Deadly Kombationem | 19.00% | ~130 |
 | The truth is out there | 16.00% | ~109 |
 | Annakin Skyscroller | 14.00% | ~95 |
 | In the smacker...I think | 11.00% | ~75 |
 | Arm Wrestlin' | 10.00% | ~68 |
 | 1+1>2 | 9.00% | ~61 |
 | This can't be right… | 9.00% | ~61 |
-| I'm walking here! | 8.00% | ~54 |
-| So Fresh and So clean clean | 8.00% | ~54 |
-| Welcome home, 06 | 8.00% | ~54 |
+| I'm walking here! | 8.00% | ~55 |
+| So Fresh and So clean clean | 8.00% | ~55 |
+| Welcome home, 06 | 8.00% | ~55 |
 | Clarity of Mind | 7.00% | ~48 |
 | Supreme Bartender Ann | 7.00% | ~48 |
 | I feel secure, contained & protected | 6.00% | ~41 |
@@ -42,7 +42,7 @@ Rating: 4.56 (Ranked 486)
 | Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 681 (Ranked 273)  
+Progressed: 682 (Ranked 273)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -121,6 +121,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-10-22 | 678 | 0 |
 | 2023-11-01 | 679 | 0 |
 | 2023-11-04 | 681 | 0 |
+| 2023-11-10 | 682 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

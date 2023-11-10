@@ -6,45 +6,45 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~396,499 |
-| Happy Returns | 78.00% | ~381,814 |
-| Hey! That's mine! | 78.00% | ~381,814 |
-| Field Promotion | 74.00% | ~362,234 |
-| Leadhead | 71.00% | ~347,549 |
-| Eradicator | 67.00% | ~327,968 |
-| Surplus | 65.00% | ~318,178 |
-| I Spy | 64.00% | ~313,283 |
-| Burn Baby Burn | 59.00% | ~288,808 |
-| Yellow Beats Green | 56.00% | ~274,123 |
-| Salvage Rights | 53.00% | ~259,438 |
-| Close Call | 50.00% | ~244,752 |
-| Pew Pew | 50.00% | ~244,752 |
-| What IS that? | 50.00% | ~244,752 |
-| Penny Pincher | 49.00% | ~239,857 |
-| Arsenal | 46.00% | ~225,172 |
-| Boot Camp | 45.00% | ~220,277 |
-| Flawless Victory | 42.00% | ~205,592 |
-| Confident | 41.00% | ~200,697 |
-| Exterminator | 36.00% | ~176,222 |
-| Sharpshooter | 34.00% | ~166,432 |
-| Not So Fast | 33.00% | ~161,537 |
-| Great Ball of Fire | 32.00% | ~156,642 |
-| No Sale | 31.00% | ~151,747 |
-| Kaboom! | 30.00% | ~146,852 |
-| Liquidator | 29.00% | ~141,956 |
-| High Voltage | 24.00% | ~117,481 |
-| Filthy Rich | 20.00% | ~97,901 |
-| The Not-So-Friendly Skies | 18.00% | ~88,111 |
-| Power Builder | 17.00% | ~83,216 |
-| Pyrrhic Victory | 17.00% | ~83,216 |
+| First Blood | 81.00% | ~396,502 |
+| Happy Returns | 78.00% | ~381,817 |
+| Hey! That's mine! | 78.00% | ~381,817 |
+| Field Promotion | 74.00% | ~362,237 |
+| Leadhead | 71.00% | ~347,551 |
+| Eradicator | 67.00% | ~327,971 |
+| Surplus | 65.00% | ~318,181 |
+| I Spy | 64.00% | ~313,286 |
+| Burn Baby Burn | 59.00% | ~288,810 |
+| Yellow Beats Green | 56.00% | ~274,125 |
+| Salvage Rights | 53.00% | ~259,440 |
+| Close Call | 50.00% | ~244,754 |
+| Pew Pew | 50.00% | ~244,754 |
+| What IS that? | 50.00% | ~244,754 |
+| Penny Pincher | 49.00% | ~239,859 |
+| Arsenal | 46.00% | ~225,174 |
+| Boot Camp | 45.00% | ~220,279 |
+| Flawless Victory | 42.00% | ~205,594 |
+| Confident | 41.00% | ~200,699 |
+| Exterminator | 36.00% | ~176,223 |
+| Sharpshooter | 34.00% | ~166,433 |
+| Not So Fast | 33.00% | ~161,538 |
+| Great Ball of Fire | 32.00% | ~156,643 |
+| No Sale | 31.00% | ~151,748 |
+| Kaboom! | 30.00% | ~146,853 |
+| Liquidator | 29.00% | ~141,958 |
+| High Voltage | 24.00% | ~117,482 |
+| Filthy Rich | 20.00% | ~97,902 |
+| The Not-So-Friendly Skies | 18.00% | ~88,112 |
+| Power Builder | 17.00% | ~83,217 |
+| Pyrrhic Victory | 17.00% | ~83,217 |
 | Death From Above | 16.00% | ~78,321 |
 | Retry | 16.00% | ~78,321 |
 | Head Trauma | 12.00% | ~58,741 |
-| Full Defense | 10.00% | ~48,950 |
-| Overseer | 9.00% | ~44,055 |
-| Annihilator | 8.00% | ~39,160 |
-| If At First You Don't Succeed, Retry Again | 8.00% | ~39,160 |
-| Indecisive | 6.00% | ~29,370 |
+| Full Defense | 10.00% | ~48,951 |
+| Overseer | 9.00% | ~44,056 |
+| Annihilator | 8.00% | ~39,161 |
+| If At First You Don't Succeed, Retry Again | 8.00% | ~39,161 |
+| Indecisive | 6.00% | ~29,371 |
 | Base Defender | 5.00% | ~24,475 |
 | Relay Race | 5.00% | ~24,475 |
 | Tower Expert | 4.00% | ~19,580 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~490 |
 | You Monster | 0.10% | ~490 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489,505 (Ranked 36)  
+Progressed: 489,509 (Ranked 36)  
 Completed: 5 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -298,10 +298,10 @@ Completed: 5 (0.00%) (Ranked 347)
 | 2023-11-07 | 489,318 | 5 |
 | 2023-11-08 | 489,379 | 5 |
 | 2023-11-09 | 489,437 | 5 |
-| 2023-11-10 | 489,505 | 5 |
+| 2023-11-10 | 489,509 | 5 |
 ## Awards
 Max (Great for Beginners): 257  (Ranked 266)  
-Sum: 1,717 (Ranked 220)  
+Sum: 1,718 (Ranked 220)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
@@ -312,7 +312,7 @@ Diff (max vs sum): 46
 | This game is Highly Recommended | 195 |
 | This game has Challenging Combat | 186 |
 | This game has Amazing Storytelling | 182 |
-| This game has Amazing Characters | 173 |
+| This game has Amazing Characters | 174 |
 | This game has a Creative Community | 72 |
 | This game has Playful Visuals | 38 |
 ## Ratings History
@@ -461,3 +461,4 @@ Diff (max vs sum): 46
 | 2023-11-05 | 4.45 | - | 256 | 1,715 |
 | 2023-11-07 | 4.45 | - | 257 | 1,716 |
 | 2023-11-09 | 4.45 | - | 257 | 1,717 |
+| 2023-11-10 | 4.45 | - | 257 | 1,718 |

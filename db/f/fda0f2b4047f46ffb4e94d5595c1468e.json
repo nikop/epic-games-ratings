@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2329,10 +2329,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 4526,
       "NumberOfAwardsMax": 1452
+    },
+    {
+      "Time": "2023-11-10T22:59:51.1480049+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4528,
+      "NumberOfAwardsMax": 1452
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4526,
+  "NumberOfAwards": 4528,
   "NumberOfAwardsMax": 1452,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2394,7 +2400,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 291
+      "Count": 293
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -2409,7 +2415,7 @@
       "Count": 339
     }
   ],
-  "EOS_Progressed": 8402,
+  "EOS_Progressed": 8403,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
@@ -7514,6 +7520,11 @@
       "Time": "2023-11-10T21:16:00.6654671+00:00",
       "NumProgressed": 8402,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T23:08:00.0966113+00:00",
+      "NumProgressed": 8403,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7534,7 +7545,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "ach03",
@@ -7550,7 +7561,7 @@
       "Name": "What Just Happened??",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ach05",
@@ -7574,7 +7585,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4705
+      "UsersEstimate": 4706
     },
     {
       "ID": "ach08",
@@ -7622,7 +7633,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ach14",
@@ -7646,7 +7657,7 @@
       "Name": "Test Your Might",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1512
+      "UsersEstimate": 1513
     },
     {
       "ID": "ach17",
@@ -7654,7 +7665,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4453
+      "UsersEstimate": 4454
     },
     {
       "ID": "ach18",
@@ -7694,7 +7705,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "ach23",
@@ -7718,7 +7729,7 @@
       "Name": "Talis-Mania",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "ach26",
@@ -7750,7 +7761,7 @@
       "Name": "Unstoppable",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "ach30",
@@ -7814,7 +7825,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4873
+      "UsersEstimate": 4874
     },
     {
       "ID": "ach38",
@@ -7894,7 +7905,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1848
+      "UsersEstimate": 1849
     },
     {
       "ID": "ach48",
@@ -7902,7 +7913,7 @@
       "Name": "Total Disrespect",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "ach49",
@@ -7925,16 +7936,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8402,
+      "Progressed": 8403,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-10T21:08:14.8122648+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:06:23.337672+00:00",
+  "LastChanged": "2023-11-10T22:59:51.1480047+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:08:00.0966109+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:59:25.387613+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:06:23.3377348+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:59:51.1480052+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:08:00.0966722+00:00"
 }

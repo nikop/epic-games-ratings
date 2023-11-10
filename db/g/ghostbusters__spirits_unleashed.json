@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3225,9 +3225,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30699,
+  "EOS_Progressed": 30704,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 763,
+  "EOS_NewPlayers": 761,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18730,6 +18730,11 @@
       "Time": "2023-11-10T22:03:49.2492059+00:00",
       "NumProgressed": 30699,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-11-10T23:04:09.361504+00:00",
+      "NumProgressed": 30704,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 51,
@@ -18915,9 +18920,9 @@
       "ID": "Liability",
       "SetID": "819popo",
       "Name": "Liability",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 25,
-      "UsersEstimate": 246
+      "UsersEstimate": 276
     },
     {
       "ID": "Line_Em_Up",
@@ -18981,7 +18986,7 @@
       "Name": "Rift Seeker",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Right_Back",
@@ -19148,7 +19153,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30699,
+      "Progressed": 30704,
       "Completed": 66
     }
   ],
@@ -19156,8 +19161,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-10T17:16:45.955705+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:03:49.2492016+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:04:09.3615035+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:00:00.4226317+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:03:49.2493121+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:00:29.6238529+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:04:09.3616623+00:00"
 }

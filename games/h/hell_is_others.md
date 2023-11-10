@@ -1,7 +1,7 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.38 (Ranked 763)  
+Rating: 4.38 (Ranked 764)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.38 (Ranked 763)
 | The Wait | 7.00% | ~18,078 |
 | Green thumb I | 6.00% | ~15,495 |
 | Cleaning Company | 6.00% | ~15,495 |
-| Well-oiled machine | 5.00% | ~12,912 |
-| Saver I | 5.00% | ~12,912 |
+| Well-oiled machine | 5.00% | ~12,913 |
+| Saver I | 5.00% | ~12,913 |
 | The Ascent | 4.00% | ~10,330 |
 | Pacifist | 4.00% | ~10,330 |
 | Vandalism | 4.00% | ~10,330 |
@@ -27,14 +27,14 @@ Rating: 4.38 (Ranked 763)
 | Predator II | 2.00% | ~5,165 |
 | Truffle Dog | 2.00% | ~5,165 |
 | A month in Century City | 2.00% | ~5,165 |
-| The Strengthening | 1.00% | ~2,582 |
-| Saver II | 1.00% | ~2,582 |
-| It's the last one, I swear | 1.00% | ~2,582 |
-| Botanist | 1.00% | ~2,582 |
-| Green thumb II | 1.00% | ~2,582 |
-| Don't try this at home | 1.00% | ~2,582 |
-| Bricklayer | 1.00% | ~2,582 |
-| Run the Economy | 1.00% | ~2,582 |
+| The Strengthening | 1.00% | ~2,583 |
+| Saver II | 1.00% | ~2,583 |
+| It's the last one, I swear | 1.00% | ~2,583 |
+| Botanist | 1.00% | ~2,583 |
+| Green thumb II | 1.00% | ~2,583 |
+| Don't try this at home | 1.00% | ~2,583 |
+| Bricklayer | 1.00% | ~2,583 |
+| Run the Economy | 1.00% | ~2,583 |
 | Committed Relationship | 0.80% | ~2,066 |
 | Number 1 | 0.80% | ~2,066 |
 | Interior designer | 0.60% | ~1,550 |
@@ -48,9 +48,9 @@ Rating: 4.38 (Ranked 763)
 | Fixer III | 0.30% | ~775 |
 | AML questionnaire | 0.30% | ~775 |
 | Heartbreaker | 0.30% | ~775 |
-| Workhorse | 0.20% | ~516 |
-| Homerun | 0.20% | ~516 |
-| A season in Century City | 0.20% | ~516 |
+| Workhorse | 0.20% | ~517 |
+| Homerun | 0.20% | ~517 |
+| A season in Century City | 0.20% | ~517 |
 | Saver III | 0.10% | ~258 |
 | Collector | 0.10% | ~258 |
 | Mansion | 0.10% | ~258 |
@@ -62,7 +62,7 @@ Rating: 4.38 (Ranked 763)
 | Capitalist III | 0.10% | ~258 |
 | Hell Is You | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,250 (Ranked 55)  
+Progressed: 258,251 (Ranked 55)  
 Completed: 3 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 3 (0.00%) (Ranked 347)
 | 2023-11-07 | 258,154 | 3 |
 | 2023-11-08 | 258,189 | 3 |
 | 2023-11-09 | 258,219 | 3 |
-| 2023-11-10 | 258,250 | 3 |
+| 2023-11-10 | 258,251 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 436)  
 Sum: 312 (Ranked 357)  

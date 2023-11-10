@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -606,9 +606,9 @@
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -701,8 +701,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:08:34.2387003+00:00",
-  "LastUpdate_AppInfo": "2023-11-03T22:56:56.0814967+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:57:41.1357148+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:08:34.2387144+00:00"
+  "LastChanged_Achievements": "2023-11-10T23:08:44.1175522+00:00",
+  "LastUpdate_AppInfo": "2023-11-10T22:57:06.8109666+00:00",
+  "LastUpdate_Ratings": "2023-11-10T22:57:56.6951682+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:08:44.1175656+00:00"
 }

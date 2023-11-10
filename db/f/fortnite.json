@@ -2,12 +2,12 @@
   "ID": "fn",
   "Name": "Fortnite",
   "ProductSlug": "fortnite",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 839,
   "Ranking_Popularity": 1,
   "Ranking_PopularitySum": 1,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2017-07-21T09:00:00+00:00",
@@ -7352,10 +7352,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 14267296,
       "NumberOfAwardsMax": 2003638
+    },
+    {
+      "Time": "2023-11-10T22:58:13.2640485+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 14275337,
+      "NumberOfAwardsMax": 2003638
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 14267296,
+  "NumberOfAwards": 14275337,
   "NumberOfAwardsMax": 2003638,
   "MaxAwardTitle": "Competitive Players",
   "Tags": [
@@ -7405,7 +7411,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 1421345
+      "Count": 1429386
     }
   ],
   "EOS_Progressed": 0,
@@ -7419,8 +7425,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:41.6739549+00:00",
-  "LastChanged": "2023-11-10T21:57:56.0021275+00:00",
+  "LastChanged": "2023-11-10T22:58:13.2640483+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:07.713269+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:57:56.0021282+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:08:18.8384998+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:58:13.264049+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:08:27.3473759+00:00"
 }

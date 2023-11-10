@@ -1,7 +1,7 @@
 # Cartel Tycoon
 [Store](https://store.epicgames.com/en-US/p/cartel-tycoon)  
 [View Rawdata](../../db/c/cartel_tycoon.json)  
-Rating: 4.36 (Ranked 779)  
+Rating: 4.36 (Ranked 780)  
 Number of Ratings: 101  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 101  (23.09.2022)
 | Camellos | 57.00% | ~381 |
 | Didn't Miss A Single One | 46.00% | ~307 |
 | Bad Trip | 46.00% | ~307 |
-| Spread | 41.00% | ~274 |
+| Spread | 42.00% | ~281 |
 | That was base | 40.00% | ~267 |
 | Safe Pair of Hands | 37.00% | ~247 |
 | Don't Let Mom Know You're A Druglord | 32.00% | ~214 |

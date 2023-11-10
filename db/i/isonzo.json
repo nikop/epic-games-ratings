@@ -883,9 +883,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7194,
+  "EOS_Progressed": 7195,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6643,6 +6643,11 @@
       "Time": "2023-11-10T22:06:05.5784869+00:00",
       "NumProgressed": 7194,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-10T23:06:40.7210258+00:00",
+      "NumProgressed": 7195,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -6670,7 +6675,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 3453
+      "UsersEstimate": 3454
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -6790,7 +6795,7 @@
       "Name": "I Have the High Ground",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ISONZO_ACH_LUIGI_CADORNA",
@@ -6958,7 +6963,7 @@
       "Name": "The Show Must Go On",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ISONZO_ACH_THUS_WITH_A_KISS",
@@ -6974,7 +6979,7 @@
       "Name": "Tosca",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ISONZO_ACH_TUTTI_EROI",
@@ -7013,7 +7018,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7194,
+      "Progressed": 7195,
       "Completed": 9
     }
   ],
@@ -7021,8 +7026,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-10T18:59:28.7779555+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:06:05.5784867+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:06:40.7210254+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.5980871+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:58:59.3672728+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:06:05.5785323+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:59:22.5765633+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:06:40.7210837+00:00"
 }

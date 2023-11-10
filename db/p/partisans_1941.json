@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1614,
+  "EOS_Progressed": 1616,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3564,6 +3564,11 @@
       "Time": "2023-11-10T21:15:10.7801827+00:00",
       "NumProgressed": 1614,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T23:06:18.5677832+00:00",
+      "NumProgressed": 1616,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3655,7 +3660,7 @@
       "Name": "E1M1",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "Everyone_is_here",
@@ -3663,7 +3668,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "Experienced_strategist",
@@ -3687,7 +3692,7 @@
       "Name": "Grenadier",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "Hard_Serpent",
@@ -3703,7 +3708,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "High_noon",
@@ -3767,7 +3772,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "Scout",
@@ -3791,7 +3796,7 @@
       "Name": "War Never Changes",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 694
+      "UsersEstimate": 695
     },
     {
       "ID": "We_were_not_here",
@@ -3814,15 +3819,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1614,
+      "Progressed": 1616,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:05:45.4366802+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:06:18.5677829+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:59:13.002666+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:05:45.4367107+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:59:37.6145371+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:06:18.5678125+00:00"
 }

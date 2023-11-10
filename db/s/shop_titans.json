@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6961,9 +6961,9 @@
       "Count": 3776
     }
   ],
-  "EOS_Progressed": 139158,
+  "EOS_Progressed": 139169,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27846,6 +27846,11 @@
       "Time": "2023-11-10T22:04:58.0685204+00:00",
       "NumProgressed": 139158,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2023-11-10T23:05:24.5252173+00:00",
+      "NumProgressed": 139169,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 112,
@@ -28025,7 +28030,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5566
+      "UsersEstimate": 5567
     },
     {
       "ID": "chest02",
@@ -28033,7 +28038,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "chest03",
@@ -28057,7 +28062,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "collection03",
@@ -28089,7 +28094,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5566
+      "UsersEstimate": 5567
     },
     {
       "ID": "commonres02",
@@ -28169,7 +28174,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "damage03",
@@ -28241,7 +28246,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "expansion03",
@@ -28313,7 +28318,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "gemsspent",
@@ -28425,7 +28430,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "legenchant01",
@@ -28505,7 +28510,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "master01",
@@ -28529,7 +28534,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "master04",
@@ -28545,7 +28550,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "masterpiece",
@@ -28617,7 +28622,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "rudo_a",
@@ -28641,7 +28646,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "sell03",
@@ -28673,7 +28678,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5566
+      "UsersEstimate": 5567
     },
     {
       "ID": "twinenchant01",
@@ -28697,7 +28702,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "uncommonres02",
@@ -28737,7 +28742,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "yami_a",
@@ -28752,15 +28757,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139158,
+      "Progressed": 139169,
       "Completed": 180
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-10T18:59:44.5777539+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:04:58.0685201+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:05:24.5252169+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:59:11.9938692+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:04:58.0686931+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:59:36.5474066+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:05:24.5254055+00:00"
 }

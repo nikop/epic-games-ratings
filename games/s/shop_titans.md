@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,566 |
-| Basic in Bulk | 4.00% | ~5,566 |
-| Titan's First Steps | 4.00% | ~5,566 |
+| Sponsored by Argon | 4.00% | ~5,567 |
+| Basic in Bulk | 4.00% | ~5,567 |
+| Titan's First Steps | 4.00% | ~5,567 |
 | Disintermediation | 3.00% | ~4,175 |
 | It's Free Real Estate | 3.00% | ~4,175 |
 | Tinkle of Coins | 3.00% | ~4,175 |
@@ -46,15 +46,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,392 |
 | Magical Harmony | 1.00% | ~1,392 |
 | Arcane Industries | 1.00% | ~1,392 |
-| For the Hoard! | 0.90% | ~1,252 |
-| Scrapbooker | 0.90% | ~1,252 |
-| This Power Level...! | 0.90% | ~1,252 |
-| Expansion in Session | 0.90% | ~1,252 |
-| Trash to Treasure | 0.90% | ~1,252 |
-| Seasoned Journeyman | 0.90% | ~1,252 |
-| Black Friday Special | 0.90% | ~1,252 |
-| Special Ingredient | 0.90% | ~1,252 |
-| Complete Monopoly | 0.90% | ~1,252 |
+| For the Hoard! | 0.90% | ~1,253 |
+| Scrapbooker | 0.90% | ~1,253 |
+| This Power Level...! | 0.90% | ~1,253 |
+| Expansion in Session | 0.90% | ~1,253 |
+| Trash to Treasure | 0.90% | ~1,253 |
+| Seasoned Journeyman | 0.90% | ~1,253 |
+| Black Friday Special | 0.90% | ~1,253 |
+| Special Ingredient | 0.90% | ~1,253 |
+| Complete Monopoly | 0.90% | ~1,253 |
 | A Notch Above the Rest | 0.80% | ~1,113 |
 | Above the Norm | 0.80% | ~1,113 |
 | The King's Caprice | 0.80% | ~1,113 |
@@ -106,10 +106,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | All Accounted For | 0.50% | ~696 |
 | The Free Encyclopedia | 0.40% | ~557 |
 | All or Nothing! | 0.40% | ~557 |
-| JACKPOT!!! | 0.30% | ~417 |
-| Anything not Nailed Down | 0.30% | ~417 |
-| The Greatest Grind | 0.30% | ~417 |
-| Marvels from the World Over | 0.30% | ~417 |
+| JACKPOT!!! | 0.30% | ~418 |
+| Anything not Nailed Down | 0.30% | ~418 |
+| The Greatest Grind | 0.30% | ~418 |
+| Marvels from the World Over | 0.30% | ~418 |
 | Bane of Legends | 0.20% | ~278 |
 | Ultimate Collector | 0.20% | ~278 |
 | Oligarch Monarch | 0.20% | ~278 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,158 (Ranked 79)  
+Progressed: 139,169 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 139,158 | 180 |
+| 2023-11-10 | 139,169 | 180 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 73)  
 Sum: 27,523 (Ranked 51)  

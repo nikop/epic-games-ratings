@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Enough rooms to swing a cat | 93.00% | ~13 |
-| First to the post | 93.00% | ~13 |
-| Expansion | 86.00% | ~12 |
-| Home Sweet Home | 86.00% | ~12 |
-| A kind of Magic | 86.00% | ~12 |
-| Connected | 86.00% | ~12 |
-| Harvest Time | 79.00% | ~11 |
-| Friend of Lyraine | 79.00% | ~11 |
-| Mine! | 79.00% | ~11 |
-| Fly the friendly Sky | 79.00% | ~11 |
-| Artificer's Apprentice | 71.00% | ~10 |
-| Redecorating | 64.00% | ~9 |
-| The Circle | 64.00% | ~9 |
-| Get out of here! | 64.00% | ~9 |
-| Alchemist's Apprentice | 50.00% | ~7 |
-| Friend of Sevenkeeps | 50.00% | ~7 |
-| Necromancer's Apprentice | 43.00% | ~6 |
-| Slave to the rhythm | 43.00% | ~6 |
-| Friend of Gillyshire | 43.00% | ~6 |
-| Break Free | 43.00% | ~6 |
-| Castle Meldec | 36.00% | ~5 |
-| Sevenkeeps Seat of Kings | 36.00% | ~5 |
-| Defeat Gor | 29.00% | ~4 |
-| Stormwatch Faste | 29.00% | ~4 |
-| Friend of Alluvyan | 29.00% | ~4 |
-| Friend of Orgash | 29.00% | ~4 |
-| Friend of Connach | 29.00% | ~4 |
-| Friend of Bastion | 29.00% | ~4 |
-| Bad JuJu | 29.00% | ~4 |
-| Defeat Hokan | 21.00% | ~3 |
-| Defeat Isgrimm | 21.00% | ~3 |
-| Defeat Uram | 21.00% | ~3 |
-| Elynn's Tale | 21.00% | ~3 |
-| Lore's Tale | 21.00% | ~3 |
-| Philo's Tale | 21.00% | ~3 |
-| A Master of Magic | 21.00% | ~3 |
-| Friend of Silver Drift Hollow | 21.00% | ~3 |
-| Friend of Windholme | 21.00% | ~3 |
-| Magic Academy | 21.00% | ~3 |
-| A Joke | 21.00% | ~3 |
-| Defeat Ianna | 14.00% | ~2 |
-| Defeat Rohen | 14.00% | ~2 |
-| Defeat Undergast | 14.00% | ~2 |
-| Defeat Yria | 14.00% | ~2 |
-| Lytra's Tale | 14.00% | ~2 |
-| Tuscari Sea Portal | 14.00% | ~2 |
-| Master Alchemist | 14.00% | ~2 |
-| Breaking the circle | 14.00% | ~2 |
-| Mage Teacher | 14.00% | ~2 |
-| Balanced | 14.00% | ~2 |
+| Enough rooms to swing a cat | 93.00% | ~14 |
+| First to the post | 93.00% | ~14 |
+| Expansion | 87.00% | ~13 |
+| Home Sweet Home | 87.00% | ~13 |
+| A kind of Magic | 87.00% | ~13 |
+| Connected | 87.00% | ~13 |
+| Harvest Time | 80.00% | ~12 |
+| Friend of Lyraine | 80.00% | ~12 |
+| Mine! | 80.00% | ~12 |
+| Fly the friendly Sky | 80.00% | ~12 |
+| Artificer's Apprentice | 73.00% | ~11 |
+| The Circle | 67.00% | ~10 |
+| Get out of here! | 67.00% | ~10 |
+| Redecorating | 60.00% | ~9 |
+| Friend of Sevenkeeps | 53.00% | ~8 |
+| Alchemist's Apprentice | 47.00% | ~7 |
+| Necromancer's Apprentice | 47.00% | ~7 |
+| Slave to the rhythm | 47.00% | ~7 |
+| Sevenkeeps Seat of Kings | 40.00% | ~6 |
+| Friend of Gillyshire | 40.00% | ~6 |
+| Break Free | 40.00% | ~6 |
+| Castle Meldec | 33.00% | ~5 |
+| Friend of Alluvyan | 33.00% | ~5 |
+| Friend of Connach | 33.00% | ~5 |
+| Bad JuJu | 33.00% | ~5 |
+| Defeat Gor | 27.00% | ~4 |
+| Defeat Uram | 27.00% | ~4 |
+| Philo's Tale | 27.00% | ~4 |
+| Stormwatch Faste | 27.00% | ~4 |
+| Friend of Orgash | 27.00% | ~4 |
+| Friend of Bastion | 27.00% | ~4 |
+| Defeat Hokan | 20.00% | ~3 |
+| Defeat Ianna | 20.00% | ~3 |
+| Defeat Isgrimm | 20.00% | ~3 |
+| Elynn's Tale | 20.00% | ~3 |
+| Lore's Tale | 20.00% | ~3 |
+| A Master of Magic | 20.00% | ~3 |
+| Friend of Silver Drift Hollow | 20.00% | ~3 |
+| Friend of Windholme | 20.00% | ~3 |
+| Magic Academy | 20.00% | ~3 |
+| A Joke | 20.00% | ~3 |
+| Defeat Rohen | 13.00% | ~2 |
+| Defeat Undergast | 13.00% | ~2 |
+| Defeat Yria | 13.00% | ~2 |
+| Lytra's Tale | 13.00% | ~2 |
+| Yngrid's Tale | 13.00% | ~2 |
+| Silver Drift Hollow Mine | 13.00% | ~2 |
+| Tuscari Sea Portal | 13.00% | ~2 |
+| Master Alchemist | 13.00% | ~2 |
+| Breaking the circle | 13.00% | ~2 |
+| Mage Teacher | 13.00% | ~2 |
+| Balanced | 13.00% | ~2 |
 | Get to the Airship! | 7.00% | ~1 |
 | Defeat Raith | 7.00% | ~1 |
-| Yngrid's Tale | 7.00% | ~1 |
 | Crypt of the Revenant | 7.00% | ~1 |
 | The Forge of Regan Gor | 7.00% | ~1 |
-| Silver Drift Hollow Mine | 7.00% | ~1 |
 | Master Artificer | 7.00% | ~1 |
 | Heroes | 7.00% | ~1 |
 | My Friends! | 7.00% | ~1 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 562)  
+Progressed: 15 (Ranked 558)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,6 +89,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-04 | 11 | 0 |
 | 2023-11-07 | 12 | 0 |
 | 2023-11-09 | 14 | 0 |
+| 2023-11-10 | 15 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

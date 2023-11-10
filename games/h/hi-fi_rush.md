@@ -38,12 +38,12 @@ Rating: 4.86 (Ranked 30)
 | Chip-tuned | 3.00% | ~126 |
 | Wanna hear my playlist? | 3.00% | ~126 |
 | Check out my moves! | 3.00% | ~126 |
+| I think I deserve some praise, here! | 2.00% | ~84 |
 | I think I found your calling, Macaron | 2.00% | ~84 |
 | We're Jammin' | 2.00% | ~84 |
 | I hit things with a guitar really well. | 2.00% | ~84 |
 | I told you I'd be fine, Peppermint! | 2.00% | ~84 |
 | Call me Turbo Chai | 2.00% | ~55 |
-| I think I deserve some praise, here! | 1.00% | ~42 |
 | This is a breeze! | 1.00% | ~42 |
 | I'm not done with you yet | 1.00% | ~42 |
 | First we parry, then we counter | 1.00% | ~42 |

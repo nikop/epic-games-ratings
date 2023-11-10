@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~101 |
-| Training Simulation | 82.00% | ~89 |
-| Kuku Bird Hunter | 72.00% | ~78 |
-| Storm Traveller | 69.00% | ~75 |
-| Wolf King Killer | 68.00% | ~74 |
-| Fashion Connoisseur | 67.00% | ~73 |
-| Arms Mechanic | 60.00% | ~65 |
-| Flower Thief | 59.00% | ~64 |
-| Apostle of Flame | 57.00% | ~62 |
+| Travel Streamer | 93.00% | ~102 |
+| Training Simulation | 81.00% | ~89 |
+| Kuku Bird Hunter | 72.00% | ~79 |
+| Storm Traveller | 68.00% | ~75 |
+| Wolf King Killer | 67.00% | ~74 |
+| Fashion Connoisseur | 66.00% | ~73 |
+| Arms Mechanic | 59.00% | ~65 |
+| Flower Thief | 58.00% | ~64 |
+| Apostle of Flame | 56.00% | ~62 |
 | Beginner Cook | 54.00% | ~59 |
 | Beginner Artificer | 54.00% | ~59 |
-| Seal Breaker | 49.00% | ~53 |
-| Handyman | 47.00% | ~51 |
-| Giant Lizard Killer | 45.00% | ~49 |
+| Seal Breaker | 48.00% | ~53 |
+| Handyman | 46.00% | ~51 |
+| Giant Lizard Killer | 45.00% | ~50 |
 | Nosebleeder | 43.00% | ~47 |
 | Guardian | 42.00% | ~46 |
 | Trader | 40.00% | ~44 |
-| Weapon Boost | 39.00% | ~43 |
+| Weapon Boost | 38.00% | ~42 |
 | Flying Kobold Killer | 33.00% | ~36 |
 | Youth Magnet | 33.00% | ~36 |
 | Lethal Blade Mantis Killer | 33.00% | ~36 |
@@ -29,16 +29,16 @@
 | Furious Scorpion Killer | 32.00% | ~35 |
 | Master Artificer | 32.00% | ~35 |
 | Kind Adventurer | 28.00% | ~31 |
-| Mermaid Killer | 28.00% | ~31 |
-| Face Slapper | 28.00% | ~31 |
-| Cave Master | 26.00% | ~28 |
+| Mermaid Killer | 27.00% | ~30 |
+| Face Slapper | 27.00% | ~30 |
+| Cave Master | 25.00% | ~28 |
 | Master Cook | 19.00% | ~21 |
 | Berserker Slayer | 14.00% | ~15 |
 | Warden Slayer | 13.00% | ~14 |
 | Boss challenge | 12.00% | ~13 |
 | Giantess Slayer | 12.00% | ~13 |
 | Silver Moon Wolf King Challenge | 6.00% | ~7 |
-| Big Face Goalkeeper Challenge | 5.00% | ~5 |
+| Big Face Goalkeeper Challenge | 5.00% | ~6 |
 | Rebellious | 4.00% | ~4 |
 | Blade Mantis Challenge | 4.00% | ~4 |
 | Giant Claw Spider Challenge | 4.00% | ~4 |
@@ -50,7 +50,7 @@
 | Giant Lizard Challenge | 3.00% | ~3 |
 | Berserker Challenge | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 412)  
+Progressed: 110 (Ranked 412)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,6 +124,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-04 | 107 | 0 |
 | 2023-11-05 | 108 | 0 |
 | 2023-11-08 | 109 | 0 |
+| 2023-11-10 | 110 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

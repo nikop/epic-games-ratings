@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 385)  
+Rating: 4.61 (Ranked 384)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -26,7 +26,6 @@ Rating: 4.61 (Ranked 385)
 | Blood of the Dragon | 0.20% | ~11 |
 | Mighty Hoard | 0.20% | ~11 |
 | Sehiran Oasis | 0.20% | ~11 |
-| Prometheus Avenged | 0.20% | ~11 |
 | Chaos Surge | 0.20% | ~11 |
 | A Conqueror's Cohort | 0.20% | ~11 |
 | Dawn of the Dread | 0.20% | ~11 |
@@ -57,6 +56,7 @@ Rating: 4.61 (Ranked 385)
 | Betrayal Most Foul | 0.10% | ~5 |
 | Tipping the Scales | 0.10% | ~5 |
 | Duality | 0.10% | ~5 |
+| Prometheus Avenged | 0.10% | ~5 |
 | Seal the Deal | 0.10% | ~5 |
 | A Very Special Ring | 0.10% | ~5 |
 | Snap Out of It! | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 385)
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,331 (Ranked 183)  
+Progressed: 5,335 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 7 (0.13%) (Ranked 258)
 | 2023-11-07 | 5,285 | 7 |
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
-| 2023-11-10 | 5,331 | 7 |
+| 2023-11-10 | 5,335 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 475)  

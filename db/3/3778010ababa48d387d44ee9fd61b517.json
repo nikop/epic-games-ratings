@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewPlayers": 284,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -195,9 +195,9 @@
       "ID": "A_HIVE_RESS hiveRes (0-100)",
       "SetID": "324h56e",
       "Name": "Hivespital",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_HUNT hunt (0-1)",
@@ -219,17 +219,17 @@
       "ID": "A_ITEM_DROPS",
       "SetID": "324h56e",
       "Name": "Scavenger",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 42,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -267,9 +267,9 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 33,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -418,8 +418,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-10T22:05:43.0928616+00:00",
+  "LastChanged_Achievements": "2023-11-10T23:06:13.7597232+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:41.4462946+00:00",
-  "LastUpdate_Ratings": "2023-11-10T21:57:30.3901269+00:00",
-  "LastUpdate_Achievements": "2023-11-10T22:05:43.092902+00:00"
+  "LastUpdate_Ratings": "2023-11-10T22:57:44.7890223+00:00",
+  "LastUpdate_Achievements": "2023-11-10T23:06:13.7597547+00:00"
 }

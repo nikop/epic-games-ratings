@@ -6,30 +6,30 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,753,420 |
-| Easy to forget | 46.00% | ~1,646,068 |
-| Back in the black | 39.00% | ~1,395,580 |
-| That's what I'm talking about | 29.00% | ~1,037,739 |
-| The Best of Both Worlds | 25.00% | ~894,602 |
-| Get your wings | 20.00% | ~715,682 |
-| Double trouble | 16.00% | ~572,545 |
-| Smashing it | 11.00% | ~393,625 |
-| But can it run Crysis? | 9.00% | ~322,057 |
-| My favourite feature... | 9.00% | ~322,057 |
-| From humble beginnings... | 7.00% | ~250,489 |
-| Customer satisfaction | 7.00% | ~250,489 |
-| Keeping things neat | 4.00% | ~143,136 |
-| Seems you're pretty good at this | 4.00% | ~143,136 |
-| Bending over backwards | 4.00% | ~143,136 |
-| Triple threat | 3.00% | ~107,352 |
-| You rock at this! | 3.00% | ~107,352 |
-| Your music sucks | 3.00% | ~107,352 |
-| I'm broke, Uncle! | 2.00% | ~71,568 |
-| Maybe you should try something else? | 2.00% | ~71,568 |
-| Taking care of business | 2.00% | ~71,568 |
-| Things are under control | 2.00% | ~71,568 |
-| Perfection | 2.00% | ~71,568 |
-| Calling in Sick | 2.00% | ~71,568 |
+| You need to plug it in... | 49.00% | ~1,753,430 |
+| Easy to forget | 46.00% | ~1,646,077 |
+| Back in the black | 39.00% | ~1,395,587 |
+| That's what I'm talking about | 29.00% | ~1,037,744 |
+| The Best of Both Worlds | 25.00% | ~894,607 |
+| Get your wings | 20.00% | ~715,686 |
+| Double trouble | 16.00% | ~572,548 |
+| Smashing it | 11.00% | ~393,627 |
+| But can it run Crysis? | 9.00% | ~322,059 |
+| My favourite feature... | 9.00% | ~322,059 |
+| From humble beginnings... | 7.00% | ~250,490 |
+| Customer satisfaction | 7.00% | ~250,490 |
+| Keeping things neat | 4.00% | ~143,137 |
+| Seems you're pretty good at this | 4.00% | ~143,137 |
+| Bending over backwards | 4.00% | ~143,137 |
+| Triple threat | 3.00% | ~107,353 |
+| You rock at this! | 3.00% | ~107,353 |
+| Your music sucks | 3.00% | ~107,353 |
+| I'm broke, Uncle! | 2.00% | ~71,569 |
+| Maybe you should try something else? | 2.00% | ~71,569 |
+| Taking care of business | 2.00% | ~71,569 |
+| Things are under control | 2.00% | ~71,569 |
+| Perfection | 2.00% | ~71,569 |
+| Calling in Sick | 2.00% | ~71,569 |
 | Overvolted | 1.00% | ~35,784 |
 | If you fail the first time... | 1.00% | ~35,784 |
 | Amazonian | 1.00% | ~35,784 |
@@ -39,8 +39,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Owner | 1.00% | ~35,784 |
 | Show off | 0.90% | ~32,206 |
 | Work ethic 101 | 0.70% | ~25,049 |
-| Building momentum | 0.60% | ~21,470 |
-| Lead by example | 0.60% | ~21,470 |
+| Building momentum | 0.60% | ~21,471 |
+| Lead by example | 0.60% | ~21,471 |
 | Treat yourself - RAM | 0.50% | ~17,892 |
 | Mr big business | 0.40% | ~14,314 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,735 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,578 |
 | Treat yourself - GPU | 0.10% | ~3,578 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,578,409 (Ranked 5)  
+Progressed: 3,578,428 (Ranked 5)  
 Completed: 37 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 37 (0.00%) (Ranked 347)
 | 2023-11-07 | 3,577,530 | 37 |
 | 2023-11-08 | 3,577,801 | 37 |
 | 2023-11-09 | 3,578,101 | 37 |
-| 2023-11-10 | 3,578,409 | 37 |
+| 2023-11-10 | 3,578,428 | 37 |
 ## Awards
 Max (Great for Beginners): 1,099  (Ranked 143)  
-Sum: 8,118 (Ranked 103)  
+Sum: 8,119 (Ranked 103)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): 40
 | This game has Amazing Storytelling | 827 |
 | This game has Amazing Characters | 669 |
 | This game has Obsessive Gameplay | 664 |
-| This game has a Creative Community | 658 |
+| This game has a Creative Community | 659 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -533,4 +533,4 @@ Diff (max vs sum): 40
 | 2023-11-07 | 4.65 | - | 1,099 | 8,114 |
 | 2023-11-08 | 4.65 | - | 1,099 | 8,115 |
 | 2023-11-09 | 4.66 | - | 1,099 | 8,116 |
-| 2023-11-10 | 4.65 | - | 1,099 | 8,118 |
+| 2023-11-10 | 4.65 | - | 1,099 | 8,119 |

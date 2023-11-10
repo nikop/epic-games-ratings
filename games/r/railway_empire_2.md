@@ -1,44 +1,44 @@
 # Railway Empire 2
 [Store](https://store.epicgames.com/en-US/p/railway-empire-2-46840c)  
 [View Rawdata](../../db/r/railway_empire_2.json)  
-Rating: 4.42 (Ranked 713)  
+Rating: 4.42 (Ranked 715)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Country Bumpkin | 76.00% | ~1,617 |
-| A new Journey | 75.00% | ~1,595 |
+| A new Journey | 75.00% | ~1,596 |
 | From X to Y | 73.00% | ~1,553 |
 | Departure | 73.00% | ~1,553 |
-| Way of Iron | 70.00% | ~1,489 |
+| Way of Iron | 70.00% | ~1,490 |
 | Mystery Tour | 69.00% | ~1,468 |
-| We brake for nobody | 68.00% | ~1,446 |
+| We brake for nobody | 68.00% | ~1,447 |
 | Brainstorm | 66.00% | ~1,404 |
 | Travel Company | 66.00% | ~1,404 |
 | Mind the Gap | 65.00% | ~1,383 |
-| All around the World | 63.00% | ~1,340 |
+| All around the World | 63.00% | ~1,341 |
 | Right through the middle | 58.00% | ~1,234 |
 | Facility Manager | 54.00% | ~1,149 |
 | Poor Devil | 54.00% | ~1,149 |
 | Producer | 51.00% | ~1,085 |
-| Apprentice | 42.00% | ~893 |
-| Bridge Builder | 42.00% | ~893 |
-| Access granted | 35.00% | ~744 |
-| Going once, going twice, sold | 35.00% | ~744 |
-| Bull and bear | 34.00% | ~723 |
+| Apprentice | 42.00% | ~894 |
+| Bridge Builder | 42.00% | ~894 |
+| Access granted | 35.00% | ~745 |
+| Going once, going twice, sold | 35.00% | ~745 |
+| Bull and bear | 34.00% | ~724 |
 | Stoker | 33.00% | ~702 |
 | Full Steam ahead | 33.00% | ~702 |
-| Financial Shark | 31.00% | ~659 |
-| Socializer | 31.00% | ~659 |
+| Financial Shark | 31.00% | ~660 |
+| Socializer | 31.00% | ~660 |
 | All mine | 30.00% | ~638 |
 | Mole | 30.00% | ~638 |
 | Country Life | 28.00% | ~596 |
-| General Manager | 27.00% | ~574 |
+| General Manager | 27.00% | ~575 |
 | Hostile Takeover | 25.00% | ~532 |
-| Seven at one stroke | 24.00% | ~510 |
+| Seven at one stroke | 24.00% | ~511 |
 | Breaking Ground | 22.00% | ~468 |
 | Trailblazer | 21.00% | ~447 |
 | Traffic Junction | 21.00% | ~447 |
-| Traffic Jam | 20.00% | ~425 |
+| Traffic Jam | 20.00% | ~426 |
 | Networker | 18.00% | ~383 |
 | Resistance is futile | 17.00% | ~362 |
 | Assimilated | 16.00% | ~340 |
@@ -49,19 +49,19 @@ Rating: 4.42 (Ranked 713)
 | Max Power | 14.00% | ~298 |
 | A new Hope | 11.00% | ~234 |
 | Tycoon | 11.00% | ~234 |
-| Unstoppable | 9.00% | ~191 |
-| Track to the Future | 9.00% | ~191 |
+| Unstoppable | 9.00% | ~192 |
+| Track to the Future | 9.00% | ~192 |
 | Call of Duty | 8.00% | ~170 |
 | Conductor | 7.00% | ~149 |
 | Engineer | 4.00% | ~85 |
 | Let off some steam | 4.00% | ~85 |
 | Accurate | 4.00% | ~85 |
-| Three Cheers for Progress | 0.80% | ~17 |
+| Three Cheers for Progress | 0.90% | ~19 |
 | European Union | 0.70% | ~15 |
 | United States | 0.70% | ~15 |
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,127 (Ranked 217)  
+Progressed: 2,128 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 2,111 | 0 |
 | 2023-11-08 | 2,118 | 0 |
 | 2023-11-09 | 2,121 | 0 |
-| 2023-11-10 | 2,127 | 0 |
+| 2023-11-10 | 2,128 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
