@@ -42,7 +42,7 @@
 | 40 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 9,949 | 4.58 | 446 |
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 9,367 | 4.58 | 446 |
 | 42 | [Control](games/c/control.md) | 8,699 | 4.60 | 411 |
-| 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,604 | 4.89 | 11 |
+| 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,611 | 4.89 | 11 |
 | 44 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,491 | 4.49 | 606 |
 | 45 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,178 | 4.57 | 469 |
 | 46 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,035 | 4.85 | 44 |
@@ -102,7 +102,7 @@
 | 100 | [Path of Exile](games/p/path_of_exile.md) | 2,676 | 4.61 | 385 |
 | 101 | [RAGE 2](games/r/rage_2.md) | 2,652 | 4.27 | 856 |
 | 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 958 |
-| 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,506 | 4.80 | 87 |
+| 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,508 | 4.80 | 87 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,437 | 4.78 | 106 |
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,276 | 4.67 | 273 |
 | 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,261 | 4.63 | 349 |
@@ -167,7 +167,7 @@
 | 165 | [Auto Chess](games/a/auto_chess.md) | 838 | 4.52 | 553 |
 | 166 | [Frostpunk](games/f/frostpunk.md) | 834 | 4.74 | 156 |
 | 167 | [The Long Dark](games/t/the_long_dark.md) | 831 | 4.74 | 156 |
-| 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 814 | 4.75 | 145 |
+| 168 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 816 | 4.75 | 145 |
 | 169 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 799 | 4.79 | 96 |
 | 170 | [Riders Republic](games/r/riders_republic.md) | 798 | 4.75 | 145 |
 | 171 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 773 | 4.51 | 565 |
@@ -511,14 +511,14 @@
 | 507 | [Fell Seal: Arbiter's Mark](games/f/fell_seal__arbiter's_mark.md) | 27 | 4.56 | 486 |
 | 507 | [Sins of a Solar Empire 2](games/s/sins_of_a_solar_empire_2.md) | 27 | 4.55 | 502 |
 | 507 | [Songs of Conquest](games/s/songs_of_conquest.md) | 27 | 4.69 | 230 |
+| 512 | [F1® 23](games/f/f1®_23_standard_edition.md) | 26 | 4.69 | 230 |
 | 512 | [Spirit of the North](games/s/spirit_of_the_north.md) | 26 | 4.36 | 778 |
 | 512 | [Star Atlas](games/s/star_atlas.md) | 26 | 4.80 | 87 |
 | 512 | [Tunche](games/t/tunche.md) | 26 | 4.46 | 646 |
-| 515 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.54 | 522 |
-| 515 | [F1® 23](games/f/f1®_23_standard_edition.md) | 25 | 4.69 | 230 |
-| 515 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 25 | 4.48 | 623 |
-| 515 | [Sable](games/s/sable.md) | 25 | 4.53 | 536 |
-| 515 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 25 | 4.63 | 349 |
+| 516 | [ATOM RPG Trudograd](games/a/atom_rpg_trudograd.md) | 25 | 4.54 | 522 |
+| 516 | [Panzer Corps 2](games/p/panzer_corps_2.md) | 25 | 4.48 | 623 |
+| 516 | [Sable](games/s/sable.md) | 25 | 4.53 | 536 |
+| 516 | [Them's Fightin' Herds](games/t/them's_fightin'_herds.md) | 25 | 4.63 | 349 |
 | 520 | [ELEX](games/e/elex.md) | 24 | 4.47 | 636 |
 | 520 | [Fez](games/f/fez.md) | 24 | 4.73 | 174 |
 | 520 | [MotoGP™21](games/m/motogp™21.md) | 24 | 4.56 | 486 |
