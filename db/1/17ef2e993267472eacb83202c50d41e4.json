@@ -65,7 +65,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7826,
+  "EOS_Progressed": 7827,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
@@ -6125,6 +6125,11 @@
       "Time": "2023-11-10T05:09:40.0870458+00:00",
       "NumProgressed": 7826,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T06:10:25.7642835+00:00",
+      "NumProgressed": 7827,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6545,7 +6550,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "NeutralKills200",
@@ -6728,7 +6733,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7826,
+      "Progressed": 7827,
       "Completed": 1
     }
   ],
@@ -6736,8 +6741,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-07T13:03:10.353816+00:00",
-  "LastChanged_Achievements": "2023-11-10T05:09:40.0870453+00:00",
+  "LastChanged_Achievements": "2023-11-10T06:10:25.764283+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-10T04:59:39.0548081+00:00",
-  "LastUpdate_Achievements": "2023-11-10T05:09:40.0871632+00:00"
+  "LastUpdate_Ratings": "2023-11-10T06:00:40.0869064+00:00",
+  "LastUpdate_Achievements": "2023-11-10T06:10:25.7644125+00:00"
 }

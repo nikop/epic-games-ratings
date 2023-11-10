@@ -6,10 +6,10 @@ Rating: 4.54 (Ranked 522)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 2.00% | ~826 |
+| Pork Chopped | 2.00% | ~826 |
 | One of Us | 1.00% | ~413 |
-| Pork Chopped | 1.00% | ~413 |
-| Hotel California | 0.60% | ~4,294 |
-| Welcome To Hell-A | 0.60% | ~4,294 |
+| Hotel California | 0.60% | ~4,295 |
+| Welcome To Hell-A | 0.60% | ~4,295 |
 | Dr. Reed, I Presume? | 0.50% | ~3,579 |
 | Git Gutte! | 0.50% | ~3,579 |
 | Anger Management | 0.50% | ~3,579 |
@@ -38,14 +38,14 @@ Rating: 4.54 (Ranked 522)
 | I Am the Resurrection | 0.30% | ~2,147 |
 | Down with the Sickness | 0.30% | ~2,147 |
 | Max Headroom | 0.30% | ~2,147 |
-| Make it So | 0.20% | ~1,431 |
-| On Safari | 0.20% | ~1,431 |
-| Smorgasbord | 0.20% | ~1,431 |
-| Internet Famous | 0.20% | ~1,431 |
-| Jumbo Keyring | 0.20% | ~1,431 |
-| Go, Bobcats! | 0.20% | ~1,431 |
-| Variety is the Spice of Death | 0.20% | ~1,431 |
-| Rising Star | 0.20% | ~1,431 |
+| Make it So | 0.20% | ~1,432 |
+| On Safari | 0.20% | ~1,432 |
+| Smorgasbord | 0.20% | ~1,432 |
+| Internet Famous | 0.20% | ~1,432 |
+| Jumbo Keyring | 0.20% | ~1,432 |
+| Go, Bobcats! | 0.20% | ~1,432 |
+| Variety is the Spice of Death | 0.20% | ~1,432 |
+| Rising Star | 0.20% | ~1,432 |
 | Top That, Tisha! | 0.20% | ~83 |
 | LA Influential | 0.10% | ~716 |
 | Donk! | 0.10% | ~716 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,740 (Ranked 21)  
+Progressed: 715,752 (Ranked 21)  
 Completed: 2,369 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,10 +261,10 @@ Completed: 2,369 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,740 | 2,369 |
+| 2023-11-10 | 715,752 | 2,369 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
-Sum: 10,989 (Ranked 86)  
+Sum: 10,990 (Ranked 86)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -274,7 +274,7 @@ Diff (max vs sum): -32
 | This game has Quickly Understood Controls | 499 |
 | This game is Relaxing | 469 |
 | This game has Amazing Storytelling | 448 |
-| This game is Highly Recommended | 436 |
+| This game is Highly Recommended | 437 |
 | This game is Extremely Fun | 428 |
 | This game has Amazing Characters | 402 |
 ## Ratings History
@@ -483,4 +483,4 @@ Diff (max vs sum): -32
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
 | 2023-11-08 | 4.54 | 7,208 | 10,930 |
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
-| 2023-11-10 | 4.54 | 7,249 | 10,989 |
+| 2023-11-10 | 4.54 | 7,249 | 10,990 |

@@ -14,7 +14,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Hyperstellar Law Official | 16.00% | ~20,903 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,290 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,290 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,983 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,984 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,371 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,064 |
 | Unbelievably Boring **** | 9.00% | ~11,758 |
@@ -34,7 +34,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Venture into the HARDCORE | 0.90% | ~1,176 |
 | Real Musor | 0.90% | ~1,176 |
 | Baddest Brow in Town | 0.80% | ~1,045 |
-| Networthy Individual | 0.70% | ~914 |
+| Networthy Individual | 0.70% | ~915 |
 | Leopard Mindset | 0.60% | ~784 |
 | Modus: Mullen | 0.30% | ~392 |
 | Palerunner | 0.30% | ~392 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,642 (Ranked 81)  
+Progressed: 130,643 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 28 (0.02%) (Ranked 315)
 | 2023-11-07 | 130,579 | 28 |
 | 2023-11-08 | 130,605 | 28 |
 | 2023-11-09 | 130,638 | 28 |
-| 2023-11-10 | 130,642 | 28 |
+| 2023-11-10 | 130,643 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 175)  
 Sum: 1,116 (Ranked 250)  

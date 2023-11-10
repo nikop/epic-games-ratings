@@ -5,15 +5,15 @@ Rating: 4.28 (Ranked 848)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,265 |
-| Copacetic Coordination | 16.00% | ~56,260 |
+| Corner Clout | 47.00% | ~165,266 |
+| Copacetic Coordination | 16.00% | ~56,261 |
 | Fronting the Money | 15.00% | ~52,744 |
 | The Dawn of Automation | 14.00% | ~49,228 |
 | Extraordinary Logistics | 14.00% | ~49,228 |
 | Dirty Money | 13.00% | ~45,712 |
 | Family First | 13.00% | ~45,712 |
-| Cleaning House | 12.00% | ~42,195 |
-| Room in the Back | 12.00% | ~42,195 |
+| Cleaning House | 12.00% | ~42,196 |
+| Room in the Back | 12.00% | ~42,196 |
 | Beating the Heat | 11.00% | ~38,679 |
 | Booze Baron | 11.00% | ~38,679 |
 | Friends on the Force | 10.00% | ~35,163 |
@@ -29,13 +29,13 @@ Rating: 4.28 (Ranked 848)
 | Wise Head | 6.00% | ~21,098 |
 | Show ‘em the Sugar | 6.00% | ~21,098 |
 | Killing Them Softly | 6.00% | ~21,098 |
-| Street Knowledge | 5.00% | ~17,581 |
-| Oh Captain | 5.00% | ~17,581 |
-| Branching Out | 5.00% | ~17,581 |
-| Improvement Missions | 5.00% | ~17,581 |
-| Opportunity Knocked | 5.00% | ~17,581 |
-| City of Big Shoulders | 5.00% | ~17,581 |
-| Mission Mastery | 5.00% | ~17,581 |
+| Street Knowledge | 5.00% | ~17,582 |
+| Oh Captain | 5.00% | ~17,582 |
+| Branching Out | 5.00% | ~17,582 |
+| Improvement Missions | 5.00% | ~17,582 |
+| Opportunity Knocked | 5.00% | ~17,582 |
+| City of Big Shoulders | 5.00% | ~17,582 |
+| Mission Mastery | 5.00% | ~17,582 |
 | Considerable Clams | 4.00% | ~14,065 |
 | Gin Joint | 4.00% | ~14,065 |
 | An Affront to the Enemy | 4.00% | ~14,065 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 848)
 | High Pillow | 0.10% | ~352 |
 | Station Master | 0.10% | ~352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351,628 (Ranked 47)  
+Progressed: 351,630 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 7 (0.00%) (Ranked 346)
 | 2023-11-07 | 351,352 | 7 |
 | 2023-11-08 | 351,466 | 7 |
 | 2023-11-09 | 351,600 | 7 |
-| 2023-11-10 | 351,628 | 7 |
+| 2023-11-10 | 351,630 | 7 |
 ## Awards
 Max (Great for Beginners): 44  (Ranked 447)  
 Sum: 187 (Ranked 405)  

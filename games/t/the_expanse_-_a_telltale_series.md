@@ -10,6 +10,7 @@ Rating: 4.55 (Ranked 502)
 | Drone Dodger | 3.00% | ~444 |
 | Bosmang | 3.00% | ~444 |
 | Celebrations are in Order | 3.00% | ~444 |
+| Safe Cracker | 3.00% | ~22 |
 | Zen Master | 3.00% | ~22 |
 | Data Archivist | 2.00% | ~296 |
 | Stogie for Fogey | 2.00% | ~296 |
@@ -22,13 +23,12 @@ Rating: 4.55 (Ranked 502)
 | Captain Drummer | 2.00% | ~296 |
 | Impossible Objects | 2.00% | ~296 |
 | Keep Arjun in Check | 2.00% | ~15 |
-| Safe Cracker | 2.00% | ~15 |
 | Master Negotiator | 2.00% | ~15 |
 | Madame Undersecretary | 2.00% | ~15 |
 | Bottoms up! | 1.00% | ~148 |
 | Thorston Mayer | 1.00% | ~148 |
+| Miraculous Maya | 1.00% | ~148 |
 | Doctor Approved | 0.90% | ~133 |
-| Miraculous Maya | 0.90% | ~133 |
 | Data Logger | 0.60% | ~89 |
 | Data Master | 0.60% | ~89 |
 | Brother's Reaper | 0.40% | ~59 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 502)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,790 (Ranked 146)  
+Progressed: 14,791 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 33 (0.22%) (Ranked 237)
 | 2023-11-07 | 14,744 | 33 |
 | 2023-11-08 | 14,766 | 33 |
 | 2023-11-09 | 14,788 | 33 |
-| 2023-11-10 | 14,790 | 33 |
+| 2023-11-10 | 14,791 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

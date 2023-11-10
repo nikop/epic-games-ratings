@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 554,
+  "EOS_Progressed": 555,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1408,6 +1408,11 @@
       "Time": "2023-11-09T16:12:51.6558249+00:00",
       "NumProgressed": 554,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T06:04:18.8122516+00:00",
+      "NumProgressed": 555,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1443,7 +1448,7 @@
       "Name": "The Wraith",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "Chapter10",
@@ -1467,7 +1472,7 @@
       "Name": "The Breeder",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Chapter4",
@@ -1499,7 +1504,7 @@
       "Name": "Good as Fish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "Chapter8",
@@ -1515,7 +1520,7 @@
       "Name": "Gollum/Sm\u00E9agol",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "Collectibles1",
@@ -1523,7 +1528,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "Collectibles2",
@@ -1571,7 +1576,7 @@
       "Name": "Like Flying...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "GollumChoices",
@@ -1691,7 +1696,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "WelcomeToMordor",
@@ -1699,21 +1704,21 @@
       "Name": "Welcome to Mordor!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 554,
+      "Progressed": 555,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-10T05:03:30.3646918+00:00",
+  "LastChanged_Achievements": "2023-11-10T06:04:18.812251+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:39.7734858+00:00",
-  "LastUpdate_Ratings": "2023-11-10T05:00:26.3689853+00:00",
-  "LastUpdate_Achievements": "2023-11-10T05:03:30.3647241+00:00"
+  "LastUpdate_Ratings": "2023-11-10T06:01:37.0575787+00:00",
+  "LastUpdate_Achievements": "2023-11-10T06:04:18.8122983+00:00"
 }

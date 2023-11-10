@@ -6,18 +6,18 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,679 |
-| Now You're Talking | 62.00% | ~329,201 |
-| Steel Yourself | 62.00% | ~329,201 |
-| Window Dressing | 50.00% | ~265,485 |
-| Trigger Happy | 46.00% | ~244,246 |
-| Riverborn | 45.00% | ~238,936 |
+| First Step | 70.00% | ~371,680 |
+| Now You're Talking | 62.00% | ~329,202 |
+| Steel Yourself | 62.00% | ~329,202 |
+| Window Dressing | 50.00% | ~265,486 |
+| Trigger Happy | 46.00% | ~244,247 |
+| Riverborn | 45.00% | ~238,937 |
 | Starry Eyed | 34.00% | ~180,530 |
 | Poking Around | 34.00% | ~180,530 |
 | Talk of the Town | 24.00% | ~127,433 |
 | AAARR! | 23.00% | ~122,123 |
 | Hello Darkness | 23.00% | ~122,123 |
-| Wind At Our Backs | 22.00% | ~116,813 |
+| Wind At Our Backs | 22.00% | ~116,814 |
 | To the Beat | 20.00% | ~106,194 |
 | Sunny Shores | 17.00% | ~90,265 |
 | Sunday Best | 16.00% | ~84,955 |
@@ -39,9 +39,9 @@ Number of Ratings: 617  (23.09.2022)
 | Oh, Romeo! | 6.00% | ~31,858 |
 | Dressed to Kill | 6.00% | ~31,858 |
 | Beast Mode | 6.00% | ~31,858 |
-| Noble Intentions | 5.00% | ~26,548 |
-| Rising Star | 5.00% | ~26,548 |
-| Slime Slayer | 5.00% | ~26,548 |
+| Noble Intentions | 5.00% | ~26,549 |
+| Rising Star | 5.00% | ~26,549 |
+| Slime Slayer | 5.00% | ~26,549 |
 | Privacy, Please! | 4.00% | ~21,239 |
 | Silky Smooth | 4.00% | ~21,239 |
 | Hash It Over | 4.00% | ~21,239 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,593 |
 | Point Taken | 0.20% | ~1,062 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530,970 (Ranked 35)  
+Progressed: 530,971 (Ranked 35)  
 Completed: 497 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 497 (0.09%) (Ranked 275)
 | 2023-11-07 | 530,866 | 497 |
 | 2023-11-08 | 530,913 | 497 |
 | 2023-11-09 | 530,957 | 497 |
-| 2023-11-10 | 530,970 | 497 |
+| 2023-11-10 | 530,971 | 497 |
 ## Awards
 Max (Relaxing): 20  (Ranked 543)  
 Sum: 20 (Ranked 544)  

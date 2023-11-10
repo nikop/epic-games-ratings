@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113747,
+  "EOS_Progressed": 113748,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 655,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17397,6 +17397,11 @@
       "Time": "2023-11-10T05:08:45.7536597+00:00",
       "NumProgressed": 113747,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-10T06:09:24.6191702+00:00",
+      "NumProgressed": 113748,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17416,7 +17421,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87585
+      "UsersEstimate": 87586
     },
     {
       "ID": "EAwards_10",
@@ -17480,7 +17485,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42086
+      "UsersEstimate": 42087
     },
     {
       "ID": "EAwards_18",
@@ -17592,7 +17597,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22749
+      "UsersEstimate": 22750
     },
     {
       "ID": "EAwards_30",
@@ -17799,7 +17804,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113747,
+      "Progressed": 113748,
       "Completed": 50
     }
   ],
@@ -17807,8 +17812,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-10T05:08:45.7536591+00:00",
+  "LastChanged_Achievements": "2023-11-10T06:09:24.6191696+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-10T04:59:37.5301229+00:00",
-  "LastUpdate_Achievements": "2023-11-10T05:08:45.7538031+00:00"
+  "LastUpdate_Ratings": "2023-11-10T06:00:38.0991816+00:00",
+  "LastUpdate_Achievements": "2023-11-10T06:09:24.6193946+00:00"
 }

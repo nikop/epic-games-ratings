@@ -11,16 +11,16 @@ Rating: 4.76 (Ranked 124)
 | A Keen Sense of Spell | 13.00% | ~39,232 |
 | A Talent for Spending | 12.00% | ~36,214 |
 | That's a Keeper | 12.00% | ~36,214 |
-| Grappling with a Graphorn | 11.00% | ~33,196 |
-| The One Who Mastered Memories | 11.00% | ~33,196 |
-| The Hallowed Hero | 11.00% | ~33,196 |
-| The Defender of Dragons | 11.00% | ~33,196 |
-| Loom for Improvement | 11.00% | ~33,196 |
-| Coasting Along | 11.00% | ~33,196 |
-| The Hero of Hogwarts | 10.00% | ~30,178 |
-| Challenge Accepted | 10.00% | ~30,178 |
-| Followed the Butterflies | 10.00% | ~30,178 |
-| Rising From the Ashes | 10.00% | ~30,178 |
+| Grappling with a Graphorn | 11.00% | ~33,197 |
+| The One Who Mastered Memories | 11.00% | ~33,197 |
+| The Hallowed Hero | 11.00% | ~33,197 |
+| The Defender of Dragons | 11.00% | ~33,197 |
+| Loom for Improvement | 11.00% | ~33,197 |
+| Coasting Along | 11.00% | ~33,197 |
+| The Hero of Hogwarts | 10.00% | ~30,179 |
+| Challenge Accepted | 10.00% | ~30,179 |
+| Followed the Butterflies | 10.00% | ~30,179 |
+| Rising From the Ashes | 10.00% | ~30,179 |
 | The Spell Master | 9.00% | ~27,161 |
 | The Avenging Gazelle | 8.00% | ~24,143 |
 | Beast Friends | 8.00% | ~24,143 |
@@ -48,11 +48,11 @@ Rating: 4.76 (Ranked 124)
 | Savvy Spender | 1.00% | ~3,018 |
 | Merlin's Beard! | 1.00% | ~3,018 |
 | Spilled Milk | 0.90% | ~2,716 |
-| The Nature of the Beast | 0.70% | ~2,112 |
+| The Nature of the Beast | 0.70% | ~2,113 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,785 (Ranked 50)  
-Completed: 505 (0.17%) (Ranked 252)  
+Progressed: 301,787 (Ranked 50)  
+Completed: 506 (0.17%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -255,7 +255,7 @@ Completed: 505 (0.17%) (Ranked 252)
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
 | 2023-11-09 | 301,775 | 505 |
-| 2023-11-10 | 301,785 | 505 |
+| 2023-11-10 | 301,787 | 506 |
 ## Awards
 Max (Character Customization): 24,162  (Ranked 17)  
 Sum: 47,788 (Ranked 30)  

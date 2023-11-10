@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 320347,
+  "EOS_Progressed": 320349,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2826,
+  "EOS_NewPlayers": 2817,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9574,6 +9574,11 @@
       "Time": "2023-11-10T05:06:19.7119003+00:00",
       "NumProgressed": 320347,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T06:07:34.8939464+00:00",
+      "NumProgressed": 320349,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -9610,7 +9615,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 140953
+      "UsersEstimate": 140954
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -9618,7 +9623,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 102511
+      "UsersEstimate": 102512
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -9962,20 +9967,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 163377
+      "UsersEstimate": 163378
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 320347,
+      "Progressed": 320349,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 320336,
+      "Progressed": 320338,
       "Completed": 0
     }
   ],
@@ -9983,8 +9988,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2023-10-28T13:02:23.169966+00:00",
-  "LastChanged_Achievements": "2023-11-10T05:06:19.7118998+00:00",
+  "LastChanged_Achievements": "2023-11-10T06:07:34.8939459+00:00",
   "LastUpdate_AppInfo": "2023-11-09T22:57:18.128339+00:00",
-  "LastUpdate_Ratings": "2023-11-10T04:57:00.8750472+00:00",
-  "LastUpdate_Achievements": "2023-11-10T05:06:19.7119959+00:00"
+  "LastUpdate_Ratings": "2023-11-10T05:57:24.2936903+00:00",
+  "LastUpdate_Achievements": "2023-11-10T06:07:34.8940667+00:00"
 }

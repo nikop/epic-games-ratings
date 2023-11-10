@@ -28,7 +28,7 @@ Rating: 4.50 (Ranked 587)
 | Holy Vengeance | 16.00% | ~69 |
 | Honorary Cultist | 13.00% | ~56 |
 | Brain and Brawn | 12.00% | ~52 |
-| Strength and Sorcery | 10.00% | ~43 |
+| Strength and Sorcery | 11.00% | ~48 |
 | Omae Wa Mou Shindeiru | 8.00% | ~35 |
 | Experimentalist | 7.00% | ~30 |
 | Wide Selection | 6.00% | ~26 |

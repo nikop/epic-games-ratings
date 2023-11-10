@@ -9088,9 +9088,9 @@
       "ID": "MF_Ach_HitEmWhereItHurts",
       "SetID": "9b9n573",
       "Name": "Hit \u0027Em Where It Hurts",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1144
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9192,8 +9192,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-10T05:09:35.2870639+00:00",
+  "LastChanged_Achievements": "2023-11-10T06:10:20.8928444+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-10T05:02:45.4764052+00:00",
-  "LastUpdate_Achievements": "2023-11-10T05:09:35.2871305+00:00"
+  "LastUpdate_Ratings": "2023-11-10T06:03:25.0205465+00:00",
+  "LastUpdate_Achievements": "2023-11-10T06:10:20.8929208+00:00"
 }

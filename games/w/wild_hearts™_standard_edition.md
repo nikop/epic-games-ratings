@@ -14,7 +14,7 @@
 | Charmed by the Hunt | 66.00% | ~165 |
 | Memory Rouser | 65.00% | ~162 |
 | Subsistence Skills | 64.00% | ~160 |
-| Kemono Hunter | 59.00% | ~148 |
+| Kemono Hunter | 60.00% | ~150 |
 | Expert Conjuror | 58.00% | ~145 |
 | Distance Devourer | 55.00% | ~138 |
 | Flawless Crystal | 54.00% | ~135 |
@@ -22,7 +22,7 @@
 | Helpful Heart | 52.00% | ~130 |
 | Master of the Skies | 51.00% | ~128 |
 | Counter Specialist | 50.00% | ~125 |
-| Axer of Auspice | 44.00% | ~110 |
+| Axer of Auspice | 45.00% | ~112 |
 | Fair Means or Foul | 43.00% | ~108 |
 | Mighty Marmelizer | 42.00% | ~105 |
 | Single Minded | 41.00% | ~102 |

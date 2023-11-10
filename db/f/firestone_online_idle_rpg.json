@@ -6746,9 +6746,9 @@
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 258
     },
     {
       "ID": "dragonclicker",
@@ -7259,8 +7259,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-10T05:08:27.5925447+00:00",
+  "LastChanged_Achievements": "2023-11-10T06:09:03.7410306+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-10T04:57:14.8361087+00:00",
-  "LastUpdate_Achievements": "2023-11-10T05:08:27.5926615+00:00"
+  "LastUpdate_Ratings": "2023-11-10T05:57:40.8745713+00:00",
+  "LastUpdate_Achievements": "2023-11-10T06:09:03.7411931+00:00"
 }

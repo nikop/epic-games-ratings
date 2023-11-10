@@ -9,6 +9,7 @@
 | Hunger | 80.00% | ~12 |
 | ...And Stay Dead! | 80.00% | ~12 |
 | Objection | 80.00% | ~12 |
+| Fly Free | 80.00% | ~12 |
 | Medicine ball | 80.00% | ~12 |
 | Mono Tones | 80.00% | ~12 |
 | Popcorn | 80.00% | ~12 |
@@ -24,7 +25,6 @@
 | What's in the box?! | 73.00% | ~11 |
 | Signal interruption | 73.00% | ~11 |
 | Fair Prey | 73.00% | ~11 |
-| Fly Free | 73.00% | ~11 |
 | First do no harm | 73.00% | ~11 |
 | How Do I Look? | 73.00% | ~11 |
 | Twenty-Six | 67.00% | ~10 |

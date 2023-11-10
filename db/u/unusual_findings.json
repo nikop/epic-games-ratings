@@ -4,7 +4,7 @@
   "ProductSlug": "unusual-findings-6997e3",
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-06T15:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-08T15:58:09.6187281+00:00",
   "LastChanged": "2023-04-08T15:58:09.6187281+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:28.2941608+00:00",
-  "LastUpdate_Ratings": "2023-11-10T05:02:49.2557208+00:00",
-  "LastUpdate_Achievements": "2023-11-10T05:03:21.1732912+00:00"
+  "LastUpdate_Ratings": "2023-11-10T06:03:29.5749282+00:00",
+  "LastUpdate_Achievements": "2023-11-10T06:04:08.4481849+00:00"
 }

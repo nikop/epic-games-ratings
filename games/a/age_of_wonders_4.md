@@ -18,6 +18,7 @@ Rating: 4.61 (Ranked 385)
 | Stronger Together | 0.20% | ~11 |
 | Magical Synergy | 0.20% | ~11 |
 | Seat of Power | 0.20% | ~11 |
+| Impenetrable Fortress | 0.20% | ~11 |
 | Intimidation Tactics | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
 | Mighty Hoard | 0.20% | ~11 |
@@ -45,7 +46,6 @@ Rating: 4.61 (Ranked 385)
 | Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
-| Impenetrable Fortress | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
 | Pruning for Progress | 0.10% | ~5 |

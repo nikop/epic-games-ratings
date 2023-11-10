@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energizer | 99.00% | ~936 |
-| A man of his word | 96.00% | ~907 |
+| Energizer | 99.00% | ~937 |
+| A man of his word | 96.00% | ~908 |
 | Real Estate | 64.00% | ~605 |
-| New Ride | 54.00% | ~510 |
-| Giants | 49.00% | ~463 |
-| Thrifty | 47.00% | ~444 |
+| New Ride | 54.00% | ~511 |
+| Giants | 49.00% | ~464 |
+| Thrifty | 47.00% | ~445 |
 | Too big to fail | 35.00% | ~331 |
 | Wealthy | 14.00% | ~132 |
-| Lighthouse Builder | 12.00% | ~113 |
+| Lighthouse Builder | 12.00% | ~114 |
 | Fish Appreciation | 9.00% | ~85 |
 | Supplier | 6.00% | ~57 |
 | Botanical | 5.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 945 (Ranked 257)  
+Progressed: 946 (Ranked 257)  
 Completed: 14 (1.48%) (Ranked 137)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -42,6 +42,7 @@ Completed: 14 (1.48%) (Ranked 137)
 | 2023-09-08 | 943 | 14 |
 | 2023-10-05 | 944 | 14 |
 | 2023-11-02 | 945 | 14 |
+| 2023-11-10 | 946 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

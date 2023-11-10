@@ -1300,9 +1300,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 150
     },
     {
       "ID": "achievement_23",
@@ -1452,9 +1452,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_40",
@@ -1578,8 +1578,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-10T05:05:17.9490992+00:00",
+  "LastChanged_Achievements": "2023-11-10T06:06:23.0152329+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-10T04:57:44.6211346+00:00",
-  "LastUpdate_Achievements": "2023-11-10T05:05:17.9491513+00:00"
+  "LastUpdate_Ratings": "2023-11-10T05:58:18.1311516+00:00",
+  "LastUpdate_Achievements": "2023-11-10T06:06:23.0153048+00:00"
 }

@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15232,
+  "EOS_Progressed": 15233,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15715,6 +15715,11 @@
       "Time": "2023-11-10T05:03:31.3102168+00:00",
       "NumProgressed": 15232,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-10T06:04:19.9664956+00:00",
+      "NumProgressed": 15233,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16420,9 +16425,9 @@
       "ID": "ACHIEVEMENT_CULTURE_DEVELOPING",
       "SetID": "9201eeb",
       "Name": "Developing Cities",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHIEVEMENT_CULTURE_LEGENDARY",
@@ -18461,21 +18466,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15232,
+      "Progressed": 15233,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15232,
+      "Progressed": 15233,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-10T05:03:31.3102162+00:00",
+  "LastChanged_Achievements": "2023-11-10T06:04:19.9664949+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-10T04:58:31.0303126+00:00",
-  "LastUpdate_Achievements": "2023-11-10T05:03:31.3115787+00:00"
+  "LastUpdate_Ratings": "2023-11-10T05:59:15.5551766+00:00",
+  "LastUpdate_Achievements": "2023-11-10T06:04:19.967979+00:00"
 }
