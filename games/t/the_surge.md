@@ -6,10 +6,10 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,532 |
-| I'll Be Back | 85.00% | ~4,098 |
-| Sorry, I Dropped This | 77.00% | ~3,712 |
-| First Day on the Job | 77.00% | ~3,712 |
+| On My Own Two Feet | 94.00% | ~4,533 |
+| I'll Be Back | 85.00% | ~4,099 |
+| Sorry, I Dropped This | 77.00% | ~3,713 |
+| First Day on the Job | 77.00% | ~3,713 |
 | Butcher's Bill | 55.00% | ~2,652 |
 | P.A.X | 38.00% | ~1,832 |
 | Hey Listen | 37.00% | ~1,784 |
@@ -17,12 +17,12 @@ Number of Ratings: 62  (23.09.2022)
 | It's Blue Light | 33.00% | ~1,591 |
 | Most Wanted | 27.00% | ~1,302 |
 | Infidel | 24.00% | ~1,157 |
-| GOLIATH | 21.00% | ~1,012 |
+| GOLIATH | 21.00% | ~1,013 |
 | Firebug | 20.00% | ~964 |
 | I Choose You | 18.00% | ~868 |
 | Nothing to Lose | 18.00% | ~868 |
-| Big Sister | 16.00% | ~771 |
-| SENTINEL | 16.00% | ~771 |
+| Big Sister | 16.00% | ~772 |
+| SENTINEL | 16.00% | ~772 |
 | Gear Up | 15.00% | ~723 |
 | Core Power | 13.00% | ~627 |
 | The Black Cerberus | 12.00% | ~579 |
@@ -38,11 +38,11 @@ Number of Ratings: 62  (23.09.2022)
 | Is This Real Life? | 9.00% | ~434 |
 | Pusher Man | 8.00% | ~386 |
 | Squad Chief Helvig | 8.00% | ~386 |
-| Sunglasses at Night | 7.00% | ~337 |
-| Duty-Bound | 7.00% | ~337 |
-| Follow the White Rabbit | 7.00% | ~337 |
-| Liberation | 7.00% | ~337 |
-| Risk Assessment | 7.00% | ~337 |
+| Sunglasses at Night | 7.00% | ~338 |
+| Duty-Bound | 7.00% | ~338 |
+| Follow the White Rabbit | 7.00% | ~338 |
+| Liberation | 7.00% | ~338 |
+| Risk Assessment | 7.00% | ~338 |
 | Carbon Cat | 6.00% | ~289 |
 | It Lives! It Sniffs! It Conquers! | 5.00% | ~241 |
 | Man of Steel | 5.00% | ~241 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~29 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,821 (Ranked 185)  
+Progressed: 4,822 (Ranked 185)  
 Completed: 18 (0.37%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 18 (0.37%) (Ranked 213)
 | 2023-11-06 | 4,808 | 18 |
 | 2023-11-07 | 4,818 | 18 |
 | 2023-11-09 | 4,821 | 18 |
+| 2023-11-10 | 4,822 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 494)  
 Sum: 29 (Ranked 510)  

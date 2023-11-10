@@ -5872,9 +5872,9 @@
       "ID": "ACH_LURE_QUEEN",
       "SetID": "816efe",
       "Name": "Heavy Steps",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 437
+      "UsersEstimate": 473
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -6113,8 +6113,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-09T02:16:14.1164804+00:00",
-  "LastChanged_Achievements": "2023-11-09T23:07:32.0644827+00:00",
+  "LastChanged_Achievements": "2023-11-10T00:05:31.5947603+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:58:32.6245227+00:00",
-  "LastUpdate_Achievements": "2023-11-09T23:07:32.0645552+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:57:53.4099547+00:00",
+  "LastUpdate_Achievements": "2023-11-10T00:05:31.5948313+00:00"
 }

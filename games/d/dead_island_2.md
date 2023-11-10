@@ -11,13 +11,13 @@ Rating: 4.54 (Ranked 523)
 | Hotel California | 0.60% | ~4,294 |
 | Welcome To Hell-A | 0.60% | ~4,294 |
 | Git Gutte! | 0.50% | ~3,578 |
+| Bookworm | 0.50% | ~3,578 |
 | Break A Leg | 0.50% | ~3,578 |
 | Coup de Grâce | 0.50% | ~3,578 |
 | Hazardous Materials | 0.50% | ~3,578 |
 | Personal Assistant Personally Assisted | 0.50% | ~3,578 |
 | Dr. Reed, I Presume? | 0.40% | ~2,863 |
 | Anger Management | 0.40% | ~2,863 |
-| Bookworm | 0.40% | ~2,863 |
 | But Doctor, I am Butcho | 0.40% | ~2,863 |
 | Can't Handle the Truth | 0.40% | ~2,863 |
 | Like Riding a Bike | 0.40% | ~2,863 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,653 (Ranked 21)  
+Progressed: 715,670 (Ranked 21)  
 Completed: 2,368 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,6 +261,7 @@ Completed: 2,368 (0.33%) (Ranked 219)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
+| 2023-11-10 | 715,670 | 2,368 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
 Sum: 10,986 (Ranked 86)  

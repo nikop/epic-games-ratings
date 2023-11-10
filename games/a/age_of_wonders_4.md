@@ -14,6 +14,7 @@ Rating: 4.61 (Ranked 385)
 | A Wonderful Discovery | 0.20% | ~11 |
 | Bone Peddler | 0.20% | ~11 |
 | From Friends to Family | 0.20% | ~11 |
+| Stronger Together | 0.20% | ~11 |
 | Magical Synergy | 0.20% | ~11 |
 | Seat of Power | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
@@ -35,7 +36,6 @@ Rating: 4.61 (Ranked 385)
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | Digging for Treasure | 0.10% | ~5 |
-| Stronger Together | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
 | My Final Form | 0.10% | ~5 |

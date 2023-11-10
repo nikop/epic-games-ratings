@@ -36,10 +36,10 @@ Number of Ratings: 125  (23.09.2022)
 | There is Hope | 11.00% | ~219 |
 | The Philosopher’s Stone | 10.00% | ~199 |
 | Loyalty to the Pack | 9.00% | ~179 |
+| Eternity Can Wait | 9.00% | ~179 |
 | Mystery Machine | 9.00% | ~179 |
 | Do Not Pass Go… | 8.00% | ~159 |
 | Gold Digger | 8.00% | ~159 |
-| Eternity Can Wait | 8.00% | ~159 |
 | Monster Hunter | 8.00% | ~159 |
 | Knuckle Sandwich | 8.00% | ~159 |
 | Getting the Gang Back Together | 7.00% | ~139 |

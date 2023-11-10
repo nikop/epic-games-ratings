@@ -3,11 +3,11 @@
   "Name": "Borderlands: The Pre-Sequel",
   "ProductSlug": "borderlands-the-pre-sequel",
   "Ranking_Rating": 587,
-  "Ranking_Popularity": 219,
+  "Ranking_Popularity": 220,
   "Ranking_PopularitySum": 173,
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2014-10-14T16:00:00+00:00",
@@ -3864,6 +3864,6 @@
   "FirstSeen": "2022-07-22T20:22:28.453834+00:00",
   "LastChanged": "2023-11-09T15:00:46.0831588+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.7474849+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:02:22.1579962+00:00",
-  "LastUpdate_Achievements": "2023-11-09T23:10:19.2114422+00:00"
+  "LastUpdate_Ratings": "2023-11-10T00:00:22.9452776+00:00",
+  "LastUpdate_Achievements": "2023-11-10T00:08:48.0570066+00:00"
 }

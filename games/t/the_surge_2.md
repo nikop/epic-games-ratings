@@ -45,11 +45,11 @@ Rating: 4.25 (Ranked 874)
 | Reborn | 6.00% | ~131 |
 | Remote Surgery | 6.00% | ~131 |
 | Turbo Booster | 6.00% | ~131 |
+| Juiced Up | 6.00% | ~131 |
 | Squid Pro Quo | 6.00% | ~131 |
 | Hello Darkness My Old Friend | 5.00% | ~110 |
 | Counter-Sniper | 5.00% | ~110 |
 | Shrimp Cocktail | 5.00% | ~110 |
-| Juiced Up | 5.00% | ~110 |
 | Geronimo! | 4.00% | ~88 |
 | Homewrecker | 4.00% | ~88 |
 | Plank of Wood | 4.00% | ~88 |
@@ -59,9 +59,9 @@ Rating: 4.25 (Ranked 874)
 | Three Birds With One Stone | 2.00% | ~44 |
 | Box Office Smash | 2.00% | ~44 |
 | Going Postal | 2.00% | ~44 |
+| The Easy Way Out | 2.00% | ~44 |
 | Loot, Pillage & Craft | 2.00% | ~44 |
 | Swiss Army Drone | 1.00% | ~22 |
-| The Easy Way Out | 1.00% | ~22 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,190 (Ranked 215)  
 Completed: 13 (0.59%) (Ranked 180)  

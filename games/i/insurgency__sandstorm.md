@@ -6,7 +6,7 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,056 |
+| Wallbanger | 5.00% | ~24,057 |
 | Exploitative | 4.00% | ~19,245 |
 | Point Shooting | 4.00% | ~19,245 |
 | Wet Feet | 4.00% | ~19,245 |
@@ -14,12 +14,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~14,434 |
 | Stylin' | 3.00% | ~14,434 |
 | Turf War | 3.00% | ~14,434 |
-| Banged | 2.00% | ~9,622 |
-| Checkpoint Victory | 2.00% | ~9,622 |
-| First Blood | 2.00% | ~9,622 |
-| Flaccid Paralysis | 2.00% | ~9,622 |
-| Push Victory | 2.00% | ~9,622 |
-| Self-destructive | 2.00% | ~9,622 |
+| Banged | 2.00% | ~9,623 |
+| Checkpoint Victory | 2.00% | ~9,623 |
+| First Blood | 2.00% | ~9,623 |
+| Flaccid Paralysis | 2.00% | ~9,623 |
+| Push Victory | 2.00% | ~9,623 |
+| Self-destructive | 2.00% | ~9,623 |
 | Blindfire | 1.00% | ~4,811 |
 | Ruthless | 1.00% | ~4,811 |
 | Semper Paratus | 1.00% | ~4,811 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Firefight Victory | 0.60% | ~2,887 |
 | #1 | 0.60% | ~2,887 |
 | Cinematic | 0.50% | ~2,406 |
-| Thanks Station! | 0.40% | ~1,924 |
+| Thanks Station! | 0.40% | ~1,925 |
 | Knock Knock | 0.30% | ~1,443 |
 | There For You | 0.30% | ~1,443 |
 | Hit and Run | 0.20% | ~962 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~481 |
 | Road Hazard | 0.10% | ~481 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 481,118 (Ranked 38)  
+Progressed: 481,134 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,14 +246,15 @@ Completed: 2 (0.00%) (Ranked 345)
 | 2023-11-07 | 479,948 | 2 |
 | 2023-11-08 | 480,563 | 2 |
 | 2023-11-09 | 481,118 | 2 |
+| 2023-11-10 | 481,134 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 227)  
-Sum: 3,140 (Ranked 171)  
+Sum: 3,141 (Ranked 171)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 396 |
-| This game has Challenging Combat | 379 |
+| This game has Challenging Combat | 380 |
 | This game is Extremely Fun | 363 |
 | This game has Competitive Players | 362 |
 | This game is Highly Recommended | 346 |
@@ -543,4 +544,4 @@ Diff (max vs sum): 56
 | 2023-11-06 | 4.62 | - | 394 | 3,132 |
 | 2023-11-07 | 4.62 | - | 395 | 3,135 |
 | 2023-11-08 | 4.62 | - | 395 | 3,137 |
-| 2023-11-09 | 4.62 | - | 396 | 3,140 |
+| 2023-11-09 | 4.62 | - | 396 | 3,141 |

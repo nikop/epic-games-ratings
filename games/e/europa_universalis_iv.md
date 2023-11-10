@@ -30,6 +30,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Black Jack | 0.10% | ~451 |
 | Bleed Them Dry | 0.10% | ~451 |
 | Blockader | 0.10% | ~451 |
+| Brick by Brick | 0.10% | ~451 |
 | Bright Spark | 0.10% | ~451 |
 | Brothers in Arms | 0.10% | ~451 |
 | Carthago Delenda Est | 0.10% | ~451 |
@@ -199,7 +200,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
-| Brick by Brick | 0.00% | ~0 |
 | The Buddhists Strike Back | 0.00% | ~0 |
 | Bunte Kuh | 0.00% | ~0 |
 | Chop Chop | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,804 (Ranked 41)  
+Progressed: 450,824 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -574,6 +574,7 @@ Completed: 1 (0.00%) (Ranked 345)
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
+| 2023-11-10 | 450,824 | 1 |
 ## Awards
 Max (Educational): 6,915  (Ranked 55)  
 Sum: 56,881 (Ranked 24)  

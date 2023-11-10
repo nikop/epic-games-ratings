@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~310,606 |
+| The Shutdown | 66.00% | ~310,607 |
 | Jeef Skeejj | 44.00% | ~207,071 |
-| Careful planning | 39.00% | ~183,540 |
-| Second Coming | 34.00% | ~160,009 |
-| Jeef Skagg | 30.00% | ~141,184 |
+| Careful planning | 39.00% | ~183,541 |
+| Second Coming | 34.00% | ~160,010 |
+| Jeef Skagg | 30.00% | ~141,185 |
 | Mother | 25.00% | ~117,654 |
 | In space, no one can hear you scream | 24.00% | ~112,948 |
-| Chapter I: Echoes | 22.00% | ~103,535 |
-| Excelsior Rule | 22.00% | ~103,535 |
+| Chapter I: Echoes | 22.00% | ~103,536 |
+| Excelsior Rule | 22.00% | ~103,536 |
 | Things persisted in not being what they seemed | 20.00% | ~94,123 |
-| Knightmare Frames | 15.00% | ~70,592 |
-| May His passing cleanse the world | 15.00% | ~70,592 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,592 |
-| Pope Zenon | 15.00% | ~70,592 |
+| Knightmare Frames | 15.00% | ~70,593 |
+| May His passing cleanse the world | 15.00% | ~70,593 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,593 |
+| Pope Zenon | 15.00% | ~70,593 |
 | Tetsuo | 11.00% | ~51,768 |
 | Plan for the worst | 11.00% | ~51,768 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,062 |
@@ -49,8 +49,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Forsaken | 5.00% | ~23,531 |
 | Mercy | 5.00% | ~23,531 |
 | Jericho Rule | 5.00% | ~23,531 |
-| Geno Rule | 3.00% | ~14,118 |
-| Hammer Rule | 3.00% | ~14,118 |
+| Geno Rule | 3.00% | ~14,119 |
+| Hammer Rule | 3.00% | ~14,119 |
 | Survivor | 2.00% | ~9,412 |
 | A Rock in the Dark | 1.00% | ~4,706 |
 | Emperor of Misery | 1.00% | ~4,706 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~15 |
 | Kronos Rule | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,615 (Ranked 40)  
+Progressed: 470,617 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,6 +290,7 @@ Completed: 20 (0.00%) (Ranked 345)
 | 2023-11-07 | 470,506 | 20 |
 | 2023-11-08 | 470,569 | 20 |
 | 2023-11-09 | 470,615 | 20 |
+| 2023-11-10 | 470,617 | 20 |
 ## Awards
 Max (Character Customization): 223  (Ranked 274)  
 Sum: 245 (Ranked 379)  

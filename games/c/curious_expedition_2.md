@@ -22,7 +22,7 @@ Number of Ratings: 20  (23.09.2022)
 | Plunderer | 27.00% | ~91 |
 | Uncertain Loyalties | 25.00% | ~84 |
 | Traveller | 24.00% | ~81 |
-| Nahua Seeker | 23.00% | ~78 |
+| Nahua Seeker | 24.00% | ~81 |
 | Roll to Save | 22.00% | ~74 |
 | Veteran Explorer | 20.00% | ~67 |
 | Red Flag Pirate | 18.00% | ~61 |

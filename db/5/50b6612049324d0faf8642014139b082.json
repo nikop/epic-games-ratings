@@ -2,7 +2,7 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "WRC",
   "ProductSlug": "wrc",
-  "Ranking_EOS_Progress": 414,
+  "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 345,
   "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 129,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 105,
+  "EOS_Progressed": 106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -165,6 +165,11 @@
       "Time": "2023-11-09T23:10:23.6607679+00:00",
       "NumProgressed": 105,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T00:08:51.1411358+00:00",
+      "NumProgressed": 106,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -175,7 +180,7 @@
       "ID": "achievement_1",
       "SetID": "jnappp",
       "Name": "Gold Rush",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -191,9 +196,9 @@
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_12",
@@ -217,7 +222,7 @@
       "Name": "Vehicle Builder",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_15",
@@ -233,13 +238,13 @@
       "Name": "Class Act",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "achievement_17",
       "SetID": "jnappp",
       "Name": "Your first time?",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 30,
       "UsersEstimate": 52
     },
@@ -265,7 +270,7 @@
       "Name": "Team Principal",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_20",
@@ -311,17 +316,17 @@
       "ID": "achievement_25",
       "SetID": "jnappp",
       "Name": "E-stonia",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_26",
       "SetID": "jnappp",
       "Name": "Driver\u0027s Alliance",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 9
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_3",
@@ -329,13 +334,13 @@
       "Name": "Rookie Season",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_4",
       "SetID": "jnappp",
       "Name": "World Rally Champion!",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -361,7 +366,7 @@
       "Name": "NEW PB!",
       "Percentage": 42,
       "XP": 35,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "achievement_8",
@@ -375,7 +380,7 @@
       "ID": "achievement_9",
       "SetID": "jnappp",
       "Name": "Perfect Score",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
       "UsersEstimate": 1
     }
@@ -384,14 +389,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 105,
+      "Progressed": 106,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-09T23:10:23.6607674+00:00",
+  "LastChanged_Achievements": "2023-11-10T00:08:51.1411354+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:57:19.7285471+00:00",
-  "LastUpdate_Achievements": "2023-11-09T23:10:23.6607941+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:57:05.6345718+00:00",
+  "LastUpdate_Achievements": "2023-11-10T00:08:51.141149+00:00"
 }

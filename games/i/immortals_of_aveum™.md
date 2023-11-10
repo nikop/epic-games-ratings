@@ -6,10 +6,10 @@ Rating: 4.02 (Ranked 986)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 88.00% | ~202 |
-| Battlefields Have Memories | 82.00% | ~189 |
-| Enlisted | 78.00% | ~179 |
+| Battlefields Have Memories | 83.00% | ~191 |
+| Enlisted | 79.00% | ~182 |
 | Maybe Engage a Little | 74.00% | ~170 |
-| No More Names | 60.00% | ~138 |
+| No More Names | 61.00% | ~140 |
 | Initiate | 46.00% | ~106 |
 | Thrada-Kul | 42.00% | ~97 |
 | Gravity-Challenged Rocks | 32.00% | ~74 |
@@ -29,8 +29,8 @@ Rating: 4.02 (Ranked 986)
 | Lights Army | 10.00% | ~23 |
 | Periapt Cerulean | 8.00% | ~18 |
 | Good Boy | 8.00% | ~18 |
+| Periapt Viridian | 7.00% | ~16 |
 | Best Dressed | 6.00% | ~14 |
-| Periapt Viridian | 6.00% | ~14 |
 | Shroudfane Explorer | 6.00% | ~14 |
 | Armaments Azure | 4.00% | ~9 |
 | Armaments Gules | 4.00% | ~9 |

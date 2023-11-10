@@ -4,7 +4,7 @@
   "ProductSlug": "the-invincible-iron-ivyenter-the-pretty-pretty-princess-ed912d",
   "Ranking_EOS_Progress": 680,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-21T00:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1,
   "EOS_Completed": 0,
@@ -95,9 +97,10 @@
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-11-09T23:58:20.8656687+00:00",
   "FirstSeenAchievements": "2023-10-26T07:05:55.7899277+00:00",
-  "LastChanged_Achievements": "2023-11-09T23:05:35.3280039+00:00",
+  "LastChanged_Achievements": "2023-11-10T00:04:08.119578+00:00",
   "LastUpdate_AppInfo": "2023-11-05T18:57:05.3224525+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:59:15.2123805+00:00",
-  "LastUpdate_Achievements": "2023-11-09T23:05:35.3280115+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:58:20.8656706+00:00",
+  "LastUpdate_Achievements": "2023-11-10T00:04:08.1195838+00:00"
 }

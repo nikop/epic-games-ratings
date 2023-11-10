@@ -4,7 +4,7 @@
   "ProductSlug": "access-denied-escape-1d486e",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 12,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -1628,9 +1628,9 @@
       "ID": "FallDeath",
       "SetID": "7jbi7el",
       "Name": "Accident",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "FirstBox",
@@ -1668,9 +1668,9 @@
       "ID": "GasDeath",
       "SetID": "7jbi7el",
       "Name": "Contract Termination",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 139
     },
     {
       "ID": "GasFound",
@@ -1723,8 +1723,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2023-11-09T23:07:11.5971586+00:00",
+  "LastChanged_Achievements": "2023-11-10T00:05:16.7942122+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:16.9438306+00:00",
-  "LastUpdate_Ratings": "2023-11-09T22:58:08.4355916+00:00",
-  "LastUpdate_Achievements": "2023-11-09T23:07:11.5971847+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:57:37.4812321+00:00",
+  "LastUpdate_Achievements": "2023-11-10T00:05:16.7942321+00:00"
 }

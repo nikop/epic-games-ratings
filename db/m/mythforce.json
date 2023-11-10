@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4759,
+  "EOS_Progressed": 4762,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8965,6 +8965,11 @@
       "Time": "2023-11-09T22:12:32.4164948+00:00",
       "NumProgressed": 4759,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-10T00:09:02.3152517+00:00",
+      "NumProgressed": 4762,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9017,7 +9022,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9033,7 +9038,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 904
+      "UsersEstimate": 905
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -9073,7 +9078,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -9089,7 +9094,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -9160,15 +9165,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4759,
+      "Progressed": 4762,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-09T23:10:39.4680558+00:00",
+  "LastChanged_Achievements": "2023-11-10T00:09:02.3152513+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:03:22.4488506+00:00",
-  "LastUpdate_Achievements": "2023-11-09T23:10:39.4681276+00:00"
+  "LastUpdate_Ratings": "2023-11-10T00:02:36.2353552+00:00",
+  "LastUpdate_Achievements": "2023-11-10T00:09:02.3153135+00:00"
 }

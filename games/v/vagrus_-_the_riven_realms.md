@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~99 |
-| Press-ganged | 42.00% | ~71 |
+| A Second Chance | 57.00% | ~98 |
+| Press-ganged | 41.00% | ~71 |
 | The Package | 27.00% | ~46 |
 | Conquered | 18.00% | ~31 |
-| Randomized | 16.00% | ~27 |
+| Randomized | 16.00% | ~28 |
 | Scribe | 9.00% | ~15 |
 | Tactician | 9.00% | ~15 |
 | Breached | 8.00% | ~14 |
@@ -17,23 +17,23 @@
 | Scholar | 6.00% | ~10 |
 | Acquaintance | 6.00% | ~10 |
 | Tail-wind | 6.00% | ~10 |
-| Strategist | 5.00% | ~8 |
-| The More the Merrier | 5.00% | ~8 |
-| Harbinger | 5.00% | ~8 |
-| Been There | 5.00% | ~8 |
-| Spiritual Journey | 5.00% | ~8 |
-| Taskmaster | 5.00% | ~8 |
+| Strategist | 5.00% | ~9 |
+| The More the Merrier | 5.00% | ~9 |
+| Harbinger | 5.00% | ~9 |
+| Been There | 5.00% | ~9 |
+| Spiritual Journey | 5.00% | ~9 |
+| Taskmaster | 5.00% | ~9 |
 | Quartermaster | 4.00% | ~7 |
-| Potential Unlocked | 4.00% | ~7 |
-| Xevarian Gambit | 4.00% | ~7 |
 | Deputized | 4.00% | ~7 |
 | Courier | 4.00% | ~7 |
-| The Voice of Hereafter | 4.00% | ~7 |
-| A Terrible Will | 4.00% | ~7 |
 | Pilgrimage's End | 4.00% | ~7 |
-| Inquisitions of Discord | 4.00% | ~7 |
 | Trouble at Fort Larius | 4.00% | ~7 |
 | Bounty Hunter | 3.00% | ~5 |
+| Potential Unlocked | 3.00% | ~5 |
+| Xevarian Gambit | 3.00% | ~5 |
+| The Voice of Hereafter | 3.00% | ~5 |
+| A Terrible Will | 3.00% | ~5 |
+| Inquisitions of Discord | 3.00% | ~5 |
 | Merchant | 3.00% | ~5 |
 | Unseen Patterns | 3.00% | ~5 |
 | Making Contact | 2.00% | ~3 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 170 (Ranked 379)  
+Progressed: 172 (Ranked 378)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,6 +176,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-05 | 162 | 0 |
 | 2023-11-08 | 166 | 0 |
 | 2023-11-09 | 170 | 0 |
+| 2023-11-10 | 172 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

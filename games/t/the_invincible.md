@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 76.00% | ~89 |
-| The Teleprobe | 51.00% | ~60 |
+| The Teleprobe | 53.00% | ~62 |
 | The City | 44.00% | ~51 |
 | Krauta is alive | 27.00% | ~32 |
 | The field base | 26.00% | ~30 |
@@ -17,8 +17,8 @@
 | The End | 13.00% | ~15 |
 | On her own | 9.00% | ~11 |
 | Evacuation | 9.00% | ~11 |
+| I leave no man behind | 9.00% | ~11 |
 | Flying Objects Operator | 9.00% | ~11 |
-| I leave no man behind | 8.00% | ~9 |
 | Beyond divisions | 8.00% | ~9 |
 | Fierce fight | 6.00% | ~7 |
 | Peacemaker | 6.00% | ~7 |

@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 587)
 Number of Ratings: 6,316  (23.09.2022)  
 ## Awards
 Max (Diverse Characters): 1,816  (Ranked 116)  
-Sum: 12,288 (Ranked 81)  
+Sum: 12,289 (Ranked 81)  
 Diff (max vs sum): 35  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 35
 | This game has Amazing Characters | 1,483 |
 | This game has Quickly Understood Controls | 1,458 |
 | This game is Relaxing | 1,444 |
-| This game has Amazing Storytelling | 1,428 |
+| This game has Amazing Storytelling | 1,429 |
 | This game has Obsessive Gameplay | 1,004 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -300,4 +300,4 @@ Diff (max vs sum): 35
 | 2023-11-06 | 4.50 | - | 1,812 | 12,279 |
 | 2023-11-07 | 4.50 | - | 1,815 | 12,285 |
 | 2023-11-08 | 4.50 | - | 1,815 | 12,286 |
-| 2023-11-09 | 4.50 | - | 1,816 | 12,288 |
+| 2023-11-09 | 4.50 | - | 1,816 | 12,289 |

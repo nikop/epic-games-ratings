@@ -8359,10 +8359,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28194,
       "NumberOfAwardsMax": 7587
+    },
+    {
+      "Time": "2023-11-10T00:02:30.3953111+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28195,
+      "NumberOfAwardsMax": 7587
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28194,
+  "NumberOfAwards": 28195,
   "NumberOfAwardsMax": 7587,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8382,7 +8388,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1689
+      "Count": 1690
     },
     {
       "Text": "This game is Extremely Fun",
@@ -8445,9 +8451,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 807741,
+  "EOS_Progressed": 807744,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 842,
+  "EOS_NewPlayers": 841,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31255,6 +31261,11 @@
       "Time": "2023-11-09T23:05:47.8648697+00:00",
       "NumProgressed": 807741,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-10T00:04:16.9111036+00:00",
+      "NumProgressed": 807744,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -31346,7 +31357,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258477
+      "UsersEstimate": 258478
     },
     {
       "ID": "Bookworm",
@@ -31354,7 +31365,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121161
+      "UsersEstimate": 121162
     },
     {
       "ID": "Buddy",
@@ -31370,7 +31381,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 48464
+      "UsersEstimate": 48465
     },
     {
       "ID": "Cavalier",
@@ -31378,7 +31389,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201935
+      "UsersEstimate": 201936
     },
     {
       "ID": "Chivalrous",
@@ -31466,7 +31477,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 185780
+      "UsersEstimate": 185781
     },
     {
       "ID": "Fighter",
@@ -31482,7 +31493,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121161
+      "UsersEstimate": 121162
     },
     {
       "ID": "Freud",
@@ -31586,7 +31597,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105006
+      "UsersEstimate": 105007
     },
     {
       "ID": "Judas",
@@ -31746,7 +31757,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161548
+      "UsersEstimate": 161549
     },
     {
       "ID": "RevenantOfLedechko",
@@ -31786,7 +31797,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 161548
+      "UsersEstimate": 161549
     },
     {
       "ID": "SerialKiller",
@@ -31921,15 +31932,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 807741,
+      "Progressed": 807744,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2023-11-09T21:02:44.8784168+00:00",
-  "LastChanged_Achievements": "2023-11-09T23:05:47.864869+00:00",
+  "LastChanged": "2023-11-10T00:02:30.3953109+00:00",
+  "LastChanged_Achievements": "2023-11-10T00:04:16.9111032+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.089213+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:03:13.3942736+00:00",
-  "LastUpdate_Achievements": "2023-11-09T23:05:47.8652217+00:00"
+  "LastUpdate_Ratings": "2023-11-10T00:02:30.3953116+00:00",
+  "LastUpdate_Achievements": "2023-11-10T00:04:16.9464742+00:00"
 }

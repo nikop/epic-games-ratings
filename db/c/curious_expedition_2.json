@@ -676,9 +676,9 @@
       "ID": "ach-pacifist-goals",
       "SetID": "17ih7ma",
       "Name": "Nahua Seeker",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "ach-paleMask-cure",
@@ -813,8 +813,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-09T23:10:36.3715802+00:00",
+  "LastChanged_Achievements": "2023-11-10T00:08:59.9907832+00:00",
   "LastUpdate_AppInfo": "2023-11-04T10:56:59.8670243+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:01:32.6745755+00:00",
-  "LastUpdate_Achievements": "2023-11-09T23:10:36.3716407+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:59:50.5932194+00:00",
+  "LastUpdate_Achievements": "2023-11-10T00:08:59.9908215+00:00"
 }

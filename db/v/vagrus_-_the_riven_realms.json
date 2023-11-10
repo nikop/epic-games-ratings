@@ -2,9 +2,9 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 379,
+  "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 286,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 170,
+  "EOS_Progressed": 172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -626,6 +626,11 @@
       "Time": "2023-11-09T16:14:22.7081407+00:00",
       "NumProgressed": 170,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T00:04:17.6150098+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -637,7 +642,7 @@
       "Name": "Randomized",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -789,7 +794,7 @@
       "Name": "Strategist",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_CombatStrenghtTier3",
@@ -803,9 +808,9 @@
       "ID": "Vanilla_CompanionMaxedOut",
       "SetID": "27kik8p",
       "Name": "Potential Unlocked",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_CompanionSkillsMaxedOut",
@@ -837,7 +842,7 @@
       "Name": "The More the Merrier",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_CompleteAllSideQuests",
@@ -859,9 +864,9 @@
       "ID": "Vanilla_DaneramsGambit",
       "SetID": "27kik8p",
       "Name": "Xevarian Gambit",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_Defeated",
@@ -893,7 +898,7 @@
       "Name": "Harbinger",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_DistantLocationTimed",
@@ -963,9 +968,9 @@
       "ID": "Vanilla_Finndurarth",
       "SetID": "27kik8p",
       "Name": "The Voice of Hereafter",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_FirstFactionTier3",
@@ -1021,7 +1026,7 @@
       "Name": "Been There",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_Garrik",
@@ -1147,9 +1152,9 @@
       "ID": "Vanilla_Nedir",
       "SetID": "27kik8p",
       "Name": "A Terrible Will",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_OddJobs",
@@ -1187,7 +1192,7 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
       "UsersEstimate": 71
     },
@@ -1237,7 +1242,7 @@
       "Name": "Spiritual Journey",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_Scythichnis",
@@ -1251,9 +1256,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 98
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1293,7 +1298,7 @@
       "Name": "Taskmaster",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "Vanilla_TaxEvasion",
@@ -1339,9 +1344,9 @@
       "ID": "Vanilla_TheSourceOfDiscord",
       "SetID": "27kik8p",
       "Name": "Inquisitions of Discord",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "Vanilla_ThreeCurses",
@@ -1428,7 +1433,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 170,
+      "Progressed": 172,
       "Completed": 0
     }
   ],
@@ -1436,8 +1441,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-09T23:05:48.9988977+00:00",
+  "LastChanged_Achievements": "2023-11-10T00:04:17.6150095+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.0695346+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:03:33.9514925+00:00",
-  "LastUpdate_Achievements": "2023-11-09T23:05:48.9990582+00:00"
+  "LastUpdate_Ratings": "2023-11-10T00:02:44.0059771+00:00",
+  "LastUpdate_Achievements": "2023-11-10T00:04:17.6151075+00:00"
 }

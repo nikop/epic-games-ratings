@@ -1695,10 +1695,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 906,
       "NumberOfAwardsMax": 106
+    },
+    {
+      "Time": "2023-11-09T23:59:20.2828306+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 907,
+      "NumberOfAwardsMax": 106
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 906,
+  "NumberOfAwards": 907,
   "NumberOfAwardsMax": 106,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1754,7 +1760,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 93
+      "Count": 94
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1787,9 +1793,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 62940,
+  "EOS_Progressed": 62946,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24092,6 +24098,11 @@
       "Time": "2023-11-09T23:07:44.2583298+00:00",
       "NumProgressed": 62940,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-10T00:05:39.9801189+00:00",
+      "NumProgressed": 62946,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -24103,7 +24114,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 34617
+      "UsersEstimate": 34620
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -24223,7 +24234,7 @@
       "Name": "Developers, Developers, Developers",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15106
+      "UsersEstimate": 15107
     },
     {
       "ID": "VERDUN_ACH_DOUGHBOYS",
@@ -24335,7 +24346,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16364
+      "UsersEstimate": 16366
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -24359,7 +24370,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20141
+      "UsersEstimate": 20143
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -24367,7 +24378,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 25176
+      "UsersEstimate": 25178
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -24391,7 +24402,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 39652
+      "UsersEstimate": 39656
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -24399,7 +24410,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7553
+      "UsersEstimate": 7554
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -24415,7 +24426,7 @@
       "Name": "Basic Training",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 15106
+      "UsersEstimate": 15107
     },
     {
       "ID": "VERDUN_ACH_LEVEL50",
@@ -24423,7 +24434,7 @@
       "Name": "Battle hardened",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "VERDUN_ACH_LEVEL75",
@@ -24447,7 +24458,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15735
+      "UsersEstimate": 15736
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -24471,7 +24482,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 49093
+      "UsersEstimate": 49098
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -24519,7 +24530,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 8182
+      "UsersEstimate": 8183
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -24567,22 +24578,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 23288
+      "UsersEstimate": 23290
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 62940,
+      "Progressed": 62946,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
-  "LastChanged": "2023-11-09T23:00:46.5942866+00:00",
-  "LastChanged_Achievements": "2023-11-09T23:07:44.2583293+00:00",
+  "LastChanged": "2023-11-09T23:59:20.2828304+00:00",
+  "LastChanged_Achievements": "2023-11-10T00:05:39.9801185+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:16.5561604+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:00:46.5942873+00:00",
-  "LastUpdate_Achievements": "2023-11-09T23:07:44.2585545+00:00"
+  "LastUpdate_Ratings": "2023-11-09T23:59:20.282831+00:00",
+  "LastUpdate_Achievements": "2023-11-10T00:05:39.9802655+00:00"
 }
