@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.07% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.58% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.56% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.50% |
@@ -32,9 +32,9 @@
 | 30 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.40% |
 | 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.66% |
 | 32 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
-| 32 | [Seven Doors](games/s/seven_doors.md) | 11.11% |
-| 34 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
-| 35 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.67% |
+| 33 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
+| 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.67% |
+| 35 | [Seven Doors](games/s/seven_doors.md) | 10.53% |
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
 | 37 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 10.00% |
 | 37 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
@@ -67,9 +67,9 @@
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
 | 66 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.47% |
 | 66 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.47% |
-| 68 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
-| 69 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
-| 70 | [Bugsnax](games/b/bugsnax.md) | 4.80% |
+| 68 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
+| 69 | [Bugsnax](games/b/bugsnax.md) | 4.80% |
+| 70 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 71 | [ZZT!](games/z/zzt!.md) | 4.63% |
 | 72 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
 | 73 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
@@ -80,7 +80,7 @@
 | 78 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 79 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 79 | [The Bunker](games/t/the_bunker.md) | 4.17% |
-| 81 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.16% |
+| 81 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.12% |
 | 82 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
 | 83 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.83% |
@@ -120,7 +120,7 @@
 | 118 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.33% |
 | 119 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.25% |
 | 120 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
-| 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
+| 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
 | 122 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.89% |
 | 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
 | 123 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 1.85% |
@@ -232,8 +232,8 @@
 | 230 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 230 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 232 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
-| 233 | [Filament](games/f/filament.md) | 0.26% |
-| 233 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.26% |
+| 232 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.27% |
+| 234 | [Filament](games/f/filament.md) | 0.26% |
 | 235 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 236 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 237 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |

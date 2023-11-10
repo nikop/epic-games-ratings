@@ -626,6 +626,7 @@
 | [The Wild Case](../games/2/21c2551943894e5d92fd8e7f3ed1f58d.md) | 18 | 1,000 |
 | [Trail Of Ayash](../games/5/538efd8138f94b088f2d9e3da178edd6.md) | 18 | 1,000 |
 | [Angelo and Deemon: One Hell of a Quest](../games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 17 | 1,000 |
+| [Arms Race 2](../games/d/d3b4722b35674be186318c5f5e14b13e.md) | 17 | 1,000 |
 | [Bloodshore](../games/b/bloodshore.md) | 17 | 1,000 |
 | [DEEEER Simulator: Your Average Everyday Deer Game](../games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 17 | 1,000 |
 | [Dodo Peak](../games/c/cea01263911a4e179a5e3892ef710930.md) | 17 | 1,000 |
