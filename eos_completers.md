@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.07% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.60% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.58% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.50% |
@@ -65,8 +65,8 @@
 | 63 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 64 | [JARS](games/j/jars.md) | 5.68% |
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
-| 66 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.48% |
-| 67 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.47% |
+| 66 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.47% |
+| 66 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.47% |
 | 68 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
 | 69 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 70 | [Bugsnax](games/b/bugsnax.md) | 4.80% |
@@ -79,8 +79,8 @@
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.45% |
 | 78 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 79 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
-| 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.17% |
 | 79 | [The Bunker](games/t/the_bunker.md) | 4.17% |
+| 81 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.16% |
 | 82 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
 | 83 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.83% |
@@ -158,9 +158,9 @@
 | 156 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
 | 157 | [Sable](games/s/sable.md) | 1.01% |
 | 158 | [Trifox](games/t/trifox.md) | 0.98% |
-| 159 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
-| 160 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.94% |
-| 160 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
+| 159 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.97% |
+| 160 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
+| 161 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.94% |
 | 162 | [Hades](games/h/hades.md) | 0.91% |
 | 163 | [The Devil's Face](games/t/the_devil's_face.md) | 0.90% |
 | 164 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
