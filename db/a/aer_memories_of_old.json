@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23805,
+  "EOS_Progressed": 23807,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 494,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -22298,6 +22298,11 @@
       "Time": "2023-11-10T08:03:52.1756475+00:00",
       "NumProgressed": 23805,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-11-10T09:03:29.1447724+00:00",
+      "NumProgressed": 23807,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 20,
@@ -22333,7 +22338,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2142
+      "UsersEstimate": 2143
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -22349,7 +22354,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2380
+      "UsersEstimate": 2381
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -22429,7 +22434,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18330
+      "UsersEstimate": 18331
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22437,7 +22442,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6427
+      "UsersEstimate": 6428
     },
     {
       "ID": "NORTH_FINISHED",
@@ -22468,15 +22473,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23805,
+      "Progressed": 23807,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-10T08:03:52.1756471+00:00",
+  "LastChanged_Achievements": "2023-11-10T09:03:29.1447719+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.680563+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:58:11.54134+00:00",
-  "LastUpdate_Achievements": "2023-11-10T08:03:52.1757402+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:58:00.4078239+00:00",
+  "LastUpdate_Achievements": "2023-11-10T09:03:29.1449191+00:00"
 }

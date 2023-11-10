@@ -8457,9 +8457,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 807768,
+  "EOS_Progressed": 807770,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 841,
+  "EOS_NewPlayers": 839,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31302,6 +31302,11 @@
       "Time": "2023-11-10T07:05:17.7157676+00:00",
       "NumProgressed": 807768,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-10T09:04:41.4287186+00:00",
+      "NumProgressed": 807770,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -31345,7 +31350,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169631
+      "UsersEstimate": 169632
     },
     {
       "ID": "BadGirl",
@@ -31401,7 +31406,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121165
+      "UsersEstimate": 121166
     },
     {
       "ID": "Buddy",
@@ -31529,7 +31534,7 @@
       "Name": "Firestarter",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 121165
+      "UsersEstimate": 121166
     },
     {
       "ID": "Freud",
@@ -31849,7 +31854,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88854
+      "UsersEstimate": 88855
     },
     {
       "ID": "Sniper",
@@ -31921,7 +31926,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88854
+      "UsersEstimate": 88855
     },
     {
       "ID": "TrialAndError",
@@ -31968,15 +31973,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 807768,
+      "Progressed": 807770,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-10T04:02:41.8972012+00:00",
-  "LastChanged_Achievements": "2023-11-10T08:05:36.6140188+00:00",
+  "LastChanged_Achievements": "2023-11-10T09:04:41.4287184+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.089213+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:03:01.7635553+00:00",
-  "LastUpdate_Achievements": "2023-11-10T08:05:36.614187+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:00:36.3840511+00:00",
+  "LastUpdate_Achievements": "2023-11-10T09:04:41.428922+00:00"
 }

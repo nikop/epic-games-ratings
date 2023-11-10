@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77979,
+  "EOS_Progressed": 77981,
   "EOS_Completed": 833,
   "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 14,
@@ -22902,6 +22902,11 @@
       "Time": "2023-11-10T08:05:37.5792055+00:00",
       "NumProgressed": 77979,
       "NumCompleted": 833
+    },
+    {
+      "Time": "2023-11-10T09:04:42.1460915+00:00",
+      "NumProgressed": 77981,
+      "NumCompleted": 833
     }
   ],
   "TotalAchievements": 25,
@@ -22929,7 +22934,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     },
     {
       "ID": "Audiophile",
@@ -22945,7 +22950,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17155
+      "UsersEstimate": 17156
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -22953,7 +22958,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14036
+      "UsersEstimate": 14037
     },
     {
       "ID": "Butcher",
@@ -23065,7 +23070,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10137
+      "UsersEstimate": 10138
     },
     {
       "ID": "Sniper",
@@ -23112,7 +23117,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 77979,
+      "Progressed": 77981,
       "Completed": 833
     }
   ],
@@ -23120,8 +23125,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-10T08:05:37.579205+00:00",
+  "LastChanged_Achievements": "2023-11-10T09:04:42.1460912+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:57:13.8821464+00:00",
-  "LastUpdate_Achievements": "2023-11-10T08:05:37.5793222+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:57:22.198332+00:00",
+  "LastUpdate_Achievements": "2023-11-10T09:04:42.1462315+00:00"
 }

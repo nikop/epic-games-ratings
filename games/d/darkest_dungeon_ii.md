@@ -6,51 +6,51 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~114,455 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~87,380 |
-| A Clear Conscience | 69.00% | ~84,918 |
-| Unleash Hell | 68.00% | ~83,688 |
-| Unfulfilled Desires | 68.00% | ~83,688 |
-| Funny Guy | 67.00% | ~82,457 |
-| Unshackled | 67.00% | ~82,457 |
-| Long Live the King | 66.00% | ~81,226 |
-| Resurrection | 62.00% | ~76,303 |
-| Wyrdly Reconstructed | 62.00% | ~76,303 |
-| Boxcar Kid | 61.00% | ~75,073 |
-| Rush Hour | 60.00% | ~73,842 |
-| To Grandmother's House | 60.00% | ~73,842 |
-| Serenity Now! | 54.00% | ~66,458 |
-| Hope Rekindled | 50.00% | ~61,535 |
-| Ramble On | 49.00% | ~60,304 |
-| Nope | 49.00% | ~60,304 |
+| A Place to Lay Your Head | 93.00% | ~114,457 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~87,381 |
+| A Clear Conscience | 69.00% | ~84,920 |
+| Unleash Hell | 68.00% | ~83,689 |
+| Unfulfilled Desires | 68.00% | ~83,689 |
+| Funny Guy | 67.00% | ~82,458 |
+| Unshackled | 67.00% | ~82,458 |
+| Long Live the King | 66.00% | ~81,228 |
+| Resurrection | 62.00% | ~76,305 |
+| Wyrdly Reconstructed | 62.00% | ~76,305 |
+| Boxcar Kid | 61.00% | ~75,074 |
+| Rush Hour | 60.00% | ~73,843 |
+| To Grandmother's House | 60.00% | ~73,843 |
+| Serenity Now! | 54.00% | ~66,459 |
+| Hope Rekindled | 50.00% | ~61,536 |
+| Ramble On | 49.00% | ~60,305 |
+| Nope | 49.00% | ~60,305 |
 | This Looks Familiar | 38.00% | ~46,767 |
 | Now Stay Dead | 38.00% | ~46,767 |
-| Harvest Festival | 37.00% | ~45,536 |
-| Merry Time | 36.00% | ~44,305 |
-| Hot Air | 36.00% | ~44,305 |
-| Creep and Sleep | 33.00% | ~40,613 |
-| Overdue Notice | 33.00% | ~40,613 |
-| Whale | 32.00% | ~39,382 |
+| Harvest Festival | 37.00% | ~45,537 |
+| Merry Time | 36.00% | ~44,306 |
+| Hot Air | 36.00% | ~44,306 |
+| Creep and Sleep | 33.00% | ~40,614 |
+| Overdue Notice | 33.00% | ~40,614 |
+| Whale | 32.00% | ~39,383 |
 | Banishment | 31.00% | ~38,152 |
-| FNG | 30.00% | ~36,921 |
+| FNG | 30.00% | ~36,922 |
 | Predator | 25.00% | ~30,768 |
 | Reverse Banditry | 25.00% | ~30,768 |
 | Autodidact | 25.00% | ~30,768 |
-| Meat and Greet | 23.00% | ~28,306 |
-| Spelunker | 22.00% | ~27,075 |
-| Road Trip | 22.00% | ~27,075 |
+| Meat and Greet | 23.00% | ~28,307 |
+| Spelunker | 22.00% | ~27,076 |
+| Road Trip | 22.00% | ~27,076 |
 | Eyes Up | 21.00% | ~25,845 |
 | It Rings a Bell | 20.00% | ~24,614 |
 | Dissector | 18.00% | ~22,153 |
 | Escape from the Black Hole | 18.00% | ~22,153 |
 | It Happens | 17.00% | ~20,922 |
-| This Belongs in a Museum | 16.00% | ~19,691 |
-| Handled | 16.00% | ~19,691 |
-| Catch and Decease | 15.00% | ~18,460 |
+| This Belongs in a Museum | 16.00% | ~19,692 |
+| Handled | 16.00% | ~19,692 |
+| Catch and Decease | 15.00% | ~18,461 |
 | Deprogramming | 14.00% | ~17,230 |
 | Not Today! | 13.00% | ~15,999 |
-| Shrine of Reflection | 12.00% | ~14,768 |
-| When You Want Something Done Right | 12.00% | ~14,768 |
+| Shrine of Reflection | 12.00% | ~14,769 |
+| When You Want Something Done Right | 12.00% | ~14,769 |
 | Body of Work | 10.00% | ~12,307 |
 | Utopia | 9.00% | ~11,076 |
 | Hat Trick | 7.00% | ~8,615 |
@@ -65,14 +65,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 1.00% | ~1,231 |
 | Grand Slam | 1.00% | ~1,231 |
 | Circle of Life | 0.80% | ~985 |
-| Tears in the Rain | 0.70% | ~861 |
+| Tears in the Rain | 0.70% | ~862 |
 | 20,000 Leagues Above the Sea | 0.20% | ~246 |
 | The Clash | 0.20% | ~246 |
 | Hard Mode | 0.20% | ~246 |
 | Loop Year | 0.10% | ~123 |
 | No Gravestone Left Unturned | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,070 (Ranked 83)  
+Progressed: 123,072 (Ranked 83)  
 Completed: 1 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 1 (0.00%) (Ranked 346)
 | 2023-11-07 | 122,788 | 1 |
 | 2023-11-08 | 122,926 | 1 |
 | 2023-11-09 | 123,039 | 1 |
-| 2023-11-10 | 123,070 | 1 |
+| 2023-11-10 | 123,072 | 1 |
 ## Awards
 Max (Character Customization): 7,499  (Ranked 51)  
 Sum: 19,707 (Ranked 59)  

@@ -6,21 +6,21 @@ Rating: 4.69 (Ranked 230)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Getting on the Step | 92.00% | ~5,077 |
-| On the Top Step | 85.00% | ~4,690 |
-| Setting up for Success | 74.00% | ~4,083 |
-| Team Orders | 73.00% | ~4,028 |
+| On the Top Step | 85.00% | ~4,691 |
+| Setting up for Success | 74.00% | ~4,084 |
+| Team Orders | 73.00% | ~4,029 |
 | Engineer | 53.00% | ~2,925 |
-| Familiar Faces | 46.00% | ~2,538 |
-| Going the Extra Mile | 41.00% | ~2,262 |
+| Familiar Faces | 46.00% | ~2,539 |
+| Going the Extra Mile | 41.00% | ~2,263 |
 | Sharing the Love | 39.00% | ~2,152 |
 | Hitting a Season | 33.00% | ~1,821 |
-| Challenge Yourself | 30.00% | ~1,655 |
-| Making History | 30.00% | ~1,655 |
-| A Dozen Pieces | 29.00% | ~1,600 |
-| Network Success | 24.00% | ~1,324 |
-| Writing a new Chapter | 24.00% | ~1,324 |
+| Challenge Yourself | 30.00% | ~1,656 |
+| Making History | 30.00% | ~1,656 |
+| A Dozen Pieces | 29.00% | ~1,601 |
+| Network Success | 24.00% | ~1,325 |
+| Writing a new Chapter | 24.00% | ~1,325 |
 | Spring Cleaning | 22.00% | ~1,214 |
-| Reduce | 19.00% | ~1,048 |
+| Reduce | 19.00% | ~1,049 |
 | Ups and Downs | 18.00% | ~993 |
 | Crucial Combo | 17.00% | ~938 |
 | Reuse | 15.00% | ~828 |
@@ -37,7 +37,7 @@ Rating: 4.69 (Ranked 230)
 | Recycle | 11.00% | ~607 |
 | Friendly Competition | 10.00% | ~552 |
 | Tinkerer | 9.00% | ~497 |
-| Undisputed Winner | 8.00% | ~441 |
+| Undisputed Winner | 8.00% | ~442 |
 | Living up to Expectations | 6.00% | ~331 |
 | Smooth Operator | 6.00% | ~331 |
 | For all Those Back at the Factory | 5.00% | ~276 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 230)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,518 (Ranked 182)  
+Progressed: 5,519 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,14 +113,14 @@ Completed: 0 (0.00%) (Ranked 346)
 | 2023-11-07 | 5,352 | 0 |
 | 2023-11-08 | 5,432 | 0 |
 | 2023-11-09 | 5,500 | 0 |
-| 2023-11-10 | 5,518 | 0 |
+| 2023-11-10 | 5,519 | 0 |
 ## Awards
-Max (Great for Beginners): 25  (Ranked 515)  
-Sum: 49 (Ranked 481)  
-Diff (max vs sum): 34  
+Max (Great for Beginners): 26  (Ranked 512)  
+Sum: 50 (Ranked 480)  
+Diff (max vs sum): 32  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 25 |
+| This game is Great for Beginners | 26 |
 | This game is Great for Quick Sessions | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -188,3 +188,4 @@ Diff (max vs sum): 34
 | 2023-11-04 | 4.68 | 24 | 45 |
 | 2023-11-05 | 4.68 | 24 | 47 |
 | 2023-11-09 | 4.69 | 25 | 49 |
+| 2023-11-10 | 4.69 | 26 | 50 |

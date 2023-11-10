@@ -561,9 +561,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3365,
+  "EOS_Progressed": 3366,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4671,6 +4671,11 @@
       "Time": "2023-11-10T08:06:37.1407275+00:00",
       "NumProgressed": 3365,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T09:05:24.2082592+00:00",
+      "NumProgressed": 3366,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4699,7 +4704,7 @@
       "Name": "Big Spender",
       "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "achievement_12",
@@ -4723,7 +4728,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "achievement_15",
@@ -4779,7 +4784,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1918
+      "UsersEstimate": 1919
     },
     {
       "ID": "achievement_21",
@@ -4819,7 +4824,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "achievement_7",
@@ -4850,7 +4855,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3365,
+      "Progressed": 3366,
       "Completed": 0
     }
   ],
@@ -4858,8 +4863,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-09T22:04:22.9317958+00:00",
-  "LastChanged_Achievements": "2023-11-10T08:06:37.140727+00:00",
+  "LastChanged_Achievements": "2023-11-10T09:05:24.2082588+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:01:19.5010993+00:00",
-  "LastUpdate_Achievements": "2023-11-10T08:06:37.1407608+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:57:16.3295821+00:00",
+  "LastUpdate_Achievements": "2023-11-10T09:05:24.2082955+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 230,
-  "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 481,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 480,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 74,
@@ -445,18 +445,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 49,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-11-10T08:59:04.1925492+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 50,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 49,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 50,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 25
+      "Count": 26
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -465,9 +471,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 5518,
+  "EOS_Progressed": 5519,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1118,
+  "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5105,6 +5111,11 @@
       "Time": "2023-11-10T08:08:31.0146771+00:00",
       "NumProgressed": 5518,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T09:06:44.3235863+00:00",
+      "NumProgressed": 5519,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5157,7 +5168,7 @@
       "Name": "Setting up for Success",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "achievement_0007",
@@ -5173,7 +5184,7 @@
       "Name": "On the Top Step",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "achievement_0009",
@@ -5189,7 +5200,7 @@
       "Name": "Network Success",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "achievement_0011",
@@ -5261,7 +5272,7 @@
       "Name": "Undisputed Winner",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "achievement_0020",
@@ -5277,7 +5288,7 @@
       "Name": "Team Orders",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 4028
+      "UsersEstimate": 4029
     },
     {
       "ID": "achievement_0022",
@@ -5285,7 +5296,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "achievement_0023",
@@ -5341,7 +5352,7 @@
       "Name": "Reduce",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "achievement_0030",
@@ -5381,7 +5392,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "achievement_0035",
@@ -5453,7 +5464,7 @@
       "Name": "Familiar Faces",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2538
+      "UsersEstimate": 2539
     },
     {
       "ID": "achievement_0044",
@@ -5461,7 +5472,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2262
+      "UsersEstimate": 2263
     },
     {
       "ID": "achievement_0045",
@@ -5469,7 +5480,7 @@
       "Name": "Making History",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "achievement_0046",
@@ -5477,7 +5488,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1324
+      "UsersEstimate": 1325
     },
     {
       "ID": "achievement_0047",
@@ -5508,16 +5519,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5518,
+      "Progressed": 5519,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2023-11-09T22:02:11.3078967+00:00",
-  "LastChanged_Achievements": "2023-11-10T08:08:31.0146767+00:00",
+  "LastChanged": "2023-11-10T08:59:04.192549+00:00",
+  "LastChanged_Achievements": "2023-11-10T09:06:44.323586+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.9013209+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:59:46.9580319+00:00",
-  "LastUpdate_Achievements": "2023-11-10T08:08:31.0147238+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:59:04.1925495+00:00",
+  "LastUpdate_Achievements": "2023-11-10T09:06:44.3236512+00:00"
 }

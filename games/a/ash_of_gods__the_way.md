@@ -20,11 +20,11 @@
 | Surpass the teacher | 12.00% | ~4 |
 | Rage | 12.00% | ~4 |
 | Protect the Healer! | 12.00% | ~4 |
+| Help of the Gell | 12.00% | ~4 |
 | She-Wolf | 12.00% | ~4 |
 | Overplay the rogue | 9.00% | ~3 |
 | Berkanan Borgia | 9.00% | ~3 |
 | By own strength | 9.00% | ~3 |
-| Help of the Gell | 9.00% | ~3 |
 | Trial by cold | 9.00% | ~3 |
 | For the greater good | 6.00% | ~2 |
 | The best apprentice | 6.00% | ~2 |

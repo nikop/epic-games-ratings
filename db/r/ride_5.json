@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -5056,8 +5056,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-10T08:10:04.4364875+00:00",
+  "LastChanged_Achievements": "2023-11-10T09:09:29.784424+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:58:20.5801673+00:00",
-  "LastUpdate_Achievements": "2023-11-10T08:10:04.4365837+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:58:06.4937127+00:00",
+  "LastUpdate_Achievements": "2023-11-10T09:09:29.7844837+00:00"
 }

@@ -6,33 +6,33 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~70,530 |
-| Zealous | 6.00% | ~60,455 |
-| Skillful | 6.00% | ~60,455 |
-| Not half bad | 5.00% | ~50,379 |
-| Apt Survivor | 5.00% | ~50,379 |
-| Make Some Noise | 5.00% | ~50,379 |
-| No one left behind | 4.00% | ~40,303 |
-| Medic | 4.00% | ~40,303 |
-| Handyman | 4.00% | ~40,303 |
-| Survival Treasures | 4.00% | ~40,303 |
-| I | 4.00% | ~40,303 |
-| Sorted | 4.00% | ~40,303 |
-| Resurgence | 4.00% | ~40,303 |
-| The Grand Sacrifice | 3.00% | ~30,227 |
-| Agonizing Escape | 3.00% | ~30,227 |
-| Backdoor Escape | 3.00% | ~30,227 |
-| I've got your back | 3.00% | ~30,227 |
-| Perfect Escape | 3.00% | ~30,227 |
-| Perfect Killing | 3.00% | ~30,227 |
-| Bloody Millionaire | 3.00% | ~30,227 |
-| Risk it all | 3.00% | ~30,227 |
-| II | 3.00% | ~30,227 |
-| Engineer | 3.00% | ~30,227 |
-| Healthy Obsession | 3.00% | ~30,227 |
-| Close Shave | 3.00% | ~30,227 |
-| Preemptive Strike | 3.00% | ~30,227 |
-| Humanitarian | 3.00% | ~30,227 |
+| It wakes | 7.00% | ~70,533 |
+| Zealous | 6.00% | ~60,457 |
+| Skillful | 6.00% | ~60,457 |
+| Not half bad | 5.00% | ~50,381 |
+| Apt Survivor | 5.00% | ~50,381 |
+| Make Some Noise | 5.00% | ~50,381 |
+| No one left behind | 4.00% | ~40,305 |
+| Medic | 4.00% | ~40,305 |
+| Handyman | 4.00% | ~40,305 |
+| Survival Treasures | 4.00% | ~40,305 |
+| I | 4.00% | ~40,305 |
+| Sorted | 4.00% | ~40,305 |
+| Resurgence | 4.00% | ~40,305 |
+| The Grand Sacrifice | 3.00% | ~30,228 |
+| Agonizing Escape | 3.00% | ~30,228 |
+| Backdoor Escape | 3.00% | ~30,228 |
+| I've got your back | 3.00% | ~30,228 |
+| Perfect Escape | 3.00% | ~30,228 |
+| Perfect Killing | 3.00% | ~30,228 |
+| Bloody Millionaire | 3.00% | ~30,228 |
+| Risk it all | 3.00% | ~30,228 |
+| II | 3.00% | ~30,228 |
+| Engineer | 3.00% | ~30,228 |
+| Healthy Obsession | 3.00% | ~30,228 |
+| Close Shave | 3.00% | ~30,228 |
+| Preemptive Strike | 3.00% | ~30,228 |
+| Humanitarian | 3.00% | ~30,228 |
 | Blood on your hands | 2.00% | ~20,152 |
 | Escape Artist | 2.00% | ~20,152 |
 | Made it out alive! | 2.00% | ~20,152 |
@@ -87,10 +87,10 @@ Number of Ratings: 70,340  (23.09.2022)
 | Complete the Evolution | 1.00% | ~10,076 |
 | Extraterrestrial | 1.00% | ~10,076 |
 | MU/TH/UR Dearest | 1.00% | ~10,076 |
-| Jump Scares | 0.90% | ~9,068 |
-| Game Over | 0.90% | ~9,068 |
-| Broken Bodies | 0.90% | ~9,068 |
-| Kitted Out | 0.90% | ~9,068 |
+| Jump Scares | 0.90% | ~9,069 |
+| Game Over | 0.90% | ~9,069 |
+| Broken Bodies | 0.90% | ~9,069 |
+| Kitted Out | 0.90% | ~9,069 |
 | Deep Cleansing | 0.80% | ~8,061 |
 | Texas BBQ | 0.80% | ~8,061 |
 | Party Crasher | 0.80% | ~8,061 |
@@ -101,9 +101,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Punch Drunk | 0.70% | ~7,053 |
 | Prowler | 0.70% | ~7,053 |
 | Triage | 0.70% | ~7,053 |
-| Blood in your mouth | 0.60% | ~6,045 |
-| Whiffing to Success | 0.60% | ~6,045 |
-| Power Moves | 0.60% | ~6,045 |
+| Blood in your mouth | 0.60% | ~6,046 |
+| Whiffing to Success | 0.60% | ~6,046 |
+| Power Moves | 0.60% | ~6,046 |
 | Looter | 0.50% | ~5,038 |
 | Death of Ignorance | 0.50% | ~5,038 |
 | Hack the Mainframe | 0.50% | ~5,038 |
@@ -236,7 +236,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Xenomorph | 0.10% | ~1,008 |
 | Adept Ripley | 0.10% | ~1,008 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,007,576 (Ranked 14)  
+Progressed: 1,007,613 (Ranked 14)  
 Completed: 53 (0.01%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -440,7 +440,7 @@ Completed: 53 (0.01%) (Ranked 322)
 | 2023-11-07 | 1,002,710 | 52 |
 | 2023-11-08 | 1,004,632 | 52 |
 | 2023-11-09 | 1,006,859 | 53 |
-| 2023-11-10 | 1,007,576 | 53 |
+| 2023-11-10 | 1,007,613 | 53 |
 ## Awards
 Max (Diverse Characters): 35,702  (Ranked 15)  
 Sum: 273,467 (Ranked 13)  

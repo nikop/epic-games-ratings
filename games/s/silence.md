@@ -12,7 +12,7 @@
 | Keep away from children | 38.00% | ~57 |
 | Open up wide | 36.00% | ~54 |
 | Wooooooow! | 36.00% | ~54 |
-| Artistic fool | 33.00% | ~49 |
+| Artistic fool | 34.00% | ~51 |
 | Let the boot talk | 32.00% | ~48 |
 | Shadow on the wall | 27.00% | ~40 |
 | Chapter II | 26.00% | ~39 |

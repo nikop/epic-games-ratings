@@ -4,7 +4,7 @@
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
@@ -319,9 +319,9 @@
       "ID": "beebot",
       "SetID": "94981fl",
       "Name": "bee bot",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "destroy_battle_cruiser",
@@ -335,25 +335,25 @@
       "ID": "destroy_cruiser",
       "SetID": "94981fl",
       "Name": "Cruiser",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "destroy_destroyer",
       "SetID": "94981fl",
       "Name": "Destroyer",
-      "Percentage": 32,
+      "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "destroy_frigate",
       "SetID": "94981fl",
       "Name": "Frigate",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "destroy_heavy_cruiser",
@@ -367,9 +367,9 @@
       "ID": "destroy_heavy_destroyer",
       "SetID": "94981fl",
       "Name": "heavy destroyer",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "destroy_heavy_frigate",
@@ -383,17 +383,17 @@
       "ID": "double_orbs",
       "SetID": "94981fl",
       "Name": "double orbs",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "double_score",
       "SetID": "94981fl",
       "Name": "double score",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "invincible",
@@ -415,145 +415,145 @@
       "ID": "laserbot",
       "SetID": "94981fl",
       "Name": "laserbot",
-      "Percentage": 7,
-      "XP": 15,
-      "UsersEstimate": 4
-    },
-    {
-      "ID": "machinegun",
-      "SetID": "94981fl",
-      "Name": "machine gun",
       "Percentage": 9,
       "XP": 15,
       "UsersEstimate": 5
     },
     {
-      "ID": "max_hp",
+      "ID": "machinegun",
       "SetID": "94981fl",
-      "Name": "MAX HP!",
-      "Percentage": 14,
-      "XP": 15,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "missile",
-      "SetID": "94981fl",
-      "Name": "missile",
-      "Percentage": 21,
-      "XP": 15,
-      "UsersEstimate": 12
-    },
-    {
-      "ID": "no_scratches",
-      "SetID": "94981fl",
-      "Name": "no scratches!",
-      "Percentage": 14,
-      "XP": 100,
-      "UsersEstimate": 8
-    },
-    {
-      "ID": "plasmagun",
-      "SetID": "94981fl",
-      "Name": "plasma gun",
+      "Name": "machine gun",
       "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 6
     },
     {
+      "ID": "max_hp",
+      "SetID": "94981fl",
+      "Name": "MAX HP!",
+      "Percentage": 16,
+      "XP": 15,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "missile",
+      "SetID": "94981fl",
+      "Name": "missile",
+      "Percentage": 23,
+      "XP": 15,
+      "UsersEstimate": 13
+    },
+    {
+      "ID": "no_scratches",
+      "SetID": "94981fl",
+      "Name": "no scratches!",
+      "Percentage": 16,
+      "XP": 100,
+      "UsersEstimate": 9
+    },
+    {
+      "ID": "plasmagun",
+      "SetID": "94981fl",
+      "Name": "plasma gun",
+      "Percentage": 13,
+      "XP": 15,
+      "UsersEstimate": 7
+    },
+    {
       "ID": "resistance",
       "SetID": "94981fl",
       "Name": "resistance",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "shield",
       "SetID": "94981fl",
       "Name": "shield",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "snipergun",
       "SetID": "94981fl",
       "Name": "sniper gun",
-      "Percentage": 7,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "space_car",
       "SetID": "94981fl",
       "Name": "space car!",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "super_combo_10x",
       "SetID": "94981fl",
       "Name": "super combo",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "super_gun",
       "SetID": "94981fl",
       "Name": "super gun",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "super_killing_machine",
       "SetID": "94981fl",
       "Name": "super killing machine",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "super_shield",
       "SetID": "94981fl",
       "Name": "super shield",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "the_magneto",
       "SetID": "94981fl",
       "Name": "the magneto",
-      "Percentage": 71,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "the_number_one",
       "SetID": "94981fl",
       "Name": "Top!",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 145,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ultra_combo_20x",
       "SetID": "94981fl",
       "Name": "ultra_combo",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ultra_killing_machine",
       "SetID": "94981fl",
       "Name": "ultra killing machine",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 60,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
@@ -566,8 +566,8 @@
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-11-10T08:04:21.0988232+00:00",
+  "LastChanged_Achievements": "2023-11-10T09:03:49.1749603+00:00",
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.0361951+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:01:33.8494856+00:00",
-  "LastUpdate_Achievements": "2023-11-10T08:04:21.0988472+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:00:12.5918805+00:00",
+  "LastUpdate_Achievements": "2023-11-10T09:03:49.1749879+00:00"
 }

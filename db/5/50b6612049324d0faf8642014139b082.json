@@ -237,9 +237,9 @@
       "ID": "achievement_13",
       "SetID": "jnappp",
       "Name": "Long Haul Hero",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "achievement_14",
@@ -261,9 +261,9 @@
       "ID": "achievement_16",
       "SetID": "jnappp",
       "Name": "Class Act",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "achievement_17",
@@ -420,8 +420,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-10T08:09:47.0144633+00:00",
+  "LastChanged_Achievements": "2023-11-10T09:09:17.3045077+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:57:20.7352236+00:00",
-  "LastUpdate_Achievements": "2023-11-10T08:09:47.0144808+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:57:26.6484008+00:00",
+  "LastUpdate_Achievements": "2023-11-10T09:09:17.3045236+00:00"
 }

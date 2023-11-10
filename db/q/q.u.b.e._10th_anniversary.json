@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 39,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 7,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -160,9 +160,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17667,
+  "EOS_Progressed": 17678,
   "EOS_Completed": 39,
-  "EOS_NewPlayers": 2766,
+  "EOS_NewPlayers": 2765,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -2675,6 +2675,11 @@
       "Time": "2023-11-10T08:09:44.8136327+00:00",
       "NumProgressed": 17667,
       "NumCompleted": 39
+    },
+    {
+      "Time": "2023-11-10T09:09:15.7797923+00:00",
+      "NumProgressed": 17678,
+      "NumCompleted": 39
     }
   ],
   "TotalAchievements": 24,
@@ -2718,7 +2723,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ACH_Finale",
@@ -2798,7 +2803,7 @@
       "Name": "Master Room",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_S8MaxPoints",
@@ -2814,7 +2819,7 @@
       "Name": "Sector 1",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1943
+      "UsersEstimate": 1945
     },
     {
       "ID": "ACH_Sector2",
@@ -2822,7 +2827,7 @@
       "Name": "Sector 2",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1767
+      "UsersEstimate": 1768
     },
     {
       "ID": "ACH_Sector3",
@@ -2830,7 +2835,7 @@
       "Name": "Sector 3",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1590
+      "UsersEstimate": 1591
     },
     {
       "ID": "ACH_Sector4",
@@ -2846,7 +2851,7 @@
       "Name": "Sector 5",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH_Sector6",
@@ -2870,14 +2875,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 17667,
+      "Progressed": 17678,
       "Completed": 39
     }
   ],
@@ -2885,8 +2890,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-08T11:01:26.018295+00:00",
-  "LastChanged_Achievements": "2023-11-10T08:09:44.813632+00:00",
+  "LastChanged_Achievements": "2023-11-10T09:09:15.779792+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:46.5183282+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:01:40.0267084+00:00",
-  "LastUpdate_Achievements": "2023-11-10T08:09:44.8136613+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:00:16.6635464+00:00",
+  "LastUpdate_Achievements": "2023-11-10T09:09:15.7798248+00:00"
 }

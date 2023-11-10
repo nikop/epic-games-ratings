@@ -19,8 +19,8 @@ Rating: 3.51 (Ranked 1,036)
 | ICU | 1.00% | ~18 |
 | Sucks To Be You | 1.00% | ~18 |
 | Wounded Whispers | 1.00% | ~18 |
+| Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
-| Heart Attack | 0.90% | ~16 |
 | Neighborhood Revitalization | 0.80% | ~14 |
 | Radio Silence | 0.80% | ~14 |
 | Bad Wiring | 0.70% | ~12 |

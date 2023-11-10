@@ -26,10 +26,10 @@
 | True Reflection | 10.00% | ~6 |
 | A new way | 8.00% | ~5 |
 | Another perspective | 8.00% | ~5 |
+| Heavy Burden | 8.00% | ~5 |
 | Lights! Camera! Action! | 8.00% | ~5 |
 | Whispers long forgotten | 8.00% | ~5 |
 | Sound Bite | 7.00% | ~4 |
-| Heavy Burden | 7.00% | ~4 |
 | Casting Finished | 5.00% | ~3 |
 | We Are Not Alone | 5.00% | ~3 |
 | Something to think about | 3.00% | ~2 |

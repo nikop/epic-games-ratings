@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,919 |
+| V for Vendetta | 2.00% | ~17,920 |
 | Gun Fu | 1.00% | ~8,960 |
 | Relic Ruler | 0.80% | ~197 |
 | Full Body Conversion | 0.50% | ~4,480 |
@@ -25,6 +25,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.30% | ~2,688 |
 | The World | 0.30% | ~2,688 |
 | True Warrior | 0.30% | ~2,688 |
+| Judy vs Night City | 0.30% | ~2,688 |
 | Legend of The Afterlife | 0.30% | ~2,688 |
 | Spin Doctor | 0.30% | ~74 |
 | To Protect and Serve | 0.20% | ~1,792 |
@@ -33,7 +34,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.20% | ~1,792 |
 | The Fool | 0.20% | ~1,792 |
 | Two Heads, One Bullet | 0.20% | ~1,792 |
-| Judy vs Night City | 0.20% | ~1,792 |
 | King of Wands | 0.20% | ~49 |
 | Dirty Deeds | 0.20% | ~49 |
 | Easy Come, Easy Go | 0.20% | ~49 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,968 (Ranked 15)  
+Progressed: 895,978 (Ranked 15)  
 Completed: 2,760 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,10 +278,10 @@ Completed: 2,760 (0.31%) (Ranked 224)
 | 2023-11-07 | 895,712 | 2,753 |
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
-| 2023-11-10 | 895,968 | 2,760 |
+| 2023-11-10 | 895,978 | 2,760 |
 ## Awards
 Max (Character Customization): 104,676  (Ranked 9)  
-Sum: 347,831 (Ranked 10)  
+Sum: 347,914 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -292,7 +292,7 @@ Diff (max vs sum): -1
 | This game is Highly Recommended | 19,563 |
 | This game has Amazing Storytelling | 19,432 |
 | This game is Extremely Fun | 19,220 |
-| This game has Amazing Characters | 19,004 |
+| This game has Amazing Characters | 19,087 |
 | This game is Relaxing | 18,311 |
 | This game has Quickly Understood Controls | 18,295 |
 | This game has a Creative Community | 12,694 |
@@ -594,4 +594,4 @@ Diff (max vs sum): -1
 | 2023-11-07 | 4.64 | - | 104,395 | 345,617 |
 | 2023-11-08 | 4.64 | - | 104,529 | 346,547 |
 | 2023-11-09 | 4.64 | - | 104,676 | 347,471 |
-| 2023-11-10 | 4.64 | - | 104,676 | 347,831 |
+| 2023-11-10 | 4.64 | - | 104,676 | 347,914 |

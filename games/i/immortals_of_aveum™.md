@@ -16,8 +16,8 @@ Rating: 4.02 (Ranked 986)
 | Soldier | 28.00% | ~65 |
 | All the Major Food Groups | 28.00% | ~65 |
 | Socialite | 27.00% | ~63 |
+| Control is an Illusion | 24.00% | ~56 |
 | Beggars Would Ride | 24.00% | ~56 |
-| Control is an Illusion | 23.00% | ~54 |
 | The Means to Save It | 20.00% | ~47 |
 | Resilience to Sin | 18.00% | ~42 |
 | A Familiar Nest | 17.00% | ~40 |
@@ -54,7 +54,7 @@ Rating: 4.02 (Ranked 986)
 | Fowl Play | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 233 (Ranked 356)  
-Completed: 1 (0.43%) (Ranked 206)  
+Completed: 1 (0.43%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -14,7 +14,7 @@
 | Your War is Over | 83.00% | ~146 |
 | The Starry Night | 78.00% | ~137 |
 | Go Home! | 77.00% | ~136 |
-| Brilliant: Meadowshire | 74.00% | ~130 |
+| Brilliant: Meadowshire | 75.00% | ~132 |
 | Look After the Pence... | 74.00% | ~130 |
 | Drunken Master | 74.00% | ~130 |
 | Sergeant of the Evil | 74.00% | ~130 |
