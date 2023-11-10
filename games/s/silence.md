@@ -6,14 +6,14 @@
 | ---- | ---------- | ----- |
 | Chapter I | 53.00% | ~79 |
 | Fire in the... nevermind | 53.00% | ~79 |
-| Haute cuisine | 47.00% | ~70 |
+| Haute cuisine | 48.00% | ~72 |
 | Demolition expert | 40.00% | ~60 |
 | I didn't do it! | 40.00% | ~60 |
 | Keep away from children | 38.00% | ~57 |
 | Open up wide | 36.00% | ~54 |
 | Wooooooow! | 36.00% | ~54 |
 | Artistic fool | 33.00% | ~49 |
-| Let the boot talk | 31.00% | ~46 |
+| Let the boot talk | 32.00% | ~48 |
 | Shadow on the wall | 27.00% | ~40 |
 | Chapter II | 26.00% | ~39 |
 | Handyman | 23.00% | ~34 |

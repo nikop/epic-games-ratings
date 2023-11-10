@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18812,
+  "EOS_Progressed": 18813,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12768,6 +12768,11 @@
       "Time": "2023-11-10T01:47:32.1724579+00:00",
       "NumProgressed": 18812,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-10T05:03:14.7554778+00:00",
+      "NumProgressed": 18813,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12819,7 +12824,7 @@
       "Name": "Chief Information Officer",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "0007",
@@ -12851,7 +12856,7 @@
       "Name": "Social of Solace",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 752
+      "UsersEstimate": 753
     },
     {
       "ID": "0011",
@@ -12979,7 +12984,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "0027",
@@ -13043,7 +13048,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "0035",
@@ -13066,7 +13071,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18812,
+      "Progressed": 18813,
       "Completed": 4
     }
   ],
@@ -13074,8 +13079,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:03:13.1750566+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:03:14.7554772+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.0347505+00:00",
-  "LastUpdate_Ratings": "2023-11-10T04:00:24.6501584+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:03:13.1751442+00:00"
+  "LastUpdate_Ratings": "2023-11-10T05:00:39.5901273+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:03:14.7555833+00:00"
 }

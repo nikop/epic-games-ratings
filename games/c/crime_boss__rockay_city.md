@@ -16,11 +16,11 @@ Rating: 3.95 (Ranked 1,004)
 | Off the Rocks | 1.00% | ~901 |
 | Raider’s Ruin | 1.00% | ~901 |
 | Dragonslayer | 1.00% | ~901 |
-| Case Closed | 0.90% | ~810 |
-| Rockay Rex | 0.90% | ~810 |
+| Case Closed | 0.90% | ~811 |
+| Rockay Rex | 0.90% | ~811 |
 | Hidden Sonata | 0.70% | ~630 |
+| Track Star | 0.70% | ~630 |
 | True Player | 0.70% | ~630 |
-| Track Star | 0.60% | ~540 |
 | Headhunter | 0.60% | ~540 |
 | I Like Trains | 0.50% | ~450 |
 | Legend Looter | 0.40% | ~360 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,052 (Ranked 91)  
+Progressed: 90,056 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,16 +251,16 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-07 | 89,646 | 55 |
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
-| 2023-11-10 | 90,052 | 55 |
+| 2023-11-10 | 90,056 | 55 |
 ## Awards
 Max (Diverse Characters): 523  (Ranked 204)  
-Sum: 2,977 (Ranked 175)  
+Sum: 2,979 (Ranked 175)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 523 |
 | This game is Highly Recommended | 508 |
-| This game has Quickly Understood Controls | 496 |
+| This game has Quickly Understood Controls | 498 |
 | This game has Challenging Combat | 489 |
 | This game is Extremely Fun | 486 |
 | This game has Amazing Characters | 475 |
@@ -492,4 +492,4 @@ Diff (max vs sum): 29
 | 2023-11-07 | 3.95 | 522 | 2,964 |
 | 2023-11-08 | 3.95 | 522 | 2,970 |
 | 2023-11-09 | 3.95 | 523 | 2,973 |
-| 2023-11-10 | 3.95 | 523 | 2,977 |
+| 2023-11-10 | 3.95 | 523 | 2,979 |

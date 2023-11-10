@@ -4,7 +4,7 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 934,
   "Ranking_Popularity": 379,
-  "Ranking_PopularitySum": 356,
+  "Ranking_PopularitySum": 357,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 305,
   "Ranking_EOS_NewPlayers": 98,
@@ -1005,9 +1005,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66222,
+  "EOS_Progressed": 66225,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 667,
+  "EOS_NewPlayers": 668,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8540,6 +8540,11 @@
       "Time": "2023-11-10T04:04:37.0489757+00:00",
       "NumProgressed": 66222,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-10T05:04:48.3155896+00:00",
+      "NumProgressed": 66225,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8552,7 +8557,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 21853
+      "UsersEstimate": 21854
     },
     {
       "ID": "10",
@@ -8592,7 +8597,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3973
+      "UsersEstimate": 3974
     },
     {
       "ID": "15",
@@ -8648,7 +8653,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3973
+      "UsersEstimate": 3974
     },
     {
       "ID": "7",
@@ -8679,7 +8684,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66222,
+      "Progressed": 66225,
       "Completed": 29
     }
   ],
@@ -8687,8 +8692,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-09T11:58:09.1287061+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:04:37.0489752+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:04:48.3155891+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-10T03:58:35.0209132+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:04:37.0490247+00:00"
+  "LastUpdate_Ratings": "2023-11-10T04:58:39.2318206+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:04:48.3156438+00:00"
 }

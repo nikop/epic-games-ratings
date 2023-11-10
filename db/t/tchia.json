@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7702,
+  "EOS_Progressed": 7703,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7934,6 +7934,11 @@
       "Time": "2023-11-09T19:14:04.8440518+00:00",
       "NumProgressed": 7702,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-10T05:06:18.9469783+00:00",
+      "NumProgressed": 7703,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -7993,7 +7998,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8049,7 +8054,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1617
+      "UsersEstimate": 1618
     },
     {
       "ID": "LIBERATOR",
@@ -8112,7 +8117,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7702,
+      "Progressed": 7703,
       "Completed": 34
     }
   ],
@@ -8120,8 +8125,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:05:58.3615107+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:06:18.9469778+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.1922608+00:00",
-  "LastUpdate_Ratings": "2023-11-10T03:58:42.4942799+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:05:58.3615669+00:00"
+  "LastUpdate_Ratings": "2023-11-10T04:58:47.4212918+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:06:18.9470391+00:00"
 }

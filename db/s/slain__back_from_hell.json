@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40069,
+  "EOS_Progressed": 40070,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 401,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22568,6 +22568,11 @@
       "Time": "2023-11-10T04:04:48.2651704+00:00",
       "NumProgressed": 40069,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-10T05:05:00.8759239+00:00",
+      "NumProgressed": 40070,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22587,7 +22592,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8414
+      "UsersEstimate": 8415
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -22651,7 +22656,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2003
+      "UsersEstimate": 2004
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -22810,7 +22815,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40069,
+      "Progressed": 40070,
       "Completed": 26
     }
   ],
@@ -22818,8 +22823,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:04:48.2651699+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:05:00.8759234+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.8126355+00:00",
-  "LastUpdate_Ratings": "2023-11-10T04:00:05.1383086+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:04:48.2653487+00:00"
+  "LastUpdate_Ratings": "2023-11-10T05:00:17.7819073+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:05:00.8760739+00:00"
 }

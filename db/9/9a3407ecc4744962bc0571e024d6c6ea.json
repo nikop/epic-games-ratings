@@ -2334,9 +2334,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 376
+      "UsersEstimate": 386
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -2374,9 +2374,9 @@
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 505
+      "UsersEstimate": 514
     },
     {
       "ID": "MiCasaSuCasa",
@@ -2461,8 +2461,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:08:51.356051+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:09:02.0618314+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:04.924943+00:00",
-  "LastUpdate_Ratings": "2023-11-10T03:59:05.9683498+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:08:51.3560757+00:00"
+  "LastUpdate_Ratings": "2023-11-10T04:59:13.1891638+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:09:02.0618602+00:00"
 }

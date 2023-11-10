@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 124)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,285 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,286 |
 | First Class Student | 14.00% | ~42,250 |
 | Troll with the Punches | 14.00% | ~42,250 |
 | A Keen Sense of Spell | 13.00% | ~39,232 |
@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 124)
 | Challenge Accepted | 10.00% | ~30,178 |
 | Followed the Butterflies | 10.00% | ~30,178 |
 | Rising From the Ashes | 10.00% | ~30,178 |
-| The Spell Master | 9.00% | ~27,160 |
+| The Spell Master | 9.00% | ~27,161 |
 | The Avenging Gazelle | 8.00% | ~24,143 |
 | Beast Friends | 8.00% | ~24,143 |
 | A Sallow Grave | 8.00% | ~24,143 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 124)
 | Room with a View | 4.00% | ~12,071 |
 | The Intrepid Explorer | 4.00% | ~12,071 |
 | The Wise Owl | 4.00% | ~12,071 |
-| Put Down Roots | 3.00% | ~9,053 |
-| The Auror's Apprentice | 3.00% | ~9,053 |
-| Floo Around the World | 3.00% | ~9,053 |
+| Put Down Roots | 3.00% | ~9,054 |
+| The Auror's Apprentice | 3.00% | ~9,054 |
+| Floo Around the World | 3.00% | ~9,054 |
 | The Good Samaritan | 2.00% | ~6,036 |
 | Rise to the Challenges | 2.00% | ~6,036 |
 | Demiguise Dread | 2.00% | ~6,036 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 124)
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,783 (Ranked 50)  
+Progressed: 301,785 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 505 (0.17%) (Ranked 252)
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
 | 2023-11-09 | 301,775 | 505 |
-| 2023-11-10 | 301,783 | 505 |
+| 2023-11-10 | 301,785 | 505 |
 ## Awards
 Max (Character Customization): 24,162  (Ranked 17)  
 Sum: 47,788 (Ranked 30)  

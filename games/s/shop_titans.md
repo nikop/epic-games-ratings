@@ -6,9 +6,9 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,557 |
-| Basic in Bulk | 4.00% | ~5,557 |
-| Titan's First Steps | 4.00% | ~5,557 |
+| Sponsored by Argon | 4.00% | ~5,558 |
+| Basic in Bulk | 4.00% | ~5,558 |
+| Titan's First Steps | 4.00% | ~5,558 |
 | Disintermediation | 3.00% | ~4,168 |
 | Tinkle of Coins | 3.00% | ~4,168 |
 | Capitalism Ho! | 3.00% | ~4,168 |
@@ -45,34 +45,34 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,389 |
 | Magical Harmony | 1.00% | ~1,389 |
 | Arcane Industries | 1.00% | ~1,389 |
-| Tax not Included | 0.90% | ~1,250 |
-| For the Hoard! | 0.90% | ~1,250 |
-| Scrapbooker | 0.90% | ~1,250 |
-| Trash to Treasure | 0.90% | ~1,250 |
-| Seasoned Journeyman | 0.90% | ~1,250 |
-| Special Ingredient | 0.90% | ~1,250 |
-| Complete Monopoly | 0.90% | ~1,250 |
-| A Notch Above the Rest | 0.80% | ~1,111 |
-| Above the Norm | 0.80% | ~1,111 |
-| The King's Caprice | 0.80% | ~1,111 |
-| Big Game Hunting | 0.80% | ~1,111 |
-| Locally Sourced | 0.80% | ~1,111 |
-| Flying off the Shelves | 0.80% | ~1,111 |
-| This Power Level...! | 0.80% | ~1,111 |
-| Master of Transmutation | 0.80% | ~1,111 |
-| Hidden Potential | 0.80% | ~1,111 |
-| Expansion in Session | 0.80% | ~1,111 |
-| Cranked up to 11 | 0.80% | ~1,111 |
-| Fit for a King | 0.80% | ~1,111 |
-| Mammonite | 0.80% | ~1,111 |
-| Wealth Beyond Measure | 0.80% | ~1,111 |
-| Fat Cat Tag Team | 0.80% | ~1,111 |
-| Necromancer Queen | 0.80% | ~1,111 |
-| Miracle Alchemist | 0.80% | ~1,111 |
-| Laden with Loot | 0.80% | ~1,111 |
-| Scourge of the Seas | 0.80% | ~1,111 |
-| Black Friday Special | 0.80% | ~1,111 |
-| Exotic Commodities | 0.80% | ~1,111 |
+| Tax not Included | 0.90% | ~1,251 |
+| For the Hoard! | 0.90% | ~1,251 |
+| Scrapbooker | 0.90% | ~1,251 |
+| Trash to Treasure | 0.90% | ~1,251 |
+| Seasoned Journeyman | 0.90% | ~1,251 |
+| Special Ingredient | 0.90% | ~1,251 |
+| Complete Monopoly | 0.90% | ~1,251 |
+| A Notch Above the Rest | 0.80% | ~1,112 |
+| Above the Norm | 0.80% | ~1,112 |
+| The King's Caprice | 0.80% | ~1,112 |
+| Big Game Hunting | 0.80% | ~1,112 |
+| Locally Sourced | 0.80% | ~1,112 |
+| Flying off the Shelves | 0.80% | ~1,112 |
+| This Power Level...! | 0.80% | ~1,112 |
+| Master of Transmutation | 0.80% | ~1,112 |
+| Hidden Potential | 0.80% | ~1,112 |
+| Expansion in Session | 0.80% | ~1,112 |
+| Cranked up to 11 | 0.80% | ~1,112 |
+| Fit for a King | 0.80% | ~1,112 |
+| Mammonite | 0.80% | ~1,112 |
+| Wealth Beyond Measure | 0.80% | ~1,112 |
+| Fat Cat Tag Team | 0.80% | ~1,112 |
+| Necromancer Queen | 0.80% | ~1,112 |
+| Miracle Alchemist | 0.80% | ~1,112 |
+| Laden with Loot | 0.80% | ~1,112 |
+| Scourge of the Seas | 0.80% | ~1,112 |
+| Black Friday Special | 0.80% | ~1,112 |
+| Exotic Commodities | 0.80% | ~1,112 |
 | Cream of the Crop | 0.70% | ~973 |
 | Top of the World | 0.70% | ~973 |
 | Proud Paladin | 0.70% | ~973 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,934 (Ranked 79)  
+Progressed: 138,946 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 138,934 | 180 |
+| 2023-11-10 | 138,946 | 180 |
 ## Awards
 Max (Great for Beginners): 4,822  (Ranked 74)  
 Sum: 27,516 (Ranked 52)  

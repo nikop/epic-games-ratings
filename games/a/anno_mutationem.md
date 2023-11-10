@@ -39,7 +39,7 @@ Rating: 4.56 (Ranked 486)
 | Lady Luck is a cool cat | 3.00% | ~20 |
 | SERENITY NOW | 2.00% | ~14 |
 | I just got real good | 2.00% | ~14 |
-| Love me like I love my posters | 0.90% | ~6 |
+| Love me like I love my posters | 1.00% | ~7 |
 | The Age of Mutationem | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 681 (Ranked 273)  

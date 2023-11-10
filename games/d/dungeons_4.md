@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 74.00% | ~73 |
-| Thalya – Simply Immortal | 74.00% | ~73 |
-| Thalya's Concentrated Fury | 59.00% | ~58 |
-| For the Horde! | 57.00% | ~56 |
-| Hammer Time, Round Two | 53.00% | ~52 |
-| The Hellwoods | 44.00% | ~44 |
+| The Last Stand | 75.00% | ~75 |
+| Thalya – Simply Immortal | 75.00% | ~75 |
+| Thalya's Concentrated Fury | 59.00% | ~59 |
+| For the Horde! | 57.00% | ~57 |
+| Hammer Time, Round Two | 52.00% | ~52 |
+| The Hellwoods | 45.00% | ~45 |
 | Master of Magic | 33.00% | ~33 |
 | Magic Accidents | 31.00% | ~31 |
-| Trap Master | 27.00% | ~27 |
-| Experienced Thalya | 21.00% | ~21 |
-| The Plains of Strothalm | 20.00% | ~20 |
-| Unicorn steaks – fresh off the hoof! | 19.00% | ~19 |
+| Trap Master | 28.00% | ~28 |
+| Experienced Thalya | 24.00% | ~24 |
+| The Plains of Strothalm | 21.00% | ~21 |
+| Unicorn steaks – fresh off the hoof! | 21.00% | ~21 |
 | Minions, Minions! | 17.00% | ~17 |
-| Bad Elves Go Everywhere | 12.00% | ~12 |
+| Bad Elves Go Everywhere | 13.00% | ~13 |
 | Sacrificial Pit = Garbage Disposal? | 4.00% | ~4 |
 | Heroes’ Gorge | 4.00% | ~4 |
 | Mana Cannon | 4.00% | ~4 |
@@ -28,17 +28,17 @@
 | Pure Dynamite! | 2.00% | ~2 |
 | It's Warm and Cozy at Home | 2.00% | ~2 |
 | Hungry, Hungry Gorgu! | 2.00% | ~2 |
+| “… like son” | 2.00% | ~2 |
 | Dungeonlord Gorgu | 2.00% | ~2 |
+| Forbidden Knowledge | 2.00% | ~2 |
 | Hard Work | 1.00% | ~1 |
-| “… like son” | 1.00% | ~1 |
-| Forbidden Knowledge | 1.00% | ~1 |
+| Shame! Shame! Shame! | 1.00% | ~1 |
 | All’s Well That Ends Evil | 1.00% | ~1 |
 | Stop Tanos! | 1.00% | ~1 |
 | My Little Torture Chamber | 1.00% | ~1 |
 | The Last Stand - This Time For Real! | 1.00% | ~1 |
 | The Cathedral of Light | 0.00% | ~0 |
 | Unstoppable Horde | 0.00% | ~0 |
-| Shame! Shame! Shame! | 0.00% | ~0 |
 | Tanos' Crusade Against Thalya | 0.00% | ~0 |
 | Ghost Pirates? Ghost Heroes! | 0.00% | ~0 |
 | Master of the Undead | 0.00% | ~0 |
@@ -66,10 +66,10 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 99 (Ranked 421)  
+Progressed: 100 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-09 | 76 | 0 |
-| 2023-11-10 | 99 | 0 |
+| 2023-11-10 | 100 | 0 |

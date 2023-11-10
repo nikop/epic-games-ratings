@@ -31,8 +31,8 @@ Rating: 4.62 (Ranked 366)
 | The Family Fortune | 18.00% | ~165 |
 | Street Style | 17.00% | ~156 |
 | Treasure Trove | 15.00% | ~138 |
+| Whiz Kid | 15.00% | ~138 |
 | Cartographer | 15.00% | ~138 |
-| Whiz Kid | 14.00% | ~128 |
 | Good Neighbor | 13.00% | ~119 |
 | Chaincrawler Explorer | 12.00% | ~110 |
 | Family Memories | 12.00% | ~110 |

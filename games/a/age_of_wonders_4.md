@@ -18,6 +18,7 @@ Rating: 4.61 (Ranked 385)
 | Stronger Together | 0.20% | ~11 |
 | Magical Synergy | 0.20% | ~11 |
 | Seat of Power | 0.20% | ~11 |
+| Intimidation Tactics | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
 | Mighty Hoard | 0.20% | ~11 |
 | Sehiran Oasis | 0.20% | ~11 |
@@ -46,7 +47,6 @@ Rating: 4.61 (Ranked 385)
 | Manufactured War | 0.10% | ~5 |
 | Impenetrable Fortress | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
-| Intimidation Tactics | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
 | Pruning for Progress | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 385)
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,315 (Ranked 183)  
+Progressed: 5,316 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 7 (0.13%) (Ranked 258)
 | 2023-11-07 | 5,285 | 7 |
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
-| 2023-11-10 | 5,315 | 7 |
+| 2023-11-10 | 5,316 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 474)  

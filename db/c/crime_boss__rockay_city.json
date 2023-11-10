@@ -4459,10 +4459,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2977,
       "NumberOfAwardsMax": 523
+    },
+    {
+      "Time": "2023-11-10T05:00:22.0748138+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2979,
+      "NumberOfAwardsMax": 523
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2977,
+  "NumberOfAwards": 2979,
   "NumberOfAwardsMax": 523,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4488,7 +4494,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 496
+      "Count": 498
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4521,9 +4527,9 @@
       "Count": 486
     }
   ],
-  "EOS_Progressed": 90052,
+  "EOS_Progressed": 90056,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 546,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24631,6 +24637,11 @@
       "Time": "2023-11-10T04:04:03.9592331+00:00",
       "NumProgressed": 90052,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-10T05:04:11.6195189+00:00",
+      "NumProgressed": 90056,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24672,9 +24683,9 @@
       "ID": "ACH_0014",
       "SetID": "3kam13l",
       "Name": "Track Star",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 630
     },
     {
       "ID": "ACH_0015",
@@ -24858,7 +24869,7 @@
       "Name": "Case Closed",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH_0420",
@@ -24930,7 +24941,7 @@
       "Name": "Rockay Rex",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "ACH_1010",
@@ -24969,22 +24980,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90052,
+      "Progressed": 90056,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18399,
+      "Progressed": 18403,
       "Completed": 15563
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-10T01:45:26.8439909+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:04:03.9592326+00:00",
+  "LastChanged": "2023-11-10T05:00:22.0748136+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:04:11.6195184+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-10T04:00:08.8872491+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:04:03.9593622+00:00"
+  "LastUpdate_Ratings": "2023-11-10T05:00:22.0748143+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:04:11.6196686+00:00"
 }

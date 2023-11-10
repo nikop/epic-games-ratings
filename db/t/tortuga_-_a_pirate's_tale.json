@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 183,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16973,
+  "EOS_Progressed": 16974,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6279,6 +6279,11 @@
       "Time": "2023-11-10T04:06:18.0801611+00:00",
       "NumProgressed": 16973,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T05:06:40.5779477+00:00",
+      "NumProgressed": 16974,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6290,7 +6295,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16124
+      "UsersEstimate": 16125
     },
     {
       "ID": "ACH001",
@@ -6298,7 +6303,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14597
+      "UsersEstimate": 14598
     },
     {
       "ID": "ACH0010",
@@ -6442,7 +6447,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 9335
+      "UsersEstimate": 9336
     },
     {
       "ID": "ACH004",
@@ -6497,7 +6502,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16973,
+      "Progressed": 16974,
       "Completed": 1
     }
   ],
@@ -6505,8 +6510,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:06:18.0801606+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:06:40.577947+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:07.1150824+00:00",
-  "LastUpdate_Ratings": "2023-11-10T03:59:28.3440537+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:06:18.0802086+00:00"
+  "LastUpdate_Ratings": "2023-11-10T04:59:37.2377382+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:06:40.5780036+00:00"
 }

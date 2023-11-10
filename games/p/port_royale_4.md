@@ -12,16 +12,16 @@ Number of Ratings: 53  (23.09.2022)
 | Gofer | 57.00% | ~577 |
 | 3, 2, 1, mine | 56.00% | ~567 |
 | O Captain! My Captain! | 55.00% | ~557 |
-| Seafarer | 52.00% | ~526 |
-| Intangible | 43.00% | ~435 |
-| Greed for gold | 43.00% | ~435 |
+| Seafarer | 52.00% | ~527 |
+| Intangible | 43.00% | ~436 |
+| Greed for gold | 43.00% | ~436 |
 | I'm out of here for a while | 42.00% | ~425 |
 | In a mint condition | 38.00% | ~385 |
-| Licence to Kill | 37.00% | ~374 |
+| Licence to Kill | 37.00% | ~375 |
 | Pirates! | 34.00% | ~344 |
-| Collectionitis | 29.00% | ~293 |
-| Megalomania | 29.00% | ~293 |
-| Christening | 28.00% | ~283 |
+| Collectionitis | 29.00% | ~294 |
+| Megalomania | 29.00% | ~294 |
+| Christening | 28.00% | ~284 |
 | Groundskeeper | 26.00% | ~263 |
 | Wholesale | 22.00% | ~223 |
 | Walk the plank | 21.00% | ~213 |
@@ -39,8 +39,8 @@ Number of Ratings: 53  (23.09.2022)
 | The Grande Bouffe | 6.00% | ~61 |
 | Buccaneer | 5.00% | ~51 |
 | Flying Dutchman | 5.00% | ~51 |
-| A true pirate! | 4.00% | ~40 |
-| Overpopulation | 4.00% | ~40 |
+| A true pirate! | 4.00% | ~41 |
+| Overpopulation | 4.00% | ~41 |
 | Premier Maître | 3.00% | ~30 |
 | Supreme conqueror | 3.00% | ~30 |
 | Strategist | 2.00% | ~20 |
@@ -57,7 +57,7 @@ Number of Ratings: 53  (23.09.2022)
 | Traffic chaos | 0.80% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,012 (Ranked 252)  
+Progressed: 1,013 (Ranked 252)  
 Completed: 1 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 1 (0.10%) (Ranked 269)
 | 2023-11-07 | 1,006 | 1 |
 | 2023-11-08 | 1,009 | 1 |
 | 2023-11-09 | 1,011 | 1 |
-| 2023-11-10 | 1,012 | 1 |
+| 2023-11-10 | 1,013 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

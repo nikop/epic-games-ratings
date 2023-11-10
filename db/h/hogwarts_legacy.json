@@ -10275,9 +10275,9 @@
       "Count": 771
     }
   ],
-  "EOS_Progressed": 301783,
+  "EOS_Progressed": 301785,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1417,
+  "EOS_NewPlayers": 1414,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32160,6 +32160,11 @@
       "Time": "2023-11-10T04:09:09.689021+00:00",
       "NumProgressed": 301783,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-10T05:09:22.9998012+00:00",
+      "NumProgressed": 301785,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -32171,7 +32176,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48285
+      "UsersEstimate": 48286
     },
     {
       "ID": "PFA_10",
@@ -32331,7 +32336,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9053
+      "UsersEstimate": 9054
     },
     {
       "ID": "PFA_29",
@@ -32347,7 +32352,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9053
+      "UsersEstimate": 9054
     },
     {
       "ID": "PFA_30",
@@ -32387,7 +32392,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9053
+      "UsersEstimate": 9054
     },
     {
       "ID": "PFA_35",
@@ -32475,7 +32480,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27160
+      "UsersEstimate": 27161
     },
     {
       "ID": "PFA_45",
@@ -32530,7 +32535,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301783,
+      "Progressed": 301785,
       "Completed": 505
     }
   ],
@@ -32538,8 +32543,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-10T01:43:01.4009633+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:09:09.6890206+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:09:22.9998007+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-10T03:58:24.3544239+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:09:09.6891272+00:00"
+  "LastUpdate_Ratings": "2023-11-10T04:58:27.1629463+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:09:22.999966+00:00"
 }

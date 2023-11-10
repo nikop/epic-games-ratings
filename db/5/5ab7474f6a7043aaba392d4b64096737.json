@@ -4,7 +4,7 @@
   "ProductSlug": "blood-flowers-a1e6e9",
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -28,9 +28,171 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-10T05:03:53.9508625+00:00",
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "CHAPTER_FIVE",
+      "SetID": "5nk939k",
+      "Name": "The Flowering of the Blood Tree",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAPTER_FOUR",
+      "SetID": "5nk939k",
+      "Name": "History of the Bai City",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAPTER_ONE",
+      "SetID": "5nk939k",
+      "Name": "Spirit of adventure",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAPTER_PROLOGUE",
+      "SetID": "5nk939k",
+      "Name": "Initial Star",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAPTER_THREE",
+      "SetID": "5nk939k",
+      "Name": "Through the Mists",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "CHAPTER_TWO",
+      "SetID": "5nk939k",
+      "Name": "Hazy Memories",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ITEM_1899",
+      "SetID": "5nk939k",
+      "Name": "Precious Memories",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ITEM_1999",
+      "SetID": "5nk939k",
+      "Name": "A mutation begins",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ITEM_LETTER",
+      "SetID": "5nk939k",
+      "Name": "Friendship of men",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ITEM_TRAVEL",
+      "SetID": "5nk939k",
+      "Name": "Wonderful Adventure",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ITEM_ZHU",
+      "SetID": "5nk939k",
+      "Name": "Weird Diary",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ITEM_ZHU_ALL",
+      "SetID": "5nk939k",
+      "Name": "Avid reader",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPC_DIE",
+      "SetID": "5nk939k",
+      "Name": "Faithful Believers",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPC_TALK",
+      "SetID": "5nk939k",
+      "Name": "First Arrival",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NPC_TALK_BAI",
+      "SetID": "5nk939k",
+      "Name": "First exploration of the mystery",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PUZZLE_BAI",
+      "SetID": "5nk939k",
+      "Name": "The two ends of the Tree",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PUZZLE_COURIER",
+      "SetID": "5nk939k",
+      "Name": "Sweet and Sour Pork Ribs",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PUZZLE_HUARONG",
+      "SetID": "5nk939k",
+      "Name": "Museum Collection",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PUZZLE_SEE",
+      "SetID": "5nk939k",
+      "Name": "Look long into an abyss",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "PUZZLE_SLID",
+      "SetID": "5nk939k",
+      "Name": "Hidden road ahead",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "5nk939k",
@@ -40,8 +202,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-08T07:03:10.4658756+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:03:48.1803908+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:03:53.9508601+00:00",
   "LastUpdate_AppInfo": "2023-11-08T06:57:08.0374773+00:00",
-  "LastUpdate_Ratings": "2023-11-10T03:57:49.366483+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:03:48.180394+00:00"
+  "LastUpdate_Ratings": "2023-11-10T04:57:50.4028703+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:03:53.9908987+00:00"
 }

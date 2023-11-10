@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.52,
+  "EOS_Completed_Percentage": 5.51,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2170,6 +2170,11 @@
       "Time": "2023-11-10T01:49:45.0235611+00:00",
       "NumProgressed": 507,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-10T05:05:03.7805611+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2213,7 +2218,7 @@
       "Name": "A good beginning",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "META_HALF_LINK",
@@ -2293,7 +2298,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2325,7 +2330,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2333,15 +2338,15 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "PROGRESS_N1",
       "SetID": "2gma9an",
       "Name": "Welcome to the Tower",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 163
     },
     {
       "ID": "PROGRESS_N2",
@@ -2365,7 +2370,7 @@
       "Name": "The darkness",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "PROGRESS_N5",
@@ -2380,14 +2385,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:04:51.2092412+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:05:03.78056+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-10T03:58:49.8469031+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:04:51.2092678+00:00"
+  "LastUpdate_Ratings": "2023-11-10T04:58:55.2611269+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:05:03.780592+00:00"
 }

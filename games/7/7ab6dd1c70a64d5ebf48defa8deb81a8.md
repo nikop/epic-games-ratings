@@ -18,14 +18,14 @@
 | Scholar | 23.00% | ~40 |
 | Tributes of Caladrias | 22.00% | ~38 |
 | Stone Collection | 19.00% | ~33 |
-| Essence Blow | 11.00% | ~19 |
+| Essence Blow | 12.00% | ~21 |
 | Big Bazar | 11.00% | ~19 |
 | Alchemist | 11.00% | ~19 |
 | The Mentor | 9.00% | ~16 |
 | Airborne | 8.00% | ~14 |
 | Miner | 8.00% | ~14 |
+| Calm before the Storm | 6.00% | ~10 |
 | Flawless Victory | 6.00% | ~10 |
-| Calm before the Storm | 5.00% | ~9 |
 | To Battle | 5.00% | ~9 |
 | Godslayer | 5.00% | ~9 |
 | Clear Sight | 2.00% | ~4 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -175,7 +175,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7652,
+  "EOS_Progressed": 7653,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
@@ -6450,6 +6450,11 @@
       "Time": "2023-11-10T04:09:05.1978723+00:00",
       "NumProgressed": 7652,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T05:09:17.9884963+00:00",
+      "NumProgressed": 7653,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6462,7 +6467,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5509
+      "UsersEstimate": 5510
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6470,7 +6475,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5356
+      "UsersEstimate": 5357
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6478,7 +6483,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6494,7 +6499,7 @@
       "Name": "Clear the Air",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -6558,7 +6563,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6566,7 +6571,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6741,22 +6746,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7652,
+      "Progressed": 7653,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 269,
-      "Completed": 269
+      "Progressed": 270,
+      "Completed": 270
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-09T19:09:37.5658278+00:00",
-  "LastChanged_Achievements": "2023-11-10T04:09:05.1978719+00:00",
+  "LastChanged_Achievements": "2023-11-10T05:09:17.9884957+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-10T04:02:51.0291765+00:00",
-  "LastUpdate_Achievements": "2023-11-10T04:09:05.1979193+00:00"
+  "LastUpdate_Ratings": "2023-11-10T05:02:48.4633251+00:00",
+  "LastUpdate_Achievements": "2023-11-10T05:09:17.9885598+00:00"
 }
