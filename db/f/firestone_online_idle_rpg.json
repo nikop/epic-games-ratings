@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -451,9 +451,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2147,
+  "EOS_Progressed": 2149,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6641,6 +6641,11 @@
       "Time": "2023-11-10T05:08:27.5925453+00:00",
       "NumProgressed": 2147,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-10T07:08:56.5395456+00:00",
+      "NumProgressed": 2149,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6746,9 +6751,9 @@
       "ID": "doingmypart",
       "SetID": "3nl4bcg",
       "Name": "Doing My Part",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 236
     },
     {
       "ID": "dragonclicker",
@@ -6756,7 +6761,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "dragonmaster",
@@ -6836,7 +6841,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "fourleafclover",
@@ -6884,7 +6889,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "herewegoagain",
@@ -7044,7 +7049,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "prestigiousx10",
@@ -7108,7 +7113,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1225
     },
     {
       "ID": "thealchemist",
@@ -7212,7 +7217,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1999
     },
     {
       "ID": "warmachinesarmy",
@@ -7244,14 +7249,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1696
+      "UsersEstimate": 1698
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2147,
+      "Progressed": 2149,
       "Completed": 2
     }
   ],
@@ -7259,8 +7264,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:09:03.7410306+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:08:56.5395452+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-10T05:57:40.8745713+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:09:03.7411931+00:00"
+  "LastUpdate_Ratings": "2023-11-10T06:57:18.3561906+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:08:56.539634+00:00"
 }

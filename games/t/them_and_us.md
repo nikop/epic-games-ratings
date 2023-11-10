@@ -18,15 +18,15 @@
 | The Cultists | 13.00% | ~39 |
 | The Forgotten Tower | 13.00% | ~39 |
 | Trapped | 11.00% | ~33 |
+| Modern Player | 10.00% | ~30 |
 | Lover of classics | 9.00% | ~27 |
-| Modern Player | 9.00% | ~27 |
 | The Curse Is Real | 9.00% | ~27 |
 | Rest In Peace | 8.00% | ~24 |
 | What A Mansion | 7.00% | ~21 |
 | Researcher | 6.00% | ~18 |
 | I Am The Gate Keeper! | 6.00% | ~18 |
+| Armed To The Teeth | 4.00% | ~12 |
 | This Mansion Is Clean | 4.00% | ~12 |
-| Armed To The Teeth | 3.00% | ~9 |
 | The bus stop | 3.00% | ~9 |
 | Spiritual essence well spent | 2.00% | ~6 |
 | Run and Gun | 2.00% | ~6 |

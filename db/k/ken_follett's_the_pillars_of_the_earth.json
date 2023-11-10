@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16288,
+  "EOS_Progressed": 16290,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -13813,6 +13813,11 @@
       "Time": "2023-11-10T06:05:59.9975639+00:00",
       "NumProgressed": 16288,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-10T07:05:26.5456566+00:00",
+      "NumProgressed": 16290,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13840,7 +13845,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3746
+      "UsersEstimate": 3747
     },
     {
       "ID": "tpote_achievement_12",
@@ -13864,7 +13869,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5375
+      "UsersEstimate": 5376
     },
     {
       "ID": "tpote_achievement_15",
@@ -13880,7 +13885,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "tpote_achievement_17",
@@ -13912,7 +13917,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5375
+      "UsersEstimate": 5376
     },
     {
       "ID": "tpote_achievement_20",
@@ -13928,7 +13933,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4886
+      "UsersEstimate": 4887
     },
     {
       "ID": "tpote_achievement_22",
@@ -13968,7 +13973,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2117
+      "UsersEstimate": 2118
     },
     {
       "ID": "tpote_achievement_27",
@@ -14000,7 +14005,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5212
+      "UsersEstimate": 5213
     },
     {
       "ID": "tpote_achievement_30",
@@ -14024,7 +14029,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2280
+      "UsersEstimate": 2281
     },
     {
       "ID": "tpote_achievement_33",
@@ -14088,7 +14093,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6515
+      "UsersEstimate": 6516
     },
     {
       "ID": "tpote_achievement_40",
@@ -14112,7 +14117,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3909
+      "UsersEstimate": 3910
     },
     {
       "ID": "tpote_achievement_6",
@@ -14120,7 +14125,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3909
+      "UsersEstimate": 3910
     },
     {
       "ID": "tpote_achievement_7",
@@ -14136,7 +14141,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3420
+      "UsersEstimate": 3421
     },
     {
       "ID": "tpote_achievement_9",
@@ -14144,22 +14149,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5538
+      "UsersEstimate": 5539
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16288,
+      "Progressed": 16290,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:05:59.9975633+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:05:26.5456562+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:38.0957248+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:01:34.2321577+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:05:59.9976924+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:00:56.4750761+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:05:26.5457407+00:00"
 }

@@ -15,15 +15,15 @@ Rating: 4.75 (Ranked 145)
 | Duality | 6.00% | ~13,153 |
 | Boss'n Up | 6.00% | ~13,153 |
 | Trait Chaser | 6.00% | ~13,153 |
-| Not So Special Now | 5.00% | ~10,960 |
-| Not a Janitor | 5.00% | ~10,960 |
-| Equal Measures | 5.00% | ~10,960 |
-| Blue Goddess | 5.00% | ~10,960 |
-| Top Performer | 5.00% | ~10,960 |
-| Shhh...It's a Secret | 5.00% | ~10,960 |
-| Almost There | 5.00% | ~10,960 |
-| Make Some Room | 5.00% | ~10,960 |
-| Good, But Could Be Better! | 5.00% | ~10,960 |
+| Not So Special Now | 5.00% | ~10,961 |
+| Not a Janitor | 5.00% | ~10,961 |
+| Equal Measures | 5.00% | ~10,961 |
+| Blue Goddess | 5.00% | ~10,961 |
+| Top Performer | 5.00% | ~10,961 |
+| Shhh...It's a Secret | 5.00% | ~10,961 |
+| Almost There | 5.00% | ~10,961 |
+| Make Some Room | 5.00% | ~10,961 |
+| Good, But Could Be Better! | 5.00% | ~10,961 |
 | Chaos | 4.00% | ~8,768 |
 | Traitor | 4.00% | ~8,768 |
 | Power Surge | 4.00% | ~8,768 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,192 |
 | Proving Grounds | 1.00% | ~2,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,210 (Ranked 68)  
+Progressed: 219,212 (Ranked 68)  
 Completed: 435 (0.20%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 435 (0.20%) (Ranked 246)
 | 2023-11-07 | 218,702 | 433 |
 | 2023-11-08 | 218,941 | 435 |
 | 2023-11-09 | 219,166 | 435 |
-| 2023-11-10 | 219,210 | 435 |
+| 2023-11-10 | 219,212 | 435 |
 ## Awards
 Max (Great Boss Battles): 2,121  (Ranked 109)  
 Sum: 4,770 (Ranked 142)  

@@ -10,8 +10,8 @@ Rating: 4.02 (Ranked 986)
 | Enlisted | 79.00% | ~184 |
 | Maybe Engage a Little | 75.00% | ~175 |
 | No More Names | 61.00% | ~142 |
-| Initiate | 47.00% | ~110 |
-| Thrada-Kul | 42.00% | ~98 |
+| Initiate | 48.00% | ~112 |
+| Thrada-Kul | 43.00% | ~100 |
 | Gravity-Challenged Rocks | 32.00% | ~75 |
 | Soldier | 27.00% | ~63 |
 | All the Major Food Groups | 27.00% | ~63 |

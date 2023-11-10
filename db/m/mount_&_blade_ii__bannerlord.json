@@ -8622,9 +8622,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64786,
+  "EOS_Progressed": 64787,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30052,6 +30052,11 @@
       "Time": "2023-11-10T05:09:14.842278+00:00",
       "NumProgressed": 64786,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T07:09:45.6930382+00:00",
+      "NumProgressed": 64787,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30255,7 +30260,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11661
+      "UsersEstimate": 11662
     },
     {
       "ID": "Kingslayer",
@@ -30287,7 +30292,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21379
+      "UsersEstimate": 21380
     },
     {
       "ID": "Lawbringer",
@@ -30295,7 +30300,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25914
+      "UsersEstimate": 25915
     },
     {
       "ID": "Lawmaker",
@@ -30415,7 +30420,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12309
+      "UsersEstimate": 12310
     },
     {
       "ID": "This Is Our Land",
@@ -30470,15 +30475,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64786,
+      "Progressed": 64787,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-10T05:02:39.9456924+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:09:57.1575604+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:09:45.6930378+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:31.2641432+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:03:18.4896597+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:09:57.1578449+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:02:55.6054941+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:09:45.6931701+00:00"
 }

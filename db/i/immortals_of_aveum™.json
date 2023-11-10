@@ -1354,9 +1354,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_50",
@@ -1402,9 +1402,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_60",
@@ -1491,8 +1491,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:07:49.8164661+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:07:08.9587079+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-10T05:59:07.6238288+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:07:49.8165139+00:00"
+  "LastUpdate_Ratings": "2023-11-10T06:58:38.6940865+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:07:08.9587501+00:00"
 }

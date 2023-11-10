@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7827,
+  "EOS_Progressed": 7830,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6130,6 +6130,11 @@
       "Time": "2023-11-10T06:10:25.7642835+00:00",
       "NumProgressed": 7827,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T07:10:11.55241+00:00",
+      "NumProgressed": 7830,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6182,7 +6187,7 @@
       "Name": "Upgraded Cybernetic Enhancement to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "CreditsEarned50000",
@@ -6190,7 +6195,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "CreditsSpent50000",
@@ -6262,7 +6267,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2426
+      "UsersEstimate": 2427
     },
     {
       "ID": "GamesPlayed10",
@@ -6286,7 +6291,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1487
+      "UsersEstimate": 1488
     },
     {
       "ID": "GamesWon10",
@@ -6366,7 +6371,7 @@
       "Name": "Purchased Healing Station Ultimate",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "HandCannonUpgraded1",
@@ -6406,7 +6411,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "InhibitorKills3",
@@ -6414,7 +6419,7 @@
       "Name": "Destroyed 3 Inhibitors",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "InhibitorKills30",
@@ -6438,7 +6443,7 @@
       "Name": "Upgraded the Laser to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "MaxCreditsEarned50000",
@@ -6462,7 +6467,7 @@
       "Name": "Dealt 30000 Damage in a single match",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "MaxHealingDone30000",
@@ -6510,7 +6515,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "MaxTowersKilled6",
@@ -6574,7 +6579,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "PlayerKills100",
@@ -6630,7 +6635,7 @@
       "Name": "Purchased Rapid Fire Support",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "RSPurchased1",
@@ -6678,7 +6683,7 @@
       "Name": "Upgraded the Shotgun to Level 3",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "SniperUpgraded1",
@@ -6726,14 +6731,14 @@
       "Name": "Upgraded Weaponized Capacitor to Level 3",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     }
   ],
   "AchievementSets": [
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7827,
+      "Progressed": 7830,
       "Completed": 1
     }
   ],
@@ -6741,8 +6746,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-07T13:03:10.353816+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:10:25.764283+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:10:11.5524096+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:00:40.0869064+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:10:25.7644125+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:00:04.9983819+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:10:11.5524993+00:00"
 }

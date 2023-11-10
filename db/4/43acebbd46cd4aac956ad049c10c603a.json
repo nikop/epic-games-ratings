@@ -615,9 +615,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "TextAdventurer",
@@ -687,9 +687,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "TrevorsBiographer",
@@ -752,8 +752,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-09T22:04:46.1643525+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:08:47.8578176+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:08:41.7630292+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:03:09.2949366+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:08:47.8579194+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:02:47.172923+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:08:41.7630768+00:00"
 }

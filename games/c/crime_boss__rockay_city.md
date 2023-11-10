@@ -18,9 +18,9 @@ Rating: 3.95 (Ranked 1,004)
 | Dragonslayer | 1.00% | ~901 |
 | Case Closed | 0.90% | ~811 |
 | Rockay Rex | 0.90% | ~811 |
-| Hidden Sonata | 0.70% | ~630 |
-| Track Star | 0.70% | ~630 |
-| True Player | 0.70% | ~630 |
+| Hidden Sonata | 0.70% | ~631 |
+| Track Star | 0.70% | ~631 |
+| True Player | 0.70% | ~631 |
 | Headhunter | 0.60% | ~540 |
 | I Like Trains | 0.50% | ~450 |
 | Legend Looter | 0.40% | ~360 |
@@ -34,6 +34,7 @@ Rating: 3.95 (Ranked 1,004)
 | All that Glitters | 0.30% | ~55 |
 | Rockay Raider | 0.20% | ~180 |
 | Rockay Knight | 0.20% | ~180 |
+| Talent Scout | 0.20% | ~180 |
 | Groundhog Days | 0.20% | ~180 |
 | Cracked the Jack | 0.20% | ~180 |
 | Red Star | 0.20% | ~180 |
@@ -41,13 +42,12 @@ Rating: 3.95 (Ranked 1,004)
 | All for One | 0.20% | ~37 |
 | One for All | 0.20% | ~37 |
 | Privateer | 0.10% | ~90 |
-| Talent Scout | 0.10% | ~90 |
 | Full House | 0.10% | ~90 |
 | Geek Out | 0.10% | ~90 |
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,066 (Ranked 91)  
+Progressed: 90,072 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-07 | 89,646 | 55 |
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
-| 2023-11-10 | 90,066 | 55 |
+| 2023-11-10 | 90,072 | 55 |
 ## Awards
 Max (Diverse Characters): 523  (Ranked 204)  
 Sum: 2,979 (Ranked 175)  

@@ -48,8 +48,8 @@ Rating: 4.82 (Ranked 64)
 | Embrace the darkness | 13.00% | ~341 |
 | The end of the experiments | 13.00% | ~341 |
 | The Great City of Demacia | 13.00% | ~341 |
+| Truth is a dark mirror | 13.00% | ~341 |
 | Call it 'redistribution of magic | 13.00% | ~341 |
-| Truth is a dark mirror | 12.00% | ~315 |
 | Back to sleep, then... | 12.00% | ~315 |
 | Do you trust me? | 11.00% | ~289 |
 | Chains master | 11.00% | ~289 |

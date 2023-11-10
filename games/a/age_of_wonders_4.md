@@ -6,8 +6,8 @@ Rating: 4.61 (Ranked 385)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 1.00% | ~53 |
+| Realm Estate | 0.40% | ~21 |
 | Secret Technique | 0.40% | ~21 |
-| Realm Estate | 0.30% | ~16 |
 | A Wonderful Discovery | 0.30% | ~16 |
 | Walls Cannot Stop Us | 0.30% | ~16 |
 | Freed Lands of Manuhari | 0.30% | ~16 |

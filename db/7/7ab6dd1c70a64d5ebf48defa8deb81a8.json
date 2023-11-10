@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 129,
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -660,6 +660,11 @@
       "Time": "2023-11-10T01:54:17.2035797+00:00",
       "NumProgressed": 175,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T07:10:08.4272193+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -671,7 +676,7 @@
       "Name": "Break Out",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "ACH_02",
@@ -695,7 +700,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_05",
@@ -765,9 +770,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_14",
@@ -783,7 +788,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_16",
@@ -823,7 +828,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_21",
@@ -845,9 +850,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_24",
@@ -927,7 +932,7 @@
       "Name": "The Collector",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_35",
@@ -958,14 +963,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:10:22.5746872+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:10:08.4272188+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-10T05:58:33.3574823+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:10:22.5747462+00:00"
+  "LastUpdate_Ratings": "2023-11-10T06:58:07.0560555+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:10:08.4272425+00:00"
 }

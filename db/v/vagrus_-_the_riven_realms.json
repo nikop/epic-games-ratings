@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 173,
+  "EOS_Progressed": 174,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -636,6 +636,11 @@
       "Time": "2023-11-10T03:04:40.9810932+00:00",
       "NumProgressed": 173,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T07:05:18.2202095+00:00",
+      "NumProgressed": 174,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1005,9 +1010,9 @@
       "ID": "Vanilla_FleeFromAFight",
       "SetID": "27kik8p",
       "Name": "Fight Another Day",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "Vanilla_Forager",
@@ -1197,9 +1202,9 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1261,9 +1266,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 99
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1438,7 +1443,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 173,
+      "Progressed": 174,
       "Completed": 0
     }
   ],
@@ -1446,8 +1451,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:05:50.9985503+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:05:18.220209+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.0695346+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:03:36.5170991+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:05:50.9987822+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:03:12.0716317+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:05:18.2203267+00:00"
 }

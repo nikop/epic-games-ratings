@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 359,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -699,9 +699,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1832,
+  "EOS_Progressed": 1833,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -4544,6 +4544,11 @@
       "Time": "2023-11-09T22:07:52.5035588+00:00",
       "NumProgressed": 1832,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T07:05:28.8385855+00:00",
+      "NumProgressed": 1833,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 61,
@@ -4555,7 +4560,7 @@
       "Name": "Transport shark",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "achAccumulate100MHard",
@@ -4651,7 +4656,7 @@
       "Name": "First bus stop",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "achBuildTrainStation",
@@ -4659,7 +4664,7 @@
       "Name": "First train station",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "achCannotGetEnough",
@@ -4715,7 +4720,7 @@
       "Name": "Cadet",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "achCreateLine",
@@ -4755,7 +4760,7 @@
       "Name": "First aircraft arrived",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "achFirstBusArrived",
@@ -4763,7 +4768,7 @@
       "Name": "First bus arrived",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "achFirstCargoTransported",
@@ -4787,7 +4792,7 @@
       "Name": "First electric train arrived",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "achFirstIndustryUpgrade",
@@ -4803,7 +4808,7 @@
       "Name": "First passenger on board",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -4811,7 +4816,7 @@
       "Name": "First passenger waiting",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 1227
+      "UsersEstimate": 1228
     },
     {
       "ID": "achFirstShipArrived",
@@ -4819,7 +4824,7 @@
       "Name": "First ship arrived",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "achFirstSteamTrainArrived",
@@ -4827,7 +4832,7 @@
       "Name": "First steam train arrived",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "achGlacierExpress",
@@ -4899,7 +4904,7 @@
       "Name": "Mass production",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "achMetropolis",
@@ -4915,7 +4920,7 @@
       "Name": "Exemplary student",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "achMuseumLine",
@@ -4963,7 +4968,7 @@
       "Name": "The king of the sea",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "achSmellOfSuccess",
@@ -4977,9 +4982,9 @@
       "ID": "achSmellOfSuccessCargo",
       "SetID": "dgl390n",
       "Name": "Cargo hub",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 971
+      "UsersEstimate": 953
     },
     {
       "ID": "achTopSpeed120",
@@ -5042,15 +5047,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 1832,
+      "Progressed": 1833,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2023-11-09T07:01:45.779901+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:06:02.434031+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:05:28.8385851+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.2911037+00:00",
-  "LastUpdate_Ratings": "2023-11-10T05:57:26.8125953+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:06:02.4341227+00:00"
+  "LastUpdate_Ratings": "2023-11-10T06:57:05.1432688+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:05:28.8386469+00:00"
 }

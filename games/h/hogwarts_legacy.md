@@ -9,8 +9,8 @@ Rating: 4.76 (Ranked 124)
 | First Class Student | 14.00% | ~42,250 |
 | Troll with the Punches | 14.00% | ~42,250 |
 | A Keen Sense of Spell | 13.00% | ~39,232 |
-| A Talent for Spending | 12.00% | ~36,214 |
-| That's a Keeper | 12.00% | ~36,214 |
+| A Talent for Spending | 12.00% | ~36,215 |
+| That's a Keeper | 12.00% | ~36,215 |
 | Grappling with a Graphorn | 11.00% | ~33,197 |
 | The One Who Mastered Memories | 11.00% | ~33,197 |
 | The Hallowed Hero | 11.00% | ~33,197 |
@@ -33,10 +33,10 @@ Rating: 4.76 (Ranked 124)
 | The Toast of the Town | 5.00% | ~15,089 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,089 |
 | The Ends Petrify the Means | 5.00% | ~15,089 |
-| Going Through the Potions | 4.00% | ~12,071 |
-| Room with a View | 4.00% | ~12,071 |
-| The Intrepid Explorer | 4.00% | ~12,071 |
-| The Wise Owl | 4.00% | ~12,071 |
+| Going Through the Potions | 4.00% | ~12,072 |
+| Room with a View | 4.00% | ~12,072 |
+| The Intrepid Explorer | 4.00% | ~12,072 |
+| The Wise Owl | 4.00% | ~12,072 |
 | Put Down Roots | 3.00% | ~9,054 |
 | The Auror's Apprentice | 3.00% | ~9,054 |
 | Floo Around the World | 3.00% | ~9,054 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 124)
 | The Nature of the Beast | 0.70% | ~2,113 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,787 (Ranked 50)  
+Progressed: 301,788 (Ranked 50)  
 Completed: 506 (0.17%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,10 +255,10 @@ Completed: 506 (0.17%) (Ranked 252)
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
 | 2023-11-09 | 301,775 | 505 |
-| 2023-11-10 | 301,787 | 506 |
+| 2023-11-10 | 301,788 | 506 |
 ## Awards
 Max (Character Customization): 24,162  (Ranked 17)  
-Sum: 47,788 (Ranked 30)  
+Sum: 47,791 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -269,7 +269,7 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,224 |
 | This game is Extremely Fun | 1,218 |
 | This game is Relaxing | 1,210 |
-| This game has Amazing Characters | 1,186 |
+| This game has Amazing Characters | 1,189 |
 | This game is Highly Recommended | 1,151 |
 | This game has Quickly Understood Controls | 1,091 |
 | This game has Beautiful Visuals | 1,014 |
@@ -508,4 +508,4 @@ Diff (max vs sum): -13
 | 2023-11-07 | 4.76 | 24,120 | 47,655 |
 | 2023-11-08 | 4.76 | 24,120 | 47,675 |
 | 2023-11-09 | 4.76 | 24,144 | 47,747 |
-| 2023-11-10 | 4.76 | 24,162 | 47,788 |
+| 2023-11-10 | 4.76 | 24,162 | 47,791 |

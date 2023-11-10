@@ -517,7 +517,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8556,
+  "EOS_Progressed": 8557,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
@@ -10947,6 +10947,11 @@
       "Time": "2023-11-10T05:05:37.9862424+00:00",
       "NumProgressed": 8556,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-10T07:06:10.4847186+00:00",
+      "NumProgressed": 8557,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10958,7 +10963,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7101
+      "UsersEstimate": 7102
     },
     {
       "ID": "ACH02",
@@ -10982,7 +10987,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "ACH05",
@@ -10996,9 +11001,9 @@
       "ID": "ACH06",
       "SetID": "552d41m",
       "Name": "Street Sweeper",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 1626
+      "UsersEstimate": 1540
     },
     {
       "ID": "ACH07",
@@ -11189,7 +11194,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8556,
+      "Progressed": 8557,
       "Completed": 56
     }
   ],
@@ -11197,8 +11202,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-07T02:18:06.6938355+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:06:46.4829409+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:06:10.4847182+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:01:22.00489+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:06:46.4830974+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:00:45.3286233+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:06:10.4847812+00:00"
 }

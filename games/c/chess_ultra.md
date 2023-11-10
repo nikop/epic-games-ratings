@@ -5,9 +5,9 @@ Rating: 4.28 (Ranked 848)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 70.00% | ~151,899 |
-| Doubled Pawn | 57.00% | ~123,689 |
-| Check | 55.00% | ~119,349 |
+| Chop Wood | 70.00% | ~151,901 |
+| Doubled Pawn | 57.00% | ~123,691 |
+| Check | 55.00% | ~119,351 |
 | Absolute pin | 47.00% | ~101,990 |
 | Promotion | 31.00% | ~67,270 |
 | Checkmate | 30.00% | ~65,100 |
@@ -44,7 +44,7 @@ Rating: 4.28 (Ranked 848)
 | Tournament Master | 0.10% | ~217 |
 | Tournament Pro | 0.10% | ~217 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 216,999 (Ranked 69)  
+Progressed: 217,001 (Ranked 69)  
 Completed: 2 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 2 (0.00%) (Ranked 346)
 | 2023-11-07 | 216,692 | 2 |
 | 2023-11-08 | 216,818 | 2 |
 | 2023-11-09 | 216,960 | 2 |
-| 2023-11-10 | 216,999 | 2 |
+| 2023-11-10 | 217,001 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

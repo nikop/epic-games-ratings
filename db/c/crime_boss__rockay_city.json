@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 68,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4527,9 +4527,9 @@
       "Count": 486
     }
   ],
-  "EOS_Progressed": 90066,
+  "EOS_Progressed": 90072,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 560,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24647,6 +24647,11 @@
       "Time": "2023-11-10T06:05:06.7226764+00:00",
       "NumProgressed": 90066,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-10T07:04:36.6789367+00:00",
+      "NumProgressed": 90072,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24682,7 +24687,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_0014",
@@ -24690,7 +24695,7 @@
       "Name": "Track Star",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_0015",
@@ -24776,9 +24781,9 @@
       "ID": "ACH_0101",
       "SetID": "3kam13l",
       "Name": "Talent Scout",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_0102",
@@ -24906,7 +24911,7 @@
       "Name": "True Player",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_0450",
@@ -24985,13 +24990,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90066,
+      "Progressed": 90072,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18413,
+      "Progressed": 18419,
       "Completed": 15563
     }
   ],
@@ -24999,8 +25004,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-10T05:00:22.0748136+00:00",
-  "LastChanged_Achievements": "2023-11-10T06:05:06.7226759+00:00",
+  "LastChanged_Achievements": "2023-11-10T07:04:36.6789361+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:01:31.7329322+00:00",
-  "LastUpdate_Achievements": "2023-11-10T06:05:06.7228497+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:00:54.2524727+00:00",
+  "LastUpdate_Achievements": "2023-11-10T07:04:36.6790519+00:00"
 }

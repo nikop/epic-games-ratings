@@ -48,8 +48,8 @@ Rating: 4.62 (Ranked 366)
 | Sartorialist | 8.00% | ~73 |
 | Golem Hunter | 7.00% | ~64 |
 | Clovemary for Remembering | 6.00% | ~55 |
+| Rungs Was Right | 6.00% | ~55 |
 | Hexlock for Protection | 5.00% | ~46 |
-| Rungs Was Right | 5.00% | ~46 |
 | Wunderkind | 3.00% | ~28 |
 | Fitting In | 2.00% | ~18 |
 | Thinking Two Steps Ahead | 1.00% | ~9 |

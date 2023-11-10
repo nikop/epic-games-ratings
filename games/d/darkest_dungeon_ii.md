@@ -6,43 +6,43 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Place to Lay Your Head | 93.00% | ~114,453 |
-| Don't Make Me Turn This Coach Around | 71.00% | ~87,378 |
-| A Clear Conscience | 69.00% | ~84,917 |
-| Unleash Hell | 68.00% | ~83,686 |
-| Unfulfilled Desires | 68.00% | ~83,686 |
-| Funny Guy | 67.00% | ~82,456 |
-| Unshackled | 67.00% | ~82,456 |
-| Long Live the King | 66.00% | ~81,225 |
-| Resurrection | 62.00% | ~76,302 |
-| Wyrdly Reconstructed | 62.00% | ~76,302 |
-| Boxcar Kid | 61.00% | ~75,071 |
-| Rush Hour | 60.00% | ~73,841 |
-| To Grandmother's House | 60.00% | ~73,841 |
-| Serenity Now! | 54.00% | ~66,457 |
-| Hope Rekindled | 50.00% | ~61,534 |
-| Ramble On | 49.00% | ~60,303 |
-| Nope | 49.00% | ~60,303 |
-| This Looks Familiar | 38.00% | ~46,766 |
-| Now Stay Dead | 38.00% | ~46,766 |
-| Harvest Festival | 37.00% | ~45,535 |
-| Merry Time | 36.00% | ~44,304 |
-| Hot Air | 36.00% | ~44,304 |
-| Creep and Sleep | 33.00% | ~40,612 |
-| Overdue Notice | 33.00% | ~40,612 |
+| A Place to Lay Your Head | 93.00% | ~114,455 |
+| Don't Make Me Turn This Coach Around | 71.00% | ~87,380 |
+| A Clear Conscience | 69.00% | ~84,918 |
+| Unleash Hell | 68.00% | ~83,688 |
+| Unfulfilled Desires | 68.00% | ~83,688 |
+| Funny Guy | 67.00% | ~82,457 |
+| Unshackled | 67.00% | ~82,457 |
+| Long Live the King | 66.00% | ~81,226 |
+| Resurrection | 62.00% | ~76,303 |
+| Wyrdly Reconstructed | 62.00% | ~76,303 |
+| Boxcar Kid | 61.00% | ~75,073 |
+| Rush Hour | 60.00% | ~73,842 |
+| To Grandmother's House | 60.00% | ~73,842 |
+| Serenity Now! | 54.00% | ~66,458 |
+| Hope Rekindled | 50.00% | ~61,535 |
+| Ramble On | 49.00% | ~60,304 |
+| Nope | 49.00% | ~60,304 |
+| This Looks Familiar | 38.00% | ~46,767 |
+| Now Stay Dead | 38.00% | ~46,767 |
+| Harvest Festival | 37.00% | ~45,536 |
+| Merry Time | 36.00% | ~44,305 |
+| Hot Air | 36.00% | ~44,305 |
+| Creep and Sleep | 33.00% | ~40,613 |
+| Overdue Notice | 33.00% | ~40,613 |
 | Whale | 32.00% | ~39,382 |
-| Banishment | 31.00% | ~38,151 |
-| FNG | 30.00% | ~36,920 |
-| Predator | 25.00% | ~30,767 |
-| Reverse Banditry | 25.00% | ~30,767 |
-| Autodidact | 25.00% | ~30,767 |
+| Banishment | 31.00% | ~38,152 |
+| FNG | 30.00% | ~36,921 |
+| Predator | 25.00% | ~30,768 |
+| Reverse Banditry | 25.00% | ~30,768 |
+| Autodidact | 25.00% | ~30,768 |
 | Meat and Greet | 23.00% | ~28,306 |
 | Spelunker | 22.00% | ~27,075 |
 | Road Trip | 22.00% | ~27,075 |
-| Eyes Up | 21.00% | ~25,844 |
+| Eyes Up | 21.00% | ~25,845 |
 | It Rings a Bell | 20.00% | ~24,614 |
-| Dissector | 18.00% | ~22,152 |
-| Escape from the Black Hole | 18.00% | ~22,152 |
+| Dissector | 18.00% | ~22,153 |
+| Escape from the Black Hole | 18.00% | ~22,153 |
 | It Happens | 17.00% | ~20,922 |
 | This Belongs in a Museum | 16.00% | ~19,691 |
 | Handled | 16.00% | ~19,691 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Loop Year | 0.10% | ~123 |
 | No Gravestone Left Unturned | 0.10% | ~123 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 123,068 (Ranked 83)  
+Progressed: 123,070 (Ranked 83)  
 Completed: 1 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 1 (0.00%) (Ranked 346)
 | 2023-11-07 | 122,788 | 1 |
 | 2023-11-08 | 122,926 | 1 |
 | 2023-11-09 | 123,039 | 1 |
-| 2023-11-10 | 123,068 | 1 |
+| 2023-11-10 | 123,070 | 1 |
 ## Awards
 Max (Character Customization): 7,499  (Ranked 51)  
 Sum: 19,707 (Ranked 59)  
