@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~831 |
-| Pork Chopped | 2.00% | ~831 |
+| Whatever It Takes | 2.00% | ~832 |
+| Pork Chopped | 2.00% | ~832 |
 | One of Us | 1.00% | ~416 |
 | Welcome To Hell-A | 0.70% | ~5,012 |
 | Break A Leg | 0.60% | ~4,296 |
@@ -19,6 +19,7 @@ Rating: 4.54 (Ranked 522)
 | Hazardous Materials | 0.50% | ~3,580 |
 | Friends Like These | 0.50% | ~3,580 |
 | Apex Predator | 0.50% | ~3,580 |
+| Stacking the Deck | 0.50% | ~3,580 |
 | Personal Assistant Personally Assisted | 0.50% | ~3,580 |
 | Perks of the Job | 0.40% | ~2,864 |
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,864 |
@@ -29,7 +30,6 @@ Rating: 4.54 (Ranked 522)
 | Zombologist | 0.40% | ~2,864 |
 | Ooh, Shiny! | 0.40% | ~2,864 |
 | A Patton Emerges | 0.40% | ~2,864 |
-| Stacking the Deck | 0.40% | ~2,864 |
 | Max Headroom | 0.40% | ~2,864 |
 | Our True Nature | 0.40% | ~2,864 |
 | This is My Weapon | 0.40% | ~2,864 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,012 (Ranked 21)  
-Completed: 2,372 (0.33%) (Ranked 220)  
+Progressed: 716,036 (Ranked 21)  
+Completed: 2,373 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,7 +261,7 @@ Completed: 2,372 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 716,012 | 2,372 |
+| 2023-11-10 | 716,036 | 2,373 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 53)  
 Sum: 11,008 (Ranked 86)  

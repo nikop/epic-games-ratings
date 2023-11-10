@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78009,
+  "EOS_Progressed": 78012,
   "EOS_Completed": 833,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -22947,6 +22947,11 @@
       "Time": "2023-11-10T17:20:55.4204644+00:00",
       "NumProgressed": 78009,
       "NumCompleted": 833
+    },
+    {
+      "Time": "2023-11-10T18:04:33.9250401+00:00",
+      "NumProgressed": 78012,
+      "NumCompleted": 833
     }
   ],
   "TotalAchievements": 25,
@@ -22990,7 +22995,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17162
+      "UsersEstimate": 17163
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -23054,7 +23059,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 3900
+      "UsersEstimate": 3901
     },
     {
       "ID": "Master, Commander",
@@ -23062,7 +23067,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16382
+      "UsersEstimate": 16383
     },
     {
       "ID": "Meaty",
@@ -23086,7 +23091,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12481
+      "UsersEstimate": 12482
     },
     {
       "ID": "Nothing Left to Say",
@@ -23110,7 +23115,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10141
+      "UsersEstimate": 10142
     },
     {
       "ID": "Sniper",
@@ -23157,7 +23162,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78009,
+      "Progressed": 78012,
       "Completed": 833
     }
   ],
@@ -23165,8 +23170,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-10T17:20:55.420464+00:00",
+  "LastChanged_Achievements": "2023-11-10T18:04:33.9250398+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:00:28.6079724+00:00",
-  "LastUpdate_Achievements": "2023-11-10T17:20:55.4205612+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:57:23.8729712+00:00",
+  "LastUpdate_Achievements": "2023-11-10T18:04:33.9251366+00:00"
 }

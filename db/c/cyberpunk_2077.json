@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14948,10 +14948,10 @@
       "Count": 12694
     }
   ],
-  "EOS_Progressed": 896043,
+  "EOS_Progressed": 896047,
   "EOS_Completed": 2760,
-  "EOS_NewPlayers": 982,
-  "EOS_NewCompleters": 21,
+  "EOS_NewPlayers": 981,
+  "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38073,6 +38073,11 @@
       "Time": "2023-11-10T17:19:29.9857977+00:00",
       "NumProgressed": 896043,
       "NumCompleted": 2760
+    },
+    {
+      "Time": "2023-11-10T18:03:55.6442094+00:00",
+      "NumProgressed": 896047,
+      "NumCompleted": 2760
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38539,9 +38544,9 @@
       "ID": "AllThePresidentsMen",
       "SetID": "23nboa5",
       "Name": "All the President\u0027s Men",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 99
+      "UsersEstimate": 123
     },
     {
       "ID": "HydraIsDead",
@@ -38611,30 +38616,30 @@
       "ID": "EasyComeEasyGo",
       "SetID": "23nboa5",
       "Name": "Easy Come, Easy Go",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 74
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896043,
+      "Progressed": 896047,
       "Completed": 2760
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24666,
+      "Progressed": 24670,
       "Completed": 10205
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-10T17:07:53.5536398+00:00",
-  "LastChanged_Achievements": "2023-11-10T17:19:29.9857974+00:00",
+  "LastChanged_Achievements": "2023-11-10T18:03:55.644209+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:07:53.5536408+00:00",
-  "LastUpdate_Achievements": "2023-11-10T17:19:29.9859321+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:57:58.1306477+00:00",
+  "LastUpdate_Achievements": "2023-11-10T18:03:55.6443408+00:00"
 }

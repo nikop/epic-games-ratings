@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 192,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,9 +915,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7256,
+  "EOS_Progressed": 7257,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8360,6 +8360,11 @@
       "Time": "2023-11-10T15:08:14.6599886+00:00",
       "NumProgressed": 7256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T18:06:34.9039568+00:00",
+      "NumProgressed": 7257,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8403,7 +8408,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8411,7 +8416,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4426
+      "UsersEstimate": 4427
     },
     {
       "ID": "Control_All_Relics",
@@ -8435,7 +8440,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -8451,7 +8456,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2249
+      "UsersEstimate": 2250
     },
     {
       "ID": "First_Major_Ally",
@@ -8475,7 +8480,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5587
+      "UsersEstimate": 5588
     },
     {
       "ID": "First_Race_Met",
@@ -8483,7 +8488,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5224
+      "UsersEstimate": 5225
     },
     {
       "ID": "First_Ship_Designed",
@@ -8507,7 +8512,7 @@
       "Name": "Worker Specialization",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5587
+      "UsersEstimate": 5588
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -8563,7 +8568,7 @@
       "Name": "Trading Partner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "Level_5_Ship",
@@ -8587,7 +8592,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2394
+      "UsersEstimate": 2395
     },
     {
       "ID": "Play_1000_Hours",
@@ -8675,7 +8680,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -8859,7 +8864,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4716
+      "UsersEstimate": 4717
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -8867,7 +8872,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "Win_Conquest",
@@ -8946,15 +8951,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7256,
+      "Progressed": 7257,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-10T17:23:46.919859+00:00",
+  "LastChanged_Achievements": "2023-11-10T18:06:34.9039564+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.2385325+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:14:42.0857539+00:00",
-  "LastUpdate_Achievements": "2023-11-10T17:23:46.9199495+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:58:44.9702206+00:00",
+  "LastUpdate_Achievements": "2023-11-10T18:06:34.9040487+00:00"
 }

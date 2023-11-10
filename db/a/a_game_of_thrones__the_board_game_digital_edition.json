@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 280,
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1314,9 +1314,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28009,
+  "EOS_Progressed": 28013,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 498,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23229,6 +23229,11 @@
       "Time": "2023-11-10T17:24:46.8730789+00:00",
       "NumProgressed": 28009,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2023-11-10T18:08:26.8657681+00:00",
+      "NumProgressed": 28013,
+      "NumCompleted": 76
     }
   ],
   "TotalAchievements": 22,
@@ -23264,7 +23269,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "1019",
@@ -23280,7 +23285,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1400
+      "UsersEstimate": 1401
     },
     {
       "ID": "1021",
@@ -23360,7 +23365,7 @@
       "Name": "Battering Crew",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 5602
+      "UsersEstimate": 5603
     },
     {
       "ID": "1031",
@@ -23368,7 +23373,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "1032",
@@ -23376,7 +23381,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 11204
+      "UsersEstimate": 11205
     },
     {
       "ID": "1033",
@@ -23400,7 +23405,7 @@
       "Name": "Royal Fleet",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3642
     },
     {
       "ID": "1036",
@@ -23415,15 +23420,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28009,
+      "Progressed": 28013,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-10T17:24:46.8730786+00:00",
+  "LastChanged_Achievements": "2023-11-10T18:08:26.8657676+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.0319052+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:17:57.8438442+00:00",
-  "LastUpdate_Achievements": "2023-11-10T17:24:46.8731766+00:00"
+  "LastUpdate_Ratings": "2023-11-10T18:02:50.0349161+00:00",
+  "LastUpdate_Achievements": "2023-11-10T18:08:26.8658856+00:00"
 }

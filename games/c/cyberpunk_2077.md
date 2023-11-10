@@ -11,10 +11,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 0.80% | ~197 |
 | Full Body Conversion | 0.50% | ~4,480 |
 | True Soldier | 0.50% | ~4,480 |
+| All the President's Men | 0.50% | ~123 |
 | Right Back At Ya | 0.40% | ~3,584 |
 | The Quick and the Dead | 0.40% | ~3,584 |
 | Stanislavski's Method | 0.40% | ~3,584 |
-| All the President's Men | 0.40% | ~99 |
 | Arachnophobia | 0.40% | ~99 |
 | Bushido and Chill | 0.30% | ~2,688 |
 | Master Crafter | 0.30% | ~2,688 |
@@ -31,6 +31,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.30% | ~2,688 |
 | Spin Doctor | 0.30% | ~74 |
 | Dirty Deeds | 0.30% | ~74 |
+| Easy Come, Easy Go | 0.30% | ~74 |
 | To Protect and Serve | 0.20% | ~1,792 |
 | The Wandering Fool | 0.20% | ~1,792 |
 | The Fool | 0.20% | ~1,792 |
@@ -38,7 +39,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 0.20% | ~1,792 |
 | King of Wands | 0.20% | ~49 |
 | The Tower | 0.20% | ~49 |
-| Easy Come, Easy Go | 0.20% | ~49 |
 | City Lights | 0.10% | ~896 |
 | To Bad Decisions! | 0.10% | ~896 |
 | Autojock | 0.10% | ~896 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,043 (Ranked 15)  
+Progressed: 896,047 (Ranked 15)  
 Completed: 2,760 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 2,760 (0.31%) (Ranked 224)
 | 2023-11-07 | 895,712 | 2,753 |
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
-| 2023-11-10 | 896,043 | 2,760 |
+| 2023-11-10 | 896,047 | 2,760 |
 ## Awards
 Max (Character Customization): 104,816  (Ranked 9)  
 Sum: 348,364 (Ranked 10)  

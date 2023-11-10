@@ -9,7 +9,7 @@
 | Clean Race | 41.00% | ~857 |
 | Hear That Roar! | 39.00% | ~815 |
 | Rivals to the End | 28.00% | ~585 |
-| Bitter Rivalry | 27.00% | ~564 |
+| Bitter Rivalry | 27.00% | ~565 |
 | We're Going to Need a Bigger Garage | 24.00% | ~502 |
 | Champagne Spray | 24.00% | ~502 |
 | Restored and Ready | 19.00% | ~397 |
@@ -22,7 +22,7 @@
 | Stamina Star | 8.00% | ~167 |
 | Is It the Right Size? | 8.00% | ~167 |
 | Evangelist | 6.00% | ~125 |
-| Make It Your Own! | 5.00% | ~104 |
+| Make It Your Own! | 5.00% | ~105 |
 | I Make the Rules! | 4.00% | ~84 |
 | Spoilt for Choice | 3.00% | ~63 |
 | Cherry Blossom and Temples | 3.00% | ~63 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,090 (Ranked 218)  
+Progressed: 2,091 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,4 +124,4 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 2,043 | 0 |
 | 2023-11-08 | 2,060 | 0 |
 | 2023-11-09 | 2,075 | 0 |
-| 2023-11-10 | 2,090 | 0 |
+| 2023-11-10 | 2,091 | 0 |

@@ -2,13 +2,13 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 65,
+  "Ranking_Rating": 79,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 170,
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.82,
+  "Rating": 4.81,
   "NumberOfRatings": 1845,
   "RatingHistory": [
     {
@@ -3141,10 +3141,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3213,
       "NumberOfAwardsMax": 439
+    },
+    {
+      "Time": "2023-11-10T17:59:42.1162287+00:00",
+      "Rating": 4.81,
+      "NumberOfAwards": 3214,
+      "NumberOfAwardsMax": 439
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3213,
+  "NumberOfAwards": 3214,
   "NumberOfAwardsMax": 439,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3200,7 +3206,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 212
+      "Count": 213
     },
     {
       "Text": "This game has Unique Visuals",
@@ -13800,9 +13806,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2023-11-09T19:07:50.2946789+00:00",
-  "LastChanged_Achievements": "2023-11-10T17:19:10.6909767+00:00",
+  "LastChanged": "2023-11-10T17:59:42.1162285+00:00",
+  "LastChanged_Achievements": "2023-11-10T18:03:41.9041727+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:16:11.887845+00:00",
-  "LastUpdate_Achievements": "2023-11-10T17:19:10.6910463+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:59:42.1162293+00:00",
+  "LastUpdate_Achievements": "2023-11-10T18:03:41.9042644+00:00"
 }

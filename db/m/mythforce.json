@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4768,
+  "EOS_Progressed": 4769,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9000,6 +9000,11 @@
       "Time": "2023-11-10T15:09:29.1986412+00:00",
       "NumProgressed": 4768,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-10T18:08:52.1438947+00:00",
+      "NumProgressed": 4769,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9036,7 +9041,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -9100,7 +9105,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9195,15 +9200,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4768,
+      "Progressed": 4769,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-10T17:25:21.5174876+00:00",
+  "LastChanged_Achievements": "2023-11-10T18:08:52.1438944+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:17:40.1433823+00:00",
-  "LastUpdate_Achievements": "2023-11-10T17:25:21.5175391+00:00"
+  "LastUpdate_Ratings": "2023-11-10T18:02:38.8399266+00:00",
+  "LastUpdate_Achievements": "2023-11-10T18:08:52.1439835+00:00"
 }

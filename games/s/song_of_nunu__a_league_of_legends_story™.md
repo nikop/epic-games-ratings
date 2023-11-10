@@ -24,7 +24,7 @@
 | A Tragic Reminder | 41.00% | ~256 |
 | 3000 Year Blackout | 40.00% | ~250 |
 | True Legends | 40.00% | ~250 |
-| The Finisher | 39.00% | ~244 |
+| The Finisher | 40.00% | ~250 |
 | So Close | 36.00% | ~225 |
 | You Get Used To It | 36.00% | ~225 |
 | Bullseye | 34.00% | ~213 |

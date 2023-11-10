@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~103 |
-| Press-ganged | 42.00% | ~74 |
+| A Second Chance | 57.00% | ~101 |
+| Press-ganged | 42.00% | ~75 |
 | The Package | 27.00% | ~48 |
-| Conquered | 18.00% | ~32 |
+| Conquered | 17.00% | ~30 |
 | Randomized | 16.00% | ~28 |
 | Scribe | 10.00% | ~18 |
 | Tactician | 8.00% | ~14 |
@@ -17,15 +17,15 @@
 | Scholar | 6.00% | ~11 |
 | Acquaintance | 6.00% | ~11 |
 | Tail-wind | 6.00% | ~11 |
-| Strategist | 5.00% | ~9 |
-| The More the Merrier | 5.00% | ~9 |
+| Taskmaster | 6.00% | ~11 |
 | Harbinger | 5.00% | ~9 |
-| Been There | 5.00% | ~9 |
-| Spiritual Journey | 5.00% | ~9 |
-| Taskmaster | 5.00% | ~9 |
 | Quartermaster | 4.00% | ~7 |
+| Strategist | 4.00% | ~7 |
+| The More the Merrier | 4.00% | ~7 |
 | Deputized | 4.00% | ~7 |
 | Courier | 4.00% | ~7 |
+| Been There | 4.00% | ~7 |
+| Spiritual Journey | 4.00% | ~7 |
 | Pilgrimage's End | 4.00% | ~7 |
 | Trouble at Fort Larius | 4.00% | ~7 |
 | Bounty Hunter | 3.00% | ~5 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 177 (Ranked 377)  
+Progressed: 178 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-05 | 162 | 0 |
 | 2023-11-08 | 166 | 0 |
 | 2023-11-09 | 170 | 0 |
-| 2023-11-10 | 177 | 0 |
+| 2023-11-10 | 178 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

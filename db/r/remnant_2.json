@@ -3991,10 +3991,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 4788,
       "NumberOfAwardsMax": 2129
+    },
+    {
+      "Time": "2023-11-10T18:02:49.9110474+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 4792,
+      "NumberOfAwardsMax": 2129
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4788,
+  "NumberOfAwards": 4792,
   "NumberOfAwardsMax": 2129,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4038,7 +4044,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 266
+      "Count": 270
     },
     {
       "Text": "This game has a Creative Community",
@@ -4065,9 +4071,9 @@
       "Count": 289
     }
   ],
-  "EOS_Progressed": 219359,
+  "EOS_Progressed": 219364,
   "EOS_Completed": 437,
-  "EOS_NewPlayers": 2147,
+  "EOS_NewPlayers": 2129,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17410,6 +17416,11 @@
       "Time": "2023-11-10T17:23:41.5907185+00:00",
       "NumProgressed": 219359,
       "NumCompleted": 437
+    },
+    {
+      "Time": "2023-11-10T18:06:31.1694438+00:00",
+      "NumProgressed": 219364,
+      "NumCompleted": 437
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17462,7 +17473,7 @@
       "Name": "Chaos",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Defeat_Cube",
@@ -17478,7 +17489,7 @@
       "Name": "Traitor",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Defeat_Final_Boss",
@@ -17494,7 +17505,7 @@
       "Name": "Power Surge",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Defeat_Mantis",
@@ -17510,7 +17521,7 @@
       "Name": "The God Gambit",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Defeat_Nightweaver",
@@ -17518,7 +17529,7 @@
       "Name": "Dark Designs",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Defeat_Special_Enemies",
@@ -17534,7 +17545,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Defeat_World_Boss",
@@ -17606,7 +17617,7 @@
       "Name": "First of Many",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19742
+      "UsersEstimate": 19743
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -17646,7 +17657,7 @@
       "Name": "Was This Supposed To Happen?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Obtain_Boss_Weapon",
@@ -17694,7 +17705,7 @@
       "Name": "The Web",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Obtain_Relics",
@@ -17710,7 +17721,7 @@
       "Name": "Scrap Collector",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Obtain_Scrap_B",
@@ -17734,7 +17745,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "Obtain_Traits_C",
@@ -17821,16 +17832,16 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 219359,
+      "Progressed": 219364,
       "Completed": 437
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2023-11-10T17:17:57.6564944+00:00",
-  "LastChanged_Achievements": "2023-11-10T17:23:41.5907182+00:00",
+  "LastChanged": "2023-11-10T18:02:49.9110472+00:00",
+  "LastChanged_Achievements": "2023-11-10T18:06:31.1694435+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:42.4458808+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:17:57.6564949+00:00",
-  "LastUpdate_Achievements": "2023-11-10T17:23:41.5907969+00:00"
+  "LastUpdate_Ratings": "2023-11-10T18:02:49.9110479+00:00",
+  "LastUpdate_Achievements": "2023-11-10T18:06:31.1695536+00:00"
 }

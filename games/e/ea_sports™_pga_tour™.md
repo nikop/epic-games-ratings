@@ -21,7 +21,7 @@
 | A Passion for Excellence | 24.00% | ~124 |
 | The Ultimate Prize | 17.00% | ~88 |
 | Golfer Versus Golfer | 16.00% | ~83 |
-| Victory Lap | 9.00% | ~47 |
+| Victory Lap | 10.00% | ~52 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 518 (Ranked 294)  
 Completed: 8 (1.54%) (Ranked 134)  

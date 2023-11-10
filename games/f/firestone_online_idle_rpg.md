@@ -57,9 +57,9 @@ Rating: 4.10 (Ranked 958)
 | The Alchemist | 7.00% | ~152 |
 | Active Member | 6.00% | ~130 |
 | Ancient Knowledge | 6.00% | ~130 |
+| Background Story | 6.00% | ~130 |
 | Legendary | 6.00% | ~130 |
 | Arena Challenger | 5.00% | ~108 |
-| Background Story | 5.00% | ~108 |
 | Ebony Jungle Liberator | 5.00% | ~108 |
 | Gear Enchanting | 4.00% | ~87 |
 | Mythic Power | 4.00% | ~87 |

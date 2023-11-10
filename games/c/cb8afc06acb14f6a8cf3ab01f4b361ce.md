@@ -29,6 +29,7 @@ Rating: 4.21 (Ranked 901)
 | Through the Veil | 0.10% | ~307 |
 | Call this the Judge's mercy | 0.10% | ~307 |
 | Pride is a sin, young Knight | 0.10% | ~307 |
+| There's too many of them! | 0.10% | ~307 |
 | Their fate is sealed | 0.10% | ~307 |
 | Not even from this world | 0.10% | ~307 |
 | Your wounds… They are healing so fast! | 0.10% | ~307 |
@@ -41,13 +42,12 @@ Rating: 4.21 (Ranked 901)
 | I took a risk | 0.10% | ~307 |
 | Let's raise the stakes!! | 0.10% | ~307 |
 | A legend among Chimeras | 0.00% | ~0 |
-| There's too many of them! | 0.00% | ~0 |
 | I'm just warming up | 0.00% | ~0 |
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307,111 (Ranked 49)  
-Completed: 3 (0.00%) (Ranked 347)  
+Progressed: 307,149 (Ranked 49)  
+Completed: 4 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 3 (0.00%) (Ranked 347)
 | 2023-11-07 | 305,112 | 2 |
 | 2023-11-08 | 305,812 | 3 |
 | 2023-11-09 | 306,560 | 3 |
-| 2023-11-10 | 307,111 | 3 |
+| 2023-11-10 | 307,149 | 4 |
 ## Awards
 Max (Great Boss Battles): 52  (Ranked 421)  
 Sum: 52 (Ranked 474)  

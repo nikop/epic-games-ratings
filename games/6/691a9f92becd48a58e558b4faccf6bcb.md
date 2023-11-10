@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost forever | 2.00% | ~4 |
-| Silver Button | 2.00% | ~4 |
+| Lost forever | 2.00% | ~5 |
+| Silver Button | 2.00% | ~5 |
 | Minimalist lifestyle | 1.00% | ~2 |
 | I deliver the presents! | 1.00% | ~2 |
 | A new HOME | 1.00% | ~2 |
@@ -23,7 +23,7 @@
 | Silver Scarf | 0.40% | ~1 |
 | So close! | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 225 (Ranked 362)  
+Progressed: 226 (Ranked 361)  
 Completed: 1 (0.44%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 1 (0.44%) (Ranked 203)
 | 2023-11-07 | 215 | 1 |
 | 2023-11-08 | 217 | 1 |
 | 2023-11-09 | 221 | 1 |
-| 2023-11-10 | 225 | 1 |
+| 2023-11-10 | 226 | 1 |

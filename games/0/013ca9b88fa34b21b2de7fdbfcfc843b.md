@@ -1,22 +1,22 @@
 # Fae Farm
 [Store](https://store.epicgames.com/en-US/p/fae-farm)  
 [View Rawdata](../../db/0/013ca9b88fa34b21b2de7fdbfcfc843b.json)  
-Rating: 4.59 (Ranked 432)  
+Rating: 4.60 (Ranked 411)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,517 |
-| A Thorny Situation | 70.00% | ~5,364 |
-| ... And Spit Back Out | 61.00% | ~4,674 |
+| Azoria Beckons | 72.00% | ~5,518 |
+| A Thorny Situation | 70.00% | ~5,365 |
+| ... And Spit Back Out | 61.00% | ~4,675 |
 | Break-Net Speed | 49.00% | ~3,755 |
 | Bramble Breaker | 46.00% | ~3,525 |
-| Miner 49er | 43.00% | ~3,295 |
-| Humble Collector | 42.00% | ~3,218 |
-| Calm Sailing | 37.00% | ~2,835 |
-| Open the Gate! | 34.00% | ~2,605 |
+| Miner 49er | 43.00% | ~3,296 |
+| Humble Collector | 42.00% | ~3,219 |
+| Calm Sailing | 37.00% | ~2,836 |
+| Open the Gate! | 34.00% | ~2,606 |
 | Mist Walker | 32.00% | ~2,452 |
 | Lumberjack | 27.00% | ~2,069 |
-| Oui, Chef! | 23.00% | ~1,762 |
+| Oui, Chef! | 23.00% | ~1,763 |
 | Clear the Air | 19.00% | ~1,456 |
 | Botanical Breakthrough | 17.00% | ~1,303 |
 | Search for the Hairy Grell | 14.00% | ~1,073 |
@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 432)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,663 (Ranked 169)  
+Progressed: 7,664 (Ranked 169)  
 Completed: 1 (0.01%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.01%) (Ranked 324)
 | 2023-11-07 | 7,620 | 1 |
 | 2023-11-08 | 7,630 | 1 |
 | 2023-11-09 | 7,646 | 1 |
-| 2023-11-10 | 7,663 | 1 |
+| 2023-11-10 | 7,664 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -148,3 +148,4 @@ Completed: 1 (0.01%) (Ranked 324)
 | 2023-10-29 | 4.61 | 0 | 0 |
 | 2023-11-01 | 4.60 | 0 | 0 |
 | 2023-11-09 | 4.59 | 0 | 0 |
+| 2023-11-10 | 4.60 | 0 | 0 |

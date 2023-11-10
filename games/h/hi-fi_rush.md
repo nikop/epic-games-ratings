@@ -56,10 +56,10 @@ Rating: 4.86 (Ranked 30)
 | Problem solved... wait, what? | 0.40% | ~17 |
 | It'll do, CNMN | 0.40% | ~11 |
 | And the crowd goes wild! | 0.30% | ~13 |
+| Fully Powered Up! | 0.30% | ~13 |
 | I am a good person who likes to help | 0.30% | ~13 |
 | With our powers combined…and to the rhythm… | 0.30% | ~13 |
 | I can't see this ever being a problem again | 0.20% | ~8 |
-| Fully Powered Up! | 0.20% | ~8 |
 | This was... not what I expected. | 0.20% | ~8 |
 | Have we met before? | 0.20% | ~8 |
 | That was just EVIL | 0.20% | ~5 |

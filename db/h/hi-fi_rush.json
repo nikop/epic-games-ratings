@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 189,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -7435,9 +7435,9 @@
       "ID": "Ach020",
       "SetID": "12n4k20",
       "Name": "Fully Powered Up!",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 13
     },
     {
       "ID": "Ach021",
@@ -7866,8 +7866,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-10T17:21:58.8841756+00:00",
+  "LastChanged_Achievements": "2023-11-10T18:05:18.7489234+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.7120425+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:14:30.652486+00:00",
-  "LastUpdate_Achievements": "2023-11-10T17:21:58.8842697+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:58:38.0211869+00:00",
+  "LastUpdate_Achievements": "2023-11-10T18:05:18.7490187+00:00"
 }
