@@ -100,10 +100,10 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.60% | ~833 |
 | A Legend is Born | 0.60% | ~833 |
 | Economy of Scarce | 0.60% | ~833 |
-| Thank You Tom Nook | 0.50% | ~694 |
-| Jackpot! | 0.50% | ~694 |
-| Eternal Crusade | 0.50% | ~694 |
-| All Accounted For | 0.50% | ~694 |
+| Thank You Tom Nook | 0.50% | ~695 |
+| Jackpot! | 0.50% | ~695 |
+| Eternal Crusade | 0.50% | ~695 |
+| All Accounted For | 0.50% | ~695 |
 | The Free Encyclopedia | 0.40% | ~556 |
 | All or Nothing! | 0.40% | ~556 |
 | JACKPOT!!! | 0.30% | ~417 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,888 (Ranked 79)  
+Progressed: 138,908 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 257)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 138,888 | 180 |
+| 2023-11-10 | 138,908 | 180 |
 ## Awards
 Max (Great for Beginners): 4,822  (Ranked 74)  
 Sum: 27,516 (Ranked 52)  

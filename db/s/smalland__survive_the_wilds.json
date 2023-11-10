@@ -2,12 +2,12 @@
   "ID": "390584f0f63a4e69978eafa4d4fce9e7",
   "Name": "Smalland: Survive the Wilds",
   "ProductSlug": "smalland",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 410,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20510,
+  "EOS_Progressed": 20513,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7972,6 +7972,11 @@
       "Time": "2023-11-10T00:08:34.340149+00:00",
       "NumProgressed": 20510,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-10T01:53:35.3032102+00:00",
+      "NumProgressed": 20513,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -8015,7 +8020,7 @@
       "Name": "One VERY small step",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "MeetNok",
@@ -8086,7 +8091,7 @@
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 20510,
+      "Progressed": 20513,
       "Completed": 18
     }
   ],
@@ -8094,8 +8099,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-11-03T14:58:07.8620492+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:08:34.3401487+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:53:35.3032099+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:09.5893986+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:59:32.0224241+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:08:34.3401967+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:45:05.7519172+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:53:35.3032725+00:00"
 }

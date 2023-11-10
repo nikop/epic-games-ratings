@@ -5,18 +5,18 @@ Rating: 4.76 (Ranked 124)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,284 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,285 |
 | First Class Student | 14.00% | ~42,249 |
 | Troll with the Punches | 14.00% | ~42,249 |
 | A Keen Sense of Spell | 13.00% | ~39,231 |
-| A Talent for Spending | 12.00% | ~36,213 |
-| That's a Keeper | 12.00% | ~36,213 |
-| Grappling with a Graphorn | 11.00% | ~33,195 |
-| The One Who Mastered Memories | 11.00% | ~33,195 |
-| The Hallowed Hero | 11.00% | ~33,195 |
-| The Defender of Dragons | 11.00% | ~33,195 |
-| Loom for Improvement | 11.00% | ~33,195 |
-| Coasting Along | 11.00% | ~33,195 |
+| A Talent for Spending | 12.00% | ~36,214 |
+| That's a Keeper | 12.00% | ~36,214 |
+| Grappling with a Graphorn | 11.00% | ~33,196 |
+| The One Who Mastered Memories | 11.00% | ~33,196 |
+| The Hallowed Hero | 11.00% | ~33,196 |
+| The Defender of Dragons | 11.00% | ~33,196 |
+| Loom for Improvement | 11.00% | ~33,196 |
+| Coasting Along | 11.00% | ~33,196 |
 | The Hero of Hogwarts | 10.00% | ~30,178 |
 | Challenge Accepted | 10.00% | ~30,178 |
 | Followed the Butterflies | 10.00% | ~30,178 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 124)
 | The Nature of the Beast | 0.70% | ~2,112 |
 | Collector's Edition | 0.30% | ~905 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,777 (Ranked 50)  
+Progressed: 301,780 (Ranked 50)  
 Completed: 505 (0.17%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,15 +255,15 @@ Completed: 505 (0.17%) (Ranked 251)
 | 2023-11-07 | 301,629 | 504 |
 | 2023-11-08 | 301,718 | 505 |
 | 2023-11-09 | 301,775 | 505 |
-| 2023-11-10 | 301,777 | 505 |
+| 2023-11-10 | 301,780 | 505 |
 ## Awards
-Max (Character Customization): 24,144  (Ranked 17)  
-Sum: 47,747 (Ranked 30)  
+Max (Character Customization): 24,162  (Ranked 17)  
+Sum: 47,788 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 24,144 |
-| This game has Great Boss Battles | 12,230 |
+| This game has Inclusive Character Customization | 24,162 |
+| This game has Great Boss Battles | 12,253 |
 | This game is Great for Beginners | 1,278 |
 | This game has Amazing Storytelling | 1,230 |
 | This game has Diverse Characters | 1,224 |
@@ -508,3 +508,4 @@ Diff (max vs sum): -13
 | 2023-11-07 | 4.76 | 24,120 | 47,655 |
 | 2023-11-08 | 4.76 | 24,120 | 47,675 |
 | 2023-11-09 | 4.76 | 24,144 | 47,747 |
+| 2023-11-10 | 4.76 | 24,162 | 47,788 |

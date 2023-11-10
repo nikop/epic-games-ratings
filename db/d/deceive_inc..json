@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18811,
+  "EOS_Progressed": 18812,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12763,6 +12763,11 @@
       "Time": "2023-11-09T14:06:15.0709695+00:00",
       "NumProgressed": 18811,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-10T01:47:32.1724579+00:00",
+      "NumProgressed": 18812,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12774,7 +12779,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "0002",
@@ -12958,7 +12963,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "0025",
@@ -12998,7 +13003,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2445
+      "UsersEstimate": 2446
     },
     {
       "ID": "0030",
@@ -13061,7 +13066,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18811,
+      "Progressed": 18812,
       "Completed": 4
     }
   ],
@@ -13069,8 +13074,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:02:55.2225593+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:47:32.1724573+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.0347505+00:00",
-  "LastUpdate_Ratings": "2023-11-10T00:00:01.0420889+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:02:55.2226548+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:45:48.9444398+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:47:32.1725801+00:00"
 }

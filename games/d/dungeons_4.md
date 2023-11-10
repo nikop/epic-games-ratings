@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 72.00% | ~57 |
-| Thalya – Simply Immortal | 72.00% | ~57 |
-| Thalya's Concentrated Fury | 62.00% | ~49 |
-| For the Horde! | 54.00% | ~43 |
-| Hammer Time, Round Two | 49.00% | ~39 |
-| The Hellwoods | 38.00% | ~30 |
-| Master of Magic | 32.00% | ~25 |
-| Trap Master | 27.00% | ~21 |
-| Magic Accidents | 27.00% | ~21 |
-| Experienced Thalya | 19.00% | ~15 |
-| Unicorn steaks – fresh off the hoof! | 16.00% | ~13 |
-| The Plains of Strothalm | 14.00% | ~11 |
-| Minions, Minions! | 14.00% | ~11 |
-| Bad Elves Go Everywhere | 11.00% | ~9 |
-| Sacrificial Pit = Garbage Disposal? | 4.00% | ~3 |
-| Heroes’ Gorge | 4.00% | ~3 |
-| Mana Cannon | 4.00% | ~3 |
-| YOU SHALL NOT PASS! | 4.00% | ~3 |
-| Pure Dynamite! | 3.00% | ~2 |
+| The Last Stand | 74.00% | ~65 |
+| Thalya – Simply Immortal | 74.00% | ~65 |
+| Thalya's Concentrated Fury | 61.00% | ~54 |
+| For the Horde! | 56.00% | ~49 |
+| Hammer Time, Round Two | 52.00% | ~46 |
+| The Hellwoods | 40.00% | ~35 |
+| Master of Magic | 38.00% | ~33 |
+| Magic Accidents | 31.00% | ~27 |
+| Trap Master | 27.00% | ~24 |
+| Experienced Thalya | 18.00% | ~16 |
+| The Plains of Strothalm | 15.00% | ~13 |
+| Unicorn steaks – fresh off the hoof! | 15.00% | ~13 |
+| Minions, Minions! | 14.00% | ~12 |
+| Bad Elves Go Everywhere | 11.00% | ~10 |
+| Sacrificial Pit = Garbage Disposal? | 3.00% | ~3 |
+| Heroes’ Gorge | 3.00% | ~3 |
+| Mana Cannon | 3.00% | ~3 |
+| YOU SHALL NOT PASS! | 3.00% | ~3 |
+| The Ascent | 2.00% | ~2 |
+| Pure Dynamite! | 2.00% | ~2 |
+| It's Warm and Cozy at Home | 2.00% | ~2 |
+| Hard Work | 1.00% | ~1 |
 | The Big Eaty | 1.00% | ~1 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 1.00% | ~1 |
 | All’s Well That Ends Evil | 1.00% | ~1 |
 | Stop Tanos! | 1.00% | ~1 |
 | My Little Torture Chamber | 1.00% | ~1 |
 | The Last Stand - This Time For Real! | 1.00% | ~1 |
-| Hard Work | 0.00% | ~0 |
-| The Ascent | 0.00% | ~0 |
-| It's Warm and Cozy at Home | 0.00% | ~0 |
 | Hungry, Hungry Gorgu! | 0.00% | ~0 |
 | “… like son” | 0.00% | ~0 |
 | Dungeonlord Gorgu | 0.00% | ~0 |
@@ -66,10 +66,10 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 79 (Ranked 437)  
+Progressed: 88 (Ranked 428)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-09 | 76 | 0 |
-| 2023-11-10 | 79 | 0 |
+| 2023-11-10 | 88 | 0 |

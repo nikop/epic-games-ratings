@@ -5,7 +5,7 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~824 |
+| Whatever It Takes | 2.00% | ~825 |
 | One of Us | 1.00% | ~412 |
 | Pork Chopped | 1.00% | ~412 |
 | Hotel California | 0.60% | ~4,294 |
@@ -25,6 +25,7 @@ Rating: 4.54 (Ranked 523)
 | Apex Predator | 0.40% | ~2,863 |
 | A Patton Emerges | 0.40% | ~2,863 |
 | Stacking the Deck | 0.40% | ~2,863 |
+| Our True Nature | 0.40% | ~2,863 |
 | This is My Weapon | 0.40% | ~2,863 |
 | Making Your Mark | 0.30% | ~2,147 |
 | Perks of the Job | 0.30% | ~2,147 |
@@ -36,7 +37,6 @@ Rating: 4.54 (Ranked 523)
 | Humanity Distilled | 0.30% | ~2,147 |
 | I Am the Resurrection | 0.30% | ~2,147 |
 | Max Headroom | 0.30% | ~2,147 |
-| Our True Nature | 0.30% | ~2,147 |
 | Make it So | 0.20% | ~1,431 |
 | On Safari | 0.20% | ~1,431 |
 | Smorgasbord | 0.20% | ~1,431 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,670 (Ranked 21)  
-Completed: 2,368 (0.33%) (Ranked 219)  
+Progressed: 715,691 (Ranked 21)  
+Completed: 2,369 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,7 +261,7 @@ Completed: 2,368 (0.33%) (Ranked 219)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,670 | 2,368 |
+| 2023-11-10 | 715,691 | 2,369 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
 Sum: 10,986 (Ranked 86)  

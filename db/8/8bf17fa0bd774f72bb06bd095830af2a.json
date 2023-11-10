@@ -4,7 +4,7 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 511,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -184,9 +184,9 @@
       "ID": "SteamAchievement_CompleteAllMapChallengeAtOnce",
       "SetID": "b8gj0ip",
       "Name": "One Fell Swoop",
-      "Percentage": 14,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "SteamAchievement_KillDesertMonsters",
@@ -328,9 +328,9 @@
       "ID": "SteamAchievment_CompleteQuest02",
       "SetID": "b8gj0ip",
       "Name": "Defender of the Forced Gates",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "SteamAchievment_CompleteQuest03",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:05:14.9104009+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:50:47.8590971+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:14.8693945+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:59:54.9773006+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:05:14.9104232+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:45:40.8894695+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:50:47.8591366+00:00"
 }

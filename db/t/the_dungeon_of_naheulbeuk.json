@@ -1299,7 +1299,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 236159,
+  "EOS_Progressed": 236173,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1474,
   "EOS_NewCompleters": 0,
@@ -17954,6 +17954,11 @@
       "Time": "2023-11-10T00:06:07.3148986+00:00",
       "NumProgressed": 236159,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-10T01:52:01.3984263+00:00",
+      "NumProgressed": 236173,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18021,7 +18026,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9446
+      "UsersEstimate": 9447
     },
     {
       "ID": "Chapter3",
@@ -18085,7 +18090,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "CompanionMinstrel",
@@ -18093,7 +18098,7 @@
       "Name": "I\u0027d rather... Just... Sing!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "CompanionNone",
@@ -18101,7 +18106,7 @@
       "Name": "The number of the counting shalt be 7",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "CompanionPaladine",
@@ -18365,7 +18370,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16531
+      "UsersEstimate": 16532
     },
     {
       "ID": "DwarfElf15Support",
@@ -18397,7 +18402,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11808
+      "UsersEstimate": 11809
     },
     {
       "ID": "ElfEpic",
@@ -18413,7 +18418,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82656
+      "UsersEstimate": 82661
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18429,7 +18434,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9446
+      "UsersEstimate": 9447
     },
     {
       "ID": "EndCombatOneHp",
@@ -18437,7 +18442,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9446
+      "UsersEstimate": 9447
     },
     {
       "ID": "EndGameCursed",
@@ -18461,7 +18466,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18893
+      "UsersEstimate": 18894
     },
     {
       "ID": "FollowBraztok",
@@ -18517,7 +18522,7 @@
       "Name": "Gargantua",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "Orktobearfest",
@@ -18541,7 +18546,7 @@
       "Name": "Inception",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "PriestessEpic",
@@ -18613,7 +18618,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9446
+      "UsersEstimate": 9447
     },
     {
       "ID": "SupportCount4",
@@ -18668,21 +18673,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 236159,
+      "Progressed": 236173,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 236159,
+      "Progressed": 236173,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-09T07:00:38.1958085+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:06:07.3148981+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:52:01.3984254+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:59:35.020348+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:06:07.3150259+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:45:10.3601891+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:52:01.3986656+00:00"
 }

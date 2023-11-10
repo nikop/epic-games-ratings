@@ -1,11 +1,11 @@
 # Tom Clancy's Ghost Recon Wildlands Standard Edition
 [Store](https://store.epicgames.com/en-US/p/ghost-recon-wildlands)  
 [View Rawdata](../../db/t/tom_clancy's_ghost_recon_wildlands_standard_edition.json)  
-Rating: 4.60 (Ranked 411)  
+Rating: 4.60 (Ranked 410)  
 Number of Ratings: 871  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 281  (Ranked 258)  
-Sum: 2,004 (Ranked 208)  
+Sum: 2,006 (Ranked 208)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): 50
 | This game has Quickly Understood Controls | 270 |
 | This game has Amazing Storytelling | 259 |
 | This game is Relaxing | 257 |
-| This game has Amazing Characters | 240 |
+| This game has Amazing Characters | 242 |
 | This game is Highly Recommended | 235 |
 | This game has Diverse Characters | 234 |
 | This game is Extremely Fun | 228 |
@@ -317,3 +317,4 @@ Diff (max vs sum): 50
 | 2023-11-07 | 4.60 | - | 281 | 1,991 |
 | 2023-11-08 | 4.60 | - | 281 | 1,999 |
 | 2023-11-09 | 4.60 | - | 281 | 2,004 |
+| 2023-11-10 | 4.60 | - | 281 | 2,006 |

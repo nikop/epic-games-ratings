@@ -2,9 +2,9 @@
   "ID": "6a249c368e9a4ad99bbdfe23997f26ba",
   "Name": "Forest Fire",
   "ProductSlug": "forest-fire-b4bb7e",
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 80,
+  "EOS_Progressed": 81,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -394,6 +394,11 @@
       "Time": "2023-11-09T22:06:51.2896484+00:00",
       "NumProgressed": 80,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T01:48:39.5641785+00:00",
+      "NumProgressed": 81,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-18T00:01:21.9503191+00:00",
@@ -436,7 +441,7 @@
       "ID": "A13",
       "SetID": "7f5j12l",
       "Name": "Statue of Liberty Destroyed",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -460,7 +465,7 @@
       "ID": "A16",
       "SetID": "7f5j12l",
       "Name": "Nuclear Plant Destroyed",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -468,7 +473,7 @@
       "ID": "A17",
       "SetID": "7f5j12l",
       "Name": "Shipping Company Destroyed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -476,7 +481,7 @@
       "ID": "A18",
       "SetID": "7f5j12l",
       "Name": "Green Flame",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 38
     },
@@ -484,7 +489,7 @@
       "ID": "A19",
       "SetID": "7f5j12l",
       "Name": "Purple Flame",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -516,7 +521,7 @@
       "ID": "A22",
       "SetID": "7f5j12l",
       "Name": "Level 5 Completed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -556,7 +561,7 @@
       "ID": "A27",
       "SetID": "7f5j12l",
       "Name": "Military Base Destroyed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -572,7 +577,7 @@
       "ID": "A29",
       "SetID": "7f5j12l",
       "Name": "Airport Destroyed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -588,7 +593,7 @@
       "ID": "A30",
       "SetID": "7f5j12l",
       "Name": "Munitions Factory Destroyed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -596,7 +601,7 @@
       "ID": "A31",
       "SetID": "7f5j12l",
       "Name": "Rock Concert Destroyed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -604,7 +609,7 @@
       "ID": "A32",
       "SetID": "7f5j12l",
       "Name": "Main Quest Completed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -628,7 +633,7 @@
       "ID": "A4",
       "SetID": "7f5j12l",
       "Name": "Level 4 Completed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -636,9 +641,9 @@
       "ID": "A5",
       "SetID": "7f5j12l",
       "Name": "1M Trees Burnt",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "A6",
@@ -668,7 +673,7 @@
       "ID": "A9",
       "SetID": "7f5j12l",
       "Name": "10k Humans Killed",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
       "UsersEstimate": 2
     }
@@ -677,14 +682,14 @@
     {
       "ID": "7f5j12l",
       "IsBase": true,
-      "Progressed": 80,
+      "Progressed": 81,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:03:43.2470624+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:48:39.5641782+00:00",
   "LastUpdate_AppInfo": "2023-11-07T08:57:06.7637727+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:57:53.0468234+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:03:43.2470825+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:42:32.8061492+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:48:39.5642068+00:00"
 }

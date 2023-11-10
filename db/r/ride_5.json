@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2075,
+  "EOS_Progressed": 2077,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4632,6 +4632,11 @@
       "Time": "2023-11-09T22:12:35.2508979+00:00",
       "NumProgressed": 2075,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T01:54:18.3085402+00:00",
+      "NumProgressed": 2077,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4644,7 +4649,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4652,7 +4657,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4676,7 +4681,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4700,7 +4705,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4732,7 +4737,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4844,7 +4849,7 @@
       "Name": "Evangelist",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -4852,7 +4857,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4940,7 +4945,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4996,7 +5001,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5035,14 +5040,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2075,
+      "Progressed": 2077,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:09:04.3609151+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:54:18.3085398+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:57:46.7595944+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:09:04.3610029+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:42:23.7654886+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:54:18.308614+00:00"
 }

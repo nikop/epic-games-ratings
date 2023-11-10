@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109785,
+  "EOS_Progressed": 109786,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3057,6 +3057,11 @@
       "Time": "2023-11-09T22:11:03.7554083+00:00",
       "NumProgressed": 109785,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-10T01:52:46.6757437+00:00",
+      "NumProgressed": 109786,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3332,22 +3337,22 @@
       "Name": "These Are a Few of My Favorite Things - Bronze",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     }
   ],
   "AchievementSets": [
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109785,
+      "Progressed": 109786,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:07:40.3569933+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:52:46.6757433+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:53.6561751+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:58:29.0932699+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:07:40.3570536+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:43:28.4564471+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:52:46.6757884+00:00"
 }

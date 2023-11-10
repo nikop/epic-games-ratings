@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 63,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7895,10 +7895,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32405,
       "NumberOfAwardsMax": 5500
+    },
+    {
+      "Time": "2023-11-10T01:42:53.000242+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32409,
+      "NumberOfAwardsMax": 5500
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32405,
+  "NumberOfAwards": 32409,
   "NumberOfAwardsMax": 5500,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7912,7 +7918,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5486
+      "Count": 5490
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -7945,9 +7951,9 @@
       "Count": 3510
     }
   ],
-  "EOS_Progressed": 234136,
+  "EOS_Progressed": 234156,
   "EOS_Completed": 2440,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -30705,6 +30711,11 @@
       "Time": "2023-11-10T00:05:28.1408838+00:00",
       "NumProgressed": 234136,
       "NumCompleted": 2440
+    },
+    {
+      "Time": "2023-11-10T01:51:06.2869773+00:00",
+      "NumProgressed": 234156,
+      "NumCompleted": 2440
     }
   ],
   "TotalAchievements": 532,
@@ -34948,7 +34959,7 @@
       "Name": "Tomb of Champions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "objective_completed_1552",
@@ -34971,21 +34982,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 200410,
+      "Progressed": 200430,
       "Completed": 3910
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 234136,
+      "Progressed": 234156,
       "Completed": 2440
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-09T23:58:06.0381862+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:05:28.1408835+00:00",
+  "LastChanged": "2023-11-10T01:42:53.0002417+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:51:06.2869769+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.9071998+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:58:06.0381868+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:05:28.1435595+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:42:53.0002431+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:51:06.2897928+00:00"
 }

@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Fire in the... nevermind | 53.00% | ~79 |
 | Chapter I | 52.00% | ~77 |
-| Fire in the... nevermind | 52.00% | ~77 |
-| Haute cuisine | 46.00% | ~69 |
-| Demolition expert | 39.00% | ~58 |
-| I didn't do it! | 39.00% | ~58 |
-| Keep away from children | 36.00% | ~54 |
+| Haute cuisine | 47.00% | ~70 |
+| Demolition expert | 40.00% | ~60 |
+| I didn't do it! | 40.00% | ~60 |
+| Keep away from children | 37.00% | ~55 |
+| Open up wide | 36.00% | ~54 |
 | Wooooooow! | 36.00% | ~54 |
-| Open up wide | 35.00% | ~52 |
 | Artistic fool | 33.00% | ~49 |
 | Let the boot talk | 31.00% | ~46 |
 | Shadow on the wall | 27.00% | ~40 |
@@ -51,7 +51,7 @@
 | Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 149 (Ranked 387)  
+Progressed: 149 (Ranked 388)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |

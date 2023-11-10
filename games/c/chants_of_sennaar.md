@@ -8,7 +8,7 @@
 | Welcome to the Tower | 33.00% | ~167 |
 | The great escape | 28.00% | ~142 |
 | The Preacher's fate | 26.00% | ~132 |
-| A new dawn | 24.00% | ~121 |
+| A new dawn | 23.00% | ~117 |
 | Scholar | 21.00% | ~106 |
 | True G3M4R | 20.00% | ~101 |
 | The darkness | 20.00% | ~101 |
@@ -27,11 +27,11 @@
 | A Link to the Past | 11.00% | ~56 |
 | Rascal | 11.00% | ~56 |
 | A great audience | 9.00% | ~46 |
-| For its own good | 8.00% | ~40 |
+| For its own good | 8.00% | ~41 |
 | Fashion victim | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 506 (Ranked 297)  
-Completed: 28 (5.53%) (Ranked 64)  
+Progressed: 507 (Ranked 297)  
+Completed: 28 (5.52%) (Ranked 64)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,4 +141,4 @@ Completed: 28 (5.53%) (Ranked 64)
 | 2023-11-07 | 485 | 28 |
 | 2023-11-08 | 495 | 28 |
 | 2023-11-09 | 505 | 28 |
-| 2023-11-10 | 506 | 28 |
+| 2023-11-10 | 507 | 28 |

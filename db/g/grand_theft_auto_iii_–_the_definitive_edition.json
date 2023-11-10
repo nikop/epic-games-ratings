@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -517,7 +517,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8554,
+  "EOS_Progressed": 8555,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
@@ -10937,6 +10937,11 @@
       "Time": "2023-11-09T23:06:47.6785861+00:00",
       "NumProgressed": 8554,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-10T01:50:26.4431453+00:00",
+      "NumProgressed": 8555,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10948,7 +10953,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7100
+      "UsersEstimate": 7101
     },
     {
       "ID": "ACH02",
@@ -10956,7 +10961,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "ACH03",
@@ -11012,7 +11017,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH10",
@@ -11068,7 +11073,7 @@
       "Name": "A Marked Man",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2138
+      "UsersEstimate": 2139
     },
     {
       "ID": "ACH17",
@@ -11084,7 +11089,7 @@
       "Name": "Not So Fast",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH19",
@@ -11140,7 +11145,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ACH26",
@@ -11179,7 +11184,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8554,
+      "Progressed": 8555,
       "Completed": 56
     }
   ],
@@ -11187,8 +11192,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-07T02:18:06.6938355+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:04:59.6753497+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:50:26.443145+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:59:39.4945233+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:04:59.6754144+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:45:16.6716869+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:50:26.4432306+00:00"
 }

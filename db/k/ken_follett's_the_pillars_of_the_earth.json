@@ -4,10 +4,10 @@
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 565,
   "Ranking_Popularity": 312,
-  "Ranking_PopularitySum": 399,
+  "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16284,
+  "EOS_Progressed": 16285,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -13798,6 +13798,11 @@
       "Time": "2023-11-10T00:04:24.4546314+00:00",
       "NumProgressed": 16284,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-10T01:49:37.5015041+00:00",
+      "NumProgressed": 16285,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13825,7 +13830,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3745
+      "UsersEstimate": 3746
     },
     {
       "ID": "tpote_achievement_12",
@@ -13913,7 +13918,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4885
+      "UsersEstimate": 4886
     },
     {
       "ID": "tpote_achievement_22",
@@ -14136,15 +14141,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16284,
+      "Progressed": 16285,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:04:24.4546309+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:49:37.5015037+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:38.0957248+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:59:47.6443252+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:04:24.4547506+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:45:29.3787215+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:49:37.5016281+00:00"
 }

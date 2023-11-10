@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 174,
+  "EOS_Progressed": 175,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -655,6 +655,11 @@
       "Time": "2023-11-08T19:10:02.0787046+00:00",
       "NumProgressed": 174,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T01:54:17.2035797+00:00",
+      "NumProgressed": 175,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -674,7 +679,7 @@
       "Name": "Find Allies",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_03",
@@ -714,7 +719,7 @@
       "Name": "Clear Sight",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_08",
@@ -722,7 +727,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_09",
@@ -738,7 +743,7 @@
       "Name": "Trinity",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_11",
@@ -760,9 +765,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_14",
@@ -776,9 +781,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_16",
@@ -800,9 +805,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_19",
@@ -810,7 +815,7 @@
       "Name": "Slayer",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_20",
@@ -834,7 +839,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_23",
@@ -856,9 +861,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_26",
@@ -874,7 +879,7 @@
       "Name": "False God",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_28",
@@ -882,7 +887,7 @@
       "Name": "I Found It",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_29",
@@ -904,9 +909,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_33",
@@ -938,7 +943,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_38",
@@ -953,14 +958,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 174,
+      "Progressed": 175,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:09:03.4756041+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:54:17.2035792+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:57:46.4944806+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:09:03.4756301+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:42:23.1968769+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:54:17.2036151+00:00"
 }

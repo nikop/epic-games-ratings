@@ -4,10 +4,10 @@
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 821,
   "Ranking_Popularity": 404,
-  "Ranking_PopularitySum": 320,
+  "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-29T11:00:00+00:00",
@@ -1473,12 +1473,18 @@
       "Rating": 4.32,
       "NumberOfAwards": 500,
       "NumberOfAwardsMax": 66
+    },
+    {
+      "Time": "2023-11-10T01:44:25.7406839+00:00",
+      "Rating": 4.32,
+      "NumberOfAwards": 567,
+      "NumberOfAwardsMax": 67
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 500,
-  "NumberOfAwardsMax": 66,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 567,
+  "NumberOfAwardsMax": 67,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1502,7 +1508,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 63
+      "Count": 67
     },
     {
       "Text": "This game has Competitive Players",
@@ -1570,8 +1576,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2023-11-08T15:58:36.9308085+00:00",
+  "LastChanged": "2023-11-10T01:44:25.7406837+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:03.9181324+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:59:06.2056752+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:05:16.5826653+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:44:25.7406848+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:50:50.091296+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 177  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Friend in Need... | 5.00% | ~322 |
+| A Friend in Need... | 6.00% | ~387 |
 | Smooth Operator: Madison | 4.00% | ~258 |
 | Caught in the Act | 3.00% | ~193 |
 | Katherine | 3.00% | ~193 |

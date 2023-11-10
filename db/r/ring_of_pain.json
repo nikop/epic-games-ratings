@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3340,7 +3340,7 @@
       "Count": 740
     }
   ],
-  "EOS_Progressed": 239430,
+  "EOS_Progressed": 239434,
   "EOS_Completed": 287,
   "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 1,
@@ -24450,6 +24450,11 @@
       "Time": "2023-11-10T00:09:06.5354577+00:00",
       "NumProgressed": 239430,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-10T01:54:21.0752729+00:00",
+      "NumProgressed": 239434,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 138,
@@ -24963,9 +24968,9 @@
       "ID": "KILLPARANOIA",
       "SetID": "5l8oe0h",
       "Name": "What\u0027s Yours Is Mine",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 479
     },
     {
       "ID": "KILLREFLECT10",
@@ -25564,13 +25569,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239430,
+      "Progressed": 239434,
       "Completed": 287
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 910,
+      "Progressed": 914,
       "Completed": 373
     }
   ],
@@ -25578,8 +25583,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-09T20:03:39.5659667+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:09:06.5354572+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:54:21.0752725+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-10T00:02:45.7822318+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:09:06.5356813+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:46:55.4122151+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:54:21.0756384+00:00"
 }

@@ -6315,10 +6315,10 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 715670,
-  "EOS_Completed": 2368,
-  "EOS_NewPlayers": 4585,
-  "EOS_NewCompleters": 63,
+  "EOS_Progressed": 715691,
+  "EOS_Completed": 2369,
+  "EOS_NewPlayers": 4570,
+  "EOS_NewCompleters": 64,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29535,6 +29535,11 @@
       "Time": "2023-11-10T00:06:11.499939+00:00",
       "NumProgressed": 715670,
       "NumCompleted": 2368
+    },
+    {
+      "Time": "2023-11-10T01:52:06.7662504+00:00",
+      "NumProgressed": 715691,
+      "NumCompleted": 2369
     }
   ],
   "TotalAchievements": 51,
@@ -29856,9 +29861,9 @@
       "ID": "ach_thesacrifice",
       "SetID": "7km39fm",
       "Name": "Our True Nature",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2863
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -29914,7 +29919,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 824
+      "UsersEstimate": 825
     },
     {
       "ID": "ach_gardening_tools",
@@ -29953,13 +29958,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715670,
-      "Completed": 2368
+      "Progressed": 715691,
+      "Completed": 2369
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 41212,
+      "Progressed": 41233,
       "Completed": 36513
     }
   ],
@@ -29967,8 +29972,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-09T17:59:35.4209527+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:06:11.4999387+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:52:06.76625+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:58:43.7324007+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:06:11.5000981+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:43:51.4380058+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:52:06.7664522+00:00"
 }

@@ -122,12 +122,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Devout | 0.80% | ~122 |
 | Ready | 0.80% | ~122 |
 | Babylonia | 0.80% | ~122 |
+| Egypt | 0.80% | ~122 |
 | Assyrian Paganism | 0.80% | ~122 |
 | Industrial Progress | 0.80% | ~122 |
 | Enlightenment | 0.80% | ~122 |
 | Veneration | 0.80% | ~122 |
 | Clerics | 0.70% | ~107 |
-| Egypt | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
 | Hittite Paganism | 0.70% | ~107 |
 | Turreted Elephant | 0.70% | ~107 |

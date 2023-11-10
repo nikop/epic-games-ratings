@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,656 |
-| Alt+F4 | 8.00% | ~18,893 |
-| Where's that freaking Dwarf? | 7.00% | ~16,531 |
+| Sowwy! | 35.00% | ~82,661 |
+| Alt+F4 | 8.00% | ~18,894 |
+| Where's that freaking Dwarf? | 7.00% | ~16,532 |
 | Déjà vu | 6.00% | ~14,170 |
-| Sock! SOCK! | 5.00% | ~11,808 |
-| A beer, two curses, three companions | 4.00% | ~9,446 |
-| GG EZ | 4.00% | ~9,446 |
-| DM intervention | 4.00% | ~9,446 |
-| Speedrun | 4.00% | ~9,446 |
+| Sock! SOCK! | 5.00% | ~11,809 |
+| A beer, two curses, three companions | 4.00% | ~9,447 |
+| GG EZ | 4.00% | ~9,447 |
+| DM intervention | 4.00% | ~9,447 |
+| Speedrun | 4.00% | ~9,447 |
 | Way of the Wimp | 3.00% | ~7,085 |
 | The plot thickens... At the tavern | 3.00% | ~7,085 |
 | Fireproof Wizardess | 3.00% | ~7,085 |
@@ -43,7 +43,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dead for good | 1.00% | ~2,362 |
 | Lust and Debauchery | 1.00% | ~2,362 |
 | Material Girl | 1.00% | ~2,362 |
-| Gargantua | 0.90% | ~2,125 |
+| Gargantua | 0.90% | ~2,126 |
 | In Navalu's footsteps | 0.80% | ~1,889 |
 | We come in peace | 0.70% | ~1,653 |
 | Lëgal Legend | 0.70% | ~1,653 |
@@ -52,10 +52,10 @@ Number of Ratings: 118  (23.09.2022)
 | Scholar of the Lands of Fangh | 0.50% | ~1,181 |
 | Law and Order | 0.50% | ~1,181 |
 | It's been a hard day's night | 0.40% | ~945 |
-| Friendly fire | 0.30% | ~708 |
-| I'd rather... Just... Sing! | 0.30% | ~708 |
-| The number of the counting shalt be 7 | 0.30% | ~708 |
-| Inception | 0.30% | ~708 |
+| Friendly fire | 0.30% | ~709 |
+| I'd rather... Just... Sing! | 0.30% | ~709 |
+| The number of the counting shalt be 7 | 0.30% | ~709 |
+| Inception | 0.30% | ~709 |
 | Free customer service | 0.20% | ~472 |
 | Imposture and Trowels | 0.20% | ~472 |
 | Kudos from your DM | 0.20% | ~472 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,159 (Ranked 61)  
+Progressed: 236,173 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 7 (0.00%) (Ranked 345)
 | 2023-11-07 | 235,846 | 7 |
 | 2023-11-08 | 235,997 | 7 |
 | 2023-11-09 | 236,158 | 7 |
-| 2023-11-10 | 236,159 | 7 |
+| 2023-11-10 | 236,173 | 7 |
 ## Awards
 Max (Character Customization): 227  (Ranked 272)  
 Sum: 455 (Ranked 329)  

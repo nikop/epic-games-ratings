@@ -6,15 +6,15 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~118,996 |
-| Incurious | 17.00% | ~112,385 |
-| Climate Change | 16.00% | ~105,774 |
-| Stroller | 15.00% | ~99,164 |
-| Toy Train | 14.00% | ~92,553 |
-| Advanced Hiker | 13.00% | ~85,942 |
-| Hiker | 12.00% | ~79,331 |
-| Mojave Courier | 6.00% | ~39,665 |
-| Saved by Nausicaä | 5.00% | ~33,054 |
+| Advanced Stroller | 18.00% | ~118,999 |
+| Incurious | 17.00% | ~112,388 |
+| Climate Change | 16.00% | ~105,777 |
+| Stroller | 15.00% | ~99,166 |
+| Toy Train | 14.00% | ~92,555 |
+| Advanced Hiker | 13.00% | ~85,944 |
+| Hiker | 12.00% | ~79,333 |
+| Mojave Courier | 6.00% | ~39,666 |
+| Saved by Nausicaä | 5.00% | ~33,055 |
 | Advanced Voyager | 4.00% | ~26,444 |
 | Expert Stroller | 4.00% | ~26,444 |
 | Voyager | 3.00% | ~19,833 |
@@ -28,8 +28,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Shopaholic | 0.70% | ~4,628 |
 | Dynamite Fishing | 0.70% | ~4,628 |
 | Nanuk | 0.60% | ~3,967 |
-| Scrooge | 0.50% | ~3,305 |
-| Terminal Station | 0.50% | ~3,305 |
+| Scrooge | 0.50% | ~3,306 |
+| Terminal Station | 0.50% | ~3,306 |
 | Wayfarer | 0.40% | ~2,644 |
 | Advanced Wayfarer | 0.40% | ~2,644 |
 | Tough Nut! | 0.40% | ~2,644 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~661 |
 | 20 Miles under the Sea | 0.10% | ~661 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,090 (Ranked 27)  
+Progressed: 661,107 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 12 (0.00%) (Ranked 345)
 | 2023-11-07 | 660,662 | 12 |
 | 2023-11-08 | 660,863 | 12 |
 | 2023-11-09 | 661,078 | 12 |
-| 2023-11-10 | 661,090 | 12 |
+| 2023-11-10 | 661,107 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 285)  
-Sum: 1,590 (Ranked 229)  
+Sum: 1,591 (Ranked 229)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
@@ -276,8 +276,8 @@ Diff (max vs sum): 56
 | This game is Extremely Fun | 186 |
 | This game is Relaxing | 180 |
 | This game has Amazing Characters | 169 |
+| This game is Highly Recommended | 160 |
 | This game has Playful Visuals | 159 |
-| This game is Highly Recommended | 159 |
 | This game has Amazing Storytelling | 147 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
@@ -420,3 +420,4 @@ Diff (max vs sum): 56
 | 2023-10-31 | 4.64 | - | 201 | 1,588 |
 | 2023-11-01 | 4.64 | - | 201 | 1,589 |
 | 2023-11-08 | 4.64 | - | 201 | 1,590 |
+| 2023-11-10 | 4.64 | - | 201 | 1,591 |

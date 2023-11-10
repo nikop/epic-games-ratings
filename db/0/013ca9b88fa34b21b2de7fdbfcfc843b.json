@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 321,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -175,9 +175,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7647,
+  "EOS_Progressed": 7648,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6435,6 +6435,11 @@
       "Time": "2023-11-10T00:08:47.7827405+00:00",
       "NumProgressed": 7647,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T01:53:54.810361+00:00",
+      "NumProgressed": 7648,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6447,7 +6452,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5506
+      "UsersEstimate": 5507
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6455,7 +6460,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5353
+      "UsersEstimate": 5354
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6463,7 +6468,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2830
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6479,7 +6484,7 @@
       "Name": "Clear the Air",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 1376
+      "UsersEstimate": 1377
     },
     {
       "ID": "CHAPTER_6_COMPLETE",
@@ -6543,7 +6548,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3288
+      "UsersEstimate": 3289
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6551,7 +6556,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3747
+      "UsersEstimate": 3748
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6597,9 +6602,9 @@
       "ID": "DISCOVER_WHIRLPOOL",
       "SetID": "9eia0f5",
       "Name": "... And Spit Back Out",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4588
+      "UsersEstimate": 4665
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6726,22 +6731,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7647,
+      "Progressed": 7648,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 264,
-      "Completed": 264
+      "Progressed": 265,
+      "Completed": 265
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-09T19:09:37.5658278+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:08:47.7827401+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:53:54.8103603+00:00",
   "LastUpdate_AppInfo": "2023-11-03T07:56:52.4063073+00:00",
-  "LastUpdate_Ratings": "2023-11-10T00:02:38.5139694+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:08:47.7827823+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:46:44.5440192+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:53:54.8104301+00:00"
 }

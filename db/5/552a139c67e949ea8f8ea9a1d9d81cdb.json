@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 973,
+  "EOS_Progressed": 976,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1857,6 +1857,11 @@
       "Time": "2023-11-09T23:08:08.6020252+00:00",
       "NumProgressed": 973,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T01:51:46.7451335+00:00",
+      "NumProgressed": 976,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1869,7 +1874,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 810
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -1877,7 +1882,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 381
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1885,7 +1890,7 @@
       "Name": "Out of control",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -1917,7 +1922,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -1941,7 +1946,7 @@
       "Name": "Drift champ",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -1957,7 +1962,7 @@
       "Name": "Immortal",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -1965,7 +1970,7 @@
       "Name": "Look, Mom! No track!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ML_ACHIEVEMENT_14",
@@ -1989,7 +1994,7 @@
       "Name": "Stage animal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ML_ACHIEVEMENT_17",
@@ -1997,7 +2002,7 @@
       "Name": "Solo",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2013,7 +2018,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2029,15 +2034,15 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 195
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2101,7 +2106,7 @@
       "Name": "Eagle eye",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -2109,7 +2114,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2125,7 +2130,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2133,7 +2138,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2197,7 +2202,7 @@
       "Name": "Magic trick",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ML_ACHIEVEMENT_43",
@@ -2205,27 +2210,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 516
+      "UsersEstimate": 517
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 973,
+      "Progressed": 976,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 641,
-      "Completed": 641
+      "Progressed": 644,
+      "Completed": 644
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-10T00:05:57.0978022+00:00",
+  "LastChanged_Achievements": "2023-11-10T01:51:46.7451331+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-09T23:58:00.8163178+00:00",
-  "LastUpdate_Achievements": "2023-11-10T00:05:57.0978733+00:00"
+  "LastUpdate_Ratings": "2023-11-10T01:42:44.9131765+00:00",
+  "LastUpdate_Achievements": "2023-11-10T01:51:46.7451832+00:00"
 }
