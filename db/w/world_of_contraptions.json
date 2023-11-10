@@ -1527,7 +1527,7 @@
       "ID": "GROUP_MEDIUM_COMPLETED",
       "SetID": "aemieak",
       "Name": "Medium group",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1639,7 +1639,7 @@
       "ID": "LEVEL_HARD",
       "SetID": "aemieak",
       "Name": "First hard level",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1670,8 +1670,8 @@
   ],
   "FirstSeen": "2023-05-29T16:58:58.1647905+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:26.7720125+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:08:32.2480714+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:08:41.8284549+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:15.3910156+00:00",
-  "LastUpdate_Ratings": "2023-11-10T10:00:11.9587893+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:08:32.2480946+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:00:46.9058995+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:08:41.8284771+00:00"
 }

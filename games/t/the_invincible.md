@@ -5,13 +5,13 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 76.00% | ~94 |
-| The Teleprobe | 50.00% | ~62 |
+| The Teleprobe | 52.00% | ~64 |
 | The City | 41.00% | ~51 |
 | The field base | 27.00% | ~33 |
 | Krauta is alive | 26.00% | ~32 |
 | The Alliance | 20.00% | ~25 |
 | The Necroevolution | 19.00% | ~24 |
-| Volcanologist | 15.00% | ~19 |
+| Volcanologist | 16.00% | ~20 |
 | Survivors | 15.00% | ~19 |
 | The Condor | 12.00% | ~15 |
 | The End | 12.00% | ~15 |

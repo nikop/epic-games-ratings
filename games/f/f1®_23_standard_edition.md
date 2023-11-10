@@ -5,15 +5,15 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~5,077 |
-| On the Top Step | 85.00% | ~4,691 |
-| Setting up for Success | 74.00% | ~4,084 |
-| Team Orders | 73.00% | ~4,029 |
-| Engineer | 53.00% | ~2,925 |
+| Getting on the Step | 92.00% | ~5,078 |
+| On the Top Step | 85.00% | ~4,692 |
+| Setting up for Success | 74.00% | ~4,085 |
+| Team Orders | 73.00% | ~4,030 |
+| Engineer | 53.00% | ~2,926 |
 | Familiar Faces | 46.00% | ~2,539 |
 | Going the Extra Mile | 41.00% | ~2,263 |
-| Sharing the Love | 39.00% | ~2,152 |
-| Hitting a Season | 33.00% | ~1,821 |
+| Sharing the Love | 39.00% | ~2,153 |
+| Hitting a Season | 33.00% | ~1,822 |
 | Challenge Yourself | 30.00% | ~1,656 |
 | Making History | 30.00% | ~1,656 |
 | A Dozen Pieces | 29.00% | ~1,601 |
@@ -21,13 +21,13 @@ Rating: 4.69 (Ranked 230)
 | Writing a new Chapter | 24.00% | ~1,325 |
 | Spring Cleaning | 22.00% | ~1,214 |
 | Reduce | 19.00% | ~1,049 |
-| Ups and Downs | 18.00% | ~993 |
+| Ups and Downs | 18.00% | ~994 |
 | Crucial Combo | 17.00% | ~938 |
 | Reuse | 15.00% | ~828 |
 | One for the Book | 15.00% | ~828 |
 | Proving Them Wrong | 15.00% | ~828 |
 | Gathering Dust | 14.00% | ~773 |
-| Oil and Water | 13.00% | ~717 |
+| Oil and Water | 13.00% | ~718 |
 | Eagle Eye | 12.00% | ~662 |
 | Hitting a Bullseye | 12.00% | ~662 |
 | All in a Weekend's Work | 11.00% | ~607 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 230)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,519 (Ranked 182)  
+Progressed: 5,520 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 346)
 | 2023-11-07 | 5,352 | 0 |
 | 2023-11-08 | 5,432 | 0 |
 | 2023-11-09 | 5,500 | 0 |
-| 2023-11-10 | 5,519 | 0 |
+| 2023-11-10 | 5,520 | 0 |
 ## Awards
 Max (Great for Beginners): 26  (Ranked 512)  
 Sum: 50 (Ranked 480)  

@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -2446,9 +2446,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "296pn27",
       "Name": "The path to enlightenment",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 155
+      "UsersEstimate": 161
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -2517,8 +2517,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:05:47.81177+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:06:22.9795727+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.460318+00:00",
-  "LastUpdate_Ratings": "2023-11-10T10:00:19.4922668+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:05:47.8117906+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:00:55.9232231+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:06:22.9795899+00:00"
 }

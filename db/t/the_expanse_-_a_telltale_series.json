@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14797,
+  "EOS_Progressed": 14798,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 205,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10831,6 +10831,11 @@
       "Time": "2023-11-10T10:04:24.5625398+00:00",
       "NumProgressed": 14797,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-10T11:04:45.8589611+00:00",
+      "NumProgressed": 14798,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10881,9 +10886,9 @@
       "ID": "14",
       "SetID": "458bbdk",
       "Name": "Doctor Approved",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 133
+      "UsersEstimate": 148
     },
     {
       "ID": "15",
@@ -11122,13 +11127,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14797,
+      "Progressed": 14798,
       "Completed": 33
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 751,
+      "Progressed": 752,
       "Completed": 477
     }
   ],
@@ -11136,8 +11141,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:04:24.5625394+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:04:45.8589598+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:58:35.0844617+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:04:24.562612+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:58:52.5598568+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:04:45.8590377+00:00"
 }

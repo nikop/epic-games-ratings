@@ -2,9 +2,9 @@
   "ID": "7184be55b899413ba25cf1f77e89ac82",
   "Name": "Demon Turf Neon Splash",
   "ProductSlug": "demon-turf-neon-splash-7ed9b5",
-  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Progress": 479,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-02T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -229,6 +229,11 @@
       "Time": "2023-11-10T09:09:27.5642639+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T11:10:13.2550961+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-27T15:03:05.6724324+00:00",
@@ -336,14 +341,14 @@
     {
       "ID": "2i48e34",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-14T16:03:11.8091132+00:00",
   "FirstSeenAchievements": "2023-09-27T15:03:05.6724323+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:09:51.7977983+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:10:13.2550958+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:04.2183552+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:58:03.48462+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:09:51.7978079+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:58:15.0351577+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:10:13.2551016+00:00"
 }

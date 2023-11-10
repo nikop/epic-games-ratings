@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3288,
+  "EOS_Progressed": 3289,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5588,6 +5588,11 @@
       "Time": "2023-11-09T23:06:04.9338873+00:00",
       "NumProgressed": 3288,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T11:05:50.686349+00:00",
+      "NumProgressed": 3289,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -5679,7 +5684,7 @@
       "Name": "Guy de Borderlands",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_BASE_21",
@@ -5903,7 +5908,7 @@
       "Name": "Ain\u0027t Nobody Got Time for That",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "ACH_BASE_5",
@@ -6054,13 +6059,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 1471,
+      "Progressed": 1472,
       "Completed": 8
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 3288,
+      "Progressed": 3289,
       "Completed": 0
     }
   ],
@@ -6068,8 +6073,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2023-10-25T12:00:08.7067292+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:05:19.725953+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:05:50.6863487+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.4196212+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:57:10.629934+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:05:19.7260208+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:57:12.38131+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:05:50.6864197+00:00"
 }

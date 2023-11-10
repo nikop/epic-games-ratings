@@ -27,6 +27,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 2.00% | ~2,780 |
 | On the Path to Greatness | 1.00% | ~1,390 |
 | Ascended | 1.00% | ~1,390 |
+| Tax not Included | 1.00% | ~1,390 |
 | Research & Development | 1.00% | ~1,390 |
 | Vanity, Verily | 1.00% | ~1,390 |
 | Fated Encounters | 1.00% | ~1,390 |
@@ -45,7 +46,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,390 |
 | Magical Harmony | 1.00% | ~1,390 |
 | Arcane Industries | 1.00% | ~1,390 |
-| Tax not Included | 0.90% | ~1,251 |
 | For the Hoard! | 0.90% | ~1,251 |
 | Scrapbooker | 0.90% | ~1,251 |
 | Trash to Treasure | 0.90% | ~1,251 |
@@ -73,6 +73,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Scourge of the Seas | 0.80% | ~1,112 |
 | Black Friday Special | 0.80% | ~1,112 |
 | Exotic Commodities | 0.80% | ~1,112 |
+| King's Blade | 0.80% | ~1,112 |
 | Cream of the Crop | 0.70% | ~973 |
 | Top of the World | 0.70% | ~973 |
 | Proud Paladin | 0.70% | ~973 |
@@ -94,7 +95,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.70% | ~973 |
 | King's Shadow | 0.70% | ~973 |
 | Master Recycler | 0.70% | ~973 |
-| King's Blade | 0.70% | ~973 |
 | Constellated | 0.60% | ~834 |
 | Fillin' the Bin | 0.60% | ~834 |
 | Industrial Evolution | 0.60% | ~834 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,992 (Ranked 79)  
+Progressed: 139,002 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 138,992 | 180 |
+| 2023-11-10 | 139,002 | 180 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 74)  
 Sum: 27,521 (Ranked 52)  

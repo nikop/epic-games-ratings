@@ -2,7 +2,7 @@
   "ID": "60ec54354d8b4e45a826f3f90a515c75",
   "Name": "CubeGate",
   "ProductSlug": "cubegate-410f70",
-  "Ranking_EOS_Progress": 680,
+  "Ranking_EOS_Progress": 681,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 128,
@@ -216,8 +216,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-07T18:05:08.8389416+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:04:05.9152719+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:04:23.9524194+00:00",
   "LastUpdate_AppInfo": "2023-11-09T22:57:18.653476+00:00",
-  "LastUpdate_Ratings": "2023-11-10T10:03:16.7323236+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:04:05.9152845+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:03:25.5566234+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:04:23.9524311+00:00"
 }

@@ -18,7 +18,7 @@
 | Expert Conjuror | 58.00% | ~146 |
 | Distance Devourer | 55.00% | ~139 |
 | Flawless Crystal | 54.00% | ~136 |
-| Bonds of Enmity | 52.00% | ~131 |
+| Bonds of Enmity | 53.00% | ~134 |
 | Helpful Heart | 52.00% | ~131 |
 | Master of the Skies | 50.00% | ~126 |
 | Counter Specialist | 49.00% | ~123 |
@@ -33,8 +33,8 @@
 | Team Hunter | 34.00% | ~86 |
 | Reincarnation Cycle Stopper | 33.00% | ~83 |
 | Karakuri Isle | 31.00% | ~78 |
+| Left Arm Leverager | 28.00% | ~71 |
 | Canyon of Karakuri | 27.00% | ~68 |
-| Left Arm Leverager | 27.00% | ~68 |
 | Style Seeker | 27.00% | ~68 |
 | Human Believer | 27.00% | ~68 |
 | Unrivaled in Arms | 27.00% | ~68 |

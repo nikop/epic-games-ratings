@@ -3,9 +3,9 @@
   "Name": "RedRaptor",
   "ProductSlug": "redraptor-71deb7",
   "Ranking_EOS_Progress": 597,
-  "Ranking_EOS_Completed": 7,
+  "Ranking_EOS_Completed": 4,
   "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-10-11T12:00:00+00:00",
     "PcReleaseDate": "2023-10-11T13:00:00+00:00",
@@ -23,10 +23,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 7,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 1,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 42.86,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 57.14,
   "EosHistory": [
     {
       "Time": "2023-10-11T15:07:27.5875608+00:00",
@@ -72,6 +72,11 @@
       "Time": "2023-11-10T10:08:47.5697848+00:00",
       "NumProgressed": 7,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-10T11:08:59.4613985+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-18T15:02:16.3526143+00:00",
@@ -106,9 +111,9 @@
       "ID": "Stage4",
       "SetID": "ag762md",
       "Name": "Stage 4",
-      "Percentage": 43,
+      "Percentage": 57,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Stage5",
@@ -172,12 +177,12 @@
       "ID": "ag762md",
       "IsBase": true,
       "Progressed": 7,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeenAchievements": "2023-09-18T15:02:16.3526142+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:08:47.5697844+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:08:59.4613979+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:56:59.7595165+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:57:53.3984307+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:08:47.5697922+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:58:03.6337562+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:08:59.4614058+00:00"
 }

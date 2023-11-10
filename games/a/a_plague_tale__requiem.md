@@ -6,34 +6,34 @@ Rating: 4.73 (Ranked 174)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Under a New Sun | 92.00% | ~12,748 |
-| Newcomers | 79.00% | ~10,946 |
-| A Burden of Blood | 74.00% | ~10,253 |
-| Protector's Duty | 70.00% | ~9,699 |
+| Newcomers | 79.00% | ~10,947 |
+| A Burden of Blood | 74.00% | ~10,254 |
+| Protector's Duty | 70.00% | ~9,700 |
 | Alchemist | 69.00% | ~9,561 |
-| In our Wake | 68.00% | ~9,422 |
-| Leaving all Behind | 65.00% | ~9,006 |
+| In our Wake | 68.00% | ~9,423 |
+| Leaving all Behind | 65.00% | ~9,007 |
 | Felons | 62.00% | ~8,591 |
-| A Sea of Promises | 61.00% | ~8,452 |
-| Tales and Revelations | 58.00% | ~8,036 |
+| A Sea of Promises | 61.00% | ~8,453 |
+| Tales and Revelations | 58.00% | ~8,037 |
 | Bloodline | 53.00% | ~7,344 |
-| The Cradle of Centuries | 49.00% | ~6,789 |
-| The Life We Deserve | 47.00% | ~6,512 |
+| The Cradle of Centuries | 49.00% | ~6,790 |
+| The Life We Deserve | 47.00% | ~6,513 |
 | Night guard | 44.00% | ~6,097 |
-| Nothing Left | 40.00% | ~5,542 |
-| Healing our Wounds | 38.00% | ~5,265 |
+| Nothing Left | 40.00% | ~5,543 |
+| Healing our Wounds | 38.00% | ~5,266 |
 | Dying Sun | 34.00% | ~4,711 |
 | Improved crossbow | 27.00% | ~3,741 |
 | King Hugo | 25.00% | ~3,464 |
-| Mercy | 24.00% | ~3,325 |
+| Mercy | 24.00% | ~3,326 |
 | Perfect shot | 23.00% | ~3,187 |
-| Effective instruments | 22.00% | ~3,048 |
-| Perfect throw | 22.00% | ~3,048 |
+| Effective instruments | 22.00% | ~3,049 |
+| Perfect throw | 22.00% | ~3,049 |
 | Knights! | 21.00% | ~2,910 |
 | Handful of pockets | 13.00% | ~1,801 |
 | Pocket laboratory | 12.00% | ~1,663 |
 | Not a toy anymore | 11.00% | ~1,524 |
-| Herbalist | 8.00% | ~1,108 |
-| Fighter | 8.00% | ~1,108 |
+| Herbalist | 8.00% | ~1,109 |
+| Fighter | 8.00% | ~1,109 |
 | Ornithologist | 5.00% | ~693 |
 | Immortal memories | 4.00% | ~554 |
 | Sneaky | 4.00% | ~554 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 174)
 | Old protector | 2.00% | ~277 |
 | Malignant | 1.00% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,856 (Ranked 148)  
+Progressed: 13,857 (Ranked 148)  
 Completed: 54 (0.39%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 54 (0.39%) (Ranked 209)
 | 2023-11-07 | 13,824 | 53 |
 | 2023-11-08 | 13,841 | 54 |
 | 2023-11-09 | 13,855 | 54 |
-| 2023-11-10 | 13,856 | 54 |
+| 2023-11-10 | 13,857 | 54 |
 ## Awards
 Max (Great Boss Battles): 429  (Ranked 220)  
 Sum: 674 (Ranked 298)  

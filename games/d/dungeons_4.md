@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 76.00% | ~83 |
-| Thalya – Simply Immortal | 76.00% | ~83 |
-| Thalya's Concentrated Fury | 61.00% | ~66 |
-| For the Horde! | 59.00% | ~64 |
-| Hammer Time, Round Two | 53.00% | ~58 |
-| The Hellwoods | 46.00% | ~50 |
-| Master of Magic | 33.00% | ~36 |
+| The Last Stand | 75.00% | ~82 |
+| Thalya – Simply Immortal | 75.00% | ~82 |
+| Thalya's Concentrated Fury | 61.00% | ~67 |
+| For the Horde! | 59.00% | ~65 |
+| Hammer Time, Round Two | 54.00% | ~59 |
+| The Hellwoods | 45.00% | ~50 |
+| Master of Magic | 34.00% | ~37 |
 | Magic Accidents | 32.00% | ~35 |
 | Trap Master | 31.00% | ~34 |
-| Experienced Thalya | 26.00% | ~28 |
+| Experienced Thalya | 25.00% | ~28 |
 | Unicorn steaks – fresh off the hoof! | 24.00% | ~26 |
-| The Plains of Strothalm | 22.00% | ~24 |
+| The Plains of Strothalm | 23.00% | ~25 |
 | Minions, Minions! | 17.00% | ~19 |
-| Bad Elves Go Everywhere | 17.00% | ~19 |
+| Bad Elves Go Everywhere | 16.00% | ~18 |
 | Heroes’ Gorge | 6.00% | ~7 |
-| Mana Cannon | 6.00% | ~7 |
 | YOU SHALL NOT PASS! | 6.00% | ~7 |
-| Sacrificial Pit = Garbage Disposal? | 5.00% | ~5 |
-| Pure Dynamite! | 3.00% | ~3 |
+| Sacrificial Pit = Garbage Disposal? | 5.00% | ~6 |
+| Mana Cannon | 5.00% | ~6 |
+| Pure Dynamite! | 4.00% | ~4 |
+| The Ascent | 3.00% | ~3 |
+| It's Warm and Cozy at Home | 3.00% | ~3 |
 | The Big Eaty | 3.00% | ~3 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 3.00% | ~3 |
-| The Ascent | 2.00% | ~2 |
-| It's Warm and Cozy at Home | 2.00% | ~2 |
 | Hungry, Hungry Gorgu! | 2.00% | ~2 |
 | “… like son” | 2.00% | ~2 |
 | Dungeonlord Gorgu | 2.00% | ~2 |
@@ -66,10 +66,10 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 109 (Ranked 410)  
+Progressed: 110 (Ranked 410)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-09 | 76 | 0 |
-| 2023-11-10 | 109 | 0 |
+| 2023-11-10 | 110 | 0 |

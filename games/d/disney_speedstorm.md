@@ -1,18 +1,18 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 746)  
+Rating: 4.39 (Ranked 747)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 9.00% | ~25,974 |
-| IT MAKES BOOM! | 6.00% | ~17,316 |
-| EXTRA BOOST | 4.00% | ~11,544 |
-| PROTECTED | 3.00% | ~8,658 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,658 |
-| PRO | 3.00% | ~8,658 |
-| A TIGER'S FEAR | 2.00% | ~5,772 |
-| AGGRESSIVE RACER | 2.00% | ~5,772 |
+| ROOKIE | 9.00% | ~25,978 |
+| IT MAKES BOOM! | 6.00% | ~17,318 |
+| EXTRA BOOST | 4.00% | ~11,546 |
+| PROTECTED | 3.00% | ~8,659 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,659 |
+| PRO | 3.00% | ~8,659 |
+| A TIGER'S FEAR | 2.00% | ~5,773 |
+| AGGRESSIVE RACER | 2.00% | ~5,773 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~2,886 |
 | ACE SPEEDSTER | 1.00% | ~2,886 |
 | RELEASE THE KRAKEN | 0.80% | ~2,309 |
@@ -24,13 +24,13 @@ Rating: 4.39 (Ranked 746)
 | FRIENDLY | 0.60% | ~1,732 |
 | EXPERIENCED CREW | 0.50% | ~1,443 |
 | MASTER | 0.50% | ~1,443 |
-| ACE BRAWLER | 0.40% | ~1,154 |
-| ACE DEFENDER | 0.40% | ~1,154 |
+| ACE BRAWLER | 0.40% | ~1,155 |
+| ACE DEFENDER | 0.40% | ~1,155 |
 | PERFECTLY POISED | 0.20% | ~577 |
 | FRAMED! | 0.20% | ~577 |
 | ACE TRICKSTER | 0.20% | ~577 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 288,597 (Ranked 52)  
+Progressed: 288,639 (Ranked 52)  
 Completed: 278 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 278 (0.10%) (Ranked 269)
 | 2023-11-07 | 285,088 | 272 |
 | 2023-11-08 | 286,412 | 276 |
 | 2023-11-09 | 287,793 | 278 |
-| 2023-11-10 | 288,597 | 278 |
+| 2023-11-10 | 288,639 | 278 |
 ## Awards
 Max (Great for Beginners): 62  (Ranked 410)  
 Sum: 504 (Ranked 321)  

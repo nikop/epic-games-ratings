@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 67,
+  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6955,9 +6955,9 @@
       "Count": 3774
     }
   ],
-  "EOS_Progressed": 138992,
+  "EOS_Progressed": 139002,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 476,
+  "EOS_NewPlayers": 484,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27780,6 +27780,11 @@
       "Time": "2023-11-10T10:05:28.8942866+00:00",
       "NumProgressed": 138992,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2023-11-10T11:06:01.3787593+00:00",
+      "NumProgressed": 139002,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 112,
@@ -27877,9 +27882,9 @@
       "ID": "bigsale02",
       "SetID": "anfd17p",
       "Name": "Tax not Included",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1390
     },
     {
       "ID": "bigsale03",
@@ -28677,24 +28682,24 @@
       "ID": "yami_a",
       "SetID": "anfd17p",
       "Name": "King\u0027s Blade",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 973
+      "UsersEstimate": 1112
     }
   ],
   "AchievementSets": [
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 138992,
+      "Progressed": 139002,
       "Completed": 180
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-10T09:59:37.9135746+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:05:28.8942861+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:06:01.3787589+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:59:37.9135752+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:05:28.8945075+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:00:04.5061157+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:06:01.3789374+00:00"
 }

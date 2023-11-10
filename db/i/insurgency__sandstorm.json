@@ -3988,9 +3988,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 481335,
+  "EOS_Progressed": 481350,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6606,
+  "EOS_NewPlayers": 6593,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27213,6 +27213,11 @@
       "Time": "2023-11-10T10:05:02.6040288+00:00",
       "NumProgressed": 481335,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-10T11:05:30.2988121+00:00",
+      "NumProgressed": 481350,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -27232,7 +27237,7 @@
       "Name": "Blindfire",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "ACH_CARRYING",
@@ -27280,7 +27285,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19253
+      "UsersEstimate": 19254
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -27392,7 +27397,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19253
+      "UsersEstimate": 19254
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -27424,7 +27429,7 @@
       "Name": "Ruthless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "ACH_SELF_DESTRUCTIVE",
@@ -27440,7 +27445,7 @@
       "Name": "Semper Paratus",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 4813
+      "UsersEstimate": 4814
     },
     {
       "ID": "ACH_SPECIAL_DELIVERY",
@@ -27488,7 +27493,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24067
+      "UsersEstimate": 24068
     },
     {
       "ID": "ACH_WET_FEET",
@@ -27496,22 +27501,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19253
+      "UsersEstimate": 19254
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 481335,
+      "Progressed": 481350,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-11-10T07:59:36.3415232+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:05:02.6040284+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:05:30.2988115+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:18.2251472+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:59:19.2124296+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:05:02.6041596+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:59:42.9781964+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:05:30.298927+00:00"
 }

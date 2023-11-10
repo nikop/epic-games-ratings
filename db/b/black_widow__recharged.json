@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -173,7 +173,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19497,
+  "EOS_Progressed": 19498,
   "EOS_Completed": 58,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 1,
@@ -16548,6 +16548,11 @@
       "Time": "2023-11-10T10:06:35.2817222+00:00",
       "NumProgressed": 19497,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-10T11:07:18.0701985+00:00",
+      "NumProgressed": 19498,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 14,
@@ -16591,7 +16596,7 @@
       "Name": "Don\u0027t Bring Me Down",
       "Percentage": 19,
       "XP": 90,
-      "UsersEstimate": 3704
+      "UsersEstimate": 3705
     },
     {
       "ID": "ACH_EVEYONE_IS_BORN_TO_DIE",
@@ -16615,7 +16620,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 10333
+      "UsersEstimate": 10334
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -16647,7 +16652,7 @@
       "Name": "The Fall",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 3509
+      "UsersEstimate": 3510
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -16670,15 +16675,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 19497,
+      "Progressed": 19498,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:06:35.2817217+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:07:18.0701981+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:02.0209795+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:57:42.947964+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:06:35.2817977+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:57:51.1817639+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:07:18.0702772+00:00"
 }

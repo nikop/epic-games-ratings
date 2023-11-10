@@ -973,10 +973,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 294,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-11-10T10:57:10.3712165+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 296,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 294,
+  "NumberOfAwards": 296,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1020,7 +1026,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has a Competitive Community",
@@ -1032,7 +1038,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 23
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -1047,8 +1053,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-11-10T02:18:38.4195456+00:00",
+  "LastChanged": "2023-11-10T10:57:10.3712164+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.1641052+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:00:20.9967976+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:06:55.4216401+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:57:10.371217+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:07:41.3336092+00:00"
 }

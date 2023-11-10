@@ -348,17 +348,17 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "casting_finished",
       "SetID": "f2im8d",
       "Name": "Casting Finished",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "collect_items_mother",
@@ -380,9 +380,9 @@
       "ID": "collect_most_of_myths",
       "SetID": "f2im8d",
       "Name": "We Are Not Alone",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "collect_most_of_posters",
@@ -516,9 +516,9 @@
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "hear_most_of_interviews",
@@ -708,9 +708,9 @@
       "ID": "true_reflection",
       "SetID": "f2im8d",
       "Name": "True Reflection",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "view_most_of_photos",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-10T10:03:28.8594805+00:00",
+  "LastChanged_Achievements": "2023-11-10T11:03:40.9481915+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:41.7435557+00:00",
-  "LastUpdate_Ratings": "2023-11-10T10:03:15.9637528+00:00",
-  "LastUpdate_Achievements": "2023-11-10T10:03:28.8595237+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:03:24.6463467+00:00",
+  "LastUpdate_Achievements": "2023-11-10T11:03:40.9482299+00:00"
 }
