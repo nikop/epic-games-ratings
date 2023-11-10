@@ -9,7 +9,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Beginning is the End | 1.00% | ~2,006 |
 | The End is the Beginning | 0.80% | ~1,605 |
 | Tomb of Champions | 0.60% | ~1,204 |
-| See You on the Flipside | 0.40% | ~802 |
+| See You on the Flipside | 0.40% | ~803 |
 | A Brief Tour of the Realms | 0.30% | ~703 |
 | Maddening | 0.10% | ~234 |
 | Pros and CONs | 0.10% | ~234 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~201 |
 | Time Out | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,344 (Ranked 64)  
+Progressed: 234,355 (Ranked 64)  
 Completed: 2,441 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -743,18 +743,18 @@ Completed: 2,441 (1.04%) (Ranked 154)
 | 2023-11-07 | 233,928 | 2,437 |
 | 2023-11-08 | 233,992 | 2,437 |
 | 2023-11-09 | 234,118 | 2,440 |
-| 2023-11-10 | 234,344 | 2,441 |
+| 2023-11-10 | 234,355 | 2,441 |
 ## Awards
 Max (Great for Beginners): 5,508  (Ranked 68)  
-Sum: 32,419 (Ranked 40)  
+Sum: 32,424 (Ranked 40)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,508 |
 | This game has Diverse Characters | 5,490 |
 | This game has Quickly Understood Controls | 4,810 |
-| This game is Relaxing | 4,700 |
-| This game has Amazing Characters | 4,203 |
+| This game is Relaxing | 4,701 |
+| This game has Amazing Characters | 4,207 |
 | This game is Highly Recommended | 4,196 |
 | This game has Playful Visuals | 3,512 |
 ## Ratings History
@@ -1048,4 +1048,4 @@ Diff (max vs sum): 28
 | 2023-11-07 | 4.06 | - | 5,488 | 32,380 |
 | 2023-11-08 | 4.06 | - | 5,492 | 32,387 |
 | 2023-11-09 | 4.06 | - | 5,500 | 32,405 |
-| 2023-11-10 | 4.06 | - | 5,508 | 32,419 |
+| 2023-11-10 | 4.06 | - | 5,508 | 32,424 |

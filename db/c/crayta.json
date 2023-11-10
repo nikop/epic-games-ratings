@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109787,
+  "EOS_Progressed": 109788,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3067,6 +3067,11 @@
       "Time": "2023-11-10T04:08:13.9483165+00:00",
       "NumProgressed": 109787,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-10T20:08:11.8304314+00:00",
+      "NumProgressed": 109788,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -3150,7 +3155,7 @@
       "Name": "Building Block - Bronze",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "19",
@@ -3214,7 +3219,7 @@
       "Name": "Variety Player - Silver",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4391
+      "UsersEstimate": 4392
     },
     {
       "ID": "26",
@@ -3349,15 +3354,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109787,
+      "Progressed": 109788,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:08:39.6758526+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:08:11.8304312+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:53.6561751+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:59:15.335466+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:08:39.6758885+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:59:02.3664566+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:08:11.8304642+00:00"
 }

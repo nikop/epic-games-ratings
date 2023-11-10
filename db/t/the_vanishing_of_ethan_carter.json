@@ -3,11 +3,11 @@
   "Name": "The Vanishing of Ethan Carter",
   "ProductSlug": "the-vanishing-of-ethan-carter",
   "Ranking_Rating": 867,
-  "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 548,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-12-19T16:00:00+00:00",
@@ -477,6 +477,6 @@
   "FirstSeen": "2022-07-22T20:30:30.7974201+00:00",
   "LastChanged": "2023-10-12T11:03:20.912881+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:09.9131853+00:00",
-  "LastUpdate_Ratings": "2023-11-10T19:00:09.0882082+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:03:39.8789353+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:59:45.6653621+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:03:16.3654971+00:00"
 }

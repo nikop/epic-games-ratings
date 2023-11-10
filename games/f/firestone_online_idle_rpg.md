@@ -5,66 +5,66 @@ Rating: 4.10 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,024 |
-| World Map | 79.00% | ~1,719 |
-| Temple of Eternals | 57.00% | ~1,240 |
-| Prestigious | 54.00% | ~1,175 |
-| Fellowship Power | 42.00% | ~914 |
-| Guild Power | 26.00% | ~566 |
-| Prestigious x10 | 23.00% | ~500 |
-| The game is on | 21.00% | ~457 |
-| Exotic Merchant | 19.00% | ~413 |
-| Dragon Clicker | 17.00% | ~370 |
-| Full Party | 17.00% | ~370 |
-| Inspection | 17.00% | ~370 |
-| Miner Clicker | 17.00% | ~370 |
-| Dragon Master | 16.00% | ~348 |
-| Enlightenment | 16.00% | ~348 |
-| Hero inspection | 15.00% | ~326 |
-| Lieutenant | 15.00% | ~326 |
-| Mysterious Rock | 14.00% | ~305 |
-| Natural Talent | 14.00% | ~305 |
-| Superior | 14.00% | ~305 |
-| The Unstoppable | 14.00% | ~305 |
-| Milestone collector | 13.00% | ~283 |
-| Scientist | 12.00% | ~261 |
-| The power of Awakening | 12.00% | ~261 |
-| Challenger | 11.00% | ~239 |
-| Daily Quest Completionist | 11.00% | ~239 |
-| Doing My Part | 11.00% | ~239 |
-| Hunter | 11.00% | ~239 |
-| Mastery | 11.00% | ~239 |
-| Moving Up The Ladder | 11.00% | ~239 |
-| Relic Of The Past | 11.00% | ~239 |
-| Scroll Master | 11.00% | ~239 |
+| Victor | 93.00% | ~2,031 |
+| World Map | 79.00% | ~1,725 |
+| Temple of Eternals | 57.00% | ~1,245 |
+| Prestigious | 54.00% | ~1,179 |
+| Fellowship Power | 42.00% | ~917 |
+| Guild Power | 26.00% | ~568 |
+| Prestigious x10 | 23.00% | ~502 |
+| The game is on | 21.00% | ~459 |
+| Exotic Merchant | 19.00% | ~415 |
+| Dragon Clicker | 17.00% | ~371 |
+| Full Party | 17.00% | ~371 |
+| Inspection | 17.00% | ~371 |
+| Miner Clicker | 17.00% | ~371 |
+| Dragon Master | 16.00% | ~349 |
+| Enlightenment | 16.00% | ~349 |
+| Hero inspection | 15.00% | ~328 |
+| Lieutenant | 15.00% | ~328 |
+| Mysterious Rock | 14.00% | ~306 |
+| Natural Talent | 14.00% | ~306 |
+| Superior | 14.00% | ~306 |
+| The Unstoppable | 14.00% | ~306 |
+| Milestone collector | 13.00% | ~284 |
+| Scientist | 12.00% | ~262 |
+| The power of Awakening | 12.00% | ~262 |
+| Challenger | 11.00% | ~240 |
+| Daily Quest Completionist | 11.00% | ~240 |
+| Doing My Part | 11.00% | ~240 |
+| Hunter | 11.00% | ~240 |
+| Mastery | 11.00% | ~240 |
+| Moving Up The Ladder | 11.00% | ~240 |
+| Relic Of The Past | 11.00% | ~240 |
+| Scroll Master | 11.00% | ~240 |
 | Four Leaf Clover | 10.00% | ~218 |
 | Frostfire Liberator | 10.00% | ~218 |
 | Master Enchanter | 10.00% | ~218 |
 | The father of Dragons | 10.00% | ~218 |
-| Here We Go Again | 9.00% | ~196 |
-| Trader | 9.00% | ~196 |
-| Blueprint Upgrades | 8.00% | ~174 |
-| Crystal Mining | 8.00% | ~174 |
-| Dragon Slayer | 8.00% | ~174 |
-| Enchanting skill | 8.00% | ~174 |
-| Engineer Mastery | 8.00% | ~174 |
-| The Expeditioner | 8.00% | ~174 |
-| Weekly Quest Completionist | 8.00% | ~174 |
-| How Do You Turn This On? | 7.00% | ~152 |
-| Lock And Load | 7.00% | ~152 |
-| Missions Dedication | 7.00% | ~152 |
-| Sailor | 7.00% | ~152 |
-| The Alchemist | 7.00% | ~152 |
+| Here We Go Again | 9.00% | ~197 |
+| Trader | 9.00% | ~197 |
+| Blueprint Upgrades | 8.00% | ~175 |
+| Crystal Mining | 8.00% | ~175 |
+| Dragon Slayer | 8.00% | ~175 |
+| Enchanting skill | 8.00% | ~175 |
+| Engineer Mastery | 8.00% | ~175 |
+| The Expeditioner | 8.00% | ~175 |
+| Weekly Quest Completionist | 8.00% | ~175 |
+| How Do You Turn This On? | 7.00% | ~153 |
+| Lock And Load | 7.00% | ~153 |
+| Missions Dedication | 7.00% | ~153 |
+| Sailor | 7.00% | ~153 |
+| The Alchemist | 7.00% | ~153 |
 | Active Member | 6.00% | ~131 |
 | Ancient Knowledge | 6.00% | ~131 |
-| Background Story | 6.00% | ~131 |
 | Legendary | 6.00% | ~131 |
 | Arena Challenger | 5.00% | ~109 |
+| Background Story | 5.00% | ~109 |
 | Ebony Jungle Liberator | 5.00% | ~109 |
 | Gear Enchanting | 4.00% | ~87 |
 | Mythic Power | 4.00% | ~87 |
 | What lies behind the bush | 4.00% | ~87 |
-| Guardian Master | 3.00% | ~65 |
+| Guardian Master | 3.00% | ~66 |
 | Cauldron Liberator | 2.00% | ~44 |
 | Enchanting skill x5 | 2.00% | ~44 |
 | Pokerface | 2.00% | ~44 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 958)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,176 (Ranked 216)  
+Progressed: 2,184 (Ranked 216)  
 Completed: 2 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 2 (0.09%) (Ranked 275)
 | 2023-11-07 | 2,119 | 2 |
 | 2023-11-08 | 2,124 | 2 |
 | 2023-11-09 | 2,129 | 2 |
-| 2023-11-10 | 2,176 | 2 |
+| 2023-11-10 | 2,184 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 491)  
 Sum: 57 (Ranked 471)  

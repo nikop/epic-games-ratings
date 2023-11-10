@@ -2,9 +2,9 @@
   "ID": "114c85073c9e4434b5fc83f6f781a02a",
   "Name": "Supfly Delivery Simulator",
   "ProductSlug": "supfly-delivery-simulator-82d2fd",
-  "Ranking_EOS_Progress": 636,
+  "Ranking_EOS_Progress": 625,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewPlayers": 343,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-08T17:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2023-11-09T17:08:31.6125658+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T20:08:14.5067448+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -60,7 +65,7 @@
       "ID": "GETTING_AN_UPGRADE",
       "SetID": "7ae64fg",
       "Name": "Getting an upgrade",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 110,
       "UsersEstimate": 1
     },
@@ -84,15 +89,15 @@
       "ID": "OOPS",
       "SetID": "7ae64fg",
       "Name": "Oops",
-      "Percentage": 200,
+      "Percentage": 175,
       "XP": 110,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "SMALL_BUSINESS",
       "SetID": "7ae64fg",
       "Name": "Small business",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 110,
       "UsersEstimate": 1
     },
@@ -100,7 +105,7 @@
       "ID": "SPECIAL_DELIVERY",
       "SetID": "7ae64fg",
       "Name": "Special delivery",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 110,
       "UsersEstimate": 3
     },
@@ -108,7 +113,7 @@
       "ID": "STEP_BY_STEP",
       "SetID": "7ae64fg",
       "Name": "Step by step",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 110,
       "UsersEstimate": 1
     },
@@ -116,7 +121,7 @@
       "ID": "TIME_TO_START",
       "SetID": "7ae64fg",
       "Name": "Time to start",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 110,
       "UsersEstimate": 3
     }
@@ -125,13 +130,13 @@
     {
       "ID": "7ae64fg",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-26T15:04:27.1843787+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:08:43.0037633+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:08:14.5067446+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:31.2125064+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:58:39.6192763+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:08:43.0037703+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:58:33.6545568+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:08:14.5067502+00:00"
 }

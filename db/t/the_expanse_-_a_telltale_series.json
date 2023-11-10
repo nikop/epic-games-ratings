@@ -3,12 +3,12 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 502,
-  "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 548,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,10 +211,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14807,
+  "EOS_Progressed": 14810,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 208,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 207,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -10866,6 +10866,11 @@
       "Time": "2023-11-10T19:04:35.6492821+00:00",
       "NumProgressed": 14807,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-10T20:04:02.9339694+00:00",
+      "NumProgressed": 14810,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -10910,7 +10915,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "14",
@@ -11157,13 +11162,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14807,
+      "Progressed": 14810,
       "Completed": 33
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 761,
+      "Progressed": 764,
       "Completed": 487
     }
   ],
@@ -11171,8 +11176,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:04:35.6492814+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:04:02.9339692+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:58:43.5579163+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:04:35.6493534+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:58:37.0211829+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:04:02.9340461+00:00"
 }

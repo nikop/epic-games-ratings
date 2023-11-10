@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -2220,17 +2220,17 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 87
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2244,9 +2244,9 @@
       "ID": "META_HALF_LINK",
       "SetID": "2gma9an",
       "Name": "Half the way",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2411,8 +2411,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:05:33.4155775+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:04:50.8107849+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:59:22.2700397+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:05:33.4156024+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:59:07.9885393+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:04:50.8108089+00:00"
 }

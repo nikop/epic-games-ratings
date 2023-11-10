@@ -8,8 +8,8 @@ Number of Ratings: 34  (23.09.2022)
 | ---- | ---------- | ----- |
 | Across The Border | 78.00% | ~15,219 |
 | I'm Alive | 53.00% | ~10,341 |
+| Look at Me Now | 28.00% | ~5,463 |
 | Danger Ahead | 27.00% | ~5,268 |
-| Look at Me Now | 27.00% | ~5,268 |
 | Don't Bring Me Down | 19.00% | ~3,707 |
 | The Fall | 18.00% | ~3,512 |
 | Everyone's Born to Die | 16.00% | ~3,122 |

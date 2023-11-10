@@ -13,18 +13,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 3.00% | ~4,174 |
 | Tinkle of Coins | 3.00% | ~4,174 |
 | Capitalism Ho! | 3.00% | ~4,174 |
-| The Daily Grind | 2.00% | ~2,782 |
-| One Easy Payment | 2.00% | ~2,782 |
-| Some Assembly Required | 2.00% | ~2,782 |
-| Bounty Hunters | 2.00% | ~2,782 |
-| Flooding the Market | 2.00% | ~2,782 |
-| Another Satisfied Customer | 2.00% | ~2,782 |
-| Pretty Penny | 2.00% | ~2,782 |
-| One-Armed Bandit | 2.00% | ~2,782 |
-| Budding Merchant | 2.00% | ~2,782 |
-| Dungeon Imports | 2.00% | ~2,782 |
-| Through Repetition, Perfection | 2.00% | ~2,782 |
-| Own the Means of Production | 2.00% | ~2,782 |
+| The Daily Grind | 2.00% | ~2,783 |
+| One Easy Payment | 2.00% | ~2,783 |
+| Some Assembly Required | 2.00% | ~2,783 |
+| Bounty Hunters | 2.00% | ~2,783 |
+| Flooding the Market | 2.00% | ~2,783 |
+| Another Satisfied Customer | 2.00% | ~2,783 |
+| Pretty Penny | 2.00% | ~2,783 |
+| One-Armed Bandit | 2.00% | ~2,783 |
+| Budding Merchant | 2.00% | ~2,783 |
+| Dungeon Imports | 2.00% | ~2,783 |
+| Through Repetition, Perfection | 2.00% | ~2,783 |
+| Own the Means of Production | 2.00% | ~2,783 |
 | On the Path to Greatness | 1.00% | ~1,391 |
 | Ascended | 1.00% | ~1,391 |
 | Tax not Included | 1.00% | ~1,391 |
@@ -73,6 +73,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.80% | ~1,113 |
 | Scourge of the Seas | 0.80% | ~1,113 |
 | Attrition Mission | 0.80% | ~1,113 |
+| Glittering Collection | 0.80% | ~1,113 |
 | Exotic Commodities | 0.80% | ~1,113 |
 | King's Blade | 0.80% | ~1,113 |
 | Cream of the Crop | 0.70% | ~974 |
@@ -90,7 +91,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Merchant | 0.70% | ~974 |
 | Bountiful Harvest | 0.70% | ~974 |
 | Precision Engineering | 0.70% | ~974 |
-| Glittering Collection | 0.70% | ~974 |
 | Treasure Trove | 0.70% | ~974 |
 | Moment of Respite | 0.70% | ~974 |
 | King's Shadow | 0.70% | ~974 |
@@ -104,8 +104,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.50% | ~696 |
 | Eternal Crusade | 0.50% | ~696 |
 | All Accounted For | 0.50% | ~696 |
-| The Free Encyclopedia | 0.40% | ~556 |
-| All or Nothing! | 0.40% | ~556 |
+| The Free Encyclopedia | 0.40% | ~557 |
+| All or Nothing! | 0.40% | ~557 |
 | JACKPOT!!! | 0.30% | ~417 |
 | Anything not Nailed Down | 0.30% | ~417 |
 | The Greatest Grind | 0.30% | ~417 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,119 (Ranked 79)  
+Progressed: 139,131 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 139,119 | 180 |
+| 2023-11-10 | 139,131 | 180 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 73)  
 Sum: 27,523 (Ranked 51)  

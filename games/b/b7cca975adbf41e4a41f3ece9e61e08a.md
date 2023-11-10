@@ -5,36 +5,36 @@ Rating: 4.83 (Ranked 58)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~7,220 |
-| I Challenge You To Save More Money! | 88.00% | ~6,831 |
-| I Love How Tough You Are | 75.00% | ~5,822 |
-| Wanna Come To My Place For Dinner? | 68.00% | ~5,279 |
-| What I Want Is You | 62.00% | ~4,813 |
-| To Be Or Not To Be | 59.00% | ~4,580 |
+| Last Night...Did We... | 93.00% | ~7,221 |
+| I Challenge You To Save More Money! | 88.00% | ~6,832 |
+| I Love How Tough You Are | 75.00% | ~5,823 |
+| Wanna Come To My Place For Dinner? | 68.00% | ~5,280 |
+| What I Want Is You | 62.00% | ~4,814 |
+| To Be Or Not To Be | 59.00% | ~4,581 |
 | Are You Alright? | 50.00% | ~3,882 |
 | Love Actually | 49.00% | ~3,804 |
-| Drama King | 43.00% | ~3,338 |
+| Drama King | 43.00% | ~3,339 |
 | You're Really Something Else | 38.00% | ~2,950 |
 | ONE PUNCH | 36.00% | ~2,795 |
 | Go Clean up In Your Own Way | 36.00% | ~2,795 |
 | Happy Family | 35.00% | ~2,717 |
 | Drama CP: Reel to Real | 35.00% | ~2,717 |
 | Worthless Speech | 35.00% | ~2,717 |
-| Absolutely Elegant | 34.00% | ~2,639 |
-| FIRST LOVE | 34.00% | ~2,639 |
+| Absolutely Elegant | 34.00% | ~2,640 |
+| FIRST LOVE | 34.00% | ~2,640 |
 | Still Single | 33.00% | ~2,562 |
 | Go Get Some Fries On The Pier | 30.00% | ~2,329 |
 | Days Of Innocence | 30.00% | ~2,329 |
-| David | 29.00% | ~2,251 |
-| A Slap In The Face! | 26.00% | ~2,018 |
+| David | 29.00% | ~2,252 |
+| A Slap In The Face! | 26.00% | ~2,019 |
 | All I Have Is Money | 25.00% | ~1,941 |
 | Lover In Dark Alley | 25.00% | ~1,941 |
 | That's So You | 24.00% | ~1,863 |
 | SALUTE | 24.00% | ~1,863 |
-| Let Me Be Your Toy Boy | 23.00% | ~1,785 |
+| Let Me Be Your Toy Boy | 23.00% | ~1,786 |
 | Off We Sail Tonight | 20.00% | ~1,553 |
 | Love You Three Thousand | 16.00% | ~1,242 |
-| Can You Do This Or Not? | 15.00% | ~1,164 |
+| Can You Do This Or Not? | 15.00% | ~1,165 |
 | Doesn't Matter I'll Handle It | 14.00% | ~1,087 |
 | The Flash | 12.00% | ~932 |
 | New Yoga Pose Unlocked | 11.00% | ~854 |
@@ -48,7 +48,7 @@ Rating: 4.83 (Ranked 58)
 | Tall; Grande; Venti | 2.00% | ~155 |
 | Limerence | 2.00% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,763 (Ranked 167)  
+Progressed: 7,764 (Ranked 167)  
 Completed: 120 (1.55%) (Ranked 133)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,7 +82,7 @@ Completed: 120 (1.55%) (Ranked 133)
 | 2023-11-07 | 7,332 | 111 |
 | 2023-11-08 | 7,484 | 114 |
 | 2023-11-09 | 7,622 | 117 |
-| 2023-11-10 | 7,763 | 120 |
+| 2023-11-10 | 7,764 | 120 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

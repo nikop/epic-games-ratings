@@ -6,23 +6,23 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,879 |
-| Tutti Eroi! | 54.00% | ~3,879 |
-| You Shall Not Pass | 53.00% | ~3,807 |
-| Avanti Savoia! | 48.00% | ~3,448 |
+| Peak Performance | 54.00% | ~3,880 |
+| Tutti Eroi! | 54.00% | ~3,880 |
+| You Shall Not Pass | 53.00% | ~3,808 |
+| Avanti Savoia! | 48.00% | ~3,449 |
 | Mamma Mia! | 38.00% | ~2,730 |
-| Conrad von Hotzensocks | 36.00% | ~2,586 |
-| Gabriele D'Annunzio | 34.00% | ~2,442 |
-| Silver Lining | 30.00% | ~2,155 |
+| Conrad von Hotzensocks | 36.00% | ~2,587 |
+| Gabriele D'Annunzio | 34.00% | ~2,443 |
+| Silver Lining | 30.00% | ~2,156 |
 | Aurelio Baruzzi | 24.00% | ~1,724 |
-| Decimation | 22.00% | ~1,580 |
-| Donatello | 22.00% | ~1,580 |
-| The Italian Job | 22.00% | ~1,580 |
-| Veni Vidi Vici | 22.00% | ~1,580 |
+| Decimation | 22.00% | ~1,581 |
+| Donatello | 22.00% | ~1,581 |
+| The Italian Job | 22.00% | ~1,581 |
+| Veni Vidi Vici | 22.00% | ~1,581 |
 | Insubordination | 20.00% | ~1,437 |
 | Ragazzi del '99 | 19.00% | ~1,365 |
 | The Lion of the Isonzo | 18.00% | ~1,293 |
-| Luigi Cadorna | 16.00% | ~1,149 |
+| Luigi Cadorna | 16.00% | ~1,150 |
 | Dirty Dozen | 14.00% | ~1,006 |
 | Shaken, Not Stirred | 14.00% | ~1,006 |
 | Uomo Universale | 14.00% | ~1,006 |
@@ -33,17 +33,17 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 11.00% | ~790 |
 | Millenial | 11.00% | ~790 |
 | I Have the High Ground | 10.00% | ~718 |
-| The Show Must Go On | 9.00% | ~646 |
-| Tosca | 9.00% | ~646 |
+| The Show Must Go On | 9.00% | ~647 |
+| Tosca | 9.00% | ~647 |
 | 12th Bottle of the Isonzo | 7.00% | ~503 |
 | Cercatore d'Oro | 6.00% | ~431 |
 | The Enlightment | 6.00% | ~431 |
 | Generalissimo | 5.00% | ~359 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~287 |
 | Seeing Red | 4.00% | ~287 |
-| Farewell to Arms | 3.00% | ~215 |
-| Ponte of No Return | 3.00% | ~215 |
-| Soča Drag | 3.00% | ~215 |
+| Farewell to Arms | 3.00% | ~216 |
+| Ponte of No Return | 3.00% | ~216 |
+| Soča Drag | 3.00% | ~216 |
 | Saboteur | 2.00% | ~144 |
 | Compagnia della Morte | 1.00% | ~72 |
 | Drop and Give Me 20 | 1.00% | ~72 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~29 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,183 (Ranked 173)  
+Progressed: 7,185 (Ranked 173)  
 Completed: 9 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 9 (0.13%) (Ranked 258)
 | 2023-11-07 | 7,122 | 9 |
 | 2023-11-08 | 7,125 | 9 |
 | 2023-11-09 | 7,134 | 9 |
-| 2023-11-10 | 7,183 | 9 |
+| 2023-11-10 | 7,185 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 464)  
 Sum: 275 (Ranked 371)  

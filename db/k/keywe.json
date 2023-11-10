@@ -2,7 +2,7 @@
   "ID": "2f85e4b21b8b459fa78a34e59ccac2a2",
   "Name": "KeyWe",
   "ProductSlug": "keywe-c3a70e",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 331,
   "Ranking_EOS_NewCompleters": 129,
@@ -353,17 +353,17 @@
       "ID": "completeTheFirstWeek",
       "SetID": "cfe0fhi",
       "Name": "Learn the Ropes",
-      "Percentage": 85,
+      "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "findFirstCollectible",
       "SetID": "cfe0fhi",
       "Name": "A Startling Discovery",
-      "Percentage": 50,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "getABonusReward",
@@ -440,8 +440,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8503401+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:23.8514145+00:00",
   "LastChanged": "2023-03-31T05:58:13.8503402+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:09:29.9857691+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:08:52.9958744+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:18.0383646+00:00",
-  "LastUpdate_Ratings": "2023-11-10T19:00:56.020612+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:09:29.9857832+00:00"
+  "LastUpdate_Ratings": "2023-11-10T20:00:24.0287012+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:08:52.995886+00:00"
 }

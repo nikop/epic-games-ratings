@@ -3,8 +3,8 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 901,
-  "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 548,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 154,
@@ -16667,9 +16667,9 @@
       "ID": "ACH_LOOK_AT_ME_NOW",
       "SetID": "1blkama",
       "Name": "Look at Me Now",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 5268
+      "UsersEstimate": 5463
     },
     {
       "ID": "ACH_THE_FALL",
@@ -16707,8 +16707,8 @@
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2023-11-02T20:58:32.2795394+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:06:50.135059+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:05:54.1120955+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:02.0209795+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:57:52.2878067+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:06:50.1351483+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:57:54.7590845+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:05:54.112164+00:00"
 }

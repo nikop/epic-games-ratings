@@ -8,12 +8,12 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | Me and My Familiar | 1.00% | ~15 |
 | Gotta Ca... Must Collect All of Them | 1.00% | ~15 |
+| Passing Shadow | 1.00% | ~15 |
 | This Too Shall Pass | 1.00% | ~15 |
 | How Romantic! | 1.00% | ~15 |
 | The Cost of Heroism | 1.00% | ~15 |
 | Cutthroat Competitors | 1.00% | ~15 |
 | Daybreak | 1.00% | ~15 |
-| Passing Shadow | 0.90% | ~13 |
 | War Endured | 0.70% | ~10 |
 | Core Failure | 0.70% | ~10 |
 | Let Me Get My Chisel | 0.60% | ~9 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,452 (Ranked 235)  
+Progressed: 1,453 (Ranked 235)  
 Completed: 6 (0.41%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 6 (0.41%) (Ranked 208)
 | 2023-11-05 | 1,450 | 6 |
 | 2023-11-06 | 1,451 | 6 |
 | 2023-11-07 | 1,452 | 6 |
+| 2023-11-10 | 1,453 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 501)  
 Sum: 28 (Ranked 516)  

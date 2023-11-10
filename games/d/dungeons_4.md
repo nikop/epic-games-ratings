@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 78.00% | ~113 |
-| Thalya – Simply Immortal | 78.00% | ~113 |
-| For the Horde! | 63.00% | ~91 |
-| Thalya's Concentrated Fury | 60.00% | ~87 |
-| Hammer Time, Round Two | 57.00% | ~83 |
-| The Hellwoods | 44.00% | ~64 |
-| Master of Magic | 36.00% | ~52 |
-| Trap Master | 35.00% | ~51 |
-| Magic Accidents | 33.00% | ~48 |
-| Experienced Thalya | 30.00% | ~44 |
-| The Plains of Strothalm | 28.00% | ~41 |
-| Unicorn steaks – fresh off the hoof! | 27.00% | ~39 |
-| Minions, Minions! | 23.00% | ~33 |
-| Bad Elves Go Everywhere | 19.00% | ~28 |
-| Heroes’ Gorge | 12.00% | ~17 |
-| YOU SHALL NOT PASS! | 12.00% | ~17 |
-| Mana Cannon | 10.00% | ~14 |
+| The Last Stand | 78.00% | ~116 |
+| Thalya – Simply Immortal | 78.00% | ~116 |
+| For the Horde! | 64.00% | ~95 |
+| Thalya's Concentrated Fury | 60.00% | ~89 |
+| Hammer Time, Round Two | 58.00% | ~86 |
+| The Hellwoods | 46.00% | ~69 |
+| Master of Magic | 39.00% | ~58 |
+| Trap Master | 37.00% | ~55 |
+| Magic Accidents | 34.00% | ~51 |
+| Experienced Thalya | 32.00% | ~48 |
+| The Plains of Strothalm | 30.00% | ~45 |
+| Unicorn steaks – fresh off the hoof! | 28.00% | ~42 |
+| Minions, Minions! | 24.00% | ~36 |
+| Bad Elves Go Everywhere | 22.00% | ~33 |
+| Heroes’ Gorge | 13.00% | ~19 |
+| YOU SHALL NOT PASS! | 12.00% | ~18 |
+| Mana Cannon | 11.00% | ~16 |
 | Sacrificial Pit = Garbage Disposal? | 6.00% | ~9 |
-| Pure Dynamite! | 6.00% | ~9 |
 | The Ascent | 5.00% | ~7 |
+| Pure Dynamite! | 5.00% | ~7 |
 | It's Warm and Cozy at Home | 5.00% | ~7 |
 | Hard Work | 3.00% | ~4 |
 | The Big Eaty | 3.00% | ~4 |
@@ -66,10 +66,10 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145 (Ranked 393)  
+Progressed: 149 (Ranked 389)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-09 | 76 | 0 |
-| 2023-11-10 | 145 | 0 |
+| 2023-11-10 | 149 | 0 |

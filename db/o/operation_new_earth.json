@@ -3,8 +3,8 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1037,
-  "Ranking_Popularity": 548,
-  "Ranking_PopularitySum": 548,
+  "Ranking_Popularity": 547,
+  "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 205,
@@ -6739,9 +6739,9 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 90
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -7052,8 +7052,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:05:42.1482597+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:04:57.8962549+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:57:37.6704981+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:05:42.1483123+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:57:43.0779344+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:04:57.8963207+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "ikonei-island-an-earthlock-adventure-fa1620",
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-09T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 455,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 449,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -213,6 +213,11 @@
     {
       "Time": "2023-11-10T19:04:39.4620591+00:00",
       "NumProgressed": 450,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T20:04:06.1817056+00:00",
+      "NumProgressed": 455,
       "NumCompleted": 0
     }
   ],
@@ -513,14 +518,14 @@
     {
       "ID": "ai9gp4m",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 455,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:04:39.4620585+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:04:06.1817053+00:00",
   "LastUpdate_AppInfo": "2023-11-07T09:57:05.9835651+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:58:35.957492+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:04:39.4620859+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:58:30.5108175+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:04:06.1817317+00:00"
 }

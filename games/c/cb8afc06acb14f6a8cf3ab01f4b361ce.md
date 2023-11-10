@@ -20,6 +20,7 @@ Rating: 4.21 (Ranked 901)
 | We can choose to fight | 0.10% | ~307 |
 | No damsels in distress | 0.10% | ~307 |
 | The immortal is bound to reborn | 0.10% | ~307 |
+| A legend among Chimeras | 0.10% | ~307 |
 | It's only pain | 0.10% | ~307 |
 | I know how to handle it | 0.10% | ~307 |
 | Settle this once and for all | 0.10% | ~307 |
@@ -41,12 +42,11 @@ Rating: 4.21 (Ranked 901)
 | Chaos be damned! | 0.10% | ~307 |
 | I took a risk | 0.10% | ~307 |
 | Let's raise the stakes!! | 0.10% | ~307 |
-| A legend among Chimeras | 0.00% | ~0 |
 | I'm just warming up | 0.00% | ~0 |
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307,189 (Ranked 49)  
+Progressed: 307,235 (Ranked 49)  
 Completed: 4 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,7 +94,7 @@ Completed: 4 (0.00%) (Ranked 347)
 | 2023-11-07 | 305,112 | 2 |
 | 2023-11-08 | 305,812 | 3 |
 | 2023-11-09 | 306,560 | 3 |
-| 2023-11-10 | 307,189 | 4 |
+| 2023-11-10 | 307,235 | 4 |
 ## Awards
 Max (Great Boss Battles): 52  (Ranked 421)  
 Sum: 52 (Ranked 474)  

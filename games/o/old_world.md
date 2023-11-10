@@ -12,6 +12,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 4.00% | ~610 |
 | Friendly Family | 4.00% | ~610 |
 | Able | 3.00% | ~457 |
+| Ambitious | 3.00% | ~457 |
 | Architect | 3.00% | ~457 |
 | Enlightened | 3.00% | ~457 |
 | Glorious | 3.00% | ~457 |
@@ -34,7 +35,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Naming Landmarks | 3.00% | ~457 |
 | Trade Caravan | 3.00% | ~457 |
 | Regicide | 2.00% | ~305 |
-| Ambitious | 2.00% | ~305 |
 | Drillmaster | 2.00% | ~305 |
 | Brilliant | 2.00% | ~305 |
 | Fountainhead | 2.00% | ~305 |
@@ -106,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~152 |
 | Points Victory | 1.00% | ~152 |
 | The Clergy | 1.00% | ~152 |
+| Capable | 0.90% | ~137 |
 | Strong Difficulty | 0.90% | ~137 |
 | Hunters | 0.90% | ~137 |
 | Church of the Holy Sepulchre | 0.90% | ~137 |
@@ -120,7 +121,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.90% | ~137 |
 | Mounted Lancer | 0.90% | ~137 |
 | Ambition Victory | 0.90% | ~137 |
-| Capable | 0.80% | ~122 |
 | Devout | 0.80% | ~122 |
 | Ready | 0.80% | ~122 |
 | Egypt | 0.80% | ~122 |
@@ -136,15 +136,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.70% | ~107 |
 | Kmt Unified | 0.70% | ~107 |
 | Ishtar Gate in Babylon | 0.60% | ~91 |
+| Carthage - Ox Hide | 0.60% | ~91 |
+| Peacemaker | 0.60% | ~91 |
 | Noble Difficulty | 0.60% | ~91 |
 | Cao'an | 0.60% | ~91 |
 | Adur Burzen-Mihr | 0.60% | ~91 |
 | Learn to Play 5 | 0.60% | ~91 |
 | Cataphract Archer | 0.60% | ~91 |
 | All Nations | 0.60% | ~91 |
-| Carthage - Ox Hide | 0.50% | ~76 |
 | Old | 0.50% | ~76 |
-| Peacemaker | 0.50% | ~76 |
 | Old World Order | 0.50% | ~76 |
 | Ten Crowns | 0.50% | ~76 |
 | No Undo | 0.50% | ~76 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,244 (Ranked 145)  
+Progressed: 15,248 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -553,7 +553,7 @@ Completed: 5 (0.03%) (Ranked 310)
 | 2023-11-07 | 15,201 | 5 |
 | 2023-11-08 | 15,218 | 5 |
 | 2023-11-09 | 15,231 | 5 |
-| 2023-11-10 | 15,244 | 5 |
+| 2023-11-10 | 15,248 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 273)  
 Sum: 1,872 (Ranked 214)  

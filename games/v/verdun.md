@@ -6,23 +6,23 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~49,150 |
-| Worth it | 63.00% | ~39,698 |
-| Eagle Eye | 55.00% | ~34,657 |
-| Corpseman I | 40.00% | ~25,205 |
-| Blast fishing | 37.00% | ~23,315 |
-| Not alone | 32.00% | ~20,164 |
-| Headhunter I | 26.00% | ~16,383 |
-| Manual Labour I | 25.00% | ~15,753 |
-| Developers, Developers, Developers | 24.00% | ~15,123 |
-| Basic Training | 24.00% | ~15,123 |
+| Setting an example | 78.00% | ~49,155 |
+| Worth it | 63.00% | ~39,702 |
+| Eagle Eye | 55.00% | ~34,660 |
+| Corpseman I | 40.00% | ~25,208 |
+| Blast fishing | 37.00% | ~23,317 |
+| Not alone | 32.00% | ~20,166 |
+| Headhunter I | 26.00% | ~16,385 |
+| Manual Labour I | 25.00% | ~15,755 |
+| Developers, Developers, Developers | 24.00% | ~15,125 |
+| Basic Training | 24.00% | ~15,125 |
 | Furchtlos und Treu | 13.00% | ~8,192 |
 | Gott Mit Uns | 12.00% | ~7,562 |
-| This We'll Defend! | 9.00% | ~5,671 |
-| Anker wirf! | 9.00% | ~5,671 |
-| Providentiea Memor | 9.00% | ~5,671 |
-| For King and Country | 9.00% | ~5,671 |
-| Battle hardened | 8.00% | ~5,041 |
+| This We'll Defend! | 9.00% | ~5,672 |
+| Anker wirf! | 9.00% | ~5,672 |
+| Providentiea Memor | 9.00% | ~5,672 |
+| For King and Country | 9.00% | ~5,672 |
+| Battle hardened | 8.00% | ~5,042 |
 | Semper Fidelis! | 7.00% | ~4,411 |
 | Honneur et Patrie | 7.00% | ~4,411 |
 | In Treue Fest | 5.00% | ~3,151 |
@@ -35,12 +35,12 @@ Number of Ratings: 1,999  (23.09.2022)
 | Let them, come to us | 4.00% | ~2,521 |
 | There is no I in team | 4.00% | ~2,521 |
 | Corpseman II | 4.00% | ~2,521 |
-| Offense is the best defence | 3.00% | ~1,890 |
-| Veteran | 3.00% | ~1,890 |
-| Manual Labour II | 3.00% | ~1,890 |
-| In My Defens God Me Defend | 3.00% | ~1,890 |
-| Silver x100 | 3.00% | ~1,890 |
-| Impavidum Ferient Bella! | 3.00% | ~1,890 |
+| Offense is the best defence | 3.00% | ~1,891 |
+| Veteran | 3.00% | ~1,891 |
+| Manual Labour II | 3.00% | ~1,891 |
+| In My Defens God Me Defend | 3.00% | ~1,891 |
+| Silver x100 | 3.00% | ~1,891 |
+| Impavidum Ferient Bella! | 3.00% | ~1,891 |
 | Bronze x100 | 2.00% | ~1,260 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,260 |
 | Gold x100 | 1.00% | ~630 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~63 |
 | Blood Brother | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,013 (Ranked 104)  
+Progressed: 63,019 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 4 (0.01%) (Ranked 324)
 | 2023-11-07 | 62,792 | 4 |
 | 2023-11-08 | 62,864 | 4 |
 | 2023-11-09 | 62,940 | 4 |
-| 2023-11-10 | 63,013 | 4 |
+| 2023-11-10 | 63,019 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 351)  
 Sum: 907 (Ranked 270)  

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14378,
+  "EOS_Progressed": 14407,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3323,
+  "EOS_NewPlayers": 3288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2084,6 +2084,11 @@
       "Time": "2023-11-10T19:04:30.4995484+00:00",
       "NumProgressed": 14378,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T20:03:58.7026579+00:00",
+      "NumProgressed": 14407,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T14:04:58.0760511+00:00",
@@ -2519,14 +2524,14 @@
     {
       "ID": "aom4nln",
       "IsBase": true,
-      "Progressed": 14378,
+      "Progressed": 14407,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T18:58:29.5183191+00:00",
   "FirstSeenAchievements": "2023-08-23T16:03:17.8901767+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:04:30.4995478+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:03:58.7026577+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:18.5058037+00:00",
-  "LastUpdate_Ratings": "2023-11-10T19:03:19.3827125+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:04:30.4995931+00:00"
+  "LastUpdate_Ratings": "2023-11-10T20:02:58.7065581+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:03:58.7027054+00:00"
 }

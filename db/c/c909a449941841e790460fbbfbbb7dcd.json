@@ -910,9 +910,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "14g34pl",
       "Name": "Forest is safe!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 60,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -957,8 +957,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:03:51.9359505+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:03:26.5864515+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:57:16.2075388+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:03:51.935965+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:57:26.0516274+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:03:26.586463+00:00"
 }

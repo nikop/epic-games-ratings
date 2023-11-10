@@ -4,7 +4,7 @@
   "ProductSlug": "zelter-b3640a",
   "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:17.6697346+00:00",
   "LastChanged": "2023-03-31T05:57:17.6697347+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:24.1867719+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:58:24.0129576+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:05:19.4718808+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:58:20.8469656+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:04:39.1386093+00:00"
 }

@@ -1237,18 +1237,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 455,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2023-11-10T20:00:06.448177+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 456,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 455,
-  "NumberOfAwardsMax": 227,
+  "NumberOfAwards": 456,
+  "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game is Relaxing",
@@ -1299,9 +1305,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 236287,
+  "EOS_Progressed": 236303,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1471,
+  "EOS_NewPlayers": 1472,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18049,6 +18055,11 @@
       "Time": "2023-11-10T19:08:16.3516277+00:00",
       "NumProgressed": 236287,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-10T20:06:23.5537453+00:00",
+      "NumProgressed": 236303,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18100,7 +18111,7 @@
       "Name": "Scholar of the Lands of Fangh",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Chapter1",
@@ -18108,7 +18119,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14177
+      "UsersEstimate": 14178
     },
     {
       "ID": "Chapter2",
@@ -18116,7 +18127,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9451
+      "UsersEstimate": 9452
     },
     {
       "ID": "Chapter3",
@@ -18460,7 +18471,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16540
+      "UsersEstimate": 16541
     },
     {
       "ID": "DwarfElf15Support",
@@ -18492,7 +18503,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11814
+      "UsersEstimate": 11815
     },
     {
       "ID": "ElfEpic",
@@ -18508,7 +18519,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82700
+      "UsersEstimate": 82706
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18524,7 +18535,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9451
+      "UsersEstimate": 9452
     },
     {
       "ID": "EndCombatOneHp",
@@ -18532,7 +18543,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9451
+      "UsersEstimate": 9452
     },
     {
       "ID": "EndGameCursed",
@@ -18556,7 +18567,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18903
+      "UsersEstimate": 18904
     },
     {
       "ID": "FollowBraztok",
@@ -18628,7 +18639,7 @@
       "Name": "Law and Order",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "Poster",
@@ -18708,7 +18719,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9451
+      "UsersEstimate": 9452
     },
     {
       "ID": "SupportCount4",
@@ -18763,21 +18774,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 236287,
+      "Progressed": 236303,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 236287,
+      "Progressed": 236303,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-11-09T07:00:38.1958085+00:00",
-  "LastChanged_Achievements": "2023-11-10T19:08:16.3516273+00:00",
+  "LastChanged": "2023-11-10T20:00:06.4481766+00:00",
+  "LastChanged_Achievements": "2023-11-10T20:06:23.5537451+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-10T19:00:34.4817831+00:00",
-  "LastUpdate_Achievements": "2023-11-10T19:08:16.3517819+00:00"
+  "LastUpdate_Ratings": "2023-11-10T20:00:06.4481776+00:00",
+  "LastUpdate_Achievements": "2023-11-10T20:06:23.5538775+00:00"
 }

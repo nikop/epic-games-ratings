@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,700 |
-| Alt+F4 | 8.00% | ~18,903 |
-| Where's that freaking Dwarf? | 7.00% | ~16,540 |
-| Déjà vu | 6.00% | ~14,177 |
-| Sock! SOCK! | 5.00% | ~11,814 |
-| A beer, two curses, three companions | 4.00% | ~9,451 |
-| GG EZ | 4.00% | ~9,451 |
-| DM intervention | 4.00% | ~9,451 |
-| Speedrun | 4.00% | ~9,451 |
+| Sowwy! | 35.00% | ~82,706 |
+| Alt+F4 | 8.00% | ~18,904 |
+| Where's that freaking Dwarf? | 7.00% | ~16,541 |
+| Déjà vu | 6.00% | ~14,178 |
+| Sock! SOCK! | 5.00% | ~11,815 |
+| A beer, two curses, three companions | 4.00% | ~9,452 |
+| GG EZ | 4.00% | ~9,452 |
+| DM intervention | 4.00% | ~9,452 |
+| Speedrun | 4.00% | ~9,452 |
 | Livin' in a dwarven paradise | 3.00% | ~7,089 |
 | Way of the Wimp | 3.00% | ~7,089 |
 | The plot thickens... At the tavern | 3.00% | ~7,089 |
@@ -49,8 +49,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 0.70% | ~1,654 |
 | Holistic Adventuring Party | 0.60% | ~1,418 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,418 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,181 |
-| Law and Order | 0.50% | ~1,181 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,182 |
+| Law and Order | 0.50% | ~1,182 |
 | It's been a hard day's night | 0.40% | ~945 |
 | Friendly fire | 0.30% | ~709 |
 | I'd rather... Just... Sing! | 0.30% | ~709 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,287 (Ranked 61)  
+Progressed: 236,303 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,14 +258,14 @@ Completed: 7 (0.00%) (Ranked 347)
 | 2023-11-07 | 235,846 | 7 |
 | 2023-11-08 | 235,997 | 7 |
 | 2023-11-09 | 236,158 | 7 |
-| 2023-11-10 | 236,287 | 7 |
+| 2023-11-10 | 236,303 | 7 |
 ## Awards
-Max (Character Customization): 227  (Ranked 272)  
-Sum: 455 (Ranked 329)  
+Max (Character Customization): 228  (Ranked 272)  
+Sum: 456 (Ranked 329)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 227 |
+| This game has Inclusive Character Customization | 228 |
 | This game is Relaxing | 36 |
 | This game is Great for Beginners | 32 |
 | This game is Highly Recommended | 29 |
@@ -450,3 +450,4 @@ Diff (max vs sum): -57
 | 2023-11-07 | 4.58 | - | 226 | 452 |
 | 2023-11-08 | 4.58 | - | 227 | 454 |
 | 2023-11-09 | 4.58 | - | 227 | 455 |
+| 2023-11-10 | 4.58 | - | 228 | 456 |
