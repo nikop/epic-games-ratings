@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 313,
+  "Ranking_Rating": 312,
   "Ranking_Popularity": 273,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 145,
@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15235,
+  "EOS_Progressed": 15237,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15725,6 +15725,11 @@
       "Time": "2023-11-10T13:08:11.8495195+00:00",
       "NumProgressed": 15235,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-10T16:03:37.8197712+00:00",
+      "NumProgressed": 15237,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -18471,21 +18476,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15235,
+      "Progressed": 15237,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15235,
+      "Progressed": 15237,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:03:48.0985004+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:03:37.8197709+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:58:52.6584086+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:03:48.0995795+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:58:32.7295554+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:03:37.8207197+00:00"
 }

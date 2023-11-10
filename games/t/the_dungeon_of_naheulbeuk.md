@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,688 |
-| Alt+F4 | 8.00% | ~18,900 |
+| Sowwy! | 35.00% | ~82,691 |
+| Alt+F4 | 8.00% | ~18,901 |
 | Where's that freaking Dwarf? | 7.00% | ~16,538 |
-| Déjà vu | 6.00% | ~14,175 |
-| Sock! SOCK! | 5.00% | ~11,812 |
+| Déjà vu | 6.00% | ~14,176 |
+| Sock! SOCK! | 5.00% | ~11,813 |
 | A beer, two curses, three companions | 4.00% | ~9,450 |
 | GG EZ | 4.00% | ~9,450 |
 | DM intervention | 4.00% | ~9,450 |
@@ -35,14 +35,14 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,725 |
 | Team Building Exercise | 2.00% | ~4,725 |
 | Oh, when I'll be level 10... | 2.00% | ~4,725 |
-| Res Judicata | 1.00% | ~2,362 |
-| Dwarf Fortress | 1.00% | ~2,362 |
-| %#*!$*! | 1.00% | ~2,362 |
-| Look but don't touch | 1.00% | ~2,362 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,362 |
-| Dead for good | 1.00% | ~2,362 |
-| Lust and Debauchery | 1.00% | ~2,362 |
-| Material Girl | 1.00% | ~2,362 |
+| Res Judicata | 1.00% | ~2,363 |
+| Dwarf Fortress | 1.00% | ~2,363 |
+| %#*!$*! | 1.00% | ~2,363 |
+| Look but don't touch | 1.00% | ~2,363 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,363 |
+| Dead for good | 1.00% | ~2,363 |
+| Lust and Debauchery | 1.00% | ~2,363 |
+| Material Girl | 1.00% | ~2,363 |
 | Gargantua | 0.90% | ~2,126 |
 | In Navalu's footsteps | 0.80% | ~1,890 |
 | We come in peace | 0.70% | ~1,654 |
@@ -56,13 +56,13 @@ Number of Ratings: 118  (23.09.2022)
 | I'd rather... Just... Sing! | 0.30% | ~709 |
 | The number of the counting shalt be 7 | 0.30% | ~709 |
 | Inception | 0.30% | ~709 |
-| Free customer service | 0.20% | ~472 |
-| Imposture and Trowels | 0.20% | ~472 |
-| Kudos from your DM | 0.20% | ~472 |
-| Insult to injury | 0.20% | ~472 |
-| 100% satisfaction guarantee | 0.20% | ~472 |
-| Death is for wimps | 0.20% | ~472 |
-| Demisemiquaver | 0.20% | ~472 |
+| Free customer service | 0.20% | ~473 |
+| Imposture and Trowels | 0.20% | ~473 |
+| Kudos from your DM | 0.20% | ~473 |
+| Insult to injury | 0.20% | ~473 |
+| 100% satisfaction guarantee | 0.20% | ~473 |
+| Death is for wimps | 0.20% | ~473 |
+| Demisemiquaver | 0.20% | ~473 |
 | Cursed die | 0.10% | ~236 |
 | Necrophilia | 0.10% | ~236 |
 | The Blood Countess | 0.10% | ~236 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,250 (Ranked 61)  
+Progressed: 236,259 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 7 (0.00%) (Ranked 347)
 | 2023-11-07 | 235,846 | 7 |
 | 2023-11-08 | 235,997 | 7 |
 | 2023-11-09 | 236,158 | 7 |
-| 2023-11-10 | 236,250 | 7 |
+| 2023-11-10 | 236,259 | 7 |
 ## Awards
 Max (Character Customization): 227  (Ranked 272)  
 Sum: 455 (Ranked 329)  

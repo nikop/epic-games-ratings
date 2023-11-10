@@ -28,6 +28,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Quick Escape | 0.20% | ~479 |
 | Uncharted Territory | 0.20% | ~479 |
 | Explorer | 0.20% | ~479 |
+| Sneaky | 0.20% | ~479 |
 | An Offering | 0.20% | ~479 |
 | Who Needs Luck? | 0.20% | ~2 |
 | What Doesn't Kill You | 0.20% | ~2 |
@@ -108,7 +109,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 0.10% | ~239 |
 | Snake Sneak | 0.10% | ~239 |
 | Sprinter | 0.10% | ~239 |
-| Sneaky | 0.10% | ~239 |
 | Shadow Walker | 0.10% | ~239 |
 | Flesh Wound | 0.10% | ~239 |
 | Fire Away! | 0.10% | ~239 |

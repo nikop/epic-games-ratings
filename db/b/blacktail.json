@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750,
+  "EOS_Progressed": 751,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2176,6 +2176,11 @@
       "Time": "2023-11-09T00:12:44.6335171+00:00",
       "NumProgressed": 750,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T16:08:44.5454087+00:00",
+      "NumProgressed": 751,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -2219,7 +2224,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Devoted",
@@ -2267,7 +2272,7 @@
       "Name": "Goal!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "GoldRush",
@@ -2323,7 +2328,7 @@
       "Name": "Both sides",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "MuhsroomTruth",
@@ -2371,7 +2376,7 @@
       "Name": "Specialist",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "SpringCleaning",
@@ -2395,7 +2400,7 @@
       "Name": "Always worth a try",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ToothFairy",
@@ -2411,7 +2416,7 @@
       "Name": "Toxic",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Webbed",
@@ -2419,7 +2424,7 @@
       "Name": "Entangled",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "YagaHood",
@@ -2435,14 +2440,14 @@
       "Name": "Witch\u0027s cookbook",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 750,
+      "Progressed": 751,
       "Completed": 1
     }
   ],
@@ -2450,8 +2455,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:09:07.0181658+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:08:44.5454085+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:31.5200978+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:59:26.7649987+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:09:07.0182019+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:59:03.4650116+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:08:44.5454445+00:00"
 }

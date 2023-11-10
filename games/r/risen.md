@@ -27,10 +27,10 @@ Rating: 4.57 (Ranked 469)
 | Death of a legend | 24.00% | ~8 |
 | Archaeologist | 24.00% | ~8 |
 | Hard worker | 24.00% | ~8 |
+| Workaholic | 24.00% | ~8 |
 | Sidelined | 24.00% | ~8 |
 | Master detective | 24.00% | ~8 |
 | Ghost hunter | 21.00% | ~7 |
-| Workaholic | 21.00% | ~7 |
 | Fence | 21.00% | ~7 |
 | Defender | 18.00% | ~6 |
 | Pandora's box | 18.00% | ~6 |

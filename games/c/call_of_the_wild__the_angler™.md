@@ -8,10 +8,10 @@ Number of Ratings: 281  (23.09.2022)
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 1.00% | ~65 |
 | Hey Good Hookin | 1.00% | ~65 |
+| Can you smell what the Rod is Hooking | 0.90% | ~58 |
 | I'm on a Boat! | 0.90% | ~58 |
+| More Fish in the Sea | 0.90% | ~58 |
 | Scaling up | 0.90% | ~58 |
-| Can you smell what the Rod is Hooking | 0.80% | ~52 |
-| More Fish in the Sea | 0.80% | ~52 |
 | Ready to Rod and Roll | 0.70% | ~45 |
 | Fish Out of Water | 0.60% | ~39 |
 | Things that go Splash in the Night | 0.60% | ~39 |
@@ -24,6 +24,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm the Captain Now | 0.10% | ~6 |
 | Hook, Line and Sinker | 0.10% | ~6 |
 | The Beetles | 0.10% | ~6 |
+| Lake Me up Before You Go Go | 0.10% | ~6 |
 | Marathon | 0.10% | ~6 |
 | Diamond in the Rough | 0.10% | ~6 |
 | No Fin left to give | 0.10% | ~6 |
@@ -36,7 +37,6 @@ Number of Ratings: 281  (23.09.2022)
 | All Good Kings Must Come to an End | 0.10% | ~6 |
 | Three Square Meals | 0.10% | ~6 |
 | Head for Heights | 0.00% | ~0 |
-| Lake Me up Before You Go Go | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Taylor Made | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |

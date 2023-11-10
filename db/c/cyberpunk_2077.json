@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14942,9 +14942,9 @@
       "Count": 12694
     }
   ],
-  "EOS_Progressed": 896018,
+  "EOS_Progressed": 896030,
   "EOS_Completed": 2760,
-  "EOS_NewPlayers": 975,
+  "EOS_NewPlayers": 978,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38057,6 +38057,11 @@
       "Time": "2023-11-10T15:04:17.3877073+00:00",
       "NumProgressed": 896018,
       "NumCompleted": 2760
+    },
+    {
+      "Time": "2023-11-10T16:04:04.5253794+00:00",
+      "NumProgressed": 896030,
+      "NumCompleted": 2760
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38163,9 +38168,9 @@
       "ID": "IAmMaxTac",
       "SetID": "47clieb",
       "Name": "I Am The Law",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 1792
+      "UsersEstimate": 2688
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -38397,7 +38402,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17920
+      "UsersEstimate": 17921
     },
     {
       "ID": "YipMan",
@@ -38604,21 +38609,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896018,
+      "Progressed": 896030,
       "Completed": 2760
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24641,
+      "Progressed": 24653,
       "Completed": 10205
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-10T13:57:53.3088309+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:04:17.3877068+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:04:04.525379+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:58:06.9805285+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:04:17.3878728+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:57:52.6314916+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:04:04.5256023+00:00"
 }

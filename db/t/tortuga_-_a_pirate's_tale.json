@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16986,
+  "EOS_Progressed": 16987,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6324,6 +6324,11 @@
       "Time": "2023-11-10T15:06:45.0439817+00:00",
       "NumProgressed": 16986,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T16:06:18.8169893+00:00",
+      "NumProgressed": 16987,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6335,7 +6340,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16137
+      "UsersEstimate": 16138
     },
     {
       "ID": "ACH001",
@@ -6343,7 +6348,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14608
+      "UsersEstimate": 14609
     },
     {
       "ID": "ACH0010",
@@ -6351,7 +6356,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1868
+      "UsersEstimate": 1869
     },
     {
       "ID": "ACH0011",
@@ -6367,7 +6372,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8323
+      "UsersEstimate": 8324
     },
     {
       "ID": "ACH0013",
@@ -6431,7 +6436,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12230
+      "UsersEstimate": 12231
     },
     {
       "ID": "ACH0020",
@@ -6487,7 +6492,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9172
+      "UsersEstimate": 9173
     },
     {
       "ID": "ACH004",
@@ -6495,7 +6500,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14778
+      "UsersEstimate": 14779
     },
     {
       "ID": "ACH005",
@@ -6511,7 +6516,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6794
+      "UsersEstimate": 6795
     },
     {
       "ID": "ACH007",
@@ -6542,7 +6547,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 16986,
+      "Progressed": 16987,
       "Completed": 1
     }
   ],
@@ -6550,8 +6555,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:06:45.0439815+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:06:18.816989+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:07.1150824+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:59:55.2766946+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:06:45.0440273+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:59:28.8569663+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:06:18.8170319+00:00"
 }

@@ -7,7 +7,7 @@
 | Eat My Dust | 44.00% | ~919 |
 | First Love | 43.00% | ~898 |
 | Clean Race | 41.00% | ~856 |
-| Hear That Roar! | 39.00% | ~814 |
+| Hear That Roar! | 39.00% | ~815 |
 | Rivals to the End | 28.00% | ~585 |
 | Bitter Rivalry | 26.00% | ~543 |
 | We're Going to Need a Bigger Garage | 24.00% | ~501 |
@@ -39,8 +39,8 @@
 | Next Level | 1.00% | ~21 |
 | I Don't Stop | 1.00% | ~21 |
 | Exhausted but Happy | 0.70% | ~15 |
+| Globe-trotter | 0.60% | ~13 |
 | In Search of Perfection | 0.60% | ~13 |
-| Globe-trotter | 0.50% | ~10 |
 | Maximum Endurance | 0.30% | ~6 |
 | All My Own Toys | 0.20% | ~4 |
 | Full Power | 0.20% | ~4 |
@@ -54,7 +54,7 @@
 | Know Your Enemy | 0.00% | ~0 |
 | Who's Next?! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,088 (Ranked 218)  
+Progressed: 2,089 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,4 +124,4 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 2,043 | 0 |
 | 2023-11-08 | 2,060 | 0 |
 | 2023-11-09 | 2,075 | 0 |
-| 2023-11-10 | 2,088 | 0 |
+| 2023-11-10 | 2,089 | 0 |

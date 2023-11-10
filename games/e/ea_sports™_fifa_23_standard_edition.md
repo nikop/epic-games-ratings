@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 867)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 76.00% | ~138,548 |
-| Dead-ball specialist | 63.00% | ~114,849 |
-| Multitasking | 52.00% | ~94,796 |
-| European Legend | 52.00% | ~94,796 |
-| Balanced Path | 49.00% | ~89,327 |
-| High Grades | 49.00% | ~89,327 |
-| Let the Games Begin | 48.00% | ~87,504 |
-| A Moment of Your Time | 47.00% | ~85,681 |
-| Aiming High | 46.00% | ~83,858 |
-| Tactical Tinkerer | 41.00% | ~74,743 |
-| Intuition and Execution | 40.00% | ~72,920 |
-| Squad Building Connoisseur | 39.00% | ~71,097 |
-| The Winning Formula | 37.00% | ~67,451 |
-| Parking the Bus | 29.00% | ~52,867 |
-| Safe House | 27.00% | ~49,221 |
-| Best of Five | 25.00% | ~45,575 |
-| Football is Everything | 24.00% | ~43,752 |
-| The Chosen One | 22.00% | ~40,106 |
-| Fresh Fit | 21.00% | ~38,283 |
-| Bring it on | 17.00% | ~30,991 |
-| Life-Like | 14.00% | ~25,522 |
-| Make the Grade | 13.00% | ~23,699 |
-| Specialist | 11.00% | ~20,053 |
-| I Played Them All | 10.00% | ~18,230 |
-| Teamwork works | 9.00% | ~16,407 |
-| First of Many | 9.00% | ~16,407 |
-| Momentous Achievement | 6.00% | ~10,938 |
-| Shop till you drop | 6.00% | ~10,938 |
-| In Cahoots | 5.00% | ~9,115 |
-| Tune Your Club | 5.00% | ~9,115 |
-| Becoming Unplayable | 5.00% | ~9,115 |
-| On the way up | 5.00% | ~9,115 |
-| Volta's best | 4.00% | ~7,292 |
-| Full-House | 4.00% | ~7,292 |
-| Sharing is Caring | 4.00% | ~7,292 |
+| Power Shot | 76.00% | ~138,575 |
+| Dead-ball specialist | 63.00% | ~114,871 |
+| Multitasking | 52.00% | ~94,814 |
+| European Legend | 52.00% | ~94,814 |
+| Balanced Path | 49.00% | ~89,344 |
+| High Grades | 49.00% | ~89,344 |
+| Let the Games Begin | 48.00% | ~87,521 |
+| A Moment of Your Time | 47.00% | ~85,697 |
+| Aiming High | 46.00% | ~83,874 |
+| Tactical Tinkerer | 41.00% | ~74,757 |
+| Intuition and Execution | 40.00% | ~72,934 |
+| Squad Building Connoisseur | 39.00% | ~71,111 |
+| The Winning Formula | 37.00% | ~67,464 |
+| Parking the Bus | 29.00% | ~52,877 |
+| Safe House | 27.00% | ~49,230 |
+| Best of Five | 25.00% | ~45,584 |
+| Football is Everything | 24.00% | ~43,760 |
+| The Chosen One | 22.00% | ~40,114 |
+| Fresh Fit | 21.00% | ~38,290 |
+| Bring it on | 17.00% | ~30,997 |
+| Life-Like | 14.00% | ~25,527 |
+| Make the Grade | 13.00% | ~23,704 |
+| Specialist | 11.00% | ~20,057 |
+| I Played Them All | 10.00% | ~18,234 |
+| Teamwork works | 9.00% | ~16,410 |
+| First of Many | 9.00% | ~16,410 |
+| Momentous Achievement | 6.00% | ~10,940 |
+| Shop till you drop | 6.00% | ~10,940 |
+| In Cahoots | 5.00% | ~9,117 |
+| Tune Your Club | 5.00% | ~9,117 |
+| Becoming Unplayable | 5.00% | ~9,117 |
+| On the way up | 5.00% | ~9,117 |
+| Volta's best | 4.00% | ~7,293 |
+| Full-House | 4.00% | ~7,293 |
+| Sharing is Caring | 4.00% | ~7,293 |
 | Full wardrobe | 0.60% | ~1,094 |
 | Girl Power | 0.40% | ~729 |
 | Training Addict | 0.10% | ~182 |
 | Dazzling Personality | 0.10% | ~182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,300 (Ranked 74)  
+Progressed: 182,335 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,10 +102,10 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 181,035 | 0 |
 | 2023-11-08 | 181,521 | 0 |
 | 2023-11-09 | 181,996 | 0 |
-| 2023-11-10 | 182,300 | 0 |
+| 2023-11-10 | 182,335 | 0 |
 ## Awards
 Max (Diverse Characters): 20,890  (Ranked 19)  
-Sum: 104,966 (Ranked 14)  
+Sum: 104,983 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
@@ -113,9 +113,9 @@ Diff (max vs sum): 5
 | This game is Highly Recommended | 14,406 |
 | This game has a Competitive Community | 13,645 |
 | This game has Amazing Characters | 11,836 |
-| This game is Extremely Fun | 11,389 |
+| This game is Extremely Fun | 11,399 |
 | This game has Competitive Players | 11,348 |
-| This game has Amazing Storytelling | 11,169 |
+| This game has Amazing Storytelling | 11,176 |
 | This game has Quickly Understood Controls | 10,283 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -430,4 +430,4 @@ Diff (max vs sum): 5
 | 2023-11-07 | 4.26 | 20,853 | 104,832 |
 | 2023-11-08 | 4.26 | 20,867 | 104,877 |
 | 2023-11-09 | 4.26 | 20,867 | 104,916 |
-| 2023-11-10 | 4.26 | 20,890 | 104,966 |
+| 2023-11-10 | 4.26 | 20,890 | 104,983 |

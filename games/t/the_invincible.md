@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 75.00% | ~95 |
+| The Camp | 76.00% | ~97 |
 | The Teleprobe | 52.00% | ~66 |
 | The City | 41.00% | ~52 |
 | Krauta is alive | 27.00% | ~34 |
@@ -19,22 +19,22 @@
 | Evacuation | 9.00% | ~11 |
 | I leave no man behind | 9.00% | ~11 |
 | Flying Objects Operator | 9.00% | ~11 |
-| Beyond divisions | 7.00% | ~9 |
-| Fierce fight | 6.00% | ~8 |
+| Beyond divisions | 8.00% | ~10 |
+| Fierce fight | 7.00% | ~9 |
 | Peacemaker | 6.00% | ~8 |
 | I remember everything! | 5.00% | ~6 |
 | Violent solution | 5.00% | ~6 |
 | Ubiquitous holes | 4.00% | ~5 |
 | Got lost again | 4.00% | ~5 |
 | The Invincible | 3.00% | ~4 |
-| Another giant | 2.00% | ~3 |
+| Another giant | 3.00% | ~4 |
 | Strong objection | 2.00% | ~3 |
 | Innate curiosity | 0.80% | ~1 |
 | No more mistakes | 0.80% | ~1 |
 | Convoy list | 0.00% | ~0 |
 | I leave no man behind (no exceptions) | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127 (Ranked 398)  
+Progressed: 127 (Ranked 399)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |

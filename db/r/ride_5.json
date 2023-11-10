@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2088,
+  "EOS_Progressed": 2089,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -4672,6 +4672,11 @@
       "Time": "2023-11-10T15:09:31.4567491+00:00",
       "NumProgressed": 2088,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T16:09:07.1874459+00:00",
+      "NumProgressed": 2089,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4692,7 +4697,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4914,9 +4919,9 @@
       "ID": "ML_ACHIEVEMENT_30",
       "SetID": "c7hf6a4",
       "Name": "Globe-trotter",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 13
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -5075,14 +5080,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2088,
+      "Progressed": 2089,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:09:31.4567487+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:09:07.1874456+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:58:20.0565252+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:09:31.4568182+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:58:03.9356173+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:09:07.1875083+00:00"
 }

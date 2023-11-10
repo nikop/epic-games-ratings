@@ -54,11 +54,11 @@ Rating: 4.54 (Ranked 522)
 | Sharpest Tool in the Box | 0.10% | ~716 |
 | Survival Skills | 0.10% | ~716 |
 | Bucket List | 0.10% | ~716 |
-| Lawn and Order | 0.10% | ~41 |
-| Wilhelm | 0.10% | ~41 |
+| Lawn and Order | 0.10% | ~42 |
+| Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,934 (Ranked 21)  
-Completed: 2,371 (0.33%) (Ranked 220)  
+Progressed: 715,961 (Ranked 21)  
+Completed: 2,372 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,7 +261,7 @@ Completed: 2,371 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,934 | 2,371 |
+| 2023-11-10 | 715,961 | 2,372 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 53)  
 Sum: 11,001 (Ranked 86)  

@@ -7,7 +7,7 @@ Rating: 4.68 (Ranked 253)
 | ---- | ---------- | ----- |
 | Tooth fairy | 25.00% | ~188 |
 | Dental maturity | 20.00% | ~150 |
-| Devil's in the details | 15.00% | ~112 |
+| Devil's in the details | 15.00% | ~113 |
 | Uprooting | 14.00% | ~105 |
 | Forbidden techniques | 13.00% | ~98 |
 | Devoted | 10.00% | ~75 |
@@ -24,13 +24,13 @@ Rating: 4.68 (Ranked 253)
 | Queen | 5.00% | ~38 |
 | Baba Yaga | 5.00% | ~38 |
 | Favorite | 4.00% | ~30 |
-| Goal! | 3.00% | ~22 |
-| Both sides | 3.00% | ~22 |
-| Specialist | 3.00% | ~22 |
-| Always worth a try | 3.00% | ~22 |
-| Toxic | 3.00% | ~22 |
-| Entangled | 3.00% | ~22 |
-| Witch's cookbook | 3.00% | ~22 |
+| Goal! | 3.00% | ~23 |
+| Both sides | 3.00% | ~23 |
+| Specialist | 3.00% | ~23 |
+| Always worth a try | 3.00% | ~23 |
+| Toxic | 3.00% | ~23 |
+| Entangled | 3.00% | ~23 |
+| Witch's cookbook | 3.00% | ~23 |
 | Bad apple | 2.00% | ~15 |
 | Gnowlledgeable | 2.00% | ~15 |
 | Loremaster | 1.00% | ~8 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 253)
 | Mushrooming enthusiast | 0.70% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 750 (Ranked 269)  
+Progressed: 751 (Ranked 269)  
 Completed: 1 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -204,6 +204,7 @@ Completed: 1 (0.13%) (Ranked 258)
 | 2023-11-07 | 748 | 1 |
 | 2023-11-08 | 749 | 1 |
 | 2023-11-09 | 750 | 1 |
+| 2023-11-10 | 751 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

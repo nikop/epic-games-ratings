@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 914,
+  "EOS_Progressed": 915,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3459,6 +3459,11 @@
       "Time": "2023-11-10T05:09:12.5582624+00:00",
       "NumProgressed": 914,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T16:08:46.4724415+00:00",
+      "NumProgressed": 915,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3518,7 +3523,7 @@
       "Name": "That Was Close!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "Creator",
@@ -3534,7 +3539,7 @@
       "Name": "Debtor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -3670,7 +3675,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "NoTimeForModernization",
@@ -3798,21 +3803,21 @@
       "Name": "Transport Hub",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 914,
+      "Progressed": 915,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:09:09.0520574+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:08:46.4724411+00:00",
   "LastUpdate_AppInfo": "2023-11-07T15:57:21.4761392+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:00:05.5159771+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:09:09.0521022+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:59:38.6986758+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:08:46.4724806+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 194,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -429,9 +429,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5320,
+  "EOS_Progressed": 5322,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6844,6 +6844,11 @@
       "Time": "2023-11-10T15:08:18.8365978+00:00",
       "NumProgressed": 5320,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-10T16:07:59.8703446+00:00",
+      "NumProgressed": 5322,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6989,9 +6994,9 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "26",
@@ -7253,9 +7258,9 @@
       "ID": "51",
       "SetID": "7132754",
       "Name": "Freed Lands of Manuhari",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "52",
@@ -7334,13 +7339,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5320,
+      "Progressed": 5322,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5320,
+      "Progressed": 5322,
       "Completed": 7
     }
   ],
@@ -7348,8 +7353,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-09T11:59:25.9904404+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:08:18.8365975+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:07:59.8703443+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:00:20.9862438+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:08:18.8366586+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:59:52.5852074+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:07:59.8704241+00:00"
 }

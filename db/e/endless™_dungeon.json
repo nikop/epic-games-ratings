@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1061,
+  "EOS_Progressed": 1062,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1540,6 +1540,11 @@
       "Time": "2023-11-10T12:08:05.8146206+00:00",
       "NumProgressed": 1061,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T16:08:08.2257862+00:00",
+      "NumProgressed": 1062,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1584,7 +1589,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -1791,14 +1796,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1061,
+      "Progressed": 1062,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:08:28.0980036+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:08:08.2257859+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:11.1557336+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:57:51.798652+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:08:28.098034+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:57:37.1091444+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:08:08.2258101+00:00"
 }

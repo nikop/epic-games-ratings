@@ -4,7 +4,7 @@
   "ProductSlug": "brok-the-investigator-fb0513",
   "Ranking_EOS_Progress": 526,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-07T14:00:00+00:00",
@@ -207,9 +207,9 @@
       "ID": "CHAPTER6",
       "SetID": "bb2dp",
       "Name": "Chapter 6",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHIPMUNK",
@@ -376,8 +376,8 @@
   "FirstSeenRating": "2023-04-09T06:58:32.3271567+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.8723244+00:00",
   "LastChanged": "2023-04-09T06:58:32.3271567+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:04:34.5914281+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:04:19.8167345+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:02.4442355+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:59:26.6177613+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:04:34.5914422+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:59:03.407295+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:04:19.8167521+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4545,9 +4545,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 90153,
+  "EOS_Progressed": 90167,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 648,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24710,6 +24710,11 @@
       "Time": "2023-11-10T15:04:24.3738002+00:00",
       "NumProgressed": 90153,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-10T16:04:10.6880523+00:00",
+      "NumProgressed": 90167,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24793,7 +24798,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_0040",
@@ -24815,9 +24820,9 @@
       "ID": "ACH_0060",
       "SetID": "3kam13l",
       "Name": "Freebooter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 451
     },
     {
       "ID": "ACH_0061",
@@ -24897,7 +24902,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_0310",
@@ -24913,7 +24918,7 @@
       "Name": "Ding Dong",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_0340",
@@ -24937,7 +24942,7 @@
       "Name": "Case Closed",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ACH_0420",
@@ -25009,7 +25014,7 @@
       "Name": "Rockay Rex",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "ACH_1010",
@@ -25041,20 +25046,20 @@
       "Name": "Now You See Me",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90153,
+      "Progressed": 90167,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18500,
+      "Progressed": 18514,
       "Completed": 15565
     }
   ],
@@ -25062,8 +25067,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-10T15:00:35.9861711+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:04:24.3738001+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:04:10.688052+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:00:35.9861717+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:04:24.3739376+00:00"
+  "LastUpdate_Ratings": "2023-11-10T16:00:05.9450432+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:04:10.688183+00:00"
 }

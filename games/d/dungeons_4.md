@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 75.00% | ~91 |
-| Thalya – Simply Immortal | 75.00% | ~91 |
-| Thalya's Concentrated Fury | 60.00% | ~73 |
-| For the Horde! | 55.00% | ~67 |
-| Hammer Time, Round Two | 54.00% | ~65 |
-| The Hellwoods | 46.00% | ~56 |
+| The Last Stand | 77.00% | ~95 |
+| Thalya – Simply Immortal | 77.00% | ~95 |
+| Thalya's Concentrated Fury | 59.00% | ~73 |
+| For the Horde! | 59.00% | ~73 |
+| Hammer Time, Round Two | 58.00% | ~71 |
+| The Hellwoods | 46.00% | ~57 |
 | Master of Magic | 36.00% | ~44 |
-| Magic Accidents | 34.00% | ~41 |
-| Trap Master | 30.00% | ~36 |
-| Experienced Thalya | 27.00% | ~33 |
-| Unicorn steaks – fresh off the hoof! | 25.00% | ~30 |
-| The Plains of Strothalm | 24.00% | ~29 |
-| Minions, Minions! | 20.00% | ~24 |
+| Magic Accidents | 33.00% | ~41 |
+| Trap Master | 32.00% | ~39 |
+| Experienced Thalya | 28.00% | ~34 |
+| The Plains of Strothalm | 25.00% | ~31 |
+| Unicorn steaks – fresh off the hoof! | 25.00% | ~31 |
+| Minions, Minions! | 20.00% | ~25 |
 | Bad Elves Go Everywhere | 19.00% | ~23 |
-| Heroes’ Gorge | 8.00% | ~10 |
-| Mana Cannon | 7.00% | ~8 |
-| YOU SHALL NOT PASS! | 7.00% | ~8 |
+| Heroes’ Gorge | 9.00% | ~11 |
+| YOU SHALL NOT PASS! | 8.00% | ~10 |
+| Mana Cannon | 7.00% | ~9 |
 | Sacrificial Pit = Garbage Disposal? | 5.00% | ~6 |
-| The Ascent | 3.00% | ~4 |
-| Pure Dynamite! | 3.00% | ~4 |
-| It's Warm and Cozy at Home | 3.00% | ~4 |
+| The Ascent | 4.00% | ~5 |
+| Pure Dynamite! | 4.00% | ~5 |
+| It's Warm and Cozy at Home | 4.00% | ~5 |
 | The Big Eaty | 3.00% | ~4 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 3.00% | ~4 |
+| Hard Work | 2.00% | ~2 |
 | Hungry, Hungry Gorgu! | 2.00% | ~2 |
 | “… like son” | 2.00% | ~2 |
 | Dungeonlord Gorgu | 2.00% | ~2 |
 | Forbidden Knowledge | 2.00% | ~2 |
-| Hard Work | 0.80% | ~1 |
+| All’s Well That Ends Evil | 2.00% | ~2 |
+| Stop Tanos! | 2.00% | ~2 |
+| My Little Torture Chamber | 2.00% | ~2 |
 | The Cathedral of Light | 0.80% | ~1 |
 | Unstoppable Horde | 0.80% | ~1 |
 | Shame! Shame! Shame! | 0.80% | ~1 |
 | Tanos' Crusade Against Thalya | 0.80% | ~1 |
 | Ghost Pirates? Ghost Heroes! | 0.80% | ~1 |
 | Master of the Undead | 0.80% | ~1 |
-| All’s Well That Ends Evil | 0.80% | ~1 |
-| Stop Tanos! | 0.80% | ~1 |
-| My Little Torture Chamber | 0.80% | ~1 |
 | The Last Stand - This Time For Real! | 0.80% | ~1 |
 | The Duel | 0.00% | ~0 |
 | Gorgu is in the Best of Health | 0.00% | ~0 |
@@ -66,10 +66,10 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 121 (Ranked 403)  
+Progressed: 123 (Ranked 403)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-09 | 76 | 0 |
-| 2023-11-10 | 121 | 0 |
+| 2023-11-10 | 123 | 0 |

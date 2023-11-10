@@ -263,11 +263,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1631,
+  "EOS_Progressed": 1632,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.48,
+  "EOS_Completed_Percentage": 4.47,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -3333,6 +3333,11 @@
       "Time": "2023-11-10T14:03:07.6135699+00:00",
       "NumProgressed": 1631,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-10T16:03:20.6409964+00:00",
+      "NumProgressed": 1632,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3352,7 +3357,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 913
+      "UsersEstimate": 914
     },
     {
       "ID": "ACH_Cacciavite",
@@ -3376,7 +3381,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "ACH_FineEV9",
@@ -3400,7 +3405,7 @@
       "Name": "Pack Rat",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -3431,15 +3436,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1631,
+      "Progressed": 1632,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:03:29.3717181+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:03:20.6409958+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.3333831+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:00:22.1289189+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:03:29.3717566+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:59:53.5938777+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:03:20.6410218+00:00"
 }

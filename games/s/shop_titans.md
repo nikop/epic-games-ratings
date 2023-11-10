@@ -13,18 +13,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 3.00% | ~4,172 |
 | Tinkle of Coins | 3.00% | ~4,172 |
 | Capitalism Ho! | 3.00% | ~4,172 |
-| The Daily Grind | 2.00% | ~2,781 |
-| One Easy Payment | 2.00% | ~2,781 |
-| Some Assembly Required | 2.00% | ~2,781 |
-| Bounty Hunters | 2.00% | ~2,781 |
-| Flooding the Market | 2.00% | ~2,781 |
-| Another Satisfied Customer | 2.00% | ~2,781 |
-| Pretty Penny | 2.00% | ~2,781 |
-| One-Armed Bandit | 2.00% | ~2,781 |
-| Budding Merchant | 2.00% | ~2,781 |
-| Dungeon Imports | 2.00% | ~2,781 |
-| Through Repetition, Perfection | 2.00% | ~2,781 |
-| Own the Means of Production | 2.00% | ~2,781 |
+| The Daily Grind | 2.00% | ~2,782 |
+| One Easy Payment | 2.00% | ~2,782 |
+| Some Assembly Required | 2.00% | ~2,782 |
+| Bounty Hunters | 2.00% | ~2,782 |
+| Flooding the Market | 2.00% | ~2,782 |
+| Another Satisfied Customer | 2.00% | ~2,782 |
+| Pretty Penny | 2.00% | ~2,782 |
+| One-Armed Bandit | 2.00% | ~2,782 |
+| Budding Merchant | 2.00% | ~2,782 |
+| Dungeon Imports | 2.00% | ~2,782 |
+| Through Repetition, Perfection | 2.00% | ~2,782 |
+| Own the Means of Production | 2.00% | ~2,782 |
 | On the Path to Greatness | 1.00% | ~1,391 |
 | Ascended | 1.00% | ~1,391 |
 | Tax not Included | 1.00% | ~1,391 |
@@ -75,26 +75,26 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.80% | ~1,113 |
 | Exotic Commodities | 0.80% | ~1,113 |
 | King's Blade | 0.80% | ~1,113 |
-| Cream of the Crop | 0.70% | ~973 |
-| Top of the World | 0.70% | ~973 |
-| Proud Paladin | 0.70% | ~973 |
-| A Ronin Reborn | 0.70% | ~973 |
-| Thirst for Knowledge | 0.70% | ~973 |
-| Booty by the Boatload | 0.70% | ~973 |
-| Archivist | 0.70% | ~973 |
-| Omae wa Mou Shindeiru | 0.70% | ~973 |
-| Supercharged | 0.70% | ~973 |
-| Ritualist | 0.70% | ~973 |
-| By Your Powers Combined... | 0.70% | ~973 |
-| Item of Renown | 0.70% | ~973 |
-| Master Merchant | 0.70% | ~973 |
-| Bountiful Harvest | 0.70% | ~973 |
-| Precision Engineering | 0.70% | ~973 |
-| Glittering Collection | 0.70% | ~973 |
-| Treasure Trove | 0.70% | ~973 |
-| Moment of Respite | 0.70% | ~973 |
-| King's Shadow | 0.70% | ~973 |
-| Master Recycler | 0.70% | ~973 |
+| Cream of the Crop | 0.70% | ~974 |
+| Top of the World | 0.70% | ~974 |
+| Proud Paladin | 0.70% | ~974 |
+| A Ronin Reborn | 0.70% | ~974 |
+| Thirst for Knowledge | 0.70% | ~974 |
+| Booty by the Boatload | 0.70% | ~974 |
+| Archivist | 0.70% | ~974 |
+| Omae wa Mou Shindeiru | 0.70% | ~974 |
+| Supercharged | 0.70% | ~974 |
+| Ritualist | 0.70% | ~974 |
+| By Your Powers Combined... | 0.70% | ~974 |
+| Item of Renown | 0.70% | ~974 |
+| Master Merchant | 0.70% | ~974 |
+| Bountiful Harvest | 0.70% | ~974 |
+| Precision Engineering | 0.70% | ~974 |
+| Glittering Collection | 0.70% | ~974 |
+| Treasure Trove | 0.70% | ~974 |
+| Moment of Respite | 0.70% | ~974 |
+| King's Shadow | 0.70% | ~974 |
+| Master Recycler | 0.70% | ~974 |
 | Constellated | 0.60% | ~834 |
 | Fillin' the Bin | 0.60% | ~834 |
 | Industrial Evolution | 0.60% | ~834 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,064 (Ranked 79)  
+Progressed: 139,083 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 139,064 | 180 |
+| 2023-11-10 | 139,083 | 180 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 73)  
 Sum: 27,521 (Ranked 51)  

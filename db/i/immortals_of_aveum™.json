@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237,
+  "EOS_Progressed": 238,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -1116,6 +1116,11 @@
       "Time": "2023-11-10T15:06:37.7648518+00:00",
       "NumProgressed": 237,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T16:06:12.5598833+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1144,7 +1149,7 @@
       "Name": "The Means to Save It",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_12",
@@ -1182,9 +1187,9 @@
       "ID": "achievement_16",
       "SetID": "18al4io",
       "Name": "Recruit",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_17",
@@ -1206,9 +1211,9 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "achievement_2",
@@ -1216,7 +1221,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "achievement_20",
@@ -1272,7 +1277,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "achievement_36",
@@ -1312,7 +1317,7 @@
       "Name": "Armaments Azure",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_42",
@@ -1320,7 +1325,7 @@
       "Name": "Armaments Gules",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_43",
@@ -1360,7 +1365,7 @@
       "Name": "Enlisted",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_49",
@@ -1376,7 +1381,7 @@
       "Name": "Initiate",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "achievement_50",
@@ -1422,9 +1427,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_60",
@@ -1488,7 +1493,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_9",
@@ -1503,7 +1508,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 237,
+      "Progressed": 238,
       "Completed": 1
     }
   ],
@@ -1511,8 +1516,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:06:37.7648514+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:06:12.5598829+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:58:46.7319681+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:06:37.7648816+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:58:27.4984314+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:06:12.5599177+00:00"
 }

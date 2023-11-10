@@ -23,9 +23,9 @@
 | A very special drink | 33.00% | ~21 |
 | Shattered | 31.00% | ~20 |
 | Show me your true self | 30.00% | ~19 |
+| GG | 30.00% | ~19 |
 | No posters allowed | 30.00% | ~19 |
 | Little genius | 30.00% | ~19 |
-| GG | 28.00% | ~18 |
 | You've got mail! | 28.00% | ~18 |
 | Memories | 28.00% | ~18 |
 | Pain in the hands | 28.00% | ~18 |

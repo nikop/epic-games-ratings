@@ -2,12 +2,12 @@
   "ID": "b47d3947087147baa8e1665680aefc11",
   "Name": "Tower of Fantasy",
   "ProductSlug": "tower-of-fantasy",
-  "Ranking_Rating": 793,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 253,
-  "Ranking_PopularitySum": 308,
+  "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-11T14:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.35,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2023-05-19T13:03:09.3101375+00:00",
@@ -1927,10 +1927,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 608,
       "NumberOfAwardsMax": 291
+    },
+    {
+      "Time": "2023-11-10T15:57:09.1295637+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 610,
+      "NumberOfAwardsMax": 291
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 608,
+  "NumberOfAwards": 610,
   "NumberOfAwardsMax": 291,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1968,7 +1974,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 40
+      "Count": 42
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2013,8 +2019,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-11T14:59:22.8545223+00:00",
   "FirstSeenRating": "2023-05-19T13:03:09.3101373+00:00",
-  "LastChanged": "2023-11-10T11:56:57.2199192+00:00",
+  "LastChanged": "2023-11-10T15:57:09.1295636+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:49.7635269+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:57:22.1026532+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:09:15.8962283+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:57:09.1295642+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:08:52.7575272+00:00"
 }

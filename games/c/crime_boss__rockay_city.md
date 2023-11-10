@@ -16,21 +16,21 @@ Rating: 3.95 (Ranked 1,004)
 | Off the Rocks | 1.00% | ~902 |
 | Raider’s Ruin | 1.00% | ~902 |
 | Dragonslayer | 1.00% | ~902 |
-| Case Closed | 0.90% | ~811 |
-| Rockay Rex | 0.90% | ~811 |
+| Case Closed | 0.90% | ~812 |
+| Rockay Rex | 0.90% | ~812 |
 | Hidden Sonata | 0.70% | ~631 |
 | Track Star | 0.70% | ~631 |
 | True Player | 0.70% | ~631 |
 | Headhunter | 0.60% | ~541 |
 | I Like Trains | 0.50% | ~451 |
+| Freebooter | 0.50% | ~451 |
 | Legend Looter | 0.40% | ~361 |
 | Imports and Exports | 0.40% | ~361 |
 | Foo Finder | 0.40% | ~361 |
-| Freebooter | 0.40% | ~361 |
 | Moneybags | 0.40% | ~361 |
-| Savvy Seeker | 0.30% | ~270 |
-| Olympus Ascended | 0.30% | ~270 |
-| Ding Dong | 0.30% | ~270 |
+| Savvy Seeker | 0.30% | ~271 |
+| Olympus Ascended | 0.30% | ~271 |
+| Ding Dong | 0.30% | ~271 |
 | All that Glitters | 0.30% | ~56 |
 | Rockay Raider | 0.20% | ~180 |
 | Rockay Knight | 0.20% | ~180 |
@@ -45,9 +45,9 @@ Rating: 3.95 (Ranked 1,004)
 | Full House | 0.10% | ~90 |
 | Geek Out | 0.10% | ~90 |
 | Impossible Dreamer | 0.10% | ~90 |
-| Now You See Me | 0.10% | ~18 |
+| Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,153 (Ranked 91)  
+Progressed: 90,167 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-07 | 89,646 | 55 |
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
-| 2023-11-10 | 90,153 | 55 |
+| 2023-11-10 | 90,167 | 55 |
 ## Awards
 Max (Diverse Characters): 526  (Ranked 203)  
 Sum: 2,984 (Ranked 175)  

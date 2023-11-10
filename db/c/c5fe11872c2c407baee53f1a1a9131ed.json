@@ -4,7 +4,7 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 155,
+  "EOS_Progressed": 156,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -724,6 +724,11 @@
       "Time": "2023-11-10T15:06:34.9649711+00:00",
       "NumProgressed": 155,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T16:06:09.8447544+00:00",
+      "NumProgressed": 156,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -791,7 +796,7 @@
       "Name": "Customize Ship",
       "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_endless_120",
@@ -807,7 +812,7 @@
       "Name": "Endless 30 Seconds",
       "Percentage": 67,
       "XP": 35,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_endless_60",
@@ -815,7 +820,7 @@
       "Name": "Endless 60 Seconds",
       "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_endless_c_60",
@@ -942,14 +947,14 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 155,
+      "Progressed": 156,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-11-10T15:06:34.9649708+00:00",
+  "LastChanged_Achievements": "2023-11-10T16:06:09.8447538+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.2742753+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:58:21.2498998+00:00",
-  "LastUpdate_Achievements": "2023-11-10T15:06:34.9649921+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:58:05.2909379+00:00",
+  "LastUpdate_Achievements": "2023-11-10T16:06:09.8447735+00:00"
 }

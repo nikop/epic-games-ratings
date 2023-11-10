@@ -5,12 +5,12 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 92.00% | ~5,090 |
-| On the Top Step | 85.00% | ~4,703 |
-| Setting up for Success | 74.00% | ~4,094 |
-| Team Orders | 73.00% | ~4,039 |
-| Engineer | 53.00% | ~2,932 |
-| Familiar Faces | 46.00% | ~2,545 |
+| Getting on the Step | 92.00% | ~5,091 |
+| On the Top Step | 85.00% | ~4,704 |
+| Setting up for Success | 74.00% | ~4,095 |
+| Team Orders | 73.00% | ~4,040 |
+| Engineer | 53.00% | ~2,933 |
+| Familiar Faces | 46.00% | ~2,546 |
 | Going the Extra Mile | 41.00% | ~2,269 |
 | Sharing the Love | 39.00% | ~2,158 |
 | Hitting a Season | 33.00% | ~1,826 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 231)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,533 (Ranked 182)  
+Progressed: 5,534 (Ranked 182)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -113,7 +113,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 5,352 | 0 |
 | 2023-11-08 | 5,432 | 0 |
 | 2023-11-09 | 5,500 | 0 |
-| 2023-11-10 | 5,533 | 0 |
+| 2023-11-10 | 5,534 | 0 |
 ## Awards
 Max (Great for Beginners): 26  (Ranked 512)  
 Sum: 50 (Ranked 480)  

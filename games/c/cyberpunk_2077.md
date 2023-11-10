@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 2.00% | ~17,920 |
+| V for Vendetta | 2.00% | ~17,921 |
 | Gun Fu | 1.00% | ~8,960 |
 | Relic Ruler | 0.80% | ~197 |
 | Full Body Conversion | 0.50% | ~4,480 |
@@ -18,6 +18,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Arachnophobia | 0.40% | ~99 |
 | Bushido and Chill | 0.30% | ~2,688 |
 | Master Crafter | 0.30% | ~2,688 |
+| I Am The Law | 0.30% | ~2,688 |
 | Christmas Tree Attack | 0.30% | ~2,688 |
 | Life of the Road | 0.30% | ~2,688 |
 | The Hermit | 0.30% | ~2,688 |
@@ -32,7 +33,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.30% | ~74 |
 | To Protect and Serve | 0.20% | ~1,792 |
 | The Wandering Fool | 0.20% | ~1,792 |
-| I Am The Law | 0.20% | ~1,792 |
 | The Fool | 0.20% | ~1,792 |
 | The Sun | 0.20% | ~1,792 |
 | Two Heads, One Bullet | 0.20% | ~1,792 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,018 (Ranked 15)  
+Progressed: 896,030 (Ranked 15)  
 Completed: 2,760 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 2,760 (0.31%) (Ranked 224)
 | 2023-11-07 | 895,712 | 2,753 |
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
-| 2023-11-10 | 896,018 | 2,760 |
+| 2023-11-10 | 896,030 | 2,760 |
 ## Awards
 Max (Character Customization): 104,676  (Ranked 9)  
 Sum: 348,141 (Ranked 10)  
