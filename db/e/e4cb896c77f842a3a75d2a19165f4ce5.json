@@ -3,9 +3,9 @@
   "Name": "Dolmenjord - Viking Islands",
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 278,
-  "Ranking_EOS_Completed": 101,
+  "Ranking_EOS_Completed": 102,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 88,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 624,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.88,
   "EosHistory": [
@@ -1968,8 +1968,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:24:47.1369099+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:06:32.2611352+00:00",
   "LastUpdate_AppInfo": "2023-11-07T02:16:30.7589721+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:15:48.3426844+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:24:47.136932+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:57:19.0450395+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:06:32.2611494+00:00"
 }

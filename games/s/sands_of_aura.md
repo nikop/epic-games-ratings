@@ -64,7 +64,7 @@
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 64 (Ranked 452)  
-Completed: 0 (0.00%) (Ranked 345)  
+Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

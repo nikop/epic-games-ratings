@@ -124,7 +124,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,058 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 345)  
+Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

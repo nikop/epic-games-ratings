@@ -6,8 +6,8 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 263,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_Completed": 90,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 812,
+  "EOS_Progressed": 813,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.33,
+  "EOS_Completed_Percentage": 3.32,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2557,6 +2557,11 @@
       "Time": "2023-11-09T15:09:07.0984234+00:00",
       "NumProgressed": 812,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-10T03:09:25.6855407+00:00",
+      "NumProgressed": 813,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2577,7 +2582,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "_03_FinishAct1",
@@ -2585,7 +2590,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2593,7 +2598,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "_05_FinishAct2",
@@ -2609,7 +2614,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "_07_FinishAct3",
@@ -2657,7 +2662,7 @@
       "Name": "Privateer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "_13_Completion_60",
@@ -2681,7 +2686,7 @@
       "Name": "Marauder",
       "Percentage": 4,
       "XP": 125,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "_16_UnlockCore8Characters",
@@ -2689,7 +2694,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2761,7 +2766,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -2769,14 +2774,14 @@
       "Name": "Welcome Back Jester",
       "Percentage": 4,
       "XP": 140,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 812,
+      "Progressed": 813,
       "Completed": 27
     }
   ],
@@ -2784,8 +2789,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:27:42.1899978+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:09:25.6855403+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:47.5023284+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:16:51.7002063+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:27:42.1900311+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:58:30.9248106+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:09:25.6855844+00:00"
 }

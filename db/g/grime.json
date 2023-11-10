@@ -6,7 +6,7 @@
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 76,
-  "Ranking_EOS_Completed": 345,
+  "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
@@ -1405,9 +1405,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157421,
+  "EOS_Progressed": 157426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1239,
+  "EOS_NewPlayers": 1240,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15035,6 +15035,11 @@
       "Time": "2023-11-10T02:26:53.1306874+00:00",
       "NumProgressed": 157421,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T03:08:32.3371217+00:00",
+      "NumProgressed": 157426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15238,7 +15243,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -15246,7 +15251,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -15413,21 +15418,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157004,
+      "Progressed": 157009,
       "Completed": 1196
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157421,
+      "Progressed": 157426,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-09T14:57:27.7658801+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:26:53.1306869+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:08:32.3371216+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:16:07.0331255+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:26:53.1308068+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:57:40.9200473+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:08:32.3371964+00:00"
 }

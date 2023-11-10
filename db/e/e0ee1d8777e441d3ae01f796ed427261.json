@@ -3,8 +3,8 @@
   "Name": "Amber",
   "ProductSlug": "amber-1e2240",
   "Ranking_EOS_Progress": 738,
-  "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2024-02-14T13:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.8984227+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:18:55.7400137+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:23:53.6425647+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:02:38.0032548+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:05:32.9093222+00:00"
 }

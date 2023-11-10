@@ -1,23 +1,24 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 523)  
+Rating: 4.54 (Ranked 522)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Whatever It Takes | 2.00% | ~825 |
-| One of Us | 1.00% | ~412 |
-| Pork Chopped | 1.00% | ~412 |
+| One of Us | 1.00% | ~413 |
+| Pork Chopped | 1.00% | ~413 |
 | Hotel California | 0.60% | ~4,294 |
 | Welcome To Hell-A | 0.60% | ~4,294 |
-| Git Gutte! | 0.50% | ~3,578 |
-| Bookworm | 0.50% | ~3,578 |
-| Break A Leg | 0.50% | ~3,578 |
-| Coup de Grâce | 0.50% | ~3,578 |
-| Hazardous Materials | 0.50% | ~3,578 |
-| Personal Assistant Personally Assisted | 0.50% | ~3,578 |
+| Git Gutte! | 0.50% | ~3,579 |
+| Anger Management | 0.50% | ~3,579 |
+| Bookworm | 0.50% | ~3,579 |
+| Break A Leg | 0.50% | ~3,579 |
+| Coup de Grâce | 0.50% | ~3,579 |
+| Hazardous Materials | 0.50% | ~3,579 |
+| Personal Assistant Personally Assisted | 0.50% | ~3,579 |
 | Dr. Reed, I Presume? | 0.40% | ~2,863 |
-| Anger Management | 0.40% | ~2,863 |
+| Perks of the Job | 0.40% | ~2,863 |
 | But Doctor, I am Butcho | 0.40% | ~2,863 |
 | Can't Handle the Truth | 0.40% | ~2,863 |
 | Like Riding a Bike | 0.40% | ~2,863 |
@@ -29,24 +30,23 @@ Rating: 4.54 (Ranked 523)
 | Our True Nature | 0.40% | ~2,863 |
 | This is My Weapon | 0.40% | ~2,863 |
 | Making Your Mark | 0.30% | ~2,147 |
-| Perks of the Job | 0.30% | ~2,147 |
 | I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,147 |
 | Slayer Squad | 0.30% | ~2,147 |
 | Not Even My Final Form | 0.30% | ~2,147 |
 | Ooh, Shiny! | 0.30% | ~2,147 |
 | Humanity Distilled | 0.30% | ~2,147 |
 | I Am the Resurrection | 0.30% | ~2,147 |
+| Down with the Sickness | 0.30% | ~2,147 |
 | Max Headroom | 0.30% | ~2,147 |
 | Make it So | 0.20% | ~1,431 |
 | On Safari | 0.20% | ~1,431 |
 | Smorgasbord | 0.20% | ~1,431 |
 | Internet Famous | 0.20% | ~1,431 |
 | Jumbo Keyring | 0.20% | ~1,431 |
-| Down with the Sickness | 0.20% | ~1,431 |
 | Go, Bobcats! | 0.20% | ~1,431 |
 | Variety is the Spice of Death | 0.20% | ~1,431 |
 | Rising Star | 0.20% | ~1,431 |
-| Top That, Tisha! | 0.20% | ~82 |
+| Top That, Tisha! | 0.20% | ~83 |
 | LA Influential | 0.10% | ~716 |
 | Donk! | 0.10% | ~716 |
 | Sole Survivor | 0.10% | ~716 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,698 (Ranked 21)  
-Completed: 2,369 (0.33%) (Ranked 219)  
+Progressed: 715,711 (Ranked 21)  
+Completed: 2,369 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -261,7 +261,7 @@ Completed: 2,369 (0.33%) (Ranked 219)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,698 | 2,369 |
+| 2023-11-10 | 715,711 | 2,369 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
 Sum: 10,986 (Ranked 86)  

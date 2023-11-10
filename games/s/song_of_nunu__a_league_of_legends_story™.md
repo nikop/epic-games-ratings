@@ -18,8 +18,8 @@
 | No Bites | 53.00% | ~325 |
 | Tear of Freedom | 49.00% | ~301 |
 | Boom Things | 49.00% | ~301 |
+| My Darkest Day | 46.00% | ~282 |
 | Rhythm Of Willump | 46.00% | ~282 |
-| My Darkest Day | 45.00% | ~276 |
 | The Relentless Storm | 42.00% | ~258 |
 | A Tragic Reminder | 41.00% | ~252 |
 | 3000 Year Blackout | 40.00% | ~246 |
@@ -50,7 +50,7 @@
 | Rock Star | 2.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 614 (Ranked 281)  
-Completed: 5 (0.81%) (Ranked 170)  
+Completed: 5 (0.81%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

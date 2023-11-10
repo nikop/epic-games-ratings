@@ -6,8 +6,8 @@
   "Ranking_Popularity": 69,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 63,
-  "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_Completed": 154,
+  "Ranking_EOS_NewPlayers": 98,
   "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7951,9 +7951,9 @@
       "Count": 3510
     }
   ],
-  "EOS_Progressed": 234159,
+  "EOS_Progressed": 234167,
   "EOS_Completed": 2440,
-  "EOS_NewPlayers": 655,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -30721,6 +30721,11 @@
       "Time": "2023-11-10T02:24:13.9018565+00:00",
       "NumProgressed": 234159,
       "NumCompleted": 2440
+    },
+    {
+      "Time": "2023-11-10T03:05:55.9305168+00:00",
+      "NumProgressed": 234167,
+      "NumCompleted": 2440
     }
   ],
   "TotalAchievements": 532,
@@ -34972,7 +34977,7 @@
       "Name": "The End is the Beginning",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "objective_completed_1553",
@@ -34987,21 +34992,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 200433,
+      "Progressed": 200441,
       "Completed": 3910
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 234159,
+      "Progressed": 234167,
       "Completed": 2440
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-10T01:42:53.0002417+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:24:13.901856+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:05:55.9305166+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.9071998+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:16:38.9334213+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:24:13.9049096+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:58:16.6618499+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:05:55.9326996+00:00"
 }

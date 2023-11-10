@@ -25,6 +25,7 @@ Rating: 4.61 (Ranked 385)
 | A Conqueror's Cohort | 0.20% | ~11 |
 | Dawn of the Dread | 0.20% | ~11 |
 | Valley of Wonders | 0.10% | ~5 |
+| I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | Full Ascension | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
@@ -58,7 +59,6 @@ Rating: 4.61 (Ranked 385)
 | Seal the Deal | 0.10% | ~5 |
 | A Very Special Ring | 0.10% | ~5 |
 | Snap Out of It! | 0.00% | ~0 |
-| I've Got Everything I Need Right Here | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
@@ -66,8 +66,8 @@ Rating: 4.61 (Ranked 385)
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,314 (Ranked 183)  
-Completed: 7 (0.13%) (Ranked 257)  
+Progressed: 5,315 (Ranked 183)  
+Completed: 7 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -238,7 +238,7 @@ Completed: 7 (0.13%) (Ranked 257)
 | 2023-11-07 | 5,285 | 7 |
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
-| 2023-11-10 | 5,314 | 7 |
+| 2023-11-10 | 5,315 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 474)  

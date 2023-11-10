@@ -13,7 +13,7 @@ Rating: 4.02 (Ranked 986)
 | Initiate | 47.00% | ~109 |
 | Thrada-Kul | 42.00% | ~97 |
 | Gravity-Challenged Rocks | 32.00% | ~74 |
-| Soldier | 27.00% | ~63 |
+| Soldier | 28.00% | ~65 |
 | All the Major Food Groups | 27.00% | ~63 |
 | Socialite | 26.00% | ~60 |
 | Beggars Would Ride | 25.00% | ~58 |
@@ -54,7 +54,7 @@ Rating: 4.02 (Ranked 986)
 | Fowl Play | 0.90% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 232 (Ranked 355)  
-Completed: 1 (0.43%) (Ranked 205)  
+Completed: 1 (0.43%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

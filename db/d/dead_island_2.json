@@ -2,11 +2,11 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 523,
+  "Ranking_Rating": 522,
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 21,
-  "Ranking_EOS_Completed": 219,
+  "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 25,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
@@ -6315,9 +6315,9 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 715698,
+  "EOS_Progressed": 715711,
   "EOS_Completed": 2369,
-  "EOS_NewPlayers": 4573,
+  "EOS_NewPlayers": 4574,
   "EOS_NewCompleters": 64,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29545,6 +29545,11 @@
       "Time": "2023-11-10T02:24:55.5213809+00:00",
       "NumProgressed": 715698,
       "NumCompleted": 2369
+    },
+    {
+      "Time": "2023-11-10T03:06:41.4110088+00:00",
+      "NumProgressed": 715711,
+      "NumCompleted": 2369
     }
   ],
   "TotalAchievements": 51,
@@ -29572,15 +29577,15 @@
       "Name": "Git Gutte!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "ach_anger_management",
       "SetID": "7km39fm",
       "Name": "Anger Management",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2863
+      "UsersEstimate": 3579
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -29602,9 +29607,9 @@
       "ID": "ach_blueprinted",
       "SetID": "7km39fm",
       "Name": "Perks of the Job",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2863
     },
     {
       "ID": "ach_bookworm",
@@ -29612,7 +29617,7 @@
       "Name": "Bookworm",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "ach_break_a_leg",
@@ -29620,7 +29625,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "ach_contender",
@@ -29676,7 +29681,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -29700,7 +29705,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -29810,9 +29815,9 @@
       "ID": "ach_salvation",
       "SetID": "7km39fm",
       "Name": "Down with the Sickness",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1431
+      "UsersEstimate": 2147
     },
     {
       "ID": "ach_secrets_of_la",
@@ -29836,7 +29841,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3578
+      "UsersEstimate": 3579
     },
     {
       "ID": "ach_survival_expert",
@@ -29916,7 +29921,7 @@
       "Name": "One of Us",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ach_dark_magic",
@@ -29940,7 +29945,7 @@
       "Name": "Pork Chopped",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -29956,20 +29961,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715698,
+      "Progressed": 715711,
       "Completed": 2369
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 41240,
+      "Progressed": 41253,
       "Completed": 36513
     }
   ],
@@ -29977,8 +29982,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-09T17:59:35.4209527+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:24:55.5213801+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:06:41.4110086+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:17:16.4276701+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:24:55.5215596+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:58:59.3892443+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:06:41.4111238+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_Completed": 252,
+  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10275,9 +10275,9 @@
       "Count": 771
     }
   ],
-  "EOS_Progressed": 301780,
+  "EOS_Progressed": 301782,
   "EOS_Completed": 505,
-  "EOS_NewPlayers": 1431,
+  "EOS_NewPlayers": 1427,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32150,6 +32150,11 @@
       "Time": "2023-11-10T01:54:01.0878942+00:00",
       "NumProgressed": 301780,
       "NumCompleted": 505
+    },
+    {
+      "Time": "2023-11-10T03:09:15.7198361+00:00",
+      "NumProgressed": 301782,
+      "NumCompleted": 505
     }
   ],
   "TotalAchievements": 45,
@@ -32209,7 +32214,7 @@
       "Name": "The Avenging Gazelle",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24142
+      "UsersEstimate": 24143
     },
     {
       "ID": "PFA_16",
@@ -32225,7 +32230,7 @@
       "Name": "Beast Friends",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24142
+      "UsersEstimate": 24143
     },
     {
       "ID": "PFA_18",
@@ -32233,7 +32238,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 24142
+      "UsersEstimate": 24143
     },
     {
       "ID": "PFA_19",
@@ -32241,7 +32246,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 24142
+      "UsersEstimate": 24143
     },
     {
       "ID": "PFA_2",
@@ -32281,7 +32286,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39231
+      "UsersEstimate": 39232
     },
     {
       "ID": "PFA_24",
@@ -32520,7 +32525,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301780,
+      "Progressed": 301782,
       "Completed": 505
     }
   ],
@@ -32528,8 +32533,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-10T01:43:01.4009633+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:27:32.8122107+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:09:15.7198359+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:16:44.3713123+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:27:32.8123792+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:58:22.7102386+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:09:15.7199441+00:00"
 }

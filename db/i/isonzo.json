@@ -6,7 +6,7 @@
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 173,
-  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
@@ -6918,9 +6918,9 @@
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
       "SetID": "akchbl3",
       "Name": "You Shall Not Pass",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 3784
+      "UsersEstimate": 3855
     }
   ],
   "AchievementSets": [
@@ -6935,8 +6935,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-09T19:59:33.4838847+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:24:32.8662889+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:06:16.1962074+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.5980871+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:17:12.6504573+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:24:32.8663611+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:58:55.2551545+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:06:16.1962522+00:00"
 }

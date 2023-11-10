@@ -31,7 +31,7 @@
 | Fashion victim | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 507 (Ranked 297)  
-Completed: 28 (5.52%) (Ranked 64)  
+Completed: 28 (5.52%) (Ranked 65)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

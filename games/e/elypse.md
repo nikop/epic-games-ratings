@@ -40,7 +40,7 @@
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 100 (Ranked 419)  
-Completed: 0 (0.00%) (Ranked 345)  
+Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

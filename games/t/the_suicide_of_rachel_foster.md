@@ -19,7 +19,7 @@ Number of Ratings: 71  (23.09.2022)
 | Spicy | 5.00% | ~81 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,627 (Ranked 229)  
-Completed: 73 (4.49%) (Ranked 75)  
+Completed: 73 (4.49%) (Ranked 76)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

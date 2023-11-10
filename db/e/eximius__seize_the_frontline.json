@@ -6,7 +6,7 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 345,
+  "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 129,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
@@ -327,9 +327,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199716,
+  "EOS_Progressed": 199718,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21927,6 +21927,11 @@
       "Time": "2023-11-10T01:47:42.2442023+00:00",
       "NumProgressed": 199716,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-10T03:03:20.5111599+00:00",
+      "NumProgressed": 199718,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -21946,7 +21951,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 141798
+      "UsersEstimate": 141800
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -21962,7 +21967,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5991
+      "UsersEstimate": 5992
     },
     {
       "ID": "ACH_INITIATION",
@@ -22065,7 +22070,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 199716,
+      "Progressed": 199718,
       "Completed": 4
     }
   ],
@@ -22073,8 +22078,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:21:53.6542079+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:03:20.5111595+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:54.3998533+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:18:43.8606757+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:21:53.654343+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:00:35.2514673+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:03:20.5112842+00:00"
 }

@@ -21,8 +21,8 @@ Rating: 4.53 (Ranked 536)
 | Catch Me if You Can | 6.00% | ~658 |
 | Not my First Time | 5.00% | ~548 |
 | Grand Theft Auto | 5.00% | ~548 |
-| High Quality H2O | 4.00% | ~438 |
-| Pie Guy | 4.00% | ~438 |
+| High Quality H2O | 4.00% | ~439 |
+| Pie Guy | 4.00% | ~439 |
 | Running Rampant | 3.00% | ~329 |
 | Point A to Point B | 3.00% | ~329 |
 | Bull in a China Shop | 3.00% | ~329 |
@@ -40,8 +40,8 @@ Rating: 4.53 (Ranked 536)
 | Done it All | 1.00% | ~110 |
 | Kingpin | 0.60% | ~66 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,962 (Ranked 154)  
-Completed: 64 (0.58%) (Ranked 181)  
+Progressed: 10,963 (Ranked 154)  
+Completed: 64 (0.58%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -244,7 +244,7 @@ Completed: 64 (0.58%) (Ranked 181)
 | 2023-11-07 | 10,933 | 64 |
 | 2023-11-08 | 10,950 | 64 |
 | 2023-11-09 | 10,961 | 64 |
-| 2023-11-10 | 10,962 | 64 |
+| 2023-11-10 | 10,963 | 64 |
 ## Awards
 Max (Great Boss Battles): 103  (Ranked 354)  
 Sum: 103 (Ranked 440)  

@@ -50,11 +50,11 @@
 | Poisoned fighter | 41.00% | ~139 |
 | The die is cast | 41.00% | ~139 |
 | Get out of my apartment! | 40.00% | ~135 |
+| Seashell hunter | 39.00% | ~132 |
 | Gang wrangler | 38.00% | ~128 |
-| Seashell hunter | 38.00% | ~128 |
 | Undercover robot | 38.00% | ~128 |
+| Problems of cyborgs | 37.00% | ~125 |
 | Absolute Champion! | 37.00% | ~125 |
-| Problems of cyborgs | 36.00% | ~122 |
 | Not little hacker | 36.00% | ~122 |
 | Your own way | 36.00% | ~122 |
 | The lonesome road | 35.00% | ~118 |
@@ -72,7 +72,7 @@
 | The only right decision | 31.00% | ~105 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 338 (Ranked 322)  
-Completed: 9 (2.66%) (Ranked 106)  
+Completed: 9 (2.66%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

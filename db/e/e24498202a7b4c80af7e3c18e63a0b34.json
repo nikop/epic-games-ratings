@@ -6,7 +6,7 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_Completed": 193,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6732,
+  "EOS_Progressed": 6733,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -5231,6 +5231,11 @@
       "Time": "2023-11-10T02:24:27.0305281+00:00",
       "NumProgressed": 6732,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-10T03:06:09.9239199+00:00",
+      "NumProgressed": 6733,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5243,7 +5248,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 5857
+      "UsersEstimate": 5858
     },
     {
       "ID": "achievement_01_02",
@@ -5259,7 +5264,7 @@
       "Name": "Brand New Ride",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 4241
+      "UsersEstimate": 4242
     },
     {
       "ID": "achievement_01_04",
@@ -5267,7 +5272,7 @@
       "Name": "Bzzzt",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "achievement_01_05",
@@ -5275,7 +5280,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "achievement_01_06",
@@ -5291,7 +5296,7 @@
       "Name": "Car Workshop",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2760
+      "UsersEstimate": 2761
     },
     {
       "ID": "achievement_01_08",
@@ -5315,7 +5320,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "achievement_02_01",
@@ -5355,7 +5360,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "achievement_02_06",
@@ -5371,7 +5376,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3231
+      "UsersEstimate": 3232
     },
     {
       "ID": "achievement_02_08",
@@ -5379,7 +5384,7 @@
       "Name": "Car Specialist",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "achievement_03_01",
@@ -5387,7 +5392,7 @@
       "Name": "USA - Check!",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1952
+      "UsersEstimate": 1953
     },
     {
       "ID": "achievement_03_02",
@@ -5395,7 +5400,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "achievement_03_03",
@@ -5499,7 +5504,7 @@
       "Name": "Flawless Racer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "achievement_04_05",
@@ -5546,7 +5551,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6732,
+      "Progressed": 6733,
       "Completed": 35
     }
   ],
@@ -5554,8 +5559,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:24:27.0305276+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:06:09.9239193+00:00",
   "LastUpdate_AppInfo": "2023-11-09T20:57:10.0685893+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:16:38.7828665+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:24:27.0305896+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:58:16.5123877+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:06:09.9239641+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 197,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 70,
-  "Ranking_EOS_Completed": 297,
+  "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
@@ -1972,9 +1972,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 212825,
+  "EOS_Progressed": 212826,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 1331,
+  "EOS_NewPlayers": 1329,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25217,6 +25217,11 @@
       "Time": "2023-11-10T02:24:58.9272674+00:00",
       "NumProgressed": 212825,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-11-10T03:06:44.8942086+00:00",
+      "NumProgressed": 212826,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 44,
@@ -25228,7 +25233,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21282
+      "UsersEstimate": 21283
     },
     {
       "ID": "AtheistOx",
@@ -25236,7 +25241,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "ChickenDinner",
@@ -25388,7 +25393,7 @@
       "Name": "No Gimmicks",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "Noboru",
@@ -25412,7 +25417,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "PraiseTheShogun",
@@ -25516,7 +25521,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21282
+      "UsersEstimate": 21283
     },
     {
       "ID": "TimeParadox",
@@ -25564,7 +25569,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "Yabu",
@@ -25579,15 +25584,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 212825,
+      "Progressed": 212826,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-08T22:02:38.8077584+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:24:58.9272669+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:06:44.8942081+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.1309249+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:21:21.9495995+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:24:58.9274419+00:00"
+  "LastUpdate_Ratings": "2023-11-10T03:02:43.6312661+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:06:44.8943278+00:00"
 }

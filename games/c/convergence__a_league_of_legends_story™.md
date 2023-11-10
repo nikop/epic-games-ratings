@@ -36,11 +36,11 @@ Rating: 4.62 (Ranked 366)
 | Good Neighbor | 13.00% | ~119 |
 | Chaincrawler Explorer | 12.00% | ~110 |
 | Family Memories | 12.00% | ~110 |
+| Sump Explorer | 11.00% | ~101 |
 | Syron for Hope | 11.00% | ~101 |
 | Ask Questions Later | 11.00% | ~101 |
 | Factorywood Explorer | 10.00% | ~92 |
 | Fairgrounds Explorer | 10.00% | ~92 |
-| Sump Explorer | 10.00% | ~92 |
 | Theater Explorer | 10.00% | ~92 |
 | Cultivair Explorer | 9.00% | ~83 |
 | Entresol Explorer | 9.00% | ~83 |
@@ -60,7 +60,7 @@ Rating: 4.62 (Ranked 366)
 | Raw Talent | 0.70% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 917 (Ranked 259)  
-Completed: 6 (0.65%) (Ranked 174)  
+Completed: 6 (0.65%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

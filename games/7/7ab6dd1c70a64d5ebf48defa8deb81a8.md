@@ -41,8 +41,8 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 175 (Ranked 376)  
-Completed: 1 (0.57%) (Ranked 183)  
+Progressed: 175 (Ranked 377)  
+Completed: 1 (0.57%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

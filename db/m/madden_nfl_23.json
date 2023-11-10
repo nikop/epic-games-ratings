@@ -6,7 +6,7 @@
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 345,
+  "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
@@ -793,9 +793,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3330,
+  "EOS_Progressed": 3331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5038,6 +5038,11 @@
       "Time": "2023-11-10T01:51:02.5063933+00:00",
       "NumProgressed": 3330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T03:05:52.4305437+00:00",
+      "NumProgressed": 3331,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5074,7 +5079,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "achievement_13",
@@ -5098,7 +5103,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "achievement_16",
@@ -5114,7 +5119,7 @@
       "Name": "Pocket Ace",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_18",
@@ -5170,7 +5175,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_5",
@@ -5194,7 +5199,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1032
+      "UsersEstimate": 1033
     },
     {
       "ID": "achievement_8",
@@ -5210,14 +5215,14 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3330,
+      "Progressed": 3331,
       "Completed": 0
     }
   ],
@@ -5225,8 +5230,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-04T02:25:15.9008043+00:00",
-  "LastChanged_Achievements": "2023-11-10T02:24:11.042801+00:00",
+  "LastChanged_Achievements": "2023-11-10T03:05:52.4305435+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:12.3381259+00:00",
-  "LastUpdate_Ratings": "2023-11-10T02:15:56.9458775+00:00",
-  "LastUpdate_Achievements": "2023-11-10T02:24:11.0428441+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:57:28.8616484+00:00",
+  "LastUpdate_Achievements": "2023-11-10T03:05:52.4305698+00:00"
 }

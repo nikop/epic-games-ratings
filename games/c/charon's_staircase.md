@@ -26,7 +26,7 @@
 | Spectres from the past | 8.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 80 (Ranked 436)  
-Completed: 3 (3.75%) (Ranked 84)  
+Completed: 3 (3.75%) (Ranked 85)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

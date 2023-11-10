@@ -33,7 +33,7 @@ Rating: 3.78 (Ranked 1,029)
 | O Captain! My Captain! | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 16,972 (Ranked 142)  
-Completed: 1 (0.01%) (Ranked 321)  
+Completed: 1 (0.01%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
