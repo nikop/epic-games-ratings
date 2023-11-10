@@ -1899,9 +1899,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 1286746,
+  "EOS_Progressed": 1286750,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1738,
+  "EOS_NewPlayers": 1735,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20789,6 +20789,11 @@
       "Time": "2023-11-10T09:08:44.2942042+00:00",
       "NumProgressed": 1286746,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T10:08:59.1029474+00:00",
+      "NumProgressed": 1286750,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -20800,7 +20805,7 @@
       "Name": "Possess 1000 Props!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2573
+      "UsersEstimate": 2574
     },
     {
       "ID": "100_corruption_kills",
@@ -20936,7 +20941,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 205879
+      "UsersEstimate": 205880
     },
     {
       "ID": "10_hunter_wins",
@@ -21048,7 +21053,7 @@
       "Name": "250 Taunts!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12867
+      "UsersEstimate": 12868
     },
     {
       "ID": "25_cosmetic_unlocks",
@@ -21096,7 +21101,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 772048
+      "UsersEstimate": 772050
     },
     {
       "ID": "hunter_win",
@@ -21104,7 +21109,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 694843
+      "UsersEstimate": 694845
     },
     {
       "ID": "master_of_loadouts",
@@ -21135,7 +21140,7 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1286746,
+      "Progressed": 1286750,
       "Completed": 0
     }
   ],
@@ -21143,8 +21148,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2023-11-09T16:10:58.230684+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:08:44.294204+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:08:59.102947+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:57.5340795+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:00:13.6711202+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:08:44.2943013+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:00:57.257446+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:08:59.1030617+00:00"
 }

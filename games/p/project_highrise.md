@@ -83,7 +83,7 @@
 | Lofty Landlord | 1.00% | ~4 |
 | Scenario Success | 1.00% | ~4 |
 | Artistic Largesse | 0.90% | ~3 |
-| High Hand | 0.60% | ~2 |
+| High Hand | 0.90% | ~3 |
 | Poker Face | 0.60% | ~2 |
 | Scenario Master | 0.60% | ~2 |
 | Infrastructure Info | 0.30% | ~1 |

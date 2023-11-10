@@ -6,50 +6,50 @@ Number of Ratings: 2,205  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Champion | 90.00% | ~60,318 |
-| The Pyromancer | 86.00% | ~57,637 |
+| The Champion | 90.00% | ~60,319 |
+| The Pyromancer | 86.00% | ~57,638 |
 | The Wastes | 83.00% | ~55,627 |
-| Waste Not | 80.00% | ~53,616 |
-| The Cryomancer | 76.00% | ~50,935 |
-| Stock Up | 75.00% | ~50,265 |
+| Waste Not | 80.00% | ~53,617 |
+| The Cryomancer | 76.00% | ~50,936 |
+| Stock Up | 75.00% | ~50,266 |
 | The Hydromancer | 73.00% | ~48,925 |
-| The Matriarch | 70.00% | ~46,914 |
-| The Aeromancer | 66.00% | ~44,233 |
-| The Venomancer | 66.00% | ~44,233 |
-| The Huntsman | 65.00% | ~43,563 |
+| The Matriarch | 70.00% | ~46,915 |
+| The Aeromancer | 66.00% | ~44,234 |
+| The Venomancer | 66.00% | ~44,234 |
+| The Huntsman | 65.00% | ~43,564 |
 | Dawnlight Order | 64.00% | ~42,893 |
-| The Electromancer | 61.00% | ~40,882 |
+| The Electromancer | 61.00% | ~40,883 |
 | The Terramancer | 59.00% | ~39,542 |
-| The Exalted | 57.00% | ~38,201 |
-| Blueheart Runners | 55.00% | ~36,861 |
-| Sheriff Inquisitors | 55.00% | ~36,861 |
-| The Necromancer | 52.00% | ~34,850 |
+| The Exalted | 57.00% | ~38,202 |
+| Blueheart Runners | 55.00% | ~36,862 |
+| Sheriff Inquisitors | 55.00% | ~36,862 |
+| The Necromancer | 52.00% | ~34,851 |
 | The Swamp | 50.00% | ~33,510 |
-| The Fungalmancer | 47.00% | ~31,499 |
-| The Thaumamancer | 47.00% | ~31,499 |
+| The Fungalmancer | 47.00% | ~31,500 |
+| The Thaumamancer | 47.00% | ~31,500 |
 | The Hag | 45.00% | ~30,159 |
-| The Corpumancer | 42.00% | ~28,148 |
+| The Corpumancer | 42.00% | ~28,149 |
 | The Mountain | 40.00% | ~26,808 |
 | The Treeheart | 40.00% | ~26,808 |
 | Shroud Alliance | 39.00% | ~26,138 |
-| The Two Monks | 37.00% | ~24,797 |
+| The Two Monks | 37.00% | ~24,798 |
 | The Neuromancer | 35.00% | ~23,457 |
 | Oathbound Watchers | 34.00% | ~22,787 |
 | The Mechanomancer | 33.00% | ~22,117 |
-| The Chronomancer | 32.00% | ~21,446 |
+| The Chronomancer | 32.00% | ~21,447 |
 | The Copse | 30.00% | ~20,106 |
 | The Dragon | 30.00% | ~20,106 |
 | The Dracomancer | 30.00% | ~20,106 |
 | Well Stocked | 28.00% | ~18,766 |
 | The Umbramancer | 28.00% | ~18,766 |
-| Chaos Hunger | 27.00% | ~18,095 |
-| The Kinetomancer | 27.00% | ~18,095 |
-| The Sanguimancer | 27.00% | ~18,095 |
+| Chaos Hunger | 27.00% | ~18,096 |
+| The Kinetomancer | 27.00% | ~18,096 |
+| The Sanguimancer | 27.00% | ~18,096 |
 | The Luminimancer | 26.00% | ~17,425 |
 | The Bibliomancer | 25.00% | ~16,755 |
 | The Skylord | 25.00% | ~16,755 |
 | The Firelord | 24.00% | ~16,085 |
-| The Diablomancer | 22.00% | ~14,744 |
+| The Diablomancer | 22.00% | ~14,745 |
 | Want Not | 21.00% | ~14,074 |
 | The Sacrifice | 21.00% | ~14,074 |
 | The King | 19.00% | ~12,734 |
@@ -60,8 +60,8 @@ Number of Ratings: 2,205  (23.09.2022)
 | The Scholar | 10.00% | ~6,702 |
 | Top Shelf | 5.00% | ~3,351 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,020 (Ranked 101)  
-Completed: 1,242 (1.85%) (Ranked 124)  
+Progressed: 67,021 (Ranked 101)  
+Completed: 1,242 (1.85%) (Ranked 123)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,15 +264,15 @@ Completed: 1,242 (1.85%) (Ranked 124)
 | 2023-11-07 | 66,971 | 1,240 |
 | 2023-11-08 | 66,993 | 1,240 |
 | 2023-11-09 | 67,013 | 1,241 |
-| 2023-11-10 | 67,020 | 1,242 |
+| 2023-11-10 | 67,021 | 1,242 |
 ## Awards
 Max (Character Customization): 976  (Ranked 153)  
-Sum: 1,963 (Ranked 210)  
+Sum: 1,966 (Ranked 210)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 976 |
-| This game has Great Boss Battles | 562 |
+| This game has Great Boss Battles | 565 |
 | This game is Extremely Fun | 68 |
 | This game has Challenging Combat | 68 |
 | This game has Unique Visuals | 61 |
@@ -439,3 +439,4 @@ Diff (max vs sum): -57
 | 2023-11-07 | 4.31 | - | 975 | 1,958 |
 | 2023-11-08 | 4.31 | - | 976 | 1,960 |
 | 2023-11-09 | 4.31 | - | 976 | 1,963 |
+| 2023-11-10 | 4.31 | - | 976 | 1,966 |

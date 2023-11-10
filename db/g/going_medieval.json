@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1415,9 +1415,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 6682,
+  "EOS_Progressed": 6683,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 180,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12490,6 +12490,11 @@
       "Time": "2023-11-10T04:06:42.0859524+00:00",
       "NumProgressed": 6682,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-10T10:08:20.6897093+00:00",
+      "NumProgressed": 6683,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -12533,7 +12538,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4477
+      "UsersEstimate": 4478
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -12549,7 +12554,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4811
+      "UsersEstimate": 4812
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -12613,7 +12618,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -12621,7 +12626,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 4009
+      "UsersEstimate": 4010
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -12645,7 +12650,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3274
+      "UsersEstimate": 3275
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -12669,7 +12674,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -12677,7 +12682,7 @@
       "Name": "Heating Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -12685,7 +12690,7 @@
       "Name": "Winter Is Here",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -12701,7 +12706,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3675
+      "UsersEstimate": 3676
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -12709,7 +12714,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4477
+      "UsersEstimate": 4478
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -12725,7 +12730,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -12748,15 +12753,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6682,
+      "Progressed": 6683,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-09T17:02:57.7669931+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:06:31.8589355+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:08:20.6897088+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.6688935+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:03:02.0703522+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:06:31.8590208+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:03:02.2963563+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:08:20.6897792+00:00"
 }

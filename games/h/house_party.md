@@ -21,7 +21,7 @@ Number of Ratings: 177  (23.09.2022)
 | Inspector | 1.00% | ~64 |
 | Newcomer: Vickie | 1.00% | ~64 |
 | Social Butterfly | 1.00% | ~64 |
-| The Muse: Madison | 0.90% | ~58 |
+| The Muse: Madison | 1.00% | ~64 |
 | Smooth Operator: Ashley | 0.80% | ~52 |
 | Amy: Scavenger Hunt | 0.70% | ~45 |
 | It Smells Like Roses | 0.70% | ~24 |

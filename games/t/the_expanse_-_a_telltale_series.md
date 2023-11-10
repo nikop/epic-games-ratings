@@ -10,8 +10,8 @@ Rating: 4.55 (Ranked 502)
 | Drone Dodger | 3.00% | ~444 |
 | Bosmang | 3.00% | ~444 |
 | Celebrations are in Order | 3.00% | ~444 |
-| Safe Cracker | 3.00% | ~22 |
-| Zen Master | 3.00% | ~22 |
+| Safe Cracker | 3.00% | ~23 |
+| Zen Master | 3.00% | ~23 |
 | Data Archivist | 2.00% | ~296 |
 | Stogie for Fogey | 2.00% | ~296 |
 | Drug Gifter | 2.00% | ~296 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 502)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,794 (Ranked 146)  
+Progressed: 14,797 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 33 (0.22%) (Ranked 237)
 | 2023-11-07 | 14,744 | 33 |
 | 2023-11-08 | 14,766 | 33 |
 | 2023-11-09 | 14,788 | 33 |
-| 2023-11-10 | 14,794 | 33 |
+| 2023-11-10 | 14,797 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

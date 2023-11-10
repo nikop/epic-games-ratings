@@ -6,13 +6,13 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 55.00% | ~3,930 |
-| Peak Performance | 54.00% | ~3,858 |
-| You Shall Not Pass | 54.00% | ~3,858 |
-| Avanti Savoia! | 48.00% | ~3,430 |
-| Mamma Mia! | 38.00% | ~2,715 |
-| Conrad von Hotzensocks | 36.00% | ~2,572 |
-| Gabriele D'Annunzio | 34.00% | ~2,429 |
+| Tutti Eroi! | 55.00% | ~3,931 |
+| Peak Performance | 54.00% | ~3,859 |
+| You Shall Not Pass | 53.00% | ~3,788 |
+| Avanti Savoia! | 48.00% | ~3,431 |
+| Mamma Mia! | 38.00% | ~2,716 |
+| Conrad von Hotzensocks | 36.00% | ~2,573 |
+| Gabriele D'Annunzio | 34.00% | ~2,430 |
 | Silver Lining | 30.00% | ~2,144 |
 | Aurelio Baruzzi | 24.00% | ~1,715 |
 | Decimation | 22.00% | ~1,572 |
@@ -22,14 +22,14 @@ Number of Ratings: 98  (23.09.2022)
 | Insubordination | 20.00% | ~1,429 |
 | Ragazzi del '99 | 19.00% | ~1,358 |
 | The Lion of the Isonzo | 18.00% | ~1,286 |
-| Luigi Cadorna | 16.00% | ~1,143 |
-| Dirty Dozen | 14.00% | ~1,000 |
-| Shaken, Not Stirred | 14.00% | ~1,000 |
-| Uomo Universale | 14.00% | ~1,000 |
+| Luigi Cadorna | 16.00% | ~1,144 |
+| Dirty Dozen | 14.00% | ~1,001 |
+| Shaken, Not Stirred | 14.00% | ~1,001 |
+| Uomo Universale | 14.00% | ~1,001 |
 | Die Bosniaken Kommen! | 13.00% | ~929 |
 | Machiavelli | 13.00% | ~929 |
 | Thus With A Kiss | 13.00% | ~929 |
-| The Devil's Paintbrush | 12.00% | ~857 |
+| The Devil's Paintbrush | 12.00% | ~858 |
 | Dante's Inferno | 11.00% | ~786 |
 | I Have the High Ground | 11.00% | ~786 |
 | Millenial | 11.00% | ~786 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~29 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,145 (Ranked 173)  
+Progressed: 7,147 (Ranked 173)  
 Completed: 9 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 9 (0.13%) (Ranked 258)
 | 2023-11-07 | 7,122 | 9 |
 | 2023-11-08 | 7,125 | 9 |
 | 2023-11-09 | 7,134 | 9 |
-| 2023-11-10 | 7,145 | 9 |
+| 2023-11-10 | 7,147 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 464)  
 Sum: 274 (Ranked 371)  

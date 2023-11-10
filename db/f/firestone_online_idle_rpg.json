@@ -7089,9 +7089,9 @@
       "ID": "scientist",
       "SetID": "3nl4bcg",
       "Name": "Scientist",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 280
     },
     {
       "ID": "scrollmaster",
@@ -7274,8 +7274,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:08:34.6561756+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:08:47.2082832+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:57:31.2110743+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:08:34.6562469+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:57:31.1213726+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:08:47.2083748+00:00"
 }

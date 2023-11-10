@@ -1188,9 +1188,9 @@
       "ID": "ach_ep1_casino",
       "SetID": "b8gh1fi",
       "Name": "High Hand",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_ep1_checkin_1",
@@ -1677,8 +1677,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:05:52.8781264+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:06:32.661629+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:26.7200143+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:58:01.703328+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:05:52.8781989+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:58:09.4341675+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:06:32.6617174+00:00"
 }

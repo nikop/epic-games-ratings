@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Proving Your Skills | 91.00% | ~146 |
+| Proving Your Skills | 92.00% | ~147 |
 | Bakery Startup | 42.00% | ~67 |
+| The Kitchen Is On Fire | 35.00% | ~56 |
 | Apprentice Baker | 34.00% | ~54 |
-| The Kitchen Is On Fire | 34.00% | ~54 |
 | Perfect Server | 16.00% | ~26 |
 | Adept Baker | 13.00% | ~21 |
 | Verdant Greenhouse | 11.00% | ~18 |

@@ -133,6 +133,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Spain is the Emperor | 0.10% | ~451 |
 | The Spice Must Flow | 0.10% | ~451 |
 | Subsidize my Love | 0.10% | ~451 |
+| Sweden is not overpowered! | 0.10% | ~451 |
 | Tear Down This Wall | 0.10% | ~451 |
 | That is mine! | 0.10% | ~451 |
 | That's a Silk Road | 0.10% | ~451 |
@@ -320,7 +321,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Super Trooper | 0.00% | ~0 |
 | Surfing USA | 0.00% | ~0 |
 | Swahili Persuasion | 0.00% | ~0 |
-| Sweden is not overpowered! | 0.00% | ~0 |
 | Sweet Harmony | 0.00% | ~0 |
 | Sweet Home Qaraqorum | 0.00% | ~0 |
 | Switzerlake | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450,987 (Ranked 41)  
+Progressed: 451,009 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -574,7 +574,7 @@ Completed: 1 (0.00%) (Ranked 346)
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
-| 2023-11-10 | 450,987 | 1 |
+| 2023-11-10 | 451,009 | 1 |
 ## Awards
 Max (Educational): 6,930  (Ranked 55)  
 Sum: 56,934 (Ranked 24)  

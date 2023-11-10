@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 59,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 49,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -5005,10 +5005,10 @@
       "Count": 330
     }
   ],
-  "EOS_Progressed": 250227,
+  "EOS_Progressed": 250228,
   "EOS_Completed": 872,
-  "EOS_NewPlayers": 674,
-  "EOS_NewCompleters": 3,
+  "EOS_NewPlayers": 671,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
     {
@@ -27210,6 +27210,11 @@
       "Time": "2023-11-10T09:09:23.743266+00:00",
       "NumProgressed": 250227,
       "NumCompleted": 872
+    },
+    {
+      "Time": "2023-11-10T10:09:47.2289161+00:00",
+      "NumProgressed": 250228,
+      "NumCompleted": 872
     }
   ],
   "TotalAchievements": 39,
@@ -27253,7 +27258,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 67561
+      "UsersEstimate": 67562
     },
     {
       "ID": "AchievementBigFootID",
@@ -27349,7 +27354,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 132620
+      "UsersEstimate": 132621
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -27381,7 +27386,7 @@
       "Name": "Secret Society",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 112602
+      "UsersEstimate": 112603
     },
     {
       "ID": "AchievementIntroID",
@@ -27389,7 +27394,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142629
+      "UsersEstimate": 142630
     },
     {
       "ID": "AchievementLootBoxID",
@@ -27421,7 +27426,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 95086
+      "UsersEstimate": 95087
     },
     {
       "ID": "AchievementRampID",
@@ -27453,7 +27458,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 185168
+      "UsersEstimate": 185169
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -27525,14 +27530,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 67561
+      "UsersEstimate": 67562
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250227,
+      "Progressed": 250228,
       "Completed": 872
     }
   ],
@@ -27540,8 +27545,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-09T22:58:07.3518997+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:09:23.7432657+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:09:47.2289157+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:20.6664953+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:57:56.9611246+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:09:23.7433876+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:58:03.3706517+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:09:47.2290437+00:00"
 }

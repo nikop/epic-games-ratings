@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 28,
   "Ranking_EOS_Progress": 39,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
@@ -8252,9 +8252,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 475745,
+  "EOS_Progressed": 475746,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29037,6 +29037,11 @@
       "Time": "2023-11-10T08:04:49.3859379+00:00",
       "NumProgressed": 475745,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2023-11-10T10:04:26.8271261+00:00",
+      "NumProgressed": 475746,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -29232,7 +29237,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237872
+      "UsersEstimate": 237873
     },
     {
       "ID": "achievement_club_world_cup",
@@ -29328,7 +29333,7 @@
       "Name": "Superb Strike",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 47574
+      "UsersEstimate": 47575
     },
     {
       "ID": "achievement_goal_scored_in_20_consecutive_matches",
@@ -29368,7 +29373,7 @@
       "Name": "Hat-trick",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 195055
+      "UsersEstimate": 195056
     },
     {
       "ID": "achievement_head_to_head",
@@ -29424,7 +29429,7 @@
       "Name": "Top Of The Class",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109421
+      "UsersEstimate": 109422
     },
     {
       "ID": "achievement_manager_of_the_year",
@@ -29480,7 +29485,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 152238
+      "UsersEstimate": 152239
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -29528,7 +29533,7 @@
       "Name": "International Superstar",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 47574
+      "UsersEstimate": 47575
     },
     {
       "ID": "achievement_reach_top_of_hall_of_fame",
@@ -29552,7 +29557,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 152238
+      "UsersEstimate": 152239
     },
     {
       "ID": "achievement_rushed_signing",
@@ -29600,7 +29605,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237872
+      "UsersEstimate": 237873
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -29608,7 +29613,7 @@
       "Name": "Goal Machine",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 109421
+      "UsersEstimate": 109422
     },
     {
       "ID": "achievement_unbeaten_host_in_fantasy_draft",
@@ -29680,7 +29685,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 237872
+      "UsersEstimate": 237873
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -29720,7 +29725,7 @@
       "Name": "Best In The World",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 47574
+      "UsersEstimate": 47575
     },
     {
       "ID": "career_earnings_over_100_million",
@@ -29736,7 +29741,7 @@
       "Name": "Money, Money, Money",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 57089
+      "UsersEstimate": 57090
     },
     {
       "ID": "career_earnings_over_1_million",
@@ -29831,15 +29836,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 475745,
+      "Progressed": 475746,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2023-11-09T13:57:01.3139341+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:04:08.7382372+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:04:26.8271256+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:02.7258269+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:57:35.8797785+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:04:08.7384012+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:57:37.0071347+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:04:26.8273112+00:00"
 }

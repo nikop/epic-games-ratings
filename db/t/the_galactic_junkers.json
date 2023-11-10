@@ -4,7 +4,7 @@
   "ProductSlug": "the-galactic-junkers-7fef21",
   "Ranking_EOS_Progress": 471,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 447,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-01-09T16:00:00+00:00",
@@ -403,8 +403,8 @@
   "FirstSeenRating": "2023-03-31T05:58:44.0451512+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:41.2389416+00:00",
   "LastChanged": "2023-03-31T05:58:44.0451513+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:04:37.1376939+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:05:01.0500857+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:28.2751448+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:59:11.0408975+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:04:37.1377054+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:59:37.0638265+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:05:01.0501005+00:00"
 }

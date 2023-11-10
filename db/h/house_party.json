@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -379,7 +379,7 @@
   "Tags": [],
   "EOS_Progressed": 6444,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6586,9 +6586,9 @@
       "ID": "TM_Madison",
       "SetID": "bmkn7o4",
       "Name": "The Muse: Madison",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 64
     },
     {
       "ID": "ThatsANiceBush",
@@ -6712,8 +6712,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:04:45.1054937+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:05:10.6513947+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.1273071+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:59:32.7057452+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:04:45.1055713+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:00:04.5776492+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:05:10.6514781+00:00"
 }

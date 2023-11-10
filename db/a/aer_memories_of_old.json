@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23807,
+  "EOS_Progressed": 23808,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 494,
+  "EOS_NewPlayers": 490,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -22303,6 +22303,11 @@
       "Time": "2023-11-10T09:03:29.1447724+00:00",
       "NumProgressed": 23807,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-11-10T10:03:38.5317323+00:00",
+      "NumProgressed": 23808,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 20,
@@ -22362,7 +22367,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -22434,7 +22439,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18331
+      "UsersEstimate": 18332
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22473,15 +22478,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23807,
+      "Progressed": 23808,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:03:29.1447719+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:03:38.5317318+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.680563+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:58:00.4078239+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:03:29.1449191+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:58:07.8908213+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:03:38.5318461+00:00"
 }

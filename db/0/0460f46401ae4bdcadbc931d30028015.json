@@ -561,9 +561,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3366,
+  "EOS_Progressed": 3367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 298,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4676,6 +4676,11 @@
       "Time": "2023-11-10T09:05:24.2082592+00:00",
       "NumProgressed": 3366,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T10:05:57.9146269+00:00",
+      "NumProgressed": 3367,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4696,7 +4701,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "achievement_11",
@@ -4720,7 +4725,7 @@
       "Name": "MVP",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "achievement_14",
@@ -4840,7 +4845,7 @@
       "Name": "Bragging Rights",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "achievement_9",
@@ -4855,7 +4860,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3366,
+      "Progressed": 3367,
       "Completed": 0
     }
   ],
@@ -4863,8 +4868,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-09T22:04:22.9317958+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:05:24.2082588+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:05:57.9146266+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:57:16.3295821+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:05:24.2082955+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:57:12.3123176+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:05:57.9146591+00:00"
 }

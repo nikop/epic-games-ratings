@@ -3,9 +3,9 @@
   "Name": "SPACE ELITE FORCE",
   "ProductSlug": "space-elite-force-a00006",
   "Ranking_EOS_Progress": 463,
-  "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 54,
+  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2023-07-27T13:00:00+00:00",
     "PcReleaseDate": "2018-05-17T08:30:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 56,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 0,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.36,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 7.14,
   "EosHistory": [
     {
       "Time": "2023-07-21T11:01:15.8486502+00:00",
@@ -309,6 +309,11 @@
       "Time": "2023-11-10T08:04:21.0988236+00:00",
       "NumProgressed": 56,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-10T10:04:03.0571403+00:00",
+      "NumProgressed": 56,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-07-21T11:01:15.8491801+00:00",
@@ -327,9 +332,9 @@
       "ID": "destroy_battle_cruiser",
       "SetID": "94981fl",
       "Name": "battle cruiser",
-      "Percentage": 21,
+      "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "destroy_cruiser",
@@ -359,9 +364,9 @@
       "ID": "destroy_heavy_cruiser",
       "SetID": "94981fl",
       "Name": "heavy cruiser",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "destroy_heavy_destroyer",
@@ -399,9 +404,9 @@
       "ID": "invincible",
       "SetID": "94981fl",
       "Name": "the invincible",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "killing_machine",
@@ -561,13 +566,13 @@
       "ID": "94981fl",
       "IsBase": true,
       "Progressed": 56,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-08-06T03:57:23.4648086+00:00",
   "FirstSeenAchievements": "2023-07-21T11:01:15.84918+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:03:49.1749603+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:04:03.0571394+00:00",
   "LastUpdate_AppInfo": "2023-11-03T19:57:06.0361951+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:00:12.5918805+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:03:49.1749879+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:00:55.8586172+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:04:03.0571567+00:00"
 }

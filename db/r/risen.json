@@ -406,9 +406,9 @@
       "ID": "id_42",
       "SetID": "bk9jib6",
       "Name": "Ogre friend",
-      "Percentage": 25,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "id_43",
@@ -631,8 +631,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-08-16T05:58:52.6642985+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:08:50.1761477+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:09:06.3410549+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:17.0231727+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:58:13.1792805+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:08:50.176185+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:58:23.2306968+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:09:06.3410927+00:00"
 }

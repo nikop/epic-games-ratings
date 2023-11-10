@@ -18,7 +18,7 @@
 | No Bites | 53.00% | ~328 |
 | Tear of Freedom | 49.00% | ~303 |
 | Boom Things | 49.00% | ~303 |
-| My Darkest Day | 45.00% | ~278 |
+| My Darkest Day | 46.00% | ~284 |
 | Rhythm Of Willump | 45.00% | ~278 |
 | The Relentless Storm | 42.00% | ~260 |
 | A Tragic Reminder | 41.00% | ~253 |

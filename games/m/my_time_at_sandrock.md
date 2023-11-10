@@ -6,11 +6,11 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 229.00% | ~655 |
+| Adept Assembler | 230.00% | ~658 |
 | Iron Chef | 182.00% | ~521 |
-| Greeno-B-Gone | 113.00% | ~323 |
-| Your Especially Earned Trajectory | 91.00% | ~260 |
-| No Mountain Wide Enough | 58.00% | ~166 |
+| Greeno-B-Gone | 114.00% | ~326 |
+| Your Especially Earned Trajectory | 92.00% | ~263 |
+| No Mountain Wide Enough | 59.00% | ~169 |
 | Can We Keep It? | 57.00% | ~163 |
 | On that Grindset | 56.00% | ~160 |
 | Diamonds are Forever | 45.00% | ~129 |
@@ -19,14 +19,14 @@ Number of Ratings: 892  (23.09.2022)
 | My Time Mansion | 40.00% | ~114 |
 | Financially Secure | 40.00% | ~114 |
 | Unboxing | 40.00% | ~114 |
+| Got Served | 37.00% | ~106 |
 | Knowledge is Power | 36.00% | ~103 |
 | Big Game Hunter | 36.00% | ~103 |
-| Got Served | 36.00% | ~103 |
 | One of the Cool Kids | 36.00% | ~103 |
 | Mole Masher | 36.00% | ~103 |
+| Call Me Fishmael | 36.00% | ~103 |
 | Happier-est Place on Earth | 35.00% | ~100 |
 | You Don't Win Friends With Salad | 35.00% | ~100 |
-| Call Me Fishmael | 35.00% | ~100 |
 | Better Late than Never | 34.00% | ~97 |
 | Chatterbox | 33.00% | ~94 |
 | I Do! | 33.00% | ~94 |
@@ -52,12 +52,12 @@ Number of Ratings: 892  (23.09.2022)
 | Kind of a Big Deal | 14.00% | ~40 |
 | Just What I Always Wanted! | 14.00% | ~40 |
 | Santa In Training | 13.00% | ~37 |
+| Time Flies | 12.00% | ~34 |
 | Pro Gamer | 12.00% | ~34 |
-| Time Flies | 11.00% | ~31 |
 | Cardistry | 11.00% | ~31 |
+| Sandrunning Speedster | 11.00% | ~31 |
 | It Belongs in a Museum! | 11.00% | ~31 |
 | Sepia Toned Memories | 10.00% | ~29 |
-| Sandrunning Speedster | 10.00% | ~29 |
 | Jack of All Trades | 7.00% | ~20 |
 | Got the Receipt? | 7.00% | ~20 |
 | It's High Noon... | 6.00% | ~17 |

@@ -306,7 +306,7 @@
   "Tags": [],
   "EOS_Progressed": 1609,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3715,9 +3715,9 @@
       "ID": "Its_very_spicy",
       "SetID": "85nb4h3",
       "Name": "Spice It Up",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 531
     },
     {
       "ID": "KillAllM2",
@@ -3811,8 +3811,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:05:46.7013733+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:06:25.4095598+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:59:13.1507447+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:05:46.7014077+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:59:39.8749103+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:06:25.409593+00:00"
 }

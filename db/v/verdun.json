@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 270,
   "Ranking_EOS_Progress": 104,
   "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
@@ -1793,9 +1793,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 62970,
+  "EOS_Progressed": 62972,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 579,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -24148,6 +24148,11 @@
       "Time": "2023-11-10T09:05:58.4114349+00:00",
       "NumProgressed": 62970,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-10T10:06:39.5118403+00:00",
+      "NumProgressed": 62972,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -24159,7 +24164,7 @@
       "Name": "Eagle Eye",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 34634
+      "UsersEstimate": 34635
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -24199,7 +24204,7 @@
       "Name": "In Treue Fest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "VERDUN_ACH_ANZAC",
@@ -24215,7 +24220,7 @@
       "Name": "Voor De Koning",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "VERDUN_ACH_BRONZE100",
@@ -24383,7 +24388,7 @@
       "Name": "Extreme Headhunter",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 3148
+      "UsersEstimate": 3149
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS1",
@@ -24391,7 +24396,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 16372
+      "UsersEstimate": 16373
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -24415,7 +24420,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 20150
+      "UsersEstimate": 20151
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -24423,7 +24428,7 @@
       "Name": "Corpseman I",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 25188
+      "UsersEstimate": 25189
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -24447,7 +24452,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 39671
+      "UsersEstimate": 39672
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -24455,7 +24460,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 7556
+      "UsersEstimate": 7557
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -24503,7 +24508,7 @@
       "Name": "Manual Labour I",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 15742
+      "UsersEstimate": 15743
     },
     {
       "ID": "VERDUN_ACH_MELEEKILLS2",
@@ -24527,7 +24532,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 49117
+      "UsersEstimate": 49118
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -24623,22 +24628,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 23299
+      "UsersEstimate": 23300
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 62970,
+      "Progressed": 62972,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2023-11-09T23:59:20.2828304+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:05:58.4114346+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:06:39.51184+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:16.5561604+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:59:38.9412175+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:05:58.4116192+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:00:12.3517802+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:06:39.5119864+00:00"
 }

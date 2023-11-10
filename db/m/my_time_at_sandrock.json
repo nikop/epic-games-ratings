@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 238,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1448,7 +1448,7 @@
   ],
   "EOS_Progressed": 286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2373,9 +2373,9 @@
       "ID": "C_YEAR",
       "SetID": "80dcan0",
       "Name": "Time Flies",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "F_DUEL",
@@ -2413,9 +2413,9 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 229,
+      "Percentage": 230,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 658
     },
     {
       "ID": "M_BACKPACK",
@@ -2565,17 +2565,17 @@
       "ID": "P_REMOVEPOLLUTION",
       "SetID": "80dcan0",
       "Name": "Greeno-B-Gone",
-      "Percentage": 113,
+      "Percentage": 114,
       "XP": 20,
-      "UsersEstimate": 323
+      "UsersEstimate": 326
     },
     {
       "ID": "P_SAVESANDROCK",
       "SetID": "80dcan0",
       "Name": "Your Especially Earned Trajectory",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 20,
-      "UsersEstimate": 260
+      "UsersEstimate": 263
     },
     {
       "ID": "P_SCHOOL",
@@ -2597,9 +2597,9 @@
       "ID": "P_TUNNEL",
       "SetID": "80dcan0",
       "Name": "No Mountain Wide Enough",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 166
+      "UsersEstimate": 169
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -2645,9 +2645,9 @@
       "ID": "S_DANCE",
       "SetID": "80dcan0",
       "Name": "Got Served",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 106
     },
     {
       "ID": "S_FRIEND",
@@ -2725,9 +2725,9 @@
       "ID": "S_SANDRUNNING",
       "SetID": "80dcan0",
       "Name": "Sandrunning Speedster",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "S_SHOWDOWN",
@@ -2781,9 +2781,9 @@
       "ID": "X_FISH_RARE",
       "SetID": "80dcan0",
       "Name": "Call Me Fishmael",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "X_GET_DIAMOND",
@@ -2829,8 +2829,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-09T17:02:56.4103086+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:05:08.4399039+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:05:38.7225485+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:04.0136254+00:00",
-  "LastUpdate_Ratings": "2023-11-10T09:03:01.4546524+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:05:08.4399582+00:00"
+  "LastUpdate_Ratings": "2023-11-10T10:03:01.0346595+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:05:38.7226088+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -211,9 +211,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14794,
+  "EOS_Progressed": 14797,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 203,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -10826,6 +10826,11 @@
       "Time": "2023-11-10T09:04:06.8665762+00:00",
       "NumProgressed": 14794,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-10T10:04:24.5625398+00:00",
+      "NumProgressed": 14797,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11086,7 +11091,7 @@
       "Name": "Safe Cracker",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "33",
@@ -11094,7 +11099,7 @@
       "Name": "Zen Master",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "34",
@@ -11117,13 +11122,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14794,
+      "Progressed": 14797,
       "Completed": 33
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 748,
+      "Progressed": 751,
       "Completed": 477
     }
   ],
@@ -11131,8 +11136,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-03T22:15:14.0368979+00:00",
-  "LastChanged_Achievements": "2023-11-10T09:04:06.8665759+00:00",
+  "LastChanged_Achievements": "2023-11-10T10:04:24.5625394+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-10T08:58:22.4114338+00:00",
-  "LastUpdate_Achievements": "2023-11-10T09:04:06.8666636+00:00"
+  "LastUpdate_Ratings": "2023-11-10T09:58:35.0844617+00:00",
+  "LastUpdate_Achievements": "2023-11-10T10:04:24.562612+00:00"
 }
