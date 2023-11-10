@@ -109,7 +109,7 @@
 | 106 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 420 |
 | 106 | [HITMAN World of Assassination](games/h/hitman_3.md) | 4.78 | 10,617 | 38 |
 | 106 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 4.78 | 2,437 | 104 |
-| 106 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,766 | 120 |
+| 106 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 4.78 | 1,772 | 120 |
 | 106 | [Sackboy™: A Big Adventure](games/s/sackboy™__a_big_adventure.md) | 4.78 | 0 | 548 |
 | 106 | [Sailing Era](games/s/sailing_era.md) | 4.78 | 0 | 548 |
 | 106 | [Sonic Mania](games/s/sonic_mania.md) | 4.78 | 963 | 155 |
@@ -142,19 +142,19 @@
 | 124 | [The Riftbreaker](games/t/the_riftbreaker.md) | 4.76 | 50 | 428 |
 | 124 | [The Telltale Batman Shadows Edition](games/t/the_telltale_batman_shadows_edition.md) | 4.76 | 41 | 454 |
 | 124 | [The Walking Dead: Final Season](games/t/the_walking_dead__final_season.md) | 4.76 | 0 | 548 |
+| 124 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.76 | 0 | 548 |
 | 124 | [Untitled Goose Game](games/u/untitled_goose_game.md) | 4.76 | 0 | 548 |
-| 144 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,445 | 60 |
-| 144 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 814 | 168 |
-| 144 | [Haven](games/h/haven.md) | 4.75 | 0 | 548 |
-| 144 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 548 |
-| 144 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.75 | 0 | 548 |
-| 144 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.75 | 0 | 548 |
-| 144 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.75 | 0 | 548 |
-| 144 | [Remnant 2](games/r/remnant_2.md) | 4.75 | 2,121 | 109 |
-| 144 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 798 | 170 |
-| 144 | [The Machines Arena](games/t/the_machines_arena.md) | 4.75 | 0 | 548 |
-| 144 | [Tormentor x Punisher](games/t/tormentor_x_punisher.md) | 4.75 | 0 | 548 |
-| 144 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 404 | 225 |
+| 145 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 4.75 | 6,445 | 60 |
+| 145 | [Dishonored - Definitive Edition](games/d/dishonored_-_definitive_edition.md) | 4.75 | 814 | 168 |
+| 145 | [Haven](games/h/haven.md) | 4.75 | 0 | 548 |
+| 145 | [Hypnospace Outlaw](games/h/hypnospace_outlaw.md) | 4.75 | 0 | 548 |
+| 145 | [King's Bounty: Crossworlds](games/k/king's_bounty__crossworlds.md) | 4.75 | 0 | 548 |
+| 145 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.75 | 0 | 548 |
+| 145 | [Not For Broadcast](games/n/not_for_broadcast.md) | 4.75 | 0 | 548 |
+| 145 | [Remnant 2](games/r/remnant_2.md) | 4.75 | 2,121 | 109 |
+| 145 | [Riders Republic](games/r/riders_republic.md) | 4.75 | 798 | 170 |
+| 145 | [The Machines Arena](games/t/the_machines_arena.md) | 4.75 | 0 | 548 |
+| 145 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 4.75 | 404 | 225 |
 | 156 | [Bear and Breakfast](games/b/bear_and_breakfast.md) | 4.74 | 0 | 548 |
 | 156 | [Diabotical](games/d/diabotical.md) | 4.74 | 286 | 256 |
 | 156 | [Evil Nun: The Broken Mask](games/e/evil_nun__the_broken_mask.md) | 4.74 | 0 | 548 |
@@ -752,7 +752,7 @@
 | 746 | [Hero's Hour](games/h/hero's_hour.md) | 4.39 | 0 | 548 |
 | 746 | [KARDS - The WWII Card Game](games/k/kards_-_the_wwii_card_game.md) | 4.39 | 597 | 191 |
 | 746 | [MORDHAU](games/m/mordhau.md) | 4.39 | 905 | 158 |
-| 746 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,785 | 36 |
+| 746 | [NBA 2K21](games/n/nba_2k21.md) | 4.39 | 11,786 | 36 |
 | 746 | [Observer: System Redux](games/o/observer__system_redux.md) | 4.39 | 0 | 548 |
 | 746 | [Out of the Park Baseball 22](games/o/out_of_the_park_baseball_22.md) | 4.39 | 0 | 548 |
 | 746 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.39 | 0 | 548 |
@@ -913,7 +913,7 @@
 | 909 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 548 |
 | 909 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 481 |
 | 909 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 531 |
-| 909 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.20 | 143 | 320 |
+| 909 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.20 | 145 | 319 |
 | 909 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.20 | 0 | 548 |
 | 916 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 428 |
 | 916 | [Grand Tactician: The Civil War 1861-1865](games/g/grand_tactician_the_civil_war_1861-1865.md) | 4.19 | 0 | 548 |
