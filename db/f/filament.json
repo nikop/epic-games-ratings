@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -306,7 +306,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205006,
+  "EOS_Progressed": 205007,
   "EOS_Completed": 525,
   "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 1,
@@ -22191,6 +22191,11 @@
       "Time": "2023-11-10T16:05:59.2387963+00:00",
       "NumProgressed": 205006,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-11-10T17:22:40.9769237+00:00",
+      "NumProgressed": 205007,
+      "NumCompleted": 525
     }
   ],
   "TotalAchievements": 29,
@@ -22226,7 +22231,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192706
+      "UsersEstimate": 192707
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -22402,7 +22407,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16400
+      "UsersEstimate": 16401
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -22433,7 +22438,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205006,
+      "Progressed": 205007,
       "Completed": 525
     }
   ],
@@ -22441,8 +22446,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-10T08:01:09.860414+00:00",
-  "LastChanged_Achievements": "2023-11-10T16:05:59.2387959+00:00",
+  "LastChanged_Achievements": "2023-11-10T17:22:40.9769234+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.2818735+00:00",
-  "LastUpdate_Ratings": "2023-11-10T16:00:00.1063697+00:00",
-  "LastUpdate_Achievements": "2023-11-10T16:05:59.238938+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:16:44.0011332+00:00",
+  "LastUpdate_Achievements": "2023-11-10T17:22:40.9770382+00:00"
 }

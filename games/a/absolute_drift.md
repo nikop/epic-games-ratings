@@ -23,11 +23,11 @@ Number of Ratings: 216  (23.09.2022)
 | Drift Line Master | 0.70% | ~10,848 |
 | Insane Skills | 0.70% | ~10,848 |
 | Bacon Donuts | 0.60% | ~9,298 |
-| Double Rainbow | 0.50% | ~7,748 |
+| Double Rainbow | 0.50% | ~7,749 |
 | Washing Machine | 0.40% | ~6,199 |
 | The Completionist | 0.10% | ~1,550 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,549,695 (Ranked 8)  
+Progressed: 1,549,705 (Ranked 8)  
 Completed: 720 (0.05%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 720 (0.05%) (Ranked 298)
 | 2023-11-07 | 1,549,285 | 719 |
 | 2023-11-08 | 1,549,425 | 719 |
 | 2023-11-09 | 1,549,606 | 720 |
-| 2023-11-10 | 1,549,695 | 720 |
+| 2023-11-10 | 1,549,705 | 720 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

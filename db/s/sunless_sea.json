@@ -6,8 +6,8 @@
   "Ranking_Popularity": 280,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 116,
-  "Ranking_EOS_Completed": 323,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_Completed": 324,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
@@ -736,9 +736,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40357,
+  "EOS_Progressed": 40358,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -21581,6 +21581,11 @@
       "Time": "2023-11-10T16:08:38.5503377+00:00",
       "NumProgressed": 40357,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-10T17:24:44.7706635+00:00",
+      "NumProgressed": 40358,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -21632,7 +21637,7 @@
       "Name": "What lies beneath",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ach_contdrownie",
@@ -21664,7 +21669,7 @@
       "Name": "Stone\u0027s Curse",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ach_cursestorm",
@@ -22023,15 +22028,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40357,
+      "Progressed": 40358,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-05T20:00:39.9976702+00:00",
-  "LastChanged_Achievements": "2023-11-10T16:08:38.5503373+00:00",
+  "LastChanged_Achievements": "2023-11-10T17:24:44.7706629+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:36.007109+00:00",
-  "LastUpdate_Ratings": "2023-11-10T16:00:06.5667876+00:00",
-  "LastUpdate_Achievements": "2023-11-10T16:08:38.5504962+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:16:54.2327273+00:00",
+  "LastUpdate_Achievements": "2023-11-10T17:24:44.7707939+00:00"
 }

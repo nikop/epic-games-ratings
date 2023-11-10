@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,563 |
-| Basic in Bulk | 4.00% | ~5,563 |
-| Titan's First Steps | 4.00% | ~5,563 |
-| Disintermediation | 3.00% | ~4,172 |
-| It's Free Real Estate | 3.00% | ~4,172 |
-| Tinkle of Coins | 3.00% | ~4,172 |
-| Capitalism Ho! | 3.00% | ~4,172 |
+| Sponsored by Argon | 4.00% | ~5,564 |
+| Basic in Bulk | 4.00% | ~5,564 |
+| Titan's First Steps | 4.00% | ~5,564 |
+| Disintermediation | 3.00% | ~4,173 |
+| It's Free Real Estate | 3.00% | ~4,173 |
+| Tinkle of Coins | 3.00% | ~4,173 |
+| Capitalism Ho! | 3.00% | ~4,173 |
 | The Daily Grind | 2.00% | ~2,782 |
 | One Easy Payment | 2.00% | ~2,782 |
 | Some Assembly Required | 2.00% | ~2,782 |
@@ -48,6 +48,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 1.00% | ~1,391 |
 | For the Hoard! | 0.90% | ~1,252 |
 | Scrapbooker | 0.90% | ~1,252 |
+| Expansion in Session | 0.90% | ~1,252 |
 | Trash to Treasure | 0.90% | ~1,252 |
 | Seasoned Journeyman | 0.90% | ~1,252 |
 | Special Ingredient | 0.90% | ~1,252 |
@@ -61,7 +62,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | This Power Level...! | 0.80% | ~1,113 |
 | Master of Transmutation | 0.80% | ~1,113 |
 | Hidden Potential | 0.80% | ~1,113 |
-| Expansion in Session | 0.80% | ~1,113 |
 | Cranked up to 11 | 0.80% | ~1,113 |
 | Fit for a King | 0.80% | ~1,113 |
 | Mammonite | 0.80% | ~1,113 |
@@ -95,15 +95,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.70% | ~974 |
 | King's Shadow | 0.70% | ~974 |
 | Master Recycler | 0.70% | ~974 |
-| Constellated | 0.60% | ~834 |
-| Fillin' the Bin | 0.60% | ~834 |
-| Industrial Evolution | 0.60% | ~834 |
-| A Legend is Born | 0.60% | ~834 |
-| Economy of Scarce | 0.60% | ~834 |
-| Thank You Tom Nook | 0.50% | ~695 |
-| Jackpot! | 0.50% | ~695 |
-| Eternal Crusade | 0.50% | ~695 |
-| All Accounted For | 0.50% | ~695 |
+| Constellated | 0.60% | ~835 |
+| Fillin' the Bin | 0.60% | ~835 |
+| Industrial Evolution | 0.60% | ~835 |
+| A Legend is Born | 0.60% | ~835 |
+| Economy of Scarce | 0.60% | ~835 |
+| Thank You Tom Nook | 0.50% | ~696 |
+| Jackpot! | 0.50% | ~696 |
+| Eternal Crusade | 0.50% | ~696 |
+| All Accounted For | 0.50% | ~696 |
 | The Free Encyclopedia | 0.40% | ~556 |
 | All or Nothing! | 0.40% | ~556 |
 | JACKPOT!!! | 0.30% | ~417 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,083 (Ranked 79)  
+Progressed: 139,102 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 139,083 | 180 |
+| 2023-11-10 | 139,102 | 180 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 73)  
 Sum: 27,521 (Ranked 51)  

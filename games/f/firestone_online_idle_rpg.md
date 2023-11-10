@@ -5,51 +5,51 @@ Rating: 4.10 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,015 |
-| World Map | 79.00% | ~1,712 |
-| Temple of Eternals | 57.00% | ~1,235 |
-| Prestigious | 54.00% | ~1,170 |
-| Fellowship Power | 42.00% | ~910 |
-| Guild Power | 26.00% | ~563 |
-| Prestigious x10 | 23.00% | ~498 |
+| Victor | 93.00% | ~2,017 |
+| World Map | 79.00% | ~1,714 |
+| Temple of Eternals | 57.00% | ~1,236 |
+| Prestigious | 54.00% | ~1,171 |
+| Fellowship Power | 42.00% | ~911 |
+| Guild Power | 26.00% | ~564 |
+| Prestigious x10 | 23.00% | ~499 |
 | The game is on | 21.00% | ~455 |
 | Exotic Merchant | 19.00% | ~412 |
-| Dragon Clicker | 17.00% | ~368 |
-| Full Party | 17.00% | ~368 |
-| Inspection | 17.00% | ~368 |
-| Miner Clicker | 17.00% | ~368 |
+| Dragon Clicker | 17.00% | ~369 |
+| Full Party | 17.00% | ~369 |
+| Inspection | 17.00% | ~369 |
+| Miner Clicker | 17.00% | ~369 |
 | Dragon Master | 16.00% | ~347 |
 | Enlightenment | 16.00% | ~347 |
 | Hero inspection | 15.00% | ~325 |
 | Lieutenant | 15.00% | ~325 |
-| Mysterious Rock | 14.00% | ~303 |
-| Natural Talent | 14.00% | ~303 |
-| Superior | 14.00% | ~303 |
-| The Unstoppable | 14.00% | ~303 |
+| Mysterious Rock | 14.00% | ~304 |
+| Natural Talent | 14.00% | ~304 |
+| Superior | 14.00% | ~304 |
+| The Unstoppable | 14.00% | ~304 |
 | Milestone collector | 13.00% | ~282 |
 | Hunter | 12.00% | ~260 |
 | Scientist | 12.00% | ~260 |
 | The power of Awakening | 12.00% | ~260 |
-| Challenger | 11.00% | ~238 |
-| Daily Quest Completionist | 11.00% | ~238 |
-| Doing My Part | 11.00% | ~238 |
-| Four Leaf Clover | 11.00% | ~238 |
-| Mastery | 11.00% | ~238 |
-| Moving Up The Ladder | 11.00% | ~238 |
-| Relic Of The Past | 11.00% | ~238 |
-| Scroll Master | 11.00% | ~238 |
+| Challenger | 11.00% | ~239 |
+| Daily Quest Completionist | 11.00% | ~239 |
+| Doing My Part | 11.00% | ~239 |
+| Four Leaf Clover | 11.00% | ~239 |
+| Mastery | 11.00% | ~239 |
+| Moving Up The Ladder | 11.00% | ~239 |
+| Relic Of The Past | 11.00% | ~239 |
+| Scroll Master | 11.00% | ~239 |
 | Frostfire Liberator | 10.00% | ~217 |
 | Master Enchanter | 10.00% | ~217 |
 | The father of Dragons | 10.00% | ~217 |
 | Here We Go Again | 9.00% | ~195 |
 | Trader | 9.00% | ~195 |
-| Blueprint Upgrades | 8.00% | ~173 |
-| Crystal Mining | 8.00% | ~173 |
-| Dragon Slayer | 8.00% | ~173 |
-| Enchanting skill | 8.00% | ~173 |
-| Engineer Mastery | 8.00% | ~173 |
-| The Expeditioner | 8.00% | ~173 |
-| Weekly Quest Completionist | 8.00% | ~173 |
+| Blueprint Upgrades | 8.00% | ~174 |
+| Crystal Mining | 8.00% | ~174 |
+| Dragon Slayer | 8.00% | ~174 |
+| Enchanting skill | 8.00% | ~174 |
+| Engineer Mastery | 8.00% | ~174 |
+| The Expeditioner | 8.00% | ~174 |
+| Weekly Quest Completionist | 8.00% | ~174 |
 | How Do You Turn This On? | 7.00% | ~152 |
 | Lock And Load | 7.00% | ~152 |
 | Missions Dedication | 7.00% | ~152 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 958)
 | War Machines Army | 0.20% | ~4 |
 | Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,167 (Ranked 216)  
+Progressed: 2,169 (Ranked 216)  
 Completed: 2 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 2 (0.09%) (Ranked 275)
 | 2023-11-07 | 2,119 | 2 |
 | 2023-11-08 | 2,124 | 2 |
 | 2023-11-09 | 2,129 | 2 |
-| 2023-11-10 | 2,167 | 2 |
+| 2023-11-10 | 2,169 | 2 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 491)  
 Sum: 57 (Ranked 471)  

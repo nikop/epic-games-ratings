@@ -10,12 +10,12 @@ Rating: 4.57 (Ranked 469)
 | Philanthropist | 82.00% | ~27 |
 | Adventurer | 79.00% | ~26 |
 | The brave little tailor | 61.00% | ~20 |
+| Samaritan | 61.00% | ~20 |
 | Archer | 61.00% | ~20 |
-| Samaritan | 58.00% | ~19 |
 | Field hand | 55.00% | ~18 |
 | Well-to-do | 55.00% | ~18 |
+| The merciful one | 52.00% | ~17 |
 | Ladies' man | 52.00% | ~17 |
-| The merciful one | 48.00% | ~16 |
 | Ferocious wild boars | 36.00% | ~12 |
 | Idiot | 36.00% | ~12 |
 | Family man | 33.00% | ~11 |
@@ -32,10 +32,10 @@ Rating: 4.57 (Ranked 469)
 | Master detective | 24.00% | ~8 |
 | Ghost hunter | 21.00% | ~7 |
 | Fence | 21.00% | ~7 |
+| Little hero | 18.00% | ~6 |
 | Defender | 18.00% | ~6 |
 | Pandora's box | 18.00% | ~6 |
 | Safecracker | 18.00% | ~6 |
-| Little hero | 15.00% | ~5 |
 | Master thief | 15.00% | ~5 |
 | Freedom fighter | 12.00% | ~4 |
 | Showdown | 12.00% | ~4 |

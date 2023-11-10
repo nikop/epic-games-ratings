@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -793,7 +793,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3344,
+  "EOS_Progressed": 3345,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
@@ -5073,6 +5073,11 @@
       "Time": "2023-11-10T16:05:51.2284536+00:00",
       "NumProgressed": 3344,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T17:22:30.0769021+00:00",
+      "NumProgressed": 3345,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5093,7 +5098,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1839
+      "UsersEstimate": 1840
     },
     {
       "ID": "achievement_11",
@@ -5101,7 +5106,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_12",
@@ -5117,7 +5122,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "achievement_14",
@@ -5125,7 +5130,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1304
+      "UsersEstimate": 1305
     },
     {
       "ID": "achievement_15",
@@ -5197,7 +5202,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_4",
@@ -5213,7 +5218,7 @@
       "Name": "Already in Progress",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_6",
@@ -5221,7 +5226,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "achievement_7",
@@ -5252,7 +5257,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3344,
+      "Progressed": 3345,
       "Completed": 0
     }
   ],
@@ -5260,8 +5265,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-04T02:25:15.9008043+00:00",
-  "LastChanged_Achievements": "2023-11-10T16:05:51.2284532+00:00",
+  "LastChanged_Achievements": "2023-11-10T17:22:30.0769018+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:12.3381259+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:57:38.2799922+00:00",
-  "LastUpdate_Achievements": "2023-11-10T16:05:51.2284926+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:05:19.3746536+00:00",
+  "LastUpdate_Achievements": "2023-11-10T17:22:30.0769369+00:00"
 }

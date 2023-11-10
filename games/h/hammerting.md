@@ -1,7 +1,7 @@
 # Hammerting
 [Store](https://store.epicgames.com/en-US/p/hammerting)  
 [View Rawdata](../../db/h/hammerting.json)  
-Rating: 4.30 (Ranked 833)  
+Rating: 4.32 (Ranked 821)  
 Number of Ratings: 21  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -25,3 +25,4 @@ Number of Ratings: 21  (23.09.2022)
 | 2023-04-22 | 4.37 | - | 0 | 0 |
 | 2023-05-02 | 4.31 | - | 0 | 0 |
 | 2023-05-10 | 4.30 | - | 0 | 0 |
+| 2023-11-10 | 4.32 | - | 0 | 0 |

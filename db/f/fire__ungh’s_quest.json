@@ -2,9 +2,9 @@
   "ID": "094d313bbeb84db69dd7bee1bd885c4d",
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
-  "Ranking_EOS_Progress": 344,
+  "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
@@ -725,9 +725,9 @@
       "ID": "25_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 25",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "30_Coins",
@@ -773,9 +773,9 @@
       "ID": "Hit_Leatherbat_with_Coke_Bottle_in_010",
       "SetID": "6od1ndi",
       "Name": "Kokakoka",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "Hit_the_UFO_in_Space_Invaders_in_006",
@@ -910,8 +910,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-10T16:08:10.4114163+00:00",
+  "LastChanged_Achievements": "2023-11-10T17:24:05.670186+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:45.8899995+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:58:27.0444551+00:00",
-  "LastUpdate_Achievements": "2023-11-10T16:08:10.4114361+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:14:03.77297+00:00",
+  "LastUpdate_Achievements": "2023-11-10T17:24:05.670202+00:00"
 }

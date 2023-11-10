@@ -6955,9 +6955,9 @@
       "Count": 3774
     }
   ],
-  "EOS_Progressed": 139083,
+  "EOS_Progressed": 139102,
   "EOS_Completed": 180,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27810,6 +27810,11 @@
       "Time": "2023-11-10T16:05:03.4264953+00:00",
       "NumProgressed": 139083,
       "NumCompleted": 180
+    },
+    {
+      "Time": "2023-11-10T17:21:24.1539515+00:00",
+      "NumProgressed": 139102,
+      "NumCompleted": 180
     }
   ],
   "TotalAchievements": 112,
@@ -27885,7 +27890,7 @@
       "Name": "Constellated",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ashley_a",
@@ -27989,7 +27994,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5563
+      "UsersEstimate": 5564
     },
     {
       "ID": "chest02",
@@ -28053,7 +28058,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5563
+      "UsersEstimate": 5564
     },
     {
       "ID": "commonres02",
@@ -28077,7 +28082,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "craft01",
@@ -28085,7 +28090,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "craft02",
@@ -28109,7 +28114,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "craft05",
@@ -28197,15 +28202,15 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "expansion02",
       "SetID": "anfd17p",
       "Name": "Expansion in Session",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1252
     },
     {
       "ID": "expansion03",
@@ -28213,7 +28218,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "fullmoon",
@@ -28269,7 +28274,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "fuseuncommon",
@@ -28293,7 +28298,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "gold02",
@@ -28381,7 +28386,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "jackslot03",
@@ -28549,7 +28554,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "quest04",
@@ -28597,7 +28602,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4173
     },
     {
       "ID": "sell02",
@@ -28637,7 +28642,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5563
+      "UsersEstimate": 5564
     },
     {
       "ID": "twinenchant01",
@@ -28653,7 +28658,7 @@
       "Name": "All Accounted For",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "uncommonres01",
@@ -28677,7 +28682,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "workers01",
@@ -28716,15 +28721,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139083,
+      "Progressed": 139102,
       "Completed": 180
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-10T09:59:37.9135746+00:00",
-  "LastChanged_Achievements": "2023-11-10T16:05:03.4264949+00:00",
+  "LastChanged_Achievements": "2023-11-10T17:21:24.1539512+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:59:11.6915204+00:00",
-  "LastUpdate_Achievements": "2023-11-10T16:05:03.4266964+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:15:29.6090141+00:00",
+  "LastUpdate_Achievements": "2023-11-10T17:21:24.1541302+00:00"
 }

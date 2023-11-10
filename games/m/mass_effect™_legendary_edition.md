@@ -56,11 +56,11 @@
 | Catharsis | 31.00% | ~339 |
 | The Cure | 31.00% | ~339 |
 | Big Game Hunter | 31.00% | ~339 |
+| Heart of Darkness | 31.00% | ~339 |
 | Driven | 31.00% | ~339 |
 | Fade Away | 30.00% | ~328 |
 | Agent | 30.00% | ~328 |
 | Revenge! | 30.00% | ~328 |
-| Heart of Darkness | 30.00% | ~328 |
 | Bringer of War | 30.00% | ~328 |
 | Focused | 29.00% | ~317 |
 | Archivist | 29.00% | ~317 |

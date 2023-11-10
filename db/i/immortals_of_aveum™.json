@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
@@ -1121,6 +1121,11 @@
       "Time": "2023-11-10T16:06:12.5598833+00:00",
       "NumProgressed": 238,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T17:23:00.2492702+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1133,15 +1138,15 @@
       "Name": "Unforeseen",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "achievement_11",
@@ -1165,7 +1170,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_14",
@@ -1197,7 +1202,7 @@
       "Name": "Lights Army",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "achievement_18",
@@ -1275,9 +1280,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_36",
@@ -1309,7 +1314,7 @@
       "Name": "No More Names",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_41",
@@ -1349,7 +1354,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_46",
@@ -1363,17 +1368,17 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 186
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "achievement_5",
@@ -1508,7 +1513,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 1
     }
   ],
@@ -1516,8 +1521,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-10T16:06:12.5598829+00:00",
+  "LastChanged_Achievements": "2023-11-10T17:23:00.2492698+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:58:27.4984314+00:00",
-  "LastUpdate_Achievements": "2023-11-10T16:06:12.5599177+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:14:04.5921936+00:00",
+  "LastUpdate_Achievements": "2023-11-10T17:23:00.2493102+00:00"
 }

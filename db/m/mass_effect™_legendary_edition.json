@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1092,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3917,9 +3917,9 @@
       "ID": "achievement_78",
       "SetID": "d252ncf",
       "Name": "Heart of Darkness",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 328
+      "UsersEstimate": 339
     },
     {
       "ID": "achievement_79",
@@ -4121,8 +4121,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-10T16:06:15.8648857+00:00",
+  "LastChanged_Achievements": "2023-11-10T17:23:04.8619126+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-10T16:02:48.7182555+00:00",
-  "LastUpdate_Achievements": "2023-11-10T16:06:15.8650361+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:17:40.8688401+00:00",
+  "LastUpdate_Achievements": "2023-11-10T17:23:04.8620981+00:00"
 }

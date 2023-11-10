@@ -15,7 +15,7 @@
 | Artistic fool | 34.00% | ~51 |
 | Let the boot talk | 32.00% | ~48 |
 | Shadow on the wall | 27.00% | ~40 |
-| Chapter II | 26.00% | ~39 |
+| Chapter II | 27.00% | ~40 |
 | Handyman | 23.00% | ~34 |
 | Bubblekillerfamily | 23.00% | ~34 |
 | Achoo!! | 23.00% | ~34 |

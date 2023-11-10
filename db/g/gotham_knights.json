@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4073,9 +4073,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76228,
+  "EOS_Progressed": 76230,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22123,6 +22123,11 @@
       "Time": "2023-11-10T15:03:36.5893328+00:00",
       "NumProgressed": 76228,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-10T17:18:37.8682742+00:00",
+      "NumProgressed": 76230,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22182,7 +22187,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17532
+      "UsersEstimate": 17533
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -22214,7 +22219,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9147
+      "UsersEstimate": 9148
     },
     {
       "ID": "APPLY_STATUS",
@@ -22310,7 +22315,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9147
+      "UsersEstimate": 9148
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -22374,7 +22379,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14483
+      "UsersEstimate": 14484
     },
     {
       "ID": "FREEZE_3",
@@ -22446,7 +22451,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19057
+      "UsersEstimate": 19058
     },
     {
       "ID": "HARLEY_3",
@@ -22462,7 +22467,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12196
+      "UsersEstimate": 12197
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22478,7 +22483,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38876
+      "UsersEstimate": 38877
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22534,7 +22539,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19057
+      "UsersEstimate": 19058
     },
     {
       "ID": "MYSTERY_03",
@@ -22542,7 +22547,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16770
+      "UsersEstimate": 16771
     },
     {
       "ID": "MYSTERY_04",
@@ -22582,7 +22587,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9147
+      "UsersEstimate": 9148
     },
     {
       "ID": "SECRET_CACHE",
@@ -22621,13 +22626,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76228,
+      "Progressed": 76230,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46508,
+      "Progressed": 46510,
       "Completed": 2673
     }
   ],
@@ -22635,8 +22640,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-10T14:59:34.5468188+00:00",
-  "LastChanged_Achievements": "2023-11-10T16:03:27.6164278+00:00",
+  "LastChanged_Achievements": "2023-11-10T17:18:37.8682738+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:59:10.4657298+00:00",
-  "LastUpdate_Achievements": "2023-11-10T16:03:27.6165703+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:15:27.8128128+00:00",
+  "LastUpdate_Achievements": "2023-11-10T17:18:37.8683854+00:00"
 }

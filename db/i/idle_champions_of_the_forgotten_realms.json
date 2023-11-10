@@ -7963,9 +7963,9 @@
       "Count": 3512
     }
   ],
-  "EOS_Progressed": 234309,
+  "EOS_Progressed": 234320,
   "EOS_Completed": 2441,
-  "EOS_NewPlayers": 753,
+  "EOS_NewPlayers": 763,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -30803,6 +30803,11 @@
       "Time": "2023-11-10T16:05:59.1660804+00:00",
       "NumProgressed": 234309,
       "NumCompleted": 2441
+    },
+    {
+      "Time": "2023-11-10T17:22:41.7971005+00:00",
+      "NumProgressed": 234320,
+      "NumCompleted": 2441
     }
   ],
   "TotalAchievements": 532,
@@ -35046,7 +35051,7 @@
       "Name": "Tomb of Champions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     },
     {
       "ID": "objective_completed_1552",
@@ -35069,21 +35074,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 200583,
+      "Progressed": 200594,
       "Completed": 3913
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 234309,
+      "Progressed": 234320,
       "Completed": 2441
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-10T14:58:42.9125092+00:00",
-  "LastChanged_Achievements": "2023-11-10T16:05:59.1660801+00:00",
+  "LastChanged_Achievements": "2023-11-10T17:22:41.7971+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.9071998+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:58:24.1015769+00:00",
-  "LastUpdate_Achievements": "2023-11-10T16:05:59.1682442+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:13:56.0287121+00:00",
+  "LastUpdate_Achievements": "2023-11-10T17:22:41.7992167+00:00"
 }

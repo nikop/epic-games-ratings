@@ -4,7 +4,7 @@
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2089,
+  "EOS_Progressed": 2090,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -4677,6 +4677,11 @@
       "Time": "2023-11-10T16:09:07.1874459+00:00",
       "NumProgressed": 2089,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T17:25:24.2602507+00:00",
+      "NumProgressed": 2090,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4689,7 +4694,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 898
+      "UsersEstimate": 899
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4761,7 +4766,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -4897,7 +4902,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4975,9 +4980,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 543
+      "UsersEstimate": 564
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4985,7 +4990,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -4993,7 +4998,7 @@
       "Name": "Champagne Spray",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -5080,14 +5085,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2089,
+      "Progressed": 2090,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-10T16:09:07.1874456+00:00",
+  "LastChanged_Achievements": "2023-11-10T17:25:24.2602504+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-10T15:58:03.9356173+00:00",
-  "LastUpdate_Achievements": "2023-11-10T16:09:07.1875083+00:00"
+  "LastUpdate_Ratings": "2023-11-10T17:10:11.0662464+00:00",
+  "LastUpdate_Achievements": "2023-11-10T17:25:24.2602941+00:00"
 }

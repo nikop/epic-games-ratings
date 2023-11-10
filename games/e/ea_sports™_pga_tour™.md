@@ -5,14 +5,14 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Star Power | 85.00% | ~440 |
+| From Way Downtown | 66.00% | ~342 |
 | Makin' the Cut | 66.00% | ~342 |
-| From Way Downtown | 65.00% | ~337 |
 | Clean Sheet | 61.00% | ~316 |
 | Winner's Circle | 57.00% | ~295 |
 | Holey Moley | 54.00% | ~280 |
 | Bomb's Away | 51.00% | ~264 |
 | Perfect Round | 47.00% | ~243 |
-| Competitor's Spirit | 39.00% | ~202 |
+| Competitor's Spirit | 40.00% | ~207 |
 | The Strongest Field in Golf | 32.00% | ~166 |
 | Ace in the Hole | 31.00% | ~161 |
 | From Many, One | 29.00% | ~150 |
