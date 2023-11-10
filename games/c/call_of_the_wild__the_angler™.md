@@ -47,8 +47,8 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,471 (Ranked 177)  
-Completed: 0 (0.00%) (Ranked 346)  
+Progressed: 6,472 (Ranked 177)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,7 +251,7 @@ Completed: 0 (0.00%) (Ranked 346)
 | 2023-11-07 | 6,443 | 0 |
 | 2023-11-08 | 6,452 | 0 |
 | 2023-11-09 | 6,467 | 0 |
-| 2023-11-10 | 6,471 | 0 |
+| 2023-11-10 | 6,472 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 190 (Ranked 403)  

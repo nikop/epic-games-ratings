@@ -2,10 +2,10 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 175,
+  "EOS_Progressed": 176,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -646,6 +646,11 @@
       "Time": "2023-11-10T08:05:37.1495591+00:00",
       "NumProgressed": 175,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T15:05:00.3004882+00:00",
+      "NumProgressed": 176,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -655,9 +660,9 @@
       "ID": "Vanilla_100OnACCRoll",
       "SetID": "27kik8p",
       "Name": "Randomized",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -713,7 +718,7 @@
       "Name": "Conciliator",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -785,7 +790,7 @@
       "Name": "Scholar",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_CodexTier3",
@@ -993,7 +998,7 @@
       "Name": "Acquaintance",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1153,7 +1158,7 @@
       "Name": "Tail-wind",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_MovementTier2",
@@ -1271,9 +1276,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 100
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1337,7 +1342,7 @@
       "Name": "The Package",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1448,7 +1453,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 175,
+      "Progressed": 176,
       "Completed": 0
     }
   ],
@@ -1456,8 +1461,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:04:27.8151326+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:05:00.3004881+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.0695346+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:02:44.804165+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:04:27.8152185+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:03:01.4586004+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:05:00.3006056+00:00"
 }

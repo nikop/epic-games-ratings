@@ -6,9 +6,9 @@
   "Ranking_Popularity": 175,
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 81,
-  "Ranking_EOS_Completed": 315,
+  "Ranking_EOS_Completed": 316,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130654,
+  "EOS_Progressed": 130656,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21497,6 +21497,11 @@
       "Time": "2023-11-10T14:03:06.7564271+00:00",
       "NumProgressed": 130654,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-10T15:03:28.4302524+00:00",
+      "NumProgressed": 130656,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21588,7 +21593,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36583
+      "UsersEstimate": 36584
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21620,7 +21625,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27437
+      "UsersEstimate": 27438
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -21668,7 +21673,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13065
+      "UsersEstimate": 13066
     },
     {
       "ID": "ACH_GLUTEN",
@@ -21827,15 +21832,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130654,
+      "Progressed": 130656,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:03:06.7564266+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:03:28.4302519+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:57:07.9452926+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:03:06.7565412+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:57:15.7231117+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:03:28.4303962+00:00"
 }

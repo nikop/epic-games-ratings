@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~829 |
-| Pork Chopped | 2.00% | ~829 |
+| Whatever It Takes | 2.00% | ~830 |
+| Pork Chopped | 2.00% | ~830 |
 | One of Us | 1.00% | ~415 |
-| Hotel California | 0.60% | ~4,295 |
-| Welcome To Hell-A | 0.60% | ~4,295 |
+| Hotel California | 0.60% | ~4,296 |
+| Welcome To Hell-A | 0.60% | ~4,296 |
 | Dr. Reed, I Presume? | 0.50% | ~3,580 |
 | Git Gutte! | 0.50% | ~3,580 |
 | Anger Management | 0.50% | ~3,580 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,911 (Ranked 21)  
+Progressed: 715,934 (Ranked 21)  
 Completed: 2,371 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,11 +261,11 @@ Completed: 2,371 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,911 | 2,371 |
+| 2023-11-10 | 715,934 | 2,371 |
 ## Awards
-Max (Great Boss Battles): 7,249  (Ranked 54)  
+Max (Great Boss Battles): 7,249  (Ranked 53)  
 Sum: 11,001 (Ranked 86)  
-Diff (max vs sum): -32  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,249 |

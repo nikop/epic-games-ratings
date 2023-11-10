@@ -228,6 +228,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Avenger | 0.10% | ~15 |
 | Destroyer | 0.10% | ~15 |
 | Rebuilder | 0.10% | ~15 |
+| Restorer | 0.10% | ~15 |
 | White Death | 0.10% | ~15 |
 | Council of Madness | 0.10% | ~15 |
 | Oracle in Delphi | 0.10% | ~15 |
@@ -341,7 +342,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.10% | ~15 |
 | The Hekau Khasut Slaves | 0.10% | ~15 |
 | Liberator | 0.00% | ~0 |
-| Restorer | 0.00% | ~0 |
 | Via Recta Souk in Damascus | 0.00% | ~0 |
 | The Eastern Empire | 0.00% | ~0 |
 | Mausoleum in Halicarnassus | 0.00% | ~0 |

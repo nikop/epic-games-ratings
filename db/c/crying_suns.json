@@ -6,9 +6,9 @@
   "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 40,
-  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470638,
+  "EOS_Progressed": 470639,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22013,6 +22013,11 @@
       "Time": "2023-11-10T14:09:21.4238486+00:00",
       "NumProgressed": 470638,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-10T15:09:32.9086313+00:00",
+      "NumProgressed": 470639,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22048,7 +22053,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103540
+      "UsersEstimate": 103541
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -22112,7 +22117,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310621
+      "UsersEstimate": 310622
     },
     {
       "ID": "achievement_story_landa",
@@ -22456,7 +22461,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141191
+      "UsersEstimate": 141192
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -22536,7 +22541,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103540
+      "UsersEstimate": 103541
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -22655,21 +22660,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14572,
+      "Progressed": 14573,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470638,
+      "Progressed": 470639,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:09:21.4238481+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:09:32.9086309+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.6471409+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:59:32.8834964+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:09:21.4239998+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:00:02.3124286+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:09:32.9087784+00:00"
 }

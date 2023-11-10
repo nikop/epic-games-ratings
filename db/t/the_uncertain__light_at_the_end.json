@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 566,
+  "EOS_Progressed": 567,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -908,6 +908,11 @@
       "Time": "2023-11-05T20:04:55.1367369+00:00",
       "NumProgressed": 566,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-10T15:05:34.8066973+00:00",
+      "NumProgressed": 567,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -943,7 +948,7 @@
       "Name": "Bosom Buddies",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "Doors_Closing",
@@ -1039,7 +1044,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "Leisurely_Strol",
@@ -1150,7 +1155,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 566,
+      "Progressed": 567,
       "Completed": 6
     }
   ],
@@ -1158,8 +1163,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:04:58.2454265+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:05:34.8066968+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:24.9559002+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:02:52.4454911+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:04:58.2454486+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:03:10.2717364+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:05:34.8067197+00:00"
 }

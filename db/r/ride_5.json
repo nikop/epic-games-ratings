@@ -3,9 +3,9 @@
   "Name": "RIDE 5",
   "ProductSlug": "ride-5",
   "Ranking_EOS_Progress": 218,
-  "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2086,
+  "EOS_Progressed": 2088,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4667,6 +4667,11 @@
       "Time": "2023-11-10T14:09:20.0232823+00:00",
       "NumProgressed": 2086,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T15:09:31.4567491+00:00",
+      "NumProgressed": 2088,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4679,7 +4684,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4711,7 +4716,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4735,7 +4740,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -4767,7 +4772,7 @@
       "Name": "Legendary!!!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4783,7 +4788,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -4887,7 +4892,7 @@
       "Name": "Clean Race",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -4903,7 +4908,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -4935,7 +4940,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -4967,7 +4972,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -4975,7 +4980,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 918
+      "UsersEstimate": 919
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5031,7 +5036,7 @@
       "Name": "Rivals to the End",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5070,14 +5075,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2086,
+      "Progressed": 2088,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:09:20.0232819+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:09:31.4567487+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:58:04.4132228+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:09:20.0233327+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:58:20.0565252+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:09:31.4568182+00:00"
 }

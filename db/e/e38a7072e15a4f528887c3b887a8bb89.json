@@ -2,10 +2,10 @@
   "ID": "e38a7072e15a4f528887c3b887a8bb89",
   "Name": "Outbreak The New Nightmare Revisited",
   "ProductSlug": "outbreak-the-new-nightmare-revisited-90517a",
-  "Ranking_EOS_Progress": 624,
-  "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Progress": 625,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-08T15:00:00+00:00",
     "PcReleaseDate": "2023-11-08T15:00:00+00:00",
@@ -116,17 +116,17 @@
       "ID": "SWEET_LIFE_ACH",
       "SetID": "c01b5ga",
       "Name": "Sweet Life",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TACTICAL_MEASURES_ACH",
       "SetID": "c01b5ga",
       "Name": "Tactical Measures",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_LAST_STAND_ACH",
@@ -154,8 +154,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:05:59.8054311+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:06:44.3104656+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:36.0936228+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:57:58.3028136+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:05:59.8054398+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:58:12.6970695+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:06:44.3104732+00:00"
 }

@@ -1,16 +1,16 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 432)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,299 |
-| Imprint | 4.00% | ~6,299 |
-| The Hunt | 3.00% | ~4,724 |
-| Weeper | 3.00% | ~4,724 |
-| Ravenous | 3.00% | ~4,724 |
+| Taste | 4.00% | ~6,300 |
+| Imprint | 4.00% | ~6,300 |
+| The Hunt | 3.00% | ~4,725 |
+| Weeper | 3.00% | ~4,725 |
+| Ravenous | 3.00% | ~4,725 |
 | Silenced Whispers | 2.00% | ~3,150 |
 | Devourer | 2.00% | ~3,150 |
 | Scion | 1.00% | ~1,571 |
@@ -21,40 +21,40 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 1.00% | ~1,575 |
 | Yank | 1.00% | ~1,575 |
 | Sharpened Vessel | 1.00% | ~1,575 |
-| Shapely | 0.90% | ~1,417 |
+| Shapely | 0.90% | ~1,418 |
 | Glare | 0.90% | ~1,414 |
 | Predator | 0.80% | ~1,260 |
-| Assimilation | 0.70% | ~1,102 |
-| Host | 0.70% | ~1,099 |
-| Celebration | 0.70% | ~1,102 |
+| Assimilation | 0.70% | ~1,103 |
+| Host | 0.70% | ~1,100 |
+| Celebration | 0.70% | ~1,103 |
 | Hunt Down | 0.60% | ~945 |
 | Inevitable | 0.60% | ~945 |
 | All-Seeing | 0.60% | ~945 |
-| Breath | 0.50% | ~787 |
-| Artisan | 0.50% | ~787 |
-| Hush | 0.50% | ~787 |
-| Breathsmith | 0.50% | ~787 |
+| Breath | 0.50% | ~788 |
+| Artisan | 0.50% | ~788 |
+| Hush | 0.50% | ~788 |
+| Breathsmith | 0.50% | ~788 |
 | Dream | 0.50% | ~785 |
 | Unwrap the Gift | 0.40% | ~630 |
 | Passage | 0.40% | ~630 |
-| Bloodhunter | 0.30% | ~472 |
+| Bloodhunter | 0.30% | ~473 |
 | Zygote | 0.30% | ~471 |
-| Kinship | 0.30% | ~472 |
+| Kinship | 0.30% | ~473 |
 | Kin | 0.30% | ~471 |
 | Listen | 0.30% | ~471 |
-| Proportions | 0.30% | ~472 |
+| Proportions | 0.30% | ~473 |
 | Weakness | 0.20% | ~315 |
 | Generous | 0.20% | ~315 |
 | Enrich | 0.20% | ~314 |
 | Intensify | 0.20% | ~314 |
-| Spiral Heart | 0.10% | ~157 |
-| Skinmaker | 0.10% | ~157 |
-| Instruments | 0.10% | ~157 |
+| Spiral Heart | 0.10% | ~158 |
+| Skinmaker | 0.10% | ~158 |
+| Instruments | 0.10% | ~158 |
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,483 (Ranked 76)  
-Completed: 1 (0.00%) (Ranked 346)  
+Progressed: 157,510 (Ranked 76)  
+Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -234,7 +234,7 @@ Completed: 1 (0.00%) (Ranked 346)
 | 2023-11-07 | 157,118 | 1 |
 | 2023-11-08 | 157,236 | 1 |
 | 2023-11-09 | 157,408 | 1 |
-| 2023-11-10 | 157,483 | 1 |
+| 2023-11-10 | 157,510 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 426)  
 Sum: 354 (Ranked 349)  
@@ -388,3 +388,4 @@ Diff (max vs sum): 77
 | 2023-11-05 | 4.59 | - | 50 | 350 |
 | 2023-11-07 | 4.59 | - | 50 | 351 |
 | 2023-11-09 | 4.59 | - | 51 | 354 |
+| 2023-11-10 | 4.58 | - | 51 | 354 |

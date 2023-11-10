@@ -1,24 +1,24 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 446)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,685 |
+| Sowwy! | 35.00% | ~82,688 |
 | Alt+F4 | 8.00% | ~18,900 |
-| Where's that freaking Dwarf? | 7.00% | ~16,537 |
+| Where's that freaking Dwarf? | 7.00% | ~16,538 |
 | Déjà vu | 6.00% | ~14,175 |
 | Sock! SOCK! | 5.00% | ~11,812 |
 | A beer, two curses, three companions | 4.00% | ~9,450 |
 | GG EZ | 4.00% | ~9,450 |
 | DM intervention | 4.00% | ~9,450 |
 | Speedrun | 4.00% | ~9,450 |
-| Livin' in a dwarven paradise | 3.00% | ~7,087 |
-| Way of the Wimp | 3.00% | ~7,087 |
-| The plot thickens... At the tavern | 3.00% | ~7,087 |
-| Fireproof Wizardess | 3.00% | ~7,087 |
+| Livin' in a dwarven paradise | 3.00% | ~7,088 |
+| Way of the Wimp | 3.00% | ~7,088 |
+| The plot thickens... At the tavern | 3.00% | ~7,088 |
+| Fireproof Wizardess | 3.00% | ~7,088 |
 | Shiny and Crôm | 2.00% | ~4,725 |
 | The demons' feast | 2.00% | ~4,725 |
 | The Great Library | 2.00% | ~4,725 |
@@ -47,8 +47,8 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 0.80% | ~1,890 |
 | We come in peace | 0.70% | ~1,654 |
 | Lëgal Legend | 0.70% | ~1,654 |
-| Holistic Adventuring Party | 0.60% | ~1,417 |
-| An old poacher makes the best gamekeeper | 0.60% | ~1,417 |
+| Holistic Adventuring Party | 0.60% | ~1,418 |
+| An old poacher makes the best gamekeeper | 0.60% | ~1,418 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,181 |
 | Law and Order | 0.50% | ~1,181 |
 | It's been a hard day's night | 0.40% | ~945 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,244 (Ranked 61)  
-Completed: 7 (0.00%) (Ranked 346)  
+Progressed: 236,250 (Ranked 61)  
+Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,7 +258,7 @@ Completed: 7 (0.00%) (Ranked 346)
 | 2023-11-07 | 235,846 | 7 |
 | 2023-11-08 | 235,997 | 7 |
 | 2023-11-09 | 236,158 | 7 |
-| 2023-11-10 | 236,244 | 7 |
+| 2023-11-10 | 236,250 | 7 |
 ## Awards
 Max (Character Customization): 227  (Ranked 272)  
 Sum: 455 (Ranked 329)  

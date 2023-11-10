@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1136,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
@@ -3289,6 +3289,11 @@
       "Time": "2023-11-10T11:10:12.2109+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T15:09:28.0290725+00:00",
+      "NumProgressed": 1136,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3435,9 +3440,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_26",
@@ -3533,7 +3538,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_37",
@@ -3541,7 +3546,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "achievement_38",
@@ -3581,7 +3586,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_42",
@@ -3605,7 +3610,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "achievement_45",
@@ -3804,13 +3809,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1135,
+      "Progressed": 1136,
       "Completed": 1
     }
   ],
@@ -3818,8 +3823,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:09:16.8030347+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:09:28.029072+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:58:41.7060722+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:09:16.8031112+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:59:02.2914363+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:09:28.0291325+00:00"
 }

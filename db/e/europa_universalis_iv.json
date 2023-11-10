@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 230,
-  "Ranking_Popularity": 55,
+  "Ranking_Rating": 231,
+  "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11877,9 +11877,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 451179,
+  "EOS_Progressed": 451234,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5368,
+  "EOS_NewPlayers": 5377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35212,6 +35212,11 @@
       "Time": "2023-11-10T14:05:18.2391815+00:00",
       "NumProgressed": 451179,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T15:05:57.0477457+00:00",
+      "NumProgressed": 451234,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37181,9 +37186,9 @@
       "ID": "achievement_rozwi_empire",
       "SetID": "8p2n7he",
       "Name": "Rozwi Empire",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 451
     },
     {
       "ID": "achievement_ruina_imperii",
@@ -38126,21 +38131,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 451179,
+      "Progressed": 451234,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 451179,
+      "Progressed": 451234,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-10T13:58:37.8368152+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:05:18.2391812+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:05:57.0477454+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:58:37.8368161+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:05:18.2402194+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:58:58.0395899+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:05:57.0488441+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 146,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -733,9 +733,9 @@
       "ID": "dep4_achievement_26",
       "SetID": "5d32b60",
       "Name": "Scaffolding Expert",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 169
     },
     {
       "ID": "dep4_achievement_27",
@@ -886,8 +886,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:04:32.7424053+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:05:06.3116255+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8280786+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:57:18.1139915+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:04:32.7424382+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:57:26.9033876+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:05:06.3116492+00:00"
 }

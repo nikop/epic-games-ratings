@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -429,9 +429,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5318,
+  "EOS_Progressed": 5320,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6839,6 +6839,11 @@
       "Time": "2023-11-10T12:07:57.4740282+00:00",
       "NumProgressed": 5318,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-10T15:08:18.8365978+00:00",
+      "NumProgressed": 5320,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7184,9 +7189,9 @@
       "ID": "8",
       "SetID": "3aa2279",
       "Name": "Betrayal Most Foul",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "9",
@@ -7329,13 +7334,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5318,
+      "Progressed": 5320,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5318,
+      "Progressed": 5320,
       "Completed": 7
     }
   ],
@@ -7343,8 +7348,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-09T11:59:25.9904404+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:06:31.2065791+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:08:18.8365975+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:59:50.0447211+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:06:31.2066418+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:00:20.9862438+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:08:18.8366586+00:00"
 }

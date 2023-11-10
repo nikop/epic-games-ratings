@@ -34,33 +34,33 @@ Rating: 4.16 (Ranked 934)
 | None the Wiser | 1.00% | ~425 |
 | Forspoken | 1.00% | ~425 |
 | Pilgrimage: Novice | 1.00% | ~425 |
-| Wildfire | 0.70% | ~297 |
-| Realized Potential | 0.70% | ~297 |
+| Wildfire | 0.70% | ~298 |
+| Realized Potential | 0.70% | ~298 |
 | Awakening | 0.60% | ~255 |
 | Explorer: Trailblazer | 0.60% | ~255 |
-| Through the Eyes of Another: Seer | 0.50% | ~212 |
-| Archivist | 0.30% | ~127 |
-| Craftsperson | 0.30% | ~127 |
-| Tit for Tat | 0.30% | ~127 |
-| Promises | 0.30% | ~127 |
-| Rebirth | 0.30% | ~127 |
+| Through the Eyes of Another: Seer | 0.50% | ~213 |
+| Archivist | 0.30% | ~128 |
+| Craftsperson | 0.30% | ~128 |
+| Tit for Tat | 0.30% | ~128 |
+| Promises | 0.30% | ~128 |
+| Rebirth | 0.30% | ~128 |
 | Paragon | 0.20% | ~85 |
 | Pilgrimage: Adept | 0.20% | ~85 |
 | Call of the Fount: Beatified | 0.20% | ~85 |
 | I Can Fly! | 0.20% | ~85 |
 | A Roaring Trade | 0.20% | ~85 |
-| Abominizer | 0.10% | ~42 |
-| Through the Eyes of Another: Visionary | 0.10% | ~42 |
-| Kit and Caboodle | 0.10% | ~42 |
-| Above and Beyond | 0.10% | ~42 |
-| Happy Snapper | 0.10% | ~42 |
-| Barely There | 0.10% | ~42 |
-| Moves | 0.10% | ~42 |
-| Remembrance | 0.10% | ~42 |
-| Cat Person | 0.10% | ~42 |
+| Abominizer | 0.10% | ~43 |
+| Through the Eyes of Another: Visionary | 0.10% | ~43 |
+| Kit and Caboodle | 0.10% | ~43 |
+| Above and Beyond | 0.10% | ~43 |
+| Happy Snapper | 0.10% | ~43 |
+| Barely There | 0.10% | ~43 |
+| Moves | 0.10% | ~43 |
+| Remembrance | 0.10% | ~43 |
+| Cat Person | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 42,499 (Ranked 115)  
-Completed: 3 (0.01%) (Ranked 322)  
+Progressed: 42,502 (Ranked 115)  
+Completed: 3 (0.01%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,7 +263,7 @@ Completed: 3 (0.01%) (Ranked 322)
 | 2023-11-07 | 42,461 | 3 |
 | 2023-11-08 | 42,469 | 3 |
 | 2023-11-09 | 42,475 | 3 |
-| 2023-11-10 | 42,499 | 3 |
+| 2023-11-10 | 42,502 | 3 |
 ## Awards
 Max (Character Customization): 29  (Ranked 495)  
 Sum: 29 (Ranked 511)  

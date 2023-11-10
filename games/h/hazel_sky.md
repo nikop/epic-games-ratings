@@ -29,8 +29,8 @@
 | What this means? | 0.00% | ~0 |
 | Where now? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 604)  
-Completed: 0 (0.00%) (Ranked 346)  
+Progressed: 6 (Ranked 605)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

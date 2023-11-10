@@ -2,13 +2,13 @@
   "ID": "d2d162953fec40e381867d7af8371362",
   "Name": "Honkai Impact 3rd",
   "ProductSlug": "honkai-impact-3rd",
-  "Ranking_Rating": 565,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 97,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 739,
-  "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-27T06:00:00+00:00",
     "PcReleaseDate": null,
@@ -8243,18 +8243,24 @@
       "Rating": 4.51,
       "NumberOfAwards": 11063,
       "NumberOfAwardsMax": 2980
+    },
+    {
+      "Time": "2023-11-10T14:58:44.2250222+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 11069,
+      "NumberOfAwardsMax": 2985
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11063,
-  "NumberOfAwardsMax": 2980,
+  "NumberOfAwards": 11069,
+  "NumberOfAwardsMax": 2985,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2980
+      "Count": 2985
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -8332,7 +8338,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 705
+      "Count": 706
     }
   ],
   "EOS_Progressed": 0,
@@ -8347,8 +8353,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-11-10T13:03:06.8811753+00:00",
+  "LastChanged": "2023-11-10T14:58:44.2250221+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:39.9564583+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:58:26.0088408+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:03:04.0532247+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:58:44.2250226+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:03:25.3522662+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 169,
-  "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -175,9 +175,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7659,
+  "EOS_Progressed": 7660,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6470,6 +6470,11 @@
       "Time": "2023-11-10T08:09:42.5438782+00:00",
       "NumProgressed": 7659,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T15:09:13.7738011+00:00",
+      "NumProgressed": 7660,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6482,7 +6487,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5514
+      "UsersEstimate": 5515
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6490,7 +6495,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5361
+      "UsersEstimate": 5362
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6578,7 +6583,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6634,7 +6639,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4672
+      "UsersEstimate": 4673
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6658,7 +6663,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6761,22 +6766,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7659,
+      "Progressed": 7660,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 276,
-      "Completed": 276
+      "Progressed": 277,
+      "Completed": 277
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-09T19:09:37.5658278+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:09:03.6525987+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:09:13.7738008+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:02:38.8989835+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:09:03.6526447+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:02:55.5471323+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:09:13.7738497+00:00"
 }

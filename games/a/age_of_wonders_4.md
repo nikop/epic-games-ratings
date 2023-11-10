@@ -52,6 +52,7 @@ Rating: 4.61 (Ranked 385)
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
+| Betrayal Most Foul | 0.10% | ~5 |
 | Here be Dragons | 0.10% | ~5 |
 | Tipping the Scales | 0.10% | ~5 |
 | Duality | 0.10% | ~5 |
@@ -62,11 +63,10 @@ Rating: 4.61 (Ranked 385)
 | I Want to Break Free | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
-| Betrayal Most Foul | 0.00% | ~0 |
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,318 (Ranked 183)  
+Progressed: 5,320 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 7 (0.13%) (Ranked 258)
 | 2023-11-07 | 5,285 | 7 |
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
-| 2023-11-10 | 5,318 | 7 |
+| 2023-11-10 | 5,320 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 474)  

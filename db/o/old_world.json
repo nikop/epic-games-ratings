@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -16350,9 +16350,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_RESTORER",
       "SetID": "9201eeb",
       "Name": "Restorer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
@@ -18484,8 +18484,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:03:23.3470896+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:03:48.0985004+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:58:33.3463288+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:03:23.3479854+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:58:52.6584086+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:03:48.0995795+00:00"
 }

@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 230)  
+Rating: 4.69 (Ranked 231)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -126,6 +126,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Respected | 0.10% | ~451 |
 | Rise of the White Sheep | 0.10% | ~451 |
 | Royal Authority | 0.10% | ~451 |
+| Rozwi Empire | 0.10% | ~451 |
 | Ruina Imperii | 0.10% | ~451 |
 | Sakoku Law | 0.10% | ~451 |
 | Seriously?! | 0.10% | ~451 |
@@ -299,7 +300,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | The Reapers | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
-| Rozwi Empire | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451,179 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 346)  
+Progressed: 451,234 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -574,11 +574,11 @@ Completed: 1 (0.00%) (Ranked 346)
 | 2023-11-07 | 449,516 | 1 |
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
-| 2023-11-10 | 451,179 | 1 |
+| 2023-11-10 | 451,234 | 1 |
 ## Awards
-Max (Educational): 6,930  (Ranked 55)  
+Max (Educational): 6,930  (Ranked 54)  
 Sum: 56,961 (Ranked 24)  
-Diff (max vs sum): 31  
+Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,930 |

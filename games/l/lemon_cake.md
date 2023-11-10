@@ -13,7 +13,7 @@
 | Verdant Greenhouse | 11.00% | ~18 |
 | Luxury Kitchen | 11.00% | ~18 |
 | Bustling Store | 11.00% | ~18 |
-| Expert Baker | 9.00% | ~14 |
+| Expert Baker | 10.00% | ~16 |
 | Gotta Go Fast | 9.00% | ~14 |
 | Bakery Business | 7.00% | ~11 |
 | Master Baker | 7.00% | ~11 |
@@ -22,7 +22,7 @@
 | Bakery Empire | 6.00% | ~10 |
 | A Loving Home | 6.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 161 (Ranked 383)  
+Progressed: 161 (Ranked 384)  
 Completed: 2 (1.24%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -1,13 +1,14 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 446)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Matching | 0.60% | ~6 |
 | Not Touching You | 0.40% | ~4 |
+| Expensive Look | 0.30% | ~3 |
 | First Steps | 0.20% | ~479 |
 | Nothing To Lose | 0.20% | ~479 |
 | Heavy Hitter | 0.20% | ~479 |
@@ -29,7 +30,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 0.20% | ~479 |
 | An Offering | 0.20% | ~479 |
 | Who Needs Luck? | 0.20% | ~2 |
-| Expensive Look | 0.20% | ~2 |
 | What Doesn't Kill You | 0.20% | ~2 |
 | Thank You, Friend | 0.10% | ~239 |
 | Achievement Hunter | 0.10% | ~239 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,453 (Ranked 60)  
+Progressed: 239,454 (Ranked 60)  
 Completed: 287 (0.12%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 287 (0.12%) (Ranked 265)
 | 2023-11-07 | 239,335 | 286 |
 | 2023-11-08 | 239,386 | 287 |
 | 2023-11-09 | 239,427 | 287 |
-| 2023-11-10 | 239,453 | 287 |
+| 2023-11-10 | 239,454 | 287 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 130)  
 Sum: 11,664 (Ranked 83)  

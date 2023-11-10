@@ -8,14 +8,14 @@ Rating: 3.95 (Ranked 1,004)
 | Neophyte Ninja | 2.00% | ~1,803 |
 | First One’s Free | 2.00% | ~1,803 |
 | Downed but Not Outed | 2.00% | ~1,803 |
-| Underworld Initiate | 1.00% | ~901 |
-| Roid Ranger | 1.00% | ~901 |
-| Too Old for This | 1.00% | ~901 |
-| King of the Hill | 1.00% | ~901 |
-| Fancy Pants | 1.00% | ~901 |
-| Off the Rocks | 1.00% | ~901 |
-| Raider’s Ruin | 1.00% | ~901 |
-| Dragonslayer | 1.00% | ~901 |
+| Underworld Initiate | 1.00% | ~902 |
+| Roid Ranger | 1.00% | ~902 |
+| Too Old for This | 1.00% | ~902 |
+| King of the Hill | 1.00% | ~902 |
+| Fancy Pants | 1.00% | ~902 |
+| Off the Rocks | 1.00% | ~902 |
+| Raider’s Ruin | 1.00% | ~902 |
+| Dragonslayer | 1.00% | ~902 |
 | Case Closed | 0.90% | ~811 |
 | Rockay Rex | 0.90% | ~811 |
 | Hidden Sonata | 0.70% | ~631 |
@@ -31,7 +31,7 @@ Rating: 3.95 (Ranked 1,004)
 | Savvy Seeker | 0.30% | ~270 |
 | Olympus Ascended | 0.30% | ~270 |
 | Ding Dong | 0.30% | ~270 |
-| All that Glitters | 0.30% | ~55 |
+| All that Glitters | 0.30% | ~56 |
 | Rockay Raider | 0.20% | ~180 |
 | Rockay Knight | 0.20% | ~180 |
 | Talent Scout | 0.20% | ~180 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,141 (Ranked 91)  
+Progressed: 90,153 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,10 +251,10 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-07 | 89,646 | 55 |
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
-| 2023-11-10 | 90,141 | 55 |
+| 2023-11-10 | 90,153 | 55 |
 ## Awards
 Max (Diverse Characters): 526  (Ranked 203)  
-Sum: 2,983 (Ranked 175)  
+Sum: 2,984 (Ranked 175)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -262,7 +262,7 @@ Diff (max vs sum): 28
 | This game is Highly Recommended | 508 |
 | This game has Quickly Understood Controls | 498 |
 | This game has Challenging Combat | 489 |
-| This game is Extremely Fun | 486 |
+| This game is Extremely Fun | 487 |
 | This game has Amazing Characters | 476 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -492,4 +492,4 @@ Diff (max vs sum): 28
 | 2023-11-07 | 3.95 | 522 | 2,964 |
 | 2023-11-08 | 3.95 | 522 | 2,970 |
 | 2023-11-09 | 3.95 | 523 | 2,973 |
-| 2023-11-10 | 3.95 | 526 | 2,983 |
+| 2023-11-10 | 3.95 | 526 | 2,984 |

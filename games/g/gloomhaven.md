@@ -6,29 +6,29 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~8,254 |
-| Overkill | 35.00% | ~6,879 |
-| Vaccine Incoming | 33.00% | ~6,485 |
-| A normal day in Gloomhaven | 32.00% | ~6,289 |
-| Spread the plague | 30.00% | ~5,896 |
-| Get over here! | 25.00% | ~4,913 |
-| Just when I thought I was out... | 19.00% | ~3,734 |
-| Precious! | 17.00% | ~3,341 |
-| Mine... All Mine... | 17.00% | ~3,341 |
-| Anatomy Lesson | 15.00% | ~2,948 |
-| Grizzled veteran | 14.00% | ~2,751 |
-| Light of my life | 14.00% | ~2,751 |
-| You activated my trap card! | 13.00% | ~2,555 |
-| Obstacle race | 13.00% | ~2,555 |
-| Augmented rat | 12.00% | ~2,358 |
+| I'm not dead yet | 42.00% | ~8,257 |
+| Overkill | 35.00% | ~6,881 |
+| Vaccine Incoming | 33.00% | ~6,487 |
+| A normal day in Gloomhaven | 32.00% | ~6,291 |
+| Spread the plague | 30.00% | ~5,898 |
+| Get over here! | 25.00% | ~4,915 |
+| Just when I thought I was out... | 19.00% | ~3,735 |
+| Precious! | 17.00% | ~3,342 |
+| Mine... All Mine... | 17.00% | ~3,342 |
+| Anatomy Lesson | 15.00% | ~2,949 |
+| Grizzled veteran | 14.00% | ~2,752 |
+| Light of my life | 14.00% | ~2,752 |
+| You activated my trap card! | 13.00% | ~2,556 |
+| Obstacle race | 13.00% | ~2,556 |
+| Augmented rat | 12.00% | ~2,359 |
 | Doom and gloom | 11.00% | ~2,162 |
-| Who's the Boss? | 10.00% | ~1,965 |
-| Dungeon Veteran | 8.00% | ~1,572 |
-| Pack leader | 8.00% | ~1,572 |
-| Pain is your friend | 8.00% | ~1,572 |
-| Black death | 8.00% | ~1,572 |
-| Play it again, Sam | 8.00% | ~1,572 |
-| Quad damage | 6.00% | ~1,179 |
+| Who's the Boss? | 10.00% | ~1,966 |
+| Dungeon Veteran | 8.00% | ~1,573 |
+| Pack leader | 8.00% | ~1,573 |
+| Pain is your friend | 8.00% | ~1,573 |
+| Black death | 8.00% | ~1,573 |
+| Play it again, Sam | 8.00% | ~1,573 |
+| Quad damage | 6.00% | ~1,180 |
 | Power Up! | 5.00% | ~983 |
 | Caught off guard | 5.00% | ~983 |
 | The Pro from Dover | 5.00% | ~983 |
@@ -68,8 +68,8 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~20 |
 | Murder Death Kill | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,653 (Ranked 132)  
-Completed: 1 (0.01%) (Ranked 322)  
+Progressed: 19,659 (Ranked 132)  
+Completed: 1 (0.01%) (Ranked 323)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -126,7 +126,7 @@ Completed: 1 (0.01%) (Ranked 322)
 | 2023-11-07 | 19,194 | 1 |
 | 2023-11-08 | 19,356 | 1 |
 | 2023-11-09 | 19,539 | 1 |
-| 2023-11-10 | 19,653 | 1 |
+| 2023-11-10 | 19,659 | 1 |
 ## Awards
 Max (Character Customization): 3,571  (Ranked 90)  
 Sum: 8,346 (Ranked 99)  

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -327,9 +327,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199747,
+  "EOS_Progressed": 199752,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21972,6 +21972,11 @@
       "Time": "2023-11-10T13:08:03.2880529+00:00",
       "NumProgressed": 199747,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-10T15:03:37.6191516+00:00",
+      "NumProgressed": 199752,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -21991,7 +21996,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 141820
+      "UsersEstimate": 141824
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -21999,7 +22004,7 @@
       "Name": "Flawless Victory",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 9987
+      "UsersEstimate": 9988
     },
     {
       "ID": "ACH_GATED_COMMUNITY",
@@ -22007,7 +22012,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5992
+      "UsersEstimate": 5993
     },
     {
       "ID": "ACH_INITIATION",
@@ -22015,7 +22020,7 @@
       "Name": "Initiation",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 35954
+      "UsersEstimate": 35955
     },
     {
       "ID": "ACH_NO_SAM_DESTROYED",
@@ -22031,7 +22036,7 @@
       "Name": "Total Destruction",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ACH_WIN_100_ONLINE_GAME",
@@ -22047,7 +22052,7 @@
       "Name": "Getting There",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ACH_WIN_30_MAP_CONTROL",
@@ -22055,7 +22060,7 @@
       "Name": "We shall never Surrender!",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_WIN_3_ONLINE_GAME",
@@ -22063,7 +22068,7 @@
       "Name": "Baby Steps",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9987
+      "UsersEstimate": 9988
     },
     {
       "ID": "ACH_WIN_50_ONLINE_GAME",
@@ -22071,7 +22076,7 @@
       "Name": "Halfway There",
       "Percentage": 0.2,
       "XP": 70,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_WIN_90_MAP_CONTROL",
@@ -22095,7 +22100,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "ACH_WIN_FIRST_COOP",
@@ -22103,14 +22108,14 @@
       "Name": "First Co-Op Win",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 9987
+      "UsersEstimate": 9988
     }
   ],
   "AchievementSets": [
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 199747,
+      "Progressed": 199752,
       "Completed": 4
     }
   ],
@@ -22118,8 +22123,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:03:14.6156001+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:03:37.6191514+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:54.3998533+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:00:24.9781252+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:03:14.6157036+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:02:39.7683184+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:03:37.6192889+00:00"
 }

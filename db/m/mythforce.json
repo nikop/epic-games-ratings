@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4767,
+  "EOS_Progressed": 4768,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8995,6 +8995,11 @@
       "Time": "2023-11-10T13:14:01.8745597+00:00",
       "NumProgressed": 4767,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-10T15:09:29.1986412+00:00",
+      "NumProgressed": 4768,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9039,7 +9044,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9047,7 +9052,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9103,7 +9108,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 811
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -9143,7 +9148,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -9175,7 +9180,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1096
+      "UsersEstimate": 1097
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -9190,15 +9195,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4767,
+      "Progressed": 4768,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:09:17.8865284+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:09:29.1986408+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:02:38.2579123+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:09:17.8865721+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:02:54.6047778+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:09:29.198704+00:00"
 }

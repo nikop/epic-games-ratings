@@ -3,12 +3,12 @@
   "Name": "Maneater",
   "ProductSlug": "maneater",
   "Ranking_Rating": 606,
-  "Ranking_Popularity": 29,
+  "Ranking_Popularity": 28,
   "Ranking_PopularitySum": 60,
   "Ranking_EOS_Progress": 739,
-  "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-05-22T09:00:00+00:00",
     "PcReleaseDate": "2020-05-22T09:00:00+00:00",
@@ -3597,6 +3597,6 @@
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
   "LastChanged": "2023-11-09T17:03:09.5944675+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.6643858+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:57:21.6023137+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:06:11.5703543+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:57:30.8267257+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:06:57.5200943+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 61,
-  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1299,9 +1299,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 236244,
+  "EOS_Progressed": 236250,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1473,
+  "EOS_NewPlayers": 1466,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18024,6 +18024,11 @@
       "Time": "2023-11-10T14:06:13.9965344+00:00",
       "NumProgressed": 236244,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-10T15:07:00.3255318+00:00",
+      "NumProgressed": 236250,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18035,7 +18040,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7087
+      "UsersEstimate": 7088
     },
     {
       "ID": "100Fail",
@@ -18051,7 +18056,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "BarbarianEpic",
@@ -18067,7 +18072,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7087
+      "UsersEstimate": 7088
     },
     {
       "ID": "BookCollection",
@@ -18099,7 +18104,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7087
+      "UsersEstimate": 7088
     },
     {
       "ID": "Chapter4",
@@ -18435,7 +18440,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16537
+      "UsersEstimate": 16538
     },
     {
       "ID": "DwarfElf15Support",
@@ -18483,7 +18488,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82685
+      "UsersEstimate": 82688
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18547,7 +18552,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "InsultLoose",
@@ -18731,28 +18736,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7087
+      "UsersEstimate": 7088
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 236244,
+      "Progressed": 236250,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 236244,
+      "Progressed": 236250,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-09T07:00:38.1958085+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:06:13.9965341+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:07:00.3255315+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:59:52.7618753+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:06:13.9966716+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:00:24.0260342+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:07:00.325658+00:00"
 }

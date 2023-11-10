@@ -5,21 +5,21 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~208 |
-| Battlefields Have Memories | 83.00% | ~196 |
-| Enlisted | 78.00% | ~184 |
-| Maybe Engage a Little | 75.00% | ~177 |
-| No More Names | 61.00% | ~144 |
+| Unforeseen | 88.00% | ~209 |
+| Battlefields Have Memories | 83.00% | ~197 |
+| Enlisted | 78.00% | ~185 |
+| Maybe Engage a Little | 74.00% | ~175 |
+| No More Names | 61.00% | ~145 |
 | Initiate | 47.00% | ~111 |
-| Thrada-Kul | 43.00% | ~101 |
+| Thrada-Kul | 43.00% | ~102 |
 | Gravity-Challenged Rocks | 32.00% | ~76 |
-| Soldier | 29.00% | ~68 |
+| Soldier | 29.00% | ~69 |
 | All the Major Food Groups | 28.00% | ~66 |
-| Socialite | 26.00% | ~61 |
-| Beggars Would Ride | 25.00% | ~59 |
-| Control is an Illusion | 23.00% | ~54 |
+| Socialite | 27.00% | ~64 |
+| Control is an Illusion | 24.00% | ~57 |
+| Beggars Would Ride | 24.00% | ~57 |
 | The Means to Save It | 20.00% | ~47 |
-| Resilience to Sin | 18.00% | ~42 |
+| Resilience to Sin | 18.00% | ~43 |
 | A Familiar Nest | 17.00% | ~40 |
 | Periapt Alizarin | 17.00% | ~40 |
 | Geas Aristeya | 16.00% | ~38 |
@@ -29,9 +29,9 @@ Rating: 4.02 (Ranked 986)
 | Lights Army | 9.00% | ~21 |
 | Periapt Cerulean | 8.00% | ~19 |
 | Good Boy | 8.00% | ~19 |
-| Best Dressed | 6.00% | ~14 |
 | Periapt Viridian | 6.00% | ~14 |
 | Shroudfane Explorer | 6.00% | ~14 |
+| Best Dressed | 5.00% | ~12 |
 | Armaments Azure | 4.00% | ~9 |
 | Armaments Gules | 4.00% | ~9 |
 | Scholar | 3.00% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.02 (Ranked 986)
 | Tip of the Spear | 0.80% | ~2 |
 | Fowl Play | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236 (Ranked 356)  
+Progressed: 237 (Ranked 355)  
 Completed: 1 (0.42%) (Ranked 206)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,7 +102,7 @@ Completed: 1 (0.42%) (Ranked 206)
 | 2023-11-07 | 184 | 1 |
 | 2023-11-08 | 207 | 1 |
 | 2023-11-09 | 230 | 1 |
-| 2023-11-10 | 236 | 1 |
+| 2023-11-10 | 237 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

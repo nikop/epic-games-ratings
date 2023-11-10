@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Tyrant Rise | 24.00% | ~10 |
 | Honor Medal | 24.00% | ~10 |
-| Tyrant Rise | 21.00% | ~9 |
 | Great Civil War | 17.00% | ~7 |
 | Assassination | 14.00% | ~6 |
 | Princess Crowned | 10.00% | ~4 |
@@ -54,7 +54,7 @@
 | Abolish Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 42 (Ranked 488)  
-Completed: 0 (0.00%) (Ranked 346)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

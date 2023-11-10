@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3346,9 +3346,9 @@
       "Count": 740
     }
   ],
-  "EOS_Progressed": 239453,
+  "EOS_Progressed": 239454,
   "EOS_Completed": 287,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24516,6 +24516,11 @@
       "Time": "2023-11-10T14:09:22.2327761+00:00",
       "NumProgressed": 239453,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-10T15:09:33.9580713+00:00",
+      "NumProgressed": 239454,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 138,
@@ -25605,9 +25610,9 @@
       "ID": "SPEND200SOULSONREROLLANDDISCARD",
       "SetID": "1peahb6",
       "Name": "Expensive Look",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -25630,13 +25635,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239453,
+      "Progressed": 239454,
       "Completed": 287
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 933,
+      "Progressed": 934,
       "Completed": 374
     }
   ],
@@ -25644,8 +25649,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-10T07:03:14.5085513+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:09:22.2327757+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:09:33.9580709+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:02:46.5105374+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:09:22.2330419+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:03:03.7289017+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:09:33.9583117+00:00"
 }

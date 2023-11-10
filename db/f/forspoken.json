@@ -6,9 +6,9 @@
   "Ranking_Popularity": 495,
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 115,
-  "Ranking_EOS_Completed": 322,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 42499,
+  "EOS_Progressed": 42502,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12067,6 +12067,11 @@
       "Time": "2023-11-10T14:05:23.6265438+00:00",
       "NumProgressed": 42499,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-10T15:06:02.9733132+00:00",
+      "NumProgressed": 42502,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 53,
@@ -12078,7 +12083,7 @@
       "Name": "Abominizer",
       "Percentage": 0.1,
       "XP": 105,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ARCHIVE",
@@ -12086,7 +12091,7 @@
       "Name": "Archivist",
       "Percentage": 0.3,
       "XP": 105,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "CAMP",
@@ -12102,7 +12107,7 @@
       "Name": "Through the Eyes of Another: Visionary",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "CHALLENGE_FIRST",
@@ -12118,7 +12123,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -12222,7 +12227,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "CRAFT_FIRST",
@@ -12246,7 +12251,7 @@
       "Name": "Kit and Caboodle",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "FAIRYSTEP",
@@ -12262,7 +12267,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "LEAPFROG",
@@ -12302,7 +12307,7 @@
       "Name": "Above and Beyond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "MAGIC_ALL",
@@ -12342,7 +12347,7 @@
       "Name": "Wildfire",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "MAGIC_TANTA",
@@ -12398,7 +12403,7 @@
       "Name": "Happy Snapper",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SKILLTREE_ALL",
@@ -12406,7 +12411,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -12446,7 +12451,7 @@
       "Name": "Barely There",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SUBCON_DANCE",
@@ -12454,7 +12459,7 @@
       "Name": "Moves",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SUBCON_PRAY",
@@ -12462,7 +12467,7 @@
       "Name": "Remembrance",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "SUBCON_TRADE",
@@ -12478,7 +12483,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -12486,7 +12491,7 @@
       "Name": "Rebirth",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "TANTACAT_ALL",
@@ -12494,29 +12499,29 @@
       "Name": "Cat Person",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 42499,
+      "Progressed": 42502,
       "Completed": 3
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 7336,
-      "Completed": 7336
+      "Progressed": 7339,
+      "Completed": 7339
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2023-11-02T16:59:48.513459+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:05:23.6265434+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:06:02.9733129+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:26.2731446+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:58:03.5584638+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:05:23.626615+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:58:19.0732074+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:06:02.9734124+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Sifu",
   "ProductSlug": "sifu",
   "Ranking_Rating": 65,
-  "Ranking_Popularity": 56,
+  "Ranking_Popularity": 55,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7569,9 +7569,9 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 716511,
+  "EOS_Progressed": 716521,
   "EOS_Completed": 12934,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 1.81,
   "EosHistory": [
@@ -25544,6 +25544,11 @@
       "Time": "2023-11-10T14:03:55.799736+00:00",
       "NumProgressed": 716511,
       "NumCompleted": 12934
+    },
+    {
+      "Time": "2023-11-10T15:04:24.3438325+00:00",
+      "NumProgressed": 716521,
+      "NumCompleted": 12934
     }
   ],
   "TotalAchievements": 60,
@@ -25899,7 +25904,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -26034,21 +26039,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 25812,
+      "Progressed": 25822,
       "Completed": 10737
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716511,
+      "Progressed": 716521,
       "Completed": 12934
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-10T02:16:42.0618785+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:03:55.7997355+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:04:24.343832+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.5858311+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:58:27.6920844+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:03:55.7998434+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:58:46.3218356+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:04:24.3439699+00:00"
 }

@@ -51,8 +51,8 @@
 | Collector | 0.00% | ~0 |
 | Master of all Domains | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 117 (Ranked 403)  
-Completed: 0 (0.00%) (Ranked 346)  
+Progressed: 117 (Ranked 404)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

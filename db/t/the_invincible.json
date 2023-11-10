@@ -2,10 +2,10 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_EOS_Progress": 399,
-  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_Progress": 398,
+  "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 126,
+  "EOS_Progressed": 127,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -320,6 +320,11 @@
       "Time": "2023-11-10T13:09:33.6330749+00:00",
       "NumProgressed": 126,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T15:05:16.4593469+00:00",
+      "NumProgressed": 127,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -370,9 +375,9 @@
       "ID": "AchvBombing",
       "SetID": "1hj060c",
       "Name": "Violent solution",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "AchvConvoyList",
@@ -410,9 +415,9 @@
       "ID": "AchvEvacuate",
       "SetID": "1hj060c",
       "Name": "Evacuation",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvInvShip",
@@ -426,9 +431,9 @@
       "ID": "AchvKrautaAlive",
       "SetID": "1hj060c",
       "Name": "Krauta is alive",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "AchvLava",
@@ -442,9 +447,9 @@
       "ID": "AchvLeaveNoManBehind",
       "SetID": "1hj060c",
       "Name": "I leave no man behind",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -508,15 +513,15 @@
       "Name": "The Camp",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "AchvReachCity",
       "SetID": "1hj060c",
       "Name": "The City",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "AchvReachCondor",
@@ -524,7 +529,7 @@
       "Name": "The Condor",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AchvSurvivors",
@@ -532,7 +537,7 @@
       "Name": "Survivors",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -548,7 +553,7 @@
       "Name": "The End",
       "Percentage": 13,
       "XP": 55,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "AchvUnity",
@@ -563,14 +568,14 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 126,
+      "Progressed": 127,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-06T20:58:27.2956398+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:04:41.7965642+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:05:16.4593465+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.4081389+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:59:34.879239+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:04:41.7965837+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:00:04.1287278+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:05:16.4593674+00:00"
 }

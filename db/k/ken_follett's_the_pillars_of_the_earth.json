@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 565,
+  "Ranking_Rating": 566,
   "Ranking_Popularity": 312,
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16293,
+  "EOS_Progressed": 16294,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -13828,6 +13828,11 @@
       "Time": "2023-11-10T13:09:25.3976688+00:00",
       "NumProgressed": 16293,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-10T15:05:07.935984+00:00",
+      "NumProgressed": 16294,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -13855,7 +13860,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3747
+      "UsersEstimate": 3748
     },
     {
       "ID": "tpote_achievement_12",
@@ -14055,7 +14060,7 @@
       "Name": "A cry for help",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "tpote_achievement_35",
@@ -14103,7 +14108,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6517
+      "UsersEstimate": 6518
     },
     {
       "ID": "tpote_achievement_40",
@@ -14127,7 +14132,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "tpote_achievement_6",
@@ -14135,7 +14140,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "tpote_achievement_7",
@@ -14166,15 +14171,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16293,
+      "Progressed": 16294,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:04:34.1514749+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:05:07.9359836+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:38.0957248+00:00",
-  "LastUpdate_Ratings": "2023-11-10T14:00:05.2531583+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:04:34.1515751+00:00"
+  "LastUpdate_Ratings": "2023-11-10T15:00:37.7615247+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:05:07.9360729+00:00"
 }

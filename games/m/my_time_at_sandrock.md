@@ -1,74 +1,74 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 254)  
+Rating: 4.68 (Ranked 253)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 245.00% | ~664 |
-| Iron Chef | 194.00% | ~526 |
-| Greeno-B-Gone | 121.00% | ~328 |
-| Your Especially Earned Trajectory | 97.00% | ~263 |
-| No Mountain Wide Enough | 63.00% | ~171 |
-| Can We Keep It? | 60.00% | ~163 |
-| On that Grindset | 59.00% | ~160 |
-| Pack Mule | 48.00% | ~130 |
-| Diamonds are Forever | 48.00% | ~130 |
-| Yakmel Whisperer | 45.00% | ~122 |
+| Adept Assembler | 246.00% | ~669 |
+| Iron Chef | 195.00% | ~530 |
+| Greeno-B-Gone | 122.00% | ~332 |
+| Your Especially Earned Trajectory | 98.00% | ~267 |
+| No Mountain Wide Enough | 64.00% | ~174 |
+| Can We Keep It? | 61.00% | ~166 |
+| On that Grindset | 60.00% | ~163 |
+| Pack Mule | 48.00% | ~131 |
+| Diamonds are Forever | 48.00% | ~131 |
+| Yakmel Whisperer | 46.00% | ~125 |
+| Financially Secure | 43.00% | ~117 |
 | My Time Mansion | 42.00% | ~114 |
-| Financially Secure | 42.00% | ~114 |
 | Unboxing | 42.00% | ~114 |
-| Big Game Hunter | 39.00% | ~106 |
-| Got Served | 39.00% | ~106 |
-| One of the Cool Kids | 39.00% | ~106 |
+| Got Served | 41.00% | ~112 |
+| Big Game Hunter | 40.00% | ~109 |
+| One of the Cool Kids | 40.00% | ~109 |
+| Happier-est Place on Earth | 39.00% | ~106 |
 | Knowledge is Power | 38.00% | ~103 |
-| Happier-est Place on Earth | 38.00% | ~103 |
 | Mole Masher | 38.00% | ~103 |
+| You Don't Win Friends With Salad | 38.00% | ~103 |
 | Call Me Fishmael | 38.00% | ~103 |
-| You Don't Win Friends With Salad | 37.00% | ~100 |
-| Better Late than Never | 35.00% | ~95 |
+| Better Late than Never | 36.00% | ~98 |
+| What Plants Crave | 35.00% | ~95 |
 | Chatterbox | 35.00% | ~95 |
 | I Do! | 35.00% | ~95 |
-| What Plants Crave | 34.00% | ~92 |
-| Anti-Santa | 33.00% | ~89 |
+| Anti-Santa | 33.00% | ~90 |
 | Finishing Touches | 32.00% | ~87 |
 | Officially Official | 32.00% | ~87 |
-| First Love | 29.00% | ~79 |
+| First Love | 30.00% | ~82 |
 | Panda-kin | 27.00% | ~73 |
-| Jewel of the Eufaula | 26.00% | ~70 |
-| Who Ya Gonna Call...? | 26.00% | ~70 |
+| Who Ya Gonna Call...? | 27.00% | ~73 |
+| Jewel of the Eufaula | 26.00% | ~71 |
 | Builder of the Month | 25.00% | ~68 |
-| Bridging the Gap | 24.00% | ~65 |
+| Bridging the Gap | 25.00% | ~68 |
+| He Can Spin A Yarn... | 23.00% | ~63 |
 | Martle's Dream | 22.00% | ~60 |
-| He Can Spin A Yarn... | 22.00% | ~60 |
 | Waste Not Want Not | 22.00% | ~60 |
 | Commissions, commissions...! | 20.00% | ~54 |
 | Elementary, My Dear | 20.00% | ~54 |
-| Lifeline Pipeline | 19.00% | ~51 |
+| Lifeline Pipeline | 19.00% | ~52 |
+| Got the Flow Back | 18.00% | ~49 |
 | Newton | 18.00% | ~49 |
-| Got the Flow Back | 17.00% | ~46 |
-| Do Your Part | 16.00% | ~43 |
-| Kind of a Big Deal | 15.00% | ~41 |
-| Just What I Always Wanted! | 15.00% | ~41 |
+| Do Your Part | 17.00% | ~46 |
+| Kind of a Big Deal | 16.00% | ~44 |
+| Just What I Always Wanted! | 16.00% | ~44 |
 | Santa In Training | 14.00% | ~38 |
 | Time Flies | 12.00% | ~33 |
 | Sepia Toned Memories | 12.00% | ~33 |
 | Cardistry | 12.00% | ~33 |
 | Pro Gamer | 12.00% | ~33 |
+| Sandrunning Speedster | 12.00% | ~33 |
 | It Belongs in a Museum! | 12.00% | ~33 |
-| Sandrunning Speedster | 11.00% | ~30 |
 | Jack of All Trades | 8.00% | ~22 |
 | It's High Noon... | 7.00% | ~19 |
 | Got the Receipt? | 7.00% | ~19 |
-| Strong Arms | 5.00% | ~14 |
+| Strong Arms | 6.00% | ~16 |
 | Sandrock's Hottest Club | 3.00% | ~8 |
 | Super Spelunker | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271 (Ranked 346)  
-Completed: 0 (0.00%) (Ranked 346)  
+Progressed: 272 (Ranked 346)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

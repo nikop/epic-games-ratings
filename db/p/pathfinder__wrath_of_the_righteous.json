@@ -6,9 +6,9 @@
   "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 346,
+  "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4169,9 +4169,9 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12060,
+  "EOS_Progressed": 12061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15374,6 +15374,11 @@
       "Time": "2023-11-10T10:05:45.7625711+00:00",
       "NumProgressed": 12060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T15:05:38.739674+00:00",
+      "NumProgressed": 12061,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15753,7 +15758,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "49_Flame",
@@ -16312,21 +16317,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10842,
+      "Progressed": 10843,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12060,
+      "Progressed": 12061,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-10T13:57:54.6603385+00:00",
-  "LastChanged_Achievements": "2023-11-10T14:05:01.6616644+00:00",
+  "LastChanged_Achievements": "2023-11-10T15:05:38.7396732+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:16.1536797+00:00",
-  "LastUpdate_Ratings": "2023-11-10T13:57:54.6603391+00:00",
-  "LastUpdate_Achievements": "2023-11-10T14:05:01.6618178+00:00"
+  "LastUpdate_Ratings": "2023-11-10T14:58:08.443356+00:00",
+  "LastUpdate_Achievements": "2023-11-10T15:05:38.7398295+00:00"
 }
