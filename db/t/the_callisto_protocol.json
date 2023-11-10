@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1457,9 +1457,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16425,
+  "EOS_Progressed": 16426,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8862,6 +8862,11 @@
       "Time": "2023-11-09T23:04:42.9741735+00:00",
       "NumProgressed": 16425,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-10T12:03:45.9776046+00:00",
+      "NumProgressed": 16426,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -8985,7 +8990,7 @@
       "Name": "In Striking Distance",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "KILL_2HEAD",
@@ -9248,13 +9253,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16425,
+      "Progressed": 16426,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4351,
+      "Progressed": 4352,
       "Completed": 29
     }
   ],
@@ -9262,8 +9267,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-08T17:02:45.4793564+00:00",
-  "LastChanged_Achievements": "2023-11-10T11:04:34.7600489+00:00",
+  "LastChanged_Achievements": "2023-11-10T12:03:45.9776042+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:14.0432207+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:02:59.1777206+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:04:34.7601076+00:00"
+  "LastUpdate_Ratings": "2023-11-10T12:02:34.4947313+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:03:45.9776714+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Darksiders II Deathinitive Edition",
   "ProductSlug": "darksiders2",
   "Ranking_Rating": 366,
-  "Ranking_Popularity": 229,
+  "Ranking_Popularity": 230,
   "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2015-11-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -715,6 +715,6 @@
   "FirstSeen": "2022-07-22T20:23:32.2059195+00:00",
   "LastChanged": "2023-11-04T18:59:58.8792806+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:10.4866782+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:00:38.0687032+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:05:13.9095084+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:59:19.4091086+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:04:15.2817424+00:00"
 }

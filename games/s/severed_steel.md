@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 30.00% | ~205,056 |
-| 50 HEADSHOTS | 28.00% | ~191,386 |
-| SCIENCE AND INDUSTRY | 27.00% | ~184,550 |
-| FINISHED CHAPTER 1 | 26.00% | ~177,715 |
-| FINISHED CHAPTER 2 | 19.00% | ~129,869 |
-| 200 HEADSHOTS | 17.00% | ~116,198 |
-| FINISHED CHAPTER 3 | 16.00% | ~109,363 |
-| FINISHED CHAPTER 4 | 14.00% | ~95,693 |
-| FINISH CHAPTER 5 | 12.00% | ~82,022 |
-| FINISH CHAPTER 6 | 10.00% | ~68,352 |
-| CATHARTIC ESCAPISM | 10.00% | ~68,352 |
-| 1000 KILLS | 9.00% | ~61,517 |
+| 100 KILLS | 30.00% | ~205,060 |
+| 50 HEADSHOTS | 28.00% | ~191,389 |
+| SCIENCE AND INDUSTRY | 27.00% | ~184,554 |
+| FINISHED CHAPTER 1 | 26.00% | ~177,718 |
+| FINISHED CHAPTER 2 | 19.00% | ~129,871 |
+| 200 HEADSHOTS | 17.00% | ~116,200 |
+| FINISHED CHAPTER 3 | 16.00% | ~109,365 |
+| FINISHED CHAPTER 4 | 14.00% | ~95,694 |
+| FINISH CHAPTER 5 | 12.00% | ~82,024 |
+| FINISH CHAPTER 6 | 10.00% | ~68,353 |
+| CATHARTIC ESCAPISM | 10.00% | ~68,353 |
+| 1000 KILLS | 9.00% | ~61,518 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~27,341 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~13,670 |
-| FIRST BLOOD | 2.00% | ~13,670 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~13,671 |
+| FIRST BLOOD | 2.00% | ~13,671 |
 | PACEMAKER | 1.00% | ~6,835 |
 | TIME PARADOX | 1.00% | ~6,835 |
 | FIREFIGHT LEVEL 30 | 0.90% | ~6,152 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 230)
 | THE GAMBLER | 0.10% | ~684 |
 | WARRIOR IN A GARDEN | 0.10% | ~684 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683,520 (Ranked 24)  
+Progressed: 683,532 (Ranked 24)  
 Completed: 83 (0.01%) (Ranked 322)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,14 +262,14 @@ Completed: 83 (0.01%) (Ranked 322)
 | 2023-11-07 | 682,847 | 82 |
 | 2023-11-08 | 683,085 | 82 |
 | 2023-11-09 | 683,381 | 82 |
-| 2023-11-10 | 683,520 | 83 |
+| 2023-11-10 | 683,532 | 83 |
 ## Awards
-Max (Great Boss Battles): 395  (Ranked 228)  
-Sum: 395 (Ranked 337)  
+Max (Great Boss Battles): 396  (Ranked 228)  
+Sum: 396 (Ranked 337)  
 Diff (max vs sum): -109  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 395 |
+| This game has Great Boss Battles | 396 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -390,3 +390,4 @@ Diff (max vs sum): -109
 | 2023-11-06 | 4.69 | 390 | 390 |
 | 2023-11-08 | 4.69 | 392 | 392 |
 | 2023-11-09 | 4.69 | 395 | 395 |
+| 2023-11-10 | 4.69 | 396 | 396 |

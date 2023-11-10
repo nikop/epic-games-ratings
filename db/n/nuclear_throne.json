@@ -3,12 +3,12 @@
   "Name": "Nuclear Throne",
   "ProductSlug": "nuclear-throne",
   "Ranking_Rating": 96,
-  "Ranking_Popularity": 226,
+  "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2019-11-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1726,6 +1726,6 @@
   "FirstSeen": "2022-07-22T20:27:27.5332052+00:00",
   "LastChanged": "2023-11-09T17:57:37.2580715+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:00.6476927+00:00",
-  "LastUpdate_Ratings": "2023-11-10T10:57:50.6202655+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:09:29.362947+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:57:22.3367823+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:08:32.2033101+00:00"
 }

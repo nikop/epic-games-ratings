@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1347,9 +1347,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5889,
+  "EOS_Progressed": 5892,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12592,6 +12592,11 @@
       "Time": "2023-11-10T11:10:14.69868+00:00",
       "NumProgressed": 5889,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-10T12:09:06.006121+00:00",
+      "NumProgressed": 5892,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12611,7 +12616,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -12651,7 +12656,7 @@
       "Name": "Viva Tropico!",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_EP_BETTERREDTHANDEAD",
@@ -12659,7 +12664,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -12667,7 +12672,7 @@
       "Name": "Computer Says \u0022No\u0022",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_EP_CHOCOLATEFACTORY",
@@ -12675,7 +12680,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -12691,7 +12696,7 @@
       "Name": "Beware The Betman",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_EP_PENULTIMOOFTHECARIBBEAN",
@@ -12699,7 +12704,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -12707,7 +12712,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -12723,7 +12728,7 @@
       "Name": "Number 18",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -12755,7 +12760,7 @@
       "Name": "The Governator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1001
+      "UsersEstimate": 1002
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -12763,7 +12768,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4419
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12859,7 +12864,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -12875,7 +12880,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2179
+      "UsersEstimate": 2180
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -12891,7 +12896,7 @@
       "Name": "Watch The World Burn",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_WONDER_FAIRYTALE",
@@ -12899,7 +12904,7 @@
       "Name": "Fairy Tale Come True",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_WONDER_FRENCHCONNECTION",
@@ -12922,15 +12927,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5889,
+      "Progressed": 5892,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-03T19:58:07.8489681+00:00",
-  "LastChanged_Achievements": "2023-11-10T11:10:14.6986797+00:00",
+  "LastChanged_Achievements": "2023-11-10T12:09:06.0061205+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.1282192+00:00",
-  "LastUpdate_Ratings": "2023-11-10T10:57:21.4512531+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:10:14.6987481+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:57:02.0499456+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:09:06.0061985+00:00"
 }

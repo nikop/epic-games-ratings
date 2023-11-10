@@ -32,9 +32,9 @@ Rating: 4.86 (Ranked 30)
 | I have to read these things? | 7.00% | ~295 |
 | Perfecter Parry-er! | 7.00% | ~295 |
 | Well that was a rush! | 5.00% | ~210 |
+| Beat-hit mania | 5.00% | ~210 |
 | That's a lot of junk metal… | 5.00% | ~210 |
 | There's such a thing as TOO helpful | 5.00% | ~210 |
-| Beat-hit mania | 4.00% | ~168 |
 | Chip-tuned | 3.00% | ~126 |
 | Wanna hear my playlist? | 3.00% | ~126 |
 | Check out my moves! | 3.00% | ~126 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 662,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 516,
-  "Ranking_EOS_Progress": 220,
+  "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -364,9 +364,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1989,
+  "EOS_Progressed": 1990,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2679,6 +2679,11 @@
       "Time": "2023-11-09T13:12:53.4276647+00:00",
       "NumProgressed": 1989,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-10T12:08:15.2127717+00:00",
+      "NumProgressed": 1990,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2714,7 +2719,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2802,7 +2807,7 @@
       "Name": "Healing Old Wounds",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_HERE_COMES_SANTA_CLAUS",
@@ -2922,7 +2927,7 @@
       "Name": "Off the Trail",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "ACH_OUT_ON_THE_EBB_TIDE",
@@ -2938,7 +2943,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1293
+      "UsersEstimate": 1294
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2962,7 +2967,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_REVENANT",
@@ -2978,7 +2983,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -2986,7 +2991,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3018,7 +3023,7 @@
       "Name": "The Great Escape",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "ACH_THE_HARD_WAY",
@@ -3032,9 +3037,9 @@
       "ID": "ACH_THE_PHILOSOPHERS_STONE",
       "SetID": "8j30i9k",
       "Name": "The Philosopher\u2019s Stone",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 179
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -3042,7 +3047,7 @@
       "Name": "This Is Sparta",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_THROUGH_THEIR_EYES",
@@ -3066,7 +3071,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1750
+      "UsersEstimate": 1751
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3082,7 +3087,7 @@
       "Name": "What\u2019s in the Box?",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_WHO_YOU_GONNA_CALL",
@@ -3113,15 +3118,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1989,
+      "Progressed": 1990,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-10-19T21:58:58.9756693+00:00",
-  "LastChanged_Achievements": "2023-11-10T11:09:06.8099396+00:00",
+  "LastChanged_Achievements": "2023-11-10T12:08:15.2127713+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.3236898+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:01:01.8536121+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:09:06.8099779+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:59:36.9899935+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:08:15.2128184+00:00"
 }

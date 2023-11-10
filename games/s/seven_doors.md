@@ -11,18 +11,18 @@
 | Egyptologist | 33.00% | ~6 |
 | A Cautious Man Is Worth Two of His Kind | 28.00% | ~5 |
 | They’re Watching | 28.00% | ~5 |
+| Art Connoisseur | 22.00% | ~4 |
+| Survivor | 22.00% | ~4 |
 | The Last Skull | 22.00% | ~4 |
 | Thanksgiving Day | 17.00% | ~3 |
 | The Witch’s Haunt | 17.00% | ~3 |
-| Art Connoisseur | 17.00% | ~3 |
-| Survivor | 17.00% | ~3 |
 | Master of Riddles | 17.00% | ~3 |
 | Trapped in Time | 11.00% | ~2 |
 | A Cabin Boy with Potential | 11.00% | ~2 |
 | Don’t Touch the Rum! | 6.00% | ~1 |
 | Oh... You didn't think to bring it? | 6.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18 (Ranked 539)  
+Progressed: 18 (Ranked 540)  
 Completed: 2 (11.11%) (Ranked 32)  
 ## EOS Players History
 | Date | Progressed | Completed |

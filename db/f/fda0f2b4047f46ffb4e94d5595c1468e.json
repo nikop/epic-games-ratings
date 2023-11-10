@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2387,7 +2387,7 @@
   ],
   "EOS_Progressed": 8393,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7659,9 +7659,9 @@
       "ID": "ach24",
       "SetID": "47in8n6",
       "Name": "Ultimate Power",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3945
     },
     {
       "ID": "ach25",
@@ -7884,8 +7884,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-10T11:00:26.4325543+00:00",
-  "LastChanged_Achievements": "2023-11-10T11:08:17.7223025+00:00",
+  "LastChanged_Achievements": "2023-11-10T12:06:18.6198788+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:00:26.432555+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:08:17.7223516+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:59:11.5743578+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:06:18.6199409+00:00"
 }

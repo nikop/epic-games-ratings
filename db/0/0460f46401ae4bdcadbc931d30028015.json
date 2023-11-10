@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 129,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -561,9 +561,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3368,
+  "EOS_Progressed": 3369,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4686,6 +4686,11 @@
       "Time": "2023-11-10T11:06:34.682239+00:00",
       "NumProgressed": 3368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T12:05:16.1744261+00:00",
+      "NumProgressed": 3369,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4738,7 +4743,7 @@
       "Name": "ROTY",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "achievement_15",
@@ -4786,7 +4791,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "achievement_20",
@@ -4865,7 +4870,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3368,
+      "Progressed": 3369,
       "Completed": 0
     }
   ],
@@ -4873,8 +4878,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-09T22:04:22.9317958+00:00",
-  "LastChanged_Achievements": "2023-11-10T11:06:34.6822385+00:00",
+  "LastChanged_Achievements": "2023-11-10T12:05:16.1744256+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-10T10:57:14.4346847+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:06:34.6822811+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:56:57.0851178+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:05:16.1744576+00:00"
 }

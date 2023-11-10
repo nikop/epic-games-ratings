@@ -4,8 +4,8 @@
   "ProductSlug": "children-of-silentown-52cc21",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-11T16:00:00+00:00",
     "PcReleaseDate": "2023-01-11T16:00:00+00:00",
@@ -526,9 +526,9 @@
       "ID": "Puppy",
       "SetID": "9kk0gal",
       "Name": "Puppy",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "SchoolRuler",
@@ -607,8 +607,8 @@
   "FirstSeenRating": "2023-03-31T05:57:05.8679994+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.0385783+00:00",
   "LastChanged": "2023-03-31T05:57:05.8679995+00:00",
-  "LastChanged_Achievements": "2023-11-10T11:05:18.7667919+00:00",
+  "LastChanged_Achievements": "2023-11-10T12:04:19.025241+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:44.1521466+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:01:37.0662775+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:05:18.7668051+00:00"
+  "LastUpdate_Ratings": "2023-11-10T12:00:02.3447144+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:04:19.0252568+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11791,10 +11791,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 56934,
       "NumberOfAwardsMax": 6930
+    },
+    {
+      "Time": "2023-11-10T11:58:22.6395112+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 56948,
+      "NumberOfAwardsMax": 6930
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56934,
+  "NumberOfAwards": 56948,
   "NumberOfAwardsMax": 6930,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11838,7 +11844,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6212
+      "Count": 6226
     },
     {
       "Text": "This game is Relaxing",
@@ -11865,9 +11871,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 451038,
+  "EOS_Progressed": 451080,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5375,
+  "EOS_NewPlayers": 5362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35185,6 +35191,11 @@
       "Time": "2023-11-10T11:06:41.772497+00:00",
       "NumProgressed": 451038,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T12:05:21.8005552+00:00",
+      "NumProgressed": 451080,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36602,9 +36613,9 @@
       "ID": "achievement_levant_turnabout",
       "SetID": "8p2n7he",
       "Name": "The Levant Turnabout",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 451
     },
     {
       "ID": "achievement_liberty_or_death",
@@ -38099,21 +38110,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 451038,
+      "Progressed": 451080,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 451038,
+      "Progressed": 451080,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-10T04:58:36.8873188+00:00",
-  "LastChanged_Achievements": "2023-11-10T11:06:41.7724967+00:00",
+  "LastChanged": "2023-11-10T11:58:22.6395111+00:00",
+  "LastChanged_Achievements": "2023-11-10T12:05:21.8005545+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-10T10:59:15.9301131+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:06:41.7734971+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:58:22.6395117+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:05:21.801729+00:00"
 }

@@ -18,8 +18,8 @@ Rating: 4.57 (Ranked 469)
 | The merciful one | 47.00% | ~15 |
 | Ferocious wild boars | 34.00% | ~11 |
 | Idiot | 34.00% | ~11 |
+| Family man | 31.00% | ~10 |
 | Wise man | 28.00% | ~9 |
-| Family man | 28.00% | ~9 |
 | Ogre friend | 28.00% | ~9 |
 | The fourth triplet | 28.00% | ~9 |
 | Beast slayer | 25.00% | ~8 |

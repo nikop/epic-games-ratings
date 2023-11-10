@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 24,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6271,10 +6271,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 10994,
       "NumberOfAwardsMax": 7249
+    },
+    {
+      "Time": "2023-11-10T11:58:47.9902951+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11000,
+      "NumberOfAwardsMax": 7249
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 10994,
+  "NumberOfAwards": 11000,
   "NumberOfAwardsMax": 7249,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6288,7 +6294,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 525
+      "Count": 526
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6330,13 +6336,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 448
+      "Count": 453
     }
   ],
-  "EOS_Progressed": 715832,
+  "EOS_Progressed": 715856,
   "EOS_Completed": 2371,
-  "EOS_NewPlayers": 4556,
-  "EOS_NewCompleters": 65,
+  "EOS_NewPlayers": 4550,
+  "EOS_NewCompleters": 64,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29608,6 +29614,11 @@
       "Time": "2023-11-10T11:08:23.1551644+00:00",
       "NumProgressed": 715832,
       "NumCompleted": 2371
+    },
+    {
+      "Time": "2023-11-10T12:06:22.9033752+00:00",
+      "NumProgressed": 715856,
+      "NumCompleted": 2371
     }
   ],
   "TotalAchievements": 51,
@@ -29627,7 +29638,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ach_ammo_ran",
@@ -29699,7 +29710,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -29715,7 +29726,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ach_explorer",
@@ -29755,7 +29766,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ach_hazardous_materials",
@@ -29835,7 +29846,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ach_magnum_opus",
@@ -29859,7 +29870,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ach_revival_tour",
@@ -29867,7 +29878,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ach_salvation",
@@ -29875,7 +29886,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2148
     },
     {
       "ID": "ach_secrets_of_la",
@@ -29913,9 +29924,9 @@
       "ID": "ach_survival_of_the_fittest",
       "SetID": "7km39fm",
       "Name": "Max Headroom",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2863
     },
     {
       "ID": "ach_the_vcla",
@@ -29987,7 +29998,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ach_gardening_tools",
@@ -30003,7 +30014,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30026,22 +30037,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715832,
+      "Progressed": 715856,
       "Completed": 2371
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 41374,
+      "Progressed": 41398,
       "Completed": 36513
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-10T07:59:45.2636094+00:00",
-  "LastChanged_Achievements": "2023-11-10T11:08:23.1551641+00:00",
+  "LastChanged": "2023-11-10T11:58:47.9902949+00:00",
+  "LastChanged_Achievements": "2023-11-10T12:06:22.9033747+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-10T10:59:51.5572752+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:08:23.1552761+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:58:47.9902955+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:06:22.90352+00:00"
 }

@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~827 |
-| Pork Chopped | 2.00% | ~827 |
+| Whatever It Takes | 2.00% | ~828 |
+| Pork Chopped | 2.00% | ~828 |
 | One of Us | 1.00% | ~414 |
 | Hotel California | 0.60% | ~4,295 |
 | Welcome To Hell-A | 0.60% | ~4,295 |
@@ -27,17 +27,17 @@ Rating: 4.54 (Ranked 522)
 | Zombologist | 0.40% | ~2,863 |
 | A Patton Emerges | 0.40% | ~2,863 |
 | Stacking the Deck | 0.40% | ~2,863 |
+| Max Headroom | 0.40% | ~2,863 |
 | Our True Nature | 0.40% | ~2,863 |
 | This is My Weapon | 0.40% | ~2,863 |
-| Making Your Mark | 0.30% | ~2,147 |
-| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,147 |
-| Slayer Squad | 0.30% | ~2,147 |
-| Not Even My Final Form | 0.30% | ~2,147 |
-| Ooh, Shiny! | 0.30% | ~2,147 |
-| Humanity Distilled | 0.30% | ~2,147 |
-| I Am the Resurrection | 0.30% | ~2,147 |
-| Down with the Sickness | 0.30% | ~2,147 |
-| Max Headroom | 0.30% | ~2,147 |
+| Making Your Mark | 0.30% | ~2,148 |
+| I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,148 |
+| Slayer Squad | 0.30% | ~2,148 |
+| Not Even My Final Form | 0.30% | ~2,148 |
+| Ooh, Shiny! | 0.30% | ~2,148 |
+| Humanity Distilled | 0.30% | ~2,148 |
+| I Am the Resurrection | 0.30% | ~2,148 |
+| Down with the Sickness | 0.30% | ~2,148 |
 | Make it So | 0.20% | ~1,432 |
 | On Safari | 0.20% | ~1,432 |
 | Smorgasbord | 0.20% | ~1,432 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,832 (Ranked 21)  
+Progressed: 715,856 (Ranked 21)  
 Completed: 2,371 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,19 +261,19 @@ Completed: 2,371 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,832 | 2,371 |
+| 2023-11-10 | 715,856 | 2,371 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
-Sum: 10,994 (Ranked 86)  
+Sum: 11,000 (Ranked 86)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,249 |
 | This game is Great for Beginners | 533 |
-| This game has Diverse Characters | 525 |
+| This game has Diverse Characters | 526 |
 | This game has Quickly Understood Controls | 503 |
 | This game is Relaxing | 469 |
-| This game has Amazing Storytelling | 448 |
+| This game has Amazing Storytelling | 453 |
 | This game is Highly Recommended | 437 |
 | This game is Extremely Fun | 428 |
 | This game has Amazing Characters | 402 |
@@ -483,4 +483,4 @@ Diff (max vs sum): -32
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
 | 2023-11-08 | 4.54 | 7,208 | 10,930 |
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
-| 2023-11-10 | 4.54 | 7,249 | 10,994 |
+| 2023-11-10 | 4.54 | 7,249 | 11,000 |

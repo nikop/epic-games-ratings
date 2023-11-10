@@ -21,7 +21,7 @@
 | Chapter III | 23.00% | ~34 |
 | Like a moth in the Wind | 23.00% | ~34 |
 | Bubblekillerfamily | 22.00% | ~33 |
-| Quite a buggy game | 20.00% | ~30 |
+| Quite a buggy game | 21.00% | ~31 |
 | Pacifist | 20.00% | ~30 |
 | Mirror mirror on the wall... | 19.00% | ~28 |
 | Fastidious Clown | 18.00% | ~27 |
@@ -37,10 +37,10 @@
 | Mumbo Jumbo | 9.00% | ~13 |
 | Where there is life, there is hope | 7.00% | ~10 |
 | It's nothing personal | 7.00% | ~10 |
+| The hands of a healer | 6.00% | ~9 |
 | Artistic master | 5.00% | ~7 |
 | Sadist | 5.00% | ~7 |
 | Fartjokes! | 5.00% | ~7 |
-| The hands of a healer | 5.00% | ~7 |
 | Shut up clown! | 5.00% | ~7 |
 | The Green, the Fat, the Ugly | 3.00% | ~4 |
 | Life is but a dream | 3.00% | ~4 |

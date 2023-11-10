@@ -25,7 +25,7 @@ Rating: 4.38 (Ranked 763)
 | Aesop's fable | 28.00% | ~314 |
 | Hotel sleuthing | 28.00% | ~314 |
 | Nearly there | 26.00% | ~291 |
-| Broken heart | 23.00% | ~258 |
+| Broken heart | 24.00% | ~269 |
 | Island boy | 22.00% | ~246 |
 | You're a star | 21.00% | ~235 |
 | Unstoppable | 19.00% | ~213 |

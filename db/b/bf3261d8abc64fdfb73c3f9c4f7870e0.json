@@ -2,10 +2,10 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 592,
+  "Ranking_EOS_Progress": 593,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 396,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -476,8 +476,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2023-11-10T11:05:03.3928267+00:00",
+  "LastChanged_Achievements": "2023-11-10T12:04:07.4825955+00:00",
   "LastUpdate_AppInfo": "2023-11-08T13:01:47.2220778+00:00",
-  "LastUpdate_Ratings": "2023-11-10T11:00:58.7528013+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:05:03.3928634+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:59:34.6380074+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:04:07.4826275+00:00"
 }

@@ -5,44 +5,44 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,732 |
-| The Killing Jar | 8.00% | ~17,540 |
-| Expanding Horizons | 7.00% | ~15,347 |
-| Quest for Survival | 7.00% | ~15,347 |
-| Not Your Average Trait | 7.00% | ~15,347 |
-| Gleaming the Cube | 6.00% | ~13,155 |
-| Familiar Face | 6.00% | ~13,155 |
-| Duality | 6.00% | ~13,155 |
-| Boss'n Up | 6.00% | ~13,155 |
-| Trait Chaser | 6.00% | ~13,155 |
-| Not So Special Now | 5.00% | ~10,962 |
-| Not a Janitor | 5.00% | ~10,962 |
-| Equal Measures | 5.00% | ~10,962 |
-| Blue Goddess | 5.00% | ~10,962 |
-| Top Performer | 5.00% | ~10,962 |
-| Shhh...It's a Secret | 5.00% | ~10,962 |
-| Almost There | 5.00% | ~10,962 |
-| Make Some Room | 5.00% | ~10,962 |
-| Good, But Could Be Better! | 5.00% | ~10,962 |
-| Chaos | 4.00% | ~8,770 |
-| Traitor | 4.00% | ~8,770 |
-| Power Surge | 4.00% | ~8,770 |
-| The God Gambit | 4.00% | ~8,770 |
-| Dark Designs | 4.00% | ~8,770 |
-| Madman's Paradise | 4.00% | ~8,770 |
-| Was This Supposed To Happen? | 4.00% | ~8,770 |
-| The Web | 4.00% | ~8,770 |
-| Scrap Collector | 4.00% | ~8,770 |
-| All These Traits� | 4.00% | ~8,770 |
-| Am I Seeing This? | 3.00% | ~6,577 |
-| Forever is a Long Time Coming | 3.00% | ~6,577 |
-| The Agenda | 3.00% | ~6,577 |
-| Tall Tales | 3.00% | ~6,577 |
-| Bad Moon Rising | 3.00% | ~6,577 |
-| Strapped | 3.00% | ~6,577 |
-| Edgelord | 3.00% | ~6,577 |
-| The Ultimate Weapon | 3.00% | ~6,577 |
-| No One Should Have All That Power | 3.00% | ~6,577 |
+| First of Many | 9.00% | ~19,734 |
+| The Killing Jar | 8.00% | ~17,541 |
+| Expanding Horizons | 7.00% | ~15,348 |
+| Quest for Survival | 7.00% | ~15,348 |
+| Not Your Average Trait | 7.00% | ~15,348 |
+| Gleaming the Cube | 6.00% | ~13,156 |
+| Familiar Face | 6.00% | ~13,156 |
+| Duality | 6.00% | ~13,156 |
+| Boss'n Up | 6.00% | ~13,156 |
+| Trait Chaser | 6.00% | ~13,156 |
+| Not So Special Now | 5.00% | ~10,963 |
+| Not a Janitor | 5.00% | ~10,963 |
+| Equal Measures | 5.00% | ~10,963 |
+| Blue Goddess | 5.00% | ~10,963 |
+| Top Performer | 5.00% | ~10,963 |
+| Shhh...It's a Secret | 5.00% | ~10,963 |
+| Almost There | 5.00% | ~10,963 |
+| Make Some Room | 5.00% | ~10,963 |
+| Good, But Could Be Better! | 5.00% | ~10,963 |
+| Chaos | 4.00% | ~8,771 |
+| Traitor | 4.00% | ~8,771 |
+| Power Surge | 4.00% | ~8,771 |
+| The God Gambit | 4.00% | ~8,771 |
+| Dark Designs | 4.00% | ~8,771 |
+| Madman's Paradise | 4.00% | ~8,771 |
+| Was This Supposed To Happen? | 4.00% | ~8,771 |
+| The Web | 4.00% | ~8,771 |
+| Scrap Collector | 4.00% | ~8,771 |
+| All These Traits� | 4.00% | ~8,771 |
+| Am I Seeing This? | 3.00% | ~6,578 |
+| Forever is a Long Time Coming | 3.00% | ~6,578 |
+| The Agenda | 3.00% | ~6,578 |
+| Tall Tales | 3.00% | ~6,578 |
+| Bad Moon Rising | 3.00% | ~6,578 |
+| Strapped | 3.00% | ~6,578 |
+| Edgelord | 3.00% | ~6,578 |
+| The Ultimate Weapon | 3.00% | ~6,578 |
+| No One Should Have All That Power | 3.00% | ~6,578 |
 | Crafty | 2.00% | ~4,385 |
 | Only Human | 2.00% | ~4,385 |
 | Red Room | 2.00% | ~4,385 |
@@ -51,12 +51,12 @@ Rating: 4.75 (Ranked 145)
 | Carnage in C-Minor | 2.00% | ~4,385 |
 | Maxed Out! | 2.00% | ~4,385 |
 | Transmutate | 2.00% | ~4,385 |
-| Ghost in the Machine | 1.00% | ~2,192 |
-| The Trigger | 1.00% | ~2,192 |
-| Cutting Edge | 1.00% | ~2,192 |
-| Proving Grounds | 1.00% | ~2,192 |
+| Ghost in the Machine | 1.00% | ~2,193 |
+| The Trigger | 1.00% | ~2,193 |
+| Cutting Edge | 1.00% | ~2,193 |
+| Proving Grounds | 1.00% | ~2,193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,248 (Ranked 68)  
+Progressed: 219,264 (Ranked 68)  
 Completed: 436 (0.20%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 436 (0.20%) (Ranked 246)
 | 2023-11-07 | 218,702 | 433 |
 | 2023-11-08 | 218,941 | 435 |
 | 2023-11-09 | 219,166 | 435 |
-| 2023-11-10 | 219,248 | 436 |
+| 2023-11-10 | 219,264 | 436 |
 ## Awards
 Max (Great Boss Battles): 2,121  (Ranked 109)  
 Sum: 4,770 (Ranked 142)  

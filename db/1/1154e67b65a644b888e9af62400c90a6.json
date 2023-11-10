@@ -2,13 +2,13 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 714,
   "Ranking_Popularity": 270,
-  "Ranking_PopularitySum": 345,
+  "Ranking_PopularitySum": 338,
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-10-26T20:01:30.909406+00:00",
@@ -293,10 +293,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 366,
       "NumberOfAwardsMax": 243
+    },
+    {
+      "Time": "2023-11-10T11:57:46.8985688+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 389,
+      "NumberOfAwardsMax": 243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 366,
+  "NumberOfAwards": 389,
   "NumberOfAwardsMax": 243,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -335,6 +341,12 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 24
+    },
+    {
+      "Text": "This game has Amazing Characters",
+      "Prefix": "This game has",
+      "Type": "Amazing Characters",
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -349,8 +361,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-10T03:57:53.2486341+00:00",
+  "LastChanged": "2023-11-10T11:57:46.8985687+00:00",
   "LastUpdate_AppInfo": "2023-11-07T18:56:54.0544561+00:00",
-  "LastUpdate_Ratings": "2023-11-10T10:58:25.5188992+00:00",
-  "LastUpdate_Achievements": "2023-11-10T11:04:19.129289+00:00"
+  "LastUpdate_Ratings": "2023-11-10T11:57:46.898569+00:00",
+  "LastUpdate_Achievements": "2023-11-10T12:03:33.9124196+00:00"
 }

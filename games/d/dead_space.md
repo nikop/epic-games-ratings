@@ -22,7 +22,7 @@ Rating: 4.63 (Ranked 349)
 | Full Arsenal | 45.00% | ~751 |
 | S.O.S. | 44.00% | ~734 |
 | Get Off My Ship! | 43.00% | ~718 |
-| Strange Transmissions | 42.00% | ~701 |
+| Strange Transmissions | 43.00% | ~718 |
 | Live with the Hot Ones | 41.00% | ~684 |
 | Wreckage | 41.00% | ~684 |
 | Keeper of the Faith | 38.00% | ~634 |
@@ -31,8 +31,8 @@ Rating: 4.63 (Ranked 349)
 | Mindless Prey | 36.00% | ~601 |
 | Exodus | 35.00% | ~584 |
 | There's Always Peng! | 35.00% | ~584 |
+| Front Toward Enemy | 33.00% | ~551 |
 | A Cut Above | 32.00% | ~534 |
-| Front Toward Enemy | 32.00% | ~534 |
 | Whole Again | 28.00% | ~467 |
 | Set A Benchmark | 28.00% | ~467 |
 | Full Contact | 25.00% | ~417 |

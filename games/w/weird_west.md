@@ -6,21 +6,21 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,750 |
-| Self-Improvement | 71.00% | ~1,412 |
-| Perky | 65.00% | ~1,293 |
+| Unforgiven | 88.00% | ~1,751 |
+| Self-Improvement | 71.00% | ~1,413 |
+| Perky | 65.00% | ~1,294 |
 | Let’s Ride | 59.00% | ~1,174 |
 | Welcome to the Weird West | 56.00% | ~1,114 |
 | Dead or Alive | 55.00% | ~1,094 |
 | Full House | 37.00% | ~736 |
-| Off the Trail | 34.00% | ~676 |
+| Off the Trail | 34.00% | ~677 |
 | Justice Served | 30.00% | ~597 |
 | Chain Reaction | 26.00% | ~517 |
 | Through Their Eyes | 26.00% | ~517 |
-| Dishonored | 25.00% | ~497 |
-| Rain of Death | 25.00% | ~497 |
-| Scholar | 25.00% | ~497 |
-| The Great Escape | 23.00% | ~457 |
+| Dishonored | 25.00% | ~498 |
+| Rain of Death | 25.00% | ~498 |
+| Scholar | 25.00% | ~498 |
+| The Great Escape | 23.00% | ~458 |
 | That’s All, Folks | 19.00% | ~378 |
 | Fallen Star | 16.00% | ~318 |
 | Here Comes Santa Claus | 16.00% | ~318 |
@@ -34,19 +34,19 @@ Number of Ratings: 125  (23.09.2022)
 | Power Behind the Pulpit | 12.00% | ~239 |
 | Something Wicked This Way Comes… | 11.00% | ~219 |
 | There is Hope | 11.00% | ~219 |
-| The Philosopher’s Stone | 10.00% | ~199 |
 | Loyalty to the Pack | 9.00% | ~179 |
 | Eternity Can Wait | 9.00% | ~179 |
 | Mystery Machine | 9.00% | ~179 |
+| The Philosopher’s Stone | 9.00% | ~179 |
 | Do Not Pass Go… | 8.00% | ~159 |
 | Gold Digger | 8.00% | ~159 |
 | Monster Hunter | 8.00% | ~159 |
 | Knuckle Sandwich | 8.00% | ~159 |
 | Getting the Gang Back Together | 7.00% | ~139 |
 | Who You Gonna Call? | 6.00% | ~119 |
-| Healing Old Wounds | 5.00% | ~99 |
-| This Is Sparta | 5.00% | ~99 |
-| What’s in the Box? | 5.00% | ~99 |
+| Healing Old Wounds | 5.00% | ~100 |
+| This Is Sparta | 5.00% | ~100 |
+| What’s in the Box? | 5.00% | ~100 |
 | Ghost Town | 3.00% | ~60 |
 | Lord Inut Sends His Regards | 3.00% | ~60 |
 | Moondrunk | 3.00% | ~60 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,989 (Ranked 220)  
+Progressed: 1,990 (Ranked 219)  
 Completed: 7 (0.35%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 7 (0.35%) (Ranked 218)
 | 2023-11-05 | 1,981 | 7 |
 | 2023-11-06 | 1,986 | 7 |
 | 2023-11-09 | 1,989 | 7 |
+| 2023-11-10 | 1,990 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 501)  
 Sum: 28 (Ranked 516)  

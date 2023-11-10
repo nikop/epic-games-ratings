@@ -10,6 +10,7 @@ Rating: 4.55 (Ranked 502)
 | Drone Dodger | 3.00% | ~444 |
 | Bosmang | 3.00% | ~444 |
 | Celebrations are in Order | 3.00% | ~444 |
+| Impossible Objects | 3.00% | ~444 |
 | Safe Cracker | 3.00% | ~23 |
 | Zen Master | 3.00% | ~23 |
 | Data Archivist | 2.00% | ~296 |
@@ -21,7 +22,6 @@ Rating: 4.55 (Ranked 502)
 | Khan's Revenge | 2.00% | ~296 |
 | Call it Even | 2.00% | ~296 |
 | Captain Drummer | 2.00% | ~296 |
-| Impossible Objects | 2.00% | ~296 |
 | Keep Arjun in Check | 2.00% | ~15 |
 | Master Negotiator | 2.00% | ~15 |
 | Madame Undersecretary | 2.00% | ~15 |

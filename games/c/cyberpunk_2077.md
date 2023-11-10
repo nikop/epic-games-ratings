@@ -16,6 +16,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | All the President's Men | 0.40% | ~98 |
 | Arachnophobia | 0.40% | ~98 |
 | Bushido and Chill | 0.30% | ~2,688 |
+| Master Crafter | 0.30% | ~2,688 |
 | Christmas Tree Attack | 0.30% | ~2,688 |
 | The Quick and the Dead | 0.30% | ~2,688 |
 | Life of the Road | 0.30% | ~2,688 |
@@ -31,11 +32,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Dirty Deeds | 0.30% | ~74 |
 | To Protect and Serve | 0.20% | ~1,792 |
 | The Wandering Fool | 0.20% | ~1,792 |
-| Master Crafter | 0.20% | ~1,792 |
 | I Am The Law | 0.20% | ~1,792 |
 | The Fool | 0.20% | ~1,792 |
 | Two Heads, One Bullet | 0.20% | ~1,792 |
 | King of Wands | 0.20% | ~49 |
+| The Tower | 0.20% | ~49 |
 | Easy Come, Easy Go | 0.20% | ~49 |
 | City Lights | 0.10% | ~896 |
 | To Bad Decisions! | 0.10% | ~896 |
@@ -62,7 +63,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Cups | 0.10% | ~25 |
 | King of Pentacles | 0.10% | ~25 |
 | King of Swords | 0.10% | ~25 |
-| The Tower | 0.10% | ~25 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 895,989 (Ranked 15)  
+Progressed: 895,995 (Ranked 15)  
 Completed: 2,760 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 2,760 (0.31%) (Ranked 224)
 | 2023-11-07 | 895,712 | 2,753 |
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
-| 2023-11-10 | 895,989 | 2,760 |
+| 2023-11-10 | 895,995 | 2,760 |
 ## Awards
 Max (Character Customization): 104,676  (Ranked 9)  
 Sum: 348,069 (Ranked 10)  
