@@ -25,10 +25,10 @@ Rating: 4.62 (Ranked 366)
 | Like Clockwork | 19.00% | ~174 |
 | Golem Chaser | 19.00% | ~174 |
 | Check Your Pulse | 19.00% | ~174 |
+| The Family Fortune | 19.00% | ~174 |
 | Right On Time | 18.00% | ~165 |
 | The Man Who Shattered Time | 18.00% | ~165 |
 | The Loose Cannon | 18.00% | ~165 |
-| The Family Fortune | 18.00% | ~165 |
 | Street Style | 17.00% | ~156 |
 | Treasure Trove | 15.00% | ~138 |
 | Whiz Kid | 15.00% | ~138 |

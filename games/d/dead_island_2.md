@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,759 (Ranked 21)  
+Progressed: 715,773 (Ranked 21)  
 Completed: 2,369 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,17 +261,17 @@ Completed: 2,369 (0.33%) (Ranked 220)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,759 | 2,369 |
+| 2023-11-10 | 715,773 | 2,369 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
-Sum: 10,990 (Ranked 86)  
+Sum: 10,994 (Ranked 86)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,249 |
 | This game is Great for Beginners | 533 |
 | This game has Diverse Characters | 525 |
-| This game has Quickly Understood Controls | 499 |
+| This game has Quickly Understood Controls | 503 |
 | This game is Relaxing | 469 |
 | This game has Amazing Storytelling | 448 |
 | This game is Highly Recommended | 437 |
@@ -483,4 +483,4 @@ Diff (max vs sum): -32
 | 2023-11-07 | 4.54 | 7,178 | 10,881 |
 | 2023-11-08 | 4.54 | 7,208 | 10,930 |
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
-| 2023-11-10 | 4.54 | 7,249 | 10,990 |
+| 2023-11-10 | 4.54 | 7,249 | 10,994 |

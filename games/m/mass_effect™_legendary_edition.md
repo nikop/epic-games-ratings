@@ -23,7 +23,7 @@
 | Soldier Ally | 46.00% | ~498 |
 | Asari Ally | 46.00% | ~498 |
 | Principled | 46.00% | ~498 |
-| Paramour I | 44.00% | ~477 |
+| Paramour I | 45.00% | ~487 |
 | Colonial Savior | 44.00% | ~477 |
 | Scientist | 44.00% | ~477 |
 | Merciless | 43.00% | ~466 |

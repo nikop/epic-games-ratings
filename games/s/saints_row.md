@@ -11,12 +11,12 @@ Number of Ratings: 22,103  (23.09.2022)
 | Optimized | 37.00% | ~28,792 |
 | Performance Review | 36.00% | ~28,014 |
 | Making a Name | 35.00% | ~27,236 |
-| Tune Up | 34.00% | ~26,457 |
-| Landlord | 33.00% | ~25,679 |
+| Tune Up | 34.00% | ~26,458 |
+| Landlord | 33.00% | ~25,680 |
 | Wet Work | 32.00% | ~24,901 |
 | The Side Job | 31.00% | ~24,123 |
-| Wrecking Ball | 28.00% | ~21,788 |
-| Food for Thought | 28.00% | ~21,788 |
+| Wrecking Ball | 28.00% | ~21,789 |
+| Food for Thought | 28.00% | ~21,789 |
 | Finders Keepers | 26.00% | ~20,232 |
 | A Young Empire | 26.00% | ~20,232 |
 | Work Ethic | 23.00% | ~17,898 |
@@ -46,9 +46,9 @@ Number of Ratings: 22,103  (23.09.2022)
 | Hazardous Heist | 5.00% | ~2,473 |
 | Neighborly | 4.00% | ~3,113 |
 | Tourist | 4.00% | ~3,113 |
-| Shopping Spree | 3.00% | ~2,334 |
-| Always Be Hustling | 3.00% | ~2,334 |
-| Community Outreach | 3.00% | ~2,334 |
+| Shopping Spree | 3.00% | ~2,335 |
+| Always Be Hustling | 3.00% | ~2,335 |
+| Community Outreach | 3.00% | ~2,335 |
 | Bonus Round | 2.00% | ~1,556 |
 | It's a Bird! | 1.00% | ~778 |
 | The Collector | 1.00% | ~778 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~156 |
 | Fiesta Time | 0.20% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77,816 (Ranked 96)  
+Progressed: 77,817 (Ranked 96)  
 Completed: 51 (0.07%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 51 (0.07%) (Ranked 287)
 | 2023-11-07 | 77,585 | 51 |
 | 2023-11-08 | 77,678 | 51 |
 | 2023-11-09 | 77,767 | 51 |
-| 2023-11-10 | 77,816 | 51 |
+| 2023-11-10 | 77,817 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
 Sum: 8,729 (Ranked 97)  

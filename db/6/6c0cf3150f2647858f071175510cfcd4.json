@@ -4,8 +4,8 @@
   "ProductSlug": "aircraft-carrier-survival-769456",
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-20T13:00:00+00:00",
@@ -28,9 +28,155 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-10T08:04:08.4002593+00:00",
+  "TotalAchievements": 18,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "NEW_ACHIEVEMENT_1_0",
+      "SetID": "a48gbka",
+      "Name": "Ensign",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_1",
+      "SetID": "a48gbka",
+      "Name": "Lieutenant Junior Grade",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_10",
+      "SetID": "a48gbka",
+      "Name": "The Medal of Honor",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_11",
+      "SetID": "a48gbka",
+      "Name": "The Bronze Star",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_12",
+      "SetID": "a48gbka",
+      "Name": "Purple Heart",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_13",
+      "SetID": "a48gbka",
+      "Name": "Blind Kamikaze",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_14",
+      "SetID": "a48gbka",
+      "Name": "We Pirates Now",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_15",
+      "SetID": "a48gbka",
+      "Name": "Eddie Smith",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_16",
+      "SetID": "a48gbka",
+      "Name": "Octavius",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_2",
+      "SetID": "a48gbka",
+      "Name": "Lieutenant",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_3",
+      "SetID": "a48gbka",
+      "Name": "Commander",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_31",
+      "SetID": "a48gbka",
+      "Name": "Lieutenant Commander",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_4",
+      "SetID": "a48gbka",
+      "Name": "Captain",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_5",
+      "SetID": "a48gbka",
+      "Name": "Warrant Officer",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_6",
+      "SetID": "a48gbka",
+      "Name": "Rear Admiral",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_7",
+      "SetID": "a48gbka",
+      "Name": "Vice Admiral",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_8",
+      "SetID": "a48gbka",
+      "Name": "Admiral",
+      "Percentage": 0,
+      "XP": 55,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "NEW_ACHIEVEMENT_1_9",
+      "SetID": "a48gbka",
+      "Name": "Fleet Admiral",
+      "Percentage": 0,
+      "XP": 65,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "a48gbka",
@@ -40,8 +186,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-31T10:00:31.4448023+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:03:55.1566844+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:04:08.4002577+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:29.2671335+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:57:36.7406424+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:03:55.1566876+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:57:48.2705259+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:04:08.4335632+00:00"
 }

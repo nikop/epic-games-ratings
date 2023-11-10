@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1133,
+  "EOS_Progressed": 1134,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3279,6 +3279,11 @@
       "Time": "2023-11-10T04:09:18.9478298+00:00",
       "NumProgressed": 1133,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T08:09:59.8935538+00:00",
+      "NumProgressed": 1134,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3515,7 +3520,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_36",
@@ -3531,7 +3536,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "achievement_38",
@@ -3721,9 +3726,9 @@
       "ID": "achievement_59",
       "SetID": "cemm4l8",
       "Name": "Onwards!",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_6",
@@ -3794,13 +3799,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1133,
+      "Progressed": 1134,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1133,
+      "Progressed": 1134,
       "Completed": 1
     }
   ],
@@ -3808,8 +3813,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:10:05.1226409+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:09:59.8935534+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:58:57.6278625+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:10:05.122713+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:59:14.7446463+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:09:59.89361+00:00"
 }

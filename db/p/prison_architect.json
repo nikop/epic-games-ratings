@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6687,9 +6687,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 192360,
+  "EOS_Progressed": 192364,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 2252,
+  "EOS_NewPlayers": 2248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29857,6 +29857,11 @@
       "Time": "2023-11-10T07:09:32.323842+00:00",
       "NumProgressed": 192360,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-10T08:09:24.3588381+00:00",
+      "NumProgressed": 192364,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 16,
@@ -29948,7 +29953,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 48090
+      "UsersEstimate": 48091
     },
     {
       "ID": "Achievement_5",
@@ -29980,7 +29985,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17312
+      "UsersEstimate": 17313
     },
     {
       "ID": "Achievement_9",
@@ -29995,15 +30000,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 192360,
+      "Progressed": 192364,
       "Completed": 8
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2023-11-09T21:59:45.5522445+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:09:32.3238415+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:09:24.3588376+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.8448394+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:58:03.6556596+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:09:32.3239598+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:58:16.2330917+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:09:24.3589709+00:00"
 }

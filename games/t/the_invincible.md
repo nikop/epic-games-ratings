@@ -7,8 +7,8 @@
 | The Camp | 76.00% | ~93 |
 | The Teleprobe | 51.00% | ~62 |
 | The City | 42.00% | ~51 |
+| The field base | 27.00% | ~33 |
 | Krauta is alive | 26.00% | ~32 |
-| The field base | 26.00% | ~32 |
 | The Alliance | 20.00% | ~24 |
 | The Necroevolution | 18.00% | ~22 |
 | Survivors | 16.00% | ~20 |

@@ -5,9 +5,9 @@ Rating: 3.95 (Ranked 1,004)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 2.00% | ~1,801 |
-| First One’s Free | 2.00% | ~1,801 |
-| Downed but Not Outed | 2.00% | ~1,801 |
+| Neophyte Ninja | 2.00% | ~1,802 |
+| First One’s Free | 2.00% | ~1,802 |
+| Downed but Not Outed | 2.00% | ~1,802 |
 | Underworld Initiate | 1.00% | ~901 |
 | Roid Ranger | 1.00% | ~901 |
 | Too Old for This | 1.00% | ~901 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,072 (Ranked 91)  
+Progressed: 90,079 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-07 | 89,646 | 55 |
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
-| 2023-11-10 | 90,072 | 55 |
+| 2023-11-10 | 90,079 | 55 |
 ## Awards
 Max (Diverse Characters): 523  (Ranked 204)  
 Sum: 2,979 (Ranked 175)  

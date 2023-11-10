@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -730,9 +730,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_09",
@@ -969,8 +969,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:10:08.4272188+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:10:03.5809853+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:58:07.0560555+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:10:08.4272425+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:58:20.0313342+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:10:03.5810184+00:00"
 }

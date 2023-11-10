@@ -5,29 +5,29 @@ Rating: 4.67 (Ranked 273)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~17,076 |
-| A Long Time Ago | 93.00% | ~15,881 |
-| Sabersmith | 80.00% | ~13,661 |
-| The Obstacle is the Way | 78.00% | ~13,319 |
-| Back At You | 73.00% | ~12,465 |
-| Happy Go Wookiee | 69.00% | ~11,782 |
-| Everything is Connected | 60.00% | ~10,246 |
-| Her Name Was Masana Tide | 55.00% | ~9,392 |
-| Bank Shot | 54.00% | ~9,221 |
-| Perfect Timing | 53.00% | ~9,050 |
-| The Full Glow-Up | 51.00% | ~8,709 |
-| Gorgara Falls | 50.00% | ~8,538 |
-| For A More Civilized Age | 49.00% | ~8,367 |
-| I Knew He Was No Good | 47.00% | ~8,026 |
-| The Holocron Awaits | 46.00% | ~7,855 |
-| Look Out Below | 44.00% | ~7,513 |
-| Trust Only In The Force | 44.00% | ~7,513 |
-| Scum and Villainy | 43.00% | ~7,343 |
-| Don't Mess with BD-1 | 42.00% | ~7,172 |
-| Blade Master | 38.00% | ~6,489 |
-| Full House | 36.00% | ~6,147 |
+| The Mantis | 100.00% | ~17,078 |
+| A Long Time Ago | 93.00% | ~15,883 |
+| Sabersmith | 80.00% | ~13,662 |
+| The Obstacle is the Way | 78.00% | ~13,321 |
+| Back At You | 73.00% | ~12,467 |
+| Happy Go Wookiee | 69.00% | ~11,784 |
+| Everything is Connected | 60.00% | ~10,247 |
+| Her Name Was Masana Tide | 55.00% | ~9,393 |
+| Bank Shot | 54.00% | ~9,222 |
+| Perfect Timing | 53.00% | ~9,051 |
+| The Full Glow-Up | 51.00% | ~8,710 |
+| Gorgara Falls | 50.00% | ~8,539 |
+| For A More Civilized Age | 49.00% | ~8,368 |
+| I Knew He Was No Good | 47.00% | ~8,027 |
+| The Holocron Awaits | 46.00% | ~7,856 |
+| Look Out Below | 44.00% | ~7,514 |
+| Trust Only In The Force | 44.00% | ~7,514 |
+| Scum and Villainy | 43.00% | ~7,344 |
+| Don't Mess with BD-1 | 42.00% | ~7,173 |
+| Blade Master | 38.00% | ~6,490 |
+| Full House | 36.00% | ~6,148 |
 | Legendary Beasts | 22.00% | ~3,757 |
-| Echo Location | 20.00% | ~3,415 |
+| Echo Location | 20.00% | ~3,416 |
 | Visiting Alderaan Places | 18.00% | ~3,074 |
 | Triple Take | 14.00% | ~2,391 |
 | Cal Got Your Tongue? | 14.00% | ~2,391 |
@@ -45,7 +45,7 @@ Rating: 4.67 (Ranked 273)
 | Kicking Back | 2.00% | ~342 |
 | Not So Fast | 1.00% | ~171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,076 (Ranked 141)  
+Progressed: 17,078 (Ranked 141)  
 Completed: 175 (1.02%) (Ranked 156)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 175 (1.02%) (Ranked 156)
 | 2023-11-07 | 16,711 | 175 |
 | 2023-11-08 | 16,854 | 175 |
 | 2023-11-09 | 17,036 | 175 |
-| 2023-11-10 | 17,076 | 175 |
+| 2023-11-10 | 17,078 | 175 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

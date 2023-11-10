@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129022,
+  "EOS_Progressed": 129023,
   "EOS_Completed": 1102,
-  "EOS_NewPlayers": 1107,
+  "EOS_NewPlayers": 1104,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -23435,6 +23435,11 @@
       "Time": "2023-11-10T07:04:00.3934071+00:00",
       "NumProgressed": 129022,
       "NumCompleted": 1102
+    },
+    {
+      "Time": "2023-11-10T08:04:13.9800708+00:00",
+      "NumProgressed": 129023,
+      "NumCompleted": 1102
     }
   ],
   "TotalAchievements": 34,
@@ -23462,7 +23467,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 54189
+      "UsersEstimate": 54190
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -23470,7 +23475,7 @@
       "Name": "Halfway there",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 37416
+      "UsersEstimate": 37417
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -23518,7 +23523,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 72252
+      "UsersEstimate": 72253
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -23662,7 +23667,7 @@
       "Name": "Sunken",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 30965
+      "UsersEstimate": 30966
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -23694,7 +23699,7 @@
       "Name": "Deep Cut",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 30965
+      "UsersEstimate": 30966
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -23717,7 +23722,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 129022,
+      "Progressed": 129023,
       "Completed": 1102
     }
   ],
@@ -23725,8 +23730,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-10-24T13:02:43.2101137+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:04:00.3934064+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:04:13.9800704+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:05.9938118+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:00:00.9492832+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:04:00.3935373+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:00:22.6757594+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:04:13.9801984+00:00"
 }

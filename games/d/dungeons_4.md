@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 75.00% | ~76 |
-| Thalya – Simply Immortal | 75.00% | ~76 |
-| Thalya's Concentrated Fury | 61.00% | ~62 |
-| For the Horde! | 59.00% | ~60 |
-| Hammer Time, Round Two | 53.00% | ~54 |
-| The Hellwoods | 45.00% | ~46 |
-| Master of Magic | 34.00% | ~35 |
-| Magic Accidents | 30.00% | ~31 |
+| The Last Stand | 75.00% | ~79 |
+| Thalya – Simply Immortal | 75.00% | ~79 |
+| Thalya's Concentrated Fury | 60.00% | ~63 |
+| For the Horde! | 58.00% | ~61 |
+| Hammer Time, Round Two | 51.00% | ~54 |
+| The Hellwoods | 46.00% | ~48 |
+| Master of Magic | 33.00% | ~35 |
+| Magic Accidents | 31.00% | ~33 |
 | Trap Master | 29.00% | ~30 |
 | Experienced Thalya | 25.00% | ~26 |
-| The Plains of Strothalm | 23.00% | ~23 |
-| Unicorn steaks – fresh off the hoof! | 22.00% | ~22 |
-| Minions, Minions! | 19.00% | ~19 |
-| Bad Elves Go Everywhere | 16.00% | ~16 |
+| The Plains of Strothalm | 23.00% | ~24 |
+| Unicorn steaks – fresh off the hoof! | 22.00% | ~23 |
+| Minions, Minions! | 18.00% | ~19 |
+| Bad Elves Go Everywhere | 16.00% | ~17 |
 | Sacrificial Pit = Garbage Disposal? | 5.00% | ~5 |
-| Heroes’ Gorge | 4.00% | ~4 |
-| Mana Cannon | 4.00% | ~4 |
-| YOU SHALL NOT PASS! | 4.00% | ~4 |
+| Heroes’ Gorge | 5.00% | ~5 |
+| Mana Cannon | 5.00% | ~5 |
+| YOU SHALL NOT PASS! | 5.00% | ~5 |
 | The Big Eaty | 3.00% | ~3 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 3.00% | ~3 |
 | The Ascent | 2.00% | ~2 |
@@ -32,15 +32,15 @@
 | Dungeonlord Gorgu | 2.00% | ~2 |
 | Forbidden Knowledge | 2.00% | ~2 |
 | Hard Work | 1.00% | ~1 |
+| The Cathedral of Light | 1.00% | ~1 |
+| Unstoppable Horde | 1.00% | ~1 |
 | Shame! Shame! Shame! | 1.00% | ~1 |
+| Ghost Pirates? Ghost Heroes! | 1.00% | ~1 |
 | All’s Well That Ends Evil | 1.00% | ~1 |
 | Stop Tanos! | 1.00% | ~1 |
 | My Little Torture Chamber | 1.00% | ~1 |
 | The Last Stand - This Time For Real! | 1.00% | ~1 |
-| The Cathedral of Light | 0.00% | ~0 |
-| Unstoppable Horde | 0.00% | ~0 |
 | Tanos' Crusade Against Thalya | 0.00% | ~0 |
-| Ghost Pirates? Ghost Heroes! | 0.00% | ~0 |
 | Master of the Undead | 0.00% | ~0 |
 | The Duel | 0.00% | ~0 |
 | Gorgu is in the Best of Health | 0.00% | ~0 |
@@ -66,10 +66,10 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 102 (Ranked 418)  
+Progressed: 105 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-09 | 76 | 0 |
-| 2023-11-10 | 102 | 0 |
+| 2023-11-10 | 105 | 0 |

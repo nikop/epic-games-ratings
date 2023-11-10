@@ -4,8 +4,8 @@
   "ProductSlug": "dawn-apart-db81bd",
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T15:57:10.813297+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:57:53.4829163+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:03:25.816817+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:58:05.9638334+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:03:37.345324+00:00"
 }

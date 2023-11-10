@@ -39,9 +39,9 @@ Rating: 4.25 (Ranked 874)
 | Denying Prophecy | 9.00% | ~197 |
 | Stimulating The Local Economy | 9.00% | ~197 |
 | A Little Banged Up | 8.00% | ~175 |
+| Following In Their Footsteps | 8.00% | ~175 |
 | Defense in Depth | 8.00% | ~175 |
 | Reverse Engineering | 7.00% | ~153 |
-| Following In Their Footsteps | 7.00% | ~153 |
 | Reborn | 6.00% | ~131 |
 | Remote Surgery | 6.00% | ~131 |
 | Turbo Booster | 6.00% | ~131 |

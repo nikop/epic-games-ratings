@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -261,6 +261,11 @@
       "Time": "2023-11-10T05:08:13.4653831+00:00",
       "NumProgressed": 208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T08:08:30.0136931+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -327,9 +332,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ChasingTheLight",
@@ -449,7 +454,7 @@
       "Name": "Just One Lap",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "LordOfTheFiles",
@@ -465,7 +470,7 @@
       "Name": "Lost Marshes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "MistressOfRiddles",
@@ -537,7 +542,7 @@
       "Name": "Persistent",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "PrometheusUnbound",
@@ -553,7 +558,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "RemnantsOfThePast",
@@ -681,7 +686,7 @@
       "Name": "The Word Endures",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "TouchGrass",
@@ -713,7 +718,7 @@
       "Name": "Wanderers",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WesternDelta",
@@ -744,7 +749,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 0
     }
   ],
@@ -752,8 +757,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-09T22:04:46.1643525+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:08:41.7630292+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:08:30.0136926+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:02:47.172923+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:08:41.7630768+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:02:54.6260409+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:08:30.0137323+00:00"
 }

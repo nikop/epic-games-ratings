@@ -4061,7 +4061,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76220,
+  "EOS_Progressed": 76221,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 1,
@@ -22091,6 +22091,11 @@
       "Time": "2023-11-10T07:03:41.7518248+00:00",
       "NumProgressed": 76220,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-10T08:03:54.623926+00:00",
+      "NumProgressed": 76221,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22182,7 +22187,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9146
+      "UsersEstimate": 9147
     },
     {
       "ID": "APPLY_STATUS",
@@ -22198,7 +22203,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12957
+      "UsersEstimate": 12958
     },
     {
       "ID": "CLAYFACE_1",
@@ -22230,7 +22235,7 @@
       "Name": "That\u0027s Showbiz, Clayby",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "CRAFTING_LEGENDARY_SET",
@@ -22278,7 +22283,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9146
+      "UsersEstimate": 9147
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -22446,7 +22451,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38872
+      "UsersEstimate": 38873
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22478,7 +22483,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20579
+      "UsersEstimate": 20580
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -22510,7 +22515,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16768
+      "UsersEstimate": 16769
     },
     {
       "ID": "MYSTERY_04",
@@ -22550,7 +22555,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9146
+      "UsersEstimate": 9147
     },
     {
       "ID": "SECRET_CACHE",
@@ -22589,13 +22594,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76220,
+      "Progressed": 76221,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46500,
+      "Progressed": 46501,
       "Completed": 2673
     }
   ],
@@ -22603,8 +22608,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-09T13:03:17.698361+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:03:41.7518243+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:03:54.6239255+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:59:37.2134618+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:03:41.7519666+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:59:58.0207866+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:03:54.6240391+00:00"
 }

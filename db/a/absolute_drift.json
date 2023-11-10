@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -457,9 +457,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1549640,
+  "EOS_Progressed": 1549645,
   "EOS_Completed": 720,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1257,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -23642,6 +23642,11 @@
       "Time": "2023-11-10T07:03:55.9611656+00:00",
       "NumProgressed": 1549640,
       "NumCompleted": 720
+    },
+    {
+      "Time": "2023-11-10T08:04:09.3005914+00:00",
+      "NumProgressed": 1549645,
+      "NumCompleted": 720
     }
   ],
   "TotalAchievements": 20,
@@ -23693,7 +23698,7 @@
       "Name": "Drift Line Master",
       "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 10847
+      "UsersEstimate": 10848
     },
     {
       "ID": "ACH_GOOD_SKILLS",
@@ -23717,7 +23722,7 @@
       "Name": "Insane Skills",
       "Percentage": 0.7,
       "XP": 95,
-      "UsersEstimate": 10847
+      "UsersEstimate": 10848
     },
     {
       "ID": "ACH_JELLY_FILLED_DONUTS",
@@ -23812,15 +23817,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1549640,
+      "Progressed": 1549645,
       "Completed": 720
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:03:55.9611648+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:04:09.3005908+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:09.8871032+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:00:08.4924907+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:03:55.9612868+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:00:30.5985665+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:04:09.3007085+00:00"
 }

@@ -10,7 +10,7 @@ Rating: 4.21 (Ranked 901)
 | Without a Scratch | 34.00% | ~2,909 |
 | Wreckless Driving | 28.00% | ~2,396 |
 | A Marked Man | 25.00% | ~2,139 |
-| Street Sweeper | 18.00% | ~1,540 |
+| Street Sweeper | 19.00% | ~1,626 |
 | Liberty City Minute | 17.00% | ~1,455 |
 | Offshore Delivery | 14.00% | ~1,198 |
 | Dirty Money | 13.00% | ~1,112 |

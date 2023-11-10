@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4023,9 +4023,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 77816,
+  "EOS_Progressed": 77817,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 756,
+  "EOS_NewPlayers": 751,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27063,6 +27063,11 @@
       "Time": "2023-11-10T07:08:47.7679151+00:00",
       "NumProgressed": 77816,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-10T08:08:36.6135094+00:00",
+      "NumProgressed": 77817,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -27098,7 +27103,7 @@
       "Name": "Shopping Spree",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "car_jacked_by_a_ped",
@@ -27146,7 +27151,7 @@
       "Name": "Always Be Hustling",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "complete_challenge_packs",
@@ -27194,7 +27199,7 @@
       "Name": "Tune Up",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 26457
+      "UsersEstimate": 26458
     },
     {
       "ID": "customize_a_weapon",
@@ -27282,7 +27287,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25679
+      "UsersEstimate": 25680
     },
     {
       "ID": "fully_complete_a_building",
@@ -27354,7 +27359,7 @@
       "Name": "Wrecking Ball",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21788
+      "UsersEstimate": 21789
     },
     {
       "ID": "kill_tank_driver_with_rail",
@@ -27426,7 +27431,7 @@
       "Name": "Food for Thought",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 21788
+      "UsersEstimate": 21789
     },
     {
       "ID": "two_thirds_purple",
@@ -27434,7 +27439,7 @@
       "Name": "Community Outreach",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2334
+      "UsersEstimate": 2335
     },
     {
       "ID": "unlock_all_vehicle_specials",
@@ -27497,22 +27502,22 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 77816,
+      "Progressed": 77817,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 49453,
-      "Completed": 4287
+      "Progressed": 49454,
+      "Completed": 4288
     }
   ],
   "FirstSeen": "2022-08-23T07:31:38.2475715+00:00",
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-07T18:03:25.9766934+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:08:47.7679146+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:08:36.613509+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.8364565+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:03:11.0300486+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:08:47.7680541+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:03:20.771437+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:08:36.6136577+00:00"
 }

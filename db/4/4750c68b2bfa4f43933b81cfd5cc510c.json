@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 55,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -1527,9 +1527,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 52116,
+  "EOS_Progressed": 52118,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1756,
+  "EOS_NewPlayers": 1755,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7397,6 +7397,11 @@
       "Time": "2023-11-10T07:04:35.0785169+00:00",
       "NumProgressed": 52116,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-10T08:04:51.2079626+00:00",
+      "NumProgressed": 52118,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -7417,7 +7422,7 @@
       "Name": "Surgical Aim",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "achievement_11",
@@ -7425,7 +7430,7 @@
       "Name": "Bullseye",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "achievement_12",
@@ -7433,7 +7438,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 31791
+      "UsersEstimate": 31792
     },
     {
       "ID": "achievement_13",
@@ -7441,7 +7446,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 27621
+      "UsersEstimate": 27623
     },
     {
       "ID": "achievement_14",
@@ -7449,7 +7454,7 @@
       "Name": "The Alchemist",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 26058
+      "UsersEstimate": 26059
     },
     {
       "ID": "achievement_15",
@@ -7457,7 +7462,7 @@
       "Name": "Trust me, I\u0027m a Manager",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 25537
+      "UsersEstimate": 25538
     },
     {
       "ID": "achievement_16",
@@ -7465,7 +7470,7 @@
       "Name": "Defensive Masterclass",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 22410
+      "UsersEstimate": 22411
     },
     {
       "ID": "achievement_17",
@@ -7473,7 +7478,7 @@
       "Name": "One Moment Please!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 31270
+      "UsersEstimate": 31271
     },
     {
       "ID": "achievement_18",
@@ -7481,7 +7486,7 @@
       "Name": "Welcome to the Big Leagues!",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 20846
+      "UsersEstimate": 20847
     },
     {
       "ID": "achievement_19",
@@ -7489,7 +7494,7 @@
       "Name": "Seasoned Veteran",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7817
+      "UsersEstimate": 7818
     },
     {
       "ID": "achievement_2",
@@ -7513,7 +7518,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 43777
+      "UsersEstimate": 43779
     },
     {
       "ID": "achievement_22",
@@ -7521,7 +7526,7 @@
       "Name": "Level Up!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 28143
+      "UsersEstimate": 28144
     },
     {
       "ID": "achievement_23",
@@ -7529,7 +7534,7 @@
       "Name": "Graduation Day",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 26058
+      "UsersEstimate": 26059
     },
     {
       "ID": "achievement_24",
@@ -7553,7 +7558,7 @@
       "Name": "We\u0027re Going Up",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 4690
+      "UsersEstimate": 4691
     },
     {
       "ID": "achievement_27",
@@ -7569,7 +7574,7 @@
       "Name": "First of Many",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 7817
+      "UsersEstimate": 7818
     },
     {
       "ID": "achievement_29",
@@ -7673,7 +7678,7 @@
       "Name": "Shop till you drop",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "achievement_40",
@@ -7697,7 +7702,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 30227
+      "UsersEstimate": 30228
     },
     {
       "ID": "achievement_7",
@@ -7713,7 +7718,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 38566
+      "UsersEstimate": 38567
     },
     {
       "ID": "achievement_9",
@@ -7728,7 +7733,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 52116,
+      "Progressed": 52118,
       "Completed": 0
     }
   ],
@@ -7736,8 +7741,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-10T04:00:45.8017461+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:04:35.0785164+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:04:51.2079621+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.8674427+00:00",
-  "LastUpdate_Ratings": "2023-11-10T07:02:48.0317486+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:04:35.0785696+00:00"
+  "LastUpdate_Ratings": "2023-11-10T08:02:55.7716191+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:04:51.2080192+00:00"
 }

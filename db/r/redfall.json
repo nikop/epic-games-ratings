@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -2421,9 +2421,9 @@
       "ID": "Achievement_008",
       "SetID": "6b34g18",
       "Name": "Blood Will Have Blood",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement_009",
@@ -2565,9 +2565,9 @@
       "ID": "Achievement_026",
       "SetID": "6b34g18",
       "Name": "Fly Fisher",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 35
     },
     {
       "ID": "Achievement_027",
@@ -2910,8 +2910,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2023-10-08T15:57:53.1748386+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:04:06.3334755+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:04:20.4619525+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.8692687+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:58:25.1209993+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:04:06.3335429+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:58:39.6879423+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:04:20.4620307+00:00"
 }

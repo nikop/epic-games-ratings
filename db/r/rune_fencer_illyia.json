@@ -4,8 +4,8 @@
   "ProductSlug": "rune-fencer-illyia",
   "Ranking_EOS_Progress": 738,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-02T03:00:00+00:00",
     "PcReleaseDate": null,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T18:59:21.3235489+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:59:20.490241+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:05:38.5101371+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:59:39.274799+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:05:58.4687507+00:00"
 }

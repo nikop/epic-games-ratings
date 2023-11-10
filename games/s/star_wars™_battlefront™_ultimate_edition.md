@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,008 |
-| Off to a good start | 67.00% | ~759 |
+| New Recruit | 89.00% | ~1,009 |
+| Off to a good start | 67.00% | ~760 |
 | Do... or do not. There is no try | 51.00% | ~578 |
 | A good blaster at your side | 32.00% | ~363 |
 | I suggest a new strategy | 20.00% | ~227 |
@@ -46,7 +46,6 @@
 | This is a new day, a new beginning | 2.00% | ~23 |
 | City in the Clouds | 2.00% | ~23 |
 | Alternative solution | 2.00% | ~23 |
-| Onwards! | 2.00% | ~23 |
 | The circle is now complete | 2.00% | ~23 |
 | Disturbed tranquility | 2.00% | ~23 |
 | Playing the objective | 1.00% | ~11 |
@@ -55,6 +54,7 @@
 | You have your moments | 1.00% | ~11 |
 | When surrounded by war... | 1.00% | ~11 |
 | Stop that Droid | 1.00% | ~11 |
+| Onwards! | 1.00% | ~11 |
 | A New Hope | 0.80% | ~9 |
 | Walker defender | 0.70% | ~8 |
 | I’ll take that bet | 0.60% | ~7 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,133 (Ranked 243)  
+Progressed: 1,134 (Ranked 243)  
 Completed: 1 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 1 (0.09%) (Ranked 275)
 | 2023-11-07 | 1,095 | 1 |
 | 2023-11-08 | 1,114 | 1 |
 | 2023-11-09 | 1,130 | 1 |
-| 2023-11-10 | 1,133 | 1 |
+| 2023-11-10 | 1,134 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

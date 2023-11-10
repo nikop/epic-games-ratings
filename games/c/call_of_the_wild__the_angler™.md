@@ -13,7 +13,7 @@ Number of Ratings: 281  (23.09.2022)
 | Can you smell what the Rod is Hooking | 0.80% | ~52 |
 | More Fish in the Sea | 0.80% | ~52 |
 | Ready to Rod and Roll | 0.70% | ~45 |
-| Fish Out of Water | 0.50% | ~32 |
+| Fish Out of Water | 0.60% | ~39 |
 | Things that go Splash in the Night | 0.50% | ~32 |
 | School's Out for Summer | 0.40% | ~26 |
 | Goldfish? | 0.30% | ~19 |

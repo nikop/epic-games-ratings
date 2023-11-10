@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -5795,9 +5795,9 @@
       "ID": "A12",
       "SetID": "9b7p7eo",
       "Name": "Departure",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1550
+      "UsersEstimate": 1571
     },
     {
       "ID": "A13",
@@ -5835,9 +5835,9 @@
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1125
+      "UsersEstimate": 1146
     },
     {
       "ID": "A18",
@@ -6148,8 +6148,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-06T17:57:18.8272993+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:05:58.4962302+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:06:19.3629418+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:59:10.6832435+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:05:58.4962935+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:59:28.5986298+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:06:19.3630014+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3908,10 +3908,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3143,
       "NumberOfAwardsMax": 396
+    },
+    {
+      "Time": "2023-11-10T07:59:36.3415235+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3144,
+      "NumberOfAwardsMax": 396
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3143,
+  "NumberOfAwards": 3144,
   "NumberOfAwardsMax": 396,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3961,7 +3967,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 363
+      "Count": 364
     },
     {
       "Text": "This game has a Competitive Community",
@@ -3982,9 +3988,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 481298,
+  "EOS_Progressed": 481308,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6611,
+  "EOS_NewPlayers": 6609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27192,6 +27198,11 @@
       "Time": "2023-11-10T07:05:13.4949171+00:00",
       "NumProgressed": 481298,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-10T08:05:32.0426283+00:00",
+      "NumProgressed": 481308,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -27235,7 +27246,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -27482,15 +27493,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 481298,
+      "Progressed": 481308,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
-  "LastChanged": "2023-11-10T06:59:18.0707019+00:00",
-  "LastChanged_Achievements": "2023-11-10T07:05:13.4949167+00:00",
+  "LastChanged": "2023-11-10T07:59:36.3415232+00:00",
+  "LastChanged_Achievements": "2023-11-10T08:05:32.0426279+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:18.2251472+00:00",
-  "LastUpdate_Ratings": "2023-11-10T06:59:18.0707025+00:00",
-  "LastUpdate_Achievements": "2023-11-10T07:05:13.4950747+00:00"
+  "LastUpdate_Ratings": "2023-11-10T07:59:36.3415238+00:00",
+  "LastUpdate_Achievements": "2023-11-10T08:05:32.0427504+00:00"
 }

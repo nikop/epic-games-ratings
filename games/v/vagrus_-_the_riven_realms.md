@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~99 |
-| Press-ganged | 41.00% | ~71 |
+| A Second Chance | 58.00% | ~102 |
+| Press-ganged | 41.00% | ~72 |
 | The Package | 27.00% | ~47 |
-| Conquered | 18.00% | ~31 |
-| Randomized | 16.00% | ~28 |
+| Conquered | 18.00% | ~32 |
+| Randomized | 17.00% | ~30 |
 | Scribe | 9.00% | ~16 |
 | Tactician | 9.00% | ~16 |
 | Breached | 9.00% | ~16 |
@@ -36,21 +36,21 @@
 | Inquisitions of Discord | 3.00% | ~5 |
 | Merchant | 3.00% | ~5 |
 | Unseen Patterns | 3.00% | ~5 |
-| Making Contact | 2.00% | ~3 |
-| Supercargo | 2.00% | ~3 |
-| Talent Nurtured | 2.00% | ~3 |
-| Huntress Unbound | 2.00% | ~3 |
-| Despised | 2.00% | ~3 |
-| Business As Usual | 2.00% | ~3 |
-| Legacy of a Mercenary | 2.00% | ~3 |
-| Moving At Odd Angles | 2.00% | ~3 |
-| Delayed | 2.00% | ~3 |
-| A Real Battle | 2.00% | ~3 |
-| The Darkness Within | 2.00% | ~3 |
-| Life... Finds a Way | 2.00% | ~3 |
-| Merchant Lord | 2.00% | ~3 |
-| Voracity Confronted | 2.00% | ~3 |
-| Insectoid Propagator | 2.00% | ~3 |
+| Making Contact | 2.00% | ~4 |
+| Supercargo | 2.00% | ~4 |
+| Talent Nurtured | 2.00% | ~4 |
+| Huntress Unbound | 2.00% | ~4 |
+| Despised | 2.00% | ~4 |
+| Business As Usual | 2.00% | ~4 |
+| Legacy of a Mercenary | 2.00% | ~4 |
+| Moving At Odd Angles | 2.00% | ~4 |
+| Delayed | 2.00% | ~4 |
+| A Real Battle | 2.00% | ~4 |
+| The Darkness Within | 2.00% | ~4 |
+| Life... Finds a Way | 2.00% | ~4 |
+| Merchant Lord | 2.00% | ~4 |
+| Voracity Confronted | 2.00% | ~4 |
+| Insectoid Propagator | 2.00% | ~4 |
 | Watcher | 1.00% | ~2 |
 | Executor | 1.00% | ~2 |
 | Loremaster | 1.00% | ~2 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 174 (Ranked 378)  
+Progressed: 175 (Ranked 378)  
 Completed: 0 (0.00%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 0 (0.00%) (Ranked 346)
 | 2023-11-05 | 162 | 0 |
 | 2023-11-08 | 166 | 0 |
 | 2023-11-09 | 170 | 0 |
-| 2023-11-10 | 174 | 0 |
+| 2023-11-10 | 175 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

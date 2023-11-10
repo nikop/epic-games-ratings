@@ -26,6 +26,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Uncharted Territory | 0.20% | ~479 |
 | Explorer | 0.20% | ~479 |
 | An Offering | 0.20% | ~479 |
+| Who Needs Luck? | 0.20% | ~2 |
 | Expensive Look | 0.20% | ~2 |
 | What Doesn't Kill You | 0.20% | ~2 |
 | Thank You, Friend | 0.10% | ~239 |
@@ -133,7 +134,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Precious | 0.10% | ~239 |
 | You Call That A Knife? | 0.10% | ~239 |
 | Scrounger Appreciation | 0.10% | ~1 |
-| Who Needs Luck? | 0.10% | ~1 |
 | Explosives Expert | 0.10% | ~1 |
 | All Natural | 0.10% | ~1 |
 | Diviner | 0.10% | ~1 |

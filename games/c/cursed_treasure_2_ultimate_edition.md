@@ -19,13 +19,13 @@
 | Drunken Master | 74.00% | ~130 |
 | Sergeant of the Evil | 74.00% | ~130 |
 | V.I.P. Cemetery | 72.00% | ~127 |
+| Woodcutter | 71.00% | ~125 |
 | Architect of Darkness | 71.00% | ~125 |
 | Top of the World | 70.00% | ~123 |
 | Takeover | 70.00% | ~123 |
-| Woodcutter | 70.00% | ~123 |
 | Sharpshooter | 69.00% | ~121 |
+| The Apotheosis of War | 68.00% | ~120 |
 | Stasis Alcatraz | 68.00% | ~120 |
-| The Apotheosis of War | 67.00% | ~118 |
 | Brilliant: Holy Mountain | 63.00% | ~111 |
 | Combo Breaker | 63.00% | ~111 |
 | Tastes Like Chicken | 63.00% | ~111 |
