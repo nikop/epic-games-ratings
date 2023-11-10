@@ -64,7 +64,7 @@
 | 62 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 63 | [JARS](games/j/jars.md) | 5.68% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
-| 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.51% |
+| 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.50% |
 | 66 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.47% |
 | 67 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 68 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
@@ -133,9 +133,9 @@
 | 131 | [Five Dates](games/f/five_dates.md) | 1.62% |
 | 132 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.60% |
 | 133 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.54% |
-| 134 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
-| 134 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.53% |
-| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.53% |
+| 133 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.54% |
+| 135 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.53% |
+| 135 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.53% |
 | 137 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
 | 138 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
 | 139 | [Late Shift](games/l/late_shift.md) | 1.42% |
@@ -155,7 +155,7 @@
 | 153 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
 | 154 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.04% |
 | 154 | [Infindustry](games/i/infindustry.md) | 1.04% |
-| 156 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.03% |
+| 156 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 1.02% |
 | 157 | [Sable](games/s/sable.md) | 1.01% |
 | 158 | [Trifox](games/t/trifox.md) | 0.98% |
 | 159 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.96% |
@@ -169,9 +169,9 @@
 | 167 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 168 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.84% |
 | 168 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
+| 170 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.82% |
 | 170 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 171 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.81% |
-| 171 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.81% |
+| 172 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.81% |
 | 173 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 174 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 175 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |

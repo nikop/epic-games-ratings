@@ -27,22 +27,22 @@
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,485 | 132 |
 | 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 737 | 175 |
 | 24 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 548 |
+| 24 | [Rayman Origins](games/r/rayman_origins.md) | 4.87 | 31 | 487 |
 | 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 22 | 531 |
-| 29 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 548 |
-| 29 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 138 | 323 |
-| 29 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 157 | 311 |
-| 29 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.86 | 21 | 538 |
-| 29 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 42 | 451 |
-| 29 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.86 | 0 | 548 |
-| 29 | [Inscryption](games/i/inscryption.md) | 4.86 | 345 | 237 |
-| 29 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 13,073 | 31 |
-| 29 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 98 | 360 |
-| 29 | [Rayman Origins](games/r/rayman_origins.md) | 4.86 | 31 | 487 |
-| 29 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 158 | 310 |
-| 29 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,537 | 128 |
-| 29 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 548 |
-| 29 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 538 | 202 |
-| 29 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 548 |
+| 30 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 548 |
+| 30 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 138 | 323 |
+| 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 157 | 311 |
+| 30 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 4.86 | 21 | 538 |
+| 30 | [Bugsnax](games/b/bugsnax.md) | 4.86 | 42 | 451 |
+| 30 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 4.86 | 0 | 548 |
+| 30 | [Inscryption](games/i/inscryption.md) | 4.86 | 345 | 237 |
+| 30 | [Marvel's Spider-Man Remastered](games/m/marvel's_spider-man_remastered.md) | 4.86 | 13,073 | 31 |
+| 30 | [NEO: The World Ends with You](games/n/neo__the_world_ends_with_you.md) | 4.86 | 98 | 360 |
+| 30 | [Tetris® Effect: Connected](games/t/tetris®_effect__connected.md) | 4.86 | 158 | 310 |
+| 30 | [The Elder Scrolls V: Skyrim Special Edition](games/t/the_elder_scrolls_v__skyrim_special_edition.md) | 4.86 | 1,537 | 128 |
+| 30 | [The Jackbox Party Pack 7](games/t/the_jackbox_party_pack_7.md) | 4.86 | 0 | 548 |
+| 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 538 | 202 |
+| 30 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 548 |
 | 44 | [Coffee Talk](games/c/coffee_talk.md) | 4.85 | 0 | 548 |
 | 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,035 | 46 |
 | 44 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,613 | 68 |
@@ -116,7 +116,7 @@
 | 106 | [Wildermyth](games/w/wildermyth.md) | 4.78 | 28 | 501 |
 | 115 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.77 | 207 | 282 |
 | 115 | [Bloons TD 6](games/b/bloons_td_6.md) | 4.77 | 7,266 | 53 |
-| 115 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,840 | 48 |
+| 115 | [DEATH STRANDING](games/d/death_stranding.md) | 4.77 | 7,855 | 48 |
 | 115 | [Outlast](games/o/outlast.md) | 4.77 | 0 | 548 |
 | 115 | [Quake](games/q/quake.md) | 4.77 | 49 | 432 |
 | 115 | [SpiderHeck](games/s/spiderheck.md) | 4.77 | 0 | 548 |
@@ -406,31 +406,31 @@
 | 385 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,096 | 144 |
 | 385 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 548 |
 | 385 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 292 | 252 |
+| 385 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.61 | 0 | 548 |
 | 385 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 0 | 548 |
 | 385 | [Supraland](games/s/supraland.md) | 4.61 | 7,720 | 49 |
 | 385 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 548 |
-| 410 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,669 | 26 |
-| 410 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 548 |
-| 410 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,865 | 73 |
-| 410 | [Control](games/c/control.md) | 4.60 | 8,699 | 42 |
-| 410 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 221 | 277 |
-| 410 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 77 | 392 |
-| 410 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,946 | 28 |
-| 410 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 124 | 334 |
-| 410 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.60 | 0 | 548 |
-| 410 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 705 | 182 |
-| 410 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 408 |
-| 410 | [Operation: Tango](games/o/operation__tango.md) | 4.60 | 0 | 548 |
-| 410 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 729 | 178 |
-| 410 | [Returnal™](games/r/returnal™.md) | 4.60 | 91 | 371 |
-| 410 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.60 | 0 | 548 |
-| 410 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 79 | 388 |
-| 410 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 504 | 206 |
-| 410 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.60 | 48 | 436 |
-| 410 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 281 | 258 |
-| 410 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 531 |
-| 410 | [Warframe](games/w/warframe.md) | 4.60 | 18,274 | 23 |
-| 410 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 550 | 201 |
+| 411 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 4.60 | 14,669 | 26 |
+| 411 | [Baldur's Gate: Dark Alliance](games/b/baldur's_gate__dark_alliance.md) | 4.60 | 0 | 548 |
+| 411 | [Chivalry 2](games/c/chivalry_2.md) | 4.60 | 4,865 | 73 |
+| 411 | [Control](games/c/control.md) | 4.60 | 8,699 | 42 |
+| 411 | [Crysis 2 Remastered](games/c/crysis_2_remastered.md) | 4.60 | 221 | 277 |
+| 411 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.60 | 77 | 392 |
+| 411 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 4.60 | 13,946 | 28 |
+| 411 | [Going Medieval](games/g/going_medieval.md) | 4.60 | 124 | 334 |
+| 411 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 4.60 | 0 | 548 |
+| 411 | [Immortals Fenyx Rising Standard Edition](games/i/immortals_fenyx_rising_standard_edition.md) | 4.60 | 705 | 182 |
+| 411 | [In Sound Mind](games/i/in_sound_mind.md) | 4.60 | 63 | 408 |
+| 411 | [Operation: Tango](games/o/operation__tango.md) | 4.60 | 0 | 548 |
+| 411 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 4.60 | 729 | 178 |
+| 411 | [Returnal™](games/r/returnal™.md) | 4.60 | 91 | 371 |
+| 411 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 79 | 388 |
+| 411 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 504 | 206 |
+| 411 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.60 | 48 | 436 |
+| 411 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 281 | 258 |
+| 411 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 531 |
+| 411 | [Warframe](games/w/warframe.md) | 4.60 | 18,274 | 23 |
+| 411 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 550 | 201 |
 | 432 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 548 |
 | 432 | [Brawlhalla](games/b/brawlhalla.md) | 4.59 | 486 | 207 |
 | 432 | [DOOM 3](games/d/doom_3.md) | 4.59 | 70 | 400 |
