@@ -7,11 +7,11 @@
 | 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.06% |
 | 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 7 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
-| 8 | [The Riflemen](games/t/the_riflemen.md) | 36.80% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 36.69% |
+| 8 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
+| 9 | [The Riflemen](games/t/the_riflemen.md) | 36.77% |
 | 10 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 11 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
-| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.17% |
+| 12 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.50% |
 | 13 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 13 | [Overloop](games/o/overloop.md) | 25.00% |
 | 15 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
@@ -63,7 +63,7 @@
 | 61 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 62 | [JARS](games/j/jars.md) | 5.68% |
 | 63 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
-| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.53% |
+| 64 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.52% |
 | 65 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.47% |
 | 66 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.45% |
 | 67 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
@@ -82,13 +82,13 @@
 | 78 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 81 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.96% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
-| 83 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
-| 84 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.45% |
-| 85 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.40% |
-| 86 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.36% |
-| 87 | [Bunny Park](games/b/bunny_park.md) | 3.33% |
-| 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.33% |
-| 89 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.28% |
+| 82 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.83% |
+| 84 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
+| 85 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.45% |
+| 86 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.40% |
+| 87 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.36% |
+| 88 | [Bunny Park](games/b/bunny_park.md) | 3.33% |
+| 88 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.33% |
 | 90 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.23% |
 | 90 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 3.23% |
 | 90 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.23% |
@@ -100,7 +100,7 @@
 | 98 | [HordeCore](games/h/hordecore.md) | 3.05% |
 | 99 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 100 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 101 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.89% |
+| 101 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 2.88% |
 | 102 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
 | 103 | [Destiny 2](games/d/destiny_2.md) | 2.84% |
 | 104 | [FORECLOSED](games/f/foreclosed.md) | 2.78% |
@@ -164,13 +164,13 @@
 | 162 | [The Devil's Face](games/t/the_devil's_face.md) | 0.90% |
 | 163 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
 | 163 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.89% |
-| 165 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.87% |
+| 165 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.86% |
 | 166 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.85% |
 | 167 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.84% |
 | 167 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 169 | [Dungeons 3](games/d/dungeons_3.md) | 0.82% |
-| 169 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.82% |
-| 171 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.80% |
+| 170 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.81% |
+| 170 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.81% |
 | 172 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 173 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 174 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |
