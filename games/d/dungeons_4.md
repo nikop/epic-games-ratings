@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 76.00% | ~106 |
-| Thalya – Simply Immortal | 76.00% | ~106 |
-| Thalya's Concentrated Fury | 59.00% | ~83 |
-| For the Horde! | 59.00% | ~83 |
-| Hammer Time, Round Two | 55.00% | ~77 |
-| The Hellwoods | 44.00% | ~62 |
-| Master of Magic | 36.00% | ~50 |
-| Trap Master | 34.00% | ~48 |
-| Magic Accidents | 32.00% | ~45 |
-| Experienced Thalya | 28.00% | ~39 |
-| The Plains of Strothalm | 26.00% | ~36 |
-| Unicorn steaks – fresh off the hoof! | 25.00% | ~35 |
-| Minions, Minions! | 21.00% | ~29 |
-| Bad Elves Go Everywhere | 18.00% | ~25 |
-| Heroes’ Gorge | 11.00% | ~15 |
+| The Last Stand | 78.00% | ~113 |
+| Thalya – Simply Immortal | 78.00% | ~113 |
+| For the Horde! | 63.00% | ~91 |
+| Thalya's Concentrated Fury | 60.00% | ~87 |
+| Hammer Time, Round Two | 57.00% | ~83 |
+| The Hellwoods | 44.00% | ~64 |
+| Master of Magic | 36.00% | ~52 |
+| Trap Master | 35.00% | ~51 |
+| Magic Accidents | 33.00% | ~48 |
+| Experienced Thalya | 30.00% | ~44 |
+| The Plains of Strothalm | 28.00% | ~41 |
+| Unicorn steaks – fresh off the hoof! | 27.00% | ~39 |
+| Minions, Minions! | 23.00% | ~33 |
+| Bad Elves Go Everywhere | 19.00% | ~28 |
+| Heroes’ Gorge | 12.00% | ~17 |
+| YOU SHALL NOT PASS! | 12.00% | ~17 |
 | Mana Cannon | 10.00% | ~14 |
-| YOU SHALL NOT PASS! | 10.00% | ~14 |
-| Sacrificial Pit = Garbage Disposal? | 6.00% | ~8 |
-| The Ascent | 4.00% | ~6 |
-| Pure Dynamite! | 4.00% | ~6 |
-| It's Warm and Cozy at Home | 4.00% | ~6 |
+| Sacrificial Pit = Garbage Disposal? | 6.00% | ~9 |
+| Pure Dynamite! | 6.00% | ~9 |
+| The Ascent | 5.00% | ~7 |
+| It's Warm and Cozy at Home | 5.00% | ~7 |
+| Hard Work | 3.00% | ~4 |
 | The Big Eaty | 3.00% | ~4 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 3.00% | ~4 |
-| Hard Work | 2.00% | ~3 |
 | Hungry, Hungry Gorgu! | 2.00% | ~3 |
 | “… like son” | 1.00% | ~1 |
 | Dungeonlord Gorgu | 1.00% | ~1 |
@@ -47,10 +47,10 @@
 | If Looks Could Kill | 0.70% | ~1 |
 | Mirror, Mirror | 0.70% | ~1 |
 | Laser Eyes Are So Useless | 0.70% | ~1 |
+| The Finitude Drill | 0.70% | ~1 |
+| Sabotage! | 0.70% | ~1 |
+| Untouchable | 0.70% | ~1 |
 | The Last Stand - This Time For Real! | 0.70% | ~1 |
-| The Finitude Drill | 0.00% | ~0 |
-| Sabotage! | 0.00% | ~0 |
-| Untouchable | 0.00% | ~0 |
 | Doom Hill | 0.00% | ~0 |
 | Lavalumps on Ice! | 0.00% | ~0 |
 | Rubble and Ashes | 0.00% | ~0 |
@@ -66,10 +66,10 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 394)  
+Progressed: 145 (Ranked 393)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-09 | 76 | 0 |
-| 2023-11-10 | 140 | 0 |
+| 2023-11-10 | 145 | 0 |

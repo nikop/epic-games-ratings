@@ -6,11 +6,11 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,868 |
-| Keeping it classy | 28.00% | ~857 |
+| You're free now! | 61.00% | ~1,869 |
+| Keeping it classy | 28.00% | ~858 |
 | Welcome to the family | 22.00% | ~674 |
-| The finer things in life | 20.00% | ~612 |
-| Backpacker | 15.00% | ~459 |
+| The finer things in life | 20.00% | ~613 |
+| Backpacker | 15.00% | ~460 |
 | Go with the Flow | 14.00% | ~429 |
 | The flip trick crown jewel | 11.00% | ~337 |
 | Keep the dream alive | 10.00% | ~306 |
@@ -39,11 +39,11 @@ Number of Ratings: 111  (23.09.2022)
 | Tank commander | 5.00% | ~153 |
 | Trick shot marksman | 5.00% | ~153 |
 | We get it, you're good | 5.00% | ~153 |
-| Cops called! | 4.00% | ~122 |
-| G.O.A.T. status | 4.00% | ~122 |
-| Hoarder | 4.00% | ~122 |
-| Pew-Pew | 4.00% | ~122 |
-| Prince of Philly | 4.00% | ~122 |
+| Cops called! | 4.00% | ~123 |
+| G.O.A.T. status | 4.00% | ~123 |
+| Hoarder | 4.00% | ~123 |
+| Pew-Pew | 4.00% | ~123 |
+| Prince of Philly | 4.00% | ~123 |
 | Many plys later... | 3.00% | ~92 |
 | Cross lock country | 2.00% | ~61 |
 | That was wheelie fun | 2.00% | ~61 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,062 (Ranked 205)  
+Progressed: 3,064 (Ranked 205)  
 Completed: 2 (0.07%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 2 (0.07%) (Ranked 287)
 | 2023-11-06 | 3,060 | 2 |
 | 2023-11-08 | 3,061 | 2 |
 | 2023-11-09 | 3,062 | 2 |
+| 2023-11-10 | 3,064 | 2 |
 ## Awards
 Max (Highly Recommended): 56  (Ranked 414)  
 Sum: 543 (Ranked 316)  

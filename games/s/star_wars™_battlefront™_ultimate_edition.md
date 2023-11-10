@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,015 |
-| Off to a good start | 67.00% | ~764 |
-| Do... or do not. There is no try | 51.00% | ~582 |
-| A good blaster at your side | 32.00% | ~365 |
-| I suggest a new strategy | 20.00% | ~228 |
+| New Recruit | 89.00% | ~1,017 |
+| Off to a good start | 67.00% | ~766 |
+| Do... or do not. There is no try | 51.00% | ~583 |
+| A good blaster at your side | 32.00% | ~366 |
+| I suggest a new strategy | 20.00% | ~229 |
 | Scrap collector | 19.00% | ~217 |
 | All right, I'll give it a try | 17.00% | ~194 |
 | Great shot, kid! | 17.00% | ~194 |
@@ -22,24 +22,24 @@
 | Never tell me the odds! | 9.00% | ~103 |
 | What's the cargo? | 8.00% | ~91 |
 | A cunning warrior | 8.00% | ~91 |
-| "Gonk? Gonk!" | 6.00% | ~68 |
-| Distinguished | 6.00% | ~68 |
-| A tremor in the Force | 6.00% | ~68 |
-| Impressive. Most impressive. | 6.00% | ~68 |
-| Judge me by my size, do you? | 6.00% | ~68 |
-| Support the troops | 6.00% | ~68 |
-| On the ball | 4.00% | ~46 |
+| "Gonk? Gonk!" | 6.00% | ~69 |
+| Distinguished | 6.00% | ~69 |
+| A tremor in the Force | 6.00% | ~69 |
+| Impressive. Most impressive. | 6.00% | ~69 |
+| Judge me by my size, do you? | 6.00% | ~69 |
+| Support the troops | 6.00% | ~69 |
 | Safety ain't the point of a joyride | 4.00% | ~46 |
 | Not bad for a little furball | 4.00% | ~46 |
 | Patience you must have | 4.00% | ~46 |
-| Don't underestimate the Force | 4.00% | ~46 |
 | I've been waiting for you | 3.00% | ~34 |
 | When 900 years old you reach... | 3.00% | ~34 |
 | Determined | 3.00% | ~34 |
 | Your journey has only started | 3.00% | ~34 |
+| On the ball | 3.00% | ~34 |
 | Precision shot | 3.00% | ~34 |
 | That's no moon | 3.00% | ~34 |
 | What will you become? | 3.00% | ~34 |
+| Don't underestimate the Force | 3.00% | ~34 |
 | Hold the line! | 2.00% | ~23 |
 | The Force is strong with this one | 2.00% | ~23 |
 | Ackbar's Elite | 2.00% | ~23 |
@@ -59,16 +59,16 @@
 | Walker defender | 0.70% | ~8 |
 | I’ll take that bet | 0.60% | ~7 |
 | Stay on target | 0.40% | ~5 |
-| in a galaxy far, far away.... | 0.40% | ~5 |
 | Don't get cocky | 0.40% | ~5 |
-| Greed can be a very powerful ally | 0.40% | ~5 |
 | That got him! | 0.30% | ~3 |
+| in a galaxy far, far away.... | 0.30% | ~3 |
 | Master | 0.30% | ~3 |
+| Greed can be a very powerful ally | 0.30% | ~3 |
 | Stay in attack formation | 0.30% | ~3 |
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,141 (Ranked 243)  
+Progressed: 1,143 (Ranked 243)  
 Completed: 1 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 1 (0.09%) (Ranked 275)
 | 2023-11-07 | 1,095 | 1 |
 | 2023-11-08 | 1,114 | 1 |
 | 2023-11-09 | 1,130 | 1 |
-| 2023-11-10 | 1,141 | 1 |
+| 2023-11-10 | 1,143 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -5,46 +5,46 @@ Rating: 4.30 (Ranked 834)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~162 |
-| Bullseye! | 85.00% | ~156 |
-| Graduation! | 79.00% | ~145 |
-| Villfir Forest | 74.00% | ~136 |
-| Right in the kisser! | 59.00% | ~109 |
-| The Thrower | 47.00% | ~86 |
-| Duscot Steamcity | 47.00% | ~86 |
-| The Penguin | 45.00% | ~83 |
+| Level Up! | 88.00% | ~163 |
+| Bullseye! | 84.00% | ~155 |
+| Graduation! | 78.00% | ~144 |
+| Villfir Forest | 74.00% | ~137 |
+| Right in the kisser! | 58.00% | ~107 |
+| Duscot Steamcity | 47.00% | ~87 |
+| The Thrower | 46.00% | ~85 |
 | The Shaman | 45.00% | ~83 |
-| The Magician | 40.00% | ~74 |
-| The Tunneler | 39.00% | ~72 |
-| Level Up!! | 36.00% | ~66 |
-| The Shield | 36.00% | ~66 |
-| Kill-streak | 29.00% | ~53 |
+| The Penguin | 44.00% | ~81 |
+| The Magician | 39.00% | ~72 |
+| The Tunneler | 38.00% | ~70 |
+| Level Up!! | 36.00% | ~67 |
+| The Shield | 36.00% | ~67 |
+| Kill-streak | 29.00% | ~54 |
 | Topped up | 28.00% | ~52 |
 | The Bird | 27.00% | ~50 |
 | The Ninja | 26.00% | ~48 |
 | The Idol | 24.00% | ~44 |
 | Inferno Ruins | 24.00% | ~44 |
-| I'm Rich | 22.00% | ~40 |
+| I'm Rich | 22.00% | ~41 |
 | 1 is all I need | 21.00% | ~39 |
 | The Slime | 21.00% | ~39 |
 | Untouchable | 19.00% | ~35 |
 | The Giant | 17.00% | ~31 |
 | Ember | 17.00% | ~31 |
-| The Blacksmith | 16.00% | ~29 |
-| The Flower | 16.00% | ~29 |
-| Out of the Frying Pan... | 16.00% | ~29 |
+| The Blacksmith | 16.00% | ~30 |
+| The Flower | 16.00% | ~30 |
+| Out of the Frying Pan... | 16.00% | ~30 |
 | The Ooze | 15.00% | ~28 |
 | The Assistant | 14.00% | ~26 |
 | Turquoise | 14.00% | ~26 |
-| The Steampunk | 13.00% | ~24 |
+| The Steampunk | 12.00% | ~22 |
 | The Droid | 10.00% | ~18 |
 | Verse | 10.00% | ~18 |
 | Iron | 9.00% | ~17 |
 | The Bomber | 8.00% | ~15 |
 | Tested | 8.00% | ~15 |
-| Highway to Hell | 7.00% | ~13 |
 | Power Overwhelming | 6.00% | ~11 |
 | The Astronaut | 6.00% | ~11 |
+| Highway to Hell | 6.00% | ~11 |
 | The Exorcist | 5.00% | ~9 |
 | Mithril | 5.00% | ~9 |
 | Anvil | 5.00% | ~9 |
@@ -79,7 +79,7 @@ Rating: 4.30 (Ranked 834)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184 (Ranked 375)  
+Progressed: 185 (Ranked 375)  
 Completed: 1 (0.54%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,6 +176,7 @@ Completed: 1 (0.54%) (Ranked 188)
 | 2023-11-06 | 182 | 1 |
 | 2023-11-08 | 183 | 1 |
 | 2023-11-09 | 184 | 1 |
+| 2023-11-10 | 185 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

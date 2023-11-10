@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2020-03-31T12:00:00+00:00",
@@ -188,9 +188,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5570,
+  "EOS_Progressed": 5571,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -4223,6 +4223,11 @@
       "Time": "2023-11-10T17:23:35.096047+00:00",
       "NumProgressed": 5570,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-10T19:08:21.3659671+00:00",
+      "NumProgressed": 5571,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -4290,7 +4295,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "ach_campaign_progress10",
@@ -4346,7 +4351,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "ach_campaign_progress6",
@@ -4666,7 +4671,7 @@
       "Name": "Data Churn Type II",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ach_frp_researchdata3",
@@ -4826,7 +4831,7 @@
       "Name": "Speedy",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "ach_trait_overload",
@@ -4841,15 +4846,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5570,
+      "Progressed": 5571,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-07-16T00:00:06.2705867+00:00",
-  "LastChanged_Achievements": "2023-11-10T18:06:26.4545295+00:00",
+  "LastChanged_Achievements": "2023-11-10T19:08:21.3659666+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:39.3394459+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:58:32.6803809+00:00",
-  "LastUpdate_Achievements": "2023-11-10T18:06:26.4546182+00:00"
+  "LastUpdate_Ratings": "2023-11-10T18:58:51.704844+00:00",
+  "LastUpdate_Achievements": "2023-11-10T19:08:21.36606+00:00"
 }

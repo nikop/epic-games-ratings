@@ -2,13 +2,13 @@
   "ID": "08142466e4104a018e149441d35dbabc",
   "Name": "The Legend of Heroes: Trails of Cold Steel IV",
   "ProductSlug": "the-legend-of-heroes-trails-of-cold-steel-iv",
-  "Ranking_Rating": 11,
+  "Ranking_Rating": 12,
   "Ranking_Popularity": 548,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-04-09T17:00:00+00:00",
     "PcReleaseDate": "2021-04-16T17:00:00+00:00",
@@ -100,6 +100,6 @@
   "FirstSeenRating": "2022-08-06T05:30:42.8443438+00:00",
   "LastChanged": "2023-07-08T13:11:56.6937851+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:28.424986+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:02:39.0793373+00:00",
-  "LastUpdate_Achievements": "2023-11-10T18:06:04.1234741+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:03:01.9093142+00:00",
+  "LastUpdate_Achievements": "2023-11-10T19:07:04.3670554+00:00"
 }

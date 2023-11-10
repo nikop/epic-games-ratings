@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-12-31T00:00:00+00:00",
     "PcReleaseDate": "2023-12-31T00:00:00+00:00",
@@ -28,9 +28,147 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-10T19:05:22.1242707+00:00",
+  "TotalAchievements": 17,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "50 of Ironmode efficiency",
+      "SetID": "1g0ce2c",
+      "Name": "50% of Ironmode efficiency",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "70 of Ironmode efficiency",
+      "SetID": "1g0ce2c",
+      "Name": "70% of Ironmode efficiency",
+      "Percentage": 0,
+      "XP": 150,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "90 of Ironmode efficiency",
+      "SetID": "1g0ce2c",
+      "Name": "90% of Ironmode efficiency",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "American dream",
+      "SetID": "1g0ce2c",
+      "Name": "American dream",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Coup a country diplomatically",
+      "SetID": "1g0ce2c",
+      "Name": "Coup a country diplomatically",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Coup your main enemy",
+      "SetID": "1g0ce2c",
+      "Name": "Coup your main enemy",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "German reunification",
+      "SetID": "1g0ce2c",
+      "Name": "German reunification",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Industrialisation",
+      "SetID": "1g0ce2c",
+      "Name": "Industrialisation",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Korean reunification",
+      "SetID": "1g0ce2c",
+      "Name": "Korean reunification",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Land on the Moon",
+      "SetID": "1g0ce2c",
+      "Name": "Land on the Moon",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Man in Space",
+      "SetID": "1g0ce2c",
+      "Name": "Man in Space",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Nuclear strike",
+      "SetID": "1g0ce2c",
+      "Name": "Armageddon",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Politics",
+      "SetID": "1g0ce2c",
+      "Name": "Politics",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Soviet glory",
+      "SetID": "1g0ce2c",
+      "Name": "Soviet glory",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Space Station",
+      "SetID": "1g0ce2c",
+      "Name": "Space Station",
+      "Percentage": 0,
+      "XP": 20,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "United Nations",
+      "SetID": "1g0ce2c",
+      "Name": "United Nations",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Win the game",
+      "SetID": "1g0ce2c",
+      "Name": "Win the game",
+      "Percentage": 0,
+      "XP": 5,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "1g0ce2c",
@@ -40,8 +178,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-11T21:08:28.3507055+00:00",
-  "LastChanged_Achievements": "2023-11-10T18:04:36.2488776+00:00",
+  "LastChanged_Achievements": "2023-11-10T19:05:22.1242686+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:02.9810769+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:59:32.4509189+00:00",
-  "LastUpdate_Achievements": "2023-11-10T18:04:36.2488791+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:00:04.4625703+00:00",
+  "LastUpdate_Achievements": "2023-11-10T19:05:22.163406+00:00"
 }

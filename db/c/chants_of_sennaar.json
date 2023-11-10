@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 512,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 5.47,
   "EosHistory": [
@@ -2268,9 +2268,9 @@
       "ID": "META_RESULT_1-4",
       "SetID": "2gma9an",
       "Name": "Feels like springtime",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2300,9 +2300,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 77
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2340,9 +2340,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 82
+      "UsersEstimate": 87
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2396,9 +2396,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 92
+      "UsersEstimate": 97
     }
   ],
   "AchievementSets": [
@@ -2411,8 +2411,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-10T18:04:46.1386781+00:00",
+  "LastChanged_Achievements": "2023-11-10T19:05:33.4155775+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:58:57.3545395+00:00",
-  "LastUpdate_Achievements": "2023-11-10T18:04:46.1387032+00:00"
+  "LastUpdate_Ratings": "2023-11-10T18:59:22.2700397+00:00",
+  "LastUpdate_Achievements": "2023-11-10T19:05:33.4156024+00:00"
 }

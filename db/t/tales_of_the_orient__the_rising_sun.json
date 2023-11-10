@@ -2,10 +2,10 @@
   "ID": "abb92d3abb7a40e7b05b473759947382",
   "Name": "Tales of the Orient: The Rising Sun",
   "ProductSlug": "tales-of-the-orient-the-rising-sun-001806",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 542,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 447,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-01T09:00:00+00:00",
     "PcReleaseDate": "2015-02-27T03:00:00+00:00",
@@ -222,8 +222,8 @@
   "FirstSeenRating": "2023-04-15T20:58:43.6104414+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.8460847+00:00",
   "LastChanged": "2023-04-15T20:58:43.6104415+00:00",
-  "LastChanged_Achievements": "2023-11-10T18:08:51.3517362+00:00",
+  "LastChanged_Achievements": "2023-11-10T19:09:49.2528359+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:43.0456975+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:02:50.0969133+00:00",
-  "LastUpdate_Achievements": "2023-11-10T18:08:51.3517473+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:03:15.437467+00:00",
+  "LastUpdate_Achievements": "2023-11-10T19:09:49.2528474+00:00"
 }

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~462 |
+| Feels Familiar | 75.00% | ~469 |
 | I Broke It | 71.00% | ~444 |
-| Better On Ice | 69.00% | ~431 |
+| Better On Ice | 70.00% | ~438 |
 | Blue Dreams | 68.00% | ~425 |
 | Notai Notes | 68.00% | ~425 |
 | He's Famous! | 67.00% | ~419 |
-| Krugmazing | 65.00% | ~406 |
-| Cutie Poro | 65.00% | ~406 |
-| The Fire Below the Mountain | 62.00% | ~388 |
+| Krugmazing | 66.00% | ~412 |
+| Cutie Poro | 66.00% | ~412 |
+| The Fire Below the Mountain | 63.00% | ~394 |
 | Moneyball | 59.00% | ~369 |
 | No Bites | 54.00% | ~338 |
 | Iceborn | 54.00% | ~338 |
@@ -22,18 +22,18 @@
 | Rhythm Of Willump | 45.00% | ~281 |
 | The Relentless Storm | 43.00% | ~269 |
 | A Tragic Reminder | 41.00% | ~256 |
+| True Legends | 41.00% | ~256 |
 | 3000 Year Blackout | 40.00% | ~250 |
-| True Legends | 40.00% | ~250 |
 | The Finisher | 40.00% | ~250 |
-| So Close | 36.00% | ~225 |
+| So Close | 37.00% | ~231 |
 | You Get Used To It | 36.00% | ~225 |
 | Bullseye | 34.00% | ~213 |
 | Boosted! | 34.00% | ~213 |
 | Family | 33.00% | ~206 |
 | Biggest Snowball Ever | 33.00% | ~206 |
+| Freeze The Ice Witch | 33.00% | ~206 |
 | On The Rocks | 33.00% | ~206 |
 | Deadliest and Biggest Snowball Ever! | 33.00% | ~206 |
-| Freeze The Ice Witch | 32.00% | ~200 |
 | Never Gets Old | 32.00% | ~200 |
 | It Is Not Over | 31.00% | ~194 |
 | Snowy Poro | 31.00% | ~194 |

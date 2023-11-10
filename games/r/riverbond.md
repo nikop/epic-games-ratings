@@ -6,19 +6,19 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,704 |
-| Now You're Talking | 62.00% | ~329,224 |
-| Steel Yourself | 62.00% | ~329,224 |
-| Window Dressing | 50.00% | ~265,503 |
-| Trigger Happy | 46.00% | ~244,263 |
-| Riverborn | 45.00% | ~238,953 |
-| Starry Eyed | 34.00% | ~180,542 |
-| Poking Around | 34.00% | ~180,542 |
-| Talk of the Town | 24.00% | ~127,441 |
-| AAARR! | 23.00% | ~122,131 |
-| Hello Darkness | 23.00% | ~122,131 |
-| Wind At Our Backs | 22.00% | ~116,821 |
-| To the Beat | 20.00% | ~106,201 |
+| First Step | 70.00% | ~371,706 |
+| Now You're Talking | 62.00% | ~329,225 |
+| Steel Yourself | 62.00% | ~329,225 |
+| Window Dressing | 50.00% | ~265,504 |
+| Trigger Happy | 46.00% | ~244,264 |
+| Riverborn | 45.00% | ~238,954 |
+| Starry Eyed | 34.00% | ~180,543 |
+| Poking Around | 34.00% | ~180,543 |
+| Talk of the Town | 24.00% | ~127,442 |
+| AAARR! | 23.00% | ~122,132 |
+| Hello Darkness | 23.00% | ~122,132 |
+| Wind At Our Backs | 22.00% | ~116,822 |
+| To the Beat | 20.00% | ~106,202 |
 | Sunny Shores | 17.00% | ~90,271 |
 | Sunday Best | 16.00% | ~84,961 |
 | To Victory! | 15.00% | ~79,651 |
@@ -30,9 +30,9 @@ Number of Ratings: 617  (23.09.2022)
 | Not So Cute Anymore | 10.00% | ~53,101 |
 | Road Less Travelled | 9.00% | ~47,791 |
 | Lost and Found | 9.00% | ~47,791 |
-| Under the Radar | 8.00% | ~42,480 |
-| Partner in Crime | 7.00% | ~37,170 |
-| Hard to Hear | 7.00% | ~37,170 |
+| Under the Radar | 8.00% | ~42,481 |
+| Partner in Crime | 7.00% | ~37,171 |
+| Hard to Hear | 7.00% | ~37,171 |
 | Moving On Up | 6.00% | ~31,860 |
 | Owl Knows Best | 6.00% | ~31,860 |
 | Mind the Moose | 6.00% | ~31,860 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,593 |
 | Point Taken | 0.20% | ~1,062 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,006 (Ranked 35)  
+Progressed: 531,008 (Ranked 35)  
 Completed: 497 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 497 (0.09%) (Ranked 275)
 | 2023-11-07 | 530,866 | 497 |
 | 2023-11-08 | 530,913 | 497 |
 | 2023-11-09 | 530,957 | 497 |
-| 2023-11-10 | 531,006 | 497 |
+| 2023-11-10 | 531,008 | 497 |
 ## Awards
 Max (Relaxing): 20  (Ranked 543)  
 Sum: 20 (Ranked 544)  

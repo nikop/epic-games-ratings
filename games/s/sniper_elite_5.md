@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 647)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,845 (Ranked 191)  
+Progressed: 3,845 (Ranked 192)  
 Completed: 11 (0.29%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |

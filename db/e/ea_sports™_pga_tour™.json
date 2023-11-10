@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1848,9 +1848,9 @@
       "ID": "achievement_3",
       "SetID": "7ldgi7j",
       "Name": "A Passion for Excellence",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 124
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_4",
@@ -1910,8 +1910,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-10T18:08:16.5367232+00:00",
+  "LastChanged_Achievements": "2023-11-10T19:09:08.486694+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.7077213+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:00:01.8001108+00:00",
-  "LastUpdate_Achievements": "2023-11-10T18:08:16.5367438+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:00:39.5759398+00:00",
+  "LastUpdate_Achievements": "2023-11-10T19:09:08.4867129+00:00"
 }

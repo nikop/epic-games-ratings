@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7708,
+  "EOS_Progressed": 7709,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7964,6 +7964,11 @@
       "Time": "2023-11-10T14:05:42.0828942+00:00",
       "NumProgressed": 7708,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-10T19:06:47.22368+00:00",
+      "NumProgressed": 7709,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8023,7 +8028,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8063,7 +8068,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "ICONOCLAST",
@@ -8071,7 +8076,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "IN_A_PINCH",
@@ -8119,7 +8124,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -8142,7 +8147,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7708,
+      "Progressed": 7709,
       "Completed": 34
     }
   ],
@@ -8150,8 +8155,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-10T18:05:49.9823469+00:00",
+  "LastChanged_Achievements": "2023-11-10T19:06:47.2236795+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.1922608+00:00",
-  "LastUpdate_Ratings": "2023-11-10T17:58:50.6681203+00:00",
-  "LastUpdate_Achievements": "2023-11-10T18:05:49.9823958+00:00"
+  "LastUpdate_Ratings": "2023-11-10T18:59:14.3701605+00:00",
+  "LastUpdate_Achievements": "2023-11-10T19:06:47.2237268+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,564 |
-| Basic in Bulk | 4.00% | ~5,564 |
-| Titan's First Steps | 4.00% | ~5,564 |
-| Disintermediation | 3.00% | ~4,173 |
-| It's Free Real Estate | 3.00% | ~4,173 |
-| Tinkle of Coins | 3.00% | ~4,173 |
-| Capitalism Ho! | 3.00% | ~4,173 |
+| Sponsored by Argon | 4.00% | ~5,565 |
+| Basic in Bulk | 4.00% | ~5,565 |
+| Titan's First Steps | 4.00% | ~5,565 |
+| Disintermediation | 3.00% | ~4,174 |
+| It's Free Real Estate | 3.00% | ~4,174 |
+| Tinkle of Coins | 3.00% | ~4,174 |
+| Capitalism Ho! | 3.00% | ~4,174 |
 | The Daily Grind | 2.00% | ~2,782 |
 | One Easy Payment | 2.00% | ~2,782 |
 | Some Assembly Required | 2.00% | ~2,782 |
@@ -48,9 +48,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Arcane Industries | 1.00% | ~1,391 |
 | For the Hoard! | 0.90% | ~1,252 |
 | Scrapbooker | 0.90% | ~1,252 |
+| This Power Level...! | 0.90% | ~1,252 |
 | Expansion in Session | 0.90% | ~1,252 |
 | Trash to Treasure | 0.90% | ~1,252 |
 | Seasoned Journeyman | 0.90% | ~1,252 |
+| Black Friday Special | 0.90% | ~1,252 |
 | Special Ingredient | 0.90% | ~1,252 |
 | Complete Monopoly | 0.90% | ~1,252 |
 | A Notch Above the Rest | 0.80% | ~1,113 |
@@ -59,7 +61,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Big Game Hunting | 0.80% | ~1,113 |
 | Locally Sourced | 0.80% | ~1,113 |
 | Flying off the Shelves | 0.80% | ~1,113 |
-| This Power Level...! | 0.80% | ~1,113 |
 | Master of Transmutation | 0.80% | ~1,113 |
 | Hidden Potential | 0.80% | ~1,113 |
 | Cranked up to 11 | 0.80% | ~1,113 |
@@ -72,7 +73,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Laden with Loot | 0.80% | ~1,113 |
 | Scourge of the Seas | 0.80% | ~1,113 |
 | Attrition Mission | 0.80% | ~1,113 |
-| Black Friday Special | 0.80% | ~1,113 |
 | Exotic Commodities | 0.80% | ~1,113 |
 | King's Blade | 0.80% | ~1,113 |
 | Cream of the Crop | 0.70% | ~974 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,108 (Ranked 79)  
+Progressed: 139,119 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,10 +323,10 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 139,108 | 180 |
+| 2023-11-10 | 139,119 | 180 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 73)  
-Sum: 27,521 (Ranked 51)  
+Sum: 27,523 (Ranked 51)  
 Diff (max vs sum): 22  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): 22
 | This game is Relaxing | 4,039 |
 | This game has Quickly Understood Controls | 4,028 |
 | This game has Diverse Characters | 3,936 |
-| This game is Highly Recommended | 3,774 |
+| This game is Highly Recommended | 3,776 |
 | This game has Easy Combat | 3,722 |
 | This game has Playful Visuals | 3,198 |
 | This game has Inclusive Character Customization | 22 |
@@ -625,4 +625,4 @@ Diff (max vs sum): 22
 | 2023-11-07 | 3.99 | - | 4,819 | 27,508 |
 | 2023-11-08 | 3.99 | - | 4,819 | 27,509 |
 | 2023-11-09 | 3.99 | - | 4,822 | 27,516 |
-| 2023-11-10 | 3.99 | - | 4,824 | 27,521 |
+| 2023-11-10 | 3.99 | - | 4,824 | 27,523 |

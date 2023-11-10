@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,697 |
-| Alt+F4 | 8.00% | ~18,902 |
-| Where's that freaking Dwarf? | 7.00% | ~16,539 |
+| Sowwy! | 35.00% | ~82,700 |
+| Alt+F4 | 8.00% | ~18,903 |
+| Where's that freaking Dwarf? | 7.00% | ~16,540 |
 | Déjà vu | 6.00% | ~14,177 |
 | Sock! SOCK! | 5.00% | ~11,814 |
 | A beer, two curses, three companions | 4.00% | ~9,451 |
 | GG EZ | 4.00% | ~9,451 |
 | DM intervention | 4.00% | ~9,451 |
 | Speedrun | 4.00% | ~9,451 |
-| Livin' in a dwarven paradise | 3.00% | ~7,088 |
-| Way of the Wimp | 3.00% | ~7,088 |
-| The plot thickens... At the tavern | 3.00% | ~7,088 |
-| Fireproof Wizardess | 3.00% | ~7,088 |
+| Livin' in a dwarven paradise | 3.00% | ~7,089 |
+| Way of the Wimp | 3.00% | ~7,089 |
+| The plot thickens... At the tavern | 3.00% | ~7,089 |
+| Fireproof Wizardess | 3.00% | ~7,089 |
 | Shiny and Crôm | 2.00% | ~4,726 |
 | The demons' feast | 2.00% | ~4,726 |
 | The Great Library | 2.00% | ~4,726 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,278 (Ranked 61)  
+Progressed: 236,287 (Ranked 61)  
 Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 7 (0.00%) (Ranked 347)
 | 2023-11-07 | 235,846 | 7 |
 | 2023-11-08 | 235,997 | 7 |
 | 2023-11-09 | 236,158 | 7 |
-| 2023-11-10 | 236,278 | 7 |
+| 2023-11-10 | 236,287 | 7 |
 ## Awards
 Max (Character Customization): 227  (Ranked 272)  
 Sum: 455 (Ranked 329)  

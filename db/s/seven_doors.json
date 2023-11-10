@@ -2,10 +2,10 @@
   "ID": "658c6b5f9bf24ee6a70d05e59151c8af",
   "Name": "Seven Doors",
   "ProductSlug": "seven-doors-7039de",
-  "Ranking_EOS_Progress": 540,
-  "Ranking_EOS_Completed": 32,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Progress": 537,
+  "Ranking_EOS_Completed": 35,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-20T23:00:00+00:00",
     "PcReleaseDate": "2020-06-25T22:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.11,
+  "EOS_Completed_Percentage": 10.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:05.6926532+00:00",
@@ -121,6 +121,11 @@
       "Time": "2023-11-10T10:08:49.958488+00:00",
       "NumProgressed": 18,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-10T19:08:48.016337+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 17,
@@ -130,15 +135,15 @@
       "ID": "ACH_1",
       "SetID": "15cie2",
       "Name": "Welcome to Seven Doors",
-      "Percentage": 56,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_10",
       "SetID": "15cie2",
       "Name": "Thanksgiving Day",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -146,15 +151,15 @@
       "ID": "ACH_11",
       "SetID": "15cie2",
       "Name": "No Fear of the Dark",
-      "Percentage": 33,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_12",
       "SetID": "15cie2",
       "Name": "The Witch\u2019s Haunt",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -178,7 +183,7 @@
       "ID": "ACH_15",
       "SetID": "15cie2",
       "Name": "Don\u2019t Touch the Rum!",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -186,7 +191,7 @@
       "ID": "ACH_16",
       "SetID": "15cie2",
       "Name": "Oh... You didn\u0027t think to bring it?",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 160,
       "UsersEstimate": 1
     },
@@ -194,7 +199,7 @@
       "ID": "ACH_17",
       "SetID": "15cie2",
       "Name": "A Cautious Man Is Worth Two of His Kind",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 200,
       "UsersEstimate": 5
     },
@@ -202,23 +207,23 @@
       "ID": "ACH_2",
       "SetID": "15cie2",
       "Name": "Kill the Dead Man",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_3",
       "SetID": "15cie2",
       "Name": "Diogenes Syndrome",
-      "Percentage": 39,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_4",
       "SetID": "15cie2",
       "Name": "They\u2019re Watching",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -226,7 +231,7 @@
       "ID": "ACH_5",
       "SetID": "15cie2",
       "Name": "Art Connoisseur",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -234,7 +239,7 @@
       "ID": "ACH_6",
       "SetID": "15cie2",
       "Name": "Survivor",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -242,7 +247,7 @@
       "ID": "ACH_7",
       "SetID": "15cie2",
       "Name": "Egyptologist",
-      "Percentage": 39,
+      "Percentage": 37,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -250,7 +255,7 @@
       "ID": "ACH_8",
       "SetID": "15cie2",
       "Name": "The Last Skull",
-      "Percentage": 28,
+      "Percentage": 26,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -258,7 +263,7 @@
       "ID": "ACH_9",
       "SetID": "15cie2",
       "Name": "Master of Riddles",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 160,
       "UsersEstimate": 4
     }
@@ -267,7 +272,7 @@
     {
       "ID": "15cie2",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 2
     }
   ],
@@ -275,8 +280,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-11-10T18:07:59.5574934+00:00",
+  "LastChanged_Achievements": "2023-11-10T19:08:48.0163363+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:49.1215078+00:00",
-  "LastUpdate_Ratings": "2023-11-10T18:00:24.1918965+00:00",
-  "LastUpdate_Achievements": "2023-11-10T18:07:59.5575038+00:00"
+  "LastUpdate_Ratings": "2023-11-10T19:02:45.717338+00:00",
+  "LastUpdate_Achievements": "2023-11-10T19:08:48.0163466+00:00"
 }

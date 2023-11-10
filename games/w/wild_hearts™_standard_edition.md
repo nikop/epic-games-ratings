@@ -14,10 +14,10 @@
 | Fusion Conjuror | 64.00% | ~164 |
 | Memory Rouser | 64.00% | ~164 |
 | Subsistence Skills | 63.00% | ~161 |
-| Kemono Hunter | 58.00% | ~148 |
+| Kemono Hunter | 59.00% | ~151 |
 | Expert Conjuror | 57.00% | ~146 |
 | Distance Devourer | 54.00% | ~138 |
-| Flawless Crystal | 53.00% | ~136 |
+| Flawless Crystal | 54.00% | ~138 |
 | Bonds of Enmity | 52.00% | ~133 |
 | Helpful Heart | 52.00% | ~133 |
 | Master of the Skies | 50.00% | ~128 |
@@ -29,7 +29,7 @@
 | Snare Specialist | 39.00% | ~100 |
 | Karakuri Trail | 37.00% | ~95 |
 | Kemono at Heart | 37.00% | ~95 |
-| Artful Assister | 34.00% | ~87 |
+| Artful Assister | 35.00% | ~90 |
 | Team Hunter | 33.00% | ~84 |
 | Reincarnation Cycle Stopper | 33.00% | ~84 |
 | Karakuri Isle | 30.00% | ~77 |
@@ -51,7 +51,7 @@
 | Vanquisher of the Volatile | 14.00% | ~36 |
 | Bewitched by Bathing | 12.00% | ~31 |
 | Big Spender | 11.00% | ~28 |
-| Tsukumo Whisperer | 6.00% | ~15 |
+| Tsukumo Whisperer | 7.00% | ~18 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 256 (Ranked 351)  
 Completed: 6 (2.34%) (Ranked 117)  

@@ -50,7 +50,7 @@
 | Wrath-tub | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 37 (Ranked 497)  
-Completed: 4 (10.81%) (Ranked 34)  
+Completed: 4 (10.81%) (Ranked 33)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

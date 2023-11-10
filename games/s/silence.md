@@ -47,8 +47,8 @@
 | Fine Listener | 2.00% | ~3 |
 | Checkmate in 8 moves | 2.00% | ~3 |
 | Summit attempt | 1.00% | ~1 |
+| Done. First! | 1.00% | ~1 |
 | Sherlock Holmes | 0.70% | ~1 |
-| Done. First! | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 149 (Ranked 389)  

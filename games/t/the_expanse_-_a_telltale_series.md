@@ -31,7 +31,7 @@ Rating: 4.55 (Ranked 502)
 | Miraculous Maya | 1.00% | ~148 |
 | Data Master | 0.70% | ~104 |
 | Data Logger | 0.60% | ~89 |
-| Brother's Reaper | 0.40% | ~59 |
+| Brother's Reaper | 0.50% | ~74 |
 | No Belter Left Behind | 0.40% | ~59 |
 | Debris Spree | 0.40% | ~59 |
 | Data Recoverer | 0.40% | ~59 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 502)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,806 (Ranked 146)  
+Progressed: 14,807 (Ranked 146)  
 Completed: 33 (0.22%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,7 +152,7 @@ Completed: 33 (0.22%) (Ranked 237)
 | 2023-11-07 | 14,744 | 33 |
 | 2023-11-08 | 14,766 | 33 |
 | 2023-11-09 | 14,788 | 33 |
-| 2023-11-10 | 14,806 | 33 |
+| 2023-11-10 | 14,807 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

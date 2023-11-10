@@ -6,17 +6,17 @@ Rating: 4.61 (Ranked 385)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 1.00% | ~53 |
+| Realm Estate | 0.50% | ~27 |
 | Secret Technique | 0.50% | ~27 |
-| Realm Estate | 0.40% | ~21 |
+| A Wonderful Discovery | 0.40% | ~21 |
 | Walls Cannot Stop Us | 0.40% | ~21 |
 | Freed Lands of Manuhari | 0.40% | ~21 |
-| A Wonderful Discovery | 0.30% | ~16 |
+| From Friends to Family | 0.30% | ~16 |
 | Magical Synergy | 0.30% | ~16 |
 | Spoils of War | 0.30% | ~16 |
 | There Can Only Be One! | 0.20% | ~11 |
 | Full Ascension | 0.20% | ~11 |
 | Bone Peddler | 0.20% | ~11 |
-| From Friends to Family | 0.20% | ~11 |
 | Stronger Together | 0.20% | ~11 |
 | Seat of Power | 0.20% | ~11 |
 | In a Liege of Your Own | 0.20% | ~11 |
@@ -25,6 +25,7 @@ Rating: 4.61 (Ranked 385)
 | Blood of the Dragon | 0.20% | ~11 |
 | Mighty Hoard | 0.20% | ~11 |
 | Sehiran Oasis | 0.20% | ~11 |
+| Prometheus Avenged | 0.20% | ~11 |
 | Chaos Surge | 0.20% | ~11 |
 | A Conqueror's Cohort | 0.20% | ~11 |
 | Dawn of the Dread | 0.20% | ~11 |
@@ -56,7 +57,6 @@ Rating: 4.61 (Ranked 385)
 | Here be Dragons | 0.10% | ~5 |
 | Tipping the Scales | 0.10% | ~5 |
 | Duality | 0.10% | ~5 |
-| Prometheus Avenged | 0.10% | ~5 |
 | Seal the Deal | 0.10% | ~5 |
 | A Very Special Ring | 0.10% | ~5 |
 | Snap Out of It! | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 385)
 | I'll Fight You All | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,324 (Ranked 183)  
+Progressed: 5,328 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 7 (0.13%) (Ranked 258)
 | 2023-11-07 | 5,285 | 7 |
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
-| 2023-11-10 | 5,324 | 7 |
+| 2023-11-10 | 5,328 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 474)  

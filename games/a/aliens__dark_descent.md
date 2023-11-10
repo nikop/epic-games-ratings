@@ -12,8 +12,8 @@ Rating: 4.49 (Ranked 606)
 | Call Me Snake | 63.00% | ~2,293 |
 | Something Lurks Under The Hills | 61.00% | ~2,220 |
 | This Was No Papercut | 59.00% | ~2,148 |
+| People Person | 57.00% | ~2,075 |
 | The Shrink Hates Me | 57.00% | ~2,075 |
-| People Person | 56.00% | ~2,038 |
 | Use The Bumper, That's What It's For | 53.00% | ~1,929 |
 | First Steps Into Madness | 53.00% | ~1,929 |
 | Colonial Barrels | 51.00% | ~1,856 |
