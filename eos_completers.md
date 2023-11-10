@@ -3,13 +3,13 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
-| 4 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 50.00% |
-| 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.06% |
-| 6 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
-| 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
+| 4 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.06% |
+| 5 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
+| 6 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
+| 7 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 42.86% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.71% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.70% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.50% |
@@ -30,9 +30,9 @@
 | 28 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 13.64% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.68% |
 | 30 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.35% |
-| 31 | [Seven Doors](games/s/seven_doors.md) | 11.76% |
-| 32 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.68% |
-| 33 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
+| 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.66% |
+| 32 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
+| 32 | [Seven Doors](games/s/seven_doors.md) | 11.11% |
 | 34 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 35 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.67% |
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
@@ -54,19 +54,19 @@
 | 52 | [Sonic Origins](games/s/sonic_origins.md) | 7.58% |
 | 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.53% |
 | 54 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.14% |
-| 55 | [Time Loader](games/t/time_loader.md) | 7.09% |
-| 56 | [Scorn](games/s/scorn.md) | 6.90% |
-| 57 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
-| 58 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 58 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.25% |
-| 58 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 6.25% |
-| 61 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
-| 62 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
-| 63 | [JARS](games/j/jars.md) | 5.68% |
-| 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
-| 65 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.49% |
-| 66 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.47% |
-| 67 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 5.36% |
+| 54 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.14% |
+| 56 | [Time Loader](games/t/time_loader.md) | 7.09% |
+| 57 | [Scorn](games/s/scorn.md) | 6.90% |
+| 58 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
+| 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
+| 59 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.25% |
+| 59 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 6.25% |
+| 62 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 6.06% |
+| 63 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
+| 64 | [JARS](games/j/jars.md) | 5.68% |
+| 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
+| 66 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.49% |
+| 67 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.47% |
 | 68 | [Time on Frog Island](games/t/time_on_frog_island.md) | 5.00% |
 | 69 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 70 | [Bugsnax](games/b/bugsnax.md) | 4.81% |
@@ -114,7 +114,7 @@
 | 112 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 113 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 114 | [Bloodshore](games/b/bloodshore.md) | 2.40% |
-| 115 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.39% |
+| 115 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.38% |
 | 116 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
 | 117 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 118 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.33% |
@@ -122,8 +122,8 @@
 | 120 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
 | 122 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.89% |
-| 122 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 1.89% |
-| 124 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
+| 123 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.85% |
+| 123 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 1.85% |
 | 125 | [Sifu](games/s/sifu.md) | 1.81% |
 | 126 | [Frogun](games/f/frogun.md) | 1.79% |
 | 127 | [Somerville](games/s/somerville.md) | 1.75% |

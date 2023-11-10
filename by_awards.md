@@ -73,7 +73,7 @@
 | 71 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 5,340 | 4.69 | 230 |
 | 72 | [Horizon Zero Dawn™ Complete Edition](games/h/horizon_zero_dawn™_complete_edition.md) | 5,023 | 4.76 | 124 |
 | 73 | [Chivalry 2](games/c/chivalry_2.md) | 4,865 | 4.60 | 411 |
-| 74 | [Shop Titans](games/s/shop_titans.md) | 4,822 | 3.99 | 995 |
+| 74 | [Shop Titans](games/s/shop_titans.md) | 4,824 | 3.99 | 995 |
 | 75 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,802 | 4.56 | 486 |
 | 76 | [MultiVersus](games/m/multiversus.md) | 4,750 | 4.56 | 486 |
 | 77 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,671 | 4.70 | 214 |
@@ -100,12 +100,12 @@
 | 98 | [Gotham Knights](games/g/gotham_knights.md) | 2,917 | 4.18 | 925 |
 | 99 | [Among Us](games/a/among_us.md) | 2,818 | 4.57 | 469 |
 | 100 | [Path of Exile](games/p/path_of_exile.md) | 2,676 | 4.61 | 385 |
-| 101 | [RAGE 2](games/r/rage_2.md) | 2,652 | 4.27 | 856 |
+| 101 | [RAGE 2](games/r/rage_2.md) | 2,658 | 4.27 | 856 |
 | 102 | [The Cycle: Frontier](games/t/the_cycle__frontier.md) | 2,519 | 4.10 | 958 |
 | 103 | [Nioh 2 – The Complete Edition](games/n/nioh_2_–_the_complete_edition.md) | 2,508 | 4.80 | 87 |
 | 104 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 2,437 | 4.78 | 106 |
 | 105 | [My Time At Portia](games/m/my_time_at_portia.md) | 2,276 | 4.67 | 273 |
-| 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,261 | 4.63 | 349 |
+| 106 | [Elite Dangerous](games/e/elite_dangerous.md) | 2,262 | 4.63 | 349 |
 | 107 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 2,223 | 4.41 | 722 |
 | 108 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,160 | 4.37 | 772 |
 | 109 | [Remnant 2](games/r/remnant_2.md) | 2,121 | 4.75 | 145 |
@@ -121,7 +121,7 @@
 | 119 | [Tom Clancy's Rainbow Six® Siege](games/t/tom_clancy's_rainbow_six®_siege.md) | 1,791 | 4.57 | 469 |
 | 120 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 1,772 | 4.78 | 106 |
 | 121 | [Pathfinder: Wrath of the Righteous - Enhanced Edition](games/p/pathfinder__wrath_of_the_righteous.md) | 1,736 | 4.76 | 124 |
-| 122 | [Celeste](games/c/celeste.md) | 1,684 | 4.92 | 4 |
+| 122 | [Celeste](games/c/celeste.md) | 1,687 | 4.92 | 4 |
 | 123 | [Ghost Recon Breakpoint Standard Edition](games/g/ghost_recon_breakpoint_standard_edition.md) | 1,650 | 4.55 | 502 |
 | 124 | [The Sims™ 4](games/t/the_sims™_4.md) | 1,615 | 4.63 | 349 |
 | 125 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 1,609 | 4.62 | 366 |
@@ -171,7 +171,7 @@
 | 169 | [KINGDOM HEARTS III + Re Mind (DLC)](games/k/kingdom_hearts_iii_+_re_mind.md) | 799 | 4.79 | 96 |
 | 170 | [Riders Republic](games/r/riders_republic.md) | 798 | 4.75 | 145 |
 | 171 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 773 | 4.51 | 565 |
-| 172 | [Core](games/c/core.md) | 764 | 4.36 | 778 |
+| 172 | [Core](games/c/core.md) | 765 | 4.36 | 778 |
 | 173 | [Neverwinter](games/n/neverwinter.md) | 759 | 4.29 | 838 |
 | 174 | [Paragon: The Overprime](games/p/paragon__the_overprime.md) | 757 | 4.24 | 882 |
 | 175 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 737 | 4.87 | 24 |

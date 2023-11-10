@@ -3,7 +3,7 @@
 | 1 | [Jackbox Party Pack 3](games/j/jackbox_party_pack_3.md) | 4.96 | 0 | 548 |
 | 2 | [Raini: The Lords of Light](games/5/5efded9de1d049758206a501425d8209.md) | 4.95 | 0 | 548 |
 | 3 | [The Jackbox Party Pack](games/t/the_jackbox_party_pack.md) | 4.93 | 0 | 548 |
-| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,684 | 122 |
+| 4 | [Celeste](games/c/celeste.md) | 4.92 | 1,687 | 122 |
 | 4 | [Hades](games/h/hades.md) | 4.92 | 3,360 | 93 |
 | 6 | [Flatout 2](games/f/flatout_2.md) | 4.90 | 0 | 548 |
 | 6 | [Mago](games/m/mago.md) | 4.90 | 0 | 548 |
@@ -354,7 +354,7 @@
 | 349 | [Colt Canyon](games/c/colt_canyon.md) | 4.63 | 0 | 548 |
 | 349 | [Dead Space](games/d/dead_space.md) | 4.63 | 108 | 348 |
 | 349 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 4.63 | 34 | 475 |
-| 349 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,261 | 106 |
+| 349 | [Elite Dangerous](games/e/elite_dangerous.md) | 4.63 | 2,262 | 106 |
 | 349 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.63 | 625 | 188 |
 | 349 | [New Super Lucky's Tale](games/n/new_super_lucky's_tale.md) | 4.63 | 0 | 548 |
 | 349 | [Revita](games/r/revita.md) | 4.63 | 0 | 548 |
@@ -780,7 +780,7 @@
 | 778 | [Among Trees](games/a/among_trees.md) | 4.36 | 0 | 548 |
 | 778 | [Call of Cthulhu](games/c/call_of_cthulhu.md) | 4.36 | 0 | 548 |
 | 778 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 4.36 | 0 | 548 |
-| 778 | [Core](games/c/core.md) | 4.36 | 764 | 172 |
+| 778 | [Core](games/c/core.md) | 4.36 | 765 | 172 |
 | 778 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 305 |
 | 778 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,752 | 32 |
 | 778 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 0 | 548 |
@@ -861,7 +861,7 @@
 | 856 | [Kao the Kangaroo](games/k/kao_the_kangaroo.md) | 4.27 | 0 | 548 |
 | 856 | [Murder by Numbers](games/m/murder_by_numbers.md) | 4.27 | 0 | 548 |
 | 856 | [R-Type Final 2](games/r/r-type_final_2.md) | 4.27 | 0 | 548 |
-| 856 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,652 | 101 |
+| 856 | [RAGE 2](games/r/rage_2.md) | 4.27 | 2,658 | 101 |
 | 856 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 548 |
 | 856 | [Scrapnaut](games/s/scrapnaut.md) | 4.27 | 0 | 548 |
 | 856 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 548 |
@@ -995,7 +995,7 @@
 | 988 | [Starsiege: Deadzone](games/c/c295bb538708462cb6bd764eabf6b80f.md) | 4.00 | 0 | 548 |
 | 988 | [The Great War: Western Front™](games/t/the_great_war__western_front™.md) | 4.00 | 0 | 548 |
 | 995 | [Hood: Outlaws & Legends](games/h/hood__outlaws_&_legends.md) | 3.99 | 374 | 232 |
-| 995 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,822 | 74 |
+| 995 | [Shop Titans](games/s/shop_titans.md) | 3.99 | 4,824 | 74 |
 | 995 | [The First Tree](games/t/the_first_tree.md) | 3.99 | 0 | 548 |
 | 995 | [Train Life: A Railway Simulator](games/t/train_life__a_railway_simulator.md) | 3.99 | 0 | 548 |
 | 999 | [CORRUPTION 2029](games/c/corruption_2029.md) | 3.98 | 0 | 548 |
