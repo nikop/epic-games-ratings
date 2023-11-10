@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1191,9 +1191,9 @@
       "ID": "achievement_10",
       "SetID": "2cpn27e",
       "Name": "Karakuri Trail",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_11",
@@ -1573,8 +1573,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:50:01.6763477+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:23:29.5746059+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:08.6305491+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:42:07.2302853+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:50:01.6764025+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:16:09.4525963+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:23:29.5746568+00:00"
 }

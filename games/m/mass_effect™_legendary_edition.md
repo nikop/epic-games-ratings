@@ -58,13 +58,13 @@
 | Revenge! | 31.00% | ~335 |
 | Heart of Darkness | 31.00% | ~335 |
 | Driven | 31.00% | ~335 |
+| Focused | 30.00% | ~324 |
 | Archivist | 30.00% | ~324 |
 | Cat's in the Cradle | 30.00% | ~324 |
 | Fade Away | 30.00% | ~324 |
 | Big Game Hunter | 30.00% | ~324 |
 | Agent | 30.00% | ~324 |
 | Bringer of War | 30.00% | ~324 |
-| Focused | 29.00% | ~313 |
 | Friend or Foe | 29.00% | ~313 |
 | Doppelganger | 29.00% | ~313 |
 | Treason | 29.00% | ~313 |

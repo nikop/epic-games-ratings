@@ -76,9 +76,9 @@
       "ID": "Complete Mission",
       "SetID": "kh2i7p",
       "Name": "Completed Mission",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Tutorial",
@@ -99,8 +99,8 @@
   ],
   "FirstSeen": "2023-11-09T23:58:20.8656687+00:00",
   "FirstSeenAchievements": "2023-10-26T07:05:55.7899277+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:49:14.9251117+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:22:57.1968958+00:00",
   "LastUpdate_AppInfo": "2023-11-05T18:57:05.3224525+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:43:16.6962978+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:49:14.9251225+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:16:53.8640521+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:22:57.1969049+00:00"
 }

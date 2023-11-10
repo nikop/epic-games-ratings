@@ -185,9 +185,9 @@
       "ID": "A_HIVE_RESS hiveRes (0-100)",
       "SetID": "324h56e",
       "Name": "Hivespital",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_HUNT hunt (0-1)",
@@ -217,9 +217,9 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 40,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -408,8 +408,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:51:02.1903894+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:24:10.7257555+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:41.4462946+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:41:27.5840161+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:51:02.1904213+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:15:44.806673+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:24:10.7257883+00:00"
 }

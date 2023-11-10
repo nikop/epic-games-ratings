@@ -1,12 +1,12 @@
 # Remnant 2
 [Store](https://store.epicgames.com/en-US/p/remnant-2)  
 [View Rawdata](../../db/r/remnant_2.json)  
-Rating: 4.75 (Ranked 144)  
+Rating: 4.75 (Ranked 145)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,726 |
-| The Killing Jar | 8.00% | ~17,534 |
+| First of Many | 9.00% | ~19,727 |
+| The Killing Jar | 8.00% | ~17,535 |
 | Expanding Horizons | 7.00% | ~15,343 |
 | Quest for Survival | 7.00% | ~15,343 |
 | Not Your Average Trait | 7.00% | ~15,343 |
@@ -34,15 +34,15 @@ Rating: 4.75 (Ranked 144)
 | The Web | 4.00% | ~8,767 |
 | Scrap Collector | 4.00% | ~8,767 |
 | All These Traits� | 4.00% | ~8,767 |
-| Am I Seeing This? | 3.00% | ~6,575 |
-| Forever is a Long Time Coming | 3.00% | ~6,575 |
-| The Agenda | 3.00% | ~6,575 |
-| Tall Tales | 3.00% | ~6,575 |
-| Bad Moon Rising | 3.00% | ~6,575 |
-| Strapped | 3.00% | ~6,575 |
-| Edgelord | 3.00% | ~6,575 |
-| The Ultimate Weapon | 3.00% | ~6,575 |
-| No One Should Have All That Power | 3.00% | ~6,575 |
+| Am I Seeing This? | 3.00% | ~6,576 |
+| Forever is a Long Time Coming | 3.00% | ~6,576 |
+| The Agenda | 3.00% | ~6,576 |
+| Tall Tales | 3.00% | ~6,576 |
+| Bad Moon Rising | 3.00% | ~6,576 |
+| Strapped | 3.00% | ~6,576 |
+| Edgelord | 3.00% | ~6,576 |
+| The Ultimate Weapon | 3.00% | ~6,576 |
+| No One Should Have All That Power | 3.00% | ~6,576 |
 | Crafty | 2.00% | ~4,384 |
 | Only Human | 2.00% | ~4,384 |
 | Red Room | 2.00% | ~4,384 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 144)
 | Cutting Edge | 1.00% | ~2,192 |
 | Proving Grounds | 1.00% | ~2,192 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,180 (Ranked 68)  
+Progressed: 219,187 (Ranked 68)  
 Completed: 435 (0.20%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -173,7 +173,7 @@ Completed: 435 (0.20%) (Ranked 245)
 | 2023-11-07 | 218,702 | 433 |
 | 2023-11-08 | 218,941 | 435 |
 | 2023-11-09 | 219,166 | 435 |
-| 2023-11-10 | 219,180 | 435 |
+| 2023-11-10 | 219,187 | 435 |
 ## Awards
 Max (Great Boss Battles): 2,121  (Ranked 109)  
 Sum: 4,763 (Ranked 142)  

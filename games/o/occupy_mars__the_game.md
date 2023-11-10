@@ -34,7 +34,7 @@ Rating: 4.01 (Ranked 987)
 | Planetary Defence | 1.00% | ~17 |
 | 5G Network | 0.80% | ~14 |
 | One does not simply... | 0.80% | ~14 |
-| Rover Mechanic | 0.50% | ~8 |
+| Rover Mechanic | 0.50% | ~9 |
 | Bull’s eye | 0.40% | ~7 |
 | Korolev crater | 0.40% | ~7 |
 | Hot Repairs | 0.20% | ~3 |
@@ -54,7 +54,7 @@ Rating: 4.01 (Ranked 987)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,700 (Ranked 225)  
+Progressed: 1,701 (Ranked 225)  
 Completed: 0 (0.00%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,6 +229,7 @@ Completed: 0 (0.00%) (Ranked 345)
 | 2023-11-07 | 1,695 | 0 |
 | 2023-11-08 | 1,697 | 0 |
 | 2023-11-09 | 1,700 | 0 |
+| 2023-11-10 | 1,701 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

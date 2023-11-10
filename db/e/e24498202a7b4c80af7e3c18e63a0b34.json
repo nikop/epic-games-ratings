@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 68,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6731,
+  "EOS_Progressed": 6732,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -5226,6 +5226,11 @@
       "Time": "2023-11-10T01:51:25.9823297+00:00",
       "NumProgressed": 6731,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-10T02:24:27.0305281+00:00",
+      "NumProgressed": 6732,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5238,7 +5243,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "achievement_01_02",
@@ -5278,7 +5283,7 @@
       "Name": "Mr Wheeler",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3971
+      "UsersEstimate": 3972
     },
     {
       "ID": "achievement_01_07",
@@ -5294,7 +5299,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4981
+      "UsersEstimate": 4982
     },
     {
       "ID": "achievement_01_09",
@@ -5302,7 +5307,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2894
+      "UsersEstimate": 2895
     },
     {
       "ID": "achievement_01_10",
@@ -5478,7 +5483,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3096
+      "UsersEstimate": 3097
     },
     {
       "ID": "achievement_04_03",
@@ -5486,7 +5491,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3500
+      "UsersEstimate": 3501
     },
     {
       "ID": "achievement_04_04",
@@ -5502,7 +5507,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2221
+      "UsersEstimate": 2222
     },
     {
       "ID": "achievement_04_06",
@@ -5526,7 +5531,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5789
+      "UsersEstimate": 5790
     },
     {
       "ID": "achievement_04_09",
@@ -5541,7 +5546,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6731,
+      "Progressed": 6732,
       "Completed": 35
     }
   ],
@@ -5549,8 +5554,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:51:25.9823292+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:24:27.0305276+00:00",
   "LastUpdate_AppInfo": "2023-11-09T20:57:10.0685893+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:42:52.7082311+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:51:25.9823972+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:16:38.7828665+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:24:27.0305896+00:00"
 }

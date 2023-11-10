@@ -6,32 +6,32 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~121,878 |
-| Comeback | 82.00% | ~112,292 |
+| Immovable Object | 89.00% | ~121,879 |
+| Comeback | 82.00% | ~112,293 |
 | Information is Key | 80.00% | ~109,554 |
-| Unlucky | 71.00% | ~97,229 |
+| Unlucky | 71.00% | ~97,230 |
 | Anarchist | 68.00% | ~93,121 |
-| Wallhack | 65.00% | ~89,012 |
-| Steady Supply | 60.00% | ~82,165 |
-| Lucky Shot | 53.00% | ~72,579 |
+| Wallhack | 65.00% | ~89,013 |
+| Steady Supply | 60.00% | ~82,166 |
+| Lucky Shot | 53.00% | ~72,580 |
 | Forward Observer | 52.00% | ~71,210 |
 | Ring Ring! | 52.00% | ~71,210 |
 | Bossing Around | 45.00% | ~61,624 |
 | Frostbite | 45.00% | ~61,624 |
-| Night Owl | 44.00% | ~60,254 |
-| Strength in Numbers | 44.00% | ~60,254 |
-| Fog of War | 41.00% | ~56,146 |
-| Rasputin | 39.00% | ~53,407 |
-| Stronghold Denied | 39.00% | ~53,407 |
+| Night Owl | 44.00% | ~60,255 |
+| Strength in Numbers | 44.00% | ~60,255 |
+| Fog of War | 41.00% | ~56,147 |
+| Rasputin | 39.00% | ~53,408 |
+| Stronghold Denied | 39.00% | ~53,408 |
 | Anyone Else? | 38.00% | ~52,038 |
 | Hydra | 36.00% | ~49,299 |
 | This Belongs to Us Now | 36.00% | ~49,299 |
 | Stronghold | 35.00% | ~47,930 |
 | Leeroy | 33.00% | ~45,191 |
 | Lost Batallion | 33.00% | ~45,191 |
-| This is MY Machine Gun! | 32.00% | ~43,821 |
+| This is MY Machine Gun! | 32.00% | ~43,822 |
 | Together As One | 31.00% | ~42,452 |
-| Gavrilo Princip | 27.00% | ~36,974 |
+| Gavrilo Princip | 27.00% | ~36,975 |
 | Lead Harvest | 25.00% | ~34,236 |
 | Kesselschlacht | 23.00% | ~31,497 |
 | Skynet Confirmed | 23.00% | ~31,497 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,232 |
 | Road to Berlin | 0.60% | ~822 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 136,942 (Ranked 80)  
+Progressed: 136,943 (Ranked 80)  
 Completed: 32 (0.02%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 32 (0.02%) (Ranked 314)
 | 2023-11-07 | 136,752 | 32 |
 | 2023-11-08 | 136,848 | 32 |
 | 2023-11-09 | 136,933 | 32 |
-| 2023-11-10 | 136,942 | 32 |
+| 2023-11-10 | 136,943 | 32 |
 ## Awards
 Max (Competitive Players): 335  (Ranked 240)  
 Sum: 3,271 (Ranked 167)  

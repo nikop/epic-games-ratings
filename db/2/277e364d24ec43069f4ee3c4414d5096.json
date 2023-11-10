@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113740,
+  "EOS_Progressed": 113741,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17377,6 +17377,11 @@
       "Time": "2023-11-10T01:53:16.8115244+00:00",
       "NumProgressed": 113740,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-10T02:27:02.7288436+00:00",
+      "NumProgressed": 113741,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17396,7 +17401,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87580
+      "UsersEstimate": 87581
     },
     {
       "ID": "EAwards_10",
@@ -17404,7 +17409,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12511
+      "UsersEstimate": 12512
     },
     {
       "ID": "EAwards_11",
@@ -17412,7 +17417,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29572
+      "UsersEstimate": 29573
     },
     {
       "ID": "EAwards_12",
@@ -17484,7 +17489,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54595
+      "UsersEstimate": 54596
     },
     {
       "ID": "EAwards_20",
@@ -17492,7 +17497,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12511
+      "UsersEstimate": 12512
     },
     {
       "ID": "EAwards_21",
@@ -17540,7 +17545,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12511
+      "UsersEstimate": 12512
     },
     {
       "ID": "EAwards_27",
@@ -17772,14 +17777,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12511
+      "UsersEstimate": 12512
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113740,
+      "Progressed": 113741,
       "Completed": 50
     }
   ],
@@ -17787,8 +17792,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-05T09:57:46.3867846+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:53:16.8115239+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:27:02.728843+00:00",
   "LastUpdate_AppInfo": "2023-11-03T03:56:59.9196107+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:44:30.8241774+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:53:16.8116861+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:17:42.0280551+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:27:02.7289903+00:00"
 }

@@ -742,9 +742,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 351614,
+  "EOS_Progressed": 351616,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1046,
+  "EOS_NewPlayers": 1045,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23817,6 +23817,11 @@
       "Time": "2023-11-10T01:48:37.7290987+00:00",
       "NumProgressed": 351614,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-10T02:22:31.104648+00:00",
+      "NumProgressed": 351616,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -24036,7 +24041,7 @@
       "Name": "Corner Clout",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 165259
+      "UsersEstimate": 165260
     },
     {
       "ID": "ach028",
@@ -24132,7 +24137,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35161
+      "UsersEstimate": 35162
     },
     {
       "ID": "ach040",
@@ -24292,7 +24297,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 35161
+      "UsersEstimate": 35162
     },
     {
       "ID": "ach060",
@@ -24356,7 +24361,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 56258
+      "UsersEstimate": 56259
     },
     {
       "ID": "ach069",
@@ -24467,7 +24472,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 351614,
+      "Progressed": 351616,
       "Completed": 7
     }
   ],
@@ -24475,8 +24480,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2023-11-08T14:58:01.1395201+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:48:37.7290983+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:22:31.1046475+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.7953727+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:42:57.9973717+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:48:37.729344+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:16:42.2957727+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:22:31.1048805+00:00"
 }

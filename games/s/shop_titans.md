@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,556 |
-| Basic in Bulk | 4.00% | ~5,556 |
-| Titan's First Steps | 4.00% | ~5,556 |
-| Disintermediation | 3.00% | ~4,167 |
-| Tinkle of Coins | 3.00% | ~4,167 |
-| Capitalism Ho! | 3.00% | ~4,167 |
+| Sponsored by Argon | 4.00% | ~5,557 |
+| Basic in Bulk | 4.00% | ~5,557 |
+| Titan's First Steps | 4.00% | ~5,557 |
+| Disintermediation | 3.00% | ~4,168 |
+| Tinkle of Coins | 3.00% | ~4,168 |
+| Capitalism Ho! | 3.00% | ~4,168 |
 | The Daily Grind | 2.00% | ~2,778 |
 | One Easy Payment | 2.00% | ~2,778 |
 | Some Assembly Required | 2.00% | ~2,778 |
@@ -95,11 +95,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | King's Shadow | 0.70% | ~972 |
 | Master Recycler | 0.70% | ~972 |
 | King's Blade | 0.70% | ~972 |
-| Constellated | 0.60% | ~833 |
-| Fillin' the Bin | 0.60% | ~833 |
-| Industrial Evolution | 0.60% | ~833 |
-| A Legend is Born | 0.60% | ~833 |
-| Economy of Scarce | 0.60% | ~833 |
+| Constellated | 0.60% | ~834 |
+| Fillin' the Bin | 0.60% | ~834 |
+| Industrial Evolution | 0.60% | ~834 |
+| A Legend is Born | 0.60% | ~834 |
+| Economy of Scarce | 0.60% | ~834 |
 | Thank You Tom Nook | 0.50% | ~695 |
 | Jackpot! | 0.50% | ~695 |
 | Eternal Crusade | 0.50% | ~695 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138,908 (Ranked 79)  
+Progressed: 138,922 (Ranked 79)  
 Completed: 180 (0.13%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 180 (0.13%) (Ranked 257)
 | 2023-11-07 | 138,763 | 178 |
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
-| 2023-11-10 | 138,908 | 180 |
+| 2023-11-10 | 138,922 | 180 |
 ## Awards
 Max (Great for Beginners): 4,822  (Ranked 74)  
 Sum: 27,516 (Ranked 52)  

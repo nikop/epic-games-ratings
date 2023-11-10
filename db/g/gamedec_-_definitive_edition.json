@@ -477,9 +477,9 @@
       "Count": 88
     }
   ],
-  "EOS_Progressed": 251564,
+  "EOS_Progressed": 251566,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23247,6 +23247,11 @@
       "Time": "2023-11-10T01:51:34.0461009+00:00",
       "NumProgressed": 251564,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-10T02:24:32.7214365+00:00",
+      "NumProgressed": 251566,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23258,7 +23263,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 67922
+      "UsersEstimate": 67923
     },
     {
       "ID": "ACH_AON",
@@ -23322,7 +23327,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32703
+      "UsersEstimate": 32704
     },
     {
       "ID": "ACH_HATTRICK",
@@ -23474,7 +23479,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62891
+      "UsersEstimate": 62892
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -23530,7 +23535,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 17609
+      "UsersEstimate": 17610
     },
     {
       "ID": "ACH_MEMESMART",
@@ -23578,7 +23583,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62891
+      "UsersEstimate": 62892
     },
     {
       "ID": "ACH_SOREAD",
@@ -23673,7 +23678,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251564,
+      "Progressed": 251566,
       "Completed": 7
     }
   ],
@@ -23681,8 +23686,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-01T16:00:09.8506417+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:51:34.0461005+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:24:32.721436+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:56:59.5962658+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:44:19.0547058+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:51:34.0462965+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:17:34.6053502+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:24:32.7216198+00:00"
 }

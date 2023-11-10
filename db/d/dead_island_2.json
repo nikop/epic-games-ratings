@@ -6315,9 +6315,9 @@
       "Count": 448
     }
   ],
-  "EOS_Progressed": 715691,
+  "EOS_Progressed": 715698,
   "EOS_Completed": 2369,
-  "EOS_NewPlayers": 4570,
+  "EOS_NewPlayers": 4573,
   "EOS_NewCompleters": 64,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29540,6 +29540,11 @@
       "Time": "2023-11-10T01:52:06.7662504+00:00",
       "NumProgressed": 715691,
       "NumCompleted": 2369
+    },
+    {
+      "Time": "2023-11-10T02:24:55.5213809+00:00",
+      "NumProgressed": 715698,
+      "NumCompleted": 2369
     }
   ],
   "TotalAchievements": 51,
@@ -29757,9 +29762,9 @@
       "ID": "ach_knowledgeable",
       "SetID": "7km39fm",
       "Name": "Zombologist",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2147
+      "UsersEstimate": 2863
     },
     {
       "ID": "ach_legendary",
@@ -29958,13 +29963,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 715691,
+      "Progressed": 715698,
       "Completed": 2369
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 41233,
+      "Progressed": 41240,
       "Completed": 36513
     }
   ],
@@ -29972,8 +29977,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-09T17:59:35.4209527+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:52:06.76625+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:24:55.5213801+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:43:51.4380058+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:52:06.7664522+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:17:16.4276701+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:24:55.5215596+00:00"
 }

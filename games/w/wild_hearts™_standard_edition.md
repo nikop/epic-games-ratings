@@ -27,7 +27,7 @@
 | Single Minded | 41.00% | ~102 |
 | Mighty Marmelizer | 41.00% | ~102 |
 | Snare Specialist | 39.00% | ~97 |
-| Karakuri Trail | 37.00% | ~92 |
+| Karakuri Trail | 38.00% | ~95 |
 | Kemono at Heart | 37.00% | ~92 |
 | Artful Assister | 35.00% | ~87 |
 | Team Hunter | 34.00% | ~85 |

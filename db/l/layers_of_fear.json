@@ -356,9 +356,9 @@
       "ID": "casting_finished",
       "SetID": "f2im8d",
       "Name": "Casting Finished",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "collect_items_mother",
@@ -388,9 +388,9 @@
       "ID": "collect_most_of_posters",
       "SetID": "f2im8d",
       "Name": "Body of Work",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "collect_notes_mother",
@@ -708,9 +708,9 @@
       "ID": "true_reflection",
       "SetID": "f2im8d",
       "Name": "True Reflection",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "view_most_of_photos",
@@ -747,8 +747,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:52:28.4040294+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:25:10.3369145+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:41.7435557+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:47:18.5886773+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:52:28.4040764+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:21:38.3907748+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:25:10.3369727+00:00"
 }

@@ -3097,9 +3097,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82042,
+  "EOS_Progressed": 82044,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 829,
+  "EOS_NewPlayers": 828,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -25722,6 +25722,11 @@
       "Time": "2023-11-10T01:53:10.8930785+00:00",
       "NumProgressed": 82042,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-11-10T02:26:58.6867972+00:00",
+      "NumProgressed": 82044,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 30,
@@ -25733,7 +25738,7 @@
       "Name": "First Journey",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10665
+      "UsersEstimate": 10666
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -25829,7 +25834,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 26253
+      "UsersEstimate": 26254
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -25861,7 +25866,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19690
+      "UsersEstimate": 19691
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -25901,7 +25906,7 @@
       "Name": "Money money",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 12306
+      "UsersEstimate": 12307
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -25925,7 +25930,7 @@
       "Name": "Frequent tester",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6563
+      "UsersEstimate": 6564
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -25965,22 +25970,22 @@
       "Name": "Determined",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 6563
+      "UsersEstimate": 6564
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82042,
+      "Progressed": 82044,
       "Completed": 159
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-09T23:01:08.3669933+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:53:10.893078+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:26:58.6867968+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:26.8339695+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:45:09.7896327+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:53:10.8932604+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:18:08.5537635+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:26:58.6869551+00:00"
 }

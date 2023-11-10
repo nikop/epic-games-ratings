@@ -5,18 +5,18 @@ Rating: 4.59 (Ranked 432)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,507 |
-| A Thorny Situation | 70.00% | ~5,354 |
-| ... And Spit Back Out | 61.00% | ~4,665 |
+| Azoria Beckons | 72.00% | ~5,508 |
+| A Thorny Situation | 70.00% | ~5,355 |
+| ... And Spit Back Out | 61.00% | ~4,666 |
 | Break-Net Speed | 49.00% | ~3,748 |
-| Bramble Breaker | 46.00% | ~3,518 |
-| Miner 49er | 43.00% | ~3,289 |
-| Humble Collector | 42.00% | ~3,212 |
+| Bramble Breaker | 46.00% | ~3,519 |
+| Miner 49er | 43.00% | ~3,290 |
+| Humble Collector | 42.00% | ~3,213 |
 | Calm Sailing | 37.00% | ~2,830 |
-| Open the Gate! | 34.00% | ~2,600 |
-| Mist Walker | 32.00% | ~2,447 |
-| Lumberjack | 27.00% | ~2,065 |
-| Oui, Chef! | 23.00% | ~1,759 |
+| Open the Gate! | 34.00% | ~2,601 |
+| Mist Walker | 32.00% | ~2,448 |
+| Lumberjack | 27.00% | ~2,066 |
+| Oui, Chef! | 23.00% | ~1,760 |
 | Clear the Air | 18.00% | ~1,377 |
 | Botanical Breakthrough | 17.00% | ~1,300 |
 | Search for the Hairy Grell | 14.00% | ~1,071 |
@@ -27,13 +27,13 @@ Rating: 4.59 (Ranked 432)
 | Got to Catch Them All | 8.00% | ~612 |
 | Rumble in the Jumble | 8.00% | ~612 |
 | Fanatical Farmer | 8.00% | ~612 |
-| Fae Farmer | 7.00% | ~535 |
+| Fae Farmer | 7.00% | ~536 |
 | Scattered Scroll Scrounger | 6.00% | ~459 |
 | Azorian Anniversary | 6.00% | ~459 |
 | I Now Pronounce You... | 5.00% | ~382 |
 | Chatty Neighbor | 4.00% | ~306 |
 | House Proud | 4.00% | ~306 |
-| Right Tool For the Job | 3.00% | ~229 |
+| Right Tool For the Job | 3.00% | ~230 |
 | Captain of Cozy | 2.00% | ~153 |
 | Angling Authority | 1.00% | ~76 |
 | Cloverfield Island | 0.20% | ~15 |
@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 432)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,648 (Ranked 168)  
+Progressed: 7,650 (Ranked 168)  
 Completed: 1 (0.01%) (Ranked 321)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -119,7 +119,7 @@ Completed: 1 (0.01%) (Ranked 321)
 | 2023-11-07 | 7,620 | 1 |
 | 2023-11-08 | 7,630 | 1 |
 | 2023-11-09 | 7,646 | 1 |
-| 2023-11-10 | 7,648 | 1 |
+| 2023-11-10 | 7,650 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

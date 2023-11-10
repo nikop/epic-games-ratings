@@ -23,6 +23,7 @@ Rating: 4.54 (Ranked 523)
 | Like Riding a Bike | 0.40% | ~2,863 |
 | Friends Like These | 0.40% | ~2,863 |
 | Apex Predator | 0.40% | ~2,863 |
+| Zombologist | 0.40% | ~2,863 |
 | A Patton Emerges | 0.40% | ~2,863 |
 | Stacking the Deck | 0.40% | ~2,863 |
 | Our True Nature | 0.40% | ~2,863 |
@@ -32,7 +33,6 @@ Rating: 4.54 (Ranked 523)
 | I Got a Zombie Army and You Can't Harm Me | 0.30% | ~2,147 |
 | Slayer Squad | 0.30% | ~2,147 |
 | Not Even My Final Form | 0.30% | ~2,147 |
-| Zombologist | 0.30% | ~2,147 |
 | Ooh, Shiny! | 0.30% | ~2,147 |
 | Humanity Distilled | 0.30% | ~2,147 |
 | I Am the Resurrection | 0.30% | ~2,147 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~41 |
 | Wilhelm | 0.10% | ~41 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 715,691 (Ranked 21)  
+Progressed: 715,698 (Ranked 21)  
 Completed: 2,369 (0.33%) (Ranked 219)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2,369 (0.33%) (Ranked 219)
 | 2023-11-07 | 714,715 | 2,354 |
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
-| 2023-11-10 | 715,691 | 2,369 |
+| 2023-11-10 | 715,698 | 2,369 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 54)  
 Sum: 10,986 (Ranked 86)  

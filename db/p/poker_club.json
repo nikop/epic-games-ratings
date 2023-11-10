@@ -919,9 +919,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 536665,
+  "EOS_Progressed": 536666,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1438,
+  "EOS_NewPlayers": 1433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23914,6 +23914,11 @@
       "Time": "2023-11-10T01:50:08.1501291+00:00",
       "NumProgressed": 536665,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-10T02:23:33.9243878+00:00",
+      "NumProgressed": 536666,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -23949,7 +23954,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 53666
+      "UsersEstimate": 53667
     },
     {
       "ID": "BlindmansBluff",
@@ -24021,7 +24026,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 209299
+      "UsersEstimate": 209300
     },
     {
       "ID": "DeadlyAssassin",
@@ -24173,7 +24178,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 407865
+      "UsersEstimate": 407866
     },
     {
       "ID": "ProPlayer",
@@ -24237,7 +24242,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69766
+      "UsersEstimate": 69767
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -24253,7 +24258,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 101966
+      "UsersEstimate": 101967
     },
     {
       "ID": "TopDog",
@@ -24284,7 +24289,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 536665,
+      "Progressed": 536666,
       "Completed": 2
     }
   ],
@@ -24292,8 +24297,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-07T13:02:36.4161924+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:50:08.1501282+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:23:33.9243873+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:13.8463106+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:43:48.0128491+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:50:08.1503156+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:17:14.1684708+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:23:33.9245626+00:00"
 }

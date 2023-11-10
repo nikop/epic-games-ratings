@@ -4,7 +4,7 @@
   "ProductSlug": "wrc",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 345,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -201,9 +201,9 @@
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_12",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:53:59.7667614+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:27:31.9644943+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:41:20.6126379+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:53:59.7667848+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:15:40.4579448+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:27:31.9645158+00:00"
 }

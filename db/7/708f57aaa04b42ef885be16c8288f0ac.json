@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4523,
+  "EOS_Progressed": 4527,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 676,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2646,6 +2646,11 @@
       "Time": "2023-11-10T01:53:38.0943028+00:00",
       "NumProgressed": 4523,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-10T02:27:17.1742112+00:00",
+      "NumProgressed": 4527,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2698,7 +2703,7 @@
       "Name": "Connection Lost",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "Eavesdropper",
@@ -2738,7 +2743,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "GarbageMan",
@@ -2810,7 +2815,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "NotLikeTheOthers",
@@ -2842,7 +2847,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "TheOldSchoolWay",
@@ -2850,7 +2855,7 @@
       "Name": "The Old-School Way",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "TheQuarterback",
@@ -2882,7 +2887,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -2929,7 +2934,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4523,
+      "Progressed": 4527,
       "Completed": 5
     }
   ],
@@ -2937,8 +2942,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-07T20:59:18.8994316+00:00",
-  "LastChanged_Achievements": "2023-11-10T01:53:38.0943023+00:00",
+  "LastChanged_Achievements": "2023-11-10T02:27:17.1742107+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-10T01:45:35.5739391+00:00",
-  "LastUpdate_Achievements": "2023-11-10T01:53:38.0943498+00:00"
+  "LastUpdate_Ratings": "2023-11-10T02:18:25.3577276+00:00",
+  "LastUpdate_Achievements": "2023-11-10T02:27:17.174258+00:00"
 }

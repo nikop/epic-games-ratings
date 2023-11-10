@@ -23,19 +23,19 @@
 | The art of movement | 12.00% | ~7 |
 | The tragedy unfolds | 12.00% | ~7 |
 | A Slice of Life | 10.00% | ~6 |
+| True Reflection | 10.00% | ~6 |
 | A new way | 8.00% | ~5 |
 | Another perspective | 8.00% | ~5 |
 | Lights! Camera! Action! | 8.00% | ~5 |
-| True Reflection | 8.00% | ~5 |
 | Whispers long forgotten | 8.00% | ~5 |
 | Sound Bite | 7.00% | ~4 |
 | Heavy Burden | 7.00% | ~4 |
+| Casting Finished | 5.00% | ~3 |
 | We Are Not Alone | 5.00% | ~3 |
-| Casting Finished | 3.00% | ~2 |
 | Something to think about | 3.00% | ~2 |
+| Body of Work | 3.00% | ~2 |
 | The Perfect Storm | 3.00% | ~2 |
 | Fisherman | 3.00% | ~2 |
-| Body of Work | 2.00% | ~1 |
 | Full Scoop | 2.00% | ~1 |
 | Se7en Seas | 2.00% | ~1 |
 | A Mosaic of Misery | 2.00% | ~1 |
