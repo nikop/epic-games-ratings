@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.21% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.69% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.68% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.50% |
@@ -51,7 +51,7 @@
 | 48 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 50 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.66% |
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
-| 52 | [Sonic Origins](games/s/sonic_origins.md) | 7.58% |
+| 52 | [Sonic Origins](games/s/sonic_origins.md) | 7.56% |
 | 53 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 7.53% |
 | 54 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.14% |
 | 54 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.14% |
@@ -97,7 +97,7 @@
 | 95 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.14% |
 | 96 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 3.12% |
 | 97 | [Monster Harvest](games/m/monster_harvest.md) | 3.09% |
-| 98 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.07% |
+| 98 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.06% |
 | 99 | [HordeCore](games/h/hordecore.md) | 3.05% |
 | 100 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 101 | [MultiVersus](games/m/multiversus.md) | 2.93% |
@@ -736,4 +736,4 @@
 | 346 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 346 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 346 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,539 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
+| 3,540 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.78% |
