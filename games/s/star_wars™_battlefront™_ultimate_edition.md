@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | New Recruit | 89.00% | ~1,024 |
-| Off to a good start | 67.00% | ~770 |
-| Do... or do not. There is no try | 51.00% | ~586 |
+| Off to a good start | 67.00% | ~771 |
+| Do... or do not. There is no try | 51.00% | ~587 |
 | A good blaster at your side | 32.00% | ~368 |
 | I suggest a new strategy | 20.00% | ~230 |
-| Scrap collector | 19.00% | ~218 |
+| Scrap collector | 19.00% | ~219 |
 | All right, I'll give it a try | 17.00% | ~196 |
 | Great shot, kid! | 17.00% | ~196 |
-| The power of the Force | 15.00% | ~172 |
-| Together we can rule the galaxy | 15.00% | ~172 |
-| Shoot first | 15.00% | ~172 |
+| The power of the Force | 15.00% | ~173 |
+| Together we can rule the galaxy | 15.00% | ~173 |
+| Shoot first | 15.00% | ~173 |
 | Collector | 14.00% | ~161 |
 | Tell Jabba that I've got his money | 10.00% | ~115 |
 | Best star-pilot in the galaxy | 10.00% | ~115 |
@@ -31,15 +31,15 @@
 | Safety ain't the point of a joyride | 4.00% | ~46 |
 | Not bad for a little furball | 4.00% | ~46 |
 | Patience you must have | 4.00% | ~46 |
-| I've been waiting for you | 3.00% | ~34 |
-| When 900 years old you reach... | 3.00% | ~34 |
-| Determined | 3.00% | ~34 |
-| Your journey has only started | 3.00% | ~34 |
-| On the ball | 3.00% | ~34 |
-| Precision shot | 3.00% | ~34 |
-| That's no moon | 3.00% | ~34 |
-| What will you become? | 3.00% | ~34 |
-| Don't underestimate the Force | 3.00% | ~34 |
+| I've been waiting for you | 3.00% | ~35 |
+| When 900 years old you reach... | 3.00% | ~35 |
+| Determined | 3.00% | ~35 |
+| Your journey has only started | 3.00% | ~35 |
+| On the ball | 3.00% | ~35 |
+| Precision shot | 3.00% | ~35 |
+| That's no moon | 3.00% | ~35 |
+| What will you become? | 3.00% | ~35 |
+| Don't underestimate the Force | 3.00% | ~35 |
 | Hold the line! | 2.00% | ~23 |
 | The Force is strong with this one | 2.00% | ~23 |
 | Ackbar's Elite | 2.00% | ~23 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,150 (Ranked 243)  
+Progressed: 1,151 (Ranked 243)  
 Completed: 1 (0.09%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 1 (0.09%) (Ranked 275)
 | 2023-11-08 | 1,114 | 1 |
 | 2023-11-09 | 1,130 | 1 |
 | 2023-11-10 | 1,147 | 1 |
-| 2023-11-11 | 1,150 | 1 |
+| 2023-11-11 | 1,151 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,12 +2,12 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -3316,8 +3316,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2023-10-09T14:58:48.9405433+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:04:36.5395624+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:46:45.6059733+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:26.5490267+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:58:52.4025315+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:04:36.5395923+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:41:08.5392874+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:46:45.6060155+00:00"
 }

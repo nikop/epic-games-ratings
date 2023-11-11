@@ -7919,10 +7919,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32424,
       "NumberOfAwardsMax": 5508
+    },
+    {
+      "Time": "2023-11-11T01:41:24.3814079+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32426,
+      "NumberOfAwardsMax": 5508
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32424,
+  "NumberOfAwards": 32426,
   "NumberOfAwardsMax": 5508,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7954,7 +7960,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4196
+      "Count": 4198
     },
     {
       "Text": "This game has Amazing Characters",
@@ -7969,9 +7975,9 @@
       "Count": 3512
     }
   ],
-  "EOS_Progressed": 234392,
+  "EOS_Progressed": 234403,
   "EOS_Completed": 2441,
-  "EOS_NewPlayers": 807,
+  "EOS_NewPlayers": 811,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -30849,6 +30855,11 @@
       "Time": "2023-11-11T00:06:43.9502245+00:00",
       "NumProgressed": 234392,
       "NumCompleted": 2441
+    },
+    {
+      "Time": "2023-11-11T01:49:26.7628824+00:00",
+      "NumProgressed": 234403,
+      "NumCompleted": 2441
     }
   ],
   "TotalAchievements": 532,
@@ -35106,30 +35117,30 @@
       "ID": "objective_completed_1553",
       "SetID": "415jc5c",
       "Name": "See You on the Flipside",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 803
+      "UsersEstimate": 1003
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 200666,
+      "Progressed": 200677,
       "Completed": 3913
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 234392,
+      "Progressed": 234403,
       "Completed": 2441
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-10T19:58:39.8714531+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:06:43.9502244+00:00",
+  "LastChanged": "2023-11-11T01:41:24.3814074+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:49:26.7628817+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.9071998+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:59:04.3016794+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:06:43.9523361+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:41:24.3814086+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:49:26.7665486+00:00"
 }

@@ -6,25 +6,25 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,567 |
-| Basic in Bulk | 4.00% | ~5,567 |
-| Titan's First Steps | 4.00% | ~5,567 |
-| Disintermediation | 3.00% | ~4,175 |
-| It's Free Real Estate | 3.00% | ~4,175 |
-| Tinkle of Coins | 3.00% | ~4,175 |
-| Capitalism Ho! | 3.00% | ~4,175 |
-| The Daily Grind | 2.00% | ~2,783 |
-| One Easy Payment | 2.00% | ~2,783 |
-| Some Assembly Required | 2.00% | ~2,783 |
-| Bounty Hunters | 2.00% | ~2,783 |
-| Flooding the Market | 2.00% | ~2,783 |
-| Another Satisfied Customer | 2.00% | ~2,783 |
-| Pretty Penny | 2.00% | ~2,783 |
-| One-Armed Bandit | 2.00% | ~2,783 |
-| Budding Merchant | 2.00% | ~2,783 |
-| Dungeon Imports | 2.00% | ~2,783 |
-| Through Repetition, Perfection | 2.00% | ~2,783 |
-| Own the Means of Production | 2.00% | ~2,783 |
+| Sponsored by Argon | 4.00% | ~5,568 |
+| Basic in Bulk | 4.00% | ~5,568 |
+| Titan's First Steps | 4.00% | ~5,568 |
+| Disintermediation | 3.00% | ~4,176 |
+| It's Free Real Estate | 3.00% | ~4,176 |
+| Tinkle of Coins | 3.00% | ~4,176 |
+| Capitalism Ho! | 3.00% | ~4,176 |
+| The Daily Grind | 2.00% | ~2,784 |
+| One Easy Payment | 2.00% | ~2,784 |
+| Some Assembly Required | 2.00% | ~2,784 |
+| Bounty Hunters | 2.00% | ~2,784 |
+| Flooding the Market | 2.00% | ~2,784 |
+| Another Satisfied Customer | 2.00% | ~2,784 |
+| Pretty Penny | 2.00% | ~2,784 |
+| One-Armed Bandit | 2.00% | ~2,784 |
+| Budding Merchant | 2.00% | ~2,784 |
+| Dungeon Imports | 2.00% | ~2,784 |
+| Through Repetition, Perfection | 2.00% | ~2,784 |
+| Own the Means of Production | 2.00% | ~2,784 |
 | On the Path to Greatness | 1.00% | ~1,392 |
 | Ascended | 1.00% | ~1,392 |
 | Tax not Included | 1.00% | ~1,392 |
@@ -52,30 +52,30 @@ Number of Ratings: 12,664  (23.09.2022)
 | Expansion in Session | 0.90% | ~1,253 |
 | Trash to Treasure | 0.90% | ~1,253 |
 | Seasoned Journeyman | 0.90% | ~1,253 |
-| Black Friday Special | 0.90% | ~1,253 |
 | Special Ingredient | 0.90% | ~1,253 |
 | Complete Monopoly | 0.90% | ~1,253 |
-| A Notch Above the Rest | 0.80% | ~1,113 |
-| Above the Norm | 0.80% | ~1,113 |
-| The King's Caprice | 0.80% | ~1,113 |
-| Big Game Hunting | 0.80% | ~1,113 |
-| Locally Sourced | 0.80% | ~1,113 |
-| Flying off the Shelves | 0.80% | ~1,113 |
-| Master of Transmutation | 0.80% | ~1,113 |
-| Hidden Potential | 0.80% | ~1,113 |
-| Cranked up to 11 | 0.80% | ~1,113 |
-| Fit for a King | 0.80% | ~1,113 |
-| Mammonite | 0.80% | ~1,113 |
-| Wealth Beyond Measure | 0.80% | ~1,113 |
-| Fat Cat Tag Team | 0.80% | ~1,113 |
-| Necromancer Queen | 0.80% | ~1,113 |
-| Miracle Alchemist | 0.80% | ~1,113 |
-| Laden with Loot | 0.80% | ~1,113 |
-| Scourge of the Seas | 0.80% | ~1,113 |
-| Attrition Mission | 0.80% | ~1,113 |
-| Glittering Collection | 0.80% | ~1,113 |
-| Exotic Commodities | 0.80% | ~1,113 |
-| King's Blade | 0.80% | ~1,113 |
+| A Notch Above the Rest | 0.80% | ~1,114 |
+| Above the Norm | 0.80% | ~1,114 |
+| The King's Caprice | 0.80% | ~1,114 |
+| Big Game Hunting | 0.80% | ~1,114 |
+| Locally Sourced | 0.80% | ~1,114 |
+| Flying off the Shelves | 0.80% | ~1,114 |
+| Master of Transmutation | 0.80% | ~1,114 |
+| Hidden Potential | 0.80% | ~1,114 |
+| Cranked up to 11 | 0.80% | ~1,114 |
+| Fit for a King | 0.80% | ~1,114 |
+| Mammonite | 0.80% | ~1,114 |
+| Wealth Beyond Measure | 0.80% | ~1,114 |
+| Fat Cat Tag Team | 0.80% | ~1,114 |
+| Necromancer Queen | 0.80% | ~1,114 |
+| Miracle Alchemist | 0.80% | ~1,114 |
+| Laden with Loot | 0.80% | ~1,114 |
+| Scourge of the Seas | 0.80% | ~1,114 |
+| Attrition Mission | 0.80% | ~1,114 |
+| Glittering Collection | 0.80% | ~1,114 |
+| Black Friday Special | 0.80% | ~1,114 |
+| Exotic Commodities | 0.80% | ~1,114 |
+| King's Blade | 0.80% | ~1,114 |
 | Cream of the Crop | 0.70% | ~974 |
 | Top of the World | 0.70% | ~974 |
 | Proud Paladin | 0.70% | ~974 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,173 (Ranked 79)  
-Completed: 180 (0.13%) (Ranked 258)  
+Progressed: 139,189 (Ranked 79)  
+Completed: 181 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,7 +324,7 @@ Completed: 180 (0.13%) (Ranked 258)
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
-| 2023-11-11 | 139,173 | 180 |
+| 2023-11-11 | 139,189 | 181 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 73)  
 Sum: 27,523 (Ranked 51)  

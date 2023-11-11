@@ -19,7 +19,7 @@
 | Tributes of Caladrias | 23.00% | ~41 |
 | Stone Collection | 20.00% | ~35 |
 | Essence Blow | 13.00% | ~23 |
-| Big Bazar | 12.00% | ~21 |
+| Big Bazar | 13.00% | ~23 |
 | Alchemist | 12.00% | ~21 |
 | The Mentor | 9.00% | ~16 |
 | Airborne | 8.00% | ~14 |

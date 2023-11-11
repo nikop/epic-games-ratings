@@ -5,33 +5,33 @@ Rating: 4.41 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 12.00% | ~2,156 |
-| Sector 2 | 11.00% | ~1,976 |
-| Crush That Cube! | 10.00% | ~1,797 |
-| Sector 3 | 9.00% | ~1,617 |
-| Crush That Ball! | 7.00% | ~1,258 |
-| Sector 4 | 7.00% | ~1,258 |
-| Sector 5 | 5.00% | ~898 |
-| Sector 6 | 4.00% | ~719 |
-| Feeling the Blues | 3.00% | ~539 |
-| Squished | 3.00% | ~539 |
-| Finale | 3.00% | ~539 |
-| Sector 7 | 3.00% | ~539 |
-| Did That Work? -- No! | 3.00% | ~539 |
-| Master Room | 2.00% | ~359 |
+| Sector 1 | 12.00% | ~2,159 |
+| Sector 2 | 11.00% | ~1,979 |
+| Crush That Cube! | 10.00% | ~1,799 |
+| Sector 3 | 9.00% | ~1,619 |
+| Sector 4 | 8.00% | ~1,439 |
+| Crush That Ball! | 7.00% | ~1,259 |
+| Sector 5 | 5.00% | ~899 |
+| Sector 6 | 4.00% | ~720 |
+| Feeling the Blues | 3.00% | ~540 |
+| Squished | 3.00% | ~540 |
+| Finale | 3.00% | ~540 |
+| Sector 7 | 3.00% | ~540 |
+| Did That Work? -- No! | 3.00% | ~540 |
+| Master Room | 2.00% | ~360 |
 | The Puzzle Master | 1.00% | ~180 |
 | Bronze Trophy | 0.90% | ~162 |
+| The Collector | 0.80% | ~144 |
 | Hopefully that's all of them! | 0.80% | ~144 |
 | Phew! | 0.80% | ~144 |
 | Silver Trophy | 0.80% | ~144 |
 | Completed It. | 0.80% | ~144 |
-| The Collector | 0.70% | ~126 |
 | Master Of The Collectables | 0.70% | ~126 |
 | Gold Trophy | 0.70% | ~126 |
 | Maxed Out | 0.70% | ~126 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,966 (Ranked 139)  
-Completed: 39 (0.22%) (Ranked 238)  
+Progressed: 17,989 (Ranked 139)  
+Completed: 40 (0.22%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,7 +58,7 @@ Completed: 39 (0.22%) (Ranked 238)
 | 2023-11-08 | 17,246 | 34 |
 | 2023-11-09 | 17,550 | 38 |
 | 2023-11-10 | 17,953 | 39 |
-| 2023-11-11 | 17,966 | 39 |
+| 2023-11-11 | 17,989 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

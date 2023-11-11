@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 80.00% | ~125 |
-| Thalya – Simply Immortal | 80.00% | ~125 |
-| For the Horde! | 69.00% | ~108 |
-| Hammer Time, Round Two | 64.00% | ~100 |
-| Thalya's Concentrated Fury | 63.00% | ~98 |
-| The Hellwoods | 53.00% | ~83 |
-| Master of Magic | 44.00% | ~69 |
-| Trap Master | 40.00% | ~62 |
-| Magic Accidents | 40.00% | ~62 |
-| Experienced Thalya | 40.00% | ~62 |
-| The Plains of Strothalm | 38.00% | ~59 |
-| Unicorn steaks – fresh off the hoof! | 36.00% | ~56 |
-| Bad Elves Go Everywhere | 32.00% | ~50 |
-| Minions, Minions! | 30.00% | ~47 |
-| Heroes’ Gorge | 16.00% | ~25 |
-| YOU SHALL NOT PASS! | 14.00% | ~22 |
-| Mana Cannon | 12.00% | ~19 |
-| Sacrificial Pit = Garbage Disposal? | 7.00% | ~11 |
+| The Last Stand | 79.00% | ~126 |
+| Thalya – Simply Immortal | 79.00% | ~126 |
+| For the Horde! | 68.00% | ~108 |
+| Hammer Time, Round Two | 64.00% | ~102 |
+| Thalya's Concentrated Fury | 62.00% | ~99 |
+| The Hellwoods | 53.00% | ~84 |
+| Master of Magic | 43.00% | ~68 |
+| Experienced Thalya | 42.00% | ~67 |
+| Trap Master | 40.00% | ~64 |
+| Magic Accidents | 40.00% | ~64 |
+| The Plains of Strothalm | 37.00% | ~59 |
+| Unicorn steaks – fresh off the hoof! | 37.00% | ~59 |
+| Bad Elves Go Everywhere | 33.00% | ~52 |
+| Minions, Minions! | 30.00% | ~48 |
+| Heroes’ Gorge | 17.00% | ~27 |
+| YOU SHALL NOT PASS! | 15.00% | ~24 |
+| Mana Cannon | 13.00% | ~21 |
+| Sacrificial Pit = Garbage Disposal? | 8.00% | ~13 |
 | Pure Dynamite! | 7.00% | ~11 |
-| The Ascent | 6.00% | ~9 |
-| It's Warm and Cozy at Home | 6.00% | ~9 |
+| The Ascent | 6.00% | ~10 |
+| It's Warm and Cozy at Home | 6.00% | ~10 |
+| The Big Eaty | 5.00% | ~8 |
 | Hard Work | 4.00% | ~6 |
-| The Big Eaty | 4.00% | ~6 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 4.00% | ~6 |
 | Hungry, Hungry Gorgu! | 3.00% | ~5 |
 | “… like son” | 2.00% | ~3 |
@@ -66,11 +66,11 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 156 (Ranked 388)  
+Progressed: 159 (Ranked 387)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-11-09 | 76 | 0 |
 | 2023-11-10 | 153 | 0 |
-| 2023-11-11 | 156 | 0 |
+| 2023-11-11 | 159 | 0 |

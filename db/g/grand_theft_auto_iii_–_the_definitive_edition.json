@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -517,9 +517,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8563,
+  "EOS_Progressed": 8564,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -10982,6 +10982,11 @@
       "Time": "2023-11-10T20:05:18.7392927+00:00",
       "NumProgressed": 8563,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-11T01:48:37.0974436+00:00",
+      "NumProgressed": 8564,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10993,7 +10998,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7107
+      "UsersEstimate": 7108
     },
     {
       "ID": "ACH02",
@@ -11001,7 +11006,7 @@
       "Name": "Without a Scratch",
       "Percentage": 34,
       "XP": 40,
-      "UsersEstimate": 2911
+      "UsersEstimate": 2912
     },
     {
       "ID": "ACH03",
@@ -11224,7 +11229,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8563,
+      "Progressed": 8564,
       "Completed": 56
     }
   ],
@@ -11232,8 +11237,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-07T02:18:06.6938355+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:06:04.275282+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:48:37.097443+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-11T00:00:46.9207806+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:06:04.2753517+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:43:41.9889723+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:48:37.0975578+00:00"
 }

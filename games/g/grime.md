@@ -6,11 +6,11 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,303 |
-| Imprint | 4.00% | ~6,303 |
-| The Hunt | 3.00% | ~4,727 |
-| Weeper | 3.00% | ~4,727 |
-| Ravenous | 3.00% | ~4,727 |
+| Taste | 4.00% | ~6,304 |
+| Imprint | 4.00% | ~6,304 |
+| The Hunt | 3.00% | ~4,728 |
+| Weeper | 3.00% | ~4,728 |
+| Ravenous | 3.00% | ~4,728 |
 | Silenced Whispers | 2.00% | ~3,152 |
 | Devourer | 2.00% | ~3,152 |
 | Scion | 1.00% | ~1,572 |
@@ -22,14 +22,14 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,576 |
 | Sharpened Vessel | 1.00% | ~1,576 |
 | Shapely | 0.90% | ~1,418 |
-| Glare | 0.90% | ~1,414 |
+| Glare | 0.90% | ~1,415 |
 | Predator | 0.80% | ~1,261 |
 | Assimilation | 0.70% | ~1,103 |
 | Host | 0.70% | ~1,100 |
 | Celebration | 0.70% | ~1,103 |
-| Hunt Down | 0.60% | ~945 |
-| Inevitable | 0.60% | ~945 |
-| All-Seeing | 0.60% | ~945 |
+| Hunt Down | 0.60% | ~946 |
+| Inevitable | 0.60% | ~946 |
+| All-Seeing | 0.60% | ~946 |
 | Breath | 0.50% | ~788 |
 | Artisan | 0.50% | ~788 |
 | Hush | 0.50% | ~788 |
@@ -38,10 +38,10 @@ Number of Ratings: 46  (23.09.2022)
 | Unwrap the Gift | 0.40% | ~630 |
 | Passage | 0.40% | ~630 |
 | Bloodhunter | 0.30% | ~473 |
-| Zygote | 0.30% | ~471 |
+| Zygote | 0.30% | ~472 |
 | Kinship | 0.30% | ~473 |
-| Kin | 0.30% | ~471 |
-| Listen | 0.30% | ~471 |
+| Kin | 0.30% | ~472 |
+| Listen | 0.30% | ~472 |
 | Proportions | 0.30% | ~473 |
 | Weakness | 0.20% | ~315 |
 | Generous | 0.20% | ~315 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,582 (Ranked 76)  
+Progressed: 157,596 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 157,236 | 1 |
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
-| 2023-11-11 | 157,582 | 1 |
+| 2023-11-11 | 157,596 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 426)  
 Sum: 355 (Ranked 348)  

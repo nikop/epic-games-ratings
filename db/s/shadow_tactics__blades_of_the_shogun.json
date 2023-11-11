@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 298,
   "Ranking_EOS_NewPlayers": 65,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -1978,9 +1978,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 212995,
+  "EOS_Progressed": 213004,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 1327,
+  "EOS_NewPlayers": 1329,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25328,6 +25328,11 @@
       "Time": "2023-11-11T00:03:34.9714161+00:00",
       "NumProgressed": 212995,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-11-11T01:45:28.1696841+00:00",
+      "NumProgressed": 213004,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 44,
@@ -25411,7 +25416,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25559
+      "UsersEstimate": 25560
     },
     {
       "ID": "HappyLittleAccidents",
@@ -25690,15 +25695,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 212995,
+      "Progressed": 213004,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-10T13:57:12.4017278+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:03:34.9714159+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:45:28.1696836+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.1309249+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:57:45.2663696+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:03:34.9715588+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:39:39.1046649+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:45:28.1702606+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "dolmenjord-viking-islands-965b06",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 102,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T03:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 625,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 2.88,
   "EosHistory": [
@@ -1926,9 +1926,9 @@
       "ID": "LEVEL_019",
       "SetID": "7jk5g4e",
       "Name": "Small block",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 95,
-      "UsersEstimate": 112
+      "UsersEstimate": 119
     },
     {
       "ID": "LEVEL_023",
@@ -1973,8 +1973,8 @@
   ],
   "FirstSeen": "2023-06-17T14:57:03.8937157+00:00",
   "FirstSeenAchievements": "2023-05-29T15:00:12.8359596+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:08:20.638139+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:49:58.4546165+00:00",
   "LastUpdate_AppInfo": "2023-11-07T02:16:30.7589721+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:58:07.143289+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:08:20.6381582+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:40:07.8186166+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:49:58.4546425+00:00"
 }

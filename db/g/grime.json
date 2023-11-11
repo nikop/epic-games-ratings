@@ -1417,9 +1417,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157582,
+  "EOS_Progressed": 157596,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1213,
+  "EOS_NewPlayers": 1215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15152,6 +15152,11 @@
       "Time": "2023-11-11T00:03:36.8395248+00:00",
       "NumProgressed": 157582,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T01:45:30.5998779+00:00",
+      "NumProgressed": 157596,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15203,7 +15208,7 @@
       "Name": "Zygote",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -15211,7 +15216,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4727
+      "UsersEstimate": 4728
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -15227,7 +15232,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6303
+      "UsersEstimate": 6304
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -15235,7 +15240,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4727
+      "UsersEstimate": 4728
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -15243,7 +15248,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -15275,7 +15280,7 @@
       "Name": "Glare",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -15331,7 +15336,7 @@
       "Name": "Inevitable",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -15371,7 +15376,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -15379,7 +15384,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6303
+      "UsersEstimate": 6304
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -15435,7 +15440,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4727
+      "UsersEstimate": 4728
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -15475,7 +15480,7 @@
       "Name": "Kin",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "QUEST_LISTENER",
@@ -15483,7 +15488,7 @@
       "Name": "Listen",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "QUEST_YON",
@@ -15530,21 +15535,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157165,
+      "Progressed": 157179,
       "Completed": 1196
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157582,
+      "Progressed": 157596,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-10T18:58:07.8833808+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:03:36.8395239+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:45:30.5998773+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:58:28.3030918+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:03:36.8396526+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:40:36.3660071+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:45:30.6000268+00:00"
 }

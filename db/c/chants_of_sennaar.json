@@ -3,9 +3,9 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 298,
-  "Ranking_EOS_Completed": 66,
-  "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_Completed": 67,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 512,
+  "EOS_Progressed": 513,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.47,
+  "EOS_Completed_Percentage": 5.46,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2195,6 +2195,11 @@
       "Time": "2023-11-10T18:04:46.1386786+00:00",
       "NumProgressed": 512,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-11T01:47:57.5952821+00:00",
+      "NumProgressed": 513,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2262,7 +2267,7 @@
       "Name": "Free at last",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2318,7 +2323,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2374,7 +2379,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "PROGRESS_N3",
@@ -2390,7 +2395,7 @@
       "Name": "The darkness",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "PROGRESS_N5",
@@ -2405,14 +2410,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 512,
+      "Progressed": 513,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:05:33.3893626+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:47:57.5952816+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:59:35.6285789+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:05:33.389383+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:42:06.0157379+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:47:57.5953175+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -1007,17 +1007,17 @@
       "ID": "METAL_BARS",
       "SetID": "9gfkh7c",
       "Name": "Another one bites the iron",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "METAL_BARS_SWA",
       "SetID": "9gfkh7c",
       "Name": "Haemochromatosis",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "MOUNT_1",
@@ -1166,8 +1166,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:08:59.521537+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:50:48.0304517+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:03.6310124+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:58:15.5223047+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:08:59.5216053+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:40:19.32873+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:50:48.0305439+00:00"
 }

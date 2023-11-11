@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~835 |
-| Pork Chopped | 2.00% | ~835 |
+| Whatever It Takes | 2.00% | ~836 |
+| Pork Chopped | 2.00% | ~836 |
 | One of Us | 1.00% | ~418 |
 | Welcome To Hell-A | 0.70% | ~5,014 |
-| Break A Leg | 0.60% | ~4,297 |
-| Hotel California | 0.60% | ~4,297 |
+| Break A Leg | 0.60% | ~4,298 |
+| Hotel California | 0.60% | ~4,298 |
 | Dr. Reed, I Presume? | 0.50% | ~3,581 |
 | Git Gutte! | 0.50% | ~3,581 |
 | Anger Management | 0.50% | ~3,581 |
@@ -38,14 +38,14 @@ Rating: 4.54 (Ranked 522)
 | Humanity Distilled | 0.30% | ~2,149 |
 | I Am the Resurrection | 0.30% | ~2,149 |
 | Down with the Sickness | 0.30% | ~2,149 |
-| Make it So | 0.20% | ~1,432 |
-| On Safari | 0.20% | ~1,432 |
-| Smorgasbord | 0.20% | ~1,432 |
-| Internet Famous | 0.20% | ~1,432 |
-| Jumbo Keyring | 0.20% | ~1,432 |
-| Go, Bobcats! | 0.20% | ~1,432 |
-| Variety is the Spice of Death | 0.20% | ~1,432 |
-| Rising Star | 0.20% | ~1,432 |
+| Make it So | 0.20% | ~1,433 |
+| On Safari | 0.20% | ~1,433 |
+| Smorgasbord | 0.20% | ~1,433 |
+| Internet Famous | 0.20% | ~1,433 |
+| Jumbo Keyring | 0.20% | ~1,433 |
+| Go, Bobcats! | 0.20% | ~1,433 |
+| Variety is the Spice of Death | 0.20% | ~1,433 |
+| Rising Star | 0.20% | ~1,433 |
 | Top That, Tisha! | 0.20% | ~84 |
 | LA Influential | 0.10% | ~716 |
 | Donk! | 0.10% | ~716 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,217 (Ranked 21)  
+Progressed: 716,254 (Ranked 21)  
 Completed: 2,374 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2,374 (0.33%) (Ranked 220)
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
-| 2023-11-11 | 716,217 | 2,374 |
+| 2023-11-11 | 716,254 | 2,374 |
 ## Awards
 Max (Great Boss Battles): 7,279  (Ranked 53)  
 Sum: 11,038 (Ranked 86)  

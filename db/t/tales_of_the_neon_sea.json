@@ -2,7 +2,7 @@
   "ID": "37e6d41ce91e44988190c2f10108d4e9",
   "Name": "Tales of the Neon Sea",
   "ProductSlug": "tales-of-the-neon-sea",
-  "Ranking_Rating": 502,
+  "Ranking_Rating": 503,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 740,
@@ -419,6 +419,6 @@
   "FirstSeen": "2022-07-22T20:18:14.4267103+00:00",
   "LastChanged": "2023-10-20T16:02:11.7078749+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:27.1442429+00:00",
-  "LastUpdate_Ratings": "2023-11-11T00:00:01.9989149+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:04:24.1255862+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:42:41.1780943+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:46:30.2738202+00:00"
 }

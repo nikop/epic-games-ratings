@@ -36,6 +36,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Carthago Delenda Est | 0.10% | ~452 |
 | Center of Attention | 0.10% | ~452 |
 | Cherrypicking | 0.10% | ~452 |
+| Cities of Cibola | 0.10% | ~452 |
 | City of Cities | 0.10% | ~452 |
 | Cold War | 0.10% | ~452 |
 | Combined Arms | 0.10% | ~452 |
@@ -144,8 +145,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | That is mine! | 0.10% | ~452 |
 | That's a Silk Road | 0.10% | ~452 |
 | The Chrysanthemum Throne | 0.10% | ~452 |
+| The Coin is Stronger than the Sword | 0.10% | ~452 |
 | The Continuation of Diplomacy | 0.10% | ~452 |
 | The Five Colonies | 0.10% | ~452 |
+| The Grand Armada | 0.10% | ~452 |
 | The Great Khan | 0.10% | ~452 |
 | The pen is mightier than the sword | 0.10% | ~452 |
 | The Princess is in this Castle | 0.10% | ~452 |
@@ -176,6 +179,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | World Conqueror | 0.10% | ~452 |
 | World Discoverer | 0.10% | ~452 |
 | You Get A New Home, And You Get A New Home | 0.10% | ~452 |
+| Legacy of Saint George | 0.10% | ~452 |
 | Mets Hayk | 0.10% | ~452 |
 | Restore the Pentarchy | 0.10% | ~452 |
 | The Last Crusade | 0.10% | ~452 |
@@ -213,7 +217,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Bunte Kuh | 0.00% | ~0 |
 | Chop Chop | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
-| Cities of Cibola | 0.00% | ~0 |
 | Colonial Management | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
@@ -333,9 +336,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's No Mon | 0.00% | ~0 |
 | The Bohemians | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
-| The Coin is Stronger than the Sword | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
-| The Grand Armada | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
 | The Navigator | 0.00% | ~0 |
 | The Ostenders | 0.00% | ~0 |
@@ -367,10 +368,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Breadbasket of the World | 0.00% | ~0 |
 | Desert Power | 0.00% | ~0 |
 | King of Kings | 0.00% | ~0 |
-| Legacy of Saint George | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451,784 (Ranked 41)  
+Progressed: 451,825 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,10 +575,10 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
-| 2023-11-11 | 451,784 | 1 |
+| 2023-11-11 | 451,825 | 1 |
 ## Awards
 Max (Educational): 6,930  (Ranked 54)  
-Sum: 57,037 (Ranked 24)  
+Sum: 57,048 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -589,7 +589,7 @@ Diff (max vs sum): 30
 | This game is Extremely Fun | 6,528 |
 | This game is Relaxing | 6,378 |
 | This game has Competitive Players | 6,226 |
-| This game has Amazing Storytelling | 5,761 |
+| This game has Amazing Storytelling | 5,772 |
 | This game has Amazing Characters | 5,342 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -893,3 +893,4 @@ Diff (max vs sum): 30
 | 2023-11-08 | 4.69 | - | 6,903 | 56,787 |
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
+| 2023-11-11 | 4.69 | - | 6,930 | 57,048 |

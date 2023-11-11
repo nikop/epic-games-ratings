@@ -28,13 +28,13 @@
 | Castle Meldec | 33.00% | ~5 |
 | Friend of Alluvyan | 33.00% | ~5 |
 | Friend of Connach | 33.00% | ~5 |
+| Friend of Bastion | 33.00% | ~5 |
 | Bad JuJu | 33.00% | ~5 |
 | Defeat Gor | 27.00% | ~4 |
 | Defeat Uram | 27.00% | ~4 |
 | Philo's Tale | 27.00% | ~4 |
 | Stormwatch Faste | 27.00% | ~4 |
 | Friend of Orgash | 27.00% | ~4 |
-| Friend of Bastion | 27.00% | ~4 |
 | Defeat Hokan | 20.00% | ~3 |
 | Defeat Ianna | 20.00% | ~3 |
 | Defeat Isgrimm | 20.00% | ~3 |

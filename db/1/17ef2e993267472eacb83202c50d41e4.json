@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7843,
+  "EOS_Progressed": 7845,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6170,6 +6170,11 @@
       "Time": "2023-11-10T23:09:27.7421095+00:00",
       "NumProgressed": 7843,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T01:51:51.3293312+00:00",
+      "NumProgressed": 7845,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6238,7 +6243,7 @@
       "Name": "Spent 50000 Credits",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "DHUpgraded1",
@@ -6302,7 +6307,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2432
     },
     {
       "ID": "GamesPlayed10",
@@ -6326,7 +6331,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "GamesWon10",
@@ -6742,7 +6747,7 @@
       "Name": "Purchased Turret",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "TSUPurchased1",
@@ -6773,7 +6778,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7843,
+      "Progressed": 7845,
       "Completed": 1
     }
   ],
@@ -6781,8 +6786,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-07T13:03:10.353816+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:09:50.8241665+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:51:51.3293302+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-11T00:00:15.8296743+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:09:50.824263+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:42:59.5689115+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:51:51.3294776+00:00"
 }

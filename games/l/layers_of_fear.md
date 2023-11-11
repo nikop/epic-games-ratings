@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 76.00% | ~47 |
-| Something important | 74.00% | ~46 |
-| A piece of the story | 60.00% | ~37 |
+| Wanderer | 77.00% | ~48 |
+| Something important | 76.00% | ~47 |
+| A piece of the story | 61.00% | ~38 |
 | Do what you have to | 44.00% | ~27 |
 | The artist’s impression | 44.00% | ~27 |
 | Scraps of love | 42.00% | ~26 |
@@ -36,13 +36,13 @@
 | Something to think about | 3.00% | ~2 |
 | Body of Work | 3.00% | ~2 |
 | The Perfect Storm | 3.00% | ~2 |
+| I remember It Like Was Yesterday | 2.00% | ~1 |
 | Dark correspondence | 2.00% | ~1 |
 | Full Scoop | 2.00% | ~1 |
 | In One Take | 2.00% | ~1 |
 | Se7en Seas | 2.00% | ~1 |
 | A Mosaic of Misery | 2.00% | ~1 |
 | The Big Picture | 0.00% | ~0 |
-| I remember It Like Was Yesterday | 0.00% | ~0 |
 | You Can’t Handle the Truth | 0.00% | ~0 |
 | It was worth a try | 0.00% | ~0 |
 | The whole story | 0.00% | ~0 |

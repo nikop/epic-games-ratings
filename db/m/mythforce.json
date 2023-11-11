@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4774,
+  "EOS_Progressed": 4776,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9025,6 +9025,11 @@
       "Time": "2023-11-10T22:09:08.7770991+00:00",
       "NumProgressed": 4774,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-11T01:51:46.0689278+00:00",
+      "NumProgressed": 4776,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9037,7 +9042,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -9077,7 +9082,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9101,7 +9106,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -9109,7 +9114,7 @@
       "Name": "The Fourth Gate",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "MF_Ach_HarderTheyFall",
@@ -9117,7 +9122,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -9149,7 +9154,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1050
+      "UsersEstimate": 1051
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -9165,7 +9170,7 @@
       "Name": "On this Episode!",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -9189,7 +9194,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -9220,15 +9225,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4774,
+      "Progressed": 4776,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:09:46.4226285+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:51:46.0689271+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-11T00:03:09.6198191+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:09:46.4226929+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:44:53.7768085+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:51:46.0690155+00:00"
 }

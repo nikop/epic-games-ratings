@@ -297,9 +297,9 @@
       "ID": "ACHIEVEMENT_Helped_Lotus_1",
       "SetID": "70j9o42",
       "Name": "Lotus Bud",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACHIEVEMENT_Iro_BestEnding",
@@ -361,9 +361,9 @@
       "ID": "ACHIEVEMENT_Mio_Death3_Failed",
       "SetID": "70j9o42",
       "Name": "A Shocking End",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_Money",
@@ -488,8 +488,8 @@
   ],
   "FirstSeen": "2023-07-28T15:57:49.6060029+00:00",
   "FirstSeenAchievements": "2023-07-12T17:04:29.8033729+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:08:47.1112476+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:50:32.4608598+00:00",
   "LastUpdate_AppInfo": "2023-11-07T15:57:22.0435391+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:57:58.3366743+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:08:47.1112698+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:39:56.0274797+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:50:32.4608936+00:00"
 }

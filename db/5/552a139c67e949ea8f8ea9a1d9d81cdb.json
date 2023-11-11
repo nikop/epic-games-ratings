@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 999,
+  "EOS_Progressed": 1000,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1927,6 +1927,11 @@
       "Time": "2023-11-10T23:06:50.6925423+00:00",
       "NumProgressed": 999,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T01:45:16.3177475+00:00",
+      "NumProgressed": 1000,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1939,7 +1944,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 829
+      "UsersEstimate": 830
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2177,9 +2182,9 @@
       "ID": "ML_ACHIEVEMENT_31",
       "SetID": "5k00jcd",
       "Name": "Shopping time!",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 370
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2275,27 +2280,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 999,
+      "Progressed": 1000,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 667,
-      "Completed": 667
+      "Progressed": 668,
+      "Completed": 668
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:06:50.6925421+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:45:16.3177457+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:58:58.5483922+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:06:50.6925788+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:41:16.7689634+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:45:16.3208195+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 62,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -382,9 +382,9 @@
       "ID": "collect_most_of_memories",
       "SetID": "f2im8d",
       "Name": "I remember It Like Was Yesterday",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "collect_most_of_myths",
@@ -606,9 +606,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "playtime",
@@ -670,9 +670,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "spy_one_item",
@@ -734,9 +734,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "whispers_long_forgotten",
@@ -757,8 +757,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-11T00:03:49.0701055+00:00",
+  "LastChanged_Achievements": "2023-11-11T01:45:46.1874892+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:41.7435557+00:00",
-  "LastUpdate_Ratings": "2023-11-11T00:03:20.1367924+00:00",
-  "LastUpdate_Achievements": "2023-11-11T00:03:49.0701449+00:00"
+  "LastUpdate_Ratings": "2023-11-11T01:45:07.7576457+00:00",
+  "LastUpdate_Achievements": "2023-11-11T01:45:46.1875721+00:00"
 }

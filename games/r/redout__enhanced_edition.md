@@ -6,42 +6,42 @@ Number of Ratings: 274  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| VANGUARD | 41.00% | ~96,450 |
-| NATURAL BORN WINNER | 33.00% | ~77,630 |
-| CALLING HOUSTON | 28.00% | ~65,868 |
-| SNEAKY SNEAKY | 22.00% | ~51,753 |
-| TRICK UP YOUR SLEEVE | 22.00% | ~51,753 |
-| GT9STRADALE | 20.00% | ~47,049 |
-| CHALLENGER | 11.00% | ~25,877 |
-| ON A ROLL | 9.00% | ~21,172 |
-| CENTAUR | 8.00% | ~18,819 |
-| FASTER THAN EVER | 8.00% | ~18,819 |
-| CHALLENGE THE WORLD | 7.00% | ~16,467 |
-| PHOTOFINISH | 7.00% | ~16,467 |
-| QAREEN | 5.00% | ~11,762 |
+| VANGUARD | 41.00% | ~96,454 |
+| NATURAL BORN WINNER | 33.00% | ~77,633 |
+| CALLING HOUSTON | 28.00% | ~65,871 |
+| SNEAKY SNEAKY | 22.00% | ~51,756 |
+| TRICK UP YOUR SLEEVE | 22.00% | ~51,756 |
+| GT9STRADALE | 20.00% | ~47,051 |
+| CHALLENGER | 11.00% | ~25,878 |
+| ON A ROLL | 9.00% | ~21,173 |
+| CENTAUR | 8.00% | ~18,820 |
+| FASTER THAN EVER | 8.00% | ~18,820 |
+| CHALLENGE THE WORLD | 7.00% | ~16,468 |
+| PHOTOFINISH | 7.00% | ~16,468 |
+| QAREEN | 5.00% | ~11,763 |
 | SHOWOFF | 4.00% | ~9,410 |
 | TAKATORA | 4.00% | ~9,410 |
-| GILA | 3.00% | ~7,057 |
+| GILA | 3.00% | ~7,058 |
 | PRO | 2.00% | ~4,705 |
 | RESPWND | 2.00% | ~4,705 |
 | SHINY SHINY GOLD | 2.00% | ~4,705 |
-| HARDCORE | 1.00% | ~2,352 |
+| HARDCORE | 1.00% | ~2,353 |
 | ACE | 0.80% | ~1,882 |
-| TACTICIAN | 0.60% | ~1,411 |
+| TACTICIAN | 0.60% | ~1,412 |
 | GTX COMPETIZIONE | 0.50% | ~1,176 |
 | HIDDEN POWER | 0.50% | ~1,176 |
 | TUNING MANIAC | 0.50% | ~1,176 |
 | DRAGOON | 0.40% | ~941 |
 | FLAWLESS | 0.40% | ~941 |
 | MARID | 0.30% | ~706 |
-| BETTER THAN EVER | 0.20% | ~470 |
-| IINI | 0.20% | ~470 |
-| NOBUNAGA | 0.20% | ~470 |
-| ODIN | 0.20% | ~470 |
-| PILE UP TROPHIES | 0.20% | ~470 |
+| BETTER THAN EVER | 0.20% | ~471 |
+| IINI | 0.20% | ~471 |
+| NOBUNAGA | 0.20% | ~471 |
+| ODIN | 0.20% | ~471 |
+| PILE UP TROPHIES | 0.20% | ~471 |
 | ENLIGHTENED | 0.10% | ~235 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,243 (Ranked 63)  
+Progressed: 235,253 (Ranked 63)  
 Completed: 48 (0.02%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 48 (0.02%) (Ranked 315)
 | 2023-11-08 | 235,144 | 48 |
 | 2023-11-09 | 235,184 | 48 |
 | 2023-11-10 | 235,242 | 48 |
-| 2023-11-11 | 235,243 | 48 |
+| 2023-11-11 | 235,253 | 48 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

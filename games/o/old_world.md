@@ -123,12 +123,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.90% | ~137 |
 | Devout | 0.80% | ~122 |
 | Ready | 0.80% | ~122 |
+| Clerics | 0.80% | ~122 |
 | Egypt | 0.80% | ~122 |
 | Assyrian Paganism | 0.80% | ~122 |
 | Industrial Progress | 0.80% | ~122 |
 | Enlightenment | 0.80% | ~122 |
 | Bad Heir Day | 0.70% | ~107 |
-| Clerics | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
 | Hittite Paganism | 0.70% | ~107 |
 | Turreted Elephant | 0.70% | ~107 |
@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,255 (Ranked 145)  
-Completed: 5 (0.03%) (Ranked 310)  
+Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
