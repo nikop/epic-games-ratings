@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -924,9 +924,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ACH_33",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:09:14.3838757+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:08:55.5834527+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:58:22.8233793+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:09:14.383908+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:58:09.4174179+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:08:55.5834826+00:00"
 }

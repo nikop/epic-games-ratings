@@ -18,9 +18,9 @@ Number of Ratings: 332  (23.09.2022)
 | Wanderer | 8.00% | ~3,674 |
 | Enter Paz | 7.00% | ~3,215 |
 | Aviator | 6.00% | ~2,756 |
-| My Little Friend | 5.00% | ~2,296 |
-| One With The Board | 5.00% | ~2,296 |
-| Voyager | 5.00% | ~2,296 |
+| My Little Friend | 5.00% | ~2,297 |
+| One With The Board | 5.00% | ~2,297 |
+| Voyager | 5.00% | ~2,297 |
 | Izel Has Arrived | 4.00% | ~1,837 |
 | Junkie | 3.00% | ~1,378 |
 | Traveler | 3.00% | ~1,378 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~46 |
 | Windswept | 0.10% | ~46 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,930 (Ranked 111)  
+Progressed: 45,931 (Ranked 111)  
 Completed: 5 (0.01%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 5 (0.01%) (Ranked 325)
 | 2023-11-08 | 45,673 | 5 |
 | 2023-11-09 | 45,768 | 5 |
 | 2023-11-10 | 45,890 | 5 |
-| 2023-11-11 | 45,930 | 5 |
+| 2023-11-11 | 45,931 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 436)  
 Sum: 372 (Ranked 343)  

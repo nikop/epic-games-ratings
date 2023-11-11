@@ -6,36 +6,36 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~16,969 |
-| Sword Runner | 61.00% | ~13,620 |
-| Running out of breath | 54.00% | ~12,057 |
-| Wallrunner | 53.00% | ~11,834 |
-| Homerunner | 45.00% | ~10,048 |
-| Out of order | 44.00% | ~9,824 |
-| I call it luck | 43.00% | ~9,601 |
-| Where are my Keys? | 40.00% | ~8,931 |
-| Back to hell | 37.00% | ~8,261 |
-| Perfection | 32.00% | ~7,145 |
-| Why not both | 30.00% | ~6,698 |
-| Sword to a gunfight | 29.00% | ~6,475 |
-| Upgrades not mandatory | 29.00% | ~6,475 |
-| Artificial selection | 28.00% | ~6,252 |
-| Control freak | 27.00% | ~6,029 |
-| Running Wild | 27.00% | ~6,029 |
-| Finish line | 26.00% | ~5,805 |
-| Unstoppable force | 22.00% | ~4,912 |
-| Wave of mutilation | 22.00% | ~4,912 |
-| Can't Run Can't Hide | 16.00% | ~3,572 |
-| R is for Running | 16.00% | ~3,572 |
-| Dead in the air | 15.00% | ~3,349 |
+| Longrunner | 76.00% | ~16,974 |
+| Sword Runner | 61.00% | ~13,624 |
+| Running out of breath | 54.00% | ~12,060 |
+| Wallrunner | 53.00% | ~11,837 |
+| Homerunner | 45.00% | ~10,050 |
+| Out of order | 44.00% | ~9,827 |
+| I call it luck | 43.00% | ~9,604 |
+| Where are my Keys? | 40.00% | ~8,934 |
+| Back to hell | 37.00% | ~8,264 |
+| Perfection | 32.00% | ~7,147 |
+| Why not both | 30.00% | ~6,700 |
+| Sword to a gunfight | 29.00% | ~6,477 |
+| Upgrades not mandatory | 29.00% | ~6,477 |
+| Artificial selection | 28.00% | ~6,254 |
+| Control freak | 27.00% | ~6,030 |
+| Running Wild | 27.00% | ~6,030 |
+| Finish line | 26.00% | ~5,807 |
+| Unstoppable force | 22.00% | ~4,913 |
+| Wave of mutilation | 22.00% | ~4,913 |
+| Can't Run Can't Hide | 16.00% | ~3,573 |
+| R is for Running | 16.00% | ~3,573 |
+| Dead in the air | 15.00% | ~3,350 |
 | Improvise, adapt, overrun | 13.00% | ~2,903 |
-| Pre-empative strike | 12.00% | ~2,679 |
-| Strike | 12.00% | ~2,679 |
-| More than human | 11.00% | ~2,456 |
+| Pre-empative strike | 12.00% | ~2,680 |
+| Strike | 12.00% | ~2,680 |
+| More than human | 11.00% | ~2,457 |
 | Triple A | 9.00% | ~2,010 |
 | Fine addition | 6.00% | ~1,340 |
 | One Of Those Days | 6.00% | ~1,340 |
-| Where He Stood | 5.00% | ~1,116 |
+| Where He Stood | 5.00% | ~1,117 |
 | Push it to the limit | 4.00% | ~893 |
 | Scrapped | 4.00% | ~893 |
 | Strafing Run | 4.00% | ~893 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~89 |
 | Up Close And Personal | 0.40% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,328 (Ranked 128)  
+Progressed: 22,334 (Ranked 128)  
 Completed: 83 (0.37%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,17 +257,17 @@ Completed: 83 (0.37%) (Ranked 214)
 | 2023-11-08 | 22,201 | 83 |
 | 2023-11-09 | 22,248 | 83 |
 | 2023-11-10 | 22,307 | 83 |
-| 2023-11-11 | 22,328 | 83 |
+| 2023-11-11 | 22,334 | 83 |
 ## Awards
 Max (Great Boss Battles): 517  (Ranked 205)  
-Sum: 745 (Ranked 285)  
+Sum: 746 (Ranked 285)  
 Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 517 |
 | This game has Diverse Characters | 36 |
+| This game has Challenging Combat | 28 |
 | This game has Amazing Characters | 27 |
-| This game has Challenging Combat | 27 |
 | This game is Relaxing | 24 |
 | This game has a Creative Community | 24 |
 | This game is Extremely Fun | 24 |
@@ -444,3 +444,4 @@ Diff (max vs sum): -80
 | 2023-11-01 | 4.72 | - | 514 | 704 |
 | 2023-11-04 | 4.72 | - | 514 | 706 |
 | 2023-11-07 | 4.72 | - | 517 | 745 |
+| 2023-11-11 | 4.72 | - | 517 | 746 |

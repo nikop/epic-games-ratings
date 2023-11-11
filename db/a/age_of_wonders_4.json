@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 410,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7066,9 +7066,9 @@
       "ID": "27",
       "SetID": "3aa2279",
       "Name": "Digging for Treasure",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "28",
@@ -7409,8 +7409,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T06:00:08.6294982+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:03:02.671162+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:03:07.6685457+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:00:08.6295041+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:03:02.6713247+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:59:54.0067804+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:03:07.6686289+00:00"
 }

@@ -13,18 +13,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 3.00% | ~4,177 |
 | It's Free Real Estate | 3.00% | ~4,177 |
 | Capitalism Ho! | 3.00% | ~4,177 |
-| The Daily Grind | 2.00% | ~2,784 |
-| One Easy Payment | 2.00% | ~2,784 |
-| Some Assembly Required | 2.00% | ~2,784 |
-| Bounty Hunters | 2.00% | ~2,784 |
-| Flooding the Market | 2.00% | ~2,784 |
-| Another Satisfied Customer | 2.00% | ~2,784 |
-| Pretty Penny | 2.00% | ~2,784 |
-| One-Armed Bandit | 2.00% | ~2,784 |
-| Budding Merchant | 2.00% | ~2,784 |
-| Dungeon Imports | 2.00% | ~2,784 |
-| Through Repetition, Perfection | 2.00% | ~2,784 |
-| Own the Means of Production | 2.00% | ~2,784 |
+| The Daily Grind | 2.00% | ~2,785 |
+| One Easy Payment | 2.00% | ~2,785 |
+| Some Assembly Required | 2.00% | ~2,785 |
+| Bounty Hunters | 2.00% | ~2,785 |
+| Flooding the Market | 2.00% | ~2,785 |
+| Another Satisfied Customer | 2.00% | ~2,785 |
+| Pretty Penny | 2.00% | ~2,785 |
+| One-Armed Bandit | 2.00% | ~2,785 |
+| Budding Merchant | 2.00% | ~2,785 |
+| Dungeon Imports | 2.00% | ~2,785 |
+| Through Repetition, Perfection | 2.00% | ~2,785 |
+| Own the Means of Production | 2.00% | ~2,785 |
 | On the Path to Greatness | 1.00% | ~1,392 |
 | Ascended | 1.00% | ~1,392 |
 | Tax not Included | 1.00% | ~1,392 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,221 (Ranked 79)  
+Progressed: 139,228 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,11 +324,11 @@ Completed: 181 (0.13%) (Ranked 258)
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
-| 2023-11-11 | 139,221 | 181 |
+| 2023-11-11 | 139,228 | 181 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 73)  
-Sum: 27,523 (Ranked 51)  
-Diff (max vs sum): 22  
+Sum: 27,523 (Ranked 50)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,824 |

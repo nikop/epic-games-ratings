@@ -5,21 +5,21 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~220 |
-| Battlefields Have Memories | 83.00% | ~205 |
+| Unforeseen | 88.00% | ~218 |
+| Battlefields Have Memories | 83.00% | ~206 |
 | Enlisted | 80.00% | ~198 |
 | Maybe Engage a Little | 76.00% | ~188 |
 | No More Names | 61.00% | ~151 |
-| Initiate | 47.00% | ~116 |
-| Thrada-Kul | 43.00% | ~106 |
-| Gravity-Challenged Rocks | 32.00% | ~79 |
+| Initiate | 48.00% | ~119 |
+| Thrada-Kul | 43.00% | ~107 |
+| Gravity-Challenged Rocks | 31.00% | ~77 |
 | Soldier | 28.00% | ~69 |
 | All the Major Food Groups | 27.00% | ~67 |
 | Socialite | 26.00% | ~64 |
 | Control is an Illusion | 23.00% | ~57 |
 | Beggars Would Ride | 23.00% | ~57 |
-| The Means to Save It | 20.00% | ~49 |
-| Resilience to Sin | 18.00% | ~44 |
+| The Means to Save It | 20.00% | ~50 |
+| Resilience to Sin | 18.00% | ~45 |
 | A Familiar Nest | 17.00% | ~42 |
 | Periapt Alizarin | 16.00% | ~40 |
 | Geas Aristeya | 15.00% | ~37 |
@@ -53,7 +53,7 @@ Rating: 4.02 (Ranked 986)
 | Tip of the Spear | 0.80% | ~2 |
 | Fowl Play | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 247 (Ranked 354)  
+Progressed: 248 (Ranked 354)  
 Completed: 1 (0.40%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.40%) (Ranked 208)
 | 2023-11-08 | 207 | 1 |
 | 2023-11-09 | 230 | 1 |
 | 2023-11-10 | 242 | 1 |
-| 2023-11-11 | 247 | 1 |
+| 2023-11-11 | 248 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

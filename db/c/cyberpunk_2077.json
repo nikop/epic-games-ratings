@@ -14886,10 +14886,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 348546,
       "NumberOfAwardsMax": 104816
+    },
+    {
+      "Time": "2023-11-11T06:57:58.9845036+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 348782,
+      "NumberOfAwardsMax": 104816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 348546,
+  "NumberOfAwards": 348782,
   "NumberOfAwardsMax": 104816,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14903,7 +14909,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 75574
+      "Count": 75729
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14933,7 +14939,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 19563
+      "Count": 19644
     },
     {
       "Text": "This game is Great for Beginners",
@@ -14966,9 +14972,9 @@
       "Count": 12743
     }
   ],
-  "EOS_Progressed": 896124,
+  "EOS_Progressed": 896130,
   "EOS_Completed": 2761,
-  "EOS_NewPlayers": 1002,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38156,6 +38162,11 @@
       "Time": "2023-11-11T06:04:03.7725294+00:00",
       "NumProgressed": 896124,
       "NumCompleted": 2761
+    },
+    {
+      "Time": "2023-11-11T07:04:07.8442478+00:00",
+      "NumProgressed": 896130,
+      "NumCompleted": 2761
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38198,9 +38209,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3584
+      "UsersEstimate": 4481
     },
     {
       "ID": "FollowingTheRiver",
@@ -38296,7 +38307,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "MustBeTheRats",
@@ -38344,7 +38355,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "Specialist",
@@ -38392,7 +38403,7 @@
       "Name": "The Hermit",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "TheHightPriestess",
@@ -38496,7 +38507,7 @@
       "Name": "V for Vendetta",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17922
+      "UsersEstimate": 17923
     },
     {
       "ID": "YipMan",
@@ -38680,7 +38691,7 @@
       "Name": "The Tower",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "DirtyWork",
@@ -38703,21 +38714,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896124,
+      "Progressed": 896130,
       "Completed": 2761
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24747,
+      "Progressed": 24753,
       "Completed": 10207
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-11T05:58:11.9941223+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:04:03.7725288+00:00",
+  "LastChanged": "2023-11-11T06:57:58.9845034+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:04:07.8442474+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:58:11.9941236+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:04:03.7727318+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:57:58.9845041+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:04:07.8444456+00:00"
 }

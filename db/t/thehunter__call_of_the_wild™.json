@@ -4,11 +4,11 @@
   "ProductSlug": "thehunter-call-of-the-wild",
   "Ranking_Rating": 470,
   "Ranking_Popularity": 81,
-  "Ranking_PopularitySum": 50,
+  "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
     "PcReleaseDate": "2017-02-16T15:00:00+00:00",
@@ -9970,6 +9970,6 @@
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
   "LastChanged": "2023-11-11T03:58:16.7077132+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:56.5578118+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:57:57.2372275+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:08:32.7269254+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:57:43.7467866+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:08:15.3041578+00:00"
 }

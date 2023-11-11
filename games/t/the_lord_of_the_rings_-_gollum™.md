@@ -9,10 +9,10 @@
 | Collectibles Part 1 | 52.00% | ~289 |
 | Wait! Wait! Not yet! | 38.00% | ~211 |
 | Like Flying... | 34.00% | ~189 |
-| The Maggot | 28.00% | ~155 |
-| Memories | 28.00% | ~155 |
+| The Maggot | 28.00% | ~156 |
+| Memories | 28.00% | ~156 |
 | The Breeder | 23.00% | ~128 |
-| The Veteran | 19.00% | ~105 |
+| The Veteran | 19.00% | ~106 |
 | The Traitor | 15.00% | ~83 |
 | The Spider | 14.00% | ~78 |
 | Good as Fish | 12.00% | ~67 |
@@ -41,7 +41,7 @@
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 555 (Ranked 290)  
+Progressed: 556 (Ranked 290)  
 Completed: 1 (0.18%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,3 +144,4 @@ Completed: 1 (0.18%) (Ranked 250)
 | 2023-11-08 | 553 | 1 |
 | 2023-11-09 | 554 | 1 |
 | 2023-11-10 | 555 | 1 |
+| 2023-11-11 | 556 | 1 |

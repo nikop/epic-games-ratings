@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 454,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
     "PcReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -439,9 +439,9 @@
       "ID": "COLLECT_ALL_WEAPON_HEADS",
       "SetID": "cm0d613",
       "Name": "Bladesmith",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "COMPLETE_ALAIRA_STORY",
@@ -808,8 +808,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:03:56.4705596+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:04:00.5577131+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.0401446+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:58:19.1278326+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:03:56.4706121+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:58:06.1653234+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:04:00.5577852+00:00"
 }

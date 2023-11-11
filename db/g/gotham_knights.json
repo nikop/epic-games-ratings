@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 255,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4079,9 +4079,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76262,
+  "EOS_Progressed": 76263,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 369,
+  "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22189,6 +22189,11 @@
       "Time": "2023-11-11T06:03:28.0317828+00:00",
       "NumProgressed": 76262,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-11T07:03:32.9307589+00:00",
+      "NumProgressed": 76263,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22280,7 +22285,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9151
+      "UsersEstimate": 9152
     },
     {
       "ID": "APPLY_STATUS",
@@ -22336,7 +22341,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3050
+      "UsersEstimate": 3051
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -22376,7 +22381,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9151
+      "UsersEstimate": 9152
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -22424,7 +22429,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21353
+      "UsersEstimate": 21354
     },
     {
       "ID": "FREEZE_1_5",
@@ -22520,7 +22525,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15252
+      "UsersEstimate": 15253
     },
     {
       "ID": "HARLEY_4",
@@ -22568,7 +22573,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15252
+      "UsersEstimate": 15253
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -22616,7 +22621,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15252
+      "UsersEstimate": 15253
     },
     {
       "ID": "MYSTERY_05",
@@ -22648,7 +22653,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9151
+      "UsersEstimate": 9152
     },
     {
       "ID": "SECRET_CACHE",
@@ -22687,13 +22692,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76262,
+      "Progressed": 76263,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46542,
+      "Progressed": 46543,
       "Completed": 2673
     }
   ],
@@ -22701,8 +22706,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-10T21:07:14.2181021+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:03:28.0317823+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:03:32.9307585+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:59:28.0322578+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:03:28.0319469+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:59:14.0667734+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:03:32.9308894+00:00"
 }

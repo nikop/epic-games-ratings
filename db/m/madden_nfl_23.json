@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -793,9 +793,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3363,
+  "EOS_Progressed": 3364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5138,6 +5138,11 @@
       "Time": "2023-11-11T06:05:44.3757231+00:00",
       "NumProgressed": 3363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T07:05:48.2844102+00:00",
+      "NumProgressed": 3364,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5182,7 +5187,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "achievement_14",
@@ -5198,7 +5203,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "achievement_16",
@@ -5317,7 +5322,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3363,
+      "Progressed": 3364,
       "Completed": 0
     }
   ],
@@ -5325,8 +5330,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-04T02:25:15.9008043+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:05:44.3757227+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:05:48.2844098+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:12.3381259+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:57:59.7904373+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:05:44.3757705+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:57:46.6723264+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:05:48.2844439+00:00"
 }

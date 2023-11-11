@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 411)  
+Rating: 4.60 (Ranked 410)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,6 +18,7 @@ Rating: 4.60 (Ranked 411)
 | From Friends to Family | 0.30% | ~16 |
 | Magical Synergy | 0.30% | ~16 |
 | Chaos Surge | 0.30% | ~16 |
+| Digging for Treasure | 0.20% | ~11 |
 | Stronger Together | 0.20% | ~11 |
 | Seat of Power | 0.20% | ~11 |
 | In a Liege of Your Own | 0.20% | ~11 |
@@ -41,7 +42,6 @@ Rating: 4.60 (Ranked 411)
 | Enchanted Archipelago | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
-| Digging for Treasure | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
 | My Final Form | 0.10% | ~5 |

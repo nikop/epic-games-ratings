@@ -19,12 +19,12 @@
 | Golf's Original Championship | 25.00% | ~130 |
 | A Tradition Unlike Any Other | 24.00% | ~125 |
 | A Passion for Excellence | 24.00% | ~125 |
-| The Ultimate Prize | 17.00% | ~88 |
+| The Ultimate Prize | 18.00% | ~94 |
 | Golfer Versus Golfer | 16.00% | ~83 |
 | Victory Lap | 10.00% | ~52 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 520 (Ranked 297)  
-Completed: 8 (1.54%) (Ranked 134)  
+Completed: 9 (1.73%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,4 +81,4 @@ Completed: 8 (1.54%) (Ranked 134)
 | 2023-11-08 | 507 | 8 |
 | 2023-11-09 | 517 | 8 |
 | 2023-11-10 | 519 | 8 |
-| 2023-11-11 | 520 | 8 |
+| 2023-11-11 | 520 | 9 |

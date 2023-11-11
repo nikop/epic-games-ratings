@@ -5,21 +5,21 @@ Rating: 4.33 (Ranked 812)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Food Taster | 9.00% | ~5,197 |
-| Fall Fest | 7.00% | ~4,042 |
+| Food Taster | 9.00% | ~5,198 |
+| Fall Fest | 7.00% | ~4,043 |
 | HFZ Goober | 6.00% | ~3,465 |
 | Thrill Seeker | 6.00% | ~3,465 |
-| Flying Present Catcher | 5.00% | ~2,887 |
-| Sunflower Master | 5.00% | ~2,887 |
+| Flying Present Catcher | 5.00% | ~2,888 |
+| Sunflower Master | 5.00% | ~2,888 |
 | Hi Fiver | 3.00% | ~1,732 |
 | A Timely Splash | 3.00% | ~1,732 |
 | Backer Visitor | 2.00% | ~1,155 |
 | Hate That Randomizer | 2.00% | ~1,155 |
 | Feet on Funkotron | 2.00% | ~1,155 |
-| Elf Chaser | 1.00% | ~577 |
-| Fool Me Twice | 1.00% | ~577 |
-| Old School Jammin' | 1.00% | ~577 |
-| Wakey Wakey | 1.00% | ~577 |
+| Elf Chaser | 1.00% | ~578 |
+| Fool Me Twice | 1.00% | ~578 |
+| Old School Jammin' | 1.00% | ~578 |
+| Wakey Wakey | 1.00% | ~578 |
 | Level Diver | 0.80% | ~462 |
 | Gimme My Presents Back! | 0.70% | ~404 |
 | Cleaning Out Santa's Sack | 0.70% | ~404 |
@@ -38,8 +38,8 @@ Rating: 4.33 (Ranked 812)
 | Nine Funkotronians | 0.30% | ~173 |
 | Struck By Love | 0.30% | ~173 |
 | The Worst Possible Luck | 0.30% | ~173 |
-| Broken Present Risk Taker | 0.20% | ~115 |
-| Truly Evil | 0.20% | ~115 |
+| Broken Present Risk Taker | 0.20% | ~116 |
+| Truly Evil | 0.20% | ~116 |
 | Achievement Achiever | 0.10% | ~58 |
 | Boom Box Wipeout | 0.10% | ~58 |
 | Can't Touch This | 0.10% | ~58 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 812)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,749 (Ranked 105)  
+Progressed: 57,750 (Ranked 105)  
 Completed: 6 (0.01%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 6 (0.01%) (Ranked 325)
 | 2023-11-08 | 57,713 | 6 |
 | 2023-11-09 | 57,728 | 6 |
 | 2023-11-10 | 57,745 | 6 |
-| 2023-11-11 | 57,749 | 6 |
+| 2023-11-11 | 57,750 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

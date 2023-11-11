@@ -11,7 +11,7 @@ Number of Ratings: 38  (23.09.2022)
 | Scrap Gatherer | 58.00% | ~269 |
 | Scrapper | 47.00% | ~218 |
 | Cook | 45.00% | ~209 |
-| Teleport | 44.00% | ~204 |
+| Teleport | 45.00% | ~209 |
 | Scrap Master | 39.00% | ~181 |
 | Smelter | 36.00% | ~167 |
 | Digger | 33.00% | ~153 |
@@ -25,7 +25,7 @@ Number of Ratings: 38  (23.09.2022)
 | Robot Hunter | 20.00% | ~93 |
 | Advanced Survivalist | 18.00% | ~84 |
 | Master Of Technology | 16.00% | ~74 |
-| Treasure Hunter | 15.00% | ~70 |
+| Treasure Hunter | 16.00% | ~74 |
 | Mythical Smelter | 13.00% | ~60 |
 | Blacksmith | 10.00% | ~46 |
 | Master Of Management | 10.00% | ~46 |

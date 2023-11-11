@@ -8,10 +8,10 @@ Rating: 4.54 (Ranked 523)
 | Whatever It Takes | 2.00% | ~838 |
 | Pork Chopped | 2.00% | ~838 |
 | One of Us | 1.00% | ~419 |
+| Hotel California | 0.70% | ~5,014 |
 | Welcome To Hell-A | 0.70% | ~5,014 |
 | Break A Leg | 0.60% | ~4,298 |
 | Coup de Grâce | 0.60% | ~4,298 |
-| Hotel California | 0.60% | ~4,298 |
 | Dr. Reed, I Presume? | 0.50% | ~3,582 |
 | Git Gutte! | 0.50% | ~3,582 |
 | Anger Management | 0.50% | ~3,582 |
@@ -35,6 +35,7 @@ Rating: 4.54 (Ranked 523)
 | Our True Nature | 0.40% | ~2,865 |
 | Making Your Mark | 0.30% | ~2,149 |
 | Not Even My Final Form | 0.30% | ~2,149 |
+| Jumbo Keyring | 0.30% | ~2,149 |
 | Humanity Distilled | 0.30% | ~2,149 |
 | I Am the Resurrection | 0.30% | ~2,149 |
 | Down with the Sickness | 0.30% | ~2,149 |
@@ -42,7 +43,6 @@ Rating: 4.54 (Ranked 523)
 | On Safari | 0.20% | ~1,433 |
 | Smorgasbord | 0.20% | ~1,433 |
 | Internet Famous | 0.20% | ~1,433 |
-| Jumbo Keyring | 0.20% | ~1,433 |
 | Go, Bobcats! | 0.20% | ~1,433 |
 | Variety is the Spice of Death | 0.20% | ~1,433 |
 | Rising Star | 0.20% | ~1,433 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,334 (Ranked 21)  
+Progressed: 716,353 (Ranked 21)  
 Completed: 2,375 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2,375 (0.33%) (Ranked 220)
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
-| 2023-11-11 | 716,334 | 2,375 |
+| 2023-11-11 | 716,353 | 2,375 |
 ## Awards
 Max (Great Boss Battles): 7,279  (Ranked 53)  
 Sum: 11,050 (Ranked 86)  

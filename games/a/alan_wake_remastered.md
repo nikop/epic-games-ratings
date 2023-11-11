@@ -6,16 +6,16 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 56.00% | ~51,629 |
-| Let There Be Light | 47.00% | ~43,331 |
-| Float Like a Butterfly | 45.00% | ~41,487 |
-| Nordic Walking | 36.00% | ~33,190 |
-| Bright Falls' Finest | 36.00% | ~33,190 |
-| Under a Thin Layer of Skin | 31.00% | ~28,580 |
-| Park Ranger | 26.00% | ~23,970 |
-| Paging Mr. Wake | 26.00% | ~23,970 |
-| Back! Back, I Say! | 25.00% | ~23,048 |
-| Finders Keepers | 25.00% | ~23,048 |
+| Follow the Light | 56.00% | ~51,630 |
+| Let There Be Light | 47.00% | ~43,333 |
+| Float Like a Butterfly | 45.00% | ~41,489 |
+| Nordic Walking | 36.00% | ~33,191 |
+| Bright Falls' Finest | 36.00% | ~33,191 |
+| Under a Thin Layer of Skin | 31.00% | ~28,581 |
+| Park Ranger | 26.00% | ~23,971 |
+| Paging Mr. Wake | 26.00% | ~23,971 |
+| Back! Back, I Say! | 25.00% | ~23,049 |
+| Finders Keepers | 25.00% | ~23,049 |
 | Sound and Fury | 22.00% | ~20,283 |
 | Missed by a Mile | 22.00% | ~20,283 |
 | Damn Good Cup of Coffee | 22.00% | ~20,283 |
@@ -29,26 +29,26 @@ Number of Ratings: 524  (23.09.2022)
 | Perchance to Dream | 18.00% | ~16,595 |
 | It's Not Just a Typewriter Brand | 17.00% | ~15,673 |
 | Thunder and Lightning | 17.00% | ~15,673 |
-| Gatekeeper | 16.00% | ~14,751 |
-| Two For the Price of One | 16.00% | ~14,751 |
-| The Lady of the Light | 15.00% | ~13,829 |
-| Energized! | 15.00% | ~13,829 |
-| What Light Through Yonder Window | 13.00% | ~11,985 |
-| Right of Way | 13.00% | ~11,985 |
-| Tornado Wrangler | 11.00% | ~10,141 |
-| Departure | 10.00% | ~9,219 |
-| Hardboiled Writer | 9.00% | ~8,297 |
+| Gatekeeper | 16.00% | ~14,752 |
+| Two For the Price of One | 16.00% | ~14,752 |
+| The Lady of the Light | 15.00% | ~13,830 |
+| Energized! | 15.00% | ~13,830 |
+| What Light Through Yonder Window | 13.00% | ~11,986 |
+| Right of Way | 13.00% | ~11,986 |
+| Tornado Wrangler | 11.00% | ~10,142 |
+| Departure | 10.00% | ~9,220 |
+| Hardboiled Writer | 9.00% | ~8,298 |
 | A Friend in Need | 9.00% | ~5,010 |
 | Children of the Elder God | 8.00% | ~7,376 |
 | Drink 'Em Both Up | 8.00% | ~7,376 |
-| A Friend Indeed | 7.00% | ~3,896 |
+| A Friend Indeed | 7.00% | ~3,897 |
 | Boob Tube | 6.00% | ~5,532 |
 | If It Flies, It Burns | 6.00% | ~5,532 |
 | KBF-FM | 6.00% | ~5,532 |
 | Ding! | 6.00% | ~3,340 |
 | Carny | 4.00% | ~3,688 |
-| Kill Your Darlings | 4.00% | ~2,226 |
-| Heartbreaker | 4.00% | ~2,226 |
+| Kill Your Darlings | 4.00% | ~2,227 |
+| Heartbreaker | 4.00% | ~2,227 |
 | Medical Opinions | 3.00% | ~2,766 |
 | Taken Season | 3.00% | ~2,766 |
 | An Idyllic Small Town | 3.00% | ~2,766 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | Licensed Properties | 0.20% | ~111 |
 | No Punctuation | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,194 (Ranked 90)  
+Progressed: 92,197 (Ranked 90)  
 Completed: 91 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 91 (0.10%) (Ranked 269)
 | 2023-11-08 | 91,503 | 87 |
 | 2023-11-09 | 91,814 | 88 |
 | 2023-11-10 | 92,108 | 89 |
-| 2023-11-11 | 92,194 | 91 |
+| 2023-11-11 | 92,197 | 91 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

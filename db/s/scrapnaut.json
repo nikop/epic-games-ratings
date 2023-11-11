@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1661,9 +1661,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 70
+      "UsersEstimate": 74
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -1773,9 +1773,9 @@
       "ID": "ACH_TELEPORT",
       "SetID": "7c4cldc",
       "Name": "Teleport",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     }
   ],
   "AchievementSets": [
@@ -1790,8 +1790,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-10-28T14:03:22.2767403+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:03:18.5729964+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:03:23.4663155+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:38.3966279+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:00:43.1143265+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:03:18.5730295+00:00"
+  "LastUpdate_Ratings": "2023-11-11T07:02:47.8176074+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:03:23.4663394+00:00"
 }

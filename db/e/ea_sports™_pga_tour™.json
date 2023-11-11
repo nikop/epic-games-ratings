@@ -3,9 +3,9 @@
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 134,
+  "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -21,10 +21,10 @@
   "ReviewsDisabled": false,
   "Tags": [],
   "EOS_Progressed": 520,
-  "EOS_Completed": 8,
+  "EOS_Completed": 9,
   "EOS_NewPlayers": 36,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.54,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 1.73,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -1760,6 +1760,11 @@
       "Time": "2023-11-11T02:56:02.4582476+00:00",
       "NumProgressed": 520,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-11T07:08:19.9837137+00:00",
+      "NumProgressed": 520,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1770,9 +1775,9 @@
       "ID": "achievement_1",
       "SetID": "7ldgi7j",
       "Name": "The Ultimate Prize",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 88
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_10",
@@ -1916,12 +1921,12 @@
       "ID": "7ldgi7j",
       "IsBase": true,
       "Progressed": 520,
-      "Completed": 8
+      "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:08:37.5414452+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:08:19.9837127+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.7077213+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:00:14.0123183+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:08:37.5414699+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:59:59.1056037+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:08:19.983728+00:00"
 }

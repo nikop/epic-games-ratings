@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -471,9 +471,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 5584,
+  "EOS_Progressed": 5585,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 999,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5206,6 +5206,11 @@
       "Time": "2023-11-11T06:02:54.9978406+00:00",
       "NumProgressed": 5584,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T07:02:59.9252293+00:00",
+      "NumProgressed": 5585,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5218,7 +5223,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1228
+      "UsersEstimate": 1229
     },
     {
       "ID": "achievement_0002",
@@ -5258,15 +5263,15 @@
       "Name": "Setting up for Success",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4188
+      "UsersEstimate": 4189
     },
     {
       "ID": "achievement_0007",
       "SetID": "9123ogc",
       "Name": "Getting on the Step",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 5193
+      "UsersEstimate": 5138
     },
     {
       "ID": "achievement_0008",
@@ -5274,7 +5279,7 @@
       "Name": "On the Top Step",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 4746
+      "UsersEstimate": 4747
     },
     {
       "ID": "achievement_0009",
@@ -5378,7 +5383,7 @@
       "Name": "Team Orders",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 4076
+      "UsersEstimate": 4077
     },
     {
       "ID": "achievement_0022",
@@ -5386,7 +5391,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "achievement_0023",
@@ -5482,7 +5487,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "achievement_0035",
@@ -5562,7 +5567,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2289
+      "UsersEstimate": 2290
     },
     {
       "ID": "achievement_0045",
@@ -5570,7 +5575,7 @@
       "Name": "Making History",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "achievement_0046",
@@ -5609,7 +5614,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5584,
+      "Progressed": 5585,
       "Completed": 0
     }
   ],
@@ -5617,8 +5622,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-10T08:59:04.192549+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:02:54.9978402+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:02:59.925229+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.9013209+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:59:21.4825608+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:02:54.9979218+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:59:07.3604292+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:02:59.9252781+00:00"
 }

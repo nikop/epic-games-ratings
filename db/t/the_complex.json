@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 94,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -1053,9 +1053,9 @@
       "ID": "kamikaze",
       "SetID": "d4f4pll",
       "Name": "Kamikaze",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 100,
-      "UsersEstimate": 401
+      "UsersEstimate": 407
     },
     {
       "ID": "kindar_surprise",
@@ -1118,8 +1118,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:06:36.9241857+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:08:00.5882936+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:57.9855569+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:03:00.1032117+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:06:36.9242076+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:56:51.1610257+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:08:00.5883067+00:00"
 }

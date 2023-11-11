@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11142,9 +11142,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51413,
+  "EOS_Progressed": 51414,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29652,6 +29652,11 @@
       "Time": "2023-11-11T05:05:24.4224476+00:00",
       "NumProgressed": 51413,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-11T07:05:20.3262977+00:00",
+      "NumProgressed": 51414,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -29735,7 +29740,7 @@
       "Name": "Highly cultivated",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 5655
+      "UsersEstimate": 5656
     },
     {
       "ID": "CultivateFirst",
@@ -29743,7 +29748,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32904
+      "UsersEstimate": 32905
     },
     {
       "ID": "CutTree",
@@ -29759,7 +29764,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 31362
+      "UsersEstimate": 31363
     },
     {
       "ID": "DeliveryGrapes",
@@ -29887,7 +29892,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 20565
+      "UsersEstimate": 20566
     },
     {
       "ID": "NumPlaceables",
@@ -29943,7 +29948,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 11,
       "XP": 55,
-      "UsersEstimate": 5655
+      "UsersEstimate": 5656
     },
     {
       "ID": "SowFirst",
@@ -29951,7 +29956,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 31876
+      "UsersEstimate": 31877
     },
     {
       "ID": "Stones",
@@ -29983,7 +29988,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 13367
+      "UsersEstimate": 13368
     },
     {
       "ID": "VehicleRepair",
@@ -30006,15 +30011,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51413,
+      "Progressed": 51414,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-10T23:02:32.0150928+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:05:16.2821728+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:05:20.3262974+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:18.1648668+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:00:23.7216384+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:05:16.2823155+00:00"
+  "LastUpdate_Ratings": "2023-11-11T07:02:28.4259371+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:05:20.3264043+00:00"
 }

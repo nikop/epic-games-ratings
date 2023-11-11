@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 410,
   "Ranking_Popularity": 334,
   "Ranking_PopularitySum": 258,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1415,9 +1415,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 6696,
+  "EOS_Progressed": 6697,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12535,6 +12535,11 @@
       "Time": "2023-11-11T05:08:01.6346386+00:00",
       "NumProgressed": 6696,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-11T07:07:48.3695265+00:00",
+      "NumProgressed": 6697,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -12546,7 +12551,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -12570,7 +12575,7 @@
       "Name": "Nothing Wasted",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "HARVEST_CROPS_200",
@@ -12578,7 +12583,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4486
+      "UsersEstimate": 4487
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -12586,7 +12591,7 @@
       "Name": "Having A Field Day",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5022
+      "UsersEstimate": 5023
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -12594,7 +12599,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4821
+      "UsersEstimate": 4822
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -12650,7 +12655,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "KILL_RAIDER",
@@ -12658,7 +12663,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -12674,7 +12679,7 @@
       "Name": "Feast or Famine",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -12690,7 +12695,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3281
+      "UsersEstimate": 3282
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -12706,7 +12711,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4620
+      "UsersEstimate": 4621
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -12714,7 +12719,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2812
+      "UsersEstimate": 2813
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -12754,7 +12759,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4486
+      "UsersEstimate": 4487
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -12762,7 +12767,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3013
+      "UsersEstimate": 3014
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -12793,15 +12798,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6696,
+      "Progressed": 6697,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-09T17:02:57.7669931+00:00",
-  "LastChanged_Achievements": "2023-11-11T06:06:23.9904953+00:00",
+  "LastChanged_Achievements": "2023-11-11T07:07:48.3695261+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.6688935+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:57:26.2483708+00:00",
-  "LastUpdate_Achievements": "2023-11-11T06:06:23.9905856+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:57:13.0138972+00:00",
+  "LastUpdate_Achievements": "2023-11-11T07:07:48.3696018+00:00"
 }
