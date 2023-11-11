@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,039 |
-| Off to a good start | 67.00% | ~782 |
-| Do... or do not. There is no try | 51.00% | ~595 |
-| A good blaster at your side | 31.00% | ~362 |
-| I suggest a new strategy | 20.00% | ~233 |
+| New Recruit | 89.00% | ~1,042 |
+| Off to a good start | 67.00% | ~785 |
+| Do... or do not. There is no try | 51.00% | ~597 |
+| A good blaster at your side | 31.00% | ~363 |
+| I suggest a new strategy | 20.00% | ~234 |
 | Scrap collector | 19.00% | ~222 |
-| Great shot, kid! | 17.00% | ~198 |
+| Great shot, kid! | 17.00% | ~199 |
 | All right, I'll give it a try | 16.00% | ~187 |
-| The power of the Force | 15.00% | ~175 |
-| Together we can rule the galaxy | 15.00% | ~175 |
-| Shoot first | 15.00% | ~175 |
-| Collector | 14.00% | ~163 |
+| The power of the Force | 15.00% | ~176 |
+| Together we can rule the galaxy | 15.00% | ~176 |
+| Shoot first | 15.00% | ~176 |
+| Collector | 14.00% | ~164 |
 | Tell Jabba that I've got his money | 10.00% | ~117 |
 | Best star-pilot in the galaxy | 10.00% | ~117 |
 | Survivor | 10.00% | ~117 |
 | Never tell me the odds! | 9.00% | ~105 |
-| What's the cargo? | 8.00% | ~93 |
-| A cunning warrior | 8.00% | ~93 |
+| What's the cargo? | 8.00% | ~94 |
+| A cunning warrior | 8.00% | ~94 |
 | "Gonk? Gonk!" | 6.00% | ~70 |
 | Distinguished | 6.00% | ~70 |
 | Impressive. Most impressive. | 6.00% | ~70 |
 | Judge me by my size, do you? | 6.00% | ~70 |
 | Support the troops | 6.00% | ~70 |
-| A tremor in the Force | 5.00% | ~58 |
+| A tremor in the Force | 5.00% | ~59 |
 | On the ball | 4.00% | ~47 |
 | Safety ain't the point of a joyride | 4.00% | ~47 |
 | Not bad for a little furball | 4.00% | ~47 |
@@ -38,6 +38,7 @@
 | Your journey has only started | 3.00% | ~35 |
 | Precision shot | 3.00% | ~35 |
 | That's no moon | 3.00% | ~35 |
+| What will you become? | 3.00% | ~35 |
 | Don't underestimate the Force | 3.00% | ~35 |
 | Hold the line! | 2.00% | ~23 |
 | The Force is strong with this one | 2.00% | ~23 |
@@ -45,7 +46,6 @@
 | This is a new day, a new beginning | 2.00% | ~23 |
 | City in the Clouds | 2.00% | ~23 |
 | Alternative solution | 2.00% | ~23 |
-| What will you become? | 2.00% | ~23 |
 | The circle is now complete | 2.00% | ~23 |
 | Disturbed tranquility | 2.00% | ~23 |
 | Playing the objective | 1.00% | ~12 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,167 (Ranked 243)  
+Progressed: 1,171 (Ranked 242)  
 Completed: 1 (0.09%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 1 (0.09%) (Ranked 276)
 | 2023-11-08 | 1,114 | 1 |
 | 2023-11-09 | 1,130 | 1 |
 | 2023-11-10 | 1,147 | 1 |
-| 2023-11-11 | 1,167 | 1 |
+| 2023-11-11 | 1,171 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

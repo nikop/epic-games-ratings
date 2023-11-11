@@ -5,12 +5,12 @@ Rating: 4.60 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 1.00% | ~54 |
+| But this one is mine | 2.00% | ~107 |
+| Realm Estate | 0.70% | ~37 |
 | Secret Technique | 0.70% | ~37 |
-| Realm Estate | 0.60% | ~32 |
+| A Wonderful Discovery | 0.60% | ~32 |
 | Walls Cannot Stop Us | 0.60% | ~32 |
 | Freed Lands of Manuhari | 0.60% | ~32 |
-| A Wonderful Discovery | 0.50% | ~27 |
 | From Friends to Family | 0.50% | ~27 |
 | There Can Only Be One! | 0.40% | ~21 |
 | Bone Peddler | 0.40% | ~21 |
@@ -22,6 +22,7 @@ Rating: 4.60 (Ranked 410)
 | Seat of Power | 0.30% | ~16 |
 | In a Liege of Your Own | 0.30% | ~16 |
 | Intimidation Tactics | 0.30% | ~16 |
+| Mighty Hoard | 0.30% | ~16 |
 | Sehiran Oasis | 0.30% | ~16 |
 | Dawn of the Dread | 0.30% | ~16 |
 | Valley of Wonders | 0.20% | ~11 |
@@ -31,7 +32,6 @@ Rating: 4.60 (Ranked 410)
 | Here be Dragons | 0.20% | ~11 |
 | Tipping the Scales | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
-| Mighty Hoard | 0.20% | ~11 |
 | Prometheus Avenged | 0.20% | ~11 |
 | Seal the Deal | 0.20% | ~11 |
 | A Conqueror's Cohort | 0.20% | ~11 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 410)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,353 (Ranked 183)  
+Progressed: 5,354 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
-| 2023-11-11 | 5,353 | 7 |
+| 2023-11-11 | 5,354 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 482)  
 Sum: 53 (Ranked 474)  

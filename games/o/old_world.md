@@ -50,6 +50,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Artisans | 2.00% | ~305 |
 | Sages | 2.00% | ~305 |
 | Furious Family | 2.00% | ~305 |
+| Acropolis | 2.00% | ~305 |
 | Apadana | 2.00% | ~305 |
 | Colossus | 2.00% | ~305 |
 | Great Ziggurat | 2.00% | ~305 |
@@ -79,13 +80,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 1.00% | ~153 |
 | Good Difficulty | 1.00% | ~153 |
 | Champions | 1.00% | ~153 |
+| Hunters | 1.00% | ~153 |
 | Landowners | 1.00% | ~153 |
 | Patrons | 1.00% | ~153 |
 | Riders | 1.00% | ~153 |
 | Statesmen | 1.00% | ~153 |
 | Traders | 1.00% | ~153 |
 | Hittite Iron | 1.00% | ~153 |
-| Acropolis | 1.00% | ~153 |
 | Circus Maximus | 1.00% | ~153 |
 | Hagia Sophia | 1.00% | ~153 |
 | Temple of Solomon | 1.00% | ~153 |
@@ -112,7 +113,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 1.00% | ~153 |
 | Capable | 0.90% | ~137 |
 | Strong Difficulty | 0.90% | ~137 |
-| Hunters | 0.90% | ~137 |
 | Church of the Holy Sepulchre | 0.90% | ~137 |
 | Learn to Play 4 | 0.90% | ~137 |
 | Babylonia | 0.90% | ~137 |

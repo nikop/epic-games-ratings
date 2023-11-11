@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -281,9 +281,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2142,
+  "EOS_Progressed": 2143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5751,6 +5751,11 @@
       "Time": "2023-11-11T17:07:50.6447803+00:00",
       "NumProgressed": 2142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T18:07:20.7247671+00:00",
+      "NumProgressed": 2143,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -5874,7 +5879,7 @@
       "Name": "A new Journey",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "A15",
@@ -5882,7 +5887,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 685
+      "UsersEstimate": 686
     },
     {
       "ID": "A16",
@@ -5890,15 +5895,15 @@
       "Name": "Traffic Jam",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "A17",
       "SetID": "9b7p7eo",
       "Name": "Facility Manager",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 1135
+      "UsersEstimate": 1157
     },
     {
       "ID": "A18",
@@ -5906,7 +5911,7 @@
       "Name": "General Manager",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "A19",
@@ -5922,7 +5927,7 @@
       "Name": "Country Bumpkin",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "A21",
@@ -6032,9 +6037,9 @@
       "ID": "A34",
       "SetID": "9b7p7eo",
       "Name": "Producer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1071
+      "UsersEstimate": 1093
     },
     {
       "ID": "A35",
@@ -6050,7 +6055,7 @@
       "Name": "Way of Iron",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "A37",
@@ -6058,7 +6063,7 @@
       "Name": "All around the World",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 1328
+      "UsersEstimate": 1329
     },
     {
       "ID": "A38",
@@ -6082,7 +6087,7 @@
       "Name": "Mind the Gap",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1392
+      "UsersEstimate": 1393
     },
     {
       "ID": "A41",
@@ -6090,7 +6095,7 @@
       "Name": "Right through the middle",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1243
     },
     {
       "ID": "A42",
@@ -6130,7 +6135,7 @@
       "Name": "Mystery Tour",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1478
+      "UsersEstimate": 1479
     },
     {
       "ID": "A47",
@@ -6146,7 +6151,7 @@
       "Name": "Bull and bear",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "A49",
@@ -6201,7 +6206,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2142,
+      "Progressed": 2143,
       "Completed": 0
     }
   ],
@@ -6209,8 +6214,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2023-11-10T17:14:58.1028148+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:07:50.6447798+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:07:20.7247669+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:49.8236526+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:01:13.0472974+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:07:50.6448361+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:00:41.1450201+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:07:20.7248211+00:00"
 }

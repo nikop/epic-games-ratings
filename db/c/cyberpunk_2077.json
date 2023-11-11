@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 77,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15002,10 +15002,10 @@
       "Count": 12743
     }
   ],
-  "EOS_Progressed": 896223,
+  "EOS_Progressed": 896228,
   "EOS_Completed": 2765,
-  "EOS_NewPlayers": 1005,
-  "EOS_NewCompleters": 23,
+  "EOS_NewPlayers": 1000,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38247,6 +38247,11 @@
       "Time": "2023-11-11T17:06:11.2778386+00:00",
       "NumProgressed": 896223,
       "NumCompleted": 2765
+    },
+    {
+      "Time": "2023-11-11T18:05:42.9630346+00:00",
+      "NumProgressed": 896228,
+      "NumCompleted": 2765
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38721,9 +38726,9 @@
       "ID": "HydraIsDead",
       "SetID": "23nboa5",
       "Name": "Judgement Day",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 50
     },
     {
       "ID": "IHateSpider",
@@ -38794,21 +38799,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896223,
+      "Progressed": 896228,
       "Completed": 2765
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24846,
+      "Progressed": 24851,
       "Completed": 10208
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-11T16:59:45.4707519+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:06:11.2778381+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:05:42.9630341+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:59:45.4707524+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:06:11.2779931+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:59:15.5868383+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:05:42.9631907+00:00"
 }

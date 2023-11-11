@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1164,
+  "EOS_Progressed": 1165,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1083,6 +1083,11 @@
       "Time": "2023-11-08T17:09:42.8385783+00:00",
       "NumProgressed": 1164,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T18:10:16.22788+00:00",
+      "NumProgressed": 1165,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1196,9 +1201,9 @@
       "ID": "ALLTRACKSTARTARUS",
       "SetID": "3dh70f3",
       "Name": "To the core",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 93
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1278,7 +1283,7 @@
       "Name": "EZ game EZ life",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "CAREERTRIALSMASTERS",
@@ -1316,9 +1321,9 @@
       "ID": "FINISHFAST",
       "SetID": "3dh70f3",
       "Name": "Blurred photofinish",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 93
     },
     {
       "ID": "FINISHSOUND",
@@ -1374,7 +1379,7 @@
       "Name": "First step into a larger world",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "LOSEONEONLINE",
@@ -1509,7 +1514,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1164,
+      "Progressed": 1165,
       "Completed": 0
     }
   ],
@@ -1517,8 +1522,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2023-07-10T22:58:27.6839393+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:10:51.9634659+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:10:16.2278796+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:27.9905953+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:01:41.2798991+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:10:51.9635037+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:01:09.1496201+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:10:16.2279144+00:00"
 }

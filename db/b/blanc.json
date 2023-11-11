@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 206,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2905,
+  "EOS_Progressed": 2906,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4071,6 +4071,11 @@
       "Time": "2023-11-11T00:06:54.3052731+00:00",
       "NumProgressed": 2905,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-11T18:08:33.8299109+00:00",
+      "NumProgressed": 2906,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4114,7 +4119,7 @@
       "Name": "The will to move on",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "REUNION",
@@ -4170,7 +4175,7 @@
       "Name": "Transmission",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -4185,7 +4190,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2905,
+      "Progressed": 2906,
       "Completed": 6
     }
   ],
@@ -4193,8 +4198,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:09:05.6663056+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:08:33.8299104+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:37.9613614+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:57:54.7615723+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:09:05.6663338+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:57:28.2819335+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:08:33.829941+00:00"
 }

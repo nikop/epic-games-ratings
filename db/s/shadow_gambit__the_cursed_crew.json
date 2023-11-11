@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 264,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 813,
+  "EOS_Progressed": 814,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 3.32,
   "EosHistory": [
@@ -2562,6 +2562,11 @@
       "Time": "2023-11-10T03:09:25.6855407+00:00",
       "NumProgressed": 813,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-11T18:10:23.4912079+00:00",
+      "NumProgressed": 814,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2606,7 +2611,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2630,7 +2635,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "_09_Completion_20",
@@ -2654,7 +2659,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "_12_Completion_50",
@@ -2702,7 +2707,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2718,7 +2723,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2734,7 +2739,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -2781,7 +2786,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 813,
+      "Progressed": 814,
       "Completed": 27
     }
   ],
@@ -2789,8 +2794,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:10:59.391254+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:10:23.4912075+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:47.5023284+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:00:51.8537466+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:10:59.3912796+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:00:19.9873897+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:10:23.4912308+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 446,
+  "Ranking_Rating": 445,
   "Ranking_Popularity": 130,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3364,9 +3364,9 @@
       "Count": 740
     }
   ],
-  "EOS_Progressed": 239522,
+  "EOS_Progressed": 239527,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 387,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24654,6 +24654,11 @@
       "Time": "2023-11-11T17:11:06.0557924+00:00",
       "NumProgressed": 239522,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-11T18:10:30.2493404+00:00",
+      "NumProgressed": 239527,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25768,13 +25773,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239522,
+      "Progressed": 239527,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1002,
+      "Progressed": 1007,
       "Completed": 374
     }
   ],
@@ -25782,8 +25787,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-11T11:03:15.8109071+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:11:06.0557921+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:10:30.2493401+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:04:02.7501195+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:11:06.0560192+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:03:17.5798158+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:10:30.2495918+00:00"
 }

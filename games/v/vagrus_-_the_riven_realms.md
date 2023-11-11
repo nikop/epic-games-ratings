@@ -17,8 +17,8 @@
 | Fight Another Day | 7.00% | ~13 |
 | Scholar | 6.00% | ~11 |
 | Tail-wind | 6.00% | ~11 |
+| Taskmaster | 6.00% | ~11 |
 | Harbinger | 5.00% | ~9 |
-| Taskmaster | 5.00% | ~9 |
 | Quartermaster | 4.00% | ~7 |
 | Strategist | 4.00% | ~7 |
 | The More the Merrier | 4.00% | ~7 |

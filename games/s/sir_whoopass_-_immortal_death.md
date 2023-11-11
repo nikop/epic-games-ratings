@@ -16,18 +16,18 @@
 | Up and down | 77.00% | ~85 |
 | Rolling, Rolling, Rolling | 74.00% | ~82 |
 | Fire-fighter! | 66.00% | ~73 |
-| Oh, you're up to no gouda! | 63.00% | ~70 |
+| Oh, you're up to no gouda! | 64.00% | ~71 |
 | Make Love not War-Craft a Mistlefoe | 59.00% | ~65 |
 | Meat grinder | 59.00% | ~65 |
 | You're not going to blow me up! | 54.00% | ~60 |
-| Mushroom soup of the day | 50.00% | ~56 |
+| Mushroom soup of the day | 51.00% | ~57 |
+| Honk honk! | 50.00% | ~56 |
 | Cockadoodledoo! | 50.00% | ~56 |
-| Honk honk! | 49.00% | ~54 |
 | Butcher | 49.00% | ~54 |
 | Spare Ribs | 49.00% | ~54 |
-| Thats disgusting! | 47.00% | ~52 |
+| Thats disgusting! | 48.00% | ~53 |
+| Self assessed tax return | 42.00% | ~47 |
 | My pants squeak when I walk | 42.00% | ~47 |
-| Self assessed tax return | 41.00% | ~46 |
 | Surprise!! | 41.00% | ~46 |
 | Haemochromatosis | 40.00% | ~44 |
 | Make America Grate Again | 35.00% | ~39 |
@@ -48,8 +48,8 @@
 | I cant stand still! | 22.00% | ~24 |
 | Master Butcher | 17.00% | ~19 |
 | Slimy... yet satisfying | 17.00% | ~19 |
+| Just wing it! | 16.00% | ~18 |
 | Deal with it | 16.00% | ~18 |
-| Just wing it! | 15.00% | ~17 |
 | Yeehaw!!! | 14.00% | ~16 |
 | You're looking mozzare-hella good! | 13.00% | ~14 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~14 |

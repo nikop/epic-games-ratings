@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 18,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 750863,
+  "EOS_Progressed": 750888,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1783,
+  "EOS_NewPlayers": 1787,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23754,6 +23754,11 @@
       "Time": "2023-11-11T17:07:34.1680391+00:00",
       "NumProgressed": 750863,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-11T18:07:04.0251543+00:00",
+      "NumProgressed": 750888,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -23789,7 +23794,7 @@
       "Name": "Penniless",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 45052
+      "UsersEstimate": 45053
     },
     {
       "ID": "ach_build_bridge",
@@ -23797,7 +23802,7 @@
       "Name": "Engineer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 15017
+      "UsersEstimate": 15018
     },
     {
       "ID": "ach_build_tunnel",
@@ -23813,7 +23818,7 @@
       "Name": "Vroom Vroom",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 3003
+      "UsersEstimate": 3004
     },
     {
       "ID": "ach_complete_contracts",
@@ -23829,7 +23834,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 277819
+      "UsersEstimate": 277829
     },
     {
       "ID": "ach_demolish_trees",
@@ -23837,7 +23842,7 @@
       "Name": "Deforester",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 127647
+      "UsersEstimate": 127651
     },
     {
       "ID": "ach_free_cam_mode",
@@ -23861,7 +23866,7 @@
       "Name": "Massive Gains",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 45052
+      "UsersEstimate": 45053
     },
     {
       "ID": "ach_max_truck_distance",
@@ -23869,7 +23874,7 @@
       "Name": "I would drive 500 tiles...",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 90104
+      "UsersEstimate": 90107
     },
     {
       "ID": "ach_place_all_buildngs",
@@ -23893,7 +23898,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 360414
+      "UsersEstimate": 360426
     },
     {
       "ID": "ach_produced",
@@ -23901,7 +23906,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 97612
+      "UsersEstimate": 97615
     },
     {
       "ID": "ach_products_moved",
@@ -23909,7 +23914,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 120138
+      "UsersEstimate": 120142
     },
     {
       "ID": "ach_raise_money",
@@ -23925,7 +23930,7 @@
       "Name": "Salesman",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 22526
+      "UsersEstimate": 22527
     },
     {
       "ID": "ach_sell_to_state",
@@ -23933,7 +23938,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 97612
+      "UsersEstimate": 97615
     },
     {
       "ID": "ach_setup_route_boat",
@@ -23949,7 +23954,7 @@
       "Name": "Railwayman",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 60069
+      "UsersEstimate": 60071
     },
     {
       "ID": "ach_setup_route_zepplin",
@@ -23957,7 +23962,7 @@
       "Name": "High Flyer",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 15017
+      "UsersEstimate": 15018
     },
     {
       "ID": "ach_use_terraforming",
@@ -23965,7 +23970,7 @@
       "Name": "Landscaper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 90104
+      "UsersEstimate": 90107
     },
     {
       "ID": "ach_warehouse_clients",
@@ -23973,14 +23978,14 @@
       "Name": "City Planner",
       "Percentage": 19,
       "XP": 35,
-      "UsersEstimate": 142664
+      "UsersEstimate": 142669
     }
   ],
   "AchievementSets": [
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 750863,
+      "Progressed": 750888,
       "Completed": 4
     }
   ],
@@ -23988,8 +23993,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:07:34.1680387+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:07:04.0251539+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:11.2241033+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:02:18.2906588+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:07:34.1681422+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:01:45.5323543+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:07:04.0252588+00:00"
 }

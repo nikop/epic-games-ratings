@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~479 |
+| Feels Familiar | 76.00% | ~486 |
 | I Broke It | 72.00% | ~460 |
 | Better On Ice | 70.00% | ~447 |
 | Notai Notes | 70.00% | ~447 |
@@ -14,32 +14,32 @@
 | Cutie Poro | 67.00% | ~428 |
 | The Fire Below the Mountain | 64.00% | ~409 |
 | Moneyball | 59.00% | ~377 |
+| No Bites | 56.00% | ~358 |
 | Iceborn | 56.00% | ~358 |
-| No Bites | 55.00% | ~351 |
 | Boom Things | 52.00% | ~332 |
 | Tear of Freedom | 51.00% | ~326 |
 | My Darkest Day | 47.00% | ~300 |
 | Rhythm Of Willump | 46.00% | ~294 |
-| The Relentless Storm | 44.00% | ~281 |
-| A Tragic Reminder | 42.00% | ~268 |
-| 3000 Year Blackout | 41.00% | ~262 |
+| The Relentless Storm | 45.00% | ~288 |
+| A Tragic Reminder | 43.00% | ~275 |
+| 3000 Year Blackout | 42.00% | ~268 |
 | True Legends | 41.00% | ~262 |
-| The Finisher | 40.00% | ~256 |
-| So Close | 37.00% | ~236 |
+| The Finisher | 41.00% | ~262 |
+| So Close | 38.00% | ~243 |
 | You Get Used To It | 37.00% | ~236 |
+| On The Rocks | 35.00% | ~224 |
 | Bullseye | 35.00% | ~224 |
 | Boosted! | 35.00% | ~224 |
 | Family | 34.00% | ~217 |
 | Biggest Snowball Ever | 34.00% | ~217 |
 | Freeze The Ice Witch | 34.00% | ~217 |
-| On The Rocks | 34.00% | ~217 |
 | Deadliest and Biggest Snowball Ever! | 34.00% | ~217 |
 | It Is Not Over | 32.00% | ~204 |
 | Never Gets Old | 32.00% | ~204 |
 | Snowy Poro | 31.00% | ~198 |
 | Vertical Power | 28.00% | ~179 |
 | One From The Heart | 13.00% | ~83 |
-| Yummy | 11.00% | ~70 |
+| Yummy | 12.00% | ~77 |
 | Snowball Fightn't | 10.00% | ~64 |
 | It Was Him | 8.00% | ~51 |
 | Handy Yeti | 7.00% | ~45 |

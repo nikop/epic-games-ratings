@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -447,9 +447,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5353,
+  "EOS_Progressed": 5354,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6957,6 +6957,11 @@
       "Time": "2023-11-11T17:04:42.5134313+00:00",
       "NumProgressed": 5353,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-11T18:04:16.2874116+00:00",
+      "NumProgressed": 5354,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7078,17 +7083,17 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "24",
@@ -7350,9 +7355,9 @@
       "ID": "49",
       "SetID": "7132754",
       "Name": "Mighty Hoard",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "50",
@@ -7430,9 +7435,9 @@
       "ID": "59",
       "SetID": "7132754",
       "Name": "But this one is mine",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 107
     },
     {
       "ID": "60",
@@ -7447,13 +7452,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5353,
+      "Progressed": 5354,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5353,
+      "Progressed": 5354,
       "Completed": 7
     }
   ],
@@ -7461,8 +7466,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T17:03:23.9116257+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:04:42.5134309+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:04:16.2874112+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:03:23.9116262+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:04:42.5134965+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:02:39.4950373+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:04:16.2874837+00:00"
 }

@@ -30,7 +30,7 @@
 | Tastes Like Chicken | 64.00% | ~113 |
 | Combo Breaker | 63.00% | ~111 |
 | Thunderstorm | 63.00% | ~111 |
-| Clean Forests | 61.00% | ~107 |
+| Clean Forests | 62.00% | ~109 |
 | Starry: Meadowshire | 57.00% | ~100 |
 | Avada Kedavra | 56.00% | ~99 |
 | Lieutenant of the Evil | 56.00% | ~99 |

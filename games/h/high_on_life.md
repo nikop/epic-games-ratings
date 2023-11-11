@@ -5,9 +5,9 @@ Rating: 4.64 (Ranked 332)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Satisfied Gus-tomer | 3.00% | ~734 |
 | Cold-Blooded Driller | 3.00% | ~734 |
 | Creature Feature | 2.00% | ~489 |
-| Satisfied Gus-tomer | 2.00% | ~489 |
 | Are You Packin'? | 2.00% | ~489 |
 | Bring A Knife to a Gun Fight | 2.00% | ~489 |
 | RIP Davey Glutes | 2.00% | ~489 |

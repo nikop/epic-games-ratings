@@ -1,7 +1,7 @@
 # Warhammer 40,000: Chaos Gate - Daemonhunters
 [Store](https://store.epicgames.com/en-US/p/warhammer-40000-chaos-gate-daemonhunters)  
 [View Rawdata](../../db/w/warhammer_40,000__chaos_gate_-_daemonhunters.json)  
-Rating: 4.58 (Ranked 446)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 371  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,297 (Ranked 202)  
+Progressed: 3,298 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 3,293 | 0 |
 | 2023-11-09 | 3,294 | 0 |
 | 2023-11-10 | 3,295 | 0 |
-| 2023-11-11 | 3,297 | 0 |
+| 2023-11-11 | 3,298 | 0 |
 ## Awards
 Max (Character Customization): 222  (Ranked 275)  
 Sum: 481 (Ranked 326)  

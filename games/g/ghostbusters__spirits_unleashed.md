@@ -5,16 +5,16 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 7.00% | ~2,153 |
+| Stylish | 7.00% | ~2,154 |
 | Advancement | 6.00% | ~1,846 |
 | Meticulously Efficient | 6.00% | ~1,846 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,230 |
-| Discovery | 4.00% | ~1,230 |
-| Fully Upgraded | 4.00% | ~1,230 |
-| Solo Capture | 4.00% | ~1,230 |
-| Swift Rift Removers | 4.00% | ~1,230 |
-| Teamwork | 4.00% | ~1,230 |
-| Vaporous Expansion | 4.00% | ~1,230 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,231 |
+| Discovery | 4.00% | ~1,231 |
+| Fully Upgraded | 4.00% | ~1,231 |
+| Solo Capture | 4.00% | ~1,231 |
+| Swift Rift Removers | 4.00% | ~1,231 |
+| Teamwork | 4.00% | ~1,231 |
+| Vaporous Expansion | 4.00% | ~1,231 |
 | Animated | 3.00% | ~923 |
 | Clutch Capture | 3.00% | ~923 |
 | Cultured | 3.00% | ~923 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,760 (Ranked 122)  
+Progressed: 30,768 (Ranked 122)  
 Completed: 67 (0.22%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,16 +262,16 @@ Completed: 67 (0.22%) (Ranked 240)
 | 2023-11-08 | 30,559 | 66 |
 | 2023-11-09 | 30,630 | 66 |
 | 2023-11-10 | 30,704 | 66 |
-| 2023-11-11 | 30,760 | 67 |
+| 2023-11-11 | 30,768 | 67 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 246)  
-Sum: 2,759 (Ranked 179)  
+Sum: 2,760 (Ranked 179)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 311 |
 | This game is Great for Quick Sessions | 303 |
-| This game has Diverse Characters | 285 |
+| This game has Diverse Characters | 286 |
 | This game has Amazing Storytelling | 275 |
 | This game is Highly Recommended | 273 |
 | This game has Competitive Players | 270 |
@@ -492,4 +492,4 @@ Diff (max vs sum): 67
 | 2023-11-08 | 4.50 | 309 | 2,739 |
 | 2023-11-09 | 4.50 | 310 | 2,750 |
 | 2023-11-10 | 4.50 | 310 | 2,755 |
-| 2023-11-11 | 4.50 | 311 | 2,759 |
+| 2023-11-11 | 4.50 | 311 | 2,760 |

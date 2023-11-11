@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 290,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234,
+  "EOS_Progressed": 235,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -425,6 +425,11 @@
       "Time": "2023-11-11T15:04:01.4872949+00:00",
       "NumProgressed": 234,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-11T18:04:21.4520686+00:00",
+      "NumProgressed": 235,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -508,7 +513,7 @@
       "Name": "Oscar Winning Performance",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "patient_listener",
@@ -524,7 +529,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "play_me_by_the_hour",
@@ -564,7 +569,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "the_big_sleep",
@@ -580,7 +585,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "voyeur",
@@ -596,14 +601,14 @@
       "Name": "You Had One Job",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 234,
+      "Progressed": 235,
       "Completed": 2
     }
   ],
@@ -611,8 +616,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:04:47.8598259+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:04:21.4520682+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:20.7646643+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:01:20.8568627+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:04:47.8598406+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:00:48.9582934+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:04:21.4520877+00:00"
 }

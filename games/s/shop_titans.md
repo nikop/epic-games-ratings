@@ -76,25 +76,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.80% | ~1,115 |
 | Exotic Commodities | 0.80% | ~1,115 |
 | King's Blade | 0.80% | ~1,115 |
-| Cream of the Crop | 0.70% | ~975 |
-| Top of the World | 0.70% | ~975 |
-| Proud Paladin | 0.70% | ~975 |
-| A Ronin Reborn | 0.70% | ~975 |
-| Thirst for Knowledge | 0.70% | ~975 |
-| Booty by the Boatload | 0.70% | ~975 |
-| Archivist | 0.70% | ~975 |
-| Omae wa Mou Shindeiru | 0.70% | ~975 |
-| Supercharged | 0.70% | ~975 |
-| Ritualist | 0.70% | ~975 |
-| By Your Powers Combined... | 0.70% | ~975 |
-| Item of Renown | 0.70% | ~975 |
-| Master Merchant | 0.70% | ~975 |
-| Bountiful Harvest | 0.70% | ~975 |
-| Precision Engineering | 0.70% | ~975 |
-| Treasure Trove | 0.70% | ~975 |
-| Moment of Respite | 0.70% | ~975 |
-| King's Shadow | 0.70% | ~975 |
-| Master Recycler | 0.70% | ~975 |
+| Cream of the Crop | 0.70% | ~976 |
+| Top of the World | 0.70% | ~976 |
+| Proud Paladin | 0.70% | ~976 |
+| A Ronin Reborn | 0.70% | ~976 |
+| Thirst for Knowledge | 0.70% | ~976 |
+| Booty by the Boatload | 0.70% | ~976 |
+| Archivist | 0.70% | ~976 |
+| Omae wa Mou Shindeiru | 0.70% | ~976 |
+| Supercharged | 0.70% | ~976 |
+| Ritualist | 0.70% | ~976 |
+| By Your Powers Combined... | 0.70% | ~976 |
+| Item of Renown | 0.70% | ~976 |
+| Master Merchant | 0.70% | ~976 |
+| Bountiful Harvest | 0.70% | ~976 |
+| Precision Engineering | 0.70% | ~976 |
+| Treasure Trove | 0.70% | ~976 |
+| Moment of Respite | 0.70% | ~976 |
+| King's Shadow | 0.70% | ~976 |
+| Master Recycler | 0.70% | ~976 |
 | Constellated | 0.60% | ~836 |
 | Fillin' the Bin | 0.60% | ~836 |
 | Industrial Evolution | 0.60% | ~836 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,351 (Ranked 79)  
+Progressed: 139,362 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
-| 2023-11-11 | 139,351 | 181 |
+| 2023-11-11 | 139,362 | 181 |
 ## Awards
 Max (Great for Beginners): 4,825  (Ranked 73)  
 Sum: 27,528 (Ranked 50)  

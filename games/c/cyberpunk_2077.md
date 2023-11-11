@@ -39,6 +39,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wandering Fool | 0.20% | ~1,792 |
 | The Sun | 0.20% | ~1,792 |
 | Two Heads, One Bullet | 0.20% | ~1,792 |
+| Judgement Day | 0.20% | ~50 |
 | The Tower | 0.20% | ~50 |
 | City Lights | 0.10% | ~896 |
 | Autojock | 0.10% | ~896 |
@@ -59,7 +60,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.10% | ~896 |
 | It's Elementary | 0.10% | ~896 |
 | The APB is Not Enough | 0.10% | ~25 |
-| Judgement Day | 0.10% | ~25 |
 | King of Cups | 0.10% | ~25 |
 | King of Pentacles | 0.10% | ~25 |
 | King of Swords | 0.10% | ~25 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,223 (Ranked 15)  
+Progressed: 896,228 (Ranked 15)  
 Completed: 2,765 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 2,765 (0.31%) (Ranked 224)
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
-| 2023-11-11 | 896,223 | 2,765 |
+| 2023-11-11 | 896,228 | 2,765 |
 ## Awards
 Max (Character Customization): 105,016  (Ranked 9)  
 Sum: 349,420 (Ranked 10)  

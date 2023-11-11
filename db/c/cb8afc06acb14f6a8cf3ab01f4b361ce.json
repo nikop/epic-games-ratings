@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 19,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -311,9 +311,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 308112,
+  "EOS_Progressed": 308162,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6353,
+  "EOS_NewPlayers": 6344,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5576,6 +5576,11 @@
       "Time": "2023-11-11T17:05:27.985108+00:00",
       "NumProgressed": 308112,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-11T18:05:00.899934+00:00",
+      "NumProgressed": 308162,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -5586,17 +5591,17 @@
       "ID": "S01_DCKA",
       "SetID": "4j44ol8",
       "Name": "May the Torchbearer light our way",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1541
     },
     {
       "ID": "S02_BRDA",
       "SetID": "4j44ol8",
       "Name": "A powerful aura was here",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 924
+      "UsersEstimate": 1233
     },
     {
       "ID": "S03_OTWA",
@@ -5907,7 +5912,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 308112,
+      "Progressed": 308162,
       "Completed": 4
     }
   ],
@@ -5915,8 +5920,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-10T21:01:15.2531165+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:05:27.9851076+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:05:00.8999335+00:00",
   "LastUpdate_AppInfo": "2023-11-09T18:57:16.9812812+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:59:59.057155+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:05:27.9851499+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:59:28.6182267+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:05:00.8999882+00:00"
 }

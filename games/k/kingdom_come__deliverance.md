@@ -6,28 +6,28 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~258,550 |
-| Cavalier | 25.00% | ~201,992 |
-| Fatso | 23.00% | ~185,833 |
-| Awakening | 21.00% | ~169,673 |
-| Ranger | 20.00% | ~161,594 |
-| Scrooge | 20.00% | ~161,594 |
-| Anorectic | 16.00% | ~129,275 |
-| Bookworm | 15.00% | ~121,195 |
-| Firestarter | 15.00% | ~121,195 |
-| Insomniac | 13.00% | ~105,036 |
-| Buddy | 12.00% | ~96,956 |
-| Thief | 12.00% | ~96,956 |
+| Blacksmith's Son | 32.00% | ~258,552 |
+| Cavalier | 25.00% | ~201,994 |
+| Fatso | 23.00% | ~185,834 |
+| Awakening | 21.00% | ~169,675 |
+| Ranger | 20.00% | ~161,595 |
+| Scrooge | 20.00% | ~161,595 |
+| Anorectic | 16.00% | ~129,276 |
+| Bookworm | 15.00% | ~121,196 |
+| Firestarter | 15.00% | ~121,196 |
+| Insomniac | 13.00% | ~105,037 |
+| Buddy | 12.00% | ~96,957 |
+| Thief | 12.00% | ~96,957 |
 | Sinner | 11.00% | ~88,877 |
 | Traveller | 11.00% | ~88,877 |
 | Convict | 10.00% | ~80,797 |
-| Haggler | 9.00% | ~72,717 |
+| Haggler | 9.00% | ~72,718 |
 | McLovin | 7.00% | ~56,558 |
 | Runt | 7.00% | ~56,558 |
 | Casanova | 6.00% | ~48,478 |
-| Bad Trip | 5.00% | ~40,398 |
-| Monk | 5.00% | ~40,398 |
-| Serial Killer | 5.00% | ~40,398 |
+| Bad Trip | 5.00% | ~40,399 |
+| Monk | 5.00% | ~40,399 |
+| Serial Killer | 5.00% | ~40,399 |
 | Bastard | 4.00% | ~32,319 |
 | Hunter | 4.00% | ~32,319 |
 | Plague Doctor | 4.00% | ~32,319 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~808 |
 | Wingman | 0.10% | ~808 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807,969 (Ranked 17)  
+Progressed: 807,974 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,10 +294,10 @@ Completed: 51 (0.01%) (Ranked 325)
 | 2023-11-08 | 807,634 | 51 |
 | 2023-11-09 | 807,741 | 51 |
 | 2023-11-10 | 807,875 | 51 |
-| 2023-11-11 | 807,969 | 51 |
+| 2023-11-11 | 807,974 | 51 |
 ## Awards
 Max (Character Customization): 7,595  (Ranked 49)  
-Sum: 28,205 (Ranked 48)  
+Sum: 28,207 (Ranked 48)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
@@ -309,7 +309,7 @@ Diff (max vs sum): 1
 | This game is Highly Recommended | 1,690 |
 | This game is Extremely Fun | 1,687 |
 | This game has Realistic Visuals | 1,663 |
-| This game has Amazing Characters | 1,660 |
+| This game has Amazing Characters | 1,662 |
 | This game is Educational | 1,606 |
 | This game is Relaxing | 1,534 |
 | This game has Obsessive Gameplay | 1,048 |
@@ -604,4 +604,4 @@ Diff (max vs sum): 1
 | 2023-11-08 | 4.71 | - | 7,582 | 28,187 |
 | 2023-11-09 | 4.71 | - | 7,587 | 28,194 |
 | 2023-11-10 | 4.71 | - | 7,591 | 28,200 |
-| 2023-11-11 | 4.71 | - | 7,595 | 28,205 |
+| 2023-11-11 | 4.71 | - | 7,595 | 28,207 |

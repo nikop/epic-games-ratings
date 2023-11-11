@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130690,
+  "EOS_Progressed": 130691,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21602,6 +21602,11 @@
       "Time": "2023-11-11T17:05:08.405914+00:00",
       "NumProgressed": 130690,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-11T18:04:41.8355417+00:00",
+      "NumProgressed": 130691,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21717,7 +21722,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20910
+      "UsersEstimate": 20911
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -21749,7 +21754,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20910
+      "UsersEstimate": 20911
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -21932,15 +21937,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130690,
+      "Progressed": 130691,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:05:08.4059135+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:04:41.8355412+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:58:34.8080199+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:05:08.4060623+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:58:07.469234+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:04:41.8356687+00:00"
 }

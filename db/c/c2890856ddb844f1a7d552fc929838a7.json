@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2680,9 +2680,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 825
     },
     {
       "ID": "AC41",
@@ -2737,8 +2737,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-11T17:10:56.6828082+00:00",
+  "LastChanged_Achievements": "2023-11-11T18:10:21.0461716+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:16.3145336+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:59:19.046272+00:00",
-  "LastUpdate_Achievements": "2023-11-11T17:10:56.6828653+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:58:50.3930503+00:00",
+  "LastUpdate_Achievements": "2023-11-11T18:10:21.046207+00:00"
 }
