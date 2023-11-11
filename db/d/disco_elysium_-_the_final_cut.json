@@ -3,12 +3,12 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 175,
+  "Ranking_Popularity": 176,
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130669,
+  "EOS_Progressed": 130671,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21537,6 +21537,11 @@
       "Time": "2023-11-11T01:45:50.159169+00:00",
       "NumProgressed": 130669,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-11T02:51:02.1676474+00:00",
+      "NumProgressed": 130671,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21580,7 +21585,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23520
+      "UsersEstimate": 23521
     },
     {
       "ID": "ACH_COP_BAD",
@@ -21628,7 +21633,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36587
+      "UsersEstimate": 36588
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21660,7 +21665,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27440
+      "UsersEstimate": 27441
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -21867,15 +21872,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130669,
+      "Progressed": 130671,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:45:50.1591683+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:51:02.167647+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:39:32.7215857+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:45:50.1593831+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:44:47.9458007+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:51:02.1678131+00:00"
 }

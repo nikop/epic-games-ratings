@@ -12,7 +12,7 @@
 | Find Allies | 27.00% | ~48 |
 | Fashion Victim | 27.00% | ~48 |
 | I Found It | 27.00% | ~48 |
-| Adventurer | 25.00% | ~44 |
+| Adventurer | 26.00% | ~46 |
 | Geared Up | 24.00% | ~42 |
 | Scholar | 24.00% | ~42 |
 | Powerful Allies | 23.00% | ~41 |

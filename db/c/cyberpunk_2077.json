@@ -14954,10 +14954,10 @@
       "Count": 12694
     }
   ],
-  "EOS_Progressed": 896096,
+  "EOS_Progressed": 896097,
   "EOS_Completed": 2761,
-  "EOS_NewPlayers": 991,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 982,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38119,6 +38119,11 @@
       "Time": "2023-11-11T01:46:49.6161154+00:00",
       "NumProgressed": 896096,
       "NumCompleted": 2761
+    },
+    {
+      "Time": "2023-11-11T02:51:45.6235354+00:00",
+      "NumProgressed": 896097,
+      "NumCompleted": 2761
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38633,9 +38638,9 @@
       "ID": "KingOfTheWands",
       "SetID": "23nboa5",
       "Name": "King of Wands",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 74
     },
     {
       "ID": "TheTower",
@@ -38666,21 +38671,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896096,
+      "Progressed": 896097,
       "Completed": 2761
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24719,
+      "Progressed": 24720,
       "Completed": 10207
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-11T01:40:39.419962+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:46:49.6161148+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:51:45.6235347+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:40:39.4199633+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:46:49.6164346+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:45:32.7761532+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:51:45.6237391+00:00"
 }

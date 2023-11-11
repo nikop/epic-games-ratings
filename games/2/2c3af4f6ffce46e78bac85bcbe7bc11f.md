@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something ever-changing... | 13.00% | ~12 |
-| Something foundational... | 13.00% | ~12 |
-| Something to make you dream... | 13.00% | ~12 |
-| Something to long for... | 13.00% | ~12 |
-| Something fully in bloom... | 12.00% | ~11 |
-| Something natural... | 12.00% | ~11 |
-| Something firmly rooted... | 12.00% | ~11 |
-| Something free... | 11.00% | ~10 |
-| Something gentle... | 11.00% | ~10 |
-| Somewhere to belong... | 11.00% | ~10 |
-| Something monumental... | 11.00% | ~10 |
-| Something reflective... | 11.00% | ~10 |
-| Something to make you dream... (fragile) | 9.00% | ~8 |
+| Something ever-changing... | 15.00% | ~13 |
+| Something foundational... | 15.00% | ~13 |
+| Something to make you dream... | 15.00% | ~13 |
+| Something to long for... | 15.00% | ~13 |
+| Something fully in bloom... | 13.00% | ~12 |
+| Something natural... | 13.00% | ~12 |
+| Something firmly rooted... | 13.00% | ~12 |
+| Something free... | 12.00% | ~11 |
+| Something gentle... | 12.00% | ~11 |
+| Somewhere to belong... | 12.00% | ~11 |
+| Something monumental... | 12.00% | ~11 |
+| Something reflective... | 12.00% | ~11 |
+| Something to make you dream... (fragile) | 10.00% | ~9 |
+| Something ever-changing... (fragile) | 9.00% | ~8 |
+| Something to long for... (fragile) | 9.00% | ~8 |
 | Something free... (fragile) | 8.00% | ~7 |
 | Something gentle... (fragile) | 8.00% | ~7 |
-| Something ever-changing... (fragile) | 8.00% | ~7 |
 | Something fully in bloom... (fragile) | 8.00% | ~7 |
 | Something fragile... | 8.00% | ~7 |
 | Something foundational... (fragile) | 8.00% | ~7 |
 | Somewhere to belong... (fragile) | 8.00% | ~7 |
 | Something monumental... (fragile) | 8.00% | ~7 |
-| Something to long for... (fragile) | 8.00% | ~7 |
 | Something firmly rooted... (fragile) | 8.00% | ~7 |
 | Something reflective... (fragile) | 8.00% | ~7 |
+| Something more... | 6.00% | ~5 |
 | Something more... (fragile) | 6.00% | ~5 |
-| Something more... | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 89 (Ranked 430)  
 Completed: 4 (4.49%) (Ranked 75)  

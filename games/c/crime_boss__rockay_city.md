@@ -5,9 +5,9 @@ Rating: 3.95 (Ranked 1,004)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 2.00% | ~1,805 |
-| First One’s Free | 2.00% | ~1,805 |
-| Downed but Not Outed | 2.00% | ~1,805 |
+| Neophyte Ninja | 2.00% | ~1,806 |
+| First One’s Free | 2.00% | ~1,806 |
+| Downed but Not Outed | 2.00% | ~1,806 |
 | Underworld Initiate | 1.00% | ~903 |
 | Roid Ranger | 1.00% | ~903 |
 | Too Old for This | 1.00% | ~903 |
@@ -16,8 +16,8 @@ Rating: 3.95 (Ranked 1,004)
 | Off the Rocks | 1.00% | ~903 |
 | Raider’s Ruin | 1.00% | ~903 |
 | Dragonslayer | 1.00% | ~903 |
-| Case Closed | 0.90% | ~812 |
-| Rockay Rex | 0.90% | ~812 |
+| Case Closed | 0.90% | ~813 |
+| Rockay Rex | 0.90% | ~813 |
 | Hidden Sonata | 0.80% | ~722 |
 | Track Star | 0.70% | ~632 |
 | True Player | 0.70% | ~632 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,272 (Ranked 91)  
+Progressed: 90,288 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
-| 2023-11-11 | 90,272 | 55 |
+| 2023-11-11 | 90,288 | 55 |
 ## Awards
 Max (Diverse Characters): 526  (Ranked 203)  
 Sum: 2,984 (Ranked 175)  

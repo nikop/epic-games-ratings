@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 130,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -303,9 +303,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20549,
+  "EOS_Progressed": 20555,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8073,6 +8073,11 @@
       "Time": "2023-11-11T01:51:08.0882109+00:00",
       "NumProgressed": 20549,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-11T02:56:09.1831877+00:00",
+      "NumProgressed": 20555,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -8100,7 +8105,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "FirstTame",
@@ -8108,7 +8113,7 @@
       "Name": "Forming bonds",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "MeetElder",
@@ -8140,7 +8145,7 @@
       "Name": "Vertebrate hunter",
       "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "PickupChitin",
@@ -8148,7 +8153,7 @@
       "Name": "Insect hunter",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "PickupKey",
@@ -8180,14 +8185,14 @@
       "Name": "Stone Age",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 20549,
+      "Progressed": 20555,
       "Completed": 18
     }
   ],
@@ -8195,8 +8200,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-11-10T07:00:35.0883667+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:51:08.0882103+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:56:09.1831873+00:00",
   "LastUpdate_AppInfo": "2023-11-04T13:57:09.5893986+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:43:31.2276912+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:51:08.0882885+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:47:28.2391261+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:56:09.1832492+00:00"
 }

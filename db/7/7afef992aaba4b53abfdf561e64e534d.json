@@ -4,8 +4,8 @@
   "ProductSlug": "prince-of-persia",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-09T16:00:00+00:00",
     "PcReleaseDate": "2008-12-10T15:20:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-13T17:57:02.155607+00:00",
   "LastUpdate_AppInfo": "2023-11-08T07:57:15.0196057+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:40:17.8604382+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:46:59.3968913+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:45:18.2578598+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:51:52.5678411+00:00"
 }

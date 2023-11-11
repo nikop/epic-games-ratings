@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11907,9 +11907,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 451825,
+  "EOS_Progressed": 451859,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5545,
+  "EOS_NewPlayers": 5557,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35297,6 +35297,11 @@
       "Time": "2023-11-11T01:48:53.3259618+00:00",
       "NumProgressed": 451825,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T02:53:13.5495005+00:00",
+      "NumProgressed": 451859,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36050,9 +36055,9 @@
       "ID": "achievement_even_better_than_piet_heyn",
       "SetID": "8p2n7he",
       "Name": "Even Better than Piet Heyn",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 452
     },
     {
       "ID": "achievement_everythings_coming_up_mulhouse",
@@ -38211,21 +38216,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 451825,
+      "Progressed": 451859,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 451825,
+      "Progressed": 451859,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-11T01:41:43.6652834+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:48:53.3259611+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:53:13.5495001+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:20.4440339+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:41:43.6652846+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:48:53.3274948+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:46:15.7759069+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:53:13.550864+00:00"
 }

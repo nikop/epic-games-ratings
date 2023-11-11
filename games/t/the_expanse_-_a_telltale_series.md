@@ -14,6 +14,7 @@ Rating: 4.56 (Ranked 486)
 | Impossible Objects | 3.00% | ~445 |
 | Safe Cracker | 3.00% | ~23 |
 | Zen Master | 3.00% | ~23 |
+| Madame Undersecretary | 3.00% | ~23 |
 | Data Archivist | 2.00% | ~296 |
 | Stogie for Fogey | 2.00% | ~296 |
 | Spore Taste | 2.00% | ~296 |
@@ -24,7 +25,6 @@ Rating: 4.56 (Ranked 486)
 | Captain Drummer | 2.00% | ~296 |
 | Keep Arjun in Check | 2.00% | ~15 |
 | Master Negotiator | 2.00% | ~15 |
-| Madame Undersecretary | 2.00% | ~15 |
 | Doctor Approved | 1.00% | ~148 |
 | Bottoms up! | 1.00% | ~148 |
 | Thorston Mayer | 1.00% | ~148 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 486)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,818 (Ranked 146)  
+Progressed: 14,819 (Ranked 146)  
 Completed: 34 (0.23%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 34 (0.23%) (Ranked 236)
 | 2023-11-08 | 14,766 | 33 |
 | 2023-11-09 | 14,788 | 33 |
 | 2023-11-10 | 14,816 | 34 |
-| 2023-11-11 | 14,818 | 34 |
+| 2023-11-11 | 14,819 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

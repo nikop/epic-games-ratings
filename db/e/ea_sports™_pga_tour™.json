@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 134,
   "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 519,
+  "EOS_Progressed": 520,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.54,
   "EosHistory": [
@@ -1755,6 +1755,11 @@
       "Time": "2023-11-10T21:16:55.4820541+00:00",
       "NumProgressed": 519,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-11T02:56:02.4582476+00:00",
+      "NumProgressed": 520,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1775,7 +1780,7 @@
       "Name": "Holey Moley",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "achievement_11",
@@ -1789,9 +1794,9 @@
       "ID": "achievement_12",
       "SetID": "7ldgi7j",
       "Name": "From Way Downtown",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 343
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_13",
@@ -1823,7 +1828,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "achievement_17",
@@ -1861,9 +1866,9 @@
       "ID": "achievement_4",
       "SetID": "7ldgi7j",
       "Name": "From Many, One",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 146
     },
     {
       "ID": "achievement_5",
@@ -1910,13 +1915,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 519,
+      "Progressed": 520,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:50:58.7927112+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:56:02.458247+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.7077213+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:43:42.3578002+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:50:58.792741+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:47:35.475535+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:56:02.4582741+00:00"
 }

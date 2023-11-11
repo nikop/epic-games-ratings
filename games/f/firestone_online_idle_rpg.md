@@ -78,8 +78,8 @@ Rating: 4.10 (Ranked 958)
 | Beast War Machines | 0.90% | ~20 |
 | Silverwood liberator | 0.80% | ~18 |
 | Ultimate War Machines | 0.80% | ~18 |
+| Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
-| Jewel Enchanting | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,190 (Ranked 216)  
 Completed: 2 (0.09%) (Ranked 275)  

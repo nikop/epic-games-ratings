@@ -56,6 +56,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Early-Modern Warfare | 0.10% | ~452 |
 | Electable! | 0.10% | ~452 |
 | The Emperors new clothes | 0.10% | ~452 |
+| Even Better than Piet Heyn | 0.10% | ~452 |
 | Factionalism | 0.10% | ~452 |
 | Fine Financials | 0.10% | ~452 |
 | A Fine Goosestep | 0.10% | ~452 |
@@ -227,7 +228,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Eat your Greens | 0.00% | ~0 |
 | Emperor of Hindustan | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
-| Even Better than Piet Heyn | 0.00% | ~0 |
 | Everything's Coming Up Mulhouse | 0.00% | ~0 |
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 451,825 (Ranked 41)  
+Progressed: 451,859 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,7 +575,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
-| 2023-11-11 | 451,825 | 1 |
+| 2023-11-11 | 451,859 | 1 |
 ## Awards
 Max (Educational): 6,930  (Ranked 54)  
 Sum: 57,048 (Ranked 24)  

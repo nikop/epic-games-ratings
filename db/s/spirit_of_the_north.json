@@ -2,13 +2,13 @@
   "ID": "6098a8c7375c43458a22163a637c0c2f",
   "Name": "Spirit of the North",
   "ProductSlug": "spirit-of-the-north-f58a66",
-  "Ranking_Rating": 780,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 512,
   "Ranking_PopularitySum": 433,
   "Ranking_EOS_Progress": 98,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 32,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73846,
+  "EOS_Progressed": 73848,
   "EOS_Completed": 391,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -22843,6 +22843,11 @@
       "Time": "2023-11-11T01:50:55.5879141+00:00",
       "NumProgressed": 73846,
       "NumCompleted": 391
+    },
+    {
+      "Time": "2023-11-11T02:56:00.1237049+00:00",
+      "NumProgressed": 73848,
+      "NumCompleted": 391
     }
   ],
   "TotalAchievements": 24,
@@ -22862,7 +22867,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16246
+      "UsersEstimate": 16247
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -22870,7 +22875,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50215
+      "UsersEstimate": 50217
     },
     {
       "ID": "BEST_FRIENDS",
@@ -22878,7 +22883,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16246
+      "UsersEstimate": 16247
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -22910,7 +22915,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21415
+      "UsersEstimate": 21416
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -22926,7 +22931,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 13292
+      "UsersEstimate": 13293
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -22934,7 +22939,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39138
+      "UsersEstimate": 39139
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -23038,14 +23043,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11815
+      "UsersEstimate": 11816
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73846,
+      "Progressed": 73848,
       "Completed": 391
     }
   ],
@@ -23053,8 +23058,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:50:55.5879136+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:56:00.1237042+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:53.4635591+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:44:38.2881624+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:50:55.5881047+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:47:52.4512533+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:56:00.1238644+00:00"
 }

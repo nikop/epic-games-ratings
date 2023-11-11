@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4545,9 +4545,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 90272,
+  "EOS_Progressed": 90288,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 741,
+  "EOS_NewPlayers": 757,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24760,6 +24760,11 @@
       "Time": "2023-11-11T01:46:56.6554475+00:00",
       "NumProgressed": 90272,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-11T02:51:50.619779+00:00",
+      "NumProgressed": 90288,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24771,7 +24776,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACH_0011",
@@ -24915,7 +24920,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACH_0210",
@@ -24923,7 +24928,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1805
+      "UsersEstimate": 1806
     },
     {
       "ID": "ACH_0211",
@@ -24987,7 +24992,7 @@
       "Name": "Case Closed",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ACH_0420",
@@ -25059,7 +25064,7 @@
       "Name": "Rockay Rex",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "ACH_1010",
@@ -25098,13 +25103,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90272,
+      "Progressed": 90288,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18619,
+      "Progressed": 18635,
       "Completed": 15565
     }
   ],
@@ -25112,8 +25117,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-10T15:00:35.9861711+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:46:56.6554466+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:51:50.6197774+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:43:51.9559022+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:46:56.65565+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:47:41.8786104+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:51:50.6199429+00:00"
 }

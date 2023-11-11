@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 522)  
+Rating: 4.54 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -10,12 +10,12 @@ Rating: 4.54 (Ranked 522)
 | One of Us | 1.00% | ~418 |
 | Welcome To Hell-A | 0.70% | ~5,014 |
 | Break A Leg | 0.60% | ~4,298 |
+| Coup de Grâce | 0.60% | ~4,298 |
 | Hotel California | 0.60% | ~4,298 |
 | Dr. Reed, I Presume? | 0.50% | ~3,581 |
 | Git Gutte! | 0.50% | ~3,581 |
 | Anger Management | 0.50% | ~3,581 |
 | Bookworm | 0.50% | ~3,581 |
-| Coup de Grâce | 0.50% | ~3,581 |
 | Hazardous Materials | 0.50% | ~3,581 |
 | Friends Like These | 0.50% | ~3,581 |
 | Apex Predator | 0.50% | ~3,581 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,254 (Ranked 21)  
+Progressed: 716,275 (Ranked 21)  
 Completed: 2,374 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,10 +262,10 @@ Completed: 2,374 (0.33%) (Ranked 220)
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
-| 2023-11-11 | 716,254 | 2,374 |
+| 2023-11-11 | 716,275 | 2,374 |
 ## Awards
 Max (Great Boss Battles): 7,279  (Ranked 53)  
-Sum: 11,038 (Ranked 86)  
+Sum: 11,044 (Ranked 86)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -273,7 +273,7 @@ Diff (max vs sum): -33
 | This game is Great for Beginners | 533 |
 | This game has Diverse Characters | 526 |
 | This game has Quickly Understood Controls | 503 |
-| This game is Relaxing | 469 |
+| This game is Relaxing | 475 |
 | This game has Amazing Storytelling | 453 |
 | This game is Highly Recommended | 437 |
 | This game is Extremely Fun | 435 |
@@ -485,3 +485,4 @@ Diff (max vs sum): -33
 | 2023-11-08 | 4.54 | 7,208 | 10,930 |
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
 | 2023-11-10 | 4.54 | 7,279 | 11,038 |
+| 2023-11-11 | 4.54 | 7,279 | 11,044 |

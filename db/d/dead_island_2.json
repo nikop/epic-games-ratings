@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 522,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 21,
@@ -6295,10 +6295,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11038,
       "NumberOfAwardsMax": 7279
+    },
+    {
+      "Time": "2023-11-11T02:46:40.6240152+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11044,
+      "NumberOfAwardsMax": 7279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11038,
+  "NumberOfAwards": 11044,
   "NumberOfAwardsMax": 7279,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6348,7 +6354,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 469
+      "Count": 475
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6357,9 +6363,9 @@
       "Count": 453
     }
   ],
-  "EOS_Progressed": 716254,
+  "EOS_Progressed": 716275,
   "EOS_Completed": 2374,
-  "EOS_NewPlayers": 4447,
+  "EOS_NewPlayers": 4432,
   "EOS_NewCompleters": 57,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29697,6 +29703,11 @@
       "Time": "2023-11-11T01:45:21.3376964+00:00",
       "NumProgressed": 716254,
       "NumCompleted": 2374
+    },
+    {
+      "Time": "2023-11-11T02:50:41.6457432+00:00",
+      "NumProgressed": 716275,
+      "NumCompleted": 2374
     }
   ],
   "TotalAchievements": 51,
@@ -29826,9 +29837,9 @@
       "ID": "ach_finisher",
       "SetID": "7km39fm",
       "Name": "Coup de Gr\u00E2ce",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3581
+      "UsersEstimate": 4298
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -30115,22 +30126,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 716254,
+      "Progressed": 716275,
       "Completed": 2374
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 41796,
+      "Progressed": 41817,
       "Completed": 36519
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-10T18:59:33.6465375+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:45:21.3376959+00:00",
+  "LastChanged": "2023-11-11T02:46:40.6240124+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:50:41.6457426+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:42:19.6435992+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:45:21.3379269+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:46:40.6240156+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:50:41.6459491+00:00"
 }

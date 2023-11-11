@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 241,
-  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3225,9 +3225,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30715,
+  "EOS_Progressed": 30720,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 746,
+  "EOS_NewPlayers": 740,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -18745,6 +18745,11 @@
       "Time": "2023-11-11T01:46:34.6373805+00:00",
       "NumProgressed": 30715,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2023-11-11T02:51:34.3152451+00:00",
+      "NumProgressed": 30720,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 51,
@@ -18764,7 +18769,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "Back_Off",
@@ -18796,7 +18801,7 @@
       "Name": "Clutch Capture",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "Collect_Spores",
@@ -18820,7 +18825,7 @@
       "Name": "Cultured",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "Daily_Dose",
@@ -18828,7 +18833,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "Diabolical",
@@ -18900,7 +18905,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "Ghost_Expert",
@@ -19004,7 +19009,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "Rivalry",
@@ -19116,7 +19121,7 @@
       "Name": "There you are!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "Tobins_Prodigy",
@@ -19156,14 +19161,14 @@
       "Name": "Whoopsie",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30715,
+      "Progressed": 30720,
       "Completed": 66
     }
   ],
@@ -19171,8 +19176,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-10T17:16:45.955705+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:46:34.6373798+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:51:34.3152446+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:43:45.3106452+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:46:34.6376238+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:47:37.4095849+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:51:34.3153929+00:00"
 }

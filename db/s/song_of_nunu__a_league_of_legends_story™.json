@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 632,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -1195,9 +1195,9 @@
       "ID": "EV_ACH17",
       "SetID": "6jeac23",
       "Name": "Iceborn",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 341
+      "UsersEstimate": 348
     },
     {
       "ID": "EV_ACH18",
@@ -1411,9 +1411,9 @@
       "ID": "EV_ACH44",
       "SetID": "6jeac23",
       "Name": "Snowball Fightn\u0027t",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
@@ -1426,8 +1426,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:51:35.0398028+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:56:28.6395754+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:27.3298895+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:44:50.9472379+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:51:35.0398554+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:50:20.7652525+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:56:28.6396209+00:00"
 }

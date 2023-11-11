@@ -4,8 +4,8 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3941,
+  "EOS_Progressed": 3942,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -9574,6 +9574,11 @@
       "Time": "2023-11-11T01:48:55.8936063+00:00",
       "NumProgressed": 3941,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-11T02:53:15.0170563+00:00",
+      "NumProgressed": 3942,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -9657,7 +9662,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 3192
+      "UsersEstimate": 3193
     },
     {
       "ID": "ach_food_completed",
@@ -9689,7 +9694,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "ach_no_boosters",
@@ -9705,21 +9710,21 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3941,
+      "Progressed": 3942,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:48:55.8936055+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:53:15.0170554+00:00",
   "LastUpdate_AppInfo": "2023-11-10T19:57:16.0222462+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:39:43.9754535+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:48:55.8936818+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:44:55.6245879+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:53:15.0171276+00:00"
 }

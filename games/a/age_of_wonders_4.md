@@ -13,10 +13,11 @@ Rating: 4.61 (Ranked 384)
 | Freed Lands of Manuhari | 0.40% | ~21 |
 | Spoils of War | 0.40% | ~21 |
 | There Can Only Be One! | 0.30% | ~16 |
+| Full Ascension | 0.30% | ~16 |
 | Bone Peddler | 0.30% | ~16 |
 | From Friends to Family | 0.30% | ~16 |
 | Magical Synergy | 0.30% | ~16 |
-| Full Ascension | 0.20% | ~11 |
+| Chaos Surge | 0.30% | ~16 |
 | Stronger Together | 0.20% | ~11 |
 | Seat of Power | 0.20% | ~11 |
 | In a Liege of Your Own | 0.20% | ~11 |
@@ -27,7 +28,6 @@ Rating: 4.61 (Ranked 384)
 | Mighty Hoard | 0.20% | ~11 |
 | Sehiran Oasis | 0.20% | ~11 |
 | Prometheus Avenged | 0.20% | ~11 |
-| Chaos Surge | 0.20% | ~11 |
 | A Conqueror's Cohort | 0.20% | ~11 |
 | Dawn of the Dread | 0.20% | ~11 |
 | Valley of Wonders | 0.10% | ~5 |

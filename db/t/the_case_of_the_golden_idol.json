@@ -4,8 +4,8 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 82,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 203,
+  "EOS_Progressed": 204,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.94,
+  "EOS_Completed_Percentage": 3.92,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -821,6 +821,11 @@
       "Time": "2023-11-10T23:06:44.0708222+00:00",
       "NumProgressed": 203,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-11T02:53:51.2510159+00:00",
+      "NumProgressed": 204,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -920,7 +925,7 @@
       "Name": "Solved The Spider of Lanka 1st Case",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "12",
@@ -967,13 +972,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 203,
+      "Progressed": 204,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 150,
+      "Progressed": 151,
       "Completed": 109
     }
   ],
@@ -981,8 +986,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2023-11-11T01:49:46.6366042+00:00",
+  "LastChanged_Achievements": "2023-11-11T02:53:51.2510154+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.4325624+00:00",
-  "LastUpdate_Ratings": "2023-11-11T01:43:27.7632232+00:00",
-  "LastUpdate_Achievements": "2023-11-11T01:49:46.6366264+00:00"
+  "LastUpdate_Ratings": "2023-11-11T02:47:25.9076352+00:00",
+  "LastUpdate_Achievements": "2023-11-11T02:53:51.2510327+00:00"
 }
