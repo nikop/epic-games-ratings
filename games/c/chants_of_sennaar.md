@@ -12,9 +12,9 @@
 | Scholar | 21.00% | ~109 |
 | True G3M4R | 20.00% | ~104 |
 | The darkness | 20.00% | ~104 |
-| A good beginning | 19.00% | ~98 |
-| One last step | 19.00% | ~98 |
 | Cable guy | 18.00% | ~93 |
+| A good beginning | 18.00% | ~93 |
+| One last step | 18.00% | ~93 |
 | I did it | 17.00% | ~88 |
 | Peace walker | 17.00% | ~88 |
 | Half the way | 17.00% | ~88 |
@@ -27,11 +27,11 @@
 | A Link to the Past | 11.00% | ~57 |
 | Rascal | 11.00% | ~57 |
 | A great audience | 9.00% | ~47 |
-| For its own good | 8.00% | ~41 |
+| For its own good | 8.00% | ~42 |
 | Fashion victim | 3.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 518 (Ranked 299)  
-Completed: 28 (5.41%) (Ranked 68)  
+Progressed: 519 (Ranked 298)  
+Completed: 28 (5.39%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -142,4 +142,4 @@ Completed: 28 (5.41%) (Ranked 68)
 | 2023-11-08 | 495 | 28 |
 | 2023-11-09 | 505 | 28 |
 | 2023-11-10 | 512 | 28 |
-| 2023-11-11 | 518 | 28 |
+| 2023-11-11 | 519 | 28 |

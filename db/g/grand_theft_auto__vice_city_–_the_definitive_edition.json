@@ -835,7 +835,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 10976,
+  "EOS_Progressed": 10977,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
@@ -12745,6 +12745,11 @@
       "Time": "2023-11-11T01:47:58.9805302+00:00",
       "NumProgressed": 10976,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-11T06:04:52.8030614+00:00",
+      "NumProgressed": 10977,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12940,7 +12945,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "ACH25",
@@ -12948,7 +12953,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1646
+      "UsersEstimate": 1647
     },
     {
       "ID": "ACH26",
@@ -13027,7 +13032,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10976,
+      "Progressed": 10977,
       "Completed": 64
     }
   ],
@@ -13035,8 +13040,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-09T19:58:38.2755624+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:05:01.5987168+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:04:52.8030609+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-11T04:58:22.8778424+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:05:01.5988112+00:00"
+  "LastUpdate_Ratings": "2023-11-11T05:58:33.7237981+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:04:52.8031769+00:00"
 }

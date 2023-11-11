@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 183,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.83,
   "EosHistory": [
@@ -814,9 +814,9 @@
       "ID": "BUY_FUSION_BOMB_LEVEL_1",
       "SetID": "14g34pl",
       "Name": "Kaboom!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 75
+      "UsersEstimate": 77
     },
     {
       "ID": "BUY_LASER_BEAM_LEVEL_1",
@@ -894,9 +894,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "14g34pl",
       "Name": "Northbarrow is safe!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -957,8 +957,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:03:38.9052688+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:03:27.8017218+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
-  "LastUpdate_Ratings": "2023-11-11T04:57:20.1014054+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:03:38.9052828+00:00"
+  "LastUpdate_Ratings": "2023-11-11T05:57:28.298365+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:03:27.8017398+00:00"
 }

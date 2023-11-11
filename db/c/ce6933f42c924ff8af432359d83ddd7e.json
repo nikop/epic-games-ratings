@@ -2,10 +2,10 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 303,
+  "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 485,
+  "EOS_Progressed": 486,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.33,
+  "EOS_Completed_Percentage": 4.32,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1324,6 +1324,11 @@
       "Time": "2023-11-11T05:08:36.9180953+00:00",
       "NumProgressed": 485,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-11T06:08:40.5919811+00:00",
+      "NumProgressed": 486,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1352,7 +1357,7 @@
       "Name": "Sweet tooth",
       "Percentage": 71,
       "XP": 45,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -1382,9 +1387,9 @@
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 291
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1415,14 +1420,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 485,
+      "Progressed": 486,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:08:36.9180947+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:08:40.5919807+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:02:28.0086233+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:08:36.9181096+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:00:13.2520965+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:08:40.5920028+00:00"
 }

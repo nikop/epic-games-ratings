@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1156,
+  "EOS_Progressed": 1157,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -3359,6 +3359,11 @@
       "Time": "2023-11-11T05:09:07.1553947+00:00",
       "NumProgressed": 1156,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T06:09:12.32961+00:00",
+      "NumProgressed": 1157,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3403,7 +3408,7 @@
       "Name": "What\u0027s the cargo?",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_14",
@@ -3443,7 +3448,7 @@
       "Name": "The power of the Force",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_19",
@@ -3515,7 +3520,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_27",
@@ -3595,7 +3600,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "achievement_36",
@@ -3675,7 +3680,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "achievement_45",
@@ -3723,7 +3728,7 @@
       "Name": "Shoot first",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "achievement_50",
@@ -3851,7 +3856,7 @@
       "Name": "A cunning warrior",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_8",
@@ -3874,13 +3879,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1156,
+      "Progressed": 1157,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1156,
+      "Progressed": 1157,
       "Completed": 1
     }
   ],
@@ -3888,8 +3893,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:09:07.1553942+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:09:12.3296096+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-11T04:58:47.3193609+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:09:07.1554735+00:00"
+  "LastUpdate_Ratings": "2023-11-11T05:58:59.3600673+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:09:12.3296929+00:00"
 }

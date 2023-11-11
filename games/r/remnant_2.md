@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,756 |
-| The Killing Jar | 8.00% | ~17,561 |
+| First of Many | 9.00% | ~19,757 |
+| The Killing Jar | 8.00% | ~17,562 |
 | Expanding Horizons | 7.00% | ~15,366 |
 | Quest for Survival | 7.00% | ~15,366 |
 | Not Your Average Trait | 7.00% | ~15,366 |
@@ -24,25 +24,25 @@ Rating: 4.75 (Ranked 145)
 | Almost There | 5.00% | ~10,976 |
 | Make Some Room | 5.00% | ~10,976 |
 | Good, But Could Be Better! | 5.00% | ~10,976 |
-| Chaos | 4.00% | ~8,780 |
-| Traitor | 4.00% | ~8,780 |
-| Power Surge | 4.00% | ~8,780 |
-| The God Gambit | 4.00% | ~8,780 |
-| Dark Designs | 4.00% | ~8,780 |
-| Madman's Paradise | 4.00% | ~8,780 |
-| Was This Supposed To Happen? | 4.00% | ~8,780 |
-| The Web | 4.00% | ~8,780 |
-| Scrap Collector | 4.00% | ~8,780 |
-| All These Traits� | 4.00% | ~8,780 |
-| Am I Seeing This? | 3.00% | ~6,585 |
-| Forever is a Long Time Coming | 3.00% | ~6,585 |
-| The Agenda | 3.00% | ~6,585 |
-| Tall Tales | 3.00% | ~6,585 |
-| Bad Moon Rising | 3.00% | ~6,585 |
-| Strapped | 3.00% | ~6,585 |
-| Edgelord | 3.00% | ~6,585 |
-| The Ultimate Weapon | 3.00% | ~6,585 |
-| No One Should Have All That Power | 3.00% | ~6,585 |
+| Chaos | 4.00% | ~8,781 |
+| Traitor | 4.00% | ~8,781 |
+| Power Surge | 4.00% | ~8,781 |
+| The God Gambit | 4.00% | ~8,781 |
+| Dark Designs | 4.00% | ~8,781 |
+| Madman's Paradise | 4.00% | ~8,781 |
+| Was This Supposed To Happen? | 4.00% | ~8,781 |
+| The Web | 4.00% | ~8,781 |
+| Scrap Collector | 4.00% | ~8,781 |
+| All These Traits� | 4.00% | ~8,781 |
+| Am I Seeing This? | 3.00% | ~6,586 |
+| Forever is a Long Time Coming | 3.00% | ~6,586 |
+| The Agenda | 3.00% | ~6,586 |
+| Tall Tales | 3.00% | ~6,586 |
+| Bad Moon Rising | 3.00% | ~6,586 |
+| Strapped | 3.00% | ~6,586 |
+| Edgelord | 3.00% | ~6,586 |
+| The Ultimate Weapon | 3.00% | ~6,586 |
+| No One Should Have All That Power | 3.00% | ~6,586 |
 | Crafty | 2.00% | ~4,390 |
 | Only Human | 2.00% | ~4,390 |
 | Red Room | 2.00% | ~4,390 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,195 |
 | Proving Grounds | 1.00% | ~2,195 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,511 (Ranked 68)  
+Progressed: 219,521 (Ranked 68)  
 Completed: 438 (0.20%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,7 +174,7 @@ Completed: 438 (0.20%) (Ranked 246)
 | 2023-11-08 | 218,941 | 435 |
 | 2023-11-09 | 219,166 | 435 |
 | 2023-11-10 | 219,442 | 438 |
-| 2023-11-11 | 219,511 | 438 |
+| 2023-11-11 | 219,521 | 438 |
 ## Awards
 Max (Great Boss Battles): 2,129  (Ranked 109)  
 Sum: 4,805 (Ranked 142)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 51,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6961,9 +6961,9 @@
       "Count": 3776
     }
   ],
-  "EOS_Progressed": 139214,
+  "EOS_Progressed": 139221,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27881,6 +27881,11 @@
       "Time": "2023-11-11T05:05:08.9265895+00:00",
       "NumProgressed": 139214,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-11T06:05:00.4755867+00:00",
+      "NumProgressed": 139221,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -27916,7 +27921,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "advlevel05",
@@ -27924,7 +27929,7 @@
       "Name": "Top of the World",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "argon_a",
@@ -27932,7 +27937,7 @@
       "Name": "Proud Paladin",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "ascend01",
@@ -27964,7 +27969,7 @@
       "Name": "A Ronin Reborn",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "bigsale01",
@@ -28012,7 +28017,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "bookentry",
@@ -28076,7 +28081,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "collection01",
@@ -28100,7 +28105,7 @@
       "Name": "Archivist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "collection04",
@@ -28156,7 +28161,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4176
+      "UsersEstimate": 4177
     },
     {
       "ID": "craft02",
@@ -28212,7 +28217,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "donovan_a",
@@ -28260,7 +28265,7 @@
       "Name": "Supercharged",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "expansion01",
@@ -28268,7 +28273,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4176
+      "UsersEstimate": 4177
     },
     {
       "ID": "expansion02",
@@ -28292,7 +28297,7 @@
       "Name": "Ritualist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "furniture01",
@@ -28324,7 +28329,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "fuseflawless",
@@ -28468,7 +28473,7 @@
       "Name": "Item of Renown",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "level01",
@@ -28492,7 +28497,7 @@
       "Name": "Master Merchant",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "level04",
@@ -28532,7 +28537,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "loot04",
@@ -28572,7 +28577,7 @@
       "Name": "Precision Engineering",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "master05",
@@ -28644,7 +28649,7 @@
       "Name": "Treasure Trove",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "rareres03",
@@ -28660,7 +28665,7 @@
       "Name": "Moment of Respite",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "sell01",
@@ -28668,7 +28673,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4176
+      "UsersEstimate": 4177
     },
     {
       "ID": "sell02",
@@ -28692,7 +28697,7 @@
       "Name": "King\u0027s Shadow",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "transmuter",
@@ -28700,7 +28705,7 @@
       "Name": "Master Recycler",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 974
+      "UsersEstimate": 975
     },
     {
       "ID": "tutorial",
@@ -28787,15 +28792,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139214,
+      "Progressed": 139221,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-10T18:59:44.5777539+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:05:08.9265889+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:05:00.4755855+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-11T04:59:15.2454262+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:05:08.9267656+00:00"
+  "LastUpdate_Ratings": "2023-11-11T05:59:29.387598+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:05:00.4758795+00:00"
 }

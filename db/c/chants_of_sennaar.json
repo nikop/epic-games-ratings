@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 33,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.41,
+  "EOS_Completed_Percentage": 5.39,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2215,6 +2215,11 @@
       "Time": "2023-11-11T04:06:22.9452415+00:00",
       "NumProgressed": 518,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-11T06:04:51.9288279+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2256,9 +2261,9 @@
       "ID": "META_FIRST_LINK",
       "SetID": "2gma9an",
       "Name": "A good beginning",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 93
     },
     {
       "ID": "META_HALF_LINK",
@@ -2306,7 +2311,7 @@
       "Name": "For its own good",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2416,23 +2421,23 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 98
+      "UsersEstimate": 93
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:05:00.6788468+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:04:51.9288269+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-11T04:58:57.9837684+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:05:00.6788706+00:00"
+  "LastUpdate_Ratings": "2023-11-11T05:59:11.3029149+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:04:51.9288622+00:00"
 }

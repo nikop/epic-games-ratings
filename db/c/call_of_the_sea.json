@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129179,
+  "EOS_Progressed": 129181,
   "EOS_Completed": 1105,
-  "EOS_NewPlayers": 1112,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -23545,6 +23545,11 @@
       "Time": "2023-11-11T05:03:52.1020666+00:00",
       "NumProgressed": 129179,
       "NumCompleted": 1105
+    },
+    {
+      "Time": "2023-11-11T06:03:41.7605335+00:00",
+      "NumProgressed": 129181,
+      "NumCompleted": 1105
     }
   ],
   "TotalAchievements": 34,
@@ -23572,7 +23577,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 54255
+      "UsersEstimate": 54256
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -23612,7 +23617,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 103343
+      "UsersEstimate": 103345
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -23628,7 +23633,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 72340
+      "UsersEstimate": 72341
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -23636,7 +23641,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 36170
+      "UsersEstimate": 36171
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -23644,7 +23649,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 50380
+      "UsersEstimate": 50381
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -23652,7 +23657,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 34878
+      "UsersEstimate": 34879
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -23724,7 +23729,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 34878
+      "UsersEstimate": 34879
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -23732,7 +23737,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 36170
+      "UsersEstimate": 36171
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -23740,7 +23745,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 21960
+      "UsersEstimate": 21961
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -23812,7 +23817,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 29711
+      "UsersEstimate": 29712
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -23827,7 +23832,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 129179,
+      "Progressed": 129181,
       "Completed": 1105
     }
   ],
@@ -23835,8 +23840,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-10-24T13:02:43.2101137+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:03:52.1020661+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:03:41.7605328+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:05.9938118+00:00",
-  "LastUpdate_Ratings": "2023-11-11T04:59:29.3967407+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:03:52.1021965+00:00"
+  "LastUpdate_Ratings": "2023-11-11T05:59:44.1695657+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:03:41.7607347+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4777,
+  "EOS_Progressed": 4779,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9035,6 +9035,11 @@
       "Time": "2023-11-11T02:56:36.6095357+00:00",
       "NumProgressed": 4777,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-11T06:09:12.8817533+00:00",
+      "NumProgressed": 4779,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9095,7 +9100,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9135,7 +9140,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1146
+      "UsersEstimate": 1147
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9230,15 +9235,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4777,
+      "Progressed": 4779,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:09:07.7312703+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:09:12.881753+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:02:51.1500056+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:09:07.7313205+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:00:37.2240338+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:09:12.8818279+00:00"
 }

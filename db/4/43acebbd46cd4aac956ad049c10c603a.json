@@ -511,9 +511,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "JustOneLap",
@@ -623,9 +623,9 @@
       "ID": "PuzzleFiend",
       "SetID": "1n308hc",
       "Name": "Puzzle Fiend",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "RemnantsOfThePast",
@@ -824,8 +824,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-11T05:02:45.9202035+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:03:06.4435195+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:02:54.6966867+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:02:45.920204+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:03:06.4435651+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:00:31.9244776+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:02:54.6967522+00:00"
 }

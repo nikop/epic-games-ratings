@@ -11,8 +11,8 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 3.00% | ~4,729 |
 | Weeper | 3.00% | ~4,729 |
 | Ravenous | 3.00% | ~4,729 |
-| Silenced Whispers | 2.00% | ~3,152 |
-| Devourer | 2.00% | ~3,152 |
+| Silenced Whispers | 2.00% | ~3,153 |
+| Devourer | 2.00% | ~3,153 |
 | Scion | 1.00% | ~1,572 |
 | Harmless | 1.00% | ~1,576 |
 | Jawcrab | 1.00% | ~1,576 |
@@ -35,8 +35,8 @@ Number of Ratings: 46  (23.09.2022)
 | Hush | 0.50% | ~788 |
 | Breathsmith | 0.50% | ~788 |
 | Dream | 0.50% | ~786 |
-| Unwrap the Gift | 0.40% | ~630 |
-| Passage | 0.40% | ~630 |
+| Unwrap the Gift | 0.40% | ~631 |
+| Passage | 0.40% | ~631 |
 | Bloodhunter | 0.30% | ~473 |
 | Zygote | 0.30% | ~472 |
 | Kinship | 0.30% | ~473 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,619 (Ranked 76)  
+Progressed: 157,626 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 157,236 | 1 |
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
-| 2023-11-11 | 157,619 | 1 |
+| 2023-11-11 | 157,626 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 426)  
 Sum: 355 (Ranked 348)  

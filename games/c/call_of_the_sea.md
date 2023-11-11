@@ -5,23 +5,23 @@ Rating: 4.39 (Ranked 747)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~103,343 |
-| 74 miles East of Otaheité | 56.00% | ~72,340 |
-| Interesting... | 42.00% | ~54,255 |
-| The Everhart Expedition | 39.00% | ~50,380 |
+| A Family Heirloom | 80.00% | ~103,345 |
+| 74 miles East of Otaheité | 56.00% | ~72,341 |
+| Interesting... | 42.00% | ~54,256 |
+| The Everhart Expedition | 39.00% | ~50,381 |
 | The Vanishing of the Lady Shannon | 30.00% | ~38,754 |
 | Seaside Serenade | 30.00% | ~38,754 |
 | Halfway there | 29.00% | ~37,462 |
-| A brigantine, a brig and a barque | 28.00% | ~36,170 |
-| 506 East Hampden Avenue | 28.00% | ~36,170 |
-| Weekend at Walakea's | 27.00% | ~34,878 |
-| Quite a Show | 27.00% | ~34,878 |
+| A brigantine, a brig and a barque | 28.00% | ~36,171 |
+| 506 East Hampden Avenue | 28.00% | ~36,171 |
+| Weekend at Walakea's | 27.00% | ~34,879 |
+| Quite a Show | 27.00% | ~34,879 |
 | Dark Water Ride | 25.00% | ~32,295 |
 | Sunken | 24.00% | ~31,003 |
 | Deep Cut | 24.00% | ~31,003 |
-| FHALGOF'N' | 23.00% | ~29,711 |
+| FHALGOF'N' | 23.00% | ~29,712 |
 | Marsh Cannery | 21.00% | ~27,128 |
-| Greetings from Y'ha-nthlei! | 17.00% | ~21,960 |
+| Greetings from Y'ha-nthlei! | 17.00% | ~21,961 |
 | The only thing I have now | 16.00% | ~20,669 |
 | Naacalvision | 16.00% | ~20,669 |
 | Not Another Boring Slideshow! | 15.00% | ~19,377 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 747)
 | Gently down the stream... | 1.00% | ~1,292 |
 | Meta-reference | 1.00% | ~1,292 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,179 (Ranked 82)  
+Progressed: 129,181 (Ranked 82)  
 Completed: 1,105 (0.86%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 1,105 (0.86%) (Ranked 166)
 | 2023-11-08 | 128,852 | 1,101 |
 | 2023-11-09 | 128,988 | 1,102 |
 | 2023-11-10 | 129,136 | 1,105 |
-| 2023-11-11 | 129,179 | 1,105 |
+| 2023-11-11 | 129,181 | 1,105 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

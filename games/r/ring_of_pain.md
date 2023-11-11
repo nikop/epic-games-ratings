@@ -9,6 +9,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 0.60% | ~6 |
 | Not Touching You | 0.40% | ~4 |
 | Expensive Look | 0.30% | ~3 |
+| Ambitious Intent | 0.20% | ~479 |
 | First Steps | 0.20% | ~479 |
 | Nothing To Lose | 0.20% | ~479 |
 | Heavy Hitter | 0.20% | ~479 |
@@ -36,7 +37,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | What Doesn't Kill You | 0.20% | ~2 |
 | Thank You, Friend | 0.10% | ~239 |
 | Achievement Hunter | 0.10% | ~239 |
-| Ambitious Intent | 0.10% | ~239 |
 | Quick Descent | 0.10% | ~239 |
 | Consecutive Curses | 0.10% | ~239 |
 | A Week Attempt | 0.10% | ~239 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,487 (Ranked 60)  
+Progressed: 239,489 (Ranked 60)  
 Completed: 287 (0.12%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 287 (0.12%) (Ranked 264)
 | 2023-11-08 | 239,386 | 287 |
 | 2023-11-09 | 239,427 | 287 |
 | 2023-11-10 | 239,475 | 287 |
-| 2023-11-11 | 239,487 | 287 |
+| 2023-11-11 | 239,489 | 287 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 130)  
 Sum: 11,665 (Ranked 83)  

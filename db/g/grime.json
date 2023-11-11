@@ -1417,9 +1417,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157619,
+  "EOS_Progressed": 157626,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1217,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15177,6 +15177,11 @@
       "Time": "2023-11-11T05:03:18.1525926+00:00",
       "NumProgressed": 157619,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T06:03:06.5795752+00:00",
+      "NumProgressed": 157626,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15380,7 +15385,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3153
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -15388,7 +15393,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3152
+      "UsersEstimate": 3153
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -15468,7 +15473,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -15476,7 +15481,7 @@
       "Name": "Passage",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "QUEST_CHILD",
@@ -15555,21 +15560,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157202,
+      "Progressed": 157209,
       "Completed": 1196
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157619,
+      "Progressed": 157626,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-10T18:58:07.8833808+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:03:18.1525921+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:03:06.5795746+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-11T04:58:00.4545389+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:03:18.1526748+00:00"
+  "LastUpdate_Ratings": "2023-11-11T05:58:09.8244097+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:03:06.579729+00:00"
 }

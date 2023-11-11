@@ -8,8 +8,8 @@
 | Shelter Escape | 81.00% | ~318 |
 | The First Bond | 71.00% | ~279 |
 | Novice Scavenger | 64.00% | ~252 |
-| Master Craftsman | 51.00% | ~200 |
-| First wall | 50.00% | ~196 |
+| Master Craftsman | 52.00% | ~204 |
+| First wall | 51.00% | ~200 |
 | Piggyback Expert | 49.00% | ~193 |
 | Second wall | 38.00% | ~149 |
 | Expert Scavenger | 37.00% | ~145 |

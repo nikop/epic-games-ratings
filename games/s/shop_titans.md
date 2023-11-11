@@ -10,9 +10,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 4.00% | ~5,569 |
 | Tinkle of Coins | 4.00% | ~5,569 |
 | Titan's First Steps | 4.00% | ~5,569 |
-| Disintermediation | 3.00% | ~4,176 |
-| It's Free Real Estate | 3.00% | ~4,176 |
-| Capitalism Ho! | 3.00% | ~4,176 |
+| Disintermediation | 3.00% | ~4,177 |
+| It's Free Real Estate | 3.00% | ~4,177 |
+| Capitalism Ho! | 3.00% | ~4,177 |
 | The Daily Grind | 2.00% | ~2,784 |
 | One Easy Payment | 2.00% | ~2,784 |
 | Some Assembly Required | 2.00% | ~2,784 |
@@ -76,25 +76,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.80% | ~1,114 |
 | Exotic Commodities | 0.80% | ~1,114 |
 | King's Blade | 0.80% | ~1,114 |
-| Cream of the Crop | 0.70% | ~974 |
-| Top of the World | 0.70% | ~974 |
-| Proud Paladin | 0.70% | ~974 |
-| A Ronin Reborn | 0.70% | ~974 |
-| Thirst for Knowledge | 0.70% | ~974 |
-| Booty by the Boatload | 0.70% | ~974 |
-| Archivist | 0.70% | ~974 |
-| Omae wa Mou Shindeiru | 0.70% | ~974 |
-| Supercharged | 0.70% | ~974 |
-| Ritualist | 0.70% | ~974 |
-| By Your Powers Combined... | 0.70% | ~974 |
-| Item of Renown | 0.70% | ~974 |
-| Master Merchant | 0.70% | ~974 |
-| Bountiful Harvest | 0.70% | ~974 |
-| Precision Engineering | 0.70% | ~974 |
-| Treasure Trove | 0.70% | ~974 |
-| Moment of Respite | 0.70% | ~974 |
-| King's Shadow | 0.70% | ~974 |
-| Master Recycler | 0.70% | ~974 |
+| Cream of the Crop | 0.70% | ~975 |
+| Top of the World | 0.70% | ~975 |
+| Proud Paladin | 0.70% | ~975 |
+| A Ronin Reborn | 0.70% | ~975 |
+| Thirst for Knowledge | 0.70% | ~975 |
+| Booty by the Boatload | 0.70% | ~975 |
+| Archivist | 0.70% | ~975 |
+| Omae wa Mou Shindeiru | 0.70% | ~975 |
+| Supercharged | 0.70% | ~975 |
+| Ritualist | 0.70% | ~975 |
+| By Your Powers Combined... | 0.70% | ~975 |
+| Item of Renown | 0.70% | ~975 |
+| Master Merchant | 0.70% | ~975 |
+| Bountiful Harvest | 0.70% | ~975 |
+| Precision Engineering | 0.70% | ~975 |
+| Treasure Trove | 0.70% | ~975 |
+| Moment of Respite | 0.70% | ~975 |
+| King's Shadow | 0.70% | ~975 |
+| Master Recycler | 0.70% | ~975 |
 | Constellated | 0.60% | ~835 |
 | Fillin' the Bin | 0.60% | ~835 |
 | Industrial Evolution | 0.60% | ~835 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,214 (Ranked 79)  
+Progressed: 139,221 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 181 (0.13%) (Ranked 258)
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
-| 2023-11-11 | 139,214 | 181 |
+| 2023-11-11 | 139,221 | 181 |
 ## Awards
 Max (Great for Beginners): 4,824  (Ranked 73)  
 Sum: 27,523 (Ranked 51)  

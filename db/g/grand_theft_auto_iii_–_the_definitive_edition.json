@@ -517,9 +517,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8564,
+  "EOS_Progressed": 8565,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -10987,6 +10987,11 @@
       "Time": "2023-11-11T01:48:37.0974436+00:00",
       "NumProgressed": 8564,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2023-11-11T06:05:19.9103983+00:00",
+      "NumProgressed": 8565,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 29,
@@ -10998,7 +11003,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7108
+      "UsersEstimate": 7109
     },
     {
       "ID": "ACH02",
@@ -11022,7 +11027,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3254
+      "UsersEstimate": 3255
     },
     {
       "ID": "ACH05",
@@ -11142,7 +11147,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH20",
@@ -11229,7 +11234,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8564,
+      "Progressed": 8565,
       "Completed": 56
     }
   ],
@@ -11237,8 +11242,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-07T02:18:06.6938355+00:00",
-  "LastChanged_Achievements": "2023-11-11T05:05:27.961975+00:00",
+  "LastChanged_Achievements": "2023-11-11T06:05:19.9103978+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:30.9278167+00:00",
-  "LastUpdate_Ratings": "2023-11-11T05:02:28.4259972+00:00",
-  "LastUpdate_Achievements": "2023-11-11T05:05:27.9620461+00:00"
+  "LastUpdate_Ratings": "2023-11-11T06:00:13.6463335+00:00",
+  "LastUpdate_Achievements": "2023-11-11T06:05:19.9104948+00:00"
 }

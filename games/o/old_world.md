@@ -47,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Able Difficulty | 2.00% | ~305 |
 | Just Difficulty | 2.00% | ~305 |
 | Artisans | 2.00% | ~305 |
+| Sages | 2.00% | ~305 |
 | Furious Family | 2.00% | ~305 |
 | Apadana | 2.00% | ~305 |
 | Colossus | 2.00% | ~305 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Landowners | 1.00% | ~153 |
 | Patrons | 1.00% | ~153 |
 | Riders | 1.00% | ~153 |
-| Sages | 1.00% | ~153 |
 | Statesmen | 1.00% | ~153 |
 | Traders | 1.00% | ~153 |
 | Hittite Iron | 1.00% | ~153 |
@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 1.00% | ~153 |
 | Temple of Solomon | 1.00% | ~153 |
 | Mausoleum | 1.00% | ~153 |
+| Pantheon | 1.00% | ~153 |
 | Via Recta Souk | 1.00% | ~153 |
 | Learn to Play 3 | 1.00% | ~153 |
 | Greece | 1.00% | ~153 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.90% | ~137 |
 | Hunters | 0.90% | ~137 |
 | Church of the Holy Sepulchre | 0.90% | ~137 |
-| Pantheon | 0.90% | ~137 |
 | Learn to Play 4 | 0.90% | ~137 |
 | Babylonia | 0.90% | ~137 |
 | Carthage | 0.90% | ~137 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,255 (Ranked 145)  
+Progressed: 15,257 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,7 +554,7 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-08 | 15,218 | 5 |
 | 2023-11-09 | 15,231 | 5 |
 | 2023-11-10 | 15,253 | 5 |
-| 2023-11-11 | 15,255 | 5 |
+| 2023-11-11 | 15,257 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 273)  
 Sum: 1,872 (Ranked 215)  

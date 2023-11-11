@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 384)  
+Rating: 4.60 (Ranked 411)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | The Grey Wizard | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,340 (Ranked 183)  
+Progressed: 5,342 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,14 +239,14 @@ Completed: 7 (0.13%) (Ranked 258)
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
-| 2023-11-11 | 5,340 | 7 |
+| 2023-11-11 | 5,342 | 7 |
 ## Awards
-Max (Great for Beginners): 31  (Ranked 487)  
-Sum: 52 (Ranked 475)  
-Diff (max vs sum): 12  
+Max (Great for Beginners): 32  (Ranked 482)  
+Sum: 53 (Ranked 474)  
+Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 31 |
+| This game is Great for Beginners | 32 |
 | This game has Diverse Characters | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -308,3 +308,4 @@ Diff (max vs sum): 12
 | 2023-11-07 | 4.60 | 31 | 51 |
 | 2023-11-08 | 4.60 | 31 | 52 |
 | 2023-11-09 | 4.61 | 31 | 52 |
+| 2023-11-11 | 4.60 | 32 | 53 |

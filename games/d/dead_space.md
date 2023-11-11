@@ -5,17 +5,17 @@ Rating: 4.63 (Ranked 349)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 94.00% | ~1,593 |
-| Welcome Aboard | 84.00% | ~1,424 |
-| Lab Rat | 74.00% | ~1,254 |
+| Marksman | 94.00% | ~1,594 |
+| Welcome Aboard | 84.00% | ~1,425 |
+| Lab Rat | 74.00% | ~1,255 |
 | All Systems Go | 65.00% | ~1,102 |
 | Brute Force | 64.00% | ~1,085 |
-| Cannon Fodder | 59.00% | ~1,000 |
-| Autofire | 57.00% | ~966 |
-| True Believer | 56.00% | ~949 |
-| Story Teller | 55.00% | ~932 |
-| Raise the Stakes | 55.00% | ~932 |
-| Surgeon | 51.00% | ~864 |
+| Cannon Fodder | 59.00% | ~1,001 |
+| Autofire | 57.00% | ~967 |
+| True Believer | 56.00% | ~950 |
+| Story Teller | 55.00% | ~933 |
+| Raise the Stakes | 55.00% | ~933 |
+| Surgeon | 51.00% | ~865 |
 | Freeze | 50.00% | ~848 |
 | Exterminator | 50.00% | ~848 |
 | Greenhouse Effect | 50.00% | ~848 |
@@ -26,13 +26,13 @@ Rating: 4.63 (Ranked 349)
 | Wreckage | 41.00% | ~695 |
 | Live with the Hot Ones | 40.00% | ~678 |
 | Keeper of the Faith | 38.00% | ~644 |
-| Betrayed | 37.00% | ~627 |
-| Legend Teller | 36.00% | ~610 |
-| Mindless Prey | 36.00% | ~610 |
-| Exodus | 35.00% | ~593 |
-| There's Always Peng! | 35.00% | ~593 |
-| A Cut Above | 32.00% | ~542 |
-| Front Toward Enemy | 32.00% | ~542 |
+| Betrayed | 37.00% | ~628 |
+| Legend Teller | 36.00% | ~611 |
+| Mindless Prey | 36.00% | ~611 |
+| Exodus | 35.00% | ~594 |
+| There's Always Peng! | 35.00% | ~594 |
+| A Cut Above | 32.00% | ~543 |
+| Front Toward Enemy | 32.00% | ~543 |
 | Whole Again | 28.00% | ~475 |
 | Set A Benchmark | 28.00% | ~475 |
 | Full Contact | 25.00% | ~424 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 349)
 | Untouchable | 2.00% | ~34 |
 | One Gun | 2.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,695 (Ranked 226)  
+Progressed: 1,696 (Ranked 226)  
 Completed: 8 (0.47%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -111,7 +111,7 @@ Completed: 8 (0.47%) (Ranked 199)
 | 2023-11-08 | 1,638 | 8 |
 | 2023-11-09 | 1,664 | 8 |
 | 2023-11-10 | 1,682 | 8 |
-| 2023-11-11 | 1,695 | 8 |
+| 2023-11-11 | 1,696 | 8 |
 ## Awards
 Max (Great Boss Battles): 108  (Ranked 348)  
 Sum: 108 (Ranked 437)  
