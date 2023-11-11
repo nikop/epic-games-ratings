@@ -10,8 +10,8 @@ Number of Ratings: 20  (23.09.2022)
 | Cartographer | 56.00% | ~190 |
 | A Strange Artefact | 52.00% | ~176 |
 | Insomnia | 47.00% | ~159 |
+| From Whence we Came | 42.00% | ~142 |
 | Lost & Found & Lost Again | 41.00% | ~139 |
-| From Whence we Came | 41.00% | ~139 |
 | Fire and Flood | 40.00% | ~136 |
 | Spooky! | 37.00% | ~125 |
 | Shennong Herbalist | 34.00% | ~115 |
@@ -21,8 +21,8 @@ Number of Ratings: 20  (23.09.2022)
 | Plunderer | 28.00% | ~95 |
 | Taxonomist | 27.00% | ~92 |
 | Traveller | 25.00% | ~85 |
+| Uncertain Loyalties | 25.00% | ~85 |
 | Nahua Seeker | 24.00% | ~81 |
-| Uncertain Loyalties | 24.00% | ~81 |
 | Roll to Save | 22.00% | ~75 |
 | Veteran Explorer | 21.00% | ~71 |
 | Red Flag Pirate | 19.00% | ~64 |
@@ -48,9 +48,9 @@ Number of Ratings: 20  (23.09.2022)
 | The Great Library | 8.00% | ~27 |
 | Level Up | 8.00% | ~27 |
 | Zookeeper | 6.00% | ~20 |
+| A Paris Sunset | 6.00% | ~20 |
 | The Workshop | 6.00% | ~20 |
 | Islander Understanding | 5.00% | ~17 |
-| A Paris Sunset | 5.00% | ~17 |
 | The Director Perseveres | 5.00% | ~17 |
 | The Round Table | 5.00% | ~17 |
 | A Familiar Figure | 4.00% | ~14 |

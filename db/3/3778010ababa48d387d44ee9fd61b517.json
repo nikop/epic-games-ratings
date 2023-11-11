@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -99,9 +99,9 @@
       "ID": "A_ALL_UPGRADES",
       "SetID": "324h56e",
       "Name": "Researcher",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A_ARTIFACT",
@@ -131,9 +131,9 @@
       "ID": "A_CHESTS",
       "SetID": "324h56e",
       "Name": "Treasure Finder",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_CHESTS_2",
@@ -363,9 +363,9 @@
       "ID": "A_SUNKEN",
       "SetID": "324h56e",
       "Name": "The Sunken City",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A_TURRET",
@@ -387,9 +387,9 @@
       "ID": "A_WASP",
       "SetID": "324h56e",
       "Name": "Splat",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_WORKER",
@@ -418,8 +418,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:06:25.1184958+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:08:38.6629325+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:41.4462946+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:58:15.9634177+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:06:25.1185302+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:59:06.1458482+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:08:38.6629584+00:00"
 }

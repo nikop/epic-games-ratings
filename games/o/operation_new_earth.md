@@ -16,8 +16,8 @@ Rating: 3.28 (Ranked 1,037)
 | Stocking Up | 10.00% | ~180 |
 | On Target | 10.00% | ~180 |
 | Infantry Reporting | 10.00% | ~180 |
+| Fighting for Survival | 9.00% | ~162 |
 | Keeping Busy | 9.00% | ~162 |
-| Fighting for Survival | 8.00% | ~144 |
 | Silver Competitor | 8.00% | ~144 |
 | Captain | 8.00% | ~144 |
 | Factory Expansion | 8.00% | ~144 |

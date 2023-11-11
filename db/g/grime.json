@@ -1417,9 +1417,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157694,
+  "EOS_Progressed": 157702,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1169,
+  "EOS_NewPlayers": 1170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15232,6 +15232,11 @@
       "Time": "2023-11-11T16:03:44.1261763+00:00",
       "NumProgressed": 157694,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T17:04:48.1413254+00:00",
+      "NumProgressed": 157702,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15299,7 +15304,7 @@
       "Name": "Breath",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -15331,7 +15336,7 @@
       "Name": "Artisan",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -15355,7 +15360,7 @@
       "Name": "Glare",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -15371,7 +15376,7 @@
       "Name": "Hush",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -15491,7 +15496,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -15610,21 +15615,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157277,
+      "Progressed": 157285,
       "Completed": 1197
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157694,
+      "Progressed": 157702,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-10T18:58:07.8833808+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:03:44.1261758+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:04:48.1413249+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:58:38.5280932+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:03:44.1262538+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:59:41.8226032+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:04:48.1414045+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 314,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -2061,9 +2061,9 @@
       "ID": "BasiliskBroom",
       "SetID": "db30heh",
       "Name": "Sweeping Prop",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 128
     },
     {
       "ID": "BasiliskFishingRod",
@@ -2085,9 +2085,9 @@
       "ID": "BearPistol",
       "SetID": "db30heh",
       "Name": "Ouch!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 282
     },
     {
       "ID": "BearPoppiesBroth",
@@ -2117,9 +2117,9 @@
       "ID": "BeggarWomanCoin",
       "SetID": "db30heh",
       "Name": "Alms",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 461
+      "UsersEstimate": 466
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -2221,9 +2221,9 @@
       "ID": "HastrmanAmanita",
       "SetID": "db30heh",
       "Name": "Tastes Funny",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 261
+      "UsersEstimate": 266
     },
     {
       "ID": "HastrmanHappy",
@@ -2253,9 +2253,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 210
+      "UsersEstimate": 215
     },
     {
       "ID": "PitSoul",
@@ -2309,9 +2309,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 282
     },
     {
       "ID": "PrincessThrone",
@@ -2325,9 +2325,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 292
+      "UsersEstimate": 297
     },
     {
       "ID": "RogueEat",
@@ -2420,8 +2420,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:05:33.2502877+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:07:23.4747115+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:13.8933831+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:00:16.9821767+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:05:33.250325+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:02:13.3258731+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:07:23.4747536+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-syndicate",
   "Ranking_Rating": 566,
   "Ranking_Popularity": 334,
-  "Ranking_PopularitySum": 269,
+  "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-02-20T16:00:00+00:00",
@@ -2844,10 +2844,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 919,
       "NumberOfAwardsMax": 124
+    },
+    {
+      "Time": "2023-11-11T17:02:10.0333592+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 921,
+      "NumberOfAwardsMax": 124
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 919,
+  "NumberOfAwards": 921,
   "NumberOfAwardsMax": 124,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2885,7 +2891,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 100
+      "Count": 102
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2935,8 +2941,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.1720529+00:00",
-  "LastChanged": "2023-11-11T08:59:41.1356928+00:00",
+  "LastChanged": "2023-11-11T17:02:10.0333591+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:05.8621653+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:00:14.6732769+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:04:04.8713563+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:02:10.0333595+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:05:17.8878435+00:00"
 }

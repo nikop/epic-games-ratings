@@ -6,11 +6,11 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,773 |
-| Alt+F4 | 8.00% | ~18,919 |
-| Where's that freaking Dwarf? | 7.00% | ~16,555 |
-| Déjà vu | 6.00% | ~14,190 |
-| Sock! SOCK! | 5.00% | ~11,825 |
+| Sowwy! | 35.00% | ~82,778 |
+| Alt+F4 | 8.00% | ~18,921 |
+| Where's that freaking Dwarf? | 7.00% | ~16,556 |
+| Déjà vu | 6.00% | ~14,191 |
+| Sock! SOCK! | 5.00% | ~11,826 |
 | A beer, two curses, three companions | 4.00% | ~9,460 |
 | GG EZ | 4.00% | ~9,460 |
 | DM intervention | 4.00% | ~9,460 |
@@ -29,6 +29,7 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 2.00% | ~4,730 |
 | The Famous Dungeon of Naheulbeuk | 2.00% | ~4,730 |
 | A tale of adventurers not quite like the others... | 2.00% | ~4,730 |
+| Look but don't touch | 2.00% | ~4,730 |
 | The beards of change | 2.00% | ~4,730 |
 | The Ranger of Chaos | 2.00% | ~4,730 |
 | I am the night | 2.00% | ~4,730 |
@@ -38,24 +39,23 @@ Number of Ratings: 118  (23.09.2022)
 | Res Judicata | 1.00% | ~2,365 |
 | Dwarf Fortress | 1.00% | ~2,365 |
 | %#*!$*! | 1.00% | ~2,365 |
-| Look but don't touch | 1.00% | ~2,365 |
 | I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,365 |
 | Dead for good | 1.00% | ~2,365 |
 | Lust and Debauchery | 1.00% | ~2,365 |
 | Material Girl | 1.00% | ~2,365 |
-| Gargantua | 0.90% | ~2,128 |
+| Gargantua | 0.90% | ~2,129 |
 | In Navalu's footsteps | 0.80% | ~1,892 |
-| We come in peace | 0.70% | ~1,655 |
-| Lëgal Legend | 0.70% | ~1,655 |
+| We come in peace | 0.70% | ~1,656 |
+| Lëgal Legend | 0.70% | ~1,656 |
 | Holistic Adventuring Party | 0.60% | ~1,419 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,419 |
-| Scholar of the Lands of Fangh | 0.50% | ~1,182 |
-| Law and Order | 0.50% | ~1,182 |
+| Scholar of the Lands of Fangh | 0.50% | ~1,183 |
+| Law and Order | 0.50% | ~1,183 |
 | It's been a hard day's night | 0.40% | ~946 |
-| Friendly fire | 0.30% | ~709 |
-| I'd rather... Just... Sing! | 0.30% | ~709 |
-| The number of the counting shalt be 7 | 0.30% | ~709 |
-| Inception | 0.30% | ~709 |
+| Friendly fire | 0.30% | ~710 |
+| I'd rather... Just... Sing! | 0.30% | ~710 |
+| The number of the counting shalt be 7 | 0.30% | ~710 |
+| Inception | 0.30% | ~710 |
 | Free customer service | 0.20% | ~473 |
 | Imposture and Trowels | 0.20% | ~473 |
 | Kudos from your DM | 0.20% | ~473 |
@@ -63,39 +63,39 @@ Number of Ratings: 118  (23.09.2022)
 | 100% satisfaction guarantee | 0.20% | ~473 |
 | Death is for wimps | 0.20% | ~473 |
 | Demisemiquaver | 0.20% | ~473 |
-| Cursed die | 0.10% | ~236 |
-| Necrophilia | 0.10% | ~236 |
-| The Blood Countess | 0.10% | ~236 |
-| He’s alive! Aliiiive! | 0.10% | ~236 |
-| Restless night | 0.10% | ~236 |
-| King of the Arena | 0.10% | ~236 |
-| Finally free | 0.10% | ~236 |
-| Hoarding | 0.10% | ~236 |
-| Staff cut | 0.10% | ~236 |
-| Legendary brew | 0.10% | ~236 |
-| Elite Adventurers | 0.10% | ~236 |
-| Take your time back in time | 0.10% | ~236 |
-| Egghead | 0.10% | ~236 |
-| Deep changes | 0.10% | ~236 |
-| A broken clock… | 0.10% | ~236 |
-| Sleep schedule mastery | 0.10% | ~236 |
-| Cute Dungeon | 0.10% | ~236 |
-| Mystical Dungeon | 0.10% | ~236 |
-| Gloomy Dungeon | 0.10% | ~236 |
-| Power struggle | 0.10% | ~236 |
-| Hit snooze | 0.10% | ~236 |
-| Living legends of the Lands of Fangh | 0.10% | ~236 |
-| Minmaxer | 0.10% | ~236 |
-| Iron Golems Tamer | 0.10% | ~236 |
-| And they lived happily ever after... | 0.10% | ~236 |
-| Star-crossed lovers | 0.10% | ~236 |
-| Pyrrhic victory | 0.10% | ~236 |
-| Super-Ultra-Lydian | 0.10% | ~236 |
-| Lord of the Drunks | 0.10% | ~236 |
-| Dumb and dumber | 0.10% | ~236 |
-| Dwarf Candy | 0.10% | ~236 |
+| Cursed die | 0.10% | ~237 |
+| Necrophilia | 0.10% | ~237 |
+| The Blood Countess | 0.10% | ~237 |
+| He’s alive! Aliiiive! | 0.10% | ~237 |
+| Restless night | 0.10% | ~237 |
+| King of the Arena | 0.10% | ~237 |
+| Finally free | 0.10% | ~237 |
+| Hoarding | 0.10% | ~237 |
+| Staff cut | 0.10% | ~237 |
+| Legendary brew | 0.10% | ~237 |
+| Elite Adventurers | 0.10% | ~237 |
+| Take your time back in time | 0.10% | ~237 |
+| Egghead | 0.10% | ~237 |
+| Deep changes | 0.10% | ~237 |
+| A broken clock… | 0.10% | ~237 |
+| Sleep schedule mastery | 0.10% | ~237 |
+| Cute Dungeon | 0.10% | ~237 |
+| Mystical Dungeon | 0.10% | ~237 |
+| Gloomy Dungeon | 0.10% | ~237 |
+| Power struggle | 0.10% | ~237 |
+| Hit snooze | 0.10% | ~237 |
+| Living legends of the Lands of Fangh | 0.10% | ~237 |
+| Minmaxer | 0.10% | ~237 |
+| Iron Golems Tamer | 0.10% | ~237 |
+| And they lived happily ever after... | 0.10% | ~237 |
+| Star-crossed lovers | 0.10% | ~237 |
+| Pyrrhic victory | 0.10% | ~237 |
+| Super-Ultra-Lydian | 0.10% | ~237 |
+| Lord of the Drunks | 0.10% | ~237 |
+| Dumb and dumber | 0.10% | ~237 |
+| Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,493 (Ranked 62)  
+Progressed: 236,510 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 7 (0.00%) (Ranked 347)
 | 2023-11-08 | 235,997 | 7 |
 | 2023-11-09 | 236,158 | 7 |
 | 2023-11-10 | 236,338 | 7 |
-| 2023-11-11 | 236,493 | 7 |
+| 2023-11-11 | 236,510 | 7 |
 ## Awards
 Max (Character Customization): 228  (Ranked 272)  
 Sum: 457 (Ranked 330)  

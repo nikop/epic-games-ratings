@@ -15,7 +15,7 @@
 | Subsistence Skills | 64.00% | ~170 |
 | Memory Rouser | 63.00% | ~167 |
 | Kemono Hunter | 58.00% | ~154 |
-| Expert Conjuror | 56.00% | ~148 |
+| Expert Conjuror | 57.00% | ~151 |
 | Distance Devourer | 53.00% | ~140 |
 | Flawless Crystal | 53.00% | ~140 |
 | Master of the Skies | 51.00% | ~135 |
@@ -26,7 +26,7 @@
 | Mighty Marmelizer | 42.00% | ~111 |
 | Fair Means or Foul | 41.00% | ~109 |
 | Single Minded | 40.00% | ~106 |
-| Snare Specialist | 38.00% | ~101 |
+| Snare Specialist | 39.00% | ~103 |
 | Karakuri Trail | 37.00% | ~98 |
 | Kemono at Heart | 37.00% | ~98 |
 | Artful Assister | 35.00% | ~93 |

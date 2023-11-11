@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,038 |
-| Off to a good start | 67.00% | ~781 |
+| New Recruit | 89.00% | ~1,039 |
+| Off to a good start | 67.00% | ~782 |
 | Do... or do not. There is no try | 51.00% | ~595 |
-| A good blaster at your side | 31.00% | ~361 |
+| A good blaster at your side | 31.00% | ~362 |
 | I suggest a new strategy | 20.00% | ~233 |
 | Scrap collector | 19.00% | ~222 |
 | Great shot, kid! | 17.00% | ~198 |
@@ -53,22 +53,22 @@
 | When surrounded by war... | 1.00% | ~12 |
 | Stop that Droid | 1.00% | ~12 |
 | Onwards! | 1.00% | ~12 |
-| No such thing as luck | 0.90% | ~10 |
-| Do we take prisoners? | 0.90% | ~10 |
+| No such thing as luck | 0.90% | ~11 |
+| Do we take prisoners? | 0.90% | ~11 |
 | A New Hope | 0.80% | ~9 |
 | Walker defender | 0.70% | ~8 |
 | I’ll take that bet | 0.60% | ~7 |
 | Stay on target | 0.40% | ~5 |
 | Don't get cocky | 0.40% | ~5 |
-| That got him! | 0.30% | ~3 |
-| in a galaxy far, far away.... | 0.30% | ~3 |
-| Master | 0.30% | ~3 |
-| Greed can be a very powerful ally | 0.30% | ~3 |
-| Stay in attack formation | 0.30% | ~3 |
+| That got him! | 0.30% | ~4 |
+| in a galaxy far, far away.... | 0.30% | ~4 |
+| Master | 0.30% | ~4 |
+| Greed can be a very powerful ally | 0.30% | ~4 |
+| Stay in attack formation | 0.30% | ~4 |
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,166 (Ranked 242)  
+Progressed: 1,167 (Ranked 243)  
 Completed: 1 (0.09%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 1 (0.09%) (Ranked 276)
 | 2023-11-08 | 1,114 | 1 |
 | 2023-11-09 | 1,130 | 1 |
 | 2023-11-10 | 1,147 | 1 |
-| 2023-11-11 | 1,166 | 1 |
+| 2023-11-11 | 1,167 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -366,9 +366,9 @@
       "ID": "ach-ascension-complete",
       "SetID": "17ih7ma",
       "Name": "A Paris Sunset",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "ach-ascension-complete-year",
@@ -702,17 +702,17 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "ach-portal-return",
       "SetID": "17ih7ma",
       "Name": "From Whence we Came",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "ach-promotion",
@@ -823,8 +823,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:09:33.9098353+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:10:58.3850846+00:00",
   "LastUpdate_AppInfo": "2023-11-11T10:57:00.2383512+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:57:30.6303211+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:09:33.9098868+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:57:56.4953388+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:10:58.385123+00:00"
 }

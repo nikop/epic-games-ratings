@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~843 |
-| Pork Chopped | 2.00% | ~843 |
+| Whatever It Takes | 2.00% | ~844 |
+| Pork Chopped | 2.00% | ~844 |
 | One of Us | 1.00% | ~422 |
-| Hotel California | 0.70% | ~5,016 |
-| Welcome To Hell-A | 0.70% | ~5,016 |
+| Hotel California | 0.70% | ~5,017 |
+| Welcome To Hell-A | 0.70% | ~5,017 |
 | Git Gutte! | 0.60% | ~4,300 |
 | Break A Leg | 0.60% | ~4,300 |
 | Coup de Grâce | 0.60% | ~4,300 |
@@ -19,33 +19,33 @@ Rating: 4.54 (Ranked 524)
 | Anger Management | 0.50% | ~3,583 |
 | Bookworm | 0.50% | ~3,583 |
 | But Doctor, I am Butcho | 0.50% | ~3,583 |
+| Can't Handle the Truth | 0.50% | ~3,583 |
 | Friends Like These | 0.50% | ~3,583 |
 | Apex Predator | 0.50% | ~3,583 |
 | Stacking the Deck | 0.50% | ~3,583 |
 | This is My Weapon | 0.50% | ~3,583 |
-| Perks of the Job | 0.40% | ~2,866 |
-| I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,866 |
-| Slayer Squad | 0.40% | ~2,866 |
-| Can't Handle the Truth | 0.40% | ~2,866 |
-| Like Riding a Bike | 0.40% | ~2,866 |
-| Zombologist | 0.40% | ~2,866 |
-| Ooh, Shiny! | 0.40% | ~2,866 |
-| A Patton Emerges | 0.40% | ~2,866 |
-| I Am the Resurrection | 0.40% | ~2,866 |
-| Max Headroom | 0.40% | ~2,866 |
-| Our True Nature | 0.40% | ~2,866 |
+| Perks of the Job | 0.40% | ~2,867 |
+| I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,867 |
+| Slayer Squad | 0.40% | ~2,867 |
+| Like Riding a Bike | 0.40% | ~2,867 |
+| Zombologist | 0.40% | ~2,867 |
+| Ooh, Shiny! | 0.40% | ~2,867 |
+| A Patton Emerges | 0.40% | ~2,867 |
+| I Am the Resurrection | 0.40% | ~2,867 |
+| Max Headroom | 0.40% | ~2,867 |
+| Our True Nature | 0.40% | ~2,867 |
 | Making Your Mark | 0.30% | ~2,150 |
 | Not Even My Final Form | 0.30% | ~2,150 |
 | Jumbo Keyring | 0.30% | ~2,150 |
 | Humanity Distilled | 0.30% | ~2,150 |
 | Down with the Sickness | 0.30% | ~2,150 |
 | Go, Bobcats! | 0.30% | ~2,150 |
+| Rising Star | 0.30% | ~2,150 |
 | Make it So | 0.20% | ~1,433 |
 | On Safari | 0.20% | ~1,433 |
 | Smorgasbord | 0.20% | ~1,433 |
 | Internet Famous | 0.20% | ~1,433 |
 | Variety is the Spice of Death | 0.20% | ~1,433 |
-| Rising Star | 0.20% | ~1,433 |
 | Top That, Tisha! | 0.20% | ~84 |
 | LA Influential | 0.10% | ~717 |
 | Donk! | 0.10% | ~717 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,613 (Ranked 21)  
+Progressed: 716,669 (Ranked 20)  
 Completed: 2,379 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2,379 (0.33%) (Ranked 220)
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
-| 2023-11-11 | 716,613 | 2,379 |
+| 2023-11-11 | 716,669 | 2,379 |
 ## Awards
 Max (Great Boss Battles): 7,279  (Ranked 53)  
 Sum: 11,067 (Ranked 86)  

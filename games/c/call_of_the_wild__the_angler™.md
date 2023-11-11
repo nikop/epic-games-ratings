@@ -15,13 +15,13 @@ Number of Ratings: 281  (23.09.2022)
 | Ready to Rod and Roll | 0.80% | ~52 |
 | Fish Out of Water | 0.70% | ~45 |
 | Things that go Splash in the Night | 0.70% | ~45 |
+| School's Out for Summer | 0.50% | ~32 |
 | Goldfish? | 0.40% | ~26 |
 | Going for Gold | 0.40% | ~26 |
-| School's Out for Summer | 0.40% | ~26 |
 | License to Gill | 0.30% | ~19 |
+| I'm the Captain Now | 0.20% | ~13 |
 | I'm Hooked! | 0.20% | ~13 |
 | More than a Tourist | 0.10% | ~6 |
-| I'm the Captain Now | 0.10% | ~6 |
 | Hook, Line and Sinker | 0.10% | ~6 |
 | The Beetles | 0.10% | ~6 |
 | Lake Me up Before You Go Go | 0.10% | ~6 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,487 (Ranked 177)  
+Progressed: 6,488 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 6,452 | 0 |
 | 2023-11-09 | 6,467 | 0 |
 | 2023-11-10 | 6,476 | 0 |
-| 2023-11-11 | 6,487 | 0 |
+| 2023-11-11 | 6,488 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 465)  
 Sum: 191 (Ranked 403)  

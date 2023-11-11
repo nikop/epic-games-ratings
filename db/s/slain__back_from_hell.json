@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40146,
+  "EOS_Progressed": 40151,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22733,6 +22733,11 @@
       "Time": "2023-11-11T16:05:29.2856173+00:00",
       "NumProgressed": 40146,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-11T17:07:17.5553236+00:00",
+      "NumProgressed": 40151,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22744,7 +22749,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6022
+      "UsersEstimate": 6023
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -22752,7 +22757,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8431
+      "UsersEstimate": 8432
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -22808,7 +22813,7 @@
       "Name": "Enjoy The Silence",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_11_WOLF_GUARD_CRUSHED",
@@ -22816,7 +22821,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2007
+      "UsersEstimate": 2008
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -22975,7 +22980,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40146,
+      "Progressed": 40151,
       "Completed": 26
     }
   ],
@@ -22983,8 +22988,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:05:29.2856164+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:07:17.5553231+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.8126355+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:57:23.552942+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:05:29.2857694+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:57:45.7507175+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:07:17.5554462+00:00"
 }

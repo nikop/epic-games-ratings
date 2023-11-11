@@ -14,10 +14,10 @@
 | Cutie Poro | 67.00% | ~428 |
 | The Fire Below the Mountain | 64.00% | ~409 |
 | Moneyball | 59.00% | ~377 |
+| Iceborn | 56.00% | ~358 |
 | No Bites | 55.00% | ~351 |
-| Iceborn | 55.00% | ~351 |
+| Boom Things | 52.00% | ~332 |
 | Tear of Freedom | 51.00% | ~326 |
-| Boom Things | 51.00% | ~326 |
 | My Darkest Day | 47.00% | ~300 |
 | Rhythm Of Willump | 46.00% | ~294 |
 | The Relentless Storm | 44.00% | ~281 |
@@ -26,17 +26,17 @@
 | True Legends | 41.00% | ~262 |
 | The Finisher | 40.00% | ~256 |
 | So Close | 37.00% | ~236 |
-| You Get Used To It | 36.00% | ~230 |
+| You Get Used To It | 37.00% | ~236 |
 | Bullseye | 35.00% | ~224 |
 | Boosted! | 35.00% | ~224 |
 | Family | 34.00% | ~217 |
 | Biggest Snowball Ever | 34.00% | ~217 |
+| Freeze The Ice Witch | 34.00% | ~217 |
 | On The Rocks | 34.00% | ~217 |
 | Deadliest and Biggest Snowball Ever! | 34.00% | ~217 |
-| Freeze The Ice Witch | 33.00% | ~211 |
 | It Is Not Over | 32.00% | ~204 |
+| Never Gets Old | 32.00% | ~204 |
 | Snowy Poro | 31.00% | ~198 |
-| Never Gets Old | 31.00% | ~198 |
 | Vertical Power | 28.00% | ~179 |
 | One From The Heart | 13.00% | ~83 |
 | Yummy | 11.00% | ~70 |

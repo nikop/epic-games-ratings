@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3364,10 +3364,10 @@
       "Count": 740
     }
   ],
-  "EOS_Progressed": 239517,
-  "EOS_Completed": 287,
+  "EOS_Progressed": 239522,
+  "EOS_Completed": 288,
   "EOS_NewPlayers": 386,
-  "EOS_NewCompleters": 1,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
     {
@@ -24649,6 +24649,11 @@
       "Time": "2023-11-11T16:09:39.978106+00:00",
       "NumProgressed": 239517,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-11T17:11:06.0557924+00:00",
+      "NumProgressed": 239522,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -24922,9 +24927,9 @@
       "ID": "FREEZE20TIMES",
       "SetID": "5l8oe0h",
       "Name": "Cold Hearted",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 479
     },
     {
       "ID": "FULLINVENTORY",
@@ -25194,9 +25199,9 @@
       "ID": "KILLSPITTER",
       "SetID": "5l8oe0h",
       "Name": "Shootout",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 479
     },
     {
       "ID": "KILLSTONESHIFTERHARD",
@@ -25763,13 +25768,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239517,
-      "Completed": 287
+      "Progressed": 239522,
+      "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 997,
+      "Progressed": 1002,
       "Completed": 374
     }
   ],
@@ -25777,8 +25782,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-11T11:03:15.8109071+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:09:39.9781055+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:11:06.0557921+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:03:13.1484204+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:09:39.9783368+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:04:02.7501195+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:11:06.0560192+00:00"
 }

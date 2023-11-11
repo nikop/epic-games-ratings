@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 151,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -889,7 +889,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6487,
+  "EOS_Progressed": 6488,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 0,
@@ -9834,6 +9834,11 @@
       "Time": "2023-11-11T16:08:52.3290063+00:00",
       "NumProgressed": 6487,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T17:10:28.7072515+00:00",
+      "NumProgressed": 6488,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9931,9 +9936,9 @@
       "ID": "ACHIEVEMENT_012",
       "SetID": "1a05lfd",
       "Name": "I\u0027m the Captain Now",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_013",
@@ -9963,9 +9968,9 @@
       "ID": "ACHIEVEMENT_016",
       "SetID": "1a05lfd",
       "Name": "School\u0027s Out for Summer",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -10164,13 +10169,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6487,
+      "Progressed": 6488,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5859,
+      "Progressed": 5860,
       "Completed": 113
     }
   ],
@@ -10178,8 +10183,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-10T19:57:30.8102083+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:08:52.329006+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:10:28.7072511+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:58:00.843901+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:08:52.3290906+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:58:43.3527142+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:10:28.7073234+00:00"
 }

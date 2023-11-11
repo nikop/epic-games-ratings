@@ -14,9 +14,9 @@
 | Solved sixth case | 5.00% | ~10 |
 | Solved the Lemurian Vampire 1st Case | 5.00% | ~8 |
 | Solved fifth case | 4.00% | ~8 |
+| Solved eighth case | 4.00% | ~8 |
 | Solved the Lemurian Vampire 2nd Case | 4.00% | ~6 |
 | Solved seventh case | 3.00% | ~6 |
-| Solved eighth case | 3.00% | ~6 |
 | Solved eleventh case | 2.00% | ~4 |
 | Solved ninth case | 2.00% | ~4 |
 | Solved tenth case | 2.00% | ~4 |

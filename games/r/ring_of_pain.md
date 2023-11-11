@@ -19,6 +19,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | R.I.P | 0.20% | ~479 |
 | That Was Quick | 0.20% | ~479 |
 | Colorful Corpse | 0.20% | ~479 |
+| Cold Hearted | 0.20% | ~479 |
 | I Am Overburdened | 0.20% | ~479 |
 | Defeat The Dark | 0.20% | ~479 |
 | The Bestiary | 0.20% | ~479 |
@@ -26,6 +27,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Heartless | 0.20% | ~479 |
 | What's Yours Is Mine | 0.20% | ~479 |
 | Spine Breaker | 0.20% | ~479 |
+| Shootout | 0.20% | ~479 |
 | A Donation | 0.20% | ~479 |
 | C-C-Combo | 0.20% | ~479 |
 | Deflection | 0.20% | ~479 |
@@ -61,7 +63,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Barbecue | 0.10% | ~240 |
 | Explosive Betrayal | 0.10% | ~240 |
 | Just Chilling | 0.10% | ~240 |
-| Cold Hearted | 0.10% | ~240 |
 | A Hard Carry | 0.10% | ~240 |
 | Grave Digger | 0.10% | ~240 |
 | Soul Stash | 0.10% | ~240 |
@@ -88,7 +89,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Poor Choices | 0.10% | ~240 |
 | Stop Hitting Yourself | 0.10% | ~240 |
 | Not What I Meant | 0.10% | ~240 |
-| Shootout | 0.10% | ~240 |
 | A Rock And A Hard Place | 0.10% | ~240 |
 | Illuminate, Eliminate | 0.10% | ~240 |
 | Illuminate, Annihilate | 0.10% | ~240 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,517 (Ranked 60)  
-Completed: 287 (0.12%) (Ranked 265)  
+Progressed: 239,522 (Ranked 60)  
+Completed: 288 (0.12%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -350,7 +350,7 @@ Completed: 287 (0.12%) (Ranked 265)
 | 2023-11-08 | 239,386 | 287 |
 | 2023-11-09 | 239,427 | 287 |
 | 2023-11-10 | 239,475 | 287 |
-| 2023-11-11 | 239,517 | 287 |
+| 2023-11-11 | 239,522 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 130)  
 Sum: 11,667 (Ranked 83)  

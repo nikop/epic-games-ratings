@@ -1,24 +1,24 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.43 (Ranked 690)  
+Rating: 4.43 (Ranked 689)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,537 |
-| I'll Be Back | 85.00% | ~4,103 |
-| Sorry, I Dropped This | 77.00% | ~3,717 |
-| First Day on the Job | 77.00% | ~3,717 |
+| On My Own Two Feet | 94.00% | ~4,538 |
+| I'll Be Back | 85.00% | ~4,104 |
+| Sorry, I Dropped This | 77.00% | ~3,718 |
+| First Day on the Job | 77.00% | ~3,718 |
 | Butcher's Bill | 55.00% | ~2,655 |
-| P.A.X | 38.00% | ~1,834 |
+| P.A.X | 38.00% | ~1,835 |
 | Hey Listen | 37.00% | ~1,786 |
 | OPERATOR | 36.00% | ~1,738 |
 | It's Blue Light | 33.00% | ~1,593 |
-| Most Wanted | 27.00% | ~1,303 |
-| Infidel | 24.00% | ~1,158 |
+| Most Wanted | 27.00% | ~1,304 |
+| Infidel | 24.00% | ~1,159 |
 | GOLIATH | 21.00% | ~1,014 |
-| Firebug | 20.00% | ~965 |
+| Firebug | 20.00% | ~966 |
 | I Choose You | 18.00% | ~869 |
 | Nothing to Lose | 18.00% | ~869 |
 | Big Sister | 16.00% | ~772 |
@@ -31,11 +31,11 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~531 |
 | Shall Not Pass | 11.00% | ~531 |
 | Right Tool for the Job | 10.00% | ~483 |
-| Melting Down | 9.00% | ~434 |
-| Raging Drones | 9.00% | ~434 |
-| Overconfident | 9.00% | ~434 |
-| No More Marching | 9.00% | ~434 |
-| Is This Real Life? | 9.00% | ~434 |
+| Melting Down | 9.00% | ~435 |
+| Raging Drones | 9.00% | ~435 |
+| Overconfident | 9.00% | ~435 |
+| No More Marching | 9.00% | ~435 |
+| Is This Real Life? | 9.00% | ~435 |
 | Pusher Man | 8.00% | ~386 |
 | Squad Chief Helvig | 8.00% | ~386 |
 | Sunglasses at Night | 7.00% | ~338 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~29 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,827 (Ranked 187)  
+Progressed: 4,828 (Ranked 187)  
 Completed: 18 (0.37%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 18 (0.37%) (Ranked 215)
 | 2023-11-07 | 4,818 | 18 |
 | 2023-11-09 | 4,821 | 18 |
 | 2023-11-10 | 4,825 | 18 |
-| 2023-11-11 | 4,827 | 18 |
+| 2023-11-11 | 4,828 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 495)  
 Sum: 29 (Ranked 511)  

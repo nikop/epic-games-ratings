@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92294,
+  "EOS_Progressed": 92303,
   "EOS_Completed": 418,
-  "EOS_NewPlayers": 717,
+  "EOS_NewPlayers": 712,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -23303,6 +23303,11 @@
       "Time": "2023-11-11T16:06:00.5421957+00:00",
       "NumProgressed": 92294,
       "NumCompleted": 418
+    },
+    {
+      "Time": "2023-11-11T17:08:03.0155112+00:00",
+      "NumProgressed": 92303,
+      "NumCompleted": 418
     }
   ],
   "TotalAchievements": 10,
@@ -23354,7 +23359,7 @@
       "Name": "Collected all drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "DrawingsDLC",
@@ -23362,7 +23367,7 @@
       "Name": "Prologue Drawings",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "GameCompleted",
@@ -23370,7 +23375,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9229
+      "UsersEstimate": 9230
     },
     {
       "ID": "Level00BowlingStrike",
@@ -23378,7 +23383,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32303
+      "UsersEstimate": 32306
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -23386,22 +23391,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10152
+      "UsersEstimate": 10153
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 92294,
+      "Progressed": 92303,
       "Completed": 418
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:06:00.5421952+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:08:03.0155109+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:32.5230717+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:00:40.5349027+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:06:00.5423111+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:03:29.7716232+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:08:03.015627+00:00"
 }

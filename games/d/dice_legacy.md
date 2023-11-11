@@ -28,7 +28,7 @@ Rating: 4.27 (Ranked 858)
 | The Council | 1.00% | ~12 |
 | The Mad | 1.00% | ~12 |
 | Like the dream | 0.90% | ~10 |
-| Charismatic Leader | 0.70% | ~8 |
+| Charismatic Leader | 0.80% | ~9 |
 | Metropolis | 0.70% | ~8 |
 | Knowledge is Power | 0.60% | ~7 |
 | Six Faces | 0.50% | ~6 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 858)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,152 (Ranked 245)  
+Progressed: 1,153 (Ranked 245)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,6 +216,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-04 | 1,149 | 0 |
 | 2023-11-05 | 1,151 | 0 |
 | 2023-11-10 | 1,152 | 0 |
+| 2023-11-11 | 1,153 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130688,
+  "EOS_Progressed": 130690,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 237,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21597,6 +21597,11 @@
       "Time": "2023-11-11T16:03:58.439219+00:00",
       "NumProgressed": 130688,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-11T17:05:08.405914+00:00",
+      "NumProgressed": 130690,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21664,7 +21669,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31365
+      "UsersEstimate": 31366
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -21720,7 +21725,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27444
+      "UsersEstimate": 27445
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -21736,7 +21741,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 16989
+      "UsersEstimate": 16990
     },
     {
       "ID": "ACH_COP_STAR",
@@ -21824,7 +21829,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18296
+      "UsersEstimate": 18297
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -21888,7 +21893,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18296
+      "UsersEstimate": 18297
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -21927,15 +21932,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130688,
+      "Progressed": 130690,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:03:58.4392187+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:05:08.4059135+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:57:55.3258236+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:03:58.4393143+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:58:34.8080199+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:05:08.4060623+00:00"
 }

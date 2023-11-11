@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -465,9 +465,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3188,
+  "EOS_Progressed": 3189,
   "EOS_Completed": 133,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
@@ -4625,6 +4625,11 @@
       "Time": "2023-11-11T15:04:27.9164471+00:00",
       "NumProgressed": 3188,
       "NumCompleted": 133
+    },
+    {
+      "Time": "2023-11-11T17:05:16.0271596+00:00",
+      "NumProgressed": 3189,
+      "NumCompleted": 133
     }
   ],
   "TotalAchievements": 14,
@@ -4724,7 +4729,7 @@
       "Name": "Shovel Night",
       "Percentage": 38,
       "XP": 55,
-      "UsersEstimate": 1211
+      "UsersEstimate": 1212
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -4732,7 +4737,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -4747,7 +4752,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 3188,
+      "Progressed": 3189,
       "Completed": 133
     }
   ],
@@ -4755,8 +4760,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2023-11-04T12:59:35.7337599+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:04:03.686558+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:05:16.0271592+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.1318979+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:00:22.1220208+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:04:03.6865949+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:02:21.0790452+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:05:16.0271857+00:00"
 }

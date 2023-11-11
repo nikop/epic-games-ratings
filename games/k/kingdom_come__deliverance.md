@@ -6,20 +6,20 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~258,549 |
+| Blacksmith's Son | 32.00% | ~258,550 |
 | Cavalier | 25.00% | ~201,992 |
-| Fatso | 23.00% | ~185,832 |
+| Fatso | 23.00% | ~185,833 |
 | Awakening | 21.00% | ~169,673 |
-| Ranger | 20.00% | ~161,593 |
-| Scrooge | 20.00% | ~161,593 |
+| Ranger | 20.00% | ~161,594 |
+| Scrooge | 20.00% | ~161,594 |
 | Anorectic | 16.00% | ~129,275 |
 | Bookworm | 15.00% | ~121,195 |
 | Firestarter | 15.00% | ~121,195 |
 | Insomniac | 13.00% | ~105,036 |
 | Buddy | 12.00% | ~96,956 |
 | Thief | 12.00% | ~96,956 |
-| Sinner | 11.00% | ~88,876 |
-| Traveller | 11.00% | ~88,876 |
+| Sinner | 11.00% | ~88,877 |
+| Traveller | 11.00% | ~88,877 |
 | Convict | 10.00% | ~80,797 |
 | Haggler | 9.00% | ~72,717 |
 | McLovin | 7.00% | ~56,558 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~808 |
 | Wingman | 0.10% | ~808 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807,966 (Ranked 17)  
+Progressed: 807,969 (Ranked 17)  
 Completed: 51 (0.01%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,17 +294,17 @@ Completed: 51 (0.01%) (Ranked 325)
 | 2023-11-08 | 807,634 | 51 |
 | 2023-11-09 | 807,741 | 51 |
 | 2023-11-10 | 807,875 | 51 |
-| 2023-11-11 | 807,966 | 51 |
+| 2023-11-11 | 807,969 | 51 |
 ## Awards
-Max (Character Customization): 7,591  (Ranked 49)  
-Sum: 28,200 (Ranked 48)  
+Max (Character Customization): 7,595  (Ranked 49)  
+Sum: 28,205 (Ranked 48)  
 Diff (max vs sum): 1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,591 |
+| This game has Inclusive Character Customization | 7,595 |
 | This game has Great Boss Battles | 5,564 |
 | This game has Challenging Combat | 1,771 |
-| This game has Diverse Characters | 1,719 |
+| This game has Diverse Characters | 1,720 |
 | This game has Amazing Storytelling | 1,715 |
 | This game is Highly Recommended | 1,690 |
 | This game is Extremely Fun | 1,687 |
@@ -604,3 +604,4 @@ Diff (max vs sum): 1
 | 2023-11-08 | 4.71 | - | 7,582 | 28,187 |
 | 2023-11-09 | 4.71 | - | 7,587 | 28,194 |
 | 2023-11-10 | 4.71 | - | 7,591 | 28,200 |
+| 2023-11-11 | 4.71 | - | 7,595 | 28,205 |

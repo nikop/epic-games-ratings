@@ -559,9 +559,9 @@
       "ID": "ACH_FINISH_ONCE",
       "SetID": "8h8m55b",
       "Name": "One Way to Find Out",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_FIRSTLOVE",
@@ -575,9 +575,9 @@
       "ID": "ACH_FIVE_STARS",
       "SetID": "8h8m55b",
       "Name": "\u201CFive Stars!\u201D",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_GHOSTED",
@@ -695,9 +695,9 @@
       "ID": "ACH_REMEMBRANCE",
       "SetID": "8h8m55b",
       "Name": "Remembrance",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_SAVED100",
@@ -727,9 +727,9 @@
       "ID": "ACH_THE_HIBISCUS_AND_BUTTERFLY",
       "SetID": "8h8m55b",
       "Name": "The Hibiscus \u0026 The Butterfly",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_TIME_SPENT_LATTEART",
@@ -854,8 +854,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:05:39.3110973+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:07:32.0842517+00:00",
   "LastUpdate_AppInfo": "2023-11-07T15:57:22.1108619+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:58:11.1524177+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:05:39.311138+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:58:58.786322+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:07:32.0842912+00:00"
 }

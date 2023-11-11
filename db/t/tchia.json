@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7717,
+  "EOS_Progressed": 7719,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7999,6 +7999,11 @@
       "Time": "2023-11-11T16:06:33.0128981+00:00",
       "NumProgressed": 7717,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-11T17:08:50.0881878+00:00",
+      "NumProgressed": 7719,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8026,7 +8031,7 @@
       "Name": "Audiophile",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "BODY_AND_SOUL",
@@ -8162,7 +8167,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "THING",
@@ -8177,7 +8182,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7717,
+      "Progressed": 7719,
       "Completed": 34
     }
   ],
@@ -8185,8 +8190,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:06:33.0128977+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:08:50.0881872+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.1922608+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:59:33.1681812+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:06:33.0129475+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:01:06.0047622+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:08:50.0882282+00:00"
 }

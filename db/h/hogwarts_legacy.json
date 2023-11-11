@@ -6,8 +6,8 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10267,10 +10267,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 47855,
       "NumberOfAwardsMax": 24188
+    },
+    {
+      "Time": "2023-11-11T17:00:40.5943469+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47865,
+      "NumberOfAwardsMax": 24188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47855,
+  "NumberOfAwards": 47865,
   "NumberOfAwardsMax": 24188,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10302,13 +10308,13 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 1280
+      "Count": 1286
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1218
+      "Count": 1222
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10347,9 +10353,9 @@
       "Count": 776
     }
   ],
-  "EOS_Progressed": 301869,
+  "EOS_Progressed": 301874,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 1133,
+  "EOS_NewPlayers": 1117,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32412,6 +32418,11 @@
       "Time": "2023-11-11T16:09:26.7373074+00:00",
       "NumProgressed": 301869,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2023-11-11T17:10:48.3013676+00:00",
+      "NumProgressed": 301874,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 45,
@@ -32423,7 +32434,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48299
+      "UsersEstimate": 48300
     },
     {
       "ID": "PFA_10",
@@ -32511,7 +32522,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "PFA_20",
@@ -32543,7 +32554,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39243
+      "UsersEstimate": 39244
     },
     {
       "ID": "PFA_24",
@@ -32607,7 +32618,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36224
+      "UsersEstimate": 36225
     },
     {
       "ID": "PFA_31",
@@ -32687,7 +32698,7 @@
       "Name": "The Gryffindor in the Graveyard",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "PFA_40",
@@ -32703,7 +32714,7 @@
       "Name": "The Ends Petrify the Means",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 15093
+      "UsersEstimate": 15094
     },
     {
       "ID": "PFA_42",
@@ -32727,7 +32738,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27168
+      "UsersEstimate": 27169
     },
     {
       "ID": "PFA_45",
@@ -32767,7 +32778,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36224
+      "UsersEstimate": 36225
     },
     {
       "ID": "PFA_9",
@@ -32782,16 +32793,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301869,
+      "Progressed": 301874,
       "Completed": 507
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-11T15:59:16.4099199+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:09:26.7373071+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:59:16.4099206+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:09:26.7374696+00:00"
+  "LastChanged": "2023-11-11T17:00:40.5943467+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:10:48.3013672+00:00",
+  "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
+  "LastUpdate_Ratings": "2023-11-11T17:00:40.5943474+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:10:48.3014956+00:00"
 }

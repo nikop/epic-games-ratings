@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 396,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 689,
+  "EOS_Progressed": 690,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -658,6 +658,11 @@
       "Time": "2023-10-30T09:05:16.9517005+00:00",
       "NumProgressed": 689,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T17:08:47.9334091+00:00",
+      "NumProgressed": 690,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -715,9 +720,9 @@
       "ID": "4HopperTrophy",
       "SetID": "32aeje8",
       "Name": "Fetch Quest Complete",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 621
     },
     {
       "ID": "AhoyTrophy",
@@ -813,7 +818,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "Ext4Trophy",
@@ -917,7 +922,7 @@
       "Name": "I ran the numbers",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "KKBossTrophy",
@@ -949,7 +954,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1069,7 +1074,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1100,7 +1105,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 689,
+      "Progressed": 690,
       "Completed": 0
     }
   ],
@@ -1108,8 +1113,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:06:31.6052008+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:08:47.9334086+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:32.4252882+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:57:52.2138903+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:06:31.6052353+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:58:30.0940548+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:08:47.9334522+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 411,
+  "Ranking_Rating": 410,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7687,
+  "EOS_Progressed": 7688,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6546,6 +6546,11 @@
       "Time": "2023-11-11T16:09:22.3886745+00:00",
       "NumProgressed": 7687,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T17:10:42.0509852+00:00",
+      "NumProgressed": 7688,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6566,7 +6571,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5381
+      "UsersEstimate": 5382
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6574,7 +6579,7 @@
       "Name": "Calm Sailing",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2844
+      "UsersEstimate": 2845
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6646,7 +6651,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2075
+      "UsersEstimate": 2076
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -6654,7 +6659,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6710,7 +6715,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4689
+      "UsersEstimate": 4690
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6766,7 +6771,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -6822,7 +6827,7 @@
       "Name": "House Proud",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -6837,22 +6842,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7687,
+      "Progressed": 7688,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 304,
-      "Completed": 304
+      "Progressed": 305,
+      "Completed": 305
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:09:22.3886743+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:10:42.0509844+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:02:46.1421022+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:09:22.3887411+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:03:52.5041135+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:10:42.0510486+00:00"
 }

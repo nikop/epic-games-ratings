@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18822,
+  "EOS_Progressed": 18824,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 50,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12818,6 +12818,11 @@
       "Time": "2023-11-11T10:03:46.2334457+00:00",
       "NumProgressed": 18822,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-11T17:05:10.1993041+00:00",
+      "NumProgressed": 18824,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12893,7 +12898,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "0010",
@@ -12957,7 +12962,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3576
+      "UsersEstimate": 3577
     },
     {
       "ID": "0018",
@@ -13037,7 +13042,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "0028",
@@ -13045,7 +13050,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "0029",
@@ -13069,7 +13074,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "0032",
@@ -13077,7 +13082,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "0033",
@@ -13085,7 +13090,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2070
+      "UsersEstimate": 2071
     },
     {
       "ID": "0034",
@@ -13116,7 +13121,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18822,
+      "Progressed": 18824,
       "Completed": 4
     }
   ],
@@ -13124,8 +13129,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-11T16:03:59.6274982+00:00",
+  "LastChanged_Achievements": "2023-11-11T17:05:10.1993039+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:48.0347505+00:00",
-  "LastUpdate_Ratings": "2023-11-11T16:02:35.9127063+00:00",
-  "LastUpdate_Achievements": "2023-11-11T16:03:59.6275614+00:00"
+  "LastUpdate_Ratings": "2023-11-11T17:03:36.204393+00:00",
+  "LastUpdate_Achievements": "2023-11-11T17:05:10.1993955+00:00"
 }
