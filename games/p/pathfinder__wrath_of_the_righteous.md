@@ -124,7 +124,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,067 (Ranked 151)  
-Completed: 0 (0.00%) (Ranked 348)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -331,7 +331,7 @@ Completed: 0 (0.00%) (Ranked 348)
 | 2023-11-11 | 12,067 | 0 |
 ## Awards
 Max (Character Customization): 1,737  (Ranked 121)  
-Sum: 7,047 (Ranked 119)  
+Sum: 7,048 (Ranked 119)  
 Diff (max vs sum): 2  
 | Award | Count |
 | ----- | ----- |
@@ -341,7 +341,7 @@ Diff (max vs sum): 2
 | This game has Diverse Characters | 642 |
 | This game has Amazing Characters | 640 |
 | This game has Amazing Storytelling | 621 |
-| This game has Challenging Combat | 585 |
+| This game has Challenging Combat | 586 |
 | This game has Quickly Understood Controls | 576 |
 | This game is Relaxing | 553 |
 | This game has a Creative Community | 394 |
@@ -607,4 +607,4 @@ Diff (max vs sum): 2
 | 2023-11-07 | 4.76 | - | 1,736 | 7,035 |
 | 2023-11-09 | 4.76 | - | 1,736 | 7,039 |
 | 2023-11-10 | 4.76 | - | 1,737 | 7,046 |
-| 2023-11-11 | 4.76 | - | 1,737 | 7,047 |
+| 2023-11-11 | 4.76 | - | 1,737 | 7,048 |

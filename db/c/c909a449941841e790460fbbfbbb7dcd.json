@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 184,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.8,
   "EosHistory": [
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:04:38.6379415+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:03:54.9559634+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:58:06.0169436+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:04:38.6379588+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:57:57.2102239+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:03:54.9559928+00:00"
 }

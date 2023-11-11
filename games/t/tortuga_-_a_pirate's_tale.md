@@ -5,25 +5,25 @@ Rating: 3.78 (Ranked 1,029)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eeligally Ambitious | 95.00% | ~16,174 |
-| No Half Measures | 87.00% | ~14,812 |
-| Personal Matter | 86.00% | ~14,642 |
-| But You Have Heard of Me | 72.00% | ~12,258 |
-| Double the Barrels, double the Fun | 54.00% | ~9,194 |
-| Pimp My Glide | 49.00% | ~8,342 |
-| ... And Where Do the Stories Come From? | 40.00% | ~6,810 |
-| House Party! | 35.00% | ~5,959 |
+| Eeligally Ambitious | 95.00% | ~16,177 |
+| No Half Measures | 87.00% | ~14,814 |
+| Personal Matter | 86.00% | ~14,644 |
+| But You Have Heard of Me | 72.00% | ~12,260 |
+| Double the Barrels, double the Fun | 54.00% | ~9,195 |
+| Pimp My Glide | 49.00% | ~8,344 |
+| ... And Where Do the Stories Come From? | 40.00% | ~6,811 |
+| House Party! | 35.00% | ~5,960 |
 | Make It Rain | 23.00% | ~3,916 |
 | Curse of the Seven Seas | 22.00% | ~3,746 |
 | Head First | 16.00% | ~2,724 |
 | To the World's End | 12.00% | ~2,043 |
 | Table for Six | 11.00% | ~1,873 |
-| Sharing Is Caring | 10.00% | ~1,702 |
+| Sharing Is Caring | 10.00% | ~1,703 |
 | I'm Somewhat of a Colonial Force Myself | 8.00% | ~1,362 |
 | Morally Flexible | 6.00% | ~1,022 |
 | Fishing for Compliments | 5.00% | ~851 |
 | After All, Why Shouldn't I Keep It? | 3.00% | ~511 |
-| A True Dandy | 2.00% | ~340 |
+| A True Dandy | 2.00% | ~341 |
 | A New Legend Awaits | 1.00% | ~170 |
 | Pirate King | 0.80% | ~136 |
 | Oooh, We're Half Way There | 0.80% | ~136 |
@@ -32,7 +32,7 @@ Rating: 3.78 (Ranked 1,029)
 | Pufferfish | 0.10% | ~17 |
 | O Captain! My Captain! | 0.10% | ~17 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,025 (Ranked 142)  
+Progressed: 17,028 (Ranked 142)  
 Completed: 1 (0.01%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 1 (0.01%) (Ranked 326)
 | 2023-11-08 | 16,952 | 1 |
 | 2023-11-09 | 16,972 | 1 |
 | 2023-11-10 | 16,999 | 1 |
-| 2023-11-11 | 17,025 | 1 |
+| 2023-11-11 | 17,028 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

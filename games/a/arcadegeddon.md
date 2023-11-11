@@ -7,25 +7,25 @@ Number of Ratings: 801  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Let's Get This Party Started | 88.00% | ~8,437 |
-| Photogenic | 85.00% | ~8,149 |
-| Plug It In | 81.00% | ~7,765 |
-| Surge Gauntlet Jockey | 81.00% | ~7,765 |
-| Adventure Time | 77.00% | ~7,382 |
-| Playing With Power | 74.00% | ~7,094 |
+| Photogenic | 85.00% | ~8,150 |
+| Plug It In | 81.00% | ~7,766 |
+| Surge Gauntlet Jockey | 81.00% | ~7,766 |
+| Adventure Time | 77.00% | ~7,383 |
+| Playing With Power | 74.00% | ~7,095 |
 | Coup d'Etat | 57.00% | ~5,465 |
 | You're Fired | 55.00% | ~5,273 |
-| Get Furious | 54.00% | ~5,177 |
-| Hacks In Stacks | 54.00% | ~5,177 |
-| Gunplay And Cosplay | 53.00% | ~5,081 |
+| Get Furious | 54.00% | ~5,178 |
+| Hacks In Stacks | 54.00% | ~5,178 |
+| Gunplay And Cosplay | 53.00% | ~5,082 |
 | Meching Enemies | 47.00% | ~4,506 |
-| Ticket Toddler | 43.00% | ~4,122 |
+| Ticket Toddler | 43.00% | ~4,123 |
 | Booty Bashing | 38.00% | ~3,643 |
-| Field Medic | 37.00% | ~3,547 |
-| Here Comes a New Challenger | 36.00% | ~3,451 |
+| Field Medic | 37.00% | ~3,548 |
+| Here Comes a New Challenger | 36.00% | ~3,452 |
 | Rapid Response | 32.00% | ~3,068 |
 | Surge Ahead | 30.00% | ~2,876 |
 | The Full Monty | 30.00% | ~2,876 |
-| Guardian Angel | 27.00% | ~2,588 |
+| Guardian Angel | 27.00% | ~2,589 |
 | Poppin Noggins | 24.00% | ~2,301 |
 | Clips and Crits | 19.00% | ~1,822 |
 | Grey Goo | 17.00% | ~1,630 |
@@ -42,10 +42,10 @@ Number of Ratings: 801  (23.09.2022)
 | Ticket Titan | 6.00% | ~575 |
 | Master of Arms | 5.00% | ~479 |
 | Stop Hitting Yourself | 5.00% | ~479 |
-| Ground Control | 4.00% | ~383 |
-| No Chill | 4.00% | ~383 |
-| Start Your Collection | 4.00% | ~383 |
-| Team Player | 4.00% | ~383 |
+| Ground Control | 4.00% | ~384 |
+| No Chill | 4.00% | ~384 |
+| Start Your Collection | 4.00% | ~384 |
+| Team Player | 4.00% | ~384 |
 | Event Horizon | 3.00% | ~288 |
 | Treasure Hunting | 3.00% | ~288 |
 | Nexuwizard | 2.00% | ~192 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,587 (Ranked 160)  
+Progressed: 9,588 (Ranked 160)  
 Completed: 1 (0.01%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 1 (0.01%) (Ranked 326)
 | 2023-11-08 | 9,556 | 1 |
 | 2023-11-09 | 9,568 | 1 |
 | 2023-11-10 | 9,575 | 1 |
-| 2023-11-11 | 9,587 | 1 |
+| 2023-11-11 | 9,588 | 1 |
 ## Awards
 Max (Relaxing): 64  (Ranked 406)  
 Sum: 463 (Ranked 329)  

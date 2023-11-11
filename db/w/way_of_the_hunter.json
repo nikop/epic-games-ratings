@@ -4,10 +4,10 @@
   "ProductSlug": "way-of-the-hunter",
   "Ranking_Rating": 763,
   "Ranking_Popularity": 421,
-  "Ranking_PopularitySum": 357,
+  "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 740,
-  "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
@@ -1223,10 +1223,16 @@
       "Rating": 4.38,
       "NumberOfAwards": 313,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2023-11-11T21:57:50.1176166+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 315,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 313,
+  "NumberOfAwards": 315,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1234,7 +1240,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1270,7 +1276,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1321,8 +1327,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T17:32:55.4881061+00:00",
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
-  "LastChanged": "2023-11-09T10:01:18.442404+00:00",
+  "LastChanged": "2023-11-11T21:57:50.1176162+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:34.4236263+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:57:56.8656535+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:09:40.0647312+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:57:50.1176172+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:09:11.9152631+00:00"
 }

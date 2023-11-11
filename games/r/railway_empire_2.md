@@ -15,7 +15,7 @@ Rating: 4.42 (Ranked 715)
 | Brainstorm | 66.00% | ~1,416 |
 | Travel Company | 66.00% | ~1,416 |
 | Mind the Gap | 65.00% | ~1,395 |
-| All around the World | 62.00% | ~1,331 |
+| All around the World | 63.00% | ~1,352 |
 | Right through the middle | 58.00% | ~1,245 |
 | Facility Manager | 54.00% | ~1,159 |
 | Poor Devil | 54.00% | ~1,159 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 715)
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,146 (Ranked 217)  
-Completed: 0 (0.00%) (Ranked 348)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

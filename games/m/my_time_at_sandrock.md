@@ -8,16 +8,16 @@ Number of Ratings: 892  (23.09.2022)
 | ---- | ---------- | ----- |
 | Adept Assembler | 240.00% | ~720 |
 | Iron Chef | 184.00% | ~552 |
-| Greeno-B-Gone | 117.00% | ~351 |
+| Greeno-B-Gone | 118.00% | ~354 |
 | Your Especially Earned Trajectory | 91.00% | ~273 |
 | No Mountain Wide Enough | 62.00% | ~186 |
 | Can We Keep It? | 60.00% | ~180 |
 | On that Grindset | 59.00% | ~177 |
+| Diamonds are Forever | 51.00% | ~153 |
 | Yakmel Whisperer | 50.00% | ~150 |
-| Diamonds are Forever | 50.00% | ~150 |
 | Pack Mule | 49.00% | ~147 |
-| Unboxing | 46.00% | ~138 |
-| Financially Secure | 44.00% | ~132 |
+| Unboxing | 47.00% | ~141 |
+| Financially Secure | 45.00% | ~135 |
 | Got Served | 43.00% | ~129 |
 | One of the Cool Kids | 43.00% | ~129 |
 | Big Game Hunter | 42.00% | ~126 |
@@ -31,9 +31,9 @@ Number of Ratings: 892  (23.09.2022)
 | You Don't Win Friends With Salad | 37.00% | ~111 |
 | What Plants Crave | 36.00% | ~108 |
 | I Do! | 36.00% | ~108 |
+| First Love | 34.00% | ~102 |
 | Officially Official | 33.00% | ~99 |
 | Anti-Santa | 33.00% | ~99 |
-| First Love | 33.00% | ~99 |
 | Finishing Touches | 31.00% | ~93 |
 | Panda-kin | 30.00% | ~90 |
 | Bridging the Gap | 30.00% | ~90 |
@@ -44,7 +44,7 @@ Number of Ratings: 892  (23.09.2022)
 | He Can Spin A Yarn... | 25.00% | ~75 |
 | Waste Not Want Not | 25.00% | ~75 |
 | Commissions, commissions...! | 23.00% | ~69 |
-| Elementary, My Dear | 21.00% | ~63 |
+| Elementary, My Dear | 22.00% | ~66 |
 | Lifeline Pipeline | 21.00% | ~63 |
 | Got the Flow Back | 20.00% | ~60 |
 | Newton | 20.00% | ~60 |
@@ -54,8 +54,8 @@ Number of Ratings: 892  (23.09.2022)
 | Sepia Toned Memories | 15.00% | ~45 |
 | Santa In Training | 15.00% | ~45 |
 | Time Flies | 14.00% | ~42 |
+| It Belongs in a Museum! | 14.00% | ~42 |
 | Sandrunning Speedster | 13.00% | ~39 |
-| It Belongs in a Museum! | 13.00% | ~39 |
 | Cardistry | 12.00% | ~36 |
 | Pro Gamer | 12.00% | ~36 |
 | Jack of All Trades | 8.00% | ~24 |
@@ -68,7 +68,7 @@ Number of Ratings: 892  (23.09.2022)
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 300 (Ranked 337)  
-Completed: 0 (0.00%) (Ranked 348)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

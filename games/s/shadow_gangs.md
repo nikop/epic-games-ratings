@@ -47,8 +47,8 @@
 | Bamboo level completed | 0.00% | ~0 |
 | First ninja bonus stage beaten | -20.00% | ~-1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5 (Ranked 618)  
-Completed: 0 (0.00%) (Ranked 348)  
+Progressed: 5 (Ranked 620)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

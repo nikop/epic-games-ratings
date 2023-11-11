@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 212,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 523,
+  "EOS_Progressed": 524,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
@@ -1775,6 +1775,11 @@
       "Time": "2023-11-11T21:09:11.6707211+00:00",
       "NumProgressed": 523,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-11T22:08:48.2311301+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1795,7 +1800,7 @@
       "Name": "Holey Moley",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "achievement_11",
@@ -1811,7 +1816,7 @@
       "Name": "From Way Downtown",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "achievement_13",
@@ -1849,9 +1854,9 @@
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 319
+      "UsersEstimate": 314
     },
     {
       "ID": "achievement_18",
@@ -1883,7 +1888,7 @@
       "Name": "From Many, One",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "achievement_5",
@@ -1899,7 +1904,7 @@
       "Name": "The Strongest Field in Golf",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_7",
@@ -1907,7 +1912,7 @@
       "Name": "Makin\u0027 the Cut",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "achievement_8",
@@ -1930,13 +1935,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 523,
+      "Progressed": 524,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:09:11.6707205+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:08:48.2311293+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:16.271819+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:57:28.0582537+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:09:11.6707463+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:57:27.1233831+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:08:48.2311539+00:00"
 }

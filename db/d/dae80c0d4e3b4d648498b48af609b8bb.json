@@ -3,8 +3,8 @@
   "Name": null,
   "ProductSlug": "ark-devkit",
   "Ranking_EOS_Progress": 740,
-  "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-09T22:57:16.8470656+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:00:13.0776449+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:04:52.6964082+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:59:39.1393091+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:04:06.3487454+00:00"
 }

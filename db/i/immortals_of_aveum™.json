@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 260,
+  "EOS_Progressed": 261,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -1191,6 +1191,11 @@
       "Time": "2023-11-11T19:08:47.5921684+00:00",
       "NumProgressed": 260,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T22:06:32.8118311+00:00",
+      "NumProgressed": 261,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1203,7 +1208,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_10",
@@ -1219,7 +1224,7 @@
       "Name": "The Means to Save It",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "achievement_12",
@@ -1251,7 +1256,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "achievement_16",
@@ -1291,7 +1296,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_20",
@@ -1347,7 +1352,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_36",
@@ -1379,7 +1384,7 @@
       "Name": "No More Names",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_41",
@@ -1435,7 +1440,7 @@
       "Name": "Enlisted",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "achievement_49",
@@ -1451,7 +1456,7 @@
       "Name": "Initiate",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_50",
@@ -1499,7 +1504,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "achievement_60",
@@ -1555,7 +1560,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_8",
@@ -1578,7 +1583,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 260,
+      "Progressed": 261,
       "Completed": 1
     }
   ],
@@ -1586,8 +1591,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:08:17.6453831+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:06:32.8118303+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:59:44.0031154+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:08:17.645432+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:59:15.5405593+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:06:32.8119346+00:00"
 }

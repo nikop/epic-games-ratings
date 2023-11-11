@@ -6,7 +6,7 @@
   "Ranking_Popularity": 54,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
-  "Ranking_EOS_Completed": 348,
+  "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 21,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
@@ -11863,10 +11863,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57129,
       "NumberOfAwardsMax": 6946
+    },
+    {
+      "Time": "2023-11-11T21:59:25.6972658+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57152,
+      "NumberOfAwardsMax": 6946
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57129,
+  "NumberOfAwards": 57152,
   "NumberOfAwardsMax": 6946,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11892,7 +11898,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6528
+      "Count": 6551
     },
     {
       "Text": "This game is Educational",
@@ -11937,9 +11943,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 452966,
+  "EOS_Progressed": 453023,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5823,
+  "EOS_NewPlayers": 5846,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35427,6 +35433,11 @@
       "Time": "2023-11-11T21:07:13.7095666+00:00",
       "NumProgressed": 452966,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T22:06:04.68672+00:00",
+      "NumProgressed": 453023,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35436,9 +35447,9 @@
       "ID": "achievement_52_garhs",
       "SetID": "67mdiil",
       "Name": "The 52 Garhs",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_I_dont_like_sand",
@@ -36716,9 +36727,9 @@
       "ID": "achievement_khaaaaaan",
       "SetID": "8p2n7he",
       "Name": "KHAAAAAAN",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_king_of_jerusalem",
@@ -38180,9 +38191,9 @@
       "ID": "achievement_where_are_the_penguins",
       "SetID": "8p2n7he",
       "Name": "Where are the penguins?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_where_the_heart_is",
@@ -38341,21 +38352,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 452966,
+      "Progressed": 453023,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 452966,
+      "Progressed": 453023,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-11T20:59:56.1686242+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:07:13.7095558+00:00",
+  "LastChanged": "2023-11-11T21:59:25.6972654+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:06:04.6867192+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:59:56.1686249+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:07:13.7109138+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:59:25.6972668+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:06:04.688905+00:00"
 }

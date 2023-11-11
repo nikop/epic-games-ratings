@@ -6,9 +6,9 @@ Rating: 4.43 (Ranked 689)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Night Has Just Begun | 0.50% | ~3 |
-| No stone unturned | 0.40% | ~2 |
-| Dead-On | 0.40% | ~2 |
-| "This Guy Is Really Good" | 0.40% | ~2 |
+| No stone unturned | 0.30% | ~2 |
+| Dead-On | 0.30% | ~2 |
+| "This Guy Is Really Good" | 0.30% | ~2 |
 | I'd Buy That For a Dollar! | 0.20% | ~1 |
 | Hard Boiled | 0.20% | ~1 |
 | Uphold the Law | 0.20% | ~1 |
@@ -33,8 +33,8 @@ Rating: 4.43 (Ranked 689)
 | Good eyes, Murphy! | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 571 (Ranked 289)  
-Completed: 0 (0.00%) (Ranked 348)  
+Progressed: 573 (Ranked 289)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -47,7 +47,7 @@ Completed: 0 (0.00%) (Ranked 348)
 | 2023-11-08 | 400 | 0 |
 | 2023-11-09 | 469 | 0 |
 | 2023-11-10 | 521 | 0 |
-| 2023-11-11 | 571 | 0 |
+| 2023-11-11 | 573 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

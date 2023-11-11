@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6979,9 +6979,9 @@
       "Count": 3776
     }
   ],
-  "EOS_Progressed": 139383,
+  "EOS_Progressed": 139398,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 780,
+  "EOS_NewPlayers": 795,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27979,6 +27979,11 @@
       "Time": "2023-11-11T21:06:32.6524664+00:00",
       "NumProgressed": 139383,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-11T22:05:29.9414135+00:00",
+      "NumProgressed": 139398,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28134,7 +28139,7 @@
       "Name": "Big Game Hunting",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "boss03",
@@ -28158,7 +28163,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "chest02",
@@ -28166,7 +28171,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "chest03",
@@ -28190,7 +28195,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "collection03",
@@ -28222,7 +28227,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "commonres02",
@@ -28254,7 +28259,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4181
+      "UsersEstimate": 4182
     },
     {
       "ID": "craft02",
@@ -28270,7 +28275,7 @@
       "Name": "Flying off the Shelves",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "craft04",
@@ -28302,7 +28307,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "damage03",
@@ -28366,7 +28371,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4181
+      "UsersEstimate": 4182
     },
     {
       "ID": "expansion02",
@@ -28374,7 +28379,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "expansion03",
@@ -28446,7 +28451,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "gemsspent",
@@ -28462,7 +28467,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "gold02",
@@ -28662,7 +28667,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "master04",
@@ -28766,7 +28771,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4181
+      "UsersEstimate": 4182
     },
     {
       "ID": "sell02",
@@ -28774,7 +28779,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "sell03",
@@ -28806,7 +28811,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5575
+      "UsersEstimate": 5576
     },
     {
       "ID": "twinenchant01",
@@ -28830,7 +28835,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "uncommonres02",
@@ -28870,7 +28875,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "yami_a",
@@ -28885,15 +28890,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139383,
+      "Progressed": 139398,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-11T14:00:41.5949034+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:06:32.6524659+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:05:29.941413+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:00:38.4924076+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:06:32.6527951+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:59:59.7093494+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:05:29.9418142+00:00"
 }

@@ -15002,10 +15002,10 @@
       "Count": 12743
     }
   ],
-  "EOS_Progressed": 896252,
+  "EOS_Progressed": 896260,
   "EOS_Completed": 2766,
   "EOS_NewPlayers": 999,
-  "EOS_NewCompleters": 23,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38267,6 +38267,11 @@
       "Time": "2023-11-11T21:05:22.3456679+00:00",
       "NumProgressed": 896252,
       "NumCompleted": 2766
+    },
+    {
+      "Time": "2023-11-11T22:04:30.9330576+00:00",
+      "NumProgressed": 896260,
+      "NumCompleted": 2766
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38717,9 +38722,9 @@
       "ID": "RelicMaster",
       "SetID": "23nboa5",
       "Name": "Relic Ruler",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 199
+      "UsersEstimate": 224
     },
     {
       "ID": "UltimateSurvivor",
@@ -38814,21 +38819,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896252,
+      "Progressed": 896260,
       "Completed": 2766
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24875,
+      "Progressed": 24883,
       "Completed": 10209
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-11T16:59:45.4707519+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:05:22.3456671+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:04:30.933057+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:59:01.9951749+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:05:22.3459385+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:58:41.9260563+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:04:30.9334013+00:00"
 }

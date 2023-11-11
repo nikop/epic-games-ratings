@@ -6,7 +6,7 @@
   "Ranking_Popularity": 272,
   "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 62,
-  "Ranking_EOS_Completed": 348,
+  "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 61,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
@@ -1311,9 +1311,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 236575,
+  "EOS_Progressed": 236584,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1477,
+  "EOS_NewPlayers": 1468,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18191,6 +18191,11 @@
       "Time": "2023-11-11T21:08:35.4635873+00:00",
       "NumProgressed": 236575,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-11T22:08:17.2685048+00:00",
+      "NumProgressed": 236584,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18202,7 +18207,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7097
+      "UsersEstimate": 7098
     },
     {
       "ID": "100Fail",
@@ -18218,7 +18223,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "BarbarianEpic",
@@ -18234,7 +18239,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7097
+      "UsersEstimate": 7098
     },
     {
       "ID": "BookCollection",
@@ -18250,7 +18255,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14194
+      "UsersEstimate": 14195
     },
     {
       "ID": "Chapter2",
@@ -18266,7 +18271,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7097
+      "UsersEstimate": 7098
     },
     {
       "ID": "Chapter4",
@@ -18602,7 +18607,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16560
+      "UsersEstimate": 16561
     },
     {
       "ID": "DwarfElf15Support",
@@ -18650,7 +18655,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82801
+      "UsersEstimate": 82804
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18698,7 +18703,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18926
+      "UsersEstimate": 18927
     },
     {
       "ID": "FollowBraztok",
@@ -18714,7 +18719,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1419
+      "UsersEstimate": 1420
     },
     {
       "ID": "InsultLoose",
@@ -18752,9 +18757,9 @@
       "ID": "OgreEpic",
       "SetID": "50chcgj",
       "Name": "Gargantua",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2366
     },
     {
       "ID": "Orktobearfest",
@@ -18898,28 +18903,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7097
+      "UsersEstimate": 7098
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 236575,
+      "Progressed": 236584,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 236575,
+      "Progressed": 236584,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-11T13:04:37.5312348+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:08:35.4635868+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:08:17.2685037+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:02:46.6644138+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:08:35.4638327+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:00:38.1036976+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:08:17.2688708+00:00"
 }

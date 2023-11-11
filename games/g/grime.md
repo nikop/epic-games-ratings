@@ -8,28 +8,28 @@ Number of Ratings: 46  (23.09.2022)
 | ---- | ---------- | ----- |
 | Taste | 4.00% | ~6,310 |
 | Imprint | 4.00% | ~6,310 |
-| The Hunt | 3.00% | ~4,732 |
-| Weeper | 3.00% | ~4,732 |
-| Ravenous | 3.00% | ~4,732 |
+| The Hunt | 3.00% | ~4,733 |
+| Weeper | 3.00% | ~4,733 |
+| Ravenous | 3.00% | ~4,733 |
 | Silenced Whispers | 2.00% | ~3,155 |
 | Devourer | 2.00% | ~3,155 |
 | Scion | 1.00% | ~1,573 |
-| Harmless | 1.00% | ~1,577 |
-| Jawcrab | 1.00% | ~1,577 |
-| Jawstag | 1.00% | ~1,577 |
-| Feast | 1.00% | ~1,577 |
-| Watcher | 1.00% | ~1,577 |
-| Yank | 1.00% | ~1,577 |
-| Sharpened Vessel | 1.00% | ~1,577 |
+| Harmless | 1.00% | ~1,578 |
+| Jawcrab | 1.00% | ~1,578 |
+| Jawstag | 1.00% | ~1,578 |
+| Feast | 1.00% | ~1,578 |
+| Watcher | 1.00% | ~1,578 |
+| Yank | 1.00% | ~1,578 |
+| Sharpened Vessel | 1.00% | ~1,578 |
 | Shapely | 0.90% | ~1,420 |
 | Glare | 0.90% | ~1,416 |
 | Predator | 0.80% | ~1,262 |
 | Assimilation | 0.70% | ~1,104 |
 | Host | 0.70% | ~1,101 |
 | Celebration | 0.70% | ~1,104 |
-| Hunt Down | 0.60% | ~946 |
-| Inevitable | 0.60% | ~946 |
-| All-Seeing | 0.60% | ~946 |
+| Hunt Down | 0.60% | ~947 |
+| Inevitable | 0.60% | ~947 |
+| All-Seeing | 0.60% | ~947 |
 | Dream | 0.60% | ~944 |
 | Breath | 0.50% | ~789 |
 | Artisan | 0.50% | ~789 |
@@ -43,8 +43,8 @@ Number of Ratings: 46  (23.09.2022)
 | Kin | 0.30% | ~472 |
 | Listen | 0.30% | ~472 |
 | Proportions | 0.30% | ~473 |
-| Weakness | 0.20% | ~315 |
-| Generous | 0.20% | ~315 |
+| Weakness | 0.20% | ~316 |
+| Generous | 0.20% | ~316 |
 | Enrich | 0.20% | ~315 |
 | Intensify | 0.20% | ~315 |
 | Spiral Heart | 0.10% | ~158 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,749 (Ranked 76)  
-Completed: 1 (0.00%) (Ranked 348)  
+Progressed: 157,759 (Ranked 76)  
+Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -235,7 +235,7 @@ Completed: 1 (0.00%) (Ranked 348)
 | 2023-11-08 | 157,236 | 1 |
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
-| 2023-11-11 | 157,749 | 1 |
+| 2023-11-11 | 157,759 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 426)  
 Sum: 355 (Ranked 349)  

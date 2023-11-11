@@ -14,20 +14,21 @@
 | A hidden snake | 21.00% | ~7 |
 | Blood and sand | 21.00% | ~7 |
 | Vene, vidi, vici | 18.00% | ~6 |
+| Crimson rivers | 15.00% | ~5 |
 | Power of Inquisition | 15.00% | ~5 |
 | Help of the Gell | 15.00% | ~5 |
-| Crimson rivers | 12.00% | ~4 |
 | The champion of the arena | 12.00% | ~4 |
 | Surpass the teacher | 12.00% | ~4 |
 | Rage | 12.00% | ~4 |
 | Protect the Healer! | 12.00% | ~4 |
+| Trial by cold | 12.00% | ~4 |
 | She-Wolf | 12.00% | ~4 |
 | Overplay the rogue | 9.00% | ~3 |
 | Berkanan Borgia | 9.00% | ~3 |
 | By own strength | 9.00% | ~3 |
-| Trial by cold | 9.00% | ~3 |
 | For the greater good | 6.00% | ~2 |
 | The best apprentice | 6.00% | ~2 |
+| Stronger than Gellian steel | 6.00% | ~2 |
 | The power of persuasion | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |
 | A solo player | 6.00% | ~2 |
@@ -35,7 +36,6 @@
 | Cunning plan | 6.00% | ~2 |
 | All's fair in love and war | 6.00% | ~2 |
 | Collector | 3.00% | ~1 |
-| Stronger than Gellian steel | 3.00% | ~1 |
 | First among Frisians | 3.00% | ~1 |
 | Do it yourself | 3.00% | ~1 |
 | By someone else's hands | 3.00% | ~1 |
@@ -55,7 +55,7 @@
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33 (Ranked 507)  
-Completed: 0 (0.00%) (Ranked 348)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

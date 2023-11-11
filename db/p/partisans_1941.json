@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1624,
+  "EOS_Progressed": 1625,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3599,6 +3599,11 @@
       "Time": "2023-11-11T20:11:00.0041979+00:00",
       "NumProgressed": 1624,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T22:06:16.1516515+00:00",
+      "NumProgressed": 1625,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3610,7 +3615,7 @@
       "Name": "Agent 47",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "Auditor",
@@ -3690,7 +3695,7 @@
       "Name": "E1M1",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "Everyone_is_here",
@@ -3738,7 +3743,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "High_noon",
@@ -3794,7 +3799,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "MoskitoBite",
@@ -3826,7 +3831,7 @@
       "Name": "War Never Changes",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "We_were_not_here",
@@ -3849,15 +3854,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1624,
+      "Progressed": 1625,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:07:27.5110319+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:06:16.1516503+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:00:39.8902262+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:07:27.5110793+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:00:00.5947656+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:06:16.1517623+00:00"
 }

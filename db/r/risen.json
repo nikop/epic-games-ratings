@@ -6,8 +6,8 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 507,
-  "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -553,17 +553,17 @@
       "ID": "id_58",
       "SetID": "bk9jib6",
       "Name": "Moneybags",
-      "Percentage": 12,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "id_59",
       "SetID": "bk9jib6",
       "Name": "King Midas",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "id_6",
@@ -642,8 +642,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-10T23:58:50.2758771+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:09:08.342763+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:08:45.2281331+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:24.9853517+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:59:23.5324189+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:09:08.3428082+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:58:59.7703092+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:08:45.2281811+00:00"
 }

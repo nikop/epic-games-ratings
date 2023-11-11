@@ -3,8 +3,8 @@
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 576,
-  "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -235,9 +235,9 @@
       "ID": "A_KILLS_2 kills_1 (0-1000)",
       "SetID": "324h56e",
       "Name": "Massacre",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "A_LEGENDARY",
@@ -275,9 +275,9 @@
       "ID": "A_MEDIC_HEAL",
       "SetID": "324h56e",
       "Name": "Always Blame the Healer",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A_MINERALS minerals (0-2500)",
@@ -395,9 +395,9 @@
       "ID": "A_WORKER",
       "SetID": "324h56e",
       "Name": "All-Star Worker",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "A_WRAITH",
@@ -418,8 +418,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:07:24.4252483+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:06:13.6026849+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:41.4462946+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:58:30.3727264+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:07:24.4252795+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:58:16.8620851+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:06:13.6027372+00:00"
 }

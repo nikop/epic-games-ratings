@@ -5,21 +5,21 @@ Rating: 4.28 (Ranked 848)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,400 |
-| Copacetic Coordination | 16.00% | ~56,306 |
-| Fronting the Money | 15.00% | ~52,787 |
-| The Dawn of Automation | 14.00% | ~49,268 |
-| Extraordinary Logistics | 14.00% | ~49,268 |
+| Corner Clout | 47.00% | ~165,402 |
+| Copacetic Coordination | 16.00% | ~56,307 |
+| Fronting the Money | 15.00% | ~52,788 |
+| The Dawn of Automation | 14.00% | ~49,269 |
+| Extraordinary Logistics | 14.00% | ~49,269 |
 | Dirty Money | 13.00% | ~45,749 |
 | Family First | 13.00% | ~45,749 |
 | Cleaning House | 12.00% | ~42,230 |
 | Room in the Back | 12.00% | ~42,230 |
 | Beating the Heat | 11.00% | ~38,711 |
 | Booze Baron | 11.00% | ~38,711 |
-| Friends on the Force | 10.00% | ~35,191 |
-| Neighborhood Watch | 10.00% | ~35,191 |
-| Core Corps | 8.00% | ~28,153 |
-| Sizeable Stash | 8.00% | ~28,153 |
+| Friends on the Force | 10.00% | ~35,192 |
+| Neighborhood Watch | 10.00% | ~35,192 |
+| Core Corps | 8.00% | ~28,154 |
+| Sizeable Stash | 8.00% | ~28,154 |
 | Street Fighter | 7.00% | ~24,634 |
 | Friendly Gestures | 7.00% | ~24,634 |
 | People Person | 7.00% | ~24,634 |
@@ -41,13 +41,13 @@ Rating: 4.28 (Ranked 848)
 | An Affront to the Enemy | 4.00% | ~14,077 |
 | Friends from Back Home | 4.00% | ~14,077 |
 | Half Century Mark | 4.00% | ~14,077 |
-| Corner Opportunities | 3.00% | ~10,557 |
-| 2122 North Clark Street | 3.00% | ~10,557 |
-| Copious Cabbage | 3.00% | ~10,557 |
-| Sockdolager | 3.00% | ~10,557 |
-| Still Stalwart | 3.00% | ~10,557 |
-| Bees Knees Bootlegger | 3.00% | ~10,557 |
-| Tighten the Screws | 3.00% | ~10,557 |
+| Corner Opportunities | 3.00% | ~10,558 |
+| 2122 North Clark Street | 3.00% | ~10,558 |
+| Copious Cabbage | 3.00% | ~10,558 |
+| Sockdolager | 3.00% | ~10,558 |
+| Still Stalwart | 3.00% | ~10,558 |
+| Bees Knees Bootlegger | 3.00% | ~10,558 |
+| Tighten the Screws | 3.00% | ~10,558 |
 | One of Us | 2.00% | ~7,038 |
 | Baker’s Dozen | 2.00% | ~7,038 |
 | Dropping the Dime | 2.00% | ~7,038 |
@@ -60,10 +60,10 @@ Rating: 4.28 (Ranked 848)
 | The Rubber Meets the Road | 1.00% | ~3,519 |
 | Cat’s Meow Clubs | 1.00% | ~3,519 |
 | Stepping It Up | 1.00% | ~3,519 |
+| Crossing Over | 0.90% | ~3,167 |
 | Determined Deliveries | 0.90% | ~3,167 |
 | Boots in the Ground | 0.80% | ~2,815 |
 | Getting Fancy | 0.80% | ~2,815 |
-| Crossing Over | 0.80% | ~2,815 |
 | Still Dreaming | 0.50% | ~1,760 |
 | Working on the Railroad | 0.50% | ~1,760 |
 | Social Butterfly | 0.50% | ~1,760 |
@@ -86,8 +86,8 @@ Rating: 4.28 (Ranked 848)
 | High Pillow | 0.10% | ~352 |
 | Station Master | 0.10% | ~352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 351,914 (Ranked 47)  
-Completed: 7 (0.00%) (Ranked 348)  
+Progressed: 351,919 (Ranked 47)  
+Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -291,7 +291,7 @@ Completed: 7 (0.00%) (Ranked 348)
 | 2023-11-08 | 351,466 | 7 |
 | 2023-11-09 | 351,600 | 7 |
 | 2023-11-10 | 351,749 | 7 |
-| 2023-11-11 | 351,914 | 7 |
+| 2023-11-11 | 351,919 | 7 |
 ## Awards
 Max (Great for Beginners): 44  (Ranked 446)  
 Sum: 187 (Ranked 405)  

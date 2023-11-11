@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2620,
+  "EOS_Progressed": 2622,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 9.08,
   "EosHistory": [
@@ -7096,6 +7096,11 @@
       "Time": "2023-11-11T16:09:22.6991918+00:00",
       "NumProgressed": 2620,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-11-11T22:09:10.4724315+00:00",
+      "NumProgressed": 2622,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 12,
@@ -7123,7 +7128,7 @@
       "Name": "Building the Fox",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "Green Ticket Roundup",
@@ -7139,15 +7144,15 @@
       "Name": "Jacques a Dit",
       "Percentage": 37,
       "XP": 40,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "Jakob",
       "SetID": "b40dflc",
       "Name": "Jakob",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 393
+      "UsersEstimate": 367
     },
     {
       "ID": "Jude",
@@ -7187,7 +7192,7 @@
       "Name": "Nazis in Paris",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "Nuremberg Laws",
@@ -7195,14 +7200,14 @@
       "Name": "Nuremberg Laws",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     }
   ],
   "AchievementSets": [
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2620,
+      "Progressed": 2622,
       "Completed": 238
     }
   ],
@@ -7210,8 +7215,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:09:38.3247244+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:09:10.4724306+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:36.1889415+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:58:00.5504214+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:09:38.324791+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:57:53.0158967+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:09:10.4725249+00:00"
 }

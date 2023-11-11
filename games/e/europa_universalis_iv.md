@@ -6,6 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The 52 Garhs | 0.10% | ~453 |
 | A Blessed Nation | 0.10% | ~453 |
 | A Decent Reserve | 0.10% | ~453 |
 | A Manchurian Candidate | 0.10% | ~453 |
@@ -97,6 +98,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Just Resting In My Account | 0.10% | ~453 |
 | A Kaiser not just in name | 0.10% | ~453 |
 | Keep the Flame Burning | 0.10% | ~453 |
+| KHAAAAAAN | 0.10% | ~453 |
 | King of Jerusalem | 0.10% | ~453 |
 | Kingdom of God | 0.10% | ~453 |
 | Laughingstock | 0.10% | ~453 |
@@ -184,6 +186,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Viva la Revolución! | 0.10% | ~453 |
 | Voting Streak | 0.10% | ~453 |
 | We bled for this | 0.10% | ~453 |
+| Where are the penguins? | 0.10% | ~453 |
 | Winged Hussars | 0.10% | ~453 |
 | Wonderful | 0.10% | ~453 |
 | World Conqueror | 0.10% | ~453 |
@@ -194,7 +197,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.10% | ~453 |
 | The Last Crusade | 0.10% | ~453 |
 | Truly Good Maaaaa-tch | 0.10% | ~453 |
-| The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Hero’s Welcome | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
@@ -263,7 +265,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
-| KHAAAAAAN | 0.00% | ~0 |
 | Kinslayer | 0.00% | ~0 |
 | Kirishitan Japan | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
@@ -359,7 +360,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Victorian Three | 0.00% | ~0 |
 | Voltaire's Nightmare | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
-| Where are the penguins? | 0.00% | ~0 |
 | Where the heart is | 0.00% | ~0 |
 | The White Elephant | 0.00% | ~0 |
 | Why is the Rûm gone!? | 0.00% | ~0 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,966 (Ranked 41)  
-Completed: 1 (0.00%) (Ranked 348)  
+Progressed: 453,023 (Ranked 41)  
+Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -575,10 +575,10 @@ Completed: 1 (0.00%) (Ranked 348)
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
-| 2023-11-11 | 452,966 | 1 |
+| 2023-11-11 | 453,023 | 1 |
 ## Awards
 Max (Educational): 6,946  (Ranked 54)  
-Sum: 57,129 (Ranked 24)  
+Sum: 57,152 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -586,7 +586,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 6,669 |
 | This game is Highly Recommended | 6,663 |
 | This game has Challenging Combat | 6,576 |
-| This game is Extremely Fun | 6,528 |
+| This game is Extremely Fun | 6,551 |
 | This game is Relaxing | 6,378 |
 | This game has Competitive Players | 6,237 |
 | This game has Amazing Storytelling | 5,772 |
@@ -893,4 +893,4 @@ Diff (max vs sum): 30
 | 2023-11-08 | 4.69 | - | 6,903 | 56,787 |
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
-| 2023-11-11 | 4.69 | - | 6,946 | 57,129 |
+| 2023-11-11 | 4.69 | - | 6,946 | 57,152 |

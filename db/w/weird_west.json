@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -372,7 +372,7 @@
   ],
   "EOS_Progressed": 1991,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2704,9 +2704,9 @@
       "ID": "ACH_CHAIN_REACTION",
       "SetID": "8j30i9k",
       "Name": "Chain Reaction",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 518
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
@@ -3136,8 +3136,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-10T21:59:49.034377+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:04:13.3991829+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:03:34.3299315+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:44.9377515+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:02:41.9708434+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:04:13.3992576+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:00:34.3362015+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:03:34.3299931+00:00"
 }

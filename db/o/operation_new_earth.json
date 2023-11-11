@@ -6792,9 +6792,9 @@
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 145
     },
     {
       "ID": "ach_defeat_players_10",
@@ -7097,8 +7097,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:06:30.0124498+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:05:27.5020522+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.0874447+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:58:27.815891+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:06:30.0125172+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:58:14.8003749+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:05:27.5021722+00:00"
 }

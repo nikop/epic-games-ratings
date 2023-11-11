@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 919,
+  "EOS_Progressed": 920,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -3484,6 +3484,11 @@
       "Time": "2023-11-11T19:10:13.2409948+00:00",
       "NumProgressed": 919,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T22:09:06.9075837+00:00",
+      "NumProgressed": 920,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3511,7 +3516,7 @@
       "Name": "Basic Controls",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "BigPlane",
@@ -3527,7 +3532,7 @@
       "Name": "Budget Flight",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Calculated",
@@ -3535,7 +3540,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Close",
@@ -3655,7 +3660,7 @@
       "Name": "Linear Network",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "LongDistance",
@@ -3695,7 +3700,7 @@
       "Name": "New Record",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "NoTimeForModernization",
@@ -3703,7 +3708,7 @@
       "Name": "No Time for Modernization",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "NoWayBack",
@@ -3711,7 +3716,7 @@
       "Name": "No Way Back",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "NotPlanned",
@@ -3719,7 +3724,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "Ownway",
@@ -3759,7 +3764,7 @@
       "Name": "Reliable Transporter",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ResourceEconomy",
@@ -3767,7 +3772,7 @@
       "Name": "Resource Economy",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "Restructuring",
@@ -3830,14 +3835,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 919,
+      "Progressed": 920,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:09:33.7543036+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:09:06.9075829+00:00",
   "LastUpdate_AppInfo": "2023-11-07T15:57:21.4761392+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:01:10.2299192+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:09:33.7543636+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:00:25.9101819+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:09:06.9076782+00:00"
 }

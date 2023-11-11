@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 282,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4215,
+  "EOS_Progressed": 4216,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7299,6 +7299,11 @@
       "Time": "2023-11-11T14:06:52.3728384+00:00",
       "NumProgressed": 4215,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-11T22:05:53.2899577+00:00",
+      "NumProgressed": 4216,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7310,7 +7315,7 @@
       "Name": "Start with a bang!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "Ach002",
@@ -7486,7 +7491,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "Ach024",
@@ -7877,13 +7882,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4215,
+      "Progressed": 4216,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2736,
+      "Progressed": 2737,
       "Completed": 1930
     }
   ],
@@ -7891,8 +7896,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-11T21:07:00.5629492+00:00",
+  "LastChanged_Achievements": "2023-11-11T22:05:53.2899569+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.6846175+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:59:51.1877356+00:00",
-  "LastUpdate_Achievements": "2023-11-11T21:07:00.5630838+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:59:21.4640217+00:00",
+  "LastUpdate_Achievements": "2023-11-11T22:05:53.2901695+00:00"
 }

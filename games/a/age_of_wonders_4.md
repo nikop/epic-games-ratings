@@ -7,17 +7,17 @@ Rating: 4.60 (Ranked 409)
 | ---- | ---------- | ----- |
 | But this one is mine | 2.00% | ~107 |
 | Secret Technique | 0.80% | ~43 |
-| Realm Estate | 0.70% | ~37 |
-| A Wonderful Discovery | 0.70% | ~37 |
-| Walls Cannot Stop Us | 0.70% | ~37 |
-| Freed Lands of Manuhari | 0.70% | ~37 |
+| Realm Estate | 0.70% | ~38 |
+| A Wonderful Discovery | 0.70% | ~38 |
+| Walls Cannot Stop Us | 0.70% | ~38 |
+| Freed Lands of Manuhari | 0.70% | ~38 |
+| Bone Peddler | 0.50% | ~27 |
 | From Friends to Family | 0.50% | ~27 |
 | There Can Only Be One! | 0.40% | ~21 |
-| Bone Peddler | 0.40% | ~21 |
+| Full Ascension | 0.40% | ~21 |
 | Magical Synergy | 0.40% | ~21 |
 | Chaos Surge | 0.40% | ~21 |
 | Spoils of War | 0.40% | ~21 |
-| Full Ascension | 0.30% | ~16 |
 | Stronger Together | 0.30% | ~16 |
 | Seat of Power | 0.30% | ~16 |
 | In a Liege of Your Own | 0.30% | ~16 |
@@ -31,8 +31,10 @@ Rating: 4.60 (Ranked 409)
 | Arch Mage | 0.20% | ~11 |
 | Enchanted Archipelago | 0.20% | ~11 |
 | Digging for Treasure | 0.20% | ~11 |
+| Preparation Is Everything | 0.20% | ~11 |
 | My Final Form | 0.20% | ~11 |
 | Impenetrable Fortress | 0.20% | ~11 |
+| Pruning for Progress | 0.20% | ~11 |
 | Here be Dragons | 0.20% | ~11 |
 | Tipping the Scales | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
@@ -47,13 +49,11 @@ Rating: 4.60 (Ranked 409)
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
-| Preparation Is Everything | 0.10% | ~5 |
 | Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
-| Pruning for Progress | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
 | Returning Circle | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 409)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,357 (Ranked 183)  
+Progressed: 5,360 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
-| 2023-11-11 | 5,357 | 7 |
+| 2023-11-11 | 5,360 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 481)  
 Sum: 53 (Ranked 474)  

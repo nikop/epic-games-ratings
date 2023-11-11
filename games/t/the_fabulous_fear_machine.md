@@ -15,6 +15,9 @@
 | Jung's dream | 3.00% | ~1 |
 | Giant | 3.00% | ~1 |
 | The battle of Great Britain | 3.00% | ~1 |
+| Pulp! Terror Tales in the Night | 3.00% | ~1 |
+| Pulp! Where Monsters Dwell | 3.00% | ~1 |
+| A continent with chemistry | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
 | ECO mode | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
@@ -34,13 +37,10 @@
 | Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |
 | Pulp! The Vault of Horror | 0.00% | ~0 |
-| Pulp! Terror Tales in the Night | 0.00% | ~0 |
-| Pulp! Where Monsters Dwell | 0.00% | ~0 |
 | Pulp! Out of this World | 0.00% | ~0 |
 | Pulp! Adventures into the Unknown | 0.00% | ~0 |
 | Pulp! True Adventures | 0.00% | ~0 |
 | Pulp! The Beyond | 0.00% | ~0 |
-| A continent with chemistry | 0.00% | ~0 |
 | Kirlian's best disciple | 0.00% | ~0 |
 | The barbarian invasions | 0.00% | ~0 |
 | America had no Faith | 0.00% | ~0 |
@@ -53,7 +53,7 @@
 | Welcome to Hellville | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 35 (Ranked 503)  
-Completed: 0 (0.00%) (Ranked 348)  
+Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
