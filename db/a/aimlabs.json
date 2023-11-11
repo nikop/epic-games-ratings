@@ -2,13 +2,13 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 366,
+  "Ranking_Rating": 365,
   "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
     "PcReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -997,10 +997,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 262,
       "NumberOfAwardsMax": 49
+    },
+    {
+      "Time": "2023-11-11T22:58:17.8309243+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 264,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 262,
+  "NumberOfAwards": 264,
   "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1014,7 +1020,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1038,7 +1044,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1071,8 +1077,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2023-11-11T15:57:57.8305252+00:00",
+  "LastChanged": "2023-11-11T22:58:17.8309241+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:41.9795663+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:57:58.9785158+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:06:38.209003+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:58:17.8309247+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:08:02.5526773+00:00"
 }

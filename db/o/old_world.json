@@ -3,12 +3,12 @@
   "Name": "Old World",
   "ProductSlug": "old-world",
   "Ranking_Rating": 312,
-  "Ranking_Popularity": 273,
+  "Ranking_Popularity": 274,
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15269,
+  "EOS_Progressed": 15270,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15800,6 +15800,11 @@
       "Time": "2023-11-11T22:04:09.7591721+00:00",
       "NumProgressed": 15269,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-11T23:04:52.363638+00:00",
+      "NumProgressed": 15270,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16243,7 +16248,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -16435,7 +16440,7 @@
       "Name": "Settler",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -16723,7 +16728,7 @@
       "Name": "Friendly Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -17563,7 +17568,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -18546,21 +18551,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15269,
+      "Progressed": 15270,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15269,
+      "Progressed": 15270,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:04:09.7591713+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:04:52.3636378+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:59:20.650532+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:04:09.7606711+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:00:08.4243572+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:04:52.364542+00:00"
 }

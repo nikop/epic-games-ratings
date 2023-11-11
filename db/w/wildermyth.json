@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -160,9 +160,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1454,
+  "EOS_Progressed": 1455,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -1760,6 +1760,11 @@
       "Time": "2023-11-11T10:09:08.294356+00:00",
       "NumProgressed": 1454,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-11T23:09:14.6090344+00:00",
+      "NumProgressed": 1455,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 56,
@@ -1785,9 +1790,9 @@
       "ID": "achievement_1petReceived",
       "SetID": "95dc8p",
       "Name": "Me and My Familiar",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 29
     },
     {
       "ID": "achievement_3hookQuestsResolved",
@@ -1857,9 +1862,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -2025,9 +2030,9 @@
       "ID": "completedStory_monarchs",
       "SetID": "95dc8p",
       "Name": "Echoes Die",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "completedStory_procedural",
@@ -2218,15 +2223,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1454,
+      "Progressed": 1455,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:09:06.1703199+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:09:14.6090341+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:22.1954438+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:59:52.6045447+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:09:06.1703948+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:00:52.0145998+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:09:14.6090801+00:00"
 }

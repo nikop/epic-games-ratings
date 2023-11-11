@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~848 |
-| Pork Chopped | 2.00% | ~848 |
+| Whatever It Takes | 2.00% | ~849 |
+| Pork Chopped | 2.00% | ~849 |
 | One of Us | 1.00% | ~424 |
 | Welcome To Hell-A | 0.80% | ~5,735 |
 | Hotel California | 0.70% | ~5,018 |
@@ -15,39 +15,39 @@ Rating: 4.54 (Ranked 524)
 | Coup de Grâce | 0.60% | ~4,301 |
 | Hazardous Materials | 0.60% | ~4,301 |
 | Personal Assistant Personally Assisted | 0.60% | ~4,301 |
-| Dr. Reed, I Presume? | 0.50% | ~3,584 |
-| Anger Management | 0.50% | ~3,584 |
-| Bookworm | 0.50% | ~3,584 |
-| But Doctor, I am Butcho | 0.50% | ~3,584 |
-| Can't Handle the Truth | 0.50% | ~3,584 |
-| Like Riding a Bike | 0.50% | ~3,584 |
-| Friends Like These | 0.50% | ~3,584 |
-| Apex Predator | 0.50% | ~3,584 |
-| Stacking the Deck | 0.50% | ~3,584 |
-| This is My Weapon | 0.50% | ~3,584 |
-| Making Your Mark | 0.40% | ~2,867 |
-| Perks of the Job | 0.40% | ~2,867 |
-| I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,867 |
-| Slayer Squad | 0.40% | ~2,867 |
-| Not Even My Final Form | 0.40% | ~2,867 |
-| Zombologist | 0.40% | ~2,867 |
-| Ooh, Shiny! | 0.40% | ~2,867 |
-| A Patton Emerges | 0.40% | ~2,867 |
-| I Am the Resurrection | 0.40% | ~2,867 |
-| Max Headroom | 0.40% | ~2,867 |
-| Our True Nature | 0.40% | ~2,867 |
+| Dr. Reed, I Presume? | 0.50% | ~3,585 |
+| Anger Management | 0.50% | ~3,585 |
+| Bookworm | 0.50% | ~3,585 |
+| But Doctor, I am Butcho | 0.50% | ~3,585 |
+| Can't Handle the Truth | 0.50% | ~3,585 |
+| Like Riding a Bike | 0.50% | ~3,585 |
+| Friends Like These | 0.50% | ~3,585 |
+| Apex Predator | 0.50% | ~3,585 |
+| Stacking the Deck | 0.50% | ~3,585 |
+| This is My Weapon | 0.50% | ~3,585 |
+| Making Your Mark | 0.40% | ~2,868 |
+| Perks of the Job | 0.40% | ~2,868 |
+| I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,868 |
+| Slayer Squad | 0.40% | ~2,868 |
+| Not Even My Final Form | 0.40% | ~2,868 |
+| Zombologist | 0.40% | ~2,868 |
+| Ooh, Shiny! | 0.40% | ~2,868 |
+| A Patton Emerges | 0.40% | ~2,868 |
+| I Am the Resurrection | 0.40% | ~2,868 |
+| Max Headroom | 0.40% | ~2,868 |
+| Our True Nature | 0.40% | ~2,868 |
 | Jumbo Keyring | 0.30% | ~2,151 |
 | Humanity Distilled | 0.30% | ~2,151 |
 | Down with the Sickness | 0.30% | ~2,151 |
 | Go, Bobcats! | 0.30% | ~2,151 |
 | Rising Star | 0.30% | ~2,151 |
 | Make it So | 0.20% | ~1,434 |
+| LA Influential | 0.20% | ~1,434 |
 | On Safari | 0.20% | ~1,434 |
 | Smorgasbord | 0.20% | ~1,434 |
 | Internet Famous | 0.20% | ~1,434 |
 | Variety is the Spice of Death | 0.20% | ~1,434 |
 | Top That, Tisha! | 0.20% | ~85 |
-| LA Influential | 0.10% | ~717 |
 | Donk! | 0.10% | ~717 |
 | Sole Survivor | 0.10% | ~717 |
 | Gore Horse | 0.10% | ~717 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,870 (Ranked 20)  
+Progressed: 716,908 (Ranked 20)  
 Completed: 2,381 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 2,381 (0.33%) (Ranked 220)
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
-| 2023-11-11 | 716,870 | 2,381 |
+| 2023-11-11 | 716,908 | 2,381 |
 ## Awards
 Max (Great Boss Battles): 7,320  (Ranked 53)  
 Sum: 11,108 (Ranked 85)  

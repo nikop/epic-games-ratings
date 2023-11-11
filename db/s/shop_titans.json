@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6923,10 +6923,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27528,
       "NumberOfAwardsMax": 4825
+    },
+    {
+      "Time": "2023-11-11T23:01:01.4562953+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27530,
+      "NumberOfAwardsMax": 4825
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27528,
+  "NumberOfAwards": 27530,
   "NumberOfAwardsMax": 4825,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6976,12 +6982,12 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3776
+      "Count": 3778
     }
   ],
-  "EOS_Progressed": 139398,
+  "EOS_Progressed": 139408,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 795,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27984,6 +27990,11 @@
       "Time": "2023-11-11T22:05:29.9414135+00:00",
       "NumProgressed": 139398,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-11T23:06:35.7864899+00:00",
+      "NumProgressed": 139408,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28593,9 +28604,9 @@
       "ID": "level03",
       "SetID": "anfd17p",
       "Name": "Master Merchant",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 1115
     },
     {
       "ID": "level04",
@@ -28890,15 +28901,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139398,
+      "Progressed": 139408,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-11T14:00:41.5949034+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:05:29.941413+00:00",
+  "LastChanged": "2023-11-11T23:01:01.4562951+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:06:35.7864896+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:59:59.7093494+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:05:29.9418142+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:01:01.4562958+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:06:35.7866621+00:00"
 }

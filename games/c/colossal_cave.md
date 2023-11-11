@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We've only just begun | 95.00% | ~90 |
-| You're spelunkin' now! | 82.00% | ~78 |
+| You're spelunkin' now! | 83.00% | ~79 |
 | The Birdman of The Caves | 49.00% | ~47 |
 | I've Fallen & I Can't Get Up | 49.00% | ~47 |
 | Charmin' the Snake | 35.00% | ~33 |

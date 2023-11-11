@@ -3,12 +3,12 @@
   "Name": "Crying Suns",
   "ProductSlug": "crying-suns",
   "Ranking_Rating": 588,
-  "Ranking_Popularity": 274,
+  "Ranking_Popularity": 275,
   "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470722,
+  "EOS_Progressed": 470723,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22153,6 +22153,11 @@
       "Time": "2023-11-11T22:09:27.0396526+00:00",
       "NumProgressed": 470722,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-11T23:09:40.9565243+00:00",
+      "NumProgressed": 470723,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22180,7 +22185,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112973
+      "UsersEstimate": 112974
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -22284,7 +22289,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117680
+      "UsersEstimate": 117681
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -22316,7 +22321,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51779
+      "UsersEstimate": 51780
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -22340,7 +22345,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94144
+      "UsersEstimate": 94145
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -22348,7 +22353,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160045
+      "UsersEstimate": 160046
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22572,7 +22577,7 @@
       "Name": "Excelsior Mastery",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     },
     {
       "ID": "achievement_win_all_chapers_with_starter_hard",
@@ -22612,7 +22617,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51779
+      "UsersEstimate": 51780
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -22795,21 +22800,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14656,
+      "Progressed": 14657,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470722,
+      "Progressed": 470723,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:09:27.0396521+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:09:40.9565241+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:00:22.7921125+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:09:27.0398743+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:01:33.0322579+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:09:40.9567091+00:00"
 }

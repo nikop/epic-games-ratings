@@ -2,10 +2,10 @@
   "ID": "2a873e03d3c94f6ab62bf1e633e5f008",
   "Name": "Night Book",
   "ProductSlug": "night-book-77f2c7",
-  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 346,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-07-27T17:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 240,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.67,
   "EosHistory": [
@@ -356,6 +356,11 @@
       "Time": "2023-11-11T19:06:40.6656673+00:00",
       "NumProgressed": 239,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-11T23:05:57.165779+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 17,
@@ -373,9 +378,9 @@
       "ID": "career_woman",
       "SetID": "a3kkelb",
       "Name": "Career Woman",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 156
     },
     {
       "ID": "deal_or_no_deal",
@@ -407,7 +412,7 @@
       "Name": "Impress Theron",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "marriage_is_off",
@@ -455,7 +460,7 @@
       "Name": "Personal Life",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "save_dad",
@@ -495,14 +500,14 @@
       "Name": "Will This Help?",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 240,
       "Completed": 4
     }
   ],
@@ -510,8 +515,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:04:59.9072161+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:05:57.1657788+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:27.1603638+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:57:19.0462051+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:04:59.9072391+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:57:24.613999+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:05:57.1657899+00:00"
 }

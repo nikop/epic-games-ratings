@@ -18,6 +18,7 @@ Rating: 4.60 (Ranked 409)
 | Magical Synergy | 0.40% | ~21 |
 | Chaos Surge | 0.40% | ~21 |
 | Spoils of War | 0.40% | ~21 |
+| Dawn of the Dread | 0.40% | ~21 |
 | Stronger Together | 0.30% | ~16 |
 | Seat of Power | 0.30% | ~16 |
 | In a Liege of Your Own | 0.30% | ~16 |
@@ -26,7 +27,6 @@ Rating: 4.60 (Ranked 409)
 | Sehiran Oasis | 0.30% | ~16 |
 | Prometheus Avenged | 0.30% | ~16 |
 | A Conqueror's Cohort | 0.30% | ~16 |
-| Dawn of the Dread | 0.30% | ~16 |
 | Valley of Wonders | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
 | Enchanted Archipelago | 0.20% | ~11 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 409)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,360 (Ranked 183)  
+Progressed: 5,360 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |

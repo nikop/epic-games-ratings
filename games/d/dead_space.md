@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.63 (Ranked 349)  
+Rating: 4.63 (Ranked 348)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -27,14 +27,14 @@ Rating: 4.63 (Ranked 349)
 | Live with the Hot Ones | 40.00% | ~690 |
 | Keeper of the Faith | 38.00% | ~655 |
 | Betrayed | 37.00% | ~638 |
+| Exodus | 36.00% | ~621 |
 | Legend Teller | 36.00% | ~621 |
 | Mindless Prey | 36.00% | ~621 |
-| Exodus | 35.00% | ~603 |
 | There's Always Peng! | 35.00% | ~603 |
 | Front Toward Enemy | 32.00% | ~552 |
 | A Cut Above | 31.00% | ~534 |
+| Whole Again | 28.00% | ~483 |
 | Set A Benchmark | 28.00% | ~483 |
-| Whole Again | 27.00% | ~465 |
 | Full Contact | 25.00% | ~431 |
 | Pack Rat | 25.00% | ~431 |
 | Final Regeneration | 24.00% | ~414 |

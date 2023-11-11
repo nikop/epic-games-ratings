@@ -11,6 +11,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.60% | ~1,205 |
 | See You on the Flipside | 0.50% | ~1,004 |
 | A Brief Tour of the Realms | 0.40% | ~938 |
+| Beast Intentions | 0.20% | ~469 |
 | The Cursed Farmer | 0.20% | ~469 |
 | Maddening | 0.10% | ~235 |
 | Pros and CONs | 0.10% | ~235 |
@@ -57,7 +58,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Fairy Rings of Thither | 0.10% | ~201 |
 | Zarak's Revenge | 0.10% | ~201 |
 | Bully for You! | 0.10% | ~201 |
-| Beast Intentions | 0.10% | ~235 |
 | Wet Feet | 0.10% | ~235 |
 | The Dark Heart | 0.10% | ~201 |
 | Undergeared | 0.10% | ~201 |
@@ -539,7 +539,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~201 |
 | Time Out | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,584 (Ranked 64)  
+Progressed: 234,594 (Ranked 64)  
 Completed: 2,442 (1.04%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -744,7 +744,7 @@ Completed: 2,442 (1.04%) (Ranked 154)
 | 2023-11-08 | 233,992 | 2,437 |
 | 2023-11-09 | 234,118 | 2,440 |
 | 2023-11-10 | 234,382 | 2,441 |
-| 2023-11-11 | 234,584 | 2,442 |
+| 2023-11-11 | 234,594 | 2,442 |
 ## Awards
 Max (Great for Beginners): 5,514  (Ranked 68)  
 Sum: 32,439 (Ranked 40)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1463,9 +1463,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16430,
+  "EOS_Progressed": 16431,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8888,6 +8888,11 @@
       "Time": "2023-11-11T21:05:13.7434986+00:00",
       "NumProgressed": 16430,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-11T23:05:10.1728763+00:00",
+      "NumProgressed": 16431,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -8921,9 +8926,9 @@
       "ID": "BUY_ALL_WEAPONS",
       "SetID": "4hj6d86",
       "Name": "You Need a Gun",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 657
+      "UsersEstimate": 822
     },
     {
       "ID": "DISARM_ENEMY",
@@ -9274,13 +9279,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16430,
+      "Progressed": 16431,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4356,
+      "Progressed": 4357,
       "Completed": 29
     }
   ],
@@ -9288,8 +9293,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-11T08:02:59.0125495+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:04:23.6436126+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:05:10.1728757+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:57.886898+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:02:49.4722896+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:04:23.6437199+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:03:07.5324737+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:05:10.1729655+00:00"
 }

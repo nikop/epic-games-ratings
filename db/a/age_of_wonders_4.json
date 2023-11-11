@@ -5,10 +5,10 @@
   "Ranking_Rating": 409,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 474,
-  "Ranking_EOS_Progress": 183,
+  "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7442,9 +7442,9 @@
       "ID": "58",
       "SetID": "7132754",
       "Name": "Dawn of the Dread",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "59",
@@ -7481,8 +7481,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T17:03:23.9116257+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:03:29.922942+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:04:00.6518435+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:00:35.8703436+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:03:29.9230369+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:01:50.9044933+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:04:00.6519022+00:00"
 }

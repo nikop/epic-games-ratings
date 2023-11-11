@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 118,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1375,9 +1375,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "achievement_23",
@@ -1423,9 +1423,9 @@
       "ID": "achievement_28",
       "SetID": "2cpn27e",
       "Name": "Flawless Crystal",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 141
+      "UsersEstimate": 144
     },
     {
       "ID": "achievement_29",
@@ -1543,9 +1543,9 @@
       "ID": "achievement_41",
       "SetID": "2cpn27e",
       "Name": "Tsukumo Whisperer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_42",
@@ -1653,8 +1653,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:05:32.1408265+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:06:38.5850987+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:58:44.1489404+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:05:32.1408806+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:59:19.0041381+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:06:38.5851364+00:00"
 }

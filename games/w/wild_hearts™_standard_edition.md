@@ -14,10 +14,10 @@
 | Fusion Conjuror | 64.00% | ~170 |
 | Memory Rouser | 64.00% | ~170 |
 | Subsistence Skills | 64.00% | ~170 |
-| Kemono Hunter | 58.00% | ~154 |
+| Kemono Hunter | 59.00% | ~157 |
 | Expert Conjuror | 57.00% | ~152 |
+| Flawless Crystal | 54.00% | ~144 |
 | Distance Devourer | 53.00% | ~141 |
-| Flawless Crystal | 53.00% | ~141 |
 | Master of the Skies | 52.00% | ~138 |
 | Bonds of Enmity | 52.00% | ~138 |
 | Helpful Heart | 52.00% | ~138 |
@@ -51,7 +51,7 @@
 | Vanquisher of the Volatile | 14.00% | ~37 |
 | Bewitched by Bathing | 11.00% | ~29 |
 | Big Spender | 10.00% | ~27 |
-| Tsukumo Whisperer | 6.00% | ~16 |
+| Tsukumo Whisperer | 7.00% | ~19 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 266 (Ranked 350)  
 Completed: 6 (2.26%) (Ranked 118)  

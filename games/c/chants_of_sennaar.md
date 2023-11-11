@@ -8,7 +8,7 @@
 | Welcome to the Tower | 32.00% | ~168 |
 | The great escape | 28.00% | ~147 |
 | The Preacher's fate | 26.00% | ~136 |
-| A new dawn | 23.00% | ~121 |
+| A new dawn | 24.00% | ~126 |
 | Scholar | 21.00% | ~110 |
 | True G3M4R | 20.00% | ~105 |
 | The darkness | 20.00% | ~105 |
@@ -27,7 +27,7 @@
 | A Link to the Past | 11.00% | ~58 |
 | Rascal | 11.00% | ~58 |
 | A great audience | 9.00% | ~47 |
-| For its own good | 8.00% | ~42 |
+| For its own good | 9.00% | ~47 |
 | Fashion victim | 3.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 525 (Ranked 297)  

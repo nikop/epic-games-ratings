@@ -21,6 +21,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.40% | ~3,585 |
 | The Wheel of Fortune | 0.40% | ~3,585 |
 | True Warrior | 0.40% | ~3,585 |
+| Legend of The Afterlife | 0.40% | ~3,585 |
 | Spin Doctor | 0.40% | ~100 |
 | Bushido and Chill | 0.30% | ~2,689 |
 | To Protect and Serve | 0.30% | ~2,689 |
@@ -31,7 +32,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.30% | ~2,689 |
 | The World | 0.30% | ~2,689 |
 | Judy vs Night City | 0.30% | ~2,689 |
-| Legend of The Afterlife | 0.30% | ~2,689 |
 | King of Wands | 0.30% | ~75 |
 | Dirty Deeds | 0.30% | ~75 |
 | Easy Come, Easy Go | 0.30% | ~75 |
@@ -40,6 +40,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.20% | ~1,793 |
 | Two Heads, One Bullet | 0.20% | ~1,793 |
 | Judgement Day | 0.20% | ~50 |
+| King of Swords | 0.20% | ~50 |
 | The Tower | 0.20% | ~50 |
 | City Lights | 0.10% | ~896 |
 | Autojock | 0.10% | ~896 |
@@ -62,7 +63,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The APB is Not Enough | 0.10% | ~25 |
 | King of Cups | 0.10% | ~25 |
 | King of Pentacles | 0.10% | ~25 |
-| King of Swords | 0.10% | ~25 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,260 (Ranked 15)  
+Progressed: 896,271 (Ranked 15)  
 Completed: 2,766 (0.31%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 2,766 (0.31%) (Ranked 223)
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
-| 2023-11-11 | 896,260 | 2,766 |
+| 2023-11-11 | 896,271 | 2,766 |
 ## Awards
 Max (Character Customization): 105,016  (Ranked 9)  
 Sum: 349,420 (Ranked 10)  

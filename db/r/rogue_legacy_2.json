@@ -3,12 +3,12 @@
   "Name": "Rogue Legacy 2",
   "ProductSlug": "rogue-legacy-2",
   "Ranking_Rating": 44,
-  "Ranking_Popularity": 275,
+  "Ranking_Popularity": 276,
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 258,
   "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
     "PcReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1482,7 +1482,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23483,
+  "EOS_Progressed": 23484,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -9472,6 +9472,11 @@
       "Time": "2023-11-11T19:09:29.9867133+00:00",
       "NumProgressed": 23483,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-11T23:08:35.2251004+00:00",
+      "NumProgressed": 23484,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -9547,7 +9552,7 @@
       "Name": "Captain and Crew",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -9794,21 +9799,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23483,
+      "Progressed": 23484,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2413,
+      "Progressed": 2414,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-11-06T15:02:21.8983987+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:08:34.5455348+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:08:35.2251+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:18.340476+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:58:57.4318619+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:08:34.5457134+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:59:36.3619459+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:08:35.2251618+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -919,9 +919,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664498,
+  "EOS_Progressed": 664502,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20429,6 +20429,11 @@
       "Time": "2023-11-11T22:05:59.6158372+00:00",
       "NumProgressed": 664498,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-11T23:07:13.7908119+00:00",
+      "NumProgressed": 664502,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -20440,7 +20445,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478439
+      "UsersEstimate": 478441
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -20448,7 +20453,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385409
+      "UsersEstimate": 385411
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -20488,7 +20493,7 @@
       "Name": "Dungeon Master",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "Achievement_08_Card_Sharp",
@@ -20520,7 +20525,7 @@
       "Name": "Grifter",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "Achievement_12_Jack_of_all_Trades",
@@ -20640,7 +20645,7 @@
       "Name": "Gamester",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4651
+      "UsersEstimate": 4652
     },
     {
       "ID": "Achievement_27_Money_Bags",
@@ -20656,7 +20661,7 @@
       "Name": "Unburdened",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "Achievement_29_Focused",
@@ -20688,7 +20693,7 @@
       "Name": "Karma",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "Achievement_33_Combat_Ready",
@@ -20704,7 +20709,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166124
+      "UsersEstimate": 166126
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -20768,7 +20773,7 @@
       "Name": "Thomas\u0027 Bane",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 5980
+      "UsersEstimate": 5981
     },
     {
       "ID": "Achievement_43_Final_Death",
@@ -20784,7 +20789,7 @@
       "Name": "Miracle",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     },
     {
       "ID": "Achievement_45_Peaceful_Coast",
@@ -20792,7 +20797,7 @@
       "Name": "Peaceful Coast",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1993
+      "UsersEstimate": 1994
     },
     {
       "ID": "Achievement_46_Pilgrim",
@@ -20816,22 +20821,22 @@
       "Name": "Blood Pact",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 664
+      "UsersEstimate": 665
     }
   ],
   "AchievementSets": [
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664498,
+      "Progressed": 664502,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-31T06:59:31.6976797+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:05:59.6158364+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:07:13.7908117+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:12.8499735+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:59:38.7306968+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:05:59.6161156+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:00:33.2697617+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:07:13.7909794+00:00"
 }

@@ -69,6 +69,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Wealth Beyond Measure | 0.80% | ~1,115 |
 | Fat Cat Tag Team | 0.80% | ~1,115 |
 | Necromancer Queen | 0.80% | ~1,115 |
+| Master Merchant | 0.80% | ~1,115 |
 | Miracle Alchemist | 0.80% | ~1,115 |
 | Laden with Loot | 0.80% | ~1,115 |
 | Scourge of the Seas | 0.80% | ~1,115 |
@@ -88,7 +89,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ritualist | 0.70% | ~976 |
 | By Your Powers Combined... | 0.70% | ~976 |
 | Item of Renown | 0.70% | ~976 |
-| Master Merchant | 0.70% | ~976 |
 | Bountiful Harvest | 0.70% | ~976 |
 | Precision Engineering | 0.70% | ~976 |
 | Treasure Trove | 0.70% | ~976 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,398 (Ranked 79)  
+Progressed: 139,408 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
-| 2023-11-11 | 139,398 | 181 |
+| 2023-11-11 | 139,408 | 181 |
 ## Awards
 Max (Great for Beginners): 4,825  (Ranked 73)  
-Sum: 27,528 (Ranked 50)  
+Sum: 27,530 (Ranked 50)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +335,7 @@ Diff (max vs sum): 23
 | This game is Relaxing | 4,039 |
 | This game has Quickly Understood Controls | 4,028 |
 | This game has Diverse Characters | 3,936 |
-| This game is Highly Recommended | 3,776 |
+| This game is Highly Recommended | 3,778 |
 | This game has Easy Combat | 3,724 |
 | This game has Playful Visuals | 3,200 |
 | This game has Inclusive Character Customization | 22 |
@@ -627,4 +627,4 @@ Diff (max vs sum): 23
 | 2023-11-08 | 3.99 | - | 4,819 | 27,509 |
 | 2023-11-09 | 3.99 | - | 4,822 | 27,516 |
 | 2023-11-10 | 3.99 | - | 4,824 | 27,523 |
-| 2023-11-11 | 3.99 | - | 4,825 | 27,528 |
+| 2023-11-11 | 3.99 | - | 4,825 | 27,530 |

@@ -155,6 +155,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tear Down This Wall | 0.10% | ~453 |
 | That is mine! | 0.10% | ~453 |
 | That's a Silk Road | 0.10% | ~453 |
+| The Burgundian Conquest | 0.10% | ~453 |
 | The Chrysanthemum Throne | 0.10% | ~453 |
 | The Coin is Stronger than the Sword | 0.10% | ~453 |
 | The Continuation of Diplomacy | 0.10% | ~453 |
@@ -337,7 +338,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Terra Mariana | 0.00% | ~0 |
 | That's No Mon | 0.00% | ~0 |
 | The Bohemians | 0.00% | ~0 |
-| The Burgundian Conquest | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
 | The Navigator | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,023 (Ranked 41)  
+Progressed: 453,072 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,15 +575,15 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
-| 2023-11-11 | 453,023 | 1 |
+| 2023-11-11 | 453,072 | 1 |
 ## Awards
 Max (Educational): 6,946  (Ranked 54)  
-Sum: 57,152 (Ranked 24)  
+Sum: 57,173 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,946 |
-| This game has Diverse Characters | 6,669 |
+| This game has Diverse Characters | 6,690 |
 | This game is Highly Recommended | 6,663 |
 | This game has Challenging Combat | 6,576 |
 | This game is Extremely Fun | 6,551 |
@@ -893,4 +893,4 @@ Diff (max vs sum): 30
 | 2023-11-08 | 4.69 | - | 6,903 | 56,787 |
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
-| 2023-11-11 | 4.69 | - | 6,946 | 57,152 |
+| 2023-11-11 | 4.69 | - | 6,946 | 57,173 |

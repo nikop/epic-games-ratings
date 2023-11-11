@@ -4,8 +4,8 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 620,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -273,9 +273,9 @@
       "ID": "Ach-04-snek",
       "SetID": "2pjo9pi",
       "Name": "Snek",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ach-04-tucnak",
@@ -441,9 +441,9 @@
       "ID": "Ach-level-3",
       "SetID": "2pjo9pi",
       "Name": "Level 3",
-      "Percentage": 20,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach-level-4",
@@ -487,8 +487,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:05:22.2755623+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:06:25.7322349+00:00",
   "LastUpdate_AppInfo": "2023-11-08T16:57:11.9520602+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:59:26.8021123+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:05:22.2756463+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:00:16.7793294+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:06:25.7322709+00:00"
 }

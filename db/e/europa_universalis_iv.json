@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 21,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 20,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11869,10 +11869,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57152,
       "NumberOfAwardsMax": 6946
+    },
+    {
+      "Time": "2023-11-11T23:00:15.222724+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57173,
+      "NumberOfAwardsMax": 6946
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57152,
+  "NumberOfAwards": 57173,
   "NumberOfAwardsMax": 6946,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11892,7 +11898,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 6669
+      "Count": 6690
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11943,9 +11949,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 453023,
+  "EOS_Progressed": 453072,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5846,
+  "EOS_NewPlayers": 5895,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35438,6 +35444,11 @@
       "Time": "2023-11-11T22:06:04.68672+00:00",
       "NumProgressed": 453023,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T23:07:20.2669284+00:00",
+      "NumProgressed": 453072,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37759,9 +37770,9 @@
       "ID": "achievement_the_burgundian_inheritance",
       "SetID": "8p2n7he",
       "Name": "The Burgundian Conquest",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_the_chrysanthemum_throne",
@@ -38352,21 +38363,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 453023,
+      "Progressed": 453072,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 453023,
+      "Progressed": 453072,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-11T21:59:25.6972654+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:06:04.6867192+00:00",
+  "LastChanged": "2023-11-11T23:00:15.2227238+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:07:20.2669283+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:59:25.6972668+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:06:04.688905+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:00:15.2227246+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:07:20.2679296+00:00"
 }

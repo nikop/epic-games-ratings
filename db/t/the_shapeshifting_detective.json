@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 235,
+  "EOS_Progressed": 236,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -430,6 +430,11 @@
       "Time": "2023-11-11T18:04:21.4520686+00:00",
       "NumProgressed": 235,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-11T23:04:05.1127807+00:00",
+      "NumProgressed": 236,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 21,
@@ -441,7 +446,7 @@
       "Name": "A Woman Scorned",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "book_em_danny",
@@ -465,7 +470,7 @@
       "Name": "Chameleon",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "chicken",
@@ -489,7 +494,7 @@
       "Name": "Heavy Rayne",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "highlander",
@@ -521,7 +526,7 @@
       "Name": "Patient Listener",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "play_it_again_sam",
@@ -537,7 +542,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "poetent",
@@ -569,7 +574,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "the_big_sleep",
@@ -608,7 +613,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 235,
+      "Progressed": 236,
       "Completed": 2
     }
   ],
@@ -616,8 +621,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:03:33.6161129+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:04:05.1127804+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:56.3020769+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:59:44.3481155+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:03:33.6161315+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:00:40.3770979+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:04:05.1127996+00:00"
 }

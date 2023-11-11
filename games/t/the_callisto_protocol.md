@@ -13,6 +13,7 @@ Rating: 4.19 (Ranked 916)
 | Reforged | 6.00% | ~986 |
 | The Outer Way | 6.00% | ~986 |
 | Desperate Times | 6.00% | ~986 |
+| You Need a Gun | 5.00% | ~822 |
 | Two Heads Are Better Than One | 5.00% | ~822 |
 | Workplace Hazard | 5.00% | ~822 |
 | If the SHU Fits... | 5.00% | ~822 |
@@ -24,7 +25,6 @@ Rating: 4.19 (Ranked 916)
 | Power Up | 5.00% | ~822 |
 | Keep Fighting | 5.00% | ~218 |
 | Giving Back | 4.00% | ~657 |
-| You Need a Gun | 4.00% | ~657 |
 | I Do Belong Here | 4.00% | ~657 |
 | Terminated | 4.00% | ~657 |
 | It's Time | 4.00% | ~174 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 916)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,430 (Ranked 143)  
+Progressed: 16,431 (Ranked 143)  
 Completed: 79 (0.48%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 79 (0.48%) (Ranked 197)
 | 2023-11-08 | 16,420 | 79 |
 | 2023-11-09 | 16,425 | 79 |
 | 2023-11-10 | 16,426 | 79 |
-| 2023-11-11 | 16,430 | 79 |
+| 2023-11-11 | 16,431 | 79 |
 ## Awards
 Max (Highly Recommended): 82  (Ranked 384)  
 Sum: 478 (Ranked 327)  

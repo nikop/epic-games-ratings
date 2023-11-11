@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -2613,9 +2613,9 @@
       "ID": "AC31",
       "SetID": "l4abp0",
       "Name": "The Merciless One",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 422
+      "UsersEstimate": 432
     },
     {
       "ID": "AC32",
@@ -2742,8 +2742,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:09:20.713595+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:09:33.6919456+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:16.3145336+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:58:25.3133898+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:09:20.7136865+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:58:52.8775216+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:09:33.6919903+00:00"
 }

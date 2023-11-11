@@ -2,13 +2,13 @@
   "ID": "43acebbd46cd4aac956ad049c10c603a",
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
-  "Ranking_Rating": 6,
+  "Ranking_Rating": 4,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.91,
+  "Rating": 4.92,
   "RatingHistory": [
     {
       "Time": "2023-11-08T20:00:37.8164591+00:00",
@@ -47,15 +47,21 @@
       "Rating": 4.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-11T23:03:06.8073098+00:00",
+      "Rating": 4.92,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 267,
+  "EOS_Progressed": 268,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -403,6 +409,11 @@
       "Time": "2023-11-11T22:03:22.1160261+00:00",
       "NumProgressed": 267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T23:03:50.711569+00:00",
+      "NumProgressed": 268,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -469,9 +480,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "ChasingTheLight",
@@ -511,7 +522,7 @@
       "Name": "Discovery",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "EasternWetlands",
@@ -533,9 +544,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "FloodedValley",
@@ -599,7 +610,7 @@
       "Name": "Lord of the Files",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "LostMarshes",
@@ -615,7 +626,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Mnemosyne",
@@ -629,9 +640,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "MuseumVisitor",
@@ -671,7 +682,7 @@
       "Name": "Overload",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "Persistent",
@@ -703,7 +714,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "RenaissanceRobot",
@@ -725,9 +736,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 29
     },
     {
       "ID": "SingleRod",
@@ -773,9 +784,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "TheEdgeOfForever",
@@ -805,9 +816,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "TheThiefOfFire",
@@ -823,7 +834,7 @@
       "Name": "The Word Endures",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "TouchGrass",
@@ -861,9 +872,9 @@
       "ID": "WesternDelta",
       "SetID": "1n308hc",
       "Name": "Western Delta",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "WoodedPlateau",
@@ -886,16 +897,16 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 267,
+      "Progressed": 268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-11-11T05:02:45.9202035+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:03:22.1160253+00:00",
+  "LastChanged": "2023-11-11T23:03:06.8073096+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:03:50.7115687+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:02:48.8930807+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:03:22.1161276+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:03:06.8073106+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:03:50.7116124+00:00"
 }

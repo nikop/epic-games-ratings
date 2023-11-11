@@ -2,13 +2,13 @@
   "ID": "4ec958d5e4b6429aadbc116cee0b6ea0",
   "Name": "Dead Space",
   "ProductSlug": "dead-space",
-  "Ranking_Rating": 349,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -691,7 +691,7 @@
   ],
   "EOS_Progressed": 1724,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 215,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -5183,9 +5183,9 @@
       "ID": "achievement_12",
       "SetID": "222fo9l",
       "Name": "Exodus",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 603
+      "UsersEstimate": 621
     },
     {
       "ID": "achievement_13",
@@ -5199,9 +5199,9 @@
       "ID": "achievement_14",
       "SetID": "222fo9l",
       "Name": "Whole Again",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 465
+      "UsersEstimate": 483
     },
     {
       "ID": "achievement_15",
@@ -5544,8 +5544,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-05T01:50:21.7166978+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:05:13.7423658+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:06:14.7937393+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:59:35.0946819+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:05:13.7424378+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:00:28.406789+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:06:14.7937818+00:00"
 }

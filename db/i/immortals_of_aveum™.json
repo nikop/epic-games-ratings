@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -123,7 +123,7 @@
   "Tags": [],
   "EOS_Progressed": 261,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1286,17 +1286,17 @@
       "ID": "achievement_19",
       "SetID": "18al4io",
       "Name": "Socialite",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     },
     {
       "ID": "achievement_2",
       "SetID": "18al4io",
       "Name": "Battlefields Have Memories",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 214
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_20",
@@ -1438,9 +1438,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 209
     },
     {
       "ID": "achievement_49",
@@ -1591,8 +1591,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:06:32.8118303+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:07:55.7342992+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:59:15.5405593+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:06:32.8119346+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:00:01.5093512+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:07:55.7343353+00:00"
 }

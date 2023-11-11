@@ -6,8 +6,8 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Me and My Familiar | 2.00% | ~29 |
 | The Cost of Heroism | 2.00% | ~29 |
-| Me and My Familiar | 1.00% | ~15 |
 | Gotta Ca... Must Collect All of Them | 1.00% | ~15 |
 | Passing Shadow | 1.00% | ~15 |
 | This Too Shall Pass | 1.00% | ~15 |
@@ -17,8 +17,8 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 0.80% | ~12 |
 | Core Failure | 0.80% | ~12 |
 | Let Me Get My Chisel | 0.60% | ~9 |
-| Completing the Look | 0.60% | ~9 |
-| Echoes Die | 0.60% | ~9 |
+| Completing the Look | 0.50% | ~7 |
+| Echoes Die | 0.50% | ~7 |
 | A Mythic Menagerie | 0.40% | ~6 |
 | Who's Counting? | 0.40% | ~6 |
 | Thematic Divergence | 0.40% | ~6 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,454 (Ranked 236)  
+Progressed: 1,455 (Ranked 236)  
 Completed: 6 (0.41%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,7 +216,7 @@ Completed: 6 (0.41%) (Ranked 207)
 | 2023-11-06 | 1,451 | 6 |
 | 2023-11-07 | 1,452 | 6 |
 | 2023-11-10 | 1,453 | 6 |
-| 2023-11-11 | 1,454 | 6 |
+| 2023-11-11 | 1,455 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 500)  
 Sum: 28 (Ranked 515)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 218,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1051,7 +1051,7 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 11906,
+  "EOS_Progressed": 11914,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 0,
@@ -9741,6 +9741,11 @@
       "Time": "2023-11-11T22:08:38.0496962+00:00",
       "NumProgressed": 11906,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-11T23:08:39.0904676+00:00",
+      "NumProgressed": 11914,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9801,7 +9806,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 4881
+      "UsersEstimate": 4885
     },
     {
       "ID": "a_19",
@@ -9809,7 +9814,7 @@
       "Name": "Bonjour!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "a_2",
@@ -9817,7 +9822,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "a_20",
@@ -9825,7 +9830,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "a_21",
@@ -9833,7 +9838,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "a_22",
@@ -9841,7 +9846,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "a_23",
@@ -9849,7 +9854,7 @@
       "Name": "Quack",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "a_25",
@@ -9857,7 +9862,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "a_26",
@@ -10000,7 +10005,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 11906,
+      "Progressed": 11914,
       "Completed": 10
     }
   ],
@@ -10008,8 +10013,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-07T18:01:57.8090042+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:08:38.0496957+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:08:39.0904673+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:12.3548109+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:58:37.7288595+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:08:38.0497674+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:59:10.2558906+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:08:39.0905304+00:00"
 }

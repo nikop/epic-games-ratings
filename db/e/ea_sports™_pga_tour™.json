@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 129,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1790,9 +1790,9 @@
       "ID": "achievement_1",
       "SetID": "7ldgi7j",
       "Name": "The Ultimate Prize",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 89
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_10",
@@ -1822,9 +1822,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 210
     },
     {
       "ID": "achievement_14",
@@ -1854,9 +1854,9 @@
       "ID": "achievement_17",
       "SetID": "7ldgi7j",
       "Name": "Clean Sheet",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_18",
@@ -1940,8 +1940,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-11T22:08:48.2311293+00:00",
+  "LastChanged_Achievements": "2023-11-11T23:08:51.6773435+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:16.271819+00:00",
-  "LastUpdate_Ratings": "2023-11-11T21:57:27.1233831+00:00",
-  "LastUpdate_Achievements": "2023-11-11T22:08:48.2311539+00:00"
+  "LastUpdate_Ratings": "2023-11-11T22:57:34.7145445+00:00",
+  "LastUpdate_Achievements": "2023-11-11T23:08:51.6773586+00:00"
 }
