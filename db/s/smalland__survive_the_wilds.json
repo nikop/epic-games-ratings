@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
     "PcReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -309,9 +309,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20578,
+  "EOS_Progressed": 20584,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 232,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8134,6 +8134,11 @@
       "Time": "2023-11-11T15:09:14.6730513+00:00",
       "NumProgressed": 20578,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-11T16:08:46.8502407+00:00",
+      "NumProgressed": 20584,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -8161,7 +8166,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "FirstTame",
@@ -8209,7 +8214,7 @@
       "Name": "Insect hunter",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "PickupKey",
@@ -8225,7 +8230,7 @@
       "Name": "Metal Age",
       "Percentage": 0.6,
       "XP": 75,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "PickupSilk",
@@ -8241,14 +8246,14 @@
       "Name": "Stone Age",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 20578,
+      "Progressed": 20584,
       "Completed": 18
     }
   ],
@@ -8256,8 +8261,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-11-11T06:59:53.7715642+00:00",
-  "LastChanged_Achievements": "2023-11-11T15:09:14.6730511+00:00",
+  "LastChanged_Achievements": "2023-11-11T16:08:46.8502404+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:27.7948681+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:02:42.0074805+00:00",
-  "LastUpdate_Achievements": "2023-11-11T15:09:14.6730955+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:00:36.5799148+00:00",
+  "LastUpdate_Achievements": "2023-11-11T16:08:46.8502901+00:00"
 }

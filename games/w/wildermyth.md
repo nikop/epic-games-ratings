@@ -6,12 +6,12 @@ Number of Ratings: 45  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| The Cost of Heroism | 2.00% | ~29 |
 | Me and My Familiar | 1.00% | ~15 |
 | Gotta Ca... Must Collect All of Them | 1.00% | ~15 |
 | Passing Shadow | 1.00% | ~15 |
 | This Too Shall Pass | 1.00% | ~15 |
 | How Romantic! | 1.00% | ~15 |
-| The Cost of Heroism | 1.00% | ~15 |
 | Cutthroat Competitors | 1.00% | ~15 |
 | Daybreak | 1.00% | ~15 |
 | War Endured | 0.80% | ~12 |

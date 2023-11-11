@@ -4,11 +4,11 @@
   "ProductSlug": "dishonored-2",
   "Ranking_Rating": 96,
   "Ranking_Popularity": 189,
-  "Ranking_PopularitySum": 255,
+  "Ranking_PopularitySum": 254,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-11-03T15:00:00+00:00",
     "PcReleaseDate": "2016-11-11T15:00:00+00:00",
@@ -2153,10 +2153,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 1047,
       "NumberOfAwardsMax": 624
+    },
+    {
+      "Time": "2023-11-11T15:59:53.6681533+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 1050,
+      "NumberOfAwardsMax": 624
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1047,
+  "NumberOfAwards": 1050,
   "NumberOfAwardsMax": 624,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2170,7 +2176,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 50
+      "Count": 53
     },
     {
       "Text": "This game is Relaxing",
@@ -2245,8 +2251,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-05T14:01:17.2849219+00:00",
   "FirstSeenRating": "2022-11-24T20:57:28.2064365+00:00",
-  "LastChanged": "2023-11-11T08:00:09.8332073+00:00",
+  "LastChanged": "2023-11-11T15:59:53.6681531+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:23.6995123+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:00:49.3374579+00:00",
-  "LastUpdate_Achievements": "2023-11-11T15:06:56.209637+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:59:53.6681537+00:00",
+  "LastUpdate_Achievements": "2023-11-11T16:05:54.2573263+00:00"
 }

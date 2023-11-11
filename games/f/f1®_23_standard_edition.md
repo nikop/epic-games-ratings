@@ -5,25 +5,25 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,220 |
-| On the Top Step | 85.00% | ~4,771 |
+| Getting on the Step | 93.00% | ~5,221 |
+| On the Top Step | 85.00% | ~4,772 |
 | Setting up for Success | 75.00% | ~4,210 |
-| Team Orders | 73.00% | ~4,097 |
+| Team Orders | 73.00% | ~4,098 |
 | Engineer | 53.00% | ~2,975 |
 | Familiar Faces | 46.00% | ~2,582 |
-| Going the Extra Mile | 41.00% | ~2,301 |
-| Sharing the Love | 40.00% | ~2,245 |
-| Hitting a Season | 33.00% | ~1,852 |
+| Going the Extra Mile | 41.00% | ~2,302 |
+| Sharing the Love | 40.00% | ~2,246 |
+| Hitting a Season | 33.00% | ~1,853 |
 | A Dozen Pieces | 30.00% | ~1,684 |
 | Challenge Yourself | 30.00% | ~1,684 |
 | Making History | 30.00% | ~1,684 |
-| Network Success | 25.00% | ~1,403 |
+| Network Success | 25.00% | ~1,404 |
 | Writing a new Chapter | 24.00% | ~1,347 |
 | Spring Cleaning | 22.00% | ~1,235 |
-| Reduce | 19.00% | ~1,066 |
-| Crucial Combo | 18.00% | ~1,010 |
-| Ups and Downs | 18.00% | ~1,010 |
-| Reuse | 15.00% | ~842 |
+| Reduce | 19.00% | ~1,067 |
+| Crucial Combo | 18.00% | ~1,011 |
+| Ups and Downs | 18.00% | ~1,011 |
+| Reuse | 16.00% | ~898 |
 | One for the Book | 15.00% | ~842 |
 | Proving Them Wrong | 15.00% | ~842 |
 | Gathering Dust | 14.00% | ~786 |
@@ -33,9 +33,9 @@ Rating: 4.69 (Ranked 230)
 | Hitting a Bullseye | 12.00% | ~674 |
 | Switcheroo | 12.00% | ~674 |
 | Spinning Around | 12.00% | ~674 |
-| All in a Weekend's Work | 11.00% | ~617 |
-| Friendly Competition | 11.00% | ~617 |
-| Recycle | 11.00% | ~617 |
+| All in a Weekend's Work | 11.00% | ~618 |
+| Friendly Competition | 11.00% | ~618 |
+| Recycle | 11.00% | ~618 |
 | Tinkerer | 9.00% | ~505 |
 | Undisputed Winner | 8.00% | ~449 |
 | Living up to Expectations | 6.00% | ~337 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 230)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,613 (Ranked 180)  
+Progressed: 5,614 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 5,432 | 0 |
 | 2023-11-09 | 5,500 | 0 |
 | 2023-11-10 | 5,572 | 0 |
-| 2023-11-11 | 5,613 | 0 |
+| 2023-11-11 | 5,614 | 0 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 507)  
 Sum: 51 (Ranked 479)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 178,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -748,9 +748,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_10",
@@ -780,9 +780,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_14",
@@ -796,9 +796,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_16",
@@ -876,9 +876,9 @@
       "ID": "ACH_25",
       "SetID": "efe2lj",
       "Name": "Fashion Victim",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_26",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-11T15:09:54.782621+00:00",
+  "LastChanged_Achievements": "2023-11-11T16:09:36.9955942+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-11T14:59:20.0401737+00:00",
-  "LastUpdate_Achievements": "2023-11-11T15:09:54.7826519+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:58:51.8870388+00:00",
+  "LastUpdate_Achievements": "2023-11-11T16:09:36.9956167+00:00"
 }

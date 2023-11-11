@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1165,
+  "EOS_Progressed": 1166,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
@@ -3384,6 +3384,11 @@
       "Time": "2023-11-11T15:09:52.7466271+00:00",
       "NumProgressed": 1165,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T16:09:35.4769547+00:00",
+      "NumProgressed": 1166,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3500,7 +3505,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_22",
@@ -3588,7 +3593,7 @@
       "Name": "Scrap collector",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_32",
@@ -3596,7 +3601,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "achievement_33",
@@ -3612,7 +3617,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_35",
@@ -3620,7 +3625,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1037
+      "UsersEstimate": 1038
     },
     {
       "ID": "achievement_36",
@@ -3644,7 +3649,7 @@
       "Name": "Survivor",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_39",
@@ -3668,7 +3673,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 594
+      "UsersEstimate": 595
     },
     {
       "ID": "achievement_41",
@@ -3899,13 +3904,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1165,
+      "Progressed": 1166,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1165,
+      "Progressed": 1166,
       "Completed": 1
     }
   ],
@@ -3913,8 +3918,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-11T15:09:52.7466269+00:00",
+  "LastChanged_Achievements": "2023-11-11T16:09:35.4769543+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:00:12.8820428+00:00",
-  "LastUpdate_Achievements": "2023-11-11T15:09:52.7466826+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:59:28.2278713+00:00",
+  "LastUpdate_Achievements": "2023-11-11T16:09:35.477016+00:00"
 }

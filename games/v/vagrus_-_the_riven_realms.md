@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~104 |
-| Press-ganged | 42.00% | ~77 |
+| A Second Chance | 57.00% | ~105 |
+| Press-ganged | 41.00% | ~75 |
 | The Package | 26.00% | ~48 |
 | Conquered | 17.00% | ~31 |
 | Randomized | 16.00% | ~29 |
-| Scribe | 9.00% | ~16 |
+| Scribe | 9.00% | ~17 |
 | Tactician | 8.00% | ~15 |
 | Breached | 8.00% | ~15 |
 | Conciliator | 7.00% | ~13 |
 | Acquaintance | 7.00% | ~13 |
 | Fight Another Day | 7.00% | ~13 |
+| Scholar | 6.00% | ~11 |
 | Tail-wind | 6.00% | ~11 |
-| Scholar | 5.00% | ~9 |
 | Harbinger | 5.00% | ~9 |
 | Taskmaster | 5.00% | ~9 |
 | Quartermaster | 4.00% | ~7 |
@@ -28,14 +28,14 @@
 | Spiritual Journey | 4.00% | ~7 |
 | Pilgrimage's End | 4.00% | ~7 |
 | Trouble at Fort Larius | 4.00% | ~7 |
-| Bounty Hunter | 3.00% | ~5 |
-| Potential Unlocked | 3.00% | ~5 |
-| Xevarian Gambit | 3.00% | ~5 |
-| The Voice of Hereafter | 3.00% | ~5 |
-| A Terrible Will | 3.00% | ~5 |
-| Inquisitions of Discord | 3.00% | ~5 |
-| Merchant | 3.00% | ~5 |
-| Unseen Patterns | 3.00% | ~5 |
+| Bounty Hunter | 3.00% | ~6 |
+| Potential Unlocked | 3.00% | ~6 |
+| Xevarian Gambit | 3.00% | ~6 |
+| The Voice of Hereafter | 3.00% | ~6 |
+| A Terrible Will | 3.00% | ~6 |
+| Inquisitions of Discord | 3.00% | ~6 |
+| Merchant | 3.00% | ~6 |
+| Unseen Patterns | 3.00% | ~6 |
 | Making Contact | 2.00% | ~4 |
 | Supercargo | 2.00% | ~4 |
 | Talent Nurtured | 2.00% | ~4 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 183 (Ranked 377)  
+Progressed: 184 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,7 +177,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 166 | 0 |
 | 2023-11-09 | 170 | 0 |
 | 2023-11-10 | 181 | 0 |
-| 2023-11-11 | 183 | 0 |
+| 2023-11-11 | 184 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

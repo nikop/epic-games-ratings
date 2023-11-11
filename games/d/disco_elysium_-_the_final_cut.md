@@ -6,7 +6,7 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,592 |
+| Goodest Of The Good Cops | 28.00% | ~36,593 |
 | Biggest Communism Builder | 24.00% | ~31,365 |
 | The World's Most Laughable Centrist | 21.00% | ~27,444 |
 | Il Coppo Del'Arte! | 18.00% | ~23,524 |
@@ -20,8 +20,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Unbelievably Boring **** | 9.00% | ~11,762 |
 | Enemy Of The Physical Realm | 9.00% | ~11,762 |
 | Hardie's Heroes | 6.00% | ~7,841 |
-| The Lawbringer | 4.00% | ~5,227 |
-| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,227 |
+| The Lawbringer | 4.00% | ~5,228 |
+| Fairweather t-500 Vitreous Enamel | 4.00% | ~5,228 |
 | The Opener Of The Eighth Seal | 3.00% | ~3,921 |
 | Bother Kim After Hours | 3.00% | ~3,921 |
 | Baddest Of the Bad Cops | 2.00% | ~2,614 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Committee of la Responsabilité | 0.90% | ~1,176 |
 | Venture into the HARDCORE | 0.90% | ~1,176 |
 | Real Musor | 0.90% | ~1,176 |
-| Baddest Brow in Town | 0.80% | ~1,045 |
+| Baddest Brow in Town | 0.80% | ~1,046 |
 | Networthy Individual | 0.70% | ~915 |
 | Leopard Mindset | 0.60% | ~784 |
 | Modus: Mullen | 0.30% | ~392 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,687 (Ranked 81)  
+Progressed: 130,688 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 28 (0.02%) (Ranked 315)
 | 2023-11-08 | 130,605 | 28 |
 | 2023-11-09 | 130,638 | 28 |
 | 2023-11-10 | 130,667 | 28 |
-| 2023-11-11 | 130,687 | 28 |
+| 2023-11-11 | 130,688 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 176)  
 Sum: 1,116 (Ranked 250)  

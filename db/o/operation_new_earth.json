@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -65,7 +65,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1802,
+  "EOS_Progressed": 1803,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -6755,6 +6755,11 @@
       "Time": "2023-11-11T14:06:21.9164997+00:00",
       "NumProgressed": 1802,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T16:05:39.5205341+00:00",
+      "NumProgressed": 1803,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6870,7 +6875,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7022,7 +7027,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -7069,7 +7074,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1802,
+      "Progressed": 1803,
       "Completed": 1
     }
   ],
@@ -7077,8 +7082,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-11T15:06:36.3307368+00:00",
+  "LastChanged_Achievements": "2023-11-11T16:05:39.5205336+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-11T14:58:26.0125489+00:00",
-  "LastUpdate_Achievements": "2023-11-11T15:06:36.3307948+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:58:13.9037695+00:00",
+  "LastUpdate_Achievements": "2023-11-11T16:05:39.5205953+00:00"
 }

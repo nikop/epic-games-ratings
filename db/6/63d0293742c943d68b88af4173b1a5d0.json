@@ -2,10 +2,10 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -114,6 +114,11 @@
       "Time": "2023-11-11T15:05:43.0239731+00:00",
       "NumProgressed": 44,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T16:04:59.5751427+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -140,9 +145,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "6",
@@ -164,9 +169,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "9",
@@ -180,23 +185,23 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 39,
+      "Percentage": 35,
       "XP": 25,
       "UsersEstimate": 17
     },
@@ -212,15 +217,15 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -236,9 +241,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Remake_010",
@@ -268,9 +273,9 @@
       "ID": "Remake_13",
       "SetID": "5pi96jj",
       "Name": "Toasted",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "Remake_14",
@@ -340,7 +345,7 @@
       "ID": "Remake_22",
       "SetID": "5pi96jj",
       "Name": "Escape Lookout Cove",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
       "UsersEstimate": 4
     }
@@ -349,14 +354,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-11T15:05:43.0239728+00:00",
+  "LastChanged_Achievements": "2023-11-11T16:04:59.5751422+00:00",
   "LastUpdate_AppInfo": "2023-11-06T20:57:01.7197178+00:00",
-  "LastUpdate_Ratings": "2023-11-11T14:59:57.6965496+00:00",
-  "LastUpdate_Achievements": "2023-11-11T15:05:43.0239843+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:59:17.6469852+00:00",
+  "LastUpdate_Achievements": "2023-11-11T16:04:59.5751671+00:00"
 }

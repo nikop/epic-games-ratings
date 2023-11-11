@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2043,9 +2043,9 @@
       "Count": 218
     }
   ],
-  "EOS_Progressed": 21275,
+  "EOS_Progressed": 21276,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -10243,6 +10243,11 @@
       "Time": "2023-11-11T15:05:07.7004312+00:00",
       "NumProgressed": 21275,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-11T16:04:33.2188006+00:00",
+      "NumProgressed": 21276,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -10302,7 +10307,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 20211
+      "UsersEstimate": 20212
     },
     {
       "ID": "GameOver",
@@ -10414,7 +10419,7 @@
       "Name": "Strongman",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 6595
+      "UsersEstimate": 6596
     },
     {
       "ID": "VeronicaLiptson",
@@ -10437,15 +10442,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 21275,
+      "Progressed": 21276,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2023-11-09T21:00:23.0077264+00:00",
-  "LastChanged_Achievements": "2023-11-11T15:05:07.7004311+00:00",
+  "LastChanged_Achievements": "2023-11-11T16:04:33.2188+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:23.4146129+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:02:37.6840487+00:00",
-  "LastUpdate_Achievements": "2023-11-11T15:05:07.7004706+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:00:33.6886301+00:00",
+  "LastUpdate_Achievements": "2023-11-11T16:04:33.2188567+00:00"
 }

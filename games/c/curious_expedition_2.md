@@ -61,8 +61,8 @@ Number of Ratings: 20  (23.09.2022)
 | I Set Forth Again... and Again... and Again... | 3.00% | ~10 |
 | Lunatic | 2.00% | ~7 |
 | Look Ma, No Equipment! | 2.00% | ~7 |
+| Abominable Hunger | 0.90% | ~3 |
 | Everything is FINE... | 0.90% | ~3 |
-| Abominable Hunger | 0.60% | ~2 |
 | Pacifism Ain't Easy | 0.60% | ~2 |
 | It's Not Too Late | 0.60% | ~2 |
 | Now I've Seen It All | 0.30% | ~1 |

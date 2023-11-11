@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -441,9 +441,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5349,
+  "EOS_Progressed": 5350,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6941,6 +6941,11 @@
       "Time": "2023-11-11T14:03:56.1072888+00:00",
       "NumProgressed": 5349,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-11T16:03:40.1074519+00:00",
+      "NumProgressed": 5350,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7038,9 +7043,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "20",
@@ -7110,9 +7115,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 27
     },
     {
       "ID": "29",
@@ -7358,9 +7363,9 @@
       "ID": "52",
       "SetID": "7132754",
       "Name": "Sehiran Oasis",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "53",
@@ -7374,17 +7379,17 @@
       "ID": "54",
       "SetID": "7132754",
       "Name": "Chaos Surge",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "55",
       "SetID": "7132754",
       "Name": "Seal the Deal",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "56",
@@ -7416,7 +7421,7 @@
       "Name": "But this one is mine",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "60",
@@ -7431,13 +7436,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5349,
+      "Progressed": 5350,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5349,
+      "Progressed": 5350,
       "Completed": 7
     }
   ],
@@ -7445,8 +7450,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T10:01:07.8802491+00:00",
-  "LastChanged_Achievements": "2023-11-11T15:03:56.057688+00:00",
+  "LastChanged_Achievements": "2023-11-11T16:03:40.1074512+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-11T15:02:42.189526+00:00",
-  "LastUpdate_Achievements": "2023-11-11T15:03:56.0577805+00:00"
+  "LastUpdate_Ratings": "2023-11-11T16:00:36.697395+00:00",
+  "LastUpdate_Achievements": "2023-11-11T16:03:40.1075171+00:00"
 }

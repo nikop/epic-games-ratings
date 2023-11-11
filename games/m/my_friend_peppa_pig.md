@@ -11,7 +11,7 @@
 | Whose tracks are these? | 45.00% | ~39 |
 | Rounding Up the Chickens. | 44.00% | ~38 |
 | Collecting Sticks For the Campfire. | 41.00% | ~36 |
-| What’s in These Rockpools? | 34.00% | ~30 |
+| What’s in These Rockpools? | 36.00% | ~31 |
 | Where’s Mr. Dinosaur? | 24.00% | ~21 |
 | Helping Tiddles the Tortoise. | 23.00% | ~20 |
 | Always Remember To Eat Your Five! | 10.00% | ~9 |

@@ -4,7 +4,7 @@
 Rating: 4.66 (Ranked 294)  
 ## Awards
 Max (Relaxing): 411  (Ranked 224)  
-Sum: 2,944 (Ranked 176)  
+Sum: 2,952 (Ranked 176)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): 48
 | This game has Amazing Storytelling | 366 |
 | This game has Quickly Understood Controls | 366 |
 | This game is Extremely Fun | 357 |
-| This game has Amazing Characters | 318 |
+| This game has Amazing Characters | 326 |
 | This game has Diverse Characters | 127 |
 | This game is Great for Quick Sessions | 103 |
 | This game has a Competitive Community | 56 |
@@ -78,4 +78,4 @@ Diff (max vs sum): 48
 | 2023-11-08 | 4.66 | 403 | 2,853 |
 | 2023-11-09 | 4.66 | 407 | 2,885 |
 | 2023-11-10 | 4.66 | 411 | 2,930 |
-| 2023-11-11 | 4.66 | 411 | 2,944 |
+| 2023-11-11 | 4.66 | 411 | 2,952 |

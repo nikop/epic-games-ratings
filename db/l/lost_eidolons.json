@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1125,
+  "EOS_Progressed": 1126,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1510,6 +1510,11 @@
       "Time": "2023-10-29T16:03:31.6493919+00:00",
       "NumProgressed": 1125,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T16:03:49.8061808+00:00",
+      "NumProgressed": 1126,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -1545,7 +1550,7 @@
       "Name": "The Unvanquished",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "05",
@@ -1553,7 +1558,7 @@
       "Name": "The First Step",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "06",
@@ -1561,7 +1566,7 @@
       "Name": "First Blood",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "07",
@@ -1569,15 +1574,15 @@
       "Name": "Monster Hunter",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "08",
       "SetID": "73ikgfc",
       "Name": "Monster Slayer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 327
     },
     {
       "ID": "09",
@@ -1617,7 +1622,7 @@
       "Name": "Let Us Cling Together",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "14",
@@ -1641,7 +1646,7 @@
       "Name": "A Promised Voyage",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "17",
@@ -1657,7 +1662,7 @@
       "Name": "Earning Trust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "19",
@@ -1697,14 +1702,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1125,
+      "Progressed": 1126,
       "Completed": 1
     }
   ],
@@ -1712,8 +1717,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-11-08T19:00:27.8145289+00:00",
-  "LastChanged_Achievements": "2023-11-11T15:04:09.3128513+00:00",
+  "LastChanged_Achievements": "2023-11-11T16:03:49.8061803+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:31.418449+00:00",
-  "LastUpdate_Ratings": "2023-11-11T14:57:31.7340637+00:00",
-  "LastUpdate_Achievements": "2023-11-11T15:04:09.312875+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:57:35.2165355+00:00",
+  "LastUpdate_Achievements": "2023-11-11T16:03:49.8062001+00:00"
 }
