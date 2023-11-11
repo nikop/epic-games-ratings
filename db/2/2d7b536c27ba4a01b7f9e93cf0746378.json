@@ -4,7 +4,7 @@
   "ProductSlug": "hellsplit-workbench",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-29T16:00:00+00:00",
@@ -34,6 +34,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-29T23:57:23.2321409+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:12.2406724+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:58:14.725046+00:00",
-  "LastUpdate_Achievements": "2023-11-11T07:03:36.4736285+00:00"
+  "LastUpdate_Ratings": "2023-11-11T07:59:00.5810274+00:00",
+  "LastUpdate_Achievements": "2023-11-11T08:04:11.4433591+00:00"
 }

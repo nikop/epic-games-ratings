@@ -3215,9 +3215,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17273,
+  "EOS_Progressed": 17275,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13405,6 +13405,11 @@
       "Time": "2023-11-11T02:51:31.5143158+00:00",
       "NumProgressed": 17273,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-11T08:04:32.3472843+00:00",
+      "NumProgressed": 17275,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13424,7 +13429,7 @@
       "Name": "Feeding The People",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "AllNeeds",
@@ -13480,7 +13485,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "MetalChain",
@@ -13760,7 +13765,7 @@
       "Name": "Victory through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "WinWithRuins",
@@ -13815,15 +13820,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17273,
+      "Progressed": 17275,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-10T17:59:42.1162285+00:00",
-  "LastChanged_Achievements": "2023-11-11T07:03:54.2515721+00:00",
+  "LastChanged_Achievements": "2023-11-11T08:04:32.3472839+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:59:41.3678729+00:00",
-  "LastUpdate_Achievements": "2023-11-11T07:03:54.2516533+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:00:46.8861226+00:00",
+  "LastUpdate_Achievements": "2023-11-11T08:04:32.3473648+00:00"
 }

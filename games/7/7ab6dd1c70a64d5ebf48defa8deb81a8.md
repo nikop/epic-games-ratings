@@ -14,8 +14,8 @@
 | Adventurer | 26.00% | ~46 |
 | Fashion Victim | 26.00% | ~46 |
 | Scholar | 25.00% | ~44 |
+| Powerful Allies | 24.00% | ~43 |
 | Geared Up | 24.00% | ~43 |
-| Powerful Allies | 23.00% | ~41 |
 | Tributes of Caladrias | 22.00% | ~39 |
 | Stone Collection | 21.00% | ~37 |
 | Essence Blow | 13.00% | ~23 |

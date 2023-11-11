@@ -2,9 +2,9 @@
   "ID": "38d778eab1134c7f9bc4e0e5747b3ea4",
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
-  "Ranking_EOS_Progress": 400,
+  "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 56,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 127,
+  "EOS_Progressed": 128,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 7.09,
+  "EOS_Completed_Percentage": 7.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -209,6 +209,11 @@
       "Time": "2023-10-26T23:03:19.4745537+00:00",
       "NumProgressed": 127,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-11T08:08:49.5019066+00:00",
+      "NumProgressed": 128,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 29,
@@ -236,15 +241,15 @@
       "Name": "Cassette",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "04_Mug",
       "SetID": "681m9fa",
       "Name": "Mug",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 38
     },
     {
       "ID": "05_TimeCapsule",
@@ -268,7 +273,7 @@
       "Name": "Contract",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "08_Baseball",
@@ -276,7 +281,7 @@
       "Name": "Baseball",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "09_Ticket",
@@ -306,9 +311,9 @@
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "13_DrAntivirus",
@@ -324,7 +329,7 @@
       "Name": "VHS blogger",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "15_Screwdriver",
@@ -340,7 +345,7 @@
       "Name": "Springs",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "17_Capacitors",
@@ -348,7 +353,7 @@
       "Name": "Capacitors",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "18_SolderingIron",
@@ -364,7 +369,7 @@
       "Name": "Harpoon",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "20_AccessProtocol",
@@ -380,7 +385,7 @@
       "Name": "Robot Bros",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "22_OutOfTheLoop",
@@ -388,7 +393,7 @@
       "Name": "Out of the loop",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "23_NewDawn",
@@ -396,7 +401,7 @@
       "Name": "New Dawn",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "24_HereWeGoAgain",
@@ -420,7 +425,7 @@
       "Name": "Secret ending",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "27_Act1",
@@ -428,15 +433,15 @@
       "Name": "Act 1",
       "Percentage": 35,
       "XP": 70,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "28_Act2",
       "SetID": "681m9fa",
       "Name": "Act 2",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 70,
-      "UsersEstimate": 30
+      "UsersEstimate": 29
     },
     {
       "ID": "29_Act3",
@@ -444,14 +449,14 @@
       "Name": "Act 3",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 127,
+      "Progressed": 128,
       "Completed": 9
     }
   ],
@@ -459,8 +464,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2023-11-11T07:08:03.2785498+00:00",
+  "LastChanged_Achievements": "2023-11-11T08:08:49.5019062+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:16.0172288+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:57:53.7783371+00:00",
-  "LastUpdate_Achievements": "2023-11-11T07:08:03.2785631+00:00"
+  "LastUpdate_Ratings": "2023-11-11T07:58:35.4385077+00:00",
+  "LastUpdate_Achievements": "2023-11-11T08:08:49.501924+00:00"
 }

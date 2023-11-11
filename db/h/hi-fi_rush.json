@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 317,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4210,
+  "EOS_Progressed": 4212,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7279,6 +7279,11 @@
       "Time": "2023-11-11T04:07:06.9331931+00:00",
       "NumProgressed": 4210,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-11T08:06:23.0643488+00:00",
+      "NumProgressed": 4212,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7298,7 +7303,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Ach003",
@@ -7354,7 +7359,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Ach010",
@@ -7402,7 +7407,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Ach016",
@@ -7474,7 +7479,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Ach025",
@@ -7482,7 +7487,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "Ach026",
@@ -7554,7 +7559,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Ach035",
@@ -7642,7 +7647,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "Ach046",
@@ -7658,7 +7663,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "Ach048",
@@ -7778,7 +7783,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "Ach063",
@@ -7857,13 +7862,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4210,
+      "Progressed": 4212,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2731,
+      "Progressed": 2733,
       "Completed": 1930
     }
   ],
@@ -7871,8 +7876,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-11T07:05:27.993337+00:00",
+  "LastChanged_Achievements": "2023-11-11T08:06:23.0643484+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.7120425+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:58:37.871981+00:00",
-  "LastUpdate_Achievements": "2023-11-11T07:05:27.9934133+00:00"
+  "LastUpdate_Ratings": "2023-11-11T07:59:29.1705245+00:00",
+  "LastUpdate_Achievements": "2023-11-11T08:06:23.0644407+00:00"
 }

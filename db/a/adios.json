@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 15,
+  "Ranking_EOS_NewCompleters": 17,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,10 +117,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78054,
+  "EOS_Progressed": 78056,
   "EOS_Completed": 833,
-  "EOS_NewPlayers": 559,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 561,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
     {
@@ -23012,6 +23012,11 @@
       "Time": "2023-11-11T07:04:44.0733014+00:00",
       "NumProgressed": 78054,
       "NumCompleted": 833
+    },
+    {
+      "Time": "2023-11-11T08:05:31.6709379+00:00",
+      "NumProgressed": 78056,
+      "NumCompleted": 833
     }
   ],
   "TotalAchievements": 25,
@@ -23127,7 +23132,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16391
+      "UsersEstimate": 16392
     },
     {
       "ID": "Meaty",
@@ -23143,7 +23148,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 14830
+      "UsersEstimate": 14831
     },
     {
       "ID": "Nice Try",
@@ -23222,7 +23227,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78054,
+      "Progressed": 78056,
       "Completed": 833
     }
   ],
@@ -23230,8 +23235,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-11T07:04:44.073301+00:00",
+  "LastChanged_Achievements": "2023-11-11T08:05:31.6709375+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:57:25.7281302+00:00",
-  "LastUpdate_Achievements": "2023-11-11T07:04:44.073436+00:00"
+  "LastUpdate_Ratings": "2023-11-11T07:58:00.737927+00:00",
+  "LastUpdate_Achievements": "2023-11-11T08:05:31.6710597+00:00"
 }

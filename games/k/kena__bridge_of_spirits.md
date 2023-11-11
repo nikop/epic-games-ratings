@@ -6,33 +6,33 @@ Number of Ratings: 3,313  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Found a Friend | 95.00% | ~407,476 |
+| Found a Friend | 95.00% | ~407,477 |
 | Haikyo | 80.00% | ~343,138 |
-| Good as New | 72.00% | ~308,824 |
-| Into the Woods | 70.00% | ~300,245 |
-| Hunter in the Forest | 60.00% | ~257,353 |
-| Rot Commander | 60.00% | ~257,353 |
-| Taro's Fear | 56.00% | ~240,196 |
-| Between the Eyes | 47.00% | ~201,593 |
-| Taro's Love | 46.00% | ~197,304 |
+| Good as New | 72.00% | ~308,825 |
+| Into the Woods | 70.00% | ~300,246 |
+| Hunter in the Forest | 60.00% | ~257,354 |
+| Rot Commander | 60.00% | ~257,354 |
+| Taro's Fear | 56.00% | ~240,197 |
+| Between the Eyes | 47.00% | ~201,594 |
+| Taro's Love | 46.00% | ~197,305 |
 | Taro's Regret | 44.00% | ~188,726 |
-| Spirit Guide | 42.00% | ~180,147 |
+| Spirit Guide | 42.00% | ~180,148 |
 | Harness Your Power | 39.00% | ~167,280 |
-| The Open Range | 37.00% | ~158,701 |
-| Adira's Love | 34.00% | ~145,833 |
-| Adira's Fear | 33.00% | ~141,544 |
+| The Open Range | 37.00% | ~158,702 |
+| Adira's Love | 34.00% | ~145,834 |
+| Adira's Fear | 33.00% | ~141,545 |
 | Weigh Them Down | 31.00% | ~132,966 |
 | Adira's Regret | 31.00% | ~132,966 |
 | A Heavy Hammer | 30.00% | ~128,677 |
-| Crossing Over | 29.00% | ~124,387 |
-| Quick Draw | 29.00% | ~124,387 |
+| Crossing Over | 29.00% | ~124,388 |
+| Quick Draw | 29.00% | ~124,388 |
 | Toshi's Fear | 28.00% | ~120,098 |
 | Toshi's Regret | 27.00% | ~115,809 |
 | Toshi's Love | 27.00% | ~115,809 |
 | A Leader Walks Alone | 26.00% | ~111,520 |
 | Bow Master | 26.00% | ~111,520 |
 | The Lonely Path | 26.00% | ~111,520 |
-| Restore Balance | 25.00% | ~107,230 |
+| Restore Balance | 25.00% | ~107,231 |
 | Say Cheese | 16.00% | ~68,628 |
 | Skillful Spirit Guide | 15.00% | ~64,338 |
 | Piercing Blow | 14.00% | ~60,049 |
@@ -48,7 +48,7 @@ Number of Ratings: 3,313  (23.09.2022)
 | Triple Threat | 0.90% | ~3,860 |
 | Master Spirit Guide | 0.30% | ~1,287 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428,922 (Ranked 42)  
+Progressed: 428,923 (Ranked 42)  
 Completed: 544 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 544 (0.13%) (Ranked 258)
 | 2023-11-08 | 428,893 | 543 |
 | 2023-11-09 | 428,906 | 543 |
 | 2023-11-10 | 428,919 | 544 |
-| 2023-11-11 | 428,922 | 544 |
+| 2023-11-11 | 428,923 | 544 |
 ## Awards
 Max (Great Boss Battles): 1,339  (Ranked 135)  
 Sum: 1,698 (Ranked 222)  

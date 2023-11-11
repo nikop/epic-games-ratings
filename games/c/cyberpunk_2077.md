@@ -17,6 +17,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.40% | ~3,585 |
 | Stanislavski's Method | 0.40% | ~3,585 |
 | The Hermit | 0.40% | ~3,585 |
+| True Warrior | 0.40% | ~3,585 |
 | Bushido and Chill | 0.30% | ~2,688 |
 | To Protect and Serve | 0.30% | ~2,688 |
 | Master Crafter | 0.30% | ~2,688 |
@@ -27,7 +28,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.30% | ~2,688 |
 | The Wheel of Fortune | 0.30% | ~2,688 |
 | The World | 0.30% | ~2,688 |
-| True Warrior | 0.30% | ~2,688 |
 | Judy vs Night City | 0.30% | ~2,688 |
 | Legend of The Afterlife | 0.30% | ~2,688 |
 | Spin Doctor | 0.30% | ~74 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,130 (Ranked 15)  
+Progressed: 896,134 (Ranked 15)  
 Completed: 2,761 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 2,761 (0.31%) (Ranked 224)
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
-| 2023-11-11 | 896,130 | 2,761 |
+| 2023-11-11 | 896,134 | 2,761 |
 ## Awards
 Max (Character Customization): 104,816  (Ranked 9)  
 Sum: 348,782 (Ranked 10)  

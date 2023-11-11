@@ -11,8 +11,8 @@ Rating: 4.33 (Ranked 812)
 | Thrill Seeker | 6.00% | ~3,465 |
 | Flying Present Catcher | 5.00% | ~2,888 |
 | Sunflower Master | 5.00% | ~2,888 |
-| Hi Fiver | 3.00% | ~1,732 |
-| A Timely Splash | 3.00% | ~1,732 |
+| Hi Fiver | 3.00% | ~1,733 |
+| A Timely Splash | 3.00% | ~1,733 |
 | Backer Visitor | 2.00% | ~1,155 |
 | Hate That Randomizer | 2.00% | ~1,155 |
 | Feet on Funkotron | 2.00% | ~1,155 |
@@ -24,8 +24,8 @@ Rating: 4.33 (Ranked 812)
 | Gimme My Presents Back! | 0.70% | ~404 |
 | Cleaning Out Santa's Sack | 0.70% | ~404 |
 | Teamwork Rules | 0.70% | ~404 |
-| Beaten By A Little Girl | 0.60% | ~346 |
-| Totally Bummed Again | 0.60% | ~346 |
+| Beaten By A Little Girl | 0.60% | ~347 |
+| Totally Bummed Again | 0.60% | ~347 |
 | I Can't Believe I've Done This | 0.50% | ~289 |
 | Piece O' Cake | 0.50% | ~289 |
 | Boom Box Baby | 0.40% | ~231 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 812)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,750 (Ranked 105)  
+Progressed: 57,751 (Ranked 105)  
 Completed: 6 (0.01%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 6 (0.01%) (Ranked 325)
 | 2023-11-08 | 57,713 | 6 |
 | 2023-11-09 | 57,728 | 6 |
 | 2023-11-10 | 57,745 | 6 |
-| 2023-11-11 | 57,750 | 6 |
+| 2023-11-11 | 57,751 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

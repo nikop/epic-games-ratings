@@ -6,18 +6,19 @@ Rating: 4.60 (Ranked 410)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 1.00% | ~53 |
+| Secret Technique | 0.60% | ~32 |
 | Realm Estate | 0.50% | ~27 |
-| Secret Technique | 0.50% | ~27 |
 | Walls Cannot Stop Us | 0.50% | ~27 |
 | Freed Lands of Manuhari | 0.50% | ~27 |
 | A Wonderful Discovery | 0.40% | ~21 |
+| From Friends to Family | 0.40% | ~21 |
 | Spoils of War | 0.40% | ~21 |
 | There Can Only Be One! | 0.30% | ~16 |
 | Full Ascension | 0.30% | ~16 |
 | Bone Peddler | 0.30% | ~16 |
-| From Friends to Family | 0.30% | ~16 |
 | Magical Synergy | 0.30% | ~16 |
 | Chaos Surge | 0.30% | ~16 |
+| Valley of Wonders | 0.20% | ~11 |
 | Digging for Treasure | 0.20% | ~11 |
 | Stronger Together | 0.20% | ~11 |
 | Seat of Power | 0.20% | ~11 |
@@ -31,7 +32,6 @@ Rating: 4.60 (Ranked 410)
 | Prometheus Avenged | 0.20% | ~11 |
 | A Conqueror's Cohort | 0.20% | ~11 |
 | Dawn of the Dread | 0.20% | ~11 |
-| Valley of Wonders | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewCompleters": 63,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -353,7 +353,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113841,
+  "EOS_Progressed": 113845,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 2,
@@ -17523,6 +17523,11 @@
       "Time": "2023-11-11T07:08:15.1073895+00:00",
       "NumProgressed": 113841,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-11T08:09:03.2568426+00:00",
+      "NumProgressed": 113845,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17542,7 +17547,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87658
+      "UsersEstimate": 87661
     },
     {
       "ID": "EAwards_10",
@@ -17558,7 +17563,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29599
+      "UsersEstimate": 29600
     },
     {
       "ID": "EAwards_12",
@@ -17566,7 +17571,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17076
+      "UsersEstimate": 17077
     },
     {
       "ID": "EAwards_13",
@@ -17606,7 +17611,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42121
+      "UsersEstimate": 42123
     },
     {
       "ID": "EAwards_18",
@@ -17622,7 +17627,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6830
+      "UsersEstimate": 6831
     },
     {
       "ID": "EAwards_2",
@@ -17630,7 +17635,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54644
+      "UsersEstimate": 54646
     },
     {
       "ID": "EAwards_20",
@@ -17654,7 +17659,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 6830
+      "UsersEstimate": 6831
     },
     {
       "ID": "EAwards_23",
@@ -17662,7 +17667,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9107
+      "UsersEstimate": 9108
     },
     {
       "ID": "EAwards_24",
@@ -17678,7 +17683,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21630
+      "UsersEstimate": 21631
     },
     {
       "ID": "EAwards_26",
@@ -17718,7 +17723,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22768
+      "UsersEstimate": 22769
     },
     {
       "ID": "EAwards_30",
@@ -17766,7 +17771,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9107
+      "UsersEstimate": 9108
     },
     {
       "ID": "EAwards_36",
@@ -17806,7 +17811,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14799
+      "UsersEstimate": 14800
     },
     {
       "ID": "EAwards_40",
@@ -17925,7 +17930,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113841,
+      "Progressed": 113845,
       "Completed": 50
     }
   ],
@@ -17933,8 +17938,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-10T19:00:04.1652454+00:00",
-  "LastChanged_Achievements": "2023-11-11T07:08:15.1073884+00:00",
+  "LastChanged_Achievements": "2023-11-11T08:09:03.2568419+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:59:31.8465805+00:00",
-  "LastUpdate_Achievements": "2023-11-11T07:08:15.1074805+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:00:34.9534583+00:00",
+  "LastUpdate_Achievements": "2023-11-11T08:09:03.2569613+00:00"
 }

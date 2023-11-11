@@ -171,9 +171,9 @@
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 33,
+      "Percentage": 36,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Remake_005",
@@ -330,8 +330,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-11T07:04:24.492569+00:00",
+  "LastChanged_Achievements": "2023-11-11T08:05:08.2469334+00:00",
   "LastUpdate_AppInfo": "2023-11-06T20:57:01.7197178+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:58:35.3163537+00:00",
-  "LastUpdate_Achievements": "2023-11-11T07:04:24.4925862+00:00"
+  "LastUpdate_Ratings": "2023-11-11T07:59:26.0461882+00:00",
+  "LastUpdate_Achievements": "2023-11-11T08:05:08.2469509+00:00"
 }

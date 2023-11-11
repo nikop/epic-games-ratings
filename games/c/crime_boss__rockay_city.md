@@ -8,9 +8,9 @@ Rating: 3.95 (Ranked 1,004)
 | Neophyte Ninja | 2.00% | ~1,807 |
 | First One’s Free | 2.00% | ~1,807 |
 | Downed but Not Outed | 2.00% | ~1,807 |
+| Too Old for This | 2.00% | ~1,807 |
 | Underworld Initiate | 1.00% | ~903 |
 | Roid Ranger | 1.00% | ~903 |
-| Too Old for This | 1.00% | ~903 |
 | King of the Hill | 1.00% | ~903 |
 | Fancy Pants | 1.00% | ~903 |
 | Off the Rocks | 1.00% | ~903 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,004)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,326 (Ranked 91)  
+Progressed: 90,335 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,16 +252,16 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
-| 2023-11-11 | 90,326 | 55 |
+| 2023-11-11 | 90,335 | 55 |
 ## Awards
 Max (Diverse Characters): 526  (Ranked 203)  
-Sum: 2,985 (Ranked 175)  
+Sum: 2,987 (Ranked 175)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 526 |
 | This game is Highly Recommended | 508 |
-| This game has Quickly Understood Controls | 498 |
+| This game has Quickly Understood Controls | 500 |
 | This game has Challenging Combat | 490 |
 | This game is Extremely Fun | 487 |
 | This game has Amazing Characters | 476 |
@@ -494,4 +494,4 @@ Diff (max vs sum): 28
 | 2023-11-08 | 3.95 | 522 | 2,970 |
 | 2023-11-09 | 3.95 | 523 | 2,973 |
 | 2023-11-10 | 3.95 | 526 | 2,984 |
-| 2023-11-11 | 3.95 | 526 | 2,985 |
+| 2023-11-11 | 3.95 | 526 | 2,987 |

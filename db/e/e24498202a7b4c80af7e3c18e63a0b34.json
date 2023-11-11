@@ -123,7 +123,7 @@
   "Tags": [],
   "EOS_Progressed": 6748,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -5440,9 +5440,9 @@
       "ID": "achievement_03_01",
       "SetID": "4f1m94d",
       "Name": "USA - Check!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1957
     },
     {
       "ID": "achievement_03_02",
@@ -5609,8 +5609,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-11T07:06:04.755973+00:00",
+  "LastChanged_Achievements": "2023-11-11T08:07:06.179909+00:00",
   "LastUpdate_AppInfo": "2023-11-09T20:57:10.0685893+00:00",
-  "LastUpdate_Ratings": "2023-11-11T06:58:28.4052021+00:00",
-  "LastUpdate_Achievements": "2023-11-11T07:06:04.7560123+00:00"
+  "LastUpdate_Ratings": "2023-11-11T07:59:17.4541573+00:00",
+  "LastUpdate_Achievements": "2023-11-11T08:07:06.179956+00:00"
 }

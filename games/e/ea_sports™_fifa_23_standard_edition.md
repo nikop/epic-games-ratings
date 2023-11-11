@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 867)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 76.00% | ~138,958 |
-| Dead-ball specialist | 63.00% | ~115,189 |
-| Multitasking | 52.00% | ~95,076 |
-| European Legend | 52.00% | ~95,076 |
-| Balanced Path | 49.00% | ~89,591 |
-| High Grades | 49.00% | ~89,591 |
-| Let the Games Begin | 48.00% | ~87,763 |
-| A Moment of Your Time | 47.00% | ~85,934 |
-| Aiming High | 46.00% | ~84,106 |
-| Tactical Tinkerer | 41.00% | ~74,964 |
-| Intuition and Execution | 40.00% | ~73,136 |
-| Squad Building Connoisseur | 39.00% | ~71,307 |
-| The Winning Formula | 37.00% | ~67,650 |
-| Parking the Bus | 29.00% | ~53,023 |
-| Safe House | 27.00% | ~49,367 |
-| Best of Five | 25.00% | ~45,710 |
-| Football is Everything | 24.00% | ~43,881 |
-| The Chosen One | 22.00% | ~40,225 |
-| Fresh Fit | 21.00% | ~38,396 |
-| Bring it on | 17.00% | ~31,083 |
-| Life-Like | 14.00% | ~25,597 |
-| Make the Grade | 13.00% | ~23,769 |
-| Specialist | 11.00% | ~20,112 |
-| I Played Them All | 10.00% | ~18,284 |
-| Teamwork works | 9.00% | ~16,456 |
-| First of Many | 9.00% | ~16,456 |
-| Momentous Achievement | 6.00% | ~10,970 |
-| Shop till you drop | 6.00% | ~10,970 |
-| In Cahoots | 5.00% | ~9,142 |
-| Tune Your Club | 5.00% | ~9,142 |
-| Becoming Unplayable | 5.00% | ~9,142 |
-| On the way up | 5.00% | ~9,142 |
-| Volta's best | 4.00% | ~7,314 |
-| Full-House | 4.00% | ~7,314 |
-| Sharing is Caring | 4.00% | ~7,314 |
+| Power Shot | 76.00% | ~138,977 |
+| Dead-ball specialist | 63.00% | ~115,204 |
+| Multitasking | 52.00% | ~95,089 |
+| European Legend | 52.00% | ~95,089 |
+| Balanced Path | 49.00% | ~89,603 |
+| High Grades | 49.00% | ~89,603 |
+| Let the Games Begin | 48.00% | ~87,775 |
+| A Moment of Your Time | 47.00% | ~85,946 |
+| Aiming High | 46.00% | ~84,117 |
+| Tactical Tinkerer | 41.00% | ~74,974 |
+| Intuition and Execution | 40.00% | ~73,146 |
+| Squad Building Connoisseur | 39.00% | ~71,317 |
+| The Winning Formula | 37.00% | ~67,660 |
+| Parking the Bus | 29.00% | ~53,031 |
+| Safe House | 27.00% | ~49,373 |
+| Best of Five | 25.00% | ~45,716 |
+| Football is Everything | 24.00% | ~43,887 |
+| The Chosen One | 22.00% | ~40,230 |
+| Fresh Fit | 21.00% | ~38,401 |
+| Bring it on | 17.00% | ~31,087 |
+| Life-Like | 14.00% | ~25,601 |
+| Make the Grade | 13.00% | ~23,772 |
+| Specialist | 11.00% | ~20,115 |
+| I Played Them All | 10.00% | ~18,286 |
+| Teamwork works | 9.00% | ~16,458 |
+| First of Many | 9.00% | ~16,458 |
+| Momentous Achievement | 6.00% | ~10,972 |
+| Shop till you drop | 6.00% | ~10,972 |
+| In Cahoots | 5.00% | ~9,143 |
+| Tune Your Club | 5.00% | ~9,143 |
+| Becoming Unplayable | 5.00% | ~9,143 |
+| On the way up | 5.00% | ~9,143 |
+| Volta's best | 4.00% | ~7,315 |
+| Full-House | 4.00% | ~7,315 |
+| Sharing is Caring | 4.00% | ~7,315 |
 | Full wardrobe | 0.60% | ~1,097 |
 | Girl Power | 0.40% | ~731 |
 | Training Addict | 0.10% | ~183 |
 | Dazzling Personality | 0.10% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 182,839 (Ranked 74)  
+Progressed: 182,864 (Ranked 74)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,16 +103,16 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 181,521 | 0 |
 | 2023-11-09 | 181,996 | 0 |
 | 2023-11-10 | 182,642 | 0 |
-| 2023-11-11 | 182,839 | 0 |
+| 2023-11-11 | 182,864 | 0 |
 ## Awards
 Max (Diverse Characters): 20,908  (Ranked 19)  
-Sum: 105,028 (Ranked 14)  
+Sum: 105,036 (Ranked 14)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 20,908 |
 | This game is Highly Recommended | 14,406 |
-| This game has a Competitive Community | 13,645 |
+| This game has a Competitive Community | 13,653 |
 | This game has Amazing Characters | 11,846 |
 | This game is Extremely Fun | 11,399 |
 | This game has Competitive Players | 11,358 |
@@ -432,4 +432,4 @@ Diff (max vs sum): 5
 | 2023-11-08 | 4.26 | 20,867 | 104,877 |
 | 2023-11-09 | 4.26 | 20,867 | 104,916 |
 | 2023-11-10 | 4.26 | 20,890 | 104,990 |
-| 2023-11-11 | 4.26 | 20,908 | 105,028 |
+| 2023-11-11 | 4.26 | 20,908 | 105,036 |
