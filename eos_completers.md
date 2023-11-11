@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.07% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.35% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.34% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.41% |
@@ -39,9 +39,9 @@
 | 37 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 10.00% |
 | 37 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 10.00% |
 | 39 | [Smelter](games/s/smelter.md) | 9.76% |
-| 40 | [Anna's Quest](games/a/anna's_quest.md) | 9.38% |
 | 40 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 42 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.28% |
+| 41 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.28% |
+| 42 | [Anna's Quest](games/a/anna's_quest.md) | 9.23% |
 | 43 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
 | 43 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.05% |
@@ -55,7 +55,7 @@
 | 53 | [Sonic Origins](games/s/sonic_origins.md) | 7.55% |
 | 54 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.14% |
 | 54 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.14% |
-| 56 | [Time Loader](games/t/time_loader.md) | 7.09% |
+| 56 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 57 | [Scorn](games/s/scorn.md) | 6.90% |
 | 58 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 59 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -133,7 +133,7 @@
 | 131 | [Night Book](games/n/night_book.md) | 1.68% |
 | 132 | [Five Dates](games/f/five_dates.md) | 1.61% |
 | 133 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.59% |
-| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.55% |
+| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.56% |
 | 135 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.53% |
 | 136 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.52% |
 | 137 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -160,7 +160,7 @@
 | 158 | [Trifox](games/t/trifox.md) | 0.98% |
 | 159 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 160 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.94% |
-| 160 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.94% |
+| 161 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
 | 162 | [Hades](games/h/hades.md) | 0.91% |
 | 163 | [The Devil's Face](games/t/the_devil's_face.md) | 0.90% |
 | 164 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
