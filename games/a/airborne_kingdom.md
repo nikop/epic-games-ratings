@@ -28,7 +28,7 @@ Number of Ratings: 74  (23.09.2022)
 | A Learned Scholar | 13.00% | ~971 |
 | Prophecy Fulfilled | 13.00% | ~971 |
 | A Wanderer’s Guide | 11.00% | ~821 |
-| Knowledge Seeker | 6.00% | ~448 |
+| Knowledge Seeker | 7.00% | ~523 |
 | The Cycle Continues | 3.00% | ~224 |
 | Glowing Waters | 2.00% | ~149 |
 | Sparkling Alloys | 2.00% | ~149 |

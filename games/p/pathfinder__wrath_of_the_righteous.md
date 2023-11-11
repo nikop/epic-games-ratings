@@ -33,6 +33,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~362 |
 | Core of the Riddle | 3.00% | ~362 |
 | Hey, I Know You! | 3.00% | ~362 |
+| Hanged Man's Notes | 3.00% | ~325 |
 | The Lady of the Forest | 3.00% | ~325 |
 | Beware Still Water | 3.00% | ~325 |
 | Path of the Demon | 2.00% | ~241 |
@@ -42,7 +43,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~241 |
 | Truly Important Deed | 2.00% | ~241 |
 | Stay Underground | 2.00% | ~217 |
-| Hanged Man's Notes | 2.00% | ~217 |
 | Sarkoris Will Be Green | 2.00% | ~217 |
 | The Final Threshold | 1.00% | ~121 |
 | Path of the Legend | 1.00% | ~121 |

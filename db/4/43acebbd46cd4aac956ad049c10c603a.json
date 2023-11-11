@@ -5,10 +5,10 @@
   "Ranking_Rating": 6,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 357,
+  "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 137,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 237,
+  "EOS_Progressed": 238,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -322,6 +322,11 @@
       "Time": "2023-11-11T03:15:35.922235+00:00",
       "NumProgressed": 237,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T04:03:40.0053817+00:00",
+      "NumProgressed": 238,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -374,7 +379,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "BreakTheLoop",
@@ -390,7 +395,7 @@
       "Name": "Bridge Builder",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "ChasingTheLight",
@@ -428,9 +433,9 @@
       "ID": "Discovery",
       "SetID": "1n308hc",
       "Name": "Discovery",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "EasternWetlands",
@@ -460,9 +465,9 @@
       "ID": "FloodedValley",
       "SetID": "1n308hc",
       "Name": "Flooded Valley",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "GnothiSeauton",
@@ -532,9 +537,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "Mnemosyne",
@@ -596,9 +601,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "PrometheusUnbound",
@@ -622,7 +627,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "RenaissanceRobot",
@@ -692,9 +697,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "TheEdgeOfForever",
@@ -732,9 +737,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "TheWordEndures",
@@ -742,7 +747,7 @@
       "Name": "The Word Endures",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "TouchGrass",
@@ -805,7 +810,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 237,
+      "Progressed": 238,
       "Completed": 0
     }
   ],
@@ -813,8 +818,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-10T19:02:53.1719253+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:15:35.922234+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:03:40.0053813+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:15:15.9951722+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:15:35.9239296+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:03:08.3565899+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:03:40.0054325+00:00"
 }

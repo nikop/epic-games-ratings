@@ -7,17 +7,17 @@ Number of Ratings: 2,731  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | It's a steal! | 37.00% | ~30,407 |
-| Final touch | 35.00% | ~28,763 |
+| Final touch | 35.00% | ~28,764 |
 | Prop-M Rover | 32.00% | ~26,298 |
 | Changing the Planet | 28.00% | ~23,011 |
 | Sojourner | 26.00% | ~21,367 |
-| Beagle 2 | 24.00% | ~19,723 |
+| Beagle 2 | 24.00% | ~19,724 |
 | New Home | 23.00% | ~18,902 |
 | Winner Winner Terraformer | 21.00% | ~17,258 |
-| Project Manager | 19.00% | ~15,614 |
-| Curiosity | 19.00% | ~15,614 |
-| Collector | 19.00% | ~15,614 |
-| Master | 19.00% | ~15,614 |
+| Project Manager | 19.00% | ~15,615 |
+| Curiosity | 19.00% | ~15,615 |
+| Collector | 19.00% | ~15,615 |
+| Master | 19.00% | ~15,615 |
 | No Longer Red | 18.00% | ~14,793 |
 | Self-sufficient | 18.00% | ~14,793 |
 | Money money | 15.00% | ~12,327 |
@@ -31,13 +31,13 @@ Number of Ratings: 2,731  (23.09.2022)
 | Spirit | 10.00% | ~8,218 |
 | Ultimate success | 10.00% | ~8,218 |
 | Variety Expert | 9.00% | ~7,396 |
-| Frequent tester | 8.00% | ~6,574 |
-| Determined | 8.00% | ~6,574 |
+| Frequent tester | 8.00% | ~6,575 |
+| Determined | 8.00% | ~6,575 |
 | Terraformer | 4.00% | ~3,287 |
 | Team Effort | 3.00% | ~2,465 |
 | Opportunity | 3.00% | ~2,465 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,181 (Ranked 93)  
+Progressed: 82,182 (Ranked 93)  
 Completed: 159 (0.19%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 159 (0.19%) (Ranked 248)
 | 2023-11-08 | 81,946 | 157 |
 | 2023-11-09 | 82,032 | 158 |
 | 2023-11-10 | 82,156 | 159 |
-| 2023-11-11 | 82,181 | 159 |
+| 2023-11-11 | 82,182 | 159 |
 ## Awards
 Max (Relaxing): 525  (Ranked 204)  
 Sum: 3,243 (Ranked 169)  

@@ -4,8 +4,8 @@
   "ProductSlug": "ravens-hike-c34341",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:49.4416797+00:00",
   "LastChanged": "2023-03-31T05:57:49.4416798+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:14.4796649+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:10:09.7702002+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:16:35.1666297+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:58:02.5268662+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:05:03.2138305+00:00"
 }

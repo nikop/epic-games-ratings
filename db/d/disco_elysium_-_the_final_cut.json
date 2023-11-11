@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130672,
+  "EOS_Progressed": 130673,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21547,6 +21547,11 @@
       "Time": "2023-11-11T03:16:01.4186741+00:00",
       "NumProgressed": 130672,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-11T04:04:16.431209+00:00",
+      "NumProgressed": 130673,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21606,7 +21611,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11760
+      "UsersEstimate": 11761
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -21614,7 +21619,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 31361
+      "UsersEstimate": 31362
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -21622,7 +21627,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11760
+      "UsersEstimate": 11761
     },
     {
       "ID": "ACH_COP_DORK",
@@ -21877,15 +21882,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130672,
+      "Progressed": 130673,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:16:01.4186739+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:04:16.4312082+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:09:49.6288762+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:16:01.4187817+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:57:32.6712589+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:04:16.4313273+00:00"
 }

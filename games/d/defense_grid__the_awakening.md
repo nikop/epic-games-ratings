@@ -1,34 +1,34 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 662)  
+Rating: 4.45 (Ranked 663)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Blood | 81.00% | ~396,514 |
-| Happy Returns | 78.00% | ~381,828 |
-| Hey! That's mine! | 78.00% | ~381,828 |
-| Field Promotion | 74.00% | ~362,247 |
-| Leadhead | 71.00% | ~347,561 |
-| Eradicator | 67.00% | ~327,980 |
-| Surplus | 65.00% | ~318,190 |
+| Happy Returns | 78.00% | ~381,829 |
+| Hey! That's mine! | 78.00% | ~381,829 |
+| Field Promotion | 74.00% | ~362,248 |
+| Leadhead | 71.00% | ~347,562 |
+| Eradicator | 67.00% | ~327,981 |
+| Surplus | 65.00% | ~318,191 |
 | I Spy | 64.00% | ~313,295 |
 | Burn Baby Burn | 59.00% | ~288,819 |
 | Yellow Beats Green | 56.00% | ~274,133 |
-| Salvage Rights | 53.00% | ~259,447 |
+| Salvage Rights | 53.00% | ~259,448 |
 | Close Call | 50.00% | ~244,762 |
 | Pew Pew | 50.00% | ~244,762 |
 | What IS that? | 50.00% | ~244,762 |
-| Penny Pincher | 49.00% | ~239,866 |
+| Penny Pincher | 49.00% | ~239,867 |
 | Arsenal | 46.00% | ~225,181 |
-| Boot Camp | 45.00% | ~220,285 |
+| Boot Camp | 45.00% | ~220,286 |
 | Flawless Victory | 42.00% | ~205,600 |
-| Confident | 41.00% | ~200,704 |
-| Exterminator | 36.00% | ~176,228 |
+| Confident | 41.00% | ~200,705 |
+| Exterminator | 36.00% | ~176,229 |
 | Sharpshooter | 34.00% | ~166,438 |
 | Not So Fast | 33.00% | ~161,543 |
-| Great Ball of Fire | 32.00% | ~156,647 |
+| Great Ball of Fire | 32.00% | ~156,648 |
 | No Sale | 31.00% | ~151,752 |
 | Kaboom! | 30.00% | ~146,857 |
 | Liquidator | 29.00% | ~141,962 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~490 |
 | You Monster | 0.10% | ~490 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 489,523 (Ranked 36)  
+Progressed: 489,524 (Ranked 36)  
 Completed: 5 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -299,7 +299,7 @@ Completed: 5 (0.00%) (Ranked 347)
 | 2023-11-08 | 489,379 | 5 |
 | 2023-11-09 | 489,437 | 5 |
 | 2023-11-10 | 489,509 | 5 |
-| 2023-11-11 | 489,523 | 5 |
+| 2023-11-11 | 489,524 | 5 |
 ## Awards
 Max (Great for Beginners): 257  (Ranked 267)  
 Sum: 1,718 (Ranked 220)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -613,17 +613,17 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 46
+      "UsersEstimate": 48
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -661,9 +661,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 86
+      "UsersEstimate": 88
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -716,8 +716,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:21:00.7688424+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:09:19.0256928+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:06.8109666+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:10:19.8372989+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:21:00.7688619+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:58:17.8169146+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:09:19.025714+00:00"
 }

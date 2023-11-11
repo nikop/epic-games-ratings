@@ -1978,9 +1978,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 213014,
+  "EOS_Progressed": 213019,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 1327,
+  "EOS_NewPlayers": 1321,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25343,6 +25343,11 @@
       "Time": "2023-11-11T03:15:45.9497904+00:00",
       "NumProgressed": 213014,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-11-11T04:03:54.3028942+00:00",
+      "NumProgressed": 213019,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 44,
@@ -25354,7 +25359,7 @@
       "Name": "A thief\u0027s beginning",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 21301
+      "UsersEstimate": 21302
     },
     {
       "ID": "AtheistOx",
@@ -25394,7 +25399,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19171
+      "UsersEstimate": 19172
     },
     {
       "ID": "FiveShadows",
@@ -25466,7 +25471,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6390
+      "UsersEstimate": 6391
     },
     {
       "ID": "Jonin",
@@ -25570,7 +25575,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17041
+      "UsersEstimate": 17042
     },
     {
       "ID": "Rollin",
@@ -25578,7 +25583,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 19171
+      "UsersEstimate": 19172
     },
     {
       "ID": "StillRollin",
@@ -25594,7 +25599,7 @@
       "Name": "Stoned",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6390
+      "UsersEstimate": 6391
     },
     {
       "ID": "StonedOx",
@@ -25602,7 +25607,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17041
+      "UsersEstimate": 17042
     },
     {
       "ID": "TanukiTime",
@@ -25610,7 +25615,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 19171
+      "UsersEstimate": 19172
     },
     {
       "ID": "TheCave",
@@ -25634,7 +25639,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6390
+      "UsersEstimate": 6391
     },
     {
       "ID": "Thorough",
@@ -25642,7 +25647,7 @@
       "Name": "Thorough",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 21301
+      "UsersEstimate": 21302
     },
     {
       "ID": "TimeParadox",
@@ -25705,15 +25710,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 213014,
+      "Progressed": 213019,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-10T13:57:12.4017278+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:15:45.9497901+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:03:54.3028936+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.1309249+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:09:53.998151+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:15:45.9499962+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:57:38.9529838+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:03:54.3030399+00:00"
 }

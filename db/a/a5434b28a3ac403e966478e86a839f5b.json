@@ -2,9 +2,9 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 518,
+  "EOS_Progressed": 519,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.35,
   "EosHistory": [
@@ -1605,6 +1605,11 @@
       "Time": "2023-11-10T23:06:11.3454246+00:00",
       "NumProgressed": 518,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-11T04:07:33.0255906+00:00",
+      "NumProgressed": 519,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1625,7 +1630,7 @@
       "Name": "Establish Communications",
       "Percentage": 57,
       "XP": 50,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_eou2",
@@ -1633,7 +1638,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_eou3",
@@ -1681,7 +1686,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_mg2",
@@ -1705,7 +1710,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_xatrix",
@@ -1720,14 +1725,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 518,
+      "Progressed": 519,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:18:22.9424446+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:07:33.02559+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:16.1042857+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:15:16.246196+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:18:22.9424683+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:03:08.724854+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:07:33.0256074+00:00"
 }

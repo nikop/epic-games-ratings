@@ -14,7 +14,7 @@
 | Fusion Conjuror | 64.00% | ~166 |
 | Memory Rouser | 64.00% | ~166 |
 | Subsistence Skills | 64.00% | ~166 |
-| Kemono Hunter | 58.00% | ~150 |
+| Kemono Hunter | 59.00% | ~153 |
 | Expert Conjuror | 57.00% | ~148 |
 | Distance Devourer | 54.00% | ~140 |
 | Flawless Crystal | 53.00% | ~137 |

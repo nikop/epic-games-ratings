@@ -4,8 +4,8 @@
   "ProductSlug": "life-by-you",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2024-03-05T16:00:00+00:00",
     "PcReleaseDate": "2024-03-05T16:00:00+00:00",
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-04T18:59:35.0488912+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:15:26.7482616+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:19:05.3361866+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:03:24.1523314+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:08:31.0127527+00:00"
 }

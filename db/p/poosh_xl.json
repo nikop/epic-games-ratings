@@ -4,8 +4,8 @@
   "ProductSlug": "poosh-xl-c580f2",
   "Ranking_EOS_Progress": 391,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-08T17:00:00+00:00",
     "PcReleaseDate": "2023-05-08T17:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 149,
+  "EOS_Progressed": 150,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.34,
+  "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:46:01.034139+00:00",
@@ -712,6 +712,11 @@
       "Time": "2023-11-05T03:08:20.357256+00:00",
       "NumProgressed": 149,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-11T04:06:21.1305555+00:00",
+      "NumProgressed": 150,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 20,
@@ -731,7 +736,7 @@
       "Name": "Challenge 02",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Challenge 03",
@@ -755,7 +760,7 @@
       "Name": "Challenge 05",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Challenge 06",
@@ -763,7 +768,7 @@
       "Name": "Challenge 06",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Challenge 07",
@@ -771,7 +776,7 @@
       "Name": "Challenge 07",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Challenge 08",
@@ -779,7 +784,7 @@
       "Name": "Challenge 08",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Challenge 09",
@@ -787,7 +792,7 @@
       "Name": "Challenge 09",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Challenge 10",
@@ -795,7 +800,7 @@
       "Name": "Challenge 10",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Challenge 11",
@@ -803,7 +808,7 @@
       "Name": "Challenge 11",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Challenge 12",
@@ -811,13 +816,13 @@
       "Name": "Challenge 12",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Destroy 25 Obstacles",
       "SetID": "5n829i",
       "Name": "Destroyed 25 Obstacles",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 50,
       "UsersEstimate": 74
     },
@@ -825,9 +830,9 @@
       "ID": "Obtain 50 PowerUps",
       "SetID": "5n829i",
       "Name": "Obtained 50 PowerUps",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 72
+      "UsersEstimate": 70
     },
     {
       "ID": "Poosh Past 10000",
@@ -841,9 +846,9 @@
       "ID": "Poosh Past 2500",
       "SetID": "5n829i",
       "Name": "Pooshed Past 2500",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 25,
-      "UsersEstimate": 107
+      "UsersEstimate": 106
     },
     {
       "ID": "Poosh Past 5000",
@@ -851,7 +856,7 @@
       "Name": "Pooshed Past 5000",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Poosh Past 7500",
@@ -865,9 +870,9 @@
       "ID": "Poosh over 250000",
       "SetID": "5n829i",
       "Name": "Pooshed over 250000",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 76
     },
     {
       "ID": "Terrible Start",
@@ -882,13 +887,13 @@
     {
       "ID": "5n829i",
       "IsBase": true,
-      "Progressed": 149,
+      "Progressed": 150,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:01.0341399+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:17:32.0081045+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:06:21.1305549+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:16.3348467+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:11:03.8539497+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:17:32.0081187+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:59:23.9489927+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:06:21.130572+00:00"
 }

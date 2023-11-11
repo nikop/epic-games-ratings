@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14820,
+  "EOS_Progressed": 14821,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 3,
@@ -10912,6 +10912,11 @@
       "Time": "2023-11-11T03:16:45.5294908+00:00",
       "NumProgressed": 14820,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-11T04:05:17.4116975+00:00",
+      "NumProgressed": 14821,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11164,7 +11169,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "32",
@@ -11188,7 +11193,7 @@
       "Name": "Master Negotiator",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "35",
@@ -11203,13 +11208,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14820,
+      "Progressed": 14821,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 774,
+      "Progressed": 775,
       "Completed": 498
     }
   ],
@@ -11217,8 +11222,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:16:45.5294905+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:05:17.4116969+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:30.2117812+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:11:00.8529867+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:16:45.5295574+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:59:19.3330758+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:05:17.4117592+00:00"
 }

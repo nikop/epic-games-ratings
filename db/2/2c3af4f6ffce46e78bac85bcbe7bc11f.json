@@ -3,9 +3,9 @@
   "Name": "Recollection",
   "ProductSlug": "recollection-71f3a4",
   "Ranking_EOS_Progress": 430,
-  "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-06-14T14:00:00+00:00",
     "PcReleaseDate": "2023-04-17T15:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 89,
-  "EOS_Completed": 4,
+  "EOS_Completed": 5,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.49,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.62,
   "EosHistory": [
     {
       "Time": "2023-06-14T15:00:16.7509072+00:00",
@@ -479,6 +479,11 @@
       "Time": "2023-11-11T01:46:21.4802935+00:00",
       "NumProgressed": 89,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-11T04:04:47.8723564+00:00",
+      "NumProgressed": 89,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 26,
@@ -512,9 +517,9 @@
       "ID": "Bonus_Fragile",
       "SetID": "6j29jep",
       "Name": "Something more... (fragile)",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Butterfly",
@@ -568,9 +573,9 @@
       "ID": "Fragile_Mode",
       "SetID": "6j29jep",
       "Name": "Something fragile...",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "Grass",
@@ -698,13 +703,13 @@
       "ID": "6j29jep",
       "IsBase": true,
       "Progressed": 89,
-      "Completed": 4
+      "Completed": 5
     }
   ],
   "FirstSeen": "2023-09-01T05:01:10.2908706+00:00",
   "FirstSeenAchievements": "2023-05-31T12:00:38.8856808+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:16:24.0338662+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:04:47.8723556+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:35.8280637+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:10:33.6220055+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:16:24.0338823+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:58:38.6308227+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:04:47.8723798+00:00"
 }

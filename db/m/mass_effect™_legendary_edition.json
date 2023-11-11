@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -4050,9 +4050,9 @@
       "ID": "achievement_88",
       "SetID": "d252ncf",
       "Name": "Arbiter",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 261
     },
     {
       "ID": "achievement_89",
@@ -4166,8 +4166,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:18:50.2987332+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:08:10.5266699+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:24.3796429+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:15:21.8035391+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:18:50.2988914+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:03:16.7495388+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:08:10.5268166+00:00"
 }

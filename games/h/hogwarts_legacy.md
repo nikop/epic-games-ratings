@@ -5,10 +5,10 @@ Rating: 4.76 (Ranked 125)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,293 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,294 |
 | First Class Student | 14.00% | ~42,257 |
 | Troll with the Punches | 14.00% | ~42,257 |
-| A Keen Sense of Spell | 13.00% | ~39,238 |
+| A Keen Sense of Spell | 13.00% | ~39,239 |
 | A Talent for Spending | 12.00% | ~36,220 |
 | That's a Keeper | 12.00% | ~36,220 |
 | Grappling with a Graphorn | 11.00% | ~33,202 |
@@ -17,10 +17,10 @@ Rating: 4.76 (Ranked 125)
 | The Defender of Dragons | 11.00% | ~33,202 |
 | Loom for Improvement | 11.00% | ~33,202 |
 | Coasting Along | 11.00% | ~33,202 |
-| The Hero of Hogwarts | 10.00% | ~30,183 |
-| Challenge Accepted | 10.00% | ~30,183 |
-| Followed the Butterflies | 10.00% | ~30,183 |
-| Rising From the Ashes | 10.00% | ~30,183 |
+| The Hero of Hogwarts | 10.00% | ~30,184 |
+| Challenge Accepted | 10.00% | ~30,184 |
+| Followed the Butterflies | 10.00% | ~30,184 |
+| Rising From the Ashes | 10.00% | ~30,184 |
 | The Spell Master | 9.00% | ~27,165 |
 | The Avenging Gazelle | 8.00% | ~24,147 |
 | Beast Friends | 8.00% | ~24,147 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,113 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,834 (Ranked 50)  
+Progressed: 301,836 (Ranked 50)  
 Completed: 507 (0.17%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,15 +256,15 @@ Completed: 507 (0.17%) (Ranked 252)
 | 2023-11-08 | 301,718 | 505 |
 | 2023-11-09 | 301,775 | 505 |
 | 2023-11-10 | 301,822 | 507 |
-| 2023-11-11 | 301,834 | 507 |
+| 2023-11-11 | 301,836 | 507 |
 ## Awards
 Max (Character Customization): 24,188  (Ranked 17)  
-Sum: 47,836 (Ranked 30)  
+Sum: 47,844 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,188 |
-| This game has Great Boss Battles | 12,253 |
+| This game has Great Boss Battles | 12,261 |
 | This game is Great for Beginners | 1,280 |
 | This game has Amazing Storytelling | 1,235 |
 | This game has Diverse Characters | 1,227 |
@@ -510,4 +510,4 @@ Diff (max vs sum): -13
 | 2023-11-08 | 4.76 | 24,120 | 47,675 |
 | 2023-11-09 | 4.76 | 24,144 | 47,747 |
 | 2023-11-10 | 4.76 | 24,162 | 47,810 |
-| 2023-11-11 | 4.76 | 24,188 | 47,836 |
+| 2023-11-11 | 4.76 | 24,188 | 47,844 |

@@ -23,8 +23,8 @@ Rating: 4.56 (Ranked 486)
 | Khan's Revenge | 2.00% | ~296 |
 | Call it Even | 2.00% | ~296 |
 | Captain Drummer | 2.00% | ~296 |
-| Keep Arjun in Check | 2.00% | ~15 |
-| Master Negotiator | 2.00% | ~15 |
+| Keep Arjun in Check | 2.00% | ~16 |
+| Master Negotiator | 2.00% | ~16 |
 | Doctor Approved | 1.00% | ~148 |
 | Bottoms up! | 1.00% | ~148 |
 | Thorston Mayer | 1.00% | ~148 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 486)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,820 (Ranked 146)  
+Progressed: 14,821 (Ranked 146)  
 Completed: 34 (0.23%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 34 (0.23%) (Ranked 236)
 | 2023-11-08 | 14,766 | 33 |
 | 2023-11-09 | 14,788 | 33 |
 | 2023-11-10 | 14,816 | 34 |
-| 2023-11-11 | 14,820 | 34 |
+| 2023-11-11 | 14,821 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

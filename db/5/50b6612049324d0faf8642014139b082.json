@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -320,9 +320,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "achievement_15",
@@ -495,8 +495,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:21:24.7397629+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:09:52.8920509+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:10:05.4346534+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:21:24.7397849+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:57:55.8004026+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:09:52.8920683+00:00"
 }

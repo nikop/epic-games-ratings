@@ -7,22 +7,22 @@ Number of Ratings: 368  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,524 |
-| Man of politics | 34.00% | ~5,545 |
-| Friends of sorts | 33.00% | ~5,382 |
-| Yet another secret | 33.00% | ~5,382 |
-| Let there be darkness | 32.00% | ~5,219 |
+| Man of politics | 34.00% | ~5,546 |
+| Friends of sorts | 33.00% | ~5,383 |
+| Yet another secret | 33.00% | ~5,383 |
+| Let there be darkness | 32.00% | ~5,220 |
 | End of Book One | 30.00% | ~4,893 |
-| Garden of Eden | 24.00% | ~3,914 |
-| Full house | 24.00% | ~3,914 |
-| Wannabe knight | 23.00% | ~3,751 |
+| Garden of Eden | 24.00% | ~3,915 |
+| Full house | 24.00% | ~3,915 |
+| Wannabe knight | 23.00% | ~3,752 |
 | Help an old friend | 21.00% | ~3,425 |
 | Two of us | 20.00% | ~3,262 |
 | Negotiation skills | 18.00% | ~2,936 |
 | Workers' union | 18.00% | ~2,936 |
 | End of Book Two | 18.00% | ~2,936 |
 | Everything's in order | 17.00% | ~2,773 |
-| Twist of Fate | 14.00% | ~2,283 |
-| Jack was here! | 14.00% | ~2,283 |
+| Twist of Fate | 14.00% | ~2,284 |
+| Jack was here! | 14.00% | ~2,284 |
 | Exterminator | 13.00% | ~2,120 |
 | Whodunnit | 12.00% | ~1,957 |
 | Good midwife | 11.00% | ~1,794 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~489 |
 | Boy of mystery | 2.00% | ~326 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,310 (Ranked 144)  
+Progressed: 16,311 (Ranked 144)  
 Completed: 114 (0.70%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 114 (0.70%) (Ranked 174)
 | 2023-11-08 | 16,264 | 114 |
 | 2023-11-09 | 16,282 | 114 |
 | 2023-11-10 | 16,308 | 114 |
-| 2023-11-11 | 16,310 | 114 |
+| 2023-11-11 | 16,311 | 114 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 312)  
 Sum: 198 (Ranked 400)  

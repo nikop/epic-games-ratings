@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 97,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4722,
+  "EOS_Progressed": 4725,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 729,
+  "EOS_NewPlayers": 725,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2782,6 +2782,11 @@
       "Time": "2023-11-11T03:21:10.3132928+00:00",
       "NumProgressed": 4722,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-11T04:09:32.8397432+00:00",
+      "NumProgressed": 4725,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2802,7 +2807,7 @@
       "Name": "Baby Steps",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "BeLikeWater",
@@ -2866,7 +2871,7 @@
       "Name": "First Time?",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "FuneralForTheDeath",
@@ -2874,7 +2879,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "GarbageMan",
@@ -2938,7 +2943,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "NoMoreTotems",
@@ -2946,7 +2951,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "NotLikeTheOthers",
@@ -3018,7 +3023,7 @@
       "Name": "Un-Resurrected",
       "Percentage": 6,
       "XP": 45,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -3042,7 +3047,7 @@
       "Name": "You\u0027re Starting To Get It",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "YouveReachedTheRightNumber",
@@ -3065,7 +3070,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4722,
+      "Progressed": 4725,
       "Completed": 5
     }
   ],
@@ -3073,8 +3078,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-10T21:10:20.974644+00:00",
-  "LastChanged_Achievements": "2023-11-11T03:21:10.3132926+00:00",
+  "LastChanged_Achievements": "2023-11-11T04:09:32.8397425+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:12:45.3916303+00:00",
-  "LastUpdate_Achievements": "2023-11-11T03:21:10.3133262+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:02:54.3888614+00:00",
+  "LastUpdate_Achievements": "2023-11-11T04:09:32.839776+00:00"
 }
