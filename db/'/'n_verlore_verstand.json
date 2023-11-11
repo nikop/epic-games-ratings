@@ -640,25 +640,25 @@
       "ID": "6",
       "SetID": "6m1k8ai",
       "Name": "City of Puzzles",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "7",
       "SetID": "6m1k8ai",
       "Name": "This field of danger",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "8",
       "SetID": "6m1k8ai",
       "Name": "Labyrinths of the Mind",
-      "Percentage": 9,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "9",
@@ -679,8 +679,8 @@
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:08:15.4780647+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:08:29.0656563+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:59.000777+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:01:04.8218715+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:08:15.4780988+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:01:16.9607387+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:08:29.0656895+00:00"
 }

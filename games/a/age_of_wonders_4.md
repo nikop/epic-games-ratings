@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 410)  
+Rating: 4.60 (Ranked 409)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -24,17 +24,18 @@ Rating: 4.60 (Ranked 410)
 | Intimidation Tactics | 0.30% | ~16 |
 | Mighty Hoard | 0.30% | ~16 |
 | Sehiran Oasis | 0.30% | ~16 |
+| Prometheus Avenged | 0.30% | ~16 |
+| A Conqueror's Cohort | 0.30% | ~16 |
 | Dawn of the Dread | 0.30% | ~16 |
 | Valley of Wonders | 0.20% | ~11 |
 | Enchanted Archipelago | 0.20% | ~11 |
 | Digging for Treasure | 0.20% | ~11 |
+| My Final Form | 0.20% | ~11 |
 | Impenetrable Fortress | 0.20% | ~11 |
 | Here be Dragons | 0.20% | ~11 |
 | Tipping the Scales | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
-| Prometheus Avenged | 0.20% | ~11 |
 | Seal the Deal | 0.20% | ~11 |
-| A Conqueror's Cohort | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
@@ -47,7 +48,6 @@ Rating: 4.60 (Ranked 410)
 | Eternal Lord | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
 | Preparation Is Everything | 0.10% | ~5 |
-| My Final Form | 0.10% | ~5 |
 | Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 410)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,354 (Ranked 183)  
+Progressed: 5,356 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,11 +239,11 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
-| 2023-11-11 | 5,354 | 7 |
+| 2023-11-11 | 5,356 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 482)  
-Sum: 53 (Ranked 474)  
-Diff (max vs sum): 8  
+Sum: 53 (Ranked 475)  
+Diff (max vs sum): 7  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |

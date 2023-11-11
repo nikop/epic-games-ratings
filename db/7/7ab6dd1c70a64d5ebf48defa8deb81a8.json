@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 178,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -924,9 +924,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ACH_33",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:10:26.6929366+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:10:37.3802138+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:59:31.0846924+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:10:26.6929667+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:59:46.800884+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:10:37.3802411+00:00"
 }

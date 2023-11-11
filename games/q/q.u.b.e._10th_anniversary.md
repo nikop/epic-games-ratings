@@ -5,33 +5,33 @@ Rating: 4.42 (Ranked 715)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 13.00% | ~2,379 |
-| Sector 2 | 12.00% | ~2,196 |
-| Crush That Cube! | 10.00% | ~1,830 |
-| Sector 3 | 10.00% | ~1,830 |
-| Crush That Ball! | 8.00% | ~1,464 |
-| Sector 4 | 8.00% | ~1,464 |
-| Sector 5 | 5.00% | ~915 |
-| Feeling the Blues | 4.00% | ~732 |
-| Sector 6 | 4.00% | ~732 |
-| Squished | 3.00% | ~549 |
-| Finale | 3.00% | ~549 |
-| Sector 7 | 3.00% | ~549 |
-| Did That Work? -- No! | 3.00% | ~549 |
-| Master Room | 2.00% | ~366 |
+| Sector 1 | 13.00% | ~2,383 |
+| Sector 2 | 12.00% | ~2,199 |
+| Crush That Cube! | 10.00% | ~1,833 |
+| Sector 3 | 10.00% | ~1,833 |
+| Crush That Ball! | 8.00% | ~1,466 |
+| Sector 4 | 8.00% | ~1,466 |
+| Sector 5 | 5.00% | ~916 |
+| Sector 6 | 5.00% | ~916 |
+| Feeling the Blues | 4.00% | ~733 |
+| Squished | 3.00% | ~550 |
+| Finale | 3.00% | ~550 |
+| Sector 7 | 3.00% | ~550 |
+| Did That Work? -- No! | 3.00% | ~550 |
+| Master Room | 2.00% | ~367 |
 | The Puzzle Master | 1.00% | ~183 |
 | Bronze Trophy | 0.90% | ~165 |
 | Phew! | 0.90% | ~165 |
 | Completed It. | 0.90% | ~165 |
-| The Collector | 0.80% | ~146 |
-| Gold Trophy | 0.80% | ~146 |
-| Hopefully that's all of them! | 0.80% | ~146 |
-| Silver Trophy | 0.80% | ~146 |
+| The Collector | 0.80% | ~147 |
+| Gold Trophy | 0.80% | ~147 |
+| Hopefully that's all of them! | 0.80% | ~147 |
+| Silver Trophy | 0.80% | ~147 |
 | Master Of The Collectables | 0.70% | ~128 |
 | Maxed Out | 0.70% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,301 (Ranked 139)  
-Completed: 42 (0.23%) (Ranked 237)  
+Progressed: 18,328 (Ranked 139)  
+Completed: 43 (0.23%) (Ranked 237)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,7 +58,7 @@ Completed: 42 (0.23%) (Ranked 237)
 | 2023-11-08 | 17,246 | 34 |
 | 2023-11-09 | 17,550 | 38 |
 | 2023-11-10 | 17,953 | 39 |
-| 2023-11-11 | 18,301 | 42 |
+| 2023-11-11 | 18,328 | 43 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

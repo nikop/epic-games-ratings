@@ -110,6 +110,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mare Nostrum | 0.10% | ~453 |
 | Market Control | 0.10% | ~453 |
 | Marshy March | 0.10% | ~453 |
+| Mary of Lotharingia | 0.10% | ~453 |
 | Mehmet's Ambition | 0.10% | ~453 |
 | Multiculturalism | 0.10% | ~453 |
 | My armies are invincible! | 0.10% | ~453 |
@@ -277,7 +278,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Lucky Lucca | 0.00% | ~0 |
 | Maharana Pratap | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
-| Mary of Lotharingia | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Master of India | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,730 (Ranked 41)  
+Progressed: 452,807 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,7 +575,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
-| 2023-11-11 | 452,730 | 1 |
+| 2023-11-11 | 452,807 | 1 |
 ## Awards
 Max (Educational): 6,946  (Ranked 54)  
 Sum: 57,110 (Ranked 24)  

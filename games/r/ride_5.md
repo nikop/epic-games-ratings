@@ -9,7 +9,7 @@
 | Clean Race | 41.00% | ~863 |
 | Hear That Roar! | 39.00% | ~821 |
 | Rivals to the End | 28.00% | ~590 |
-| Bitter Rivalry | 26.00% | ~548 |
+| Bitter Rivalry | 27.00% | ~569 |
 | We're Going to Need a Bigger Garage | 24.00% | ~505 |
 | Champagne Spray | 24.00% | ~505 |
 | Restored and Ready | 19.00% | ~400 |
@@ -23,9 +23,9 @@
 | Is It the Right Size? | 8.00% | ~168 |
 | Evangelist | 6.00% | ~126 |
 | Make It Your Own! | 5.00% | ~105 |
+| Cherry Blossom and Temples | 4.00% | ~84 |
 | I Make the Rules! | 4.00% | ~84 |
 | Spoilt for Choice | 3.00% | ~63 |
-| Cherry Blossom and Temples | 3.00% | ~63 |
 | La Dolce Vita | 3.00% | ~63 |
 | The Road to Liberty | 3.00% | ~63 |
 | Romantic Races | 3.00% | ~63 |

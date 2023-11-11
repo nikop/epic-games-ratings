@@ -4563,9 +4563,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 90474,
+  "EOS_Progressed": 90483,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 924,
+  "EOS_NewPlayers": 932,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24863,6 +24863,11 @@
       "Time": "2023-11-11T18:05:50.7048139+00:00",
       "NumProgressed": 90474,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-11T19:06:08.3591824+00:00",
+      "NumProgressed": 90483,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24874,7 +24879,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH_0011",
@@ -25018,7 +25023,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH_0210",
@@ -25026,7 +25031,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH_0211",
@@ -25042,7 +25047,7 @@
       "Name": "Too Old for This",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "ACH_0300",
@@ -25160,9 +25165,9 @@
       "ID": "ACH_0600",
       "SetID": "3kam13l",
       "Name": "Rockay Rex",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 814
+      "UsersEstimate": 905
     },
     {
       "ID": "ACH_1010",
@@ -25201,13 +25206,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90474,
+      "Progressed": 90483,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18821,
+      "Progressed": 18830,
       "Completed": 15565
     }
   ],
@@ -25215,8 +25220,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-11T13:57:30.5585463+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:05:50.7048136+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:06:08.3591821+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:57:20.4936433+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:05:50.7049451+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:57:40.6640506+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:06:08.3593113+00:00"
 }

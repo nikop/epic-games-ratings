@@ -1,22 +1,22 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 410)  
+Rating: 4.60 (Ranked 409)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~5,026 |
-| Having A Field Day | 75.00% | ~5,026 |
-| Reap What You Sow | 72.00% | ~4,825 |
-| The First Day | 69.00% | ~4,624 |
-| Green Thumb | 67.00% | ~4,490 |
-| Novice Researcher | 67.00% | ~4,490 |
-| Home Cooked Meal | 60.00% | ~4,021 |
-| Onward | 57.00% | ~3,820 |
-| The First Week | 55.00% | ~3,686 |
-| Beam Me Up | 52.00% | ~3,485 |
-| Studious Researcher | 52.00% | ~3,485 |
+| Get A Room | 75.00% | ~5,027 |
+| Having A Field Day | 75.00% | ~5,027 |
+| Reap What You Sow | 72.00% | ~4,826 |
+| The First Day | 69.00% | ~4,625 |
+| Green Thumb | 67.00% | ~4,491 |
+| Novice Researcher | 67.00% | ~4,491 |
+| Home Cooked Meal | 60.00% | ~4,022 |
+| Onward | 57.00% | ~3,821 |
+| The First Week | 55.00% | ~3,687 |
+| Beam Me Up | 52.00% | ~3,486 |
+| Studious Researcher | 52.00% | ~3,486 |
 | Putting Food on the Table | 49.00% | ~3,284 |
 | Adept Researcher | 45.00% | ~3,016 |
 | Retribution | 42.00% | ~2,815 |
@@ -27,10 +27,10 @@ Number of Ratings: 706  (23.09.2022)
 | Fit For A King | 30.00% | ~2,011 |
 | Winter Is Coming | 28.00% | ~1,877 |
 | Winter Is Here | 25.00% | ~1,676 |
-| Disassembled | 22.00% | ~1,474 |
-| Oh Deer! | 22.00% | ~1,474 |
-| A Party Now | 21.00% | ~1,407 |
-| All Year Round | 21.00% | ~1,407 |
+| Disassembled | 22.00% | ~1,475 |
+| Oh Deer! | 22.00% | ~1,475 |
+| A Party Now | 21.00% | ~1,408 |
+| All Year Round | 21.00% | ~1,408 |
 | Nothing Wasted | 13.00% | ~871 |
 | Don't Cry Wolf | 13.00% | ~871 |
 | Deerly Departed | 8.00% | ~536 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~134 |
 | Wabbit Season | 0.50% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,702 (Ranked 176)  
+Progressed: 6,703 (Ranked 176)  
 Completed: 14 (0.21%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 14 (0.21%) (Ranked 243)
 | 2023-11-08 | 6,674 | 14 |
 | 2023-11-09 | 6,678 | 14 |
 | 2023-11-10 | 6,693 | 14 |
-| 2023-11-11 | 6,702 | 14 |
+| 2023-11-11 | 6,703 | 14 |
 ## Awards
 Max (Great for Beginners): 124  (Ranked 334)  
 Sum: 1,007 (Ranked 259)  

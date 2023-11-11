@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 577,
+  "EOS_Progressed": 578,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1902,6 +1902,11 @@
       "Time": "2023-11-11T18:09:43.3199598+00:00",
       "NumProgressed": 577,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T19:09:54.913234+00:00",
+      "NumProgressed": 578,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2017,7 +2022,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACH_COLL_20",
@@ -2049,7 +2054,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -2073,7 +2078,7 @@
       "Name": "Collectibles of Chapter V",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "ACH_COLL_CH06",
@@ -2137,7 +2142,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 352
+      "UsersEstimate": 353
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2145,7 +2150,7 @@
       "Name": "The Breaking Point",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2161,7 +2166,7 @@
       "Name": "Heroism",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2169,7 +2174,7 @@
       "Name": "Consequences",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_FIN_CH06",
@@ -2209,7 +2214,7 @@
       "Name": "Broken Hopes",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -2257,7 +2262,7 @@
       "Name": "Missing in Action",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2297,7 +2302,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2329,7 +2334,7 @@
       "Name": "Food Massacre",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -2353,7 +2358,7 @@
       "Name": "Bullseye!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ACH_NEST2",
@@ -2384,15 +2389,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 577,
+      "Progressed": 578,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:09:43.3199596+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:09:54.9132335+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:00:40.3722092+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:09:43.3200008+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:00:53.0698403+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:09:54.9132799+00:00"
 }

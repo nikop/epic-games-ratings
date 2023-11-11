@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -518,9 +518,9 @@
       "ID": "ach-discover-locations-high",
       "SetID": "17ih7ma",
       "Name": "Discovery",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 47
     },
     {
       "ID": "ach-drinkingContest",
@@ -823,8 +823,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:10:22.6962349+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:10:33.6340212+00:00",
   "LastUpdate_AppInfo": "2023-11-11T10:57:00.2383512+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:57:30.0112268+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:10:22.6962819+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:57:49.625403+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:10:33.634071+00:00"
 }

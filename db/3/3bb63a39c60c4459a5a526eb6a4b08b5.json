@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 918,
+  "EOS_Progressed": 919,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3479,6 +3479,11 @@
       "Time": "2023-11-11T14:09:39.0885846+00:00",
       "NumProgressed": 918,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T19:10:13.2409948+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -3658,7 +3663,7 @@
       "Name": "Long Distances",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ManagementMaster",
@@ -3825,14 +3830,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 918,
+      "Progressed": 919,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:10:02.0740669+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:10:13.2409945+00:00",
   "LastUpdate_AppInfo": "2023-11-07T15:57:21.4761392+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:01:50.6225261+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:10:02.0741163+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:02:01.2097735+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:10:13.2410358+00:00"
 }

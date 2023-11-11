@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,042 |
+| New Recruit | 89.00% | ~1,043 |
 | Off to a good start | 67.00% | ~785 |
-| Do... or do not. There is no try | 51.00% | ~597 |
+| Do... or do not. There is no try | 51.00% | ~598 |
 | A good blaster at your side | 31.00% | ~363 |
 | I suggest a new strategy | 20.00% | ~234 |
-| Scrap collector | 19.00% | ~222 |
+| Scrap collector | 19.00% | ~223 |
 | Great shot, kid! | 17.00% | ~199 |
-| All right, I'll give it a try | 16.00% | ~187 |
+| All right, I'll give it a try | 16.00% | ~188 |
 | The power of the Force | 15.00% | ~176 |
 | Together we can rule the galaxy | 15.00% | ~176 |
 | Shoot first | 15.00% | ~176 |
@@ -24,11 +24,10 @@
 | A cunning warrior | 8.00% | ~94 |
 | "Gonk? Gonk!" | 6.00% | ~70 |
 | Distinguished | 6.00% | ~70 |
+| A tremor in the Force | 6.00% | ~70 |
 | Impressive. Most impressive. | 6.00% | ~70 |
 | Judge me by my size, do you? | 6.00% | ~70 |
 | Support the troops | 6.00% | ~70 |
-| A tremor in the Force | 5.00% | ~59 |
-| On the ball | 4.00% | ~47 |
 | Safety ain't the point of a joyride | 4.00% | ~47 |
 | Not bad for a little furball | 4.00% | ~47 |
 | Patience you must have | 4.00% | ~47 |
@@ -36,6 +35,7 @@
 | When 900 years old you reach... | 3.00% | ~35 |
 | Determined | 3.00% | ~35 |
 | Your journey has only started | 3.00% | ~35 |
+| On the ball | 3.00% | ~35 |
 | Precision shot | 3.00% | ~35 |
 | That's no moon | 3.00% | ~35 |
 | What will you become? | 3.00% | ~35 |
@@ -57,18 +57,18 @@
 | Do we take prisoners? | 0.90% | ~11 |
 | A New Hope | 0.80% | ~9 |
 | Walker defender | 0.70% | ~8 |
-| I’ll take that bet | 0.60% | ~7 |
+| I’ll take that bet | 0.70% | ~8 |
 | Stay on target | 0.40% | ~5 |
 | Don't get cocky | 0.40% | ~5 |
+| Greed can be a very powerful ally | 0.40% | ~5 |
 | That got him! | 0.30% | ~4 |
 | in a galaxy far, far away.... | 0.30% | ~4 |
 | Master | 0.30% | ~4 |
-| Greed can be a very powerful ally | 0.30% | ~4 |
 | Stay in attack formation | 0.30% | ~4 |
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,171 (Ranked 242)  
+Progressed: 1,172 (Ranked 243)  
 Completed: 1 (0.09%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -124,7 +124,7 @@ Completed: 1 (0.09%) (Ranked 276)
 | 2023-11-08 | 1,114 | 1 |
 | 2023-11-09 | 1,130 | 1 |
 | 2023-11-10 | 1,147 | 1 |
-| 2023-11-11 | 1,171 | 1 |
+| 2023-11-11 | 1,172 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

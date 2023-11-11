@@ -689,7 +689,7 @@
       "Count": 108
     }
   ],
-  "EOS_Progressed": 1716,
+  "EOS_Progressed": 1717,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 217,
   "EOS_NewCompleters": 0,
@@ -5129,6 +5129,11 @@
       "Time": "2023-11-11T17:07:12.2376964+00:00",
       "NumProgressed": 1716,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-11T19:06:59.3367662+00:00",
+      "NumProgressed": 1717,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -5141,7 +5146,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "achievement_10",
@@ -5163,9 +5168,9 @@
       "ID": "achievement_12",
       "SetID": "222fo9l",
       "Name": "Exodus",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 601
+      "UsersEstimate": 618
     },
     {
       "ID": "achievement_13",
@@ -5179,9 +5184,9 @@
       "ID": "achievement_14",
       "SetID": "222fo9l",
       "Name": "Whole Again",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 40,
-      "UsersEstimate": 480
+      "UsersEstimate": 464
     },
     {
       "ID": "achievement_15",
@@ -5189,7 +5194,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "achievement_16",
@@ -5229,7 +5234,7 @@
       "Name": "Lab Rat",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1270
+      "UsersEstimate": 1271
     },
     {
       "ID": "achievement_20",
@@ -5237,7 +5242,7 @@
       "Name": "Autofire",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 978
+      "UsersEstimate": 979
     },
     {
       "ID": "achievement_21",
@@ -5245,7 +5250,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "achievement_22",
@@ -5317,7 +5322,7 @@
       "Name": "All Systems Go",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1116
     },
     {
       "ID": "achievement_30",
@@ -5333,7 +5338,7 @@
       "Name": "Marksman",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 1596
+      "UsersEstimate": 1597
     },
     {
       "ID": "achievement_32",
@@ -5341,7 +5346,7 @@
       "Name": "Surgeon",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "achievement_33",
@@ -5381,7 +5386,7 @@
       "Name": "Maxed Out",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_38",
@@ -5405,7 +5410,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "achievement_40",
@@ -5429,7 +5434,7 @@
       "Name": "Brute Force",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1098
+      "UsersEstimate": 1099
     },
     {
       "ID": "achievement_43",
@@ -5469,7 +5474,7 @@
       "Name": "Reunion",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_5",
@@ -5516,7 +5521,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1716,
+      "Progressed": 1717,
       "Completed": 8
     }
   ],
@@ -5524,8 +5529,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-05T01:50:21.7166978+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:06:42.2261337+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:06:59.3367657+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.4707049+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:00:35.3739402+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:06:42.2261824+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:00:48.4472667+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:06:59.3368216+00:00"
 }

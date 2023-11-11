@@ -2,9 +2,9 @@
   "ID": "8b24875aea504fdc8032dff4fcdf31d4",
   "Name": "Timothy vs the Aliens",
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
-  "Ranking_EOS_Progress": 523,
+  "Ranking_EOS_Progress": 520,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 25,
+  "EOS_Progressed": 26,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -147,6 +147,11 @@
       "Time": "2023-11-09T21:04:19.8903933+00:00",
       "NumProgressed": 25,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T19:06:08.7847814+00:00",
+      "NumProgressed": 26,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -196,7 +201,7 @@
       "ID": "ACH_CARKEY",
       "SetID": "73kff7",
       "Name": "Drive carefully",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -204,7 +209,7 @@
       "ID": "ACH_CATCHTHUG1",
       "SetID": "73kff7",
       "Name": "But why are you running?",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -252,7 +257,7 @@
       "ID": "ACH_ELIZABETHSREST",
       "SetID": "73kff7",
       "Name": "Jumping in line",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 5
     },
@@ -268,7 +273,7 @@
       "ID": "ACH_FINDLUCIANO",
       "SetID": "73kff7",
       "Name": "Among rats and a foul stench",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -284,9 +289,9 @@
       "ID": "ACH_GETTOTIMOTHYS",
       "SetID": "73kff7",
       "Name": "A drink, solitude and my memories",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "ACH_KILLSTOCKII",
@@ -308,7 +313,7 @@
       "ID": "ACH_LEAVETIMOTHYS",
       "SetID": "73kff7",
       "Name": "I should have paid attention",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 40,
       "UsersEstimate": 16
     },
@@ -340,7 +345,7 @@
       "ID": "ACH_SAVEELIZABETH",
       "SetID": "73kff7",
       "Name": "Being nice",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 50,
       "UsersEstimate": 8
     }
@@ -349,13 +354,13 @@
     {
       "ID": "73kff7",
       "IsBase": true,
-      "Progressed": 25,
+      "Progressed": 26,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:05:50.9699036+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:06:08.7847809+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:39.7958389+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:58:30.8462922+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:05:50.9699181+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:58:47.7454294+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:06:08.7847956+00:00"
 }

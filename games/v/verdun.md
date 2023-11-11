@@ -6,28 +6,28 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~49,252 |
-| Worth it | 63.00% | ~39,780 |
-| Eagle Eye | 55.00% | ~34,729 |
-| Corpseman I | 40.00% | ~25,257 |
-| Blast fishing | 37.00% | ~23,363 |
-| Not alone | 32.00% | ~20,206 |
-| Headhunter I | 26.00% | ~16,417 |
-| Manual Labour I | 25.00% | ~15,786 |
-| Developers, Developers, Developers | 24.00% | ~15,154 |
-| Basic Training | 24.00% | ~15,154 |
-| Furchtlos und Treu | 13.00% | ~8,209 |
-| Gott Mit Uns | 12.00% | ~7,577 |
-| This We'll Defend! | 9.00% | ~5,683 |
-| Anker wirf! | 9.00% | ~5,683 |
-| Providentiea Memor | 9.00% | ~5,683 |
-| For King and Country | 9.00% | ~5,683 |
-| Battle hardened | 8.00% | ~5,051 |
+| Setting an example | 78.00% | ~49,257 |
+| Worth it | 63.00% | ~39,784 |
+| Eagle Eye | 55.00% | ~34,732 |
+| Corpseman I | 40.00% | ~25,260 |
+| Blast fishing | 37.00% | ~23,366 |
+| Not alone | 32.00% | ~20,208 |
+| Headhunter I | 26.00% | ~16,419 |
+| Manual Labour I | 25.00% | ~15,788 |
+| Developers, Developers, Developers | 24.00% | ~15,156 |
+| Basic Training | 24.00% | ~15,156 |
+| Furchtlos und Treu | 13.00% | ~8,210 |
+| Gott Mit Uns | 12.00% | ~7,578 |
+| This We'll Defend! | 9.00% | ~5,684 |
+| Anker wirf! | 9.00% | ~5,684 |
+| Providentiea Memor | 9.00% | ~5,684 |
+| For King and Country | 9.00% | ~5,684 |
+| Battle hardened | 8.00% | ~5,052 |
 | Semper Fidelis! | 7.00% | ~4,420 |
 | Honneur et Patrie | 7.00% | ~4,420 |
-| In Treue Fest | 5.00% | ~3,157 |
-| Voor De Koning | 5.00% | ~3,157 |
-| Extreme Headhunter | 5.00% | ~3,157 |
+| In Treue Fest | 5.00% | ~3,158 |
+| Voor De Koning | 5.00% | ~3,158 |
+| Extreme Headhunter | 5.00% | ~3,158 |
 | Advance Australia | 4.00% | ~2,526 |
 | We Stand on Guard | 4.00% | ~2,526 |
 | Sidi Brahim | 4.00% | ~2,526 |
@@ -43,14 +43,14 @@ Number of Ratings: 1,999  (23.09.2022)
 | Impavidum Ferient Bella! | 3.00% | ~1,894 |
 | Bronze x100 | 2.00% | ~1,263 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,263 |
-| Gold x100 | 1.00% | ~631 |
-| Hunting the Hun | 1.00% | ~631 |
-| #1 | 1.00% | ~631 |
-| Golden Headhunter | 1.00% | ~631 |
-| That's another one down! | 1.00% | ~631 |
-| Do you even die? | 1.00% | ~631 |
-| Headhunter II | 1.00% | ~631 |
-| Corpseman III | 1.00% | ~631 |
+| Gold x100 | 1.00% | ~632 |
+| Hunting the Hun | 1.00% | ~632 |
+| #1 | 1.00% | ~632 |
+| Golden Headhunter | 1.00% | ~632 |
+| That's another one down! | 1.00% | ~632 |
+| Do you even die? | 1.00% | ~632 |
+| Headhunter II | 1.00% | ~632 |
+| Corpseman III | 1.00% | ~632 |
 | Elite Player | 0.80% | ~505 |
 | Manual Labour III | 0.40% | ~253 |
 | Buddy | 0.30% | ~189 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~63 |
 | Blood Brother | 0.10% | ~63 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,143 (Ranked 104)  
+Progressed: 63,150 (Ranked 104)  
 Completed: 4 (0.01%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 4 (0.01%) (Ranked 325)
 | 2023-11-08 | 62,864 | 4 |
 | 2023-11-09 | 62,940 | 4 |
 | 2023-11-10 | 63,037 | 4 |
-| 2023-11-11 | 63,143 | 4 |
+| 2023-11-11 | 63,150 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 351)  
 Sum: 908 (Ranked 270)  

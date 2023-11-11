@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1803,
+  "EOS_Progressed": 1805,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6760,6 +6760,11 @@
       "Time": "2023-11-11T16:05:39.5205341+00:00",
       "NumProgressed": 1803,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T19:07:18.4344088+00:00",
+      "NumProgressed": 1805,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6883,7 +6888,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -6891,7 +6896,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -6955,7 +6960,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -7074,7 +7079,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1803,
+      "Progressed": 1805,
       "Completed": 1
     }
   ],
@@ -7082,8 +7087,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:07:02.2768167+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:07:18.4344085+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:58:34.6214092+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:07:02.2768743+00:00"
+  "LastUpdate_Ratings": "2023-11-11T18:58:51.4693384+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:07:18.4344576+00:00"
 }

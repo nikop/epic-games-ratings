@@ -2,12 +2,12 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 410,
+  "Ranking_Rating": 409,
   "Ranking_Popularity": 482,
-  "Ranking_PopularitySum": 474,
+  "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -447,9 +447,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5354,
+  "EOS_Progressed": 5356,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6962,6 +6962,11 @@
       "Time": "2023-11-11T18:04:16.2874116+00:00",
       "NumProgressed": 5354,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-11T19:04:35.1332963+00:00",
+      "NumProgressed": 5356,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7171,9 +7176,9 @@
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "33",
@@ -7387,9 +7392,9 @@
       "ID": "53",
       "SetID": "7132754",
       "Name": "Prometheus Avenged",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "54",
@@ -7411,9 +7416,9 @@
       "ID": "56",
       "SetID": "7132754",
       "Name": "A Conqueror\u0027s Cohort",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "57",
@@ -7452,13 +7457,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5354,
+      "Progressed": 5356,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5354,
+      "Progressed": 5356,
       "Completed": 7
     }
   ],
@@ -7466,8 +7471,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T17:03:23.9116257+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:04:16.2874112+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:04:35.1332959+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:02:39.4950373+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:04:16.2874837+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:03:18.894791+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:04:35.1333871+00:00"
 }

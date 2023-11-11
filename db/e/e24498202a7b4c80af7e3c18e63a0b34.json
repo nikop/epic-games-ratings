@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6752,
+  "EOS_Progressed": 6753,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -5306,6 +5306,11 @@
       "Time": "2023-11-11T18:08:30.675106+00:00",
       "NumProgressed": 6752,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-11T19:08:43.7216205+00:00",
+      "NumProgressed": 6753,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5318,7 +5323,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 5874
+      "UsersEstimate": 5875
     },
     {
       "ID": "achievement_01_02",
@@ -5334,7 +5339,7 @@
       "Name": "Brand New Ride",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4321
+      "UsersEstimate": 4322
     },
     {
       "ID": "achievement_01_04",
@@ -5342,7 +5347,7 @@
       "Name": "Bzzzt",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4929
+      "UsersEstimate": 4930
     },
     {
       "ID": "achievement_01_05",
@@ -5366,7 +5371,7 @@
       "Name": "Car Workshop",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "achievement_01_08",
@@ -5374,7 +5379,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 4996
+      "UsersEstimate": 4997
     },
     {
       "ID": "achievement_01_09",
@@ -5382,7 +5387,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2903
+      "UsersEstimate": 2904
     },
     {
       "ID": "achievement_01_10",
@@ -5390,7 +5395,7 @@
       "Name": "Beat the Clock",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3647
     },
     {
       "ID": "achievement_02_01",
@@ -5566,7 +5571,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3511
+      "UsersEstimate": 3512
     },
     {
       "ID": "achievement_04_04",
@@ -5606,7 +5611,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5807
+      "UsersEstimate": 5808
     },
     {
       "ID": "achievement_04_09",
@@ -5621,7 +5626,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6752,
+      "Progressed": 6753,
       "Completed": 37
     }
   ],
@@ -5629,8 +5634,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:08:30.6751055+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:08:43.7216202+00:00",
   "LastUpdate_AppInfo": "2023-11-09T20:57:10.0685893+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:59:59.8259825+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:08:30.6751432+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:00:14.5619963+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:08:43.7216592+00:00"
 }

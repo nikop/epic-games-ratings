@@ -1,16 +1,16 @@
 # Assassin's Creed® Valhalla Standard Edition
 [Store](https://store.epicgames.com/en-US/p/assassins-creed-valhalla)  
 [View Rawdata](../../db/a/assassin's_creed®_valhalla_standard_edition.json)  
-Rating: 4.60 (Ranked 410)  
+Rating: 4.60 (Ranked 409)  
 Number of Ratings: 12,317  (23.09.2022)  
 ## Awards
 Max (Character Customization): 14,700  (Ranked 25)  
-Sum: 35,412 (Ranked 38)  
+Sum: 35,426 (Ranked 38)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 14,700 |
-| This game has Great Boss Battles | 9,493 |
+| This game has Great Boss Battles | 9,507 |
 | This game is Highly Recommended | 1,352 |
 | This game has Quickly Understood Controls | 1,345 |
 | This game is Great for Beginners | 1,313 |
@@ -321,4 +321,4 @@ Diff (max vs sum): -13
 | 2023-11-08 | 4.60 | - | 14,657 | 35,309 |
 | 2023-11-09 | 4.60 | - | 14,669 | 35,343 |
 | 2023-11-10 | 4.60 | - | 14,683 | 35,379 |
-| 2023-11-11 | 4.60 | - | 14,700 | 35,412 |
+| 2023-11-11 | 4.60 | - | 14,700 | 35,426 |

@@ -7,13 +7,13 @@ Number of Ratings: 180  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First line | 77.00% | ~1,417 |
+| First cargo item on board | 71.00% | ~1,306 |
 | First cargo item waiting | 71.00% | ~1,306 |
 | First bus stop | 70.00% | ~1,288 |
-| First cargo item on board | 70.00% | ~1,288 |
 | First passenger on board | 67.00% | ~1,233 |
 | First passenger waiting | 67.00% | ~1,233 |
 | First bus arrived | 66.00% | ~1,214 |
-| First train station | 63.00% | ~1,159 |
+| First train station | 64.00% | ~1,178 |
 | First steam train arrived | 60.00% | ~1,104 |
 | First industry upgraded | 56.00% | ~1,030 |
 | Transport millionaire | 55.00% | ~1,012 |
@@ -264,7 +264,7 @@ Completed: 1 (0.05%) (Ranked 298)
 | 2023-11-11 | 1,840 | 1 |
 ## Awards
 Max (Highly Recommended): 43  (Ranked 449)  
-Sum: 304 (Ranked 359)  
+Sum: 305 (Ranked 359)  
 Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
@@ -274,7 +274,7 @@ Diff (max vs sum): 90
 | This game has Amazing Storytelling | 37 |
 | This game is Relaxing | 34 |
 | This game has Quickly Understood Controls | 34 |
-| This game has a Creative Community | 28 |
+| This game has a Creative Community | 29 |
 | This game has Amazing Characters | 26 |
 | This game is Educational | 25 |
 | This game has Obsessive Gameplay | 21 |
@@ -378,3 +378,4 @@ Diff (max vs sum): 90
 | 2023-11-02 | 4.69 | - | 43 | 302 |
 | 2023-11-03 | 4.69 | - | 43 | 303 |
 | 2023-11-09 | 4.69 | - | 43 | 304 |
+| 2023-11-11 | 4.69 | - | 43 | 305 |

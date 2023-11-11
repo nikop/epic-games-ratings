@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 242,
+  "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 130,
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1171,
+  "EOS_Progressed": 1172,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3399,6 +3399,11 @@
       "Time": "2023-11-11T18:10:24.5667589+00:00",
       "NumProgressed": 1171,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T19:10:35.6212621+00:00",
+      "NumProgressed": 1172,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3545,9 +3550,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_26",
@@ -3577,9 +3582,9 @@
       "ID": "achievement_29",
       "SetID": "271ol84",
       "Name": "On the ball",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 47
+      "UsersEstimate": 35
     },
     {
       "ID": "achievement_3",
@@ -3603,7 +3608,7 @@
       "Name": "Scrap collector",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "achievement_32",
@@ -3611,7 +3616,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "achievement_33",
@@ -3635,7 +3640,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "achievement_36",
@@ -3683,7 +3688,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "achievement_41",
@@ -3737,9 +3742,9 @@
       "ID": "achievement_47",
       "SetID": "cemm4l8",
       "Name": "Greed can be a very powerful ally",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 60,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_48",
@@ -3793,9 +3798,9 @@
       "ID": "achievement_53",
       "SetID": "cemm4l8",
       "Name": "I\u2019ll take that bet",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 90,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_54",
@@ -3914,13 +3919,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1171,
+      "Progressed": 1172,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1171,
+      "Progressed": 1172,
       "Completed": 1
     }
   ],
@@ -3928,8 +3933,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:10:24.5667586+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:10:35.6212618+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:00:26.8357179+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:10:24.5668305+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:00:39.9879982+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:10:35.6213375+00:00"
 }

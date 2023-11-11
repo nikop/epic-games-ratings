@@ -4,7 +4,7 @@
   "ProductSlug": "jackbox-party-pack-5",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2017-10-17T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:54.002841+00:00",
   "LastChanged": "2023-03-31T05:57:54.0028411+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:36.5914209+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:03:11.1727935+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:04:44.2371977+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:03:50.5550845+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:05:02.5001234+00:00"
 }

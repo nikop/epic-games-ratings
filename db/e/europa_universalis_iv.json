@@ -11931,9 +11931,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 452730,
+  "EOS_Progressed": 452807,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5757,
+  "EOS_NewPlayers": 5772,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35406,6 +35406,11 @@
       "Time": "2023-11-11T18:07:54.6346485+00:00",
       "NumProgressed": 452730,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T19:08:08.8621013+00:00",
+      "NumProgressed": 452807,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36927,9 +36932,9 @@
       "ID": "achievement_mary_of_lotharingia",
       "SetID": "8p2n7he",
       "Name": "Mary of Lotharingia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_mass_production",
@@ -38320,21 +38325,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 452730,
+      "Progressed": 452807,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 452730,
+      "Progressed": 452807,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-11T13:59:59.8493349+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:07:54.6346479+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:08:08.862101+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:00:20.9348346+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:07:54.6357515+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:00:34.2038618+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:08:08.8630996+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "supfly-delivery-simulator-82d2fd",
   "Ranking_EOS_Progress": 628,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-08T17:00:00+00:00",
@@ -135,8 +135,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-26T15:04:27.1843787+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:03:51.172404+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:04:10.1471085+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:31.2125064+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:59:51.3170301+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:03:51.172412+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:00:06.5072099+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:04:10.1471201+00:00"
 }

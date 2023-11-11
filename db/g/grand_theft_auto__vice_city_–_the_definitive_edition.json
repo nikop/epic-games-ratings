@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 440,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -835,7 +835,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 10986,
+  "EOS_Progressed": 10988,
   "EOS_Completed": 64,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
@@ -12780,6 +12780,11 @@
       "Time": "2023-11-11T18:06:53.4351641+00:00",
       "NumProgressed": 10986,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-11T19:07:10.1728685+00:00",
+      "NumProgressed": 10988,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12839,7 +12844,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH08",
@@ -12847,7 +12852,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH09",
@@ -12871,7 +12876,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ACH12",
@@ -12895,7 +12900,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4614
+      "UsersEstimate": 4615
     },
     {
       "ID": "ACH15",
@@ -12967,7 +12972,7 @@
       "Name": "South American Connection",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "ACH24",
@@ -13062,7 +13067,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 10986,
+      "Progressed": 10988,
       "Completed": 64
     }
   ],
@@ -13070,8 +13075,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-09T19:58:38.2755624+00:00",
-  "LastChanged_Achievements": "2023-11-11T18:06:53.4351636+00:00",
+  "LastChanged_Achievements": "2023-11-11T19:07:10.1728682+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:34.2775327+00:00",
-  "LastUpdate_Ratings": "2023-11-11T17:59:47.5920719+00:00",
-  "LastUpdate_Achievements": "2023-11-11T18:06:53.435236+00:00"
+  "LastUpdate_Ratings": "2023-11-11T19:00:02.7646533+00:00",
+  "LastUpdate_Achievements": "2023-11-11T19:07:10.1729421+00:00"
 }

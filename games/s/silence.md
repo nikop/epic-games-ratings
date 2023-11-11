@@ -16,9 +16,9 @@
 | Let the boot talk | 32.00% | ~48 |
 | Shadow on the wall | 28.00% | ~42 |
 | Chapter II | 27.00% | ~41 |
+| Bubblekillerfamily | 24.00% | ~36 |
 | Achoo!! | 24.00% | ~36 |
 | Handyman | 23.00% | ~35 |
-| Bubblekillerfamily | 23.00% | ~35 |
 | Chapter III | 23.00% | ~35 |
 | Like a moth in the Wind | 23.00% | ~35 |
 | Quite a buggy game | 21.00% | ~32 |

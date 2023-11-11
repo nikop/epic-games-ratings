@@ -1,33 +1,33 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.68 (Ranked 253)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,239 |
-| On the Top Step | 86.00% | ~4,844 |
-| Setting up for Success | 75.00% | ~4,225 |
-| Team Orders | 73.00% | ~4,112 |
-| Engineer | 53.00% | ~2,985 |
-| Familiar Faces | 46.00% | ~2,591 |
-| Going the Extra Mile | 41.00% | ~2,310 |
-| Sharing the Love | 40.00% | ~2,253 |
-| Hitting a Season | 33.00% | ~1,859 |
-| A Dozen Pieces | 30.00% | ~1,690 |
-| Challenge Yourself | 30.00% | ~1,690 |
-| Making History | 30.00% | ~1,690 |
-| Network Success | 25.00% | ~1,408 |
-| Writing a new Chapter | 24.00% | ~1,352 |
-| Spring Cleaning | 22.00% | ~1,239 |
-| Reduce | 19.00% | ~1,070 |
-| Crucial Combo | 18.00% | ~1,014 |
-| Ups and Downs | 18.00% | ~1,014 |
-| Reuse | 16.00% | ~901 |
-| One for the Book | 15.00% | ~845 |
-| Proving Them Wrong | 15.00% | ~845 |
+| Getting on the Step | 93.00% | ~5,242 |
+| On the Top Step | 86.00% | ~4,848 |
+| Setting up for Success | 75.00% | ~4,228 |
+| Team Orders | 73.00% | ~4,115 |
+| Engineer | 53.00% | ~2,988 |
+| Familiar Faces | 46.00% | ~2,593 |
+| Going the Extra Mile | 41.00% | ~2,311 |
+| Sharing the Love | 40.00% | ~2,255 |
+| Hitting a Season | 33.00% | ~1,860 |
+| A Dozen Pieces | 30.00% | ~1,691 |
+| Challenge Yourself | 30.00% | ~1,691 |
+| Making History | 30.00% | ~1,691 |
+| Network Success | 25.00% | ~1,409 |
+| Writing a new Chapter | 24.00% | ~1,353 |
+| Spring Cleaning | 22.00% | ~1,240 |
+| Reduce | 19.00% | ~1,071 |
+| Crucial Combo | 18.00% | ~1,015 |
+| Ups and Downs | 18.00% | ~1,015 |
+| Reuse | 16.00% | ~902 |
+| One for the Book | 15.00% | ~846 |
+| Proving Them Wrong | 15.00% | ~846 |
 | Gathering Dust | 14.00% | ~789 |
-| Oil and Water | 13.00% | ~732 |
+| Oil and Water | 13.00% | ~733 |
 | Eagle Eye | 12.00% | ~676 |
 | Lightning Round the World | 12.00% | ~676 |
 | Hitting a Bullseye | 12.00% | ~676 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 231)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,633 (Ranked 180)  
+Progressed: 5,637 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,15 +114,16 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 5,432 | 0 |
 | 2023-11-09 | 5,500 | 0 |
 | 2023-11-10 | 5,572 | 0 |
-| 2023-11-11 | 5,633 | 0 |
+| 2023-11-11 | 5,637 | 0 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 507)  
-Sum: 51 (Ranked 479)  
-Diff (max vs sum): 28  
+Sum: 71 (Ranked 465)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 27 |
 | This game is Great for Quick Sessions | 24 |
+| This game is Highly Recommended | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -190,4 +191,4 @@ Diff (max vs sum): 28
 | 2023-11-05 | 4.68 | 24 | 47 |
 | 2023-11-09 | 4.69 | 25 | 49 |
 | 2023-11-10 | 4.69 | 26 | 50 |
-| 2023-11-11 | 4.69 | 27 | 51 |
+| 2023-11-11 | 4.69 | 27 | 71 |

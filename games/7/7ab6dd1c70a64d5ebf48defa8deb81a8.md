@@ -17,7 +17,7 @@
 | Powerful Allies | 24.00% | ~43 |
 | Geared Up | 24.00% | ~43 |
 | Tributes of Caladrias | 23.00% | ~41 |
-| Stone Collection | 21.00% | ~37 |
+| Stone Collection | 22.00% | ~39 |
 | Essence Blow | 13.00% | ~23 |
 | Big Bazar | 13.00% | ~23 |
 | Alchemist | 12.00% | ~21 |

@@ -6,8 +6,8 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~25,959 |
-| Landlord | 33.00% | ~21,416 |
+| Lawbringer | 40.00% | ~25,960 |
+| Landlord | 33.00% | ~21,417 |
 | Bannerlord | 24.00% | ~15,576 |
 | Horde breaker | 24.00% | ~15,576 |
 | Lawmaker | 23.00% | ~14,927 |
@@ -40,7 +40,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Undercover | 0.80% | ~519 |
 | Fat Cat | 0.70% | ~454 |
 | Catch | 0.60% | ~389 |
-| Slice 'n dice | 0.50% | ~324 |
+| Slice 'n dice | 0.50% | ~325 |
 | Ride it like you stole it | 0.40% | ~260 |
 | Mounted Archery | 0.30% | ~195 |
 | Explorer | 0.20% | ~130 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64,898 (Ranked 103)  
+Progressed: 64,901 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 64,735 | 0 |
 | 2023-11-09 | 64,776 | 0 |
 | 2023-11-10 | 64,847 | 0 |
-| 2023-11-11 | 64,898 | 0 |
+| 2023-11-11 | 64,901 | 0 |
 ## Awards
 Max (Character Customization): 7,364  (Ranked 51)  
 Sum: 15,219 (Ranked 67)  
