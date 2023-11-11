@@ -15,7 +15,7 @@
 | Fusion Conjuror | 63.00% | ~166 |
 | Memory Rouser | 63.00% | ~166 |
 | Kemono Hunter | 58.00% | ~153 |
-| Expert Conjuror | 56.00% | ~147 |
+| Expert Conjuror | 57.00% | ~150 |
 | Distance Devourer | 53.00% | ~139 |
 | Flawless Crystal | 53.00% | ~139 |
 | Master of the Skies | 51.00% | ~134 |

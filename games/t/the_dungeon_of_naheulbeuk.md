@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,754 |
-| Alt+F4 | 8.00% | ~18,915 |
-| Where's that freaking Dwarf? | 7.00% | ~16,551 |
-| Déjà vu | 6.00% | ~14,186 |
-| Sock! SOCK! | 5.00% | ~11,822 |
+| Sowwy! | 35.00% | ~82,758 |
+| Alt+F4 | 8.00% | ~18,916 |
+| Where's that freaking Dwarf? | 7.00% | ~16,552 |
+| Déjà vu | 6.00% | ~14,187 |
+| Sock! SOCK! | 5.00% | ~11,823 |
 | A beer, two curses, three companions | 4.00% | ~9,458 |
 | GG EZ | 4.00% | ~9,458 |
 | DM intervention | 4.00% | ~9,458 |
 | Speedrun | 4.00% | ~9,458 |
-| Livin' in a dwarven paradise | 3.00% | ~7,093 |
-| Way of the Wimp | 3.00% | ~7,093 |
-| The plot thickens... At the tavern | 3.00% | ~7,093 |
-| Fireproof Wizardess | 3.00% | ~7,093 |
+| Livin' in a dwarven paradise | 3.00% | ~7,094 |
+| Way of the Wimp | 3.00% | ~7,094 |
+| The plot thickens... At the tavern | 3.00% | ~7,094 |
+| Fireproof Wizardess | 3.00% | ~7,094 |
 | Shiny and Crôm | 2.00% | ~4,729 |
 | The demons' feast | 2.00% | ~4,729 |
 | The Great Library | 2.00% | ~4,729 |
@@ -35,14 +35,14 @@ Number of Ratings: 118  (23.09.2022)
 | Thieves' Guild Accreditation | 2.00% | ~4,729 |
 | Team Building Exercise | 2.00% | ~4,729 |
 | Oh, when I'll be level 10... | 2.00% | ~4,729 |
-| Res Judicata | 1.00% | ~2,364 |
-| Dwarf Fortress | 1.00% | ~2,364 |
-| %#*!$*! | 1.00% | ~2,364 |
-| Look but don't touch | 1.00% | ~2,364 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,364 |
-| Dead for good | 1.00% | ~2,364 |
-| Lust and Debauchery | 1.00% | ~2,364 |
-| Material Girl | 1.00% | ~2,364 |
+| Res Judicata | 1.00% | ~2,365 |
+| Dwarf Fortress | 1.00% | ~2,365 |
+| %#*!$*! | 1.00% | ~2,365 |
+| Look but don't touch | 1.00% | ~2,365 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 1.00% | ~2,365 |
+| Dead for good | 1.00% | ~2,365 |
+| Lust and Debauchery | 1.00% | ~2,365 |
+| Material Girl | 1.00% | ~2,365 |
 | Gargantua | 0.90% | ~2,128 |
 | In Navalu's footsteps | 0.80% | ~1,892 |
 | We come in peace | 0.70% | ~1,655 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~236 |
 | Dwarf Candy | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,441 (Ranked 62)  
+Progressed: 236,452 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,10 +259,10 @@ Completed: 7 (0.00%) (Ranked 347)
 | 2023-11-08 | 235,997 | 7 |
 | 2023-11-09 | 236,158 | 7 |
 | 2023-11-10 | 236,338 | 7 |
-| 2023-11-11 | 236,441 | 7 |
+| 2023-11-11 | 236,452 | 7 |
 ## Awards
 Max (Character Customization): 228  (Ranked 272)  
-Sum: 456 (Ranked 330)  
+Sum: 457 (Ranked 330)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
@@ -270,8 +270,8 @@ Diff (max vs sum): -58
 | This game is Relaxing | 36 |
 | This game is Great for Beginners | 32 |
 | This game is Highly Recommended | 29 |
+| This game has Amazing Storytelling | 28 |
 | This game has Quickly Understood Controls | 28 |
-| This game has Amazing Storytelling | 27 |
 | This game has Amazing Characters | 26 |
 | This game has Diverse Characters | 26 |
 | This game is Extremely Fun | 24 |
@@ -452,3 +452,4 @@ Diff (max vs sum): -58
 | 2023-11-08 | 4.58 | - | 227 | 454 |
 | 2023-11-09 | 4.58 | - | 227 | 455 |
 | 2023-11-10 | 4.58 | - | 228 | 456 |
+| 2023-11-11 | 4.58 | - | 228 | 457 |

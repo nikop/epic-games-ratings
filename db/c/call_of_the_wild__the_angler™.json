@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -889,7 +889,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6484,
+  "EOS_Progressed": 6485,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 0,
@@ -9824,6 +9824,11 @@
       "Time": "2023-11-11T12:08:51.0717583+00:00",
       "NumProgressed": 6484,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T13:11:31.5183921+00:00",
+      "NumProgressed": 6485,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9865,9 +9870,9 @@
       "ID": "ACHIEVEMENT_005",
       "SetID": "1a05lfd",
       "Name": "Fish Out of Water",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -9945,9 +9950,9 @@
       "ID": "ACHIEVEMENT_015",
       "SetID": "1a05lfd",
       "Name": "Going for Gold",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 26
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -10154,13 +10159,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6484,
+      "Progressed": 6485,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5856,
+      "Progressed": 5857,
       "Completed": 113
     }
   ],
@@ -10168,8 +10173,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-10T19:57:30.8102083+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:08:51.0717578+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:11:31.5183915+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:57:45.4319347+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:08:51.071846+00:00"
+  "LastUpdate_Ratings": "2023-11-11T12:59:59.8584018+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:11:31.5184589+00:00"
 }

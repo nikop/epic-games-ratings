@@ -3,12 +3,12 @@
   "Name": "Hello Neighbor",
   "ProductSlug": "hello-neighbor",
   "Ranking_Rating": 486,
-  "Ranking_Popularity": 244,
+  "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 206,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2018-12-08T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -4288,11 +4288,17 @@
       "Rating": 4.56,
       "NumberOfAwards": 2084,
       "NumberOfAwardsMax": 322
+    },
+    {
+      "Time": "2023-11-11T13:02:06.531532+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 2087,
+      "NumberOfAwardsMax": 325
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2084,
-  "NumberOfAwardsMax": 322,
+  "NumberOfAwards": 2087,
+  "NumberOfAwardsMax": 325,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4353,7 +4359,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 322
+      "Count": 325
     }
   ],
   "EOS_Progressed": 0,
@@ -4367,8 +4373,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:23.0108388+00:00",
-  "LastChanged": "2023-11-11T09:59:39.7360407+00:00",
+  "LastChanged": "2023-11-11T13:02:06.5315318+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:40.3275835+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:59:08.4994534+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:04:55.8932658+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:02:06.5315325+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:08:07.226144+00:00"
 }

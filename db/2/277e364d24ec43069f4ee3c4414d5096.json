@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -353,9 +353,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113869,
+  "EOS_Progressed": 113872,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 633,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17548,6 +17548,11 @@
       "Time": "2023-11-11T12:08:34.3619232+00:00",
       "NumProgressed": 113869,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-11T13:11:07.9879037+00:00",
+      "NumProgressed": 113872,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17567,7 +17572,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87679
+      "UsersEstimate": 87681
     },
     {
       "ID": "EAwards_10",
@@ -17583,7 +17588,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29606
+      "UsersEstimate": 29607
     },
     {
       "ID": "EAwards_12",
@@ -17591,7 +17596,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17080
+      "UsersEstimate": 17081
     },
     {
       "ID": "EAwards_13",
@@ -17631,7 +17636,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42132
+      "UsersEstimate": 42133
     },
     {
       "ID": "EAwards_18",
@@ -17655,7 +17660,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54657
+      "UsersEstimate": 54659
     },
     {
       "ID": "EAwards_20",
@@ -17703,7 +17708,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21635
+      "UsersEstimate": 21636
     },
     {
       "ID": "EAwards_26",
@@ -17927,7 +17932,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13664
+      "UsersEstimate": 13665
     },
     {
       "ID": "EAwards_8",
@@ -17935,7 +17940,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13664
+      "UsersEstimate": 13665
     },
     {
       "ID": "EAwards_9",
@@ -17950,7 +17955,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113869,
+      "Progressed": 113872,
       "Completed": 50
     }
   ],
@@ -17958,8 +17963,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-10T19:00:04.1652454+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:08:34.3619227+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:11:07.9879031+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:59:55.8673715+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:08:34.3620731+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:03:19.3404234+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:11:07.9880021+00:00"
 }

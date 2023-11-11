@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6911,10 +6911,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27524,
       "NumberOfAwardsMax": 4825
+    },
+    {
+      "Time": "2023-11-11T13:02:54.6430705+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27526,
+      "NumberOfAwardsMax": 4825
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27524,
+  "NumberOfAwards": 27526,
   "NumberOfAwardsMax": 4825,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6958,7 +6964,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3198
+      "Count": 3200
     },
     {
       "Text": "This game is Highly Recommended",
@@ -6967,9 +6973,9 @@
       "Count": 3776
     }
   ],
-  "EOS_Progressed": 139276,
+  "EOS_Progressed": 139295,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27922,6 +27928,11 @@
       "Time": "2023-11-11T12:05:19.5718212+00:00",
       "NumProgressed": 139276,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-11T13:08:40.9690342+00:00",
+      "NumProgressed": 139295,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28101,7 +28112,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "chest02",
@@ -28109,7 +28120,7 @@
       "Name": "For the Hoard!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "chest03",
@@ -28133,7 +28144,7 @@
       "Name": "Scrapbooker",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "collection03",
@@ -28165,7 +28176,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "commonres02",
@@ -28197,7 +28208,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4178
+      "UsersEstimate": 4179
     },
     {
       "ID": "craft02",
@@ -28245,7 +28256,7 @@
       "Name": "This Power Level...!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "damage03",
@@ -28309,7 +28320,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4178
+      "UsersEstimate": 4179
     },
     {
       "ID": "expansion02",
@@ -28317,7 +28328,7 @@
       "Name": "Expansion in Session",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "expansion03",
@@ -28389,7 +28400,7 @@
       "Name": "Trash to Treasure",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "gemsspent",
@@ -28405,7 +28416,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "gold02",
@@ -28605,7 +28616,7 @@
       "Name": "Seasoned Journeyman",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "master04",
@@ -28709,7 +28720,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4178
+      "UsersEstimate": 4179
     },
     {
       "ID": "sell02",
@@ -28717,7 +28728,7 @@
       "Name": "Black Friday Special",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "sell03",
@@ -28749,7 +28760,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "twinenchant01",
@@ -28773,7 +28784,7 @@
       "Name": "Special Ingredient",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "uncommonres02",
@@ -28813,7 +28824,7 @@
       "Name": "Complete Monopoly",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "yami_a",
@@ -28828,15 +28839,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139276,
+      "Progressed": 139295,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-11T11:00:44.0316493+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:05:19.5718208+00:00",
+  "LastChanged": "2023-11-11T13:02:54.6430702+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:08:40.9690337+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:59:39.5809739+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:05:19.5720981+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:02:54.6430711+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:08:40.9692099+00:00"
 }

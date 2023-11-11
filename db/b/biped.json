@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6933,
+  "EOS_Progressed": 6935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12544,6 +12544,11 @@
       "Time": "2023-11-11T12:06:45.1362433+00:00",
       "NumProgressed": 6933,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T13:10:41.5942349+00:00",
+      "NumProgressed": 6935,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -12555,7 +12560,7 @@
       "Name": "First Step",
       "Percentage": 34,
       "XP": 45,
-      "UsersEstimate": 2357
+      "UsersEstimate": 2358
     },
     {
       "ID": "10",
@@ -12611,7 +12616,7 @@
       "Name": "Dense Forest",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "3",
@@ -12674,7 +12679,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 6933,
+      "Progressed": 6935,
       "Completed": 0
     }
   ],
@@ -12682,8 +12687,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:06:45.1362426+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:10:41.5942343+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:28.2886211+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:57:38.7537958+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:06:45.136328+00:00"
+  "LastUpdate_Ratings": "2023-11-11T12:59:49.4240017+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:10:41.5942963+00:00"
 }

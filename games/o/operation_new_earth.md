@@ -16,16 +16,16 @@ Rating: 3.28 (Ranked 1,037)
 | Stocking Up | 10.00% | ~180 |
 | On Target | 10.00% | ~180 |
 | Infantry Reporting | 10.00% | ~180 |
-| Fighting for Survival | 9.00% | ~162 |
 | Keeping Busy | 9.00% | ~162 |
-| Exterminator | 8.00% | ~144 |
+| Fighting for Survival | 8.00% | ~144 |
 | Silver Competitor | 8.00% | ~144 |
 | Captain | 8.00% | ~144 |
 | Factory Expansion | 8.00% | ~144 |
-| Know The Enemy | 6.00% | ~108 |
+| Exterminator | 7.00% | ~126 |
 | Silver Achiever | 6.00% | ~108 |
 | Moving On Up | 6.00% | ~108 |
 | Brothers in Arms | 6.00% | ~108 |
+| Know The Enemy | 5.00% | ~90 |
 | Player Betrayer | 5.00% | ~90 |
 | Major | 5.00% | ~90 |
 | Gold Achiever | 4.00% | ~72 |
@@ -36,15 +36,15 @@ Rating: 3.28 (Ranked 1,037)
 | General | 2.00% | ~36 |
 | Seek & Destroy | 2.00% | ~36 |
 | Battle Ready | 2.00% | ~36 |
-| Titan Tanks | 2.00% | ~36 |
 | Advanced Interceptors | 1.00% | ~18 |
+| Titan Tanks | 1.00% | ~18 |
 | Shock Troops | 1.00% | ~18 |
 | Jet Troops | 0.80% | ~14 |
 | Gold Competitor | 0.10% | ~2 |
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,800 (Ranked 223)  
+Progressed: 1,801 (Ranked 223)  
 Completed: 1 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 1 (0.06%) (Ranked 291)
 | 2023-11-08 | 1,789 | 1 |
 | 2023-11-09 | 1,794 | 1 |
 | 2023-11-10 | 1,797 | 1 |
-| 2023-11-11 | 1,800 | 1 |
+| 2023-11-11 | 1,801 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

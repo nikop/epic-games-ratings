@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 52,
   "Ranking_EOS_Completed": 269,
   "Ranking_EOS_NewPlayers": 13,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1059,10 +1059,10 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 290790,
-  "EOS_Completed": 279,
-  "EOS_NewPlayers": 12772,
-  "EOS_NewCompleters": 12,
+  "EOS_Progressed": 290869,
+  "EOS_Completed": 281,
+  "EOS_NewPlayers": 12743,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -11534,6 +11534,11 @@
       "Time": "2023-11-11T12:05:13.9611062+00:00",
       "NumProgressed": 290790,
       "NumCompleted": 279
+    },
+    {
+      "Time": "2023-11-11T13:08:33.0579877+00:00",
+      "NumProgressed": 290869,
+      "NumCompleted": 281
     }
   ],
   "TotalAchievements": 24,
@@ -11545,7 +11550,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "10",
@@ -11553,7 +11558,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11632
+      "UsersEstimate": 11635
     },
     {
       "ID": "11",
@@ -11585,7 +11590,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17447
+      "UsersEstimate": 17452
     },
     {
       "ID": "15",
@@ -11601,7 +11606,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 0.8,
       "XP": 45,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     },
     {
       "ID": "17",
@@ -11633,7 +11638,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "20",
@@ -11641,7 +11646,7 @@
       "Name": "PROTECTED",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8726
     },
     {
       "ID": "21",
@@ -11665,7 +11670,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 5816
+      "UsersEstimate": 5817
     },
     {
       "ID": "24",
@@ -11673,7 +11678,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8726
     },
     {
       "ID": "3",
@@ -11689,7 +11694,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 5816
+      "UsersEstimate": 5817
     },
     {
       "ID": "5",
@@ -11697,7 +11702,7 @@
       "Name": "ROOKIE",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26171
+      "UsersEstimate": 26178
     },
     {
       "ID": "6",
@@ -11705,7 +11710,7 @@
       "Name": "PRO",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8724
+      "UsersEstimate": 8726
     },
     {
       "ID": "7",
@@ -11729,23 +11734,23 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 2326
+      "UsersEstimate": 2327
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 290790,
-      "Completed": 279
+      "Progressed": 290869,
+      "Completed": 281
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2023-11-11T08:59:31.3250913+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:05:13.9611057+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:08:33.0579871+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:29.9120851+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:59:46.5069157+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:05:13.9611849+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:03:05.2221606+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:08:33.0580425+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,571 |
-| Basic in Bulk | 4.00% | ~5,571 |
-| Tinkle of Coins | 4.00% | ~5,571 |
-| Titan's First Steps | 4.00% | ~5,571 |
-| Disintermediation | 3.00% | ~4,178 |
-| It's Free Real Estate | 3.00% | ~4,178 |
-| Capitalism Ho! | 3.00% | ~4,178 |
+| Sponsored by Argon | 4.00% | ~5,572 |
+| Basic in Bulk | 4.00% | ~5,572 |
+| Tinkle of Coins | 4.00% | ~5,572 |
+| Titan's First Steps | 4.00% | ~5,572 |
+| Disintermediation | 3.00% | ~4,179 |
+| It's Free Real Estate | 3.00% | ~4,179 |
+| Capitalism Ho! | 3.00% | ~4,179 |
 | The Daily Grind | 2.00% | ~2,786 |
 | One Easy Payment | 2.00% | ~2,786 |
 | Some Assembly Required | 2.00% | ~2,786 |
@@ -46,15 +46,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,393 |
 | Magical Harmony | 1.00% | ~1,393 |
 | Arcane Industries | 1.00% | ~1,393 |
-| For the Hoard! | 0.90% | ~1,253 |
-| Scrapbooker | 0.90% | ~1,253 |
-| This Power Level...! | 0.90% | ~1,253 |
-| Expansion in Session | 0.90% | ~1,253 |
-| Trash to Treasure | 0.90% | ~1,253 |
-| Seasoned Journeyman | 0.90% | ~1,253 |
-| Black Friday Special | 0.90% | ~1,253 |
-| Special Ingredient | 0.90% | ~1,253 |
-| Complete Monopoly | 0.90% | ~1,253 |
+| For the Hoard! | 0.90% | ~1,254 |
+| Scrapbooker | 0.90% | ~1,254 |
+| This Power Level...! | 0.90% | ~1,254 |
+| Expansion in Session | 0.90% | ~1,254 |
+| Trash to Treasure | 0.90% | ~1,254 |
+| Seasoned Journeyman | 0.90% | ~1,254 |
+| Black Friday Special | 0.90% | ~1,254 |
+| Special Ingredient | 0.90% | ~1,254 |
+| Complete Monopoly | 0.90% | ~1,254 |
 | A Notch Above the Rest | 0.80% | ~1,114 |
 | Above the Norm | 0.80% | ~1,114 |
 | The King's Caprice | 0.80% | ~1,114 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,276 (Ranked 79)  
+Progressed: 139,295 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
-| 2023-11-11 | 139,276 | 181 |
+| 2023-11-11 | 139,295 | 181 |
 ## Awards
 Max (Great for Beginners): 4,825  (Ranked 73)  
-Sum: 27,524 (Ranked 50)  
+Sum: 27,526 (Ranked 50)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -337,7 +337,7 @@ Diff (max vs sum): 23
 | This game has Diverse Characters | 3,936 |
 | This game is Highly Recommended | 3,776 |
 | This game has Easy Combat | 3,722 |
-| This game has Playful Visuals | 3,198 |
+| This game has Playful Visuals | 3,200 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -627,4 +627,4 @@ Diff (max vs sum): 23
 | 2023-11-08 | 3.99 | - | 4,819 | 27,509 |
 | 2023-11-09 | 3.99 | - | 4,822 | 27,516 |
 | 2023-11-10 | 3.99 | - | 4,824 | 27,523 |
-| 2023-11-11 | 3.99 | - | 4,825 | 27,524 |
+| 2023-11-11 | 3.99 | - | 4,825 | 27,526 |

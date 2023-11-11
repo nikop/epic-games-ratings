@@ -16,7 +16,7 @@
 | The Bribe | 27.00% | ~172 |
 | Protector | 27.00% | ~172 |
 | The Ploy | 16.00% | ~102 |
-| Interrogation | 15.00% | ~95 |
+| Interrogation | 16.00% | ~102 |
 | Sabotage | 12.00% | ~76 |
 | Choices Matter | 8.00% | ~51 |
 | The Fool | 6.00% | ~38 |

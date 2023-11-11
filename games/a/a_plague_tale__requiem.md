@@ -5,26 +5,26 @@ Rating: 4.73 (Ranked 174)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,762 |
-| Newcomers | 79.00% | ~10,959 |
-| A Burden of Blood | 74.00% | ~10,265 |
-| Protector's Duty | 70.00% | ~9,710 |
+| Under a New Sun | 92.00% | ~12,763 |
+| Newcomers | 79.00% | ~10,960 |
+| A Burden of Blood | 74.00% | ~10,266 |
+| Protector's Duty | 70.00% | ~9,711 |
 | Alchemist | 69.00% | ~9,572 |
-| In our Wake | 68.00% | ~9,433 |
+| In our Wake | 68.00% | ~9,434 |
 | Leaving all Behind | 65.00% | ~9,017 |
 | Felons | 62.00% | ~8,601 |
-| A Sea of Promises | 61.00% | ~8,462 |
+| A Sea of Promises | 61.00% | ~8,463 |
 | Tales and Revelations | 58.00% | ~8,046 |
-| Bloodline | 53.00% | ~7,352 |
-| The Cradle of Centuries | 49.00% | ~6,797 |
+| Bloodline | 53.00% | ~7,353 |
+| The Cradle of Centuries | 49.00% | ~6,798 |
 | The Life We Deserve | 47.00% | ~6,520 |
 | Night guard | 44.00% | ~6,104 |
 | Nothing Left | 40.00% | ~5,549 |
-| Healing our Wounds | 38.00% | ~5,271 |
-| Dying Sun | 34.00% | ~4,716 |
-| Improved crossbow | 27.00% | ~3,745 |
+| Healing our Wounds | 38.00% | ~5,272 |
+| Dying Sun | 34.00% | ~4,717 |
+| Improved crossbow | 27.00% | ~3,746 |
 | King Hugo | 25.00% | ~3,468 |
-| Mercy | 24.00% | ~3,329 |
+| Mercy | 24.00% | ~3,330 |
 | Perfect shot | 23.00% | ~3,191 |
 | Effective instruments | 22.00% | ~3,052 |
 | Perfect throw | 22.00% | ~3,052 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 174)
 | Old protector | 2.00% | ~277 |
 | Malignant | 1.00% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,872 (Ranked 148)  
+Progressed: 13,873 (Ranked 148)  
 Completed: 54 (0.39%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,7 +245,7 @@ Completed: 54 (0.39%) (Ranked 209)
 | 2023-11-08 | 13,841 | 54 |
 | 2023-11-09 | 13,855 | 54 |
 | 2023-11-10 | 13,866 | 54 |
-| 2023-11-11 | 13,872 | 54 |
+| 2023-11-11 | 13,873 | 54 |
 ## Awards
 Max (Great Boss Battles): 429  (Ranked 220)  
 Sum: 675 (Ranked 299)  

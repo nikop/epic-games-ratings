@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 920,
+  "EOS_Progressed": 921,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -2294,6 +2294,11 @@
       "Time": "2023-11-11T12:08:47.0613925+00:00",
       "NumProgressed": 920,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-11T13:11:26.4310922+00:00",
+      "NumProgressed": 921,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2314,7 +2319,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "BoxingClever",
@@ -2344,9 +2349,9 @@
       "ID": "CongratulationsYouAreAnEngineer",
       "SetID": "3ai6ml8",
       "Name": "Congratulations, you\u0027re an engineer",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 386
+      "UsersEstimate": 378
     },
     {
       "ID": "DarkestBeforeTheDawn",
@@ -2378,15 +2383,15 @@
       "Name": "Everything is Dust",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "LightsOut",
       "SetID": "3ai6ml8",
       "Name": "Lights Out",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 515
+      "UsersEstimate": 507
     },
     {
       "ID": "MiCasaSuCasa",
@@ -2418,7 +2423,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "SkeletonCrew",
@@ -2442,7 +2447,7 @@
       "Name": "The Safety of Disbelief",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "TragedyDocumented",
@@ -2465,14 +2470,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 920,
+      "Progressed": 921,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:08:47.061392+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:11:26.4310916+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:04.924943+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:59:35.9932905+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:08:47.0614205+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:02:48.6494308+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:11:26.4311147+00:00"
 }

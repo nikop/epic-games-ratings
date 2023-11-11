@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1417,9 +1417,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157667,
+  "EOS_Progressed": 157672,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1197,
+  "EOS_NewPlayers": 1185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15212,6 +15212,11 @@
       "Time": "2023-11-11T12:03:24.7960824+00:00",
       "NumProgressed": 157667,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T13:05:57.4395+00:00",
+      "NumProgressed": 157672,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15327,7 +15332,7 @@
       "Name": "Scion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1572
+      "UsersEstimate": 1573
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -15517,9 +15522,9 @@
       "ID": "QUEST_CHILD",
       "SetID": "72k7oh",
       "Name": "Dream",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 786
+      "UsersEstimate": 944
     },
     {
       "ID": "QUEST_CODA",
@@ -15575,7 +15580,7 @@
       "Name": "Enrich",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -15583,28 +15588,28 @@
       "Name": "Intensify",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157250,
+      "Progressed": 157255,
       "Completed": 1197
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157667,
+      "Progressed": 157672,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-10T18:58:07.8833808+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:03:24.7960818+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:05:57.4394995+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.6989293+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:58:21.9745797+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:03:24.796202+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:00:55.7925033+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:05:57.4396029+00:00"
 }

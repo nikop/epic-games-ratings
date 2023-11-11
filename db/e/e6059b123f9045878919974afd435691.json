@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -2588,17 +2588,17 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 668
+      "UsersEstimate": 678
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 486
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2884,9 +2884,9 @@
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 293
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -3123,8 +3123,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:08:45.4747505+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:11:24.188661+00:00",
   "LastUpdate_AppInfo": "2023-11-09T22:57:16.2174381+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:58:41.9378691+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:08:45.4748335+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:01:26.3211036+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:11:24.1887283+00:00"
 }

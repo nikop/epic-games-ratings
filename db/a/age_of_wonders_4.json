@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -441,9 +441,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5346,
+  "EOS_Progressed": 5348,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6931,6 +6931,11 @@
       "Time": "2023-11-11T12:03:20.6666852+00:00",
       "NumProgressed": 5346,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-11T13:05:51.7511665+00:00",
+      "NumProgressed": 5348,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7148,9 +7153,9 @@
       "ID": "33",
       "SetID": "3aa2279",
       "Name": "Seat of Power",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "34",
@@ -7340,9 +7345,9 @@
       "ID": "51",
       "SetID": "7132754",
       "Name": "Freed Lands of Manuhari",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "52",
@@ -7421,13 +7426,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5346,
+      "Progressed": 5348,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5346,
+      "Progressed": 5348,
       "Completed": 7
     }
   ],
@@ -7435,8 +7440,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T10:01:07.8802491+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:03:20.6666848+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:05:51.7511659+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-11T12:00:18.3617805+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:03:20.6667725+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:03:53.4223292+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:05:51.7512825+00:00"
 }

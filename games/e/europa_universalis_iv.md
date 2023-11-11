@@ -82,6 +82,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hessian Mercenaries | 0.10% | ~452 |
 | Holiest Roman Empire | 0.10% | ~452 |
 | Holy Horder | 0.10% | ~452 |
+| Holy Trinity | 0.10% | ~452 |
 | Ideas Guy | 0.10% | ~452 |
 | Imperio español | 0.10% | ~452 |
 | Imposter Syndrome | 0.10% | ~452 |
@@ -145,6 +146,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Spain is the Emperor | 0.10% | ~452 |
 | The Spice Must Flow | 0.10% | ~452 |
 | Subsidize my Love | 0.10% | ~452 |
+| Sun Invasion | 0.10% | ~452 |
 | Sweden is not overpowered! | 0.10% | ~452 |
 | Tear Down This Wall | 0.10% | ~452 |
 | That is mine! | 0.10% | ~452 |
@@ -252,7 +254,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hanukkah Mutapa | 0.00% | ~0 |
 | Hard Bargaining | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
-| Holy Trinity | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
 | An Industrial Evolution | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
@@ -320,7 +321,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Stiff Upper Lippe | 0.00% | ~0 |
 | Strait Talk | 0.00% | ~0 |
 | The Sudanese Expedition | 0.00% | ~0 |
-| Sun Invasion | 0.00% | ~0 |
 | The Sun Never Sets on the Indian Empire | 0.00% | ~0 |
 | Sunset Invasion | 0.00% | ~0 |
 | Super Trooper | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,274 (Ranked 41)  
+Progressed: 452,354 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,10 +575,10 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
-| 2023-11-11 | 452,274 | 1 |
+| 2023-11-11 | 452,354 | 1 |
 ## Awards
 Max (Educational): 6,946  (Ranked 54)  
-Sum: 57,081 (Ranked 24)  
+Sum: 57,092 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -588,7 +588,7 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 6,557 |
 | This game is Extremely Fun | 6,528 |
 | This game is Relaxing | 6,378 |
-| This game has Competitive Players | 6,226 |
+| This game has Competitive Players | 6,237 |
 | This game has Amazing Storytelling | 5,772 |
 | This game has Amazing Characters | 5,342 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -893,4 +893,4 @@ Diff (max vs sum): 30
 | 2023-11-08 | 4.69 | - | 6,903 | 56,787 |
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
-| 2023-11-11 | 4.69 | - | 6,946 | 57,081 |
+| 2023-11-11 | 4.69 | - | 6,946 | 57,092 |

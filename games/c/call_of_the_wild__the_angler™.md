@@ -13,12 +13,12 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 1.00% | ~65 |
 | Scaling up | 1.00% | ~65 |
 | Ready to Rod and Roll | 0.80% | ~52 |
+| Fish Out of Water | 0.70% | ~45 |
 | Things that go Splash in the Night | 0.70% | ~45 |
-| Fish Out of Water | 0.60% | ~39 |
 | Goldfish? | 0.40% | ~26 |
+| Going for Gold | 0.40% | ~26 |
 | School's Out for Summer | 0.40% | ~26 |
 | License to Gill | 0.30% | ~19 |
-| Going for Gold | 0.30% | ~19 |
 | I'm Hooked! | 0.20% | ~13 |
 | More than a Tourist | 0.10% | ~6 |
 | I'm the Captain Now | 0.10% | ~6 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,484 (Ranked 177)  
+Progressed: 6,485 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 6,452 | 0 |
 | 2023-11-09 | 6,467 | 0 |
 | 2023-11-10 | 6,476 | 0 |
-| 2023-11-11 | 6,484 | 0 |
+| 2023-11-11 | 6,485 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 191 (Ranked 403)  

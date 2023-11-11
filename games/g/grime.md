@@ -13,7 +13,7 @@ Number of Ratings: 46  (23.09.2022)
 | Ravenous | 3.00% | ~4,730 |
 | Silenced Whispers | 2.00% | ~3,153 |
 | Devourer | 2.00% | ~3,153 |
-| Scion | 1.00% | ~1,572 |
+| Scion | 1.00% | ~1,573 |
 | Harmless | 1.00% | ~1,577 |
 | Jawcrab | 1.00% | ~1,577 |
 | Jawstag | 1.00% | ~1,577 |
@@ -30,11 +30,11 @@ Number of Ratings: 46  (23.09.2022)
 | Hunt Down | 0.60% | ~946 |
 | Inevitable | 0.60% | ~946 |
 | All-Seeing | 0.60% | ~946 |
+| Dream | 0.60% | ~944 |
 | Breath | 0.50% | ~788 |
 | Artisan | 0.50% | ~788 |
 | Hush | 0.50% | ~788 |
 | Breathsmith | 0.50% | ~788 |
-| Dream | 0.50% | ~786 |
 | Unwrap the Gift | 0.40% | ~631 |
 | Passage | 0.40% | ~631 |
 | Bloodhunter | 0.30% | ~473 |
@@ -45,15 +45,15 @@ Number of Ratings: 46  (23.09.2022)
 | Proportions | 0.30% | ~473 |
 | Weakness | 0.20% | ~315 |
 | Generous | 0.20% | ~315 |
-| Enrich | 0.20% | ~314 |
-| Intensify | 0.20% | ~314 |
+| Enrich | 0.20% | ~315 |
+| Intensify | 0.20% | ~315 |
 | Spiral Heart | 0.10% | ~158 |
 | Skinmaker | 0.10% | ~158 |
 | Instruments | 0.10% | ~158 |
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,667 (Ranked 76)  
+Progressed: 157,672 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,7 +235,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 157,236 | 1 |
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
-| 2023-11-11 | 157,667 | 1 |
+| 2023-11-11 | 157,672 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 427)  
 Sum: 355 (Ranked 349)  

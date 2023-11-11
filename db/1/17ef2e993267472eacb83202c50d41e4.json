@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7853,
+  "EOS_Progressed": 7854,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6205,6 +6205,11 @@
       "Time": "2023-11-11T12:09:17.4468388+00:00",
       "NumProgressed": 7853,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T13:12:09.0490613+00:00",
+      "NumProgressed": 7854,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6337,7 +6342,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "GamesPlayed10",
@@ -6431,9 +6436,9 @@
       "ID": "HSPurchased1",
       "SetID": "12d07c7",
       "Name": "Purchased Healing Sphere",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 707
+      "UsersEstimate": 785
     },
     {
       "ID": "HSUPurchased1",
@@ -6713,7 +6718,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "SEUpgraded1",
@@ -6808,7 +6813,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7853,
+      "Progressed": 7854,
       "Completed": 1
     }
   ],
@@ -6816,8 +6821,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-07T13:03:10.353816+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:09:17.4468385+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:12:09.0490607+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:59:57.1524564+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:09:17.4469555+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:03:21.383442+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:12:09.0491761+00:00"
 }

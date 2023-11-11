@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 134,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 132,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -65,7 +65,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1800,
+  "EOS_Progressed": 1801,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -6745,6 +6745,11 @@
       "Time": "2023-11-11T11:06:30.9668359+00:00",
       "NumProgressed": 1800,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T13:08:38.1576251+00:00",
+      "NumProgressed": 1801,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6754,25 +6759,25 @@
       "ID": "ach_defeat_aliens_250",
       "SetID": "bm61c2p",
       "Name": "Know The Enemy",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 108
+      "UsersEstimate": 90
     },
     {
       "ID": "ach_defeat_aliens_50",
       "SetID": "bm61c2p",
       "Name": "Exterminator",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 126
     },
     {
       "ID": "ach_defeat_players_10",
       "SetID": "bm61c2p",
       "Name": "Fighting for Survival",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 144
     },
     {
       "ID": "ach_defeat_players_100",
@@ -7026,9 +7031,9 @@
       "ID": "objective_research_unlock_ground_vehicle_tier_4",
       "SetID": "bm61c2p",
       "Name": "Titan Tanks",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 18
     },
     {
       "ID": "objective_research_unlock_heavy_infantry_tier_4",
@@ -7059,7 +7064,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1800,
+      "Progressed": 1801,
       "Completed": 1
     }
   ],
@@ -7067,8 +7072,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-11T12:05:17.6480051+00:00",
+  "LastChanged_Achievements": "2023-11-11T13:08:38.1576245+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:09.2080195+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:57:57.6881413+00:00",
-  "LastUpdate_Achievements": "2023-11-11T12:05:17.648074+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:00:18.5546831+00:00",
+  "LastUpdate_Achievements": "2023-11-11T13:08:38.1576707+00:00"
 }
