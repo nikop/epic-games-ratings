@@ -5,16 +5,16 @@
 | 3 | [Genshin Impact](games/g/genshin_impact.md) | 314,314 | 4.68 | 254 |
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 257,174 | 4.68 | 254 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 210,958 | 4.18 | 926 |
-| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 196,085 | 4.88 | 17 |
+| 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 196,452 | 4.88 | 17 |
 | 7 | [Fall Guys](games/f/fall_guys.md) | 151,474 | 4.51 | 566 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 120,314 | 4.69 | 230 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 104,816 | 4.64 | 332 |
 | 10 | [VALORANT](games/v/valorant.md) | 80,990 | 4.52 | 554 |
 | 11 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 63,330 | 4.58 | 446 |
 | 12 | [Dying Light Enhanced Edition](games/d/dying_light_enhanced_edition.md) | 48,689 | 4.61 | 384 |
-| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 41,404 | 4.74 | 156 |
+| 13 | [Sid Meier’s Civilization® VI](games/s/sid_meier’s_civilization®_vi.md) | 41,482 | 4.74 | 156 |
 | 14 | [Destiny 2](games/d/destiny_2.md) | 39,059 | 4.49 | 605 |
-| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 35,756 | 4.51 | 566 |
+| 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 35,816 | 4.51 | 566 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,155 | 4.64 | 332 |
 | 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,188 | 4.76 | 125 |
 | 18 | [Dauntless](games/d/dauntless.md) | 23,654 | 4.53 | 538 |
@@ -47,7 +47,7 @@
 | 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,037 | 4.85 | 44 |
 | 46 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,890 | 4.70 | 214 |
 | 47 | [DEATH STRANDING](games/d/death_stranding.md) | 7,870 | 4.77 | 116 |
-| 48 | [Supraland](games/s/supraland.md) | 7,720 | 4.61 | 384 |
+| 48 | [Supraland](games/s/supraland.md) | 7,721 | 4.61 | 384 |
 | 49 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,591 | 4.71 | 198 |
 | 50 | [Darkest Dungeon II](games/d/darkest_dungeon_ii.md) | 7,502 | 4.68 | 254 |
 | 51 | [Mount & Blade II: Bannerlord](games/m/mount_&_blade_ii__bannerlord.md) | 7,364 | 4.74 | 156 |
@@ -76,7 +76,7 @@
 | 74 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 4,807 | 4.56 | 486 |
 | 75 | [MultiVersus](games/m/multiversus.md) | 4,750 | 4.56 | 486 |
 | 76 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,671 | 4.70 | 214 |
-| 77 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,611 | 3.97 | 1,002 |
+| 77 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 4,611 | 3.97 | 1,001 |
 | 78 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,599 | 4.70 | 214 |
 | 79 | [SMITE](games/s/smite.md) | 4,568 | 4.43 | 690 |
 | 80 | [League of Legends](games/l/league_of_legends.md) | 4,328 | 4.21 | 900 |
@@ -91,7 +91,7 @@
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,696 | 4.46 | 647 |
 | 90 | [Gloomhaven](games/g/gloomhaven.md) | 3,571 | 4.47 | 636 |
 | 91 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,381 | 4.76 | 125 |
-| 92 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,378 | 4.68 | 254 |
+| 92 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,379 | 4.68 | 254 |
 | 93 | [Hades](games/h/hades.md) | 3,360 | 4.92 | 4 |
 | 94 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,346 | 4.57 | 470 |
 | 95 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 3,171 | 4.49 | 605 |
@@ -416,8 +416,8 @@
 | 414 | [Ranch Simulator](games/r/ranch_simulator.md) | 57 | 4.43 | 690 |
 | 415 | [RollerCoaster Tycoon 3 Complete Edition](games/r/rollercoaster_tycoon_3_complete_edition.md) | 56 | 4.65 | 312 |
 | 415 | [Session: Skate Sim](games/s/session__skate_sim.md) | 56 | 4.69 | 230 |
-| 417 | [Obduction](games/o/obduction.md) | 55 | 4.09 | 963 |
-| 417 | [The Escapists 2](games/t/the_escapists_2.md) | 55 | 4.58 | 446 |
+| 415 | [The Escapists 2](games/t/the_escapists_2.md) | 56 | 4.58 | 446 |
+| 418 | [Obduction](games/o/obduction.md) | 55 | 4.09 | 963 |
 | 419 | [Medieval Dynasty](games/m/medieval_dynasty.md) | 54 | 4.66 | 294 |
 | 419 | [Soulstice](games/c/cb8afc06acb14f6a8cf3ab01f4b361ce.md) | 54 | 4.21 | 900 |
 | 421 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 53 | 4.78 | 106 |
