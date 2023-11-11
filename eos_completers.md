@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 44.94% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.30% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.28% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.41% |
@@ -78,9 +78,9 @@
 | 76 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.46% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.46% |
 | 78 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.21% |
-| 80 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
-| 80 | [The Bunker](games/t/the_bunker.md) | 4.17% |
+| 79 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
+| 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.17% |
+| 79 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 82 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.92% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
 | 83 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.83% |
@@ -117,7 +117,7 @@
 | 115 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 117 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.33% |
-| 118 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.29% |
+| 118 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.28% |
 | 119 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.25% |
 | 120 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.90% |
@@ -203,20 +203,20 @@
 | 200 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.45% |
 | 200 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
 | 203 | [Tchia](games/t/tchia.md) | 0.44% |
-| 204 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
 | 204 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.43% |
-| 206 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.42% |
+| 205 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
+| 205 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.42% |
 | 207 | [Wildermyth](games/w/wildermyth.md) | 0.41% |
 | 208 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.40% |
 | 209 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.39% |
 | 209 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
 | 209 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
+| 212 | [Ghostrunner](games/g/ghostrunner.md) | 0.38% |
 | 212 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.38% |
 | 212 | [Train Valley](games/t/train_valley.md) | 0.38% |
-| 214 | [Ghostrunner](games/g/ghostrunner.md) | 0.37% |
-| 214 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.37% |
-| 214 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.37% |
-| 214 | [The Surge](games/t/the_surge.md) | 0.37% |
+| 215 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 0.37% |
+| 215 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.37% |
+| 215 | [The Surge](games/t/the_surge.md) | 0.37% |
 | 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.35% |
 | 218 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.35% |
 | 220 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
@@ -227,10 +227,10 @@
 | 224 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
 | 226 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 226 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
-| 226 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.30% |
 | 226 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.30% |
-| 230 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
-| 230 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
+| 229 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.29% |
+| 229 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
+| 229 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
 | 232 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 232 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.27% |
 | 234 | [Filament](games/f/filament.md) | 0.26% |
@@ -249,12 +249,12 @@
 | 246 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 248 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
 | 248 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.19% |
-| 250 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.18% |
 | 250 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 250 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.18% |
-| 253 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
-| 253 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
-| 253 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
+| 252 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
+| 252 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.17% |
+| 252 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
+| 252 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
 | 256 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 256 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 258 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
