@@ -10,6 +10,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Not Touching You | 0.40% | ~4 |
 | First Steps | 0.30% | ~719 |
 | Expensive Look | 0.30% | ~3 |
+| What Doesn't Kill You | 0.30% | ~3 |
 | Ambitious Intent | 0.20% | ~479 |
 | Nothing To Lose | 0.20% | ~479 |
 | Heavy Hitter | 0.20% | ~479 |
@@ -29,13 +30,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 0.20% | ~479 |
 | Deflection | 0.20% | ~479 |
 | A Quick Escape | 0.20% | ~479 |
+| Stone Touch | 0.20% | ~479 |
 | Toxic | 0.20% | ~479 |
 | Uncharted Territory | 0.20% | ~479 |
 | Explorer | 0.20% | ~479 |
 | Sneaky | 0.20% | ~479 |
 | An Offering | 0.20% | ~479 |
 | Who Needs Luck? | 0.20% | ~2 |
-| What Doesn't Kill You | 0.20% | ~2 |
 | Thank You, Friend | 0.10% | ~240 |
 | Achievement Hunter | 0.10% | ~240 |
 | Quick Descent | 0.10% | ~240 |
@@ -98,7 +99,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | No Mercy | 0.10% | ~240 |
 | Good Boys | 0.10% | ~240 |
 | Just Looking Around | 0.10% | ~240 |
-| Stone Touch | 0.10% | ~240 |
 | Doing Time | 0.10% | ~240 |
 | Spreading Plague | 0.10% | ~240 |
 | Acid Bath | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,509 (Ranked 60)  
+Progressed: 239,515 (Ranked 60)  
 Completed: 287 (0.12%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 287 (0.12%) (Ranked 265)
 | 2023-11-08 | 239,386 | 287 |
 | 2023-11-09 | 239,427 | 287 |
 | 2023-11-10 | 239,475 | 287 |
-| 2023-11-11 | 239,509 | 287 |
+| 2023-11-11 | 239,515 | 287 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 130)  
 Sum: 11,667 (Ranked 83)  

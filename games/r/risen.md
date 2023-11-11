@@ -16,7 +16,7 @@ Rating: 4.59 (Ranked 432)
 | Well-to-do | 55.00% | ~18 |
 | The merciful one | 52.00% | ~17 |
 | Ladies' man | 52.00% | ~17 |
-| Ferocious wild boars | 36.00% | ~12 |
+| Ferocious wild boars | 39.00% | ~13 |
 | Idiot | 36.00% | ~12 |
 | Family man | 33.00% | ~11 |
 | Ogre friend | 30.00% | ~10 |
@@ -26,12 +26,12 @@ Rating: 4.59 (Ranked 432)
 | Beast slayer | 27.00% | ~9 |
 | Peacekeeper | 27.00% | ~9 |
 | Archaeologist | 24.00% | ~8 |
+| Ghost hunter | 24.00% | ~8 |
 | Hard worker | 24.00% | ~8 |
 | Workaholic | 24.00% | ~8 |
 | Sidelined | 24.00% | ~8 |
 | Master detective | 24.00% | ~8 |
 | Little hero | 21.00% | ~7 |
-| Ghost hunter | 21.00% | ~7 |
 | Fence | 21.00% | ~7 |
 | Defender | 18.00% | ~6 |
 | Pandora's box | 18.00% | ~6 |

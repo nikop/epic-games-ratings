@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~841 |
-| Pork Chopped | 2.00% | ~841 |
+| Whatever It Takes | 2.00% | ~842 |
+| Pork Chopped | 2.00% | ~842 |
 | One of Us | 1.00% | ~421 |
 | Hotel California | 0.70% | ~5,016 |
 | Welcome To Hell-A | 0.70% | ~5,016 |
@@ -31,13 +31,13 @@ Rating: 4.54 (Ranked 524)
 | Zombologist | 0.40% | ~2,866 |
 | Ooh, Shiny! | 0.40% | ~2,866 |
 | A Patton Emerges | 0.40% | ~2,866 |
+| I Am the Resurrection | 0.40% | ~2,866 |
 | Max Headroom | 0.40% | ~2,866 |
 | Our True Nature | 0.40% | ~2,866 |
 | Making Your Mark | 0.30% | ~2,150 |
 | Not Even My Final Form | 0.30% | ~2,150 |
 | Jumbo Keyring | 0.30% | ~2,150 |
 | Humanity Distilled | 0.30% | ~2,150 |
-| I Am the Resurrection | 0.30% | ~2,150 |
 | Down with the Sickness | 0.30% | ~2,150 |
 | Make it So | 0.20% | ~1,433 |
 | On Safari | 0.20% | ~1,433 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,530 (Ranked 21)  
+Progressed: 716,572 (Ranked 21)  
 Completed: 2,378 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,10 +262,10 @@ Completed: 2,378 (0.33%) (Ranked 220)
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
-| 2023-11-11 | 716,530 | 2,378 |
+| 2023-11-11 | 716,572 | 2,378 |
 ## Awards
 Max (Great Boss Battles): 7,279  (Ranked 53)  
-Sum: 11,054 (Ranked 86)  
+Sum: 11,062 (Ranked 86)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
@@ -274,10 +274,10 @@ Diff (max vs sum): -33
 | This game has Diverse Characters | 526 |
 | This game has Quickly Understood Controls | 503 |
 | This game is Relaxing | 475 |
-| This game has Amazing Storytelling | 453 |
+| This game has Amazing Storytelling | 458 |
 | This game is Highly Recommended | 441 |
 | This game is Extremely Fun | 435 |
-| This game has Amazing Characters | 403 |
+| This game has Amazing Characters | 406 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -485,4 +485,4 @@ Diff (max vs sum): -33
 | 2023-11-08 | 4.54 | 7,208 | 10,930 |
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
 | 2023-11-10 | 4.54 | 7,279 | 11,038 |
-| 2023-11-11 | 4.54 | 7,279 | 11,054 |
+| 2023-11-11 | 4.54 | 7,279 | 11,062 |

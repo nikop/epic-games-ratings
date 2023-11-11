@@ -3,9 +3,9 @@
   "Name": "Fire: Ungh\u2019s Quest",
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 346,
-  "Ranking_EOS_Completed": 67,
+  "Ranking_EOS_Completed": 64,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 275,
-  "EOS_Completed": 15,
+  "EOS_Completed": 16,
   "EOS_NewPlayers": 9,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 5.45,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.82,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:26.5588507+00:00",
@@ -681,6 +681,11 @@
       "Time": "2023-11-11T04:08:54.4146239+00:00",
       "NumProgressed": 275,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2023-11-11T15:08:44.0095565+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 16
     }
   ],
   "TotalAchievements": 27,
@@ -762,9 +767,9 @@
       "ID": "Butterfly_eats_Caterpillar_in_007",
       "SetID": "6od1ndi",
       "Name": "ParaPara!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "Eliminated_3_Mask_Men_in_009",
@@ -908,15 +913,15 @@
       "ID": "6od1ndi",
       "IsBase": true,
       "Progressed": 275,
-      "Completed": 15
+      "Completed": 16
     }
   ],
   "FirstSeen": "2022-12-16T21:58:34.8167877+00:00",
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:08:57.409407+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:08:44.0095561+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:45.8899995+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:59:46.9081456+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:08:57.409434+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:59:52.3707611+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:08:44.0095747+00:00"
 }

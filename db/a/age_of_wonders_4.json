@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -6958,9 +6958,9 @@
       "ID": "10",
       "SetID": "3aa2279",
       "Name": "Snap Out of It!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "11",
@@ -7078,9 +7078,9 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "25",
@@ -7445,8 +7445,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T10:01:07.8802491+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:03:56.1072879+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:03:56.057688+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-11T14:01:30.709326+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:03:56.1074276+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:02:42.189526+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:03:56.0577805+00:00"
 }

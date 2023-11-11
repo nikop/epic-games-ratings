@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I like parks | 10.00% | ~38 |
-| Small town | 10.00% | ~38 |
+| I like parks | 10.00% | ~39 |
+| Small town | 10.00% | ~39 |
 | The spiritual world... | 6.00% | ~23 |
 | It is nice to share with friends in the city | 6.00% | ~23 |
 | The woodcutter | 5.00% | ~19 |
@@ -15,16 +15,16 @@
 | Clean energy | 4.00% | ~15 |
 | Bucolic city | 4.00% | ~15 |
 | Soviet town | 4.00% | ~15 |
+| I love books! | 2.00% | ~8 |
 | I love parks | 2.00% | ~8 |
 | Food producer | 1.00% | ~4 |
-| I love books! | 1.00% | ~4 |
 | King of fish | 1.00% | ~4 |
+| Metropolurbek | 0.80% | ~3 |
 | Rebel city | 0.80% | ~3 |
+| Banking city | 0.50% | ~2 |
 | City crisis | 0.50% | ~2 |
 | I am very happy! | 0.50% | ~2 |
 | What would we do if we can't go out with friends? | 0.50% | ~2 |
-| Metropolurbek | 0.50% | ~2 |
-| Banking city | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |
 | Oh, I am sad | 0.30% | ~1 |
 | Oh, life is too awesome! Thank you! | 0.30% | ~1 |
@@ -84,7 +84,7 @@
 | Rainforest master | 0.00% | ~0 |
 | Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385 (Ranked 320)  
+Progressed: 386 (Ranked 320)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -215,6 +215,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-06 | 383 | 0 |
 | 2023-11-08 | 384 | 0 |
 | 2023-11-09 | 385 | 0 |
+| 2023-11-11 | 386 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

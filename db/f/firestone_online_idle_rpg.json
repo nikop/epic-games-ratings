@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -457,9 +457,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2211,
+  "EOS_Progressed": 2213,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6767,6 +6767,11 @@
       "Time": "2023-11-11T14:08:58.8714406+00:00",
       "NumProgressed": 2211,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-11T15:08:45.5700501+00:00",
+      "NumProgressed": 2213,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6994,7 +6999,7 @@
       "Name": "Gear Enchanting",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "guardianmaster",
@@ -7106,7 +7111,7 @@
       "Name": "Milestone collector",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "minerclicker",
@@ -7146,7 +7151,7 @@
       "Name": "Mythic Power",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "naturaltalent",
@@ -7170,7 +7175,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "prestigiousx10",
@@ -7202,7 +7207,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "scrollmaster",
@@ -7226,7 +7231,7 @@
       "Name": "Superior",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "templeofeternals",
@@ -7234,7 +7239,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "thealchemist",
@@ -7266,7 +7271,7 @@
       "Name": "The game is on",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "thepowerofawakening",
@@ -7274,7 +7279,7 @@
       "Name": "The power of Awakening",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "theunstoppable",
@@ -7338,7 +7343,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2056
+      "UsersEstimate": 2058
     },
     {
       "ID": "warmachinesarmy",
@@ -7362,7 +7367,7 @@
       "Name": "What lies behind the bush",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "worldmap",
@@ -7370,14 +7375,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2211,
+      "Progressed": 2213,
       "Completed": 2
     }
   ],
@@ -7385,8 +7390,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-11T09:58:14.8761185+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:08:58.8714398+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:08:45.57005+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:58:34.8275216+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:08:58.8715846+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:58:29.5177322+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:08:45.5701224+00:00"
 }

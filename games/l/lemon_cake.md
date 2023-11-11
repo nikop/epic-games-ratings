@@ -15,10 +15,10 @@
 | Bustling Store | 11.00% | ~18 |
 | Expert Baker | 10.00% | ~16 |
 | Gotta Go Fast | 9.00% | ~14 |
+| Swing The Broom | 8.00% | ~13 |
 | Bakery Business | 7.00% | ~11 |
 | Master Baker | 7.00% | ~11 |
 | The Famous Lemon Cake | 7.00% | ~11 |
-| Swing The Broom | 7.00% | ~11 |
 | Bakery Empire | 6.00% | ~10 |
 | A Loving Home | 6.00% | ~10 |
 ## Popularity (Based on EOS Achievements)

@@ -2,10 +2,10 @@
   "ID": "0ee52c80fe5e48a48f5c0d80fa9436cc",
   "Name": "DESERTED",
   "ProductSlug": "deserted-3b61b7",
-  "Ranking_EOS_Progress": 637,
+  "Ranking_EOS_Progress": 638,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -242,8 +242,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-06T15:03:12.0917617+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:08:54.3875579+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:08:40.5399814+00:00",
   "LastUpdate_AppInfo": "2023-11-10T18:57:05.8408182+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:58:56.5233124+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:08:54.387576+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:58:53.7352619+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:08:40.5399941+00:00"
 }

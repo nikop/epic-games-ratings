@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 86,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6313,10 +6313,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11054,
       "NumberOfAwardsMax": 7279
+    },
+    {
+      "Time": "2023-11-11T15:00:42.6518876+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11062,
+      "NumberOfAwardsMax": 7279
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11054,
+  "NumberOfAwards": 11062,
   "NumberOfAwardsMax": 7279,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6354,7 +6360,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 403
+      "Count": 406
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6372,10 +6378,10 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 453
+      "Count": 458
     }
   ],
-  "EOS_Progressed": 716530,
+  "EOS_Progressed": 716572,
   "EOS_Completed": 2378,
   "EOS_NewPlayers": 4351,
   "EOS_NewCompleters": 57,
@@ -29780,6 +29786,11 @@
       "Time": "2023-11-11T14:03:52.9977466+00:00",
       "NumProgressed": 716530,
       "NumCompleted": 2378
+    },
+    {
+      "Time": "2023-11-11T15:03:52.4660499+00:00",
+      "NumProgressed": 716572,
+      "NumCompleted": 2378
     }
   ],
   "TotalAchievements": 51,
@@ -30037,9 +30048,9 @@
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_salvation",
@@ -30159,7 +30170,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ach_gardening_tools",
@@ -30175,7 +30186,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30198,22 +30209,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 716530,
+      "Progressed": 716572,
       "Completed": 2378
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 42072,
+      "Progressed": 42114,
       "Completed": 36521
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-11T10:00:08.1258934+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:03:52.9977457+00:00",
+  "LastChanged": "2023-11-11T15:00:42.6518875+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:03:52.4660497+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-11T14:00:30.3258914+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:03:52.9980313+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:00:42.6518879+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:03:52.4662037+00:00"
 }

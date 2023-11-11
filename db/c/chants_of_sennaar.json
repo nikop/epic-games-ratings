@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 297,
+  "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 38,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 522,
+  "EOS_Progressed": 524,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 5.36,
+  "EOS_Completed_Percentage": 5.34,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2230,6 +2230,11 @@
       "Time": "2023-11-11T14:06:12.9423984+00:00",
       "NumProgressed": 522,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-11T15:06:26.1225387+00:00",
+      "NumProgressed": 524,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2273,7 +2278,7 @@
       "Name": "A good beginning",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "META_HALF_LINK",
@@ -2289,7 +2294,7 @@
       "Name": "Open door",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2305,7 +2310,7 @@
       "Name": "Feels like springtime",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2329,7 +2334,7 @@
       "Name": "A Link to the Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2337,7 +2342,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2345,7 +2350,7 @@
       "Name": "Rascal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2353,7 +2358,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2385,7 +2390,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2401,15 +2406,15 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 141
     },
     {
       "ID": "PROGRESS_N3",
@@ -2417,7 +2422,7 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "PROGRESS_N4",
@@ -2425,7 +2430,7 @@
       "Name": "The darkness",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "PROGRESS_N5",
@@ -2440,14 +2445,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 522,
+      "Progressed": 524,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:06:12.9423979+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:06:26.1225384+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-11T14:00:18.7819521+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:06:12.9424409+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:00:29.5014331+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:06:26.1225623+00:00"
 }

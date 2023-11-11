@@ -31,6 +31,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 3.00% | ~458 |
 | Pyramids | 3.00% | ~458 |
 | Judaism | 3.00% | ~458 |
+| Babylonian Paganism | 3.00% | ~458 |
 | Greek Paganism | 3.00% | ~458 |
 | Naming Landmarks | 3.00% | ~458 |
 | Trade Caravan | 3.00% | ~458 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 2.00% | ~305 |
 | Christianity | 2.00% | ~305 |
 | Manichaeism | 2.00% | ~305 |
-| Babylonian Paganism | 2.00% | ~305 |
 | Carthaginian Paganism | 2.00% | ~305 |
 | Egyptian Paganism | 2.00% | ~305 |
 | Roman Paganism | 2.00% | ~305 |
@@ -100,11 +100,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 1.00% | ~153 |
 | Military Prestige | 1.00% | ~153 |
 | Dualism | 1.00% | ~153 |
+| Gnosticism | 1.00% | ~153 |
 | Legalism | 1.00% | ~153 |
 | Redemption | 1.00% | ~153 |
 | Cimmerian Archer | 1.00% | ~153 |
 | Legionary | 1.00% | ~153 |
 | Phalangite | 1.00% | ~153 |
+| Ambition Victory | 1.00% | ~153 |
 | Double Victory | 1.00% | ~153 |
 | Points Victory | 1.00% | ~153 |
 | The Clergy | 1.00% | ~153 |
@@ -116,17 +118,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.90% | ~137 |
 | Carthage | 0.90% | ~137 |
 | One True Faith | 0.90% | ~137 |
-| Gnosticism | 0.90% | ~137 |
+| Industrial Progress | 0.90% | ~137 |
 | Revelation | 0.90% | ~137 |
 | Veneration | 0.90% | ~137 |
 | Mounted Lancer | 0.90% | ~137 |
-| Ambition Victory | 0.90% | ~137 |
 | Devout | 0.80% | ~122 |
 | Ready | 0.80% | ~122 |
 | Clerics | 0.80% | ~122 |
 | Egypt | 0.80% | ~122 |
 | Assyrian Paganism | 0.80% | ~122 |
-| Industrial Progress | 0.80% | ~122 |
 | Enlightenment | 0.80% | ~122 |
 | Poetic Leader | 0.80% | ~122 |
 | Bad Heir Day | 0.70% | ~107 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.50% | ~76 |
 | Ten Crowns | 0.50% | ~76 |
 | No Undo | 0.50% | ~76 |
+| Ancient | 0.40% | ~61 |
 | Glorious Difficulty | 0.40% | ~61 |
 | Hatti | 0.40% | ~61 |
 | Persia | 0.40% | ~61 |
@@ -164,13 +165,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 1) | 0.30% | ~46 |
 | Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
-| Ancient | 0.30% | ~46 |
 | Magnificent Difficulty | 0.30% | ~46 |
 | The Eternal Treaty | 0.30% | ~46 |
 | Five Routs | 0.30% | ~46 |
 | Run, Pheidippides, Run! | 0.30% | ~46 |
 | Nenikekamen | 0.30% | ~46 |
 | Assyria | 0.30% | ~46 |
+| Apadana in Parsa | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
 | Necropolis in Waset | 0.30% | ~46 |
 | Prosperous Kmt | 0.30% | ~46 |
@@ -190,7 +191,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 1 - Able | 0.20% | ~31 |
 | Macedonian Wars | 0.20% | ~31 |
 | Medo-Babylonian Conquest | 0.20% | ~31 |
-| Apadana in Parsa | 0.20% | ~31 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~31 |
 | Pantheon in Roma | 0.20% | ~31 |
 | Randomized Leaders | 0.20% | ~31 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,259 (Ranked 145)  
+Progressed: 15,261 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 309)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -554,7 +554,7 @@ Completed: 5 (0.03%) (Ranked 309)
 | 2023-11-08 | 15,218 | 5 |
 | 2023-11-09 | 15,231 | 5 |
 | 2023-11-10 | 15,253 | 5 |
-| 2023-11-11 | 15,259 | 5 |
+| 2023-11-11 | 15,261 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 273)  
 Sum: 1,872 (Ranked 214)  

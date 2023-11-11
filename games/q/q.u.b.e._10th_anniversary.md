@@ -5,33 +5,33 @@ Rating: 4.42 (Ranked 714)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 13.00% | ~2,365 |
-| Sector 2 | 12.00% | ~2,183 |
-| Crush That Cube! | 10.00% | ~1,820 |
-| Sector 3 | 10.00% | ~1,820 |
-| Crush That Ball! | 8.00% | ~1,456 |
-| Sector 4 | 8.00% | ~1,456 |
-| Sector 5 | 5.00% | ~910 |
-| Feeling the Blues | 4.00% | ~728 |
-| Sector 6 | 4.00% | ~728 |
-| Squished | 3.00% | ~546 |
-| Finale | 3.00% | ~546 |
-| Sector 7 | 3.00% | ~546 |
-| Did That Work? -- No! | 3.00% | ~546 |
+| Sector 1 | 13.00% | ~2,369 |
+| Sector 2 | 12.00% | ~2,187 |
+| Crush That Cube! | 10.00% | ~1,822 |
+| Sector 3 | 10.00% | ~1,822 |
+| Crush That Ball! | 8.00% | ~1,458 |
+| Sector 4 | 8.00% | ~1,458 |
+| Sector 5 | 5.00% | ~911 |
+| Feeling the Blues | 4.00% | ~729 |
+| Sector 6 | 4.00% | ~729 |
+| Squished | 3.00% | ~547 |
+| Finale | 3.00% | ~547 |
+| Sector 7 | 3.00% | ~547 |
+| Did That Work? -- No! | 3.00% | ~547 |
 | Master Room | 2.00% | ~364 |
 | The Puzzle Master | 1.00% | ~182 |
 | Bronze Trophy | 0.90% | ~164 |
+| Completed It. | 0.90% | ~164 |
 | The Collector | 0.80% | ~146 |
+| Gold Trophy | 0.80% | ~146 |
 | Hopefully that's all of them! | 0.80% | ~146 |
 | Phew! | 0.80% | ~146 |
 | Silver Trophy | 0.80% | ~146 |
-| Completed It. | 0.80% | ~146 |
-| Master Of The Collectables | 0.70% | ~127 |
-| Gold Trophy | 0.70% | ~127 |
-| Maxed Out | 0.70% | ~127 |
+| Master Of The Collectables | 0.70% | ~128 |
+| Maxed Out | 0.70% | ~128 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,195 (Ranked 139)  
-Completed: 40 (0.22%) (Ranked 238)  
+Progressed: 18,225 (Ranked 139)  
+Completed: 41 (0.22%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -58,7 +58,7 @@ Completed: 40 (0.22%) (Ranked 238)
 | 2023-11-08 | 17,246 | 34 |
 | 2023-11-09 | 17,550 | 38 |
 | 2023-11-10 | 17,953 | 39 |
-| 2023-11-11 | 18,195 | 40 |
+| 2023-11-11 | 18,225 | 41 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

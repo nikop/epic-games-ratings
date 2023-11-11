@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470697,
+  "EOS_Progressed": 470699,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 422,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22118,6 +22118,11 @@
       "Time": "2023-11-11T14:10:03.6450676+00:00",
       "NumProgressed": 470697,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-11T15:09:57.4883076+00:00",
+      "NumProgressed": 470699,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22145,7 +22150,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112967
+      "UsersEstimate": 112968
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -22153,7 +22158,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 103553
+      "UsersEstimate": 103554
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -22217,7 +22222,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310660
+      "UsersEstimate": 310661
     },
     {
       "ID": "achievement_story_landa",
@@ -22249,7 +22254,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117674
+      "UsersEstimate": 117675
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -22305,7 +22310,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94139
+      "UsersEstimate": 94140
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -22313,7 +22318,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160037
+      "UsersEstimate": 160038
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22553,7 +22558,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 207107
+      "UsersEstimate": 207108
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -22561,7 +22566,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 141209
+      "UsersEstimate": 141210
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -22585,7 +22590,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 183572
+      "UsersEstimate": 183573
     },
     {
       "ID": "achievement_win_run_hard",
@@ -22641,7 +22646,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 103553
+      "UsersEstimate": 103554
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -22760,21 +22765,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14631,
+      "Progressed": 14633,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470697,
+      "Progressed": 470699,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:10:03.6450672+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:09:57.4883074+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.6471409+00:00",
-  "LastUpdate_Ratings": "2023-11-11T14:01:09.7748569+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:10:03.6453716+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:01:28.4405177+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:09:57.4884446+00:00"
 }

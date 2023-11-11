@@ -3,12 +3,12 @@
   "Name": "The Escapists 2",
   "ProductSlug": "the-escapists-2",
   "Ranking_Rating": 446,
-  "Ranking_Popularity": 417,
+  "Ranking_Popularity": 415,
   "Ranking_PopularitySum": 323,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2020-07-09T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -1202,12 +1202,18 @@
       "Rating": 4.58,
       "NumberOfAwards": 493,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2023-11-11T14:59:33.704848+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 494,
+      "NumberOfAwardsMax": 56
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 493,
-  "NumberOfAwardsMax": 55,
-  "MaxAwardTitle": "Extremely Fun",
+  "NumberOfAwards": 494,
+  "NumberOfAwardsMax": 56,
+  "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Highly Recommended",
@@ -1267,7 +1273,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 55
+      "Count": 56
     },
     {
       "Text": "This game has a Creative Community",
@@ -1287,8 +1293,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:06.6335859+00:00",
-  "LastChanged": "2023-11-06T20:11:13.0314744+00:00",
+  "LastChanged": "2023-11-11T14:59:33.7048464+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:35.708605+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:59:30.6128433+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:03:41.8205881+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:59:33.7048483+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:03:40.0074504+00:00"
 }

@@ -5,7 +5,7 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 7.00% | ~2,152 |
+| Stylish | 7.00% | ~2,153 |
 | Advancement | 6.00% | ~1,845 |
 | Meticulously Efficient | 6.00% | ~1,845 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,230 |
@@ -15,14 +15,14 @@ Rating: 4.50 (Ranked 588)
 | Swift Rift Removers | 4.00% | ~1,230 |
 | Teamwork | 4.00% | ~1,230 |
 | Vaporous Expansion | 4.00% | ~1,230 |
-| Animated | 3.00% | ~922 |
-| Clutch Capture | 3.00% | ~922 |
-| Cultured | 3.00% | ~922 |
-| Daily Dose | 3.00% | ~922 |
-| Ghostbuster In Training | 3.00% | ~922 |
-| Right back at ya | 3.00% | ~922 |
-| There you are! | 3.00% | ~922 |
-| Whoopsie | 3.00% | ~922 |
+| Animated | 3.00% | ~923 |
+| Clutch Capture | 3.00% | ~923 |
+| Cultured | 3.00% | ~923 |
+| Daily Dose | 3.00% | ~923 |
+| Ghostbuster In Training | 3.00% | ~923 |
+| Right back at ya | 3.00% | ~923 |
+| There you are! | 3.00% | ~923 |
+| Whoopsie | 3.00% | ~923 |
 | Back Off | 2.00% | ~615 |
 | We have the best insurance | 2.00% | ~615 |
 | Ectoplasmic Entity | 2.00% | ~615 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 588)
 | Fragile Panes | 0.90% | ~277 |
 | Liability | 0.90% | ~277 |
 | Surprise! | 0.80% | ~246 |
-| Therapeutic | 0.60% | ~184 |
+| Therapeutic | 0.60% | ~185 |
 | Rift Seeker | 0.50% | ~154 |
 | Master Collector | 0.40% | ~123 |
 | Ghost Expert | 0.20% | ~62 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,750 (Ranked 122)  
+Progressed: 30,755 (Ranked 122)  
 Completed: 67 (0.22%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 67 (0.22%) (Ranked 238)
 | 2023-11-08 | 30,559 | 66 |
 | 2023-11-09 | 30,630 | 66 |
 | 2023-11-10 | 30,704 | 66 |
-| 2023-11-11 | 30,750 | 67 |
+| 2023-11-11 | 30,755 | 67 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 246)  
 Sum: 2,758 (Ranked 179)  

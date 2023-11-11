@@ -8,18 +8,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 3.00% | ~26,886 |
 | Gun Fu | 1.00% | ~8,962 |
-| Relic Ruler | 0.80% | ~198 |
+| Relic Ruler | 0.80% | ~199 |
 | Full Body Conversion | 0.60% | ~5,377 |
 | Right Back At Ya | 0.50% | ~4,481 |
+| Stanislavski's Method | 0.50% | ~4,481 |
 | True Soldier | 0.50% | ~4,481 |
 | All the President's Men | 0.50% | ~124 |
 | Arachnophobia | 0.50% | ~124 |
 | The Quick and the Dead | 0.40% | ~3,585 |
 | Life of the Road | 0.40% | ~3,585 |
-| Stanislavski's Method | 0.40% | ~3,585 |
 | The Hermit | 0.40% | ~3,585 |
 | The Lovers | 0.40% | ~3,585 |
+| The Wheel of Fortune | 0.40% | ~3,585 |
 | True Warrior | 0.40% | ~3,585 |
+| Spin Doctor | 0.40% | ~99 |
 | Bushido and Chill | 0.30% | ~2,689 |
 | To Protect and Serve | 0.30% | ~2,689 |
 | Master Crafter | 0.30% | ~2,689 |
@@ -27,11 +29,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.30% | ~2,689 |
 | The Fool | 0.30% | ~2,689 |
 | The High Priestess | 0.30% | ~2,689 |
-| The Wheel of Fortune | 0.30% | ~2,689 |
 | The World | 0.30% | ~2,689 |
 | Judy vs Night City | 0.30% | ~2,689 |
 | Legend of The Afterlife | 0.30% | ~2,689 |
-| Spin Doctor | 0.30% | ~74 |
 | King of Wands | 0.30% | ~74 |
 | Dirty Deeds | 0.30% | ~74 |
 | Easy Come, Easy Go | 0.30% | ~74 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,185 (Ranked 15)  
+Progressed: 896,199 (Ranked 15)  
 Completed: 2,763 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 2,763 (0.31%) (Ranked 224)
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
-| 2023-11-11 | 896,185 | 2,763 |
+| 2023-11-11 | 896,199 | 2,763 |
 ## Awards
 Max (Character Customization): 104,816  (Ranked 9)  
-Sum: 349,021 (Ranked 10)  
+Sum: 349,113 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -292,7 +292,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 20,443 |
 | This game is Highly Recommended | 19,644 |
 | This game has Amazing Storytelling | 19,499 |
-| This game is Extremely Fun | 19,292 |
+| This game is Extremely Fun | 19,384 |
 | This game has Amazing Characters | 19,153 |
 | This game is Relaxing | 18,442 |
 | This game has Quickly Understood Controls | 18,361 |
@@ -596,4 +596,4 @@ Diff (max vs sum): -1
 | 2023-11-08 | 4.64 | - | 104,529 | 346,547 |
 | 2023-11-09 | 4.64 | - | 104,676 | 347,471 |
 | 2023-11-10 | 4.64 | - | 104,816 | 348,364 |
-| 2023-11-11 | 4.64 | - | 104,816 | 349,021 |
+| 2023-11-11 | 4.64 | - | 104,816 | 349,113 |

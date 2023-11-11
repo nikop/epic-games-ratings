@@ -5,14 +5,14 @@ Rating: 4.10 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,056 |
-| World Map | 79.00% | ~1,747 |
-| Temple of Eternals | 57.00% | ~1,260 |
-| Prestigious | 54.00% | ~1,194 |
+| Victor | 93.00% | ~2,058 |
+| World Map | 79.00% | ~1,748 |
+| Temple of Eternals | 57.00% | ~1,261 |
+| Prestigious | 54.00% | ~1,195 |
 | Fellowship Power | 42.00% | ~929 |
 | Guild Power | 26.00% | ~575 |
 | Prestigious x10 | 23.00% | ~509 |
-| The game is on | 20.00% | ~442 |
+| The game is on | 20.00% | ~443 |
 | Exotic Merchant | 19.00% | ~420 |
 | Dragon Clicker | 17.00% | ~376 |
 | Inspection | 17.00% | ~376 |
@@ -25,10 +25,10 @@ Rating: 4.10 (Ranked 958)
 | Mysterious Rock | 14.00% | ~310 |
 | Natural Talent | 14.00% | ~310 |
 | The Unstoppable | 14.00% | ~310 |
-| Milestone collector | 13.00% | ~287 |
-| Superior | 13.00% | ~287 |
-| Scientist | 12.00% | ~265 |
-| The power of Awakening | 12.00% | ~265 |
+| Milestone collector | 13.00% | ~288 |
+| Superior | 13.00% | ~288 |
+| Scientist | 12.00% | ~266 |
+| The power of Awakening | 12.00% | ~266 |
 | Challenger | 11.00% | ~243 |
 | Daily Quest Completionist | 11.00% | ~243 |
 | Doing My Part | 11.00% | ~243 |
@@ -61,9 +61,9 @@ Rating: 4.10 (Ranked 958)
 | Arena Challenger | 5.00% | ~111 |
 | Background Story | 5.00% | ~111 |
 | Ebony Jungle Liberator | 5.00% | ~111 |
-| Gear Enchanting | 4.00% | ~88 |
-| Mythic Power | 4.00% | ~88 |
-| What lies behind the bush | 4.00% | ~88 |
+| Gear Enchanting | 4.00% | ~89 |
+| Mythic Power | 4.00% | ~89 |
+| What lies behind the bush | 4.00% | ~89 |
 | Guardian Master | 3.00% | ~66 |
 | Cauldron Liberator | 2.00% | ~44 |
 | Enchanting skill x5 | 2.00% | ~44 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 958)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,211 (Ranked 215)  
+Progressed: 2,213 (Ranked 215)  
 Completed: 2 (0.09%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2 (0.09%) (Ranked 276)
 | 2023-11-08 | 2,124 | 2 |
 | 2023-11-09 | 2,129 | 2 |
 | 2023-11-10 | 2,189 | 2 |
-| 2023-11-11 | 2,211 | 2 |
+| 2023-11-11 | 2,213 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 488)  
 Sum: 58 (Ranked 471)  

@@ -7,7 +7,7 @@
 | Land of the Rising Sun | 99.00% | ~261 |
 | Hidden History | 83.00% | ~219 |
 | Commencing of Quests | 77.00% | ~203 |
-| Budding Conjuror | 76.00% | ~201 |
+| Budding Conjuror | 77.00% | ~203 |
 | Man-Machine Master | 67.00% | ~177 |
 | Charmed by the Hunt | 65.00% | ~172 |
 | Fusion Conjuror | 64.00% | ~169 |
@@ -18,9 +18,9 @@
 | Expert Conjuror | 56.00% | ~148 |
 | Distance Devourer | 53.00% | ~140 |
 | Flawless Crystal | 53.00% | ~140 |
+| Master of the Skies | 51.00% | ~135 |
 | Bonds of Enmity | 51.00% | ~135 |
 | Helpful Heart | 51.00% | ~135 |
-| Master of the Skies | 50.00% | ~132 |
 | Counter Specialist | 48.00% | ~127 |
 | Axer of Auspice | 44.00% | ~116 |
 | Mighty Marmelizer | 42.00% | ~111 |

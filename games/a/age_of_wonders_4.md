@@ -6,8 +6,8 @@ Rating: 4.61 (Ranked 384)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 1.00% | ~53 |
+| Secret Technique | 0.70% | ~37 |
 | Realm Estate | 0.60% | ~32 |
-| Secret Technique | 0.60% | ~32 |
 | Walls Cannot Stop Us | 0.60% | ~32 |
 | Freed Lands of Manuhari | 0.60% | ~32 |
 | A Wonderful Discovery | 0.50% | ~27 |
@@ -33,6 +33,7 @@ Rating: 4.61 (Ranked 384)
 | Sehiran Oasis | 0.20% | ~11 |
 | Prometheus Avenged | 0.20% | ~11 |
 | A Conqueror's Cohort | 0.20% | ~11 |
+| Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
@@ -60,7 +61,6 @@ Rating: 4.61 (Ranked 384)
 | Duality | 0.10% | ~5 |
 | Seal the Deal | 0.10% | ~5 |
 | A Very Special Ring | 0.10% | ~5 |
-| Snap Out of It! | 0.00% | ~0 |
 | I Want to Break Free | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |

@@ -6,13 +6,13 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,572 |
-| Basic in Bulk | 4.00% | ~5,572 |
-| Tinkle of Coins | 4.00% | ~5,572 |
-| Titan's First Steps | 4.00% | ~5,572 |
-| Disintermediation | 3.00% | ~4,179 |
-| It's Free Real Estate | 3.00% | ~4,179 |
-| Capitalism Ho! | 3.00% | ~4,179 |
+| Sponsored by Argon | 4.00% | ~5,573 |
+| Basic in Bulk | 4.00% | ~5,573 |
+| Tinkle of Coins | 4.00% | ~5,573 |
+| Titan's First Steps | 4.00% | ~5,573 |
+| Disintermediation | 3.00% | ~4,180 |
+| It's Free Real Estate | 3.00% | ~4,180 |
+| Capitalism Ho! | 3.00% | ~4,180 |
 | The Daily Grind | 2.00% | ~2,786 |
 | One Easy Payment | 2.00% | ~2,786 |
 | Some Assembly Required | 2.00% | ~2,786 |
@@ -55,27 +55,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.90% | ~1,254 |
 | Special Ingredient | 0.90% | ~1,254 |
 | Complete Monopoly | 0.90% | ~1,254 |
-| A Notch Above the Rest | 0.80% | ~1,114 |
-| Above the Norm | 0.80% | ~1,114 |
-| The King's Caprice | 0.80% | ~1,114 |
-| Big Game Hunting | 0.80% | ~1,114 |
-| Locally Sourced | 0.80% | ~1,114 |
-| Flying off the Shelves | 0.80% | ~1,114 |
-| Master of Transmutation | 0.80% | ~1,114 |
-| Hidden Potential | 0.80% | ~1,114 |
-| Cranked up to 11 | 0.80% | ~1,114 |
-| Fit for a King | 0.80% | ~1,114 |
-| Mammonite | 0.80% | ~1,114 |
-| Wealth Beyond Measure | 0.80% | ~1,114 |
-| Fat Cat Tag Team | 0.80% | ~1,114 |
-| Necromancer Queen | 0.80% | ~1,114 |
-| Miracle Alchemist | 0.80% | ~1,114 |
-| Laden with Loot | 0.80% | ~1,114 |
-| Scourge of the Seas | 0.80% | ~1,114 |
-| Attrition Mission | 0.80% | ~1,114 |
-| Glittering Collection | 0.80% | ~1,114 |
-| Exotic Commodities | 0.80% | ~1,114 |
-| King's Blade | 0.80% | ~1,114 |
+| A Notch Above the Rest | 0.80% | ~1,115 |
+| Above the Norm | 0.80% | ~1,115 |
+| The King's Caprice | 0.80% | ~1,115 |
+| Big Game Hunting | 0.80% | ~1,115 |
+| Locally Sourced | 0.80% | ~1,115 |
+| Flying off the Shelves | 0.80% | ~1,115 |
+| Master of Transmutation | 0.80% | ~1,115 |
+| Hidden Potential | 0.80% | ~1,115 |
+| Cranked up to 11 | 0.80% | ~1,115 |
+| Fit for a King | 0.80% | ~1,115 |
+| Mammonite | 0.80% | ~1,115 |
+| Wealth Beyond Measure | 0.80% | ~1,115 |
+| Fat Cat Tag Team | 0.80% | ~1,115 |
+| Necromancer Queen | 0.80% | ~1,115 |
+| Miracle Alchemist | 0.80% | ~1,115 |
+| Laden with Loot | 0.80% | ~1,115 |
+| Scourge of the Seas | 0.80% | ~1,115 |
+| Attrition Mission | 0.80% | ~1,115 |
+| Glittering Collection | 0.80% | ~1,115 |
+| Exotic Commodities | 0.80% | ~1,115 |
+| King's Blade | 0.80% | ~1,115 |
 | Cream of the Crop | 0.70% | ~975 |
 | Top of the World | 0.70% | ~975 |
 | Proud Paladin | 0.70% | ~975 |
@@ -106,6 +106,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 0.50% | ~697 |
 | All Accounted For | 0.50% | ~697 |
 | All or Nothing! | 0.40% | ~557 |
+| Unleashed Potential | 0.30% | ~418 |
 | JACKPOT!!! | 0.30% | ~418 |
 | Anything not Nailed Down | 0.30% | ~418 |
 | The Greatest Grind | 0.30% | ~418 |
@@ -113,13 +114,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bane of Legends | 0.20% | ~279 |
 | Ultimate Collector | 0.20% | ~279 |
 | Oligarch Monarch | 0.20% | ~279 |
-| Unleashed Potential | 0.20% | ~279 |
 | Merchant Extraordinaire | 0.20% | ~279 |
 | Cash Only Please | 0.20% | ~279 |
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,311 (Ranked 79)  
+Progressed: 139,325 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
-| 2023-11-11 | 139,311 | 181 |
+| 2023-11-11 | 139,325 | 181 |
 ## Awards
 Max (Great for Beginners): 4,825  (Ranked 73)  
 Sum: 27,528 (Ranked 50)  

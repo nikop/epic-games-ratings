@@ -14910,10 +14910,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 349021,
       "NumberOfAwardsMax": 104816
+    },
+    {
+      "Time": "2023-11-11T14:59:05.1302182+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 349113,
+      "NumberOfAwardsMax": 104816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 349021,
+  "NumberOfAwards": 349113,
   "NumberOfAwardsMax": 104816,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14981,7 +14987,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 19292
+      "Count": 19384
     },
     {
       "Text": "This game has a Creative Community",
@@ -14990,9 +14996,9 @@
       "Count": 12743
     }
   ],
-  "EOS_Progressed": 896185,
+  "EOS_Progressed": 896199,
   "EOS_Completed": 2763,
-  "EOS_NewPlayers": 992,
+  "EOS_NewPlayers": 999,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38220,6 +38226,11 @@
       "Time": "2023-11-11T14:05:12.2187496+00:00",
       "NumProgressed": 896185,
       "NumCompleted": 2763
+    },
+    {
+      "Time": "2023-11-11T15:05:20.6096122+00:00",
+      "NumProgressed": 896199,
+      "NumCompleted": 2763
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38406,9 +38417,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3585
+      "UsersEstimate": 4481
     },
     {
       "ID": "Specialist",
@@ -38494,9 +38505,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2689
+      "UsersEstimate": 3585
     },
     {
       "ID": "TheWorld",
@@ -38630,9 +38641,9 @@
       "ID": "Kingmaker",
       "SetID": "23nboa5",
       "Name": "Spin Doctor",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 74
+      "UsersEstimate": 99
     },
     {
       "ID": "Kingofcups",
@@ -38672,7 +38683,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "UltimateSurvivor",
@@ -38767,21 +38778,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896185,
+      "Progressed": 896199,
       "Completed": 2763
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24808,
+      "Progressed": 24822,
       "Completed": 10208
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-11T11:58:24.1773002+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:05:12.2187489+00:00",
+  "LastChanged": "2023-11-11T14:59:05.1302166+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:05:20.609612+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:59:05.9358782+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:05:12.2189755+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:59:05.1302185+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:05:20.6097274+00:00"
 }

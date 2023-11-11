@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 308,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -321,9 +321,9 @@
       "ID": "id_22",
       "SetID": "bk9jib6",
       "Name": "Ghost hunter",
-      "Percentage": 21,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "id_23",
@@ -377,9 +377,9 @@
       "ID": "id_33",
       "SetID": "bk9jib6",
       "Name": "Ferocious wild boars",
-      "Percentage": 36,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "id_34",
@@ -642,8 +642,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-10T23:58:50.2758771+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:09:13.0705774+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:09:01.5188919+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:17.0231727+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:59:27.5243311+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:09:13.0706326+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:59:30.2224405+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:09:01.5189284+00:00"
 }

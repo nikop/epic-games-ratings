@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~48,200 |
-| Get Busy Living | 16.00% | ~30,848 |
-| Samuel Norton | 9.00% | ~17,352 |
-| Spare The Rod | 5.00% | ~9,640 |
-| Don't Put Me In The Dark | 3.00% | ~5,784 |
-| Wait and Hope | 3.00% | ~5,784 |
-| I May Have Found A Way Out Of Here | 3.00% | ~5,784 |
-| Throw The Book At Them | 2.00% | ~3,856 |
-| Iron Bars | 2.00% | ~3,856 |
+| Stone Walls | 25.00% | ~48,207 |
+| Get Busy Living | 16.00% | ~30,852 |
+| Samuel Norton | 9.00% | ~17,355 |
+| Spare The Rod | 5.00% | ~9,641 |
+| Don't Put Me In The Dark | 3.00% | ~5,785 |
+| Wait and Hope | 3.00% | ~5,785 |
+| I May Have Found A Way Out Of Here | 3.00% | ~5,785 |
+| Throw The Book At Them | 2.00% | ~3,857 |
+| Iron Bars | 2.00% | ~3,857 |
 | D.B. Cooper | 1.00% | ~1,928 |
 | Reformation | 0.60% | ~1,157 |
 | Crowd Control | 0.50% | ~964 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~193 |
 | ... It's What You Can Prove | 0.10% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 192,801 (Ranked 73)  
+Progressed: 192,828 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,10 +228,10 @@ Completed: 9 (0.00%) (Ranked 347)
 | 2023-11-08 | 191,964 | 8 |
 | 2023-11-09 | 192,267 | 8 |
 | 2023-11-10 | 192,590 | 9 |
-| 2023-11-11 | 192,801 | 9 |
+| 2023-11-11 | 192,828 | 9 |
 ## Awards
 Max (Great for Beginners): 560  (Ranked 199)  
-Sum: 4,349 (Ranked 145)  
+Sum: 4,352 (Ranked 145)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -244,7 +244,7 @@ Diff (max vs sum): 54
 | This game has Amazing Storytelling | 465 |
 | This game is Educational | 459 |
 | This game has Amazing Characters | 426 |
-| This game has a Creative Community | 331 |
+| This game has a Creative Community | 334 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -541,3 +541,4 @@ Diff (max vs sum): 54
 | 2023-11-08 | 4.61 | - | 560 | 4,792 |
 | 2023-11-09 | 4.61 | - | 560 | 4,799 |
 | 2023-11-10 | 4.61 | - | 560 | 4,349 |
+| 2023-11-11 | 4.61 | - | 560 | 4,352 |

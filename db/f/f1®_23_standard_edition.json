@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -477,9 +477,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 5612,
+  "EOS_Progressed": 5613,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 963,
+  "EOS_NewPlayers": 951,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5252,6 +5252,11 @@
       "Time": "2023-11-11T14:03:47.1336402+00:00",
       "NumProgressed": 5612,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T15:03:46.0251371+00:00",
+      "NumProgressed": 5613,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5304,7 +5309,7 @@
       "Name": "Setting up for Success",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4209
+      "UsersEstimate": 4210
     },
     {
       "ID": "achievement_0007",
@@ -5312,7 +5317,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5219
+      "UsersEstimate": 5220
     },
     {
       "ID": "achievement_0008",
@@ -5320,7 +5325,7 @@
       "Name": "On the Top Step",
       "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 4770
+      "UsersEstimate": 4771
     },
     {
       "ID": "achievement_0009",
@@ -5328,7 +5333,7 @@
       "Name": "Eagle Eye",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_0010",
@@ -5376,7 +5381,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_0016",
@@ -5392,7 +5397,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_0018",
@@ -5448,7 +5453,7 @@
       "Name": "Loyal Bond",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_0025",
@@ -5470,9 +5475,9 @@
       "ID": "achievement_0027",
       "SetID": "9123ogc",
       "Name": "Switcheroo",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_0028",
@@ -5480,7 +5485,7 @@
       "Name": "Spinning Around",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "achievement_0029",
@@ -5520,7 +5525,7 @@
       "Name": "Engineer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "achievement_0034",
@@ -5655,7 +5660,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5612,
+      "Progressed": 5613,
       "Completed": 0
     }
   ],
@@ -5663,8 +5668,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-11T11:00:32.3032413+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:03:47.1336394+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:03:46.0251369+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:22.9013209+00:00",
-  "LastUpdate_Ratings": "2023-11-11T14:00:31.723652+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:03:47.1337141+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:00:44.1226223+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:03:46.0251905+00:00"
 }

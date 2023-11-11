@@ -3364,9 +3364,9 @@
       "Count": 740
     }
   ],
-  "EOS_Progressed": 239509,
+  "EOS_Progressed": 239515,
   "EOS_Completed": 287,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24639,6 +24639,11 @@
       "Time": "2023-11-11T14:10:04.4927794+00:00",
       "NumProgressed": 239509,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-11T15:09:58.3653679+00:00",
+      "NumProgressed": 239515,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 138,
@@ -25304,9 +25309,9 @@
       "ID": "PETRIFY50",
       "SetID": "5l8oe0h",
       "Name": "Stone Touch",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 479
     },
     {
       "ID": "PLAY10HOURS",
@@ -25736,9 +25741,9 @@
       "ID": "SURVIVE60DAMAGESWAMPNEST",
       "SetID": "1peahb6",
       "Name": "What Doesn\u0027t Kill You",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "WEARSAMESETINSLOTS",
@@ -25753,13 +25758,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239509,
+      "Progressed": 239515,
       "Completed": 287
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 989,
+      "Progressed": 995,
       "Completed": 374
     }
   ],
@@ -25767,8 +25772,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-11T11:03:15.8109071+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:10:04.492779+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:09:58.3653677+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-11T14:03:25.9225396+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:10:04.4932868+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:03:21.3952406+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:09:58.3656127+00:00"
 }

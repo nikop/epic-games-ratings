@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 309,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15259,
+  "EOS_Progressed": 15261,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15780,6 +15780,11 @@
       "Time": "2023-11-11T11:04:41.1886503+00:00",
       "NumProgressed": 15259,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-11T15:04:49.7749426+00:00",
+      "NumProgressed": 15261,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16133,9 +16138,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
       "SetID": "9201eeb",
       "Name": "Ancient",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
@@ -17477,9 +17482,9 @@
       "ID": "ACHIEVEMENT_PERSEPOLIS_APADANA",
       "SetID": "9201eeb",
       "Name": "Apadana in Parsa",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_PLAY_1V1",
@@ -17597,9 +17602,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
       "SetID": "7l38kb8",
       "Name": "Babylonian Paganism",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 305
+      "UsersEstimate": 458
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_CARTHAGE",
@@ -17733,9 +17738,9 @@
       "ID": "ACHIEVEMENT_TECH_INDUSTRIAL_PROGRESS",
       "SetID": "9201eeb",
       "Name": "Industrial Progress",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -17765,9 +17770,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -17909,9 +17914,9 @@
       "ID": "ACHIEVEMENT_VICTORY_AMBITION",
       "SetID": "7l38kb8",
       "Name": "Ambition Victory",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
@@ -18526,21 +18531,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15259,
+      "Progressed": 15261,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15259,
+      "Progressed": 15261,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-11T14:04:43.8504226+00:00",
+  "LastChanged_Achievements": "2023-11-11T15:04:49.7749425+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:35.9986155+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:59:53.8672925+00:00",
-  "LastUpdate_Achievements": "2023-11-11T14:04:43.851796+00:00"
+  "LastUpdate_Ratings": "2023-11-11T15:00:00.360705+00:00",
+  "LastUpdate_Achievements": "2023-11-11T15:04:49.7758654+00:00"
 }
