@@ -17,8 +17,8 @@ Rating: 4.08 (Ranked 966)
 | You Rich Now! | 23.00% | ~848 |
 | Our Lucky Winner | 21.00% | ~774 |
 | You Poor Now! | 21.00% | ~774 |
+| The Shardmenstration | 20.00% | ~738 |
 | You Got the Goods, Kid | 20.00% | ~738 |
-| The Shardmenstration | 19.00% | ~701 |
 | Those Were the Days... | 19.00% | ~701 |
 | ...To Heroes | 18.00% | ~664 |
 | Mas, Por Favor | 18.00% | ~664 |
@@ -33,7 +33,7 @@ Rating: 4.08 (Ranked 966)
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,688 (Ranked 194)  
-Completed: 0 (0.00%) (Ranked 347)  
+Completed: 0 (0.00%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -25,11 +25,11 @@ Number of Ratings: 177  (23.09.2022)
 | Smooth Operator: Ashley | 0.80% | ~52 |
 | Amy: Scavenger Hunt | 0.70% | ~45 |
 | It Smells Like Roses | 0.70% | ~24 |
+| Stephanie | 0.70% | ~45 |
 | The Crush | 0.70% | ~45 |
 | Vickie | 0.70% | ~45 |
 | Casanova | 0.60% | ~39 |
 | Now It's a Party! | 0.60% | ~39 |
-| Stephanie | 0.60% | ~39 |
 | The Magic Number | 0.60% | ~39 |
 | Te Amo Lety | 0.60% | ~39 |
 | I'll Be Back | 0.50% | ~32 |
@@ -77,7 +77,7 @@ Number of Ratings: 177  (23.09.2022)
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 6,447 (Ranked 178)  
-Completed: 3 (0.05%) (Ranked 298)  
+Completed: 3 (0.05%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

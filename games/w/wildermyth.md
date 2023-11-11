@@ -39,6 +39,7 @@ Number of Ratings: 45  (23.09.2022)
 | Wingknight's Prowess | 0.10% | ~1 |
 | All My Birds, Safely Home | 0.10% | ~1 |
 | Bears are Scary | 0.10% | ~1 |
+| Grillmaster | 0.10% | ~1 |
 | Some Say I'm Too Flashy | 0.10% | ~1 |
 | Into Mulch | 0.10% | ~1 |
 | I'm Not Smiling | 0.10% | ~1 |
@@ -55,7 +56,6 @@ Number of Ratings: 45  (23.09.2022)
 | Legends Never Die | 0.00% | ~0 |
 | War-Ender | 0.00% | ~0 |
 | Fight Like a Bird | 0.00% | ~0 |
-| Grillmaster | 0.00% | ~0 |
 | Solid as the Hills | 0.00% | ~0 |
 | We Call That Mortificient! | 0.00% | ~0 |
 | Symbiosis | 0.00% | ~0 |

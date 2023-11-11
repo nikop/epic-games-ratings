@@ -2,10 +2,10 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 504,
-  "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Progress": 505,
+  "Ranking_EOS_Completed": 348,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -212,9 +212,9 @@
       "ID": "10",
       "SetID": "6bgoh8g",
       "Name": "Masquerade",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "11",
@@ -427,8 +427,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:05:13.1171237+00:00",
+  "LastChanged_Achievements": "2023-11-11T20:07:41.8007718+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:42.0374617+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:57:33.7730284+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:05:13.1171455+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:00:14.9183746+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:07:41.8007965+00:00"
 }

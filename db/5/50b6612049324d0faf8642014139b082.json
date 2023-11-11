@@ -3,9 +3,9 @@
   "Name": "WRC",
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 379,
-  "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Completed": 348,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -492,9 +492,9 @@
       "ID": "achievement_3",
       "SetID": "jnappp",
       "Name": "Rookie Season",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "achievement_4",
@@ -555,8 +555,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:10:20.7095633+00:00",
+  "LastChanged_Achievements": "2023-11-11T20:13:02.2548207+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:58:48.4959474+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:10:20.7095845+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:01:33.7403403+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:13:02.2548435+00:00"
 }

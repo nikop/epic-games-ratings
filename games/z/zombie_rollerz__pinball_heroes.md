@@ -1,11 +1,11 @@
 # Zombie Rollerz: Pinball Heroes
 [Store](https://store.epicgames.com/en-US/p/zombie-rollerz-7aa027)  
 [View Rawdata](../../db/z/zombie_rollerz__pinball_heroes.json)  
-Rating: 4.30 (Ranked 834)  
+Rating: 4.30 (Ranked 835)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 87.00% | ~162 |
+| Level Up! | 88.00% | ~164 |
 | Bullseye! | 84.00% | ~156 |
 | Graduation! | 78.00% | ~145 |
 | Villfir Forest | 74.00% | ~138 |

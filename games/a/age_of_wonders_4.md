@@ -6,11 +6,11 @@ Rating: 4.60 (Ranked 409)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 2.00% | ~107 |
+| Secret Technique | 0.80% | ~43 |
 | Realm Estate | 0.70% | ~37 |
-| Secret Technique | 0.70% | ~37 |
+| Walls Cannot Stop Us | 0.70% | ~37 |
+| Freed Lands of Manuhari | 0.70% | ~37 |
 | A Wonderful Discovery | 0.60% | ~32 |
-| Walls Cannot Stop Us | 0.60% | ~32 |
-| Freed Lands of Manuhari | 0.60% | ~32 |
 | From Friends to Family | 0.50% | ~27 |
 | There Can Only Be One! | 0.40% | ~21 |
 | Bone Peddler | 0.40% | ~21 |
@@ -28,6 +28,7 @@ Rating: 4.60 (Ranked 409)
 | A Conqueror's Cohort | 0.30% | ~16 |
 | Dawn of the Dread | 0.30% | ~16 |
 | Valley of Wonders | 0.20% | ~11 |
+| Arch Mage | 0.20% | ~11 |
 | Enchanted Archipelago | 0.20% | ~11 |
 | Digging for Treasure | 0.20% | ~11 |
 | My Final Form | 0.20% | ~11 |
@@ -42,7 +43,6 @@ Rating: 4.60 (Ranked 409)
 | Return of the Wizard King | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
-| Arch Mage | 0.10% | ~5 |
 | The Creator | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |

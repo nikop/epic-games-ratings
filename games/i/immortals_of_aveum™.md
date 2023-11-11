@@ -5,9 +5,9 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~229 |
-| Battlefields Have Memories | 81.00% | ~211 |
-| Enlisted | 78.00% | ~203 |
+| Unforeseen | 89.00% | ~231 |
+| Battlefields Have Memories | 82.00% | ~213 |
+| Enlisted | 79.00% | ~205 |
 | Maybe Engage a Little | 74.00% | ~192 |
 | No More Names | 60.00% | ~156 |
 | Initiate | 47.00% | ~122 |

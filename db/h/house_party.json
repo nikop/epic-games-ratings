@@ -6,9 +6,9 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 178,
-  "Ranking_EOS_Completed": 298,
+  "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -6548,9 +6548,9 @@
       "ID": "Stephanie",
       "SetID": "bmkn7o4",
       "Name": "Stephanie",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 39
+      "UsersEstimate": 45
     },
     {
       "ID": "StrikingResemblance",
@@ -6722,8 +6722,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:06:56.8952386+00:00",
+  "LastChanged_Achievements": "2023-11-11T20:09:28.3272491+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:26.4902996+00:00",
-  "LastUpdate_Ratings": "2023-11-11T19:01:53.9076563+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:06:56.8953078+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:04:48.8545202+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:09:28.345073+00:00"
 }

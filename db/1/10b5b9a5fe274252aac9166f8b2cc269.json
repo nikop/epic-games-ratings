@@ -4,8 +4,8 @@
   "ProductSlug": "dark-fantasy-jigsaw-puzzle-12769c",
   "Ranking_EOS_Progress": 327,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-08-04T03:00:00+00:00",
     "PcReleaseDate": "2018-11-16T06:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 336,
-  "EOS_Completed": 151,
+  "EOS_Completed": 152,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 44.94,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 45.24,
   "EosHistory": [
     {
       "Time": "2023-07-28T07:04:19.3346272+00:00",
@@ -1909,6 +1909,11 @@
       "Time": "2023-11-11T10:08:38.1109469+00:00",
       "NumProgressed": 336,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2023-11-11T20:12:15.0185164+00:00",
+      "NumProgressed": 336,
+      "NumCompleted": 152
     }
   ],
   "AchievementsAdded": "2023-07-20T07:01:56.8501718+00:00",
@@ -1999,9 +2004,9 @@
       "ID": "PORTRAIT_19",
       "SetID": "2fge00i",
       "Name": "Portrait 19",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "PORTRAIT_2",
@@ -2081,13 +2086,13 @@
       "ID": "2fge00i",
       "IsBase": true,
       "Progressed": 336,
-      "Completed": 151
+      "Completed": 152
     }
   ],
   "FirstSeen": "2023-07-29T16:57:06.8916907+00:00",
   "FirstSeenAchievements": "2023-07-20T07:01:56.8501716+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:09:36.3642349+00:00",
+  "LastChanged_Achievements": "2023-11-11T20:12:15.0185159+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:35.7494013+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:58:29.7049482+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:09:36.3642576+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:01:13.6520686+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:12:15.0185458+00:00"
 }

@@ -13,7 +13,7 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 1.00% | ~65 |
 | Scaling up | 1.00% | ~65 |
 | Ready to Rod and Roll | 0.80% | ~52 |
-| Fish Out of Water | 0.70% | ~45 |
+| Fish Out of Water | 0.80% | ~52 |
 | Things that go Splash in the Night | 0.70% | ~45 |
 | Goldfish? | 0.50% | ~32 |
 | School's Out for Summer | 0.50% | ~32 |
@@ -47,8 +47,8 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,492 (Ranked 177)  
-Completed: 0 (0.00%) (Ranked 347)  
+Progressed: 6,493 (Ranked 177)  
+Completed: 0 (0.00%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -252,16 +252,16 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 6,452 | 0 |
 | 2023-11-09 | 6,467 | 0 |
 | 2023-11-10 | 6,476 | 0 |
-| 2023-11-11 | 6,492 | 0 |
+| 2023-11-11 | 6,493 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 465)  
-Sum: 191 (Ranked 403)  
+Sum: 192 (Ranked 403)  
 Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |
+| This game is Highly Recommended | 35 |
 | This game has Amazing Storytelling | 34 |
-| This game is Highly Recommended | 34 |
 | This game is Great for Beginners | 34 |
 | This game is Extremely Fun | 30 |
 | This game has Quickly Understood Controls | 23 |
@@ -356,3 +356,4 @@ Diff (max vs sum): 62
 | 2023-11-04 | 4.17 | - | 36 | 190 |
 | 2023-11-07 | 4.18 | - | 36 | 190 |
 | 2023-11-10 | 4.18 | - | 36 | 191 |
+| 2023-11-11 | 4.18 | - | 36 | 192 |

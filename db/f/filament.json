@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -312,9 +312,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205108,
+  "EOS_Progressed": 205112,
   "EOS_Completed": 526,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 410,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -22332,6 +22332,11 @@
       "Time": "2023-11-11T19:08:31.8487761+00:00",
       "NumProgressed": 205108,
       "NumCompleted": 526
+    },
+    {
+      "Time": "2023-11-11T20:11:07.291242+00:00",
+      "NumProgressed": 205112,
+      "NumCompleted": 526
     }
   ],
   "TotalAchievements": 29,
@@ -22367,7 +22372,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192802
+      "UsersEstimate": 192805
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -22423,7 +22428,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10255
+      "UsersEstimate": 10256
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -22479,7 +22484,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12306
+      "UsersEstimate": 12307
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -22503,7 +22508,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10255
+      "UsersEstimate": 10256
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -22574,7 +22579,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205108,
+      "Progressed": 205112,
       "Completed": 526
     }
   ],
@@ -22582,8 +22587,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-11T09:02:28.7109082+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:08:31.8487756+00:00",
+  "LastChanged_Achievements": "2023-11-11T20:11:07.2912414+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:01.2634588+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:57:43.2116473+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:08:31.8488979+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:00:24.9534977+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:11:07.2914407+00:00"
 }

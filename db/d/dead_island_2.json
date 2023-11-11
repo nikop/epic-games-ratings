@@ -4,10 +4,10 @@
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 524,
   "Ranking_Popularity": 53,
-  "Ranking_PopularitySum": 86,
+  "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 25,
+  "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 5,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6325,18 +6325,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11067,
       "NumberOfAwardsMax": 7279
+    },
+    {
+      "Time": "2023-11-11T20:04:03.2964656+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11108,
+      "NumberOfAwardsMax": 7320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11067,
-  "NumberOfAwardsMax": 7279,
+  "NumberOfAwards": 11108,
+  "NumberOfAwardsMax": 7320,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7279
+      "Count": 7320
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6387,9 +6393,9 @@
       "Count": 458
     }
   ],
-  "EOS_Progressed": 716758,
-  "EOS_Completed": 2379,
-  "EOS_NewPlayers": 4306,
+  "EOS_Progressed": 716797,
+  "EOS_Completed": 2380,
+  "EOS_NewPlayers": 4294,
   "EOS_NewCompleters": 57,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29817,6 +29823,11 @@
       "Time": "2023-11-11T19:04:31.2948466+00:00",
       "NumProgressed": 716758,
       "NumCompleted": 2379
+    },
+    {
+      "Time": "2023-11-11T20:06:58.5136969+00:00",
+      "NumProgressed": 716797,
+      "NumCompleted": 2380
     }
   ],
   "TotalAchievements": 51,
@@ -29988,7 +29999,7 @@
       "Name": "Hotel California",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "ach_impressive_aim",
@@ -30164,7 +30175,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5017
+      "UsersEstimate": 5018
     },
     {
       "ID": "ach_well_known_survivor",
@@ -30196,7 +30207,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ach_gardening_tools",
@@ -30212,7 +30223,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30235,22 +30246,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 716758,
-      "Completed": 2379
+      "Progressed": 716797,
+      "Completed": 2380
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 42300,
-      "Completed": 36521
+      "Progressed": 42339,
+      "Completed": 36523
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-11T15:59:48.9520296+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:04:31.2948462+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-11T19:01:10.7804336+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:04:31.2950009+00:00"
+  "LastChanged": "2023-11-11T20:04:03.2964654+00:00",
+  "LastChanged_Achievements": "2023-11-11T20:06:58.5136963+00:00",
+  "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
+  "LastUpdate_Ratings": "2023-11-11T20:04:03.2964663+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:06:58.5138946+00:00"
 }

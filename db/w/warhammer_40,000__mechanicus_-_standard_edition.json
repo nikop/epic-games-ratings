@@ -6,9 +6,9 @@
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 201,
   "Ranking_EOS_Progress": 67,
-  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -918,9 +918,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 226931,
+  "EOS_Progressed": 226934,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 523,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23363,6 +23363,11 @@
       "Time": "2023-11-11T19:10:19.6017356+00:00",
       "NumProgressed": 226931,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-11T20:13:00.9250599+00:00",
+      "NumProgressed": 226934,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -23382,7 +23387,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59002
+      "UsersEstimate": 59003
     },
     {
       "ID": "ACH_BASE_11",
@@ -23645,7 +23650,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 226931,
+      "Progressed": 226934,
       "Completed": 5
     }
   ],
@@ -23653,8 +23658,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2023-11-10T21:59:29.3531001+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:10:19.6017353+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T18:57:07.5149381+00:00",
-  "LastUpdate_Ratings": "2023-11-11T19:01:49.5862561+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:10:19.6018467+00:00"
+  "LastChanged_Achievements": "2023-11-11T20:13:00.9250595+00:00",
+  "LastUpdate_AppInfo": "2023-11-11T19:59:28.6379322+00:00",
+  "LastUpdate_Ratings": "2023-11-11T20:04:44.1986845+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:13:00.9252633+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Assassins Creed Odyssey Standard Edition",
   "ProductSlug": "assassins-creed-odyssey",
   "Ranking_Rating": 145,
-  "Ranking_Popularity": 59,
+  "Ranking_Popularity": 58,
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 740,
-  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -10740,18 +10740,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 16857,
       "NumberOfAwardsMax": 6455
+    },
+    {
+      "Time": "2023-11-11T20:04:16.2423831+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 16870,
+      "NumberOfAwardsMax": 6466
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16857,
-  "NumberOfAwardsMax": 6455,
+  "NumberOfAwards": 16870,
+  "NumberOfAwardsMax": 6466,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 6455
+      "Count": 6466
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10805,7 +10811,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 624
+      "Count": 626
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10843,8 +10849,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2023-11-11T19:01:23.0738902+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T18:59:15.3372926+00:00",
-  "LastUpdate_Ratings": "2023-11-11T19:01:23.0738908+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:06:14.0430103+00:00"
+  "LastChanged": "2023-11-11T20:04:16.242383+00:00",
+  "LastUpdate_AppInfo": "2023-11-11T19:59:11.3567446+00:00",
+  "LastUpdate_Ratings": "2023-11-11T20:04:16.2423838+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:08:44.0612199+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Timothy vs the Aliens",
   "ProductSlug": "timothy-vs-the-aliens-2f5b36",
   "Ranking_EOS_Progress": 520,
-  "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_Completed": 348,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-19T16:00:00+00:00",
     "PcReleaseDate": "2021-07-21T22:00:00+00:00",
@@ -209,9 +209,9 @@
       "ID": "ACH_CATCHTHUG1",
       "SetID": "73kff7",
       "Name": "But why are you running?",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_CATCHTHUG2",
@@ -313,9 +313,9 @@
       "ID": "ACH_LEAVETIMOTHYS",
       "SetID": "73kff7",
       "Name": "I should have paid attention",
-      "Percentage": 62,
+      "Percentage": 65,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_POLICESTATION",
@@ -345,9 +345,9 @@
       "ID": "ACH_SAVEELIZABETH",
       "SetID": "73kff7",
       "Name": "Being nice",
-      "Percentage": 31,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     }
   ],
   "AchievementSets": [
@@ -359,8 +359,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-10T07:59:57.1545562+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:06:08.7847809+00:00",
+  "LastChanged_Achievements": "2023-11-11T20:08:38.9041242+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:39.7958389+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:58:47.7454294+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:06:08.7847956+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:01:32.9845888+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:08:38.9041444+00:00"
 }

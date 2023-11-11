@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4563,9 +4563,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 90483,
+  "EOS_Progressed": 90498,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 932,
+  "EOS_NewPlayers": 943,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24868,6 +24868,11 @@
       "Time": "2023-11-11T19:06:08.3591824+00:00",
       "NumProgressed": 90483,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-11T20:08:38.6370148+00:00",
+      "NumProgressed": 90498,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -25053,9 +25058,9 @@
       "ID": "ACH_0300",
       "SetID": "3kam13l",
       "Name": "Olympus Ascended",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 271
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_0310",
@@ -25175,7 +25180,7 @@
       "Name": "All that Glitters",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "ACH_1020",
@@ -25206,13 +25211,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90483,
+      "Progressed": 90498,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18830,
+      "Progressed": 18845,
       "Completed": 15565
     }
   ],
@@ -25220,8 +25225,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-11T13:57:30.5585463+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:06:08.3591821+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-11T18:57:40.6640506+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:06:08.3593113+00:00"
+  "LastChanged_Achievements": "2023-11-11T20:08:38.6370143+00:00",
+  "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
+  "LastUpdate_Ratings": "2023-11-11T20:00:22.1007058+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:08:38.6371865+00:00"
 }

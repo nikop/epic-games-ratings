@@ -3,9 +3,9 @@
   "Name": "The Longest Road on Earth",
   "ProductSlug": "the-longest-road-on-earth",
   "Ranking_EOS_Progress": 740,
-  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-05-27T15:00:00+00:00",
     "PcReleaseDate": "2021-05-27T15:00:00+00:00",
@@ -42,7 +42,7 @@
   "FirstSeen": "2022-07-22T20:27:05.1284185+00:00",
   "FirstSeenRating": "2023-03-31T05:58:05.818007+00:00",
   "LastChanged": "2023-03-31T05:58:05.8180071+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T18:59:27.8219568+00:00",
-  "LastUpdate_Ratings": "2023-11-11T19:01:22.1724742+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:04:13.2166472+00:00"
+  "LastUpdate_AppInfo": "2023-11-11T19:59:10.7784434+00:00",
+  "LastUpdate_Ratings": "2023-11-11T20:04:15.2899749+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:06:40.1116876+00:00"
 }

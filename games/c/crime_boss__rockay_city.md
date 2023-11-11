@@ -28,10 +28,10 @@ Rating: 3.95 (Ranked 1,005)
 | Imports and Exports | 0.40% | ~362 |
 | Foo Finder | 0.40% | ~362 |
 | Moneybags | 0.40% | ~362 |
+| Olympus Ascended | 0.40% | ~362 |
 | Savvy Seeker | 0.30% | ~271 |
-| Olympus Ascended | 0.30% | ~271 |
 | Ding Dong | 0.30% | ~271 |
-| All that Glitters | 0.30% | ~56 |
+| All that Glitters | 0.30% | ~57 |
 | Rockay Raider | 0.20% | ~181 |
 | Rockay Knight | 0.20% | ~181 |
 | Talent Scout | 0.20% | ~181 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Geek Out | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,483 (Ranked 91)  
+Progressed: 90,498 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
-| 2023-11-11 | 90,483 | 55 |
+| 2023-11-11 | 90,498 | 55 |
 ## Awards
 Max (Diverse Characters): 526  (Ranked 203)  
 Sum: 2,989 (Ranked 175)  

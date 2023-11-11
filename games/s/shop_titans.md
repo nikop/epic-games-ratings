@@ -13,18 +13,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 3.00% | ~4,181 |
 | It's Free Real Estate | 3.00% | ~4,181 |
 | Capitalism Ho! | 3.00% | ~4,181 |
-| The Daily Grind | 2.00% | ~2,787 |
-| One Easy Payment | 2.00% | ~2,787 |
-| Some Assembly Required | 2.00% | ~2,787 |
-| Bounty Hunters | 2.00% | ~2,787 |
-| Flooding the Market | 2.00% | ~2,787 |
-| Another Satisfied Customer | 2.00% | ~2,787 |
-| Pretty Penny | 2.00% | ~2,787 |
-| One-Armed Bandit | 2.00% | ~2,787 |
-| Budding Merchant | 2.00% | ~2,787 |
-| Dungeon Imports | 2.00% | ~2,787 |
-| Through Repetition, Perfection | 2.00% | ~2,787 |
-| Own the Means of Production | 2.00% | ~2,787 |
+| The Daily Grind | 2.00% | ~2,788 |
+| One Easy Payment | 2.00% | ~2,788 |
+| Some Assembly Required | 2.00% | ~2,788 |
+| Bounty Hunters | 2.00% | ~2,788 |
+| Flooding the Market | 2.00% | ~2,788 |
+| Another Satisfied Customer | 2.00% | ~2,788 |
+| Pretty Penny | 2.00% | ~2,788 |
+| One-Armed Bandit | 2.00% | ~2,788 |
+| Budding Merchant | 2.00% | ~2,788 |
+| Dungeon Imports | 2.00% | ~2,788 |
+| Through Repetition, Perfection | 2.00% | ~2,788 |
+| Own the Means of Production | 2.00% | ~2,788 |
 | On the Path to Greatness | 1.00% | ~1,394 |
 | Ascended | 1.00% | ~1,394 |
 | Tax not Included | 1.00% | ~1,394 |
@@ -105,7 +105,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Jackpot! | 0.50% | ~697 |
 | Eternal Crusade | 0.50% | ~697 |
 | All Accounted For | 0.50% | ~697 |
-| All or Nothing! | 0.40% | ~557 |
+| All or Nothing! | 0.40% | ~558 |
 | Unleashed Potential | 0.30% | ~418 |
 | JACKPOT!!! | 0.30% | ~418 |
 | Anything not Nailed Down | 0.30% | ~418 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,367 (Ranked 79)  
+Progressed: 139,377 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
-| 2023-11-11 | 139,367 | 181 |
+| 2023-11-11 | 139,377 | 181 |
 ## Awards
 Max (Great for Beginners): 4,825  (Ranked 73)  
 Sum: 27,528 (Ranked 50)  

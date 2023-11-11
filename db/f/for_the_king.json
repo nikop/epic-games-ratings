@@ -2,13 +2,13 @@
   "ID": "4492ce99b4124b74a0bb83f78b3d70b8",
   "Name": "For The King",
   "ProductSlug": "for-the-king",
-  "Ranking_Rating": 214,
+  "Ranking_Rating": 213,
   "Ranking_Popularity": 225,
   "Ranking_PopularitySum": 174,
   "Ranking_EOS_Progress": 740,
-  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -3613,10 +3613,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 3013,
       "NumberOfAwardsMax": 406
+    },
+    {
+      "Time": "2023-11-11T20:04:20.0335187+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 3014,
+      "NumberOfAwardsMax": 406
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3013,
+  "NumberOfAwards": 3014,
   "NumberOfAwardsMax": 406,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3672,7 +3678,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 328
+      "Count": 329
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3692,8 +3698,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:13.7495529+00:00",
-  "LastChanged": "2023-11-11T15:59:59.8772095+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T18:59:16.4002352+00:00",
-  "LastUpdate_Ratings": "2023-11-11T19:01:26.746596+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:08:41.687605+00:00"
+  "LastChanged": "2023-11-11T20:04:20.0335185+00:00",
+  "LastUpdate_AppInfo": "2023-11-11T19:59:14.2304799+00:00",
+  "LastUpdate_Ratings": "2023-11-11T20:04:20.0335194+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:11:17.7526275+00:00"
 }

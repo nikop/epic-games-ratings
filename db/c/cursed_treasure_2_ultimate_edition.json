@@ -4,8 +4,8 @@
   "ProductSlug": "cursed-treasure-2-ultimate-edition-2ebbb4",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 25,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-07-14T10:30:00+00:00",
     "PcReleaseDate": "2022-07-14T11:30:00+00:00",
@@ -609,9 +609,9 @@
       "ID": "BADGE_PLAYER_RANK_2",
       "SetID": "ak6pfjk",
       "Name": "Lieutenant of the Evil",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "BADGE_POLYMORPH_COUNT",
@@ -682,8 +682,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5268804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.0136126+00:00",
   "LastChanged": "2023-03-31T05:57:34.5268805+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:07:07.2800917+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T18:57:24.7745702+00:00",
-  "LastUpdate_Ratings": "2023-11-11T19:03:16.8656034+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:07:07.2801235+00:00"
+  "LastChanged_Achievements": "2023-11-11T20:09:39.1905789+00:00",
+  "LastUpdate_AppInfo": "2023-11-11T19:59:45.1148952+00:00",
+  "LastUpdate_Ratings": "2023-11-11T20:05:41.5509209+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:09:39.1906304+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "The Bunker",
   "ProductSlug": "the-bunker-03b712",
   "Ranking_EOS_Progress": 395,
-  "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 144,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
@@ -567,8 +567,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:04:09.9061989+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T18:58:41.4005967+00:00",
-  "LastUpdate_Ratings": "2023-11-11T19:00:18.0332334+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:04:09.9062289+00:00"
+  "LastChanged_Achievements": "2023-11-11T20:06:36.8541756+00:00",
+  "LastUpdate_AppInfo": "2023-11-11T19:58:28.2342854+00:00",
+  "LastUpdate_Ratings": "2023-11-11T20:03:07.950035+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:06:36.854204+00:00"
 }

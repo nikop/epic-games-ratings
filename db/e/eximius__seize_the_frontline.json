@@ -6,9 +6,9 @@
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 72,
-  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -327,7 +327,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 199815,
+  "EOS_Progressed": 199818,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
@@ -22102,6 +22102,11 @@
       "Time": "2023-11-11T19:05:09.4489288+00:00",
       "NumProgressed": 199815,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-11T20:07:37.6399054+00:00",
+      "NumProgressed": 199818,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -22121,7 +22126,7 @@
       "Name": "Graduate Boot Camp",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 141869
+      "UsersEstimate": 141871
     },
     {
       "ID": "ACH_FLAWLESS_VICTORY",
@@ -22137,7 +22142,7 @@
       "Name": "Gated Community",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 5994
+      "UsersEstimate": 5995
     },
     {
       "ID": "ACH_INITIATION",
@@ -22240,7 +22245,7 @@
     {
       "ID": "1kj8hdc",
       "IsBase": true,
-      "Progressed": 199815,
+      "Progressed": 199818,
       "Completed": 4
     }
   ],
@@ -22248,8 +22253,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2023-10-28T18:04:45.3516682+00:00",
-  "LastChanged_Achievements": "2023-11-11T19:05:09.4489284+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T18:57:54.3998533+00:00",
-  "LastUpdate_Ratings": "2023-11-11T19:03:34.2777371+00:00",
-  "LastUpdate_Achievements": "2023-11-11T19:05:09.4490441+00:00"
+  "LastChanged_Achievements": "2023-11-11T20:07:37.6399048+00:00",
+  "LastUpdate_AppInfo": "2023-11-11T19:59:55.4823585+00:00",
+  "LastUpdate_Ratings": "2023-11-11T20:05:58.9690051+00:00",
+  "LastUpdate_Achievements": "2023-11-11T20:07:37.6400547+00:00"
 }

@@ -5,29 +5,29 @@ Rating: 4.46 (Ranked 647)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,809 |
+| Meeting Resistance | 47.00% | ~1,810 |
 | Confirming Suspicions | 41.00% | ~1,578 |
 | The Kraken Wakes | 37.00% | ~1,424 |
 | It's Starting to Crack | 34.00% | ~1,309 |
-| Change the Channel | 31.00% | ~1,193 |
+| Change the Channel | 31.00% | ~1,194 |
 | Lord of War | 30.00% | ~1,155 |
 | Taking it back | 29.00% | ~1,116 |
-| Resourceful | 27.00% | ~1,039 |
-| Target America | 27.00% | ~1,039 |
+| Resourceful | 27.00% | ~1,040 |
+| Target America | 27.00% | ~1,040 |
 | The Kraken Sleeps | 25.00% | ~962 |
-| Liberté | 23.00% | ~885 |
-| Organ Grinder | 23.00% | ~885 |
-| As Quiet as a Mouse | 23.00% | ~885 |
+| Liberté | 23.00% | ~886 |
+| Organ Grinder | 23.00% | ~886 |
+| As Quiet as a Mouse | 23.00% | ~886 |
 | Sharpshooter | 22.00% | ~847 |
-| Gunslinger | 19.00% | ~731 |
-| Explosive Efficiency | 19.00% | ~731 |
+| Gunslinger | 19.00% | ~732 |
+| Explosive Efficiency | 19.00% | ~732 |
 | Just a Flesh Wound | 17.00% | ~654 |
 | Der Geist | 17.00% | ~654 |
 | Climbing the Ladder | 16.00% | ~616 |
 | Close Quarters | 16.00% | ~616 |
-| Skirmisher | 15.00% | ~577 |
-| Snake in the Grass | 15.00% | ~577 |
-| Brains of the Operation | 15.00% | ~577 |
+| Skirmisher | 15.00% | ~578 |
+| Snake in the Grass | 15.00% | ~578 |
+| Brains of the Operation | 15.00% | ~578 |
 | No Stone Unturned | 14.00% | ~539 |
 | Opposing Force | 14.00% | ~539 |
 | Enemy at the Gates | 14.00% | ~539 |
@@ -49,10 +49,10 @@ Rating: 4.46 (Ranked 647)
 | Strategist | 4.00% | ~154 |
 | Locomotion Commotion | 4.00% | ~154 |
 | Road Rage | 4.00% | ~154 |
-| From Paris with Love | 3.00% | ~115 |
-| Burn after reading | 3.00% | ~115 |
-| Souvenir hunter | 3.00% | ~115 |
-| Shoot for the Moon | 3.00% | ~115 |
+| From Paris with Love | 3.00% | ~116 |
+| Burn after reading | 3.00% | ~116 |
+| Souvenir hunter | 3.00% | ~116 |
+| Shoot for the Moon | 3.00% | ~116 |
 | If You Go Down To The Woods Today | 3.00% | ~114 |
 | Fight Another Day | 3.00% | ~114 |
 | Out of Scope | 2.00% | ~77 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 647)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,849 (Ranked 192)  
+Progressed: 3,850 (Ranked 192)  
 Completed: 11 (0.29%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 11 (0.29%) (Ranked 229)
 | 2023-11-08 | 3,839 | 11 |
 | 2023-11-09 | 3,843 | 11 |
 | 2023-11-10 | 3,845 | 11 |
-| 2023-11-11 | 3,849 | 11 |
+| 2023-11-11 | 3,850 | 11 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 528)  
 Sum: 23 (Ranked 530)  

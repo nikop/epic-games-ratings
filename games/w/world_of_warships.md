@@ -6,53 +6,53 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~41,998 |
-| Initial Capital | 67.00% | ~35,174 |
-| Moneybags | 45.00% | ~23,624 |
-| Junior Supply Officer | 45.00% | ~23,624 |
-| Naval Warfare. Arson | 34.00% | ~17,849 |
-| Naval Warfare. Ramming | 33.00% | ~17,324 |
-| Amateur | 31.00% | ~16,274 |
-| Naval Warfare. Tactics | 31.00% | ~16,274 |
-| Naval Constructor | 31.00% | ~16,274 |
-| Naval Warfare. Weaponry Basics | 23.00% | ~12,075 |
-| Naval Warfare. Lucky Shot | 20.00% | ~10,500 |
-| Naval Warfare. Flooding | 19.00% | ~9,975 |
-| Business Magnate | 17.00% | ~8,925 |
-| Battle Hero | 16.00% | ~8,400 |
-| Warrior | 13.00% | ~6,825 |
-| Supply Officer | 13.00% | ~6,825 |
-| Smooth Supply | 13.00% | ~6,825 |
-| Veteran | 8.00% | ~4,200 |
-| Legend of the Seas | 4.00% | ~2,100 |
-| Chief Naval Architect | 4.00% | ~2,100 |
-| Shield | 4.00% | ~2,100 |
-| Important Missions | 3.00% | ~1,575 |
-| Bane of the Oceans | 2.00% | ~1,050 |
-| Senior Supply Officer | 2.00% | ~1,050 |
-| "Science of Victory" | 2.00% | ~1,050 |
-| Weather Beaten | 2.00% | ~1,050 |
-| Guardian | 2.00% | ~1,050 |
-| Exterminator | 2.00% | ~1,050 |
+| Junior Naval Designer | 80.00% | ~42,030 |
+| Initial Capital | 67.00% | ~35,200 |
+| Moneybags | 45.00% | ~23,642 |
+| Junior Supply Officer | 45.00% | ~23,642 |
+| Naval Warfare. Arson | 34.00% | ~17,863 |
+| Naval Warfare. Ramming | 33.00% | ~17,337 |
+| Amateur | 31.00% | ~16,286 |
+| Naval Warfare. Tactics | 31.00% | ~16,286 |
+| Naval Constructor | 31.00% | ~16,286 |
+| Naval Warfare. Weaponry Basics | 23.00% | ~12,084 |
+| Naval Warfare. Lucky Shot | 20.00% | ~10,507 |
+| Naval Warfare. Flooding | 19.00% | ~9,982 |
+| Business Magnate | 17.00% | ~8,931 |
+| Battle Hero | 16.00% | ~8,406 |
+| Warrior | 13.00% | ~6,830 |
+| Supply Officer | 13.00% | ~6,830 |
+| Smooth Supply | 13.00% | ~6,830 |
+| Veteran | 8.00% | ~4,203 |
+| Legend of the Seas | 4.00% | ~2,101 |
+| Chief Naval Architect | 4.00% | ~2,101 |
+| Shield | 4.00% | ~2,101 |
+| Important Missions | 3.00% | ~1,576 |
+| Bane of the Oceans | 2.00% | ~1,051 |
+| Senior Supply Officer | 2.00% | ~1,051 |
+| "Science of Victory" | 2.00% | ~1,051 |
+| Weather Beaten | 2.00% | ~1,051 |
+| Guardian | 2.00% | ~1,051 |
+| Exterminator | 2.00% | ~1,051 |
 | Old-Timer | 1.00% | ~525 |
 | Special Orders | 1.00% | ~525 |
 | Protector | 1.00% | ~525 |
 | American Cruisers | 1.00% | ~525 |
 | Secret Instructions | 0.80% | ~420 |
-| Raider | 0.70% | ~367 |
+| Raider | 0.70% | ~368 |
 | Experienced One | 0.60% | ~315 |
 | Ravager | 0.40% | ~210 |
 | "Yamamoto Isoroku" | 0.40% | ~210 |
 | "Yamamoto Isoroku" | 0.40% | ~210 |
 | "Honorable Service" | 0.20% | ~105 |
 | Hit Hard! Hit Fast! Hit Often! | 0.20% | ~105 |
-| "Science of Victory" with Honors | 0.10% | ~52 |
-| "Honorable Service" with Honors | 0.10% | ~52 |
-| "Yamamoto Isoroku" with Honors | 0.10% | ~52 |
-| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~52 |
+| "Science of Victory" with Honors | 0.10% | ~53 |
+| "Honorable Service" with Honors | 0.10% | ~53 |
+| "Yamamoto Isoroku" with Honors | 0.10% | ~53 |
+| Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,498 (Ranked 106)  
-Completed: 0 (0.00%) (Ranked 347)  
+Progressed: 52,537 (Ranked 106)  
+Completed: 0 (0.00%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -141,10 +141,10 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 51,170 | 0 |
 | 2023-11-09 | 51,605 | 0 |
 | 2023-11-10 | 52,074 | 0 |
-| 2023-11-11 | 52,498 | 0 |
+| 2023-11-11 | 52,537 | 0 |
 ## Awards
 Max (Relaxing): 1,503  (Ranked 130)  
-Sum: 12,563 (Ranked 79)  
+Sum: 12,571 (Ranked 79)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -155,7 +155,7 @@ Diff (max vs sum): 51
 | This game is Extremely Fun | 1,445 |
 | This game is Highly Recommended | 1,443 |
 | This game has Realistic Visuals | 1,313 |
-| This game has Amazing Storytelling | 1,239 |
+| This game has Amazing Storytelling | 1,247 |
 | This game has a Competitive Community | 1,172 |
 | This game has Amazing Characters | 942 |
 ## Ratings History
@@ -464,4 +464,4 @@ Diff (max vs sum): 51
 | 2023-11-08 | 4.41 | - | 1,496 | 12,492 |
 | 2023-11-09 | 4.41 | - | 1,500 | 12,515 |
 | 2023-11-10 | 4.41 | - | 1,500 | 12,537 |
-| 2023-11-11 | 4.41 | - | 1,503 | 12,563 |
+| 2023-11-11 | 4.41 | - | 1,503 | 12,571 |

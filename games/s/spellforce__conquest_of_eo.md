@@ -38,6 +38,7 @@
 | Defeat Hokan | 18.00% | ~3 |
 | Defeat Ianna | 18.00% | ~3 |
 | Defeat Isgrimm | 18.00% | ~3 |
+| Defeat Yria | 18.00% | ~3 |
 | Elynn's Tale | 18.00% | ~3 |
 | Lore's Tale | 18.00% | ~3 |
 | A Master of Magic | 18.00% | ~3 |
@@ -47,7 +48,6 @@
 | A Joke | 18.00% | ~3 |
 | Defeat Rohen | 12.00% | ~2 |
 | Defeat Undergast | 12.00% | ~2 |
-| Defeat Yria | 12.00% | ~2 |
 | Lytra's Tale | 12.00% | ~2 |
 | Yngrid's Tale | 12.00% | ~2 |
 | Silver Drift Hollow Mine | 12.00% | ~2 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 17 (Ranked 548)  
-Completed: 0 (0.00%) (Ranked 347)  
+Completed: 0 (0.00%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
