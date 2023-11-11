@@ -2,13 +2,13 @@
   "ID": "75d74aeb36024d95b8a30bad40dc19c3",
   "Name": "Call of the Wild: The Angler\u2122",
   "ProductSlug": "call-of-the-wild-the-angler",
-  "Ranking_Rating": 925,
+  "Ranking_Rating": 926,
   "Ranking_Popularity": 464,
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -889,9 +889,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6481,
+  "EOS_Progressed": 6483,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9814,6 +9814,11 @@
       "Time": "2023-11-11T06:08:49.4802693+00:00",
       "NumProgressed": 6481,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T09:08:48.3457286+00:00",
+      "NumProgressed": 6483,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -10144,13 +10149,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6481,
+      "Progressed": 6483,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5853,
+      "Progressed": 5855,
       "Completed": 113
     }
   ],
@@ -10158,8 +10163,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-10T19:57:30.8102083+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:09:23.1882339+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:08:48.3457277+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:50.0163086+00:00",
-  "LastUpdate_Ratings": "2023-11-11T07:57:53.0999847+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:09:23.1883027+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:57:29.4462315+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:08:48.3458849+00:00"
 }

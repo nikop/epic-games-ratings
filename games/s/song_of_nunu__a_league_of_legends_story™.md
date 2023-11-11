@@ -9,7 +9,7 @@
 | Better On Ice | 69.00% | ~439 |
 | Notai Notes | 69.00% | ~439 |
 | Blue Dreams | 68.00% | ~432 |
-| He's Famous! | 67.00% | ~426 |
+| He's Famous! | 68.00% | ~432 |
 | Krugmazing | 66.00% | ~420 |
 | Cutie Poro | 66.00% | ~420 |
 | The Fire Below the Mountain | 63.00% | ~401 |
@@ -27,11 +27,11 @@
 | The Finisher | 40.00% | ~254 |
 | So Close | 37.00% | ~235 |
 | You Get Used To It | 36.00% | ~229 |
+| Biggest Snowball Ever | 34.00% | ~216 |
 | On The Rocks | 34.00% | ~216 |
 | Bullseye | 34.00% | ~216 |
 | Boosted! | 34.00% | ~216 |
 | Family | 33.00% | ~210 |
-| Biggest Snowball Ever | 33.00% | ~210 |
 | Freeze The Ice Witch | 33.00% | ~210 |
 | Deadliest and Biggest Snowball Ever! | 33.00% | ~210 |
 | Never Gets Old | 32.00% | ~204 |

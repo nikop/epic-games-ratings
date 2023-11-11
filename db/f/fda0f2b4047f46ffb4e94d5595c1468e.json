@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2433,9 +2433,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 8423,
+  "EOS_Progressed": 8424,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7588,6 +7588,11 @@
       "Time": "2023-11-11T08:08:29.3969467+00:00",
       "NumProgressed": 8423,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T09:08:02.8813248+00:00",
+      "NumProgressed": 8424,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7640,7 +7645,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6317
+      "UsersEstimate": 6318
     },
     {
       "ID": "ach07",
@@ -7656,7 +7661,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3369
+      "UsersEstimate": 3370
     },
     {
       "ID": "ach09",
@@ -7696,7 +7701,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ach14",
@@ -7728,7 +7733,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4464
+      "UsersEstimate": 4465
     },
     {
       "ID": "ach18",
@@ -7768,7 +7773,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1600
+      "UsersEstimate": 1601
     },
     {
       "ID": "ach23",
@@ -7808,7 +7813,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "ach28",
@@ -7888,7 +7893,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4885
+      "UsersEstimate": 4886
     },
     {
       "ID": "ach38",
@@ -7896,7 +7901,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3791
     },
     {
       "ID": "ach39",
@@ -7904,7 +7909,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3453
+      "UsersEstimate": 3454
     },
     {
       "ID": "ach40",
@@ -7928,7 +7933,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3706
+      "UsersEstimate": 3707
     },
     {
       "ID": "ach43",
@@ -7936,7 +7941,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3791
     },
     {
       "ID": "ach44",
@@ -7999,7 +8004,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8423,
+      "Progressed": 8424,
       "Completed": 0
     }
   ],
@@ -8007,8 +8012,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-11T08:00:31.3140832+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:08:29.3969459+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:08:02.881324+00:00",
   "LastUpdate_AppInfo": "2023-11-04T08:57:27.4088664+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:00:31.3140837+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:08:29.397005+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:59:38.084633+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:08:02.881457+00:00"
 }

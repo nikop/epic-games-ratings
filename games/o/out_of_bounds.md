@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Compiling (15)... | 47.00% | ~15 |
 | Almost there! | 47.00% | ~15 |
+| EnergyBackup >= 15 | 44.00% | ~14 |
 | Noisy saturation | 44.00% | ~14 |
 | Gamedev level 15 | 41.00% | ~13 |
-| EnergyBackup >= 15 | 41.00% | ~13 |
 | Errors found you | 41.00% | ~13 |
 | Package ready! | 38.00% | ~12 |
 | SoundsFun = 15; | 38.00% | ~12 |

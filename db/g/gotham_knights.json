@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 925,
+  "Ranking_Rating": 916,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 255,
+  "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.18,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -4011,10 +4011,16 @@
       "Rating": 4.18,
       "NumberOfAwards": 4960,
       "NumberOfAwardsMax": 2920
+    },
+    {
+      "Time": "2023-11-11T08:59:23.1108178+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 4961,
+      "NumberOfAwardsMax": 2920
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4960,
+  "NumberOfAwards": 4961,
   "NumberOfAwardsMax": 2920,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4034,7 +4040,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 251
+      "Count": 252
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4079,9 +4085,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76266,
+  "EOS_Progressed": 76267,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22199,6 +22205,11 @@
       "Time": "2023-11-11T08:04:07.3643427+00:00",
       "NumProgressed": 76266,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-11T09:03:41.6595626+00:00",
+      "NumProgressed": 76267,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22434,7 +22445,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21354
+      "UsersEstimate": 21355
     },
     {
       "ID": "FREEZE_1_5",
@@ -22522,7 +22533,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19066
+      "UsersEstimate": 19067
     },
     {
       "ID": "HARLEY_3",
@@ -22602,7 +22613,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25930
+      "UsersEstimate": 25931
     },
     {
       "ID": "MYSTERY_02",
@@ -22610,7 +22621,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19066
+      "UsersEstimate": 19067
     },
     {
       "ID": "MYSTERY_03",
@@ -22697,22 +22708,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76266,
+      "Progressed": 76267,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46546,
+      "Progressed": 46547,
       "Completed": 2673
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-10T21:07:14.2181021+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:04:07.3643421+00:00",
+  "LastChanged": "2023-11-11T08:59:23.1108177+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:03:41.659562+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:00:13.3158775+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:04:07.3644752+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:59:23.1108184+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:03:41.659862+00:00"
 }

@@ -18,6 +18,7 @@ Rating: 4.60 (Ranked 410)
 | Bone Peddler | 0.30% | ~16 |
 | Magical Synergy | 0.30% | ~16 |
 | Chaos Surge | 0.30% | ~16 |
+| Dawn of the Dread | 0.30% | ~16 |
 | Valley of Wonders | 0.20% | ~11 |
 | Digging for Treasure | 0.20% | ~11 |
 | Stronger Together | 0.20% | ~11 |
@@ -31,7 +32,6 @@ Rating: 4.60 (Ranked 410)
 | Sehiran Oasis | 0.20% | ~11 |
 | Prometheus Avenged | 0.20% | ~11 |
 | A Conqueror's Cohort | 0.20% | ~11 |
-| Dawn of the Dread | 0.20% | ~11 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | Return of the Wizard King | 0.10% | ~5 |
@@ -66,8 +66,8 @@ Rating: 4.60 (Ranked 410)
 | The Grey Wizard | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,342 (Ranked 183)  
-Completed: 7 (0.13%) (Ranked 258)  
+Progressed: 5,343 (Ranked 183)  
+Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -239,7 +239,7 @@ Completed: 7 (0.13%) (Ranked 258)
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
-| 2023-11-11 | 5,342 | 7 |
+| 2023-11-11 | 5,343 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 482)  
 Sum: 53 (Ranked 474)  

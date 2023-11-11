@@ -6,8 +6,8 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
-  "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_Completed": 253,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10329,9 +10329,9 @@
       "Count": 776
     }
   ],
-  "EOS_Progressed": 301845,
+  "EOS_Progressed": 301848,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 1220,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32354,6 +32354,11 @@
       "Time": "2023-11-11T08:09:39.7446626+00:00",
       "NumProgressed": 301845,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2023-11-11T09:09:01.9670398+00:00",
+      "NumProgressed": 301848,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 45,
@@ -32365,7 +32370,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48295
+      "UsersEstimate": 48296
     },
     {
       "ID": "PFA_10",
@@ -32397,7 +32402,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30184
+      "UsersEstimate": 30185
     },
     {
       "ID": "PFA_14",
@@ -32469,7 +32474,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30184
+      "UsersEstimate": 30185
     },
     {
       "ID": "PFA_22",
@@ -32549,7 +32554,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36221
+      "UsersEstimate": 36222
     },
     {
       "ID": "PFA_31",
@@ -32589,7 +32594,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30184
+      "UsersEstimate": 30185
     },
     {
       "ID": "PFA_36",
@@ -32693,7 +32698,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42258
+      "UsersEstimate": 42259
     },
     {
       "ID": "PFA_7",
@@ -32701,7 +32706,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42258
+      "UsersEstimate": 42259
     },
     {
       "ID": "PFA_8",
@@ -32709,7 +32714,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36221
+      "UsersEstimate": 36222
     },
     {
       "ID": "PFA_9",
@@ -32717,14 +32722,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30184
+      "UsersEstimate": 30185
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301845,
+      "Progressed": 301848,
       "Completed": 507
     }
   ],
@@ -32732,8 +32737,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-11T03:59:31.4662563+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:09:39.7446619+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:09:01.967039+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-11T07:59:24.5802856+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:09:39.7447946+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:58:43.1184322+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:09:01.9673489+00:00"
 }

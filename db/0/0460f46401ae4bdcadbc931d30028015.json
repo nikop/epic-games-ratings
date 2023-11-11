@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -573,9 +573,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3428,
+  "EOS_Progressed": 3429,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4793,6 +4793,11 @@
       "Time": "2023-11-11T08:06:22.2432096+00:00",
       "NumProgressed": 3428,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T09:05:37.6937953+00:00",
+      "NumProgressed": 3429,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4813,7 +4818,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "achievement_11",
@@ -4829,7 +4834,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     },
     {
       "ID": "achievement_13",
@@ -4972,7 +4977,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3428,
+      "Progressed": 3429,
       "Completed": 0
     }
   ],
@@ -4980,8 +4985,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-11T03:57:40.4470957+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:06:22.2432091+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:05:37.6937947+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-11T07:57:52.9401916+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:06:22.243242+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:57:29.2590607+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:05:37.6938349+00:00"
 }

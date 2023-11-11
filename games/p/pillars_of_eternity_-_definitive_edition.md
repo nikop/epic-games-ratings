@@ -6,12 +6,12 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~895 |
+| Kickstarter Backer | 82.00% | ~894 |
 | Completed Act I | 31.00% | ~338 |
-| 5 Upgrades in Stronghold | 26.00% | ~284 |
+| 5 Upgrades in Stronghold | 26.00% | ~283 |
 | First 5 Levels of Od Nua | 24.00% | ~262 |
 | Make an Adventurer | 23.00% | ~251 |
-| Completed Act II | 16.00% | ~175 |
+| Completed Act II | 16.00% | ~174 |
 | Enchanter | 15.00% | ~164 |
 | Disposition | 15.00% | ~164 |
 | The Watcher With Eight Friends | 15.00% | ~164 |
@@ -33,29 +33,29 @@ Number of Ratings: 2,847  (23.09.2022)
 | Explorer | 6.00% | ~65 |
 | A Voice from the Deep | 6.00% | ~65 |
 | Called to their Labor | 6.00% | ~65 |
-| Chef | 5.00% | ~55 |
-| From the Clouds to the Depths | 5.00% | ~55 |
-| Appease All of the Gods | 5.00% | ~55 |
-| Terror of the White March | 5.00% | ~55 |
+| Chef | 5.00% | ~54 |
+| From the Clouds to the Depths | 5.00% | ~54 |
+| Appease All of the Gods | 5.00% | ~54 |
+| Terror of the White March | 5.00% | ~54 |
 | Scribe | 4.00% | ~44 |
 | Won the Game!!! | 3.00% | ~33 |
 | The Storied Adventurer | 3.00% | ~33 |
 | Among the Moss and Peat | 2.00% | ~22 |
 | Legendary Enchanter | 1.00% | ~11 |
 | Path of the Damned | 0.60% | ~7 |
+| Expert | 0.60% | ~7 |
+| Solo | 0.60% | ~7 |
+| Triple Crown | 0.60% | ~7 |
+| Trial of Iron | 0.60% | ~7 |
+| Frozen Crown Solo | 0.60% | ~7 |
 | Relative Pacifism | 0.50% | ~5 |
-| Expert | 0.50% | ~5 |
 | Zero Knockouts | 0.50% | ~5 |
-| Solo | 0.50% | ~5 |
-| Triple Crown | 0.50% | ~5 |
-| Trial of Iron | 0.50% | ~5 |
 | No Rest for the Pro | 0.50% | ~5 |
 | Triple Crown Solo | 0.50% | ~5 |
 | Frozen Crown | 0.50% | ~5 |
-| Frozen Crown Solo | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,091 (Ranked 249)  
+Progressed: 1,090 (Ranked 249)  
 Completed: 2 (0.18%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,6 +96,7 @@ Completed: 2 (0.18%) (Ranked 250)
 | 2023-11-02 | 1,092 | 2 |
 | 2023-11-04 | 1,093 | 2 |
 | 2023-11-10 | 1,091 | 2 |
+| 2023-11-11 | 1,090 | 2 |
 ## Awards
 Max (Character Customization): 1,936  (Ranked 112)  
 Sum: 4,757 (Ranked 143)  

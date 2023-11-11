@@ -1,17 +1,17 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.18 (Ranked 925)  
+Rating: 4.19 (Ranked 916)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 51.00% | ~38,896 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,693 |
-| Loose Ends | 34.00% | ~25,930 |
-| To the Victor Go the Spoils | 28.00% | ~21,354 |
+| Loose Ends | 34.00% | ~25,931 |
+| To the Victor Go the Spoils | 28.00% | ~21,355 |
 | Knighthood | 27.00% | ~20,592 |
-| Get ReQ'd | 25.00% | ~19,066 |
-| Whispered Words | 25.00% | ~19,066 |
+| Get ReQ'd | 25.00% | ~19,067 |
+| Whispered Words | 25.00% | ~19,067 |
 | The Batman Family | 23.00% | ~17,541 |
 | Lock and Key | 22.00% | ~16,779 |
 | Something in the Clay | 21.00% | ~16,016 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,266 (Ranked 97)  
-Completed: 123 (0.16%) (Ranked 255)  
+Progressed: 76,267 (Ranked 97)  
+Completed: 123 (0.16%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -272,10 +272,10 @@ Completed: 123 (0.16%) (Ranked 255)
 | 2023-11-08 | 76,175 | 123 |
 | 2023-11-09 | 76,210 | 123 |
 | 2023-11-10 | 76,243 | 123 |
-| 2023-11-11 | 76,266 | 123 |
+| 2023-11-11 | 76,267 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,920  (Ranked 98)  
-Sum: 4,960 (Ranked 137)  
+Sum: 4,961 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
@@ -285,7 +285,7 @@ Diff (max vs sum): -39
 | This game is Relaxing | 258 |
 | This game has Quickly Understood Controls | 257 |
 | This game is Great for Beginners | 254 |
-| This game has Amazing Characters | 251 |
+| This game has Amazing Characters | 252 |
 | This game has Amazing Storytelling | 251 |
 | This game is Highly Recommended | 248 |
 | This game is Great for Quick Sessions | 60 |
@@ -551,3 +551,4 @@ Diff (max vs sum): -39
 | 2023-11-08 | 4.18 | 2,914 | 4,947 |
 | 2023-11-09 | 4.18 | 2,917 | 4,951 |
 | 2023-11-10 | 4.18 | 2,920 | 4,960 |
+| 2023-11-11 | 4.19 | 2,920 | 4,961 |

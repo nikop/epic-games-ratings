@@ -17,8 +17,8 @@
 | Yuna's Promise | 31.00% | ~122 |
 | Stone Retriever | 29.00% | ~114 |
 | Find myself | 27.00% | ~106 |
+| Min's Promise | 21.00% | ~83 |
 | Truebro | 21.00% | ~83 |
-| Min's Promise | 20.00% | ~79 |
 | Sia's Promise | 20.00% | ~79 |
 | Romantic | 16.00% | ~63 |
 | TentacleMAN | 11.00% | ~43 |

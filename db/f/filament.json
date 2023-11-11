@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -256,18 +256,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 664,
       "NumberOfAwardsMax": 569
+    },
+    {
+      "Time": "2023-11-11T09:02:28.7109084+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 665,
+      "NumberOfAwardsMax": 570
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 664,
-  "NumberOfAwardsMax": 569,
+  "NumberOfAwards": 665,
+  "NumberOfAwardsMax": 570,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 569
+      "Count": 570
     },
     {
       "Text": "This game is Highly Recommended",
@@ -306,10 +312,10 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205057,
-  "EOS_Completed": 525,
-  "EOS_NewPlayers": 397,
-  "EOS_NewCompleters": 1,
+  "EOS_Progressed": 205059,
+  "EOS_Completed": 526,
+  "EOS_NewPlayers": 398,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
     {
@@ -22271,6 +22277,11 @@
       "Time": "2023-11-11T08:06:55.5405357+00:00",
       "NumProgressed": 205057,
       "NumCompleted": 525
+    },
+    {
+      "Time": "2023-11-11T09:06:05.5313056+00:00",
+      "NumProgressed": 205059,
+      "NumCompleted": 526
     }
   ],
   "TotalAchievements": 29,
@@ -22306,7 +22317,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192754
+      "UsersEstimate": 192755
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -22418,7 +22429,7 @@
       "Name": "So you\u0027re saying I don\u0027t touch these ones?",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 12303
+      "UsersEstimate": 12304
     },
     {
       "ID": "ACHIEVEMENT_OPUS",
@@ -22513,16 +22524,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205057,
-      "Completed": 525
+      "Progressed": 205059,
+      "Completed": 526
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2023-11-10T08:01:09.860414+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:06:55.5405353+00:00",
+  "LastChanged": "2023-11-11T09:02:28.7109082+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:06:05.5313048+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.2818735+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:01:09.1181013+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:06:55.5406549+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:02:28.7109089+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:06:05.5315737+00:00"
 }

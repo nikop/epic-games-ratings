@@ -10,11 +10,11 @@ Rating: 4.22 (Ranked 896)
 | Resignation Reprise | 1.00% | ~17 |
 | Admiring the view | 0.80% | ~13 |
 | “Here boy…“ | 0.50% | ~8 |
+| War of the worlds | 0.50% | ~8 |
 | Blues Jam | 0.40% | ~7 |
 | Family First | 0.40% | ~7 |
 | Resignation | 0.40% | ~7 |
 | Understanding | 0.40% | ~7 |
-| War of the worlds | 0.40% | ~7 |
 | First contact | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,653 (Ranked 227)  

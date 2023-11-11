@@ -1,16 +1,16 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.39 (Ranked 747)  
+Rating: 4.38 (Ranked 763)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 9.00% | ~26,152 |
-| IT MAKES BOOM! | 6.00% | ~17,435 |
-| EXTRA BOOST | 4.00% | ~11,623 |
-| PROTECTED | 3.00% | ~8,717 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,717 |
-| PRO | 3.00% | ~8,717 |
+| ROOKIE | 9.00% | ~26,156 |
+| IT MAKES BOOM! | 6.00% | ~17,437 |
+| EXTRA BOOST | 4.00% | ~11,625 |
+| PROTECTED | 3.00% | ~8,719 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,719 |
+| PRO | 3.00% | ~8,719 |
 | A TIGER'S FEAR | 2.00% | ~5,812 |
 | AGGRESSIVE RACER | 2.00% | ~5,812 |
 | IT'S A LONG WAY TO THE TOP | 1.00% | ~2,906 |
@@ -20,9 +20,9 @@ Rating: 4.39 (Ranked 747)
 | TRAINING HARD | 0.70% | ~2,034 |
 | BE OUR GUEST | 0.70% | ~2,034 |
 | DEFEAT OUR CHAMPION | 0.70% | ~2,034 |
-| THE EYE OF THE HUNTER | 0.60% | ~1,743 |
-| FRIENDLY | 0.60% | ~1,743 |
-| MASTER | 0.60% | ~1,743 |
+| THE EYE OF THE HUNTER | 0.60% | ~1,744 |
+| FRIENDLY | 0.60% | ~1,744 |
+| MASTER | 0.60% | ~1,744 |
 | EXPERIENCED CREW | 0.50% | ~1,453 |
 | ACE BRAWLER | 0.40% | ~1,162 |
 | ACE DEFENDER | 0.40% | ~1,162 |
@@ -30,8 +30,8 @@ Rating: 4.39 (Ranked 747)
 | FRAMED! | 0.20% | ~581 |
 | ACE TRICKSTER | 0.20% | ~581 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290,578 (Ranked 52)  
-Completed: 279 (0.10%) (Ranked 269)  
+Progressed: 290,619 (Ranked 52)  
+Completed: 279 (0.10%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -231,7 +231,7 @@ Completed: 279 (0.10%) (Ranked 269)
 | 2023-11-08 | 286,412 | 276 |
 | 2023-11-09 | 287,793 | 278 |
 | 2023-11-10 | 289,858 | 279 |
-| 2023-11-11 | 290,578 | 279 |
+| 2023-11-11 | 290,619 | 279 |
 ## Awards
 Max (Great for Beginners): 62  (Ranked 410)  
 Sum: 512 (Ranked 320)  

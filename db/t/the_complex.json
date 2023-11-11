@@ -4,8 +4,8 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 94,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "ID": "free_champagne",
       "SetID": "d4f4pll",
       "Name": "Free Champagne",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 294
+      "UsersEstimate": 300
     },
     {
       "ID": "kamikaze",
@@ -1085,9 +1085,9 @@
       "ID": "storage_hunter",
       "SetID": "d4f4pll",
       "Name": "Storage Hunter",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 300
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -1118,8 +1118,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:08:46.3495518+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:08:17.3618837+00:00",
   "LastUpdate_AppInfo": "2023-11-04T14:56:57.9855569+00:00",
-  "LastUpdate_Ratings": "2023-11-11T07:57:18.6357316+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:08:46.3495686+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:57:01.5427388+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:08:17.3619152+00:00"
 }

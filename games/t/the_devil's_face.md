@@ -6,10 +6,10 @@
 | ---- | ---------- | ----- |
 | The gateway to the underworld | 46.00% | ~256 |
 | Is it merely a dream? | 43.00% | ~240 |
-| The path to enlightenment | 28.00% | ~156 |
+| The path to enlightenment | 29.00% | ~162 |
 | Our efforts are finally yielding progress | 25.00% | ~139 |
 | This looks really bad | 23.00% | ~128 |
-| Unholy lands | 19.00% | ~106 |
+| Unholy lands | 20.00% | ~111 |
 | Unveiling the Magnitude of Sin | 12.00% | ~67 |
 | The court | 9.00% | ~50 |
 | Holy Nails | 8.00% | ~45 |

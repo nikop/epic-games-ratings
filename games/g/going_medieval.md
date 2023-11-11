@@ -6,17 +6,17 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Get A Room | 75.00% | ~5,023 |
-| Having A Field Day | 75.00% | ~5,023 |
-| Reap What You Sow | 72.00% | ~4,822 |
-| The First Day | 69.00% | ~4,621 |
-| Green Thumb | 67.00% | ~4,487 |
-| Novice Researcher | 67.00% | ~4,487 |
-| Home Cooked Meal | 60.00% | ~4,018 |
-| Onward | 57.00% | ~3,817 |
-| The First Week | 55.00% | ~3,683 |
-| Beam Me Up | 52.00% | ~3,482 |
-| Studious Researcher | 52.00% | ~3,482 |
+| Get A Room | 75.00% | ~5,024 |
+| Having A Field Day | 75.00% | ~5,024 |
+| Reap What You Sow | 72.00% | ~4,823 |
+| The First Day | 69.00% | ~4,622 |
+| Green Thumb | 67.00% | ~4,488 |
+| Novice Researcher | 67.00% | ~4,488 |
+| Home Cooked Meal | 60.00% | ~4,019 |
+| Onward | 57.00% | ~3,818 |
+| The First Week | 55.00% | ~3,684 |
+| Beam Me Up | 52.00% | ~3,483 |
+| Studious Researcher | 52.00% | ~3,483 |
 | Putting Food on the Table | 49.00% | ~3,282 |
 | Adept Researcher | 45.00% | ~3,014 |
 | Retribution | 42.00% | ~2,813 |
@@ -27,10 +27,10 @@ Number of Ratings: 706  (23.09.2022)
 | Fit For A King | 30.00% | ~2,009 |
 | Winter Is Coming | 28.00% | ~1,875 |
 | Winter Is Here | 25.00% | ~1,674 |
-| Disassembled | 22.00% | ~1,473 |
-| Oh Deer! | 22.00% | ~1,473 |
-| A Party Now | 21.00% | ~1,406 |
-| All Year Round | 21.00% | ~1,406 |
+| Disassembled | 22.00% | ~1,474 |
+| Oh Deer! | 22.00% | ~1,474 |
+| A Party Now | 21.00% | ~1,407 |
+| All Year Round | 21.00% | ~1,407 |
 | Nothing Wasted | 13.00% | ~871 |
 | Don't Cry Wolf | 13.00% | ~871 |
 | Deerly Departed | 8.00% | ~536 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~134 |
 | Wabbit Season | 0.50% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,697 (Ranked 176)  
+Progressed: 6,698 (Ranked 176)  
 Completed: 14 (0.21%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,11 +222,11 @@ Completed: 14 (0.21%) (Ranked 242)
 | 2023-11-08 | 6,674 | 14 |
 | 2023-11-09 | 6,678 | 14 |
 | 2023-11-10 | 6,693 | 14 |
-| 2023-11-11 | 6,697 | 14 |
+| 2023-11-11 | 6,698 | 14 |
 ## Awards
 Max (Great for Beginners): 124  (Ranked 334)  
-Sum: 1,007 (Ranked 258)  
-Diff (max vs sum): 76  
+Sum: 1,007 (Ranked 259)  
+Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 124 |

@@ -1,12 +1,12 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.38 (Ranked 764)  
+Rating: 4.38 (Ranked 763)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Survivor | 31.00% | ~80,063 |
-| Predator I | 23.00% | ~59,401 |
+| Predator I | 23.00% | ~59,402 |
 | Fixer I | 10.00% | ~25,827 |
 | A week in Century City | 10.00% | ~25,827 |
 | The Wait | 7.00% | ~18,079 |
@@ -62,7 +62,7 @@ Rating: 4.38 (Ranked 764)
 | Capitalist III | 0.10% | ~258 |
 | Hell Is You | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,267 (Ranked 55)  
+Progressed: 258,268 (Ranked 55)  
 Completed: 3 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,11 +267,11 @@ Completed: 3 (0.00%) (Ranked 347)
 | 2023-11-08 | 258,189 | 3 |
 | 2023-11-09 | 258,219 | 3 |
 | 2023-11-10 | 258,251 | 3 |
-| 2023-11-11 | 258,267 | 3 |
+| 2023-11-11 | 258,268 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 48  (Ranked 436)  
-Sum: 312 (Ranked 357)  
-Diff (max vs sum): 79  
+Sum: 340 (Ranked 353)  
+Diff (max vs sum): 83  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 48 |
@@ -282,7 +282,7 @@ Diff (max vs sum): 79
 | This game is Highly Recommended | 33 |
 | This game has a Competitive Community | 30 |
 | This game has Quickly Understood Controls | 28 |
-| This game has Competitive Players | 25 |
+| This game has Competitive Players | 28 |
 | This game is Extremely Fun | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -448,3 +448,4 @@ Diff (max vs sum): 79
 | 2023-11-07 | 4.38 | 47 | 308 |
 | 2023-11-08 | 4.38 | 48 | 310 |
 | 2023-11-09 | 4.38 | 48 | 312 |
+| 2023-11-11 | 4.38 | 48 | 340 |

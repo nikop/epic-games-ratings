@@ -6,9 +6,9 @@
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -435,9 +435,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5342,
+  "EOS_Progressed": 5343,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6905,6 +6905,11 @@
       "Time": "2023-11-11T06:03:02.6711627+00:00",
       "NumProgressed": 5342,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-11T09:03:16.6891488+00:00",
+      "NumProgressed": 5343,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7370,9 +7375,9 @@
       "ID": "58",
       "SetID": "7132754",
       "Name": "Dawn of the Dread",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "59",
@@ -7395,13 +7400,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5342,
+      "Progressed": 5343,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5342,
+      "Progressed": 5343,
       "Completed": 7
     }
   ],
@@ -7409,8 +7414,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T06:00:08.6294982+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:03:37.0295468+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:03:16.6891481+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:01:02.2528102+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:03:37.0296356+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:00:03.1628121+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:03:16.6892507+00:00"
 }

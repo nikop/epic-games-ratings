@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,7 +770,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4779,
+  "EOS_Progressed": 4780,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
@@ -9040,6 +9040,11 @@
       "Time": "2023-11-11T06:09:12.8817533+00:00",
       "NumProgressed": 4779,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-11T09:09:10.7855946+00:00",
+      "NumProgressed": 4780,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9148,7 +9153,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -9164,7 +9169,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1051
+      "UsersEstimate": 1052
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -9235,15 +9240,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4779,
+      "Progressed": 4780,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:09:50.1423902+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:09:10.7855939+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:03:04.6309369+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:09:50.1424421+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:02:48.6013341+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:09:10.785668+00:00"
 }

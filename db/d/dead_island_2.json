@@ -6369,10 +6369,10 @@
       "Count": 453
     }
   ],
-  "EOS_Progressed": 716372,
-  "EOS_Completed": 2375,
-  "EOS_NewPlayers": 4391,
-  "EOS_NewCompleters": 58,
+  "EOS_Progressed": 716389,
+  "EOS_Completed": 2376,
+  "EOS_NewPlayers": 4383,
+  "EOS_NewCompleters": 59,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29744,6 +29744,11 @@
       "Time": "2023-11-11T08:03:33.9922026+00:00",
       "NumProgressed": 716372,
       "NumCompleted": 2375
+    },
+    {
+      "Time": "2023-11-11T09:03:14.1558492+00:00",
+      "NumProgressed": 716389,
+      "NumCompleted": 2376
     }
   ],
   "TotalAchievements": 51,
@@ -29803,7 +29808,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_bookworm",
@@ -29835,7 +29840,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -29851,7 +29856,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_explorer",
@@ -29867,7 +29872,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_finisher",
@@ -29883,7 +29888,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_good_eyesight",
@@ -29963,7 +29968,7 @@
       "Name": "Zombologist",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_legendary",
@@ -29971,7 +29976,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_magnum_opus",
@@ -29987,7 +29992,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_mind_over_monster",
@@ -30051,7 +30056,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_the_vcla",
@@ -30067,7 +30072,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 2865
+      "UsersEstimate": 2866
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -30123,7 +30128,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ach_gardening_tools",
@@ -30139,7 +30144,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30162,13 +30167,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 716372,
-      "Completed": 2375
+      "Progressed": 716389,
+      "Completed": 2376
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 41914,
+      "Progressed": 41931,
       "Completed": 36520
     }
   ],
@@ -30176,8 +30181,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-11T04:59:06.6833727+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:03:33.9922022+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:03:14.1558484+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:06.2969966+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:00:04.1508731+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:03:33.9923462+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:59:15.4790282+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:03:14.1560634+00:00"
 }

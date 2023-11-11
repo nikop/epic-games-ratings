@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 345,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -403,9 +403,9 @@
       "Count": 52
     }
   ],
-  "EOS_Progressed": 1296,
+  "EOS_Progressed": 1297,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -2938,6 +2938,11 @@
       "Time": "2023-11-07T14:09:14.0526616+00:00",
       "NumProgressed": 1296,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T09:08:47.1368071+00:00",
+      "NumProgressed": 1297,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -2995,9 +3000,9 @@
       "ID": "DOUBLE_AGENT",
       "SetID": "bf13m8j",
       "Name": "Double agent",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 195
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -3005,7 +3010,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1283
+      "UsersEstimate": 1284
     },
     {
       "ID": "EXPERT_1",
@@ -3125,7 +3130,7 @@
       "Name": "Paranoia",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "PRIVATE_EYE",
@@ -3236,15 +3241,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1296,
+      "Progressed": 1297,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2023-11-03T17:57:55.7845483+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:09:21.7551206+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:08:47.1368063+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:49.7458005+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:02:52.2878278+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:09:21.7551541+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:02:38.6168136+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:08:47.1368652+00:00"
 }

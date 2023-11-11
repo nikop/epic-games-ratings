@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
     "PcReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -5187,9 +5187,9 @@
       "ID": "achievement_2",
       "SetID": "222fo9l",
       "Name": "Lab Rat",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1242
+      "UsersEstimate": 1259
     },
     {
       "ID": "achievement_20",
@@ -5484,8 +5484,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-05T01:50:21.7166978+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:05:37.6690343+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:04:59.3676726+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.4707049+00:00",
-  "LastUpdate_Ratings": "2023-11-11T07:59:45.8539721+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:05:37.6690883+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:59:00.8107168+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:04:59.367794+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
   "Ranking_Rating": 486,
   "Ranking_Popularity": 231,
-  "Ranking_PopularitySum": 305,
+  "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1467,7 +1467,7 @@
   ],
   "EOS_Progressed": 13655,
   "EOS_Completed": 52,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -14688,8 +14688,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-10T15:59:43.1185863+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:09:04.1741651+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:08:32.2434719+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:17.5596135+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:00:50.968391+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:09:04.1742455+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:59:53.89186+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:08:32.2437609+00:00"
 }

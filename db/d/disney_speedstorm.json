@@ -2,11 +2,11 @@
   "ID": "47bf168a2214456fb7bd4c217e2a4fd6",
   "Name": "Disney Speedstorm",
   "ProductSlug": "disney-speedstorm",
-  "Ranking_Rating": 747,
+  "Ranking_Rating": 763,
   "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 320,
   "Ranking_EOS_Progress": 52,
-  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 13,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.39,
+  "Rating": 4.38,
   "RatingHistory": [
     {
       "Time": "2023-09-30T08:59:17.2887829+00:00",
@@ -973,6 +973,12 @@
       "Rating": 4.39,
       "NumberOfAwards": 512,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2023-11-11T08:59:31.3250915+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 512,
+      "NumberOfAwardsMax": 62
     }
   ],
   "ReviewsDisabled": false,
@@ -1053,9 +1059,9 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 290578,
+  "EOS_Progressed": 290619,
   "EOS_Completed": 279,
-  "EOS_NewPlayers": 12849,
+  "EOS_NewPlayers": 12830,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11508,6 +11514,11 @@
       "Time": "2023-11-11T08:05:50.0918522+00:00",
       "NumProgressed": 290578,
       "NumCompleted": 279
+    },
+    {
+      "Time": "2023-11-11T09:05:10.220508+00:00",
+      "NumProgressed": 290619,
+      "NumCompleted": 279
     }
   ],
   "TotalAchievements": 24,
@@ -11527,7 +11538,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 11623
+      "UsersEstimate": 11625
     },
     {
       "ID": "11",
@@ -11559,7 +11570,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17435
+      "UsersEstimate": 17437
     },
     {
       "ID": "15",
@@ -11615,7 +11626,7 @@
       "Name": "PROTECTED",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 8717
+      "UsersEstimate": 8719
     },
     {
       "ID": "21",
@@ -11631,7 +11642,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 0.6,
       "XP": 55,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "23",
@@ -11647,7 +11658,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 8717
+      "UsersEstimate": 8719
     },
     {
       "ID": "3",
@@ -11655,7 +11666,7 @@
       "Name": "FRIENDLY",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "4",
@@ -11671,7 +11682,7 @@
       "Name": "ROOKIE",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 26152
+      "UsersEstimate": 26156
     },
     {
       "ID": "6",
@@ -11679,7 +11690,7 @@
       "Name": "PRO",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 8717
+      "UsersEstimate": 8719
     },
     {
       "ID": "7",
@@ -11687,7 +11698,7 @@
       "Name": "MASTER",
       "Percentage": 0.6,
       "XP": 65,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "8",
@@ -11710,16 +11721,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 290578,
+      "Progressed": 290619,
       "Completed": 279
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
-  "LastChanged": "2023-11-11T02:46:56.4988728+00:00",
-  "LastChanged_Achievements": "2023-11-11T08:05:50.0918519+00:00",
+  "LastChanged": "2023-11-11T08:59:31.3250913+00:00",
+  "LastChanged_Achievements": "2023-11-11T09:05:10.2205073+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:29.9120851+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:00:23.5665714+00:00",
-  "LastUpdate_Achievements": "2023-11-11T08:05:50.091915+00:00"
+  "LastUpdate_Ratings": "2023-11-11T08:59:31.3250918+00:00",
+  "LastUpdate_Achievements": "2023-11-11T09:05:10.220592+00:00"
 }
