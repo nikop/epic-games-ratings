@@ -23,12 +23,12 @@
 | Onk Boga VII | 36.00% | ~99 |
 | Onk Boga VIII | 35.00% | ~96 |
 | Blubb | 35.00% | ~96 |
+| Onk Boga IX | 33.00% | ~91 |
+| AKRE! | 33.00% | ~91 |
 | ParaPara! | 32.00% | ~88 |
 | Kokakoka | 32.00% | ~88 |
-| Onk Boga IX | 32.00% | ~88 |
-| AKRE! | 32.00% | ~88 |
 | Blunga 15 | 31.00% | ~85 |
-| Blunga 20 | 11.00% | ~30 |
+| Blunga 20 | 12.00% | ~33 |
 | Blunga 25 | 7.00% | ~19 |
 | Blunga 30 | 6.00% | ~16 |
 ## Popularity (Based on EOS Achievements)

@@ -12,18 +12,18 @@ Rating: 4.61 (Ranked 384)
 | Walls Cannot Stop Us | 0.50% | ~27 |
 | Freed Lands of Manuhari | 0.50% | ~27 |
 | From Friends to Family | 0.40% | ~21 |
+| Magical Synergy | 0.40% | ~21 |
 | Spoils of War | 0.40% | ~21 |
 | There Can Only Be One! | 0.30% | ~16 |
 | Full Ascension | 0.30% | ~16 |
 | Bone Peddler | 0.30% | ~16 |
 | Stronger Together | 0.30% | ~16 |
-| Magical Synergy | 0.30% | ~16 |
+| In a Liege of Your Own | 0.30% | ~16 |
 | Chaos Surge | 0.30% | ~16 |
 | Dawn of the Dread | 0.30% | ~16 |
 | Valley of Wonders | 0.20% | ~11 |
 | Digging for Treasure | 0.20% | ~11 |
 | Seat of Power | 0.20% | ~11 |
-| In a Liege of Your Own | 0.20% | ~11 |
 | Impenetrable Fortress | 0.20% | ~11 |
 | Intimidation Tactics | 0.20% | ~11 |
 | Here be Dragons | 0.20% | ~11 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | The Grey Wizard | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,344 (Ranked 183)  
+Progressed: 5,345 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
-| 2023-11-11 | 5,344 | 7 |
+| 2023-11-11 | 5,345 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 482)  
 Sum: 53 (Ranked 474)  

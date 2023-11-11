@@ -5,10 +5,10 @@ Rating: 3.95 (Ranked 1,005)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 2.00% | ~1,807 |
-| First One’s Free | 2.00% | ~1,807 |
-| Downed but Not Outed | 2.00% | ~1,807 |
-| Too Old for This | 2.00% | ~1,807 |
+| Neophyte Ninja | 2.00% | ~1,808 |
+| First One’s Free | 2.00% | ~1,808 |
+| Downed but Not Outed | 2.00% | ~1,808 |
+| Too Old for This | 2.00% | ~1,808 |
 | Underworld Initiate | 1.00% | ~904 |
 | Roid Ranger | 1.00% | ~904 |
 | King of the Hill | 1.00% | ~904 |
@@ -19,15 +19,15 @@ Rating: 3.95 (Ranked 1,005)
 | Case Closed | 0.90% | ~813 |
 | Rockay Rex | 0.90% | ~813 |
 | Hidden Sonata | 0.80% | ~723 |
-| Track Star | 0.70% | ~632 |
-| True Player | 0.70% | ~632 |
+| Track Star | 0.70% | ~633 |
+| True Player | 0.70% | ~633 |
 | Headhunter | 0.60% | ~542 |
 | I Like Trains | 0.50% | ~452 |
 | Freebooter | 0.50% | ~452 |
-| Legend Looter | 0.40% | ~361 |
-| Imports and Exports | 0.40% | ~361 |
-| Foo Finder | 0.40% | ~361 |
-| Moneybags | 0.40% | ~361 |
+| Legend Looter | 0.40% | ~362 |
+| Imports and Exports | 0.40% | ~362 |
+| Foo Finder | 0.40% | ~362 |
+| Moneybags | 0.40% | ~362 |
 | Savvy Seeker | 0.30% | ~271 |
 | Olympus Ascended | 0.30% | ~271 |
 | Ding Dong | 0.30% | ~271 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,357 (Ranked 91)  
+Progressed: 90,376 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
-| 2023-11-11 | 90,357 | 55 |
+| 2023-11-11 | 90,376 | 55 |
 ## Awards
 Max (Diverse Characters): 526  (Ranked 203)  
 Sum: 2,987 (Ranked 175)  

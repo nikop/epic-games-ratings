@@ -8,11 +8,11 @@ Number of Ratings: 98  (23.09.2022)
 | ---- | ---------- | ----- |
 | Peak Performance | 54.00% | ~3,897 |
 | Tutti Eroi! | 54.00% | ~3,897 |
-| You Shall Not Pass | 53.00% | ~3,824 |
+| You Shall Not Pass | 53.00% | ~3,825 |
 | Avanti Savoia! | 47.00% | ~3,392 |
 | Mamma Mia! | 38.00% | ~2,742 |
 | Conrad von Hotzensocks | 35.00% | ~2,526 |
-| Gabriele D'Annunzio | 34.00% | ~2,453 |
+| Gabriele D'Annunzio | 34.00% | ~2,454 |
 | Silver Lining | 30.00% | ~2,165 |
 | Aurelio Baruzzi | 24.00% | ~1,732 |
 | Decimation | 22.00% | ~1,588 |
@@ -33,17 +33,17 @@ Number of Ratings: 98  (23.09.2022)
 | Dante's Inferno | 11.00% | ~794 |
 | Millenial | 11.00% | ~794 |
 | I Have the High Ground | 10.00% | ~722 |
-| The Show Must Go On | 9.00% | ~649 |
-| Tosca | 9.00% | ~649 |
+| The Show Must Go On | 9.00% | ~650 |
+| Tosca | 9.00% | ~650 |
 | 12th Bottle of the Isonzo | 7.00% | ~505 |
 | Cercatore d'Oro | 6.00% | ~433 |
 | The Enlightment | 6.00% | ~433 |
 | Generalissimo | 5.00% | ~361 |
 | "O La Vittoria, O Tutti Accoppati" | 4.00% | ~289 |
 | Seeing Red | 4.00% | ~289 |
-| Farewell to Arms | 3.00% | ~216 |
-| Ponte of No Return | 3.00% | ~216 |
-| Soča Drag | 3.00% | ~216 |
+| Farewell to Arms | 3.00% | ~217 |
+| Ponte of No Return | 3.00% | ~217 |
+| Soča Drag | 3.00% | ~217 |
 | Saboteur | 2.00% | ~144 |
 | Compagnia della Morte | 1.00% | ~72 |
 | Drop and Give Me 20 | 1.00% | ~72 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~29 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,216 (Ranked 173)  
+Progressed: 7,217 (Ranked 173)  
 Completed: 9 (0.12%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 9 (0.12%) (Ranked 265)
 | 2023-11-08 | 7,125 | 9 |
 | 2023-11-09 | 7,134 | 9 |
 | 2023-11-10 | 7,195 | 9 |
-| 2023-11-11 | 7,216 | 9 |
+| 2023-11-11 | 7,217 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 464)  
 Sum: 275 (Ranked 370)  

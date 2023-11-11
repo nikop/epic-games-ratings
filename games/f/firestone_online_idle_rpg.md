@@ -5,21 +5,21 @@ Rating: 4.10 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,052 |
-| World Map | 79.00% | ~1,743 |
-| Temple of Eternals | 57.00% | ~1,257 |
-| Prestigious | 54.00% | ~1,191 |
+| Victor | 93.00% | ~2,053 |
+| World Map | 79.00% | ~1,744 |
+| Temple of Eternals | 57.00% | ~1,258 |
+| Prestigious | 54.00% | ~1,192 |
 | Fellowship Power | 42.00% | ~927 |
 | Guild Power | 26.00% | ~574 |
-| Prestigious x10 | 23.00% | ~507 |
+| Prestigious x10 | 23.00% | ~508 |
 | The game is on | 21.00% | ~463 |
 | Exotic Merchant | 19.00% | ~419 |
 | Dragon Clicker | 17.00% | ~375 |
 | Inspection | 17.00% | ~375 |
 | Miner Clicker | 17.00% | ~375 |
-| Enlightenment | 16.00% | ~353 |
 | Full Party | 16.00% | ~353 |
 | Dragon Master | 15.00% | ~331 |
+| Enlightenment | 15.00% | ~331 |
 | Hero inspection | 15.00% | ~331 |
 | Lieutenant | 15.00% | ~331 |
 | Mysterious Rock | 14.00% | ~309 |
@@ -43,13 +43,13 @@ Rating: 4.10 (Ranked 958)
 | The father of Dragons | 10.00% | ~221 |
 | Here We Go Again | 9.00% | ~199 |
 | Trader | 9.00% | ~199 |
-| Blueprint Upgrades | 8.00% | ~176 |
-| Crystal Mining | 8.00% | ~176 |
-| Dragon Slayer | 8.00% | ~176 |
-| Enchanting skill | 8.00% | ~176 |
-| Engineer Mastery | 8.00% | ~176 |
-| The Expeditioner | 8.00% | ~176 |
-| Weekly Quest Completionist | 8.00% | ~176 |
+| Blueprint Upgrades | 8.00% | ~177 |
+| Crystal Mining | 8.00% | ~177 |
+| Dragon Slayer | 8.00% | ~177 |
+| Enchanting skill | 8.00% | ~177 |
+| Engineer Mastery | 8.00% | ~177 |
+| The Expeditioner | 8.00% | ~177 |
+| Weekly Quest Completionist | 8.00% | ~177 |
 | How Do You Turn This On? | 7.00% | ~154 |
 | Lock And Load | 7.00% | ~154 |
 | Missions Dedication | 7.00% | ~154 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 958)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,206 (Ranked 215)  
+Progressed: 2,207 (Ranked 215)  
 Completed: 2 (0.09%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2 (0.09%) (Ranked 276)
 | 2023-11-08 | 2,124 | 2 |
 | 2023-11-09 | 2,129 | 2 |
 | 2023-11-10 | 2,189 | 2 |
-| 2023-11-11 | 2,206 | 2 |
+| 2023-11-11 | 2,207 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 488)  
 Sum: 58 (Ranked 471)  

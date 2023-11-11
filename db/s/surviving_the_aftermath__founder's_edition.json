@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1398,9 +1398,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10311,
+  "EOS_Progressed": 10312,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 231,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -16848,6 +16848,11 @@
       "Time": "2023-11-11T10:06:15.1469613+00:00",
       "NumProgressed": 10311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T11:07:08.7088962+00:00",
+      "NumProgressed": 10312,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -16955,7 +16960,7 @@
       "Name": "Famous Healer",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 3918
+      "UsersEstimate": 3919
     },
     {
       "ID": "21",
@@ -16963,7 +16968,7 @@
       "Name": "The Great Healer",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3196
+      "UsersEstimate": 3197
     },
     {
       "ID": "22",
@@ -16971,7 +16976,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7527
+      "UsersEstimate": 7528
     },
     {
       "ID": "23",
@@ -17019,7 +17024,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "29",
@@ -17211,7 +17216,7 @@
       "Name": "Big Catastrofan",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "50",
@@ -17315,7 +17320,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "9",
@@ -17330,15 +17335,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10311,
+      "Progressed": 10312,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-09T17:00:23.6229732+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:06:15.1469606+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:07:08.7088957+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.6653375+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:01:16.7087925+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:06:15.1472291+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:02:41.6179939+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:07:08.7090189+00:00"
 }

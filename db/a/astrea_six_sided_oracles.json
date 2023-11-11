@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 448,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1039,9 +1039,9 @@
       "ID": "AquarianMastery",
       "SetID": "1jeo1g7",
       "Name": "Aquarian Mastery",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "BehenianChampion",
@@ -1150,8 +1150,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:06:36.1340403+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:07:32.9958885+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:15.9709684+00:00",
-  "LastUpdate_Ratings": "2023-11-11T09:58:38.9948005+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:06:36.1342424+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:58:42.9946939+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:07:32.9959636+00:00"
 }

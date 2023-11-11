@@ -82,6 +82,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hessian Mercenaries | 0.10% | ~452 |
 | Holiest Roman Empire | 0.10% | ~452 |
 | Holy Horder | 0.10% | ~452 |
+| Ideas Guy | 0.10% | ~452 |
 | Imperio español | 0.10% | ~452 |
 | Imposter Syndrome | 0.10% | ~452 |
 | In the Name of the Father | 0.10% | ~452 |
@@ -98,6 +99,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Jerusalem | 0.10% | ~452 |
 | Kingdom of God | 0.10% | ~452 |
 | Laughingstock | 0.10% | ~452 |
+| Lazarus | 0.10% | ~452 |
 | The Levant Turnabout | 0.10% | ~452 |
 | Liberty or Death | 0.10% | ~452 |
 | Live Long and Prosper | 0.10% | ~452 |
@@ -252,7 +254,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hoarder | 0.00% | ~0 |
 | Holy Trinity | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
-| Ideas Guy | 0.00% | ~0 |
 | An Industrial Evolution | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
@@ -268,7 +269,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
 | Land of Eastern Jade | 0.00% | ~0 |
-| Lazarus | 0.00% | ~0 |
 | Lessons of Hemmingstedt | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
 | Lion of the North | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,131 (Ranked 41)  
+Progressed: 452,201 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,7 +575,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
-| 2023-11-11 | 452,131 | 1 |
+| 2023-11-11 | 452,201 | 1 |
 ## Awards
 Max (Educational): 6,946  (Ranked 54)  
 Sum: 57,081 (Ranked 24)  

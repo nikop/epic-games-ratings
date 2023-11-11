@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -5792,9 +5792,9 @@
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
       "SetID": "816efe",
       "Name": "Omelette Du Fromage",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1201
+      "UsersEstimate": 1238
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -6113,8 +6113,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-09T02:16:14.1164804+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:06:44.3874907+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:07:43.1163501+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-11T09:59:06.02476+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:06:44.3875649+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:59:15.7195683+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:07:43.1163934+00:00"
 }

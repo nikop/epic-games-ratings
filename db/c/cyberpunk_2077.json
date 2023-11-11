@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 11,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -14898,10 +14898,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 348848,
       "NumberOfAwardsMax": 104816
+    },
+    {
+      "Time": "2023-11-11T10:58:50.0502142+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 348955,
+      "NumberOfAwardsMax": 104816
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 348848,
+  "NumberOfAwards": 348955,
   "NumberOfAwardsMax": 104816,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14951,7 +14957,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 20792
+      "Count": 20899
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -14978,9 +14984,9 @@
       "Count": 12743
     }
   ],
-  "EOS_Progressed": 896148,
+  "EOS_Progressed": 896160,
   "EOS_Completed": 2762,
-  "EOS_NewPlayers": 995,
+  "EOS_NewPlayers": 1001,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38188,6 +38194,11 @@
       "Time": "2023-11-11T10:04:36.4652095+00:00",
       "NumProgressed": 896148,
       "NumCompleted": 2762
+    },
+    {
+      "Time": "2023-11-11T11:05:13.5204374+00:00",
+      "NumProgressed": 896160,
+      "NumCompleted": 2762
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38272,7 +38283,7 @@
       "Name": "Gun Fu",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8961
+      "UsersEstimate": 8962
     },
     {
       "ID": "Gunslinger",
@@ -38735,21 +38746,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896148,
+      "Progressed": 896160,
       "Completed": 2762
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24771,
+      "Progressed": 24783,
       "Completed": 10207
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-11T08:58:08.1994356+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:04:36.4652088+00:00",
+  "LastChanged": "2023-11-11T10:58:50.050214+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:05:13.520437+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-11T09:58:44.7648092+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:04:36.4655587+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:58:50.0502146+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:05:13.5206266+00:00"
 }

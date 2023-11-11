@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
     "PcReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -161,9 +161,9 @@
       "ID": "LostCat",
       "SetID": "a2ci5mh",
       "Name": "Lost Cat",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Underground",
@@ -177,9 +177,9 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -191,8 +191,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:03:12.3004412+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:03:35.0120617+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.6534253+00:00",
-  "LastUpdate_Ratings": "2023-11-11T09:58:08.2073023+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:03:12.3005136+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:58:05.813568+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:03:35.0120774+00:00"
 }

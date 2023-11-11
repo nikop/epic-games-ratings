@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -457,9 +457,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2206,
+  "EOS_Progressed": 2207,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6752,6 +6752,11 @@
       "Time": "2023-11-11T10:08:30.9262654+00:00",
       "NumProgressed": 2206,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-11T11:08:46.5425375+00:00",
+      "NumProgressed": 2207,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6811,7 +6816,7 @@
       "Name": "Blueprint Upgrades",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "cauldronliberator",
@@ -6843,7 +6848,7 @@
       "Name": "Crystal Mining",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "dailyquestcompletionist",
@@ -6883,7 +6888,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ebonyjungleliberator",
@@ -6899,7 +6904,7 @@
       "Name": "Enchanting skill",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "enchantingskillx5",
@@ -6915,7 +6920,7 @@
       "Name": "Engineer Mastery",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "enhancedwarmachines",
@@ -6929,9 +6934,9 @@
       "ID": "enlightenment",
       "SetID": "3nl4bcg",
       "Name": "Enlightenment",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 353
+      "UsersEstimate": 331
     },
     {
       "ID": "exoticmerchant",
@@ -7155,7 +7160,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "prestigiousx10",
@@ -7163,7 +7168,7 @@
       "Name": "Prestigious x10",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "relicofthepast",
@@ -7219,7 +7224,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "thealchemist",
@@ -7235,7 +7240,7 @@
       "Name": "The Expeditioner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "thefatherofdragons",
@@ -7323,7 +7328,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "warmachinesarmy",
@@ -7339,7 +7344,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "whatliesbehindthebush",
@@ -7355,14 +7360,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2206,
+      "Progressed": 2207,
       "Completed": 2
     }
   ],
@@ -7370,8 +7375,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-11T09:58:14.8761185+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:08:30.9262649+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:08:46.5425371+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-11T09:58:14.876119+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:08:30.9263887+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:58:13.8993669+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:08:46.5426115+00:00"
 }

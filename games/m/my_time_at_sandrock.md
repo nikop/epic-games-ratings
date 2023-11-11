@@ -6,58 +6,58 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 247.00% | ~694 |
-| Iron Chef | 193.00% | ~542 |
-| Greeno-B-Gone | 123.00% | ~346 |
-| Your Especially Earned Trajectory | 96.00% | ~270 |
-| No Mountain Wide Enough | 64.00% | ~180 |
-| Can We Keep It? | 62.00% | ~174 |
-| On that Grindset | 60.00% | ~169 |
-| Diamonds are Forever | 52.00% | ~146 |
-| Pack Mule | 49.00% | ~138 |
-| Yakmel Whisperer | 49.00% | ~138 |
-| Financially Secure | 44.00% | ~124 |
-| Unboxing | 44.00% | ~124 |
-| One of the Cool Kids | 43.00% | ~121 |
-| Big Game Hunter | 42.00% | ~118 |
-| Got Served | 42.00% | ~118 |
-| My Time Mansion | 41.00% | ~115 |
+| Adept Assembler | 250.00% | ~698 |
+| Iron Chef | 195.00% | ~544 |
+| Greeno-B-Gone | 124.00% | ~346 |
+| Your Especially Earned Trajectory | 97.00% | ~271 |
+| No Mountain Wide Enough | 65.00% | ~181 |
+| Can We Keep It? | 62.00% | ~173 |
+| On that Grindset | 61.00% | ~170 |
+| Diamonds are Forever | 52.00% | ~145 |
+| Pack Mule | 50.00% | ~140 |
+| Yakmel Whisperer | 49.00% | ~137 |
+| Financially Secure | 45.00% | ~126 |
+| Unboxing | 45.00% | ~126 |
+| One of the Cool Kids | 44.00% | ~123 |
+| Got Served | 43.00% | ~120 |
+| Big Game Hunter | 42.00% | ~117 |
+| My Time Mansion | 41.00% | ~114 |
 | Knowledge is Power | 40.00% | ~112 |
-| Happier-est Place on Earth | 39.00% | ~110 |
-| Mole Masher | 39.00% | ~110 |
-| Better Late than Never | 38.00% | ~107 |
-| Chatterbox | 38.00% | ~107 |
-| You Don't Win Friends With Salad | 38.00% | ~107 |
-| Call Me Fishmael | 38.00% | ~107 |
-| I Do! | 37.00% | ~104 |
-| What Plants Crave | 36.00% | ~101 |
-| Officially Official | 34.00% | ~96 |
-| Finishing Touches | 33.00% | ~93 |
-| Anti-Santa | 33.00% | ~93 |
-| First Love | 33.00% | ~93 |
+| Mole Masher | 40.00% | ~112 |
+| Happier-est Place on Earth | 39.00% | ~109 |
+| Chatterbox | 39.00% | ~109 |
+| Call Me Fishmael | 39.00% | ~109 |
+| Better Late than Never | 38.00% | ~106 |
+| I Do! | 38.00% | ~106 |
+| You Don't Win Friends With Salad | 38.00% | ~106 |
+| What Plants Crave | 36.00% | ~100 |
+| Officially Official | 34.00% | ~95 |
+| Anti-Santa | 34.00% | ~95 |
+| Finishing Touches | 33.00% | ~92 |
+| First Love | 33.00% | ~92 |
 | Panda-kin | 29.00% | ~81 |
-| Bridging the Gap | 28.00% | ~79 |
-| Jewel of the Eufaula | 28.00% | ~79 |
-| Who Ya Gonna Call...? | 28.00% | ~79 |
-| Builder of the Month | 27.00% | ~76 |
-| Waste Not Want Not | 26.00% | ~73 |
+| Bridging the Gap | 29.00% | ~81 |
+| Jewel of the Eufaula | 28.00% | ~78 |
+| Who Ya Gonna Call...? | 28.00% | ~78 |
+| Builder of the Month | 27.00% | ~75 |
+| Waste Not Want Not | 27.00% | ~75 |
 | He Can Spin A Yarn... | 25.00% | ~70 |
-| Martle's Dream | 23.00% | ~65 |
-| Commissions, commissions...! | 22.00% | ~62 |
+| Martle's Dream | 24.00% | ~67 |
+| Commissions, commissions...! | 23.00% | ~64 |
 | Elementary, My Dear | 21.00% | ~59 |
 | Lifeline Pipeline | 21.00% | ~59 |
 | Got the Flow Back | 20.00% | ~56 |
 | Newton | 19.00% | ~53 |
-| Kind of a Big Deal | 17.00% | ~48 |
-| Do Your Part | 17.00% | ~48 |
+| Do Your Part | 18.00% | ~50 |
+| Kind of a Big Deal | 17.00% | ~47 |
 | Just What I Always Wanted! | 16.00% | ~45 |
 | Time Flies | 15.00% | ~42 |
 | Santa In Training | 14.00% | ~39 |
 | It Belongs in a Museum! | 14.00% | ~39 |
-| Sepia Toned Memories | 13.00% | ~37 |
-| Cardistry | 13.00% | ~37 |
-| Pro Gamer | 12.00% | ~34 |
-| Sandrunning Speedster | 12.00% | ~34 |
+| Sepia Toned Memories | 13.00% | ~36 |
+| Cardistry | 13.00% | ~36 |
+| Pro Gamer | 13.00% | ~36 |
+| Sandrunning Speedster | 12.00% | ~33 |
 | Jack of All Trades | 8.00% | ~22 |
 | It's High Noon... | 7.00% | ~20 |
 | Got the Receipt? | 7.00% | ~20 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 281 (Ranked 344)  
+Progressed: 279 (Ranked 344)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |

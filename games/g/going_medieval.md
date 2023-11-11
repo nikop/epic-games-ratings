@@ -17,16 +17,16 @@ Number of Ratings: 706  (23.09.2022)
 | The First Week | 55.00% | ~3,684 |
 | Beam Me Up | 52.00% | ~3,483 |
 | Studious Researcher | 52.00% | ~3,483 |
-| Putting Food on the Table | 49.00% | ~3,282 |
-| Adept Researcher | 45.00% | ~3,014 |
-| Retribution | 42.00% | ~2,813 |
-| ...And Don’t Come Back! | 42.00% | ~2,813 |
-| Feast or Famine | 40.00% | ~2,679 |
-| Heating Up | 31.00% | ~2,076 |
-| Luminary Researcher | 31.00% | ~2,076 |
-| Fit For A King | 30.00% | ~2,009 |
-| Winter Is Coming | 28.00% | ~1,875 |
-| Winter Is Here | 25.00% | ~1,674 |
+| Putting Food on the Table | 49.00% | ~3,283 |
+| Adept Researcher | 45.00% | ~3,015 |
+| Retribution | 42.00% | ~2,814 |
+| ...And Don’t Come Back! | 42.00% | ~2,814 |
+| Feast or Famine | 40.00% | ~2,680 |
+| Heating Up | 31.00% | ~2,077 |
+| Luminary Researcher | 31.00% | ~2,077 |
+| Fit For A King | 30.00% | ~2,010 |
+| Winter Is Coming | 28.00% | ~1,876 |
+| Winter Is Here | 25.00% | ~1,675 |
 | Disassembled | 22.00% | ~1,474 |
 | Oh Deer! | 22.00% | ~1,474 |
 | A Party Now | 21.00% | ~1,407 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~134 |
 | Wabbit Season | 0.50% | ~33 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,698 (Ranked 176)  
+Progressed: 6,699 (Ranked 176)  
 Completed: 14 (0.21%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 14 (0.21%) (Ranked 242)
 | 2023-11-08 | 6,674 | 14 |
 | 2023-11-09 | 6,678 | 14 |
 | 2023-11-10 | 6,693 | 14 |
-| 2023-11-11 | 6,698 | 14 |
+| 2023-11-11 | 6,699 | 14 |
 ## Awards
 Max (Great for Beginners): 124  (Ranked 334)  
 Sum: 1,007 (Ranked 259)  

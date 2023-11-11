@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -3994,9 +3994,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 481921,
+  "EOS_Progressed": 481930,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6204,
+  "EOS_NewPlayers": 6175,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27339,6 +27339,11 @@
       "Time": "2023-11-11T10:05:14.8872814+00:00",
       "NumProgressed": 481921,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-11T11:05:58.6589389+00:00",
+      "NumProgressed": 481930,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -27350,7 +27355,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9638
+      "UsersEstimate": 9639
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -27374,7 +27379,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9638
+      "UsersEstimate": 9639
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -27422,7 +27427,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9638
+      "UsersEstimate": 9639
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -27430,7 +27435,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 9638
+      "UsersEstimate": 9639
     },
     {
       "ID": "ACH_GROUNDED",
@@ -27526,7 +27531,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 9638
+      "UsersEstimate": 9639
     },
     {
       "ID": "ACH_REFLEXES",
@@ -27558,7 +27563,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 9638
+      "UsersEstimate": 9639
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -27574,7 +27579,7 @@
       "Name": "Special Delivery",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "ACH_STYLING",
@@ -27629,15 +27634,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 481921,
+      "Progressed": 481930,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-11-11T10:00:01.0214986+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:05:14.8872809+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:05:58.6589386+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:18.2251472+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:00:01.0214995+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:05:14.8875833+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:00:22.1730157+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:05:58.6590622+00:00"
 }

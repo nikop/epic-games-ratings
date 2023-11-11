@@ -4,8 +4,8 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 346,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 282,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -722,9 +722,9 @@
       "ID": "20_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 20",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     },
     {
       "ID": "25_Coins",
@@ -858,17 +858,17 @@
       "ID": "Level_completed_009_007",
       "SetID": "6od1ndi",
       "Name": "Onk Boga IX",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "Level_completed_010_010",
       "SetID": "6od1ndi",
       "Name": "AKRE!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 88
+      "UsersEstimate": 91
     },
     {
       "ID": "Monkey_IQ_test_passed_in_004",
@@ -915,8 +915,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:08:29.4202773+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:08:44.8046717+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:45.8899995+00:00",
-  "LastUpdate_Ratings": "2023-11-11T09:59:25.1496283+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:08:29.4203158+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:59:38.6081576+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:08:44.804692+00:00"
 }

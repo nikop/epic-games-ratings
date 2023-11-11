@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4780,
+  "EOS_Progressed": 4781,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9045,6 +9045,11 @@
       "Time": "2023-11-11T09:09:10.7855946+00:00",
       "NumProgressed": 4780,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-11T11:09:56.8421984+00:00",
+      "NumProgressed": 4781,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9089,7 +9094,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9177,7 +9182,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 621
+      "UsersEstimate": 622
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9193,7 +9198,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -9209,7 +9214,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -9225,7 +9230,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -9240,15 +9245,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4780,
+      "Progressed": 4781,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:09:29.3342234+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:09:56.842198+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-11T09:02:48.6013341+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:09:29.33431+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:57:02.7290113+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:09:56.8422566+00:00"
 }

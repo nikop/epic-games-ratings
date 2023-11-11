@@ -48,6 +48,7 @@
 | Sadistic Plan | 7.00% | ~5 |
 | The Abyssal Terror | 7.00% | ~5 |
 | Aquarian Hero | 6.00% | ~4 |
+| Aquarian Mastery | 6.00% | ~4 |
 | Behenian Mastery | 6.00% | ~4 |
 | Eridanian Hero | 6.00% | ~4 |
 | Noctuan Hero | 6.00% | ~4 |
@@ -56,7 +57,6 @@
 | Reflexive Mind | 4.00% | ~3 |
 | The Ardent Prince | 4.00% | ~3 |
 | The Raging Skies | 4.00% | ~3 |
-| Aquarian Mastery | 4.00% | ~3 |
 | Lacertian Mastery | 4.00% | ~3 |
 | Noctuan Mastery | 4.00% | ~3 |
 | Prestidigitation | 3.00% | ~2 |

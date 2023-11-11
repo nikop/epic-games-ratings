@@ -6,21 +6,21 @@ Number of Ratings: 53  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cabin boy | 80.00% | ~814 |
+| Cabin boy | 80.00% | ~815 |
 | My little farm | 64.00% | ~652 |
-| Every beginning is difficult | 63.00% | ~641 |
-| Gofer | 57.00% | ~580 |
-| 3, 2, 1, mine | 56.00% | ~570 |
+| Every beginning is difficult | 63.00% | ~642 |
+| Gofer | 57.00% | ~581 |
+| 3, 2, 1, mine | 56.00% | ~571 |
 | O Captain! My Captain! | 55.00% | ~560 |
-| Seafarer | 52.00% | ~529 |
+| Seafarer | 52.00% | ~530 |
 | Intangible | 43.00% | ~438 |
 | Greed for gold | 43.00% | ~438 |
 | I'm out of here for a while | 42.00% | ~428 |
 | In a mint condition | 38.00% | ~387 |
 | Licence to Kill | 37.00% | ~377 |
 | Pirates! | 34.00% | ~346 |
-| Collectionitis | 29.00% | ~295 |
-| Megalomania | 29.00% | ~295 |
+| Collectionitis | 29.00% | ~296 |
+| Megalomania | 29.00% | ~296 |
 | Christening | 28.00% | ~285 |
 | Groundskeeper | 26.00% | ~265 |
 | Wholesale | 22.00% | ~224 |
@@ -31,9 +31,9 @@ Number of Ratings: 53  (23.09.2022)
 | Panic buying | 11.00% | ~112 |
 | Just a scratch | 9.00% | ~92 |
 | Your vessel, my vessel | 9.00% | ~92 |
-| All mine! | 8.00% | ~81 |
-| Paths of Glory | 8.00% | ~81 |
-| Panel of experts | 8.00% | ~81 |
+| All mine! | 8.00% | ~82 |
+| Paths of Glory | 8.00% | ~82 |
+| Panel of experts | 8.00% | ~82 |
 | Maker | 7.00% | ~71 |
 | Conglomerate | 6.00% | ~61 |
 | The Grande Bouffe | 6.00% | ~61 |
@@ -51,13 +51,13 @@ Number of Ratings: 53  (23.09.2022)
 | Fill it up, please! | 2.00% | ~20 |
 | Administrator | 1.00% | ~10 |
 | Capitalist | 0.90% | ~9 |
+| Fleet Admiral | 0.90% | ~9 |
 | Raiders of the Lost Ark | 0.90% | ~9 |
 | Parlay? | 0.90% | ~9 |
-| Fleet Admiral | 0.80% | ~8 |
 | Traffic chaos | 0.80% | ~8 |
 | Davy Jones' locker | 0.30% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,018 (Ranked 253)  
+Progressed: 1,019 (Ranked 253)  
 Completed: 1 (0.10%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 1 (0.10%) (Ranked 269)
 | 2023-11-08 | 1,009 | 1 |
 | 2023-11-09 | 1,011 | 1 |
 | 2023-11-10 | 1,017 | 1 |
-| 2023-11-11 | 1,018 | 1 |
+| 2023-11-11 | 1,019 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

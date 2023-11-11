@@ -15,8 +15,8 @@
 | All Materials | 39.00% | ~9 |
 | Chapter 6 | 26.00% | ~6 |
 | Ads Fan | 17.00% | ~4 |
+| Food Thief | 17.00% | ~4 |
 | Best Student | 13.00% | ~3 |
-| Food Thief | 13.00% | ~3 |
 | Highway Survival | 13.00% | ~3 |
 | Tramp Saver | 13.00% | ~3 |
 | Hard To Wake Up | 13.00% | ~3 |

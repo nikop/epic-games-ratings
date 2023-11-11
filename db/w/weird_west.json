@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2771,9 +2771,9 @@
       "ID": "ACH_FOR_BALANCE",
       "SetID": "8j30i9k",
       "Name": "For Balance",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -3131,8 +3131,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-10T21:59:49.034377+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:03:28.4316368+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:03:54.0256236+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:24.3236898+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:01:05.4248749+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:03:28.4316987+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:01:38.43084+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:03:54.0256719+00:00"
 }

@@ -312,9 +312,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205061,
+  "EOS_Progressed": 205065,
   "EOS_Completed": 526,
-  "EOS_NewPlayers": 400,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -22287,6 +22287,11 @@
       "Time": "2023-11-11T10:06:45.5697525+00:00",
       "NumProgressed": 205061,
       "NumCompleted": 526
+    },
+    {
+      "Time": "2023-11-11T11:07:44.4126934+00:00",
+      "NumProgressed": 205065,
+      "NumCompleted": 526
     }
   ],
   "TotalAchievements": 29,
@@ -22322,7 +22327,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192757
+      "UsersEstimate": 192761
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -22354,7 +22359,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -22506,7 +22511,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -22529,7 +22534,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205061,
+      "Progressed": 205065,
       "Completed": 526
     }
   ],
@@ -22537,8 +22542,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-11T09:02:28.7109082+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:06:45.5697516+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:07:44.412693+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.2818735+00:00",
   "LastUpdate_Ratings": "2023-11-11T10:01:12.6613482+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:06:45.5700299+00:00"
+  "LastUpdate_Achievements": "2023-11-11T11:07:44.4128232+00:00"
 }

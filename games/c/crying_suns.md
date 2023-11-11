@@ -6,20 +6,20 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~310,650 |
-| Jeef Skeejj | 44.00% | ~207,100 |
-| Careful planning | 39.00% | ~183,566 |
-| Second Coming | 34.00% | ~160,032 |
+| The Shutdown | 66.00% | ~310,651 |
+| Jeef Skeejj | 44.00% | ~207,101 |
+| Careful planning | 39.00% | ~183,567 |
+| Second Coming | 34.00% | ~160,033 |
 | Jeef Skagg | 30.00% | ~141,205 |
-| Mother | 25.00% | ~117,670 |
+| Mother | 25.00% | ~117,671 |
 | In space, no one can hear you scream | 24.00% | ~112,964 |
 | Chapter I: Echoes | 22.00% | ~103,550 |
 | Excelsior Rule | 22.00% | ~103,550 |
-| Things persisted in not being what they seemed | 20.00% | ~94,136 |
-| Knightmare Frames | 15.00% | ~70,602 |
-| May His passing cleanse the world | 15.00% | ~70,602 |
-| Chapter II: Fallible Flesh | 15.00% | ~70,602 |
-| Pope Zenon | 15.00% | ~70,602 |
+| Things persisted in not being what they seemed | 20.00% | ~94,137 |
+| Knightmare Frames | 15.00% | ~70,603 |
+| May His passing cleanse the world | 15.00% | ~70,603 |
+| Chapter II: Fallible Flesh | 15.00% | ~70,603 |
+| Pope Zenon | 15.00% | ~70,603 |
 | Tetsuo | 11.00% | ~51,775 |
 | Plan for the worst | 11.00% | ~51,775 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,068 |
@@ -49,8 +49,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Forsaken | 5.00% | ~23,534 |
 | Mercy | 5.00% | ~23,534 |
 | Jericho Rule | 5.00% | ~23,534 |
-| Geno Rule | 3.00% | ~14,120 |
-| Hammer Rule | 3.00% | ~14,120 |
+| Geno Rule | 3.00% | ~14,121 |
+| Hammer Rule | 3.00% | ~14,121 |
 | Survivor | 2.00% | ~9,414 |
 | A Rock in the Dark | 1.00% | ~4,707 |
 | Emperor of Misery | 1.00% | ~4,707 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~15 |
 | Kronos Rule | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,682 (Ranked 40)  
+Progressed: 470,684 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -291,7 +291,7 @@ Completed: 20 (0.00%) (Ranked 347)
 | 2023-11-08 | 470,569 | 20 |
 | 2023-11-09 | 470,615 | 20 |
 | 2023-11-10 | 470,663 | 20 |
-| 2023-11-11 | 470,682 | 20 |
+| 2023-11-11 | 470,684 | 20 |
 ## Awards
 Max (Character Customization): 223  (Ranked 274)  
 Sum: 245 (Ranked 380)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 133,
+  "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1616,
+  "EOS_Progressed": 1617,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3569,6 +3569,11 @@
       "Time": "2023-11-10T23:06:18.5677832+00:00",
       "NumProgressed": 1616,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T11:07:37.6811648+00:00",
+      "NumProgressed": 1617,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3580,7 +3585,7 @@
       "Name": "Agent 47",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "Auditor",
@@ -3708,7 +3713,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "High_noon",
@@ -3732,7 +3737,7 @@
       "Name": "Spice It Up",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "KillAllM2",
@@ -3756,7 +3761,7 @@
       "Name": "One by One",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "Miner",
@@ -3764,7 +3769,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "MoskitoBite",
@@ -3812,22 +3817,22 @@
       "Name": "Your Answer",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1616,
+      "Progressed": 1617,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-11T10:06:39.8826892+00:00",
+  "LastChanged_Achievements": "2023-11-11T11:07:37.6811643+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:00:20.5238893+00:00",
-  "LastUpdate_Achievements": "2023-11-11T10:06:39.8827469+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:00:45.4642004+00:00",
+  "LastUpdate_Achievements": "2023-11-11T11:07:37.6811964+00:00"
 }
