@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.07% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.38% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.36% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.41% |
@@ -78,7 +78,7 @@
 | 76 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.47% |
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.46% |
 | 78 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.34% |
+| 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.33% |
 | 80 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 82 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.92% |
@@ -206,8 +206,8 @@
 | 204 | [It Takes Two](games/i/it_takes_two.md) | 0.43% |
 | 204 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.43% |
 | 206 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.42% |
-| 207 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.41% |
 | 207 | [Wildermyth](games/w/wildermyth.md) | 0.41% |
+| 208 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.40% |
 | 209 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.39% |
 | 209 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
 | 209 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.39% |
@@ -237,14 +237,14 @@
 | 235 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 236 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 236 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.23% |
+| 238 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.22% |
 | 238 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.22% |
 | 238 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.22% |
 | 238 | [Scrapnaut](games/s/scrapnaut.md) | 0.22% |
-| 241 | [Blanc](games/b/blanc.md) | 0.21% |
-| 241 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
-| 241 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.21% |
-| 241 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 241 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
+| 242 | [Blanc](games/b/blanc.md) | 0.21% |
+| 242 | [Circus Electrique](games/c/circus_electrique.md) | 0.21% |
+| 242 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.21% |
+| 242 | [Going Medieval](games/g/going_medieval.md) | 0.21% |
 | 246 | [Lost Ruins](games/l/lost_ruins.md) | 0.20% |
 | 246 | [Remnant 2](games/r/remnant_2.md) | 0.20% |
 | 248 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.19% |
