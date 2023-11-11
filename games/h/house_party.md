@@ -32,11 +32,11 @@ Number of Ratings: 177  (23.09.2022)
 | Stephanie | 0.60% | ~39 |
 | The Magic Number | 0.60% | ~39 |
 | Te Amo Lety | 0.60% | ~39 |
-| Benedict Brahrnold | 0.50% | ~32 |
 | I'll Be Back | 0.50% | ~32 |
 | Deck the Balls | 0.50% | ~17 |
-| Love Conquers All | 0.50% | ~32 |
 | Ashley | 0.40% | ~26 |
+| Benedict Brahrnold | 0.40% | ~26 |
+| Love Conquers All | 0.40% | ~26 |
 | Good Ol' Days | 0.40% | ~26 |
 | The Bride | 0.30% | ~19 |
 | Drunk and Disorderly: Madison | 0.30% | ~19 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,444 (Ranked 178)  
+Progressed: 6,445 (Ranked 178)  
 Completed: 3 (0.05%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,6 +273,7 @@ Completed: 3 (0.05%) (Ranked 298)
 | 2023-11-07 | 6,439 | 3 |
 | 2023-11-08 | 6,443 | 3 |
 | 2023-11-09 | 6,444 | 3 |
+| 2023-11-11 | 6,445 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

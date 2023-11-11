@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -371,9 +371,9 @@
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "A_TURTLES",
@@ -418,8 +418,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:06:13.7597232+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:06:31.947896+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:41.4462946+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:57:44.7890223+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:06:13.7597547+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:58:03.1087422+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:06:31.9479187+00:00"
 }

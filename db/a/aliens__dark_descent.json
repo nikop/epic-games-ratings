@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -6016,9 +6016,9 @@
       "ID": "ACH_MISSION_11",
       "SetID": "816efe",
       "Name": "Excavating The Truth",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 837
     },
     {
       "ID": "ACH_MISSION_12",
@@ -6113,8 +6113,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-09T02:16:14.1164804+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:06:22.3363724+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:06:38.3699806+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.6785032+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:58:31.0263061+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:06:22.3364191+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:58:49.9928052+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:06:38.3700334+00:00"
 }

@@ -5,32 +5,32 @@ Rating: 4.42 (Ranked 715)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 76.00% | ~1,617 |
-| A new Journey | 75.00% | ~1,596 |
-| From X to Y | 73.00% | ~1,553 |
-| Departure | 73.00% | ~1,553 |
+| Country Bumpkin | 76.00% | ~1,618 |
+| A new Journey | 75.00% | ~1,597 |
+| From X to Y | 73.00% | ~1,554 |
+| Departure | 73.00% | ~1,554 |
 | Way of Iron | 70.00% | ~1,490 |
-| Mystery Tour | 69.00% | ~1,468 |
-| We brake for nobody | 68.00% | ~1,447 |
-| Brainstorm | 66.00% | ~1,404 |
-| Travel Company | 66.00% | ~1,404 |
-| Mind the Gap | 65.00% | ~1,383 |
+| Mystery Tour | 69.00% | ~1,469 |
+| We brake for nobody | 68.00% | ~1,448 |
+| Brainstorm | 66.00% | ~1,405 |
+| Travel Company | 66.00% | ~1,405 |
+| Mind the Gap | 65.00% | ~1,384 |
 | All around the World | 63.00% | ~1,341 |
-| Right through the middle | 58.00% | ~1,234 |
-| Facility Manager | 54.00% | ~1,149 |
-| Poor Devil | 54.00% | ~1,149 |
-| Producer | 51.00% | ~1,085 |
+| Right through the middle | 58.00% | ~1,235 |
+| Facility Manager | 54.00% | ~1,150 |
+| Poor Devil | 54.00% | ~1,150 |
+| Producer | 51.00% | ~1,086 |
 | Apprentice | 42.00% | ~894 |
 | Bridge Builder | 42.00% | ~894 |
 | Access granted | 35.00% | ~745 |
 | Going once, going twice, sold | 35.00% | ~745 |
 | Bull and bear | 34.00% | ~724 |
-| Stoker | 33.00% | ~702 |
-| Full Steam ahead | 33.00% | ~702 |
+| Stoker | 33.00% | ~703 |
+| Full Steam ahead | 33.00% | ~703 |
 | Financial Shark | 31.00% | ~660 |
 | Socializer | 31.00% | ~660 |
-| All mine | 30.00% | ~638 |
-| Mole | 30.00% | ~638 |
+| All mine | 30.00% | ~639 |
+| Mole | 30.00% | ~639 |
 | Country Life | 28.00% | ~596 |
 | General Manager | 27.00% | ~575 |
 | Hostile Takeover | 25.00% | ~532 |
@@ -41,7 +41,7 @@ Rating: 4.42 (Ranked 715)
 | Traffic Jam | 20.00% | ~426 |
 | Networker | 18.00% | ~383 |
 | Resistance is futile | 17.00% | ~362 |
-| Assimilated | 16.00% | ~340 |
+| Assimilated | 16.00% | ~341 |
 | Locusts | 15.00% | ~319 |
 | Bold and beautiful | 15.00% | ~319 |
 | Settler | 15.00% | ~319 |
@@ -61,7 +61,7 @@ Rating: 4.42 (Ranked 715)
 | United States | 0.70% | ~15 |
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,128 (Ranked 217)  
+Progressed: 2,129 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,6 +239,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 2,118 | 0 |
 | 2023-11-09 | 2,121 | 0 |
 | 2023-11-10 | 2,128 | 0 |
+| 2023-11-11 | 2,129 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

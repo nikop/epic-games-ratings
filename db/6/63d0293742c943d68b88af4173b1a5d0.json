@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -148,9 +148,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 68,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "REMAKE_004",
@@ -196,9 +196,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Remake_010",
@@ -315,8 +315,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:04:39.843214+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:04:58.5096469+00:00",
   "LastUpdate_AppInfo": "2023-11-06T20:57:01.7197178+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:58:52.4552755+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:04:39.8432377+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:59:11.541094+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:04:58.5096617+00:00"
 }

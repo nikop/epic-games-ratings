@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130667,
+  "EOS_Progressed": 130668,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21527,6 +21527,11 @@
       "Time": "2023-11-10T23:03:33.3226217+00:00",
       "NumProgressed": 130667,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-11T00:03:52.1468789+00:00",
+      "NumProgressed": 130668,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21754,7 +21759,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 18293
+      "UsersEstimate": 18294
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -21818,7 +21823,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 18293
+      "UsersEstimate": 18294
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -21857,15 +21862,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130667,
+      "Progressed": 130668,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:03:33.3226213+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:03:52.1468786+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:55.4141758+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:57:21.4848834+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:03:33.3227302+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:57:40.573588+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:03:52.1469729+00:00"
 }

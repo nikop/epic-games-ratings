@@ -7,24 +7,24 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~25,559 |
-| A thief's beginning | 10.00% | ~21,299 |
-| Thorough | 10.00% | ~21,299 |
-| Disguised | 9.00% | ~19,169 |
-| Rollin' | 9.00% | ~19,169 |
-| Tanuki Time | 9.00% | ~19,169 |
-| Rescue Takuma | 8.00% | ~17,039 |
-| Stoned Ox | 8.00% | ~17,039 |
-| Happy Planning | 7.00% | ~14,909 |
-| Ice Ice Yuki | 7.00% | ~14,909 |
-| Jonin | 7.00% | ~14,909 |
-| Yabu | 7.00% | ~14,909 |
-| Chunin | 6.00% | ~12,779 |
-| Flying Rocks | 6.00% | ~12,779 |
-| Mugen Unchained | 6.00% | ~12,779 |
-| Warzone | 6.00% | ~12,779 |
-| Okkoto | 5.00% | ~10,649 |
-| Prisoners | 5.00% | ~10,649 |
-| Too Early | 5.00% | ~10,649 |
+| A thief's beginning | 10.00% | ~21,300 |
+| Thorough | 10.00% | ~21,300 |
+| Disguised | 9.00% | ~19,170 |
+| Rollin' | 9.00% | ~19,170 |
+| Tanuki Time | 9.00% | ~19,170 |
+| Rescue Takuma | 8.00% | ~17,040 |
+| Stoned Ox | 8.00% | ~17,040 |
+| Happy Planning | 7.00% | ~14,910 |
+| Ice Ice Yuki | 7.00% | ~14,910 |
+| Jonin | 7.00% | ~14,910 |
+| Yabu | 7.00% | ~14,910 |
+| Chunin | 6.00% | ~12,780 |
+| Flying Rocks | 6.00% | ~12,780 |
+| Mugen Unchained | 6.00% | ~12,780 |
+| Warzone | 6.00% | ~12,780 |
+| Okkoto | 5.00% | ~10,650 |
+| Prisoners | 5.00% | ~10,650 |
+| Too Early | 5.00% | ~10,650 |
 | Gear up | 4.00% | ~8,520 |
 | Happy little accidents | 4.00% | ~8,520 |
 | Noboru | 4.00% | ~8,520 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~213 |
 | Release the Kraken | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 212,989 (Ranked 70)  
+Progressed: 212,995 (Ranked 70)  
 Completed: 96 (0.05%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,6 +256,7 @@ Completed: 96 (0.05%) (Ranked 298)
 | 2023-11-08 | 212,647 | 96 |
 | 2023-11-09 | 212,801 | 96 |
 | 2023-11-10 | 212,989 | 96 |
+| 2023-11-11 | 212,995 | 96 |
 ## Awards
 Max (Great for Beginners): 572  (Ranked 197)  
 Sum: 4,833 (Ranked 140)  

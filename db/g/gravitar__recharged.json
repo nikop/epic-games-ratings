@@ -4,8 +4,8 @@
   "ProductSlug": "gravitar-d3a7dd",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4913741+00:00",
   "LastChanged": "2023-03-31T05:58:16.4913742+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:17.5067436+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:58:41.9400428+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:04:53.7622088+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:59:00.8154532+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:05:12.1839956+00:00"
 }

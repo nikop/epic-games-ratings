@@ -4,8 +4,8 @@
   "ProductSlug": "total-war-pharaoh",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2099-10-11T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -38,8 +38,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T15:04:14.5273766+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:04:45.9622821+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:05:04.2752814+00:00",
   "LastUpdate_AppInfo": "2023-11-08T05:56:58.8896895+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:02:46.1504109+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:04:45.9622849+00:00"
+  "LastUpdate_Ratings": "2023-11-11T00:03:03.8451227+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:05:04.2752828+00:00"
 }

@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~473 |
 | I Broke It | 71.00% | ~448 |
-| Better On Ice | 69.00% | ~435 |
+| Better On Ice | 70.00% | ~442 |
 | Notai Notes | 69.00% | ~435 |
 | Blue Dreams | 68.00% | ~429 |
 | He's Famous! | 68.00% | ~429 |
@@ -27,12 +27,12 @@
 | The Finisher | 40.00% | ~252 |
 | So Close | 37.00% | ~233 |
 | You Get Used To It | 36.00% | ~227 |
+| On The Rocks | 34.00% | ~215 |
 | Bullseye | 34.00% | ~215 |
 | Boosted! | 34.00% | ~215 |
 | Family | 33.00% | ~208 |
 | Biggest Snowball Ever | 33.00% | ~208 |
 | Freeze The Ice Witch | 33.00% | ~208 |
-| On The Rocks | 33.00% | ~208 |
 | Deadliest and Biggest Snowball Ever! | 33.00% | ~208 |
 | Never Gets Old | 32.00% | ~202 |
 | It Is Not Over | 31.00% | ~196 |

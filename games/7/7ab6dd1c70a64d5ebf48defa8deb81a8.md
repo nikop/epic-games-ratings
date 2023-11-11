@@ -29,12 +29,12 @@
 | Godslayer | 6.00% | ~11 |
 | Flawless Victory | 6.00% | ~11 |
 | Clear Sight | 2.00% | ~4 |
+| Shatterer | 2.00% | ~4 |
 | Slayer | 2.00% | ~4 |
 | Fine Feathers Make Fine Birds | 2.00% | ~4 |
 | False God | 2.00% | ~4 |
 | A Queen's Tale | 2.00% | ~4 |
 | Shardbearer | 1.00% | ~2 |
-| Shatterer | 1.00% | ~2 |
 | Forgemaster | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |

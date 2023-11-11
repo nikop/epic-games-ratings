@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -517,9 +517,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3647,
+  "EOS_Progressed": 3648,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -5487,6 +5487,11 @@
       "Time": "2023-11-10T05:06:59.0561617+00:00",
       "NumProgressed": 3647,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-11T00:03:44.8446323+00:00",
+      "NumProgressed": 3648,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 42,
@@ -5538,7 +5543,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "CrowdPleaser",
@@ -5554,7 +5559,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "Eureka_23",
@@ -5698,7 +5703,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 875
+      "UsersEstimate": 876
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -5833,15 +5838,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 3647,
+      "Progressed": 3648,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:03:25.7328268+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:03:44.8446318+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:24.5230237+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:57:26.3223576+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:03:25.7328786+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:57:44.6212823+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:03:44.8447169+00:00"
 }

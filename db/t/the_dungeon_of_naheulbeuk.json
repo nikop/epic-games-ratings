@@ -2,13 +2,13 @@
   "ID": "456d95ca54814c8d98db2f52346ff5de",
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 446,
   "Ranking_Popularity": 272,
-  "Ranking_PopularitySum": 329,
+  "Ranking_PopularitySum": 330,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1305,7 +1305,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 236338,
+  "EOS_Progressed": 236347,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1475,
   "EOS_NewCompleters": 0,
@@ -18075,6 +18075,11 @@
       "Time": "2023-11-10T23:08:00.7183543+00:00",
       "NumProgressed": 236338,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-11T00:08:25.7426851+00:00",
+      "NumProgressed": 236347,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18134,7 +18139,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14180
+      "UsersEstimate": 14181
     },
     {
       "ID": "Chapter2",
@@ -18534,7 +18539,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82718
+      "UsersEstimate": 82721
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18582,7 +18587,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18907
+      "UsersEstimate": 18908
     },
     {
       "ID": "FollowBraztok",
@@ -18789,21 +18794,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 236338,
+      "Progressed": 236347,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 236338,
+      "Progressed": 236347,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-10T20:00:06.4481766+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:08:00.718354+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:08:25.7426848+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:27.8951473+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:00:22.6638904+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:08:00.7185073+00:00"
+  "LastUpdate_Ratings": "2023-11-11T00:00:42.330268+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:08:25.7428101+00:00"
 }

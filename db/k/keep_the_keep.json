@@ -3,8 +3,8 @@
   "Name": "Keep The Keep",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -35,8 +35,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:48:42.1992023+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:03:46.0965855+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:04:04.4943078+00:00",
   "LastUpdate_AppInfo": "2023-05-05T13:31:58.2482361+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:02:43.7901775+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:03:46.0965909+00:00"
+  "LastUpdate_Ratings": "2023-11-11T00:03:01.7587736+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:04:04.4943095+00:00"
 }

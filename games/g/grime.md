@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.58 (Ranked 445)  
+Rating: 4.58 (Ranked 446)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,8 +11,8 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 3.00% | ~4,727 |
 | Weeper | 3.00% | ~4,727 |
 | Ravenous | 3.00% | ~4,727 |
-| Silenced Whispers | 2.00% | ~3,151 |
-| Devourer | 2.00% | ~3,151 |
+| Silenced Whispers | 2.00% | ~3,152 |
+| Devourer | 2.00% | ~3,152 |
 | Scion | 1.00% | ~1,572 |
 | Harmless | 1.00% | ~1,576 |
 | Jawcrab | 1.00% | ~1,576 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,572 (Ranked 76)  
+Progressed: 157,582 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -235,6 +235,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 157,236 | 1 |
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
+| 2023-11-11 | 157,582 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 426)  
 Sum: 355 (Ranked 348)  

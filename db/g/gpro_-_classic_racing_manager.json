@@ -4,8 +4,8 @@
   "ProductSlug": "classic-racing-manager-679706",
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 259,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-10T08:00:00+00:00",
     "PcReleaseDate": "2023-02-12T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 461,
+  "EOS_Progressed": 462,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1024,6 +1024,11 @@
       "Time": "2023-11-10T21:16:52.6119568+00:00",
       "NumProgressed": 461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T00:09:06.1644474+00:00",
+      "NumProgressed": 462,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 162,
@@ -1099,7 +1104,7 @@
       "Name": "Newbie",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -1137,7 +1142,7 @@
       "ID": "ACHIEVEMENT_183",
       "SetID": "76k7b7p",
       "Name": "Monster Amateur car",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1177,7 +1182,7 @@
       "ID": "ACHIEVEMENT_189",
       "SetID": "76k7b7p",
       "Name": "Pro hitchhiker",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1329,7 +1334,7 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "76k7b7p",
       "Name": "Amateur wannabe",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1665,7 +1670,7 @@
       "ID": "ACHIEVEMENT_3",
       "SetID": "76k7b7p",
       "Name": "First Amateur taste",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -2161,7 +2166,7 @@
       "ID": "ACHIEVEMENT_76",
       "SetID": "76k7b7p",
       "Name": "Weatherman",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -2330,14 +2335,14 @@
     {
       "ID": "76k7b7p",
       "IsBase": true,
-      "Progressed": 461,
+      "Progressed": 462,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-11T01:55:52.8280898+00:00",
   "FirstSeenAchievements": "2023-05-05T09:00:44.9178133+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:08:42.0509101+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:09:06.164447+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:19.4143245+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:59:04.2457629+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:08:42.0511297+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:59:23.3825576+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:09:06.1648581+00:00"
 }

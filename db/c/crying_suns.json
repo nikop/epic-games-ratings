@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470663,
+  "EOS_Progressed": 470664,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 447,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22053,6 +22053,11 @@
       "Time": "2023-11-10T23:09:27.2995496+00:00",
       "NumProgressed": 470663,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-11T00:09:50.3542385+00:00",
+      "NumProgressed": 470664,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22064,7 +22069,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70599
+      "UsersEstimate": 70600
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -22072,7 +22077,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70599
+      "UsersEstimate": 70600
     },
     {
       "ID": "achievement_first_death",
@@ -22096,7 +22101,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 70599
+      "UsersEstimate": 70600
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -22232,7 +22237,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 70599
+      "UsersEstimate": 70600
     },
     {
       "ID": "achievement_story_neon_child",
@@ -22248,7 +22253,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160025
+      "UsersEstimate": 160026
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22695,21 +22700,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14597,
+      "Progressed": 14598,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470663,
+      "Progressed": 470664,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:09:27.2995494+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:09:50.3542383+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:12.6471409+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:00:01.2483351+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:09:27.2997025+00:00"
+  "LastUpdate_Ratings": "2023-11-11T00:00:21.0283201+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:09:50.3544061+00:00"
 }

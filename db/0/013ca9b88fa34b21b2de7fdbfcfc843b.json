@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7674,
+  "EOS_Progressed": 7675,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6506,6 +6506,11 @@
       "Time": "2023-11-10T21:17:23.703689+00:00",
       "NumProgressed": 7674,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T00:09:31.9728971+00:00",
+      "NumProgressed": 7675,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6518,7 +6523,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5525
+      "UsersEstimate": 5526
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6542,7 +6547,7 @@
       "Name": "Open the Gate!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2610
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -6622,7 +6627,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3760
+      "UsersEstimate": 3761
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6654,7 +6659,7 @@
       "Name": "Humble Collector",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 3223
+      "UsersEstimate": 3224
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -6670,7 +6675,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4681
+      "UsersEstimate": 4682
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6774,7 +6779,7 @@
       "Name": "Captain of Cozy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "UPGRADE_HOUSEMAX",
@@ -6797,22 +6802,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7674,
+      "Progressed": 7675,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 291,
-      "Completed": 291
+      "Progressed": 292,
+      "Completed": 292
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:09:07.9191013+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:09:31.972897+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:02:52.5024736+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:09:07.9191435+00:00"
+  "LastUpdate_Ratings": "2023-11-11T00:03:10.3929025+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:09:31.9729478+00:00"
 }

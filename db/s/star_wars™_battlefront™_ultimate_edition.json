@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1147,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3329,6 +3329,11 @@
       "Time": "2023-11-10T23:09:22.1504139+00:00",
       "NumProgressed": 1147,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T00:09:45.8411118+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3381,7 +3386,7 @@
       "Name": "Playing the objective",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_15",
@@ -3517,7 +3522,7 @@
       "Name": "Never tell me the odds!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "achievement_30",
@@ -3541,7 +3546,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_33",
@@ -3565,7 +3570,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1024
     },
     {
       "ID": "achievement_36",
@@ -3581,7 +3586,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 768
+      "UsersEstimate": 770
     },
     {
       "ID": "achievement_38",
@@ -3605,7 +3610,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "achievement_40",
@@ -3613,7 +3618,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "achievement_41",
@@ -3645,7 +3650,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 32,
       "XP": 40,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "achievement_45",
@@ -3677,7 +3682,7 @@
       "Name": "No such thing as luck",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_49",
@@ -3685,7 +3690,7 @@
       "Name": "Do we take prisoners?",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_5",
@@ -3709,7 +3714,7 @@
       "Name": "You have your moments",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_52",
@@ -3717,7 +3722,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_53",
@@ -3741,7 +3746,7 @@
       "Name": "Stop that Droid",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_56",
@@ -3773,7 +3778,7 @@
       "Name": "Onwards!",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_6",
@@ -3781,7 +3786,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "achievement_60",
@@ -3844,13 +3849,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1147,
+      "Progressed": 1150,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1147,
+      "Progressed": 1150,
       "Completed": 1
     }
   ],
@@ -3858,8 +3863,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:09:22.1504135+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:09:45.8411116+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:59:03.8292739+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:09:22.1504876+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:59:22.9628589+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:09:45.8411834+00:00"
 }

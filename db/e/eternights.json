@@ -4,8 +4,8 @@
   "ProductSlug": "eternights-c2fbca",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 393,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -1536,9 +1536,9 @@
       "ID": "ACHIEVEMENT_23_TrueBro",
       "SetID": "9bke6f1",
       "Name": "Truebro",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 79
+      "UsersEstimate": 83
     },
     {
       "ID": "ACHIEVEMENT_24_TentacleMan",
@@ -1631,8 +1631,8 @@
   ],
   "FirstSeen": "2023-09-12T10:57:37.9210754+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:03:13.9422337+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:03:33.1614382+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:15.0588776+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:59:58.2064247+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:03:13.942261+00:00"
+  "LastUpdate_Ratings": "2023-11-11T00:00:17.8300517+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:03:33.1614652+00:00"
 }

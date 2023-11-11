@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 140,
   "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3215,9 +3215,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17269,
+  "EOS_Progressed": 17270,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13395,6 +13395,11 @@
       "Time": "2023-11-10T21:12:16.2799778+00:00",
       "NumProgressed": 17269,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-11T00:04:24.4852402+00:00",
+      "NumProgressed": 17270,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13542,7 +13547,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "WinNearCrystals",
@@ -13622,7 +13627,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "WinNearRuins",
@@ -13630,7 +13635,7 @@
       "Name": "Lost Colonies",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "WinNearStatue",
@@ -13662,7 +13667,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "WinOnCoral",
@@ -13718,7 +13723,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "WinWIthCaches",
@@ -13805,15 +13810,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17269,
+      "Progressed": 17270,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-10T17:59:42.1162285+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:04:06.1571333+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:04:24.48524+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:14.6118439+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:00:05.4862316+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:04:06.1572173+00:00"
+  "LastUpdate_Ratings": "2023-11-11T00:00:25.1870436+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:04:24.4853479+00:00"
 }

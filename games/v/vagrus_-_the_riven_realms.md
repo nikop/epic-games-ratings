@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 57.00% | ~103 |
-| Press-ganged | 41.00% | ~74 |
-| The Package | 27.00% | ~49 |
+| A Second Chance | 57.00% | ~104 |
+| Press-ganged | 41.00% | ~75 |
+| The Package | 26.00% | ~47 |
 | Conquered | 18.00% | ~33 |
-| Randomized | 17.00% | ~31 |
+| Randomized | 16.00% | ~29 |
 | Scribe | 9.00% | ~16 |
-| Tactician | 8.00% | ~14 |
-| Breached | 8.00% | ~14 |
+| Tactician | 8.00% | ~15 |
+| Breached | 8.00% | ~15 |
 | Conciliator | 7.00% | ~13 |
 | Fight Another Day | 7.00% | ~13 |
-| Scholar | 6.00% | ~11 |
 | Acquaintance | 6.00% | ~11 |
 | Tail-wind | 6.00% | ~11 |
-| Taskmaster | 6.00% | ~11 |
+| Scholar | 5.00% | ~9 |
 | Harbinger | 5.00% | ~9 |
+| Taskmaster | 5.00% | ~9 |
 | Quartermaster | 4.00% | ~7 |
 | Strategist | 4.00% | ~7 |
 | The More the Merrier | 4.00% | ~7 |
@@ -60,21 +60,21 @@
 | Ruiner | 1.00% | ~2 |
 | Wyrmslayer | 1.00% | ~2 |
 | Glorious leader | 1.00% | ~2 |
-| General | 0.60% | ~1 |
-| Ever After | 0.60% | ~1 |
-| Conqueror | 0.60% | ~1 |
-| Forager | 0.60% | ~1 |
-| Forged in Battle | 0.60% | ~1 |
-| Manticore | 0.60% | ~1 |
-| Huntsmaster | 0.60% | ~1 |
-| Mercenary | 0.60% | ~1 |
-| Escort | 0.60% | ~1 |
-| Despoiler | 0.60% | ~1 |
-| Celebrity | 0.60% | ~1 |
-| Arcanite | 0.60% | ~1 |
-| The Last Voyage | 0.60% | ~1 |
-| Tax Evasion | 0.60% | ~1 |
-| Theory to Practice | 0.60% | ~1 |
+| General | 0.50% | ~1 |
+| Ever After | 0.50% | ~1 |
+| Conqueror | 0.50% | ~1 |
+| Forager | 0.50% | ~1 |
+| Forged in Battle | 0.50% | ~1 |
+| Manticore | 0.50% | ~1 |
+| Huntsmaster | 0.50% | ~1 |
+| Mercenary | 0.50% | ~1 |
+| Escort | 0.50% | ~1 |
+| Despoiler | 0.50% | ~1 |
+| Celebrity | 0.50% | ~1 |
+| Arcanite | 0.50% | ~1 |
+| The Last Voyage | 0.50% | ~1 |
+| Tax Evasion | 0.50% | ~1 |
+| Theory to Practice | 0.50% | ~1 |
 | Liberator | 0.00% | ~0 |
 | For the Cause! | 0.00% | ~0 |
 | Death Denied | 0.00% | ~0 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 181 (Ranked 377)  
+Progressed: 182 (Ranked 377)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -177,6 +177,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 166 | 0 |
 | 2023-11-09 | 170 | 0 |
 | 2023-11-10 | 181 | 0 |
+| 2023-11-11 | 182 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

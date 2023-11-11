@@ -4079,7 +4079,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76243,
+  "EOS_Progressed": 76245,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 1,
@@ -22164,6 +22164,11 @@
       "Time": "2023-11-10T23:03:41.4399439+00:00",
       "NumProgressed": 76243,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-11T00:04:00.1896368+00:00",
+      "NumProgressed": 76245,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22263,7 +22268,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11436
+      "UsersEstimate": 11437
     },
     {
       "ID": "CHALLENGES_1",
@@ -22271,7 +22276,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12961
+      "UsersEstimate": 12962
     },
     {
       "ID": "CLAYFACE_1",
@@ -22399,7 +22404,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21348
+      "UsersEstimate": 21349
     },
     {
       "ID": "FREEZE_1_5",
@@ -22415,7 +22420,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14486
+      "UsersEstimate": 14487
     },
     {
       "ID": "FREEZE_3",
@@ -22479,7 +22484,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26685
+      "UsersEstimate": 26686
     },
     {
       "ID": "HARLEY_2",
@@ -22519,7 +22524,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38884
+      "UsersEstimate": 38885
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22583,7 +22588,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16773
+      "UsersEstimate": 16774
     },
     {
       "ID": "MYSTERY_04",
@@ -22607,7 +22612,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11436
+      "UsersEstimate": 11437
     },
     {
       "ID": "MYSTERY_07",
@@ -22662,13 +22667,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76243,
+      "Progressed": 76245,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46523,
+      "Progressed": 46525,
       "Completed": 2673
     }
   ],
@@ -22676,8 +22681,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-10T21:07:14.2181021+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:03:41.4399436+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:04:00.1896366+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:59:35.1475364+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:03:41.4400446+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:59:54.4246423+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:04:00.1897493+00:00"
 }

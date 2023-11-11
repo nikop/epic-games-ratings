@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 298,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6444,
+  "EOS_Progressed": 6445,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6137,6 +6137,11 @@
       "Time": "2023-11-09T04:05:14.891007+00:00",
       "NumProgressed": 6444,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-11T00:05:23.7239447+00:00",
+      "NumProgressed": 6445,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 69,
@@ -6178,9 +6183,9 @@
       "ID": "BBrahrnold",
       "SetID": "bmkn7o4",
       "Name": "Benedict Brahrnold",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 26
     },
     {
       "ID": "BeBack",
@@ -6418,9 +6423,9 @@
       "ID": "LCA",
       "SetID": "bmkn7o4",
       "Name": "Love Conquers All",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 26
     },
     {
       "ID": "LifeFoundAWay",
@@ -6699,21 +6704,21 @@
     {
       "ID": "5f3a6d9",
       "IsBase": false,
-      "Progressed": 3483,
+      "Progressed": 3484,
       "Completed": 6
     },
     {
       "ID": "bmkn7o4",
       "IsBase": true,
-      "Progressed": 6444,
+      "Progressed": 6445,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2023-11-09T16:59:44.3369528+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:05:05.4153931+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:05:23.7239445+00:00",
   "LastUpdate_AppInfo": "2023-11-04T12:59:21.1273071+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:59:59.4490653+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:05:05.4154603+00:00"
+  "LastUpdate_Ratings": "2023-11-11T00:00:19.1517283+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:05:23.7240126+00:00"
 }

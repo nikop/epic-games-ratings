@@ -4,8 +4,8 @@
   "ProductSlug": "knights-of-cathena-d09e32",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-23T13:00:00+00:00",
     "PcReleaseDate": "2022-09-07T13:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-23T21:57:08.5113084+00:00",
   "LastUpdate_AppInfo": "2023-11-05T03:57:11.2789986+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:58:22.14499+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:09:11.8314981+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:58:40.9722398+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:09:35.8321502+00:00"
 }

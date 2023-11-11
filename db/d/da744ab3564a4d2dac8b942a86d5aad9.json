@@ -4,8 +4,8 @@
   "ProductSlug": "havens-compass-c31bb4",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-15T19:00:00+00:00",
     "PcReleaseDate": "2023-08-15T19:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-08-16T13:58:03.294766+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:05.1452196+00:00",
-  "LastUpdate_Ratings": "2023-11-10T23:00:04.9953175+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:08:05.9277099+00:00"
+  "LastUpdate_Ratings": "2023-11-11T00:00:24.635684+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:08:30.3787968+00:00"
 }

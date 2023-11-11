@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8487,
+  "EOS_Progressed": 8501,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1451,
   "EOS_NewCompleters": 0,
@@ -4879,6 +4879,11 @@
       "Time": "2023-11-10T23:05:36.0708982+00:00",
       "NumProgressed": 8487,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T00:05:54.1085845+00:00",
+      "NumProgressed": 8501,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -4907,7 +4912,7 @@
       "Name": "INSANE",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_LEVEL188",
@@ -4947,7 +4952,7 @@
       "Name": "Secret",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_SUBLEVEL02",
@@ -4955,7 +4960,7 @@
       "Name": "RED",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_SUBLEVEL03",
@@ -4963,7 +4968,7 @@
       "Name": "ICY",
       "Percentage": 0.1,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_THEEND",
@@ -4979,7 +4984,7 @@
       "Name": "Electric",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ACH_WINLEVEL0",
@@ -4987,7 +4992,7 @@
       "Name": "Level 0",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2295
     },
     {
       "ID": "ACH_WINLEVEL1",
@@ -4995,7 +5000,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1020
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -5003,7 +5008,7 @@
       "Name": "Dreamer!",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1020
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -5019,7 +5024,7 @@
       "Name": "Management",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_WINLEVEL404",
@@ -5035,7 +5040,7 @@
       "Name": "Terror",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_WINLEVEL69",
@@ -5082,14 +5087,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 8487,
+      "Progressed": 8501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:05:36.0708978+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:05:54.1085843+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:16.1385723+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:57:09.2623635+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:05:36.0709267+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:57:28.1536595+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:05:54.1086215+00:00"
 }

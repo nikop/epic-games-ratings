@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -7312,9 +7312,9 @@
       "ID": "worldmap",
       "SetID": "3nl4bcg",
       "Name": "World Map",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1729
     }
   ],
   "AchievementSets": [
@@ -7329,8 +7329,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-03T07:02:25.3274852+00:00",
-  "LastChanged_Achievements": "2023-11-10T23:08:25.5142093+00:00",
+  "LastChanged_Achievements": "2023-11-11T00:08:49.7211054+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:25.2559661+00:00",
-  "LastUpdate_Ratings": "2023-11-10T22:57:45.3623228+00:00",
-  "LastUpdate_Achievements": "2023-11-10T23:08:25.5142841+00:00"
+  "LastUpdate_Ratings": "2023-11-10T23:58:03.6738707+00:00",
+  "LastUpdate_Achievements": "2023-11-11T00:08:49.7211792+00:00"
 }
