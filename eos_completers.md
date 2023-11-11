@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.05% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 36.03% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.41% |
@@ -33,7 +33,7 @@
 | 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.66% |
 | 32 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 33 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
-| 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.62% |
+| 34 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.57% |
 | 35 | [Seven Doors](games/s/seven_doors.md) | 10.53% |
 | 36 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 10.03% |
 | 37 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 10.00% |
@@ -71,16 +71,16 @@
 | 69 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 70 | [Bugsnax](games/b/bugsnax.md) | 4.80% |
 | 71 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
-| 72 | [ZZT!](games/z/zzt!.md) | 4.63% |
+| 72 | [ZZT!](games/z/zzt!.md) | 4.62% |
 | 73 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
 | 74 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 75 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.54% |
-| 76 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.46% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.46% |
+| 77 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.45% |
 | 78 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 79 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 79 | [The Bunker](games/t/the_bunker.md) | 4.17% |
-| 81 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.09% |
+| 81 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.05% |
 | 82 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.90% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
 | 84 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.80% |
@@ -172,7 +172,7 @@
 | 169 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |
 | 171 | [Dungeons 3](games/d/dungeons_3.md) | 0.81% |
 | 172 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
-| 172 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.78% |
+| 173 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.77% |
 | 174 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 175 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.67% |
 | 176 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |
