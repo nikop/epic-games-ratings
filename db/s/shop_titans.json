@@ -6961,9 +6961,9 @@
       "Count": 3776
     }
   ],
-  "EOS_Progressed": 139197,
+  "EOS_Progressed": 139201,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 640,
+  "EOS_NewPlayers": 643,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27866,6 +27866,11 @@
       "Time": "2023-11-11T02:52:42.1026776+00:00",
       "NumProgressed": 139197,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-11T03:17:41.716513+00:00",
+      "NumProgressed": 139201,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28659,9 +28664,9 @@
       "ID": "sell02",
       "SetID": "anfd17p",
       "Name": "Black Friday Special",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1253
     },
     {
       "ID": "sell03",
@@ -28772,15 +28777,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139197,
+      "Progressed": 139201,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-10T18:59:44.5777539+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:52:42.1026768+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:17:41.7165128+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:46:49.6010107+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:52:42.1032317+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:11:49.9014194+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:17:41.7167204+00:00"
 }

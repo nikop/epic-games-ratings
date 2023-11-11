@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 479,
+  "EOS_Progressed": 480,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 4.38,
   "EosHistory": [
@@ -1309,6 +1309,11 @@
       "Time": "2023-11-11T02:56:05.6469215+00:00",
       "NumProgressed": 479,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-11T03:21:04.2336997+00:00",
+      "NumProgressed": 480,
+      "NumCompleted": 21
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1337,7 +1342,7 @@
       "Name": "Sweet tooth",
       "Percentage": 71,
       "XP": 45,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -1345,7 +1350,7 @@
       "Name": "An apple a day",
       "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -1369,7 +1374,7 @@
       "Name": "Good listener",
       "Percentage": 60,
       "XP": 85,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1393,21 +1398,21 @@
       "Name": "Exit",
       "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 479,
+      "Progressed": 480,
       "Completed": 21
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:56:05.6469211+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:21:04.2336995+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:47:34.7310207+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:56:05.6469583+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:12:35.4249389+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:21:04.2337124+00:00"
 }

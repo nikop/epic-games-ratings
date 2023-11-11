@@ -2393,9 +2393,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 19802,
+  "EOS_Progressed": 19803,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1598,
+  "EOS_NewPlayers": 1599,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8793,6 +8793,11 @@
       "Time": "2023-11-11T02:51:46.387701+00:00",
       "NumProgressed": 19802,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T03:16:45.1860761+00:00",
+      "NumProgressed": 19803,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -8973,7 +8978,7 @@
       "Name": "Precious!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3366
+      "UsersEstimate": 3367
     },
     {
       "ID": "Achievement_Trophy23",
@@ -9093,7 +9098,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4950
+      "UsersEstimate": 4951
     },
     {
       "ID": "Achievement_Trophy38",
@@ -9101,7 +9106,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 3366
+      "UsersEstimate": 3367
     },
     {
       "ID": "Achievement_Trophy39",
@@ -9109,7 +9114,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3762
+      "UsersEstimate": 3763
     },
     {
       "ID": "Achievement_Trophy40",
@@ -9292,7 +9297,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 19802,
+      "Progressed": 19803,
       "Completed": 1
     }
   ],
@@ -9300,8 +9305,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-09T22:04:51.7407774+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:51:46.3877005+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:16:45.1860759+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.8913988+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:44:57.9354708+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:51:46.3877988+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:09:59.3159335+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:16:45.1861439+00:00"
 }

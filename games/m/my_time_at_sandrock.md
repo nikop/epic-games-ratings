@@ -7,10 +7,10 @@ Number of Ratings: 892  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept Assembler | 241.00% | ~687 |
-| Iron Chef | 188.00% | ~536 |
+| Iron Chef | 189.00% | ~539 |
 | Greeno-B-Gone | 120.00% | ~342 |
 | Your Especially Earned Trajectory | 94.00% | ~268 |
-| No Mountain Wide Enough | 62.00% | ~177 |
+| No Mountain Wide Enough | 63.00% | ~180 |
 | Can We Keep It? | 60.00% | ~171 |
 | On that Grindset | 59.00% | ~168 |
 | Diamonds are Forever | 49.00% | ~140 |
@@ -35,7 +35,7 @@ Number of Ratings: 892  (23.09.2022)
 | Finishing Touches | 32.00% | ~91 |
 | Anti-Santa | 32.00% | ~91 |
 | First Love | 31.00% | ~88 |
-| Panda-kin | 27.00% | ~77 |
+| Panda-kin | 28.00% | ~80 |
 | Bridging the Gap | 27.00% | ~77 |
 | Jewel of the Eufaula | 27.00% | ~77 |
 | Who Ya Gonna Call...? | 27.00% | ~77 |

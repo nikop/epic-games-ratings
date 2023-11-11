@@ -10323,9 +10323,9 @@
       "Count": 776
     }
   ],
-  "EOS_Progressed": 301833,
+  "EOS_Progressed": 301834,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 1249,
+  "EOS_NewPlayers": 1245,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32318,6 +32318,11 @@
       "Time": "2023-11-11T02:56:27.7529353+00:00",
       "NumProgressed": 301833,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2023-11-11T03:21:26.2503333+00:00",
+      "NumProgressed": 301834,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 45,
@@ -32441,7 +32446,7 @@
       "Name": "Collector\u0027s Edition",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "PFA_23",
@@ -32537,7 +32542,7 @@
       "Name": "Spilled Milk",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "PFA_34",
@@ -32688,7 +32693,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301833,
+      "Progressed": 301834,
       "Completed": 507
     }
   ],
@@ -32696,8 +32701,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-11T02:46:07.8999988+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:56:27.7529348+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:21:26.2503329+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:46:07.8999995+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:56:27.7531107+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:11:09.1227046+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:21:26.2504437+00:00"
 }

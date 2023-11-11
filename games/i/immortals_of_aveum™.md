@@ -5,22 +5,22 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 88.00% | ~215 |
-| Battlefields Have Memories | 84.00% | ~205 |
-| Enlisted | 80.00% | ~195 |
-| Maybe Engage a Little | 76.00% | ~185 |
-| No More Names | 61.00% | ~149 |
-| Initiate | 48.00% | ~117 |
+| Unforeseen | 88.00% | ~216 |
+| Battlefields Have Memories | 83.00% | ~203 |
+| Enlisted | 80.00% | ~196 |
+| Maybe Engage a Little | 76.00% | ~186 |
+| No More Names | 62.00% | ~152 |
+| Initiate | 47.00% | ~115 |
 | Thrada-Kul | 43.00% | ~105 |
 | Gravity-Challenged Rocks | 32.00% | ~78 |
-| Soldier | 28.00% | ~68 |
+| Soldier | 28.00% | ~69 |
 | Socialite | 27.00% | ~66 |
 | All the Major Food Groups | 27.00% | ~66 |
 | Beggars Would Ride | 24.00% | ~59 |
 | Control is an Illusion | 23.00% | ~56 |
 | The Means to Save It | 20.00% | ~49 |
 | Resilience to Sin | 18.00% | ~44 |
-| A Familiar Nest | 17.00% | ~41 |
+| A Familiar Nest | 17.00% | ~42 |
 | Geas Aristeya | 16.00% | ~39 |
 | Periapt Alizarin | 16.00% | ~39 |
 | A Perfect Cycle | 14.00% | ~34 |
@@ -32,7 +32,7 @@ Rating: 4.02 (Ranked 986)
 | Periapt Viridian | 6.00% | ~15 |
 | Shroudfane Explorer | 6.00% | ~15 |
 | Best Dressed | 5.00% | ~12 |
-| Armaments Azure | 5.00% | ~12 |
+| Armaments Azure | 4.00% | ~10 |
 | Armaments Gules | 4.00% | ~10 |
 | Scholar | 3.00% | ~7 |
 | Kitted Out | 3.00% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.02 (Ranked 986)
 | Tip of the Spear | 0.80% | ~2 |
 | Fowl Play | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 244 (Ranked 354)  
+Progressed: 245 (Ranked 354)  
 Completed: 1 (0.41%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.41%) (Ranked 207)
 | 2023-11-08 | 207 | 1 |
 | 2023-11-09 | 230 | 1 |
 | 2023-11-10 | 242 | 1 |
-| 2023-11-11 | 244 | 1 |
+| 2023-11-11 | 245 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

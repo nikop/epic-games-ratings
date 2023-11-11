@@ -6,28 +6,28 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~446,406 |
-| The Three | 64.00% | ~344,216 |
-| The Banquet | 40.00% | ~215,135 |
-| Devara's Light | 31.00% | ~166,730 |
-| The Iron Ones | 18.00% | ~96,811 |
-| The Village | 17.00% | ~91,432 |
+| Find Sanctuary | 83.00% | ~446,409 |
+| The Three | 64.00% | ~344,219 |
+| The Banquet | 40.00% | ~215,137 |
+| Devara's Light | 31.00% | ~166,731 |
+| The Iron Ones | 18.00% | ~96,812 |
+| The Village | 17.00% | ~91,433 |
 | The Forest | 15.00% | ~80,676 |
-| The Keep | 14.00% | ~75,297 |
+| The Keep | 14.00% | ~75,298 |
 | Branded | 13.00% | ~69,919 |
 | The Imposter | 13.00% | ~69,919 |
-| The Castle | 11.00% | ~59,162 |
-| The Dome | 9.00% | ~48,405 |
-| The Red Hall | 9.00% | ~48,405 |
+| The Castle | 11.00% | ~59,163 |
+| The Dome | 9.00% | ~48,406 |
+| The Red Hall | 9.00% | ~48,406 |
 | The Sacrifice | 8.00% | ~43,027 |
 | The Ziggurat | 8.00% | ~43,027 |
 | The Cave | 7.00% | ~37,649 |
 | The Mire | 7.00% | ~37,649 |
 | The Stone Roots | 7.00% | ~37,649 |
-| Storied | 6.00% | ~32,270 |
-| The Construct | 6.00% | ~32,270 |
-| The Lake | 6.00% | ~32,270 |
-| The Ruins | 6.00% | ~32,270 |
+| Storied | 6.00% | ~32,271 |
+| The Construct | 6.00% | ~32,271 |
+| The Lake | 6.00% | ~32,271 |
+| The Ruins | 6.00% | ~32,271 |
 | The Alkymancery | 5.00% | ~26,892 |
 | The Pitchwoods | 5.00% | ~26,892 |
 | Honed | 4.00% | ~21,514 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,757 |
 | Fading Fast | 1.00% | ~5,378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,838 (Ranked 33)  
+Progressed: 537,842 (Ranked 33)  
 Completed: 1,610 (0.30%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 1,610 (0.30%) (Ranked 226)
 | 2023-11-08 | 537,639 | 1,609 |
 | 2023-11-09 | 537,728 | 1,610 |
 | 2023-11-10 | 537,824 | 1,610 |
-| 2023-11-11 | 537,838 | 1,610 |
+| 2023-11-11 | 537,842 | 1,610 |
 ## Awards
 Max (Challenging Combat): 292  (Ranked 253)  
 Sum: 1,990 (Ranked 209)  

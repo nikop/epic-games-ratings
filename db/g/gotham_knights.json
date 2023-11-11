@@ -4079,9 +4079,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76254,
+  "EOS_Progressed": 76257,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22179,6 +22179,11 @@
       "Time": "2023-11-11T02:51:09.6558219+00:00",
       "NumProgressed": 76254,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-11T03:16:08.6752965+00:00",
+      "NumProgressed": 76257,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22238,7 +22243,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17538
+      "UsersEstimate": 17539
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -22270,7 +22275,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9150
+      "UsersEstimate": 9151
     },
     {
       "ID": "APPLY_STATUS",
@@ -22278,7 +22283,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11438
+      "UsersEstimate": 11439
     },
     {
       "ID": "CHALLENGES_1",
@@ -22286,7 +22291,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 12963
+      "UsersEstimate": 12964
     },
     {
       "ID": "CLAYFACE_1",
@@ -22294,7 +22299,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16013
+      "UsersEstimate": 16014
     },
     {
       "ID": "CLAYFACE_2",
@@ -22366,7 +22371,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9150
+      "UsersEstimate": 9151
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -22406,7 +22411,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 7625
+      "UsersEstimate": 7626
     },
     {
       "ID": "FREEZE_1",
@@ -22414,7 +22419,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21351
+      "UsersEstimate": 21352
     },
     {
       "ID": "FREEZE_1_5",
@@ -22422,7 +22427,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16013
+      "UsersEstimate": 16014
     },
     {
       "ID": "FREEZE_2",
@@ -22430,7 +22435,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14488
+      "UsersEstimate": 14489
     },
     {
       "ID": "FREEZE_3",
@@ -22494,7 +22499,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26689
+      "UsersEstimate": 26690
     },
     {
       "ID": "HARLEY_2",
@@ -22534,7 +22539,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38890
+      "UsersEstimate": 38891
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22582,7 +22587,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25926
+      "UsersEstimate": 25927
     },
     {
       "ID": "MYSTERY_02",
@@ -22598,7 +22603,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16776
+      "UsersEstimate": 16777
     },
     {
       "ID": "MYSTERY_04",
@@ -22622,7 +22627,7 @@
       "Name": "Voiceless",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 11438
+      "UsersEstimate": 11439
     },
     {
       "ID": "MYSTERY_07",
@@ -22638,7 +22643,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9150
+      "UsersEstimate": 9151
     },
     {
       "ID": "SECRET_CACHE",
@@ -22677,13 +22682,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76254,
+      "Progressed": 76257,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46534,
+      "Progressed": 46537,
       "Completed": 2673
     }
   ],
@@ -22691,8 +22696,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-10T21:07:14.2181021+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:51:09.6558215+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:16:08.6752962+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:25.613263+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:46:48.3434678+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:51:09.6559988+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:11:48.6953179+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:16:08.6754674+00:00"
 }

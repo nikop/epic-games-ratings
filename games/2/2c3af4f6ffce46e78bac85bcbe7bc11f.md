@@ -17,17 +17,17 @@
 | Something monumental... | 12.00% | ~11 |
 | Something reflective... | 12.00% | ~11 |
 | Something to make you dream... (fragile) | 10.00% | ~9 |
+| Something free... (fragile) | 9.00% | ~8 |
+| Something gentle... (fragile) | 9.00% | ~8 |
 | Something ever-changing... (fragile) | 9.00% | ~8 |
+| Something fully in bloom... (fragile) | 9.00% | ~8 |
+| Something foundational... (fragile) | 9.00% | ~8 |
+| Somewhere to belong... (fragile) | 9.00% | ~8 |
+| Something monumental... (fragile) | 9.00% | ~8 |
 | Something to long for... (fragile) | 9.00% | ~8 |
-| Something free... (fragile) | 8.00% | ~7 |
-| Something gentle... (fragile) | 8.00% | ~7 |
-| Something fully in bloom... (fragile) | 8.00% | ~7 |
+| Something firmly rooted... (fragile) | 9.00% | ~8 |
+| Something reflective... (fragile) | 9.00% | ~8 |
 | Something fragile... | 8.00% | ~7 |
-| Something foundational... (fragile) | 8.00% | ~7 |
-| Somewhere to belong... (fragile) | 8.00% | ~7 |
-| Something monumental... (fragile) | 8.00% | ~7 |
-| Something firmly rooted... (fragile) | 8.00% | ~7 |
-| Something reflective... (fragile) | 8.00% | ~7 |
 | Something more... | 6.00% | ~5 |
 | Something more... (fragile) | 6.00% | ~5 |
 ## Popularity (Based on EOS Achievements)

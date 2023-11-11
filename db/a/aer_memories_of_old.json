@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23859,
+  "EOS_Progressed": 23860,
   "EOS_Completed": 454,
-  "EOS_NewPlayers": 481,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -22378,6 +22378,11 @@
       "Time": "2023-11-11T02:51:06.650525+00:00",
       "NumProgressed": 23859,
       "NumCompleted": 454
+    },
+    {
+      "Time": "2023-11-11T03:16:05.8246843+00:00",
+      "NumProgressed": 23860,
+      "NumCompleted": 454
     }
   ],
   "TotalAchievements": 20,
@@ -22421,7 +22426,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2624
+      "UsersEstimate": 2625
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -22509,7 +22514,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18371
+      "UsersEstimate": 18372
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22548,15 +22553,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23859,
+      "Progressed": 23860,
       "Completed": 454
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:51:06.6505246+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:16:05.8246837+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:37.680563+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:45:37.4657414+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:51:06.6506853+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:10:38.4950296+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:16:05.824815+00:00"
 }

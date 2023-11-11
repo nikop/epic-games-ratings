@@ -5,10 +5,10 @@ Rating: 4.60 (Ranked 412)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,528 |
+| Azoria Beckons | 72.00% | ~5,529 |
 | A Thorny Situation | 70.00% | ~5,375 |
 | ... And Spit Back Out | 61.00% | ~4,684 |
-| Break-Net Speed | 49.00% | ~3,762 |
+| Break-Net Speed | 49.00% | ~3,763 |
 | Bramble Breaker | 46.00% | ~3,532 |
 | Miner 49er | 43.00% | ~3,302 |
 | Humble Collector | 42.00% | ~3,225 |
@@ -27,7 +27,7 @@ Rating: 4.60 (Ranked 412)
 | Got to Catch Them All | 8.00% | ~614 |
 | Rumble in the Jumble | 8.00% | ~614 |
 | Fanatical Farmer | 8.00% | ~614 |
-| Fae Farmer | 7.00% | ~537 |
+| Fae Farmer | 7.00% | ~538 |
 | Scattered Scroll Scrounger | 6.00% | ~461 |
 | Azorian Anniversary | 6.00% | ~461 |
 | I Now Pronounce You... | 5.00% | ~384 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 412)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,678 (Ranked 169)  
+Progressed: 7,679 (Ranked 169)  
 Completed: 1 (0.01%) (Ranked 325)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 1 (0.01%) (Ranked 325)
 | 2023-11-08 | 7,630 | 1 |
 | 2023-11-09 | 7,646 | 1 |
 | 2023-11-10 | 7,674 | 1 |
-| 2023-11-11 | 7,678 | 1 |
+| 2023-11-11 | 7,679 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

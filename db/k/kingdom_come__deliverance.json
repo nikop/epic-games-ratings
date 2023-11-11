@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 49,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -8463,9 +8463,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 807888,
+  "EOS_Progressed": 807889,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 837,
+  "EOS_NewPlayers": 838,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31398,6 +31398,11 @@
       "Time": "2023-11-11T02:52:21.6244913+00:00",
       "NumProgressed": 807888,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-11T03:17:20.913798+00:00",
+      "NumProgressed": 807889,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -31441,7 +31446,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 169656
+      "UsersEstimate": 169657
     },
     {
       "ID": "BadGirl",
@@ -31729,7 +31734,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 105025
+      "UsersEstimate": 105026
     },
     {
       "ID": "Judas",
@@ -32064,15 +32069,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 807888,
+      "Progressed": 807889,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-10T17:17:36.267772+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:52:21.6244908+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:17:20.9137978+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:22.089213+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:50:20.0330231+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:52:21.6247382+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:15:18.8097601+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:17:20.9139391+00:00"
 }

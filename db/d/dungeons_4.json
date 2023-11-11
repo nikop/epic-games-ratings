@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -179,25 +179,25 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_main01begin_die",
       "SetID": "4hg22ll",
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_main01begin_storm",
       "SetID": "4hg22ll",
       "Name": "Thalya\u0027s Concentrated Fury",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ach_main02horde_completed",
@@ -211,25 +211,25 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 67
     },
     {
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_main03demon_doors",
@@ -243,17 +243,17 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_main04undead_minions",
@@ -283,9 +283,9 @@
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -323,33 +323,33 @@
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_main07storm_completed",
       "SetID": "4hg22ll",
       "Name": "The Ascent",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_main07storm_storm",
       "SetID": "4hg22ll",
       "Name": "It\u0027s Warm and Cozy at Home",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -411,9 +411,9 @@
       "ID": "ach_main10fire_freehorde",
       "SetID": "4hg22ll",
       "Name": "Unstoppable Horde",
-      "Percentage": 0.6,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_main10fire_naga",
@@ -674,8 +674,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:50:38.827601+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:15:38.3852869+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:05.212996+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:45:10.6531341+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:50:38.827669+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:10:11.8867572+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:15:38.3853248+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 382,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -5506,9 +5506,9 @@
       "ID": "AFortressToppled_14",
       "SetID": "c4hee28",
       "Name": "A Fortress Toppled!",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 620
     },
     {
       "ID": "AceDetective_9",
@@ -5850,8 +5850,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2023-09-17T17:59:20.5916626+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:50:55.382011+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:15:54.9194136+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:24.5230237+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:44:51.8198955+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:50:55.3820761+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:09:53.4956999+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:15:54.9194643+00:00"
 }

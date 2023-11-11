@@ -925,9 +925,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 536891,
+  "EOS_Progressed": 536892,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1411,
+  "EOS_NewPlayers": 1408,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24045,6 +24045,11 @@
       "Time": "2023-11-11T02:52:49.1119683+00:00",
       "NumProgressed": 536891,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-11T03:17:48.4648581+00:00",
+      "NumProgressed": 536892,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -24152,7 +24157,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 209387
+      "UsersEstimate": 209388
     },
     {
       "ID": "DeadlyAssassin",
@@ -24184,7 +24189,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32213
+      "UsersEstimate": 32214
     },
     {
       "ID": "GoForIt",
@@ -24208,7 +24213,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 220125
+      "UsersEstimate": 220126
     },
     {
       "ID": "HoldingYourOwn",
@@ -24304,7 +24309,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 408037
+      "UsersEstimate": 408038
     },
     {
       "ID": "ProPlayer",
@@ -24415,7 +24420,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 536891,
+      "Progressed": 536892,
       "Completed": 2
     }
   ],
@@ -24423,8 +24428,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-10T11:58:45.6849348+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:52:49.1119678+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:17:48.4648578+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:13.8463106+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:46:38.5058341+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:52:49.112155+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:11:38.8788762+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:17:48.464989+00:00"
 }

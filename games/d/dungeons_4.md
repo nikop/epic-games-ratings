@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 79.00% | ~126 |
-| Thalya – Simply Immortal | 79.00% | ~126 |
-| For the Horde! | 69.00% | ~110 |
+| The Last Stand | 80.00% | ~127 |
+| Thalya – Simply Immortal | 80.00% | ~127 |
+| For the Horde! | 70.00% | ~111 |
 | Hammer Time, Round Two | 64.00% | ~102 |
-| Thalya's Concentrated Fury | 62.00% | ~99 |
-| The Hellwoods | 54.00% | ~86 |
+| Thalya's Concentrated Fury | 63.00% | ~100 |
+| The Hellwoods | 55.00% | ~87 |
 | Master of Magic | 45.00% | ~72 |
-| Experienced Thalya | 42.00% | ~67 |
-| Trap Master | 40.00% | ~64 |
-| Magic Accidents | 40.00% | ~64 |
-| The Plains of Strothalm | 38.00% | ~60 |
+| Experienced Thalya | 43.00% | ~68 |
+| Trap Master | 42.00% | ~67 |
+| Magic Accidents | 41.00% | ~65 |
+| The Plains of Strothalm | 39.00% | ~62 |
 | Unicorn steaks – fresh off the hoof! | 38.00% | ~60 |
 | Bad Elves Go Everywhere | 35.00% | ~56 |
 | Minions, Minions! | 31.00% | ~49 |
@@ -22,22 +22,22 @@
 | YOU SHALL NOT PASS! | 16.00% | ~25 |
 | Mana Cannon | 13.00% | ~21 |
 | Sacrificial Pit = Garbage Disposal? | 8.00% | ~13 |
-| Pure Dynamite! | 7.00% | ~11 |
-| The Ascent | 6.00% | ~10 |
-| It's Warm and Cozy at Home | 6.00% | ~10 |
-| Hard Work | 5.00% | ~8 |
+| Pure Dynamite! | 8.00% | ~13 |
+| The Ascent | 7.00% | ~11 |
+| It's Warm and Cozy at Home | 7.00% | ~11 |
+| Hard Work | 6.00% | ~10 |
 | The Big Eaty | 5.00% | ~8 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 4.00% | ~6 |
 | Hungry, Hungry Gorgu! | 3.00% | ~5 |
 | “… like son” | 3.00% | ~5 |
 | Dungeonlord Gorgu | 2.00% | ~3 |
 | Forbidden Knowledge | 2.00% | ~3 |
+| Unstoppable Horde | 1.00% | ~2 |
 | Shame! Shame! Shame! | 1.00% | ~2 |
 | All’s Well That Ends Evil | 1.00% | ~2 |
 | Stop Tanos! | 1.00% | ~2 |
 | My Little Torture Chamber | 1.00% | ~2 |
 | The Cathedral of Light | 0.60% | ~1 |
-| Unstoppable Horde | 0.60% | ~1 |
 | Tanos' Crusade Against Thalya | 0.60% | ~1 |
 | Ghost Pirates? Ghost Heroes! | 0.60% | ~1 |
 | Master of the Undead | 0.60% | ~1 |

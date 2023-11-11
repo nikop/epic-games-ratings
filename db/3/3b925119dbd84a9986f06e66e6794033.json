@@ -2,9 +2,9 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 382,
+  "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 171,
+  "EOS_Progressed": 172,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -534,6 +534,11 @@
       "Time": "2023-11-11T02:56:02.2554449+00:00",
       "NumProgressed": 171,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T03:21:00.7688427+00:00",
+      "NumProgressed": 172,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -592,9 +597,9 @@
       "ID": "HYPNO_OUTLIER_ONLY_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Galaxy Brain",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 5
     },
     {
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
@@ -632,9 +637,9 @@
       "ID": "RISKYTEXT_VOTE_FOR_EDITED_WORD",
       "SetID": "9j9h72e",
       "Name": "FixyText: Co-author",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "TIME_JINX",
@@ -642,7 +647,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "TIME_ORWELL",
@@ -705,14 +710,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 171,
+      "Progressed": 172,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-11T02:56:02.2554444+00:00",
+  "LastChanged_Achievements": "2023-11-11T03:21:00.7688424+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:06.8109666+00:00",
-  "LastUpdate_Ratings": "2023-11-11T02:45:18.886493+00:00",
-  "LastUpdate_Achievements": "2023-11-11T02:56:02.255463+00:00"
+  "LastUpdate_Ratings": "2023-11-11T03:10:19.8372989+00:00",
+  "LastUpdate_Achievements": "2023-11-11T03:21:00.7688619+00:00"
 }

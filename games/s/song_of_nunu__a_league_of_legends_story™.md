@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~474 |
-| I Broke It | 72.00% | ~455 |
-| Better On Ice | 70.00% | ~442 |
-| Blue Dreams | 69.00% | ~436 |
-| Notai Notes | 69.00% | ~436 |
+| Feels Familiar | 75.00% | ~475 |
+| I Broke It | 72.00% | ~456 |
+| Better On Ice | 70.00% | ~443 |
+| Notai Notes | 69.00% | ~437 |
+| Blue Dreams | 68.00% | ~430 |
 | He's Famous! | 68.00% | ~430 |
-| Krugmazing | 66.00% | ~417 |
-| Cutie Poro | 66.00% | ~417 |
-| The Fire Below the Mountain | 63.00% | ~398 |
-| Moneyball | 59.00% | ~373 |
+| Krugmazing | 66.00% | ~418 |
+| Cutie Poro | 66.00% | ~418 |
+| The Fire Below the Mountain | 63.00% | ~399 |
+| Moneyball | 60.00% | ~380 |
 | Iceborn | 55.00% | ~348 |
-| No Bites | 54.00% | ~341 |
+| No Bites | 54.00% | ~342 |
 | Tear of Freedom | 50.00% | ~316 |
 | Boom Things | 50.00% | ~316 |
 | My Darkest Day | 46.00% | ~291 |
 | Rhythm Of Willump | 46.00% | ~291 |
 | The Relentless Storm | 43.00% | ~272 |
-| A Tragic Reminder | 41.00% | ~259 |
-| 3000 Year Blackout | 41.00% | ~259 |
-| True Legends | 41.00% | ~259 |
+| A Tragic Reminder | 41.00% | ~260 |
+| 3000 Year Blackout | 41.00% | ~260 |
+| True Legends | 41.00% | ~260 |
 | The Finisher | 40.00% | ~253 |
 | So Close | 37.00% | ~234 |
 | You Get Used To It | 36.00% | ~228 |
@@ -34,7 +34,7 @@
 | Biggest Snowball Ever | 33.00% | ~209 |
 | Freeze The Ice Witch | 33.00% | ~209 |
 | Deadliest and Biggest Snowball Ever! | 33.00% | ~209 |
-| Never Gets Old | 32.00% | ~202 |
+| Never Gets Old | 32.00% | ~203 |
 | It Is Not Over | 31.00% | ~196 |
 | Snowy Poro | 31.00% | ~196 |
 | Vertical Power | 28.00% | ~177 |
@@ -49,7 +49,7 @@
 | Sneaky Notai | 2.00% | ~13 |
 | Rock Star | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 632 (Ranked 278)  
+Progressed: 633 (Ranked 278)  
 Completed: 5 (0.79%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 5 (0.79%) (Ranked 172)
 | 2023-11-08 | 584 | 5 |
 | 2023-11-09 | 612 | 5 |
 | 2023-11-10 | 631 | 5 |
-| 2023-11-11 | 632 | 5 |
+| 2023-11-11 | 633 | 5 |
