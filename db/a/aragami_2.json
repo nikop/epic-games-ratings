@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43837,
+  "EOS_Progressed": 43838,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17394,6 +17394,11 @@
       "Time": "2023-11-11T11:03:26.8481862+00:00",
       "NumProgressed": 43837,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-11T12:03:05.3371495+00:00",
+      "NumProgressed": 43838,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 44,
@@ -17405,7 +17410,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24987
+      "UsersEstimate": 24988
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17413,7 +17418,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13589
+      "UsersEstimate": 13590
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -17493,7 +17498,7 @@
       "Name": "Left Behind",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -17501,7 +17506,7 @@
       "Name": "Secrets of the Earth",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -17517,7 +17522,7 @@
       "Name": "Heart of Fire",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -17613,7 +17618,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8767
+      "UsersEstimate": 8768
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -17629,7 +17634,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24110
+      "UsersEstimate": 24111
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -17645,7 +17650,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27617
+      "UsersEstimate": 27618
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -17669,7 +17674,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26302
+      "UsersEstimate": 26303
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -17741,7 +17746,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40768
+      "UsersEstimate": 40769
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -17749,14 +17754,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22795
+      "UsersEstimate": 22796
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43837,
+      "Progressed": 43838,
       "Completed": 240
     }
   ],
@@ -17764,8 +17769,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-11T11:03:26.8481857+00:00",
+  "LastChanged_Achievements": "2023-11-11T12:03:05.337149+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:11.8330264+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:00:51.5632929+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:03:26.8483197+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:59:44.5745197+00:00",
+  "LastUpdate_Achievements": "2023-11-11T12:03:05.3372951+00:00"
 }

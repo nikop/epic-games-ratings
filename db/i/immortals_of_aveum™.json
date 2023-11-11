@@ -1528,9 +1528,9 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "achievement_8",
@@ -1561,8 +1561,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-08T02:57:46.8975231+00:00",
-  "LastChanged_Achievements": "2023-11-11T11:08:01.7599163+00:00",
+  "LastChanged_Achievements": "2023-11-11T12:06:22.3947267+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:37.9415415+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:59:39.5312868+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:08:01.7599635+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:58:57.3009806+00:00",
+  "LastUpdate_Achievements": "2023-11-11T12:06:22.3947705+00:00"
 }

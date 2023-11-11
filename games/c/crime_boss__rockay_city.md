@@ -16,8 +16,8 @@ Rating: 3.95 (Ranked 1,005)
 | Off the Rocks | 1.00% | ~904 |
 | Raider’s Ruin | 1.00% | ~904 |
 | Dragonslayer | 1.00% | ~904 |
-| Case Closed | 0.90% | ~813 |
-| Rockay Rex | 0.90% | ~813 |
+| Case Closed | 0.90% | ~814 |
+| Rockay Rex | 0.90% | ~814 |
 | Hidden Sonata | 0.80% | ~723 |
 | Track Star | 0.70% | ~633 |
 | True Player | 0.70% | ~633 |
@@ -39,15 +39,15 @@ Rating: 3.95 (Ranked 1,005)
 | Cracked the Jack | 0.20% | ~181 |
 | Red Star | 0.20% | ~181 |
 | Classy Joint | 0.20% | ~181 |
+| Impossible Dreamer | 0.20% | ~181 |
 | All for One | 0.20% | ~37 |
 | One for All | 0.20% | ~37 |
 | Privateer | 0.10% | ~90 |
 | Full House | 0.10% | ~90 |
 | Geek Out | 0.10% | ~90 |
-| Impossible Dreamer | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,376 (Ranked 91)  
+Progressed: 90,392 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
-| 2023-11-11 | 90,376 | 55 |
+| 2023-11-11 | 90,392 | 55 |
 ## Awards
 Max (Diverse Characters): 526  (Ranked 203)  
 Sum: 2,987 (Ranked 175)  

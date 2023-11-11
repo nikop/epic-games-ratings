@@ -8,6 +8,7 @@ Rating: 4.56 (Ranked 486)
 | Oyedang, Kopengs | 7.00% | ~1,038 |
 | The Pit and the Pirates | 3.00% | ~445 |
 | Drug Gifter | 3.00% | ~445 |
+| Martian Music | 3.00% | ~445 |
 | Drone Dodger | 3.00% | ~445 |
 | Bosmang | 3.00% | ~445 |
 | Celebrations are in Order | 3.00% | ~445 |
@@ -18,7 +19,6 @@ Rating: 4.56 (Ranked 486)
 | Data Archivist | 2.00% | ~297 |
 | Stogie for Fogey | 2.00% | ~297 |
 | Spore Taste | 2.00% | ~297 |
-| Martian Music | 2.00% | ~297 |
 | Heal Thy Medic | 2.00% | ~297 |
 | Khan's Revenge | 2.00% | ~297 |
 | Call it Even | 2.00% | ~297 |

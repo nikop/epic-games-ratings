@@ -6,26 +6,26 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Peak Performance | 54.00% | ~3,897 |
-| Tutti Eroi! | 54.00% | ~3,897 |
-| You Shall Not Pass | 53.00% | ~3,825 |
-| Avanti Savoia! | 47.00% | ~3,392 |
-| Mamma Mia! | 38.00% | ~2,742 |
-| Conrad von Hotzensocks | 35.00% | ~2,526 |
+| Peak Performance | 54.00% | ~3,898 |
+| Tutti Eroi! | 54.00% | ~3,898 |
+| You Shall Not Pass | 53.00% | ~3,826 |
+| Avanti Savoia! | 47.00% | ~3,393 |
+| Mamma Mia! | 38.00% | ~2,743 |
+| Conrad von Hotzensocks | 35.00% | ~2,527 |
 | Gabriele D'Annunzio | 34.00% | ~2,454 |
-| Silver Lining | 30.00% | ~2,165 |
-| Aurelio Baruzzi | 24.00% | ~1,732 |
+| Silver Lining | 30.00% | ~2,166 |
+| Aurelio Baruzzi | 24.00% | ~1,733 |
 | Decimation | 22.00% | ~1,588 |
 | Donatello | 22.00% | ~1,588 |
-| The Italian Job | 22.00% | ~1,588 |
 | Veni Vidi Vici | 22.00% | ~1,588 |
-| Insubordination | 20.00% | ~1,443 |
-| Ragazzi del '99 | 19.00% | ~1,371 |
+| The Italian Job | 21.00% | ~1,516 |
+| Insubordination | 20.00% | ~1,444 |
+| Ragazzi del '99 | 19.00% | ~1,372 |
 | The Lion of the Isonzo | 18.00% | ~1,299 |
 | Luigi Cadorna | 16.00% | ~1,155 |
-| Dirty Dozen | 14.00% | ~1,010 |
-| Shaken, Not Stirred | 14.00% | ~1,010 |
-| Uomo Universale | 14.00% | ~1,010 |
+| Dirty Dozen | 14.00% | ~1,011 |
+| Shaken, Not Stirred | 14.00% | ~1,011 |
+| Uomo Universale | 14.00% | ~1,011 |
 | Die Bosniaken Kommen! | 13.00% | ~938 |
 | Machiavelli | 13.00% | ~938 |
 | Thus With A Kiss | 13.00% | ~938 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~29 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,217 (Ranked 173)  
+Progressed: 7,219 (Ranked 173)  
 Completed: 9 (0.12%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,11 +251,11 @@ Completed: 9 (0.12%) (Ranked 265)
 | 2023-11-08 | 7,125 | 9 |
 | 2023-11-09 | 7,134 | 9 |
 | 2023-11-10 | 7,195 | 9 |
-| 2023-11-11 | 7,217 | 9 |
+| 2023-11-11 | 7,219 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 464)  
-Sum: 275 (Ranked 370)  
-Diff (max vs sum): 94  
+Sum: 277 (Ranked 369)  
+Diff (max vs sum): 95  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 36 |
@@ -263,10 +263,10 @@ Diff (max vs sum): 94
 | This game has Diverse Characters | 34 |
 | This game has Realistic Visuals | 34 |
 | This game has Amazing Characters | 32 |
+| This game has Quickly Understood Controls | 30 |
 | This game has Challenging Combat | 30 |
-| This game has Quickly Understood Controls | 29 |
 | This game is Educational | 28 |
-| This game has Competitive Players | 25 |
+| This game has Competitive Players | 26 |
 | This game has Amazing Storytelling | 21 |
 | This game has a Kind Community | 20 |
 ## Ratings History
@@ -388,3 +388,4 @@ Diff (max vs sum): 94
 | 2023-11-04 | 4.55 | - | 36 | 272 |
 | 2023-11-09 | 4.55 | - | 36 | 274 |
 | 2023-11-10 | 4.55 | - | 36 | 275 |
+| 2023-11-11 | 4.55 | - | 36 | 277 |

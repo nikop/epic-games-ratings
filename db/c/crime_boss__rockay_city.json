@@ -4557,9 +4557,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 90376,
+  "EOS_Progressed": 90392,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 852,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24822,6 +24822,11 @@
       "Time": "2023-11-11T11:05:20.7070596+00:00",
       "NumProgressed": 90376,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-11T12:04:27.3448249+00:00",
+      "NumProgressed": 90392,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -25049,7 +25054,7 @@
       "Name": "Case Closed",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "ACH_0420",
@@ -25111,9 +25116,9 @@
       "ID": "ACH_0460",
       "SetID": "3kam13l",
       "Name": "Impossible Dreamer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 55,
-      "UsersEstimate": 90
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_0600",
@@ -25121,7 +25126,7 @@
       "Name": "Rockay Rex",
       "Percentage": 0.9,
       "XP": 100,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "ACH_1010",
@@ -25160,13 +25165,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90376,
+      "Progressed": 90392,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18723,
+      "Progressed": 18739,
       "Completed": 15565
     }
   ],
@@ -25174,8 +25179,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-11T08:01:15.5612509+00:00",
-  "LastChanged_Achievements": "2023-11-11T11:05:20.7070591+00:00",
+  "LastChanged_Achievements": "2023-11-11T12:04:27.3448244+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
   "LastUpdate_Ratings": "2023-11-11T11:02:44.7215745+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:05:20.7072111+00:00"
+  "LastUpdate_Achievements": "2023-11-11T12:04:27.3450071+00:00"
 }

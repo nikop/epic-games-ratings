@@ -2,12 +2,12 @@
   "ID": "6acf92329bc449068201ee9a3f399a13",
   "Name": "Nioh 2 \u2013 The Complete Edition",
   "ProductSlug": "nioh-2-the-complete-edition",
-  "Ranking_Rating": 87,
+  "Ranking_Rating": 88,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 115,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2021-09-23T14:56:18+00:00",
@@ -4208,10 +4208,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 7255,
       "NumberOfAwardsMax": 2508
+    },
+    {
+      "Time": "2023-11-11T11:58:07.7682743+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 7256,
+      "NumberOfAwardsMax": 2508
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7255,
+  "NumberOfAwards": 7256,
   "NumberOfAwardsMax": 2508,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4225,7 +4231,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 1866
+      "Count": 1867
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4299,8 +4305,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:27:13.8820605+00:00",
-  "LastChanged": "2023-11-11T10:58:25.4180088+00:00",
-  "LastUpdate_AppInfo": "2023-11-04T10:57:01.2376545+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:58:25.4180092+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:09:10.9278638+00:00"
+  "LastChanged": "2023-11-11T11:58:07.7682742+00:00",
+  "LastUpdate_AppInfo": "2023-11-11T11:57:10.4256119+00:00",
+  "LastUpdate_Ratings": "2023-11-11T11:58:07.7682747+00:00",
+  "LastUpdate_Achievements": "2023-11-11T12:08:40.2600287+00:00"
 }

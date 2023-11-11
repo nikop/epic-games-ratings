@@ -2,7 +2,7 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_EOS_Progress": 384,
+  "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 134,
@@ -525,8 +525,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-11T11:09:42.3083009+00:00",
+  "LastChanged_Achievements": "2023-11-11T12:09:02.7516311+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:58:06.8896418+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:09:42.3083173+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:57:55.6340228+00:00",
+  "LastUpdate_Achievements": "2023-11-11T12:09:02.7516523+00:00"
 }

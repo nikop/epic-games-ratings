@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1617,
+  "EOS_Progressed": 1619,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3574,6 +3574,11 @@
       "Time": "2023-11-11T11:07:37.6811648+00:00",
       "NumProgressed": 1617,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T12:06:05.2963193+00:00",
+      "NumProgressed": 1619,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3617,7 +3622,7 @@
       "Name": "You\u0027re Gonna Go Far, Kid",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "Commandos",
@@ -3633,7 +3638,7 @@
       "Name": "Death to the Oppressor!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Defense_Common",
@@ -3657,7 +3662,7 @@
       "Name": "Lock, Stock",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "E1M1",
@@ -3665,7 +3670,7 @@
       "Name": "E1M1",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "Everyone_is_here",
@@ -3697,7 +3702,7 @@
       "Name": "Grenadier",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "Hard_Serpent",
@@ -3735,9 +3740,9 @@
       "ID": "Its_very_spicy",
       "SetID": "85nb4h3",
       "Name": "Spice It Up",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 518
     },
     {
       "ID": "KillAllM2",
@@ -3777,7 +3782,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "Scout",
@@ -3801,7 +3806,7 @@
       "Name": "War Never Changes",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "We_were_not_here",
@@ -3824,15 +3829,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1617,
+      "Progressed": 1619,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-11T11:07:37.6811643+00:00",
+  "LastChanged_Achievements": "2023-11-11T12:06:05.2963188+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:16.0866865+00:00",
-  "LastUpdate_Ratings": "2023-11-11T11:00:45.4642004+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:07:37.6811964+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:59:40.582673+00:00",
+  "LastUpdate_Achievements": "2023-11-11T12:06:05.2963618+00:00"
 }

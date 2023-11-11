@@ -9,7 +9,7 @@
 | Clean Race | 41.00% | ~861 |
 | Hear That Roar! | 39.00% | ~819 |
 | Rivals to the End | 28.00% | ~588 |
-| Bitter Rivalry | 26.00% | ~546 |
+| Bitter Rivalry | 27.00% | ~567 |
 | We're Going to Need a Bigger Garage | 24.00% | ~504 |
 | Champagne Spray | 24.00% | ~504 |
 | Restored and Ready | 19.00% | ~399 |

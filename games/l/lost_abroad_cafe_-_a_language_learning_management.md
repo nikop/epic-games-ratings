@@ -13,8 +13,8 @@
 | Tea Guru | 5.00% | ~27 |
 | Countertop Champion | 0.50% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 547 (Ranked 292)  
-Completed: 2 (0.37%) (Ranked 214)  
+Progressed: 547 (Ranked 293)  
+Completed: 2 (0.37%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

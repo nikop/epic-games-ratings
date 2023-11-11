@@ -137,17 +137,17 @@
       "ID": "AlcoholMachine",
       "SetID": "a2ci5mh",
       "Name": "Alcoholic",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "EndPrologue",
       "SetID": "a2ci5mh",
       "Name": "Chapter 1",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FoundPig",
@@ -169,9 +169,9 @@
       "ID": "Underground",
       "SetID": "a2ci5mh",
       "Name": "Underground",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "VisorGlass1",
@@ -191,8 +191,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2023-11-11T11:03:35.0120617+00:00",
+  "LastChanged_Achievements": "2023-11-11T12:03:11.2868133+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:05.6534253+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:58:05.813568+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:03:35.0120774+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:57:54.8699779+00:00",
+  "LastUpdate_Achievements": "2023-11-11T12:03:11.2868225+00:00"
 }

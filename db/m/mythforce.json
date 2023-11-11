@@ -5,9 +5,9 @@
   "Ranking_Rating": 605,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 366,
-  "Ranking_EOS_Progress": 186,
+  "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4781,
+  "EOS_Progressed": 4784,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9050,6 +9050,11 @@
       "Time": "2023-11-11T11:09:56.8421984+00:00",
       "NumProgressed": 4781,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-11T12:09:13.3916959+00:00",
+      "NumProgressed": 4784,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9086,7 +9091,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -9102,7 +9107,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9110,7 +9115,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1195
+      "UsersEstimate": 1196
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9118,7 +9123,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -9150,7 +9155,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1147
+      "UsersEstimate": 1148
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9166,7 +9171,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -9222,7 +9227,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -9245,15 +9250,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4781,
+      "Progressed": 4784,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-11T11:09:56.842198+00:00",
+  "LastChanged_Achievements": "2023-11-11T12:09:13.3916955+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.5019999+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:57:02.7290113+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:09:56.8422566+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:57:12.1312618+00:00",
+  "LastUpdate_Achievements": "2023-11-11T12:09:13.391753+00:00"
 }

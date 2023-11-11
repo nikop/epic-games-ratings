@@ -22,9 +22,9 @@ Rating: 4.59 (Ranked 432)
 | Ogre friend | 30.00% | ~10 |
 | The fourth triplet | 30.00% | ~10 |
 | Wise man | 27.00% | ~9 |
+| Death of a legend | 27.00% | ~9 |
 | Beast slayer | 27.00% | ~9 |
 | Peacekeeper | 27.00% | ~9 |
-| Death of a legend | 24.00% | ~8 |
 | Archaeologist | 24.00% | ~8 |
 | Hard worker | 24.00% | ~8 |
 | Workaholic | 24.00% | ~8 |

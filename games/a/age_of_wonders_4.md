@@ -6,8 +6,8 @@ Rating: 4.61 (Ranked 384)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 1.00% | ~53 |
+| Realm Estate | 0.60% | ~32 |
 | Secret Technique | 0.60% | ~32 |
-| Realm Estate | 0.50% | ~27 |
 | A Wonderful Discovery | 0.50% | ~27 |
 | Walls Cannot Stop Us | 0.50% | ~27 |
 | Freed Lands of Manuhari | 0.50% | ~27 |
@@ -27,6 +27,7 @@ Rating: 4.61 (Ranked 384)
 | Impenetrable Fortress | 0.20% | ~11 |
 | Intimidation Tactics | 0.20% | ~11 |
 | Here be Dragons | 0.20% | ~11 |
+| Tipping the Scales | 0.20% | ~11 |
 | Blood of the Dragon | 0.20% | ~11 |
 | Mighty Hoard | 0.20% | ~11 |
 | Sehiran Oasis | 0.20% | ~11 |
@@ -56,7 +57,6 @@ Rating: 4.61 (Ranked 384)
 | Returning Circle | 0.10% | ~5 |
 | Betrayal Most Foul | 0.10% | ~5 |
 | I'll Fight You All | 0.10% | ~5 |
-| Tipping the Scales | 0.10% | ~5 |
 | Duality | 0.10% | ~5 |
 | Seal the Deal | 0.10% | ~5 |
 | A Very Special Ring | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | The Grey Wizard | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,345 (Ranked 183)  
+Progressed: 5,346 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
-| 2023-11-11 | 5,345 | 7 |
+| 2023-11-11 | 5,346 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 482)  
 Sum: 53 (Ranked 474)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 4,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -173,9 +173,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 100625,
+  "EOS_Progressed": 100626,
   "EOS_Completed": 4487,
-  "EOS_NewPlayers": 828,
+  "EOS_NewPlayers": 821,
   "EOS_NewCompleters": 101,
   "EOS_Completed_Percentage": 4.46,
   "EosHistory": [
@@ -6968,6 +6968,11 @@
       "Time": "2023-11-11T11:09:37.550732+00:00",
       "NumProgressed": 100625,
       "NumCompleted": 4487
+    },
+    {
+      "Time": "2023-11-11T12:08:59.4807554+00:00",
+      "NumProgressed": 100626,
+      "NumCompleted": 4487
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -7028,7 +7033,7 @@
       "Name": "The Art of Parley",
       "Percentage": 75,
       "XP": 75,
-      "UsersEstimate": 75469
+      "UsersEstimate": 75470
     },
     {
       "ID": "TheGoldenRatio",
@@ -7052,7 +7057,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 77481
+      "UsersEstimate": 77482
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -7075,7 +7080,7 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 100625,
+      "Progressed": 100626,
       "Completed": 4487
     }
   ],
@@ -7083,8 +7088,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2023-11-05T20:03:00.4569456+00:00",
-  "LastChanged_Achievements": "2023-11-11T11:09:37.5507316+00:00",
+  "LastChanged_Achievements": "2023-11-11T12:08:59.4807549+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:30.5933971+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:59:18.5241915+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:09:37.5507741+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:58:43.0525508+00:00",
+  "LastUpdate_Achievements": "2023-11-11T12:08:59.4808038+00:00"
 }

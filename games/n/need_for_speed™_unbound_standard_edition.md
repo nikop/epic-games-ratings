@@ -4,39 +4,39 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 92.00% | ~8,868 |
-| Cool Whip | 90.00% | ~8,675 |
-| Fashion Killa | 88.00% | ~8,482 |
-| Drop the Beat | 85.00% | ~8,193 |
-| Hey Lakeshore | 84.00% | ~8,097 |
-| 100 Miles and Runnin' | 83.00% | ~8,000 |
-| Public Enemy | 81.00% | ~7,808 |
-| Hey Speedie! | 67.00% | ~6,458 |
-| Rebel Without a Pause | 66.00% | ~6,362 |
-| Most Wanted | 63.00% | ~6,073 |
-| New Crew | 61.00% | ~5,880 |
-| Serious Guap | 52.00% | ~5,012 |
-| Style it Out | 52.00% | ~5,012 |
-| Escape Artist | 52.00% | ~5,012 |
-| Untouchable | 51.00% | ~4,916 |
-| Oh, It's On | 49.00% | ~4,723 |
-| Rydell's Rydes | 47.00% | ~4,530 |
-| Cash Money Millionaire | 45.00% | ~4,338 |
-| Lake Better Watch Out | 38.00% | ~3,663 |
-| Access All Areas | 33.00% | ~3,181 |
-| #Blessed | 33.00% | ~3,181 |
-| Found Family | 30.00% | ~2,892 |
-| The Collector | 29.00% | ~2,795 |
-| Kick it | 29.00% | ~2,795 |
-| In the Flow | 28.00% | ~2,699 |
-| Top Billin' | 22.00% | ~2,121 |
-| Teacher's Pet | 20.00% | ~1,928 |
-| Full House | 18.00% | ~1,735 |
-| Superstar | 18.00% | ~1,735 |
-| B for My Name | 17.00% | ~1,639 |
-| Mixtape | 17.00% | ~1,639 |
-| Bring Your A Game | 16.00% | ~1,542 |
-| Flow Master | 11.00% | ~1,060 |
+| Throwing up Tags | 92.00% | ~8,873 |
+| Cool Whip | 90.00% | ~8,680 |
+| Fashion Killa | 88.00% | ~8,488 |
+| Drop the Beat | 85.00% | ~8,198 |
+| Hey Lakeshore | 84.00% | ~8,102 |
+| 100 Miles and Runnin' | 83.00% | ~8,005 |
+| Public Enemy | 81.00% | ~7,812 |
+| Hey Speedie! | 67.00% | ~6,462 |
+| Rebel Without a Pause | 66.00% | ~6,366 |
+| Most Wanted | 63.00% | ~6,076 |
+| New Crew | 61.00% | ~5,883 |
+| Serious Guap | 52.00% | ~5,015 |
+| Style it Out | 52.00% | ~5,015 |
+| Escape Artist | 52.00% | ~5,015 |
+| Untouchable | 51.00% | ~4,919 |
+| Oh, It's On | 49.00% | ~4,726 |
+| Rydell's Rydes | 47.00% | ~4,533 |
+| Cash Money Millionaire | 45.00% | ~4,340 |
+| Lake Better Watch Out | 38.00% | ~3,665 |
+| Access All Areas | 33.00% | ~3,183 |
+| #Blessed | 33.00% | ~3,183 |
+| Found Family | 30.00% | ~2,894 |
+| The Collector | 29.00% | ~2,797 |
+| Kick it | 29.00% | ~2,797 |
+| In the Flow | 28.00% | ~2,701 |
+| Top Billin' | 22.00% | ~2,122 |
+| Teacher's Pet | 20.00% | ~1,929 |
+| Full House | 18.00% | ~1,736 |
+| Superstar | 18.00% | ~1,736 |
+| B for My Name | 17.00% | ~1,640 |
+| Mixtape | 17.00% | ~1,640 |
+| Bring Your A Game | 16.00% | ~1,543 |
+| Flow Master | 11.00% | ~1,061 |
 | The Bear Champ | 5.00% | ~482 |
 | Heaven Spot | 5.00% | ~482 |
 | Adbusting | 4.00% | ~386 |
@@ -46,7 +46,7 @@
 | Catch My Drift | 2.00% | ~193 |
 | Cleaning Up | 2.00% | ~193 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,639 (Ranked 159)  
+Progressed: 9,645 (Ranked 159)  
 Completed: 48 (0.50%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,4 +103,4 @@ Completed: 48 (0.50%) (Ranked 195)
 | 2023-11-08 | 9,310 | 47 |
 | 2023-11-09 | 9,436 | 47 |
 | 2023-11-10 | 9,581 | 48 |
-| 2023-11-11 | 9,639 | 48 |
+| 2023-11-11 | 9,645 | 48 |

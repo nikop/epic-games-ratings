@@ -18,29 +18,29 @@ Number of Ratings: 32,700  (23.09.2022)
 | Stanislavski's Method | 0.40% | ~3,585 |
 | The Hermit | 0.40% | ~3,585 |
 | True Warrior | 0.40% | ~3,585 |
-| Bushido and Chill | 0.30% | ~2,688 |
-| To Protect and Serve | 0.30% | ~2,688 |
-| Master Crafter | 0.30% | ~2,688 |
-| I Am The Law | 0.30% | ~2,688 |
-| Christmas Tree Attack | 0.30% | ~2,688 |
-| Life of the Road | 0.30% | ~2,688 |
-| The Fool | 0.30% | ~2,688 |
-| The High Priestess | 0.30% | ~2,688 |
-| The Lovers | 0.30% | ~2,688 |
-| The Wheel of Fortune | 0.30% | ~2,688 |
-| The World | 0.30% | ~2,688 |
-| Judy vs Night City | 0.30% | ~2,688 |
-| Legend of The Afterlife | 0.30% | ~2,688 |
+| Bushido and Chill | 0.30% | ~2,689 |
+| To Protect and Serve | 0.30% | ~2,689 |
+| Master Crafter | 0.30% | ~2,689 |
+| I Am The Law | 0.30% | ~2,689 |
+| Christmas Tree Attack | 0.30% | ~2,689 |
+| Life of the Road | 0.30% | ~2,689 |
+| The Fool | 0.30% | ~2,689 |
+| The High Priestess | 0.30% | ~2,689 |
+| The Lovers | 0.30% | ~2,689 |
+| The Wheel of Fortune | 0.30% | ~2,689 |
+| The World | 0.30% | ~2,689 |
+| Judy vs Night City | 0.30% | ~2,689 |
+| Legend of The Afterlife | 0.30% | ~2,689 |
 | Spin Doctor | 0.30% | ~74 |
 | King of Wands | 0.30% | ~74 |
 | Dirty Deeds | 0.30% | ~74 |
 | Easy Come, Easy Go | 0.30% | ~74 |
+| To Bad Decisions! | 0.20% | ~1,792 |
 | The Wandering Fool | 0.20% | ~1,792 |
 | The Sun | 0.20% | ~1,792 |
 | Two Heads, One Bullet | 0.20% | ~1,792 |
 | The Tower | 0.20% | ~50 |
 | City Lights | 0.10% | ~896 |
-| To Bad Decisions! | 0.10% | ~896 |
 | Autojock | 0.10% | ~896 |
 | Frequent Flyer | 0.10% | ~896 |
 | Gunslinger | 0.10% | ~896 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,160 (Ranked 15)  
+Progressed: 896,169 (Ranked 15)  
 Completed: 2,762 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,10 +279,10 @@ Completed: 2,762 (0.31%) (Ranked 224)
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
-| 2023-11-11 | 896,160 | 2,762 |
+| 2023-11-11 | 896,169 | 2,762 |
 ## Awards
 Max (Character Customization): 104,816  (Ranked 9)  
-Sum: 348,955 (Ranked 10)  
+Sum: 349,021 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 19,499 |
 | This game is Extremely Fun | 19,292 |
 | This game has Amazing Characters | 19,153 |
-| This game is Relaxing | 18,376 |
+| This game is Relaxing | 18,442 |
 | This game has Quickly Understood Controls | 18,361 |
 | This game has a Creative Community | 12,743 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -596,4 +596,4 @@ Diff (max vs sum): -1
 | 2023-11-08 | 4.64 | - | 104,529 | 346,547 |
 | 2023-11-09 | 4.64 | - | 104,676 | 347,471 |
 | 2023-11-10 | 4.64 | - | 104,816 | 348,364 |
-| 2023-11-11 | 4.64 | - | 104,816 | 348,955 |
+| 2023-11-11 | 4.64 | - | 104,816 | 349,021 |

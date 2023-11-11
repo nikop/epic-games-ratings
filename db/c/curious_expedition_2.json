@@ -5,9 +5,9 @@
   "Ranking_Rating": 174,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
-  "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_Progress": 324,
+  "Ranking_EOS_Completed": 229,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 134,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -70,11 +70,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338,
+  "EOS_Progressed": 339,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.3,
+  "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:50.9590463+00:00",
@@ -320,6 +320,11 @@
       "Time": "2023-11-10T05:09:32.8910991+00:00",
       "NumProgressed": 338,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T12:09:11.6120393+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -427,7 +432,7 @@
       "Name": "Traveller",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ach-campaign-finish-hard",
@@ -451,7 +456,7 @@
       "Name": "Iron Man",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ach-campaign-pacifist",
@@ -499,7 +504,7 @@
       "Name": "Roll to Save",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach-discover-locations",
@@ -507,7 +512,7 @@
       "Name": "Cartographer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ach-discover-locations-high",
@@ -531,7 +536,7 @@
       "Name": "Fire and Flood",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ach-find-treasure",
@@ -555,7 +560,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "ach-hardExpeditions",
@@ -593,9 +598,9 @@
       "ID": "ach-kill-animal-groups",
       "SetID": "17ih7ma",
       "Name": "Taxonomist",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 92
     },
     {
       "ID": "ach-kill-hyenas",
@@ -697,9 +702,9 @@
       "ID": "ach-paleMask-party",
       "SetID": "17ih7ma",
       "Name": "Uncertain Loyalties",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 81
     },
     {
       "ID": "ach-portal-return",
@@ -755,7 +760,7 @@
       "Name": "Cold Blood, Warm Heart",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach-spendNoMoney",
@@ -795,7 +800,7 @@
       "Name": "Errand Runner",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach-wearHat",
@@ -810,7 +815,7 @@
     {
       "ID": "17ih7ma",
       "IsBase": true,
-      "Progressed": 338,
+      "Progressed": 339,
       "Completed": 1
     }
   ],
@@ -818,8 +823,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-11T11:09:54.5426899+00:00",
+  "LastChanged_Achievements": "2023-11-11T12:09:11.6120388+00:00",
   "LastUpdate_AppInfo": "2023-11-11T10:57:00.2383512+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:57:07.8649204+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:09:54.5427438+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:57:15.7552548+00:00",
+  "LastUpdate_Achievements": "2023-11-11T12:09:11.6120955+00:00"
 }

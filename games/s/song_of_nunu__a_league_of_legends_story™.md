@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~477 |
+| Feels Familiar | 76.00% | ~483 |
 | I Broke It | 72.00% | ~458 |
 | Better On Ice | 70.00% | ~445 |
-| Notai Notes | 69.00% | ~439 |
+| Notai Notes | 70.00% | ~445 |
 | Blue Dreams | 68.00% | ~432 |
 | He's Famous! | 68.00% | ~432 |
+| Cutie Poro | 67.00% | ~426 |
 | Krugmazing | 66.00% | ~420 |
-| Cutie Poro | 66.00% | ~420 |
-| The Fire Below the Mountain | 63.00% | ~401 |
+| The Fire Below the Mountain | 64.00% | ~407 |
 | Moneyball | 59.00% | ~375 |
+| No Bites | 55.00% | ~350 |
 | Iceborn | 55.00% | ~350 |
-| No Bites | 54.00% | ~343 |
 | Tear of Freedom | 51.00% | ~324 |
 | Boom Things | 51.00% | ~324 |
 | My Darkest Day | 47.00% | ~299 |
@@ -49,7 +49,7 @@
 | Sneaky Notai | 2.00% | ~13 |
 | Rock Star | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 636 (Ranked 277)  
+Progressed: 636 (Ranked 278)  
 Completed: 5 (0.79%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |

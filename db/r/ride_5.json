@@ -5020,9 +5020,9 @@
       "ID": "ML_ACHIEVEMENT_37",
       "SetID": "c7hf6a4",
       "Name": "Bitter Rivalry",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 567
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5131,8 +5131,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-11T11:09:59.6140149+00:00",
+  "LastChanged_Achievements": "2023-11-11T12:09:15.6871607+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:21.2196342+00:00",
-  "LastUpdate_Ratings": "2023-11-11T10:59:06.4366125+00:00",
-  "LastUpdate_Achievements": "2023-11-11T11:09:59.6140708+00:00"
+  "LastUpdate_Ratings": "2023-11-11T11:58:35.1216578+00:00",
+  "LastUpdate_Achievements": "2023-11-11T12:09:15.6872309+00:00"
 }

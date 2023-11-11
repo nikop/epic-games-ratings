@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Nice Glass | 15.00% | ~3 |
+| Alcoholic | 10.00% | ~2 |
+| Chapter 1 | 10.00% | ~2 |
 | Piglet | 10.00% | ~2 |
 | Lost Cat | 10.00% | ~2 |
-| Alcoholic | 5.00% | ~1 |
-| Chapter 1 | 5.00% | ~1 |
-| Underground | 5.00% | ~1 |
+| Underground | 10.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 535)  
 Completed: 0 (0.00%) (Ranked 347)  
