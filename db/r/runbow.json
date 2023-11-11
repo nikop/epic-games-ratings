@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251169,
+  "EOS_Progressed": 251171,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18727,6 +18727,11 @@
       "Time": "2023-11-11T13:11:23.1485237+00:00",
       "NumProgressed": 251169,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-11T14:09:24.441312+00:00",
+      "NumProgressed": 251171,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -18762,7 +18767,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52745
+      "UsersEstimate": 52746
     },
     {
       "ID": "blotbuster",
@@ -18810,7 +18815,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 37675
+      "UsersEstimate": 37676
     },
     {
       "ID": "clearCut",
@@ -18834,7 +18839,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45210
+      "UsersEstimate": 45211
     },
     {
       "ID": "curator",
@@ -18914,7 +18919,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133120
+      "UsersEstimate": 133121
     },
     {
       "ID": "indegestible",
@@ -18978,7 +18983,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125584
+      "UsersEstimate": 125586
     },
     {
       "ID": "notScared",
@@ -19042,7 +19047,7 @@
       "Name": "The Stunner",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 55257
+      "UsersEstimate": 55258
     },
     {
       "ID": "thunderstruck",
@@ -19105,7 +19110,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251169,
+      "Progressed": 251171,
       "Completed": 6
     }
   ],
@@ -19113,8 +19118,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:11:23.1485232+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:09:24.4413111+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:10.071238+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:03:26.0760239+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:11:23.1486151+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:01:07.8165229+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:09:24.4415059+00:00"
 }

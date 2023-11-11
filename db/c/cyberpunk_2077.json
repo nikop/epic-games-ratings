@@ -14990,10 +14990,10 @@
       "Count": 12743
     }
   ],
-  "EOS_Progressed": 896177,
-  "EOS_Completed": 2762,
-  "EOS_NewPlayers": 994,
-  "EOS_NewCompleters": 20,
+  "EOS_Progressed": 896185,
+  "EOS_Completed": 2763,
+  "EOS_NewPlayers": 992,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38215,6 +38215,11 @@
       "Time": "2023-11-11T13:07:19.5420412+00:00",
       "NumProgressed": 896177,
       "NumCompleted": 2762
+    },
+    {
+      "Time": "2023-11-11T14:05:12.2187496+00:00",
+      "NumProgressed": 896185,
+      "NumCompleted": 2763
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38393,9 +38398,9 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2689
+      "UsersEstimate": 3585
     },
     {
       "ID": "Roleplayer",
@@ -38465,9 +38470,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2689
+      "UsersEstimate": 3585
     },
     {
       "ID": "TheStar",
@@ -38555,7 +38560,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26885
+      "UsersEstimate": 26886
     },
     {
       "ID": "YipMan",
@@ -38762,21 +38767,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896177,
-      "Completed": 2762
+      "Progressed": 896185,
+      "Completed": 2763
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24800,
+      "Progressed": 24808,
       "Completed": 10208
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-11T11:58:24.1773002+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:07:19.5420405+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:05:12.2187489+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:25.1762736+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:00:59.3802023+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:07:19.5421758+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:59:05.9358782+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:05:12.2189755+00:00"
 }

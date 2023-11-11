@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 326,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 308,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -747,9 +747,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3296,
+  "EOS_Progressed": 3297,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3807,6 +3807,11 @@
       "Time": "2023-11-11T09:08:56.438584+00:00",
       "NumProgressed": 3296,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T14:09:42.2413917+00:00",
+      "NumProgressed": 3297,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -4064,9 +4069,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 231
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -4152,9 +4157,9 @@
       "ID": "MissionVictory_NoDamage",
       "SetID": "3jha1np",
       "Name": "Bloodless",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 165
     },
     {
       "ID": "MissionVictory_NoWP",
@@ -4361,21 +4366,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3296,
+      "Progressed": 3297,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3296,
+      "Progressed": 3297,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2023-10-29T02:59:23.6089798+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:11:43.4209926+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:09:42.2413909+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:02.5672969+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:02:42.4081285+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:11:43.4210655+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:00:31.8909043+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:09:42.2414836+00:00"
 }

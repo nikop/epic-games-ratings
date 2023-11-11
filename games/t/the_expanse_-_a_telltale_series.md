@@ -13,9 +13,9 @@ Rating: 4.56 (Ranked 486)
 | Bosmang | 3.00% | ~445 |
 | Celebrations are in Order | 3.00% | ~445 |
 | Impossible Objects | 3.00% | ~445 |
-| Safe Cracker | 3.00% | ~23 |
-| Zen Master | 3.00% | ~23 |
-| Madame Undersecretary | 3.00% | ~23 |
+| Safe Cracker | 3.00% | ~24 |
+| Zen Master | 3.00% | ~24 |
+| Madame Undersecretary | 3.00% | ~24 |
 | Data Archivist | 2.00% | ~297 |
 | Stogie for Fogey | 2.00% | ~297 |
 | Spore Taste | 2.00% | ~297 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 486)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,828 (Ranked 146)  
+Progressed: 14,831 (Ranked 146)  
 Completed: 34 (0.23%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 34 (0.23%) (Ranked 236)
 | 2023-11-08 | 14,766 | 33 |
 | 2023-11-09 | 14,788 | 33 |
 | 2023-11-10 | 14,816 | 34 |
-| 2023-11-11 | 14,828 | 34 |
+| 2023-11-11 | 14,831 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

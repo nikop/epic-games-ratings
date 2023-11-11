@@ -23,8 +23,8 @@
 | Like a moth in the Wind | 23.00% | ~34 |
 | Quite a buggy game | 21.00% | ~31 |
 | Pacifist | 20.00% | ~30 |
+| Mirror mirror on the wall... | 20.00% | ~30 |
 | Fastidious Clown | 19.00% | ~28 |
-| Mirror mirror on the wall... | 19.00% | ~28 |
 | It's not easy being green! | 18.00% | ~27 |
 | Home is where the heart is | 18.00% | ~27 |
 | Death is a part of life | 15.00% | ~22 |

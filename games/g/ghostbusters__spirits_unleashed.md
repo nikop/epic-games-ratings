@@ -1,7 +1,7 @@
 # Ghostbusters: Spirits Unleashed Ecto Edition
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.50 (Ranked 587)  
+Rating: 4.50 (Ranked 588)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,28 +36,28 @@ Rating: 4.50 (Ranked 587)
 | Stunner | 2.00% | ~615 |
 | Summoner | 2.00% | ~615 |
 | Welcome to the Crew | 2.00% | ~615 |
-| Collector | 1.00% | ~307 |
-| Diabolical | 1.00% | ~307 |
-| Escape Artist | 1.00% | ~307 |
-| Reckless | 1.00% | ~307 |
-| Rivalry | 1.00% | ~307 |
-| Terrifying | 1.00% | ~307 |
-| Tobin's Prodigy | 1.00% | ~307 |
+| Collector | 1.00% | ~308 |
+| Diabolical | 1.00% | ~308 |
+| Escape Artist | 1.00% | ~308 |
+| Reckless | 1.00% | ~308 |
+| Rivalry | 1.00% | ~308 |
+| Terrifying | 1.00% | ~308 |
+| Tobin's Prodigy | 1.00% | ~308 |
 | Fragile Panes | 0.90% | ~277 |
 | Liability | 0.90% | ~277 |
 | Surprise! | 0.80% | ~246 |
 | Therapeutic | 0.60% | ~184 |
 | Rift Seeker | 0.50% | ~154 |
 | Master Collector | 0.40% | ~123 |
-| Ghost Expert | 0.20% | ~61 |
-| Little Help Here | 0.20% | ~61 |
+| Ghost Expert | 0.20% | ~62 |
+| Little Help Here | 0.20% | ~62 |
 | Catostrophic Destroyer | 0.10% | ~31 |
 | I don't need these | 0.10% | ~31 |
 | Line em' up | 0.10% | ~31 |
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,747 (Ranked 122)  
+Progressed: 30,750 (Ranked 122)  
 Completed: 67 (0.22%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 67 (0.22%) (Ranked 238)
 | 2023-11-08 | 30,559 | 66 |
 | 2023-11-09 | 30,630 | 66 |
 | 2023-11-10 | 30,704 | 66 |
-| 2023-11-11 | 30,747 | 67 |
+| 2023-11-11 | 30,750 | 67 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 246)  
 Sum: 2,758 (Ranked 179)  

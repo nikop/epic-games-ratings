@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2340,9 +2340,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43821,
+  "EOS_Progressed": 43822,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8535,6 +8535,11 @@
       "Time": "2023-11-10T21:15:49.2326425+00:00",
       "NumProgressed": 43821,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-11T14:03:48.7965928+00:00",
+      "NumProgressed": 43822,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8546,7 +8551,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27169
+      "UsersEstimate": 27170
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8610,7 +8615,7 @@
       "Name": "This is no Sunday School picnic!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "SE_COMPLETE_CROATIA",
@@ -8634,7 +8639,7 @@
       "Name": "I never redoubted you!",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "SE_COMPLETE_DEEPER_THAN_HELL",
@@ -8650,7 +8655,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17090
+      "UsersEstimate": 17091
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -8698,7 +8703,7 @@
       "Name": "Not today you won\u0027t",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_RURAL_COMPOUND",
@@ -8738,7 +8743,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27607
+      "UsersEstimate": 27608
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -8762,7 +8767,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19281
+      "UsersEstimate": 19282
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -8794,7 +8799,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21472
+      "UsersEstimate": 21473
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -8874,7 +8879,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30236
+      "UsersEstimate": 30237
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -8882,7 +8887,7 @@
       "Name": "Gotcha, didn\u0027t I?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "SE_KILL_A_ZOMBIE_PLAYER",
@@ -8890,7 +8895,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 13146
+      "UsersEstimate": 13147
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -8906,7 +8911,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24978
+      "UsersEstimate": 24979
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -8938,7 +8943,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19719
+      "UsersEstimate": 19720
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -8946,7 +8951,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28922
+      "UsersEstimate": 28923
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -8970,7 +8975,7 @@
       "Name": "A gross gross",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "SE_PERFORM_ALL_HEROIC_ACTIONS",
@@ -8994,7 +8999,7 @@
       "Name": "Hail to the king, baby!",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "SE_REACH_RANK_5",
@@ -9002,7 +9007,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28922
+      "UsersEstimate": 28923
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -9073,15 +9078,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43821,
+      "Progressed": 43822,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-11T03:57:51.6929986+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:05:42.5187311+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:03:48.7965923+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:41.2954616+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:00:11.161192+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:05:42.5188067+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:58:25.5729716+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:03:48.7967066+00:00"
 }

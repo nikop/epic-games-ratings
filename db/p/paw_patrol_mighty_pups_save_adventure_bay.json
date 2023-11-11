@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 501,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -228,9 +228,9 @@
       "ID": "1",
       "SetID": "38ide56",
       "Name": "Grand Re-Opening",
-      "Percentage": 67,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "10",
@@ -469,8 +469,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:07:06.9908594+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:05:01.3065727+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:38.2874367+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:01:52.6675457+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:07:06.9908763+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:59:50.2313058+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:05:01.3065977+00:00"
 }

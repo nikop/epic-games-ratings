@@ -100,11 +100,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Industrial Evolution | 0.60% | ~836 |
 | A Legend is Born | 0.60% | ~836 |
 | Economy of Scarce | 0.60% | ~836 |
-| The Free Encyclopedia | 0.50% | ~696 |
-| Thank You Tom Nook | 0.50% | ~696 |
-| Jackpot! | 0.50% | ~696 |
-| Eternal Crusade | 0.50% | ~696 |
-| All Accounted For | 0.50% | ~696 |
+| The Free Encyclopedia | 0.50% | ~697 |
+| Thank You Tom Nook | 0.50% | ~697 |
+| Jackpot! | 0.50% | ~697 |
+| Eternal Crusade | 0.50% | ~697 |
+| All Accounted For | 0.50% | ~697 |
 | All or Nothing! | 0.40% | ~557 |
 | JACKPOT!!! | 0.30% | ~418 |
 | Anything not Nailed Down | 0.30% | ~418 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,295 (Ranked 79)  
+Progressed: 139,311 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,10 +324,10 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-08 | 138,803 | 178 |
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
-| 2023-11-11 | 139,295 | 181 |
+| 2023-11-11 | 139,311 | 181 |
 ## Awards
 Max (Great for Beginners): 4,825  (Ranked 73)  
-Sum: 27,526 (Ranked 50)  
+Sum: 27,528 (Ranked 50)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -336,7 +336,7 @@ Diff (max vs sum): 23
 | This game has Quickly Understood Controls | 4,028 |
 | This game has Diverse Characters | 3,936 |
 | This game is Highly Recommended | 3,776 |
-| This game has Easy Combat | 3,722 |
+| This game has Easy Combat | 3,724 |
 | This game has Playful Visuals | 3,200 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
@@ -627,4 +627,4 @@ Diff (max vs sum): 23
 | 2023-11-08 | 3.99 | - | 4,819 | 27,509 |
 | 2023-11-09 | 3.99 | - | 4,822 | 27,516 |
 | 2023-11-10 | 3.99 | - | 4,824 | 27,523 |
-| 2023-11-11 | 3.99 | - | 4,825 | 27,526 |
+| 2023-11-11 | 3.99 | - | 4,825 | 27,528 |

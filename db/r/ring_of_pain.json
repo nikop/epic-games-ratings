@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3364,9 +3364,9 @@
       "Count": 740
     }
   ],
-  "EOS_Progressed": 239506,
+  "EOS_Progressed": 239509,
   "EOS_Completed": 287,
-  "EOS_NewPlayers": 384,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24634,6 +24634,11 @@
       "Time": "2023-11-11T13:12:09.4959977+00:00",
       "NumProgressed": 239506,
       "NumCompleted": 287
+    },
+    {
+      "Time": "2023-11-11T14:10:04.4927794+00:00",
+      "NumProgressed": 239509,
+      "NumCompleted": 287
     }
   ],
   "TotalAchievements": 138,
@@ -25323,9 +25328,9 @@
       "ID": "POISON30TIMES",
       "SetID": "5l8oe0h",
       "Name": "Toxic",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 479
     },
     {
       "ID": "POISONEDTWICEIN1TURN",
@@ -25748,13 +25753,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239506,
+      "Progressed": 239509,
       "Completed": 287
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 986,
+      "Progressed": 989,
       "Completed": 374
     }
   ],
@@ -25762,8 +25767,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-11T11:03:15.8109071+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:12:09.4959973+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:10:04.492779+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:39.8346015+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:05:15.8105135+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:12:09.4962374+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:03:25.9225396+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:10:04.4932868+00:00"
 }

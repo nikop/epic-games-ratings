@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 248,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4214,
+  "EOS_Progressed": 4215,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7294,6 +7294,11 @@
       "Time": "2023-11-11T13:09:13.4042339+00:00",
       "NumProgressed": 4214,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-11T14:06:52.3728384+00:00",
+      "NumProgressed": 4215,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7433,7 +7438,7 @@
       "Name": "I play my own way!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "Ach018",
@@ -7513,7 +7518,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "Ach028",
@@ -7585,7 +7590,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "Ach037",
@@ -7872,13 +7877,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4214,
+      "Progressed": 4215,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2735,
+      "Progressed": 2736,
       "Completed": 1930
     }
   ],
@@ -7886,8 +7891,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:09:13.4042333+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:06:52.3728374+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.7120425+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:01:58.2538087+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:09:13.4043162+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:59:54.9410215+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:06:52.3730895+00:00"
 }

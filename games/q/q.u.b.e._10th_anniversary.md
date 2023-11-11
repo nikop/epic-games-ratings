@@ -1,36 +1,36 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.42 (Ranked 715)  
+Rating: 4.42 (Ranked 714)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 13.00% | ~2,362 |
-| Sector 2 | 11.00% | ~1,999 |
-| Crush That Cube! | 10.00% | ~1,817 |
-| Sector 3 | 10.00% | ~1,817 |
-| Crush That Ball! | 8.00% | ~1,454 |
-| Sector 4 | 8.00% | ~1,454 |
-| Sector 5 | 5.00% | ~908 |
-| Feeling the Blues | 4.00% | ~727 |
-| Sector 6 | 4.00% | ~727 |
-| Squished | 3.00% | ~545 |
-| Finale | 3.00% | ~545 |
-| Sector 7 | 3.00% | ~545 |
-| Did That Work? -- No! | 3.00% | ~545 |
-| Master Room | 2.00% | ~363 |
+| Sector 1 | 13.00% | ~2,365 |
+| Sector 2 | 12.00% | ~2,183 |
+| Crush That Cube! | 10.00% | ~1,820 |
+| Sector 3 | 10.00% | ~1,820 |
+| Crush That Ball! | 8.00% | ~1,456 |
+| Sector 4 | 8.00% | ~1,456 |
+| Sector 5 | 5.00% | ~910 |
+| Feeling the Blues | 4.00% | ~728 |
+| Sector 6 | 4.00% | ~728 |
+| Squished | 3.00% | ~546 |
+| Finale | 3.00% | ~546 |
+| Sector 7 | 3.00% | ~546 |
+| Did That Work? -- No! | 3.00% | ~546 |
+| Master Room | 2.00% | ~364 |
 | The Puzzle Master | 1.00% | ~182 |
 | Bronze Trophy | 0.90% | ~164 |
-| The Collector | 0.80% | ~145 |
-| Hopefully that's all of them! | 0.80% | ~145 |
-| Phew! | 0.80% | ~145 |
-| Silver Trophy | 0.80% | ~145 |
-| Completed It. | 0.80% | ~145 |
+| The Collector | 0.80% | ~146 |
+| Hopefully that's all of them! | 0.80% | ~146 |
+| Phew! | 0.80% | ~146 |
+| Silver Trophy | 0.80% | ~146 |
+| Completed It. | 0.80% | ~146 |
 | Master Of The Collectables | 0.70% | ~127 |
 | Gold Trophy | 0.70% | ~127 |
 | Maxed Out | 0.70% | ~127 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,169 (Ranked 139)  
+Progressed: 18,195 (Ranked 139)  
 Completed: 40 (0.22%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -58,7 +58,7 @@ Completed: 40 (0.22%) (Ranked 238)
 | 2023-11-08 | 17,246 | 34 |
 | 2023-11-09 | 17,550 | 38 |
 | 2023-11-10 | 17,953 | 39 |
-| 2023-11-11 | 18,169 | 40 |
+| 2023-11-11 | 18,195 | 40 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

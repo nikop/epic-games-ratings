@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7714,
+  "EOS_Progressed": 7715,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -7989,6 +7989,11 @@
       "Time": "2023-11-11T11:07:45.4893971+00:00",
       "NumProgressed": 7714,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-11T14:07:26.9586657+00:00",
+      "NumProgressed": 7715,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8000,7 +8005,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "ARRR",
@@ -8048,7 +8053,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8167,7 +8172,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7714,
+      "Progressed": 7715,
       "Completed": 34
     }
   ],
@@ -8175,8 +8180,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:09:52.4764769+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:07:26.958665+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:33.1922608+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:02:17.2421028+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:09:52.4765281+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:00:10.7646421+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:07:26.9587507+00:00"
 }

@@ -16,7 +16,7 @@
 | Alone In The Dark | 14.00% | ~42 |
 | Parasite Exterminated | 14.00% | ~42 |
 | The Cultists | 14.00% | ~42 |
-| The Forgotten Tower | 13.00% | ~39 |
+| The Forgotten Tower | 14.00% | ~42 |
 | Trapped | 11.00% | ~33 |
 | Modern Player | 10.00% | ~30 |
 | Lover of classics | 9.00% | ~27 |

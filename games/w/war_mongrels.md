@@ -6,24 +6,24 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~390 |
-| Cowardice | 61.00% | ~350 |
-| NO LIFE IS WORTH SAVING... | 52.00% | ~298 |
-| Eat Lead! | 49.00% | ~281 |
+| Explorer | 68.00% | ~391 |
+| Cowardice | 61.00% | ~351 |
+| NO LIFE IS WORTH SAVING... | 51.00% | ~293 |
+| Eat Lead! | 49.00% | ~282 |
 | The Breaking Point | 46.00% | ~264 |
-| Prospector | 45.00% | ~258 |
-| Here Comes the Boom | 45.00% | ~258 |
-| Treasure Hunter | 41.00% | ~235 |
-| Sniper Wolf | 41.00% | ~235 |
+| Prospector | 45.00% | ~259 |
+| Here Comes the Boom | 45.00% | ~259 |
+| Treasure Hunter | 41.00% | ~236 |
+| Sniper Wolf | 41.00% | ~236 |
 | The Motivation | 39.00% | ~224 |
-| Heroism | 37.00% | ~212 |
-| Missing in Action | 37.00% | ~212 |
+| Heroism | 37.00% | ~213 |
+| Missing in Action | 37.00% | ~213 |
 | Collectibles of Chapter I | 35.00% | ~201 |
 | King of Knives | 35.00% | ~201 |
-| Consequences | 33.00% | ~189 |
-| Opportunities | 33.00% | ~189 |
+| Consequences | 33.00% | ~190 |
+| Opportunities | 33.00% | ~190 |
 | The Horror | 31.00% | ~178 |
-| The Difference | 29.00% | ~166 |
+| The Difference | 29.00% | ~167 |
 | Vengeance | 27.00% | ~155 |
 | Collectibles of Chapter II | 24.00% | ~138 |
 | Broken Hopes | 24.00% | ~138 |
@@ -37,7 +37,7 @@ Number of Ratings: 34  (23.09.2022)
 | Without a Second Thought | 16.00% | ~92 |
 | Collectibles of Chapter IV | 15.00% | ~86 |
 | Collectibles of Chapter V | 11.00% | ~63 |
-| Tiptoe Around | 10.00% | ~57 |
+| Tiptoe Around | 10.00% | ~58 |
 | Such is War! | 9.00% | ~52 |
 | Collectibles of Chapter XII | 7.00% | ~40 |
 | Piece of Cake | 7.00% | ~40 |
@@ -49,9 +49,9 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter XI | 5.00% | ~29 |
 | Collectibles of Chapter IX | 3.00% | ~17 |
 | Collectibles of Chapter X | 3.00% | ~17 |
-| Collectibles of Chapter VI | 2.00% | ~11 |
-| Hold a Door | 2.00% | ~11 |
-| Daddy Would Be Proud | 2.00% | ~11 |
+| Collectibles of Chapter VI | 2.00% | ~12 |
+| Hold a Door | 2.00% | ~12 |
+| Daddy Would Be Proud | 2.00% | ~12 |
 | Warm Up | 0.30% | ~2 |
 | Challenges of Chapter I | 0.00% | ~0 |
 | Challenges of Chapter II | 0.00% | ~0 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 574 (Ranked 287)  
+Progressed: 575 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 567 | 0 |
 | 2023-11-09 | 572 | 0 |
 | 2023-11-10 | 573 | 0 |
-| 2023-11-11 | 574 | 0 |
+| 2023-11-11 | 575 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

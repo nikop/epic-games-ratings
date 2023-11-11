@@ -3,12 +3,12 @@
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
   "Ranking_Rating": 848,
-  "Ranking_Popularity": 464,
+  "Ranking_Popularity": 463,
   "Ranking_PopularitySum": 451,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -767,18 +767,24 @@
       "Rating": 4.28,
       "NumberOfAwards": 87,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2023-11-11T13:58:50.4218608+00:00",
+      "Rating": 4.28,
+      "NumberOfAwards": 88,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 87,
-  "NumberOfAwardsMax": 36,
+  "NumberOfAwards": 88,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 36
+      "Count": 37
     },
     {
       "Text": "This game has a Competitive Community",
@@ -793,9 +799,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3366,
+  "EOS_Progressed": 3367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5148,6 +5154,11 @@
       "Time": "2023-11-11T12:06:03.1397035+00:00",
       "NumProgressed": 3366,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T14:07:17.6356188+00:00",
+      "NumProgressed": 3367,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5168,7 +5179,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "achievement_11",
@@ -5192,7 +5203,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "achievement_14",
@@ -5304,7 +5315,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "achievement_8",
@@ -5327,16 +5338,16 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3366,
+      "Progressed": 3367,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-10-21T06:01:19.8599973+00:00",
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
-  "LastChanged": "2023-11-04T02:25:15.9008043+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:09:41.9456146+00:00",
+  "LastChanged": "2023-11-11T13:58:50.4218605+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:07:17.6356181+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:12.3381259+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:00:40.4260668+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:09:41.9456499+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:58:50.4218615+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:07:17.6356787+00:00"
 }

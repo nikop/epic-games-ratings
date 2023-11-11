@@ -10341,9 +10341,9 @@
       "Count": 776
     }
   ],
-  "EOS_Progressed": 301861,
+  "EOS_Progressed": 301864,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 1175,
+  "EOS_NewPlayers": 1161,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32391,6 +32391,11 @@
       "Time": "2023-11-11T13:11:51.4516493+00:00",
       "NumProgressed": 301861,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2023-11-11T14:09:48.8573856+00:00",
+      "NumProgressed": 301864,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 45,
@@ -32554,7 +32559,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12074
+      "UsersEstimate": 12075
     },
     {
       "ID": "PFA_28",
@@ -32586,7 +32591,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36223
+      "UsersEstimate": 36224
     },
     {
       "ID": "PFA_31",
@@ -32602,7 +32607,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12074
+      "UsersEstimate": 12075
     },
     {
       "ID": "PFA_33",
@@ -32650,7 +32655,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12074
+      "UsersEstimate": 12075
     },
     {
       "ID": "PFA_39",
@@ -32706,7 +32711,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27167
+      "UsersEstimate": 27168
     },
     {
       "ID": "PFA_45",
@@ -32722,7 +32727,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12074
+      "UsersEstimate": 12075
     },
     {
       "ID": "PFA_6",
@@ -32746,7 +32751,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36223
+      "UsersEstimate": 36224
     },
     {
       "ID": "PFA_9",
@@ -32761,7 +32766,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301861,
+      "Progressed": 301864,
       "Completed": 507
     }
   ],
@@ -32769,8 +32774,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-11T13:01:52.4852551+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:11:51.4516488+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:09:48.8573844+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:01:52.4852558+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:11:51.4518315+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:59:49.9985355+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:09:48.8576135+00:00"
 }

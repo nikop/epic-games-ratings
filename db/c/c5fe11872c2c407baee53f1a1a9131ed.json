@@ -4,8 +4,8 @@
   "ProductSlug": "spingun-843f78",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -866,9 +866,9 @@
       "ID": "ach_homer_zone",
       "SetID": "5a4225j",
       "Name": "Won Homer Zone",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_lotsokills",
@@ -953,8 +953,8 @@
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:10:07.0162963+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:07:39.3954969+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.1060036+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:01:17.4082858+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:10:07.0163139+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:59:20.6912767+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:07:39.3955257+00:00"
 }

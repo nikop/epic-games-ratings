@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6917,10 +6917,16 @@
       "Rating": 3.99,
       "NumberOfAwards": 27526,
       "NumberOfAwardsMax": 4825
+    },
+    {
+      "Time": "2023-11-11T14:00:41.5949037+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27528,
+      "NumberOfAwardsMax": 4825
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27526,
+  "NumberOfAwards": 27528,
   "NumberOfAwardsMax": 4825,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6946,7 +6952,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 3722
+      "Count": 3724
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6973,9 +6979,9 @@
       "Count": 3776
     }
   ],
-  "EOS_Progressed": 139295,
+  "EOS_Progressed": 139311,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 728,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27933,6 +27939,11 @@
       "Time": "2023-11-11T13:08:40.9690342+00:00",
       "NumProgressed": 139295,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-11T14:06:24.4401874+00:00",
+      "NumProgressed": 139311,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28160,7 +28171,7 @@
       "Name": "The Free Encyclopedia",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "collection05",
@@ -28336,7 +28347,7 @@
       "Name": "Thank You Tom Nook",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "fullmoon",
@@ -28504,7 +28515,7 @@
       "Name": "Jackpot!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "jackslot03",
@@ -28672,7 +28683,7 @@
       "Name": "Eternal Crusade",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "quest04",
@@ -28776,7 +28787,7 @@
       "Name": "All Accounted For",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "uncommonres01",
@@ -28839,15 +28850,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139295,
+      "Progressed": 139311,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-11T13:02:54.6430702+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:08:40.9690337+00:00",
+  "LastChanged": "2023-11-11T14:00:41.5949034+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:06:24.4401866+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:02:54.6430711+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:08:40.9692099+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:00:41.5949044+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:06:24.4404946+00:00"
 }

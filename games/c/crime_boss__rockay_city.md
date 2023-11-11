@@ -21,7 +21,7 @@ Rating: 3.95 (Ranked 1,005)
 | Hidden Sonata | 0.80% | ~723 |
 | Track Star | 0.70% | ~633 |
 | True Player | 0.70% | ~633 |
-| Headhunter | 0.60% | ~542 |
+| Headhunter | 0.60% | ~543 |
 | I Like Trains | 0.50% | ~452 |
 | Freebooter | 0.50% | ~452 |
 | Legend Looter | 0.40% | ~362 |
@@ -40,14 +40,14 @@ Rating: 3.95 (Ranked 1,005)
 | Red Star | 0.20% | ~181 |
 | Classy Joint | 0.20% | ~181 |
 | Impossible Dreamer | 0.20% | ~181 |
-| All for One | 0.20% | ~37 |
-| One for All | 0.20% | ~37 |
+| All for One | 0.20% | ~38 |
+| One for All | 0.20% | ~38 |
 | Privateer | 0.10% | ~90 |
 | Full House | 0.10% | ~90 |
 | Geek Out | 0.10% | ~90 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,402 (Ranked 91)  
+Progressed: 90,418 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,10 +252,10 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-08 | 89,818 | 55 |
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
-| 2023-11-11 | 90,402 | 55 |
+| 2023-11-11 | 90,418 | 55 |
 ## Awards
 Max (Diverse Characters): 526  (Ranked 203)  
-Sum: 2,987 (Ranked 175)  
+Sum: 2,989 (Ranked 175)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -264,7 +264,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 500 |
 | This game has Challenging Combat | 490 |
 | This game is Extremely Fun | 487 |
-| This game has Amazing Characters | 476 |
+| This game has Amazing Characters | 478 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -494,4 +494,4 @@ Diff (max vs sum): 28
 | 2023-11-08 | 3.95 | 522 | 2,970 |
 | 2023-11-09 | 3.95 | 523 | 2,973 |
 | 2023-11-10 | 3.95 | 526 | 2,984 |
-| 2023-11-11 | 3.95 | 526 | 2,987 |
+| 2023-11-11 | 3.95 | 526 | 2,989 |

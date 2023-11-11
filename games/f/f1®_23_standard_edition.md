@@ -5,29 +5,29 @@ Rating: 4.69 (Ranked 230)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,216 |
-| On the Top Step | 85.00% | ~4,768 |
-| Setting up for Success | 75.00% | ~4,207 |
-| Team Orders | 73.00% | ~4,095 |
-| Engineer | 53.00% | ~2,973 |
-| Familiar Faces | 46.00% | ~2,580 |
-| Going the Extra Mile | 41.00% | ~2,300 |
-| Sharing the Love | 40.00% | ~2,244 |
-| Hitting a Season | 33.00% | ~1,851 |
-| A Dozen Pieces | 30.00% | ~1,683 |
-| Challenge Yourself | 30.00% | ~1,683 |
-| Making History | 30.00% | ~1,683 |
-| Network Success | 25.00% | ~1,402 |
-| Writing a new Chapter | 24.00% | ~1,346 |
-| Spring Cleaning | 22.00% | ~1,234 |
+| Getting on the Step | 93.00% | ~5,219 |
+| On the Top Step | 85.00% | ~4,770 |
+| Setting up for Success | 75.00% | ~4,209 |
+| Team Orders | 73.00% | ~4,097 |
+| Engineer | 53.00% | ~2,974 |
+| Familiar Faces | 46.00% | ~2,582 |
+| Going the Extra Mile | 41.00% | ~2,301 |
+| Sharing the Love | 40.00% | ~2,245 |
+| Hitting a Season | 33.00% | ~1,852 |
+| A Dozen Pieces | 30.00% | ~1,684 |
+| Challenge Yourself | 30.00% | ~1,684 |
+| Making History | 30.00% | ~1,684 |
+| Network Success | 25.00% | ~1,403 |
+| Writing a new Chapter | 24.00% | ~1,347 |
+| Spring Cleaning | 22.00% | ~1,235 |
 | Reduce | 19.00% | ~1,066 |
 | Crucial Combo | 18.00% | ~1,010 |
 | Ups and Downs | 18.00% | ~1,010 |
-| Reuse | 15.00% | ~841 |
-| One for the Book | 15.00% | ~841 |
-| Proving Them Wrong | 15.00% | ~841 |
-| Gathering Dust | 14.00% | ~785 |
-| Oil and Water | 13.00% | ~729 |
+| Reuse | 15.00% | ~842 |
+| One for the Book | 15.00% | ~842 |
+| Proving Them Wrong | 15.00% | ~842 |
+| Gathering Dust | 14.00% | ~786 |
+| Oil and Water | 13.00% | ~730 |
 | Eagle Eye | 12.00% | ~673 |
 | Lightning Round the World | 12.00% | ~673 |
 | Hitting a Bullseye | 12.00% | ~673 |
@@ -40,8 +40,8 @@ Rating: 4.69 (Ranked 230)
 | Undisputed Winner | 8.00% | ~449 |
 | Living up to Expectations | 6.00% | ~337 |
 | Smooth Operator | 6.00% | ~337 |
-| For all Those Back at the Factory | 5.00% | ~280 |
-| Peak Performance | 5.00% | ~280 |
+| For all Those Back at the Factory | 5.00% | ~281 |
+| Peak Performance | 5.00% | ~281 |
 | Loyal Bond | 4.00% | ~224 |
 | Seasoned Rookie | 3.00% | ~168 |
 | Hitting a Century | 3.00% | ~168 |
@@ -49,13 +49,13 @@ Rating: 4.69 (Ranked 230)
 | Filling in the Gaps | 2.00% | ~112 |
 | Saturday Night Drama | 1.00% | ~56 |
 | Media Darling | 1.00% | ~56 |
-| Under the Microscope | 0.90% | ~50 |
+| Under the Microscope | 0.90% | ~51 |
 | Ultimate Collector | 0.50% | ~28 |
 | Golden Touch | 0.30% | ~17 |
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,609 (Ranked 180)  
+Progressed: 5,612 (Ranked 180)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-08 | 5,432 | 0 |
 | 2023-11-09 | 5,500 | 0 |
 | 2023-11-10 | 5,572 | 0 |
-| 2023-11-11 | 5,609 | 0 |
+| 2023-11-11 | 5,612 | 0 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 507)  
 Sum: 51 (Ranked 479)  

@@ -30,8 +30,8 @@ Rating: 4.73 (Ranked 174)
 | Perfect throw | 22.00% | ~3,052 |
 | Knights! | 21.00% | ~2,913 |
 | Handful of pockets | 13.00% | ~1,803 |
+| Not a toy anymore | 12.00% | ~1,665 |
 | Pocket laboratory | 12.00% | ~1,665 |
-| Not a toy anymore | 11.00% | ~1,526 |
 | Herbalist | 8.00% | ~1,110 |
 | Fighter | 8.00% | ~1,110 |
 | Ornithologist | 5.00% | ~694 |
@@ -247,9 +247,9 @@ Completed: 54 (0.39%) (Ranked 209)
 | 2023-11-10 | 13,866 | 54 |
 | 2023-11-11 | 13,873 | 54 |
 ## Awards
-Max (Great Boss Battles): 429  (Ranked 220)  
+Max (Great Boss Battles): 429  (Ranked 221)  
 Sum: 675 (Ranked 299)  
-Diff (max vs sum): -79  
+Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 429 |

@@ -6,35 +6,35 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 81.00% | ~151 |
 | Thalya – Simply Immortal | 81.00% | ~151 |
-| For the Horde! | 70.00% | ~130 |
-| Hammer Time, Round Two | 65.00% | ~121 |
+| For the Horde! | 72.00% | ~134 |
+| Hammer Time, Round Two | 68.00% | ~126 |
 | Thalya's Concentrated Fury | 62.00% | ~115 |
-| The Hellwoods | 53.00% | ~99 |
+| The Hellwoods | 54.00% | ~100 |
+| Master of Magic | 45.00% | ~84 |
 | Experienced Thalya | 44.00% | ~82 |
-| Master of Magic | 42.00% | ~78 |
-| Trap Master | 41.00% | ~76 |
-| Magic Accidents | 40.00% | ~74 |
-| The Plains of Strothalm | 40.00% | ~74 |
+| Trap Master | 43.00% | ~80 |
+| Magic Accidents | 42.00% | ~78 |
+| The Plains of Strothalm | 42.00% | ~78 |
 | Unicorn steaks – fresh off the hoof! | 39.00% | ~73 |
-| Bad Elves Go Everywhere | 36.00% | ~67 |
-| Minions, Minions! | 32.00% | ~60 |
-| Heroes’ Gorge | 21.00% | ~39 |
+| Bad Elves Go Everywhere | 38.00% | ~71 |
+| Minions, Minions! | 35.00% | ~65 |
+| Heroes’ Gorge | 22.00% | ~41 |
 | YOU SHALL NOT PASS! | 18.00% | ~33 |
-| Mana Cannon | 14.00% | ~26 |
+| Mana Cannon | 15.00% | ~28 |
+| The Ascent | 12.00% | ~22 |
 | Pure Dynamite! | 12.00% | ~22 |
-| The Ascent | 11.00% | ~20 |
-| It's Warm and Cozy at Home | 11.00% | ~20 |
-| Hard Work | 9.00% | ~17 |
-| Sacrificial Pit = Garbage Disposal? | 7.00% | ~13 |
+| It's Warm and Cozy at Home | 12.00% | ~22 |
+| Hard Work | 11.00% | ~20 |
+| Sacrificial Pit = Garbage Disposal? | 8.00% | ~15 |
 | The Big Eaty | 5.00% | ~9 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 4.00% | ~7 |
+| “… like son” | 4.00% | ~7 |
 | Hungry, Hungry Gorgu! | 3.00% | ~6 |
-| “… like son” | 3.00% | ~6 |
 | Dungeonlord Gorgu | 3.00% | ~6 |
-| Forbidden Knowledge | 2.00% | ~4 |
+| Forbidden Knowledge | 3.00% | ~6 |
+| Shame! Shame! Shame! | 3.00% | ~6 |
 | The Cathedral of Light | 2.00% | ~4 |
 | Unstoppable Horde | 2.00% | ~4 |
-| Shame! Shame! Shame! | 2.00% | ~4 |
 | Tanos' Crusade Against Thalya | 1.00% | ~2 |
 | Master of the Undead | 1.00% | ~2 |
 | All’s Well That Ends Evil | 1.00% | ~2 |

@@ -30,9 +30,9 @@ Rating: 4.59 (Ranked 432)
 | Workaholic | 24.00% | ~8 |
 | Sidelined | 24.00% | ~8 |
 | Master detective | 24.00% | ~8 |
+| Little hero | 21.00% | ~7 |
 | Ghost hunter | 21.00% | ~7 |
 | Fence | 21.00% | ~7 |
-| Little hero | 18.00% | ~6 |
 | Defender | 18.00% | ~6 |
 | Pandora's box | 18.00% | ~6 |
 | Safecracker | 18.00% | ~6 |

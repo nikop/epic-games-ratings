@@ -39,7 +39,7 @@ Rating: 4.00 (Ranked 988)
 | Want to Go to Space? | 13.00% | ~1 |
 | Who waits five minutes, seriously? | 13.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8 (Ranked 595)  
+Progressed: 8 (Ranked 596)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |

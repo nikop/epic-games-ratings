@@ -16,13 +16,14 @@
 | Bucolic city | 4.00% | ~15 |
 | Soviet town | 4.00% | ~15 |
 | I love parks | 2.00% | ~8 |
+| Food producer | 1.00% | ~4 |
 | I love books! | 1.00% | ~4 |
 | King of fish | 1.00% | ~4 |
-| Food producer | 0.80% | ~3 |
+| Rebel city | 0.80% | ~3 |
 | City crisis | 0.50% | ~2 |
 | I am very happy! | 0.50% | ~2 |
+| What would we do if we can't go out with friends? | 0.50% | ~2 |
 | Metropolurbek | 0.50% | ~2 |
-| Rebel city | 0.50% | ~2 |
 | Banking city | 0.30% | ~1 |
 | Food provider master | 0.30% | ~1 |
 | Oh, I am sad | 0.30% | ~1 |
@@ -30,7 +31,6 @@
 | ¡Muy feliz! | 0.30% | ~1 |
 | Farming Frenzy | 0.30% | ~1 |
 | Farming Frenzy Plus | 0.30% | ~1 |
-| What would we do if we can't go out with friends? | 0.30% | ~1 |
 | Temperate builder | 0.30% | ~1 |
 | Anarchist Utopia | 0.00% | ~0 |
 | Anarchist paradise | 0.00% | ~0 |

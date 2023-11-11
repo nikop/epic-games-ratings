@@ -2,13 +2,13 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 690,
+  "Ranking_Rating": 714,
   "Ranking_Popularity": 258,
-  "Ranking_PopularitySum": 322,
+  "Ranking_PopularitySum": 321,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
     "PcReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.42,
   "RatingHistory": [
     {
       "Time": "2023-10-26T20:01:30.909406+00:00",
@@ -347,10 +347,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 503,
       "NumberOfAwardsMax": 278
+    },
+    {
+      "Time": "2023-11-11T13:59:16.3784954+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 508,
+      "NumberOfAwardsMax": 278
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 503,
+  "NumberOfAwards": 508,
   "NumberOfAwardsMax": 278,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -394,7 +400,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 23
+      "Count": 28
     },
     {
       "Text": "This game has a Kind Community",
@@ -427,8 +433,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-11T07:58:51.8899057+00:00",
+  "LastChanged": "2023-11-11T13:59:16.378495+00:00",
   "LastUpdate_AppInfo": "2023-11-07T18:56:54.0544561+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:01:12.1395876+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:06:51.0250608+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:59:16.3784962+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:04:47.7141041+00:00"
 }

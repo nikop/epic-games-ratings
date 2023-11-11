@@ -4,8 +4,8 @@
   "ProductSlug": "silence-57bc4e",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-11-15T17:00:00+00:00",
@@ -709,9 +709,9 @@
       "ID": "4004_achv_mirror",
       "SetID": "dhn82m5",
       "Name": "Mirror mirror on the wall...",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -726,8 +726,8 @@
   "FirstSeenRating": "2023-03-31T05:57:44.1033925+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.5644296+00:00",
   "LastChanged": "2023-03-31T05:57:44.1033926+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:08:00.2258756+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:05:48.8932036+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:51.6320481+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:02:21.7629778+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:08:00.2259086+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:00:14.4872152+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:05:48.8932483+00:00"
 }

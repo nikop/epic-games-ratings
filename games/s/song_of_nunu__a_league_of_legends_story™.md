@@ -8,10 +8,10 @@
 | I Broke It | 72.00% | ~458 |
 | Better On Ice | 70.00% | ~445 |
 | Notai Notes | 70.00% | ~445 |
-| Blue Dreams | 68.00% | ~432 |
+| Blue Dreams | 69.00% | ~439 |
 | He's Famous! | 68.00% | ~432 |
+| Krugmazing | 67.00% | ~426 |
 | Cutie Poro | 67.00% | ~426 |
-| Krugmazing | 66.00% | ~420 |
 | The Fire Below the Mountain | 64.00% | ~407 |
 | Moneyball | 59.00% | ~375 |
 | No Bites | 55.00% | ~350 |
@@ -26,7 +26,7 @@
 | True Legends | 41.00% | ~261 |
 | The Finisher | 40.00% | ~254 |
 | So Close | 37.00% | ~235 |
-| You Get Used To It | 36.00% | ~229 |
+| You Get Used To It | 37.00% | ~235 |
 | Family | 34.00% | ~216 |
 | Biggest Snowball Ever | 34.00% | ~216 |
 | On The Rocks | 34.00% | ~216 |

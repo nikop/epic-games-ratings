@@ -4495,10 +4495,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2987,
       "NumberOfAwardsMax": 526
+    },
+    {
+      "Time": "2023-11-11T13:57:30.5585465+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2989,
+      "NumberOfAwardsMax": 526
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2987,
+  "NumberOfAwards": 2989,
   "NumberOfAwardsMax": 526,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4518,7 +4524,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 476
+      "Count": 478
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4557,9 +4563,9 @@
       "Count": 487
     }
   ],
-  "EOS_Progressed": 90402,
+  "EOS_Progressed": 90418,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 860,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24832,6 +24838,11 @@
       "Time": "2023-11-11T13:07:26.7657437+00:00",
       "NumProgressed": 90402,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-11T14:05:18.5997621+00:00",
+      "NumProgressed": 90418,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24955,7 +24966,7 @@
       "Name": "Headhunter",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "ACH_0101",
@@ -25147,7 +25158,7 @@
       "Name": "All for One",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_1021",
@@ -25155,7 +25166,7 @@
       "Name": "One for All",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_1050",
@@ -25170,22 +25181,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90402,
+      "Progressed": 90418,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18749,
+      "Progressed": 18765,
       "Completed": 15565
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-11T08:01:15.5612509+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:07:26.7657431+00:00",
+  "LastChanged": "2023-11-11T13:57:30.5585463+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:05:18.5997614+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:35.9911814+00:00",
-  "LastUpdate_Ratings": "2023-11-11T12:59:05.2484419+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:07:26.7659231+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:57:30.558547+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:05:18.5999691+00:00"
 }

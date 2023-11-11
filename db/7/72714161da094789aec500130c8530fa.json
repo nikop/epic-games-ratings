@@ -560,17 +560,17 @@
       "ID": "_machinegun",
       "SetID": "2d5739o",
       "Name": "Machinegun",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "_magnet",
       "SetID": "2d5739o",
       "Name": "Magnet",
-      "Percentage": 52,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "_minigun",
@@ -735,8 +735,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:07:02.6953181+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:04:57.7592284+00:00",
   "LastUpdate_AppInfo": "2023-11-08T19:57:13.7743335+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:00:05.0470473+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:07:02.6953541+00:00"
+  "LastUpdate_Ratings": "2023-11-11T13:58:20.5084477+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:04:57.7592653+00:00"
 }

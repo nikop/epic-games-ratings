@@ -2,13 +2,13 @@
   "ID": "598bbf91c75b4ac9a676d82719acdbb1",
   "Name": "Ghostbusters: Spirits Unleashed Ecto Edition",
   "ProductSlug": "ghostbusters-spirits-unleashed",
-  "Ranking_Rating": 587,
+  "Ranking_Rating": 588,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3243,9 +3243,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30747,
+  "EOS_Progressed": 30750,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 719,
+  "EOS_NewPlayers": 713,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -18818,6 +18818,11 @@
       "Time": "2023-11-11T13:07:03.7713683+00:00",
       "NumProgressed": 30747,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-11-11T14:04:58.6401109+00:00",
+      "NumProgressed": 30750,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 51,
@@ -18885,7 +18890,7 @@
       "Name": "Collector",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Cultured",
@@ -18909,7 +18914,7 @@
       "Name": "Diabolical",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Discovery",
@@ -18949,7 +18954,7 @@
       "Name": "Escape Artist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Fragile_Panes",
@@ -18981,7 +18986,7 @@
       "Name": "Ghost Expert",
       "Percentage": 0.2,
       "XP": 75,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Icing_Cake",
@@ -19021,7 +19026,7 @@
       "Name": "Little Help Here",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Master_Collector",
@@ -19053,7 +19058,7 @@
       "Name": "Reckless",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Rift_Destroyer",
@@ -19085,7 +19090,7 @@
       "Name": "Rivalry",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Seasoned",
@@ -19173,7 +19178,7 @@
       "Name": "Terrifying",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Therapeutic",
@@ -19197,7 +19202,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Ultimate_Defense",
@@ -19236,7 +19241,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30747,
+      "Progressed": 30750,
       "Completed": 67
     }
   ],
@@ -19244,8 +19249,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-11T10:01:14.5600384+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:07:03.7713678+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:04:58.64011+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:04:40.4786357+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:07:03.7714537+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:01:36.1542451+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:04:58.6403056+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 132,
+  "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -441,9 +441,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5348,
+  "EOS_Progressed": 5349,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6936,6 +6936,11 @@
       "Time": "2023-11-11T13:05:51.7511665+00:00",
       "NumProgressed": 5348,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-11T14:03:56.1072888+00:00",
+      "NumProgressed": 5349,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6961,9 +6966,9 @@
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "12",
@@ -7081,9 +7086,9 @@
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "26",
@@ -7217,9 +7222,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "41",
@@ -7426,13 +7431,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5348,
+      "Progressed": 5349,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5348,
+      "Progressed": 5349,
       "Completed": 7
     }
   ],
@@ -7440,8 +7445,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T10:01:07.8802491+00:00",
-  "LastChanged_Achievements": "2023-11-11T13:05:51.7511659+00:00",
+  "LastChanged_Achievements": "2023-11-11T14:03:56.1072879+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:25.5860847+00:00",
-  "LastUpdate_Ratings": "2023-11-11T13:03:53.4223292+00:00",
-  "LastUpdate_Achievements": "2023-11-11T13:05:51.7512825+00:00"
+  "LastUpdate_Ratings": "2023-11-11T14:01:30.709326+00:00",
+  "LastUpdate_Achievements": "2023-11-11T14:03:56.1074276+00:00"
 }

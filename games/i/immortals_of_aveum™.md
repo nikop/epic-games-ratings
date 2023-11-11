@@ -6,23 +6,23 @@ Rating: 4.02 (Ranked 986)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 89.00% | ~222 |
-| Battlefields Have Memories | 83.00% | ~207 |
-| Enlisted | 80.00% | ~199 |
-| Maybe Engage a Little | 76.00% | ~189 |
-| No More Names | 62.00% | ~154 |
+| Battlefields Have Memories | 82.00% | ~205 |
+| Enlisted | 79.00% | ~198 |
+| Maybe Engage a Little | 76.00% | ~190 |
+| No More Names | 62.00% | ~155 |
 | Initiate | 48.00% | ~120 |
-| Thrada-Kul | 43.00% | ~107 |
+| Thrada-Kul | 43.00% | ~108 |
 | Gravity-Challenged Rocks | 32.00% | ~80 |
 | Soldier | 28.00% | ~70 |
-| All the Major Food Groups | 27.00% | ~67 |
+| All the Major Food Groups | 27.00% | ~68 |
 | Socialite | 26.00% | ~65 |
-| Beggars Would Ride | 23.00% | ~57 |
+| Beggars Would Ride | 23.00% | ~58 |
 | Control is an Illusion | 22.00% | ~55 |
 | The Means to Save It | 20.00% | ~50 |
 | Resilience to Sin | 18.00% | ~45 |
-| A Familiar Nest | 16.00% | ~40 |
+| A Familiar Nest | 17.00% | ~42 |
+| Geas Aristeya | 16.00% | ~40 |
 | Periapt Alizarin | 16.00% | ~40 |
-| Geas Aristeya | 15.00% | ~37 |
 | A Perfect Cycle | 14.00% | ~35 |
 | Armsman | 14.00% | ~35 |
 | Recruit | 13.00% | ~32 |
@@ -35,8 +35,8 @@ Rating: 4.02 (Ranked 986)
 | Armaments Azure | 5.00% | ~12 |
 | Scholar | 4.00% | ~10 |
 | Armaments Gules | 4.00% | ~10 |
-| Kitted Out | 3.00% | ~7 |
-| Armaments Vert | 3.00% | ~7 |
+| Kitted Out | 3.00% | ~8 |
+| Armaments Vert | 3.00% | ~8 |
 | Veteran | 2.00% | ~5 |
 | Master of Carmine | 2.00% | ~5 |
 | Shroudfane Surveyor | 2.00% | ~5 |
@@ -53,7 +53,7 @@ Rating: 4.02 (Ranked 986)
 | Tip of the Spear | 0.80% | ~2 |
 | Fowl Play | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249 (Ranked 355)  
+Progressed: 250 (Ranked 354)  
 Completed: 1 (0.40%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.40%) (Ranked 208)
 | 2023-11-08 | 207 | 1 |
 | 2023-11-09 | 230 | 1 |
 | 2023-11-10 | 242 | 1 |
-| 2023-11-11 | 249 | 1 |
+| 2023-11-11 | 250 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

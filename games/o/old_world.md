@@ -128,12 +128,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.80% | ~122 |
 | Industrial Progress | 0.80% | ~122 |
 | Enlightenment | 0.80% | ~122 |
+| Poetic Leader | 0.80% | ~122 |
 | Bad Heir Day | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
 | Hittite Paganism | 0.70% | ~107 |
 | Turreted Elephant | 0.70% | ~107 |
 | The Great Mage | 0.70% | ~107 |
-| Poetic Leader | 0.70% | ~107 |
 | Kmt Unified | 0.70% | ~107 |
 | Ishtar Gate in Babylon | 0.60% | ~92 |
 | Carthage - Ox Hide | 0.60% | ~92 |
@@ -145,11 +145,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.60% | ~92 |
 | All Nations | 0.60% | ~92 |
 | Kush | 0.60% | ~92 |
+| Beja Archer | 0.60% | ~92 |
 | Old | 0.50% | ~76 |
 | Old World Order | 0.50% | ~76 |
 | Ten Crowns | 0.50% | ~76 |
 | No Undo | 0.50% | ~76 |
-| Beja Archer | 0.50% | ~76 |
 | Glorious Difficulty | 0.40% | ~61 |
 | Hatti | 0.40% | ~61 |
 | Persia | 0.40% | ~61 |
