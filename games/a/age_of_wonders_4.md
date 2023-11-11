@@ -9,8 +9,8 @@ Rating: 4.61 (Ranked 384)
 | Realm Estate | 0.50% | ~27 |
 | Secret Technique | 0.50% | ~27 |
 | Walls Cannot Stop Us | 0.50% | ~27 |
+| Freed Lands of Manuhari | 0.50% | ~27 |
 | A Wonderful Discovery | 0.40% | ~21 |
-| Freed Lands of Manuhari | 0.40% | ~21 |
 | Spoils of War | 0.40% | ~21 |
 | There Can Only Be One! | 0.30% | ~16 |
 | Full Ascension | 0.30% | ~16 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | The Grey Wizard | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,339 (Ranked 183)  
+Progressed: 5,340 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 7 (0.13%) (Ranked 258)
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
-| 2023-11-11 | 5,339 | 7 |
+| 2023-11-11 | 5,340 | 7 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 487)  
 Sum: 52 (Ranked 475)  

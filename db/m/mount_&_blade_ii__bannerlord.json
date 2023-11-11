@@ -8652,9 +8652,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64852,
+  "EOS_Progressed": 64853,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 421,
+  "EOS_NewPlayers": 420,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30167,6 +30167,11 @@
       "Time": "2023-11-11T04:09:45.618991+00:00",
       "NumProgressed": 64852,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T05:08:52.354797+00:00",
+      "NumProgressed": 64853,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30338,7 +30343,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15564
+      "UsersEstimate": 15565
     },
     {
       "ID": "I can do it",
@@ -30370,7 +30375,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11673
+      "UsersEstimate": 11674
     },
     {
       "ID": "Kingslayer",
@@ -30585,15 +30590,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64852,
+      "Progressed": 64853,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-11T01:39:39.659521+00:00",
-  "LastChanged_Achievements": "2023-11-11T04:09:45.6189904+00:00",
+  "LastChanged_Achievements": "2023-11-11T05:08:52.3547963+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:31.2641432+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:57:39.4259659+00:00",
-  "LastUpdate_Achievements": "2023-11-11T04:09:45.6190955+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:57:24.103233+00:00",
+  "LastUpdate_Achievements": "2023-11-11T05:08:52.3549215+00:00"
 }

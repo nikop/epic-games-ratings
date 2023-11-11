@@ -16,13 +16,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Right Back At Ya | 0.40% | ~3,584 |
 | The Quick and the Dead | 0.40% | ~3,584 |
 | Stanislavski's Method | 0.40% | ~3,584 |
+| The Hermit | 0.40% | ~3,584 |
 | Bushido and Chill | 0.30% | ~2,688 |
 | To Protect and Serve | 0.30% | ~2,688 |
 | Master Crafter | 0.30% | ~2,688 |
 | I Am The Law | 0.30% | ~2,688 |
 | Christmas Tree Attack | 0.30% | ~2,688 |
 | Life of the Road | 0.30% | ~2,688 |
-| The Hermit | 0.30% | ~2,688 |
 | The High Priestess | 0.30% | ~2,688 |
 | The Lovers | 0.30% | ~2,688 |
 | The Wheel of Fortune | 0.30% | ~2,688 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,109 (Ranked 15)  
+Progressed: 896,117 (Ranked 15)  
 Completed: 2,761 (0.31%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 2,761 (0.31%) (Ranked 224)
 | 2023-11-08 | 895,820 | 2,757 |
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
-| 2023-11-11 | 896,109 | 2,761 |
+| 2023-11-11 | 896,117 | 2,761 |
 ## Awards
 Max (Character Customization): 104,816  (Ranked 9)  
 Sum: 348,480 (Ranked 10)  

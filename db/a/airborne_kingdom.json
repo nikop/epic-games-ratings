@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 214,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7468,
+  "EOS_Progressed": 7469,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -5613,6 +5613,11 @@
       "Time": "2023-11-10T23:06:34.5736104+00:00",
       "NumProgressed": 7468,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-11T05:06:07.5156828+00:00",
+      "NumProgressed": 7469,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5656,7 +5661,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3958
+      "UsersEstimate": 3959
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5664,7 +5669,7 @@
       "Name": "Harp Tuned",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -5702,9 +5707,9 @@
       "ID": "AK_KNOWLEDGE_SHARED",
       "SetID": "dfmb89",
       "Name": "Knowledge Shared",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1494
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -5776,7 +5781,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4182
+      "UsersEstimate": 4183
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5800,7 +5805,7 @@
       "Name": "Travelers Returned",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -5816,7 +5821,7 @@
       "Name": "A Wanderer\u2019s Guide",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "AK_WIND_POWERED",
@@ -5824,7 +5829,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2987
+      "UsersEstimate": 2988
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -5839,15 +5844,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7468,
+      "Progressed": 7469,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-11T04:07:58.5467949+00:00",
+  "LastChanged_Achievements": "2023-11-11T05:06:07.5156822+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:23.0681923+00:00",
-  "LastUpdate_Ratings": "2023-11-11T04:03:19.555038+00:00",
-  "LastUpdate_Achievements": "2023-11-11T04:07:58.5468397+00:00"
+  "LastUpdate_Ratings": "2023-11-11T05:02:53.3688284+00:00",
+  "LastUpdate_Achievements": "2023-11-11T05:06:07.515725+00:00"
 }

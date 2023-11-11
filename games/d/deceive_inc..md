@@ -5,11 +5,11 @@ Rating: 4.57 (Ranked 470)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,645 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,646 |
 | Mainframe Hacker | 23.00% | ~4,328 |
 | The Spy who eliminated me | 23.00% | ~4,328 |
 | Tomorrow Never Dyes | 22.00% | ~4,140 |
-| Never Say Loser Again | 19.00% | ~3,575 |
+| Never Say Loser Again | 19.00% | ~3,576 |
 | From the Vault with Love | 18.00% | ~3,387 |
 | Tailor-Made | 18.00% | ~3,387 |
 | For your Eyes only | 18.00% | ~3,387 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 470)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,818 (Ranked 136)  
+Progressed: 18,819 (Ranked 136)  
 Completed: 4 (0.02%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,6 +247,7 @@ Completed: 4 (0.02%) (Ranked 315)
 | 2023-11-08 | 18,809 | 4 |
 | 2023-11-09 | 18,811 | 4 |
 | 2023-11-10 | 18,818 | 4 |
+| 2023-11-11 | 18,819 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

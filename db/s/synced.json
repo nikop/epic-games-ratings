@@ -1011,9 +1011,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66314,
+  "EOS_Progressed": 66318,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8661,6 +8661,11 @@
       "Time": "2023-11-11T04:06:04.8773962+00:00",
       "NumProgressed": 66314,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-11T05:04:47.5456666+00:00",
+      "NumProgressed": 66318,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8673,7 +8678,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22547
+      "UsersEstimate": 22548
     },
     {
       "ID": "10",
@@ -8689,7 +8694,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "12",
@@ -8697,7 +8702,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "13",
@@ -8737,7 +8742,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11273
+      "UsersEstimate": 11274
     },
     {
       "ID": "3",
@@ -8753,7 +8758,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6631
+      "UsersEstimate": 6632
     },
     {
       "ID": "5",
@@ -8800,7 +8805,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66314,
+      "Progressed": 66318,
       "Completed": 31
     }
   ],
@@ -8808,8 +8813,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-10T21:05:12.2741631+00:00",
-  "LastChanged_Achievements": "2023-11-11T04:06:04.8773958+00:00",
+  "LastChanged_Achievements": "2023-11-11T05:04:47.5456661+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.1092921+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:59:46.2056989+00:00",
-  "LastUpdate_Achievements": "2023-11-11T04:06:04.8774446+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:58:45.647964+00:00",
+  "LastUpdate_Achievements": "2023-11-11T05:04:47.5457698+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "i-saw-black-clouds-67008d",
   "Ranking_EOS_Progress": 332,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 327,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.53,
   "EosHistory": [
@@ -634,8 +634,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-11-11T04:08:00.939787+00:00",
+  "LastChanged_Achievements": "2023-11-11T05:06:09.5157675+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:30.3106518+00:00",
-  "LastUpdate_Ratings": "2023-11-11T04:03:20.0996431+00:00",
-  "LastUpdate_Achievements": "2023-11-11T04:08:00.9397998+00:00"
+  "LastUpdate_Ratings": "2023-11-11T05:02:53.7218692+00:00",
+  "LastUpdate_Achievements": "2023-11-11T05:06:09.5157776+00:00"
 }

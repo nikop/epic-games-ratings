@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.9,
+  "Rating": 4.91,
   "RatingHistory": [
     {
       "Time": "2023-11-08T20:00:37.8164591+00:00",
@@ -39,6 +39,12 @@
     {
       "Time": "2023-11-10T19:02:53.1719254+00:00",
       "Rating": 4.9,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-11T05:02:45.9202037+00:00",
+      "Rating": 4.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -345,9 +351,9 @@
       "ID": "AbInitio",
       "SetID": "1n308hc",
       "Name": "Ab Initio",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "AnthropicHills",
@@ -425,9 +431,9 @@
       "ID": "DesolateIsland",
       "SetID": "1n308hc",
       "Name": "Desolate Island",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "Discovery",
@@ -601,9 +607,9 @@
       "ID": "Persistent",
       "SetID": "1n308hc",
       "Name": "Persistent",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "PrometheusUnbound",
@@ -625,9 +631,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 100
     },
     {
       "ID": "RenaissanceRobot",
@@ -745,9 +751,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "TouchGrass",
@@ -817,9 +823,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2023-11-10T19:02:53.1719253+00:00",
-  "LastChanged_Achievements": "2023-11-11T04:03:40.0053813+00:00",
+  "LastChanged": "2023-11-11T05:02:45.9202035+00:00",
+  "LastChanged_Achievements": "2023-11-11T05:03:06.4435195+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-11T04:03:08.3565899+00:00",
-  "LastUpdate_Achievements": "2023-11-11T04:03:40.0054325+00:00"
+  "LastUpdate_Ratings": "2023-11-11T05:02:45.920204+00:00",
+  "LastUpdate_Achievements": "2023-11-11T05:03:06.4435651+00:00"
 }

@@ -7,24 +7,24 @@ Rating: 4.54 (Ranked 523)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 2.00% | ~837 |
 | Pork Chopped | 2.00% | ~837 |
-| One of Us | 1.00% | ~418 |
+| One of Us | 1.00% | ~419 |
 | Welcome To Hell-A | 0.70% | ~5,014 |
 | Break A Leg | 0.60% | ~4,298 |
 | Coup de Grâce | 0.60% | ~4,298 |
 | Hotel California | 0.60% | ~4,298 |
-| Dr. Reed, I Presume? | 0.50% | ~3,581 |
-| Git Gutte! | 0.50% | ~3,581 |
-| Anger Management | 0.50% | ~3,581 |
-| Bookworm | 0.50% | ~3,581 |
-| Hazardous Materials | 0.50% | ~3,581 |
-| Friends Like These | 0.50% | ~3,581 |
-| Apex Predator | 0.50% | ~3,581 |
-| Stacking the Deck | 0.50% | ~3,581 |
-| Personal Assistant Personally Assisted | 0.50% | ~3,581 |
-| This is My Weapon | 0.50% | ~3,581 |
+| Dr. Reed, I Presume? | 0.50% | ~3,582 |
+| Git Gutte! | 0.50% | ~3,582 |
+| Anger Management | 0.50% | ~3,582 |
+| Bookworm | 0.50% | ~3,582 |
+| But Doctor, I am Butcho | 0.50% | ~3,582 |
+| Hazardous Materials | 0.50% | ~3,582 |
+| Friends Like These | 0.50% | ~3,582 |
+| Apex Predator | 0.50% | ~3,582 |
+| Stacking the Deck | 0.50% | ~3,582 |
+| Personal Assistant Personally Assisted | 0.50% | ~3,582 |
+| This is My Weapon | 0.50% | ~3,582 |
 | Perks of the Job | 0.40% | ~2,865 |
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,865 |
-| But Doctor, I am Butcho | 0.40% | ~2,865 |
 | Slayer Squad | 0.40% | ~2,865 |
 | Can't Handle the Truth | 0.40% | ~2,865 |
 | Like Riding a Bike | 0.40% | ~2,865 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,295 (Ranked 21)  
+Progressed: 716,317 (Ranked 21)  
 Completed: 2,375 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,15 +262,15 @@ Completed: 2,375 (0.33%) (Ranked 220)
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
-| 2023-11-11 | 716,295 | 2,375 |
+| 2023-11-11 | 716,317 | 2,375 |
 ## Awards
 Max (Great Boss Battles): 7,279  (Ranked 53)  
-Sum: 11,044 (Ranked 86)  
+Sum: 11,050 (Ranked 86)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,279 |
-| This game is Great for Beginners | 533 |
+| This game is Great for Beginners | 539 |
 | This game has Diverse Characters | 526 |
 | This game has Quickly Understood Controls | 503 |
 | This game is Relaxing | 475 |
@@ -485,4 +485,4 @@ Diff (max vs sum): -33
 | 2023-11-08 | 4.54 | 7,208 | 10,930 |
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
 | 2023-11-10 | 4.54 | 7,279 | 11,038 |
-| 2023-11-11 | 4.54 | 7,279 | 11,044 |
+| 2023-11-11 | 4.54 | 7,279 | 11,050 |

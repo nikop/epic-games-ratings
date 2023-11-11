@@ -2,12 +2,12 @@
   "ID": "aee7dd76aa6746578f476dc47f8d1d7f",
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
-  "Ranking_Rating": 1014,
+  "Ranking_Rating": 1013,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-10-12T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.89,
+  "Rating": 3.9,
   "RatingHistory": [
     {
       "Time": "2023-10-13T14:59:17.6210716+00:00",
@@ -1101,10 +1101,16 @@
       "Rating": 3.89,
       "NumberOfAwards": 1961,
       "NumberOfAwardsMax": 306
+    },
+    {
+      "Time": "2023-11-11T04:57:01.6218866+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 1968,
+      "NumberOfAwardsMax": 306
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1961,
+  "NumberOfAwards": 1968,
   "NumberOfAwardsMax": 306,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1136,7 +1142,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 252
+      "Count": 259
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1181,8 +1187,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-11-10T21:10:22.6384333+00:00",
+  "LastChanged": "2023-11-11T04:57:01.6218864+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:41.3350386+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:57:05.1357094+00:00",
-  "LastUpdate_Achievements": "2023-11-11T04:09:12.4836773+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:57:01.621887+00:00",
+  "LastUpdate_Achievements": "2023-11-11T05:08:29.081449+00:00"
 }

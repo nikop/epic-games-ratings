@@ -1904,10 +1904,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4833,
       "NumberOfAwardsMax": 572
+    },
+    {
+      "Time": "2023-11-11T04:57:23.8444421+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4834,
+      "NumberOfAwardsMax": 572
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4833,
+  "NumberOfAwards": 4834,
   "NumberOfAwardsMax": 572,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1969,7 +1975,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 496
+      "Count": 497
     },
     {
       "Text": "This game has a Creative Community",
@@ -1978,9 +1984,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 213019,
+  "EOS_Progressed": 213022,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 1321,
+  "EOS_NewPlayers": 1314,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25348,6 +25354,11 @@
       "Time": "2023-11-11T04:03:54.3028942+00:00",
       "NumProgressed": 213019,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2023-11-11T05:03:16.1991591+00:00",
+      "NumProgressed": 213022,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 44,
@@ -25431,7 +25442,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25562
+      "UsersEstimate": 25563
     },
     {
       "ID": "HappyLittleAccidents",
@@ -25447,7 +25458,7 @@
       "Name": "Happy Planning",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "HighFiveTheMoon",
@@ -25463,7 +25474,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "ItsRainingMen",
@@ -25479,7 +25490,7 @@
       "Name": "Jonin",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     },
     {
       "ID": "Mercyful",
@@ -25703,22 +25714,22 @@
       "Name": "Yabu",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 14911
+      "UsersEstimate": 14912
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 213019,
+      "Progressed": 213022,
       "Completed": 96
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-11-10T13:57:12.4017278+00:00",
-  "LastChanged_Achievements": "2023-11-11T04:03:54.3028936+00:00",
+  "LastChanged": "2023-11-11T04:57:23.8444419+00:00",
+  "LastChanged_Achievements": "2023-11-11T05:03:16.1991587+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:28.1309249+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:57:38.9529838+00:00",
-  "LastUpdate_Achievements": "2023-11-11T04:03:54.3030399+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:57:23.8444424+00:00",
+  "LastUpdate_Achievements": "2023-11-11T05:03:16.1992986+00:00"
 }

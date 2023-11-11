@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10329,9 +10329,9 @@
       "Count": 776
     }
   ],
-  "EOS_Progressed": 301836,
+  "EOS_Progressed": 301838,
   "EOS_Completed": 507,
-  "EOS_NewPlayers": 1239,
+  "EOS_NewPlayers": 1229,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32334,6 +32334,11 @@
       "Time": "2023-11-11T04:09:55.1894204+00:00",
       "NumProgressed": 301836,
       "NumCompleted": 507
+    },
+    {
+      "Time": "2023-11-11T05:08:58.7491888+00:00",
+      "NumProgressed": 301838,
+      "NumCompleted": 507
     }
   ],
   "TotalAchievements": 45,
@@ -32497,7 +32502,7 @@
       "Name": "Going Through the Potions",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 12073
+      "UsersEstimate": 12074
     },
     {
       "ID": "PFA_28",
@@ -32529,7 +32534,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36220
+      "UsersEstimate": 36221
     },
     {
       "ID": "PFA_31",
@@ -32545,7 +32550,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12073
+      "UsersEstimate": 12074
     },
     {
       "ID": "PFA_33",
@@ -32593,7 +32598,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12073
+      "UsersEstimate": 12074
     },
     {
       "ID": "PFA_39",
@@ -32665,7 +32670,7 @@
       "Name": "The Wise Owl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12073
+      "UsersEstimate": 12074
     },
     {
       "ID": "PFA_6",
@@ -32689,7 +32694,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36220
+      "UsersEstimate": 36221
     },
     {
       "ID": "PFA_9",
@@ -32704,7 +32709,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301836,
+      "Progressed": 301838,
       "Completed": 507
     }
   ],
@@ -32712,8 +32717,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-11T03:59:31.4662563+00:00",
-  "LastChanged_Achievements": "2023-11-11T04:09:55.18942+00:00",
+  "LastChanged_Achievements": "2023-11-11T05:08:58.7491883+00:00",
   "LastUpdate_AppInfo": "2023-11-04T15:57:18.5817734+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:59:31.4662569+00:00",
-  "LastUpdate_Achievements": "2023-11-11T04:09:55.1895348+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:58:36.3409533+00:00",
+  "LastUpdate_Achievements": "2023-11-11T05:08:58.7493003+00:00"
 }

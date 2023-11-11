@@ -4,7 +4,7 @@
   "ProductSlug": "afterglitch-06da0d",
   "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 14,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-20T22:00:00+00:00",
@@ -92,9 +92,9 @@
       "ID": "2",
       "SetID": "hnfblp",
       "Name": "II.",
-      "Percentage": 38,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "3",
@@ -162,8 +162,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:47:51.4740413+00:00",
-  "LastChanged_Achievements": "2023-11-11T04:05:35.0846934+00:00",
+  "LastChanged_Achievements": "2023-11-11T05:04:26.9050126+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:01.1096481+00:00",
-  "LastUpdate_Ratings": "2023-11-11T03:59:41.5292769+00:00",
-  "LastUpdate_Achievements": "2023-11-11T04:05:35.084706+00:00"
+  "LastUpdate_Ratings": "2023-11-11T04:58:42.6723562+00:00",
+  "LastUpdate_Achievements": "2023-11-11T05:04:26.9050183+00:00"
 }
