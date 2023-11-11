@@ -15002,9 +15002,9 @@
       "Count": 12743
     }
   ],
-  "EOS_Progressed": 896242,
+  "EOS_Progressed": 896252,
   "EOS_Completed": 2766,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 999,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38262,6 +38262,11 @@
       "Time": "2023-11-11T20:08:30.6655183+00:00",
       "NumProgressed": 896242,
       "NumCompleted": 2766
+    },
+    {
+      "Time": "2023-11-11T21:05:22.3456679+00:00",
+      "NumProgressed": 896252,
+      "NumCompleted": 2766
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38282,7 +38287,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "BushidoAndChill",
@@ -38298,7 +38303,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5377
+      "UsersEstimate": 5378
     },
     {
       "ID": "Denied",
@@ -38322,7 +38327,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "Gearhead",
@@ -38346,7 +38351,7 @@
       "Name": "Gun Fu",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8962
+      "UsersEstimate": 8963
     },
     {
       "ID": "Gunslinger",
@@ -38530,7 +38535,7 @@
       "Name": "The Sun",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "TheWheelOfFortune",
@@ -38570,7 +38575,7 @@
       "Name": "True Soldier",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5377
+      "UsersEstimate": 5378
     },
     {
       "ID": "TrueWarrior",
@@ -38586,7 +38591,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1792
+      "UsersEstimate": 1793
     },
     {
       "ID": "UnderPressure",
@@ -38602,7 +38607,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26887
+      "UsersEstimate": 26888
     },
     {
       "ID": "YipMan",
@@ -38674,7 +38679,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Kingofcups",
@@ -38809,21 +38814,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896242,
+      "Progressed": 896252,
       "Completed": 2766
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24865,
-      "Completed": 10208
+      "Progressed": 24875,
+      "Completed": 10209
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-11T16:59:45.4707519+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:08:30.6655177+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:05:22.3456671+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:02:18.3305698+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:08:30.6657248+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:59:01.9951749+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:05:22.3459385+00:00"
 }

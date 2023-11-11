@@ -22,11 +22,11 @@
 | Never tell me the odds! | 9.00% | ~106 |
 | What's the cargo? | 8.00% | ~94 |
 | A cunning warrior | 8.00% | ~94 |
+| Judge me by my size, do you? | 7.00% | ~82 |
 | "Gonk? Gonk!" | 6.00% | ~70 |
 | Distinguished | 6.00% | ~70 |
 | A tremor in the Force | 6.00% | ~70 |
 | Impressive. Most impressive. | 6.00% | ~70 |
-| Judge me by my size, do you? | 6.00% | ~70 |
 | Support the troops | 6.00% | ~70 |
 | Safety ain't the point of a joyride | 4.00% | ~47 |
 | Not bad for a little furball | 4.00% | ~47 |

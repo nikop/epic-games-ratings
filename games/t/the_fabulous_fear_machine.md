@@ -4,22 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Master trainee | 6.00% | ~2 |
+| You have three wishes left | 6.00% | ~2 |
 | The adventurer | 6.00% | ~2 |
 | You have two wishes left | 6.00% | ~2 |
-| Master trainee | 3.00% | ~1 |
 | You had one wish left | 3.00% | ~1 |
 | Blood Red Island | 3.00% | ~1 |
 | Bread and bocaua | 3.00% | ~1 |
 | Fanatacism is... poisonous | 3.00% | ~1 |
-| You have three wishes left | 3.00% | ~1 |
+| Jung's dream | 3.00% | ~1 |
+| Giant | 3.00% | ~1 |
+| The battle of Great Britain | 3.00% | ~1 |
 | Thirst for Oleum | 3.00% | ~1 |
 | ECO mode | 3.00% | ~1 |
 | You've awakened the beast | 0.00% | ~0 |
 | Hate is... addictive | 0.00% | ~0 |
 | Blessed antennas | 0.00% | ~0 |
 | The beast in the Oval Office | 0.00% | ~0 |
-| Jung's dream | 0.00% | ~0 |
-| Giant | 0.00% | ~0 |
 | A rival with no options | 0.00% | ~0 |
 | Et in arcadia ego | 0.00% | ~0 |
 | The artist | 0.00% | ~0 |
@@ -29,7 +30,6 @@
 | Pulp! The Perfect Crime | 0.00% | ~0 |
 | Pulp! Weird Science | 0.00% | ~0 |
 | Pulp! Heart Throbs | 0.00% | ~0 |
-| The battle of Great Britain | 0.00% | ~0 |
 | Pulp! Mister Mystery | 0.00% | ~0 |
 | Pulp! Tales from the Crypt | 0.00% | ~0 |
 | Pulp! Skeleton Hand | 0.00% | ~0 |

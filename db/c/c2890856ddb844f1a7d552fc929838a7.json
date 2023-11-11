@@ -3,11 +3,11 @@
   "Name": "Blasphemous 2",
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 30,
-  "Ranking_Popularity": 539,
-  "Ranking_PopularitySum": 540,
+  "Ranking_Popularity": 538,
+  "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -167,7 +167,7 @@
   ],
   "EOS_Progressed": 960,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2685,9 +2685,9 @@
       "ID": "AC40",
       "SetID": "l4abp0",
       "Name": "Welcome Back!",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 816
+      "UsersEstimate": 826
     },
     {
       "ID": "AC41",
@@ -2742,8 +2742,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:13:13.7507322+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:09:50.4620547+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:16.3145336+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:01:52.9725114+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:13:13.7507963+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:58:40.8498708+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:09:50.462112+00:00"
 }

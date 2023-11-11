@@ -19,8 +19,8 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 0.50% | ~32 |
 | Going for Gold | 0.40% | ~26 |
 | License to Gill | 0.30% | ~19 |
+| I'm Hooked! | 0.30% | ~19 |
 | I'm the Captain Now | 0.20% | ~13 |
-| I'm Hooked! | 0.20% | ~13 |
 | More than a Tourist | 0.10% | ~6 |
 | Hook, Line and Sinker | 0.10% | ~6 |
 | The Beetles | 0.10% | ~6 |
@@ -254,9 +254,9 @@ Completed: 0 (0.00%) (Ranked 348)
 | 2023-11-10 | 6,476 | 0 |
 | 2023-11-11 | 6,493 | 0 |
 ## Awards
-Max (Relaxing): 36  (Ranked 465)  
+Max (Relaxing): 36  (Ranked 464)  
 Sum: 192 (Ranked 403)  
-Diff (max vs sum): 62  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 36 |

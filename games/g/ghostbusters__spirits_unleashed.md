@@ -15,14 +15,14 @@ Rating: 4.50 (Ranked 588)
 | Swift Rift Removers | 4.00% | ~1,231 |
 | Teamwork | 4.00% | ~1,231 |
 | Vaporous Expansion | 4.00% | ~1,231 |
-| Animated | 3.00% | ~923 |
-| Clutch Capture | 3.00% | ~923 |
-| Cultured | 3.00% | ~923 |
-| Daily Dose | 3.00% | ~923 |
-| Ghostbuster In Training | 3.00% | ~923 |
-| Right back at ya | 3.00% | ~923 |
-| There you are! | 3.00% | ~923 |
-| Whoopsie | 3.00% | ~923 |
+| Animated | 3.00% | ~924 |
+| Clutch Capture | 3.00% | ~924 |
+| Cultured | 3.00% | ~924 |
+| Daily Dose | 3.00% | ~924 |
+| Ghostbuster In Training | 3.00% | ~924 |
+| Right back at ya | 3.00% | ~924 |
+| There you are! | 3.00% | ~924 |
+| Whoopsie | 3.00% | ~924 |
 | Back Off | 2.00% | ~616 |
 | We have the best insurance | 2.00% | ~616 |
 | Ectoplasmic Entity | 2.00% | ~616 |
@@ -49,15 +49,15 @@ Rating: 4.50 (Ranked 588)
 | Therapeutic | 0.60% | ~185 |
 | Rift Seeker | 0.50% | ~154 |
 | Master Collector | 0.40% | ~123 |
+| I don't need these | 0.20% | ~62 |
 | Ghost Expert | 0.20% | ~62 |
 | Little Help Here | 0.20% | ~62 |
 | Catostrophic Destroyer | 0.10% | ~31 |
-| I don't need these | 0.10% | ~31 |
 | Line em' up | 0.10% | ~31 |
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,779 (Ranked 122)  
+Progressed: 30,786 (Ranked 122)  
 Completed: 67 (0.22%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,7 +262,7 @@ Completed: 67 (0.22%) (Ranked 240)
 | 2023-11-08 | 30,559 | 66 |
 | 2023-11-09 | 30,630 | 66 |
 | 2023-11-10 | 30,704 | 66 |
-| 2023-11-11 | 30,779 | 67 |
+| 2023-11-11 | 30,786 | 67 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 246)  
 Sum: 2,760 (Ranked 179)  

@@ -58,9 +58,9 @@ Number of Ratings: 180  (23.09.2022)
 | Transport tycoon (Hard mode) | 2.00% | ~37 |
 | No country for old trains | 2.00% | ~37 |
 | Charles Alton Ellis | 2.00% | ~37 |
+| Campaign tycoon | 2.00% | ~37 |
 | Metropolis | 2.00% | ~37 |
 | Speed of light | 2.00% | ~37 |
-| Campaign tycoon | 1.00% | ~18 |
 | Trans-Siberian Railway | 1.00% | ~18 |
 | Train Fever | 1.00% | ~18 |
 | Louis Favre | 1.00% | ~18 |
@@ -263,9 +263,9 @@ Completed: 1 (0.05%) (Ranked 299)
 | 2023-11-10 | 1,836 | 1 |
 | 2023-11-11 | 1,840 | 1 |
 ## Awards
-Max (Highly Recommended): 43  (Ranked 449)  
+Max (Highly Recommended): 43  (Ranked 448)  
 Sum: 305 (Ranked 359)  
-Diff (max vs sum): 90  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 43 |

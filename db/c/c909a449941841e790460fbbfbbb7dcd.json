@@ -2,10 +2,10 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -859,9 +859,9 @@
       "ID": "DEFEATED_10_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Killer",
-      "Percentage": 94,
+      "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 173
+      "UsersEstimate": 175
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -947,9 +947,9 @@
       "ID": "REACH_LEVEL_5",
       "SetID": "14g34pl",
       "Name": "Strong",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 147
     }
   ],
   "AchievementSets": [
@@ -962,8 +962,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:07:38.4572466+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:04:38.6379415+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:01:10.3321319+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:07:38.4572666+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:58:06.0169436+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:04:38.6379588+00:00"
 }

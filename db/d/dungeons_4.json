@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 371,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -283,9 +283,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -299,49 +299,49 @@
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 120
     },
     {
       "ID": "ach_main03demon_doors",
       "SetID": "4hg22ll",
       "Name": "Master of Magic",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 45,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -355,17 +355,17 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 85
     },
     {
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 99
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_main05evil_unicorn",
@@ -379,9 +379,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 61
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -395,25 +395,25 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "ach_main07storm_completed",
       "SetID": "4hg22ll",
       "Name": "The Ascent",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -427,17 +427,17 @@
       "ID": "ach_main07storm_storm",
       "SetID": "4hg22ll",
       "Name": "It\u0027s Warm and Cozy at Home",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "ach_main08sacrifice_completed",
       "SetID": "4hg22ll",
       "Name": "The Big Eaty",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -459,25 +459,25 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_main09journey_nospells",
       "SetID": "4hg22ll",
       "Name": "Forbidden Knowledge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ach_main10fire_completed",
@@ -499,9 +499,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -515,9 +515,9 @@
       "ID": "ach_main11blessing_ghostheroes",
       "SetID": "4hg22ll",
       "Name": "Ghost Pirates? Ghost Heroes!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_main11blessing_undeadonly",
@@ -754,8 +754,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:06:53.6513578+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:04:01.0409975+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:01:43.8796007+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:06:53.6514301+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:58:33.7212729+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:04:01.0410565+00:00"
 }

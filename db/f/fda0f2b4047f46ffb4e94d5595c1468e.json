@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 636,
+  "Ranking_Rating": 635,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 163,
@@ -2365,10 +2365,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 4572,
       "NumberOfAwardsMax": 1467
+    },
+    {
+      "Time": "2023-11-11T21:00:55.5509045+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4580,
+      "NumberOfAwardsMax": 1467
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4572,
+  "NumberOfAwards": 4580,
   "NumberOfAwardsMax": 1467,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2418,7 +2424,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 305
+      "Count": 313
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2445,9 +2451,9 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 8439,
+  "EOS_Progressed": 8440,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7650,6 +7656,11 @@
       "Time": "2023-11-11T20:11:42.3830026+00:00",
       "NumProgressed": 8439,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T21:08:33.4944048+00:00",
+      "NumProgressed": 8440,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7678,7 +7689,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "ach04",
@@ -7702,7 +7713,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6329
+      "UsersEstimate": 6330
     },
     {
       "ID": "ach07",
@@ -7758,7 +7769,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "ach14",
@@ -7828,9 +7839,9 @@
       "ID": "ach22",
       "SetID": "47in8n6",
       "Name": "Where\u0027s Blanche",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1688
     },
     {
       "ID": "ach23",
@@ -7838,7 +7849,7 @@
       "Name": "Take And Deny",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 2447
+      "UsersEstimate": 2448
     },
     {
       "ID": "ach24",
@@ -7846,7 +7857,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3966
+      "UsersEstimate": 3967
     },
     {
       "ID": "ach25",
@@ -7854,7 +7865,7 @@
       "Name": "Talis-Mania",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "ach26",
@@ -7870,7 +7881,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2700
+      "UsersEstimate": 2701
     },
     {
       "ID": "ach28",
@@ -7878,7 +7889,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "ach29",
@@ -7982,7 +7993,7 @@
       "Name": "Stop Hiding",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3123
     },
     {
       "ID": "ach42",
@@ -7990,7 +8001,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3713
+      "UsersEstimate": 3714
     },
     {
       "ID": "ach43",
@@ -8054,23 +8065,23 @@
       "Name": "Witness Me!!!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3291
+      "UsersEstimate": 3292
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8439,
+      "Progressed": 8440,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-11T19:01:43.457559+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:11:42.3830022+00:00",
+  "LastChanged": "2023-11-11T21:00:55.5509044+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:08:33.4944042+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:04:37.884353+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:11:42.3830838+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:00:55.5509049+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:08:33.4945865+00:00"
 }

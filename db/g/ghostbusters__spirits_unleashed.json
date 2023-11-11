@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 102,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3255,9 +3255,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30779,
+  "EOS_Progressed": 30786,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 702,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -18865,6 +18865,11 @@
       "Time": "2023-11-11T20:08:14.8099413+00:00",
       "NumProgressed": 30779,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-11-11T21:05:09.2609325+00:00",
+      "NumProgressed": 30786,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 51,
@@ -18884,7 +18889,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Back_Off",
@@ -18916,7 +18921,7 @@
       "Name": "Clutch Capture",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Collect_Spores",
@@ -18940,7 +18945,7 @@
       "Name": "Cultured",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Daily_Dose",
@@ -18948,7 +18953,7 @@
       "Name": "Daily Dose",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Diabolical",
@@ -18970,9 +18975,9 @@
       "ID": "Dont_Need_These",
       "SetID": "819popo",
       "Name": "I don\u0027t need these",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 62
     },
     {
       "ID": "Ectoplasmic_Entity",
@@ -19020,7 +19025,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Ghost_Expert",
@@ -19124,7 +19129,7 @@
       "Name": "Right back at ya",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Rivalry",
@@ -19236,7 +19241,7 @@
       "Name": "There you are!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     },
     {
       "ID": "Tobins_Prodigy",
@@ -19276,14 +19281,14 @@
       "Name": "Whoopsie",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 923
+      "UsersEstimate": 924
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30779,
+      "Progressed": 30786,
       "Completed": 67
     }
   ],
@@ -19291,8 +19296,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-11T18:02:46.203384+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:08:14.8099405+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:05:09.2609318+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:05:50.4955594+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:08:14.8100902+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:02:49.5627352+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:05:09.2611036+00:00"
 }

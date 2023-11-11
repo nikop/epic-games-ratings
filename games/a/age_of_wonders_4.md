@@ -8,9 +8,9 @@ Rating: 4.60 (Ranked 409)
 | But this one is mine | 2.00% | ~107 |
 | Secret Technique | 0.80% | ~43 |
 | Realm Estate | 0.70% | ~37 |
+| A Wonderful Discovery | 0.70% | ~37 |
 | Walls Cannot Stop Us | 0.70% | ~37 |
 | Freed Lands of Manuhari | 0.70% | ~37 |
-| A Wonderful Discovery | 0.60% | ~32 |
 | From Friends to Family | 0.50% | ~27 |
 | There Can Only Be One! | 0.40% | ~21 |
 | Bone Peddler | 0.40% | ~21 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 409)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,356 (Ranked 183)  
+Progressed: 5,357 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,10 +239,10 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
-| 2023-11-11 | 5,356 | 7 |
+| 2023-11-11 | 5,357 | 7 |
 ## Awards
-Max (Great for Beginners): 32  (Ranked 482)  
-Sum: 53 (Ranked 475)  
+Max (Great for Beginners): 32  (Ranked 481)  
+Sum: 53 (Ranked 474)  
 Diff (max vs sum): 7  
 | Award | Count |
 | ----- | ----- |

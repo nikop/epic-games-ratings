@@ -4,7 +4,7 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -494,9 +494,9 @@
       "ID": "A19",
       "SetID": "7f5j12l",
       "Name": "Purple Flame",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "A2",
@@ -526,9 +526,9 @@
       "ID": "A22",
       "SetID": "7f5j12l",
       "Name": "Level 5 Completed",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A23",
@@ -582,9 +582,9 @@
       "ID": "A29",
       "SetID": "7f5j12l",
       "Name": "Airport Destroyed",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A3",
@@ -614,9 +614,9 @@
       "ID": "A32",
       "SetID": "7f5j12l",
       "Name": "Main Quest Completed",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A33",
@@ -678,9 +678,9 @@
       "ID": "A9",
       "SetID": "7f5j12l",
       "Name": "10k Humans Killed",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     }
   ],
   "AchievementSets": [
@@ -693,8 +693,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:08:34.2820058+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:05:25.3889479+00:00",
   "LastUpdate_AppInfo": "2023-11-07T08:57:06.7637727+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:02:43.7226842+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:08:34.2820354+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:59:22.3842752+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:05:25.3889743+00:00"
 }

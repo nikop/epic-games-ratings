@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 178,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -804,9 +804,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_17",
@@ -932,9 +932,9 @@
       "ID": "ACH_33",
       "SetID": "efe2lj",
       "Name": "Miner",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ACH_34",
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:13:19.2150677+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:09:55.0274647+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:02:34.0435463+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:13:19.2151039+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:59:14.801832+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:09:55.0274973+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 85,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -7943,10 +7943,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32437,
       "NumberOfAwardsMax": 5514
+    },
+    {
+      "Time": "2023-11-11T20:59:39.7893103+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32439,
+      "NumberOfAwardsMax": 5514
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32437,
+  "NumberOfAwards": 32439,
   "NumberOfAwardsMax": 5514,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -7984,7 +7990,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4207
+      "Count": 4209
     },
     {
       "Text": "This game has Playful Visuals",
@@ -7993,9 +7999,9 @@
       "Count": 3515
     }
   ],
-  "EOS_Progressed": 234570,
+  "EOS_Progressed": 234578,
   "EOS_Completed": 2442,
-  "EOS_NewPlayers": 913,
+  "EOS_NewPlayers": 908,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -30968,6 +30974,11 @@
       "Time": "2023-11-11T20:11:22.5372954+00:00",
       "NumProgressed": 234570,
       "NumCompleted": 2442
+    },
+    {
+      "Time": "2023-11-11T21:08:16.8590954+00:00",
+      "NumProgressed": 234578,
+      "NumCompleted": 2442
     }
   ],
   "TotalAchievements": 532,
@@ -35203,7 +35214,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2008
+      "UsersEstimate": 2009
     },
     {
       "ID": "objective_completed_1548",
@@ -35234,21 +35245,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 200844,
+      "Progressed": 200852,
       "Completed": 3916
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 234570,
+      "Progressed": 234578,
       "Completed": 2442
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-11T19:00:15.2737888+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:11:22.5372949+00:00",
+  "LastChanged": "2023-11-11T20:59:39.78931+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:08:16.8590948+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:03:05.0869566+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:11:22.5408663+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:59:39.7893108+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:08:16.8619871+00:00"
 }

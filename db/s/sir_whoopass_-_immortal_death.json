@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -961,9 +961,9 @@
       "ID": "JUMP_2",
       "SetID": "9gfkh7c",
       "Name": "My pants squeak when I walk",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "JUMP_3",
@@ -1161,9 +1161,9 @@
       "ID": "WORM_1",
       "SetID": "9gfkh7c",
       "Name": "Slimy... yet satisfying",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
@@ -1176,8 +1176,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:12:18.1921402+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:09:04.0540454+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:16.7726106+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:01:57.6913649+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:12:18.1922429+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:58:44.8813638+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:09:04.0541356+00:00"
 }

@@ -1536,9 +1536,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 295
     },
     {
       "ID": "Collectibles2",
@@ -1727,8 +1727,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:07:49.6886508+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:04:48.0950314+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:00:31.0054601+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:07:49.6886905+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:57:33.8071623+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:04:48.0950792+00:00"
 }

@@ -32,7 +32,7 @@ Number of Ratings: 58  (23.09.2022)
 | In the Eye of the Storm | 38.00% | ~485 |
 | The Crimson Void | 35.00% | ~447 |
 | The Nameless Dread | 34.00% | ~434 |
-| Time to Spear | 31.00% | ~396 |
+| Time to Spear | 32.00% | ~408 |
 | Disciple | 31.00% | ~396 |
 | Mastery of Weapons | 30.00% | ~383 |
 | Ghosts | 26.00% | ~332 |
@@ -226,8 +226,8 @@ Completed: 17 (1.33%) (Ranked 144)
 | 2023-11-10 | 1,275 | 17 |
 | 2023-11-11 | 1,276 | 17 |
 ## Awards
-Max (Great Boss Battles): 34  (Ranked 475)  
-Sum: 34 (Ranked 501)  
+Max (Great Boss Battles): 34  (Ranked 474)  
+Sum: 34 (Ranked 500)  
 Diff (max vs sum): -26  
 | Award | Count |
 | ----- | ----- |

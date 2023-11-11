@@ -6393,9 +6393,9 @@
       "Count": 458
     }
   ],
-  "EOS_Progressed": 716797,
-  "EOS_Completed": 2380,
-  "EOS_NewPlayers": 4294,
+  "EOS_Progressed": 716830,
+  "EOS_Completed": 2381,
+  "EOS_NewPlayers": 4269,
   "EOS_NewCompleters": 57,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29828,6 +29828,11 @@
       "Time": "2023-11-11T20:06:58.5136969+00:00",
       "NumProgressed": 716797,
       "NumCompleted": 2380
+    },
+    {
+      "Time": "2023-11-11T21:04:05.1292897+00:00",
+      "NumProgressed": 716830,
+      "NumCompleted": 2381
     }
   ],
   "TotalAchievements": 51,
@@ -29845,9 +29850,9 @@
       "ID": "ach_a_taste_of_stardom",
       "SetID": "7km39fm",
       "Name": "Making Your Mark",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2150
+      "UsersEstimate": 2867
     },
     {
       "ID": "ach_ammo_ran",
@@ -30173,9 +30178,9 @@
       "ID": "ach_welcome_to_hell_a",
       "SetID": "7km39fm",
       "Name": "Welcome To Hell-A",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5735
     },
     {
       "ID": "ach_well_known_survivor",
@@ -30199,7 +30204,7 @@
       "Name": "One of Us",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ach_dark_magic",
@@ -30246,13 +30251,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 716797,
-      "Completed": 2380
+      "Progressed": 716830,
+      "Completed": 2381
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 42339,
+      "Progressed": 42372,
       "Completed": 36523
     }
   ],
@@ -30260,8 +30265,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-11T20:04:03.2964654+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:06:58.5136963+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:04:05.129289+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:04:03.2964663+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:06:58.5138946+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:00:27.0634274+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:04:05.1295389+00:00"
 }

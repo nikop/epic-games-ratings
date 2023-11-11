@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 146,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13490,
+  "EOS_Progressed": 13492,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14144,6 +14144,11 @@
       "Time": "2023-11-11T20:07:47.8877611+00:00",
       "NumProgressed": 13490,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T21:04:46.5712048+00:00",
+      "NumProgressed": 13492,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -14179,7 +14184,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -14347,21 +14352,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13490,
+      "Progressed": 13492,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:07:47.8877605+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:04:46.571204+00:00",
   "LastUpdate_AppInfo": "2023-11-11T03:57:04.8378418+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:06:00.6660134+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:07:47.8878722+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:02:57.9655929+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:04:46.5712983+00:00"
 }

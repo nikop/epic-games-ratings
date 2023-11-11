@@ -13,7 +13,7 @@
 | Terminated II | 16.00% | ~125 |
 | Challenge Mastered | 13.00% | ~102 |
 | Terminated III | 13.00% | ~102 |
-| Nanonic II | 10.00% | ~78 |
+| Nanonic II | 11.00% | ~86 |
 | Starship Docks | 8.00% | ~63 |
 | Fully Modded | 8.00% | ~63 |
 | Nanonic III | 8.00% | ~63 |

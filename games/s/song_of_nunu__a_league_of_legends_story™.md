@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 75.00% | ~482 |
-| I Broke It | 72.00% | ~462 |
-| Better On Ice | 70.00% | ~449 |
-| Notai Notes | 70.00% | ~449 |
-| Blue Dreams | 69.00% | ~443 |
+| Feels Familiar | 76.00% | ~489 |
+| I Broke It | 72.00% | ~463 |
+| Better On Ice | 70.00% | ~450 |
+| Notai Notes | 70.00% | ~450 |
+| Blue Dreams | 69.00% | ~444 |
 | He's Famous! | 68.00% | ~437 |
-| Krugmazing | 67.00% | ~430 |
-| Cutie Poro | 67.00% | ~430 |
-| The Fire Below the Mountain | 64.00% | ~411 |
+| Krugmazing | 67.00% | ~431 |
+| Cutie Poro | 67.00% | ~431 |
+| The Fire Below the Mountain | 64.00% | ~412 |
 | Moneyball | 59.00% | ~379 |
 | No Bites | 56.00% | ~360 |
 | Iceborn | 56.00% | ~360 |
+| Tear of Freedom | 52.00% | ~334 |
 | Boom Things | 52.00% | ~334 |
-| Tear of Freedom | 51.00% | ~327 |
-| My Darkest Day | 47.00% | ~302 |
-| Rhythm Of Willump | 46.00% | ~295 |
+| My Darkest Day | 48.00% | ~309 |
+| Rhythm Of Willump | 47.00% | ~302 |
 | The Relentless Storm | 45.00% | ~289 |
 | A Tragic Reminder | 43.00% | ~276 |
 | 3000 Year Blackout | 42.00% | ~270 |
-| True Legends | 41.00% | ~263 |
-| The Finisher | 41.00% | ~263 |
+| True Legends | 41.00% | ~264 |
+| The Finisher | 41.00% | ~264 |
 | So Close | 38.00% | ~244 |
 | You Get Used To It | 37.00% | ~238 |
 | Family | 35.00% | ~225 |
@@ -32,10 +32,10 @@
 | On The Rocks | 35.00% | ~225 |
 | Bullseye | 35.00% | ~225 |
 | Boosted! | 35.00% | ~225 |
-| Freeze The Ice Witch | 34.00% | ~218 |
-| Deadliest and Biggest Snowball Ever! | 34.00% | ~218 |
-| It Is Not Over | 32.00% | ~205 |
-| Never Gets Old | 32.00% | ~205 |
+| Freeze The Ice Witch | 34.00% | ~219 |
+| Deadliest and Biggest Snowball Ever! | 34.00% | ~219 |
+| It Is Not Over | 32.00% | ~206 |
+| Never Gets Old | 32.00% | ~206 |
 | Snowy Poro | 31.00% | ~199 |
 | Vertical Power | 28.00% | ~180 |
 | One From The Heart | 14.00% | ~90 |
@@ -49,7 +49,7 @@
 | Rock Star | 2.00% | ~13 |
 | We Are Speed | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 642 (Ranked 278)  
+Progressed: 643 (Ranked 278)  
 Completed: 5 (0.78%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,4 +71,4 @@ Completed: 5 (0.78%) (Ranked 172)
 | 2023-11-08 | 584 | 5 |
 | 2023-11-09 | 612 | 5 |
 | 2023-11-10 | 631 | 5 |
-| 2023-11-11 | 642 | 5 |
+| 2023-11-11 | 643 | 5 |

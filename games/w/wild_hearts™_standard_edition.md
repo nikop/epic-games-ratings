@@ -16,11 +16,11 @@
 | Subsistence Skills | 64.00% | ~170 |
 | Kemono Hunter | 58.00% | ~154 |
 | Expert Conjuror | 57.00% | ~151 |
-| Distance Devourer | 53.00% | ~140 |
+| Distance Devourer | 54.00% | ~143 |
 | Flawless Crystal | 53.00% | ~140 |
 | Master of the Skies | 52.00% | ~138 |
-| Bonds of Enmity | 51.00% | ~135 |
-| Helpful Heart | 51.00% | ~135 |
+| Bonds of Enmity | 52.00% | ~138 |
+| Helpful Heart | 52.00% | ~138 |
 | Counter Specialist | 48.00% | ~127 |
 | Axer of Auspice | 44.00% | ~117 |
 | Mighty Marmelizer | 42.00% | ~111 |
@@ -33,7 +33,7 @@
 | Team Hunter | 33.00% | ~87 |
 | Reincarnation Cycle Stopper | 32.00% | ~85 |
 | Karakuri Isle | 31.00% | ~82 |
-| Left Arm Leverager | 28.00% | ~74 |
+| Left Arm Leverager | 29.00% | ~77 |
 | Canyon of Karakuri | 27.00% | ~72 |
 | Style Seeker | 26.00% | ~69 |
 | Human Believer | 26.00% | ~69 |

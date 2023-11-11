@@ -3,11 +3,11 @@
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
   "Ranking_Rating": 1037,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1807,
+  "EOS_Progressed": 1808,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -6770,6 +6770,11 @@
       "Time": "2023-11-11T20:09:50.6136185+00:00",
       "NumProgressed": 1807,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T21:06:30.0124506+00:00",
+      "NumProgressed": 1808,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6789,7 +6794,7 @@
       "Name": "Exterminator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ach_defeat_players_10",
@@ -6885,7 +6890,7 @@
       "Name": "Facility Online",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -7084,7 +7089,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1807,
+      "Progressed": 1808,
       "Completed": 1
     }
   ],
@@ -7092,8 +7097,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:09:50.613618+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:06:30.0124498+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.0874447+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:01:36.8091182+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:09:50.6137055+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:58:27.815891+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:06:30.0125172+00:00"
 }

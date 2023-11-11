@@ -6,54 +6,54 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 237.00% | ~718 |
-| Iron Chef | 182.00% | ~551 |
-| Greeno-B-Gone | 116.00% | ~351 |
-| Your Especially Earned Trajectory | 90.00% | ~273 |
-| No Mountain Wide Enough | 61.00% | ~185 |
-| Can We Keep It? | 59.00% | ~179 |
-| On that Grindset | 58.00% | ~176 |
-| Diamonds are Forever | 50.00% | ~152 |
-| Yakmel Whisperer | 49.00% | ~148 |
-| Pack Mule | 48.00% | ~145 |
-| Unboxing | 46.00% | ~139 |
-| Financially Secure | 43.00% | ~130 |
-| Got Served | 43.00% | ~130 |
-| One of the Cool Kids | 42.00% | ~127 |
-| Big Game Hunter | 41.00% | ~124 |
-| My Time Mansion | 39.00% | ~118 |
-| Chatterbox | 39.00% | ~118 |
-| Mole Masher | 38.00% | ~115 |
-| Knowledge is Power | 37.00% | ~112 |
-| Happier-est Place on Earth | 37.00% | ~112 |
-| Call Me Fishmael | 37.00% | ~112 |
-| Better Late than Never | 36.00% | ~109 |
-| I Do! | 36.00% | ~109 |
-| You Don't Win Friends With Salad | 36.00% | ~109 |
-| What Plants Crave | 35.00% | ~106 |
-| Anti-Santa | 33.00% | ~100 |
-| First Love | 33.00% | ~100 |
-| Officially Official | 32.00% | ~97 |
-| Finishing Touches | 31.00% | ~94 |
-| Panda-kin | 29.00% | ~88 |
-| Bridging the Gap | 29.00% | ~88 |
-| Builder of the Month | 27.00% | ~82 |
-| Jewel of the Eufaula | 27.00% | ~82 |
-| Who Ya Gonna Call...? | 26.00% | ~79 |
-| Waste Not Want Not | 25.00% | ~76 |
-| Martle's Dream | 24.00% | ~73 |
-| He Can Spin A Yarn... | 24.00% | ~73 |
-| Commissions, commissions...! | 23.00% | ~70 |
-| Elementary, My Dear | 21.00% | ~64 |
-| Lifeline Pipeline | 20.00% | ~61 |
-| Got the Flow Back | 20.00% | ~61 |
-| Newton | 20.00% | ~61 |
-| Do Your Part | 18.00% | ~55 |
-| Kind of a Big Deal | 17.00% | ~52 |
+| Adept Assembler | 240.00% | ~720 |
+| Iron Chef | 184.00% | ~552 |
+| Greeno-B-Gone | 117.00% | ~351 |
+| Your Especially Earned Trajectory | 91.00% | ~273 |
+| No Mountain Wide Enough | 62.00% | ~186 |
+| Can We Keep It? | 60.00% | ~180 |
+| On that Grindset | 59.00% | ~177 |
+| Yakmel Whisperer | 50.00% | ~150 |
+| Diamonds are Forever | 50.00% | ~150 |
+| Pack Mule | 49.00% | ~147 |
+| Unboxing | 46.00% | ~138 |
+| Financially Secure | 44.00% | ~132 |
+| Got Served | 43.00% | ~129 |
+| One of the Cool Kids | 43.00% | ~129 |
+| Big Game Hunter | 42.00% | ~126 |
+| Chatterbox | 40.00% | ~120 |
+| My Time Mansion | 39.00% | ~117 |
+| Mole Masher | 39.00% | ~117 |
+| Knowledge is Power | 38.00% | ~114 |
+| Happier-est Place on Earth | 38.00% | ~114 |
+| Call Me Fishmael | 38.00% | ~114 |
+| Better Late than Never | 37.00% | ~111 |
+| You Don't Win Friends With Salad | 37.00% | ~111 |
+| What Plants Crave | 36.00% | ~108 |
+| I Do! | 36.00% | ~108 |
+| Officially Official | 33.00% | ~99 |
+| Anti-Santa | 33.00% | ~99 |
+| First Love | 33.00% | ~99 |
+| Finishing Touches | 31.00% | ~93 |
+| Panda-kin | 30.00% | ~90 |
+| Bridging the Gap | 30.00% | ~90 |
+| Builder of the Month | 27.00% | ~81 |
+| Jewel of the Eufaula | 27.00% | ~81 |
+| Who Ya Gonna Call...? | 27.00% | ~81 |
+| Martle's Dream | 25.00% | ~75 |
+| He Can Spin A Yarn... | 25.00% | ~75 |
+| Waste Not Want Not | 25.00% | ~75 |
+| Commissions, commissions...! | 23.00% | ~69 |
+| Elementary, My Dear | 21.00% | ~63 |
+| Lifeline Pipeline | 21.00% | ~63 |
+| Got the Flow Back | 20.00% | ~60 |
+| Newton | 20.00% | ~60 |
+| Kind of a Big Deal | 18.00% | ~54 |
+| Do Your Part | 18.00% | ~54 |
 | Just What I Always Wanted! | 16.00% | ~48 |
+| Sepia Toned Memories | 15.00% | ~45 |
 | Santa In Training | 15.00% | ~45 |
 | Time Flies | 14.00% | ~42 |
-| Sepia Toned Memories | 14.00% | ~42 |
 | Sandrunning Speedster | 13.00% | ~39 |
 | It Belongs in a Museum! | 13.00% | ~39 |
 | Cardistry | 12.00% | ~36 |
@@ -67,7 +67,7 @@ Number of Ratings: 892  (23.09.2022)
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 303 (Ranked 334)  
+Progressed: 300 (Ranked 337)  
 Completed: 0 (0.00%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -83,12 +83,12 @@ Completed: 0 (0.00%) (Ranked 348)
 | 2023-11-10 | 289 | 0 |
 | 2023-11-11 | 303 | 0 |
 ## Awards
-Max (Character Customization): 583  (Ranked 194)  
-Sum: 1,331 (Ranked 238)  
+Max (Character Customization): 586  (Ranked 194)  
+Sum: 1,334 (Ranked 238)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 583 |
+| This game has Inclusive Character Customization | 586 |
 | This game is Great for Beginners | 101 |
 | This game is Highly Recommended | 87 |
 | This game is Extremely Fun | 84 |
@@ -262,4 +262,4 @@ Diff (max vs sum): -44
 | 2023-11-08 | 4.68 | - | 580 | 1,323 |
 | 2023-11-09 | 4.68 | - | 580 | 1,326 |
 | 2023-11-10 | 4.68 | - | 583 | 1,329 |
-| 2023-11-11 | 4.68 | - | 583 | 1,331 |
+| 2023-11-11 | 4.68 | - | 586 | 1,334 |

@@ -7,9 +7,9 @@ Rating: 4.54 (Ranked 524)
 | ---- | ---------- | ----- |
 | Whatever It Takes | 2.00% | ~847 |
 | Pork Chopped | 2.00% | ~847 |
-| One of Us | 1.00% | ~423 |
+| One of Us | 1.00% | ~424 |
+| Welcome To Hell-A | 0.80% | ~5,735 |
 | Hotel California | 0.70% | ~5,018 |
-| Welcome To Hell-A | 0.70% | ~5,018 |
 | Git Gutte! | 0.60% | ~4,301 |
 | Break A Leg | 0.60% | ~4,301 |
 | Coup de Grâce | 0.60% | ~4,301 |
@@ -24,6 +24,7 @@ Rating: 4.54 (Ranked 524)
 | Apex Predator | 0.50% | ~3,584 |
 | Stacking the Deck | 0.50% | ~3,584 |
 | This is My Weapon | 0.50% | ~3,584 |
+| Making Your Mark | 0.40% | ~2,867 |
 | Perks of the Job | 0.40% | ~2,867 |
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,867 |
 | Slayer Squad | 0.40% | ~2,867 |
@@ -34,7 +35,6 @@ Rating: 4.54 (Ranked 524)
 | I Am the Resurrection | 0.40% | ~2,867 |
 | Max Headroom | 0.40% | ~2,867 |
 | Our True Nature | 0.40% | ~2,867 |
-| Making Your Mark | 0.30% | ~2,150 |
 | Not Even My Final Form | 0.30% | ~2,150 |
 | Jumbo Keyring | 0.30% | ~2,150 |
 | Humanity Distilled | 0.30% | ~2,150 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,797 (Ranked 20)  
-Completed: 2,380 (0.33%) (Ranked 220)  
+Progressed: 716,830 (Ranked 20)  
+Completed: 2,381 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -262,7 +262,7 @@ Completed: 2,380 (0.33%) (Ranked 220)
 | 2023-11-08 | 715,198 | 2,359 |
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
-| 2023-11-11 | 716,797 | 2,380 |
+| 2023-11-11 | 716,830 | 2,381 |
 ## Awards
 Max (Great Boss Battles): 7,320  (Ranked 53)  
 Sum: 11,108 (Ranked 85)  

@@ -2,9 +2,9 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 377,
+  "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 184,
+  "EOS_Progressed": 186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -691,6 +691,11 @@
       "Time": "2023-11-11T16:05:20.9780271+00:00",
       "NumProgressed": 184,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T21:06:07.6851751+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -702,7 +707,7 @@
       "Name": "Randomized",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Vanilla_Abolitionists",
@@ -756,9 +761,9 @@
       "ID": "Vanilla_AppeaseInAFight",
       "SetID": "27kik8p",
       "Name": "Conciliator",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -934,7 +939,7 @@
       "Name": "Conquered",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Vanilla_DeputiesMaxedOut",
@@ -1020,9 +1025,9 @@
       "ID": "Vanilla_FailedContract",
       "SetID": "27kik8p",
       "Name": "Breached",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -1036,9 +1041,9 @@
       "ID": "Vanilla_FirstFactionTier3",
       "SetID": "27kik8p",
       "Name": "Acquaintance",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Vanilla_FirstFactionTier5Neg",
@@ -1254,7 +1259,7 @@
       "Name": "Press-ganged",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1316,9 +1321,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 105
+      "UsersEstimate": 104
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1493,7 +1498,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 184,
+      "Progressed": 186,
       "Completed": 0
     }
   ],
@@ -1501,8 +1506,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:09:23.967549+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:06:07.6851743+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.6346975+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:00:18.3624601+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:09:23.9676862+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:57:23.1782261+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:06:07.6853032+00:00"
 }

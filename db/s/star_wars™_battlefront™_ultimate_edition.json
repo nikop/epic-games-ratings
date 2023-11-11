@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "Tags": [],
   "EOS_Progressed": 1173,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3699,9 +3699,9 @@
       "ID": "achievement_41",
       "SetID": "271ol84",
       "Name": "Judge me by my size, do you?",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 82
     },
     {
       "ID": "achievement_42",
@@ -3938,8 +3938,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:13:17.4474958+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:09:53.5389515+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:03:31.8762041+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:13:17.4475953+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:00:00.7007595+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:09:53.5390435+00:00"
 }

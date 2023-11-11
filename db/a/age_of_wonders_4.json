@@ -3,8 +3,8 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 409,
-  "Ranking_Popularity": 482,
-  "Ranking_PopularitySum": 475,
+  "Ranking_Popularity": 481,
+  "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 184,
@@ -447,9 +447,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5356,
+  "EOS_Progressed": 5357,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6967,6 +6967,11 @@
       "Time": "2023-11-11T19:04:35.1332963+00:00",
       "NumProgressed": 5356,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-11T21:04:08.2302935+00:00",
+      "NumProgressed": 5357,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7096,9 +7101,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 37
     },
     {
       "ID": "24",
@@ -7457,13 +7462,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5356,
+      "Progressed": 5357,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5356,
+      "Progressed": 5357,
       "Completed": 7
     }
   ],
@@ -7471,8 +7476,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T17:03:23.9116257+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:07:02.3785726+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:04:08.230293+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:05:43.6587367+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:07:02.3786785+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:02:43.8847181+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:04:08.2303801+00:00"
 }

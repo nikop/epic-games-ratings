@@ -3,8 +3,8 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 6,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 135,
@@ -448,9 +448,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 145
     },
     {
       "ID": "BreakTheLoop",
@@ -552,9 +552,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "GrasslandsRing",
@@ -608,9 +608,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 53
     },
     {
       "ID": "Mnemosyne",
@@ -656,17 +656,17 @@
       "ID": "NotWhatItSeems",
       "SetID": "1n308hc",
       "Name": "Not What It Seems",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "Persistent",
@@ -720,17 +720,17 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 0.4,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Sinner",
@@ -744,9 +744,9 @@
       "ID": "SouthernCoast",
       "SetID": "1n308hc",
       "Name": "Southern Coast",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "TeamSpirit",
@@ -768,9 +768,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "TheEdgeOfForever",
@@ -824,9 +824,9 @@
       "ID": "TouchGrass",
       "SetID": "1n308hc",
       "Name": "Touch Grass",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "TrevorsBiographer",
@@ -872,9 +872,9 @@
       "ID": "YourBiggestFan",
       "SetID": "1n308hc",
       "Name": "Your Biggest Fan",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
@@ -889,8 +889,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-11T05:02:45.9202035+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:06:51.2288921+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:03:58.9692994+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:06:04.154021+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:06:51.2289579+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:03:00.643382+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:03:58.9693517+00:00"
 }

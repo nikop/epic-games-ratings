@@ -7,37 +7,37 @@
 | The Last Stand | 82.00% | ~166 |
 | Thalya – Simply Immortal | 82.00% | ~166 |
 | For the Horde! | 73.00% | ~148 |
-| Hammer Time, Round Two | 70.00% | ~142 |
+| Hammer Time, Round Two | 71.00% | ~144 |
 | Thalya's Concentrated Fury | 64.00% | ~130 |
-| The Hellwoods | 57.00% | ~116 |
-| Experienced Thalya | 49.00% | ~99 |
-| Master of Magic | 48.00% | ~97 |
-| The Plains of Strothalm | 48.00% | ~97 |
-| Trap Master | 45.00% | ~91 |
-| Magic Accidents | 45.00% | ~91 |
+| The Hellwoods | 59.00% | ~120 |
+| Experienced Thalya | 50.00% | ~102 |
+| Master of Magic | 49.00% | ~99 |
+| The Plains of Strothalm | 49.00% | ~99 |
+| Magic Accidents | 47.00% | ~95 |
+| Trap Master | 46.00% | ~93 |
 | Unicorn steaks – fresh off the hoof! | 43.00% | ~87 |
-| Bad Elves Go Everywhere | 40.00% | ~81 |
-| Minions, Minions! | 39.00% | ~79 |
-| Heroes’ Gorge | 29.00% | ~59 |
-| YOU SHALL NOT PASS! | 23.00% | ~47 |
+| Bad Elves Go Everywhere | 42.00% | ~85 |
+| Minions, Minions! | 40.00% | ~81 |
+| Heroes’ Gorge | 30.00% | ~61 |
+| YOU SHALL NOT PASS! | 24.00% | ~49 |
 | Mana Cannon | 18.00% | ~37 |
+| The Ascent | 18.00% | ~37 |
 | Pure Dynamite! | 18.00% | ~37 |
-| The Ascent | 16.00% | ~32 |
-| It's Warm and Cozy at Home | 16.00% | ~32 |
-| Hard Work | 15.00% | ~30 |
-| The Big Eaty | 9.00% | ~18 |
+| It's Warm and Cozy at Home | 18.00% | ~37 |
+| Hard Work | 16.00% | ~32 |
+| The Big Eaty | 10.00% | ~20 |
 | Sacrificial Pit = Garbage Disposal? | 7.00% | ~14 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 6.00% | ~12 |
-| Dungeonlord Gorgu | 5.00% | ~10 |
+| “… like son” | 6.00% | ~12 |
+| Dungeonlord Gorgu | 6.00% | ~12 |
+| Shame! Shame! Shame! | 5.00% | ~10 |
 | Hungry, Hungry Gorgu! | 4.00% | ~8 |
-| “… like son” | 4.00% | ~8 |
+| Forbidden Knowledge | 4.00% | ~8 |
 | The Cathedral of Light | 4.00% | ~8 |
 | Unstoppable Horde | 4.00% | ~8 |
-| Shame! Shame! Shame! | 4.00% | ~8 |
-| Forbidden Knowledge | 3.00% | ~6 |
 | Tanos' Crusade Against Thalya | 3.00% | ~6 |
+| Ghost Pirates? Ghost Heroes! | 3.00% | ~6 |
 | Master of the Undead | 3.00% | ~6 |
-| Ghost Pirates? Ghost Heroes! | 2.00% | ~4 |
 | All’s Well That Ends Evil | 2.00% | ~4 |
 | Stop Tanos! | 2.00% | ~4 |
 | My Little Torture Chamber | 1.00% | ~2 |

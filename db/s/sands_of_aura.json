@@ -4,7 +4,7 @@
   "ProductSlug": "sands-of-aura",
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2021-10-21T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 66,
+  "EOS_Progressed": 67,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -335,6 +335,11 @@
       "Time": "2023-11-11T16:04:34.9881352+00:00",
       "NumProgressed": 66,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T21:05:13.591891+00:00",
+      "NumProgressed": 67,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-14T11:03:32.7947841+00:00",
@@ -361,7 +366,7 @@
       "ID": "ALCHEMECT_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Overboard",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -497,7 +502,7 @@
       "ID": "CRAGBOSS_DEFEAT",
       "SetID": "cm0d613",
       "Name": "A Small Thirsty Thing",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -529,7 +534,7 @@
       "ID": "DECIDE_CREATURES_FATE",
       "SetID": "cm0d613",
       "Name": "Smotherly Love",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -561,7 +566,7 @@
       "ID": "DISCOVER_ALL_ISLANDS",
       "SetID": "cm0d613",
       "Name": "Explorer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -569,7 +574,7 @@
       "ID": "DISCOVER_ONCEMAN_TOWN",
       "SetID": "cm0d613",
       "Name": "The River Styx",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -625,7 +630,7 @@
       "ID": "GRECKKO_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Sovereignty of Irons",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -657,7 +662,7 @@
       "ID": "HOARD_GLINT",
       "SetID": "cm0d613",
       "Name": "A Sandwyrm\u0027s Hoard",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -721,7 +726,7 @@
       "ID": "RETURN_SCRIPTURE",
       "SetID": "cm0d613",
       "Name": "Leisis Bless You",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -747,13 +752,13 @@
       "Name": "Setting Sail",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "UBAANI_DEFEAT",
       "SetID": "cm0d613",
       "Name": "Spirit Within",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -777,7 +782,7 @@
       "ID": "USE_FLOWERING_VASCULATURE",
       "SetID": "cm0d613",
       "Name": "Transformative Nature",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -801,7 +806,7 @@
       "ID": "WIN_STARSPIRE_TOURNAMENT",
       "SetID": "cm0d613",
       "Name": "Champion of Starspire",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 1
     }
@@ -810,7 +815,7 @@
     {
       "ID": "cm0d613",
       "IsBase": true,
-      "Progressed": 66,
+      "Progressed": 67,
       "Completed": 0
     }
   ],
@@ -818,8 +823,8 @@
   "FirstSeenRating": "2023-03-31T05:57:59.5376293+00:00",
   "FirstSeenAchievements": "2023-06-28T21:05:30.3845133+00:00",
   "LastChanged": "2023-03-31T05:57:59.5376294+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:08:19.9319837+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:05:13.5918904+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:13.5635294+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:02:29.0824048+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:08:19.9320427+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:59:10.6568961+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:05:13.591945+00:00"
 }

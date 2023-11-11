@@ -5,12 +5,12 @@ Rating: 4.10 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,069 |
-| World Map | 79.00% | ~1,758 |
-| Temple of Eternals | 57.00% | ~1,268 |
+| Victor | 93.00% | ~2,070 |
+| World Map | 79.00% | ~1,759 |
+| Temple of Eternals | 57.00% | ~1,269 |
 | Prestigious | 54.00% | ~1,202 |
-| Fellowship Power | 42.00% | ~934 |
-| Guild Power | 26.00% | ~578 |
+| Fellowship Power | 42.00% | ~935 |
+| Guild Power | 26.00% | ~579 |
 | Prestigious x10 | 23.00% | ~512 |
 | The game is on | 20.00% | ~445 |
 | Exotic Merchant | 19.00% | ~423 |
@@ -36,9 +36,9 @@ Rating: 4.10 (Ranked 958)
 | Mastery | 11.00% | ~245 |
 | Relic Of The Past | 11.00% | ~245 |
 | Scroll Master | 11.00% | ~245 |
-| Four Leaf Clover | 10.00% | ~222 |
-| Frostfire Liberator | 10.00% | ~222 |
-| Moving Up The Ladder | 10.00% | ~222 |
+| Four Leaf Clover | 10.00% | ~223 |
+| Frostfire Liberator | 10.00% | ~223 |
+| Moving Up The Ladder | 10.00% | ~223 |
 | Here We Go Again | 9.00% | ~200 |
 | Master Enchanter | 9.00% | ~200 |
 | The father of Dragons | 9.00% | ~200 |
@@ -65,10 +65,10 @@ Rating: 4.10 (Ranked 958)
 | Mythic Power | 4.00% | ~89 |
 | What lies behind the bush | 4.00% | ~89 |
 | Guardian Master | 3.00% | ~67 |
-| Cauldron Liberator | 2.00% | ~44 |
-| Enchanting skill x5 | 2.00% | ~44 |
-| Pokerface | 2.00% | ~44 |
-| Titan Power | 2.00% | ~44 |
+| Cauldron Liberator | 2.00% | ~45 |
+| Enchanting skill x5 | 2.00% | ~45 |
+| Pokerface | 2.00% | ~45 |
+| Titan Power | 2.00% | ~45 |
 | Angel Power | 1.00% | ~22 |
 | Conqueror | 1.00% | ~22 |
 | Enhanced War Machines | 1.00% | ~22 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 958)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,225 (Ranked 215)  
+Progressed: 2,226 (Ranked 215)  
 Completed: 2 (0.09%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,10 +281,10 @@ Completed: 2 (0.09%) (Ranked 276)
 | 2023-11-08 | 2,124 | 2 |
 | 2023-11-09 | 2,129 | 2 |
 | 2023-11-10 | 2,189 | 2 |
-| 2023-11-11 | 2,225 | 2 |
+| 2023-11-11 | 2,226 | 2 |
 ## Awards
-Max (Great for Beginners): 31  (Ranked 489)  
-Sum: 58 (Ranked 472)  
+Max (Great for Beginners): 31  (Ranked 488)  
+Sum: 58 (Ranked 471)  
 Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |

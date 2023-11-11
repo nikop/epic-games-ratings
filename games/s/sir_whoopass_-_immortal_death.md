@@ -26,8 +26,8 @@
 | Butcher | 48.00% | ~54 |
 | Spare Ribs | 48.00% | ~54 |
 | Thats disgusting! | 47.00% | ~53 |
+| My pants squeak when I walk | 43.00% | ~48 |
 | Self assessed tax return | 42.00% | ~47 |
-| My pants squeak when I walk | 42.00% | ~47 |
 | Surprise!! | 41.00% | ~46 |
 | Haemochromatosis | 39.00% | ~44 |
 | Make America Grate Again | 35.00% | ~39 |
@@ -46,9 +46,9 @@
 | You're not so Big anymore, Boi! | 21.00% | ~24 |
 | Your daily dose of Vitamin C. | 21.00% | ~24 |
 | I cant stand still! | 21.00% | ~24 |
+| Slimy... yet satisfying | 18.00% | ~20 |
 | Master Butcher | 17.00% | ~19 |
 | Just wing it! | 17.00% | ~19 |
-| Slimy... yet satisfying | 17.00% | ~19 |
 | Deal with it | 16.00% | ~18 |
 | You're looking mozzare-hella good! | 13.00% | ~15 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~15 |

@@ -4,7 +4,7 @@
   "ProductSlug": "five-dates-60ef51",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 622,
+  "EOS_Progressed": 623,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
@@ -1440,6 +1440,11 @@
       "Time": "2023-11-11T20:12:45.7003761+00:00",
       "NumProgressed": 622,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-11T21:09:26.4186521+00:00",
+      "NumProgressed": 623,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 15,
@@ -1451,7 +1456,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "booty_call",
@@ -1475,7 +1480,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "hold_my_beer",
@@ -1570,7 +1575,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 622,
+      "Progressed": 623,
       "Completed": 10
     }
   ],
@@ -1578,8 +1583,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:12:45.7003757+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:09:26.4186513+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:45.015416+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:03:36.1420791+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:12:45.700399+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:00:04.3672419+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:09:26.4186756+00:00"
 }

@@ -6,24 +6,24 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,485 |
-| Powergamer | 27.00% | ~67,968 |
-| Write that down | 25.00% | ~62,933 |
-| Barely scratched the surface | 25.00% | ~62,933 |
-| Guns, lots of guns | 13.00% | ~32,725 |
-| Collector | 12.00% | ~30,208 |
-| Elementary! | 9.00% | ~22,656 |
+| I will finish what you started | 28.00% | ~70,488 |
+| Powergamer | 27.00% | ~67,971 |
+| Write that down | 25.00% | ~62,936 |
+| Barely scratched the surface | 25.00% | ~62,936 |
+| Guns, lots of guns | 13.00% | ~32,727 |
+| Collector | 12.00% | ~30,209 |
+| Elementary! | 9.00% | ~22,657 |
 | Griever | 8.00% | ~20,139 |
 | Pumpkin Jack | 8.00% | ~20,139 |
 | Wake up! | 8.00% | ~20,139 |
-| It's honest work | 7.00% | ~17,621 |
-| Me smart | 6.00% | ~15,104 |
-| Trash compactor | 6.00% | ~15,104 |
+| It's honest work | 7.00% | ~17,622 |
+| Me smart | 6.00% | ~15,105 |
+| Trash compactor | 6.00% | ~15,105 |
 | Good listener | 5.00% | ~12,587 |
 | Valedictorian | 5.00% | ~12,587 |
-| BOY! | 4.00% | ~10,069 |
-| Ka-ching! | 4.00% | ~10,069 |
-| So you like to read? | 4.00% | ~10,069 |
+| BOY! | 4.00% | ~10,070 |
+| Ka-ching! | 4.00% | ~10,070 |
+| So you like to read? | 4.00% | ~10,070 |
 | Hoarder | 3.00% | ~7,552 |
 | I like to sniff around | 3.00% | ~7,552 |
 | Mind reader | 3.00% | ~7,552 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~503 |
 | Memory 5 | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,733 (Ranked 57)  
+Progressed: 251,743 (Ranked 57)  
 Completed: 7 (0.00%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,10 +264,10 @@ Completed: 7 (0.00%) (Ranked 348)
 | 2023-11-08 | 251,472 | 7 |
 | 2023-11-09 | 251,555 | 7 |
 | 2023-11-10 | 251,645 | 7 |
-| 2023-11-11 | 251,733 | 7 |
+| 2023-11-11 | 251,743 | 7 |
 ## Awards
-Max (Character Customization): 90  (Ranked 376)  
-Sum: 90 (Ranked 449)  
+Max (Character Customization): 90  (Ranked 375)  
+Sum: 90 (Ranked 448)  
 Diff (max vs sum): -73  
 | Award | Count |
 | ----- | ----- |

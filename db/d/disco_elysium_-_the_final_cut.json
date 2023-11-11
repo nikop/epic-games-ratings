@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130694,
+  "EOS_Progressed": 130696,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21617,6 +21617,11 @@
       "Time": "2023-11-11T20:07:27.9703408+00:00",
       "NumProgressed": 130694,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-11T21:04:29.7301667+00:00",
+      "NumProgressed": 130696,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21676,7 +21681,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11762
+      "UsersEstimate": 11763
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -21692,7 +21697,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 11762
+      "UsersEstimate": 11763
     },
     {
       "ID": "ACH_COP_DORK",
@@ -21708,7 +21713,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36594
+      "UsersEstimate": 36595
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21772,7 +21777,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14376
+      "UsersEstimate": 14377
     },
     {
       "ID": "ACH_CUNO",
@@ -21788,7 +21793,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13069
+      "UsersEstimate": 13070
     },
     {
       "ID": "ACH_GLUTEN",
@@ -21947,15 +21952,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130694,
+      "Progressed": 130696,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:07:27.9703403+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:04:29.7301661+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:01:08.8730696+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:07:27.9705041+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:58:04.9916759+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:04:29.73035+00:00"
 }

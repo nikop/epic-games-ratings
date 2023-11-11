@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 85.00% | ~56 |
-| A Small Thirsty Thing | 14.00% | ~9 |
-| Spirit Within | 11.00% | ~7 |
+| Setting Sail | 85.00% | ~57 |
+| A Small Thirsty Thing | 13.00% | ~9 |
+| Spirit Within | 10.00% | ~7 |
 | Dousing a Venerable Flame | 9.00% | ~6 |
 | Advanced Armaments | 9.00% | ~6 |
-| Overboard | 8.00% | ~5 |
-| Leisis Bless You | 8.00% | ~5 |
+| Overboard | 7.00% | ~5 |
+| Leisis Bless You | 7.00% | ~5 |
 | Rain Must Fall | 6.00% | ~4 |
 | Bladesmith | 6.00% | ~4 |
 | The Guardian of Fire | 6.00% | ~4 |
-| Explorer | 5.00% | ~3 |
-| Sovereignty of Irons | 5.00% | ~3 |
-| A Sandwyrm's Hoard | 5.00% | ~3 |
+| Explorer | 4.00% | ~3 |
+| Sovereignty of Irons | 4.00% | ~3 |
+| A Sandwyrm's Hoard | 4.00% | ~3 |
 | Sommelier | 3.00% | ~2 |
 | Let Me Solo Them | 3.00% | ~2 |
 | Frigid Winds | 3.00% | ~2 |
 | Twin Thorns | 3.00% | ~2 |
-| Smotherly Love | 2.00% | ~1 |
-| The River Styx | 2.00% | ~1 |
-| Transformative Nature | 2.00% | ~1 |
-| Champion of Starspire | 2.00% | ~1 |
+| Smotherly Love | 1.00% | ~1 |
+| The River Styx | 1.00% | ~1 |
+| Transformative Nature | 1.00% | ~1 |
+| Champion of Starspire | 1.00% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |
 | A Momentary Reflection | 0.00% | ~0 |
@@ -63,7 +63,7 @@
 | Holding Out | 0.00% | ~0 |
 | Savage Progeny | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66 (Ranked 452)  
+Progressed: 67 (Ranked 452)  
 Completed: 0 (0.00%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 348)
 | 2023-11-06 | 60 | 0 |
 | 2023-11-07 | 63 | 0 |
 | 2023-11-08 | 64 | 0 |
-| 2023-11-11 | 66 | 0 |
+| 2023-11-11 | 67 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

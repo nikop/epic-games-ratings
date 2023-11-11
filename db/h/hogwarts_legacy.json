@@ -10371,9 +10371,9 @@
       "Count": 776
     }
   ],
-  "EOS_Progressed": 301895,
+  "EOS_Progressed": 301900,
   "EOS_Completed": 508,
-  "EOS_NewPlayers": 1086,
+  "EOS_NewPlayers": 1066,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32456,6 +32456,11 @@
       "Time": "2023-11-11T20:13:05.3918229+00:00",
       "NumProgressed": 301895,
       "NumCompleted": 508
+    },
+    {
+      "Time": "2023-11-11T21:09:43.3535454+00:00",
+      "NumProgressed": 301900,
+      "NumCompleted": 508
     }
   ],
   "TotalAchievements": 45,
@@ -32467,7 +32472,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48303
+      "UsersEstimate": 48304
     },
     {
       "ID": "PFA_10",
@@ -32475,7 +32480,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33208
+      "UsersEstimate": 33209
     },
     {
       "ID": "PFA_11",
@@ -32483,7 +32488,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33208
+      "UsersEstimate": 33209
     },
     {
       "ID": "PFA_12",
@@ -32491,7 +32496,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33208
+      "UsersEstimate": 33209
     },
     {
       "ID": "PFA_13",
@@ -32523,7 +32528,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33208
+      "UsersEstimate": 33209
     },
     {
       "ID": "PFA_17",
@@ -32571,7 +32576,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33208
+      "UsersEstimate": 33209
     },
     {
       "ID": "PFA_22",
@@ -32587,7 +32592,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39246
+      "UsersEstimate": 39247
     },
     {
       "ID": "PFA_24",
@@ -32595,7 +32600,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33208
+      "UsersEstimate": 33209
     },
     {
       "ID": "PFA_25",
@@ -32651,7 +32656,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36227
+      "UsersEstimate": 36228
     },
     {
       "ID": "PFA_31",
@@ -32723,7 +32728,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33208
+      "UsersEstimate": 33209
     },
     {
       "ID": "PFA_4",
@@ -32795,7 +32800,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42265
+      "UsersEstimate": 42266
     },
     {
       "ID": "PFA_7",
@@ -32803,7 +32808,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42265
+      "UsersEstimate": 42266
     },
     {
       "ID": "PFA_8",
@@ -32811,7 +32816,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36227
+      "UsersEstimate": 36228
     },
     {
       "ID": "PFA_9",
@@ -32826,7 +32831,7 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301895,
+      "Progressed": 301900,
       "Completed": 508
     }
   ],
@@ -32834,8 +32839,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-11T20:03:13.1035534+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:13:05.3918225+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:09:43.3535448+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:03:13.1035542+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:13:05.3920215+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:59:46.4563736+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:09:43.353727+00:00"
 }

@@ -3,8 +3,8 @@
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
 Rating: 4.17 (Ranked 930)  
 ## Awards
-Max (Diverse Characters): 28  (Ranked 501)  
-Sum: 101 (Ranked 441)  
+Max (Diverse Characters): 28  (Ranked 500)  
+Sum: 101 (Ranked 440)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |

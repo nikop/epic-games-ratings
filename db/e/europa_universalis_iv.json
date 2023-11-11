@@ -11857,10 +11857,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57110,
       "NumberOfAwardsMax": 6946
+    },
+    {
+      "Time": "2023-11-11T20:59:56.1686244+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57129,
+      "NumberOfAwardsMax": 6946
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57110,
+  "NumberOfAwards": 57129,
   "NumberOfAwardsMax": 6946,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11874,7 +11880,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 6557
+      "Count": 6576
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11931,9 +11937,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 452897,
+  "EOS_Progressed": 452966,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5819,
+  "EOS_NewPlayers": 5823,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35416,6 +35422,11 @@
       "Time": "2023-11-11T20:10:43.6750111+00:00",
       "NumProgressed": 452897,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T21:07:13.7095666+00:00",
+      "NumProgressed": 452966,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36897,9 +36908,9 @@
       "ID": "achievement_maharana_pratap",
       "SetID": "8p2n7he",
       "Name": "Maharana Pratap",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_mansa_musa",
@@ -38330,21 +38341,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 452897,
+      "Progressed": 452966,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 452897,
+      "Progressed": 452966,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-11T13:59:59.8493349+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:10:43.6750106+00:00",
+  "LastChanged": "2023-11-11T20:59:56.1686242+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:07:13.7095558+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:03:26.1059347+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:10:43.6765661+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:59:56.1686249+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:07:13.7109138+00:00"
 }

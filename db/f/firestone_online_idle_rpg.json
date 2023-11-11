@@ -3,11 +3,11 @@
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
   "Ranking_Rating": 958,
-  "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 472,
+  "Ranking_Popularity": 488,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -457,7 +457,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2225,
+  "EOS_Progressed": 2226,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -6792,6 +6792,11 @@
       "Time": "2023-11-11T20:12:06.4893729+00:00",
       "NumProgressed": 2225,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-11T21:08:54.0852191+00:00",
+      "NumProgressed": 2226,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6859,7 +6864,7 @@
       "Name": "Cauldron Liberator",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "challenger",
@@ -6947,7 +6952,7 @@
       "Name": "Enchanting skill x5",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "engineermastery",
@@ -6987,7 +6992,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "fourleafclover",
@@ -6995,7 +7000,7 @@
       "Name": "Four Leaf Clover",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "frostfireliberator",
@@ -7003,7 +7008,7 @@
       "Name": "Frostfire Liberator",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "fullparty",
@@ -7035,7 +7040,7 @@
       "Name": "Guild Power",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "herewegoagain",
@@ -7155,7 +7160,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "mysteriousrock",
@@ -7187,7 +7192,7 @@
       "Name": "Pokerface",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "prestigious",
@@ -7259,7 +7264,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1268
+      "UsersEstimate": 1269
     },
     {
       "ID": "thealchemist",
@@ -7315,7 +7320,7 @@
       "Name": "Titan Power",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "trader",
@@ -7363,7 +7368,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2069
+      "UsersEstimate": 2070
     },
     {
       "ID": "warmachinesarmy",
@@ -7395,14 +7400,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2225,
+      "Progressed": 2226,
       "Completed": 2
     }
   ],
@@ -7410,8 +7415,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-11T09:58:14.8761185+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:12:06.4893721+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:08:54.0852185+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:01:40.6743882+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:12:06.4895204+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:58:31.1312299+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:08:54.0853526+00:00"
 }

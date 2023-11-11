@@ -3,8 +3,8 @@
   "Name": "Starsand",
   "ProductSlug": "starsand",
   "Ranking_Rating": 874,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 453,
@@ -192,6 +192,6 @@
   "FirstSeenRating": "2022-08-09T00:02:49.020419+00:00",
   "LastChanged": "2023-07-17T08:01:18.7121263+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.5396066+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:02:15.8233265+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:08:21.9074464+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:59:00.002135+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:05:15.3006349+00:00"
 }

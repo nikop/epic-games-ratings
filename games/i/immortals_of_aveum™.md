@@ -8,7 +8,7 @@ Rating: 4.02 (Ranked 986)
 | Unforeseen | 89.00% | ~231 |
 | Battlefields Have Memories | 82.00% | ~213 |
 | Enlisted | 79.00% | ~205 |
-| Maybe Engage a Little | 74.00% | ~192 |
+| Maybe Engage a Little | 75.00% | ~195 |
 | No More Names | 60.00% | ~156 |
 | Initiate | 47.00% | ~122 |
 | Thrada-Kul | 42.00% | ~109 |
@@ -23,7 +23,7 @@ Rating: 4.02 (Ranked 986)
 | A Familiar Nest | 16.00% | ~42 |
 | Periapt Alizarin | 16.00% | ~42 |
 | Geas Aristeya | 15.00% | ~39 |
-| A Perfect Cycle | 13.00% | ~34 |
+| A Perfect Cycle | 14.00% | ~36 |
 | Recruit | 13.00% | ~34 |
 | Armsman | 13.00% | ~34 |
 | Lights Army | 9.00% | ~23 |

@@ -1905,9 +1905,9 @@
       "ID": "ACHV_NANONIC2",
       "SetID": "cceobco",
       "Name": "Nanonic II",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 86
     },
     {
       "ID": "ACHV_NANONIC3",
@@ -2032,8 +2032,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:11:56.4954068+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:08:45.8455145+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:13.8527355+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:00:20.199211+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:11:56.4954474+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:57:24.7371316+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:08:45.8455642+00:00"
 }

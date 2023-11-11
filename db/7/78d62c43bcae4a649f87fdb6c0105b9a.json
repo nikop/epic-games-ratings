@@ -174,9 +174,9 @@
       "ID": "bisont",
       "SetID": "40o2ndb",
       "Name": "The Good, the Bad and the Rooster",
-      "Percentage": 26,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "cave",
@@ -357,8 +357,8 @@
   ],
   "FirstSeen": "2023-09-28T10:00:15.1472211+00:00",
   "FirstSeenAchievements": "2023-09-13T08:04:00.4811231+00:00",
-  "LastChanged_Achievements": "2023-11-11T20:10:20.672821+00:00",
+  "LastChanged_Achievements": "2023-11-11T21:06:54.383793+00:00",
   "LastUpdate_AppInfo": "2023-11-05T21:57:12.7511893+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:01:29.9773212+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:10:20.6728391+00:00"
+  "LastUpdate_Ratings": "2023-11-11T20:58:22.126196+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:06:54.3838121+00:00"
 }

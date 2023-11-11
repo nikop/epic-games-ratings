@@ -3,8 +3,8 @@
   "Name": "Call of Cthulhu",
   "ProductSlug": "call-of-cthulhu-8e5446",
   "Ranking_Rating": 779,
-  "Ranking_Popularity": 547,
-  "Ranking_PopularitySum": 547,
+  "Ranking_Popularity": 546,
+  "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 453,
@@ -154,6 +154,6 @@
   "FirstSeenRating": "2022-10-03T16:01:44.7804784+00:00",
   "LastChanged": "2023-10-27T18:58:14.5325824+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:49.1701507+00:00",
-  "LastUpdate_Ratings": "2023-11-11T20:03:42.8596424+00:00",
-  "LastUpdate_Achievements": "2023-11-11T20:08:47.286945+00:00"
+  "LastUpdate_Ratings": "2023-11-11T21:00:09.9757667+00:00",
+  "LastUpdate_Achievements": "2023-11-11T21:05:36.9765692+00:00"
 }

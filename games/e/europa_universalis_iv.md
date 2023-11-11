@@ -107,6 +107,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Luck of the Irish | 0.10% | ~453 |
 | Made in Japan | 0.10% | ~453 |
 | Magellan’s Voyage | 0.10% | ~453 |
+| Maharana Pratap | 0.10% | ~453 |
 | Mare Nostrum | 0.10% | ~453 |
 | Market Control | 0.10% | ~453 |
 | Marshy March | 0.10% | ~453 |
@@ -276,7 +277,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Let It Go! | 0.00% | ~0 |
 | Lion of the North | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
-| Maharana Pratap | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
 | Mass Production | 0.00% | ~0 |
 | Master of India | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,897 (Ranked 41)  
+Progressed: 452,966 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,17 +575,17 @@ Completed: 1 (0.00%) (Ranked 348)
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
-| 2023-11-11 | 452,897 | 1 |
+| 2023-11-11 | 452,966 | 1 |
 ## Awards
 Max (Educational): 6,946  (Ranked 54)  
-Sum: 57,110 (Ranked 24)  
+Sum: 57,129 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,946 |
 | This game has Diverse Characters | 6,669 |
 | This game is Highly Recommended | 6,663 |
-| This game has Challenging Combat | 6,557 |
+| This game has Challenging Combat | 6,576 |
 | This game is Extremely Fun | 6,528 |
 | This game is Relaxing | 6,378 |
 | This game has Competitive Players | 6,237 |
@@ -893,4 +893,4 @@ Diff (max vs sum): 30
 | 2023-11-08 | 4.69 | - | 6,903 | 56,787 |
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
-| 2023-11-11 | 4.69 | - | 6,946 | 57,110 |
+| 2023-11-11 | 4.69 | - | 6,946 | 57,129 |
