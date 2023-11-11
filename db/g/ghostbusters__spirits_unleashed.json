@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3157,18 +3157,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 2757,
       "NumberOfAwardsMax": 310
+    },
+    {
+      "Time": "2023-11-11T10:01:14.5600385+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2758,
+      "NumberOfAwardsMax": 311
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2757,
-  "NumberOfAwardsMax": 310,
+  "NumberOfAwards": 2758,
+  "NumberOfAwardsMax": 311,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 310
+      "Count": 311
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3237,9 +3243,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30740,
+  "EOS_Progressed": 30741,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 736,
+  "EOS_NewPlayers": 733,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -18797,6 +18803,11 @@
       "Time": "2023-11-11T09:04:06.2995046+00:00",
       "NumProgressed": 30740,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-11-11T10:04:23.2329949+00:00",
+      "NumProgressed": 30741,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 51,
@@ -18934,9 +18945,9 @@
       "ID": "Fragile_Panes",
       "SetID": "819popo",
       "Name": "Fragile Panes",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 246
+      "UsersEstimate": 277
     },
     {
       "ID": "Fully_Upgraded",
@@ -19215,16 +19226,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30740,
+      "Progressed": 30741,
       "Completed": 67
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-11T07:00:00.96965+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:04:06.2995041+00:00",
+  "LastChanged": "2023-11-11T10:01:14.5600384+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:04:23.2329941+00:00",
   "LastUpdate_AppInfo": "2023-11-04T17:57:17.4249519+00:00",
-  "LastUpdate_Ratings": "2023-11-11T09:02:30.2195503+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:04:06.2996369+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:01:14.5600391+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:04:23.2331415+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 918,
+  "EOS_Progressed": 919,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -2284,6 +2284,11 @@
       "Time": "2023-11-08T16:08:40.6072678+00:00",
       "NumProgressed": 918,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-11T10:08:58.2031538+00:00",
+      "NumProgressed": 919,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -2304,7 +2309,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "BoxingClever",
@@ -2352,7 +2357,7 @@
       "Name": "Drinking on the Job",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "DustDancing",
@@ -2376,7 +2381,7 @@
       "Name": "Lights Out",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "MiCasaSuCasa",
@@ -2384,7 +2389,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -2400,7 +2405,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "Relic",
@@ -2408,7 +2413,7 @@
       "Name": "Relic",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "SkeletonCrew",
@@ -2448,21 +2453,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 918,
+      "Progressed": 919,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:08:44.3772065+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:08:58.203153+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:04.924943+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:59:20.8390926+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:08:44.3772548+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:00:14.6444332+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:08:58.2031841+00:00"
 }

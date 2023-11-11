@@ -21,6 +21,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All That's Thine Shall Be Mine | 0.10% | ~452 |
 | All Your Trade Are Belong to Us | 0.10% | ~452 |
 | An early Reich | 0.10% | ~452 |
+| Arabian Coffee | 0.10% | ~452 |
 | At every continent | 0.10% | ~452 |
 | Azur semé de lis or | 0.10% | ~452 |
 | Baa Baa Black Sheep | 0.10% | ~452 |
@@ -39,6 +40,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cities of Cibola | 0.10% | ~452 |
 | City of Cities | 0.10% | ~452 |
 | Cold War | 0.10% | ~452 |
+| Colonial Management | 0.10% | ~452 |
 | Combined Arms | 0.10% | ~452 |
 | Consulate of the Sea | 0.10% | ~452 |
 | Cowardly Tactics | 0.10% | ~452 |
@@ -197,7 +199,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | An Unlikely Candidate | 0.00% | ~0 |
 | Anglophile | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
-| Arabian Coffee | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Assembly Instructions Needed | 0.00% | ~0 |
 | Atwix Legacy | 0.00% | ~0 |
@@ -218,7 +219,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Bunte Kuh | 0.00% | ~0 |
 | Chop Chop | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
-| Colonial Management | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
 | Cotton Kandy | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 452,068 (Ranked 41)  
+Progressed: 452,131 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -575,7 +575,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-08 | 450,161 | 1 |
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
-| 2023-11-11 | 452,068 | 1 |
+| 2023-11-11 | 452,131 | 1 |
 ## Awards
 Max (Educational): 6,946  (Ranked 54)  
 Sum: 57,081 (Ranked 24)  

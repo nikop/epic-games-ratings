@@ -2,7 +2,7 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 503,
+  "Ranking_Rating": 504,
   "Ranking_Popularity": 469,
   "Ranking_PopularitySum": 404,
   "Ranking_EOS_Progress": 26,
@@ -919,9 +919,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664460,
+  "EOS_Progressed": 664461,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20364,6 +20364,11 @@
       "Time": "2023-11-11T09:05:44.7147495+00:00",
       "NumProgressed": 664460,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-11T10:06:20.2899704+00:00",
+      "NumProgressed": 664461,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -20375,7 +20380,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478411
+      "UsersEstimate": 478412
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -20519,7 +20524,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93024
+      "UsersEstimate": 93025
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -20758,15 +20763,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664460,
+      "Progressed": 664461,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-31T06:59:31.6976797+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:05:44.7147486+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:06:20.2899698+00:00",
   "LastUpdate_AppInfo": "2023-11-04T16:57:19.6002518+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:59:04.3458809+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:05:44.7150345+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:59:54.1751797+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:06:20.2901327+00:00"
 }

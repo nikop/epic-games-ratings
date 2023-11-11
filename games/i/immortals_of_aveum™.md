@@ -5,22 +5,22 @@ Rating: 4.02 (Ranked 986)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~221 |
-| Battlefields Have Memories | 83.00% | ~206 |
-| Enlisted | 80.00% | ~198 |
-| Maybe Engage a Little | 76.00% | ~188 |
-| No More Names | 61.00% | ~151 |
-| Initiate | 48.00% | ~119 |
+| Unforeseen | 88.00% | ~219 |
+| Battlefields Have Memories | 83.00% | ~207 |
+| Enlisted | 80.00% | ~199 |
+| Maybe Engage a Little | 76.00% | ~189 |
+| No More Names | 61.00% | ~152 |
+| Initiate | 48.00% | ~120 |
 | Thrada-Kul | 43.00% | ~107 |
 | Gravity-Challenged Rocks | 31.00% | ~77 |
-| Soldier | 28.00% | ~69 |
+| Soldier | 28.00% | ~70 |
 | All the Major Food Groups | 27.00% | ~67 |
-| Socialite | 26.00% | ~64 |
-| Control is an Illusion | 23.00% | ~57 |
+| Socialite | 26.00% | ~65 |
 | Beggars Would Ride | 23.00% | ~57 |
+| Control is an Illusion | 22.00% | ~55 |
 | The Means to Save It | 20.00% | ~50 |
 | Resilience to Sin | 18.00% | ~45 |
-| A Familiar Nest | 17.00% | ~42 |
+| A Familiar Nest | 16.00% | ~40 |
 | Periapt Alizarin | 16.00% | ~40 |
 | Geas Aristeya | 15.00% | ~37 |
 | A Perfect Cycle | 14.00% | ~35 |
@@ -32,8 +32,8 @@ Rating: 4.02 (Ranked 986)
 | Best Dressed | 6.00% | ~15 |
 | Periapt Viridian | 6.00% | ~15 |
 | Shroudfane Explorer | 6.00% | ~15 |
+| Armaments Azure | 5.00% | ~12 |
 | Scholar | 4.00% | ~10 |
-| Armaments Azure | 4.00% | ~10 |
 | Armaments Gules | 4.00% | ~10 |
 | Kitted Out | 3.00% | ~7 |
 | Armaments Vert | 3.00% | ~7 |
@@ -53,7 +53,7 @@ Rating: 4.02 (Ranked 986)
 | Tip of the Spear | 0.80% | ~2 |
 | Fowl Play | 0.80% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248 (Ranked 354)  
+Progressed: 249 (Ranked 354)  
 Completed: 1 (0.40%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -103,7 +103,7 @@ Completed: 1 (0.40%) (Ranked 208)
 | 2023-11-08 | 207 | 1 |
 | 2023-11-09 | 230 | 1 |
 | 2023-11-10 | 242 | 1 |
-| 2023-11-11 | 248 | 1 |
+| 2023-11-11 | 249 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

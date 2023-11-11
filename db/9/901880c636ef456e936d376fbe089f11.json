@@ -591,9 +591,9 @@
       "ID": "ACH_GOOD_REVIEW",
       "SetID": "8h8m55b",
       "Name": "Good Review",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_GUEST_OF_HONOR",
@@ -743,9 +743,9 @@
       "ID": "ACH_TRASH_25_DRINKS",
       "SetID": "8h8m55b",
       "Name": "Stop it!",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_TRASH_FIRST_TIME",
@@ -854,8 +854,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:05:13.4757849+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:05:42.669637+00:00",
   "LastUpdate_AppInfo": "2023-11-07T15:57:22.1108619+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:57:39.3387737+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:05:13.4758405+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:58:08.517955+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:05:42.6696903+00:00"
 }

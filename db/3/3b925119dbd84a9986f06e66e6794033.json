@@ -578,9 +578,9 @@
       "ID": "DODO_RE_MI_SURVIVED_TUTORIAL",
       "SetID": "9j9h72e",
       "Name": "Dodo Re Mi: Beginner\u2019s Pluck",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "HYPNO_CORRECT_GROUP",
@@ -721,8 +721,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:08:36.0585446+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:08:48.3506641+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:06.8109666+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:57:54.360142+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:08:36.0585693+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:58:27.378058+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:08:48.3506843+00:00"
 }

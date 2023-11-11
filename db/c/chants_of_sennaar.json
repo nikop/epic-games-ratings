@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 299,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 33,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 519,
+  "EOS_Progressed": 521,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 5.39,
+  "EOS_Completed_Percentage": 5.37,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2220,6 +2220,11 @@
       "Time": "2023-11-11T06:04:51.9288279+00:00",
       "NumProgressed": 519,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-11T10:05:34.2225559+00:00",
+      "NumProgressed": 521,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2231,7 +2236,7 @@
       "Name": "I did it",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "END_GOOD",
@@ -2247,15 +2252,15 @@
       "Name": "Peace walker",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2263,7 +2268,7 @@
       "Name": "A good beginning",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "META_HALF_LINK",
@@ -2271,7 +2276,7 @@
       "Name": "Half the way",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2287,7 +2292,7 @@
       "Name": "Free at last",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2367,7 +2372,7 @@
       "Name": "Champollion",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2375,7 +2380,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2391,15 +2396,15 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 141
     },
     {
       "ID": "PROGRESS_N3",
@@ -2407,7 +2412,7 @@
       "Name": "A new dawn",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "PROGRESS_N4",
@@ -2423,21 +2428,21 @@
       "Name": "One last step",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 519,
+      "Progressed": 521,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:05:06.2848582+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:05:34.222555+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:10.5350056+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:59:06.4417949+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:05:06.2848992+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:59:56.839031+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:05:34.2225866+00:00"
 }

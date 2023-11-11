@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40130,
+  "EOS_Progressed": 40135,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22703,6 +22703,11 @@
       "Time": "2023-11-11T09:05:03.6176574+00:00",
       "NumProgressed": 40130,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-11T10:05:31.0331793+00:00",
+      "NumProgressed": 40135,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22722,7 +22727,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8427
+      "UsersEstimate": 8428
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -22786,7 +22791,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2007
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -22945,7 +22950,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40130,
+      "Progressed": 40135,
       "Completed": 26
     }
   ],
@@ -22953,8 +22958,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:05:03.6176567+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:05:31.0331787+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:57:33.8126355+00:00",
-  "LastUpdate_Ratings": "2023-11-11T09:02:31.4401151+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:05:03.6178294+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:01:16.0600973+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:05:31.0333722+00:00"
 }

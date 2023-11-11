@@ -2,9 +2,9 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 254,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_Progress": 255,
+  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1008,
+  "EOS_Progressed": 1009,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -1947,6 +1947,11 @@
       "Time": "2023-11-11T09:03:10.6852903+00:00",
       "NumProgressed": 1008,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T10:03:16.0616373+00:00",
+      "NumProgressed": 1009,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -1967,7 +1972,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -1975,7 +1980,7 @@
       "Name": "Out of control",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2007,7 +2012,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2045,9 +2050,9 @@
       "ID": "ML_ACHIEVEMENT_12",
       "SetID": "5k00jcd",
       "Name": "Immortal",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -2085,9 +2090,9 @@
       "ID": "ML_ACHIEVEMENT_17",
       "SetID": "5k00jcd",
       "Name": "Solo",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 363
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2095,7 +2100,7 @@
       "Name": "International license",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "ML_ACHIEVEMENT_19",
@@ -2103,7 +2108,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2119,7 +2124,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -2295,27 +2300,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 534
+      "UsersEstimate": 535
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1008,
+      "Progressed": 1009,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 676,
-      "Completed": 676
+      "Progressed": 677,
+      "Completed": 677
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:03:10.6852894+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:03:16.0616366+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:58:32.7329792+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:03:10.6853405+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:59:15.3345827+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:03:16.0616951+00:00"
 }

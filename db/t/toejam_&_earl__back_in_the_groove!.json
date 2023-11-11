@@ -2,7 +2,7 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 812,
+  "Ranking_Rating": 813,
   "Ranking_Popularity": 547,
   "Ranking_PopularitySum": 547,
   "Ranking_EOS_Progress": 105,
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57751,
+  "EOS_Progressed": 57753,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12331,6 +12331,11 @@
       "Time": "2023-11-11T08:03:46.2151876+00:00",
       "NumProgressed": 57751,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-11T10:03:32.6013256+00:00",
+      "NumProgressed": 57753,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -12733,7 +12738,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57751,
+      "Progressed": 57753,
       "Completed": 6
     }
   ],
@@ -12741,8 +12746,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:03:24.3614298+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:03:32.6013249+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:19.8440774+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:57:59.6445735+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:03:24.3615577+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:58:33.9283135+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:03:32.6014652+00:00"
 }

@@ -15,10 +15,10 @@ Rating: 4.76 (Ranked 125)
 | The One Who Mastered Memories | 11.00% | ~33,203 |
 | The Hallowed Hero | 11.00% | ~33,203 |
 | The Defender of Dragons | 11.00% | ~33,203 |
+| Challenge Accepted | 11.00% | ~33,203 |
 | Loom for Improvement | 11.00% | ~33,203 |
 | Coasting Along | 11.00% | ~33,203 |
 | The Hero of Hogwarts | 10.00% | ~30,185 |
-| Challenge Accepted | 10.00% | ~30,185 |
 | Followed the Butterflies | 10.00% | ~30,185 |
 | Rising From the Ashes | 10.00% | ~30,185 |
 | The Spell Master | 9.00% | ~27,166 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,113 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,848 (Ranked 50)  
+Progressed: 301,849 (Ranked 50)  
 Completed: 507 (0.17%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,10 +256,10 @@ Completed: 507 (0.17%) (Ranked 253)
 | 2023-11-08 | 301,718 | 505 |
 | 2023-11-09 | 301,775 | 505 |
 | 2023-11-10 | 301,822 | 507 |
-| 2023-11-11 | 301,848 | 507 |
+| 2023-11-11 | 301,849 | 507 |
 ## Awards
 Max (Character Customization): 24,188  (Ranked 17)  
-Sum: 47,844 (Ranked 30)  
+Sum: 47,847 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -271,7 +271,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,218 |
 | This game is Relaxing | 1,213 |
 | This game has Amazing Characters | 1,189 |
-| This game is Highly Recommended | 1,151 |
+| This game is Highly Recommended | 1,154 |
 | This game has Quickly Understood Controls | 1,091 |
 | This game has Beautiful Visuals | 1,015 |
 | This game has a Creative Community | 776 |
@@ -510,4 +510,4 @@ Diff (max vs sum): -13
 | 2023-11-08 | 4.76 | 24,120 | 47,675 |
 | 2023-11-09 | 4.76 | 24,144 | 47,747 |
 | 2023-11-10 | 4.76 | 24,162 | 47,810 |
-| 2023-11-11 | 4.76 | 24,188 | 47,844 |
+| 2023-11-11 | 4.76 | 24,188 | 47,847 |

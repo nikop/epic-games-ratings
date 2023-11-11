@@ -2,7 +2,7 @@
   "ID": "50b6612049324d0faf8642014139b082",
   "Name": "WRC",
   "ProductSlug": "wrc-23",
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 386,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 133,
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 162,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -290,6 +290,11 @@
       "Time": "2023-11-11T09:09:00.1856287+00:00",
       "NumProgressed": 160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T10:09:16.7849557+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T22:08:48.7905324+00:00",
@@ -300,9 +305,9 @@
       "ID": "achievement_1",
       "SetID": "jnappp",
       "Name": "Gold Rush",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_10",
@@ -316,9 +321,9 @@
       "ID": "achievement_11",
       "SetID": "jnappp",
       "Name": "Gravel Guru",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 61
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_12",
@@ -340,9 +345,9 @@
       "ID": "achievement_14",
       "SetID": "jnappp",
       "Name": "Vehicle Builder",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     },
     {
       "ID": "achievement_15",
@@ -358,7 +363,7 @@
       "Name": "Class Act",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_17",
@@ -366,7 +371,7 @@
       "Name": "Your first time?",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "achievement_18",
@@ -390,7 +395,7 @@
       "Name": "Team Principal",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_20",
@@ -436,9 +441,9 @@
       "ID": "achievement_25",
       "SetID": "jnappp",
       "Name": "E-stonia",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_26",
@@ -484,9 +489,9 @@
       "ID": "achievement_7",
       "SetID": "jnappp",
       "Name": "NEW PB!",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 66
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_8",
@@ -509,14 +514,14 @@
     {
       "ID": "jnappp",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 162,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:09:00.1856279+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:09:16.784955+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:57:39.831228+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:09:00.1856503+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:58:09.1567048+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:09:16.7849903+00:00"
 }

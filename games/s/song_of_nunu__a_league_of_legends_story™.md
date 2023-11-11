@@ -14,8 +14,8 @@
 | Cutie Poro | 66.00% | ~420 |
 | The Fire Below the Mountain | 63.00% | ~401 |
 | Moneyball | 59.00% | ~375 |
+| Iceborn | 55.00% | ~350 |
 | No Bites | 54.00% | ~343 |
-| Iceborn | 54.00% | ~343 |
 | Boom Things | 51.00% | ~324 |
 | Tear of Freedom | 50.00% | ~318 |
 | My Darkest Day | 46.00% | ~293 |
@@ -34,8 +34,8 @@
 | Family | 33.00% | ~210 |
 | Freeze The Ice Witch | 33.00% | ~210 |
 | Deadliest and Biggest Snowball Ever! | 33.00% | ~210 |
+| It Is Not Over | 32.00% | ~204 |
 | Never Gets Old | 32.00% | ~204 |
-| It Is Not Over | 31.00% | ~197 |
 | Snowy Poro | 31.00% | ~197 |
 | Vertical Power | 28.00% | ~178 |
 | One From The Heart | 13.00% | ~83 |

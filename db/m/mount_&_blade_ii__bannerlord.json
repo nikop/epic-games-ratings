@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -8664,9 +8664,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 64860,
+  "EOS_Progressed": 64862,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30199,6 +30199,11 @@
       "Time": "2023-11-11T08:09:31.4768944+00:00",
       "NumProgressed": 64860,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T10:09:10.8832939+00:00",
+      "NumProgressed": 64862,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30250,7 +30255,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5837
+      "UsersEstimate": 5838
     },
     {
       "ID": "Catch",
@@ -30370,7 +30375,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15566
+      "UsersEstimate": 15567
     },
     {
       "ID": "I can do it",
@@ -30442,7 +30447,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25944
+      "UsersEstimate": 25945
     },
     {
       "ID": "Lawmaker",
@@ -30562,7 +30567,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12323
+      "UsersEstimate": 12324
     },
     {
       "ID": "This Is Our Land",
@@ -30617,15 +30622,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 64860,
+      "Progressed": 64862,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-11T07:57:52.1522615+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:08:55.241897+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:09:10.8832935+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:31.2641432+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:57:28.6370845+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:08:55.2421116+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:57:55.0397649+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:09:10.88369+00:00"
 }

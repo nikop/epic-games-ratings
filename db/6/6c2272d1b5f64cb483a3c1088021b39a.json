@@ -4376,9 +4376,9 @@
       "ID": "glitter_of_gold_2",
       "SetID": "53c1p3k",
       "Name": "Glitter of Gold 2",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "glitter_of_gold_3",
@@ -4464,9 +4464,9 @@
       "ID": "nimble_thief_1",
       "SetID": "53c1p3k",
       "Name": "Nimble Thief 1",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "nimble_thief_2",
@@ -4663,8 +4663,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:09:13.9538057+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:09:32.9979967+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9224178+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:59:09.2269794+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:09:13.9539626+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:00:00.2782699+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:09:32.9981547+00:00"
 }

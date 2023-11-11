@@ -5,44 +5,44 @@ Rating: 4.10 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,046 |
-| World Map | 79.00% | ~1,738 |
-| Temple of Eternals | 57.00% | ~1,254 |
-| Prestigious | 54.00% | ~1,188 |
-| Fellowship Power | 42.00% | ~924 |
-| Guild Power | 26.00% | ~572 |
-| Prestigious x10 | 23.00% | ~506 |
-| The game is on | 21.00% | ~462 |
-| Exotic Merchant | 19.00% | ~418 |
-| Dragon Clicker | 17.00% | ~374 |
-| Inspection | 17.00% | ~374 |
-| Miner Clicker | 17.00% | ~374 |
-| Dragon Master | 16.00% | ~352 |
-| Enlightenment | 16.00% | ~352 |
-| Full Party | 16.00% | ~352 |
-| Hero inspection | 15.00% | ~330 |
-| Lieutenant | 15.00% | ~330 |
-| Mysterious Rock | 14.00% | ~308 |
-| Natural Talent | 14.00% | ~308 |
-| Superior | 14.00% | ~308 |
-| The Unstoppable | 14.00% | ~308 |
-| Milestone collector | 13.00% | ~286 |
-| Scientist | 12.00% | ~264 |
-| The power of Awakening | 12.00% | ~264 |
-| Challenger | 11.00% | ~242 |
-| Daily Quest Completionist | 11.00% | ~242 |
-| Doing My Part | 11.00% | ~242 |
-| Hunter | 11.00% | ~242 |
-| Mastery | 11.00% | ~242 |
-| Moving Up The Ladder | 11.00% | ~242 |
-| Relic Of The Past | 11.00% | ~242 |
-| Scroll Master | 11.00% | ~242 |
-| Four Leaf Clover | 10.00% | ~220 |
-| Frostfire Liberator | 10.00% | ~220 |
-| Master Enchanter | 10.00% | ~220 |
-| The father of Dragons | 10.00% | ~220 |
-| Here We Go Again | 9.00% | ~198 |
-| Trader | 9.00% | ~198 |
+| Victor | 93.00% | ~2,052 |
+| World Map | 79.00% | ~1,743 |
+| Temple of Eternals | 57.00% | ~1,257 |
+| Prestigious | 54.00% | ~1,191 |
+| Fellowship Power | 42.00% | ~927 |
+| Guild Power | 26.00% | ~574 |
+| Prestigious x10 | 23.00% | ~507 |
+| The game is on | 21.00% | ~463 |
+| Exotic Merchant | 19.00% | ~419 |
+| Dragon Clicker | 17.00% | ~375 |
+| Inspection | 17.00% | ~375 |
+| Miner Clicker | 17.00% | ~375 |
+| Enlightenment | 16.00% | ~353 |
+| Full Party | 16.00% | ~353 |
+| Dragon Master | 15.00% | ~331 |
+| Hero inspection | 15.00% | ~331 |
+| Lieutenant | 15.00% | ~331 |
+| Mysterious Rock | 14.00% | ~309 |
+| Natural Talent | 14.00% | ~309 |
+| Superior | 14.00% | ~309 |
+| The Unstoppable | 14.00% | ~309 |
+| Milestone collector | 13.00% | ~287 |
+| Scientist | 12.00% | ~265 |
+| The power of Awakening | 12.00% | ~265 |
+| Challenger | 11.00% | ~243 |
+| Daily Quest Completionist | 11.00% | ~243 |
+| Doing My Part | 11.00% | ~243 |
+| Hunter | 11.00% | ~243 |
+| Mastery | 11.00% | ~243 |
+| Moving Up The Ladder | 11.00% | ~243 |
+| Relic Of The Past | 11.00% | ~243 |
+| Scroll Master | 11.00% | ~243 |
+| Four Leaf Clover | 10.00% | ~221 |
+| Frostfire Liberator | 10.00% | ~221 |
+| Master Enchanter | 10.00% | ~221 |
+| The father of Dragons | 10.00% | ~221 |
+| Here We Go Again | 9.00% | ~199 |
+| Trader | 9.00% | ~199 |
 | Blueprint Upgrades | 8.00% | ~176 |
 | Crystal Mining | 8.00% | ~176 |
 | Dragon Slayer | 8.00% | ~176 |
@@ -69,11 +69,11 @@ Rating: 4.10 (Ranked 958)
 | Enchanting skill x5 | 2.00% | ~44 |
 | Pokerface | 2.00% | ~44 |
 | Titan Power | 2.00% | ~44 |
-| Transmute | 2.00% | ~44 |
 | Angel Power | 1.00% | ~22 |
 | Conqueror | 1.00% | ~22 |
 | Enhanced War Machines | 1.00% | ~22 |
 | Training makes a Pro player | 1.00% | ~22 |
+| Transmute | 1.00% | ~22 |
 | Tree of Life | 1.00% | ~22 |
 | Beast War Machines | 0.90% | ~20 |
 | Silverwood liberator | 0.80% | ~18 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 958)
 | Jewel Enchanting | 0.20% | ~4 |
 | War Machines Army | 0.20% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,200 (Ranked 215)  
+Progressed: 2,206 (Ranked 215)  
 Completed: 2 (0.09%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,14 +281,14 @@ Completed: 2 (0.09%) (Ranked 276)
 | 2023-11-08 | 2,124 | 2 |
 | 2023-11-09 | 2,129 | 2 |
 | 2023-11-10 | 2,189 | 2 |
-| 2023-11-11 | 2,200 | 2 |
+| 2023-11-11 | 2,206 | 2 |
 ## Awards
-Max (Great for Beginners): 30  (Ranked 491)  
-Sum: 57 (Ranked 471)  
-Diff (max vs sum): 20  
+Max (Great for Beginners): 31  (Ranked 488)  
+Sum: 58 (Ranked 471)  
+Diff (max vs sum): 17  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 30 |
+| This game is Great for Beginners | 31 |
 | This game is Great for Quick Sessions | 27 |
 | This game has Diverse Characters | 22 |
 ## Ratings History
@@ -349,3 +349,4 @@ Diff (max vs sum): 20
 | 2023-10-27 | 4.09 | 30 | 77 |
 | 2023-10-29 | 4.10 | 30 | 79 |
 | 2023-11-03 | 4.10 | 30 | 57 |
+| 2023-11-11 | 4.10 | 31 | 58 |

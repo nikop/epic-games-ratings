@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1159,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3364,6 +3364,11 @@
       "Time": "2023-11-11T06:09:12.32961+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-11T10:09:28.8957591+00:00",
+      "NumProgressed": 1159,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3440,7 +3445,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_18",
@@ -3488,7 +3493,7 @@
       "Name": "Distinguished",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_23",
@@ -3512,7 +3517,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_26",
@@ -3600,7 +3605,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1032
     },
     {
       "ID": "achievement_36",
@@ -3608,7 +3613,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_37",
@@ -3616,7 +3621,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 777
     },
     {
       "ID": "achievement_38",
@@ -3640,7 +3645,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "achievement_40",
@@ -3648,7 +3653,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "achievement_41",
@@ -3656,7 +3661,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_42",
@@ -3710,17 +3715,17 @@
       "ID": "achievement_48",
       "SetID": "cemm4l8",
       "Name": "No such thing as luck",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_49",
       "SetID": "cemm4l8",
       "Name": "Do we take prisoners?",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 12
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_5",
@@ -3784,7 +3789,7 @@
       "Name": "Support the troops",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "achievement_57",
@@ -3879,13 +3884,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1159,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1157,
+      "Progressed": 1159,
       "Completed": 1
     }
   ],
@@ -3893,8 +3898,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:09:10.3114744+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:09:28.8957585+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:44.5952135+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:58:55.0222774+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:09:10.3115703+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:59:42.7683768+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:09:28.8958496+00:00"
 }

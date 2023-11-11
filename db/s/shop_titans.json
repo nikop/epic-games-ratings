@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 100,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6961,9 +6961,9 @@
       "Count": 3776
     }
   ],
-  "EOS_Progressed": 139243,
+  "EOS_Progressed": 139250,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 682,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27901,6 +27901,11 @@
       "Time": "2023-11-11T09:05:15.6190211+00:00",
       "NumProgressed": 139243,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-11T10:05:45.1483961+00:00",
+      "NumProgressed": 139250,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -27976,7 +27981,7 @@
       "Name": "Constellated",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ashley_a",
@@ -28168,7 +28173,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "craft01",
@@ -28176,7 +28181,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4177
+      "UsersEstimate": 4178
     },
     {
       "ID": "craft02",
@@ -28200,7 +28205,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "craft05",
@@ -28288,7 +28293,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4177
+      "UsersEstimate": 4178
     },
     {
       "ID": "expansion02",
@@ -28360,7 +28365,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "fuseuncommon",
@@ -28688,7 +28693,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4177
+      "UsersEstimate": 4178
     },
     {
       "ID": "sell02",
@@ -28768,7 +28773,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "workers01",
@@ -28807,15 +28812,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139243,
+      "Progressed": 139250,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-10T18:59:44.5777539+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:05:15.6190203+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:05:45.148395+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:59:15.2072618+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:59:24.5085304+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:05:15.6195283+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:00:19.4526997+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:05:45.1489488+00:00"
 }

@@ -43,8 +43,8 @@ Rating: 4.50 (Ranked 587)
 | Rivalry | 1.00% | ~307 |
 | Terrifying | 1.00% | ~307 |
 | Tobin's Prodigy | 1.00% | ~307 |
+| Fragile Panes | 0.90% | ~277 |
 | Liability | 0.90% | ~277 |
-| Fragile Panes | 0.80% | ~246 |
 | Surprise! | 0.80% | ~246 |
 | Therapeutic | 0.60% | ~184 |
 | Rift Seeker | 0.50% | ~154 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 587)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,740 (Ranked 122)  
+Progressed: 30,741 (Ranked 122)  
 Completed: 67 (0.22%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,14 +262,14 @@ Completed: 67 (0.22%) (Ranked 238)
 | 2023-11-08 | 30,559 | 66 |
 | 2023-11-09 | 30,630 | 66 |
 | 2023-11-10 | 30,704 | 66 |
-| 2023-11-11 | 30,740 | 67 |
+| 2023-11-11 | 30,741 | 67 |
 ## Awards
-Max (Great for Beginners): 310  (Ranked 246)  
-Sum: 2,757 (Ranked 179)  
+Max (Great for Beginners): 311  (Ranked 246)  
+Sum: 2,758 (Ranked 179)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 310 |
+| This game is Great for Beginners | 311 |
 | This game is Great for Quick Sessions | 303 |
 | This game has Diverse Characters | 285 |
 | This game has Amazing Storytelling | 275 |
@@ -492,4 +492,4 @@ Diff (max vs sum): 67
 | 2023-11-08 | 4.50 | 309 | 2,739 |
 | 2023-11-09 | 4.50 | 310 | 2,750 |
 | 2023-11-10 | 4.50 | 310 | 2,755 |
-| 2023-11-11 | 4.50 | 310 | 2,757 |
+| 2023-11-11 | 4.50 | 311 | 2,758 |

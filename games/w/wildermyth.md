@@ -22,12 +22,12 @@ Number of Ratings: 45  (23.09.2022)
 | A Mythic Menagerie | 0.40% | ~6 |
 | Who's Counting? | 0.40% | ~6 |
 | Thematic Divergence | 0.40% | ~6 |
+| Pyrrhic Victory | 0.40% | ~6 |
 | Empty the Caves | 0.30% | ~4 |
-| Pyrrhic Victory | 0.30% | ~4 |
 | A Story of Heroes | 0.30% | ~4 |
 | Turncoat | 0.30% | ~4 |
+| No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
-| No Time for Clawmonsters | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Plague Doctor | 0.10% | ~1 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,453 (Ranked 235)  
+Progressed: 1,454 (Ranked 235)  
 Completed: 6 (0.41%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -216,6 +216,7 @@ Completed: 6 (0.41%) (Ranked 207)
 | 2023-11-06 | 1,451 | 6 |
 | 2023-11-07 | 1,452 | 6 |
 | 2023-11-10 | 1,453 | 6 |
+| 2023-11-11 | 1,454 | 6 |
 ## Awards
 Max (Character Customization): 28  (Ranked 501)  
 Sum: 28 (Ranked 516)  

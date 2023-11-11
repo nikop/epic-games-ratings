@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78061,
+  "EOS_Progressed": 78063,
   "EOS_Completed": 833,
   "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 13,
@@ -23022,6 +23022,11 @@
       "Time": "2023-11-11T09:04:54.2280464+00:00",
       "NumProgressed": 78061,
       "NumCompleted": 833
+    },
+    {
+      "Time": "2023-11-11T10:05:19.9193206+00:00",
+      "NumProgressed": 78063,
+      "NumCompleted": 833
     }
   ],
   "TotalAchievements": 25,
@@ -23065,7 +23070,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17173
+      "UsersEstimate": 17174
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -23081,7 +23086,7 @@
       "Name": "Butcher",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3123
     },
     {
       "ID": "Cut Call",
@@ -23097,7 +23102,7 @@
       "Name": "Fair\u0027s Fair",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3123
     },
     {
       "ID": "HardWorker",
@@ -23105,7 +23110,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15612
+      "UsersEstimate": 15613
     },
     {
       "ID": "Hearty",
@@ -23121,7 +23126,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7025
+      "UsersEstimate": 7026
     },
     {
       "ID": "Magnetic Miracles",
@@ -23201,7 +23206,7 @@
       "Name": "Spicy",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3122
+      "UsersEstimate": 3123
     },
     {
       "ID": "Taco Toto",
@@ -23232,7 +23237,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78061,
+      "Progressed": 78063,
       "Completed": 833
     }
   ],
@@ -23240,8 +23245,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:04:54.2280457+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:05:19.91932+00:00",
   "LastUpdate_AppInfo": "2023-11-04T18:58:03.604186+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:57:35.4020016+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:04:54.2282623+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:58:03.5377453+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:05:19.9194864+00:00"
 }

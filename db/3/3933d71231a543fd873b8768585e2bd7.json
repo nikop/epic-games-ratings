@@ -4,7 +4,7 @@
   "ProductSlug": "masterplan-tycoon-379d81",
   "Ranking_EOS_Progress": 482,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 402,
+  "Ranking_EOS_NewPlayers": 365,
   "Ranking_EOS_NewCompleters": 133,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -249,6 +249,11 @@
       "Time": "2023-11-08T20:04:48.3059504+00:00",
       "NumProgressed": 46,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-11T10:05:57.3528224+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -285,7 +290,7 @@
       "Name": "Another Brick in the Node",
       "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "achievements.completemission.master.02",
@@ -317,7 +322,7 @@
       "Name": "ForestTreePlank",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievements.firstexpedition",
@@ -355,7 +360,7 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -363,7 +368,7 @@
       "ID": "achievements.researches.upgrades50",
       "SetID": "1kd1942",
       "Name": "Accelerating Progress",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -388,14 +393,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:05:25.7275412+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:05:57.3528219+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.5030043+00:00",
-  "LastUpdate_Ratings": "2023-11-11T09:02:31.0814515+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:05:25.7275622+00:00"
+  "LastUpdate_Ratings": "2023-11-11T10:01:15.7386824+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:05:57.352842+00:00"
 }

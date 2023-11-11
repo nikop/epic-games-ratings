@@ -12,7 +12,7 @@
 | Free Champagne | 48.00% | ~300 |
 | Storage Hunter | 48.00% | ~300 |
 | Falling For You | 44.00% | ~275 |
-| Trust Me For Once | 28.00% | ~175 |
+| Trust Me For Once | 29.00% | ~182 |
 | Lab Rat | 25.00% | ~156 |
 | Stalemate | 20.00% | ~125 |
 | Kindar Surprise | 18.00% | ~113 |

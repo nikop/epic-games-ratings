@@ -176,9 +176,9 @@
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Remake_005",
@@ -320,9 +320,9 @@
       "ID": "Remake_22",
       "SetID": "5pi96jj",
       "Name": "Escape Lookout Cove",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -335,8 +335,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-11T09:04:34.3021098+00:00",
+  "LastChanged_Achievements": "2023-11-11T10:04:56.1180614+00:00",
   "LastUpdate_AppInfo": "2023-11-06T20:57:01.7197178+00:00",
-  "LastUpdate_Ratings": "2023-11-11T08:58:44.3402872+00:00",
-  "LastUpdate_Achievements": "2023-11-11T09:04:34.3021447+00:00"
+  "LastUpdate_Ratings": "2023-11-11T09:59:29.6391901+00:00",
+  "LastUpdate_Achievements": "2023-11-11T10:04:56.1180828+00:00"
 }

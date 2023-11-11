@@ -1,27 +1,27 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.60 (Ranked 410)  
+Rating: 4.61 (Ranked 384)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 1.00% | ~53 |
 | Secret Technique | 0.60% | ~32 |
 | Realm Estate | 0.50% | ~27 |
+| A Wonderful Discovery | 0.50% | ~27 |
 | Walls Cannot Stop Us | 0.50% | ~27 |
 | Freed Lands of Manuhari | 0.50% | ~27 |
-| A Wonderful Discovery | 0.40% | ~21 |
 | From Friends to Family | 0.40% | ~21 |
 | Spoils of War | 0.40% | ~21 |
 | There Can Only Be One! | 0.30% | ~16 |
 | Full Ascension | 0.30% | ~16 |
 | Bone Peddler | 0.30% | ~16 |
+| Stronger Together | 0.30% | ~16 |
 | Magical Synergy | 0.30% | ~16 |
 | Chaos Surge | 0.30% | ~16 |
 | Dawn of the Dread | 0.30% | ~16 |
 | Valley of Wonders | 0.20% | ~11 |
 | Digging for Treasure | 0.20% | ~11 |
-| Stronger Together | 0.20% | ~11 |
 | Seat of Power | 0.20% | ~11 |
 | In a Liege of Your Own | 0.20% | ~11 |
 | Impenetrable Fortress | 0.20% | ~11 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 410)
 | The Grey Wizard | 0.00% | ~0 |
 | Draconic Connoisseur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,343 (Ranked 183)  
+Progressed: 5,344 (Ranked 183)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-08 | 5,299 | 7 |
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
-| 2023-11-11 | 5,343 | 7 |
+| 2023-11-11 | 5,344 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 482)  
 Sum: 53 (Ranked 474)  
@@ -308,4 +308,4 @@ Diff (max vs sum): 8
 | 2023-11-07 | 4.60 | 31 | 51 |
 | 2023-11-08 | 4.60 | 31 | 52 |
 | 2023-11-09 | 4.61 | 31 | 52 |
-| 2023-11-11 | 4.60 | 32 | 53 |
+| 2023-11-11 | 4.61 | 32 | 53 |
