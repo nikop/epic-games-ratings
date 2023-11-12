@@ -95,7 +95,7 @@
 | 88 | [Slime Rancher 2](games/s/slime_rancher_2.md) | 4.80 | 101 | 357 |
 | 88 | [Star Atlas](games/s/star_atlas.md) | 4.80 | 26 | 512 |
 | 88 | [STORY OF SEASONS: Friends of Mineral Town](games/s/story_of_seasons__friends_of_mineral_town.md) | 4.80 | 0 | 546 |
-| 96 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,564 | 126 |
+| 96 | [Batman Arkham City Game of the Year Edition](games/b/batman_arkham_city_game_of_the_year_edition.md) | 4.79 | 1,565 | 126 |
 | 96 | [Dishonored 2](games/d/dishonored_2.md) | 4.79 | 624 | 189 |
 | 96 | [FTL: Faster Than Light](games/f/ftl__faster_than_light.md) | 4.79 | 166 | 307 |
 | 96 | [Griftlands](games/g/griftlands.md) | 4.79 | 0 | 546 |
@@ -105,7 +105,7 @@
 | 96 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.79 | 6,092 | 61 |
 | 96 | [Nuclear Throne](games/n/nuclear_throne.md) | 4.79 | 399 | 227 |
 | 96 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 42 | 450 |
-| 106 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 230 | 271 |
+| 106 | [Alan Wake 2](games/a/alan_wake_2.md) | 4.78 | 233 | 271 |
 | 106 | [Anno 1404 History Edition](games/a/anno_1404_history_edition.md) | 4.78 | 0 | 546 |
 | 106 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 4.78 | 53 | 420 |
 | 106 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 4.78 | 0 | 546 |
@@ -295,7 +295,7 @@
 | 274 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 546 |
 | 294 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.66 | 0 | 546 |
 | 294 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 81 | 385 |
-| 294 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,135 | 60 |
+| 294 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,154 | 60 |
 | 294 | [Crashlands](games/c/crashlands.md) | 4.66 | 195 | 290 |
 | 294 | [Deliver Us The Moon](games/d/deliver_us_the_moon.md) | 4.66 | 0 | 546 |
 | 294 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,301 | 138 |
@@ -427,7 +427,7 @@
 | 409 | [Sundered: Eldritch Edition](games/s/sundered__eldritch_edition.md) | 4.60 | 79 | 387 |
 | 409 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 507 | 206 |
 | 409 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.60 | 48 | 435 |
-| 409 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 281 | 258 |
+| 409 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 284 | 257 |
 | 409 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 531 |
 | 409 | [Warframe](games/w/warframe.md) | 4.60 | 18,317 | 23 |
 | 409 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 555 | 201 |
@@ -720,22 +720,22 @@
 | 715 | [Railway Empire 2](games/r/railway_empire_2.md) | 4.42 | 0 | 546 |
 | 715 | [Rumbleverse](games/r/rumbleverse.md) | 4.42 | 6,689 | 56 |
 | 715 | [Surgeon Simulator 2](games/s/surgeon_simulator_2.md) | 4.42 | 0 | 546 |
-| 715 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.42 | 124 | 334 |
-| 722 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 546 |
-| 722 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 68 | 402 |
-| 722 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 251 | 268 |
-| 722 | [Democracy 4](games/d/democracy_4.md) | 4.41 | 0 | 546 |
-| 722 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 546 |
-| 722 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 95 | 366 |
-| 722 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 546 |
-| 722 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 546 |
-| 722 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.41 | 0 | 546 |
-| 722 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 38 | 459 |
-| 722 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,223 | 107 |
-| 722 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 397 |
-| 722 | [Sheltered](games/s/sheltered.md) | 4.41 | 276 | 262 |
-| 722 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.41 | 0 | 546 |
-| 722 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,503 | 130 |
+| 721 | [Absolute Drift](games/a/absolute_drift.md) | 4.41 | 0 | 546 |
+| 721 | [Century: Age of Ashes](games/c/century__age_of_ashes.md) | 4.41 | 68 | 402 |
+| 721 | [Crysis Remastered](games/c/crysis_remastered.md) | 4.41 | 251 | 268 |
+| 721 | [Democracy 4](games/d/democracy_4.md) | 4.41 | 0 | 546 |
+| 721 | [Genesis Alpha One Deluxe Edition](games/g/genesis_alpha_one_deluxe_edition.md) | 4.41 | 0 | 546 |
+| 721 | [Jotun: Valhalla Edition](games/j/jotun__valhalla_edition.md) | 4.41 | 95 | 366 |
+| 721 | [Mafia II: Definitive Edition](games/m/mafia_ii__definitive_edition.md) | 4.41 | 0 | 546 |
+| 721 | [Necrosmith](games/n/necrosmith.md) | 4.41 | 0 | 546 |
+| 721 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.41 | 0 | 546 |
+| 721 | [Rebel Galaxy](games/r/rebel_galaxy.md) | 4.41 | 38 | 459 |
+| 721 | [Saints Row®: The Third™  Remastered](games/s/saints_row®__the_third™__remastered.md) | 4.41 | 2,223 | 107 |
+| 721 | [Shadowrun Returns](games/s/shadowrun_returns.md) | 4.41 | 72 | 397 |
+| 721 | [Sheltered](games/s/sheltered.md) | 4.41 | 276 | 262 |
+| 721 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 4.41 | 0 | 546 |
+| 721 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 4.41 | 124 | 334 |
+| 721 | [World of Warships](games/w/world_of_warships.md) | 4.41 | 1,503 | 130 |
 | 737 | [Breathedge](games/b/breathedge.md) | 4.40 | 0 | 546 |
 | 737 | [Call of the Sea](games/c/call_of_the_sea.md) | 4.40 | 0 | 546 |
 | 737 | [DAEMON X MACHINA](games/d/daemon_x_machina.md) | 4.40 | 1,048 | 149 |
