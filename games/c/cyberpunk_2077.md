@@ -37,6 +37,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Easy Come, Easy Go | 0.30% | ~75 |
 | To Bad Decisions! | 0.20% | ~1,793 |
 | The Wandering Fool | 0.20% | ~1,793 |
+| The Star | 0.20% | ~1,793 |
 | The Sun | 0.20% | ~1,793 |
 | Two Heads, One Bullet | 0.20% | ~1,793 |
 | Judgement Day | 0.20% | ~50 |
@@ -56,7 +57,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Temperance | 0.10% | ~896 |
 | Rough Landing | 0.10% | ~896 |
 | The Devil | 0.10% | ~896 |
-| The Star | 0.10% | ~896 |
 | Greetings from Pacifica! | 0.10% | ~896 |
 | The Jungle | 0.10% | ~896 |
 | It's Elementary | 0.10% | ~896 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,356 (Ranked 15)  
-Completed: 2,767 (0.31%) (Ranked 223)  
+Progressed: 896,364 (Ranked 15)  
+Completed: 2,768 (0.31%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 2,767 (0.31%) (Ranked 223)
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
 | 2023-11-11 | 896,271 | 2,766 |
-| 2023-11-12 | 896,356 | 2,767 |
+| 2023-11-12 | 896,364 | 2,768 |
 ## Awards
 Max (Character Customization): 105,016  (Ranked 9)  
 Sum: 350,356 (Ranked 10)  

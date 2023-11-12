@@ -11,8 +11,8 @@ Number of Ratings: 371  (23.09.2022)
 | Not So Fast... | 7.00% | ~231 |
 | Watch Where You Step... | 7.00% | ~231 |
 | An Ill Omen | 7.00% | ~231 |
+| Blood for the Blood God! | 6.00% | ~198 |
 | Purging Spree | 6.00% | ~198 |
-| Blood for the Blood God! | 5.00% | ~165 |
 | Bloodless | 5.00% | ~165 |
 | Surgical Excision | 4.00% | ~132 |
 | Friendly Fire | 4.00% | ~132 |
@@ -43,8 +43,8 @@ Number of Ratings: 371  (23.09.2022)
 | Death Comes For All | 0.80% | ~26 |
 | Engine Kill | 0.70% | ~23 |
 | Harvest No More | 0.60% | ~20 |
-| Strike Force | 0.50% | ~16 |
-| Hands-On Research | 0.50% | ~16 |
+| Strike Force | 0.50% | ~17 |
+| Hands-On Research | 0.50% | ~17 |
 | Reign of Confusion | 0.40% | ~13 |
 | Suffer Not the Mutant | 0.40% | ~13 |
 | Blood and Iron | 0.30% | ~10 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Standard-Issue Killer | 0.00% | ~0 |
 | Mass Extinction | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,300 (Ranked 202)  
+Progressed: 3,301 (Ranked 202)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 3,294 | 0 |
 | 2023-11-10 | 3,295 | 0 |
 | 2023-11-11 | 3,299 | 0 |
-| 2023-11-12 | 3,300 | 0 |
+| 2023-11-12 | 3,301 | 0 |
 ## Awards
 Max (Character Customization): 222  (Ranked 276)  
 Sum: 481 (Ranked 326)  

@@ -164,9 +164,9 @@
       "ID": "ACH_12",
       "SetID": "15cie2",
       "Name": "The Witch\u2019s Haunt",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_13",
@@ -260,17 +260,17 @@
       "ID": "ACH_8",
       "SetID": "15cie2",
       "Name": "The Last Skull",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_9",
       "SetID": "15cie2",
       "Name": "Master of Riddles",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 160,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     }
   ],
   "AchievementSets": [
@@ -285,8 +285,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:08:55.7304311+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:11:33.7968339+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:30.9232899+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:58:12.8827443+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:08:55.7304442+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:00:41.1991149+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:11:33.7968525+00:00"
 }

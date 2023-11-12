@@ -2,7 +2,7 @@
   "ID": "c749cd78da34408d8434a46271f4bb79",
   "Name": "Saturnalia",
   "ProductSlug": "saturnalia",
-  "Ranking_Rating": 866,
+  "Ranking_Rating": 867,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 100,
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68159,
+  "EOS_Progressed": 68163,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14808,6 +14808,11 @@
       "Time": "2023-11-12T12:05:50.5302692+00:00",
       "NumProgressed": 68159,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-12T13:09:06.2118487+00:00",
+      "NumProgressed": 68163,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -14827,7 +14832,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -14955,7 +14960,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -14978,7 +14983,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 68159,
+      "Progressed": 68163,
       "Completed": 18
     }
   ],
@@ -14986,8 +14991,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:05:50.5302687+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:09:06.2118479+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:17.1374878+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:59:10.3360466+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:05:50.5303758+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:01:50.9654507+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:09:06.2120012+00:00"
 }

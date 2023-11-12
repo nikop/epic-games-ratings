@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 385)  
+Rating: 4.61 (Ranked 384)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 4.61 (Ranked 385)
 | Secret Technique | 1.00% | ~54 |
 | Realm Estate | 0.90% | ~48 |
 | Walls Cannot Stop Us | 0.90% | ~48 |
+| A Wonderful Discovery | 0.80% | ~43 |
 | Freed Lands of Manuhari | 0.80% | ~43 |
-| A Wonderful Discovery | 0.70% | ~38 |
 | From Friends to Family | 0.70% | ~38 |
 | Bone Peddler | 0.60% | ~32 |
 | Magical Synergy | 0.60% | ~32 |
@@ -20,6 +20,7 @@ Rating: 4.61 (Ranked 385)
 | Full Ascension | 0.40% | ~21 |
 | Seat of Power | 0.40% | ~21 |
 | In a Liege of Your Own | 0.40% | ~21 |
+| Sehiran Oasis | 0.40% | ~21 |
 | Dawn of the Dread | 0.40% | ~21 |
 | Valley of Wonders | 0.30% | ~16 |
 | Digging for Treasure | 0.30% | ~16 |
@@ -29,7 +30,6 @@ Rating: 4.61 (Ranked 385)
 | Tipping the Scales | 0.30% | ~16 |
 | Blood of the Dragon | 0.30% | ~16 |
 | Mighty Hoard | 0.30% | ~16 |
-| Sehiran Oasis | 0.30% | ~16 |
 | Prometheus Avenged | 0.30% | ~16 |
 | Seal the Deal | 0.30% | ~16 |
 | A Conqueror's Cohort | 0.30% | ~16 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 385)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,370 (Ranked 184)  
+Progressed: 5,372 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 7 (0.13%) (Ranked 260)
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
-| 2023-11-12 | 5,370 | 7 |
+| 2023-11-12 | 5,372 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 481)  
 Sum: 53 (Ranked 474)  

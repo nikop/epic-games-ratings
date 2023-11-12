@@ -12,7 +12,7 @@ Rating: 4.04 (Ranked 984)
 | No More Names | 63.00% | ~166 |
 | Initiate | 48.00% | ~127 |
 | Thrada-Kul | 43.00% | ~114 |
-| Gravity-Challenged Rocks | 33.00% | ~87 |
+| Gravity-Challenged Rocks | 34.00% | ~90 |
 | Soldier | 28.00% | ~74 |
 | All the Major Food Groups | 28.00% | ~74 |
 | Socialite | 27.00% | ~71 |

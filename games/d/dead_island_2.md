@@ -9,8 +9,8 @@ Rating: 4.54 (Ranked 524)
 | Whatever It Takes | 2.00% | ~855 |
 | Pork Chopped | 2.00% | ~855 |
 | Welcome To Hell-A | 0.80% | ~5,738 |
-| Break A Leg | 0.70% | ~5,020 |
-| Hotel California | 0.70% | ~5,020 |
+| Break A Leg | 0.70% | ~5,021 |
+| Hotel California | 0.70% | ~5,021 |
 | Dr. Reed, I Presume? | 0.60% | ~4,303 |
 | Git Gutte! | 0.60% | ~4,303 |
 | Anger Management | 0.60% | ~4,303 |
@@ -48,7 +48,7 @@ Rating: 4.54 (Ranked 524)
 | Smorgasbord | 0.20% | ~1,434 |
 | Internet Famous | 0.20% | ~1,434 |
 | Gore Horse | 0.20% | ~1,434 |
-| Top That, Tisha! | 0.20% | ~85 |
+| Top That, Tisha! | 0.20% | ~86 |
 | Donk! | 0.10% | ~717 |
 | Sole Survivor | 0.10% | ~717 |
 | Sharpest Tool in the Box | 0.10% | ~717 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,199 (Ranked 20)  
+Progressed: 717,229 (Ranked 20)  
 Completed: 2,384 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 2,384 (0.33%) (Ranked 220)
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
-| 2023-11-12 | 717,199 | 2,384 |
+| 2023-11-12 | 717,229 | 2,384 |
 ## Awards
 Max (Great Boss Battles): 7,320  (Ranked 53)  
 Sum: 11,125 (Ranked 85)  

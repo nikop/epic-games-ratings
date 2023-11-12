@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1373,12 +1373,18 @@
       "Rating": 4.58,
       "NumberOfAwards": 360,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-11-12T13:02:03.9696962+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 361,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 360,
+  "NumberOfAwards": 361,
   "NumberOfAwardsMax": 51,
-  "MaxAwardTitle": "Quickly Understood Controls",
+  "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -1390,7 +1396,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 50
+      "Count": 51
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1435,9 +1441,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157865,
+  "EOS_Progressed": 157876,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15350,6 +15356,11 @@
       "Time": "2023-11-12T12:04:03.0877727+00:00",
       "NumProgressed": 157865,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T13:06:58.1195693+00:00",
+      "NumProgressed": 157876,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15465,7 +15476,7 @@
       "Name": "Scion",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -15497,7 +15508,7 @@
       "Name": "Harmless",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -15553,7 +15564,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -15561,7 +15572,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -15641,7 +15652,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -15649,7 +15660,7 @@
       "Name": "Passage",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "QUEST_CHILD",
@@ -15728,21 +15739,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157448,
-      "Completed": 1197
+      "Progressed": 157459,
+      "Completed": 1198
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157865,
+      "Progressed": 157876,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-12T10:58:48.471902+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:04:03.0877717+00:00",
+  "LastChanged": "2023-11-12T13:02:03.969696+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:06:58.1195682+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:59:21.1281711+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:04:03.0878974+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:02:03.9696968+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:06:58.1197789+00:00"
 }

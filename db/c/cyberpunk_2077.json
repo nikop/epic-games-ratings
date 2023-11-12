@@ -15038,10 +15038,10 @@
       "Count": 12811
     }
   ],
-  "EOS_Progressed": 896356,
-  "EOS_Completed": 2767,
-  "EOS_NewPlayers": 1010,
-  "EOS_NewCompleters": 21,
+  "EOS_Progressed": 896364,
+  "EOS_Completed": 2768,
+  "EOS_NewPlayers": 1008,
+  "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38378,6 +38378,11 @@
       "Time": "2023-11-12T12:05:12.2192431+00:00",
       "NumProgressed": 896356,
       "NumCompleted": 2767
+    },
+    {
+      "Time": "2023-11-12T13:08:20.9184323+00:00",
+      "NumProgressed": 896364,
+      "NumCompleted": 2768
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38636,9 +38641,9 @@
       "ID": "TheStar",
       "SetID": "47clieb",
       "Name": "The Star",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 896
+      "UsersEstimate": 1793
     },
     {
       "ID": "TheSun",
@@ -38925,21 +38930,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896356,
-      "Completed": 2767
+      "Progressed": 896364,
+      "Completed": 2768
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24979,
+      "Progressed": 24987,
       "Completed": 10212
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-12T11:59:24.1959364+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:05:12.2192424+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:08:20.9184317+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:59:24.1959378+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:05:12.2194406+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:02:08.3227213+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:08:20.9186314+00:00"
 }

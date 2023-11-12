@@ -17,17 +17,18 @@
 | Crimson rivers | 15.00% | ~5 |
 | Power of Inquisition | 15.00% | ~5 |
 | Help of the Gell | 15.00% | ~5 |
+| Trial by cold | 15.00% | ~5 |
 | The champion of the arena | 12.00% | ~4 |
 | Surpass the teacher | 12.00% | ~4 |
 | Rage | 12.00% | ~4 |
 | Protect the Healer! | 12.00% | ~4 |
-| Trial by cold | 12.00% | ~4 |
 | She-Wolf | 12.00% | ~4 |
 | Overplay the rogue | 9.00% | ~3 |
 | Berkanan Borgia | 9.00% | ~3 |
 | Stronger than Gellian steel | 9.00% | ~3 |
 | By own strength | 9.00% | ~3 |
 | For the greater good | 6.00% | ~2 |
+| Collector | 6.00% | ~2 |
 | The best apprentice | 6.00% | ~2 |
 | The power of persuasion | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |
@@ -35,7 +36,6 @@
 | Punish the Punisher | 6.00% | ~2 |
 | Cunning plan | 6.00% | ~2 |
 | All's fair in love and war | 6.00% | ~2 |
-| Collector | 3.00% | ~1 |
 | First among Frisians | 3.00% | ~1 |
 | Defeat the bear | 3.00% | ~1 |
 | Do it yourself | 3.00% | ~1 |

@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1430,9 +1430,9 @@
       "ID": "achievement_27",
       "SetID": "2cpn27e",
       "Name": "Mighty Marmelizer",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "achievement_28",
@@ -1582,9 +1582,9 @@
       "ID": "achievement_44",
       "SetID": "2cpn27e",
       "Name": "Artful Assister",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_45",
@@ -1614,9 +1614,9 @@
       "ID": "achievement_48",
       "SetID": "2cpn27e",
       "Name": "Haven Hunter",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_5",
@@ -1668,8 +1668,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:06:25.4829353+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:09:47.7006324+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:59:26.695203+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:06:25.4953631+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:02:11.2892639+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:09:47.7006878+00:00"
 }

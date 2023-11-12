@@ -47,11 +47,11 @@ Rating: 4.76 (Ranked 125)
 | A Forte for Achievement | 2.00% | ~6,039 |
 | Savvy Spender | 1.00% | ~3,019 |
 | Merlin's Beard! | 1.00% | ~3,019 |
-| Spilled Milk | 0.90% | ~2,717 |
+| Spilled Milk | 0.90% | ~2,718 |
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,944 (Ranked 50)  
+Progressed: 301,945 (Ranked 50)  
 Completed: 509 (0.17%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,10 +257,10 @@ Completed: 509 (0.17%) (Ranked 253)
 | 2023-11-09 | 301,775 | 505 |
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
-| 2023-11-12 | 301,944 | 509 |
+| 2023-11-12 | 301,945 | 509 |
 ## Awards
 Max (Character Customization): 24,229  (Ranked 17)  
-Sum: 47,957 (Ranked 30)  
+Sum: 47,961 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -273,7 +273,7 @@ Diff (max vs sum): -13
 | This game is Relaxing | 1,216 |
 | This game has Amazing Characters | 1,196 |
 | This game is Highly Recommended | 1,158 |
-| This game has Quickly Understood Controls | 1,096 |
+| This game has Quickly Understood Controls | 1,100 |
 | This game has Beautiful Visuals | 1,019 |
 | This game has a Creative Community | 778 |
 ## Ratings History
@@ -512,4 +512,4 @@ Diff (max vs sum): -13
 | 2023-11-09 | 4.76 | 24,144 | 47,747 |
 | 2023-11-10 | 4.76 | 24,162 | 47,810 |
 | 2023-11-11 | 4.76 | 24,188 | 47,880 |
-| 2023-11-12 | 4.76 | 24,229 | 47,957 |
+| 2023-11-12 | 4.76 | 24,229 | 47,961 |

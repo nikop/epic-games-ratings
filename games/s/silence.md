@@ -18,9 +18,9 @@
 | Chapter II | 27.00% | ~41 |
 | Bubblekillerfamily | 24.00% | ~36 |
 | Achoo!! | 24.00% | ~36 |
+| Chapter III | 24.00% | ~36 |
+| Like a moth in the Wind | 24.00% | ~36 |
 | Handyman | 23.00% | ~35 |
-| Chapter III | 23.00% | ~35 |
-| Like a moth in the Wind | 23.00% | ~35 |
 | Quite a buggy game | 21.00% | ~32 |
 | Pacifist | 20.00% | ~30 |
 | Mirror mirror on the wall... | 20.00% | ~30 |

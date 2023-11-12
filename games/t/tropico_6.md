@@ -6,26 +6,26 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 74.00% | ~4,413 |
-| Un-Lonely Island | 46.00% | ~2,743 |
-| The Beginning of a Servantship | 45.00% | ~2,684 |
-| Trade Is My Trait | 36.00% | ~2,147 |
-| Number 18 | 24.00% | ~1,431 |
-| We Don't Have Time For That | 19.00% | ~1,133 |
+| Just One...More...Term... | 74.00% | ~4,415 |
+| Un-Lonely Island | 46.00% | ~2,744 |
+| The Beginning of a Servantship | 45.00% | ~2,685 |
+| Trade Is My Trait | 36.00% | ~2,148 |
+| Number 18 | 24.00% | ~1,432 |
+| We Don't Have Time For That | 19.00% | ~1,134 |
 | The Governator | 17.00% | ~1,014 |
-| The Legend of Langostino | 16.00% | ~954 |
+| The Legend of Langostino | 16.00% | ~955 |
 | Caribbean Comrade | 15.00% | ~895 |
 | The Dreamer of Dreams | 15.00% | ~895 |
 | Go Sovereigns! | 11.00% | ~656 |
 | For Science! | 11.00% | ~656 |
-| Happy Ending? | 10.00% | ~596 |
+| Happy Ending? | 10.00% | ~597 |
 | Of Seals And Men | 9.00% | ~537 |
 | Shackadelic | 9.00% | ~537 |
 | Double Trouble | 8.00% | ~477 |
 | Firestarter | 8.00% | ~477 |
-| I Owe You Nothing | 7.00% | ~417 |
-| Make Tropico Great Again! | 7.00% | ~417 |
-| French Connection | 7.00% | ~417 |
+| I Owe You Nothing | 7.00% | ~418 |
+| Make Tropico Great Again! | 7.00% | ~418 |
+| French Connection | 7.00% | ~418 |
 | Don't Panic! | 6.00% | ~358 |
 | Beware The Betman | 6.00% | ~358 |
 | Viva Tropico! | 5.00% | ~298 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.90% | ~54 |
 | My Ways | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,964 (Ranked 180)  
+Progressed: 5,966 (Ranked 180)  
 Completed: 2 (0.03%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,10 +253,10 @@ Completed: 2 (0.03%) (Ranked 310)
 | 2023-11-09 | 5,873 | 2 |
 | 2023-11-10 | 5,904 | 2 |
 | 2023-11-11 | 5,944 | 2 |
-| 2023-11-12 | 5,964 | 2 |
+| 2023-11-12 | 5,966 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 102  (Ranked 356)  
-Sum: 724 (Ranked 291)  
+Sum: 725 (Ranked 291)  
 Diff (max vs sum): 65  
 | Award | Count |
 | ----- | ----- |
@@ -267,7 +267,7 @@ Diff (max vs sum): 65
 | This game has Amazing Storytelling | 92 |
 | This game is Educational | 89 |
 | This game is Extremely Fun | 88 |
-| This game has Amazing Characters | 87 |
+| This game has Amazing Characters | 88 |
 | This game has a Creative Community | 68 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
@@ -433,3 +433,4 @@ Diff (max vs sum): 65
 | 2023-11-02 | 4.65 | - | 102 | 724 |
 | 2023-11-03 | 4.66 | - | 102 | 724 |
 | 2023-11-10 | 4.65 | - | 102 | 724 |
+| 2023-11-12 | 4.65 | - | 102 | 725 |

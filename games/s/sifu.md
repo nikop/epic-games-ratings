@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Diligence as a goal | 0.80% | ~208 |
+| Diligence as a goal | 0.80% | ~209 |
 | Project Arena | 0.60% | ~156 |
 | The Old Grandmaster | 0.50% | ~3,584 |
 | The Assault | 0.50% | ~3,584 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,756 (Ranked 21)  
+Progressed: 716,766 (Ranked 21)  
 Completed: 12,934 (1.80%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,17 +273,17 @@ Completed: 12,934 (1.80%) (Ranked 126)
 | 2023-11-09 | 716,476 | 12,934 |
 | 2023-11-10 | 716,574 | 12,934 |
 | 2023-11-11 | 716,690 | 12,934 |
-| 2023-11-12 | 716,756 | 12,934 |
+| 2023-11-12 | 716,766 | 12,934 |
 ## Awards
-Max (Great Boss Battles): 6,783  (Ranked 55)  
-Sum: 11,851 (Ranked 82)  
+Max (Great Boss Battles): 6,789  (Ranked 55)  
+Sum: 11,860 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 6,783 |
+| This game has Great Boss Battles | 6,789 |
 | This game has Diverse Characters | 650 |
 | This game has Challenging Combat | 600 |
-| This game has Amazing Storytelling | 581 |
+| This game has Amazing Storytelling | 584 |
 | This game has Quickly Understood Controls | 570 |
 | This game has Amazing Characters | 570 |
 | This game is Highly Recommended | 567 |
@@ -594,4 +594,4 @@ Diff (max vs sum): -27
 | 2023-11-09 | 4.82 | - | 6,777 | 11,833 |
 | 2023-11-10 | 4.82 | - | 6,777 | 11,835 |
 | 2023-11-11 | 4.82 | - | 6,783 | 11,848 |
-| 2023-11-12 | 4.82 | - | 6,783 | 11,851 |
+| 2023-11-12 | 4.82 | - | 6,789 | 11,860 |

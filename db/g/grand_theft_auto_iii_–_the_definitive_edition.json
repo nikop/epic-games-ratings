@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -517,9 +517,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8575,
+  "EOS_Progressed": 8576,
   "EOS_Completed": 57,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -11037,6 +11037,11 @@
       "Time": "2023-11-12T12:06:45.6245019+00:00",
       "NumProgressed": 8575,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2023-11-12T13:10:11.5016807+00:00",
+      "NumProgressed": 8576,
+      "NumCompleted": 57
     }
   ],
   "TotalAchievements": 29,
@@ -11048,7 +11053,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 7117
+      "UsersEstimate": 7118
     },
     {
       "ID": "ACH02",
@@ -11072,7 +11077,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 3258
+      "UsersEstimate": 3259
     },
     {
       "ID": "ACH05",
@@ -11279,7 +11284,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 8575,
+      "Progressed": 8576,
       "Completed": 57
     }
   ],
@@ -11287,8 +11292,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2023-11-07T02:18:06.6938355+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:06:45.6245011+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:10:11.5016797+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:19.3719482+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:57:52.9808287+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:06:45.6245895+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:00:17.4104255+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:10:11.5018263+00:00"
 }

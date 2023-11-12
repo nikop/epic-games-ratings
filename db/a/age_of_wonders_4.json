@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 385,
+  "Ranking_Rating": 384,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 184,
@@ -453,9 +453,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5370,
+  "EOS_Progressed": 5372,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7018,6 +7018,11 @@
       "Time": "2023-11-12T12:03:59.234949+00:00",
       "NumProgressed": 5370,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-12T13:06:53.5056875+00:00",
+      "NumProgressed": 5372,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7147,9 +7152,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "24",
@@ -7435,9 +7440,9 @@
       "ID": "52",
       "SetID": "7132754",
       "Name": "Sehiran Oasis",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 16
+      "UsersEstimate": 21
     },
     {
       "ID": "53",
@@ -7508,13 +7513,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5370,
+      "Progressed": 5372,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5370,
+      "Progressed": 5372,
       "Completed": 7
     }
   ],
@@ -7522,8 +7527,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-12T10:02:43.8760392+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:03:59.2349482+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:06:53.5056866+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T12:02:42.316912+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:03:59.2350522+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:05:19.9543773+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:06:53.5058617+00:00"
 }

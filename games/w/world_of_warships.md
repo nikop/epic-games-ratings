@@ -6,34 +6,34 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~42,282 |
-| Initial Capital | 67.00% | ~35,411 |
-| Moneybags | 45.00% | ~23,783 |
-| Junior Supply Officer | 45.00% | ~23,783 |
-| Naval Warfare. Arson | 34.00% | ~17,970 |
-| Naval Warfare. Ramming | 33.00% | ~17,441 |
-| Amateur | 31.00% | ~16,384 |
-| Naval Warfare. Tactics | 31.00% | ~16,384 |
-| Naval Constructor | 31.00% | ~16,384 |
-| Naval Warfare. Weaponry Basics | 23.00% | ~12,156 |
-| Naval Warfare. Lucky Shot | 20.00% | ~10,570 |
-| Naval Warfare. Flooding | 19.00% | ~10,042 |
-| Business Magnate | 17.00% | ~8,985 |
-| Battle Hero | 16.00% | ~8,456 |
-| Warrior | 13.00% | ~6,871 |
-| Supply Officer | 13.00% | ~6,871 |
-| Smooth Supply | 13.00% | ~6,871 |
-| Veteran | 8.00% | ~4,228 |
-| Legend of the Seas | 4.00% | ~2,114 |
-| Chief Naval Architect | 4.00% | ~2,114 |
-| Shield | 4.00% | ~2,114 |
+| Junior Naval Designer | 80.00% | ~42,302 |
+| Initial Capital | 67.00% | ~35,428 |
+| Moneybags | 45.00% | ~23,795 |
+| Junior Supply Officer | 45.00% | ~23,795 |
+| Naval Warfare. Arson | 34.00% | ~17,979 |
+| Naval Warfare. Ramming | 33.00% | ~17,450 |
+| Amateur | 31.00% | ~16,392 |
+| Naval Warfare. Tactics | 31.00% | ~16,392 |
+| Naval Constructor | 31.00% | ~16,392 |
+| Naval Warfare. Weaponry Basics | 23.00% | ~12,162 |
+| Naval Warfare. Lucky Shot | 20.00% | ~10,576 |
+| Naval Warfare. Flooding | 19.00% | ~10,047 |
+| Business Magnate | 17.00% | ~8,989 |
+| Battle Hero | 16.00% | ~8,460 |
+| Warrior | 13.00% | ~6,874 |
+| Supply Officer | 13.00% | ~6,874 |
+| Smooth Supply | 13.00% | ~6,874 |
+| Veteran | 8.00% | ~4,230 |
+| Legend of the Seas | 4.00% | ~2,115 |
+| Chief Naval Architect | 4.00% | ~2,115 |
+| Shield | 4.00% | ~2,115 |
 | Important Missions | 3.00% | ~1,586 |
-| Bane of the Oceans | 2.00% | ~1,057 |
-| Senior Supply Officer | 2.00% | ~1,057 |
-| "Science of Victory" | 2.00% | ~1,057 |
-| Weather Beaten | 2.00% | ~1,057 |
-| Guardian | 2.00% | ~1,057 |
-| Exterminator | 2.00% | ~1,057 |
+| Bane of the Oceans | 2.00% | ~1,058 |
+| Senior Supply Officer | 2.00% | ~1,058 |
+| "Science of Victory" | 2.00% | ~1,058 |
+| Weather Beaten | 2.00% | ~1,058 |
+| Guardian | 2.00% | ~1,058 |
+| Exterminator | 2.00% | ~1,058 |
 | Old-Timer | 1.00% | ~529 |
 | Special Orders | 1.00% | ~529 |
 | Protector | 1.00% | ~529 |
@@ -41,9 +41,9 @@ Number of Ratings: 4,733  (23.09.2022)
 | Secret Instructions | 0.80% | ~423 |
 | Raider | 0.70% | ~370 |
 | Experienced One | 0.60% | ~317 |
-| Ravager | 0.40% | ~211 |
-| "Yamamoto Isoroku" | 0.40% | ~211 |
-| "Yamamoto Isoroku" | 0.40% | ~211 |
+| Ravager | 0.40% | ~212 |
+| "Yamamoto Isoroku" | 0.40% | ~212 |
+| "Yamamoto Isoroku" | 0.30% | ~159 |
 | "Honorable Service" | 0.20% | ~106 |
 | Hit Hard! Hit Fast! Hit Often! | 0.20% | ~106 |
 | "Science of Victory" with Honors | 0.10% | ~53 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~53 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,852 (Ranked 106)  
+Progressed: 52,878 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,10 +142,10 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 51,605 | 0 |
 | 2023-11-10 | 52,074 | 0 |
 | 2023-11-11 | 52,607 | 0 |
-| 2023-11-12 | 52,852 | 0 |
+| 2023-11-12 | 52,878 | 0 |
 ## Awards
 Max (Relaxing): 1,508  (Ranked 129)  
-Sum: 12,581 (Ranked 79)  
+Sum: 12,585 (Ranked 79)  
 Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
@@ -153,8 +153,8 @@ Diff (max vs sum): 50
 | This game has Quickly Understood Controls | 1,496 |
 | This game has Challenging Combat | 1,483 |
 | This game has Competitive Players | 1,469 |
+| This game is Extremely Fun | 1,449 |
 | This game is Highly Recommended | 1,445 |
-| This game is Extremely Fun | 1,445 |
 | This game has Realistic Visuals | 1,315 |
 | This game has Amazing Storytelling | 1,247 |
 | This game has a Competitive Community | 1,173 |
@@ -466,4 +466,4 @@ Diff (max vs sum): 50
 | 2023-11-09 | 4.41 | - | 1,500 | 12,515 |
 | 2023-11-10 | 4.41 | - | 1,500 | 12,537 |
 | 2023-11-11 | 4.41 | - | 1,503 | 12,571 |
-| 2023-11-12 | 4.41 | - | 1,508 | 12,581 |
+| 2023-11-12 | 4.41 | - | 1,508 | 12,585 |

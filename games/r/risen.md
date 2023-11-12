@@ -23,14 +23,14 @@ Rating: 4.59 (Ranked 432)
 | Ogre friend | 29.00% | ~10 |
 | The fourth triplet | 29.00% | ~10 |
 | Death of a legend | 26.00% | ~9 |
+| Archaeologist | 26.00% | ~9 |
 | Beast slayer | 26.00% | ~9 |
 | Peacekeeper | 26.00% | ~9 |
-| Archaeologist | 24.00% | ~8 |
+| Master detective | 26.00% | ~9 |
 | Ghost hunter | 24.00% | ~8 |
 | Hard worker | 24.00% | ~8 |
 | Workaholic | 24.00% | ~8 |
 | Sidelined | 24.00% | ~8 |
-| Master detective | 24.00% | ~8 |
 | Little hero | 21.00% | ~7 |
 | Fence | 21.00% | ~7 |
 | Defender | 18.00% | ~6 |

@@ -9,13 +9,13 @@
 | Kill the Dead Man | 40.00% | ~8 |
 | Diogenes Syndrome | 40.00% | ~8 |
 | No Fear of the Dark | 35.00% | ~7 |
+| The Last Skull | 35.00% | ~7 |
 | They’re Watching | 30.00% | ~6 |
 | Art Connoisseur | 30.00% | ~6 |
 | Survivor | 30.00% | ~6 |
-| The Last Skull | 30.00% | ~6 |
+| Master of Riddles | 30.00% | ~6 |
+| The Witch’s Haunt | 25.00% | ~5 |
 | A Cautious Man Is Worth Two of His Kind | 25.00% | ~5 |
-| Master of Riddles | 25.00% | ~5 |
-| The Witch’s Haunt | 20.00% | ~4 |
 | Thanksgiving Day | 15.00% | ~3 |
 | Trapped in Time | 15.00% | ~3 |
 | A Cabin Boy with Potential | 15.00% | ~3 |

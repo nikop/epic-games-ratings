@@ -26,13 +26,13 @@ Rating: 4.38 (Ranked 763)
 | I Left You a Present | 2.00% | ~5,166 |
 | Predator II | 2.00% | ~5,166 |
 | Truffle Dog | 2.00% | ~5,166 |
+| Don't try this at home | 2.00% | ~5,166 |
 | A month in Century City | 2.00% | ~5,166 |
 | The Strengthening | 1.00% | ~2,583 |
 | Saver II | 1.00% | ~2,583 |
 | It's the last one, I swear | 1.00% | ~2,583 |
 | Botanist | 1.00% | ~2,583 |
 | Green thumb II | 1.00% | ~2,583 |
-| Don't try this at home | 1.00% | ~2,583 |
 | Bricklayer | 1.00% | ~2,583 |
 | Run the Economy | 1.00% | ~2,583 |
 | Committed Relationship | 0.80% | ~2,067 |

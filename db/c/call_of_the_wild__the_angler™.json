@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 403,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -895,9 +895,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6498,
+  "EOS_Progressed": 6500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9875,6 +9875,11 @@
       "Time": "2023-11-12T12:09:27.80719+00:00",
       "NumProgressed": 6498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T13:12:11.7872217+00:00",
+      "NumProgressed": 6500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9910,7 +9915,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -9918,7 +9923,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -10046,7 +10051,7 @@
       "Name": "I\u0027m Hooked!",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -10205,13 +10210,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6498,
+      "Progressed": 6500,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5870,
+      "Progressed": 5872,
       "Completed": 113
     }
   ],
@@ -10219,8 +10224,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-11T20:01:17.9556909+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:09:27.8071896+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:12:11.7872211+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.5392217+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:58:34.1330397+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:09:27.8073087+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:01:06.4805122+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:12:11.7873554+00:00"
 }

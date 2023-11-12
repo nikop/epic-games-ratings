@@ -585,9 +585,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3500,
+  "EOS_Progressed": 3501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 329,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4905,6 +4905,11 @@
       "Time": "2023-11-12T10:06:26.7912823+00:00",
       "NumProgressed": 3500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T13:10:15.3034919+00:00",
+      "NumProgressed": 3501,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -4965,7 +4970,7 @@
       "Name": "Pocket Ace",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_16",
@@ -4989,7 +4994,7 @@
       "Name": "Lockdown Leader",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "achievement_19",
@@ -5013,7 +5018,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "achievement_21",
@@ -5084,7 +5089,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3500,
+      "Progressed": 3501,
       "Completed": 0
     }
   ],
@@ -5092,8 +5097,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-12T05:58:03.0217726+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:06:48.8829163+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:10:15.3034912+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:58:33.4579827+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:06:48.8829621+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:01:06.0621063+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:10:15.3035626+00:00"
 }

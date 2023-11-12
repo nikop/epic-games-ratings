@@ -6417,10 +6417,10 @@
       "Count": 458
     }
   ],
-  "EOS_Progressed": 717199,
+  "EOS_Progressed": 717229,
   "EOS_Completed": 2384,
-  "EOS_NewPlayers": 4196,
-  "EOS_NewCompleters": 53,
+  "EOS_NewPlayers": 4174,
+  "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29932,6 +29932,11 @@
       "Time": "2023-11-12T12:03:55.5718631+00:00",
       "NumProgressed": 717199,
       "NumCompleted": 2384
+    },
+    {
+      "Time": "2023-11-12T13:06:49.1355378+00:00",
+      "NumProgressed": 717229,
+      "NumCompleted": 2384
     }
   ],
   "TotalAchievements": 51,
@@ -30007,7 +30012,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5020
+      "UsersEstimate": 5021
     },
     {
       "ID": "ach_contender",
@@ -30103,7 +30108,7 @@
       "Name": "Hotel California",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5020
+      "UsersEstimate": 5021
     },
     {
       "ID": "ach_impressive_aim",
@@ -30343,20 +30348,20 @@
       "Name": "Top That, Tisha!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     }
   ],
   "AchievementSets": [
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717199,
+      "Progressed": 717229,
       "Completed": 2384
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 42741,
+      "Progressed": 42771,
       "Completed": 36526
     }
   ],
@@ -30364,8 +30369,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-12T12:00:50.9650474+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:03:55.5718624+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:06:49.135537+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T12:00:50.9650488+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:03:55.5720621+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:03:51.8787711+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:06:49.1357242+00:00"
 }

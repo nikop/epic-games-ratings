@@ -4,7 +4,7 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1005,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 176,
+  "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 74,
@@ -4519,10 +4519,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2995,
       "NumberOfAwardsMax": 527
+    },
+    {
+      "Time": "2023-11-12T13:00:10.0762797+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3002,
+      "NumberOfAwardsMax": 527
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2995,
+  "NumberOfAwards": 3002,
   "NumberOfAwardsMax": 527,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4548,13 +4554,13 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 500
+      "Count": 503
     },
     {
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 490
+      "Count": 494
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4581,9 +4587,9 @@
       "Count": 488
     }
   ],
-  "EOS_Progressed": 90667,
+  "EOS_Progressed": 90680,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1108,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24971,6 +24977,11 @@
       "Time": "2023-11-12T12:05:18.5751506+00:00",
       "NumProgressed": 90667,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-12T13:08:28.4467729+00:00",
+      "NumProgressed": 90680,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24982,7 +24993,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_0011",
@@ -25126,7 +25137,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_0210",
@@ -25134,7 +25145,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_0211",
@@ -25150,7 +25161,7 @@
       "Name": "Too Old for This",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_0300",
@@ -25214,7 +25225,7 @@
       "Name": "Fancy Pants",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1813
+      "UsersEstimate": 1814
     },
     {
       "ID": "ACH_0431",
@@ -25309,22 +25320,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90667,
+      "Progressed": 90680,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19014,
-      "Completed": 15565
+      "Progressed": 19027,
+      "Completed": 15566
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-12T09:57:26.807447+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:05:18.5751501+00:00",
+  "LastChanged": "2023-11-12T13:00:10.0762795+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:08:28.4467722+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:57:46.8919089+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:05:18.5753461+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:00:10.0762801+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:08:28.4470481+00:00"
 }

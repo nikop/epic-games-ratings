@@ -11,10 +11,10 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 3.00% | ~4,736 |
 | Weeper | 3.00% | ~4,736 |
 | Ravenous | 3.00% | ~4,736 |
-| Harmless | 2.00% | ~3,157 |
-| Silenced Whispers | 2.00% | ~3,157 |
-| Devourer | 2.00% | ~3,157 |
-| Scion | 1.00% | ~1,574 |
+| Harmless | 2.00% | ~3,158 |
+| Silenced Whispers | 2.00% | ~3,158 |
+| Devourer | 2.00% | ~3,158 |
+| Scion | 1.00% | ~1,575 |
 | Jawcrab | 1.00% | ~1,579 |
 | Jawstag | 1.00% | ~1,579 |
 | Feast | 1.00% | ~1,579 |
@@ -35,8 +35,8 @@ Number of Ratings: 46  (23.09.2022)
 | Artisan | 0.50% | ~789 |
 | Hush | 0.50% | ~789 |
 | Breathsmith | 0.50% | ~789 |
-| Unwrap the Gift | 0.40% | ~631 |
-| Passage | 0.40% | ~631 |
+| Unwrap the Gift | 0.40% | ~632 |
+| Passage | 0.40% | ~632 |
 | Bloodhunter | 0.30% | ~474 |
 | Zygote | 0.30% | ~472 |
 | Kinship | 0.30% | ~474 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,865 (Ranked 76)  
+Progressed: 157,876 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,15 +236,15 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
-| 2023-11-12 | 157,865 | 1 |
+| 2023-11-12 | 157,876 | 1 |
 ## Awards
-Max (Quickly Understood Controls): 51  (Ranked 426)  
-Sum: 360 (Ranked 348)  
+Max (Highly Recommended): 51  (Ranked 426)  
+Sum: 361 (Ranked 348)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
+| This game is Highly Recommended | 51 |
 | This game has Quickly Understood Controls | 51 |
-| This game is Highly Recommended | 50 |
 | This game has Unique Visuals | 50 |
 | This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 45 |
@@ -392,4 +392,4 @@ Diff (max vs sum): 78
 | 2023-11-09 | 4.59 | - | 51 | 354 |
 | 2023-11-10 | 4.58 | - | 51 | 355 |
 | 2023-11-11 | 4.59 | - | 51 | 358 |
-| 2023-11-12 | 4.59 | - | 51 | 360 |
+| 2023-11-12 | 4.59 | - | 51 | 361 |

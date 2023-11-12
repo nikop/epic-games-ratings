@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 140,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 92,
+  "Ranking_EOS_NewPlayers": 94,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-28T04:00:00+00:00",
@@ -5007,9 +5007,9 @@
       "Count": 124
     }
   ],
-  "EOS_Progressed": 7793,
+  "EOS_Progressed": 7794,
   "EOS_Completed": 42,
-  "EOS_NewPlayers": 829,
+  "EOS_NewPlayers": 822,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -10917,6 +10917,11 @@
       "Time": "2023-11-12T12:08:38.4303858+00:00",
       "NumProgressed": 7793,
       "NumCompleted": 42
+    },
+    {
+      "Time": "2023-11-12T13:11:13.4919206+00:00",
+      "NumProgressed": 7794,
+      "NumCompleted": 42
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:45.8400368+00:00",
@@ -10929,7 +10934,7 @@
       "Name": "Rooftop Duel",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 7715
+      "UsersEstimate": 7716
     },
     {
       "ID": "achievement_a10",
@@ -10969,7 +10974,7 @@
       "Name": "Han Slowlo",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2883
+      "UsersEstimate": 2884
     },
     {
       "ID": "achievement_a15",
@@ -10985,7 +10990,7 @@
       "Name": "You\u0027ve Got A Friend",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1714
+      "UsersEstimate": 1715
     },
     {
       "ID": "achievement_a17",
@@ -10993,15 +10998,15 @@
       "Name": "Catch!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "achievement_a18",
       "SetID": "3m4b0pk",
       "Name": "They Never Saw It Coming",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 5845
+      "UsersEstimate": 5923
     },
     {
       "ID": "achievement_a19",
@@ -11017,7 +11022,7 @@
       "Name": "For Saw Gerrera",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 7637
+      "UsersEstimate": 7638
     },
     {
       "ID": "achievement_a20",
@@ -11097,7 +11102,7 @@
       "Name": "There Is No Try",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2805
+      "UsersEstimate": 2806
     },
     {
       "ID": "achievement_a3",
@@ -11105,7 +11110,7 @@
       "Name": "Grab Some Seat",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 7014
+      "UsersEstimate": 7015
     },
     {
       "ID": "achievement_a30",
@@ -11121,7 +11126,7 @@
       "Name": "Cleaning Up",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 4130
+      "UsersEstimate": 4131
     },
     {
       "ID": "achievement_a32",
@@ -11129,7 +11134,7 @@
       "Name": "They\u0027re Probably Fine",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "achievement_a33",
@@ -11161,7 +11166,7 @@
       "Name": "Can You Pet the Bogling?",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 6702
+      "UsersEstimate": 6703
     },
     {
       "ID": "achievement_a37",
@@ -11177,7 +11182,7 @@
       "Name": "Who Gives a Puck",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 5611
+      "UsersEstimate": 5612
     },
     {
       "ID": "achievement_a39",
@@ -11193,7 +11198,7 @@
       "Name": "The Past Made Present",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 6390
+      "UsersEstimate": 6391
     },
     {
       "ID": "achievement_a40",
@@ -11241,7 +11246,7 @@
       "Name": "Kitted Out",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 3896
+      "UsersEstimate": 3897
     },
     {
       "ID": "achievement_a46",
@@ -11345,14 +11350,14 @@
       "Name": "Tanalorr Bound",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 3974
+      "UsersEstimate": 3975
     }
   ],
   "AchievementSets": [
     {
       "ID": "3m4b0pk",
       "IsBase": true,
-      "Progressed": 7793,
+      "Progressed": 7794,
       "Completed": 42
     }
   ],
@@ -11360,8 +11365,8 @@
   "FirstSeenRating": "2023-04-28T17:02:09.2169574+00:00",
   "FirstSeenAchievements": "2023-07-31T22:07:03.059823+00:00",
   "LastChanged": "2023-11-12T09:00:06.0274594+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:08:38.4303854+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:11:13.49192+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:25.3052471+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:57:16.6751006+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:08:38.4304746+00:00"
+  "LastUpdate_Ratings": "2023-11-12T12:59:33.310775+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:11:13.4920595+00:00"
 }

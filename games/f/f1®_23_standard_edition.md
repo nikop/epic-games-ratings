@@ -5,21 +5,21 @@ Rating: 4.68 (Ranked 253)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,278 |
-| On the Top Step | 86.00% | ~4,880 |
-| Setting up for Success | 75.00% | ~4,256 |
-| Team Orders | 73.00% | ~4,143 |
+| Getting on the Step | 93.00% | ~5,279 |
+| On the Top Step | 86.00% | ~4,881 |
+| Setting up for Success | 75.00% | ~4,257 |
+| Team Orders | 74.00% | ~4,200 |
 | Engineer | 53.00% | ~3,008 |
-| Familiar Faces | 46.00% | ~2,610 |
+| Familiar Faces | 46.00% | ~2,611 |
 | Going the Extra Mile | 41.00% | ~2,327 |
 | Sharing the Love | 40.00% | ~2,270 |
 | Hitting a Season | 34.00% | ~1,930 |
-| A Dozen Pieces | 30.00% | ~1,702 |
-| Challenge Yourself | 30.00% | ~1,702 |
-| Making History | 30.00% | ~1,702 |
+| A Dozen Pieces | 30.00% | ~1,703 |
+| Challenge Yourself | 30.00% | ~1,703 |
+| Making History | 30.00% | ~1,703 |
 | Network Success | 25.00% | ~1,419 |
 | Writing a new Chapter | 24.00% | ~1,362 |
-| Spring Cleaning | 22.00% | ~1,248 |
+| Spring Cleaning | 22.00% | ~1,249 |
 | Reduce | 19.00% | ~1,078 |
 | Ups and Downs | 19.00% | ~1,078 |
 | Crucial Combo | 18.00% | ~1,022 |
@@ -38,8 +38,8 @@ Rating: 4.68 (Ranked 253)
 | Recycle | 11.00% | ~624 |
 | Tinkerer | 9.00% | ~511 |
 | Undisputed Winner | 8.00% | ~454 |
-| Living up to Expectations | 6.00% | ~340 |
-| Smooth Operator | 6.00% | ~340 |
+| Living up to Expectations | 6.00% | ~341 |
+| Smooth Operator | 6.00% | ~341 |
 | For all Those Back at the Factory | 5.00% | ~284 |
 | Peak Performance | 5.00% | ~284 |
 | Loyal Bond | 4.00% | ~227 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 253)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,675 (Ranked 181)  
+Progressed: 5,676 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 5,500 | 0 |
 | 2023-11-10 | 5,572 | 0 |
 | 2023-11-11 | 5,656 | 0 |
-| 2023-11-12 | 5,675 | 0 |
+| 2023-11-12 | 5,676 | 0 |
 ## Awards
 Max (Great for Beginners): 27  (Ranked 506)  
 Sum: 71 (Ranked 465)  

@@ -12,8 +12,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Il Coppo Del'Arte! | 18.00% | ~23,529 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,915 |
 | Hyperstellar Law Official | 16.00% | ~20,915 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~18,300 |
-| Gurdi-Ball Is Lit | 14.00% | ~18,300 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~18,301 |
+| Gurdi-Ball Is Lit | 14.00% | ~18,301 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~16,993 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,379 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,072 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,717 (Ranked 81)  
+Progressed: 130,718 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 316)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 28 (0.02%) (Ranked 316)
 | 2023-11-09 | 130,638 | 28 |
 | 2023-11-10 | 130,667 | 28 |
 | 2023-11-11 | 130,697 | 28 |
-| 2023-11-12 | 130,717 | 28 |
+| 2023-11-12 | 130,718 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 177)  
 Sum: 1,116 (Ranked 250)  

@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 7.00% | ~28 |
+| First Blood | 6.00% | ~24 |
 | Half a Life | 5.00% | ~20 |
 | Shock to the System | 3.00% | ~12 |
 | Bad Blood | 2.00% | ~8 |
-| Serious Bam | 2.00% | ~8 |
-| Bloodstorm | 0.80% | ~3 |
-| Doomed | 0.80% | ~3 |
-| Postal Service | 0.80% | ~3 |
-| Unreal | 0.80% | ~3 |
+| Serious Bam | 1.00% | ~4 |
+| Bloodstorm | 0.70% | ~3 |
+| Doomed | 0.70% | ~3 |
+| Postal Service | 0.70% | ~3 |
+| Unreal | 0.70% | ~3 |
 | ...And I'm All Out Of Gun | 0.50% | ~2 |
 | Pacifantastic | 0.50% | ~2 |
 | SCATHE Too | 0.50% | ~2 |
 | Shocking Bio | 0.50% | ~2 |
-| Amaging Work | 0.30% | ~1 |
-| Castle Of The Wolf | 0.30% | ~1 |
-| Gears of Door | 0.30% | ~1 |
-| Nuke Them All | 0.30% | ~1 |
-| Purely Not | 0.30% | ~1 |
-| Quakin' | 0.30% | ~1 |
-| Rune Escape | 0.30% | ~1 |
-| Slaving Grace | 0.30% | ~1 |
-| Such Sin | 0.30% | ~1 |
-| Takin' Names | 0.30% | ~1 |
-| The Kingpin | 0.30% | ~1 |
+| Amaging Work | 0.20% | ~1 |
+| Castle Of The Wolf | 0.20% | ~1 |
+| Gears of Door | 0.20% | ~1 |
+| Nuke Them All | 0.20% | ~1 |
+| Purely Not | 0.20% | ~1 |
+| Quakin' | 0.20% | ~1 |
+| Rune Escape | 0.20% | ~1 |
+| Slaving Grace | 0.20% | ~1 |
+| Such Sin | 0.20% | ~1 |
+| Takin' Names | 0.20% | ~1 |
+| The Kingpin | 0.20% | ~1 |
 | Fear Nothing | 0.00% | ~0 |
 | Ice Work | 0.00% | ~0 |
 | Max Pain | 0.00% | ~0 |
@@ -35,7 +35,7 @@
 | Unreal 4 | 0.00% | ~0 |
 | Until Dusk | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 400 (Ranked 317)  
+Progressed: 401 (Ranked 317)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,7 +163,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 396 | 0 |
 | 2023-11-08 | 397 | 0 |
 | 2023-11-09 | 399 | 0 |
-| 2023-11-12 | 400 | 0 |
+| 2023-11-12 | 401 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

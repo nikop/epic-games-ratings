@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1026,
+  "EOS_Progressed": 1027,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2691,6 +2691,11 @@
       "Time": "2023-11-12T12:03:41.758488+00:00",
       "NumProgressed": 1026,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T13:06:32.7952238+00:00",
+      "NumProgressed": 1027,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -2702,7 +2707,7 @@
       "Name": "Cabin boy",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "ACH001",
@@ -2710,7 +2715,7 @@
       "Name": "Seafarer",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH002",
@@ -2798,7 +2803,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH013",
@@ -2814,7 +2819,7 @@
       "Name": "Christening",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH015",
@@ -2902,7 +2907,7 @@
       "Name": "My precious!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH026",
@@ -2942,7 +2947,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH031",
@@ -2990,7 +2995,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "ACH037",
@@ -3004,9 +3009,9 @@
       "ID": "ACH038",
       "SetID": "69nfp41",
       "Name": "O Captain! My Captain!",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 554
+      "UsersEstimate": 565
     },
     {
       "ID": "ACH039",
@@ -3054,7 +3059,7 @@
       "Name": "Greed for gold",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH045",
@@ -3101,15 +3106,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1026,
+      "Progressed": 1027,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:03:41.7584876+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:06:32.7952232+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.0023043+00:00",
-  "LastUpdate_Ratings": "2023-11-12T12:00:18.9934681+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:03:41.7585477+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:03:13.4641494+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:06:32.7952831+00:00"
 }

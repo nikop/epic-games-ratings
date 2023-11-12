@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1026,
+  "EOS_Progressed": 1027,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2012,6 +2012,11 @@
       "Time": "2023-11-12T12:03:49.9515955+00:00",
       "NumProgressed": 1026,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T13:06:42.5404977+00:00",
+      "NumProgressed": 1027,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2032,7 +2037,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2152,7 +2157,7 @@
       "Name": "Solo",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2168,7 +2173,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2264,7 +2269,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 370
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2358,29 +2363,29 @@
       "ID": "ML_ACHIEVEMENT_43",
       "SetID": "5k00jcd",
       "Name": "Mission complete",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 544
+      "UsersEstimate": 534
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1026,
+      "Progressed": 1027,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 694,
-      "Completed": 694
+      "Progressed": 695,
+      "Completed": 695
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:03:49.9515946+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:06:42.5404971+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:59:55.1568475+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:03:49.9516473+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:02:46.1241672+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:06:42.5405539+00:00"
 }

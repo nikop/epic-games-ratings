@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7476,
+  "EOS_Progressed": 7477,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -5653,6 +5653,11 @@
       "Time": "2023-11-12T12:08:26.8120615+00:00",
       "NumProgressed": 7476,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-12T13:10:59.8960378+00:00",
+      "NumProgressed": 7477,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5696,7 +5701,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3962
+      "UsersEstimate": 3963
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5734,9 +5739,9 @@
       "ID": "AK_KNOWLEDGE_SEEKER",
       "SetID": "dfmb89",
       "Name": "Knowledge Seeker",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 523
+      "UsersEstimate": 449
     },
     {
       "ID": "AK_KNOWLEDGE_SHARED",
@@ -5760,7 +5765,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -5784,7 +5789,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -5800,7 +5805,7 @@
       "Name": "Seekers Found",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -5808,7 +5813,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -5864,7 +5869,7 @@
       "Name": "Wind Powered",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2990
+      "UsersEstimate": 2991
     },
     {
       "ID": "AK_WORTHY_TITLE",
@@ -5872,22 +5877,22 @@
       "Name": "Worthy of the Title",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     }
   ],
   "AchievementSets": [
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7476,
+      "Progressed": 7477,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-12T12:08:26.8120609+00:00",
+  "LastChanged_Achievements": "2023-11-12T13:10:59.8960371+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:39.4199908+00:00",
-  "LastUpdate_Ratings": "2023-11-12T12:03:00.9492696+00:00",
-  "LastUpdate_Achievements": "2023-11-12T12:08:26.8121259+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:05:41.8265799+00:00",
+  "LastUpdate_Achievements": "2023-11-12T13:10:59.8961263+00:00"
 }

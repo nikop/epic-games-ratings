@@ -22,6 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | All That's Thine Shall Be Mine | 0.10% | ~454 |
 | All Your Trade Are Belong to Us | 0.10% | ~454 |
 | An early Reich | 0.10% | ~454 |
+| Anglophile | 0.10% | ~454 |
 | Arabian Coffee | 0.10% | ~454 |
 | At every continent | 0.10% | ~454 |
 | Azur semé de lis or | 0.10% | ~454 |
@@ -136,6 +137,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | One King to Rule! | 0.10% | ~454 |
 | One Night in Paris | 0.10% | ~454 |
 | Over a Thousand! | 0.10% | ~454 |
+| Philippine Tiger | 0.10% | ~454 |
 | Poland can into space | 0.10% | ~454 |
 | Populists in Government | 0.10% | ~454 |
 | Prester John | 0.10% | ~454 |
@@ -216,7 +218,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | All Blue | 0.00% | ~0 |
 | Almost Prussian Blue | 0.00% | ~0 |
 | An Unlikely Candidate | 0.00% | ~0 |
-| Anglophile | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Assembly Instructions Needed | 0.00% | ~0 |
@@ -299,7 +300,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Østindisk Kompagni Te | 0.00% | ~0 |
 | Pandya Empire | 0.00% | ~0 |
 | Parisian Pasha | 0.00% | ~0 |
-| Philippine Tiger | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
 | Pirate Bay of Janjira | 0.00% | ~0 |
 | Protect the Secret | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,582 (Ranked 41)  
+Progressed: 453,654 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,10 +576,10 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,582 | 1 |
+| 2023-11-12 | 453,654 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
-Sum: 57,254 (Ranked 24)  
+Sum: 57,270 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -589,7 +589,7 @@ Diff (max vs sum): 30
 | This game has Challenging Combat | 6,576 |
 | This game is Extremely Fun | 6,551 |
 | This game is Relaxing | 6,403 |
-| This game has Competitive Players | 6,237 |
+| This game has Competitive Players | 6,253 |
 | This game has Amazing Storytelling | 5,788 |
 | This game has Amazing Characters | 5,360 |
 | This game has Obsessive Gameplay | 3,351 |
@@ -895,4 +895,4 @@ Diff (max vs sum): 30
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
-| 2023-11-12 | 4.69 | - | 6,965 | 57,254 |
+| 2023-11-12 | 4.69 | - | 6,965 | 57,270 |
