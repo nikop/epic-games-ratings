@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 277,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 297,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2020-09-23T15:00:00+00:00",
@@ -1857,9 +1857,9 @@
       "ID": "ACH_AIRBORNE",
       "SetID": "9002fpg",
       "Name": "autopilot",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2165
+      "UsersEstimate": 2268
     },
     {
       "ID": "ACH_ALL_BONUSES",
@@ -2185,8 +2185,8 @@
   "FirstSeen": "2022-07-22T20:19:53.7171962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.9428929+00:00",
   "LastChanged": "2023-03-31T05:57:16.5160765+00:00",
-  "LastChanged_Achievements": "2023-11-12T13:09:31.2896862+00:00",
+  "LastChanged_Achievements": "2023-11-12T14:05:30.3311446+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:35.2228766+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:03:31.2019833+00:00",
-  "LastUpdate_Achievements": "2023-11-12T13:09:31.2897505+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:59:51.521886+00:00",
+  "LastUpdate_Achievements": "2023-11-12T14:05:30.3311796+00:00"
 }

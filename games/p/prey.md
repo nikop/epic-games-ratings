@@ -1,11 +1,11 @@
 # Prey
 [Store](https://store.epicgames.com/en-US/p/prey)  
 [View Rawdata](../../db/p/prey.json)  
-Rating: 4.63 (Ranked 348)  
+Rating: 4.62 (Ranked 365)  
 Number of Ratings: 13,217  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 5,769  (Ranked 65)  
-Sum: 7,817 (Ranked 108)  
+Sum: 7,818 (Ranked 108)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -18,7 +18,7 @@ Diff (max vs sum): -43
 | This game has Quickly Understood Controls | 291 |
 | This game has Obsessive Gameplay | 204 |
 | This game has Challenging Combat | 201 |
-| This game has a Creative Community | 173 |
+| This game has a Creative Community | 174 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -259,4 +259,4 @@ Diff (max vs sum): -43
 | 2023-11-09 | 4.62 | - | 5,765 | 7,809 |
 | 2023-11-10 | 4.62 | - | 5,769 | 7,814 |
 | 2023-11-11 | 4.62 | - | 5,769 | 7,816 |
-| 2023-11-12 | 4.63 | - | 5,769 | 7,817 |
+| 2023-11-12 | 4.63 | - | 5,769 | 7,818 |

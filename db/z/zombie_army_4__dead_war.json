@@ -2340,9 +2340,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 43834,
+  "EOS_Progressed": 43835,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -8595,6 +8595,11 @@
       "Time": "2023-11-12T12:03:51.0584242+00:00",
       "NumProgressed": 43834,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-12T14:03:32.8672013+00:00",
+      "NumProgressed": 43835,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -8606,7 +8611,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27177
+      "UsersEstimate": 27178
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -8638,7 +8643,7 @@
       "Name": "Well equipped",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5698
+      "UsersEstimate": 5699
     },
     {
       "ID": "SE_COMPLETE_BLOOD_COUNT",
@@ -8710,7 +8715,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17095
+      "UsersEstimate": 17096
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -8798,7 +8803,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 27615
+      "UsersEstimate": 27616
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -8846,7 +8851,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8328
+      "UsersEstimate": 8329
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -8862,7 +8867,7 @@
       "Name": "All of this has happened before\u2026",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15780
+      "UsersEstimate": 15781
     },
     {
       "ID": "SE_DROP_PIANO_ON_A_ZOMBIE",
@@ -8902,7 +8907,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18410
+      "UsersEstimate": 18411
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -8910,7 +8915,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22355
+      "UsersEstimate": 22356
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -8934,7 +8939,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 30245
+      "UsersEstimate": 30246
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -8966,7 +8971,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 24985
+      "UsersEstimate": 24986
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -8982,7 +8987,7 @@
       "Name": "Zombie killin\u0027 machine",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15780
+      "UsersEstimate": 15781
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_ATTACKING_OTHER_PLAYERS",
@@ -8998,7 +9003,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19725
+      "UsersEstimate": 19726
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -9006,7 +9011,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28930
+      "UsersEstimate": 28931
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -9062,7 +9067,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 28930
+      "UsersEstimate": 28931
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -9126,22 +9131,22 @@
       "Name": "Every bullet counts",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 15780
+      "UsersEstimate": 15781
     }
   ],
   "AchievementSets": [
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 43834,
+      "Progressed": 43835,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2023-11-11T03:57:51.6929986+00:00",
-  "LastChanged_Achievements": "2023-11-12T13:06:44.0119574+00:00",
+  "LastChanged_Achievements": "2023-11-12T14:03:32.8672011+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.8666356+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:01:18.4083307+00:00",
-  "LastUpdate_Achievements": "2023-11-12T13:06:44.0121749+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:58:23.1903331+00:00",
+  "LastUpdate_Achievements": "2023-11-12T14:03:32.8672699+00:00"
 }

@@ -113,6 +113,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~153 |
 | The Clergy | 1.00% | ~153 |
 | Capable | 0.90% | ~138 |
+| Ready | 0.90% | ~138 |
 | Strong Difficulty | 0.90% | ~138 |
 | Church of the Holy Sepulchre | 0.90% | ~138 |
 | Babylonia | 0.90% | ~138 |
@@ -123,7 +124,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.90% | ~138 |
 | Mounted Lancer | 0.90% | ~138 |
 | Devout | 0.80% | ~122 |
-| Ready | 0.80% | ~122 |
 | Clerics | 0.80% | ~122 |
 | Egypt | 0.80% | ~122 |
 | Assyrian Paganism | 0.80% | ~122 |

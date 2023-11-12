@@ -1,11 +1,11 @@
 # Batman Arkham Knight
 [Store](https://store.epicgames.com/en-US/p/batman-arkham-knight)  
 [View Rawdata](../../db/b/batman_arkham_knight.json)  
-Rating: 4.82 (Ranked 66)  
+Rating: 4.82 (Ranked 65)  
 Number of Ratings: 7,386  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 6,042  (Ranked 62)  
-Sum: 9,531 (Ranked 92)  
+Sum: 9,533 (Ranked 92)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
@@ -15,7 +15,7 @@ Diff (max vs sum): -30
 | This game is Highly Recommended | 407 |
 | This game has Amazing Storytelling | 395 |
 | This game is Extremely Fun | 389 |
-| This game has Amazing Characters | 385 |
+| This game has Amazing Characters | 387 |
 | This game is Relaxing | 377 |
 | This game has Quickly Understood Controls | 372 |
 | This game has a Creative Community | 285 |
@@ -301,4 +301,4 @@ Diff (max vs sum): -30
 | 2023-11-09 | 4.82 | - | 6,027 | 9,508 |
 | 2023-11-10 | 4.82 | - | 6,027 | 9,511 |
 | 2023-11-11 | 4.82 | - | 6,033 | 9,522 |
-| 2023-11-12 | 4.82 | - | 6,042 | 9,531 |
+| 2023-11-12 | 4.82 | - | 6,042 | 9,533 |

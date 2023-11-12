@@ -10,17 +10,17 @@
 | He's Off His Meds | 56.00% | ~135 |
 | Personal Life | 49.00% | ~118 |
 | Deal Or No Deal | 48.00% | ~116 |
-| Impress Theron | 47.00% | ~113 |
+| Impress Theron | 48.00% | ~116 |
 | On Your Bike | 30.00% | ~72 |
 | Save Dad | 22.00% | ~53 |
 | A Little Extra | 17.00% | ~41 |
-| Unhelpful | 13.00% | ~31 |
+| Unhelpful | 14.00% | ~34 |
 | Pearce | 12.00% | ~29 |
 | The Marriage Is Off | 11.00% | ~27 |
 | Use Your Connections | 10.00% | ~24 |
 | Horrific | 7.00% | ~17 |
+| Hopeful | 6.00% | ~14 |
 | Shady Truth | 6.00% | ~14 |
-| Hopeful | 5.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 241 (Ranked 356)  
 Completed: 4 (1.66%) (Ranked 131)  

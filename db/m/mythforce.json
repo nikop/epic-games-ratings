@@ -770,7 +770,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4817,
+  "EOS_Progressed": 4819,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
@@ -9125,6 +9125,11 @@
       "Time": "2023-11-12T13:12:42.1287381+00:00",
       "NumProgressed": 4817,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-12T14:09:24.0275002+00:00",
+      "NumProgressed": 4819,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9161,7 +9166,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -9177,7 +9182,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9185,7 +9190,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9193,7 +9198,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -9225,7 +9230,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9305,7 +9310,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1156
+      "UsersEstimate": 1157
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -9320,15 +9325,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4817,
+      "Progressed": 4819,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-12T13:12:42.1287371+00:00",
+  "LastChanged_Achievements": "2023-11-12T14:09:24.0274999+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:00:14.7696733+00:00",
-  "LastUpdate_Achievements": "2023-11-12T13:12:42.1288446+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:57:41.4654619+00:00",
+  "LastUpdate_Achievements": "2023-11-12T14:09:24.0275466+00:00"
 }

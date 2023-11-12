@@ -26,6 +26,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Cold Hearted | 0.20% | ~479 |
 | I Am Overburdened | 0.20% | ~479 |
 | Defeat The Dark | 0.20% | ~479 |
+| Destroy Your Fears | 0.20% | ~479 |
 | The Bestiary | 0.20% | ~479 |
 | Goodbye, Frog Friend | 0.20% | ~479 |
 | Heartless | 0.20% | ~479 |
@@ -41,6 +42,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 0.20% | ~479 |
 | Sneaky | 0.20% | ~479 |
 | Shadow Walker | 0.20% | ~479 |
+| Flesh Wound | 0.20% | ~479 |
 | An Offering | 0.20% | ~479 |
 | Who Needs Luck? | 0.20% | ~2 |
 | Thank You, Friend | 0.10% | ~240 |
@@ -79,7 +81,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Save Our Souls | 0.10% | ~240 |
 | Resourceful | 0.10% | ~240 |
 | Become The Nightmare | 0.10% | ~240 |
-| Destroy Your Fears | 0.10% | ~240 |
 | Trail Of Death | 0.10% | ~240 |
 | Clearing The Room | 0.10% | ~240 |
 | Blizzard | 0.10% | ~240 |
@@ -110,7 +111,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 0.10% | ~240 |
 | Snake Sneak | 0.10% | ~240 |
 | Sprinter | 0.10% | ~240 |
-| Flesh Wound | 0.10% | ~240 |
 | Fire Away! | 0.10% | ~240 |
 | Shapeshifting | 0.10% | ~240 |
 | Defuser | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,584 (Ranked 61)  
+Progressed: 239,586 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 288 (0.12%) (Ranked 266)
 | 2023-11-09 | 239,427 | 287 |
 | 2023-11-10 | 239,475 | 287 |
 | 2023-11-11 | 239,548 | 288 |
-| 2023-11-12 | 239,584 | 288 |
+| 2023-11-12 | 239,586 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 131)  
 Sum: 11,667 (Ranked 83)  

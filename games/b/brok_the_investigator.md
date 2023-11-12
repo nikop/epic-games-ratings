@@ -7,7 +7,7 @@
 | Introduction completed | 78.00% | ~18 |
 | Chapter 1 | 48.00% | ~11 |
 | Chapter 2 | 48.00% | ~11 |
-| Chapter 3 | 43.00% | ~10 |
+| Chapter 3 | 48.00% | ~11 |
 | Chapter 4 | 43.00% | ~10 |
 | Your Days Are Numbered | 43.00% | ~10 |
 | It's In My Nature | 43.00% | ~10 |
@@ -23,8 +23,8 @@
 | Secret Locker | 9.00% | ~2 |
 | Paw Music | 9.00% | ~2 |
 | Sugar Pills Lover | 9.00% | ~2 |
+| Bear Cop | 4.00% | ~1 |
 | Chipmunk | 4.00% | ~1 |
-| Bear Cop | 0.00% | ~0 |
 | Master of Mattresses | 0.00% | ~0 |
 | Main Endings | 0.00% | ~0 |
 | Pacifist | 0.00% | ~0 |

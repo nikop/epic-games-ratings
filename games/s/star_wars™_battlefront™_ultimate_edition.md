@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,053 |
-| Off to a good start | 67.00% | ~793 |
-| Do... or do not. There is no try | 51.00% | ~603 |
-| A good blaster at your side | 31.00% | ~367 |
+| New Recruit | 89.00% | ~1,056 |
+| Off to a good start | 67.00% | ~795 |
+| Do... or do not. There is no try | 51.00% | ~605 |
+| A good blaster at your side | 31.00% | ~368 |
 | I suggest a new strategy | 20.00% | ~237 |
 | Scrap collector | 19.00% | ~225 |
-| Great shot, kid! | 17.00% | ~201 |
-| All right, I'll give it a try | 16.00% | ~189 |
-| The power of the Force | 15.00% | ~177 |
-| Together we can rule the galaxy | 15.00% | ~177 |
-| Shoot first | 15.00% | ~177 |
+| Great shot, kid! | 17.00% | ~202 |
+| All right, I'll give it a try | 16.00% | ~190 |
+| The power of the Force | 15.00% | ~178 |
+| Together we can rule the galaxy | 15.00% | ~178 |
+| Shoot first | 15.00% | ~178 |
 | Collector | 14.00% | ~166 |
-| Tell Jabba that I've got his money | 10.00% | ~118 |
-| Best star-pilot in the galaxy | 10.00% | ~118 |
-| Survivor | 10.00% | ~118 |
-| Never tell me the odds! | 9.00% | ~106 |
+| Tell Jabba that I've got his money | 10.00% | ~119 |
+| Best star-pilot in the galaxy | 10.00% | ~119 |
+| Survivor | 10.00% | ~119 |
+| Never tell me the odds! | 9.00% | ~107 |
 | What's the cargo? | 8.00% | ~95 |
 | A cunning warrior | 8.00% | ~95 |
 | Judge me by my size, do you? | 7.00% | ~83 |
@@ -32,15 +32,15 @@
 | Not bad for a little furball | 4.00% | ~47 |
 | Patience you must have | 4.00% | ~47 |
 | Don't underestimate the Force | 4.00% | ~47 |
-| I've been waiting for you | 3.00% | ~35 |
-| When 900 years old you reach... | 3.00% | ~35 |
-| Determined | 3.00% | ~35 |
-| Your journey has only started | 3.00% | ~35 |
-| On the ball | 3.00% | ~35 |
-| Precision shot | 3.00% | ~35 |
-| City in the Clouds | 3.00% | ~35 |
-| That's no moon | 3.00% | ~35 |
-| What will you become? | 3.00% | ~35 |
+| I've been waiting for you | 3.00% | ~36 |
+| When 900 years old you reach... | 3.00% | ~36 |
+| Determined | 3.00% | ~36 |
+| Your journey has only started | 3.00% | ~36 |
+| On the ball | 3.00% | ~36 |
+| Precision shot | 3.00% | ~36 |
+| City in the Clouds | 3.00% | ~36 |
+| That's no moon | 3.00% | ~36 |
+| What will you become? | 3.00% | ~36 |
 | Hold the line! | 2.00% | ~24 |
 | The Force is strong with this one | 2.00% | ~24 |
 | Ackbar's Elite | 2.00% | ~24 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,183 (Ranked 243)  
+Progressed: 1,186 (Ranked 243)  
 Completed: 1 (0.08%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.08%) (Ranked 284)
 | 2023-11-09 | 1,130 | 1 |
 | 2023-11-10 | 1,147 | 1 |
 | 2023-11-11 | 1,176 | 1 |
-| 2023-11-12 | 1,183 | 1 |
+| 2023-11-12 | 1,186 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 308,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1477,9 +1477,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13665,
+  "EOS_Progressed": 13666,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14447,6 +14447,11 @@
       "Time": "2023-11-12T04:08:37.7567313+00:00",
       "NumProgressed": 13665,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-12T14:08:45.3839745+00:00",
+      "NumProgressed": 13666,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14514,7 +14519,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6969
+      "UsersEstimate": 6970
     },
     {
       "ID": "ACH09",
@@ -14538,7 +14543,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "ACH12",
@@ -14554,7 +14559,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "ACH14",
@@ -14737,7 +14742,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13665,
+      "Progressed": 13666,
       "Completed": 53
     }
   ],
@@ -14745,8 +14750,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-12T11:57:30.1950293+00:00",
-  "LastChanged_Achievements": "2023-11-12T13:11:48.3187607+00:00",
+  "LastChanged_Achievements": "2023-11-12T14:08:45.3839742+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-12T12:59:50.0264768+00:00",
-  "LastUpdate_Achievements": "2023-11-12T13:11:48.3189426+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:57:24.6502743+00:00",
+  "LastUpdate_Achievements": "2023-11-12T14:08:45.3840416+00:00"
 }

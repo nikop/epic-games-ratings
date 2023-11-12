@@ -3,9 +3,9 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 241,
-  "Ranking_EOS_Completed": 235,
+  "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1199,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -3253,6 +3253,11 @@
       "Time": "2023-11-12T13:06:27.1080097+00:00",
       "NumProgressed": 1199,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-12T14:03:21.374319+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -3415,9 +3420,9 @@
       "ID": "achievement_116",
       "SetID": "d252ncf",
       "Name": "The One and Only",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_117",
@@ -3489,7 +3494,7 @@
       "Name": "Recruit",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 781
     },
     {
       "ID": "achievement_125",
@@ -3577,7 +3582,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 671
+      "UsersEstimate": 673
     },
     {
       "ID": "achievement_20",
@@ -3593,7 +3598,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 827
+      "UsersEstimate": 829
     },
     {
       "ID": "achievement_22",
@@ -3601,7 +3606,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 611
+      "UsersEstimate": 613
     },
     {
       "ID": "achievement_23",
@@ -3641,7 +3646,7 @@
       "Name": "Turian Ally",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 613
     },
     {
       "ID": "achievement_28",
@@ -3649,7 +3654,7 @@
       "Name": "Quarian Ally",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 731
+      "UsersEstimate": 733
     },
     {
       "ID": "achievement_29",
@@ -3665,7 +3670,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 93,
       "XP": 25,
-      "UsersEstimate": 1115
+      "UsersEstimate": 1117
     },
     {
       "ID": "achievement_30",
@@ -3681,7 +3686,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 947
+      "UsersEstimate": 949
     },
     {
       "ID": "achievement_32",
@@ -3697,7 +3702,7 @@
       "Name": "Search and Rescue",
       "Percentage": 64,
       "XP": 25,
-      "UsersEstimate": 767
+      "UsersEstimate": 769
     },
     {
       "ID": "achievement_34",
@@ -3735,9 +3740,9 @@
       "ID": "achievement_38",
       "SetID": "b9pe172",
       "Name": "Colony Defense",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 384
     },
     {
       "ID": "achievement_39",
@@ -3753,7 +3758,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 611
+      "UsersEstimate": 613
     },
     {
       "ID": "achievement_40",
@@ -3841,15 +3846,15 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 683
+      "UsersEstimate": 685
     },
     {
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 360
     },
     {
       "ID": "achievement_51",
@@ -3927,9 +3932,9 @@
       "ID": "achievement_6",
       "SetID": "b9pe172",
       "Name": "Lift Mastery",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 96
     },
     {
       "ID": "achievement_60",
@@ -4023,9 +4028,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 456
+      "UsersEstimate": 444
     },
     {
       "ID": "achievement_71",
@@ -4047,9 +4052,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 444
     },
     {
       "ID": "achievement_74",
@@ -4280,19 +4285,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 1199,
+      "Progressed": 1201,
       "Completed": 3
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 1199,
+      "Progressed": 1201,
       "Completed": 2
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-12T13:06:27.1080091+00:00",
+  "LastChanged_Achievements": "2023-11-12T14:03:21.3743187+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:05:39.2200393+00:00",
-  "LastUpdate_Achievements": "2023-11-12T13:06:27.1082605+00:00"
+  "LastUpdate_Ratings": "2023-11-12T14:02:48.6136055+00:00",
+  "LastUpdate_Achievements": "2023-11-12T14:03:21.3744911+00:00"
 }

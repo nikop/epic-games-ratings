@@ -8,9 +8,9 @@ Rating: 4.04 (Ranked 984)
 | Unforeseen | 89.00% | ~235 |
 | Battlefields Have Memories | 84.00% | ~222 |
 | Enlisted | 81.00% | ~214 |
-| Maybe Engage a Little | 76.00% | ~201 |
+| Maybe Engage a Little | 77.00% | ~203 |
 | No More Names | 63.00% | ~166 |
-| Initiate | 48.00% | ~127 |
+| Initiate | 49.00% | ~129 |
 | Thrada-Kul | 43.00% | ~114 |
 | Gravity-Challenged Rocks | 34.00% | ~90 |
 | Soldier | 28.00% | ~74 |
@@ -37,7 +37,7 @@ Rating: 4.04 (Ranked 984)
 | Scholar | 3.00% | ~8 |
 | Kitted Out | 3.00% | ~8 |
 | Armaments Vert | 3.00% | ~8 |
-| Veteran | 2.00% | ~5 |
+| Veteran | 3.00% | ~8 |
 | Master of Carmine | 2.00% | ~5 |
 | Shroudfane Surveyor | 2.00% | ~5 |
 | Treasure Hunter | 2.00% | ~5 |

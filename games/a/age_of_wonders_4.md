@@ -15,10 +15,10 @@ Rating: 4.61 (Ranked 384)
 | Bone Peddler | 0.60% | ~32 |
 | Magical Synergy | 0.60% | ~32 |
 | There Can Only Be One! | 0.50% | ~27 |
+| Seat of Power | 0.50% | ~27 |
 | Chaos Surge | 0.50% | ~27 |
 | Spoils of War | 0.50% | ~27 |
 | Full Ascension | 0.40% | ~21 |
-| Seat of Power | 0.40% | ~21 |
 | In a Liege of Your Own | 0.40% | ~21 |
 | Sehiran Oasis | 0.40% | ~21 |
 | Dawn of the Dread | 0.40% | ~21 |

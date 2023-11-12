@@ -5,25 +5,25 @@ Rating: 4.12 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,095 |
-| World Map | 79.00% | ~1,780 |
-| Temple of Eternals | 57.00% | ~1,284 |
+| Victor | 93.00% | ~2,096 |
+| World Map | 79.00% | ~1,781 |
+| Temple of Eternals | 57.00% | ~1,285 |
 | Prestigious | 54.00% | ~1,217 |
-| Fellowship Power | 42.00% | ~946 |
-| Guild Power | 25.00% | ~563 |
+| Fellowship Power | 42.00% | ~947 |
+| Guild Power | 25.00% | ~564 |
 | Prestigious x10 | 22.00% | ~496 |
 | The game is on | 20.00% | ~451 |
 | Exotic Merchant | 19.00% | ~428 |
 | Dragon Clicker | 17.00% | ~383 |
 | Miner Clicker | 17.00% | ~383 |
-| Full Party | 16.00% | ~360 |
-| Inspection | 16.00% | ~360 |
+| Full Party | 16.00% | ~361 |
+| Inspection | 16.00% | ~361 |
 | Dragon Master | 15.00% | ~338 |
 | Enlightenment | 15.00% | ~338 |
 | Hero inspection | 15.00% | ~338 |
 | Lieutenant | 15.00% | ~338 |
-| Natural Talent | 14.00% | ~315 |
-| The Unstoppable | 14.00% | ~315 |
+| Natural Talent | 14.00% | ~316 |
+| The Unstoppable | 14.00% | ~316 |
 | Milestone collector | 13.00% | ~293 |
 | Mysterious Rock | 13.00% | ~293 |
 | Superior | 13.00% | ~293 |
@@ -43,13 +43,13 @@ Rating: 4.12 (Ranked 956)
 | Master Enchanter | 9.00% | ~203 |
 | The father of Dragons | 9.00% | ~203 |
 | Trader | 9.00% | ~203 |
-| Blueprint Upgrades | 8.00% | ~180 |
 | Crystal Mining | 8.00% | ~180 |
 | Dragon Slayer | 8.00% | ~180 |
 | Enchanting skill | 8.00% | ~180 |
 | Engineer Mastery | 8.00% | ~180 |
 | The Expeditioner | 8.00% | ~180 |
 | Weekly Quest Completionist | 8.00% | ~180 |
+| Blueprint Upgrades | 7.00% | ~158 |
 | Lock And Load | 7.00% | ~158 |
 | Sailor | 7.00% | ~158 |
 | Active Member | 6.00% | ~135 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 956)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,253 (Ranked 215)  
+Progressed: 2,254 (Ranked 215)  
 Completed: 2 (0.09%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 2 (0.09%) (Ranked 277)
 | 2023-11-09 | 2,129 | 2 |
 | 2023-11-10 | 2,189 | 2 |
 | 2023-11-11 | 2,229 | 2 |
-| 2023-11-12 | 2,253 | 2 |
+| 2023-11-12 | 2,254 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 488)  
 Sum: 80 (Ranked 455)  

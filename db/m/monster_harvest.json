@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 291,
+  "EOS_Progressed": 292,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.09,
+  "EOS_Completed_Percentage": 3.08,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.8770575+00:00",
@@ -390,6 +390,11 @@
       "Time": "2023-10-28T20:08:24.8243914+00:00",
       "NumProgressed": 291,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-12T14:08:46.6219989+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 10,
@@ -441,7 +446,7 @@
       "Name": "Red Slime Time",
       "Percentage": 66,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "SAVE_THE_SLIMES",
@@ -473,14 +478,14 @@
       "Name": "Welcome To Planimal Point",
       "Percentage": 96,
       "XP": 100,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3djk0",
       "IsBase": true,
-      "Progressed": 291,
+      "Progressed": 292,
       "Completed": 9
     }
   ],
@@ -488,8 +493,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.9307508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.8770583+00:00",
   "LastChanged": "2023-03-31T05:58:23.9307509+00:00",
-  "LastChanged_Achievements": "2023-11-12T13:11:49.7913035+00:00",
+  "LastChanged_Achievements": "2023-11-12T14:08:46.6219984+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:52.274272+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:05:24.8615552+00:00",
-  "LastUpdate_Achievements": "2023-11-12T13:11:49.7913264+00:00"
+  "LastUpdate_Ratings": "2023-11-12T14:02:38.8098736+00:00",
+  "LastUpdate_Achievements": "2023-11-12T14:08:46.6220075+00:00"
 }

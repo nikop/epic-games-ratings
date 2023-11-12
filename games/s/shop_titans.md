@@ -10,14 +10,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 4.00% | ~5,581 |
 | Tinkle of Coins | 4.00% | ~5,581 |
 | Titan's First Steps | 4.00% | ~5,581 |
-| Disintermediation | 3.00% | ~4,185 |
-| It's Free Real Estate | 3.00% | ~4,185 |
-| Capitalism Ho! | 3.00% | ~4,185 |
+| Disintermediation | 3.00% | ~4,186 |
+| It's Free Real Estate | 3.00% | ~4,186 |
+| Capitalism Ho! | 3.00% | ~4,186 |
 | The Daily Grind | 2.00% | ~2,790 |
 | One Easy Payment | 2.00% | ~2,790 |
 | Some Assembly Required | 2.00% | ~2,790 |
 | Bounty Hunters | 2.00% | ~2,790 |
 | Flooding the Market | 2.00% | ~2,790 |
+| Where it Hurts | 2.00% | ~2,790 |
 | Another Satisfied Customer | 2.00% | ~2,790 |
 | Pretty Penny | 2.00% | ~2,790 |
 | One-Armed Bandit | 2.00% | ~2,790 |
@@ -33,7 +34,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fated Encounters | 1.00% | ~1,395 |
 | Blank Page Syndrome | 1.00% | ~1,395 |
 | Demand for Supplies | 1.00% | ~1,395 |
-| Where it Hurts | 1.00% | ~1,395 |
 | Power of Love | 1.00% | ~1,395 |
 | Efficient Floor Space | 1.00% | ~1,395 |
 | Flawless Fusion | 1.00% | ~1,395 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,513 (Ranked 79)  
+Progressed: 139,523 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 181 (0.13%) (Ranked 260)
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
-| 2023-11-12 | 139,513 | 181 |
+| 2023-11-12 | 139,523 | 181 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,531 (Ranked 50)  

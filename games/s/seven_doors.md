@@ -16,11 +16,11 @@
 | Master of Riddles | 30.00% | ~6 |
 | The Witch’s Haunt | 25.00% | ~5 |
 | A Cautious Man Is Worth Two of His Kind | 25.00% | ~5 |
+| Trapped in Time | 20.00% | ~4 |
+| A Cabin Boy with Potential | 20.00% | ~4 |
 | Thanksgiving Day | 15.00% | ~3 |
-| Trapped in Time | 15.00% | ~3 |
-| A Cabin Boy with Potential | 15.00% | ~3 |
+| Don’t Touch the Rum! | 10.00% | ~2 |
 | Oh... You didn't think to bring it? | 10.00% | ~2 |
-| Don’t Touch the Rum! | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 536)  
 Completed: 2 (10.00%) (Ranked 36)  

@@ -20,13 +20,13 @@
 | Taskmaster | 6.00% | ~11 |
 | The More the Merrier | 5.00% | ~10 |
 | Harbinger | 5.00% | ~10 |
+| Pilgrimage's End | 5.00% | ~10 |
 | Quartermaster | 4.00% | ~8 |
 | Strategist | 4.00% | ~8 |
 | Deputized | 4.00% | ~8 |
 | Courier | 4.00% | ~8 |
 | Been There | 4.00% | ~8 |
 | Spiritual Journey | 4.00% | ~8 |
-| Pilgrimage's End | 4.00% | ~8 |
 | Trouble at Fort Larius | 4.00% | ~8 |
 | Bounty Hunter | 3.00% | ~6 |
 | Potential Unlocked | 3.00% | ~6 |

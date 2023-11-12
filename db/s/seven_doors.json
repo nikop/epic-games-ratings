@@ -4,7 +4,7 @@
   "ProductSlug": "seven-doors-7039de",
   "Ranking_EOS_Progress": 536,
   "Ranking_EOS_Completed": 36,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-02-20T23:00:00+00:00",
@@ -172,25 +172,25 @@
       "ID": "ACH_13",
       "SetID": "15cie2",
       "Name": "Trapped in Time",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_14",
       "SetID": "15cie2",
       "Name": "A Cabin Boy with Potential",
-      "Percentage": 15,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_15",
       "SetID": "15cie2",
       "Name": "Don\u2019t Touch the Rum!",
-      "Percentage": 5,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_16",
@@ -285,8 +285,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-11-12T13:11:33.7968339+00:00",
+  "LastChanged_Achievements": "2023-11-12T14:08:35.3826464+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:30.9232899+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:00:41.1991149+00:00",
-  "LastUpdate_Achievements": "2023-11-12T13:11:33.7968525+00:00"
+  "LastUpdate_Ratings": "2023-11-12T13:57:58.5908194+00:00",
+  "LastUpdate_Achievements": "2023-11-12T14:08:35.3826566+00:00"
 }
