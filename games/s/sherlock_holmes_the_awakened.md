@@ -21,7 +21,7 @@ Rating: 4.66 (Ranked 294)
 | Land, Ho! | 48.00% | ~387 |
 | Back In The Saddle | 47.00% | ~379 |
 | No Man Is An Island | 47.00% | ~379 |
-| At Wits' End | 46.00% | ~371 |
+| At Wits' End | 47.00% | ~379 |
 | Fhtagn! | 45.00% | ~363 |
 | Up In Flames | 44.00% | ~355 |
 | Bookworm | 43.00% | ~347 |
@@ -30,7 +30,7 @@ Rating: 4.66 (Ranked 294)
 | No Stone Unturned | 37.00% | ~299 |
 | Brain Food | 36.00% | ~291 |
 | Read It And Weep | 22.00% | ~178 |
-| Curiosity Killed The Cat | 19.00% | ~153 |
+| Curiosity Killed The Cat | 20.00% | ~161 |
 | Big Breakthrough | 14.00% | ~113 |
 | Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)

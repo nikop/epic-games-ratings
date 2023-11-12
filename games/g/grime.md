@@ -6,11 +6,11 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,316 |
-| Imprint | 4.00% | ~6,316 |
-| The Hunt | 3.00% | ~4,737 |
-| Weeper | 3.00% | ~4,737 |
-| Ravenous | 3.00% | ~4,737 |
+| Taste | 4.00% | ~6,317 |
+| Imprint | 4.00% | ~6,317 |
+| The Hunt | 3.00% | ~4,738 |
+| Weeper | 3.00% | ~4,738 |
+| Ravenous | 3.00% | ~4,738 |
 | Harmless | 2.00% | ~3,158 |
 | Silenced Whispers | 2.00% | ~3,158 |
 | Devourer | 2.00% | ~3,158 |
@@ -22,14 +22,14 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,579 |
 | Sharpened Vessel | 1.00% | ~1,579 |
 | Shapely | 0.90% | ~1,421 |
-| Glare | 0.90% | ~1,417 |
+| Glare | 0.90% | ~1,418 |
 | Predator | 0.80% | ~1,263 |
 | Assimilation | 0.70% | ~1,105 |
-| Host | 0.70% | ~1,102 |
+| Host | 0.70% | ~1,103 |
 | Celebration | 0.70% | ~1,105 |
-| Hunt Down | 0.60% | ~947 |
-| Inevitable | 0.60% | ~947 |
-| All-Seeing | 0.60% | ~947 |
+| Hunt Down | 0.60% | ~948 |
+| Inevitable | 0.60% | ~948 |
+| All-Seeing | 0.60% | ~948 |
 | Dream | 0.60% | ~945 |
 | Breath | 0.50% | ~790 |
 | Artisan | 0.50% | ~790 |
@@ -38,10 +38,10 @@ Number of Ratings: 46  (23.09.2022)
 | Bloodhunter | 0.40% | ~632 |
 | Unwrap the Gift | 0.40% | ~632 |
 | Passage | 0.40% | ~632 |
-| Zygote | 0.30% | ~472 |
+| Zygote | 0.30% | ~473 |
 | Kinship | 0.30% | ~474 |
-| Kin | 0.30% | ~472 |
-| Listen | 0.30% | ~472 |
+| Kin | 0.30% | ~473 |
+| Listen | 0.30% | ~473 |
 | Proportions | 0.30% | ~474 |
 | Weakness | 0.20% | ~316 |
 | Generous | 0.20% | ~316 |
@@ -50,10 +50,10 @@ Number of Ratings: 46  (23.09.2022)
 | Spiral Heart | 0.10% | ~158 |
 | Skinmaker | 0.10% | ~158 |
 | Instruments | 0.10% | ~158 |
-| The Nightmare | 0.10% | ~157 |
-| Touch of Otherwhere | 0.10% | ~157 |
+| The Nightmare | 0.10% | ~158 |
+| Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,912 (Ranked 76)  
+Progressed: 157,921 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
-| 2023-11-12 | 157,912 | 1 |
+| 2023-11-12 | 157,921 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
 Sum: 361 (Ranked 349)  

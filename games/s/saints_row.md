@@ -6,61 +6,61 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~36,759 |
-| To The Nines | 42.00% | ~32,848 |
-| Optimized | 37.00% | ~28,938 |
-| Performance Review | 36.00% | ~28,156 |
-| Making a Name | 35.00% | ~27,374 |
-| Tune Up | 34.00% | ~26,591 |
-| Landlord | 33.00% | ~25,809 |
-| Wet Work | 32.00% | ~25,027 |
-| The Side Job | 31.00% | ~24,245 |
-| Wrecking Ball | 28.00% | ~21,899 |
-| Food for Thought | 28.00% | ~21,899 |
-| Finders Keepers | 26.00% | ~20,335 |
-| A Young Empire | 26.00% | ~20,335 |
-| Work Ethic | 23.00% | ~17,988 |
-| Picking Fights | 20.00% | ~15,642 |
-| Power Players | 19.00% | ~14,860 |
-| Quality Time | 18.00% | ~14,078 |
-| Showdown | 17.00% | ~13,296 |
-| Et tu? | 17.00% | ~13,296 |
-| Took It to The Limit | 16.00% | ~12,514 |
-| Kitted Out | 14.00% | ~10,949 |
-| Masters of Santo Ileso | 12.00% | ~9,385 |
-| Hijacked | 11.00% | ~8,603 |
-| The Spins | 10.00% | ~7,821 |
-| The Mechanic | 10.00% | ~7,821 |
-| Closet Space | 8.00% | ~6,257 |
+| First F#@!ing Day | 47.00% | ~36,763 |
+| To The Nines | 42.00% | ~32,852 |
+| Optimized | 37.00% | ~28,941 |
+| Performance Review | 36.00% | ~28,159 |
+| Making a Name | 35.00% | ~27,377 |
+| Tune Up | 34.00% | ~26,595 |
+| Landlord | 33.00% | ~25,813 |
+| Wet Work | 32.00% | ~25,030 |
+| The Side Job | 31.00% | ~24,248 |
+| Wrecking Ball | 28.00% | ~21,902 |
+| Food for Thought | 28.00% | ~21,902 |
+| Finders Keepers | 26.00% | ~20,337 |
+| A Young Empire | 26.00% | ~20,337 |
+| Work Ethic | 23.00% | ~17,991 |
+| Picking Fights | 20.00% | ~15,644 |
+| Power Players | 19.00% | ~14,862 |
+| Quality Time | 18.00% | ~14,080 |
+| Showdown | 17.00% | ~13,297 |
+| Et tu? | 17.00% | ~13,297 |
+| Took It to The Limit | 16.00% | ~12,515 |
+| Kitted Out | 14.00% | ~10,951 |
+| Masters of Santo Ileso | 12.00% | ~9,386 |
+| Hijacked | 11.00% | ~8,604 |
+| The Spins | 10.00% | ~7,822 |
+| The Mechanic | 10.00% | ~7,822 |
+| Closet Space | 8.00% | ~6,258 |
 | We could go home, or… | 7.00% | ~5,475 |
 | Challenge Accepted | 7.00% | ~5,475 |
 | A Golden Age | 7.00% | ~5,475 |
-| Producer Credit | 7.00% | ~3,489 |
+| Producer Credit | 7.00% | ~3,490 |
 | Chaos Tamer | 6.00% | ~4,693 |
 | Face Off | 6.00% | ~2,991 |
-| The Professional | 5.00% | ~3,910 |
-| Untouchable | 5.00% | ~3,910 |
-| Free Refills | 5.00% | ~3,910 |
-| Neighborly | 5.00% | ~3,910 |
-| Prankster | 5.00% | ~3,910 |
-| Smooth Moves | 5.00% | ~3,910 |
-| Hazardous Heist | 5.00% | ~2,492 |
-| Tourist | 4.00% | ~3,128 |
-| Shopping Spree | 3.00% | ~2,346 |
-| Always Be Hustling | 3.00% | ~2,346 |
-| Community Outreach | 3.00% | ~2,346 |
+| The Professional | 5.00% | ~3,911 |
+| Untouchable | 5.00% | ~3,911 |
+| Free Refills | 5.00% | ~3,911 |
+| Neighborly | 5.00% | ~3,911 |
+| Prankster | 5.00% | ~3,911 |
+| Smooth Moves | 5.00% | ~3,911 |
+| Hazardous Heist | 5.00% | ~2,493 |
+| Tourist | 4.00% | ~3,129 |
+| Shopping Spree | 3.00% | ~2,347 |
+| Always Be Hustling | 3.00% | ~2,347 |
+| Community Outreach | 3.00% | ~2,347 |
 | Bonus Round | 2.00% | ~1,564 |
 | It's a Bird! | 1.00% | ~782 |
 | The Collector | 1.00% | ~782 |
 | All Mine | 1.00% | ~782 |
-| Jack of All Trades | 0.70% | ~547 |
-| Statement Pieces | 0.70% | ~547 |
-| Armor Piercing | 0.70% | ~547 |
-| Heard You Like Wheels | 0.70% | ~547 |
+| Jack of All Trades | 0.70% | ~548 |
+| Statement Pieces | 0.70% | ~548 |
+| Armor Piercing | 0.70% | ~548 |
+| Heard You Like Wheels | 0.70% | ~548 |
 | A Car Named Simone | 0.20% | ~156 |
 | Fiesta Time | 0.20% | ~156 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,210 (Ranked 95)  
+Progressed: 78,220 (Ranked 95)  
 Completed: 51 (0.07%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 51 (0.07%) (Ranked 288)
 | 2023-11-09 | 77,767 | 51 |
 | 2023-11-10 | 77,908 | 51 |
 | 2023-11-11 | 78,097 | 51 |
-| 2023-11-12 | 78,210 | 51 |
+| 2023-11-12 | 78,220 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
 Sum: 8,729 (Ranked 98)  

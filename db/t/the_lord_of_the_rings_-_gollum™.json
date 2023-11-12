@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1428,6 +1428,11 @@
       "Time": "2023-11-12T13:07:40.0879033+00:00",
       "NumProgressed": 558,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T17:04:31.7736115+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1479,7 +1484,7 @@
       "Name": "The Maggot",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Chapter3",
@@ -1541,9 +1546,9 @@
       "ID": "Collectibles1",
       "SetID": "70l3651",
       "Name": "Collectibles Part 1",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 291
     },
     {
       "ID": "Collectibles2",
@@ -1605,9 +1610,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 212
     },
     {
       "ID": "Memories",
@@ -1615,7 +1620,7 @@
       "Name": "Memories",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Murderer",
@@ -1647,7 +1652,7 @@
       "Name": "Master of the Old Game",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "RiverHobbit",
@@ -1717,23 +1722,23 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 296
     }
   ],
   "AchievementSets": [
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:04:57.6974355+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:04:31.7736111+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:57:54.3900993+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:04:57.6974751+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:57:54.8604869+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:04:31.7736485+00:00"
 }

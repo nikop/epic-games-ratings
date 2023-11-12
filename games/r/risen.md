@@ -36,9 +36,9 @@ Rating: 4.59 (Ranked 431)
 | Defender | 18.00% | ~6 |
 | Pandora's box | 18.00% | ~6 |
 | Safecracker | 18.00% | ~6 |
+| Freedom fighter | 15.00% | ~5 |
 | Master thief | 15.00% | ~5 |
 | Moneybags | 15.00% | ~5 |
-| Freedom fighter | 12.00% | ~4 |
 | Showdown | 12.00% | ~4 |
 | King of the handymen | 12.00% | ~4 |
 | Titan Lord | 9.00% | ~3 |

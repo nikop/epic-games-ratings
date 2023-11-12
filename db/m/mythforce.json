@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4823,
+  "EOS_Progressed": 4824,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9140,6 +9140,11 @@
       "Time": "2023-11-12T16:09:39.3981953+00:00",
       "NumProgressed": 4823,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-12T17:09:33.9813334+00:00",
+      "NumProgressed": 4824,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9184,7 +9189,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9208,7 +9213,7 @@
       "Name": "First Strike",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -9288,7 +9293,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -9312,7 +9317,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -9335,15 +9340,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4823,
+      "Progressed": 4824,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:09:39.3981949+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:09:33.9813327+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:57:49.497906+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:09:39.3982838+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:57:51.100975+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:09:33.98145+00:00"
 }

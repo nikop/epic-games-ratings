@@ -3,11 +3,11 @@
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
   "Ranking_Rating": 348,
-  "Ranking_Popularity": 515,
-  "Ranking_PopularitySum": 523,
+  "Ranking_Popularity": 512,
+  "Ranking_PopularitySum": 521,
   "Ranking_EOS_Progress": 65,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
@@ -257,21 +257,27 @@
       "Rating": 4.63,
       "NumberOfAwards": 25,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2023-11-12T16:58:04.2013666+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 25,
-  "NumberOfAwardsMax": 25,
+  "NumberOfAwards": 26,
+  "NumberOfAwardsMax": 26,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 25
+      "Count": 26
     }
   ],
-  "EOS_Progressed": 232192,
+  "EOS_Progressed": 232193,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
@@ -21306,6 +21312,11 @@
       "Time": "2023-11-12T16:06:44.6031108+00:00",
       "NumProgressed": 232192,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-12T17:05:53.8825125+00:00",
+      "NumProgressed": 232193,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 28,
@@ -21461,7 +21472,7 @@
       "Name": "... in the magical land of Foenum...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 78945
+      "UsersEstimate": 78946
     },
     {
       "ID": "OBTAIN_100_PERCENT_OF_COLLECTIBLES_ARIZONA",
@@ -21540,16 +21551,16 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 232192,
+      "Progressed": 232193,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2023-10-26T03:00:41.0552983+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:06:44.6031103+00:00",
+  "LastChanged": "2023-11-12T16:58:04.2013663+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:05:53.8825116+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:28.0275139+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:58:07.5127722+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:06:44.6033005+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:58:04.201367+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:05:53.8827786+00:00"
 }

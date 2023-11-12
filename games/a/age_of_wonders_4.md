@@ -8,8 +8,8 @@ Rating: 4.61 (Ranked 384)
 | But this one is mine | 2.00% | ~108 |
 | Secret Technique | 1.00% | ~54 |
 | Realm Estate | 0.90% | ~48 |
+| A Wonderful Discovery | 0.90% | ~48 |
 | Walls Cannot Stop Us | 0.90% | ~48 |
-| A Wonderful Discovery | 0.80% | ~43 |
 | From Friends to Family | 0.80% | ~43 |
 | Freed Lands of Manuhari | 0.80% | ~43 |
 | There Can Only Be One! | 0.60% | ~32 |
@@ -22,11 +22,11 @@ Rating: 4.61 (Ranked 384)
 | Digging for Treasure | 0.40% | ~22 |
 | Stronger Together | 0.40% | ~22 |
 | In a Liege of Your Own | 0.40% | ~22 |
+| Intimidation Tactics | 0.40% | ~22 |
 | Sehiran Oasis | 0.40% | ~22 |
 | Dawn of the Dread | 0.40% | ~22 |
 | Valley of Wonders | 0.30% | ~16 |
 | Impenetrable Fortress | 0.30% | ~16 |
-| Intimidation Tactics | 0.30% | ~16 |
 | Here be Dragons | 0.30% | ~16 |
 | Tipping the Scales | 0.30% | ~16 |
 | Blood of the Dragon | 0.30% | ~16 |
@@ -35,6 +35,7 @@ Rating: 4.61 (Ranked 384)
 | Seal the Deal | 0.30% | ~16 |
 | A Conqueror's Cohort | 0.30% | ~16 |
 | Return of the Wizard King | 0.20% | ~11 |
+| Lord of Chaos | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
 | The Creator | 0.20% | ~11 |
 | Enchanted Archipelago | 0.20% | ~11 |
@@ -47,7 +48,6 @@ Rating: 4.61 (Ranked 384)
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
-| Lord of Chaos | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,375 (Ranked 184)  
+Progressed: 5,378 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
-| 2023-11-12 | 5,375 | 7 |
+| 2023-11-12 | 5,378 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 481)  
 Sum: 53 (Ranked 474)  

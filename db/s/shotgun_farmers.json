@@ -1527,9 +1527,9 @@
       "ID": "ach_heal_x_points_with_health_pack",
       "SetID": "cmg602e",
       "Name": "Drinking Problem",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "ach_hit_tree_with_shovel",
@@ -2062,8 +2062,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:03:30.6143119+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:03:28.4598192+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:19.6209725+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:57:07.553484+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:03:30.614457+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:57:21.9336665+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:03:28.4599137+00:00"
 }

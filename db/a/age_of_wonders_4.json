@@ -453,9 +453,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5375,
+  "EOS_Progressed": 5378,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7033,6 +7033,11 @@
       "Time": "2023-11-12T16:04:13.2794274+00:00",
       "NumProgressed": 5375,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-12T17:03:59.6358444+00:00",
+      "NumProgressed": 5378,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7106,9 +7111,9 @@
       "ID": "17",
       "SetID": "3aa2279",
       "Name": "Lord of Chaos",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "18",
@@ -7162,9 +7167,9 @@
       "ID": "23",
       "SetID": "3aa2279",
       "Name": "A Wonderful Discovery",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "24",
@@ -7314,9 +7319,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "41",
@@ -7523,13 +7528,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5375,
+      "Progressed": 5378,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5375,
+      "Progressed": 5378,
       "Completed": 7
     }
   ],
@@ -7537,8 +7542,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-12T10:02:43.8760392+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:04:13.279427+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:03:59.6358436+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:02:41.3146037+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:04:13.2795761+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:02:53.2139198+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:03:59.6359501+00:00"
 }

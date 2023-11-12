@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17047,
+  "EOS_Progressed": 17050,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6494,6 +6494,11 @@
       "Time": "2023-11-12T16:03:30.0128362+00:00",
       "NumProgressed": 17047,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T17:03:28.0281142+00:00",
+      "NumProgressed": 17050,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6505,7 +6510,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16195
+      "UsersEstimate": 16198
     },
     {
       "ID": "ACH001",
@@ -6513,7 +6518,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14660
+      "UsersEstimate": 14663
     },
     {
       "ID": "ACH0010",
@@ -6521,7 +6526,7 @@
       "Name": "Table for Six",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1875
+      "UsersEstimate": 1876
     },
     {
       "ID": "ACH0011",
@@ -6529,7 +6534,7 @@
       "Name": "After All, Why Shouldn\u0027t I Keep It?",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "ACH0012",
@@ -6537,7 +6542,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8353
+      "UsersEstimate": 8354
     },
     {
       "ID": "ACH0013",
@@ -6545,7 +6550,7 @@
       "Name": "Make It Rain",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3921
+      "UsersEstimate": 3922
     },
     {
       "ID": "ACH0014",
@@ -6585,7 +6590,7 @@
       "Name": "Curse of the Seven Seas",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 3750
+      "UsersEstimate": 3751
     },
     {
       "ID": "ACH0019",
@@ -6601,7 +6606,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12274
+      "UsersEstimate": 12276
     },
     {
       "ID": "ACH0020",
@@ -6625,7 +6630,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5966
+      "UsersEstimate": 5968
     },
     {
       "ID": "ACH0023",
@@ -6657,7 +6662,7 @@
       "Name": "Double the Barrels, double the Fun",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 9205
+      "UsersEstimate": 9207
     },
     {
       "ID": "ACH004",
@@ -6665,7 +6670,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14831
+      "UsersEstimate": 14834
     },
     {
       "ID": "ACH005",
@@ -6681,7 +6686,7 @@
       "Name": "... And Where Do the Stories Come From?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 6819
+      "UsersEstimate": 6820
     },
     {
       "ID": "ACH007",
@@ -6712,7 +6717,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17047,
+      "Progressed": 17050,
       "Completed": 1
     }
   ],
@@ -6720,8 +6725,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:03:30.0128357+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:03:28.0281137+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.4914759+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:57:14.1979437+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:03:30.0129216+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:57:26.4510674+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:03:28.0282048+00:00"
 }

@@ -27,7 +27,7 @@
 | The Clash | 24.00% | ~25 |
 | TV Dreams | 24.00% | ~25 |
 | Dreamers | 20.00% | ~21 |
-| Time | 17.00% | ~18 |
+| Time | 18.00% | ~19 |
 | The Fix | 17.00% | ~18 |
 | Bad Trip | 15.00% | ~16 |
 | Regrets | 15.00% | ~16 |

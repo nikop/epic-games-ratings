@@ -4,7 +4,7 @@
   "ProductSlug": "godzillawars-2c30e4",
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
@@ -602,8 +602,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:05:54.0556396+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:05:16.0047073+00:00",
   "LastUpdate_AppInfo": "2023-11-07T03:57:00.1604084+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:00:20.558438+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:05:54.0557208+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:59:36.2838299+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:05:16.0047723+00:00"
 }

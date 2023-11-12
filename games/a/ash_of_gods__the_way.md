@@ -23,11 +23,11 @@
 | Rage | 12.00% | ~4 |
 | Protect the Healer! | 12.00% | ~4 |
 | She-Wolf | 12.00% | ~4 |
+| For the greater good | 9.00% | ~3 |
 | Overplay the rogue | 9.00% | ~3 |
 | Berkanan Borgia | 9.00% | ~3 |
 | Stronger than Gellian steel | 9.00% | ~3 |
 | By own strength | 9.00% | ~3 |
-| For the greater good | 6.00% | ~2 |
 | Collector | 6.00% | ~2 |
 | The best apprentice | 6.00% | ~2 |
 | The power of persuasion | 6.00% | ~2 |

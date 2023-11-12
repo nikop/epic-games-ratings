@@ -3117,9 +3117,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 161
     },
     {
       "ID": "MQ02_4",
@@ -3269,9 +3269,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 371
+      "UsersEstimate": 379
     },
     {
       "ID": "MQ08_1",
@@ -3318,8 +3318,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-05T09:59:32.7817162+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:08:16.0033555+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:08:30.7193383+00:00",
   "LastUpdate_AppInfo": "2023-11-11T14:57:10.4254324+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:58:55.2147969+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:08:16.0034237+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:58:36.8317948+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:08:30.7193795+00:00"
 }

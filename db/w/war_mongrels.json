@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 579,
+  "EOS_Progressed": 580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1912,6 +1912,11 @@
       "Time": "2023-11-12T15:08:29.0814043+00:00",
       "NumProgressed": 579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T17:09:04.5190936+00:00",
+      "NumProgressed": 580,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2033,9 +2038,9 @@
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2043,7 +2048,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -2147,7 +2152,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2155,7 +2160,7 @@
       "Name": "The Breaking Point",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2171,7 +2176,7 @@
       "Name": "Heroism",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2187,7 +2192,7 @@
       "Name": "Opportunities",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2195,7 +2200,7 @@
       "Name": "The Horror",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2211,7 +2216,7 @@
       "Name": "Vengeance",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -2267,7 +2272,7 @@
       "Name": "Missing in Action",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2307,7 +2312,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2315,7 +2320,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -2347,7 +2352,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -2394,15 +2399,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 579,
+      "Progressed": 580,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:09:01.2049594+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:09:04.5190931+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:01:00.2467767+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:09:01.2051371+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:00:02.9240242+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:09:04.5191639+00:00"
 }

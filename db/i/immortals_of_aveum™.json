@@ -5,9 +5,9 @@
   "Ranking_Rating": 985,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 353,
+  "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 264,
+  "EOS_Progressed": 265,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1217,6 +1217,11 @@
       "Time": "2023-11-12T12:08:28.5572975+00:00",
       "NumProgressed": 264,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T17:08:22.5411774+00:00",
+      "NumProgressed": 265,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1229,7 +1234,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "achievement_10",
@@ -1267,9 +1272,9 @@
       "ID": "achievement_14",
       "SetID": "18al4io",
       "Name": "Geas Aristeya",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 40
     },
     {
       "ID": "achievement_15",
@@ -1309,7 +1314,7 @@
       "Name": "Socialite",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_2",
@@ -1317,7 +1322,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "achievement_20",
@@ -1373,7 +1378,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_36",
@@ -1405,7 +1410,7 @@
       "Name": "No More Names",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "achievement_41",
@@ -1461,15 +1466,15 @@
       "Name": "Enlisted",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_5",
@@ -1477,7 +1482,7 @@
       "Name": "Initiate",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_50",
@@ -1523,9 +1528,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_60",
@@ -1587,9 +1592,9 @@
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "achievement_9",
@@ -1597,14 +1602,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 264,
+      "Progressed": 265,
       "Completed": 1
     }
   ],
@@ -1612,8 +1617,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-12T02:59:37.0772837+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:08:05.3151426+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:08:22.541177+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:00:27.2371002+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:08:05.3152115+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:59:40.4772688+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:08:22.5412292+00:00"
 }

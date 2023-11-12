@@ -205,9 +205,9 @@
       "ID": "NEW_ACHIEVEMENT_1_20",
       "SetID": "631i43e",
       "Name": "No Matrimony Back Then",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -341,9 +341,9 @@
       "ID": "NEW_ACHIEVEMENT_1_8",
       "SetID": "631i43e",
       "Name": "Goodbye Life",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -501,9 +501,9 @@
       "ID": "NEW_ACHIEVEMENT_2_25",
       "SetID": "631i43e",
       "Name": "Underwater Already",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_26",
@@ -628,8 +628,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:08:17.3627442+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:08:31.7717211+00:00",
   "LastUpdate_AppInfo": "2023-11-08T16:57:13.5237514+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:58:26.5119789+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:08:17.3628215+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:58:17.293576+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:08:31.7717943+00:00"
 }

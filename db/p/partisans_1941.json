@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1630,
+  "EOS_Progressed": 1631,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3629,6 +3629,11 @@
       "Time": "2023-11-12T12:07:16.6948696+00:00",
       "NumProgressed": 1630,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T17:08:15.9587039+00:00",
+      "NumProgressed": 1631,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3768,7 +3773,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "High_noon",
@@ -3816,7 +3821,7 @@
       "Name": "One by One",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "Miner",
@@ -3872,22 +3877,22 @@
       "Name": "Your Answer",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     }
   ],
   "AchievementSets": [
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1630,
+      "Progressed": 1631,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:07:56.3618329+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:08:15.9587034+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:01:34.0087604+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:07:56.3618866+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:00:25.504166+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:08:15.9587468+00:00"
 }

@@ -10,18 +10,18 @@ Rating: 3.95 (Ranked 1,005)
 | Downed but Not Outed | 2.00% | ~1,815 |
 | Too Old for This | 2.00% | ~1,815 |
 | Fancy Pants | 2.00% | ~1,815 |
-| Underworld Initiate | 1.00% | ~907 |
-| Roid Ranger | 1.00% | ~907 |
-| Case Closed | 1.00% | ~907 |
-| King of the Hill | 1.00% | ~907 |
-| Off the Rocks | 1.00% | ~907 |
-| Raider’s Ruin | 1.00% | ~907 |
-| Dragonslayer | 1.00% | ~907 |
-| Rockay Rex | 1.00% | ~907 |
+| Underworld Initiate | 1.00% | ~908 |
+| Roid Ranger | 1.00% | ~908 |
+| Case Closed | 1.00% | ~908 |
+| King of the Hill | 1.00% | ~908 |
+| Off the Rocks | 1.00% | ~908 |
+| Raider’s Ruin | 1.00% | ~908 |
+| Dragonslayer | 1.00% | ~908 |
+| Rockay Rex | 1.00% | ~908 |
 | Hidden Sonata | 0.80% | ~726 |
 | Track Star | 0.70% | ~635 |
 | True Player | 0.70% | ~635 |
-| Headhunter | 0.60% | ~544 |
+| Headhunter | 0.60% | ~545 |
 | I Like Trains | 0.50% | ~454 |
 | Freebooter | 0.50% | ~454 |
 | Legend Looter | 0.40% | ~363 |
@@ -32,22 +32,22 @@ Rating: 3.95 (Ranked 1,005)
 | Ding Dong | 0.40% | ~363 |
 | Savvy Seeker | 0.30% | ~272 |
 | All that Glitters | 0.30% | ~57 |
-| Rockay Raider | 0.20% | ~181 |
-| Rockay Knight | 0.20% | ~181 |
-| Privateer | 0.20% | ~181 |
-| Talent Scout | 0.20% | ~181 |
-| Groundhog Days | 0.20% | ~181 |
-| Cracked the Jack | 0.20% | ~181 |
-| Red Star | 0.20% | ~181 |
-| Classy Joint | 0.20% | ~181 |
-| Impossible Dreamer | 0.20% | ~181 |
+| Rockay Raider | 0.20% | ~182 |
+| Rockay Knight | 0.20% | ~182 |
+| Privateer | 0.20% | ~182 |
+| Talent Scout | 0.20% | ~182 |
+| Groundhog Days | 0.20% | ~182 |
+| Cracked the Jack | 0.20% | ~182 |
+| Red Star | 0.20% | ~182 |
+| Classy Joint | 0.20% | ~182 |
+| Impossible Dreamer | 0.20% | ~182 |
 | All for One | 0.20% | ~38 |
 | One for All | 0.20% | ~38 |
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,731 (Ranked 91)  
+Progressed: 90,755 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
 | 2023-11-11 | 90,531 | 55 |
-| 2023-11-12 | 90,731 | 55 |
+| 2023-11-12 | 90,755 | 55 |
 ## Awards
 Max (Diverse Characters): 527  (Ranked 203)  
 Sum: 3,005 (Ranked 175)  

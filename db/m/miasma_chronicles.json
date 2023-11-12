@@ -2,12 +2,12 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 689,
+  "Ranking_Rating": 690,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4064,9 +4064,9 @@
       "ID": "IM_THE_LAW",
       "SetID": "9a4jnji",
       "Name": "I am the law!",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 996
+      "UsersEstimate": 1012
     },
     {
       "ID": "INFILTRATOR",
@@ -4233,8 +4233,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:09:27.6414136+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:09:24.7655391+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.5514998+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:00:41.8001407+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:09:27.6415004+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:59:50.2428764+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:09:24.7656086+00:00"
 }

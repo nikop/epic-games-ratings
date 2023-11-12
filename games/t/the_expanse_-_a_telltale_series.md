@@ -7,14 +7,14 @@ Rating: 4.56 (Ranked 488)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 7.00% | ~1,042 |
 | Bosmang | 4.00% | ~595 |
-| The Pit and the Pirates | 3.00% | ~446 |
-| Drug Gifter | 3.00% | ~446 |
-| Martian Music | 3.00% | ~446 |
-| Drone Dodger | 3.00% | ~446 |
-| Call it Even | 3.00% | ~446 |
-| Captain Drummer | 3.00% | ~446 |
-| Celebrations are in Order | 3.00% | ~446 |
-| Impossible Objects | 3.00% | ~446 |
+| The Pit and the Pirates | 3.00% | ~447 |
+| Drug Gifter | 3.00% | ~447 |
+| Martian Music | 3.00% | ~447 |
+| Drone Dodger | 3.00% | ~447 |
+| Call it Even | 3.00% | ~447 |
+| Captain Drummer | 3.00% | ~447 |
+| Celebrations are in Order | 3.00% | ~447 |
+| Impossible Objects | 3.00% | ~447 |
 | Keep Arjun in Check | 3.00% | ~25 |
 | Safe Cracker | 3.00% | ~25 |
 | Zen Master | 3.00% | ~25 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 488)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,883 (Ranked 147)  
+Progressed: 14,886 (Ranked 147)  
 Completed: 34 (0.23%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 34 (0.23%) (Ranked 238)
 | 2023-11-09 | 14,788 | 33 |
 | 2023-11-10 | 14,816 | 34 |
 | 2023-11-11 | 14,854 | 34 |
-| 2023-11-12 | 14,883 | 34 |
+| 2023-11-12 | 14,886 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

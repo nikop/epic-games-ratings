@@ -7,18 +7,18 @@ Rating: 4.64 (Ranked 332)
 | ---- | ---------- | ----- |
 | Satisfied Gus-tomer | 3.00% | ~734 |
 | Cold-Blooded Driller | 3.00% | ~734 |
-| Creature Feature | 2.00% | ~489 |
-| Are You Packin'? | 2.00% | ~489 |
-| Bring A Knife to a Gun Fight | 2.00% | ~489 |
-| RIP Davey Glutes | 2.00% | ~489 |
-| Sweezy Like Sunday Morning | 2.00% | ~489 |
-| We're All Very Impressed, Trust Me | 2.00% | ~489 |
-| First Bounty Down | 2.00% | ~489 |
-| G3 Graduation | 2.00% | ~489 |
-| Hardest Battle In The Game | 2.00% | ~489 |
-| Self-Actualization | 2.00% | ~489 |
-| Who's The Boss? | 2.00% | ~489 |
-| Don't Knife The Hand That Feeds | 2.00% | ~489 |
+| Creature Feature | 2.00% | ~490 |
+| Are You Packin'? | 2.00% | ~490 |
+| Bring A Knife to a Gun Fight | 2.00% | ~490 |
+| RIP Davey Glutes | 2.00% | ~490 |
+| Sweezy Like Sunday Morning | 2.00% | ~490 |
+| We're All Very Impressed, Trust Me | 2.00% | ~490 |
+| First Bounty Down | 2.00% | ~490 |
+| G3 Graduation | 2.00% | ~490 |
+| Hardest Battle In The Game | 2.00% | ~490 |
+| Self-Actualization | 2.00% | ~490 |
+| Who's The Boss? | 2.00% | ~490 |
+| Don't Knife The Hand That Feeds | 2.00% | ~490 |
 | Eatin' Good in the Neighborhood | 1.00% | ~245 |
 | Lezduit! | 1.00% | ~245 |
 | Eye Scream, You Scream | 1.00% | ~245 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 332)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,473 (Ranked 125)  
+Progressed: 24,475 (Ranked 125)  
 Completed: 13 (0.05%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 13 (0.05%) (Ranked 299)
 | 2023-11-09 | 24,460 | 13 |
 | 2023-11-10 | 24,464 | 13 |
 | 2023-11-11 | 24,467 | 13 |
-| 2023-11-12 | 24,473 | 13 |
+| 2023-11-12 | 24,475 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

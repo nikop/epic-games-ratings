@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1441,9 +1441,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157912,
+  "EOS_Progressed": 157921,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1167,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15376,6 +15376,11 @@
       "Time": "2023-11-12T16:04:18.0196076+00:00",
       "NumProgressed": 157912,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T17:04:03.1878876+00:00",
+      "NumProgressed": 157921,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15427,7 +15432,7 @@
       "Name": "Zygote",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -15435,7 +15440,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4737
+      "UsersEstimate": 4738
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -15451,7 +15456,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6316
+      "UsersEstimate": 6317
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -15459,7 +15464,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4737
+      "UsersEstimate": 4738
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -15467,7 +15472,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -15499,7 +15504,7 @@
       "Name": "Glare",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -15507,7 +15512,7 @@
       "Name": "Host",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -15555,7 +15560,7 @@
       "Name": "Inevitable",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -15595,7 +15600,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -15603,7 +15608,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6316
+      "UsersEstimate": 6317
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -15659,7 +15664,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4737
+      "UsersEstimate": 4738
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -15699,7 +15704,7 @@
       "Name": "Kin",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "QUEST_LISTENER",
@@ -15707,7 +15712,7 @@
       "Name": "Listen",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "QUEST_YON",
@@ -15723,7 +15728,7 @@
       "Name": "The Nightmare",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "MISC_FINISHNG",
@@ -15731,7 +15736,7 @@
       "Name": "Touch of Otherwhere",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -15754,21 +15759,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157495,
+      "Progressed": 157504,
       "Completed": 1199
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157912,
+      "Progressed": 157921,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-12T13:02:03.969696+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:04:18.019607+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:04:03.1878871+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:59:34.2873694+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:04:18.019834+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:59:04.4520571+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:04:03.1880242+00:00"
 }

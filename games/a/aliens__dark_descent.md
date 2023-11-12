@@ -5,32 +5,32 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,950 |
-| Snatched Out | 74.00% | ~2,695 |
+| This Is Hayes, Pioneer Station, Signing Off | 81.00% | ~2,951 |
+| Snatched Out | 74.00% | ~2,696 |
 | Keep 'Em Coming | 73.00% | ~2,659 |
-| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,440 |
-| Call Me Snake | 63.00% | ~2,294 |
+| Cleaning Lethe, One Nest At A Time | 67.00% | ~2,441 |
+| Call Me Snake | 63.00% | ~2,295 |
 | Something Lurks Under The Hills | 61.00% | ~2,222 |
 | This Was No Papercut | 59.00% | ~2,149 |
-| People Person | 57.00% | ~2,076 |
-| The Shrink Hates Me | 57.00% | ~2,076 |
-| Use The Bumper, That's What It's For | 53.00% | ~1,930 |
-| First Steps Into Madness | 53.00% | ~1,930 |
-| Colonial Barrels | 51.00% | ~1,857 |
-| Harper's Hell | 46.00% | ~1,675 |
+| People Person | 57.00% | ~2,077 |
+| The Shrink Hates Me | 57.00% | ~2,077 |
+| Use The Bumper, That's What It's For | 53.00% | ~1,931 |
+| First Steps Into Madness | 53.00% | ~1,931 |
+| Colonial Barrels | 51.00% | ~1,858 |
+| Harper's Hell | 46.00% | ~1,676 |
 | Making a Stand | 45.00% | ~1,639 |
 | Damn Dude, You Gotta Lose Some Weight! | 42.00% | ~1,530 |
-| Where It All Begun | 41.00% | ~1,493 |
-| Recouped Investment | 39.00% | ~1,420 |
+| Where It All Begun | 41.00% | ~1,494 |
+| Recouped Investment | 39.00% | ~1,421 |
 | The More The Merrier | 35.00% | ~1,275 |
-| Omelette Du Fromage | 34.00% | ~1,238 |
-| Living Nightmare | 34.00% | ~1,238 |
+| Omelette Du Fromage | 34.00% | ~1,239 |
+| Living Nightmare | 34.00% | ~1,239 |
 | The Darwin Era Was Here | 31.00% | ~1,129 |
 | Deep Into Insanity | 29.00% | ~1,056 |
 | The Passenger | 29.00% | ~1,056 |
-| Come on, You Wanna Live Forever? | 27.00% | ~983 |
+| Come on, You Wanna Live Forever? | 27.00% | ~984 |
 | The Spire | 26.00% | ~947 |
-| El Riesgo Siempre Vive | 25.00% | ~910 |
+| El Riesgo Siempre Vive | 25.00% | ~911 |
 | Stuff Of Nightmares | 23.00% | ~838 |
 | Excavating The Truth | 23.00% | ~838 |
 | Abysmal Horrors | 22.00% | ~801 |
@@ -40,18 +40,18 @@ Rating: 4.50 (Ranked 588)
 | Bandage Lover | 19.00% | ~692 |
 | Regicide | 16.00% | ~583 |
 | This Went Smoothly | 14.00% | ~510 |
-| Flawless Victory | 13.00% | ~473 |
-| Heavy Steps | 13.00% | ~473 |
+| Flawless Victory | 13.00% | ~474 |
+| Heavy Steps | 13.00% | ~474 |
 | Perfect Enhancements | 10.00% | ~364 |
 | Hardened In The Heat Of Battle | 7.00% | ~255 |
 | The True Experience | 6.00% | ~219 |
 | Fair And Square | 3.00% | ~109 |
 | Archivist | 2.00% | ~73 |
 | Perfect Organism | 1.00% | ~36 |
-| This Ain't No Picnic | 0.70% | ~25 |
-| Chalk It Up To Experience | 0.70% | ~25 |
+| This Ain't No Picnic | 0.70% | ~26 |
+| Chalk It Up To Experience | 0.70% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,642 (Ranked 197)  
+Progressed: 3,643 (Ranked 197)  
 Completed: 3 (0.08%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -192,7 +192,7 @@ Completed: 3 (0.08%) (Ranked 284)
 | 2023-11-08 | 3,631 | 3 |
 | 2023-11-09 | 3,640 | 3 |
 | 2023-11-11 | 3,641 | 3 |
-| 2023-11-12 | 3,642 | 3 |
+| 2023-11-12 | 3,643 | 3 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 468)  
 Sum: 35 (Ranked 498)  

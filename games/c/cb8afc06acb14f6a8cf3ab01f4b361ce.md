@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 900)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309,084 (Ranked 49)  
+Progressed: 309,119 (Ranked 49)  
 Completed: 4 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 4 (0.00%) (Ranked 347)
 | 2023-11-09 | 306,560 | 3 |
 | 2023-11-10 | 307,359 | 4 |
 | 2023-11-11 | 308,408 | 4 |
-| 2023-11-12 | 309,084 | 4 |
+| 2023-11-12 | 309,119 | 4 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 414)  
 Sum: 58 (Ranked 472)  

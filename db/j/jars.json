@@ -4,7 +4,7 @@
   "ProductSlug": "jars-e39063",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 67,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-10-20T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.43,
+  "EOS_Completed_Percentage": 5.38,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:38.9338531+00:00",
@@ -329,6 +329,11 @@
       "Time": "2023-11-12T14:03:41.8717455+00:00",
       "NumProgressed": 92,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-12T17:04:02.2226759+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 20,
@@ -346,7 +351,7 @@
       "ID": "ACH_100_MINIONS_PLACED",
       "SetID": "3jfhgga",
       "Name": "I have an army!",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 25,
       "UsersEstimate": 58
     },
@@ -354,7 +359,7 @@
       "ID": "ACH_ALL_ENCYCLOPEDIA_ENTRIES",
       "SetID": "3jfhgga",
       "Name": "At least there is something to read",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -364,7 +369,7 @@
       "Name": "The child of the night",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_CHAPTER_1_DONE",
@@ -402,7 +407,7 @@
       "ID": "ACH_CHAPTER_5_DONE",
       "SetID": "3jfhgga",
       "Name": "Sarcophagus",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -412,7 +417,7 @@
       "Name": "Missing data",
       "Percentage": 85,
       "XP": 25,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_EQUIP_PERK",
@@ -420,7 +425,7 @@
       "Name": "It fits. IT FITS!",
       "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ACH_FIND_SECRET",
@@ -450,7 +455,7 @@
       "ID": "ACH_HERO_MASTER_1",
       "SetID": "3jfhgga",
       "Name": "I need a hero",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -466,7 +471,7 @@
       "ID": "ACH_SHOP_ALL_MINIONS",
       "SetID": "3jfhgga",
       "Name": "I love you all",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 6
     },
@@ -474,7 +479,7 @@
       "ID": "ACH_SHOP_ALL_PERKS",
       "SetID": "3jfhgga",
       "Name": "Skills to pay the bills",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -482,9 +487,9 @@
       "ID": "ACH_SHOP_FIRST_PURCHASE",
       "SetID": "3jfhgga",
       "Name": "Uncle will be happy",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_STAGE_LOST_FIRST_TIME",
@@ -492,14 +497,14 @@
       "Name": "Broken jar",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jfhgga",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 5
     }
   ],
@@ -507,8 +512,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.991429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:38.9338539+00:00",
   "LastChanged": "2023-03-31T05:58:01.9914291+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:04:16.726905+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:04:02.2226754+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:00.1770565+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:59:15.4077611+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:04:16.7269296+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:58:51.2394231+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:04:02.2226936+00:00"
 }

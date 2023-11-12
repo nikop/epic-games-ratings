@@ -372,9 +372,9 @@
       "ID": "SG_ACROSSTHESTYX",
       "SetID": "bj5g0n4",
       "Name": "Across The Styx",
-      "Percentage": 30,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -667,8 +667,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2023-11-12T16:03:21.6260328+00:00",
+  "LastChanged_Achievements": "2023-11-12T17:03:21.8431723+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:33.2500478+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:02:32.4686835+00:00",
-  "LastUpdate_Achievements": "2023-11-12T16:03:21.6260997+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:02:47.4070396+00:00",
+  "LastUpdate_Achievements": "2023-11-12T17:03:21.8432089+00:00"
 }

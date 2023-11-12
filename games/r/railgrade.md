@@ -5,25 +5,25 @@ Rating: 4.55 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Trevithick's Legacy | 103.00% | ~19,068 |
-| Before the Downfall | 98.00% | ~18,143 |
+| Trevithick's Legacy | 103.00% | ~19,067 |
+| Before the Downfall | 98.00% | ~18,142 |
 | Money like Water | 96.00% | ~17,772 |
-| Minimalist | 95.00% | ~17,587 |
-| Builder | 87.00% | ~16,106 |
-| Eraser | 74.00% | ~13,700 |
-| Pocket of Trains | 69.00% | ~12,774 |
-| Inspector | 62.00% | ~11,478 |
+| Minimalist | 95.00% | ~17,586 |
+| Builder | 87.00% | ~16,105 |
+| Eraser | 74.00% | ~13,699 |
+| Pocket of Trains | 69.00% | ~12,773 |
+| Inspector | 62.00% | ~11,477 |
 | Going the Distance | 57.00% | ~10,552 |
-| Oil Baron | 44.00% | ~8,146 |
-| Loads-a-Money | 44.00% | ~8,146 |
+| Oil Baron | 45.00% | ~8,330 |
+| Loads-a-Money | 44.00% | ~8,145 |
 | Helper of the People | 42.00% | ~7,775 |
-| Simplification | 36.00% | ~6,665 |
-| Box of Trains | 35.00% | ~6,480 |
+| Simplification | 36.00% | ~6,664 |
+| Box of Trains | 35.00% | ~6,479 |
 | Let There be Light | 34.00% | ~6,294 |
 | Hot Water | 33.00% | ~6,109 |
 | Indecisive | 31.00% | ~5,739 |
-| The scenic route | 29.00% | ~5,369 |
-| Industrialist | 27.00% | ~4,999 |
+| The scenic route | 29.00% | ~5,368 |
+| Industrialist | 27.00% | ~4,998 |
 | Perfectionist | 25.00% | ~4,628 |
 | 8K is Enough for Everyone | 24.00% | ~4,443 |
 | Trains over Pipes | 24.00% | ~4,443 |
@@ -33,7 +33,7 @@ Rating: 4.55 (Ranked 503)
 | Multiverse | 8.00% | ~1,481 |
 | The poor groundwater levels | 8.00% | ~1,481 |
 | Metropolis | 8.00% | ~1,481 |
-| High Flier | 4.00% | ~741 |
+| High Flier | 4.00% | ~740 |
 | To infinity, and beyond! | 3.00% | ~555 |
 | Space industrialization | 2.00% | ~370 |
 | Deertastic | 1.00% | ~185 |
@@ -43,7 +43,7 @@ Rating: 4.55 (Ranked 503)
 | Overdeer | 0.60% | ~111 |
 | Cloud Services | 0.30% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,513 (Ranked 139)  
+Progressed: 18,512 (Ranked 139)  
 Completed: 30 (0.16%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |

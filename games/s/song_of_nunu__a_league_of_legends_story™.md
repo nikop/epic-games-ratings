@@ -14,18 +14,18 @@
 | Krugmazing | 66.00% | ~435 |
 | The Fire Below the Mountain | 64.00% | ~422 |
 | Moneyball | 60.00% | ~395 |
+| Iceborn | 57.00% | ~376 |
 | No Bites | 56.00% | ~369 |
-| Iceborn | 56.00% | ~369 |
 | Tear of Freedom | 52.00% | ~343 |
 | Boom Things | 52.00% | ~343 |
 | My Darkest Day | 49.00% | ~323 |
 | Rhythm Of Willump | 47.00% | ~310 |
 | The Relentless Storm | 46.00% | ~303 |
 | A Tragic Reminder | 44.00% | ~290 |
-| 3000 Year Blackout | 42.00% | ~277 |
+| 3000 Year Blackout | 43.00% | ~283 |
 | True Legends | 41.00% | ~270 |
 | The Finisher | 41.00% | ~270 |
-| So Close | 38.00% | ~250 |
+| So Close | 39.00% | ~257 |
 | You Get Used To It | 38.00% | ~250 |
 | Bullseye | 36.00% | ~237 |
 | Boosted! | 36.00% | ~237 |

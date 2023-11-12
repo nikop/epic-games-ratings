@@ -16,23 +16,23 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 0.90% | ~59 |
 | Things that go Splash in the Night | 0.80% | ~52 |
 | School's Out for Summer | 0.60% | ~39 |
-| Goldfish? | 0.50% | ~32 |
-| Going for Gold | 0.50% | ~32 |
+| Goldfish? | 0.50% | ~33 |
+| Going for Gold | 0.50% | ~33 |
 | License to Gill | 0.40% | ~26 |
 | I'm Hooked! | 0.30% | ~20 |
 | I'm the Captain Now | 0.20% | ~13 |
-| More than a Tourist | 0.10% | ~6 |
-| Hook, Line and Sinker | 0.10% | ~6 |
-| Head for Heights | 0.10% | ~6 |
-| The Beetles | 0.10% | ~6 |
-| Lake Me up Before You Go Go | 0.10% | ~6 |
-| Marathon | 0.10% | ~6 |
-| Diamond in the Rough | 0.10% | ~6 |
-| No Fin left to give | 0.10% | ~6 |
-| Big Fish Small Pond | 0.10% | ~6 |
-| Golden Ridge Ranger | 0.10% | ~6 |
-| Buckaroo | 0.10% | ~6 |
-| Gonna Need a Bigger Boat | 0.10% | ~6 |
+| More than a Tourist | 0.10% | ~7 |
+| Hook, Line and Sinker | 0.10% | ~7 |
+| Head for Heights | 0.10% | ~7 |
+| The Beetles | 0.10% | ~7 |
+| Lake Me up Before You Go Go | 0.10% | ~7 |
+| Marathon | 0.10% | ~7 |
+| Diamond in the Rough | 0.10% | ~7 |
+| No Fin left to give | 0.10% | ~7 |
+| Big Fish Small Pond | 0.10% | ~7 |
+| Golden Ridge Ranger | 0.10% | ~7 |
+| Buckaroo | 0.10% | ~7 |
+| Gonna Need a Bigger Boat | 0.10% | ~7 |
 | Rod and Troll | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
 | Aguas Claras Conquistador | 0.10% | ~6 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,500 (Ranked 177)  
+Progressed: 6,502 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 6,467 | 0 |
 | 2023-11-10 | 6,476 | 0 |
 | 2023-11-11 | 6,494 | 0 |
-| 2023-11-12 | 6,500 | 0 |
+| 2023-11-12 | 6,502 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 192 (Ranked 403)  
