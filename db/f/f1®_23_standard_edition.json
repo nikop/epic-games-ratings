@@ -495,9 +495,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5697,
+  "EOS_Progressed": 5698,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 714,
+  "EOS_NewPlayers": 701,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5395,6 +5395,11 @@
       "Time": "2023-11-12T21:03:37.9263825+00:00",
       "NumProgressed": 5697,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T22:03:55.7262635+00:00",
+      "NumProgressed": 5698,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5407,7 +5412,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "achievement_0002",
@@ -5439,7 +5444,7 @@
       "Name": "Crucial Combo",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "achievement_0006",
@@ -5447,7 +5452,7 @@
       "Name": "Setting up for Success",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4273
+      "UsersEstimate": 4274
     },
     {
       "ID": "achievement_0007",
@@ -5455,7 +5460,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5298
+      "UsersEstimate": 5299
     },
     {
       "ID": "achievement_0008",
@@ -5463,7 +5468,7 @@
       "Name": "On the Top Step",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 4899
+      "UsersEstimate": 4900
     },
     {
       "ID": "achievement_0009",
@@ -5567,7 +5572,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4217
     },
     {
       "ID": "achievement_0022",
@@ -5631,7 +5636,7 @@
       "Name": "Reduce",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "achievement_0030",
@@ -5663,7 +5668,7 @@
       "Name": "Engineer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 3019
+      "UsersEstimate": 3020
     },
     {
       "ID": "achievement_0034",
@@ -5687,7 +5692,7 @@
       "Name": "Ups and Downs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "achievement_0037",
@@ -5767,7 +5772,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1367
+      "UsersEstimate": 1368
     },
     {
       "ID": "achievement_0047",
@@ -5789,16 +5794,16 @@
       "ID": "achievement_0049",
       "SetID": "9123ogc",
       "Name": "Proving Them Wrong",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 855
+      "UsersEstimate": 912
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5697,
+      "Progressed": 5698,
       "Completed": 0
     }
   ],
@@ -5806,8 +5811,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-12T15:00:20.0468985+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:03:37.9263819+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:03:55.7262629+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:59:57.0456008+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:03:37.9264487+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:00:42.8794628+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:03:55.7263269+00:00"
 }

@@ -7235,9 +7235,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "3",
@@ -7251,9 +7251,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "31",
@@ -7323,9 +7323,9 @@
       "ID": "39",
       "SetID": "3aa2279",
       "Name": "Impenetrable Fortress",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "4",
@@ -7427,9 +7427,9 @@
       "ID": "46",
       "SetID": "7132754",
       "Name": "Tipping the Scales",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "47",
@@ -7562,8 +7562,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-12T10:02:43.8760392+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:03:45.7800148+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:04:04.4689653+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T21:02:38.9788218+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:03:45.7800841+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:02:45.6693552+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:04:04.4690279+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 175,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -558,9 +558,9 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16362,
+  "EOS_Progressed": 16367,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -14008,6 +14008,11 @@
       "Time": "2023-11-12T21:05:27.5439896+00:00",
       "NumProgressed": 16362,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-12T22:05:59.5013207+00:00",
+      "NumProgressed": 16367,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -14035,7 +14040,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3763
+      "UsersEstimate": 3764
     },
     {
       "ID": "tpote_achievement_12",
@@ -14059,7 +14064,7 @@
       "Name": "Friends of sorts",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 5399
+      "UsersEstimate": 5401
     },
     {
       "ID": "tpote_achievement_15",
@@ -14091,7 +14096,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "tpote_achievement_19",
@@ -14099,7 +14104,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "tpote_achievement_2",
@@ -14107,7 +14112,7 @@
       "Name": "Yet another secret",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 5399
+      "UsersEstimate": 5401
     },
     {
       "ID": "tpote_achievement_20",
@@ -14123,7 +14128,7 @@
       "Name": "End of Book One",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4909
+      "UsersEstimate": 4910
     },
     {
       "ID": "tpote_achievement_22",
@@ -14131,7 +14136,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "tpote_achievement_23",
@@ -14155,7 +14160,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "tpote_achievement_26",
@@ -14163,7 +14168,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2127
+      "UsersEstimate": 2128
     },
     {
       "ID": "tpote_achievement_27",
@@ -14171,7 +14176,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "tpote_achievement_28",
@@ -14179,7 +14184,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1963
+      "UsersEstimate": 1964
     },
     {
       "ID": "tpote_achievement_29",
@@ -14195,7 +14200,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5236
+      "UsersEstimate": 5237
     },
     {
       "ID": "tpote_achievement_30",
@@ -14203,7 +14208,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1637
     },
     {
       "ID": "tpote_achievement_31",
@@ -14211,7 +14216,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "tpote_achievement_32",
@@ -14243,7 +14248,7 @@
       "Name": "Self-defense",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "tpote_achievement_36",
@@ -14267,7 +14272,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "tpote_achievement_39",
@@ -14283,7 +14288,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6545
+      "UsersEstimate": 6547
     },
     {
       "ID": "tpote_achievement_40",
@@ -14307,7 +14312,7 @@
       "Name": "Garden of Eden",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3928
     },
     {
       "ID": "tpote_achievement_6",
@@ -14315,7 +14320,7 @@
       "Name": "Full house",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3928
     },
     {
       "ID": "tpote_achievement_7",
@@ -14323,7 +14328,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1145
+      "UsersEstimate": 1146
     },
     {
       "ID": "tpote_achievement_8",
@@ -14331,7 +14336,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3436
+      "UsersEstimate": 3437
     },
     {
       "ID": "tpote_achievement_9",
@@ -14339,22 +14344,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 5563
+      "UsersEstimate": 5565
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16362,
+      "Progressed": 16367,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:05:27.5439891+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:05:59.5013202+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.2386539+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:57:37.2973382+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:05:27.5441003+00:00"
+  "LastUpdate_Ratings": "2023-11-12T21:58:01.0133102+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:05:59.5014052+00:00"
 }

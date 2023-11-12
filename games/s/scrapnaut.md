@@ -6,28 +6,28 @@ Number of Ratings: 38  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 63.00% | ~295 |
-| Scrap Gatherer | 58.00% | ~271 |
+| My New Home | 64.00% | ~300 |
+| Scrap Gatherer | 58.00% | ~272 |
 | Mushroom Picker | 57.00% | ~267 |
-| Scrapper | 47.00% | ~220 |
+| Scrapper | 46.00% | ~216 |
 | Cook | 45.00% | ~211 |
 | Teleport | 45.00% | ~211 |
 | Scrap Master | 39.00% | ~183 |
-| Smelter | 36.00% | ~168 |
-| Digger | 33.00% | ~154 |
-| Electro-Scrap Gatherer | 33.00% | ~154 |
+| Smelter | 36.00% | ~169 |
+| Digger | 33.00% | ~155 |
+| Electro-Scrap Gatherer | 33.00% | ~155 |
 | Survivor | 32.00% | ~150 |
-| Lumberjack | 31.00% | ~145 |
-| Robot Destroyer | 30.00% | ~140 |
+| Lumberjack | 30.00% | ~141 |
+| Robot Destroyer | 30.00% | ~141 |
 | Herbalist | 29.00% | ~136 |
-| Prepper | 27.00% | ~126 |
-| Electro-Scrap Master | 24.00% | ~112 |
+| Prepper | 27.00% | ~127 |
+| Electro-Scrap Master | 24.00% | ~113 |
 | Robot Hunter | 21.00% | ~98 |
 | Advanced Survivalist | 19.00% | ~89 |
 | Master Of Technology | 16.00% | ~75 |
 | Treasure Hunter | 16.00% | ~75 |
 | Mythical Smelter | 13.00% | ~61 |
-| Blacksmith | 11.00% | ~51 |
+| Blacksmith | 11.00% | ~52 |
 | Master Of Management | 10.00% | ~47 |
 | Forest Lord | 10.00% | ~47 |
 | Fuel | 10.00% | ~47 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~9 |
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 468 (Ranked 306)  
+Progressed: 469 (Ranked 306)  
 Completed: 1 (0.21%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,7 +175,7 @@ Completed: 1 (0.21%) (Ranked 244)
 | 2023-11-08 | 462 | 1 |
 | 2023-11-09 | 464 | 1 |
 | 2023-11-11 | 465 | 1 |
-| 2023-11-12 | 468 | 1 |
+| 2023-11-12 | 469 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

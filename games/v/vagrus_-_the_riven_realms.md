@@ -11,8 +11,8 @@
 | Conquered | 18.00% | ~34 |
 | Scribe | 9.00% | ~17 |
 | Breached | 9.00% | ~17 |
+| Conciliator | 8.00% | ~15 |
 | Tactician | 8.00% | ~15 |
-| Conciliator | 7.00% | ~13 |
 | Fight Another Day | 7.00% | ~13 |
 | Scholar | 6.00% | ~11 |
 | Acquaintance | 6.00% | ~11 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -144,9 +144,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 468,
+  "EOS_Progressed": 469,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1544,6 +1544,11 @@
       "Time": "2023-11-12T21:04:01.0647137+00:00",
       "NumProgressed": 468,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T22:04:21.3541741+00:00",
+      "NumProgressed": 469,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1555,7 +1560,7 @@
       "Name": "Digger",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -1579,7 +1584,7 @@
       "Name": "Electro-Scrap Master",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "ACH_COLLECT_100_SCRAP",
@@ -1619,7 +1624,7 @@
       "Name": "Blacksmith",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_COLLECT_30_BLUE_BOOKS",
@@ -1635,7 +1640,7 @@
       "Name": "Electro-Scrap Gatherer",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -1643,7 +1648,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_COOK",
@@ -1665,9 +1670,9 @@
       "ID": "ACH_CUT_20_TREES",
       "SetID": "7c4cldc",
       "Name": "Lumberjack",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 145
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_CUT_50_TREES",
@@ -1689,9 +1694,9 @@
       "ID": "ACH_FIRST_BASE",
       "SetID": "7c4cldc",
       "Name": "My New Home",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_KILL_100",
@@ -1705,9 +1710,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_KILL_50",
@@ -1715,7 +1720,7 @@
       "Name": "Robot Destroyer",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_MAKE_CANNED_FOOD",
@@ -1723,7 +1728,7 @@
       "Name": "Prepper",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -1763,7 +1768,7 @@
       "Name": "Smelter",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -1802,7 +1807,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 468,
+      "Progressed": 469,
       "Completed": 1
     }
   ],
@@ -1810,8 +1815,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-10-28T14:03:22.2767403+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:04:01.0647132+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:04:21.3541736+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.3233159+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:57:29.748155+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:04:01.0647362+00:00"
+  "LastUpdate_Ratings": "2023-11-12T21:57:52.2379988+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:04:21.3541944+00:00"
 }

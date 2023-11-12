@@ -6,24 +6,24 @@ Rating: 4.80 (Ranked 87)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Last Night...Did We... | 93.00% | ~7,486 |
-| I Challenge You To Save More Money! | 88.00% | ~7,083 |
-| I Love How Tough You Are | 75.00% | ~6,037 |
+| I Challenge You To Save More Money! | 88.00% | ~7,084 |
+| I Love How Tough You Are | 75.00% | ~6,038 |
 | Wanna Come To My Place For Dinner? | 69.00% | ~5,554 |
-| What I Want Is You | 63.00% | ~5,071 |
-| To Be Or Not To Be | 59.00% | ~4,749 |
-| Love Actually | 50.00% | ~4,024 |
-| Are You Alright? | 50.00% | ~4,024 |
-| Drama King | 43.00% | ~3,461 |
+| What I Want Is You | 63.00% | ~5,072 |
+| To Be Or Not To Be | 59.00% | ~4,750 |
+| Love Actually | 50.00% | ~4,025 |
+| Are You Alright? | 50.00% | ~4,025 |
+| Drama King | 43.00% | ~3,462 |
 | You're Really Something Else | 38.00% | ~3,059 |
 | Happy Family | 36.00% | ~2,898 |
 | ONE PUNCH | 36.00% | ~2,898 |
 | Go Clean up In Your Own Way | 36.00% | ~2,898 |
 | Worthless Speech | 36.00% | ~2,898 |
-| FIRST LOVE | 35.00% | ~2,817 |
-| Drama CP: Reel to Real | 35.00% | ~2,817 |
+| FIRST LOVE | 35.00% | ~2,818 |
+| Drama CP: Reel to Real | 35.00% | ~2,818 |
 | Absolutely Elegant | 34.00% | ~2,737 |
 | Still Single | 33.00% | ~2,656 |
-| Go Get Some Fries On The Pier | 31.00% | ~2,495 |
+| Go Get Some Fries On The Pier | 31.00% | ~2,496 |
 | Days Of Innocence | 30.00% | ~2,415 |
 | David | 30.00% | ~2,415 |
 | All I Have Is Money | 26.00% | ~2,093 |
@@ -48,7 +48,7 @@ Rating: 4.80 (Ranked 87)
 | Tall; Grande; Venti | 2.00% | ~161 |
 | Limerence | 2.00% | ~161 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,049 (Ranked 166)  
+Progressed: 8,050 (Ranked 166)  
 Completed: 126 (1.57%) (Ranked 135)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -84,7 +84,7 @@ Completed: 126 (1.57%) (Ranked 135)
 | 2023-11-09 | 7,622 | 117 |
 | 2023-11-10 | 7,767 | 120 |
 | 2023-11-11 | 7,917 | 126 |
-| 2023-11-12 | 8,049 | 126 |
+| 2023-11-12 | 8,050 | 126 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

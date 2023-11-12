@@ -29,9 +29,9 @@ Rating: 3.51 (Ranked 1,037)
 | Bell-ringer | 0.70% | ~12 |
 | Good Morning | 0.70% | ~12 |
 | Harvest’s End | 0.70% | ~12 |
+| Contingency Plans | 0.60% | ~11 |
 | Silence Is Golden | 0.60% | ~11 |
 | Helping Hand | 0.60% | ~11 |
-| Contingency Plans | 0.50% | ~9 |
 | Check, Please! | 0.50% | ~9 |
 | Right This Way | 0.50% | ~9 |
 | Curious Finch | 0.50% | ~9 |

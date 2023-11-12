@@ -23,7 +23,7 @@
 | Open door | 15.00% | ~80 |
 | Feels like springtime | 15.00% | ~80 |
 | Alchemists Express | 15.00% | ~80 |
-| Free at last | 12.00% | ~64 |
+| Free at last | 13.00% | ~69 |
 | A Link to the Past | 11.00% | ~59 |
 | Rascal | 11.00% | ~59 |
 | A great audience | 10.00% | ~53 |
@@ -31,7 +31,7 @@
 | Fashion victim | 3.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 534 (Ranked 297)  
-Completed: 28 (5.24%) (Ranked 69)  
+Completed: 29 (5.43%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -143,4 +143,4 @@ Completed: 28 (5.24%) (Ranked 69)
 | 2023-11-09 | 505 | 28 |
 | 2023-11-10 | 512 | 28 |
 | 2023-11-11 | 525 | 28 |
-| 2023-11-12 | 534 | 28 |
+| 2023-11-12 | 534 | 29 |

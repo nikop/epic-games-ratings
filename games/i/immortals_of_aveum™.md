@@ -6,17 +6,17 @@ Rating: 4.04 (Ranked 985)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 89.00% | ~239 |
-| Battlefields Have Memories | 84.00% | ~225 |
-| Enlisted | 81.00% | ~217 |
-| Maybe Engage a Little | 76.00% | ~204 |
-| No More Names | 63.00% | ~169 |
-| Initiate | 49.00% | ~131 |
-| Thrada-Kul | 43.00% | ~115 |
-| Gravity-Challenged Rocks | 34.00% | ~91 |
+| Battlefields Have Memories | 85.00% | ~229 |
+| Enlisted | 82.00% | ~221 |
+| Maybe Engage a Little | 77.00% | ~207 |
+| No More Names | 62.00% | ~167 |
+| Initiate | 48.00% | ~129 |
+| Thrada-Kul | 43.00% | ~116 |
+| Gravity-Challenged Rocks | 33.00% | ~89 |
 | Soldier | 29.00% | ~78 |
 | All the Major Food Groups | 29.00% | ~78 |
 | Socialite | 26.00% | ~70 |
-| Beggars Would Ride | 24.00% | ~64 |
+| Beggars Would Ride | 24.00% | ~65 |
 | Control is an Illusion | 22.00% | ~59 |
 | The Means to Save It | 19.00% | ~51 |
 | Resilience to Sin | 17.00% | ~46 |
@@ -27,10 +27,10 @@ Rating: 4.04 (Ranked 985)
 | Armsman | 14.00% | ~38 |
 | Recruit | 13.00% | ~35 |
 | Lights Army | 9.00% | ~24 |
-| Periapt Cerulean | 8.00% | ~21 |
-| Good Boy | 8.00% | ~21 |
+| Periapt Cerulean | 8.00% | ~22 |
+| Good Boy | 8.00% | ~22 |
+| Periapt Viridian | 7.00% | ~19 |
 | Best Dressed | 6.00% | ~16 |
-| Periapt Viridian | 6.00% | ~16 |
 | Shroudfane Explorer | 6.00% | ~16 |
 | Armaments Azure | 5.00% | ~13 |
 | Armaments Gules | 4.00% | ~11 |
@@ -53,8 +53,8 @@ Rating: 4.04 (Ranked 985)
 | Tip of the Spear | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268 (Ranked 351)  
-Completed: 1 (0.37%) (Ranked 216)  
+Progressed: 269 (Ranked 350)  
+Completed: 1 (0.37%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,7 +104,7 @@ Completed: 1 (0.37%) (Ranked 216)
 | 2023-11-09 | 230 | 1 |
 | 2023-11-10 | 242 | 1 |
 | 2023-11-11 | 261 | 1 |
-| 2023-11-12 | 268 | 1 |
+| 2023-11-12 | 269 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

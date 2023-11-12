@@ -6,32 +6,32 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~395 |
-| Cowardice | 61.00% | ~354 |
-| NO LIFE IS WORTH SAVING... | 51.00% | ~296 |
+| Explorer | 68.00% | ~396 |
+| Cowardice | 61.00% | ~355 |
+| NO LIFE IS WORTH SAVING... | 51.00% | ~297 |
 | Eat Lead! | 49.00% | ~285 |
-| The Breaking Point | 46.00% | ~267 |
-| Prospector | 45.00% | ~261 |
-| Here Comes the Boom | 45.00% | ~261 |
-| Treasure Hunter | 41.00% | ~238 |
-| Sniper Wolf | 41.00% | ~238 |
+| The Breaking Point | 46.00% | ~268 |
+| Prospector | 45.00% | ~262 |
+| Here Comes the Boom | 45.00% | ~262 |
+| Treasure Hunter | 41.00% | ~239 |
+| Sniper Wolf | 41.00% | ~239 |
 | The Motivation | 39.00% | ~227 |
 | Heroism | 37.00% | ~215 |
 | Missing in Action | 37.00% | ~215 |
-| Collectibles of Chapter I | 35.00% | ~203 |
-| King of Knives | 35.00% | ~203 |
+| Collectibles of Chapter I | 35.00% | ~204 |
+| King of Knives | 35.00% | ~204 |
 | Consequences | 33.00% | ~192 |
 | Opportunities | 32.00% | ~186 |
-| The Horror | 30.00% | ~174 |
+| The Horror | 30.00% | ~175 |
 | The Difference | 28.00% | ~163 |
-| Vengeance | 27.00% | ~157 |
-| Collectibles of Chapter II | 24.00% | ~139 |
-| Broken Hopes | 24.00% | ~139 |
+| Vengeance | 26.00% | ~151 |
+| Collectibles of Chapter II | 24.00% | ~140 |
+| Broken Hopes | 24.00% | ~140 |
 | Bullseye! | 23.00% | ~134 |
 | It's Just an Accident | 22.00% | ~128 |
 | Sorrow | 21.00% | ~122 |
 | Food Massacre | 20.00% | ~116 |
-| Atonement | 19.00% | ~110 |
+| Atonement | 19.00% | ~111 |
 | Helping Hand | 16.00% | ~93 |
 | Without a Second Thought | 16.00% | ~93 |
 | Collectibles of Chapter III | 15.00% | ~87 |
@@ -42,11 +42,11 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter XII | 7.00% | ~41 |
 | Piece of Cake | 7.00% | ~41 |
 | Collectibles of Chapter VII | 6.00% | ~35 |
-| The Good Samaritan | 6.00% | ~35 |
 | It Will Rain | 6.00% | ~35 |
 | Not Spill a Drop | 6.00% | ~35 |
 | Collectibles of Chapter VIII | 5.00% | ~29 |
 | Collectibles of Chapter XI | 5.00% | ~29 |
+| The Good Samaritan | 5.00% | ~29 |
 | Collectibles of Chapter IX | 3.00% | ~17 |
 | Collectibles of Chapter X | 3.00% | ~17 |
 | Collectibles of Chapter VI | 2.00% | ~12 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.00% | ~0 |
 | Challenges of Chapter XII | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 581 (Ranked 289)  
+Progressed: 582 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 0 (0.00%) (Ranked 349)
 | 2023-11-09 | 572 | 0 |
 | 2023-11-10 | 573 | 0 |
 | 2023-11-11 | 578 | 0 |
-| 2023-11-12 | 581 | 0 |
+| 2023-11-12 | 582 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -17,22 +17,23 @@ Rating: 4.61 (Ranked 384)
 | Bone Peddler | 0.70% | ~38 |
 | Magical Synergy | 0.60% | ~32 |
 | Seat of Power | 0.60% | ~32 |
+| Stronger Together | 0.50% | ~27 |
 | In a Liege of Your Own | 0.50% | ~27 |
 | Chaos Surge | 0.50% | ~27 |
 | Spoils of War | 0.50% | ~27 |
 | Valley of Wonders | 0.40% | ~22 |
 | Digging for Treasure | 0.40% | ~22 |
-| Stronger Together | 0.40% | ~22 |
+| Impenetrable Fortress | 0.40% | ~22 |
 | Intimidation Tactics | 0.40% | ~22 |
+| Tipping the Scales | 0.40% | ~22 |
 | Mighty Hoard | 0.40% | ~22 |
 | Sehiran Oasis | 0.40% | ~22 |
 | Seal the Deal | 0.40% | ~22 |
 | Dawn of the Dread | 0.40% | ~22 |
 | Enchanted Archipelago | 0.30% | ~16 |
+| Preparation Is Everything | 0.30% | ~16 |
 | My Final Form | 0.30% | ~16 |
-| Impenetrable Fortress | 0.30% | ~16 |
 | Here be Dragons | 0.30% | ~16 |
-| Tipping the Scales | 0.30% | ~16 |
 | Blood of the Dragon | 0.30% | ~16 |
 | Prometheus Avenged | 0.30% | ~16 |
 | A Conqueror's Cohort | 0.30% | ~16 |
@@ -41,7 +42,6 @@ Rating: 4.61 (Ranked 384)
 | Arch Mage | 0.20% | ~11 |
 | The Creator | 0.20% | ~11 |
 | Crimson Caldera | 0.20% | ~11 |
-| Preparation Is Everything | 0.20% | ~11 |
 | Fiery Friend | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |

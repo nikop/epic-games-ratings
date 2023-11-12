@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68185,
+  "EOS_Progressed": 68188,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14848,6 +14848,11 @@
       "Time": "2023-11-12T21:05:16.2178574+00:00",
       "NumProgressed": 68185,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-12T22:05:46.3495731+00:00",
+      "NumProgressed": 68188,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -14867,7 +14872,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -14963,7 +14968,7 @@
       "Name": "Phone Bill",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_READCLUES",
@@ -14995,7 +15000,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -15018,7 +15023,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 68185,
+      "Progressed": 68188,
       "Completed": 18
     }
   ],
@@ -15026,8 +15031,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:05:16.2178572+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:05:46.3495728+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:17.1374878+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:58:36.2415343+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:05:16.2179458+00:00"
+  "LastUpdate_Ratings": "2023-11-12T21:59:10.2743644+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:05:46.3496488+00:00"
 }

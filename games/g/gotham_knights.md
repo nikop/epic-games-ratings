@@ -5,10 +5,10 @@ Rating: 4.18 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,939 |
+| First Step Into the Knight | 51.00% | ~38,940 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,723 |
-| Loose Ends | 34.00% | ~25,959 |
-| To the Victor Go the Spoils | 28.00% | ~21,378 |
+| Loose Ends | 34.00% | ~25,960 |
+| To the Victor Go the Spoils | 28.00% | ~21,379 |
 | Knighthood | 27.00% | ~20,615 |
 | Get ReQ'd | 25.00% | ~19,088 |
 | Whispered Words | 25.00% | ~19,088 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,351 (Ranked 97)  
+Progressed: 76,352 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 123 (0.16%) (Ranked 257)
 | 2023-11-09 | 76,210 | 123 |
 | 2023-11-10 | 76,243 | 123 |
 | 2023-11-11 | 76,302 | 123 |
-| 2023-11-12 | 76,351 | 123 |
+| 2023-11-12 | 76,352 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,929  (Ranked 98)  
 Sum: 4,972 (Ranked 137)  

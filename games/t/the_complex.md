@@ -8,7 +8,7 @@
 | Blast From The Past | 86.00% | ~541 |
 | Kamikaze | 65.00% | ~409 |
 | The Rebel And The Doctor | 58.00% | ~365 |
-| Beat It | 51.00% | ~321 |
+| Beat It | 52.00% | ~327 |
 | Free Champagne | 48.00% | ~302 |
 | Storage Hunter | 48.00% | ~302 |
 | Falling For You | 44.00% | ~277 |

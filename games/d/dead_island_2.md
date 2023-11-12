@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~862 |
-| Whatever It Takes | 2.00% | ~862 |
-| Pork Chopped | 2.00% | ~862 |
-| Hotel California | 0.80% | ~5,740 |
-| Welcome To Hell-A | 0.80% | ~5,740 |
+| One of Us | 2.00% | ~863 |
+| Whatever It Takes | 2.00% | ~863 |
+| Pork Chopped | 2.00% | ~863 |
+| Hotel California | 0.80% | ~5,741 |
+| Welcome To Hell-A | 0.80% | ~5,741 |
 | Break A Leg | 0.70% | ~5,023 |
 | Coup de Grâce | 0.70% | ~5,023 |
 | Hazardous Materials | 0.70% | ~5,023 |
 | Personal Assistant Personally Assisted | 0.70% | ~5,023 |
-| Dr. Reed, I Presume? | 0.60% | ~4,305 |
-| Git Gutte! | 0.60% | ~4,305 |
-| Anger Management | 0.60% | ~4,305 |
-| Bookworm | 0.60% | ~4,305 |
-| But Doctor, I am Butcho | 0.60% | ~4,305 |
-| Friends Like These | 0.60% | ~4,305 |
-| Apex Predator | 0.60% | ~4,305 |
-| Stacking the Deck | 0.60% | ~4,305 |
-| This is My Weapon | 0.60% | ~4,305 |
+| Dr. Reed, I Presume? | 0.60% | ~4,306 |
+| Git Gutte! | 0.60% | ~4,306 |
+| Anger Management | 0.60% | ~4,306 |
+| Bookworm | 0.60% | ~4,306 |
+| But Doctor, I am Butcho | 0.60% | ~4,306 |
+| Friends Like These | 0.60% | ~4,306 |
+| Apex Predator | 0.60% | ~4,306 |
+| Stacking the Deck | 0.60% | ~4,306 |
+| This is My Weapon | 0.60% | ~4,306 |
 | Perks of the Job | 0.50% | ~3,588 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,588 |
 | Slayer Squad | 0.50% | ~3,588 |
@@ -31,13 +31,14 @@ Rating: 4.54 (Ranked 524)
 | Zombologist | 0.50% | ~3,588 |
 | Ooh, Shiny! | 0.50% | ~3,588 |
 | A Patton Emerges | 0.50% | ~3,588 |
+| Max Headroom | 0.50% | ~3,588 |
 | Our True Nature | 0.50% | ~3,588 |
 | Making Your Mark | 0.40% | ~2,870 |
 | Not Even My Final Form | 0.40% | ~2,870 |
 | Humanity Distilled | 0.40% | ~2,870 |
 | I Am the Resurrection | 0.40% | ~2,870 |
-| Max Headroom | 0.40% | ~2,870 |
 | On Safari | 0.30% | ~2,153 |
+| Internet Famous | 0.30% | ~2,153 |
 | Jumbo Keyring | 0.30% | ~2,153 |
 | Down with the Sickness | 0.30% | ~2,153 |
 | Go, Bobcats! | 0.30% | ~2,153 |
@@ -46,7 +47,6 @@ Rating: 4.54 (Ranked 524)
 | Make it So | 0.20% | ~1,435 |
 | LA Influential | 0.20% | ~1,435 |
 | Smorgasbord | 0.20% | ~1,435 |
-| Internet Famous | 0.20% | ~1,435 |
 | Gore Horse | 0.20% | ~1,435 |
 | Top That, Tisha! | 0.20% | ~86 |
 | Donk! | 0.10% | ~718 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,562 (Ranked 20)  
+Progressed: 717,604 (Ranked 20)  
 Completed: 2,385 (0.33%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 2,385 (0.33%) (Ranked 222)
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
-| 2023-11-12 | 717,562 | 2,385 |
+| 2023-11-12 | 717,604 | 2,385 |
 ## Awards
 Max (Great Boss Battles): 7,376  (Ranked 51)  
 Sum: 11,188 (Ranked 85)  

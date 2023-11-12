@@ -4,7 +4,7 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -786,9 +786,9 @@
       "ID": "Vanilla_AppeaseInAFight",
       "SetID": "27kik8p",
       "Name": "Conciliator",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "Vanilla_AutoSavesOnly",
@@ -1531,8 +1531,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:05:21.8599922+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:05:52.9229111+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.6346975+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:57:29.8622608+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:05:21.8600822+00:00"
+  "LastUpdate_Ratings": "2023-11-12T21:57:52.3793149+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:05:52.9230117+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewPlayers": 93,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10345,10 +10345,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 47976,
       "NumberOfAwardsMax": 24229
+    },
+    {
+      "Time": "2023-11-12T22:00:03.638752+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47981,
+      "NumberOfAwardsMax": 24229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47976,
+  "NumberOfAwards": 47981,
   "NumberOfAwardsMax": 24229,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10374,7 +10380,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1196
+      "Count": 1201
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10425,9 +10431,9 @@
       "Count": 778
     }
   ],
-  "EOS_Progressed": 301976,
+  "EOS_Progressed": 301979,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 831,
+  "EOS_NewPlayers": 819,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32630,6 +32636,11 @@
       "Time": "2023-11-12T21:08:58.5861469+00:00",
       "NumProgressed": 301976,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-11-12T22:09:24.4008667+00:00",
+      "NumProgressed": 301979,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 45,
@@ -32641,7 +32652,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48316
+      "UsersEstimate": 48317
     },
     {
       "ID": "PFA_10",
@@ -32649,7 +32660,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33217
+      "UsersEstimate": 33218
     },
     {
       "ID": "PFA_11",
@@ -32657,7 +32668,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33217
+      "UsersEstimate": 33218
     },
     {
       "ID": "PFA_12",
@@ -32665,7 +32676,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33217
+      "UsersEstimate": 33218
     },
     {
       "ID": "PFA_13",
@@ -32697,7 +32708,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33217
+      "UsersEstimate": 33218
     },
     {
       "ID": "PFA_17",
@@ -32745,7 +32756,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33217
+      "UsersEstimate": 33218
     },
     {
       "ID": "PFA_22",
@@ -32769,7 +32780,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33217
+      "UsersEstimate": 33218
     },
     {
       "ID": "PFA_25",
@@ -32897,7 +32908,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33217
+      "UsersEstimate": 33218
     },
     {
       "ID": "PFA_4",
@@ -33000,16 +33011,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301976,
+      "Progressed": 301979,
       "Completed": 510
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-12T20:00:51.9522158+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:08:58.5861458+00:00",
+  "LastChanged": "2023-11-12T22:00:03.6387518+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:09:24.4008662+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:59:24.6189485+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:08:58.5863179+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:00:03.6387524+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:09:24.4009702+00:00"
 }

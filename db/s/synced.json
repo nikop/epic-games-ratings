@@ -1035,7 +1035,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66507,
+  "EOS_Progressed": 66510,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 5,
@@ -8890,6 +8890,11 @@
       "Time": "2023-11-12T21:05:19.8527913+00:00",
       "NumProgressed": 66507,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-12T22:05:50.3937355+00:00",
+      "NumProgressed": 66510,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8902,7 +8907,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22612
+      "UsersEstimate": 22613
     },
     {
       "ID": "10",
@@ -8942,7 +8947,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "15",
@@ -8966,7 +8971,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11306
+      "UsersEstimate": 11307
     },
     {
       "ID": "3",
@@ -8998,7 +9003,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3990
+      "UsersEstimate": 3991
     },
     {
       "ID": "7",
@@ -9029,7 +9034,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66507,
+      "Progressed": 66510,
       "Completed": 32
     }
   ],
@@ -9037,8 +9042,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-12T20:01:07.7627389+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:05:19.852791+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:05:50.3937353+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6308067+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:59:34.8935811+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:05:19.8528275+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:00:15.1705404+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:05:50.3937806+00:00"
 }

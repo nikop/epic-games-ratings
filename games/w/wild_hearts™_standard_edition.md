@@ -22,7 +22,7 @@
 | Bonds of Enmity | 52.00% | ~142 |
 | Master of the Skies | 51.00% | ~140 |
 | Counter Specialist | 48.00% | ~132 |
-| Axer of Auspice | 45.00% | ~123 |
+| Axer of Auspice | 46.00% | ~126 |
 | Mighty Marmelizer | 42.00% | ~115 |
 | Single Minded | 41.00% | ~112 |
 | Fair Means or Foul | 41.00% | ~112 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -3984,9 +3984,9 @@
       "ID": "EXPERIENCED",
       "SetID": "9a4jnji",
       "Name": "Experienced",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 522
     },
     {
       "ID": "FIRESTARTER",
@@ -4233,8 +4233,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:08:56.8126076+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:09:22.2855706+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.5514998+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:59:32.288591+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:08:56.8126783+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:00:12.5516177+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:09:22.2856224+00:00"
 }

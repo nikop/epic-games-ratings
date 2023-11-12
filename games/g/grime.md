@@ -11,9 +11,9 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 4.00% | ~6,319 |
 | Weeper | 3.00% | ~4,739 |
 | Ravenous | 3.00% | ~4,739 |
-| Harmless | 2.00% | ~3,159 |
-| Silenced Whispers | 2.00% | ~3,159 |
-| Devourer | 2.00% | ~3,159 |
+| Harmless | 2.00% | ~3,160 |
+| Silenced Whispers | 2.00% | ~3,160 |
+| Devourer | 2.00% | ~3,160 |
 | Scion | 1.00% | ~1,576 |
 | Jawcrab | 1.00% | ~1,580 |
 | Jawstag | 1.00% | ~1,580 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,969 (Ranked 76)  
+Progressed: 157,981 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 1 (0.00%) (Ranked 349)
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
-| 2023-11-12 | 157,969 | 1 |
+| 2023-11-12 | 157,981 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
 Sum: 361 (Ranked 349)  

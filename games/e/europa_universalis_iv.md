@@ -123,6 +123,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Marshy March | 0.10% | ~454 |
 | Mary of Lotharingia | 0.10% | ~454 |
 | Mehmet's Ambition | 0.10% | ~454 |
+| Mewar Never Changes | 0.10% | ~454 |
 | Multiculturalism | 0.10% | ~454 |
 | My armies are invincible! | 0.10% | ~454 |
 | My True Friend | 0.10% | ~454 |
@@ -289,7 +290,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mass Production | 0.00% | ~0 |
 | Master of India | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
-| Mewar Never Changes | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
 | Neither Holy, Nor German | 0.00% | ~0 |
 | Never say Nevers | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,203 (Ranked 41)  
+Progressed: 454,238 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 1 (0.00%) (Ranked 349)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 454,203 | 1 |
+| 2023-11-12 | 454,238 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
 Sum: 57,283 (Ranked 24)  

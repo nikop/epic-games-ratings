@@ -6,8 +6,8 @@
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_Completed": 237,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -262,18 +262,24 @@
       "Rating": 4.33,
       "NumberOfAwards": 665,
       "NumberOfAwardsMax": 570
+    },
+    {
+      "Time": "2023-11-12T21:57:57.5240774+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 666,
+      "NumberOfAwardsMax": 571
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 665,
-  "NumberOfAwardsMax": 570,
+  "NumberOfAwards": 666,
+  "NumberOfAwardsMax": 571,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 570
+      "Count": 571
     },
     {
       "Text": "This game is Highly Recommended",
@@ -312,9 +318,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205202,
+  "EOS_Progressed": 205206,
   "EOS_Completed": 527,
-  "EOS_NewPlayers": 435,
+  "EOS_NewPlayers": 439,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -22462,6 +22468,11 @@
       "Time": "2023-11-12T21:06:25.9307191+00:00",
       "NumProgressed": 205202,
       "NumCompleted": 527
+    },
+    {
+      "Time": "2023-11-12T22:08:15.0695623+00:00",
+      "NumProgressed": 205206,
+      "NumCompleted": 527
     }
   ],
   "TotalAchievements": 29,
@@ -22497,7 +22508,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192890
+      "UsersEstimate": 192894
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -22657,7 +22668,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20520
+      "UsersEstimate": 20521
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -22704,16 +22715,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205202,
+      "Progressed": 205206,
       "Completed": 527
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2023-11-11T09:02:28.7109082+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:06:25.9307185+00:00",
+  "LastChanged": "2023-11-12T21:57:57.5240772+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:08:15.069562+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:01.2634588+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:57:34.3095755+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:06:25.9308664+00:00"
+  "LastUpdate_Ratings": "2023-11-12T21:57:57.5240776+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:08:15.0696911+00:00"
 }

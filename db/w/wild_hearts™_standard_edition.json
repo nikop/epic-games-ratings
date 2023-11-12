@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 112,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1562,9 +1562,9 @@
       "ID": "achievement_4",
       "SetID": "2cpn27e",
       "Name": "Axer of Auspice",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 126
     },
     {
       "ID": "achievement_40",
@@ -1688,8 +1688,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:05:43.9659376+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:06:18.097004+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:58:49.5383058+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:05:43.965983+00:00"
+  "LastUpdate_Ratings": "2023-11-12T21:59:25.765355+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:06:18.0970433+00:00"
 }

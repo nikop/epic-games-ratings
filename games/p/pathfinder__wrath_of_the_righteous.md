@@ -28,11 +28,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | Divide and Rule | 4.00% | ~483 |
 | Mythic Reinforcements | 4.00% | ~483 |
 | A Flame | 4.00% | ~483 |
+| Hey, I Know You! | 4.00% | ~483 |
 | Get the Toad | 4.00% | ~483 |
 | Path of the Trickster | 3.00% | ~362 |
 | Heroic Victory | 3.00% | ~362 |
 | Core of the Riddle | 3.00% | ~362 |
-| Hey, I Know You! | 3.00% | ~362 |
 | Hanged Man's Notes | 3.00% | ~326 |
 | The Lady of the Forest | 3.00% | ~326 |
 | Beware Still Water | 3.00% | ~326 |

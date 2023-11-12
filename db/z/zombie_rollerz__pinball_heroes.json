@@ -6,8 +6,8 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 378,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -729,6 +729,11 @@
       "Time": "2023-11-12T04:05:36.1411781+00:00",
       "NumProgressed": 187,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T22:06:08.6488701+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 73,
@@ -756,15 +761,15 @@
       "Name": "Right in the kisser!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 158
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -780,7 +785,7 @@
       "Name": "Kill-streak",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "CLG_RUN_LEVELUP_1",
@@ -796,7 +801,7 @@
       "Name": "Level Up!!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "CLG_SKILL_LEVEL5_1",
@@ -804,7 +809,7 @@
       "Name": "Topped up",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "CLG_SKILL_LEVEL5_2",
@@ -820,7 +825,7 @@
       "Name": "The Penguin",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -924,15 +929,15 @@
       "Name": "The Bird",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "PRG_BOSS_FLOWER",
       "SetID": "89cjc9l",
       "Name": "The Flower",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "PRG_BOSS_GIANT",
@@ -948,7 +953,7 @@
       "Name": "The Shaman",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "PRG_BOSS_MAGICIAN",
@@ -970,9 +975,9 @@
       "ID": "PRG_BOSS_OOZE",
       "SetID": "89cjc9l",
       "Name": "The Ooze",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 28
     },
     {
       "ID": "PRG_BOSS_SHIELD",
@@ -980,7 +985,7 @@
       "Name": "The Shield",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "PRG_BOSS_SLIME",
@@ -1012,23 +1017,23 @@
       "Name": "Villfir Forest",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "PRG_CHAPTER_2",
       "SetID": "89cjc9l",
       "Name": "Duscot Steamcity",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 88
     },
     {
       "ID": "PRG_CHAPTER_3",
       "SetID": "89cjc9l",
       "Name": "Inferno Ruins",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "PRG_HARD_10001",
@@ -1226,9 +1231,9 @@
       "ID": "PRG_NORMAL_10001",
       "SetID": "89cjc9l",
       "Name": "Ember",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "PRG_NORMAL_10002",
@@ -1316,14 +1321,14 @@
       "Name": "Graduation!",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
     {
       "ID": "89cjc9l",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 1
     }
   ],
@@ -1331,8 +1336,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:05:35.6211988+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:06:08.6488699+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:22.009342+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:58:31.6947445+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:05:35.6212593+00:00"
+  "LastUpdate_Ratings": "2023-11-12T21:59:04.944992+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:06:08.6489222+00:00"
 }

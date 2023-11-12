@@ -1483,9 +1483,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13670,
+  "EOS_Progressed": 13671,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14478,6 +14478,11 @@
       "Time": "2023-11-12T20:09:10.4955865+00:00",
       "NumProgressed": 13670,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-12T22:08:50.6193217+00:00",
+      "NumProgressed": 13671,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14489,7 +14494,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11209
+      "UsersEstimate": 11210
     },
     {
       "ID": "ACH02",
@@ -14657,7 +14662,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "ACH23",
@@ -14713,7 +14718,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "ACH30",
@@ -14768,7 +14773,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13670,
+      "Progressed": 13671,
       "Completed": 53
     }
   ],
@@ -14776,8 +14781,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-12T20:57:18.3668848+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:08:28.4465472+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:08:50.6193214+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:57:18.3668853+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:08:28.4466407+00:00"
+  "LastUpdate_Ratings": "2023-11-12T21:57:39.1806703+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:08:50.6194042+00:00"
 }

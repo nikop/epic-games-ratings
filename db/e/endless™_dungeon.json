@@ -1725,9 +1725,9 @@
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
       "SetID": "9991201",
       "Name": "Leap Before You Look",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 759
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1892,8 +1892,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-12T21:03:28.9281526+00:00",
+  "LastChanged_Achievements": "2023-11-12T22:03:45.5800634+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.2192237+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:58:34.0889286+00:00",
-  "LastUpdate_Achievements": "2023-11-12T21:03:28.9281824+00:00"
+  "LastUpdate_Ratings": "2023-11-12T21:59:07.3463681+00:00",
+  "LastUpdate_Achievements": "2023-11-12T22:03:45.5801026+00:00"
 }

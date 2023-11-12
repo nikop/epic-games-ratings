@@ -6,34 +6,34 @@ Rating: 4.30 (Ranked 836)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Level Up! | 88.00% | ~165 |
-| Bullseye! | 83.00% | ~155 |
-| Graduation! | 79.00% | ~148 |
-| Villfir Forest | 74.00% | ~138 |
-| Right in the kisser! | 59.00% | ~110 |
-| Duscot Steamcity | 48.00% | ~90 |
+| Bullseye! | 84.00% | ~158 |
+| Graduation! | 79.00% | ~149 |
+| Villfir Forest | 74.00% | ~139 |
+| Right in the kisser! | 59.00% | ~111 |
 | The Thrower | 47.00% | ~88 |
-| The Penguin | 45.00% | ~84 |
-| The Shaman | 45.00% | ~84 |
+| Duscot Steamcity | 47.00% | ~88 |
+| The Penguin | 45.00% | ~85 |
+| The Shaman | 45.00% | ~85 |
 | The Magician | 40.00% | ~75 |
 | The Tunneler | 39.00% | ~73 |
-| Level Up!! | 37.00% | ~69 |
-| The Shield | 37.00% | ~69 |
-| Kill-streak | 29.00% | ~54 |
-| Topped up | 28.00% | ~52 |
-| The Bird | 28.00% | ~52 |
+| Level Up!! | 37.00% | ~70 |
+| The Shield | 37.00% | ~70 |
+| Kill-streak | 29.00% | ~55 |
+| Topped up | 28.00% | ~53 |
+| The Bird | 28.00% | ~53 |
 | The Ninja | 26.00% | ~49 |
 | The Idol | 25.00% | ~47 |
-| Inferno Ruins | 25.00% | ~47 |
+| Inferno Ruins | 24.00% | ~45 |
 | I'm Rich | 22.00% | ~41 |
 | 1 is all I need | 21.00% | ~39 |
 | The Slime | 21.00% | ~39 |
 | Untouchable | 19.00% | ~36 |
-| The Flower | 17.00% | ~32 |
 | The Giant | 17.00% | ~32 |
-| Ember | 17.00% | ~32 |
 | The Blacksmith | 16.00% | ~30 |
-| The Ooze | 16.00% | ~30 |
+| The Flower | 16.00% | ~30 |
 | Out of the Frying Pan... | 16.00% | ~30 |
+| Ember | 16.00% | ~30 |
+| The Ooze | 15.00% | ~28 |
 | The Assistant | 14.00% | ~26 |
 | Turquoise | 14.00% | ~26 |
 | The Steampunk | 13.00% | ~24 |
@@ -79,8 +79,8 @@ Rating: 4.30 (Ranked 836)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 187 (Ranked 378)  
-Completed: 1 (0.53%) (Ranked 192)  
+Progressed: 188 (Ranked 378)  
+Completed: 1 (0.53%) (Ranked 191)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,7 +178,7 @@ Completed: 1 (0.53%) (Ranked 192)
 | 2023-11-09 | 184 | 1 |
 | 2023-11-10 | 185 | 1 |
 | 2023-11-11 | 186 | 1 |
-| 2023-11-12 | 187 | 1 |
+| 2023-11-12 | 188 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
