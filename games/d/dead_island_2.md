@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~851 |
-| Pork Chopped | 2.00% | ~851 |
+| Whatever It Takes | 2.00% | ~852 |
+| Pork Chopped | 2.00% | ~852 |
 | One of Us | 1.00% | ~426 |
 | Welcome To Hell-A | 0.80% | ~5,736 |
 | Break A Leg | 0.70% | ~5,019 |
@@ -25,6 +25,7 @@ Rating: 4.54 (Ranked 524)
 | Like Riding a Bike | 0.50% | ~3,585 |
 | A Patton Emerges | 0.50% | ~3,585 |
 | Stacking the Deck | 0.50% | ~3,585 |
+| Our True Nature | 0.50% | ~3,585 |
 | This is My Weapon | 0.50% | ~3,585 |
 | Making Your Mark | 0.40% | ~2,868 |
 | Perks of the Job | 0.40% | ~2,868 |
@@ -35,7 +36,6 @@ Rating: 4.54 (Ranked 524)
 | Ooh, Shiny! | 0.40% | ~2,868 |
 | I Am the Resurrection | 0.40% | ~2,868 |
 | Max Headroom | 0.40% | ~2,868 |
-| Our True Nature | 0.40% | ~2,868 |
 | Jumbo Keyring | 0.30% | ~2,151 |
 | Humanity Distilled | 0.30% | ~2,151 |
 | Down with the Sickness | 0.30% | ~2,151 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,032 (Ranked 20)  
-Completed: 2,382 (0.33%) (Ranked 220)  
+Progressed: 717,053 (Ranked 20)  
+Completed: 2,383 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,15 +263,15 @@ Completed: 2,382 (0.33%) (Ranked 220)
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
-| 2023-11-12 | 717,032 | 2,382 |
+| 2023-11-12 | 717,053 | 2,383 |
 ## Awards
 Max (Great Boss Battles): 7,320  (Ranked 53)  
-Sum: 11,117 (Ranked 85)  
+Sum: 11,122 (Ranked 85)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,320 |
-| This game is Great for Beginners | 539 |
+| This game is Great for Beginners | 544 |
 | This game has Diverse Characters | 531 |
 | This game has Quickly Understood Controls | 503 |
 | This game is Relaxing | 478 |
@@ -487,4 +487,4 @@ Diff (max vs sum): -32
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
 | 2023-11-10 | 4.54 | 7,279 | 11,038 |
 | 2023-11-11 | 4.54 | 7,320 | 11,108 |
-| 2023-11-12 | 4.54 | 7,320 | 11,117 |
+| 2023-11-12 | 4.54 | 7,320 | 11,122 |

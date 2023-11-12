@@ -7054,9 +7054,9 @@
       "ID": "15",
       "SetID": "3aa2279",
       "Name": "Return of the Wizard King",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "16",
@@ -7382,9 +7382,9 @@
       "ID": "48",
       "SetID": "7132754",
       "Name": "Blood of the Dragon",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "49",
@@ -7501,8 +7501,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T17:03:23.9116257+00:00",
-  "LastChanged_Achievements": "2023-11-12T05:03:26.8759162+00:00",
+  "LastChanged_Achievements": "2023-11-12T06:03:39.7172792+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:02:34.2071373+00:00",
-  "LastUpdate_Achievements": "2023-11-12T05:03:26.8760027+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:02:44.2465734+00:00",
+  "LastUpdate_Achievements": "2023-11-12T06:03:39.7173675+00:00"
 }

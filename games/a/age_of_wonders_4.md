@@ -25,10 +25,12 @@ Rating: 4.60 (Ranked 409)
 | In a Liege of Your Own | 0.30% | ~16 |
 | Intimidation Tactics | 0.30% | ~16 |
 | Tipping the Scales | 0.30% | ~16 |
+| Blood of the Dragon | 0.30% | ~16 |
 | Mighty Hoard | 0.30% | ~16 |
 | Sehiran Oasis | 0.30% | ~16 |
 | Prometheus Avenged | 0.30% | ~16 |
 | A Conqueror's Cohort | 0.30% | ~16 |
+| Return of the Wizard King | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
 | Enchanted Archipelago | 0.20% | ~11 |
 | Digging for Treasure | 0.20% | ~11 |
@@ -38,12 +40,10 @@ Rating: 4.60 (Ranked 409)
 | Impenetrable Fortress | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
 | Here be Dragons | 0.20% | ~11 |
-| Blood of the Dragon | 0.20% | ~11 |
 | Seal the Deal | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
-| Return of the Wizard King | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
 | The Creator | 0.10% | ~5 |

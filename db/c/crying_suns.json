@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470733,
+  "EOS_Progressed": 470734,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22178,6 +22178,11 @@
       "Time": "2023-11-12T05:09:22.9604969+00:00",
       "NumProgressed": 470733,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-12T06:09:35.187947+00:00",
+      "NumProgressed": 470734,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22309,7 +22314,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 117683
+      "UsersEstimate": 117684
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -22373,7 +22378,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160049
+      "UsersEstimate": 160050
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22820,21 +22825,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14667,
+      "Progressed": 14668,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470733,
+      "Progressed": 470734,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-12T05:09:22.9604963+00:00",
+  "LastChanged_Achievements": "2023-11-12T06:09:35.1879464+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:00:04.8306197+00:00",
-  "LastUpdate_Achievements": "2023-11-12T05:09:22.9606953+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:02:36.4870882+00:00",
+  "LastUpdate_Achievements": "2023-11-12T06:09:35.188138+00:00"
 }

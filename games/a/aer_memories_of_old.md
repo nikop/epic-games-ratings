@@ -14,10 +14,10 @@ Number of Ratings: 170  (23.09.2022)
 | Knowledge for Power | 14.00% | ~3,354 |
 | Gaze into the abyss | 13.00% | ~3,114 |
 | Mausoleum of Ice | 13.00% | ~3,114 |
-| Wings of Stone | 12.00% | ~2,874 |
-| Equilibrium | 12.00% | ~2,874 |
+| Wings of Stone | 12.00% | ~2,875 |
+| Equilibrium | 12.00% | ~2,875 |
 | In the belly of the beast | 11.00% | ~2,635 |
-| Condor condo | 10.00% | ~2,395 |
+| Condor condo | 10.00% | ~2,396 |
 | Memorial | 9.00% | ~2,156 |
 | An uninvited guest | 7.00% | ~1,677 |
 | Tails of Stone | 6.00% | ~1,437 |
@@ -27,7 +27,7 @@ Number of Ratings: 170  (23.09.2022)
 | Ripples on the surface | 5.00% | ~1,198 |
 | Hide and Seek | 4.00% | ~958 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,954 (Ranked 126)  
+Progressed: 23,955 (Ranked 126)  
 Completed: 457 (1.91%) (Ranked 121)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 457 (1.91%) (Ranked 121)
 | 2023-11-09 | 23,793 | 454 |
 | 2023-11-10 | 23,849 | 454 |
 | 2023-11-11 | 23,932 | 456 |
-| 2023-11-12 | 23,954 | 457 |
+| 2023-11-12 | 23,955 | 457 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

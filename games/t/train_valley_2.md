@@ -1,49 +1,49 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.44 (Ranked 675)  
+Rating: 4.44 (Ranked 674)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~303,157 |
-| Full garage | 61.00% | ~253,323 |
-| To the eyeballs! | 51.00% | ~211,795 |
-| Individual delivery | 46.00% | ~191,031 |
-| Non-Stop | 45.00% | ~186,878 |
-| Juggler | 36.00% | ~149,502 |
-| Forgot something | 35.00% | ~145,349 |
-| Close call! | 30.00% | ~124,585 |
-| Get out my way | 28.00% | ~116,280 |
-| Common cause | 26.00% | ~107,974 |
-| Critical care | 26.00% | ~107,974 |
-| Mega-railroad | 23.00% | ~95,515 |
-| Upgrade complete | 23.00% | ~95,515 |
-| Just in time! | 18.00% | ~74,751 |
-| Builder | 17.00% | ~70,598 |
-| Long Haul | 17.00% | ~70,486 |
-| Steam Age | 16.00% | ~66,445 |
-| Multilevel road | 15.00% | ~62,293 |
-| Bridgemania | 14.00% | ~58,140 |
-| Need to think | 14.00% | ~58,140 |
-| The Tortoise | 12.00% | ~49,834 |
-| Beginner | 11.00% | ~45,681 |
-| Without a lunch break | 11.00% | ~45,681 |
-| One way | 10.00% | ~41,528 |
-| Relocation | 10.00% | ~41,528 |
-| Industrial Age | 9.00% | ~37,376 |
-| Just One More Valley | 9.00% | ~37,316 |
-| Prick of conscience | 8.00% | ~33,223 |
-| Missed it! | 7.00% | ~29,070 |
-| At the last moment! | 6.00% | ~24,917 |
-| Overseer | 6.00% | ~24,917 |
-| Highlander | 5.00% | ~20,764 |
-| Jewelry accuracy | 5.00% | ~20,764 |
-| Stargazer | 5.00% | ~20,764 |
-| Bridge builder | 4.00% | ~16,611 |
-| Electrical Age | 4.00% | ~16,611 |
-| Large construction | 4.00% | ~16,611 |
-| Squander | 4.00% | ~16,611 |
+| Dealmaker | 73.00% | ~303,165 |
+| Full garage | 61.00% | ~253,330 |
+| To the eyeballs! | 51.00% | ~211,800 |
+| Individual delivery | 46.00% | ~191,036 |
+| Non-Stop | 45.00% | ~186,883 |
+| Juggler | 36.00% | ~149,506 |
+| Forgot something | 35.00% | ~145,353 |
+| Close call! | 30.00% | ~124,588 |
+| Get out my way | 28.00% | ~116,283 |
+| Common cause | 26.00% | ~107,977 |
+| Critical care | 26.00% | ~107,977 |
+| Mega-railroad | 23.00% | ~95,518 |
+| Upgrade complete | 23.00% | ~95,518 |
+| Just in time! | 18.00% | ~74,753 |
+| Builder | 17.00% | ~70,600 |
+| Long Haul | 17.00% | ~70,488 |
+| Steam Age | 16.00% | ~66,447 |
+| Multilevel road | 15.00% | ~62,294 |
+| Bridgemania | 14.00% | ~58,141 |
+| Need to think | 14.00% | ~58,141 |
+| The Tortoise | 12.00% | ~49,835 |
+| Beginner | 11.00% | ~45,682 |
+| Without a lunch break | 11.00% | ~45,682 |
+| One way | 10.00% | ~41,530 |
+| Relocation | 10.00% | ~41,530 |
+| Industrial Age | 9.00% | ~37,377 |
+| Just One More Valley | 9.00% | ~37,317 |
+| Prick of conscience | 8.00% | ~33,224 |
+| Missed it! | 7.00% | ~29,071 |
+| At the last moment! | 6.00% | ~24,918 |
+| Overseer | 6.00% | ~24,918 |
+| Highlander | 5.00% | ~20,765 |
+| Jewelry accuracy | 5.00% | ~20,765 |
+| Stargazer | 5.00% | ~20,765 |
+| Bridge builder | 4.00% | ~16,612 |
+| Electrical Age | 4.00% | ~16,612 |
+| Large construction | 4.00% | ~16,612 |
+| Squander | 4.00% | ~16,612 |
 | Engineer | 3.00% | ~12,459 |
 | Globalisation Age | 3.00% | ~12,459 |
 | Living it large | 3.00% | ~12,459 |
@@ -56,7 +56,7 @@ Number of Ratings: 87  (23.09.2022)
 | Vandal | 2.00% | ~8,306 |
 | Will work | 2.00% | ~8,306 |
 | Woodcutter | 2.00% | ~8,306 |
-| Occupied! | 2.00% | ~8,292 |
+| Occupied! | 2.00% | ~8,293 |
 | Achiever | 1.00% | ~4,153 |
 | Environmental activist | 1.00% | ~4,153 |
 | Metro builder | 1.00% | ~4,153 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~415 |
 | World Zapper | 0.10% | ~415 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415,284 (Ranked 43)  
+Progressed: 415,295 (Ranked 43)  
 Completed: 21 (0.01%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 21 (0.01%) (Ranked 326)
 | 2023-11-09 | 414,549 | 21 |
 | 2023-11-10 | 414,822 | 21 |
 | 2023-11-11 | 415,223 | 21 |
-| 2023-11-12 | 415,284 | 21 |
+| 2023-11-12 | 415,295 | 21 |
 ## Awards
 Max (Challenging Puzzles): 871  (Ranked 161)  
 Sum: 1,749 (Ranked 217)  

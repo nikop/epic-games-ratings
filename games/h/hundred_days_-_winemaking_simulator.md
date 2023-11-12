@@ -1,24 +1,24 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 794)  
+Rating: 4.35 (Ranked 795)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 41.00% | ~4,899 |
+| Bye Bye | 41.00% | ~4,900 |
 | It's a good start | 10.00% | ~1,195 |
-| Bonjour! | 7.00% | ~836 |
-| Quack | 7.00% | ~836 |
+| Bonjour! | 7.00% | ~837 |
+| Quack | 7.00% | ~837 |
 | The Assistant | 6.00% | ~717 |
 | The Blue Marl | 6.00% | ~717 |
-| Ostinata | 5.00% | ~597 |
-| Better than nothing? | 5.00% | ~597 |
+| Ostinata | 5.00% | ~598 |
+| Better than nothing? | 5.00% | ~598 |
 | A long journey | 4.00% | ~478 |
-| Big Money | 3.00% | ~358 |
-| Keep the doctor away | 3.00% | ~358 |
-| Surprise of Langhe | 3.00% | ~358 |
-| Famous | 3.00% | ~358 |
+| Big Money | 3.00% | ~359 |
+| Keep the doctor away | 3.00% | ~359 |
+| Surprise of Langhe | 3.00% | ~359 |
+| Famous | 3.00% | ~359 |
 | What is that? A castle? | 2.00% | ~239 |
 | A lot of space | 2.00% | ~239 |
 | A big garage | 2.00% | ~239 |
@@ -27,8 +27,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Pastry Chef | 2.00% | ~239 |
 | Welcome to the club | 2.00% | ~239 |
 | Very Important Winemaker | 2.00% | ~239 |
-| King of Langhe | 1.00% | ~119 |
-| Gem of Monferrato | 1.00% | ~119 |
+| King of Langhe | 1.00% | ~120 |
+| Gem of Monferrato | 1.00% | ~120 |
 | Treasure of Roero | 0.70% | ~84 |
 | Knight of Langhe | 0.50% | ~60 |
 | King of red wines | 0.20% | ~24 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Unsuitable Terroir | 0.20% | ~24 |
 | Master Winemaker | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,948 (Ranked 152)  
+Progressed: 11,951 (Ranked 152)  
 Completed: 10 (0.08%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 10 (0.08%) (Ranked 284)
 | 2023-11-09 | 11,619 | 10 |
 | 2023-11-10 | 11,769 | 10 |
 | 2023-11-11 | 11,914 | 10 |
-| 2023-11-12 | 11,948 | 10 |
+| 2023-11-12 | 11,951 | 10 |
 ## Awards
 Max (Relaxing): 206  (Ranked 285)  
 Sum: 1,725 (Ranked 218)  

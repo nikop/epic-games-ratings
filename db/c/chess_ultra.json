@@ -437,9 +437,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 217347,
+  "EOS_Progressed": 217348,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1098,
+  "EOS_NewPlayers": 1089,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23812,6 +23812,11 @@
       "Time": "2023-11-12T05:05:21.6254133+00:00",
       "NumProgressed": 217347,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-12T06:05:35.470958+00:00",
+      "NumProgressed": 217348,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 38,
@@ -23823,7 +23828,7 @@
       "Name": "Absolute pin",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 102153
+      "UsersEstimate": 102154
     },
     {
       "ID": "AlekhinesGun",
@@ -23895,7 +23900,7 @@
       "Name": "Chop Wood",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 152143
+      "UsersEstimate": 152144
     },
     {
       "ID": "DoubleCheck",
@@ -23991,7 +23996,7 @@
       "Name": "O-O",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 52163
+      "UsersEstimate": 52164
     },
     {
       "ID": "O-O-O",
@@ -24047,7 +24052,7 @@
       "Name": "Queen Sacrifice",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 43469
+      "UsersEstimate": 43470
     },
     {
       "ID": "ScholarsMate",
@@ -24071,7 +24076,7 @@
       "Name": "Stalemate",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 39122
+      "UsersEstimate": 39123
     },
     {
       "ID": "StrangerDanger",
@@ -24126,7 +24131,7 @@
     {
       "ID": "b4je51k",
       "IsBase": true,
-      "Progressed": 217347,
+      "Progressed": 217348,
       "Completed": 2
     }
   ],
@@ -24134,8 +24139,8 @@
   "FirstSeenRating": "2023-03-28T10:57:23.5590253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.0189845+00:00",
   "LastChanged": "2023-11-06T13:09:15.0359019+00:00",
-  "LastChanged_Achievements": "2023-11-12T05:05:21.6254128+00:00",
+  "LastChanged_Achievements": "2023-11-12T06:05:35.4709574+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:29.355352+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:02:43.5961263+00:00",
-  "LastUpdate_Achievements": "2023-11-12T05:05:21.6255305+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:02:53.7282511+00:00",
+  "LastUpdate_Achievements": "2023-11-12T06:05:35.4711247+00:00"
 }

@@ -188,6 +188,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Venetian Sea | 0.10% | ~453 |
 | Victorious! | 0.10% | ~453 |
 | Viva la Revolución! | 0.10% | ~453 |
+| Voltaire's Nightmare | 0.10% | ~453 |
 | Voting Streak | 0.10% | ~453 |
 | We bled for this | 0.10% | ~453 |
 | Where are the penguins? | 0.10% | ~453 |
@@ -358,7 +359,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turtles all the way down | 0.00% | ~0 |
 | Ultimate Military | 0.00% | ~0 |
 | Victorian Three | 0.00% | ~0 |
-| Voltaire's Nightmare | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where the heart is | 0.00% | ~0 |
 | The White Elephant | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,252 (Ranked 41)  
+Progressed: 453,278 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,252 | 1 |
+| 2023-11-12 | 453,278 | 1 |
 ## Awards
 Max (Educational): 6,946  (Ranked 54)  
 Sum: 57,214 (Ranked 24)  

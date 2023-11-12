@@ -16,13 +16,13 @@ Rating: 4.68 (Ranked 253)
 | Gold rush | 7.00% | ~53 |
 | Liar Liar | 6.00% | ~45 |
 | A friend in need... | 6.00% | ~45 |
-| Extensive retelling | 5.00% | ~38 |
 | Sneak peek | 5.00% | ~38 |
 | Fishing fanatic | 5.00% | ~38 |
 | The word around is... | 5.00% | ~38 |
 | The cycle acknowledged | 5.00% | ~38 |
 | Queen | 5.00% | ~38 |
 | Baba Yaga | 5.00% | ~38 |
+| Extensive retelling | 4.00% | ~30 |
 | Favorite | 4.00% | ~30 |
 | Goal! | 3.00% | ~23 |
 | Both sides | 3.00% | ~23 |
@@ -38,7 +38,7 @@ Rating: 4.68 (Ranked 253)
 | Mushrooming enthusiast | 0.70% | ~5 |
 | Apex predator | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 755 (Ranked 270)  
+Progressed: 756 (Ranked 270)  
 Completed: 1 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 1 (0.13%) (Ranked 259)
 | 2023-11-09 | 750 | 1 |
 | 2023-11-10 | 751 | 1 |
 | 2023-11-11 | 754 | 1 |
-| 2023-11-12 | 755 | 1 |
+| 2023-11-12 | 756 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
