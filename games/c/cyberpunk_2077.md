@@ -11,8 +11,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | Relic Ruler | 0.90% | ~224 |
 | Full Body Conversion | 0.60% | ~5,378 |
 | True Soldier | 0.60% | ~5,378 |
-| Right Back At Ya | 0.50% | ~4,481 |
-| Stanislavski's Method | 0.50% | ~4,481 |
+| Right Back At Ya | 0.50% | ~4,482 |
+| Stanislavski's Method | 0.50% | ~4,482 |
 | All the President's Men | 0.50% | ~125 |
 | Arachnophobia | 0.50% | ~125 |
 | The Quick and the Dead | 0.40% | ~3,585 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,296 (Ranked 15)  
+Progressed: 896,300 (Ranked 15)  
 Completed: 2,767 (0.31%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 2,767 (0.31%) (Ranked 223)
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
 | 2023-11-11 | 896,271 | 2,766 |
-| 2023-11-12 | 896,296 | 2,767 |
+| 2023-11-12 | 896,300 | 2,767 |
 ## Awards
 Max (Character Customization): 105,016  (Ranked 9)  
 Sum: 349,604 (Ranked 10)  

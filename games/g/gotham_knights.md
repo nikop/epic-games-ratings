@@ -1,24 +1,24 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 916)  
+Rating: 4.18 (Ranked 925)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,919 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,709 |
+| First Step Into the Knight | 51.00% | ~38,920 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,710 |
 | Loose Ends | 34.00% | ~25,946 |
-| To the Victor Go the Spoils | 28.00% | ~21,367 |
-| Knighthood | 27.00% | ~20,604 |
+| To the Victor Go the Spoils | 28.00% | ~21,368 |
+| Knighthood | 27.00% | ~20,605 |
 | Get ReQ'd | 25.00% | ~19,078 |
 | Whispered Words | 25.00% | ~19,078 |
 | The Batman Family | 23.00% | ~17,552 |
 | Lock and Key | 22.00% | ~16,789 |
 | Something in the Clay | 21.00% | ~16,026 |
 | Quartzer Life Crisis | 21.00% | ~16,026 |
-| Working Hard or Harley Working? | 20.00% | ~15,262 |
-| Unstoppable Force | 20.00% | ~15,262 |
-| Bad Apples in Every Orchard | 20.00% | ~15,262 |
+| Working Hard or Harley Working? | 20.00% | ~15,263 |
+| Unstoppable Force | 20.00% | ~15,263 |
+| Bad Apples in Every Orchard | 20.00% | ~15,263 |
 | Snow Problem | 19.00% | ~14,499 |
 | The Show Mud Go On | 18.00% | ~13,736 |
 | From Inside Gotham's Walls | 18.00% | ~13,736 |
@@ -31,9 +31,9 @@ Rating: 4.19 (Ranked 916)
 | Seeking Asylum | 14.00% | ~10,684 |
 | Not On My Watch | 13.00% | ~9,921 |
 | Shock Til They Drop | 13.00% | ~9,921 |
-| End of an Era | 12.00% | ~9,157 |
-| Bulldozed | 12.00% | ~9,157 |
-| Gotham Knight | 12.00% | ~9,157 |
+| End of an Era | 12.00% | ~9,158 |
+| Bulldozed | 12.00% | ~9,158 |
+| Gotham Knight | 12.00% | ~9,158 |
 | Gotham City Confidential | 11.00% | ~8,394 |
 | Drone You Out | 10.00% | ~7,631 |
 | Out of Their League | 9.00% | ~6,868 |
@@ -42,7 +42,7 @@ Rating: 4.19 (Ranked 916)
 | Expert Crime Fighter | 6.00% | ~4,579 |
 | Family Meeting | 6.00% | ~4,579 |
 | A Worthy Successor | 6.00% | ~4,579 |
-| Dressed to Impress | 4.00% | ~3,052 |
+| Dressed to Impress | 4.00% | ~3,053 |
 | A Momentum Occasion | 3.00% | ~2,289 |
 | Bat Out of Hell | 3.00% | ~2,289 |
 | Practice Makes Perfect | 2.00% | ~1,526 |
@@ -52,7 +52,7 @@ Rating: 4.19 (Ranked 916)
 | Batarang Collector | 1.00% | ~763 |
 | Claiming the Mural High Ground | 1.00% | ~763 |
 | Icebreaker | 0.80% | ~373 |
-| History Major | 0.80% | ~610 |
+| History Major | 0.80% | ~611 |
 | A Sophisticated Mallet | 0.80% | ~373 |
 | Read Owl About It | 0.70% | ~534 |
 | Gotham's Greatest Depths | 0.60% | ~280 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 916)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,312 (Ranked 97)  
+Progressed: 76,313 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,18 +273,18 @@ Completed: 123 (0.16%) (Ranked 256)
 | 2023-11-09 | 76,210 | 123 |
 | 2023-11-10 | 76,243 | 123 |
 | 2023-11-11 | 76,302 | 123 |
-| 2023-11-12 | 76,312 | 123 |
+| 2023-11-12 | 76,313 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,929  (Ranked 98)  
-Sum: 4,970 (Ranked 137)  
+Sum: 4,971 (Ranked 137)  
 Diff (max vs sum): -39  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,929 |
 | This game has Diverse Characters | 261 |
 | This game is Extremely Fun | 260 |
+| This game has Quickly Understood Controls | 258 |
 | This game is Relaxing | 258 |
-| This game has Quickly Understood Controls | 257 |
 | This game is Great for Beginners | 254 |
 | This game has Amazing Characters | 252 |
 | This game has Amazing Storytelling | 251 |
@@ -553,4 +553,4 @@ Diff (max vs sum): -39
 | 2023-11-09 | 4.18 | 2,917 | 4,951 |
 | 2023-11-10 | 4.18 | 2,920 | 4,960 |
 | 2023-11-11 | 4.19 | 2,920 | 4,961 |
-| 2023-11-12 | 4.19 | 2,929 | 4,970 |
+| 2023-11-12 | 4.19 | 2,929 | 4,971 |

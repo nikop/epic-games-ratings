@@ -8,12 +8,12 @@ Number of Ratings: 2,731  (23.09.2022)
 | ---- | ---------- | ----- |
 | It's a steal! | 37.00% | ~30,468 |
 | Final touch | 35.00% | ~28,821 |
-| Prop-M Rover | 32.00% | ~26,350 |
+| Prop-M Rover | 32.00% | ~26,351 |
 | Changing the Planet | 28.00% | ~23,057 |
 | Sojourner | 26.00% | ~21,410 |
 | Beagle 2 | 24.00% | ~19,763 |
-| New Home | 23.00% | ~18,939 |
-| Winner Winner Terraformer | 21.00% | ~17,292 |
+| New Home | 23.00% | ~18,940 |
+| Winner Winner Terraformer | 21.00% | ~17,293 |
 | Project Manager | 19.00% | ~15,646 |
 | Curiosity | 19.00% | ~15,646 |
 | Collector | 19.00% | ~15,646 |
@@ -21,15 +21,15 @@ Number of Ratings: 2,731  (23.09.2022)
 | No Longer Red | 18.00% | ~14,822 |
 | Self-sufficient | 18.00% | ~14,822 |
 | Money money | 15.00% | ~12,352 |
-| Biggest Reward | 14.00% | ~11,528 |
+| Biggest Reward | 14.00% | ~11,529 |
 | First Journey | 13.00% | ~10,705 |
-| Acquired knowledge | 12.00% | ~9,881 |
-| Hellenic Elysium | 12.00% | ~9,881 |
+| Acquired knowledge | 12.00% | ~9,882 |
+| Hellenic Elysium | 12.00% | ~9,882 |
 | Landlord | 11.00% | ~9,058 |
 | Most Achievements | 11.00% | ~9,058 |
 | Grand champion | 11.00% | ~9,058 |
-| Spirit | 10.00% | ~8,234 |
-| Ultimate success | 10.00% | ~8,234 |
+| Spirit | 10.00% | ~8,235 |
+| Ultimate success | 10.00% | ~8,235 |
 | Variety Expert | 9.00% | ~7,411 |
 | Frequent tester | 8.00% | ~6,588 |
 | Determined | 8.00% | ~6,588 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Team Effort | 3.00% | ~2,470 |
 | Opportunity | 3.00% | ~2,470 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,345 (Ranked 93)  
+Progressed: 82,347 (Ranked 93)  
 Completed: 159 (0.19%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 159 (0.19%) (Ranked 249)
 | 2023-11-09 | 82,032 | 158 |
 | 2023-11-10 | 82,156 | 159 |
 | 2023-11-11 | 82,315 | 159 |
-| 2023-11-12 | 82,345 | 159 |
+| 2023-11-12 | 82,347 | 159 |
 ## Awards
 Max (Relaxing): 525  (Ranked 204)  
 Sum: 3,247 (Ranked 169)  

@@ -15,14 +15,14 @@ Rating: 4.50 (Ranked 588)
 | Swift Rift Removers | 4.00% | ~1,233 |
 | Teamwork | 4.00% | ~1,233 |
 | Vaporous Expansion | 4.00% | ~1,233 |
-| Animated | 3.00% | ~924 |
-| Clutch Capture | 3.00% | ~924 |
-| Cultured | 3.00% | ~924 |
-| Daily Dose | 3.00% | ~924 |
-| Ghostbuster In Training | 3.00% | ~924 |
-| Right back at ya | 3.00% | ~924 |
-| There you are! | 3.00% | ~924 |
-| Whoopsie | 3.00% | ~924 |
+| Animated | 3.00% | ~925 |
+| Clutch Capture | 3.00% | ~925 |
+| Cultured | 3.00% | ~925 |
+| Daily Dose | 3.00% | ~925 |
+| Ghostbuster In Training | 3.00% | ~925 |
+| Right back at ya | 3.00% | ~925 |
+| There you are! | 3.00% | ~925 |
+| Whoopsie | 3.00% | ~925 |
 | Back Off | 2.00% | ~616 |
 | We have the best insurance | 2.00% | ~616 |
 | Ectoplasmic Entity | 2.00% | ~616 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,815 (Ranked 122)  
+Progressed: 30,817 (Ranked 122)  
 Completed: 67 (0.22%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 67 (0.22%) (Ranked 240)
 | 2023-11-09 | 30,630 | 66 |
 | 2023-11-10 | 30,704 | 66 |
 | 2023-11-11 | 30,795 | 67 |
-| 2023-11-12 | 30,815 | 67 |
+| 2023-11-12 | 30,817 | 67 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 246)  
 Sum: 2,761 (Ranked 179)  

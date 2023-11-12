@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78147,
+  "EOS_Progressed": 78149,
   "EOS_Completed": 835,
-  "EOS_NewPlayers": 547,
+  "EOS_NewPlayers": 545,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -23117,6 +23117,11 @@
       "Time": "2023-11-12T04:05:19.4024117+00:00",
       "NumProgressed": 78147,
       "NumCompleted": 835
+    },
+    {
+      "Time": "2023-11-12T05:04:59.7577379+00:00",
+      "NumProgressed": 78149,
+      "NumCompleted": 835
     }
   ],
   "TotalAchievements": 25,
@@ -23144,7 +23149,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 18,
       "XP": 150,
-      "UsersEstimate": 14066
+      "UsersEstimate": 14067
     },
     {
       "ID": "Audiophile",
@@ -23160,7 +23165,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 17192
+      "UsersEstimate": 17193
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -23168,7 +23173,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 14066
+      "UsersEstimate": 14067
     },
     {
       "ID": "Butcher",
@@ -23200,7 +23205,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 15629
+      "UsersEstimate": 15630
     },
     {
       "ID": "Hearty",
@@ -23327,7 +23332,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78147,
+      "Progressed": 78149,
       "Completed": 835
     }
   ],
@@ -23335,8 +23340,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:05:19.4024113+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:04:59.7577375+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.731419+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:57:59.4677173+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:05:19.4025377+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:57:56.4460453+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:04:59.7578914+00:00"
 }

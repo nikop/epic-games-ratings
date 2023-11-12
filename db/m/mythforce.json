@@ -2,13 +2,13 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 606,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -772,7 +772,7 @@
   ],
   "EOS_Progressed": 4809,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9302,8 +9302,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:09:19.4568762+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:09:18.8179861+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:57:16.8288765+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:09:19.4569378+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:57:17.53722+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:09:18.8180578+00:00"
 }

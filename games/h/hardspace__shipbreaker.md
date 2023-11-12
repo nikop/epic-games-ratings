@@ -7,7 +7,7 @@ Number of Ratings: 36  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Breathe In… Breathe Out… | 73.00% | ~696 |
-| It’s Heating up! | 69.00% | ~658 |
+| It’s Heating up! | 70.00% | ~668 |
 | Let’s patch things up | 66.00% | ~630 |
 | I can fix it! | 63.00% | ~601 |
 | Post No Bills | 55.00% | ~525 |

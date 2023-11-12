@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1019,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2018,9 +2018,9 @@
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 428
+      "UsersEstimate": 438
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2170,9 +2170,9 @@
       "ID": "ML_ACHIEVEMENT_22",
       "SetID": "5k00jcd",
       "Name": "The Octopus",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 214
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2359,8 +2359,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:03:26.1626769+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:03:20.0111894+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:59:03.0826186+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:03:26.1627205+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:58:54.0171574+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:03:20.0112491+00:00"
 }

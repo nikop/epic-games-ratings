@@ -2,13 +2,13 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 916,
+  "Ranking_Rating": 925,
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.19,
+  "Rating": 4.18,
   "RatingHistory": [
     {
       "Time": "2022-10-22T01:00:47.4981426+00:00",
@@ -4023,10 +4023,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 4970,
       "NumberOfAwardsMax": 2929
+    },
+    {
+      "Time": "2023-11-12T04:59:42.7017575+00:00",
+      "Rating": 4.18,
+      "NumberOfAwards": 4971,
+      "NumberOfAwardsMax": 2929
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4970,
+  "NumberOfAwards": 4971,
   "NumberOfAwardsMax": 2929,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4040,7 +4046,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 257
+      "Count": 258
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4091,9 +4097,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76312,
+  "EOS_Progressed": 76313,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22291,6 +22297,11 @@
       "Time": "2023-11-12T04:04:02.2824045+00:00",
       "NumProgressed": 76312,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-12T05:03:51.8699824+00:00",
+      "NumProgressed": 76313,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22382,7 +22393,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     },
     {
       "ID": "APPLY_STATUS",
@@ -22438,7 +22449,7 @@
       "Name": "Dressed to Impress",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3053
     },
     {
       "ID": "CRAFTING_MOD_CHIPS",
@@ -22478,7 +22489,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -22526,7 +22537,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 21367
+      "UsersEstimate": 21368
     },
     {
       "ID": "FREEZE_1_5",
@@ -22590,7 +22601,7 @@
       "Name": "History Major",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 611
     },
     {
       "ID": "GOTHAM_MURALS",
@@ -22606,7 +22617,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26709
+      "UsersEstimate": 26710
     },
     {
       "ID": "HARLEY_2",
@@ -22622,7 +22633,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15262
+      "UsersEstimate": 15263
     },
     {
       "ID": "HARLEY_4",
@@ -22646,7 +22657,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38919
+      "UsersEstimate": 38920
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22670,7 +22681,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15262
+      "UsersEstimate": 15263
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -22678,7 +22689,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20604
+      "UsersEstimate": 20605
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -22718,7 +22729,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15262
+      "UsersEstimate": 15263
     },
     {
       "ID": "MYSTERY_05",
@@ -22750,7 +22761,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9157
+      "UsersEstimate": 9158
     },
     {
       "ID": "SECRET_CACHE",
@@ -22789,22 +22800,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76312,
+      "Progressed": 76313,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46592,
+      "Progressed": 46593,
       "Completed": 2673
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2023-11-12T03:59:57.4871993+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:04:02.282404+00:00",
+  "LastChanged": "2023-11-12T04:59:42.7017573+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:03:51.869982+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:59:57.4871999+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:04:02.2826101+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:59:42.7017579+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:03:51.8701143+00:00"
 }

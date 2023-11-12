@@ -12,15 +12,15 @@ Rating: 4.30 (Ranked 835)
 | Right in the kisser! | 59.00% | ~110 |
 | Duscot Steamcity | 48.00% | ~90 |
 | The Thrower | 47.00% | ~88 |
+| The Penguin | 45.00% | ~84 |
 | The Shaman | 45.00% | ~84 |
-| The Penguin | 44.00% | ~82 |
 | The Magician | 40.00% | ~75 |
 | The Tunneler | 39.00% | ~73 |
 | Level Up!! | 37.00% | ~69 |
-| The Shield | 36.00% | ~67 |
+| The Shield | 37.00% | ~69 |
 | Kill-streak | 29.00% | ~54 |
 | Topped up | 28.00% | ~52 |
-| The Bird | 27.00% | ~50 |
+| The Bird | 28.00% | ~52 |
 | The Ninja | 26.00% | ~49 |
 | The Idol | 25.00% | ~47 |
 | Inferno Ruins | 25.00% | ~47 |

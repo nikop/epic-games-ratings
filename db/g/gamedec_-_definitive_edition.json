@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -483,9 +483,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 251773,
+  "EOS_Progressed": 251775,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23498,6 +23498,11 @@
       "Time": "2023-11-12T04:07:58.7210941+00:00",
       "NumProgressed": 251773,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-12T05:06:17.9688839+00:00",
+      "NumProgressed": 251775,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23541,7 +23546,7 @@
       "Name": "Catnip",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_COLLECTOR",
@@ -23565,7 +23570,7 @@
       "Name": "Gentleman\u0027s classic",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_GUNSGUNS",
@@ -23573,7 +23578,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32730
+      "UsersEstimate": 32731
     },
     {
       "ID": "ACH_HATTRICK",
@@ -23645,7 +23650,7 @@
       "Name": "Is that a rift?",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_ISTARTED",
@@ -23653,7 +23658,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70496
+      "UsersEstimate": 70497
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -23661,7 +23666,7 @@
       "Name": "It\u0027s alive!",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_ITSALWAYSBLUE",
@@ -23709,7 +23714,7 @@
       "Name": "Enjoy the beach",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_LETSCHAINS",
@@ -23725,7 +23730,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62943
+      "UsersEstimate": 62944
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -23757,7 +23762,7 @@
       "Name": "Rinse and repeat",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_LETSSCOFIELD",
@@ -23765,7 +23770,7 @@
       "Name": "Mama, I\u0027m a criminal",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_LETSSMILE",
@@ -23829,7 +23834,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62943
+      "UsersEstimate": 62944
     },
     {
       "ID": "ACH_SOREAD",
@@ -23885,7 +23890,7 @@
       "Name": "Never gonna give you up",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "ACH_VALEDICTORIAN",
@@ -23924,7 +23929,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251773,
+      "Progressed": 251775,
       "Completed": 7
     }
   ],
@@ -23932,8 +23937,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-10T11:59:06.6668933+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:07:58.7210937+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:06:17.9688836+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:24.9494369+00:00",
-  "LastUpdate_Ratings": "2023-11-12T04:00:08.8979378+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:07:58.7212188+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:59:52.9381925+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:06:17.9689937+00:00"
 }

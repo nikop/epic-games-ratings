@@ -6,15 +6,15 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,822 |
-| Alt+F4 | 8.00% | ~18,931 |
-| Where's that freaking Dwarf? | 7.00% | ~16,564 |
-| Déjà vu | 6.00% | ~14,198 |
+| Sowwy! | 35.00% | ~82,826 |
+| Alt+F4 | 8.00% | ~18,932 |
+| Where's that freaking Dwarf? | 7.00% | ~16,565 |
+| Déjà vu | 6.00% | ~14,199 |
 | Sock! SOCK! | 5.00% | ~11,832 |
-| A beer, two curses, three companions | 4.00% | ~9,465 |
-| GG EZ | 4.00% | ~9,465 |
-| DM intervention | 4.00% | ~9,465 |
-| Speedrun | 4.00% | ~9,465 |
+| A beer, two curses, three companions | 4.00% | ~9,466 |
+| GG EZ | 4.00% | ~9,466 |
+| DM intervention | 4.00% | ~9,466 |
+| Speedrun | 4.00% | ~9,466 |
 | Livin' in a dwarven paradise | 3.00% | ~7,099 |
 | Way of the Wimp | 3.00% | ~7,099 |
 | The plot thickens... At the tavern | 3.00% | ~7,099 |
@@ -45,8 +45,8 @@ Number of Ratings: 118  (23.09.2022)
 | Lust and Debauchery | 1.00% | ~2,366 |
 | Material Girl | 1.00% | ~2,366 |
 | In Navalu's footsteps | 0.80% | ~1,893 |
-| We come in peace | 0.70% | ~1,656 |
-| Lëgal Legend | 0.70% | ~1,656 |
+| We come in peace | 0.70% | ~1,657 |
+| Lëgal Legend | 0.70% | ~1,657 |
 | Holistic Adventuring Party | 0.60% | ~1,420 |
 | An old poacher makes the best gamekeeper | 0.60% | ~1,420 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,183 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~237 |
 | Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,635 (Ranked 62)  
+Progressed: 236,647 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,11 +260,11 @@ Completed: 7 (0.00%) (Ranked 347)
 | 2023-11-09 | 236,158 | 7 |
 | 2023-11-10 | 236,338 | 7 |
 | 2023-11-11 | 236,594 | 7 |
-| 2023-11-12 | 236,635 | 7 |
+| 2023-11-12 | 236,647 | 7 |
 ## Awards
 Max (Character Customization): 228  (Ranked 273)  
-Sum: 457 (Ranked 330)  
-Diff (max vs sum): -57  
+Sum: 457 (Ranked 331)  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 228 |

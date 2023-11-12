@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~966,047 |
-| I Need a Bigger Garage | 63.00% | ~676,233 |
-| Pump my Ride | 47.00% | ~504,491 |
-| Ghostbuster | 34.00% | ~364,951 |
-| Call Roadside Assistance | 18.00% | ~193,209 |
-| That Was Close | 18.00% | ~193,209 |
-| Quickie | 11.00% | ~118,072 |
-| California Dreamer | 7.00% | ~75,137 |
-| Can't Touch This | 5.00% | ~53,669 |
-| Carménère Taster | 4.00% | ~42,935 |
-| Comeback | 4.00% | ~42,935 |
+| The First of Many | 90.00% | ~966,063 |
+| I Need a Bigger Garage | 63.00% | ~676,244 |
+| Pump my Ride | 47.00% | ~504,499 |
+| Ghostbuster | 34.00% | ~364,957 |
+| Call Roadside Assistance | 18.00% | ~193,213 |
+| That Was Close | 18.00% | ~193,213 |
+| Quickie | 11.00% | ~118,074 |
+| California Dreamer | 7.00% | ~75,138 |
+| Can't Touch This | 5.00% | ~53,670 |
+| Carménère Taster | 4.00% | ~42,936 |
+| Comeback | 4.00% | ~42,936 |
 | Driver from Ipanema | 3.00% | ~32,202 |
 | Supersonic | 3.00% | ~32,202 |
 | Marathonist | 3.00% | ~32,202 |
@@ -33,7 +33,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Round the Globe | 1.00% | ~10,734 |
 | Golden Passport | 1.00% | ~10,734 |
 | Brave and Bold | 1.00% | ~10,734 |
-| Old Master | 0.90% | ~9,660 |
+| Old Master | 0.90% | ~9,661 |
 | Volcano Surfer | 0.80% | ~8,587 |
 | Otaku | 0.80% | ~8,587 |
 | Survivor | 0.60% | ~6,440 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Transporter | 0.10% | ~1,073 |
 | Look Mom, No Hands! | 0.10% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,073,386 (Ranked 13)  
+Progressed: 1,073,403 (Ranked 13)  
 Completed: 482 (0.04%) (Ranked 307)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,7 +250,7 @@ Completed: 482 (0.04%) (Ranked 307)
 | 2023-11-09 | 1,072,341 | 481 |
 | 2023-11-10 | 1,072,745 | 482 |
 | 2023-11-11 | 1,073,291 | 482 |
-| 2023-11-12 | 1,073,386 | 482 |
+| 2023-11-12 | 1,073,403 | 482 |
 ## Awards
 Max (Great for Beginners): 165  (Ranked 309)  
 Sum: 1,510 (Ranked 233)  

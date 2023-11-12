@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-03-02T18:00:00+00:00",
     "PcReleaseDate": "2022-03-02T18:00:00+00:00",
@@ -818,9 +818,9 @@
       "ID": "CLG_UNLOCK_10002",
       "SetID": "89cjc9l",
       "Name": "The Penguin",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 84
     },
     {
       "ID": "CLG_UNLOCK_10003",
@@ -922,9 +922,9 @@
       "ID": "PRG_BOSS_BIRD",
       "SetID": "89cjc9l",
       "Name": "The Bird",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 52
     },
     {
       "ID": "PRG_BOSS_FLOWER",
@@ -978,9 +978,9 @@
       "ID": "PRG_BOSS_SHIELD",
       "SetID": "89cjc9l",
       "Name": "The Shield",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "PRG_BOSS_SLIME",
@@ -1331,8 +1331,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:05:36.1411775+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:05:14.385116+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:22.009342+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:58:19.1359743+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:05:36.1412571+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:58:14.0979237+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:05:14.3852033+00:00"
 }

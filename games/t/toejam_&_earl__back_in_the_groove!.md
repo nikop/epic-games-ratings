@@ -13,9 +13,9 @@ Rating: 4.33 (Ranked 813)
 | Sunflower Master | 5.00% | ~2,889 |
 | Hi Fiver | 3.00% | ~1,733 |
 | A Timely Splash | 3.00% | ~1,733 |
-| Backer Visitor | 2.00% | ~1,155 |
-| Hate That Randomizer | 2.00% | ~1,155 |
-| Feet on Funkotron | 2.00% | ~1,155 |
+| Backer Visitor | 2.00% | ~1,156 |
+| Hate That Randomizer | 2.00% | ~1,156 |
+| Feet on Funkotron | 2.00% | ~1,156 |
 | Elf Chaser | 1.00% | ~578 |
 | Fool Me Twice | 1.00% | ~578 |
 | Old School Jammin' | 1.00% | ~578 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 813)
 | Why Do I Keep Doing That? | 0.10% | ~58 |
 | Hey, You Did It! | 0.10% | ~58 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,774 (Ranked 105)  
+Progressed: 57,775 (Ranked 105)  
 Completed: 6 (0.01%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 6 (0.01%) (Ranked 326)
 | 2023-11-09 | 57,728 | 6 |
 | 2023-11-10 | 57,745 | 6 |
 | 2023-11-11 | 57,772 | 6 |
-| 2023-11-12 | 57,774 | 6 |
+| 2023-11-12 | 57,775 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 79,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15014,9 +15014,9 @@
       "Count": 12811
     }
   ],
-  "EOS_Progressed": 896296,
+  "EOS_Progressed": 896300,
   "EOS_Completed": 2767,
-  "EOS_NewPlayers": 1004,
+  "EOS_NewPlayers": 1002,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38314,6 +38314,11 @@
       "Time": "2023-11-12T04:04:40.5454253+00:00",
       "NumProgressed": 896296,
       "NumCompleted": 2767
+    },
+    {
+      "Time": "2023-11-12T05:04:24.9862113+00:00",
+      "NumProgressed": 896300,
+      "NumCompleted": 2767
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38358,7 +38363,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4481
+      "UsersEstimate": 4482
     },
     {
       "ID": "FollowingTheRiver",
@@ -38502,7 +38507,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4481
+      "UsersEstimate": 4482
     },
     {
       "ID": "Specialist",
@@ -38861,21 +38866,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896296,
+      "Progressed": 896300,
       "Completed": 2767
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24919,
+      "Progressed": 24923,
       "Completed": 10211
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-12T03:58:35.966876+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:04:40.5454247+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:04:24.9862108+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:58:35.9668765+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:04:40.5455655+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:58:29.4473007+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:04:24.9863375+00:00"
 }

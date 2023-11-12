@@ -34,6 +34,7 @@ Rating: 4.60 (Ranked 409)
 | Digging for Treasure | 0.20% | ~11 |
 | Preparation Is Everything | 0.20% | ~11 |
 | My Final Form | 0.20% | ~11 |
+| Fiery Friend | 0.20% | ~11 |
 | Impenetrable Fortress | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
 | Here be Dragons | 0.20% | ~11 |
@@ -49,7 +50,6 @@ Rating: 4.60 (Ranked 409)
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | Crimson Caldera | 0.10% | ~5 |
-| Fiery Friend | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
 | The Eternal Court | 0.10% | ~5 |

@@ -6,15 +6,15 @@ Number of Ratings: 125  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforgiven | 88.00% | ~1,752 |
+| Unforgiven | 88.00% | ~1,753 |
 | Self-Improvement | 71.00% | ~1,414 |
-| Perky | 65.00% | ~1,294 |
+| Perky | 65.00% | ~1,295 |
 | Let’s Ride | 60.00% | ~1,195 |
-| Welcome to the Weird West | 56.00% | ~1,115 |
-| Dead or Alive | 55.00% | ~1,095 |
+| Welcome to the Weird West | 56.00% | ~1,116 |
+| Dead or Alive | 55.00% | ~1,096 |
 | Full House | 37.00% | ~737 |
 | Off the Trail | 34.00% | ~677 |
-| Justice Served | 30.00% | ~597 |
+| Justice Served | 30.00% | ~598 |
 | Chain Reaction | 27.00% | ~538 |
 | Through Their Eyes | 26.00% | ~518 |
 | Dishonored | 25.00% | ~498 |
@@ -43,7 +43,7 @@ Number of Ratings: 125  (23.09.2022)
 | Monster Hunter | 8.00% | ~159 |
 | Knuckle Sandwich | 8.00% | ~159 |
 | Getting the Gang Back Together | 7.00% | ~139 |
-| Who You Gonna Call? | 6.00% | ~119 |
+| Who You Gonna Call? | 6.00% | ~120 |
 | Healing Old Wounds | 5.00% | ~100 |
 | This Is Sparta | 5.00% | ~100 |
 | What’s in the Box? | 5.00% | ~100 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,991 (Ranked 220)  
+Progressed: 1,992 (Ranked 220)  
 Completed: 7 (0.35%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 7 (0.35%) (Ranked 218)
 | 2023-11-09 | 1,989 | 7 |
 | 2023-11-10 | 1,990 | 7 |
 | 2023-11-11 | 1,991 | 7 |
+| 2023-11-12 | 1,992 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 500)  
 Sum: 28 (Ranked 515)  

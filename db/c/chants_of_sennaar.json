@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.31,
+  "EOS_Completed_Percentage": 5.3,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2250,6 +2250,11 @@
       "Time": "2023-11-12T04:05:32.8844111+00:00",
       "NumProgressed": 527,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-12T05:05:11.4185442+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2333,7 +2338,7 @@
       "Name": "A great audience",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2341,7 +2346,7 @@
       "Name": "For its own good",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2373,7 +2378,7 @@
       "Name": "True G3M4R",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2405,7 +2410,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2437,7 +2442,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "PROGRESS_N4",
@@ -2445,7 +2450,7 @@
       "Name": "The darkness",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "PROGRESS_N5",
@@ -2460,14 +2465,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:05:32.8844106+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:05:11.4185438+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:59:39.7608706+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:05:32.8844369+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:59:26.6612224+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:05:11.4185656+00:00"
 }

@@ -1,7 +1,7 @@
 # Call of the Wild: The Angler™
 [Store](https://store.epicgames.com/en-US/p/call-of-the-wild-the-angler)  
 [View Rawdata](../../db/c/call_of_the_wild__the_angler™.json)  
-Rating: 4.18 (Ranked 926)  
+Rating: 4.18 (Ranked 925)  
 Number of Ratings: 281  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -23,6 +23,7 @@ Number of Ratings: 281  (23.09.2022)
 | I'm the Captain Now | 0.20% | ~13 |
 | More than a Tourist | 0.10% | ~6 |
 | Hook, Line and Sinker | 0.10% | ~6 |
+| Head for Heights | 0.10% | ~6 |
 | The Beetles | 0.10% | ~6 |
 | Lake Me up Before You Go Go | 0.10% | ~6 |
 | Marathon | 0.10% | ~6 |
@@ -30,17 +31,16 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.10% | ~6 |
 | Big Fish Small Pond | 0.10% | ~6 |
 | Golden Ridge Ranger | 0.10% | ~6 |
+| Buckaroo | 0.10% | ~6 |
 | Gonna Need a Bigger Boat | 0.10% | ~6 |
 | Rod and Troll | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
 | Aguas Claras Conquistador | 0.10% | ~6 |
 | All Good Kings Must Come to an End | 0.10% | ~6 |
 | Three Square Meals | 0.10% | ~6 |
-| Head for Heights | 0.00% | ~0 |
 | Have Fish, Will Travel | 0.00% | ~0 |
 | Taylor Made | 0.00% | ~0 |
 | Lost and Flounder | 0.00% | ~0 |
-| Buckaroo | 0.00% | ~0 |
 | Norway Jose | 0.00% | ~0 |
 | Trollsporet Tale Teller | 0.00% | ~0 |
 | Fish upon a Star | 0.00% | ~0 |

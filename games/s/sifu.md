@@ -1,7 +1,7 @@
 # Sifu
 [Store](https://store.epicgames.com/en-US/p/sifu)  
 [View Rawdata](../../db/s/sifu.json)  
-Rating: 4.82 (Ranked 65)  
+Rating: 4.82 (Ranked 66)  
 Number of Ratings: 9,492  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -15,6 +15,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Life is your teacher | 0.50% | ~3,584 |
 | State of constant learning | 0.50% | ~3,584 |
 | Qi Gong: Breath | 0.50% | ~3,584 |
+| Qi Gong: Essence | 0.50% | ~3,584 |
 | Lightning Hands | 0.50% | ~3,584 |
 | Path of the Prospect | 0.50% | ~3,584 |
 | Rumble in the Hangar | 0.50% | ~3,584 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kill Nil | 0.40% | ~2,867 |
 | Stuntmaster | 0.40% | ~2,867 |
 | Street Fighting | 0.40% | ~2,867 |
-| Qi Gong: Essence | 0.40% | ~2,867 |
 | Old Child | 0.40% | ~2,867 |
 | Take damage to save time | 0.40% | ~2,867 |
 | Martial Hub | 0.40% | ~104 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,714 (Ranked 21)  
+Progressed: 716,718 (Ranked 21)  
 Completed: 12,934 (1.80%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 12,934 (1.80%) (Ranked 126)
 | 2023-11-09 | 716,476 | 12,934 |
 | 2023-11-10 | 716,574 | 12,934 |
 | 2023-11-11 | 716,690 | 12,934 |
-| 2023-11-12 | 716,714 | 12,934 |
+| 2023-11-12 | 716,718 | 12,934 |
 ## Awards
 Max (Great Boss Battles): 6,783  (Ranked 55)  
 Sum: 11,848 (Ranked 82)  

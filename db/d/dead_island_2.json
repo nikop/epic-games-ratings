@@ -6337,10 +6337,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11114,
       "NumberOfAwardsMax": 7320
+    },
+    {
+      "Time": "2023-11-12T04:59:35.5421518+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11117,
+      "NumberOfAwardsMax": 7320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11114,
+  "NumberOfAwards": 11117,
   "NumberOfAwardsMax": 7320,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6390,7 +6396,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 475
+      "Count": 478
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -6399,10 +6405,10 @@
       "Count": 458
     }
   ],
-  "EOS_Progressed": 717014,
+  "EOS_Progressed": 717032,
   "EOS_Completed": 2382,
-  "EOS_NewPlayers": 4222,
-  "EOS_NewCompleters": 54,
+  "EOS_NewPlayers": 4213,
+  "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29874,6 +29880,11 @@
       "Time": "2023-11-12T04:03:30.6764196+00:00",
       "NumProgressed": 717014,
       "NumCompleted": 2382
+    },
+    {
+      "Time": "2023-11-12T05:03:23.9315202+00:00",
+      "NumProgressed": 717032,
+      "NumCompleted": 2382
     }
   ],
   "TotalAchievements": 51,
@@ -30107,9 +30118,9 @@
       "ID": "ach_magnum_opus",
       "SetID": "7km39fm",
       "Name": "Gore Horse",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 717
+      "UsersEstimate": 1434
     },
     {
       "ID": "ach_metropolitan",
@@ -30292,22 +30303,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717014,
+      "Progressed": 717032,
       "Completed": 2382
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 42556,
+      "Progressed": 42574,
       "Completed": 36525
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-12T01:47:46.8840982+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:03:30.676419+00:00",
+  "LastChanged": "2023-11-12T04:59:35.5421517+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:03:23.9315198+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:59:49.5884248+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:03:30.6765823+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:59:35.5421522+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:03:23.9316587+00:00"
 }

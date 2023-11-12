@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7238,9 +7238,9 @@
       "ID": "36",
       "SetID": "3aa2279",
       "Name": "Fiery Friend",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "37",
@@ -7501,8 +7501,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T17:03:23.9116257+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:03:33.7355997+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:03:26.8759162+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T04:02:35.3686777+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:03:33.7357072+00:00"
+  "LastUpdate_Ratings": "2023-11-12T05:02:34.2071373+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:03:26.8760027+00:00"
 }

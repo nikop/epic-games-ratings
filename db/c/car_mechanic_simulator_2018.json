@@ -2,13 +2,13 @@
   "ID": "226306adde104c9092247dcd4bfa1499",
   "Name": "Car Mechanic Simulator 2018",
   "ProductSlug": "car-mechanic-simulator-2018",
-  "Ranking_Rating": 606,
+  "Ranking_Rating": 607,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 65,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2017-07-28T15:00:00+00:00",
@@ -4998,6 +4998,6 @@
   "FirstSeen": "2022-07-22T20:26:04.6520015+00:00",
   "LastChanged": "2023-11-11T21:03:25.2858059+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:00.0917729+00:00",
-  "LastUpdate_Ratings": "2023-11-12T04:02:47.5909968+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:06:33.9361246+00:00"
+  "LastUpdate_Ratings": "2023-11-12T05:02:45.2469868+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:06:05.2306215+00:00"
 }

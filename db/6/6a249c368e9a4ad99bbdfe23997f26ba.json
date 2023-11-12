@@ -4,8 +4,8 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
     "PcReleaseDate": "2023-05-03T15:00:00+00:00",
@@ -560,9 +560,9 @@
       "ID": "A25",
       "SetID": "7f5j12l",
       "Name": "Igloos Destroyed",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A26",
@@ -600,9 +600,9 @@
       "ID": "A3",
       "SetID": "7f5j12l",
       "Name": "Level 3 Completed",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "A30",
@@ -703,8 +703,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:04:43.2790133+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:04:27.5533136+00:00",
   "LastUpdate_AppInfo": "2023-11-07T08:57:06.7637727+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:58:54.1599435+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:04:43.2790379+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:58:45.9100664+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:04:27.5533368+00:00"
 }

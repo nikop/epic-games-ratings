@@ -5,14 +5,14 @@ Rating: 3.95 (Ranked 1,004)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 2.00% | ~1,811 |
-| First One’s Free | 2.00% | ~1,811 |
-| Downed but Not Outed | 2.00% | ~1,811 |
-| Too Old for This | 2.00% | ~1,811 |
+| Neophyte Ninja | 2.00% | ~1,812 |
+| First One’s Free | 2.00% | ~1,812 |
+| Downed but Not Outed | 2.00% | ~1,812 |
+| Too Old for This | 2.00% | ~1,812 |
+| Fancy Pants | 2.00% | ~1,812 |
 | Underworld Initiate | 1.00% | ~906 |
 | Roid Ranger | 1.00% | ~906 |
 | King of the Hill | 1.00% | ~906 |
-| Fancy Pants | 1.00% | ~906 |
 | Off the Rocks | 1.00% | ~906 |
 | Raider’s Ruin | 1.00% | ~906 |
 | Dragonslayer | 1.00% | ~906 |
@@ -21,7 +21,7 @@ Rating: 3.95 (Ranked 1,004)
 | Hidden Sonata | 0.80% | ~725 |
 | Track Star | 0.70% | ~634 |
 | True Player | 0.70% | ~634 |
-| Headhunter | 0.60% | ~543 |
+| Headhunter | 0.60% | ~544 |
 | I Like Trains | 0.50% | ~453 |
 | Freebooter | 0.50% | ~453 |
 | Legend Looter | 0.40% | ~362 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,004)
 | Geek Out | 0.10% | ~91 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,573 (Ranked 91)  
+Progressed: 90,588 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
 | 2023-11-11 | 90,531 | 55 |
-| 2023-11-12 | 90,573 | 55 |
+| 2023-11-12 | 90,588 | 55 |
 ## Awards
 Max (Diverse Characters): 526  (Ranked 203)  
 Sum: 2,993 (Ranked 175)  

@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 606,
-  "Ranking_Popularity": 474,
-  "Ranking_PopularitySum": 500,
+  "Ranking_Rating": 588,
+  "Ranking_Popularity": 468,
+  "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-06-25T13:13:06.191665+00:00",
@@ -361,23 +361,29 @@
       "Rating": 4.49,
       "NumberOfAwards": 34,
       "NumberOfAwardsMax": 34
+    },
+    {
+      "Time": "2023-11-12T04:58:46.5147401+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 35,
+      "NumberOfAwardsMax": 35
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 34,
-  "NumberOfAwardsMax": 34,
+  "NumberOfAwards": 35,
+  "NumberOfAwardsMax": 35,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 34
+      "Count": 35
     }
   ],
   "EOS_Progressed": 3641,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -6117,9 +6123,9 @@
   "FirstSeen": "2023-06-20T02:04:43.7723421+00:00",
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
-  "LastChanged": "2023-11-09T02:16:14.1164804+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:06:37.0450029+00:00",
+  "LastChanged": "2023-11-12T04:58:46.5147399+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:06:08.202123+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:17.4620944+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:58:54.8118702+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:06:37.0450645+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:58:46.5147404+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:06:08.2021845+00:00"
 }

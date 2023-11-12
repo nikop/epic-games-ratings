@@ -4,8 +4,8 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 179,
+  "EOS_Progressed": 180,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -680,6 +680,11 @@
       "Time": "2023-11-11T22:09:24.8340759+00:00",
       "NumProgressed": 179,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T05:09:20.6676952+00:00",
+      "NumProgressed": 180,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -697,9 +702,9 @@
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_03",
@@ -787,7 +792,7 @@
       "Name": "Adventurer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_14",
@@ -809,9 +814,9 @@
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_17",
@@ -865,9 +870,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_24",
@@ -883,7 +888,7 @@
       "Name": "Fashion Victim",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_26",
@@ -907,7 +912,7 @@
       "Name": "I Found It",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_29",
@@ -931,7 +936,7 @@
       "Name": "Stone Collection",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_33",
@@ -978,14 +983,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 179,
+      "Progressed": 180,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-12T04:09:21.4628093+00:00",
+  "LastChanged_Achievements": "2023-11-12T05:09:20.6676949+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:58:47.1317688+00:00",
-  "LastUpdate_Achievements": "2023-11-12T04:09:21.46284+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:58:40.4441602+00:00",
+  "LastUpdate_Achievements": "2023-11-12T05:09:20.6677178+00:00"
 }
