@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 156,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-09-23T13:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 98799,
+  "EOS_Progressed": 98802,
   "EOS_Completed": 998,
-  "EOS_NewPlayers": 1164,
+  "EOS_NewPlayers": 1154,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -24022,6 +24022,11 @@
       "Time": "2023-11-12T19:08:32.7021504+00:00",
       "NumProgressed": 98799,
       "NumCompleted": 998
+    },
+    {
+      "Time": "2023-11-12T20:09:24.0580239+00:00",
+      "NumProgressed": 98802,
+      "NumCompleted": 998
     }
   ],
   "TotalAchievements": 56,
@@ -24033,7 +24038,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 31616
+      "UsersEstimate": 31617
     },
     {
       "ID": "ach_001_game_complete",
@@ -24345,7 +24350,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 33592
+      "UsersEstimate": 33593
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -24480,15 +24485,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 98799,
+      "Progressed": 98802,
       "Completed": 998
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-10-25T15:57:21.7620587+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:08:32.7021503+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:09:24.058023+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:44.8321264+00:00",
-  "LastUpdate_Ratings": "2023-11-12T19:00:01.9097011+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:08:32.7022632+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:01:14.5088269+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:09:24.0581786+00:00"
 }

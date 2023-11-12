@@ -6,17 +6,17 @@ Rating: 4.55 (Ranked 503)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 87.00% | ~402 |
-| And again, and again, and... | 63.00% | ~291 |
+| And again, and again, and... | 64.00% | ~296 |
+| Burn, Elysium, burn! | 63.00% | ~291 |
 | Kuvaq Minigame-Master | 62.00% | ~286 |
-| Burn, Elysium, burn! | 62.00% | ~286 |
 | FunScore | 55.00% | ~254 |
 | Funtime's over | 53.00% | ~245 |
 | Chunky | 50.00% | ~231 |
 | Boat of love, boat of love | 49.00% | ~226 |
 | Shall we play a game? | 48.00% | ~222 |
 | School's out | 44.00% | ~203 |
+| Elysian Minigame-Master | 38.00% | ~176 |
 | Scaffolding Expert | 37.00% | ~171 |
-| Elysian Minigame-Master | 37.00% | ~171 |
 | Sole Music | 36.00% | ~166 |
 | Portals come in packs | 30.00% | ~139 |
 | No man left behind! | 29.00% | ~134 |

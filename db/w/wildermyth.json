@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
     "PcReleaseDate": "2021-06-15T00:00:00+00:00",
@@ -1883,9 +1883,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -2203,9 +2203,9 @@
       "ID": "theme_storm_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Tempest",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "theme_tree_knockback50Tiles",
@@ -2251,8 +2251,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-11-12T17:00:17.2155611+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:08:46.3227105+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:09:41.9404305+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:22.1954438+00:00",
-  "LastUpdate_Ratings": "2023-11-12T19:00:25.1186274+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:08:46.3227487+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:01:47.0686142+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:09:41.9404769+00:00"
 }

@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 91.00% | ~70 |
-| Lightbulb Seeker | 88.00% | ~68 |
-| Grilled Mouse | 86.00% | ~66 |
-| Lightbulbs Collector | 79.00% | ~61 |
-| Energy Collector | 75.00% | ~58 |
-| East Street Energy | 52.00% | ~40 |
-| Lightbulbs Expert | 47.00% | ~36 |
+| Energy Seeker | 90.00% | ~70 |
+| Lightbulb Seeker | 87.00% | ~68 |
+| Grilled Mouse | 85.00% | ~66 |
+| Lightbulbs Collector | 78.00% | ~61 |
+| Energy Collector | 74.00% | ~58 |
+| East Street Energy | 51.00% | ~40 |
+| Lightbulbs Expert | 46.00% | ~36 |
 | Energy Expert | 45.00% | ~35 |
 | That's one way to travel | 44.00% | ~34 |
 | The Old Man and the Café | 40.00% | ~31 |
-| South Town Energy | 34.00% | ~26 |
+| South Town Energy | 33.00% | ~26 |
 | Photogenic | 31.00% | ~24 |
-| North Town Energy | 29.00% | ~22 |
-| The Girl and the Homework | 29.00% | ~22 |
-| OK, I heard you!! | 29.00% | ~22 |
+| North Town Energy | 28.00% | ~22 |
+| The Girl and the Homework | 28.00% | ~22 |
+| OK, I heard you!! | 28.00% | ~22 |
 | Lightbulb Detective | 27.00% | ~21 |
-| Unlimited Power!! | 25.00% | ~19 |
+| Unlimited Power!! | 24.00% | ~19 |
 | Cartographer | 22.00% | ~17 |
 | The Quiche and the Hair Dryer | 21.00% | ~16 |
 | South Square Lightbulbs | 19.00% | ~15 |
 | The Ghost and the Lamps | 18.00% | ~14 |
 | The Woman and the Pizzeria | 18.00% | ~14 |
 | West Residence Energy | 17.00% | ~13 |
-| West Residence Lightbulbs | 16.00% | ~12 |
-| The Painter and the Lights | 16.00% | ~12 |
+| West Residence Lightbulbs | 15.00% | ~12 |
+| The Painter and the Lights | 15.00% | ~12 |
 | Riddle Master | 14.00% | ~11 |
 | At your service | 13.00% | ~10 |
 | East Street Lightbulbs | 12.00% | ~9 |
@@ -45,7 +45,7 @@
 | Warm Bed | 3.00% | ~2 |
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 77 (Ranked 444)  
+Progressed: 78 (Ranked 443)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -57,6 +57,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-07-24 | 75 | 0 |
 | 2023-09-15 | 76 | 0 |
 | 2023-10-22 | 77 | 0 |
+| 2023-11-12 | 78 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

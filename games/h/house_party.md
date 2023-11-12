@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~6 |
 | Simple Geometry | 0.10% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,452 (Ranked 178)  
+Progressed: 6,452 (Ranked 179)  
 Completed: 3 (0.05%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |

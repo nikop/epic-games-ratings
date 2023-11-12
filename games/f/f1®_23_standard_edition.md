@@ -1,16 +1,16 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.69 (Ranked 230)  
+Rating: 4.69 (Ranked 231)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,295 |
-| On the Top Step | 86.00% | ~4,897 |
-| Setting up for Success | 75.00% | ~4,270 |
+| Getting on the Step | 93.00% | ~5,296 |
+| On the Top Step | 86.00% | ~4,898 |
+| Setting up for Success | 75.00% | ~4,271 |
 | Team Orders | 74.00% | ~4,214 |
 | Engineer | 53.00% | ~3,018 |
-| Familiar Faces | 47.00% | ~2,676 |
+| Familiar Faces | 47.00% | ~2,677 |
 | Going the Extra Mile | 41.00% | ~2,335 |
 | Sharing the Love | 40.00% | ~2,278 |
 | Hitting a Season | 34.00% | ~1,936 |
@@ -36,7 +36,7 @@ Rating: 4.69 (Ranked 230)
 | All in a Weekend's Work | 11.00% | ~626 |
 | Friendly Competition | 11.00% | ~626 |
 | Recycle | 11.00% | ~626 |
-| Tinkerer | 9.00% | ~512 |
+| Tinkerer | 9.00% | ~513 |
 | Undisputed Winner | 8.00% | ~456 |
 | Living up to Expectations | 6.00% | ~342 |
 | Smooth Operator | 6.00% | ~342 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 230)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,694 (Ranked 181)  
+Progressed: 5,695 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -115,7 +115,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 5,500 | 0 |
 | 2023-11-10 | 5,572 | 0 |
 | 2023-11-11 | 5,656 | 0 |
-| 2023-11-12 | 5,694 | 0 |
+| 2023-11-12 | 5,695 | 0 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 501)  
 Sum: 72 (Ranked 463)  

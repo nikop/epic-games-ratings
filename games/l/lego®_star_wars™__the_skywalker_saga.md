@@ -6,20 +6,20 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,392 |
-| ''I don't like you either!'' | 79.00% | ~41,041 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,393 |
+| ''I don't like you either!'' | 79.00% | ~41,042 |
 | ''Impressive, most impressive'' | 72.00% | ~37,405 |
 | ''You think you're some kind of Jedi?'' | 72.00% | ~37,405 |
-| The Phantom Menace | 59.00% | ~30,651 |
-| ''Aggressive Negotiations'' | 59.00% | ~30,651 |
-| ''I can fly anything'' | 57.00% | ~29,612 |
+| The Phantom Menace | 59.00% | ~30,652 |
+| ''Aggressive Negotiations'' | 59.00% | ~30,652 |
+| ''I can fly anything'' | 57.00% | ~29,613 |
 | ''And who gave you permission...?'' | 54.00% | ~28,054 |
-| A New Hope | 48.00% | ~24,936 |
+| A New Hope | 48.00% | ~24,937 |
 | Attack of the Clones | 47.00% | ~24,417 |
 | Revenge of the Sith | 41.00% | ~21,300 |
-| The Empire Strikes Back | 38.00% | ~19,741 |
-| ''A fine addition to my collection'' | 38.00% | ~19,741 |
-| Return of the Jedi | 32.00% | ~16,624 |
+| The Empire Strikes Back | 38.00% | ~19,742 |
+| ''A fine addition to my collection'' | 38.00% | ~19,742 |
+| Return of the Jedi | 32.00% | ~16,625 |
 | The Force Awakens | 27.00% | ~14,027 |
 | The Last Jedi | 23.00% | ~11,949 |
 | The Rise of Skywalker | 20.00% | ~10,390 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~520 |
 | ''I've never seen a real one!'' | 1.00% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,951 (Ranked 109)  
+Progressed: 51,952 (Ranked 109)  
 Completed: 247 (0.48%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 247 (0.48%) (Ranked 198)
 | 2023-11-09 | 51,936 | 247 |
 | 2023-11-10 | 51,939 | 247 |
 | 2023-11-11 | 51,946 | 247 |
-| 2023-11-12 | 51,951 | 247 |
+| 2023-11-12 | 51,952 | 247 |
 ## Awards
 Max (Great Boss Battles): 2,437  (Ranked 104)  
 Sum: 6,690 (Ranked 123)  

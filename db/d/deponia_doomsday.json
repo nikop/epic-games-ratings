@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -702,9 +702,9 @@
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 296
     },
     {
       "ID": "dep4_achievement_20",
@@ -790,17 +790,17 @@
       "ID": "dep4_achievement_3",
       "SetID": "5d32b60",
       "Name": "Burn, Elysium, burn!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 291
     },
     {
       "ID": "dep4_achievement_30",
       "SetID": "5d32b60",
       "Name": "Elysian Minigame-Master",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 176
     },
     {
       "ID": "dep4_achievement_31",
@@ -911,8 +911,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:05:38.3348984+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:06:57.1513211+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.983403+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:58:24.6583864+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:05:38.3349227+00:00"
+  "LastUpdate_Ratings": "2023-11-12T19:59:01.4673427+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:06:57.1513421+00:00"
 }

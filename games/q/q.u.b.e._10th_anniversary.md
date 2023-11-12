@@ -1,26 +1,26 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.41 (Ranked 721)  
+Rating: 4.41 (Ranked 720)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 14.00% | ~2,623 |
-| Sector 2 | 13.00% | ~2,436 |
-| Crush That Cube! | 11.00% | ~2,061 |
-| Sector 3 | 11.00% | ~2,061 |
-| Crush That Ball! | 9.00% | ~1,686 |
-| Sector 4 | 9.00% | ~1,686 |
-| Sector 5 | 6.00% | ~1,124 |
-| Sector 6 | 5.00% | ~937 |
-| Feeling the Blues | 4.00% | ~749 |
-| Squished | 4.00% | ~749 |
-| Finale | 3.00% | ~562 |
-| Sector 7 | 3.00% | ~562 |
-| Did That Work? -- No! | 3.00% | ~562 |
+| Sector 1 | 14.00% | ~2,627 |
+| Sector 2 | 13.00% | ~2,439 |
+| Crush That Cube! | 11.00% | ~2,064 |
+| Sector 3 | 11.00% | ~2,064 |
+| Crush That Ball! | 9.00% | ~1,689 |
+| Sector 4 | 9.00% | ~1,689 |
+| Sector 5 | 6.00% | ~1,126 |
+| Sector 6 | 5.00% | ~938 |
+| Feeling the Blues | 4.00% | ~751 |
+| Squished | 4.00% | ~751 |
+| Finale | 3.00% | ~563 |
+| Sector 7 | 3.00% | ~563 |
+| Did That Work? -- No! | 3.00% | ~563 |
 | Master Room | 2.00% | ~375 |
-| Bronze Trophy | 1.00% | ~187 |
-| The Puzzle Master | 1.00% | ~187 |
+| Bronze Trophy | 1.00% | ~188 |
+| The Puzzle Master | 1.00% | ~188 |
 | Hopefully that's all of them! | 0.90% | ~169 |
 | Phew! | 0.90% | ~169 |
 | Silver Trophy | 0.90% | ~169 |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 721)
 | Gold Trophy | 0.80% | ~150 |
 | Maxed Out | 0.80% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,736 (Ranked 138)  
+Progressed: 18,765 (Ranked 138)  
 Completed: 49 (0.26%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -59,7 +59,7 @@ Completed: 49 (0.26%) (Ranked 234)
 | 2023-11-09 | 17,550 | 38 |
 | 2023-11-10 | 17,953 | 39 |
 | 2023-11-11 | 18,423 | 45 |
-| 2023-11-12 | 18,736 | 49 |
+| 2023-11-12 | 18,765 | 49 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

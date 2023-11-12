@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 647,
+  "Ranking_Rating": 646,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,7 +182,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 251226,
+  "EOS_Progressed": 251228,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
@@ -18847,6 +18847,11 @@
       "Time": "2023-11-12T19:08:33.412295+00:00",
       "NumProgressed": 251226,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-12T20:09:25.0038802+00:00",
+      "NumProgressed": 251228,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -18882,7 +18887,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 52757
+      "UsersEstimate": 52758
     },
     {
       "ID": "blotbuster",
@@ -18914,7 +18919,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 42708
+      "UsersEstimate": 42709
     },
     {
       "ID": "cantBeKeptDown",
@@ -18962,7 +18967,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50245
+      "UsersEstimate": 50246
     },
     {
       "ID": "didYourTime",
@@ -19034,7 +19039,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 133150
+      "UsersEstimate": 133151
     },
     {
       "ID": "indegestible",
@@ -19098,7 +19103,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 125613
+      "UsersEstimate": 125614
     },
     {
       "ID": "notScared",
@@ -19178,7 +19183,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32659
+      "UsersEstimate": 32660
     },
     {
       "ID": "treeMedalist",
@@ -19225,7 +19230,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 251226,
+      "Progressed": 251228,
       "Completed": 6
     }
   ],
@@ -19233,8 +19238,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:08:33.4122949+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:09:25.0038798+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:31.2467983+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:57:16.8462298+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:08:33.4124118+00:00"
+  "LastUpdate_Ratings": "2023-11-12T19:57:32.8705986+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:09:25.0040008+00:00"
 }

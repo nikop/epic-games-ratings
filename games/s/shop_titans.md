@@ -82,6 +82,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.70% | ~977 |
 | Top of the World | 0.70% | ~977 |
 | Proud Paladin | 0.70% | ~977 |
+| Constellated | 0.70% | ~977 |
 | Thirst for Knowledge | 0.70% | ~977 |
 | Booty by the Boatload | 0.70% | ~977 |
 | Archivist | 0.70% | ~977 |
@@ -96,7 +97,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Moment of Respite | 0.70% | ~977 |
 | King's Shadow | 0.70% | ~977 |
 | Master Recycler | 0.70% | ~977 |
-| Constellated | 0.60% | ~837 |
 | Fillin' the Bin | 0.60% | ~837 |
 | A Legend is Born | 0.60% | ~837 |
 | Economy of Scarce | 0.60% | ~837 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,576 (Ranked 79)  
+Progressed: 139,583 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 181 (0.13%) (Ranked 260)
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
-| 2023-11-12 | 139,576 | 181 |
+| 2023-11-12 | 139,583 | 181 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,533 (Ranked 50)  

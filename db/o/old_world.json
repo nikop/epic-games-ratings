@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15285,
+  "EOS_Progressed": 15287,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15845,6 +15845,11 @@
       "Time": "2023-11-12T18:05:04.8969153+00:00",
       "NumProgressed": 15285,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-12T20:05:32.3411214+00:00",
+      "NumProgressed": 15287,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17606,9 +17611,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 917
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -18566,9 +18571,9 @@
       "ID": "ACHIEVEMENT_NATION_KUSH",
       "SetID": "9201eeb",
       "Name": "Kush",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 92
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
@@ -18591,21 +18596,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15285,
+      "Progressed": 15287,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15285,
+      "Progressed": 15287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:04:32.7171704+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:05:32.3411211+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:59:49.3774969+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:04:32.7180671+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:00:57.0634878+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:05:32.3419522+00:00"
 }

@@ -10,14 +10,14 @@ Number of Ratings: 281  (23.09.2022)
 | Can you smell what the Rod is Hooking | 1.00% | ~65 |
 | Hey Good Hookin | 1.00% | ~65 |
 | Ready to Rod and Roll | 1.00% | ~65 |
+| Fish Out of Water | 1.00% | ~65 |
 | I'm on a Boat! | 1.00% | ~65 |
 | More Fish in the Sea | 1.00% | ~65 |
 | Scaling up | 1.00% | ~65 |
-| Fish Out of Water | 0.90% | ~59 |
 | Things that go Splash in the Night | 0.80% | ~52 |
+| Goldfish? | 0.60% | ~39 |
 | School's Out for Summer | 0.60% | ~39 |
 | License to Gill | 0.50% | ~33 |
-| Goldfish? | 0.50% | ~33 |
 | Going for Gold | 0.50% | ~33 |
 | I'm Hooked! | 0.40% | ~26 |
 | I'm the Captain Now | 0.20% | ~13 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,502 (Ranked 177)  
+Progressed: 6,503 (Ranked 177)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 6,467 | 0 |
 | 2023-11-10 | 6,476 | 0 |
 | 2023-11-11 | 6,494 | 0 |
-| 2023-11-12 | 6,502 | 0 |
+| 2023-11-12 | 6,503 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 192 (Ranked 403)  

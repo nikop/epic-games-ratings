@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -144,9 +144,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 466,
+  "EOS_Progressed": 467,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2023-11-12T13:07:15.6326652+00:00",
       "NumProgressed": 466,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T20:04:52.8482831+00:00",
+      "NumProgressed": 467,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 31,
@@ -1559,9 +1564,9 @@
       "ID": "ACH_BUILD_RAFINERY",
       "SetID": "7c4cldc",
       "Name": "Black Gold",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 37
+      "UsersEstimate": 33
     },
     {
       "ID": "ACH_COLLECT_100_ELECTROSCRAP",
@@ -1591,9 +1596,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 266
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1633,7 +1638,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_COOK",
@@ -1663,9 +1668,9 @@
       "ID": "ACH_CUT_50_TREES",
       "SetID": "7c4cldc",
       "Name": "Forest Lord",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 51
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
@@ -1681,7 +1686,7 @@
       "Name": "My New Home",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_KILL_100",
@@ -1695,9 +1700,9 @@
       "ID": "ACH_KILL_20",
       "SetID": "7c4cldc",
       "Name": "Scrapper",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_KILL_50",
@@ -1735,9 +1740,9 @@
       "ID": "ACH_MYTHRIL_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Mythical Smelter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 61
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -1792,7 +1797,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 466,
+      "Progressed": 467,
       "Completed": 1
     }
   ],
@@ -1800,8 +1805,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-10-28T14:03:22.2767403+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:04:02.4864687+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:04:52.8482827+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.3233159+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:57:33.2485518+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:04:02.486506+00:00"
+  "LastUpdate_Ratings": "2023-11-12T19:57:54.7093097+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:04:52.8483071+00:00"
 }

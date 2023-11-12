@@ -32,10 +32,10 @@ Rating: 4.59 (Ranked 431)
 | Hard worker | 24.00% | ~8 |
 | Workaholic | 24.00% | ~8 |
 | Sidelined | 24.00% | ~8 |
+| Pandora's box | 21.00% | ~7 |
 | Fence | 21.00% | ~7 |
 | Freedom fighter | 18.00% | ~6 |
 | Defender | 18.00% | ~6 |
-| Pandora's box | 18.00% | ~6 |
 | Safecracker | 18.00% | ~6 |
 | Master thief | 15.00% | ~5 |
 | Moneybags | 15.00% | ~5 |

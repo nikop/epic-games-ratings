@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 839,
+  "Ranking_Rating": 840,
   "Ranking_Popularity": 376,
   "Ranking_PopularitySum": 448,
   "Ranking_EOS_Progress": 57,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -483,9 +483,9 @@
       "Count": 90
     }
   ],
-  "EOS_Progressed": 251854,
+  "EOS_Progressed": 251859,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 646,
+  "EOS_NewPlayers": 644,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23568,6 +23568,11 @@
       "Time": "2023-11-12T19:03:04.6470326+00:00",
       "NumProgressed": 251854,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-12T20:03:38.5569848+00:00",
+      "NumProgressed": 251859,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 52,
@@ -23579,7 +23584,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 68001
+      "UsersEstimate": 68002
     },
     {
       "ID": "ACH_AON",
@@ -23619,7 +23624,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 30222
+      "UsersEstimate": 30223
     },
     {
       "ID": "ACH_ENJOY",
@@ -23643,7 +23648,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 32741
+      "UsersEstimate": 32742
     },
     {
       "ID": "ACH_HATTRICK",
@@ -23723,7 +23728,7 @@
       "Name": "I will finish what you started",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 70519
+      "UsersEstimate": 70521
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -23795,7 +23800,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62964
+      "UsersEstimate": 62965
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -23859,7 +23864,7 @@
       "Name": "Me smart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 15111
+      "UsersEstimate": 15112
     },
     {
       "ID": "ACH_MEMORY5",
@@ -23883,7 +23888,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20148
+      "UsersEstimate": 20149
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -23891,7 +23896,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20148
+      "UsersEstimate": 20149
     },
     {
       "ID": "ACH_SCRATCH",
@@ -23899,7 +23904,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 62964
+      "UsersEstimate": 62965
     },
     {
       "ID": "ACH_SOREAD",
@@ -23947,7 +23952,7 @@
       "Name": "Trash compactor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15111
+      "UsersEstimate": 15112
     },
     {
       "ID": "ACH_TROLLKING",
@@ -23971,7 +23976,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20148
+      "UsersEstimate": 20149
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -23994,7 +23999,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 251854,
+      "Progressed": 251859,
       "Completed": 7
     }
   ],
@@ -24002,8 +24007,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2023-11-10T11:59:06.6668933+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:03:04.6470321+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:03:38.5569844+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:24.9494369+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:56:58.2153401+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:03:04.6471723+00:00"
+  "LastUpdate_Ratings": "2023-11-12T19:57:07.5744593+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:03:38.5571222+00:00"
 }

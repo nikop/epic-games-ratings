@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7617,10 +7617,10 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 716793,
+  "EOS_Progressed": 716805,
   "EOS_Completed": 12934,
-  "EOS_NewPlayers": 591,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 600,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
     {
@@ -25857,6 +25857,11 @@
       "Time": "2023-11-12T19:04:59.8288761+00:00",
       "NumProgressed": 716793,
       "NumCompleted": 12934
+    },
+    {
+      "Time": "2023-11-12T20:06:07.1119884+00:00",
+      "NumProgressed": 716805,
+      "NumCompleted": 12934
     }
   ],
   "TotalAchievements": 60,
@@ -26332,7 +26337,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -26347,21 +26352,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26094,
+      "Progressed": 26106,
       "Completed": 10738
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716793,
+      "Progressed": 716805,
       "Completed": 12934
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-12T13:02:58.501728+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:04:59.8288759+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:06:07.1119883+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.4237338+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:59:43.0858192+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:04:59.8290231+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:00:48.3568724+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:06:07.1121164+00:00"
 }

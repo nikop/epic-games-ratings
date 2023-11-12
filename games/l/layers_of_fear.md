@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wanderer | 78.00% | ~50 |
-| Something important | 77.00% | ~49 |
-| A piece of the story | 63.00% | ~40 |
-| Do what you have to | 44.00% | ~28 |
-| Scraps of love | 44.00% | ~28 |
+| Wanderer | 78.00% | ~51 |
+| Something important | 77.00% | ~50 |
+| A piece of the story | 62.00% | ~40 |
+| Do what you have to | 43.00% | ~28 |
+| Scraps of love | 43.00% | ~28 |
 | The artist’s impression | 42.00% | ~27 |
-| It's covered up for a reason | 39.00% | ~25 |
-| Refuse to look | 38.00% | ~24 |
+| It's covered up for a reason | 38.00% | ~25 |
+| Refuse to look | 37.00% | ~24 |
 | Sign of weakness | 34.00% | ~22 |
 | Finished it | 28.00% | ~18 |
 | Face your fears | 23.00% | ~15 |
-| Playtime | 16.00% | ~10 |
-| Tough conversation | 16.00% | ~10 |
+| Playtime | 15.00% | ~10 |
+| Tough conversation | 15.00% | ~10 |
 | First steps | 14.00% | ~9 |
 | The tragedy unfolds | 14.00% | ~9 |
-| Breaking free | 13.00% | ~8 |
-| True Reflection | 13.00% | ~8 |
+| Breaking free | 12.00% | ~8 |
+| True Reflection | 12.00% | ~8 |
 | A new way | 11.00% | ~7 |
 | A Slice of Life | 11.00% | ~7 |
 | Debut | 11.00% | ~7 |
@@ -57,7 +57,7 @@
 | Instinct of self-preservation | 0.00% | ~0 |
 | Sword of the Serpent | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 64 (Ranked 458)  
+Progressed: 65 (Ranked 458)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,3 +82,4 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 59 | 0 |
 | 2023-11-10 | 62 | 0 |
 | 2023-11-11 | 64 | 0 |
+| 2023-11-12 | 65 | 0 |

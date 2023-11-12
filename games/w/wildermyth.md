@@ -16,8 +16,8 @@ Number of Ratings: 45  (23.09.2022)
 | Daybreak | 1.00% | ~15 |
 | War Endured | 0.80% | ~12 |
 | Core Failure | 0.80% | ~12 |
+| Completing the Look | 0.70% | ~10 |
 | Let Me Get My Chisel | 0.60% | ~9 |
-| Completing the Look | 0.60% | ~9 |
 | Who's Counting? | 0.50% | ~7 |
 | Echoes Die | 0.50% | ~7 |
 | A Mythic Menagerie | 0.40% | ~6 |
@@ -45,6 +45,7 @@ Number of Ratings: 45  (23.09.2022)
 | Into Mulch | 0.10% | ~1 |
 | I'm Not Smiling | 0.10% | ~1 |
 | Astrology | 0.10% | ~1 |
+| Tempest | 0.10% | ~1 |
 | Lochias's Hunger | 0.10% | ~1 |
 | We Emerge Changed | 0.00% | ~0 |
 | Overwhelming Monstrosity | 0.00% | ~0 |
@@ -59,7 +60,6 @@ Number of Ratings: 45  (23.09.2022)
 | Solid as the Hills | 0.00% | ~0 |
 | We Call That Mortificient! | 0.00% | ~0 |
 | Symbiosis | 0.00% | ~0 |
-| Tempest | 0.00% | ~0 |
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

@@ -14,7 +14,7 @@
 | Ay ay yarrr! | 17.00% | ~19 |
 | C'who? | 12.00% | ~14 |
 | It's about the journey | 12.00% | ~14 |
-| There be sand in me shorts | 11.00% | ~12 |
+| There be sand in me shorts | 12.00% | ~14 |
 | Peaceful skies | 8.00% | ~9 |
 | Make it rain | 7.00% | ~8 |
 | Holy Crops! | 7.00% | ~8 |

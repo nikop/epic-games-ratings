@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -453,9 +453,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5380,
+  "EOS_Progressed": 5382,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7048,6 +7048,11 @@
       "Time": "2023-11-12T19:03:45.7459168+00:00",
       "NumProgressed": 5380,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-12T20:04:31.1583166+00:00",
+      "NumProgressed": 5382,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7073,9 +7078,9 @@
       "ID": "11",
       "SetID": "3aa2279",
       "Name": "There Can Only Be One!",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "12",
@@ -7169,9 +7174,9 @@
       "ID": "22",
       "SetID": "3aa2279",
       "Name": "Realm Estate",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 54
     },
     {
       "ID": "23",
@@ -7201,9 +7206,9 @@
       "ID": "26",
       "SetID": "3aa2279",
       "Name": "Bone Peddler",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 38
     },
     {
       "ID": "27",
@@ -7257,9 +7262,9 @@
       "ID": "32",
       "SetID": "3aa2279",
       "Name": "My Final Form",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "33",
@@ -7273,9 +7278,9 @@
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "35",
@@ -7538,13 +7543,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5380,
+      "Progressed": 5382,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5380,
+      "Progressed": 5382,
       "Completed": 7
     }
   ],
@@ -7552,8 +7557,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-12T10:02:43.8760392+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:03:45.7459163+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:04:31.158316+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T19:02:29.7862646+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:03:45.7459866+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:02:50.108024+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:04:31.1583852+00:00"
 }

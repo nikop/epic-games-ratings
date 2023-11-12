@@ -11,7 +11,7 @@
 | Winner's Circle | 56.00% | ~296 |
 | Holey Moley | 54.00% | ~286 |
 | Bomb's Away | 50.00% | ~264 |
-| Perfect Round | 46.00% | ~243 |
+| Perfect Round | 47.00% | ~249 |
 | Competitor's Spirit | 39.00% | ~206 |
 | The Strongest Field in Golf | 32.00% | ~169 |
 | Ace in the Hole | 30.00% | ~159 |

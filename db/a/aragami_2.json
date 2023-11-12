@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,7 +239,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43857,
+  "EOS_Progressed": 43858,
   "EOS_Completed": 240,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 1,
@@ -17454,6 +17454,11 @@
       "Time": "2023-11-12T19:03:28.0846283+00:00",
       "NumProgressed": 43857,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-12T20:04:08.0091666+00:00",
+      "NumProgressed": 43858,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 44,
@@ -17465,7 +17470,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 24998
+      "UsersEstimate": 24999
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -17673,7 +17678,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 8771
+      "UsersEstimate": 8772
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -17689,7 +17694,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24121
+      "UsersEstimate": 24122
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -17697,7 +17702,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14034
+      "UsersEstimate": 14035
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -17705,7 +17710,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27630
+      "UsersEstimate": 27631
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -17713,7 +17718,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11841
+      "UsersEstimate": 11842
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -17729,7 +17734,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26314
+      "UsersEstimate": 26315
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -17737,7 +17742,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29384
+      "UsersEstimate": 29385
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -17801,7 +17806,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40787
+      "UsersEstimate": 40788
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -17816,7 +17821,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43857,
+      "Progressed": 43858,
       "Completed": 240
     }
   ],
@@ -17824,8 +17829,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:03:28.0846278+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:04:08.009166+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:17.948951+00:00",
-  "LastUpdate_Ratings": "2023-11-12T19:00:39.1609137+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:03:28.0847653+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:02:36.2749148+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:04:08.0093177+00:00"
 }

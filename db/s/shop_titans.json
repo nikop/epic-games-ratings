@@ -7003,7 +7003,7 @@
       "Count": 3778
     }
   ],
-  "EOS_Progressed": 139576,
+  "EOS_Progressed": 139583,
   "EOS_Completed": 181,
   "EOS_NewPlayers": 915,
   "EOS_NewCompleters": 3,
@@ -28113,6 +28113,11 @@
       "Time": "2023-11-12T19:05:57.4235696+00:00",
       "NumProgressed": 139576,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-12T20:07:21.2927847+00:00",
+      "NumProgressed": 139583,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28186,9 +28191,9 @@
       "ID": "ascend03",
       "SetID": "anfd17p",
       "Name": "Constellated",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 977
     },
     {
       "ID": "ashley_a",
@@ -29019,15 +29024,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139576,
+      "Progressed": 139583,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-12T19:00:32.7157985+00:00",
-  "LastChanged_Achievements": "2023-11-12T19:05:57.4235692+00:00",
+  "LastChanged_Achievements": "2023-11-12T20:07:21.292784+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-12T19:00:32.7157994+00:00",
-  "LastUpdate_Achievements": "2023-11-12T19:05:57.4237525+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:01:58.3291414+00:00",
+  "LastUpdate_Achievements": "2023-11-12T20:07:21.2929615+00:00"
 }
