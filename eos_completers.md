@@ -52,7 +52,7 @@
 | 49 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 52 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.62% |
-| 53 | [Sonic Origins](games/s/sonic_origins.md) | 7.55% |
+| 53 | [Sonic Origins](games/s/sonic_origins.md) | 7.54% |
 | 54 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.14% |
 | 55 | [Time Loader](games/t/time_loader.md) | 7.03% |
 | 56 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 7.02% |
@@ -78,15 +78,15 @@
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.46% |
 | 77 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.45% |
 | 78 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 79 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
-| 79 | [The Bunker](games/t/the_bunker.md) | 4.17% |
-| 81 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.11% |
+| 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.29% |
+| 80 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
+| 80 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 82 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.90% |
 | 83 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
 | 84 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.80% |
 | 85 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
 | 86 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.45% |
-| 87 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.40% |
+| 87 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.38% |
 | 88 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.36% |
 | 89 | [Bunny Park](games/b/bunny_park.md) | 3.33% |
 | 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.32% |
@@ -137,7 +137,7 @@
 | 135 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.52% |
 | 136 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.51% |
 | 137 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
-| 138 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.43% |
+| 138 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.42% |
 | 139 | [Late Shift](games/l/late_shift.md) | 1.40% |
 | 140 | [Ten Dates](games/t/ten_dates.md) | 1.36% |
 | 141 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
@@ -161,11 +161,11 @@
 | 159 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 160 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.94% |
 | 161 | [Hades](games/h/hades.md) | 0.91% |
-| 162 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.89% |
-| 162 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
-| 162 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.89% |
-| 162 | [The Devil's Face](games/t/the_devil's_face.md) | 0.89% |
-| 162 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.89% |
+| 162 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.90% |
+| 163 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
+| 163 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.89% |
+| 163 | [The Devil's Face](games/t/the_devil's_face.md) | 0.89% |
+| 166 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.88% |
 | 167 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.86% |
 | 168 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.85% |
 | 169 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.84% |

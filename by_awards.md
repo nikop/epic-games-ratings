@@ -16,14 +16,14 @@
 | 14 | [Destiny 2](games/d/destiny_2.md) | 39,081 | 4.49 | 606 |
 | 15 | [Dead by Daylight](games/d/dead_by_daylight.md) | 35,816 | 4.51 | 565 |
 | 16 | [Shadow of the Tomb Raider: Definitive Edition](games/s/shadow_of_the_tomb_raider__definitive_edition.md) | 29,166 | 4.64 | 332 |
-| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,188 | 4.76 | 125 |
+| 17 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 24,229 | 4.76 | 125 |
 | 18 | [Dauntless](games/d/dauntless.md) | 23,654 | 4.53 | 538 |
 | 19 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 20,908 | 4.26 | 866 |
 | 20 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 20,292 | 4.57 | 470 |
 | 21 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 19,900 | 4.89 | 12 |
 | 22 | [Honkai: Star Rail](games/h/honkai__star_rail.md) | 19,139 | 4.74 | 156 |
 | 23 | [Warframe](games/w/warframe.md) | 18,317 | 4.60 | 409 |
-| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,825 | 4.76 | 125 |
+| 24 | [Borderlands 2](games/b/borderlands_2.md) | 15,836 | 4.76 | 125 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 14,700 | 4.60 | 409 |
 | 26 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 14,586 | 4.58 | 446 |
 | 27 | [Fallout 3: Game of the Year Edition](games/f/fallout_3__game_of_the_year_edition.md) | 13,954 | 4.60 | 409 |
@@ -85,7 +85,7 @@
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,146 | 4.51 | 565 |
 | 84 | [Days Gone](games/d/days_gone.md) | 4,030 | 4.68 | 253 |
 | 85 | [Trackmania](games/t/trackmania.md) | 3,909 | 4.66 | 294 |
-| 86 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,846 | 4.27 | 858 |
+| 86 | [Just Cause 4 Reloaded](games/j/just_cause_4_reloaded.md) | 3,848 | 4.27 | 858 |
 | 87 | [Paladins](games/p/paladins.md) | 3,808 | 4.32 | 821 |
 | 88 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 3,800 | 4.68 | 253 |
 | 89 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 3,704 | 4.46 | 647 |
@@ -210,11 +210,11 @@
 | 208 | [Saints Row IV Re-Elected](games/s/saints_row_iv_re-elected.md) | 485 | 4.40 | 737 |
 | 209 | [Loop Hero](games/l/loop_hero.md) | 477 | 4.67 | 273 |
 | 209 | [Second Extinction™](games/s/second_extinction™.md) | 477 | 4.05 | 980 |
-| 211 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 294 |
-| 212 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 457 | 4.84 | 51 |
-| 213 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 455 | 4.71 | 198 |
-| 214 | [RimWorld](games/r/rimworld.md) | 451 | 4.89 | 12 |
-| 215 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 449 | 4.55 | 504 |
+| 211 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 464 | 4.55 | 504 |
+| 212 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 294 |
+| 213 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 457 | 4.84 | 51 |
+| 214 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 455 | 4.71 | 198 |
+| 215 | [RimWorld](games/r/rimworld.md) | 451 | 4.89 | 12 |
 | 216 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 448 | 4.70 | 214 |
 | 217 | [Warface](games/w/warface.md) | 442 | 3.90 | 1,013 |
 | 218 | [Against the Storm](games/a/against_the_storm.md) | 439 | 4.81 | 79 |
@@ -371,11 +371,11 @@
 | 369 | [Barony](games/b/barony.md) | 92 | 4.72 | 186 |
 | 369 | [Fallout: A Post Nuclear Role Playing Game](games/f/fallout__a_post_nuclear_role_playing_game.md) | 92 | 4.62 | 365 |
 | 369 | [RAILGRADE](games/r/railgrade.md) | 92 | 4.55 | 504 |
+| 369 | [SYNCED](games/s/synced.md) | 92 | 4.16 | 934 |
 | 369 | [The Settlers®: New Allies](games/t/the_settlers®__new_allies.md) | 92 | 3.81 | 1,026 |
-| 373 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 588 |
-| 373 | [Returnal™](games/r/returnal™.md) | 91 | 4.59 | 432 |
-| 375 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 90 | 4.29 | 839 |
-| 375 | [SYNCED](games/s/synced.md) | 90 | 4.16 | 934 |
+| 374 | [Darksiders III](games/d/darksiders_iii.md) | 91 | 4.50 | 588 |
+| 374 | [Returnal™](games/r/returnal™.md) | 91 | 4.59 | 432 |
+| 376 | [Gamedec - Definitive Edition](games/g/gamedec_-_definitive_edition.md) | 90 | 4.29 | 839 |
 | 377 | [Solitairica](games/s/solitairica.md) | 87 | 4.50 | 588 |
 | 377 | [This War of Mine](games/t/this_war_of_mine.md) | 87 | 4.74 | 156 |
 | 379 | [Black Book](games/b/black_book.md) | 86 | 4.65 | 312 |
