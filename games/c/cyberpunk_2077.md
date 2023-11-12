@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 3.00% | ~26,889 |
+| V for Vendetta | 3.00% | ~26,890 |
 | Gun Fu | 1.00% | ~8,963 |
 | Relic Ruler | 0.90% | ~224 |
 | Full Body Conversion | 0.60% | ~5,378 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,312 (Ranked 15)  
+Progressed: 896,321 (Ranked 15)  
 Completed: 2,767 (0.31%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,23 +280,23 @@ Completed: 2,767 (0.31%) (Ranked 223)
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
 | 2023-11-11 | 896,271 | 2,766 |
-| 2023-11-12 | 896,312 | 2,767 |
+| 2023-11-12 | 896,321 | 2,767 |
 ## Awards
 Max (Character Customization): 105,016  (Ranked 9)  
-Sum: 349,604 (Ranked 10)  
+Sum: 350,025 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 105,016 |
-| This game has Great Boss Battles | 75,729 |
+| This game has Great Boss Battles | 75,931 |
 | This game is Great for Beginners | 20,899 |
 | This game has Diverse Characters | 20,550 |
-| This game is Highly Recommended | 19,644 |
+| This game is Highly Recommended | 19,755 |
 | This game has Amazing Storytelling | 19,615 |
 | This game is Extremely Fun | 19,384 |
 | This game has Amazing Characters | 19,153 |
+| This game has Quickly Understood Controls | 18,469 |
 | This game is Relaxing | 18,442 |
-| This game has Quickly Understood Controls | 18,361 |
 | This game has a Creative Community | 12,811 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -598,4 +598,4 @@ Diff (max vs sum): -1
 | 2023-11-09 | 4.64 | - | 104,676 | 347,471 |
 | 2023-11-10 | 4.64 | - | 104,816 | 348,364 |
 | 2023-11-11 | 4.64 | - | 105,016 | 349,420 |
-| 2023-11-12 | 4.64 | - | 105,016 | 349,604 |
+| 2023-11-12 | 4.64 | - | 105,016 | 350,025 |

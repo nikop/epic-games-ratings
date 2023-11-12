@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3121,9 +3121,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82352,
+  "EOS_Progressed": 82354,
   "EOS_Completed": 159,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 832,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -26001,6 +26001,11 @@
       "Time": "2023-11-12T06:03:27.7540039+00:00",
       "NumProgressed": 82352,
       "NumCompleted": 159
+    },
+    {
+      "Time": "2023-11-12T07:03:39.0473395+00:00",
+      "NumProgressed": 82354,
+      "NumCompleted": 159
     }
   ],
   "TotalAchievements": 30,
@@ -26044,7 +26049,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14823
+      "UsersEstimate": 14824
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -26060,7 +26065,7 @@
       "Name": "Biggest Reward",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11529
+      "UsersEstimate": 11530
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -26092,7 +26097,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30470
+      "UsersEstimate": 30471
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -26140,7 +26145,7 @@
       "Name": "Beagle 2",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 19764
+      "UsersEstimate": 19765
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -26188,7 +26193,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 28823
+      "UsersEstimate": 28824
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -26196,7 +26201,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14823
+      "UsersEstimate": 14824
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -26251,15 +26256,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82352,
+      "Progressed": 82354,
       "Completed": 159
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-11T21:02:46.9647333+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:03:27.7540032+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:03:39.0473392+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.8237526+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:57:15.1344893+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:03:27.7541651+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:57:18.4868413+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:03:39.0474538+00:00"
 }

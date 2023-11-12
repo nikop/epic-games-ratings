@@ -6,12 +6,12 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~8,441 |
-| Overkill | 34.00% | ~6,833 |
-| Vaccine Incoming | 33.00% | ~6,632 |
-| A normal day in Gloomhaven | 32.00% | ~6,431 |
-| Spread the plague | 30.00% | ~6,029 |
-| Get over here! | 25.00% | ~5,024 |
+| I'm not dead yet | 42.00% | ~8,442 |
+| Overkill | 34.00% | ~6,834 |
+| Vaccine Incoming | 33.00% | ~6,633 |
+| A normal day in Gloomhaven | 32.00% | ~6,432 |
+| Spread the plague | 30.00% | ~6,030 |
+| Get over here! | 25.00% | ~5,025 |
 | Just when I thought I was out... | 19.00% | ~3,819 |
 | Precious! | 17.00% | ~3,417 |
 | Mine... All Mine... | 17.00% | ~3,417 |
@@ -30,11 +30,11 @@ Number of Ratings: 68  (23.09.2022)
 | Pack leader | 7.00% | ~1,407 |
 | Quad damage | 6.00% | ~1,206 |
 | Power Up! | 5.00% | ~1,005 |
+| Caught off guard | 5.00% | ~1,005 |
 | The Pro from Dover | 5.00% | ~1,005 |
 | Pretty lights! | 5.00% | ~1,005 |
 | Now you see me... | 5.00% | ~1,005 |
 | Merchant of doom | 4.00% | ~804 |
-| Caught off guard | 4.00% | ~804 |
 | I hate portals | 3.00% | ~603 |
 | Down the hatch | 3.00% | ~603 |
 | An eye for an eye | 3.00% | ~603 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~20 |
 | Murder Death Kill | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,098 (Ranked 132)  
+Progressed: 20,100 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 19,539 | 1 |
 | 2023-11-10 | 19,763 | 1 |
 | 2023-11-11 | 20,013 | 1 |
-| 2023-11-12 | 20,098 | 1 |
+| 2023-11-12 | 20,100 | 1 |
 ## Awards
 Max (Character Customization): 3,572  (Ranked 90)  
 Sum: 8,349 (Ranked 100)  

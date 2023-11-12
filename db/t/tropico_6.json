@@ -1355,7 +1355,7 @@
   ],
   "EOS_Progressed": 5953,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 160,
+  "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -13002,9 +13002,9 @@
       "ID": "ACH_TEAMPLAYER",
       "SetID": "1p8ab95",
       "Name": "Teamplayer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 60
+      "UsersEstimate": 119
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -13090,8 +13090,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-10T15:57:13.9335837+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:09:32.8761054+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:09:40.5964616+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.1607316+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:58:08.0884328+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:09:32.8762058+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:58:34.9544244+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:09:40.5965405+00:00"
 }

@@ -177,6 +177,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.10% | ~453 |
 | Time Bandit | 0.10% | ~453 |
 | Total Control | 0.10% | ~453 |
+| Trade Hegemon | 0.10% | ~453 |
 | Traditional Player | 0.10% | ~453 |
 | Trophy Hunter | 0.10% | ~453 |
 | True Catholic | 0.10% | ~453 |
@@ -351,7 +352,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | This is Persia! | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
-| Trade Hegemon | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,278 (Ranked 41)  
+Progressed: 453,314 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,14 +576,14 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,278 | 1 |
+| 2023-11-12 | 453,314 | 1 |
 ## Awards
-Max (Educational): 6,946  (Ranked 54)  
-Sum: 57,214 (Ranked 24)  
+Max (Educational): 6,965  (Ranked 54)  
+Sum: 57,233 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,946 |
+| This game is Educational | 6,965 |
 | This game has Diverse Characters | 6,690 |
 | This game is Highly Recommended | 6,663 |
 | This game has Challenging Combat | 6,576 |
@@ -895,4 +895,4 @@ Diff (max vs sum): 30
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
-| 2023-11-12 | 4.69 | - | 6,946 | 57,214 |
+| 2023-11-12 | 4.69 | - | 6,965 | 57,233 |

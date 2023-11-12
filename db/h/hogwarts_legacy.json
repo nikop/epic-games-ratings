@@ -10309,10 +10309,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 47926,
       "NumberOfAwardsMax": 24229
+    },
+    {
+      "Time": "2023-11-12T07:00:16.0763417+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47953,
+      "NumberOfAwardsMax": 24229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47926,
+  "NumberOfAwards": 47953,
   "NumberOfAwardsMax": 24229,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10326,7 +10332,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 12261
+      "Count": 12288
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -10389,9 +10395,9 @@
       "Count": 778
     }
   ],
-  "EOS_Progressed": 301927,
+  "EOS_Progressed": 301929,
   "EOS_Completed": 509,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 994,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32524,6 +32530,11 @@
       "Time": "2023-11-12T06:09:24.0919444+00:00",
       "NumProgressed": 301927,
       "NumCompleted": 509
+    },
+    {
+      "Time": "2023-11-12T07:09:28.7995967+00:00",
+      "NumProgressed": 301929,
+      "NumCompleted": 509
     }
   ],
   "TotalAchievements": 45,
@@ -32535,7 +32546,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48308
+      "UsersEstimate": 48309
     },
     {
       "ID": "PFA_10",
@@ -32679,7 +32690,7 @@
       "Name": "The Nature of the Beast",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "PFA_27",
@@ -32839,7 +32850,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27173
+      "UsersEstimate": 27174
     },
     {
       "ID": "PFA_45",
@@ -32894,16 +32905,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301927,
+      "Progressed": 301929,
       "Completed": 509
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-12T03:59:14.7836393+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:09:24.0919439+00:00",
+  "LastChanged": "2023-11-12T07:00:16.0763415+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:09:28.7995964+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:59:15.7358826+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:09:24.0921174+00:00"
+  "LastUpdate_Ratings": "2023-11-12T07:00:16.076342+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:09:28.7997333+00:00"
 }

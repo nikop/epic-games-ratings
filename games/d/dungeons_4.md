@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 82.00% | ~171 |
-| Thalya – Simply Immortal | 82.00% | ~171 |
-| For the Horde! | 75.00% | ~157 |
-| Hammer Time, Round Two | 72.00% | ~150 |
+| The Last Stand | 82.00% | ~172 |
+| Thalya – Simply Immortal | 82.00% | ~172 |
+| For the Horde! | 74.00% | ~155 |
+| Hammer Time, Round Two | 72.00% | ~151 |
 | Thalya's Concentrated Fury | 63.00% | ~132 |
-| The Hellwoods | 59.00% | ~123 |
+| The Hellwoods | 59.00% | ~124 |
 | Experienced Thalya | 53.00% | ~111 |
 | Master of Magic | 51.00% | ~107 |
 | The Plains of Strothalm | 51.00% | ~107 |
-| Trap Master | 48.00% | ~100 |
-| Magic Accidents | 47.00% | ~98 |
-| Bad Elves Go Everywhere | 46.00% | ~96 |
-| Unicorn steaks – fresh off the hoof! | 46.00% | ~96 |
+| Trap Master | 48.00% | ~101 |
+| Magic Accidents | 48.00% | ~101 |
+| Unicorn steaks – fresh off the hoof! | 47.00% | ~99 |
+| Bad Elves Go Everywhere | 46.00% | ~97 |
 | Minions, Minions! | 42.00% | ~88 |
 | Heroes’ Gorge | 33.00% | ~69 |
-| YOU SHALL NOT PASS! | 27.00% | ~56 |
+| YOU SHALL NOT PASS! | 27.00% | ~57 |
 | The Ascent | 20.00% | ~42 |
 | It's Warm and Cozy at Home | 20.00% | ~42 |
 | Mana Cannon | 19.00% | ~40 |
 | Pure Dynamite! | 19.00% | ~40 |
 | Hard Work | 18.00% | ~38 |
-| The Big Eaty | 15.00% | ~31 |
+| The Big Eaty | 15.00% | ~32 |
 | “… like son” | 12.00% | ~25 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 10.00% | ~21 |
 | Sacrificial Pit = Garbage Disposal? | 9.00% | ~19 |
@@ -66,7 +66,7 @@
 | I Don't Need Any Help | 0.00% | ~0 |
 | Evilification | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 209 (Ranked 368)  
+Progressed: 210 (Ranked 368)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -74,4 +74,4 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 76 | 0 |
 | 2023-11-10 | 153 | 0 |
 | 2023-11-11 | 205 | 0 |
-| 2023-11-12 | 209 | 0 |
+| 2023-11-12 | 210 | 0 |

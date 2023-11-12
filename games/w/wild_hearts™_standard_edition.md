@@ -22,13 +22,13 @@
 | Helpful Heart | 52.00% | ~140 |
 | Master of the Skies | 51.00% | ~137 |
 | Counter Specialist | 49.00% | ~132 |
-| Axer of Auspice | 43.00% | ~116 |
+| Axer of Auspice | 44.00% | ~118 |
 | Mighty Marmelizer | 41.00% | ~110 |
 | Fair Means or Foul | 41.00% | ~110 |
 | Single Minded | 40.00% | ~108 |
 | Snare Specialist | 39.00% | ~105 |
+| Kemono at Heart | 38.00% | ~102 |
 | Karakuri Trail | 37.00% | ~100 |
-| Kemono at Heart | 37.00% | ~100 |
 | Artful Assister | 35.00% | ~94 |
 | Team Hunter | 33.00% | ~89 |
 | Reincarnation Cycle Stopper | 32.00% | ~86 |

@@ -1,7 +1,7 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 996)  
+Rating: 3.99 (Ranked 997)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,9 +10,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 4.00% | ~5,578 |
 | Tinkle of Coins | 4.00% | ~5,578 |
 | Titan's First Steps | 4.00% | ~5,578 |
-| Disintermediation | 3.00% | ~4,183 |
-| It's Free Real Estate | 3.00% | ~4,183 |
-| Capitalism Ho! | 3.00% | ~4,183 |
+| Disintermediation | 3.00% | ~4,184 |
+| It's Free Real Estate | 3.00% | ~4,184 |
+| Capitalism Ho! | 3.00% | ~4,184 |
 | The Daily Grind | 2.00% | ~2,789 |
 | One Easy Payment | 2.00% | ~2,789 |
 | Some Assembly Required | 2.00% | ~2,789 |
@@ -25,27 +25,27 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 2.00% | ~2,789 |
 | Through Repetition, Perfection | 2.00% | ~2,789 |
 | Own the Means of Production | 2.00% | ~2,789 |
-| On the Path to Greatness | 1.00% | ~1,394 |
-| Ascended | 1.00% | ~1,394 |
-| Tax not Included | 1.00% | ~1,394 |
-| Research & Development | 1.00% | ~1,394 |
-| Vanity, Verily | 1.00% | ~1,394 |
-| Fated Encounters | 1.00% | ~1,394 |
-| Blank Page Syndrome | 1.00% | ~1,394 |
-| Demand for Supplies | 1.00% | ~1,394 |
-| Where it Hurts | 1.00% | ~1,394 |
-| Power of Love | 1.00% | ~1,394 |
-| Efficient Floor Space | 1.00% | ~1,394 |
-| Flawless Fusion | 1.00% | ~1,394 |
-| Gem Expert | 1.00% | ~1,394 |
-| Gild-Gotten Goods | 1.00% | ~1,394 |
-| Royal Ransom | 1.00% | ~1,394 |
-| Helping Hand | 1.00% | ~1,394 |
-| Accomplished Merchant | 1.00% | ~1,394 |
-| Natural 20 | 1.00% | ~1,394 |
-| Did we pack lunch? | 1.00% | ~1,394 |
-| Magical Harmony | 1.00% | ~1,394 |
-| Arcane Industries | 1.00% | ~1,394 |
+| On the Path to Greatness | 1.00% | ~1,395 |
+| Ascended | 1.00% | ~1,395 |
+| Tax not Included | 1.00% | ~1,395 |
+| Research & Development | 1.00% | ~1,395 |
+| Vanity, Verily | 1.00% | ~1,395 |
+| Fated Encounters | 1.00% | ~1,395 |
+| Blank Page Syndrome | 1.00% | ~1,395 |
+| Demand for Supplies | 1.00% | ~1,395 |
+| Where it Hurts | 1.00% | ~1,395 |
+| Power of Love | 1.00% | ~1,395 |
+| Efficient Floor Space | 1.00% | ~1,395 |
+| Flawless Fusion | 1.00% | ~1,395 |
+| Gem Expert | 1.00% | ~1,395 |
+| Gild-Gotten Goods | 1.00% | ~1,395 |
+| Royal Ransom | 1.00% | ~1,395 |
+| Helping Hand | 1.00% | ~1,395 |
+| Accomplished Merchant | 1.00% | ~1,395 |
+| Natural 20 | 1.00% | ~1,395 |
+| Did we pack lunch? | 1.00% | ~1,395 |
+| Magical Harmony | 1.00% | ~1,395 |
+| Arcane Industries | 1.00% | ~1,395 |
 | Big Game Hunting | 0.90% | ~1,255 |
 | For the Hoard! | 0.90% | ~1,255 |
 | Scrapbooker | 0.90% | ~1,255 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,446 (Ranked 79)  
+Progressed: 139,454 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
-| 2023-11-12 | 139,446 | 181 |
+| 2023-11-12 | 139,454 | 181 |
 ## Awards
 Max (Great for Beginners): 4,825  (Ranked 73)  
 Sum: 27,530 (Ranked 50)  

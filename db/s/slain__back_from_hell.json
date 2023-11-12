@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40190,
+  "EOS_Progressed": 40192,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22793,6 +22793,11 @@
       "Time": "2023-11-12T06:05:21.9396157+00:00",
       "NumProgressed": 40190,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-12T07:06:18.1312327+00:00",
+      "NumProgressed": 40192,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22804,7 +22809,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6028
+      "UsersEstimate": 6029
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -22956,7 +22961,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -22964,7 +22969,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2411
+      "UsersEstimate": 2412
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -23035,7 +23040,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40190,
+      "Progressed": 40192,
       "Completed": 26
     }
   ],
@@ -23043,8 +23048,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:05:21.9396152+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:06:18.1312324+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.0772649+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:57:26.5024863+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:05:21.9397709+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:57:35.1703505+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:06:18.1313439+00:00"
 }

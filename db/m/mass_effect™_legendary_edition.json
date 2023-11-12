@@ -3792,9 +3792,9 @@
       "ID": "achievement_46",
       "SetID": "d252ncf",
       "Name": "The Convict",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 394
+      "UsersEstimate": 406
     },
     {
       "ID": "achievement_47",
@@ -4016,9 +4016,9 @@
       "ID": "achievement_71",
       "SetID": "d252ncf",
       "Name": "Scientist",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 490
+      "UsersEstimate": 502
     },
     {
       "ID": "achievement_72",
@@ -4276,8 +4276,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:03:21.8799693+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:03:31.4610275+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-12T06:02:56.8252376+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:03:21.8802191+00:00"
+  "LastUpdate_Ratings": "2023-11-12T07:02:52.7450083+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:03:31.4611777+00:00"
 }

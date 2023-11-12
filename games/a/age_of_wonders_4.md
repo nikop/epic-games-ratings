@@ -7,21 +7,21 @@ Rating: 4.60 (Ranked 409)
 | ---- | ---------- | ----- |
 | But this one is mine | 2.00% | ~107 |
 | Secret Technique | 0.90% | ~48 |
+| Realm Estate | 0.80% | ~43 |
 | Walls Cannot Stop Us | 0.80% | ~43 |
-| Realm Estate | 0.70% | ~38 |
 | A Wonderful Discovery | 0.70% | ~38 |
 | Freed Lands of Manuhari | 0.70% | ~38 |
 | From Friends to Family | 0.60% | ~32 |
+| There Can Only Be One! | 0.50% | ~27 |
 | Bone Peddler | 0.50% | ~27 |
 | Magical Synergy | 0.50% | ~27 |
-| There Can Only Be One! | 0.40% | ~21 |
 | Full Ascension | 0.40% | ~21 |
+| Seat of Power | 0.40% | ~21 |
 | Chaos Surge | 0.40% | ~21 |
 | Spoils of War | 0.40% | ~21 |
 | Dawn of the Dread | 0.40% | ~21 |
 | Valley of Wonders | 0.30% | ~16 |
 | Stronger Together | 0.30% | ~16 |
-| Seat of Power | 0.30% | ~16 |
 | In a Liege of Your Own | 0.30% | ~16 |
 | Intimidation Tactics | 0.30% | ~16 |
 | Tipping the Scales | 0.30% | ~16 |

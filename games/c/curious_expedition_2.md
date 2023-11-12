@@ -10,8 +10,8 @@ Number of Ratings: 20  (23.09.2022)
 | Cartographer | 56.00% | ~190 |
 | A Strange Artefact | 52.00% | ~176 |
 | Insomnia | 47.00% | ~159 |
+| Lost & Found & Lost Again | 42.00% | ~142 |
 | From Whence we Came | 42.00% | ~142 |
-| Lost & Found & Lost Again | 41.00% | ~139 |
 | Fire and Flood | 40.00% | ~136 |
 | Spooky! | 37.00% | ~125 |
 | Shennong Herbalist | 35.00% | ~119 |

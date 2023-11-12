@@ -1222,9 +1222,9 @@
       "ID": "Suicide Guy",
       "SetID": "1fffk9d",
       "Name": "Firest level completed!",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 228
+      "UsersEstimate": 231
     },
     {
       "ID": "The Breaker",
@@ -1245,8 +1245,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:04:19.9695357+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:04:51.8096004+00:00",
   "LastUpdate_AppInfo": "2023-11-08T07:57:14.7890959+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:59:56.9843361+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:04:19.9695528+00:00"
+  "LastUpdate_Ratings": "2023-11-12T07:01:17.0980773+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:04:51.8096103+00:00"
 }

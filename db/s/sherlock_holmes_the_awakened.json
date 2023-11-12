@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 266,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -91,11 +91,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 804,
+  "EOS_Progressed": 805,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.36,
+  "EOS_Completed_Percentage": 3.35,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -3061,6 +3061,11 @@
       "Time": "2023-11-09T18:07:29.1098479+00:00",
       "NumProgressed": 804,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-12T07:08:13.7066581+00:00",
+      "NumProgressed": 805,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 28,
@@ -3088,7 +3093,7 @@
       "Name": "High Profile",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "MQ02_2",
@@ -3112,7 +3117,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 58,
       "XP": 40,
-      "UsersEstimate": 466
+      "UsersEstimate": 467
     },
     {
       "ID": "MQ03_1",
@@ -3120,7 +3125,7 @@
       "Name": "Fond Memories",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "MQ03_2",
@@ -3136,7 +3141,7 @@
       "Name": "History Check",
       "Percentage": 53,
       "XP": 40,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "MQ03_4",
@@ -3152,7 +3157,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "MQ04_1",
@@ -3216,7 +3221,7 @@
       "Name": "Brain Food",
       "Percentage": 36,
       "XP": 40,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "MQ06_2",
@@ -3264,7 +3269,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "MQ08_2",
@@ -3295,7 +3300,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 804,
+      "Progressed": 805,
       "Completed": 27
     }
   ],
@@ -3303,8 +3308,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-05T09:59:32.7817162+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:08:29.7045892+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:08:13.7066578+00:00",
   "LastUpdate_AppInfo": "2023-11-11T14:57:10.4254324+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:58:14.0337582+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:08:29.7046278+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:58:43.5502368+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:08:13.7066928+00:00"
 }

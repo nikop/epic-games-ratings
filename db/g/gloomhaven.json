@@ -2411,9 +2411,9 @@
       "Count": 215
     }
   ],
-  "EOS_Progressed": 20098,
+  "EOS_Progressed": 20100,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1568,
+  "EOS_NewPlayers": 1562,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8951,6 +8951,11 @@
       "Time": "2023-11-12T06:04:38.897506+00:00",
       "NumProgressed": 20098,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T07:05:18.3331739+00:00",
+      "NumProgressed": 20100,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -9025,9 +9030,9 @@
       "ID": "Achievement_Trophy09",
       "SetID": "724h0m0",
       "Name": "Caught off guard",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 804
+      "UsersEstimate": 1005
     },
     {
       "ID": "Achievement_Trophy10",
@@ -9147,7 +9152,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 8441
+      "UsersEstimate": 8442
     },
     {
       "ID": "Achievement_Trophy25",
@@ -9163,7 +9168,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6833
+      "UsersEstimate": 6834
     },
     {
       "ID": "Achievement_Trophy27",
@@ -9179,7 +9184,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 6632
+      "UsersEstimate": 6633
     },
     {
       "ID": "Achievement_Trophy29",
@@ -9195,7 +9200,7 @@
       "Name": "Spread the plague",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 6029
+      "UsersEstimate": 6030
     },
     {
       "ID": "Achievement_Trophy31",
@@ -9203,7 +9208,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 6431
+      "UsersEstimate": 6432
     },
     {
       "ID": "Achievement_Trophy32",
@@ -9251,7 +9256,7 @@
       "Name": "Get over here!",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 5024
+      "UsersEstimate": 5025
     },
     {
       "ID": "Achievement_Trophy38",
@@ -9450,7 +9455,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 20098,
+      "Progressed": 20100,
       "Completed": 1
     }
   ],
@@ -9458,8 +9463,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-12T04:57:54.9170225+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:04:38.8975054+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:05:18.3331735+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.6098385+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:58:07.5967167+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:04:38.8976403+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:58:34.0481796+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:05:18.3332363+00:00"
 }

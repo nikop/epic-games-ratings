@@ -6655,10 +6655,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4355,
       "NumberOfAwardsMax": 561
+    },
+    {
+      "Time": "2023-11-12T06:59:37.0165848+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4356,
+      "NumberOfAwardsMax": 561
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4355,
+  "NumberOfAwards": 4356,
   "NumberOfAwardsMax": 561,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6714,7 +6720,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 426
+      "Count": 427
     },
     {
       "Text": "This game has a Creative Community",
@@ -6729,9 +6735,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 193087,
+  "EOS_Progressed": 193096,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2235,
+  "EOS_NewPlayers": 2234,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30129,6 +30135,11 @@
       "Time": "2023-11-12T06:09:05.7813074+00:00",
       "NumProgressed": 193087,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-12T07:09:03.1052154+00:00",
+      "NumProgressed": 193096,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 16,
@@ -30172,7 +30183,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30894
+      "UsersEstimate": 30895
     },
     {
       "ID": "Achievement_13",
@@ -30220,7 +30231,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 48272
+      "UsersEstimate": 48274
     },
     {
       "ID": "Achievement_5",
@@ -30252,7 +30263,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17378
+      "UsersEstimate": 17379
     },
     {
       "ID": "Achievement_9",
@@ -30260,22 +30271,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9654
+      "UsersEstimate": 9655
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 193087,
+      "Progressed": 193096,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-12T01:46:48.2490238+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:09:05.7813069+00:00",
+  "LastChanged": "2023-11-12T06:59:37.0165846+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:09:03.1052151+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:15.0661534+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:58:49.7772607+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:09:05.7814592+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:59:37.0165855+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:09:03.105339+00:00"
 }

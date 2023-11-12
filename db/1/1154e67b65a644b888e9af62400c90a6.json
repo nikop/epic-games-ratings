@@ -4,7 +4,7 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 674,
   "Ranking_Popularity": 248,
-  "Ranking_PopularitySum": 312,
+  "Ranking_PopularitySum": 309,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 455,
@@ -395,10 +395,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 579,
       "NumberOfAwardsMax": 303
+    },
+    {
+      "Time": "2023-11-12T06:59:37.648148+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 603,
+      "NumberOfAwardsMax": 303
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 579,
+  "NumberOfAwards": 603,
   "NumberOfAwardsMax": 303,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -467,6 +473,12 @@
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
       "Count": 25
+    },
+    {
+      "Text": "This game has Quickly Understood Controls",
+      "Prefix": "This game has",
+      "Type": "Quickly Understood Controls",
+      "Count": 24
     }
   ],
   "EOS_Progressed": 0,
@@ -481,8 +493,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-12T03:58:45.2222736+00:00",
+  "LastChanged": "2023-11-12T06:59:37.6481479+00:00",
   "LastUpdate_AppInfo": "2023-11-07T18:56:54.0544561+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:58:50.2144244+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:04:18.5029404+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:59:37.6481482+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:04:49.9744626+00:00"
 }

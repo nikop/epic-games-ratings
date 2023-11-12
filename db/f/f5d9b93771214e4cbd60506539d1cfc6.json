@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -233,7 +233,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152428,
+  "EOS_Progressed": 152430,
   "EOS_Completed": 331,
   "EOS_NewPlayers": 994,
   "EOS_NewCompleters": 11,
@@ -17808,6 +17808,11 @@
       "Time": "2023-11-12T06:03:50.1492093+00:00",
       "NumProgressed": 152428,
       "NumCompleted": 331
+    },
+    {
+      "Time": "2023-11-12T07:04:11.2210266+00:00",
+      "NumProgressed": 152430,
+      "NumCompleted": 331
     }
   ],
   "TotalAchievements": 31,
@@ -17827,7 +17832,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 106700
+      "UsersEstimate": 106701
     },
     {
       "ID": "EAwards_10",
@@ -17867,7 +17872,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 59447
+      "UsersEstimate": 59448
     },
     {
       "ID": "EAwards_15",
@@ -17875,7 +17880,7 @@
       "Name": "No Encore!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18291
+      "UsersEstimate": 18292
     },
     {
       "ID": "EAwards_16",
@@ -17891,7 +17896,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33534
+      "UsersEstimate": 33535
     },
     {
       "ID": "EAwards_18",
@@ -17899,7 +17904,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33534
+      "UsersEstimate": 33535
     },
     {
       "ID": "EAwards_19",
@@ -17955,7 +17960,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 7621
+      "UsersEstimate": 7622
     },
     {
       "ID": "EAwards_25",
@@ -18003,7 +18008,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 28961
+      "UsersEstimate": 28962
     },
     {
       "ID": "EAwards_30",
@@ -18035,7 +18040,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 38107
+      "UsersEstimate": 38108
     },
     {
       "ID": "EAwards_7",
@@ -18051,7 +18056,7 @@
       "Name": "Flawless",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 56398
+      "UsersEstimate": 56399
     },
     {
       "ID": "EAwards_9",
@@ -18059,14 +18064,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 18291
+      "UsersEstimate": 18292
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 152428,
+      "Progressed": 152430,
       "Completed": 331
     }
   ],
@@ -18074,8 +18079,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:03:50.149209+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:04:11.2210261+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.0681244+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:58:51.0612823+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:03:50.1493347+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:59:38.992364+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:04:11.2211013+00:00"
 }

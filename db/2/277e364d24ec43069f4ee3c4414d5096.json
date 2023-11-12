@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113968,
+  "EOS_Progressed": 113970,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 636,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17644,6 +17644,11 @@
       "Time": "2023-11-12T06:08:54.9610727+00:00",
       "NumProgressed": 113968,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-12T07:08:47.7626628+00:00",
+      "NumProgressed": 113970,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17663,7 +17668,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87755
+      "UsersEstimate": 87757
     },
     {
       "ID": "EAwards_10",
@@ -17671,7 +17676,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12537
     },
     {
       "ID": "EAwards_11",
@@ -17687,7 +17692,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17095
+      "UsersEstimate": 17096
     },
     {
       "ID": "EAwards_13",
@@ -17727,7 +17732,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42168
+      "UsersEstimate": 42169
     },
     {
       "ID": "EAwards_18",
@@ -17751,7 +17756,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54705
+      "UsersEstimate": 54706
     },
     {
       "ID": "EAwards_20",
@@ -17759,7 +17764,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12537
     },
     {
       "ID": "EAwards_21",
@@ -17783,7 +17788,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9117
+      "UsersEstimate": 9118
     },
     {
       "ID": "EAwards_24",
@@ -17807,7 +17812,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12537
     },
     {
       "ID": "EAwards_27",
@@ -17887,7 +17892,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9117
+      "UsersEstimate": 9118
     },
     {
       "ID": "EAwards_36",
@@ -18039,14 +18044,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12536
+      "UsersEstimate": 12537
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113968,
+      "Progressed": 113970,
       "Completed": 50
     }
   ],
@@ -18054,8 +18059,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:08:54.9610722+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:08:47.7626625+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:00:00.3916073+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:08:54.9612197+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:57:06.8557166+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:08:47.7627774+00:00"
 }

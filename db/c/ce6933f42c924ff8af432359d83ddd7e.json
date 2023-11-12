@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 563,
+  "EOS_Progressed": 564,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 4.44,
+  "EOS_Completed_Percentage": 4.43,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1439,6 +1439,11 @@
       "Time": "2023-11-12T06:09:01.9863312+00:00",
       "NumProgressed": 563,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-12T07:08:57.7370832+00:00",
+      "NumProgressed": 564,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1467,7 +1472,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -1491,7 +1496,7 @@
       "Name": "Evil plan",
       "Percentage": 48,
       "XP": 85,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1499,7 +1504,7 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1507,7 +1512,7 @@
       "Name": "Food lover",
       "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -1523,21 +1528,21 @@
       "Name": "Exit",
       "Percentage": 54,
       "XP": 65,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 563,
+      "Progressed": 564,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:09:01.9863306+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:08:57.7370829+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:57:31.6063606+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:09:01.986348+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:57:42.4148869+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:08:57.7371+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 560,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -2479,9 +2479,9 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "296pn27",
       "Name": "Our efforts are finally yielding progress",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 140
+      "UsersEstimate": 146
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -2495,9 +2495,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "296pn27",
       "Name": "Unholy lands",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 106
+      "UsersEstimate": 112
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2542,8 +2542,8 @@
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:05:46.8400429+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:06:52.6102971+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:27.3644935+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:57:21.8723329+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:05:46.8400692+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:57:28.1474879+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:06:52.6103176+00:00"
 }

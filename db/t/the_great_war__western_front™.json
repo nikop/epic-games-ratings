@@ -2,12 +2,12 @@
   "ID": "d84e1be6c7764408b3d0f610c84cb8ea",
   "Name": "The Great War: Western Front\u2122",
   "ProductSlug": "the-great-war-western-front",
-  "Ranking_Rating": 988,
+  "Ranking_Rating": 989,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 260,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -2556,8 +2556,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2023-11-02T22:00:31.3526393+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:04:22.4357209+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:04:55.2305468+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:37.6353967+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:59:22.501685+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:04:22.4357444+00:00"
+  "LastUpdate_Ratings": "2023-11-12T07:00:26.597731+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:04:55.2305656+00:00"
 }

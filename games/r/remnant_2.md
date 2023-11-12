@@ -5,8 +5,8 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,788 |
-| The Killing Jar | 8.00% | ~17,589 |
+| First of Many | 9.00% | ~19,789 |
+| The Killing Jar | 8.00% | ~17,590 |
 | Expanding Horizons | 7.00% | ~15,391 |
 | Quest for Survival | 7.00% | ~15,391 |
 | Not Your Average Trait | 7.00% | ~15,391 |
@@ -15,15 +15,15 @@ Rating: 4.75 (Ranked 145)
 | Duality | 6.00% | ~13,192 |
 | Boss'n Up | 6.00% | ~13,192 |
 | Trait Chaser | 6.00% | ~13,192 |
-| Not So Special Now | 5.00% | ~10,993 |
-| Not a Janitor | 5.00% | ~10,993 |
-| Equal Measures | 5.00% | ~10,993 |
-| Blue Goddess | 5.00% | ~10,993 |
-| Top Performer | 5.00% | ~10,993 |
-| Shhh...It's a Secret | 5.00% | ~10,993 |
-| Almost There | 5.00% | ~10,993 |
-| Make Some Room | 5.00% | ~10,993 |
-| Good, But Could Be Better! | 5.00% | ~10,993 |
+| Not So Special Now | 5.00% | ~10,994 |
+| Not a Janitor | 5.00% | ~10,994 |
+| Equal Measures | 5.00% | ~10,994 |
+| Blue Goddess | 5.00% | ~10,994 |
+| Top Performer | 5.00% | ~10,994 |
+| Shhh...It's a Secret | 5.00% | ~10,994 |
+| Almost There | 5.00% | ~10,994 |
+| Make Some Room | 5.00% | ~10,994 |
+| Good, But Could Be Better! | 5.00% | ~10,994 |
 | Chaos | 4.00% | ~8,795 |
 | Traitor | 4.00% | ~8,795 |
 | Power Surge | 4.00% | ~8,795 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,199 |
 | Proving Grounds | 1.00% | ~2,199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,865 (Ranked 68)  
+Progressed: 219,874 (Ranked 68)  
 Completed: 439 (0.20%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,11 +175,11 @@ Completed: 439 (0.20%) (Ranked 247)
 | 2023-11-09 | 219,166 | 435 |
 | 2023-11-10 | 219,442 | 438 |
 | 2023-11-11 | 219,801 | 439 |
-| 2023-11-12 | 219,865 | 439 |
+| 2023-11-12 | 219,874 | 439 |
 ## Awards
 Max (Great Boss Battles): 2,144  (Ranked 109)  
-Sum: 4,846 (Ranked 140)  
-Diff (max vs sum): -31  
+Sum: 4,846 (Ranked 141)  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,144 |

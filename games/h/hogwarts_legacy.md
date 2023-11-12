@@ -5,7 +5,7 @@ Rating: 4.76 (Ranked 125)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,308 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,309 |
 | First Class Student | 14.00% | ~42,270 |
 | Troll with the Punches | 14.00% | ~42,270 |
 | A Keen Sense of Spell | 13.00% | ~39,251 |
@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 125)
 | The Hero of Hogwarts | 10.00% | ~30,193 |
 | Followed the Butterflies | 10.00% | ~30,193 |
 | Rising From the Ashes | 10.00% | ~30,193 |
-| The Spell Master | 9.00% | ~27,173 |
+| The Spell Master | 9.00% | ~27,174 |
 | The Avenging Gazelle | 8.00% | ~24,154 |
 | Beast Friends | 8.00% | ~24,154 |
 | A Sallow Grave | 8.00% | ~24,154 |
@@ -48,10 +48,10 @@ Rating: 4.76 (Ranked 125)
 | Savvy Spender | 1.00% | ~3,019 |
 | Merlin's Beard! | 1.00% | ~3,019 |
 | Spilled Milk | 0.90% | ~2,717 |
-| The Nature of the Beast | 0.70% | ~2,113 |
+| The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,927 (Ranked 50)  
+Progressed: 301,929 (Ranked 50)  
 Completed: 509 (0.17%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,15 +257,15 @@ Completed: 509 (0.17%) (Ranked 253)
 | 2023-11-09 | 301,775 | 505 |
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
-| 2023-11-12 | 301,927 | 509 |
+| 2023-11-12 | 301,929 | 509 |
 ## Awards
 Max (Character Customization): 24,229  (Ranked 17)  
-Sum: 47,926 (Ranked 30)  
+Sum: 47,953 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,229 |
-| This game has Great Boss Battles | 12,261 |
+| This game has Great Boss Battles | 12,288 |
 | This game is Great for Beginners | 1,286 |
 | This game has Amazing Storytelling | 1,239 |
 | This game has Diverse Characters | 1,230 |
@@ -512,4 +512,4 @@ Diff (max vs sum): -13
 | 2023-11-09 | 4.76 | 24,144 | 47,747 |
 | 2023-11-10 | 4.76 | 24,162 | 47,810 |
 | 2023-11-11 | 4.76 | 24,188 | 47,880 |
-| 2023-11-12 | 4.76 | 24,229 | 47,926 |
+| 2023-11-12 | 4.76 | 24,229 | 47,953 |

@@ -25,9 +25,9 @@
 | Principled | 44.00% | ~526 |
 | Paramour I | 42.00% | ~502 |
 | Colonial Savior | 42.00% | ~502 |
+| Scientist | 42.00% | ~502 |
 | Missing in Action | 41.00% | ~490 |
 | Merciless | 41.00% | ~490 |
-| Scientist | 41.00% | ~490 |
 | Krogan Ally | 40.00% | ~478 |
 | Very Elusive | 40.00% | ~478 |
 | Sentinel Ally | 39.00% | ~466 |
@@ -38,8 +38,8 @@
 | The Professor | 36.00% | ~430 |
 | The Archangel | 35.00% | ~418 |
 | Power Full | 35.00% | ~418 |
+| The Convict | 34.00% | ~406 |
 | Colony Defense | 33.00% | ~394 |
-| The Convict | 33.00% | ~394 |
 | The Krogan | 33.00% | ~394 |
 | Broke, Blind, and Bedlam | 32.00% | ~382 |
 | Ghost Ship | 31.00% | ~370 |

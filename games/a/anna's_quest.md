@@ -7,12 +7,12 @@
 | Escape artist | 77.00% | ~50 |
 | Book Worm | 55.00% | ~36 |
 | Ooh, it's shiny! | 52.00% | ~34 |
+| My lost nightingale | 46.00% | ~30 |
 | Through the woods | 45.00% | ~29 |
-| My lost nightingale | 45.00% | ~29 |
 | Fussy eater | 38.00% | ~25 |
+| Kekekeke... | 38.00% | ~25 |
 | Back to the anvil | 37.00% | ~24 |
 | So soothing... | 37.00% | ~24 |
-| Kekekeke... | 37.00% | ~24 |
 | Sorry Grandpa | 35.00% | ~23 |
 | Roostwig has entered the building | 35.00% | ~23 |
 | Mystery solved | 34.00% | ~22 |

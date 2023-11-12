@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -478,9 +478,9 @@
       "ID": "ach-campaign-story2",
       "SetID": "17ih7ma",
       "Name": "Lost \u0026 Found \u0026 Lost Again",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "ach-campaign-story3",
@@ -823,8 +823,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-12T06:09:30.6997626+00:00",
+  "LastChanged_Achievements": "2023-11-12T07:09:37.6897227+00:00",
   "LastUpdate_AppInfo": "2023-11-11T10:57:00.2383512+00:00",
-  "LastUpdate_Ratings": "2023-11-12T05:57:33.3991966+00:00",
-  "LastUpdate_Achievements": "2023-11-12T06:09:30.6998223+00:00"
+  "LastUpdate_Ratings": "2023-11-12T06:57:45.1518169+00:00",
+  "LastUpdate_Achievements": "2023-11-12T07:09:37.6897612+00:00"
 }
