@@ -11,9 +11,9 @@
 | Princess Crowned | 9.00% | ~4 |
 | Secret War | 9.00% | ~4 |
 | Investment | 7.00% | ~3 |
+| Tech Breakthrough | 7.00% | ~3 |
 | 2nd AI War | 5.00% | ~2 |
 | Punish Eastgalaxy | 5.00% | ~2 |
-| Tech Breakthrough | 5.00% | ~2 |
 | Death of Princess | 2.00% | ~1 |
 | Sendai Shogunate | 2.00% | ~1 |
 | Pirate Raid | 2.00% | ~1 |

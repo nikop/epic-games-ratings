@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 231)  
+Rating: 4.69 (Ranked 230)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,6 +9,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The 52 Garhs | 0.10% | ~454 |
 | A Blessed Nation | 0.10% | ~454 |
 | A Decent Reserve | 0.10% | ~454 |
+| A Hero’s Welcome | 0.10% | ~454 |
 | A Manchurian Candidate | 0.10% | ~454 |
 | A Pile of Gold | 0.10% | ~454 |
 | A Protected Market | 0.10% | ~454 |
@@ -211,7 +212,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Last Crusade | 0.10% | ~454 |
 | Truly Good Maaaaa-tch | 0.10% | ~454 |
 | I don't like sand | 0.00% | ~0 |
-| A Hero’s Welcome | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
 | AEIOU | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,956 (Ranked 41)  
+Progressed: 454,031 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,956 | 1 |
+| 2023-11-12 | 454,031 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
 Sum: 57,283 (Ranked 24)  

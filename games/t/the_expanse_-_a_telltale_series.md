@@ -6,7 +6,7 @@ Rating: 4.56 (Ranked 488)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 7.00% | ~1,042 |
-| Bosmang | 4.00% | ~595 |
+| Bosmang | 4.00% | ~596 |
 | The Pit and the Pirates | 3.00% | ~447 |
 | Drug Gifter | 3.00% | ~447 |
 | Martian Music | 3.00% | ~447 |
@@ -31,7 +31,7 @@ Rating: 4.56 (Ranked 488)
 | Miraculous Maya | 1.00% | ~149 |
 | Data Logger | 0.70% | ~104 |
 | Data Master | 0.70% | ~104 |
-| Brother's Reaper | 0.50% | ~74 |
+| Brother's Reaper | 0.60% | ~89 |
 | No Belter Left Behind | 0.50% | ~74 |
 | Debris Spree | 0.50% | ~74 |
 | Data Recoverer | 0.40% | ~60 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 488)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,886 (Ranked 147)  
+Progressed: 14,888 (Ranked 147)  
 Completed: 34 (0.23%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 34 (0.23%) (Ranked 238)
 | 2023-11-09 | 14,788 | 33 |
 | 2023-11-10 | 14,816 | 34 |
 | 2023-11-11 | 14,854 | 34 |
-| 2023-11-12 | 14,886 | 34 |
+| 2023-11-12 | 14,888 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

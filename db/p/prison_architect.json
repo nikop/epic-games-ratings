@@ -6667,10 +6667,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4362,
       "NumberOfAwardsMax": 561
+    },
+    {
+      "Time": "2023-11-12T17:59:20.0553763+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4363,
+      "NumberOfAwardsMax": 561
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4362,
+  "NumberOfAwards": 4363,
   "NumberOfAwardsMax": 561,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6678,7 +6684,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 465
+      "Count": 466
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6741,9 +6747,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 193292,
+  "EOS_Progressed": 193316,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2232,
+  "EOS_NewPlayers": 2235,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30196,6 +30202,11 @@
       "Time": "2023-11-12T17:09:06.1523518+00:00",
       "NumProgressed": 193292,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-12T18:09:12.6482016+00:00",
+      "NumProgressed": 193316,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 16,
@@ -30215,7 +30226,7 @@
       "Name": "Crowd Control",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "Achievement_10",
@@ -30239,7 +30250,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30927
+      "UsersEstimate": 30931
     },
     {
       "ID": "Achievement_13",
@@ -30287,7 +30298,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 48323
+      "UsersEstimate": 48329
     },
     {
       "ID": "Achievement_5",
@@ -30319,7 +30330,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17396
+      "UsersEstimate": 17398
     },
     {
       "ID": "Achievement_9",
@@ -30327,22 +30338,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9665
+      "UsersEstimate": 9666
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 193292,
+      "Progressed": 193316,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-12T16:59:14.9826104+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:09:06.1523513+00:00",
+  "LastChanged": "2023-11-12T17:59:20.055376+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:09:12.6482009+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:15.0661534+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:59:14.9826114+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:09:06.1525095+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:59:20.0553767+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:09:12.6483513+00:00"
 }

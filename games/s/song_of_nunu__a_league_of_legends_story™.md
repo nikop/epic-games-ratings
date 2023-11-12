@@ -7,8 +7,8 @@
 | Feels Familiar | 76.00% | ~501 |
 | I Broke It | 73.00% | ~481 |
 | Better On Ice | 70.00% | ~461 |
+| Blue Dreams | 69.00% | ~455 |
 | Notai Notes | 69.00% | ~455 |
-| Blue Dreams | 68.00% | ~448 |
 | He's Famous! | 68.00% | ~448 |
 | Cutie Poro | 67.00% | ~442 |
 | Krugmazing | 66.00% | ~435 |
@@ -16,8 +16,8 @@
 | Moneyball | 60.00% | ~395 |
 | Iceborn | 57.00% | ~376 |
 | No Bites | 56.00% | ~369 |
+| Boom Things | 53.00% | ~349 |
 | Tear of Freedom | 52.00% | ~343 |
-| Boom Things | 52.00% | ~343 |
 | My Darkest Day | 49.00% | ~323 |
 | Rhythm Of Willump | 47.00% | ~310 |
 | The Relentless Storm | 46.00% | ~303 |
@@ -27,14 +27,14 @@
 | The Finisher | 41.00% | ~270 |
 | So Close | 39.00% | ~257 |
 | You Get Used To It | 38.00% | ~250 |
+| Family | 36.00% | ~237 |
 | Bullseye | 36.00% | ~237 |
 | Boosted! | 36.00% | ~237 |
-| Family | 35.00% | ~231 |
 | Biggest Snowball Ever | 35.00% | ~231 |
+| Freeze The Ice Witch | 35.00% | ~231 |
 | On The Rocks | 35.00% | ~231 |
-| Freeze The Ice Witch | 34.00% | ~224 |
-| Deadliest and Biggest Snowball Ever! | 34.00% | ~224 |
-| It Is Not Over | 32.00% | ~211 |
+| Deadliest and Biggest Snowball Ever! | 35.00% | ~231 |
+| It Is Not Over | 33.00% | ~217 |
 | Never Gets Old | 32.00% | ~211 |
 | Snowy Poro | 31.00% | ~204 |
 | Vertical Power | 28.00% | ~185 |

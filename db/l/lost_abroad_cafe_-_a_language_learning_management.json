@@ -3,9 +3,9 @@
   "Name": "Lost Abroad Cafe - A Language Learning Management",
   "ProductSlug": "lost-abroad-cafe-a-language-learning-management-sim-bfc28c",
   "Ranking_EOS_Progress": 294,
-  "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_Completed": 188,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-05-26T17:00:00+00:00",
     "PcReleaseDate": "2022-12-31T01:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 555,
-  "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.36,
+  "EOS_Progressed": 556,
+  "EOS_Completed": 3,
+  "EOS_NewPlayers": 25,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-05-22T02:10:23.0997287+00:00",
@@ -2524,6 +2524,11 @@
       "Time": "2023-11-12T17:06:21.3722518+00:00",
       "NumProgressed": 555,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-12T18:06:40.6213638+00:00",
+      "NumProgressed": 556,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 8,
@@ -2557,9 +2562,9 @@
       "ID": "countertop",
       "SetID": "56hff7o",
       "Name": "Countertop Champion",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "get_lost",
@@ -2573,9 +2578,9 @@
       "ID": "tea_10",
       "SetID": "56hff7o",
       "Name": "Tea-ser",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 75,
-      "UsersEstimate": 228
+      "UsersEstimate": 234
     },
     {
       "ID": "tea_100",
@@ -2589,23 +2594,23 @@
       "ID": "tea_50",
       "SetID": "56hff7o",
       "Name": "Tea Master",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 67
     }
   ],
   "AchievementSets": [
     {
       "ID": "56hff7o",
       "IsBase": true,
-      "Progressed": 555,
-      "Completed": 2
+      "Progressed": 556,
+      "Completed": 3
     }
   ],
   "FirstSeen": "2023-06-23T10:58:45.2753016+00:00",
   "FirstSeenAchievements": "2023-05-18T05:04:21.5286003+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:06:21.3722515+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:06:40.6213632+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:36.8148424+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:59:48.1408486+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:06:21.3722727+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:59:52.5911596+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:06:40.6213863+00:00"
 }

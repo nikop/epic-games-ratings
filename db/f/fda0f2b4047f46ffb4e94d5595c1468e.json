@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2495,7 +2495,7 @@
   ],
   "EOS_Progressed": 8467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8159,9 +8159,9 @@
       "ID": "ach48",
       "SetID": "47in8n6",
       "Name": "Total Disrespect",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1863
     },
     {
       "ID": "ach49",
@@ -8192,8 +8192,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-12T16:01:50.1868585+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:08:32.1440728+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:08:39.191275+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:02:46.5318843+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:08:32.1441542+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:00:39.2678949+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:08:39.1913434+00:00"
 }

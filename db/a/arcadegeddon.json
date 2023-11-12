@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 329,
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9600,
+  "EOS_Progressed": 9601,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11440,6 +11440,11 @@
       "Time": "2023-11-12T16:07:23.9114899+00:00",
       "NumProgressed": 9600,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T18:06:41.2035772+00:00",
+      "NumProgressed": 9601,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -11451,7 +11456,7 @@
       "Name": "Adventure Time",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7392
+      "UsersEstimate": 7393
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -11483,7 +11488,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5472
+      "UsersEstimate": 5473
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -11515,7 +11520,7 @@
       "Name": "Get Furious",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 5184
+      "UsersEstimate": 5185
     },
     {
       "ID": "ACH_GET_IN_THE_RING",
@@ -11555,7 +11560,7 @@
       "Name": "Gunplay And Cosplay",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 5088
+      "UsersEstimate": 5089
     },
     {
       "ID": "ACH_HACKS_IN_STACKS",
@@ -11563,7 +11568,7 @@
       "Name": "Hacks In Stacks",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 5184
+      "UsersEstimate": 5185
     },
     {
       "ID": "ACH_HERE_COMES_A_NEW_CHALLENGER",
@@ -11595,7 +11600,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 8448
+      "UsersEstimate": 8449
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -11649,9 +11654,9 @@
       "ID": "ACH_PHOTOGENIC",
       "SetID": "97mcd7i",
       "Name": "Photogenic",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 8064
+      "UsersEstimate": 8161
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -11659,7 +11664,7 @@
       "Name": "Playing With Power",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 7104
+      "UsersEstimate": 7105
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -11667,7 +11672,7 @@
       "Name": "Plug It In",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7776
+      "UsersEstimate": 7777
     },
     {
       "ID": "ACH_POPPIN_NOGGINS",
@@ -11755,7 +11760,7 @@
       "Name": "Surge Gauntlet Jockey",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 7776
+      "UsersEstimate": 7777
     },
     {
       "ID": "ACH_SURGE_GAUNTLET_SCHOLAR",
@@ -11843,22 +11848,22 @@
       "Name": "You\u0027re Fired",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     }
   ],
   "AchievementSets": [
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9600,
+      "Progressed": 9601,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:06:21.9183894+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:06:41.2035766+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:16.5376264+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:00:28.7044357+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:06:21.9185818+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:00:32.9317916+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:06:41.2036829+00:00"
 }

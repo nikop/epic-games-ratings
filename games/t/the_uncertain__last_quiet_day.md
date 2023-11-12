@@ -14,7 +14,7 @@
 | Everybody lies | 35.00% | ~202 |
 | Trick or Treat? | 23.00% | ~132 |
 | There is another way | 23.00% | ~132 |
-| Sysadmin | 21.00% | ~121 |
+| Sysadmin | 22.00% | ~127 |
 | Every little helps | 20.00% | ~115 |
 | The Walking Robot Among Us | 20.00% | ~115 |
 | Annoying | 19.00% | ~109 |

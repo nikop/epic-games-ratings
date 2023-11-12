@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -915,7 +915,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 7267,
+  "EOS_Progressed": 7268,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
@@ -8410,6 +8410,11 @@
       "Time": "2023-11-12T09:06:36.466537+00:00",
       "NumProgressed": 7267,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T18:08:44.601974+00:00",
+      "NumProgressed": 7268,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -8453,7 +8458,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2107
+      "UsersEstimate": 2108
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -8533,7 +8538,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5233
     },
     {
       "ID": "First_Ship_Designed",
@@ -8741,7 +8746,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -8996,15 +9001,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7267,
+      "Progressed": 7268,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:08:37.8739911+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:08:44.6019729+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.8341432+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:59:53.7779028+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:08:37.8741153+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:59:57.9735954+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:08:44.6020921+00:00"
 }

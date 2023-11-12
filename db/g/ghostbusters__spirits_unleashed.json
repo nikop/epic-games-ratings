@@ -3273,9 +3273,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30862,
+  "EOS_Progressed": 30869,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -18988,6 +18988,11 @@
       "Time": "2023-11-12T17:04:51.8760678+00:00",
       "NumProgressed": 30862,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-11-12T18:05:11.801517+00:00",
+      "NumProgressed": 30869,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 51,
@@ -19047,7 +19052,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "Collector",
@@ -19087,7 +19092,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "Dont_Need_These",
@@ -19135,7 +19140,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "GB_In_Training",
@@ -19287,7 +19292,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "Stunner",
@@ -19303,7 +19308,7 @@
       "Name": "Stylish",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2469
+      "UsersEstimate": 2470
     },
     {
       "ID": "Summoner",
@@ -19327,7 +19332,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "Teamwork",
@@ -19335,7 +19340,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "Terrifying",
@@ -19383,7 +19388,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "Welcome_Crew",
@@ -19406,7 +19411,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30862,
+      "Progressed": 30869,
       "Completed": 67
     }
   ],
@@ -19414,8 +19419,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-12T12:02:44.8779447+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:04:51.8760673+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:05:11.8015164+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:02:55.4341341+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:04:51.8762158+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:03:17.4053038+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:05:11.8016599+00:00"
 }

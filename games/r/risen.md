@@ -11,8 +11,8 @@ Rating: 4.59 (Ranked 431)
 | Adventurer | 76.00% | ~26 |
 | The brave little tailor | 62.00% | ~21 |
 | Archer | 62.00% | ~21 |
+| Field hand | 59.00% | ~20 |
 | Samaritan | 59.00% | ~20 |
-| Field hand | 56.00% | ~19 |
 | Well-to-do | 56.00% | ~19 |
 | Ladies' man | 53.00% | ~18 |
 | The merciful one | 50.00% | ~17 |
@@ -33,10 +33,10 @@ Rating: 4.59 (Ranked 431)
 | Workaholic | 24.00% | ~8 |
 | Sidelined | 24.00% | ~8 |
 | Fence | 21.00% | ~7 |
+| Freedom fighter | 18.00% | ~6 |
 | Defender | 18.00% | ~6 |
 | Pandora's box | 18.00% | ~6 |
 | Safecracker | 18.00% | ~6 |
-| Freedom fighter | 15.00% | ~5 |
 | Master thief | 15.00% | ~5 |
 | Moneybags | 15.00% | ~5 |
 | Showdown | 12.00% | ~4 |

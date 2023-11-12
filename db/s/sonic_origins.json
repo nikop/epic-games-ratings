@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
     "PcReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -2768,9 +2768,9 @@
       "ID": "ID_16_WATCH_AT_MUSEUM",
       "SetID": "7o8nc5m",
       "Name": "Museum Time",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 239
+      "UsersEstimate": 245
     },
     {
       "ID": "ID_17_CLEAR_FIRST_MISSION",
@@ -2936,8 +2936,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-10-27T02:57:20.6331407+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:09:37.1168533+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:09:41.3246864+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6615499+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:59:53.6210831+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:09:37.1168947+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:59:57.838481+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:09:41.3247278+00:00"
 }

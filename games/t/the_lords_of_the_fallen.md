@@ -5,8 +5,8 @@ Rating: 4.21 (Ranked 900)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Comrades | 0.50% | ~8 |
 | A Veil Lifted | 0.40% | ~6 |
+| Comrades | 0.40% | ~6 |
 | Shared Triumph | 0.40% | ~6 |
 | No Mercy | 0.40% | ~6 |
 | Thriving in Darkness | 0.40% | ~6 |
@@ -69,7 +69,7 @@ Rating: 4.21 (Ranked 900)
 | A Rest Among the Dead | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,555 (Ranked 234)  
+Progressed: 1,556 (Ranked 234)  
 Completed: 1 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -94,15 +94,15 @@ Completed: 1 (0.06%) (Ranked 291)
 | 2023-11-09 | 1,501 | 1 |
 | 2023-11-10 | 1,521 | 1 |
 | 2023-11-11 | 1,538 | 1 |
-| 2023-11-12 | 1,555 | 1 |
+| 2023-11-12 | 1,556 | 1 |
 ## Awards
 Max (Character Customization): 149  (Ranked 317)  
-Sum: 256 (Ranked 376)  
+Sum: 258 (Ranked 376)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 149 |
-| This game has Great Boss Battles | 107 |
+| This game has Great Boss Battles | 109 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -133,4 +133,4 @@ Diff (max vs sum): -59
 | 2023-11-08 | 4.20 | 143 | 244 |
 | 2023-11-10 | 4.21 | 145 | 250 |
 | 2023-11-11 | 4.21 | 148 | 255 |
-| 2023-11-12 | 4.21 | 149 | 256 |
+| 2023-11-12 | 4.21 | 149 | 258 |

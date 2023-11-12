@@ -39,16 +39,16 @@
 | Giantess Slayer | 12.00% | ~13 |
 | Silver Moon Wolf King Challenge | 6.00% | ~7 |
 | Rebellious | 5.00% | ~6 |
+| Blade Mantis Challenge | 5.00% | ~6 |
 | Big Face Goalkeeper Challenge | 5.00% | ~6 |
+| Giant Claw Spider Challenge | 5.00% | ~6 |
+| Furious Scorpion Challenge | 5.00% | ~6 |
+| Mermaid Challenge | 5.00% | ~6 |
+| Giantess Challenge | 5.00% | ~6 |
 | Warden Challenge | 5.00% | ~6 |
-| Blade Mantis Challenge | 4.00% | ~4 |
-| Giant Claw Spider Challenge | 4.00% | ~4 |
-| Furious Scorpion Challenge | 4.00% | ~4 |
+| Flying Kobold Challenge | 4.00% | ~4 |
 | Giant Lizard Challenge | 4.00% | ~4 |
-| Mermaid Challenge | 4.00% | ~4 |
-| Giantess Challenge | 4.00% | ~4 |
-| Flying Kobold Challenge | 3.00% | ~3 |
-| Berserker Challenge | 3.00% | ~3 |
+| Berserker Challenge | 4.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 111 (Ranked 412)  
 Completed: 0 (0.00%) (Ranked 347)  

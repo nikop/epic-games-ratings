@@ -9,7 +9,7 @@ Rating: 4.42 (Ranked 715)
 | A new Journey | 75.00% | ~1,620 |
 | Departure | 74.00% | ~1,598 |
 | From X to Y | 73.00% | ~1,577 |
-| Way of Iron | 70.00% | ~1,512 |
+| Way of Iron | 71.00% | ~1,534 |
 | Mystery Tour | 69.00% | ~1,490 |
 | We brake for nobody | 68.00% | ~1,469 |
 | Brainstorm | 66.00% | ~1,426 |
@@ -51,7 +51,7 @@ Rating: 4.42 (Ranked 715)
 | Tycoon | 11.00% | ~238 |
 | Unstoppable | 9.00% | ~194 |
 | Track to the Future | 9.00% | ~194 |
-| Call of Duty | 8.00% | ~173 |
+| Call of Duty | 9.00% | ~194 |
 | Conductor | 7.00% | ~151 |
 | Engineer | 4.00% | ~86 |
 | Let off some steam | 4.00% | ~86 |

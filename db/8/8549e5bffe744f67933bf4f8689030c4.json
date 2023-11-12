@@ -2,10 +2,10 @@
   "ID": "8549e5bffe744f67933bf4f8689030c4",
   "Name": "Godzilla Voxel Wars",
   "ProductSlug": "godzillawars-2c30e4",
-  "Ranking_EOS_Progress": 565,
+  "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 260,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-08T03:00:00+00:00",
     "PcReleaseDate": "2023-11-04T03:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 14,
+  "EOS_Progressed": 15,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -82,6 +82,11 @@
       "Time": "2023-11-12T15:04:55.7943796+00:00",
       "NumProgressed": 14,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T18:05:35.3313478+00:00",
+      "NumProgressed": 15,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-07T04:02:54.7866363+00:00",
@@ -100,7 +105,7 @@
       "ID": "AcquireReportAll",
       "SetID": "59jf8f5",
       "Name": "A Prodigy!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -108,7 +113,7 @@
       "ID": "AcquireReportFirst",
       "SetID": "59jf8f5",
       "Name": "Reveal the Secret!",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -116,7 +121,7 @@
       "ID": "AttackEnemies6AtOnceWithEbirah",
       "SetID": "59jf8f5",
       "Name": "The One-Two Wonder",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -124,7 +129,7 @@
       "ID": "AttackMashflyWithMinilla",
       "SetID": "59jf8f5",
       "Name": "No Use for Muscle",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -132,7 +137,7 @@
       "ID": "AttackOverMagmaWithDestroyah",
       "SetID": "59jf8f5",
       "Name": "It Goes That Far?",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -140,7 +145,7 @@
       "ID": "BlowAwayEnemies4WithMothraLarvaeSimultaneously",
       "SetID": "59jf8f5",
       "Name": "Fireworks",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -148,7 +153,7 @@
       "ID": "BlowAwayFourEnemiesSimultaneouslyWithHedora",
       "SetID": "59jf8f5",
       "Name": "Dirty Fireworks",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -156,7 +161,7 @@
       "ID": "BoostBombAttackWithMinilla",
       "SetID": "59jf8f5",
       "Name": "Bomb Expert",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -164,7 +169,7 @@
       "ID": "ChargeIntoMagmaWithKabutoDake",
       "SetID": "59jf8f5",
       "Name": "Reckless Rush",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -172,7 +177,7 @@
       "ID": "ClearAllStagesWithBestScore",
       "SetID": "59jf8f5",
       "Name": "Legendary Figure",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -180,7 +185,7 @@
       "ID": "ClearAreaByStar3",
       "SetID": "59jf8f5",
       "Name": "Area Master",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -188,7 +193,7 @@
       "ID": "ClearBackAll",
       "SetID": "59jf8f5",
       "Name": "Space-Time Traveler",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -196,7 +201,7 @@
       "ID": "ClearBackHalf",
       "SetID": "59jf8f5",
       "Name": "Unraveling the Mystery",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -204,7 +209,7 @@
       "ID": "ClearStage100",
       "SetID": "59jf8f5",
       "Name": "Cleared 100 Stages!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -212,7 +217,7 @@
       "ID": "ClearStage200",
       "SetID": "59jf8f5",
       "Name": "Cleared 200 Stages!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -220,7 +225,7 @@
       "ID": "ClearStage50",
       "SetID": "59jf8f5",
       "Name": "Cleared 50 Stages!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -228,7 +233,7 @@
       "ID": "ClearStageAll",
       "SetID": "59jf8f5",
       "Name": "World Master",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -236,7 +241,7 @@
       "ID": "ClearStageFirst",
       "SetID": "59jf8f5",
       "Name": "The First Mushroom Hunt",
-      "Percentage": 86,
+      "Percentage": 80,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -244,7 +249,7 @@
       "ID": "ClearStory",
       "SetID": "59jf8f5",
       "Name": "To Save One Universe",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -252,7 +257,7 @@
       "ID": "CrossMagmaWithAnguirus",
       "SetID": "59jf8f5",
       "Name": "Fearless",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -260,7 +265,7 @@
       "ID": "CrossMagmaWithKuwaganoko",
       "SetID": "59jf8f5",
       "Name": "Pleasure Flight Full of Punishment",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -268,7 +273,7 @@
       "ID": "DestroyNest6WithKingGhidorahAtOnce",
       "SetID": "59jf8f5",
       "Name": "The Exterminator",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -276,7 +281,7 @@
       "ID": "DestroyNestsWithMashuras",
       "SetID": "59jf8f5",
       "Name": "A Private Issue?",
-      "Percentage": 57,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -284,7 +289,7 @@
       "ID": "DestroyTwoNestsAtOnceWithKamakinoko",
       "SetID": "59jf8f5",
       "Name": "Relationship Wrecker",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -292,7 +297,7 @@
       "ID": "DropEnemiesIntoMagmaWithBiolante",
       "SetID": "59jf8f5",
       "Name": "Touch of Death",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -300,7 +305,7 @@
       "ID": "EditStageFirst",
       "SetID": "59jf8f5",
       "Name": "Universe Creator",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -308,7 +313,7 @@
       "ID": "EncounterAllEnemiesExceptBoss",
       "SetID": "59jf8f5",
       "Name": "Mushroom Expert",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -316,7 +321,7 @@
       "ID": "EnterBackFirst",
       "SetID": "59jf8f5",
       "Name": "Parallel World",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -324,7 +329,7 @@
       "ID": "EnterStageEdit",
       "SetID": "59jf8f5",
       "Name": "Beginnings of a New Universe",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -332,7 +337,7 @@
       "ID": "KillBoss1",
       "SetID": "59jf8f5",
       "Name": "Giant Mushroom Hunter",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -340,7 +345,7 @@
       "ID": "KillBoss2",
       "SetID": "59jf8f5",
       "Name": "Queen Bee Hunter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -348,7 +353,7 @@
       "ID": "KillBoss3",
       "SetID": "59jf8f5",
       "Name": "Giant Dung Beetle Hunter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -356,7 +361,7 @@
       "ID": "KillBoss4",
       "SetID": "59jf8f5",
       "Name": "Giant Rhinoceros Beetle Hunter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -364,7 +369,7 @@
       "ID": "KillBoss5",
       "SetID": "59jf8f5",
       "Name": "Giant Slug Hunter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -372,7 +377,7 @@
       "ID": "KillBossAll",
       "SetID": "59jf8f5",
       "Name": "King Mushroom Hunter",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -380,7 +385,7 @@
       "ID": "KillEnemiesWithAdultMothraAttack",
       "SetID": "59jf8f5",
       "Name": "Not What I Intended",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -388,7 +393,7 @@
       "ID": "KillEnemyByContainerPopping",
       "SetID": "59jf8f5",
       "Name": "Beware of Container Storage",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -396,7 +401,7 @@
       "ID": "KillEnemyByEnemyAttack",
       "SetID": "59jf8f5",
       "Name": "Battlefield Tactician",
-      "Percentage": 50,
+      "Percentage": 47,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -404,7 +409,7 @@
       "ID": "KillEnemyByFailedGrow",
       "SetID": "59jf8f5",
       "Name": "Empty Fort Strategy",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -412,7 +417,7 @@
       "ID": "KillEnemyByIceCrushing",
       "SetID": "59jf8f5",
       "Name": "Ice Pillow",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -420,7 +425,7 @@
       "ID": "KillEnemyByPlayerKnockback",
       "SetID": "59jf8f5",
       "Name": "Earned Through Sacrifice",
-      "Percentage": 57,
+      "Percentage": 53,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -428,7 +433,7 @@
       "ID": "LaunchBombAtEnemyAttack",
       "SetID": "59jf8f5",
       "Name": "Bomb Maker",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -436,7 +441,7 @@
       "ID": "LaunchBombAtSpawn",
       "SetID": "59jf8f5",
       "Name": "The New Time Bomb",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -444,7 +449,7 @@
       "ID": "LaunchBombOverMagmaWithMechagodzilla",
       "SetID": "59jf8f5",
       "Name": "Steel Sniper",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -452,7 +457,7 @@
       "ID": "LaunchBombUsingMashubiAttack",
       "SetID": "59jf8f5",
       "Name": "Bomb Accomplice",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -460,7 +465,7 @@
       "ID": "LaunchBombWithPoison",
       "SetID": "59jf8f5",
       "Name": "Bomb Wizard",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -468,7 +473,7 @@
       "ID": "LikeEveryoneStage",
       "SetID": "59jf8f5",
       "Name": "World Aficionado",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -476,7 +481,7 @@
       "ID": "MakeInvincibleKingGhidorahEggAndPushEnemies",
       "SetID": "59jf8f5",
       "Name": "Treat the Cutie to a Trip",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -484,7 +489,7 @@
       "ID": "MakeInvincibleMothraEggAndCrushEnemiesWithIt",
       "SetID": "59jf8f5",
       "Name": "Spartan Schooling",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -492,7 +497,7 @@
       "ID": "MoveAlliesWithKinokorogashi",
       "SetID": "59jf8f5",
       "Name": "The Wafting Stink of Mushrooms",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -500,7 +505,7 @@
       "ID": "ObtainMonsterAll",
       "SetID": "59jf8f5",
       "Name": "Monster Expert",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -508,7 +513,7 @@
       "ID": "ObtainMonsterFirst",
       "SetID": "59jf8f5",
       "Name": "Rookie Monster Collector",
-      "Percentage": 64,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -516,7 +521,7 @@
       "ID": "ObtainStar3OnStage100",
       "SetID": "59jf8f5",
       "Name": "Completed 100 Stages",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -524,7 +529,7 @@
       "ID": "ObtainStar3OnStage200",
       "SetID": "59jf8f5",
       "Name": "Completed 200 Stages",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -532,7 +537,7 @@
       "ID": "ObtainStar3OnStage50",
       "SetID": "59jf8f5",
       "Name": "Completed 50 Stages",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -540,7 +545,7 @@
       "ID": "ObtainStar3OnStageAll",
       "SetID": "59jf8f5",
       "Name": "Godzilla Voxel Wars Champion",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 70,
       "UsersEstimate": 2
     },
@@ -548,7 +553,7 @@
       "ID": "PlayEveryoneStage",
       "SetID": "59jf8f5",
       "Name": "Battle in Another Universe",
-      "Percentage": 36,
+      "Percentage": 33,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -556,7 +561,7 @@
       "ID": "PlayGameForHours20",
       "SetID": "59jf8f5",
       "Name": "A Paragon of Fandom",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -564,7 +569,7 @@
       "ID": "PreventNamenokoFromSplitting",
       "SetID": "59jf8f5",
       "Name": "Giant Jam",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -572,7 +577,7 @@
       "ID": "SummonMonster6InTurn1",
       "SetID": "59jf8f5",
       "Name": "Summoning Festival",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -580,7 +585,7 @@
       "ID": "TransportAlliesOverMagmaWithRadon",
       "SetID": "59jf8f5",
       "Name": "Pleasure Flight",
-      "Percentage": 29,
+      "Percentage": 27,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -588,7 +593,7 @@
       "ID": "UnlockAllEditActor",
       "SetID": "59jf8f5",
       "Name": "The Alpha and Omega",
-      "Percentage": 43,
+      "Percentage": 40,
       "XP": 30,
       "UsersEstimate": 6
     }
@@ -597,13 +602,13 @@
     {
       "ID": "59jf8f5",
       "IsBase": true,
-      "Progressed": 14,
+      "Progressed": 15,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-07T04:02:54.7866362+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:05:16.0047073+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:05:35.3313472+00:00",
   "LastUpdate_AppInfo": "2023-11-07T03:57:00.1604084+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:59:36.2838299+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:05:16.0047723+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:59:40.446988+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:05:35.3314077+00:00"
 }

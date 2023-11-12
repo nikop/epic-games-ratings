@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 71.00% | ~73 |
-| Complete Level 1-1 | 63.00% | ~65 |
+| What is this? | 72.00% | ~74 |
+| Complete Level 1-1 | 64.00% | ~66 |
 | Immortal | 55.00% | ~57 |
 | Complete Level 1-2 | 47.00% | ~48 |
 | Scraping by | 35.00% | ~36 |
@@ -23,9 +23,9 @@
 | Well-off | 14.00% | ~14 |
 | Too many crates | 14.00% | ~14 |
 | Complete Level 3-1 | 14.00% | ~14 |
+| Engineer-warrior hybrid | 13.00% | ~13 |
 | Baby steps | 12.00% | ~12 |
 | Complete Level 3-2 | 12.00% | ~12 |
-| Engineer-warrior hybrid | 12.00% | ~12 |
 | Party popper | 11.00% | ~11 |
 | Should have left me alone | 10.00% | ~10 |
 | Drink up | 10.00% | ~10 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 310,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1359,9 +1359,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5974,
+  "EOS_Progressed": 5975,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12804,6 +12804,11 @@
       "Time": "2023-11-12T16:09:41.8136271+00:00",
       "NumProgressed": 5974,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-12T18:09:40.2258763+00:00",
+      "NumProgressed": 5975,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12815,7 +12820,7 @@
       "Name": "Chain Gang",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_DONTPANIC",
@@ -12839,7 +12844,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -12911,7 +12916,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2688
+      "UsersEstimate": 2689
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -12933,9 +12938,9 @@
       "ID": "ACH_EP_SPEAKEASY",
       "SetID": "1p8ab95",
       "Name": "Number 18",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1374
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -12975,7 +12980,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4421
+      "UsersEstimate": 4422
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -12991,7 +12996,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -13039,7 +13044,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -13055,7 +13060,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -13063,7 +13068,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -13127,22 +13132,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5974,
+      "Progressed": 5975,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-12T13:01:14.2582562+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:09:35.8493363+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:09:40.2258758+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.1607316+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:58:30.7161897+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:09:35.8494415+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:58:37.7756025+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:09:40.2259778+00:00"
 }

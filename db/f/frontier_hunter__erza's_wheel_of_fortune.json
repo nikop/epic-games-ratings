@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -781,9 +781,9 @@
       "ID": "ACHIEVEMENT_33",
       "SetID": "7pimpda",
       "Name": "Blade Mantis Challenge",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -797,25 +797,25 @@
       "ID": "ACHIEVEMENT_35",
       "SetID": "7pimpda",
       "Name": "Flying Kobold Challenge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_36",
       "SetID": "7pimpda",
       "Name": "Giant Claw Spider Challenge",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_37",
       "SetID": "7pimpda",
       "Name": "Furious Scorpion Challenge",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -845,9 +845,9 @@
       "ID": "ACHIEVEMENT_40",
       "SetID": "7pimpda",
       "Name": "Mermaid Challenge",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -877,17 +877,17 @@
       "ID": "ACHIEVEMENT_44",
       "SetID": "7pimpda",
       "Name": "Berserker Challenge",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACHIEVEMENT_45",
       "SetID": "7pimpda",
       "Name": "Giantess Challenge",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -950,8 +950,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2023-03-31T05:57:35.9709383+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:05:44.1386967+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:06:03.4561443+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:17.7507945+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:00:29.5490355+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:05:44.1387466+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:00:33.7562051+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:06:03.4561879+00:00"
 }

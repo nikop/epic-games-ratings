@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14886,
+  "EOS_Progressed": 14888,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11067,6 +11067,11 @@
       "Time": "2023-11-12T17:05:03.1924665+00:00",
       "NumProgressed": 14886,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-12T18:05:22.7759121+00:00",
+      "NumProgressed": 14888,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11189,9 +11194,9 @@
       "ID": "22",
       "SetID": "458bbdk",
       "Name": "Brother\u0027s Reaper",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 89
     },
     {
       "ID": "23",
@@ -11231,7 +11236,7 @@
       "Name": "Bosmang",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "28",
@@ -11358,22 +11363,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14886,
+      "Progressed": 14888,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 840,
-      "Completed": 535
+      "Progressed": 842,
+      "Completed": 536
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-12T17:05:03.1924659+00:00",
+  "LastChanged_Achievements": "2023-11-12T18:05:22.7759113+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-12T16:59:34.1556189+00:00",
-  "LastUpdate_Achievements": "2023-11-12T17:05:03.1925714+00:00"
+  "LastUpdate_Ratings": "2023-11-12T17:59:38.5722483+00:00",
+  "LastUpdate_Achievements": "2023-11-12T18:05:22.7760077+00:00"
 }
