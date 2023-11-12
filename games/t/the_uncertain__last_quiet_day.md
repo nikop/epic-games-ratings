@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~345 |
-| Buckle up | 59.00% | ~339 |
-| Quick charge | 59.00% | ~339 |
-| Hands up! | 53.00% | ~305 |
+| I can do a thing or two | 60.00% | ~346 |
+| Buckle up | 59.00% | ~340 |
+| Quick charge | 59.00% | ~340 |
 | Now you know | 53.00% | ~305 |
-| Short circuit | 53.00% | ~305 |
+| Hands up! | 52.00% | ~300 |
+| Short circuit | 52.00% | ~300 |
 | Curious | 42.00% | ~242 |
-| Everybody lies | 35.00% | ~201 |
+| Everybody lies | 35.00% | ~202 |
 | Trick or Treat? | 23.00% | ~132 |
 | There is another way | 23.00% | ~132 |
 | Sysadmin | 21.00% | ~121 |
@@ -21,13 +21,13 @@
 | Hacker | 19.00% | ~109 |
 | He is just a child | 19.00% | ~109 |
 | Uncertain | 18.00% | ~104 |
-| Ace | 17.00% | ~98 |
 | Goody | 17.00% | ~98 |
-| Please oh pleeease! | 17.00% | ~98 |
+| Ace | 16.00% | ~92 |
 | Concrete painting | 16.00% | ~92 |
 | Found it! | 16.00% | ~92 |
 | Hipster | 16.00% | ~92 |
 | Not what it seems | 16.00% | ~92 |
+| Please oh pleeease! | 16.00% | ~92 |
 | That's much better! | 15.00% | ~86 |
 | Not as clumsy or random | 13.00% | ~75 |
 | Blade Runner | 10.00% | ~58 |
@@ -37,8 +37,8 @@
 | Accurate | 5.00% | ~29 |
 | Silent | 4.00% | ~23 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 575 (Ranked 289)  
-Completed: 18 (3.13%) (Ranked 95)  
+Progressed: 576 (Ranked 289)  
+Completed: 18 (3.12%) (Ranked 95)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -151,6 +151,7 @@ Completed: 18 (3.13%) (Ranked 95)
 | 2023-11-06 | 573 | 18 |
 | 2023-11-08 | 574 | 18 |
 | 2023-11-11 | 575 | 18 |
+| 2023-11-12 | 576 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

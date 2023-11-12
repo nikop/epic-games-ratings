@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7883,
+  "EOS_Progressed": 7884,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6290,6 +6290,11 @@
       "Time": "2023-11-12T09:09:07.2365356+00:00",
       "NumProgressed": 7883,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T10:09:26.1747601+00:00",
+      "NumProgressed": 7884,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6350,7 +6355,7 @@
       "Name": "Earned 50000 Credits",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "CreditsSpent50000",
@@ -6374,7 +6379,7 @@
       "Name": "Upgraded Enhanced Armor to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "EAUpgraded1",
@@ -6478,7 +6483,7 @@
       "Name": "Upgraded the Grenade Launcher to Level 3",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "HAPurchased1",
@@ -6566,7 +6571,7 @@
       "Name": "Purchased Incendiary Rounds",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "InhibitorKills3",
@@ -6670,7 +6675,7 @@
       "Name": "Destroyed 3 Towers in a single match",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "MaxTowersKilled6",
@@ -6734,7 +6739,7 @@
       "Name": "10 Eliminations",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "PlayerKills100",
@@ -6854,7 +6859,7 @@
       "Name": "Purchased Toxic Grenade",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "TPurchased1",
@@ -6878,7 +6883,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "WCUpgraded1",
@@ -6893,7 +6898,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7883,
+      "Progressed": 7884,
       "Completed": 1
     }
   ],
@@ -6901,8 +6906,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-07T13:03:10.353816+00:00",
-  "LastChanged_Achievements": "2023-11-12T09:09:07.2365354+00:00",
+  "LastChanged_Achievements": "2023-11-12T10:09:26.1747553+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-12T09:00:14.858335+00:00",
-  "LastUpdate_Achievements": "2023-11-12T09:09:07.2366329+00:00"
+  "LastUpdate_Ratings": "2023-11-12T10:02:31.5418495+00:00",
+  "LastUpdate_Achievements": "2023-11-12T10:09:26.1748481+00:00"
 }

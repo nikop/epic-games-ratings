@@ -5,26 +5,26 @@ Rating: 4.59 (Ranked 432)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 97.00% | ~32 |
-| Map reader | 91.00% | ~30 |
-| Philanthropist | 82.00% | ~27 |
-| Adventurer | 79.00% | ~26 |
-| The brave little tailor | 61.00% | ~20 |
-| Samaritan | 61.00% | ~20 |
-| Archer | 61.00% | ~20 |
-| Field hand | 55.00% | ~18 |
-| Well-to-do | 55.00% | ~18 |
-| The merciful one | 52.00% | ~17 |
-| Ladies' man | 52.00% | ~17 |
-| Ferocious wild boars | 39.00% | ~13 |
-| Idiot | 36.00% | ~12 |
-| Family man | 33.00% | ~11 |
-| Wise man | 30.00% | ~10 |
-| Ogre friend | 30.00% | ~10 |
-| The fourth triplet | 30.00% | ~10 |
-| Death of a legend | 27.00% | ~9 |
-| Beast slayer | 27.00% | ~9 |
-| Peacekeeper | 27.00% | ~9 |
+| Beginner | 97.00% | ~33 |
+| Map reader | 91.00% | ~31 |
+| Philanthropist | 82.00% | ~28 |
+| Adventurer | 76.00% | ~26 |
+| Archer | 62.00% | ~21 |
+| The brave little tailor | 59.00% | ~20 |
+| Samaritan | 59.00% | ~20 |
+| Field hand | 56.00% | ~19 |
+| Well-to-do | 56.00% | ~19 |
+| Ladies' man | 53.00% | ~18 |
+| The merciful one | 50.00% | ~17 |
+| Ferocious wild boars | 38.00% | ~13 |
+| Idiot | 35.00% | ~12 |
+| Family man | 32.00% | ~11 |
+| Wise man | 29.00% | ~10 |
+| Ogre friend | 29.00% | ~10 |
+| The fourth triplet | 29.00% | ~10 |
+| Death of a legend | 26.00% | ~9 |
+| Beast slayer | 26.00% | ~9 |
+| Peacekeeper | 26.00% | ~9 |
 | Archaeologist | 24.00% | ~8 |
 | Ghost hunter | 24.00% | ~8 |
 | Hard worker | 24.00% | ~8 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 432)
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 507)  
+Progressed: 34 (Ranked 505)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -80,6 +80,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 31 | 0 |
 | 2023-11-08 | 32 | 0 |
 | 2023-11-10 | 33 | 0 |
+| 2023-11-12 | 34 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

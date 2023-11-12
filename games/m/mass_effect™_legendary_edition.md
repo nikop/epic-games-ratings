@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 93.00% | ~1,112 |
-| Spectre Inductee | 78.00% | ~933 |
+| Spectre Inductee | 79.00% | ~945 |
 | Medal of Exploration I | 69.00% | ~825 |
 | Recruit | 64.00% | ~765 |
 | Search and Rescue | 64.00% | ~765 |

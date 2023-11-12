@@ -2,10 +2,10 @@
   "ID": "b85566d19ccb4f19895b5897e1d381a9",
   "Name": "Flat Heroes",
   "ProductSlug": "flat-heroes-fec628",
-  "Ranking_EOS_Progress": 282,
+  "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 625,
+  "EOS_Progressed": 626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1114,6 +1114,11 @@
       "Time": "2023-11-12T06:04:29.2772184+00:00",
       "NumProgressed": 625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T10:04:47.0876284+00:00",
+      "NumProgressed": 626,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1149,7 +1154,7 @@
       "Name": "Be water, my friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -1189,7 +1194,7 @@
       "Name": "Snake Eyes - Hero Edition",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HeroWorld3Boss",
@@ -1197,7 +1202,7 @@
       "Name": "The King of Flat - Hero Edition",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "HeroWorld4Boss",
@@ -1277,7 +1282,7 @@
       "Name": "Air Slash",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "OhNo",
@@ -1325,7 +1330,7 @@
       "Name": "Quite The Hero",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SurvivalRecordMiniVertical",
@@ -1397,7 +1402,7 @@
       "Name": "Rogue",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "World1Boss",
@@ -1405,7 +1410,7 @@
       "Name": "Dash Crash",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "World2Boss",
@@ -1413,7 +1418,7 @@
       "Name": "Snake Eyes",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "World3Boss",
@@ -1421,7 +1426,7 @@
       "Name": "The King of Flat",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "World4Boss",
@@ -1476,7 +1481,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 625,
+      "Progressed": 626,
       "Completed": 0
     }
   ],
@@ -1484,8 +1489,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-11-12T09:04:16.32485+00:00",
+  "LastChanged_Achievements": "2023-11-12T10:04:47.087628+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:39.0115681+00:00",
-  "LastUpdate_Ratings": "2023-11-12T09:00:37.0950063+00:00",
-  "LastUpdate_Achievements": "2023-11-12T09:04:16.3248756+00:00"
+  "LastUpdate_Ratings": "2023-11-12T10:02:56.6174785+00:00",
+  "LastUpdate_Achievements": "2023-11-12T10:04:47.0876577+00:00"
 }

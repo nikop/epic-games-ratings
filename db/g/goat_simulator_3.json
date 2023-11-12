@@ -5053,9 +5053,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 250528,
+  "EOS_Progressed": 250529,
   "EOS_Completed": 874,
-  "EOS_NewPlayers": 723,
+  "EOS_NewPlayers": 719,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -27483,6 +27483,11 @@
       "Time": "2023-11-12T09:09:00.5121807+00:00",
       "NumProgressed": 250528,
       "NumCompleted": 874
+    },
+    {
+      "Time": "2023-11-12T10:09:19.0093042+00:00",
+      "NumProgressed": 250529,
+      "NumCompleted": 874
     }
   ],
   "TotalAchievements": 39,
@@ -27542,7 +27547,7 @@
       "Name": "New Goat Order",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 75158
+      "UsersEstimate": 75159
     },
     {
       "ID": "AchievementBoulderID",
@@ -27550,7 +27555,7 @@
       "Name": "Raider of the Lost Parking Garage",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 65137
+      "UsersEstimate": 65138
     },
     {
       "ID": "AchievementCastleRenovationID",
@@ -27558,7 +27563,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 227980
+      "UsersEstimate": 227981
     },
     {
       "ID": "AchievementClownID",
@@ -27606,7 +27611,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 82674
+      "UsersEstimate": 82675
     },
     {
       "ID": "AchievementGoatID",
@@ -27630,7 +27635,7 @@
       "Name": "Into the Matrix",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 47600
+      "UsersEstimate": 47601
     },
     {
       "ID": "AchievementINirvanaID",
@@ -27662,7 +27667,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142801
+      "UsersEstimate": 142802
     },
     {
       "ID": "AchievementLootBoxID",
@@ -27766,7 +27771,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137790
+      "UsersEstimate": 137791
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -27774,7 +27779,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 117748
+      "UsersEstimate": 117749
     },
     {
       "ID": "AchievementTrinketID",
@@ -27790,7 +27795,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 162843
+      "UsersEstimate": 162844
     },
     {
       "ID": "AchievementWhaleID",
@@ -27805,7 +27810,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250528,
+      "Progressed": 250529,
       "Completed": 874
     }
   ],
@@ -27813,8 +27818,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-12T01:46:41.7868968+00:00",
-  "LastChanged_Achievements": "2023-11-12T09:09:00.5121805+00:00",
+  "LastChanged_Achievements": "2023-11-12T10:09:19.0093037+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5356776+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:58:42.8209096+00:00",
-  "LastUpdate_Achievements": "2023-11-12T09:09:00.5123196+00:00"
+  "LastUpdate_Ratings": "2023-11-12T09:58:55.9341971+00:00",
+  "LastUpdate_Achievements": "2023-11-12T10:09:19.0094283+00:00"
 }

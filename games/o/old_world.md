@@ -35,41 +35,41 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 3.00% | ~458 |
 | Naming Landmarks | 3.00% | ~458 |
 | Trade Caravan | 3.00% | ~458 |
-| Regicide | 2.00% | ~305 |
-| Drillmaster | 2.00% | ~305 |
-| Brilliant | 2.00% | ~305 |
-| Fountainhead | 2.00% | ~305 |
-| Great | 2.00% | ~305 |
-| Magnificent | 2.00% | ~305 |
-| Mighty | 2.00% | ~305 |
-| Valiant | 2.00% | ~305 |
-| Wise | 2.00% | ~305 |
-| Legendary Cities | 2.00% | ~305 |
-| Able Difficulty | 2.00% | ~305 |
-| Just Difficulty | 2.00% | ~305 |
-| Artisans | 2.00% | ~305 |
-| Sages | 2.00% | ~305 |
-| Furious Family | 2.00% | ~305 |
-| Acropolis | 2.00% | ~305 |
-| Apadana | 2.00% | ~305 |
-| Colossus | 2.00% | ~305 |
-| Great Ziggurat | 2.00% | ~305 |
-| Ishtar Gate | 2.00% | ~305 |
-| Lighthouse | 2.00% | ~305 |
-| Musaeum | 2.00% | ~305 |
-| Necropolis | 2.00% | ~305 |
-| Learn to Play 1 | 2.00% | ~305 |
-| Learn to Play 2 | 2.00% | ~305 |
-| Christianity | 2.00% | ~305 |
-| Manichaeism | 2.00% | ~305 |
-| Carthaginian Paganism | 2.00% | ~305 |
-| Egyptian Paganism | 2.00% | ~305 |
-| Roman Paganism | 2.00% | ~305 |
-| Zoroastrianism | 2.00% | ~305 |
-| Mythology | 2.00% | ~305 |
-| Win a Single Player Game | 2.00% | ~305 |
-| Kushite Pyramids | 2.00% | ~305 |
-| Kushite Paganism | 2.00% | ~305 |
+| Regicide | 2.00% | ~306 |
+| Drillmaster | 2.00% | ~306 |
+| Brilliant | 2.00% | ~306 |
+| Fountainhead | 2.00% | ~306 |
+| Great | 2.00% | ~306 |
+| Magnificent | 2.00% | ~306 |
+| Mighty | 2.00% | ~306 |
+| Valiant | 2.00% | ~306 |
+| Wise | 2.00% | ~306 |
+| Legendary Cities | 2.00% | ~306 |
+| Able Difficulty | 2.00% | ~306 |
+| Just Difficulty | 2.00% | ~306 |
+| Artisans | 2.00% | ~306 |
+| Sages | 2.00% | ~306 |
+| Furious Family | 2.00% | ~306 |
+| Acropolis | 2.00% | ~306 |
+| Apadana | 2.00% | ~306 |
+| Colossus | 2.00% | ~306 |
+| Great Ziggurat | 2.00% | ~306 |
+| Ishtar Gate | 2.00% | ~306 |
+| Lighthouse | 2.00% | ~306 |
+| Musaeum | 2.00% | ~306 |
+| Necropolis | 2.00% | ~306 |
+| Learn to Play 1 | 2.00% | ~306 |
+| Learn to Play 2 | 2.00% | ~306 |
+| Christianity | 2.00% | ~306 |
+| Manichaeism | 2.00% | ~306 |
+| Carthaginian Paganism | 2.00% | ~306 |
+| Egyptian Paganism | 2.00% | ~306 |
+| Roman Paganism | 2.00% | ~306 |
+| Zoroastrianism | 2.00% | ~306 |
+| Mythology | 2.00% | ~306 |
+| Win a Single Player Game | 2.00% | ~306 |
+| Kushite Pyramids | 2.00% | ~306 |
+| Kushite Paganism | 2.00% | ~306 |
 | Hanging Gardens in Babylon | 1.00% | ~153 |
 | Beloved | 1.00% | ~153 |
 | Conqueror | 1.00% | ~153 |
@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 1.00% | ~153 |
 | Via Recta Souk | 1.00% | ~153 |
 | Learn to Play 3 | 1.00% | ~153 |
+| Learn to Play 4 | 1.00% | ~153 |
 | Greece | 1.00% | ~153 |
 | Power to the People | 1.00% | ~153 |
 | Persian Paganism | 1.00% | ~153 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capable | 0.90% | ~137 |
 | Strong Difficulty | 0.90% | ~137 |
 | Church of the Holy Sepulchre | 0.90% | ~137 |
-| Learn to Play 4 | 0.90% | ~137 |
 | Babylonia | 0.90% | ~137 |
 | Carthage | 0.90% | ~137 |
 | One True Faith | 0.90% | ~137 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,274 (Ranked 145)  
+Progressed: 15,276 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,7 +555,7 @@ Completed: 5 (0.03%) (Ranked 310)
 | 2023-11-09 | 15,231 | 5 |
 | 2023-11-10 | 15,253 | 5 |
 | 2023-11-11 | 15,270 | 5 |
-| 2023-11-12 | 15,274 | 5 |
+| 2023-11-12 | 15,276 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 214)  

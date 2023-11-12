@@ -1,12 +1,12 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.62 (Ranked 365)  
+Rating: 4.62 (Ranked 366)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,128 |
+| Wallbanger | 5.00% | ~24,129 |
 | Exploitative | 4.00% | ~19,303 |
 | Point Shooting | 4.00% | ~19,303 |
 | Wet Feet | 4.00% | ~19,303 |
@@ -14,12 +14,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Lucky | 3.00% | ~14,477 |
 | Stylin' | 3.00% | ~14,477 |
 | Turf War | 3.00% | ~14,477 |
-| Banged | 2.00% | ~9,651 |
-| Checkpoint Victory | 2.00% | ~9,651 |
-| First Blood | 2.00% | ~9,651 |
-| Flaccid Paralysis | 2.00% | ~9,651 |
-| Push Victory | 2.00% | ~9,651 |
-| Self-destructive | 2.00% | ~9,651 |
+| Banged | 2.00% | ~9,652 |
+| Checkpoint Victory | 2.00% | ~9,652 |
+| First Blood | 2.00% | ~9,652 |
+| Flaccid Paralysis | 2.00% | ~9,652 |
+| Push Victory | 2.00% | ~9,652 |
+| Self-destructive | 2.00% | ~9,652 |
 | Blindfire | 1.00% | ~4,826 |
 | Ruthless | 1.00% | ~4,826 |
 | Semper Paratus | 1.00% | ~4,826 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~483 |
 | Road Hazard | 0.10% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,569 (Ranked 38)  
+Progressed: 482,583 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 2 (0.00%) (Ranked 347)
 | 2023-11-09 | 481,118 | 2 |
 | 2023-11-10 | 481,638 | 2 |
 | 2023-11-11 | 482,296 | 2 |
-| 2023-11-12 | 482,569 | 2 |
+| 2023-11-12 | 482,583 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 228)  
-Sum: 3,148 (Ranked 171)  
+Sum: 3,150 (Ranked 171)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -261,8 +261,8 @@ Diff (max vs sum): 57
 | This game has Competitive Players | 362 |
 | This game is Highly Recommended | 349 |
 | This game has Realistic Visuals | 336 |
-| This game has Amazing Characters | 333 |
-| This game has Amazing Storytelling | 330 |
+| This game has Amazing Characters | 334 |
+| This game has Amazing Storytelling | 331 |
 | This game has a Competitive Community | 298 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
@@ -549,3 +549,4 @@ Diff (max vs sum): 57
 | 2023-11-09 | 4.62 | - | 396 | 3,141 |
 | 2023-11-10 | 4.62 | - | 396 | 3,144 |
 | 2023-11-11 | 4.62 | - | 396 | 3,148 |
+| 2023-11-12 | 4.62 | - | 396 | 3,150 |

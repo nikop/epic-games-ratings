@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Break Out | 59.00% | ~107 |
 | Trinity | 34.00% | ~62 |
-| Find Allies | 29.00% | ~52 |
+| Find Allies | 30.00% | ~54 |
 | A Taste of Wrath | 28.00% | ~51 |
 | Shatter Them All | 28.00% | ~51 |
 | The Collector | 28.00% | ~51 |
@@ -19,7 +19,7 @@
 | Geared Up | 24.00% | ~43 |
 | Stone Collection | 22.00% | ~40 |
 | Essence Blow | 14.00% | ~25 |
-| Big Bazar | 13.00% | ~24 |
+| Big Bazar | 14.00% | ~25 |
 | Alchemist | 13.00% | ~24 |
 | The Mentor | 10.00% | ~18 |
 | Miner | 9.00% | ~16 |

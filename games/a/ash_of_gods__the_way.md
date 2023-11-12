@@ -37,6 +37,7 @@
 | All's fair in love and war | 6.00% | ~2 |
 | Collector | 3.00% | ~1 |
 | First among Frisians | 3.00% | ~1 |
+| Defeat the bear | 3.00% | ~1 |
 | Do it yourself | 3.00% | ~1 |
 | By someone else's hands | 3.00% | ~1 |
 | The End | 3.00% | ~1 |
@@ -44,7 +45,6 @@
 | Berserk | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |
-| Defeat the bear | 0.00% | ~0 |
 | Never laid a finger | 0.00% | ~0 |
 | Mate in 4 moves | 0.00% | ~0 |
 | By own rules | 0.00% | ~0 |
@@ -54,7 +54,7 @@
 | A lesson to all the madmen | 0.00% | ~0 |
 | That's the way! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33 (Ranked 507)  
+Progressed: 33 (Ranked 508)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |

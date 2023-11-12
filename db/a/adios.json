@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 152,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 16,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78159,
+  "EOS_Progressed": 78160,
   "EOS_Completed": 835,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 537,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -23137,6 +23137,11 @@
       "Time": "2023-11-12T09:05:01.7528318+00:00",
       "NumProgressed": 78159,
       "NumCompleted": 835
+    },
+    {
+      "Time": "2023-11-12T10:05:38.4445345+00:00",
+      "NumProgressed": 78160,
+      "NumCompleted": 835
     }
   ],
   "TotalAchievements": 25,
@@ -23252,7 +23257,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16413
+      "UsersEstimate": 16414
     },
     {
       "ID": "Meaty",
@@ -23276,7 +23281,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12505
+      "UsersEstimate": 12506
     },
     {
       "ID": "Nothing Left to Say",
@@ -23292,7 +23297,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8597
+      "UsersEstimate": 8598
     },
     {
       "ID": "Right On Target",
@@ -23347,7 +23352,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78159,
+      "Progressed": 78160,
       "Completed": 835
     }
   ],
@@ -23355,8 +23360,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-12T09:05:01.7528316+00:00",
+  "LastChanged_Achievements": "2023-11-12T10:05:38.4445333+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.731419+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:58:07.2097412+00:00",
-  "LastUpdate_Achievements": "2023-11-12T09:05:01.7529243+00:00"
+  "LastUpdate_Ratings": "2023-11-12T09:58:15.4489005+00:00",
+  "LastUpdate_Achievements": "2023-11-12T10:05:38.4446587+00:00"
 }

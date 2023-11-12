@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 175,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 75,
+  "Ranking_EOS_NewPlayers": 74,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4513,10 +4513,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 2994,
       "NumberOfAwardsMax": 527
+    },
+    {
+      "Time": "2023-11-12T09:57:26.8074472+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 2995,
+      "NumberOfAwardsMax": 527
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 2994,
+  "NumberOfAwards": 2995,
   "NumberOfAwardsMax": 527,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4572,12 +4578,12 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 487
+      "Count": 488
     }
   ],
-  "EOS_Progressed": 90634,
+  "EOS_Progressed": 90653,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1085,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -24950,6 +24956,11 @@
       "Time": "2023-11-12T09:04:31.1572067+00:00",
       "NumProgressed": 90634,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-12T10:05:03.3907138+00:00",
+      "NumProgressed": 90653,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -24969,7 +24980,7 @@
       "Name": "Underworld Initiate",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_0012",
@@ -24977,7 +24988,7 @@
       "Name": "Roid Ranger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_0013",
@@ -24993,7 +25004,7 @@
       "Name": "Track Star",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ACH_0015",
@@ -25151,9 +25162,9 @@
       "ID": "ACH_0330",
       "SetID": "3kam13l",
       "Name": "Ding Dong",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_0340",
@@ -25177,7 +25188,7 @@
       "Name": "Case Closed",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_0420",
@@ -25185,7 +25196,7 @@
       "Name": "King of the Hill",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_0430",
@@ -25209,7 +25220,7 @@
       "Name": "True Player",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "ACH_0450",
@@ -25217,7 +25228,7 @@
       "Name": "Off the Rocks",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_0451",
@@ -25225,7 +25236,7 @@
       "Name": "Raider\u2019s Ruin",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_0452",
@@ -25233,7 +25244,7 @@
       "Name": "Dragonslayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_0460",
@@ -25249,7 +25260,7 @@
       "Name": "Rockay Rex",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 906
+      "UsersEstimate": 907
     },
     {
       "ID": "ACH_1010",
@@ -25288,22 +25299,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90634,
+      "Progressed": 90653,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 18981,
+      "Progressed": 19000,
       "Completed": 15565
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-12T05:57:27.3434993+00:00",
-  "LastChanged_Achievements": "2023-11-12T09:04:31.1572065+00:00",
+  "LastChanged": "2023-11-12T09:57:26.807447+00:00",
+  "LastChanged_Achievements": "2023-11-12T10:05:03.3907133+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:57:23.5654016+00:00",
-  "LastUpdate_Achievements": "2023-11-12T09:04:31.1573287+00:00"
+  "LastUpdate_Ratings": "2023-11-12T09:57:26.8074478+00:00",
+  "LastUpdate_Achievements": "2023-11-12T10:05:03.3908383+00:00"
 }

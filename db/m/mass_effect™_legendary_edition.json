@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 141,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -3669,9 +3669,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 933
+      "UsersEstimate": 945
     },
     {
       "ID": "achievement_32",
@@ -4281,8 +4281,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-12T09:03:07.2603401+00:00",
+  "LastChanged_Achievements": "2023-11-12T10:03:30.4342264+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-12T09:00:38.5481411+00:00",
-  "LastUpdate_Achievements": "2023-11-12T09:03:07.2605085+00:00"
+  "LastUpdate_Ratings": "2023-11-12T10:02:58.1838093+00:00",
+  "LastUpdate_Achievements": "2023-11-12T10:03:30.4344086+00:00"
 }

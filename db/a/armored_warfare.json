@@ -3,12 +3,12 @@
   "Name": "Armored Warfare",
   "ProductSlug": "armored-warfare",
   "Ranking_Rating": 959,
-  "Ranking_Popularity": 362,
+  "Ranking_Popularity": 361,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 454,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-21T14:00:00+00:00",
     "PcReleaseDate": "2022-04-21T14:00:00+00:00",
@@ -1653,11 +1653,17 @@
       "Rating": 4.1,
       "NumberOfAwards": 701,
       "NumberOfAwardsMax": 96
+    },
+    {
+      "Time": "2023-11-12T09:57:35.1675133+00:00",
+      "Rating": 4.1,
+      "NumberOfAwards": 703,
+      "NumberOfAwardsMax": 97
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 701,
-  "NumberOfAwardsMax": 96,
+  "NumberOfAwards": 703,
+  "NumberOfAwardsMax": 97,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1676,7 +1682,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 96
+      "Count": 97
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1688,7 +1694,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 78
+      "Count": 79
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1732,8 +1738,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:52.6557809+00:00",
-  "LastChanged": "2023-11-09T08:00:01.1166574+00:00",
+  "LastChanged": "2023-11-12T09:57:35.1675131+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:21.6619877+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:57:31.4396893+00:00",
-  "LastUpdate_Achievements": "2023-11-12T09:05:47.8563207+00:00"
+  "LastUpdate_Ratings": "2023-11-12T09:57:35.1675137+00:00",
+  "LastUpdate_Achievements": "2023-11-12T10:06:29.4597868+00:00"
 }

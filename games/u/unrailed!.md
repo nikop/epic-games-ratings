@@ -6,13 +6,13 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~119,142 |
-| Incurious | 17.00% | ~112,523 |
-| Climate Change | 16.00% | ~105,904 |
-| Stroller | 15.00% | ~99,285 |
-| Toy Train | 14.00% | ~92,666 |
-| Advanced Hiker | 13.00% | ~86,047 |
-| Hiker | 12.00% | ~79,428 |
+| Advanced Stroller | 18.00% | ~119,143 |
+| Incurious | 17.00% | ~112,524 |
+| Climate Change | 16.00% | ~105,905 |
+| Stroller | 15.00% | ~99,286 |
+| Toy Train | 14.00% | ~92,667 |
+| Advanced Hiker | 13.00% | ~86,048 |
+| Hiker | 12.00% | ~79,429 |
 | Mojave Courier | 6.00% | ~39,714 |
 | Saved by Nausicaä | 5.00% | ~33,095 |
 | Advanced Voyager | 4.00% | ~26,476 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~662 |
 | 20 Miles under the Sea | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,902 (Ranked 27)  
+Progressed: 661,906 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,11 +265,11 @@ Completed: 12 (0.00%) (Ranked 347)
 | 2023-11-09 | 661,078 | 12 |
 | 2023-11-10 | 661,392 | 12 |
 | 2023-11-11 | 661,770 | 12 |
-| 2023-11-12 | 661,902 | 12 |
+| 2023-11-12 | 661,906 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 287)  
-Sum: 1,593 (Ranked 229)  
-Diff (max vs sum): 58  
+Sum: 1,594 (Ranked 228)  
+Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 201 |
@@ -280,7 +280,7 @@ Diff (max vs sum): 58
 | This game has Amazing Characters | 170 |
 | This game has Playful Visuals | 160 |
 | This game is Highly Recommended | 160 |
-| This game has Amazing Storytelling | 147 |
+| This game has Amazing Storytelling | 148 |
 | This game has Obsessive Gameplay | 138 |
 | This game has Competitive Players | 37 |
 ## Ratings History
@@ -424,3 +424,4 @@ Diff (max vs sum): 58
 | 2023-11-08 | 4.64 | - | 201 | 1,590 |
 | 2023-11-10 | 4.64 | - | 201 | 1,591 |
 | 2023-11-11 | 4.64 | - | 201 | 1,593 |
+| 2023-11-12 | 4.64 | - | 201 | 1,594 |

@@ -4,8 +4,8 @@
   "ProductSlug": "the-uncertain-last-quiet-day",
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 95,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.13,
+  "EOS_Completed_Percentage": 3.12,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:50.241177+00:00",
@@ -794,6 +794,11 @@
       "Time": "2023-11-11T19:09:50.4588382+00:00",
       "NumProgressed": 575,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-12T10:08:46.705529+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 32,
@@ -803,9 +808,9 @@
       "ID": "ACE",
       "SetID": "2iigf77",
       "Name": "Ace",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 92
     },
     {
       "ID": "ANNOYING",
@@ -829,7 +834,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -853,7 +858,7 @@
       "Name": "Everybody lies",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
@@ -891,9 +896,9 @@
       "ID": "HANDS_UP",
       "SetID": "2iigf77",
       "Name": "Hands up!",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 300
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -925,7 +930,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "LUCKY_DOG",
@@ -979,9 +984,9 @@
       "ID": "PLEASE",
       "SetID": "2iigf77",
       "Name": "Please oh pleeease!",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 92
     },
     {
       "ID": "POOL",
@@ -997,15 +1002,15 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "SHORT_CIRCUIT",
       "SetID": "2iigf77",
       "Name": "Short circuit",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 300
     },
     {
       "ID": "SILENT",
@@ -1060,7 +1065,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 18
     }
   ],
@@ -1068,8 +1073,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-03-31T05:58:48.8443799+00:00",
-  "LastChanged_Achievements": "2023-11-12T09:08:30.9001935+00:00",
+  "LastChanged_Achievements": "2023-11-12T10:08:46.7055285+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:56.7035682+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:59:43.607576+00:00",
-  "LastUpdate_Achievements": "2023-11-12T09:08:30.9002149+00:00"
+  "LastUpdate_Ratings": "2023-11-12T10:00:06.5834447+00:00",
+  "LastUpdate_Achievements": "2023-11-12T10:08:46.7055641+00:00"
 }

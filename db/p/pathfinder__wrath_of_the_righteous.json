@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4119,18 +4119,24 @@
       "Rating": 4.76,
       "NumberOfAwards": 7048,
       "NumberOfAwardsMax": 1737
+    },
+    {
+      "Time": "2023-11-12T09:58:55.8024279+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7049,
+      "NumberOfAwardsMax": 1738
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7048,
-  "NumberOfAwardsMax": 1737,
+  "NumberOfAwards": 7049,
+  "NumberOfAwardsMax": 1738,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1737
+      "Count": 1738
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4193,9 +4199,9 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12070,
+  "EOS_Progressed": 12071,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15443,6 +15449,11 @@
       "Time": "2023-11-12T07:06:55.0990737+00:00",
       "NumProgressed": 12070,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T10:06:19.2105877+00:00",
+      "NumProgressed": 12071,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15590,7 +15601,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "19_EqualToAroden",
@@ -15654,7 +15665,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "28_GreatUpstart",
@@ -15702,7 +15713,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -16381,21 +16392,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10852,
+      "Progressed": 10853,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12070,
+      "Progressed": 12071,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2023-11-11T21:58:42.8812587+00:00",
-  "LastChanged_Achievements": "2023-11-12T09:05:38.7071343+00:00",
+  "LastChanged": "2023-11-12T09:58:55.8024273+00:00",
+  "LastChanged_Achievements": "2023-11-12T10:06:19.2105872+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5202817+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:58:42.6560427+00:00",
-  "LastUpdate_Achievements": "2023-11-12T09:05:38.7072823+00:00"
+  "LastUpdate_Ratings": "2023-11-12T09:58:55.8024282+00:00",
+  "LastUpdate_Achievements": "2023-11-12T10:06:19.2107691+00:00"
 }
