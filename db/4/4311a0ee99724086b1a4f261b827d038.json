@@ -2,7 +2,7 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 504,
+  "Ranking_Rating": 505,
   "Ranking_Popularity": 491,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 66,
@@ -533,9 +533,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 231891,
+  "EOS_Progressed": 231894,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1271,
+  "EOS_NewPlayers": 1266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13388,6 +13388,11 @@
       "Time": "2023-11-12T07:09:20.3108181+00:00",
       "NumProgressed": 231891,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T08:09:48.0114964+00:00",
+      "NumProgressed": 231894,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -13456,7 +13461,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48697
+      "UsersEstimate": 48698
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -13592,7 +13597,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16232
+      "UsersEstimate": 16233
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -13656,7 +13661,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 57973
+      "UsersEstimate": 57974
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -13671,7 +13676,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 231891,
+      "Progressed": 231894,
       "Completed": 0
     }
   ],
@@ -13679,8 +13684,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-06T21:59:06.6835297+00:00",
-  "LastChanged_Achievements": "2023-11-12T07:09:20.3108173+00:00",
+  "LastChanged_Achievements": "2023-11-12T08:09:48.0114959+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:15.7826275+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:02:43.8765677+00:00",
-  "LastUpdate_Achievements": "2023-11-12T07:09:20.3108949+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:02:59.2649061+00:00",
+  "LastUpdate_Achievements": "2023-11-12T08:09:48.0115787+00:00"
 }

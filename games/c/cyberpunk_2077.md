@@ -8,13 +8,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | V for Vendetta | 3.00% | ~26,890 |
 | Gun Fu | 1.00% | ~8,963 |
-| Relic Ruler | 0.90% | ~224 |
+| Relic Ruler | 0.90% | ~225 |
 | Full Body Conversion | 0.60% | ~5,378 |
 | True Soldier | 0.60% | ~5,378 |
 | Right Back At Ya | 0.50% | ~4,482 |
 | Stanislavski's Method | 0.50% | ~4,482 |
 | All the President's Men | 0.50% | ~125 |
 | Arachnophobia | 0.50% | ~125 |
+| Christmas Tree Attack | 0.40% | ~3,585 |
 | The Quick and the Dead | 0.40% | ~3,585 |
 | Life of the Road | 0.40% | ~3,585 |
 | The Hermit | 0.40% | ~3,585 |
@@ -27,7 +28,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Protect and Serve | 0.30% | ~2,689 |
 | Master Crafter | 0.30% | ~2,689 |
 | I Am The Law | 0.30% | ~2,689 |
-| Christmas Tree Attack | 0.30% | ~2,689 |
 | The Fool | 0.30% | ~2,689 |
 | The High Priestess | 0.30% | ~2,689 |
 | The World | 0.30% | ~2,689 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,321 (Ranked 15)  
+Progressed: 896,328 (Ranked 15)  
 Completed: 2,767 (0.31%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 2,767 (0.31%) (Ranked 223)
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
 | 2023-11-11 | 896,271 | 2,766 |
-| 2023-11-12 | 896,321 | 2,767 |
+| 2023-11-12 | 896,328 | 2,767 |
 ## Awards
 Max (Character Customization): 105,016  (Ranked 9)  
 Sum: 350,025 (Ranked 10)  

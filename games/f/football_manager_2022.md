@@ -10,39 +10,39 @@ Number of Ratings: 19,160  (23.09.2022)
 | He's Signed! | 50.00% | ~237,936 |
 | First Victory | 50.00% | ~237,936 |
 | He's Sold! | 48.00% | ~228,419 |
-| I'm The Boss! | 42.00% | ~199,866 |
+| I'm The Boss! | 42.00% | ~199,867 |
 | Hat-trick | 41.00% | ~195,108 |
-| Scoring Streak | 38.00% | ~180,831 |
+| Scoring Streak | 38.00% | ~180,832 |
 | Unbeatable! | 37.00% | ~176,073 |
 | Thumping | 37.00% | ~176,073 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,555 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,556 |
 | Total Support | 32.00% | ~152,279 |
 | Record Signing | 32.00% | ~152,279 |
-| He's a Natural | 31.00% | ~147,520 |
-| Millionaire's Club | 31.00% | ~147,520 |
+| He's a Natural | 31.00% | ~147,521 |
+| Millionaire's Club | 31.00% | ~147,521 |
 | Team Performance | 30.00% | ~142,762 |
 | Parked The Bus | 29.00% | ~138,003 |
 | Shrewd Spender | 29.00% | ~138,003 |
 | Star Man | 29.00% | ~138,003 |
 | Attack! | 28.00% | ~133,244 |
-| You're On Fire | 27.00% | ~128,485 |
-| Tremendous Trio | 27.00% | ~128,485 |
-| Record Sale | 27.00% | ~128,485 |
+| You're On Fire | 27.00% | ~128,486 |
+| Tremendous Trio | 27.00% | ~128,486 |
+| Record Sale | 27.00% | ~128,486 |
 | On A Roll | 26.00% | ~123,727 |
 | Unstoppable Force | 26.00% | ~123,727 |
 | Armchair Expert | 25.00% | ~118,968 |
-| Fantastic Five | 24.00% | ~114,209 |
-| Full Faith | 24.00% | ~114,209 |
-| Iron Curtain | 24.00% | ~114,209 |
-| The Boss | 24.00% | ~114,209 |
+| Fantastic Five | 24.00% | ~114,210 |
+| Full Faith | 24.00% | ~114,210 |
+| Iron Curtain | 24.00% | ~114,210 |
+| The Boss | 24.00% | ~114,210 |
 | Top Of The Class | 23.00% | ~109,451 |
 | Goal Machine | 23.00% | ~109,451 |
 | Splashing The Cash | 22.00% | ~104,692 |
 | Clean Bill of Health | 22.00% | ~104,692 |
 | What A Goal! | 22.00% | ~104,692 |
 | Cup Glory! | 22.00% | ~104,692 |
-| Irresistible Force | 20.00% | ~95,174 |
-| Excellent Match Cohesion | 20.00% | ~95,174 |
+| Irresistible Force | 20.00% | ~95,175 |
+| Excellent Match Cohesion | 20.00% | ~95,175 |
 | Do The Double | 19.00% | ~90,416 |
 | Top Form | 17.00% | ~80,898 |
 | Cash To Burn | 17.00% | ~80,898 |
@@ -58,10 +58,10 @@ Number of Ratings: 19,160  (23.09.2022)
 | Superb Strike | 10.00% | ~47,587 |
 | International Superstar | 10.00% | ~47,587 |
 | Best In The World | 10.00% | ~47,587 |
-| Best In Europe | 9.00% | ~42,828 |
-| National Service | 9.00% | ~42,828 |
-| Headhunted | 9.00% | ~42,828 |
-| Domination | 9.00% | ~42,828 |
+| Best In Europe | 9.00% | ~42,829 |
+| National Service | 9.00% | ~42,829 |
+| Headhunted | 9.00% | ~42,829 |
+| Domination | 9.00% | ~42,829 |
 | Best In The Business | 8.00% | ~38,070 |
 | Legend | 6.00% | ~28,552 |
 | Win the Club World Cup | 6.00% | ~28,552 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~476 |
 | Shoestring Budget | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,872 (Ranked 39)  
+Progressed: 475,873 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 22 (0.00%) (Ranked 347)
 | 2023-11-09 | 475,728 | 22 |
 | 2023-11-10 | 475,782 | 22 |
 | 2023-11-11 | 475,862 | 22 |
-| 2023-11-12 | 475,872 | 22 |
+| 2023-11-12 | 475,873 | 22 |
 ## Awards
 Max (Relaxing): 6,465  (Ranked 59)  
 Sum: 50,988 (Ranked 28)  

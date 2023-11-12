@@ -2,7 +2,7 @@
   "ID": "720cc28ab09b455f8388decfa0ba4796",
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
-  "Ranking_Rating": 607,
+  "Ranking_Rating": 608,
   "Ranking_Popularity": 468,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 188,
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4809,
+  "EOS_Progressed": 4810,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 148,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9100,6 +9100,11 @@
       "Time": "2023-11-12T04:09:19.4568766+00:00",
       "NumProgressed": 4809,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-12T08:10:06.3325012+00:00",
+      "NumProgressed": 4810,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9272,7 +9277,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -9295,15 +9300,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4809,
+      "Progressed": 4810,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-12T07:09:38.4094096+00:00",
+  "LastChanged_Achievements": "2023-11-12T08:10:06.3325005+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-12T06:57:40.4485579+00:00",
-  "LastUpdate_Achievements": "2023-11-12T07:09:38.409451+00:00"
+  "LastUpdate_Ratings": "2023-11-12T07:57:42.1244564+00:00",
+  "LastUpdate_Achievements": "2023-11-12T08:10:06.3325533+00:00"
 }

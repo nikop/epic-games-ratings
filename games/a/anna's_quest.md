@@ -10,8 +10,8 @@
 | My lost nightingale | 46.00% | ~30 |
 | Through the woods | 45.00% | ~29 |
 | Fussy eater | 38.00% | ~25 |
+| Back to the anvil | 38.00% | ~25 |
 | Kekekeke... | 38.00% | ~25 |
-| Back to the anvil | 37.00% | ~24 |
 | So soothing... | 37.00% | ~24 |
 | Sorry Grandpa | 35.00% | ~23 |
 | Roostwig has entered the building | 35.00% | ~23 |

@@ -15020,9 +15020,9 @@
       "Count": 12811
     }
   ],
-  "EOS_Progressed": 896321,
+  "EOS_Progressed": 896328,
   "EOS_Completed": 2767,
-  "EOS_NewPlayers": 1010,
+  "EOS_NewPlayers": 1014,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38335,6 +38335,11 @@
       "Time": "2023-11-12T07:05:17.9252327+00:00",
       "NumProgressed": 896321,
       "NumCompleted": 2767
+    },
+    {
+      "Time": "2023-11-12T08:05:34.1160916+00:00",
+      "NumProgressed": 896328,
+      "NumCompleted": 2767
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38465,9 +38470,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2689
+      "UsersEstimate": 3585
     },
     {
       "ID": "MaxPain",
@@ -38787,7 +38792,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "UltimateSurvivor",
@@ -38882,21 +38887,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896321,
+      "Progressed": 896328,
       "Completed": 2767
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24944,
+      "Progressed": 24951,
       "Completed": 10211
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-12T06:59:25.3269412+00:00",
-  "LastChanged_Achievements": "2023-11-12T07:05:17.9252324+00:00",
+  "LastChanged_Achievements": "2023-11-12T08:05:34.116091+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-12T06:59:25.3269418+00:00",
-  "LastUpdate_Achievements": "2023-11-12T07:05:17.9253658+00:00"
+  "LastUpdate_Ratings": "2023-11-12T07:59:28.4919012+00:00",
+  "LastUpdate_Achievements": "2023-11-12T08:05:34.1162412+00:00"
 }

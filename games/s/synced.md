@@ -10,19 +10,19 @@ Rating: 4.16 (Ranked 934)
 | A Most Unstable Organism | 13.00% | ~8,637 |
 | No Time to Follow Protocol | 10.00% | ~6,644 |
 | Float Like a Butterfly... | 8.00% | ~5,315 |
-| Nano Connoisseur | 6.00% | ~3,986 |
-| In Two Places At Once | 6.00% | ~3,986 |
+| Nano Connoisseur | 6.00% | ~3,987 |
+| In Two Places At Once | 6.00% | ~3,987 |
 | Pulling Your Weight | 3.00% | ~1,993 |
 | Reaping Rivals | 3.00% | ~1,993 |
 | fifteenth Time's the Charm | 1.00% | ~664 |
 | More Power to You | 0.90% | ~598 |
-| Memory Keeper | 0.30% | ~199 |
+| Memory Keeper | 0.40% | ~266 |
 | Gone Rogue | 0.30% | ~199 |
 | Completely Customizable | 0.30% | ~199 |
 | Runs for Your Money | 0.30% | ~199 |
 | Past Master | 0.30% | ~199 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,440 (Ranked 102)  
+Progressed: 66,442 (Ranked 102)  
 Completed: 32 (0.05%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -99,7 +99,7 @@ Completed: 32 (0.05%) (Ranked 299)
 | 2023-11-09 | 66,208 | 29 |
 | 2023-11-10 | 66,292 | 30 |
 | 2023-11-11 | 66,412 | 32 |
-| 2023-11-12 | 66,440 | 32 |
+| 2023-11-12 | 66,442 | 32 |
 ## Awards
 Max (Great for Beginners): 92  (Ranked 369)  
 Sum: 317 (Ranked 356)  

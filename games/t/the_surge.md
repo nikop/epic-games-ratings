@@ -6,14 +6,14 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~4,539 |
-| I'll Be Back | 85.00% | ~4,105 |
-| Sorry, I Dropped This | 77.00% | ~3,718 |
-| First Day on the Job | 77.00% | ~3,718 |
+| On My Own Two Feet | 94.00% | ~4,540 |
+| I'll Be Back | 85.00% | ~4,106 |
+| Sorry, I Dropped This | 77.00% | ~3,719 |
+| First Day on the Job | 77.00% | ~3,719 |
 | Butcher's Bill | 55.00% | ~2,656 |
 | P.A.X | 38.00% | ~1,835 |
 | Hey Listen | 37.00% | ~1,787 |
-| OPERATOR | 36.00% | ~1,738 |
+| OPERATOR | 36.00% | ~1,739 |
 | It's Blue Light | 33.00% | ~1,594 |
 | Most Wanted | 27.00% | ~1,304 |
 | Infidel | 24.00% | ~1,159 |
@@ -25,8 +25,8 @@ Number of Ratings: 62  (23.09.2022)
 | SENTINEL | 16.00% | ~773 |
 | Gear Up | 15.00% | ~724 |
 | Core Power | 13.00% | ~628 |
-| The Black Cerberus | 12.00% | ~579 |
-| Watchman | 12.00% | ~579 |
+| The Black Cerberus | 12.00% | ~580 |
+| Watchman | 12.00% | ~580 |
 | CREO Killed the Video Star | 11.00% | ~531 |
 | Who's in Charge Here? | 11.00% | ~531 |
 | Shall Not Pass | 11.00% | ~531 |
@@ -44,10 +44,10 @@ Number of Ratings: 62  (23.09.2022)
 | Liberation | 7.00% | ~338 |
 | Risk Assessment | 7.00% | ~338 |
 | Carbon Cat | 6.00% | ~290 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~241 |
-| Man of Steel | 5.00% | ~241 |
-| Jack of All Trades | 5.00% | ~241 |
-| 3-2-1 | 5.00% | ~241 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~242 |
+| Man of Steel | 5.00% | ~242 |
+| Jack of All Trades | 5.00% | ~242 |
+| 3-2-1 | 5.00% | ~242 |
 | For the Good of Mankind | 4.00% | ~193 |
 | Rusty Rat | 4.00% | ~193 |
 | Desecration | 4.00% | ~193 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~29 |
 | The Surge | 0.40% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,829 (Ranked 187)  
+Progressed: 4,830 (Ranked 187)  
 Completed: 18 (0.37%) (Ranked 214)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,6 +245,7 @@ Completed: 18 (0.37%) (Ranked 214)
 | 2023-11-09 | 4,821 | 18 |
 | 2023-11-10 | 4,825 | 18 |
 | 2023-11-11 | 4,829 | 18 |
+| 2023-11-12 | 4,830 | 18 |
 ## Awards
 Max (Great Boss Battles): 29  (Ranked 494)  
 Sum: 29 (Ranked 510)  

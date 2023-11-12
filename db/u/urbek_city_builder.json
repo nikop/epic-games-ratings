@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1280,6 +1280,11 @@
       "Time": "2023-11-11T20:13:19.8330372+00:00",
       "NumProgressed": 387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T08:10:09.8963981+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 79,
@@ -1435,7 +1440,7 @@
       "Name": "I like books",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "CULTURE_2",
@@ -1563,7 +1568,7 @@
       "Name": "I like my life",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "FELIZ_2",
@@ -1651,7 +1656,7 @@
       "Name": "Clean energy",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "MURICA_1",
@@ -1721,9 +1726,9 @@
       "ID": "POPULATION_1",
       "SetID": "44dlcg0",
       "Name": "Small town",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 43
     },
     {
       "ID": "POPULATION_2",
@@ -1899,7 +1904,7 @@
       "Name": "Bucolic city",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WELFARE_1",
@@ -1907,7 +1912,7 @@
       "Name": "Soviet town",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "WELFARE_2",
@@ -1922,7 +1927,7 @@
     {
       "ID": "44dlcg0",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 0
     }
   ],
@@ -1930,8 +1935,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2023-11-12T07:09:41.7383469+00:00",
+  "LastChanged_Achievements": "2023-11-12T08:10:09.8963977+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:04.3445021+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:02:56.9082968+00:00",
-  "LastUpdate_Achievements": "2023-11-12T07:09:41.7384064+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:03:13.0271171+00:00",
+  "LastUpdate_Achievements": "2023-11-12T08:10:09.8964704+00:00"
 }

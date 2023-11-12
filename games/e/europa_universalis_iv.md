@@ -76,6 +76,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | God Tier | 0.10% | ~453 |
 | Gold Rush | 0.10% | ~453 |
 | A Golden Empire | 0.10% | ~453 |
+| Good King Renee | 0.10% | ~453 |
 | That's a Grand Army | 0.10% | ~453 |
 | Grand Coalition | 0.10% | ~453 |
 | Grand Duchy | 0.10% | ~453 |
@@ -256,7 +257,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ganges Khan | 0.00% | ~0 |
 | Golden Horn | 0.00% | ~0 |
 | Golden Wind | 0.00% | ~0 |
-| Good King Renee | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,314 (Ranked 41)  
+Progressed: 453,351 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,314 | 1 |
+| 2023-11-12 | 453,351 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
 Sum: 57,233 (Ranked 24)  

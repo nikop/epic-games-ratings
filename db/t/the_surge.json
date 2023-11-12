@@ -376,7 +376,7 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4829,
+  "EOS_Progressed": 4830,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
@@ -3196,6 +3196,11 @@
       "Time": "2023-11-11T22:04:55.3113198+00:00",
       "NumProgressed": 4829,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-12T08:06:06.5113674+00:00",
+      "NumProgressed": 4830,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -3231,7 +3236,7 @@
       "Name": "The Black Cerberus",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ID_ACHIEV_05",
@@ -3255,7 +3260,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 4105
+      "UsersEstimate": 4106
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -3263,7 +3268,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 4539
+      "UsersEstimate": 4540
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -3271,7 +3276,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3718
+      "UsersEstimate": 3719
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -3303,7 +3308,7 @@
       "Name": "Watchman",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ID_ACHIEV_14",
@@ -3327,7 +3332,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -3383,7 +3388,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -3423,7 +3428,7 @@
       "Name": "First Day on the Job",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 3718
+      "UsersEstimate": 3719
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -3463,7 +3468,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -3551,7 +3556,7 @@
       "Name": "OPERATOR",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1738
+      "UsersEstimate": 1739
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -3647,7 +3652,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -3742,15 +3747,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 4829,
+      "Progressed": 4830,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-11-03T01:46:55.8375725+00:00",
-  "LastChanged_Achievements": "2023-11-12T07:05:50.010675+00:00",
+  "LastChanged_Achievements": "2023-11-12T08:06:06.5113668+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:29.1986368+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:01:39.9607482+00:00",
-  "LastUpdate_Achievements": "2023-11-12T07:05:50.0107335+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:02:35.3885673+00:00",
+  "LastUpdate_Achievements": "2023-11-12T08:06:06.5114348+00:00"
 }

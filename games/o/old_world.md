@@ -10,8 +10,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Settler | 5.00% | ~764 |
 | Friendly Family | 5.00% | ~764 |
 | Play a Single Player Game | 5.00% | ~764 |
+| Able | 4.00% | ~611 |
 | Intrepid | 4.00% | ~611 |
-| Able | 3.00% | ~458 |
 | Ambitious | 3.00% | ~458 |
 | Architect | 3.00% | ~458 |
 | Enlightened | 3.00% | ~458 |
@@ -101,6 +101,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 1.00% | ~153 |
 | Military Prestige | 1.00% | ~153 |
 | Dualism | 1.00% | ~153 |
+| Gnosticism | 1.00% | ~153 |
 | Legalism | 1.00% | ~153 |
 | Redemption | 1.00% | ~153 |
 | Cimmerian Archer | 1.00% | ~153 |
@@ -118,7 +119,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.90% | ~137 |
 | One True Faith | 0.90% | ~137 |
 | Industrial Progress | 0.90% | ~137 |
-| Gnosticism | 0.90% | ~137 |
 | Revelation | 0.90% | ~137 |
 | Veneration | 0.90% | ~137 |
 | Mounted Lancer | 0.90% | ~137 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,273 (Ranked 145)  
+Progressed: 15,274 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,7 +555,7 @@ Completed: 5 (0.03%) (Ranked 310)
 | 2023-11-09 | 15,231 | 5 |
 | 2023-11-10 | 15,253 | 5 |
 | 2023-11-11 | 15,270 | 5 |
-| 2023-11-12 | 15,273 | 5 |
+| 2023-11-12 | 15,274 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 214)  

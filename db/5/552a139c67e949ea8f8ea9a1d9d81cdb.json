@@ -2,9 +2,9 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 254,
+  "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1021,
+  "EOS_Progressed": 1023,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
@@ -2002,6 +2002,11 @@
       "Time": "2023-11-12T07:03:46.7007716+00:00",
       "NumProgressed": 1021,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T08:04:01.9304002+00:00",
+      "NumProgressed": 1023,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2014,7 +2019,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 847
+      "UsersEstimate": 849
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2022,15 +2027,15 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
       "SetID": "5k00jcd",
       "Name": "Out of control",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 430
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2046,7 +2051,7 @@
       "Name": "Like lightning!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -2062,7 +2067,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2078,7 +2083,7 @@
       "Name": "Masterful!",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -2156,9 +2161,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 408
+      "UsersEstimate": 399
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2182,7 +2187,7 @@
       "Name": "The Octopus",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ML_ACHIEVEMENT_23",
@@ -2262,7 +2267,7 @@
       "Name": "Spendthrift",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -2270,7 +2275,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2284,9 +2289,9 @@
       "ID": "ML_ACHIEVEMENT_35",
       "SetID": "5k00jcd",
       "Name": "Extra gear",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 225
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2326,7 +2331,7 @@
       "Name": "A little nest egg",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -2350,27 +2355,27 @@
       "Name": "Mission complete",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1021,
+      "Progressed": 1023,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 689,
-      "Completed": 689
+      "Progressed": 691,
+      "Completed": 691
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-12T07:03:46.7007712+00:00",
+  "LastChanged_Achievements": "2023-11-12T08:04:01.9303995+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:00:00.6819262+00:00",
-  "LastUpdate_Achievements": "2023-11-12T07:03:46.7008104+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:00:04.0732718+00:00",
+  "LastUpdate_Achievements": "2023-11-12T08:04:01.9304376+00:00"
 }

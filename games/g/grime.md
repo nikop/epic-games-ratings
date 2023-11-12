@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,313 |
-| Imprint | 4.00% | ~6,313 |
+| Taste | 4.00% | ~6,314 |
+| Imprint | 4.00% | ~6,314 |
 | The Hunt | 3.00% | ~4,735 |
 | Weeper | 3.00% | ~4,735 |
 | Ravenous | 3.00% | ~4,735 |
@@ -21,7 +21,7 @@ Number of Ratings: 46  (23.09.2022)
 | Watcher | 1.00% | ~1,578 |
 | Yank | 1.00% | ~1,578 |
 | Sharpened Vessel | 1.00% | ~1,578 |
-| Shapely | 0.90% | ~1,420 |
+| Shapely | 0.90% | ~1,421 |
 | Glare | 0.90% | ~1,417 |
 | Predator | 0.80% | ~1,263 |
 | Assimilation | 0.70% | ~1,105 |
@@ -30,19 +30,19 @@ Number of Ratings: 46  (23.09.2022)
 | Hunt Down | 0.60% | ~947 |
 | Inevitable | 0.60% | ~947 |
 | All-Seeing | 0.60% | ~947 |
-| Dream | 0.60% | ~944 |
+| Dream | 0.60% | ~945 |
 | Breath | 0.50% | ~789 |
 | Artisan | 0.50% | ~789 |
 | Hush | 0.50% | ~789 |
 | Breathsmith | 0.50% | ~789 |
 | Unwrap the Gift | 0.40% | ~631 |
 | Passage | 0.40% | ~631 |
-| Bloodhunter | 0.30% | ~473 |
+| Bloodhunter | 0.30% | ~474 |
 | Zygote | 0.30% | ~472 |
-| Kinship | 0.30% | ~473 |
+| Kinship | 0.30% | ~474 |
 | Kin | 0.30% | ~472 |
 | Listen | 0.30% | ~472 |
-| Proportions | 0.30% | ~473 |
+| Proportions | 0.30% | ~474 |
 | Weakness | 0.20% | ~316 |
 | Generous | 0.20% | ~316 |
 | Enrich | 0.20% | ~315 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,833 (Ranked 76)  
+Progressed: 157,840 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
-| 2023-11-12 | 157,833 | 1 |
+| 2023-11-12 | 157,840 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 426)  
 Sum: 359 (Ranked 348)  

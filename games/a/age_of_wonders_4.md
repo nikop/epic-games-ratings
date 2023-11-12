@@ -17,12 +17,13 @@ Rating: 4.60 (Ranked 409)
 | Magical Synergy | 0.50% | ~27 |
 | Full Ascension | 0.40% | ~21 |
 | Seat of Power | 0.40% | ~21 |
+| In a Liege of Your Own | 0.40% | ~21 |
 | Chaos Surge | 0.40% | ~21 |
 | Spoils of War | 0.40% | ~21 |
 | Dawn of the Dread | 0.40% | ~21 |
 | Valley of Wonders | 0.30% | ~16 |
+| Digging for Treasure | 0.30% | ~16 |
 | Stronger Together | 0.30% | ~16 |
-| In a Liege of Your Own | 0.30% | ~16 |
 | Intimidation Tactics | 0.30% | ~16 |
 | Tipping the Scales | 0.30% | ~16 |
 | Blood of the Dragon | 0.30% | ~16 |
@@ -33,7 +34,6 @@ Rating: 4.60 (Ranked 409)
 | Return of the Wizard King | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
 | Enchanted Archipelago | 0.20% | ~11 |
-| Digging for Treasure | 0.20% | ~11 |
 | Preparation Is Everything | 0.20% | ~11 |
 | My Final Form | 0.20% | ~11 |
 | Fiery Friend | 0.20% | ~11 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 409)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,364 (Ranked 184)  
+Progressed: 5,365 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
-| 2023-11-12 | 5,364 | 7 |
+| 2023-11-12 | 5,365 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 481)  
 Sum: 53 (Ranked 474)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1627,
+  "EOS_Progressed": 1628,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3614,6 +3614,11 @@
       "Time": "2023-11-12T01:54:12.1617131+00:00",
       "NumProgressed": 1627,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T08:07:54.0310619+00:00",
+      "NumProgressed": 1628,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3625,7 +3630,7 @@
       "Name": "Agent 47",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "Auditor",
@@ -3737,7 +3742,7 @@
       "Name": "Grenadier",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "Hard_Serpent",
@@ -3799,9 +3804,9 @@
       "ID": "Long_fire",
       "SetID": "85nb4h3",
       "Name": "One by One",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 244
+      "UsersEstimate": 228
     },
     {
       "ID": "Miner",
@@ -3809,7 +3814,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "MoskitoBite",
@@ -3864,15 +3869,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1627,
+      "Progressed": 1628,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-12T07:07:36.92312+00:00",
+  "LastChanged_Achievements": "2023-11-12T08:07:54.0310611+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:01:16.9253939+00:00",
-  "LastUpdate_Achievements": "2023-11-12T07:07:36.9231456+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:01:22.3854563+00:00",
+  "LastUpdate_Achievements": "2023-11-12T08:07:54.0310947+00:00"
 }

@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15273,
+  "EOS_Progressed": 15274,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15810,6 +15810,11 @@
       "Time": "2023-11-12T01:52:10.8033725+00:00",
       "NumProgressed": 15273,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-12T08:05:07.7098069+00:00",
+      "NumProgressed": 15274,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16147,9 +16152,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ABLE",
       "SetID": "7l38kb8",
       "Name": "Able",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 458
+      "UsersEstimate": 611
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -17795,9 +17800,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -18556,21 +18561,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15273,
+      "Progressed": 15274,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15273,
+      "Progressed": 15274,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-12T07:04:51.3276328+00:00",
+  "LastChanged_Achievements": "2023-11-12T08:05:07.709806+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:00:20.4303599+00:00",
-  "LastUpdate_Achievements": "2023-11-12T07:04:51.3285527+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:00:25.4442263+00:00",
+  "LastUpdate_Achievements": "2023-11-12T08:05:07.7108113+00:00"
 }

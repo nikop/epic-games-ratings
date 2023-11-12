@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Shard | 81.00% | ~242 |
-| Found the Healer | 34.00% | ~102 |
+| Found the Healer | 35.00% | ~105 |
 | Second Shard | 9.00% | ~27 |
 | Death is Merely a Setback | 8.00% | ~24 |
 | Ring of Fire! | 8.00% | ~24 |

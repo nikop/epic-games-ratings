@@ -11196,9 +11196,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51479,
+  "EOS_Progressed": 51480,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29801,6 +29801,11 @@
       "Time": "2023-11-12T04:05:59.6026685+00:00",
       "NumProgressed": 51479,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-12T08:07:11.9893152+00:00",
+      "NumProgressed": 51480,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -29900,7 +29905,7 @@
       "Name": "You wood not believe it",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 11325
+      "UsersEstimate": 11326
     },
     {
       "ID": "CutTreeFirst",
@@ -29908,7 +29913,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 31402
+      "UsersEstimate": 31403
     },
     {
       "ID": "DeliveryGrapes",
@@ -29948,7 +29953,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30887
+      "UsersEstimate": 30888
     },
     {
       "ID": "Harvested",
@@ -29964,7 +29969,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 38609
+      "UsersEstimate": 38610
     },
     {
       "ID": "HorseJumps",
@@ -29996,7 +30001,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 26254
+      "UsersEstimate": 26255
     },
     {
       "ID": "Mission",
@@ -30060,7 +30065,7 @@
       "Name": "Vehicle fleet",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 11325
+      "UsersEstimate": 11326
     },
     {
       "ID": "NumVehiclesSmall",
@@ -30100,7 +30105,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 31917
+      "UsersEstimate": 31918
     },
     {
       "ID": "Stones",
@@ -30108,15 +30113,15 @@
       "Name": "Rock on",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 6177
+      "UsersEstimate": 6178
     },
     {
       "ID": "TractorDriving",
       "SetID": "636ci4d",
       "Name": "Field Trip",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 22136
+      "UsersEstimate": 22651
     },
     {
       "ID": "TruckDriving",
@@ -30155,15 +30160,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51479,
+      "Progressed": 51480,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-11T23:57:06.6541328+00:00",
-  "LastChanged_Achievements": "2023-11-12T07:06:55.1702839+00:00",
+  "LastChanged_Achievements": "2023-11-12T08:07:11.9893146+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:00.8695856+00:00",
-  "LastUpdate_Ratings": "2023-11-12T06:57:38.0489803+00:00",
-  "LastUpdate_Achievements": "2023-11-12T07:06:55.1703758+00:00"
+  "LastUpdate_Ratings": "2023-11-12T07:57:39.5184033+00:00",
+  "LastUpdate_Achievements": "2023-11-12T08:07:11.9894277+00:00"
 }

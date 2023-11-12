@@ -4097,7 +4097,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76317,
+  "EOS_Progressed": 76319,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
@@ -22307,6 +22307,11 @@
       "Time": "2023-11-12T07:04:31.4924063+00:00",
       "NumProgressed": 76317,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-12T08:04:47.0782903+00:00",
+      "NumProgressed": 76319,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22438,7 +22443,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 10684
+      "UsersEstimate": 10685
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -22558,7 +22563,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14500
+      "UsersEstimate": 14501
     },
     {
       "ID": "FREEZE_3",
@@ -22566,7 +22571,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10684
+      "UsersEstimate": 10685
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -22622,7 +22627,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26711
+      "UsersEstimate": 26712
     },
     {
       "ID": "HARLEY_2",
@@ -22630,7 +22635,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19079
+      "UsersEstimate": 19080
     },
     {
       "ID": "HARLEY_3",
@@ -22638,7 +22643,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15263
+      "UsersEstimate": 15264
     },
     {
       "ID": "HARLEY_4",
@@ -22662,7 +22667,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38922
+      "UsersEstimate": 38923
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22686,7 +22691,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15263
+      "UsersEstimate": 15264
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -22718,7 +22723,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19079
+      "UsersEstimate": 19080
     },
     {
       "ID": "MYSTERY_03",
@@ -22734,7 +22739,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15263
+      "UsersEstimate": 15264
     },
     {
       "ID": "MYSTERY_05",
@@ -22758,7 +22763,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 10684
+      "UsersEstimate": 10685
     },
     {
       "ID": "MYSTERY_08",
@@ -22805,13 +22810,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76317,
+      "Progressed": 76319,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46597,
+      "Progressed": 46599,
       "Completed": 2673
     }
   ],
@@ -22819,8 +22824,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-12T04:59:42.7017573+00:00",
-  "LastChanged_Achievements": "2023-11-12T07:04:31.492406+00:00",
+  "LastChanged_Achievements": "2023-11-12T08:04:47.0782894+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:01:13.1878405+00:00",
-  "LastUpdate_Achievements": "2023-11-12T07:04:31.4925732+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:01:18.6085241+00:00",
+  "LastUpdate_Achievements": "2023-11-12T08:04:47.0784197+00:00"
 }
