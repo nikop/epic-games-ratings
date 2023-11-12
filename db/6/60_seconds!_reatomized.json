@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 316,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
@@ -213,9 +213,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5555,
+  "EOS_Progressed": 5556,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -6818,6 +6818,11 @@
       "Time": "2023-11-11T23:04:00.9358321+00:00",
       "NumProgressed": 5555,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T03:03:47.3979155+00:00",
+      "NumProgressed": 5556,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 60,
@@ -6901,7 +6906,7 @@
       "Name": "All thumbs",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 5111
+      "UsersEstimate": 5112
     },
     {
       "ID": "ACH_BUG_KILLER",
@@ -6917,7 +6922,7 @@
       "Name": "Out of the Bag",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 4222
+      "UsersEstimate": 4223
     },
     {
       "ID": "ACH_CATDOM",
@@ -6957,7 +6962,7 @@
       "Name": "One way ticket",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 4722
+      "UsersEstimate": 4723
     },
     {
       "ID": "ACH_DEEDEE",
@@ -6973,7 +6978,7 @@
       "Name": "Pacifist",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 3277
+      "UsersEstimate": 3278
     },
     {
       "ID": "ACH_DEFEND_THREE",
@@ -6981,7 +6986,7 @@
       "Name": "Unbreakable",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2055
+      "UsersEstimate": 2056
     },
     {
       "ID": "ACH_DISCO",
@@ -6989,7 +6994,7 @@
       "Name": "Disco Roach",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1555
+      "UsersEstimate": 1556
     },
     {
       "ID": "ACH_DOCEND",
@@ -7013,7 +7018,7 @@
       "Name": "Girl Power",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 2666
+      "UsersEstimate": 2667
     },
     {
       "ID": "ACH_EASY",
@@ -7045,7 +7050,7 @@
       "Name": "Family guy",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 4277
+      "UsersEstimate": 4278
     },
     {
       "ID": "ACH_FIRE_POLICE",
@@ -7077,7 +7082,7 @@
       "Name": "Rescue time!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "ACH_HARD",
@@ -7093,7 +7098,7 @@
       "Name": "What goes around...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "ACH_HOLIDAYS",
@@ -7125,7 +7130,7 @@
       "Name": "Home, sweet home",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 5055
+      "UsersEstimate": 5056
     },
     {
       "ID": "ACH_MADHATTER",
@@ -7149,7 +7154,7 @@
       "Name": "New species",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "ACH_NAYSAYER",
@@ -7173,7 +7178,7 @@
       "Name": "Duck and cover!",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3666
+      "UsersEstimate": 3667
     },
     {
       "ID": "ACH_PANZER",
@@ -7229,7 +7234,7 @@
       "Name": "The Dark Side",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 3888
+      "UsersEstimate": 3889
     },
     {
       "ID": "ACH_ROGUE",
@@ -7245,7 +7250,7 @@
       "Name": "I will survive!",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 5111
+      "UsersEstimate": 5112
     },
     {
       "ID": "ACH_SURVIVE_111_DAYS",
@@ -7269,7 +7274,7 @@
       "Name": "Last man standing",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 4444
+      "UsersEstimate": 4445
     },
     {
       "ID": "ACH_SURVIVE_5_DAYS",
@@ -7277,7 +7282,7 @@
       "Name": "Prepper",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 5166
+      "UsersEstimate": 5167
     },
     {
       "ID": "ACH_TOILET_BUSTER",
@@ -7308,7 +7313,7 @@
     {
       "ID": "5nj1ea3",
       "IsBase": true,
-      "Progressed": 5555,
+      "Progressed": 5556,
       "Completed": 1
     }
   ],
@@ -7316,8 +7321,8 @@
   "FirstSeenRating": "2023-03-12T08:56:56.666763+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.2341189+00:00",
   "LastChanged": "2023-11-06T17:58:21.4072644+00:00",
-  "LastChanged_Achievements": "2023-11-12T02:25:07.9903792+00:00",
+  "LastChanged_Achievements": "2023-11-12T03:03:47.397915+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:08.9352695+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:18:40.6926379+00:00",
-  "LastUpdate_Achievements": "2023-11-12T02:25:07.9904882+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:57:13.6712203+00:00",
+  "LastUpdate_Achievements": "2023-11-12T03:03:47.3980247+00:00"
 }

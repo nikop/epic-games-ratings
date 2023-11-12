@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -1728,9 +1728,9 @@
       "ID": "ACH_rogue",
       "SetID": "51of0eo",
       "Name": "Anti-Gravity",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 37
+      "UsersEstimate": 42
     },
     {
       "ID": "ACH_xatrix",
@@ -1751,8 +1751,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-12T02:27:43.1790017+00:00",
+  "LastChanged_Achievements": "2023-11-12T03:06:55.4717388+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:16.1042857+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:18:39.1839199+00:00",
-  "LastUpdate_Achievements": "2023-11-12T02:27:43.1790215+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:57:11.8008417+00:00",
+  "LastUpdate_Achievements": "2023-11-12T03:06:55.4717631+00:00"
 }

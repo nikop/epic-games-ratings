@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 87,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -8487,7 +8487,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808038,
+  "EOS_Progressed": 808040,
   "EOS_Completed": 51,
   "EOS_NewPlayers": 858,
   "EOS_NewCompleters": 0,
@@ -31537,6 +31537,11 @@
       "Time": "2023-11-12T02:26:42.8089719+00:00",
       "NumProgressed": 808038,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-12T03:05:41.7562258+00:00",
+      "NumProgressed": 808040,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -31628,7 +31633,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258572
+      "UsersEstimate": 258573
     },
     {
       "ID": "Bookworm",
@@ -31828,7 +31833,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72723
+      "UsersEstimate": 72724
     },
     {
       "ID": "HardcoreHenry",
@@ -32203,15 +32208,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808038,
+      "Progressed": 808040,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-11T23:03:10.2699253+00:00",
-  "LastChanged_Achievements": "2023-11-12T02:26:42.8089713+00:00",
+  "LastChanged_Achievements": "2023-11-12T03:05:41.7562253+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.2274492+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:24:28.6597475+00:00",
-  "LastUpdate_Achievements": "2023-11-12T02:26:42.8091953+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:02:55.9845323+00:00",
+  "LastUpdate_Achievements": "2023-11-12T03:05:41.7564807+00:00"
 }

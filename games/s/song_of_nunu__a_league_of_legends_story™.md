@@ -13,7 +13,7 @@
 | Cutie Poro | 67.00% | ~436 |
 | Krugmazing | 66.00% | ~429 |
 | The Fire Below the Mountain | 64.00% | ~416 |
-| Moneyball | 59.00% | ~384 |
+| Moneyball | 60.00% | ~390 |
 | No Bites | 56.00% | ~364 |
 | Iceborn | 56.00% | ~364 |
 | Tear of Freedom | 52.00% | ~338 |

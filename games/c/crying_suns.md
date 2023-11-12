@@ -6,12 +6,12 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~310,678 |
+| The Shutdown | 66.00% | ~310,679 |
 | Jeef Skeejj | 44.00% | ~207,119 |
 | Careful planning | 39.00% | ~183,583 |
-| Second Coming | 34.00% | ~160,046 |
+| Second Coming | 34.00% | ~160,047 |
 | Jeef Skagg | 30.00% | ~141,218 |
-| Mother | 25.00% | ~117,681 |
+| Mother | 25.00% | ~117,682 |
 | In space, no one can hear you scream | 24.00% | ~112,974 |
 | Chapter I: Echoes | 22.00% | ~103,560 |
 | Excelsior Rule | 22.00% | ~103,560 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Pope Zenon | 15.00% | ~70,609 |
 | Tetsuo | 11.00% | ~51,780 |
 | Plan for the worst | 11.00% | ~51,780 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,072 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,073 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,658 |
 | Through the mirror | 8.00% | ~37,658 |
 | General Vivar | 8.00% | ~37,658 |
@@ -51,7 +51,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Jericho Rule | 5.00% | ~23,536 |
 | Geno Rule | 3.00% | ~14,122 |
 | Hammer Rule | 3.00% | ~14,122 |
-| Survivor | 2.00% | ~9,414 |
+| Survivor | 2.00% | ~9,415 |
 | A Rock in the Dark | 1.00% | ~4,707 |
 | Emperor of Misery | 1.00% | ~4,707 |
 | A Frozen Lady | 1.00% | ~4,707 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~15 |
 | Kronos Rule | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 470,725 (Ranked 40)  
+Progressed: 470,726 (Ranked 40)  
 Completed: 20 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 20 (0.00%) (Ranked 347)
 | 2023-11-09 | 470,615 | 20 |
 | 2023-11-10 | 470,663 | 20 |
 | 2023-11-11 | 470,723 | 20 |
-| 2023-11-12 | 470,725 | 20 |
+| 2023-11-12 | 470,726 | 20 |
 ## Awards
 Max (Character Customization): 223  (Ranked 275)  
 Sum: 245 (Ranked 380)  

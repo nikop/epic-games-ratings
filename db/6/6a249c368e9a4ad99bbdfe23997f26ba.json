@@ -4,7 +4,7 @@
   "ProductSlug": "forest-fire-b4bb7e",
   "Ranking_EOS_Progress": 435,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-02T15:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 83,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -491,9 +491,9 @@
       "ID": "A18",
       "SetID": "7f5j12l",
       "Name": "Green Flame",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "A19",
@@ -698,8 +698,8 @@
   ],
   "FirstSeen": "2023-09-06T21:57:38.1814992+00:00",
   "FirstSeenAchievements": "2023-07-18T00:01:21.9503191+00:00",
-  "LastChanged_Achievements": "2023-11-12T02:26:09.6763887+00:00",
+  "LastChanged_Achievements": "2023-11-12T03:05:01.4800621+00:00",
   "LastUpdate_AppInfo": "2023-11-07T08:57:06.7637727+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:20:16.3957877+00:00",
-  "LastUpdate_Achievements": "2023-11-12T02:26:09.6764167+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:59:15.7147394+00:00",
+  "LastUpdate_Achievements": "2023-11-12T03:05:01.4800977+00:00"
 }

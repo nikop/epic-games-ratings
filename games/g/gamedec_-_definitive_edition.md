@@ -6,21 +6,21 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 28.00% | ~70,494 |
-| Powergamer | 27.00% | ~67,977 |
-| Write that down | 25.00% | ~62,941 |
-| Barely scratched the surface | 25.00% | ~62,941 |
-| Guns, lots of guns | 13.00% | ~32,729 |
-| Collector | 12.00% | ~30,212 |
+| I will finish what you started | 28.00% | ~70,496 |
+| Powergamer | 27.00% | ~67,978 |
+| Write that down | 25.00% | ~62,943 |
+| Barely scratched the surface | 25.00% | ~62,943 |
+| Guns, lots of guns | 13.00% | ~32,730 |
+| Collector | 12.00% | ~30,213 |
 | Elementary! | 9.00% | ~22,659 |
-| Griever | 8.00% | ~20,141 |
-| Pumpkin Jack | 8.00% | ~20,141 |
-| Wake up! | 8.00% | ~20,141 |
+| Griever | 8.00% | ~20,142 |
+| Pumpkin Jack | 8.00% | ~20,142 |
+| Wake up! | 8.00% | ~20,142 |
 | It's honest work | 7.00% | ~17,624 |
 | Me smart | 6.00% | ~15,106 |
 | Trash compactor | 6.00% | ~15,106 |
-| Good listener | 5.00% | ~12,588 |
-| Valedictorian | 5.00% | ~12,588 |
+| Good listener | 5.00% | ~12,589 |
+| Valedictorian | 5.00% | ~12,589 |
 | BOY! | 4.00% | ~10,071 |
 | Ka-ching! | 4.00% | ~10,071 |
 | So you like to read? | 4.00% | ~10,071 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~504 |
 | Memory 5 | 0.10% | ~252 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 251,765 (Ranked 57)  
+Progressed: 251,771 (Ranked 57)  
 Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,11 +265,11 @@ Completed: 7 (0.00%) (Ranked 347)
 | 2023-11-09 | 251,555 | 7 |
 | 2023-11-10 | 251,645 | 7 |
 | 2023-11-11 | 251,756 | 7 |
-| 2023-11-12 | 251,765 | 7 |
+| 2023-11-12 | 251,771 | 7 |
 ## Awards
-Max (Character Customization): 90  (Ranked 375)  
+Max (Character Customization): 90  (Ranked 376)  
 Sum: 90 (Ranked 448)  
-Diff (max vs sum): -73  
+Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 90 |

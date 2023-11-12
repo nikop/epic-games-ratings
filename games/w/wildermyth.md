@@ -28,6 +28,7 @@ Number of Ratings: 45  (23.09.2022)
 | Turncoat | 0.30% | ~4 |
 | No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
+| Bears are Scary | 0.20% | ~3 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Plague Doctor | 0.10% | ~1 |
@@ -38,7 +39,6 @@ Number of Ratings: 45  (23.09.2022)
 | A Hunger, Sated | 0.10% | ~1 |
 | Wingknight's Prowess | 0.10% | ~1 |
 | All My Birds, Safely Home | 0.10% | ~1 |
-| Bears are Scary | 0.10% | ~1 |
 | Grillmaster | 0.10% | ~1 |
 | Some Say I'm Too Flashy | 0.10% | ~1 |
 | Into Mulch | 0.10% | ~1 |

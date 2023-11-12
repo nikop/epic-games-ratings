@@ -638,17 +638,17 @@
       "ID": "RISKYTEXT_BOOST_VOTE",
       "SetID": "9j9h72e",
       "Name": "FixyText: Pump It Up",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -686,9 +686,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -702,9 +702,9 @@
       "ID": "TKO2_BEACH_LIFE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "TKO2_DOMINO",
@@ -741,8 +741,8 @@
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-12T02:30:11.2525445+00:00",
+  "LastChanged_Achievements": "2023-11-12T03:09:07.1792002+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:06.8109666+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:19:45.6957732+00:00",
-  "LastUpdate_Achievements": "2023-11-12T02:30:11.2525665+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:58:36.9633463+00:00",
+  "LastUpdate_Achievements": "2023-11-12T03:09:07.1792193+00:00"
 }

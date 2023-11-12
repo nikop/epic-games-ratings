@@ -6,10 +6,10 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tutti Eroi! | 54.00% | ~3,921 |
+| Tutti Eroi! | 54.00% | ~3,922 |
 | Peak Performance | 53.00% | ~3,849 |
 | You Shall Not Pass | 53.00% | ~3,849 |
-| Avanti Savoia! | 47.00% | ~3,413 |
+| Avanti Savoia! | 47.00% | ~3,414 |
 | Mamma Mia! | 38.00% | ~2,760 |
 | Conrad von Hotzensocks | 35.00% | ~2,542 |
 | Gabriele D'Annunzio | 34.00% | ~2,469 |
@@ -19,7 +19,7 @@ Number of Ratings: 98  (23.09.2022)
 | Donatello | 22.00% | ~1,598 |
 | Veni Vidi Vici | 22.00% | ~1,598 |
 | The Italian Job | 21.00% | ~1,525 |
-| Insubordination | 20.00% | ~1,452 |
+| Insubordination | 20.00% | ~1,453 |
 | Ragazzi del '99 | 19.00% | ~1,380 |
 | The Lion of the Isonzo | 18.00% | ~1,307 |
 | Luigi Cadorna | 16.00% | ~1,162 |
@@ -29,7 +29,7 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 13.00% | ~944 |
 | Machiavelli | 13.00% | ~944 |
 | Thus With A Kiss | 13.00% | ~944 |
-| The Devil's Paintbrush | 12.00% | ~871 |
+| The Devil's Paintbrush | 12.00% | ~872 |
 | Dante's Inferno | 11.00% | ~799 |
 | Millenial | 11.00% | ~799 |
 | I Have the High Ground | 10.00% | ~726 |
@@ -39,8 +39,8 @@ Number of Ratings: 98  (23.09.2022)
 | Cercatore d'Oro | 6.00% | ~436 |
 | The Enlightment | 6.00% | ~436 |
 | Generalissimo | 5.00% | ~363 |
-| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~290 |
-| Seeing Red | 4.00% | ~290 |
+| "O La Vittoria, O Tutti Accoppati" | 4.00% | ~291 |
+| Seeing Red | 4.00% | ~291 |
 | Farewell to Arms | 3.00% | ~218 |
 | Ponte of No Return | 3.00% | ~218 |
 | Soča Drag | 3.00% | ~218 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~29 |
 | Can I Go Home Now? | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,262 (Ranked 173)  
+Progressed: 7,263 (Ranked 173)  
 Completed: 9 (0.12%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 9 (0.12%) (Ranked 265)
 | 2023-11-09 | 7,134 | 9 |
 | 2023-11-10 | 7,195 | 9 |
 | 2023-11-11 | 7,251 | 9 |
-| 2023-11-12 | 7,262 | 9 |
+| 2023-11-12 | 7,263 | 9 |
 ## Awards
 Max (Highly Recommended): 36  (Ranked 464)  
 Sum: 277 (Ranked 370)  

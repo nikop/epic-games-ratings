@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -397,9 +397,9 @@
       "ID": "ach_main06transporter_towers",
       "SetID": "4hg22ll",
       "Name": "Mana Cannon",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 39
     },
     {
       "ID": "ach_main06transporter_transport",
@@ -469,9 +469,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -764,8 +764,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-12T02:25:01.9255574+00:00",
+  "LastChanged_Achievements": "2023-11-12T03:03:39.9883678+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:19:38.0358691+00:00",
-  "LastUpdate_Achievements": "2023-11-12T02:25:01.9256166+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:58:27.2630476+00:00",
+  "LastUpdate_Achievements": "2023-11-12T03:03:39.9884308+00:00"
 }

@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129362,
+  "EOS_Progressed": 129363,
   "EOS_Completed": 1107,
-  "EOS_NewPlayers": 1110,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -23656,6 +23656,11 @@
       "Time": "2023-11-12T02:25:45.5949688+00:00",
       "NumProgressed": 129362,
       "NumCompleted": 1107
+    },
+    {
+      "Time": "2023-11-12T03:04:32.2819103+00:00",
+      "NumProgressed": 129363,
+      "NumCompleted": 1107
     }
   ],
   "TotalAchievements": 34,
@@ -23699,7 +23704,7 @@
       "Name": "The Amazing Adventures of Norah Everhart",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     },
     {
       "ID": "ACH_GAME_NOTES",
@@ -23747,7 +23752,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 36221
+      "UsersEstimate": 36222
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -23755,7 +23760,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 50451
+      "UsersEstimate": 50452
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -23843,7 +23848,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 36221
+      "UsersEstimate": 36222
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -23875,7 +23880,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 32340
+      "UsersEstimate": 32341
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -23931,14 +23936,14 @@
       "Name": "Candid Photo",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 5174
+      "UsersEstimate": 5175
     }
   ],
   "AchievementSets": [
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 129362,
+      "Progressed": 129363,
       "Completed": 1107
     }
   ],
@@ -23946,8 +23951,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-11T22:00:14.9035604+00:00",
-  "LastChanged_Achievements": "2023-11-12T02:25:45.5949677+00:00",
+  "LastChanged_Achievements": "2023-11-12T03:04:32.2819098+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:26.6624381+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:21:29.8436556+00:00",
-  "LastUpdate_Achievements": "2023-11-12T02:25:45.5951077+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:00:49.9944299+00:00",
+  "LastUpdate_Achievements": "2023-11-12T03:04:32.2821022+00:00"
 }

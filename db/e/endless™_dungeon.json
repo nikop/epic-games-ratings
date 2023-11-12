@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1080,
+  "EOS_Progressed": 1081,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1615,6 +1615,11 @@
       "Time": "2023-11-12T00:02:57.1625592+00:00",
       "NumProgressed": 1080,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T03:03:26.5562842+00:00",
+      "NumProgressed": 1081,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1707,7 +1712,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1827,7 +1832,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -1866,14 +1871,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1080,
+      "Progressed": 1081,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-12T02:24:51.1049117+00:00",
+  "LastChanged_Achievements": "2023-11-12T03:03:26.5562837+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.2192237+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:19:46.5122257+00:00",
-  "LastUpdate_Achievements": "2023-11-12T02:24:51.1049467+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:58:38.2711341+00:00",
+  "LastUpdate_Achievements": "2023-11-12T03:03:26.5563191+00:00"
 }

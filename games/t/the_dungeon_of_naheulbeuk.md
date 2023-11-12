@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,818 |
+| Sowwy! | 35.00% | ~82,820 |
 | Alt+F4 | 8.00% | ~18,930 |
 | Where's that freaking Dwarf? | 7.00% | ~16,564 |
-| Déjà vu | 6.00% | ~14,197 |
+| Déjà vu | 6.00% | ~14,198 |
 | Sock! SOCK! | 5.00% | ~11,831 |
 | A beer, two curses, three companions | 4.00% | ~9,465 |
 | GG EZ | 4.00% | ~9,465 |
@@ -19,23 +19,23 @@ Number of Ratings: 118  (23.09.2022)
 | Way of the Wimp | 3.00% | ~7,099 |
 | The plot thickens... At the tavern | 3.00% | ~7,099 |
 | Fireproof Wizardess | 3.00% | ~7,099 |
-| Shiny and Crôm | 2.00% | ~4,732 |
-| The demons' feast | 2.00% | ~4,732 |
-| The Great Library | 2.00% | ~4,732 |
-| Torture and Sensibility | 2.00% | ~4,732 |
-| Urik's Depths | 2.00% | ~4,732 |
-| The Dungeon Master | 2.00% | ~4,732 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,732 |
-| The Woman in the High Castle | 2.00% | ~4,732 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,732 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,732 |
-| Look but don't touch | 2.00% | ~4,732 |
-| The beards of change | 2.00% | ~4,732 |
-| The Ranger of Chaos | 2.00% | ~4,732 |
-| I am the night | 2.00% | ~4,732 |
-| Thieves' Guild Accreditation | 2.00% | ~4,732 |
-| Team Building Exercise | 2.00% | ~4,732 |
-| Oh, when I'll be level 10... | 2.00% | ~4,732 |
+| Shiny and Crôm | 2.00% | ~4,733 |
+| The demons' feast | 2.00% | ~4,733 |
+| The Great Library | 2.00% | ~4,733 |
+| Torture and Sensibility | 2.00% | ~4,733 |
+| Urik's Depths | 2.00% | ~4,733 |
+| The Dungeon Master | 2.00% | ~4,733 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,733 |
+| The Woman in the High Castle | 2.00% | ~4,733 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,733 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,733 |
+| Look but don't touch | 2.00% | ~4,733 |
+| The beards of change | 2.00% | ~4,733 |
+| The Ranger of Chaos | 2.00% | ~4,733 |
+| I am the night | 2.00% | ~4,733 |
+| Thieves' Guild Accreditation | 2.00% | ~4,733 |
+| Team Building Exercise | 2.00% | ~4,733 |
+| Oh, when I'll be level 10... | 2.00% | ~4,733 |
 | Res Judicata | 1.00% | ~2,366 |
 | Dwarf Fortress | 1.00% | ~2,366 |
 | %#*!$*! | 1.00% | ~2,366 |
@@ -51,7 +51,7 @@ Number of Ratings: 118  (23.09.2022)
 | An old poacher makes the best gamekeeper | 0.60% | ~1,420 |
 | Scholar of the Lands of Fangh | 0.50% | ~1,183 |
 | Law and Order | 0.50% | ~1,183 |
-| It's been a hard day's night | 0.40% | ~946 |
+| It's been a hard day's night | 0.40% | ~947 |
 | Friendly fire | 0.30% | ~710 |
 | I'd rather... Just... Sing! | 0.30% | ~710 |
 | The number of the counting shalt be 7 | 0.30% | ~710 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~237 |
 | Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 236,622 (Ranked 62)  
+Progressed: 236,629 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -260,7 +260,7 @@ Completed: 7 (0.00%) (Ranked 347)
 | 2023-11-09 | 236,158 | 7 |
 | 2023-11-10 | 236,338 | 7 |
 | 2023-11-11 | 236,594 | 7 |
-| 2023-11-12 | 236,622 | 7 |
+| 2023-11-12 | 236,629 | 7 |
 ## Awards
 Max (Character Customization): 228  (Ranked 273)  
 Sum: 457 (Ranked 330)  

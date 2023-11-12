@@ -14,10 +14,10 @@
 | The darkness | 20.00% | ~105 |
 | A good beginning | 19.00% | ~100 |
 | I did it | 18.00% | ~95 |
+| Cable guy | 18.00% | ~95 |
 | Half the way | 18.00% | ~95 |
 | One last step | 18.00% | ~95 |
 | Peace walker | 17.00% | ~89 |
-| Cable guy | 17.00% | ~89 |
 | Champollion | 17.00% | ~89 |
 | In this together | 16.00% | ~84 |
 | Open door | 15.00% | ~79 |

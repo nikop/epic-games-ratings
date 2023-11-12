@@ -22,12 +22,12 @@
 | YOU SHALL NOT PASS! | 27.00% | ~56 |
 | The Ascent | 20.00% | ~41 |
 | It's Warm and Cozy at Home | 20.00% | ~41 |
+| Mana Cannon | 19.00% | ~39 |
 | Pure Dynamite! | 19.00% | ~39 |
-| Mana Cannon | 18.00% | ~37 |
 | Hard Work | 17.00% | ~35 |
 | The Big Eaty | 14.00% | ~29 |
+| “… like son” | 10.00% | ~21 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 9.00% | ~19 |
-| “… like son” | 9.00% | ~19 |
 | Sacrificial Pit = Garbage Disposal? | 8.00% | ~16 |
 | Dungeonlord Gorgu | 8.00% | ~16 |
 | Hungry, Hungry Gorgu! | 6.00% | ~12 |

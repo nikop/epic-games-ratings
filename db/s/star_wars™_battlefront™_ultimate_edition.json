@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1178,
+  "EOS_Progressed": 1179,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3424,6 +3424,11 @@
       "Time": "2023-11-12T02:30:44.6526342+00:00",
       "NumProgressed": 1178,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T03:09:48.8349835+00:00",
+      "NumProgressed": 1179,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3636,7 +3641,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "achievement_33",
@@ -3660,7 +3665,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "achievement_36",
@@ -3676,7 +3681,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "achievement_38",
@@ -3716,7 +3721,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "achievement_42",
@@ -3939,13 +3944,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1178,
+      "Progressed": 1179,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1178,
+      "Progressed": 1179,
       "Completed": 1
     }
   ],
@@ -3953,8 +3958,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-12T02:30:44.6526334+00:00",
+  "LastChanged_Achievements": "2023-11-12T03:09:48.834983+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:20:46.2540932+00:00",
-  "LastUpdate_Achievements": "2023-11-12T02:30:44.6527218+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:59:54.1111178+00:00",
+  "LastUpdate_Achievements": "2023-11-12T03:09:48.8350781+00:00"
 }
