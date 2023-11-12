@@ -16,10 +16,10 @@ Number of Ratings: 281  (23.09.2022)
 | Fish Out of Water | 0.90% | ~59 |
 | Things that go Splash in the Night | 0.80% | ~52 |
 | School's Out for Summer | 0.60% | ~39 |
+| License to Gill | 0.50% | ~33 |
 | Goldfish? | 0.50% | ~33 |
 | Going for Gold | 0.50% | ~33 |
-| License to Gill | 0.40% | ~26 |
-| I'm Hooked! | 0.30% | ~20 |
+| I'm Hooked! | 0.40% | ~26 |
 | I'm the Captain Now | 0.20% | ~13 |
 | More than a Tourist | 0.10% | ~7 |
 | Hook, Line and Sinker | 0.10% | ~7 |

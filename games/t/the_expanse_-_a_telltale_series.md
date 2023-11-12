@@ -22,18 +22,18 @@ Rating: 4.56 (Ranked 488)
 | Data Archivist | 2.00% | ~298 |
 | Stogie for Fogey | 2.00% | ~298 |
 | Spore Taste | 2.00% | ~298 |
+| Thorston Mayer | 2.00% | ~298 |
 | Heal Thy Medic | 2.00% | ~298 |
 | Khan's Revenge | 2.00% | ~298 |
 | Master Negotiator | 2.00% | ~17 |
 | Doctor Approved | 1.00% | ~149 |
 | Bottoms up! | 1.00% | ~149 |
-| Thorston Mayer | 1.00% | ~149 |
 | Miraculous Maya | 1.00% | ~149 |
 | Data Logger | 0.70% | ~104 |
 | Data Master | 0.70% | ~104 |
 | Brother's Reaper | 0.60% | ~89 |
 | No Belter Left Behind | 0.50% | ~74 |
-| Debris Spree | 0.50% | ~74 |
+| Debris Spree | 0.40% | ~60 |
 | Data Recoverer | 0.40% | ~60 |
 | Urshanabi Hoarder | 0.30% | ~45 |
 | Data Miner | 0.10% | ~15 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 488)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,888 (Ranked 147)  
+Progressed: 14,890 (Ranked 147)  
 Completed: 34 (0.23%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 34 (0.23%) (Ranked 238)
 | 2023-11-09 | 14,788 | 33 |
 | 2023-11-10 | 14,816 | 34 |
 | 2023-11-11 | 14,854 | 34 |
-| 2023-11-12 | 14,888 | 34 |
+| 2023-11-12 | 14,890 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

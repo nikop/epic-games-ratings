@@ -2,10 +2,10 @@
   "ID": "f679c7125fd34092a6c20647917e207e",
   "Name": "Rescue Party: Live!",
   "ProductSlug": "rescue-party-live",
-  "Ranking_EOS_Progress": 363,
-  "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 402,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Completed": 98,
+  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-01-13T16:00:00+00:00",
     "PcReleaseDate": "2022-01-13T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.06,
+  "EOS_Completed_Percentage": 3.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:37.3014297+00:00",
@@ -354,6 +354,11 @@
       "Time": "2023-11-10T12:03:16.206368+00:00",
       "NumProgressed": 229,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-12T19:04:12.7117496+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 18,
@@ -387,9 +392,9 @@
       "ID": "ACH_HERT_COLLECTOR",
       "SetID": "1p69hf1",
       "Name": "Medal of honor",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_IT_IS_IN_CONTROL",
@@ -461,7 +466,7 @@
       "Name": "Professional team!",
       "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_RESCUE_TEAM_ASSEMBLE",
@@ -469,7 +474,7 @@
       "Name": "Team assemble",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_RESCUE_WITH_CAUTION",
@@ -501,14 +506,14 @@
       "Name": "ASAP",
       "Percentage": 97,
       "XP": 50,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p69hf1",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 7
     }
   ],
@@ -516,8 +521,8 @@
   "FirstSeenRating": "2023-03-31T05:58:01.1285386+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:37.3014308+00:00",
   "LastChanged": "2023-03-31T05:58:01.1285387+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:04:46.305718+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:04:12.7117492+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:28.6025952+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:57:55.8523568+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:04:46.3057325+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:57:35.036153+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:04:12.7117628+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 299,
-  "Ranking_EOS_Completed": 142,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_Completed": 143,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 524,
+  "EOS_Progressed": 525,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.34,
+  "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -1635,6 +1635,11 @@
       "Time": "2023-11-12T17:08:12.1474662+00:00",
       "NumProgressed": 524,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-12T19:06:38.2151805+00:00",
+      "NumProgressed": 525,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1719,7 +1724,7 @@
       "Name": "Disc Collector",
       "Percentage": 6,
       "XP": 120,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACH_n64",
@@ -1750,14 +1755,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 524,
+      "Progressed": 525,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:06:59.7896225+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:06:38.2151803+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:16.1042857+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:57:49.7478408+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:06:59.7896421+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:57:27.9719411+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:06:38.2152008+00:00"
 }

@@ -19,19 +19,19 @@ Rating: 4.61 (Ranked 384)
 | Seat of Power | 0.60% | ~32 |
 | Chaos Surge | 0.50% | ~27 |
 | Spoils of War | 0.50% | ~27 |
+| Valley of Wonders | 0.40% | ~22 |
 | Digging for Treasure | 0.40% | ~22 |
 | Stronger Together | 0.40% | ~22 |
 | In a Liege of Your Own | 0.40% | ~22 |
 | Intimidation Tactics | 0.40% | ~22 |
+| Mighty Hoard | 0.40% | ~22 |
 | Sehiran Oasis | 0.40% | ~22 |
 | Seal the Deal | 0.40% | ~22 |
 | Dawn of the Dread | 0.40% | ~22 |
-| Valley of Wonders | 0.30% | ~16 |
 | Impenetrable Fortress | 0.30% | ~16 |
 | Here be Dragons | 0.30% | ~16 |
 | Tipping the Scales | 0.30% | ~16 |
 | Blood of the Dragon | 0.30% | ~16 |
-| Mighty Hoard | 0.30% | ~16 |
 | Prometheus Avenged | 0.30% | ~16 |
 | A Conqueror's Cohort | 0.30% | ~16 |
 | Return of the Wizard King | 0.20% | ~11 |
@@ -66,8 +66,8 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,379 (Ranked 184)  
-Completed: 7 (0.13%) (Ranked 259)  
+Progressed: 5,380 (Ranked 184)  
+Completed: 7 (0.13%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,11 +240,11 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
-| 2023-11-12 | 5,379 | 7 |
+| 2023-11-12 | 5,380 | 7 |
 ## Awards
-Max (Great for Beginners): 32  (Ranked 481)  
+Max (Great for Beginners): 32  (Ranked 482)  
 Sum: 53 (Ranked 474)  
-Diff (max vs sum): 7  
+Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |

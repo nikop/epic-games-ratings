@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 154,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 17,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8005,10 +8005,10 @@
       "Count": 3515
     }
   ],
-  "EOS_Progressed": 234746,
+  "EOS_Progressed": 234755,
   "EOS_Completed": 2442,
-  "EOS_NewPlayers": 994,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 997,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -31085,6 +31085,11 @@
       "Time": "2023-11-12T18:08:36.9356087+00:00",
       "NumProgressed": 234746,
       "NumCompleted": 2442
+    },
+    {
+      "Time": "2023-11-12T19:07:55.6711005+00:00",
+      "NumProgressed": 234755,
+      "NumCompleted": 2442
     }
   ],
   "TotalAchievements": 532,
@@ -31464,7 +31469,7 @@
       "Name": "Beast Intentions",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "objective_completed_110",
@@ -32768,7 +32773,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "objective_completed_34",
@@ -35351,21 +35356,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201020,
+      "Progressed": 201029,
       "Completed": 3919
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 234746,
+      "Progressed": 234755,
       "Completed": 2442
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-12T10:59:22.0398349+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:08:36.9356082+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:07:55.6711003+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:59:41.325583+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:08:36.9385187+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:59:39.8481473+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:07:55.6733466+00:00"
 }

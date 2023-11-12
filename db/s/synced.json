@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 299,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1029,7 +1029,7 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66487,
+  "EOS_Progressed": 66493,
   "EOS_Completed": 32,
   "EOS_NewPlayers": 612,
   "EOS_NewCompleters": 5,
@@ -8869,6 +8869,11 @@
       "Time": "2023-11-12T18:05:57.5694521+00:00",
       "NumProgressed": 66487,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-12T19:05:30.3823261+00:00",
+      "NumProgressed": 66493,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8881,7 +8886,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22606
+      "UsersEstimate": 22608
     },
     {
       "ID": "10",
@@ -8921,7 +8926,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3989
+      "UsersEstimate": 3990
     },
     {
       "ID": "15",
@@ -8945,7 +8950,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11303
+      "UsersEstimate": 11304
     },
     {
       "ID": "3",
@@ -8953,7 +8958,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8643
+      "UsersEstimate": 8644
     },
     {
       "ID": "4",
@@ -8977,7 +8982,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3989
+      "UsersEstimate": 3990
     },
     {
       "ID": "7",
@@ -9008,7 +9013,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66487,
+      "Progressed": 66493,
       "Completed": 32
     }
   ],
@@ -9016,8 +9021,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-12T13:59:42.5061636+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:05:57.5694515+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:05:30.3823258+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6308067+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:59:56.7663767+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:05:57.5695129+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:59:57.0862206+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:05:30.3823745+00:00"
 }

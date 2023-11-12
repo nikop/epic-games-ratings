@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4018,9 +4018,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 482786,
+  "EOS_Progressed": 482813,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 5314,
+  "EOS_NewPlayers": 5260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27523,6 +27523,11 @@
       "Time": "2023-11-12T18:05:54.3703301+00:00",
       "NumProgressed": 482786,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-12T19:05:26.6910334+00:00",
+      "NumProgressed": 482813,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -27590,7 +27595,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19311
+      "UsersEstimate": 19313
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -27622,7 +27627,7 @@
       "Name": "Grounded",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     },
     {
       "ID": "ACH_HIT_RUN",
@@ -27694,7 +27699,7 @@
       "Name": "Play to Win",
       "Percentage": 0.8,
       "XP": 80,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     },
     {
       "ID": "ACH_POINT_SHOOTING",
@@ -27702,7 +27707,7 @@
       "Name": "Point Shooting",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19311
+      "UsersEstimate": 19313
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -27798,7 +27803,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24139
+      "UsersEstimate": 24141
     },
     {
       "ID": "ACH_WET_FEET",
@@ -27806,22 +27811,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 19311
+      "UsersEstimate": 19313
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 482786,
+      "Progressed": 482813,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2023-11-12T16:01:09.3018085+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:05:54.3703293+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:05:26.6910331+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:56.866497+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:00:13.8523167+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:05:54.3705024+00:00"
+  "LastUpdate_Ratings": "2023-11-12T19:00:15.803812+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:05:26.6911853+00:00"
 }

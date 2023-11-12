@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,059 |
-| Off to a good start | 67.00% | ~797 |
-| Do... or do not. There is no try | 51.00% | ~607 |
-| A good blaster at your side | 31.00% | ~369 |
-| I suggest a new strategy | 20.00% | ~238 |
-| Scrap collector | 19.00% | ~226 |
-| Great shot, kid! | 17.00% | ~202 |
-| All right, I'll give it a try | 16.00% | ~190 |
-| The power of the Force | 15.00% | ~178 |
-| Together we can rule the galaxy | 15.00% | ~178 |
-| Shoot first | 15.00% | ~178 |
+| New Recruit | 89.00% | ~1,062 |
+| Off to a good start | 67.00% | ~799 |
+| Do... or do not. There is no try | 51.00% | ~608 |
+| A good blaster at your side | 31.00% | ~370 |
+| I suggest a new strategy | 20.00% | ~239 |
+| Scrap collector | 19.00% | ~227 |
+| Great shot, kid! | 17.00% | ~203 |
+| All right, I'll give it a try | 16.00% | ~191 |
+| The power of the Force | 15.00% | ~179 |
+| Together we can rule the galaxy | 15.00% | ~179 |
+| Shoot first | 15.00% | ~179 |
 | Collector | 14.00% | ~167 |
 | Tell Jabba that I've got his money | 10.00% | ~119 |
 | Best star-pilot in the galaxy | 10.00% | ~119 |
@@ -22,11 +22,11 @@
 | Never tell me the odds! | 9.00% | ~107 |
 | What's the cargo? | 8.00% | ~95 |
 | A cunning warrior | 8.00% | ~95 |
-| Judge me by my size, do you? | 7.00% | ~83 |
-| "Gonk? Gonk!" | 6.00% | ~71 |
-| Distinguished | 6.00% | ~71 |
-| Impressive. Most impressive. | 6.00% | ~71 |
-| Support the troops | 6.00% | ~71 |
+| Judge me by my size, do you? | 7.00% | ~84 |
+| "Gonk? Gonk!" | 6.00% | ~72 |
+| Distinguished | 6.00% | ~72 |
+| Impressive. Most impressive. | 6.00% | ~72 |
+| Support the troops | 6.00% | ~72 |
 | A tremor in the Force | 5.00% | ~60 |
 | Safety ain't the point of a joyride | 4.00% | ~48 |
 | Not bad for a little furball | 4.00% | ~48 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,190 (Ranked 243)  
+Progressed: 1,193 (Ranked 242)  
 Completed: 1 (0.08%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 1 (0.08%) (Ranked 284)
 | 2023-11-09 | 1,130 | 1 |
 | 2023-11-10 | 1,147 | 1 |
 | 2023-11-11 | 1,176 | 1 |
-| 2023-11-12 | 1,190 | 1 |
+| 2023-11-12 | 1,193 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

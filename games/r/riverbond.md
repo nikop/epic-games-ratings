@@ -6,48 +6,48 @@ Number of Ratings: 617  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,831 |
-| Now You're Talking | 62.00% | ~329,336 |
-| Steel Yourself | 62.00% | ~329,336 |
-| Window Dressing | 50.00% | ~265,594 |
-| Trigger Happy | 46.00% | ~244,346 |
-| Riverborn | 45.00% | ~239,034 |
-| Starry Eyed | 34.00% | ~180,604 |
-| Poking Around | 34.00% | ~180,604 |
-| Talk of the Town | 24.00% | ~127,485 |
-| AAARR! | 23.00% | ~122,173 |
-| Hello Darkness | 23.00% | ~122,173 |
-| Wind At Our Backs | 22.00% | ~116,861 |
-| To the Beat | 20.00% | ~106,237 |
-| Sunny Shores | 17.00% | ~90,302 |
-| Sunday Best | 16.00% | ~84,990 |
-| To Victory! | 15.00% | ~79,678 |
-| Two of a Kind | 14.00% | ~74,366 |
-| Keep On Trucking | 13.00% | ~69,054 |
-| Going on an Adventure | 11.00% | ~58,431 |
-| Make Peace, Not War | 11.00% | ~58,431 |
-| Walking The Line | 10.00% | ~53,119 |
-| Not So Cute Anymore | 10.00% | ~53,119 |
-| Road Less Travelled | 9.00% | ~47,807 |
-| Lost and Found | 9.00% | ~47,807 |
-| Under the Radar | 8.00% | ~42,495 |
-| Partner in Crime | 7.00% | ~37,183 |
-| Hard to Hear | 7.00% | ~37,183 |
-| Moving On Up | 6.00% | ~31,871 |
-| Owl Knows Best | 6.00% | ~31,871 |
-| Mind the Moose | 6.00% | ~31,871 |
-| Oh, Romeo! | 6.00% | ~31,871 |
-| Dressed to Kill | 6.00% | ~31,871 |
-| Beast Mode | 6.00% | ~31,871 |
-| Noble Intentions | 5.00% | ~26,559 |
-| Rising Star | 5.00% | ~26,559 |
-| Slime Slayer | 5.00% | ~26,559 |
-| Privacy, Please! | 4.00% | ~21,247 |
-| Silky Smooth | 4.00% | ~21,247 |
-| Hash It Over | 4.00% | ~21,247 |
-| Biting Tongue | 4.00% | ~21,247 |
-| What a Catch! | 4.00% | ~21,247 |
-| Hit the Spot | 4.00% | ~21,247 |
+| First Step | 70.00% | ~371,839 |
+| Now You're Talking | 62.00% | ~329,343 |
+| Steel Yourself | 62.00% | ~329,343 |
+| Window Dressing | 50.00% | ~265,599 |
+| Trigger Happy | 46.00% | ~244,351 |
+| Riverborn | 45.00% | ~239,039 |
+| Starry Eyed | 34.00% | ~180,607 |
+| Poking Around | 34.00% | ~180,607 |
+| Talk of the Town | 24.00% | ~127,488 |
+| AAARR! | 23.00% | ~122,176 |
+| Hello Darkness | 23.00% | ~122,176 |
+| Wind At Our Backs | 22.00% | ~116,864 |
+| To the Beat | 20.00% | ~106,240 |
+| Sunny Shores | 17.00% | ~90,304 |
+| Sunday Best | 16.00% | ~84,992 |
+| To Victory! | 15.00% | ~79,680 |
+| Two of a Kind | 14.00% | ~74,368 |
+| Keep On Trucking | 13.00% | ~69,056 |
+| Going on an Adventure | 11.00% | ~58,432 |
+| Make Peace, Not War | 11.00% | ~58,432 |
+| Walking The Line | 10.00% | ~53,120 |
+| Not So Cute Anymore | 10.00% | ~53,120 |
+| Road Less Travelled | 9.00% | ~47,808 |
+| Lost and Found | 9.00% | ~47,808 |
+| Under the Radar | 8.00% | ~42,496 |
+| Partner in Crime | 7.00% | ~37,184 |
+| Hard to Hear | 7.00% | ~37,184 |
+| Moving On Up | 6.00% | ~31,872 |
+| Owl Knows Best | 6.00% | ~31,872 |
+| Mind the Moose | 6.00% | ~31,872 |
+| Oh, Romeo! | 6.00% | ~31,872 |
+| Dressed to Kill | 6.00% | ~31,872 |
+| Beast Mode | 6.00% | ~31,872 |
+| Noble Intentions | 5.00% | ~26,560 |
+| Rising Star | 5.00% | ~26,560 |
+| Slime Slayer | 5.00% | ~26,560 |
+| Privacy, Please! | 4.00% | ~21,248 |
+| Silky Smooth | 4.00% | ~21,248 |
+| Hash It Over | 4.00% | ~21,248 |
+| Biting Tongue | 4.00% | ~21,248 |
+| What a Catch! | 4.00% | ~21,248 |
+| Hit the Spot | 4.00% | ~21,248 |
 | Talk the Talk | 3.00% | ~15,936 |
 | Skin in the Game | 3.00% | ~15,936 |
 | Caving In | 3.00% | ~15,936 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,594 |
 | Point Taken | 0.20% | ~1,062 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,187 (Ranked 35)  
+Progressed: 531,198 (Ranked 35)  
 Completed: 497 (0.09%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 497 (0.09%) (Ranked 277)
 | 2023-11-09 | 530,957 | 497 |
 | 2023-11-10 | 531,024 | 497 |
 | 2023-11-11 | 531,124 | 497 |
-| 2023-11-12 | 531,187 | 497 |
+| 2023-11-12 | 531,198 | 497 |
 ## Awards
 Max (Relaxing): 20  (Ranked 541)  
 Sum: 20 (Ranked 542)  

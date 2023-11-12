@@ -14,7 +14,7 @@
 | Team Builder | 20.00% | ~217 |
 | Aggressive Antivirus | 15.00% | ~163 |
 | Long Live Rock | 15.00% | ~163 |
-| Effective Efficiency | 13.00% | ~141 |
+| Effective Efficiency | 14.00% | ~152 |
 | Unblurred Lines | 12.00% | ~130 |
 | Endlessly Effective | 12.00% | ~130 |
 | Obsessively Thorough | 11.00% | ~119 |

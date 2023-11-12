@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2112,
+  "EOS_Progressed": 2113,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -4772,6 +4772,11 @@
       "Time": "2023-11-12T17:09:36.6724359+00:00",
       "NumProgressed": 2112,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T19:09:06.3002602+00:00",
+      "NumProgressed": 2113,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4784,7 +4789,7 @@
       "Name": "First Love",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -4872,7 +4877,7 @@
       "Name": "Legendary!!!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -4912,7 +4917,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -5008,7 +5013,7 @@
       "Name": "I Make the Rules!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ML_ACHIEVEMENT_30",
@@ -5072,7 +5077,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -5080,7 +5085,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5136,7 +5141,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5175,14 +5180,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2112,
+      "Progressed": 2113,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:09:40.9185737+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:09:06.30026+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:59:22.7389326+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:09:40.9186467+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:59:17.5493776+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:09:06.3003127+00:00"
 }

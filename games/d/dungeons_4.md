@@ -7,17 +7,17 @@
 | The Last Stand | 85.00% | ~196 |
 | Thalya – Simply Immortal | 85.00% | ~196 |
 | For the Horde! | 77.00% | ~177 |
-| Hammer Time, Round Two | 73.00% | ~168 |
+| Hammer Time, Round Two | 74.00% | ~170 |
 | Thalya's Concentrated Fury | 65.00% | ~150 |
-| The Hellwoods | 62.00% | ~143 |
+| The Hellwoods | 63.00% | ~145 |
 | Experienced Thalya | 55.00% | ~127 |
-| Master of Magic | 53.00% | ~122 |
-| The Plains of Strothalm | 52.00% | ~120 |
+| Master of Magic | 54.00% | ~124 |
+| The Plains of Strothalm | 54.00% | ~124 |
 | Bad Elves Go Everywhere | 51.00% | ~117 |
-| Trap Master | 49.00% | ~113 |
+| Trap Master | 50.00% | ~115 |
 | Magic Accidents | 48.00% | ~110 |
 | Unicorn steaks – fresh off the hoof! | 48.00% | ~110 |
-| Minions, Minions! | 43.00% | ~99 |
+| Minions, Minions! | 45.00% | ~104 |
 | Heroes’ Gorge | 42.00% | ~97 |
 | YOU SHALL NOT PASS! | 33.00% | ~76 |
 | The Ascent | 27.00% | ~62 |
@@ -25,14 +25,14 @@
 | Mana Cannon | 24.00% | ~55 |
 | Pure Dynamite! | 24.00% | ~55 |
 | Hard Work | 23.00% | ~53 |
-| The Big Eaty | 19.00% | ~44 |
+| The Big Eaty | 20.00% | ~46 |
 | “… like son” | 13.00% | ~30 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 10.00% | ~23 |
-| Dungeonlord Gorgu | 10.00% | ~23 |
-| Shame! Shame! Shame! | 10.00% | ~23 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 11.00% | ~25 |
+| Dungeonlord Gorgu | 11.00% | ~25 |
+| Shame! Shame! Shame! | 11.00% | ~25 |
 | Sacrificial Pit = Garbage Disposal? | 9.00% | ~21 |
-| Hungry, Hungry Gorgu! | 8.00% | ~18 |
-| The Cathedral of Light | 8.00% | ~18 |
+| Hungry, Hungry Gorgu! | 9.00% | ~21 |
+| The Cathedral of Light | 9.00% | ~21 |
 | Unstoppable Horde | 7.00% | ~16 |
 | Tanos' Crusade Against Thalya | 7.00% | ~16 |
 | Forbidden Knowledge | 6.00% | ~14 |
@@ -43,16 +43,16 @@
 | Stop Tanos! | 4.00% | ~9 |
 | Bonus Evilness | 3.00% | ~7 |
 | If Looks Could Kill | 3.00% | ~7 |
+| The Finitude Drill | 3.00% | ~7 |
 | My Little Torture Chamber | 2.00% | ~5 |
 | Gorgu is in the Best of Health | 2.00% | ~5 |
 | Mirror, Mirror | 2.00% | ~5 |
 | Laser Eyes Are So Useless | 2.00% | ~5 |
-| The Finitude Drill | 2.00% | ~5 |
 | Sabotage! | 2.00% | ~5 |
+| Untouchable | 0.90% | ~2 |
 | Doom Hill | 0.90% | ~2 |
+| Lavalumps on Ice! | 0.90% | ~2 |
 | Rubble and Ashes | 0.90% | ~2 |
-| Untouchable | 0.40% | ~1 |
-| Lavalumps on Ice! | 0.40% | ~1 |
 | Raiders of the Lost Stone | 0.40% | ~1 |
 | Brimstone Shaken, Not Stirred | 0.40% | ~1 |
 | No Mana, No Cry | 0.40% | ~1 |

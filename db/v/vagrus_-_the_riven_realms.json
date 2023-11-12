@@ -2,10 +2,10 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 190,
+  "EOS_Progressed": 191,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -716,6 +716,11 @@
       "Time": "2023-11-12T11:05:15.4808794+00:00",
       "NumProgressed": 190,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T19:05:32.5833719+00:00",
+      "NumProgressed": 191,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1045,9 +1050,9 @@
       "ID": "Vanilla_FailedContract",
       "SetID": "27kik8p",
       "Name": "Breached",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 17
     },
     {
       "ID": "Vanilla_Finndurarth",
@@ -1277,9 +1282,9 @@
       "ID": "Vanilla_PressGanged",
       "SetID": "27kik8p",
       "Name": "Press-ganged",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 82
+      "UsersEstimate": 80
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1343,7 +1348,7 @@
       "Name": "A Second Chance",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1407,7 +1412,7 @@
       "Name": "The Package",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -1518,7 +1523,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 190,
+      "Progressed": 191,
       "Completed": 0
     }
   ],
@@ -1526,8 +1531,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:05:59.6199046+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:05:32.5833717+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.6346975+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:57:54.2550469+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:05:59.6200343+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:57:33.2855454+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:05:32.5835319+00:00"
 }

@@ -5,33 +5,33 @@ Rating: 4.41 (Ranked 721)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 14.00% | ~2,620 |
-| Sector 2 | 13.00% | ~2,432 |
-| Crush That Cube! | 11.00% | ~2,058 |
-| Sector 3 | 11.00% | ~2,058 |
-| Crush That Ball! | 9.00% | ~1,684 |
-| Sector 4 | 9.00% | ~1,684 |
-| Sector 5 | 6.00% | ~1,123 |
-| Sector 6 | 5.00% | ~936 |
-| Feeling the Blues | 4.00% | ~748 |
-| Squished | 4.00% | ~748 |
-| Finale | 3.00% | ~561 |
-| Sector 7 | 3.00% | ~561 |
-| Did That Work? -- No! | 3.00% | ~561 |
-| Master Room | 2.00% | ~374 |
+| Sector 1 | 14.00% | ~2,623 |
+| Sector 2 | 13.00% | ~2,436 |
+| Crush That Cube! | 11.00% | ~2,061 |
+| Sector 3 | 11.00% | ~2,061 |
+| Crush That Ball! | 9.00% | ~1,686 |
+| Sector 4 | 9.00% | ~1,686 |
+| Sector 5 | 6.00% | ~1,124 |
+| Sector 6 | 5.00% | ~937 |
+| Feeling the Blues | 4.00% | ~749 |
+| Squished | 4.00% | ~749 |
+| Finale | 3.00% | ~562 |
+| Sector 7 | 3.00% | ~562 |
+| Did That Work? -- No! | 3.00% | ~562 |
+| Master Room | 2.00% | ~375 |
 | Bronze Trophy | 1.00% | ~187 |
 | The Puzzle Master | 1.00% | ~187 |
-| Hopefully that's all of them! | 0.90% | ~168 |
-| Phew! | 0.90% | ~168 |
-| Silver Trophy | 0.90% | ~168 |
-| Completed It. | 0.90% | ~168 |
+| Hopefully that's all of them! | 0.90% | ~169 |
+| Phew! | 0.90% | ~169 |
+| Silver Trophy | 0.90% | ~169 |
+| Completed It. | 0.90% | ~169 |
 | The Collector | 0.80% | ~150 |
 | Master Of The Collectables | 0.80% | ~150 |
 | Gold Trophy | 0.80% | ~150 |
 | Maxed Out | 0.80% | ~150 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,711 (Ranked 138)  
-Completed: 48 (0.26%) (Ranked 234)  
+Progressed: 18,736 (Ranked 138)  
+Completed: 49 (0.26%) (Ranked 234)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -59,7 +59,7 @@ Completed: 48 (0.26%) (Ranked 234)
 | 2023-11-09 | 17,550 | 38 |
 | 2023-11-10 | 17,953 | 39 |
 | 2023-11-11 | 18,423 | 45 |
-| 2023-11-12 | 18,711 | 48 |
+| 2023-11-12 | 18,736 | 49 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

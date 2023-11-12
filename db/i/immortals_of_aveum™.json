@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 213,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -1222,6 +1222,11 @@
       "Time": "2023-11-12T17:08:22.5411774+00:00",
       "NumProgressed": 265,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T19:07:49.2651163+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1234,7 +1239,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_10",
@@ -1242,7 +1247,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "achievement_11",
@@ -1250,7 +1255,7 @@
       "Name": "The Means to Save It",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievement_12",
@@ -1322,7 +1327,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_20",
@@ -1378,7 +1383,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "achievement_36",
@@ -1410,7 +1415,7 @@
       "Name": "No More Names",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_41",
@@ -1466,7 +1471,7 @@
       "Name": "Enlisted",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "achievement_49",
@@ -1528,9 +1533,9 @@
       "ID": "achievement_6",
       "SetID": "18al4io",
       "Name": "Thrada-Kul",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "achievement_60",
@@ -1609,7 +1614,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 1
     }
   ],
@@ -1617,8 +1622,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-12T02:59:37.0772837+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:07:10.5551241+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:07:49.2651161+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:59:44.3946702+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:07:10.5551761+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:59:43.3500594+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:07:49.2651537+00:00"
 }

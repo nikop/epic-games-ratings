@@ -1,27 +1,27 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.66 (Ranked 294)  
+Rating: 4.66 (Ranked 293)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 73.00% | ~697 |
-| It’s Heating up! | 70.00% | ~668 |
+| Breathe In… Breathe Out… | 73.00% | ~698 |
+| It’s Heating up! | 69.00% | ~660 |
 | Let’s patch things up | 65.00% | ~621 |
 | I can fix it! | 63.00% | ~602 |
-| Post No Bills | 55.00% | ~525 |
-| Truly Shocking! | 48.00% | ~458 |
+| Post No Bills | 55.00% | ~526 |
+| Truly Shocking! | 48.00% | ~459 |
 | Critical Thinker | 36.00% | ~344 |
-| Always Finding Your Mark | 30.00% | ~286 |
-| The Weight of the World | 30.00% | ~286 |
+| Always Finding Your Mark | 30.00% | ~287 |
+| The Weight of the World | 30.00% | ~287 |
 | Act I Complete | 29.00% | ~277 |
 | A drop in the Ocean | 29.00% | ~277 |
 | No Niños | 27.00% | ~258 |
 | I ain’t afraid of no Ghost | 24.00% | ~229 |
 | Act II Complete | 22.00% | ~210 |
-| A successful procedure! | 19.00% | ~181 |
-| Bing Bang BOOM | 19.00% | ~181 |
+| A successful procedure! | 19.00% | ~182 |
+| Bing Bang BOOM | 19.00% | ~182 |
 | Breaking the Ice | 18.00% | ~172 |
 | Solidarity Forever | 12.00% | ~115 |
 | A Tucked Tale | 10.00% | ~96 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 955 (Ranked 257)  
+Progressed: 956 (Ranked 257)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -159,7 +159,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-07 | 950 | 0 |
 | 2023-11-08 | 953 | 0 |
 | 2023-11-11 | 954 | 0 |
-| 2023-11-12 | 955 | 0 |
+| 2023-11-12 | 956 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

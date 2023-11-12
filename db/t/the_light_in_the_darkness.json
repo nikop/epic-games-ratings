@@ -4,8 +4,8 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
     "PcReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2630,
+  "EOS_Progressed": 2631,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 9.05,
   "EosHistory": [
@@ -7136,6 +7136,11 @@
       "Time": "2023-11-12T18:09:26.6443899+00:00",
       "NumProgressed": 2630,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-11-12T19:08:50.326639+00:00",
+      "NumProgressed": 2631,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 12,
@@ -7147,7 +7152,7 @@
       "Name": "Arranging Boxes",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "Bernard",
@@ -7242,7 +7247,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2630,
+      "Progressed": 2631,
       "Completed": 238
     }
   ],
@@ -7250,8 +7255,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:09:26.6443889+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:08:50.3266385+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:36.1889415+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:58:24.0163115+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:09:26.6444711+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:58:08.2094184+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:08:50.3266959+00:00"
 }

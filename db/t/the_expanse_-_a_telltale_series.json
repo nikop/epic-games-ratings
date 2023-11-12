@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14888,
+  "EOS_Progressed": 14890,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 2,
@@ -11072,6 +11072,11 @@
       "Time": "2023-11-12T18:05:22.7759121+00:00",
       "NumProgressed": 14888,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-12T19:04:52.6016813+00:00",
+      "NumProgressed": 14890,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11178,9 +11183,9 @@
       "ID": "20",
       "SetID": "458bbdk",
       "Name": "Thorston Mayer",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 149
+      "UsersEstimate": 298
     },
     {
       "ID": "21",
@@ -11274,9 +11279,9 @@
       "ID": "4",
       "SetID": "458bbdk",
       "Name": "Debris Spree",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 25,
-      "UsersEstimate": 74
+      "UsersEstimate": 60
     },
     {
       "ID": "5",
@@ -11363,13 +11368,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14888,
+      "Progressed": 14890,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 842,
+      "Progressed": 844,
       "Completed": 536
     }
   ],
@@ -11377,8 +11382,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:05:22.7759113+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:04:52.601681+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:59:38.5722483+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:05:22.7760077+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:59:36.495886+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:04:52.6017466+00:00"
 }

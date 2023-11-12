@@ -247,7 +247,7 @@ Completed: 2 (0.07%) (Ranked 288)
 | 2023-11-11 | 3,066 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 56  (Ranked 415)  
-Sum: 546 (Ranked 317)  
+Sum: 547 (Ranked 317)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
@@ -261,7 +261,7 @@ Diff (max vs sum): 98
 | This game is Extremely Fun | 45 |
 | This game is Relaxing | 43 |
 | This game has Quickly Understood Controls | 38 |
-| This game is Educational | 36 |
+| This game is Educational | 37 |
 | This game has Challenging Combat | 30 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -434,3 +434,4 @@ Diff (max vs sum): 98
 | 2023-11-03 | 4.69 | - | 56 | 542 |
 | 2023-11-07 | 4.69 | - | 56 | 543 |
 | 2023-11-11 | 4.69 | - | 56 | 546 |
+| 2023-11-12 | 4.69 | - | 56 | 547 |

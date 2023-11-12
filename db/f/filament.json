@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 301,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 234,
-  "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -312,9 +312,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 205186,
+  "EOS_Progressed": 205188,
   "EOS_Completed": 527,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 425,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -22447,6 +22447,11 @@
       "Time": "2023-11-12T18:07:06.9005853+00:00",
       "NumProgressed": 205186,
       "NumCompleted": 527
+    },
+    {
+      "Time": "2023-11-12T19:07:45.6530543+00:00",
+      "NumProgressed": 205188,
+      "NumCompleted": 527
     }
   ],
   "TotalAchievements": 29,
@@ -22482,7 +22487,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 192875
+      "UsersEstimate": 192877
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -22514,7 +22519,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -22666,7 +22671,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -22689,7 +22694,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 205186,
+      "Progressed": 205188,
       "Completed": 527
     }
   ],
@@ -22697,8 +22702,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2023-11-11T09:02:28.7109082+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:07:06.9005847+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:07:45.6530541+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:01.2634588+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:57:58.8685504+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:07:06.9007368+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:57:38.4956733+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:07:45.6531434+00:00"
 }

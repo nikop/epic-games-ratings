@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Struck A Pose | 88.00% | ~18,584 |
-| Fried Friendship | 87.00% | ~18,373 |
-| Look At Him Go | 78.00% | ~16,472 |
-| On Rails Experience | 56.00% | ~11,826 |
-| A Daring Devil | 52.00% | ~10,981 |
-| Break the Bank | 43.00% | ~9,081 |
-| It Took Two | 42.00% | ~8,870 |
-| Bug Sized Relaxation | 21.00% | ~4,435 |
-| Plastic Prison Breakers | 17.00% | ~3,590 |
-| Terror Of The Seven Seas | 15.00% | ~3,168 |
-| Realize Your Art | 12.00% | ~2,534 |
-| Force Triangulated | 12.00% | ~2,534 |
-| Meditation Maestro | 12.00% | ~2,534 |
-| Lost And Found | 10.00% | ~2,112 |
-| Something Fishy | 10.00% | ~2,112 |
+| Struck A Pose | 88.00% | ~18,592 |
+| Fried Friendship | 87.00% | ~18,380 |
+| Look At Him Go | 78.00% | ~16,479 |
+| On Rails Experience | 56.00% | ~11,831 |
+| A Daring Devil | 52.00% | ~10,986 |
+| Break the Bank | 43.00% | ~9,085 |
+| It Took Two | 42.00% | ~8,873 |
+| Bug Sized Relaxation | 21.00% | ~4,437 |
+| Plastic Prison Breakers | 17.00% | ~3,592 |
+| Terror Of The Seven Seas | 15.00% | ~3,169 |
+| Realize Your Art | 12.00% | ~2,535 |
+| Force Triangulated | 12.00% | ~2,535 |
+| Meditation Maestro | 12.00% | ~2,535 |
+| Lost And Found | 10.00% | ~2,113 |
+| Something Fishy | 10.00% | ~2,113 |
 | Platforming Prodigy | 9.00% | ~1,901 |
-| Snackosaurus | 8.00% | ~1,689 |
-| Mood Swing | 7.00% | ~1,478 |
+| Snackosaurus | 8.00% | ~1,690 |
+| Mood Swing | 7.00% | ~1,479 |
 | Minigame Megalomania | 4.00% | ~845 |
 | Faraway Frequencies | 4.00% | ~845 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,118 (Ranked 130)  
-Completed: 89 (0.42%) (Ranked 205)  
+Progressed: 21,127 (Ranked 130)  
+Completed: 90 (0.43%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,4 +83,4 @@ Completed: 89 (0.42%) (Ranked 205)
 | 2023-11-09 | 19,926 | 87 |
 | 2023-11-10 | 20,235 | 87 |
 | 2023-11-11 | 20,743 | 88 |
-| 2023-11-12 | 21,118 | 89 |
+| 2023-11-12 | 21,127 | 90 |

@@ -6,20 +6,20 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~537,582 |
-| Every story has a beginning | 36.00% | ~244,974 |
-| The first of many | 31.00% | ~210,950 |
-| Positive word of mouth | 18.00% | ~122,487 |
-| Lawn in the U.S.A. | 15.00% | ~102,072 |
-| Blade Runner | 9.00% | ~61,243 |
-| Credible | 7.00% | ~47,634 |
-| Teamwork makes the dream work | 6.00% | ~40,829 |
-| Where there's muck there's brass | 4.00% | ~27,219 |
-| Bigger and better | 4.00% | ~27,219 |
-| Aggressive expansion | 4.00% | ~27,219 |
-| Size isn't everything | 3.00% | ~20,414 |
-| Close shave | 3.00% | ~20,414 |
-| Established | 3.00% | ~20,414 |
+| The dream begins | 79.00% | ~537,596 |
+| Every story has a beginning | 36.00% | ~244,980 |
+| The first of many | 31.00% | ~210,955 |
+| Positive word of mouth | 18.00% | ~122,490 |
+| Lawn in the U.S.A. | 15.00% | ~102,075 |
+| Blade Runner | 9.00% | ~61,245 |
+| Credible | 7.00% | ~47,635 |
+| Teamwork makes the dream work | 6.00% | ~40,830 |
+| Where there's muck there's brass | 4.00% | ~27,220 |
+| Bigger and better | 4.00% | ~27,220 |
+| Aggressive expansion | 4.00% | ~27,220 |
+| Size isn't everything | 3.00% | ~20,415 |
+| Close shave | 3.00% | ~20,415 |
+| Established | 3.00% | ~20,415 |
 | Fighting on all fronts | 2.00% | ~13,610 |
 | Mighty Mowing Park Ranger | 2.00% | ~13,610 |
 | Every good deed… | 2.00% | ~13,610 |
@@ -27,41 +27,41 @@ Number of Ratings: 5,086  (23.09.2022)
 | The top of the mountain | 2.00% | ~13,610 |
 | First step on the ladder | 2.00% | ~13,610 |
 | Trusted | 2.00% | ~13,610 |
-| Earn your stripes | 0.90% | ~6,124 |
-| Lawn & Order | 0.90% | ~6,124 |
-| Jack of all trades | 0.90% | ~6,124 |
-| All hands on deck | 0.90% | ~6,124 |
-| Professional | 0.90% | ~6,124 |
+| Earn your stripes | 0.90% | ~6,125 |
+| Lawn & Order | 0.90% | ~6,125 |
+| Jack of all trades | 0.90% | ~6,125 |
+| All hands on deck | 0.90% | ~6,125 |
+| Professional | 0.90% | ~6,125 |
 | The grass is always greener | 0.80% | ~5,444 |
 | Worked your grass off | 0.80% | ~5,444 |
 | Phoenix rises | 0.40% | ~2,722 |
 | Cut Loose | 0.40% | ~2,722 |
 | Esteemed | 0.40% | ~2,722 |
-| Hard times | 0.30% | ~2,041 |
+| Hard times | 0.30% | ~2,042 |
 | Zero to hero | 0.20% | ~1,361 |
 | In it for the long haul | 0.20% | ~1,361 |
 | Centurion | 0.20% | ~1,361 |
 | Distinguished | 0.20% | ~1,361 |
-| Amateur mower | 0.10% | ~680 |
-| Expert mower | 0.10% | ~680 |
-| Professional mower | 0.10% | ~680 |
-| Lawn on the 4th of July | 0.10% | ~680 |
-| A seat at the round table | 0.10% | ~680 |
-| Home game | 0.10% | ~680 |
-| Excalibur? | 0.10% | ~680 |
-| An axe to grind | 0.10% | ~680 |
-| Elderly chap, big grey beard, pointy hat. | 0.10% | ~680 |
-| Head of the family | 0.10% | ~680 |
-| Spared no expense | 0.10% | ~680 |
-| We’re going to make a fortune with this place | 0.10% | ~680 |
-| Don’t go into the long grass! | 0.10% | ~680 |
-| Clever girl | 0.10% | ~680 |
-| We have a T-Rex | 0.10% | ~680 |
-| Welcome to Dino Safari! | 0.10% | ~680 |
-| Lawn Enforcement Officer | 0.10% | ~680 |
-| Mo mowers, mo problems | 0.10% | ~680 |
+| Amateur mower | 0.10% | ~681 |
+| Expert mower | 0.10% | ~681 |
+| Professional mower | 0.10% | ~681 |
+| Lawn on the 4th of July | 0.10% | ~681 |
+| A seat at the round table | 0.10% | ~681 |
+| Home game | 0.10% | ~681 |
+| Excalibur? | 0.10% | ~681 |
+| An axe to grind | 0.10% | ~681 |
+| Elderly chap, big grey beard, pointy hat. | 0.10% | ~681 |
+| Head of the family | 0.10% | ~681 |
+| Spared no expense | 0.10% | ~681 |
+| We’re going to make a fortune with this place | 0.10% | ~681 |
+| Don’t go into the long grass! | 0.10% | ~681 |
+| Clever girl | 0.10% | ~681 |
+| We have a T-Rex | 0.10% | ~681 |
+| Welcome to Dino Safari! | 0.10% | ~681 |
+| Lawn Enforcement Officer | 0.10% | ~681 |
+| Mo mowers, mo problems | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,483 (Ranked 25)  
+Progressed: 680,501 (Ranked 25)  
 Completed: 17 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 17 (0.00%) (Ranked 347)
 | 2023-11-09 | 679,622 | 17 |
 | 2023-11-10 | 679,882 | 17 |
 | 2023-11-11 | 680,225 | 17 |
-| 2023-11-12 | 680,483 | 17 |
+| 2023-11-12 | 680,501 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 297)  
 Sum: 983 (Ranked 262)  

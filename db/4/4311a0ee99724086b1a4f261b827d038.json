@@ -3,12 +3,12 @@
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
   "Ranking_Rating": 503,
-  "Ranking_Popularity": 492,
-  "Ranking_PopularitySum": 428,
+  "Ranking_Popularity": 482,
+  "Ranking_PopularitySum": 426,
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -483,18 +483,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 126,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2023-11-12T19:02:37.2550537+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 128,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 126,
-  "NumberOfAwardsMax": 30,
+  "NumberOfAwards": 128,
+  "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
     {
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 30
+      "Count": 32
     },
     {
       "Text": "This game is Relaxing",
@@ -533,9 +539,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232020,
+  "EOS_Progressed": 232024,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1261,
+  "EOS_NewPlayers": 1251,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13443,6 +13449,11 @@
       "Time": "2023-11-12T18:09:25.0940578+00:00",
       "NumProgressed": 232020,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T19:08:48.4217337+00:00",
+      "NumProgressed": 232024,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -13511,7 +13522,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 48724
+      "UsersEstimate": 48725
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -13647,7 +13658,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 16241
+      "UsersEstimate": 16242
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -13711,7 +13722,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58005
+      "UsersEstimate": 58006
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -13726,16 +13737,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 232020,
+      "Progressed": 232024,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2023-11-06T21:59:06.6835297+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:09:25.0940572+00:00",
+  "LastChanged": "2023-11-12T19:02:37.2550535+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:08:48.4217332+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:15.7826275+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:03:21.642816+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:09:25.0941611+00:00"
+  "LastUpdate_Ratings": "2023-11-12T19:02:37.2550541+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:08:48.4218152+00:00"
 }

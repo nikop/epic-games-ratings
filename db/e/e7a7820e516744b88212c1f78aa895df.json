@@ -4,8 +4,8 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1120,9 +1120,9 @@
       "ID": "achSponsor1",
       "SetID": "7ji07dj",
       "Name": "Extra Funding",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "achSponsor10",
@@ -1271,8 +1271,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:08:43.5160672+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:08:02.632691+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:23.2690169+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:59:25.5797147+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:08:43.5160941+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:59:20.5120169+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:08:02.6327182+00:00"
 }

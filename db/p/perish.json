@@ -4,8 +4,8 @@
   "ProductSlug": "perish-390141",
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 225,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-02T14:00:00+00:00",
     "PcReleaseDate": "2023-02-02T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3657,
+  "EOS_Progressed": 3659,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3671,6 +3671,11 @@
       "Time": "2023-11-12T11:04:13.4016123+00:00",
       "NumProgressed": 3657,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T19:04:25.1048723+00:00",
+      "NumProgressed": 3659,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 63,
@@ -3810,7 +3815,7 @@
       "Name": "To Suffer is to Learn",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_M_D1",
@@ -3824,9 +3829,9 @@
       "ID": "ACH_M_D2",
       "SetID": "b3fep3o",
       "Name": "War Chest",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 146
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_M_D3",
@@ -4058,7 +4063,7 @@
       "Name": "Initiate\u0027s Resolve",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "ACH_R_A",
@@ -4185,7 +4190,7 @@
     {
       "ID": "b3fep3o",
       "IsBase": true,
-      "Progressed": 3657,
+      "Progressed": 3659,
       "Completed": 0
     }
   ],
@@ -4193,8 +4198,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.0823454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.634947+00:00",
   "LastChanged": "2023-03-31T05:57:37.0823455+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:04:57.6417815+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:04:25.104872+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.8036511+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:00:20.1039038+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:04:57.6418662+00:00"
+  "LastUpdate_Ratings": "2023-11-12T19:00:23.0552514+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:04:25.1049645+00:00"
 }

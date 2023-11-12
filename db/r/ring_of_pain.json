@@ -6,9 +6,9 @@
   "Ranking_Popularity": 131,
   "Ranking_PopularitySum": 83,
   "Ranking_EOS_Progress": 61,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3382,9 +3382,9 @@
       "Count": 742
     }
   ],
-  "EOS_Progressed": 239597,
+  "EOS_Progressed": 239599,
   "EOS_Completed": 288,
-  "EOS_NewPlayers": 372,
+  "EOS_NewPlayers": 370,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -24787,6 +24787,11 @@
       "Time": "2023-11-12T17:09:38.9997184+00:00",
       "NumProgressed": 239597,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-12T19:09:08.5178343+00:00",
+      "NumProgressed": 239599,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25892,22 +25897,22 @@
       "ID": "WEARSAMESETINSLOTS",
       "SetID": "1peahb6",
       "Name": "Matching",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239597,
+      "Progressed": 239599,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1077,
+      "Progressed": 1079,
       "Completed": 374
     }
   ],
@@ -25915,8 +25920,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-12T17:03:11.8457024+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:09:43.039389+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:09:08.5178339+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:03:33.7110712+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:09:43.0397407+00:00"
+  "LastUpdate_Ratings": "2023-11-12T19:02:49.9372296+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:09:08.518098+00:00"
 }

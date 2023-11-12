@@ -6,8 +6,9 @@ Rating: 4.50 (Ranked 588)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,470 |
-| Advancement | 6.00% | ~1,852 |
-| Meticulously Efficient | 6.00% | ~1,852 |
+| Advancement | 6.00% | ~1,853 |
+| Meticulously Efficient | 6.00% | ~1,853 |
+| Clutch Capture | 4.00% | ~1,235 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,235 |
 | Discovery | 4.00% | ~1,235 |
 | Fully Upgraded | 4.00% | ~1,235 |
@@ -16,7 +17,6 @@ Rating: 4.50 (Ranked 588)
 | Teamwork | 4.00% | ~1,235 |
 | Vaporous Expansion | 4.00% | ~1,235 |
 | Animated | 3.00% | ~926 |
-| Clutch Capture | 3.00% | ~926 |
 | Cultured | 3.00% | ~926 |
 | Daily Dose | 3.00% | ~926 |
 | Ghostbuster In Training | 3.00% | ~926 |
@@ -24,18 +24,18 @@ Rating: 4.50 (Ranked 588)
 | Right back at ya | 3.00% | ~926 |
 | There you are! | 3.00% | ~926 |
 | Whoopsie | 3.00% | ~926 |
-| Back Off | 2.00% | ~617 |
-| We have the best insurance | 2.00% | ~617 |
-| Ectoplasmic Entity | 2.00% | ~617 |
-| Legions | 2.00% | ~617 |
-| Pesky Jerks | 2.00% | ~617 |
-| Rift Destroyer | 2.00% | ~617 |
-| Seasoned | 2.00% | ~617 |
-| Side Hustle | 2.00% | ~617 |
-| Skilled | 2.00% | ~617 |
-| Stunner | 2.00% | ~617 |
-| Summoner | 2.00% | ~617 |
-| Welcome to the Crew | 2.00% | ~617 |
+| Back Off | 2.00% | ~618 |
+| We have the best insurance | 2.00% | ~618 |
+| Ectoplasmic Entity | 2.00% | ~618 |
+| Legions | 2.00% | ~618 |
+| Pesky Jerks | 2.00% | ~618 |
+| Rift Destroyer | 2.00% | ~618 |
+| Seasoned | 2.00% | ~618 |
+| Side Hustle | 2.00% | ~618 |
+| Skilled | 2.00% | ~618 |
+| Stunner | 2.00% | ~618 |
+| Summoner | 2.00% | ~618 |
+| Welcome to the Crew | 2.00% | ~618 |
 | Collector | 1.00% | ~309 |
 | Diabolical | 1.00% | ~309 |
 | Escape Artist | 1.00% | ~309 |
@@ -48,7 +48,7 @@ Rating: 4.50 (Ranked 588)
 | Surprise! | 0.80% | ~247 |
 | Therapeutic | 0.60% | ~185 |
 | Rift Seeker | 0.50% | ~154 |
-| Master Collector | 0.40% | ~123 |
+| Master Collector | 0.40% | ~124 |
 | I don't need these | 0.20% | ~62 |
 | Ghost Expert | 0.20% | ~62 |
 | Little Help Here | 0.20% | ~62 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,869 (Ranked 122)  
+Progressed: 30,878 (Ranked 122)  
 Completed: 67 (0.22%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 67 (0.22%) (Ranked 240)
 | 2023-11-09 | 30,630 | 66 |
 | 2023-11-10 | 30,704 | 66 |
 | 2023-11-11 | 30,795 | 67 |
-| 2023-11-12 | 30,869 | 67 |
+| 2023-11-12 | 30,878 | 67 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 246)  
 Sum: 2,764 (Ranked 179)  

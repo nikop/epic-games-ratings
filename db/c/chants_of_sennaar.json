@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.27,
+  "EOS_Completed_Percentage": 5.26,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2270,6 +2270,11 @@
       "Time": "2023-11-12T16:06:41.7602279+00:00",
       "NumProgressed": 531,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-12T19:05:44.7777991+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2369,7 +2374,7 @@
       "Name": "A Link to the Past",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2385,7 +2390,7 @@
       "Name": "Rascal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2457,7 +2462,7 @@
       "Name": "A new dawn",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "PROGRESS_N4",
@@ -2480,14 +2485,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:06:10.6761014+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:05:44.7777988+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:00:10.2634405+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:06:10.6761333+00:00"
+  "LastUpdate_Ratings": "2023-11-12T19:00:12.0313013+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:05:44.777824+00:00"
 }

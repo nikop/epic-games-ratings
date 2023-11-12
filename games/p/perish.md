@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| To Suffer is to Learn | 6.00% | ~219 |
-| Initiate's Resolve | 6.00% | ~219 |
+| To Suffer is to Learn | 6.00% | ~220 |
+| Initiate's Resolve | 6.00% | ~220 |
 | Missilis | 5.00% | ~183 |
 | Modest Earnings | 5.00% | ~183 |
 | Armaments of the Pantheon | 5.00% | ~183 |
@@ -16,12 +16,12 @@
 | Immolator | 4.00% | ~146 |
 | Go For the Head | 4.00% | ~146 |
 | Spartan Sandal | 4.00% | ~146 |
-| War Chest | 4.00% | ~146 |
 | Symbols of Heresy | 4.00% | ~146 |
 | The Sons of Minos | 4.00% | ~146 |
 | Eidola | 4.00% | ~146 |
 | Comedy and Tragedy | 3.00% | ~110 |
 | Pillars of Eternity | 3.00% | ~110 |
+| War Chest | 3.00% | ~110 |
 | Chthonic Investor | 3.00% | ~110 |
 | First Fragment | 3.00% | ~110 |
 | Sisters of the Pantheon | 3.00% | ~110 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,657 (Ranked 195)  
+Progressed: 3,659 (Ranked 195)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 3,645 | 0 |
 | 2023-11-10 | 3,651 | 0 |
 | 2023-11-11 | 3,654 | 0 |
-| 2023-11-12 | 3,657 | 0 |
+| 2023-11-12 | 3,659 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

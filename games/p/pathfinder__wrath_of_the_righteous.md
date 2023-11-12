@@ -6,9 +6,9 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 26.00% | ~3,139 |
+| Devoured by Darkness | 26.00% | ~3,140 |
 | A Spark | 19.00% | ~2,294 |
-| Burning City | 18.00% | ~2,173 |
+| Burning City | 18.00% | ~2,174 |
 | Mythic Choices | 15.00% | ~1,811 |
 | Defender's Heart | 15.00% | ~1,811 |
 | Banner over the Citadel | 13.00% | ~1,570 |
@@ -36,12 +36,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Hanged Man's Notes | 3.00% | ~326 |
 | The Lady of the Forest | 3.00% | ~326 |
 | Beware Still Water | 3.00% | ~326 |
-| Path of the Demon | 2.00% | ~241 |
-| Path of the Aeon | 2.00% | ~241 |
-| Path of the Lich | 2.00% | ~241 |
-| Capitulation Is Now Moot | 2.00% | ~241 |
-| Your First Big Enemy | 2.00% | ~241 |
-| Truly Important Deed | 2.00% | ~241 |
+| Path of the Demon | 2.00% | ~242 |
+| Path of the Aeon | 2.00% | ~242 |
+| Path of the Lich | 2.00% | ~242 |
+| Capitulation Is Now Moot | 2.00% | ~242 |
+| Your First Big Enemy | 2.00% | ~242 |
+| Truly Important Deed | 2.00% | ~242 |
 | Stay Underground | 2.00% | ~217 |
 | Sarkoris Will Be Green | 2.00% | ~217 |
 | The Final Threshold | 1.00% | ~121 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,074 (Ranked 151)  
+Progressed: 12,075 (Ranked 151)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 12,058 | 0 |
 | 2023-11-10 | 12,064 | 0 |
 | 2023-11-11 | 12,067 | 0 |
-| 2023-11-12 | 12,074 | 0 |
+| 2023-11-12 | 12,075 | 0 |
 ## Awards
 Max (Character Customization): 1,738  (Ranked 121)  
 Sum: 7,049 (Ranked 119)  

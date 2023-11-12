@@ -15050,9 +15050,9 @@
       "Count": 12811
     }
   ],
-  "EOS_Progressed": 896428,
+  "EOS_Progressed": 896435,
   "EOS_Completed": 2770,
-  "EOS_NewPlayers": 1024,
+  "EOS_NewPlayers": 1019,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38420,6 +38420,11 @@
       "Time": "2023-11-12T18:05:22.1940041+00:00",
       "NumProgressed": 896428,
       "NumCompleted": 2770
+    },
+    {
+      "Time": "2023-11-12T19:04:52.0280913+00:00",
+      "NumProgressed": 896435,
+      "NumCompleted": 2770
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38446,17 +38451,17 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2689
+      "UsersEstimate": 3586
     },
     {
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5379
+      "UsersEstimate": 6275
     },
     {
       "ID": "Denied",
@@ -38872,7 +38877,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "UltimateSurvivor",
@@ -38967,21 +38972,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896428,
+      "Progressed": 896435,
       "Completed": 2770
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25051,
+      "Progressed": 25058,
       "Completed": 10215
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-12T16:59:07.060409+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:05:22.1940036+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:04:52.0280908+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:59:12.3545874+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:05:22.1942052+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:59:05.4882742+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:04:52.0282407+00:00"
 }

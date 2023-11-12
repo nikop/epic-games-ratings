@@ -4,7 +4,7 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -2724,9 +2724,9 @@
       "ID": "ACH_HOMELEAVER",
       "SetID": "7pam6gn",
       "Name": "Home Leaver",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1080
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -2805,8 +2805,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-11-12T18:09:17.7211298+00:00",
+  "LastChanged_Achievements": "2023-11-12T19:08:40.2539481+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:03.7138858+00:00",
-  "LastUpdate_Ratings": "2023-11-12T17:57:32.3243154+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:09:17.7211574+00:00"
+  "LastUpdate_Ratings": "2023-11-12T18:57:08.0774802+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:08:40.2539746+00:00"
 }

@@ -6,28 +6,28 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,067 |
-| Sword Runner | 61.00% | ~13,698 |
-| Running out of breath | 54.00% | ~12,126 |
-| Wallrunner | 53.00% | ~11,902 |
-| Homerunner | 45.00% | ~10,105 |
-| Out of order | 44.00% | ~9,881 |
-| I call it luck | 43.00% | ~9,656 |
-| Where are my Keys? | 40.00% | ~8,982 |
+| Longrunner | 76.00% | ~17,068 |
+| Sword Runner | 61.00% | ~13,699 |
+| Running out of breath | 54.00% | ~12,127 |
+| Wallrunner | 53.00% | ~11,903 |
+| Homerunner | 45.00% | ~10,106 |
+| Out of order | 44.00% | ~9,882 |
+| I call it luck | 43.00% | ~9,657 |
+| Where are my Keys? | 40.00% | ~8,983 |
 | Back to hell | 37.00% | ~8,309 |
-| Perfection | 32.00% | ~7,186 |
+| Perfection | 32.00% | ~7,187 |
 | Why not both | 30.00% | ~6,737 |
-| Sword to a gunfight | 29.00% | ~6,512 |
-| Upgrades not mandatory | 29.00% | ~6,512 |
+| Sword to a gunfight | 29.00% | ~6,513 |
+| Upgrades not mandatory | 29.00% | ~6,513 |
 | Artificial selection | 28.00% | ~6,288 |
-| Control freak | 27.00% | ~6,063 |
-| Running Wild | 27.00% | ~6,063 |
+| Control freak | 27.00% | ~6,064 |
+| Running Wild | 27.00% | ~6,064 |
 | Finish line | 26.00% | ~5,839 |
-| Unstoppable force | 22.00% | ~4,940 |
-| Wave of mutilation | 22.00% | ~4,940 |
+| Unstoppable force | 22.00% | ~4,941 |
+| Wave of mutilation | 22.00% | ~4,941 |
 | Can't Run Can't Hide | 16.00% | ~3,593 |
 | R is for Running | 16.00% | ~3,593 |
-| Dead in the air | 15.00% | ~3,368 |
+| Dead in the air | 15.00% | ~3,369 |
 | Improvise, adapt, overrun | 12.00% | ~2,695 |
 | Pre-empative strike | 12.00% | ~2,695 |
 | Strike | 12.00% | ~2,695 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~90 |
 | Up Close And Personal | 0.40% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,456 (Ranked 128)  
+Progressed: 22,458 (Ranked 128)  
 Completed: 84 (0.37%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,10 @@ Completed: 84 (0.37%) (Ranked 215)
 | 2023-11-09 | 22,248 | 83 |
 | 2023-11-10 | 22,307 | 83 |
 | 2023-11-11 | 22,383 | 84 |
-| 2023-11-12 | 22,456 | 84 |
+| 2023-11-12 | 22,458 | 84 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 205)  
-Sum: 748 (Ranked 285)  
+Sum: 749 (Ranked 285)  
 Diff (max vs sum): -80  
 | Award | Count |
 | ----- | ----- |
@@ -273,8 +273,8 @@ Diff (max vs sum): -80
 | This game has a Creative Community | 24 |
 | This game is Extremely Fun | 24 |
 | This game has Quickly Understood Controls | 23 |
+| This game has Unique Visuals | 22 |
 | This game is Highly Recommended | 22 |
-| This game has Unique Visuals | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -446,4 +446,4 @@ Diff (max vs sum): -80
 | 2023-11-04 | 4.72 | - | 514 | 706 |
 | 2023-11-07 | 4.72 | - | 517 | 745 |
 | 2023-11-11 | 4.72 | - | 518 | 747 |
-| 2023-11-12 | 4.72 | - | 519 | 748 |
+| 2023-11-12 | 4.72 | - | 519 | 749 |

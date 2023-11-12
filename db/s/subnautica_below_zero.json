@@ -4,11 +4,11 @@
   "ProductSlug": "subnautica-below-zero",
   "Ranking_Rating": 116,
   "Ranking_Popularity": 315,
-  "Ranking_PopularitySum": 247,
+  "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-05-14T00:00:00+00:00",
     "PcReleaseDate": "2021-05-14T00:00:00+00:00",
@@ -1645,10 +1645,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 1158,
       "NumberOfAwardsMax": 151
+    },
+    {
+      "Time": "2023-11-12T19:02:47.9127586+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1159,
+      "NumberOfAwardsMax": 151
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1158,
+  "NumberOfAwards": 1159,
   "NumberOfAwardsMax": 151,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1680,7 +1686,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 121
+      "Count": 122
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1724,8 +1730,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2023-11-12T17:03:10.1686662+00:00",
+  "LastChanged": "2023-11-12T19:02:47.9127585+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:31.9939678+00:00",
-  "LastUpdate_Ratings": "2023-11-12T18:03:31.6984745+00:00",
-  "LastUpdate_Achievements": "2023-11-12T18:04:08.7262643+00:00"
+  "LastUpdate_Ratings": "2023-11-12T19:02:47.9127593+00:00",
+  "LastUpdate_Achievements": "2023-11-12T19:03:30.7994856+00:00"
 }
