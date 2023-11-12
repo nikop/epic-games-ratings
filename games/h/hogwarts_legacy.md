@@ -6,11 +6,11 @@ Rating: 4.76 (Ranked 125)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,317 |
-| First Class Student | 14.00% | ~42,277 |
-| Troll with the Punches | 14.00% | ~42,277 |
-| A Keen Sense of Spell | 13.00% | ~39,257 |
-| A Talent for Spending | 12.00% | ~36,237 |
-| That's a Keeper | 12.00% | ~36,237 |
+| First Class Student | 14.00% | ~42,278 |
+| Troll with the Punches | 14.00% | ~42,278 |
+| A Keen Sense of Spell | 13.00% | ~39,258 |
+| A Talent for Spending | 12.00% | ~36,238 |
+| That's a Keeper | 12.00% | ~36,238 |
 | Grappling with a Graphorn | 11.00% | ~33,218 |
 | The One Who Mastered Memories | 11.00% | ~33,218 |
 | The Hallowed Hero | 11.00% | ~33,218 |
@@ -22,10 +22,10 @@ Rating: 4.76 (Ranked 125)
 | Followed the Butterflies | 10.00% | ~30,198 |
 | Rising From the Ashes | 10.00% | ~30,198 |
 | The Spell Master | 9.00% | ~27,178 |
-| The Avenging Gazelle | 8.00% | ~24,158 |
-| Beast Friends | 8.00% | ~24,158 |
-| A Sallow Grave | 8.00% | ~24,158 |
-| Flight the Good Flight | 8.00% | ~24,158 |
+| The Avenging Gazelle | 8.00% | ~24,159 |
+| Beast Friends | 8.00% | ~24,159 |
+| A Sallow Grave | 8.00% | ~24,159 |
+| Flight the Good Flight | 8.00% | ~24,159 |
 | The Seeker of Knowledge | 6.00% | ~18,119 |
 | The Root of the Problem | 6.00% | ~18,119 |
 | Third Time's a Charm | 6.00% | ~18,119 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,979 (Ranked 50)  
+Progressed: 301,983 (Ranked 50)  
 Completed: 510 (0.17%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 510 (0.17%) (Ranked 255)
 | 2023-11-09 | 301,775 | 505 |
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
-| 2023-11-12 | 301,979 | 510 |
+| 2023-11-12 | 301,983 | 510 |
 ## Awards
 Max (Character Customization): 24,229  (Ranked 17)  
 Sum: 47,981 (Ranked 30)  

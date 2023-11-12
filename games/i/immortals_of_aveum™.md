@@ -5,13 +5,13 @@ Rating: 4.04 (Ranked 985)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~239 |
-| Battlefields Have Memories | 85.00% | ~229 |
+| Unforeseen | 89.00% | ~240 |
+| Battlefields Have Memories | 85.00% | ~230 |
 | Enlisted | 82.00% | ~221 |
-| Maybe Engage a Little | 77.00% | ~207 |
-| No More Names | 62.00% | ~167 |
-| Initiate | 48.00% | ~129 |
-| Thrada-Kul | 43.00% | ~116 |
+| Maybe Engage a Little | 77.00% | ~208 |
+| No More Names | 63.00% | ~170 |
+| Initiate | 49.00% | ~132 |
+| Thrada-Kul | 44.00% | ~119 |
 | Gravity-Challenged Rocks | 33.00% | ~89 |
 | Soldier | 29.00% | ~78 |
 | All the Major Food Groups | 29.00% | ~78 |
@@ -21,8 +21,8 @@ Rating: 4.04 (Ranked 985)
 | The Means to Save It | 19.00% | ~51 |
 | Resilience to Sin | 17.00% | ~46 |
 | A Familiar Nest | 16.00% | ~43 |
+| Geas Aristeya | 16.00% | ~43 |
 | Periapt Alizarin | 16.00% | ~43 |
-| Geas Aristeya | 15.00% | ~40 |
 | A Perfect Cycle | 14.00% | ~38 |
 | Armsman | 14.00% | ~38 |
 | Recruit | 13.00% | ~35 |
@@ -30,9 +30,9 @@ Rating: 4.04 (Ranked 985)
 | Periapt Cerulean | 8.00% | ~22 |
 | Good Boy | 8.00% | ~22 |
 | Periapt Viridian | 7.00% | ~19 |
+| Shroudfane Explorer | 7.00% | ~19 |
 | Best Dressed | 6.00% | ~16 |
-| Shroudfane Explorer | 6.00% | ~16 |
-| Armaments Azure | 5.00% | ~13 |
+| Armaments Azure | 5.00% | ~14 |
 | Armaments Gules | 4.00% | ~11 |
 | Scholar | 3.00% | ~8 |
 | Kitted Out | 3.00% | ~8 |
@@ -53,7 +53,7 @@ Rating: 4.04 (Ranked 985)
 | Tip of the Spear | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 269 (Ranked 350)  
+Progressed: 270 (Ranked 350)  
 Completed: 1 (0.37%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,7 +104,7 @@ Completed: 1 (0.37%) (Ranked 217)
 | 2023-11-09 | 230 | 1 |
 | 2023-11-10 | 242 | 1 |
 | 2023-11-11 | 261 | 1 |
-| 2023-11-12 | 269 | 1 |
+| 2023-11-12 | 270 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

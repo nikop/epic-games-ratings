@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 62,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1249,10 +1249,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 457,
       "NumberOfAwardsMax": 228
+    },
+    {
+      "Time": "2023-11-12T22:57:46.9535161+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 458,
+      "NumberOfAwardsMax": 228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 457,
+  "NumberOfAwards": 458,
   "NumberOfAwardsMax": 228,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1290,7 +1296,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1311,9 +1317,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 236841,
+  "EOS_Progressed": 236852,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1388,
+  "EOS_NewPlayers": 1389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18316,6 +18322,11 @@
       "Time": "2023-11-12T22:08:27.7718893+00:00",
       "NumProgressed": 236841,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-12T23:08:42.4828028+00:00",
+      "NumProgressed": 236852,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18327,7 +18338,7 @@
       "Name": "Livin\u0027 in a dwarven paradise",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7105
+      "UsersEstimate": 7106
     },
     {
       "ID": "100Fail",
@@ -18359,7 +18370,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7105
+      "UsersEstimate": 7106
     },
     {
       "ID": "BookCollection",
@@ -18375,7 +18386,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14210
+      "UsersEstimate": 14211
     },
     {
       "ID": "Chapter2",
@@ -18391,7 +18402,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7105
+      "UsersEstimate": 7106
     },
     {
       "ID": "Chapter4",
@@ -18471,7 +18482,7 @@
       "Name": "Res Judicata",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "CompanionPriestress",
@@ -18727,7 +18738,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16579
+      "UsersEstimate": 16580
     },
     {
       "ID": "DwarfElf15Support",
@@ -18743,7 +18754,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "DwarfInsultWin",
@@ -18751,7 +18762,7 @@
       "Name": "%#*!$*!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "DwarfLevel2",
@@ -18759,7 +18770,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11842
+      "UsersEstimate": 11843
     },
     {
       "ID": "ElfEpic",
@@ -18775,7 +18786,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82894
+      "UsersEstimate": 82898
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18823,7 +18834,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18947
+      "UsersEstimate": 18948
     },
     {
       "ID": "FollowBraztok",
@@ -18847,7 +18858,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "KillDungeonLich",
@@ -18855,7 +18866,7 @@
       "Name": "Dead for good",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "KillGolbargh",
@@ -18879,7 +18890,7 @@
       "Name": "Gargantua",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "Orktobearfest",
@@ -18943,7 +18954,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "RangerEpic",
@@ -19015,7 +19026,7 @@
       "Name": "Material Girl",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2368
+      "UsersEstimate": 2369
     },
     {
       "ID": "WizardResistBurn",
@@ -19023,28 +19034,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7105
+      "UsersEstimate": 7106
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 236841,
+      "Progressed": 236852,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 236841,
+      "Progressed": 236852,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2023-11-11T13:04:37.5312348+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:08:27.7718891+00:00",
+  "LastChanged": "2023-11-12T22:57:46.9535159+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:08:42.4828022+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-12T21:57:40.3952278+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:08:27.7720483+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:57:46.9535165+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:08:42.4830789+00:00"
 }

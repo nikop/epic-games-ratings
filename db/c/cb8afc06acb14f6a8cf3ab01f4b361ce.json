@@ -317,9 +317,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 309384,
+  "EOS_Progressed": 309432,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6036,
+  "EOS_NewPlayers": 6050,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5727,6 +5727,11 @@
       "Time": "2023-11-12T22:04:38.1819803+00:00",
       "NumProgressed": 309384,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-12T23:04:39.6388634+00:00",
+      "NumProgressed": 309432,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -5739,7 +5744,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1856
+      "UsersEstimate": 1857
     },
     {
       "ID": "S02_BRDA",
@@ -6058,7 +6063,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 309384,
+      "Progressed": 309432,
       "Completed": 4
     }
   ],
@@ -6066,8 +6071,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-12T14:59:05.8358002+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:04:38.1819798+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:04:39.6388627+00:00",
   "LastUpdate_AppInfo": "2023-11-09T18:57:16.9812812+00:00",
-  "LastUpdate_Ratings": "2023-11-12T21:59:33.0656566+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:04:38.182031+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:59:25.2507519+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:04:39.6389602+00:00"
 }

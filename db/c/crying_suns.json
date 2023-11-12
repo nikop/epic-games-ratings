@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470777,
+  "EOS_Progressed": 470778,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22258,6 +22258,11 @@
       "Time": "2023-11-12T22:09:36.6355046+00:00",
       "NumProgressed": 470777,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-12T23:09:47.1937187+00:00",
+      "NumProgressed": 470778,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22285,7 +22290,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 112986
+      "UsersEstimate": 112987
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -22421,7 +22426,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51785
+      "UsersEstimate": 51786
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -22445,7 +22450,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94155
+      "UsersEstimate": 94156
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -22453,7 +22458,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160064
+      "UsersEstimate": 160065
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22717,7 +22722,7 @@
       "Name": "Plan for the worst",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 51785
+      "UsersEstimate": 51786
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -22900,21 +22905,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14711,
+      "Progressed": 14712,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470777,
+      "Progressed": 470778,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:09:36.6355042+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:09:47.1937179+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:02:42.7945516+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:09:36.63564+00:00"
+  "LastUpdate_Ratings": "2023-11-12T23:02:52.9564384+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:09:47.1940071+00:00"
 }

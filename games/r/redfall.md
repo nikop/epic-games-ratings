@@ -1,7 +1,7 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.51 (Ranked 1,037)  
+Rating: 3.47 (Ranked 1,037)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -55,13 +55,13 @@ Rating: 3.51 (Ranked 1,037)
 | Monster Hunters Club | 0.10% | ~2 |
 | Blood Brother | 0.10% | ~2 |
 | Friendgineering | 0.10% | ~2 |
+| Faith Healer | 0.10% | ~2 |
 | Empty Nest Syndrome | 0.10% | ~2 |
 | Someplace to Be | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |
 | Deforestation | 0.00% | ~0 |
 | Scream Team | 0.00% | ~0 |
 | Spit Take | 0.00% | ~0 |
-| Faith Healer | 0.00% | ~0 |
 | A Cry in the Dark | 0.00% | ~0 |
 | Ask Not For Whom The Horns Blow | 0.00% | ~0 |
 | Rum Runner | 0.00% | ~0 |
@@ -213,3 +213,4 @@ Completed: 0 (0.00%) (Ranked 349)
 | 2023-08-30 | 3.52 | 0 | 0 |
 | 2023-09-23 | 3.54 | 0 | 0 |
 | 2023-10-08 | 3.51 | 0 | 0 |
+| 2023-11-12 | 3.47 | 0 | 0 |

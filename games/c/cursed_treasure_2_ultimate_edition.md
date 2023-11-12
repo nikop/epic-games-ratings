@@ -27,9 +27,9 @@
 | The Apotheosis of War | 68.00% | ~120 |
 | Stasis Alcatraz | 68.00% | ~120 |
 | Brilliant: Holy Mountain | 64.00% | ~113 |
+| Combo Breaker | 64.00% | ~113 |
 | Tastes Like Chicken | 64.00% | ~113 |
-| Combo Breaker | 63.00% | ~111 |
-| Thunderstorm | 63.00% | ~111 |
+| Thunderstorm | 64.00% | ~113 |
 | Clean Forests | 62.00% | ~109 |
 | Starry: Meadowshire | 58.00% | ~102 |
 | Lieutenant of the Evil | 57.00% | ~100 |
@@ -59,7 +59,7 @@
 | Hostile Waters | 18.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 176 (Ranked 382)  
-Completed: 26 (14.77%) (Ranked 24)  
+Completed: 27 (15.34%) (Ranked 24)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -100,6 +100,7 @@ Completed: 26 (14.77%) (Ranked 24)
 | 2023-11-06 | 174 | 26 |
 | 2023-11-08 | 175 | 26 |
 | 2023-11-09 | 176 | 26 |
+| 2023-11-12 | 176 | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

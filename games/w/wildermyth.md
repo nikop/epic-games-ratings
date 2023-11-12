@@ -7,11 +7,11 @@ Number of Ratings: 45  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Me and My Familiar | 2.00% | ~29 |
+| How Romantic! | 2.00% | ~29 |
 | The Cost of Heroism | 2.00% | ~29 |
 | Gotta Ca... Must Collect All of Them | 1.00% | ~15 |
 | Passing Shadow | 1.00% | ~15 |
 | This Too Shall Pass | 1.00% | ~15 |
-| How Romantic! | 1.00% | ~15 |
 | Cutthroat Competitors | 1.00% | ~15 |
 | Daybreak | 1.00% | ~15 |
 | War Endured | 0.80% | ~12 |

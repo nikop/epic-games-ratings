@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4103,9 +4103,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76352,
+  "EOS_Progressed": 76353,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 331,
+  "EOS_NewPlayers": 328,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22378,6 +22378,11 @@
       "Time": "2023-11-12T22:04:33.6335769+00:00",
       "NumProgressed": 76352,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-12T23:04:35.5723384+00:00",
+      "NumProgressed": 76353,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22501,7 +22506,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13743
+      "UsersEstimate": 13744
     },
     {
       "ID": "CLAYFACE_3",
@@ -22693,7 +22698,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26723
+      "UsersEstimate": 26724
     },
     {
       "ID": "HARLEY_2",
@@ -22709,7 +22714,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15270
+      "UsersEstimate": 15271
     },
     {
       "ID": "HARLEY_4",
@@ -22757,7 +22762,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15270
+      "UsersEstimate": 15271
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -22797,7 +22802,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16797
+      "UsersEstimate": 16798
     },
     {
       "ID": "MYSTERY_04",
@@ -22805,7 +22810,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15270
+      "UsersEstimate": 15271
     },
     {
       "ID": "MYSTERY_05",
@@ -22813,7 +22818,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 13743
+      "UsersEstimate": 13744
     },
     {
       "ID": "MYSTERY_06",
@@ -22876,13 +22881,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76352,
+      "Progressed": 76353,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46632,
+      "Progressed": 46633,
       "Completed": 2673
     }
   ],
@@ -22890,8 +22895,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-12T18:00:27.4296503+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:04:33.6335764+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:04:35.5723378+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
   "LastUpdate_Ratings": "2023-11-12T22:00:49.7501616+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:04:33.6337036+00:00"
+  "LastUpdate_Achievements": "2023-11-12T23:04:35.5725342+00:00"
 }

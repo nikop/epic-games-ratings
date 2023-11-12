@@ -27,7 +27,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Street Fighting | 0.40% | ~2,867 |
 | Old Child | 0.40% | ~2,867 |
 | Take damage to save time | 0.40% | ~2,867 |
-| Martial Hub | 0.40% | ~104 |
+| Martial Hub | 0.40% | ~105 |
 | Scareless | 0.30% | ~2,150 |
 | Dance of the Praying Mantis | 0.30% | ~2,150 |
 | Qi Gong: Mind | 0.30% | ~2,150 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,820 (Ranked 21)  
+Progressed: 716,826 (Ranked 21)  
 Completed: 12,934 (1.80%) (Ranked 128)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,15 +273,15 @@ Completed: 12,934 (1.80%) (Ranked 128)
 | 2023-11-09 | 716,476 | 12,934 |
 | 2023-11-10 | 716,574 | 12,934 |
 | 2023-11-11 | 716,690 | 12,934 |
-| 2023-11-12 | 716,820 | 12,934 |
+| 2023-11-12 | 716,826 | 12,934 |
 ## Awards
 Max (Great Boss Battles): 6,789  (Ranked 55)  
-Sum: 11,860 (Ranked 82)  
+Sum: 11,861 (Ranked 82)  
 Diff (max vs sum): -27  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 6,789 |
-| This game has Diverse Characters | 650 |
+| This game has Diverse Characters | 651 |
 | This game has Challenging Combat | 600 |
 | This game has Amazing Storytelling | 584 |
 | This game has Quickly Understood Controls | 570 |
@@ -594,4 +594,4 @@ Diff (max vs sum): -27
 | 2023-11-09 | 4.82 | - | 6,777 | 11,833 |
 | 2023-11-10 | 4.82 | - | 6,777 | 11,835 |
 | 2023-11-11 | 4.82 | - | 6,783 | 11,848 |
-| 2023-11-12 | 4.82 | - | 6,789 | 11,860 |
+| 2023-11-12 | 4.82 | - | 6,789 | 11,861 |

@@ -111,6 +111,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Laughingstock | 0.10% | ~454 |
 | Lazarus | 0.10% | ~454 |
 | Lessons of Hemmingstedt | 0.10% | ~454 |
+| Let It Go! | 0.10% | ~454 |
 | The Levant Turnabout | 0.10% | ~454 |
 | Liberty or Death | 0.10% | ~454 |
 | Live Long and Prosper | 0.10% | ~454 |
@@ -174,6 +175,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Five Colonies | 0.10% | ~454 |
 | The Grand Armada | 0.10% | ~454 |
 | The Great Khan | 0.10% | ~454 |
+| The Ostenders | 0.10% | ~454 |
 | The pen is mightier than the sword | 0.10% | ~454 |
 | The Power of Three | 0.10% | ~454 |
 | The Princess is in this Castle | 0.10% | ~454 |
@@ -283,7 +285,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
 | Land of Eastern Jade | 0.00% | ~0 |
-| Let It Go! | 0.00% | ~0 |
 | Lion of the North | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
 | Mansa Musa | 0.00% | ~0 |
@@ -344,7 +345,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Freest Man in the World | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
 | The Navigator | 0.00% | ~0 |
-| The Ostenders | 0.00% | ~0 |
 | The Pheasant Strut | 0.00% | ~0 |
 | The Re-Reconquista | 0.00% | ~0 |
 | The Third Way | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,238 (Ranked 41)  
+Progressed: 454,287 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,10 +576,10 @@ Completed: 1 (0.00%) (Ranked 349)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 454,238 | 1 |
+| 2023-11-12 | 454,287 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
-Sum: 57,283 (Ranked 24)  
+Sum: 57,304 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -587,7 +587,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 6,690 |
 | This game is Highly Recommended | 6,684 |
 | This game has Challenging Combat | 6,576 |
-| This game is Extremely Fun | 6,551 |
+| This game is Extremely Fun | 6,572 |
 | This game is Relaxing | 6,403 |
 | This game has Competitive Players | 6,253 |
 | This game has Amazing Storytelling | 5,788 |
@@ -895,4 +895,4 @@ Diff (max vs sum): 30
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
-| 2023-11-12 | 4.69 | - | 6,965 | 57,283 |
+| 2023-11-12 | 4.69 | - | 6,965 | 57,304 |

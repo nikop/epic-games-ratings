@@ -4,8 +4,8 @@
   "ProductSlug": "death-crown-b2f5cd",
   "Ranking_EOS_Progress": 554,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -183,9 +183,9 @@
       "ID": "Boss_Sphere",
       "SetID": "cla1dpp",
       "Name": "Roll out of here!",
-      "Percentage": 13,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Boss_Tower",
@@ -302,8 +302,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:08:39.2109961+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:08:54.6204296+00:00",
   "LastUpdate_AppInfo": "2023-11-08T19:57:13.2883393+00:00",
-  "LastUpdate_Ratings": "2023-11-12T21:57:23.6135734+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:08:39.2110067+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:57:31.7888492+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:08:54.6204477+00:00"
 }

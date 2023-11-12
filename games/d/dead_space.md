@@ -5,44 +5,44 @@ Rating: 4.63 (Ranked 348)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~1,635 |
-| Welcome Aboard | 85.00% | ~1,494 |
-| Lab Rat | 74.00% | ~1,301 |
+| Marksman | 93.00% | ~1,636 |
+| Welcome Aboard | 85.00% | ~1,495 |
+| Lab Rat | 74.00% | ~1,302 |
 | All Systems Go | 65.00% | ~1,143 |
-| Brute Force | 64.00% | ~1,125 |
+| Brute Force | 64.00% | ~1,126 |
 | Cannon Fodder | 60.00% | ~1,055 |
-| Autofire | 57.00% | ~1,002 |
-| True Believer | 56.00% | ~984 |
+| Autofire | 57.00% | ~1,003 |
+| True Believer | 56.00% | ~985 |
 | Story Teller | 55.00% | ~967 |
 | Raise the Stakes | 55.00% | ~967 |
 | Surgeon | 51.00% | ~897 |
-| Freeze | 50.00% | ~879 |
-| Exterminator | 50.00% | ~879 |
-| Greenhouse Effect | 50.00% | ~879 |
-| S.O.S. | 45.00% | ~791 |
-| Full Arsenal | 44.00% | ~774 |
+| Freeze | 50.00% | ~880 |
+| Exterminator | 50.00% | ~880 |
+| Greenhouse Effect | 50.00% | ~880 |
+| Full Arsenal | 45.00% | ~792 |
+| S.O.S. | 45.00% | ~792 |
 | Get Off My Ship! | 43.00% | ~756 |
 | Strange Transmissions | 43.00% | ~756 |
 | Live with the Hot Ones | 41.00% | ~721 |
 | Wreckage | 41.00% | ~721 |
 | Keeper of the Faith | 39.00% | ~686 |
-| Betrayed | 37.00% | ~650 |
+| Betrayed | 37.00% | ~651 |
 | Exodus | 36.00% | ~633 |
 | Legend Teller | 36.00% | ~633 |
 | Mindless Prey | 36.00% | ~633 |
-| There's Always Peng! | 35.00% | ~615 |
+| There's Always Peng! | 35.00% | ~616 |
 | A Cut Above | 32.00% | ~563 |
 | Front Toward Enemy | 32.00% | ~563 |
-| Whole Again | 28.00% | ~492 |
-| Set A Benchmark | 28.00% | ~492 |
+| Whole Again | 28.00% | ~493 |
+| Set A Benchmark | 28.00% | ~493 |
 | Full Contact | 25.00% | ~440 |
 | Pack Rat | 25.00% | ~440 |
 | Final Regeneration | 24.00% | ~422 |
-| Full Clearance | 23.00% | ~404 |
+| Full Clearance | 23.00% | ~405 |
 | Pusher | 22.00% | ~387 |
 | Z-Baller | 22.00% | ~387 |
 | Marked | 20.00% | ~352 |
-| Eviscerator | 18.00% | ~316 |
+| Eviscerator | 18.00% | ~317 |
 | Backbreaker | 13.00% | ~229 |
 | Wishbone | 8.00% | ~141 |
 | Trusted Contractor | 7.00% | ~123 |
@@ -53,8 +53,8 @@ Rating: 4.63 (Ranked 348)
 | Untouchable | 2.00% | ~35 |
 | One Gun | 2.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,758 (Ranked 226)  
-Completed: 8 (0.46%) (Ranked 201)  
+Progressed: 1,759 (Ranked 226)  
+Completed: 8 (0.45%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -112,7 +112,7 @@ Completed: 8 (0.46%) (Ranked 201)
 | 2023-11-09 | 1,664 | 8 |
 | 2023-11-10 | 1,682 | 8 |
 | 2023-11-11 | 1,724 | 8 |
-| 2023-11-12 | 1,758 | 8 |
+| 2023-11-12 | 1,759 | 8 |
 ## Awards
 Max (Great Boss Battles): 110  (Ranked 348)  
 Sum: 110 (Ranked 437)  

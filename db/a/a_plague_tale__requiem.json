@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -623,9 +623,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 13891,
+  "EOS_Progressed": 13892,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -11223,6 +11223,11 @@
       "Time": "2023-11-12T18:06:35.2249683+00:00",
       "NumProgressed": 13891,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-12T23:06:22.5129601+00:00",
+      "NumProgressed": 13892,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 35,
@@ -11234,7 +11239,7 @@
       "Name": "Under a New Sun",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 12780
+      "UsersEstimate": 12781
     },
     {
       "ID": "ACH_02",
@@ -11242,7 +11247,7 @@
       "Name": "Newcomers",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 10974
+      "UsersEstimate": 10975
     },
     {
       "ID": "ACH_03",
@@ -11250,7 +11255,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 10279
+      "UsersEstimate": 10280
     },
     {
       "ID": "ACH_04",
@@ -11266,7 +11271,7 @@
       "Name": "In our Wake",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 9446
+      "UsersEstimate": 9447
     },
     {
       "ID": "ACH_06",
@@ -11274,7 +11279,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 9029
+      "UsersEstimate": 9030
     },
     {
       "ID": "ACH_07",
@@ -11282,7 +11287,7 @@
       "Name": "Felons",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 8751
+      "UsersEstimate": 8752
     },
     {
       "ID": "ACH_08",
@@ -11306,7 +11311,7 @@
       "Name": "Bloodline",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 7362
+      "UsersEstimate": 7363
     },
     {
       "ID": "ACH_11",
@@ -11330,7 +11335,7 @@
       "Name": "Nothing Left",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 5556
+      "UsersEstimate": 5557
     },
     {
       "ID": "ACH_14",
@@ -11513,7 +11518,7 @@
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 13891,
+      "Progressed": 13892,
       "Completed": 54
     }
   ],
@@ -11521,8 +11526,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2023-11-10T17:17:17.6646221+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:06:32.5320372+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:06:22.5129595+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:31.2906465+00:00",
-  "LastUpdate_Ratings": "2023-11-12T21:58:18.3668504+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:06:32.5321039+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:58:19.8353453+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:06:22.5131011+00:00"
 }

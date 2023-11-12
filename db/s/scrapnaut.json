@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 244,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1606,9 +1606,9 @@
       "ID": "ACH_COLLECT_10_MUSHROOMS",
       "SetID": "7c4cldc",
       "Name": "Mushroom Picker",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 267
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_COLLECT_20_RED_BOOKS",
@@ -1750,9 +1750,9 @@
       "ID": "ACH_MYTHRIL_SMELTER",
       "SetID": "7c4cldc",
       "Name": "Mythical Smelter",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -1815,8 +1815,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-10-28T14:03:22.2767403+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:04:21.3541736+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:04:24.2210914+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.3233159+00:00",
-  "LastUpdate_Ratings": "2023-11-12T21:57:52.2379988+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:04:21.3541944+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:57:56.9760364+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:04:24.2211469+00:00"
 }

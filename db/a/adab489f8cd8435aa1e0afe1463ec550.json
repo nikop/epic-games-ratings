@@ -4,8 +4,8 @@
   "ProductSlug": "cybertd-22dbd6",
   "Ranking_EOS_Progress": 560,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -429,9 +429,9 @@
       "ID": "8",
       "SetID": "6hl9l7f",
       "Name": "Core Down",
-      "Percentage": 0,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "9",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:03:46.3286583+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:03:52.0118204+00:00",
   "LastUpdate_AppInfo": "2023-11-12T14:56:54.3017105+00:00",
-  "LastUpdate_Ratings": "2023-11-12T21:58:14.9200361+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:03:46.3286827+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:58:16.9775916+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:03:52.0118579+00:00"
 }

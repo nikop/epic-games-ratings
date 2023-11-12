@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11911,10 +11911,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57283,
       "NumberOfAwardsMax": 6965
+    },
+    {
+      "Time": "2023-11-12T22:59:59.9051951+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57304,
+      "NumberOfAwardsMax": 6965
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57283,
+  "NumberOfAwards": 57304,
   "NumberOfAwardsMax": 6965,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11940,7 +11946,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 6551
+      "Count": 6572
     },
     {
       "Text": "This game is Educational",
@@ -11985,9 +11991,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 454238,
+  "EOS_Progressed": 454287,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6131,
+  "EOS_NewPlayers": 6161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35600,6 +35606,11 @@
       "Time": "2023-11-12T22:08:09.260669+00:00",
       "NumProgressed": 454238,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T23:08:25.9010632+00:00",
+      "NumProgressed": 454287,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -37009,9 +37020,9 @@
       "ID": "achievement_let_it_go",
       "SetID": "8p2n7he",
       "Name": "Let It Go!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 454
     },
     {
       "ID": "achievement_levant_turnabout",
@@ -38001,9 +38012,9 @@
       "ID": "achievement_the_ostenders",
       "SetID": "8p2n7he",
       "Name": "The Ostenders",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 454
     },
     {
       "ID": "achievement_the_pen_is_mightier_than_the_sword",
@@ -38514,21 +38525,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 454238,
+      "Progressed": 454287,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 454238,
+      "Progressed": 454287,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-12T14:59:51.1407604+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:08:09.2606688+00:00",
+  "LastChanged": "2023-11-12T22:59:59.9051949+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:08:25.9010626+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:00:12.8573437+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:08:09.2616869+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:59:59.9051958+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:08:25.9025596+00:00"
 }

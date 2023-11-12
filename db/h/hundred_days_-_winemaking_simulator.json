@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 286,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1051,9 +1051,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 12060,
+  "EOS_Progressed": 12064,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 896,
+  "EOS_NewPlayers": 894,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -9856,6 +9856,11 @@
       "Time": "2023-11-12T22:08:44.1164227+00:00",
       "NumProgressed": 12060,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-12T23:08:59.2449915+00:00",
+      "NumProgressed": 12064,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9916,7 +9921,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 4945
+      "UsersEstimate": 4946
     },
     {
       "ID": "a_19",
@@ -9956,7 +9961,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "a_23",
@@ -10115,7 +10120,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 12060,
+      "Progressed": 12064,
       "Completed": 10
     }
   ],
@@ -10123,8 +10128,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-07T18:01:57.8090042+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:08:44.1164224+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:08:59.244991+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:12.3548109+00:00",
-  "LastUpdate_Ratings": "2023-11-12T21:59:18.2719685+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:08:44.116478+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:59:11.5471043+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:08:59.2450861+00:00"
 }

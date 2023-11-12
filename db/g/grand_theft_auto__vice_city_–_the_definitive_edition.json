@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -835,9 +835,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 11002,
+  "EOS_Progressed": 11004,
   "EOS_Completed": 64,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -12830,6 +12830,11 @@
       "Time": "2023-11-12T20:07:06.9915841+00:00",
       "NumProgressed": 11002,
       "NumCompleted": 64
+    },
+    {
+      "Time": "2023-11-12T23:05:58.8406637+00:00",
+      "NumProgressed": 11004,
+      "NumCompleted": 64
     }
   ],
   "TotalAchievements": 34,
@@ -12945,7 +12950,7 @@
       "Name": "Greasy Palms",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 4621
+      "UsersEstimate": 4622
     },
     {
       "ID": "ACH15",
@@ -13001,7 +13006,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5062
     },
     {
       "ID": "ACH22",
@@ -13009,7 +13014,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 2310
+      "UsersEstimate": 2311
     },
     {
       "ID": "ACH23",
@@ -13025,7 +13030,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACH25",
@@ -13033,7 +13038,7 @@
       "Name": "Chauffeur",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1650
+      "UsersEstimate": 1651
     },
     {
       "ID": "ACH26",
@@ -13041,7 +13046,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "ACH27",
@@ -13112,7 +13117,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11002,
+      "Progressed": 11004,
       "Completed": 64
     }
   ],
@@ -13120,8 +13125,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-09T19:58:38.2755624+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:06:06.4558447+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:05:58.8406632+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:20.6735838+00:00",
-  "LastUpdate_Ratings": "2023-11-12T21:59:47.3196019+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:06:06.4559106+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:59:37.7998548+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:05:58.8407633+00:00"
 }

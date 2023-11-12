@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 310,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114045,
+  "EOS_Progressed": 114046,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 626,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17719,6 +17719,11 @@
       "Time": "2023-11-12T22:08:50.9977401+00:00",
       "NumProgressed": 114045,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-12T23:09:05.6748154+00:00",
+      "NumProgressed": 114046,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17786,7 +17791,7 @@
       "Name": "He Looks Portable",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11404
+      "UsersEstimate": 11405
     },
     {
       "ID": "EAwards_16",
@@ -17890,7 +17895,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11404
+      "UsersEstimate": 11405
     },
     {
       "ID": "EAwards_28",
@@ -17930,7 +17935,7 @@
       "Name": "Luchonarrative Resonance",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 11404
+      "UsersEstimate": 11405
     },
     {
       "ID": "EAwards_32",
@@ -18082,7 +18087,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11404
+      "UsersEstimate": 11405
     },
     {
       "ID": "EAwards_6",
@@ -18098,7 +18103,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13685
+      "UsersEstimate": 13686
     },
     {
       "ID": "EAwards_8",
@@ -18106,7 +18111,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 13685
+      "UsersEstimate": 13686
     },
     {
       "ID": "EAwards_9",
@@ -18121,7 +18126,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114045,
+      "Progressed": 114046,
       "Completed": 50
     }
   ],
@@ -18129,8 +18134,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-12T22:08:50.9977395+00:00",
+  "LastChanged_Achievements": "2023-11-12T23:09:05.6748148+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-12T21:57:31.2110952+00:00",
-  "LastUpdate_Achievements": "2023-11-12T22:08:50.997838+00:00"
+  "LastUpdate_Ratings": "2023-11-12T22:57:38.8110275+00:00",
+  "LastUpdate_Achievements": "2023-11-12T23:09:05.675026+00:00"
 }
