@@ -102,6 +102,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | KHAAAAAAN | 0.10% | ~453 |
 | King of Jerusalem | 0.10% | ~453 |
 | Kingdom of God | 0.10% | ~453 |
+| Kow-Tow | 0.10% | ~453 |
 | Laughingstock | 0.10% | ~453 |
 | Lazarus | 0.10% | ~453 |
 | The Levant Turnabout | 0.10% | ~453 |
@@ -270,7 +271,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kirishitan Japan | 0.00% | ~0 |
 | Knights of the Caribbean | 0.00% | ~0 |
 | Komnenoi Empire | 0.00% | ~0 |
-| Kow-Tow | 0.00% | ~0 |
 | Krabater | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,196 (Ranked 41)  
+Progressed: 453,225 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,196 | 1 |
+| 2023-11-12 | 453,225 | 1 |
 ## Awards
 Max (Educational): 6,946  (Ranked 54)  
 Sum: 57,214 (Ranked 24)  

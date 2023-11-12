@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | We've only just begun | 95.00% | ~90 |
 | You're spelunkin' now! | 83.00% | ~79 |
-| The Birdman of The Caves | 49.00% | ~47 |
-| I've Fallen & I Can't Get Up | 49.00% | ~47 |
-| Charmin' the Snake | 35.00% | ~33 |
+| The Birdman of The Caves | 51.00% | ~48 |
+| I've Fallen & I Can't Get Up | 51.00% | ~48 |
+| Charmin' the Snake | 36.00% | ~34 |
 | Bridge Builder | 24.00% | ~23 |
 | Drums in the Deep | 23.00% | ~22 |
 | Treasure Seeker | 22.00% | ~21 |

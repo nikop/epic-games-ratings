@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1361,10 +1361,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 358,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-11-12T03:58:33.5870757+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 359,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 358,
+  "NumberOfAwards": 359,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1408,7 +1414,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1423,9 +1429,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157799,
+  "EOS_Progressed": 157808,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1169,
+  "EOS_NewPlayers": 1172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15293,6 +15299,11 @@
       "Time": "2023-11-12T03:03:51.4092047+00:00",
       "NumProgressed": 157799,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T04:03:37.6991245+00:00",
+      "NumProgressed": 157808,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15416,7 +15427,7 @@
       "Name": "Glare",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -15671,21 +15682,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157382,
+      "Progressed": 157391,
       "Completed": 1197
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157799,
+      "Progressed": 157808,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-11T23:58:19.2206665+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:03:51.4092042+00:00",
+  "LastChanged": "2023-11-12T03:58:33.5870756+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:03:37.6991239+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:58:52.2727264+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:03:51.4093474+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:58:33.587076+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:03:37.6992207+00:00"
 }

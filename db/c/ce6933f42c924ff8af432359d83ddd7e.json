@@ -3,9 +3,9 @@
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_Completed": 76,
+  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 560,
-  "EOS_Completed": 24,
+  "EOS_Completed": 25,
   "EOS_NewPlayers": 112,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 4.29,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 4.46,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1424,6 +1424,11 @@
       "Time": "2023-11-12T03:09:11.237467+00:00",
       "NumProgressed": 560,
       "NumCompleted": 24
+    },
+    {
+      "Time": "2023-11-12T04:08:45.7254481+00:00",
+      "NumProgressed": 560,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1434,9 +1439,9 @@
       "ID": "ACH_CLOCK",
       "SetID": "6f5dahd",
       "Name": "Time traveller",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 140,
-      "UsersEstimate": 118
+      "UsersEstimate": 123
     },
     {
       "ID": "ACH_CUBES",
@@ -1516,13 +1521,13 @@
       "ID": "6f5dahd",
       "IsBase": true,
       "Progressed": 560,
-      "Completed": 24
+      "Completed": 25
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:09:11.2374665+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:08:45.7254476+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:57:25.6249997+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:09:11.2374878+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:57:18.3256934+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:08:45.7254624+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 315,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 418,
+  "EOS_Progressed": 419,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -385,6 +385,11 @@
       "Time": "2023-10-30T08:04:02.964551+00:00",
       "NumProgressed": 418,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T04:03:44.7978402+00:00",
+      "NumProgressed": 419,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -412,7 +417,7 @@
       "Name": "Boss Down",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Award_BumperCar",
@@ -436,7 +441,7 @@
       "Name": "Clean Sweep",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 393
+      "UsersEstimate": 394
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -444,7 +449,7 @@
       "Name": "Death from Above",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "Award_DemolitionDerby",
@@ -468,7 +473,7 @@
       "Name": "DocKing",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "Award_EarlyBird",
@@ -484,7 +489,7 @@
       "Name": "Extra Ammo",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Award_FinalAscension",
@@ -506,9 +511,9 @@
       "ID": "Award_Gunner",
       "SetID": "9ojec6n",
       "Name": "Gunner",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 239
     },
     {
       "ID": "Award_HalfwayThere",
@@ -572,7 +577,7 @@
       "Name": "Line of Duty",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -644,7 +649,7 @@
       "Name": "Scavenger",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "Award_ShellShock",
@@ -684,7 +689,7 @@
       "Name": "Splash Damage",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Award_Stunning",
@@ -747,7 +752,7 @@
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 418,
+      "Progressed": 419,
       "Completed": 1
     }
   ],
@@ -755,8 +760,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:03:59.2911321+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:03:44.7978397+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.6237621+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:59:10.0651649+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:03:59.291176+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:58:49.2893705+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:03:44.7978748+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 306,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1471,9 +1471,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13664,
+  "EOS_Progressed": 13665,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14436,6 +14436,11 @@
       "Time": "2023-11-12T03:09:02.6223655+00:00",
       "NumProgressed": 13664,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-12T04:08:37.7567313+00:00",
+      "NumProgressed": 13665,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14447,7 +14452,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11068
+      "UsersEstimate": 11069
     },
     {
       "ID": "ACH02",
@@ -14455,7 +14460,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "ACH03",
@@ -14726,7 +14731,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13664,
+      "Progressed": 13665,
       "Completed": 53
     }
   ],
@@ -14734,8 +14739,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-11T19:02:07.5233284+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:09:02.622365+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:08:37.7567308+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:57:02.9832611+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:09:02.6224859+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:56:59.0892865+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:08:37.7568242+00:00"
 }

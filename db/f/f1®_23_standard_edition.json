@@ -5,10 +5,10 @@
   "Ranking_Rating": 253,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 464,
-  "Ranking_EOS_Progress": 180,
+  "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -489,9 +489,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5662,
+  "EOS_Progressed": 5663,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 857,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5324,6 +5324,11 @@
       "Time": "2023-11-12T03:03:38.3371356+00:00",
       "NumProgressed": 5662,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T04:03:25.5440865+00:00",
+      "NumProgressed": 5663,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5376,7 +5381,7 @@
       "Name": "Setting up for Success",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4246
+      "UsersEstimate": 4247
     },
     {
       "ID": "achievement_0007",
@@ -5384,7 +5389,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5266
+      "UsersEstimate": 5267
     },
     {
       "ID": "achievement_0008",
@@ -5392,7 +5397,7 @@
       "Name": "On the Top Step",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 4869
+      "UsersEstimate": 4870
     },
     {
       "ID": "achievement_0009",
@@ -5400,7 +5405,7 @@
       "Name": "Eagle Eye",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_0010",
@@ -5448,7 +5453,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_0016",
@@ -5464,7 +5469,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_0018",
@@ -5496,7 +5501,7 @@
       "Name": "Team Orders",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 4133
+      "UsersEstimate": 4134
     },
     {
       "ID": "achievement_0022",
@@ -5520,7 +5525,7 @@
       "Name": "Loyal Bond",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "achievement_0025",
@@ -5544,7 +5549,7 @@
       "Name": "Switcheroo",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_0028",
@@ -5552,7 +5557,7 @@
       "Name": "Spinning Around",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "achievement_0029",
@@ -5680,7 +5685,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2321
+      "UsersEstimate": 2322
     },
     {
       "ID": "achievement_0045",
@@ -5727,7 +5732,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5662,
+      "Progressed": 5663,
       "Completed": 0
     }
   ],
@@ -5735,8 +5740,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-11T19:01:12.323496+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:03:38.3371348+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:03:25.5440859+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:00:21.4063654+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:03:38.3372154+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:59:50.7694932+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:03:25.5441471+00:00"
 }

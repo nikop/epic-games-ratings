@@ -3590,9 +3590,9 @@
       "ID": "achievement_24",
       "SetID": "b9pe172",
       "Name": "Soldier Ally",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 537
     },
     {
       "ID": "achievement_25",
@@ -4094,9 +4094,9 @@
       "ID": "achievement_81",
       "SetID": "d252ncf",
       "Name": "Mobilizer",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 310
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_82",
@@ -4266,8 +4266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:03:25.126753+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:03:13.9131549+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:02:58.7740025+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:03:25.1270057+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:02:49.3065511+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:03:13.9134298+00:00"
 }

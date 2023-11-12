@@ -10,15 +10,15 @@ Rating: 4.04 (Ranked 983)
 | Enlisted | 80.00% | ~209 |
 | Maybe Engage a Little | 75.00% | ~196 |
 | No More Names | 61.00% | ~159 |
-| Initiate | 47.00% | ~123 |
+| Initiate | 48.00% | ~125 |
 | Thrada-Kul | 43.00% | ~112 |
 | Gravity-Challenged Rocks | 32.00% | ~84 |
-| Soldier | 27.00% | ~70 |
+| Soldier | 28.00% | ~73 |
 | All the Major Food Groups | 27.00% | ~70 |
 | Socialite | 26.00% | ~68 |
 | Control is an Illusion | 23.00% | ~60 |
 | Beggars Would Ride | 23.00% | ~60 |
-| The Means to Save It | 19.00% | ~50 |
+| The Means to Save It | 20.00% | ~52 |
 | Resilience to Sin | 17.00% | ~44 |
 | A Familiar Nest | 16.00% | ~42 |
 | Periapt Alizarin | 16.00% | ~42 |

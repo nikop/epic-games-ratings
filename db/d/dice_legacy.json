@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -47,9 +47,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1153,
+  "EOS_Progressed": 1154,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2082,6 +2082,11 @@
       "Time": "2023-11-11T17:06:05.5516047+00:00",
       "NumProgressed": 1153,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T04:04:36.1974595+00:00",
+      "NumProgressed": 1154,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -2211,9 +2216,9 @@
       "ID": "DIE_FORGE_CUSTOM",
       "SetID": "6ohhfoc",
       "Name": "Manipulating Fate",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 115
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -2317,7 +2322,7 @@
       "Name": "We made it",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -2379,9 +2384,9 @@
       "ID": "WINMATCHWITH_KING",
       "SetID": "6ohhfoc",
       "Name": "The Stranded King",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 58
     },
     {
       "ID": "WINMATCHWITH_MERCHANT",
@@ -2452,7 +2457,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1153,
+      "Progressed": 1154,
       "Completed": 0
     }
   ],
@@ -2460,8 +2465,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-06-02T06:57:26.4164938+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:04:53.8520201+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:04:36.197459+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:20.4022429+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:58:04.6395974+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:04:53.8520762+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:57:52.4279481+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:04:36.1975069+00:00"
 }

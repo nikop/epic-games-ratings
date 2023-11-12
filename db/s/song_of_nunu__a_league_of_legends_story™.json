@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 650,
+  "EOS_Progressed": 651,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 219,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -1107,6 +1107,11 @@
       "Time": "2023-11-12T01:57:05.0805695+00:00",
       "NumProgressed": 650,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-12T04:09:12.1251261+00:00",
+      "NumProgressed": 651,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -1119,7 +1124,7 @@
       "Name": "Blue Dreams",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "EV_ACH02",
@@ -1135,7 +1140,7 @@
       "Name": "He\u0027s Famous!",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "EV_ACH04",
@@ -1143,7 +1148,7 @@
       "Name": "No Bites",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "EV_ACH05",
@@ -1151,7 +1156,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "EV_ACH06",
@@ -1191,7 +1196,7 @@
       "Name": "Family",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "EV_ACH11",
@@ -1199,7 +1204,7 @@
       "Name": "Biggest Snowball Ever",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "EV_ACH12",
@@ -1223,7 +1228,7 @@
       "Name": "Boom Things",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "EV_ACH15",
@@ -1231,7 +1236,7 @@
       "Name": "Better On Ice",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "EV_ACH16",
@@ -1239,7 +1244,7 @@
       "Name": "Krugmazing",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "EV_ACH17",
@@ -1247,7 +1252,7 @@
       "Name": "Iceborn",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "EV_ACH18",
@@ -1263,7 +1268,7 @@
       "Name": "On The Rocks",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "EV_ACH20",
@@ -1271,7 +1276,7 @@
       "Name": "True Legends",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "EV_ACH21",
@@ -1319,7 +1324,7 @@
       "Name": "Moneyball",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "EV_ACH27",
@@ -1327,7 +1332,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 474
+      "UsersEstimate": 475
     },
     {
       "ID": "EV_ACH28",
@@ -1359,7 +1364,7 @@
       "Name": "Feels Familiar",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "EV_ACH32",
@@ -1375,7 +1380,7 @@
       "Name": "Notai Notes",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 455
+      "UsersEstimate": 456
     },
     {
       "ID": "EV_ACH34",
@@ -1391,7 +1396,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "EV_ACH36",
@@ -1407,7 +1412,7 @@
       "Name": "The Finisher",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "EV_ACH38",
@@ -1470,14 +1475,14 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 650,
+      "Progressed": 651,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:09:39.9276637+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:09:12.1251256+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:02:56.5884786+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:09:39.9277087+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:02:47.0490307+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:09:12.12517+00:00"
 }

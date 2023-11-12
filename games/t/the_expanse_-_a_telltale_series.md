@@ -10,6 +10,7 @@ Rating: 4.56 (Ranked 486)
 | Drug Gifter | 3.00% | ~446 |
 | Martian Music | 3.00% | ~446 |
 | Drone Dodger | 3.00% | ~446 |
+| Call it Even | 3.00% | ~446 |
 | Bosmang | 3.00% | ~446 |
 | Captain Drummer | 3.00% | ~446 |
 | Celebrations are in Order | 3.00% | ~446 |
@@ -22,7 +23,6 @@ Rating: 4.56 (Ranked 486)
 | Spore Taste | 2.00% | ~297 |
 | Heal Thy Medic | 2.00% | ~297 |
 | Khan's Revenge | 2.00% | ~297 |
-| Call it Even | 2.00% | ~297 |
 | Keep Arjun in Check | 2.00% | ~16 |
 | Master Negotiator | 2.00% | ~16 |
 | Doctor Approved | 1.00% | ~149 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 486)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,858 (Ranked 147)  
+Progressed: 14,861 (Ranked 147)  
 Completed: 34 (0.23%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 34 (0.23%) (Ranked 238)
 | 2023-11-09 | 14,788 | 33 |
 | 2023-11-10 | 14,816 | 34 |
 | 2023-11-11 | 14,854 | 34 |
-| 2023-11-12 | 14,858 | 34 |
+| 2023-11-12 | 14,861 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 269,
+  "EOS_Progressed": 270,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 266,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -419,6 +419,11 @@
       "Time": "2023-11-12T00:03:06.322762+00:00",
       "NumProgressed": 269,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T04:03:25.2537802+00:00",
+      "NumProgressed": 270,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -439,7 +444,7 @@
       "Name": "Ab Initio",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "AnthropicHills",
@@ -469,9 +474,9 @@
       "ID": "BecomingSmarter",
       "SetID": "1n308hc",
       "Name": "Becoming Smarter",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 146
     },
     {
       "ID": "BreakTheLoop",
@@ -485,9 +490,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 143
     },
     {
       "ID": "ChasingTheLight",
@@ -599,7 +604,7 @@
       "Name": "Into the Machine",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "JustOneLap",
@@ -719,7 +724,7 @@
       "Name": "Remnants of the Past",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "RenaissanceRobot",
@@ -741,9 +746,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "SingleRod",
@@ -757,9 +762,9 @@
       "ID": "Sinner",
       "SetID": "1n308hc",
       "Name": "Sinner",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "SouthernCoast",
@@ -831,15 +836,15 @@
       "Name": "The Thief of Fire",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 67,
+      "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 180
+      "UsersEstimate": 178
     },
     {
       "ID": "TouchGrass",
@@ -902,7 +907,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 269,
+      "Progressed": 270,
       "Completed": 0
     }
   ],
@@ -910,8 +915,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-11T23:03:06.8073096+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:03:37.9649871+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:03:25.2537796+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:57:07.2481292+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:03:37.9650473+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:57:02.7188696+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:03:25.2538352+00:00"
 }

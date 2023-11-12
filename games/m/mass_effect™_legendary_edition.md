@@ -19,8 +19,8 @@
 | Meritorious Service Medal | 49.00% | ~585 |
 | Charismatic | 48.00% | ~573 |
 | Soldier | 47.00% | ~561 |
+| Soldier Ally | 45.00% | ~537 |
 | Medal of Exploration III | 44.00% | ~525 |
-| Soldier Ally | 44.00% | ~525 |
 | Asari Ally | 44.00% | ~525 |
 | Principled | 44.00% | ~525 |
 | Paramour I | 42.00% | ~501 |
@@ -69,11 +69,11 @@
 | Bringer of War | 28.00% | ~334 |
 | Friend or Foe | 27.00% | ~322 |
 | Digital Exorcist | 27.00% | ~322 |
+| Mobilizer | 27.00% | ~322 |
 | Untouchable | 26.00% | ~310 |
 | Mission Accomplished | 26.00% | ~310 |
 | Suicide Mission | 26.00% | ~310 |
 | Against All Odds | 26.00% | ~310 |
-| Mobilizer | 26.00% | ~310 |
 | Giant Killer | 25.00% | ~298 |
 | A House Divided | 25.00% | ~298 |
 | Eye of the Hurricane | 24.00% | ~286 |

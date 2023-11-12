@@ -4,24 +4,24 @@
 Rating: 4.88 (Ranked 17)  
 Number of Ratings: 4,943  (23.09.2022)  
 ## Awards
-Max (Character Customization): 4,276  (Ranked 82)  
-Sum: 8,248 (Ranked 100)  
-Diff (max vs sum): -18  
+Max (Character Customization): 4,367  (Ranked 80)  
+Sum: 8,404 (Ranked 99)  
+Diff (max vs sum): -19  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 4,276 |
-| This game has Great Boss Battles | 2,242 |
-| This game is Extremely Fun | 182 |
-| This game has Amazing Storytelling | 177 |
-| This game has Amazing Characters | 173 |
-| This game has Competitive Players | 167 |
-| This game is Highly Recommended | 166 |
-| This game is Educational | 165 |
-| This game is Relaxing | 158 |
-| This game has Diverse Characters | 155 |
-| This game has Challenging Combat | 143 |
-| This game has Quickly Understood Controls | 140 |
-| This game has a Creative Community | 104 |
+| This game has Inclusive Character Customization | 4,367 |
+| This game has Great Boss Battles | 2,279 |
+| This game is Extremely Fun | 185 |
+| This game has Amazing Storytelling | 181 |
+| This game has Amazing Characters | 176 |
+| This game is Educational | 170 |
+| This game is Highly Recommended | 168 |
+| This game has Competitive Players | 168 |
+| This game is Relaxing | 159 |
+| This game has Diverse Characters | 157 |
+| This game has Challenging Combat | 146 |
+| This game has Quickly Understood Controls | 143 |
+| This game has a Creative Community | 105 |
 | This game has Obsessive Gameplay | 86 |
 | This game is Great for Beginners | 59 |
 ## Ratings History
@@ -261,3 +261,4 @@ Diff (max vs sum): -18
 | 2023-09-22 | 4.88 | - | 4,276 | 8,245 |
 | 2023-09-23 | 4.88 | - | 4,276 | 8,247 |
 | 2023-09-25 | 4.88 | - | 4,276 | 8,248 |
+| 2023-11-12 | 4.88 | - | 4,367 | 8,404 |

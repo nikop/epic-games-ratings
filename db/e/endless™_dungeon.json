@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -1838,9 +1838,9 @@
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
       "SetID": "9991201",
       "Name": "Endlessly Effective",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 119
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -1877,8 +1877,8 @@
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:03:26.5562837+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:03:15.164259+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.2192237+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:58:38.2711341+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:03:26.5563191+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:58:21.446658+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:03:15.1642922+00:00"
 }

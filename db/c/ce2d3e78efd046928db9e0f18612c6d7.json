@@ -2,10 +2,10 @@
   "ID": "ce2d3e78efd046928db9e0f18612c6d7",
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
-  "Ranking_EOS_Progress": 597,
+  "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -21,10 +21,12 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -57,6 +59,11 @@
       "Time": "2023-11-12T03:09:44.8758587+00:00",
       "NumProgressed": 8,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T04:09:16.5680604+00:00",
+      "NumProgressed": 9,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -67,23 +74,23 @@
       "ID": "01_ACHIEVEMENT_Level_01",
       "SetID": "6opd2eg",
       "Name": "First tower built",
-      "Percentage": 75,
+      "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 38,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -91,7 +98,7 @@
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -99,15 +106,15 @@
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 38,
+      "Percentage": 33,
       "XP": 75,
       "UsersEstimate": 3
     },
@@ -115,7 +122,7 @@
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 125,
       "UsersEstimate": 1
     },
@@ -123,9 +130,9 @@
       "ID": "08_ACHIEVEMENT_Game_Complete",
       "SetID": "6opd2eg",
       "Name": "Finish the game",
-      "Percentage": 25,
+      "Percentage": 33,
       "XP": 150,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "09_ACHIEVEMENT_Complete_Master",
@@ -139,7 +146,7 @@
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
       "SetID": "6opd2eg",
       "Name": "I Found a Shortcut!",
-      "Percentage": 13,
+      "Percentage": 11,
       "XP": 145,
       "UsersEstimate": 1
     },
@@ -156,13 +163,14 @@
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
+  "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:09:44.8758583+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:09:16.5680599+00:00",
   "LastUpdate_AppInfo": "2023-11-07T05:57:07.5089556+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:57:05.7973277+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:09:44.8758684+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:57:01.542723+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:09:16.568074+00:00"
 }

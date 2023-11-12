@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 671,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2947,6 +2947,11 @@
       "Time": "2023-11-11T22:03:21.1180087+00:00",
       "NumProgressed": 670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T04:03:24.3469895+00:00",
+      "NumProgressed": 671,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3134,7 +3139,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "Packing20",
@@ -3158,7 +3163,7 @@
       "Name": "Home Cook",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "RecipeDifferent30",
@@ -3277,7 +3282,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 671,
       "Completed": 0
     }
   ],
@@ -3285,8 +3290,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:03:36.9713206+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:03:24.346989+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:51.4511106+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:00:06.3603618+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:03:36.9713757+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:59:37.8184741+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:03:24.3470612+00:00"
 }

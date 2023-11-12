@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11961,9 +11961,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 453196,
+  "EOS_Progressed": 453225,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5884,
+  "EOS_NewPlayers": 5895,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35481,6 +35481,11 @@
       "Time": "2023-11-12T03:06:49.3016204+00:00",
       "NumProgressed": 453196,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T04:06:22.6174558+00:00",
+      "NumProgressed": 453225,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36826,9 +36831,9 @@
       "ID": "achievement_kow_tow",
       "SetID": "8p2n7he",
       "Name": "Kow-Tow",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_krabater",
@@ -38395,21 +38400,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 453196,
+      "Progressed": 453225,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 453196,
+      "Progressed": 453225,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-12T02:59:49.449616+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:06:49.3016199+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:06:22.6174554+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:59:49.4496173+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:06:49.3031501+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:59:23.4718755+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:06:22.619224+00:00"
 }

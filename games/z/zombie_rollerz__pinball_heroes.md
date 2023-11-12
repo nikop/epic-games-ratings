@@ -5,61 +5,62 @@ Rating: 4.30 (Ranked 835)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Level Up! | 88.00% | ~164 |
-| Bullseye! | 84.00% | ~156 |
-| Graduation! | 78.00% | ~145 |
+| Level Up! | 88.00% | ~165 |
+| Bullseye! | 83.00% | ~155 |
+| Graduation! | 79.00% | ~148 |
 | Villfir Forest | 74.00% | ~138 |
 | Right in the kisser! | 59.00% | ~110 |
-| Duscot Steamcity | 47.00% | ~87 |
-| The Thrower | 46.00% | ~86 |
+| Duscot Steamcity | 48.00% | ~90 |
+| The Thrower | 47.00% | ~88 |
 | The Shaman | 45.00% | ~84 |
 | The Penguin | 44.00% | ~82 |
-| The Magician | 40.00% | ~74 |
+| The Magician | 40.00% | ~75 |
 | The Tunneler | 39.00% | ~73 |
 | Level Up!! | 37.00% | ~69 |
 | The Shield | 36.00% | ~67 |
 | Kill-streak | 29.00% | ~54 |
 | Topped up | 28.00% | ~52 |
 | The Bird | 27.00% | ~50 |
-| The Ninja | 26.00% | ~48 |
-| The Idol | 24.00% | ~45 |
-| Inferno Ruins | 24.00% | ~45 |
+| The Ninja | 26.00% | ~49 |
+| The Idol | 25.00% | ~47 |
+| Inferno Ruins | 25.00% | ~47 |
 | I'm Rich | 22.00% | ~41 |
+| 1 is all I need | 21.00% | ~39 |
 | The Slime | 21.00% | ~39 |
-| 1 is all I need | 20.00% | ~37 |
-| Untouchable | 19.00% | ~35 |
+| Untouchable | 19.00% | ~36 |
+| The Flower | 17.00% | ~32 |
 | The Giant | 17.00% | ~32 |
 | Ember | 17.00% | ~32 |
 | The Blacksmith | 16.00% | ~30 |
-| The Flower | 16.00% | ~30 |
+| The Ooze | 16.00% | ~30 |
 | Out of the Frying Pan... | 16.00% | ~30 |
-| The Ooze | 15.00% | ~28 |
-| The Assistant | 13.00% | ~24 |
-| Turquoise | 13.00% | ~24 |
-| The Steampunk | 12.00% | ~22 |
-| The Droid | 10.00% | ~19 |
-| Verse | 10.00% | ~19 |
-| Iron | 9.00% | ~17 |
+| The Assistant | 14.00% | ~26 |
+| Turquoise | 14.00% | ~26 |
+| The Steampunk | 13.00% | ~24 |
+| The Droid | 11.00% | ~21 |
+| Verse | 11.00% | ~21 |
+| Iron | 10.00% | ~19 |
 | The Bomber | 8.00% | ~15 |
 | Tested | 8.00% | ~15 |
+| Highway to Hell | 7.00% | ~13 |
 | Power Overwhelming | 6.00% | ~11 |
 | The Astronaut | 6.00% | ~11 |
-| Highway to Hell | 6.00% | ~11 |
+| Mithril | 6.00% | ~11 |
 | The Exorcist | 5.00% | ~9 |
-| Mithril | 5.00% | ~9 |
+| Aluminum | 5.00% | ~9 |
 | Anvil | 5.00% | ~9 |
-| Aluminum | 4.00% | ~7 |
 | It's a Trap! | 3.00% | ~6 |
 | Blaze | 3.00% | ~6 |
 | Chorus | 3.00% | ~6 |
+| TNT | 3.00% | ~6 |
 | Analyzed | 3.00% | ~6 |
 | Tongs | 3.00% | ~6 |
 | Platinum | 3.00% | ~6 |
 | Hammer | 3.00% | ~6 |
+| Gunpowder | 3.00% | ~6 |
 | Combo Master | 2.00% | ~4 |
 | Really Bad Luck | 2.00% | ~4 |
 | Topaz | 2.00% | ~4 |
-| TNT | 2.00% | ~4 |
 | Immortality | 2.00% | ~4 |
 | Titanium | 2.00% | ~4 |
 | Rocket | 2.00% | ~4 |
@@ -68,7 +69,6 @@ Rating: 4.30 (Ranked 835)
 | Concluded | 2.00% | ~4 |
 | Divinity | 2.00% | ~4 |
 | Warp Drive Spacecraft | 2.00% | ~4 |
-| Gunpowder | 2.00% | ~4 |
 | Wu-wei | 2.00% | ~4 |
 | Satellite | 2.00% | ~4 |
 | Zombie Slayer | 2.00% | ~4 |
@@ -79,8 +79,8 @@ Rating: 4.30 (Ranked 835)
 | Divinity | 0.50% | ~1 |
 | Zombie Exterminator | 0.50% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 186 (Ranked 377)  
-Completed: 1 (0.54%) (Ranked 188)  
+Progressed: 187 (Ranked 376)  
+Completed: 1 (0.53%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -178,6 +178,7 @@ Completed: 1 (0.54%) (Ranked 188)
 | 2023-11-09 | 184 | 1 |
 | 2023-11-10 | 185 | 1 |
 | 2023-11-11 | 186 | 1 |
+| 2023-11-12 | 187 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

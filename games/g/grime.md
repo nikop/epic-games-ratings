@@ -22,7 +22,7 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,578 |
 | Sharpened Vessel | 1.00% | ~1,578 |
 | Shapely | 0.90% | ~1,420 |
-| Glare | 0.90% | ~1,416 |
+| Glare | 0.90% | ~1,417 |
 | Predator | 0.80% | ~1,262 |
 | Assimilation | 0.70% | ~1,105 |
 | Host | 0.70% | ~1,102 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,799 (Ranked 76)  
+Progressed: 157,808 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,16 +236,16 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
-| 2023-11-12 | 157,799 | 1 |
+| 2023-11-12 | 157,808 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 426)  
-Sum: 358 (Ranked 348)  
+Sum: 359 (Ranked 348)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 51 |
 | This game is Highly Recommended | 50 |
-| This game has Unique Visuals | 49 |
+| This game has Unique Visuals | 50 |
 | This game is Extremely Fun | 46 |
 | This game has Amazing Storytelling | 45 |
 | This game has Challenging Combat | 44 |
@@ -392,3 +392,4 @@ Diff (max vs sum): 78
 | 2023-11-09 | 4.59 | - | 51 | 354 |
 | 2023-11-10 | 4.58 | - | 51 | 355 |
 | 2023-11-11 | 4.59 | - | 51 | 358 |
+| 2023-11-12 | 4.59 | - | 51 | 359 |

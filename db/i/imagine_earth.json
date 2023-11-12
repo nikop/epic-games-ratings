@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 365,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
     "PcReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 424,
+  "EOS_Progressed": 425,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -398,6 +398,11 @@
       "Time": "2023-11-11T05:05:09.6953685+00:00",
       "NumProgressed": 424,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T04:05:42.8709589+00:00",
+      "NumProgressed": 425,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -425,7 +430,7 @@
       "Name": "Campaign Silver",
       "Percentage": 22,
       "XP": 40,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "CampaignStars3",
@@ -433,7 +438,7 @@
       "Name": "Campaign Gold",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "CampaignStars4",
@@ -513,7 +518,7 @@
       "Name": "Edora",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "PlanetIqunox",
@@ -529,7 +534,7 @@
       "Name": "Joma",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "PlanetLorian",
@@ -537,7 +542,7 @@
       "Name": "Lorian",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "PlanetMagni",
@@ -561,7 +566,7 @@
       "Name": "Thera",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "PlanetTuto",
@@ -569,7 +574,7 @@
       "Name": "Tuto",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "PlanetUdionTorix",
@@ -600,7 +605,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 424,
+      "Progressed": 425,
       "Completed": 0
     }
   ],
@@ -608,8 +613,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:06:06.3312191+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:05:42.8709584+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:24.6450257+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:57:33.6560297+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:06:06.3312494+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:57:25.1134059+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:05:42.870978+00:00"
 }

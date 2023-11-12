@@ -2,10 +2,10 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 458,
+  "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 191,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 63,
+  "EOS_Progressed": 65,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -159,6 +159,11 @@
       "Time": "2023-11-12T02:26:23.1819465+00:00",
       "NumProgressed": 63,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T04:04:58.1468305+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -185,9 +190,9 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "6",
@@ -211,7 +216,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "9",
@@ -225,9 +230,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "REMAKE_002",
@@ -235,15 +240,15 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 43,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "Remake_005",
@@ -265,7 +270,7 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -281,9 +286,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Remake_010",
@@ -385,23 +390,23 @@
       "ID": "Remake_22",
       "SetID": "5pi96jj",
       "Name": "Escape Lookout Cove",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 63,
+      "Progressed": 65,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:05:18.0174334+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:04:58.1468301+00:00",
   "LastUpdate_AppInfo": "2023-11-06T20:57:01.7197178+00:00",
-  "LastUpdate_Ratings": "2023-11-12T02:59:41.0241342+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:05:18.0174566+00:00"
+  "LastUpdate_Ratings": "2023-11-12T03:59:16.167372+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:04:58.1468518+00:00"
 }

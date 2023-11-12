@@ -4,8 +4,8 @@
   "ProductSlug": "flat-heroes-fec628",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-15T22:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 623,
+  "EOS_Progressed": 624,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1104,6 +1104,11 @@
       "Time": "2023-11-11T23:05:06.6887692+00:00",
       "NumProgressed": 623,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T04:04:29.7627341+00:00",
+      "NumProgressed": 624,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 44,
@@ -1139,7 +1144,7 @@
       "Name": "Be water, my friend",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "DashLevitationDashAttack",
@@ -1393,9 +1398,9 @@
       "ID": "World1Boss",
       "SetID": "d9ekhim",
       "Name": "Dash Crash",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 468
     },
     {
       "ID": "World2Boss",
@@ -1411,7 +1416,7 @@
       "Name": "The King of Flat",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "World4Boss",
@@ -1435,7 +1440,7 @@
       "Name": "Tornado Chaser",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "World7Boss",
@@ -1466,7 +1471,7 @@
     {
       "ID": "d9ekhim",
       "IsBase": true,
-      "Progressed": 623,
+      "Progressed": 624,
       "Completed": 0
     }
   ],
@@ -1474,8 +1479,8 @@
   "FirstSeenRating": "2023-03-31T05:57:22.627215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.4060419+00:00",
   "LastChanged": "2023-03-31T05:57:22.6272151+00:00",
-  "LastChanged_Achievements": "2023-11-12T03:04:47.0065197+00:00",
+  "LastChanged_Achievements": "2023-11-12T04:04:29.7627338+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:39.0115681+00:00",
-  "LastUpdate_Ratings": "2023-11-12T03:02:57.0454306+00:00",
-  "LastUpdate_Achievements": "2023-11-12T03:04:47.0065686+00:00"
+  "LastUpdate_Ratings": "2023-11-12T04:02:47.5750727+00:00",
+  "LastUpdate_Achievements": "2023-11-12T04:04:29.7627711+00:00"
 }
