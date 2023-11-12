@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,579 |
-| Basic in Bulk | 4.00% | ~5,579 |
-| Tinkle of Coins | 4.00% | ~5,579 |
-| Titan's First Steps | 4.00% | ~5,579 |
+| Sponsored by Argon | 4.00% | ~5,580 |
+| Basic in Bulk | 4.00% | ~5,580 |
+| Tinkle of Coins | 4.00% | ~5,580 |
+| Titan's First Steps | 4.00% | ~5,580 |
 | Disintermediation | 3.00% | ~4,185 |
 | It's Free Real Estate | 3.00% | ~4,185 |
 | Capitalism Ho! | 3.00% | ~4,185 |
@@ -46,17 +46,17 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,395 |
 | Magical Harmony | 1.00% | ~1,395 |
 | Arcane Industries | 1.00% | ~1,395 |
-| Big Game Hunting | 0.90% | ~1,255 |
-| For the Hoard! | 0.90% | ~1,255 |
-| Scrapbooker | 0.90% | ~1,255 |
-| Flying off the Shelves | 0.90% | ~1,255 |
-| This Power Level...! | 0.90% | ~1,255 |
-| Expansion in Session | 0.90% | ~1,255 |
-| Trash to Treasure | 0.90% | ~1,255 |
-| Seasoned Journeyman | 0.90% | ~1,255 |
-| Black Friday Special | 0.90% | ~1,255 |
-| Special Ingredient | 0.90% | ~1,255 |
-| Complete Monopoly | 0.90% | ~1,255 |
+| Big Game Hunting | 0.90% | ~1,256 |
+| For the Hoard! | 0.90% | ~1,256 |
+| Scrapbooker | 0.90% | ~1,256 |
+| Flying off the Shelves | 0.90% | ~1,256 |
+| This Power Level...! | 0.90% | ~1,256 |
+| Expansion in Session | 0.90% | ~1,256 |
+| Trash to Treasure | 0.90% | ~1,256 |
+| Seasoned Journeyman | 0.90% | ~1,256 |
+| Black Friday Special | 0.90% | ~1,256 |
+| Special Ingredient | 0.90% | ~1,256 |
+| Complete Monopoly | 0.90% | ~1,256 |
 | A Notch Above the Rest | 0.80% | ~1,116 |
 | Above the Norm | 0.80% | ~1,116 |
 | A Ronin Reborn | 0.80% | ~1,116 |
@@ -79,47 +79,47 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.80% | ~1,116 |
 | Exotic Commodities | 0.80% | ~1,116 |
 | King's Blade | 0.80% | ~1,116 |
-| Cream of the Crop | 0.70% | ~976 |
-| Top of the World | 0.70% | ~976 |
-| Proud Paladin | 0.70% | ~976 |
-| Thirst for Knowledge | 0.70% | ~976 |
-| Booty by the Boatload | 0.70% | ~976 |
-| Archivist | 0.70% | ~976 |
-| Industrial Evolution | 0.70% | ~976 |
-| Omae wa Mou Shindeiru | 0.70% | ~976 |
-| Ritualist | 0.70% | ~976 |
-| By Your Powers Combined... | 0.70% | ~976 |
-| Item of Renown | 0.70% | ~976 |
-| Bountiful Harvest | 0.70% | ~976 |
-| Precision Engineering | 0.70% | ~976 |
-| Treasure Trove | 0.70% | ~976 |
-| Moment of Respite | 0.70% | ~976 |
-| King's Shadow | 0.70% | ~976 |
-| Master Recycler | 0.70% | ~976 |
+| Cream of the Crop | 0.70% | ~977 |
+| Top of the World | 0.70% | ~977 |
+| Proud Paladin | 0.70% | ~977 |
+| Thirst for Knowledge | 0.70% | ~977 |
+| Booty by the Boatload | 0.70% | ~977 |
+| Archivist | 0.70% | ~977 |
+| Industrial Evolution | 0.70% | ~977 |
+| Omae wa Mou Shindeiru | 0.70% | ~977 |
+| Ritualist | 0.70% | ~977 |
+| By Your Powers Combined... | 0.70% | ~977 |
+| Item of Renown | 0.70% | ~977 |
+| Bountiful Harvest | 0.70% | ~977 |
+| Precision Engineering | 0.70% | ~977 |
+| Treasure Trove | 0.70% | ~977 |
+| Moment of Respite | 0.70% | ~977 |
+| King's Shadow | 0.70% | ~977 |
+| Master Recycler | 0.70% | ~977 |
 | Constellated | 0.60% | ~837 |
 | Fillin' the Bin | 0.60% | ~837 |
 | A Legend is Born | 0.60% | ~837 |
 | Economy of Scarce | 0.60% | ~837 |
-| The Free Encyclopedia | 0.50% | ~697 |
-| Thank You Tom Nook | 0.50% | ~697 |
-| Jackpot! | 0.50% | ~697 |
-| Eternal Crusade | 0.50% | ~697 |
-| All Accounted For | 0.50% | ~697 |
+| The Free Encyclopedia | 0.50% | ~698 |
+| Thank You Tom Nook | 0.50% | ~698 |
+| Jackpot! | 0.50% | ~698 |
+| Eternal Crusade | 0.50% | ~698 |
+| All Accounted For | 0.50% | ~698 |
 | All or Nothing! | 0.40% | ~558 |
-| Unleashed Potential | 0.30% | ~418 |
-| JACKPOT!!! | 0.30% | ~418 |
-| Anything not Nailed Down | 0.30% | ~418 |
-| The Greatest Grind | 0.30% | ~418 |
-| Marvels from the World Over | 0.30% | ~418 |
+| Unleashed Potential | 0.30% | ~419 |
+| JACKPOT!!! | 0.30% | ~419 |
+| Anything not Nailed Down | 0.30% | ~419 |
+| The Greatest Grind | 0.30% | ~419 |
+| Marvels from the World Over | 0.30% | ~419 |
 | Bane of Legends | 0.20% | ~279 |
 | Ultimate Collector | 0.20% | ~279 |
 | Oligarch Monarch | 0.20% | ~279 |
 | Merchant Extraordinaire | 0.20% | ~279 |
 | Cash Only Please | 0.20% | ~279 |
-| Capitalist Camaraderie | 0.10% | ~139 |
-| To Hell and Back | 0.10% | ~139 |
+| Capitalist Camaraderie | 0.10% | ~140 |
+| To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,486 (Ranked 79)  
+Progressed: 139,501 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 181 (0.13%) (Ranked 260)
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
-| 2023-11-12 | 139,486 | 181 |
+| 2023-11-12 | 139,501 | 181 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,531 (Ranked 50)  

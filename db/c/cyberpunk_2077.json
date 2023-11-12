@@ -14952,10 +14952,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 350254,
       "NumberOfAwardsMax": 105016
+    },
+    {
+      "Time": "2023-11-12T11:59:24.1959369+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 350356,
+      "NumberOfAwardsMax": 105016
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 350254,
+  "NumberOfAwards": 350356,
   "NumberOfAwardsMax": 105016,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14981,7 +14987,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 18442
+      "Count": 18544
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -15032,10 +15038,10 @@
       "Count": 12811
     }
   ],
-  "EOS_Progressed": 896347,
+  "EOS_Progressed": 896356,
   "EOS_Completed": 2767,
-  "EOS_NewPlayers": 1013,
-  "EOS_NewCompleters": 22,
+  "EOS_NewPlayers": 1010,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38367,6 +38373,11 @@
       "Time": "2023-11-12T11:04:38.4091415+00:00",
       "NumProgressed": 896347,
       "NumCompleted": 2767
+    },
+    {
+      "Time": "2023-11-12T12:05:12.2192431+00:00",
+      "NumProgressed": 896356,
+      "NumCompleted": 2767
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38451,7 +38462,7 @@
       "Name": "Gun Fu",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8963
+      "UsersEstimate": 8964
     },
     {
       "ID": "Gunslinger",
@@ -38707,7 +38718,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26890
+      "UsersEstimate": 26891
     },
     {
       "ID": "YipMan",
@@ -38914,21 +38925,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896347,
+      "Progressed": 896356,
       "Completed": 2767
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 24970,
-      "Completed": 10211
+      "Progressed": 24979,
+      "Completed": 10212
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-12T10:58:51.0934359+00:00",
-  "LastChanged_Achievements": "2023-11-12T11:04:38.409141+00:00",
+  "LastChanged": "2023-11-12T11:59:24.1959364+00:00",
+  "LastChanged_Achievements": "2023-11-12T12:05:12.2192424+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:58:51.0934365+00:00",
-  "LastUpdate_Achievements": "2023-11-12T11:04:38.409267+00:00"
+  "LastUpdate_Ratings": "2023-11-12T11:59:24.1959378+00:00",
+  "LastUpdate_Achievements": "2023-11-12T12:05:12.2194406+00:00"
 }

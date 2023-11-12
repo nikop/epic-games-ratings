@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6764,
+  "EOS_Progressed": 6765,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -5352,6 +5352,11 @@
       "Time": "2023-11-12T09:06:18.9963833+00:00",
       "NumProgressed": 6764,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-12T12:08:27.4947914+00:00",
+      "NumProgressed": 6765,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5364,7 +5369,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "achievement_01_02",
@@ -5380,7 +5385,7 @@
       "Name": "Brand New Ride",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 4329
+      "UsersEstimate": 4330
     },
     {
       "ID": "achievement_01_04",
@@ -5412,7 +5417,7 @@
       "Name": "Car Workshop",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2773
+      "UsersEstimate": 2774
     },
     {
       "ID": "achievement_01_08",
@@ -5420,7 +5425,7 @@
       "Name": "Trophy Collector",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 5005
+      "UsersEstimate": 5006
     },
     {
       "ID": "achievement_01_09",
@@ -5532,7 +5537,7 @@
       "Name": "Italy - Check!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "achievement_03_05",
@@ -5604,7 +5609,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3111
+      "UsersEstimate": 3112
     },
     {
       "ID": "achievement_04_03",
@@ -5612,7 +5617,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 3517
+      "UsersEstimate": 3518
     },
     {
       "ID": "achievement_04_04",
@@ -5652,7 +5657,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5817
+      "UsersEstimate": 5818
     },
     {
       "ID": "achievement_04_09",
@@ -5667,7 +5672,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6764,
+      "Progressed": 6765,
       "Completed": 37
     }
   ],
@@ -5675,8 +5680,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-12T07:00:07.6812412+00:00",
-  "LastChanged_Achievements": "2023-11-12T11:06:29.8904314+00:00",
+  "LastChanged_Achievements": "2023-11-12T12:08:27.4947909+00:00",
   "LastUpdate_AppInfo": "2023-11-09T20:57:10.0685893+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:59:21.6986608+00:00",
-  "LastUpdate_Achievements": "2023-11-12T11:06:29.89048+00:00"
+  "LastUpdate_Ratings": "2023-11-12T12:00:01.8062232+00:00",
+  "LastUpdate_Achievements": "2023-11-12T12:08:27.4948878+00:00"
 }

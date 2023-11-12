@@ -6,22 +6,22 @@ Number of Ratings: 706  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Having A Field Day | 76.00% | ~5,102 |
-| Get A Room | 75.00% | ~5,035 |
-| Reap What You Sow | 72.00% | ~4,833 |
-| The First Day | 69.00% | ~4,632 |
+| Having A Field Day | 76.00% | ~5,103 |
+| Get A Room | 75.00% | ~5,036 |
+| Reap What You Sow | 72.00% | ~4,834 |
+| The First Day | 69.00% | ~4,633 |
 | Green Thumb | 67.00% | ~4,498 |
 | Novice Researcher | 67.00% | ~4,498 |
 | Home Cooked Meal | 60.00% | ~4,028 |
-| Onward | 57.00% | ~3,826 |
-| The First Week | 55.00% | ~3,692 |
+| Onward | 57.00% | ~3,827 |
+| The First Week | 55.00% | ~3,693 |
 | Beam Me Up | 52.00% | ~3,491 |
 | Studious Researcher | 52.00% | ~3,491 |
-| Putting Food on the Table | 49.00% | ~3,289 |
+| Putting Food on the Table | 49.00% | ~3,290 |
 | Adept Researcher | 45.00% | ~3,021 |
-| Retribution | 42.00% | ~2,819 |
-| ...And Don’t Come Back! | 42.00% | ~2,819 |
-| Feast or Famine | 40.00% | ~2,685 |
+| Retribution | 42.00% | ~2,820 |
+| ...And Don’t Come Back! | 42.00% | ~2,820 |
+| Feast or Famine | 40.00% | ~2,686 |
 | Heating Up | 31.00% | ~2,081 |
 | Luminary Researcher | 31.00% | ~2,081 |
 | Fit For A King | 30.00% | ~2,014 |
@@ -38,7 +38,7 @@ Number of Ratings: 706  (23.09.2022)
 | Food Chain | 2.00% | ~134 |
 | Wabbit Season | 0.50% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,713 (Ranked 176)  
+Progressed: 6,714 (Ranked 176)  
 Completed: 14 (0.21%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,11 +223,11 @@ Completed: 14 (0.21%) (Ranked 243)
 | 2023-11-09 | 6,678 | 14 |
 | 2023-11-10 | 6,693 | 14 |
 | 2023-11-11 | 6,709 | 14 |
-| 2023-11-12 | 6,713 | 14 |
+| 2023-11-12 | 6,714 | 14 |
 ## Awards
-Max (Great for Beginners): 124  (Ranked 334)  
+Max (Great for Beginners): 124  (Ranked 335)  
 Sum: 1,007 (Ranked 259)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 124 |

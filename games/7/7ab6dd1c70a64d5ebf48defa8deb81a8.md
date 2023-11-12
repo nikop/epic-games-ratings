@@ -22,8 +22,8 @@
 | Big Bazar | 14.00% | ~25 |
 | Alchemist | 13.00% | ~24 |
 | The Mentor | 10.00% | ~18 |
+| Airborne | 9.00% | ~16 |
 | Miner | 9.00% | ~16 |
-| Airborne | 8.00% | ~14 |
 | Calm before the Storm | 6.00% | ~11 |
 | To Battle | 6.00% | ~11 |
 | Godslayer | 6.00% | ~11 |

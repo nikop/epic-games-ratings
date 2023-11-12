@@ -1,7 +1,7 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.55 (Ranked 505)  
+Rating: 4.55 (Ranked 504)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -18,13 +18,13 @@ Rating: 4.55 (Ranked 505)
 | Elysian Minigame-Master | 38.00% | ~175 |
 | Scaffolding Expert | 37.00% | ~171 |
 | Sole Music | 36.00% | ~166 |
+| No man left behind! | 30.00% | ~138 |
 | Portals come in packs | 30.00% | ~138 |
-| No man left behind! | 29.00% | ~134 |
 | Photo Friend | 26.00% | ~120 |
 | Brainfreeze | 21.00% | ~97 |
 | And everything comes full circle. | 20.00% | ~92 |
 | Masseltov | 19.00% | ~88 |
-| Quickdraw | 15.00% | ~69 |
+| Quickdraw | 16.00% | ~74 |
 | Thuna...? | 14.00% | ~65 |
 | Monstrous Harassment | 14.00% | ~65 |
 | Heading the inverter | 14.00% | ~65 |
@@ -34,12 +34,12 @@ Rating: 4.55 (Ranked 505)
 | Paradox! | 10.00% | ~46 |
 | Weapons 101 | 8.00% | ~37 |
 | Sadist | 7.00% | ~32 |
-| The customer is always right | 6.00% | ~28 |
+| The customer is always right | 7.00% | ~32 |
+| Every man for himself! | 6.00% | ~28 |
 | Pacifist | 6.00% | ~28 |
 | Apoca...huh? | 6.00% | ~28 |
 | Against better judgement | 6.00% | ~28 |
 | Distraction | 5.00% | ~23 |
-| Every man for himself! | 5.00% | ~23 |
 | 1001 Jackalopes | 1.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 461 (Ranked 308)  

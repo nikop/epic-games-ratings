@@ -139,6 +139,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Poland can into space | 0.10% | ~454 |
 | Populists in Government | 0.10% | ~454 |
 | Prester John | 0.10% | ~454 |
+| The Prince of Egypt | 0.10% | ~454 |
 | Pyramid of Skulls | 0.10% | ~454 |
 | Queen of Conquest | 0.10% | ~454 |
 | Redecorating | 0.10% | ~454 |
@@ -301,7 +302,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Philippine Tiger | 0.00% | ~0 |
 | Pick Your Poison | 0.00% | ~0 |
 | Pirate Bay of Janjira | 0.00% | ~0 |
-| The Prince of Egypt | 0.00% | ~0 |
 | Protect the Secret | 0.00% | ~0 |
 | Purify the Temple | 0.00% | ~0 |
 | Qing of China | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,514 (Ranked 41)  
+Progressed: 453,582 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,514 | 1 |
+| 2023-11-12 | 453,582 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
 Sum: 57,254 (Ranked 24)  

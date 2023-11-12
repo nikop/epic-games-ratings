@@ -97,25 +97,25 @@
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 43,
+      "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "05_ACHIEVEMENT_Level_40",
@@ -129,25 +129,25 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 29,
+      "Percentage": 36,
       "XP": 75,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 125,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "08_ACHIEVEMENT_Game_Complete",
       "SetID": "6opd2eg",
       "Name": "Finish the game",
-      "Percentage": 21,
+      "Percentage": 29,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "09_ACHIEVEMENT_Complete_Master",
@@ -161,9 +161,9 @@
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
       "SetID": "6opd2eg",
       "Name": "I Found a Shortcut!",
-      "Percentage": 7,
+      "Percentage": 14,
       "XP": 145,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
@@ -184,8 +184,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-12T11:08:59.7979306+00:00",
+  "LastChanged_Achievements": "2023-11-12T12:09:49.9016441+00:00",
   "LastUpdate_AppInfo": "2023-11-07T05:57:07.5089556+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:57:22.0620592+00:00",
-  "LastUpdate_Achievements": "2023-11-12T11:08:59.7979372+00:00"
+  "LastUpdate_Ratings": "2023-11-12T11:57:32.9043809+00:00",
+  "LastUpdate_Achievements": "2023-11-12T12:09:49.9016541+00:00"
 }

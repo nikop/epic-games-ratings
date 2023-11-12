@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7475,
+  "EOS_Progressed": 7476,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -5648,6 +5648,11 @@
       "Time": "2023-11-12T09:06:18.5805878+00:00",
       "NumProgressed": 7475,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-12T12:08:26.8120615+00:00",
+      "NumProgressed": 7476,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5707,7 +5712,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -5763,7 +5768,7 @@
       "Name": "A Peaceful Respite",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1046
+      "UsersEstimate": 1047
     },
     {
       "ID": "AK_PROPHECY_FULFILLED",
@@ -5811,7 +5816,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4186
+      "UsersEstimate": 4187
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -5874,15 +5879,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7475,
+      "Progressed": 7476,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-12T11:06:29.3583965+00:00",
+  "LastChanged_Achievements": "2023-11-12T12:08:26.8120609+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:39.4199908+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:02:50.1766311+00:00",
-  "LastUpdate_Achievements": "2023-11-12T11:06:29.3584377+00:00"
+  "LastUpdate_Ratings": "2023-11-12T12:03:00.9492696+00:00",
+  "LastUpdate_Achievements": "2023-11-12T12:08:26.8121259+00:00"
 }

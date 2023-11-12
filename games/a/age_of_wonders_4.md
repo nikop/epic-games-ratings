@@ -1,20 +1,20 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 384)  
+Rating: 4.61 (Ranked 385)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | But this one is mine | 2.00% | ~107 |
-| Secret Technique | 0.90% | ~48 |
+| Secret Technique | 1.00% | ~54 |
+| Realm Estate | 0.90% | ~48 |
 | Walls Cannot Stop Us | 0.90% | ~48 |
-| Realm Estate | 0.80% | ~43 |
 | Freed Lands of Manuhari | 0.80% | ~43 |
 | A Wonderful Discovery | 0.70% | ~38 |
 | From Friends to Family | 0.70% | ~38 |
+| Bone Peddler | 0.60% | ~32 |
+| Magical Synergy | 0.60% | ~32 |
 | There Can Only Be One! | 0.50% | ~27 |
-| Bone Peddler | 0.50% | ~27 |
-| Magical Synergy | 0.50% | ~27 |
 | Chaos Surge | 0.50% | ~27 |
 | Spoils of War | 0.50% | ~27 |
 | Full Ascension | 0.40% | ~21 |
@@ -25,6 +25,7 @@ Rating: 4.61 (Ranked 384)
 | Digging for Treasure | 0.30% | ~16 |
 | Stronger Together | 0.30% | ~16 |
 | Intimidation Tactics | 0.30% | ~16 |
+| Here be Dragons | 0.30% | ~16 |
 | Tipping the Scales | 0.30% | ~16 |
 | Blood of the Dragon | 0.30% | ~16 |
 | Mighty Hoard | 0.30% | ~16 |
@@ -40,7 +41,6 @@ Rating: 4.61 (Ranked 384)
 | Fiery Friend | 0.20% | ~11 |
 | Impenetrable Fortress | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
-| Here be Dragons | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,369 (Ranked 184)  
+Progressed: 5,370 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 7 (0.13%) (Ranked 260)
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
-| 2023-11-12 | 5,369 | 7 |
+| 2023-11-12 | 5,370 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 481)  
 Sum: 53 (Ranked 474)  

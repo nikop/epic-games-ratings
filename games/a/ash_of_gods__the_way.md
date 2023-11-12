@@ -25,10 +25,10 @@
 | She-Wolf | 12.00% | ~4 |
 | Overplay the rogue | 9.00% | ~3 |
 | Berkanan Borgia | 9.00% | ~3 |
+| Stronger than Gellian steel | 9.00% | ~3 |
 | By own strength | 9.00% | ~3 |
 | For the greater good | 6.00% | ~2 |
 | The best apprentice | 6.00% | ~2 |
-| Stronger than Gellian steel | 6.00% | ~2 |
 | The power of persuasion | 6.00% | ~2 |
 | Deadly strike | 6.00% | ~2 |
 | A solo player | 6.00% | ~2 |

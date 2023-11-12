@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15276,
+  "EOS_Progressed": 15280,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15820,6 +15820,11 @@
       "Time": "2023-11-12T10:04:36.8394897+00:00",
       "NumProgressed": 15276,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-12T12:04:49.3413853+00:00",
+      "NumProgressed": 15280,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16223,7 +16228,7 @@
       "Name": "Capable",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -16623,7 +16628,7 @@
       "Name": "Strong Difficulty",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -17207,7 +17212,7 @@
       "Name": "Church of the Holy Sepulchre",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_JUDAISM",
@@ -17439,7 +17444,7 @@
       "Name": "Babylonia",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_NATION_CARTHAGE",
@@ -17447,7 +17452,7 @@
       "Name": "Carthage",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_NATION_EGYPT",
@@ -17503,7 +17508,7 @@
       "Name": "One True Faith",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -17775,7 +17780,7 @@
       "Name": "Industrial Progress",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -17839,7 +17844,7 @@
       "Name": "Revelation",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -17847,7 +17852,7 @@
       "Name": "Veneration",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_THE_WORD_OF_GOD",
@@ -17895,7 +17900,7 @@
       "Name": "Mounted Lancer",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_UNIT_LEGIONARY",
@@ -18566,21 +18571,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15276,
+      "Progressed": 15280,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15276,
+      "Progressed": 15280,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-12T11:04:19.0859757+00:00",
+  "LastChanged_Achievements": "2023-11-12T12:04:49.3413847+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:59:30.6924509+00:00",
-  "LastUpdate_Achievements": "2023-11-12T11:04:19.0868794+00:00"
+  "LastUpdate_Ratings": "2023-11-12T12:00:13.629679+00:00",
+  "LastUpdate_Achievements": "2023-11-12T12:04:49.3427127+00:00"
 }

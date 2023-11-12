@@ -3187,10 +3187,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2763,
       "NumberOfAwardsMax": 311
+    },
+    {
+      "Time": "2023-11-12T12:02:44.8779449+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2764,
+      "NumberOfAwardsMax": 311
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2763,
+  "NumberOfAwards": 2764,
   "NumberOfAwardsMax": 311,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3210,7 +3216,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 256
+      "Count": 257
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -3267,9 +3273,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30837,
+  "EOS_Progressed": 30838,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 656,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -18952,6 +18958,11 @@
       "Time": "2023-11-12T11:04:27.4497954+00:00",
       "NumProgressed": 30837,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-11-12T12:04:59.1492022+00:00",
+      "NumProgressed": 30838,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 51,
@@ -19011,7 +19022,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "Collector",
@@ -19051,7 +19062,7 @@
       "Name": "Discovery",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "Dont_Need_These",
@@ -19099,7 +19110,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "GB_In_Training",
@@ -19251,7 +19262,7 @@
       "Name": "Solo Capture",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "Stunner",
@@ -19291,7 +19302,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "Teamwork",
@@ -19299,7 +19310,7 @@
       "Name": "Teamwork",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "Terrifying",
@@ -19347,7 +19358,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1233
+      "UsersEstimate": 1234
     },
     {
       "ID": "Welcome_Crew",
@@ -19370,16 +19381,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30837,
+      "Progressed": 30838,
       "Completed": 67
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-12T08:02:52.8300988+00:00",
-  "LastChanged_Achievements": "2023-11-12T11:04:27.4497949+00:00",
+  "LastChanged": "2023-11-12T12:02:44.8779447+00:00",
+  "LastChanged_Achievements": "2023-11-12T12:04:59.1492017+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-12T11:02:37.8820751+00:00",
-  "LastUpdate_Achievements": "2023-11-12T11:04:27.4499037+00:00"
+  "LastUpdate_Ratings": "2023-11-12T12:02:44.8779453+00:00",
+  "LastUpdate_Achievements": "2023-11-12T12:04:59.1493485+00:00"
 }

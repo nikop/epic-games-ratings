@@ -8,6 +8,7 @@ Rating: 4.21 (Ranked 900)
 | May the Torchbearer light our way | 0.60% | ~1,853 |
 | The touch of Chaos | 0.60% | ~1,853 |
 | A powerful aura was here | 0.40% | ~1,235 |
+| Your wounds… They are healing so fast! | 0.20% | ~618 |
 | Let's raise the stakes!! | 0.20% | ~618 |
 | Rumors are true | 0.10% | ~309 |
 | We'll be careful | 0.10% | ~309 |
@@ -34,7 +35,6 @@ Rating: 4.21 (Ranked 900)
 | There's too many of them! | 0.10% | ~309 |
 | Their fate is sealed | 0.10% | ~309 |
 | Not even from this world | 0.10% | ~309 |
-| Your wounds… They are healing so fast! | 0.10% | ~309 |
 | Bring it on! | 0.10% | ~309 |
 | I've been waiting for this! | 0.10% | ~309 |
 | You want more? I've got more! | 0.10% | ~309 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 900)
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308,825 (Ranked 49)  
+Progressed: 308,873 (Ranked 49)  
 Completed: 4 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 4 (0.00%) (Ranked 347)
 | 2023-11-09 | 306,560 | 3 |
 | 2023-11-10 | 307,359 | 4 |
 | 2023-11-11 | 308,408 | 4 |
-| 2023-11-12 | 308,825 | 4 |
+| 2023-11-12 | 308,873 | 4 |
 ## Awards
 Max (Great Boss Battles): 54  (Ranked 418)  
 Sum: 54 (Ranked 473)  

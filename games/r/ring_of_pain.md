@@ -20,6 +20,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | R.I.P | 0.20% | ~479 |
 | That Was Quick | 0.20% | ~479 |
 | Colorful Corpse | 0.20% | ~479 |
+| Dig Your Own Grave | 0.20% | ~479 |
 | Walk It Off | 0.20% | ~479 |
 | Cold Hearted | 0.20% | ~479 |
 | I Am Overburdened | 0.20% | ~479 |
@@ -56,7 +57,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Dead Revels | 0.10% | ~240 |
 | To The Death! | 0.10% | ~240 |
 | New Game+ | 0.10% | ~240 |
-| Dig Your Own Grave | 0.10% | ~240 |
 | Friend of Vermin | 0.10% | ~240 |
 | Well Prepared | 0.10% | ~240 |
 | Who To Trust? | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,576 (Ranked 61)  
+Progressed: 239,581 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 288 (0.12%) (Ranked 266)
 | 2023-11-09 | 239,427 | 287 |
 | 2023-11-10 | 239,475 | 287 |
 | 2023-11-11 | 239,548 | 288 |
-| 2023-11-12 | 239,576 | 288 |
+| 2023-11-12 | 239,581 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 131)  
 Sum: 11,667 (Ranked 83)  

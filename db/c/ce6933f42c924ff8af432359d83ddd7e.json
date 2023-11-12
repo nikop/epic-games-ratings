@@ -2,9 +2,9 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_Progress": 289,
+  "Ranking_EOS_Completed": 79,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 575,
+  "EOS_Progressed": 576,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 4.35,
+  "EOS_Completed_Percentage": 4.34,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1459,6 +1459,11 @@
       "Time": "2023-11-12T11:08:31.5074909+00:00",
       "NumProgressed": 575,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2023-11-12T12:09:16.3383714+00:00",
+      "NumProgressed": 576,
+      "NumCompleted": 25
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1487,7 +1492,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -1495,7 +1500,7 @@
       "Name": "An apple a day",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -1517,9 +1522,9 @@
       "ID": "ACH_RADIO_TAPES",
       "SetID": "6f5dahd",
       "Name": "Good listener",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 334
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1541,23 +1546,23 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 310
+      "UsersEstimate": 317
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 575,
+      "Progressed": 576,
       "Completed": 25
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-12T11:08:31.5074904+00:00",
+  "LastChanged_Achievements": "2023-11-12T12:09:16.3383708+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:57:38.6043173+00:00",
-  "LastUpdate_Achievements": "2023-11-12T11:08:31.5075054+00:00"
+  "LastUpdate_Ratings": "2023-11-12T11:57:52.5060003+00:00",
+  "LastUpdate_Achievements": "2023-11-12T12:09:16.3383983+00:00"
 }

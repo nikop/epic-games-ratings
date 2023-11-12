@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -1212,6 +1212,11 @@
       "Time": "2023-11-12T08:08:28.3109256+00:00",
       "NumProgressed": 263,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T12:08:28.5572975+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -1224,7 +1229,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "achievement_10",
@@ -1286,9 +1291,9 @@
       "ID": "achievement_17",
       "SetID": "18al4io",
       "Name": "Lights Army",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_18",
@@ -1312,7 +1317,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "achievement_20",
@@ -1368,7 +1373,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "achievement_36",
@@ -1456,7 +1461,7 @@
       "Name": "Enlisted",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "achievement_49",
@@ -1472,7 +1477,7 @@
       "Name": "Initiate",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_50",
@@ -1520,7 +1525,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "achievement_60",
@@ -1590,16 +1595,16 @@
       "ID": "achievement_9",
       "SetID": "18al4io",
       "Name": "Beggars Would Ride",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 1
     }
   ],
@@ -1607,8 +1612,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-12T02:59:37.0772837+00:00",
-  "LastChanged_Achievements": "2023-11-12T11:06:30.7049529+00:00",
+  "LastChanged_Achievements": "2023-11-12T12:08:28.557297+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:59:25.4634635+00:00",
-  "LastUpdate_Achievements": "2023-11-12T11:06:30.7049923+00:00"
+  "LastUpdate_Ratings": "2023-11-12T12:00:06.6398384+00:00",
+  "LastUpdate_Achievements": "2023-11-12T12:08:28.5573444+00:00"
 }

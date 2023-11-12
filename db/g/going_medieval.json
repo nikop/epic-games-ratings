@@ -3,11 +3,11 @@
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
   "Ranking_Rating": 410,
-  "Ranking_Popularity": 334,
+  "Ranking_Popularity": 335,
   "Ranking_PopularitySum": 259,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 243,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1415,7 +1415,7 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 6713,
+  "EOS_Progressed": 6714,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
@@ -12600,6 +12600,11 @@
       "Time": "2023-11-12T03:03:16.3892883+00:00",
       "NumProgressed": 6713,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-12T12:03:27.2938827+00:00",
+      "NumProgressed": 6714,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -12611,7 +12616,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5035
+      "UsersEstimate": 5036
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -12651,7 +12656,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5102
+      "UsersEstimate": 5103
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -12659,7 +12664,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4833
+      "UsersEstimate": 4834
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -12723,7 +12728,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -12739,7 +12744,7 @@
       "Name": "Feast or Famine",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -12755,7 +12760,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3289
+      "UsersEstimate": 3290
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -12771,7 +12776,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4632
+      "UsersEstimate": 4633
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -12779,7 +12784,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2819
+      "UsersEstimate": 2820
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -12811,7 +12816,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3692
+      "UsersEstimate": 3693
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -12843,7 +12848,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3826
+      "UsersEstimate": 3827
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -12858,15 +12863,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6713,
+      "Progressed": 6714,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-09T17:02:57.7669931+00:00",
-  "LastChanged_Achievements": "2023-11-12T11:03:09.9144869+00:00",
+  "LastChanged_Achievements": "2023-11-12T12:03:27.2938823+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:38.5304981+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:58:04.5199157+00:00",
-  "LastUpdate_Achievements": "2023-11-12T11:03:09.9145475+00:00"
+  "LastUpdate_Ratings": "2023-11-12T11:58:25.311784+00:00",
+  "LastUpdate_Achievements": "2023-11-12T12:03:27.2939765+00:00"
 }

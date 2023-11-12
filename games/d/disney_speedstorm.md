@@ -5,24 +5,24 @@ Rating: 4.38 (Ranked 763)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 9.00% | ~26,362 |
-| IT MAKES BOOM! | 6.00% | ~17,575 |
-| EXTRA BOOST | 4.00% | ~11,717 |
-| PROTECTED | 4.00% | ~11,717 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,787 |
-| PRO | 3.00% | ~8,787 |
-| A TIGER'S FEAR | 2.00% | ~5,858 |
-| AGGRESSIVE RACER | 2.00% | ~5,858 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,929 |
-| ACE SPEEDSTER | 1.00% | ~2,929 |
-| RELEASE THE KRAKEN | 0.80% | ~2,343 |
-| LEGENDARY HERO | 0.80% | ~2,343 |
-| TRAINING HARD | 0.70% | ~2,050 |
-| BE OUR GUEST | 0.70% | ~2,050 |
-| DEFEAT OUR CHAMPION | 0.70% | ~2,050 |
-| FRIENDLY | 0.70% | ~2,050 |
-| THE EYE OF THE HUNTER | 0.60% | ~1,757 |
-| MASTER | 0.60% | ~1,757 |
+| ROOKIE | 9.00% | ~26,370 |
+| IT MAKES BOOM! | 6.00% | ~17,580 |
+| EXTRA BOOST | 4.00% | ~11,720 |
+| PROTECTED | 4.00% | ~11,720 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,790 |
+| PRO | 3.00% | ~8,790 |
+| A TIGER'S FEAR | 2.00% | ~5,860 |
+| AGGRESSIVE RACER | 2.00% | ~5,860 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,930 |
+| ACE SPEEDSTER | 1.00% | ~2,930 |
+| RELEASE THE KRAKEN | 0.80% | ~2,344 |
+| LEGENDARY HERO | 0.80% | ~2,344 |
+| TRAINING HARD | 0.70% | ~2,051 |
+| BE OUR GUEST | 0.70% | ~2,051 |
+| DEFEAT OUR CHAMPION | 0.70% | ~2,051 |
+| FRIENDLY | 0.70% | ~2,051 |
+| THE EYE OF THE HUNTER | 0.60% | ~1,758 |
+| MASTER | 0.60% | ~1,758 |
 | EXPERIENCED CREW | 0.50% | ~1,465 |
 | ACE BRAWLER | 0.40% | ~1,172 |
 | ACE DEFENDER | 0.40% | ~1,172 |
@@ -30,7 +30,7 @@ Rating: 4.38 (Ranked 763)
 | FRAMED! | 0.20% | ~586 |
 | ACE TRICKSTER | 0.20% | ~586 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 292,915 (Ranked 52)  
+Progressed: 292,997 (Ranked 52)  
 Completed: 281 (0.10%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,11 +232,11 @@ Completed: 281 (0.10%) (Ranked 270)
 | 2023-11-09 | 287,793 | 278 |
 | 2023-11-10 | 289,858 | 279 |
 | 2023-11-11 | 292,080 | 281 |
-| 2023-11-12 | 292,915 | 281 |
+| 2023-11-12 | 292,997 | 281 |
 ## Awards
 Max (Great for Beginners): 64  (Ranked 406)  
-Sum: 522 (Ranked 319)  
-Diff (max vs sum): 87  
+Sum: 522 (Ranked 320)  
+Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 64 |
