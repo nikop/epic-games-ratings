@@ -50,7 +50,7 @@
 | We Are Speed | 2.00% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 663 (Ranked 278)  
-Completed: 5 (0.75%) (Ranked 173)  
+Completed: 5 (0.75%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

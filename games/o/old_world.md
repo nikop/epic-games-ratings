@@ -350,7 +350,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 15,287 (Ranked 146)  
-Completed: 5 (0.03%) (Ranked 310)  
+Completed: 5 (0.03%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

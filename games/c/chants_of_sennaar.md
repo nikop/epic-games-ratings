@@ -13,11 +13,11 @@
 | True G3M4R | 20.00% | ~107 |
 | The darkness | 20.00% | ~107 |
 | A good beginning | 19.00% | ~101 |
+| One last step | 19.00% | ~101 |
 | I did it | 18.00% | ~96 |
+| Peace walker | 18.00% | ~96 |
 | Cable guy | 18.00% | ~96 |
 | Half the way | 18.00% | ~96 |
-| One last step | 18.00% | ~96 |
-| Peace walker | 17.00% | ~91 |
 | Champollion | 17.00% | ~91 |
 | In this together | 16.00% | ~85 |
 | Open door | 15.00% | ~80 |
@@ -26,12 +26,12 @@
 | Free at last | 12.00% | ~64 |
 | A Link to the Past | 11.00% | ~59 |
 | Rascal | 11.00% | ~59 |
-| A great audience | 9.00% | ~48 |
+| A great audience | 10.00% | ~53 |
 | For its own good | 9.00% | ~48 |
 | Fashion victim | 3.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 534 (Ranked 297)  
-Completed: 28 (5.24%) (Ranked 68)  
+Completed: 28 (5.24%) (Ranked 69)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

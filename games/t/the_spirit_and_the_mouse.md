@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Energy Seeker | 90.00% | ~70 |
-| Lightbulb Seeker | 87.00% | ~68 |
-| Grilled Mouse | 85.00% | ~66 |
+| Energy Seeker | 91.00% | ~71 |
+| Lightbulb Seeker | 88.00% | ~69 |
+| Grilled Mouse | 86.00% | ~67 |
 | Lightbulbs Collector | 78.00% | ~61 |
 | Energy Collector | 74.00% | ~58 |
 | East Street Energy | 51.00% | ~40 |
@@ -46,7 +46,7 @@
 | Take a break | 1.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 78 (Ranked 443)  
-Completed: 0 (0.00%) (Ranked 347)  
+Completed: 0 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

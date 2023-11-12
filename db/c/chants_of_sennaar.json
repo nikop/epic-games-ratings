@@ -3,8 +3,8 @@
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 297,
-  "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_Completed": 69,
+  "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 534,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 5.24,
   "EosHistory": [
@@ -2305,9 +2305,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 96
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2361,9 +2361,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 53
     },
     {
       "ID": "META_RESULT_2-4",
@@ -2481,9 +2481,9 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     }
   ],
   "AchievementSets": [
@@ -2496,8 +2496,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-12T20:07:05.0728336+00:00",
+  "LastChanged_Achievements": "2023-11-12T21:05:32.3810919+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:01:27.9512826+00:00",
-  "LastUpdate_Achievements": "2023-11-12T20:07:05.0728632+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:59:47.0672165+00:00",
+  "LastUpdate_Achievements": "2023-11-12T21:05:32.3811211+00:00"
 }

@@ -19,8 +19,8 @@ Rating: 3.95 (Ranked 1,005)
 | Dragonslayer | 1.00% | ~908 |
 | Rockay Rex | 1.00% | ~908 |
 | Hidden Sonata | 0.80% | ~726 |
-| Track Star | 0.70% | ~635 |
-| True Player | 0.70% | ~635 |
+| Track Star | 0.70% | ~636 |
+| True Player | 0.70% | ~636 |
 | Headhunter | 0.60% | ~545 |
 | I Like Trains | 0.50% | ~454 |
 | Freebooter | 0.50% | ~454 |
@@ -47,8 +47,8 @@ Rating: 3.95 (Ranked 1,005)
 | Geek Out | 0.10% | ~91 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,782 (Ranked 91)  
-Completed: 55 (0.06%) (Ranked 291)  
+Progressed: 90,791 (Ranked 91)  
+Completed: 55 (0.06%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -253,11 +253,11 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
 | 2023-11-11 | 90,531 | 55 |
-| 2023-11-12 | 90,782 | 55 |
+| 2023-11-12 | 90,791 | 55 |
 ## Awards
 Max (Diverse Characters): 527  (Ranked 203)  
-Sum: 3,005 (Ranked 175)  
-Diff (max vs sum): 28  
+Sum: 3,005 (Ranked 176)  
+Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 527 |

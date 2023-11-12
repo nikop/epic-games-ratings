@@ -7,8 +7,8 @@
 | Chapter I | 52.00% | ~80 |
 | Fire in the... nevermind | 52.00% | ~80 |
 | Haute cuisine | 47.00% | ~72 |
+| Demolition expert | 40.00% | ~61 |
 | I didn't do it! | 40.00% | ~61 |
-| Demolition expert | 39.00% | ~60 |
 | Keep away from children | 37.00% | ~57 |
 | Wooooooow! | 36.00% | ~55 |
 | Open up wide | 35.00% | ~54 |
@@ -16,11 +16,11 @@
 | Let the boot talk | 31.00% | ~47 |
 | Shadow on the wall | 27.00% | ~41 |
 | Chapter II | 27.00% | ~41 |
+| Handyman | 24.00% | ~37 |
 | Bubblekillerfamily | 24.00% | ~37 |
 | Achoo!! | 24.00% | ~37 |
 | Chapter III | 24.00% | ~37 |
 | Like a moth in the Wind | 24.00% | ~37 |
-| Handyman | 23.00% | ~35 |
 | Quite a buggy game | 21.00% | ~32 |
 | Pacifist | 20.00% | ~31 |
 | Mirror mirror on the wall... | 20.00% | ~31 |
@@ -52,7 +52,7 @@
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 153 (Ranked 391)  
-Completed: 0 (0.00%) (Ranked 347)  
+Completed: 0 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

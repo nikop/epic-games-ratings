@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 194,
-  "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 343,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 349,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-10-21T04:00:00+00:00",
     "PcReleaseDate": "2022-10-21T04:00:00+00:00",
@@ -177,9 +177,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3688,
+  "EOS_Progressed": 3689,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1742,6 +1742,11 @@
       "Time": "2023-11-10T12:03:34.8190673+00:00",
       "NumProgressed": 3688,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T21:04:27.6763818+00:00",
+      "NumProgressed": 3689,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -1791,9 +1796,9 @@
       "ID": "FIND_FIRST_VAULTLANDER",
       "SetID": "kakdpn",
       "Name": "Each Sold Separately",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1401
+      "UsersEstimate": 1365
     },
     {
       "ID": "FINISH_EPISODE_1",
@@ -1817,7 +1822,7 @@
       "Name": "Our Lucky Winner",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "FINISH_EPISODE_4",
@@ -1881,7 +1886,7 @@
       "Name": "You Poor Now!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "NAILED_PERFECT_SEXY_DANCE",
@@ -1960,7 +1965,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3688,
+      "Progressed": 3689,
       "Completed": 0
     }
   ],
@@ -1968,8 +1973,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2023-11-12T20:05:31.1809774+00:00",
+  "LastChanged_Achievements": "2023-11-12T21:04:27.6763815+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:05.4921545+00:00",
-  "LastUpdate_Ratings": "2023-11-12T19:59:47.9176227+00:00",
-  "LastUpdate_Achievements": "2023-11-12T20:05:31.1809983+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:58:42.1202299+00:00",
+  "LastUpdate_Achievements": "2023-11-12T21:04:27.6764043+00:00"
 }

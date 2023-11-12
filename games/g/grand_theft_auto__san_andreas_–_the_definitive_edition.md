@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 503)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~11,073 |
+| Getting Started | 82.00% | ~11,209 |
 | Pay 'n' Spray | 51.00% | ~6,972 |
 | All Dressed Up for San Fierro | 26.00% | ~3,554 |
 | The American Dream | 20.00% | ~2,734 |
@@ -42,7 +42,7 @@ Rating: 4.55 (Ranked 503)
 | I Ain't No Buster | 0.40% | ~55 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13,670 (Ranked 149)  
-Completed: 53 (0.39%) (Ranked 209)  
+Completed: 53 (0.39%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,12 +249,12 @@ Completed: 53 (0.39%) (Ranked 209)
 | 2023-11-11 | 13,663 | 52 |
 | 2023-11-12 | 13,670 | 53 |
 ## Awards
-Max (Great Boss Battles): 384  (Ranked 231)  
-Sum: 605 (Ranked 309)  
+Max (Great Boss Battles): 387  (Ranked 231)  
+Sum: 608 (Ranked 309)  
 Diff (max vs sum): -78  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 384 |
+| This game has Great Boss Battles | 387 |
 | This game is Relaxing | 38 |
 | This game has Amazing Storytelling | 34 |
 | This game is Great for Beginners | 33 |
@@ -438,4 +438,4 @@ Diff (max vs sum): -78
 | 2023-11-09 | 4.56 | 380 | 633 |
 | 2023-11-10 | 4.56 | 381 | 635 |
 | 2023-11-11 | 4.56 | 384 | 638 |
-| 2023-11-12 | 4.55 | 384 | 605 |
+| 2023-11-12 | 4.55 | 387 | 608 |

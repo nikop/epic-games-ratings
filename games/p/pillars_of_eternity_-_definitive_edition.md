@@ -6,18 +6,18 @@ Number of Ratings: 2,847  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Kickstarter Backer | 82.00% | ~894 |
+| Kickstarter Backer | 82.00% | ~893 |
 | Completed Act I | 31.00% | ~338 |
 | 5 Upgrades in Stronghold | 26.00% | ~283 |
-| First 5 Levels of Od Nua | 24.00% | ~262 |
-| Make an Adventurer | 23.00% | ~251 |
+| First 5 Levels of Od Nua | 25.00% | ~272 |
+| Make an Adventurer | 23.00% | ~250 |
 | Completed Act II | 16.00% | ~174 |
-| Enchanter | 15.00% | ~164 |
-| Disposition | 15.00% | ~164 |
-| The Watcher With Eight Friends | 15.00% | ~164 |
-| Middle 5 Levels of Od Nua | 15.00% | ~164 |
-| Super Murderer | 14.00% | ~153 |
-| All Upgrades in Stronghold | 14.00% | ~153 |
+| Enchanter | 15.00% | ~163 |
+| Disposition | 15.00% | ~163 |
+| The Watcher With Eight Friends | 15.00% | ~163 |
+| Middle 5 Levels of Od Nua | 15.00% | ~163 |
+| Super Murderer | 14.00% | ~152 |
+| All Upgrades in Stronghold | 14.00% | ~152 |
 | The Heir of Caed Nua | 13.00% | ~142 |
 | Soulbinder | 13.00% | ~142 |
 | Last 5 Levels of Od Nua | 12.00% | ~131 |
@@ -55,8 +55,8 @@ Number of Ratings: 2,847  (23.09.2022)
 | Frozen Crown | 0.50% | ~5 |
 | The Ultimate | 0.50% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,090 (Ranked 250)  
-Completed: 2 (0.18%) (Ranked 251)  
+Progressed: 1,089 (Ranked 250)  
+Completed: 2 (0.18%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -97,6 +97,7 @@ Completed: 2 (0.18%) (Ranked 251)
 | 2023-11-04 | 1,093 | 2 |
 | 2023-11-10 | 1,091 | 2 |
 | 2023-11-11 | 1,090 | 2 |
+| 2023-11-12 | 1,089 | 2 |
 ## Awards
 Max (Character Customization): 1,937  (Ranked 113)  
 Sum: 4,758 (Ranked 143)  

@@ -41,7 +41,7 @@
 | Froggy Friendship | 5.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 21 (Ranked 534)  
-Completed: 1 (4.76%) (Ranked 71)  
+Completed: 1 (4.76%) (Ranked 72)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

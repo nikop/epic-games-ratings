@@ -24,7 +24,7 @@ Rating: 4.66 (Ranked 293)
 | At Wits' End | 47.00% | ~380 |
 | Up In Flames | 45.00% | ~364 |
 | Fhtagn! | 45.00% | ~364 |
-| Bookworm | 43.00% | ~347 |
+| Bookworm | 44.00% | ~356 |
 | Going Once... | 41.00% | ~331 |
 | Let Me Be Frank | 39.00% | ~315 |
 | No Stone Unturned | 37.00% | ~299 |
@@ -35,7 +35,7 @@ Rating: 4.66 (Ranked 293)
 | Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 808 (Ranked 266)  
-Completed: 27 (3.34%) (Ranked 88)  
+Completed: 27 (3.34%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

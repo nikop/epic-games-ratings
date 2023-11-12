@@ -33,7 +33,7 @@
 | Knife Juggler | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 35 (Ranked 503)  
-Completed: 1 (2.86%) (Ranked 102)  
+Completed: 1 (2.86%) (Ranked 103)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

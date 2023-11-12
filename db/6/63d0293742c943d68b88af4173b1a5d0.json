@@ -2,10 +2,10 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 432,
-  "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Completed": 349,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 89,
+  "EOS_Progressed": 91,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -224,6 +224,11 @@
       "Time": "2023-11-12T20:06:19.5299936+00:00",
       "NumProgressed": 89,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T21:05:01.1400848+00:00",
+      "NumProgressed": 91,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -276,7 +281,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "9",
@@ -290,7 +295,7 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
       "UsersEstimate": 21
     },
@@ -298,17 +303,17 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "Remake_005",
@@ -330,7 +335,7 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -426,9 +431,9 @@
       "ID": "Remake_19",
       "SetID": "5pi96jj",
       "Name": "Pan Head",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Remake_20",
@@ -459,14 +464,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 89,
+      "Progressed": 91,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-12T20:06:19.5299928+00:00",
+  "LastChanged_Achievements": "2023-11-12T21:05:01.1400846+00:00",
   "LastUpdate_AppInfo": "2023-11-06T20:57:01.7197178+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:00:53.6647161+00:00",
-  "LastUpdate_Achievements": "2023-11-12T20:06:19.5300113+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:59:25.6786337+00:00",
+  "LastUpdate_Achievements": "2023-11-12T21:05:01.1400997+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "CyberTD",
   "ProductSlug": "cybertd-22dbd6",
   "Ranking_EOS_Progress": 560,
-  "Ranking_EOS_Completed": 347,
+  "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -189,9 +189,9 @@
       "ID": "18",
       "SetID": "6hl9l7f",
       "Name": "Monolith",
-      "Percentage": 13,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "19",
@@ -269,9 +269,9 @@
       "ID": "27",
       "SetID": "6hl9l7f",
       "Name": "Full Power",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "28",
@@ -452,8 +452,8 @@
   ],
   "FirstSeen": "2023-09-29T05:01:32.9866964+00:00",
   "FirstSeenAchievements": "2023-07-16T05:02:49.5531761+00:00",
-  "LastChanged_Achievements": "2023-11-12T20:04:07.198648+00:00",
+  "LastChanged_Achievements": "2023-11-12T21:03:29.5642898+00:00",
   "LastUpdate_AppInfo": "2023-11-12T14:56:54.3017105+00:00",
-  "LastUpdate_Ratings": "2023-11-12T19:58:25.5557618+00:00",
-  "LastUpdate_Achievements": "2023-11-12T20:04:07.1986763+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:57:49.4883613+00:00",
+  "LastUpdate_Achievements": "2023-11-12T21:03:29.5643195+00:00"
 }

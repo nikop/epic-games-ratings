@@ -16,7 +16,7 @@
 | Crown | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 13 (Ranked 570)  
-Completed: 0 (0.00%) (Ranked 347)  
+Completed: 0 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

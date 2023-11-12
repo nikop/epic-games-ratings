@@ -14,9 +14,9 @@
 | Haute Cuisine | 9.00% | ~61 |
 | Italian Style | 7.00% | ~47 |
 | Sous-Chef | 5.00% | ~34 |
+| Rolling in Dough | 5.00% | ~34 |
 | Well-Stocked Kitchen | 5.00% | ~34 |
 | Culinary Arts | 4.00% | ~27 |
-| Rolling in Dough | 4.00% | ~27 |
 | Perfectionist | 3.00% | ~20 |
 | Leaning Tower of Pizza | 3.00% | ~20 |
 | Eco Warrior | 0.40% | ~3 |
@@ -46,7 +46,7 @@
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 673 (Ranked 276)  
-Completed: 0 (0.00%) (Ranked 347)  
+Completed: 0 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

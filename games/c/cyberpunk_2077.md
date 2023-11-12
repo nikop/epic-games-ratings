@@ -20,6 +20,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.40% | ~3,586 |
 | Life of the Road | 0.40% | ~3,586 |
 | The Hermit | 0.40% | ~3,586 |
+| The High Priestess | 0.40% | ~3,586 |
 | The Lovers | 0.40% | ~3,586 |
 | The Wheel of Fortune | 0.40% | ~3,586 |
 | True Warrior | 0.40% | ~3,586 |
@@ -29,7 +30,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.30% | ~2,689 |
 | I Am The Law | 0.30% | ~2,689 |
 | The Fool | 0.30% | ~2,689 |
-| The High Priestess | 0.30% | ~2,689 |
 | The World | 0.30% | ~2,689 |
 | Judy vs Night City | 0.30% | ~2,689 |
 | King of Wands | 0.30% | ~75 |
@@ -42,6 +42,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.20% | ~1,793 |
 | Two Heads, One Bullet | 0.20% | ~1,793 |
 | Judgement Day | 0.20% | ~50 |
+| King of Pentacles | 0.20% | ~50 |
 | King of Swords | 0.20% | ~50 |
 | The Tower | 0.20% | ~50 |
 | City Lights | 0.10% | ~896 |
@@ -62,7 +63,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | It's Elementary | 0.10% | ~896 |
 | The APB is Not Enough | 0.10% | ~25 |
 | King of Cups | 0.10% | ~25 |
-| King of Pentacles | 0.10% | ~25 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,443 (Ranked 15)  
-Completed: 2,770 (0.31%) (Ranked 223)  
+Progressed: 896,448 (Ranked 15)  
+Completed: 2,770 (0.31%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -280,7 +280,7 @@ Completed: 2,770 (0.31%) (Ranked 223)
 | 2023-11-09 | 895,936 | 2,759 |
 | 2023-11-10 | 896,078 | 2,761 |
 | 2023-11-11 | 896,271 | 2,766 |
-| 2023-11-12 | 896,443 | 2,770 |
+| 2023-11-12 | 896,448 | 2,770 |
 ## Awards
 Max (Character Customization): 105,188  (Ranked 9)  
 Sum: 350,761 (Ranked 10)  

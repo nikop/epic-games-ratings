@@ -1,7 +1,7 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.45 (Ranked 662)  
+Rating: 4.45 (Ranked 661)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -21,7 +21,7 @@ Rating: 4.45 (Ranked 662)
 | Dog Person | 20.00% | ~639 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,195 (Ranked 204)  
-Completed: 133 (4.16%) (Ranked 81)  
+Completed: 133 (4.16%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -12,7 +12,7 @@
 | Underground | 9.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 22 (Ranked 531)  
-Completed: 0 (0.00%) (Ranked 347)  
+Completed: 0 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

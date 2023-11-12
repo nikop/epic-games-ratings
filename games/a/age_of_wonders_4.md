@@ -8,13 +8,13 @@ Rating: 4.61 (Ranked 384)
 | But this one is mine | 2.00% | ~108 |
 | Realm Estate | 1.00% | ~54 |
 | Secret Technique | 1.00% | ~54 |
+| Walls Cannot Stop Us | 1.00% | ~54 |
 | A Wonderful Discovery | 0.90% | ~48 |
-| Walls Cannot Stop Us | 0.90% | ~48 |
 | Freed Lands of Manuhari | 0.90% | ~48 |
 | From Friends to Family | 0.80% | ~43 |
 | There Can Only Be One! | 0.70% | ~38 |
+| Full Ascension | 0.70% | ~38 |
 | Bone Peddler | 0.70% | ~38 |
-| Full Ascension | 0.60% | ~32 |
 | Magical Synergy | 0.60% | ~32 |
 | Seat of Power | 0.60% | ~32 |
 | In a Liege of Your Own | 0.50% | ~27 |
@@ -28,6 +28,7 @@ Rating: 4.61 (Ranked 384)
 | Sehiran Oasis | 0.40% | ~22 |
 | Seal the Deal | 0.40% | ~22 |
 | Dawn of the Dread | 0.40% | ~22 |
+| Enchanted Archipelago | 0.30% | ~16 |
 | My Final Form | 0.30% | ~16 |
 | Impenetrable Fortress | 0.30% | ~16 |
 | Here be Dragons | 0.30% | ~16 |
@@ -39,7 +40,6 @@ Rating: 4.61 (Ranked 384)
 | Lord of Chaos | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
 | The Creator | 0.20% | ~11 |
-| Enchanted Archipelago | 0.20% | ~11 |
 | Crimson Caldera | 0.20% | ~11 |
 | Preparation Is Everything | 0.20% | ~11 |
 | Fiery Friend | 0.20% | ~11 |
@@ -66,8 +66,8 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,382 (Ranked 184)  
-Completed: 7 (0.13%) (Ranked 260)  
+Progressed: 5,383 (Ranked 184)  
+Completed: 7 (0.13%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,7 +240,7 @@ Completed: 7 (0.13%) (Ranked 260)
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
-| 2023-11-12 | 5,382 | 7 |
+| 2023-11-12 | 5,383 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 482)  
 Sum: 53 (Ranked 474)  

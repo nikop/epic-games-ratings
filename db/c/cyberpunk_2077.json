@@ -6,9 +6,9 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15050,9 +15050,9 @@
       "Count": 12811
     }
   ],
-  "EOS_Progressed": 896443,
+  "EOS_Progressed": 896448,
   "EOS_Completed": 2770,
-  "EOS_NewPlayers": 1015,
+  "EOS_NewPlayers": 1013,
   "EOS_NewCompleters": 23,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38430,6 +38430,11 @@
       "Time": "2023-11-12T20:05:57.113363+00:00",
       "NumProgressed": 896443,
       "NumCompleted": 2770
+    },
+    {
+      "Time": "2023-11-12T21:04:45.5907604+00:00",
+      "NumProgressed": 896448,
+      "NumCompleted": 2770
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38672,9 +38677,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 2689
+      "UsersEstimate": 3586
     },
     {
       "ID": "TheLovers",
@@ -38928,9 +38933,9 @@
       "ID": "KingOfThePentacles",
       "SetID": "23nboa5",
       "Name": "King of Pentacles",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 25
+      "UsersEstimate": 50
     },
     {
       "ID": "KingOfTheSwords",
@@ -38977,21 +38982,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896443,
+      "Progressed": 896448,
       "Completed": 2770
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25066,
+      "Progressed": 25071,
       "Completed": 10216
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-12T16:59:07.060409+00:00",
-  "LastChanged_Achievements": "2023-11-12T20:05:57.1133628+00:00",
+  "LastChanged_Achievements": "2023-11-12T21:04:45.5907601+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-12T19:59:56.4361182+00:00",
-  "LastUpdate_Achievements": "2023-11-12T20:05:57.1135178+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:58:47.5391956+00:00",
+  "LastUpdate_Achievements": "2023-11-12T21:04:45.5908828+00:00"
 }

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 450,
   "Ranking_EOS_Progress": 200,
-  "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 349,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3403,
+  "EOS_Progressed": 3404,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5249,6 +5249,11 @@
       "Time": "2023-11-12T20:08:16.3654286+00:00",
       "NumProgressed": 3403,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T21:06:21.3978459+00:00",
+      "NumProgressed": 3404,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5261,7 +5266,7 @@
       "Name": "Primetime",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "achievement_10",
@@ -5285,7 +5290,7 @@
       "Name": "Stud Finder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "achievement_13",
@@ -5301,7 +5306,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "achievement_15",
@@ -5413,7 +5418,7 @@
       "Name": "Pro Bowler",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "achievement_9",
@@ -5428,7 +5433,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3403,
+      "Progressed": 3404,
       "Completed": 0
     }
   ],
@@ -5436,8 +5441,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-11T13:58:50.4218605+00:00",
-  "LastChanged_Achievements": "2023-11-12T20:08:16.3654279+00:00",
+  "LastChanged_Achievements": "2023-11-12T21:06:21.3978457+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.6748405+00:00",
-  "LastUpdate_Ratings": "2023-11-12T19:59:37.3711005+00:00",
-  "LastUpdate_Achievements": "2023-11-12T20:08:16.3654682+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:58:35.2038715+00:00",
+  "LastUpdate_Achievements": "2023-11-12T21:06:21.3978947+00:00"
 }

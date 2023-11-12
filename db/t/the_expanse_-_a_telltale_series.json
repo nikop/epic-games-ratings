@@ -6,7 +6,7 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 147,
-  "Ranking_EOS_Completed": 238,
+  "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14892,
+  "EOS_Progressed": 14893,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11082,6 +11082,11 @@
       "Time": "2023-11-12T20:05:57.8880962+00:00",
       "NumProgressed": 14892,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-12T21:04:46.1428994+00:00",
+      "NumProgressed": 14893,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11100,9 +11105,9 @@
       "ID": "10",
       "SetID": "458bbdk",
       "Name": "Data Miner",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 30
     },
     {
       "ID": "11",
@@ -11126,7 +11131,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "14",
@@ -11373,22 +11378,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14892,
+      "Progressed": 14893,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 846,
-      "Completed": 537
+      "Progressed": 847,
+      "Completed": 538
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-12T20:05:57.8880961+00:00",
+  "LastChanged_Achievements": "2023-11-12T21:04:46.1428992+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-12T20:00:39.4570843+00:00",
-  "LastUpdate_Achievements": "2023-11-12T20:05:57.8881663+00:00"
+  "LastUpdate_Ratings": "2023-11-12T20:59:16.1154359+00:00",
+  "LastUpdate_Achievements": "2023-11-12T21:04:46.1429656+00:00"
 }
