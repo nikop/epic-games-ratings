@@ -9,14 +9,14 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.94% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.93% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.41% |
 | 14 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
 | 14 | [Overloop](games/o/overloop.md) | 25.00% |
 | 16 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 23.17% |
+| 17 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 23.03% |
 | 18 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 20.83% |
 | 19 | [Absolute Tactics](games/a/absolute_tactics.md) | 20.00% |
 | 20 | [Doodle Devil](games/d/doodle_devil.md) | 18.82% |
@@ -75,9 +75,9 @@
 | 73 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
 | 74 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 75 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.54% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.46% |
-| 77 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.45% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.47% |
 | 77 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.45% |
+| 78 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.44% |
 | 79 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 80 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 4.17% |
@@ -133,7 +133,7 @@
 | 131 | [Night Book](games/n/night_book.md) | 1.67% |
 | 132 | [Five Dates](games/f/five_dates.md) | 1.61% |
 | 133 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.59% |
-| 133 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.59% |
+| 134 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.58% |
 | 135 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.52% |
 | 136 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.51% |
 | 137 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -149,7 +149,7 @@
 | 147 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.26% |
 | 148 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 149 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.24% |
-| 149 | [Lemon Cake](games/l/lemon_cake.md) | 1.24% |
+| 150 | [Lemon Cake](games/l/lemon_cake.md) | 1.23% |
 | 151 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.16% |
 | 152 | [Adios](games/a/adios.md) | 1.07% |
 | 153 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 1.06% |
@@ -183,10 +183,10 @@
 | 181 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.58% |
 | 181 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
 | 181 | [Grindstone](games/g/grindstone.md) | 0.58% |
-| 184 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.56% |
 | 184 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.56% |
-| 186 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
-| 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.55% |
+| 185 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 185 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.55% |
+| 185 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.55% |
 | 188 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.54% |
 | 188 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.54% |
 | 190 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
@@ -204,9 +204,9 @@
 | 200 | [Tails of Iron](games/t/tails_of_iron.md) | 0.45% |
 | 203 | [Tchia](games/t/tchia.md) | 0.44% |
 | 204 | [It Takes Two](games/i/it_takes_two.md) | 0.42% |
-| 204 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.42% |
 | 204 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.42% |
-| 207 | [Wildermyth](games/w/wildermyth.md) | 0.41% |
+| 206 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.41% |
+| 206 | [Wildermyth](games/w/wildermyth.md) | 0.41% |
 | 208 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.39% |
 | 208 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.39% |
 | 208 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.39% |
@@ -266,16 +266,16 @@
 | 259 | [Shop Titans](games/s/shop_titans.md) | 0.13% |
 | 265 | [Isonzo](games/i/isonzo.md) | 0.12% |
 | 265 | [Ring of Pain](games/r/ring_of_pain.md) | 0.12% |
-| 267 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.11% |
 | 267 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.11% |
 | 267 | [Outward Definitive Edition](games/o/outward.md) | 0.11% |
-| 270 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
-| 270 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
-| 270 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.10% |
-| 270 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.10% |
-| 270 | [House Flipper](games/h/house_flipper.md) | 0.10% |
-| 270 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
-| 270 | [Supraland](games/s/supraland.md) | 0.10% |
+| 269 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 269 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.10% |
+| 269 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.10% |
+| 269 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.10% |
+| 269 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.10% |
+| 269 | [House Flipper](games/h/house_flipper.md) | 0.10% |
+| 269 | [Port Royale 4](games/p/port_royale_4.md) | 0.10% |
+| 269 | [Supraland](games/s/supraland.md) | 0.10% |
 | 277 | [Art of Rally](games/a/art_of_rally_1.md) | 0.09% |
 | 277 | [Black Book](games/b/black_book.md) | 0.09% |
 | 277 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.09% |
