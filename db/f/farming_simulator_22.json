@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11196,7 +11196,7 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51476,
+  "EOS_Progressed": 51477,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 0,
@@ -29791,6 +29791,11 @@
       "Time": "2023-11-12T00:05:27.1515489+00:00",
       "NumProgressed": 51476,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-12T02:27:17.7980667+00:00",
+      "NumProgressed": 51477,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -29802,7 +29807,7 @@
       "Name": "Clucky Streak",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7721
+      "UsersEstimate": 7722
     },
     {
       "ID": "BreedCows",
@@ -29898,7 +29903,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 31400
+      "UsersEstimate": 31401
     },
     {
       "ID": "DeliveryGrapes",
@@ -29954,7 +29959,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 38607
+      "UsersEstimate": 38608
     },
     {
       "ID": "HorseJumps",
@@ -30010,7 +30015,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 27282
+      "UsersEstimate": 27283
     },
     {
       "ID": "NumBeehives",
@@ -30026,7 +30031,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 20590
+      "UsersEstimate": 20591
     },
     {
       "ID": "NumPlaceables",
@@ -30034,7 +30039,7 @@
       "Name": "All out of Land",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 23164
+      "UsersEstimate": 23165
     },
     {
       "ID": "NumProductionPoints",
@@ -30058,7 +30063,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 29856
+      "UsersEstimate": 29857
     },
     {
       "ID": "PetDog",
@@ -30066,7 +30071,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 14413
+      "UsersEstimate": 14414
     },
     {
       "ID": "PlayTime",
@@ -30074,7 +30079,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 29856
+      "UsersEstimate": 29857
     },
     {
       "ID": "Sow",
@@ -30090,7 +30095,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 31915
+      "UsersEstimate": 31916
     },
     {
       "ID": "Stones",
@@ -30138,22 +30143,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7721
+      "UsersEstimate": 7722
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51476,
+      "Progressed": 51477,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-11T23:57:06.6541328+00:00",
-  "LastChanged_Achievements": "2023-11-12T01:53:42.1446124+00:00",
+  "LastChanged_Achievements": "2023-11-12T02:27:17.7980659+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:00.8695856+00:00",
-  "LastUpdate_Ratings": "2023-11-12T01:45:27.0962284+00:00",
-  "LastUpdate_Achievements": "2023-11-12T01:53:42.1447502+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:18:46.8215004+00:00",
+  "LastUpdate_Achievements": "2023-11-12T02:27:17.7982077+00:00"
 }

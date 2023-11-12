@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -411,9 +411,9 @@
       "ID": "achievement_16",
       "SetID": "jnappp",
       "Name": "Class Act",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "achievement_17",
@@ -570,8 +570,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-12T01:57:01.9051666+00:00",
+  "LastChanged_Achievements": "2023-11-12T02:30:34.1436648+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-12T01:46:12.2090487+00:00",
-  "LastUpdate_Achievements": "2023-11-12T01:57:01.9051908+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:19:31.0577473+00:00",
+  "LastUpdate_Achievements": "2023-11-12T02:30:34.1436871+00:00"
 }

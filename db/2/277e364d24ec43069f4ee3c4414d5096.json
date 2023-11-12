@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 307,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewCompleters": 60,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 113950,
+  "EOS_Progressed": 113951,
   "EOS_Completed": 50,
   "EOS_NewPlayers": 632,
   "EOS_NewCompleters": 2,
@@ -17619,6 +17619,11 @@
       "Time": "2023-11-12T01:56:34.766879+00:00",
       "NumProgressed": 113950,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-12T02:30:07.6400118+00:00",
+      "NumProgressed": 113951,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17646,7 +17651,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12534
+      "UsersEstimate": 12535
     },
     {
       "ID": "EAwards_11",
@@ -17662,7 +17667,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17092
+      "UsersEstimate": 17093
     },
     {
       "ID": "EAwards_13",
@@ -17734,7 +17739,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12534
+      "UsersEstimate": 12535
     },
     {
       "ID": "EAwards_21",
@@ -17774,7 +17779,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21650
+      "UsersEstimate": 21651
     },
     {
       "ID": "EAwards_26",
@@ -17782,7 +17787,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12534
+      "UsersEstimate": 12535
     },
     {
       "ID": "EAwards_27",
@@ -17798,7 +17803,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "EAwards_29",
@@ -17806,7 +17811,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "EAwards_3",
@@ -18014,14 +18019,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12534
+      "UsersEstimate": 12535
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 113950,
+      "Progressed": 113951,
       "Completed": 50
     }
   ],
@@ -18029,8 +18034,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-12T01:56:34.7668786+00:00",
+  "LastChanged_Achievements": "2023-11-12T02:30:07.6400113+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-12T01:48:11.7748848+00:00",
-  "LastUpdate_Achievements": "2023-11-12T01:56:34.767027+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:21:31.2747409+00:00",
+  "LastUpdate_Achievements": "2023-11-12T02:30:07.6401567+00:00"
 }

@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 73974,
+  "EOS_Progressed": 73976,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 634,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -22958,6 +22958,11 @@
       "Time": "2023-11-12T01:56:36.6713967+00:00",
       "NumProgressed": 73974,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2023-11-12T02:30:09.4429388+00:00",
+      "NumProgressed": 73976,
+      "NumCompleted": 392
     }
   ],
   "TotalAchievements": 24,
@@ -22977,7 +22982,7 @@
       "Name": "AWAKEN",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16275
     },
     {
       "ID": "A_GUARDIAN_FORGOTTEN",
@@ -22985,7 +22990,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50302
+      "UsersEstimate": 50304
     },
     {
       "ID": "BEST_FRIENDS",
@@ -22993,7 +22998,7 @@
       "Name": "BEST FRIENDS",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16274
+      "UsersEstimate": 16275
     },
     {
       "ID": "BLOOMS_OF_LIGHT",
@@ -23001,7 +23006,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19233
+      "UsersEstimate": 19234
     },
     {
       "ID": "ERADICATE",
@@ -23025,7 +23030,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 21452
+      "UsersEstimate": 21453
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -23041,7 +23046,7 @@
       "Name": "GARDEN OF LIGHT",
       "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 13315
+      "UsersEstimate": 13316
     },
     {
       "ID": "INFUSED_WITH_LIGHT",
@@ -23049,7 +23054,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39206
+      "UsersEstimate": 39207
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -23073,7 +23078,7 @@
       "Name": "NONE FORGOTTEN",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 1479
+      "UsersEstimate": 1480
     },
     {
       "ID": "NORTHERN_LIGHTS",
@@ -23160,7 +23165,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 73974,
+      "Progressed": 73976,
       "Completed": 392
     }
   ],
@@ -23168,8 +23173,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-12T01:56:36.6713963+00:00",
+  "LastChanged_Achievements": "2023-11-12T02:30:09.4429383+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.6683476+00:00",
-  "LastUpdate_Ratings": "2023-11-12T01:50:47.8497094+00:00",
-  "LastUpdate_Achievements": "2023-11-12T01:56:36.6715606+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:24:24.8274342+00:00",
+  "LastUpdate_Achievements": "2023-11-12T02:30:09.4430867+00:00"
 }

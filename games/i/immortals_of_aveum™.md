@@ -11,13 +11,13 @@ Rating: 4.02 (Ranked 986)
 | Maybe Engage a Little | 75.00% | ~196 |
 | No More Names | 61.00% | ~159 |
 | Initiate | 47.00% | ~123 |
-| Thrada-Kul | 42.00% | ~110 |
+| Thrada-Kul | 43.00% | ~112 |
 | Gravity-Challenged Rocks | 32.00% | ~84 |
 | Soldier | 27.00% | ~70 |
 | All the Major Food Groups | 27.00% | ~70 |
 | Socialite | 26.00% | ~68 |
+| Control is an Illusion | 23.00% | ~60 |
 | Beggars Would Ride | 23.00% | ~60 |
-| Control is an Illusion | 22.00% | ~57 |
 | The Means to Save It | 19.00% | ~50 |
 | Resilience to Sin | 17.00% | ~44 |
 | A Familiar Nest | 16.00% | ~42 |

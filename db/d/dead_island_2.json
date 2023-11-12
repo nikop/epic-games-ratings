@@ -6399,10 +6399,10 @@
       "Count": 458
     }
   ],
-  "EOS_Progressed": 716958,
+  "EOS_Progressed": 716974,
   "EOS_Completed": 2382,
   "EOS_NewPlayers": 4222,
-  "EOS_NewCompleters": 55,
+  "EOS_NewCompleters": 54,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29859,6 +29859,11 @@
       "Time": "2023-11-12T01:51:28.243351+00:00",
       "NumProgressed": 716958,
       "NumCompleted": 2382
+    },
+    {
+      "Time": "2023-11-12T02:25:04.9792892+00:00",
+      "NumProgressed": 716974,
+      "NumCompleted": 2382
     }
   ],
   "TotalAchievements": 51,
@@ -29932,9 +29937,9 @@
       "ID": "ach_break_a_leg",
       "SetID": "7km39fm",
       "Name": "Break A Leg",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4302
+      "UsersEstimate": 5019
     },
     {
       "ID": "ach_contender",
@@ -30100,9 +30105,9 @@
       "ID": "ach_metropolitan",
       "SetID": "7km39fm",
       "Name": "A Patton Emerges",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 3585
     },
     {
       "ID": "ach_mind_over_monster",
@@ -30246,7 +30251,7 @@
       "Name": "Lawn and Order",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_pork_chops",
@@ -30262,7 +30267,7 @@
       "Name": "Wilhelm",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ach_zombie_predator",
@@ -30277,13 +30282,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 716958,
+      "Progressed": 716974,
       "Completed": 2382
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 42500,
+      "Progressed": 42516,
       "Completed": 36525
     }
   ],
@@ -30291,8 +30296,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-12T01:47:46.8840982+00:00",
-  "LastChanged_Achievements": "2023-11-12T01:51:28.2433504+00:00",
+  "LastChanged_Achievements": "2023-11-12T02:25:04.9792888+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T01:47:46.8840988+00:00",
-  "LastUpdate_Achievements": "2023-11-12T01:51:28.2435652+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:21:05.9586755+00:00",
+  "LastUpdate_Achievements": "2023-11-12T02:25:04.9794668+00:00"
 }

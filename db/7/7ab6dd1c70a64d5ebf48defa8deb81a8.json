@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -921,9 +921,9 @@
       "ID": "ACH_30",
       "SetID": "efe2lj",
       "Name": "Alchemist",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 23
     },
     {
       "ID": "ACH_31",
@@ -984,8 +984,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-12T01:57:13.7033162+00:00",
+  "LastChanged_Achievements": "2023-11-12T02:30:45.7353746+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-12T01:46:50.6162193+00:00",
-  "LastUpdate_Achievements": "2023-11-12T01:57:13.7033564+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:20:10.3870924+00:00",
+  "LastUpdate_Achievements": "2023-11-12T02:30:45.7354053+00:00"
 }

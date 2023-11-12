@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 181,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1470,9 +1470,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2540,6 +2540,11 @@
       "Time": "2023-11-12T01:53:34.8324988+00:00",
       "NumProgressed": 307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T02:27:10.6545035+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-02T08:07:08.352719+00:00",
@@ -2560,7 +2565,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "C_STAMINA",
@@ -2568,7 +2573,7 @@
       "Name": "On that Grindset",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "C_STAYUP",
@@ -2590,9 +2595,9 @@
       "ID": "F_DUEL",
       "SetID": "80dcan0",
       "Name": "It\u0027s High Noon...",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 18
     },
     {
       "ID": "F_DUEL_PEN",
@@ -2622,9 +2627,9 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 237,
+      "Percentage": 236,
       "XP": 10,
-      "UsersEstimate": 728
+      "UsersEstimate": 727
     },
     {
       "ID": "M_BACKPACK",
@@ -2632,7 +2637,7 @@
       "Name": "Pack Mule",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "M_COMMISSION",
@@ -2648,7 +2653,7 @@
       "Name": "Iron Chef",
       "Percentage": 181,
       "XP": 10,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "M_EXPAND",
@@ -2664,7 +2669,7 @@
       "Name": "Financially Secure",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "M_HOME_RANK",
@@ -2688,7 +2693,7 @@
       "Name": "Can We Keep It?",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "P_BEAUTIFYSANDROCK",
@@ -2718,9 +2723,9 @@
       "ID": "P_ENVIRONMENT",
       "SetID": "80dcan0",
       "Name": "Martle\u0027s Dream",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 80
     },
     {
       "ID": "P_FOREST",
@@ -2734,9 +2739,9 @@
       "ID": "P_HYDROGEL",
       "SetID": "80dcan0",
       "Name": "What Plants Crave",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 108
     },
     {
       "ID": "P_JEWEL",
@@ -2758,9 +2763,9 @@
       "ID": "P_OFFICIAL",
       "SetID": "80dcan0",
       "Name": "Officially Official",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 99
     },
     {
       "ID": "P_OWENSTORY",
@@ -2776,7 +2781,7 @@
       "Name": "Greeno-B-Gone",
       "Percentage": 116,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "P_SAVESANDROCK",
@@ -2784,7 +2789,7 @@
       "Name": "Your Especially Earned Trajectory",
       "Percentage": 90,
       "XP": 20,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "P_SCHOOL",
@@ -2808,7 +2813,7 @@
       "Name": "No Mountain Wide Enough",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -2816,15 +2821,15 @@
       "Name": "Lifeline Pipeline",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "P_WATERTOWER",
       "SetID": "80dcan0",
       "Name": "Got the Flow Back",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "S_BRIGHTSUN",
@@ -2832,7 +2837,7 @@
       "Name": "Anti-Santa",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "S_CARD",
@@ -2910,9 +2915,9 @@
       "ID": "S_LOVE",
       "SetID": "80dcan0",
       "Name": "First Love",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 102
     },
     {
       "ID": "S_MARRY",
@@ -2966,9 +2971,9 @@
       "ID": "S_YAKMEL",
       "SetID": "80dcan0",
       "Name": "Yakmel Whisperer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 154
+      "UsersEstimate": 157
     },
     {
       "ID": "X_CHEST",
@@ -2976,15 +2981,15 @@
       "Name": "Unboxing",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "X_CLEAN",
       "SetID": "80dcan0",
       "Name": "Do Your Part",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 59
     },
     {
       "ID": "X_FISH_RARE",
@@ -3016,7 +3021,7 @@
       "Name": "Newton",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "X_MUSEUM",
@@ -3031,15 +3036,15 @@
     {
       "ID": "80dcan0",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-11T20:57:29.3081458+00:00",
-  "LastChanged_Achievements": "2023-11-12T01:53:34.8324984+00:00",
+  "LastChanged_Achievements": "2023-11-12T02:27:10.654503+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.2013497+00:00",
-  "LastUpdate_Ratings": "2023-11-12T01:45:28.4514219+00:00",
-  "LastUpdate_Achievements": "2023-11-12T01:53:34.832564+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:18:48.0786973+00:00",
+  "LastUpdate_Achievements": "2023-11-12T02:27:10.6545644+00:00"
 }

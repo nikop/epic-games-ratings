@@ -30,8 +30,8 @@
 | Bullseye | 36.00% | ~234 |
 | Boosted! | 36.00% | ~234 |
 | Family | 35.00% | ~227 |
+| Biggest Snowball Ever | 35.00% | ~227 |
 | On The Rocks | 35.00% | ~227 |
-| Biggest Snowball Ever | 34.00% | ~221 |
 | Freeze The Ice Witch | 34.00% | ~221 |
 | Deadliest and Biggest Snowball Ever! | 34.00% | ~221 |
 | It Is Not Over | 32.00% | ~208 |

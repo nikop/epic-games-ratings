@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 121,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23946,
+  "EOS_Progressed": 23947,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 466,
+  "EOS_NewPlayers": 465,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.91,
   "EosHistory": [
@@ -22493,6 +22493,11 @@
       "Time": "2023-11-12T01:51:52.2382145+00:00",
       "NumProgressed": 23946,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2023-11-12T02:25:29.1251856+00:00",
+      "NumProgressed": 23947,
+      "NumCompleted": 457
     }
   ],
   "TotalAchievements": 20,
@@ -22520,7 +22525,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 3352
+      "UsersEstimate": 3353
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -22624,7 +22629,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18438
+      "UsersEstimate": 18439
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22632,7 +22637,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6465
+      "UsersEstimate": 6466
     },
     {
       "ID": "NORTH_FINISHED",
@@ -22663,15 +22668,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 23946,
+      "Progressed": 23947,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-12T01:51:52.2382141+00:00",
+  "LastChanged_Achievements": "2023-11-12T02:25:29.1251852+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:11.8513904+00:00",
-  "LastUpdate_Ratings": "2023-11-12T01:46:44.8523099+00:00",
-  "LastUpdate_Achievements": "2023-11-12T01:51:52.238351+00:00"
+  "LastUpdate_Ratings": "2023-11-12T02:20:04.0844137+00:00",
+  "LastUpdate_Achievements": "2023-11-12T02:25:29.1253082+00:00"
 }

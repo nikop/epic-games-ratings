@@ -13,18 +13,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 3.00% | ~4,183 |
 | It's Free Real Estate | 3.00% | ~4,183 |
 | Capitalism Ho! | 3.00% | ~4,183 |
-| The Daily Grind | 2.00% | ~2,788 |
-| One Easy Payment | 2.00% | ~2,788 |
-| Some Assembly Required | 2.00% | ~2,788 |
-| Bounty Hunters | 2.00% | ~2,788 |
-| Flooding the Market | 2.00% | ~2,788 |
-| Another Satisfied Customer | 2.00% | ~2,788 |
-| Pretty Penny | 2.00% | ~2,788 |
-| One-Armed Bandit | 2.00% | ~2,788 |
-| Budding Merchant | 2.00% | ~2,788 |
-| Dungeon Imports | 2.00% | ~2,788 |
-| Through Repetition, Perfection | 2.00% | ~2,788 |
-| Own the Means of Production | 2.00% | ~2,788 |
+| The Daily Grind | 2.00% | ~2,789 |
+| One Easy Payment | 2.00% | ~2,789 |
+| Some Assembly Required | 2.00% | ~2,789 |
+| Bounty Hunters | 2.00% | ~2,789 |
+| Flooding the Market | 2.00% | ~2,789 |
+| Another Satisfied Customer | 2.00% | ~2,789 |
+| Pretty Penny | 2.00% | ~2,789 |
+| One-Armed Bandit | 2.00% | ~2,789 |
+| Budding Merchant | 2.00% | ~2,789 |
+| Dungeon Imports | 2.00% | ~2,789 |
+| Through Repetition, Perfection | 2.00% | ~2,789 |
+| Own the Means of Production | 2.00% | ~2,789 |
 | On the Path to Greatness | 1.00% | ~1,394 |
 | Ascended | 1.00% | ~1,394 |
 | Tax not Included | 1.00% | ~1,394 |
@@ -64,6 +64,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Locally Sourced | 0.80% | ~1,115 |
 | Master of Transmutation | 0.80% | ~1,115 |
 | Hidden Potential | 0.80% | ~1,115 |
+| Supercharged | 0.80% | ~1,115 |
 | Cranked up to 11 | 0.80% | ~1,115 |
 | Fit for a King | 0.80% | ~1,115 |
 | Mammonite | 0.80% | ~1,115 |
@@ -85,7 +86,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Booty by the Boatload | 0.70% | ~976 |
 | Archivist | 0.70% | ~976 |
 | Omae wa Mou Shindeiru | 0.70% | ~976 |
-| Supercharged | 0.70% | ~976 |
 | Ritualist | 0.70% | ~976 |
 | By Your Powers Combined... | 0.70% | ~976 |
 | Item of Renown | 0.70% | ~976 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,425 (Ranked 79)  
+Progressed: 139,427 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
-| 2023-11-12 | 139,425 | 181 |
+| 2023-11-12 | 139,427 | 181 |
 ## Awards
 Max (Great for Beginners): 4,825  (Ranked 73)  
 Sum: 27,530 (Ranked 50)  

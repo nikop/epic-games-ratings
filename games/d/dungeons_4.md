@@ -15,17 +15,17 @@
 | Master of Magic | 50.00% | ~103 |
 | Trap Master | 48.00% | ~99 |
 | Magic Accidents | 47.00% | ~97 |
+| Bad Elves Go Everywhere | 46.00% | ~95 |
 | Unicorn steaks – fresh off the hoof! | 46.00% | ~95 |
-| Bad Elves Go Everywhere | 45.00% | ~93 |
 | Minions, Minions! | 42.00% | ~87 |
-| Heroes’ Gorge | 31.00% | ~64 |
-| YOU SHALL NOT PASS! | 26.00% | ~54 |
+| Heroes’ Gorge | 33.00% | ~68 |
+| YOU SHALL NOT PASS! | 27.00% | ~56 |
 | The Ascent | 20.00% | ~41 |
 | It's Warm and Cozy at Home | 20.00% | ~41 |
 | Pure Dynamite! | 19.00% | ~39 |
 | Mana Cannon | 18.00% | ~37 |
 | Hard Work | 17.00% | ~35 |
-| The Big Eaty | 13.00% | ~27 |
+| The Big Eaty | 14.00% | ~29 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 9.00% | ~19 |
 | “… like son” | 9.00% | ~19 |
 | Sacrificial Pit = Garbage Disposal? | 8.00% | ~16 |

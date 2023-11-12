@@ -8,15 +8,15 @@ Number of Ratings: 368  (23.09.2022)
 | ---- | ---------- | ----- |
 | Tattletale | 40.00% | ~6,535 |
 | Man of politics | 34.00% | ~5,555 |
-| Friends of sorts | 33.00% | ~5,391 |
-| Yet another secret | 33.00% | ~5,391 |
+| Friends of sorts | 33.00% | ~5,392 |
+| Yet another secret | 33.00% | ~5,392 |
 | Let there be darkness | 32.00% | ~5,228 |
 | End of Book One | 30.00% | ~4,901 |
 | Garden of Eden | 24.00% | ~3,921 |
 | Full house | 24.00% | ~3,921 |
 | Wannabe knight | 23.00% | ~3,758 |
 | Help an old friend | 21.00% | ~3,431 |
-| Two of us | 20.00% | ~3,267 |
+| Two of us | 20.00% | ~3,268 |
 | Negotiation skills | 18.00% | ~2,941 |
 | Workers' union | 18.00% | ~2,941 |
 | End of Book Two | 18.00% | ~2,941 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,287 |
 | Jack was here! | 14.00% | ~2,287 |
 | Exterminator | 13.00% | ~2,124 |
-| Whodunnit | 12.00% | ~1,960 |
+| Whodunnit | 12.00% | ~1,961 |
 | Good midwife | 11.00% | ~1,797 |
 | First profit | 11.00% | ~1,797 |
 | Friar Tuck | 10.00% | ~1,634 |
@@ -41,14 +41,14 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~817 |
 | Lone wolf | 5.00% | ~817 |
 | Vox Populi | 5.00% | ~817 |
-| Revenge | 4.00% | ~653 |
-| Self-defense | 4.00% | ~653 |
-| Countess Aliena | 4.00% | ~653 |
+| Revenge | 4.00% | ~654 |
+| Self-defense | 4.00% | ~654 |
+| Countess Aliena | 4.00% | ~654 |
 | Care, like a brother cares | 3.00% | ~490 |
 | A brush with death | 3.00% | ~490 |
 | Boy of mystery | 2.00% | ~327 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,337 (Ranked 144)  
+Progressed: 16,338 (Ranked 144)  
 Completed: 114 (0.70%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 114 (0.70%) (Ranked 174)
 | 2023-11-09 | 16,282 | 114 |
 | 2023-11-10 | 16,308 | 114 |
 | 2023-11-11 | 16,333 | 114 |
-| 2023-11-12 | 16,337 | 114 |
+| 2023-11-12 | 16,338 | 114 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 312)  
 Sum: 198 (Ranked 400)  
