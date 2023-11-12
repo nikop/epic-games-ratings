@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.96% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.95% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.41% |
@@ -67,7 +67,7 @@
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.62% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
 | 67 | [JARS](games/j/jars.md) | 5.49% |
-| 68 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.32% |
+| 68 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.31% |
 | 69 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 70 | [Bugsnax](games/b/bugsnax.md) | 4.80% |
 | 71 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
@@ -75,10 +75,10 @@
 | 73 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
 | 74 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 75 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.54% |
+| 76 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.46% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.46% |
-| 77 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.45% |
-| 78 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.29% |
+| 78 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.45% |
+| 79 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 80 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 82 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.90% |
@@ -118,7 +118,7 @@
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.35% |
 | 117 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.33% |
 | 118 | [Serial Cleaners](games/s/serial_cleaners.md) | 2.25% |
-| 119 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.24% |
+| 119 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.23% |
 | 120 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.96% |
 | 121 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.91% |
 | 122 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 1.89% |
@@ -179,20 +179,20 @@
 | 177 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.62% |
 | 178 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
 | 179 | [Haven](games/h/haven.md) | 0.60% |
-| 180 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.59% |
 | 180 | [The Surge 2](games/t/the_surge_2.md) | 0.59% |
-| 182 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
-| 182 | [Grindstone](games/g/grindstone.md) | 0.58% |
+| 181 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.58% |
+| 181 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.58% |
+| 181 | [Grindstone](games/g/grindstone.md) | 0.58% |
 | 184 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.56% |
 | 184 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.56% |
 | 186 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 186 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.55% |
 | 188 | [Fort Solis](games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 0.54% |
 | 188 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.54% |
-| 188 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.54% |
-| 191 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
-| 191 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
-| 191 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.53% |
+| 190 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.53% |
+| 190 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.53% |
+| 190 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 0.53% |
+| 190 | [Zombie Rollerz: Pinball Heroes](games/z/zombie_rollerz__pinball_heroes.md) | 0.53% |
 | 194 | [Eternights](games/e/eternights.md) | 0.51% |
 | 195 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.50% |
 | 196 | [Crash Drive 3](games/c/crash_drive_3.md) | 0.49% |
