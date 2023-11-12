@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 119,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1374,9 +1374,9 @@
       "ID": "achievement_20",
       "SetID": "2cpn27e",
       "Name": "Subsistence Skills",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_21",
@@ -1654,9 +1654,9 @@
       "ID": "achievement_9",
       "SetID": "2cpn27e",
       "Name": "Karakuri Minato",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 68
     }
   ],
   "AchievementSets": [
@@ -1668,8 +1668,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-12T14:05:41.7479664+00:00",
+  "LastChanged_Achievements": "2023-11-12T15:05:48.1243243+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:58:58.3161325+00:00",
-  "LastUpdate_Achievements": "2023-11-12T14:05:41.7479958+00:00"
+  "LastUpdate_Ratings": "2023-11-12T14:58:58.5581251+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:05:48.1243655+00:00"
 }

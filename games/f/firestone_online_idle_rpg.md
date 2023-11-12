@@ -5,17 +5,17 @@ Rating: 4.12 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,096 |
-| World Map | 79.00% | ~1,781 |
-| Temple of Eternals | 57.00% | ~1,285 |
-| Prestigious | 54.00% | ~1,217 |
-| Fellowship Power | 42.00% | ~947 |
+| Victor | 93.00% | ~2,098 |
+| World Map | 79.00% | ~1,782 |
+| Temple of Eternals | 57.00% | ~1,286 |
+| Prestigious | 54.00% | ~1,218 |
+| Fellowship Power | 42.00% | ~948 |
 | Guild Power | 25.00% | ~564 |
 | Prestigious x10 | 22.00% | ~496 |
 | The game is on | 20.00% | ~451 |
-| Exotic Merchant | 19.00% | ~428 |
-| Dragon Clicker | 17.00% | ~383 |
-| Miner Clicker | 17.00% | ~383 |
+| Exotic Merchant | 19.00% | ~429 |
+| Dragon Clicker | 17.00% | ~384 |
+| Miner Clicker | 17.00% | ~384 |
 | Full Party | 16.00% | ~361 |
 | Inspection | 16.00% | ~361 |
 | Dragon Master | 15.00% | ~338 |
@@ -27,7 +27,7 @@ Rating: 4.12 (Ranked 956)
 | Milestone collector | 13.00% | ~293 |
 | Mysterious Rock | 13.00% | ~293 |
 | Superior | 13.00% | ~293 |
-| Scientist | 12.00% | ~270 |
+| Scientist | 12.00% | ~271 |
 | Challenger | 11.00% | ~248 |
 | Daily Quest Completionist | 11.00% | ~248 |
 | Doing My Part | 11.00% | ~248 |
@@ -36,9 +36,9 @@ Rating: 4.12 (Ranked 956)
 | Relic Of The Past | 11.00% | ~248 |
 | Scroll Master | 11.00% | ~248 |
 | The power of Awakening | 11.00% | ~248 |
-| Four Leaf Clover | 10.00% | ~225 |
-| Frostfire Liberator | 10.00% | ~225 |
-| Moving Up The Ladder | 10.00% | ~225 |
+| Four Leaf Clover | 10.00% | ~226 |
+| Frostfire Liberator | 10.00% | ~226 |
+| Moving Up The Ladder | 10.00% | ~226 |
 | Here We Go Again | 9.00% | ~203 |
 | Master Enchanter | 9.00% | ~203 |
 | The father of Dragons | 9.00% | ~203 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 956)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,254 (Ranked 215)  
+Progressed: 2,256 (Ranked 216)  
 Completed: 2 (0.09%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 2 (0.09%) (Ranked 277)
 | 2023-11-09 | 2,129 | 2 |
 | 2023-11-10 | 2,189 | 2 |
 | 2023-11-11 | 2,229 | 2 |
-| 2023-11-12 | 2,254 | 2 |
+| 2023-11-12 | 2,256 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 488)  
 Sum: 80 (Ranked 455)  

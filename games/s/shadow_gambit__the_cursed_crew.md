@@ -13,7 +13,7 @@ Rating: 4.74 (Ranked 157)
 | The Gambit Has Begun | 34.00% | ~278 |
 | Powder Monkey | 31.00% | ~253 |
 | Somewhere Deep in the Lost Caribbean | 30.00% | ~245 |
-| Mirror Mirror on the Wall | 29.00% | ~237 |
+| Mirror Mirror on the Wall | 30.00% | ~245 |
 | Pirates Assemble! | 27.00% | ~221 |
 | Buccaneer | 24.00% | ~196 |
 | Fishy Fish | 22.00% | ~180 |
@@ -33,7 +33,7 @@ Rating: 4.74 (Ranked 157)
 | Welcome Back Jester | 4.00% | ~33 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 817 (Ranked 265)  
-Completed: 27 (3.30%) (Ranked 90)  
+Completed: 28 (3.43%) (Ranked 87)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 27 (3.30%) (Ranked 90)
 | 2023-11-09 | 812 | 27 |
 | 2023-11-10 | 813 | 27 |
 | 2023-11-11 | 814 | 27 |
-| 2023-11-12 | 817 | 27 |
+| 2023-11-12 | 817 | 28 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

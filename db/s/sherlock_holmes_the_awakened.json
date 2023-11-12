@@ -6,8 +6,8 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 266,
-  "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_Completed": 89,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -91,9 +91,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 805,
+  "EOS_Progressed": 806,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.35,
   "EosHistory": [
@@ -3066,6 +3066,11 @@
       "Time": "2023-11-12T07:08:13.7066581+00:00",
       "NumProgressed": 805,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-12T15:07:52.1927177+00:00",
+      "NumProgressed": 806,
+      "NumCompleted": 27
     }
   ],
   "TotalAchievements": 28,
@@ -3077,7 +3082,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "MQ01_2",
@@ -3085,7 +3090,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "MQ02_1",
@@ -3093,7 +3098,7 @@
       "Name": "High Profile",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "MQ02_2",
@@ -3107,9 +3112,9 @@
       "ID": "MQ02_3",
       "SetID": "bbing49",
       "Name": "Curiosity Killed The Cat",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 153
     },
     {
       "ID": "MQ02_4",
@@ -3133,7 +3138,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "MQ03_3",
@@ -3149,7 +3154,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "MQ03_5",
@@ -3181,7 +3186,7 @@
       "Name": "The New World",
       "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "MQ05_1",
@@ -3189,7 +3194,7 @@
       "Name": "Open Sesame",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "MQ05_2",
@@ -3197,7 +3202,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "MQ05_3",
@@ -3205,7 +3210,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "MQ05_4",
@@ -3213,7 +3218,7 @@
       "Name": "Knives Out",
       "Percentage": 49,
       "XP": 40,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "MQ06_1",
@@ -3229,7 +3234,7 @@
       "Name": "Bookworm",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "MQ06_3",
@@ -3237,7 +3242,7 @@
       "Name": "Land, Ho!",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "MQ06_4",
@@ -3245,7 +3250,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "MQ07_1",
@@ -3261,7 +3266,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "MQ08_1",
@@ -3277,7 +3282,7 @@
       "Name": "Up In Flames",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "MQ08_3",
@@ -3285,7 +3290,7 @@
       "Name": "Fhtagn!",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "PLTN",
@@ -3300,7 +3305,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 805,
+      "Progressed": 806,
       "Completed": 27
     }
   ],
@@ -3308,8 +3313,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2023-11-05T09:59:32.7817162+00:00",
-  "LastChanged_Achievements": "2023-11-12T14:08:21.1276938+00:00",
+  "LastChanged_Achievements": "2023-11-12T15:07:52.1927171+00:00",
   "LastUpdate_AppInfo": "2023-11-11T14:57:10.4254324+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:58:26.2044603+00:00",
-  "LastUpdate_Achievements": "2023-11-12T14:08:21.1277239+00:00"
+  "LastUpdate_Ratings": "2023-11-12T14:58:23.1601632+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:07:52.1927536+00:00"
 }

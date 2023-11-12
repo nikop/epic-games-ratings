@@ -2,13 +2,13 @@
   "ID": "4b35838425c74992ad42e1276b2161ca",
   "Name": "Immortals Fenyx Rising Standard Edition",
   "ProductSlug": "immortals-fenyx-rising",
-  "Ranking_Rating": 410,
+  "Ranking_Rating": 431,
   "Ranking_Popularity": 182,
-  "Ranking_PopularitySum": 256,
+  "Ranking_PopularitySum": 255,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-12-03T16:00:00+00:00",
     "PcReleaseDate": "2020-12-03T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 791,
   "RatingHistory": [
     {
@@ -1822,18 +1822,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 1050,
       "NumberOfAwardsMax": 706
+    },
+    {
+      "Time": "2023-11-12T15:00:25.8616553+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 1052,
+      "NumberOfAwardsMax": 708
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1050,
-  "NumberOfAwardsMax": 706,
+  "NumberOfAwards": 1052,
+  "NumberOfAwardsMax": 708,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 706
+      "Count": 708
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1895,8 +1901,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:58.8142388+00:00",
-  "LastChanged": "2023-11-11T23:59:34.2760598+00:00",
+  "LastChanged": "2023-11-12T15:00:25.8616552+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:08.4457199+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:00:10.971768+00:00",
-  "LastUpdate_Achievements": "2023-11-12T14:04:16.4783589+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:00:25.8616557+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:04:15.660847+00:00"
 }

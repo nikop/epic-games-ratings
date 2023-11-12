@@ -1,20 +1,20 @@
 # My Time at Sandrock
 [Store](https://store.epicgames.com/en-US/p/my-time-at-sandrock)  
 [View Rawdata](../../db/m/my_time_at_sandrock.json)  
-Rating: 4.68 (Ranked 252)  
+Rating: 4.68 (Ranked 253)  
 Number of Ratings: 892  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 245.00% | ~755 |
+| Adept Assembler | 246.00% | ~758 |
 | Iron Chef | 185.00% | ~570 |
-| Greeno-B-Gone | 120.00% | ~370 |
-| Your Especially Earned Trajectory | 92.00% | ~283 |
+| Greeno-B-Gone | 121.00% | ~373 |
+| Your Especially Earned Trajectory | 93.00% | ~286 |
+| Can We Keep It? | 62.00% | ~191 |
 | No Mountain Wide Enough | 62.00% | ~191 |
-| Can We Keep It? | 61.00% | ~188 |
-| On that Grindset | 60.00% | ~185 |
+| On that Grindset | 61.00% | ~188 |
 | Yakmel Whisperer | 54.00% | ~166 |
-| Pack Mule | 52.00% | ~160 |
+| Pack Mule | 53.00% | ~163 |
 | Diamonds are Forever | 52.00% | ~160 |
 | Unboxing | 49.00% | ~151 |
 | Financially Secure | 47.00% | ~145 |
@@ -31,19 +31,19 @@ Number of Ratings: 892  (23.09.2022)
 | What Plants Crave | 38.00% | ~117 |
 | You Don't Win Friends With Salad | 38.00% | ~117 |
 | Better Late than Never | 37.00% | ~114 |
+| First Love | 36.00% | ~111 |
 | Anti-Santa | 35.00% | ~108 |
-| First Love | 35.00% | ~108 |
 | Finishing Touches | 33.00% | ~102 |
 | Officially Official | 33.00% | ~102 |
-| Panda-kin | 31.00% | ~95 |
+| Panda-kin | 32.00% | ~99 |
 | Builder of the Month | 31.00% | ~95 |
+| Who Ya Gonna Call...? | 31.00% | ~95 |
 | Bridging the Gap | 30.00% | ~92 |
-| Who Ya Gonna Call...? | 30.00% | ~92 |
 | Waste Not Want Not | 28.00% | ~86 |
 | Martle's Dream | 27.00% | ~83 |
 | Jewel of the Eufaula | 27.00% | ~83 |
+| Commissions, commissions...! | 26.00% | ~80 |
 | He Can Spin A Yarn... | 26.00% | ~80 |
-| Commissions, commissions...! | 25.00% | ~77 |
 | Elementary, My Dear | 24.00% | ~74 |
 | Lifeline Pipeline | 23.00% | ~71 |
 | Got the Flow Back | 23.00% | ~71 |
@@ -51,13 +51,13 @@ Number of Ratings: 892  (23.09.2022)
 | Do Your Part | 20.00% | ~62 |
 | Kind of a Big Deal | 19.00% | ~59 |
 | Just What I Always Wanted! | 18.00% | ~55 |
+| Sepia Toned Memories | 17.00% | ~52 |
 | Time Flies | 16.00% | ~49 |
-| Sepia Toned Memories | 16.00% | ~49 |
 | Santa In Training | 16.00% | ~49 |
-| Sandrunning Speedster | 15.00% | ~46 |
+| Sandrunning Speedster | 16.00% | ~49 |
+| Pro Gamer | 15.00% | ~46 |
 | It Belongs in a Museum! | 15.00% | ~46 |
-| Pro Gamer | 14.00% | ~43 |
-| Cardistry | 12.00% | ~37 |
+| Cardistry | 13.00% | ~40 |
 | Jack of All Trades | 8.00% | ~25 |
 | It's High Noon... | 7.00% | ~22 |
 | Strong Arms | 6.00% | ~18 |

@@ -24,8 +24,8 @@
 | The Mentor | 10.00% | ~18 |
 | Airborne | 9.00% | ~16 |
 | Miner | 9.00% | ~16 |
+| Calm before the Storm | 7.00% | ~13 |
 | Flawless Victory | 6.00% | ~11 |
-| Calm before the Storm | 5.00% | ~9 |
 | To Battle | 5.00% | ~9 |
 | Godslayer | 5.00% | ~9 |
 | A Queen's Tale | 3.00% | ~5 |

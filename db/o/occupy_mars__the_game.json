@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1702,
+  "EOS_Progressed": 1703,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4164,6 +4164,11 @@
       "Time": "2023-11-11T01:49:41.933319+00:00",
       "NumProgressed": 1702,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T15:02:53.2155862+00:00",
+      "NumProgressed": 1703,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4247,7 +4252,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -4327,7 +4332,7 @@
       "Name": "Detective",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "NEW_ACHIEVEMENT_DE_DUST",
@@ -4399,7 +4404,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -4558,7 +4563,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1702,
+      "Progressed": 1703,
       "Completed": 0
     }
   ],
@@ -4566,8 +4571,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-08T15:58:28.9481693+00:00",
-  "LastChanged_Achievements": "2023-11-12T14:03:01.6691282+00:00",
+  "LastChanged_Achievements": "2023-11-12T15:02:53.2155857+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9996626+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:00:19.4743134+00:00",
-  "LastUpdate_Achievements": "2023-11-12T14:03:01.6691813+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:00:36.1123907+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:02:53.2156566+00:00"
 }

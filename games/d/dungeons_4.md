@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 83.00% | ~185 |
-| Thalya – Simply Immortal | 83.00% | ~185 |
-| For the Horde! | 75.00% | ~167 |
-| Hammer Time, Round Two | 71.00% | ~158 |
-| Thalya's Concentrated Fury | 64.00% | ~143 |
+| The Last Stand | 84.00% | ~187 |
+| Thalya – Simply Immortal | 84.00% | ~187 |
+| For the Horde! | 77.00% | ~172 |
+| Hammer Time, Round Two | 73.00% | ~163 |
+| Thalya's Concentrated Fury | 65.00% | ~145 |
 | The Hellwoods | 61.00% | ~136 |
-| Experienced Thalya | 55.00% | ~123 |
+| Experienced Thalya | 56.00% | ~125 |
+| The Plains of Strothalm | 53.00% | ~118 |
 | Master of Magic | 52.00% | ~116 |
-| The Plains of Strothalm | 52.00% | ~116 |
-| Bad Elves Go Everywhere | 50.00% | ~112 |
-| Trap Master | 48.00% | ~107 |
+| Bad Elves Go Everywhere | 51.00% | ~114 |
+| Trap Master | 49.00% | ~109 |
+| Unicorn steaks – fresh off the hoof! | 49.00% | ~109 |
 | Magic Accidents | 48.00% | ~107 |
-| Unicorn steaks – fresh off the hoof! | 48.00% | ~107 |
 | Minions, Minions! | 43.00% | ~96 |
-| Heroes’ Gorge | 37.00% | ~83 |
-| YOU SHALL NOT PASS! | 29.00% | ~65 |
+| Heroes’ Gorge | 38.00% | ~85 |
+| YOU SHALL NOT PASS! | 30.00% | ~67 |
+| The Ascent | 23.00% | ~51 |
+| It's Warm and Cozy at Home | 23.00% | ~51 |
 | Mana Cannon | 22.00% | ~49 |
-| The Ascent | 22.00% | ~49 |
 | Pure Dynamite! | 22.00% | ~49 |
-| It's Warm and Cozy at Home | 22.00% | ~49 |
 | Hard Work | 20.00% | ~45 |
 | The Big Eaty | 17.00% | ~38 |
 | “… like son” | 12.00% | ~27 |
@@ -33,22 +33,22 @@
 | Shame! Shame! Shame! | 9.00% | ~20 |
 | The Cathedral of Light | 8.00% | ~18 |
 | Hungry, Hungry Gorgu! | 7.00% | ~16 |
+| Tanos' Crusade Against Thalya | 7.00% | ~16 |
 | Forbidden Knowledge | 6.00% | ~13 |
 | Unstoppable Horde | 6.00% | ~13 |
-| Tanos' Crusade Against Thalya | 6.00% | ~13 |
-| Master of the Undead | 5.00% | ~11 |
+| Master of the Undead | 6.00% | ~13 |
 | All’s Well That Ends Evil | 5.00% | ~11 |
 | Ghost Pirates? Ghost Heroes! | 4.00% | ~9 |
 | Stop Tanos! | 4.00% | ~9 |
 | The Duel | 4.00% | ~9 |
+| Bonus Evilness | 3.00% | ~7 |
 | If Looks Could Kill | 3.00% | ~7 |
 | My Little Torture Chamber | 2.00% | ~4 |
-| Bonus Evilness | 2.00% | ~4 |
+| Gorgu is in the Best of Health | 2.00% | ~4 |
 | Mirror, Mirror | 2.00% | ~4 |
 | Laser Eyes Are So Useless | 2.00% | ~4 |
-| Gorgu is in the Best of Health | 1.00% | ~2 |
+| Sabotage! | 1.00% | ~2 |
 | The Finitude Drill | 0.90% | ~2 |
-| Sabotage! | 0.90% | ~2 |
 | Doom Hill | 0.90% | ~2 |
 | Rubble and Ashes | 0.90% | ~2 |
 | Untouchable | 0.40% | ~1 |

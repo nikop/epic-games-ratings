@@ -4,11 +4,11 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 445,
   "Ranking_Popularity": 426,
-  "Ranking_PopularitySum": 348,
+  "Ranking_PopularitySum": 349,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1441,9 +1441,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157887,
+  "EOS_Progressed": 157900,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1168,
+  "EOS_NewPlayers": 1173,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15366,6 +15366,11 @@
       "Time": "2023-11-12T14:03:42.7183168+00:00",
       "NumProgressed": 157887,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T15:03:38.3132334+00:00",
+      "NumProgressed": 157900,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15433,7 +15438,7 @@
       "Name": "Breath",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -15441,7 +15446,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6315
+      "UsersEstimate": 6316
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -15465,7 +15470,7 @@
       "Name": "Artisan",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -15505,7 +15510,7 @@
       "Name": "Hush",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -15593,7 +15598,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6315
+      "UsersEstimate": 6316
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -15625,7 +15630,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 789
+      "UsersEstimate": 790
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -15744,21 +15749,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157470,
+      "Progressed": 157483,
       "Completed": 1198
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157887,
+      "Progressed": 157900,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-12T13:02:03.969696+00:00",
-  "LastChanged_Achievements": "2023-11-12T14:03:42.7183165+00:00",
+  "LastChanged_Achievements": "2023-11-12T15:03:38.3132329+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:58:53.7123938+00:00",
-  "LastUpdate_Achievements": "2023-11-12T14:03:42.7184115+00:00"
+  "LastUpdate_Ratings": "2023-11-12T14:58:53.4774932+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:03:38.3133251+00:00"
 }

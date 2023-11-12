@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~856 |
-| Whatever It Takes | 2.00% | ~856 |
-| Pork Chopped | 2.00% | ~856 |
+| One of Us | 2.00% | ~857 |
+| Whatever It Takes | 2.00% | ~857 |
+| Pork Chopped | 2.00% | ~857 |
 | Hotel California | 0.80% | ~5,738 |
 | Welcome To Hell-A | 0.80% | ~5,738 |
 | Break A Leg | 0.70% | ~5,021 |
@@ -21,15 +21,15 @@ Rating: 4.54 (Ranked 524)
 | Apex Predator | 0.60% | ~4,304 |
 | Stacking the Deck | 0.60% | ~4,304 |
 | Personal Assistant Personally Assisted | 0.60% | ~4,304 |
-| Perks of the Job | 0.50% | ~3,586 |
-| But Doctor, I am Butcho | 0.50% | ~3,586 |
-| Slayer Squad | 0.50% | ~3,586 |
-| Can't Handle the Truth | 0.50% | ~3,586 |
-| Like Riding a Bike | 0.50% | ~3,586 |
-| Zombologist | 0.50% | ~3,586 |
-| A Patton Emerges | 0.50% | ~3,586 |
-| Our True Nature | 0.50% | ~3,586 |
-| This is My Weapon | 0.50% | ~3,586 |
+| Perks of the Job | 0.50% | ~3,587 |
+| But Doctor, I am Butcho | 0.50% | ~3,587 |
+| Slayer Squad | 0.50% | ~3,587 |
+| Can't Handle the Truth | 0.50% | ~3,587 |
+| Like Riding a Bike | 0.50% | ~3,587 |
+| Zombologist | 0.50% | ~3,587 |
+| A Patton Emerges | 0.50% | ~3,587 |
+| Our True Nature | 0.50% | ~3,587 |
+| This is My Weapon | 0.50% | ~3,587 |
 | Making Your Mark | 0.40% | ~2,869 |
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,869 |
 | Not Even My Final Form | 0.40% | ~2,869 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,265 (Ranked 20)  
+Progressed: 717,311 (Ranked 20)  
 Completed: 2,384 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 2,384 (0.33%) (Ranked 220)
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
-| 2023-11-12 | 717,265 | 2,384 |
+| 2023-11-12 | 717,311 | 2,384 |
 ## Awards
 Max (Great Boss Battles): 7,320  (Ranked 53)  
 Sum: 11,128 (Ranked 85)  

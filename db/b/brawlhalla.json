@@ -2,13 +2,13 @@
   "ID": "15e6680a0c164ee189fcc3eb10398fd6",
   "Name": "Brawlhalla",
   "ProductSlug": "brawlhalla",
-  "Ranking_Rating": 432,
+  "Ranking_Rating": 431,
   "Ranking_Popularity": 207,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 456,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewPlayers": 457,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -8409,11 +8409,17 @@
       "Rating": 4.59,
       "NumberOfAwards": 4336,
       "NumberOfAwardsMax": 488
+    },
+    {
+      "Time": "2023-11-12T15:00:44.150251+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 4342,
+      "NumberOfAwardsMax": 494
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4336,
-  "NumberOfAwardsMax": 488,
+  "NumberOfAwards": 4342,
+  "NumberOfAwardsMax": 494,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
@@ -8438,7 +8444,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 488
+      "Count": 494
     },
     {
       "Text": "This game is Relaxing",
@@ -8501,8 +8507,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-11-12T08:01:40.9742149+00:00",
+  "LastChanged": "2023-11-12T15:00:44.1502508+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:25.6740217+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:00:26.5674788+00:00",
-  "LastUpdate_Achievements": "2023-11-12T14:09:09.5299858+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:00:44.1502513+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:08:44.5851672+00:00"
 }

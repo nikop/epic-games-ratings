@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1186,
+  "EOS_Progressed": 1187,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
@@ -3449,6 +3449,11 @@
       "Time": "2023-11-12T14:09:25.1364148+00:00",
       "NumProgressed": 1186,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T15:09:01.1916332+00:00",
+      "NumProgressed": 1187,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3653,7 +3658,7 @@
       "Name": "Scrap collector",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "achievement_32",
@@ -3964,13 +3969,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1186,
+      "Progressed": 1187,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1186,
+      "Progressed": 1187,
       "Completed": 1
     }
   ],
@@ -3978,8 +3983,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-12T14:09:25.1364145+00:00",
+  "LastChanged_Achievements": "2023-11-12T15:09:01.1916327+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:59:43.9567322+00:00",
-  "LastUpdate_Achievements": "2023-11-12T14:09:25.1364721+00:00"
+  "LastUpdate_Ratings": "2023-11-12T14:59:55.216605+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:09:01.1917144+00:00"
 }

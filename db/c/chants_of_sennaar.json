@@ -4,7 +4,7 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 529,
+  "EOS_Progressed": 530,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.29,
+  "EOS_Completed_Percentage": 5.28,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2260,6 +2260,11 @@
       "Time": "2023-11-12T07:06:22.4301548+00:00",
       "NumProgressed": 529,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-12T15:05:34.7149113+00:00",
+      "NumProgressed": 530,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2319,7 +2324,7 @@
       "Name": "Open door",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2327,7 +2332,7 @@
       "Name": "Free at last",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2335,7 +2340,7 @@
       "Name": "Feels like springtime",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "META_RESULT_2-3",
@@ -2367,7 +2372,7 @@
       "Name": "Alchemists Express",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2431,7 +2436,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 169
+      "UsersEstimate": 170
     },
     {
       "ID": "PROGRESS_N2",
@@ -2461,23 +2466,23 @@
       "ID": "PROGRESS_N5",
       "SetID": "2gma9an",
       "Name": "One last step",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 101
+      "UsersEstimate": 95
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 529,
+      "Progressed": 530,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-12T14:05:29.6561623+00:00",
+  "LastChanged_Achievements": "2023-11-12T15:05:34.7149107+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:59:55.7171537+00:00",
-  "LastUpdate_Achievements": "2023-11-12T14:05:29.6561854+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:00:08.3331263+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:05:34.7149379+00:00"
 }

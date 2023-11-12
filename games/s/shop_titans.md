@@ -13,19 +13,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | Disintermediation | 3.00% | ~4,186 |
 | It's Free Real Estate | 3.00% | ~4,186 |
 | Capitalism Ho! | 3.00% | ~4,186 |
-| The Daily Grind | 2.00% | ~2,790 |
-| One Easy Payment | 2.00% | ~2,790 |
-| Some Assembly Required | 2.00% | ~2,790 |
-| Bounty Hunters | 2.00% | ~2,790 |
-| Flooding the Market | 2.00% | ~2,790 |
-| Where it Hurts | 2.00% | ~2,790 |
-| Another Satisfied Customer | 2.00% | ~2,790 |
-| Pretty Penny | 2.00% | ~2,790 |
-| One-Armed Bandit | 2.00% | ~2,790 |
-| Budding Merchant | 2.00% | ~2,790 |
-| Dungeon Imports | 2.00% | ~2,790 |
-| Through Repetition, Perfection | 2.00% | ~2,790 |
-| Own the Means of Production | 2.00% | ~2,790 |
+| The Daily Grind | 2.00% | ~2,791 |
+| One Easy Payment | 2.00% | ~2,791 |
+| Some Assembly Required | 2.00% | ~2,791 |
+| Bounty Hunters | 2.00% | ~2,791 |
+| Flooding the Market | 2.00% | ~2,791 |
+| Where it Hurts | 2.00% | ~2,791 |
+| Another Satisfied Customer | 2.00% | ~2,791 |
+| Pretty Penny | 2.00% | ~2,791 |
+| One-Armed Bandit | 2.00% | ~2,791 |
+| Budding Merchant | 2.00% | ~2,791 |
+| Dungeon Imports | 2.00% | ~2,791 |
+| Through Repetition, Perfection | 2.00% | ~2,791 |
+| Own the Means of Production | 2.00% | ~2,791 |
 | On the Path to Greatness | 1.00% | ~1,395 |
 | Ascended | 1.00% | ~1,395 |
 | Tax not Included | 1.00% | ~1,395 |
@@ -46,11 +46,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,395 |
 | Magical Harmony | 1.00% | ~1,395 |
 | Arcane Industries | 1.00% | ~1,395 |
+| The King's Caprice | 0.90% | ~1,256 |
 | Big Game Hunting | 0.90% | ~1,256 |
 | For the Hoard! | 0.90% | ~1,256 |
 | Scrapbooker | 0.90% | ~1,256 |
 | Flying off the Shelves | 0.90% | ~1,256 |
 | This Power Level...! | 0.90% | ~1,256 |
+| Hidden Potential | 0.90% | ~1,256 |
 | Expansion in Session | 0.90% | ~1,256 |
 | Trash to Treasure | 0.90% | ~1,256 |
 | Seasoned Journeyman | 0.90% | ~1,256 |
@@ -60,10 +62,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Notch Above the Rest | 0.80% | ~1,116 |
 | Above the Norm | 0.80% | ~1,116 |
 | A Ronin Reborn | 0.80% | ~1,116 |
-| The King's Caprice | 0.80% | ~1,116 |
 | Locally Sourced | 0.80% | ~1,116 |
 | Master of Transmutation | 0.80% | ~1,116 |
-| Hidden Potential | 0.80% | ~1,116 |
 | Supercharged | 0.80% | ~1,116 |
 | Cranked up to 11 | 0.80% | ~1,116 |
 | Fit for a King | 0.80% | ~1,116 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,523 (Ranked 79)  
-Completed: 181 (0.13%) (Ranked 260)  
+Progressed: 139,534 (Ranked 79)  
+Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,7 +325,7 @@ Completed: 181 (0.13%) (Ranked 260)
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
-| 2023-11-12 | 139,523 | 181 |
+| 2023-11-12 | 139,534 | 181 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,531 (Ranked 50)  

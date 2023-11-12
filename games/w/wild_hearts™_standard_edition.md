@@ -12,8 +12,8 @@
 | Mountain Splitter | 66.00% | ~178 |
 | Charmed by the Hunt | 65.00% | ~176 |
 | Memory Rouser | 64.00% | ~173 |
+| Subsistence Skills | 64.00% | ~173 |
 | Fusion Conjuror | 63.00% | ~170 |
-| Subsistence Skills | 63.00% | ~170 |
 | Kemono Hunter | 59.00% | ~159 |
 | Expert Conjuror | 56.00% | ~151 |
 | Distance Devourer | 53.00% | ~143 |
@@ -38,8 +38,8 @@
 | Style Seeker | 26.00% | ~70 |
 | Human Believer | 26.00% | ~70 |
 | Unrivaled in Arms | 26.00% | ~70 |
+| Karakuri Minato | 25.00% | ~68 |
 | Threaded Harmony | 24.00% | ~65 |
-| Karakuri Minato | 24.00% | ~65 |
 | Jack of All Trades | 22.00% | ~59 |
 | Quintessence of Form | 22.00% | ~59 |
 | Karakuri Fortress | 20.00% | ~54 |

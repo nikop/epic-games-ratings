@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10407,9 +10407,9 @@
       "Count": 778
     }
   ],
-  "EOS_Progressed": 301945,
+  "EOS_Progressed": 301948,
   "EOS_Completed": 509,
-  "EOS_NewPlayers": 922,
+  "EOS_NewPlayers": 911,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32577,6 +32577,11 @@
       "Time": "2023-11-12T13:12:32.1957351+00:00",
       "NumProgressed": 301945,
       "NumCompleted": 509
+    },
+    {
+      "Time": "2023-11-12T15:08:52.4766184+00:00",
+      "NumProgressed": 301948,
+      "NumCompleted": 509
     }
   ],
   "TotalAchievements": 45,
@@ -32588,7 +32593,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48311
+      "UsersEstimate": 48312
     },
     {
       "ID": "PFA_10",
@@ -32620,7 +32625,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30194
+      "UsersEstimate": 30195
     },
     {
       "ID": "PFA_14",
@@ -32772,7 +32777,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36233
+      "UsersEstimate": 36234
     },
     {
       "ID": "PFA_31",
@@ -32812,7 +32817,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30194
+      "UsersEstimate": 30195
     },
     {
       "ID": "PFA_36",
@@ -32916,7 +32921,7 @@
       "Name": "First Class Student",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 42272
+      "UsersEstimate": 42273
     },
     {
       "ID": "PFA_7",
@@ -32924,7 +32929,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 42272
+      "UsersEstimate": 42273
     },
     {
       "ID": "PFA_8",
@@ -32932,7 +32937,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36233
+      "UsersEstimate": 36234
     },
     {
       "ID": "PFA_9",
@@ -32940,14 +32945,14 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30194
+      "UsersEstimate": 30195
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301945,
+      "Progressed": 301948,
       "Completed": 509
     }
   ],
@@ -32955,8 +32960,8 @@
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
   "LastChanged": "2023-11-12T13:03:01.9415789+00:00",
-  "LastChanged_Achievements": "2023-11-12T14:09:17.0700432+00:00",
+  "LastChanged_Achievements": "2023-11-12T15:08:52.4766179+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:59:32.1744773+00:00",
-  "LastUpdate_Achievements": "2023-11-12T14:09:17.0701879+00:00"
+  "LastUpdate_Ratings": "2023-11-12T14:59:42.0196477+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:08:52.4768239+00:00"
 }

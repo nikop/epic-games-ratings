@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 763,
+  "Ranking_Rating": 764,
   "Ranking_Popularity": 436,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1213,9 +1213,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258320,
+  "EOS_Progressed": 258324,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 234,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21258,6 +21258,11 @@
       "Time": "2023-11-12T12:08:26.8792476+00:00",
       "NumProgressed": 258320,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-12T15:02:50.6046305+00:00",
+      "NumProgressed": 258324,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -21269,7 +21274,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18082
+      "UsersEstimate": 18083
     },
     {
       "ID": "Act2",
@@ -21317,7 +21322,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80079
+      "UsersEstimate": 80080
     },
     {
       "ID": "BackHomeNTimes",
@@ -21557,7 +21562,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59414
+      "UsersEstimate": 59415
     },
     {
       "ID": "KillOthers2",
@@ -21716,7 +21721,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258320,
+      "Progressed": 258324,
       "Completed": 3
     }
   ],
@@ -21724,8 +21729,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2023-11-11T08:57:36.3983945+00:00",
-  "LastChanged_Achievements": "2023-11-12T13:10:59.9855891+00:00",
+  "LastChanged_Achievements": "2023-11-12T15:02:50.6046302+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.1027511+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:58:22.7113132+00:00",
-  "LastUpdate_Achievements": "2023-11-12T13:10:59.9858352+00:00"
+  "LastUpdate_Ratings": "2023-11-12T14:58:19.2849838+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:02:50.6048152+00:00"
 }

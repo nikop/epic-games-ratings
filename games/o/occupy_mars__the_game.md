@@ -14,9 +14,9 @@ Rating: 4.01 (Ranked 988)
 | Occupy Mars! | 29.00% | ~494 |
 | Gardener | 26.00% | ~443 |
 | Miner | 26.00% | ~443 |
-| Houston we have a problem | 22.00% | ~374 |
-| Detective | 19.00% | ~323 |
-| The Collector | 18.00% | ~306 |
+| Houston we have a problem | 22.00% | ~375 |
+| Detective | 19.00% | ~324 |
+| The Collector | 18.00% | ~307 |
 | Get your hands dirty | 11.00% | ~187 |
 | Space Forest | 10.00% | ~170 |
 | All Wheel Trouble | 8.00% | ~136 |
@@ -54,7 +54,7 @@ Rating: 4.01 (Ranked 988)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,702 (Ranked 227)  
+Progressed: 1,703 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 1,700 | 0 |
 | 2023-11-10 | 1,701 | 0 |
 | 2023-11-11 | 1,702 | 0 |
+| 2023-11-12 | 1,703 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

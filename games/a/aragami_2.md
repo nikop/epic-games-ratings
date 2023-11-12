@@ -6,17 +6,17 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,784 |
-| First Steps | 80.00% | ~35,083 |
-| Control the Shadows | 67.00% | ~29,382 |
-| Tools of the Trade | 63.00% | ~27,628 |
-| Apprentice | 60.00% | ~26,312 |
+| Awakening | 93.00% | ~40,785 |
+| First Steps | 80.00% | ~35,084 |
+| Control the Shadows | 67.00% | ~29,383 |
+| Tools of the Trade | 63.00% | ~27,629 |
+| Apprentice | 60.00% | ~26,313 |
 | Secret Seeker | 57.00% | ~24,997 |
 | Forge of Assassins | 55.00% | ~24,120 |
-| Revenant | 52.00% | ~22,804 |
-| I don’t Care! | 45.00% | ~19,734 |
+| Revenant | 52.00% | ~22,805 |
+| I don’t Care! | 45.00% | ~19,735 |
 | Bird of Prey | 37.00% | ~16,226 |
-| Engraved with Power | 32.00% | ~14,033 |
+| Engraved with Power | 32.00% | ~14,034 |
 | Lady | 31.00% | ~13,595 |
 | Fashionable Assassin | 27.00% | ~11,841 |
 | Apex Predator | 24.00% | ~10,525 |
@@ -32,7 +32,7 @@ Number of Ratings: 88  (23.09.2022)
 | Signature Move | 14.00% | ~6,140 |
 | Ruse | 11.00% | ~4,824 |
 | Master Ninja | 11.00% | ~4,824 |
-| Hatching | 10.00% | ~4,385 |
+| Hatching | 10.00% | ~4,386 |
 | Bonds | 9.00% | ~3,947 |
 | Get Over Here | 9.00% | ~3,947 |
 | The Hidden Village | 9.00% | ~3,947 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~877 |
 | Legacy | 2.00% | ~877 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,854 (Ranked 113)  
+Progressed: 43,855 (Ranked 113)  
 Completed: 240 (0.55%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 240 (0.55%) (Ranked 185)
 | 2023-11-09 | 43,829 | 239 |
 | 2023-11-10 | 43,837 | 239 |
 | 2023-11-11 | 43,849 | 240 |
-| 2023-11-12 | 43,854 | 240 |
+| 2023-11-12 | 43,855 | 240 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

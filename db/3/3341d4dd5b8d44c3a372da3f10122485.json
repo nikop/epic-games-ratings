@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 5,
   "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 124,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 130,
-  "EOS_Completed": 62,
+  "EOS_Completed": 63,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 47.69,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 48.46,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -919,6 +919,11 @@
       "Time": "2023-11-12T14:03:25.4399771+00:00",
       "NumProgressed": 130,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2023-11-12T15:03:18.9937578+00:00",
+      "NumProgressed": 130,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -929,9 +934,9 @@
       "ID": "Budoar",
       "SetID": "823jm6g",
       "Name": "Budoir",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 80,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "Intro",
@@ -961,41 +966,41 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Les",
       "SetID": "823jm6g",
       "Name": "Woods",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 80,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 75,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 75,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 80,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "Poklop",
@@ -1035,13 +1040,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 130,
-      "Completed": 62
+      "Completed": 63
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2023-11-12T14:03:25.4399767+00:00",
+  "LastChanged_Achievements": "2023-11-12T15:03:18.9937567+00:00",
   "LastUpdate_AppInfo": "2023-11-11T02:44:31.4128862+00:00",
-  "LastUpdate_Ratings": "2023-11-12T13:58:47.4846567+00:00",
-  "LastUpdate_Achievements": "2023-11-12T14:03:25.4399977+00:00"
+  "LastUpdate_Ratings": "2023-11-12T14:58:46.0319339+00:00",
+  "LastUpdate_Achievements": "2023-11-12T15:03:18.9937729+00:00"
 }

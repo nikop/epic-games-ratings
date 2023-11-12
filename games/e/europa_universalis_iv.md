@@ -178,6 +178,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Uncommonwealth | 0.10% | ~454 |
 | This is fine | 0.10% | ~454 |
 | This is My Faith | 0.10% | ~454 |
+| This is Persia! | 0.10% | ~454 |
 | This navy can take it all | 0.10% | ~454 |
 | This Revolution Was Crushed | 0.10% | ~454 |
 | Three Trivial Tributary Tribes | 0.10% | ~454 |
@@ -349,7 +350,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Third Way | 0.00% | ~0 |
 | The Three Mountains | 0.00% | ~0 |
 | The White Company | 0.00% | ~0 |
-| This is Persia! | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,736 (Ranked 41)  
+Progressed: 453,807 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,10 +576,10 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,736 | 1 |
+| 2023-11-12 | 453,807 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
-Sum: 57,270 (Ranked 24)  
+Sum: 57,283 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -591,7 +591,7 @@ Diff (max vs sum): 30
 | This game is Relaxing | 6,403 |
 | This game has Competitive Players | 6,253 |
 | This game has Amazing Storytelling | 5,788 |
-| This game has Amazing Characters | 5,360 |
+| This game has Amazing Characters | 5,373 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -895,4 +895,4 @@ Diff (max vs sum): 30
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
-| 2023-11-12 | 4.69 | - | 6,965 | 57,270 |
+| 2023-11-12 | 4.69 | - | 6,965 | 57,283 |

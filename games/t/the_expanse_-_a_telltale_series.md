@@ -33,7 +33,7 @@ Rating: 4.56 (Ranked 487)
 | Data Master | 0.70% | ~104 |
 | Brother's Reaper | 0.50% | ~74 |
 | No Belter Left Behind | 0.50% | ~74 |
-| Debris Spree | 0.40% | ~60 |
+| Debris Spree | 0.50% | ~74 |
 | Data Recoverer | 0.40% | ~60 |
 | Urshanabi Hoarder | 0.30% | ~45 |
 | Data Miner | 0.10% | ~15 |

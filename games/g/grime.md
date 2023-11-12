@@ -6,8 +6,8 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,315 |
-| Imprint | 4.00% | ~6,315 |
+| Taste | 4.00% | ~6,316 |
+| Imprint | 4.00% | ~6,316 |
 | The Hunt | 3.00% | ~4,737 |
 | Weeper | 3.00% | ~4,737 |
 | Ravenous | 3.00% | ~4,737 |
@@ -31,10 +31,10 @@ Number of Ratings: 46  (23.09.2022)
 | Inevitable | 0.60% | ~947 |
 | All-Seeing | 0.60% | ~947 |
 | Dream | 0.60% | ~945 |
-| Breath | 0.50% | ~789 |
-| Artisan | 0.50% | ~789 |
-| Hush | 0.50% | ~789 |
-| Breathsmith | 0.50% | ~789 |
+| Breath | 0.50% | ~790 |
+| Artisan | 0.50% | ~790 |
+| Hush | 0.50% | ~790 |
+| Breathsmith | 0.50% | ~790 |
 | Bloodhunter | 0.40% | ~632 |
 | Unwrap the Gift | 0.40% | ~632 |
 | Passage | 0.40% | ~632 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,887 (Ranked 76)  
+Progressed: 157,900 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,11 +236,11 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
-| 2023-11-12 | 157,887 | 1 |
+| 2023-11-12 | 157,900 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
-Sum: 361 (Ranked 348)  
-Diff (max vs sum): 78  
+Sum: 361 (Ranked 349)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 51 |
