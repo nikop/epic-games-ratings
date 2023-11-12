@@ -4,8 +4,8 @@
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -561,9 +561,9 @@
       "ID": "just_like_me",
       "SetID": "202dmm8",
       "Name": "Just like me",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "making_a_murderer",
@@ -634,8 +634,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:08:15.3578651+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:56:37.8218999+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.8024057+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:57:35.9698393+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:08:15.3578761+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:45:56.4268265+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:56:37.8219182+00:00"
 }

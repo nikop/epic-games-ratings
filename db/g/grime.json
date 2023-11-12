@@ -1423,9 +1423,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157778,
+  "EOS_Progressed": 157794,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1181,
+  "EOS_NewPlayers": 1177,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15278,6 +15278,11 @@
       "Time": "2023-11-12T00:03:17.5948272+00:00",
       "NumProgressed": 157778,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T01:51:34.6732579+00:00",
+      "NumProgressed": 157794,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15313,7 +15318,7 @@
       "Name": "Assimilation",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACQUIRE_ALLWEAPONS",
@@ -15337,7 +15342,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -15353,7 +15358,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -15361,7 +15366,7 @@
       "Name": "Weeper",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -15449,7 +15454,7 @@
       "Name": "Celebration",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "DEFEAT_SHIDRA",
@@ -15505,7 +15510,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6311
+      "UsersEstimate": 6312
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -15561,7 +15566,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4733
+      "UsersEstimate": 4734
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -15656,21 +15661,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157361,
+      "Progressed": 157377,
       "Completed": 1197
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157778,
+      "Progressed": 157794,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-11T23:58:19.2206665+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:03:17.5948271+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:51:34.6732573+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:58:19.2206669+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:03:17.5949372+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:46:38.5051583+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:51:34.6733784+00:00"
 }

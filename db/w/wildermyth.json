@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -1862,9 +1862,9 @@
       "ID": "achievement_fullTransformation",
       "SetID": "95dc8p",
       "Name": "Completing the Look",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 9
     },
     {
       "ID": "achievement_kill1000Cultists",
@@ -1918,9 +1918,9 @@
       "ID": "achievement_kill100Monsters",
       "SetID": "95dc8p",
       "Name": "Who\u0027s Counting?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
@@ -2230,8 +2230,8 @@
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2023-09-16T17:00:08.5779719+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:08:34.0058326+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:56:56.1524225+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:22.1954438+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:59:30.566844+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:08:34.0058725+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:47:49.0299878+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:56:56.1524851+00:00"
 }

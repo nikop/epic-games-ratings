@@ -5,24 +5,24 @@ Rating: 4.46 (Ranked 647)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~1,810 |
-| Confirming Suspicions | 41.00% | ~1,578 |
-| The Kraken Wakes | 37.00% | ~1,424 |
-| It's Starting to Crack | 34.00% | ~1,309 |
+| Meeting Resistance | 46.00% | ~1,772 |
+| Confirming Suspicions | 41.00% | ~1,579 |
+| The Kraken Wakes | 37.00% | ~1,425 |
+| It's Starting to Crack | 34.00% | ~1,310 |
 | Change the Channel | 31.00% | ~1,194 |
-| Lord of War | 30.00% | ~1,155 |
-| Taking it back | 29.00% | ~1,116 |
+| Lord of War | 30.00% | ~1,156 |
+| Taking it back | 29.00% | ~1,117 |
 | Resourceful | 27.00% | ~1,040 |
 | Target America | 27.00% | ~1,040 |
-| The Kraken Sleeps | 25.00% | ~962 |
+| The Kraken Sleeps | 25.00% | ~963 |
 | Liberté | 23.00% | ~886 |
 | Organ Grinder | 23.00% | ~886 |
 | As Quiet as a Mouse | 23.00% | ~886 |
 | Sharpshooter | 22.00% | ~847 |
 | Gunslinger | 19.00% | ~732 |
 | Explosive Efficiency | 19.00% | ~732 |
-| Just a Flesh Wound | 17.00% | ~654 |
-| Der Geist | 17.00% | ~654 |
+| Just a Flesh Wound | 17.00% | ~655 |
+| Der Geist | 17.00% | ~655 |
 | Climbing the Ladder | 16.00% | ~616 |
 | Close Quarters | 16.00% | ~616 |
 | Skirmisher | 15.00% | ~578 |
@@ -33,16 +33,16 @@ Rating: 4.46 (Ranked 647)
 | Enemy at the Gates | 14.00% | ~539 |
 | Fields of Glory | 14.00% | ~539 |
 | Die Nussknacker Sweet! | 14.00% | ~539 |
-| Set Europe Ablaze | 13.00% | ~500 |
+| Set Europe Ablaze | 13.00% | ~501 |
 | Precision Is Key | 10.00% | ~385 |
 | My Little Friend | 10.00% | ~385 |
-| Rigged to Blow | 9.00% | ~346 |
+| Rigged to Blow | 9.00% | ~347 |
 | Herr Today, Gone Tomorrow | 7.00% | ~266 |
 | Operation Foxley | 6.00% | ~228 |
-| The Long Game | 5.00% | ~192 |
-| Tinkerer | 5.00% | ~192 |
-| It'll Buff Right Out | 5.00% | ~192 |
-| Don't hold your breath | 5.00% | ~192 |
+| The Long Game | 5.00% | ~193 |
+| Tinkerer | 5.00% | ~193 |
+| It'll Buff Right Out | 5.00% | ~193 |
+| Don't hold your breath | 5.00% | ~193 |
 | Last Resort | 5.00% | ~190 |
 | Siegebreaker | 5.00% | ~190 |
 | Ghost of Falaise | 5.00% | ~190 |
@@ -64,8 +64,8 @@ Rating: 4.46 (Ranked 647)
 | Covert Elimination | 2.00% | ~76 |
 | Shipbreaker | 2.00% | ~76 |
 | Sink or Swim | 2.00% | ~76 |
-| Best of the Best | 1.00% | ~38 |
-| Sight Beyond Sights | 1.00% | ~38 |
+| Best of the Best | 1.00% | ~39 |
+| Sight Beyond Sights | 1.00% | ~39 |
 | From Führer Away | 1.00% | ~38 |
 | Alpha | 1.00% | ~38 |
 | Das Familienjuwel | 1.00% | ~38 |
@@ -77,7 +77,7 @@ Rating: 4.46 (Ranked 647)
 | Going Overboard | 0.60% | ~23 |
 | Stroll in the Woods | 0.50% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,850 (Ranked 192)  
+Progressed: 3,852 (Ranked 192)  
 Completed: 11 (0.29%) (Ranked 229)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 11 (0.29%) (Ranked 229)
 | 2023-11-09 | 3,843 | 11 |
 | 2023-11-10 | 3,845 | 11 |
 | 2023-11-11 | 3,850 | 11 |
+| 2023-11-12 | 3,852 | 11 |
 ## Awards
 Max (Great for Beginners): 23  (Ranked 527)  
 Sum: 23 (Ranked 529)  

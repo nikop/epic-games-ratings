@@ -8,8 +8,8 @@
 | Getting the Hang of It | 42.00% | ~454 |
 | Hoarder | 32.00% | ~346 |
 | Blobmeister | 27.00% | ~292 |
+| Exhaustive Explorer | 27.00% | ~292 |
 | Pest Control | 26.00% | ~281 |
-| Exhaustive Explorer | 26.00% | ~281 |
 | How Low Can We Go? | 24.00% | ~259 |
 | Team Builder | 20.00% | ~216 |
 | Long Live Rock | 15.00% | ~162 |

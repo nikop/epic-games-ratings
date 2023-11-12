@@ -4,7 +4,7 @@
   "ProductSlug": "dungeons-4-595454",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -293,9 +293,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 148
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -309,25 +309,25 @@
       "ID": "ach_main02horde_traps",
       "SetID": "4hg22ll",
       "Name": "Trap Master",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 99
     },
     {
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 122
+      "UsersEstimate": 124
     },
     {
       "ID": "ach_main03demon_doors",
       "SetID": "4hg22ll",
       "Name": "Master of Magic",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "ach_main03demon_spells",
@@ -341,49 +341,49 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 103
+      "UsersEstimate": 105
     },
     {
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 87
     },
     {
       "ID": "ach_main04undead_sacrifice",
       "SetID": "4hg22ll",
       "Name": "Sacrificial Pit = Garbage Disposal?",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "ach_main05evil_thalyalevel",
       "SetID": "4hg22ll",
       "Name": "Experienced Thalya",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -405,9 +405,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_main07storm_classified",
@@ -421,65 +421,65 @@
       "ID": "ach_main07storm_completed",
       "SetID": "4hg22ll",
       "Name": "The Ascent",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 18,
-      "XP": 20,
-      "UsersEstimate": 37
-    },
-    {
-      "ID": "ach_main07storm_storm",
-      "SetID": "4hg22ll",
-      "Name": "It\u0027s Warm and Cozy at Home",
       "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 39
     },
     {
+      "ID": "ach_main07storm_storm",
+      "SetID": "4hg22ll",
+      "Name": "It\u0027s Warm and Cozy at Home",
+      "Percentage": 20,
+      "XP": 20,
+      "UsersEstimate": 41
+    },
+    {
       "ID": "ach_main08sacrifice_completed",
       "SetID": "4hg22ll",
       "Name": "The Big Eaty",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
       "SetID": "4hg22ll",
       "Name": "Hungry, Hungry Gorgu!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 10
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_main08sacrifice_overfed",
       "SetID": "4hg22ll",
       "Name": "Not Even a Tiny Thin Mint Wafer, Thanks!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_main09journey_killheroes",
       "SetID": "4hg22ll",
       "Name": "Dungeonlord Gorgu",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -549,9 +549,9 @@
       "ID": "ach_main12race_tanosevilness",
       "SetID": "4hg22ll",
       "Name": "Stop Tanos!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_main12race_torture",
@@ -613,17 +613,17 @@
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_main15drill_sabotage",
       "SetID": "4hg22ll",
       "Name": "Sabotage!",
-      "Percentage": 0.5,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_main15drill_untouchable",
@@ -764,8 +764,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:03:08.0238716+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:51:25.0307266+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:57:58.6481782+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:03:08.0239141+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:46:18.8196406+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:51:25.0307981+00:00"
 }

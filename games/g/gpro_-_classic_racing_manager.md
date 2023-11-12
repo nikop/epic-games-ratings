@@ -167,7 +167,7 @@
 | Top Elite | 0.00% | ~0 |
 | Standing tall Amateur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 463 (Ranked 306)  
+Progressed: 463 (Ranked 307)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |

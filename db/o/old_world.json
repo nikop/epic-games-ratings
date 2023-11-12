@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15270,
+  "EOS_Progressed": 15273,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15805,6 +15805,11 @@
       "Time": "2023-11-11T23:04:52.363638+00:00",
       "NumProgressed": 15270,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-12T01:52:10.8033725+00:00",
+      "NumProgressed": 15273,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -17910,9 +17915,9 @@
       "ID": "ACHIEVEMENT_UNIT_TURRETED_ELEPHANT",
       "SetID": "9201eeb",
       "Name": "Turreted Elephant",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 107
+      "UsersEstimate": 122
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -18526,9 +18531,9 @@
       "ID": "ACHIEVEMENT_NATION_KUSH",
       "SetID": "9201eeb",
       "Name": "Kush",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 76
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_KUSH",
@@ -18542,30 +18547,30 @@
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
       "SetID": "9201eeb",
       "Name": "Beja Archer",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15270,
+      "Progressed": 15273,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15270,
+      "Progressed": 15273,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:03:53.6549749+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:52:10.8033719+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:58:59.6297301+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:03:53.6558224+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:47:18.111386+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:52:10.8048127+00:00"
 }

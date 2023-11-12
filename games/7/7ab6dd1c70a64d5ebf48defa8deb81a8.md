@@ -14,9 +14,9 @@
 | Fashion Victim | 27.00% | ~48 |
 | I Found It | 27.00% | ~48 |
 | Scholar | 26.00% | ~47 |
+| Powerful Allies | 25.00% | ~45 |
 | Geared Up | 25.00% | ~45 |
 | Tributes of Caladrias | 24.00% | ~43 |
-| Powerful Allies | 23.00% | ~41 |
 | Stone Collection | 22.00% | ~39 |
 | Essence Blow | 15.00% | ~27 |
 | Big Bazar | 13.00% | ~23 |

@@ -2,7 +2,7 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 129,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 60,
+  "EOS_Progressed": 62,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -149,6 +149,11 @@
       "Time": "2023-11-12T00:04:30.6037457+00:00",
       "NumProgressed": 60,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T01:52:47.1398809+00:00",
+      "NumProgressed": 62,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -175,7 +180,7 @@
       "ID": "5",
       "SetID": "5pi96jj",
       "Name": "What\u0027s Cooking?",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -199,7 +204,7 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 37,
+      "Percentage": 35,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -215,7 +220,7 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -223,7 +228,7 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 73,
+      "Percentage": 71,
       "XP": 5,
       "UsersEstimate": 44
     },
@@ -233,7 +238,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Remake_005",
@@ -247,7 +252,7 @@
       "ID": "Remake_006",
       "SetID": "5pi96jj",
       "Name": "Attempted Vehicular Infanticide",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -255,7 +260,7 @@
       "ID": "Remake_007",
       "SetID": "5pi96jj",
       "Name": "Deez Buffs Make Me Go Nuts",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 10
     },
@@ -287,9 +292,9 @@
       "ID": "Remake_11",
       "SetID": "5pi96jj",
       "Name": "Imma Powder Out",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Remake_12",
@@ -375,7 +380,7 @@
       "ID": "Remake_22",
       "SetID": "5pi96jj",
       "Name": "Escape Lookout Cove",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 4
     }
@@ -384,14 +389,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 60,
+      "Progressed": 62,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:04:30.6037451+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:52:47.1398805+00:00",
   "LastUpdate_AppInfo": "2023-11-06T20:57:01.7197178+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:58:57.542565+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:04:30.6037625+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:47:16.3340952+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:52:47.139905+00:00"
 }

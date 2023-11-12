@@ -6,7 +6,7 @@ Rating: 4.19 (Ranked 916)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 9.00% | ~1,479 |
-| Paper Jams | 8.00% | ~1,314 |
+| Paper Jams | 8.00% | ~1,315 |
 | Flesh Wound | 7.00% | ~1,150 |
 | Float Like A Butterfly | 7.00% | ~1,150 |
 | Chew 'Em Up | 6.00% | ~986 |
@@ -36,7 +36,7 @@ Rating: 4.19 (Ranked 916)
 | Armed to the Teeth | 0.80% | ~35 |
 | Information Overload | 0.80% | ~35 |
 | Grim Reaper | 0.70% | ~115 |
-| Parole Denied | 0.70% | ~30 |
+| Parole Denied | 0.70% | ~31 |
 | Mugshot | 0.60% | ~99 |
 | Instigator | 0.60% | ~26 |
 | Quick Pick | 0.60% | ~26 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 916)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,431 (Ranked 143)  
+Progressed: 16,432 (Ranked 143)  
 Completed: 79 (0.48%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,6 +252,7 @@ Completed: 79 (0.48%) (Ranked 197)
 | 2023-11-09 | 16,425 | 79 |
 | 2023-11-10 | 16,426 | 79 |
 | 2023-11-11 | 16,431 | 79 |
+| 2023-11-12 | 16,432 | 79 |
 ## Awards
 Max (Highly Recommended): 82  (Ranked 384)  
 Sum: 478 (Ranked 327)  

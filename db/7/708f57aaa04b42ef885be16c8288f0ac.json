@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 186,
-  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4895,
+  "EOS_Progressed": 4903,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 774,
+  "EOS_NewPlayers": 777,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2887,6 +2887,11 @@
       "Time": "2023-11-12T00:08:25.8494608+00:00",
       "NumProgressed": 4895,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-12T01:56:48.2458029+00:00",
+      "NumProgressed": 4903,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -2907,7 +2912,7 @@
       "Name": "Baby Steps",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "BeLikeWater",
@@ -2931,7 +2936,7 @@
       "Name": "Chewing The Scenery",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ConnectionLost",
@@ -2971,7 +2976,7 @@
       "Name": "First Time?",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 930
+      "UsersEstimate": 932
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3043,7 +3048,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "NoMoreTotems",
@@ -3099,7 +3104,7 @@
       "Name": "The Quarterback",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ThisIsDharma",
@@ -3170,7 +3175,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 4895,
+      "Progressed": 4903,
       "Completed": 5
     }
   ],
@@ -3178,8 +3183,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-10T21:10:20.974644+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:08:25.8494603+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:56:48.2458024+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:57:12.3487017+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:08:25.8495052+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:45:32.9713031+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:56:48.2458521+00:00"
 }

@@ -128,11 +128,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.80% | ~122 |
 | Assyrian Paganism | 0.80% | ~122 |
 | Enlightenment | 0.80% | ~122 |
+| Turreted Elephant | 0.80% | ~122 |
 | Poetic Leader | 0.80% | ~122 |
 | Bad Heir Day | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
 | Hittite Paganism | 0.70% | ~107 |
-| Turreted Elephant | 0.70% | ~107 |
 | The Great Mage | 0.70% | ~107 |
 | Kmt Unified | 0.70% | ~107 |
 | Ishtar Gate in Babylon | 0.60% | ~92 |
@@ -144,12 +144,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.60% | ~92 |
 | Cataphract Archer | 0.60% | ~92 |
 | All Nations | 0.60% | ~92 |
-| Kush | 0.60% | ~92 |
-| Beja Archer | 0.60% | ~92 |
 | Old | 0.50% | ~76 |
 | Old World Order | 0.50% | ~76 |
 | Ten Crowns | 0.50% | ~76 |
 | No Undo | 0.50% | ~76 |
+| Kush | 0.50% | ~76 |
+| Beja Archer | 0.50% | ~76 |
 | Bronze Victory (Carthage 1) | 0.40% | ~61 |
 | Ancient | 0.40% | ~61 |
 | Glorious Difficulty | 0.40% | ~61 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,270 (Ranked 145)  
+Progressed: 15,273 (Ranked 145)  
 Completed: 5 (0.03%) (Ranked 310)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -555,6 +555,7 @@ Completed: 5 (0.03%) (Ranked 310)
 | 2023-11-09 | 15,231 | 5 |
 | 2023-11-10 | 15,253 | 5 |
 | 2023-11-11 | 15,270 | 5 |
+| 2023-11-12 | 15,273 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 214)  

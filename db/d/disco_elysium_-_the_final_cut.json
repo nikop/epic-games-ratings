@@ -3,7 +3,7 @@
   "Name": "Disco Elysium - The Final Cut",
   "ProductSlug": "disco-elysium",
   "Ranking_Rating": 24,
-  "Ranking_Popularity": 176,
+  "Ranking_Popularity": 177,
   "Ranking_PopularitySum": 250,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 316,
@@ -1442,9 +1442,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130698,
+  "EOS_Progressed": 130701,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 233,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21632,6 +21632,11 @@
       "Time": "2023-11-12T00:03:31.1701982+00:00",
       "NumProgressed": 130698,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-12T01:51:48.2557043+00:00",
+      "NumProgressed": 130701,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21723,7 +21728,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36595
+      "UsersEstimate": 36596
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21962,15 +21967,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130698,
+      "Progressed": 130701,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-08T04:00:28.8876497+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:03:31.1701979+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:51:48.2557039+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:57:36.0864981+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:03:31.1702999+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:45:56.4545967+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:51:48.2558471+00:00"
 }

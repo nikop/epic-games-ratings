@@ -5,10 +5,10 @@
   "Ranking_Rating": 803,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 225,
-  "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_Progress": 224,
+  "Ranking_EOS_Completed": 267,
+  "Ranking_EOS_NewPlayers": 53,
+  "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -155,11 +155,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1744,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 1739,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.06,
+  "EOS_Progressed": 1792,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 1787,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
       "Time": "2023-10-19T17:06:35.017307+00:00",
@@ -375,6 +375,11 @@
       "Time": "2023-11-12T00:05:08.9261965+00:00",
       "NumProgressed": 1744,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T01:53:24.2129986+00:00",
+      "NumProgressed": 1792,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -385,9 +390,9 @@
       "ID": "AVID_READER_1_6",
       "SetID": "24fdn9j",
       "Name": "Avid Reader",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "BEAM_ME_UP_SCOTTY_1_7",
@@ -395,7 +400,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -409,9 +414,9 @@
       "ID": "MORBIDLY_CURIOUS_1_8",
       "SetID": "24fdn9j",
       "Name": "Morbidly Curious",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 36
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -419,7 +424,7 @@
       "Name": "Savior",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 122
+      "UsersEstimate": 125
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -427,7 +432,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 4,
       "XP": 200,
-      "UsersEstimate": 70
+      "UsersEstimate": 72
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -435,7 +440,7 @@
       "Name": "Rescuer",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 192
+      "UsersEstimate": 197
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -443,7 +448,7 @@
       "Name": "Secrets Out",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 87
+      "UsersEstimate": 90
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -451,31 +456,31 @@
       "Name": "Locksmith",
       "Percentage": 6,
       "XP": 90,
-      "UsersEstimate": 105
+      "UsersEstimate": 108
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
       "SetID": "24fdn9j",
       "Name": "Investigator",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 1744,
-      "Completed": 1
+      "Progressed": 1792,
+      "Completed": 2
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2023-11-11T10:01:08.2940969+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:05:08.9261961+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:53:24.2129979+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:33.6452734+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:56:55.2932536+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:05:08.9262105+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:45:16.1681124+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:53:24.213012+00:00"
 }

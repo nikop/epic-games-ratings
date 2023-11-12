@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -447,9 +447,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 5361,
+  "EOS_Progressed": 5362,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -6982,6 +6982,11 @@
       "Time": "2023-11-12T00:03:13.8378782+00:00",
       "NumProgressed": 5361,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-12T01:51:30.9616302+00:00",
+      "NumProgressed": 5362,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -6991,9 +6996,9 @@
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "10",
@@ -7119,17 +7124,17 @@
       "ID": "24",
       "SetID": "3aa2279",
       "Name": "Secret Technique",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "25",
       "SetID": "3aa2279",
       "Name": "Walls Cannot Stop Us",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 43
     },
     {
       "ID": "26",
@@ -7183,9 +7188,9 @@
       "ID": "31",
       "SetID": "3aa2279",
       "Name": "Magical Synergy",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 21
+      "UsersEstimate": 27
     },
     {
       "ID": "32",
@@ -7351,9 +7356,9 @@
       "ID": "46",
       "SetID": "7132754",
       "Name": "Tipping the Scales",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "47",
@@ -7472,13 +7477,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5361,
+      "Progressed": 5362,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5361,
+      "Progressed": 5362,
       "Completed": 7
     }
   ],
@@ -7486,8 +7491,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-11T17:03:23.9116257+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:03:13.837878+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:51:30.9616297+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T00:00:11.9858101+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:03:13.8379438+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:48:30.5107404+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:51:30.9617436+00:00"
 }

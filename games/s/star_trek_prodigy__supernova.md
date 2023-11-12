@@ -6,9 +6,9 @@
 | ---- | ---------- | ----- |
 | Restoring the Protostar | 53.00% | ~8 |
 | Three Watchers, Two Phasers | 33.00% | ~5 |
-| Guess who's back | 27.00% | ~4 |
+| Guess who's back | 33.00% | ~5 |
+| The Clock is Ticking | 27.00% | ~4 |
 | One for the Crew | 20.00% | ~3 |
-| The Clock is Ticking | 20.00% | ~3 |
 | A Helping Hand | 20.00% | ~3 |
 | I've Got You | 13.00% | ~2 |
 | Priceless Collection | 7.00% | ~1 |

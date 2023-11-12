@@ -4,7 +4,7 @@
   "ProductSlug": "atlas-fallen",
   "Ranking_EOS_Progress": 380,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 179,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 64,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -705,9 +705,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 23,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_04",
@@ -984,8 +984,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:08:52.0181737+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:57:13.7033162+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:58:31.7949907+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:08:52.0182006+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:46:50.6162193+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:57:13.7033564+00:00"
 }

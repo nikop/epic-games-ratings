@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -2463,7 +2463,7 @@
       "Count": 344
     }
   ],
-  "EOS_Progressed": 8445,
+  "EOS_Progressed": 8446,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 163,
   "EOS_NewCompleters": 0,
@@ -7683,6 +7683,11 @@
       "Time": "2023-11-11T23:08:11.3264304+00:00",
       "NumProgressed": 8445,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T01:54:39.5964722+00:00",
+      "NumProgressed": 8446,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7703,7 +7708,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "ach03",
@@ -7711,7 +7716,7 @@
       "Name": "A New Timeline",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 3969
+      "UsersEstimate": 3970
     },
     {
       "ID": "ach04",
@@ -7743,7 +7748,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 4729
+      "UsersEstimate": 4730
     },
     {
       "ID": "ach08",
@@ -7775,7 +7780,7 @@
       "Name": "Karnage",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ach12",
@@ -7879,7 +7884,7 @@
       "Name": "Ultimate Power",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3969
+      "UsersEstimate": 3970
     },
     {
       "ID": "ach25",
@@ -7895,7 +7900,7 @@
       "Name": "Running On Empty",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ach27",
@@ -7903,7 +7908,7 @@
       "Name": "So Krafty",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2702
+      "UsersEstimate": 2703
     },
     {
       "ID": "ach28",
@@ -7911,7 +7916,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach29",
@@ -7919,7 +7924,7 @@
       "Name": "Unstoppable",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "ach30",
@@ -7983,7 +7988,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4898
+      "UsersEstimate": 4899
     },
     {
       "ID": "ach38",
@@ -7991,7 +7996,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "ach39",
@@ -7999,7 +8004,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 3462
+      "UsersEstimate": 3463
     },
     {
       "ID": "ach40",
@@ -8031,7 +8036,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3800
+      "UsersEstimate": 3801
     },
     {
       "ID": "ach44",
@@ -8071,7 +8076,7 @@
       "Name": "Total Disrespect",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "ach49",
@@ -8094,7 +8099,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8445,
+      "Progressed": 8446,
       "Completed": 0
     }
   ],
@@ -8102,8 +8107,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-11T23:01:20.6043168+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:06:25.8166876+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:54:39.5964713+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:59:51.0170434+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:06:25.8167393+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:48:09.0535165+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:54:39.596561+00:00"
 }

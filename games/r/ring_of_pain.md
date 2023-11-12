@@ -9,6 +9,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 0.60% | ~6 |
 | Not Touching You | 0.40% | ~4 |
 | First Steps | 0.30% | ~719 |
+| Uncharted Territory | 0.30% | ~719 |
 | Expensive Look | 0.30% | ~3 |
 | What Doesn't Kill You | 0.30% | ~3 |
 | Ambitious Intent | 0.20% | ~479 |
@@ -34,9 +35,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Quick Escape | 0.20% | ~479 |
 | Stone Touch | 0.20% | ~479 |
 | Toxic | 0.20% | ~479 |
-| Uncharted Territory | 0.20% | ~479 |
 | Explorer | 0.20% | ~479 |
 | Sneaky | 0.20% | ~479 |
+| Shadow Walker | 0.20% | ~479 |
 | An Offering | 0.20% | ~479 |
 | Who Needs Luck? | 0.20% | ~2 |
 | Thank You, Friend | 0.10% | ~240 |
@@ -109,7 +110,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 0.10% | ~240 |
 | Snake Sneak | 0.10% | ~240 |
 | Sprinter | 0.10% | ~240 |
-| Shadow Walker | 0.10% | ~240 |
 | Flesh Wound | 0.10% | ~240 |
 | Fire Away! | 0.10% | ~240 |
 | Shapeshifting | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,550 (Ranked 61)  
+Progressed: 239,557 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 288 (0.12%) (Ranked 265)
 | 2023-11-09 | 239,427 | 287 |
 | 2023-11-10 | 239,475 | 287 |
 | 2023-11-11 | 239,548 | 288 |
-| 2023-11-12 | 239,550 | 288 |
+| 2023-11-12 | 239,557 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 130)  
 Sum: 11,667 (Ranked 83)  

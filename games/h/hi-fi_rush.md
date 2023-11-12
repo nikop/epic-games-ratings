@@ -7,7 +7,7 @@ Rating: 4.86 (Ranked 30)
 | ---- | ---------- | ----- |
 | Start with a bang! | 16.00% | ~675 |
 | Feeling the beat! | 16.00% | ~675 |
-| You can pet the cat! | 15.00% | ~632 |
+| You can pet the cat! | 15.00% | ~633 |
 | Who put gears in there? | 14.00% | ~590 |
 | Cream of the Crop | 13.00% | ~548 |
 | Thanks for the free chip, Peppermint! | 13.00% | ~548 |
@@ -19,9 +19,9 @@ Rating: 4.86 (Ranked 30)
 | I play my own way! | 10.00% | ~422 |
 | Z-shielding's got nothing on us! | 10.00% | ~422 |
 | Kissing the sky! | 10.00% | ~422 |
-| The Negotiator | 9.00% | ~379 |
-| Whoa! There's ANOTHER health bar!? | 9.00% | ~379 |
-| I look cool. But I can look COOLER. | 9.00% | ~379 |
+| The Negotiator | 9.00% | ~380 |
+| Whoa! There's ANOTHER health bar!? | 9.00% | ~380 |
+| I look cool. But I can look COOLER. | 9.00% | ~380 |
 | Headliner | 8.00% | ~337 |
 | Time to pay up! | 8.00% | ~337 |
 | Who's the boss now? | 8.00% | ~337 |
@@ -35,9 +35,9 @@ Rating: 4.86 (Ranked 30)
 | Beat-hit mania | 5.00% | ~211 |
 | That's a lot of junk metal… | 5.00% | ~211 |
 | There's such a thing as TOO helpful | 5.00% | ~211 |
-| Chip-tuned | 3.00% | ~126 |
-| Wanna hear my playlist? | 3.00% | ~126 |
-| Check out my moves! | 3.00% | ~126 |
+| Chip-tuned | 3.00% | ~127 |
+| Wanna hear my playlist? | 3.00% | ~127 |
+| Check out my moves! | 3.00% | ~127 |
 | I think I deserve some praise, here! | 2.00% | ~84 |
 | I think I found your calling, Macaron | 2.00% | ~84 |
 | We're Jammin' | 2.00% | ~84 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 30)
 | Voices from within | 0.10% | ~3 |
 | Low budget finish | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,216 (Ranked 190)  
+Progressed: 4,217 (Ranked 190)  
 Completed: 8 (0.19%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,6 +273,7 @@ Completed: 8 (0.19%) (Ranked 249)
 | 2023-11-07 | 4,208 | 8 |
 | 2023-11-09 | 4,209 | 8 |
 | 2023-11-11 | 4,216 | 8 |
+| 2023-11-12 | 4,217 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

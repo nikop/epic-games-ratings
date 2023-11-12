@@ -4,7 +4,7 @@
   "ProductSlug": "the-dragoness-command-of-the-flame-b3b544",
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-09T23:00:00+00:00",
@@ -232,9 +232,9 @@
       "ID": "SteamAchievement_UpgradeEggDragonToMaxLevel",
       "SetID": "b8gj0ip",
       "Name": "It was such a cute egg",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SteamAchievement_WinBattles01",
@@ -344,9 +344,9 @@
       "ID": "SteamAchievment_CompleteQuest04",
       "SetID": "b8gj0ip",
       "Name": "Forest Dragons\u0027 Ally",
-      "Percentage": 17,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "SteamAchievment_CompleteQuest05",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-08-10T10:57:59.2838137+00:00",
   "FirstSeenAchievements": "2023-05-30T14:00:09.5243374+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:05:45.1427627+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:53:59.9590333+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:14.8693945+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:57:18.0999215+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:05:45.1427807+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:45:39.1173497+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:53:59.9590681+00:00"
 }

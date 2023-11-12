@@ -28,6 +28,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Baa Baa Black Sheep | 0.10% | ~453 |
 | Barbarossa | 0.10% | ~453 |
 | Basileus | 0.10% | ~453 |
+| Bengal Tiger | 0.10% | ~453 |
 | Big Blue Blob | 0.10% | ~453 |
 | Black Jack | 0.10% | ~453 |
 | Bleed Them Dry | 0.10% | ~453 |
@@ -220,7 +221,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Baltic Crusader | 0.00% | ~0 |
 | These Banners need a Saga | 0.00% | ~0 |
 | Basque in Glory | 0.00% | ~0 |
-| Bengal Tiger | 0.00% | ~0 |
 | Better than Napoleon | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,120 (Ranked 41)  
+Progressed: 453,166 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,10 +576,10 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,120 | 1 |
+| 2023-11-12 | 453,166 | 1 |
 ## Awards
 Max (Educational): 6,946  (Ranked 54)  
-Sum: 57,173 (Ranked 24)  
+Sum: 57,198 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -588,7 +588,7 @@ Diff (max vs sum): 30
 | This game is Highly Recommended | 6,663 |
 | This game has Challenging Combat | 6,576 |
 | This game is Extremely Fun | 6,551 |
-| This game is Relaxing | 6,378 |
+| This game is Relaxing | 6,403 |
 | This game has Competitive Players | 6,237 |
 | This game has Amazing Storytelling | 5,772 |
 | This game has Amazing Characters | 5,360 |
@@ -895,3 +895,4 @@ Diff (max vs sum): 30
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
+| 2023-11-12 | 4.69 | - | 6,946 | 57,198 |

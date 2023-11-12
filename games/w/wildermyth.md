@@ -17,10 +17,10 @@ Number of Ratings: 45  (23.09.2022)
 | War Endured | 0.80% | ~12 |
 | Core Failure | 0.80% | ~12 |
 | Let Me Get My Chisel | 0.60% | ~9 |
-| Completing the Look | 0.50% | ~7 |
+| Completing the Look | 0.60% | ~9 |
+| Who's Counting? | 0.50% | ~7 |
 | Echoes Die | 0.50% | ~7 |
 | A Mythic Menagerie | 0.40% | ~6 |
-| Who's Counting? | 0.40% | ~6 |
 | Thematic Divergence | 0.40% | ~6 |
 | Pyrrhic Victory | 0.40% | ~6 |
 | Empty the Caves | 0.30% | ~4 |

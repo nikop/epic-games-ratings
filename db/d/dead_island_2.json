@@ -6331,10 +6331,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11108,
       "NumberOfAwardsMax": 7320
+    },
+    {
+      "Time": "2023-11-12T01:47:46.8840983+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11114,
+      "NumberOfAwardsMax": 7320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11108,
+  "NumberOfAwards": 11114,
   "NumberOfAwardsMax": 7320,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6378,7 +6384,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 435
+      "Count": 441
     },
     {
       "Text": "This game is Relaxing",
@@ -6393,9 +6399,9 @@
       "Count": 458
     }
   ],
-  "EOS_Progressed": 716926,
-  "EOS_Completed": 2381,
-  "EOS_NewPlayers": 4250,
+  "EOS_Progressed": 716958,
+  "EOS_Completed": 2382,
+  "EOS_NewPlayers": 4222,
   "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29848,6 +29854,11 @@
       "Time": "2023-11-12T00:03:11.2865376+00:00",
       "NumProgressed": 716926,
       "NumCompleted": 2381
+    },
+    {
+      "Time": "2023-11-12T01:51:28.243351+00:00",
+      "NumProgressed": 716958,
+      "NumCompleted": 2382
     }
   ],
   "TotalAchievements": 51,
@@ -29857,9 +29868,9 @@
       "ID": "ach_a_day_in_the_beach",
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3585
+      "UsersEstimate": 4302
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -30019,7 +30030,7 @@
       "Name": "Hotel California",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5018
+      "UsersEstimate": 5019
     },
     {
       "ID": "ach_impressive_aim",
@@ -30057,9 +30068,9 @@
       "ID": "ach_knock_down",
       "SetID": "7km39fm",
       "Name": "Apex Predator",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3585
+      "UsersEstimate": 4302
     },
     {
       "ID": "ach_knowledgeable",
@@ -30195,7 +30206,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5735
+      "UsersEstimate": 5736
     },
     {
       "ID": "ach_well_known_survivor",
@@ -30227,7 +30238,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ach_gardening_tools",
@@ -30243,7 +30254,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30266,22 +30277,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 716926,
-      "Completed": 2381
+      "Progressed": 716958,
+      "Completed": 2382
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 42468,
+      "Progressed": 42500,
       "Completed": 36525
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-11T20:04:03.2964654+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:03:11.2865372+00:00",
+  "LastChanged": "2023-11-12T01:47:46.8840982+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:51:28.2433504+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:59:28.3749197+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:03:11.2867046+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:47:46.8840988+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:51:28.2435652+00:00"
 }

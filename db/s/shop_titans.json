@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 45,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -6985,9 +6985,9 @@
       "Count": 3778
     }
   ],
-  "EOS_Progressed": 139411,
+  "EOS_Progressed": 139425,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 805,
+  "EOS_NewPlayers": 814,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28000,6 +28000,11 @@
       "Time": "2023-11-12T00:05:12.438583+00:00",
       "NumProgressed": 139411,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-12T01:53:27.850272+00:00",
+      "NumProgressed": 139425,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28075,7 +28080,7 @@
       "Name": "Constellated",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "ashley_a",
@@ -28179,7 +28184,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "chest02",
@@ -28243,7 +28248,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "commonres02",
@@ -28267,7 +28272,7 @@
       "Name": "Fillin\u0027 the Bin",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "craft01",
@@ -28275,7 +28280,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4182
+      "UsersEstimate": 4183
     },
     {
       "ID": "craft02",
@@ -28299,7 +28304,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "craft05",
@@ -28387,7 +28392,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4182
+      "UsersEstimate": 4183
     },
     {
       "ID": "expansion02",
@@ -28459,7 +28464,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "fuseuncommon",
@@ -28483,7 +28488,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "gold02",
@@ -28787,7 +28792,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4182
+      "UsersEstimate": 4183
     },
     {
       "ID": "sell02",
@@ -28827,7 +28832,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5576
+      "UsersEstimate": 5577
     },
     {
       "ID": "twinenchant01",
@@ -28867,7 +28872,7 @@
       "Name": "Economy of Scarce",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "workers01",
@@ -28906,15 +28911,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139411,
+      "Progressed": 139425,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-11T23:01:01.4562951+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:05:12.4385826+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:53:27.8502716+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:59:37.3810613+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:05:12.4387606+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:47:55.7616556+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:53:27.8505906+00:00"
 }

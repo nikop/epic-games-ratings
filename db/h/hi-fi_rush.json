@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 249,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4216,
+  "EOS_Progressed": 4217,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -7304,6 +7304,11 @@
       "Time": "2023-11-11T22:05:53.2899577+00:00",
       "NumProgressed": 4216,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-12T01:53:50.5330537+00:00",
+      "NumProgressed": 4217,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -7339,7 +7344,7 @@
       "Name": "The Negotiator",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "Ach005",
@@ -7435,7 +7440,7 @@
       "Name": "Chip-tuned",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Ach017",
@@ -7451,7 +7456,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "Ach019",
@@ -7643,7 +7648,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "Ach043",
@@ -7715,7 +7720,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "Ach052",
@@ -7723,7 +7728,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Ach053",
@@ -7787,7 +7792,7 @@
       "Name": "Check out my moves!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "Ach061",
@@ -7882,13 +7887,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 4216,
+      "Progressed": 4217,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 2737,
+      "Progressed": 2738,
       "Completed": 1930
     }
   ],
@@ -7896,8 +7901,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2023-10-25T01:43:40.9251123+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:05:35.64279+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:53:50.5330533+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.6846175+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:59:00.4033028+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:05:35.6428919+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:47:18.8119419+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:53:50.533178+00:00"
 }

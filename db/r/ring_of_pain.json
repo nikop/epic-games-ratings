@@ -3364,7 +3364,7 @@
       "Count": 740
     }
   ],
-  "EOS_Progressed": 239550,
+  "EOS_Progressed": 239557,
   "EOS_Completed": 288,
   "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 2,
@@ -24689,6 +24689,11 @@
       "Time": "2023-11-12T00:08:54.7874472+00:00",
       "NumProgressed": 239550,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-12T01:57:16.5421031+00:00",
+      "NumProgressed": 239557,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25442,9 +25447,9 @@
       "ID": "SPECIALROOMS1",
       "SetID": "5l8oe0h",
       "Name": "Uncharted Territory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 479
+      "UsersEstimate": 719
     },
     {
       "ID": "SPECIALROOMS10",
@@ -25474,9 +25479,9 @@
       "ID": "STEALTH100",
       "SetID": "5l8oe0h",
       "Name": "Shadow Walker",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 479
     },
     {
       "ID": "SURVIVEON1",
@@ -25803,13 +25808,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239550,
+      "Progressed": 239557,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1030,
+      "Progressed": 1037,
       "Completed": 374
     }
   ],
@@ -25817,8 +25822,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-11T11:03:15.8109071+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:08:54.7874469+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:57:16.5421027+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-12T00:02:44.6001036+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:08:54.7876928+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:51:01.28388+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:57:16.5424664+00:00"
 }

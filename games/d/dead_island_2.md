@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Whatever It Takes | 2.00% | ~849 |
-| Pork Chopped | 2.00% | ~849 |
+| Whatever It Takes | 2.00% | ~850 |
+| Pork Chopped | 2.00% | ~850 |
 | One of Us | 1.00% | ~425 |
-| Welcome To Hell-A | 0.80% | ~5,735 |
-| Hotel California | 0.70% | ~5,018 |
+| Welcome To Hell-A | 0.80% | ~5,736 |
+| Hotel California | 0.70% | ~5,019 |
+| Dr. Reed, I Presume? | 0.60% | ~4,302 |
 | Git Gutte! | 0.60% | ~4,302 |
 | Bookworm | 0.60% | ~4,302 |
 | Break A Leg | 0.60% | ~4,302 |
 | Coup de Grâce | 0.60% | ~4,302 |
 | Hazardous Materials | 0.60% | ~4,302 |
 | Friends Like These | 0.60% | ~4,302 |
+| Apex Predator | 0.60% | ~4,302 |
 | Personal Assistant Personally Assisted | 0.60% | ~4,302 |
-| Dr. Reed, I Presume? | 0.50% | ~3,585 |
 | Anger Management | 0.50% | ~3,585 |
 | But Doctor, I am Butcho | 0.50% | ~3,585 |
 | Can't Handle the Truth | 0.50% | ~3,585 |
 | Like Riding a Bike | 0.50% | ~3,585 |
-| Apex Predator | 0.50% | ~3,585 |
 | Stacking the Deck | 0.50% | ~3,585 |
 | This is My Weapon | 0.50% | ~3,585 |
 | Making Your Mark | 0.40% | ~2,868 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~42 |
 | Wilhelm | 0.10% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,926 (Ranked 20)  
-Completed: 2,381 (0.33%) (Ranked 220)  
+Progressed: 716,958 (Ranked 20)  
+Completed: 2,382 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -263,10 +263,10 @@ Completed: 2,381 (0.33%) (Ranked 220)
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
-| 2023-11-12 | 716,926 | 2,381 |
+| 2023-11-12 | 716,958 | 2,382 |
 ## Awards
 Max (Great Boss Battles): 7,320  (Ranked 53)  
-Sum: 11,108 (Ranked 85)  
+Sum: 11,114 (Ranked 85)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -277,7 +277,7 @@ Diff (max vs sum): -32
 | This game is Relaxing | 475 |
 | This game has Amazing Storytelling | 458 |
 | This game is Highly Recommended | 441 |
-| This game is Extremely Fun | 435 |
+| This game is Extremely Fun | 441 |
 | This game has Amazing Characters | 406 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -487,3 +487,4 @@ Diff (max vs sum): -32
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
 | 2023-11-10 | 4.54 | 7,279 | 11,038 |
 | 2023-11-11 | 4.54 | 7,320 | 11,108 |
+| 2023-11-12 | 4.54 | 7,320 | 11,114 |

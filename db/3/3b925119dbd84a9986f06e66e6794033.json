@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 176,
+  "EOS_Progressed": 178,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -554,6 +554,11 @@
       "Time": "2023-11-12T00:08:16.4518675+00:00",
       "NumProgressed": 176,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T01:56:38.6986843+00:00",
+      "NumProgressed": 178,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -596,17 +601,17 @@
       "ID": "HYPNO_CORRECT_GROUP",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Brainiacs",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 52
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Self Aware",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "HYPNO_OUTLIER_ONLY_ID",
@@ -620,9 +625,9 @@
       "ID": "HYPNO_UNANIMOUS_OUTLIER",
       "SetID": "9j9h72e",
       "Name": "Hypnotorious: Masterminds",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "RISKYTEXT_BOOST_VOTE",
@@ -630,15 +635,15 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
       "SetID": "9j9h72e",
       "Name": "FixyText: Bestseller",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -662,7 +667,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "TIME_ORWELL",
@@ -678,15 +683,15 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "TIME_PERFECT_GUEST",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Guest",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "TKO2_BEACH_LIFE",
@@ -694,7 +699,7 @@
       "Name": "Tee K.O. 2: Life\u0027s A Beach",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "TKO2_DOMINO",
@@ -708,9 +713,9 @@
       "ID": "TKO2_DRAGONS_FAVORITE",
       "SetID": "9j9h72e",
       "Name": "Tee K.O. 2: Dragon\u2019s Favorite",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "TKO2_NOT_HERE",
@@ -725,14 +730,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 176,
+      "Progressed": 178,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-12T00:08:16.4518672+00:00",
+  "LastChanged_Achievements": "2023-11-12T01:56:38.6986832+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:06.8109666+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:58:06.9664818+00:00",
-  "LastUpdate_Achievements": "2023-11-12T00:08:16.4518873+00:00"
+  "LastUpdate_Ratings": "2023-11-12T01:46:26.6368288+00:00",
+  "LastUpdate_Achievements": "2023-11-12T01:56:38.6987039+00:00"
 }

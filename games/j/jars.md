@@ -8,12 +8,12 @@
 | Broken jar | 79.00% | ~72 |
 | It fits. IT FITS! | 75.00% | ~68 |
 | The child of the night | 73.00% | ~66 |
-| Uncle will be happy | 67.00% | ~61 |
-| I have an army! | 63.00% | ~57 |
+| Uncle will be happy | 68.00% | ~62 |
+| I have an army! | 64.00% | ~58 |
 | Sticky fingers | 43.00% | ~39 |
-| A horrible thing will happen... | 37.00% | ~34 |
-| Vampires | 30.00% | ~27 |
-| Bloody stream | 30.00% | ~27 |
+| A horrible thing will happen... | 38.00% | ~35 |
+| Vampires | 31.00% | ~28 |
+| Bloody stream | 31.00% | ~28 |
 | Fangs | 19.00% | ~17 |
 | Mirrors | 11.00% | ~10 |
 | Coat | 8.00% | ~7 |
