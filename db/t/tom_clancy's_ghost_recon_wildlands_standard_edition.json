@@ -3,12 +3,12 @@
   "Name": "Tom Clancy\u0027s Ghost Recon Wildlands Standard Edition",
   "ProductSlug": "ghost-recon-wildlands",
   "Ranking_Rating": 409,
-  "Ranking_Popularity": 258,
+  "Ranking_Popularity": 257,
   "Ranking_PopularitySum": 209,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2018-04-10T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -4299,11 +4299,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 2024,
       "NumberOfAwardsMax": 281
+    },
+    {
+      "Time": "2023-11-12T08:58:48.0214735+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 2028,
+      "NumberOfAwardsMax": 284
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2024,
-  "NumberOfAwardsMax": 281,
+  "NumberOfAwards": 2028,
+  "NumberOfAwardsMax": 284,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -4334,7 +4340,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 240
+      "Count": 241
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4364,7 +4370,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 281
+      "Count": 284
     }
   ],
   "EOS_Progressed": 0,
@@ -4378,8 +4384,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:43.6796979+00:00",
-  "LastChanged": "2023-11-12T06:59:34.6459783+00:00",
+  "LastChanged": "2023-11-12T08:58:48.0214733+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:13.3416273+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:59:37.6554547+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:07:58.9465311+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:58:48.0214739+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:06:13.3357239+00:00"
 }

@@ -5,11 +5,11 @@ Rating: 3.95 (Ranked 1,005)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 2.00% | ~1,812 |
-| First One’s Free | 2.00% | ~1,812 |
-| Downed but Not Outed | 2.00% | ~1,812 |
-| Too Old for This | 2.00% | ~1,812 |
-| Fancy Pants | 2.00% | ~1,812 |
+| Neophyte Ninja | 2.00% | ~1,813 |
+| First One’s Free | 2.00% | ~1,813 |
+| Downed but Not Outed | 2.00% | ~1,813 |
+| Too Old for This | 2.00% | ~1,813 |
+| Fancy Pants | 2.00% | ~1,813 |
 | Underworld Initiate | 1.00% | ~906 |
 | Roid Ranger | 1.00% | ~906 |
 | Case Closed | 1.00% | ~906 |
@@ -24,11 +24,11 @@ Rating: 3.95 (Ranked 1,005)
 | Headhunter | 0.60% | ~544 |
 | I Like Trains | 0.50% | ~453 |
 | Freebooter | 0.50% | ~453 |
-| Legend Looter | 0.40% | ~362 |
-| Imports and Exports | 0.40% | ~362 |
-| Foo Finder | 0.40% | ~362 |
-| Moneybags | 0.40% | ~362 |
-| Olympus Ascended | 0.40% | ~362 |
+| Legend Looter | 0.40% | ~363 |
+| Imports and Exports | 0.40% | ~363 |
+| Foo Finder | 0.40% | ~363 |
+| Moneybags | 0.40% | ~363 |
+| Olympus Ascended | 0.40% | ~363 |
 | Savvy Seeker | 0.30% | ~272 |
 | Ding Dong | 0.30% | ~272 |
 | All that Glitters | 0.30% | ~57 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Geek Out | 0.10% | ~91 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,624 (Ranked 91)  
+Progressed: 90,634 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
 | 2023-11-11 | 90,531 | 55 |
-| 2023-11-12 | 90,624 | 55 |
+| 2023-11-12 | 90,634 | 55 |
 ## Awards
 Max (Diverse Characters): 527  (Ranked 203)  
 Sum: 2,994 (Ranked 175)  

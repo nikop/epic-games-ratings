@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 439,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -783,9 +783,9 @@
       "ID": "ACH_UNLOCK_ALL_DRINK",
       "SetID": "8h8m55b",
       "Name": "Master Brewer",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_UNLOCK_GALLERY",
@@ -854,8 +854,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2023-11-12T08:06:48.9450627+00:00",
+  "LastChanged_Achievements": "2023-11-12T09:05:21.2671561+00:00",
   "LastUpdate_AppInfo": "2023-11-07T15:57:22.1108619+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:58:45.0925624+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:06:48.945101+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:58:11.0982062+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:05:21.2671952+00:00"
 }

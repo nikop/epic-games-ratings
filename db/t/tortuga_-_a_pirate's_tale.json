@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
     "PcReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17035,
+  "EOS_Progressed": 17036,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6464,6 +6464,11 @@
       "Time": "2023-11-12T07:03:13.2833229+00:00",
       "NumProgressed": 17035,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T09:02:53.5345259+00:00",
+      "NumProgressed": 17036,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -6475,7 +6480,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16183
+      "UsersEstimate": 16184
     },
     {
       "ID": "ACH001",
@@ -6483,7 +6488,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 14650
+      "UsersEstimate": 14651
     },
     {
       "ID": "ACH0010",
@@ -6507,7 +6512,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 8347
+      "UsersEstimate": 8348
     },
     {
       "ID": "ACH0013",
@@ -6571,7 +6576,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12265
+      "UsersEstimate": 12266
     },
     {
       "ID": "ACH0020",
@@ -6595,7 +6600,7 @@
       "Name": "House Party!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 5962
+      "UsersEstimate": 5963
     },
     {
       "ID": "ACH0023",
@@ -6635,7 +6640,7 @@
       "Name": "No Half Measures",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 14820
+      "UsersEstimate": 14821
     },
     {
       "ID": "ACH005",
@@ -6682,7 +6687,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17035,
+      "Progressed": 17036,
       "Completed": 1
     }
   ],
@@ -6690,8 +6695,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2023-11-08T21:10:20.8275261+00:00",
-  "LastChanged_Achievements": "2023-11-12T08:03:29.6170853+00:00",
+  "LastChanged_Achievements": "2023-11-12T09:02:53.5345257+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:27.4914759+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:57:08.014061+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:03:29.6171329+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:57:03.037259+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:02:53.5345789+00:00"
 }

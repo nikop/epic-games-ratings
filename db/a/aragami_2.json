@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 185,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
     "PcReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43849,
+  "EOS_Progressed": 43850,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17419,6 +17419,11 @@
       "Time": "2023-11-11T21:03:49.9624189+00:00",
       "NumProgressed": 43849,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-12T09:03:09.7814272+00:00",
+      "NumProgressed": 43850,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 44,
@@ -17438,7 +17443,7 @@
       "Name": "Lady",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13593
+      "UsersEstimate": 13594
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -17454,7 +17459,7 @@
       "Name": "Burning",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7454
+      "UsersEstimate": 7455
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -17470,7 +17475,7 @@
       "Name": "Ruse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4823
+      "UsersEstimate": 4824
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -17534,7 +17539,7 @@
       "Name": "The Lion\u2019s Den",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -17550,7 +17555,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35079
+      "UsersEstimate": 35080
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -17558,7 +17563,7 @@
       "Name": "Master Ninja",
       "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 4823
+      "UsersEstimate": 4824
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -17654,7 +17659,7 @@
       "Name": "Forge of Assassins",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 24117
+      "UsersEstimate": 24118
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -17670,7 +17675,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 27625
+      "UsersEstimate": 27626
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -17678,7 +17683,7 @@
       "Name": "Fashionable Assassin",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 11839
+      "UsersEstimate": 11840
     },
     {
       "ID": "ACHIEVEMENT_4",
@@ -17694,7 +17699,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 26309
+      "UsersEstimate": 26310
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -17702,7 +17707,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29379
+      "UsersEstimate": 29380
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -17750,7 +17755,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -17758,7 +17763,7 @@
       "Name": "Forest Spirits",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "ACHIEVEMENT_8",
@@ -17774,14 +17779,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 22801
+      "UsersEstimate": 22802
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43849,
+      "Progressed": 43850,
       "Completed": 240
     }
   ],
@@ -17789,8 +17794,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-12T08:03:50.5498558+00:00",
+  "LastChanged_Achievements": "2023-11-12T09:03:09.7814271+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:17.948951+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:01:28.5853691+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:03:50.5499924+00:00"
+  "LastUpdate_Ratings": "2023-11-12T09:00:03.9268724+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:03:09.7815398+00:00"
 }

@@ -5,29 +5,29 @@ Rating: 4.84 (Ranked 51)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~227,977 |
-| Private Club | 74.00% | ~185,388 |
-| Rogue Guild | 65.00% | ~162,841 |
-| I Watched the Intro | 57.00% | ~142,799 |
-| Covert Consortium | 55.00% | ~137,788 |
-| Goat Queen | 53.00% | ~132,778 |
-| Reach the Stratosphere | 50.00% | ~125,262 |
-| Synchronization Complete | 47.00% | ~117,746 |
-| Secret Society | 45.00% | ~112,736 |
-| Shadow Syndicate | 38.00% | ~95,199 |
-| What a Waste of Money | 33.00% | ~82,673 |
-| New Goat Order | 30.00% | ~75,157 |
-| Don't touch the servers | 28.00% | ~70,147 |
-| San Angora: Become Human | 27.00% | ~67,641 |
-| Real Buoy | 27.00% | ~67,641 |
-| Raider of the Lost Parking Garage | 26.00% | ~65,136 |
-| Welcome to Earth | 25.00% | ~62,631 |
+| Forgotten Sorority | 91.00% | ~227,980 |
+| Private Club | 74.00% | ~185,391 |
+| Rogue Guild | 65.00% | ~162,843 |
+| I Watched the Intro | 57.00% | ~142,801 |
+| Covert Consortium | 55.00% | ~137,790 |
+| Goat Queen | 53.00% | ~132,780 |
+| Reach the Stratosphere | 50.00% | ~125,264 |
+| Synchronization Complete | 47.00% | ~117,748 |
+| Secret Society | 45.00% | ~112,738 |
+| Shadow Syndicate | 38.00% | ~95,201 |
+| What a Waste of Money | 33.00% | ~82,674 |
+| New Goat Order | 30.00% | ~75,158 |
+| Don't touch the servers | 28.00% | ~70,148 |
+| San Angora: Become Human | 27.00% | ~67,643 |
+| Real Buoy | 27.00% | ~67,643 |
+| Raider of the Lost Parking Garage | 26.00% | ~65,137 |
+| Welcome to Earth | 25.00% | ~62,632 |
 | Into the Matrix | 19.00% | ~47,600 |
-| Egg Simulator | 18.00% | ~45,094 |
-| Where is It? | 17.00% | ~42,589 |
+| Egg Simulator | 18.00% | ~45,095 |
+| Where is It? | 17.00% | ~42,590 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,579 |
 | 401(K.O.) | 15.00% | ~37,579 |
-| Black Market | 14.00% | ~35,073 |
+| Black Market | 14.00% | ~35,074 |
 | Car Cave | 12.00% | ~30,063 |
 | Club Mohair | 8.00% | ~20,042 |
 | A Center for Ants? | 8.00% | ~20,042 |
@@ -35,8 +35,8 @@ Rating: 4.84 (Ranked 51)
 | Nasty! | 5.00% | ~12,526 |
 | Who Baywatches the Baywatch? | 4.00% | ~10,021 |
 | [REDACTED] | 4.00% | ~10,021 |
-| Cannibanana | 2.00% | ~5,010 |
-| Daredevil | 2.00% | ~5,010 |
+| Cannibanana | 2.00% | ~5,011 |
+| Daredevil | 2.00% | ~5,011 |
 | Crocsquatch | 1.00% | ~2,505 |
 | You Trusted Your Instincts | 1.00% | ~2,505 |
 | Certified Fresh | 1.00% | ~2,505 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 51)
 | Move! That! Bus! | 0.60% | ~1,503 |
 | G.O.A.T | 0.30% | ~752 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,524 (Ranked 59)  
+Progressed: 250,528 (Ranked 59)  
 Completed: 874 (0.35%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 874 (0.35%) (Ranked 218)
 | 2023-11-09 | 250,199 | 872 |
 | 2023-11-10 | 250,321 | 872 |
 | 2023-11-11 | 250,486 | 873 |
-| 2023-11-12 | 250,524 | 874 |
+| 2023-11-12 | 250,528 | 874 |
 ## Awards
 Max (Great for Beginners): 457  (Ranked 213)  
 Sum: 3,800 (Ranked 158)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4810,
+  "EOS_Progressed": 4811,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9105,6 +9105,11 @@
       "Time": "2023-11-12T08:10:06.3325012+00:00",
       "NumProgressed": 4810,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-12T09:09:02.7207136+00:00",
+      "NumProgressed": 4811,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9149,7 +9154,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -9157,7 +9162,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 673
+      "UsersEstimate": 674
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -9165,7 +9170,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -9205,7 +9210,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9253,7 +9258,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1106
+      "UsersEstimate": 1107
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -9285,7 +9290,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -9300,15 +9305,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4810,
+      "Progressed": 4811,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-12T08:10:06.3325005+00:00",
+  "LastChanged_Achievements": "2023-11-12T09:09:02.7207131+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:57:42.1244564+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:10:06.3325533+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:57:26.9202891+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:09:02.7207586+00:00"
 }

@@ -107,6 +107,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kow-Tow | 0.10% | ~453 |
 | Laughingstock | 0.10% | ~453 |
 | Lazarus | 0.10% | ~453 |
+| Lessons of Hemmingstedt | 0.10% | ~453 |
 | The Levant Turnabout | 0.10% | ~453 |
 | Liberty or Death | 0.10% | ~453 |
 | Live Long and Prosper | 0.10% | ~453 |
@@ -277,7 +278,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Kuban Cigars | 0.00% | ~0 |
 | Kushite Restoration | 0.00% | ~0 |
 | Land of Eastern Jade | 0.00% | ~0 |
-| Lessons of Hemmingstedt | 0.00% | ~0 |
 | Let It Go! | 0.00% | ~0 |
 | Lion of the North | 0.00% | ~0 |
 | Lucky Lucca | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,351 (Ranked 41)  
+Progressed: 453,397 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,16 +576,16 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,351 | 1 |
+| 2023-11-12 | 453,397 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
-Sum: 57,233 (Ranked 24)  
+Sum: 57,254 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,965 |
 | This game has Diverse Characters | 6,690 |
-| This game is Highly Recommended | 6,663 |
+| This game is Highly Recommended | 6,684 |
 | This game has Challenging Combat | 6,576 |
 | This game is Extremely Fun | 6,551 |
 | This game is Relaxing | 6,403 |
@@ -895,4 +895,4 @@ Diff (max vs sum): 30
 | 2023-11-09 | 4.69 | - | 6,915 | 56,881 |
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
-| 2023-11-12 | 4.69 | - | 6,965 | 57,233 |
+| 2023-11-12 | 4.69 | - | 6,965 | 57,254 |

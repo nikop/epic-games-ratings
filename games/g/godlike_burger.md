@@ -5,27 +5,27 @@ Rating: 4.51 (Ranked 564)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~163,957 |
-| FIRST BLOOD | 40.00% | ~145,740 |
-| KEVIN! | 30.00% | ~109,305 |
-| JACK OF ALL TRADES | 23.00% | ~83,800 |
-| CRIMINAL | 20.00% | ~72,870 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~40,078 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~32,791 |
-| HONORS STUDENT | 8.00% | ~29,148 |
-| BUTCHER | 6.00% | ~21,861 |
-| INDIVIDUAL APPROACH | 5.00% | ~18,217 |
-| RAMBO | 5.00% | ~18,217 |
-| HELL'S KITCHEN | 4.00% | ~14,574 |
-| CELEBRITY | 3.00% | ~10,930 |
-| MARTYR | 3.00% | ~10,930 |
-| GRATITUDE | 2.00% | ~7,287 |
-| PATTY-KILLER | 2.00% | ~7,287 |
-| EXPERIMENTALIST | 1.00% | ~3,643 |
-| GOURMET | 1.00% | ~3,643 |
-| LAW-ABIDING CITIZEN | 1.00% | ~3,643 |
-| PRUDENT | 1.00% | ~3,643 |
-| SCATTERBRAIN | 0.70% | ~2,550 |
+| MASTER CHEF | 45.00% | ~163,971 |
+| FIRST BLOOD | 40.00% | ~145,752 |
+| KEVIN! | 30.00% | ~109,314 |
+| JACK OF ALL TRADES | 23.00% | ~83,808 |
+| CRIMINAL | 20.00% | ~72,876 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~40,082 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~32,794 |
+| HONORS STUDENT | 8.00% | ~29,150 |
+| BUTCHER | 6.00% | ~21,863 |
+| INDIVIDUAL APPROACH | 5.00% | ~18,219 |
+| RAMBO | 5.00% | ~18,219 |
+| HELL'S KITCHEN | 4.00% | ~14,575 |
+| CELEBRITY | 3.00% | ~10,931 |
+| MARTYR | 3.00% | ~10,931 |
+| GRATITUDE | 2.00% | ~7,288 |
+| PATTY-KILLER | 2.00% | ~7,288 |
+| EXPERIMENTALIST | 1.00% | ~3,644 |
+| GOURMET | 1.00% | ~3,644 |
+| LAW-ABIDING CITIZEN | 1.00% | ~3,644 |
+| PRUDENT | 1.00% | ~3,644 |
+| SCATTERBRAIN | 0.70% | ~2,551 |
 | HIGH TECHNOLOGIES | 0.60% | ~2,186 |
 | TASTE UNTASTY | 0.50% | ~1,822 |
 | DEBTOR | 0.20% | ~729 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 564)
 | MISTER ALL THUMBS | 0.10% | ~364 |
 | TRAVELER | 0.10% | ~364 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 364,349 (Ranked 45)  
+Progressed: 364,381 (Ranked 45)  
 Completed: 36 (0.01%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,7 +167,7 @@ Completed: 36 (0.01%) (Ranked 326)
 | 2023-11-09 | 361,787 | 35 |
 | 2023-11-10 | 362,784 | 35 |
 | 2023-11-11 | 364,002 | 36 |
-| 2023-11-12 | 364,349 | 36 |
+| 2023-11-12 | 364,381 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

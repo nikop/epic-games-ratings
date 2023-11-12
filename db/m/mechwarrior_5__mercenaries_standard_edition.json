@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 105,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -5431,10 +5431,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 7990,
       "NumberOfAwardsMax": 1302
+    },
+    {
+      "Time": "2023-11-12T08:57:38.8042236+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 7995,
+      "NumberOfAwardsMax": 1302
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7990,
+  "NumberOfAwards": 7995,
   "NumberOfAwardsMax": 1302,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -5442,7 +5448,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1057
+      "Count": 1058
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5454,7 +5460,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1102
+      "Count": 1104
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -5478,7 +5484,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 971
+      "Count": 973
     },
     {
       "Text": "This game has a Creative Community",
@@ -5504,8 +5510,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:39.9366975+00:00",
-  "LastChanged": "2023-11-11T17:57:42.608524+00:00",
+  "LastChanged": "2023-11-12T08:57:38.8042235+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:13.305338+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:57:59.2689997+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:06:36.1708356+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:57:38.8042241+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:05:11.6561315+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -133,9 +133,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2628,
+  "EOS_Progressed": 2629,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -3948,6 +3948,11 @@
       "Time": "2023-11-12T07:05:57.9267293+00:00",
       "NumProgressed": 2628,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-12T09:04:55.7148179+00:00",
+      "NumProgressed": 2629,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 53,
@@ -3983,7 +3988,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -3999,7 +4004,7 @@
       "Name": "Hijack",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -4007,7 +4012,7 @@
       "Name": "Elemental master",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -4023,7 +4028,7 @@
       "Name": "For Demacia",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -4031,7 +4036,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -4039,7 +4044,7 @@
       "Name": "Everfrost",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 2076
+      "UsersEstimate": 2077
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -4071,7 +4076,7 @@
       "Name": "I chose my shackles",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -4079,7 +4084,7 @@
       "Name": "Past trauma",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -4087,7 +4092,7 @@
       "Name": "Little light",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -4135,7 +4140,7 @@
       "Name": "Pentakill",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -4143,7 +4148,7 @@
       "Name": "No more cages!",
       "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 2418
+      "UsersEstimate": 2419
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -4175,7 +4180,7 @@
       "Name": "Dark Forest",
       "Percentage": 78,
       "XP": 100,
-      "UsersEstimate": 2050
+      "UsersEstimate": 2051
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -4199,15 +4204,15 @@
       "Name": "Devineur",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 788
+      "UsersEstimate": 789
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Sacred Woods",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 657
+      "UsersEstimate": 631
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -4223,7 +4228,7 @@
       "Name": "Capelworth",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -4263,7 +4268,7 @@
       "Name": "You can pet the dog",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 1629
+      "UsersEstimate": 1630
     },
     {
       "ID": "STB_PET_HORSE",
@@ -4319,7 +4324,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -4327,7 +4332,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -4335,7 +4340,7 @@
       "Name": "The use of petricite",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -4351,7 +4356,7 @@
       "Name": "Full equipped",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -4375,14 +4380,14 @@
       "Name": "Petricite Burst",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 867
+      "UsersEstimate": 868
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 2628,
+      "Progressed": 2629,
       "Completed": 14
     }
   ],
@@ -4390,8 +4395,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2023-08-06T02:15:52.3932671+00:00",
-  "LastChanged_Achievements": "2023-11-12T08:06:14.6217738+00:00",
+  "LastChanged_Achievements": "2023-11-12T09:04:55.7148177+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:10.6745457+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:00:21.361975+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:06:14.6218272+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:59:17.4294873+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:04:55.7148605+00:00"
 }

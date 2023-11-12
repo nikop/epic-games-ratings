@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-19T13:00:00+00:00",
     "PcReleaseDate": "2022-07-19T13:00:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 954,
+  "EOS_Progressed": 955,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1937,6 +1937,11 @@
       "Time": "2023-11-11T13:07:35.2999975+00:00",
       "NumProgressed": 954,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T09:04:37.2949901+00:00",
+      "NumProgressed": 955,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1954,9 +1959,9 @@
       "ID": "ACH_ACT_2_COMPLETE",
       "SetID": "108h92c",
       "Name": "Act II Complete",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 60,
-      "UsersEstimate": 200
+      "UsersEstimate": 210
     },
     {
       "ID": "ACH_ACT_3_COMPLETE",
@@ -1996,7 +2001,7 @@
       "Name": "A Tucked Tale",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_BEST_THING_MONEY_CAN_BUY",
@@ -2028,7 +2033,7 @@
       "Name": "Breathe In\u2026 Breathe Out\u2026",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "ACH_CAPTURED_KILLER_OF_CAERBANNOG",
@@ -2044,7 +2049,7 @@
       "Name": "Critical Thinker",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ACH_DISAGREE_AND_COMMIT",
@@ -2100,15 +2105,15 @@
       "Name": "I can fix it!",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACH_LETS_PATCH_THINGS_UP",
       "SetID": "108h92c",
       "Name": "Let\u2019s patch things up",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 621
     },
     {
       "ID": "ACH_NO_NINOS",
@@ -2140,7 +2145,7 @@
       "Name": "Solidarity Forever",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_THE_WEIGHT_OF_THE_WORLD",
@@ -2163,7 +2168,7 @@
     {
       "ID": "108h92c",
       "IsBase": true,
-      "Progressed": 954,
+      "Progressed": 955,
       "Completed": 0
     }
   ],
@@ -2171,8 +2176,8 @@
   "FirstSeenRating": "2022-08-27T18:32:02.5218039+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:19.6504527+00:00",
   "LastChanged": "2023-06-27T22:57:40.9300302+00:00",
-  "LastChanged_Achievements": "2023-11-12T08:05:49.3986754+00:00",
+  "LastChanged_Achievements": "2023-11-12T09:04:37.2949899+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:14.2113932+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:58:30.8801067+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:05:49.3987025+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:58:01.5929517+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:04:37.2950081+00:00"
 }

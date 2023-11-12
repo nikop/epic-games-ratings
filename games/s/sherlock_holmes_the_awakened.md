@@ -30,7 +30,7 @@ Rating: 4.66 (Ranked 294)
 | No Stone Unturned | 37.00% | ~298 |
 | Brain Food | 36.00% | ~290 |
 | Read It And Weep | 22.00% | ~177 |
-| Curiosity Killed The Cat | 19.00% | ~153 |
+| Curiosity Killed The Cat | 20.00% | ~161 |
 | Big Breakthrough | 14.00% | ~113 |
 | Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)

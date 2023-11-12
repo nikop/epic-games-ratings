@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 229,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3852,
+  "EOS_Progressed": 3853,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7827,6 +7827,11 @@
       "Time": "2023-11-12T01:51:06.9494971+00:00",
       "NumProgressed": 3852,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-12T09:03:00.7131954+00:00",
+      "NumProgressed": 3853,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7974,7 +7979,7 @@
       "Name": "Sharpshooter",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -8006,7 +8011,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1579
+      "UsersEstimate": 1580
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8086,7 +8091,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8405,13 +8410,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3803,
+      "Progressed": 3804,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3852,
+      "Progressed": 3853,
       "Completed": 11
     }
   ],
@@ -8419,8 +8424,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-12T08:03:38.6972265+00:00",
+  "LastChanged_Achievements": "2023-11-12T09:03:00.7131951+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.7794257+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:01:18.7960357+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:03:38.6975094+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:59:56.9722142+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:03:00.7134516+00:00"
 }

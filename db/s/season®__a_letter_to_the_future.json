@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 75,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1299,
+  "EOS_Progressed": 1300,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.54,
   "EosHistory": [
@@ -2649,6 +2649,11 @@
       "Time": "2023-11-09T20:09:45.6583942+00:00",
       "NumProgressed": 1299,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2023-11-12T09:08:41.5416731+00:00",
+      "NumProgressed": 1300,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 16,
@@ -2716,15 +2721,15 @@
       "Name": "Home Leaver",
       "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
       "SetID": "7pam6gn",
       "Name": "Journal Beautifier",
-      "Percentage": 83,
+      "Percentage": 82,
       "XP": 40,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1066
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -2748,7 +2753,7 @@
       "Name": "Outside World Seer",
       "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -2787,7 +2792,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 1299,
+      "Progressed": 1300,
       "Completed": 59
     }
   ],
@@ -2795,8 +2800,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2023-11-12T08:09:37.5221938+00:00",
+  "LastChanged_Achievements": "2023-11-12T09:08:41.5416729+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:03.7138858+00:00",
   "LastUpdate_Ratings": "2023-11-12T08:03:12.3194723+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:09:37.522216+00:00"
+  "LastUpdate_Achievements": "2023-11-12T09:08:41.5416986+00:00"
 }

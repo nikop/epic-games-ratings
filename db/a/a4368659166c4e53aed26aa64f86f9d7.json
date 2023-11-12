@@ -4,8 +4,8 @@
   "ProductSlug": "sniper-wild-west-shooting-simulator-e3378a",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 454,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-08-28T18:00:00+00:00",
     "PcReleaseDate": "2023-09-04T17:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-11-12T08:58:29.7635276+00:00",
   "LastUpdate_AppInfo": "2023-11-07T01:42:13.3095558+00:00",
-  "LastUpdate_Ratings": "2023-11-12T07:59:12.5259917+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:05:38.4317766+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:58:29.7635293+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:04:29.2241771+00:00"
 }

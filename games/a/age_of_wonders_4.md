@@ -7,8 +7,8 @@ Rating: 4.60 (Ranked 409)
 | ---- | ---------- | ----- |
 | But this one is mine | 2.00% | ~107 |
 | Secret Technique | 0.90% | ~48 |
+| Walls Cannot Stop Us | 0.90% | ~48 |
 | Realm Estate | 0.80% | ~43 |
-| Walls Cannot Stop Us | 0.80% | ~43 |
 | A Wonderful Discovery | 0.70% | ~38 |
 | Freed Lands of Manuhari | 0.70% | ~38 |
 | From Friends to Family | 0.60% | ~32 |

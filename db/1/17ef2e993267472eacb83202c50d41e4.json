@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 167,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7882,
+  "EOS_Progressed": 7883,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6285,6 +6285,11 @@
       "Time": "2023-11-12T08:10:11.8807402+00:00",
       "NumProgressed": 7882,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T09:09:07.2365356+00:00",
+      "NumProgressed": 7883,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6417,7 +6422,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "GamesPlayed10",
@@ -6793,7 +6798,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1104
     },
     {
       "ID": "SEUpgraded1",
@@ -6888,7 +6893,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7882,
+      "Progressed": 7883,
       "Completed": 1
     }
   ],
@@ -6896,8 +6901,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-07T13:03:10.353816+00:00",
-  "LastChanged_Achievements": "2023-11-12T08:10:11.8807397+00:00",
+  "LastChanged_Achievements": "2023-11-12T09:09:07.2365354+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:02:33.9960145+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:10:11.8808294+00:00"
+  "LastUpdate_Ratings": "2023-11-12T09:00:14.858335+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:09:07.2366329+00:00"
 }

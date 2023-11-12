@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7725,
+  "EOS_Progressed": 7726,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -8029,6 +8029,11 @@
       "Time": "2023-11-12T04:06:38.5990378+00:00",
       "NumProgressed": 7725,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-12T09:06:13.373498+00:00",
+      "NumProgressed": 7726,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8040,7 +8045,7 @@
       "Name": "Ahem Ahem",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "ARRR",
@@ -8048,7 +8053,7 @@
       "Name": "Arrr!",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "AUDIOPHILE",
@@ -8176,7 +8181,7 @@
       "Name": "Snip Snip",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "SOUL_CANON",
@@ -8207,7 +8212,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7725,
+      "Progressed": 7726,
       "Completed": 34
     }
   ],
@@ -8215,8 +8220,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-12T08:07:58.7429419+00:00",
+  "LastChanged_Achievements": "2023-11-12T09:06:13.3734978+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.1018181+00:00",
-  "LastUpdate_Ratings": "2023-11-12T08:00:44.8613347+00:00",
-  "LastUpdate_Achievements": "2023-11-12T08:07:58.7429899+00:00"
+  "LastUpdate_Ratings": "2023-11-12T08:59:33.8398412+00:00",
+  "LastUpdate_Achievements": "2023-11-12T09:06:13.3735465+00:00"
 }
