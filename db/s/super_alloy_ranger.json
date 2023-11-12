@@ -2,10 +2,10 @@
   "ID": "6bd7d2e32a724e119b9e4a2254aeec33",
   "Name": "Super Alloy Ranger",
   "ProductSlug": "super-alloy-ranger-4252cc",
-  "Ranking_EOS_Progress": 410,
-  "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Completed": 166,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
     "PcReleaseDate": "2022-09-15T07:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 112,
+  "EOS_Progressed": 113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:52:20.3185117+00:00",
@@ -556,6 +556,11 @@
       "Time": "2023-11-07T14:09:49.1738582+00:00",
       "NumProgressed": 112,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T16:09:42.205559+00:00",
+      "NumProgressed": 113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -567,7 +572,7 @@
       "Name": "The Sunken City Conqueror",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_02",
@@ -583,7 +588,7 @@
       "Name": "The Abyss Conqueror",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Achi_04",
@@ -615,7 +620,7 @@
       "Name": "The Zero Dimensional Capital Conqueror",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_08",
@@ -639,7 +644,7 @@
       "Name": "Death Bringer Conqueror",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_11",
@@ -655,7 +660,7 @@
       "Name": "The Looping Space Conqueror",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_13",
@@ -687,7 +692,7 @@
       "Name": "Space Ranger: Prologue",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_17",
@@ -703,7 +708,7 @@
       "Name": "Gear Up",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Achi_19",
@@ -711,7 +716,7 @@
       "Name": "Breaking the Limit",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_20",
@@ -733,7 +738,7 @@
       "ID": "Achi_22",
       "SetID": "51a97k7",
       "Name": "Iceberg Theory",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 20,
       "UsersEstimate": 87
     },
@@ -751,7 +756,7 @@
       "Name": "The Truth?",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_25",
@@ -773,9 +778,9 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Achi_28",
@@ -791,7 +796,7 @@
       "Name": "Rapidfire",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_30",
@@ -799,7 +804,7 @@
       "Name": "A Grand Show",
       "Percentage": 67,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Achi_31",
@@ -837,7 +842,7 @@
       "ID": "Achi_35",
       "SetID": "51a97k7",
       "Name": "Stop Right There",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -847,7 +852,7 @@
       "Name": "Air Interception",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Achi_37",
@@ -966,7 +971,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 112,
+      "Progressed": 113,
       "Completed": 1
     }
   ],
@@ -974,8 +979,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:09:02.3210027+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:09:42.2055586+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:56.959713+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:57:15.9382579+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:09:02.3210459+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:57:28.8894843+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:09:42.2056338+00:00"
 }

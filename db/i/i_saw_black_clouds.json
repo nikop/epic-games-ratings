@@ -2,10 +2,10 @@
   "ID": "7f872c3666b5464eaa1bb0241d3499eb",
   "Name": "I Saw Black Clouds",
   "ProductSlug": "i-saw-black-clouds-67008d",
-  "Ranking_EOS_Progress": 329,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 135,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
     "PcReleaseDate": "2021-03-30T17:00:00+00:00",
@@ -649,8 +649,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:03:15.4763738+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:03:50.0524763+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:03.3200813+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:02:40.1160489+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:03:15.4763859+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:03:03.5732364+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:03:50.0525011+00:00"
 }

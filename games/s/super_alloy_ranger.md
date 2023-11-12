@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 78.00% | ~87 |
-| Gear Up | 67.00% | ~75 |
-| A Grand Show | 67.00% | ~75 |
+| Iceberg Theory | 77.00% | ~87 |
+| Gear Up | 67.00% | ~76 |
+| A Grand Show | 67.00% | ~76 |
 | Freshen Up | 56.00% | ~63 |
-| GG EZ | 55.00% | ~62 |
+| GG EZ | 56.00% | ~63 |
 | Hydrophobia | 40.00% | ~45 |
 | Ka-Ching! | 32.00% | ~36 |
-| Stop Right There | 28.00% | ~31 |
+| Stop Right There | 27.00% | ~31 |
 | Get to the Point | 26.00% | ~29 |
 | Mr. Want It All | 17.00% | ~19 |
 | Toe to Toe | 15.00% | ~17 |
 | Phew! | 15.00% | ~17 |
 | The Hidden Secret | 14.00% | ~16 |
-| The Abyss Conqueror | 12.00% | ~13 |
+| The Abyss Conqueror | 12.00% | ~14 |
 | Space Warrior: Prologue | 11.00% | ~12 |
 | The Fortress Conqueror | 10.00% | ~11 |
 | Grand Escape | 10.00% | ~11 |
@@ -31,15 +31,15 @@
 | The Infinite Train Conqueror | 5.00% | ~6 |
 | The Paradox Coordinate Conqueror | 5.00% | ~6 |
 | The Inactivated Frozen Conqueror | 5.00% | ~6 |
-| The Sunken City Conqueror | 4.00% | ~4 |
-| The Zero Dimensional Capital Conqueror | 4.00% | ~4 |
-| Death Bringer Conqueror | 4.00% | ~4 |
-| The Looping Space Conqueror | 4.00% | ~4 |
-| Space Ranger: Prologue | 4.00% | ~4 |
-| Breaking the Limit | 4.00% | ~4 |
-| The Truth? | 4.00% | ~4 |
-| Rapidfire | 4.00% | ~4 |
-| Air Interception | 4.00% | ~4 |
+| The Sunken City Conqueror | 4.00% | ~5 |
+| The Zero Dimensional Capital Conqueror | 4.00% | ~5 |
+| Death Bringer Conqueror | 4.00% | ~5 |
+| The Looping Space Conqueror | 4.00% | ~5 |
+| Space Ranger: Prologue | 4.00% | ~5 |
+| Breaking the Limit | 4.00% | ~5 |
+| The Truth? | 4.00% | ~5 |
+| Rapidfire | 4.00% | ~5 |
+| Air Interception | 4.00% | ~5 |
 | Break Through the Forbidden | 3.00% | ~3 |
 | Proliferation | 3.00% | ~3 |
 | Burn After Reading | 3.00% | ~3 |
@@ -55,8 +55,8 @@
 | Bullets Fear Me | 0.90% | ~1 |
 | Super Alloy Ranger! | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112 (Ranked 410)  
-Completed: 1 (0.89%) (Ranked 164)  
+Progressed: 113 (Ranked 408)  
+Completed: 1 (0.88%) (Ranked 166)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -120,6 +120,7 @@ Completed: 1 (0.89%) (Ranked 164)
 | 2023-11-04 | 110 | 1 |
 | 2023-11-06 | 111 | 1 |
 | 2023-11-07 | 112 | 1 |
+| 2023-11-12 | 113 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

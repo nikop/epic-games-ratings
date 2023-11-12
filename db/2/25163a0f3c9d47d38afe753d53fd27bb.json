@@ -4,8 +4,8 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 763,
+  "EOS_Progressed": 764,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.66,
+  "EOS_Completed_Percentage": 11.65,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2759,6 +2759,11 @@
       "Time": "2023-11-10T10:09:53.3694537+00:00",
       "NumProgressed": 763,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-11-12T16:09:40.718757+00:00",
+      "NumProgressed": 764,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 30,
@@ -2770,7 +2775,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "LEVEL_002",
@@ -2802,7 +2807,7 @@
       "Name": "Small village",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "LEVEL_006",
@@ -2810,7 +2815,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "LEVEL_007",
@@ -2818,7 +2823,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "LEVEL_008",
@@ -2858,7 +2863,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "LEVEL_013",
@@ -2890,7 +2895,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "LEVEL_017",
@@ -2898,7 +2903,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "LEVEL_018",
@@ -2914,7 +2919,7 @@
       "Name": "Calling Mr. Joe",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_020",
@@ -2922,7 +2927,7 @@
       "Name": "Go round and round",
       "Percentage": 15,
       "XP": 110,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "LEVEL_021",
@@ -3009,14 +3014,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 763,
+      "Progressed": 764,
       "Completed": 89
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:09:00.916146+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:09:40.7187566+00:00",
   "LastUpdate_AppInfo": "2023-11-07T02:16:30.9563114+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:59:36.6345814+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:09:00.9161839+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:00:22.5321061+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:09:40.7188121+00:00"
 }

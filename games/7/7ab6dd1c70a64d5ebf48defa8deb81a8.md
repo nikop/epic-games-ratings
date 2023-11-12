@@ -18,14 +18,14 @@
 | Tributes of Caladrias | 24.00% | ~44 |
 | Geared Up | 24.00% | ~44 |
 | Stone Collection | 22.00% | ~40 |
-| Essence Blow | 14.00% | ~25 |
+| Essence Blow | 15.00% | ~27 |
 | Big Bazar | 14.00% | ~25 |
 | Alchemist | 13.00% | ~24 |
 | The Mentor | 10.00% | ~18 |
 | Airborne | 9.00% | ~16 |
 | Miner | 9.00% | ~16 |
 | Calm before the Storm | 7.00% | ~13 |
-| Flawless Victory | 6.00% | ~11 |
+| Flawless Victory | 7.00% | ~13 |
 | To Battle | 5.00% | ~9 |
 | Godslayer | 5.00% | ~9 |
 | A Queen's Tale | 3.00% | ~5 |

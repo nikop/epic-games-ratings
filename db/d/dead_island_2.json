@@ -6361,10 +6361,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11128,
       "NumberOfAwardsMax": 7320
+    },
+    {
+      "Time": "2023-11-12T16:01:18.4246877+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11131,
+      "NumberOfAwardsMax": 7320
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11128,
+  "NumberOfAwards": 11131,
   "NumberOfAwardsMax": 7320,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6420,13 +6426,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 458
+      "Count": 461
     }
   ],
-  "EOS_Progressed": 717311,
+  "EOS_Progressed": 717359,
   "EOS_Completed": 2384,
-  "EOS_NewPlayers": 4139,
-  "EOS_NewCompleters": 51,
+  "EOS_NewPlayers": 4123,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29953,6 +29959,11 @@
       "Time": "2023-11-12T15:03:31.3691295+00:00",
       "NumProgressed": 717311,
       "NumCompleted": 2384
+    },
+    {
+      "Time": "2023-11-12T16:04:09.3985831+00:00",
+      "NumProgressed": 717359,
+      "NumCompleted": 2384
     }
   ],
   "TotalAchievements": 51,
@@ -30028,7 +30039,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5021
+      "UsersEstimate": 5022
     },
     {
       "ID": "ach_contender",
@@ -30124,7 +30135,7 @@
       "Name": "Hotel California",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5738
+      "UsersEstimate": 5739
     },
     {
       "ID": "ach_impressive_aim",
@@ -30178,9 +30189,9 @@
       "ID": "ach_legendary",
       "SetID": "7km39fm",
       "Name": "Ooh, Shiny!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2869
+      "UsersEstimate": 3587
     },
     {
       "ID": "ach_magnum_opus",
@@ -30282,9 +30293,9 @@
       "ID": "ach_this_is_my_weapon",
       "SetID": "7km39fm",
       "Name": "This is My Weapon",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3587
+      "UsersEstimate": 4304
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -30300,7 +30311,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5738
+      "UsersEstimate": 5739
     },
     {
       "ID": "ach_well_known_survivor",
@@ -30324,7 +30335,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ach_dark_magic",
@@ -30332,7 +30343,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ach_gardening_tools",
@@ -30348,7 +30359,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 857
+      "UsersEstimate": 858
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30371,22 +30382,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717311,
+      "Progressed": 717359,
       "Completed": 2384
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 42853,
-      "Completed": 36526
+      "Progressed": 42901,
+      "Completed": 36527
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-12T14:00:04.8358735+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:03:31.3691287+00:00",
+  "LastChanged": "2023-11-12T16:01:18.4246875+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:04:09.3985826+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:00:18.6458314+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:03:31.369334+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:01:18.4246884+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:04:09.3988277+00:00"
 }

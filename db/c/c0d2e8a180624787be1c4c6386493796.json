@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 270,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
     "PcReleaseDate": "2020-10-15T04:00:00+00:00",
@@ -358,9 +358,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -390,9 +390,9 @@
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
       "SetID": "caeik3h",
       "Name": "Ultra Instinct",
-      "Percentage": 25,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "KR4_ACHIEVEMENT_FARMER_JOE",
@@ -582,9 +582,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_HARD",
       "SetID": "caeik3h",
       "Name": "No Survivors III",
-      "Percentage": 61,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
@@ -606,9 +606,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 59,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -758,9 +758,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 34,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -877,8 +877,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:04:19.2239947+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:05:09.0618343+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:36.9496444+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:57:02.2029009+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:04:19.2240538+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:57:09.7338552+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:05:09.0619218+00:00"
 }

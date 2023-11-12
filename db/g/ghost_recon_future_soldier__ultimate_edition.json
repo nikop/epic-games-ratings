@@ -2,13 +2,13 @@
   "ID": "047ee5c9350245588f043061fb0279ab",
   "Name": "Ghost Recon Future Soldier: Ultimate Edition",
   "ProductSlug": "ghost-recon-future-soldier",
-  "Ranking_Rating": 487,
+  "Ranking_Rating": 488,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2020-07-28T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -275,6 +275,6 @@
   "FirstSeenRating": "2022-09-10T00:02:01.006784+00:00",
   "LastChanged": "2023-10-21T16:04:56.5846184+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:16.4638596+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:57:30.1323592+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:08:48.5884697+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:57:47.5010802+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:09:25.3906028+00:00"
 }

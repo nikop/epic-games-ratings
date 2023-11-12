@@ -1,15 +1,15 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 3.99 (Ranked 997)  
+Rating: 3.99 (Ranked 998)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,581 |
-| Basic in Bulk | 4.00% | ~5,581 |
-| Tinkle of Coins | 4.00% | ~5,581 |
-| Titan's First Steps | 4.00% | ~5,581 |
+| Sponsored by Argon | 4.00% | ~5,582 |
+| Basic in Bulk | 4.00% | ~5,582 |
+| Tinkle of Coins | 4.00% | ~5,582 |
+| Titan's First Steps | 4.00% | ~5,582 |
 | Disintermediation | 3.00% | ~4,186 |
 | It's Free Real Estate | 3.00% | ~4,186 |
 | Capitalism Ho! | 3.00% | ~4,186 |
@@ -55,6 +55,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.90% | ~1,256 |
 | Expansion in Session | 0.90% | ~1,256 |
 | Trash to Treasure | 0.90% | ~1,256 |
+| Mammonite | 0.90% | ~1,256 |
 | Seasoned Journeyman | 0.90% | ~1,256 |
 | Black Friday Special | 0.90% | ~1,256 |
 | Special Ingredient | 0.90% | ~1,256 |
@@ -67,7 +68,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Supercharged | 0.80% | ~1,116 |
 | Cranked up to 11 | 0.80% | ~1,116 |
 | Fit for a King | 0.80% | ~1,116 |
-| Mammonite | 0.80% | ~1,116 |
 | Wealth Beyond Measure | 0.80% | ~1,116 |
 | Fat Cat Tag Team | 0.80% | ~1,116 |
 | Necromancer Queen | 0.80% | ~1,116 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,534 (Ranked 79)  
+Progressed: 139,544 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
-| 2023-11-12 | 139,534 | 181 |
+| 2023-11-12 | 139,544 | 181 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,531 (Ranked 50)  

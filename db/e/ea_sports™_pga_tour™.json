@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.71,
+  "EOS_Completed_Percentage": 1.7,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -1795,6 +1795,11 @@
       "Time": "2023-11-12T09:08:28.7119396+00:00",
       "NumProgressed": 527,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-12T16:08:53.3148337+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -1855,7 +1860,7 @@
       "Name": "Victory Lap",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "achievement_16",
@@ -1863,7 +1868,7 @@
       "Name": "Star Power",
       "Percentage": 85,
       "XP": 15,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "achievement_17",
@@ -1871,7 +1876,7 @@
       "Name": "Clean Sheet",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "achievement_18",
@@ -1879,7 +1884,7 @@
       "Name": "Perfect Round",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "achievement_2",
@@ -1887,7 +1892,7 @@
       "Name": "A Tradition Unlike Any Other",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_3",
@@ -1895,7 +1900,7 @@
       "Name": "A Passion for Excellence",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "achievement_4",
@@ -1935,7 +1940,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "achievement_9",
@@ -1950,13 +1955,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:08:22.6583011+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:08:53.3148333+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:16.271819+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:57:30.3352857+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:08:22.6583221+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:57:47.8500806+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:08:53.3148659+00:00"
 }

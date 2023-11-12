@@ -22,10 +22,10 @@ Rating: 3.28 (Ranked 1,038)
 | Silver Competitor | 8.00% | ~145 |
 | Captain | 8.00% | ~145 |
 | Factory Expansion | 8.00% | ~145 |
+| Know The Enemy | 6.00% | ~109 |
 | Silver Achiever | 6.00% | ~109 |
 | Moving On Up | 6.00% | ~109 |
 | Brothers in Arms | 6.00% | ~109 |
-| Know The Enemy | 5.00% | ~91 |
 | Player Betrayer | 5.00% | ~91 |
 | Major | 5.00% | ~91 |
 | Gold Achiever | 4.00% | ~73 |

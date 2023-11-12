@@ -3,12 +3,12 @@
   "Name": "Paragon: The Overprime",
   "ProductSlug": "paragon-the-overprime-0bca60",
   "Ranking_Rating": 882,
-  "Ranking_Popularity": 174,
+  "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 132,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-12-09T02:00:00+00:00",
     "PcReleaseDate": "2022-12-09T02:00:00+00:00",
@@ -6613,11 +6613,17 @@
       "Rating": 4.24,
       "NumberOfAwards": 5488,
       "NumberOfAwardsMax": 760
+    },
+    {
+      "Time": "2023-11-12T16:00:25.8453703+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 5491,
+      "NumberOfAwardsMax": 761
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5488,
-  "NumberOfAwardsMax": 760,
+  "NumberOfAwards": 5491,
+  "NumberOfAwardsMax": 761,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -6642,7 +6648,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 760
+      "Count": 761
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6654,7 +6660,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 642
+      "Count": 644
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6711,8 +6717,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-07T03:53:37.8993563+00:00",
   "FirstSeenRating": "2022-11-10T14:19:52.8915141+00:00",
-  "LastChanged": "2023-11-12T01:47:12.1891386+00:00",
+  "LastChanged": "2023-11-12T16:00:25.8453701+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:28.6309396+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:59:39.2113696+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:08:19.4077378+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:00:25.8453707+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:08:49.2881335+00:00"
 }

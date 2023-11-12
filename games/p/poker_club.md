@@ -5,27 +5,27 @@ Rating: 3.82 (Ranked 1,022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~408,301 |
-| Handy | 41.00% | ~220,268 |
-| Cold Caller | 39.00% | ~209,523 |
-| A Bit On The Side | 27.00% | ~145,054 |
-| Backdoor | 25.00% | ~134,310 |
-| Rank Amateur | 21.00% | ~112,820 |
-| Three Way | 19.00% | ~102,075 |
-| Deadly Assassin | 15.00% | ~80,586 |
-| Gutshot | 14.00% | ~75,213 |
-| Risk It For A Biscuit | 14.00% | ~75,213 |
-| Showoff | 13.00% | ~69,841 |
-| W.H.I.P. | 12.00% | ~64,469 |
-| Bet Bet Bet | 10.00% | ~53,724 |
-| Blindman's Bluff | 9.00% | ~48,351 |
-| Poker Joker | 9.00% | ~48,351 |
-| Never Give Up | 8.00% | ~42,979 |
-| The Bigger They Are | 8.00% | ~42,979 |
-| Total Knock Out | 8.00% | ~42,979 |
+| Pro Creation | 76.00% | ~408,308 |
+| Handy | 41.00% | ~220,271 |
+| Cold Caller | 39.00% | ~209,526 |
+| A Bit On The Side | 27.00% | ~145,057 |
+| Backdoor | 25.00% | ~134,312 |
+| Rank Amateur | 21.00% | ~112,822 |
+| Three Way | 19.00% | ~102,077 |
+| Deadly Assassin | 15.00% | ~80,587 |
+| Gutshot | 14.00% | ~75,215 |
+| Risk It For A Biscuit | 14.00% | ~75,215 |
+| Showoff | 13.00% | ~69,842 |
+| W.H.I.P. | 12.00% | ~64,470 |
+| Bet Bet Bet | 10.00% | ~53,725 |
+| Blindman's Bluff | 9.00% | ~48,352 |
+| Poker Joker | 9.00% | ~48,352 |
+| Never Give Up | 8.00% | ~42,980 |
+| The Bigger They Are | 8.00% | ~42,980 |
+| Total Knock Out | 8.00% | ~42,980 |
 | Dog Eat Dog | 7.00% | ~37,607 |
 | Quack Quack | 7.00% | ~37,607 |
-| Give Your Regards To Broadway | 6.00% | ~32,234 |
+| Give Your Regards To Broadway | 6.00% | ~32,235 |
 | Check Yourself | 4.00% | ~21,490 |
 | Moneymaker | 4.00% | ~21,490 |
 | In The Gang | 3.00% | ~16,117 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,022)
 | Rounder | 0.10% | ~537 |
 | Top Dog | 0.10% | ~537 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,238 (Ranked 34)  
+Progressed: 537,247 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,7 +256,7 @@ Completed: 2 (0.00%) (Ranked 347)
 | 2023-11-09 | 536,646 | 2 |
 | 2023-11-10 | 536,864 | 2 |
 | 2023-11-11 | 537,085 | 2 |
-| 2023-11-12 | 537,238 | 2 |
+| 2023-11-12 | 537,247 | 2 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 411)  
 Sum: 174 (Ranked 411)  

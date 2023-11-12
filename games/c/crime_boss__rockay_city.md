@@ -5,11 +5,11 @@ Rating: 3.95 (Ranked 1,005)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 2.00% | ~1,814 |
-| First One’s Free | 2.00% | ~1,814 |
-| Downed but Not Outed | 2.00% | ~1,814 |
-| Too Old for This | 2.00% | ~1,814 |
-| Fancy Pants | 2.00% | ~1,814 |
+| Neophyte Ninja | 2.00% | ~1,815 |
+| First One’s Free | 2.00% | ~1,815 |
+| Downed but Not Outed | 2.00% | ~1,815 |
+| Too Old for This | 2.00% | ~1,815 |
+| Fancy Pants | 2.00% | ~1,815 |
 | Underworld Initiate | 1.00% | ~907 |
 | Roid Ranger | 1.00% | ~907 |
 | Case Closed | 1.00% | ~907 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Geek Out | 0.10% | ~91 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,712 (Ranked 91)  
+Progressed: 90,731 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,10 +253,10 @@ Completed: 55 (0.06%) (Ranked 291)
 | 2023-11-09 | 90,010 | 55 |
 | 2023-11-10 | 90,247 | 55 |
 | 2023-11-11 | 90,531 | 55 |
-| 2023-11-12 | 90,712 | 55 |
+| 2023-11-12 | 90,731 | 55 |
 ## Awards
 Max (Diverse Characters): 527  (Ranked 203)  
-Sum: 3,002 (Ranked 175)  
+Sum: 3,005 (Ranked 175)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -265,7 +265,7 @@ Diff (max vs sum): 28
 | This game has Quickly Understood Controls | 503 |
 | This game has Challenging Combat | 494 |
 | This game is Extremely Fun | 488 |
-| This game has Amazing Characters | 478 |
+| This game has Amazing Characters | 481 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
 | This game has a Silly Community | 33 |
@@ -496,4 +496,4 @@ Diff (max vs sum): 28
 | 2023-11-09 | 3.95 | 523 | 2,973 |
 | 2023-11-10 | 3.95 | 526 | 2,984 |
 | 2023-11-11 | 3.95 | 526 | 2,989 |
-| 2023-11-12 | 3.95 | 527 | 3,002 |
+| 2023-11-12 | 3.95 | 527 | 3,005 |

@@ -4,8 +4,8 @@
   "ProductSlug": "picklock-33eab8",
   "Ranking_EOS_Progress": 524,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2020-05-07T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24,
+  "EOS_Progressed": 25,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -139,6 +139,11 @@
       "Time": "2023-11-08T13:13:35.2217257+00:00",
       "NumProgressed": 24,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T16:09:10.3144908+00:00",
+      "NumProgressed": 25,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:08:04.2785789+00:00",
@@ -157,7 +162,7 @@
       "ID": "ach_picklock10",
       "SetID": "753ghg2",
       "Name": "Pizza time",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -165,7 +170,7 @@
       "ID": "ach_picklock11",
       "SetID": "753ghg2",
       "Name": "Neighbor\u0027s house",
-      "Percentage": 71,
+      "Percentage": 68,
       "XP": 15,
       "UsersEstimate": 17
     },
@@ -173,7 +178,7 @@
       "ID": "ach_picklock12",
       "SetID": "753ghg2",
       "Name": "Sewing factory",
-      "Percentage": 79,
+      "Percentage": 76,
       "XP": 45,
       "UsersEstimate": 19
     },
@@ -181,7 +186,7 @@
       "ID": "ach_picklock13",
       "SetID": "753ghg2",
       "Name": "Butcher shop",
-      "Percentage": 63,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -189,7 +194,7 @@
       "ID": "ach_picklock14",
       "SetID": "753ghg2",
       "Name": "Cinema",
-      "Percentage": 63,
+      "Percentage": 60,
       "XP": 40,
       "UsersEstimate": 15
     },
@@ -197,7 +202,7 @@
       "ID": "ach_picklock15",
       "SetID": "753ghg2",
       "Name": "Shop dairy",
-      "Percentage": 54,
+      "Percentage": 52,
       "XP": 40,
       "UsersEstimate": 13
     },
@@ -205,7 +210,7 @@
       "ID": "ach_picklock16",
       "SetID": "753ghg2",
       "Name": "Loft",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 40,
       "UsersEstimate": 6
     },
@@ -213,7 +218,7 @@
       "ID": "ach_picklock17",
       "SetID": "753ghg2",
       "Name": "Transport company",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -221,7 +226,7 @@
       "ID": "ach_picklock18",
       "SetID": "753ghg2",
       "Name": "Clothing store",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
       "UsersEstimate": 4
     },
@@ -277,7 +282,7 @@
       "ID": "ach_picklock24",
       "SetID": "753ghg2",
       "Name": "Shadow",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -293,7 +298,7 @@
       "ID": "ach_picklock4",
       "SetID": "753ghg2",
       "Name": "Fix it",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 40,
       "UsersEstimate": 9
     },
@@ -317,7 +322,7 @@
       "ID": "ach_picklock7",
       "SetID": "753ghg2",
       "Name": "Good movie",
-      "Percentage": 63,
+      "Percentage": 60,
       "XP": 40,
       "UsersEstimate": 15
     },
@@ -342,14 +347,14 @@
     {
       "ID": "753ghg2",
       "IsBase": true,
-      "Progressed": 24,
+      "Progressed": 25,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-03T03:57:37.1640095+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6923906+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:08:36.4078606+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:09:10.3144904+00:00",
   "LastUpdate_AppInfo": "2023-11-08T05:56:58.5647572+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:58:06.9702054+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:08:36.4078784+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:58:34.0715588+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:09:10.3145054+00:00"
 }

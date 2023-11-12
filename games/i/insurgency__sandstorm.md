@@ -6,14 +6,14 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,134 |
-| Exploitative | 4.00% | ~19,308 |
-| Point Shooting | 4.00% | ~19,308 |
-| Wet Feet | 4.00% | ~19,308 |
-| High Speed Low Drag | 3.00% | ~14,481 |
-| Lucky | 3.00% | ~14,481 |
-| Stylin' | 3.00% | ~14,481 |
-| Turf War | 3.00% | ~14,481 |
+| Wallbanger | 5.00% | ~24,136 |
+| Exploitative | 4.00% | ~19,309 |
+| Point Shooting | 4.00% | ~19,309 |
+| Wet Feet | 4.00% | ~19,309 |
+| High Speed Low Drag | 3.00% | ~14,482 |
+| Lucky | 3.00% | ~14,482 |
+| Stylin' | 3.00% | ~14,482 |
+| Turf War | 3.00% | ~14,482 |
 | Banged | 2.00% | ~9,654 |
 | Checkpoint Victory | 2.00% | ~9,654 |
 | First Blood | 2.00% | ~9,654 |
@@ -32,7 +32,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Special Delivery | 0.70% | ~3,379 |
 | Firefight Victory | 0.60% | ~2,896 |
 | #1 | 0.60% | ~2,896 |
-| Cinematic | 0.50% | ~2,413 |
+| Cinematic | 0.50% | ~2,414 |
 | Thanks Station! | 0.40% | ~1,931 |
 | Knock Knock | 0.30% | ~1,448 |
 | There For You | 0.30% | ~1,448 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~483 |
 | Road Hazard | 0.10% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 482,688 (Ranked 38)  
+Progressed: 482,720 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,15 +248,15 @@ Completed: 2 (0.00%) (Ranked 347)
 | 2023-11-09 | 481,118 | 2 |
 | 2023-11-10 | 481,638 | 2 |
 | 2023-11-11 | 482,296 | 2 |
-| 2023-11-12 | 482,688 | 2 |
+| 2023-11-12 | 482,720 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 228)  
-Sum: 3,150 (Ranked 171)  
+Sum: 3,152 (Ranked 171)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 396 |
-| This game has Challenging Combat | 380 |
+| This game has Challenging Combat | 382 |
 | This game is Extremely Fun | 364 |
 | This game has Competitive Players | 362 |
 | This game is Highly Recommended | 349 |
@@ -549,4 +549,4 @@ Diff (max vs sum): 57
 | 2023-11-09 | 4.62 | - | 396 | 3,141 |
 | 2023-11-10 | 4.62 | - | 396 | 3,144 |
 | 2023-11-11 | 4.62 | - | 396 | 3,148 |
-| 2023-11-12 | 4.62 | - | 396 | 3,150 |
+| 2023-11-12 | 4.62 | - | 396 | 3,152 |

@@ -6,22 +6,22 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~25,605 |
-| A thief's beginning | 10.00% | ~21,337 |
-| Thorough | 10.00% | ~21,337 |
-| Disguised | 9.00% | ~19,204 |
-| Rollin' | 9.00% | ~19,204 |
-| Tanuki Time | 9.00% | ~19,204 |
-| Rescue Takuma | 8.00% | ~17,070 |
-| Stoned Ox | 8.00% | ~17,070 |
-| Happy Planning | 7.00% | ~14,936 |
-| Ice Ice Yuki | 7.00% | ~14,936 |
-| Jonin | 7.00% | ~14,936 |
-| Yabu | 7.00% | ~14,936 |
-| Chunin | 6.00% | ~12,802 |
-| Flying Rocks | 6.00% | ~12,802 |
-| Mugen Unchained | 6.00% | ~12,802 |
-| Warzone | 6.00% | ~12,802 |
+| Genin | 12.00% | ~25,606 |
+| A thief's beginning | 10.00% | ~21,338 |
+| Thorough | 10.00% | ~21,338 |
+| Disguised | 9.00% | ~19,205 |
+| Rollin' | 9.00% | ~19,205 |
+| Tanuki Time | 9.00% | ~19,205 |
+| Rescue Takuma | 8.00% | ~17,071 |
+| Stoned Ox | 8.00% | ~17,071 |
+| Happy Planning | 7.00% | ~14,937 |
+| Ice Ice Yuki | 7.00% | ~14,937 |
+| Jonin | 7.00% | ~14,937 |
+| Yabu | 7.00% | ~14,937 |
+| Chunin | 6.00% | ~12,803 |
+| Flying Rocks | 6.00% | ~12,803 |
+| Mugen Unchained | 6.00% | ~12,803 |
+| Warzone | 6.00% | ~12,803 |
 | Okkoto | 5.00% | ~10,669 |
 | Prisoners | 5.00% | ~10,669 |
 | Too Early | 5.00% | ~10,669 |
@@ -29,13 +29,13 @@ Number of Ratings: 495  (23.09.2022)
 | Happy little accidents | 4.00% | ~8,535 |
 | Noboru | 4.00% | ~8,535 |
 | Still Rollin' | 4.00% | ~8,535 |
-| It's raining men | 3.00% | ~6,401 |
-| Stoned | 3.00% | ~6,401 |
-| The Old Way | 3.00% | ~6,401 |
-| Atheist Ox | 2.00% | ~4,267 |
-| No Gimmicks | 2.00% | ~4,267 |
-| Old Man | 2.00% | ~4,267 |
-| Winner Winner | 2.00% | ~4,267 |
+| It's raining men | 3.00% | ~6,402 |
+| Stoned | 3.00% | ~6,402 |
+| The Old Way | 3.00% | ~6,402 |
+| Atheist Ox | 2.00% | ~4,268 |
+| No Gimmicks | 2.00% | ~4,268 |
+| Old Man | 2.00% | ~4,268 |
+| Winner Winner | 2.00% | ~4,268 |
 | Meticulous | 1.00% | ~2,134 |
 | The End | 1.00% | ~2,134 |
 | Undeserved Honor | 1.00% | ~2,134 |
@@ -44,14 +44,14 @@ Number of Ratings: 495  (23.09.2022)
 | The Cave | 0.80% | ~1,707 |
 | Merciful | 0.50% | ~1,067 |
 | Time Paradox | 0.50% | ~1,067 |
-| Five Shadows | 0.40% | ~853 |
+| Five Shadows | 0.40% | ~854 |
 | Complete Mastery | 0.20% | ~427 |
 | Praise the Shogun | 0.20% | ~427 |
 | Chicken Dinner | 0.10% | ~213 |
 | Mimimi | 0.10% | ~213 |
 | Release the Kraken | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,374 (Ranked 70)  
+Progressed: 213,385 (Ranked 70)  
 Completed: 97 (0.05%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 97 (0.05%) (Ranked 299)
 | 2023-11-09 | 212,801 | 96 |
 | 2023-11-10 | 212,989 | 96 |
 | 2023-11-11 | 213,217 | 97 |
-| 2023-11-12 | 213,374 | 97 |
+| 2023-11-12 | 213,385 | 97 |
 ## Awards
 Max (Great for Beginners): 573  (Ranked 196)  
 Sum: 4,837 (Ranked 142)  

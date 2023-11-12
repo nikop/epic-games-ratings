@@ -4,8 +4,8 @@
   "ProductSlug": "fire-44c606",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 292,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -711,17 +711,17 @@
       "ID": "10_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 10",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 118
+      "UsersEstimate": 121
     },
     {
       "ID": "15_Coins",
       "SetID": "6od1ndi",
       "Name": "Blunga 15",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "20_Coins",
@@ -855,9 +855,9 @@
       "ID": "Level_completed_008_005",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VIII",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "Level_completed_009_007",
@@ -903,9 +903,9 @@
       "ID": "Won_over_Octoboss_in_005",
       "SetID": "6od1ndi",
       "Name": "Blubb",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     }
   ],
   "AchievementSets": [
@@ -920,8 +920,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:08:05.0951875+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:08:31.7633975+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.2044407+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:59:39.475977+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:08:05.0952074+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:00:26.0867588+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:08:31.7634247+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
     "PcReleaseDate": "2022-10-27T11:00:00+00:00",
@@ -434,9 +434,9 @@
       "ID": "ACH_36_LIFE_IN_COUNTRYSIDE",
       "SetID": "9loam6m",
       "Name": "Life in the countryside",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_37_UP_IN_THE_MOUNTAINS",
@@ -497,8 +497,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:04:44.851151+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:05:40.5229043+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:39.1864534+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:58:06.2812657+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:04:44.8511741+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:58:33.1763463+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:05:40.5229494+00:00"
 }

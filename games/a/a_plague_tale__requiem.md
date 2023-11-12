@@ -5,31 +5,31 @@ Rating: 4.73 (Ranked 174)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 92.00% | ~12,777 |
+| Under a New Sun | 92.00% | ~12,778 |
 | Newcomers | 79.00% | ~10,972 |
-| A Burden of Blood | 74.00% | ~10,277 |
+| A Burden of Blood | 74.00% | ~10,278 |
 | Protector's Duty | 70.00% | ~9,722 |
 | Alchemist | 69.00% | ~9,583 |
-| In our Wake | 68.00% | ~9,444 |
-| Leaving all Behind | 65.00% | ~9,027 |
-| Felons | 63.00% | ~8,749 |
+| In our Wake | 68.00% | ~9,445 |
+| Leaving all Behind | 65.00% | ~9,028 |
+| Felons | 63.00% | ~8,750 |
 | A Sea of Promises | 61.00% | ~8,472 |
-| Tales and Revelations | 58.00% | ~8,055 |
+| Tales and Revelations | 58.00% | ~8,056 |
 | Bloodline | 53.00% | ~7,361 |
-| The Cradle of Centuries | 49.00% | ~6,805 |
-| The Life We Deserve | 47.00% | ~6,527 |
+| The Cradle of Centuries | 49.00% | ~6,806 |
+| The Life We Deserve | 47.00% | ~6,528 |
 | Night guard | 44.00% | ~6,111 |
-| Nothing Left | 40.00% | ~5,555 |
-| Healing our Wounds | 38.00% | ~5,277 |
+| Nothing Left | 40.00% | ~5,556 |
+| Healing our Wounds | 38.00% | ~5,278 |
 | Dying Sun | 34.00% | ~4,722 |
 | Improved crossbow | 27.00% | ~3,750 |
 | King Hugo | 25.00% | ~3,472 |
 | Mercy | 24.00% | ~3,333 |
 | Perfect shot | 23.00% | ~3,194 |
-| Effective instruments | 22.00% | ~3,055 |
-| Perfect throw | 22.00% | ~3,055 |
-| Knights! | 21.00% | ~2,916 |
-| Handful of pockets | 13.00% | ~1,805 |
+| Effective instruments | 22.00% | ~3,056 |
+| Perfect throw | 22.00% | ~3,056 |
+| Knights! | 21.00% | ~2,917 |
+| Handful of pockets | 13.00% | ~1,806 |
 | Not a toy anymore | 12.00% | ~1,667 |
 | Pocket laboratory | 12.00% | ~1,667 |
 | Herbalist | 8.00% | ~1,111 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 174)
 | Old protector | 2.00% | ~278 |
 | Malignant | 1.00% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,888 (Ranked 148)  
+Progressed: 13,889 (Ranked 148)  
 Completed: 54 (0.39%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,7 +246,7 @@ Completed: 54 (0.39%) (Ranked 208)
 | 2023-11-09 | 13,855 | 54 |
 | 2023-11-10 | 13,866 | 54 |
 | 2023-11-11 | 13,884 | 54 |
-| 2023-11-12 | 13,888 | 54 |
+| 2023-11-12 | 13,889 | 54 |
 ## Awards
 Max (Great Boss Battles): 429  (Ranked 222)  
 Sum: 675 (Ranked 299)  

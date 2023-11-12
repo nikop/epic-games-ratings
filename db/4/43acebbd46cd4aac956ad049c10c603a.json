@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 345,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 286,
+  "EOS_Progressed": 288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 282,
+  "EOS_NewPlayers": 284,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -464,6 +464,11 @@
       "Time": "2023-11-12T15:03:25.8653851+00:00",
       "NumProgressed": 286,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T16:04:02.5700722+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -516,7 +521,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "BreakTheLoop",
@@ -530,9 +535,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 164
     },
     {
       "ID": "ChasingTheLight",
@@ -554,9 +559,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "DesolateIsland",
@@ -580,7 +585,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "EcstaticTruth",
@@ -618,9 +623,9 @@
       "ID": "GoodCitizen",
       "SetID": "1n308hc",
       "Name": "Good Citizen",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "GrasslandsRing",
@@ -644,7 +649,7 @@
       "Name": "Into the Machine",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "JustOneLap",
@@ -652,7 +657,7 @@
       "Name": "Just One Lap",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "LordOfTheFiles",
@@ -660,7 +665,7 @@
       "Name": "Lord of the Files",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "LostMarshes",
@@ -674,9 +679,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "Mnemosyne",
@@ -690,9 +695,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "MuseumVisitor",
@@ -706,9 +711,9 @@
       "ID": "NewBeginning",
       "SetID": "1n308hc",
       "Name": "A New Beginning",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "NewMorality",
@@ -724,15 +729,15 @@
       "Name": "Not What It Seems",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Overload",
       "SetID": "1n308hc",
       "Name": "Overload",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 114
+      "UsersEstimate": 118
     },
     {
       "ID": "Persistent",
@@ -762,9 +767,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 130
     },
     {
       "ID": "RenaissanceRobot",
@@ -786,9 +791,9 @@
       "ID": "Signatory",
       "SetID": "1n308hc",
       "Name": "Signatory",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "SingleRod",
@@ -820,7 +825,7 @@
       "Name": "Team Spirit",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     },
     {
       "ID": "TextAdventurer",
@@ -836,7 +841,7 @@
       "Name": "The All-Gifted",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "TheEdgeOfForever",
@@ -866,9 +871,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "TheThiefOfFire",
@@ -882,9 +887,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 192
+      "UsersEstimate": 196
     },
     {
       "ID": "TouchGrass",
@@ -916,7 +921,7 @@
       "Name": "Wanderers",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "WesternDelta",
@@ -930,9 +935,9 @@
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "YourBiggestFan",
@@ -940,14 +945,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 286,
+      "Progressed": 288,
       "Completed": 0
     }
   ],
@@ -955,8 +960,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-11T23:03:06.8073096+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:03:25.8653847+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:04:02.5700716+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:57:17.0952714+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:03:25.8654237+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:57:30.3378509+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:04:02.5701491+00:00"
 }

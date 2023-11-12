@@ -264,7 +264,7 @@ Completed: 1 (0.05%) (Ranked 299)
 | 2023-11-11 | 1,840 | 1 |
 ## Awards
 Max (Highly Recommended): 43  (Ranked 448)  
-Sum: 305 (Ranked 359)  
+Sum: 306 (Ranked 359)  
 Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
@@ -275,8 +275,8 @@ Diff (max vs sum): 89
 | This game is Relaxing | 34 |
 | This game has Quickly Understood Controls | 34 |
 | This game has a Creative Community | 29 |
+| This game is Educational | 26 |
 | This game has Amazing Characters | 26 |
-| This game is Educational | 25 |
 | This game has Obsessive Gameplay | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -379,3 +379,4 @@ Diff (max vs sum): 89
 | 2023-11-03 | 4.69 | - | 43 | 303 |
 | 2023-11-09 | 4.69 | - | 43 | 304 |
 | 2023-11-11 | 4.69 | - | 43 | 305 |
+| 2023-11-12 | 4.69 | - | 43 | 306 |

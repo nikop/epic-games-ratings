@@ -4,7 +4,7 @@
   "ProductSlug": "the-light-in-the-darkness-6ee5e4",
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 45,
-  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-02-17T08:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2626,
+  "EOS_Progressed": 2627,
   "EOS_Completed": 238,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 9.06,
   "EosHistory": [
@@ -7121,6 +7121,11 @@
       "Time": "2023-11-12T13:12:24.2497731+00:00",
       "NumProgressed": 2626,
       "NumCompleted": 238
+    },
+    {
+      "Time": "2023-11-12T16:09:22.8377735+00:00",
+      "NumProgressed": 2627,
+      "NumCompleted": 238
     }
   ],
   "TotalAchievements": 12,
@@ -7140,7 +7145,7 @@
       "Name": "Bernard",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "Building the Fox",
@@ -7180,7 +7185,7 @@
       "Name": "Jude",
       "Percentage": 13,
       "XP": 100,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "Le Juif et la France",
@@ -7227,7 +7232,7 @@
     {
       "ID": "b40dflc",
       "IsBase": true,
-      "Progressed": 2626,
+      "Progressed": 2627,
       "Completed": 238
     }
   ],
@@ -7235,8 +7240,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.560159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.6323549+00:00",
   "LastChanged": "2023-03-31T05:57:39.5601591+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:08:46.542329+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:09:22.837773+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:36.1889415+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:58:00.4664717+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:08:46.5423684+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:58:25.1657499+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:09:22.8378612+00:00"
 }

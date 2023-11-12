@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 453,807 (Ranked 41)  
+Progressed: 453,882 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -576,7 +576,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 450,804 | 1 |
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
-| 2023-11-12 | 453,807 | 1 |
+| 2023-11-12 | 453,882 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
 Sum: 57,283 (Ranked 24)  

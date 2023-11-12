@@ -1,17 +1,17 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.04 (Ranked 984)  
+Rating: 4.04 (Ranked 985)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 89.00% | ~235 |
-| Battlefields Have Memories | 84.00% | ~222 |
+| Battlefields Have Memories | 85.00% | ~224 |
 | Enlisted | 82.00% | ~216 |
 | Maybe Engage a Little | 77.00% | ~203 |
 | No More Names | 63.00% | ~166 |
 | Initiate | 49.00% | ~129 |
-| Thrada-Kul | 43.00% | ~114 |
+| Thrada-Kul | 44.00% | ~116 |
 | Gravity-Challenged Rocks | 34.00% | ~90 |
 | Soldier | 28.00% | ~74 |
 | All the Major Food Groups | 28.00% | ~74 |

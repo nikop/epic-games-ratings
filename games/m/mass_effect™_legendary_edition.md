@@ -7,12 +7,12 @@
 | Distinguished Service Medal | 93.00% | ~1,121 |
 | Spectre Inductee | 79.00% | ~952 |
 | Medal of Exploration I | 69.00% | ~831 |
-| Recruit | 64.00% | ~771 |
+| Recruit | 65.00% | ~783 |
 | Search and Rescue | 64.00% | ~771 |
 | Quarian Ally | 61.00% | ~735 |
 | Honorarium of Corporate Service | 57.00% | ~687 |
 | Medal of Heroism | 56.00% | ~675 |
-| Medal of Exploration II | 51.00% | ~615 |
+| Medal of Exploration II | 52.00% | ~627 |
 | Turian Ally | 51.00% | ~615 |
 | Council Legion of Merit | 51.00% | ~615 |
 | Medal of Honor | 49.00% | ~590 |
@@ -114,9 +114,9 @@
 | Barrier Mastery | 9.00% | ~108 |
 | Hijacker | 9.00% | ~108 |
 | Always Prepared | 9.00% | ~108 |
+| Lift Mastery | 9.00% | ~108 |
 | Overload Specialist | 9.00% | ~108 |
 | Sky High | 8.00% | ~96 |
-| Lift Mastery | 8.00% | ~96 |
 | Damping Specialist | 6.00% | ~72 |
 | Singularity Mastery | 6.00% | ~72 |
 | Insanity I | 5.00% | ~60 |

@@ -4,22 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~267 |
+| Seeds of War | 81.00% | ~268 |
 | First Blood | 62.00% | ~205 |
-| Triple Kill | 62.00% | ~205 |
-| Aspairagus | 60.00% | ~168 |
-| No Asperascope | 57.00% | ~188 |
+| Triple Kill | 61.00% | ~202 |
+| Aspairagus | 60.00% | ~169 |
+| No Asperascope | 57.00% | ~189 |
 | Survivor | 57.00% | ~160 |
-| Cornivore | 54.00% | ~178 |
+| Cornivore | 54.00% | ~179 |
 | I Believe I Can Fly | 49.00% | ~162 |
-| No Diggity | 44.00% | ~123 |
+| No Diggity | 44.00% | ~124 |
 | Early Survivor | 40.00% | ~112 |
-| Bouncemato | 32.00% | ~90 |
+| Bouncemato | 31.00% | ~87 |
 | 10K | 29.00% | ~96 |
 | Amateur Survivor | 29.00% | ~81 |
 | 15K | 27.00% | ~89 |
-| Quick-Draw Pod | 23.00% | ~64 |
-| Drinking Problem | 22.00% | ~73 |
+| Quick-Draw Pod | 23.00% | ~65 |
+| Drinking Problem | 21.00% | ~70 |
 | Grave Digger | 21.00% | ~59 |
 | Professional Survivor | 20.00% | ~56 |
 | Pork Chop Express | 19.00% | ~63 |
@@ -37,8 +37,8 @@
 | Bring Home The Bacon | 9.00% | ~30 |
 | Expert Survivor | 8.00% | ~22 |
 | Early Bird | 6.00% | ~20 |
-| Chick Magnet | 5.00% | ~16 |
-| I Have The High Ground | 5.00% | ~16 |
+| Chick Magnet | 5.00% | ~17 |
+| I Have The High Ground | 5.00% | ~17 |
 | Pyromaniac | 5.00% | ~14 |
 | Master Survivor | 3.00% | ~8 |
 | Heart Breaker | 3.00% | ~8 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 330 (Ranked 329)  
+Progressed: 331 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,6 +210,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-10-28 | 324 | 0 |
 | 2023-10-30 | 326 | 0 |
 | 2023-11-05 | 330 | 0 |
+| 2023-11-12 | 331 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

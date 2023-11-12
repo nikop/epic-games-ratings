@@ -5,7 +5,7 @@ Rating: 4.61 (Ranked 384)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| But this one is mine | 2.00% | ~107 |
+| But this one is mine | 2.00% | ~108 |
 | Secret Technique | 1.00% | ~54 |
 | Realm Estate | 0.90% | ~48 |
 | Walls Cannot Stop Us | 0.90% | ~48 |
@@ -19,12 +19,12 @@ Rating: 4.61 (Ranked 384)
 | Seat of Power | 0.50% | ~27 |
 | Chaos Surge | 0.50% | ~27 |
 | Spoils of War | 0.50% | ~27 |
-| In a Liege of Your Own | 0.40% | ~21 |
-| Sehiran Oasis | 0.40% | ~21 |
-| Dawn of the Dread | 0.40% | ~21 |
+| Digging for Treasure | 0.40% | ~22 |
+| Stronger Together | 0.40% | ~22 |
+| In a Liege of Your Own | 0.40% | ~22 |
+| Sehiran Oasis | 0.40% | ~22 |
+| Dawn of the Dread | 0.40% | ~22 |
 | Valley of Wonders | 0.30% | ~16 |
-| Digging for Treasure | 0.30% | ~16 |
-| Stronger Together | 0.30% | ~16 |
 | Impenetrable Fortress | 0.30% | ~16 |
 | Intimidation Tactics | 0.30% | ~16 |
 | Here be Dragons | 0.30% | ~16 |
@@ -36,6 +36,7 @@ Rating: 4.61 (Ranked 384)
 | A Conqueror's Cohort | 0.30% | ~16 |
 | Return of the Wizard King | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
+| The Creator | 0.20% | ~11 |
 | Enchanted Archipelago | 0.20% | ~11 |
 | Crimson Caldera | 0.20% | ~11 |
 | Preparation Is Everything | 0.20% | ~11 |
@@ -47,7 +48,6 @@ Rating: 4.61 (Ranked 384)
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
 | Lord of Chaos | 0.10% | ~5 |
-| The Creator | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,374 (Ranked 184)  
+Progressed: 5,375 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
-| 2023-11-12 | 5,374 | 7 |
+| 2023-11-12 | 5,375 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 481)  
 Sum: 53 (Ranked 474)  

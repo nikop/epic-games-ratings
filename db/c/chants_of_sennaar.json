@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 530,
+  "EOS_Progressed": 531,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 5.28,
+  "EOS_Completed_Percentage": 5.27,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2265,6 +2265,11 @@
       "Time": "2023-11-12T15:05:34.7149113+00:00",
       "NumProgressed": 530,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-12T16:06:41.7602279+00:00",
+      "NumProgressed": 531,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 25,
@@ -2276,7 +2281,7 @@
       "Name": "I did it",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "END_GOOD",
@@ -2300,7 +2305,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2316,7 +2321,7 @@
       "Name": "Half the way",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2420,7 +2425,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2428,7 +2433,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "PROGRESS_N1",
@@ -2444,7 +2449,7 @@
       "Name": "The great escape",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "PROGRESS_N3",
@@ -2468,21 +2473,21 @@
       "Name": "One last step",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 530,
+      "Progressed": 531,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:05:34.7149107+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:06:41.7602274+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:00:08.3331263+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:05:34.7149379+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:01:03.8808836+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:06:41.7602857+00:00"
 }

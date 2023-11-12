@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,900 (Ranked 76)  
+Progressed: 157,912 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,7 +236,7 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
-| 2023-11-12 | 157,900 | 1 |
+| 2023-11-12 | 157,912 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
 Sum: 361 (Ranked 349)  

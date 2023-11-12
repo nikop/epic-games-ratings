@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 457,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -612,9 +612,9 @@
       "ID": "Epic_HaveRest_120",
       "SetID": "ba1m2fc",
       "Name": "Take a Break",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Epic_HeartlessBow_1",
@@ -859,8 +859,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:08:59.2250234+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:09:38.3555694+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:33.8414704+00:00",
-  "LastUpdate_Ratings": "2023-11-12T15:02:24.838906+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:08:59.2250624+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:02:42.90755+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:09:38.3556215+00:00"
 }

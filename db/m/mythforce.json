@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 125,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4822,
+  "EOS_Progressed": 4823,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9135,6 +9135,11 @@
       "Time": "2023-11-12T15:08:59.9605428+00:00",
       "NumProgressed": 4822,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-12T16:09:39.3981953+00:00",
+      "NumProgressed": 4823,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9235,7 +9240,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9315,7 +9320,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -9330,15 +9335,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4822,
+      "Progressed": 4823,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:08:59.9605383+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:09:39.3981949+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:57:31.5761711+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:08:59.9605946+00:00"
+  "LastUpdate_Ratings": "2023-11-12T15:57:49.497906+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:09:39.3982838+00:00"
 }

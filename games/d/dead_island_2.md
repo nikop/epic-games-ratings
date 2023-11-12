@@ -5,12 +5,12 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~857 |
-| Whatever It Takes | 2.00% | ~857 |
-| Pork Chopped | 2.00% | ~857 |
-| Hotel California | 0.80% | ~5,738 |
-| Welcome To Hell-A | 0.80% | ~5,738 |
-| Break A Leg | 0.70% | ~5,021 |
+| One of Us | 2.00% | ~858 |
+| Whatever It Takes | 2.00% | ~858 |
+| Pork Chopped | 2.00% | ~858 |
+| Hotel California | 0.80% | ~5,739 |
+| Welcome To Hell-A | 0.80% | ~5,739 |
+| Break A Leg | 0.70% | ~5,022 |
 | Dr. Reed, I Presume? | 0.60% | ~4,304 |
 | Git Gutte! | 0.60% | ~4,304 |
 | Anger Management | 0.60% | ~4,304 |
@@ -21,19 +21,19 @@ Rating: 4.54 (Ranked 524)
 | Apex Predator | 0.60% | ~4,304 |
 | Stacking the Deck | 0.60% | ~4,304 |
 | Personal Assistant Personally Assisted | 0.60% | ~4,304 |
+| This is My Weapon | 0.60% | ~4,304 |
 | Perks of the Job | 0.50% | ~3,587 |
 | But Doctor, I am Butcho | 0.50% | ~3,587 |
 | Slayer Squad | 0.50% | ~3,587 |
 | Can't Handle the Truth | 0.50% | ~3,587 |
 | Like Riding a Bike | 0.50% | ~3,587 |
 | Zombologist | 0.50% | ~3,587 |
+| Ooh, Shiny! | 0.50% | ~3,587 |
 | A Patton Emerges | 0.50% | ~3,587 |
 | Our True Nature | 0.50% | ~3,587 |
-| This is My Weapon | 0.50% | ~3,587 |
 | Making Your Mark | 0.40% | ~2,869 |
 | I Got a Zombie Army and You Can't Harm Me | 0.40% | ~2,869 |
 | Not Even My Final Form | 0.40% | ~2,869 |
-| Ooh, Shiny! | 0.40% | ~2,869 |
 | Humanity Distilled | 0.40% | ~2,869 |
 | I Am the Resurrection | 0.40% | ~2,869 |
 | Max Headroom | 0.40% | ~2,869 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,311 (Ranked 20)  
+Progressed: 717,359 (Ranked 20)  
 Completed: 2,384 (0.33%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,10 +263,10 @@ Completed: 2,384 (0.33%) (Ranked 220)
 | 2023-11-09 | 715,653 | 2,368 |
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
-| 2023-11-12 | 717,311 | 2,384 |
+| 2023-11-12 | 717,359 | 2,384 |
 ## Awards
 Max (Great Boss Battles): 7,320  (Ranked 53)  
-Sum: 11,128 (Ranked 85)  
+Sum: 11,131 (Ranked 85)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -275,7 +275,7 @@ Diff (max vs sum): -32
 | This game has Diverse Characters | 531 |
 | This game has Quickly Understood Controls | 506 |
 | This game is Relaxing | 478 |
-| This game has Amazing Storytelling | 458 |
+| This game has Amazing Storytelling | 461 |
 | This game is Highly Recommended | 444 |
 | This game is Extremely Fun | 441 |
 | This game has Amazing Characters | 406 |
@@ -487,4 +487,4 @@ Diff (max vs sum): -32
 | 2023-11-09 | 4.54 | 7,249 | 10,986 |
 | 2023-11-10 | 4.54 | 7,279 | 11,038 |
 | 2023-11-11 | 4.54 | 7,320 | 11,108 |
-| 2023-11-12 | 4.54 | 7,320 | 11,128 |
+| 2023-11-12 | 4.54 | 7,320 | 11,131 |

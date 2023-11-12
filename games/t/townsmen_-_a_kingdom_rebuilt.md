@@ -7,8 +7,8 @@ Number of Ratings: 37  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Eureka! | 13.00% | ~564 |
-| Tax-man I | 12.00% | ~520 |
-| A new beginning | 12.00% | ~520 |
+| Tax-man I | 12.00% | ~521 |
+| A new beginning | 12.00% | ~521 |
 | Friends from the past | 10.00% | ~434 |
 | I like to build stuff... I | 9.00% | ~390 |
 | Builder I | 8.00% | ~347 |
@@ -32,11 +32,11 @@ Number of Ratings: 37  (23.09.2022)
 | Builder II | 5.00% | ~217 |
 | Tax-man III | 5.00% | ~217 |
 | Conflicting parties | 5.00% | ~217 |
-| Experienced decorator | 4.00% | ~173 |
-| An honorable Governor II | 4.00% | ~173 |
-| Full-time job III | 4.00% | ~173 |
-| Tax-man IV | 4.00% | ~173 |
-| A time consuming game III | 4.00% | ~173 |
+| Experienced decorator | 4.00% | ~174 |
+| An honorable Governor II | 4.00% | ~174 |
+| Full-time job III | 4.00% | ~174 |
+| Tax-man IV | 4.00% | ~174 |
+| A time consuming game III | 4.00% | ~174 |
 | Another one bites the dust | 3.00% | ~130 |
 | Bread for the people III | 3.00% | ~130 |
 | I like to build stuff... IV | 3.00% | ~130 |
@@ -108,7 +108,7 @@ Number of Ratings: 37  (23.09.2022)
 | Now everyone is satisfied | 0.10% | ~4 |
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,337 (Ranked 189)  
+Progressed: 4,338 (Ranked 189)  
 Completed: 3 (0.07%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,6 +223,7 @@ Completed: 3 (0.07%) (Ranked 288)
 | 2023-11-06 | 4,335 | 3 |
 | 2023-11-08 | 4,336 | 3 |
 | 2023-11-10 | 4,337 | 3 |
+| 2023-11-12 | 4,338 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

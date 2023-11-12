@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 6769,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -5513,9 +5513,9 @@
       "ID": "achievement_02_08",
       "SetID": "4f1m94d",
       "Name": "Car Specialist",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 1015
     },
     {
       "ID": "achievement_03_01",
@@ -5690,8 +5690,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-11-12T07:00:07.6812412+00:00",
-  "LastChanged_Achievements": "2023-11-12T15:02:51.1750155+00:00",
+  "LastChanged_Achievements": "2023-11-12T16:03:19.4290893+00:00",
   "LastUpdate_AppInfo": "2023-11-09T20:57:10.0685893+00:00",
-  "LastUpdate_Ratings": "2023-11-12T14:59:35.6904414+00:00",
-  "LastUpdate_Achievements": "2023-11-12T15:02:51.1750696+00:00"
+  "LastUpdate_Ratings": "2023-11-12T16:00:21.2827445+00:00",
+  "LastUpdate_Achievements": "2023-11-12T16:03:19.4292095+00:00"
 }

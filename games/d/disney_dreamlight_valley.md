@@ -6,23 +6,23 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 70.00% | ~8,127 |
-| Photographer | 68.00% | ~7,895 |
-| Valley's Helper | 62.00% | ~7,198 |
-| Constructor | 51.00% | ~5,921 |
-| Renovator | 51.00% | ~5,921 |
-| Bestest Friend | 47.00% | ~5,457 |
-| Banker | 39.00% | ~4,528 |
-| Gardener | 31.00% | ~3,599 |
-| Generous | 25.00% | ~2,902 |
+| Goofy's Investor | 70.00% | ~8,128 |
+| Photographer | 68.00% | ~7,896 |
+| Valley's Helper | 62.00% | ~7,199 |
+| Constructor | 51.00% | ~5,922 |
+| Renovator | 51.00% | ~5,922 |
+| Bestest Friend | 47.00% | ~5,458 |
+| Banker | 39.00% | ~4,529 |
+| Gardener | 31.00% | ~3,600 |
+| Generous | 25.00% | ~2,903 |
 | Chef Cook | 18.00% | ~2,090 |
 | Miner | 10.00% | ~1,161 |
 | Duty Bound | 7.00% | ~813 |
 | Thorn Cleaner | 6.00% | ~697 |
-| Angler | 5.00% | ~580 |
+| Angler | 5.00% | ~581 |
 | Chit Chatter | 3.00% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,610 (Ranked 153)  
+Progressed: 11,612 (Ranked 153)  
 Completed: 274 (2.36%) (Ranked 115)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,14 +179,14 @@ Completed: 274 (2.36%) (Ranked 115)
 | 2023-11-09 | 11,552 | 273 |
 | 2023-11-10 | 11,566 | 274 |
 | 2023-11-11 | 11,594 | 274 |
-| 2023-11-12 | 11,610 | 274 |
+| 2023-11-12 | 11,612 | 274 |
 ## Awards
-Max (Great for Beginners): 1,057  (Ranked 147)  
-Sum: 7,877 (Ranked 107)  
+Max (Great for Beginners): 1,058  (Ranked 147)  
+Sum: 7,878 (Ranked 107)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 1,057 |
+| This game is Great for Beginners | 1,058 |
 | This game has Diverse Characters | 891 |
 | This game is Highly Recommended | 822 |
 | This game has Amazing Characters | 819 |
@@ -442,3 +442,4 @@ Diff (max vs sum): 40
 | 2023-11-09 | 4.76 | - | 1,055 | 7,869 |
 | 2023-11-10 | 4.76 | - | 1,055 | 7,874 |
 | 2023-11-11 | 4.76 | - | 1,057 | 7,877 |
+| 2023-11-12 | 4.76 | - | 1,058 | 7,878 |
