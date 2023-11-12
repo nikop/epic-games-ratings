@@ -4,12 +4,12 @@
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 4 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 57.14% |
-| 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 48.06% |
+| 5 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 47.69% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 46.67% |
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.83% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.81% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.41% |
@@ -66,10 +66,10 @@
 | 64 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.82% |
 | 65 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.62% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
-| 67 | [JARS](games/j/jars.md) | 5.49% |
+| 67 | [JARS](games/j/jars.md) | 5.43% |
 | 68 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.29% |
 | 69 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
-| 70 | [Bugsnax](games/b/bugsnax.md) | 4.80% |
+| 70 | [Bugsnax](games/b/bugsnax.md) | 4.81% |
 | 71 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 72 | [ZZT!](games/z/zzt!.md) | 4.62% |
 | 73 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
@@ -77,8 +77,8 @@
 | 75 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.53% |
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.47% |
 | 77 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.45% |
-| 78 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 79 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.30% |
+| 78 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.41% |
+| 79 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 80 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.17% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 82 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
@@ -89,13 +89,13 @@
 | 87 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.38% |
 | 88 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.35% |
 | 89 | [Bunny Park](games/b/bunny_park.md) | 3.33% |
-| 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.31% |
+| 90 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.30% |
 | 91 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 3.23% |
 | 91 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 3.23% |
 | 93 | [Doodle God](games/d/doodle_god.md) | 3.20% |
 | 94 | [The Complex](games/t/the_complex.md) | 3.18% |
 | 95 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.12% |
-| 96 | [Monster Harvest](games/m/monster_harvest.md) | 3.09% |
+| 96 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 97 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.06% |
 | 98 | [HordeCore](games/h/hordecore.md) | 3.05% |
 | 99 | [Without Escape](games/w/without_escape.md) | 2.94% |
@@ -160,8 +160,8 @@
 | 158 | [Trifox](games/t/trifox.md) | 0.98% |
 | 159 | [A Musical Story](games/a/a_musical_story.md) | 0.95% |
 | 160 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.94% |
-| 161 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.91% |
-| 161 | [Hades](games/h/hades.md) | 0.91% |
+| 161 | [Alan Wake 2](games/a/alan_wake_2.md) | 0.92% |
+| 162 | [Hades](games/h/hades.md) | 0.91% |
 | 163 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.90% |
 | 164 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.89% |
 | 164 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.89% |
@@ -234,8 +234,8 @@
 | 232 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
 | 232 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.27% |
 | 234 | [Filament](games/f/filament.md) | 0.26% |
-| 235 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.25% |
-| 235 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.25% |
+| 234 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.26% |
+| 236 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.25% |
 | 237 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |
 | 238 | [Despot's Game](games/d/despot's_game.md) | 0.23% |
 | 238 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.23% |
@@ -253,10 +253,10 @@
 | 251 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.18% |
 | 251 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.18% |
 | 253 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.17% |
-| 253 | [RAILGRADE](games/r/railgrade.md) | 0.17% |
 | 253 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.17% |
-| 256 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
-| 256 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 255 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
+| 255 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
+| 255 | [RAILGRADE](games/r/railgrade.md) | 0.16% |
 | 258 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 0.15% |
 | 259 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.14% |
 | 260 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.13% |
