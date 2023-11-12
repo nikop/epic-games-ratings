@@ -9,17 +9,17 @@ Rating: 4.61 (Ranked 384)
 | Secret Technique | 0.90% | ~48 |
 | Walls Cannot Stop Us | 0.90% | ~48 |
 | Realm Estate | 0.80% | ~43 |
+| Freed Lands of Manuhari | 0.80% | ~43 |
 | A Wonderful Discovery | 0.70% | ~38 |
-| Freed Lands of Manuhari | 0.70% | ~38 |
-| From Friends to Family | 0.60% | ~32 |
+| From Friends to Family | 0.70% | ~38 |
 | There Can Only Be One! | 0.50% | ~27 |
 | Bone Peddler | 0.50% | ~27 |
 | Magical Synergy | 0.50% | ~27 |
+| Chaos Surge | 0.50% | ~27 |
+| Spoils of War | 0.50% | ~27 |
 | Full Ascension | 0.40% | ~21 |
 | Seat of Power | 0.40% | ~21 |
 | In a Liege of Your Own | 0.40% | ~21 |
-| Chaos Surge | 0.40% | ~21 |
-| Spoils of War | 0.40% | ~21 |
 | Dawn of the Dread | 0.40% | ~21 |
 | Valley of Wonders | 0.30% | ~16 |
 | Digging for Treasure | 0.30% | ~16 |
@@ -30,6 +30,7 @@ Rating: 4.61 (Ranked 384)
 | Mighty Hoard | 0.30% | ~16 |
 | Sehiran Oasis | 0.30% | ~16 |
 | Prometheus Avenged | 0.30% | ~16 |
+| Seal the Deal | 0.30% | ~16 |
 | A Conqueror's Cohort | 0.30% | ~16 |
 | Return of the Wizard King | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
@@ -40,7 +41,6 @@ Rating: 4.61 (Ranked 384)
 | Impenetrable Fortress | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
 | Here be Dragons | 0.20% | ~11 |
-| Seal the Deal | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
@@ -66,8 +66,8 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,365 (Ranked 184)  
-Completed: 7 (0.13%) (Ranked 259)  
+Progressed: 5,369 (Ranked 184)  
+Completed: 7 (0.13%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,7 +240,7 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
-| 2023-11-12 | 5,365 | 7 |
+| 2023-11-12 | 5,369 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 481)  
 Sum: 53 (Ranked 474)  

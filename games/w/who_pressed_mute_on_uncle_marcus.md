@@ -10,16 +10,16 @@
 | You are Carol Vorderman | 60.00% | ~136 |
 | Toby foolery | 52.00% | ~118 |
 | Don't fear the baldness | 41.00% | ~93 |
-| Instinct | 40.00% | ~91 |
+| Instinct | 41.00% | ~93 |
 | Blow | 37.00% | ~84 |
 | Just like me | 35.00% | ~79 |
 | I bless the rain down in London | 33.00% | ~75 |
+| Delusions | 30.00% | ~68 |
 | Brown nosing | 29.00% | ~66 |
-| Delusions | 29.00% | ~66 |
 | Cheat | 28.00% | ~64 |
 | Prove it | 27.00% | ~61 |
 | The truth | 27.00% | ~61 |
-| Making a murderer | 19.00% | ~43 |
+| Making a murderer | 20.00% | ~45 |
 | The whole truth | 16.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 227 (Ranked 363)  

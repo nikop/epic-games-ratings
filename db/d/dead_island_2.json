@@ -6411,9 +6411,9 @@
       "Count": 458
     }
   ],
-  "EOS_Progressed": 717118,
+  "EOS_Progressed": 717164,
   "EOS_Completed": 2384,
-  "EOS_NewPlayers": 4181,
+  "EOS_NewPlayers": 4190,
   "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -29916,6 +29916,11 @@
       "Time": "2023-11-12T10:03:47.2530754+00:00",
       "NumProgressed": 717118,
       "NumCompleted": 2384
+    },
+    {
+      "Time": "2023-11-12T11:03:33.5919187+00:00",
+      "NumProgressed": 717164,
+      "NumCompleted": 2384
     }
   ],
   "TotalAchievements": 51,
@@ -29935,7 +29940,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ach_ammo_ran",
@@ -29975,7 +29980,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ach_bookworm",
@@ -30007,7 +30012,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -30023,7 +30028,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ach_explorer",
@@ -30063,7 +30068,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ach_hazardous_materials",
@@ -30143,7 +30148,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ach_magnum_opus",
@@ -30167,7 +30172,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ach_revival_tour",
@@ -30175,7 +30180,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ach_salvation",
@@ -30197,9 +30202,9 @@
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3586
+      "UsersEstimate": 4303
     },
     {
       "ID": "ach_star_performance",
@@ -30223,7 +30228,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "ach_the_vcla",
@@ -30253,9 +30258,9 @@
       "ID": "ach_weapon_wrangler",
       "SetID": "7km39fm",
       "Name": "Variety is the Spice of Death",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1434
+      "UsersEstimate": 2151
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -30295,7 +30300,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ach_gardening_tools",
@@ -30311,7 +30316,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30334,13 +30339,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717118,
+      "Progressed": 717164,
       "Completed": 2384
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 42660,
+      "Progressed": 42706,
       "Completed": 36525
     }
   ],
@@ -30348,8 +30353,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-12T05:59:47.306069+00:00",
-  "LastChanged_Achievements": "2023-11-12T10:03:47.253075+00:00",
+  "LastChanged_Achievements": "2023-11-12T11:03:33.5919182+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:00:13.4152291+00:00",
-  "LastUpdate_Achievements": "2023-11-12T10:03:47.2532494+00:00"
+  "LastUpdate_Ratings": "2023-11-12T11:00:00.2862+00:00",
+  "LastUpdate_Achievements": "2023-11-12T11:03:33.5921146+00:00"
 }

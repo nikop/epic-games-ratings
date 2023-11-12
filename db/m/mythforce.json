@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4811,
+  "EOS_Progressed": 4812,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 146,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9110,6 +9110,11 @@
       "Time": "2023-11-12T09:09:02.7207136+00:00",
       "NumProgressed": 4811,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-12T11:09:02.529803+00:00",
+      "NumProgressed": 4812,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9234,7 +9239,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1058
+      "UsersEstimate": 1059
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -9242,7 +9247,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -9305,15 +9310,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4811,
+      "Progressed": 4812,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-12T10:09:21.5403384+00:00",
+  "LastChanged_Achievements": "2023-11-12T11:09:02.5298028+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-12T09:57:30.03346+00:00",
-  "LastUpdate_Achievements": "2023-11-12T10:09:21.5403883+00:00"
+  "LastUpdate_Ratings": "2023-11-12T10:57:37.2460141+00:00",
+  "LastUpdate_Achievements": "2023-11-12T11:09:02.5298709+00:00"
 }

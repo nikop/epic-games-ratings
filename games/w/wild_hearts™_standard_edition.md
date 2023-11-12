@@ -18,11 +18,11 @@
 | Expert Conjuror | 56.00% | ~151 |
 | Distance Devourer | 53.00% | ~143 |
 | Flawless Crystal | 53.00% | ~143 |
+| Bonds of Enmity | 52.00% | ~140 |
 | Helpful Heart | 52.00% | ~140 |
 | Master of the Skies | 51.00% | ~138 |
-| Bonds of Enmity | 51.00% | ~138 |
 | Counter Specialist | 49.00% | ~132 |
-| Axer of Auspice | 44.00% | ~119 |
+| Axer of Auspice | 45.00% | ~122 |
 | Mighty Marmelizer | 41.00% | ~111 |
 | Fair Means or Foul | 41.00% | ~111 |
 | Single Minded | 40.00% | ~108 |

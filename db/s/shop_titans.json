@@ -6,7 +6,7 @@
   "Ranking_Popularity": 73,
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 79,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 45,
   "Store": {
@@ -6929,11 +6929,17 @@
       "Rating": 3.99,
       "NumberOfAwards": 27530,
       "NumberOfAwardsMax": 4825
+    },
+    {
+      "Time": "2023-11-12T11:00:10.6744913+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 27531,
+      "NumberOfAwardsMax": 4826
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 27530,
-  "NumberOfAwardsMax": 4825,
+  "NumberOfAwards": 27531,
+  "NumberOfAwardsMax": 4826,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6952,7 +6958,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4825
+      "Count": 4826
     },
     {
       "Text": "This game has Easy Combat",
@@ -6985,9 +6991,9 @@
       "Count": 3778
     }
   ],
-  "EOS_Progressed": 139482,
+  "EOS_Progressed": 139486,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 854,
+  "EOS_NewPlayers": 851,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28050,6 +28056,11 @@
       "Time": "2023-11-12T10:06:03.9762414+00:00",
       "NumProgressed": 139482,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-12T11:05:37.1048618+00:00",
+      "NumProgressed": 139486,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28325,7 +28336,7 @@
       "Name": "Disintermediation",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "craft02",
@@ -28347,9 +28358,9 @@
       "ID": "craft04",
       "SetID": "anfd17p",
       "Name": "Industrial Evolution",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 976
     },
     {
       "ID": "craft05",
@@ -28437,7 +28448,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "expansion02",
@@ -28837,7 +28848,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "sell02",
@@ -28956,15 +28967,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139482,
+      "Progressed": 139486,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2023-11-11T23:01:01.4562951+00:00",
-  "LastChanged_Achievements": "2023-11-12T10:06:03.976241+00:00",
+  "LastChanged": "2023-11-12T11:00:10.6744912+00:00",
+  "LastChanged_Achievements": "2023-11-12T11:05:37.1048614+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:00:24.2616537+00:00",
-  "LastUpdate_Achievements": "2023-11-12T10:06:03.9764287+00:00"
+  "LastUpdate_Ratings": "2023-11-12T11:00:10.6744918+00:00",
+  "LastUpdate_Achievements": "2023-11-12T11:05:37.1050472+00:00"
 }

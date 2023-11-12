@@ -165,6 +165,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greater Kmt Unified | 0.40% | ~61 |
 | Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
+| Cleopatra's Love | 0.30% | ~46 |
 | Magnificent Difficulty | 0.30% | ~46 |
 | The Eternal Treaty | 0.30% | ~46 |
 | Five Routs | 0.30% | ~46 |
@@ -179,7 +180,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
 | Carthage - Rise of Rome | 0.20% | ~31 |
-| Cleopatra's Love | 0.20% | ~31 |
 | Holy | 0.20% | ~31 |
 | Great Difficulty | 0.20% | ~31 |
 | Event Level High | 0.20% | ~31 |

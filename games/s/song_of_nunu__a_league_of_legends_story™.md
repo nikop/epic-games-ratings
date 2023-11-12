@@ -40,7 +40,7 @@
 | Vertical Power | 28.00% | ~183 |
 | One From The Heart | 14.00% | ~91 |
 | Yummy | 12.00% | ~78 |
-| Snowball Fightn't | 10.00% | ~65 |
+| Snowball Fightn't | 11.00% | ~72 |
 | It Was Him | 8.00% | ~52 |
 | Handy Yeti | 7.00% | ~46 |
 | The Pied Piper Of Freljord | 6.00% | ~39 |

@@ -42,13 +42,13 @@ Rating: 4.46 (Ranked 647)
 | The Long Game | 5.00% | ~193 |
 | Tinkerer | 5.00% | ~193 |
 | It'll Buff Right Out | 5.00% | ~193 |
+| Road Rage | 5.00% | ~193 |
 | Don't hold your breath | 5.00% | ~193 |
 | Last Resort | 5.00% | ~190 |
 | Siegebreaker | 5.00% | ~190 |
 | Ghost of Falaise | 5.00% | ~190 |
 | Strategist | 4.00% | ~154 |
 | Locomotion Commotion | 4.00% | ~154 |
-| Road Rage | 4.00% | ~154 |
 | From Paris with Love | 3.00% | ~116 |
 | Burn after reading | 3.00% | ~116 |
 | Souvenir hunter | 3.00% | ~116 |

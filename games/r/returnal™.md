@@ -3,12 +3,12 @@
 [View Rawdata](../../db/r/returnal™.json)  
 Rating: 4.59 (Ranked 432)  
 ## Awards
-Max (Great Boss Battles): 91  (Ranked 374)  
-Sum: 91 (Ranked 445)  
-Diff (max vs sum): -71  
+Max (Great Boss Battles): 92  (Ranked 369)  
+Sum: 92 (Ranked 444)  
+Diff (max vs sum): -75  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 91 |
+| This game has Great Boss Battles | 92 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -106,3 +106,4 @@ Diff (max vs sum): -71
 | 2023-11-05 | 4.61 | 91 | 91 |
 | 2023-11-10 | 4.60 | 91 | 91 |
 | 2023-11-11 | 4.59 | 91 | 91 |
+| 2023-11-12 | 4.59 | 92 | 92 |

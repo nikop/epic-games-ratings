@@ -10,9 +10,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Basic in Bulk | 4.00% | ~5,579 |
 | Tinkle of Coins | 4.00% | ~5,579 |
 | Titan's First Steps | 4.00% | ~5,579 |
-| Disintermediation | 3.00% | ~4,184 |
-| It's Free Real Estate | 3.00% | ~4,184 |
-| Capitalism Ho! | 3.00% | ~4,184 |
+| Disintermediation | 3.00% | ~4,185 |
+| It's Free Real Estate | 3.00% | ~4,185 |
+| Capitalism Ho! | 3.00% | ~4,185 |
 | The Daily Grind | 2.00% | ~2,790 |
 | One Easy Payment | 2.00% | ~2,790 |
 | Some Assembly Required | 2.00% | ~2,790 |
@@ -85,6 +85,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Thirst for Knowledge | 0.70% | ~976 |
 | Booty by the Boatload | 0.70% | ~976 |
 | Archivist | 0.70% | ~976 |
+| Industrial Evolution | 0.70% | ~976 |
 | Omae wa Mou Shindeiru | 0.70% | ~976 |
 | Ritualist | 0.70% | ~976 |
 | By Your Powers Combined... | 0.70% | ~976 |
@@ -97,7 +98,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.70% | ~976 |
 | Constellated | 0.60% | ~837 |
 | Fillin' the Bin | 0.60% | ~837 |
-| Industrial Evolution | 0.60% | ~837 |
 | A Legend is Born | 0.60% | ~837 |
 | Economy of Scarce | 0.60% | ~837 |
 | The Free Encyclopedia | 0.50% | ~697 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,482 (Ranked 79)  
-Completed: 181 (0.13%) (Ranked 259)  
+Progressed: 139,486 (Ranked 79)  
+Completed: 181 (0.13%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,14 +325,14 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
-| 2023-11-12 | 139,482 | 181 |
+| 2023-11-12 | 139,486 | 181 |
 ## Awards
-Max (Great for Beginners): 4,825  (Ranked 73)  
-Sum: 27,530 (Ranked 50)  
+Max (Great for Beginners): 4,826  (Ranked 73)  
+Sum: 27,531 (Ranked 50)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,825 |
+| This game is Great for Beginners | 4,826 |
 | This game is Relaxing | 4,039 |
 | This game has Quickly Understood Controls | 4,028 |
 | This game has Diverse Characters | 3,936 |
@@ -629,3 +629,4 @@ Diff (max vs sum): 23
 | 2023-11-09 | 3.99 | - | 4,822 | 27,516 |
 | 2023-11-10 | 3.99 | - | 4,824 | 27,523 |
 | 2023-11-11 | 3.99 | - | 4,825 | 27,530 |
+| 2023-11-12 | 3.99 | - | 4,826 | 27,531 |

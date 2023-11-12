@@ -5,23 +5,23 @@ Rating: 4.76 (Ranked 125)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,310 |
-| First Class Student | 14.00% | ~42,271 |
-| Troll with the Punches | 14.00% | ~42,271 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,311 |
+| First Class Student | 14.00% | ~42,272 |
+| Troll with the Punches | 14.00% | ~42,272 |
 | A Keen Sense of Spell | 13.00% | ~39,252 |
 | A Talent for Spending | 12.00% | ~36,233 |
 | That's a Keeper | 12.00% | ~36,233 |
-| Grappling with a Graphorn | 11.00% | ~33,213 |
-| The One Who Mastered Memories | 11.00% | ~33,213 |
-| The Hallowed Hero | 11.00% | ~33,213 |
-| The Defender of Dragons | 11.00% | ~33,213 |
-| Challenge Accepted | 11.00% | ~33,213 |
-| Loom for Improvement | 11.00% | ~33,213 |
-| Coasting Along | 11.00% | ~33,213 |
+| Grappling with a Graphorn | 11.00% | ~33,214 |
+| The One Who Mastered Memories | 11.00% | ~33,214 |
+| The Hallowed Hero | 11.00% | ~33,214 |
+| The Defender of Dragons | 11.00% | ~33,214 |
+| Challenge Accepted | 11.00% | ~33,214 |
+| Loom for Improvement | 11.00% | ~33,214 |
+| Coasting Along | 11.00% | ~33,214 |
 | The Hero of Hogwarts | 10.00% | ~30,194 |
 | Followed the Butterflies | 10.00% | ~30,194 |
 | Rising From the Ashes | 10.00% | ~30,194 |
-| The Spell Master | 9.00% | ~27,174 |
+| The Spell Master | 9.00% | ~27,175 |
 | The Avenging Gazelle | 8.00% | ~24,155 |
 | Beast Friends | 8.00% | ~24,155 |
 | A Sallow Grave | 8.00% | ~24,155 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,938 (Ranked 50)  
+Progressed: 301,941 (Ranked 50)  
 Completed: 509 (0.17%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,10 +257,10 @@ Completed: 509 (0.17%) (Ranked 253)
 | 2023-11-09 | 301,775 | 505 |
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
-| 2023-11-12 | 301,938 | 509 |
+| 2023-11-12 | 301,941 | 509 |
 ## Awards
 Max (Character Customization): 24,229  (Ranked 17)  
-Sum: 47,953 (Ranked 30)  
+Sum: 47,957 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -272,7 +272,7 @@ Diff (max vs sum): -13
 | This game is Extremely Fun | 1,222 |
 | This game is Relaxing | 1,216 |
 | This game has Amazing Characters | 1,196 |
-| This game is Highly Recommended | 1,154 |
+| This game is Highly Recommended | 1,158 |
 | This game has Quickly Understood Controls | 1,096 |
 | This game has Beautiful Visuals | 1,019 |
 | This game has a Creative Community | 778 |
@@ -512,4 +512,4 @@ Diff (max vs sum): -13
 | 2023-11-09 | 4.76 | 24,144 | 47,747 |
 | 2023-11-10 | 4.76 | 24,162 | 47,810 |
 | 2023-11-11 | 4.76 | 24,188 | 47,880 |
-| 2023-11-12 | 4.76 | 24,229 | 47,953 |
+| 2023-11-12 | 4.76 | 24,229 | 47,957 |

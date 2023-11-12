@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4199,7 +4199,7 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12071,
+  "EOS_Progressed": 12072,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
@@ -15454,6 +15454,11 @@
       "Time": "2023-11-12T10:06:19.2105877+00:00",
       "NumProgressed": 12071,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T11:05:50.8219498+00:00",
+      "NumProgressed": 12072,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15465,7 +15470,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "02_BurningCity",
@@ -15641,7 +15646,7 @@
       "Name": "Masterful Charge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "24_Legacy",
@@ -15777,7 +15782,7 @@
       "Name": "Playful Mood",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "42_JustPathetic",
@@ -15793,7 +15798,7 @@
       "Name": "Dreadful Dragon",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "44_AshesToAshes",
@@ -15833,7 +15838,7 @@
       "Name": "A Spark",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2293
+      "UsersEstimate": 2294
     },
     {
       "ID": "49_Flame",
@@ -16392,21 +16397,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10853,
+      "Progressed": 10854,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12071,
+      "Progressed": 12072,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-12T09:58:55.8024273+00:00",
-  "LastChanged_Achievements": "2023-11-12T10:06:19.2105872+00:00",
+  "LastChanged_Achievements": "2023-11-12T11:05:50.8219494+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5202817+00:00",
-  "LastUpdate_Ratings": "2023-11-12T09:58:55.8024282+00:00",
-  "LastUpdate_Achievements": "2023-11-12T10:06:19.2107691+00:00"
+  "LastUpdate_Ratings": "2023-11-12T10:58:51.8915047+00:00",
+  "LastUpdate_Achievements": "2023-11-12T11:05:50.8221+00:00"
 }

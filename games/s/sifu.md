@@ -34,14 +34,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | I know Kung-Fu | 0.30% | ~2,150 |
 | Kung-Fu Tussle | 0.30% | ~2,150 |
 | Bloody Sport | 0.30% | ~78 |
-| Muk Yan Master | 0.20% | ~1,433 |
-| Tiger on Fire | 0.20% | ~1,433 |
-| Source of Flying Daggers | 0.20% | ~1,433 |
-| Iron Money | 0.20% | ~1,433 |
-| Legendary Talismans of Wuxing | 0.20% | ~1,433 |
-| Detective Story | 0.20% | ~1,433 |
-| The 36th Chamber of Kung-Fu | 0.20% | ~1,433 |
-| Sword Stained With Blood | 0.20% | ~1,433 |
+| Muk Yan Master | 0.20% | ~1,434 |
+| Tiger on Fire | 0.20% | ~1,434 |
+| Source of Flying Daggers | 0.20% | ~1,434 |
+| Iron Money | 0.20% | ~1,434 |
+| Legendary Talismans of Wuxing | 0.20% | ~1,434 |
+| Detective Story | 0.20% | ~1,434 |
+| The 36th Chamber of Kung-Fu | 0.20% | ~1,434 |
+| Sword Stained With Blood | 0.20% | ~1,434 |
 | The best strikes are the ones we avoid | 0.20% | ~52 |
 | Beatmaker | 0.20% | ~52 |
 | Prodigal Child | 0.10% | ~717 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,746 (Ranked 21)  
+Progressed: 716,750 (Ranked 21)  
 Completed: 12,934 (1.80%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 12,934 (1.80%) (Ranked 126)
 | 2023-11-09 | 716,476 | 12,934 |
 | 2023-11-10 | 716,574 | 12,934 |
 | 2023-11-11 | 716,690 | 12,934 |
-| 2023-11-12 | 716,746 | 12,934 |
+| 2023-11-12 | 716,750 | 12,934 |
 ## Awards
 Max (Great Boss Battles): 6,783  (Ranked 55)  
 Sum: 11,850 (Ranked 82)  

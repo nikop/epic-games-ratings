@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.59 (Ranked 432)  
+Rating: 4.58 (Ranked 445)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,854 (Ranked 76)  
+Progressed: 157,861 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,10 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
-| 2023-11-12 | 157,854 | 1 |
+| 2023-11-12 | 157,861 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 426)  
-Sum: 359 (Ranked 348)  
+Sum: 360 (Ranked 348)  
 Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
@@ -247,8 +247,8 @@ Diff (max vs sum): 78
 | This game is Highly Recommended | 50 |
 | This game has Unique Visuals | 50 |
 | This game is Extremely Fun | 46 |
+| This game has Challenging Combat | 45 |
 | This game has Amazing Storytelling | 45 |
-| This game has Challenging Combat | 44 |
 | This game has Amazing Characters | 37 |
 | This game has a Creative Community | 36 |
 | This game has Diverse Characters | 20 |
@@ -392,4 +392,4 @@ Diff (max vs sum): 78
 | 2023-11-09 | 4.59 | - | 51 | 354 |
 | 2023-11-10 | 4.58 | - | 51 | 355 |
 | 2023-11-11 | 4.59 | - | 51 | 358 |
-| 2023-11-12 | 4.59 | - | 51 | 359 |
+| 2023-11-12 | 4.59 | - | 51 | 360 |

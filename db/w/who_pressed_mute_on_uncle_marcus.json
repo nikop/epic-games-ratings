@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 34,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
     "PcReleaseDate": "2022-03-18T05:00:00+00:00",
@@ -529,9 +529,9 @@
       "ID": "delusions",
       "SetID": "202dmm8",
       "Name": "Delusions",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "dont_fear_the_baldness",
@@ -545,9 +545,9 @@
       "ID": "instinct",
       "SetID": "202dmm8",
       "Name": "Instinct",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 93
     },
     {
       "ID": "job_one_done",
@@ -569,9 +569,9 @@
       "ID": "making_a_murderer",
       "SetID": "202dmm8",
       "Name": "Making a murderer",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "prove_it",
@@ -634,8 +634,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2023-11-12T10:08:43.7304909+00:00",
+  "LastChanged_Achievements": "2023-11-12T11:08:27.5085486+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.8024057+00:00",
-  "LastUpdate_Ratings": "2023-11-12T09:58:02.0741103+00:00",
-  "LastUpdate_Achievements": "2023-11-12T10:08:43.7305034+00:00"
+  "LastUpdate_Ratings": "2023-11-12T10:58:05.3831525+00:00",
+  "LastUpdate_Achievements": "2023-11-12T11:08:27.5085626+00:00"
 }

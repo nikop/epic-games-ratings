@@ -4,8 +4,8 @@
   "ProductSlug": "song-of-nunu-a-league-of-legends-story",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 652,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -1471,9 +1471,9 @@
       "ID": "EV_ACH44",
       "SetID": "6jeac23",
       "Name": "Snowball Fightn\u0027t",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 72
     }
   ],
   "AchievementSets": [
@@ -1486,8 +1486,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-12T10:09:14.5018926+00:00",
+  "LastChanged_Achievements": "2023-11-12T11:08:56.1547225+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:02:55.78468+00:00",
-  "LastUpdate_Achievements": "2023-11-12T10:09:14.5019283+00:00"
+  "LastUpdate_Ratings": "2023-11-12T11:02:46.4940681+00:00",
+  "LastUpdate_Achievements": "2023-11-12T11:08:56.1547575+00:00"
 }

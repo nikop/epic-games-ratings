@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 146,
-  "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2016-03-01T17:00:00+00:00",
@@ -665,9 +665,9 @@
       "ID": "dep4_achievement_16",
       "SetID": "5d32b60",
       "Name": "Brainfreeze",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 97
     },
     {
       "ID": "dep4_achievement_17",
@@ -697,9 +697,9 @@
       "ID": "dep4_achievement_2",
       "SetID": "5d32b60",
       "Name": "And again, and again, and...",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 295
     },
     {
       "ID": "dep4_achievement_20",
@@ -906,8 +906,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-12T10:05:45.4117783+00:00",
+  "LastChanged_Achievements": "2023-11-12T11:05:20.5209242+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.983403+00:00",
-  "LastUpdate_Ratings": "2023-11-12T09:58:13.5138965+00:00",
-  "LastUpdate_Achievements": "2023-11-12T10:05:45.4118016+00:00"
+  "LastUpdate_Ratings": "2023-11-12T10:58:15.2356048+00:00",
+  "LastUpdate_Achievements": "2023-11-12T11:05:20.5209494+00:00"
 }

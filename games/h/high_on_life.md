@@ -26,8 +26,8 @@ Rating: 4.64 (Ranked 332)
 | Fallout Doesn't Let You Do This | 1.00% | ~245 |
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~245 |
 | Series Wrap on Suit-O | 1.00% | ~245 |
+| We Came, We Chainsaw, We Conquered | 1.00% | ~18 |
 | Bathe With A Giant Nude Alien | 1.00% | ~18 |
-| We Came, We Chainsaw, We Conquered | 0.90% | ~16 |
 | Mux Ado About Shipping | 0.70% | ~12 |
 | Gunning For Your Job | 0.50% | ~122 |
 | We Paid For The Rights To Put A Whole Movie In Here | 0.50% | ~122 |

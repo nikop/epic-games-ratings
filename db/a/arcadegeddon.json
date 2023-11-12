@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 125,
+  "Ranking_EOS_NewCompleters": 124,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -820,9 +820,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 9592,
+  "EOS_Progressed": 9593,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -11415,6 +11415,11 @@
       "Time": "2023-11-12T01:53:47.959623+00:00",
       "NumProgressed": 9592,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T11:05:56.3722407+00:00",
+      "NumProgressed": 9593,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -11426,7 +11431,7 @@
       "Name": "Adventure Time",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 7386
+      "UsersEstimate": 7387
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -11450,7 +11455,7 @@
       "Name": "Clips and Crits",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACH_COUP_DETAT",
@@ -11458,7 +11463,7 @@
       "Name": "Coup d\u0027Etat",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 5467
+      "UsersEstimate": 5468
     },
     {
       "ID": "ACH_EVENT_HORIZON",
@@ -11570,7 +11575,7 @@
       "Name": "Let\u0027s Get This Party Started",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 8441
+      "UsersEstimate": 8442
     },
     {
       "ID": "ACH_LIGHT_MY_FIRE",
@@ -11594,7 +11599,7 @@
       "Name": "Meching Enemies",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 4508
+      "UsersEstimate": 4509
     },
     {
       "ID": "ACH_NATURE_IS_LIT",
@@ -11626,7 +11631,7 @@
       "Name": "Photogenic",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 8153
+      "UsersEstimate": 8154
     },
     {
       "ID": "ACH_PLAYING_WITH_POWER",
@@ -11634,7 +11639,7 @@
       "Name": "Playing With Power",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 7098
+      "UsersEstimate": 7099
     },
     {
       "ID": "ACH_PLUG_IT_IN",
@@ -11666,7 +11671,7 @@
       "Name": "Rapid Response",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "ACH_RESCUE_RANGER",
@@ -11825,15 +11830,15 @@
     {
       "ID": "97mcd7i",
       "IsBase": true,
-      "Progressed": 9592,
+      "Progressed": 9593,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2023-10-11T06:59:53.9186259+00:00",
-  "LastChanged_Achievements": "2023-11-12T10:06:25.5910528+00:00",
+  "LastChanged_Achievements": "2023-11-12T11:05:56.3722402+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:16.5376264+00:00",
-  "LastUpdate_Ratings": "2023-11-12T10:00:28.7098784+00:00",
-  "LastUpdate_Achievements": "2023-11-12T10:06:25.5911304+00:00"
+  "LastUpdate_Ratings": "2023-11-12T11:00:14.8896165+00:00",
+  "LastUpdate_Achievements": "2023-11-12T11:05:56.3723278+00:00"
 }
