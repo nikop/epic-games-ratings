@@ -2,9 +2,9 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 445,
+  "Ranking_Rating": 432,
   "Ranking_Popularity": 426,
-  "Ranking_PopularitySum": 349,
+  "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 347,
   "Ranking_EOS_NewPlayers": 71,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1355,10 +1355,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 355,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2023-11-11T23:58:19.2206666+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 358,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 355,
+  "NumberOfAwards": 358,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -1384,7 +1390,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 33
+      "Count": 36
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1417,7 +1423,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 157772,
+  "EOS_Progressed": 157778,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 1181,
   "EOS_NewCompleters": 0,
@@ -15267,6 +15273,11 @@
       "Time": "2023-11-11T23:04:05.5247133+00:00",
       "NumProgressed": 157772,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-12T00:03:17.5948272+00:00",
+      "NumProgressed": 157778,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15398,7 +15409,7 @@
       "Name": "Host",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -15470,7 +15481,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -15478,7 +15489,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3155
+      "UsersEstimate": 3156
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -15645,21 +15656,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157355,
+      "Progressed": 157361,
       "Completed": 1197
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 157772,
+      "Progressed": 157778,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2023-11-10T18:58:07.8833808+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:04:05.524713+00:00",
+  "LastChanged": "2023-11-11T23:58:19.2206665+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:03:17.5948271+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:59:12.8939875+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:04:05.524807+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:58:19.2206669+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:03:17.5949372+00:00"
 }

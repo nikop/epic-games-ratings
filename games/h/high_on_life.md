@@ -16,13 +16,13 @@ Rating: 4.64 (Ranked 332)
 | First Bounty Down | 2.00% | ~489 |
 | G3 Graduation | 2.00% | ~489 |
 | Hardest Battle In The Game | 2.00% | ~489 |
+| Self-Actualization | 2.00% | ~489 |
 | Who's The Boss? | 2.00% | ~489 |
 | Don't Knife The Hand That Feeds | 2.00% | ~489 |
 | Eatin' Good in the Neighborhood | 1.00% | ~245 |
 | Lezduit! | 1.00% | ~245 |
 | Eye Scream, You Scream | 1.00% | ~245 |
 | Legendary Bounty Hunter | 1.00% | ~245 |
-| Self-Actualization | 1.00% | ~245 |
 | Fallout Doesn't Let You Do This | 1.00% | ~245 |
 | Spent 15 Hours At The Alien Strip Club | 1.00% | ~245 |
 | Series Wrap on Suit-O | 1.00% | ~245 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 332)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 24,467 (Ranked 125)  
+Progressed: 24,468 (Ranked 125)  
 Completed: 13 (0.05%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,6 +255,7 @@ Completed: 13 (0.05%) (Ranked 299)
 | 2023-11-09 | 24,460 | 13 |
 | 2023-11-10 | 24,464 | 13 |
 | 2023-11-11 | 24,467 | 13 |
+| 2023-11-12 | 24,468 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

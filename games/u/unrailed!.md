@@ -6,27 +6,27 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 18.00% | ~119,119 |
-| Incurious | 17.00% | ~112,501 |
-| Climate Change | 16.00% | ~105,883 |
-| Stroller | 15.00% | ~99,266 |
-| Toy Train | 14.00% | ~92,648 |
-| Advanced Hiker | 13.00% | ~86,030 |
-| Hiker | 12.00% | ~79,412 |
-| Mojave Courier | 6.00% | ~39,706 |
-| Saved by Nausicaä | 5.00% | ~33,088 |
-| Advanced Voyager | 4.00% | ~26,471 |
-| Expert Stroller | 4.00% | ~26,471 |
-| Voyager | 3.00% | ~19,853 |
-| Orient Express | 3.00% | ~19,853 |
-| Marathon | 3.00% | ~19,853 |
-| Destructionist | 3.00% | ~19,853 |
-| Expert Hiker | 2.00% | ~13,235 |
-| Lost | 2.00% | ~13,235 |
+| Advanced Stroller | 18.00% | ~119,123 |
+| Incurious | 17.00% | ~112,505 |
+| Climate Change | 16.00% | ~105,887 |
+| Stroller | 15.00% | ~99,269 |
+| Toy Train | 14.00% | ~92,651 |
+| Advanced Hiker | 13.00% | ~86,033 |
+| Hiker | 12.00% | ~79,415 |
+| Mojave Courier | 6.00% | ~39,708 |
+| Saved by Nausicaä | 5.00% | ~33,090 |
+| Advanced Voyager | 4.00% | ~26,472 |
+| Expert Stroller | 4.00% | ~26,472 |
+| Voyager | 3.00% | ~19,854 |
+| Orient Express | 3.00% | ~19,854 |
+| Marathon | 3.00% | ~19,854 |
+| Destructionist | 3.00% | ~19,854 |
+| Expert Hiker | 2.00% | ~13,236 |
+| Lost | 2.00% | ~13,236 |
 | Rocketman | 0.80% | ~5,294 |
-| Expert Voyager | 0.70% | ~4,632 |
-| Shopaholic | 0.70% | ~4,632 |
-| Dynamite Fishing | 0.70% | ~4,632 |
+| Expert Voyager | 0.70% | ~4,633 |
+| Shopaholic | 0.70% | ~4,633 |
+| Dynamite Fishing | 0.70% | ~4,633 |
 | Nanuk | 0.60% | ~3,971 |
 | Scrooge | 0.50% | ~3,309 |
 | Terminal Station | 0.50% | ~3,309 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~662 |
 | 20 Miles under the Sea | 0.10% | ~662 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 661,770 (Ranked 27)  
+Progressed: 661,793 (Ranked 27)  
 Completed: 12 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,9 +265,10 @@ Completed: 12 (0.00%) (Ranked 347)
 | 2023-11-09 | 661,078 | 12 |
 | 2023-11-10 | 661,392 | 12 |
 | 2023-11-11 | 661,770 | 12 |
+| 2023-11-12 | 661,793 | 12 |
 ## Awards
 Max (Great for Beginners): 201  (Ranked 287)  
-Sum: 1,592 (Ranked 229)  
+Sum: 1,593 (Ranked 229)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
@@ -276,7 +277,7 @@ Diff (max vs sum): 58
 | This game has Quickly Understood Controls | 192 |
 | This game is Extremely Fun | 186 |
 | This game is Relaxing | 180 |
-| This game has Amazing Characters | 169 |
+| This game has Amazing Characters | 170 |
 | This game has Playful Visuals | 160 |
 | This game is Highly Recommended | 160 |
 | This game has Amazing Storytelling | 147 |
@@ -422,4 +423,4 @@ Diff (max vs sum): 58
 | 2023-11-01 | 4.64 | - | 201 | 1,589 |
 | 2023-11-08 | 4.64 | - | 201 | 1,590 |
 | 2023-11-10 | 4.64 | - | 201 | 1,591 |
-| 2023-11-11 | 4.64 | - | 201 | 1,592 |
+| 2023-11-11 | 4.64 | - | 201 | 1,593 |

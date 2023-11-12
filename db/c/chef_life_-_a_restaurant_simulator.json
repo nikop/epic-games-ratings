@@ -4,7 +4,7 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -3180,9 +3180,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 114
+      "UsersEstimate": 121
     },
     {
       "ID": "ServiceMaxClient",
@@ -3285,8 +3285,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:03:49.6445338+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:03:05.4737263+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:51.4511106+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:00:33.7925479+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:03:49.6445729+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:59:17.4634759+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:03:05.4737864+00:00"
 }

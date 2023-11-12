@@ -6393,10 +6393,10 @@
       "Count": 458
     }
   ],
-  "EOS_Progressed": 716908,
+  "EOS_Progressed": 716926,
   "EOS_Completed": 2381,
-  "EOS_NewPlayers": 4276,
-  "EOS_NewCompleters": 56,
+  "EOS_NewPlayers": 4250,
+  "EOS_NewCompleters": 55,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -29843,6 +29843,11 @@
       "Time": "2023-11-11T23:03:57.2131778+00:00",
       "NumProgressed": 716908,
       "NumCompleted": 2381
+    },
+    {
+      "Time": "2023-11-12T00:03:11.2865376+00:00",
+      "NumProgressed": 716926,
+      "NumCompleted": 2381
     }
   ],
   "TotalAchievements": 51,
@@ -29870,7 +29875,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "ach_anger_management",
@@ -29908,9 +29913,9 @@
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 3585
+      "UsersEstimate": 4302
     },
     {
       "ID": "ach_break_a_leg",
@@ -29918,7 +29923,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "ach_contender",
@@ -29974,7 +29979,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -29998,15 +30003,15 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "ach_her_name_was_lola",
       "SetID": "7km39fm",
       "Name": "Friends Like These",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3585
+      "UsersEstimate": 4302
     },
     {
       "ID": "ach_hotel_california",
@@ -30134,7 +30139,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4301
+      "UsersEstimate": 4302
     },
     {
       "ID": "ach_survival_expert",
@@ -30214,7 +30219,7 @@
       "Name": "One of Us",
       "Percentage": 1,
       "XP": 60,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "ach_dark_magic",
@@ -30261,22 +30266,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 716908,
+      "Progressed": 716926,
       "Completed": 2381
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 42450,
-      "Completed": 36524
+      "Progressed": 42468,
+      "Completed": 36525
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-11T20:04:03.2964654+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:03:57.2131776+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:03:11.2865372+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:00:49.0436221+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:03:57.2133003+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:59:28.3749197+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:03:11.2867046+00:00"
 }

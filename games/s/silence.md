@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter I | 53.00% | ~80 |
-| Fire in the... nevermind | 53.00% | ~80 |
-| Haute cuisine | 48.00% | ~72 |
-| Demolition expert | 40.00% | ~60 |
-| I didn't do it! | 40.00% | ~60 |
-| Keep away from children | 38.00% | ~57 |
-| Open up wide | 36.00% | ~54 |
-| Wooooooow! | 36.00% | ~54 |
+| Chapter I | 53.00% | ~81 |
+| Fire in the... nevermind | 53.00% | ~81 |
+| Haute cuisine | 47.00% | ~71 |
+| I didn't do it! | 40.00% | ~61 |
+| Demolition expert | 39.00% | ~59 |
+| Keep away from children | 38.00% | ~58 |
+| Open up wide | 36.00% | ~55 |
+| Wooooooow! | 36.00% | ~55 |
 | Artistic fool | 33.00% | ~50 |
-| Let the boot talk | 32.00% | ~48 |
-| Shadow on the wall | 28.00% | ~42 |
+| Let the boot talk | 32.00% | ~49 |
+| Shadow on the wall | 28.00% | ~43 |
 | Chapter II | 27.00% | ~41 |
 | Bubblekillerfamily | 24.00% | ~36 |
 | Achoo!! | 24.00% | ~36 |
@@ -24,11 +24,11 @@
 | Quite a buggy game | 21.00% | ~32 |
 | Pacifist | 20.00% | ~30 |
 | Mirror mirror on the wall... | 20.00% | ~30 |
-| Fastidious Clown | 19.00% | ~29 |
+| Fastidious Clown | 18.00% | ~27 |
 | It's not easy being green! | 18.00% | ~27 |
 | Home is where the heart is | 18.00% | ~27 |
-| Death is a part of life | 15.00% | ~23 |
 | Master of Thermodynamics | 14.00% | ~21 |
+| Death is a part of life | 14.00% | ~21 |
 | To err is human... | 13.00% | ~20 |
 | Unfullfilled dreams | 13.00% | ~20 |
 | Useless but beautiful | 9.00% | ~14 |
@@ -51,7 +51,7 @@
 | Sherlock Holmes | 0.70% | ~1 |
 | Do not feed the fish! | 0.70% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151 (Ranked 391)  
+Progressed: 152 (Ranked 391)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,6 +101,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 148 | 0 |
 | 2023-11-10 | 149 | 0 |
 | 2023-11-11 | 151 | 0 |
+| 2023-11-12 | 152 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

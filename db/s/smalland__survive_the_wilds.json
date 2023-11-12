@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 131,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -309,9 +309,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 20616,
+  "EOS_Progressed": 20618,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -8174,6 +8174,11 @@
       "Time": "2023-11-11T23:09:00.61378+00:00",
       "NumProgressed": 20616,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-12T00:08:23.1843539+00:00",
+      "NumProgressed": 20618,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -8201,7 +8206,7 @@
       "Name": "Getting some shuteye",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "FirstTame",
@@ -8249,7 +8254,7 @@
       "Name": "Insect hunter",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     },
     {
       "ID": "PickupKey",
@@ -8281,14 +8286,14 @@
       "Name": "Stone Age",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 618
+      "UsersEstimate": 619
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 20616,
+      "Progressed": 20618,
       "Completed": 18
     }
   ],
@@ -8296,8 +8301,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2023-11-11T06:59:53.7715642+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:09:00.6137797+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:08:23.1843533+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:27.7948681+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:01:50.6586447+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:09:00.6138246+00:00"
+  "LastUpdate_Ratings": "2023-11-12T00:00:11.766263+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:08:23.1843989+00:00"
 }

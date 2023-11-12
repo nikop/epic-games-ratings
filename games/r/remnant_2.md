@@ -5,11 +5,11 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,782 |
-| The Killing Jar | 8.00% | ~17,584 |
-| Expanding Horizons | 7.00% | ~15,386 |
-| Quest for Survival | 7.00% | ~15,386 |
-| Not Your Average Trait | 7.00% | ~15,386 |
+| First of Many | 9.00% | ~19,783 |
+| The Killing Jar | 8.00% | ~17,585 |
+| Expanding Horizons | 7.00% | ~15,387 |
+| Quest for Survival | 7.00% | ~15,387 |
+| Not Your Average Trait | 7.00% | ~15,387 |
 | Gleaming the Cube | 6.00% | ~13,188 |
 | Familiar Face | 6.00% | ~13,188 |
 | Duality | 6.00% | ~13,188 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,198 |
 | Proving Grounds | 1.00% | ~2,198 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,801 (Ranked 68)  
+Progressed: 219,808 (Ranked 68)  
 Completed: 439 (0.20%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,15 +175,16 @@ Completed: 439 (0.20%) (Ranked 247)
 | 2023-11-09 | 219,166 | 435 |
 | 2023-11-10 | 219,442 | 438 |
 | 2023-11-11 | 219,801 | 439 |
+| 2023-11-12 | 219,808 | 439 |
 ## Awards
 Max (Great Boss Battles): 2,144  (Ranked 109)  
-Sum: 4,827 (Ranked 142)  
+Sum: 4,830 (Ranked 142)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,144 |
 | This game has Diverse Characters | 307 |
-| This game has Challenging Combat | 295 |
+| This game has Challenging Combat | 298 |
 | This game is Relaxing | 289 |
 | This game is Extremely Fun | 288 |
 | This game is Highly Recommended | 285 |
@@ -304,3 +305,4 @@ Diff (max vs sum): -33
 | 2023-11-09 | 4.75 | 2,121 | 4,763 |
 | 2023-11-10 | 4.75 | 2,129 | 4,800 |
 | 2023-11-11 | 4.75 | 2,144 | 4,827 |
+| 2023-11-12 | 4.75 | 2,144 | 4,830 |

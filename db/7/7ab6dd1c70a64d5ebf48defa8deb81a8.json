@@ -801,9 +801,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_16",
@@ -865,9 +865,9 @@
       "ID": "ACH_23",
       "SetID": "efe2lj",
       "Name": "Geared Up",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 45
     },
     {
       "ID": "ACH_24",
@@ -984,8 +984,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:09:38.4039176+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:08:52.0181737+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:59:30.0291142+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:09:38.4039481+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:58:31.7949907+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:08:52.0182006+00:00"
 }

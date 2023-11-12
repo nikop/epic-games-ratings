@@ -4193,7 +4193,7 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12067,
+  "EOS_Progressed": 12068,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
@@ -15428,6 +15428,11 @@
       "Time": "2023-11-11T18:07:25.3682271+00:00",
       "NumProgressed": 12067,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-12T00:05:26.3984801+00:00",
+      "NumProgressed": 12068,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15439,7 +15444,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 3137
+      "UsersEstimate": 3138
     },
     {
       "ID": "02_BurningCity",
@@ -16319,7 +16324,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -16351,7 +16356,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -16359,28 +16364,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10849,
+      "Progressed": 10850,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12067,
+      "Progressed": 12068,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-11T21:58:42.8812587+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:06:53.7092747+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:05:26.3984798+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5202817+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:59:17.2899704+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:06:53.7094212+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:58:22.6740032+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:05:26.3986289+00:00"
 }

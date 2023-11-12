@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 290,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 313,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 567,
+  "EOS_Progressed": 568,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.06,
   "EosHistory": [
@@ -913,6 +913,11 @@
       "Time": "2023-11-10T15:05:34.8066973+00:00",
       "NumProgressed": 567,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-12T00:05:20.4969487+00:00",
+      "NumProgressed": 568,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1012,7 +1017,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "Hitman",
@@ -1148,14 +1153,14 @@
       "Name": "Unexpected Consequences",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     }
   ],
   "AchievementSets": [
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 567,
+      "Progressed": 568,
       "Completed": 6
     }
   ],
@@ -1163,8 +1168,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2023-07-06T12:00:48.4017552+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:06:46.6195568+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:05:20.4969486+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:29.4211501+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:03:28.3067111+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:06:46.6195729+00:00"
+  "LastUpdate_Ratings": "2023-11-12T00:02:48.6300592+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:05:20.4969632+00:00"
 }

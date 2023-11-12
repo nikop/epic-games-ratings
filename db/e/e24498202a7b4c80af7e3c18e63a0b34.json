@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6759,
+  "EOS_Progressed": 6760,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -5331,6 +5331,11 @@
       "Time": "2023-11-11T23:07:52.369579+00:00",
       "NumProgressed": 6759,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-12T00:06:11.0471791+00:00",
+      "NumProgressed": 6760,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -5343,7 +5348,7 @@
       "Name": "First of Many",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 5880
+      "UsersEstimate": 5881
     },
     {
       "ID": "achievement_01_02",
@@ -5367,7 +5372,7 @@
       "Name": "Bzzzt",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 4934
+      "UsersEstimate": 4935
     },
     {
       "ID": "achievement_01_05",
@@ -5375,7 +5380,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3244
+      "UsersEstimate": 3245
     },
     {
       "ID": "achievement_01_06",
@@ -5391,7 +5396,7 @@
       "Name": "Car Workshop",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 2771
+      "UsersEstimate": 2772
     },
     {
       "ID": "achievement_01_08",
@@ -5407,7 +5412,7 @@
       "Name": "Right Foot",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "achievement_01_10",
@@ -5423,7 +5428,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "achievement_02_02",
@@ -5455,7 +5460,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "achievement_02_06",
@@ -5471,7 +5476,7 @@
       "Name": "Whale of a Time",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 3244
+      "UsersEstimate": 3245
     },
     {
       "ID": "achievement_02_08",
@@ -5583,7 +5588,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3109
+      "UsersEstimate": 3110
     },
     {
       "ID": "achievement_04_03",
@@ -5607,7 +5612,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "achievement_04_06",
@@ -5631,7 +5636,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 5813
+      "UsersEstimate": 5814
     },
     {
       "ID": "achievement_04_09",
@@ -5646,7 +5651,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 6759,
+      "Progressed": 6760,
       "Completed": 37
     }
   ],
@@ -5654,8 +5659,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2023-10-29T02:58:03.8927992+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:07:52.3695788+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:06:11.0471788+00:00",
   "LastUpdate_AppInfo": "2023-11-09T20:57:10.0685893+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:59:56.3794213+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:07:52.3696279+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:58:50.8138727+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:06:11.0472188+00:00"
 }

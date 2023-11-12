@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.50% | ~76 |
 | Ten Crowns | 0.50% | ~76 |
 | No Undo | 0.50% | ~76 |
+| Bronze Victory (Carthage 1) | 0.40% | ~61 |
 | Ancient | 0.40% | ~61 |
 | Glorious Difficulty | 0.40% | ~61 |
 | Hatti | 0.40% | ~61 |
@@ -162,7 +163,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.40% | ~61 |
 | Rmt n Kmt Buhen | 0.40% | ~61 |
 | Greater Kmt Unified | 0.40% | ~61 |
-| Bronze Victory (Carthage 1) | 0.30% | ~46 |
 | Silver Victory (Carthage 1) | 0.30% | ~46 |
 | Carthage - Riches and Influence | 0.30% | ~46 |
 | Magnificent Difficulty | 0.30% | ~46 |

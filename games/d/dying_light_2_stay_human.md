@@ -1,49 +1,49 @@
 # Dying Light 2 Stay Human
 [Store](https://store.epicgames.com/en-US/p/dying-light-2-stay-human)  
 [View Rawdata](../../db/d/dying_light_2_stay_human.json)  
-Rating: 4.58 (Ranked 445)  
+Rating: 4.58 (Ranked 446)  
 Number of Ratings: 7,305  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 37.00% | ~240,771 |
-| First Shot | 35.00% | ~227,757 |
-| Into the Unknown | 34.00% | ~221,249 |
-| Herzlich Wilkommen! | 33.00% | ~214,742 |
-| Good Night & Good Luck | 32.00% | ~208,235 |
-| Sancho Panza | 31.00% | ~201,727 |
-| Oh, So This Is How It Works! | 28.00% | ~182,205 |
-| Flag Burning | 26.00% | ~169,191 |
-| Under Pressure | 24.00% | ~156,176 |
-| On the Trail of the Enemy | 24.00% | ~156,176 |
-| It Wasn't That Hard, Was It? | 24.00% | ~156,176 |
-| Can't Touch This! | 24.00% | ~156,176 |
-| Light in the Darkness | 23.00% | ~149,669 |
-| Get Outta My House! | 23.00% | ~149,669 |
-| Night Hunter | 22.00% | ~143,161 |
-| Being All Social | 21.00% | ~136,654 |
-| After the Fall | 19.00% | ~123,639 |
-| We Will Be Heard! | 18.00% | ~117,132 |
-| Tunnel Entrance | 17.00% | ~110,625 |
-| Known Associate | 16.00% | ~104,117 |
-| Brush with Death | 16.00% | ~104,117 |
-| Debris and Ashes | 15.00% | ~97,610 |
-| Going Down | 15.00% | ~97,610 |
-| Family First | 15.00% | ~97,610 |
-| Your World, Your Rules | 14.00% | ~91,103 |
-| Death From Afar | 14.00% | ~91,103 |
-| Terminal Headache | 14.00% | ~91,103 |
-| Slowpoke! | 12.00% | ~78,088 |
-| Tickets, Please! | 7.00% | ~45,551 |
-| Parkour Master | 6.00% | ~39,044 |
-| Combat Master | 6.00% | ~39,044 |
+| You Never Forget Your First... | 37.00% | ~240,775 |
+| First Shot | 35.00% | ~227,760 |
+| Into the Unknown | 34.00% | ~221,252 |
+| Herzlich Wilkommen! | 33.00% | ~214,745 |
+| Good Night & Good Luck | 32.00% | ~208,237 |
+| Sancho Panza | 31.00% | ~201,730 |
+| Oh, So This Is How It Works! | 28.00% | ~182,208 |
+| Flag Burning | 26.00% | ~169,193 |
+| Under Pressure | 24.00% | ~156,178 |
+| On the Trail of the Enemy | 24.00% | ~156,178 |
+| It Wasn't That Hard, Was It? | 24.00% | ~156,178 |
+| Can't Touch This! | 24.00% | ~156,178 |
+| Light in the Darkness | 23.00% | ~149,671 |
+| Get Outta My House! | 23.00% | ~149,671 |
+| Night Hunter | 22.00% | ~143,163 |
+| Being All Social | 21.00% | ~136,656 |
+| After the Fall | 19.00% | ~123,641 |
+| We Will Be Heard! | 18.00% | ~117,134 |
+| Tunnel Entrance | 17.00% | ~110,626 |
+| Known Associate | 16.00% | ~104,119 |
+| Brush with Death | 16.00% | ~104,119 |
+| Debris and Ashes | 15.00% | ~97,611 |
+| Going Down | 15.00% | ~97,611 |
+| Family First | 15.00% | ~97,611 |
+| Your World, Your Rules | 14.00% | ~91,104 |
+| Death From Afar | 14.00% | ~91,104 |
+| Terminal Headache | 14.00% | ~91,104 |
+| Slowpoke! | 12.00% | ~78,089 |
+| Tickets, Please! | 7.00% | ~45,552 |
+| Parkour Master | 6.00% | ~39,045 |
+| Combat Master | 6.00% | ~39,045 |
 | Municipal Services | 5.00% | ~32,537 |
 | Ban Hammer | 5.00% | ~32,537 |
 | Modder | 5.00% | ~32,537 |
-| Tube Map | 4.00% | ~26,029 |
-| Don Quixote | 4.00% | ~26,029 |
-| Can't You Read the Signs? | 4.00% | ~26,029 |
-| Boot Licker | 4.00% | ~26,029 |
+| Tube Map | 4.00% | ~26,030 |
+| Don Quixote | 4.00% | ~26,030 |
+| Can't You Read the Signs? | 4.00% | ~26,030 |
+| Boot Licker | 4.00% | ~26,030 |
 | Tanning Salon | 3.00% | ~19,522 |
 | That's Teamwork! | 3.00% | ~19,522 |
 | Ironheart | 3.00% | ~19,522 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~296 |
 | Connoisseur | 0.10% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 650,733 (Ranked 28)  
+Progressed: 650,742 (Ranked 28)  
 Completed: 67 (0.01%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,6 +278,7 @@ Completed: 67 (0.01%) (Ranked 326)
 | 2023-11-09 | 649,674 | 67 |
 | 2023-11-10 | 650,134 | 67 |
 | 2023-11-11 | 650,733 | 67 |
+| 2023-11-12 | 650,742 | 67 |
 ## Awards
 Max (Character Customization): 9,986  (Ranked 39)  
 Sum: 25,094 (Ranked 52)  

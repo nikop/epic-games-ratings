@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -694,9 +694,9 @@
       "ID": "ach-paleMask-cure",
       "SetID": "17ih7ma",
       "Name": "It\u0027s Not Too Late",
-      "Percentage": 0.6,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ach-paleMask-party",
@@ -823,8 +823,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:09:35.0744138+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:08:49.1925832+00:00",
   "LastUpdate_AppInfo": "2023-11-11T10:57:00.2383512+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:57:40.8369295+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:09:35.074469+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:57:11.4582662+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:08:49.1926266+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 348,
   "Ranking_Popularity": 348,
   "Ranking_PopularitySum": 437,
-  "Ranking_EOS_Progress": 225,
+  "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 199,
   "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 129,
@@ -691,7 +691,7 @@
   ],
   "EOS_Progressed": 1724,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -5231,9 +5231,9 @@
       "ID": "achievement_18",
       "SetID": "222fo9l",
       "Name": "Full Arsenal",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 776
     },
     {
       "ID": "achievement_19",
@@ -5319,9 +5319,9 @@
       "ID": "achievement_28",
       "SetID": "222fo9l",
       "Name": "Story Teller",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 931
+      "UsersEstimate": 948
     },
     {
       "ID": "achievement_29",
@@ -5431,9 +5431,9 @@
       "ID": "achievement_40",
       "SetID": "222fo9l",
       "Name": "There\u0027s Always Peng!",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 621
     },
     {
       "ID": "achievement_41",
@@ -5495,9 +5495,9 @@
       "ID": "achievement_5",
       "SetID": "222fo9l",
       "Name": "True Believer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 948
+      "UsersEstimate": 965
     },
     {
       "ID": "achievement_6",
@@ -5544,8 +5544,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-05T01:50:21.7166978+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:06:14.7937393+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:04:55.8394536+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:00:28.406789+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:06:14.7937818+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:59:13.5926532+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:04:55.8395082+00:00"
 }

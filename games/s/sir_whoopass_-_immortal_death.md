@@ -30,7 +30,7 @@
 | Self assessed tax return | 42.00% | ~47 |
 | Surprise!! | 41.00% | ~46 |
 | Haemochromatosis | 39.00% | ~44 |
-| Make America Grate Again | 35.00% | ~39 |
+| Make America Grate Again | 36.00% | ~40 |
 | Pasta Bolognese | 35.00% | ~39 |
 | You can't stop me, bro! | 33.00% | ~37 |
 | You are no match for me, Billy! | 32.00% | ~36 |
@@ -40,16 +40,16 @@
 | I'm going to get a concussion | 29.00% | ~32 |
 | Another one bites the iron | 29.00% | ~32 |
 | A Megapint...? | 25.00% | ~28 |
+| Hovering around | 24.00% | ~27 |
 | Kleptomaniac | 24.00% | ~27 |
 | Ripe Meat Off The Bone! | 23.00% | ~26 |
-| Hovering around | 23.00% | ~26 |
-| You're not so Big anymore, Boi! | 21.00% | ~24 |
-| Your daily dose of Vitamin C. | 21.00% | ~24 |
+| You're not so Big anymore, Boi! | 22.00% | ~25 |
+| Your daily dose of Vitamin C. | 22.00% | ~25 |
 | I cant stand still! | 21.00% | ~24 |
 | Slimy... yet satisfying | 18.00% | ~20 |
 | Master Butcher | 17.00% | ~19 |
 | Just wing it! | 17.00% | ~19 |
-| Deal with it | 16.00% | ~18 |
+| Deal with it | 17.00% | ~19 |
 | You're looking mozzare-hella good! | 13.00% | ~15 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~15 |
 | Yeehaw!!! | 13.00% | ~15 |

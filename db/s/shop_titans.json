@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 79,
   "Ranking_EOS_Completed": 259,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 95,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -6985,9 +6985,9 @@
       "Count": 3778
     }
   ],
-  "EOS_Progressed": 139408,
+  "EOS_Progressed": 139411,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 804,
+  "EOS_NewPlayers": 805,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -27995,6 +27995,11 @@
       "Time": "2023-11-11T23:06:35.7864899+00:00",
       "NumProgressed": 139408,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-12T00:05:12.438583+00:00",
+      "NumProgressed": 139411,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28076,9 +28081,9 @@
       "ID": "ashley_a",
       "SetID": "anfd17p",
       "Name": "A Ronin Reborn",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 976
+      "UsersEstimate": 1115
     },
     {
       "ID": "bigsale01",
@@ -28901,15 +28906,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139408,
+      "Progressed": 139411,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-11T23:01:01.4562951+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:06:35.7864896+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:05:12.4385826+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:01:01.4562958+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:06:35.7866621+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:59:37.3810613+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:05:12.4387606+00:00"
 }

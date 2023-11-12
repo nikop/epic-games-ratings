@@ -424,9 +424,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "decrypt_one_myth",
@@ -496,9 +496,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "find_one_photo",
@@ -616,9 +616,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "playtime",
@@ -767,8 +767,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:04:21.1020256+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:03:29.3206035+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:22.4690475+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:57:43.553865+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:04:21.1020923+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:57:13.3314594+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:03:29.3206445+00:00"
 }

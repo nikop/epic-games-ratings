@@ -59,6 +59,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Complete Monopoly | 0.90% | ~1,255 |
 | A Notch Above the Rest | 0.80% | ~1,115 |
 | Above the Norm | 0.80% | ~1,115 |
+| A Ronin Reborn | 0.80% | ~1,115 |
 | The King's Caprice | 0.80% | ~1,115 |
 | Locally Sourced | 0.80% | ~1,115 |
 | Master of Transmutation | 0.80% | ~1,115 |
@@ -80,7 +81,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cream of the Crop | 0.70% | ~976 |
 | Top of the World | 0.70% | ~976 |
 | Proud Paladin | 0.70% | ~976 |
-| A Ronin Reborn | 0.70% | ~976 |
 | Thirst for Knowledge | 0.70% | ~976 |
 | Booty by the Boatload | 0.70% | ~976 |
 | Archivist | 0.70% | ~976 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~139 |
 | To Hell and Back | 0.10% | ~139 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,408 (Ranked 79)  
+Progressed: 139,411 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,6 +325,7 @@ Completed: 181 (0.13%) (Ranked 259)
 | 2023-11-09 | 138,868 | 180 |
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
+| 2023-11-12 | 139,411 | 181 |
 ## Awards
 Max (Great for Beginners): 4,825  (Ranked 73)  
 Sum: 27,530 (Ranked 50)  

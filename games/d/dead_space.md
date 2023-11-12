@@ -12,14 +12,14 @@ Rating: 4.63 (Ranked 348)
 | Brute Force | 64.00% | ~1,103 |
 | Cannon Fodder | 59.00% | ~1,017 |
 | Autofire | 57.00% | ~983 |
+| True Believer | 56.00% | ~965 |
+| Story Teller | 55.00% | ~948 |
 | Raise the Stakes | 55.00% | ~948 |
-| True Believer | 55.00% | ~948 |
-| Story Teller | 54.00% | ~931 |
 | Surgeon | 51.00% | ~879 |
 | Freeze | 50.00% | ~862 |
 | Exterminator | 50.00% | ~862 |
 | Greenhouse Effect | 50.00% | ~862 |
-| Full Arsenal | 44.00% | ~759 |
+| Full Arsenal | 45.00% | ~776 |
 | S.O.S. | 44.00% | ~759 |
 | Get Off My Ship! | 43.00% | ~741 |
 | Strange Transmissions | 42.00% | ~724 |
@@ -29,8 +29,8 @@ Rating: 4.63 (Ranked 348)
 | Betrayed | 37.00% | ~638 |
 | Exodus | 36.00% | ~621 |
 | Legend Teller | 36.00% | ~621 |
+| There's Always Peng! | 36.00% | ~621 |
 | Mindless Prey | 36.00% | ~621 |
-| There's Always Peng! | 35.00% | ~603 |
 | Front Toward Enemy | 32.00% | ~552 |
 | A Cut Above | 31.00% | ~534 |
 | Whole Again | 28.00% | ~483 |
@@ -53,7 +53,7 @@ Rating: 4.63 (Ranked 348)
 | Untouchable | 2.00% | ~34 |
 | One Gun | 2.00% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,724 (Ranked 225)  
+Progressed: 1,724 (Ranked 226)  
 Completed: 8 (0.46%) (Ranked 199)  
 ## EOS Players History
 | Date | Progressed | Completed |

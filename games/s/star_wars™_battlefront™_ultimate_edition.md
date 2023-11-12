@@ -31,20 +31,20 @@
 | Safety ain't the point of a joyride | 4.00% | ~47 |
 | Not bad for a little furball | 4.00% | ~47 |
 | Patience you must have | 4.00% | ~47 |
+| Don't underestimate the Force | 4.00% | ~47 |
 | I've been waiting for you | 3.00% | ~35 |
 | When 900 years old you reach... | 3.00% | ~35 |
 | Determined | 3.00% | ~35 |
 | Your journey has only started | 3.00% | ~35 |
 | On the ball | 3.00% | ~35 |
 | Precision shot | 3.00% | ~35 |
+| City in the Clouds | 3.00% | ~35 |
 | That's no moon | 3.00% | ~35 |
 | What will you become? | 3.00% | ~35 |
-| Don't underestimate the Force | 3.00% | ~35 |
 | Hold the line! | 2.00% | ~24 |
 | The Force is strong with this one | 2.00% | ~24 |
 | Ackbar's Elite | 2.00% | ~24 |
 | This is a new day, a new beginning | 2.00% | ~24 |
-| City in the Clouds | 2.00% | ~24 |
 | Alternative solution | 2.00% | ~24 |
 | The circle is now complete | 2.00% | ~24 |
 | Disturbed tranquility | 2.00% | ~24 |

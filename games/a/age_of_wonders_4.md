@@ -11,8 +11,8 @@ Rating: 4.60 (Ranked 409)
 | A Wonderful Discovery | 0.70% | ~38 |
 | Walls Cannot Stop Us | 0.70% | ~38 |
 | Freed Lands of Manuhari | 0.70% | ~38 |
+| From Friends to Family | 0.60% | ~32 |
 | Bone Peddler | 0.50% | ~27 |
-| From Friends to Family | 0.50% | ~27 |
 | There Can Only Be One! | 0.40% | ~21 |
 | Full Ascension | 0.40% | ~21 |
 | Magical Synergy | 0.40% | ~21 |
@@ -66,7 +66,7 @@ Rating: 4.60 (Ranked 409)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,360 (Ranked 184)  
+Progressed: 5,361 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,6 +240,7 @@ Completed: 7 (0.13%) (Ranked 259)
 | 2023-11-09 | 5,312 | 7 |
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
+| 2023-11-12 | 5,361 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 481)  
 Sum: 53 (Ranked 474)  

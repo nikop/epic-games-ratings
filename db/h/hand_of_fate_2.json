@@ -919,9 +919,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 664502,
+  "EOS_Progressed": 664505,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20434,6 +20434,11 @@
       "Time": "2023-11-11T23:07:13.7908119+00:00",
       "NumProgressed": 664502,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2023-11-12T00:05:41.5527263+00:00",
+      "NumProgressed": 664505,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 48,
@@ -20445,7 +20450,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 478441
+      "UsersEstimate": 478444
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -20453,7 +20458,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 385411
+      "UsersEstimate": 385413
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -20461,7 +20466,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 152835
+      "UsersEstimate": 152836
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -20581,7 +20586,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 152835
+      "UsersEstimate": 152836
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -20589,7 +20594,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93030
+      "UsersEstimate": 93031
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -20597,7 +20602,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 112965
+      "UsersEstimate": 112966
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -20685,7 +20690,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 79740
+      "UsersEstimate": 79741
     },
     {
       "ID": "Achievement_32_Karma",
@@ -20828,15 +20833,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 664502,
+      "Progressed": 664505,
       "Completed": 171
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2023-10-31T06:59:31.6976797+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:07:13.7908117+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:05:41.552726+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:12.8499735+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:00:33.2697617+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:07:13.7909794+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:59:17.1181325+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:05:41.5528407+00:00"
 }

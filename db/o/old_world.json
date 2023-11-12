@@ -15974,9 +15974,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_1_BRONZE",
       "SetID": "9201eeb",
       "Name": "Bronze Victory (Carthage 1)",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_1_EPIC",
@@ -18564,8 +18564,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:04:52.3636378+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:03:53.6549749+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-11T23:00:08.4243572+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:04:52.364542+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:58:59.6297301+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:03:53.6558224+00:00"
 }

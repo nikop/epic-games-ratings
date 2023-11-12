@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.58 (Ranked 445)  
+Rating: 4.59 (Ranked 432)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,8 +11,8 @@ Number of Ratings: 46  (23.09.2022)
 | The Hunt | 3.00% | ~4,733 |
 | Weeper | 3.00% | ~4,733 |
 | Ravenous | 3.00% | ~4,733 |
-| Silenced Whispers | 2.00% | ~3,155 |
-| Devourer | 2.00% | ~3,155 |
+| Silenced Whispers | 2.00% | ~3,156 |
+| Devourer | 2.00% | ~3,156 |
 | Scion | 1.00% | ~1,574 |
 | Harmless | 1.00% | ~1,578 |
 | Jawcrab | 1.00% | ~1,578 |
@@ -25,7 +25,7 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 0.90% | ~1,416 |
 | Predator | 0.80% | ~1,262 |
 | Assimilation | 0.70% | ~1,104 |
-| Host | 0.70% | ~1,101 |
+| Host | 0.70% | ~1,102 |
 | Celebration | 0.70% | ~1,104 |
 | Hunt Down | 0.60% | ~947 |
 | Inevitable | 0.60% | ~947 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~157 |
 | Touch of Otherwhere | 0.10% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 157,772 (Ranked 76)  
+Progressed: 157,778 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -236,10 +236,11 @@ Completed: 1 (0.00%) (Ranked 347)
 | 2023-11-09 | 157,408 | 1 |
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
+| 2023-11-12 | 157,778 | 1 |
 ## Awards
 Max (Quickly Understood Controls): 51  (Ranked 426)  
-Sum: 355 (Ranked 349)  
-Diff (max vs sum): 77  
+Sum: 358 (Ranked 348)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 51 |
@@ -249,7 +250,7 @@ Diff (max vs sum): 77
 | This game has Amazing Storytelling | 45 |
 | This game has Challenging Combat | 44 |
 | This game has Amazing Characters | 37 |
-| This game has a Creative Community | 33 |
+| This game has a Creative Community | 36 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -390,3 +391,4 @@ Diff (max vs sum): 77
 | 2023-11-07 | 4.59 | - | 50 | 351 |
 | 2023-11-09 | 4.59 | - | 51 | 354 |
 | 2023-11-10 | 4.58 | - | 51 | 355 |
+| 2023-11-11 | 4.59 | - | 51 | 358 |

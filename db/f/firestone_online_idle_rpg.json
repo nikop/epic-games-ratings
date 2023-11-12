@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -457,9 +457,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 2229,
+  "EOS_Progressed": 2231,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -6807,6 +6807,11 @@
       "Time": "2023-11-11T23:08:32.9551432+00:00",
       "NumProgressed": 2229,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-12T00:08:01.6448105+00:00",
+      "NumProgressed": 2231,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -6842,7 +6847,7 @@
       "Name": "Arena Challenger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "backgroundstory",
@@ -6850,7 +6855,7 @@
       "Name": "Background Story",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "beastwarmachines",
@@ -6930,7 +6935,7 @@
       "Name": "Dragon Master",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "dragonslayer",
@@ -6946,7 +6951,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "enchantingskill",
@@ -6986,7 +6991,7 @@
       "Name": "Enlightenment",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "exoticmerchant",
@@ -7002,7 +7007,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 936
+      "UsersEstimate": 937
     },
     {
       "ID": "fourleafclover",
@@ -7066,7 +7071,7 @@
       "Name": "Hero inspection",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "howdoyouturnthison",
@@ -7114,7 +7119,7 @@
       "Name": "Lieutenant",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "lockandload",
@@ -7160,9 +7165,9 @@
       "ID": "missionsdedication",
       "SetID": "3nl4bcg",
       "Name": "Missions Dedication",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 156
+      "UsersEstimate": 134
     },
     {
       "ID": "movinguptheladder",
@@ -7210,7 +7215,7 @@
       "Name": "Prestigious",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 1204
+      "UsersEstimate": 1205
     },
     {
       "ID": "prestigiousx10",
@@ -7218,7 +7223,7 @@
       "Name": "Prestigious x10",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "relicofthepast",
@@ -7242,7 +7247,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "scrollmaster",
@@ -7274,7 +7279,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 1271
+      "UsersEstimate": 1272
     },
     {
       "ID": "thealchemist",
@@ -7378,7 +7383,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2073
+      "UsersEstimate": 2075
     },
     {
       "ID": "warmachinesarmy",
@@ -7410,14 +7415,14 @@
       "Name": "World Map",
       "Percentage": 79,
       "XP": 5,
-      "UsersEstimate": 1761
+      "UsersEstimate": 1762
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 2229,
+      "Progressed": 2231,
       "Completed": 2
     }
   ],
@@ -7425,8 +7430,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2023-11-11T09:58:14.8761185+00:00",
-  "LastChanged_Achievements": "2023-11-11T23:08:32.955143+00:00",
+  "LastChanged_Achievements": "2023-11-12T00:08:01.6448102+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.8480093+00:00",
-  "LastUpdate_Ratings": "2023-11-11T22:58:42.5532364+00:00",
-  "LastUpdate_Achievements": "2023-11-11T23:08:32.9552185+00:00"
+  "LastUpdate_Ratings": "2023-11-11T23:57:56.566647+00:00",
+  "LastUpdate_Achievements": "2023-11-12T00:08:01.6448988+00:00"
 }

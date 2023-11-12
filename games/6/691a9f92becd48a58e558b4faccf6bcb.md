@@ -10,12 +10,12 @@
 | I deliver the presents! | 1.00% | ~2 |
 | A new HOME | 1.00% | ~2 |
 | Silver Hat | 1.00% | ~2 |
-| Lesson learned | 0.90% | ~2 |
-| Good list | 0.90% | ~2 |
-| At least you tried | 0.90% | ~2 |
-| Golden Button | 0.90% | ~2 |
-| Golden Hat | 0.90% | ~2 |
-| Silver Carrot | 0.90% | ~2 |
+| Lesson learned | 0.80% | ~2 |
+| Good list | 0.80% | ~2 |
+| At least you tried | 0.80% | ~2 |
+| Golden Button | 0.80% | ~2 |
+| Golden Hat | 0.80% | ~2 |
+| Silver Carrot | 0.80% | ~2 |
 | Golden Carrot | 0.40% | ~1 |
 | Golden Scarf | 0.40% | ~1 |
 | Naughty list | 0.40% | ~1 |
@@ -23,8 +23,8 @@
 | Silver Scarf | 0.40% | ~1 |
 | So close! | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235 (Ranked 360)  
-Completed: 1 (0.43%) (Ranked 204)  
+Progressed: 236 (Ranked 359)  
+Completed: 1 (0.42%) (Ranked 204)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -77,3 +77,4 @@ Completed: 1 (0.43%) (Ranked 204)
 | 2023-11-09 | 221 | 1 |
 | 2023-11-10 | 228 | 1 |
 | 2023-11-11 | 235 | 1 |
+| 2023-11-12 | 236 | 1 |

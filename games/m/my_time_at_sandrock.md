@@ -6,22 +6,22 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 235.00% | ~724 |
-| Iron Chef | 180.00% | ~554 |
-| Greeno-B-Gone | 115.00% | ~354 |
-| Your Especially Earned Trajectory | 89.00% | ~274 |
+| Adept Assembler | 235.00% | ~726 |
+| Iron Chef | 180.00% | ~556 |
+| Greeno-B-Gone | 115.00% | ~355 |
+| Your Especially Earned Trajectory | 89.00% | ~275 |
 | No Mountain Wide Enough | 60.00% | ~185 |
 | On that Grindset | 58.00% | ~179 |
 | Can We Keep It? | 58.00% | ~179 |
+| Yakmel Whisperer | 50.00% | ~154 |
 | Diamonds are Forever | 50.00% | ~154 |
-| Yakmel Whisperer | 49.00% | ~151 |
-| Pack Mule | 47.00% | ~145 |
+| Pack Mule | 48.00% | ~148 |
 | Unboxing | 46.00% | ~142 |
 | Financially Secure | 44.00% | ~136 |
-| Got Served | 43.00% | ~132 |
-| One of the Cool Kids | 43.00% | ~132 |
-| Big Game Hunter | 41.00% | ~126 |
-| Chatterbox | 39.00% | ~120 |
+| Got Served | 42.00% | ~130 |
+| One of the Cool Kids | 42.00% | ~130 |
+| Big Game Hunter | 41.00% | ~127 |
+| Chatterbox | 39.00% | ~121 |
 | My Time Mansion | 38.00% | ~117 |
 | Mole Masher | 38.00% | ~117 |
 | Knowledge is Power | 37.00% | ~114 |
@@ -34,40 +34,40 @@ Number of Ratings: 892  (23.09.2022)
 | First Love | 33.00% | ~102 |
 | Officially Official | 32.00% | ~99 |
 | Anti-Santa | 32.00% | ~99 |
-| Panda-kin | 30.00% | ~92 |
-| Finishing Touches | 30.00% | ~92 |
-| Bridging the Gap | 29.00% | ~89 |
+| Finishing Touches | 31.00% | ~96 |
+| Panda-kin | 29.00% | ~90 |
+| Bridging the Gap | 29.00% | ~90 |
 | Builder of the Month | 27.00% | ~83 |
 | Jewel of the Eufaula | 27.00% | ~83 |
 | Who Ya Gonna Call...? | 27.00% | ~83 |
+| Waste Not Want Not | 26.00% | ~80 |
 | Martle's Dream | 25.00% | ~77 |
 | He Can Spin A Yarn... | 25.00% | ~77 |
-| Waste Not Want Not | 25.00% | ~77 |
 | Commissions, commissions...! | 23.00% | ~71 |
-| Elementary, My Dear | 21.00% | ~65 |
-| Lifeline Pipeline | 20.00% | ~62 |
+| Elementary, My Dear | 22.00% | ~68 |
+| Lifeline Pipeline | 21.00% | ~65 |
 | Got the Flow Back | 20.00% | ~62 |
 | Newton | 20.00% | ~62 |
-| Kind of a Big Deal | 18.00% | ~55 |
-| Do Your Part | 18.00% | ~55 |
+| Kind of a Big Deal | 18.00% | ~56 |
+| Do Your Part | 18.00% | ~56 |
 | Just What I Always Wanted! | 16.00% | ~49 |
 | Sepia Toned Memories | 15.00% | ~46 |
 | Santa In Training | 15.00% | ~46 |
 | Time Flies | 14.00% | ~43 |
 | Sandrunning Speedster | 14.00% | ~43 |
-| It Belongs in a Museum! | 13.00% | ~40 |
+| It Belongs in a Museum! | 14.00% | ~43 |
 | Cardistry | 12.00% | ~37 |
 | Pro Gamer | 12.00% | ~37 |
 | Jack of All Trades | 7.00% | ~22 |
-| It's High Noon... | 6.00% | ~18 |
-| Strong Arms | 6.00% | ~18 |
-| Got the Receipt? | 6.00% | ~18 |
+| It's High Noon... | 6.00% | ~19 |
+| Strong Arms | 6.00% | ~19 |
+| Got the Receipt? | 6.00% | ~19 |
 | Sandrock's Hottest Club | 3.00% | ~9 |
 | Super Spelunker | 0.00% | ~0 |
 | The Little Wood that Could | 0.00% | ~0 |
 | Winner and Still Champeen | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 308 (Ranked 334)  
+Progressed: 309 (Ranked 334)  
 Completed: 0 (0.00%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -82,6 +82,7 @@ Completed: 0 (0.00%) (Ranked 347)
 | 2023-11-09 | 294 | 0 |
 | 2023-11-10 | 289 | 0 |
 | 2023-11-11 | 308 | 0 |
+| 2023-11-12 | 309 | 0 |
 ## Awards
 Max (Character Customization): 586  (Ranked 194)  
 Sum: 1,334 (Ranked 239)  
