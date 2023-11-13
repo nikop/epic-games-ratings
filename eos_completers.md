@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.51% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.50% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -68,10 +68,10 @@
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
 | 67 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.39% |
 | 68 | [JARS](games/j/jars.md) | 5.38% |
-| 69 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 5.26% |
-| 70 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
-| 71 | [Bugsnax](games/b/bugsnax.md) | 4.81% |
-| 72 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
+| 69 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
+| 70 | [Bugsnax](games/b/bugsnax.md) | 4.81% |
+| 71 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 4.76% |
+| 71 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
 | 73 | [ZZT!](games/z/zzt!.md) | 4.61% |
 | 74 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
 | 75 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
@@ -81,7 +81,7 @@
 | 79 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 81 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.16% |
-| 82 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.13% |
+| 82 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.10% |
 | 83 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
 | 84 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
 | 85 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.78% |
