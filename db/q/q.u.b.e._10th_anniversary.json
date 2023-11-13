@@ -184,10 +184,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18930,
-  "EOS_Completed": 54,
-  "EOS_NewPlayers": 2454,
-  "EOS_NewCompleters": 30,
+  "EOS_Progressed": 18942,
+  "EOS_Completed": 55,
+  "EOS_NewPlayers": 2455,
+  "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
     {
@@ -3079,6 +3079,11 @@
       "Time": "2023-11-13T12:09:44.5713904+00:00",
       "NumProgressed": 18930,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2023-11-13T13:14:40.287626+00:00",
+      "NumProgressed": 18942,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 24,
@@ -3090,7 +3095,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ACH_CollectAll",
@@ -3098,7 +3103,7 @@
       "Name": "The Collector",
       "Percentage": 0.8,
       "XP": 70,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_CrushEnemy",
@@ -3106,7 +3111,7 @@
       "Name": "Squished",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 757
+      "UsersEstimate": 758
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -3114,7 +3119,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -3122,7 +3127,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2272
+      "UsersEstimate": 2273
     },
     {
       "ID": "ACH_Finale",
@@ -3146,7 +3151,7 @@
       "Name": "Master Of The Collectables",
       "Percentage": 0.8,
       "XP": 90,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_S8AllGold",
@@ -3210,7 +3215,7 @@
       "Name": "Maxed Out",
       "Percentage": 0.8,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_Sector1",
@@ -3218,7 +3223,7 @@
       "Name": "Sector 1",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2840
+      "UsersEstimate": 2841
     },
     {
       "ID": "ACH_Sector2",
@@ -3226,7 +3231,7 @@
       "Name": "Sector 2",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "ACH_Sector3",
@@ -3234,7 +3239,7 @@
       "Name": "Sector 3",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2082
+      "UsersEstimate": 2084
     },
     {
       "ID": "ACH_Sector4",
@@ -3242,7 +3247,7 @@
       "Name": "Sector 4",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1705
     },
     {
       "ID": "ACH_Sector5",
@@ -3250,7 +3255,7 @@
       "Name": "Sector 5",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "ACH_Sector6",
@@ -3258,7 +3263,7 @@
       "Name": "Sector 6",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACH_Sector7",
@@ -3281,16 +3286,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 18930,
-      "Completed": 54
+      "Progressed": 18942,
+      "Completed": 55
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-13T08:03:29.676683+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:09:44.5713901+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:14:40.2876255+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:52.4543892+00:00",
-  "LastUpdate_Ratings": "2023-11-13T12:02:28.2437112+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:09:44.5714251+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:08:23.8009577+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:14:40.2876537+00:00"
 }

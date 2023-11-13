@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 819,
+  "EOS_Progressed": 820,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.42,
+  "EOS_Completed_Percentage": 3.41,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2592,6 +2592,11 @@
       "Time": "2023-11-12T20:10:02.8984735+00:00",
       "NumProgressed": 819,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-13T13:14:53.4964908+00:00",
+      "NumProgressed": 820,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2636,7 +2641,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2684,7 +2689,7 @@
       "Name": "Seadog",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "_12_Completion_50",
@@ -2748,7 +2753,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -2770,9 +2775,9 @@
       "ID": "_22_CrewTale_FSH",
       "SetID": "8a1io5d",
       "Name": "Accursed Artifacts",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 82
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -2788,7 +2793,7 @@
       "Name": "Jaded Judge",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -2811,7 +2816,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 819,
+      "Progressed": 820,
       "Completed": 28
     }
   ],
@@ -2819,8 +2824,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:09:59.8513837+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:14:53.4964904+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.1384885+00:00",
-  "LastUpdate_Ratings": "2023-11-13T12:01:39.782724+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:09:59.8514183+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:06:24.9139683+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:14:53.4965154+00:00"
 }

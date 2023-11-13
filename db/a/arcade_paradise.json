@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 690,
+  "EOS_Progressed": 691,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -663,6 +663,11 @@
       "Time": "2023-11-11T17:08:47.9334091+00:00",
       "NumProgressed": 690,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T13:09:26.9640101+00:00",
+      "NumProgressed": 691,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -722,7 +727,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "AhoyTrophy",
@@ -794,7 +799,7 @@
       "Name": "Bug Fixer",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "DreadTrophy",
@@ -802,7 +807,7 @@
       "Name": "Existential dread",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "DropBallTrophy",
@@ -818,7 +823,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "Ext4Trophy",
@@ -842,7 +847,7 @@
       "Name": "Your Bloody Valentine",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "GoalMachineTrophy",
@@ -954,7 +959,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1040,9 +1045,9 @@
       "ID": "SwishTrophy",
       "SetID": "32aeje8",
       "Name": "Swish",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 393
+      "UsersEstimate": 387
     },
     {
       "ID": "TerrorTrophy",
@@ -1082,7 +1087,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "YouthTrophy",
@@ -1105,7 +1110,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 690,
+      "Progressed": 691,
       "Completed": 0
     }
   ],
@@ -1113,8 +1118,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:04:12.9096314+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:09:26.9640098+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:36.5106113+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:59:17.9528859+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:04:12.909667+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:04:26.5293761+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:09:26.9640488+00:00"
 }

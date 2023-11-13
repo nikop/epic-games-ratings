@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -419,9 +419,9 @@
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
       "SetID": "caeik3h",
       "Name": "Find Cap",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "KR4_ACHIEVEMENT_FROGGER",
@@ -739,9 +739,9 @@
       "ID": "KR4_ACHIEVEMENT_SELL_TOWERS",
       "SetID": "caeik3h",
       "Name": "Go Green or Go Home",
-      "Percentage": 42,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "KR4_ACHIEVEMENT_SHADOWARCHERS",
@@ -763,9 +763,9 @@
       "ID": "KR4_ACHIEVEMENT_SKIYETI",
       "SetID": "caeik3h",
       "Name": "Ski Free",
-      "Percentage": 36,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "KR4_ACHIEVEMENT_SLENDERMAN",
@@ -867,9 +867,9 @@
       "ID": "KR4_ACHIEVEMENT_WINTER_QUEEN",
       "SetID": "caeik3h",
       "Name": "More Than A Legend",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
@@ -882,8 +882,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:05:54.636723+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:10:54.175811+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:36.9496444+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:57:57.9075413+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:05:54.6367812+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:03:20.7512443+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:10:54.1758978+00:00"
 }

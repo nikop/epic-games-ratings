@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 376,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -479,7 +479,7 @@
   ],
   "EOS_Progressed": 1569,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2435,9 +2435,9 @@
       "ID": "TLOTF_ACHIEVEMENT_022",
       "SetID": "87e61g",
       "Name": "Vengeance for the Fallen",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_023",
@@ -2483,9 +2483,9 @@
       "ID": "TLOTF_ACHIEVEMENT_028",
       "SetID": "87e61g",
       "Name": "Rise and Fall",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_029",
@@ -2715,9 +2715,9 @@
       "ID": "TLOTF_ACHIEVEMENT_057",
       "SetID": "87e61g",
       "Name": "Thriving in Darkness",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -2755,9 +2755,9 @@
       "ID": "TLOTF_ACHIEVEMENT_062",
       "SetID": "87e61g",
       "Name": "A Rest Among the Dead",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_063",
@@ -2780,8 +2780,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-12T17:57:54.1422124+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:06:55.2669563+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:11:45.5345774+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.5758609+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:58:31.2808407+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:06:55.2670046+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:03:48.2001499+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:11:45.5346596+00:00"
 }

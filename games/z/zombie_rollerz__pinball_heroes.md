@@ -28,9 +28,9 @@ Rating: 4.30 (Ranked 836)
 | 1 is all I need | 21.00% | ~39 |
 | The Slime | 21.00% | ~39 |
 | Untouchable | 19.00% | ~36 |
+| The Flower | 17.00% | ~32 |
 | The Giant | 17.00% | ~32 |
 | The Blacksmith | 16.00% | ~30 |
-| The Flower | 16.00% | ~30 |
 | Out of the Frying Pan... | 16.00% | ~30 |
 | Ember | 16.00% | ~30 |
 | The Ooze | 15.00% | ~28 |

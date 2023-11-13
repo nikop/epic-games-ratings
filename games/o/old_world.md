@@ -28,6 +28,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Developing Cities | 3.00% | ~459 |
 | Strong Cities | 3.00% | ~459 |
 | Hanging Gardens | 3.00% | ~459 |
+| Ishtar Gate | 3.00% | ~459 |
 | Oracle | 3.00% | ~459 |
 | Pyramids | 3.00% | ~459 |
 | Christianity | 3.00% | ~459 |
@@ -57,7 +58,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana | 2.00% | ~306 |
 | Colossus | 2.00% | ~306 |
 | Great Ziggurat | 2.00% | ~306 |
-| Ishtar Gate | 2.00% | ~306 |
 | Lighthouse | 2.00% | ~306 |
 | Musaeum | 2.00% | ~306 |
 | Necropolis | 2.00% | ~306 |
@@ -119,6 +119,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.90% | ~138 |
 | One True Faith | 0.90% | ~138 |
 | Industrial Progress | 0.90% | ~138 |
+| Enlightenment | 0.90% | ~138 |
 | Revelation | 0.90% | ~138 |
 | Veneration | 0.90% | ~138 |
 | Mounted Lancer | 0.90% | ~138 |
@@ -127,12 +128,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Clerics | 0.80% | ~122 |
 | Egypt | 0.80% | ~122 |
 | Assyrian Paganism | 0.80% | ~122 |
-| Enlightenment | 0.80% | ~122 |
 | Turreted Elephant | 0.80% | ~122 |
 | Poetic Leader | 0.80% | ~122 |
 | Bad Heir Day | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
 | Hittite Paganism | 0.70% | ~107 |
+| All Nations | 0.70% | ~107 |
 | The Great Mage | 0.70% | ~107 |
 | Kmt Unified | 0.70% | ~107 |
 | Ishtar Gate in Babylon | 0.60% | ~92 |
@@ -143,7 +144,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.60% | ~92 |
 | Learn to Play 5 | 0.60% | ~92 |
 | Cataphract Archer | 0.60% | ~92 |
-| All Nations | 0.60% | ~92 |
 | Kush | 0.60% | ~92 |
 | Beja Archer | 0.60% | ~92 |
 | Old | 0.50% | ~76 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,296 (Ranked 146)  
+Progressed: 15,298 (Ranked 146)  
 Completed: 5 (0.03%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -556,7 +556,7 @@ Completed: 5 (0.03%) (Ranked 313)
 | 2023-11-10 | 15,253 | 5 |
 | 2023-11-11 | 15,270 | 5 |
 | 2023-11-12 | 15,291 | 5 |
-| 2023-11-13 | 15,296 | 5 |
+| 2023-11-13 | 15,298 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 214)  

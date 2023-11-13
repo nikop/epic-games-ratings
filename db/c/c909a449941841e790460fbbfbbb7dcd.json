@@ -4,7 +4,7 @@
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -856,9 +856,9 @@
       "ID": "DEFEATED_100_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Murderer",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 152
+      "UsersEstimate": 154
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -967,8 +967,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:05:31.3386287+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:10:33.8563498+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:03.7615621+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:59:24.6979704+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:05:31.3386438+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:04:32.683887+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:10:33.8563636+00:00"
 }

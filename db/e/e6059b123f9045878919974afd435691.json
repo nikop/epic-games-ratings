@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 299,
+  "Ranking_EOS_NewPlayers": 290,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1016,
+  "EOS_Progressed": 1017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2594,6 +2594,11 @@
       "Time": "2023-11-13T03:08:44.8596586+00:00",
       "NumProgressed": 1016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T13:14:25.678899+00:00",
+      "NumProgressed": 1017,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2677,7 +2682,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2749,7 +2754,7 @@
       "Name": "Completing The Duty",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "BURN_ACHIEVEMENT_5",
@@ -2805,7 +2810,7 @@
       "Name": "Greetings from Royalty",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -2821,7 +2826,7 @@
       "Name": "Fire Alarm",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "FREEB_ACHIEVEMENT_1",
@@ -2885,15 +2890,15 @@
       "Name": "Breaking Twigs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Who You Gonna Call?",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 366
+      "UsersEstimate": 356
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2907,9 +2912,9 @@
       "ID": "KILLR_ACHIEVEMENT_4",
       "SetID": "9lcahn0",
       "Name": "Call The Winchester",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 122
     },
     {
       "ID": "KILLR_ACHIEVEMENT_5",
@@ -2925,7 +2930,7 @@
       "Name": "And There We Go",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -2941,7 +2946,7 @@
       "Name": "50 Shades of Lackeys",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_1",
@@ -2949,7 +2954,7 @@
       "Name": "Bad Leecher, Bad Leecher!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "KLEECHER_ACHIEVEMENT_2",
@@ -2965,7 +2970,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -2973,7 +2978,7 @@
       "Name": "1, 2, 3! Grandma!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "MARY_ACHIEVEMENT_1",
@@ -2989,7 +2994,7 @@
       "Name": "10 Hugs from Grandma",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MEAT_ACHIEVEMENT_1",
@@ -3037,7 +3042,7 @@
       "Name": "The Last of Us",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3132,14 +3137,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1016,
+      "Progressed": 1017,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:09:27.3604421+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:14:25.6788986+00:00",
   "LastUpdate_AppInfo": "2023-11-09T22:57:16.2174381+00:00",
-  "LastUpdate_Ratings": "2023-11-13T12:01:01.7054283+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:09:27.3604957+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:05:53.8188055+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:14:25.678962+00:00"
 }

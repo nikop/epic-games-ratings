@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5384,
+  "EOS_Progressed": 5385,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7069,6 +7069,11 @@
       "Time": "2023-11-13T11:04:14.8296286+00:00",
       "NumProgressed": 5384,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-13T13:10:05.2810282+00:00",
+      "NumProgressed": 5385,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7238,9 +7243,9 @@
       "ID": "28",
       "SetID": "3aa2279",
       "Name": "From Friends to Family",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 48
     },
     {
       "ID": "29",
@@ -7534,9 +7539,9 @@
       "ID": "58",
       "SetID": "7132754",
       "Name": "Dawn of the Dread",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "59",
@@ -7559,13 +7564,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5384,
+      "Progressed": 5385,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5384,
+      "Progressed": 5385,
       "Completed": 7
     }
   ],
@@ -7573,8 +7578,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:04:57.7070014+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:10:05.2810278+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T12:02:23.3894151+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:04:57.7070876+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:08:19.8450583+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:10:05.2811066+00:00"
 }

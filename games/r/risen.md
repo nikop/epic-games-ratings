@@ -33,10 +33,10 @@ Rating: 4.59 (Ranked 431)
 | Ghost hunter | 23.00% | ~8 |
 | Workaholic | 23.00% | ~8 |
 | Pandora's box | 20.00% | ~7 |
+| Safecracker | 20.00% | ~7 |
 | Fence | 20.00% | ~7 |
 | Freedom fighter | 17.00% | ~6 |
 | Defender | 17.00% | ~6 |
-| Safecracker | 17.00% | ~6 |
 | Master thief | 17.00% | ~6 |
 | Moneybags | 14.00% | ~5 |
 | Showdown | 11.00% | ~4 |

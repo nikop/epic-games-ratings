@@ -2,13 +2,13 @@
   "ID": "d613614e082c4f648835a32f15c1d29b",
   "Name": "SYNCED",
   "ProductSlug": "synced",
-  "Ranking_Rating": 934,
+  "Ranking_Rating": 933,
   "Ranking_Popularity": 370,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-09-08T04:00:00+00:00",
     "PcReleaseDate": "2023-09-08T04:00:00+00:00",
@@ -1047,9 +1047,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66538,
+  "EOS_Progressed": 66540,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8967,6 +8967,11 @@
       "Time": "2023-11-13T12:07:10.2976763+00:00",
       "NumProgressed": 66538,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-13T13:11:58.2832911+00:00",
+      "NumProgressed": 66540,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -8979,7 +8984,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22623
+      "UsersEstimate": 22624
     },
     {
       "ID": "10",
@@ -9043,7 +9048,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11311
+      "UsersEstimate": 11312
     },
     {
       "ID": "3",
@@ -9106,7 +9111,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66538,
+      "Progressed": 66540,
       "Completed": 32
     }
   ],
@@ -9114,8 +9119,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-13T04:59:57.9193508+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:07:10.2976759+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:11:58.2832905+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6308067+00:00",
-  "LastUpdate_Ratings": "2023-11-13T12:01:44.3854184+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:07:10.2977311+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:06:28.8870853+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:11:58.2833359+00:00"
 }

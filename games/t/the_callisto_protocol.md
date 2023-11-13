@@ -24,9 +24,9 @@ Rating: 4.19 (Ranked 917)
 | Full Circle | 5.00% | ~822 |
 | Power Up | 5.00% | ~822 |
 | Keep Fighting | 5.00% | ~218 |
-| Giving Back | 4.00% | ~657 |
-| I Do Belong Here | 4.00% | ~657 |
-| Terminated | 4.00% | ~657 |
+| Giving Back | 4.00% | ~658 |
+| I Do Belong Here | 4.00% | ~658 |
+| Terminated | 4.00% | ~658 |
 | It's Time | 4.00% | ~175 |
 | The Commonality | 3.00% | ~493 |
 | In Striking Distance | 2.00% | ~329 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 917)
 | Bear Trap | 0.10% | ~4 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,437 (Ranked 143)  
+Progressed: 16,438 (Ranked 143)  
 Completed: 79 (0.48%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -253,7 +253,7 @@ Completed: 79 (0.48%) (Ranked 200)
 | 2023-11-10 | 16,426 | 79 |
 | 2023-11-11 | 16,431 | 79 |
 | 2023-11-12 | 16,435 | 79 |
-| 2023-11-13 | 16,437 | 79 |
+| 2023-11-13 | 16,438 | 79 |
 ## Awards
 Max (Highly Recommended): 82  (Ranked 384)  
 Sum: 480 (Ranked 327)  

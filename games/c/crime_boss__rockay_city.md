@@ -24,10 +24,10 @@ Rating: 3.95 (Ranked 1,005)
 | Headhunter | 0.60% | ~545 |
 | I Like Trains | 0.50% | ~455 |
 | Freebooter | 0.50% | ~455 |
+| Moneybags | 0.50% | ~455 |
 | Legend Looter | 0.40% | ~364 |
 | Imports and Exports | 0.40% | ~364 |
 | Foo Finder | 0.40% | ~364 |
-| Moneybags | 0.40% | ~364 |
 | Olympus Ascended | 0.40% | ~364 |
 | Ding Dong | 0.40% | ~364 |
 | Rockay Raider | 0.30% | ~273 |
@@ -41,13 +41,13 @@ Rating: 3.95 (Ranked 1,005)
 | Red Star | 0.20% | ~182 |
 | Classy Joint | 0.20% | ~182 |
 | Impossible Dreamer | 0.20% | ~182 |
-| All for One | 0.20% | ~38 |
-| One for All | 0.20% | ~38 |
+| All for One | 0.20% | ~39 |
+| One for All | 0.20% | ~39 |
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,903 (Ranked 91)  
+Progressed: 90,913 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,15 +254,15 @@ Completed: 55 (0.06%) (Ranked 294)
 | 2023-11-10 | 90,247 | 55 |
 | 2023-11-11 | 90,531 | 55 |
 | 2023-11-12 | 90,809 | 55 |
-| 2023-11-13 | 90,903 | 55 |
+| 2023-11-13 | 90,913 | 55 |
 ## Awards
 Max (Diverse Characters): 527  (Ranked 203)  
-Sum: 3,005 (Ranked 176)  
+Sum: 3,006 (Ranked 176)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 527 |
-| This game is Highly Recommended | 512 |
+| This game is Highly Recommended | 513 |
 | This game has Quickly Understood Controls | 503 |
 | This game has Challenging Combat | 494 |
 | This game is Extremely Fun | 488 |
@@ -498,3 +498,4 @@ Diff (max vs sum): 27
 | 2023-11-10 | 3.95 | 526 | 2,984 |
 | 2023-11-11 | 3.95 | 526 | 2,989 |
 | 2023-11-12 | 3.95 | 527 | 3,005 |
+| 2023-11-13 | 3.95 | 527 | 3,006 |

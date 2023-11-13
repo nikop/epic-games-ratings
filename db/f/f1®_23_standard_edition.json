@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 104,
+  "Ranking_EOS_NewPlayers": 105,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5707,
+  "EOS_Progressed": 5708,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 639,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5435,6 +5435,11 @@
       "Time": "2023-11-13T12:04:46.5995403+00:00",
       "NumProgressed": 5707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T13:09:55.7367931+00:00",
+      "NumProgressed": 5708,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5487,7 +5492,7 @@
       "Name": "Setting up for Success",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4280
+      "UsersEstimate": 4281
     },
     {
       "ID": "achievement_0007",
@@ -5503,7 +5508,7 @@
       "Name": "On the Top Step",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 4908
+      "UsersEstimate": 4909
     },
     {
       "ID": "achievement_0009",
@@ -5567,7 +5572,7 @@
       "Name": "Hitting a Season",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1940
+      "UsersEstimate": 1941
     },
     {
       "ID": "achievement_0017",
@@ -5607,7 +5612,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "achievement_0022",
@@ -5671,7 +5676,7 @@
       "Name": "Reduce",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "achievement_0030",
@@ -5727,7 +5732,7 @@
       "Name": "Ups and Downs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 1084
+      "UsersEstimate": 1085
     },
     {
       "ID": "achievement_0037",
@@ -5783,7 +5788,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "achievement_0044",
@@ -5838,7 +5843,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5707,
+      "Progressed": 5708,
       "Completed": 0
     }
   ],
@@ -5846,8 +5851,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-12T15:00:20.0468985+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:04:46.59954+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:09:55.7367927+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
   "LastUpdate_Ratings": "2023-11-13T12:02:17.1966418+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:04:46.5995986+00:00"
+  "LastUpdate_Achievements": "2023-11-13T13:09:55.736848+00:00"
 }

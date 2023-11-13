@@ -7,19 +7,20 @@ Rating: 4.21 (Ranked 900)
 | ---- | ---------- | ----- |
 | A Veil Lifted | 0.60% | ~9 |
 | Lost and Found | 0.60% | ~9 |
+| Thriving in Darkness | 0.60% | ~9 |
 | Comrades | 0.50% | ~8 |
-| Thriving in Darkness | 0.50% | ~8 |
 | Shared Triumph | 0.40% | ~6 |
 | No Mercy | 0.40% | ~6 |
 | Shades of Violence | 0.40% | ~6 |
+| Rise and Fall | 0.30% | ~5 |
 | The Past Shapes the Present | 0.30% | ~5 |
+| A Rest Among the Dead | 0.30% | ~5 |
 | Weapon Collector | 0.20% | ~3 |
 | What Sights Contained Within | 0.20% | ~3 |
 | Ammunition Collector | 0.20% | ~3 |
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
-| Rise and Fall | 0.20% | ~3 |
-| A Rest Among the Dead | 0.20% | ~3 |
+| Vengeance for the Fallen | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
 | Trinket Collector | 0.10% | ~2 |
@@ -32,7 +33,6 @@ Rating: 4.21 (Ranked 900)
 | Rune Master | 0.10% | ~2 |
 | Carving Out Victory | 0.10% | ~2 |
 | Utmost Insight | 0.10% | ~2 |
-| Vengeance for the Fallen | 0.10% | ~2 |
 | Infernal Offerings | 0.10% | ~2 |
 | Radiant Offerings | 0.10% | ~2 |
 | Umbral Offerings | 0.10% | ~2 |

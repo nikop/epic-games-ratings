@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 187,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-08-12T13:00:00+00:00",
@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 43863,
+  "EOS_Progressed": 43864,
   "EOS_Completed": 240,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -17479,6 +17479,11 @@
       "Time": "2023-11-13T12:04:35.9992615+00:00",
       "NumProgressed": 43863,
       "NumCompleted": 240
+    },
+    {
+      "Time": "2023-11-13T13:09:46.8757583+00:00",
+      "NumProgressed": 43864,
+      "NumCompleted": 240
     }
   ],
   "TotalAchievements": 44,
@@ -17610,7 +17615,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 35090
+      "UsersEstimate": 35091
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -17682,7 +17687,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16229
+      "UsersEstimate": 16230
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -17690,7 +17695,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 7895
+      "UsersEstimate": 7896
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -17762,7 +17767,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 29388
+      "UsersEstimate": 29389
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -17794,7 +17799,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 19738
+      "UsersEstimate": 19739
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -17826,7 +17831,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 40793
+      "UsersEstimate": 40794
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -17841,7 +17846,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 43863,
+      "Progressed": 43864,
       "Completed": 240
     }
   ],
@@ -17849,8 +17854,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-08-30T04:00:16.1693203+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:04:35.9992611+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:09:46.8757578+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:17.948951+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:57:34.7396188+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:04:35.9993744+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:03:01.0439696+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:09:46.8758815+00:00"
 }

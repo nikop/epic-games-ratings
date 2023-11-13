@@ -347,9 +347,9 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 17,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "A_SUN",
@@ -418,8 +418,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:03:39.3291422+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:08:58.1725532+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:41.4462946+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:59:53.4474857+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:03:39.3291653+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:04:57.282849+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:08:58.1725812+00:00"
 }

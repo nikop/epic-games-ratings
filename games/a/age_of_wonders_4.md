@@ -10,9 +10,9 @@ Rating: 4.61 (Ranked 384)
 | A Wonderful Discovery | 1.00% | ~54 |
 | Secret Technique | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
+| From Friends to Family | 0.90% | ~48 |
 | Freed Lands of Manuhari | 0.90% | ~48 |
 | Bone Peddler | 0.80% | ~43 |
-| From Friends to Family | 0.80% | ~43 |
 | There Can Only Be One! | 0.70% | ~38 |
 | Full Ascension | 0.70% | ~38 |
 | Stronger Together | 0.60% | ~32 |
@@ -22,6 +22,7 @@ Rating: 4.61 (Ranked 384)
 | Spoils of War | 0.60% | ~32 |
 | In a Liege of Your Own | 0.50% | ~27 |
 | Sehiran Oasis | 0.50% | ~27 |
+| Dawn of the Dread | 0.50% | ~27 |
 | Valley of Wonders | 0.40% | ~22 |
 | Digging for Treasure | 0.40% | ~22 |
 | Impenetrable Fortress | 0.40% | ~22 |
@@ -31,7 +32,6 @@ Rating: 4.61 (Ranked 384)
 | Blood of the Dragon | 0.40% | ~22 |
 | Mighty Hoard | 0.40% | ~22 |
 | Seal the Deal | 0.40% | ~22 |
-| Dawn of the Dread | 0.40% | ~22 |
 | Enchanted Archipelago | 0.30% | ~16 |
 | Preparation Is Everything | 0.30% | ~16 |
 | My Final Form | 0.30% | ~16 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,384 (Ranked 184)  
+Progressed: 5,385 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 7 (0.13%) (Ranked 263)
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
 | 2023-11-12 | 5,383 | 7 |
-| 2023-11-13 | 5,384 | 7 |
+| 2023-11-13 | 5,385 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 482)  
 Sum: 54 (Ranked 474)  

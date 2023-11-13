@@ -4,7 +4,7 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 556,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1645,9 +1645,9 @@
       "ID": "GSS_ACH_08_FUEL_03",
       "SetID": "5fn8ia4",
       "Name": "Fueling Superstar!",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 417
     },
     {
       "ID": "GSS_ACH_09_THROW_01",
@@ -1685,9 +1685,9 @@
       "ID": "GSS_ACH_13_FUEL_SERVE_01",
       "SetID": "5fn8ia4",
       "Name": "So it begins",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 517
     },
     {
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
@@ -1717,9 +1717,9 @@
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
       "SetID": "5fn8ia4",
       "Name": "Trash Collection",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 506
     },
     {
       "ID": "GSS_ACH_18_ALIENS",
@@ -1741,17 +1741,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 495
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 489
+      "UsersEstimate": 495
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -1789,25 +1789,25 @@
       "ID": "GSS_ACH_27_PAINT_01",
       "SetID": "5fn8ia4",
       "Name": "Fresh Coat of Paint",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 500
+      "UsersEstimate": 506
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 445
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
       "SetID": "5fn8ia4",
       "Name": "Looking Smooth",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 423
     },
     {
       "ID": "GSS_ACH_30_TRASH_01",
@@ -1925,9 +1925,9 @@
       "ID": "GSS_ACH_44_CARAVAN_03",
       "SetID": "5fn8ia4",
       "Name": "Business is Thriving",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 67
+      "UsersEstimate": 72
     },
     {
       "ID": "GSS_ACH_45_ORDER_PRODUCTS",
@@ -1949,9 +1949,9 @@
       "ID": "GSS_ACH_47_UPGRADE_STATION_01",
       "SetID": "5fn8ia4",
       "Name": "Station Lvl. 2",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 467
     },
     {
       "ID": "GSS_ACH_48_UPGRADE_STATION_02",
@@ -2013,9 +2013,9 @@
       "ID": "GSS_ACH_55_UPGRADE_WORKSHOP_05",
       "SetID": "5fn8ia4",
       "Name": "Workshop Lvl. 5",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 67
     },
     {
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
@@ -2165,9 +2165,9 @@
       "ID": "GSS_ACH_74_SANDSTORM",
       "SetID": "5fn8ia4",
       "Name": "Sandstorm!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 217
     },
     {
       "ID": "GSS_ACH_75_RACE_02_COMPLETE",
@@ -2244,8 +2244,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:07:10.3024159+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:11:58.5072451+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:17.0856906+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:59:44.2966889+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:07:10.3024904+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:04:49.5623195+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:11:58.5073396+00:00"
 }

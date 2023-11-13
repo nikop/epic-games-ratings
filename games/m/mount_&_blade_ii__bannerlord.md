@@ -6,27 +6,27 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,013 |
-| Landlord | 33.00% | ~21,461 |
-| Horde breaker | 24.00% | ~15,608 |
-| Bannerlord | 23.00% | ~14,957 |
-| Lawmaker | 23.00% | ~14,957 |
-| Trained | 23.00% | ~14,957 |
-| The king is pleased | 19.00% | ~12,356 |
-| King Solomon | 18.00% | ~11,706 |
-| Apple of my eye | 16.00% | ~10,405 |
-| I can do it | 16.00% | ~10,405 |
-| Against all odds | 13.00% | ~8,454 |
-| God of the Arena | 13.00% | ~8,454 |
-| This Is Our Land | 13.00% | ~8,454 |
-| Duelist | 10.00% | ~6,503 |
-| Dynasty | 10.00% | ~6,503 |
-| I spit on your grave | 10.00% | ~6,503 |
-| Swordbearer | 10.00% | ~6,503 |
-| What have the Romans ever done for us? | 10.00% | ~6,503 |
+| Lawbringer | 40.00% | ~26,015 |
+| Landlord | 33.00% | ~21,462 |
+| Horde breaker | 24.00% | ~15,609 |
+| Bannerlord | 23.00% | ~14,959 |
+| Lawmaker | 23.00% | ~14,959 |
+| Trained | 23.00% | ~14,959 |
+| The king is pleased | 19.00% | ~12,357 |
+| King Solomon | 18.00% | ~11,707 |
+| Apple of my eye | 16.00% | ~10,406 |
+| I can do it | 16.00% | ~10,406 |
+| Against all odds | 13.00% | ~8,455 |
+| God of the Arena | 13.00% | ~8,455 |
+| This Is Our Land | 13.00% | ~8,455 |
+| Duelist | 10.00% | ~6,504 |
+| Dynasty | 10.00% | ~6,504 |
+| I spit on your grave | 10.00% | ~6,504 |
+| Swordbearer | 10.00% | ~6,504 |
+| What have the Romans ever done for us? | 10.00% | ~6,504 |
 | Butterlord | 9.00% | ~5,853 |
-| Know your enemy | 7.00% | ~4,552 |
-| Mastery | 7.00% | ~4,552 |
+| Know your enemy | 7.00% | ~4,553 |
+| Mastery | 7.00% | ~4,553 |
 | Crowdfunded | 5.00% | ~3,252 |
 | Crush your enemies | 5.00% | ~3,252 |
 | My way | 5.00% | ~3,252 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,032 (Ranked 103)  
+Progressed: 65,037 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,10 +265,10 @@ Completed: 0 (0.00%) (Ranked 350)
 | 2023-11-10 | 64,847 | 0 |
 | 2023-11-11 | 64,919 | 0 |
 | 2023-11-12 | 65,011 | 0 |
-| 2023-11-13 | 65,032 | 0 |
+| 2023-11-13 | 65,037 | 0 |
 ## Awards
 Max (Character Customization): 7,379  (Ranked 51)  
-Sum: 15,251 (Ranked 67)  
+Sum: 15,252 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): -16
 | This game is Extremely Fun | 868 |
 | This game has Amazing Storytelling | 858 |
 | This game has Amazing Characters | 856 |
-| This game is Relaxing | 852 |
+| This game is Relaxing | 853 |
 | This game has Quickly Understood Controls | 825 |
 | This game has a Creative Community | 635 |
 | This game has Obsessive Gameplay | 376 |
@@ -589,4 +589,4 @@ Diff (max vs sum): -16
 | 2023-11-10 | 4.74 | - | 7,352 | 15,197 |
 | 2023-11-11 | 4.74 | - | 7,364 | 15,221 |
 | 2023-11-12 | 4.74 | - | 7,375 | 15,242 |
-| 2023-11-13 | 4.74 | - | 7,379 | 15,251 |
+| 2023-11-13 | 4.74 | - | 7,379 | 15,252 |

@@ -15092,9 +15092,9 @@
       "Count": 12876
     }
   ],
-  "EOS_Progressed": 896521,
+  "EOS_Progressed": 896532,
   "EOS_Completed": 2773,
-  "EOS_NewPlayers": 1016,
+  "EOS_NewPlayers": 1017,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38552,6 +38552,11 @@
       "Time": "2023-11-13T12:06:22.2434133+00:00",
       "NumProgressed": 896521,
       "NumCompleted": 2773
+    },
+    {
+      "Time": "2023-11-13T13:11:17.394001+00:00",
+      "NumProgressed": 896532,
+      "NumCompleted": 2773
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38594,9 +38599,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4483
+      "UsersEstimate": 5379
     },
     {
       "ID": "FollowingTheRiver",
@@ -39099,21 +39104,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896521,
+      "Progressed": 896532,
       "Completed": 2773
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25144,
-      "Completed": 10218
+      "Progressed": 25155,
+      "Completed": 10219
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-13T12:00:33.6196797+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:06:22.2434128+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:11:17.3940005+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-13T12:00:33.6196803+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:06:22.2435927+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:05:30.6038199+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:11:17.394153+00:00"
 }

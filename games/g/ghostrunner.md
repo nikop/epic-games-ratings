@@ -6,25 +6,25 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,098 |
-| Sword Runner | 61.00% | ~13,723 |
-| Running out of breath | 54.00% | ~12,148 |
-| Wallrunner | 53.00% | ~11,923 |
-| Homerunner | 45.00% | ~10,124 |
-| Out of order | 44.00% | ~9,899 |
-| I call it luck | 43.00% | ~9,674 |
-| Where are my Keys? | 40.00% | ~8,999 |
-| Back to hell | 37.00% | ~8,324 |
-| Perfection | 32.00% | ~7,199 |
-| Why not both | 30.00% | ~6,749 |
-| Sword to a gunfight | 29.00% | ~6,524 |
-| Upgrades not mandatory | 29.00% | ~6,524 |
-| Artificial selection | 28.00% | ~6,299 |
-| Control freak | 27.00% | ~6,074 |
-| Running Wild | 27.00% | ~6,074 |
-| Finish line | 26.00% | ~5,849 |
-| Unstoppable force | 22.00% | ~4,949 |
-| Wave of mutilation | 22.00% | ~4,949 |
+| Longrunner | 76.00% | ~17,099 |
+| Sword Runner | 61.00% | ~13,724 |
+| Running out of breath | 54.00% | ~12,149 |
+| Wallrunner | 53.00% | ~11,924 |
+| Homerunner | 45.00% | ~10,125 |
+| Out of order | 44.00% | ~9,900 |
+| I call it luck | 43.00% | ~9,675 |
+| Where are my Keys? | 40.00% | ~9,000 |
+| Back to hell | 37.00% | ~8,325 |
+| Perfection | 32.00% | ~7,200 |
+| Why not both | 30.00% | ~6,750 |
+| Sword to a gunfight | 29.00% | ~6,525 |
+| Upgrades not mandatory | 29.00% | ~6,525 |
+| Artificial selection | 28.00% | ~6,300 |
+| Control freak | 27.00% | ~6,075 |
+| Running Wild | 27.00% | ~6,075 |
+| Finish line | 26.00% | ~5,850 |
+| Unstoppable force | 22.00% | ~4,950 |
+| Wave of mutilation | 22.00% | ~4,950 |
 | Can't Run Can't Hide | 16.00% | ~3,600 |
 | R is for Running | 16.00% | ~3,600 |
 | Dead in the air | 15.00% | ~3,375 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~90 |
 | Up Close And Personal | 0.40% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,497 (Ranked 128)  
+Progressed: 22,499 (Ranked 128)  
 Completed: 84 (0.37%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 84 (0.37%) (Ranked 218)
 | 2023-11-10 | 22,307 | 83 |
 | 2023-11-11 | 22,383 | 84 |
 | 2023-11-12 | 22,468 | 84 |
-| 2023-11-13 | 22,497 | 84 |
+| 2023-11-13 | 22,499 | 84 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 205)  
 Sum: 749 (Ranked 285)  

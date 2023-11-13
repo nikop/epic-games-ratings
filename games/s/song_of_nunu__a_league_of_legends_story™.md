@@ -19,20 +19,20 @@
 | Boom Things | 52.00% | ~350 |
 | Tear of Freedom | 51.00% | ~344 |
 | My Darkest Day | 48.00% | ~324 |
-| Rhythm Of Willump | 46.00% | ~310 |
+| Rhythm Of Willump | 47.00% | ~317 |
 | The Relentless Storm | 46.00% | ~310 |
 | A Tragic Reminder | 44.00% | ~297 |
-| 3000 Year Blackout | 42.00% | ~283 |
+| 3000 Year Blackout | 43.00% | ~290 |
 | The Finisher | 41.00% | ~276 |
 | True Legends | 40.00% | ~270 |
 | So Close | 39.00% | ~263 |
 | You Get Used To It | 38.00% | ~256 |
+| Bullseye | 36.00% | ~243 |
 | Boosted! | 36.00% | ~243 |
 | Family | 35.00% | ~236 |
 | Biggest Snowball Ever | 35.00% | ~236 |
 | Freeze The Ice Witch | 35.00% | ~236 |
 | On The Rocks | 35.00% | ~236 |
-| Bullseye | 35.00% | ~236 |
 | Deadliest and Biggest Snowball Ever! | 35.00% | ~236 |
 | It Is Not Over | 33.00% | ~222 |
 | Never Gets Old | 32.00% | ~216 |

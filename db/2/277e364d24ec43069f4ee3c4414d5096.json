@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 107,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114068,
+  "EOS_Progressed": 114069,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17769,6 +17769,11 @@
       "Time": "2023-11-13T12:09:10.1258808+00:00",
       "NumProgressed": 114068,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-13T13:14:10.8743446+00:00",
+      "NumProgressed": 114069,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17788,7 +17793,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87832
+      "UsersEstimate": 87833
     },
     {
       "ID": "EAwards_10",
@@ -17796,7 +17801,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12547
+      "UsersEstimate": 12548
     },
     {
       "ID": "EAwards_11",
@@ -17852,7 +17857,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42205
+      "UsersEstimate": 42206
     },
     {
       "ID": "EAwards_18",
@@ -17884,7 +17889,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12547
+      "UsersEstimate": 12548
     },
     {
       "ID": "EAwards_21",
@@ -17908,7 +17913,7 @@
       "Name": "These are not fertilized",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 9125
+      "UsersEstimate": 9126
     },
     {
       "ID": "EAwards_24",
@@ -17932,7 +17937,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12547
+      "UsersEstimate": 12548
     },
     {
       "ID": "EAwards_27",
@@ -18012,7 +18017,7 @@
       "Name": "Nacho Libre",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 9125
+      "UsersEstimate": 9126
     },
     {
       "ID": "EAwards_36",
@@ -18164,14 +18169,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12547
+      "UsersEstimate": 12548
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114068,
+      "Progressed": 114069,
       "Completed": 50
     }
   ],
@@ -18179,8 +18184,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-13T12:09:10.1258806+00:00",
+  "LastChanged_Achievements": "2023-11-13T13:14:10.874344+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:58:03.154236+00:00",
-  "LastUpdate_Achievements": "2023-11-13T12:09:10.1259876+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:03:24.9697375+00:00",
+  "LastUpdate_Achievements": "2023-11-13T13:14:10.874459+00:00"
 }
