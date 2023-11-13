@@ -368,6 +368,7 @@
 | [NHRA Championship Drag Racing - Speed For All](../games/n/nhra_championship_drag_racing_-_speed_for_all.md) | 33 | 1,000 |
 | [Touch Type Tale](../games/t/touch_type_tale.md) | 33 | 1,000 |
 | [ACL Pro Cornhole](../games/9/91bf18cde18b4357807b5c3e964b7e56.md) | 32 | 1,000 |
+| [Asterix and Obelix Slap Them All 2](../games/3/3afeb43f23944b2da7aba1f04ad5756c.md) | 32 | 1,000 |
 | [ATOM RPG Trudograd](../games/a/atom_rpg_trudograd.md) | 32 | 1,000 |
 | [BLACKTAIL](../games/b/blacktail.md) | 32 | 1,000 |
 | [Dolphin Spirit - Ocean Mission](../games/d/dolphin_spirit_-_ocean_mission.md) | 32 | 1,000 |
