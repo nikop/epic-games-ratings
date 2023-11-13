@@ -5,15 +5,15 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,312 |
-| On the Top Step | 87.00% | ~4,969 |
-| Setting up for Success | 76.00% | ~4,341 |
-| Team Orders | 74.00% | ~4,227 |
-| Engineer | 54.00% | ~3,084 |
+| Getting on the Step | 93.00% | ~5,313 |
+| On the Top Step | 87.00% | ~4,970 |
+| Setting up for Success | 76.00% | ~4,342 |
+| Team Orders | 74.00% | ~4,228 |
+| Engineer | 54.00% | ~3,085 |
 | Familiar Faces | 47.00% | ~2,685 |
 | Sharing the Love | 41.00% | ~2,342 |
 | Going the Extra Mile | 41.00% | ~2,342 |
-| Hitting a Season | 35.00% | ~1,999 |
+| Hitting a Season | 35.00% | ~2,000 |
 | A Dozen Pieces | 31.00% | ~1,771 |
 | Challenge Yourself | 31.00% | ~1,771 |
 | Making History | 30.00% | ~1,714 |
@@ -28,11 +28,11 @@ Rating: 4.69 (Ranked 231)
 | Gathering Dust | 15.00% | ~857 |
 | One for the Book | 15.00% | ~857 |
 | Oil and Water | 13.00% | ~743 |
-| Eagle Eye | 12.00% | ~685 |
-| Lightning Round the World | 12.00% | ~685 |
-| Hitting a Bullseye | 12.00% | ~685 |
-| Switcheroo | 12.00% | ~685 |
-| Spinning Around | 12.00% | ~685 |
+| Eagle Eye | 12.00% | ~686 |
+| Lightning Round the World | 12.00% | ~686 |
+| Hitting a Bullseye | 12.00% | ~686 |
+| Switcheroo | 12.00% | ~686 |
+| Spinning Around | 12.00% | ~686 |
 | All in a Weekend's Work | 11.00% | ~628 |
 | Friendly Competition | 11.00% | ~628 |
 | Recycle | 11.00% | ~628 |
@@ -42,7 +42,7 @@ Rating: 4.69 (Ranked 231)
 | Smooth Operator | 6.00% | ~343 |
 | For all Those Back at the Factory | 5.00% | ~286 |
 | Peak Performance | 5.00% | ~286 |
-| Loyal Bond | 4.00% | ~228 |
+| Loyal Bond | 4.00% | ~229 |
 | Seasoned Rookie | 3.00% | ~171 |
 | Hitting a Century | 3.00% | ~171 |
 | Wait, I know you? | 2.00% | ~114 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 231)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,712 (Ranked 181)  
+Progressed: 5,713 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-10 | 5,572 | 0 |
 | 2023-11-11 | 5,656 | 0 |
 | 2023-11-12 | 5,698 | 0 |
-| 2023-11-13 | 5,712 | 0 |
+| 2023-11-13 | 5,713 | 0 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 501)  
 Sum: 48 (Ranked 483)  

@@ -31,8 +31,8 @@
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 14.00% | ~35 |
 | Shame! Shame! Shame! | 14.00% | ~35 |
 | The Cathedral of Light | 13.00% | ~32 |
+| Hungry, Hungry Gorgu! | 11.00% | ~28 |
 | Sacrificial Pit = Garbage Disposal? | 10.00% | ~25 |
-| Hungry, Hungry Gorgu! | 10.00% | ~25 |
 | Tanos' Crusade Against Thalya | 10.00% | ~25 |
 | Forbidden Knowledge | 9.00% | ~22 |
 | Unstoppable Horde | 9.00% | ~22 |
@@ -57,12 +57,12 @@
 | The Rune Sockets of Finitude (Part 1) | 2.00% | ~5 |
 | To Infinity And Beyond! | 2.00% | ~5 |
 | To the Max! | 1.00% | ~2 |
+| The Rune Sockets of Finitude (Part 2) | 1.00% | ~2 |
 | Untouchable | 0.80% | ~2 |
 | No Mana, No Cry | 0.80% | ~2 |
-| The Rune Sockets of Finitude (Part 2) | 0.80% | ~2 |
+| Hands Off My Stones | 0.80% | ~2 |
 | The Last Stand - This Time For Real! | 0.80% | ~2 |
 | Heal Heal Blessing | 0.40% | ~1 |
-| Hands Off My Stones | 0.40% | ~1 |
 | I Don't Need Any Help | 0.40% | ~1 |
 | Evilification | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)

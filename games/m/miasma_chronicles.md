@@ -38,7 +38,7 @@ Rating: 4.43 (Ranked 689)
 | Commando | 17.00% | ~269 |
 | Dr Jones | 17.00% | ~269 |
 | Newtonian Knockout | 17.00% | ~269 |
-| Chaos Theory | 15.00% | ~237 |
+| Chaos Theory | 16.00% | ~253 |
 | Ruthless | 14.00% | ~221 |
 | Side Order | 11.00% | ~174 |
 | Bot Whisperer | 9.00% | ~142 |

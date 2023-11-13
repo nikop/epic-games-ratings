@@ -5,34 +5,34 @@ Rating: 4.80 (Ranked 87)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 93.00% | ~7,561 |
-| I Challenge You To Save More Money! | 88.00% | ~7,154 |
+| Last Night...Did We... | 93.00% | ~7,562 |
+| I Challenge You To Save More Money! | 88.00% | ~7,155 |
 | I Love How Tough You Are | 75.00% | ~6,098 |
 | Wanna Come To My Place For Dinner? | 69.00% | ~5,610 |
-| What I Want Is You | 63.00% | ~5,122 |
-| To Be Or Not To Be | 60.00% | ~4,878 |
-| Love Actually | 50.00% | ~4,065 |
-| Are You Alright? | 50.00% | ~4,065 |
+| What I Want Is You | 63.00% | ~5,123 |
+| To Be Or Not To Be | 60.00% | ~4,879 |
+| Love Actually | 50.00% | ~4,066 |
+| Are You Alright? | 50.00% | ~4,066 |
 | Drama King | 43.00% | ~3,496 |
-| You're Really Something Else | 38.00% | ~3,089 |
+| You're Really Something Else | 38.00% | ~3,090 |
 | Go Clean up In Your Own Way | 37.00% | ~3,008 |
 | Happy Family | 36.00% | ~2,927 |
 | ONE PUNCH | 36.00% | ~2,927 |
 | Worthless Speech | 36.00% | ~2,927 |
 | FIRST LOVE | 35.00% | ~2,846 |
 | Drama CP: Reel to Real | 35.00% | ~2,846 |
-| Absolutely Elegant | 34.00% | ~2,764 |
+| Absolutely Elegant | 34.00% | ~2,765 |
 | Still Single | 33.00% | ~2,683 |
-| Go Get Some Fries On The Pier | 31.00% | ~2,520 |
-| Days Of Innocence | 31.00% | ~2,520 |
+| Go Get Some Fries On The Pier | 31.00% | ~2,521 |
+| Days Of Innocence | 31.00% | ~2,521 |
 | David | 30.00% | ~2,439 |
 | All I Have Is Money | 26.00% | ~2,114 |
 | A Slap In The Face! | 26.00% | ~2,114 |
-| Lover In Dark Alley | 25.00% | ~2,032 |
-| That's So You | 25.00% | ~2,032 |
-| SALUTE | 25.00% | ~2,032 |
+| Lover In Dark Alley | 25.00% | ~2,033 |
+| That's So You | 25.00% | ~2,033 |
+| SALUTE | 25.00% | ~2,033 |
 | Let Me Be Your Toy Boy | 24.00% | ~1,951 |
-| Off We Sail Tonight | 21.00% | ~1,707 |
+| Off We Sail Tonight | 21.00% | ~1,708 |
 | Love You Three Thousand | 16.00% | ~1,301 |
 | Can You Do This Or Not? | 16.00% | ~1,301 |
 | Doesn't Matter I'll Handle It | 14.00% | ~1,138 |
@@ -48,7 +48,7 @@ Rating: 4.80 (Ranked 87)
 | Tall; Grande; Venti | 2.00% | ~163 |
 | Limerence | 2.00% | ~163 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,130 (Ranked 166)  
+Progressed: 8,131 (Ranked 166)  
 Completed: 126 (1.55%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -85,7 +85,7 @@ Completed: 126 (1.55%) (Ranked 136)
 | 2023-11-10 | 7,767 | 120 |
 | 2023-11-11 | 7,917 | 126 |
 | 2023-11-12 | 8,052 | 126 |
-| 2023-11-13 | 8,130 | 126 |
+| 2023-11-13 | 8,131 | 126 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

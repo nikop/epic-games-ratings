@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 540,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 70,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 5.56,
   "EosHistory": [
@@ -2348,9 +2348,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 103
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2531,8 +2531,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:31:28.2452419+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:05:40.6207755+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-13T21:57:55.9517038+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:31:28.2452739+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:57:06.2594702+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:05:40.620796+00:00"
 }

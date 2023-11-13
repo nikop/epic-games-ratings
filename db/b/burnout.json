@@ -4,8 +4,8 @@
   "ProductSlug": "burnout-c041a6",
   "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-02T13:09:34.3909544+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:30:34.696294+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:04:53.5684522+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.2036417+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:21:39.4501108+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:30:34.6962969+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:59:20.135765+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:04:53.5684561+00:00"
 }

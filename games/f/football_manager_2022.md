@@ -9,25 +9,25 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Sheet | 50.00% | ~237,994 |
 | He's Signed! | 50.00% | ~237,994 |
 | First Victory | 50.00% | ~237,994 |
-| He's Sold! | 48.00% | ~228,474 |
+| He's Sold! | 48.00% | ~228,475 |
 | I'm The Boss! | 42.00% | ~199,915 |
 | Hat-trick | 41.00% | ~195,155 |
-| Scoring Streak | 38.00% | ~180,875 |
-| Unbeatable! | 37.00% | ~176,115 |
-| Thumping | 37.00% | ~176,115 |
-| Superb Dressing Room Atmosphere | 35.00% | ~166,595 |
+| Scoring Streak | 38.00% | ~180,876 |
+| Unbeatable! | 37.00% | ~176,116 |
+| Thumping | 37.00% | ~176,116 |
+| Superb Dressing Room Atmosphere | 35.00% | ~166,596 |
 | Total Support | 32.00% | ~152,316 |
 | Record Signing | 32.00% | ~152,316 |
-| He's a Natural | 31.00% | ~147,556 |
-| Millionaire's Club | 31.00% | ~147,556 |
-| Team Performance | 30.00% | ~142,796 |
-| Parked The Bus | 29.00% | ~138,036 |
-| Shrewd Spender | 29.00% | ~138,036 |
-| Star Man | 29.00% | ~138,036 |
-| Attack! | 28.00% | ~133,276 |
-| You're On Fire | 27.00% | ~128,516 |
-| Tremendous Trio | 27.00% | ~128,516 |
-| Record Sale | 27.00% | ~128,516 |
+| He's a Natural | 31.00% | ~147,557 |
+| Millionaire's Club | 31.00% | ~147,557 |
+| Team Performance | 30.00% | ~142,797 |
+| Parked The Bus | 29.00% | ~138,037 |
+| Shrewd Spender | 29.00% | ~138,037 |
+| Star Man | 29.00% | ~138,037 |
+| Attack! | 28.00% | ~133,277 |
+| You're On Fire | 27.00% | ~128,517 |
+| Tremendous Trio | 27.00% | ~128,517 |
+| Record Sale | 27.00% | ~128,517 |
 | On A Roll | 26.00% | ~123,757 |
 | Unstoppable Force | 26.00% | ~123,757 |
 | Armchair Expert | 25.00% | ~118,997 |
@@ -37,12 +37,12 @@ Number of Ratings: 19,160  (23.09.2022)
 | The Boss | 24.00% | ~114,237 |
 | Top Of The Class | 23.00% | ~109,477 |
 | Goal Machine | 23.00% | ~109,477 |
-| Splashing The Cash | 22.00% | ~104,717 |
-| Clean Bill of Health | 22.00% | ~104,717 |
-| What A Goal! | 22.00% | ~104,717 |
-| Cup Glory! | 22.00% | ~104,717 |
-| Irresistible Force | 20.00% | ~95,197 |
-| Excellent Match Cohesion | 20.00% | ~95,197 |
+| Splashing The Cash | 22.00% | ~104,718 |
+| Clean Bill of Health | 22.00% | ~104,718 |
+| What A Goal! | 22.00% | ~104,718 |
+| Cup Glory! | 22.00% | ~104,718 |
+| Irresistible Force | 20.00% | ~95,198 |
+| Excellent Match Cohesion | 20.00% | ~95,198 |
 | Do The Double | 19.00% | ~90,438 |
 | Top Form | 17.00% | ~80,918 |
 | Cash To Burn | 17.00% | ~80,918 |
@@ -52,8 +52,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Window Shopping | 15.00% | ~71,398 |
 | Eyes and Ears | 14.00% | ~66,638 |
 | Comeback King! | 14.00% | ~66,638 |
-| You're Up! | 13.00% | ~61,878 |
-| Money, Money, Money | 12.00% | ~57,118 |
+| You're Up! | 13.00% | ~61,879 |
+| Money, Money, Money | 12.00% | ~57,119 |
 | Invincible! | 11.00% | ~52,359 |
 | Superb Strike | 10.00% | ~47,599 |
 | International Superstar | 10.00% | ~47,599 |
@@ -70,7 +70,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Head-to-Head | 6.00% | ~28,559 |
 | Going Places | 5.00% | ~23,799 |
 | We Trust You | 5.00% | ~23,799 |
-| Trophy Hoarder | 4.00% | ~19,039 |
+| Trophy Hoarder | 4.00% | ~19,040 |
 | National Hero | 3.00% | ~14,280 |
 | Golden Boot | 3.00% | ~14,280 |
 | Freedom Of The Country | 3.00% | ~14,280 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~476 |
 | Shoestring Budget | 0.10% | ~476 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 475,987 (Ranked 39)  
+Progressed: 475,989 (Ranked 39)  
 Completed: 22 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 22 (0.00%) (Ranked 351)
 | 2023-11-10 | 475,782 | 22 |
 | 2023-11-11 | 475,862 | 22 |
 | 2023-11-12 | 475,934 | 22 |
-| 2023-11-13 | 475,987 | 22 |
+| 2023-11-13 | 475,989 | 22 |
 ## Awards
 Max (Relaxing): 6,465  (Ranked 59)  
 Sum: 50,993 (Ranked 28)  

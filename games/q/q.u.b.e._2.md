@@ -6,21 +6,21 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~29,180 |
-| Quick Understanding of Block Extrusion | 68.00% | ~26,457 |
-| Nature or Nurture | 52.00% | ~20,232 |
-| Power Glove | 49.00% | ~19,064 |
-| Forgotten Memories | 42.00% | ~16,341 |
-| Cogs in the Machine | 35.00% | ~13,617 |
-| Mission Success | 22.00% | ~8,560 |
-| There's No Place Like Home | 22.00% | ~8,560 |
-| Green Cube Killer | 19.00% | ~7,392 |
-| Infinity Loop | 16.00% | ~6,225 |
-| Path to Salvation | 16.00% | ~6,225 |
-| Descendants | 14.00% | ~5,447 |
-| The Flawed Teacher | 11.00% | ~4,280 |
-| To Infinity and Beyond | 5.00% | ~1,945 |
-| The Truthful Enemy | 4.00% | ~1,556 |
+| Lost in Space | 75.00% | ~29,186 |
+| Quick Understanding of Block Extrusion | 68.00% | ~26,462 |
+| Nature or Nurture | 52.00% | ~20,236 |
+| Power Glove | 49.00% | ~19,068 |
+| Forgotten Memories | 42.00% | ~16,344 |
+| Cogs in the Machine | 35.00% | ~13,620 |
+| Mission Success | 22.00% | ~8,561 |
+| There's No Place Like Home | 22.00% | ~8,561 |
+| Green Cube Killer | 19.00% | ~7,394 |
+| Infinity Loop | 16.00% | ~6,226 |
+| Path to Salvation | 16.00% | ~6,226 |
+| Descendants | 14.00% | ~5,448 |
+| The Flawed Teacher | 11.00% | ~4,281 |
+| To Infinity and Beyond | 5.00% | ~1,946 |
+| The Truthful Enemy | 4.00% | ~1,557 |
 | Home Stretch | 2.00% | ~778 |
 | Laser Sharp | 2.00% | ~778 |
 | True collector | 1.00% | ~389 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~389 |
 | Expert Collector | 1.00% | ~389 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,907 (Ranked 118)  
+Progressed: 38,915 (Ranked 118)  
 Completed: 150 (0.39%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -120,7 +120,7 @@ Completed: 150 (0.39%) (Ranked 212)
 | 2023-11-10 | 38,200 | 138 |
 | 2023-11-11 | 38,483 | 141 |
 | 2023-11-12 | 38,752 | 146 |
-| 2023-11-13 | 38,907 | 150 |
+| 2023-11-13 | 38,915 | 150 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
     "PcReleaseDate": "2018-11-09T16:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 19707,
+  "EOS_Progressed": 19709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1419,
+  "EOS_NewPlayers": 1415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6448,6 +6448,11 @@
       "Time": "2023-11-13T22:34:06.203415+00:00",
       "NumProgressed": 19707,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T23:08:26.9026392+00:00",
+      "NumProgressed": 19709,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -6460,7 +6465,7 @@
       "Name": "Storyteller",
       "Percentage": 7,
       "XP": 85,
-      "UsersEstimate": 1379
+      "UsersEstimate": 1380
     },
     {
       "ID": "achievement_10",
@@ -6492,7 +6497,7 @@
       "Name": "Grim Reaper",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 14583
+      "UsersEstimate": 14585
     },
     {
       "ID": "achievement_14",
@@ -6500,7 +6505,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 8277
+      "UsersEstimate": 8278
     },
     {
       "ID": "achievement_15",
@@ -6508,7 +6513,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 10445
+      "UsersEstimate": 10446
     },
     {
       "ID": "achievement_16",
@@ -6516,7 +6521,7 @@
       "Name": "Heads Down",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 14189
+      "UsersEstimate": 14190
     },
     {
       "ID": "achievement_17",
@@ -6532,7 +6537,7 @@
       "Name": "Eager Beaver",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 9065
+      "UsersEstimate": 9066
     },
     {
       "ID": "achievement_19",
@@ -6556,7 +6561,7 @@
       "Name": "Last Man Standing",
       "Percentage": 92,
       "XP": 15,
-      "UsersEstimate": 18130
+      "UsersEstimate": 18132
     },
     {
       "ID": "achievement_21",
@@ -6564,7 +6569,7 @@
       "Name": "Not On My Watch",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 13598
+      "UsersEstimate": 13599
     },
     {
       "ID": "achievement_3",
@@ -6612,7 +6617,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 14386
+      "UsersEstimate": 14388
     },
     {
       "ID": "achievement_9",
@@ -6627,13 +6632,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 19707,
+      "Progressed": 19709,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:34:06.2034146+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:08:26.9026347+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.7937389+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:10:48.0272222+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:34:06.2034809+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:58:12.8030126+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:08:26.902672+00:00"
 }

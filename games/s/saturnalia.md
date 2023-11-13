@@ -5,8 +5,8 @@ Rating: 4.26 (Ranked 868)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bonfire Lit | 4.00% | ~2,729 |
-| Out of Shape | 4.00% | ~2,729 |
+| Bonfire Lit | 4.00% | ~2,730 |
+| Out of Shape | 4.00% | ~2,730 |
 | Survival Expert | 3.00% | ~2,047 |
 | Denial | 2.00% | ~1,365 |
 | Acceptance | 2.00% | ~1,365 |
@@ -26,7 +26,7 @@ Rating: 4.26 (Ranked 868)
 | Are you still there? | 0.40% | ~273 |
 | Ear Ringing | 0.10% | ~68 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,236 (Ranked 100)  
+Progressed: 68,238 (Ranked 100)  
 Completed: 18 (0.03%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,7 +233,7 @@ Completed: 18 (0.03%) (Ranked 314)
 | 2023-11-10 | 68,071 | 18 |
 | 2023-11-11 | 68,134 | 18 |
 | 2023-11-12 | 68,189 | 18 |
-| 2023-11-13 | 68,236 | 18 |
+| 2023-11-13 | 68,238 | 18 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

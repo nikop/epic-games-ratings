@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -643,9 +643,9 @@
       "ID": "DesolateIsland",
       "SetID": "1n308hc",
       "Name": "Desolate Island",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 38
     },
     {
       "ID": "Discovery",
@@ -659,9 +659,9 @@
       "ID": "EasternWetlands",
       "SetID": "1n308hc",
       "Name": "Eastern Wetlands",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 41
     },
     {
       "ID": "EcstaticTruth",
@@ -755,9 +755,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 75
+      "UsersEstimate": 78
     },
     {
       "ID": "Mnemosyne",
@@ -899,9 +899,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 128
+      "UsersEstimate": 131
     },
     {
       "ID": "TextAdventurer",
@@ -1036,8 +1036,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-13T18:58:27.0695865+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:29:20.6176609+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:03:49.0454046+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:07:44.4269776+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:29:20.6177339+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:57:56.5100895+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:03:49.0454517+00:00"
 }

@@ -7,22 +7,22 @@ Number of Ratings: 7,683  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 75.00% | ~38,698 |
-| I read Shakespeare and stuff | 64.00% | ~33,022 |
-| Just a sprinkle | 62.00% | ~31,990 |
-| I'm stumped | 61.00% | ~31,474 |
-| Plant get enough | 60.00% | ~30,958 |
-| This is just my weekend vehicle | 58.00% | ~29,926 |
-| It's just the beginning | 58.00% | ~29,926 |
-| Hard work pays off | 53.00% | ~27,346 |
-| It's never too late to farm | 51.00% | ~26,314 |
+| I read Shakespeare and stuff | 64.00% | ~33,023 |
+| Just a sprinkle | 62.00% | ~31,991 |
+| I'm stumped | 61.00% | ~31,475 |
+| Plant get enough | 60.00% | ~30,959 |
+| This is just my weekend vehicle | 58.00% | ~29,927 |
+| It's just the beginning | 58.00% | ~29,927 |
+| Hard work pays off | 53.00% | ~27,347 |
+| It's never too late to farm | 51.00% | ~26,315 |
 | All out of Land | 45.00% | ~23,219 |
 | Field Trip | 44.00% | ~22,703 |
 | I like to switch it up | 40.00% | ~20,639 |
 | Help me to help you | 38.00% | ~19,607 |
 | Ultimutt Pawesomeness | 28.00% | ~14,447 |
 | Van Gogh | 26.00% | ~13,415 |
-| You wood not believe it | 22.00% | ~11,351 |
-| Vehicle fleet | 22.00% | ~11,351 |
+| You wood not believe it | 22.00% | ~11,352 |
+| Vehicle fleet | 22.00% | ~11,352 |
 | The plot thickens | 16.00% | ~8,256 |
 | Large-scale supplier | 16.00% | ~8,256 |
 | Well-Oiled Machine | 16.00% | ~8,256 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~206 |
 | Raisin the stakes | 0.30% | ~155 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,597 (Ranked 110)  
+Progressed: 51,598 (Ranked 110)  
 Completed: 6 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 6 (0.01%) (Ranked 329)
 | 2023-11-10 | 51,406 | 6 |
 | 2023-11-11 | 51,473 | 6 |
 | 2023-11-12 | 51,549 | 6 |
-| 2023-11-13 | 51,597 | 6 |
+| 2023-11-13 | 51,598 | 6 |
 ## Awards
 Max (Great for Beginners): 5,483  (Ranked 69)  
 Sum: 42,599 (Ranked 33)  

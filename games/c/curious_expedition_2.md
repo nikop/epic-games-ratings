@@ -59,8 +59,8 @@ Number of Ratings: 20  (23.09.2022)
 | Frugal | 4.00% | ~14 |
 | Lunatic | 3.00% | ~10 |
 | A Perfect Map | 3.00% | ~10 |
+| Look Ma, No Equipment! | 3.00% | ~10 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~10 |
-| Look Ma, No Equipment! | 2.00% | ~7 |
 | Abominable Hunger | 0.90% | ~3 |
 | Everything is FINE... | 0.90% | ~3 |
 | Pacifism Ain't Easy | 0.90% | ~3 |

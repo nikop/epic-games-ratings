@@ -1,7 +1,7 @@
 # Chicory: A Colorful Tale
 [Store](https://store.epicgames.com/en-US/p/chicory-a-colorful-tale)  
 [View Rawdata](../../db/c/chicory__a_colorful_tale.json)  
-Rating: 4.76 (Ranked 125)  
+Rating: 4.77 (Ranked 116)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -12,3 +12,4 @@ Rating: 4.76 (Ranked 125)
 | 2023-03-31 | 4.74 | 0 | 0 |
 | 2023-05-21 | 4.75 | 0 | 0 |
 | 2023-05-29 | 4.76 | 0 | 0 |
+| 2023-11-13 | 4.77 | 0 | 0 |

@@ -16,8 +16,8 @@ Rating: 4.61 (Ranked 384)
 | There Can Only Be One! | 0.70% | ~38 |
 | Full Ascension | 0.70% | ~38 |
 | Magical Synergy | 0.70% | ~38 |
+| Seat of Power | 0.70% | ~38 |
 | Stronger Together | 0.60% | ~32 |
-| Seat of Power | 0.60% | ~32 |
 | In a Liege of Your Own | 0.60% | ~32 |
 | Chaos Surge | 0.60% | ~32 |
 | Spoils of War | 0.60% | ~32 |

@@ -8161,9 +8161,9 @@
       "Count": 636
     }
   ],
-  "EOS_Progressed": 544330,
+  "EOS_Progressed": 544331,
   "EOS_Completed": 2125,
-  "EOS_NewPlayers": 1456,
+  "EOS_NewPlayers": 1450,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -31801,6 +31801,11 @@
       "Time": "2023-11-13T22:33:00.6760158+00:00",
       "NumProgressed": 544330,
       "NumCompleted": 2125
+    },
+    {
+      "Time": "2023-11-13T23:07:56.4351192+00:00",
+      "NumProgressed": 544331,
+      "NumCompleted": 2125
     }
   ],
   "TotalAchievements": 63,
@@ -31820,7 +31825,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 500784
+      "UsersEstimate": 500785
     },
     {
       "ID": "10",
@@ -31836,7 +31841,7 @@
       "Name": "I\u0027m Your Die-Hardman",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 114309
+      "UsersEstimate": 114310
     },
     {
       "ID": "12",
@@ -31844,7 +31849,7 @@
       "Name": "Bring Back My Baby",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 114309
+      "UsersEstimate": 114310
     },
     {
       "ID": "13",
@@ -31852,7 +31857,7 @@
       "Name": "She\u0027s waiting for you on the Beach.",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 114309
+      "UsersEstimate": 114310
     },
     {
       "ID": "14",
@@ -31908,7 +31913,7 @@
       "Name": "Rebuilding America",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 435464
+      "UsersEstimate": 435465
     },
     {
       "ID": "20",
@@ -31916,7 +31921,7 @@
       "Name": "A Helping Hand",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27216
+      "UsersEstimate": 27217
     },
     {
       "ID": "21",
@@ -31948,7 +31953,7 @@
       "Name": "A New Day for the UCA",
       "Percentage": 71,
       "XP": 10,
-      "UsersEstimate": 386474
+      "UsersEstimate": 386475
     },
     {
       "ID": "25",
@@ -31980,7 +31985,7 @@
       "Name": "Like and Be Liked",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 419134
+      "UsersEstimate": 419135
     },
     {
       "ID": "29",
@@ -31988,7 +31993,7 @@
       "Name": "The People\u0027s Porter",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 310268
+      "UsersEstimate": 310269
     },
     {
       "ID": "3",
@@ -31996,7 +32001,7 @@
       "Name": "We Need You",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 244948
+      "UsersEstimate": 244949
     },
     {
       "ID": "30",
@@ -32012,7 +32017,7 @@
       "Name": "Good Samaritan",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 489897
+      "UsersEstimate": 489898
     },
     {
       "ID": "32",
@@ -32036,7 +32041,7 @@
       "Name": "A Thirst for Knowledge",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 261278
+      "UsersEstimate": 261279
     },
     {
       "ID": "35",
@@ -32052,7 +32057,7 @@
       "Name": "The Custom Kid",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 332041
+      "UsersEstimate": 332042
     },
     {
       "ID": "37",
@@ -32060,7 +32065,7 @@
       "Name": "Soak and Sigh",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 136082
+      "UsersEstimate": 136083
     },
     {
       "ID": "38",
@@ -32076,7 +32081,7 @@
       "Name": "The Past Guides the Present",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 27216
+      "UsersEstimate": 27217
     },
     {
       "ID": "4",
@@ -32108,7 +32113,7 @@
       "Name": "A Baby Blessing",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 353814
+      "UsersEstimate": 353815
     },
     {
       "ID": "43",
@@ -32116,7 +32121,7 @@
       "Name": "Prominent Porter",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 353814
+      "UsersEstimate": 353815
     },
     {
       "ID": "44",
@@ -32132,7 +32137,7 @@
       "Name": "Catcher Crusher",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 244948
+      "UsersEstimate": 244949
     },
     {
       "ID": "46",
@@ -32140,7 +32145,7 @@
       "Name": "Snooze \u0027n\u0027 Soothe",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 261278
+      "UsersEstimate": 261279
     },
     {
       "ID": "47",
@@ -32164,7 +32169,7 @@
       "Name": "Pumped Porter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 152412
+      "UsersEstimate": 152413
     },
     {
       "ID": "5",
@@ -32212,7 +32217,7 @@
       "Name": "Sleep Tight, Little BB",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 239505
+      "UsersEstimate": 239506
     },
     {
       "ID": "55",
@@ -32220,7 +32225,7 @@
       "Name": "A Shout in the Dark",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 272165
+      "UsersEstimate": 272166
     },
     {
       "ID": "56",
@@ -32260,7 +32265,7 @@
       "Name": "We\u0027re Whole Again",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 152412
+      "UsersEstimate": 152413
     },
     {
       "ID": "60",
@@ -32276,7 +32281,7 @@
       "Name": "Building Bridges",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 348371
+      "UsersEstimate": 348372
     },
     {
       "ID": "62",
@@ -32315,15 +32320,15 @@
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 544330,
+      "Progressed": 544331,
       "Completed": 2125
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2023-11-13T21:01:00.861349+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:33:00.6760154+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:07:56.4351184+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.1543271+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:21:20.7959054+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:33:00.6762215+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:59:18.3050998+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:07:56.4353318+00:00"
 }

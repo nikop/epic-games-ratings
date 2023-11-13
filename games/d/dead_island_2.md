@@ -5,9 +5,9 @@ Rating: 4.54 (Ranked 522)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~872 |
-| Whatever It Takes | 2.00% | ~872 |
-| Pork Chopped | 2.00% | ~872 |
+| One of Us | 2.00% | ~873 |
+| Whatever It Takes | 2.00% | ~873 |
+| Pork Chopped | 2.00% | ~873 |
 | Welcome To Hell-A | 0.90% | ~6,463 |
 | Break A Leg | 0.80% | ~5,745 |
 | Hotel California | 0.80% | ~5,745 |
@@ -19,12 +19,12 @@ Rating: 4.54 (Ranked 522)
 | Friends Like These | 0.70% | ~5,027 |
 | Apex Predator | 0.70% | ~5,027 |
 | Personal Assistant Personally Assisted | 0.70% | ~5,027 |
-| Anger Management | 0.60% | ~4,308 |
-| But Doctor, I am Butcho | 0.60% | ~4,308 |
-| Can't Handle the Truth | 0.60% | ~4,308 |
-| Like Riding a Bike | 0.60% | ~4,308 |
-| Stacking the Deck | 0.60% | ~4,308 |
-| This is My Weapon | 0.60% | ~4,308 |
+| Anger Management | 0.60% | ~4,309 |
+| But Doctor, I am Butcho | 0.60% | ~4,309 |
+| Can't Handle the Truth | 0.60% | ~4,309 |
+| Like Riding a Bike | 0.60% | ~4,309 |
+| Stacking the Deck | 0.60% | ~4,309 |
+| This is My Weapon | 0.60% | ~4,309 |
 | Perks of the Job | 0.50% | ~3,590 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,590 |
 | Slayer Squad | 0.50% | ~3,590 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,081 (Ranked 20)  
+Progressed: 718,089 (Ranked 20)  
 Completed: 2,387 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,387 (0.33%) (Ranked 223)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 718,081 | 2,387 |
+| 2023-11-13 | 718,089 | 2,387 |
 ## Awards
 Max (Great Boss Battles): 7,413  (Ranked 51)  
 Sum: 11,268 (Ranked 85)  

@@ -6,7 +6,7 @@ Number of Ratings: 7,669  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 41.00% | ~4,989 |
+| Bye Bye | 41.00% | ~4,990 |
 | It's a good start | 10.00% | ~1,217 |
 | Bonjour! | 7.00% | ~852 |
 | Quack | 7.00% | ~852 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Big deals | 0.10% | ~12 |
 | Master Winemaker | 0.10% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 12,169 (Ranked 152)  
+Progressed: 12,170 (Ranked 152)  
 Completed: 10 (0.08%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,7 +118,7 @@ Completed: 10 (0.08%) (Ranked 288)
 | 2023-11-10 | 11,769 | 10 |
 | 2023-11-11 | 11,914 | 10 |
 | 2023-11-12 | 12,064 | 10 |
-| 2023-11-13 | 12,169 | 10 |
+| 2023-11-13 | 12,170 | 10 |
 ## Awards
 Max (Relaxing): 206  (Ranked 285)  
 Sum: 1,725 (Ranked 219)  

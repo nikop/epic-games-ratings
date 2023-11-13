@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 100,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68236,
+  "EOS_Progressed": 68238,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14958,6 +14958,11 @@
       "Time": "2023-11-13T22:31:09.46341+00:00",
       "NumProgressed": 68236,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-13T23:05:24.0849873+00:00",
+      "NumProgressed": 68238,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -14977,7 +14982,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -15105,7 +15110,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2729
+      "UsersEstimate": 2730
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -15128,7 +15133,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 68236,
+      "Progressed": 68238,
       "Completed": 18
     }
   ],
@@ -15136,8 +15141,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:31:09.4634095+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:05:24.084987+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:17.1374878+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:19:53.6984864+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:31:09.4635505+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:59:07.1221314+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:05:24.0850752+00:00"
 }

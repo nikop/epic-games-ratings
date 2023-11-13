@@ -4,8 +4,8 @@
   "ProductSlug": "outbreak-devious-beginnings-5c0af8",
   "Ranking_EOS_Progress": 629,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-25T14:00:00+00:00",
     "PcReleaseDate": "2023-10-25T14:00:00+00:00",
@@ -115,9 +115,9 @@
       "ID": "THEYRE_ENDLESS_ACH",
       "SetID": "8i8pmkm",
       "Name": "They\u0027re Endless!",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "THE_BEGINNING_OF_THE_END_ACH",
@@ -162,8 +162,8 @@
   ],
   "FirstSeen": "2023-10-26T23:59:41.2750505+00:00",
   "FirstSeenAchievements": "2023-10-18T22:15:21.2446636+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:29:06.1844093+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:03:36.4399031+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:40.6194343+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:17:28.4226299+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:29:06.184419+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:58:53.5399542+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:03:36.4399105+00:00"
 }

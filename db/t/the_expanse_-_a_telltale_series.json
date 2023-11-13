@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -217,9 +217,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14931,
+  "EOS_Progressed": 14936,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 217,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
@@ -11172,6 +11172,11 @@
       "Time": "2023-11-13T22:30:36.6178194+00:00",
       "NumProgressed": 14931,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-13T23:04:55.2074864+00:00",
+      "NumProgressed": 14936,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11216,7 +11221,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "14",
@@ -11382,9 +11387,9 @@
       "ID": "5",
       "SetID": "458bbdk",
       "Name": "Data Master",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 119
+      "UsersEstimate": 105
     },
     {
       "ID": "6",
@@ -11440,7 +11445,7 @@
       "Name": "Zen Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "34",
@@ -11463,22 +11468,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14931,
+      "Progressed": 14936,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 885,
-      "Completed": 552
+      "Progressed": 890,
+      "Completed": 553
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:30:36.617819+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:04:55.2074861+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:24:58.4273162+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:30:36.6179424+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:59:43.0346046+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:04:55.2075585+00:00"
 }

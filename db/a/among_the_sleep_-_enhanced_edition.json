@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 33,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -488,9 +488,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92588,
+  "EOS_Progressed": 92591,
   "EOS_Completed": 420,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 709,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -23563,6 +23563,11 @@
       "Time": "2023-11-13T22:28:10.6189783+00:00",
       "NumProgressed": 92588,
       "NumCompleted": 420
+    },
+    {
+      "Time": "2023-11-13T23:02:48.3653757+00:00",
+      "NumProgressed": 92591,
+      "NumCompleted": 420
     }
   ],
   "TotalAchievements": 10,
@@ -23574,7 +23579,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4629
+      "UsersEstimate": 4630
     },
     {
       "ID": "Drawings01",
@@ -23638,7 +23643,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32406
+      "UsersEstimate": 32407
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -23653,15 +23658,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 92588,
+      "Progressed": 92591,
       "Completed": 420
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2023-10-29T15:00:28.7354435+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:28:10.6189774+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:02:48.3653754+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:49.6004285+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:27:03.7335804+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:28:10.6208817+00:00"
+  "LastUpdate_Ratings": "2023-11-13T23:02:26.4800357+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:02:48.3655386+00:00"
 }

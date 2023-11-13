@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 75,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129673,
+  "EOS_Progressed": 129674,
   "EOS_Completed": 1110,
-  "EOS_NewPlayers": 1082,
+  "EOS_NewPlayers": 1077,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -23877,6 +23877,11 @@
       "Time": "2023-11-13T22:30:12.3122286+00:00",
       "NumProgressed": 129673,
       "NumCompleted": 1110
+    },
+    {
+      "Time": "2023-11-13T23:04:33.5735759+00:00",
+      "NumProgressed": 129674,
+      "NumCompleted": 1110
     }
   ],
   "TotalAchievements": 34,
@@ -23896,7 +23901,7 @@
       "Name": "The only thing I have now",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 22044
+      "UsersEstimate": 22045
     },
     {
       "ID": "ACH_GAME_JOURNAL1",
@@ -23944,7 +23949,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 103738
+      "UsersEstimate": 103739
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -23968,7 +23973,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 36308
+      "UsersEstimate": 36309
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -23976,7 +23981,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 50572
+      "UsersEstimate": 50573
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -24008,7 +24013,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 27231
+      "UsersEstimate": 27232
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -24064,7 +24069,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 36308
+      "UsersEstimate": 36309
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -24150,16 +24155,16 @@
       "ID": "ACH_L06_TEMPLE_OBJ",
       "SetID": "agbm7mn",
       "Name": "Candid Photo",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 5187
+      "UsersEstimate": 6484
     }
   ],
   "AchievementSets": [
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 129673,
+      "Progressed": 129674,
       "Completed": 1110
     }
   ],
@@ -24167,8 +24172,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:30:12.312228+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:04:33.5735755+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:26.6624381+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:03:17.6488247+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:30:12.3123969+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:57:36.1604783+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:04:33.5737189+00:00"
 }

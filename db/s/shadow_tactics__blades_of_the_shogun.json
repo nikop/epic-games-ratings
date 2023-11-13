@@ -1928,10 +1928,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4839,
       "NumberOfAwardsMax": 573
+    },
+    {
+      "Time": "2023-11-13T22:58:39.6120062+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4840,
+      "NumberOfAwardsMax": 573
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4839,
+  "NumberOfAwards": 4840,
   "NumberOfAwardsMax": 573,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1987,7 +1993,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 490
+      "Count": 491
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2002,9 +2008,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 213617,
+  "EOS_Progressed": 213621,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1307,
+  "EOS_NewPlayers": 1305,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25697,6 +25703,11 @@
       "Time": "2023-11-13T22:29:29.0826238+00:00",
       "NumProgressed": 213617,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-13T23:03:56.4377184+00:00",
+      "NumProgressed": 213621,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -25780,7 +25791,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 25634
+      "UsersEstimate": 25635
     },
     {
       "ID": "HappyLittleAccidents",
@@ -25924,7 +25935,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17089
+      "UsersEstimate": 17090
     },
     {
       "ID": "Rollin",
@@ -25956,7 +25967,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17089
+      "UsersEstimate": 17090
     },
     {
       "ID": "TanukiTime",
@@ -26059,15 +26070,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 213617,
+      "Progressed": 213621,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2023-11-13T20:59:56.4441945+00:00",
-  "LastChanged_Achievements": "2023-11-13T22:29:29.0826233+00:00",
+  "LastChanged": "2023-11-13T22:58:39.612006+00:00",
+  "LastChanged_Achievements": "2023-11-13T23:03:56.437718+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.7843391+00:00",
-  "LastUpdate_Ratings": "2023-11-13T22:15:16.9320986+00:00",
-  "LastUpdate_Achievements": "2023-11-13T22:29:29.0828469+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:58:39.6120066+00:00",
+  "LastUpdate_Achievements": "2023-11-13T23:03:56.4378568+00:00"
 }
