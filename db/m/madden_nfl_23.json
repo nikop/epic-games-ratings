@@ -799,7 +799,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3419,
+  "EOS_Progressed": 3420,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 0,
@@ -5294,6 +5294,11 @@
       "Time": "2023-11-13T20:03:11.1636605+00:00",
       "NumProgressed": 3419,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T21:04:03.3317783+00:00",
+      "NumProgressed": 3420,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5314,7 +5319,7 @@
       "Name": "Bragging Rights",
       "Percentage": 55,
       "XP": 90,
-      "UsersEstimate": 1880
+      "UsersEstimate": 1881
     },
     {
       "ID": "achievement_11",
@@ -5338,7 +5343,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "achievement_14",
@@ -5346,7 +5351,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "achievement_15",
@@ -5354,7 +5359,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "achievement_16",
@@ -5473,7 +5478,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3419,
+      "Progressed": 3420,
       "Completed": 0
     }
   ],
@@ -5481,8 +5486,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-11T13:58:50.4218605+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:03:11.1636602+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:04:03.3317779+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.6748405+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:59:15.3985975+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:03:11.1637232+00:00"
+  "LastUpdate_Ratings": "2023-11-13T21:00:40.7627286+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:04:03.3318126+00:00"
 }

@@ -15,6 +15,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 6.00% | ~1,038 |
 | The Scarlet Orchard | 6.00% | ~1,038 |
 | Ancient Battleground | 5.00% | ~865 |
+| Sparkdew Crystals | 5.00% | ~865 |
 | Royal Outpost | 5.00% | ~865 |
 | Lost Colonies | 5.00% | ~865 |
 | Watchtower | 5.00% | ~865 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Ruined Armory | 4.00% | ~692 |
 | Bandit Camp | 4.00% | ~692 |
 | Barren Lands | 4.00% | ~692 |
-| Sparkdew Crystals | 4.00% | ~692 |
 | Haunted Forest | 4.00% | ~692 |
 | Levitating Monument | 4.00% | ~692 |
 | Flooded Mines | 4.00% | ~692 |

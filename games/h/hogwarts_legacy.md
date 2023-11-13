@@ -6,8 +6,8 @@ Rating: 4.76 (Ranked 125)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 16.00% | ~48,324 |
-| First Class Student | 14.00% | ~42,283 |
-| Troll with the Punches | 14.00% | ~42,283 |
+| First Class Student | 14.00% | ~42,284 |
+| Troll with the Punches | 14.00% | ~42,284 |
 | A Keen Sense of Spell | 13.00% | ~39,263 |
 | A Talent for Spending | 12.00% | ~36,243 |
 | That's a Keeper | 12.00% | ~36,243 |
@@ -26,10 +26,10 @@ Rating: 4.76 (Ranked 125)
 | Beast Friends | 8.00% | ~24,162 |
 | A Sallow Grave | 8.00% | ~24,162 |
 | Flight the Good Flight | 8.00% | ~24,162 |
-| The Seeker of Knowledge | 6.00% | ~18,121 |
-| The Root of the Problem | 6.00% | ~18,121 |
-| Third Time's a Charm | 6.00% | ~18,121 |
-| Raising Expectations | 6.00% | ~18,121 |
+| The Seeker of Knowledge | 6.00% | ~18,122 |
+| The Root of the Problem | 6.00% | ~18,122 |
+| Third Time's a Charm | 6.00% | ~18,122 |
+| Raising Expectations | 6.00% | ~18,122 |
 | The Toast of the Town | 5.00% | ~15,101 |
 | The Gryffindor in the Graveyard | 5.00% | ~15,101 |
 | The Ends Petrify the Means | 5.00% | ~15,101 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,023 (Ranked 50)  
+Progressed: 302,025 (Ranked 50)  
 Completed: 510 (0.17%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,20 +258,20 @@ Completed: 510 (0.17%) (Ranked 257)
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
 | 2023-11-12 | 301,983 | 510 |
-| 2023-11-13 | 302,023 | 510 |
+| 2023-11-13 | 302,025 | 510 |
 ## Awards
 Max (Character Customization): 24,259  (Ranked 17)  
-Sum: 48,061 (Ranked 30)  
+Sum: 48,072 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,259 |
 | This game has Great Boss Battles | 12,316 |
 | This game is Great for Beginners | 1,292 |
+| This game has Diverse Characters | 1,244 |
 | This game has Amazing Storytelling | 1,244 |
-| This game has Diverse Characters | 1,237 |
 | This game is Extremely Fun | 1,226 |
-| This game is Relaxing | 1,216 |
+| This game is Relaxing | 1,220 |
 | This game has Amazing Characters | 1,201 |
 | This game is Highly Recommended | 1,164 |
 | This game has Quickly Understood Controls | 1,100 |
@@ -514,4 +514,4 @@ Diff (max vs sum): -13
 | 2023-11-10 | 4.76 | 24,162 | 47,810 |
 | 2023-11-11 | 4.76 | 24,188 | 47,880 |
 | 2023-11-12 | 4.76 | 24,229 | 47,981 |
-| 2023-11-13 | 4.76 | 24,259 | 48,061 |
+| 2023-11-13 | 4.76 | 24,259 | 48,072 |

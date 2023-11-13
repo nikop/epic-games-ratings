@@ -5,9 +5,9 @@
   "Ranking_Rating": 504,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 308,
+  "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 463,
+  "EOS_Progressed": 464,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.3,
+  "EOS_Completed_Percentage": 1.29,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -610,6 +610,11 @@
       "Time": "2023-11-13T19:06:53.8017471+00:00",
       "NumProgressed": 463,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-13T21:07:47.9468488+00:00",
+      "NumProgressed": 464,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -621,7 +626,7 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "dep4_achievement_10",
@@ -661,7 +666,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "dep4_achievement_15",
@@ -691,9 +696,9 @@
       "ID": "dep4_achievement_18",
       "SetID": "5d32b60",
       "Name": "Chunky",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 232
     },
     {
       "ID": "dep4_achievement_19",
@@ -709,7 +714,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "dep4_achievement_20",
@@ -725,7 +730,7 @@
       "Name": "Photo Friend",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "dep4_achievement_22",
@@ -765,7 +770,7 @@
       "Name": "Scaffolding Expert",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "dep4_achievement_27",
@@ -779,9 +784,9 @@
       "ID": "dep4_achievement_28",
       "SetID": "5d32b60",
       "Name": "Kuvaq Minigame-Master",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 287
+      "UsersEstimate": 283
     },
     {
       "ID": "dep4_achievement_29",
@@ -797,7 +802,7 @@
       "Name": "Burn, Elysium, burn!",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "dep4_achievement_30",
@@ -811,9 +816,9 @@
       "ID": "dep4_achievement_31",
       "SetID": "5d32b60",
       "Name": "Goat Team",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "dep4_achievement_32",
@@ -861,7 +866,7 @@
       "Name": "Funtime\u0027s over",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "dep4_achievement_5",
@@ -908,7 +913,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 463,
+      "Progressed": 464,
       "Completed": 6
     }
   ],
@@ -916,8 +921,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:05:52.4967594+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:07:47.946848+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.983403+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:58:50.3988725+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:05:52.496787+00:00"
+  "LastUpdate_Ratings": "2023-11-13T21:00:04.5201899+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:07:47.9468753+00:00"
 }

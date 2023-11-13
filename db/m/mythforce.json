@@ -770,9 +770,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4847,
+  "EOS_Progressed": 4849,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 146,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9200,6 +9200,11 @@
       "Time": "2023-11-13T20:09:11.6425496+00:00",
       "NumProgressed": 4847,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-13T21:10:18.2357858+00:00",
+      "NumProgressed": 4849,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -9300,7 +9305,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -9324,7 +9329,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -9348,7 +9353,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -9364,7 +9369,7 @@
       "Name": "Spending Spree",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -9380,7 +9385,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1163
+      "UsersEstimate": 1164
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -9395,15 +9400,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 4847,
+      "Progressed": 4849,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2023-11-05T16:00:59.4780745+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:09:11.6425493+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:10:18.2357853+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.8556461+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:58:09.5280134+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:09:11.6426152+00:00"
+  "LastUpdate_Ratings": "2023-11-13T20:59:05.2151107+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:10:18.2358516+00:00"
 }

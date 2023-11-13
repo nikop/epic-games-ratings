@@ -8,7 +8,7 @@ Rating: 4.54 (Ranked 522)
 | One of Us | 2.00% | ~872 |
 | Whatever It Takes | 2.00% | ~872 |
 | Pork Chopped | 2.00% | ~872 |
-| Welcome To Hell-A | 0.90% | ~6,462 |
+| Welcome To Hell-A | 0.90% | ~6,463 |
 | Break A Leg | 0.80% | ~5,744 |
 | Hotel California | 0.80% | ~5,744 |
 | Git Gutte! | 0.70% | ~5,026 |
@@ -31,12 +31,12 @@ Rating: 4.54 (Ranked 522)
 | Zombologist | 0.50% | ~3,590 |
 | Ooh, Shiny! | 0.50% | ~3,590 |
 | A Patton Emerges | 0.50% | ~3,590 |
+| I Am the Resurrection | 0.50% | ~3,590 |
 | Max Headroom | 0.50% | ~3,590 |
 | Our True Nature | 0.50% | ~3,590 |
 | Making Your Mark | 0.40% | ~2,872 |
 | Not Even My Final Form | 0.40% | ~2,872 |
 | Humanity Distilled | 0.40% | ~2,872 |
-| I Am the Resurrection | 0.40% | ~2,872 |
 | Down with the Sickness | 0.40% | ~2,872 |
 | On Safari | 0.30% | ~2,154 |
 | Smorgasbord | 0.30% | ~2,154 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,036 (Ranked 20)  
+Progressed: 718,056 (Ranked 20)  
 Completed: 2,387 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,19 +264,19 @@ Completed: 2,387 (0.33%) (Ranked 223)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 718,036 | 2,387 |
+| 2023-11-13 | 718,056 | 2,387 |
 ## Awards
-Max (Great Boss Battles): 7,376  (Ranked 53)  
-Sum: 11,229 (Ranked 85)  
-Diff (max vs sum): -32  
+Max (Great Boss Battles): 7,413  (Ranked 51)  
+Sum: 11,268 (Ranked 85)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,376 |
+| This game has Great Boss Battles | 7,413 |
 | This game is Great for Beginners | 555 |
 | This game has Diverse Characters | 537 |
 | This game has Quickly Understood Controls | 513 |
 | This game is Relaxing | 485 |
-| This game has Amazing Storytelling | 461 |
+| This game has Amazing Storytelling | 463 |
 | This game is Highly Recommended | 449 |
 | This game is Extremely Fun | 446 |
 | This game has Amazing Characters | 407 |
@@ -489,4 +489,4 @@ Diff (max vs sum): -32
 | 2023-11-10 | 4.54 | 7,279 | 11,038 |
 | 2023-11-11 | 4.54 | 7,320 | 11,108 |
 | 2023-11-12 | 4.54 | 7,376 | 11,188 |
-| 2023-11-13 | 4.54 | 7,376 | 11,229 |
+| 2023-11-13 | 4.54 | 7,413 | 11,268 |

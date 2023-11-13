@@ -7,8 +7,8 @@
 | Energy Seeker | 91.00% | ~71 |
 | Lightbulb Seeker | 88.00% | ~69 |
 | Grilled Mouse | 86.00% | ~67 |
-| Lightbulbs Collector | 78.00% | ~61 |
-| Energy Collector | 74.00% | ~58 |
+| Lightbulbs Collector | 79.00% | ~62 |
+| Energy Collector | 76.00% | ~59 |
 | East Street Energy | 51.00% | ~40 |
 | Lightbulbs Expert | 46.00% | ~36 |
 | Energy Expert | 45.00% | ~35 |

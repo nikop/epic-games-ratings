@@ -217,7 +217,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 14925,
+  "EOS_Progressed": 14926,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 1,
@@ -11162,6 +11162,11 @@
       "Time": "2023-11-13T20:05:09.8630497+00:00",
       "NumProgressed": 14925,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-13T21:06:48.4802771+00:00",
+      "NumProgressed": 14926,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -11188,9 +11193,9 @@
       "ID": "11",
       "SetID": "458bbdk",
       "Name": "The Pit and the Pirates",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 597
     },
     {
       "ID": "12",
@@ -11198,7 +11203,7 @@
       "Name": "Data Archivist",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "13",
@@ -11222,7 +11227,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "16",
@@ -11270,7 +11275,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "21",
@@ -11294,7 +11299,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "24",
@@ -11310,7 +11315,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "26",
@@ -11372,9 +11377,9 @@
       "ID": "5",
       "SetID": "458bbdk",
       "Name": "Data Master",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 104
+      "UsersEstimate": 119
     },
     {
       "ID": "6",
@@ -11453,13 +11458,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 14925,
+      "Progressed": 14926,
       "Completed": 34
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 879,
+      "Progressed": 880,
       "Completed": 550
     }
   ],
@@ -11467,8 +11472,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2023-11-11T01:41:20.0617166+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:05:09.8630492+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:06:48.4802766+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:24.0967281+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:59:54.9910155+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:05:09.863125+00:00"
+  "LastUpdate_Ratings": "2023-11-13T21:01:41.4976554+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:06:48.4803507+00:00"
 }

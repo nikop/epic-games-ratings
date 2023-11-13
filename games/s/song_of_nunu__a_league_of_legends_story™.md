@@ -7,15 +7,15 @@
 | Feels Familiar | 77.00% | ~523 |
 | I Broke It | 72.00% | ~489 |
 | Better On Ice | 70.00% | ~475 |
+| Notai Notes | 70.00% | ~475 |
 | Blue Dreams | 69.00% | ~469 |
-| Notai Notes | 69.00% | ~469 |
 | He's Famous! | 68.00% | ~462 |
-| Krugmazing | 66.00% | ~448 |
-| Cutie Poro | 66.00% | ~448 |
-| The Fire Below the Mountain | 63.00% | ~428 |
+| Krugmazing | 67.00% | ~455 |
+| Cutie Poro | 67.00% | ~455 |
+| The Fire Below the Mountain | 64.00% | ~435 |
 | Moneyball | 60.00% | ~407 |
+| Iceborn | 57.00% | ~387 |
 | No Bites | 56.00% | ~380 |
-| Iceborn | 56.00% | ~380 |
 | Tear of Freedom | 52.00% | ~353 |
 | Boom Things | 52.00% | ~353 |
 | My Darkest Day | 49.00% | ~333 |
@@ -28,19 +28,19 @@
 | So Close | 39.00% | ~265 |
 | You Get Used To It | 39.00% | ~265 |
 | Bullseye | 36.00% | ~244 |
+| Boosted! | 36.00% | ~244 |
 | Family | 35.00% | ~238 |
 | Biggest Snowball Ever | 35.00% | ~238 |
 | Freeze The Ice Witch | 35.00% | ~238 |
 | On The Rocks | 35.00% | ~238 |
-| Boosted! | 35.00% | ~238 |
-| Deadliest and Biggest Snowball Ever! | 34.00% | ~231 |
+| Deadliest and Biggest Snowball Ever! | 35.00% | ~238 |
 | It Is Not Over | 33.00% | ~224 |
 | Never Gets Old | 32.00% | ~217 |
 | Snowy Poro | 31.00% | ~210 |
 | Vertical Power | 28.00% | ~190 |
 | One From The Heart | 14.00% | ~95 |
 | Yummy | 12.00% | ~81 |
-| Snowball Fightn't | 10.00% | ~68 |
+| Snowball Fightn't | 11.00% | ~75 |
 | It Was Him | 8.00% | ~54 |
 | Handy Yeti | 7.00% | ~48 |
 | The Pied Piper Of Freljord | 6.00% | ~41 |

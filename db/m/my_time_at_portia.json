@@ -4,10 +4,10 @@
   "ProductSlug": "my-time-at-portia",
   "Ranking_Rating": 271,
   "Ranking_Popularity": 105,
-  "Ranking_PopularitySum": 138,
+  "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2019-01-15T14:00:00+00:00",
@@ -3217,10 +3217,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 4906,
       "NumberOfAwardsMax": 2278
+    },
+    {
+      "Time": "2023-11-13T20:59:25.944494+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4907,
+      "NumberOfAwardsMax": 2278
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4906,
+  "NumberOfAwards": 4907,
   "NumberOfAwardsMax": 2278,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3264,7 +3270,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 218
+      "Count": 219
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3314,8 +3320,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:29.4113784+00:00",
-  "LastChanged": "2023-11-13T15:58:29.4201436+00:00",
+  "LastChanged": "2023-11-13T20:59:25.9444938+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:28.6527989+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:58:23.8218451+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:06:21.759046+00:00"
+  "LastUpdate_Ratings": "2023-11-13T20:59:25.9444944+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:08:29.0785997+00:00"
 }

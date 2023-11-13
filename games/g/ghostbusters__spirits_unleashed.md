@@ -6,17 +6,17 @@ Rating: 4.50 (Ranked 588)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,475 |
-| Advancement | 6.00% | ~1,856 |
-| Meticulously Efficient | 6.00% | ~1,856 |
-| Clutch Capture | 4.00% | ~1,237 |
-| I collect Spores, Molds, and Fungi | 4.00% | ~1,237 |
-| Discovery | 4.00% | ~1,237 |
-| Fully Upgraded | 4.00% | ~1,237 |
-| Solo Capture | 4.00% | ~1,237 |
-| Swift Rift Removers | 4.00% | ~1,237 |
-| Teamwork | 4.00% | ~1,237 |
-| There you are! | 4.00% | ~1,237 |
-| Vaporous Expansion | 4.00% | ~1,237 |
+| Advancement | 6.00% | ~1,857 |
+| Meticulously Efficient | 6.00% | ~1,857 |
+| Clutch Capture | 4.00% | ~1,238 |
+| I collect Spores, Molds, and Fungi | 4.00% | ~1,238 |
+| Discovery | 4.00% | ~1,238 |
+| Fully Upgraded | 4.00% | ~1,238 |
+| Solo Capture | 4.00% | ~1,238 |
+| Swift Rift Removers | 4.00% | ~1,238 |
+| Teamwork | 4.00% | ~1,238 |
+| There you are! | 4.00% | ~1,238 |
+| Vaporous Expansion | 4.00% | ~1,238 |
 | Animated | 3.00% | ~928 |
 | Cultured | 3.00% | ~928 |
 | Daily Dose | 3.00% | ~928 |
@@ -45,7 +45,7 @@ Rating: 4.50 (Ranked 588)
 | Tobin's Prodigy | 1.00% | ~309 |
 | Fragile Panes | 0.90% | ~278 |
 | Liability | 0.90% | ~278 |
-| Surprise! | 0.80% | ~247 |
+| Surprise! | 0.80% | ~248 |
 | Therapeutic | 0.60% | ~186 |
 | Rift Seeker | 0.50% | ~155 |
 | Master Collector | 0.40% | ~124 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,935 (Ranked 122)  
+Progressed: 30,942 (Ranked 122)  
 Completed: 68 (0.22%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 68 (0.22%) (Ranked 244)
 | 2023-11-10 | 30,704 | 66 |
 | 2023-11-11 | 30,795 | 67 |
 | 2023-11-12 | 30,897 | 67 |
-| 2023-11-13 | 30,935 | 68 |
+| 2023-11-13 | 30,942 | 68 |
 ## Awards
 Max (Great for Beginners): 313  (Ranked 247)  
 Sum: 2,783 (Ranked 179)  

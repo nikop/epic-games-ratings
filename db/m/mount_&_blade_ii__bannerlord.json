@@ -3,7 +3,7 @@
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
   "Ranking_Rating": 157,
-  "Ranking_Popularity": 52,
+  "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 351,
@@ -8742,9 +8742,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65060,
+  "EOS_Progressed": 65061,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30552,6 +30552,11 @@
       "Time": "2023-11-13T20:08:58.9887439+00:00",
       "NumProgressed": 65060,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T21:10:01.1595602+00:00",
+      "NumProgressed": 65061,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30723,7 +30728,7 @@
       "Name": "Horde breaker",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 15614
+      "UsersEstimate": 15615
     },
     {
       "ID": "I can do it",
@@ -30915,7 +30920,7 @@
       "Name": "The king is pleased",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 12361
+      "UsersEstimate": 12362
     },
     {
       "ID": "This Is Our Land",
@@ -30970,15 +30975,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65060,
+      "Progressed": 65061,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-13T13:04:38.4343155+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:08:58.9887435+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:10:01.1595597+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:58:44.6921979+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:08:58.9888902+00:00"
+  "LastUpdate_Ratings": "2023-11-13T20:59:57.2552933+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:10:01.1597359+00:00"
 }

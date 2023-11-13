@@ -34,15 +34,15 @@ Rating: 4.75 (Ranked 145)
 | The Web | 4.00% | ~8,814 |
 | Scrap Collector | 4.00% | ~8,814 |
 | All These Traits� | 4.00% | ~8,814 |
-| Am I Seeing This? | 3.00% | ~6,610 |
-| Forever is a Long Time Coming | 3.00% | ~6,610 |
-| The Agenda | 3.00% | ~6,610 |
-| Tall Tales | 3.00% | ~6,610 |
-| Bad Moon Rising | 3.00% | ~6,610 |
-| Strapped | 3.00% | ~6,610 |
-| Edgelord | 3.00% | ~6,610 |
-| The Ultimate Weapon | 3.00% | ~6,610 |
-| No One Should Have All That Power | 3.00% | ~6,610 |
+| Am I Seeing This? | 3.00% | ~6,611 |
+| Forever is a Long Time Coming | 3.00% | ~6,611 |
+| The Agenda | 3.00% | ~6,611 |
+| Tall Tales | 3.00% | ~6,611 |
+| Bad Moon Rising | 3.00% | ~6,611 |
+| Strapped | 3.00% | ~6,611 |
+| Edgelord | 3.00% | ~6,611 |
+| The Ultimate Weapon | 3.00% | ~6,611 |
+| No One Should Have All That Power | 3.00% | ~6,611 |
 | Crafty | 2.00% | ~4,407 |
 | Only Human | 2.00% | ~4,407 |
 | Red Room | 2.00% | ~4,407 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,204 |
 | Proving Grounds | 1.00% | ~2,204 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,350 (Ranked 68)  
+Progressed: 220,356 (Ranked 68)  
 Completed: 444 (0.20%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,14 +176,14 @@ Completed: 444 (0.20%) (Ranked 250)
 | 2023-11-10 | 219,442 | 438 |
 | 2023-11-11 | 219,801 | 439 |
 | 2023-11-12 | 220,140 | 441 |
-| 2023-11-13 | 220,350 | 444 |
+| 2023-11-13 | 220,356 | 444 |
 ## Awards
-Max (Great Boss Battles): 2,158  (Ranked 109)  
-Sum: 4,902 (Ranked 139)  
+Max (Great Boss Battles): 2,168  (Ranked 108)  
+Sum: 4,912 (Ranked 138)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 2,158 |
+| This game has Great Boss Battles | 2,168 |
 | This game has Diverse Characters | 316 |
 | This game has Challenging Combat | 300 |
 | This game is Relaxing | 294 |
@@ -307,4 +307,4 @@ Diff (max vs sum): -30
 | 2023-11-10 | 4.75 | 2,129 | 4,800 |
 | 2023-11-11 | 4.75 | 2,144 | 4,827 |
 | 2023-11-12 | 4.75 | 2,158 | 4,870 |
-| 2023-11-13 | 4.75 | 2,158 | 4,902 |
+| 2023-11-13 | 4.75 | 2,168 | 4,912 |

@@ -25,8 +25,8 @@ Rating: 4.46 (Ranked 646)
 | Der Geist | 17.00% | ~657 |
 | Climbing the Ladder | 16.00% | ~618 |
 | Close Quarters | 16.00% | ~618 |
+| Snake in the Grass | 16.00% | ~618 |
 | Skirmisher | 15.00% | ~579 |
-| Snake in the Grass | 15.00% | ~579 |
 | Brains of the Operation | 15.00% | ~579 |
 | No Stone Unturned | 14.00% | ~541 |
 | Opposing Force | 14.00% | ~541 |

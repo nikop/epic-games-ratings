@@ -4,7 +4,7 @@
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 455,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -121,9 +121,9 @@
       "ID": "energy250",
       "SetID": "bbgli2k",
       "Name": "Energy Collector",
-      "Percentage": 74,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "energy800",
@@ -209,9 +209,9 @@
       "ID": "lightbulbs10",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Collector",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "lightbulbs100",
@@ -418,8 +418,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:03:41.3146116+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:04:45.330766+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.3505484+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:56:59.8377192+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:03:41.3146417+00:00"
+  "LastUpdate_Ratings": "2023-11-13T20:57:20.1725264+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:04:45.3308139+00:00"
 }

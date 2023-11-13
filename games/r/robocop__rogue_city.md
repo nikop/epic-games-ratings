@@ -5,18 +5,18 @@ Rating: 4.41 (Ranked 720)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Night Has Just Begun | 0.50% | ~3 |
+| Night Has Just Begun | 0.40% | ~3 |
 | No stone unturned | 0.30% | ~2 |
 | Dead-On | 0.30% | ~2 |
 | "This Guy Is Really Good" | 0.30% | ~2 |
-| I'd Buy That For a Dollar! | 0.20% | ~1 |
-| Hard Boiled | 0.20% | ~1 |
-| Uphold the Law | 0.20% | ~1 |
-| Nukem! | 0.20% | ~1 |
-| Strikeout! | 0.20% | ~1 |
-| There Can Only Be One | 0.20% | ~1 |
-| Zip This Up | 0.20% | ~1 |
-| SuperCop | 0.20% | ~1 |
+| I'd Buy That For a Dollar! | 0.10% | ~1 |
+| Hard Boiled | 0.10% | ~1 |
+| Uphold the Law | 0.10% | ~1 |
+| Nukem! | 0.10% | ~1 |
+| Strikeout! | 0.10% | ~1 |
+| There Can Only Be One | 0.10% | ~1 |
+| Zip This Up | 0.10% | ~1 |
+| SuperCop | 0.10% | ~1 |
 | May Be Used Against You | 0.00% | ~0 |
 | Officer of the month | 0.00% | ~0 |
 | Live by the bike... | 0.00% | ~0 |
@@ -33,7 +33,7 @@ Rating: 4.41 (Ranked 720)
 | Good eyes, Murphy! | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 665 (Ranked 280)  
+Progressed: 669 (Ranked 280)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -49,7 +49,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-10 | 521 | 0 |
 | 2023-11-11 | 576 | 0 |
 | 2023-11-12 | 646 | 0 |
-| 2023-11-13 | 665 | 0 |
+| 2023-11-13 | 669 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

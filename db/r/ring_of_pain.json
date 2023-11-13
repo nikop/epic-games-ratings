@@ -3388,7 +3388,7 @@
       "Count": 742
     }
   ],
-  "EOS_Progressed": 239656,
+  "EOS_Progressed": 239659,
   "EOS_Completed": 288,
   "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 2,
@@ -24908,6 +24908,11 @@
       "Time": "2023-11-13T20:09:16.2412274+00:00",
       "NumProgressed": 239656,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-13T21:10:23.9242274+00:00",
+      "NumProgressed": 239659,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25645,9 +25650,9 @@
       "ID": "SHUFFLE10TIMES",
       "SetID": "5l8oe0h",
       "Name": "New Perspectives",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 479
     },
     {
       "ID": "SNAKESTEALTH",
@@ -26022,13 +26027,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239656,
+      "Progressed": 239659,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1136,
+      "Progressed": 1139,
       "Completed": 375
     }
   ],
@@ -26036,8 +26041,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2023-11-13T01:49:41.6216026+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:09:16.2412272+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:10:23.9242269+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:02:53.3119347+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:09:16.2414825+00:00"
+  "LastUpdate_Ratings": "2023-11-13T21:03:34.2376964+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:10:23.9245087+00:00"
 }

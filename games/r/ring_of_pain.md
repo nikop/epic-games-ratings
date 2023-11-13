@@ -39,6 +39,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Deflection | 0.20% | ~479 |
 | Stone Touch | 0.20% | ~479 |
 | Toxic | 0.20% | ~479 |
+| New Perspectives | 0.20% | ~479 |
 | Explorer | 0.20% | ~479 |
 | Sneaky | 0.20% | ~479 |
 | Shadow Walker | 0.20% | ~479 |
@@ -109,7 +110,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Antivenom | 0.10% | ~240 |
 | Decisions, Decisions | 0.10% | ~240 |
 | Fragile Mortality | 0.10% | ~240 |
-| New Perspectives | 0.10% | ~240 |
 | Snake Sneak | 0.10% | ~240 |
 | Sprinter | 0.10% | ~240 |
 | Fire Away! | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,656 (Ranked 61)  
+Progressed: 239,659 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 288 (0.12%) (Ranked 270)
 | 2023-11-10 | 239,475 | 287 |
 | 2023-11-11 | 239,548 | 288 |
 | 2023-11-12 | 239,608 | 288 |
-| 2023-11-13 | 239,656 | 288 |
+| 2023-11-13 | 239,659 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 131)  
 Sum: 11,674 (Ranked 83)  

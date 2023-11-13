@@ -131,9 +131,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8128,
+  "EOS_Progressed": 8129,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 974,
+  "EOS_NewPlayers": 975,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 1.55,
   "EosHistory": [
@@ -3246,6 +3246,11 @@
       "Time": "2023-11-13T19:06:22.4654621+00:00",
       "NumProgressed": 8128,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2023-11-13T21:07:11.8014724+00:00",
+      "NumProgressed": 8129,
+      "NumCompleted": 126
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -3258,7 +3263,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 7559
+      "UsersEstimate": 7560
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -3266,7 +3271,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 7153
+      "UsersEstimate": 7154
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -3298,7 +3303,7 @@
       "Name": "All I Have Is Money",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -3346,7 +3351,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -3354,7 +3359,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6097
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -3378,7 +3383,7 @@
       "Name": "Love You Three Thousand",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_23",
@@ -3410,7 +3415,7 @@
       "Name": "Still Single",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -3434,7 +3439,7 @@
       "Name": "Can You Do This Or Not?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -3442,7 +3447,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 5608
+      "UsersEstimate": 5609
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -3522,7 +3527,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 3007
+      "UsersEstimate": 3008
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -3538,7 +3543,7 @@
       "Name": "David",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2438
+      "UsersEstimate": 2439
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -3593,7 +3598,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 8128,
+      "Progressed": 8129,
       "Completed": 126
     }
   ],
@@ -3601,8 +3606,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2023-11-12T14:00:10.4470311+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:05:26.7083818+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:07:11.801472+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:07.5168381+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:57:12.6127186+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:05:26.7084496+00:00"
+  "LastUpdate_Ratings": "2023-11-13T20:57:38.5302699+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:07:11.8015103+00:00"
 }

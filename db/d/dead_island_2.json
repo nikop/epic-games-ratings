@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 522,
-  "Ranking_Popularity": 53,
+  "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 223,
@@ -6415,18 +6415,24 @@
       "Rating": 4.54,
       "NumberOfAwards": 11229,
       "NumberOfAwardsMax": 7376
+    },
+    {
+      "Time": "2023-11-13T21:03:02.1142568+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11268,
+      "NumberOfAwardsMax": 7413
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11229,
-  "NumberOfAwardsMax": 7376,
+  "NumberOfAwards": 11268,
+  "NumberOfAwardsMax": 7413,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 7376
+      "Count": 7413
     },
     {
       "Text": "This game has Diverse Characters",
@@ -6474,12 +6480,12 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 461
+      "Count": 463
     }
   ],
-  "EOS_Progressed": 718036,
+  "EOS_Progressed": 718056,
   "EOS_Completed": 2387,
-  "EOS_NewPlayers": 3947,
+  "EOS_NewPlayers": 3946,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30152,6 +30158,11 @@
       "Time": "2023-11-13T20:04:05.4840636+00:00",
       "NumProgressed": 718036,
       "NumCompleted": 2387
+    },
+    {
+      "Time": "2023-11-13T21:05:19.414563+00:00",
+      "NumProgressed": 718056,
+      "NumCompleted": 2387
     }
   ],
   "TotalAchievements": 51,
@@ -30409,9 +30420,9 @@
       "ID": "ach_revival_tour",
       "SetID": "7km39fm",
       "Name": "I Am the Resurrection",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 3590
     },
     {
       "ID": "ach_salvation",
@@ -30499,7 +30510,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6462
+      "UsersEstimate": 6463
     },
     {
       "ID": "ach_well_known_survivor",
@@ -30570,22 +30581,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718036,
+      "Progressed": 718056,
       "Completed": 2387
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43578,
+      "Progressed": 43598,
       "Completed": 36537
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-13T19:02:42.234455+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:04:05.4840633+00:00",
+  "LastChanged": "2023-11-13T21:03:02.1142567+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:05:19.4145624+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:02:31.247906+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:04:05.4841993+00:00"
+  "LastUpdate_Ratings": "2023-11-13T21:03:02.1142571+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:05:19.4147027+00:00"
 }

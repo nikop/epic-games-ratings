@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 207,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -381,7 +381,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 3645,
+  "EOS_Progressed": 3646,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -5766,6 +5766,11 @@
       "Time": "2023-11-13T18:04:02.1159184+00:00",
       "NumProgressed": 3645,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-13T21:04:35.8165623+00:00",
+      "NumProgressed": 3646,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5793,7 +5798,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -5801,7 +5806,7 @@
       "Name": "Perfect Enhancements",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -5825,7 +5830,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -5833,7 +5838,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -5873,7 +5878,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2661
+      "UsersEstimate": 2662
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5889,7 +5894,7 @@
       "Name": "Call Me Snake",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -5897,7 +5902,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2442
+      "UsersEstimate": 2443
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -5929,7 +5934,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -5945,15 +5950,15 @@
       "Name": "Frontliner",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_MAX_SERGEANT",
       "SetID": "816efe",
       "Name": "Come on, You Wanna Live Forever?",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 984
+      "UsersEstimate": 1021
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -5961,7 +5966,7 @@
       "Name": "The Cable Guy",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "ACH_MISSION_01",
@@ -5969,7 +5974,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 2223
+      "UsersEstimate": 2224
     },
     {
       "ID": "ACH_MISSION_02",
@@ -5993,7 +5998,7 @@
       "Name": "Making a Stand",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1640
+      "UsersEstimate": 1641
     },
     {
       "ID": "ACH_MISSION_05",
@@ -6001,7 +6006,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6009,7 +6014,7 @@
       "Name": "Living Nightmare",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 1239
+      "UsersEstimate": 1240
     },
     {
       "ID": "ACH_MISSION_07",
@@ -6049,7 +6054,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH_MISSION_12",
@@ -6073,7 +6078,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6081,7 +6086,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2952
+      "UsersEstimate": 2953
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6136,7 +6141,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3645,
+      "Progressed": 3646,
       "Completed": 3
     }
   ],
@@ -6144,8 +6149,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-12T04:58:46.5147399+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:03:34.4361646+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:04:35.8165618+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:17.4620944+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:59:45.0854578+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:03:34.4362181+00:00"
+  "LastUpdate_Ratings": "2023-11-13T21:01:24.8303528+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:04:35.8166271+00:00"
 }

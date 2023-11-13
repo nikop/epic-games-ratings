@@ -18,7 +18,7 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 0.70% | ~46 |
 | License to Gill | 0.60% | ~39 |
 | Goldfish? | 0.60% | ~39 |
-| Going for Gold | 0.50% | ~33 |
+| Going for Gold | 0.60% | ~39 |
 | I'm Hooked! | 0.40% | ~26 |
 | I'm the Captain Now | 0.20% | ~13 |
 | Gonna Need a Bigger Boat | 0.20% | ~13 |

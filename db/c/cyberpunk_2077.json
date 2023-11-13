@@ -15110,9 +15110,9 @@
       "Count": 12876
     }
   ],
-  "EOS_Progressed": 896582,
-  "EOS_Completed": 2775,
-  "EOS_NewPlayers": 1012,
+  "EOS_Progressed": 896589,
+  "EOS_Completed": 2776,
+  "EOS_NewPlayers": 1018,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38610,6 +38610,11 @@
       "Time": "2023-11-13T20:05:09.4138879+00:00",
       "NumProgressed": 896582,
       "NumCompleted": 2775
+    },
+    {
+      "Time": "2023-11-13T21:06:47.903066+00:00",
+      "NumProgressed": 896589,
+      "NumCompleted": 2776
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38654,7 +38659,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "FollowingTheRiver",
@@ -38796,9 +38801,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 4483
+      "UsersEstimate": 5380
     },
     {
       "ID": "Specialist",
@@ -38918,7 +38923,7 @@
       "Name": "True Soldier",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5379
+      "UsersEstimate": 5380
     },
     {
       "ID": "TrueWarrior",
@@ -38950,7 +38955,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26897
+      "UsersEstimate": 26898
     },
     {
       "ID": "YipMan",
@@ -39157,21 +39162,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896582,
-      "Completed": 2775
+      "Progressed": 896589,
+      "Completed": 2776
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25205,
+      "Progressed": 25212,
       "Completed": 10221
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-13T18:00:19.7953156+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:05:09.4138872+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:06:47.9030656+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:59:28.3651882+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:05:09.4140327+00:00"
+  "LastUpdate_Ratings": "2023-11-13T21:01:00.6774308+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:06:47.9032091+00:00"
 }

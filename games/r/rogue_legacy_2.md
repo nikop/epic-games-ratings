@@ -17,20 +17,20 @@ Number of Ratings: 1,331  (23.09.2022)
 | Progenitor and Protégé | 1.00% | ~235 |
 | Prequel to the Sequel | 1.00% | ~235 |
 | For Glory | 0.80% | ~188 |
-| Pillow Investments | 0.70% | ~164 |
+| Pillow Investments | 0.70% | ~165 |
 | Truly Blessed | 0.60% | ~141 |
 | Looks Familiar | 0.60% | ~141 |
 | For Justice | 0.50% | ~118 |
 | Good Boy! | 0.50% | ~118 |
 | For Survival | 0.40% | ~94 |
 | Jack of all Trades | 0.40% | ~94 |
-| For Wrath | 0.30% | ~70 |
-| For Love | 0.30% | ~70 |
-| For Pride | 0.30% | ~70 |
-| K.O. | 0.30% | ~70 |
-| Just the Beginning | 0.30% | ~70 |
-| Wasted Betrayal | 0.30% | ~70 |
-| Color Coordination | 0.30% | ~70 |
+| For Wrath | 0.30% | ~71 |
+| For Love | 0.30% | ~71 |
+| For Pride | 0.30% | ~71 |
+| K.O. | 0.30% | ~71 |
+| Just the Beginning | 0.30% | ~71 |
+| Wasted Betrayal | 0.30% | ~71 |
+| Color Coordination | 0.30% | ~71 |
 | Black-shoppe | 0.20% | ~47 |
 | For Greed | 0.20% | ~47 |
 | For Penance | 0.20% | ~47 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,500 (Ranked 127)  
+Progressed: 23,501 (Ranked 127)  
 Completed: 35 (0.15%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 35 (0.15%) (Ranked 263)
 | 2023-11-10 | 23,480 | 35 |
 | 2023-11-11 | 23,484 | 35 |
 | 2023-11-12 | 23,498 | 35 |
-| 2023-11-13 | 23,500 | 35 |
+| 2023-11-13 | 23,501 | 35 |
 ## Awards
 Max (Extremely Fun): 222  (Ranked 276)  
 Sum: 1,701 (Ranked 221)  

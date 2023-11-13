@@ -1482,9 +1482,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23500,
+  "EOS_Progressed": 23501,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 41,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9547,6 +9547,11 @@
       "Time": "2023-11-13T20:08:26.1565781+00:00",
       "NumProgressed": 23500,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-13T21:09:15.4107493+00:00",
+      "NumProgressed": 23501,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -9590,7 +9595,7 @@
       "Name": "Pillow Investments",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AllScarsBronze",
@@ -9646,7 +9651,7 @@
       "Name": "For Wrath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "BossCaveDefeated",
@@ -9710,7 +9715,7 @@
       "Name": "For Love",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "BossStudyDefeated",
@@ -9726,7 +9731,7 @@
       "Name": "For Pride",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "BossTowerDefeated",
@@ -9742,7 +9747,7 @@
       "Name": "K.O.",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "EnableHouseRules",
@@ -9830,7 +9835,7 @@
       "Name": "Just the Beginning",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "StoryTutorial",
@@ -9838,7 +9843,7 @@
       "Name": "Wasted Betrayal",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "TitleDrop",
@@ -9862,28 +9867,28 @@
       "Name": "Color Coordination",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23500,
+      "Progressed": 23501,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2430,
+      "Progressed": 2431,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-11-06T15:02:21.8983987+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:08:26.1565779+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:09:15.4107488+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:18.340476+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:59:42.8325891+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:08:26.1566347+00:00"
+  "LastUpdate_Ratings": "2023-11-13T21:01:21.6170145+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:09:15.4108468+00:00"
 }

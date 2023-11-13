@@ -1,29 +1,29 @@
 # Centipede: Recharged
 [Store](https://store.epicgames.com/en-US/p/centipede-recharged)  
 [View Rawdata](../../db/c/centipede__recharged.json)  
-Rating: 4.33 (Ranked 813)  
+Rating: 4.32 (Ranked 821)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shooting Shark | 49.00% | ~9,646 |
-| Make Rock Not War | 41.00% | ~8,071 |
-| Sole Survivor | 36.00% | ~7,087 |
-| Fireworks | 32.00% | ~6,300 |
-| Burning For You | 28.00% | ~5,512 |
-| Beat 'em Up | 26.00% | ~5,118 |
-| Still Burnin' | 18.00% | ~3,543 |
-| I Am The Storm | 17.00% | ~3,347 |
-| Deadline | 14.00% | ~2,756 |
-| Don't Fear The Reaper | 12.00% | ~2,362 |
-| Eyes On Fire | 12.00% | ~2,362 |
-| Harvester Of Eyes | 7.00% | ~1,378 |
-| The Reaper | 7.00% | ~1,378 |
-| Feel The Thunder | 6.00% | ~1,181 |
+| Shooting Shark | 49.00% | ~9,651 |
+| Make Rock Not War | 41.00% | ~8,075 |
+| Sole Survivor | 36.00% | ~7,091 |
+| Fireworks | 32.00% | ~6,303 |
+| Burning For You | 28.00% | ~5,515 |
+| Beat 'em Up | 26.00% | ~5,121 |
+| Still Burnin' | 18.00% | ~3,545 |
+| I Am The Storm | 17.00% | ~3,348 |
+| Deadline | 14.00% | ~2,757 |
+| Don't Fear The Reaper | 12.00% | ~2,364 |
+| Eyes On Fire | 12.00% | ~2,364 |
+| Harvester Of Eyes | 7.00% | ~1,379 |
+| The Reaper | 7.00% | ~1,379 |
+| Feel The Thunder | 6.00% | ~1,182 |
 | Shadow Warrior | 2.00% | ~394 |
 | Mirrors | 1.00% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,686 (Ranked 134)  
+Progressed: 19,696 (Ranked 134)  
 Completed: 114 (0.58%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -230,7 +230,7 @@ Completed: 114 (0.58%) (Ranked 185)
 | 2023-11-10 | 18,957 | 113 |
 | 2023-11-11 | 19,272 | 113 |
 | 2023-11-12 | 19,533 | 114 |
-| 2023-11-13 | 19,686 | 114 |
+| 2023-11-13 | 19,696 | 114 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -289,3 +289,4 @@ Completed: 114 (0.58%) (Ranked 185)
 | 2023-07-21 | 4.31 | - | 0 | 0 |
 | 2023-10-22 | 4.32 | - | 0 | 0 |
 | 2023-10-25 | 4.33 | - | 0 | 0 |
+| 2023-11-13 | 4.32 | - | 0 | 0 |

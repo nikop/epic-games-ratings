@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -1625,9 +1625,9 @@
       "ID": "Lava",
       "SetID": "70l3651",
       "Name": "Wait! Wait! Not yet!",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 219
     },
     {
       "ID": "Memories",
@@ -1737,9 +1737,9 @@
       "ID": "WelcomeToMordor",
       "SetID": "70l3651",
       "Name": "Welcome to Mordor!",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 303
     }
   ],
   "AchievementSets": [
@@ -1752,8 +1752,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-13T20:04:40.1998825+00:00",
+  "LastChanged_Achievements": "2023-11-13T21:06:07.8697741+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:58:12.6221052+00:00",
-  "LastUpdate_Achievements": "2023-11-13T20:04:40.1999138+00:00"
+  "LastUpdate_Ratings": "2023-11-13T20:59:10.4771199+00:00",
+  "LastUpdate_Achievements": "2023-11-13T21:06:07.8697998+00:00"
 }

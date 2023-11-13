@@ -9,8 +9,8 @@
 | Find Allies | 30.00% | ~56 |
 | Shatter Them All | 29.00% | ~54 |
 | A Taste of Wrath | 28.00% | ~52 |
+| Adventurer | 28.00% | ~52 |
 | I Found It | 28.00% | ~52 |
-| Adventurer | 27.00% | ~50 |
 | The Collector | 27.00% | ~50 |
 | Fashion Victim | 26.00% | ~48 |
 | Powerful Allies | 25.00% | ~46 |
