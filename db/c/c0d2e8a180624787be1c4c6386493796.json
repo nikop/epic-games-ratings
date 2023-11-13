@@ -459,9 +459,9 @@
       "ID": "KR4_ACHIEVEMENT_GOOD_DINOSAUR",
       "SetID": "caeik3h",
       "Name": "What a good dino",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "KR4_ACHIEVEMENT_GROOT",
@@ -611,9 +611,9 @@
       "ID": "KR4_ACHIEVEMENT_KING",
       "SetID": "caeik3h",
       "Name": "The True King",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "KR4_ACHIEVEMENT_LINIREA",
@@ -882,8 +882,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:10:54.175811+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:04:58.1568701+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:36.9496444+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:03:20.7512443+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:10:54.1758978+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:57:48.1773114+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:04:58.1569309+00:00"
 }

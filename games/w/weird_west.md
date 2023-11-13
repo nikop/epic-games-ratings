@@ -7,14 +7,14 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 88.00% | ~1,756 |
-| Self-Improvement | 71.00% | ~1,416 |
+| Self-Improvement | 71.00% | ~1,417 |
 | Perky | 65.00% | ~1,297 |
-| Let’s Ride | 60.00% | ~1,197 |
-| Welcome to the Weird West | 56.00% | ~1,117 |
-| Dead or Alive | 55.00% | ~1,097 |
-| Full House | 37.00% | ~738 |
-| Off the Trail | 34.00% | ~678 |
-| Justice Served | 30.00% | ~598 |
+| Let’s Ride | 60.00% | ~1,198 |
+| Welcome to the Weird West | 56.00% | ~1,118 |
+| Dead or Alive | 55.00% | ~1,098 |
+| Full House | 37.00% | ~739 |
+| Off the Trail | 34.00% | ~679 |
+| Justice Served | 30.00% | ~599 |
 | Chain Reaction | 27.00% | ~539 |
 | Through Their Eyes | 26.00% | ~519 |
 | Dishonored | 25.00% | ~499 |
@@ -30,10 +30,10 @@ Number of Ratings: 125  (23.09.2022)
 | Out on the Ebb Tide | 13.00% | ~259 |
 | Turning the Tables | 13.00% | ~259 |
 | Workers' Rights | 13.00% | ~259 |
-| Elusive Prey | 12.00% | ~239 |
-| Power Behind the Pulpit | 12.00% | ~239 |
-| Something Wicked This Way Comes… | 11.00% | ~219 |
-| There is Hope | 11.00% | ~219 |
+| Elusive Prey | 12.00% | ~240 |
+| Power Behind the Pulpit | 12.00% | ~240 |
+| Something Wicked This Way Comes… | 11.00% | ~220 |
+| There is Hope | 11.00% | ~220 |
 | The Philosopher’s Stone | 10.00% | ~200 |
 | Loyalty to the Pack | 9.00% | ~180 |
 | Eternity Can Wait | 9.00% | ~180 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Winter Has Come | 0.50% | ~10 |
 | Revenant | 0.50% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,995 (Ranked 220)  
+Progressed: 1,996 (Ranked 220)  
 Completed: 7 (0.35%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 7 (0.35%) (Ranked 221)
 | 2023-11-10 | 1,990 | 7 |
 | 2023-11-11 | 1,991 | 7 |
 | 2023-11-12 | 1,994 | 7 |
-| 2023-11-13 | 1,995 | 7 |
+| 2023-11-13 | 1,996 | 7 |
 ## Awards
 Max (Impact the Story): 28  (Ranked 501)  
 Sum: 28 (Ranked 516)  

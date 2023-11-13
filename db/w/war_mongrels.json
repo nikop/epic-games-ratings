@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 585,
+  "EOS_Progressed": 586,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1937,6 +1937,11 @@
       "Time": "2023-11-13T12:09:22.8086139+00:00",
       "NumProgressed": 585,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T14:08:45.5861238+00:00",
+      "NumProgressed": 586,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2060,7 +2065,7 @@
       "Name": "Prospector",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2084,7 +2089,7 @@
       "Name": "Collectibles of Chapter II",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -2180,7 +2185,7 @@
       "Name": "The Breaking Point",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2188,7 +2193,7 @@
       "Name": "The Motivation",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -2196,7 +2201,7 @@
       "Name": "Heroism",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2212,7 +2217,7 @@
       "Name": "Opportunities",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2244,7 +2249,7 @@
       "Name": "Broken Hopes",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_FIN_CH11",
@@ -2292,7 +2297,7 @@
       "Name": "Missing in Action",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2316,7 +2321,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2332,7 +2337,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2404,7 +2409,7 @@
       "Name": "Tiptoe Around",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "ACH_NOMOON",
@@ -2419,15 +2424,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 585,
+      "Progressed": 586,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:14:21.7478569+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:08:45.5861235+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:06:42.40698+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:14:21.7479077+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:02:36.4057372+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:08:45.5861859+00:00"
 }

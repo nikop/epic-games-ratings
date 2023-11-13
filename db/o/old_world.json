@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15298,
+  "EOS_Progressed": 15300,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15885,6 +15885,11 @@
       "Time": "2023-11-13T13:11:00.6319451+00:00",
       "NumProgressed": 15298,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-13T14:05:03.6706684+00:00",
+      "NumProgressed": 15300,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16494,9 +16499,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_READY",
       "SetID": "9201eeb",
       "Name": "Ready",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 138
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -16678,9 +16683,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_NOBLE",
       "SetID": "7l38kb8",
       "Name": "Noble Difficulty",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 92
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
@@ -16870,9 +16875,9 @@
       "ID": "ACHIEVEMENT_GREECE1_RUN",
       "SetID": "9201eeb",
       "Name": "Run, Pheidippides, Run!",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_GREECE1_WIN",
@@ -18631,21 +18636,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15298,
+      "Progressed": 15300,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15298,
+      "Progressed": 15300,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:11:00.6319446+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:05:03.670668+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:06:19.9113604+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:11:00.6329719+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:00:09.5302905+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:05:03.6715638+00:00"
 }

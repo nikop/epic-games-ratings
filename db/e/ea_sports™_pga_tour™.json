@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1820,9 +1820,9 @@
       "ID": "achievement_1",
       "SetID": "7ldgi7j",
       "Name": "The Ultimate Prize",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 90
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_10",
@@ -1970,8 +1970,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:14:13.9523162+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:08:38.7676768+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:16.271819+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:03:53.7281657+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:14:13.9523344+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:58:13.7754365+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:08:38.7676937+00:00"
 }

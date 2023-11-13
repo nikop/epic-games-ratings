@@ -6,12 +6,12 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 85.00% | ~207 |
 | Thalya – Simply Immortal | 85.00% | ~207 |
-| For the Horde! | 77.00% | ~188 |
+| For the Horde! | 78.00% | ~190 |
 | Hammer Time, Round Two | 76.00% | ~185 |
-| The Hellwoods | 66.00% | ~161 |
+| The Hellwoods | 67.00% | ~163 |
 | Thalya's Concentrated Fury | 64.00% | ~156 |
-| The Plains of Strothalm | 58.00% | ~142 |
-| Experienced Thalya | 58.00% | ~142 |
+| The Plains of Strothalm | 59.00% | ~144 |
+| Experienced Thalya | 59.00% | ~144 |
 | Master of Magic | 57.00% | ~139 |
 | Bad Elves Go Everywhere | 53.00% | ~129 |
 | Trap Master | 50.00% | ~122 |
@@ -20,10 +20,10 @@
 | Minions, Minions! | 47.00% | ~115 |
 | Heroes’ Gorge | 44.00% | ~107 |
 | YOU SHALL NOT PASS! | 33.00% | ~81 |
-| The Ascent | 30.00% | ~73 |
-| It's Warm and Cozy at Home | 30.00% | ~73 |
+| The Ascent | 31.00% | ~76 |
+| It's Warm and Cozy at Home | 31.00% | ~76 |
+| Pure Dynamite! | 28.00% | ~68 |
 | Hard Work | 27.00% | ~66 |
-| Pure Dynamite! | 27.00% | ~66 |
 | Mana Cannon | 26.00% | ~63 |
 | The Big Eaty | 24.00% | ~59 |
 | “… like son” | 18.00% | ~44 |
@@ -32,8 +32,8 @@
 | Shame! Shame! Shame! | 13.00% | ~32 |
 | The Cathedral of Light | 12.00% | ~29 |
 | Hungry, Hungry Gorgu! | 10.00% | ~24 |
+| Tanos' Crusade Against Thalya | 10.00% | ~24 |
 | Sacrificial Pit = Garbage Disposal? | 9.00% | ~22 |
-| Tanos' Crusade Against Thalya | 9.00% | ~22 |
 | Forbidden Knowledge | 8.00% | ~20 |
 | Unstoppable Horde | 8.00% | ~20 |
 | Master of the Undead | 8.00% | ~20 |

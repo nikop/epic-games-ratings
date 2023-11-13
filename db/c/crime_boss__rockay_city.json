@@ -4537,10 +4537,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 3006,
       "NumberOfAwardsMax": 527
+    },
+    {
+      "Time": "2023-11-13T13:58:12.3445699+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3007,
+      "NumberOfAwardsMax": 527
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 3006,
+  "NumberOfAwards": 3007,
   "NumberOfAwardsMax": 527,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4566,7 +4572,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 503
+      "Count": 504
     },
     {
       "Text": "This game has Challenging Combat",
@@ -4599,9 +4605,9 @@
       "Count": 488
     }
   ],
-  "EOS_Progressed": 90913,
+  "EOS_Progressed": 90924,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1323,
+  "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25114,6 +25120,11 @@
       "Time": "2023-11-13T13:11:23.6709388+00:00",
       "NumProgressed": 90913,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-13T14:05:22.4601708+00:00",
+      "NumProgressed": 90924,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -25237,7 +25248,7 @@
       "Name": "Headhunter",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "ACH_0101",
@@ -25269,7 +25280,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "ACH_0210",
@@ -25452,22 +25463,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90913,
+      "Progressed": 90924,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19260,
+      "Progressed": 19271,
       "Completed": 15567
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-13T13:03:51.7507474+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:11:23.6709383+00:00",
+  "LastChanged": "2023-11-13T13:58:12.3445697+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:05:22.4601704+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:03:51.7507485+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:11:23.6710579+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:58:12.3445704+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:05:22.460278+00:00"
 }

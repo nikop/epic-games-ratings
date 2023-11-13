@@ -38,9 +38,9 @@ Rating: 4.57 (Ranked 471)
 | Sustainable Energy | 4.00% | ~132 |
 | In Dolos We Trust | 4.00% | ~132 |
 | Pedal to the Metal | 4.00% | ~132 |
+| Drill-dozer | 4.00% | ~132 |
 | Praise the Hull! | 3.00% | ~99 |
 | Delivery! | 3.00% | ~99 |
-| Drill-dozer | 3.00% | ~99 |
 | Help of the Forgotten Member | 3.00% | ~99 |
 | Pulsar Disciple | 3.00% | ~99 |
 | Mutual Loyalty | 2.00% | ~66 |

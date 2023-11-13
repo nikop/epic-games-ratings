@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -160,9 +160,9 @@
       "ID": "Build_First_Room",
       "SetID": "7b9f97e",
       "Name": "Enough rooms to swing a cat",
-      "Percentage": 90,
+      "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Build_First_Room_Extension",
@@ -176,9 +176,9 @@
       "ID": "Capture_Own_Tower",
       "SetID": "7b9f97e",
       "Name": "Home Sweet Home",
-      "Percentage": 85,
+      "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Cast_First_Spell",
@@ -304,9 +304,9 @@
       "ID": "First_LevelUp",
       "SetID": "7b9f97e",
       "Name": "First to the post",
-      "Percentage": 90,
+      "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "First_Node_Meld",
@@ -713,8 +713,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:08:57.2556642+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:03:21.4126649+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.1970565+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:04:55.5751364+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:08:57.2558776+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:59:01.8927716+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:03:21.4127343+00:00"
 }

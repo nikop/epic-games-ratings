@@ -6459,9 +6459,9 @@
       "Count": 461
     }
   ],
-  "EOS_Progressed": 717858,
+  "EOS_Progressed": 717879,
   "EOS_Completed": 2387,
-  "EOS_NewPlayers": 4035,
+  "EOS_NewPlayers": 4026,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30099,6 +30099,11 @@
       "Time": "2023-11-13T13:10:01.9272841+00:00",
       "NumProgressed": 717858,
       "NumCompleted": 2387
+    },
+    {
+      "Time": "2023-11-13T14:04:15.8697636+00:00",
+      "NumProgressed": 717879,
+      "NumCompleted": 2387
     }
   ],
   "TotalAchievements": 51,
@@ -30118,7 +30123,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach_ammo_ran",
@@ -30246,7 +30251,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach_hazardous_materials",
@@ -30350,7 +30355,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach_revival_tour",
@@ -30358,7 +30363,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach_salvation",
@@ -30366,7 +30371,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2871
+      "UsersEstimate": 2872
     },
     {
       "ID": "ach_secrets_of_la",
@@ -30517,13 +30522,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717858,
+      "Progressed": 717879,
       "Completed": 2387
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43400,
+      "Progressed": 43421,
       "Completed": 36535
     }
   ],
@@ -30531,8 +30536,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-13T13:06:54.2590469+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:10:01.9272838+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:04:15.8697634+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:06:54.2590477+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:10:01.9274255+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:02:46.441558+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:04:15.8698866+00:00"
 }

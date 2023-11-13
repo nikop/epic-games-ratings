@@ -4,7 +4,7 @@
   "ProductSlug": "yomi-2-14c463",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-05T17:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-29T21:59:51.0138371+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:15.2969146+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:03:52.5191585+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:13:57.9065195+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:58:12.8815627+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:08:25.3072943+00:00"
 }

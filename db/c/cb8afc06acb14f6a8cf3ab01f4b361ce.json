@@ -2,7 +2,7 @@
   "ID": "cb8afc06acb14f6a8cf3ab01f4b361ce",
   "Name": "Soulstice",
   "ProductSlug": "soulstice",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 897,
   "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 49,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.21,
+  "Rating": 4.22,
   "RatingHistory": [
     {
       "Time": "2023-09-29T19:00:17.3026687+00:00",
@@ -297,6 +297,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 58,
       "NumberOfAwardsMax": 58
+    },
+    {
+      "Time": "2023-11-13T13:59:37.2505655+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 58,
+      "NumberOfAwardsMax": 58
     }
   ],
   "ReviewsDisabled": false,
@@ -317,9 +323,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 309807,
+  "EOS_Progressed": 309836,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5970,
+  "EOS_NewPlayers": 5964,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5802,6 +5808,11 @@
       "Time": "2023-11-13T13:10:41.5135423+00:00",
       "NumProgressed": 309807,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-13T14:04:47.9890026+00:00",
+      "NumProgressed": 309836,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6126,23 +6137,23 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 309807,
+      "Progressed": 309836,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-09-28T19:01:10.9639356+00:00",
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
-  "LastChanged": "2023-11-12T14:59:05.8358002+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:10:41.513542+00:00",
+  "LastChanged": "2023-11-13T13:59:37.2505654+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:04:47.9890024+00:00",
   "LastUpdate_AppInfo": "2023-11-09T18:57:16.9812812+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:05:41.6311758+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:10:41.5135948+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:59:37.2505659+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:04:47.9890532+00:00"
 }

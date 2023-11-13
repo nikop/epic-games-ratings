@@ -1047,9 +1047,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66540,
+  "EOS_Progressed": 66542,
   "EOS_Completed": 32,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -8972,6 +8972,11 @@
       "Time": "2023-11-13T13:11:58.2832911+00:00",
       "NumProgressed": 66540,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2023-11-13T14:05:51.7965902+00:00",
+      "NumProgressed": 66542,
+      "NumCompleted": 32
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9024,7 +9029,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "15",
@@ -9080,7 +9085,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3992
+      "UsersEstimate": 3993
     },
     {
       "ID": "7",
@@ -9111,7 +9116,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66540,
+      "Progressed": 66542,
       "Completed": 32
     }
   ],
@@ -9119,8 +9124,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2023-11-13T04:59:57.9193508+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:11:58.2832905+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:05:51.7965898+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6308067+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:06:28.8870853+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:11:58.2833359+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:00:16.2488579+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:05:51.7966435+00:00"
 }

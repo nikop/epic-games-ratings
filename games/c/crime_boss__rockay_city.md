@@ -5,7 +5,7 @@ Rating: 3.95 (Ranked 1,005)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First One’s Free | 3.00% | ~2,727 |
+| First One’s Free | 3.00% | ~2,728 |
 | Neophyte Ninja | 2.00% | ~1,818 |
 | Downed but Not Outed | 2.00% | ~1,818 |
 | Too Old for This | 2.00% | ~1,818 |
@@ -21,7 +21,7 @@ Rating: 3.95 (Ranked 1,005)
 | Hidden Sonata | 0.80% | ~727 |
 | Track Star | 0.70% | ~636 |
 | True Player | 0.70% | ~636 |
-| Headhunter | 0.60% | ~545 |
+| Headhunter | 0.60% | ~546 |
 | I Like Trains | 0.50% | ~455 |
 | Freebooter | 0.50% | ~455 |
 | Moneybags | 0.50% | ~455 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Geek Out | 0.10% | ~91 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,913 (Ranked 91)  
+Progressed: 90,924 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,16 +254,16 @@ Completed: 55 (0.06%) (Ranked 294)
 | 2023-11-10 | 90,247 | 55 |
 | 2023-11-11 | 90,531 | 55 |
 | 2023-11-12 | 90,809 | 55 |
-| 2023-11-13 | 90,913 | 55 |
+| 2023-11-13 | 90,924 | 55 |
 ## Awards
 Max (Diverse Characters): 527  (Ranked 203)  
-Sum: 3,006 (Ranked 176)  
+Sum: 3,007 (Ranked 176)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 527 |
 | This game is Highly Recommended | 513 |
-| This game has Quickly Understood Controls | 503 |
+| This game has Quickly Understood Controls | 504 |
 | This game has Challenging Combat | 494 |
 | This game is Extremely Fun | 488 |
 | This game has Amazing Characters | 481 |
@@ -498,4 +498,4 @@ Diff (max vs sum): 27
 | 2023-11-10 | 3.95 | 526 | 2,984 |
 | 2023-11-11 | 3.95 | 526 | 2,989 |
 | 2023-11-12 | 3.95 | 527 | 3,005 |
-| 2023-11-13 | 3.95 | 527 | 3,006 |
+| 2023-11-13 | 3.95 | 527 | 3,007 |

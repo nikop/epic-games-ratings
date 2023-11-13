@@ -33,11 +33,11 @@ Rating: 4.54 (Ranked 523)
 | A Patton Emerges | 0.50% | ~3,589 |
 | Max Headroom | 0.50% | ~3,589 |
 | Our True Nature | 0.50% | ~3,589 |
-| Making Your Mark | 0.40% | ~2,871 |
-| Not Even My Final Form | 0.40% | ~2,871 |
-| Humanity Distilled | 0.40% | ~2,871 |
-| I Am the Resurrection | 0.40% | ~2,871 |
-| Down with the Sickness | 0.40% | ~2,871 |
+| Making Your Mark | 0.40% | ~2,872 |
+| Not Even My Final Form | 0.40% | ~2,872 |
+| Humanity Distilled | 0.40% | ~2,872 |
+| I Am the Resurrection | 0.40% | ~2,872 |
+| Down with the Sickness | 0.40% | ~2,872 |
 | On Safari | 0.30% | ~2,154 |
 | Internet Famous | 0.30% | ~2,154 |
 | Jumbo Keyring | 0.30% | ~2,154 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,858 (Ranked 20)  
+Progressed: 717,879 (Ranked 20)  
 Completed: 2,387 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,387 (0.33%) (Ranked 223)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 717,858 | 2,387 |
+| 2023-11-13 | 717,879 | 2,387 |
 ## Awards
 Max (Great Boss Battles): 7,376  (Ranked 52)  
 Sum: 11,210 (Ranked 85)  

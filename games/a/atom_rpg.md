@@ -11,9 +11,9 @@ Number of Ratings: 54  (23.09.2022)
 | Wanderer | 35.00% | ~455 |
 | One shot, one kill | 28.00% | ~364 |
 | Traveler | 26.00% | ~338 |
+| Grave Robber | 19.00% | ~247 |
 | Head Burst | 19.00% | ~247 |
 | Explorer | 18.00% | ~234 |
-| Grave Robber | 18.00% | ~234 |
 | Paranoia | 16.00% | ~208 |
 | Double agent | 15.00% | ~195 |
 | Kraina Grzybow | 10.00% | ~130 |

@@ -4,7 +4,7 @@
   "ProductSlug": "suv-4x4-car-parking-simulator-5d6c9e",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-11T15:00:00+00:00",
@@ -21,6 +21,8 @@
   },
   "RatingHistory": [],
   "ReviewsDisabled": false,
+  "NumberOfAwards": 0,
+  "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
@@ -32,7 +34,8 @@
   "TotalAchievementsXP": 0,
   "Achievements": [],
   "AchievementSets": [],
+  "FirstSeen": "2023-11-13T13:58:10.3203396+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:12.8329771+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:03:49.21424+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:09:38.9040843+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:58:10.3203424+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:03:55.8955132+00:00"
 }

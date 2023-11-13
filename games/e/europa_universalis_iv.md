@@ -216,6 +216,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Restore the Pentarchy | 0.10% | ~455 |
 | The Last Crusade | 0.10% | ~455 |
 | Truly Good Maaaaa-tch | 0.10% | ~455 |
+| The Zoro-Austrians | 0.10% | ~455 |
 | I don't like sand | 0.00% | ~0 |
 | Abu Bakr II’s Ambition | 0.00% | ~0 |
 | Academical | 0.00% | ~0 |
@@ -368,9 +369,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Breadbasket of the World | 0.00% | ~0 |
 | Desert Power | 0.00% | ~0 |
 | King of Kings | 0.00% | ~0 |
-| The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,620 (Ranked 41)  
+Progressed: 454,663 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -577,7 +577,7 @@ Completed: 1 (0.00%) (Ranked 350)
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
-| 2023-11-13 | 454,620 | 1 |
+| 2023-11-13 | 454,663 | 1 |
 ## Awards
 Max (Educational): 6,981  (Ranked 54)  
 Sum: 57,384 (Ranked 24)  

@@ -9,7 +9,7 @@ Rating: 4.60 (Ranked 410)
 | A Thorny Situation | 70.00% | ~5,422 |
 | ... And Spit Back Out | 61.00% | ~4,725 |
 | Break-Net Speed | 49.00% | ~3,796 |
-| Bramble Breaker | 46.00% | ~3,563 |
+| Bramble Breaker | 47.00% | ~3,641 |
 | Miner 49er | 43.00% | ~3,331 |
 | Humble Collector | 42.00% | ~3,253 |
 | Calm Sailing | 37.00% | ~2,866 |

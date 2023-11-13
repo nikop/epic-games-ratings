@@ -7021,9 +7021,9 @@
       "Count": 3780
     }
   ],
-  "EOS_Progressed": 139666,
+  "EOS_Progressed": 139675,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 966,
+  "EOS_NewPlayers": 972,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28221,6 +28221,11 @@
       "Time": "2023-11-13T13:12:29.4019138+00:00",
       "NumProgressed": 139666,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-13T14:06:17.7985311+00:00",
+      "NumProgressed": 139675,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28232,7 +28237,7 @@
       "Name": "The Daily Grind",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "advlevel02",
@@ -28312,7 +28317,7 @@
       "Name": "One Easy Payment",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "bigsale02",
@@ -28336,7 +28341,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "blueprint02",
@@ -28368,7 +28373,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "boss02",
@@ -28504,7 +28509,7 @@
       "Name": "Flooding the Market",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "craft03",
@@ -28536,7 +28541,7 @@
       "Name": "Where it Hurts",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "damage02",
@@ -28584,7 +28589,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "energy02",
@@ -28712,7 +28717,7 @@
       "Name": "Pretty Penny",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "gold03",
@@ -28784,7 +28789,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "jackslot02",
@@ -28856,7 +28861,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "loot02",
@@ -28888,7 +28893,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "master02",
@@ -29096,7 +29101,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2793
+      "UsersEstimate": 2794
     },
     {
       "ID": "workers02",
@@ -29127,15 +29132,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139666,
+      "Progressed": 139675,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-13T06:57:32.4086351+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:12:29.4019135+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:06:17.7985308+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:03:00.4084527+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:12:29.4021331+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:57:32.1607804+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:06:17.7987088+00:00"
 }

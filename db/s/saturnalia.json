@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68213,
+  "EOS_Progressed": 68215,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -14913,6 +14913,11 @@
       "Time": "2023-11-13T13:11:53.8488483+00:00",
       "NumProgressed": 68213,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2023-11-13T14:05:47.4916006+00:00",
+      "NumProgressed": 68215,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -14980,7 +14985,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -15044,7 +15049,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -15083,7 +15088,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 68213,
+      "Progressed": 68215,
       "Completed": 18
     }
   ],
@@ -15091,8 +15096,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:11:53.8488479+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:05:47.4916001+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:17.1374878+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:05:15.6008533+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:11:53.8489279+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:59:17.6356883+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:05:47.4916972+00:00"
 }

@@ -10,9 +10,9 @@ Rating: 4.61 (Ranked 384)
 | A Wonderful Discovery | 1.00% | ~54 |
 | Secret Technique | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
+| Bone Peddler | 0.90% | ~48 |
 | From Friends to Family | 0.90% | ~48 |
 | Freed Lands of Manuhari | 0.90% | ~48 |
-| Bone Peddler | 0.80% | ~43 |
 | There Can Only Be One! | 0.70% | ~38 |
 | Full Ascension | 0.70% | ~38 |
 | Stronger Together | 0.60% | ~32 |

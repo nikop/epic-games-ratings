@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19519,
+  "EOS_Progressed": 19523,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2055,
+  "EOS_NewPlayers": 2050,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6449,6 +6449,11 @@
       "Time": "2023-11-13T13:15:07.1364388+00:00",
       "NumProgressed": 19519,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T14:09:15.3888986+00:00",
+      "NumProgressed": 19523,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -6509,7 +6514,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 3904
+      "UsersEstimate": 3905
     },
     {
       "ID": "achievement_16",
@@ -6685,7 +6690,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 18543
+      "UsersEstimate": 18547
     },
     {
       "ID": "achievement_36",
@@ -6693,7 +6698,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "achievement_37",
@@ -6701,7 +6706,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2537
+      "UsersEstimate": 2538
     },
     {
       "ID": "achievement_38",
@@ -6717,7 +6722,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4685
+      "UsersEstimate": 4686
     },
     {
       "ID": "achievement_4",
@@ -6821,7 +6826,7 @@
       "Name": "A Better Idea",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4685
+      "UsersEstimate": 4686
     },
     {
       "ID": "achievement_9",
@@ -6836,7 +6841,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 19519,
+      "Progressed": 19523,
       "Completed": 1
     }
   ],
@@ -6844,8 +6849,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:15:07.1364382+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:09:15.3888984+00:00",
   "LastUpdate_AppInfo": "2023-11-11T14:57:13.2904344+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:08:39.7761228+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:15:07.1364998+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:03:07.0900148+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:09:15.3889732+00:00"
 }

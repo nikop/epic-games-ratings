@@ -701,9 +701,9 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 1769,
+  "EOS_Progressed": 1770,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 196,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -5286,6 +5286,11 @@
       "Time": "2023-11-13T13:12:07.6373111+00:00",
       "NumProgressed": 1769,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-13T14:05:59.7943325+00:00",
+      "NumProgressed": 1770,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -5338,7 +5343,7 @@
       "Name": "Whole Again",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_15",
@@ -5346,7 +5351,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 28,
       "XP": 40,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "achievement_16",
@@ -5386,7 +5391,7 @@
       "Name": "Lab Rat",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "achievement_20",
@@ -5394,7 +5399,7 @@
       "Name": "Autofire",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_21",
@@ -5402,7 +5407,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "achievement_22",
@@ -5426,7 +5431,7 @@
       "Name": "Eviscerator",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_25",
@@ -5458,15 +5463,15 @@
       "Name": "Story Teller",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "achievement_29",
       "SetID": "222fo9l",
       "Name": "Legend Teller",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 655
+      "UsersEstimate": 637
     },
     {
       "ID": "achievement_3",
@@ -5490,15 +5495,15 @@
       "Name": "Marksman",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "achievement_32",
       "SetID": "222fo9l",
       "Name": "Surgeon",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 920
     },
     {
       "ID": "achievement_33",
@@ -5522,7 +5527,7 @@
       "Name": "Freeze",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "achievement_36",
@@ -5562,7 +5567,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1061
+      "UsersEstimate": 1062
     },
     {
       "ID": "achievement_40",
@@ -5586,7 +5591,7 @@
       "Name": "Brute Force",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "achievement_43",
@@ -5594,7 +5599,7 @@
       "Name": "Exterminator",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "achievement_44",
@@ -5642,7 +5647,7 @@
       "Name": "Greenhouse Effect",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "achievement_7",
@@ -5666,14 +5671,14 @@
       "Name": "Wreckage",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1769,
+      "Progressed": 1770,
       "Completed": 8
     }
   ],
@@ -5681,8 +5686,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-13T11:00:43.8822174+00:00",
-  "LastChanged_Achievements": "2023-11-13T13:12:07.6373107+00:00",
+  "LastChanged_Achievements": "2023-11-13T14:05:59.7943321+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:06:38.498051+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:12:07.6373627+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:00:23.8814203+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:05:59.7943755+00:00"
 }

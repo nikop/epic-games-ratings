@@ -4,10 +4,10 @@
   "ProductSlug": "phantasy-star-online-2",
   "Ranking_Rating": 523,
   "Ranking_Popularity": 154,
-  "Ranking_PopularitySum": 148,
+  "Ranking_PopularitySum": 149,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-02-17T06:00:00+00:00",
@@ -4458,10 +4458,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 4265,
       "NumberOfAwardsMax": 970
+    },
+    {
+      "Time": "2023-11-13T14:00:02.0275704+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 4266,
+      "NumberOfAwardsMax": 970
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4265,
+  "NumberOfAwards": 4266,
   "NumberOfAwardsMax": 970,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4517,7 +4523,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 267
+      "Count": 268
     },
     {
       "Text": "This game is Relaxing",
@@ -4549,8 +4555,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:27.1466753+00:00",
-  "LastChanged": "2023-11-13T13:06:10.5551291+00:00",
+  "LastChanged": "2023-11-13T14:00:02.0275703+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:27.8566867+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:06:10.5551297+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:10:47.774965+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:00:02.0275708+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:04:52.8230514+00:00"
 }

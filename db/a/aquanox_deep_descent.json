@@ -4,7 +4,7 @@
   "ProductSlug": "aquanox-deep-descent",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-10-20T14:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:18.7849043+00:00",
   "LastChanged": "2023-03-31T05:58:18.7849045+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:21.3305979+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:05:59.7787402+00:00",
-  "LastUpdate_Achievements": "2023-11-13T13:12:48.7590712+00:00"
+  "LastUpdate_Ratings": "2023-11-13T13:59:52.7167358+00:00",
+  "LastUpdate_Achievements": "2023-11-13T14:06:33.7656139+00:00"
 }

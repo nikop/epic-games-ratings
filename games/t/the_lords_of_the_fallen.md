@@ -1,7 +1,7 @@
 # Lords of the Fallen
 [Store](https://store.epicgames.com/en-US/p/lords-of-the-fallen)  
 [View Rawdata](../../db/t/the_lords_of_the_fallen.json)  
-Rating: 4.21 (Ranked 900)  
+Rating: 4.21 (Ranked 901)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,6 +12,7 @@ Rating: 4.21 (Ranked 900)
 | Shared Triumph | 0.40% | ~6 |
 | No Mercy | 0.40% | ~6 |
 | Shades of Violence | 0.40% | ~6 |
+| Vengeance for the Fallen | 0.30% | ~5 |
 | Rise and Fall | 0.30% | ~5 |
 | The Past Shapes the Present | 0.30% | ~5 |
 | A Rest Among the Dead | 0.30% | ~5 |
@@ -20,7 +21,6 @@ Rating: 4.21 (Ranked 900)
 | Ammunition Collector | 0.20% | ~3 |
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
-| Vengeance for the Fallen | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
 | Trinket Collector | 0.10% | ~2 |
