@@ -29,7 +29,7 @@
 | 27 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 28 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 13.64% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 12.68% |
-| 30 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.39% |
+| 30 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.38% |
 | 31 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 11.65% |
 | 32 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 33 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
@@ -81,12 +81,12 @@
 | 79 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 80 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 81 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.16% |
-| 82 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.10% |
+| 82 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.09% |
 | 83 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
 | 84 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
 | 85 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.78% |
 | 86 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.75% |
-| 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.42% |
+| 87 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 3.41% |
 | 88 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.38% |
 | 89 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.34% |
 | 90 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 3.33% |
@@ -143,9 +143,9 @@
 | 141 | [Late Shift](games/l/late_shift.md) | 1.39% |
 | 142 | [Ten Dates](games/t/ten_dates.md) | 1.36% |
 | 143 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.35% |
-| 144 | [Iron Danger](games/i/iron_danger.md) | 1.34% |
-| 145 | [Chorus](games/c/chorus.md) | 1.33% |
-| 145 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.33% |
+| 144 | [Chorus](games/c/chorus.md) | 1.33% |
+| 144 | [Iron Danger](games/i/iron_danger.md) | 1.33% |
+| 144 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.33% |
 | 147 | [Poosh XL](games/p/poosh_xl.md) | 1.32% |
 | 148 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.30% |
 | 149 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.26% |
