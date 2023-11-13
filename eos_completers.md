@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.61% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.58% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -44,7 +44,7 @@
 | 41 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
 | 41 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
 | 41 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
-| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.05% |
+| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
 | 46 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.14% |
 | 48 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
@@ -72,14 +72,14 @@
 | 70 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
 | 71 | [Bugsnax](games/b/bugsnax.md) | 4.81% |
 | 72 | [Time on Frog Island](games/t/time_on_frog_island.md) | 4.76% |
-| 73 | [ZZT!](games/z/zzt!.md) | 4.62% |
+| 73 | [ZZT!](games/z/zzt!.md) | 4.61% |
 | 74 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.60% |
 | 75 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.55% |
 | 76 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 4.53% |
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.47% |
 | 78 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.44% |
 | 79 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
-| 80 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.25% |
+| 80 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.21% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 4.17% |
 | 82 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.16% |
 | 83 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
@@ -111,7 +111,7 @@
 | 109 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.64% |
 | 110 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 111 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.59% |
-| 112 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.55% |
+| 112 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.54% |
 | 113 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
 | 114 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 115 | [Lamentum](games/l/lamentum.md) | 2.42% |
@@ -175,7 +175,7 @@
 | 173 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.78% |
 | 174 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.75% |
 | 175 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
-| 176 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.68% |
+| 176 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.69% |
 | 177 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.65% |
 | 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 0.62% |
 | 179 | [Potion Permit](games/p/potion_permit.md) | 0.61% |
