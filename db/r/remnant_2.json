@@ -6,9 +6,9 @@
   "Ranking_Popularity": 109,
   "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 68,
-  "Ranking_EOS_Completed": 248,
+  "Ranking_EOS_Completed": 249,
   "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-07-25T16:00:00+00:00",
     "PcReleaseDate": "2023-07-25T16:00:00+00:00",
@@ -4173,9 +4173,9 @@
       "Count": 294
     }
   ],
-  "EOS_Progressed": 220174,
+  "EOS_Progressed": 220183,
   "EOS_Completed": 442,
-  "EOS_NewPlayers": 1981,
+  "EOS_NewPlayers": 1986,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -17808,6 +17808,11 @@
       "Time": "2023-11-13T03:08:11.5984437+00:00",
       "NumProgressed": 220174,
       "NumCompleted": 442
+    },
+    {
+      "Time": "2023-11-13T04:08:23.8496351+00:00",
+      "NumProgressed": 220183,
+      "NumCompleted": 442
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -17820,7 +17825,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15412
+      "UsersEstimate": 15413
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -17828,7 +17833,7 @@
       "Name": "Crafty",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Defeat_Abberations_A",
@@ -17852,7 +17857,7 @@
       "Name": "Only Human",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Defeat_Corrupted_Ravager",
@@ -17868,7 +17873,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13210
+      "UsersEstimate": 13211
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -17900,7 +17905,7 @@
       "Name": "The Killing Jar",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 17614
+      "UsersEstimate": 17615
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -17940,7 +17945,7 @@
       "Name": "Quest for Survival",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 15412
+      "UsersEstimate": 15413
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -17948,7 +17953,7 @@
       "Name": "Red Room",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Discover_Letos_Lab",
@@ -17972,7 +17977,7 @@
       "Name": "Familiar Face",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 13210
+      "UsersEstimate": 13211
     },
     {
       "ID": "Meet_Meidra",
@@ -18012,7 +18017,7 @@
       "Name": "Duality",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13210
+      "UsersEstimate": 13211
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -18052,7 +18057,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13210
+      "UsersEstimate": 13211
     },
     {
       "ID": "Obtain_Guns_A",
@@ -18100,7 +18105,7 @@
       "Name": "The Collector",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Obtain_Scrap_A",
@@ -18116,7 +18121,7 @@
       "Name": "Scrap Hoarder",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Obtain_Traits_A",
@@ -18124,7 +18129,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 15412
+      "UsersEstimate": 15413
     },
     {
       "ID": "Obtain_Traits_B",
@@ -18148,7 +18153,7 @@
       "Name": "Carnage in C-Minor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Upgrade_Boss_Weapon_A",
@@ -18196,7 +18201,7 @@
       "Name": "Trait Chaser",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 13210
+      "UsersEstimate": 13211
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -18204,7 +18209,7 @@
       "Name": "Maxed Out!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     },
     {
       "ID": "Upgrade_Weapon_Mutator",
@@ -18212,14 +18217,14 @@
       "Name": "Transmutate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4403
+      "UsersEstimate": 4404
     }
   ],
   "AchievementSets": [
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 220174,
+      "Progressed": 220183,
       "Completed": 442
     }
   ],
@@ -18227,8 +18232,8 @@
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2023-11-13T02:24:28.6118834+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:08:11.5984434+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:08:23.8496343+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.5821072+00:00",
-  "LastUpdate_Ratings": "2023-11-13T03:02:57.6728006+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:08:11.5985275+00:00"
+  "LastUpdate_Ratings": "2023-11-13T04:03:04.0909905+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:08:23.8497622+00:00"
 }

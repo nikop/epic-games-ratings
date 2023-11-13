@@ -5,9 +5,9 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stylish | 8.00% | ~2,472 |
-| Advancement | 6.00% | ~1,854 |
-| Meticulously Efficient | 6.00% | ~1,854 |
+| Stylish | 8.00% | ~2,473 |
+| Advancement | 6.00% | ~1,855 |
+| Meticulously Efficient | 6.00% | ~1,855 |
 | Clutch Capture | 4.00% | ~1,236 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,236 |
 | Discovery | 4.00% | ~1,236 |
@@ -15,6 +15,7 @@ Rating: 4.50 (Ranked 588)
 | Solo Capture | 4.00% | ~1,236 |
 | Swift Rift Removers | 4.00% | ~1,236 |
 | Teamwork | 4.00% | ~1,236 |
+| There you are! | 4.00% | ~1,236 |
 | Vaporous Expansion | 4.00% | ~1,236 |
 | Animated | 3.00% | ~927 |
 | Cultured | 3.00% | ~927 |
@@ -22,7 +23,6 @@ Rating: 4.50 (Ranked 588)
 | Ghostbuster In Training | 3.00% | ~927 |
 | Icing on the Cake | 3.00% | ~927 |
 | Right back at ya | 3.00% | ~927 |
-| There you are! | 3.00% | ~927 |
 | Whoopsie | 3.00% | ~927 |
 | Back Off | 2.00% | ~618 |
 | We have the best insurance | 2.00% | ~618 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,906 (Ranked 122)  
-Completed: 67 (0.22%) (Ranked 242)  
+Progressed: 30,910 (Ranked 122)  
+Completed: 68 (0.22%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,11 +264,11 @@ Completed: 67 (0.22%) (Ranked 242)
 | 2023-11-10 | 30,704 | 66 |
 | 2023-11-11 | 30,795 | 67 |
 | 2023-11-12 | 30,897 | 67 |
-| 2023-11-13 | 30,906 | 67 |
+| 2023-11-13 | 30,910 | 68 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 247)  
-Sum: 2,772 (Ranked 179)  
-Diff (max vs sum): 68  
+Sum: 2,772 (Ranked 180)  
+Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 311 |

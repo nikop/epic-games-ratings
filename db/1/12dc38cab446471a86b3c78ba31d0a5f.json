@@ -3,9 +3,9 @@
   "Name": "Space Nation Online",
   "ProductSlug": "space-nation-ol-36e06f",
   "Ranking_EOS_Progress": 740,
-  "Ranking_EOS_Completed": 349,
+  "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-10T13:01:44.4062449+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:58:43.2327957+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:04:29.3444272+00:00"
+  "LastUpdate_Ratings": "2023-11-13T03:59:06.2225365+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:04:56.2116209+00:00"
 }

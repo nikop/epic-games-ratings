@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 85.00% | ~201 |
-| Thalya – Simply Immortal | 85.00% | ~201 |
-| For the Horde! | 77.00% | ~182 |
+| The Last Stand | 85.00% | ~202 |
+| Thalya – Simply Immortal | 85.00% | ~202 |
+| For the Horde! | 77.00% | ~183 |
 | Hammer Time, Round Two | 75.00% | ~178 |
-| The Hellwoods | 65.00% | ~154 |
 | Thalya's Concentrated Fury | 64.00% | ~152 |
-| Experienced Thalya | 58.00% | ~137 |
-| The Plains of Strothalm | 57.00% | ~135 |
-| Master of Magic | 56.00% | ~133 |
+| The Hellwoods | 64.00% | ~152 |
+| Experienced Thalya | 58.00% | ~138 |
+| The Plains of Strothalm | 56.00% | ~133 |
+| Master of Magic | 55.00% | ~131 |
 | Bad Elves Go Everywhere | 53.00% | ~126 |
-| Unicorn steaks – fresh off the hoof! | 51.00% | ~121 |
-| Trap Master | 49.00% | ~116 |
-| Magic Accidents | 49.00% | ~116 |
+| Trap Master | 50.00% | ~119 |
+| Unicorn steaks – fresh off the hoof! | 50.00% | ~119 |
+| Magic Accidents | 48.00% | ~114 |
 | Minions, Minions! | 46.00% | ~109 |
-| Heroes’ Gorge | 44.00% | ~104 |
+| Heroes’ Gorge | 45.00% | ~107 |
 | YOU SHALL NOT PASS! | 34.00% | ~81 |
 | The Ascent | 30.00% | ~71 |
 | It's Warm and Cozy at Home | 30.00% | ~71 |
@@ -28,8 +28,8 @@
 | The Big Eaty | 23.00% | ~55 |
 | “… like son” | 16.00% | ~38 |
 | Dungeonlord Gorgu | 14.00% | ~33 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 12.00% | ~28 |
-| Shame! Shame! Shame! | 12.00% | ~28 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 12.00% | ~29 |
+| Shame! Shame! Shame! | 12.00% | ~29 |
 | The Cathedral of Light | 11.00% | ~26 |
 | Sacrificial Pit = Garbage Disposal? | 10.00% | ~24 |
 | Hungry, Hungry Gorgu! | 9.00% | ~21 |
@@ -40,8 +40,8 @@
 | All’s Well That Ends Evil | 7.00% | ~17 |
 | Ghost Pirates? Ghost Heroes! | 6.00% | ~14 |
 | The Duel | 5.00% | ~12 |
-| Stop Tanos! | 4.00% | ~9 |
-| If Looks Could Kill | 4.00% | ~9 |
+| Stop Tanos! | 4.00% | ~10 |
+| If Looks Could Kill | 4.00% | ~10 |
 | Bonus Evilness | 3.00% | ~7 |
 | The Finitude Drill | 3.00% | ~7 |
 | Sabotage! | 3.00% | ~7 |
@@ -66,7 +66,7 @@
 | I Don't Need Any Help | 0.40% | ~1 |
 | Evilification | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237 (Ranked 359)  
+Progressed: 238 (Ranked 359)  
 Completed: 1 (0.42%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 1 (0.42%) (Ranked 207)
 | 2023-11-10 | 153 | 0 |
 | 2023-11-11 | 205 | 0 |
 | 2023-11-12 | 236 | 1 |
-| 2023-11-13 | 237 | 1 |
+| 2023-11-13 | 238 | 1 |

@@ -3,9 +3,9 @@
   "Name": "WRC",
   "ProductSlug": "wrc-23",
   "Ranking_EOS_Progress": 368,
-  "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 350,
+  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-03T04:00:00+00:00",
     "PcReleaseDate": "2023-11-03T04:00:00+00:00",
@@ -533,9 +533,9 @@
       "ID": "achievement_2",
       "SetID": "jnappp",
       "Name": "Team Principal",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 170
+      "UsersEstimate": 173
     },
     {
       "ID": "achievement_20",
@@ -660,8 +660,8 @@
   ],
   "FirstSeen": "2023-11-03T04:58:52.1961878+00:00",
   "FirstSeenAchievements": "2023-11-03T21:09:09.4416375+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:08:59.1828779+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:09:21.8461193+00:00",
   "LastUpdate_AppInfo": "2023-11-07T19:57:04.2403936+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:58:43.1080048+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:08:59.1828962+00:00"
+  "LastUpdate_Ratings": "2023-11-13T03:59:06.0710763+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:09:21.8461448+00:00"
 }

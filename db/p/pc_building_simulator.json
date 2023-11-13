@@ -6,9 +6,9 @@
   "Ranking_Popularity": 143,
   "Ranking_PopularitySum": 103,
   "Ranking_EOS_Progress": 5,
-  "Ranking_EOS_Completed": 349,
+  "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-10-07T15:00:00+00:00",
     "PcReleaseDate": "2019-01-29T12:00:00+00:00",
@@ -5185,9 +5185,9 @@
       "Count": 669
     }
   ],
-  "EOS_Progressed": 3579308,
+  "EOS_Progressed": 3579314,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 2345,
+  "EOS_NewPlayers": 2339,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -28845,6 +28845,11 @@
       "Time": "2023-11-13T03:04:32.5110738+00:00",
       "NumProgressed": 3579308,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2023-11-13T04:05:00.0869215+00:00",
+      "NumProgressed": 3579314,
+      "NumCompleted": 37
     }
   ],
   "TotalAchievements": 52,
@@ -28864,7 +28869,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 894827
+      "UsersEstimate": 894828
     },
     {
       "ID": "BRICK",
@@ -28896,7 +28901,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 572689
+      "UsersEstimate": 572690
     },
     {
       "ID": "BUILD_2",
@@ -28912,7 +28917,7 @@
       "Name": "Keeping things neat",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 143172
+      "UsersEstimate": 143173
     },
     {
       "ID": "CASH_1",
@@ -28920,7 +28925,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1395930
+      "UsersEstimate": 1395932
     },
     {
       "ID": "CASH_2",
@@ -28928,7 +28933,7 @@
       "Name": "Seems you\u0027re pretty good at this",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 143172
+      "UsersEstimate": 143173
     },
     {
       "ID": "CASH_3",
@@ -28984,7 +28989,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 715862
+      "UsersEstimate": 715863
     },
     {
       "ID": "HBPC_TIME",
@@ -29016,7 +29021,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1037999
+      "UsersEstimate": 1038001
     },
     {
       "ID": "JOBS_2",
@@ -29024,7 +29029,7 @@
       "Name": "Smashing it",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 393724
+      "UsersEstimate": 393725
     },
     {
       "ID": "JOBS_3",
@@ -29096,7 +29101,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1753861
+      "UsersEstimate": 1753864
     },
     {
       "ID": "NO_PASTE",
@@ -29104,7 +29109,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1646482
+      "UsersEstimate": 1646484
     },
     {
       "ID": "OPC_BM_1",
@@ -29224,7 +29229,7 @@
       "Name": "Bending over backwards",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 143172
+      "UsersEstimate": 143173
     },
     {
       "ID": "STARS_3",
@@ -29271,15 +29276,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3579308,
+      "Progressed": 3579314,
       "Completed": 37
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2023-11-11T11:57:20.3484253+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:04:32.5110732+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:05:00.0869208+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:25.1739972+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:58:06.9073412+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:04:32.5112271+00:00"
+  "LastUpdate_Ratings": "2023-11-13T03:58:20.9422351+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:05:00.0871157+00:00"
 }

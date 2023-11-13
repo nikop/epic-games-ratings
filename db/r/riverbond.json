@@ -6,9 +6,9 @@
   "Ranking_Popularity": 541,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 35,
-  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531232,
+  "EOS_Progressed": 531233,
   "EOS_Completed": 497,
-  "EOS_NewPlayers": 456,
+  "EOS_NewPlayers": 454,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -22487,6 +22487,11 @@
       "Time": "2023-11-13T03:06:18.8177709+00:00",
       "NumProgressed": 531232,
       "NumCompleted": 497
+    },
+    {
+      "Time": "2023-11-13T04:07:08.3954778+00:00",
+      "NumProgressed": 531233,
+      "NumCompleted": 497
     }
   ],
   "TotalAchievements": 57,
@@ -22498,7 +22503,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 122183
+      "UsersEstimate": 122184
     },
     {
       "ID": "10",
@@ -22506,7 +22511,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 239054
+      "UsersEstimate": 239055
     },
     {
       "ID": "11",
@@ -22514,7 +22519,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 371862
+      "UsersEstimate": 371863
     },
     {
       "ID": "12",
@@ -22794,7 +22799,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 90309
+      "UsersEstimate": 90310
     },
     {
       "ID": "44",
@@ -22834,7 +22839,7 @@
       "Name": "To the Beat",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 106246
+      "UsersEstimate": 106247
     },
     {
       "ID": "49",
@@ -22858,7 +22863,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74372
+      "UsersEstimate": 74373
     },
     {
       "ID": "51",
@@ -22882,7 +22887,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 122183
+      "UsersEstimate": 122184
     },
     {
       "ID": "54",
@@ -22953,15 +22958,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 531232,
+      "Progressed": 531233,
       "Completed": 497
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:06:18.8177705+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:07:08.3954771+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:17.8210185+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:59:08.7771272+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:06:18.8179226+00:00"
+  "LastUpdate_Ratings": "2023-11-13T03:59:38.1152815+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:07:08.3956693+00:00"
 }

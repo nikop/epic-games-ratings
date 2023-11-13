@@ -6,9 +6,9 @@
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 220,
-  "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1994,
+  "EOS_Progressed": 1995,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2710,6 +2710,11 @@
       "Time": "2023-11-12T20:04:37.2443092+00:00",
       "NumProgressed": 1994,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-13T04:04:18.2243258+00:00",
+      "NumProgressed": 1995,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2721,15 +2726,15 @@
       "Name": "Chain Reaction",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACH_DEAD_OR_ALIVE",
       "SetID": "8j30i9k",
       "Name": "Dead or Alive",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1097
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -2745,7 +2750,7 @@
       "Name": "Dishonored",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_DOG_DAYS",
@@ -2873,7 +2878,7 @@
       "Name": "Let\u2019s Ride",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2897,7 +2902,7 @@
       "Name": "Loyalty to the Pack",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_MAN_IN_BLACK",
@@ -2905,7 +2910,7 @@
       "Name": "Eternity Can Wait",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_MA_BARKER",
@@ -2945,7 +2950,7 @@
       "Name": "Mystery Machine",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ACH_OFF_THE_TRAIL",
@@ -2969,7 +2974,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1297
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -2993,7 +2998,7 @@
       "Name": "Rain of Death",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_REVENANT",
@@ -3009,7 +3014,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 498
+      "UsersEstimate": 499
     },
     {
       "ID": "ACH_SELF_IMPROVEMENT",
@@ -3065,7 +3070,7 @@
       "Name": "The Philosopher\u2019s Stone",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "ACH_THIS_IS_SPARTA",
@@ -3081,7 +3086,7 @@
       "Name": "Through Their Eyes",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "ACH_TURNING_THE_TABLES",
@@ -3097,7 +3102,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1755
+      "UsersEstimate": 1756
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3144,15 +3149,15 @@
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1994,
+      "Progressed": 1995,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-10T21:59:49.034377+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:03:57.9135627+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:04:18.2243248+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:44.9377515+00:00",
-  "LastUpdate_Ratings": "2023-11-13T03:02:36.7974399+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:03:57.9136071+00:00"
+  "LastUpdate_Ratings": "2023-11-13T04:02:37.5754709+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:04:18.224387+00:00"
 }

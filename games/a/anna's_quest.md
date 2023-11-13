@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 75.00% | ~50 |
+| Escape artist | 76.00% | ~51 |
 | Book Worm | 54.00% | ~36 |
 | Ooh, it's shiny! | 51.00% | ~34 |
 | My lost nightingale | 45.00% | ~30 |

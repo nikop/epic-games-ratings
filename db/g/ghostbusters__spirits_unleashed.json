@@ -4,11 +4,11 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 588,
   "Ranking_Popularity": 247,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 122,
-  "Ranking_EOS_Completed": 242,
+  "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3285,10 +3285,10 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30906,
-  "EOS_Completed": 67,
-  "EOS_NewPlayers": 588,
-  "EOS_NewCompleters": 2,
+  "EOS_Progressed": 30910,
+  "EOS_Completed": 68,
+  "EOS_NewPlayers": 591,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
     {
@@ -19050,6 +19050,11 @@
       "Time": "2023-11-13T03:04:42.9901659+00:00",
       "NumProgressed": 30906,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-11-13T04:05:12.8032705+00:00",
+      "NumProgressed": 30910,
+      "NumCompleted": 68
     }
   ],
   "TotalAchievements": 51,
@@ -19061,7 +19066,7 @@
       "Name": "Advancement",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "Animated",
@@ -19173,7 +19178,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 1854
+      "UsersEstimate": 1855
     },
     {
       "ID": "Escape_Artist",
@@ -19365,7 +19370,7 @@
       "Name": "Stylish",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2472
+      "UsersEstimate": 2473
     },
     {
       "ID": "Summoner",
@@ -19419,9 +19424,9 @@
       "ID": "There_You_Are",
       "SetID": "819popo",
       "Name": "There you are!",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 927
+      "UsersEstimate": 1236
     },
     {
       "ID": "Tobins_Prodigy",
@@ -19468,16 +19473,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30906,
-      "Completed": 67
+      "Progressed": 30910,
+      "Completed": 68
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-13T01:49:23.7879246+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:04:42.9901654+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:05:12.8032696+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-13T03:02:39.7022626+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:04:42.9902722+00:00"
+  "LastUpdate_Ratings": "2023-11-13T04:02:41.487145+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:05:12.8034158+00:00"
 }

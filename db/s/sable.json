@@ -6,7 +6,7 @@
   "Ranking_Popularity": 516,
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 87,
-  "Ranking_EOS_Completed": 157,
+  "Ranking_EOS_Completed": 158,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
@@ -497,9 +497,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 98839,
+  "EOS_Progressed": 98843,
   "EOS_Completed": 998,
-  "EOS_NewPlayers": 1135,
+  "EOS_NewPlayers": 1131,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -24062,6 +24062,11 @@
       "Time": "2023-11-13T03:08:41.4929767+00:00",
       "NumProgressed": 98839,
       "NumCompleted": 998
+    },
+    {
+      "Time": "2023-11-13T04:09:00.2708618+00:00",
+      "NumProgressed": 98843,
+      "NumCompleted": 998
     }
   ],
   "TotalAchievements": 56,
@@ -24073,7 +24078,7 @@
       "Name": "Just The Two of Us",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 31628
+      "UsersEstimate": 31630
     },
     {
       "ID": "ach_001_game_complete",
@@ -24129,7 +24134,7 @@
       "Name": "The Climber Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5930
+      "UsersEstimate": 5931
     },
     {
       "ID": "ach_008_entertainer_mask",
@@ -24161,7 +24166,7 @@
       "Name": "The Merchant Mask",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5930
+      "UsersEstimate": 5931
     },
     {
       "ID": "ach_012_cartographers_mask",
@@ -24185,7 +24190,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 15814
+      "UsersEstimate": 15815
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -24193,7 +24198,7 @@
       "Name": "Honorary Chum",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 5930
+      "UsersEstimate": 5931
     },
     {
       "ID": "ach_016_door_dunboyne",
@@ -24225,7 +24230,7 @@
       "Name": "Rowleys Way",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 10872
+      "UsersEstimate": 10873
     },
     {
       "ID": "ach_020_door_centre_of_brunswick",
@@ -24281,7 +24286,7 @@
       "Name": "Up On High",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24710
+      "UsersEstimate": 24711
     },
     {
       "ID": "ach_027_fix_atomic_heart",
@@ -24289,7 +24294,7 @@
       "Name": "Power to the People",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 13837
+      "UsersEstimate": 13838
     },
     {
       "ID": "ach_028_accuse_suspect",
@@ -24297,7 +24302,7 @@
       "Name": "Take That!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12849
+      "UsersEstimate": 12850
     },
     {
       "ID": "ach_029_collect_lightning_crystal",
@@ -24321,7 +24326,7 @@
       "Name": "Nesting Giant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 13837
+      "UsersEstimate": 13838
     },
     {
       "ID": "ach_032_collect_elephant_beetle",
@@ -24329,7 +24334,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23721
+      "UsersEstimate": 23722
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -24385,7 +24390,7 @@
       "Name": "Simoon",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 33605
+      "UsersEstimate": 33607
     },
     {
       "ID": "ach_040_customise_hoverbike",
@@ -24393,7 +24398,7 @@
       "Name": "Under The Hood",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 24710
+      "UsersEstimate": 24711
     },
     {
       "ID": "ach_041_talk_to_npcs_1",
@@ -24401,7 +24406,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 23721
+      "UsersEstimate": 23722
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -24409,7 +24414,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15814
+      "UsersEstimate": 15815
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -24417,7 +24422,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 15814
+      "UsersEstimate": 15815
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -24425,7 +24430,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 17791
+      "UsersEstimate": 17792
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -24433,7 +24438,7 @@
       "Name": "Treasure Tracker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 12849
+      "UsersEstimate": 12850
     },
     {
       "ID": "ach_046_stay_airborne",
@@ -24441,7 +24446,7 @@
       "Name": "Bikes Don\u0027t Fly",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5930
+      "UsersEstimate": 5931
     },
     {
       "ID": "ach_047_drive_long_distance",
@@ -24457,7 +24462,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 15814
+      "UsersEstimate": 15815
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -24489,7 +24494,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 12849
+      "UsersEstimate": 12850
     },
     {
       "ID": "ach_053_angler_mask",
@@ -24520,15 +24525,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 98839,
+      "Progressed": 98843,
       "Completed": 998
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2023-10-25T15:57:21.7620587+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:08:41.4929763+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:09:00.2708612+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:44.8321264+00:00",
-  "LastUpdate_Ratings": "2023-11-13T03:00:04.2448897+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:08:41.4931344+00:00"
+  "LastUpdate_Ratings": "2023-11-13T04:00:48.546191+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:09:00.2710549+00:00"
 }

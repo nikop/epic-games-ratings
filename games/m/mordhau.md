@@ -5,29 +5,29 @@ Rating: 4.39 (Ranked 748)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~762,451 |
-| The ABCs | 43.00% | ~669,089 |
-| Home Run | 41.00% | ~637,969 |
-| Keeps Coming Off | 41.00% | ~637,969 |
-| Guts | 20.00% | ~311,204 |
-| Meat Grinder | 19.00% | ~295,644 |
-| Burning Man | 16.00% | ~248,964 |
-| Lived to Tell the Tale | 12.00% | ~186,723 |
-| Highlander | 10.00% | ~155,602 |
-| Unstoppable | 10.00% | ~155,602 |
-| Just a Scratch | 9.00% | ~140,042 |
-| Tough Nut to Crack | 6.00% | ~93,361 |
-| Yoink | 6.00% | ~93,361 |
-| Long List of Names | 4.00% | ~62,241 |
-| Pyromaniac | 4.00% | ~62,241 |
-| The Queen of Weapons | 4.00% | ~62,241 |
+| Justice from the Grave | 49.00% | ~762,459 |
+| The ABCs | 43.00% | ~669,097 |
+| Home Run | 41.00% | ~637,976 |
+| Keeps Coming Off | 41.00% | ~637,976 |
+| Guts | 20.00% | ~311,208 |
+| Meat Grinder | 19.00% | ~295,647 |
+| Burning Man | 16.00% | ~248,966 |
+| Lived to Tell the Tale | 12.00% | ~186,725 |
+| Highlander | 10.00% | ~155,604 |
+| Unstoppable | 10.00% | ~155,604 |
+| Just a Scratch | 9.00% | ~140,044 |
+| Tough Nut to Crack | 6.00% | ~93,362 |
+| Yoink | 6.00% | ~93,362 |
+| Long List of Names | 4.00% | ~62,242 |
+| Pyromaniac | 4.00% | ~62,242 |
+| The Queen of Weapons | 4.00% | ~62,242 |
 | This isn’t Sparta | 3.00% | ~46,681 |
-| Crybaby | 2.00% | ~31,120 |
-| Eagle Eye | 2.00% | ~31,120 |
-| I Know Kung Fu | 2.00% | ~31,120 |
-| Poacher | 2.00% | ~31,120 |
-| Put That Away | 2.00% | ~31,120 |
-| You’re Welcome | 2.00% | ~31,120 |
+| Crybaby | 2.00% | ~31,121 |
+| Eagle Eye | 2.00% | ~31,121 |
+| I Know Kung Fu | 2.00% | ~31,121 |
+| Poacher | 2.00% | ~31,121 |
+| Put That Away | 2.00% | ~31,121 |
+| You’re Welcome | 2.00% | ~31,121 |
 | Chambermaid | 1.00% | ~15,560 |
 | Coming Through | 1.00% | ~15,560 |
 | Training Accident | 0.90% | ~14,004 |
@@ -44,8 +44,8 @@ Rating: 4.39 (Ranked 748)
 | That’s No Ordinary Cold | 0.10% | ~1,556 |
 | Stairway to Hell | 0.10% | ~1,556 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,556,022 (Ranked 7)  
-Completed: 68 (0.00%) (Ranked 349)  
+Progressed: 1,556,039 (Ranked 7)  
+Completed: 68 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -251,7 +251,7 @@ Completed: 68 (0.00%) (Ranked 349)
 | 2023-11-10 | 1,554,527 | 68 |
 | 2023-11-11 | 1,555,249 | 68 |
 | 2023-11-12 | 1,555,950 | 68 |
-| 2023-11-13 | 1,556,022 | 68 |
+| 2023-11-13 | 1,556,039 | 68 |
 ## Awards
 Max (Diverse Characters): 924  (Ranked 157)  
 Sum: 4,251 (Ranked 149)  

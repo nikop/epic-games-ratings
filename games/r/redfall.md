@@ -21,14 +21,14 @@ Rating: 3.47 (Ranked 1,037)
 | Wounded Whispers | 1.00% | ~18 |
 | Heart Attack | 1.00% | ~18 |
 | Skin of Their Teeth | 1.00% | ~18 |
+| Sic Transit Umbra | 0.90% | ~16 |
 | Neighborhood Revitalization | 0.80% | ~14 |
-| Sic Transit Umbra | 0.80% | ~14 |
 | Radio Silence | 0.80% | ~14 |
 | Bell-ringer | 0.80% | ~14 |
+| Good Morning | 0.80% | ~14 |
 | From the Shadows | 0.80% | ~14 |
 | Harvest’s End | 0.80% | ~14 |
 | Bad Wiring | 0.70% | ~12 |
-| Good Morning | 0.70% | ~12 |
 | Contingency Plans | 0.60% | ~11 |
 | Silence Is Golden | 0.60% | ~11 |
 | Helping Hand | 0.60% | ~11 |
@@ -73,7 +73,7 @@ Rating: 3.47 (Ranked 1,037)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,768 (Ranked 225)  
-Completed: 0 (0.00%) (Ranked 349)  
+Completed: 0 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

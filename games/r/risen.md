@@ -16,9 +16,9 @@ Rating: 4.59 (Ranked 431)
 | Well-to-do | 57.00% | ~20 |
 | The merciful one | 51.00% | ~18 |
 | Ladies' man | 51.00% | ~18 |
+| Wise man | 37.00% | ~13 |
 | Ferocious wild boars | 37.00% | ~13 |
 | Idiot | 37.00% | ~13 |
-| Wise man | 34.00% | ~12 |
 | Family man | 31.00% | ~11 |
 | Ogre friend | 29.00% | ~10 |
 | Peacekeeper | 29.00% | ~10 |
@@ -57,7 +57,7 @@ Rating: 4.59 (Ranked 431)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 35 (Ranked 503)  
-Completed: 0 (0.00%) (Ranked 349)  
+Completed: 0 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 410,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 170,
-  "Ranking_EOS_Completed": 327,
+  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Completed": 328,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -181,7 +181,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7740,
+  "EOS_Progressed": 7741,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 0,
@@ -6661,6 +6661,11 @@
       "Time": "2023-11-13T03:08:57.6762078+00:00",
       "NumProgressed": 7740,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T04:09:20.1129679+00:00",
+      "NumProgressed": 7741,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6673,7 +6678,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5573
+      "UsersEstimate": 5574
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6681,7 +6686,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5418
+      "UsersEstimate": 5419
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6769,7 +6774,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3328
+      "UsersEstimate": 3329
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6825,7 +6830,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4721
+      "UsersEstimate": 4722
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6849,7 +6854,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3560
+      "UsersEstimate": 3561
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6952,22 +6957,22 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7740,
+      "Progressed": 7741,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 357,
-      "Completed": 357
+      "Progressed": 358,
+      "Completed": 358
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:08:57.6762074+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:09:20.112967+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-13T03:02:49.9500135+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:08:57.6762633+00:00"
+  "LastUpdate_Ratings": "2023-11-13T04:02:54.3600138+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:09:20.1130352+00:00"
 }

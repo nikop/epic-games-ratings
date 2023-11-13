@@ -31,18 +31,18 @@ Rating: 4.35 (Ranked 795)
 | Gedeon Demir | 35.00% | ~156 |
 | Rehana Piette | 34.00% | ~151 |
 | Instinct is Marvellous | 33.00% | ~147 |
-| Ernesto da Silva | 32.00% | ~142 |
+| Ernesto da Silva | 33.00% | ~147 |
 | Inge Frank | 31.00% | ~138 |
 | The Search | 30.00% | ~134 |
 | Hugo Beckers | 29.00% | ~129 |
-| The Family | 27.00% | ~120 |
-| Well-travelled | 26.00% | ~116 |
+| The Family | 28.00% | ~125 |
+| Well-travelled | 27.00% | ~120 |
 | Thinking of Everything | 26.00% | ~116 |
+| Viscount Edwin Van den Bosch | 26.00% | ~116 |
 | Exquisite Artwork | 25.00% | ~111 |
 | Archibald Sterling | 25.00% | ~111 |
-| Viscount Edwin Van den Bosch | 25.00% | ~111 |
 | Well-prepared | 21.00% | ~93 |
-| The Truth | 20.00% | ~89 |
+| The Truth | 21.00% | ~93 |
 | Sunken Secrets | 18.00% | ~80 |
 | What Else Did I Miss? | 18.00% | ~80 |
 | I Like an Audience | 18.00% | ~80 |
@@ -53,7 +53,7 @@ Rating: 4.35 (Ranked 795)
 | Work-life Balance | 2.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 445 (Ranked 310)  
-Completed: 6 (1.35%) (Ranked 142)  
+Completed: 6 (1.35%) (Ranked 143)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1039,
+  "EOS_Progressed": 1040,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 140,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2052,6 +2052,11 @@
       "Time": "2023-11-13T00:04:14.7172998+00:00",
       "NumProgressed": 1039,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T04:04:04.1585211+00:00",
+      "NumProgressed": 1040,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2064,7 +2069,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2072,7 +2077,7 @@
       "Name": "Acrobat",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -2112,7 +2117,7 @@
       "Name": "Globetrotter",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -2208,7 +2213,7 @@
       "Name": "Well begun\u2026",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -2344,7 +2349,7 @@
       "Name": "Perfectionist",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -2400,27 +2405,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 541
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1039,
+      "Progressed": 1040,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 707,
-      "Completed": 707
+      "Progressed": 708,
+      "Completed": 708
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:03:46.314884+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:04:04.1585204+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:59:38.7165307+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:03:46.3149333+00:00"
+  "LastUpdate_Ratings": "2023-11-13T04:00:15.4780132+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:04:04.1585701+00:00"
 }

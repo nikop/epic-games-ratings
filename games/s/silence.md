@@ -7,28 +7,28 @@
 | Chapter I | 52.00% | ~80 |
 | Fire in the... nevermind | 52.00% | ~80 |
 | Haute cuisine | 47.00% | ~72 |
-| Demolition expert | 40.00% | ~61 |
-| I didn't do it! | 40.00% | ~61 |
+| Demolition expert | 40.00% | ~62 |
+| I didn't do it! | 40.00% | ~62 |
 | Keep away from children | 37.00% | ~57 |
 | Wooooooow! | 36.00% | ~55 |
 | Open up wide | 35.00% | ~54 |
-| Artistic fool | 33.00% | ~50 |
-| Let the boot talk | 31.00% | ~47 |
-| Shadow on the wall | 27.00% | ~41 |
-| Chapter II | 27.00% | ~41 |
-| Handyman | 24.00% | ~37 |
-| Bubblekillerfamily | 24.00% | ~37 |
-| Achoo!! | 24.00% | ~37 |
-| Chapter III | 24.00% | ~37 |
-| Like a moth in the Wind | 24.00% | ~37 |
+| Artistic fool | 33.00% | ~51 |
+| Let the boot talk | 31.00% | ~48 |
+| Shadow on the wall | 28.00% | ~43 |
+| Chapter II | 27.00% | ~42 |
+| Handyman | 23.00% | ~35 |
+| Bubblekillerfamily | 23.00% | ~35 |
+| Achoo!! | 23.00% | ~35 |
+| Chapter III | 23.00% | ~35 |
+| Like a moth in the Wind | 23.00% | ~35 |
 | Quite a buggy game | 21.00% | ~32 |
-| Pacifist | 20.00% | ~31 |
 | Mirror mirror on the wall... | 20.00% | ~31 |
+| Pacifist | 19.00% | ~29 |
 | Fastidious Clown | 18.00% | ~28 |
 | It's not easy being green! | 18.00% | ~28 |
 | Home is where the heart is | 18.00% | ~28 |
-| Master of Thermodynamics | 14.00% | ~21 |
-| Death is a part of life | 14.00% | ~21 |
+| Master of Thermodynamics | 14.00% | ~22 |
+| Death is a part of life | 14.00% | ~22 |
 | To err is human... | 12.00% | ~18 |
 | Unfullfilled dreams | 12.00% | ~18 |
 | Nothing can stop me | 10.00% | ~15 |
@@ -48,11 +48,11 @@
 | Checkmate in 8 moves | 2.00% | ~3 |
 | Summit attempt | 1.00% | ~2 |
 | Done. First! | 1.00% | ~2 |
-| Sherlock Holmes | 0.70% | ~1 |
-| Do not feed the fish! | 0.70% | ~1 |
+| Sherlock Holmes | 0.60% | ~1 |
+| Do not feed the fish! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 391)  
-Completed: 0 (0.00%) (Ranked 349)  
+Progressed: 154 (Ranked 391)  
+Completed: 0 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,6 +102,7 @@ Completed: 0 (0.00%) (Ranked 349)
 | 2023-11-10 | 149 | 0 |
 | 2023-11-11 | 151 | 0 |
 | 2023-11-12 | 153 | 0 |
+| 2023-11-13 | 154 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

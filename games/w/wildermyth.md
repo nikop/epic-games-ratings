@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,459 (Ranked 236)  
-Completed: 6 (0.41%) (Ranked 209)  
+Completed: 6 (0.41%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -3,9 +3,9 @@
   "Name": "Night Run",
   "ProductSlug": "night-run-51c60e",
   "Ranking_EOS_Progress": 145,
-  "Ranking_EOS_Completed": 349,
+  "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
     "PcReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15540,
+  "EOS_Progressed": 15548,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2993,
+  "EOS_NewPlayers": 2992,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2364,6 +2364,11 @@
       "Time": "2023-11-13T03:04:49.4057112+00:00",
       "NumProgressed": 15540,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T04:05:20.4585373+00:00",
+      "NumProgressed": 15548,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T14:04:58.0760511+00:00",
@@ -2799,14 +2804,14 @@
     {
       "ID": "aom4nln",
       "IsBase": true,
-      "Progressed": 15540,
+      "Progressed": 15548,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-31T18:58:29.5183191+00:00",
   "FirstSeenAchievements": "2023-08-23T16:03:17.8901767+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:04:49.4057107+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:05:20.4585357+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:18.5058037+00:00",
-  "LastUpdate_Ratings": "2023-11-13T03:03:00.3220139+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:04:49.4057491+00:00"
+  "LastUpdate_Ratings": "2023-11-13T04:03:07.0586978+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:05:20.4585984+00:00"
 }

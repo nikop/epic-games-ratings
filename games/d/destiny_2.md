@@ -31,7 +31,7 @@ Number of Ratings: 32,207  (23.09.2022)
 | Seal the Deal | 4.00% | ~23,195 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 579,876 (Ranked 31)  
-Completed: 16,482 (2.84%) (Ranked 104)  
+Completed: 16,482 (2.84%) (Ranked 105)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -240,7 +240,7 @@ Completed: 16,482 (2.84%) (Ranked 104)
 | 2023-11-13 | 579,876 | 16,482 |
 ## Awards
 Max (Great Boss Battles): 39,104  (Ranked 14)  
-Sum: 100,225 (Ranked 16)  
+Sum: 100,237 (Ranked 16)  
 Diff (max vs sum): -2  
 | Award | Count |
 | ----- | ----- |
@@ -248,7 +248,7 @@ Diff (max vs sum): -2
 | This game has Diverse Characters | 8,825 |
 | This game is Highly Recommended | 7,764 |
 | This game is Extremely Fun | 7,555 |
-| This game has Quickly Understood Controls | 7,445 |
+| This game has Quickly Understood Controls | 7,457 |
 | This game is Relaxing | 7,441 |
 | This game has Amazing Characters | 7,411 |
 | This game has Amazing Storytelling | 7,391 |
@@ -536,4 +536,4 @@ Diff (max vs sum): -2
 | 2023-11-10 | 4.49 | - | 39,059 | 100,062 |
 | 2023-11-11 | 4.49 | - | 39,081 | 100,140 |
 | 2023-11-12 | 4.49 | - | 39,104 | 100,216 |
-| 2023-11-13 | 4.49 | - | 39,104 | 100,225 |
+| 2023-11-13 | 4.49 | - | 39,104 | 100,237 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
-  "Ranking_EOS_Completed": 225,
+  "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 9,
+  "Ranking_EOS_NewCompleters": 10,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15056,7 +15056,7 @@
       "Count": 12811
     }
   ],
-  "EOS_Progressed": 896477,
+  "EOS_Progressed": 896481,
   "EOS_Completed": 2771,
   "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 24,
@@ -38471,6 +38471,11 @@
       "Time": "2023-11-13T03:04:53.8002399+00:00",
       "NumProgressed": 896477,
       "NumCompleted": 2771
+    },
+    {
+      "Time": "2023-11-13T04:05:25.5387381+00:00",
+      "NumProgressed": 896481,
+      "NumCompleted": 2771
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38937,9 +38942,9 @@
       "ID": "AllThePresidentsMen",
       "SetID": "23nboa5",
       "Name": "All the President\u0027s Men",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 126
+      "UsersEstimate": 151
     },
     {
       "ID": "HydraIsDead",
@@ -39018,21 +39023,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896477,
+      "Progressed": 896481,
       "Completed": 2771
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25100,
+      "Progressed": 25104,
       "Completed": 10218
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-13T02:20:53.4638691+00:00",
-  "LastChanged_Achievements": "2023-11-13T03:04:53.8002396+00:00",
+  "LastChanged_Achievements": "2023-11-13T04:05:25.5387369+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:59:13.8187277+00:00",
-  "LastUpdate_Achievements": "2023-11-13T03:04:53.8003817+00:00"
+  "LastUpdate_Ratings": "2023-11-13T03:59:44.0648273+00:00",
+  "LastUpdate_Achievements": "2023-11-13T04:05:25.5389417+00:00"
 }

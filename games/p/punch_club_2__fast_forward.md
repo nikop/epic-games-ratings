@@ -25,7 +25,7 @@
 | Employee of the month | 66.00% | ~225 |
 | Workout professional | 62.00% | ~211 |
 | Law student | 62.00% | ~211 |
-| Handyman | 60.00% | ~205 |
+| Handyman | 61.00% | ~208 |
 | Champion – starter pack | 60.00% | ~205 |
 | It's good to be alive | 60.00% | ~205 |
 | Own four walls | 60.00% | ~205 |
@@ -72,7 +72,7 @@
 | The only right decision | 30.00% | ~102 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 341 (Ranked 324)  
-Completed: 9 (2.64%) (Ranked 109)  
+Completed: 9 (2.64%) (Ranked 110)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

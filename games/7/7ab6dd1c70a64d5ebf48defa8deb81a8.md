@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 58.00% | ~106 |
+| Break Out | 59.00% | ~108 |
 | Trinity | 34.00% | ~62 |
 | Find Allies | 30.00% | ~55 |
 | Shatter Them All | 29.00% | ~53 |
@@ -42,7 +42,7 @@
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 183 (Ranked 381)  
-Completed: 1 (0.55%) (Ranked 186)  
+Completed: 1 (0.55%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

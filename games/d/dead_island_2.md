@@ -49,7 +49,7 @@ Rating: 4.54 (Ranked 523)
 | Smorgasbord | 0.20% | ~1,435 |
 | Sole Survivor | 0.20% | ~1,435 |
 | Gore Horse | 0.20% | ~1,435 |
-| Top That, Tisha! | 0.20% | ~86 |
+| Top That, Tisha! | 0.20% | ~87 |
 | Donk! | 0.10% | ~718 |
 | Sharpest Tool in the Box | 0.10% | ~718 |
 | Survival Skills | 0.10% | ~718 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,706 (Ranked 20)  
-Completed: 2,386 (0.33%) (Ranked 222)  
+Progressed: 717,722 (Ranked 20)  
+Completed: 2,386 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,7 +264,7 @@ Completed: 2,386 (0.33%) (Ranked 222)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 717,706 | 2,386 |
+| 2023-11-13 | 717,722 | 2,386 |
 ## Awards
 Max (Great Boss Battles): 7,376  (Ranked 51)  
 Sum: 11,193 (Ranked 85)  
