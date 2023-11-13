@@ -619,6 +619,7 @@
 | [Figment 2: Creed Valley](../games/f/figment_2__creed_valley.md) | 18 | 1,000 |
 | [FutureGrind](../games/8/80a76982ecc941dd864a8792a03a5ddc.md) | 18 | 1,000 |
 | [Gray Dawn](../games/9/9704cc138a58450abe19bbb318866b1c.md) | 18 | 1,000 |
+| [Jump Challenge!](../games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 18 | 1,000 |
 | [Mia and the Dragon Princess](../games/m/mia_and_the_dragon_princess.md) | 18 | 1,000 |
 | [Nova Strike](../games/b/b1555bed500048b79f6fad321d5a7202.md) | 18 | 1,000 |
 | [Rescue Party: Live!](../games/r/rescue_party__live!.md) | 18 | 1,000 |

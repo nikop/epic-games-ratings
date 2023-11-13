@@ -386,6 +386,7 @@
 | [JARS](../games/j/jars.md) | 20 | 1,000 |
 | [Jennifer Wilde Unlikely Revolutionaries](../games/j/jennifer_wilde_unlikely_revolutionaries.md) | 10 | 1,000 |
 | [Jill of the Jungle: The Complete Trilogy](../games/j/jill_of_the_jungle__the_complete_trilogy.md) | 5 | 1,000 |
+| [Jump Challenge!](../games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 18 | 1,000 |
 | [JYDGE](../games/j/jydge.md) | 15 | 1,000 |
 | [Kabaret](../games/k/kabaret.md) | 67 | 1,000 |
 | [Kaichu - The Kaiju Dating Sim](../games/k/kaichu_-_the_kaiju_dating_sim.md) | 15 | 1,000 |
