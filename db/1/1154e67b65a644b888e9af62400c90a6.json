@@ -4,10 +4,10 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 674,
   "Ranking_Popularity": 241,
-  "Ranking_PopularitySum": 298,
+  "Ranking_PopularitySum": 297,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -449,10 +449,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 679,
       "NumberOfAwardsMax": 336
+    },
+    {
+      "Time": "2023-11-13T12:00:46.1232481+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 683,
+      "NumberOfAwardsMax": 336
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 679,
+  "NumberOfAwards": 683,
   "NumberOfAwardsMax": 336,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -526,7 +532,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 24
+      "Count": 28
     }
   ],
   "EOS_Progressed": 0,
@@ -541,8 +547,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2023-11-13T10:00:12.2619809+00:00",
+  "LastChanged": "2023-11-13T12:00:46.1232479+00:00",
   "LastUpdate_AppInfo": "2023-11-07T18:56:54.0544561+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:59:50.9247914+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:04:58.2632851+00:00"
+  "LastUpdate_Ratings": "2023-11-13T12:00:46.1232485+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:05:51.1034952+00:00"
 }

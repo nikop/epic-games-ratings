@@ -4,7 +4,7 @@
   "ProductSlug": "ninja-kato-1-47e118",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-12-08T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T01:47:31.2338754+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:08:18.7336815+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:08:19.0965027+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:15.2955703+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:58:12.1832841+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:08:18.7336854+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:58:38.2613671+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:08:19.0965059+00:00"
 }

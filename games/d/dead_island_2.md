@@ -5,10 +5,10 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~867 |
-| Whatever It Takes | 2.00% | ~867 |
-| Pork Chopped | 2.00% | ~867 |
-| Welcome To Hell-A | 0.90% | ~6,460 |
+| One of Us | 2.00% | ~868 |
+| Whatever It Takes | 2.00% | ~868 |
+| Pork Chopped | 2.00% | ~868 |
+| Welcome To Hell-A | 0.90% | ~6,461 |
 | Hotel California | 0.80% | ~5,743 |
 | Git Gutte! | 0.70% | ~5,025 |
 | Break A Leg | 0.70% | ~5,025 |
@@ -38,12 +38,12 @@ Rating: 4.54 (Ranked 523)
 | Humanity Distilled | 0.40% | ~2,871 |
 | I Am the Resurrection | 0.40% | ~2,871 |
 | Down with the Sickness | 0.40% | ~2,871 |
-| On Safari | 0.30% | ~2,153 |
-| Internet Famous | 0.30% | ~2,153 |
-| Jumbo Keyring | 0.30% | ~2,153 |
-| Go, Bobcats! | 0.30% | ~2,153 |
-| Variety is the Spice of Death | 0.30% | ~2,153 |
-| Rising Star | 0.30% | ~2,153 |
+| On Safari | 0.30% | ~2,154 |
+| Internet Famous | 0.30% | ~2,154 |
+| Jumbo Keyring | 0.30% | ~2,154 |
+| Go, Bobcats! | 0.30% | ~2,154 |
+| Variety is the Spice of Death | 0.30% | ~2,154 |
+| Rising Star | 0.30% | ~2,154 |
 | Make it So | 0.20% | ~1,436 |
 | LA Influential | 0.20% | ~1,436 |
 | Smorgasbord | 0.20% | ~1,436 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,816 (Ranked 20)  
+Progressed: 717,835 (Ranked 20)  
 Completed: 2,386 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,386 (0.33%) (Ranked 223)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 717,816 | 2,386 |
+| 2023-11-13 | 717,835 | 2,386 |
 ## Awards
 Max (Great Boss Battles): 7,376  (Ranked 52)  
 Sum: 11,199 (Ranked 85)  

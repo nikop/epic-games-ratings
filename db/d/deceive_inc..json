@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 470,
+  "Ranking_Rating": 471,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 138,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18831,
+  "EOS_Progressed": 18832,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12838,6 +12838,11 @@
       "Time": "2023-11-12T18:04:39.4923055+00:00",
       "NumProgressed": 18831,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-13T12:05:22.7682326+00:00",
+      "NumProgressed": 18832,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12849,7 +12854,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5649
+      "UsersEstimate": 5650
     },
     {
       "ID": "0002",
@@ -13057,7 +13062,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "0028",
@@ -13089,7 +13094,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "0032",
@@ -13097,7 +13102,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "0033",
@@ -13105,7 +13110,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2071
+      "UsersEstimate": 2072
     },
     {
       "ID": "0034",
@@ -13136,7 +13141,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18831,
+      "Progressed": 18832,
       "Completed": 4
     }
   ],
@@ -13144,8 +13149,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:04:35.203772+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:05:22.7682322+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:53.213288+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:02:41.0877842+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:04:35.2038578+00:00"
+  "LastUpdate_Ratings": "2023-11-13T12:02:29.6309211+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:05:22.7683206+00:00"
 }

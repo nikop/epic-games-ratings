@@ -6,7 +6,7 @@ Number of Ratings: 892  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept Assembler | 248.00% | ~784 |
+| Adept Assembler | 249.00% | ~787 |
 | Iron Chef | 185.00% | ~585 |
 | Greeno-B-Gone | 121.00% | ~382 |
 | Your Especially Earned Trajectory | 94.00% | ~297 |
@@ -14,7 +14,7 @@ Number of Ratings: 892  (23.09.2022)
 | On that Grindset | 62.00% | ~196 |
 | Can We Keep It? | 62.00% | ~196 |
 | Yakmel Whisperer | 57.00% | ~180 |
-| Pack Mule | 55.00% | ~174 |
+| Pack Mule | 56.00% | ~177 |
 | Diamonds are Forever | 53.00% | ~167 |
 | One of the Cool Kids | 52.00% | ~164 |
 | Unboxing | 52.00% | ~164 |
@@ -23,12 +23,12 @@ Number of Ratings: 892  (23.09.2022)
 | Got Served | 47.00% | ~149 |
 | Chatterbox | 44.00% | ~139 |
 | What Plants Crave | 41.00% | ~130 |
+| You Don't Win Friends With Salad | 41.00% | ~130 |
 | Call Me Fishmael | 41.00% | ~130 |
 | My Time Mansion | 40.00% | ~126 |
 | Happier-est Place on Earth | 40.00% | ~126 |
 | I Do! | 40.00% | ~126 |
 | Mole Masher | 40.00% | ~126 |
-| You Don't Win Friends With Salad | 40.00% | ~126 |
 | First Love | 39.00% | ~123 |
 | Knowledge is Power | 38.00% | ~120 |
 | Better Late than Never | 37.00% | ~117 |
@@ -38,12 +38,12 @@ Number of Ratings: 892  (23.09.2022)
 | Builder of the Month | 33.00% | ~104 |
 | Officially Official | 33.00% | ~104 |
 | Who Ya Gonna Call...? | 33.00% | ~104 |
-| Bridging the Gap | 31.00% | ~98 |
+| Bridging the Gap | 32.00% | ~101 |
 | Commissions, commissions...! | 29.00% | ~92 |
 | Martle's Dream | 29.00% | ~92 |
 | Waste Not Want Not | 29.00% | ~92 |
 | Jewel of the Eufaula | 28.00% | ~88 |
-| He Can Spin A Yarn... | 27.00% | ~85 |
+| He Can Spin A Yarn... | 28.00% | ~88 |
 | Elementary, My Dear | 26.00% | ~82 |
 | Got the Flow Back | 26.00% | ~82 |
 | Lifeline Pipeline | 23.00% | ~73 |

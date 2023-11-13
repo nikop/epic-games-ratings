@@ -4,7 +4,7 @@
   "ProductSlug": "kabaret-4810f9",
   "Ranking_EOS_Progress": 583,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-05T16:00:00+00:00",
@@ -620,8 +620,8 @@
   "FirstSeenRating": "2023-04-29T22:57:51.702813+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:15.0612299+00:00",
   "LastChanged": "2023-04-29T22:57:51.7028131+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:09:44.8451756+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:10:04.6111187+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:19.6191635+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:00:04.6341454+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:09:44.8452525+00:00"
+  "LastUpdate_Ratings": "2023-11-13T12:01:04.9039732+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:10:04.6111656+00:00"
 }

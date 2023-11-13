@@ -6,26 +6,26 @@
 | ---- | ---------- | ----- |
 | Break Out | 59.00% | ~109 |
 | Trinity | 34.00% | ~63 |
-| Find Allies | 30.00% | ~55 |
-| Shatter Them All | 29.00% | ~53 |
+| Find Allies | 30.00% | ~56 |
+| Shatter Them All | 29.00% | ~54 |
 | A Taste of Wrath | 28.00% | ~52 |
 | I Found It | 28.00% | ~52 |
 | Adventurer | 27.00% | ~50 |
-| Fashion Victim | 27.00% | ~50 |
 | The Collector | 27.00% | ~50 |
-| Scholar | 26.00% | ~48 |
+| Fashion Victim | 26.00% | ~48 |
 | Powerful Allies | 25.00% | ~46 |
+| Scholar | 25.00% | ~46 |
 | Tributes of Caladrias | 24.00% | ~44 |
 | Geared Up | 24.00% | ~44 |
-| Stone Collection | 22.00% | ~40 |
+| Stone Collection | 22.00% | ~41 |
 | Essence Blow | 15.00% | ~28 |
 | Big Bazar | 14.00% | ~26 |
-| Alchemist | 13.00% | ~24 |
+| Alchemist | 12.00% | ~22 |
 | The Mentor | 10.00% | ~18 |
 | Airborne | 9.00% | ~17 |
 | Miner | 9.00% | ~17 |
 | Flawless Victory | 8.00% | ~15 |
-| Calm before the Storm | 7.00% | ~13 |
+| Calm before the Storm | 6.00% | ~11 |
 | To Battle | 5.00% | ~9 |
 | Godslayer | 5.00% | ~9 |
 | A Queen's Tale | 4.00% | ~7 |
@@ -41,7 +41,7 @@
 | Feeling Fancy | 0.00% | ~0 |
 | Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184 (Ranked 380)  
+Progressed: 185 (Ranked 379)  
 Completed: 1 (0.54%) (Ranked 189)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,4 +77,4 @@ Completed: 1 (0.54%) (Ranked 189)
 | 2023-11-10 | 177 | 1 |
 | 2023-11-11 | 179 | 1 |
 | 2023-11-12 | 183 | 1 |
-| 2023-11-13 | 184 | 1 |
+| 2023-11-13 | 185 | 1 |

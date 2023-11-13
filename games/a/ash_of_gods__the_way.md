@@ -36,12 +36,12 @@
 | Punish the Punisher | 6.00% | ~2 |
 | Cunning plan | 6.00% | ~2 |
 | All's fair in love and war | 6.00% | ~2 |
+| The End | 6.00% | ~2 |
+| Nothing is settled | 6.00% | ~2 |
 | First among Frisians | 3.00% | ~1 |
 | Defeat the bear | 3.00% | ~1 |
 | Do it yourself | 3.00% | ~1 |
 | By someone else's hands | 3.00% | ~1 |
-| The End | 3.00% | ~1 |
-| Nothing is settled | 3.00% | ~1 |
 | Berserk | 0.00% | ~0 |
 | Supplier | 0.00% | ~0 |
 | Master of the Way | 0.00% | ~0 |

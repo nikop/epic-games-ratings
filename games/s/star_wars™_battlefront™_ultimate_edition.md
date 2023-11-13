@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 89.00% | ~1,068 |
-| Off to a good start | 67.00% | ~804 |
-| Do... or do not. There is no try | 52.00% | ~624 |
+| New Recruit | 89.00% | ~1,069 |
+| Off to a good start | 67.00% | ~805 |
+| Do... or do not. There is no try | 52.00% | ~625 |
 | A good blaster at your side | 31.00% | ~372 |
 | I suggest a new strategy | 20.00% | ~240 |
-| Scrap collector | 19.00% | ~228 |
+| Scrap collector | 18.00% | ~216 |
 | All right, I'll give it a try | 17.00% | ~204 |
 | Great shot, kid! | 17.00% | ~204 |
 | The power of the Force | 15.00% | ~180 |
@@ -25,9 +25,9 @@
 | Judge me by my size, do you? | 7.00% | ~84 |
 | "Gonk? Gonk!" | 6.00% | ~72 |
 | Distinguished | 6.00% | ~72 |
-| A tremor in the Force | 6.00% | ~72 |
 | Impressive. Most impressive. | 6.00% | ~72 |
 | Support the troops | 6.00% | ~72 |
+| A tremor in the Force | 5.00% | ~60 |
 | Safety ain't the point of a joyride | 4.00% | ~48 |
 | Not bad for a little furball | 4.00% | ~48 |
 | Patience you must have | 4.00% | ~48 |
@@ -38,37 +38,37 @@
 | Your journey has only started | 3.00% | ~36 |
 | On the ball | 3.00% | ~36 |
 | Precision shot | 3.00% | ~36 |
-| City in the Clouds | 3.00% | ~36 |
 | That's no moon | 3.00% | ~36 |
-| What will you become? | 3.00% | ~36 |
 | Hold the line! | 2.00% | ~24 |
 | The Force is strong with this one | 2.00% | ~24 |
-| Ackbar's Elite | 2.00% | ~24 |
 | This is a new day, a new beginning | 2.00% | ~24 |
+| City in the Clouds | 2.00% | ~24 |
 | Alternative solution | 2.00% | ~24 |
+| What will you become? | 2.00% | ~24 |
 | The circle is now complete | 2.00% | ~24 |
 | Disturbed tranquility | 2.00% | ~24 |
 | Playing the objective | 1.00% | ~12 |
+| Ackbar's Elite | 1.00% | ~12 |
 | You have your moments | 1.00% | ~12 |
 | When surrounded by war... | 1.00% | ~12 |
 | Stop that Droid | 1.00% | ~12 |
 | Onwards! | 1.00% | ~12 |
 | No such thing as luck | 0.90% | ~11 |
 | Do we take prisoners? | 0.90% | ~11 |
-| A New Hope | 0.80% | ~10 |
+| A New Hope | 0.70% | ~8 |
 | Walker defender | 0.70% | ~8 |
 | I’ll take that bet | 0.70% | ~8 |
 | Stay on target | 0.40% | ~5 |
 | Don't get cocky | 0.40% | ~5 |
 | Greed can be a very powerful ally | 0.40% | ~5 |
-| That got him! | 0.30% | ~4 |
 | in a galaxy far, far away.... | 0.30% | ~4 |
-| Master | 0.30% | ~4 |
-| Stay in attack formation | 0.30% | ~4 |
+| That got him! | 0.20% | ~2 |
+| Master | 0.20% | ~2 |
+| Stay in attack formation | 0.20% | ~2 |
 | I never doubted you! | 0.20% | ~2 |
 | Crush them with one swift stroke… | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,200 (Ranked 242)  
+Progressed: 1,201 (Ranked 242)  
 Completed: 1 (0.08%) (Ranked 287)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -126,7 +126,7 @@ Completed: 1 (0.08%) (Ranked 287)
 | 2023-11-10 | 1,147 | 1 |
 | 2023-11-11 | 1,176 | 1 |
 | 2023-11-12 | 1,196 | 1 |
-| 2023-11-13 | 1,200 | 1 |
+| 2023-11-13 | 1,201 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

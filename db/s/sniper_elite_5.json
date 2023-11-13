@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 217,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3858,
+  "EOS_Progressed": 3859,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -7857,6 +7857,11 @@
       "Time": "2023-11-13T01:50:12.4685216+00:00",
       "NumProgressed": 3858,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-13T12:04:24.236734+00:00",
+      "NumProgressed": 3859,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7876,7 +7881,7 @@
       "Name": "Libert\u00E9",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "REWARD_12_BEST_OF_THE_BEST",
@@ -7932,7 +7937,7 @@
       "Name": "Organ Grinder",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "REWARD_19_STRATEGIST",
@@ -8076,7 +8081,7 @@
       "Name": "Lord of War",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -8108,7 +8113,7 @@
       "Name": "As Quiet as a Mouse",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "REWARD_3_THE_KRAKEN_AWAKES",
@@ -8116,7 +8121,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -8130,9 +8135,9 @@
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
       "SetID": "bm6el81",
       "Name": "Snake in the Grass",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 579
     },
     {
       "ID": "REWARD_42_FROM_PARIS_WITH_LOVE",
@@ -8276,7 +8281,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -8435,13 +8440,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3809,
+      "Progressed": 3810,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3858,
+      "Progressed": 3859,
       "Completed": 11
     }
   ],
@@ -8449,8 +8454,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:03:48.2054369+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:04:24.2367335+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.7794257+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:57:20.7795741+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:03:48.2055252+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:57:32.8723444+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:04:24.2368292+00:00"
 }

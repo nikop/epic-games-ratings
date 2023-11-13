@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1200,
+  "EOS_Progressed": 1201,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
@@ -3484,6 +3484,11 @@
       "Time": "2023-11-13T01:55:42.4521522+00:00",
       "NumProgressed": 1200,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T12:10:02.6282113+00:00",
+      "NumProgressed": 1201,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3494,17 +3499,17 @@
       "ID": "achievement_1",
       "SetID": "271ol84",
       "Name": "A New Hope",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 10
+      "UsersEstimate": 8
     },
     {
       "ID": "achievement_10",
       "SetID": "271ol84",
       "Name": "That got him!",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_11",
@@ -3630,9 +3635,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 72
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_26",
@@ -3654,9 +3659,9 @@
       "ID": "achievement_28",
       "SetID": "271ol84",
       "Name": "Master",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 55,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_29",
@@ -3686,9 +3691,9 @@
       "ID": "achievement_31",
       "SetID": "271ol84",
       "Name": "Scrap collector",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 228
+      "UsersEstimate": 216
     },
     {
       "ID": "achievement_32",
@@ -3720,7 +3725,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "achievement_36",
@@ -3736,7 +3741,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "achievement_38",
@@ -3750,9 +3755,9 @@
       "ID": "achievement_39",
       "SetID": "271ol84",
       "Name": "Ackbar\u0027s Elite",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_4",
@@ -3768,7 +3773,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "achievement_41",
@@ -3854,9 +3859,9 @@
       "ID": "achievement_50",
       "SetID": "cemm4l8",
       "Name": "City in the Clouds",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_51",
@@ -3910,9 +3915,9 @@
       "ID": "achievement_57",
       "SetID": "cemm4l8",
       "Name": "Stay in attack formation",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 2
     },
     {
       "ID": "achievement_58",
@@ -3942,9 +3947,9 @@
       "ID": "achievement_60",
       "SetID": "cemm4l8",
       "Name": "What will you become?",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 36
+      "UsersEstimate": 24
     },
     {
       "ID": "achievement_61",
@@ -3999,13 +4004,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1200,
+      "Progressed": 1201,
       "Completed": 1
     }
   ],
@@ -4013,8 +4018,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:09:43.1627576+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:10:02.6282108+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:00:35.6424215+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:09:43.1628369+00:00"
+  "LastUpdate_Ratings": "2023-11-13T12:01:46.4500181+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:10:02.6282784+00:00"
 }

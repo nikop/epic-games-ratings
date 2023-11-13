@@ -5,19 +5,19 @@ Rating: 4.12 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,118 |
-| World Map | 79.00% | ~1,799 |
-| Temple of Eternals | 57.00% | ~1,298 |
-| Prestigious | 54.00% | ~1,230 |
-| Fellowship Power | 42.00% | ~956 |
-| Guild Power | 25.00% | ~569 |
+| Victor | 93.00% | ~2,119 |
+| World Map | 79.00% | ~1,800 |
+| Temple of Eternals | 57.00% | ~1,299 |
+| Prestigious | 54.00% | ~1,231 |
+| Fellowship Power | 42.00% | ~957 |
+| Guild Power | 25.00% | ~570 |
 | Prestigious x10 | 22.00% | ~501 |
-| The game is on | 20.00% | ~455 |
-| Exotic Merchant | 18.00% | ~410 |
+| The game is on | 20.00% | ~456 |
+| Exotic Merchant | 19.00% | ~433 |
 | Dragon Clicker | 17.00% | ~387 |
 | Miner Clicker | 17.00% | ~387 |
-| Full Party | 16.00% | ~364 |
-| Inspection | 16.00% | ~364 |
+| Full Party | 16.00% | ~365 |
+| Inspection | 16.00% | ~365 |
 | Dragon Master | 15.00% | ~342 |
 | Enlightenment | 15.00% | ~342 |
 | Hero inspection | 15.00% | ~342 |
@@ -28,13 +28,13 @@ Rating: 4.12 (Ranked 955)
 | Mysterious Rock | 13.00% | ~296 |
 | Superior | 13.00% | ~296 |
 | Scientist | 12.00% | ~273 |
-| Challenger | 11.00% | ~250 |
-| Daily Quest Completionist | 11.00% | ~250 |
-| Doing My Part | 11.00% | ~250 |
-| Hunter | 11.00% | ~250 |
-| Mastery | 11.00% | ~250 |
-| Relic Of The Past | 11.00% | ~250 |
-| The power of Awakening | 11.00% | ~250 |
+| Challenger | 11.00% | ~251 |
+| Daily Quest Completionist | 11.00% | ~251 |
+| Doing My Part | 11.00% | ~251 |
+| Hunter | 11.00% | ~251 |
+| Mastery | 11.00% | ~251 |
+| Relic Of The Past | 11.00% | ~251 |
+| The power of Awakening | 11.00% | ~251 |
 | Four Leaf Clover | 10.00% | ~228 |
 | Frostfire Liberator | 10.00% | ~228 |
 | Moving Up The Ladder | 10.00% | ~228 |
@@ -49,9 +49,9 @@ Rating: 4.12 (Ranked 955)
 | Engineer Mastery | 8.00% | ~182 |
 | The Expeditioner | 8.00% | ~182 |
 | Weekly Quest Completionist | 8.00% | ~182 |
-| Blueprint Upgrades | 7.00% | ~159 |
-| Lock And Load | 7.00% | ~159 |
-| Sailor | 7.00% | ~159 |
+| Blueprint Upgrades | 7.00% | ~160 |
+| Lock And Load | 7.00% | ~160 |
+| Sailor | 7.00% | ~160 |
 | Active Member | 6.00% | ~137 |
 | Ancient Knowledge | 6.00% | ~137 |
 | How Do You Turn This On? | 6.00% | ~137 |
@@ -75,13 +75,13 @@ Rating: 4.12 (Ranked 955)
 | Training makes a Pro player | 1.00% | ~23 |
 | Transmute | 1.00% | ~23 |
 | Tree of Life | 1.00% | ~23 |
-| Beast War Machines | 0.90% | ~20 |
+| Beast War Machines | 0.90% | ~21 |
 | Silverwood liberator | 0.80% | ~18 |
 | Ultimate War Machines | 0.70% | ~16 |
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,277 (Ranked 215)  
+Progressed: 2,279 (Ranked 215)  
 Completed: 2 (0.09%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 2 (0.09%) (Ranked 280)
 | 2023-11-10 | 2,189 | 2 |
 | 2023-11-11 | 2,229 | 2 |
 | 2023-11-12 | 2,269 | 2 |
-| 2023-11-13 | 2,277 | 2 |
+| 2023-11-13 | 2,279 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 489)  
 Sum: 80 (Ranked 455)  

@@ -558,7 +558,7 @@
       "Count": 43
     }
   ],
-  "EOS_Progressed": 16376,
+  "EOS_Progressed": 16377,
   "EOS_Completed": 114,
   "EOS_NewPlayers": 158,
   "EOS_NewCompleters": 0,
@@ -14043,6 +14043,11 @@
       "Time": "2023-11-13T07:06:14.0767987+00:00",
       "NumProgressed": 16376,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2023-11-13T12:07:21.475852+00:00",
+      "NumProgressed": 16377,
+      "NumCompleted": 114
     }
   ],
   "TotalAchievements": 41,
@@ -14070,7 +14075,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3766
+      "UsersEstimate": 3767
     },
     {
       "ID": "tpote_achievement_12",
@@ -14230,7 +14235,7 @@
       "Name": "Let there be darkness",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5240
+      "UsersEstimate": 5241
     },
     {
       "ID": "tpote_achievement_30",
@@ -14318,7 +14323,7 @@
       "Name": "Tattletale",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 6550
+      "UsersEstimate": 6551
     },
     {
       "ID": "tpote_achievement_40",
@@ -14350,7 +14355,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 3766
+      "UsersEstimate": 3767
     },
     {
       "ID": "tpote_achievement_7",
@@ -14381,15 +14386,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 16376,
+      "Progressed": 16377,
       "Completed": 114
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-11-05T20:58:42.6420624+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:06:11.3014753+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:07:21.4758515+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.2386539+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:58:16.1003039+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:06:11.3015584+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:58:42.968992+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:07:21.4759627+00:00"
 }

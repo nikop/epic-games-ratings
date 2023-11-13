@@ -22,8 +22,8 @@ Rating: 3.95 (Ranked 1,005)
 | Track Star | 0.70% | ~636 |
 | True Player | 0.70% | ~636 |
 | Headhunter | 0.60% | ~545 |
-| I Like Trains | 0.50% | ~454 |
-| Freebooter | 0.50% | ~454 |
+| I Like Trains | 0.50% | ~455 |
+| Freebooter | 0.50% | ~455 |
 | Legend Looter | 0.40% | ~364 |
 | Imports and Exports | 0.40% | ~364 |
 | Foo Finder | 0.40% | ~364 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Geek Out | 0.10% | ~91 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,886 (Ranked 91)  
+Progressed: 90,903 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 55 (0.06%) (Ranked 294)
 | 2023-11-10 | 90,247 | 55 |
 | 2023-11-11 | 90,531 | 55 |
 | 2023-11-12 | 90,809 | 55 |
-| 2023-11-13 | 90,886 | 55 |
+| 2023-11-13 | 90,903 | 55 |
 ## Awards
 Max (Diverse Characters): 527  (Ranked 203)  
 Sum: 3,005 (Ranked 176)  

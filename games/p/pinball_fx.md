@@ -6,16 +6,16 @@ Number of Ratings: 756  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Ball Launched | 82.00% | ~229,393 |
-| I know the Rules | 34.00% | ~95,114 |
-| I Found it! | 11.00% | ~30,772 |
+| Ball Launched | 82.00% | ~229,397 |
+| I know the Rules | 34.00% | ~95,116 |
+| I Found it! | 11.00% | ~30,773 |
 | Contender | 10.00% | ~27,975 |
-| First but not Last | 5.00% | ~13,987 |
+| First but not Last | 5.00% | ~13,988 |
 | Ready Steady Score | 4.00% | ~11,190 |
-| Dress Code | 3.00% | ~8,392 |
+| Dress Code | 3.00% | ~8,393 |
 | Full Loot Madness | 2.00% | ~5,595 |
-| My Table, my Rules | 1.00% | ~2,797 |
-| Nine Zeroes | 1.00% | ~2,797 |
+| My Table, my Rules | 1.00% | ~2,798 |
+| Nine Zeroes | 1.00% | ~2,798 |
 | Shiny Memento | 0.30% | ~839 |
 | Pinball Hoarder | 0.30% | ~839 |
 | Interior Designer | 0.30% | ~839 |
@@ -37,7 +37,7 @@ Number of Ratings: 756  (23.09.2022)
 | Fully Involved | 0.00% | ~0 |
 | Collect Them All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 279,747 (Ranked 54)  
+Progressed: 279,753 (Ranked 54)  
 Completed: 0 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 0 (0.00%) (Ranked 350)
 | 2023-11-10 | 279,338 | 0 |
 | 2023-11-11 | 279,535 | 0 |
 | 2023-11-12 | 279,690 | 0 |
-| 2023-11-13 | 279,747 | 0 |
+| 2023-11-13 | 279,753 | 0 |
 ## Awards
 Max (Great for Beginners): 200  (Ranked 288)  
 Sum: 1,594 (Ranked 228)  

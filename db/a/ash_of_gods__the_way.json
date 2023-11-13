@@ -493,9 +493,9 @@
       "ID": "story17",
       "SetID": "c64if4d",
       "Name": "The End",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "story18",
@@ -509,9 +509,9 @@
       "ID": "story19",
       "SetID": "c64if4d",
       "Name": "Nothing is settled",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "story2",
@@ -606,8 +606,8 @@
   "FirstSeenRating": "2023-04-28T08:58:19.1643049+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:53.2474687+00:00",
   "LastChanged": "2023-04-28T08:58:19.164305+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:04:27.9930092+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:05:13.4774072+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:28.1671836+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:00:09.2831798+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:04:27.9930493+00:00"
+  "LastUpdate_Ratings": "2023-11-13T12:01:11.0787567+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:05:13.4774367+00:00"
 }

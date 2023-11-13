@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 347,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1510,9 +1510,9 @@
       "ID": "achievement_31",
       "SetID": "2cpn27e",
       "Name": "Snare Specialist",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "achievement_32",
@@ -1708,8 +1708,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:06:30.8428918+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:07:45.7687935+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:59:43.5225808+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:06:30.8429315+00:00"
+  "LastUpdate_Ratings": "2023-11-13T12:00:36.8361484+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:07:45.7688288+00:00"
 }

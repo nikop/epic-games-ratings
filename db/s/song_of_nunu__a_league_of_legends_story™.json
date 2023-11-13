@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 674,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -1226,9 +1226,9 @@
       "ID": "EV_ACH04",
       "SetID": "6jeac23",
       "Name": "No Bites",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 371
+      "UsersEstimate": 377
     },
     {
       "ID": "EV_ACH05",
@@ -1306,9 +1306,9 @@
       "ID": "EV_ACH14",
       "SetID": "6jeac23",
       "Name": "Boom Things",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 344
+      "UsersEstimate": 350
     },
     {
       "ID": "EV_ACH15",
@@ -1378,9 +1378,9 @@
       "ID": "EV_ACH23",
       "SetID": "6jeac23",
       "Name": "Yummy",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 74
+      "UsersEstimate": 81
     },
     {
       "ID": "EV_ACH24",
@@ -1561,8 +1561,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:09:35.3575101+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:09:53.203119+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-13T11:02:49.7552813+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:09:35.3575532+00:00"
+  "LastUpdate_Ratings": "2023-11-13T12:03:09.9501199+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:09:53.2031629+00:00"
 }

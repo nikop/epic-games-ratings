@@ -4,7 +4,7 @@
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
   "Ranking_EOS_Progress": 486,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -531,9 +531,9 @@
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
       "SetID": "caeik3h",
       "Name": "Nothing is beneath me!",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
@@ -651,9 +651,9 @@
       "ID": "KR4_ACHIEVEMENT_MINE_CART_CARNAGE",
       "SetID": "caeik3h",
       "Name": "Mine Cart Carnage",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOLE",
@@ -835,9 +835,9 @@
       "ID": "KR4_ACHIEVEMENT_THE_THING",
       "SetID": "caeik3h",
       "Name": "Get Away From That!",
-      "Percentage": 29,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "KR4_ACHIEVEMENT_TROLL",
@@ -882,8 +882,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:05:00.9653648+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:05:54.636723+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:36.9496444+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:57:40.9228849+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:05:00.9654187+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:57:57.9075413+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:05:54.6367812+00:00"
 }

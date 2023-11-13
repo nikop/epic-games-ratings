@@ -238,7 +238,7 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40258,
+  "EOS_Progressed": 40260,
   "EOS_Completed": 26,
   "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 0,
@@ -22908,6 +22908,11 @@
       "Time": "2023-11-13T11:06:13.4291878+00:00",
       "NumProgressed": 40258,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-13T12:07:24.1475972+00:00",
+      "NumProgressed": 40260,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22927,7 +22932,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8454
+      "UsersEstimate": 8455
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -23071,7 +23076,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -23079,7 +23084,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2415
+      "UsersEstimate": 2416
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -23150,7 +23155,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40258,
+      "Progressed": 40260,
       "Completed": 26
     }
   ],
@@ -23158,8 +23163,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:06:13.4291874+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:07:24.1475967+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.0772649+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:58:08.8654521+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:06:13.4293112+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:58:33.6894971+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:07:24.1477421+00:00"
 }

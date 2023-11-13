@@ -61,6 +61,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.90% | ~1,257 |
 | Special Ingredient | 0.90% | ~1,257 |
 | Complete Monopoly | 0.90% | ~1,257 |
+| Cream of the Crop | 0.80% | ~1,117 |
 | Above the Norm | 0.80% | ~1,117 |
 | A Ronin Reborn | 0.80% | ~1,117 |
 | Locally Sourced | 0.80% | ~1,117 |
@@ -79,7 +80,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.80% | ~1,117 |
 | Exotic Commodities | 0.80% | ~1,117 |
 | King's Blade | 0.80% | ~1,117 |
-| Cream of the Crop | 0.70% | ~978 |
 | Top of the World | 0.70% | ~978 |
 | Proud Paladin | 0.70% | ~978 |
 | Constellated | 0.70% | ~978 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,654 (Ranked 79)  
+Progressed: 139,660 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 181 (0.13%) (Ranked 263)
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
-| 2023-11-13 | 139,654 | 181 |
+| 2023-11-13 | 139,660 | 181 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,540 (Ranked 50)  

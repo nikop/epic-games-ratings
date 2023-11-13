@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Cause and Effect | 95.00% | ~616 |
 | Fair Share | 69.00% | ~447 |
-| Even Tempered | 56.00% | ~363 |
+| Even Tempered | 57.00% | ~369 |
 | Star-Crossed Lovers | 47.00% | ~305 |
 | The Delivery | 45.00% | ~292 |
 | Shill Bidder | 41.00% | ~266 |

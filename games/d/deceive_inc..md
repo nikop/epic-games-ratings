@@ -1,11 +1,11 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.57 (Ranked 470)  
+Rating: 4.57 (Ranked 471)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,649 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,650 |
 | Mainframe Hacker | 23.00% | ~4,331 |
 | The Spy who eliminated me | 23.00% | ~4,331 |
 | Tomorrow Never Dyes | 22.00% | ~4,143 |
@@ -19,10 +19,10 @@ Rating: 4.57 (Ranked 470)
 | A view to Win | 13.00% | ~2,448 |
 | The Living Portrait | 12.00% | ~2,260 |
 | Smells Like Trouble | 12.00% | ~2,260 |
-| My Motto, My Creed | 11.00% | ~2,071 |
-| Private Collection | 11.00% | ~2,071 |
-| Killer Looks | 11.00% | ~2,071 |
-| Hostile Takeover | 11.00% | ~2,071 |
+| My Motto, My Creed | 11.00% | ~2,072 |
+| Private Collection | 11.00% | ~2,072 |
+| Killer Looks | 11.00% | ~2,072 |
+| Hostile Takeover | 11.00% | ~2,072 |
 | Keycards Royale | 10.00% | ~1,883 |
 | Dr. No Kill | 10.00% | ~1,883 |
 | In It to Win It | 9.00% | ~1,695 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 470)
 | Extraction Confusion | 0.20% | ~38 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,831 (Ranked 138)  
+Progressed: 18,832 (Ranked 138)  
 Completed: 4 (0.02%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,6 +249,7 @@ Completed: 4 (0.02%) (Ranked 319)
 | 2023-11-10 | 18,818 | 4 |
 | 2023-11-11 | 18,830 | 4 |
 | 2023-11-12 | 18,831 | 4 |
+| 2023-11-13 | 18,832 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

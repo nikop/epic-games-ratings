@@ -1404,9 +1404,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10436,
+  "EOS_Progressed": 10437,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 287,
+  "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17059,6 +17059,11 @@
       "Time": "2023-11-13T11:03:06.9898104+00:00",
       "NumProgressed": 10436,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T12:03:33.4410738+00:00",
+      "NumProgressed": 10437,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -17070,7 +17075,7 @@
       "Name": "Leader",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 6366
+      "UsersEstimate": 6367
     },
     {
       "ID": "10",
@@ -17102,7 +17107,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5531
+      "UsersEstimate": 5532
     },
     {
       "ID": "14",
@@ -17110,7 +17115,7 @@
       "Name": "Famous Explorer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3548
+      "UsersEstimate": 3549
     },
     {
       "ID": "15",
@@ -17126,7 +17131,7 @@
       "Name": "Adventurer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 4383
+      "UsersEstimate": 4384
     },
     {
       "ID": "17",
@@ -17182,7 +17187,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7618
+      "UsersEstimate": 7619
     },
     {
       "ID": "23",
@@ -17190,7 +17195,7 @@
       "Name": "New Opportunities",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 3548
+      "UsersEstimate": 3549
     },
     {
       "ID": "24",
@@ -17246,7 +17251,7 @@
       "Name": "Great Leader",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "30",
@@ -17390,7 +17395,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "47",
@@ -17414,7 +17419,7 @@
       "Name": "Mentor",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2401
     },
     {
       "ID": "5",
@@ -17430,7 +17435,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "51",
@@ -17541,15 +17546,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10436,
+      "Progressed": 10437,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-12T19:57:53.2270772+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:03:06.9898101+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:03:33.4410732+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:11.3013234+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:58:05.9668629+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:03:06.9899097+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:58:30.0697588+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:03:33.4411878+00:00"
 }

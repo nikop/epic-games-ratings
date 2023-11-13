@@ -15006,10 +15006,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 351461,
       "NumberOfAwardsMax": 105188
+    },
+    {
+      "Time": "2023-11-13T12:00:33.6196799+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 351530,
+      "NumberOfAwardsMax": 105188
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 351461,
+  "NumberOfAwards": 351530,
   "NumberOfAwardsMax": 105188,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15035,7 +15041,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 18544
+      "Count": 18613
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -15086,7 +15092,7 @@
       "Count": 12876
     }
   ],
-  "EOS_Progressed": 896516,
+  "EOS_Progressed": 896521,
   "EOS_Completed": 2773,
   "EOS_NewPlayers": 1016,
   "EOS_NewCompleters": 26,
@@ -38541,6 +38547,11 @@
       "Time": "2023-11-13T11:05:23.6860084+00:00",
       "NumProgressed": 896516,
       "NumCompleted": 2773
+    },
+    {
+      "Time": "2023-11-13T12:06:22.2434133+00:00",
+      "NumProgressed": 896521,
+      "NumCompleted": 2773
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38679,9 +38690,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3586
+      "UsersEstimate": 4483
     },
     {
       "ID": "MustBeTheRats",
@@ -38881,7 +38892,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26895
+      "UsersEstimate": 26896
     },
     {
       "ID": "YipMan",
@@ -39088,21 +39099,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896516,
+      "Progressed": 896521,
       "Completed": 2773
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25139,
+      "Progressed": 25144,
       "Completed": 10218
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-13T10:59:41.2077171+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:05:23.6860081+00:00",
+  "LastChanged": "2023-11-13T12:00:33.6196797+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:06:22.2434128+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:59:41.2077177+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:05:23.6861365+00:00"
+  "LastUpdate_Ratings": "2023-11-13T12:00:33.6196803+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:06:22.2435927+00:00"
 }

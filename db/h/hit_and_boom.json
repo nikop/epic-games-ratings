@@ -4,7 +4,7 @@
   "ProductSlug": "hit-and-boom-d8bacd",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -32,6 +32,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-11T13:57:22.2840097+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:59:30.3394781+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:03:46.403941+00:00"
+  "LastUpdate_Ratings": "2023-11-13T12:00:19.0456565+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:04:21.8033131+00:00"
 }

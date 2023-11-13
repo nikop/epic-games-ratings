@@ -5,22 +5,22 @@ Rating: 4.39 (Ranked 748)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 10.00% | ~29,464 |
-| IT MAKES BOOM! | 6.00% | ~17,678 |
-| EXTRA BOOST | 5.00% | ~14,732 |
-| PROTECTED | 4.00% | ~11,785 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,839 |
-| PRO | 3.00% | ~8,839 |
+| ROOKIE | 10.00% | ~29,467 |
+| IT MAKES BOOM! | 6.00% | ~17,680 |
+| EXTRA BOOST | 5.00% | ~14,733 |
+| PROTECTED | 4.00% | ~11,787 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,840 |
+| PRO | 3.00% | ~8,840 |
 | A TIGER'S FEAR | 2.00% | ~5,893 |
 | AGGRESSIVE RACER | 2.00% | ~5,893 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,946 |
-| ACE SPEEDSTER | 1.00% | ~2,946 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,947 |
+| ACE SPEEDSTER | 1.00% | ~2,947 |
 | RELEASE THE KRAKEN | 0.80% | ~2,357 |
 | LEGENDARY HERO | 0.80% | ~2,357 |
-| TRAINING HARD | 0.70% | ~2,062 |
-| BE OUR GUEST | 0.70% | ~2,062 |
-| DEFEAT OUR CHAMPION | 0.70% | ~2,062 |
-| FRIENDLY | 0.70% | ~2,062 |
+| TRAINING HARD | 0.70% | ~2,063 |
+| BE OUR GUEST | 0.70% | ~2,063 |
+| DEFEAT OUR CHAMPION | 0.70% | ~2,063 |
+| FRIENDLY | 0.70% | ~2,063 |
 | THE EYE OF THE HUNTER | 0.60% | ~1,768 |
 | MASTER | 0.60% | ~1,768 |
 | EXPERIENCED CREW | 0.50% | ~1,473 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 748)
 | PERFECTLY POISED | 0.20% | ~589 |
 | ACE TRICKSTER | 0.20% | ~589 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294,635 (Ranked 52)  
+Progressed: 294,668 (Ranked 52)  
 Completed: 281 (0.10%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,17 +233,17 @@ Completed: 281 (0.10%) (Ranked 273)
 | 2023-11-10 | 289,858 | 279 |
 | 2023-11-11 | 292,080 | 281 |
 | 2023-11-12 | 294,059 | 281 |
-| 2023-11-13 | 294,635 | 281 |
+| 2023-11-13 | 294,668 | 281 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 406)  
-Sum: 526 (Ranked 319)  
+Sum: 527 (Ranked 319)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 65 |
 | This game has Diverse Characters | 61 |
 | This game is Great for Quick Sessions | 60 |
-| This game has Amazing Characters | 47 |
+| This game has Amazing Characters | 48 |
 | This game has Playful Visuals | 41 |
 | This game has a Competitive Community | 40 |
 | This game has Competitive Players | 40 |
@@ -298,4 +298,4 @@ Diff (max vs sum): 87
 | 2023-11-10 | 4.39 | 62 | 508 |
 | 2023-11-11 | 4.39 | 64 | 522 |
 | 2023-11-12 | 4.39 | 65 | 524 |
-| 2023-11-13 | 4.39 | 65 | 526 |
+| 2023-11-13 | 4.39 | 65 | 527 |

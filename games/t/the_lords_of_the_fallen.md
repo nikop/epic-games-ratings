@@ -5,19 +5,21 @@ Rating: 4.21 (Ranked 900)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Veil Lifted | 0.40% | ~6 |
-| Comrades | 0.40% | ~6 |
+| A Veil Lifted | 0.60% | ~9 |
+| Lost and Found | 0.60% | ~9 |
+| Comrades | 0.50% | ~8 |
+| Thriving in Darkness | 0.50% | ~8 |
 | Shared Triumph | 0.40% | ~6 |
 | No Mercy | 0.40% | ~6 |
-| Thriving in Darkness | 0.40% | ~6 |
-| Lost and Found | 0.30% | ~5 |
-| Shades of Violence | 0.30% | ~5 |
+| Shades of Violence | 0.40% | ~6 |
 | The Past Shapes the Present | 0.30% | ~5 |
 | Weapon Collector | 0.20% | ~3 |
 | What Sights Contained Within | 0.20% | ~3 |
 | Ammunition Collector | 0.20% | ~3 |
 | Throwable Collector | 0.20% | ~3 |
 | Gesture Collector | 0.20% | ~3 |
+| Rise and Fall | 0.20% | ~3 |
+| A Rest Among the Dead | 0.20% | ~3 |
 | Wayfarer | 0.10% | ~2 |
 | Ironclad | 0.10% | ~2 |
 | Trinket Collector | 0.10% | ~2 |
@@ -34,7 +36,6 @@ Rating: 4.21 (Ranked 900)
 | Infernal Offerings | 0.10% | ~2 |
 | Radiant Offerings | 0.10% | ~2 |
 | Umbral Offerings | 0.10% | ~2 |
-| Rise and Fall | 0.10% | ~2 |
 | Together in Death | 0.10% | ~2 |
 | Burying the Past | 0.10% | ~2 |
 | Unwanted | 0.10% | ~2 |
@@ -66,10 +67,9 @@ Rating: 4.21 (Ranked 900)
 | Seasoned | 0.10% | ~2 |
 | Lord of the Fallen | 0.10% | ~2 |
 | Lingering Moments | 0.10% | ~2 |
-| A Rest Among the Dead | 0.10% | ~2 |
 | A Trace of Venom | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,568 (Ranked 234)  
+Progressed: 1,569 (Ranked 234)  
 Completed: 1 (0.06%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 1 (0.06%) (Ranked 294)
 | 2023-11-10 | 1,521 | 1 |
 | 2023-11-11 | 1,538 | 1 |
 | 2023-11-12 | 1,564 | 1 |
-| 2023-11-13 | 1,568 | 1 |
+| 2023-11-13 | 1,569 | 1 |
 ## Awards
 Max (Character Customization): 149  (Ranked 317)  
 Sum: 258 (Ranked 376)  

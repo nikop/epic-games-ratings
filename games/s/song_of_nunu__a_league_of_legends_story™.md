@@ -14,10 +14,10 @@
 | Cutie Poro | 66.00% | ~445 |
 | The Fire Below the Mountain | 63.00% | ~425 |
 | Moneyball | 60.00% | ~404 |
+| No Bites | 56.00% | ~377 |
 | Iceborn | 56.00% | ~377 |
-| No Bites | 55.00% | ~371 |
+| Boom Things | 52.00% | ~350 |
 | Tear of Freedom | 51.00% | ~344 |
-| Boom Things | 51.00% | ~344 |
 | My Darkest Day | 48.00% | ~324 |
 | Rhythm Of Willump | 46.00% | ~310 |
 | The Relentless Storm | 46.00% | ~310 |
@@ -39,7 +39,7 @@
 | Snowy Poro | 31.00% | ~209 |
 | Vertical Power | 28.00% | ~189 |
 | One From The Heart | 14.00% | ~94 |
-| Yummy | 11.00% | ~74 |
+| Yummy | 12.00% | ~81 |
 | Snowball Fightn't | 10.00% | ~67 |
 | It Was Him | 8.00% | ~54 |
 | Handy Yeti | 7.00% | ~47 |

@@ -6,23 +6,23 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 80.00% | ~42,637 |
-| Initial Capital | 67.00% | ~35,708 |
-| Moneybags | 45.00% | ~23,983 |
-| Junior Supply Officer | 45.00% | ~23,983 |
-| Naval Warfare. Arson | 34.00% | ~18,121 |
-| Naval Warfare. Ramming | 33.00% | ~17,588 |
-| Amateur | 31.00% | ~16,522 |
-| Naval Warfare. Tactics | 31.00% | ~16,522 |
-| Naval Constructor | 31.00% | ~16,522 |
-| Naval Warfare. Weaponry Basics | 23.00% | ~12,258 |
-| Naval Warfare. Lucky Shot | 20.00% | ~10,659 |
-| Naval Warfare. Flooding | 19.00% | ~10,126 |
-| Business Magnate | 17.00% | ~9,060 |
-| Battle Hero | 16.00% | ~8,527 |
-| Warrior | 13.00% | ~6,928 |
-| Supply Officer | 13.00% | ~6,928 |
-| Smooth Supply | 13.00% | ~6,928 |
+| Junior Naval Designer | 80.00% | ~42,644 |
+| Initial Capital | 67.00% | ~35,714 |
+| Moneybags | 45.00% | ~23,987 |
+| Junior Supply Officer | 45.00% | ~23,987 |
+| Naval Warfare. Arson | 34.00% | ~18,124 |
+| Naval Warfare. Ramming | 33.00% | ~17,591 |
+| Amateur | 31.00% | ~16,525 |
+| Naval Warfare. Tactics | 31.00% | ~16,525 |
+| Naval Constructor | 31.00% | ~16,525 |
+| Naval Warfare. Weaponry Basics | 23.00% | ~12,260 |
+| Naval Warfare. Lucky Shot | 20.00% | ~10,661 |
+| Naval Warfare. Flooding | 19.00% | ~10,128 |
+| Business Magnate | 17.00% | ~9,062 |
+| Battle Hero | 16.00% | ~8,529 |
+| Warrior | 13.00% | ~6,930 |
+| Supply Officer | 13.00% | ~6,930 |
+| Smooth Supply | 13.00% | ~6,930 |
 | Veteran | 8.00% | ~4,264 |
 | Legend of the Seas | 4.00% | ~2,132 |
 | Chief Naval Architect | 4.00% | ~2,132 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~53 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~53 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 53,296 (Ranked 106)  
+Progressed: 53,305 (Ranked 106)  
 Completed: 0 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,10 +143,10 @@ Completed: 0 (0.00%) (Ranked 350)
 | 2023-11-10 | 52,074 | 0 |
 | 2023-11-11 | 52,607 | 0 |
 | 2023-11-12 | 53,162 | 0 |
-| 2023-11-13 | 53,296 | 0 |
+| 2023-11-13 | 53,305 | 0 |
 ## Awards
 Max (Relaxing): 1,508  (Ranked 130)  
-Sum: 12,598 (Ranked 79)  
+Sum: 12,601 (Ranked 79)  
 Diff (max vs sum): 51  
 | Award | Count |
 | ----- | ----- |
@@ -155,7 +155,7 @@ Diff (max vs sum): 51
 | This game has Challenging Combat | 1,487 |
 | This game has Competitive Players | 1,469 |
 | This game is Extremely Fun | 1,449 |
-| This game is Highly Recommended | 1,445 |
+| This game is Highly Recommended | 1,448 |
 | This game has Realistic Visuals | 1,315 |
 | This game has Amazing Storytelling | 1,250 |
 | This game has a Competitive Community | 1,173 |
@@ -468,4 +468,4 @@ Diff (max vs sum): 51
 | 2023-11-10 | 4.41 | - | 1,500 | 12,537 |
 | 2023-11-11 | 4.41 | - | 1,503 | 12,571 |
 | 2023-11-12 | 4.41 | - | 1,508 | 12,592 |
-| 2023-11-13 | 4.41 | - | 1,508 | 12,598 |
+| 2023-11-13 | 4.41 | - | 1,508 | 12,601 |

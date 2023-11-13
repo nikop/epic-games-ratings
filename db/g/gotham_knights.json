@@ -4109,7 +4109,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76375,
+  "EOS_Progressed": 76376,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
@@ -22439,6 +22439,11 @@
       "Time": "2023-11-13T11:04:44.5279824+00:00",
       "NumProgressed": 76375,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-13T12:05:34.3811125+00:00",
+      "NumProgressed": 76376,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22602,7 +22607,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 4582
+      "UsersEstimate": 4583
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -22650,7 +22655,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4582
+      "UsersEstimate": 4583
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -22754,7 +22759,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26731
+      "UsersEstimate": 26732
     },
     {
       "ID": "HARLEY_2",
@@ -22794,7 +22799,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38951
+      "UsersEstimate": 38952
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22826,7 +22831,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20621
+      "UsersEstimate": 20622
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -22834,7 +22839,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4582
+      "UsersEstimate": 4583
     },
     {
       "ID": "MYSTERY_01",
@@ -22858,7 +22863,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 16802
+      "UsersEstimate": 16803
     },
     {
       "ID": "MYSTERY_04",
@@ -22937,13 +22942,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76375,
+      "Progressed": 76376,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46655,
+      "Progressed": 46656,
       "Completed": 2673
     }
   ],
@@ -22951,8 +22956,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-13T10:57:20.750852+00:00",
-  "LastChanged_Achievements": "2023-11-13T11:04:44.5279822+00:00",
+  "LastChanged_Achievements": "2023-11-13T12:05:34.3811119+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:57:20.7508525+00:00",
-  "LastUpdate_Achievements": "2023-11-13T11:04:44.5281247+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:57:32.7770706+00:00",
+  "LastUpdate_Achievements": "2023-11-13T12:05:34.3812307+00:00"
 }
