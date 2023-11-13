@@ -12,14 +12,14 @@ Rating: 4.06 (Ranked 973)
 | No More Names | 64.00% | ~173 |
 | Initiate | 50.00% | ~136 |
 | Thrada-Kul | 45.00% | ~122 |
-| Gravity-Challenged Rocks | 34.00% | ~92 |
+| Gravity-Challenged Rocks | 35.00% | ~95 |
 | All the Major Food Groups | 30.00% | ~81 |
 | Soldier | 29.00% | ~79 |
 | Socialite | 26.00% | ~70 |
 | Beggars Would Ride | 25.00% | ~68 |
 | Control is an Illusion | 23.00% | ~62 |
 | The Means to Save It | 20.00% | ~54 |
-| Resilience to Sin | 17.00% | ~46 |
+| Resilience to Sin | 18.00% | ~49 |
 | A Familiar Nest | 17.00% | ~46 |
 | Periapt Alizarin | 17.00% | ~46 |
 | Geas Aristeya | 16.00% | ~43 |
@@ -42,13 +42,13 @@ Rating: 4.06 (Ranked 973)
 | Shroudfane Surveyor | 2.00% | ~5 |
 | Backtracker | 2.00% | ~5 |
 | Grand Magnus | 1.00% | ~3 |
+| Petite Bourgeoisie | 1.00% | ~3 |
 | Master of Ultramarine | 1.00% | ~3 |
 | Master of Malachite | 1.00% | ~3 |
 | Tip of the Spear | 1.00% | ~3 |
 | Treasure Hunter | 1.00% | ~3 |
 | Family Business | 0.70% | ~2 |
 | Diplomat | 0.70% | ~2 |
-| Petite Bourgeoisie | 0.70% | ~2 |
 | Witch-Taker | 0.70% | ~2 |
 | Out of Time | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |

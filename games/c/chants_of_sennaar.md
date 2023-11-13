@@ -13,9 +13,9 @@
 | A good beginning | 20.00% | ~107 |
 | True G3M4R | 20.00% | ~107 |
 | The darkness | 20.00% | ~107 |
+| I did it | 19.00% | ~102 |
 | Half the way | 19.00% | ~102 |
 | One last step | 19.00% | ~102 |
-| I did it | 18.00% | ~97 |
 | Peace walker | 18.00% | ~97 |
 | Cable guy | 18.00% | ~97 |
 | Champollion | 18.00% | ~97 |

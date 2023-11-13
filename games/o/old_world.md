@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hanging Gardens | 3.00% | ~459 |
 | Oracle | 3.00% | ~459 |
 | Pyramids | 3.00% | ~459 |
+| Christianity | 3.00% | ~459 |
 | Judaism | 3.00% | ~459 |
 | Babylonian Paganism | 3.00% | ~459 |
 | Greek Paganism | 3.00% | ~459 |
@@ -60,7 +61,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis | 2.00% | ~306 |
 | Learn to Play 1 | 2.00% | ~306 |
 | Learn to Play 2 | 2.00% | ~306 |
-| Christianity | 2.00% | ~306 |
 | Manichaeism | 2.00% | ~306 |
 | Carthaginian Paganism | 2.00% | ~306 |
 | Egyptian Paganism | 2.00% | ~306 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,292 (Ranked 146)  
+Progressed: 15,293 (Ranked 146)  
 Completed: 5 (0.03%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -556,7 +556,7 @@ Completed: 5 (0.03%) (Ranked 313)
 | 2023-11-10 | 15,253 | 5 |
 | 2023-11-11 | 15,270 | 5 |
 | 2023-11-12 | 15,291 | 5 |
-| 2023-11-13 | 15,292 | 5 |
+| 2023-11-13 | 15,293 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 214)  

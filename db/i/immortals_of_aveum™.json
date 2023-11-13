@@ -1287,9 +1287,9 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "achievement_13",
@@ -1375,9 +1375,9 @@
       "ID": "achievement_22",
       "SetID": "18al4io",
       "Name": "Petite Bourgeoisie",
-      "Percentage": 0.7,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "achievement_23",
@@ -1615,9 +1615,9 @@
       "ID": "achievement_7",
       "SetID": "18al4io",
       "Name": "Gravity-Challenged Rocks",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 95
     },
     {
       "ID": "achievement_8",
@@ -1648,8 +1648,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-13T02:59:47.3334037+00:00",
-  "LastChanged_Achievements": "2023-11-13T07:08:27.2518771+00:00",
+  "LastChanged_Achievements": "2023-11-13T08:09:07.9740038+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-13T07:00:08.5689699+00:00",
-  "LastUpdate_Achievements": "2023-11-13T07:08:27.2519177+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:01:22.4201647+00:00",
+  "LastUpdate_Achievements": "2023-11-13T08:09:07.9740638+00:00"
 }

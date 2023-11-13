@@ -1317,9 +1317,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 236887,
+  "EOS_Progressed": 236891,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1370,
+  "EOS_NewPlayers": 1373,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18367,6 +18367,11 @@
       "Time": "2023-11-13T07:08:33.997058+00:00",
       "NumProgressed": 236887,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-13T08:09:16.8257043+00:00",
+      "NumProgressed": 236891,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18434,7 +18439,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9475
+      "UsersEstimate": 9476
     },
     {
       "ID": "Chapter3",
@@ -18810,7 +18815,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 11844
+      "UsersEstimate": 11845
     },
     {
       "ID": "ElfEpic",
@@ -18826,7 +18831,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 82910
+      "UsersEstimate": 82912
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -18842,7 +18847,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9475
+      "UsersEstimate": 9476
     },
     {
       "ID": "EndCombatOneHp",
@@ -18850,7 +18855,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9475
+      "UsersEstimate": 9476
     },
     {
       "ID": "EndGameCursed",
@@ -19026,7 +19031,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9475
+      "UsersEstimate": 9476
     },
     {
       "ID": "SupportCount4",
@@ -19081,21 +19086,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 236887,
+      "Progressed": 236891,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 236887,
+      "Progressed": 236891,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-12T22:57:46.9535159+00:00",
-  "LastChanged_Achievements": "2023-11-13T07:08:33.997057+00:00",
+  "LastChanged_Achievements": "2023-11-13T08:09:16.8257038+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:58:00.8671054+00:00",
-  "LastUpdate_Achievements": "2023-11-13T07:08:33.9974333+00:00"
+  "LastUpdate_Ratings": "2023-11-13T07:58:20.8837646+00:00",
+  "LastUpdate_Achievements": "2023-11-13T08:09:16.8259164+00:00"
 }

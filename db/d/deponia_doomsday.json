@@ -726,9 +726,9 @@
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 134
+      "UsersEstimate": 139
     },
     {
       "ID": "dep4_achievement_23",
@@ -742,9 +742,9 @@
       "ID": "dep4_achievement_24",
       "SetID": "5d32b60",
       "Name": "Thuna...?",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 69
     },
     {
       "ID": "dep4_achievement_25",
@@ -911,8 +911,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-13T07:06:14.2354625+00:00",
+  "LastChanged_Achievements": "2023-11-13T08:07:37.1116212+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.983403+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:58:55.4464898+00:00",
-  "LastUpdate_Achievements": "2023-11-13T07:06:14.2354889+00:00"
+  "LastUpdate_Ratings": "2023-11-13T07:59:38.6889424+00:00",
+  "LastUpdate_Achievements": "2023-11-13T08:07:37.1116598+00:00"
 }

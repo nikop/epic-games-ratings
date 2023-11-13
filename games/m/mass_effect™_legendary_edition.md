@@ -32,8 +32,8 @@
 | Very Elusive | 40.00% | ~489 |
 | Sentinel Ally | 39.00% | ~477 |
 | Head Hunter | 39.00% | ~477 |
+| Scholar | 38.00% | ~465 |
 | Operative | 37.00% | ~453 |
-| Scholar | 37.00% | ~453 |
 | Veteran | 36.00% | ~440 |
 | The Professor | 36.00% | ~440 |
 | The Archangel | 35.00% | ~428 |
@@ -65,10 +65,10 @@
 | Fade Away | 28.00% | ~342 |
 | Agent | 28.00% | ~342 |
 | Revenge! | 28.00% | ~342 |
+| Digital Exorcist | 28.00% | ~342 |
 | Bringer of War | 28.00% | ~342 |
 | Friend or Foe | 27.00% | ~330 |
 | Treason | 27.00% | ~330 |
-| Digital Exorcist | 27.00% | ~330 |
 | Mobilizer | 27.00% | ~330 |
 | Untouchable | 26.00% | ~318 |
 | Mission Accomplished | 26.00% | ~318 |

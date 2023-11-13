@@ -17,10 +17,10 @@ Number of Ratings: 892  (23.09.2022)
 | Pack Mule | 55.00% | ~173 |
 | Diamonds are Forever | 53.00% | ~166 |
 | One of the Cool Kids | 52.00% | ~163 |
-| Unboxing | 51.00% | ~160 |
+| Unboxing | 52.00% | ~163 |
 | Financially Secure | 49.00% | ~154 |
-| Big Game Hunter | 47.00% | ~148 |
-| Got Served | 46.00% | ~144 |
+| Big Game Hunter | 48.00% | ~151 |
+| Got Served | 47.00% | ~148 |
 | Chatterbox | 44.00% | ~138 |
 | Call Me Fishmael | 42.00% | ~132 |
 | What Plants Crave | 41.00% | ~129 |
@@ -44,8 +44,8 @@ Number of Ratings: 892  (23.09.2022)
 | Martle's Dream | 28.00% | ~88 |
 | Jewel of the Eufaula | 28.00% | ~88 |
 | He Can Spin A Yarn... | 27.00% | ~85 |
+| Elementary, My Dear | 26.00% | ~82 |
 | Got the Flow Back | 26.00% | ~82 |
-| Elementary, My Dear | 25.00% | ~78 |
 | Lifeline Pipeline | 23.00% | ~72 |
 | Do Your Part | 22.00% | ~69 |
 | Newton | 22.00% | ~69 |

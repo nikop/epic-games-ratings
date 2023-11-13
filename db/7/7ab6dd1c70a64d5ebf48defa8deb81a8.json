@@ -709,9 +709,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH_02",
@@ -821,9 +821,9 @@
       "ID": "ACH_15",
       "SetID": "efe2lj",
       "Name": "Tributes of Caladrias",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_16",
@@ -1004,8 +1004,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-13T07:09:34.2946275+00:00",
+  "LastChanged_Achievements": "2023-11-13T08:10:37.0279191+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:59:44.4650706+00:00",
-  "LastUpdate_Achievements": "2023-11-13T07:09:34.2946529+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:00:47.9402964+00:00",
+  "LastUpdate_Achievements": "2023-11-13T08:10:37.0279559+00:00"
 }

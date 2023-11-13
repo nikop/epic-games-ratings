@@ -11,10 +11,10 @@ Rating: 4.61 (Ranked 384)
 | Secret Technique | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
 | Freed Lands of Manuhari | 0.90% | ~48 |
+| Bone Peddler | 0.80% | ~43 |
 | From Friends to Family | 0.80% | ~43 |
 | There Can Only Be One! | 0.70% | ~38 |
 | Full Ascension | 0.70% | ~38 |
-| Bone Peddler | 0.70% | ~38 |
 | Stronger Together | 0.60% | ~32 |
 | Magical Synergy | 0.60% | ~32 |
 | Seat of Power | 0.60% | ~32 |

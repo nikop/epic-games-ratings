@@ -6,19 +6,19 @@ Number of Ratings: 22,103  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First F#@!ing Day | 47.00% | ~36,801 |
-| To The Nines | 42.00% | ~32,886 |
-| Optimized | 37.00% | ~28,971 |
-| Performance Review | 36.00% | ~28,188 |
-| Making a Name | 35.00% | ~27,405 |
-| Tune Up | 34.00% | ~26,622 |
-| Landlord | 33.00% | ~25,839 |
-| Wet Work | 32.00% | ~25,056 |
-| The Side Job | 31.00% | ~24,273 |
-| Wrecking Ball | 28.00% | ~21,924 |
-| Food for Thought | 28.00% | ~21,924 |
-| Finders Keepers | 26.00% | ~20,358 |
-| A Young Empire | 26.00% | ~20,358 |
+| First F#@!ing Day | 47.00% | ~36,802 |
+| To The Nines | 42.00% | ~32,887 |
+| Optimized | 37.00% | ~28,972 |
+| Performance Review | 36.00% | ~28,189 |
+| Making a Name | 35.00% | ~27,406 |
+| Tune Up | 34.00% | ~26,623 |
+| Landlord | 33.00% | ~25,840 |
+| Wet Work | 32.00% | ~25,057 |
+| The Side Job | 31.00% | ~24,274 |
+| Wrecking Ball | 28.00% | ~21,925 |
+| Food for Thought | 28.00% | ~21,925 |
+| Finders Keepers | 26.00% | ~20,359 |
+| A Young Empire | 26.00% | ~20,359 |
 | Work Ethic | 23.00% | ~18,009 |
 | Picking Fights | 20.00% | ~15,660 |
 | Power Players | 19.00% | ~14,877 |
@@ -60,7 +60,7 @@ Number of Ratings: 22,103  (23.09.2022)
 | A Car Named Simone | 0.20% | ~157 |
 | Fiesta Time | 0.20% | ~157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 78,301 (Ranked 95)  
+Progressed: 78,302 (Ranked 95)  
 Completed: 51 (0.07%) (Ranked 291)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 51 (0.07%) (Ranked 291)
 | 2023-11-10 | 77,908 | 51 |
 | 2023-11-11 | 78,097 | 51 |
 | 2023-11-12 | 78,267 | 51 |
-| 2023-11-13 | 78,301 | 51 |
+| 2023-11-13 | 78,302 | 51 |
 ## Awards
 Max (Extremely Fun): 1,075  (Ranked 146)  
 Sum: 8,729 (Ranked 98)  

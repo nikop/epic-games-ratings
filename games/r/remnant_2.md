@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,202 |
 | Proving Grounds | 1.00% | ~2,202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,201 (Ranked 68)  
+Progressed: 220,205 (Ranked 68)  
 Completed: 442 (0.20%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,10 +176,10 @@ Completed: 442 (0.20%) (Ranked 249)
 | 2023-11-10 | 219,442 | 438 |
 | 2023-11-11 | 219,801 | 439 |
 | 2023-11-12 | 220,140 | 441 |
-| 2023-11-13 | 220,201 | 442 |
+| 2023-11-13 | 220,205 | 442 |
 ## Awards
 Max (Great Boss Battles): 2,158  (Ranked 109)  
-Sum: 4,882 (Ranked 139)  
+Sum: 4,888 (Ranked 139)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
@@ -189,7 +189,7 @@ Diff (max vs sum): -30
 | This game is Relaxing | 294 |
 | This game is Extremely Fun | 292 |
 | This game is Highly Recommended | 288 |
-| This game has Amazing Storytelling | 273 |
+| This game has Amazing Storytelling | 279 |
 | This game has Quickly Understood Controls | 268 |
 | This game has Amazing Characters | 262 |
 | This game has Unique Visuals | 230 |
@@ -307,4 +307,4 @@ Diff (max vs sum): -30
 | 2023-11-10 | 4.75 | 2,129 | 4,800 |
 | 2023-11-11 | 4.75 | 2,144 | 4,827 |
 | 2023-11-12 | 4.75 | 2,158 | 4,870 |
-| 2023-11-13 | 4.75 | 2,158 | 4,882 |
+| 2023-11-13 | 4.75 | 2,158 | 4,888 |

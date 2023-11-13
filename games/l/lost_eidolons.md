@@ -14,8 +14,8 @@ Rating: 4.35 (Ranked 794)
 | Awakening | 23.00% | ~259 |
 | Huntmaster | 22.00% | ~248 |
 | Complete the sidequest 'Malice and Greed' | 18.00% | ~203 |
+| House Vulisica's Heirloom | 15.00% | ~169 |
 | Digging Deep | 14.00% | ~158 |
-| House Vulisica's Heirloom | 14.00% | ~158 |
 | Broken Oath | 9.00% | ~101 |
 | Way of the King | 7.00% | ~79 |
 | Way of the Warlord | 4.00% | ~45 |
@@ -29,7 +29,7 @@ Rating: 4.35 (Ranked 794)
 | Someone to Protect | 0.90% | ~10 |
 | Lean on Me | 0.60% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,126 (Ranked 246)  
+Progressed: 1,126 (Ranked 247)  
 Completed: 1 (0.09%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |

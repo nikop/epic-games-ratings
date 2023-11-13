@@ -18,14 +18,14 @@ Rating: 4.55 (Ranked 503)
 | Elysian Minigame-Master | 38.00% | ~176 |
 | Scaffolding Expert | 37.00% | ~171 |
 | Sole Music | 36.00% | ~166 |
+| No man left behind! | 30.00% | ~139 |
 | Portals come in packs | 30.00% | ~139 |
-| No man left behind! | 29.00% | ~134 |
 | Photo Friend | 26.00% | ~120 |
 | Brainfreeze | 21.00% | ~97 |
 | And everything comes full circle. | 20.00% | ~92 |
 | Masseltov | 19.00% | ~88 |
 | Quickdraw | 16.00% | ~74 |
-| Thuna...? | 14.00% | ~65 |
+| Thuna...? | 15.00% | ~69 |
 | Monstrous Harassment | 14.00% | ~65 |
 | Heading the inverter | 14.00% | ~65 |
 | Blast from the Past | 12.00% | ~55 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1223,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 220,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -4107,9 +4107,9 @@
       "ID": "achievement_73",
       "SetID": "d252ncf",
       "Name": "Scholar",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 465
     },
     {
       "ID": "achievement_74",
@@ -4139,9 +4139,9 @@
       "ID": "achievement_77",
       "SetID": "d252ncf",
       "Name": "Digital Exorcist",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 330
+      "UsersEstimate": 342
     },
     {
       "ID": "achievement_78",
@@ -4351,8 +4351,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-13T07:04:15.6244207+00:00",
+  "LastChanged_Achievements": "2023-11-13T08:04:55.2148672+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-13T07:03:24.6102895+00:00",
-  "LastUpdate_Achievements": "2023-11-13T07:04:15.6246283+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:03:43.5227711+00:00",
+  "LastUpdate_Achievements": "2023-11-13T08:04:55.2151092+00:00"
 }

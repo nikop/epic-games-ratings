@@ -26,12 +26,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.40% | ~3,586 |
 | Legend of The Afterlife | 0.40% | ~3,586 |
 | Spin Doctor | 0.40% | ~100 |
-| To Protect and Serve | 0.30% | ~2,689 |
-| Master Crafter | 0.30% | ~2,689 |
-| I Am The Law | 0.30% | ~2,689 |
-| The Fool | 0.30% | ~2,689 |
-| The World | 0.30% | ~2,689 |
-| Judy vs Night City | 0.30% | ~2,689 |
+| To Protect and Serve | 0.30% | ~2,690 |
+| Master Crafter | 0.30% | ~2,690 |
+| I Am The Law | 0.30% | ~2,690 |
+| The Fool | 0.30% | ~2,690 |
+| The World | 0.30% | ~2,690 |
+| Judy vs Night City | 0.30% | ~2,690 |
 | King of Wands | 0.30% | ~75 |
 | Dirty Deeds | 0.30% | ~75 |
 | Easy Come, Easy Go | 0.30% | ~75 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,496 (Ranked 15)  
-Completed: 2,772 (0.31%) (Ranked 226)  
+Progressed: 896,500 (Ranked 15)  
+Completed: 2,773 (0.31%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,15 +281,15 @@ Completed: 2,772 (0.31%) (Ranked 226)
 | 2023-11-10 | 896,078 | 2,761 |
 | 2023-11-11 | 896,271 | 2,766 |
 | 2023-11-12 | 896,462 | 2,771 |
-| 2023-11-13 | 896,496 | 2,772 |
+| 2023-11-13 | 896,500 | 2,773 |
 ## Awards
 Max (Character Customization): 105,188  (Ranked 9)  
-Sum: 351,112 (Ranked 10)  
+Sum: 351,279 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 105,188 |
-| This game has Great Boss Battles | 75,931 |
+| This game has Great Boss Battles | 76,098 |
 | This game is Great for Beginners | 21,013 |
 | This game has Diverse Characters | 20,675 |
 | This game is Highly Recommended | 19,854 |
@@ -600,4 +600,4 @@ Diff (max vs sum): -1
 | 2023-11-10 | 4.64 | - | 104,816 | 348,364 |
 | 2023-11-11 | 4.64 | - | 105,016 | 349,420 |
 | 2023-11-12 | 4.64 | - | 105,188 | 350,761 |
-| 2023-11-13 | 4.64 | - | 105,188 | 351,112 |
+| 2023-11-13 | 4.64 | - | 105,188 | 351,279 |

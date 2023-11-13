@@ -3766,9 +3766,9 @@
       "ID": "achievement_40",
       "SetID": "271ol84",
       "Name": "Do... or do not. There is no try",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 624
     },
     {
       "ID": "achievement_41",
@@ -4013,8 +4013,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-13T07:09:34.1040609+00:00",
+  "LastChanged_Achievements": "2023-11-13T08:10:36.9509059+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-13T07:00:22.4326792+00:00",
-  "LastUpdate_Achievements": "2023-11-13T07:09:34.10413+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:01:43.7744771+00:00",
+  "LastUpdate_Achievements": "2023-11-13T08:10:36.9509982+00:00"
 }

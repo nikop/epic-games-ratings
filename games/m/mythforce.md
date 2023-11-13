@@ -1,7 +1,7 @@
 # MythForce
 [Store](https://store.epicgames.com/en-US/p/mythforce-d2710b)  
 [View Rawdata](../../db/m/mythforce.json)  
-Rating: 4.49 (Ranked 608)  
+Rating: 4.49 (Ranked 607)  
 Number of Ratings: 285  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -30,7 +30,7 @@ Number of Ratings: 285  (23.09.2022)
 | Vexed Her | 0.40% | ~19 |
 | Deadalus and Loving It | 0.20% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,840 (Ranked 187)  
+Progressed: 4,841 (Ranked 187)  
 Completed: 3 (0.06%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -151,7 +151,7 @@ Completed: 3 (0.06%) (Ranked 294)
 | 2023-11-10 | 4,774 | 3 |
 | 2023-11-11 | 4,804 | 3 |
 | 2023-11-12 | 4,833 | 3 |
-| 2023-11-13 | 4,840 | 3 |
+| 2023-11-13 | 4,841 | 3 |
 ## Awards
 Max (Great for Beginners): 35  (Ranked 468)  
 Sum: 286 (Ranked 366)  

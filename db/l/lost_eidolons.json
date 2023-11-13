@@ -5,7 +5,7 @@
   "Ranking_Rating": 794,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 246,
+  "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 129,
@@ -1692,9 +1692,9 @@
       "ID": "22",
       "SetID": "73ikgfc",
       "Name": "House Vulisica\u0027s Heirloom",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 169
     },
     {
       "ID": "23",
@@ -1717,8 +1717,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2023-11-08T19:00:27.8145289+00:00",
-  "LastChanged_Achievements": "2023-11-13T07:04:40.7466516+00:00",
+  "LastChanged_Achievements": "2023-11-13T08:05:28.9232317+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:24.9631785+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:58:24.1338656+00:00",
-  "LastUpdate_Achievements": "2023-11-13T07:04:40.7466711+00:00"
+  "LastUpdate_Ratings": "2023-11-13T07:58:54.774789+00:00",
+  "LastUpdate_Achievements": "2023-11-13T08:05:28.923269+00:00"
 }

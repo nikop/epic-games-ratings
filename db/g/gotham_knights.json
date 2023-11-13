@@ -6,7 +6,7 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 258,
+  "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 130,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
@@ -4103,7 +4103,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76371,
+  "EOS_Progressed": 76372,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 0,
@@ -22418,6 +22418,11 @@
       "Time": "2023-11-13T07:04:58.1693652+00:00",
       "NumProgressed": 76371,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-13T08:05:52.7158452+00:00",
+      "NumProgressed": 76372,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22477,7 +22482,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17565
+      "UsersEstimate": 17566
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -22669,7 +22674,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14510
+      "UsersEstimate": 14511
     },
     {
       "ID": "FREEZE_3",
@@ -22757,7 +22762,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12219
+      "UsersEstimate": 12220
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22773,7 +22778,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38949
+      "UsersEstimate": 38950
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22916,13 +22921,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76371,
+      "Progressed": 76372,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46651,
+      "Progressed": 46652,
       "Completed": 2673
     }
   ],
@@ -22930,8 +22935,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-12T18:00:27.4296503+00:00",
-  "LastChanged_Achievements": "2023-11-13T07:04:58.1693648+00:00",
+  "LastChanged_Achievements": "2023-11-13T08:05:52.7158442+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:57:31.6824634+00:00",
-  "LastUpdate_Achievements": "2023-11-13T07:04:58.169498+00:00"
+  "LastUpdate_Ratings": "2023-11-13T07:57:39.6371869+00:00",
+  "LastUpdate_Achievements": "2023-11-13T08:05:52.7160205+00:00"
 }

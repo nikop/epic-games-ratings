@@ -7021,9 +7021,9 @@
       "Count": 3780
     }
   ],
-  "EOS_Progressed": 139635,
+  "EOS_Progressed": 139642,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 944,
+  "EOS_NewPlayers": 950,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28191,6 +28191,11 @@
       "Time": "2023-11-13T07:06:31.339116+00:00",
       "NumProgressed": 139635,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-13T08:08:00.7348112+00:00",
+      "NumProgressed": 139642,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28370,7 +28375,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5585
+      "UsersEstimate": 5586
     },
     {
       "ID": "chest02",
@@ -28434,7 +28439,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5585
+      "UsersEstimate": 5586
     },
     {
       "ID": "commonres02",
@@ -28648,17 +28653,17 @@
       "ID": "fuselegendary",
       "SetID": "anfd17p",
       "Name": "A Legend is Born",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 977
     },
     {
       "ID": "fuseuncommon",
       "SetID": "anfd17p",
       "Name": "Trash to Treasure",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1396
     },
     {
       "ID": "gemsspent",
@@ -28674,7 +28679,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5585
+      "UsersEstimate": 5586
     },
     {
       "ID": "gold02",
@@ -29018,7 +29023,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 5585
+      "UsersEstimate": 5586
     },
     {
       "ID": "twinenchant01",
@@ -29097,15 +29102,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139635,
+      "Progressed": 139642,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-13T06:57:32.4086351+00:00",
-  "LastChanged_Achievements": "2023-11-13T07:06:31.3391155+00:00",
+  "LastChanged_Achievements": "2023-11-13T08:08:00.7348101+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:57:32.4086357+00:00",
-  "LastUpdate_Achievements": "2023-11-13T07:06:31.3393409+00:00"
+  "LastUpdate_Ratings": "2023-11-13T07:57:41.0279553+00:00",
+  "LastUpdate_Achievements": "2023-11-13T08:08:00.735098+00:00"
 }

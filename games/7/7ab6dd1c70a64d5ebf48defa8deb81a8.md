@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 59.00% | ~108 |
+| Break Out | 60.00% | ~110 |
 | Trinity | 34.00% | ~62 |
 | Find Allies | 30.00% | ~55 |
 | Shatter Them All | 29.00% | ~53 |
@@ -15,8 +15,8 @@
 | The Collector | 27.00% | ~49 |
 | Scholar | 26.00% | ~48 |
 | Powerful Allies | 25.00% | ~46 |
+| Tributes of Caladrias | 24.00% | ~44 |
 | Geared Up | 24.00% | ~44 |
-| Tributes of Caladrias | 23.00% | ~42 |
 | Stone Collection | 22.00% | ~40 |
 | Essence Blow | 15.00% | ~27 |
 | Big Bazar | 14.00% | ~26 |
