@@ -28,7 +28,7 @@
 | 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 737 | 177 |
 | 24 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 546 |
 | 24 | [Rayman Origins](games/r/rayman_origins.md) | 4.87 | 32 | 482 |
-| 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 22 | 531 |
+| 24 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 4.87 | 22 | 532 |
 | 30 | [Art of Rally](games/a/art_of_rally_1.md) | 4.86 | 0 | 546 |
 | 30 | [Atomicrops](games/a/atomicrops.md) | 4.86 | 139 | 324 |
 | 30 | [Blasphemous](games/b/blasphemous.md) | 4.86 | 158 | 311 |
@@ -44,7 +44,7 @@
 | 30 | [The Walking Dead : The Definitive Series](games/t/the_walking_dead___the_definitive_series.md) | 4.86 | 538 | 202 |
 | 30 | [Trackmania Turbo](games/t/trackmania_turbo.md) | 4.86 | 0 | 546 |
 | 44 | [Coffee Talk](games/c/coffee_talk.md) | 4.85 | 0 | 546 |
-| 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,039 | 45 |
+| 44 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 4.85 | 8,044 | 45 |
 | 44 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 4.85 | 5,613 | 67 |
 | 44 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 4.85 | 222 | 276 |
 | 44 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 4.85 | 157 | 312 |
@@ -307,7 +307,7 @@
 | 292 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 4.66 | 0 | 546 |
 | 292 | [System Shock](games/s/system_shock.md) | 4.66 | 0 | 546 |
 | 292 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.66 | 426 | 223 |
-| 292 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,957 | 64 |
+| 292 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 4.66 | 5,961 | 64 |
 | 292 | [Trackmania](games/t/trackmania.md) | 4.66 | 3,916 | 85 |
 | 292 | [Unreal Tournament](games/u/unreal_tournament.md) | 4.66 | 460 | 213 |
 | 292 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.66 | 23 | 527 |
@@ -427,7 +427,7 @@
 | 410 | [Surviving Mars](games/s/surviving_mars.md) | 4.60 | 507 | 206 |
 | 410 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 4.60 | 49 | 432 |
 | 410 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 4.60 | 284 | 258 |
-| 410 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 531 |
+| 410 | [Void Bastards](games/v/void_bastards.md) | 4.60 | 22 | 532 |
 | 410 | [Warframe](games/w/warframe.md) | 4.60 | 18,352 | 23 |
 | 410 | [Watch Dogs 2 Standard Edition](games/w/watch_dogs_2_standard_edition.md) | 4.60 | 555 | 201 |
 | 431 | [Axiom Verge 2](games/a/axiom_verge_2.md) | 4.59 | 0 | 546 |
@@ -468,7 +468,7 @@
 | 445 | [Trials Evolution: Gold Edition](games/t/trials_evolution__gold_edition.md) | 4.58 | 0 | 546 |
 | 445 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 4.58 | 222 | 276 |
 | 445 | [Wolfenstein: The New Order - Worldwide](games/w/wolfenstein__the_new_order_-_worldwide.md) | 4.58 | 14,588 | 26 |
-| 445 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 22 | 531 |
+| 445 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 4.58 | 22 | 532 |
 | 470 | [Among Us](games/a/among_us.md) | 4.57 | 2,826 | 99 |
 | 470 | [Deceive Inc.](games/d/deceive_inc..md) | 4.57 | 0 | 546 |
 | 470 | [F1® Manager 2023](games/3/38b4b40752b142e5a503acbb241a8b3c.md) | 4.57 | 0 | 546 |
@@ -541,7 +541,7 @@
 | 538 | [Anno 1701 History Edition](games/a/anno_1701_history_edition.md) | 4.53 | 0 | 546 |
 | 538 | [Dark Deception](games/d/dark_deception.md) | 4.53 | 0 | 546 |
 | 538 | [Dauntless](games/d/dauntless.md) | 4.53 | 23,681 | 18 |
-| 538 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 22 | 531 |
+| 538 | [DEMON'S TILT](games/d/demon's_tilt.md) | 4.53 | 23 | 527 |
 | 538 | [Destroy All Humans! 2 - Reprobed](games/d/destroy_all_humans!_2_-_reprobed.md) | 4.53 | 35 | 468 |
 | 538 | [Everything](games/e/everything.md) | 4.53 | 0 | 546 |
 | 538 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.53 | 1,324 | 136 |
@@ -810,7 +810,7 @@
 | 802 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 263 | 265 |
 | 802 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 4.34 | 0 | 546 |
 | 802 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 546 |
-| 802 | [Torchlight](games/t/torchlight.md) | 4.34 | 22 | 531 |
+| 802 | [Torchlight](games/t/torchlight.md) | 4.34 | 22 | 532 |
 | 802 | [War Mongrels](games/w/war_mongrels.md) | 4.34 | 0 | 546 |
 | 813 | [Ashen](games/a/ashen.md) | 4.33 | 0 | 546 |
 | 813 | [Centipede: Recharged](games/c/centipede__recharged.md) | 4.33 | 0 | 546 |
@@ -890,7 +890,7 @@
 | 882 | [The Surge 2](games/t/the_surge_2.md) | 4.24 | 0 | 546 |
 | 882 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 4.24 | 0 | 546 |
 | 890 | [City of Brass](games/c/city_of_brass.md) | 4.23 | 0 | 546 |
-| 890 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.23 | 22 | 531 |
+| 890 | [Creature in the Well](games/c/creature_in_the_well.md) | 4.23 | 22 | 532 |
 | 890 | [Heroes & Generals WWII](games/h/heroes_&_generals_wwii.md) | 4.23 | 1,010 | 152 |
 | 890 | [Raid Shadow Legends](games/f/f42ad298a6c84ee284dd45995e14ba3c.md) | 4.23 | 31 | 489 |
 | 890 | [Recipe for Disaster](games/r/recipe_for_disaster.md) | 4.23 | 0 | 546 |
@@ -912,7 +912,7 @@
 | 909 | [Dinosaur Fossil Hunter](games/d/dinosaur_fossil_hunter.md) | 4.20 | 0 | 546 |
 | 909 | [Druidstone: The Secret of the Menhir Forest](games/d/druidstone__the_secret_of_the_menhir_forest.md) | 4.20 | 0 | 546 |
 | 909 | [Geneforge 1 - Mutagen](games/g/geneforge_1_-_mutagen.md) | 4.20 | 33 | 480 |
-| 909 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 531 |
+| 909 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 532 |
 | 909 | [Mafia III: Definitive Edition](games/m/mafia_iii__definitive_edition.md) | 4.20 | 78 | 388 |
 | 909 | [Out of Line](games/o/out_of_line.md) | 4.20 | 0 | 546 |
 | 909 | [Shenmue III - Standard Edition](games/s/shenmue_iii_-_standard_edition.md) | 4.20 | 0 | 546 |

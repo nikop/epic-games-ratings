@@ -40,11 +40,11 @@
 | 38 | [Smelter](games/s/smelter.md) | 9.76% |
 | 39 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 40 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 9.18% |
-| 41 | [Anna's Quest](games/a/anna's_quest.md) | 9.09% |
 | 41 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 9.09% |
 | 41 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 9.09% |
 | 41 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
-| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.04% |
+| 44 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.03% |
+| 45 | [Anna's Quest](games/a/anna's_quest.md) | 8.96% |
 | 46 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.14% |
 | 48 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.84% |
@@ -99,7 +99,7 @@
 | 97 | [Monster Harvest](games/m/monster_harvest.md) | 3.08% |
 | 98 | [HordeCore](games/h/hordecore.md) | 3.05% |
 | 99 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 3.04% |
-| 100 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.02% |
+| 100 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.01% |
 | 101 | [Without Escape](games/w/without_escape.md) | 2.94% |
 | 102 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 103 | [Mega City Police](games/m/mega_city_police.md) | 2.86% |
@@ -233,9 +233,9 @@
 | 231 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.29% |
 | 231 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.29% |
 | 231 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.29% |
-| 234 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
-| 234 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.27% |
-| 234 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.27% |
+| 234 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.28% |
+| 235 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.27% |
+| 235 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.27% |
 | 237 | [Filament](games/f/filament.md) | 0.26% |
 | 238 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.25% |
 | 239 | [Aegis Descent](games/a/aegis_descent.md) | 0.24% |

@@ -44,7 +44,7 @@
 | 42 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 8,635 | 4.89 | 12 |
 | 43 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 8,511 | 4.49 | 608 |
 | 44 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,200 | 4.57 | 470 |
-| 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,039 | 4.85 | 44 |
+| 45 | [Enter the Gungeon](games/e/enter_the_gungeon.md) | 8,044 | 4.85 | 44 |
 | 46 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 7,923 | 4.70 | 213 |
 | 47 | [DEATH STRANDING](games/d/death_stranding.md) | 7,903 | 4.77 | 116 |
 | 48 | [Supraland](games/s/supraland.md) | 7,723 | 4.61 | 384 |
@@ -63,7 +63,7 @@
 | 61 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 6,094 | 4.79 | 96 |
 | 62 | [Batman Arkham Knight](games/b/batman_arkham_knight.md) | 6,042 | 4.82 | 65 |
 | 63 | [BioShock Remastered](games/b/bioshock_remastered.md) | 5,992 | 4.64 | 332 |
-| 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,957 | 4.66 | 292 |
+| 64 | [Tomb Raider GAME OF THE YEAR EDITION](games/t/tomb_raider_game_of_the_year_edition.md) | 5,961 | 4.66 | 292 |
 | 65 | [Prey](games/p/prey.md) | 5,769 | 4.62 | 365 |
 | 66 | [Rogue Company](games/r/rogue_company.md) | 5,645 | 4.31 | 830 |
 | 67 | [FINAL FANTASY VII REMAKE INTERGRADE](games/f/final_fantasy_vii_remake_intergrade.md) | 5,613 | 4.85 | 44 |
@@ -527,16 +527,16 @@
 | 520 | [WRC Generations](games/w/wrc_generations.md) | 24 | 4.44 | 674 |
 | 520 | [Yooka-Laylee](games/y/yooka-laylee.md) | 24 | 4.25 | 874 |
 | 527 | [Baldur's Gate II: Enhanced Edition](games/b/baldur's_gate_ii__enhanced_edition.md) | 23 | 4.88 | 17 |
+| 527 | [DEMON'S TILT](games/d/demon's_tilt.md) | 23 | 4.53 | 538 |
 | 527 | [Doomsday Last Survivors](games/f/f3867695344144dc920630264c4dd678.md) | 23 | 4.13 | 953 |
 | 527 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 23 | 4.46 | 646 |
 | 527 | [We Were Here Forever](games/w/we_were_here_forever.md) | 23 | 4.66 | 292 |
-| 531 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.23 | 890 |
-| 531 | [DEMON'S TILT](games/d/demon's_tilt.md) | 22 | 4.53 | 538 |
-| 531 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 909 |
-| 531 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.87 | 24 |
-| 531 | [Torchlight](games/t/torchlight.md) | 22 | 4.34 | 802 |
-| 531 | [Void Bastards](games/v/void_bastards.md) | 22 | 4.60 | 410 |
-| 531 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 22 | 4.58 | 445 |
+| 532 | [Creature in the Well](games/c/creature_in_the_well.md) | 22 | 4.23 | 890 |
+| 532 | [Insurmountable](games/i/insurmountable.md) | 22 | 4.20 | 909 |
+| 532 | [Spiritfarer®: Farewell Edition](games/s/spiritfarer®__farewell_edition.md) | 22 | 4.87 | 24 |
+| 532 | [Torchlight](games/t/torchlight.md) | 22 | 4.34 | 802 |
+| 532 | [Void Bastards](games/v/void_bastards.md) | 22 | 4.60 | 410 |
+| 532 | [WRC 8 FIA World Rally Championship](games/w/wrc_8_fia_world_rally_championship.md) | 22 | 4.58 | 445 |
 | 538 | [Alba - A Wildlife Adventure](games/a/alba_-_a_wildlife_adventure.md) | 21 | 4.63 | 348 |
 | 538 | [Blasphemous 2](games/c/c2890856ddb844f1a7d552fc929838a7.md) | 21 | 4.86 | 30 |
 | 538 | [Moving Out](games/m/moving_out.md) | 21 | 4.58 | 445 |
