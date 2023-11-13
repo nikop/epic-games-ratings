@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.35% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.34% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -47,10 +47,10 @@
 | 45 | [Anna's Quest](games/a/anna's_quest.md) | 8.82% |
 | 46 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 8.58% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.11% |
-| 48 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 8.00% |
-| 49 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
-| 50 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 50 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
+| 48 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
+| 49 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 49 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 7.69% |
+| 49 | [laserlemon Production](games/l/laserlemon_production.md) | 7.69% |
 | 52 | [Ravenlok](games/r/ravenlok.md) | 7.62% |
 | 53 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.60% |
 | 54 | [Sonic Origins](games/s/sonic_origins.md) | 7.53% |
@@ -81,7 +81,7 @@
 | 79 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 4.35% |
 | 80 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.34% |
 | 81 | [The Bunker](games/t/the_bunker.md) | 4.17% |
-| 82 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.16% |
+| 82 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 4.15% |
 | 83 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.88% |
 | 84 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 3.83% |
 | 85 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 3.78% |
@@ -113,8 +113,8 @@
 | 111 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.63% |
 | 112 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 113 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
-| 114 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.50% |
 | 114 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 115 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.49% |
 | 116 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 117 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.36% |
