@@ -18,7 +18,7 @@ Rating: 3.95 (Ranked 1,005)
 | Raider’s Ruin | 1.00% | ~908 |
 | Dragonslayer | 1.00% | ~908 |
 | Rockay Rex | 1.00% | ~908 |
-| Hidden Sonata | 0.80% | ~726 |
+| Hidden Sonata | 0.80% | ~727 |
 | Track Star | 0.70% | ~636 |
 | True Player | 0.70% | ~636 |
 | Headhunter | 0.60% | ~545 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Geek Out | 0.10% | ~91 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,809 (Ranked 91)  
+Progressed: 90,815 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,6 +254,7 @@ Completed: 55 (0.06%) (Ranked 293)
 | 2023-11-10 | 90,247 | 55 |
 | 2023-11-11 | 90,531 | 55 |
 | 2023-11-12 | 90,809 | 55 |
+| 2023-11-13 | 90,815 | 55 |
 ## Awards
 Max (Diverse Characters): 527  (Ranked 203)  
 Sum: 3,005 (Ranked 176)  

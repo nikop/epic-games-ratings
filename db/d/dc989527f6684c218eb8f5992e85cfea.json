@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13545,
+  "EOS_Progressed": 13547,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14259,6 +14259,11 @@
       "Time": "2023-11-12T23:04:39.7980005+00:00",
       "NumProgressed": 13545,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T00:05:00.6304878+00:00",
+      "NumProgressed": 13547,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -14270,7 +14275,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1625
+      "UsersEstimate": 1626
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -14342,7 +14347,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5960
+      "UsersEstimate": 5961
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -14469,14 +14474,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13545,
+      "Progressed": 13547,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:04:39.798+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:05:00.6304874+00:00",
   "LastUpdate_AppInfo": "2023-11-11T03:57:04.8378418+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:03:02.9441548+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:04:39.7981833+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:03:03.9893396+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:05:00.630566+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 169,
   "Ranking_EOS_Progress": 93,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 93,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
@@ -3121,9 +3121,9 @@
       "Count": 250
     }
   ],
-  "EOS_Progressed": 82478,
+  "EOS_Progressed": 82481,
   "EOS_Completed": 160,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -26086,6 +26086,11 @@
       "Time": "2023-11-12T23:03:55.8316511+00:00",
       "NumProgressed": 82478,
       "NumCompleted": 160
+    },
+    {
+      "Time": "2023-11-13T00:04:08.1976729+00:00",
+      "NumProgressed": 82481,
+      "NumCompleted": 160
     }
   ],
   "TotalAchievements": 30,
@@ -26097,7 +26102,7 @@
       "Name": "First Journey",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 10722
+      "UsersEstimate": 10723
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -26121,7 +26126,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 18970
+      "UsersEstimate": 18971
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -26129,7 +26134,7 @@
       "Name": "No Longer Red",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 14846
+      "UsersEstimate": 14847
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -26177,7 +26182,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 30517
+      "UsersEstimate": 30518
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -26185,7 +26190,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 23094
+      "UsersEstimate": 23095
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -26193,7 +26198,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 26393
+      "UsersEstimate": 26394
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -26233,7 +26238,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 21444
+      "UsersEstimate": 21445
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -26249,7 +26254,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 17320
+      "UsersEstimate": 17321
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -26257,7 +26262,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9897
+      "UsersEstimate": 9898
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -26273,7 +26278,7 @@
       "Name": "Final touch",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 28867
+      "UsersEstimate": 28868
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -26281,7 +26286,7 @@
       "Name": "Self-sufficient",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 14846
+      "UsersEstimate": 14847
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -26297,7 +26302,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 9897
+      "UsersEstimate": 9898
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -26336,15 +26341,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 82478,
+      "Progressed": 82481,
       "Completed": 160
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
   "LastChanged": "2023-11-11T21:02:46.9647333+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:03:55.8316506+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:04:08.1976726+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.8237526+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:57:46.9713741+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:03:55.8318556+00:00"
+  "LastUpdate_Ratings": "2023-11-12T23:57:53.2450658+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:04:08.1977973+00:00"
 }

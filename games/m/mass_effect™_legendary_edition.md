@@ -36,8 +36,8 @@
 | Veteran | 37.00% | ~451 |
 | Operative | 37.00% | ~451 |
 | The Professor | 36.00% | ~438 |
+| Power Full | 36.00% | ~438 |
 | The Archangel | 35.00% | ~426 |
-| Power Full | 35.00% | ~426 |
 | The Convict | 34.00% | ~414 |
 | Colony Defense | 33.00% | ~402 |
 | The Krogan | 33.00% | ~402 |

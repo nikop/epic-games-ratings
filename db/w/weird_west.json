@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2727,9 +2727,9 @@
       "ID": "ACH_DEAD_OR_ALIVE",
       "SetID": "8j30i9k",
       "Name": "Dead or Alive",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 1097
+      "UsersEstimate": 1117
     },
     {
       "ID": "ACH_DIRT_AND_BLAME",
@@ -3151,8 +3151,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-10T21:59:49.034377+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:04:13.4548732+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:04:28.9174325+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:44.9377515+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:02:54.6445938+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:04:13.4549814+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:02:54.0656932+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:04:28.9174795+00:00"
 }

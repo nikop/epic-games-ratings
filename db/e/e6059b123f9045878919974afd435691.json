@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1014,
+  "EOS_Progressed": 1015,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2584,6 +2584,11 @@
       "Time": "2023-11-12T21:08:40.5722774+00:00",
       "NumProgressed": 1014,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T00:09:07.9087886+00:00",
+      "NumProgressed": 1015,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2593,9 +2598,9 @@
       "ID": "AMMO_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "This Isn\u0027t The Last Box",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 669
+      "UsersEstimate": 680
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2667,7 +2672,7 @@
       "Name": "Capraphobia",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -2803,7 +2808,7 @@
       "Name": "Think Bullets Will Affect Her?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "EXT_ACHIEVEMENT_1",
@@ -2843,7 +2848,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -2851,7 +2856,7 @@
       "Name": "Free Like Birds",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "FREE_ACHIEVEMENT_3",
@@ -2875,7 +2880,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -3025,9 +3030,9 @@
       "ID": "OUT_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "The Last of Us",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 274
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -3122,14 +3127,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1014,
+      "Progressed": 1015,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:09:18.1357694+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:09:07.9087878+00:00",
   "LastUpdate_AppInfo": "2023-11-09T22:57:16.2174381+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:59:34.4408702+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:09:18.1358932+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:00:09.2186285+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:09:07.9088544+00:00"
 }

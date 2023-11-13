@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -433,10 +433,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 53,
       "NumberOfAwardsMax": 32
+    },
+    {
+      "Time": "2023-11-13T00:02:54.8345137+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 54,
+      "NumberOfAwardsMax": 32
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 53,
+  "NumberOfAwards": 54,
   "NumberOfAwardsMax": 32,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -450,7 +456,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 21
+      "Count": 22
     }
   ],
   "EOS_Progressed": 5383,
@@ -7491,9 +7497,9 @@
       "ID": "54",
       "SetID": "7132754",
       "Name": "Chaos Surge",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "55",
@@ -7561,9 +7567,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2023-11-12T10:02:43.8760392+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:04:08.9597362+00:00",
+  "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:04:23.4305925+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:02:55.2582085+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:04:08.9598332+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:02:54.834514+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:04:23.43067+00:00"
 }

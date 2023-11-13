@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 144,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 526,
+  "EOS_Progressed": 527,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -1645,6 +1645,11 @@
       "Time": "2023-11-12T21:06:19.3997979+00:00",
       "NumProgressed": 526,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-13T00:07:27.1284085+00:00",
+      "NumProgressed": 527,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1657,7 +1662,7 @@
       "Name": "Assassinate the Makron",
       "Percentage": 17,
       "XP": 120,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "ACH_eou1",
@@ -1673,7 +1678,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACH_eou3",
@@ -1760,14 +1765,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 526,
+      "Progressed": 527,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:08:24.4013037+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:07:27.1284081+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:16.1042857+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:57:52.4977268+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:08:24.4013486+00:00"
+  "LastUpdate_Ratings": "2023-11-12T23:58:00.3768544+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:07:27.1284235+00:00"
 }

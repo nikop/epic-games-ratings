@@ -1448,9 +1448,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130740,
+  "EOS_Progressed": 130742,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -21733,6 +21733,11 @@
       "Time": "2023-11-12T23:04:26.355522+00:00",
       "NumProgressed": 130740,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-13T00:04:44.5361408+00:00",
+      "NumProgressed": 130742,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21776,7 +21781,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 23533
+      "UsersEstimate": 23534
     },
     {
       "ID": "ACH_COP_BAD",
@@ -21824,7 +21829,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 36607
+      "UsersEstimate": 36608
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -21848,7 +21853,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20918
+      "UsersEstimate": 20919
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -21856,7 +21861,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27455
+      "UsersEstimate": 27456
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -21880,7 +21885,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 20918
+      "UsersEstimate": 20919
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -21888,7 +21893,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 14381
+      "UsersEstimate": 14382
     },
     {
       "ID": "ACH_CUNO",
@@ -21936,7 +21941,7 @@
       "Name": "Hardie\u0027s Heroes",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7844
+      "UsersEstimate": 7845
     },
     {
       "ID": "ACH_ICEBREAKER",
@@ -22063,15 +22068,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130740,
+      "Progressed": 130742,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-12T16:58:19.8548611+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:04:26.3555215+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:04:44.5361404+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:58:30.770478+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:04:26.3557316+00:00"
+  "LastUpdate_Ratings": "2023-11-12T23:58:49.3946913+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:04:44.53626+00:00"
 }

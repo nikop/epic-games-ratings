@@ -4,7 +4,7 @@
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
   "Ranking_EOS_Progress": 544,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
@@ -149,9 +149,9 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 39,
+      "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "07_ACHIEVEMENT_Half_Master",
@@ -204,8 +204,8 @@
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:09:40.1135746+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:09:33.7936843+00:00",
   "LastUpdate_AppInfo": "2023-11-07T05:57:07.5089556+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:57:48.0623505+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:09:40.1135867+00:00"
+  "LastUpdate_Ratings": "2023-11-12T23:57:54.4371385+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:09:33.7936938+00:00"
 }

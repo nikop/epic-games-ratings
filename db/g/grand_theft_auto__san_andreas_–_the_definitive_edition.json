@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1483,7 +1483,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13671,
+  "EOS_Progressed": 13672,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 2,
@@ -14483,6 +14483,11 @@
       "Time": "2023-11-12T22:08:50.6193217+00:00",
       "NumProgressed": 13671,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-13T00:08:53.319135+00:00",
+      "NumProgressed": 13672,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14494,7 +14499,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11210
+      "UsersEstimate": 11211
     },
     {
       "ID": "ACH02",
@@ -14550,7 +14555,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6972
+      "UsersEstimate": 6973
     },
     {
       "ID": "ACH09",
@@ -14590,7 +14595,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2597
+      "UsersEstimate": 2598
     },
     {
       "ID": "ACH14",
@@ -14670,7 +14675,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3554
+      "UsersEstimate": 3555
     },
     {
       "ID": "ACH24",
@@ -14773,7 +14778,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13671,
+      "Progressed": 13672,
       "Completed": 53
     }
   ],
@@ -14781,8 +14786,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-12T20:57:18.3668848+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:09:05.2809409+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:08:53.3191347+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:57:45.848943+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:09:05.2810906+00:00"
+  "LastUpdate_Ratings": "2023-11-12T23:57:51.7269573+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:08:53.319217+00:00"
 }

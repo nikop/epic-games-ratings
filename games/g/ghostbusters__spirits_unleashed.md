@@ -47,7 +47,7 @@ Rating: 4.50 (Ranked 588)
 | Liability | 0.90% | ~278 |
 | Surprise! | 0.80% | ~247 |
 | Therapeutic | 0.60% | ~185 |
-| Rift Seeker | 0.50% | ~154 |
+| Rift Seeker | 0.50% | ~155 |
 | Master Collector | 0.40% | ~124 |
 | I don't need these | 0.20% | ~62 |
 | Ghost Expert | 0.20% | ~62 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,897 (Ranked 122)  
+Progressed: 30,901 (Ranked 122)  
 Completed: 67 (0.22%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,9 +264,10 @@ Completed: 67 (0.22%) (Ranked 242)
 | 2023-11-10 | 30,704 | 66 |
 | 2023-11-11 | 30,795 | 67 |
 | 2023-11-12 | 30,897 | 67 |
+| 2023-11-13 | 30,901 | 67 |
 ## Awards
 Max (Great for Beginners): 311  (Ranked 246)  
-Sum: 2,764 (Ranked 179)  
+Sum: 2,766 (Ranked 179)  
 Diff (max vs sum): 67  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +280,7 @@ Diff (max vs sum): 67
 | This game is Extremely Fun | 267 |
 | This game is Relaxing | 266 |
 | This game has Amazing Characters | 257 |
-| This game has Quickly Understood Controls | 253 |
+| This game has Quickly Understood Controls | 255 |
 | This game has Playful Visuals | 94 |
 | This game has Obsessive Gameplay | 32 |
 ## Ratings History
@@ -495,3 +496,4 @@ Diff (max vs sum): 67
 | 2023-11-10 | 4.50 | 310 | 2,755 |
 | 2023-11-11 | 4.50 | 311 | 2,760 |
 | 2023-11-12 | 4.50 | 311 | 2,764 |
+| 2023-11-13 | 4.50 | 311 | 2,766 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 60,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -2307,9 +2307,9 @@
       "ID": "END_GOOD",
       "SetID": "2gma9an",
       "Name": "In this together",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 86
+      "UsersEstimate": 91
     },
     {
       "ID": "META_ALL_LINK",
@@ -2395,9 +2395,9 @@
       "ID": "OPTIONNAL_AIRLINES",
       "SetID": "2gma9an",
       "Name": "Alchemists Express",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -2506,8 +2506,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:05:57.3230886+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:06:32.8518161+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:00:15.0916167+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:05:57.3231236+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:01:00.7413327+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:06:32.851842+00:00"
 }

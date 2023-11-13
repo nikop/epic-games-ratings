@@ -2,7 +2,7 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_EOS_Progress": 361,
+  "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 84,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236,
+  "EOS_Progressed": 237,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 195,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -339,6 +339,11 @@
       "Time": "2023-11-12T22:03:58.1227882+00:00",
       "NumProgressed": 236,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T00:04:16.8275902+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -367,7 +372,7 @@
       "Name": "Thalya\u0027s Concentrated Fury",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_main02horde_completed",
@@ -381,9 +386,9 @@
       "ID": "ach_main02horde_creatures",
       "SetID": "4hg22ll",
       "Name": "For the Horde!",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 180
     },
     {
       "ID": "ach_main02horde_traps",
@@ -399,7 +404,7 @@
       "Name": "The Hellwoods",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ach_main03demon_doors",
@@ -415,15 +420,15 @@
       "Name": "Magic Accidents",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 133
     },
     {
       "ID": "ach_main04undead_minions",
@@ -447,7 +452,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -471,7 +476,7 @@
       "Name": "Heroes\u2019 Gorge",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -485,9 +490,9 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 81
     },
     {
       "ID": "ach_main07storm_classified",
@@ -495,7 +500,7 @@
       "Name": "Hard Work",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_main07storm_completed",
@@ -503,15 +508,15 @@
       "Name": "The Ascent",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_main07storm_dynamite",
       "SetID": "4hg22ll",
       "Name": "Pure Dynamite!",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "ach_main07storm_storm",
@@ -519,7 +524,7 @@
       "Name": "It\u0027s Warm and Cozy at Home",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -549,9 +554,9 @@
       "ID": "ach_main09journey_completed",
       "SetID": "4hg22ll",
       "Name": "\u201C\u2026 like son\u201D",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -565,9 +570,9 @@
       "ID": "ach_main09journey_nospells",
       "SetID": "4hg22ll",
       "Name": "Forbidden Knowledge",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ach_main10fire_completed",
@@ -621,9 +626,9 @@
       "ID": "ach_main12race_completed",
       "SetID": "4hg22ll",
       "Name": "All\u2019s Well That Ends Evil",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -645,9 +650,9 @@
       "ID": "ach_main13tanos_completed",
       "SetID": "4hg22ll",
       "Name": "The Duel",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 14
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_main13tanos_dungeonlord",
@@ -701,9 +706,9 @@
       "ID": "ach_main15drill_sabotage",
       "SetID": "4hg22ll",
       "Name": "Sabotage!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_main15drill_untouchable",
@@ -838,14 +843,14 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 236,
+      "Progressed": 237,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:04:03.1785011+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:04:16.8275899+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:58:53.0710931+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:04:03.1790964+00:00"
+  "LastUpdate_Ratings": "2023-11-12T23:59:17.7393123+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:04:16.8276366+00:00"
 }

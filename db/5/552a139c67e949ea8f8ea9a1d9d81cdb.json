@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 252,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1038,
+  "EOS_Progressed": 1039,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 143,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2047,6 +2047,11 @@
       "Time": "2023-11-12T23:04:01.2949538+00:00",
       "NumProgressed": 1038,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T00:04:14.7172998+00:00",
+      "NumProgressed": 1039,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2075,7 +2080,7 @@
       "Name": "Out of control",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2235,7 +2240,7 @@
       "Name": "The Scorpion",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2315,7 +2320,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2323,7 +2328,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2331,7 +2336,7 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
@@ -2402,20 +2407,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1038,
+      "Progressed": 1039,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 706,
-      "Completed": 706
+      "Progressed": 707,
+      "Completed": 707
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:04:01.2949533+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:04:14.7172995+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:59:41.213594+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:04:01.2950045+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:00:17.6761871+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:04:14.7173365+00:00"
 }

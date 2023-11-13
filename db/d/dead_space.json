@@ -695,7 +695,7 @@
       "Count": 110
     }
   ],
-  "EOS_Progressed": 1759,
+  "EOS_Progressed": 1760,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 0,
@@ -5245,6 +5245,11 @@
       "Time": "2023-11-12T23:05:51.5806888+00:00",
       "NumProgressed": 1759,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2023-11-13T00:06:25.6260657+00:00",
+      "NumProgressed": 1760,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -5257,7 +5262,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "achievement_10",
@@ -5281,7 +5286,7 @@
       "Name": "Exodus",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "achievement_13",
@@ -5361,7 +5366,7 @@
       "Name": "Live with the Hot Ones",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "achievement_22",
@@ -5417,7 +5422,7 @@
       "Name": "Story Teller",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "achievement_29",
@@ -5425,7 +5430,7 @@
       "Name": "Legend Teller",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "achievement_3",
@@ -5433,7 +5438,7 @@
       "Name": "All Systems Go",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "achievement_30",
@@ -5447,9 +5452,9 @@
       "ID": "achievement_31",
       "SetID": "222fo9l",
       "Name": "Marksman",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 1636
+      "UsersEstimate": 1654
     },
     {
       "ID": "achievement_32",
@@ -5457,7 +5462,7 @@
       "Name": "Surgeon",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 897
+      "UsersEstimate": 898
     },
     {
       "ID": "achievement_33",
@@ -5473,7 +5478,7 @@
       "Name": "Raise the Stakes",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "achievement_35",
@@ -5521,7 +5526,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1055
+      "UsersEstimate": 1056
     },
     {
       "ID": "achievement_40",
@@ -5561,7 +5566,7 @@
       "Name": "Get Off My Ship!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "achievement_45",
@@ -5569,7 +5574,7 @@
       "Name": "Mindless Prey",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "achievement_46",
@@ -5593,7 +5598,7 @@
       "Name": "True Believer",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 985
+      "UsersEstimate": 986
     },
     {
       "ID": "achievement_6",
@@ -5607,9 +5612,9 @@
       "ID": "achievement_7",
       "SetID": "222fo9l",
       "Name": "S.O.S.",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 774
     },
     {
       "ID": "achievement_8",
@@ -5617,7 +5622,7 @@
       "Name": "Strange Transmissions",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "achievement_9",
@@ -5625,14 +5630,14 @@
       "Name": "Wreckage",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 1759,
+      "Progressed": 1760,
       "Completed": 8
     }
   ],
@@ -5640,8 +5645,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-12T10:59:45.2493267+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:05:51.5806882+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:06:25.6260653+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:00:09.5553262+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:05:51.5807926+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:00:53.7297051+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:06:25.6261213+00:00"
 }

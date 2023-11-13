@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 125)
 | The Hero of Hogwarts | 10.00% | ~30,198 |
 | Followed the Butterflies | 10.00% | ~30,198 |
 | Rising From the Ashes | 10.00% | ~30,198 |
-| The Spell Master | 9.00% | ~27,178 |
+| The Spell Master | 9.00% | ~27,179 |
 | The Avenging Gazelle | 8.00% | ~24,159 |
 | Beast Friends | 8.00% | ~24,159 |
 | A Sallow Grave | 8.00% | ~24,159 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 125)
 | Room with a View | 4.00% | ~12,079 |
 | The Intrepid Explorer | 4.00% | ~12,079 |
 | The Wise Owl | 4.00% | ~12,079 |
-| Put Down Roots | 3.00% | ~9,059 |
-| The Auror's Apprentice | 3.00% | ~9,059 |
-| Floo Around the World | 3.00% | ~9,059 |
+| Put Down Roots | 3.00% | ~9,060 |
+| The Auror's Apprentice | 3.00% | ~9,060 |
+| Floo Around the World | 3.00% | ~9,060 |
 | The Good Samaritan | 2.00% | ~6,040 |
 | Rise to the Challenges | 2.00% | ~6,040 |
 | Demiguise Dread | 2.00% | ~6,040 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,983 (Ranked 50)  
+Progressed: 301,984 (Ranked 50)  
 Completed: 510 (0.17%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,16 +258,17 @@ Completed: 510 (0.17%) (Ranked 255)
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
 | 2023-11-12 | 301,983 | 510 |
+| 2023-11-13 | 301,984 | 510 |
 ## Awards
 Max (Character Customization): 24,229  (Ranked 17)  
-Sum: 47,981 (Ranked 30)  
+Sum: 47,986 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,229 |
 | This game has Great Boss Battles | 12,288 |
 | This game is Great for Beginners | 1,290 |
-| This game has Amazing Storytelling | 1,239 |
+| This game has Amazing Storytelling | 1,244 |
 | This game has Diverse Characters | 1,237 |
 | This game is Extremely Fun | 1,226 |
 | This game is Relaxing | 1,216 |
@@ -513,3 +514,4 @@ Diff (max vs sum): -13
 | 2023-11-10 | 4.76 | 24,162 | 47,810 |
 | 2023-11-11 | 4.76 | 24,188 | 47,880 |
 | 2023-11-12 | 4.76 | 24,229 | 47,981 |
+| 2023-11-13 | 4.76 | 24,229 | 47,986 |

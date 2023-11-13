@@ -12,27 +12,27 @@ Rating: 4.04 (Ranked 985)
 | No More Names | 63.00% | ~170 |
 | Initiate | 49.00% | ~132 |
 | Thrada-Kul | 44.00% | ~119 |
-| Gravity-Challenged Rocks | 33.00% | ~89 |
+| Gravity-Challenged Rocks | 34.00% | ~92 |
 | Soldier | 29.00% | ~78 |
 | All the Major Food Groups | 29.00% | ~78 |
 | Socialite | 26.00% | ~70 |
 | Beggars Would Ride | 24.00% | ~65 |
-| Control is an Illusion | 22.00% | ~59 |
+| Control is an Illusion | 23.00% | ~62 |
 | The Means to Save It | 19.00% | ~51 |
 | Resilience to Sin | 17.00% | ~46 |
-| A Familiar Nest | 16.00% | ~43 |
+| A Familiar Nest | 17.00% | ~46 |
+| Periapt Alizarin | 17.00% | ~46 |
 | Geas Aristeya | 16.00% | ~43 |
-| Periapt Alizarin | 16.00% | ~43 |
 | A Perfect Cycle | 14.00% | ~38 |
 | Armsman | 14.00% | ~38 |
 | Recruit | 13.00% | ~35 |
 | Lights Army | 9.00% | ~24 |
+| Good Boy | 9.00% | ~24 |
 | Periapt Cerulean | 8.00% | ~22 |
-| Good Boy | 8.00% | ~22 |
 | Periapt Viridian | 7.00% | ~19 |
 | Shroudfane Explorer | 7.00% | ~19 |
 | Best Dressed | 6.00% | ~16 |
-| Armaments Azure | 5.00% | ~14 |
+| Armaments Azure | 6.00% | ~16 |
 | Armaments Gules | 4.00% | ~11 |
 | Scholar | 3.00% | ~8 |
 | Kitted Out | 3.00% | ~8 |
@@ -44,13 +44,13 @@ Rating: 4.04 (Ranked 985)
 | Master of Ultramarine | 1.00% | ~3 |
 | Master of Malachite | 1.00% | ~3 |
 | Shroudfane Surveyor | 1.00% | ~3 |
+| Tip of the Spear | 1.00% | ~3 |
 | Treasure Hunter | 1.00% | ~3 |
 | Family Business | 0.70% | ~2 |
 | Diplomat | 0.70% | ~2 |
 | Petite Bourgeoisie | 0.70% | ~2 |
 | Witch-Taker | 0.70% | ~2 |
 | Out of Time | 0.70% | ~2 |
-| Tip of the Spear | 0.70% | ~2 |
 | Fowl Play | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 270 (Ranked 350)  

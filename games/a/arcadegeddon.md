@@ -6,17 +6,17 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 88.00% | ~8,450 |
-| Photogenic | 84.00% | ~8,066 |
+| Let's Get This Party Started | 88.00% | ~8,451 |
+| Photogenic | 84.00% | ~8,067 |
 | Plug It In | 81.00% | ~7,778 |
 | Surge Gauntlet Jockey | 81.00% | ~7,778 |
 | Adventure Time | 77.00% | ~7,394 |
-| Playing With Power | 74.00% | ~7,105 |
-| Coup d'Etat | 57.00% | ~5,473 |
-| You're Fired | 55.00% | ~5,281 |
-| Get Furious | 54.00% | ~5,185 |
-| Hacks In Stacks | 54.00% | ~5,185 |
-| Gunplay And Cosplay | 53.00% | ~5,089 |
+| Playing With Power | 74.00% | ~7,106 |
+| Coup d'Etat | 57.00% | ~5,474 |
+| You're Fired | 55.00% | ~5,282 |
+| Get Furious | 54.00% | ~5,186 |
+| Hacks In Stacks | 54.00% | ~5,186 |
+| Gunplay And Cosplay | 53.00% | ~5,090 |
 | Meching Enemies | 47.00% | ~4,513 |
 | Ticket Toddler | 43.00% | ~4,129 |
 | Booty Bashing | 38.00% | ~3,649 |
@@ -26,9 +26,9 @@ Number of Ratings: 801  (23.09.2022)
 | Surge Ahead | 30.00% | ~2,881 |
 | The Full Monty | 30.00% | ~2,881 |
 | Guardian Angel | 27.00% | ~2,593 |
-| Poppin Noggins | 24.00% | ~2,304 |
-| Clips and Crits | 19.00% | ~1,824 |
-| Grey Goo | 17.00% | ~1,632 |
+| Poppin Noggins | 24.00% | ~2,305 |
+| Clips and Crits | 19.00% | ~1,825 |
+| Grey Goo | 17.00% | ~1,633 |
 | Boss of Bosses | 15.00% | ~1,440 |
 | The Final Blow | 14.00% | ~1,344 |
 | To Be Continued | 13.00% | ~1,248 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~38 |
 | Pyrotechnical | 0.20% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,602 (Ranked 160)  
+Progressed: 9,603 (Ranked 160)  
 Completed: 1 (0.01%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,10 +264,11 @@ Completed: 1 (0.01%) (Ranked 327)
 | 2023-11-10 | 9,575 | 1 |
 | 2023-11-11 | 9,589 | 1 |
 | 2023-11-12 | 9,602 | 1 |
+| 2023-11-13 | 9,603 | 1 |
 ## Awards
-Max (Relaxing): 64  (Ranked 407)  
+Max (Relaxing): 64  (Ranked 408)  
 Sum: 463 (Ranked 329)  
-Diff (max vs sum): 78  
+Diff (max vs sum): 79  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 64 |

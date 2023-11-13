@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,287 (Ranked 41)  
+Progressed: 454,312 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -577,16 +577,17 @@ Completed: 1 (0.00%) (Ranked 349)
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
+| 2023-11-13 | 454,312 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
-Sum: 57,304 (Ranked 24)  
+Sum: 57,319 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,965 |
 | This game has Diverse Characters | 6,690 |
 | This game is Highly Recommended | 6,684 |
-| This game has Challenging Combat | 6,576 |
+| This game has Challenging Combat | 6,591 |
 | This game is Extremely Fun | 6,572 |
 | This game is Relaxing | 6,403 |
 | This game has Competitive Players | 6,253 |
@@ -896,3 +897,4 @@ Diff (max vs sum): 30
 | 2023-11-10 | 4.69 | - | 6,930 | 57,037 |
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
 | 2023-11-12 | 4.69 | - | 6,965 | 57,304 |
+| 2023-11-13 | 4.69 | - | 6,965 | 57,319 |

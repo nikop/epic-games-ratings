@@ -6441,9 +6441,9 @@
       "Count": 461
     }
   ],
-  "EOS_Progressed": 717624,
+  "EOS_Progressed": 717647,
   "EOS_Completed": 2385,
-  "EOS_NewPlayers": 4050,
+  "EOS_NewPlayers": 4041,
   "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30011,6 +30011,11 @@
       "Time": "2023-11-12T23:04:05.9614013+00:00",
       "NumProgressed": 717624,
       "NumCompleted": 2385
+    },
+    {
+      "Time": "2023-11-13T00:04:20.0211687+00:00",
+      "NumProgressed": 717647,
+      "NumCompleted": 2385
     }
   ],
   "TotalAchievements": 51,
@@ -30030,7 +30035,7 @@
       "Name": "Making Your Mark",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "ach_ammo_ran",
@@ -30086,7 +30091,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "ach_contender",
@@ -30142,7 +30147,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -30158,7 +30163,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "ach_hazardous_materials",
@@ -30166,7 +30171,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -30262,7 +30267,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "ach_revival_tour",
@@ -30270,7 +30275,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "ach_salvation",
@@ -30302,7 +30307,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5023
+      "UsersEstimate": 5024
     },
     {
       "ID": "ach_survival_expert",
@@ -30382,7 +30387,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ach_dark_magic",
@@ -30390,7 +30395,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ach_gardening_tools",
@@ -30406,7 +30411,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30429,13 +30434,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717624,
+      "Progressed": 717647,
       "Completed": 2385
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43166,
+      "Progressed": 43189,
       "Completed": 36530
     }
   ],
@@ -30443,8 +30448,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-12T20:59:56.2590362+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:04:05.9614006+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:04:20.0211682+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:00:24.841418+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:04:05.9617029+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:01:12.8568591+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:04:20.0213112+00:00"
 }

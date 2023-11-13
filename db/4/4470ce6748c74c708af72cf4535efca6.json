@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 455,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -555,9 +555,9 @@
       "ID": "40",
       "SetID": "5e3maia",
       "Name": "Elementalist",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "41",
@@ -611,9 +611,9 @@
       "ID": "47",
       "SetID": "5e3maia",
       "Name": "Manapourer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "48",
@@ -850,8 +850,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:04:18.7624387+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:04:35.367986+00:00",
   "LastUpdate_AppInfo": "2023-11-11T03:57:04.3147394+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:58:49.3644188+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:04:18.7625597+00:00"
+  "LastUpdate_Ratings": "2023-11-12T23:59:13.1713213+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:04:35.3680424+00:00"
 }

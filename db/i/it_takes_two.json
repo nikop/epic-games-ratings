@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 21158,
+  "EOS_Progressed": 21160,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 2232,
+  "EOS_NewPlayers": 2225,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -6288,6 +6288,11 @@
       "Time": "2023-11-12T23:08:52.2819119+00:00",
       "NumProgressed": 21158,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-11-13T00:08:38.0563546+00:00",
+      "NumProgressed": 21160,
+      "NumCompleted": 90
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -6300,7 +6305,7 @@
       "Name": "It Took Two",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 8886
+      "UsersEstimate": 8887
     },
     {
       "ID": "achievement_10",
@@ -6324,7 +6329,7 @@
       "Name": "On Rails Experience",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 11848
+      "UsersEstimate": 11850
     },
     {
       "ID": "achievement_13",
@@ -6380,7 +6385,7 @@
       "Name": "Bug Sized Relaxation",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 4443
+      "UsersEstimate": 4444
     },
     {
       "ID": "achievement_2",
@@ -6404,7 +6409,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 18407
+      "UsersEstimate": 18409
     },
     {
       "ID": "achievement_4",
@@ -6412,7 +6417,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 18619
+      "UsersEstimate": 18621
     },
     {
       "ID": "achievement_5",
@@ -6436,7 +6441,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 16503
+      "UsersEstimate": 16505
     },
     {
       "ID": "achievement_8",
@@ -6444,7 +6449,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 9098
+      "UsersEstimate": 9099
     },
     {
       "ID": "achievement_9",
@@ -6452,20 +6457,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 11002
+      "UsersEstimate": 11003
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 21158,
+      "Progressed": 21160,
       "Completed": 90
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:08:52.2819113+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:08:38.0563542+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.824403+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:02:55.6158054+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:08:52.2819838+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:02:55.3078762+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:08:38.0563975+00:00"
 }

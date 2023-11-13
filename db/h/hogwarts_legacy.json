@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 96,
+  "Ranking_EOS_NewPlayers": 97,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10351,10 +10351,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 47981,
       "NumberOfAwardsMax": 24229
+    },
+    {
+      "Time": "2023-11-13T00:00:31.1644535+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 47986,
+      "NumberOfAwardsMax": 24229
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 47981,
+  "NumberOfAwards": 47986,
   "NumberOfAwardsMax": 24229,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10416,7 +10422,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1239
+      "Count": 1244
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -10431,9 +10437,9 @@
       "Count": 778
     }
   ],
-  "EOS_Progressed": 301983,
+  "EOS_Progressed": 301984,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 801,
+  "EOS_NewPlayers": 781,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32646,6 +32652,11 @@
       "Time": "2023-11-12T23:09:36.3579975+00:00",
       "NumProgressed": 301983,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-11-13T00:09:29.5154301+00:00",
+      "NumProgressed": 301984,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 45,
@@ -32817,7 +32828,7 @@
       "Name": "Put Down Roots",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 9059
+      "UsersEstimate": 9060
     },
     {
       "ID": "PFA_29",
@@ -32833,7 +32844,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9059
+      "UsersEstimate": 9060
     },
     {
       "ID": "PFA_30",
@@ -32873,7 +32884,7 @@
       "Name": "Floo Around the World",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 9059
+      "UsersEstimate": 9060
     },
     {
       "ID": "PFA_35",
@@ -32961,7 +32972,7 @@
       "Name": "The Spell Master",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 27178
+      "UsersEstimate": 27179
     },
     {
       "ID": "PFA_45",
@@ -33016,16 +33027,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 301983,
+      "Progressed": 301984,
       "Completed": 510
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-12T22:00:03.6387518+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:09:36.3579968+00:00",
+  "LastChanged": "2023-11-13T00:00:31.1644533+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:09:29.5154298+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-12T22:59:51.6924395+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:09:36.3582193+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:00:31.1644542+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:09:29.5155615+00:00"
 }

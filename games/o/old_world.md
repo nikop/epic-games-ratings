@@ -161,6 +161,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.40% | ~61 |
 | Siege Tower | 0.40% | ~61 |
 | Conquest Victory | 0.40% | ~61 |
+| Necropolis in Waset | 0.40% | ~61 |
 | Rmt n Kmt Buhen | 0.40% | ~61 |
 | Greater Kmt Unified | 0.40% | ~61 |
 | Silver Victory (Carthage 1) | 0.30% | ~46 |
@@ -174,7 +175,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.30% | ~46 |
 | Apadana in Parsa | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
-| Necropolis in Waset | 0.30% | ~46 |
 | Prosperous Kmt | 0.30% | ~46 |
 | Gold Victory (Carthage 1) | 0.20% | ~31 |
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |

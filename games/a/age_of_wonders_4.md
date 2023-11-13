@@ -17,9 +17,9 @@ Rating: 4.61 (Ranked 384)
 | Bone Peddler | 0.70% | ~38 |
 | Magical Synergy | 0.60% | ~32 |
 | Seat of Power | 0.60% | ~32 |
+| Chaos Surge | 0.60% | ~32 |
 | Stronger Together | 0.50% | ~27 |
 | In a Liege of Your Own | 0.50% | ~27 |
-| Chaos Surge | 0.50% | ~27 |
 | Spoils of War | 0.50% | ~27 |
 | Valley of Wonders | 0.40% | ~22 |
 | Digging for Treasure | 0.40% | ~22 |
@@ -243,12 +243,12 @@ Completed: 7 (0.13%) (Ranked 262)
 | 2023-11-12 | 5,383 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 482)  
-Sum: 53 (Ranked 474)  
+Sum: 54 (Ranked 474)  
 Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |
-| This game has Diverse Characters | 21 |
+| This game has Diverse Characters | 22 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -311,3 +311,4 @@ Diff (max vs sum): 8
 | 2023-11-09 | 4.61 | 31 | 52 |
 | 2023-11-11 | 4.61 | 32 | 53 |
 | 2023-11-12 | 4.61 | 32 | 53 |
+| 2023-11-13 | 4.61 | 32 | 54 |

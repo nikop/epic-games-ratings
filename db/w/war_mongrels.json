@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 582,
+  "EOS_Progressed": 583,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1927,6 +1927,11 @@
       "Time": "2023-11-12T22:09:01.0729959+00:00",
       "NumProgressed": 582,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T00:09:04.3164176+00:00",
+      "NumProgressed": 583,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2048,9 +2053,9 @@
       "ID": "ACH_COLL_20",
       "SetID": "1j25agn",
       "Name": "Prospector",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2162,7 +2167,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2186,7 +2191,7 @@
       "Name": "Heroism",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2202,7 +2207,7 @@
       "Name": "Opportunities",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "ACH_FIN_CH07",
@@ -2226,7 +2231,7 @@
       "Name": "Vengeance",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_FIN_CH10",
@@ -2282,7 +2287,7 @@
       "Name": "Missing in Action",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2346,7 +2351,7 @@
       "Name": "Eat Lead!",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2354,7 +2359,7 @@
       "Name": "Food Massacre",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -2368,9 +2373,9 @@
       "ID": "ACH_KILL_THROW",
       "SetID": "1j25agn",
       "Name": "King of Knives",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_NEST1",
@@ -2409,15 +2414,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 582,
+      "Progressed": 583,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-12T23:09:14.8564135+00:00",
+  "LastChanged_Achievements": "2023-11-13T00:09:04.3164173+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:00:12.7840663+00:00",
-  "LastUpdate_Achievements": "2023-11-12T23:09:14.8564777+00:00"
+  "LastUpdate_Ratings": "2023-11-13T00:00:57.8367097+00:00",
+  "LastUpdate_Achievements": "2023-11-13T00:09:04.316468+00:00"
 }
