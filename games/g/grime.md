@@ -6,11 +6,11 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Imprint | 5.00% | ~7,901 |
 | The Hunt | 4.00% | ~6,321 |
 | Taste | 4.00% | ~6,321 |
-| Imprint | 4.00% | ~6,321 |
-| Weeper | 3.00% | ~4,740 |
-| Ravenous | 3.00% | ~4,740 |
+| Weeper | 3.00% | ~4,741 |
+| Ravenous | 3.00% | ~4,741 |
 | Harmless | 2.00% | ~3,160 |
 | Silenced Whispers | 2.00% | ~3,160 |
 | Devourer | 2.00% | ~3,160 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,013 (Ranked 76)  
+Progressed: 158,017 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,11 +237,11 @@ Completed: 1 (0.00%) (Ranked 349)
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
 | 2023-11-12 | 157,992 | 1 |
-| 2023-11-13 | 158,013 | 1 |
+| 2023-11-13 | 158,017 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
-Sum: 361 (Ranked 349)  
-Diff (max vs sum): 77  
+Sum: 362 (Ranked 348)  
+Diff (max vs sum): 78  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 51 |
@@ -250,7 +250,7 @@ Diff (max vs sum): 77
 | This game is Extremely Fun | 46 |
 | This game has Challenging Combat | 45 |
 | This game has Amazing Storytelling | 45 |
-| This game has Amazing Characters | 37 |
+| This game has Amazing Characters | 38 |
 | This game has a Creative Community | 36 |
 | This game has Diverse Characters | 20 |
 ## Ratings History
@@ -394,3 +394,4 @@ Diff (max vs sum): 77
 | 2023-11-10 | 4.58 | - | 51 | 355 |
 | 2023-11-11 | 4.59 | - | 51 | 358 |
 | 2023-11-12 | 4.59 | - | 51 | 361 |
+| 2023-11-13 | 4.58 | - | 51 | 362 |

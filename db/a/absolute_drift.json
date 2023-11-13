@@ -457,7 +457,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1550255,
+  "EOS_Progressed": 1550259,
   "EOS_Completed": 723,
   "EOS_NewPlayers": 1280,
   "EOS_NewCompleters": 4,
@@ -23977,6 +23977,11 @@
       "Time": "2023-11-13T02:26:17.2300252+00:00",
       "NumProgressed": 1550255,
       "NumCompleted": 723
+    },
+    {
+      "Time": "2023-11-13T03:04:26.5875194+00:00",
+      "NumProgressed": 1550259,
+      "NumCompleted": 723
     }
   ],
   "TotalAchievements": 20,
@@ -24147,15 +24152,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1550255,
+      "Progressed": 1550259,
       "Completed": 723
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2023-09-25T13:05:51.0685533+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:26:17.2300248+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:04:26.587519+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:30.6974895+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:18:50.5735742+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:26:17.2301865+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:57:37.867394+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:04:26.5876979+00:00"
 }

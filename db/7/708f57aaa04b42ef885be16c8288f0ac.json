@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5063,
+  "EOS_Progressed": 5065,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 816,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3017,6 +3017,11 @@
       "Time": "2023-11-13T02:30:38.9504755+00:00",
       "NumProgressed": 5063,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-13T03:08:46.413828+00:00",
+      "NumProgressed": 5065,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3037,7 +3042,7 @@
       "Name": "Baby Steps",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "BeLikeWater",
@@ -3101,7 +3106,7 @@
       "Name": "First Time?",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3229,7 +3234,7 @@
       "Name": "The Quarterback",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "ThisIsDharma",
@@ -3237,15 +3242,15 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
       "SetID": "acc6ea0",
       "Name": "Time For Your Ninja Rope To Shine",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 405
+      "UsersEstimate": 456
     },
     {
       "ID": "UnResurrected",
@@ -3269,7 +3274,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -3300,7 +3305,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5063,
+      "Progressed": 5065,
       "Completed": 5
     }
   ],
@@ -3308,8 +3313,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-10T21:10:20.974644+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:30:38.9504739+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:08:46.4138276+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:19:22.5892657+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:30:38.9505199+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:58:02.5213799+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:08:46.4138679+00:00"
 }

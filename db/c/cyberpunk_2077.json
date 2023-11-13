@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 10,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
     "PcReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15056,9 +15056,9 @@
       "Count": 12811
     }
   ],
-  "EOS_Progressed": 896475,
+  "EOS_Progressed": 896477,
   "EOS_Completed": 2771,
-  "EOS_NewPlayers": 1016,
+  "EOS_NewPlayers": 1015,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38466,6 +38466,11 @@
       "Time": "2023-11-13T02:26:50.5491234+00:00",
       "NumProgressed": 896475,
       "NumCompleted": 2771
+    },
+    {
+      "Time": "2023-11-13T03:04:53.8002399+00:00",
+      "NumProgressed": 896477,
+      "NumCompleted": 2771
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38934,7 +38939,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "HydraIsDead",
@@ -38950,7 +38955,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "KingOfTheCups",
@@ -39013,21 +39018,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896475,
+      "Progressed": 896477,
       "Completed": 2771
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25098,
+      "Progressed": 25100,
       "Completed": 10218
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-13T02:20:53.4638691+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:26:50.549123+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:04:53.8002396+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:20:53.46387+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:26:50.5493267+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:59:13.8187277+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:04:53.8003817+00:00"
 }

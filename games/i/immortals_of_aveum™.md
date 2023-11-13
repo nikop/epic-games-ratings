@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.04 (Ranked 984)  
+Rating: 4.06 (Ranked 973)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.04 (Ranked 984)
 | Battlefields Have Memories | 85.00% | ~230 |
 | Enlisted | 82.00% | ~222 |
 | Maybe Engage a Little | 77.00% | ~209 |
-| No More Names | 63.00% | ~171 |
+| No More Names | 64.00% | ~173 |
 | Initiate | 49.00% | ~133 |
 | Thrada-Kul | 44.00% | ~119 |
 | Gravity-Challenged Rocks | 34.00% | ~92 |
@@ -35,8 +35,8 @@ Rating: 4.04 (Ranked 984)
 | Armaments Azure | 6.00% | ~16 |
 | Scholar | 4.00% | ~11 |
 | Armaments Gules | 4.00% | ~11 |
+| Armaments Vert | 4.00% | ~11 |
 | Kitted Out | 3.00% | ~8 |
-| Armaments Vert | 3.00% | ~8 |
 | Veteran | 3.00% | ~8 |
 | Master of Carmine | 2.00% | ~5 |
 | Backtracker | 2.00% | ~5 |
@@ -126,3 +126,4 @@ Completed: 1 (0.37%) (Ranked 217)
 | 2023-11-05 | 4.00 | 0 | 0 |
 | 2023-11-08 | 4.02 | 0 | 0 |
 | 2023-11-12 | 4.04 | 0 | 0 |
+| 2023-11-13 | 4.06 | 0 | 0 |

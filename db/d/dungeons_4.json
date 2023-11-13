@@ -426,9 +426,9 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 135
     },
     {
       "ID": "ach_main04undead_minions",
@@ -722,9 +722,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -738,9 +738,9 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_main17stone_completed",
@@ -849,8 +849,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:25:29.764783+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:03:47.9834373+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:20:23.0467606+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:25:29.7648448+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:58:50.1101842+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:03:47.9834927+00:00"
 }

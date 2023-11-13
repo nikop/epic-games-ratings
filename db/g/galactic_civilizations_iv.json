@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 173,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -8749,9 +8749,9 @@
       "ID": "Use_Artifact_Power",
       "SetID": "4h07amh",
       "Name": "Unleash My Power",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 4361
+      "UsersEstimate": 4434
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -9013,8 +9013,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2023-09-24T18:01:14.3140967+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:30:00.5832234+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:08:15.0598785+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.8341432+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:21:53.6429894+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:30:00.5833455+00:00"
+  "LastUpdate_Ratings": "2023-11-13T03:00:01.2403144+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:08:15.059952+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1015,
+  "EOS_Progressed": 1016,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2589,6 +2589,11 @@
       "Time": "2023-11-13T00:09:07.9087886+00:00",
       "NumProgressed": 1015,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T03:08:44.8596586+00:00",
+      "NumProgressed": 1016,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -2600,7 +2605,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -2608,7 +2613,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -2640,7 +2645,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -2720,7 +2725,7 @@
       "Name": "Burnt Smell",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -2840,7 +2845,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -2888,7 +2893,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 355
+      "UsersEstimate": 356
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -2896,7 +2901,7 @@
       "Name": "Decakill!",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -2974,9 +2979,9 @@
       "ID": "MARY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Hostage of the Elderly",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 254
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -3024,7 +3029,7 @@
       "Name": "Buy A Book",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -3048,7 +3053,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -3127,14 +3132,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1015,
+      "Progressed": 1016,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:30:37.1512067+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:08:44.8596582+00:00",
   "LastUpdate_AppInfo": "2023-11-09T22:57:16.2174381+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:21:16.6428832+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:30:37.1512953+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:59:32.127111+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:08:44.8597361+00:00"
 }

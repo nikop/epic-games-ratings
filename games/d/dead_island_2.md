@@ -1,7 +1,7 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 524)  
+Rating: 4.54 (Ranked 523)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -23,16 +23,16 @@ Rating: 4.54 (Ranked 524)
 | Apex Predator | 0.60% | ~4,306 |
 | Stacking the Deck | 0.60% | ~4,306 |
 | This is My Weapon | 0.60% | ~4,306 |
-| Perks of the Job | 0.50% | ~3,588 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,588 |
-| Slayer Squad | 0.50% | ~3,588 |
-| Can't Handle the Truth | 0.50% | ~3,588 |
-| Like Riding a Bike | 0.50% | ~3,588 |
-| Zombologist | 0.50% | ~3,588 |
-| Ooh, Shiny! | 0.50% | ~3,588 |
-| A Patton Emerges | 0.50% | ~3,588 |
-| Max Headroom | 0.50% | ~3,588 |
-| Our True Nature | 0.50% | ~3,588 |
+| Perks of the Job | 0.50% | ~3,589 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,589 |
+| Slayer Squad | 0.50% | ~3,589 |
+| Can't Handle the Truth | 0.50% | ~3,589 |
+| Like Riding a Bike | 0.50% | ~3,589 |
+| Zombologist | 0.50% | ~3,589 |
+| Ooh, Shiny! | 0.50% | ~3,589 |
+| A Patton Emerges | 0.50% | ~3,589 |
+| Max Headroom | 0.50% | ~3,589 |
+| Our True Nature | 0.50% | ~3,589 |
 | Making Your Mark | 0.40% | ~2,871 |
 | Not Even My Final Form | 0.40% | ~2,871 |
 | Humanity Distilled | 0.40% | ~2,871 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 524)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,699 (Ranked 20)  
+Progressed: 717,706 (Ranked 20)  
 Completed: 2,386 (0.33%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,386 (0.33%) (Ranked 222)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 717,699 | 2,386 |
+| 2023-11-13 | 717,706 | 2,386 |
 ## Awards
 Max (Great Boss Battles): 7,376  (Ranked 51)  
 Sum: 11,193 (Ranked 85)  

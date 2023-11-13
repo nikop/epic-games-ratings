@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 67,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -539,9 +539,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 232093,
+  "EOS_Progressed": 232095,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1259,
+  "EOS_NewPlayers": 1255,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13489,6 +13489,11 @@
       "Time": "2023-11-13T02:30:50.3975421+00:00",
       "NumProgressed": 232093,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T03:08:55.5953086+00:00",
+      "NumProgressed": 232095,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -13565,7 +13570,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20888
+      "UsersEstimate": 20889
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -13757,7 +13762,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 58023
+      "UsersEstimate": 58024
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -13772,7 +13777,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 232093,
+      "Progressed": 232095,
       "Completed": 0
     }
   ],
@@ -13780,8 +13785,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2023-11-12T19:02:37.2550535+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:30:50.3975417+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:08:55.5953082+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:15.7826275+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:24:10.603629+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:30:50.3976585+00:00"
+  "LastUpdate_Ratings": "2023-11-13T03:02:43.6418741+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:08:55.5953949+00:00"
 }

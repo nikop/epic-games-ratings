@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 21175,
+  "EOS_Progressed": 21176,
   "EOS_Completed": 90,
-  "EOS_NewPlayers": 2233,
+  "EOS_NewPlayers": 2231,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -6303,6 +6303,11 @@
       "Time": "2023-11-13T02:30:05.9372368+00:00",
       "NumProgressed": 21175,
       "NumCompleted": 90
+    },
+    {
+      "Time": "2023-11-13T03:08:19.5628481+00:00",
+      "NumProgressed": 21176,
+      "NumCompleted": 90
     }
   ],
   "AchievementsAdded": "2023-09-20T21:06:26.7864758+00:00",
@@ -6339,7 +6344,7 @@
       "Name": "On Rails Experience",
       "Percentage": 56,
       "XP": 50,
-      "UsersEstimate": 11858
+      "UsersEstimate": 11859
     },
     {
       "ID": "achievement_13",
@@ -6419,7 +6424,7 @@
       "Name": "Fried Friendship",
       "Percentage": 87,
       "XP": 50,
-      "UsersEstimate": 18422
+      "UsersEstimate": 18423
     },
     {
       "ID": "achievement_4",
@@ -6427,7 +6432,7 @@
       "Name": "Struck A Pose",
       "Percentage": 88,
       "XP": 50,
-      "UsersEstimate": 18634
+      "UsersEstimate": 18635
     },
     {
       "ID": "achievement_5",
@@ -6451,7 +6456,7 @@
       "Name": "Look At Him Go",
       "Percentage": 78,
       "XP": 50,
-      "UsersEstimate": 16516
+      "UsersEstimate": 16517
     },
     {
       "ID": "achievement_8",
@@ -6459,7 +6464,7 @@
       "Name": "Break the Bank",
       "Percentage": 43,
       "XP": 50,
-      "UsersEstimate": 9105
+      "UsersEstimate": 9106
     },
     {
       "ID": "achievement_9",
@@ -6467,20 +6472,20 @@
       "Name": "A Daring Devil",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 11011
+      "UsersEstimate": 11012
     }
   ],
   "AchievementSets": [
     {
       "ID": "2bk7oji",
       "IsBase": true,
-      "Progressed": 21175,
+      "Progressed": 21176,
       "Completed": 90
     }
   ],
   "FirstSeenAchievements": "2023-07-27T23:04:38.3880568+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:30:05.9372361+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:08:19.5628477+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:29.824403+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:24:02.8596627+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:30:05.9373308+00:00"
+  "LastUpdate_Ratings": "2023-11-13T03:02:37.776187+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:08:19.5628868+00:00"
 }

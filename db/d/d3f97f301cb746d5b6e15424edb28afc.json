@@ -4,8 +4,8 @@
   "ProductSlug": "gas-station-simulator-ee93c7",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1474,9 +1474,9 @@
       "ID": "ACH_CAR_WASH_01",
       "SetID": "5fn8ia4",
       "Name": "Restored the Car Wash",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 196
     },
     {
       "ID": "ACH_CAR_WASH_02",
@@ -1562,9 +1562,9 @@
       "ID": "GSS_ACH_02_SHOP_02",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s just getting started",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 343
     },
     {
       "ID": "GSS_ACH_03_TIP_01",
@@ -1658,9 +1658,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 457
+      "UsersEstimate": 462
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -1682,9 +1682,9 @@
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
       "SetID": "5fn8ia4",
       "Name": "Trash Collection",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 495
     },
     {
       "ID": "GSS_ACH_18_ALIENS",
@@ -1754,17 +1754,17 @@
       "ID": "GSS_ACH_27_PAINT_01",
       "SetID": "5fn8ia4",
       "Name": "Fresh Coat of Paint",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 495
     },
     {
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 430
+      "UsersEstimate": 435
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -1778,9 +1778,9 @@
       "ID": "GSS_ACH_30_TRASH_01",
       "SetID": "5fn8ia4",
       "Name": "Cleaning Up",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 500
     },
     {
       "ID": "GSS_ACH_31_TRASH_02",
@@ -1818,9 +1818,9 @@
       "ID": "GSS_ACH_35_BROOM_01",
       "SetID": "5fn8ia4",
       "Name": "Broomed",
-      "Percentage": 91,
+      "Percentage": 92,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 500
     },
     {
       "ID": "GSS_ACH_36_BROOM_02",
@@ -2154,9 +2154,9 @@
       "ID": "GSS_ACH_77_EMPLOYEE_LEVEL_05",
       "SetID": "5fn8ia4",
       "Name": "Well Versed",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 277
+      "UsersEstimate": 283
     },
     {
       "ID": "GSS_ACH_78_EMPLOYEE_LEVEL_10",
@@ -2209,8 +2209,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:27:32.5723383+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:05:27.8252681+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:17.0856906+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:20:11.9624173+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:27:32.5724589+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:58:41.5868496+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:05:27.8253609+00:00"
 }

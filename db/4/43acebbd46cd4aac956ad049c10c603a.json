@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -621,9 +621,9 @@
       "ID": "EcstaticTruth",
       "SetID": "1n308hc",
       "Name": "Ecstatic Truth",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 9
     },
     {
       "ID": "Excellent",
@@ -709,9 +709,9 @@
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 72
     },
     {
       "ID": "Mnemosyne",
@@ -990,8 +990,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-11T23:03:06.8073096+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:25:27.5174983+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:03:46.1758729+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:19:00.3292922+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:25:27.5175583+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:57:45.2226548+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:03:46.1759152+00:00"
 }

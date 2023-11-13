@@ -2,7 +2,7 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 51,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 20,
@@ -6447,10 +6447,10 @@
       "Count": 461
     }
   ],
-  "EOS_Progressed": 717699,
+  "EOS_Progressed": 717706,
   "EOS_Completed": 2386,
-  "EOS_NewPlayers": 4051,
-  "EOS_NewCompleters": 43,
+  "EOS_NewPlayers": 4045,
+  "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30032,6 +30032,11 @@
       "Time": "2023-11-13T02:25:33.1561323+00:00",
       "NumProgressed": 717699,
       "NumCompleted": 2386
+    },
+    {
+      "Time": "2023-11-13T03:03:50.6327151+00:00",
+      "NumProgressed": 717706,
+      "NumCompleted": 2386
     }
   ],
   "TotalAchievements": 51,
@@ -30091,7 +30096,7 @@
       "Name": "Perks of the Job",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ach_bookworm",
@@ -30123,7 +30128,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -30139,7 +30144,7 @@
       "Name": "Slayer Squad",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ach_explorer",
@@ -30155,7 +30160,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ach_finisher",
@@ -30171,7 +30176,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ach_good_eyesight",
@@ -30251,7 +30256,7 @@
       "Name": "Zombologist",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ach_legendary",
@@ -30259,7 +30264,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ach_magnum_opus",
@@ -30275,7 +30280,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ach_mind_over_monster",
@@ -30339,7 +30344,7 @@
       "Name": "Max Headroom",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ach_the_vcla",
@@ -30355,7 +30360,7 @@
       "Name": "Our True Nature",
       "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3588
+      "UsersEstimate": 3589
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -30450,13 +30455,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717699,
+      "Progressed": 717706,
       "Completed": 2386
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43241,
+      "Progressed": 43248,
       "Completed": 36532
     }
   ],
@@ -30464,8 +30469,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-13T01:46:45.8502198+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:25:33.1561317+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:03:50.6327147+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:22:22.6222495+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:25:33.1565314+00:00"
+  "LastUpdate_Ratings": "2023-11-13T03:00:23.8638185+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:03:50.632876+00:00"
 }

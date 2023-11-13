@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -11929,10 +11929,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57337,
       "NumberOfAwardsMax": 6965
+    },
+    {
+      "Time": "2023-11-13T02:59:57.8333293+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57355,
+      "NumberOfAwardsMax": 6965
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57337,
+  "NumberOfAwards": 57355,
   "NumberOfAwardsMax": 6965,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -11982,7 +11988,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 6403
+      "Count": 6421
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12003,9 +12009,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 454358,
+  "EOS_Progressed": 454377,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6167,
+  "EOS_NewPlayers": 6172,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35638,6 +35644,11 @@
       "Time": "2023-11-13T02:29:38.8992287+00:00",
       "NumProgressed": 454358,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T03:07:57.7000741+00:00",
+      "NumProgressed": 454377,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -38552,21 +38563,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 454358,
+      "Progressed": 454377,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 454358,
+      "Progressed": 454377,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-13T01:46:21.6561647+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:29:38.8992282+00:00",
+  "LastChanged": "2023-11-13T02:59:57.8333292+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:07:57.7000736+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:21:49.6825033+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:29:38.9007778+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:59:57.8333298+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:07:57.7010998+00:00"
 }

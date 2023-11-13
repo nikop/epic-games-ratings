@@ -11,8 +11,8 @@
 | The Hellwoods | 65.00% | ~154 |
 | Thalya's Concentrated Fury | 64.00% | ~152 |
 | Experienced Thalya | 58.00% | ~137 |
+| The Plains of Strothalm | 57.00% | ~135 |
 | Master of Magic | 56.00% | ~133 |
-| The Plains of Strothalm | 56.00% | ~133 |
 | Bad Elves Go Everywhere | 53.00% | ~126 |
 | Unicorn steaks – fresh off the hoof! | 51.00% | ~121 |
 | Trap Master | 49.00% | ~116 |
@@ -49,9 +49,9 @@
 | Gorgu is in the Best of Health | 2.00% | ~5 |
 | Mirror, Mirror | 2.00% | ~5 |
 | Laser Eyes Are So Useless | 2.00% | ~5 |
-| Doom Hill | 1.00% | ~2 |
+| Doom Hill | 2.00% | ~5 |
+| Rubble and Ashes | 2.00% | ~5 |
 | Lavalumps on Ice! | 1.00% | ~2 |
-| Rubble and Ashes | 1.00% | ~2 |
 | Untouchable | 0.80% | ~2 |
 | Brimstone Shaken, Not Stirred | 0.80% | ~2 |
 | The Last Stand - This Time For Real! | 0.80% | ~2 |

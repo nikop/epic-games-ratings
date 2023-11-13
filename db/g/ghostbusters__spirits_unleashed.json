@@ -3285,9 +3285,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 30905,
+  "EOS_Progressed": 30906,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 590,
+  "EOS_NewPlayers": 588,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19045,6 +19045,11 @@
       "Time": "2023-11-13T02:26:37.3375585+00:00",
       "NumProgressed": 30905,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2023-11-13T03:04:42.9901659+00:00",
+      "NumProgressed": 30906,
+      "NumCompleted": 67
     }
   ],
   "TotalAchievements": 51,
@@ -19086,9 +19091,9 @@
       "ID": "Catostrophic_Destroyer",
       "SetID": "819popo",
       "Name": "Catostrophic Destroyer",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 62
     },
     {
       "ID": "Clutch_Capture",
@@ -19463,7 +19468,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 30905,
+      "Progressed": 30906,
       "Completed": 67
     }
   ],
@@ -19471,8 +19476,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2023-11-13T01:49:23.7879246+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:26:37.337558+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:04:42.9901654+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:24:05.1792509+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:26:37.3377002+00:00"
+  "LastUpdate_Ratings": "2023-11-13T03:02:39.7022626+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:04:42.9902722+00:00"
 }

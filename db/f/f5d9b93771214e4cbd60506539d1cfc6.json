@@ -2,7 +2,7 @@
   "ID": "f5d9b93771214e4cbd60506539d1cfc6",
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
-  "Ranking_Rating": 524,
+  "Ranking_Rating": 523,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 77,
@@ -233,7 +233,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 152583,
+  "EOS_Progressed": 152585,
   "EOS_Completed": 332,
   "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 11,
@@ -17908,6 +17908,11 @@
       "Time": "2023-11-13T02:25:48.8487347+00:00",
       "NumProgressed": 152583,
       "NumCompleted": 332
+    },
+    {
+      "Time": "2023-11-13T03:04:03.449903+00:00",
+      "NumProgressed": 152585,
+      "NumCompleted": 332
     }
   ],
   "TotalAchievements": 31,
@@ -17927,7 +17932,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 106808
+      "UsersEstimate": 106810
     },
     {
       "ID": "EAwards_10",
@@ -17943,7 +17948,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 32042
+      "UsersEstimate": 32043
     },
     {
       "ID": "EAwards_12",
@@ -17967,7 +17972,7 @@
       "Name": "Do or Do Not",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 59507
+      "UsersEstimate": 59508
     },
     {
       "ID": "EAwards_15",
@@ -17991,7 +17996,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33568
+      "UsersEstimate": 33569
     },
     {
       "ID": "EAwards_18",
@@ -17999,7 +18004,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 33568
+      "UsersEstimate": 33569
     },
     {
       "ID": "EAwards_19",
@@ -18015,7 +18020,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 42723
+      "UsersEstimate": 42724
     },
     {
       "ID": "EAwards_20",
@@ -18079,7 +18084,7 @@
       "Name": "El Savior",
       "Percentage": 3,
       "XP": 110,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "EAwards_28",
@@ -18095,7 +18100,7 @@
       "Name": "The Devil wears Revenge!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4578
     },
     {
       "ID": "EAwards_3",
@@ -18111,7 +18116,7 @@
       "Name": "Boom-Shack-Calaca",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 13732
+      "UsersEstimate": 13733
     },
     {
       "ID": "EAwards_4",
@@ -18119,7 +18124,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 22887
+      "UsersEstimate": 22888
     },
     {
       "ID": "EAwards_5",
@@ -18166,7 +18171,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 152583,
+      "Progressed": 152585,
       "Completed": 332
     }
   ],
@@ -18174,8 +18179,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-10-16T16:03:00.6349642+00:00",
-  "LastChanged_Achievements": "2023-11-13T02:25:48.8487342+00:00",
+  "LastChanged_Achievements": "2023-11-13T03:04:03.4499027+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.0681244+00:00",
-  "LastUpdate_Ratings": "2023-11-13T02:21:05.4335159+00:00",
-  "LastUpdate_Achievements": "2023-11-13T02:25:48.8488691+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:59:22.9392908+00:00",
+  "LastUpdate_Achievements": "2023-11-13T03:04:03.4500189+00:00"
 }

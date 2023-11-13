@@ -5,7 +5,7 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,815 |
+| First of Many | 9.00% | ~19,816 |
 | The Killing Jar | 8.00% | ~17,614 |
 | Expanding Horizons | 7.00% | ~15,412 |
 | Quest for Survival | 7.00% | ~15,412 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,202 |
 | Proving Grounds | 1.00% | ~2,202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,172 (Ranked 68)  
+Progressed: 220,174 (Ranked 68)  
 Completed: 442 (0.20%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 442 (0.20%) (Ranked 248)
 | 2023-11-10 | 219,442 | 438 |
 | 2023-11-11 | 219,801 | 439 |
 | 2023-11-12 | 220,140 | 441 |
-| 2023-11-13 | 220,172 | 442 |
+| 2023-11-13 | 220,174 | 442 |
 ## Awards
 Max (Great Boss Battles): 2,158  (Ranked 109)  
 Sum: 4,875 (Ranked 139)  

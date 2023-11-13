@@ -6,21 +6,21 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~725,301 |
-| The Blues | 85.00% | ~622,733 |
+| Out of bed | 99.00% | ~725,302 |
+| The Blues | 85.00% | ~622,734 |
 | Fast | 66.00% | ~483,534 |
 | Healthbar | 55.00% | ~402,945 |
-| Force Cube | 53.00% | ~388,292 |
+| Force Cube | 53.00% | ~388,293 |
 | Double Jump | 48.00% | ~351,661 |
 | Regeneration | 47.00% | ~344,335 |
 | Triple Jump | 43.00% | ~315,030 |
-| Climb the hill | 42.00% | ~307,703 |
+| Climb the hill | 42.00% | ~307,704 |
 | Through the fire pipe | 39.00% | ~285,725 |
-| MacGuffin | 38.00% | ~278,398 |
+| MacGuffin | 38.00% | ~278,399 |
 | Just once | 37.00% | ~271,072 |
 | Armor | 30.00% | ~219,788 |
 | True holy spirit | 28.00% | ~205,136 |
-| That's how electronics work obviously | 27.00% | ~197,809 |
+| That's how electronics work obviously | 27.00% | ~197,810 |
 | Force Cube Catapult | 25.00% | ~183,157 |
 | Holy Sword | 23.00% | ~168,504 |
 | Telefrag | 23.00% | ~168,504 |
@@ -51,10 +51,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | Panic Lights | 10.00% | ~73,263 |
 | Translocator | 10.00% | ~73,263 |
 | Yellow Shot Button | 10.00% | ~73,263 |
-| Moon Door | 9.00% | ~65,936 |
-| Momentum | 9.00% | ~65,936 |
-| Through the tiny pipe | 9.00% | ~65,936 |
-| Win! | 9.00% | ~65,936 |
+| Moon Door | 9.00% | ~65,937 |
+| Momentum | 9.00% | ~65,937 |
+| Through the tiny pipe | 9.00% | ~65,937 |
+| Win! | 9.00% | ~65,937 |
 | The real real teleported man | 8.00% | ~58,610 |
 | Well deserved | 6.00% | ~43,958 |
 | Super Sword | 4.00% | ~29,305 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~733 |
 | DLC: Top of the world | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,627 (Ranked 19)  
+Progressed: 732,628 (Ranked 19)  
 Completed: 760 (0.10%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 760 (0.10%) (Ranked 272)
 | 2023-11-10 | 732,310 | 759 |
 | 2023-11-11 | 732,473 | 760 |
 | 2023-11-12 | 732,613 | 760 |
-| 2023-11-13 | 732,627 | 760 |
+| 2023-11-13 | 732,628 | 760 |
 ## Awards
 Max (Challenging Puzzles): 7,723  (Ranked 48)  
 Sum: 10,073 (Ranked 91)  

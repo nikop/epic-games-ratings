@@ -6,8 +6,8 @@ Number of Ratings: 111  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're free now! | 61.00% | ~1,870 |
-| Keeping it classy | 28.00% | ~858 |
+| You're free now! | 61.00% | ~1,871 |
+| Keeping it classy | 28.00% | ~859 |
 | Welcome to the family | 22.00% | ~675 |
 | The finer things in life | 20.00% | ~613 |
 | Backpacker | 15.00% | ~460 |
@@ -18,9 +18,9 @@ Number of Ratings: 111  (23.09.2022)
 | The hard way | 10.00% | ~307 |
 | Upfront shredder | 10.00% | ~307 |
 | Good vibes | 9.00% | ~276 |
-| Fashionista | 8.00% | ~245 |
 | That pinch! | 8.00% | ~245 |
 | Bottom ply killer | 7.00% | ~215 |
+| Fashionista | 7.00% | ~215 |
 | Finally he zips it | 7.00% | ~215 |
 | G'Day Mate! | 7.00% | ~215 |
 | Tight lipslides | 7.00% | ~215 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~3 |
 | Ultimate skate nerd | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,066 (Ranked 205)  
+Progressed: 3,067 (Ranked 205)  
 Completed: 2 (0.07%) (Ranked 290)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -245,9 +245,10 @@ Completed: 2 (0.07%) (Ranked 290)
 | 2023-11-09 | 3,062 | 2 |
 | 2023-11-10 | 3,064 | 2 |
 | 2023-11-11 | 3,066 | 2 |
+| 2023-11-13 | 3,067 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 56  (Ranked 415)  
-Sum: 547 (Ranked 317)  
+Sum: 548 (Ranked 317)  
 Diff (max vs sum): 98  
 | Award | Count |
 | ----- | ----- |
@@ -257,8 +258,8 @@ Diff (max vs sum): 98
 | This game has Amazing Characters | 49 |
 | This game has Realistic Visuals | 49 |
 | This game has a Creative Community | 47 |
+| This game is Extremely Fun | 46 |
 | This game has Amazing Storytelling | 46 |
-| This game is Extremely Fun | 45 |
 | This game is Relaxing | 43 |
 | This game has Quickly Understood Controls | 38 |
 | This game is Educational | 37 |
@@ -435,3 +436,4 @@ Diff (max vs sum): 98
 | 2023-11-07 | 4.69 | - | 56 | 543 |
 | 2023-11-11 | 4.69 | - | 56 | 546 |
 | 2023-11-12 | 4.69 | - | 56 | 547 |
+| 2023-11-13 | 4.69 | - | 56 | 548 |
