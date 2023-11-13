@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 2119,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5159,9 +5159,9 @@
       "ID": "ML_ACHIEVEMENT_45",
       "SetID": "c7hf6a4",
       "Name": "Rivals to the End",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 615
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5206,8 +5206,8 @@
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:09:40.0460589+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:09:47.8434401+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:59:21.7052098+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:09:40.0461332+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:59:58.6523821+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:09:47.8435081+00:00"
 }

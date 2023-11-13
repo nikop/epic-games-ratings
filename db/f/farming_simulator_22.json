@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 328,
-  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11220,9 +11220,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51555,
+  "EOS_Progressed": 51556,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29930,6 +29930,11 @@
       "Time": "2023-11-13T05:06:24.299076+00:00",
       "NumProgressed": 51555,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-13T06:06:56.6662995+00:00",
+      "NumProgressed": 51556,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -30021,7 +30026,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 32995
+      "UsersEstimate": 32996
     },
     {
       "ID": "CutTree",
@@ -30077,7 +30082,7 @@
       "Name": "Plant get enough",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 30933
+      "UsersEstimate": 30934
     },
     {
       "ID": "Harvested",
@@ -30093,7 +30098,7 @@
       "Name": "Own use",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 38666
+      "UsersEstimate": 38667
     },
     {
       "ID": "HorseJumps",
@@ -30125,7 +30130,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 26293
+      "UsersEstimate": 26294
     },
     {
       "ID": "Mission",
@@ -30149,7 +30154,7 @@
       "Name": "Hard work pays off",
       "Percentage": 53,
       "XP": 55,
-      "UsersEstimate": 27324
+      "UsersEstimate": 27325
     },
     {
       "ID": "NumBeehives",
@@ -30205,7 +30210,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 14435
+      "UsersEstimate": 14436
     },
     {
       "ID": "PlayTime",
@@ -30229,7 +30234,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 31964
+      "UsersEstimate": 31965
     },
     {
       "ID": "Stones",
@@ -30261,7 +30266,7 @@
       "Name": "Van Gogh",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 13404
+      "UsersEstimate": 13405
     },
     {
       "ID": "VehicleRepair",
@@ -30284,15 +30289,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51555,
+      "Progressed": 51556,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2023-11-12T19:58:00.7662056+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:06:24.2990755+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:06:56.666299+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:00.8695856+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:57:52.2162493+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:06:24.2992315+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:58:10.8430818+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:06:56.6664504+00:00"
 }

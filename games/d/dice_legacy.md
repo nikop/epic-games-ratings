@@ -6,8 +6,8 @@ Rating: 4.27 (Ranked 858)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | We made it | 40.00% | ~463 |
-| Manipulating Fate | 10.00% | ~116 |
 | The City | 10.00% | ~116 |
+| Manipulating Fate | 9.00% | ~104 |
 | Full house | 7.00% | ~81 |
 | Burn and Pillage | 6.00% | ~69 |
 | Hear me out | 6.00% | ~69 |
@@ -25,8 +25,8 @@ Rating: 4.27 (Ranked 858)
 | The First King | 2.00% | ~23 |
 | The Unruly Ones | 2.00% | ~23 |
 | The great fire | 1.00% | ~12 |
-| The Council | 1.00% | ~12 |
 | The Mad | 1.00% | ~12 |
+| The Council | 0.90% | ~10 |
 | Like the dream | 0.90% | ~10 |
 | Charismatic Leader | 0.80% | ~9 |
 | Metropolis | 0.70% | ~8 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 858)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,157 (Ranked 245)  
+Progressed: 1,158 (Ranked 245)  
 Completed: 0 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,6 +218,7 @@ Completed: 0 (0.00%) (Ranked 350)
 | 2023-11-10 | 1,152 | 0 |
 | 2023-11-11 | 1,153 | 0 |
 | 2023-11-12 | 1,157 | 0 |
+| 2023-11-13 | 1,158 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

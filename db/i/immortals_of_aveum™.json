@@ -1407,9 +1407,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 211
     },
     {
       "ID": "achievement_36",
@@ -1511,9 +1511,9 @@
       "ID": "achievement_5",
       "SetID": "18al4io",
       "Name": "Initiate",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_50",
@@ -1648,8 +1648,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-13T02:59:47.3334037+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:08:31.3773357+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:08:27.2291765+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:59:44.6812763+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:08:31.3773882+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:00:27.9226512+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:08:27.229225+00:00"
 }

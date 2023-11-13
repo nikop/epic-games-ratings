@@ -43,12 +43,12 @@
 | The Krogan | 33.00% | ~404 |
 | Broke, Blind, and Bedlam | 32.00% | ~391 |
 | Ghost Ship | 31.00% | ~379 |
+| The Quarian | 31.00% | ~379 |
 | Galactic Explorer | 31.00% | ~379 |
 | A Personal Touch | 30.00% | ~367 |
 | Completionist | 30.00% | ~367 |
 | The Assassin | 30.00% | ~367 |
 | The Justicar | 30.00% | ~367 |
-| The Quarian | 30.00% | ~367 |
 | Ghost of the Father | 30.00% | ~367 |
 | The Prodigal | 30.00% | ~367 |
 | Driven | 30.00% | ~367 |

@@ -6385,10 +6385,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11193,
       "NumberOfAwardsMax": 7376
+    },
+    {
+      "Time": "2023-11-13T06:01:08.4217407+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11199,
+      "NumberOfAwardsMax": 7376
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11193,
+  "NumberOfAwards": 11199,
   "NumberOfAwardsMax": 7376,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6402,7 +6408,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 531
+      "Count": 537
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -6447,9 +6453,9 @@
       "Count": 461
     }
   ],
-  "EOS_Progressed": 717736,
+  "EOS_Progressed": 717751,
   "EOS_Completed": 2386,
-  "EOS_NewPlayers": 4046,
+  "EOS_NewPlayers": 4050,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30047,6 +30053,11 @@
       "Time": "2023-11-13T05:04:08.9847727+00:00",
       "NumProgressed": 717736,
       "NumCompleted": 2386
+    },
+    {
+      "Time": "2023-11-13T06:04:15.3669156+00:00",
+      "NumProgressed": 717751,
+      "NumCompleted": 2386
     }
   ],
   "TotalAchievements": 51,
@@ -30058,7 +30069,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -30082,7 +30093,7 @@
       "Name": "Anger Management",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -30090,7 +30101,7 @@
       "Name": "Make it So",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ach_big_name_in_town",
@@ -30098,7 +30109,7 @@
       "Name": "LA Influential",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ach_blueprinted",
@@ -30114,7 +30125,7 @@
       "Name": "Bookworm",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "ach_break_a_leg",
@@ -30146,7 +30157,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "ach_doom_buddies",
@@ -30162,7 +30173,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -30210,7 +30221,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "ach_hotel_california",
@@ -30242,7 +30253,7 @@
       "Name": "Sole Survivor",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ach_jumbo_keyring",
@@ -30258,7 +30269,7 @@
       "Name": "Apex Predator",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "ach_knowledgeable",
@@ -30282,7 +30293,7 @@
       "Name": "Gore Horse",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "ach_metropolitan",
@@ -30312,9 +30323,9 @@
       "ID": "ach_salvation",
       "SetID": "7km39fm",
       "Name": "Down with the Sickness",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2871
     },
     {
       "ID": "ach_secrets_of_la",
@@ -30330,7 +30341,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "ach_star_performance",
@@ -30378,7 +30389,7 @@
       "Name": "This is My Weapon",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -30465,22 +30476,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717736,
+      "Progressed": 717751,
       "Completed": 2386
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43278,
+      "Progressed": 43293,
       "Completed": 36532
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-13T01:46:45.8502198+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:04:08.9847722+00:00",
+  "LastChanged": "2023-11-13T06:01:08.4217405+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:04:15.3669151+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:02:42.1973818+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:04:08.9849493+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:01:08.4217412+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:04:15.3671052+00:00"
 }

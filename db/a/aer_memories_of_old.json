@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24043,
+  "EOS_Progressed": 24045,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 464,
+  "EOS_NewPlayers": 466,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -22623,6 +22623,11 @@
       "Time": "2023-11-13T04:04:37.9678005+00:00",
       "NumProgressed": 24043,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2023-11-13T06:04:43.1230661+00:00",
+      "NumProgressed": 24045,
+      "NumCompleted": 457
     }
   ],
   "TotalAchievements": 20,
@@ -22634,7 +22639,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4088
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -22698,7 +22703,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3606
+      "UsersEstimate": 3607
     },
     {
       "ID": "FOUND_ERIN",
@@ -22754,7 +22759,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 77,
       "XP": 50,
-      "UsersEstimate": 18513
+      "UsersEstimate": 18515
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -22793,15 +22798,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24043,
+      "Progressed": 24045,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:04:32.5269221+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:04:43.1230655+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:11.8513904+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:59:14.4765273+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:04:32.5270769+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:59:51.1036236+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:04:43.1232186+00:00"
 }

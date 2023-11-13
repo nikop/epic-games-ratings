@@ -1483,9 +1483,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13676,
+  "EOS_Progressed": 13677,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14508,6 +14508,11 @@
       "Time": "2023-11-13T05:09:00.5492713+00:00",
       "NumProgressed": 13676,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-13T06:09:01.3284423+00:00",
+      "NumProgressed": 13677,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14519,7 +14524,7 @@
       "Name": "Getting Started",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11214
+      "UsersEstimate": 11215
     },
     {
       "ID": "ACH02",
@@ -14615,7 +14620,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "ACH14",
@@ -14687,7 +14692,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ACH23",
@@ -14743,7 +14748,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "ACH30",
@@ -14798,7 +14803,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13676,
+      "Progressed": 13677,
       "Completed": 53
     }
   ],
@@ -14806,8 +14811,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-12T20:57:18.3668848+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:09:00.5492707+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:09:01.3284417+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:57:37.3150785+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:09:00.5493685+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:57:52.3008155+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:09:01.328554+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~303,403 |
+| Dealmaker | 73.00% | ~303,404 |
 | Full garage | 61.00% | ~253,529 |
 | To the eyeballs! | 51.00% | ~211,967 |
 | Individual delivery | 46.00% | ~191,186 |
-| Non-Stop | 45.00% | ~187,029 |
+| Non-Stop | 45.00% | ~187,030 |
 | Juggler | 36.00% | ~149,624 |
-| Forgot something | 35.00% | ~145,467 |
-| Close call! | 30.00% | ~124,686 |
+| Forgot something | 35.00% | ~145,468 |
+| Close call! | 30.00% | ~124,687 |
 | Get out my way | 28.00% | ~116,374 |
-| Common cause | 26.00% | ~108,061 |
-| Critical care | 26.00% | ~108,061 |
+| Common cause | 26.00% | ~108,062 |
+| Critical care | 26.00% | ~108,062 |
 | Mega-railroad | 23.00% | ~95,593 |
 | Upgrade complete | 23.00% | ~95,593 |
 | Just in time! | 18.00% | ~74,812 |
 | Builder | 17.00% | ~70,656 |
 | Long Haul | 17.00% | ~70,544 |
-| Steam Age | 16.00% | ~66,499 |
+| Steam Age | 16.00% | ~66,500 |
 | Multilevel road | 15.00% | ~62,343 |
 | Bridgemania | 14.00% | ~58,187 |
 | Need to think | 14.00% | ~58,187 |
@@ -34,7 +34,7 @@ Number of Ratings: 87  (23.09.2022)
 | Industrial Age | 9.00% | ~37,406 |
 | Just One More Valley | 9.00% | ~37,347 |
 | Prick of conscience | 8.00% | ~33,250 |
-| Missed it! | 7.00% | ~29,093 |
+| Missed it! | 7.00% | ~29,094 |
 | At the last moment! | 6.00% | ~24,937 |
 | Overseer | 6.00% | ~24,937 |
 | Highlander | 5.00% | ~20,781 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~415 |
 | World Zapper | 0.10% | ~415 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415,621 (Ranked 43)  
+Progressed: 415,622 (Ranked 43)  
 Completed: 21 (0.01%) (Ranked 328)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,10 +265,10 @@ Completed: 21 (0.01%) (Ranked 328)
 | 2023-11-10 | 414,822 | 21 |
 | 2023-11-11 | 415,223 | 21 |
 | 2023-11-12 | 415,578 | 21 |
-| 2023-11-13 | 415,621 | 21 |
+| 2023-11-13 | 415,622 | 21 |
 ## Awards
 Max (Challenging Puzzles): 877  (Ranked 161)  
-Sum: 1,758 (Ranked 218)  
+Sum: 1,759 (Ranked 218)  
 Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
@@ -281,7 +281,7 @@ Diff (max vs sum): -57
 | This game is Highly Recommended | 88 |
 | This game has Challenging Combat | 77 |
 | This game has a Creative Community | 62 |
-| This game has Amazing Storytelling | 59 |
+| This game has Amazing Storytelling | 60 |
 | This game has Amazing Characters | 46 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -460,4 +460,4 @@ Diff (max vs sum): -57
 | 2023-11-10 | 4.44 | - | 866 | 1,741 |
 | 2023-11-11 | 4.44 | - | 871 | 1,749 |
 | 2023-11-12 | 4.44 | - | 871 | 1,752 |
-| 2023-11-13 | 4.44 | - | 877 | 1,758 |
+| 2023-11-13 | 4.44 | - | 877 | 1,759 |

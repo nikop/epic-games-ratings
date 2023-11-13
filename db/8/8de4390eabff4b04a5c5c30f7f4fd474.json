@@ -2,7 +2,7 @@
   "ID": "8de4390eabff4b04a5c5c30f7f4fd474",
   "Name": "Sphere Guider",
   "ProductSlug": "sphere-guider-e20c86",
-  "Ranking_EOS_Progress": 603,
+  "Ranking_EOS_Progress": 604,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 453,
   "Ranking_EOS_NewCompleters": 129,
@@ -209,8 +209,8 @@
   ],
   "FirstSeen": "2023-06-24T15:57:31.2167297+00:00",
   "FirstSeenAchievements": "2023-05-16T05:01:46.5155201+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:08:49.4037212+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:08:47.9804046+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:15.7421443+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:58:16.2188796+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:08:49.4037365+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:58:40.5423874+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:08:47.980417+00:00"
 }

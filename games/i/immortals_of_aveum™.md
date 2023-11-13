@@ -8,9 +8,9 @@ Rating: 4.06 (Ranked 973)
 | Unforeseen | 90.00% | ~244 |
 | Battlefields Have Memories | 86.00% | ~233 |
 | Enlisted | 82.00% | ~222 |
-| Maybe Engage a Little | 77.00% | ~209 |
+| Maybe Engage a Little | 78.00% | ~211 |
 | No More Names | 64.00% | ~173 |
-| Initiate | 49.00% | ~133 |
+| Initiate | 50.00% | ~136 |
 | Thrada-Kul | 45.00% | ~122 |
 | Gravity-Challenged Rocks | 34.00% | ~92 |
 | All the Major Food Groups | 30.00% | ~81 |

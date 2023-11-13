@@ -38,15 +38,15 @@ Rating: 4.21 (Ranked 900)
 | Bring it on! | 0.10% | ~310 |
 | I've been waiting for this! | 0.10% | ~310 |
 | You want more? I've got more! | 0.10% | ~310 |
+| I'm just warming up | 0.10% | ~310 |
 | We learned it the hard way | 0.10% | ~310 |
 | We strike as one | 0.10% | ~310 |
 | Chaos be damned! | 0.10% | ~310 |
 | I took a risk | 0.10% | ~310 |
-| I'm just warming up | 0.00% | ~0 |
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309,611 (Ranked 49)  
+Progressed: 309,636 (Ranked 49)  
 Completed: 4 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 4 (0.00%) (Ranked 350)
 | 2023-11-10 | 307,359 | 4 |
 | 2023-11-11 | 308,408 | 4 |
 | 2023-11-12 | 309,432 | 4 |
-| 2023-11-13 | 309,611 | 4 |
+| 2023-11-13 | 309,636 | 4 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 414)  
 Sum: 58 (Ranked 472)  

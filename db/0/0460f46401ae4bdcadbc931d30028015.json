@@ -585,9 +585,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 3535,
+  "EOS_Progressed": 3536,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4975,6 +4975,11 @@
       "Time": "2023-11-13T05:06:30.5749406+00:00",
       "NumProgressed": 3535,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T06:07:04.0870933+00:00",
+      "NumProgressed": 3536,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5003,7 +5008,7 @@
       "Name": "Big Spender",
       "Percentage": 21,
       "XP": 60,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "achievement_12",
@@ -5083,7 +5088,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "achievement_21",
@@ -5099,7 +5104,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "achievement_4",
@@ -5154,7 +5159,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3535,
+      "Progressed": 3536,
       "Completed": 0
     }
   ],
@@ -5162,8 +5167,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-12T05:58:03.0217726+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:06:30.57494+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:07:04.0870925+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:58:28.7009769+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:06:30.574984+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:58:54.2566496+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:07:04.0871315+00:00"
 }

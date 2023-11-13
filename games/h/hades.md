@@ -6,12 +6,12 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~635,155 |
-| Escaped Asphodel | 79.00% | ~563,789 |
-| Arms Collector | 70.00% | ~499,560 |
-| Friends in High Places | 67.00% | ~478,150 |
+| Escaped Tartarus | 89.00% | ~635,156 |
+| Escaped Asphodel | 79.00% | ~563,790 |
+| Arms Collector | 70.00% | ~499,561 |
+| Friends in High Places | 67.00% | ~478,151 |
 | Escaped Elysium | 66.00% | ~471,014 |
-| Chthonic Colleagues | 62.00% | ~442,467 |
+| Chthonic Colleagues | 62.00% | ~442,468 |
 | Is There No Escape? | 52.00% | ~371,102 |
 | Death Dealer | 45.00% | ~321,146 |
 | Skelly Slayer | 42.00% | ~299,736 |
@@ -21,10 +21,10 @@ Number of Ratings: 6,336  (23.09.2022)
 | Blessed by the Gods | 37.00% | ~264,053 |
 | Urge to Sing | 36.00% | ~256,917 |
 | Blood Bound | 35.00% | ~249,780 |
-| Three-Headed Boy | 32.00% | ~228,370 |
+| Three-Headed Boy | 32.00% | ~228,371 |
 | River Denizens | 28.00% | ~199,824 |
 | Grown Close | 28.00% | ~199,824 |
-| Home Makeover | 27.00% | ~192,687 |
+| Home Makeover | 27.00% | ~192,688 |
 | Had to Happen | 25.00% | ~178,414 |
 | The Family Secret | 25.00% | ~178,414 |
 | Tools of the Architect | 23.00% | ~164,141 |
@@ -37,8 +37,8 @@ Number of Ratings: 6,336  (23.09.2022)
 | Well Versed | 17.00% | ~121,322 |
 | War-God's Bloodlust | 15.00% | ~107,049 |
 | Musician and Muse | 14.00% | ~99,912 |
-| The Useless Trinket | 13.00% | ~92,775 |
-| Champion of Elysium | 13.00% | ~92,775 |
+| The Useless Trinket | 13.00% | ~92,776 |
+| Champion of Elysium | 13.00% | ~92,776 |
 | Slashed Benefits | 12.00% | ~85,639 |
 | Haste of Hermes | 11.00% | ~78,502 |
 | Bad Call | 10.00% | ~71,366 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,546 |
 | Friends Forever | 4.00% | ~28,546 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,657 (Ranked 22)  
+Progressed: 713,658 (Ranked 22)  
 Completed: 6,480 (0.91%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,7 +263,7 @@ Completed: 6,480 (0.91%) (Ranked 164)
 | 2023-11-10 | 713,278 | 6,474 |
 | 2023-11-11 | 713,473 | 6,476 |
 | 2023-11-12 | 713,636 | 6,480 |
-| 2023-11-13 | 713,657 | 6,480 |
+| 2023-11-13 | 713,658 | 6,480 |
 ## Awards
 Max (Character Customization): 3,363  (Ranked 93)  
 Sum: 8,198 (Ranked 102)  

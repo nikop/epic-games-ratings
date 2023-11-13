@@ -8,17 +8,17 @@ Number of Ratings: 1,611  (23.09.2022)
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,610 |
 | Biggest Communism Builder | 24.00% | ~31,380 |
-| The World's Most Laughable Centrist | 21.00% | ~27,457 |
+| The World's Most Laughable Centrist | 21.00% | ~27,458 |
 | Il Coppo Del'Arte! | 18.00% | ~23,535 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,920 |
 | Hyperstellar Law Official | 16.00% | ~20,920 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,305 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,305 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~16,997 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~16,998 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,382 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,075 |
-| Unbelievably Boring **** | 9.00% | ~11,767 |
-| Enemy Of The Physical Realm | 9.00% | ~11,767 |
+| Unbelievably Boring **** | 9.00% | ~11,768 |
+| Enemy Of The Physical Realm | 9.00% | ~11,768 |
 | Hardie's Heroes | 6.00% | ~7,845 |
 | The Lawbringer | 4.00% | ~5,230 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,230 |
@@ -28,8 +28,8 @@ Number of Ratings: 1,611  (23.09.2022)
 | Expert Advanced Remote Viewer | 2.00% | ~2,615 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,615 |
 | Wheel of Pleasure and Light | 2.00% | ~2,615 |
-| Massive Torque Dork | 1.00% | ~1,307 |
-| Avowed Inframaterialist | 1.00% | ~1,307 |
+| Massive Torque Dork | 1.00% | ~1,308 |
+| Avowed Inframaterialist | 1.00% | ~1,308 |
 | Committee of la Responsabilité | 0.90% | ~1,177 |
 | Venture into the HARDCORE | 0.90% | ~1,177 |
 | Real Musor | 0.90% | ~1,177 |
@@ -38,16 +38,16 @@ Number of Ratings: 1,611  (23.09.2022)
 | Leopard Mindset | 0.60% | ~784 |
 | Modus: Mullen | 0.30% | ~392 |
 | Palerunner | 0.30% | ~392 |
-| Cause a ****storm | 0.20% | ~261 |
-| True Detective | 0.20% | ~261 |
-| The Icebreaker | 0.20% | ~261 |
+| Cause a ****storm | 0.20% | ~262 |
+| True Detective | 0.20% | ~262 |
+| The Icebreaker | 0.20% | ~262 |
 | The Most Honourable Cop in The Land | 0.10% | ~131 |
 | Gluten-Free Topping Pie | 0.10% | ~131 |
 | Get Kim to Wear *The Jacket* | 0.10% | ~131 |
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,749 (Ranked 81)  
+Progressed: 130,750 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 28 (0.02%) (Ranked 319)
 | 2023-11-10 | 130,667 | 28 |
 | 2023-11-11 | 130,697 | 28 |
 | 2023-11-12 | 130,740 | 28 |
-| 2023-11-13 | 130,749 | 28 |
+| 2023-11-13 | 130,750 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 177)  
 Sum: 1,117 (Ranked 250)  

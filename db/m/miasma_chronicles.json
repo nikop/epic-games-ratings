@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 318,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4184,9 +4184,9 @@
       "ID": "TECHNOPHOBE",
       "SetID": "9a4jnji",
       "Name": "Technophobe",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 632
+      "UsersEstimate": 648
     },
     {
       "ID": "THERE_CAN_BE_ONLY_ONE",
@@ -4233,8 +4233,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2023-10-07T23:58:40.5277412+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:09:29.5346522+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:09:35.320606+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.5514998+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:59:55.4112036+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:09:29.5347142+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:00:39.8649112+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:09:35.3206701+00:00"
 }

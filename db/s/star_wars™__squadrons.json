@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19473,
+  "EOS_Progressed": 19476,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 2057,
   "EOS_NewCompleters": 0,
@@ -6409,6 +6409,11 @@
       "Time": "2023-11-13T05:09:40.6755416+00:00",
       "NumProgressed": 19473,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T06:09:48.3906402+00:00",
+      "NumProgressed": 19476,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -6509,7 +6514,7 @@
       "Name": "The Galaxy\u0027s Finest (Pilot)",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "achievement_20",
@@ -6517,7 +6522,7 @@
       "Name": "Stun \u0027Em",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "achievement_21",
@@ -6525,7 +6530,7 @@
       "Name": "Sound Strategy",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 1168
+      "UsersEstimate": 1169
     },
     {
       "ID": "achievement_22",
@@ -6645,7 +6650,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 18499
+      "UsersEstimate": 18502
     },
     {
       "ID": "achievement_36",
@@ -6661,7 +6666,7 @@
       "Name": "Asset Secured",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2531
+      "UsersEstimate": 2532
     },
     {
       "ID": "achievement_38",
@@ -6757,7 +6762,7 @@
       "Name": "Dressed for the Job You Want",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "achievement_6",
@@ -6765,7 +6770,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "achievement_7",
@@ -6796,7 +6801,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 19473,
+      "Progressed": 19476,
       "Completed": 1
     }
   ],
@@ -6804,8 +6809,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:09:40.675541+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:09:48.3906396+00:00",
   "LastUpdate_AppInfo": "2023-11-11T14:57:13.2904344+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:03:09.3710477+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:09:40.6756253+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:03:02.3255094+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:09:48.390725+00:00"
 }

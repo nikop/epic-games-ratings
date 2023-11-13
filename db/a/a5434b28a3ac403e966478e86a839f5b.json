@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -1650,6 +1650,11 @@
       "Time": "2023-11-13T00:07:27.1284085+00:00",
       "NumProgressed": 527,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-13T06:03:16.17779+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1668,9 +1673,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 50,
-      "UsersEstimate": 300
+      "UsersEstimate": 306
     },
     {
       "ID": "ACH_eou2",
@@ -1708,9 +1713,9 @@
       "ID": "ACH_eou6",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Main Reactor",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 126
+      "UsersEstimate": 121
     },
     {
       "ID": "ACH_eou7",
@@ -1758,21 +1763,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 9,
       "XP": 120,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:03:18.7173114+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:03:16.1777895+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:16.1042857+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:57:44.0705552+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:03:18.717405+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:58:00.53777+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:03:16.1778128+00:00"
 }

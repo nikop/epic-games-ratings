@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1223,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 221,
+  "EOS_NewPlayers": 220,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -3907,9 +3907,9 @@
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 379
     },
     {
       "ID": "achievement_51",
@@ -4351,8 +4351,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:03:55.0236922+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:03:58.9413667+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:03:06.2707634+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:03:55.0239223+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:02:58.380794+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:03:58.9415948+00:00"
 }

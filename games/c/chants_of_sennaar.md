@@ -13,11 +13,11 @@
 | Scholar | 21.00% | ~113 |
 | A good beginning | 20.00% | ~107 |
 | The darkness | 20.00% | ~107 |
+| Half the way | 19.00% | ~102 |
 | One last step | 19.00% | ~102 |
 | I did it | 18.00% | ~96 |
 | Peace walker | 18.00% | ~96 |
 | Cable guy | 18.00% | ~96 |
-| Half the way | 18.00% | ~96 |
 | In this together | 17.00% | ~91 |
 | Champollion | 17.00% | ~91 |
 | Feels like springtime | 16.00% | ~86 |

@@ -10,30 +10,30 @@ Number of Ratings: 45  (23.09.2022)
 | Gotta Ca... Must Collect All of Them | 2.00% | ~29 |
 | How Romantic! | 2.00% | ~29 |
 | The Cost of Heroism | 2.00% | ~29 |
+| Cutthroat Competitors | 2.00% | ~29 |
 | Passing Shadow | 1.00% | ~15 |
 | This Too Shall Pass | 1.00% | ~15 |
-| Cutthroat Competitors | 1.00% | ~15 |
 | Daybreak | 1.00% | ~15 |
-| War Endured | 0.80% | ~12 |
-| Core Failure | 0.80% | ~12 |
-| Completing the Look | 0.70% | ~10 |
-| Let Me Get My Chisel | 0.60% | ~9 |
+| War Endured | 0.90% | ~13 |
+| Core Failure | 0.90% | ~13 |
+| Completing the Look | 0.80% | ~12 |
+| Let Me Get My Chisel | 0.70% | ~10 |
 | Who's Counting? | 0.50% | ~7 |
+| Pyrrhic Victory | 0.50% | ~7 |
 | Echoes Die | 0.50% | ~7 |
 | A Mythic Menagerie | 0.40% | ~6 |
 | Thematic Divergence | 0.40% | ~6 |
-| Pyrrhic Victory | 0.40% | ~6 |
+| A Story of Heroes | 0.40% | ~6 |
 | Empty the Caves | 0.30% | ~4 |
-| A Story of Heroes | 0.30% | ~4 |
 | Turncoat | 0.30% | ~4 |
 | No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
+| Chain Reaction | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Storied Past | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Plague Doctor | 0.10% | ~1 |
-| Chain Reaction | 0.10% | ~1 |
 | In Soil, In Smoke | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
 | Another Tale to Tell | 0.10% | ~1 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Thwack! | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,459 (Ranked 236)  
+Progressed: 1,460 (Ranked 236)  
 Completed: 6 (0.41%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -218,7 +218,7 @@ Completed: 6 (0.41%) (Ranked 210)
 | 2023-11-10 | 1,453 | 6 |
 | 2023-11-11 | 1,455 | 6 |
 | 2023-11-12 | 1,458 | 6 |
-| 2023-11-13 | 1,459 | 6 |
+| 2023-11-13 | 1,460 | 6 |
 ## Awards
 Max (Character Customization): 29  (Ranked 494)  
 Sum: 29 (Ranked 510)  

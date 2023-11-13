@@ -117,7 +117,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78240,
+  "EOS_Progressed": 78241,
   "EOS_Completed": 836,
   "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 13,
@@ -23232,6 +23232,11 @@
       "Time": "2023-11-13T04:06:08.1432232+00:00",
       "NumProgressed": 78240,
       "NumCompleted": 836
+    },
+    {
+      "Time": "2023-11-13T06:06:12.921352+00:00",
+      "NumProgressed": 78241,
+      "NumCompleted": 836
     }
   ],
   "TotalAchievements": 25,
@@ -23347,7 +23352,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16430
+      "UsersEstimate": 16431
     },
     {
       "ID": "Meaty",
@@ -23371,7 +23376,7 @@
       "Name": "Nice Try",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 12518
+      "UsersEstimate": 12519
     },
     {
       "ID": "Nothing Left to Say",
@@ -23387,7 +23392,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 8606
+      "UsersEstimate": 8607
     },
     {
       "ID": "Right On Target",
@@ -23442,7 +23447,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78240,
+      "Progressed": 78241,
       "Completed": 836
     }
   ],
@@ -23450,8 +23455,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:05:48.234902+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:06:12.9213516+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.731419+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:58:34.5500463+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:05:48.2350679+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:59:01.5417208+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:06:12.9215054+00:00"
 }

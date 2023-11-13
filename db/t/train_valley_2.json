@@ -3099,10 +3099,16 @@
       "Rating": 4.44,
       "NumberOfAwards": 1758,
       "NumberOfAwardsMax": 877
+    },
+    {
+      "Time": "2023-11-13T05:58:53.303897+00:00",
+      "Rating": 4.44,
+      "NumberOfAwards": 1759,
+      "NumberOfAwardsMax": 877
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1758,
+  "NumberOfAwards": 1759,
   "NumberOfAwardsMax": 877,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -3152,7 +3158,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 59
+      "Count": 60
     },
     {
       "Text": "This game has Challenging Combat",
@@ -3173,9 +3179,9 @@
       "Count": 46
     }
   ],
-  "EOS_Progressed": 415621,
+  "EOS_Progressed": 415622,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 2003,
+  "EOS_NewPlayers": 1998,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -18058,6 +18064,11 @@
       "Time": "2023-11-13T05:06:20.9444749+00:00",
       "NumProgressed": 415621,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2023-11-13T06:06:52.6164733+00:00",
+      "NumProgressed": 415622,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 89,
@@ -18173,7 +18184,7 @@
       "Name": "Close call!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 124686
+      "UsersEstimate": 124687
     },
     {
       "ID": "AchievementCommonCause",
@@ -18181,7 +18192,7 @@
       "Name": "Common cause",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 108061
+      "UsersEstimate": 108062
     },
     {
       "ID": "AchievementCriticalCare",
@@ -18189,7 +18200,7 @@
       "Name": "Critical care",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 108061
+      "UsersEstimate": 108062
     },
     {
       "ID": "AchievementDealmaker",
@@ -18197,7 +18208,7 @@
       "Name": "Dealmaker",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 303403
+      "UsersEstimate": 303404
     },
     {
       "ID": "AchievementDigitalAge_NAME",
@@ -18237,7 +18248,7 @@
       "Name": "Forgot something",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 145467
+      "UsersEstimate": 145468
     },
     {
       "ID": "AchievementForgotten",
@@ -18421,7 +18432,7 @@
       "Name": "Missed it!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29093
+      "UsersEstimate": 29094
     },
     {
       "ID": "AchievementMultilevelRoad",
@@ -18445,7 +18456,7 @@
       "Name": "Non-Stop",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 187029
+      "UsersEstimate": 187030
     },
     {
       "ID": "AchievementOneWay",
@@ -18549,7 +18560,7 @@
       "Name": "Steam Age",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 66499
+      "UsersEstimate": 66500
     },
     {
       "ID": "AchievementTheHare",
@@ -18780,21 +18791,21 @@
     {
       "ID": "55bbbe2",
       "IsBase": false,
-      "Progressed": 414962,
+      "Progressed": 414963,
       "Completed": 10
     },
     {
       "ID": "76o014g",
       "IsBase": true,
-      "Progressed": 415621,
+      "Progressed": 415622,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:17:19.3517458+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.6015572+00:00",
-  "LastChanged": "2023-11-13T02:58:31.8443505+00:00",
-  "LastChanged_Achievements": "2023-11-13T05:06:20.9444744+00:00",
+  "LastChanged": "2023-11-13T05:58:53.3038968+00:00",
+  "LastChanged_Achievements": "2023-11-13T06:06:52.6164723+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:20.3507002+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:58:27.7954583+00:00",
-  "LastUpdate_Achievements": "2023-11-13T05:06:20.9446769+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:58:53.3038974+00:00",
+  "LastUpdate_Achievements": "2023-11-13T06:06:52.6166735+00:00"
 }
