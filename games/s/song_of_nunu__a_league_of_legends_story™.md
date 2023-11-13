@@ -7,8 +7,8 @@
 | Feels Familiar | 77.00% | ~523 |
 | I Broke It | 72.00% | ~489 |
 | Better On Ice | 70.00% | ~475 |
+| Blue Dreams | 69.00% | ~469 |
 | Notai Notes | 69.00% | ~469 |
-| Blue Dreams | 68.00% | ~462 |
 | He's Famous! | 68.00% | ~462 |
 | Krugmazing | 66.00% | ~448 |
 | Cutie Poro | 66.00% | ~448 |
@@ -26,7 +26,7 @@
 | True Legends | 41.00% | ~278 |
 | The Finisher | 41.00% | ~278 |
 | So Close | 39.00% | ~265 |
-| You Get Used To It | 38.00% | ~258 |
+| You Get Used To It | 39.00% | ~265 |
 | Bullseye | 36.00% | ~244 |
 | Family | 35.00% | ~238 |
 | Biggest Snowball Ever | 35.00% | ~238 |
@@ -44,12 +44,12 @@
 | It Was Him | 8.00% | ~54 |
 | Handy Yeti | 7.00% | ~48 |
 | The Pied Piper Of Freljord | 6.00% | ~41 |
-| Braum's Poro Ranch | 3.00% | ~20 |
+| Braum's Poro Ranch | 4.00% | ~27 |
 | Sneaky Notai | 2.00% | ~14 |
 | Rock Star | 2.00% | ~14 |
 | We Are Speed | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679 (Ranked 276)  
+Progressed: 679 (Ranked 277)  
 Completed: 5 (0.74%) (Ranked 175)  
 ## EOS Players History
 | Date | Progressed | Completed |

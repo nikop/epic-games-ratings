@@ -34,7 +34,7 @@
 | Toilets Tormentor | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23 (Ranked 528)  
+Progressed: 23 (Ranked 529)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |

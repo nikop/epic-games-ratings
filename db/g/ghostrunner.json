@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1389,9 +1389,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22521,
+  "EOS_Progressed": 22522,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -23964,6 +23964,11 @@
       "Time": "2023-11-13T19:08:21.9602734+00:00",
       "NumProgressed": 22521,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-11-13T20:07:41.6553548+00:00",
+      "NumProgressed": 22522,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 45,
@@ -24007,7 +24012,7 @@
       "Name": "Can\u0027t Run Can\u0027t Hide",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "DeadInTheAir",
@@ -24039,7 +24044,7 @@
       "Name": "Finish line",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 5855
+      "UsersEstimate": 5856
     },
     {
       "ID": "GRProjectComplete",
@@ -24063,7 +24068,7 @@
       "Name": "Homerunner",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 10134
+      "UsersEstimate": 10135
     },
     {
       "ID": "ICallItLuck",
@@ -24111,7 +24116,7 @@
       "Name": "Longrunner",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 17116
+      "UsersEstimate": 17117
     },
     {
       "ID": "MoreThanHuman",
@@ -24159,7 +24164,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 9909
+      "UsersEstimate": 9910
     },
     {
       "ID": "Perfection",
@@ -24191,7 +24196,7 @@
       "Name": "R is for Running",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "RunningOutOfBreath",
@@ -24199,7 +24204,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12161
+      "UsersEstimate": 12162
     },
     {
       "ID": "RunningWild",
@@ -24295,7 +24300,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 11936
+      "UsersEstimate": 11937
     },
     {
       "ID": "WaveOfMutilation",
@@ -24311,7 +24316,7 @@
       "Name": "Where are my Keys?",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 9008
+      "UsersEstimate": 9009
     },
     {
       "ID": "WhereHeStood",
@@ -24327,28 +24332,28 @@
       "Name": "Why not both",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 6756
+      "UsersEstimate": 6757
     }
   ],
   "AchievementSets": [
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22521,
+      "Progressed": 22522,
       "Completed": 55
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22521,
+      "Progressed": 22522,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-13T14:59:57.4639975+00:00",
-  "LastChanged_Achievements": "2023-11-13T19:08:21.9602727+00:00",
+  "LastChanged_Achievements": "2023-11-13T20:07:41.6553545+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:17.4968471+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:00:44.5147608+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:08:21.9604821+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:59:45.5576315+00:00",
+  "LastUpdate_Achievements": "2023-11-13T20:07:41.6555032+00:00"
 }

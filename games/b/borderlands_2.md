@@ -1,11 +1,11 @@
 # Borderlands 2
 [Store](https://store.epicgames.com/en-US/p/borderlands-2)  
 [View Rawdata](../../db/b/borderlands_2.json)  
-Rating: 4.76 (Ranked 124)  
+Rating: 4.76 (Ranked 125)  
 Number of Ratings: 13,386  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 15,845  (Ranked 24)  
-Sum: 39,699 (Ranked 35)  
+Sum: 39,703 (Ranked 35)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): -11
 | This game is Extremely Fun | 2,648 |
 | This game has Amazing Storytelling | 2,628 |
 | This game is Highly Recommended | 2,612 |
-| This game has Unique Visuals | 2,542 |
+| This game has Unique Visuals | 2,546 |
 | This game has Quickly Understood Controls | 2,520 |
 | This game is Relaxing | 2,464 |
 | This game has Obsessive Gameplay | 1,707 |
@@ -338,4 +338,4 @@ Diff (max vs sum): -11
 | 2023-11-10 | 4.76 | - | 15,814 | 39,612 |
 | 2023-11-11 | 4.76 | - | 15,825 | 39,648 |
 | 2023-11-12 | 4.76 | - | 15,836 | 39,676 |
-| 2023-11-13 | 4.76 | - | 15,845 | 39,699 |
+| 2023-11-13 | 4.76 | - | 15,845 | 39,703 |

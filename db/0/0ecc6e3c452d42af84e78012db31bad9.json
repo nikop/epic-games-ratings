@@ -4,7 +4,7 @@
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 172,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3971,
+  "EOS_Progressed": 3972,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -9699,6 +9699,11 @@
       "Time": "2023-11-13T19:08:20.4241671+00:00",
       "NumProgressed": 3971,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-13T20:07:40.3816027+00:00",
+      "NumProgressed": 3972,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -9758,7 +9763,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "ach_bomb",
@@ -9806,7 +9811,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "ach_magic_wand",
@@ -9814,7 +9819,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "ach_no_boosters",
@@ -9837,14 +9842,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3971,
+      "Progressed": 3972,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-13T19:08:20.4241664+00:00",
+  "LastChanged_Achievements": "2023-11-13T20:07:40.3816024+00:00",
   "LastUpdate_AppInfo": "2023-11-10T19:57:16.0222462+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:59:31.7528386+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:08:20.4242545+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:58:46.7555649+00:00",
+  "LastUpdate_Achievements": "2023-11-13T20:07:40.3816596+00:00"
 }

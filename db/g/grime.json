@@ -1453,9 +1453,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158106,
+  "EOS_Progressed": 158113,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1171,
+  "EOS_NewPlayers": 1168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15523,6 +15523,11 @@
       "Time": "2023-11-13T19:04:52.4122647+00:00",
       "NumProgressed": 158106,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T20:04:11.5957582+00:00",
+      "NumProgressed": 158113,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15582,7 +15587,7 @@
       "Name": "The Hunt",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6324
+      "UsersEstimate": 6325
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -15598,7 +15603,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6324
+      "UsersEstimate": 6325
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -15750,7 +15755,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7905
+      "UsersEstimate": 7906
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -15901,21 +15906,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157689,
+      "Progressed": 157696,
       "Completed": 1199
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158106,
+      "Progressed": 158113,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-13T18:00:16.0469446+00:00",
-  "LastChanged_Achievements": "2023-11-13T19:04:52.4122641+00:00",
+  "LastChanged_Achievements": "2023-11-13T20:04:11.5957578+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:00:18.7976079+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:04:52.4124115+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:59:25.5660853+00:00",
+  "LastUpdate_Achievements": "2023-11-13T20:04:11.5958387+00:00"
 }

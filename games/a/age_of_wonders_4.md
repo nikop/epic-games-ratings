@@ -22,10 +22,11 @@ Rating: 4.61 (Ranked 384)
 | Chaos Surge | 0.60% | ~32 |
 | Spoils of War | 0.60% | ~32 |
 | Valley of Wonders | 0.50% | ~27 |
+| Digging for Treasure | 0.50% | ~27 |
 | Intimidation Tactics | 0.50% | ~27 |
 | Sehiran Oasis | 0.50% | ~27 |
 | Dawn of the Dread | 0.50% | ~27 |
-| Digging for Treasure | 0.40% | ~22 |
+| My Final Form | 0.40% | ~22 |
 | Impenetrable Fortress | 0.40% | ~22 |
 | Here be Dragons | 0.40% | ~22 |
 | Tipping the Scales | 0.40% | ~22 |
@@ -37,7 +38,6 @@ Rating: 4.61 (Ranked 384)
 | The Creator | 0.30% | ~16 |
 | Enchanted Archipelago | 0.30% | ~16 |
 | Preparation Is Everything | 0.30% | ~16 |
-| My Final Form | 0.30% | ~16 |
 | I've Got Everything I Need Right Here | 0.20% | ~11 |
 | Return of the Wizard King | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |

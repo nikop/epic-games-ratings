@@ -591,9 +591,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3546,
+  "EOS_Progressed": 3547,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5016,6 +5016,11 @@
       "Time": "2023-11-13T19:03:19.0650023+00:00",
       "NumProgressed": 3546,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T20:03:02.9164953+00:00",
+      "NumProgressed": 3547,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5060,7 +5065,7 @@
       "Name": "MVP",
       "Percentage": 31,
       "XP": 90,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "achievement_14",
@@ -5124,7 +5129,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2021
+      "UsersEstimate": 2022
     },
     {
       "ID": "achievement_21",
@@ -5164,7 +5169,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "achievement_7",
@@ -5188,14 +5193,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3546,
+      "Progressed": 3547,
       "Completed": 0
     }
   ],
@@ -5203,8 +5208,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-13T15:58:51.2109706+00:00",
-  "LastChanged_Achievements": "2023-11-13T19:03:19.0650014+00:00",
+  "LastChanged_Achievements": "2023-11-13T20:03:02.9164951+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:59:29.1943422+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:03:19.0650586+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:58:44.8110653+00:00",
+  "LastUpdate_Achievements": "2023-11-13T20:03:02.9165359+00:00"
 }

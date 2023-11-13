@@ -1482,9 +1482,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 23499,
+  "EOS_Progressed": 23500,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -9542,6 +9542,11 @@
       "Time": "2023-11-13T17:09:15.3311452+00:00",
       "NumProgressed": 23499,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2023-11-13T20:08:26.1565781+00:00",
+      "NumProgressed": 23500,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -9577,7 +9582,7 @@
       "Name": "Full House",
       "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AllRunes",
@@ -9593,7 +9598,7 @@
       "Name": "Erebus Purified",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "AllSkills",
@@ -9609,7 +9614,7 @@
       "Name": "For Justice",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "BossBridgeDefeated",
@@ -9753,7 +9758,7 @@
       "Name": "It Was Just an Estimate",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "FifteenLivesEasy",
@@ -9801,7 +9806,7 @@
       "Name": "Good Boy!",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "PrequelReveal",
@@ -9841,7 +9846,7 @@
       "Name": "Had to Do It",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "UnlockHighMastery",
@@ -9864,21 +9869,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 23499,
+      "Progressed": 23500,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 2429,
+      "Progressed": 2430,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2023-11-06T15:02:21.8983987+00:00",
-  "LastChanged_Achievements": "2023-11-13T19:08:52.5528759+00:00",
+  "LastChanged_Achievements": "2023-11-13T20:08:26.1565779+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:18.340476+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:00:40.9520467+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:08:52.5529715+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:59:42.8325891+00:00",
+  "LastUpdate_Achievements": "2023-11-13T20:08:26.1566347+00:00"
 }

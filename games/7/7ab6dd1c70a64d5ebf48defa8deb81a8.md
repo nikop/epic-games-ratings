@@ -27,9 +27,9 @@
 | Flawless Victory | 8.00% | ~15 |
 | Calm before the Storm | 6.00% | ~11 |
 | To Battle | 6.00% | ~11 |
-| Godslayer | 5.00% | ~9 |
+| Godslayer | 6.00% | ~11 |
 | A Queen's Tale | 4.00% | ~7 |
-| Clear Sight | 2.00% | ~4 |
+| Clear Sight | 3.00% | ~6 |
 | Shatterer | 2.00% | ~4 |
 | Slayer | 2.00% | ~4 |
 | Fine Feathers Make Fine Birds | 2.00% | ~4 |

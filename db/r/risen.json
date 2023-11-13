@@ -597,9 +597,9 @@
       "ID": "id_60",
       "SetID": "bk9jib6",
       "Name": "Adventurer",
-      "Percentage": 73,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "id_61",
@@ -662,8 +662,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2023-11-10T23:58:50.2758771+00:00",
-  "LastChanged_Achievements": "2023-11-13T19:09:04.9223541+00:00",
+  "LastChanged_Achievements": "2023-11-13T20:08:36.0883268+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:24.9853517+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:00:43.7793554+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:09:04.9224123+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:59:45.1864512+00:00",
+  "LastUpdate_Achievements": "2023-11-13T20:08:36.0883571+00:00"
 }

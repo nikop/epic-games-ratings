@@ -20,8 +20,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Pillow Investments | 0.70% | ~164 |
 | Truly Blessed | 0.60% | ~141 |
 | Looks Familiar | 0.60% | ~141 |
-| For Justice | 0.50% | ~117 |
-| Good Boy! | 0.50% | ~117 |
+| For Justice | 0.50% | ~118 |
+| Good Boy! | 0.50% | ~118 |
 | For Survival | 0.40% | ~94 |
 | Jack of all Trades | 0.40% | ~94 |
 | For Wrath | 0.30% | ~70 |
@@ -37,16 +37,16 @@ Number of Ratings: 1,331  (23.09.2022)
 | Good Practice | 0.20% | ~47 |
 | Maybe Wax Doesn't Melt | 0.20% | ~47 |
 | A Glimpse of the Future | 0.20% | ~47 |
-| Full House | 0.10% | ~23 |
-| Erebus Purified | 0.10% | ~23 |
-| It Was Just an Estimate | 0.10% | ~23 |
-| Had to Do It | 0.10% | ~23 |
+| Full House | 0.10% | ~24 |
+| Erebus Purified | 0.10% | ~24 |
+| It Was Just an Estimate | 0.10% | ~24 |
+| Had to Do It | 0.10% | ~24 |
 | Rogue's Legacy | 0.00% | ~0 |
 | Thanatophobia | 0.00% | ~0 |
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,499 (Ranked 127)  
+Progressed: 23,500 (Ranked 127)  
 Completed: 35 (0.15%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -251,7 +251,7 @@ Completed: 35 (0.15%) (Ranked 263)
 | 2023-11-10 | 23,480 | 35 |
 | 2023-11-11 | 23,484 | 35 |
 | 2023-11-12 | 23,498 | 35 |
-| 2023-11-13 | 23,499 | 35 |
+| 2023-11-13 | 23,500 | 35 |
 ## Awards
 Max (Extremely Fun): 222  (Ranked 276)  
 Sum: 1,701 (Ranked 221)  

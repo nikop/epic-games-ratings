@@ -6,19 +6,19 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 97.00% | ~50,397 |
-| ''I don't like you either!'' | 79.00% | ~41,045 |
-| ''Impressive, most impressive'' | 72.00% | ~37,408 |
-| ''You think you're some kind of Jedi?'' | 72.00% | ~37,408 |
-| The Phantom Menace | 59.00% | ~30,654 |
-| ''Aggressive Negotiations'' | 59.00% | ~30,654 |
+| ''You guys got yourself a ship!'' | 97.00% | ~50,398 |
+| ''I don't like you either!'' | 79.00% | ~41,046 |
+| ''Impressive, most impressive'' | 72.00% | ~37,409 |
+| ''You think you're some kind of Jedi?'' | 72.00% | ~37,409 |
+| The Phantom Menace | 59.00% | ~30,655 |
+| ''Aggressive Negotiations'' | 59.00% | ~30,655 |
 | ''I can fly anything'' | 57.00% | ~29,615 |
-| ''And who gave you permission...?'' | 54.00% | ~28,056 |
+| ''And who gave you permission...?'' | 54.00% | ~28,057 |
 | A New Hope | 48.00% | ~24,939 |
-| Attack of the Clones | 47.00% | ~24,419 |
+| Attack of the Clones | 47.00% | ~24,420 |
 | Revenge of the Sith | 41.00% | ~21,302 |
-| The Empire Strikes Back | 38.00% | ~19,743 |
-| ''A fine addition to my collection'' | 38.00% | ~19,743 |
+| The Empire Strikes Back | 38.00% | ~19,744 |
+| ''A fine addition to my collection'' | 38.00% | ~19,744 |
 | Return of the Jedi | 32.00% | ~16,626 |
 | The Force Awakens | 27.00% | ~14,028 |
 | The Last Jedi | 23.00% | ~11,950 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~520 |
 | ''I've never seen a real one!'' | 1.00% | ~520 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 51,956 (Ranked 109)  
+Progressed: 51,957 (Ranked 109)  
 Completed: 247 (0.48%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 247 (0.48%) (Ranked 200)
 | 2023-11-10 | 51,939 | 247 |
 | 2023-11-11 | 51,946 | 247 |
 | 2023-11-12 | 51,952 | 247 |
-| 2023-11-13 | 51,956 | 247 |
+| 2023-11-13 | 51,957 | 247 |
 ## Awards
 Max (Great Boss Battles): 2,437  (Ranked 104)  
 Sum: 6,690 (Ranked 123)  

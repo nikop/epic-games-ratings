@@ -44,7 +44,7 @@ Rating: 4.55 (Ranked 504)
 | Cloud Services | 0.30% | ~55 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 18,496 (Ranked 139)  
-Completed: 30 (0.16%) (Ranked 260)  
+Completed: 30 (0.16%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -249,9 +249,9 @@ Completed: 30 (0.16%) (Ranked 260)
 | 2023-11-12 | 18,526 | 31 |
 | 2023-11-13 | 18,507 | 30 |
 ## Awards
-Max (Quickly Understood Controls): 92  (Ranked 370)  
+Max (Quickly Understood Controls): 92  (Ranked 371)  
 Sum: 676 (Ranked 299)  
-Diff (max vs sum): 71  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 92 |

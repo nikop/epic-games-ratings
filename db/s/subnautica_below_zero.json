@@ -2,7 +2,7 @@
   "ID": "foxglove",
   "Name": "Subnautica Below Zero",
   "ProductSlug": "subnautica-below-zero",
-  "Ranking_Rating": 115,
+  "Ranking_Rating": 116,
   "Ranking_Popularity": 315,
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 741,
@@ -1651,10 +1651,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 1159,
       "NumberOfAwardsMax": 151
+    },
+    {
+      "Time": "2023-11-13T20:02:51.4193631+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 1160,
+      "NumberOfAwardsMax": 151
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1159,
+  "NumberOfAwards": 1160,
   "NumberOfAwardsMax": 151,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1692,7 +1698,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 136
+      "Count": 137
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -1730,8 +1736,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:53.9147295+00:00",
-  "LastChanged": "2023-11-12T19:02:47.9127585+00:00",
+  "LastChanged": "2023-11-13T20:02:51.4193629+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:31.9939678+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:03:05.7417299+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:04:30.3032886+00:00"
+  "LastUpdate_Ratings": "2023-11-13T20:02:51.4193633+00:00",
+  "LastUpdate_Achievements": "2023-11-13T20:03:53.6585993+00:00"
 }

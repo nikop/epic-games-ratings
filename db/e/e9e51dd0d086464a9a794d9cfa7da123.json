@@ -4,7 +4,7 @@
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewPlayers": 360,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -291,9 +291,9 @@
       "ID": "EI",
       "SetID": "2621k8c",
       "Name": "Exceptional intelligence",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Empathy",
@@ -699,9 +699,9 @@
       "ID": "Richer",
       "SetID": "2621k8c",
       "Name": "Richer",
-      "Percentage": 22,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "SAITAB",
@@ -937,8 +937,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2023-11-13T19:09:52.3207084+00:00",
+  "LastChanged_Achievements": "2023-11-13T20:09:15.5554011+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:23.701877+00:00",
   "LastUpdate_Ratings": "2023-11-13T19:01:32.8629893+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:09:52.3208489+00:00"
+  "LastUpdate_Achievements": "2023-11-13T20:09:15.5554813+00:00"
 }

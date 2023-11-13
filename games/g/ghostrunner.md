@@ -6,27 +6,27 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,116 |
+| Longrunner | 76.00% | ~17,117 |
 | Sword Runner | 61.00% | ~13,738 |
-| Running out of breath | 54.00% | ~12,161 |
-| Wallrunner | 53.00% | ~11,936 |
-| Homerunner | 45.00% | ~10,134 |
-| Out of order | 44.00% | ~9,909 |
+| Running out of breath | 54.00% | ~12,162 |
+| Wallrunner | 53.00% | ~11,937 |
+| Homerunner | 45.00% | ~10,135 |
+| Out of order | 44.00% | ~9,910 |
 | I call it luck | 43.00% | ~9,684 |
-| Where are my Keys? | 40.00% | ~9,008 |
+| Where are my Keys? | 40.00% | ~9,009 |
 | Back to hell | 37.00% | ~8,333 |
 | Perfection | 32.00% | ~7,207 |
-| Why not both | 30.00% | ~6,756 |
+| Why not both | 30.00% | ~6,757 |
 | Sword to a gunfight | 29.00% | ~6,531 |
 | Upgrades not mandatory | 29.00% | ~6,531 |
 | Artificial selection | 28.00% | ~6,306 |
 | Control freak | 27.00% | ~6,081 |
 | Running Wild | 27.00% | ~6,081 |
-| Finish line | 26.00% | ~5,855 |
+| Finish line | 26.00% | ~5,856 |
 | Unstoppable force | 22.00% | ~4,955 |
 | Wave of mutilation | 22.00% | ~4,955 |
-| Can't Run Can't Hide | 16.00% | ~3,603 |
-| R is for Running | 16.00% | ~3,603 |
+| Can't Run Can't Hide | 16.00% | ~3,604 |
+| R is for Running | 16.00% | ~3,604 |
 | Dead in the air | 15.00% | ~3,378 |
 | Improvise, adapt, overrun | 12.00% | ~2,703 |
 | Pre-empative strike | 12.00% | ~2,703 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~90 |
 | Up Close And Personal | 0.40% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,521 (Ranked 128)  
+Progressed: 22,522 (Ranked 128)  
 Completed: 84 (0.37%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 84 (0.37%) (Ranked 218)
 | 2023-11-10 | 22,307 | 83 |
 | 2023-11-11 | 22,383 | 84 |
 | 2023-11-12 | 22,468 | 84 |
-| 2023-11-13 | 22,521 | 84 |
+| 2023-11-13 | 22,522 | 84 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 205)  
 Sum: 750 (Ranked 285)  

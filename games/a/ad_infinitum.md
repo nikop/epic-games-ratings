@@ -22,8 +22,8 @@
 | Jigsaw | 9.00% | ~6 |
 | Lost | 9.00% | ~6 |
 | Peace | 9.00% | ~6 |
+| Art critic | 7.00% | ~5 |
 | Awaiting orders | 7.00% | ~5 |
-| Art critic | 6.00% | ~4 |
 | An act of compassion | 4.00% | ~3 |
 | An act of mercy | 4.00% | ~3 |
 | Ad Infinitum | 3.00% | ~2 |

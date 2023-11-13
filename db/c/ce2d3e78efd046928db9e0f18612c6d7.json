@@ -2,10 +2,10 @@
   "ID": "ce2d3e78efd046928db9e0f18612c6d7",
   "Name": "Hanoi Puzzles - Solid Match",
   "ProductSlug": "hanoi-puzzles-solid-match-6a9e0c",
-  "Ranking_EOS_Progress": 528,
-  "Ranking_EOS_Completed": 46,
+  "Ranking_EOS_Progress": 525,
+  "Ranking_EOS_Completed": 47,
   "Ranking_EOS_NewPlayers": 237,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-11-11T18:00:00+00:00",
     "PcReleaseDate": "2020-12-16T14:30:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 23,
+  "EOS_Progressed": 24,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 8.7,
+  "EOS_Completed_Percentage": 8.33,
   "EosHistory": [
     {
       "Time": "2023-11-02T21:11:02.0754149+00:00",
@@ -124,6 +124,11 @@
       "Time": "2023-11-13T18:09:48.6201382+00:00",
       "NumProgressed": 23,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-13T20:09:08.9454381+00:00",
+      "NumProgressed": 24,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-02T15:09:10.4117013+00:00",
@@ -134,15 +139,15 @@
       "ID": "01_ACHIEVEMENT_Level_01",
       "SetID": "6opd2eg",
       "Name": "First tower built",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "02_ACHIEVEMENT_Level_10",
       "SetID": "6opd2eg",
       "Name": "Hanoi beginner",
-      "Percentage": 70,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -150,7 +155,7 @@
       "ID": "03_ACHIEVEMENT_Level_20",
       "SetID": "6opd2eg",
       "Name": "A new challenge",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 20,
       "UsersEstimate": 10
     },
@@ -158,7 +163,7 @@
       "ID": "04_ACHIEVEMENT_Level_30",
       "SetID": "6opd2eg",
       "Name": "I see through deception",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -166,7 +171,7 @@
       "ID": "05_ACHIEVEMENT_Level_40",
       "SetID": "6opd2eg",
       "Name": "Ready for the next Challenge",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 40,
       "UsersEstimate": 8
     },
@@ -174,7 +179,7 @@
       "ID": "06_ACHIEVEMENT_Half_Complete",
       "SetID": "6opd2eg",
       "Name": "Complete Half of the game",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 75,
       "UsersEstimate": 9
     },
@@ -182,7 +187,7 @@
       "ID": "07_ACHIEVEMENT_Half_Master",
       "SetID": "6opd2eg",
       "Name": "Master Half of the game",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 125,
       "UsersEstimate": 5
     },
@@ -190,7 +195,7 @@
       "ID": "08_ACHIEVEMENT_Game_Complete",
       "SetID": "6opd2eg",
       "Name": "Finish the game",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 150,
       "UsersEstimate": 8
     },
@@ -206,7 +211,7 @@
       "ID": "10_ACHIEVEMENT_Shortcut_Beginner",
       "SetID": "6opd2eg",
       "Name": "I Found a Shortcut!",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 145,
       "UsersEstimate": 6
     },
@@ -214,7 +219,7 @@
       "ID": "11_ACHIEVEMENT_Shortcut_Master",
       "SetID": "6opd2eg",
       "Name": "Shortcut Master",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 200,
       "UsersEstimate": 2
     }
@@ -223,14 +228,14 @@
     {
       "ID": "6opd2eg",
       "IsBase": true,
-      "Progressed": 23,
+      "Progressed": 24,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-12T03:57:01.5427202+00:00",
   "FirstSeenAchievements": "2023-11-02T13:13:39.3134683+00:00",
-  "LastChanged_Achievements": "2023-11-13T19:09:44.7986329+00:00",
+  "LastChanged_Achievements": "2023-11-13T20:09:08.9454377+00:00",
   "LastUpdate_AppInfo": "2023-11-07T05:57:07.5089556+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:58:25.1739885+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:09:44.798645+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:57:54.5181379+00:00",
+  "LastUpdate_Achievements": "2023-11-13T20:09:08.9454479+00:00"
 }

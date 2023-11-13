@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewPlayers": 317,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -937,9 +937,9 @@
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
       "SetID": "aniflfk",
       "Name": "Design Engineer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 66
+      "UsersEstimate": 68
     },
     {
       "ID": "BRING_MARY",
@@ -969,9 +969,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1096,8 +1096,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-13T19:06:32.5478449+00:00",
+  "LastChanged_Achievements": "2023-11-13T20:05:35.0988731+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:05.3146397+00:00",
-  "LastUpdate_Ratings": "2023-11-13T19:02:48.0614003+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:06:32.5478961+00:00"
+  "LastUpdate_Ratings": "2023-11-13T20:02:36.5337326+00:00",
+  "LastUpdate_Achievements": "2023-11-13T20:05:35.0988879+00:00"
 }

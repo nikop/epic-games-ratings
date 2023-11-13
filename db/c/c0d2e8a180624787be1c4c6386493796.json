@@ -395,9 +395,9 @@
       "ID": "KR4_ACHIEVEMENT_ELITEHARASSERS",
       "SetID": "caeik3h",
       "Name": "Ultra Instinct",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "KR4_ACHIEVEMENT_FARMER_JOE",
@@ -882,8 +882,8 @@
   ],
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged_Achievements": "2023-11-13T19:05:38.204008+00:00",
+  "LastChanged_Achievements": "2023-11-13T20:04:50.0400001+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:36.9496444+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:58:07.922786+00:00",
-  "LastUpdate_Achievements": "2023-11-13T19:05:38.2041065+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:57:41.5604464+00:00",
+  "LastUpdate_Achievements": "2023-11-13T20:04:50.0400715+00:00"
 }
