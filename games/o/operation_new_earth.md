@@ -5,10 +5,10 @@ Rating: 3.28 (Ranked 1,038)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's Good to have Allies | 28.00% | ~508 |
+| It's Good to have Allies | 28.00% | ~509 |
 | Defenses Online | 25.00% | ~454 |
-| Facility Online | 21.00% | ~381 |
-| Corporal | 15.00% | ~272 |
+| Facility Online | 21.00% | ~382 |
+| Corporal | 15.00% | ~273 |
 | Sergeant | 12.00% | ~218 |
 | Covert Operative | 12.00% | ~218 |
 | Lieutenant | 10.00% | ~182 |
@@ -16,7 +16,7 @@ Rating: 3.28 (Ranked 1,038)
 | Stocking Up | 10.00% | ~182 |
 | On Target | 10.00% | ~182 |
 | Infantry Reporting | 10.00% | ~182 |
-| Keeping Busy | 9.00% | ~163 |
+| Keeping Busy | 9.00% | ~164 |
 | Fighting for Survival | 8.00% | ~145 |
 | Silver Competitor | 8.00% | ~145 |
 | Captain | 8.00% | ~145 |
@@ -30,8 +30,8 @@ Rating: 3.28 (Ranked 1,038)
 | Major | 5.00% | ~91 |
 | Gold Achiever | 4.00% | ~73 |
 | Resourceful | 4.00% | ~73 |
-| Colonel | 3.00% | ~54 |
-| Control the Skies | 3.00% | ~54 |
+| Colonel | 3.00% | ~55 |
+| Control the Skies | 3.00% | ~55 |
 | Advanced Warfare | 2.00% | ~36 |
 | General | 2.00% | ~36 |
 | Seek & Destroy | 2.00% | ~36 |
@@ -44,7 +44,7 @@ Rating: 3.28 (Ranked 1,038)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,816 (Ranked 224)  
+Progressed: 1,818 (Ranked 224)  
 Completed: 1 (0.06%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,6 +202,7 @@ Completed: 1 (0.06%) (Ranked 294)
 | 2023-11-10 | 1,797 | 1 |
 | 2023-11-11 | 1,808 | 1 |
 | 2023-11-12 | 1,816 | 1 |
+| 2023-11-13 | 1,818 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1469,9 +1469,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16436,
+  "EOS_Progressed": 16437,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8924,6 +8924,11 @@
       "Time": "2023-11-13T05:05:05.309211+00:00",
       "NumProgressed": 16436,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-13T10:05:38.51197+00:00",
+      "NumProgressed": 16437,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -9295,7 +9300,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -9310,13 +9315,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16436,
+      "Progressed": 16437,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4362,
+      "Progressed": 4363,
       "Completed": 29
     }
   ],
@@ -9324,8 +9329,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-12T16:02:53.4187845+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:04:46.9246631+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:05:38.511969+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:57.886898+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:02:38.4189021+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:04:46.9247537+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:02:58.1771925+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:05:38.5120587+00:00"
 }

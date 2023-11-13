@@ -7,33 +7,34 @@
 | Little ideas | 73.00% | ~22 |
 | Marc Allard | 73.00% | ~22 |
 | The Ship | 70.00% | ~21 |
-| Seeking the truth | 60.00% | ~18 |
-| An old friend | 57.00% | ~17 |
-| The Gala | 53.00% | ~16 |
-| A curious gathering | 53.00% | ~16 |
-| Little grey cells | 50.00% | ~15 |
-| Impossible is possible | 50.00% | ~15 |
-| The Missing Magdalene | 50.00% | ~15 |
-| Arthur Hastings | 50.00% | ~15 |
-| Everything matters | 43.00% | ~13 |
-| Order and method | 43.00% | ~13 |
-| An expert mediator | 40.00% | ~12 |
-| DI Hardwicke | 40.00% | ~12 |
-| Betty Allen | 33.00% | ~10 |
-| The Investigation Begins | 33.00% | ~10 |
-| An odd series of events | 27.00% | ~8 |
-| Ms. Camilla B. Culsham | 27.00% | ~8 |
-| Irene Court-Smyth | 27.00% | ~8 |
-| The Apartment | 27.00% | ~8 |
-| A rude awakening | 23.00% | ~7 |
-| Nathaniel Dryden | 23.00% | ~7 |
-| Well-acquainted | 20.00% | ~6 |
-| Truth from within | 20.00% | ~6 |
-| Anastasia Babanin | 20.00% | ~6 |
-| Zakariya Demir | 20.00% | ~6 |
-| Bartholomew | 20.00% | ~6 |
-| The Scheme | 20.00% | ~6 |
-| A curious phrase | 17.00% | ~5 |
+| Seeking the truth | 63.00% | ~19 |
+| An old friend | 60.00% | ~18 |
+| The Gala | 57.00% | ~17 |
+| A curious gathering | 57.00% | ~17 |
+| Little grey cells | 53.00% | ~16 |
+| Impossible is possible | 53.00% | ~16 |
+| The Missing Magdalene | 53.00% | ~16 |
+| Arthur Hastings | 53.00% | ~16 |
+| Everything matters | 47.00% | ~14 |
+| Order and method | 47.00% | ~14 |
+| An expert mediator | 43.00% | ~13 |
+| DI Hardwicke | 43.00% | ~13 |
+| Betty Allen | 37.00% | ~11 |
+| The Investigation Begins | 37.00% | ~11 |
+| An odd series of events | 30.00% | ~9 |
+| Ms. Camilla B. Culsham | 30.00% | ~9 |
+| Irene Court-Smyth | 30.00% | ~9 |
+| The Apartment | 30.00% | ~9 |
+| A rude awakening | 27.00% | ~8 |
+| Nathaniel Dryden | 27.00% | ~8 |
+| Well-acquainted | 23.00% | ~7 |
+| Truth from within | 23.00% | ~7 |
+| Anastasia Babanin | 23.00% | ~7 |
+| Zakariya Demir | 23.00% | ~7 |
+| Bartholomew | 23.00% | ~7 |
+| The Scheme | 23.00% | ~7 |
+| A curious phrase | 20.00% | ~6 |
+| The Suspects | 17.00% | ~5 |
 | Well-travelled | 13.00% | ~4 |
 | A peculiar fellow | 13.00% | ~4 |
 | Evelyn Lakshmi Warbeck | 13.00% | ~4 |
@@ -41,7 +42,6 @@
 | Horace Mountjoy | 13.00% | ~4 |
 | Johan Kristiansen | 13.00% | ~4 |
 | Mortimer Ailsworth | 13.00% | ~4 |
-| The Suspects | 13.00% | ~4 |
 | The Secrets | 13.00% | ~4 |
 | The Investigation Starts Anew | 13.00% | ~4 |
 | The Denouement | 10.00% | ~3 |

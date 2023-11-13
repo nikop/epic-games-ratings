@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Big Day | 66.00% | ~446 |
-| You're the Expert! | 31.00% | ~209 |
+| The Big Day | 66.00% | ~447 |
+| You're the Expert! | 31.00% | ~210 |
 | Home Cook | 29.00% | ~196 |
 | So Clean You Can Eat Off the Floor | 18.00% | ~122 |
 | French Flair | 17.00% | ~115 |
@@ -24,11 +24,11 @@
 | The Bigger the Better | 0.40% | ~3 |
 | Codename: Arrabbiata | 0.30% | ~2 |
 | Teamwork | 0.10% | ~1 |
+| Kitchen Model | 0.10% | ~1 |
 | Say Cheese! | 0.00% | ~0 |
 | Baking Up a Storm | 0.00% | ~0 |
 | Stella d’Italia | 0.00% | ~0 |
 | Course of Cthulhu | 0.00% | ~0 |
-| Kitchen Model | 0.00% | ~0 |
 | Pyrotechnician | 0.00% | ~0 |
 | Sweet Roll | 0.00% | ~0 |
 | Rise to the Challenge | 0.00% | ~0 |
@@ -45,7 +45,7 @@
 | A Star is Born | 0.00% | ~0 |
 | Holy Cow! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675 (Ranked 276)  
+Progressed: 677 (Ranked 276)  
 Completed: 0 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 0 (0.00%) (Ranked 350)
 | 2023-11-10 | 669 | 0 |
 | 2023-11-11 | 670 | 0 |
 | 2023-11-12 | 673 | 0 |
-| 2023-11-13 | 675 | 0 |
+| 2023-11-13 | 677 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

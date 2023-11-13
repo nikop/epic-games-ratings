@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 67,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -850,10 +850,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 2193,
       "NumberOfAwardsMax": 290
+    },
+    {
+      "Time": "2023-11-13T09:57:16.2470187+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 2195,
+      "NumberOfAwardsMax": 290
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2193,
+  "NumberOfAwards": 2195,
   "NumberOfAwardsMax": 290,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -861,7 +867,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 249
+      "Count": 250
     },
     {
       "Text": "This game is Relaxing",
@@ -897,7 +903,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 213
+      "Count": 214
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -918,9 +924,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 227047,
+  "EOS_Progressed": 227050,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 495,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -23548,6 +23554,11 @@
       "Time": "2023-11-13T09:08:43.2150357+00:00",
       "NumProgressed": 227047,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-13T10:09:30.691265+00:00",
+      "NumProgressed": 227050,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -23559,7 +23570,7 @@
       "Name": "This is only the beginning",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 43139
+      "UsersEstimate": 43140
     },
     {
       "ID": "ACH_BASE_10",
@@ -23567,7 +23578,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 59032
+      "UsersEstimate": 59033
     },
     {
       "ID": "ACH_BASE_11",
@@ -23647,7 +23658,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6811
+      "UsersEstimate": 6812
     },
     {
       "ID": "ACH_BASE_21",
@@ -23783,7 +23794,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6811
+      "UsersEstimate": 6812
     },
     {
       "ID": "ACH_BASE_5",
@@ -23830,16 +23841,16 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 227047,
+      "Progressed": 227050,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-08-11T20:31:05.9094892+00:00",
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
-  "LastChanged": "2023-11-10T21:59:29.3531001+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:08:43.2150352+00:00",
+  "LastChanged": "2023-11-13T09:57:16.2470185+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:09:30.6912646+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:28.6379322+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:57:03.4998578+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:08:43.2152623+00:00"
+  "LastUpdate_Ratings": "2023-11-13T09:57:16.2470192+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:09:30.6914363+00:00"
 }

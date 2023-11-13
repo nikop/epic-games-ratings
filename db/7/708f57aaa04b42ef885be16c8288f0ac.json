@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -87,7 +87,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5090,
+  "EOS_Progressed": 5094,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 832,
   "EOS_NewCompleters": 0,
@@ -3052,6 +3052,11 @@
       "Time": "2023-11-13T09:08:31.2521221+00:00",
       "NumProgressed": 5090,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-13T10:09:15.5744328+00:00",
+      "NumProgressed": 5094,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3120,7 +3125,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "FasterThanLight",
@@ -3136,7 +3141,7 @@
       "Name": "First Time?",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3144,7 +3149,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "GarbageMan",
@@ -3216,7 +3221,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "NotLikeTheOthers",
@@ -3272,7 +3277,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -3280,15 +3285,15 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "UnResurrected",
       "SetID": "acc6ea0",
       "Name": "Un-Resurrected",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 305
+      "UsersEstimate": 255
     },
     {
       "ID": "WereNotInKansasAnymore",
@@ -3304,7 +3309,7 @@
       "Name": "Digestive Issues",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -3335,7 +3340,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5090,
+      "Progressed": 5094,
       "Completed": 5
     }
   ],
@@ -3343,8 +3348,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-10T21:10:20.974644+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:08:31.2521216+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:09:15.5744324+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:57:59.6618399+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:08:31.252166+00:00"
+  "LastUpdate_Ratings": "2023-11-13T09:58:28.8318016+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:09:15.5744755+00:00"
 }

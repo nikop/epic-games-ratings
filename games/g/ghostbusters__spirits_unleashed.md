@@ -17,13 +17,13 @@ Rating: 4.50 (Ranked 588)
 | Teamwork | 4.00% | ~1,237 |
 | There you are! | 4.00% | ~1,237 |
 | Vaporous Expansion | 4.00% | ~1,237 |
-| Animated | 3.00% | ~927 |
-| Cultured | 3.00% | ~927 |
-| Daily Dose | 3.00% | ~927 |
-| Ghostbuster In Training | 3.00% | ~927 |
-| Icing on the Cake | 3.00% | ~927 |
-| Right back at ya | 3.00% | ~927 |
-| Whoopsie | 3.00% | ~927 |
+| Animated | 3.00% | ~928 |
+| Cultured | 3.00% | ~928 |
+| Daily Dose | 3.00% | ~928 |
+| Ghostbuster In Training | 3.00% | ~928 |
+| Icing on the Cake | 3.00% | ~928 |
+| Right back at ya | 3.00% | ~928 |
+| Whoopsie | 3.00% | ~928 |
 | Back Off | 2.00% | ~618 |
 | We have the best insurance | 2.00% | ~618 |
 | Ectoplasmic Entity | 2.00% | ~618 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 588)
 | Fragile Panes | 0.90% | ~278 |
 | Liability | 0.90% | ~278 |
 | Surprise! | 0.80% | ~247 |
-| Therapeutic | 0.60% | ~185 |
+| Therapeutic | 0.60% | ~186 |
 | Rift Seeker | 0.50% | ~155 |
 | Master Collector | 0.40% | ~124 |
 | Catostrophic Destroyer | 0.20% | ~62 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,915 (Ranked 122)  
+Progressed: 30,918 (Ranked 122)  
 Completed: 68 (0.22%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 68 (0.22%) (Ranked 243)
 | 2023-11-10 | 30,704 | 66 |
 | 2023-11-11 | 30,795 | 67 |
 | 2023-11-12 | 30,897 | 67 |
-| 2023-11-13 | 30,915 | 68 |
+| 2023-11-13 | 30,918 | 68 |
 ## Awards
 Max (Great for Beginners): 313  (Ranked 247)  
 Sum: 2,777 (Ranked 179)  

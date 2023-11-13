@@ -3,7 +3,7 @@
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
   "Ranking_Rating": 523,
-  "Ranking_Popularity": 51,
+  "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 223,
@@ -6453,9 +6453,9 @@
       "Count": 461
     }
   ],
-  "EOS_Progressed": 717782,
+  "EOS_Progressed": 717795,
   "EOS_Completed": 2386,
-  "EOS_NewPlayers": 4043,
+  "EOS_NewPlayers": 4046,
   "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30073,6 +30073,11 @@
       "Time": "2023-11-13T09:03:51.4012502+00:00",
       "NumProgressed": 717782,
       "NumCompleted": 2386
+    },
+    {
+      "Time": "2023-11-13T10:04:29.8109301+00:00",
+      "NumProgressed": 717795,
+      "NumCompleted": 2386
     }
   ],
   "TotalAchievements": 51,
@@ -30100,7 +30105,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5024
+      "UsersEstimate": 5025
     },
     {
       "ID": "ach_anger_management",
@@ -30148,7 +30153,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5024
+      "UsersEstimate": 5025
     },
     {
       "ID": "ach_contender",
@@ -30204,7 +30209,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5024
+      "UsersEstimate": 5025
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -30228,7 +30233,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5024
+      "UsersEstimate": 5025
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -30364,7 +30369,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5024
+      "UsersEstimate": 5025
     },
     {
       "ID": "ach_survival_expert",
@@ -30444,7 +30449,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ach_dark_magic",
@@ -30452,7 +30457,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ach_gardening_tools",
@@ -30468,7 +30473,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 866
+      "UsersEstimate": 867
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30491,13 +30496,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717782,
+      "Progressed": 717795,
       "Completed": 2386
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43324,
+      "Progressed": 43337,
       "Completed": 36534
     }
   ],
@@ -30505,8 +30510,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-13T06:01:08.4217405+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:03:51.4012498+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:04:29.8109295+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:00:20.9325917+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:03:51.401448+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:01:27.8399895+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:04:29.8111289+00:00"
 }

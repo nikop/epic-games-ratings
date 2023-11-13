@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1448,7 +1448,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 130754,
+  "EOS_Progressed": 130755,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 228,
   "EOS_NewCompleters": 0,
@@ -21773,6 +21773,11 @@
       "Time": "2023-11-13T08:05:39.9809757+00:00",
       "NumProgressed": 130754,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-13T10:04:54.3412127+00:00",
+      "NumProgressed": 130755,
+      "NumCompleted": 28
     }
   ],
   "TotalAchievements": 40,
@@ -21896,7 +21901,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 27458
+      "UsersEstimate": 27459
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -21944,7 +21949,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 13075
+      "UsersEstimate": 13076
     },
     {
       "ID": "ACH_GLUTEN",
@@ -22103,15 +22108,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 130754,
+      "Progressed": 130755,
       "Completed": 28
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2023-11-12T16:58:19.8548611+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:04:11.1591892+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:04:54.3412121+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:39.9410222+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:58:23.8735641+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:04:11.1593639+00:00"
+  "LastUpdate_Ratings": "2023-11-13T09:59:01.3983715+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:04:54.3413783+00:00"
 }

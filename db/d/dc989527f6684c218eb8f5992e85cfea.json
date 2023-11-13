@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 143,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13556,
+  "EOS_Progressed": 13558,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14289,6 +14289,11 @@
       "Time": "2023-11-13T09:04:24.7678914+00:00",
       "NumProgressed": 13556,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T10:05:10.9059792+00:00",
+      "NumProgressed": 13558,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -14372,7 +14377,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 5965
+      "UsersEstimate": 5966
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -14468,7 +14473,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2711
+      "UsersEstimate": 2712
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -14499,14 +14504,14 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13556,
+      "Progressed": 13558,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:04:24.7678909+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:05:10.9059788+00:00",
   "LastUpdate_AppInfo": "2023-11-11T03:57:04.8378418+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:02:37.4888165+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:04:24.7680273+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:02:57.0154168+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:05:10.9060867+00:00"
 }

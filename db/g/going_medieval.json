@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1421,9 +1421,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 6727,
+  "EOS_Progressed": 6728,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12651,6 +12651,11 @@
       "Time": "2023-11-13T09:03:28.0842296+00:00",
       "NumProgressed": 6727,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-13T10:04:00.4982358+00:00",
+      "NumProgressed": 6728,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -12662,7 +12667,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5045
+      "UsersEstimate": 5046
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -12670,7 +12675,7 @@
       "Name": "Beam Me Up",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 3498
+      "UsersEstimate": 3499
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -12694,7 +12699,7 @@
       "Name": "Green Thumb",
       "Percentage": 67,
       "XP": 50,
-      "UsersEstimate": 4507
+      "UsersEstimate": 4508
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -12710,7 +12715,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4843
+      "UsersEstimate": 4844
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -12774,7 +12779,7 @@
       "Name": "Retribution",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "PRODUCE_AT_CAMPFIRE",
@@ -12782,7 +12787,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 4036
+      "UsersEstimate": 4037
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -12806,7 +12811,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 3296
+      "UsersEstimate": 3297
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -12830,7 +12835,7 @@
       "Name": "...And Don\u2019t Come Back!",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 2825
+      "UsersEstimate": 2826
     },
     {
       "ID": "SURVIVE_FIRST_SUMMER",
@@ -12838,7 +12843,7 @@
       "Name": "Heating Up",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -12870,7 +12875,7 @@
       "Name": "Novice Researcher",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 4507
+      "UsersEstimate": 4508
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -12878,7 +12883,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3027
+      "UsersEstimate": 3028
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -12886,7 +12891,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 31,
       "XP": 100,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -12894,7 +12899,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -12902,22 +12907,22 @@
       "Name": "Studious Researcher",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 3498
+      "UsersEstimate": 3499
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6727,
+      "Progressed": 6728,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-13T04:58:21.3888038+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:03:28.084229+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:04:00.4982354+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:38.5304981+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:58:22.7729034+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:03:28.0843484+00:00"
+  "LastUpdate_Ratings": "2023-11-13T09:58:59.9654444+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:04:00.4983321+00:00"
 }

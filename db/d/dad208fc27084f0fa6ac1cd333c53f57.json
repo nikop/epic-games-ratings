@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 2906,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 1117,
+  "EOS_NewPlayers": 1113,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -1586,9 +1586,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_PC",
       "SetID": "4d50jip",
       "Name": "Unlock the PC",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1046
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -1689,8 +1689,8 @@
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:05:11.7864905+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:06:09.6221331+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:13.7479812+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:58:15.8698778+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:05:11.7865173+00:00"
+  "LastUpdate_Ratings": "2023-11-13T09:58:49.7413236+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:06:09.6221558+00:00"
 }

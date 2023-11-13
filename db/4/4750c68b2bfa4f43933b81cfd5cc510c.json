@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-29T00:00:00+00:00",
     "PcReleaseDate": "2023-09-29T00:00:00+00:00",
@@ -1617,9 +1617,9 @@
       "Count": 238
     }
   ],
-  "EOS_Progressed": 52585,
+  "EOS_Progressed": 52586,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1214,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7847,6 +7847,11 @@
       "Time": "2023-11-13T09:03:54.9953748+00:00",
       "NumProgressed": 52585,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T10:04:34.2353533+00:00",
+      "NumProgressed": 52586,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -7891,7 +7896,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 27870
+      "UsersEstimate": 27871
     },
     {
       "ID": "achievement_14",
@@ -7899,7 +7904,7 @@
       "Name": "The Alchemist",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 26818
+      "UsersEstimate": 26819
     },
     {
       "ID": "achievement_15",
@@ -7923,7 +7928,7 @@
       "Name": "One Moment Please!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 31551
+      "UsersEstimate": 31552
     },
     {
       "ID": "achievement_18",
@@ -7953,9 +7958,9 @@
       "ID": "achievement_20",
       "SetID": "3o4m6ni",
       "Name": "Record Breaker",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 9465
+      "UsersEstimate": 9991
     },
     {
       "ID": "achievement_21",
@@ -7963,7 +7968,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 44171
+      "UsersEstimate": 44172
     },
     {
       "ID": "achievement_22",
@@ -7987,7 +7992,7 @@
       "Name": "End of the Line",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 8939
+      "UsersEstimate": 8940
     },
     {
       "ID": "achievement_25",
@@ -8147,7 +8152,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 31025
+      "UsersEstimate": 31026
     },
     {
       "ID": "achievement_7",
@@ -8163,7 +8168,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 38913
+      "UsersEstimate": 38914
     },
     {
       "ID": "achievement_9",
@@ -8178,7 +8183,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 52585,
+      "Progressed": 52586,
       "Completed": 0
     }
   ],
@@ -8186,8 +8191,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-13T07:58:30.5932501+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:03:54.9953743+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:04:34.2353528+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.8674427+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:57:46.2532677+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:03:54.995496+00:00"
+  "LastUpdate_Ratings": "2023-11-13T09:58:11.0369456+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:04:34.2354261+00:00"
 }

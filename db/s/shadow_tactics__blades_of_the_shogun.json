@@ -1996,9 +1996,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 213499,
+  "EOS_Progressed": 213503,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1298,
+  "EOS_NewPlayers": 1299,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25626,6 +25626,11 @@
       "Time": "2023-11-13T09:03:54.7511866+00:00",
       "NumProgressed": 213499,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-13T10:04:33.8639291+00:00",
+      "NumProgressed": 213503,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -25653,7 +25658,7 @@
       "Name": "Chicken Dinner",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "Chunin",
@@ -25765,7 +25770,7 @@
       "Name": "Merciful",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "Meticulous",
@@ -25781,7 +25786,7 @@
       "Name": "Mimimi",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "MugenUnchained",
@@ -25845,7 +25850,7 @@
       "Name": "Release the Kraken",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "RescueTakuma",
@@ -25933,7 +25938,7 @@
       "Name": "Time Paradox",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "UndeservedHonor",
@@ -25965,7 +25970,7 @@
       "Name": "When Cut Across the Neck",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1921
+      "UsersEstimate": 1922
     },
     {
       "ID": "WinnerWinner",
@@ -25988,15 +25993,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 213499,
+      "Progressed": 213503,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-12T09:58:07.4359843+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:03:54.751186+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:04:33.8639284+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.7843391+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:58:29.5816351+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:03:54.7513872+00:00"
+  "LastUpdate_Ratings": "2023-11-13T09:59:07.6574224+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:04:33.8641164+00:00"
 }

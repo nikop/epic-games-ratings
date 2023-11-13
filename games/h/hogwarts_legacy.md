@@ -18,14 +18,14 @@ Rating: 4.76 (Ranked 125)
 | Challenge Accepted | 11.00% | ~33,221 |
 | Loom for Improvement | 11.00% | ~33,221 |
 | Coasting Along | 11.00% | ~33,221 |
-| The Hero of Hogwarts | 10.00% | ~30,200 |
-| Followed the Butterflies | 10.00% | ~30,200 |
-| Rising From the Ashes | 10.00% | ~30,200 |
-| The Spell Master | 9.00% | ~27,180 |
-| The Avenging Gazelle | 8.00% | ~24,160 |
-| Beast Friends | 8.00% | ~24,160 |
-| A Sallow Grave | 8.00% | ~24,160 |
-| Flight the Good Flight | 8.00% | ~24,160 |
+| The Hero of Hogwarts | 10.00% | ~30,201 |
+| Followed the Butterflies | 10.00% | ~30,201 |
+| Rising From the Ashes | 10.00% | ~30,201 |
+| The Spell Master | 9.00% | ~27,181 |
+| The Avenging Gazelle | 8.00% | ~24,161 |
+| Beast Friends | 8.00% | ~24,161 |
+| A Sallow Grave | 8.00% | ~24,161 |
+| Flight the Good Flight | 8.00% | ~24,161 |
 | The Seeker of Knowledge | 6.00% | ~18,120 |
 | The Root of the Problem | 6.00% | ~18,120 |
 | Third Time's a Charm | 6.00% | ~18,120 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,005 (Ranked 50)  
+Progressed: 302,007 (Ranked 50)  
 Completed: 510 (0.17%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 510 (0.17%) (Ranked 257)
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
 | 2023-11-12 | 301,983 | 510 |
-| 2023-11-13 | 302,005 | 510 |
+| 2023-11-13 | 302,007 | 510 |
 ## Awards
 Max (Character Customization): 24,259  (Ranked 17)  
 Sum: 48,049 (Ranked 30)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -1712,9 +1712,9 @@
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
       "SetID": "5fn8ia4",
       "Name": "Trash Collection",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 498
+      "UsersEstimate": 503
     },
     {
       "ID": "GSS_ACH_18_ALIENS",
@@ -1736,17 +1736,17 @@
       "ID": "GSS_ACH_20_DECORATION_01",
       "SetID": "5fn8ia4",
       "Name": "Decorating!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 492
     },
     {
       "ID": "GSS_ACH_21_LOCKPICKING_01",
       "SetID": "5fn8ia4",
       "Name": "Thief!",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 492
     },
     {
       "ID": "GSS_ACH_22_LOCKPICKING_02",
@@ -1872,9 +1872,9 @@
       "ID": "GSS_ACH_38_GARAGE_01",
       "SetID": "5fn8ia4",
       "Name": "IR Mechanic!",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 387
+      "UsersEstimate": 393
     },
     {
       "ID": "GSS_ACH_39_GARAGE_02",
@@ -2016,9 +2016,9 @@
       "ID": "GSS_ACH_56_UPGRADE_WAREHOUSE_01",
       "SetID": "5fn8ia4",
       "Name": "Warehouse Obtained!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 442
     },
     {
       "ID": "GSS_ACH_57_UPGRADE_WAREHOUSE_02",
@@ -2064,9 +2064,9 @@
       "ID": "GSS_ACH_62_POPULARITY_02",
       "SetID": "5fn8ia4",
       "Name": "Heard in Whispers",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 404
+      "UsersEstimate": 409
     },
     {
       "ID": "GSS_ACH_63_POPULARITY_03",
@@ -2239,8 +2239,8 @@
   ],
   "FirstSeen": "2023-09-18T10:57:05.8688347+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:05:27.9819869+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:06:29.8254455+00:00",
   "LastUpdate_AppInfo": "2023-11-06T15:57:17.0856906+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:58:39.7026883+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:05:27.9820819+00:00"
+  "LastUpdate_Ratings": "2023-11-13T09:59:20.1529202+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:06:29.8255442+00:00"
 }

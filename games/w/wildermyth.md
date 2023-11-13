@@ -29,6 +29,7 @@ Number of Ratings: 45  (23.09.2022)
 | No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
 | Chain Reaction | 0.20% | ~3 |
+| Another Tale to Tell | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Storied Past | 0.10% | ~1 |
 | A Lowly Crust of Beef | 0.10% | ~1 |
@@ -36,7 +37,6 @@ Number of Ratings: 45  (23.09.2022)
 | Plague Doctor | 0.10% | ~1 |
 | In Soil, In Smoke | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
-| Another Tale to Tell | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
 | Wingknight's Prowess | 0.10% | ~1 |
 | All My Birds, Safely Home | 0.10% | ~1 |

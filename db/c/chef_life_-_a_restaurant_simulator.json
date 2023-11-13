@@ -4,8 +4,8 @@
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 675,
+  "EOS_Progressed": 677,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2972,6 +2972,11 @@
       "Time": "2023-11-13T04:04:02.8794111+00:00",
       "NumProgressed": 675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T10:04:23.1036535+00:00",
+      "NumProgressed": 677,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -3045,9 +3050,9 @@
       "ID": "Clothes10",
       "SetID": "d1bm05f",
       "Name": "Kitchen Model",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CustomDressing20",
@@ -3159,7 +3164,7 @@
       "Name": "The Big Day",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "Packing20",
@@ -3239,7 +3244,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "TrattoriaSet",
@@ -3302,7 +3307,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 675,
+      "Progressed": 677,
       "Completed": 0
     }
   ],
@@ -3310,8 +3315,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2023-03-31T05:57:34.6968936+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:03:45.943818+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:04:23.1036527+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:51.4511106+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:00:11.3102896+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:03:45.9438693+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:01:16.1227167+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:04:23.1037019+00:00"
 }

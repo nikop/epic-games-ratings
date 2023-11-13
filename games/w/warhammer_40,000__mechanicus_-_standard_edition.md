@@ -5,8 +5,8 @@ Rating: 4.43 (Ranked 690)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~59,032 |
-| This is only the beginning | 19.00% | ~43,139 |
+| No aid from the Omnissiah | 26.00% | ~59,033 |
+| This is only the beginning | 19.00% | ~43,140 |
 | Knowledge is power | 12.00% | ~27,246 |
 | Galvanic Rifle | 10.00% | ~22,705 |
 | Power Ranger | 9.00% | ~20,434 |
@@ -17,8 +17,8 @@ Rating: 4.43 (Ranked 690)
 | Competent Cohort | 4.00% | ~9,082 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,082 |
 | One with the Machine | 4.00% | ~9,082 |
-| Legio Cybernetica | 3.00% | ~6,811 |
-| Fleshy Disposal | 3.00% | ~6,811 |
+| Legio Cybernetica | 3.00% | ~6,812 |
+| Fleshy Disposal | 3.00% | ~6,812 |
 | Battle Servitor | 2.00% | ~4,541 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,541 |
 | Impatient destruction | 2.00% | ~4,541 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 690)
 | Perma-live | 0.10% | ~227 |
 | Purge the Heretek | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,047 (Ranked 67)  
+Progressed: 227,050 (Ranked 67)  
 Completed: 5 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,10 +247,10 @@ Completed: 5 (0.00%) (Ranked 350)
 | 2023-11-10 | 226,859 | 5 |
 | 2023-11-11 | 226,948 | 5 |
 | 2023-11-12 | 227,026 | 5 |
-| 2023-11-13 | 227,047 | 5 |
+| 2023-11-13 | 227,050 | 5 |
 ## Awards
 Max (Highly Recommended): 290  (Ranked 256)  
-Sum: 2,193 (Ranked 202)  
+Sum: 2,195 (Ranked 202)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -259,9 +259,9 @@ Diff (max vs sum): 54
 | This game is Extremely Fun | 280 |
 | This game has Amazing Characters | 268 |
 | This game has Diverse Characters | 267 |
-| This game has Amazing Storytelling | 249 |
+| This game has Amazing Storytelling | 250 |
 | This game is Relaxing | 243 |
-| This game has Unique Visuals | 213 |
+| This game has Unique Visuals | 214 |
 | This game has a Creative Community | 100 |
 | This game is Great for Beginners | 63 |
 ## Ratings History
@@ -359,3 +359,4 @@ Diff (max vs sum): 54
 | 2023-11-08 | 4.43 | 289 | 2,191 |
 | 2023-11-09 | 4.43 | 290 | 2,192 |
 | 2023-11-10 | 4.43 | 290 | 2,193 |
+| 2023-11-13 | 4.43 | 290 | 2,195 |

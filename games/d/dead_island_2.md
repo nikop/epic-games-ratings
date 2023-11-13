@@ -5,16 +5,16 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~866 |
-| Whatever It Takes | 2.00% | ~866 |
-| Pork Chopped | 2.00% | ~866 |
+| One of Us | 2.00% | ~867 |
+| Whatever It Takes | 2.00% | ~867 |
+| Pork Chopped | 2.00% | ~867 |
 | Welcome To Hell-A | 0.90% | ~6,460 |
 | Hotel California | 0.80% | ~5,742 |
-| Git Gutte! | 0.70% | ~5,024 |
-| Break A Leg | 0.70% | ~5,024 |
-| Coup de Grâce | 0.70% | ~5,024 |
-| Hazardous Materials | 0.70% | ~5,024 |
-| Personal Assistant Personally Assisted | 0.70% | ~5,024 |
+| Git Gutte! | 0.70% | ~5,025 |
+| Break A Leg | 0.70% | ~5,025 |
+| Coup de Grâce | 0.70% | ~5,025 |
+| Hazardous Materials | 0.70% | ~5,025 |
+| Personal Assistant Personally Assisted | 0.70% | ~5,025 |
 | Dr. Reed, I Presume? | 0.60% | ~4,307 |
 | Anger Management | 0.60% | ~4,307 |
 | Bookworm | 0.60% | ~4,307 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,782 (Ranked 20)  
+Progressed: 717,795 (Ranked 20)  
 Completed: 2,386 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,11 +264,11 @@ Completed: 2,386 (0.33%) (Ranked 223)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 717,782 | 2,386 |
+| 2023-11-13 | 717,795 | 2,386 |
 ## Awards
-Max (Great Boss Battles): 7,376  (Ranked 51)  
+Max (Great Boss Battles): 7,376  (Ranked 52)  
 Sum: 11,199 (Ranked 85)  
-Diff (max vs sum): -34  
+Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,376 |

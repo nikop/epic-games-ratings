@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 82,
   "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -1619,9 +1619,9 @@
       "ID": "ACH_PENTAGRAM",
       "SetID": "6f5dahd",
       "Name": "Evil plan",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 319
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -1666,8 +1666,8 @@
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-13T09:08:23.4221703+00:00",
+  "LastChanged_Achievements": "2023-11-13T10:09:05.936597+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:57:56.5617073+00:00",
-  "LastUpdate_Achievements": "2023-11-13T09:08:23.4221922+00:00"
+  "LastUpdate_Ratings": "2023-11-13T09:58:24.8422486+00:00",
+  "LastUpdate_Achievements": "2023-11-13T10:09:05.9366177+00:00"
 }

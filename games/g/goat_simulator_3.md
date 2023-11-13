@@ -6,25 +6,25 @@ Rating: 4.84 (Ranked 51)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Forgotten Sorority | 91.00% | ~228,081 |
-| Private Club | 74.00% | ~185,472 |
+| Private Club | 74.00% | ~185,473 |
 | Rogue Guild | 65.00% | ~162,915 |
 | I Watched the Intro | 57.00% | ~142,864 |
 | Covert Consortium | 55.00% | ~137,851 |
-| Goat Queen | 53.00% | ~132,838 |
-| Reach the Stratosphere | 50.00% | ~125,319 |
+| Goat Queen | 53.00% | ~132,839 |
+| Reach the Stratosphere | 50.00% | ~125,320 |
 | Synchronization Complete | 47.00% | ~117,800 |
-| Secret Society | 45.00% | ~112,787 |
-| Shadow Syndicate | 38.00% | ~95,242 |
+| Secret Society | 45.00% | ~112,788 |
+| Shadow Syndicate | 38.00% | ~95,243 |
 | What a Waste of Money | 33.00% | ~82,711 |
-| New Goat Order | 30.00% | ~75,191 |
+| New Goat Order | 30.00% | ~75,192 |
 | Don't touch the servers | 28.00% | ~70,179 |
-| San Angora: Become Human | 27.00% | ~67,672 |
-| Real Buoy | 27.00% | ~67,672 |
+| San Angora: Become Human | 27.00% | ~67,673 |
+| Real Buoy | 27.00% | ~67,673 |
 | Raider of the Lost Parking Garage | 26.00% | ~65,166 |
 | Welcome to Earth | 25.00% | ~62,660 |
 | Into the Matrix | 19.00% | ~47,621 |
 | Egg Simulator | 18.00% | ~45,115 |
-| Where is It? | 17.00% | ~42,608 |
+| Where is It? | 17.00% | ~42,609 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~37,596 |
 | 401(K.O.) | 15.00% | ~37,596 |
 | Black Market | 14.00% | ~35,089 |
@@ -45,7 +45,7 @@ Rating: 4.84 (Ranked 51)
 | Move! That! Bus! | 0.60% | ~1,504 |
 | G.O.A.T | 0.30% | ~752 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 250,638 (Ranked 59)  
+Progressed: 250,639 (Ranked 59)  
 Completed: 875 (0.35%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,7 +252,7 @@ Completed: 875 (0.35%) (Ranked 221)
 | 2023-11-10 | 250,321 | 872 |
 | 2023-11-11 | 250,486 | 873 |
 | 2023-11-12 | 250,617 | 875 |
-| 2023-11-13 | 250,638 | 875 |
+| 2023-11-13 | 250,639 | 875 |
 ## Awards
 Max (Great for Beginners): 457  (Ranked 215)  
 Sum: 3,802 (Ranked 158)  
