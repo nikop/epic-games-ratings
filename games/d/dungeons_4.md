@@ -10,20 +10,20 @@
 | Hammer Time, Round Two | 76.00% | ~185 |
 | The Hellwoods | 67.00% | ~163 |
 | Thalya's Concentrated Fury | 64.00% | ~156 |
-| The Plains of Strothalm | 60.00% | ~146 |
-| Experienced Thalya | 60.00% | ~146 |
+| The Plains of Strothalm | 61.00% | ~149 |
+| Experienced Thalya | 61.00% | ~149 |
 | Master of Magic | 57.00% | ~139 |
-| Bad Elves Go Everywhere | 54.00% | ~132 |
-| Unicorn steaks – fresh off the hoof! | 51.00% | ~124 |
-| Trap Master | 50.00% | ~122 |
-| Magic Accidents | 49.00% | ~120 |
+| Bad Elves Go Everywhere | 55.00% | ~134 |
+| Unicorn steaks – fresh off the hoof! | 52.00% | ~127 |
+| Trap Master | 51.00% | ~124 |
+| Magic Accidents | 50.00% | ~122 |
 | Minions, Minions! | 48.00% | ~117 |
 | Heroes’ Gorge | 45.00% | ~110 |
 | YOU SHALL NOT PASS! | 33.00% | ~81 |
-| The Ascent | 31.00% | ~76 |
-| It's Warm and Cozy at Home | 31.00% | ~76 |
+| The Ascent | 32.00% | ~78 |
+| It's Warm and Cozy at Home | 32.00% | ~78 |
+| Pure Dynamite! | 29.00% | ~71 |
 | Hard Work | 28.00% | ~68 |
-| Pure Dynamite! | 28.00% | ~68 |
 | Mana Cannon | 27.00% | ~66 |
 | The Big Eaty | 25.00% | ~61 |
 | “… like son” | 18.00% | ~44 |
@@ -37,11 +37,11 @@
 | Forbidden Knowledge | 9.00% | ~22 |
 | Unstoppable Horde | 8.00% | ~20 |
 | Master of the Undead | 8.00% | ~20 |
+| All’s Well That Ends Evil | 8.00% | ~20 |
 | Ghost Pirates? Ghost Heroes! | 7.00% | ~17 |
-| All’s Well That Ends Evil | 7.00% | ~17 |
 | The Duel | 6.00% | ~15 |
 | Stop Tanos! | 5.00% | ~12 |
-| If Looks Could Kill | 4.00% | ~10 |
+| If Looks Could Kill | 5.00% | ~12 |
 | Bonus Evilness | 3.00% | ~7 |
 | The Finitude Drill | 3.00% | ~7 |
 | Sabotage! | 3.00% | ~7 |
@@ -53,10 +53,10 @@
 | Rubble and Ashes | 2.00% | ~5 |
 | Brimstone Shaken, Not Stirred | 2.00% | ~5 |
 | Lavalumps on Ice! | 1.00% | ~2 |
+| Raiders of the Lost Stone | 1.00% | ~2 |
 | Untouchable | 0.80% | ~2 |
-| Raiders of the Lost Stone | 0.80% | ~2 |
+| No Mana, No Cry | 0.80% | ~2 |
 | The Last Stand - This Time For Real! | 0.80% | ~2 |
-| No Mana, No Cry | 0.40% | ~1 |
 | The Rune Sockets of Finitude (Part 1) | 0.40% | ~1 |
 | To the Max! | 0.40% | ~1 |
 | To Infinity And Beyond! | 0.40% | ~1 |

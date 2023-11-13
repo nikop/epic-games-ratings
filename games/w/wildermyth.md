@@ -13,9 +13,9 @@ Number of Ratings: 45  (23.09.2022)
 | Cutthroat Competitors | 2.00% | ~29 |
 | Passing Shadow | 1.00% | ~15 |
 | This Too Shall Pass | 1.00% | ~15 |
+| War Endured | 1.00% | ~15 |
 | Daybreak | 1.00% | ~15 |
-| War Endured | 0.90% | ~13 |
-| Core Failure | 0.90% | ~13 |
+| Core Failure | 1.00% | ~15 |
 | Completing the Look | 0.80% | ~12 |
 | Let Me Get My Chisel | 0.70% | ~10 |
 | Who's Counting? | 0.50% | ~7 |

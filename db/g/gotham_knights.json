@@ -6,9 +6,9 @@
   "Ranking_Popularity": 98,
   "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 97,
-  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -4115,9 +4115,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76378,
+  "EOS_Progressed": 76379,
   "EOS_Completed": 123,
-  "EOS_NewPlayers": 317,
+  "EOS_NewPlayers": 316,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -22460,6 +22460,11 @@
       "Time": "2023-11-13T15:04:44.8384267+00:00",
       "NumProgressed": 76378,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-13T16:04:42.7455979+00:00",
+      "NumProgressed": 76379,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22575,7 +22580,7 @@
       "Name": "Something in the Clay",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "CLAYFACE_2",
@@ -22615,7 +22620,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5346
+      "UsersEstimate": 5347
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -22703,7 +22708,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16039
+      "UsersEstimate": 16040
     },
     {
       "ID": "FREEZE_2",
@@ -22775,7 +22780,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26732
+      "UsersEstimate": 26733
     },
     {
       "ID": "HARLEY_2",
@@ -22783,7 +22788,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19094
+      "UsersEstimate": 19095
     },
     {
       "ID": "HARLEY_3",
@@ -22799,7 +22804,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12220
+      "UsersEstimate": 12221
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22871,7 +22876,7 @@
       "Name": "Whispered Words",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 19094
+      "UsersEstimate": 19095
     },
     {
       "ID": "MYSTERY_03",
@@ -22958,13 +22963,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76378,
+      "Progressed": 76379,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46658,
+      "Progressed": 46659,
       "Completed": 2673
     }
   ],
@@ -22972,8 +22977,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-13T13:57:31.4314506+00:00",
-  "LastChanged_Achievements": "2023-11-13T15:04:44.8384264+00:00",
+  "LastChanged_Achievements": "2023-11-13T16:04:42.7455976+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-13T14:57:21.7889297+00:00",
-  "LastUpdate_Achievements": "2023-11-13T15:04:44.8385371+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:57:29.3084883+00:00",
+  "LastUpdate_Achievements": "2023-11-13T16:04:42.7457336+00:00"
 }

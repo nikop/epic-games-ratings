@@ -146,10 +146,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.60% | ~92 |
 | Kush | 0.60% | ~92 |
 | Beja Archer | 0.60% | ~92 |
-| Old | 0.50% | ~76 |
-| Old World Order | 0.50% | ~76 |
-| Ten Crowns | 0.50% | ~76 |
-| No Undo | 0.50% | ~76 |
+| Old | 0.50% | ~77 |
+| Old World Order | 0.50% | ~77 |
+| Ten Crowns | 0.50% | ~77 |
+| No Undo | 0.50% | ~77 |
 | Bronze Victory (Carthage 1) | 0.40% | ~61 |
 | Ancient | 0.40% | ~61 |
 | Glorious Difficulty | 0.40% | ~61 |
@@ -174,6 +174,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Nenikekamen | 0.30% | ~46 |
 | Assyria | 0.30% | ~46 |
 | Apadana in Parsa | 0.30% | ~46 |
+| Play a Free-For-All Game (>2 Players) | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
 | Prosperous Kmt | 0.30% | ~46 |
 | Gold Victory (Carthage 1) | 0.20% | ~31 |
@@ -191,7 +192,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 1 - Able | 0.20% | ~31 |
 | Macedonian Wars | 0.20% | ~31 |
 | Medo-Babylonian Conquest | 0.20% | ~31 |
-| Play a Free-For-All Game (>2 Players) | 0.20% | ~31 |
 | Pantheon in Roma | 0.20% | ~31 |
 | Randomized Leaders | 0.20% | ~31 |
 | Kmt Golden Age | 0.20% | ~31 |
@@ -349,8 +349,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,300 (Ranked 146)  
-Completed: 5 (0.03%) (Ranked 313)  
+Progressed: 15,301 (Ranked 146)  
+Completed: 5 (0.03%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -556,7 +556,7 @@ Completed: 5 (0.03%) (Ranked 313)
 | 2023-11-10 | 15,253 | 5 |
 | 2023-11-11 | 15,270 | 5 |
 | 2023-11-12 | 15,291 | 5 |
-| 2023-11-13 | 15,300 | 5 |
+| 2023-11-13 | 15,301 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 214)  

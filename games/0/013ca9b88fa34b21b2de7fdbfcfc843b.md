@@ -6,7 +6,7 @@ Rating: 4.60 (Ranked 410)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Azoria Beckons | 72.00% | ~5,579 |
-| A Thorny Situation | 70.00% | ~5,424 |
+| A Thorny Situation | 71.00% | ~5,502 |
 | ... And Spit Back Out | 61.00% | ~4,727 |
 | Break-Net Speed | 49.00% | ~3,797 |
 | Bramble Breaker | 46.00% | ~3,565 |
@@ -42,7 +42,7 @@ Rating: 4.60 (Ranked 410)
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,749 (Ranked 169)  
-Completed: 1 (0.01%) (Ranked 328)  
+Completed: 1 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

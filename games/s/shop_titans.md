@@ -6,14 +6,14 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 4.00% | ~5,587 |
-| Basic in Bulk | 4.00% | ~5,587 |
-| Tinkle of Coins | 4.00% | ~5,587 |
-| Titan's First Steps | 4.00% | ~5,587 |
-| Disintermediation | 3.00% | ~4,190 |
-| It's Free Real Estate | 3.00% | ~4,190 |
-| Budding Merchant | 3.00% | ~4,190 |
-| Capitalism Ho! | 3.00% | ~4,190 |
+| Sponsored by Argon | 4.00% | ~5,588 |
+| Basic in Bulk | 4.00% | ~5,588 |
+| Tinkle of Coins | 4.00% | ~5,588 |
+| Titan's First Steps | 4.00% | ~5,588 |
+| Disintermediation | 3.00% | ~4,191 |
+| It's Free Real Estate | 3.00% | ~4,191 |
+| Budding Merchant | 3.00% | ~4,191 |
+| Capitalism Ho! | 3.00% | ~4,191 |
 | The Daily Grind | 2.00% | ~2,794 |
 | One Easy Payment | 2.00% | ~2,794 |
 | Some Assembly Required | 2.00% | ~2,794 |
@@ -61,25 +61,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Black Friday Special | 0.90% | ~1,257 |
 | Special Ingredient | 0.90% | ~1,257 |
 | Complete Monopoly | 0.90% | ~1,257 |
-| Cream of the Crop | 0.80% | ~1,117 |
-| Above the Norm | 0.80% | ~1,117 |
-| A Ronin Reborn | 0.80% | ~1,117 |
-| Locally Sourced | 0.80% | ~1,117 |
-| Master of Transmutation | 0.80% | ~1,117 |
-| Supercharged | 0.80% | ~1,117 |
-| Cranked up to 11 | 0.80% | ~1,117 |
-| Fit for a King | 0.80% | ~1,117 |
-| Wealth Beyond Measure | 0.80% | ~1,117 |
-| Fat Cat Tag Team | 0.80% | ~1,117 |
-| Necromancer Queen | 0.80% | ~1,117 |
-| Master Merchant | 0.80% | ~1,117 |
-| Miracle Alchemist | 0.80% | ~1,117 |
-| Laden with Loot | 0.80% | ~1,117 |
-| Scourge of the Seas | 0.80% | ~1,117 |
-| Attrition Mission | 0.80% | ~1,117 |
-| Glittering Collection | 0.80% | ~1,117 |
-| Exotic Commodities | 0.80% | ~1,117 |
-| King's Blade | 0.80% | ~1,117 |
+| Cream of the Crop | 0.80% | ~1,118 |
+| Above the Norm | 0.80% | ~1,118 |
+| A Ronin Reborn | 0.80% | ~1,118 |
+| Locally Sourced | 0.80% | ~1,118 |
+| Master of Transmutation | 0.80% | ~1,118 |
+| Supercharged | 0.80% | ~1,118 |
+| Cranked up to 11 | 0.80% | ~1,118 |
+| Fit for a King | 0.80% | ~1,118 |
+| Wealth Beyond Measure | 0.80% | ~1,118 |
+| Fat Cat Tag Team | 0.80% | ~1,118 |
+| Necromancer Queen | 0.80% | ~1,118 |
+| Master Merchant | 0.80% | ~1,118 |
+| Miracle Alchemist | 0.80% | ~1,118 |
+| Laden with Loot | 0.80% | ~1,118 |
+| Scourge of the Seas | 0.80% | ~1,118 |
+| Attrition Mission | 0.80% | ~1,118 |
+| Glittering Collection | 0.80% | ~1,118 |
+| Exotic Commodities | 0.80% | ~1,118 |
+| King's Blade | 0.80% | ~1,118 |
 | Top of the World | 0.70% | ~978 |
 | Proud Paladin | 0.70% | ~978 |
 | Constellated | 0.70% | ~978 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,682 (Ranked 79)  
-Completed: 181 (0.13%) (Ranked 263)  
+Progressed: 139,689 (Ranked 79)  
+Completed: 181 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -326,7 +326,7 @@ Completed: 181 (0.13%) (Ranked 263)
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
-| 2023-11-13 | 139,682 | 181 |
+| 2023-11-13 | 139,689 | 181 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,540 (Ranked 50)  

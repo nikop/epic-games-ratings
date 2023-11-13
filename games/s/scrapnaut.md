@@ -22,7 +22,7 @@ Number of Ratings: 38  (23.09.2022)
 | Herbalist | 29.00% | ~136 |
 | Prepper | 27.00% | ~127 |
 | Electro-Scrap Master | 24.00% | ~113 |
-| Robot Hunter | 21.00% | ~98 |
+| Robot Hunter | 22.00% | ~103 |
 | Advanced Survivalist | 19.00% | ~89 |
 | Master Of Technology | 16.00% | ~75 |
 | Treasure Hunter | 16.00% | ~75 |
@@ -39,7 +39,7 @@ Number of Ratings: 38  (23.09.2022)
 | Invincible | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 469 (Ranked 306)  
-Completed: 1 (0.21%) (Ranked 245)  
+Completed: 1 (0.21%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

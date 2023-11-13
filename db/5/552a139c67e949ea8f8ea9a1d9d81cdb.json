@@ -2,10 +2,10 @@
   "ID": "552a139c67e949ea8f8ea9a1d9d81cdb",
   "Name": "HOT WHEELS UNLEASHED\u2122 2 - Turbocharged",
   "ProductSlug": "hot-wheels-unleashed-2",
-  "Ranking_EOS_Progress": 252,
-  "Ranking_EOS_Completed": 273,
+  "Ranking_EOS_Progress": 253,
+  "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1041,
+  "EOS_Progressed": 1042,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -2062,6 +2062,11 @@
       "Time": "2023-11-13T05:04:04.5380272+00:00",
       "NumProgressed": 1041,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T16:04:08.6847511+00:00",
+      "NumProgressed": 1042,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2074,7 +2079,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2162,7 +2167,7 @@
       "Name": "Immortal",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -2178,7 +2183,7 @@
       "Name": "Shapeshifter",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -2322,7 +2327,7 @@
       "Name": "Spendthrift",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ML_ACHIEVEMENT_33",
@@ -2330,7 +2335,7 @@
       "Name": "Spin the wheel",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2410,27 +2415,27 @@
       "Name": "Mission complete",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     }
   ],
   "AchievementSets": [
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1041,
+      "Progressed": 1042,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 709,
-      "Completed": 709
+      "Progressed": 710,
+      "Completed": 710
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-13T15:04:06.0844573+00:00",
+  "LastChanged_Achievements": "2023-11-13T16:04:08.6847509+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:00:05.9886205+00:00",
-  "LastUpdate_Achievements": "2023-11-13T15:04:06.0844951+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:59:59.4311186+00:00",
+  "LastUpdate_Achievements": "2023-11-13T16:04:08.6847915+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "63e942fbfc8e40a5af2f7749a8cbcc09",
   "Name": "Last Labyrinth",
   "ProductSlug": "last-labyrinth-5aed27",
-  "Ranking_EOS_Progress": 545,
-  "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
     "PcReleaseDate": "2019-11-12T15:00:00+00:00",
@@ -160,17 +160,17 @@
       "ID": "ClearC01",
       "SetID": "94lmepd",
       "Name": "The Emperor",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ClearC01END",
       "SetID": "94lmepd",
       "Name": "The Moon",
-      "Percentage": 50,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ClearC02",
@@ -320,17 +320,17 @@
       "ID": "ClearM01",
       "SetID": "94lmepd",
       "Name": "Wheel Of Fortune",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClearTE01",
       "SetID": "94lmepd",
       "Name": "First Tale",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClearTE02",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-11-13T15:05:24.918633+00:00",
+  "LastChanged_Achievements": "2023-11-13T16:05:19.8229748+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:30.1047213+00:00",
-  "LastUpdate_Ratings": "2023-11-13T14:59:30.1869963+00:00",
-  "LastUpdate_Achievements": "2023-11-13T15:05:24.9186509+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:59:27.7845263+00:00",
+  "LastUpdate_Achievements": "2023-11-13T16:05:19.8229973+00:00"
 }

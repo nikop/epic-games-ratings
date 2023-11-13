@@ -6,9 +6,9 @@
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 529,
   "Ranking_EOS_Progress": 192,
-  "Ranking_EOS_Completed": 232,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -577,11 +577,11 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 3859,
+  "EOS_Progressed": 3860,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -7862,6 +7862,11 @@
       "Time": "2023-11-13T12:04:24.236734+00:00",
       "NumProgressed": 3859,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2023-11-13T16:03:52.2741599+00:00",
+      "NumProgressed": 3860,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -7873,7 +7878,7 @@
       "Name": "Climbing the Ladder",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "REWARD_11_GAME_SUBTITLE",
@@ -7953,7 +7958,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1775
+      "UsersEstimate": 1776
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -8041,7 +8046,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -8129,7 +8134,7 @@
       "Name": "Close Quarters",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "REWARD_41_SNAKE_IN_THE_GRASS",
@@ -8209,7 +8214,7 @@
       "Name": "Change the Channel",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1196
+      "UsersEstimate": 1197
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -8361,7 +8366,7 @@
       "Name": "Last Resort",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "REWARD_DLC02_01_SIEGEBREAKER",
@@ -8369,7 +8374,7 @@
       "Name": "Siegebreaker",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "REWARD_DLC02_02_GHOST_OF_FALAISE",
@@ -8377,7 +8382,7 @@
       "Name": "Ghost of Falaise",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "REWARD_DLC02_02_OPERATION_OVERLORD",
@@ -8440,13 +8445,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 3810,
+      "Progressed": 3811,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 3859,
+      "Progressed": 3860,
       "Completed": 11
     }
   ],
@@ -8454,8 +8459,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2023-11-04T03:01:38.5116756+00:00",
-  "LastChanged_Achievements": "2023-11-13T15:03:48.2986346+00:00",
+  "LastChanged_Achievements": "2023-11-13T16:03:52.2741597+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.7794257+00:00",
-  "LastUpdate_Ratings": "2023-11-13T14:57:21.6964121+00:00",
-  "LastUpdate_Achievements": "2023-11-13T15:03:48.298761+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:57:29.2806369+00:00",
+  "LastUpdate_Achievements": "2023-11-13T16:03:52.2742492+00:00"
 }

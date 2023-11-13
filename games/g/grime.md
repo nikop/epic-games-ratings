@@ -9,8 +9,8 @@ Number of Ratings: 46  (23.09.2022)
 | Imprint | 5.00% | ~7,904 |
 | The Hunt | 4.00% | ~6,323 |
 | Taste | 4.00% | ~6,323 |
-| Weeper | 3.00% | ~4,742 |
-| Ravenous | 3.00% | ~4,742 |
+| Weeper | 3.00% | ~4,743 |
+| Ravenous | 3.00% | ~4,743 |
 | Harmless | 2.00% | ~3,162 |
 | Silenced Whispers | 2.00% | ~3,162 |
 | Devourer | 2.00% | ~3,162 |
@@ -27,9 +27,9 @@ Number of Ratings: 46  (23.09.2022)
 | Celebration | 0.80% | ~1,265 |
 | Predator | 0.80% | ~1,265 |
 | Host | 0.70% | ~1,104 |
-| Hunt Down | 0.60% | ~948 |
-| Inevitable | 0.60% | ~948 |
-| All-Seeing | 0.60% | ~948 |
+| Hunt Down | 0.60% | ~949 |
+| Inevitable | 0.60% | ~949 |
+| All-Seeing | 0.60% | ~949 |
 | Dream | 0.60% | ~946 |
 | Breath | 0.50% | ~790 |
 | Artisan | 0.50% | ~790 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,077 (Ranked 76)  
-Completed: 1 (0.00%) (Ranked 350)  
+Progressed: 158,086 (Ranked 76)  
+Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -237,7 +237,7 @@ Completed: 1 (0.00%) (Ranked 350)
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
 | 2023-11-12 | 157,992 | 1 |
-| 2023-11-13 | 158,077 | 1 |
+| 2023-11-13 | 158,086 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
 Sum: 362 (Ranked 349)  

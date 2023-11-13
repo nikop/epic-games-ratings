@@ -6,16 +6,16 @@ Rating: 4.18 (Ranked 925)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 51.00% | ~38,953 |
-| Har, Har, Har, Very Funny | 35.00% | ~26,732 |
+| Har, Har, Har, Very Funny | 35.00% | ~26,733 |
 | Loose Ends | 34.00% | ~25,969 |
 | To the Victor Go the Spoils | 28.00% | ~21,386 |
 | Knighthood | 27.00% | ~20,622 |
-| Get ReQ'd | 25.00% | ~19,094 |
-| Whispered Words | 25.00% | ~19,094 |
+| Get ReQ'd | 25.00% | ~19,095 |
+| Whispered Words | 25.00% | ~19,095 |
 | The Batman Family | 23.00% | ~17,567 |
 | Lock and Key | 22.00% | ~16,803 |
-| Something in the Clay | 21.00% | ~16,039 |
-| Quartzer Life Crisis | 21.00% | ~16,039 |
+| Something in the Clay | 21.00% | ~16,040 |
+| Quartzer Life Crisis | 21.00% | ~16,040 |
 | Working Hard or Harley Working? | 20.00% | ~15,276 |
 | Unstoppable Force | 20.00% | ~15,276 |
 | Bad Apples in Every Orchard | 20.00% | ~15,276 |
@@ -23,7 +23,7 @@ Rating: 4.18 (Ranked 925)
 | The Show Mud Go On | 18.00% | ~13,748 |
 | From Inside Gotham's Walls | 18.00% | ~13,748 |
 | Protector of Gotham | 17.00% | ~12,984 |
-| Universal Health Scare | 16.00% | ~12,220 |
+| Universal Health Scare | 16.00% | ~12,221 |
 | In Your Element | 15.00% | ~11,457 |
 | Voiceless | 15.00% | ~11,457 |
 | Rock and a Hard Place | 14.00% | ~10,693 |
@@ -38,7 +38,7 @@ Rating: 4.18 (Ranked 925)
 | Drone You Out | 10.00% | ~7,638 |
 | Out of Their League | 9.00% | ~6,874 |
 | Solid Alibi | 9.00% | ~6,874 |
-| Fusion Expert | 7.00% | ~5,346 |
+| Fusion Expert | 7.00% | ~5,347 |
 | Expert Crime Fighter | 6.00% | ~4,583 |
 | Family Meeting | 6.00% | ~4,583 |
 | A Worthy Successor | 6.00% | ~4,583 |
@@ -67,8 +67,8 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,378 (Ranked 97)  
-Completed: 123 (0.16%) (Ranked 259)  
+Progressed: 76,379 (Ranked 97)  
+Completed: 123 (0.16%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,7 +274,7 @@ Completed: 123 (0.16%) (Ranked 259)
 | 2023-11-10 | 76,243 | 123 |
 | 2023-11-11 | 76,302 | 123 |
 | 2023-11-12 | 76,353 | 123 |
-| 2023-11-13 | 76,378 | 123 |
+| 2023-11-13 | 76,379 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,935  (Ranked 98)  
 Sum: 4,979 (Ranked 137)  

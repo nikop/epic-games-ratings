@@ -28,7 +28,7 @@ Rating: 4.28 (Ranked 849)
 | The Fortress | 0.30% | ~10 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,417 (Ranked 200)  
-Completed: 0 (0.00%) (Ranked 350)  
+Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -89,8 +89,8 @@ Completed: 0 (0.00%) (Ranked 350)
 | 2023-11-13 | 3,417 | 0 |
 ## Awards
 Max (Diverse Characters): 37  (Ranked 462)  
-Sum: 88 (Ranked 450)  
-Diff (max vs sum): 12  
+Sum: 88 (Ranked 451)  
+Diff (max vs sum): 11  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 37 |

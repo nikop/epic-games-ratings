@@ -15,8 +15,8 @@ Rating: 4.61 (Ranked 384)
 | Freed Lands of Manuhari | 0.90% | ~48 |
 | There Can Only Be One! | 0.70% | ~38 |
 | Full Ascension | 0.70% | ~38 |
+| Magical Synergy | 0.70% | ~38 |
 | Stronger Together | 0.60% | ~32 |
-| Magical Synergy | 0.60% | ~32 |
 | Seat of Power | 0.60% | ~32 |
 | Chaos Surge | 0.60% | ~32 |
 | Spoils of War | 0.60% | ~32 |
@@ -37,6 +37,7 @@ Rating: 4.61 (Ranked 384)
 | My Final Form | 0.30% | ~16 |
 | Prometheus Avenged | 0.30% | ~16 |
 | A Conqueror's Cohort | 0.30% | ~16 |
+| I've Got Everything I Need Right Here | 0.20% | ~11 |
 | Return of the Wizard King | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
@@ -47,7 +48,6 @@ Rating: 4.61 (Ranked 384)
 | The Eternal Court | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
-| I've Got Everything I Need Right Here | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
@@ -67,7 +67,7 @@ Rating: 4.61 (Ranked 384)
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 5,385 (Ranked 184)  
-Completed: 7 (0.13%) (Ranked 263)  
+Completed: 7 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

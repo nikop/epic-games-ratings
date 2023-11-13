@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 588)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 8.00% | ~2,474 |
-| Advancement | 6.00% | ~1,855 |
-| Meticulously Efficient | 6.00% | ~1,855 |
+| Advancement | 6.00% | ~1,856 |
+| Meticulously Efficient | 6.00% | ~1,856 |
 | Clutch Capture | 4.00% | ~1,237 |
 | I collect Spores, Molds, and Fungi | 4.00% | ~1,237 |
 | Discovery | 4.00% | ~1,237 |
@@ -24,18 +24,18 @@ Rating: 4.50 (Ranked 588)
 | Icing on the Cake | 3.00% | ~928 |
 | Right back at ya | 3.00% | ~928 |
 | Whoopsie | 3.00% | ~928 |
-| Back Off | 2.00% | ~618 |
-| We have the best insurance | 2.00% | ~618 |
-| Ectoplasmic Entity | 2.00% | ~618 |
-| Legions | 2.00% | ~618 |
-| Pesky Jerks | 2.00% | ~618 |
-| Rift Destroyer | 2.00% | ~618 |
-| Seasoned | 2.00% | ~618 |
-| Side Hustle | 2.00% | ~618 |
-| Skilled | 2.00% | ~618 |
-| Stunner | 2.00% | ~618 |
-| Summoner | 2.00% | ~618 |
-| Welcome to the Crew | 2.00% | ~618 |
+| Back Off | 2.00% | ~619 |
+| We have the best insurance | 2.00% | ~619 |
+| Ectoplasmic Entity | 2.00% | ~619 |
+| Legions | 2.00% | ~619 |
+| Pesky Jerks | 2.00% | ~619 |
+| Rift Destroyer | 2.00% | ~619 |
+| Seasoned | 2.00% | ~619 |
+| Side Hustle | 2.00% | ~619 |
+| Skilled | 2.00% | ~619 |
+| Stunner | 2.00% | ~619 |
+| Summoner | 2.00% | ~619 |
+| Welcome to the Crew | 2.00% | ~619 |
 | Collector | 1.00% | ~309 |
 | Diabolical | 1.00% | ~309 |
 | Escape Artist | 1.00% | ~309 |
@@ -57,8 +57,8 @@ Rating: 4.50 (Ranked 588)
 | Mycophile | 0.10% | ~31 |
 | Ultimate Defense | 0.10% | ~31 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,922 (Ranked 122)  
-Completed: 68 (0.22%) (Ranked 243)  
+Progressed: 30,926 (Ranked 122)  
+Completed: 68 (0.22%) (Ranked 244)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,7 +264,7 @@ Completed: 68 (0.22%) (Ranked 243)
 | 2023-11-10 | 30,704 | 66 |
 | 2023-11-11 | 30,795 | 67 |
 | 2023-11-12 | 30,897 | 67 |
-| 2023-11-13 | 30,922 | 68 |
+| 2023-11-13 | 30,926 | 68 |
 ## Awards
 Max (Great for Beginners): 313  (Ranked 247)  
 Sum: 2,781 (Ranked 179)  

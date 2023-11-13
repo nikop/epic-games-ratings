@@ -6,49 +6,49 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~635,205 |
-| Escaped Asphodel | 79.00% | ~563,833 |
-| Arms Collector | 70.00% | ~499,599 |
-| Friends in High Places | 67.00% | ~478,188 |
-| Escaped Elysium | 66.00% | ~471,051 |
-| Chthonic Colleagues | 62.00% | ~442,502 |
-| Is There No Escape? | 52.00% | ~371,131 |
-| Death Dealer | 45.00% | ~321,171 |
-| Skelly Slayer | 42.00% | ~299,759 |
-| Well Stocked | 40.00% | ~285,485 |
-| Back to Work | 38.00% | ~271,211 |
-| Day-or-Night Trader | 37.00% | ~264,074 |
-| Blessed by the Gods | 37.00% | ~264,074 |
-| Urge to Sing | 36.00% | ~256,937 |
-| Blood Bound | 35.00% | ~249,800 |
-| Three-Headed Boy | 32.00% | ~228,388 |
-| River Denizens | 28.00% | ~199,840 |
-| Grown Close | 28.00% | ~199,840 |
-| Home Makeover | 27.00% | ~192,703 |
-| Had to Happen | 25.00% | ~178,428 |
-| The Family Secret | 25.00% | ~178,428 |
-| Tools of the Architect | 23.00% | ~164,154 |
-| Master of Arms | 23.00% | ~164,154 |
-| To Charon's Credit | 22.00% | ~157,017 |
-| Rare Collectible | 22.00% | ~157,017 |
-| Weapon of Fate | 21.00% | ~149,880 |
-| Something From Everyone | 19.00% | ~135,605 |
-| Hold the Onions | 18.00% | ~128,468 |
-| Well Versed | 17.00% | ~121,331 |
-| War-God's Bloodlust | 15.00% | ~107,057 |
-| Musician and Muse | 14.00% | ~99,920 |
-| The Useless Trinket | 13.00% | ~92,783 |
-| Champion of Elysium | 13.00% | ~92,783 |
+| Escaped Tartarus | 89.00% | ~635,211 |
+| Escaped Asphodel | 79.00% | ~563,839 |
+| Arms Collector | 70.00% | ~499,604 |
+| Friends in High Places | 67.00% | ~478,192 |
+| Escaped Elysium | 66.00% | ~471,055 |
+| Chthonic Colleagues | 62.00% | ~442,506 |
+| Is There No Escape? | 52.00% | ~371,134 |
+| Death Dealer | 45.00% | ~321,174 |
+| Skelly Slayer | 42.00% | ~299,762 |
+| Well Stocked | 40.00% | ~285,488 |
+| Back to Work | 38.00% | ~271,214 |
+| Day-or-Night Trader | 37.00% | ~264,076 |
+| Blessed by the Gods | 37.00% | ~264,076 |
+| Urge to Sing | 36.00% | ~256,939 |
+| Blood Bound | 35.00% | ~249,802 |
+| Three-Headed Boy | 32.00% | ~228,390 |
+| River Denizens | 28.00% | ~199,842 |
+| Grown Close | 28.00% | ~199,842 |
+| Home Makeover | 27.00% | ~192,704 |
+| Had to Happen | 25.00% | ~178,430 |
+| The Family Secret | 25.00% | ~178,430 |
+| Tools of the Architect | 23.00% | ~164,156 |
+| Master of Arms | 23.00% | ~164,156 |
+| To Charon's Credit | 22.00% | ~157,018 |
+| Rare Collectible | 22.00% | ~157,018 |
+| Weapon of Fate | 21.00% | ~149,881 |
+| Something From Everyone | 19.00% | ~135,607 |
+| Hold the Onions | 18.00% | ~128,470 |
+| Well Versed | 17.00% | ~121,332 |
+| War-God's Bloodlust | 15.00% | ~107,058 |
+| Musician and Muse | 14.00% | ~99,921 |
+| The Useless Trinket | 13.00% | ~92,784 |
+| Champion of Elysium | 13.00% | ~92,784 |
 | Slashed Benefits | 12.00% | ~85,646 |
-| Haste of Hermes | 11.00% | ~78,508 |
-| Bad Call | 10.00% | ~71,371 |
-| Nyx's Mirror | 10.00% | ~71,371 |
-| Night and Darkness | 10.00% | ~71,371 |
-| End to Torment | 10.00% | ~71,371 |
-| Dark Reflections | 9.00% | ~64,234 |
-| Thanks, But No Thanks | 9.00% | ~64,234 |
-| Infernal Arms | 9.00% | ~64,234 |
-| Divided by Death | 8.00% | ~57,097 |
+| Haste of Hermes | 11.00% | ~78,509 |
+| Bad Call | 10.00% | ~71,372 |
+| Nyx's Mirror | 10.00% | ~71,372 |
+| Night and Darkness | 10.00% | ~71,372 |
+| End to Torment | 10.00% | ~71,372 |
+| Dark Reflections | 9.00% | ~64,235 |
+| Thanks, But No Thanks | 9.00% | ~64,235 |
+| Infernal Arms | 9.00% | ~64,235 |
+| Divided by Death | 8.00% | ~57,098 |
 | Harsh Conditions | 7.00% | ~49,960 |
 | One for the Ages | 7.00% | ~49,960 |
 | Complete Set | 6.00% | ~42,823 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,549 |
 | Friends Forever | 4.00% | ~28,549 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,713 (Ranked 22)  
+Progressed: 713,720 (Ranked 22)  
 Completed: 6,480 (0.91%) (Ranked 164)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -263,15 +263,15 @@ Completed: 6,480 (0.91%) (Ranked 164)
 | 2023-11-10 | 713,278 | 6,474 |
 | 2023-11-11 | 713,473 | 6,476 |
 | 2023-11-12 | 713,636 | 6,480 |
-| 2023-11-13 | 713,713 | 6,480 |
+| 2023-11-13 | 713,720 | 6,480 |
 ## Awards
 Max (Character Customization): 3,364  (Ranked 93)  
-Sum: 8,199 (Ranked 102)  
+Sum: 8,201 (Ranked 102)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,364 |
-| This game has Great Boss Battles | 2,372 |
+| This game has Great Boss Battles | 2,374 |
 | This game is Highly Recommended | 275 |
 | This game is Great for Beginners | 272 |
 | This game has Amazing Storytelling | 260 |
@@ -563,4 +563,4 @@ Diff (max vs sum): -9
 | 2023-11-10 | 4.92 | - | 3,360 | 8,187 |
 | 2023-11-11 | 4.92 | - | 3,363 | 8,193 |
 | 2023-11-12 | 4.92 | - | 3,363 | 8,198 |
-| 2023-11-13 | 4.92 | - | 3,364 | 8,199 |
+| 2023-11-13 | 4.92 | - | 3,364 | 8,201 |

@@ -31,8 +31,8 @@ Rating: 4.42 (Ranked 714)
 | All mine | 30.00% | ~649 |
 | Mole | 30.00% | ~649 |
 | Socializer | 30.00% | ~649 |
+| General Manager | 28.00% | ~606 |
 | Country Life | 28.00% | ~606 |
-| General Manager | 27.00% | ~584 |
 | Hostile Takeover | 25.00% | ~541 |
 | Seven at one stroke | 24.00% | ~519 |
 | Breaking Ground | 22.00% | ~476 |
@@ -62,7 +62,7 @@ Rating: 4.42 (Ranked 714)
 | Together we stand | 0.60% | ~13 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,163 (Ranked 218)  
-Completed: 0 (0.00%) (Ranked 350)  
+Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

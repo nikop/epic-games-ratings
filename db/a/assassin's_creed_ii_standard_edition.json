@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-2",
   "Ranking_Rating": 125,
   "Ranking_Popularity": 480,
-  "Ranking_PopularitySum": 368,
+  "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 740,
-  "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 448,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 351,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
     "PcReleaseDate": "2014-11-11T15:00:00+00:00",
@@ -1014,10 +1014,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 283,
       "NumberOfAwardsMax": 33
+    },
+    {
+      "Time": "2023-11-13T16:03:04.6226589+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 284,
+      "NumberOfAwardsMax": 33
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 283,
+  "NumberOfAwards": 284,
   "NumberOfAwardsMax": 33,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
@@ -1037,7 +1043,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 29
+      "Count": 30
     },
     {
       "Text": "This game is Relaxing",
@@ -1093,8 +1099,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2023-11-13T03:02:56.1907158+00:00",
+  "LastChanged": "2023-11-13T16:03:04.6226587+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:09.3955048+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:02:56.8553587+00:00",
-  "LastUpdate_Achievements": "2023-11-13T15:06:01.424647+00:00"
+  "LastUpdate_Ratings": "2023-11-13T16:03:04.6226593+00:00",
+  "LastUpdate_Achievements": "2023-11-13T16:05:53.2610446+00:00"
 }

@@ -6,9 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 3.00% | ~26,896 |
+| V for Vendetta | 3.00% | ~26,897 |
 | Gun Fu | 1.00% | ~8,966 |
-| Relic Ruler | 0.90% | ~227 |
+| Relic Ruler | 1.00% | ~252 |
 | Full Body Conversion | 0.70% | ~6,276 |
 | Right Back At Ya | 0.60% | ~5,379 |
 | True Soldier | 0.60% | ~5,379 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,550 (Ranked 15)  
-Completed: 2,773 (0.31%) (Ranked 226)  
+Progressed: 896,560 (Ranked 15)  
+Completed: 2,773 (0.31%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -281,10 +281,10 @@ Completed: 2,773 (0.31%) (Ranked 226)
 | 2023-11-10 | 896,078 | 2,761 |
 | 2023-11-11 | 896,271 | 2,766 |
 | 2023-11-12 | 896,462 | 2,771 |
-| 2023-11-13 | 896,550 | 2,773 |
+| 2023-11-13 | 896,560 | 2,773 |
 ## Awards
 Max (Character Customization): 105,188  (Ranked 9)  
-Sum: 351,530 (Ranked 10)  
+Sum: 351,594 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -294,7 +294,7 @@ Diff (max vs sum): -1
 | This game has Diverse Characters | 20,675 |
 | This game is Highly Recommended | 19,854 |
 | This game has Amazing Storytelling | 19,715 |
-| This game is Extremely Fun | 19,492 |
+| This game is Extremely Fun | 19,556 |
 | This game has Amazing Characters | 19,354 |
 | This game is Relaxing | 18,613 |
 | This game has Quickly Understood Controls | 18,556 |
@@ -600,4 +600,4 @@ Diff (max vs sum): -1
 | 2023-11-10 | 4.64 | - | 104,816 | 348,364 |
 | 2023-11-11 | 4.64 | - | 105,016 | 349,420 |
 | 2023-11-12 | 4.64 | - | 105,188 | 350,761 |
-| 2023-11-13 | 4.64 | - | 105,188 | 351,530 |
+| 2023-11-13 | 4.64 | - | 105,188 | 351,594 |

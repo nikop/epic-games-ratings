@@ -2,10 +2,10 @@
   "ID": "e18be81f77f346dfbc4467f4ed715e27",
   "Name": "Blanc",
   "ProductSlug": "blanc-703b40",
-  "Ranking_EOS_Progress": 207,
-  "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2909,
+  "EOS_Progressed": 2911,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4091,6 +4091,11 @@
       "Time": "2023-11-13T02:25:02.6693922+00:00",
       "NumProgressed": 2909,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-13T16:03:47.587416+00:00",
+      "NumProgressed": 2911,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -4174,7 +4179,7 @@
       "Name": "Stronger together",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "THE_END",
@@ -4205,7 +4210,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 2909,
+      "Progressed": 2911,
       "Completed": 6
     }
   ],
@@ -4213,8 +4218,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2023-11-13T15:03:43.0081195+00:00",
+  "LastChanged_Achievements": "2023-11-13T16:03:47.5874144+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:19.7535044+00:00",
-  "LastUpdate_Ratings": "2023-11-13T14:58:13.3922345+00:00",
-  "LastUpdate_Achievements": "2023-11-13T15:03:43.0081453+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:58:18.1359857+00:00",
+  "LastUpdate_Achievements": "2023-11-13T16:03:47.5874451+00:00"
 }

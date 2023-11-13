@@ -5,16 +5,16 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,824 |
-| The Killing Jar | 8.00% | ~17,622 |
-| Expanding Horizons | 7.00% | ~15,419 |
-| Quest for Survival | 7.00% | ~15,419 |
-| Not Your Average Trait | 7.00% | ~15,419 |
-| Gleaming the Cube | 6.00% | ~13,216 |
-| Familiar Face | 6.00% | ~13,216 |
-| Duality | 6.00% | ~13,216 |
-| Boss'n Up | 6.00% | ~13,216 |
-| Trait Chaser | 6.00% | ~13,216 |
+| First of Many | 9.00% | ~19,826 |
+| The Killing Jar | 8.00% | ~17,623 |
+| Expanding Horizons | 7.00% | ~15,420 |
+| Quest for Survival | 7.00% | ~15,420 |
+| Not Your Average Trait | 7.00% | ~15,420 |
+| Gleaming the Cube | 6.00% | ~13,217 |
+| Familiar Face | 6.00% | ~13,217 |
+| Duality | 6.00% | ~13,217 |
+| Boss'n Up | 6.00% | ~13,217 |
+| Trait Chaser | 6.00% | ~13,217 |
 | Not So Special Now | 5.00% | ~11,014 |
 | Not a Janitor | 5.00% | ~11,014 |
 | Equal Measures | 5.00% | ~11,014 |
@@ -34,30 +34,30 @@ Rating: 4.75 (Ranked 145)
 | The Web | 4.00% | ~8,811 |
 | Scrap Collector | 4.00% | ~8,811 |
 | All These Traits� | 4.00% | ~8,811 |
-| Am I Seeing This? | 3.00% | ~6,608 |
-| Forever is a Long Time Coming | 3.00% | ~6,608 |
-| The Agenda | 3.00% | ~6,608 |
-| Tall Tales | 3.00% | ~6,608 |
-| Bad Moon Rising | 3.00% | ~6,608 |
-| Strapped | 3.00% | ~6,608 |
-| Edgelord | 3.00% | ~6,608 |
-| The Ultimate Weapon | 3.00% | ~6,608 |
-| No One Should Have All That Power | 3.00% | ~6,608 |
-| Crafty | 2.00% | ~4,405 |
-| Only Human | 2.00% | ~4,405 |
-| Red Room | 2.00% | ~4,405 |
-| The Collector | 2.00% | ~4,405 |
-| Scrap Hoarder | 2.00% | ~4,405 |
-| Carnage in C-Minor | 2.00% | ~4,405 |
-| Maxed Out! | 2.00% | ~4,405 |
-| Transmutate | 2.00% | ~4,405 |
+| Am I Seeing This? | 3.00% | ~6,609 |
+| Forever is a Long Time Coming | 3.00% | ~6,609 |
+| The Agenda | 3.00% | ~6,609 |
+| Tall Tales | 3.00% | ~6,609 |
+| Bad Moon Rising | 3.00% | ~6,609 |
+| Strapped | 3.00% | ~6,609 |
+| Edgelord | 3.00% | ~6,609 |
+| The Ultimate Weapon | 3.00% | ~6,609 |
+| No One Should Have All That Power | 3.00% | ~6,609 |
+| Crafty | 2.00% | ~4,406 |
+| Only Human | 2.00% | ~4,406 |
+| Red Room | 2.00% | ~4,406 |
+| The Collector | 2.00% | ~4,406 |
+| Scrap Hoarder | 2.00% | ~4,406 |
+| Carnage in C-Minor | 2.00% | ~4,406 |
+| Maxed Out! | 2.00% | ~4,406 |
+| Transmutate | 2.00% | ~4,406 |
 | Ghost in the Machine | 1.00% | ~2,203 |
 | The Trigger | 1.00% | ~2,203 |
 | Cutting Edge | 1.00% | ~2,203 |
 | Proving Grounds | 1.00% | ~2,203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,270 (Ranked 68)  
-Completed: 444 (0.20%) (Ranked 249)  
+Progressed: 220,286 (Ranked 68)  
+Completed: 444 (0.20%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,10 +176,10 @@ Completed: 444 (0.20%) (Ranked 249)
 | 2023-11-10 | 219,442 | 438 |
 | 2023-11-11 | 219,801 | 439 |
 | 2023-11-12 | 220,140 | 441 |
-| 2023-11-13 | 220,270 | 444 |
+| 2023-11-13 | 220,286 | 444 |
 ## Awards
 Max (Great Boss Battles): 2,158  (Ranked 109)  
-Sum: 4,892 (Ranked 139)  
+Sum: 4,897 (Ranked 139)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
@@ -188,12 +188,12 @@ Diff (max vs sum): -30
 | This game has Challenging Combat | 300 |
 | This game is Relaxing | 294 |
 | This game is Extremely Fun | 292 |
-| This game is Highly Recommended | 288 |
+| This game is Highly Recommended | 291 |
 | This game has Amazing Storytelling | 279 |
 | This game has Quickly Understood Controls | 272 |
 | This game has Amazing Characters | 262 |
 | This game has Unique Visuals | 230 |
-| This game has a Creative Community | 206 |
+| This game has a Creative Community | 208 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -307,4 +307,4 @@ Diff (max vs sum): -30
 | 2023-11-10 | 4.75 | 2,129 | 4,800 |
 | 2023-11-11 | 4.75 | 2,144 | 4,827 |
 | 2023-11-12 | 4.75 | 2,158 | 4,870 |
-| 2023-11-13 | 4.75 | 2,158 | 4,892 |
+| 2023-11-13 | 4.75 | 2,158 | 4,897 |

@@ -6,9 +6,9 @@
   "Ranking_Popularity": 285,
   "Ranking_PopularitySum": 219,
   "Ranking_EOS_Progress": 152,
-  "Ranking_EOS_Completed": 287,
-  "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_Completed": 288,
+  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1051,9 +1051,9 @@
       "Count": 109
     }
   ],
-  "EOS_Progressed": 12127,
+  "EOS_Progressed": 12133,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 892,
+  "EOS_NewPlayers": 886,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -9931,6 +9931,11 @@
       "Time": "2023-11-13T15:08:26.3148298+00:00",
       "NumProgressed": 12127,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-13T16:08:39.0375592+00:00",
+      "NumProgressed": 12133,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -9991,7 +9996,7 @@
       "Name": "Bye Bye",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 4972
+      "UsersEstimate": 4975
     },
     {
       "ID": "a_19",
@@ -10007,7 +10012,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "a_20",
@@ -10047,7 +10052,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "a_26",
@@ -10190,7 +10195,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 12127,
+      "Progressed": 12133,
       "Completed": 10
     }
   ],
@@ -10198,8 +10203,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2023-11-07T18:01:57.8090042+00:00",
-  "LastChanged_Achievements": "2023-11-13T15:08:26.3148295+00:00",
+  "LastChanged_Achievements": "2023-11-13T16:08:39.0375588+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:12.3548109+00:00",
-  "LastUpdate_Ratings": "2023-11-13T14:59:31.7259505+00:00",
-  "LastUpdate_Achievements": "2023-11-13T15:08:26.3148747+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:59:29.145363+00:00",
+  "LastUpdate_Achievements": "2023-11-13T16:08:39.0376463+00:00"
 }

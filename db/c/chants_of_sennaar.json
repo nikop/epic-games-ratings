@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 538,
+  "EOS_Progressed": 539,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.39,
+  "EOS_Completed_Percentage": 5.38,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2300,6 +2300,11 @@
       "Time": "2023-11-13T09:05:41.492734+00:00",
       "NumProgressed": 538,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-13T16:06:05.3300744+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 25,
@@ -2319,7 +2324,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "META_ALL_LINK",
@@ -2391,7 +2396,7 @@
       "Name": "For its own good",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2431,7 +2436,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -2447,7 +2452,7 @@
       "Name": "Champollion",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2510,14 +2515,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 538,
+      "Progressed": 539,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-13T15:06:14.5676909+00:00",
+  "LastChanged_Achievements": "2023-11-13T16:06:05.3300742+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
   "LastUpdate_Ratings": "2023-11-13T15:00:43.3203239+00:00",
-  "LastUpdate_Achievements": "2023-11-13T15:06:14.5677129+00:00"
+  "LastUpdate_Achievements": "2023-11-13T16:06:05.3301052+00:00"
 }

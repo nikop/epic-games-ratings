@@ -6,7 +6,7 @@
   "Ranking_Popularity": 135,
   "Ranking_PopularitySum": 222,
   "Ranking_EOS_Progress": 42,
-  "Ranking_EOS_Completed": 263,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 171,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
@@ -1445,9 +1445,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428970,
+  "EOS_Progressed": 428971,
   "EOS_Completed": 545,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -15005,6 +15005,11 @@
       "Time": "2023-11-13T14:06:00.4767967+00:00",
       "NumProgressed": 428970,
       "NumCompleted": 545
+    },
+    {
+      "Time": "2023-11-13T16:06:00.6905252+00:00",
+      "NumProgressed": 428971,
+      "NumCompleted": 545
     }
   ],
   "TotalAchievements": 41,
@@ -15024,7 +15029,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167298
+      "UsersEstimate": 167299
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -15032,7 +15037,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257382
+      "UsersEstimate": 257383
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -15040,7 +15045,7 @@
       "Name": "Crossing Over",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124401
+      "UsersEstimate": 124402
     },
     {
       "ID": "ACH_BOSS_ROT_GOD",
@@ -15048,7 +15053,7 @@
       "Name": "Restore Balance",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 107242
+      "UsersEstimate": 107243
     },
     {
       "ID": "ACH_BOSS_TARO",
@@ -15056,7 +15061,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180167
+      "UsersEstimate": 180168
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -15096,7 +15101,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 257382
+      "UsersEstimate": 257383
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -15104,7 +15109,7 @@
       "Name": "Quick Draw",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 124401
+      "UsersEstimate": 124402
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -15200,7 +15205,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308858
+      "UsersEstimate": 308859
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -15216,7 +15221,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 300279
+      "UsersEstimate": 300280
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -15232,7 +15237,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343176
+      "UsersEstimate": 343177
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -15264,7 +15269,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197326
+      "UsersEstimate": 197327
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -15296,7 +15301,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240223
+      "UsersEstimate": 240224
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -15343,15 +15348,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428970,
+      "Progressed": 428971,
       "Completed": 545
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-12T15:00:41.791298+00:00",
-  "LastChanged_Achievements": "2023-11-13T15:06:09.528511+00:00",
+  "LastChanged_Achievements": "2023-11-13T16:06:00.690525+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:23.5883235+00:00",
-  "LastUpdate_Ratings": "2023-11-13T14:57:18.1723918+00:00",
-  "LastUpdate_Achievements": "2023-11-13T15:06:09.5286103+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:57:26.2003268+00:00",
+  "LastUpdate_Achievements": "2023-11-13T16:06:00.690618+00:00"
 }

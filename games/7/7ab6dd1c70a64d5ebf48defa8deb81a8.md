@@ -26,7 +26,7 @@
 | Miner | 9.00% | ~17 |
 | Flawless Victory | 8.00% | ~15 |
 | Calm before the Storm | 6.00% | ~11 |
-| To Battle | 5.00% | ~9 |
+| To Battle | 6.00% | ~11 |
 | Godslayer | 5.00% | ~9 |
 | A Queen's Tale | 4.00% | ~7 |
 | Clear Sight | 2.00% | ~4 |
