@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1236,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -3902,9 +3902,9 @@
       "ID": "achievement_46",
       "SetID": "d252ncf",
       "Name": "The Convict",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 420
     },
     {
       "ID": "achievement_47",
@@ -4198,9 +4198,9 @@
       "ID": "achievement_8",
       "SetID": "b9pe172",
       "Name": "Warp Mastery",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 136
     },
     {
       "ID": "achievement_80",
@@ -4222,9 +4222,9 @@
       "ID": "achievement_82",
       "SetID": "d252ncf",
       "Name": "World Shaker",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 309
     },
     {
       "ID": "achievement_83",
@@ -4318,9 +4318,9 @@
       "ID": "achievement_93",
       "SetID": "d252ncf",
       "Name": "Liberator",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 297
     },
     {
       "ID": "achievement_94",
@@ -4386,8 +4386,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:04:24.2878102+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:04:28.6750124+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:03:04.4582663+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:04:24.2880523+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:03:00.7811671+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:04:28.6752687+00:00"
 }

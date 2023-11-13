@@ -8,11 +8,11 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | Me and My Familiar | 2.00% | ~29 |
 | Gotta Ca... Must Collect All of Them | 2.00% | ~29 |
+| This Too Shall Pass | 2.00% | ~29 |
 | How Romantic! | 2.00% | ~29 |
 | The Cost of Heroism | 2.00% | ~29 |
 | Cutthroat Competitors | 2.00% | ~29 |
 | Passing Shadow | 1.00% | ~15 |
-| This Too Shall Pass | 1.00% | ~15 |
 | War Endured | 1.00% | ~15 |
 | Daybreak | 1.00% | ~15 |
 | Core Failure | 1.00% | ~15 |
@@ -25,10 +25,10 @@ Number of Ratings: 45  (23.09.2022)
 | Thematic Divergence | 0.40% | ~6 |
 | A Story of Heroes | 0.40% | ~6 |
 | Empty the Caves | 0.30% | ~4 |
+| Chain Reaction | 0.30% | ~4 |
 | Turncoat | 0.30% | ~4 |
 | No Time for Clawmonsters | 0.30% | ~4 |
 | Bonebreakers | 0.20% | ~3 |
-| Chain Reaction | 0.20% | ~3 |
 | Another Tale to Tell | 0.20% | ~3 |
 | Bears are Scary | 0.20% | ~3 |
 | Storied Past | 0.10% | ~1 |

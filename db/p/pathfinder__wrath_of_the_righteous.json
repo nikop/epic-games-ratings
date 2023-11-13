@@ -2,13 +2,13 @@
   "ID": "975d251af0384c88a898a996bda4881d",
   "Name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
   "ProductSlug": "pathfinder-wrath-of-the-righteous",
-  "Ranking_Rating": 125,
+  "Ranking_Rating": 124,
   "Ranking_Popularity": 121,
   "Ranking_PopularitySum": 120,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -15540,9 +15540,9 @@
       "ID": "03_BannerOverCitadel",
       "SetID": "989of5o",
       "Name": "Banner over the Citadel",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1692
     },
     {
       "ID": "04_FithCrusade",
@@ -16466,8 +16466,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-13T15:59:35.0143496+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:07:32.9209141+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:07:31.7781322+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5202817+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:00:20.6092618+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:07:32.9211542+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:00:23.4987792+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:07:31.7784128+00:00"
 }

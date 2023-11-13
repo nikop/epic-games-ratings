@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 384,
-  "Ranking_Popularity": 482,
+  "Ranking_Popularity": 483,
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7088,9 +7088,9 @@
       "ID": "1",
       "SetID": "3aa2279",
       "Name": "Valley of Wonders",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "10",
@@ -7312,9 +7312,9 @@
       "ID": "35",
       "SetID": "3aa2279",
       "Name": "I Want to Break Free",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "36",
@@ -7360,9 +7360,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "41",
@@ -7456,9 +7456,9 @@
       "ID": "47",
       "SetID": "7132754",
       "Name": "Duality",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "48",
@@ -7583,8 +7583,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:04:44.514696+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:04:48.6311458+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:57:16.4916786+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:04:44.5148346+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:57:19.8832202+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:04:48.6312683+00:00"
 }

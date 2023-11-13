@@ -5,24 +5,24 @@ Rating: 4.60 (Ranked 410)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,579 |
+| Azoria Beckons | 72.00% | ~5,580 |
 | A Thorny Situation | 71.00% | ~5,502 |
-| ... And Spit Back Out | 61.00% | ~4,727 |
-| Break-Net Speed | 49.00% | ~3,797 |
+| ... And Spit Back Out | 61.00% | ~4,728 |
+| Break-Net Speed | 49.00% | ~3,798 |
 | Bramble Breaker | 47.00% | ~3,642 |
 | Miner 49er | 43.00% | ~3,332 |
 | Humble Collector | 42.00% | ~3,255 |
-| Calm Sailing | 37.00% | ~2,867 |
+| Calm Sailing | 37.00% | ~2,868 |
 | Open the Gate! | 34.00% | ~2,635 |
 | Mist Walker | 32.00% | ~2,480 |
 | Lumberjack | 27.00% | ~2,092 |
 | Oui, Chef! | 23.00% | ~1,782 |
 | Clear the Air | 19.00% | ~1,472 |
-| Botanical Breakthrough | 17.00% | ~1,317 |
+| Botanical Breakthrough | 17.00% | ~1,318 |
 | Search for the Hairy Grell | 14.00% | ~1,085 |
 | Beach Comber | 14.00% | ~1,085 |
 | Higher Tax Bracket | 14.00% | ~1,085 |
-| Skilled | 9.00% | ~697 |
+| Skilled | 9.00% | ~698 |
 | Flaming Hot Completos | 8.00% | ~620 |
 | Got to Catch Them All | 8.00% | ~620 |
 | Rumble in the Jumble | 8.00% | ~620 |
@@ -30,18 +30,18 @@ Rating: 4.60 (Ranked 410)
 | Fae Farmer | 7.00% | ~542 |
 | Scattered Scroll Scrounger | 6.00% | ~465 |
 | Azorian Anniversary | 6.00% | ~465 |
-| I Now Pronounce You... | 5.00% | ~387 |
+| I Now Pronounce You... | 5.00% | ~388 |
 | Chatty Neighbor | 4.00% | ~310 |
 | House Proud | 4.00% | ~310 |
 | Right Tool For the Job | 3.00% | ~232 |
 | Captain of Cozy | 2.00% | ~155 |
-| Angling Authority | 1.00% | ~77 |
-| Cloverfield Island | 0.20% | ~15 |
-| Giving the People What They Want | 0.20% | ~15 |
+| Angling Authority | 1.00% | ~78 |
+| Cloverfield Island | 0.20% | ~16 |
+| Giving the People What They Want | 0.20% | ~16 |
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,749 (Ranked 169)  
+Progressed: 7,750 (Ranked 169)  
 Completed: 1 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -122,7 +122,7 @@ Completed: 1 (0.01%) (Ranked 329)
 | 2023-11-10 | 7,674 | 1 |
 | 2023-11-11 | 7,700 | 1 |
 | 2023-11-12 | 7,736 | 1 |
-| 2023-11-13 | 7,749 | 1 |
+| 2023-11-13 | 7,750 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

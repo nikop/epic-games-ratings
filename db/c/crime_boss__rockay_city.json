@@ -4,11 +4,11 @@
   "ProductSlug": "crime-boss",
   "Ranking_Rating": 1005,
   "Ranking_Popularity": 203,
-  "Ranking_PopularitySum": 176,
+  "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 61,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 60,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4605,9 +4605,9 @@
       "Count": 488
     }
   ],
-  "EOS_Progressed": 90962,
+  "EOS_Progressed": 90975,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1370,
+  "EOS_NewPlayers": 1383,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25145,6 +25145,11 @@
       "Time": "2023-11-13T18:06:06.4686586+00:00",
       "NumProgressed": 90962,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-13T19:06:07.8503654+00:00",
+      "NumProgressed": 90975,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -25156,7 +25161,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ACH_0011",
@@ -25308,7 +25313,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ACH_0211",
@@ -25324,7 +25329,7 @@
       "Name": "Too Old for This",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ACH_0300",
@@ -25388,7 +25393,7 @@
       "Name": "Fancy Pants",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ACH_0431",
@@ -25483,13 +25488,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90962,
+      "Progressed": 90975,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19309,
+      "Progressed": 19322,
       "Completed": 15567
     }
   ],
@@ -25497,8 +25502,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-13T13:58:12.3445697+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:06:06.468658+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:06:07.8503648+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:58:38.5479169+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:06:06.4688348+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:58:40.4373974+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:06:07.850556+00:00"
 }

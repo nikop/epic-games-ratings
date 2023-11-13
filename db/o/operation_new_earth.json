@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -65,7 +65,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1820,
+  "EOS_Progressed": 1821,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -6830,6 +6830,11 @@
       "Time": "2023-11-13T12:07:39.2218022+00:00",
       "NumProgressed": 1820,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T19:07:08.8453113+00:00",
+      "NumProgressed": 1821,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6961,7 +6966,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -7025,7 +7030,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -7144,7 +7149,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1820,
+      "Progressed": 1821,
       "Completed": 1
     }
   ],
@@ -7152,8 +7157,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:07:09.4698348+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:07:08.8453106+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.0874447+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:59:41.4265714+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:07:09.4699229+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:59:45.8719205+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:07:08.8453927+00:00"
 }

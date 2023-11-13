@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 218,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -1276,9 +1276,9 @@
       "ID": "achievement_10",
       "SetID": "18al4io",
       "Name": "Control is an Illusion",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 63
+      "UsersEstimate": 65
     },
     {
       "ID": "achievement_11",
@@ -1653,8 +1653,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-13T02:59:47.3334037+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:08:32.5565974+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:08:29.5853526+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:01:03.8006058+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:08:32.556649+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:01:06.9592492+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:08:29.5854153+00:00"
 }

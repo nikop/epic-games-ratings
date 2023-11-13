@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1453,9 +1453,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158099,
+  "EOS_Progressed": 158106,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1170,
+  "EOS_NewPlayers": 1171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15518,6 +15518,11 @@
       "Time": "2023-11-13T18:04:48.3771268+00:00",
       "NumProgressed": 158099,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T19:04:52.4122647+00:00",
+      "NumProgressed": 158106,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15585,7 +15590,7 @@
       "Name": "Breath",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -15617,7 +15622,7 @@
       "Name": "Artisan",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -15647,9 +15652,9 @@
       "ID": "DEFEAT_FLOWERVULTURE",
       "SetID": "72k7oh",
       "Name": "Host",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1262
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -15657,7 +15662,7 @@
       "Name": "Hush",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -15777,7 +15782,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -15896,21 +15901,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157682,
+      "Progressed": 157689,
       "Completed": 1199
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158099,
+      "Progressed": 158106,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-13T18:00:16.0469446+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:04:48.3771261+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:04:52.4122641+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:00:16.0469451+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:04:48.3772962+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:00:18.7976079+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:04:52.4124115+00:00"
 }

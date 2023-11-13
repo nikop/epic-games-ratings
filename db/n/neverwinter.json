@@ -3,12 +3,12 @@
   "Name": "Neverwinter",
   "ProductSlug": "neverwinter",
   "Ranking_Rating": 840,
-  "Ranking_Popularity": 173,
+  "Ranking_Popularity": 174,
   "Ranking_PopularitySum": 196,
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-11-10T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -3094,6 +3094,6 @@
   "FirstSeen": "2022-07-22T20:17:12.0635613+00:00",
   "LastChanged": "2023-11-12T16:00:12.2919807+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:21.7283527+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:00:48.9799975+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:07:32.8430274+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:00:52.4744263+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:07:31.4697764+00:00"
 }

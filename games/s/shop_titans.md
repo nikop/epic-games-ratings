@@ -100,11 +100,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Master Recycler | 0.70% | ~978 |
 | Fillin' the Bin | 0.60% | ~838 |
 | Economy of Scarce | 0.60% | ~838 |
-| The Free Encyclopedia | 0.50% | ~698 |
-| Thank You Tom Nook | 0.50% | ~698 |
-| Jackpot! | 0.50% | ~698 |
-| Eternal Crusade | 0.50% | ~698 |
-| All Accounted For | 0.50% | ~698 |
+| The Free Encyclopedia | 0.50% | ~699 |
+| Thank You Tom Nook | 0.50% | ~699 |
+| Jackpot! | 0.50% | ~699 |
+| Eternal Crusade | 0.50% | ~699 |
+| All Accounted For | 0.50% | ~699 |
 | All or Nothing! | 0.40% | ~559 |
 | Unleashed Potential | 0.30% | ~419 |
 | JACKPOT!!! | 0.30% | ~419 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,700 (Ranked 79)  
+Progressed: 139,709 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 181 (0.13%) (Ranked 264)
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
-| 2023-11-13 | 139,700 | 181 |
+| 2023-11-13 | 139,709 | 181 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,541 (Ranked 50)  

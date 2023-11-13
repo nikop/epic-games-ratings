@@ -5,24 +5,24 @@ Rating: 3.82 (Ranked 1,023)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~408,475 |
-| Handy | 41.00% | ~220,361 |
-| Cold Caller | 39.00% | ~209,612 |
-| A Bit On The Side | 27.00% | ~145,116 |
-| Backdoor | 25.00% | ~134,367 |
-| Rank Amateur | 21.00% | ~112,868 |
-| Three Way | 19.00% | ~102,119 |
-| Deadly Assassin | 15.00% | ~80,620 |
-| Gutshot | 14.00% | ~75,245 |
-| Risk It For A Biscuit | 14.00% | ~75,245 |
-| Showoff | 13.00% | ~69,871 |
-| W.H.I.P. | 12.00% | ~64,496 |
-| Bet Bet Bet | 10.00% | ~53,747 |
-| Blindman's Bluff | 9.00% | ~48,372 |
-| Poker Joker | 9.00% | ~48,372 |
-| Never Give Up | 8.00% | ~42,997 |
-| The Bigger They Are | 8.00% | ~42,997 |
-| Total Knock Out | 8.00% | ~42,997 |
+| Pro Creation | 76.00% | ~408,481 |
+| Handy | 41.00% | ~220,365 |
+| Cold Caller | 39.00% | ~209,615 |
+| A Bit On The Side | 27.00% | ~145,118 |
+| Backdoor | 25.00% | ~134,369 |
+| Rank Amateur | 21.00% | ~112,870 |
+| Three Way | 19.00% | ~102,120 |
+| Deadly Assassin | 15.00% | ~80,621 |
+| Gutshot | 14.00% | ~75,246 |
+| Risk It For A Biscuit | 14.00% | ~75,246 |
+| Showoff | 13.00% | ~69,872 |
+| W.H.I.P. | 12.00% | ~64,497 |
+| Bet Bet Bet | 10.00% | ~53,748 |
+| Blindman's Bluff | 9.00% | ~48,373 |
+| Poker Joker | 9.00% | ~48,373 |
+| Never Give Up | 8.00% | ~42,998 |
+| The Bigger They Are | 8.00% | ~42,998 |
+| Total Knock Out | 8.00% | ~42,998 |
 | Dog Eat Dog | 7.00% | ~37,623 |
 | Quack Quack | 7.00% | ~37,623 |
 | Give Your Regards To Broadway | 6.00% | ~32,248 |
@@ -30,8 +30,8 @@ Rating: 3.82 (Ranked 1,023)
 | Moneymaker | 4.00% | ~21,499 |
 | In The Gang | 3.00% | ~16,124 |
 | On The Button | 3.00% | ~16,124 |
-| Before You Wreck Yourself | 2.00% | ~10,749 |
-| Keep Your Heads Up | 2.00% | ~10,749 |
+| Before You Wreck Yourself | 2.00% | ~10,750 |
+| Keep Your Heads Up | 2.00% | ~10,750 |
 | Bluffing Eh? | 1.00% | ~5,375 |
 | Go For It | 1.00% | ~5,375 |
 | Holding Your Own | 1.00% | ~5,375 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,023)
 | Rounder | 0.10% | ~537 |
 | Top Dog | 0.10% | ~537 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,467 (Ranked 34)  
+Progressed: 537,475 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 2 (0.00%) (Ranked 351)
 | 2023-11-10 | 536,864 | 2 |
 | 2023-11-11 | 537,085 | 2 |
 | 2023-11-12 | 537,337 | 2 |
-| 2023-11-13 | 537,467 | 2 |
+| 2023-11-13 | 537,475 | 2 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 411)  
 Sum: 174 (Ranked 411)  

@@ -2,10 +2,10 @@
   "ID": "1f4159ea12ab4f54847f7a3b664301fb",
   "Name": "Street Striker",
   "ProductSlug": "street-striker-de25df",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-11T18:57:09.5251175+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:59:48.5420084+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:05:30.2560128+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:59:52.6820585+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:05:33.1100419+00:00"
 }

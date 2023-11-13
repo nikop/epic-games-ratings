@@ -2,10 +2,10 @@
   "ID": "29f31b0806a94f53b81ea684f29ff159",
   "Name": "Perimeter",
   "ProductSlug": "perimeter-ad2e5b",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-11T17:00:00+00:00",
     "PcReleaseDate": "2004-05-21T08:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-05-14T15:56:55.9392074+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:55.4036636+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:00:23.9220875+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:08:55.7664621+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:00:26.7233589+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:08:53.1417313+00:00"
 }

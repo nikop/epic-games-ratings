@@ -1,7 +1,7 @@
 # Pathfinder: Wrath of the Righteous - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/pathfinder-wrath-of-the-righteous)  
 [View Rawdata](../../db/p/pathfinder__wrath_of_the_righteous.json)  
-Rating: 4.76 (Ranked 125)  
+Rating: 4.76 (Ranked 124)  
 Number of Ratings: 1,354  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Burning City | 18.00% | ~2,175 |
 | Mythic Choices | 15.00% | ~1,813 |
 | Defender's Heart | 15.00% | ~1,813 |
-| Banner over the Citadel | 13.00% | ~1,571 |
+| Banner over the Citadel | 14.00% | ~1,692 |
 | Queen's Gratitude | 12.00% | ~1,450 |
 | Fifth Crusade | 8.00% | ~967 |
 | Embrace of the Abyss | 6.00% | ~725 |

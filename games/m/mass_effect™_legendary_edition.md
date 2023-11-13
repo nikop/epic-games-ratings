@@ -38,8 +38,8 @@
 | The Professor | 36.00% | ~445 |
 | The Archangel | 35.00% | ~433 |
 | Power Full | 35.00% | ~433 |
+| The Convict | 34.00% | ~420 |
 | Colony Defense | 33.00% | ~408 |
-| The Convict | 33.00% | ~408 |
 | The Krogan | 33.00% | ~408 |
 | Ghost Ship | 31.00% | ~383 |
 | The Justicar | 31.00% | ~383 |
@@ -76,13 +76,13 @@
 | Against All Odds | 26.00% | ~321 |
 | Giant Killer | 25.00% | ~309 |
 | A House Divided | 25.00% | ~309 |
+| World Shaker | 25.00% | ~309 |
 | Eye of the Hurricane | 24.00% | ~297 |
 | First Aid Specialist | 24.00% | ~297 |
-| World Shaker | 24.00% | ~297 |
+| Liberator | 24.00% | ~297 |
 | Weapon Specialist | 23.00% | ~284 |
 | Pathfinder | 23.00% | ~284 |
 | Tunnel Rat | 23.00% | ~284 |
-| Liberator | 23.00% | ~284 |
 | Arbiter | 22.00% | ~272 |
 | Lost and Found | 22.00% | ~272 |
 | Savior | 21.00% | ~260 |
@@ -109,9 +109,9 @@
 | Mail Slot | 13.00% | ~161 |
 | Combined Arms | 12.00% | ~148 |
 | Bruiser | 11.00% | ~136 |
+| Warp Mastery | 11.00% | ~136 |
 | Paramour III | 10.00% | ~124 |
 | Overload Specialist | 10.00% | ~124 |
-| Warp Mastery | 10.00% | ~124 |
 | Barrier Mastery | 9.00% | ~111 |
 | Hijacker | 9.00% | ~111 |
 | Always Prepared | 9.00% | ~111 |

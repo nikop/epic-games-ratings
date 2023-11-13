@@ -2,10 +2,10 @@
   "ID": "12a3a68913864eaa8420e575eb6dbd42",
   "Name": "DOOMBLADE",
   "ProductSlug": "doomblade-afdf9a",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-31T15:00:00+00:00",
     "PcReleaseDate": "2023-05-31T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-06-04T16:56:55.0208607+00:00",
   "LastUpdate_AppInfo": "2023-11-08T13:01:46.8274272+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:00:39.518392+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:03:33.1611501+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:00:42.622239+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:03:39.6137099+00:00"
 }

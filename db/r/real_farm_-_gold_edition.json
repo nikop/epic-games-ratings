@@ -2,10 +2,10 @@
   "ID": "7e8cbfe4588e471cbdc790da5250ff2d",
   "Name": "Real Farm - Gold Edition",
   "ProductSlug": "real-farm-gold-edition",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-06-24T08:00:00+00:00",
     "PcReleaseDate": "2021-06-24T08:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:06.7704889+00:00",
   "LastChanged": "2023-03-31T05:58:06.770489+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:10.8772369+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:00:22.8144703+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:08:24.737301+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:00:25.6561552+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:08:22.318082+00:00"
 }

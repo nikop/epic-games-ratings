@@ -21,12 +21,12 @@ Rating: 4.61 (Ranked 384)
 | In a Liege of Your Own | 0.60% | ~32 |
 | Chaos Surge | 0.60% | ~32 |
 | Spoils of War | 0.60% | ~32 |
+| Valley of Wonders | 0.50% | ~27 |
+| Intimidation Tactics | 0.50% | ~27 |
 | Sehiran Oasis | 0.50% | ~27 |
 | Dawn of the Dread | 0.50% | ~27 |
-| Valley of Wonders | 0.40% | ~22 |
 | Digging for Treasure | 0.40% | ~22 |
 | Impenetrable Fortress | 0.40% | ~22 |
-| Intimidation Tactics | 0.40% | ~22 |
 | Here be Dragons | 0.40% | ~22 |
 | Tipping the Scales | 0.40% | ~22 |
 | Blood of the Dragon | 0.40% | ~22 |
@@ -47,11 +47,13 @@ Rating: 4.61 (Ranked 384)
 | Manufactured War | 0.20% | ~11 |
 | The Eternal Court | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
+| Duality | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | The Magic That Empowers Me! | 0.10% | ~5 |
 | God Emperor | 0.10% | ~5 |
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
+| I Want to Break Free | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
@@ -59,10 +61,8 @@ Rating: 4.61 (Ranked 384)
 | Returning Circle | 0.10% | ~5 |
 | Betrayal Most Foul | 0.10% | ~5 |
 | I'll Fight You All | 0.10% | ~5 |
-| Duality | 0.10% | ~5 |
 | Draconic Connoisseur | 0.10% | ~5 |
 | A Very Special Ring | 0.10% | ~5 |
-| I Want to Break Free | 0.00% | ~0 |
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
@@ -243,9 +243,9 @@ Completed: 7 (0.13%) (Ranked 264)
 | 2023-11-12 | 5,383 | 7 |
 | 2023-11-13 | 5,386 | 7 |
 ## Awards
-Max (Great for Beginners): 32  (Ranked 482)  
+Max (Great for Beginners): 32  (Ranked 483)  
 Sum: 54 (Ranked 473)  
-Diff (max vs sum): 9  
+Diff (max vs sum): 10  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |

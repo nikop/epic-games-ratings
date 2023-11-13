@@ -1,7 +1,7 @@
 # Hogwarts Legacy
 [Store](https://store.epicgames.com/en-US/p/hogwarts-legacy)  
 [View Rawdata](../../db/h/hogwarts_legacy.json)  
-Rating: 4.76 (Ranked 125)  
+Rating: 4.76 (Ranked 124)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 4.76 (Ranked 125)
 | First Class Student | 14.00% | ~42,283 |
 | Troll with the Punches | 14.00% | ~42,283 |
 | A Keen Sense of Spell | 13.00% | ~39,263 |
-| A Talent for Spending | 12.00% | ~36,242 |
-| That's a Keeper | 12.00% | ~36,242 |
+| A Talent for Spending | 12.00% | ~36,243 |
+| That's a Keeper | 12.00% | ~36,243 |
 | Grappling with a Graphorn | 11.00% | ~33,222 |
 | The One Who Mastered Memories | 11.00% | ~33,222 |
 | The Hallowed Hero | 11.00% | ~33,222 |
@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,020 (Ranked 50)  
+Progressed: 302,021 (Ranked 50)  
 Completed: 510 (0.17%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,10 +258,10 @@ Completed: 510 (0.17%) (Ranked 257)
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
 | 2023-11-12 | 301,983 | 510 |
-| 2023-11-13 | 302,020 | 510 |
+| 2023-11-13 | 302,021 | 510 |
 ## Awards
 Max (Character Customization): 24,259  (Ranked 17)  
-Sum: 48,057 (Ranked 30)  
+Sum: 48,061 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -276,7 +276,7 @@ Diff (max vs sum): -13
 | This game is Highly Recommended | 1,164 |
 | This game has Quickly Understood Controls | 1,100 |
 | This game has Beautiful Visuals | 1,024 |
-| This game has a Creative Community | 778 |
+| This game has a Creative Community | 782 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -514,4 +514,4 @@ Diff (max vs sum): -13
 | 2023-11-10 | 4.76 | 24,162 | 47,810 |
 | 2023-11-11 | 4.76 | 24,188 | 47,880 |
 | 2023-11-12 | 4.76 | 24,229 | 47,981 |
-| 2023-11-13 | 4.76 | 24,259 | 48,057 |
+| 2023-11-13 | 4.76 | 24,259 | 48,061 |

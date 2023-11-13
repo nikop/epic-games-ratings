@@ -2,10 +2,10 @@
   "ID": "404d41610c2541f7b7274578c6059161",
   "Name": "HENCHMAN STORY",
   "ProductSlug": "henchman-story-327af4",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-02-17T12:00:00+00:00",
     "PcReleaseDate": "2021-10-14T00:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:39.1697946+00:00",
   "LastChanged": "2023-03-31T05:57:39.1697947+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:22.6567373+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:58:49.1146593+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:09:24.6147705+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:58:52.7829559+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:09:21.1890479+00:00"
 }

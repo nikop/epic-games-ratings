@@ -15,7 +15,7 @@
 | No Diggity | 45.00% | ~127 |
 | Early Survivor | 40.00% | ~113 |
 | Bouncemato | 32.00% | ~91 |
-| 10K | 29.00% | ~97 |
+| 10K | 30.00% | ~100 |
 | Amateur Survivor | 29.00% | ~82 |
 | 15K | 27.00% | ~90 |
 | Quick-Draw Pod | 23.00% | ~65 |

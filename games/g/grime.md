@@ -24,17 +24,17 @@ Number of Ratings: 46  (23.09.2022)
 | Shapely | 0.90% | ~1,423 |
 | Glare | 0.90% | ~1,419 |
 | Assimilation | 0.80% | ~1,265 |
+| Host | 0.80% | ~1,262 |
 | Celebration | 0.80% | ~1,265 |
 | Predator | 0.80% | ~1,265 |
-| Host | 0.70% | ~1,104 |
 | Hunt Down | 0.60% | ~949 |
 | Inevitable | 0.60% | ~949 |
 | All-Seeing | 0.60% | ~949 |
 | Dream | 0.60% | ~946 |
-| Breath | 0.50% | ~790 |
-| Artisan | 0.50% | ~790 |
-| Hush | 0.50% | ~790 |
-| Breathsmith | 0.50% | ~790 |
+| Breath | 0.50% | ~791 |
+| Artisan | 0.50% | ~791 |
+| Hush | 0.50% | ~791 |
+| Breathsmith | 0.50% | ~791 |
 | Bloodhunter | 0.40% | ~632 |
 | Unwrap the Gift | 0.40% | ~632 |
 | Passage | 0.40% | ~632 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,099 (Ranked 76)  
+Progressed: 158,106 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,7 +237,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
 | 2023-11-12 | 157,992 | 1 |
-| 2023-11-13 | 158,099 | 1 |
+| 2023-11-13 | 158,106 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
 Sum: 363 (Ranked 349)  

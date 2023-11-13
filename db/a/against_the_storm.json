@@ -4,11 +4,11 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 78,
   "Ranking_Popularity": 219,
-  "Ranking_PopularitySum": 170,
+  "Ranking_PopularitySum": 171,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3223,7 +3223,7 @@
   ],
   "EOS_Progressed": 17303,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13933,8 +13933,8 @@
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-11T20:04:57.3720777+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:05:42.4909656+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:05:44.7867913+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:36.8089567+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:58:29.2743143+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:05:42.4910841+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:58:31.1697726+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:05:44.7869251+00:00"
 }

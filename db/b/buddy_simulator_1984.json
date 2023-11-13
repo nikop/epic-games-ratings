@@ -2,10 +2,10 @@
   "ID": "a74a1b531da34122be033a3d0c3e7e4b",
   "Name": "Buddy Simulator 1984",
   "ProductSlug": "buddy-simulator-1984",
-  "Ranking_EOS_Progress": 740,
+  "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-09-23T16:00:00+00:00",
     "PcReleaseDate": "2021-02-18T12:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:00.2890831+00:00",
   "LastChanged": "2023-03-31T05:58:00.2890832+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:18.4292646+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:00:43.9665096+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:09:31.7265787+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:00:46.7348957+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:09:28.2821056+00:00"
 }

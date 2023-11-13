@@ -2,12 +2,12 @@
   "ID": "e97659b501af4e3981d5430dad170911",
   "Name": "Hogwarts Legacy",
   "ProductSlug": "hogwarts-legacy",
-  "Ranking_Rating": 125,
+  "Ranking_Rating": 124,
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 50,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewPlayers": 102,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10381,10 +10381,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48057,
       "NumberOfAwardsMax": 24259
+    },
+    {
+      "Time": "2023-11-13T19:01:09.4305043+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48061,
+      "NumberOfAwardsMax": 24259
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48057,
+  "NumberOfAwards": 48061,
   "NumberOfAwardsMax": 24259,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10458,12 +10464,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 778
+      "Count": 782
     }
   ],
-  "EOS_Progressed": 302020,
+  "EOS_Progressed": 302021,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 674,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32751,6 +32757,11 @@
       "Time": "2023-11-13T18:09:44.6752081+00:00",
       "NumProgressed": 302020,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-11-13T19:09:40.6040101+00:00",
+      "NumProgressed": 302021,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 45,
@@ -32946,7 +32957,7 @@
       "Name": "A Talent for Spending",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 36242
+      "UsersEstimate": 36243
     },
     {
       "ID": "PFA_31",
@@ -33106,7 +33117,7 @@
       "Name": "That\u0027s a Keeper",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 36242
+      "UsersEstimate": 36243
     },
     {
       "ID": "PFA_9",
@@ -33121,16 +33132,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302020,
+      "Progressed": 302021,
       "Completed": 510
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-13T18:01:07.2470671+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:09:44.6752074+00:00",
+  "LastChanged": "2023-11-13T19:01:09.4305041+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:09:40.6040095+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:01:07.2470677+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:09:44.6754412+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:01:09.4305047+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:09:40.6041867+00:00"
 }

@@ -4,11 +4,11 @@
   "ProductSlug": "the-elder-scrolls-online",
   "Ranking_Rating": 794,
   "Ranking_Popularity": 96,
-  "Ranking_PopularitySum": 119,
-  "Ranking_EOS_Progress": 740,
+  "Ranking_PopularitySum": 118,
+  "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 453,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
     "PcReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -4047,10 +4047,16 @@
       "Rating": 4.35,
       "NumberOfAwards": 7081,
       "NumberOfAwardsMax": 3187
+    },
+    {
+      "Time": "2023-11-13T18:59:34.8496985+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 7093,
+      "NumberOfAwardsMax": 3187
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7081,
+  "NumberOfAwards": 7093,
   "NumberOfAwardsMax": 3187,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4100,7 +4106,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 400
+      "Count": 412
     },
     {
       "Text": "This game is Great for Beginners",
@@ -4127,8 +4133,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-07-20T19:00:34.5855853+00:00",
   "FirstSeenRating": "2023-07-21T13:07:17.4893089+00:00",
-  "LastChanged": "2023-11-13T13:04:43.7052525+00:00",
+  "LastChanged": "2023-11-13T18:59:34.8496984+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:16.3230626+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:59:30.2511627+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:03:54.2736432+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:59:34.8496988+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:03:59.9406185+00:00"
 }

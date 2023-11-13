@@ -2,8 +2,8 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 523,
-  "Ranking_Popularity": 52,
+  "Ranking_Rating": 522,
+  "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 223,
@@ -6409,10 +6409,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11222,
       "NumberOfAwardsMax": 7376
+    },
+    {
+      "Time": "2023-11-13T19:02:42.2344552+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11229,
+      "NumberOfAwardsMax": 7376
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11222,
+  "NumberOfAwards": 11229,
   "NumberOfAwardsMax": 7376,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6432,7 +6438,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 506
+      "Count": 513
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6471,9 +6477,9 @@
       "Count": 461
     }
   ],
-  "EOS_Progressed": 717979,
+  "EOS_Progressed": 718010,
   "EOS_Completed": 2387,
-  "EOS_NewPlayers": 3971,
+  "EOS_NewPlayers": 3965,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30136,6 +30142,11 @@
       "Time": "2023-11-13T18:04:40.8771818+00:00",
       "NumProgressed": 717979,
       "NumCompleted": 2387
+    },
+    {
+      "Time": "2023-11-13T19:04:44.9614075+00:00",
+      "NumProgressed": 718010,
+      "NumCompleted": 2387
     }
   ],
   "TotalAchievements": 51,
@@ -30507,7 +30518,7 @@
       "Name": "One of Us",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ach_dark_magic",
@@ -30515,7 +30526,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ach_gardening_tools",
@@ -30531,7 +30542,7 @@
       "Name": "Pork Chopped",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -30554,22 +30565,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717979,
+      "Progressed": 718010,
       "Completed": 2387
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43521,
+      "Progressed": 43552,
       "Completed": 36537
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-13T16:02:41.9022875+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:04:40.8771814+00:00",
+  "LastChanged": "2023-11-13T19:02:42.234455+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:04:44.9614072+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:02:42.6612082+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:04:40.8773663+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:02:42.2344555+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:04:44.9615992+00:00"
 }

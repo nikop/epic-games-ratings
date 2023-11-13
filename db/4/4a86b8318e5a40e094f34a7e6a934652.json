@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 127,
+  "Ranking_EOS_NewPlayers": 318,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -1009,9 +1009,9 @@
       "ID": "LUNCH_LEECH",
       "SetID": "aniflfk",
       "Name": "Leech Lunch",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -1073,9 +1073,9 @@
       "ID": "TAKE_LEECH",
       "SetID": "aniflfk",
       "Name": "Uppies!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 159
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -1096,8 +1096,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-13T18:06:32.0350367+00:00",
+  "LastChanged_Achievements": "2023-11-13T19:06:32.5478449+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:05.3146397+00:00",
-  "LastUpdate_Ratings": "2023-11-13T18:02:49.0201022+00:00",
-  "LastUpdate_Achievements": "2023-11-13T18:06:32.035068+00:00"
+  "LastUpdate_Ratings": "2023-11-13T19:02:48.0614003+00:00",
+  "LastUpdate_Achievements": "2023-11-13T19:06:32.5478961+00:00"
 }

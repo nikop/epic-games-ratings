@@ -5,7 +5,7 @@ Rating: 4.55 (Ranked 504)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 81.00% | ~1,614 |
+| Complete Guard Faction | 82.00% | ~1,634 |
 | Become King | 74.00% | ~1,475 |
 | Defeat 25 Frogs | 64.00% | ~1,276 |
 | Ranged Weapon | 63.00% | ~1,256 |

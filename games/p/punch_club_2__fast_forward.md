@@ -12,8 +12,8 @@
 | Old movies enjoyer | 80.00% | ~273 |
 | Fitness professional | 79.00% | ~269 |
 | Depressed visitor | 79.00% | ~269 |
+| Employee of the week | 79.00% | ~269 |
 | Neurotrainer – power gainer! | 78.00% | ~266 |
-| Employee of the week | 78.00% | ~266 |
 | Your own amateur gym | 74.00% | ~252 |
 | First defeat | 73.00% | ~249 |
 | Run K, run! | 73.00% | ~249 |
@@ -41,7 +41,7 @@
 | Mysterious voice | 48.00% | ~164 |
 | Guiding on the right path | 47.00% | ~160 |
 | No blades in the gym | 46.00% | ~157 |
-| Champion – no way back | 44.00% | ~150 |
+| Champion – no way back | 45.00% | ~153 |
 | Underground dwellers | 43.00% | ~147 |
 | Responsible approach | 43.00% | ~147 |
 | Deal with life | 42.00% | ~143 |
