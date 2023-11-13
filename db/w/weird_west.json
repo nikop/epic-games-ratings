@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 516,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -370,9 +370,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 1996,
+  "EOS_Progressed": 1997,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -2720,6 +2720,11 @@
       "Time": "2023-11-13T14:04:22.8108111+00:00",
       "NumProgressed": 1996,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-13T17:05:25.6929482+00:00",
+      "NumProgressed": 1997,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 53,
@@ -2763,7 +2768,7 @@
       "Name": "Dog Days",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_DO_NOT_PASS_GO",
@@ -2795,7 +2800,7 @@
       "Name": "Fallen Star",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_FOR_BALANCE",
@@ -2803,7 +2808,7 @@
       "Name": "For Balance",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_FULL_HOUSE",
@@ -2851,7 +2856,7 @@
       "Name": "Here Comes Santa Claus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_IT_ALL_DIES",
@@ -2881,9 +2886,9 @@
       "ID": "ACH_LETS_RIDE",
       "SetID": "8j30i9k",
       "Name": "Let\u2019s Ride",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 1198
+      "UsersEstimate": 1178
     },
     {
       "ID": "ACH_LIFE_FOR_A_LIFE",
@@ -2971,7 +2976,7 @@
       "Name": "Out on the Ebb Tide",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_PERKY",
@@ -2979,7 +2984,7 @@
       "Name": "Perky",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "ACH_PIT_FIGHTER",
@@ -3027,7 +3032,7 @@
       "Name": "Self-Improvement",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ACH_SOMETHING_WICKED_THIS_WAY_COMES",
@@ -3099,7 +3104,7 @@
       "Name": "Turning the Tables",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_UNFORGIVEN",
@@ -3107,7 +3112,7 @@
       "Name": "Unforgiven",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1756
+      "UsersEstimate": 1757
     },
     {
       "ID": "ACH_WELCOME_TO_THE_WEIRD_WEST",
@@ -3139,7 +3144,7 @@
       "Name": "Winds of War",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "ACH_WORKERS_RIGHTS",
@@ -3147,22 +3152,22 @@
       "Name": "Workers\u0027 Rights",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     }
   ],
   "AchievementSets": [
     {
       "ID": "8j30i9k",
       "IsBase": true,
-      "Progressed": 1996,
+      "Progressed": 1997,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2023-11-10T21:59:49.034377+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:04:20.5606821+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:05:25.6929479+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:44.9377515+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:57:12.1261533+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:04:20.5607372+00:00"
+  "LastUpdate_Ratings": "2023-11-13T16:57:31.4198539+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:05:25.6929893+00:00"
 }

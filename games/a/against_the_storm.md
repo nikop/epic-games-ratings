@@ -19,6 +19,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 5.00% | ~865 |
 | Watchtower | 5.00% | ~865 |
 | A Real Challenge | 5.00% | ~865 |
+| Trade Baron | 5.00% | ~865 |
 | Homesick | 4.00% | ~692 |
 | Against All Odds | 4.00% | ~692 |
 | Ruined Armory | 4.00% | ~692 |
@@ -32,7 +33,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 4.00% | ~692 |
 | Corrosive Torrent | 4.00% | ~692 |
 | Cursed Lands | 4.00% | ~692 |
-| Trade Baron | 4.00% | ~692 |
 | Serving Ale | 3.00% | ~519 |
 | Refinery | 3.00% | ~519 |
 | Dangerous Lands | 3.00% | ~519 |

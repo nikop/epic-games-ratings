@@ -6872,9 +6872,9 @@
       "ID": "DISPATCH_THORNS",
       "SetID": "9eia0f5",
       "Name": "Bramble Breaker",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 3565
+      "UsersEstimate": 3642
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6991,8 +6991,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:09:11.1648837+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:10:02.9947747+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-13T16:02:57.3905192+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:09:11.164934+00:00"
+  "LastUpdate_Ratings": "2023-11-13T17:03:28.4001416+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:10:02.9948291+00:00"
 }

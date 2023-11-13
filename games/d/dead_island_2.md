@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~869 |
-| Whatever It Takes | 2.00% | ~869 |
-| Pork Chopped | 2.00% | ~869 |
-| Welcome To Hell-A | 0.90% | ~6,461 |
-| Break A Leg | 0.80% | ~5,743 |
-| Hotel California | 0.80% | ~5,743 |
-| Git Gutte! | 0.70% | ~5,025 |
-| Coup de Grâce | 0.70% | ~5,025 |
-| Hazardous Materials | 0.70% | ~5,025 |
-| Personal Assistant Personally Assisted | 0.70% | ~5,025 |
+| One of Us | 2.00% | ~870 |
+| Whatever It Takes | 2.00% | ~870 |
+| Pork Chopped | 2.00% | ~870 |
+| Welcome To Hell-A | 0.90% | ~6,462 |
+| Break A Leg | 0.80% | ~5,744 |
+| Hotel California | 0.80% | ~5,744 |
+| Git Gutte! | 0.70% | ~5,026 |
+| Coup de Grâce | 0.70% | ~5,026 |
+| Hazardous Materials | 0.70% | ~5,026 |
+| Friends Like These | 0.70% | ~5,026 |
+| Personal Assistant Personally Assisted | 0.70% | ~5,026 |
 | Dr. Reed, I Presume? | 0.60% | ~4,308 |
 | Anger Management | 0.60% | ~4,308 |
 | Bookworm | 0.60% | ~4,308 |
 | But Doctor, I am Butcho | 0.60% | ~4,308 |
 | Can't Handle the Truth | 0.60% | ~4,308 |
-| Friends Like These | 0.60% | ~4,308 |
 | Apex Predator | 0.60% | ~4,308 |
 | Stacking the Deck | 0.60% | ~4,308 |
 | This is My Weapon | 0.60% | ~4,308 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,923 (Ranked 20)  
+Progressed: 717,953 (Ranked 20)  
 Completed: 2,387 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,387 (0.33%) (Ranked 223)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 717,923 | 2,387 |
+| 2023-11-13 | 717,953 | 2,387 |
 ## Awards
 Max (Great Boss Battles): 7,376  (Ranked 52)  
 Sum: 11,222 (Ranked 85)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 66,
+  "Ranking_EOS_NewPlayers": 67,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
@@ -1996,9 +1996,9 @@
       "Count": 252
     }
   ],
-  "EOS_Progressed": 213566,
+  "EOS_Progressed": 213570,
   "EOS_Completed": 98,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1295,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25661,6 +25661,11 @@
       "Time": "2023-11-13T16:04:16.5072879+00:00",
       "NumProgressed": 213566,
       "NumCompleted": 98
+    },
+    {
+      "Time": "2023-11-13T17:05:19.9147324+00:00",
+      "NumProgressed": 213570,
+      "NumCompleted": 98
     }
   ],
   "TotalAchievements": 44,
@@ -25888,7 +25893,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17085
+      "UsersEstimate": 17086
     },
     {
       "ID": "Rollin",
@@ -25920,7 +25925,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 17085
+      "UsersEstimate": 17086
     },
     {
       "ID": "TanukiTime",
@@ -26023,15 +26028,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 213566,
+      "Progressed": 213570,
       "Completed": 98
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2023-11-12T09:58:07.4359843+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:04:16.5072876+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:05:19.9147322+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:43.7843391+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:58:50.8018793+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:04:16.5073951+00:00"
+  "LastUpdate_Ratings": "2023-11-13T16:59:53.9584599+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:05:19.9148402+00:00"
 }

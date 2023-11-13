@@ -4,10 +4,10 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
-    "ReleaseDate": "2023-11-13T20:00:00+00:00",
+    "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-13T09:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -28,9 +28,307 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
+  "TotalAchievements": 37,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "Achievement1",
+      "SetID": "9fa3l5n",
+      "Name": "My Papyrus!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement10",
+      "SetID": "9fa3l5n",
+      "Name": "In the Name of the Law",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement11",
+      "SetID": "9fa3l5n",
+      "Name": "Au Revoir, Abudin",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement12",
+      "SetID": "9fa3l5n",
+      "Name": "Mysterious Bungalow",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement13",
+      "SetID": "9fa3l5n",
+      "Name": "The Eyes!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement14",
+      "SetID": "9fa3l5n",
+      "Name": "Keep the Doctor Away",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement15",
+      "SetID": "9fa3l5n",
+      "Name": "Just a Palm Tree",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement16",
+      "SetID": "9fa3l5n",
+      "Name": "Under the Hood",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement17",
+      "SetID": "9fa3l5n",
+      "Name": "Long Live Gaipajama!",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement18",
+      "SetID": "9fa3l5n",
+      "Name": "Cookie Accomplished",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement19",
+      "SetID": "9fa3l5n",
+      "Name": "Tintin, Reporter",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement2",
+      "SetID": "9fa3l5n",
+      "Name": "A Loyal Friend",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement20",
+      "SetID": "9fa3l5n",
+      "Name": "The Corporal\u0027s Golden Boy",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement21",
+      "SetID": "9fa3l5n",
+      "Name": "Eyes Shut",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement22",
+      "SetID": "9fa3l5n",
+      "Name": "Flying Ace",
+      "Percentage": 0,
+      "XP": 85,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement23",
+      "SetID": "9fa3l5n",
+      "Name": "Punctual",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement24",
+      "SetID": "9fa3l5n",
+      "Name": "A Diagnosis",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement25",
+      "SetID": "9fa3l5n",
+      "Name": "Trials of Kih-Oskh",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement26",
+      "SetID": "9fa3l5n",
+      "Name": "Mummy Nightmare",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement27",
+      "SetID": "9fa3l5n",
+      "Name": "Escaping War",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement28",
+      "SetID": "9fa3l5n",
+      "Name": "Jungle Runner",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement29",
+      "SetID": "9fa3l5n",
+      "Name": "Broken Brotherhood",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement3",
+      "SetID": "9fa3l5n",
+      "Name": "Abandon Ship!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement30",
+      "SetID": "9fa3l5n",
+      "Name": "Mountain Runner",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement31",
+      "SetID": "9fa3l5n",
+      "Name": "A Yummy Detour",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement32",
+      "SetID": "9fa3l5n",
+      "Name": "The Pharaoh\u0027s New Clothes",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement33",
+      "SetID": "9fa3l5n",
+      "Name": "Barking Dog",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement34",
+      "SetID": "9fa3l5n",
+      "Name": "Cat Lover",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement35",
+      "SetID": "9fa3l5n",
+      "Name": "Subtlety",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement36",
+      "SetID": "9fa3l5n",
+      "Name": "Guilt",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement37",
+      "SetID": "9fa3l5n",
+      "Name": "Threat",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement4",
+      "SetID": "9fa3l5n",
+      "Name": "The Tomb of Kih-Oskh",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement5",
+      "SetID": "9fa3l5n",
+      "Name": "The Weighing of the Soul",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement6",
+      "SetID": "9fa3l5n",
+      "Name": "The Curse of Kih-Oskh",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement7",
+      "SetID": "9fa3l5n",
+      "Name": "It\u0027s a Deal!",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement8",
+      "SetID": "9fa3l5n",
+      "Name": "Dynamite, Treason and Coconuts",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "Achievement9",
+      "SetID": "9fa3l5n",
+      "Name": "Save a Friend",
+      "Percentage": 0,
+      "XP": 15,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "9fa3l5n",
@@ -40,8 +338,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:06:01.5432057+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:07:46.187898+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:05.8922612+00:00",
-  "LastUpdate_Ratings": "2023-11-13T16:02:42.2821763+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:06:01.5432078+00:00"
+  "LastUpdate_Ratings": "2023-11-13T17:03:06.3554941+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:07:46.2207224+00:00"
 }

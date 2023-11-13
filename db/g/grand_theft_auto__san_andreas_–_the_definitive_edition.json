@@ -1489,9 +1489,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13683,
+  "EOS_Progressed": 13684,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14539,6 +14539,11 @@
       "Time": "2023-11-13T16:08:45.3950958+00:00",
       "NumProgressed": 13683,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-13T17:09:27.4626409+00:00",
+      "NumProgressed": 13684,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14548,9 +14553,9 @@
       "ID": "ACH01",
       "SetID": "4ck5mbe",
       "Name": "Getting Started",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 11083
+      "UsersEstimate": 11221
     },
     {
       "ID": "ACH02",
@@ -14606,7 +14611,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6978
+      "UsersEstimate": 6979
     },
     {
       "ID": "ACH09",
@@ -14614,7 +14619,7 @@
       "Name": "Bike or Biker",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH10",
@@ -14678,7 +14683,7 @@
       "Name": "What the City Needs",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH18",
@@ -14702,7 +14707,7 @@
       "Name": "Yes I Speak English",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH21",
@@ -14718,7 +14723,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "ACH23",
@@ -14774,7 +14779,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2052
+      "UsersEstimate": 2053
     },
     {
       "ID": "ACH30",
@@ -14782,7 +14787,7 @@
       "Name": "Public Enemy No. 1",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACH31",
@@ -14829,7 +14834,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13683,
+      "Progressed": 13684,
       "Completed": 53
     }
   ],
@@ -14837,8 +14842,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-13T14:57:51.7283251+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:08:45.3950955+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:09:27.4626403+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:57:58.172432+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:08:45.3951763+00:00"
+  "LastUpdate_Ratings": "2023-11-13T16:58:39.584879+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:09:27.4627191+00:00"
 }

@@ -90,6 +90,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Holiest Roman Empire | 0.10% | ~455 |
 | Holy Horder | 0.10% | ~455 |
 | Holy Trinity | 0.10% | ~455 |
+| Home and Away | 0.10% | ~455 |
 | Ideas Guy | 0.10% | ~455 |
 | Imperio español | 0.10% | ~455 |
 | Imposter Syndrome | 0.10% | ~455 |
@@ -273,7 +274,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Guarantor of Peace | 0.00% | ~0 |
 | Hanukkah Mutapa | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
-| Home and Away | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | King of Kings | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,740 (Ranked 41)  
+Progressed: 454,794 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -577,7 +577,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
-| 2023-11-13 | 454,740 | 1 |
+| 2023-11-13 | 454,794 | 1 |
 ## Awards
 Max (Educational): 6,981  (Ranked 54)  
 Sum: 57,423 (Ranked 24)  

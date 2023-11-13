@@ -1404,9 +1404,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10447,
+  "EOS_Progressed": 10448,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 295,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17084,6 +17084,11 @@
       "Time": "2023-11-13T16:03:15.0921094+00:00",
       "NumProgressed": 10447,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T17:03:55.1569383+00:00",
+      "NumProgressed": 10448,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -17175,7 +17180,7 @@
       "Name": "Healer",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 5432
+      "UsersEstimate": 5433
     },
     {
       "ID": "2",
@@ -17183,7 +17188,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3656
+      "UsersEstimate": 3657
     },
     {
       "ID": "20",
@@ -17207,7 +17212,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7626
+      "UsersEstimate": 7627
     },
     {
       "ID": "23",
@@ -17255,7 +17260,7 @@
       "Name": "Merchant",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "29",
@@ -17311,7 +17316,7 @@
       "Name": "Ice Lakes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "35",
@@ -17351,7 +17356,7 @@
       "Name": "Rocket Surgeon",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "4",
@@ -17551,7 +17556,7 @@
       "Name": "Real Survivor",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 2298
+      "UsersEstimate": 2299
     },
     {
       "ID": "9",
@@ -17566,15 +17571,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10447,
+      "Progressed": 10448,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-12T19:57:53.2270772+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:03:15.0921091+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:03:55.156938+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:11.3013234+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:58:08.786772+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:03:15.0922536+00:00"
+  "LastUpdate_Ratings": "2023-11-13T16:58:55.0937636+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:03:55.1570706+00:00"
 }

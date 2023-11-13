@@ -10,9 +10,9 @@ Rating: 4.61 (Ranked 384)
 | A Wonderful Discovery | 1.00% | ~54 |
 | Secret Technique | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
+| Freed Lands of Manuhari | 1.00% | ~54 |
 | Bone Peddler | 0.90% | ~48 |
 | From Friends to Family | 0.90% | ~48 |
-| Freed Lands of Manuhari | 0.90% | ~48 |
 | There Can Only Be One! | 0.70% | ~38 |
 | Full Ascension | 0.70% | ~38 |
 | Magical Synergy | 0.70% | ~38 |
@@ -31,17 +31,17 @@ Rating: 4.61 (Ranked 384)
 | Tipping the Scales | 0.40% | ~22 |
 | Blood of the Dragon | 0.40% | ~22 |
 | Mighty Hoard | 0.40% | ~22 |
+| Prometheus Avenged | 0.40% | ~22 |
 | Seal the Deal | 0.40% | ~22 |
+| A Conqueror's Cohort | 0.40% | ~22 |
+| The Creator | 0.30% | ~16 |
 | Enchanted Archipelago | 0.30% | ~16 |
 | Preparation Is Everything | 0.30% | ~16 |
 | My Final Form | 0.30% | ~16 |
-| Prometheus Avenged | 0.30% | ~16 |
-| A Conqueror's Cohort | 0.30% | ~16 |
 | I've Got Everything I Need Right Here | 0.20% | ~11 |
 | Return of the Wizard King | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
-| The Creator | 0.20% | ~11 |
 | Crimson Caldera | 0.20% | ~11 |
 | Fiery Friend | 0.20% | ~11 |
 | Manufactured War | 0.20% | ~11 |

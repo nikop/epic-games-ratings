@@ -11,7 +11,7 @@
 | Uncle will be happy | 68.00% | ~63 |
 | I have an army! | 63.00% | ~59 |
 | Sticky fingers | 44.00% | ~41 |
-| A horrible thing will happen... | 38.00% | ~35 |
+| A horrible thing will happen... | 39.00% | ~36 |
 | Vampires | 31.00% | ~29 |
 | Bloody stream | 30.00% | ~28 |
 | Fangs | 19.00% | ~18 |

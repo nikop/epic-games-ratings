@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 172,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7163,9 +7163,9 @@
       "ID": "19",
       "SetID": "3aa2279",
       "Name": "The Creator",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "2",
@@ -7483,9 +7483,9 @@
       "ID": "51",
       "SetID": "7132754",
       "Name": "Freed Lands of Manuhari",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 54
     },
     {
       "ID": "52",
@@ -7499,9 +7499,9 @@
       "ID": "53",
       "SetID": "7132754",
       "Name": "Prometheus Avenged",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "54",
@@ -7523,9 +7523,9 @@
       "ID": "56",
       "SetID": "7132754",
       "Name": "A Conqueror\u0027s Cohort",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "57",
@@ -7578,8 +7578,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:04:16.3824197+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:05:19.9838955+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:57:08.0576083+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:04:16.3825034+00:00"
+  "LastUpdate_Ratings": "2023-11-13T16:57:25.141685+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:05:19.9839783+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_Rating": 366,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 230,
+  "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 126,
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1646,
+  "EOS_Progressed": 1648,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3694,6 +3694,11 @@
       "Time": "2023-11-13T16:03:16.0003883+00:00",
       "NumProgressed": 1646,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T17:03:56.4065315+00:00",
+      "NumProgressed": 1648,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3705,7 +3710,7 @@
       "Name": "Agent 47",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "Auditor",
@@ -3785,7 +3790,7 @@
       "Name": "E1M1",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "Everyone_is_here",
@@ -3793,7 +3798,7 @@
       "Name": "The Gang\u0027s All Here",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "Experienced_strategist",
@@ -3817,7 +3822,7 @@
       "Name": "Grenadier",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "Hard_Serpent",
@@ -3833,7 +3838,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "High_noon",
@@ -3881,7 +3886,7 @@
       "Name": "One by One",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "Miner",
@@ -3889,7 +3894,7 @@
       "Name": "Bomberman",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "MoskitoBite",
@@ -3921,7 +3926,7 @@
       "Name": "War Never Changes",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 691
+      "UsersEstimate": 692
     },
     {
       "ID": "We_were_not_here",
@@ -3944,15 +3949,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1646,
+      "Progressed": 1648,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:03:16.000388+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:03:56.4065311+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:57:27.4273578+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:03:16.0004237+00:00"
+  "LastUpdate_Ratings": "2023-11-13T16:57:54.3087508+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:03:56.4065668+00:00"
 }

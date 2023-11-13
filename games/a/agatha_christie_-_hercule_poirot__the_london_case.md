@@ -34,15 +34,15 @@
 | Bartholomew | 23.00% | ~7 |
 | The Scheme | 23.00% | ~7 |
 | A curious phrase | 20.00% | ~6 |
+| A peculiar fellow | 17.00% | ~5 |
 | Evelyn Lakshmi Warbeck | 17.00% | ~5 |
 | Horace Mountjoy | 17.00% | ~5 |
+| Mortimer Ailsworth | 17.00% | ~5 |
 | The Suspects | 17.00% | ~5 |
+| The Secrets | 17.00% | ~5 |
 | Well-travelled | 13.00% | ~4 |
-| A peculiar fellow | 13.00% | ~4 |
 | Florence Farquhar | 13.00% | ~4 |
 | Johan Kristiansen | 13.00% | ~4 |
-| Mortimer Ailsworth | 13.00% | ~4 |
-| The Secrets | 13.00% | ~4 |
 | The Investigation Starts Anew | 13.00% | ~4 |
 | The Denouement | 10.00% | ~3 |
 | A treasured heirloom | 10.00% | ~3 |
@@ -51,7 +51,7 @@
 | Perkins | 10.00% | ~3 |
 | A perilous journey | 7.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 513)  
+Progressed: 30 (Ranked 514)  
 Completed: 1 (3.33%) (Ranked 90)  
 ## EOS Players History
 | Date | Progressed | Completed |

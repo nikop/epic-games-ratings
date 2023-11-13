@@ -239,7 +239,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7741,
+  "EOS_Progressed": 7742,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
@@ -8074,6 +8074,11 @@
       "Time": "2023-11-12T22:08:15.4192621+00:00",
       "NumProgressed": 7741,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-13T17:08:48.0900688+00:00",
+      "NumProgressed": 7742,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8173,7 +8178,7 @@
       "Name": "Historian",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ICONOCLAST",
@@ -8181,7 +8186,7 @@
       "Name": "Iconoclast",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "IN_A_PINCH",
@@ -8229,7 +8234,7 @@
       "Name": "Soul-Canon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "THE_JOURNEY_ONWARDS",
@@ -8252,7 +8257,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7741,
+      "Progressed": 7742,
       "Completed": 34
     }
   ],
@@ -8260,8 +8265,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:08:17.0571784+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:08:48.0900683+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.1018181+00:00",
-  "LastUpdate_Ratings": "2023-11-13T16:00:29.3106428+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:08:17.0572424+00:00"
+  "LastUpdate_Ratings": "2023-11-13T17:02:20.0984765+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:08:48.0901804+00:00"
 }

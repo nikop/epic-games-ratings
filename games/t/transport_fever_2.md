@@ -25,8 +25,8 @@ Number of Ratings: 180  (23.09.2022)
 | First electric train arrived | 47.00% | ~869 |
 | Now what? | 46.00% | ~850 |
 | First ship arrived | 45.00% | ~832 |
-| Exemplary student | 42.00% | ~776 |
-| High speed | 42.00% | ~776 |
+| Exemplary student | 43.00% | ~795 |
+| High speed | 43.00% | ~795 |
 | Transport shark | 41.00% | ~758 |
 | First aircraft arrived | 41.00% | ~758 |
 | Mass production | 35.00% | ~647 |
@@ -266,7 +266,7 @@ Completed: 1 (0.05%) (Ranked 302)
 | 2023-11-13 | 1,848 | 1 |
 ## Awards
 Max (Highly Recommended): 43  (Ranked 448)  
-Sum: 307 (Ranked 358)  
+Sum: 308 (Ranked 358)  
 Diff (max vs sum): 90  
 | Award | Count |
 | ----- | ----- |
@@ -277,7 +277,7 @@ Diff (max vs sum): 90
 | This game is Relaxing | 34 |
 | This game has Quickly Understood Controls | 34 |
 | This game has a Creative Community | 29 |
-| This game is Educational | 26 |
+| This game is Educational | 27 |
 | This game has Amazing Characters | 26 |
 | This game has Obsessive Gameplay | 21 |
 ## Ratings History
@@ -382,4 +382,4 @@ Diff (max vs sum): 90
 | 2023-11-09 | 4.69 | - | 43 | 304 |
 | 2023-11-11 | 4.69 | - | 43 | 305 |
 | 2023-11-12 | 4.69 | - | 43 | 306 |
-| 2023-11-13 | 4.69 | - | 43 | 307 |
+| 2023-11-13 | 4.69 | - | 43 | 308 |

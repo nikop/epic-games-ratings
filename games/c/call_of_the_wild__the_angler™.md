@@ -6,9 +6,9 @@ Number of Ratings: 281  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fish Just Got Reel | 1.00% | ~65 |
+| Fish Just Got Reel | 2.00% | ~130 |
+| Hey Good Hookin | 2.00% | ~130 |
 | Can you smell what the Rod is Hooking | 1.00% | ~65 |
-| Hey Good Hookin | 1.00% | ~65 |
 | Ready to Rod and Roll | 1.00% | ~65 |
 | Fish Out of Water | 1.00% | ~65 |
 | I'm on a Boat! | 1.00% | ~65 |
@@ -21,6 +21,7 @@ Number of Ratings: 281  (23.09.2022)
 | Going for Gold | 0.50% | ~33 |
 | I'm Hooked! | 0.40% | ~26 |
 | I'm the Captain Now | 0.20% | ~13 |
+| Gonna Need a Bigger Boat | 0.20% | ~13 |
 | More than a Tourist | 0.10% | ~7 |
 | Hook, Line and Sinker | 0.10% | ~7 |
 | Head for Heights | 0.10% | ~7 |
@@ -32,8 +33,8 @@ Number of Ratings: 281  (23.09.2022)
 | Big Fish Small Pond | 0.10% | ~7 |
 | Golden Ridge Ranger | 0.10% | ~7 |
 | Buckaroo | 0.10% | ~7 |
-| Gonna Need a Bigger Boat | 0.10% | ~7 |
 | Rod and Troll | 0.10% | ~6 |
+| Fish upon a Star | 0.10% | ~6 |
 | Live by the Rod, Diez by the Rod! | 0.10% | ~6 |
 | Aguas Claras Conquistador | 0.10% | ~6 |
 | All Good Kings Must Come to an End | 0.10% | ~6 |
@@ -43,11 +44,10 @@ Number of Ratings: 281  (23.09.2022)
 | Lost and Flounder | 0.00% | ~0 |
 | Norway Jose | 0.00% | ~0 |
 | Trollsporet Tale Teller | 0.00% | ~0 |
-| Fish upon a Star | 0.00% | ~0 |
 | Cache and Carry | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,506 (Ranked 178)  
+Progressed: 6,507 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-10 | 6,476 | 0 |
 | 2023-11-11 | 6,494 | 0 |
 | 2023-11-12 | 6,504 | 0 |
-| 2023-11-13 | 6,506 | 0 |
+| 2023-11-13 | 6,507 | 0 |
 ## Awards
 Max (Relaxing): 36  (Ranked 464)  
 Sum: 192 (Ranked 403)  

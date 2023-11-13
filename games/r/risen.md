@@ -5,7 +5,7 @@ Rating: 4.59 (Ranked 431)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 94.00% | ~34 |
+| Beginner | 97.00% | ~35 |
 | Map reader | 89.00% | ~32 |
 | Philanthropist | 81.00% | ~29 |
 | Adventurer | 75.00% | ~27 |

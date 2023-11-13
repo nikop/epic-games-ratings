@@ -895,7 +895,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 6506,
+  "EOS_Progressed": 6507,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
@@ -9900,6 +9900,11 @@
       "Time": "2023-11-13T15:08:51.2366613+00:00",
       "NumProgressed": 6506,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T17:09:49.7760282+00:00",
+      "NumProgressed": 6507,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -9909,9 +9914,9 @@
       "ID": "ACHIEVEMENT_001",
       "SetID": "1a05lfd",
       "Name": "Fish Just Got Reel",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -9925,9 +9930,9 @@
       "ID": "ACHIEVEMENT_003",
       "SetID": "1a05lfd",
       "Name": "Hey Good Hookin",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -10141,9 +10146,9 @@
       "ID": "ACHIEVEMENT_030",
       "SetID": "1a05lfd",
       "Name": "Gonna Need a Bigger Boat",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 13
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -10173,9 +10178,9 @@
       "ID": "ACHIEVEMENT_035",
       "SetID": "6jk25od",
       "Name": "Fish upon a Star",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 6
     },
     {
       "ID": "ACHIEVEMENT_036",
@@ -10230,13 +10235,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 6506,
+      "Progressed": 6507,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 5878,
+      "Progressed": 5879,
       "Completed": 113
     }
   ],
@@ -10244,8 +10249,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2023-11-11T20:01:17.9556909+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:09:01.7105732+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:09:49.776028+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.5392217+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:58:51.7409561+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:09:01.7106553+00:00"
+  "LastUpdate_Ratings": "2023-11-13T16:59:55.4092267+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:09:49.7760847+00:00"
 }

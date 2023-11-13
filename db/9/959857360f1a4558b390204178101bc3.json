@@ -4,7 +4,7 @@
   "ProductSlug": "cave-digger-2-4f2a94",
   "Ranking_EOS_Progress": 640,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 365,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -250,8 +250,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-03T14:03:12.6851297+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:05:32.8832487+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:07:05.4403475+00:00",
   "LastUpdate_AppInfo": "2023-11-12T17:57:22.5907529+00:00",
-  "LastUpdate_Ratings": "2023-11-13T16:02:37.2665653+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:05:32.8832634+00:00"
+  "LastUpdate_Ratings": "2023-11-13T17:02:29.586729+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:07:05.440362+00:00"
 }

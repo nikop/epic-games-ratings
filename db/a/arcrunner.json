@@ -4,7 +4,7 @@
   "ProductSlug": "arcrunner-61fee6",
   "Ranking_EOS_Progress": 267,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 787,
+  "EOS_Progressed": 788,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1786,6 +1786,11 @@
       "Time": "2023-11-12T18:08:45.7074175+00:00",
       "NumProgressed": 787,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T17:09:03.7043555+00:00",
+      "NumProgressed": 788,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 29,
@@ -1811,9 +1816,9 @@
       "ID": "ACHV_CHALLENGEACCEPTED",
       "SetID": "cceobco",
       "Name": "Challenge Accepted",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 173
     },
     {
       "ID": "ACHV_CHALLENGEMASTERED",
@@ -1909,7 +1914,7 @@
       "Name": "Nanonic I",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHV_NANONIC2",
@@ -1933,7 +1938,7 @@
       "Name": "Outer Core",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHV_RIPPERDOC",
@@ -1997,7 +2002,7 @@
       "Name": "Unlocked and Loaded",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHV_UPCLOSEANDPERSONAL",
@@ -2028,13 +2033,13 @@
     {
       "ID": "cceobco",
       "IsBase": true,
-      "Progressed": 787,
+      "Progressed": 788,
       "Completed": 0
     },
     {
       "ID": "cd9kng8",
       "IsBase": false,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 3
     }
   ],
@@ -2042,8 +2047,8 @@
   "FirstSeenRating": "2023-04-29T18:59:11.6482323+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:37.6977795+00:00",
   "LastChanged": "2023-04-29T18:59:11.6482324+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:08:28.3345159+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:09:03.7043552+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:13.8527355+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:58:12.1605132+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:08:28.3345419+00:00"
+  "LastUpdate_Ratings": "2023-11-13T16:58:58.3807171+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:09:03.7043813+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 517,
+  "Ranking_EOS_Progress": 515,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28,
+  "EOS_Progressed": 29,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -172,6 +172,11 @@
       "Time": "2023-11-06T12:09:18.1248861+00:00",
       "NumProgressed": 28,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T17:10:17.9864839+00:00",
+      "NumProgressed": 29,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -181,7 +186,7 @@
       "ID": "combat_slammer_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Slam-KABAM",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 30,
       "UsersEstimate": 7
     },
@@ -189,7 +194,7 @@
       "ID": "combat_thought_block_friendly_fire",
       "SetID": "7e96e7l",
       "Name": "Heavy Thoughts",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -197,9 +202,9 @@
       "ID": "fluff_arguing_opinions_conviction_lane",
       "SetID": "7e96e7l",
       "Name": "Patient Listener",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "fluff_cerebrum_cider_priciple_square",
@@ -213,7 +218,7 @@
       "ID": "fluff_hit_by_coco_bulb",
       "SetID": "7e96e7l",
       "Name": "Ouch, that hurt!",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 9
     },
@@ -237,7 +242,7 @@
       "ID": "fluff_score_goal",
       "SetID": "7e96e7l",
       "Name": "GOAAAAAAAAAL!",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -245,7 +250,7 @@
       "ID": "shards_all_remembranes",
       "SetID": "7e96e7l",
       "Name": "Come full circle",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 80,
       "UsersEstimate": 1
     },
@@ -261,7 +266,7 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -269,7 +274,7 @@
       "ID": "story_conviction_lane",
       "SetID": "7e96e7l",
       "Name": "Fight like an idiot",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -285,7 +290,7 @@
       "ID": "story_end_credits",
       "SetID": "7e96e7l",
       "Name": "I\u0027m Back at the Surface now",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 120,
       "UsersEstimate": 3
     },
@@ -293,7 +298,7 @@
       "ID": "story_ethics_maze",
       "SetID": "7e96e7l",
       "Name": "Repair the Mind Validation Machine",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -301,7 +306,7 @@
       "ID": "story_jester_land",
       "SetID": "7e96e7l",
       "Name": "Flee like an idiot",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -309,9 +314,9 @@
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 46,
+      "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "story_principle_square",
@@ -326,7 +331,7 @@
     {
       "ID": "7e96e7l",
       "IsBase": true,
-      "Progressed": 28,
+      "Progressed": 29,
       "Completed": 0
     }
   ],
@@ -334,8 +339,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2023-11-13T16:09:21.9831028+00:00",
+  "LastChanged_Achievements": "2023-11-13T17:10:17.9864837+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:08.7444878+00:00",
-  "LastUpdate_Ratings": "2023-11-13T15:58:06.7254123+00:00",
-  "LastUpdate_Achievements": "2023-11-13T16:09:21.9831123+00:00"
+  "LastUpdate_Ratings": "2023-11-13T16:58:51.8580612+00:00",
+  "LastUpdate_Achievements": "2023-11-13T17:10:17.9864926+00:00"
 }

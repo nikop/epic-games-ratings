@@ -1,7 +1,7 @@
 # Citizen Sleeper
 [Store](https://store.epicgames.com/en-US/p/citizen-sleeper-944858)  
 [View Rawdata](../../db/c/citizen_sleeper.json)  
-Rating: 4.83 (Ranked 58)  
+Rating: 4.84 (Ranked 51)  
 Number of Ratings: 34  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -29,3 +29,4 @@ Number of Ratings: 34  (23.09.2022)
 | 2023-03-31 | 4.81 | - | 0 | 0 |
 | 2023-04-22 | 4.82 | - | 0 | 0 |
 | 2023-06-03 | 4.83 | - | 0 | 0 |
+| 2023-11-13 | 4.84 | - | 0 | 0 |
