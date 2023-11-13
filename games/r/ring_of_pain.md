@@ -43,6 +43,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sneaky | 0.20% | ~479 |
 | Shadow Walker | 0.20% | ~479 |
 | Flesh Wound | 0.20% | ~479 |
+| Shapeshifting | 0.20% | ~479 |
 | An Offering | 0.20% | ~479 |
 | Who Needs Luck? | 0.20% | ~2 |
 | Thank You, Friend | 0.10% | ~240 |
@@ -112,7 +113,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Snake Sneak | 0.10% | ~240 |
 | Sprinter | 0.10% | ~240 |
 | Fire Away! | 0.10% | ~240 |
-| Shapeshifting | 0.10% | ~240 |
 | Defuser | 0.10% | ~240 |
 | The Long Run | 0.10% | ~240 |
 | The Tickler | 0.10% | ~240 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,611 (Ranked 61)  
+Progressed: 239,615 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,10 +352,10 @@ Completed: 288 (0.12%) (Ranked 268)
 | 2023-11-10 | 239,475 | 287 |
 | 2023-11-11 | 239,548 | 288 |
 | 2023-11-12 | 239,608 | 288 |
-| 2023-11-13 | 239,611 | 288 |
+| 2023-11-13 | 239,615 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 131)  
-Sum: 11,672 (Ranked 83)  
+Sum: 11,674 (Ranked 83)  
 Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
@@ -367,7 +367,7 @@ Diff (max vs sum): 48
 | This game is Highly Recommended | 1,380 |
 | This game has Amazing Storytelling | 1,323 |
 | This game has Amazing Characters | 1,225 |
-| This game has Unique Visuals | 1,218 |
+| This game has Unique Visuals | 1,220 |
 | This game has Obsessive Gameplay | 1,088 |
 | This game has a Creative Community | 742 |
 ## Ratings History
@@ -580,3 +580,4 @@ Diff (max vs sum): 48
 | 2023-11-10 | 4.58 | - | 1,503 | 11,665 |
 | 2023-11-11 | 4.58 | - | 1,503 | 11,667 |
 | 2023-11-12 | 4.58 | - | 1,503 | 11,672 |
+| 2023-11-13 | 4.58 | - | 1,503 | 11,674 |

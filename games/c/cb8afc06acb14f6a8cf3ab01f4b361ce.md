@@ -5,48 +5,48 @@ Rating: 4.21 (Ranked 900)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The touch of Chaos | 0.70% | ~2,166 |
-| May the Torchbearer light our way | 0.60% | ~1,857 |
-| A powerful aura was here | 0.50% | ~1,547 |
+| May the Torchbearer light our way | 0.70% | ~2,167 |
+| The touch of Chaos | 0.70% | ~2,167 |
+| A powerful aura was here | 0.50% | ~1,548 |
 | Rumors are true | 0.20% | ~619 |
 | Your wounds… They are healing so fast! | 0.20% | ~619 |
 | Let's raise the stakes!! | 0.20% | ~619 |
-| We'll be careful | 0.10% | ~309 |
-| Back to your senses | 0.10% | ~309 |
-| They tricked me | 0.10% | ~309 |
-| We need to talk | 0.10% | ~309 |
-| I feel drawn to it | 0.10% | ~309 |
-| Here to stay | 0.10% | ~309 |
-| Counting on you | 0.10% | ~309 |
-| This is the end | 0.10% | ~309 |
-| We can choose to fight | 0.10% | ~309 |
-| No damsels in distress | 0.10% | ~309 |
-| The immortal is bound to reborn | 0.10% | ~309 |
-| A legend among Chimeras | 0.10% | ~309 |
-| It's only pain | 0.10% | ~309 |
-| I know how to handle it | 0.10% | ~309 |
-| Settle this once and for all | 0.10% | ~309 |
-| The Ashen Knight | 0.10% | ~309 |
-| The Shade | 0.10% | ~309 |
-| They won't last long | 0.10% | ~309 |
-| Through the Veil | 0.10% | ~309 |
-| Call this the Judge's mercy | 0.10% | ~309 |
-| Pride is a sin, young Knight | 0.10% | ~309 |
-| There's too many of them! | 0.10% | ~309 |
-| Their fate is sealed | 0.10% | ~309 |
-| Not even from this world | 0.10% | ~309 |
-| Bring it on! | 0.10% | ~309 |
-| I've been waiting for this! | 0.10% | ~309 |
-| You want more? I've got more! | 0.10% | ~309 |
-| We learned it the hard way | 0.10% | ~309 |
-| We strike as one | 0.10% | ~309 |
-| Chaos be damned! | 0.10% | ~309 |
-| I took a risk | 0.10% | ~309 |
+| We'll be careful | 0.10% | ~310 |
+| Back to your senses | 0.10% | ~310 |
+| They tricked me | 0.10% | ~310 |
+| We need to talk | 0.10% | ~310 |
+| I feel drawn to it | 0.10% | ~310 |
+| Here to stay | 0.10% | ~310 |
+| Counting on you | 0.10% | ~310 |
+| This is the end | 0.10% | ~310 |
+| We can choose to fight | 0.10% | ~310 |
+| No damsels in distress | 0.10% | ~310 |
+| The immortal is bound to reborn | 0.10% | ~310 |
+| A legend among Chimeras | 0.10% | ~310 |
+| It's only pain | 0.10% | ~310 |
+| I know how to handle it | 0.10% | ~310 |
+| Settle this once and for all | 0.10% | ~310 |
+| The Ashen Knight | 0.10% | ~310 |
+| The Shade | 0.10% | ~310 |
+| They won't last long | 0.10% | ~310 |
+| Through the Veil | 0.10% | ~310 |
+| Call this the Judge's mercy | 0.10% | ~310 |
+| Pride is a sin, young Knight | 0.10% | ~310 |
+| There's too many of them! | 0.10% | ~310 |
+| Their fate is sealed | 0.10% | ~310 |
+| Not even from this world | 0.10% | ~310 |
+| Bring it on! | 0.10% | ~310 |
+| I've been waiting for this! | 0.10% | ~310 |
+| You want more? I've got more! | 0.10% | ~310 |
+| We learned it the hard way | 0.10% | ~310 |
+| We strike as one | 0.10% | ~310 |
+| Chaos be damned! | 0.10% | ~310 |
+| I took a risk | 0.10% | ~310 |
 | I'm just warming up | 0.00% | ~0 |
 | They wanted yet another monster… | 0.00% | ~0 |
 | Something... unnatural | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 309,465 (Ranked 49)  
+Progressed: 309,529 (Ranked 49)  
 Completed: 4 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 4 (0.00%) (Ranked 349)
 | 2023-11-10 | 307,359 | 4 |
 | 2023-11-11 | 308,408 | 4 |
 | 2023-11-12 | 309,432 | 4 |
-| 2023-11-13 | 309,465 | 4 |
+| 2023-11-13 | 309,529 | 4 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 414)  
 Sum: 58 (Ranked 472)  

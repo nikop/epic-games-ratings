@@ -1,22 +1,22 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.08 (Ranked 968)  
+Rating: 4.08 (Ranked 967)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~537,663 |
-| Every story has a beginning | 36.00% | ~245,011 |
-| The first of many | 31.00% | ~210,982 |
-| Positive word of mouth | 18.00% | ~122,505 |
-| Lawn in the U.S.A. | 15.00% | ~102,088 |
-| Blade Runner | 9.00% | ~61,253 |
-| Credible | 7.00% | ~47,641 |
-| Teamwork makes the dream work | 6.00% | ~40,835 |
-| Where there's muck there's brass | 4.00% | ~27,223 |
-| Bigger and better | 4.00% | ~27,223 |
-| Aggressive expansion | 4.00% | ~27,223 |
+| The dream begins | 79.00% | ~537,676 |
+| Every story has a beginning | 36.00% | ~245,017 |
+| The first of many | 31.00% | ~210,987 |
+| Positive word of mouth | 18.00% | ~122,508 |
+| Lawn in the U.S.A. | 15.00% | ~102,090 |
+| Blade Runner | 9.00% | ~61,254 |
+| Credible | 7.00% | ~47,642 |
+| Teamwork makes the dream work | 6.00% | ~40,836 |
+| Where there's muck there's brass | 4.00% | ~27,224 |
+| Bigger and better | 4.00% | ~27,224 |
+| Aggressive expansion | 4.00% | ~27,224 |
 | Size isn't everything | 3.00% | ~20,418 |
 | Close shave | 3.00% | ~20,418 |
 | Established | 3.00% | ~20,418 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~681 |
 | Mo mowers, mo problems | 0.10% | ~681 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680,586 (Ranked 25)  
+Progressed: 680,602 (Ranked 25)  
 Completed: 17 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 17 (0.00%) (Ranked 349)
 | 2023-11-10 | 679,882 | 17 |
 | 2023-11-11 | 680,225 | 17 |
 | 2023-11-12 | 680,571 | 17 |
-| 2023-11-13 | 680,586 | 17 |
+| 2023-11-13 | 680,602 | 17 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 297)  
 Sum: 983 (Ranked 262)  

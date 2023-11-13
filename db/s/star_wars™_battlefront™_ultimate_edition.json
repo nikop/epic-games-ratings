@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 286,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 166,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1197,
+  "EOS_Progressed": 1200,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3479,6 +3479,11 @@
       "Time": "2023-11-13T00:09:38.6501568+00:00",
       "NumProgressed": 1197,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T01:55:42.4521522+00:00",
+      "NumProgressed": 1200,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -3683,15 +3688,15 @@
       "Name": "Scrap collector",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "achievement_32",
       "SetID": "271ol84",
       "Name": "All right, I\u0027ll give it a try",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_33",
@@ -3715,7 +3720,7 @@
       "Name": "New Recruit",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1068
     },
     {
       "ID": "achievement_36",
@@ -3731,7 +3736,7 @@
       "Name": "Off to a good start",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 802
+      "UsersEstimate": 804
     },
     {
       "ID": "achievement_38",
@@ -3755,7 +3760,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "achievement_40",
@@ -3763,7 +3768,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 610
+      "UsersEstimate": 612
     },
     {
       "ID": "achievement_41",
@@ -3795,7 +3800,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "achievement_45",
@@ -3931,7 +3936,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "achievement_60",
@@ -3994,13 +3999,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 1197,
+      "Progressed": 1200,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 1197,
+      "Progressed": 1200,
       "Completed": 1
     }
   ],
@@ -4008,8 +4013,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:09:38.6501564+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:55:42.452152+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:42.2865924+00:00",
-  "LastUpdate_Ratings": "2023-11-13T00:00:46.3984491+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:09:38.6502222+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:46:24.738487+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:55:42.4522236+00:00"
 }

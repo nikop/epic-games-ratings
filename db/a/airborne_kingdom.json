@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
@@ -328,9 +328,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7480,
+  "EOS_Progressed": 7481,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -5673,6 +5673,11 @@
       "Time": "2023-11-12T19:03:01.0176938+00:00",
       "NumProgressed": 7480,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2023-11-13T01:49:57.3486579+00:00",
+      "NumProgressed": 7481,
+      "NumCompleted": 58
     }
   ],
   "TotalAchievements": 27,
@@ -5716,7 +5721,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 3964
+      "UsersEstimate": 3965
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -5762,9 +5767,9 @@
       "ID": "AK_KNOWLEDGE_SHARED",
       "SetID": "dfmb89",
       "Name": "Knowledge Shared",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 1496
+      "UsersEstimate": 1571
     },
     {
       "ID": "AK_LEARNED_SCHOLAR",
@@ -5772,7 +5777,7 @@
       "Name": "A Learned Scholar",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "AK_ON_TOWN",
@@ -5780,7 +5785,7 @@
       "Name": "On the Town",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "AK_PEACEFUL_RESPITE",
@@ -5796,7 +5801,7 @@
       "Name": "Prophecy Fulfilled",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 972
+      "UsersEstimate": 973
     },
     {
       "ID": "AK_PYRE_IGNITED",
@@ -5804,7 +5809,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -5852,7 +5857,7 @@
       "Name": "It Takes a Village",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "AK_TRAVELERS_RETURNED",
@@ -5899,15 +5904,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7480,
+      "Progressed": 7481,
       "Completed": 58
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:03:36.5169925+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:49:57.3486575+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:39.4199908+00:00",
-  "LastUpdate_Ratings": "2023-11-13T00:03:12.5054183+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:03:36.5170337+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:49:36.3656878+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:49:57.3487026+00:00"
 }

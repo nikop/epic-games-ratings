@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -6679,11 +6679,17 @@
       "Rating": 4.61,
       "NumberOfAwards": 4364,
       "NumberOfAwardsMax": 561
+    },
+    {
+      "Time": "2023-11-13T01:45:44.805199+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4366,
+      "NumberOfAwardsMax": 563
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4364,
-  "NumberOfAwardsMax": 561,
+  "NumberOfAwards": 4366,
+  "NumberOfAwardsMax": 563,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -6696,7 +6702,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 561
+      "Count": 563
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6753,9 +6759,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 193419,
+  "EOS_Progressed": 193436,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 2238,
+  "EOS_NewPlayers": 2243,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30243,6 +30249,11 @@
       "Time": "2023-11-13T00:09:05.8726536+00:00",
       "NumProgressed": 193419,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-13T01:55:15.3406979+00:00",
+      "NumProgressed": 193436,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 16,
@@ -30254,7 +30265,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 3868
+      "UsersEstimate": 3869
     },
     {
       "ID": "Achievement_1",
@@ -30286,7 +30297,7 @@
       "Name": "Get Busy Living",
       "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 30947
+      "UsersEstimate": 30950
     },
     {
       "ID": "Achievement_13",
@@ -30334,7 +30345,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 48355
+      "UsersEstimate": 48359
     },
     {
       "ID": "Achievement_5",
@@ -30342,7 +30353,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 3868
+      "UsersEstimate": 3869
     },
     {
       "ID": "Achievement_6",
@@ -30366,7 +30377,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 17408
+      "UsersEstimate": 17409
     },
     {
       "ID": "Achievement_9",
@@ -30374,22 +30385,22 @@
       "Name": "Spare The Rod",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 9671
+      "UsersEstimate": 9672
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 193419,
+      "Progressed": 193436,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2023-11-12T18:59:14.6747967+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:09:05.8726532+00:00",
+  "LastChanged": "2023-11-13T01:45:44.8051988+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:55:15.3406977+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:15.0661534+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:59:56.5629626+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:09:05.8727705+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:45:44.8051995+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:55:15.3407919+00:00"
 }

@@ -15,7 +15,7 @@
 | Vampires | 30.00% | ~28 |
 | Bloody stream | 30.00% | ~28 |
 | Fangs | 19.00% | ~18 |
-| Mirrors | 11.00% | ~10 |
+| Mirrors | 12.00% | ~11 |
 | Coat | 8.00% | ~7 |
 | At least there is something to read | 6.00% | ~6 |
 | Sarcophagus | 6.00% | ~6 |

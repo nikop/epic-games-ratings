@@ -495,9 +495,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5699,
+  "EOS_Progressed": 5700,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 683,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5405,6 +5405,11 @@
       "Time": "2023-11-13T00:04:14.1508299+00:00",
       "NumProgressed": 5699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T01:50:28.5963048+00:00",
+      "NumProgressed": 5700,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5415,9 +5420,9 @@
       "ID": "achievement_0001",
       "SetID": "9123ogc",
       "Name": "Spring Cleaning",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1311
     },
     {
       "ID": "achievement_0002",
@@ -5457,7 +5462,7 @@
       "Name": "Setting up for Success",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4274
+      "UsersEstimate": 4275
     },
     {
       "ID": "achievement_0007",
@@ -5465,7 +5470,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5300
+      "UsersEstimate": 5301
     },
     {
       "ID": "achievement_0008",
@@ -5473,7 +5478,7 @@
       "Name": "On the Top Step",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 4901
+      "UsersEstimate": 4902
     },
     {
       "ID": "achievement_0009",
@@ -5577,7 +5582,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4217
+      "UsersEstimate": 4218
     },
     {
       "ID": "achievement_0022",
@@ -5673,7 +5678,7 @@
       "Name": "Engineer",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 3020
+      "UsersEstimate": 3021
     },
     {
       "ID": "achievement_0034",
@@ -5808,7 +5813,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5699,
+      "Progressed": 5700,
       "Completed": 0
     }
   ],
@@ -5816,8 +5821,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-12T15:00:20.0468985+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:04:14.1508292+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:50:28.5963045+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-13T00:01:14.3631181+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:04:14.1509108+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:46:46.818172+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:50:28.5963771+00:00"
 }

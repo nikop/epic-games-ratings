@@ -2,7 +2,7 @@
   "ID": "246d81dbb3bc4e0eb0fcfd9b85f4de77",
   "Name": "ELEGIES Aya",
   "ProductSlug": "elegies-aya-17c3f1",
-  "Ranking_EOS_Progress": 588,
+  "Ranking_EOS_Progress": 583,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 130,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10,
+  "EOS_Progressed": 11,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -79,6 +79,11 @@
       "Time": "2023-06-30T02:23:59.4557284+00:00",
       "NumProgressed": 10,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T01:54:51.5136273+00:00",
+      "NumProgressed": 11,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 13,
@@ -88,15 +93,15 @@
       "ID": "ACH_CH0",
       "SetID": "1em00ld",
       "Name": "You\u0027ve met with a terrible fate haven\u0027t you?",
-      "Percentage": 60,
+      "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ACH_CH1",
       "SetID": "1em00ld",
       "Name": "Nothing in life is to be feared",
-      "Percentage": 20,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -104,7 +109,7 @@
       "ID": "ACH_CH2",
       "SetID": "1em00ld",
       "Name": "Late night investigation",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -120,7 +125,7 @@
       "ID": "ACH_CH4",
       "SetID": "1em00ld",
       "Name": "It\u0027s a trap!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -128,7 +133,7 @@
       "ID": "ACH_CH5",
       "SetID": "1em00ld",
       "Name": "Like a ninja!",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -136,7 +141,7 @@
       "ID": "ACH_CH6",
       "SetID": "1em00ld",
       "Name": "Lights out",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -152,7 +157,7 @@
       "ID": "ACH_CH8",
       "SetID": "1em00ld",
       "Name": "The end... or is it?",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -168,7 +173,7 @@
       "ID": "ACH_E2",
       "SetID": "1em00ld",
       "Name": "Happy ever after",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 125,
       "UsersEstimate": 1
     },
@@ -193,14 +198,14 @@
     {
       "ID": "1em00ld",
       "IsBase": true,
-      "Progressed": 10,
+      "Progressed": 11,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-23T07:59:25.1287927+00:00",
   "FirstSeenAchievements": "2023-05-02T21:04:14.2389634+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:08:37.195167+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:54:51.5136271+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:35.7637182+00:00",
-  "LastUpdate_Ratings": "2023-11-13T00:00:37.8354799+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:08:37.1951764+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:46:18.2072195+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:54:51.5136337+00:00"
 }

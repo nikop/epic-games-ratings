@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -425,9 +425,9 @@
       "ID": "CampaignStars1",
       "SetID": "c2k469b",
       "Name": "Campaign Bronze",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 149
+      "UsersEstimate": 153
     },
     {
       "ID": "CampaignStars2",
@@ -618,8 +618,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:06:43.9457041+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:52:32.1580349+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:24.6450257+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:58:22.7536+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:06:43.9457258+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:44:33.1999515+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:52:32.1580604+00:00"
 }

@@ -6,31 +6,31 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 85.00% | ~201 |
 | Thalya – Simply Immortal | 85.00% | ~201 |
-| For the Horde! | 76.00% | ~180 |
-| Hammer Time, Round Two | 74.00% | ~175 |
+| For the Horde! | 77.00% | ~182 |
+| Hammer Time, Round Two | 75.00% | ~178 |
 | Thalya's Concentrated Fury | 64.00% | ~152 |
 | The Hellwoods | 64.00% | ~152 |
-| Experienced Thalya | 57.00% | ~135 |
+| Experienced Thalya | 58.00% | ~137 |
+| Master of Magic | 56.00% | ~133 |
 | The Plains of Strothalm | 56.00% | ~133 |
-| Master of Magic | 55.00% | ~130 |
 | Bad Elves Go Everywhere | 53.00% | ~126 |
-| Unicorn steaks – fresh off the hoof! | 50.00% | ~118 |
+| Unicorn steaks – fresh off the hoof! | 51.00% | ~121 |
 | Trap Master | 49.00% | ~116 |
-| Magic Accidents | 48.00% | ~114 |
+| Magic Accidents | 49.00% | ~116 |
 | Minions, Minions! | 46.00% | ~109 |
-| Heroes’ Gorge | 43.00% | ~102 |
+| Heroes’ Gorge | 44.00% | ~104 |
 | YOU SHALL NOT PASS! | 34.00% | ~81 |
-| The Ascent | 29.00% | ~69 |
-| It's Warm and Cozy at Home | 29.00% | ~69 |
+| The Ascent | 30.00% | ~71 |
+| It's Warm and Cozy at Home | 30.00% | ~71 |
+| Mana Cannon | 26.00% | ~62 |
 | Hard Work | 26.00% | ~62 |
 | Pure Dynamite! | 26.00% | ~62 |
-| Mana Cannon | 25.00% | ~59 |
-| The Big Eaty | 22.00% | ~52 |
+| The Big Eaty | 23.00% | ~55 |
 | “… like son” | 16.00% | ~38 |
-| Dungeonlord Gorgu | 13.00% | ~31 |
+| Dungeonlord Gorgu | 14.00% | ~33 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 12.00% | ~28 |
+| Shame! Shame! Shame! | 12.00% | ~28 |
 | The Cathedral of Light | 11.00% | ~26 |
-| Shame! Shame! Shame! | 11.00% | ~26 |
 | Sacrificial Pit = Garbage Disposal? | 10.00% | ~24 |
 | Hungry, Hungry Gorgu! | 9.00% | ~21 |
 | Tanos' Crusade Against Thalya | 9.00% | ~21 |
@@ -50,9 +50,9 @@
 | Mirror, Mirror | 2.00% | ~5 |
 | Laser Eyes Are So Useless | 2.00% | ~5 |
 | Doom Hill | 1.00% | ~2 |
+| Lavalumps on Ice! | 1.00% | ~2 |
 | Rubble and Ashes | 1.00% | ~2 |
 | Untouchable | 0.80% | ~2 |
-| Lavalumps on Ice! | 0.80% | ~2 |
 | Brimstone Shaken, Not Stirred | 0.80% | ~2 |
 | The Last Stand - This Time For Real! | 0.80% | ~2 |
 | Raiders of the Lost Stone | 0.40% | ~1 |

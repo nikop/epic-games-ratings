@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7737,
+  "EOS_Progressed": 7739,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6651,6 +6651,11 @@
       "Time": "2023-11-13T00:09:23.4281772+00:00",
       "NumProgressed": 7737,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T01:55:29.9353287+00:00",
+      "NumProgressed": 7739,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6663,7 +6668,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5571
+      "UsersEstimate": 5572
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6671,15 +6676,15 @@
       "Name": "A Thorny Situation",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 5416
+      "UsersEstimate": 5417
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Calm Sailing",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 2785
+      "UsersEstimate": 2863
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -6751,7 +6756,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2089
+      "UsersEstimate": 2090
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -6759,7 +6764,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3327
+      "UsersEstimate": 3328
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6767,7 +6772,7 @@
       "Name": "Break-Net Speed",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "COLLECT_SEASHELLS",
@@ -6815,7 +6820,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4720
+      "UsersEstimate": 4721
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6839,7 +6844,7 @@
       "Name": "Bramble Breaker",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 3559
+      "UsersEstimate": 3560
     },
     {
       "ID": "EARN_FLORINS_1",
@@ -6871,7 +6876,7 @@
       "Name": "Chatty Neighbor",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "PREPARE_MEALS_1",
@@ -6887,7 +6892,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -6927,7 +6932,7 @@
       "Name": "House Proud",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "UPGRADE_ONESKILLMAX",
@@ -6935,29 +6940,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7737,
+      "Progressed": 7739,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 354,
-      "Completed": 354
+      "Progressed": 356,
+      "Completed": 356
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:09:23.4281768+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:55:29.9353241+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-13T00:03:10.3684479+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:09:23.4282285+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:49:34.433191+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:55:29.9353714+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 293,
-  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewPlayers": 68,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4593,9 +4593,9 @@
       "Count": 488
     }
   ],
-  "EOS_Progressed": 90815,
+  "EOS_Progressed": 90826,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1229,
+  "EOS_NewPlayers": 1239,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25043,6 +25043,11 @@
       "Time": "2023-11-13T00:05:41.9209055+00:00",
       "NumProgressed": 90815,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-13T01:51:41.2311125+00:00",
+      "NumProgressed": 90826,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -25054,7 +25059,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "ACH_0011",
@@ -25196,9 +25201,9 @@
       "ID": "ACH_0200",
       "SetID": "3kam13l",
       "Name": "First One\u2019s Free",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1816
+      "UsersEstimate": 2725
     },
     {
       "ID": "ACH_0210",
@@ -25206,7 +25211,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "ACH_0211",
@@ -25222,7 +25227,7 @@
       "Name": "Too Old for This",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "ACH_0300",
@@ -25286,7 +25291,7 @@
       "Name": "Fancy Pants",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "ACH_0431",
@@ -25350,7 +25355,7 @@
       "Name": "All that Glitters",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_1020",
@@ -25381,13 +25386,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90815,
+      "Progressed": 90826,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19162,
+      "Progressed": 19173,
       "Completed": 15567
     }
   ],
@@ -25395,8 +25400,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-12T15:57:45.0359059+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:05:41.9209049+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:51:41.2311122+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:58:09.1401355+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:05:41.9210305+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:44:22.7001025+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:51:41.2312406+00:00"
 }

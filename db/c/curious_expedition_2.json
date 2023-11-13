@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 325,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -414,9 +414,9 @@
       "ID": "ach-campaign-allEndings",
       "SetID": "17ih7ma",
       "Name": "Now I\u0027ve Seen It All",
-      "Percentage": 0.3,
+      "Percentage": 0.6,
       "XP": 150,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach-campaign-fameThreshold",
@@ -438,17 +438,17 @@
       "ID": "ach-campaign-finish-hard",
       "SetID": "17ih7ma",
       "Name": "Lunatic",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "ach-campaign-finish-normal",
       "SetID": "17ih7ma",
       "Name": "Adventurer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 80,
-      "UsersEstimate": 47
+      "UsersEstimate": 51
     },
     {
       "ID": "ach-campaign-noDeath",
@@ -566,9 +566,9 @@
       "ID": "ach-hardExpeditions",
       "SetID": "17ih7ma",
       "Name": "Risk/Reward",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 14
     },
     {
       "ID": "ach-interspeciesLove",
@@ -734,9 +734,9 @@
       "ID": "ach-redElk",
       "SetID": "17ih7ma",
       "Name": "A Gentle Beast",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 58
     },
     {
       "ID": "ach-rideDinosaur",
@@ -823,8 +823,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2023-08-30T18:59:20.1216218+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:09:37.0877118+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:55:41.0245611+00:00",
   "LastUpdate_AppInfo": "2023-11-11T10:57:00.2383512+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:58:17.2097479+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:09:37.0877554+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:44:28.7640254+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:55:41.0246447+00:00"
 }

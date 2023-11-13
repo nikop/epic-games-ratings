@@ -5,17 +5,17 @@ Rating: 4.54 (Ranked 524)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~864 |
-| Whatever It Takes | 2.00% | ~864 |
-| Pork Chopped | 2.00% | ~864 |
+| One of Us | 2.00% | ~865 |
+| Whatever It Takes | 2.00% | ~865 |
+| Pork Chopped | 2.00% | ~865 |
+| Welcome To Hell-A | 0.90% | ~6,459 |
 | Hotel California | 0.80% | ~5,741 |
-| Welcome To Hell-A | 0.80% | ~5,741 |
+| Git Gutte! | 0.70% | ~5,024 |
 | Break A Leg | 0.70% | ~5,024 |
 | Coup de Grâce | 0.70% | ~5,024 |
 | Hazardous Materials | 0.70% | ~5,024 |
 | Personal Assistant Personally Assisted | 0.70% | ~5,024 |
 | Dr. Reed, I Presume? | 0.60% | ~4,306 |
-| Git Gutte! | 0.60% | ~4,306 |
 | Anger Management | 0.60% | ~4,306 |
 | Bookworm | 0.60% | ~4,306 |
 | But Doctor, I am Butcho | 0.60% | ~4,306 |
@@ -47,18 +47,18 @@ Rating: 4.54 (Ranked 524)
 | Make it So | 0.20% | ~1,435 |
 | LA Influential | 0.20% | ~1,435 |
 | Smorgasbord | 0.20% | ~1,435 |
+| Sole Survivor | 0.20% | ~1,435 |
 | Gore Horse | 0.20% | ~1,435 |
 | Top That, Tisha! | 0.20% | ~86 |
 | Donk! | 0.10% | ~718 |
-| Sole Survivor | 0.10% | ~718 |
 | Sharpest Tool in the Box | 0.10% | ~718 |
 | Survival Skills | 0.10% | ~718 |
 | Bucket List | 0.10% | ~718 |
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,647 (Ranked 20)  
-Completed: 2,385 (0.33%) (Ranked 222)  
+Progressed: 717,685 (Ranked 20)  
+Completed: 2,386 (0.33%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -264,10 +264,10 @@ Completed: 2,385 (0.33%) (Ranked 222)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 717,647 | 2,385 |
+| 2023-11-13 | 717,685 | 2,386 |
 ## Awards
 Max (Great Boss Battles): 7,376  (Ranked 51)  
-Sum: 11,188 (Ranked 85)  
+Sum: 11,193 (Ranked 85)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -277,8 +277,8 @@ Diff (max vs sum): -34
 | This game has Quickly Understood Controls | 506 |
 | This game is Relaxing | 478 |
 | This game has Amazing Storytelling | 461 |
+| This game is Extremely Fun | 446 |
 | This game is Highly Recommended | 444 |
-| This game is Extremely Fun | 441 |
 | This game has Amazing Characters | 407 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -489,3 +489,4 @@ Diff (max vs sum): -34
 | 2023-11-10 | 4.54 | 7,279 | 11,038 |
 | 2023-11-11 | 4.54 | 7,320 | 11,108 |
 | 2023-11-12 | 4.54 | 7,376 | 11,188 |
+| 2023-11-13 | 4.54 | 7,376 | 11,193 |

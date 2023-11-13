@@ -27,13 +27,13 @@ Number of Ratings: 20  (23.09.2022)
 | Veteran Explorer | 21.00% | ~71 |
 | Red Flag Pirate | 19.00% | ~64 |
 | Iron Man | 17.00% | ~58 |
+| A Gentle Beast | 17.00% | ~58 |
 | Shortening of the Way | 16.00% | ~54 |
-| A Gentle Beast | 16.00% | ~54 |
 | Practical Palaeontology | 16.00% | ~54 |
+| Adventurer | 15.00% | ~51 |
 | For the Club! | 15.00% | ~51 |
 | Dapper | 15.00% | ~51 |
 | The New Director | 14.00% | ~47 |
-| Adventurer | 14.00% | ~47 |
 | Discovery | 14.00% | ~47 |
 | Plays Well With Others | 14.00% | ~47 |
 | The Director is Dead | 13.00% | ~44 |
@@ -55,17 +55,17 @@ Number of Ratings: 20  (23.09.2022)
 | The Round Table | 5.00% | ~17 |
 | A Familiar Figure | 4.00% | ~14 |
 | X Marks the Spot | 4.00% | ~14 |
+| Risk/Reward | 4.00% | ~14 |
 | Frugal | 4.00% | ~14 |
+| Lunatic | 3.00% | ~10 |
 | A Perfect Map | 3.00% | ~10 |
-| Risk/Reward | 3.00% | ~10 |
 | I Set Forth Again... and Again... and Again... | 3.00% | ~10 |
-| Lunatic | 2.00% | ~7 |
 | Look Ma, No Equipment! | 2.00% | ~7 |
 | Abominable Hunger | 0.90% | ~3 |
 | Everything is FINE... | 0.90% | ~3 |
 | Pacifism Ain't Easy | 0.90% | ~3 |
 | It's Not Too Late | 0.90% | ~3 |
-| Now I've Seen It All | 0.30% | ~1 |
+| Now I've Seen It All | 0.60% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 339 (Ranked 325)  
 Completed: 1 (0.29%) (Ranked 231)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 268,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3308,10 +3308,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11672,
       "NumberOfAwardsMax": 1503
+    },
+    {
+      "Time": "2023-11-13T01:49:41.6216027+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11674,
+      "NumberOfAwardsMax": 1503
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11672,
+  "NumberOfAwards": 11674,
   "NumberOfAwardsMax": 1503,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3337,7 +3343,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 1218
+      "Count": 1220
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3382,7 +3388,7 @@
       "Count": 742
     }
   ],
-  "EOS_Progressed": 239611,
+  "EOS_Progressed": 239615,
   "EOS_Completed": 288,
   "EOS_NewPlayers": 368,
   "EOS_NewCompleters": 2,
@@ -24817,6 +24823,11 @@
       "Time": "2023-11-13T00:09:42.2881461+00:00",
       "NumProgressed": 239611,
       "NumCompleted": 288
+    },
+    {
+      "Time": "2023-11-13T01:55:45.7027614+00:00",
+      "NumProgressed": 239615,
+      "NumCompleted": 288
     }
   ],
   "TotalAchievements": 138,
@@ -25626,9 +25637,9 @@
       "ID": "TRANSFORM20TIMES",
       "SetID": "5l8oe0h",
       "Name": "Shapeshifting",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 240
+      "UsersEstimate": 479
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -25931,22 +25942,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 239611,
+      "Progressed": 239615,
       "Completed": 288
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 1091,
+      "Progressed": 1095,
       "Completed": 374
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2023-11-12T17:03:11.8457024+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:09:42.2881456+00:00",
+  "LastChanged": "2023-11-13T01:49:41.6216026+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:55:45.702761+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:08.7985899+00:00",
-  "LastUpdate_Ratings": "2023-11-13T00:03:16.9733705+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:09:42.2884172+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:49:41.6216031+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:55:45.7030019+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.24 (Ranked 882)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~360,653 |
-| Well educated | 37.00% | ~278,003 |
-| City Planner | 19.00% | ~142,758 |
-| Deforester | 17.00% | ~127,731 |
-| Big Hauling | 16.00% | ~120,218 |
-| Apprentice Manufacturer | 13.00% | ~97,677 |
-| Exporter | 13.00% | ~97,677 |
-| I would drive 500 tiles... | 12.00% | ~90,163 |
-| Landscaper | 12.00% | ~90,163 |
-| Railwayman | 8.00% | ~60,109 |
+| Entrepreneur | 48.00% | ~360,660 |
+| Well educated | 37.00% | ~278,009 |
+| City Planner | 19.00% | ~142,761 |
+| Deforester | 17.00% | ~127,734 |
+| Big Hauling | 16.00% | ~120,220 |
+| Apprentice Manufacturer | 13.00% | ~97,679 |
+| Exporter | 13.00% | ~97,679 |
+| I would drive 500 tiles... | 12.00% | ~90,165 |
+| Landscaper | 12.00% | ~90,165 |
+| Railwayman | 8.00% | ~60,110 |
 | Penniless | 6.00% | ~45,082 |
 | Massive Gains | 6.00% | ~45,082 |
 | Salesman | 3.00% | ~22,541 |
-| Engineer | 2.00% | ~15,027 |
-| High Flyer | 2.00% | ~15,027 |
+| Engineer | 2.00% | ~15,028 |
+| High Flyer | 2.00% | ~15,028 |
 | Captain | 0.80% | ~6,011 |
 | Billionaire | 0.70% | ~5,260 |
-| Vroom Vroom | 0.40% | ~3,005 |
+| Vroom Vroom | 0.40% | ~3,006 |
 | Excavator | 0.30% | ~2,254 |
 | Loan Ranger | 0.30% | ~2,254 |
 | [2130] Nature Lover | 0.10% | ~751 |
@@ -33,7 +33,7 @@ Rating: 4.24 (Ranked 882)
 | Master Builder | 0.10% | ~751 |
 | Hard working | 0.10% | ~751 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 751,360 (Ranked 18)  
+Progressed: 751,375 (Ranked 18)  
 Completed: 4 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 4 (0.00%) (Ranked 349)
 | 2023-11-10 | 750,619 | 4 |
 | 2023-11-11 | 750,989 | 4 |
 | 2023-11-12 | 751,354 | 4 |
-| 2023-11-13 | 751,360 | 4 |
+| 2023-11-13 | 751,375 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

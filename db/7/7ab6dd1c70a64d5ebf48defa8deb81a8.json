@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 183,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -845,9 +845,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "ACH_19",
@@ -925,9 +925,9 @@
       "ID": "ACH_28",
       "SetID": "efe2lj",
       "Name": "I Found It",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "ACH_29",
@@ -1004,8 +1004,8 @@
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-13T00:09:39.0888287+00:00",
+  "LastChanged_Achievements": "2023-11-13T01:55:42.6957047+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-12T23:59:59.6475659+00:00",
-  "LastUpdate_Achievements": "2023-11-13T00:09:39.0888536+00:00"
+  "LastUpdate_Ratings": "2023-11-13T01:45:47.3059223+00:00",
+  "LastUpdate_Achievements": "2023-11-13T01:55:42.6957298+00:00"
 }
