@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 120,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8730,9 +8730,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65029,
+  "EOS_Progressed": 65031,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30490,6 +30490,11 @@
       "Time": "2023-11-13T10:09:28.1109027+00:00",
       "NumProgressed": 65029,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T11:09:27.1386553+00:00",
+      "NumProgressed": 65031,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30557,7 +30562,7 @@
       "Name": "Crowdfunded",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "Crackshot",
@@ -30573,7 +30578,7 @@
       "Name": "Crush your enemies",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "Duelist",
@@ -30693,7 +30698,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 11705
+      "UsersEstimate": 11706
     },
     {
       "ID": "Kingslayer",
@@ -30781,7 +30786,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3252
     },
     {
       "ID": "Real Estate",
@@ -30908,15 +30913,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65029,
+      "Progressed": 65031,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-13T09:59:07.9770001+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:09:28.1109022+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:09:27.1386549+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:59:07.9770014+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:09:28.1110872+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:58:52.6254658+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:09:27.1387672+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-10T12:00:00+00:00",
     "PcReleaseDate": "2023-11-10T12:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "bacnddk",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2023-11-13T11:04:18.4577692+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:04:18.4577669+00:00",
   "LastUpdate_AppInfo": "2023-11-10T13:01:44.2727843+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:59:01.5760306+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:04:37.2964266+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:58:46.7286017+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:04:18.4577708+00:00"
 }

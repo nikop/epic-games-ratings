@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 66,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
     "PcReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4593,9 +4593,9 @@
       "Count": 488
     }
   ],
-  "EOS_Progressed": 90878,
+  "EOS_Progressed": 90886,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1288,
+  "EOS_NewPlayers": 1296,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25093,6 +25093,11 @@
       "Time": "2023-11-13T10:05:53.8055933+00:00",
       "NumProgressed": 90878,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-13T11:05:29.5720545+00:00",
+      "NumProgressed": 90886,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -25158,9 +25163,9 @@
       "ID": "ACH_0021",
       "SetID": "3kam13l",
       "Name": "Rockay Raider",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 55,
-      "UsersEstimate": 182
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_0022",
@@ -25248,7 +25253,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "ACH_0210",
@@ -25431,13 +25436,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 90878,
+      "Progressed": 90886,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19225,
+      "Progressed": 19233,
       "Completed": 15567
     }
   ],
@@ -25445,8 +25450,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2023-11-12T15:57:45.0359059+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:05:53.8055926+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:05:29.5720541+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:58:19.0475163+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:05:53.8057808+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:58:09.7498207+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:05:29.5721574+00:00"
 }

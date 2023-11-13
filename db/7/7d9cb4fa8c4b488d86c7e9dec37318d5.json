@@ -2,10 +2,10 @@
   "ID": "7d9cb4fa8c4b488d86c7e9dec37318d5",
   "Name": "Suicide Guy",
   "ProductSlug": "suicide-guy-9f7963",
-  "Ranking_EOS_Progress": 350,
+  "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
     "PcReleaseDate": "2017-06-14T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 272,
+  "EOS_Progressed": 273,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1174,6 +1174,11 @@
       "Time": "2023-11-13T04:05:01.3047793+00:00",
       "NumProgressed": 272,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T11:05:00.1194408+00:00",
+      "NumProgressed": 273,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 10,
@@ -1201,7 +1206,7 @@
       "Name": "1 Suicide Guy statue",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "Game Completed",
@@ -1249,7 +1254,7 @@
       "Name": "Firest level completed!",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "The Breaker",
@@ -1264,14 +1269,14 @@
     {
       "ID": "1fffk9d",
       "IsBase": true,
-      "Progressed": 272,
+      "Progressed": 273,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:05:22.4385305+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:05:00.1194403+00:00",
   "LastUpdate_AppInfo": "2023-11-08T07:57:14.7890959+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:57:22.1238037+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:05:22.4385505+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:57:18.0254384+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:05:00.1194549+00:00"
 }

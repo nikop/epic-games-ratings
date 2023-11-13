@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 291,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1359,9 +1359,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 5987,
+  "EOS_Progressed": 5988,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 181,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -12839,6 +12839,11 @@
       "Time": "2023-11-13T07:09:34.3442338+00:00",
       "NumProgressed": 5987,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-13T11:09:43.4035136+00:00",
+      "NumProgressed": 5988,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -12946,7 +12951,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2694
+      "UsersEstimate": 2695
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -13008,9 +13013,9 @@
       "ID": "ACH_JUSTONEMORETERM",
       "SetID": "1p8ab95",
       "Name": "Just One...More...Term...",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 4430
+      "UsersEstimate": 4491
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -13122,7 +13127,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -13169,15 +13174,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 5987,
+      "Progressed": 5988,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2023-11-12T13:01:14.2582562+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:09:45.7250782+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:09:43.403513+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.1607316+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:59:14.6177552+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:09:45.7251816+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:58:59.0858321+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:09:43.4035911+00:00"
 }

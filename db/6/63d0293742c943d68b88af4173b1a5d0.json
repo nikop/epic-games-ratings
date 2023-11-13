@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -320,9 +320,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 28
     },
     {
       "ID": "REMAKE_002",
@@ -376,9 +376,9 @@
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Remake_010",
@@ -495,8 +495,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:06:06.8160045+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:05:41.3764176+00:00",
   "LastUpdate_AppInfo": "2023-11-06T20:57:01.7197178+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:00:50.040603+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:06:06.8160279+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:00:23.6451383+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:05:41.3764353+00:00"
 }

@@ -44,11 +44,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 2.00% | ~306 |
 | Mighty | 2.00% | ~306 |
 | Valiant | 2.00% | ~306 |
+| Victorious | 2.00% | ~306 |
 | Wise | 2.00% | ~306 |
 | Legendary Cities | 2.00% | ~306 |
 | Able Difficulty | 2.00% | ~306 |
 | Just Difficulty | 2.00% | ~306 |
 | Artisans | 2.00% | ~306 |
+| Champions | 2.00% | ~306 |
 | Sages | 2.00% | ~306 |
 | Furious Family | 2.00% | ~306 |
 | Acropolis | 2.00% | ~306 |
@@ -77,9 +79,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 1.00% | ~153 |
 | Lion | 1.00% | ~153 |
 | Subjugator | 1.00% | ~153 |
-| Victorious | 1.00% | ~153 |
 | Good Difficulty | 1.00% | ~153 |
-| Champions | 1.00% | ~153 |
+| Strong Difficulty | 1.00% | ~153 |
 | Hunters | 1.00% | ~153 |
 | Landowners | 1.00% | ~153 |
 | Patrons | 1.00% | ~153 |
@@ -113,21 +114,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~153 |
 | The Clergy | 1.00% | ~153 |
 | Capable | 0.90% | ~138 |
-| Ready | 0.90% | ~138 |
-| Strong Difficulty | 0.90% | ~138 |
 | Church of the Holy Sepulchre | 0.90% | ~138 |
 | Babylonia | 0.90% | ~138 |
 | Carthage | 0.90% | ~138 |
 | One True Faith | 0.90% | ~138 |
 | Industrial Progress | 0.90% | ~138 |
-| Enlightenment | 0.90% | ~138 |
 | Revelation | 0.90% | ~138 |
 | Veneration | 0.90% | ~138 |
 | Mounted Lancer | 0.90% | ~138 |
 | Devout | 0.80% | ~122 |
+| Ready | 0.80% | ~122 |
 | Clerics | 0.80% | ~122 |
 | Egypt | 0.80% | ~122 |
 | Assyrian Paganism | 0.80% | ~122 |
+| Enlightenment | 0.80% | ~122 |
 | Turreted Elephant | 0.80% | ~122 |
 | Poetic Leader | 0.80% | ~122 |
 | Bad Heir Day | 0.70% | ~107 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,293 (Ranked 146)  
+Progressed: 15,295 (Ranked 146)  
 Completed: 5 (0.03%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -556,7 +556,7 @@ Completed: 5 (0.03%) (Ranked 313)
 | 2023-11-10 | 15,253 | 5 |
 | 2023-11-11 | 15,270 | 5 |
 | 2023-11-12 | 15,291 | 5 |
-| 2023-11-13 | 15,293 | 5 |
+| 2023-11-13 | 15,295 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 214)  

@@ -9,7 +9,7 @@ Rating: 4.54 (Ranked 523)
 | Whatever It Takes | 2.00% | ~867 |
 | Pork Chopped | 2.00% | ~867 |
 | Welcome To Hell-A | 0.90% | ~6,460 |
-| Hotel California | 0.80% | ~5,742 |
+| Hotel California | 0.80% | ~5,743 |
 | Git Gutte! | 0.70% | ~5,025 |
 | Break A Leg | 0.70% | ~5,025 |
 | Coup de Grâce | 0.70% | ~5,025 |
@@ -49,15 +49,15 @@ Rating: 4.54 (Ranked 523)
 | Smorgasbord | 0.20% | ~1,436 |
 | Sole Survivor | 0.20% | ~1,436 |
 | Gore Horse | 0.20% | ~1,436 |
+| Sharpest Tool in the Box | 0.20% | ~1,436 |
 | Top That, Tisha! | 0.20% | ~87 |
 | Donk! | 0.10% | ~718 |
-| Sharpest Tool in the Box | 0.10% | ~718 |
 | Survival Skills | 0.10% | ~718 |
 | Bucket List | 0.10% | ~718 |
 | Lawn and Order | 0.10% | ~43 |
 | Wilhelm | 0.10% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,795 (Ranked 20)  
+Progressed: 717,816 (Ranked 20)  
 Completed: 2,386 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,386 (0.33%) (Ranked 223)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 717,795 | 2,386 |
+| 2023-11-13 | 717,816 | 2,386 |
 ## Awards
 Max (Great Boss Battles): 7,376  (Ranked 52)  
 Sum: 11,199 (Ranked 85)  

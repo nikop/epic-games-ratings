@@ -10,14 +10,14 @@
 | Hammer Time, Round Two | 76.00% | ~183 |
 | The Hellwoods | 66.00% | ~159 |
 | Thalya's Concentrated Fury | 64.00% | ~154 |
+| The Plains of Strothalm | 59.00% | ~142 |
 | Experienced Thalya | 58.00% | ~140 |
-| The Plains of Strothalm | 57.00% | ~137 |
 | Master of Magic | 56.00% | ~135 |
 | Bad Elves Go Everywhere | 54.00% | ~130 |
 | Unicorn steaks – fresh off the hoof! | 51.00% | ~123 |
 | Trap Master | 50.00% | ~120 |
 | Magic Accidents | 49.00% | ~118 |
-| Minions, Minions! | 46.00% | ~111 |
+| Minions, Minions! | 47.00% | ~113 |
 | Heroes’ Gorge | 44.00% | ~106 |
 | YOU SHALL NOT PASS! | 34.00% | ~82 |
 | The Ascent | 31.00% | ~75 |
@@ -28,9 +28,9 @@
 | The Big Eaty | 24.00% | ~58 |
 | “… like son” | 17.00% | ~41 |
 | Dungeonlord Gorgu | 15.00% | ~36 |
+| Shame! Shame! Shame! | 13.00% | ~31 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 12.00% | ~29 |
 | The Cathedral of Light | 12.00% | ~29 |
-| Shame! Shame! Shame! | 12.00% | ~29 |
 | Sacrificial Pit = Garbage Disposal? | 10.00% | ~24 |
 | Hungry, Hungry Gorgu! | 10.00% | ~24 |
 | Tanos' Crusade Against Thalya | 9.00% | ~22 |
@@ -52,8 +52,8 @@
 | Doom Hill | 2.00% | ~5 |
 | Rubble and Ashes | 2.00% | ~5 |
 | Lavalumps on Ice! | 1.00% | ~2 |
+| Brimstone Shaken, Not Stirred | 1.00% | ~2 |
 | Untouchable | 0.80% | ~2 |
-| Brimstone Shaken, Not Stirred | 0.80% | ~2 |
 | The Last Stand - This Time For Real! | 0.80% | ~2 |
 | Raiders of the Lost Stone | 0.40% | ~1 |
 | No Mana, No Cry | 0.40% | ~1 |

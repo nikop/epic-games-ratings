@@ -1,7 +1,7 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.63 (Ranked 348)  
+Rating: 4.64 (Ranked 332)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -232,3 +232,4 @@ Diff (max vs sum): -89
 | 2023-10-27 | 4.63 | 107 | 107 |
 | 2023-11-05 | 4.63 | 108 | 108 |
 | 2023-11-12 | 4.63 | 110 | 110 |
+| 2023-11-13 | 4.64 | 110 | 110 |

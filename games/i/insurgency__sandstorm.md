@@ -6,7 +6,7 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,158 |
+| Wallbanger | 5.00% | ~24,159 |
 | Exploitative | 4.00% | ~19,327 |
 | Point Shooting | 4.00% | ~19,327 |
 | Wet Feet | 4.00% | ~19,327 |
@@ -23,10 +23,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~4,832 |
 | Ruthless | 1.00% | ~4,832 |
 | Semper Paratus | 1.00% | ~4,832 |
-| Carrying | 0.90% | ~4,348 |
-| Efficient | 0.90% | ~4,348 |
-| Mount & Gun | 0.90% | ~4,348 |
-| Personal | 0.90% | ~4,348 |
+| Carrying | 0.90% | ~4,349 |
+| Efficient | 0.90% | ~4,349 |
+| Mount & Gun | 0.90% | ~4,349 |
+| Personal | 0.90% | ~4,349 |
 | Grounded | 0.80% | ~3,865 |
 | Play to Win | 0.80% | ~3,865 |
 | Special Delivery | 0.70% | ~3,382 |
@@ -34,15 +34,15 @@ Number of Ratings: 1,316  (23.09.2022)
 | #1 | 0.60% | ~2,899 |
 | Cinematic | 0.50% | ~2,416 |
 | Thanks Station! | 0.40% | ~1,933 |
-| Knock Knock | 0.30% | ~1,449 |
-| There For You | 0.30% | ~1,449 |
+| Knock Knock | 0.30% | ~1,450 |
+| There For You | 0.30% | ~1,450 |
 | Hit and Run | 0.20% | ~966 |
 | Designated Driver | 0.10% | ~483 |
 | J.R. .50 | 0.10% | ~483 |
 | It's All in the Reflexes | 0.10% | ~483 |
 | Road Hazard | 0.10% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483,164 (Ranked 38)  
+Progressed: 483,173 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 2 (0.00%) (Ranked 350)
 | 2023-11-10 | 481,638 | 2 |
 | 2023-11-11 | 482,296 | 2 |
 | 2023-11-12 | 482,956 | 2 |
-| 2023-11-13 | 483,164 | 2 |
+| 2023-11-13 | 483,173 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 228)  
 Sum: 3,155 (Ranked 171)  

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -4479,9 +4479,9 @@
       "ID": "nimble_thief_1",
       "SetID": "53c1p3k",
       "Name": "Nimble Thief 1",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "nimble_thief_2",
@@ -4678,8 +4678,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:09:47.8255678+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:09:45.3685102+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9224178+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:57:13.0604545+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:09:47.8256804+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:57:10.3180501+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:09:45.3685762+00:00"
 }

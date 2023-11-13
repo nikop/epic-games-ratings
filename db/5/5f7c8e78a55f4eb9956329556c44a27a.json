@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -90,9 +90,9 @@
       "ID": "TINGWD_BUZZ",
       "SetID": "c0imaa6",
       "Name": "To infinity and beyond!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TINGWD_CARMACK",
@@ -130,9 +130,9 @@
       "ID": "TINGWD_CHAP_END_04",
       "SetID": "c0imaa6",
       "Name": "The end of the ordeal",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TINGWD_CHAP_END_05",
@@ -154,9 +154,9 @@
       "ID": "TINGWD_CLICKER",
       "SetID": "c0imaa6",
       "Name": "Serial Clicker",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TINGWD_CONSPI",
@@ -186,9 +186,9 @@
       "ID": "TINGWD_GUIDE",
       "SetID": "c0imaa6",
       "Name": "Follow the guide!",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TINGWD_HEADSHOT",
@@ -242,9 +242,9 @@
       "ID": "TINGWD_PUNCHMAN",
       "SetID": "c0imaa6",
       "Name": "One Punch Man",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "TINGWD_RADAR",
@@ -320,8 +320,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:06:11.5579032+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:05:45.6553885+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:56:59.2891465+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:00:52.036015+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:06:11.5579296+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:00:25.4800991+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:05:45.6554092+00:00"
 }

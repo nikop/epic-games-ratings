@@ -6,16 +6,16 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 76.00% | ~17,094 |
-| Sword Runner | 61.00% | ~13,720 |
-| Running out of breath | 54.00% | ~12,146 |
-| Wallrunner | 53.00% | ~11,921 |
-| Homerunner | 45.00% | ~10,121 |
-| Out of order | 44.00% | ~9,896 |
+| Longrunner | 76.00% | ~17,095 |
+| Sword Runner | 61.00% | ~13,721 |
+| Running out of breath | 54.00% | ~12,147 |
+| Wallrunner | 53.00% | ~11,922 |
+| Homerunner | 45.00% | ~10,122 |
+| Out of order | 44.00% | ~9,897 |
 | I call it luck | 43.00% | ~9,672 |
-| Where are my Keys? | 40.00% | ~8,997 |
-| Back to hell | 37.00% | ~8,322 |
-| Perfection | 32.00% | ~7,197 |
+| Where are my Keys? | 40.00% | ~8,998 |
+| Back to hell | 37.00% | ~8,323 |
+| Perfection | 32.00% | ~7,198 |
 | Why not both | 30.00% | ~6,748 |
 | Sword to a gunfight | 29.00% | ~6,523 |
 | Upgrades not mandatory | 29.00% | ~6,523 |
@@ -23,8 +23,8 @@ Number of Ratings: 1,047  (23.09.2022)
 | Control freak | 27.00% | ~6,073 |
 | Running Wild | 27.00% | ~6,073 |
 | Finish line | 26.00% | ~5,848 |
-| Unstoppable force | 22.00% | ~4,948 |
-| Wave of mutilation | 22.00% | ~4,948 |
+| Unstoppable force | 22.00% | ~4,949 |
+| Wave of mutilation | 22.00% | ~4,949 |
 | Can't Run Can't Hide | 16.00% | ~3,599 |
 | R is for Running | 16.00% | ~3,599 |
 | Dead in the air | 15.00% | ~3,374 |
@@ -52,7 +52,7 @@ Number of Ratings: 1,047  (23.09.2022)
 | Sticks And Stones | 0.40% | ~90 |
 | Up Close And Personal | 0.40% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,492 (Ranked 128)  
+Progressed: 22,494 (Ranked 128)  
 Completed: 84 (0.37%) (Ranked 218)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 84 (0.37%) (Ranked 218)
 | 2023-11-10 | 22,307 | 83 |
 | 2023-11-11 | 22,383 | 84 |
 | 2023-11-12 | 22,468 | 84 |
-| 2023-11-13 | 22,492 | 84 |
+| 2023-11-13 | 22,494 | 84 |
 ## Awards
 Max (Great Boss Battles): 519  (Ranked 205)  
 Sum: 749 (Ranked 285)  

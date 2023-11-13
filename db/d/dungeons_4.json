@@ -441,17 +441,17 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 57,
+      "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 137
+      "UsersEstimate": 142
     },
     {
       "ID": "ach_main04undead_minions",
       "SetID": "4hg22ll",
       "Name": "Minions, Minions!",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -609,9 +609,9 @@
       "ID": "ach_main10fire_naga",
       "SetID": "4hg22ll",
       "Name": "Shame! Shame! Shame!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_main11blessing_completed",
@@ -769,7 +769,7 @@
       "ID": "ach_main17stone_explosions",
       "SetID": "4hg22ll",
       "Name": "Brimstone Shaken, Not Stirred",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -864,8 +864,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:04:26.5901676+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:04:08.5578289+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:59:31.2079036+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:04:26.5902289+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:59:13.339572+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:04:08.5578895+00:00"
 }

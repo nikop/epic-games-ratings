@@ -5,16 +5,16 @@ Rating: 4.75 (Ranked 145)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First of Many | 9.00% | ~19,819 |
-| The Killing Jar | 8.00% | ~17,617 |
-| Expanding Horizons | 7.00% | ~15,415 |
-| Quest for Survival | 7.00% | ~15,415 |
-| Not Your Average Trait | 7.00% | ~15,415 |
-| Gleaming the Cube | 6.00% | ~13,213 |
-| Familiar Face | 6.00% | ~13,213 |
-| Duality | 6.00% | ~13,213 |
-| Boss'n Up | 6.00% | ~13,213 |
-| Trait Chaser | 6.00% | ~13,213 |
+| First of Many | 9.00% | ~19,820 |
+| The Killing Jar | 8.00% | ~17,618 |
+| Expanding Horizons | 7.00% | ~15,416 |
+| Quest for Survival | 7.00% | ~15,416 |
+| Not Your Average Trait | 7.00% | ~15,416 |
+| Gleaming the Cube | 6.00% | ~13,214 |
+| Familiar Face | 6.00% | ~13,214 |
+| Duality | 6.00% | ~13,214 |
+| Boss'n Up | 6.00% | ~13,214 |
+| Trait Chaser | 6.00% | ~13,214 |
 | Not So Special Now | 5.00% | ~11,011 |
 | Not a Janitor | 5.00% | ~11,011 |
 | Equal Measures | 5.00% | ~11,011 |
@@ -34,15 +34,15 @@ Rating: 4.75 (Ranked 145)
 | The Web | 4.00% | ~8,809 |
 | Scrap Collector | 4.00% | ~8,809 |
 | All These Traits� | 4.00% | ~8,809 |
-| Am I Seeing This? | 3.00% | ~6,606 |
-| Forever is a Long Time Coming | 3.00% | ~6,606 |
-| The Agenda | 3.00% | ~6,606 |
-| Tall Tales | 3.00% | ~6,606 |
-| Bad Moon Rising | 3.00% | ~6,606 |
-| Strapped | 3.00% | ~6,606 |
-| Edgelord | 3.00% | ~6,606 |
-| The Ultimate Weapon | 3.00% | ~6,606 |
-| No One Should Have All That Power | 3.00% | ~6,606 |
+| Am I Seeing This? | 3.00% | ~6,607 |
+| Forever is a Long Time Coming | 3.00% | ~6,607 |
+| The Agenda | 3.00% | ~6,607 |
+| Tall Tales | 3.00% | ~6,607 |
+| Bad Moon Rising | 3.00% | ~6,607 |
+| Strapped | 3.00% | ~6,607 |
+| Edgelord | 3.00% | ~6,607 |
+| The Ultimate Weapon | 3.00% | ~6,607 |
+| No One Should Have All That Power | 3.00% | ~6,607 |
 | Crafty | 2.00% | ~4,404 |
 | Only Human | 2.00% | ~4,404 |
 | Red Room | 2.00% | ~4,404 |
@@ -56,7 +56,7 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,202 |
 | Proving Grounds | 1.00% | ~2,202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,215 (Ranked 68)  
+Progressed: 220,225 (Ranked 68)  
 Completed: 444 (0.20%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,7 +176,7 @@ Completed: 444 (0.20%) (Ranked 249)
 | 2023-11-10 | 219,442 | 438 |
 | 2023-11-11 | 219,801 | 439 |
 | 2023-11-12 | 220,140 | 441 |
-| 2023-11-13 | 220,215 | 444 |
+| 2023-11-13 | 220,225 | 444 |
 ## Awards
 Max (Great Boss Battles): 2,158  (Ranked 109)  
 Sum: 4,888 (Ranked 139)  

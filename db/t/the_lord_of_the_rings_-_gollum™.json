@@ -4,8 +4,8 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 268,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
     "PcReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 560,
+  "EOS_Progressed": 561,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1438,6 +1438,11 @@
       "Time": "2023-11-12T21:04:17.3508523+00:00",
       "NumProgressed": 560,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T11:04:50.486408+00:00",
+      "NumProgressed": 561,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1497,7 +1502,7 @@
       "Name": "The Breeder",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Chapter4",
@@ -1505,7 +1510,7 @@
       "Name": "The Veteran",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "Chapter5",
@@ -1521,7 +1526,7 @@
       "Name": "The Spider",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Chapter7",
@@ -1601,7 +1606,7 @@
       "Name": "Like Flying...",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "GollumChoices",
@@ -1736,14 +1741,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 560,
+      "Progressed": 561,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:05:12.1080053+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:04:50.4864077+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:58:27.6525914+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:05:12.1080435+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:58:16.9729359+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:04:50.4864376+00:00"
 }

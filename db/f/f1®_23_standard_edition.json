@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -495,9 +495,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5703,
+  "EOS_Progressed": 5704,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5425,6 +5425,11 @@
       "Time": "2023-11-13T09:03:46.47824+00:00",
       "NumProgressed": 5703,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T11:04:05.9243905+00:00",
+      "NumProgressed": 5704,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5445,7 +5450,7 @@
       "Name": "Gathering Dust",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "achievement_0003",
@@ -5477,7 +5482,7 @@
       "Name": "Setting up for Success",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4277
+      "UsersEstimate": 4278
     },
     {
       "ID": "achievement_0007",
@@ -5485,7 +5490,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5304
+      "UsersEstimate": 5305
     },
     {
       "ID": "achievement_0008",
@@ -5533,7 +5538,7 @@
       "Name": "Oil and Water",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 741
+      "UsersEstimate": 742
     },
     {
       "ID": "achievement_0014",
@@ -5597,7 +5602,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "achievement_0022",
@@ -5613,7 +5618,7 @@
       "Name": "Sharing the Love",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 2281
+      "UsersEstimate": 2282
     },
     {
       "ID": "achievement_0024",
@@ -5669,7 +5674,7 @@
       "Name": "Reuse",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "achievement_0031",
@@ -5749,7 +5754,7 @@
       "Name": "One for the Book",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "achievement_0041",
@@ -5773,7 +5778,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2680
+      "UsersEstimate": 2681
     },
     {
       "ID": "achievement_0044",
@@ -5781,7 +5786,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "achievement_0045",
@@ -5821,14 +5826,14 @@
       "Name": "Proving Them Wrong",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     }
   ],
   "AchievementSets": [
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5703,
+      "Progressed": 5704,
       "Completed": 0
     }
   ],
@@ -5836,8 +5841,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-12T15:00:20.0468985+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:04:23.7139155+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:04:05.92439+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:01:29.2065684+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:04:23.7139816+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:01:00.1714114+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:04:05.9244502+00:00"
 }

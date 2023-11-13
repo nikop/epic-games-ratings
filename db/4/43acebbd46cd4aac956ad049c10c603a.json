@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -578,9 +578,9 @@
       "ID": "ChasingTheLight",
       "SetID": "1n308hc",
       "Name": "Chasing the Light",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "Chicken",
@@ -682,9 +682,9 @@
       "ID": "IntoTheMachine",
       "SetID": "1n308hc",
       "Name": "Into the Machine",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "JustOneLap",
@@ -730,9 +730,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "MuseumVisitor",
@@ -906,9 +906,9 @@
       "ID": "TheSpark",
       "SetID": "1n308hc",
       "Name": "The Spark",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 103
     },
     {
       "ID": "TheThiefOfFire",
@@ -995,8 +995,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-11T23:03:06.8073096+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:04:24.0129801+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:04:06.1743365+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:58:05.8425371+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:04:24.0130402+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:57:57.4069882+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:04:06.1744027+00:00"
 }

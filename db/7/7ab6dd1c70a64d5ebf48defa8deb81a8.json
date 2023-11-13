@@ -2,10 +2,10 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_EOS_Progress": 381,
-  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_Progress": 380,
+  "Ranking_EOS_Completed": 189,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 183,
+  "EOS_Progressed": 184,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.55,
+  "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
     {
       "Time": "2023-06-23T15:02:22.2302993+00:00",
@@ -700,6 +700,11 @@
       "Time": "2023-11-12T20:10:06.0764549+00:00",
       "NumProgressed": 183,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T11:09:43.1879415+00:00",
+      "NumProgressed": 184,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -709,9 +714,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 110
+      "UsersEstimate": 109
     },
     {
       "ID": "ACH_02",
@@ -767,7 +772,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_09",
@@ -783,7 +788,7 @@
       "Name": "Trinity",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "ACH_11",
@@ -807,7 +812,7 @@
       "Name": "Adventurer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_14",
@@ -815,7 +820,7 @@
       "Name": "Airborne",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_15",
@@ -831,7 +836,7 @@
       "Name": "Essence Blow",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "ACH_17",
@@ -903,7 +908,7 @@
       "Name": "Fashion Victim",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_26",
@@ -927,7 +932,7 @@
       "Name": "I Found It",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_29",
@@ -959,7 +964,7 @@
       "Name": "Miner",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "ACH_34",
@@ -967,7 +972,7 @@
       "Name": "The Collector",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_35",
@@ -998,14 +1003,14 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 183,
+      "Progressed": 184,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:09:45.4841442+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:09:43.1879411+00:00",
   "LastUpdate_AppInfo": "2023-11-06T18:57:00.203927+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:00:14.8371532+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:09:45.4841774+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:59:53.0524719+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:09:43.1879864+00:00"
 }

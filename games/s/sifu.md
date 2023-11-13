@@ -12,6 +12,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 0.50% | ~3,584 |
 | The Hateful Pole Fighter | 0.50% | ~3,584 |
 | A Lady's Blood in the Snow | 0.50% | ~3,584 |
+| Street Fighting | 0.50% | ~3,584 |
 | Life is your teacher | 0.50% | ~3,584 |
 | State of constant learning | 0.50% | ~3,584 |
 | Qi Gong: Breath | 0.50% | ~3,584 |
@@ -24,7 +25,6 @@ Number of Ratings: 9,492  (23.09.2022)
 | Furious Fists | 0.40% | ~2,867 |
 | Kill Nil | 0.40% | ~2,867 |
 | Stuntmaster | 0.40% | ~2,867 |
-| Street Fighting | 0.40% | ~2,867 |
 | Old Child | 0.40% | ~2,867 |
 | Take damage to save time | 0.40% | ~2,867 |
 | Martial Hub | 0.40% | ~105 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,847 (Ranked 21)  
+Progressed: 716,848 (Ranked 21)  
 Completed: 12,934 (1.80%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 12,934 (1.80%) (Ranked 129)
 | 2023-11-10 | 716,574 | 12,934 |
 | 2023-11-11 | 716,690 | 12,934 |
 | 2023-11-12 | 716,826 | 12,934 |
-| 2023-11-13 | 716,847 | 12,934 |
+| 2023-11-13 | 716,848 | 12,934 |
 ## Awards
 Max (Great Boss Battles): 6,789  (Ranked 55)  
 Sum: 11,862 (Ranked 82)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
     "PcReleaseDate": "2020-02-19T00:00:00+00:00",
@@ -263,11 +263,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1645,
+  "EOS_Progressed": 1646,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.44,
+  "EOS_Completed_Percentage": 4.43,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:57.7032048+00:00",
@@ -3398,6 +3398,11 @@
       "Time": "2023-11-13T04:04:34.0061795+00:00",
       "NumProgressed": 1645,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2023-11-13T11:04:34.4250675+00:00",
+      "NumProgressed": 1646,
+      "NumCompleted": 73
     }
   ],
   "TotalAchievements": 11,
@@ -3409,7 +3414,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -3417,7 +3422,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 921
+      "UsersEstimate": 922
     },
     {
       "ID": "ACH_Cacciavite",
@@ -3457,7 +3462,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -3473,7 +3478,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -3481,30 +3486,30 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ACH_SussurriHotel",
       "SetID": "7a9m7mj",
       "Name": "Ghost Hunters",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 658
+      "UsersEstimate": 675
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1645,
+      "Progressed": 1646,
       "Completed": 73
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:04:54.6980902+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:04:34.4250671+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:47.3022704+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:02:47.16108+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:04:54.6981213+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:02:36.7273989+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:04:34.4250886+00:00"
 }

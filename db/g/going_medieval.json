@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 245,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1421,9 +1421,9 @@
       "Count": 70
     }
   ],
-  "EOS_Progressed": 6728,
+  "EOS_Progressed": 6729,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -12656,6 +12656,11 @@
       "Time": "2023-11-13T10:04:00.4982358+00:00",
       "NumProgressed": 6728,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2023-11-13T11:03:45.3348224+00:00",
+      "NumProgressed": 6729,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -12667,7 +12672,7 @@
       "Name": "Get A Room",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 5046
+      "UsersEstimate": 5047
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -12707,7 +12712,7 @@
       "Name": "Having A Field Day",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 5113
+      "UsersEstimate": 5114
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -12715,7 +12720,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 4844
+      "UsersEstimate": 4845
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -12795,7 +12800,7 @@
       "Name": "Feast or Famine",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -12803,7 +12808,7 @@
       "Name": "Fit For A King",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2018
+      "UsersEstimate": 2019
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -12827,7 +12832,7 @@
       "Name": "The First Day",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 4642
+      "UsersEstimate": 4643
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -12867,7 +12872,7 @@
       "Name": "The First Week",
       "Percentage": 55,
       "XP": 25,
-      "UsersEstimate": 3700
+      "UsersEstimate": 3701
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -12899,7 +12904,7 @@
       "Name": "Onward",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 3835
+      "UsersEstimate": 3836
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -12914,15 +12919,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 6728,
+      "Progressed": 6729,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2023-11-13T04:58:21.3888038+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:04:00.4982354+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:03:45.334822+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:38.5304981+00:00",
-  "LastUpdate_Ratings": "2023-11-13T09:58:59.9654444+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:04:00.4983321+00:00"
+  "LastUpdate_Ratings": "2023-11-13T10:58:45.0186489+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:03:45.334894+00:00"
 }

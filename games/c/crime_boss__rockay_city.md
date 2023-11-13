@@ -5,7 +5,7 @@ Rating: 3.95 (Ranked 1,005)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First One’s Free | 3.00% | ~2,726 |
+| First One’s Free | 3.00% | ~2,727 |
 | Neophyte Ninja | 2.00% | ~1,818 |
 | Downed but Not Outed | 2.00% | ~1,818 |
 | Too Old for This | 2.00% | ~1,818 |
@@ -30,9 +30,9 @@ Rating: 3.95 (Ranked 1,005)
 | Moneybags | 0.40% | ~364 |
 | Olympus Ascended | 0.40% | ~364 |
 | Ding Dong | 0.40% | ~364 |
+| Rockay Raider | 0.30% | ~273 |
 | Savvy Seeker | 0.30% | ~273 |
 | All that Glitters | 0.30% | ~58 |
-| Rockay Raider | 0.20% | ~182 |
 | Rockay Knight | 0.20% | ~182 |
 | Privateer | 0.20% | ~182 |
 | Talent Scout | 0.20% | ~182 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Geek Out | 0.10% | ~91 |
 | Now You See Me | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,878 (Ranked 91)  
+Progressed: 90,886 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 55 (0.06%) (Ranked 294)
 | 2023-11-10 | 90,247 | 55 |
 | 2023-11-11 | 90,531 | 55 |
 | 2023-11-12 | 90,809 | 55 |
-| 2023-11-13 | 90,878 | 55 |
+| 2023-11-13 | 90,886 | 55 |
 ## Awards
 Max (Diverse Characters): 527  (Ranked 203)  
 Sum: 3,005 (Ranked 176)  

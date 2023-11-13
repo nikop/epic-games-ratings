@@ -6,23 +6,23 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~8,552 |
-| Overkill | 34.00% | ~6,923 |
-| Vaccine Incoming | 33.00% | ~6,720 |
-| A normal day in Gloomhaven | 32.00% | ~6,516 |
-| Spread the plague | 30.00% | ~6,109 |
-| Get over here! | 25.00% | ~5,091 |
-| Just when I thought I was out... | 19.00% | ~3,869 |
+| I'm not dead yet | 42.00% | ~8,554 |
+| Overkill | 34.00% | ~6,924 |
+| Vaccine Incoming | 33.00% | ~6,721 |
+| A normal day in Gloomhaven | 32.00% | ~6,517 |
+| Spread the plague | 30.00% | ~6,110 |
+| Get over here! | 25.00% | ~5,092 |
+| Just when I thought I was out... | 19.00% | ~3,870 |
 | Precious! | 17.00% | ~3,462 |
 | Mine... All Mine... | 17.00% | ~3,462 |
-| Anatomy Lesson | 15.00% | ~3,054 |
+| Anatomy Lesson | 15.00% | ~3,055 |
 | Grizzled veteran | 14.00% | ~2,851 |
 | Light of my life | 14.00% | ~2,851 |
-| You activated my trap card! | 13.00% | ~2,647 |
-| Obstacle race | 13.00% | ~2,647 |
+| You activated my trap card! | 13.00% | ~2,648 |
+| Obstacle race | 13.00% | ~2,648 |
 | Augmented rat | 12.00% | ~2,444 |
 | Doom and gloom | 11.00% | ~2,240 |
-| Who's the Boss? | 10.00% | ~2,036 |
+| Who's the Boss? | 10.00% | ~2,037 |
 | Dungeon Veteran | 8.00% | ~1,629 |
 | Pack leader | 8.00% | ~1,629 |
 | Pain is your friend | 8.00% | ~1,629 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~20 |
 | Murder Death Kill | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,363 (Ranked 132)  
+Progressed: 20,366 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 1 (0.00%) (Ranked 350)
 | 2023-11-10 | 19,763 | 1 |
 | 2023-11-11 | 20,013 | 1 |
 | 2023-11-12 | 20,293 | 1 |
-| 2023-11-13 | 20,363 | 1 |
+| 2023-11-13 | 20,366 | 1 |
 ## Awards
 Max (Character Customization): 3,572  (Ranked 90)  
 Sum: 8,352 (Ranked 100)  

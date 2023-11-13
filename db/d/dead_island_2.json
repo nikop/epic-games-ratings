@@ -6453,10 +6453,10 @@
       "Count": 461
     }
   ],
-  "EOS_Progressed": 717795,
+  "EOS_Progressed": 717816,
   "EOS_Completed": 2386,
-  "EOS_NewPlayers": 4046,
-  "EOS_NewCompleters": 40,
+  "EOS_NewPlayers": 4042,
+  "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30078,6 +30078,11 @@
       "Time": "2023-11-13T10:04:29.8109301+00:00",
       "NumProgressed": 717795,
       "NumCompleted": 2386
+    },
+    {
+      "Time": "2023-11-13T11:04:11.565318+00:00",
+      "NumProgressed": 717816,
+      "NumCompleted": 2386
     }
   ],
   "TotalAchievements": 51,
@@ -30249,7 +30254,7 @@
       "Name": "Hotel California",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5742
+      "UsersEstimate": 5743
     },
     {
       "ID": "ach_impressive_aim",
@@ -30351,9 +30356,9 @@
       "ID": "ach_secrets_of_la",
       "SetID": "7km39fm",
       "Name": "Sharpest Tool in the Box",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 718
+      "UsersEstimate": 1436
     },
     {
       "ID": "ach_skilled_up",
@@ -30496,13 +30501,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 717795,
+      "Progressed": 717816,
       "Completed": 2386
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43337,
+      "Progressed": 43358,
       "Completed": 36534
     }
   ],
@@ -30510,8 +30515,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-13T06:01:08.4217405+00:00",
-  "LastChanged_Achievements": "2023-11-13T10:04:29.8109295+00:00",
+  "LastChanged_Achievements": "2023-11-13T11:04:11.5653176+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T10:01:27.8399895+00:00",
-  "LastUpdate_Achievements": "2023-11-13T10:04:29.8111289+00:00"
+  "LastUpdate_Ratings": "2023-11-13T11:00:59.1173609+00:00",
+  "LastUpdate_Achievements": "2023-11-13T11:04:11.5654795+00:00"
 }

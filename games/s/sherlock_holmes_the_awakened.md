@@ -1,7 +1,7 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.66 (Ranked 292)  
+Rating: 4.67 (Ranked 272)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -221,3 +221,4 @@ Completed: 27 (3.34%) (Ranked 89)
 | 2023-09-29 | 4.63 | 0 | 0 |
 | 2023-10-26 | 4.64 | 0 | 0 |
 | 2023-11-05 | 4.66 | 0 | 0 |
+| 2023-11-13 | 4.67 | 0 | 0 |
