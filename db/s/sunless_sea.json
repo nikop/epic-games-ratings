@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -736,7 +736,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 40530,
+  "EOS_Progressed": 40531,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
@@ -21886,6 +21886,11 @@
       "Time": "2023-11-13T17:09:43.1943737+00:00",
       "NumProgressed": 40530,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-13T18:09:20.743911+00:00",
+      "NumProgressed": 40531,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -22225,7 +22230,7 @@
       "Name": "Zee Fever",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 2026
+      "UsersEstimate": 2027
     },
     {
       "ID": "ach_stranger",
@@ -22249,7 +22254,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 7295
+      "UsersEstimate": 7296
     },
     {
       "ID": "ach_terror100",
@@ -22328,15 +22333,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 40530,
+      "Progressed": 40531,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2023-11-05T20:00:39.9976702+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:09:43.1943734+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:09:20.7439106+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:15.1182628+00:00",
-  "LastUpdate_Ratings": "2023-11-13T16:59:01.0005429+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:09:43.1945103+00:00"
+  "LastUpdate_Ratings": "2023-11-13T17:58:39.4279903+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:09:20.7441188+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 236,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
     "PcReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 587,
+  "EOS_Progressed": 589,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1947,6 +1947,11 @@
       "Time": "2023-11-13T17:09:40.1480634+00:00",
       "NumProgressed": 587,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T18:09:18.025086+00:00",
+      "NumProgressed": 589,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2062,7 +2067,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_COLL_20",
@@ -2070,7 +2075,7 @@
       "Name": "Prospector",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2086,15 +2091,15 @@
       "Name": "Collectibles of Chapter I",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_COLL_CH02",
       "SetID": "1j25agn",
       "Name": "Collectibles of Chapter II",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_COLL_CH03",
@@ -2182,7 +2187,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -2190,7 +2195,7 @@
       "Name": "The Breaking Point",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_FIN_CH03",
@@ -2198,7 +2203,7 @@
       "Name": "The Motivation",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -2206,7 +2211,7 @@
       "Name": "Heroism",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_FIN_CH05",
@@ -2230,7 +2235,7 @@
       "Name": "The Horror",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_FIN_CH08",
@@ -2238,7 +2243,7 @@
       "Name": "The Difference",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ACH_FIN_CH09",
@@ -2262,7 +2267,7 @@
       "Name": "Sorrow",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_FIN_CH12",
@@ -2302,7 +2307,7 @@
       "Name": "Missing in Action",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACH_JOACHIM_FATE1",
@@ -2316,9 +2321,9 @@
       "ID": "ACH_JOACHIM_FATE2",
       "SetID": "1j25agn",
       "Name": "Without a Second Thought",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 88
     },
     {
       "ID": "ACH_KILL_BRAWL",
@@ -2326,7 +2331,7 @@
       "Name": "Here Comes the Boom",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_KILL_DOOR",
@@ -2342,7 +2347,7 @@
       "Name": "NO LIFE IS WORTH SAVING...",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_KILL_ENV",
@@ -2350,7 +2355,7 @@
       "Name": "It\u0027s Just an Accident",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_KILL_FRAG",
@@ -2366,7 +2371,7 @@
       "Name": "Eat Lead!",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ACH_KILL_SAUSAGE",
@@ -2429,15 +2434,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 587,
+      "Progressed": 589,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-10-31T20:58:32.0375016+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:09:40.1480628+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:09:18.0250857+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.1676976+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:02:24.7912459+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:09:40.1481086+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:01:32.6488781+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:09:18.0251435+00:00"
 }

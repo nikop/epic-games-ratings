@@ -7,12 +7,12 @@ Rating: 4.69 (Ranked 231)
 | ---- | ---------- | ----- |
 | Getting on the Step | 93.00% | ~5,309 |
 | On the Top Step | 86.00% | ~4,910 |
-| Setting up for Success | 75.00% | ~4,282 |
+| Setting up for Success | 76.00% | ~4,339 |
 | Team Orders | 74.00% | ~4,225 |
-| Engineer | 53.00% | ~3,026 |
+| Engineer | 54.00% | ~3,083 |
 | Familiar Faces | 47.00% | ~2,683 |
+| Sharing the Love | 41.00% | ~2,341 |
 | Going the Extra Mile | 41.00% | ~2,341 |
-| Sharing the Love | 40.00% | ~2,284 |
 | Hitting a Season | 34.00% | ~1,941 |
 | Challenge Yourself | 31.00% | ~1,770 |
 | A Dozen Pieces | 30.00% | ~1,713 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 95,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 86,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
     "PcReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -4023,9 +4023,9 @@
       "Count": 1075
     }
   ],
-  "EOS_Progressed": 78356,
+  "EOS_Progressed": 78357,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 900,
+  "EOS_NewPlayers": 899,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -27473,6 +27473,11 @@
       "Time": "2023-11-13T17:09:07.0967506+00:00",
       "NumProgressed": 78356,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-13T18:08:47.7174376+00:00",
+      "NumProgressed": 78357,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 53,
@@ -27580,7 +27585,7 @@
       "Name": "The Side Job",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 24290
+      "UsersEstimate": 24291
     },
     {
       "ID": "complete_first_wanted_mission",
@@ -27596,7 +27601,7 @@
       "Name": "First F#@!ing Day",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 36827
+      "UsersEstimate": 36828
     },
     {
       "ID": "customize_a_vehicle",
@@ -27692,7 +27697,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 25857
+      "UsersEstimate": 25858
     },
     {
       "ID": "fully_complete_a_building",
@@ -27732,7 +27737,7 @@
       "Name": "Performance Review",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 28208
+      "UsersEstimate": 28209
     },
     {
       "ID": "hit_max_level",
@@ -27796,7 +27801,7 @@
       "Name": "Closet Space",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 6268
+      "UsersEstimate": 6269
     },
     {
       "ID": "prank_coop_partner",
@@ -27907,13 +27912,13 @@
     {
       "ID": "3ib2d0i",
       "IsBase": true,
-      "Progressed": 78356,
+      "Progressed": 78357,
       "Completed": 51
     },
     {
       "ID": "5gi7jl2",
       "IsBase": false,
-      "Progressed": 49993,
+      "Progressed": 49994,
       "Completed": 4310
     }
   ],
@@ -27921,8 +27926,8 @@
   "FirstSeenRating": "2022-08-23T10:30:45.3809932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.6648886+00:00",
   "LastChanged": "2023-11-07T18:03:25.9766934+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:09:07.0967503+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:08:47.7174371+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:06.5148406+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:03:34.0539647+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:09:07.0968862+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:03:09.0430123+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:08:47.7176446+00:00"
 }

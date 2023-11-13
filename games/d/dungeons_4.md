@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 84.00% | ~206 |
-| Thalya – Simply Immortal | 84.00% | ~206 |
-| For the Horde! | 78.00% | ~191 |
-| Hammer Time, Round Two | 76.00% | ~186 |
+| The Last Stand | 85.00% | ~208 |
+| Thalya – Simply Immortal | 85.00% | ~208 |
+| For the Horde! | 79.00% | ~194 |
+| Hammer Time, Round Two | 77.00% | ~189 |
 | The Hellwoods | 67.00% | ~164 |
 | Thalya's Concentrated Fury | 64.00% | ~157 |
 | The Plains of Strothalm | 61.00% | ~149 |
-| Experienced Thalya | 60.00% | ~147 |
-| Master of Magic | 57.00% | ~140 |
+| Experienced Thalya | 61.00% | ~149 |
+| Master of Magic | 58.00% | ~142 |
 | Bad Elves Go Everywhere | 55.00% | ~135 |
 | Unicorn steaks – fresh off the hoof! | 52.00% | ~127 |
 | Trap Master | 51.00% | ~125 |
 | Magic Accidents | 50.00% | ~122 |
 | Minions, Minions! | 48.00% | ~118 |
-| Heroes’ Gorge | 46.00% | ~113 |
-| YOU SHALL NOT PASS! | 33.00% | ~81 |
+| Heroes’ Gorge | 47.00% | ~115 |
+| YOU SHALL NOT PASS! | 35.00% | ~86 |
 | The Ascent | 31.00% | ~76 |
 | It's Warm and Cozy at Home | 31.00% | ~76 |
 | Pure Dynamite! | 29.00% | ~71 |
+| Mana Cannon | 28.00% | ~69 |
 | Hard Work | 28.00% | ~69 |
-| Mana Cannon | 27.00% | ~66 |
 | The Big Eaty | 25.00% | ~61 |
 | “… like son” | 18.00% | ~44 |
 | Dungeonlord Gorgu | 16.00% | ~39 |
@@ -35,15 +35,15 @@
 | Hungry, Hungry Gorgu! | 10.00% | ~24 |
 | Tanos' Crusade Against Thalya | 10.00% | ~24 |
 | Forbidden Knowledge | 9.00% | ~22 |
-| Unstoppable Horde | 8.00% | ~20 |
+| Unstoppable Horde | 9.00% | ~22 |
 | Master of the Undead | 8.00% | ~20 |
 | All’s Well That Ends Evil | 8.00% | ~20 |
 | Ghost Pirates? Ghost Heroes! | 7.00% | ~17 |
+| Stop Tanos! | 6.00% | ~15 |
 | The Duel | 6.00% | ~15 |
-| Stop Tanos! | 5.00% | ~12 |
 | If Looks Could Kill | 5.00% | ~12 |
+| The Finitude Drill | 4.00% | ~10 |
 | Bonus Evilness | 3.00% | ~7 |
-| The Finitude Drill | 3.00% | ~7 |
 | Sabotage! | 3.00% | ~7 |
 | My Little Torture Chamber | 2.00% | ~5 |
 | Gorgu is in the Best of Health | 2.00% | ~5 |
@@ -58,16 +58,16 @@
 | No Mana, No Cry | 0.80% | ~2 |
 | The Rune Sockets of Finitude (Part 1) | 0.80% | ~2 |
 | To Infinity And Beyond! | 0.80% | ~2 |
+| The Rune Sockets of Finitude (Part 2) | 0.80% | ~2 |
 | The Last Stand - This Time For Real! | 0.80% | ~2 |
 | To the Max! | 0.40% | ~1 |
-| The Rune Sockets of Finitude (Part 2) | 0.40% | ~1 |
 | Heal Heal Blessing | 0.40% | ~1 |
 | Hands Off My Stones | 0.40% | ~1 |
 | I Don't Need Any Help | 0.40% | ~1 |
 | Evilification | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 245 (Ranked 356)  
-Completed: 1 (0.41%) (Ranked 209)  
+Completed: 1 (0.41%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -15024,10 +15024,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 351754,
       "NumberOfAwardsMax": 105348
+    },
+    {
+      "Time": "2023-11-13T18:00:19.7953158+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 351825,
+      "NumberOfAwardsMax": 105348
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 351754,
+  "NumberOfAwards": 351825,
   "NumberOfAwardsMax": 105348,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15047,7 +15053,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20675
+      "Count": 20746
     },
     {
       "Text": "This game is Relaxing",
@@ -15104,10 +15110,10 @@
       "Count": 12876
     }
   ],
-  "EOS_Progressed": 896562,
-  "EOS_Completed": 2773,
+  "EOS_Progressed": 896571,
+  "EOS_Completed": 2774,
   "EOS_NewPlayers": 1014,
-  "EOS_NewCompleters": 24,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38589,6 +38595,11 @@
       "Time": "2023-11-13T17:06:43.842428+00:00",
       "NumProgressed": 896562,
       "NumCompleted": 2773
+    },
+    {
+      "Time": "2023-11-13T18:05:59.8948766+00:00",
+      "NumProgressed": 896571,
+      "NumCompleted": 2774
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38871,9 +38882,9 @@
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 2690
+      "UsersEstimate": 3586
     },
     {
       "ID": "ThisIsPacifica",
@@ -39136,21 +39147,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896562,
-      "Completed": 2773
+      "Progressed": 896571,
+      "Completed": 2774
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25185,
+      "Progressed": 25194,
       "Completed": 10221
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-13T17:01:00.0575607+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:06:43.8424277+00:00",
+  "LastChanged": "2023-11-13T18:00:19.7953156+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:05:59.894876+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:01:00.0575614+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:06:43.8425461+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:00:19.7953164+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:05:59.895105+00:00"
 }

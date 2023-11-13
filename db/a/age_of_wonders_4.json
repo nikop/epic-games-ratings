@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -459,7 +459,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5385,
+  "EOS_Progressed": 5386,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -7074,6 +7074,11 @@
       "Time": "2023-11-13T13:10:05.2810282+00:00",
       "NumProgressed": 5385,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-13T18:04:44.5146965+00:00",
+      "NumProgressed": 5386,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7299,9 +7304,9 @@
       "ID": "34",
       "SetID": "3aa2279",
       "Name": "In a Liege of Your Own",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "35",
@@ -7564,13 +7569,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5385,
+      "Progressed": 5386,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5385,
+      "Progressed": 5386,
       "Completed": 7
     }
   ],
@@ -7578,8 +7583,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:05:19.9838955+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:04:44.514696+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T16:57:25.141685+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:05:19.9839783+00:00"
+  "LastUpdate_Ratings": "2023-11-13T17:57:16.4916786+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:04:44.5148346+00:00"
 }

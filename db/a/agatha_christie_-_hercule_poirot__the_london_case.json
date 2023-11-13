@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 514,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 399,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
     "PcReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -197,17 +197,17 @@
       "ID": "ACH_010",
       "SetID": "7b646ck",
       "Name": "The Denouement",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_011",
       "SetID": "7b646ck",
       "Name": "Well-travelled",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_012",
@@ -269,9 +269,9 @@
       "ID": "ACH_019",
       "SetID": "7b646ck",
       "Name": "A treasured heirloom",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_02",
@@ -357,9 +357,9 @@
       "ID": "ACH_029",
       "SetID": "7b646ck",
       "Name": "The Penitent Magdalene",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_03",
@@ -373,9 +373,9 @@
       "ID": "ACH_030",
       "SetID": "7b646ck",
       "Name": "A true performance",
-      "Percentage": 10,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_031",
@@ -421,9 +421,9 @@
       "ID": "ACH_036",
       "SetID": "7b646ck",
       "Name": "Florence Farquhar",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_037",
@@ -549,9 +549,9 @@
       "ID": "ACH_09",
       "SetID": "7b646ck",
       "Name": "The Investigation Starts Anew",
-      "Percentage": 13,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -564,8 +564,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:07:05.7361732+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:06:19.2534046+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:09.3861139+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:03:37.9664761+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:07:05.7361991+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:03:12.4790201+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:06:19.2534415+00:00"
 }

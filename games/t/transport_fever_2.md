@@ -54,8 +54,8 @@ Number of Ratings: 180  (23.09.2022)
 | Antique | 4.00% | ~74 |
 | Cannot get enough | 4.00% | ~74 |
 | Transport corporation | 4.00% | ~74 |
+| Transport tycoon (Hard mode) | 3.00% | ~55 |
 | Industrialist | 3.00% | ~55 |
-| Transport tycoon (Hard mode) | 2.00% | ~37 |
 | No country for old trains | 2.00% | ~37 |
 | Charles Alton Ellis | 2.00% | ~37 |
 | Campaign tycoon | 2.00% | ~37 |

@@ -7,18 +7,18 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~36,616 |
-| Biggest Communism Builder | 24.00% | ~31,385 |
+| Biggest Communism Builder | 24.00% | ~31,386 |
 | The World's Most Laughable Centrist | 21.00% | ~27,462 |
 | Il Coppo Del'Arte! | 18.00% | ~23,539 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,923 |
-| Hyperstellar Law Official | 16.00% | ~20,923 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,924 |
+| Hyperstellar Law Official | 16.00% | ~20,924 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~18,308 |
 | Gurdi-Ball Is Lit | 14.00% | ~18,308 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~17,000 |
 | Truly Rabid *Traditionalist* | 11.00% | ~14,385 |
 | The Figurines Won't Win Her Back | 10.00% | ~13,077 |
-| Unbelievably Boring **** | 9.00% | ~11,769 |
-| Enemy Of The Physical Realm | 9.00% | ~11,769 |
+| Unbelievably Boring **** | 9.00% | ~11,770 |
+| Enemy Of The Physical Realm | 9.00% | ~11,770 |
 | Hardie's Heroes | 6.00% | ~7,846 |
 | The Lawbringer | 4.00% | ~5,231 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,231 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,770 (Ranked 81)  
+Progressed: 130,773 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,15 +254,15 @@ Completed: 28 (0.02%) (Ranked 320)
 | 2023-11-10 | 130,667 | 28 |
 | 2023-11-11 | 130,697 | 28 |
 | 2023-11-12 | 130,740 | 28 |
-| 2023-11-13 | 130,770 | 28 |
+| 2023-11-13 | 130,773 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 177)  
-Sum: 1,117 (Ranked 249)  
+Sum: 1,118 (Ranked 249)  
 Diff (max vs sum): -72  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 737 |
-| This game has Amazing Storytelling | 49 |
+| This game has Amazing Storytelling | 50 |
 | This game is Educational | 45 |
 | This game is Highly Recommended | 44 |
 | This game has Quickly Understood Controls | 43 |
@@ -426,3 +426,4 @@ Diff (max vs sum): -72
 | 2023-11-06 | 4.87 | - | 736 | 1,115 |
 | 2023-11-08 | 4.87 | - | 737 | 1,116 |
 | 2023-11-12 | 4.87 | - | 737 | 1,117 |
+| 2023-11-13 | 4.87 | - | 737 | 1,118 |

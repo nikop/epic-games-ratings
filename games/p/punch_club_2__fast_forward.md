@@ -40,11 +40,11 @@
 | Fight is life | 48.00% | ~164 |
 | Mysterious voice | 48.00% | ~164 |
 | Guiding on the right path | 47.00% | ~160 |
-| No blades in the gym | 45.00% | ~153 |
+| No blades in the gym | 46.00% | ~157 |
 | Champion – no way back | 44.00% | ~150 |
 | Underground dwellers | 43.00% | ~147 |
+| Responsible approach | 43.00% | ~147 |
 | Deal with life | 42.00% | ~143 |
-| Responsible approach | 42.00% | ~143 |
 | Mom got better | 41.00% | ~140 |
 | GYM professional | 41.00% | ~140 |
 | Poisoned fighter | 41.00% | ~140 |

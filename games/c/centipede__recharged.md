@@ -1,30 +1,30 @@
 # Centipede: Recharged
 [Store](https://store.epicgames.com/en-US/p/centipede-recharged)  
 [View Rawdata](../../db/c/centipede__recharged.json)  
-Rating: 4.33 (Ranked 814)  
+Rating: 4.33 (Ranked 813)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shooting Shark | 49.00% | ~9,628 |
-| Make Rock Not War | 41.00% | ~8,056 |
-| Sole Survivor | 36.00% | ~7,074 |
-| Fireworks | 32.00% | ~6,288 |
-| Burning For You | 28.00% | ~5,502 |
-| Beat 'em Up | 26.00% | ~5,109 |
-| Still Burnin' | 18.00% | ~3,537 |
-| I Am The Storm | 17.00% | ~3,340 |
-| Deadline | 14.00% | ~2,751 |
-| Don't Fear The Reaper | 12.00% | ~2,358 |
-| Eyes On Fire | 12.00% | ~2,358 |
-| Harvester Of Eyes | 7.00% | ~1,375 |
-| The Reaper | 7.00% | ~1,375 |
+| Shooting Shark | 49.00% | ~9,632 |
+| Make Rock Not War | 41.00% | ~8,059 |
+| Sole Survivor | 36.00% | ~7,077 |
+| Fireworks | 32.00% | ~6,290 |
+| Burning For You | 28.00% | ~5,504 |
+| Beat 'em Up | 26.00% | ~5,111 |
+| Still Burnin' | 18.00% | ~3,538 |
+| I Am The Storm | 17.00% | ~3,342 |
+| Deadline | 14.00% | ~2,752 |
+| Don't Fear The Reaper | 12.00% | ~2,359 |
+| Eyes On Fire | 12.00% | ~2,359 |
+| Harvester Of Eyes | 7.00% | ~1,376 |
+| The Reaper | 7.00% | ~1,376 |
 | Feel The Thunder | 6.00% | ~1,179 |
 | Shadow Warrior | 2.00% | ~393 |
-| Mirrors | 1.00% | ~196 |
+| Mirrors | 1.00% | ~197 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,649 (Ranked 134)  
-Completed: 114 (0.58%) (Ranked 184)  
+Progressed: 19,657 (Ranked 134)  
+Completed: 114 (0.58%) (Ranked 185)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -230,7 +230,7 @@ Completed: 114 (0.58%) (Ranked 184)
 | 2023-11-10 | 18,957 | 113 |
 | 2023-11-11 | 19,272 | 113 |
 | 2023-11-12 | 19,533 | 114 |
-| 2023-11-13 | 19,649 | 114 |
+| 2023-11-13 | 19,657 | 114 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

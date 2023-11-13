@@ -9,6 +9,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 0.70% | ~8 |
 | Not Touching You | 0.40% | ~5 |
 | First Steps | 0.30% | ~719 |
+| A Quick Escape | 0.30% | ~719 |
 | Uncharted Territory | 0.30% | ~719 |
 | Expensive Look | 0.30% | ~3 |
 | What Doesn't Kill You | 0.30% | ~3 |
@@ -36,7 +37,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | A Donation | 0.20% | ~479 |
 | C-C-Combo | 0.20% | ~479 |
 | Deflection | 0.20% | ~479 |
-| A Quick Escape | 0.20% | ~479 |
 | Stone Touch | 0.20% | ~479 |
 | Toxic | 0.20% | ~479 |
 | Explorer | 0.20% | ~479 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Raw Power | 0.10% | ~1 |
 | Dominant Twin | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,648 (Ranked 61)  
+Progressed: 239,649 (Ranked 61)  
 Completed: 288 (0.12%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 288 (0.12%) (Ranked 270)
 | 2023-11-10 | 239,475 | 287 |
 | 2023-11-11 | 239,548 | 288 |
 | 2023-11-12 | 239,608 | 288 |
-| 2023-11-13 | 239,648 | 288 |
+| 2023-11-13 | 239,649 | 288 |
 ## Awards
 Max (Quickly Understood Controls): 1,503  (Ranked 131)  
 Sum: 11,674 (Ranked 83)  

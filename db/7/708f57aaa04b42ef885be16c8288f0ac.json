@@ -2,13 +2,13 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 106,
+  "Ranking_Rating": 107,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -87,9 +87,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5138,
+  "EOS_Progressed": 5143,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 846,
+  "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -3092,6 +3092,11 @@
       "Time": "2023-11-13T17:09:46.2727091+00:00",
       "NumProgressed": 5138,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-13T18:09:23.543209+00:00",
+      "NumProgressed": 5143,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3176,7 +3181,7 @@
       "Name": "First Time?",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 925
+      "UsersEstimate": 926
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3184,7 +3189,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "GarbageMan",
@@ -3206,9 +3211,9 @@
       "ID": "HalfManHalfMachine",
       "SetID": "acc6ea0",
       "Name": "Half Man, Half Machine",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 411
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -3248,7 +3253,7 @@
       "Name": "Nasty!",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "NoMoreTotems",
@@ -3256,7 +3261,7 @@
       "Name": "No More Totems",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "NotLikeTheOthers",
@@ -3336,7 +3341,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -3375,7 +3380,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5138,
+      "Progressed": 5143,
       "Completed": 5
     }
   ],
@@ -3383,8 +3388,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-10T21:10:20.974644+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:09:46.2727089+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:09:23.5432084+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-13T16:59:10.5227641+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:09:46.2727527+00:00"
+  "LastUpdate_Ratings": "2023-11-13T17:58:47.5490595+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:09:23.5432885+00:00"
 }

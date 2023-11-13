@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -314,9 +314,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "9",
@@ -346,9 +346,9 @@
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 54,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "Remake_005",
@@ -490,9 +490,9 @@
       "ID": "Remake_22",
       "SetID": "5pi96jj",
       "Name": "Escape Lookout Cove",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -505,8 +505,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:07:06.2004533+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:06:19.7009464+00:00",
   "LastUpdate_AppInfo": "2023-11-06T20:57:01.7197178+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:01:55.9415331+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:07:06.2004681+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:01:09.480216+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:06:19.7009662+00:00"
 }

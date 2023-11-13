@@ -2,13 +2,13 @@
   "ID": "590c37a9443d46ce84be415b96b1a3e6",
   "Name": "Anno 1404 History Edition",
   "ProductSlug": "anno-1404",
-  "Ranking_Rating": 106,
+  "Ranking_Rating": 96,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "NumberOfRatings": 69,
   "RatingHistory": [
     {
@@ -287,6 +287,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2023-11-13T18:03:13.9574115+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -304,8 +310,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:46.5738432+00:00",
-  "LastChanged": "2023-08-15T20:58:53.9420234+00:00",
+  "LastChanged": "2023-11-13T18:03:13.9574112+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:32.5360884+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:03:39.557038+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:04:30.7939117+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:03:13.957412+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:03:59.3138626+00:00"
 }

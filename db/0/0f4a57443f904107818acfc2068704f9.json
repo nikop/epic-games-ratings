@@ -4,8 +4,8 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 127,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
     "PcReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -388,9 +388,9 @@
       "ID": "CompleteChapter3",
       "SetID": "52ail55",
       "Name": "Dead \u0027Uns Didn\u0027t Get Ya",
-      "Percentage": 24,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CompleteChapter4",
@@ -538,8 +538,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:07:17.2594569+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:06:29.8818438+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:55.7700804+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:01:17.062501+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:07:17.2594757+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:00:33.6904327+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:06:29.881874+00:00"
 }

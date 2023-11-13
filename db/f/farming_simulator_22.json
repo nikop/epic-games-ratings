@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -11170,10 +11170,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 42582,
       "NumberOfAwardsMax": 5483
+    },
+    {
+      "Time": "2023-11-13T17:58:40.079418+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 42586,
+      "NumberOfAwardsMax": 5483
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 42582,
+  "NumberOfAwards": 42586,
   "NumberOfAwardsMax": 5483,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -11217,7 +11223,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4158
+      "Count": 4162
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11250,9 +11256,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 51573,
+  "EOS_Progressed": 51574,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -30000,6 +30006,11 @@
       "Time": "2023-11-13T17:08:25.0248769+00:00",
       "NumProgressed": 51573,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-13T18:07:29.9052096+00:00",
+      "NumProgressed": 51574,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -30195,7 +30206,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 26302
+      "UsersEstimate": 26303
     },
     {
       "ID": "Mission",
@@ -30235,7 +30246,7 @@
       "Name": "I like to switch it up",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 20629
+      "UsersEstimate": 20630
     },
     {
       "ID": "NumPlaceables",
@@ -30267,7 +30278,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 29912
+      "UsersEstimate": 29913
     },
     {
       "ID": "PetDog",
@@ -30275,7 +30286,7 @@
       "Name": "Ultimutt Pawesomeness",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 14440
+      "UsersEstimate": 14441
     },
     {
       "ID": "PlayTime",
@@ -30283,7 +30294,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 29912
+      "UsersEstimate": 29913
     },
     {
       "ID": "Sow",
@@ -30299,7 +30310,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 31975
+      "UsersEstimate": 31976
     },
     {
       "ID": "Stones",
@@ -30313,9 +30324,9 @@
       "ID": "TractorDriving",
       "SetID": "636ci4d",
       "Name": "Field Trip",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 22176
+      "UsersEstimate": 22693
     },
     {
       "ID": "TruckDriving",
@@ -30339,7 +30350,7 @@
       "Name": "Fix me up",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 6704
+      "UsersEstimate": 6705
     },
     {
       "ID": "WrappedBales",
@@ -30354,15 +30365,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 51573,
+      "Progressed": 51574,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
-  "LastChanged": "2023-11-13T16:59:01.9445611+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:08:25.0248767+00:00",
+  "LastChanged": "2023-11-13T17:58:40.0794179+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:07:29.9052093+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:00.8695856+00:00",
-  "LastUpdate_Ratings": "2023-11-13T16:59:01.9445617+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:08:25.0249945+00:00"
+  "LastUpdate_Ratings": "2023-11-13T17:58:40.079419+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:07:29.9053819+00:00"
 }

@@ -54,10 +54,10 @@ Rating: 4.54 (Ranked 523)
 | Donk! | 0.10% | ~718 |
 | Survival Skills | 0.10% | ~718 |
 | Bucket List | 0.10% | ~718 |
-| Lawn and Order | 0.10% | ~43 |
-| Wilhelm | 0.10% | ~43 |
+| Lawn and Order | 0.10% | ~44 |
+| Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 717,953 (Ranked 20)  
+Progressed: 717,979 (Ranked 20)  
 Completed: 2,387 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,387 (0.33%) (Ranked 223)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 717,953 | 2,387 |
+| 2023-11-13 | 717,979 | 2,387 |
 ## Awards
 Max (Great Boss Battles): 7,376  (Ranked 52)  
 Sum: 11,222 (Ranked 85)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 143,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 126,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -1469,9 +1469,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 16441,
+  "EOS_Progressed": 16442,
   "EOS_Completed": 79,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.48,
   "EosHistory": [
@@ -8944,6 +8944,11 @@
       "Time": "2023-11-13T16:05:09.9643127+00:00",
       "NumProgressed": 16441,
       "NumCompleted": 79
+    },
+    {
+      "Time": "2023-11-13T18:05:51.0155708+00:00",
+      "NumProgressed": 16442,
+      "NumCompleted": 79
     }
   ],
   "TotalAchievements": 47,
@@ -8985,9 +8990,9 @@
       "ID": "DISARM_ENEMY",
       "SetID": "4hj6d86",
       "Name": "Flesh Wound",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1151
+      "UsersEstimate": 1315
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -9075,7 +9080,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -9083,7 +9088,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "KILL_ROBOT",
@@ -9123,7 +9128,7 @@
       "Name": "Reforged",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "PRINT_WEAPON",
@@ -9147,7 +9152,7 @@
       "Name": "The Outer Way",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "STORY_ESCAPE",
@@ -9187,7 +9192,7 @@
       "Name": "Desperate Times",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 986
+      "UsersEstimate": 987
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -9330,13 +9335,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 16441,
+      "Progressed": 16442,
       "Completed": 79
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 4367,
+      "Progressed": 4368,
       "Completed": 29
     }
   ],
@@ -9344,8 +9349,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2023-11-12T16:02:53.4187845+00:00",
-  "LastChanged_Achievements": "2023-11-13T17:06:34.0479974+00:00",
+  "LastChanged_Achievements": "2023-11-13T18:05:51.01557+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:57.886898+00:00",
-  "LastUpdate_Ratings": "2023-11-13T17:03:22.4611864+00:00",
-  "LastUpdate_Achievements": "2023-11-13T17:06:34.0480681+00:00"
+  "LastUpdate_Ratings": "2023-11-13T18:02:57.9435144+00:00",
+  "LastUpdate_Achievements": "2023-11-13T18:05:51.0156646+00:00"
 }

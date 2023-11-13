@@ -1,47 +1,47 @@
 # HITMAN World of Assassination
 [Store](https://store.epicgames.com/en-US/p/hitman-3)  
 [View Rawdata](../../db/h/hitman_3.json)  
-Rating: 4.78 (Ranked 106)  
+Rating: 4.78 (Ranked 107)  
 Number of Ratings: 21,082  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~624,197 |
-| Death From Above | 45.00% | ~610,628 |
-| Master of the Household | 38.00% | ~515,641 |
-| Death of the Party | 35.00% | ~474,933 |
-| NEXUS-47 | 32.00% | ~434,224 |
-| The Last Tango | 31.00% | ~420,655 |
-| Nightmare Fuel | 30.00% | ~407,085 |
-| The Result of Previous Training | 28.00% | ~379,946 |
-| Tools of the Trade | 28.00% | ~379,946 |
-| Cleared for Field Duty | 27.00% | ~366,377 |
-| Seizing the Opportunity | 26.00% | ~352,807 |
-| Bullet Train | 21.00% | ~284,960 |
-| Stylish Assassin | 20.00% | ~271,390 |
-| Silent Assassin | 14.00% | ~189,973 |
-| Rise Up | 12.00% | ~162,834 |
-| Evil Wine Club | 11.00% | ~149,265 |
-| Console Cowboy | 10.00% | ~135,695 |
-| Last Stop | 10.00% | ~135,695 |
-| A New Profile | 9.00% | ~122,126 |
-| Full House | 9.00% | ~122,126 |
-| Dune Raider | 8.00% | ~108,556 |
-| No Stone Unturned | 8.00% | ~108,556 |
-| Train Surfing | 8.00% | ~108,556 |
-| Icebreaker | 7.00% | ~94,987 |
-| Family Feud | 6.00% | ~81,417 |
-| Count Down From 47 | 6.00% | ~81,417 |
+| Unseen Assassin | 46.00% | ~624,205 |
+| Death From Above | 45.00% | ~610,636 |
+| Master of the Household | 38.00% | ~515,648 |
+| Death of the Party | 35.00% | ~474,939 |
+| NEXUS-47 | 32.00% | ~434,230 |
+| The Last Tango | 31.00% | ~420,660 |
+| Nightmare Fuel | 30.00% | ~407,090 |
+| The Result of Previous Training | 28.00% | ~379,951 |
+| Tools of the Trade | 28.00% | ~379,951 |
+| Cleared for Field Duty | 27.00% | ~366,381 |
+| Seizing the Opportunity | 26.00% | ~352,812 |
+| Bullet Train | 21.00% | ~284,963 |
+| Stylish Assassin | 20.00% | ~271,394 |
+| Silent Assassin | 14.00% | ~189,976 |
+| Rise Up | 12.00% | ~162,836 |
+| Evil Wine Club | 11.00% | ~149,266 |
+| Console Cowboy | 10.00% | ~135,697 |
+| Last Stop | 10.00% | ~135,697 |
+| A New Profile | 9.00% | ~122,127 |
+| Full House | 9.00% | ~122,127 |
+| Dune Raider | 8.00% | ~108,557 |
+| No Stone Unturned | 8.00% | ~108,557 |
+| Train Surfing | 8.00% | ~108,557 |
+| Icebreaker | 7.00% | ~94,988 |
+| Family Feud | 6.00% | ~81,418 |
+| Count Down From 47 | 6.00% | ~81,418 |
 | Shortcut Killer | 5.00% | ~67,848 |
 | Stair Master | 5.00% | ~67,848 |
 | Followed the Trails | 5.00% | ~67,848 |
 | Last Call | 5.00% | ~67,848 |
 | Rich Harvest | 5.00% | ~67,848 |
-| Treacherous Architecture | 4.00% | ~54,278 |
-| Upstairs, Downstairs | 4.00% | ~54,278 |
-| The Great Outdoors | 4.00% | ~54,278 |
-| Partied Out | 4.00% | ~54,278 |
-| Surveillance Master | 4.00% | ~54,278 |
+| Treacherous Architecture | 4.00% | ~54,279 |
+| Upstairs, Downstairs | 4.00% | ~54,279 |
+| The Great Outdoors | 4.00% | ~54,279 |
+| Partied Out | 4.00% | ~54,279 |
+| Surveillance Master | 4.00% | ~54,279 |
 | Training Escalated | 3.00% | ~40,709 |
 | Keep Your Eyes Peeled | 3.00% | ~40,709 |
 | Warehouse Veteran | 3.00% | ~40,709 |
@@ -54,7 +54,7 @@ Number of Ratings: 21,082  (23.09.2022)
 | Ripe for the Picking | 1.00% | ~13,570 |
 | The Creative Assassin | 0.70% | ~9,499 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,356,951 (Ranked 9)  
+Progressed: 1,356,968 (Ranked 9)  
 Completed: 2,178 (0.16%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,7 +261,7 @@ Completed: 2,178 (0.16%) (Ranked 260)
 | 2023-11-10 | 1,355,770 | 2,177 |
 | 2023-11-11 | 1,356,239 | 2,177 |
 | 2023-11-12 | 1,356,707 | 2,178 |
-| 2023-11-13 | 1,356,951 | 2,178 |
+| 2023-11-13 | 1,356,968 | 2,178 |
 ## Awards
 Max (Diverse Characters): 10,663  (Ranked 37)  
 Sum: 73,662 (Ranked 21)  

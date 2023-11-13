@@ -34,20 +34,20 @@
 | Bartholomew | 23.00% | ~7 |
 | The Scheme | 23.00% | ~7 |
 | A curious phrase | 20.00% | ~6 |
+| Well-travelled | 17.00% | ~5 |
 | A peculiar fellow | 17.00% | ~5 |
 | Evelyn Lakshmi Warbeck | 17.00% | ~5 |
+| Florence Farquhar | 17.00% | ~5 |
 | Horace Mountjoy | 17.00% | ~5 |
 | Mortimer Ailsworth | 17.00% | ~5 |
 | The Suspects | 17.00% | ~5 |
 | The Secrets | 17.00% | ~5 |
-| Well-travelled | 13.00% | ~4 |
-| Florence Farquhar | 13.00% | ~4 |
+| The Investigation Starts Anew | 17.00% | ~5 |
+| The Denouement | 13.00% | ~4 |
+| A treasured heirloom | 13.00% | ~4 |
+| The Penitent Magdalene | 13.00% | ~4 |
+| A true performance | 13.00% | ~4 |
 | Johan Kristiansen | 13.00% | ~4 |
-| The Investigation Starts Anew | 13.00% | ~4 |
-| The Denouement | 10.00% | ~3 |
-| A treasured heirloom | 10.00% | ~3 |
-| The Penitent Magdalene | 10.00% | ~3 |
-| A true performance | 10.00% | ~3 |
 | Perkins | 10.00% | ~3 |
 | A perilous journey | 7.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
