@@ -15,8 +15,8 @@ Number of Ratings: 281  (23.09.2022)
 | More Fish in the Sea | 1.00% | ~65 |
 | Scaling up | 1.00% | ~65 |
 | Things that go Splash in the Night | 0.80% | ~52 |
+| School's Out for Summer | 0.70% | ~46 |
 | Goldfish? | 0.60% | ~39 |
-| School's Out for Summer | 0.60% | ~39 |
 | License to Gill | 0.50% | ~33 |
 | Going for Gold | 0.50% | ~33 |
 | I'm Hooked! | 0.40% | ~26 |

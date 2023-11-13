@@ -4,8 +4,8 @@
   "ProductSlug": "chants-of-sennaar",
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 68,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 63,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 536,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 5.41,
   "EosHistory": [
@@ -2403,9 +2403,9 @@
       "ID": "OPTIONNAL_BELL",
       "SetID": "2gma9an",
       "Name": "Rascal",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2506,8 +2506,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-13T04:06:22.6543081+00:00",
+  "LastChanged_Achievements": "2023-11-13T05:06:00.2280558+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:00:59.5174469+00:00",
-  "LastUpdate_Achievements": "2023-11-13T04:06:22.6543426+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:00:11.813053+00:00",
+  "LastUpdate_Achievements": "2023-11-13T05:06:00.2280894+00:00"
 }

@@ -1,7 +1,7 @@
 # Turnip Boy Commits Tax Evasion
 [Store](https://store.epicgames.com/en-US/p/turnip-boy-commits-tax-evasion-fb2084)  
 [View Rawdata](../../db/t/turnip_boy_commits_tax_evasion.json)  
-Rating: 4.67 (Ranked 271)  
+Rating: 4.68 (Ranked 253)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -13,3 +13,4 @@ Rating: 4.67 (Ranked 271)
 | 2023-11-08 | 4.65 | 0 | 0 |
 | 2023-11-09 | 4.67 | 0 | 0 |
 | 2023-11-11 | 4.67 | 0 | 0 |
+| 2023-11-13 | 4.68 | 0 | 0 |

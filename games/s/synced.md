@@ -22,7 +22,7 @@ Rating: 4.16 (Ranked 934)
 | Runs for Your Money | 0.30% | ~200 |
 | Past Master | 0.30% | ~200 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 66,528 (Ranked 102)  
+Progressed: 66,530 (Ranked 102)  
 Completed: 32 (0.05%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,18 +100,18 @@ Completed: 32 (0.05%) (Ranked 302)
 | 2023-11-10 | 66,292 | 30 |
 | 2023-11-11 | 66,412 | 32 |
 | 2023-11-12 | 66,510 | 32 |
-| 2023-11-13 | 66,528 | 32 |
+| 2023-11-13 | 66,530 | 32 |
 ## Awards
 Max (Great for Beginners): 92  (Ranked 370)  
-Sum: 320 (Ranked 356)  
-Diff (max vs sum): 14  
+Sum: 368 (Ranked 347)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 92 |
 | This game has Diverse Characters | 63 |
+| This game has a Competitive Community | 48 |
 | This game is Highly Recommended | 48 |
 | This game is Extremely Fun | 42 |
-| This game has a Competitive Community | 40 |
 | This game has Amazing Storytelling | 38 |
 | This game has Quickly Understood Controls | 37 |
 | This game is Relaxing | 28 |
@@ -181,4 +181,4 @@ Diff (max vs sum): 14
 | 2023-11-09 | 4.16 | 86 | 310 |
 | 2023-11-10 | 4.16 | 90 | 314 |
 | 2023-11-12 | 4.16 | 92 | 319 |
-| 2023-11-13 | 4.16 | 92 | 320 |
+| 2023-11-13 | 4.16 | 92 | 368 |

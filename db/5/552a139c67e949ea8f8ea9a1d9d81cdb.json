@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1040,
+  "EOS_Progressed": 1041,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
@@ -2057,6 +2057,11 @@
       "Time": "2023-11-13T04:04:04.1585211+00:00",
       "NumProgressed": 1040,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T05:04:04.5380272+00:00",
+      "NumProgressed": 1041,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2069,7 +2074,7 @@
       "Name": "Rookie",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 863
+      "UsersEstimate": 864
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -2085,7 +2090,7 @@
       "Name": "Out of control",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2197,7 +2202,7 @@
       "Name": "Solo",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -2229,7 +2234,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -2309,7 +2314,7 @@
       "Name": "Shopping time!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ML_ACHIEVEMENT_32",
@@ -2412,20 +2417,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1040,
+      "Progressed": 1041,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 708,
-      "Completed": 708
+      "Progressed": 709,
+      "Completed": 709
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-13T04:04:04.1585204+00:00",
+  "LastChanged_Achievements": "2023-11-13T05:04:04.5380267+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:00:15.4780132+00:00",
-  "LastUpdate_Achievements": "2023-11-13T04:04:04.1585701+00:00"
+  "LastUpdate_Ratings": "2023-11-13T04:59:36.1701625+00:00",
+  "LastUpdate_Achievements": "2023-11-13T05:04:04.5380768+00:00"
 }

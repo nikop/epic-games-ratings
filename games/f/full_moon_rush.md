@@ -22,7 +22,7 @@
 | Boss 9 | 0.00% | ~0 |
 | GAMING GOD | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 682)  
+Progressed: 1 (Ranked 683)  
 Completed: 0 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |

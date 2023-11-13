@@ -11,9 +11,9 @@ Number of Ratings: 46  (23.09.2022)
 | Taste | 4.00% | ~6,321 |
 | Weeper | 3.00% | ~4,741 |
 | Ravenous | 3.00% | ~4,741 |
-| Harmless | 2.00% | ~3,160 |
-| Silenced Whispers | 2.00% | ~3,160 |
-| Devourer | 2.00% | ~3,160 |
+| Harmless | 2.00% | ~3,161 |
+| Silenced Whispers | 2.00% | ~3,161 |
+| Devourer | 2.00% | ~3,161 |
 | Scion | 1.00% | ~1,576 |
 | Jawcrab | 1.00% | ~1,580 |
 | Jawstag | 1.00% | ~1,580 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | The Nightmare | 0.10% | ~158 |
 | Touch of Otherwhere | 0.10% | ~158 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158,022 (Ranked 76)  
+Progressed: 158,026 (Ranked 76)  
 Completed: 1 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,11 +237,11 @@ Completed: 1 (0.00%) (Ranked 350)
 | 2023-11-10 | 157,572 | 1 |
 | 2023-11-11 | 157,772 | 1 |
 | 2023-11-12 | 157,992 | 1 |
-| 2023-11-13 | 158,022 | 1 |
+| 2023-11-13 | 158,026 | 1 |
 ## Awards
 Max (Highly Recommended): 51  (Ranked 426)  
-Sum: 362 (Ranked 348)  
-Diff (max vs sum): 78  
+Sum: 362 (Ranked 349)  
+Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 51 |

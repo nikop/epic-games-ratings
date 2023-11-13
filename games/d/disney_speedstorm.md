@@ -5,18 +5,18 @@ Rating: 4.39 (Ranked 748)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 9.00% | ~26,499 |
-| IT MAKES BOOM! | 6.00% | ~17,666 |
-| EXTRA BOOST | 5.00% | ~14,722 |
-| PROTECTED | 4.00% | ~11,777 |
-| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,833 |
-| PRO | 3.00% | ~8,833 |
-| A TIGER'S FEAR | 2.00% | ~5,889 |
-| AGGRESSIVE RACER | 2.00% | ~5,889 |
-| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,944 |
-| ACE SPEEDSTER | 1.00% | ~2,944 |
-| RELEASE THE KRAKEN | 0.80% | ~2,355 |
-| LEGENDARY HERO | 0.80% | ~2,355 |
+| ROOKIE | 9.00% | ~26,503 |
+| IT MAKES BOOM! | 6.00% | ~17,669 |
+| EXTRA BOOST | 5.00% | ~14,724 |
+| PROTECTED | 4.00% | ~11,779 |
+| HERE ARE SOME BARE NECESSITIES | 3.00% | ~8,834 |
+| PRO | 3.00% | ~8,834 |
+| A TIGER'S FEAR | 2.00% | ~5,890 |
+| AGGRESSIVE RACER | 2.00% | ~5,890 |
+| IT'S A LONG WAY TO THE TOP | 1.00% | ~2,945 |
+| ACE SPEEDSTER | 1.00% | ~2,945 |
+| RELEASE THE KRAKEN | 0.80% | ~2,356 |
+| LEGENDARY HERO | 0.80% | ~2,356 |
 | TRAINING HARD | 0.70% | ~2,061 |
 | BE OUR GUEST | 0.70% | ~2,061 |
 | DEFEAT OUR CHAMPION | 0.70% | ~2,061 |
@@ -30,7 +30,7 @@ Rating: 4.39 (Ranked 748)
 | PERFECTLY POISED | 0.20% | ~589 |
 | ACE TRICKSTER | 0.20% | ~589 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 294,431 (Ranked 52)  
+Progressed: 294,480 (Ranked 52)  
 Completed: 281 (0.10%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,10 +233,10 @@ Completed: 281 (0.10%) (Ranked 273)
 | 2023-11-10 | 289,858 | 279 |
 | 2023-11-11 | 292,080 | 281 |
 | 2023-11-12 | 294,059 | 281 |
-| 2023-11-13 | 294,431 | 281 |
+| 2023-11-13 | 294,480 | 281 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 406)  
-Sum: 525 (Ranked 319)  
+Sum: 526 (Ranked 319)  
 Diff (max vs sum): 87  
 | Award | Count |
 | ----- | ----- |
@@ -249,9 +249,9 @@ Diff (max vs sum): 87
 | This game has Competitive Players | 40 |
 | This game is Highly Recommended | 37 |
 | This game has Quickly Understood Controls | 34 |
+| This game is Extremely Fun | 34 |
 | This game is Relaxing | 34 |
 | This game has Amazing Storytelling | 33 |
-| This game is Extremely Fun | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -298,4 +298,4 @@ Diff (max vs sum): 87
 | 2023-11-10 | 4.39 | 62 | 508 |
 | 2023-11-11 | 4.39 | 64 | 522 |
 | 2023-11-12 | 4.39 | 65 | 524 |
-| 2023-11-13 | 4.39 | 65 | 525 |
+| 2023-11-13 | 4.39 | 65 | 526 |

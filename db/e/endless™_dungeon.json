@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1086,
+  "EOS_Progressed": 1088,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1645,6 +1645,11 @@
       "Time": "2023-11-13T03:03:36.2895729+00:00",
       "NumProgressed": 1086,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T05:03:54.5736551+00:00",
+      "NumProgressed": 1088,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -1689,7 +1694,7 @@
       "Name": "Blobmeister",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -1697,7 +1702,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -1713,7 +1718,7 @@
       "Name": "Pest Control",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -1721,7 +1726,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -1737,7 +1742,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 751
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -1745,7 +1750,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -1753,7 +1758,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -1761,7 +1766,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -1777,7 +1782,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -1865,7 +1870,7 @@
       "Name": "Endlessly Effective",
       "Percentage": 12,
       "XP": 90,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
@@ -1896,14 +1901,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1086,
+      "Progressed": 1088,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2023-11-13T04:03:52.2407581+00:00",
+  "LastChanged_Achievements": "2023-11-13T05:03:54.5736547+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.2192237+00:00",
-  "LastUpdate_Ratings": "2023-11-13T03:59:26.5179561+00:00",
-  "LastUpdate_Achievements": "2023-11-13T04:03:52.2407924+00:00"
+  "LastUpdate_Ratings": "2023-11-13T04:58:56.0441512+00:00",
+  "LastUpdate_Achievements": "2023-11-13T05:03:54.5736863+00:00"
 }

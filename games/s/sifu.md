@@ -39,12 +39,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Source of Flying Daggers | 0.20% | ~1,434 |
 | Iron Money | 0.20% | ~1,434 |
 | Legendary Talismans of Wuxing | 0.20% | ~1,434 |
+| Prodigal Child | 0.20% | ~1,434 |
 | Detective Story | 0.20% | ~1,434 |
 | The 36th Chamber of Kung-Fu | 0.20% | ~1,434 |
 | Sword Stained With Blood | 0.20% | ~1,434 |
 | The best strikes are the ones we avoid | 0.20% | ~52 |
 | Beatmaker | 0.20% | ~52 |
-| Prodigal Child | 0.10% | ~717 |
 | Drunken Fighter | 0.10% | ~717 |
 | Martial Artist | 0.10% | ~717 |
 | Knowledge Greed | 0.10% | ~717 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~26 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 716,840 (Ranked 21)  
+Progressed: 716,841 (Ranked 21)  
 Completed: 12,934 (1.80%) (Ranked 129)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 12,934 (1.80%) (Ranked 129)
 | 2023-11-10 | 716,574 | 12,934 |
 | 2023-11-11 | 716,690 | 12,934 |
 | 2023-11-12 | 716,826 | 12,934 |
-| 2023-11-13 | 716,840 | 12,934 |
+| 2023-11-13 | 716,841 | 12,934 |
 ## Awards
 Max (Great Boss Battles): 6,789  (Ranked 55)  
 Sum: 11,862 (Ranked 82)  

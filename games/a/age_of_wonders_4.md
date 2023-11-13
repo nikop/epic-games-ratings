@@ -26,6 +26,7 @@ Rating: 4.61 (Ranked 384)
 | Digging for Treasure | 0.40% | ~22 |
 | Impenetrable Fortress | 0.40% | ~22 |
 | Intimidation Tactics | 0.40% | ~22 |
+| Here be Dragons | 0.40% | ~22 |
 | Tipping the Scales | 0.40% | ~22 |
 | Mighty Hoard | 0.40% | ~22 |
 | Seal the Deal | 0.40% | ~22 |
@@ -33,7 +34,6 @@ Rating: 4.61 (Ranked 384)
 | Enchanted Archipelago | 0.30% | ~16 |
 | Preparation Is Everything | 0.30% | ~16 |
 | My Final Form | 0.30% | ~16 |
-| Here be Dragons | 0.30% | ~16 |
 | Blood of the Dragon | 0.30% | ~16 |
 | Prometheus Avenged | 0.30% | ~16 |
 | A Conqueror's Cohort | 0.30% | ~16 |

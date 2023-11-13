@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 85.00% | ~202 |
-| Thalya – Simply Immortal | 85.00% | ~202 |
-| For the Horde! | 77.00% | ~183 |
-| Hammer Time, Round Two | 75.00% | ~178 |
-| Thalya's Concentrated Fury | 64.00% | ~152 |
-| The Hellwoods | 64.00% | ~152 |
-| Experienced Thalya | 58.00% | ~138 |
-| The Plains of Strothalm | 56.00% | ~133 |
-| Master of Magic | 55.00% | ~131 |
-| Bad Elves Go Everywhere | 53.00% | ~126 |
-| Trap Master | 50.00% | ~119 |
-| Unicorn steaks – fresh off the hoof! | 50.00% | ~119 |
-| Magic Accidents | 48.00% | ~114 |
-| Minions, Minions! | 46.00% | ~109 |
-| Heroes’ Gorge | 45.00% | ~107 |
+| The Last Stand | 85.00% | ~203 |
+| Thalya – Simply Immortal | 85.00% | ~203 |
+| For the Horde! | 77.00% | ~184 |
+| Hammer Time, Round Two | 75.00% | ~179 |
+| Thalya's Concentrated Fury | 64.00% | ~153 |
+| The Hellwoods | 64.00% | ~153 |
+| Experienced Thalya | 57.00% | ~136 |
+| Master of Magic | 56.00% | ~134 |
+| The Plains of Strothalm | 56.00% | ~134 |
+| Bad Elves Go Everywhere | 53.00% | ~127 |
+| Trap Master | 50.00% | ~120 |
+| Unicorn steaks – fresh off the hoof! | 50.00% | ~120 |
+| Magic Accidents | 49.00% | ~117 |
+| Minions, Minions! | 46.00% | ~110 |
+| Heroes’ Gorge | 45.00% | ~108 |
 | YOU SHALL NOT PASS! | 34.00% | ~81 |
-| The Ascent | 30.00% | ~71 |
-| It's Warm and Cozy at Home | 30.00% | ~71 |
-| Hard Work | 27.00% | ~64 |
+| The Ascent | 30.00% | ~72 |
+| It's Warm and Cozy at Home | 30.00% | ~72 |
+| Hard Work | 27.00% | ~65 |
 | Mana Cannon | 26.00% | ~62 |
 | Pure Dynamite! | 26.00% | ~62 |
 | The Big Eaty | 23.00% | ~55 |
@@ -32,15 +32,15 @@
 | Shame! Shame! Shame! | 12.00% | ~29 |
 | The Cathedral of Light | 11.00% | ~26 |
 | Sacrificial Pit = Garbage Disposal? | 10.00% | ~24 |
-| Hungry, Hungry Gorgu! | 9.00% | ~21 |
-| Tanos' Crusade Against Thalya | 9.00% | ~21 |
+| Hungry, Hungry Gorgu! | 9.00% | ~22 |
+| Tanos' Crusade Against Thalya | 9.00% | ~22 |
 | Forbidden Knowledge | 8.00% | ~19 |
 | Unstoppable Horde | 8.00% | ~19 |
-| Master of the Undead | 7.00% | ~17 |
-| All’s Well That Ends Evil | 7.00% | ~17 |
+| Master of the Undead | 8.00% | ~19 |
+| All’s Well That Ends Evil | 8.00% | ~19 |
 | Ghost Pirates? Ghost Heroes! | 6.00% | ~14 |
+| Stop Tanos! | 5.00% | ~12 |
 | The Duel | 5.00% | ~12 |
-| Stop Tanos! | 4.00% | ~10 |
 | If Looks Could Kill | 4.00% | ~10 |
 | Bonus Evilness | 3.00% | ~7 |
 | The Finitude Drill | 3.00% | ~7 |
@@ -66,7 +66,7 @@
 | I Don't Need Any Help | 0.40% | ~1 |
 | Evilification | 0.40% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 238 (Ranked 359)  
+Progressed: 239 (Ranked 358)  
 Completed: 1 (0.42%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,4 +75,4 @@ Completed: 1 (0.42%) (Ranked 207)
 | 2023-11-10 | 153 | 0 |
 | 2023-11-11 | 205 | 0 |
 | 2023-11-12 | 236 | 1 |
-| 2023-11-13 | 238 | 1 |
+| 2023-11-13 | 239 | 1 |

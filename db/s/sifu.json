@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7629,9 +7629,9 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 716840,
+  "EOS_Progressed": 716841,
   "EOS_Completed": 12934,
-  "EOS_NewPlayers": 629,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -25914,6 +25914,11 @@
       "Time": "2023-11-13T04:05:33.9687981+00:00",
       "NumProgressed": 716840,
       "NumCompleted": 12934
+    },
+    {
+      "Time": "2023-11-13T05:05:20.0488493+00:00",
+      "NumProgressed": 716841,
+      "NumCompleted": 12934
     }
   ],
   "TotalAchievements": 60,
@@ -26019,9 +26024,9 @@
       "ID": "13_LowAge",
       "SetID": "adcm20g",
       "Name": "Prodigal Child",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 717
+      "UsersEstimate": 1434
     },
     {
       "ID": "14_DeathlessBoss_Trophy",
@@ -26404,21 +26409,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26141,
+      "Progressed": 26142,
       "Completed": 10738
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716840,
+      "Progressed": 716841,
       "Completed": 12934
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-13T00:00:28.163503+00:00",
-  "LastChanged_Achievements": "2023-11-13T04:05:33.9687974+00:00",
+  "LastChanged_Achievements": "2023-11-13T05:05:20.0488489+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.4237338+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:00:26.6842268+00:00",
-  "LastUpdate_Achievements": "2023-11-13T04:05:33.968967+00:00"
+  "LastUpdate_Ratings": "2023-11-13T04:59:44.3084816+00:00",
+  "LastUpdate_Achievements": "2023-11-13T05:05:20.0490539+00:00"
 }

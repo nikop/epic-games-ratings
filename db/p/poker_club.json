@@ -931,9 +931,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 537373,
+  "EOS_Progressed": 537375,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1383,
+  "EOS_NewPlayers": 1380,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24296,6 +24296,11 @@
       "Time": "2023-11-13T04:06:42.1740762+00:00",
       "NumProgressed": 537373,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-13T05:06:16.4848472+00:00",
+      "NumProgressed": 537375,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -24315,7 +24320,7 @@
       "Name": "Backdoor",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 134343
+      "UsersEstimate": 134344
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -24323,7 +24328,7 @@
       "Name": "Before You Wreck Yourself",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10747
+      "UsersEstimate": 10748
     },
     {
       "ID": "BetBetBet",
@@ -24331,7 +24336,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 53737
+      "UsersEstimate": 53738
     },
     {
       "ID": "BlindmansBluff",
@@ -24403,7 +24408,7 @@
       "Name": "Cold Caller",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 209575
+      "UsersEstimate": 209576
     },
     {
       "ID": "DeadlyAssassin",
@@ -24459,7 +24464,7 @@
       "Name": "Handy",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 220323
+      "UsersEstimate": 220324
     },
     {
       "ID": "HoldingYourOwn",
@@ -24491,7 +24496,7 @@
       "Name": "Keep Your Heads Up",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 10747
+      "UsersEstimate": 10748
     },
     {
       "ID": "Moneymaker",
@@ -24555,7 +24560,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 408403
+      "UsersEstimate": 408405
     },
     {
       "ID": "ProPlayer",
@@ -24579,7 +24584,7 @@
       "Name": "Rank Amateur",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 112848
+      "UsersEstimate": 112849
     },
     {
       "ID": "RegularPunter",
@@ -24619,7 +24624,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 69858
+      "UsersEstimate": 69859
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -24666,7 +24671,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 537373,
+      "Progressed": 537375,
       "Completed": 2
     }
   ],
@@ -24674,8 +24679,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2023-11-12T12:00:48.3525541+00:00",
-  "LastChanged_Achievements": "2023-11-13T04:06:42.1740754+00:00",
+  "LastChanged_Achievements": "2023-11-13T05:06:16.4848467+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:00.8700093+00:00",
-  "LastUpdate_Ratings": "2023-11-13T04:01:08.8477126+00:00",
-  "LastUpdate_Achievements": "2023-11-13T04:06:42.1742563+00:00"
+  "LastUpdate_Ratings": "2023-11-13T05:02:39.2425501+00:00",
+  "LastUpdate_Achievements": "2023-11-13T05:06:16.485058+00:00"
 }

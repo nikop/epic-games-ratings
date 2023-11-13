@@ -94,6 +94,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Imperio español | 0.10% | ~454 |
 | Imposter Syndrome | 0.10% | ~454 |
 | In the Name of the Father | 0.10% | ~454 |
+| An Industrial Evolution | 0.10% | ~454 |
 | Industrial Powerhouse | 0.10% | ~454 |
 | Isn't this the way to India? | 0.10% | ~454 |
 | Italian Ambition | 0.10% | ~454 |
@@ -272,7 +273,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hanukkah Mutapa | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
 | Home and Away | 0.00% | ~0 |
-| An Industrial Evolution | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 454,393 (Ranked 41)  
+Progressed: 454,410 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -577,7 +577,7 @@ Completed: 1 (0.00%) (Ranked 350)
 | 2023-11-10 | 451,745 | 1 |
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
-| 2023-11-13 | 454,393 | 1 |
+| 2023-11-13 | 454,410 | 1 |
 ## Awards
 Max (Educational): 6,965  (Ranked 54)  
 Sum: 57,368 (Ranked 24)  

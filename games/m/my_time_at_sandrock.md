@@ -26,13 +26,13 @@ Number of Ratings: 892  (23.09.2022)
 | My Time Mansion | 41.00% | ~127 |
 | What Plants Crave | 41.00% | ~127 |
 | Happier-est Place on Earth | 41.00% | ~127 |
+| I Do! | 41.00% | ~127 |
 | Mole Masher | 41.00% | ~127 |
-| I Do! | 40.00% | ~124 |
 | You Don't Win Friends With Salad | 40.00% | ~124 |
 | Knowledge is Power | 39.00% | ~121 |
 | First Love | 39.00% | ~121 |
+| Better Late than Never | 38.00% | ~117 |
 | Anti-Santa | 38.00% | ~117 |
-| Better Late than Never | 37.00% | ~114 |
 | Panda-kin | 35.00% | ~108 |
 | Finishing Touches | 35.00% | ~108 |
 | Officially Official | 34.00% | ~105 |
@@ -59,7 +59,7 @@ Number of Ratings: 892  (23.09.2022)
 | Pro Gamer | 16.00% | ~49 |
 | Cardistry | 14.00% | ~43 |
 | Jack of All Trades | 8.00% | ~25 |
-| It's High Noon... | 7.00% | ~22 |
+| It's High Noon... | 8.00% | ~25 |
 | Strong Arms | 7.00% | ~22 |
 | Got the Receipt? | 7.00% | ~22 |
 | Sandrock's Hottest Club | 3.00% | ~9 |

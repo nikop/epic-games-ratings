@@ -6,12 +6,12 @@ Rating: 4.06 (Ranked 973)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforeseen | 90.00% | ~244 |
-| Battlefields Have Memories | 85.00% | ~230 |
+| Battlefields Have Memories | 86.00% | ~233 |
 | Enlisted | 82.00% | ~222 |
 | Maybe Engage a Little | 77.00% | ~209 |
 | No More Names | 64.00% | ~173 |
 | Initiate | 49.00% | ~133 |
-| Thrada-Kul | 44.00% | ~119 |
+| Thrada-Kul | 45.00% | ~122 |
 | Gravity-Challenged Rocks | 34.00% | ~92 |
 | All the Major Food Groups | 30.00% | ~81 |
 | Soldier | 29.00% | ~79 |
@@ -33,8 +33,8 @@ Rating: 4.06 (Ranked 973)
 | Shroudfane Explorer | 7.00% | ~19 |
 | Best Dressed | 6.00% | ~16 |
 | Armaments Azure | 6.00% | ~16 |
+| Armaments Gules | 5.00% | ~14 |
 | Scholar | 4.00% | ~11 |
-| Armaments Gules | 4.00% | ~11 |
 | Armaments Vert | 4.00% | ~11 |
 | Kitted Out | 3.00% | ~8 |
 | Veteran | 3.00% | ~8 |

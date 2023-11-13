@@ -1,14 +1,14 @@
 # Shadow Tactics: Blades of the Shogun
 [Store](https://store.epicgames.com/en-US/p/shadow-tactics)  
 [View Rawdata](../../db/s/shadow_tactics__blades_of_the_shogun.json)  
-Rating: 4.67 (Ranked 271)  
+Rating: 4.67 (Ranked 272)  
 Number of Ratings: 495  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~25,617 |
-| A thief's beginning | 10.00% | ~21,347 |
-| Thorough | 10.00% | ~21,347 |
+| A thief's beginning | 10.00% | ~21,348 |
+| Thorough | 10.00% | ~21,348 |
 | Disguised | 9.00% | ~19,213 |
 | Rollin' | 9.00% | ~19,213 |
 | Tanuki Time | 9.00% | ~19,213 |
@@ -18,10 +18,10 @@ Number of Ratings: 495  (23.09.2022)
 | Ice Ice Yuki | 7.00% | ~14,943 |
 | Jonin | 7.00% | ~14,943 |
 | Yabu | 7.00% | ~14,943 |
-| Chunin | 6.00% | ~12,808 |
-| Flying Rocks | 6.00% | ~12,808 |
-| Mugen Unchained | 6.00% | ~12,808 |
-| Warzone | 6.00% | ~12,808 |
+| Chunin | 6.00% | ~12,809 |
+| Flying Rocks | 6.00% | ~12,809 |
+| Mugen Unchained | 6.00% | ~12,809 |
+| Warzone | 6.00% | ~12,809 |
 | Okkoto | 5.00% | ~10,674 |
 | Prisoners | 5.00% | ~10,674 |
 | Too Early | 5.00% | ~10,674 |
@@ -32,10 +32,10 @@ Number of Ratings: 495  (23.09.2022)
 | It's raining men | 3.00% | ~6,404 |
 | Stoned | 3.00% | ~6,404 |
 | The Old Way | 3.00% | ~6,404 |
-| Atheist Ox | 2.00% | ~4,269 |
-| No Gimmicks | 2.00% | ~4,269 |
-| Old Man | 2.00% | ~4,269 |
-| Winner Winner | 2.00% | ~4,269 |
+| Atheist Ox | 2.00% | ~4,270 |
+| No Gimmicks | 2.00% | ~4,270 |
+| Old Man | 2.00% | ~4,270 |
+| Winner Winner | 2.00% | ~4,270 |
 | Meticulous | 1.00% | ~2,135 |
 | The End | 1.00% | ~2,135 |
 | Undeserved Honor | 1.00% | ~2,135 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~213 |
 | Release the Kraken | 0.10% | ~213 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213,473 (Ranked 70)  
+Progressed: 213,477 (Ranked 70)  
 Completed: 98 (0.05%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 98 (0.05%) (Ranked 302)
 | 2023-11-10 | 212,989 | 96 |
 | 2023-11-11 | 213,217 | 97 |
 | 2023-11-12 | 213,446 | 98 |
-| 2023-11-13 | 213,473 | 98 |
+| 2023-11-13 | 213,477 | 98 |
 ## Awards
 Max (Great for Beginners): 573  (Ranked 196)  
 Sum: 4,837 (Ranked 142)  
