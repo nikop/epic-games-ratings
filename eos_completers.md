@@ -113,7 +113,7 @@
 | 111 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 2.64% |
 | 112 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 113 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
-| 113 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.53% |
+| 114 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.52% |
 | 115 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 116 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 117 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
