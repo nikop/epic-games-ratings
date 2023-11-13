@@ -785,7 +785,6 @@
 | 779 | [Cris Tales](games/c/cris_tales.md) | 4.36 | 173 | 305 |
 | 779 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 4.36 | 12,755 | 31 |
 | 779 | [King's Bounty: Dark Side](games/k/king's_bounty__dark_side.md) | 4.36 | 0 | 546 |
-| 779 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.36 | 85 | 381 |
 | 779 | [My Lovely Wife](games/m/my_lovely_wife.md) | 4.36 | 0 | 546 |
 | 779 | [Spirit of the Island](games/s/spirit_of_the_island.md) | 4.36 | 0 | 546 |
 | 779 | [Spirit of the North](games/s/spirit_of_the_north.md) | 4.36 | 26 | 512 |
@@ -794,13 +793,14 @@
 | 779 | [The Silent Age](games/t/the_silent_age.md) | 4.36 | 0 | 546 |
 | 779 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.36 | 297 | 250 |
 | 779 | [Watch Dogs: Legion Standard Edition](games/w/watch_dogs__legion_standard_edition.md) | 4.36 | 126 | 332 |
-| 795 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 546 |
-| 795 | [Dark Light](games/d/dark_light.md) | 4.35 | 0 | 546 |
-| 795 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 546 |
-| 795 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 206 | 285 |
-| 795 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 546 |
-| 795 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 546 |
-| 795 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.35 | 3,172 | 96 |
+| 794 | [Banners of Ruin](games/b/banners_of_ruin.md) | 4.35 | 0 | 546 |
+| 794 | [Dark Light](games/d/dark_light.md) | 4.35 | 0 | 546 |
+| 794 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 4.35 | 0 | 546 |
+| 794 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 4.35 | 206 | 285 |
+| 794 | [Little Big Workshop](games/l/little_big_workshop.md) | 4.35 | 0 | 546 |
+| 794 | [Lost Eidolons](games/l/lost_eidolons.md) | 4.35 | 0 | 546 |
+| 794 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.35 | 85 | 381 |
+| 794 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4.35 | 3,172 | 96 |
 | 802 | [Automachef](games/a/automachef.md) | 4.34 | 27 | 508 |
 | 802 | [BIOMUTANT](games/b/biomutant.md) | 4.34 | 124 | 335 |
 | 802 | [CRSED: F.O.A.D.](games/c/crsed__f.o.a.d..md) | 4.34 | 105 | 351 |
