@@ -78,7 +78,7 @@
 | 65 | [The Walking Dead: Season One](games/t/the_walking_dead__season_one.md) | 4.82 | 28 | 501 |
 | 65 | [Tony Hawk's™ Pro Skater™ 1 + 2](games/t/tony_hawk's™_pro_skater™_1_+_2.md) | 4.82 | 96 | 363 |
 | 78 | [Against the Storm](games/a/against_the_storm.md) | 4.81 | 439 | 219 |
-| 78 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,805 | 117 |
+| 78 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 4.81 | 1,819 | 116 |
 | 78 | [Child of Light: Ultimate Edition](games/c/child_of_light__ultimate_edition.md) | 4.81 | 0 | 546 |
 | 78 | [Icewind Dale: Enhanced Edition](games/i/icewind_dale__enhanced_edition.md) | 4.81 | 0 | 546 |
 | 78 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 4.81 | 210 | 283 |
@@ -261,7 +261,7 @@
 | 253 | [Days Gone](games/d/days_gone.md) | 4.68 | 4,035 | 84 |
 | 253 | [FAR CRY 4](games/f/far_cry_4.md) | 4.68 | 719 | 180 |
 | 253 | [Farming Simulator 22](games/f/farming_simulator_22.md) | 4.68 | 5,465 | 69 |
-| 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 314,535 | 3 |
+| 253 | [Genshin Impact](games/g/genshin_impact.md) | 4.68 | 314,696 | 3 |
 | 253 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 4.68 | 257,776 | 4 |
 | 253 | [INSIDE](games/i/inside.md) | 4.68 | 0 | 546 |
 | 253 | [Kao the Kangaroo - Round 2](games/k/kao_the_kangaroo_-_round_2.md) | 4.68 | 0 | 546 |
@@ -270,27 +270,27 @@
 | 253 | [Super Meat Boy Forever](games/s/super_meat_boy_forever.md) | 4.68 | 0 | 546 |
 | 253 | [Syberia: The World Before](games/s/syberia__the_world_before.md) | 4.68 | 0 | 546 |
 | 253 | [Titan Quest Anniversary Edition](games/t/titan_quest_anniversary_edition.md) | 4.68 | 95 | 366 |
-| 271 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 546 |
-| 271 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 696 | 184 |
-| 271 | [Coromon](games/c/coromon.md) | 4.67 | 42 | 450 |
-| 271 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 546 |
-| 271 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 49 | 432 |
-| 271 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 546 |
-| 271 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 0 | 546 |
-| 271 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.67 | 0 | 546 |
-| 271 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 477 | 210 |
-| 271 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,276 | 105 |
-| 271 | [Overcooked](games/o/overcooked.md) | 4.67 | 120 | 340 |
-| 271 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.67 | 0 | 546 |
-| 271 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 573 | 196 |
-| 271 | [Suzerain](games/s/suzerain.md) | 4.67 | 0 | 546 |
-| 271 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 716 | 181 |
-| 271 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 546 |
-| 271 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 546 |
-| 271 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 546 |
-| 271 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.67 | 0 | 546 |
-| 271 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.67 | 0 | 546 |
-| 271 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 546 |
+| 253 | [Turnip Boy Commits Tax Evasion](games/t/turnip_boy_commits_tax_evasion.md) | 4.68 | 0 | 546 |
+| 272 | [APE OUT](games/a/ape_out.md) | 4.67 | 0 | 546 |
+| 272 | [Batman Arkham Asylum Game of the Year Edition](games/b/batman_arkham_asylum_game_of_the_year_edition.md) | 4.67 | 696 | 184 |
+| 272 | [Coromon](games/c/coromon.md) | 4.67 | 42 | 450 |
+| 272 | [Eastward](games/e/eastward.md) | 4.67 | 0 | 546 |
+| 272 | [Expeditions: Rome](games/e/expeditions__rome.md) | 4.67 | 49 | 432 |
+| 272 | [King of Retail](games/k/king_of_retail.md) | 4.67 | 0 | 546 |
+| 272 | [KINGDOM HEARTS Melody of Memory](games/k/kingdom_hearts_melody_of_memory.md) | 4.67 | 0 | 546 |
+| 272 | [LEGO® 2K Drive](games/l/lego®_2k_drive.md) | 4.67 | 0 | 546 |
+| 272 | [Loop Hero](games/l/loop_hero.md) | 4.67 | 477 | 210 |
+| 272 | [My Time At Portia](games/m/my_time_at_portia.md) | 4.67 | 2,276 | 105 |
+| 272 | [Overcooked](games/o/overcooked.md) | 4.67 | 120 | 340 |
+| 272 | [SAMURAI SHODOWN](games/s/samurai_shodown.md) | 4.67 | 0 | 546 |
+| 272 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 4.67 | 573 | 196 |
+| 272 | [Suzerain](games/s/suzerain.md) | 4.67 | 0 | 546 |
+| 272 | [The Crew 2 Standard Edition](games/t/the_crew_2_standard_edition.md) | 4.67 | 716 | 181 |
+| 272 | [The Crew® – Standard Edition](games/t/the_crew®_–_standard_edition.md) | 4.67 | 0 | 546 |
+| 272 | [The Textorcist: The Story of Ray Bibbia](games/t/the_textorcist__the_story_of_ray_bibbia.md) | 4.67 | 0 | 546 |
+| 272 | [This Is The Police 2](games/t/this_is_the_police_2.md) | 4.67 | 0 | 546 |
+| 272 | [Wilmot's Warehouse](games/w/wilmot's_warehouse.md) | 4.67 | 0 | 546 |
+| 272 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 546 |
 | 292 | [Assassin's Creed Chronicles: China](games/a/assassin's_creed_chronicles__china.md) | 4.66 | 0 | 546 |
 | 292 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 81 | 385 |
 | 292 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,154 | 60 |
@@ -497,7 +497,7 @@
 | 488 | [Hue](games/h/hue.md) | 4.56 | 0 | 546 |
 | 488 | [Legend of Keepers](games/l/legend_of_keepers.md) | 4.56 | 0 | 546 |
 | 488 | [MultiVersus](games/m/multiversus.md) | 4.56 | 4,750 | 75 |
-| 488 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,817 | 116 |
+| 488 | [Phoenix Point: Complete Edition](games/p/phoenix_point__complete_edition.md) | 4.56 | 1,817 | 117 |
 | 488 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 4.56 | 65 | 406 |
 | 488 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 4.56 | 0 | 546 |
 | 488 | [Thimbleweed Park](games/t/thimbleweed_park.md) | 4.56 | 31 | 489 |
@@ -866,7 +866,7 @@
 | 858 | [RiMS Racing](games/r/rims_racing.md) | 4.27 | 0 | 546 |
 | 858 | [Scrapnaut](games/s/scrapnaut.md) | 4.27 | 0 | 546 |
 | 858 | [The Fall](games/t/the_fall.md) | 4.27 | 0 | 546 |
-| 867 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 20,929 | 19 |
+| 867 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 4.26 | 20,955 | 19 |
 | 867 | [Flatout](games/f/flatout.md) | 4.26 | 0 | 546 |
 | 867 | [Men of War](games/m/men_of_war.md) | 4.26 | 0 | 546 |
 | 867 | [Saturnalia](games/s/saturnalia.md) | 4.26 | 0 | 546 |
