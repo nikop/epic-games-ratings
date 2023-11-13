@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lucky charm | 90.00% | ~193 |
-| Trumpet | 88.00% | ~188 |
+| Trumpet | 89.00% | ~190 |
 | Spyglass | 83.00% | ~178 |
 | Broken toy | 77.00% | ~165 |
 | Egghead Lucy | 75.00% | ~160 |

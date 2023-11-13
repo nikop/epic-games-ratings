@@ -4,11 +4,11 @@
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 384,
   "Ranking_Popularity": 482,
-  "Ranking_PopularitySum": 474,
+  "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 263,
   "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7331,9 +7331,9 @@
       "ID": "38",
       "SetID": "3aa2279",
       "Name": "Manufactured War",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "39",
@@ -7578,8 +7578,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:04:18.8280969+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:04:14.5913226+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
   "LastUpdate_Ratings": "2023-11-13T14:02:50.4108464+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:04:18.8281762+00:00"
+  "LastUpdate_Achievements": "2023-11-13T15:04:14.5913842+00:00"
 }

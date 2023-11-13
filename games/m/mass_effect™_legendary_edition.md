@@ -7,7 +7,7 @@
 | Distinguished Service Medal | 94.00% | ~1,158 |
 | Spectre Inductee | 79.00% | ~973 |
 | Medal of Exploration I | 70.00% | ~862 |
-| Recruit | 65.00% | ~801 |
+| Recruit | 66.00% | ~813 |
 | Search and Rescue | 65.00% | ~801 |
 | Quarian Ally | 62.00% | ~764 |
 | Honorarium of Corporate Service | 58.00% | ~715 |
@@ -70,10 +70,10 @@
 | Bringer of War | 28.00% | ~345 |
 | Friend or Foe | 27.00% | ~333 |
 | Mobilizer | 27.00% | ~333 |
+| Untouchable | 26.00% | ~320 |
 | Mission Accomplished | 26.00% | ~320 |
 | Suicide Mission | 26.00% | ~320 |
 | Against All Odds | 26.00% | ~320 |
-| Untouchable | 25.00% | ~308 |
 | Giant Killer | 25.00% | ~308 |
 | A House Divided | 25.00% | ~308 |
 | Eye of the Hurricane | 24.00% | ~296 |

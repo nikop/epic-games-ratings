@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 401,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-04-10T11:00:00+00:00",
     "PcReleaseDate": "2020-06-19T16:30:00+00:00",
@@ -269,9 +269,9 @@
       "ID": "16",
       "SetID": "4fgie3j",
       "Name": "Great Civil War",
-      "Percentage": 16,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "17",
@@ -604,8 +604,8 @@
   ],
   "FirstSeen": "2023-07-23T23:01:17.0693395+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:09.8728342+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:03:39.7294146+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:03:31.8652398+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:32.1308831+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:57:37.3407447+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:03:39.7294502+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:57:28.3286725+00:00",
+  "LastUpdate_Achievements": "2023-11-13T15:03:31.8652912+00:00"
 }

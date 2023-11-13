@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 449,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-12-01T16:00:00+00:00",
     "PcReleaseDate": "2023-12-01T16:00:00+00:00",
@@ -266,8 +266,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:08:01.9825437+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:06:55.3726349+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:58.0731415+00:00",
-  "LastUpdate_Ratings": "2023-11-13T14:02:59.8933285+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:08:01.9825585+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:02:45.3449148+00:00",
+  "LastUpdate_Achievements": "2023-11-13T15:06:55.3726464+00:00"
 }

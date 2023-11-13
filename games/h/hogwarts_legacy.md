@@ -21,7 +21,7 @@ Rating: 4.76 (Ranked 125)
 | The Hero of Hogwarts | 10.00% | ~30,202 |
 | Followed the Butterflies | 10.00% | ~30,202 |
 | Rising From the Ashes | 10.00% | ~30,202 |
-| The Spell Master | 9.00% | ~27,181 |
+| The Spell Master | 9.00% | ~27,182 |
 | The Avenging Gazelle | 8.00% | ~24,161 |
 | Beast Friends | 8.00% | ~24,161 |
 | A Sallow Grave | 8.00% | ~24,161 |
@@ -37,9 +37,9 @@ Rating: 4.76 (Ranked 125)
 | Room with a View | 4.00% | ~12,081 |
 | The Intrepid Explorer | 4.00% | ~12,081 |
 | The Wise Owl | 4.00% | ~12,081 |
-| Put Down Roots | 3.00% | ~9,060 |
-| The Auror's Apprentice | 3.00% | ~9,060 |
-| Floo Around the World | 3.00% | ~9,060 |
+| Put Down Roots | 3.00% | ~9,061 |
+| The Auror's Apprentice | 3.00% | ~9,061 |
+| Floo Around the World | 3.00% | ~9,061 |
 | The Good Samaritan | 2.00% | ~6,040 |
 | Rise to the Challenges | 2.00% | ~6,040 |
 | Demiguise Dread | 2.00% | ~6,040 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,016 (Ranked 50)  
-Completed: 510 (0.17%) (Ranked 257)  
+Progressed: 302,017 (Ranked 50)  
+Completed: 510 (0.17%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -258,7 +258,7 @@ Completed: 510 (0.17%) (Ranked 257)
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
 | 2023-11-12 | 301,983 | 510 |
-| 2023-11-13 | 302,016 | 510 |
+| 2023-11-13 | 302,017 | 510 |
 ## Awards
 Max (Character Customization): 24,259  (Ranked 17)  
 Sum: 48,055 (Ranked 30)  

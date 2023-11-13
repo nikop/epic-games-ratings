@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4199,7 +4199,7 @@
       "Count": 394
     }
   ],
-  "EOS_Progressed": 12083,
+  "EOS_Progressed": 12084,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
@@ -15504,6 +15504,11 @@
       "Time": "2023-11-13T12:08:04.9811463+00:00",
       "NumProgressed": 12083,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T15:06:43.5579752+00:00",
+      "NumProgressed": 12084,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -15603,7 +15608,7 @@
       "Name": "Path of the Trickster",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "13_PathOfLich",
@@ -15651,7 +15656,7 @@
       "Name": "Mythic Choices",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "19_EqualToAroden",
@@ -15739,7 +15744,7 @@
       "Name": "Heroic Victory",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "31_DivideAndRule",
@@ -15763,7 +15768,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -15787,7 +15792,7 @@
       "Name": "Core of the Riddle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "37_FirstBigEnemy",
@@ -15945,9 +15950,9 @@
       "ID": "56_GetToad",
       "SetID": "989of5o",
       "Name": "Get the Toad",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 483
+      "UsersEstimate": 604
     },
     {
       "ID": "57_PathOfDevil",
@@ -16442,21 +16447,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 10865,
+      "Progressed": 10866,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 12083,
+      "Progressed": 12084,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2023-11-12T09:58:55.8024273+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:06:30.7226753+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:06:43.5579749+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5202817+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:59:29.5675005+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:06:30.7228235+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:59:37.4377009+00:00",
+  "LastUpdate_Achievements": "2023-11-13T15:06:43.5581548+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 311,
   "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114073,
+  "EOS_Progressed": 114074,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17779,6 +17779,11 @@
       "Time": "2023-11-13T14:08:36.1587256+00:00",
       "NumProgressed": 114073,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-13T15:08:33.6671157+00:00",
+      "NumProgressed": 114074,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17798,7 +17803,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87836
+      "UsersEstimate": 87837
     },
     {
       "ID": "EAwards_10",
@@ -17886,7 +17891,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54755
+      "UsersEstimate": 54756
     },
     {
       "ID": "EAwards_20",
@@ -18062,7 +18067,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14829
+      "UsersEstimate": 14830
     },
     {
       "ID": "EAwards_40",
@@ -18181,7 +18186,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114073,
+      "Progressed": 114074,
       "Completed": 50
     }
   ],
@@ -18189,8 +18194,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:08:36.1587255+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:08:33.6671155+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:57:51.8568543+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:08:36.1588297+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:57:44.143892+00:00",
+  "LastUpdate_Achievements": "2023-11-13T15:08:33.6672048+00:00"
 }

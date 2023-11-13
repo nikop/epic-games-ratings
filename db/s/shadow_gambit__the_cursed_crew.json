@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 820,
+  "EOS_Progressed": 821,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.41,
   "EosHistory": [
@@ -2597,6 +2597,11 @@
       "Time": "2023-11-13T13:14:53.4964908+00:00",
       "NumProgressed": 820,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-13T15:09:12.9228968+00:00",
+      "NumProgressed": 821,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2617,7 +2622,7 @@
       "Name": "A New Journey",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "_03_FinishAct1",
@@ -2625,7 +2630,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2633,7 +2638,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "_05_FinishAct2",
@@ -2647,9 +2652,9 @@
       "ID": "_06_FinishFirstMirrorQuest",
       "SetID": "8a1io5d",
       "Name": "Mirror Mirror on the Wall",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 238
     },
     {
       "ID": "_07_FinishAct3",
@@ -2665,7 +2670,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "_09_Completion_20",
@@ -2673,7 +2678,7 @@
       "Name": "Powder Monkey",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "_10_Completion_30",
@@ -2697,7 +2702,7 @@
       "Name": "Privateer",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "_13_Completion_60",
@@ -2729,7 +2734,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -2737,7 +2742,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -2761,7 +2766,7 @@
       "Name": "Fishy Fish",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -2801,7 +2806,7 @@
       "Name": "Rustic Recipe",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "_26_ReviveVirgilio",
@@ -2816,7 +2821,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 820,
+      "Progressed": 821,
       "Completed": 28
     }
   ],
@@ -2824,8 +2829,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:09:12.3468279+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:09:12.9228965+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.1384885+00:00",
-  "LastUpdate_Ratings": "2023-11-13T14:00:13.5039101+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:09:12.3468535+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:00:26.0490582+00:00",
+  "LastUpdate_Achievements": "2023-11-13T15:09:12.9229253+00:00"
 }

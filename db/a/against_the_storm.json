@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3221,9 +3221,9 @@
       "Count": 324
     }
   ],
-  "EOS_Progressed": 17300,
+  "EOS_Progressed": 17301,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -13506,6 +13506,11 @@
       "Time": "2023-11-13T14:05:04.0178996+00:00",
       "NumProgressed": 17300,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-13T15:05:07.5837691+00:00",
+      "NumProgressed": 17301,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 50,
@@ -13557,7 +13562,7 @@
       "Name": "Harpy Utopia",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "HumanUtopia",
@@ -13869,7 +13874,7 @@
       "Name": "Ruins",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "WinWithTimedOrders",
@@ -13916,15 +13921,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 17300,
+      "Progressed": 17301,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2023-11-11T20:04:57.3720777+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:05:04.0178991+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:05:07.5837688+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:36.8089567+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:58:05.0153949+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:05:04.0179864+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:57:59.174808+00:00",
+  "LastUpdate_Achievements": "2023-11-13T15:05:07.5838673+00:00"
 }

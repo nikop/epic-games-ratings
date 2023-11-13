@@ -7,18 +7,18 @@
 | Enough rooms to swing a cat | 95.00% | ~19 |
 | First to the post | 95.00% | ~19 |
 | Home Sweet Home | 90.00% | ~18 |
-| A kind of Magic | 85.00% | ~17 |
+| A kind of Magic | 90.00% | ~18 |
 | Connected | 85.00% | ~17 |
+| Artificer's Apprentice | 80.00% | ~16 |
 | Expansion | 75.00% | ~15 |
-| Artificer's Apprentice | 70.00% | ~14 |
+| Mine! | 75.00% | ~15 |
 | Harvest Time | 70.00% | ~14 |
-| Mine! | 70.00% | ~14 |
 | Friend of Lyraine | 65.00% | ~13 |
 | Fly the friendly Sky | 65.00% | ~13 |
 | Redecorating | 55.00% | ~11 |
 | The Circle | 55.00% | ~11 |
+| Alchemist's Apprentice | 55.00% | ~11 |
 | Get out of here! | 55.00% | ~11 |
-| Alchemist's Apprentice | 50.00% | ~10 |
 | Necromancer's Apprentice | 40.00% | ~8 |
 | Friend of Sevenkeeps | 40.00% | ~8 |
 | Slave to the rhythm | 35.00% | ~7 |

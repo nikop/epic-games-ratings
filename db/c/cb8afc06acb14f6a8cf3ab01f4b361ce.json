@@ -4,7 +4,7 @@
   "ProductSlug": "soulstice",
   "Ranking_Rating": 897,
   "Ranking_Popularity": 414,
-  "Ranking_PopularitySum": 472,
+  "Ranking_PopularitySum": 471,
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 21,
@@ -323,9 +323,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 309836,
+  "EOS_Progressed": 309872,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 5964,
+  "EOS_NewPlayers": 5954,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5813,6 +5813,11 @@
       "Time": "2023-11-13T14:04:47.9890026+00:00",
       "NumProgressed": 309836,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-13T15:04:49.3637511+00:00",
+      "NumProgressed": 309872,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -6144,7 +6149,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 309836,
+      "Progressed": 309872,
       "Completed": 4
     }
   ],
@@ -6152,8 +6157,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2023-11-13T13:59:37.2505654+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:04:47.9890024+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:04:49.3637509+00:00",
   "LastUpdate_AppInfo": "2023-11-09T18:57:16.9812812+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:59:37.2505659+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:04:47.9890532+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:59:46.5840119+00:00",
+  "LastUpdate_Achievements": "2023-11-13T15:04:49.3638133+00:00"
 }

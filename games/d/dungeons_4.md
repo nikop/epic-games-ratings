@@ -10,31 +10,31 @@
 | Hammer Time, Round Two | 76.00% | ~185 |
 | The Hellwoods | 67.00% | ~163 |
 | Thalya's Concentrated Fury | 64.00% | ~156 |
-| The Plains of Strothalm | 59.00% | ~144 |
-| Experienced Thalya | 59.00% | ~144 |
+| The Plains of Strothalm | 60.00% | ~146 |
+| Experienced Thalya | 60.00% | ~146 |
 | Master of Magic | 57.00% | ~139 |
-| Bad Elves Go Everywhere | 53.00% | ~129 |
+| Bad Elves Go Everywhere | 54.00% | ~132 |
+| Unicorn steaks – fresh off the hoof! | 51.00% | ~124 |
 | Trap Master | 50.00% | ~122 |
-| Unicorn steaks – fresh off the hoof! | 50.00% | ~122 |
 | Magic Accidents | 49.00% | ~120 |
-| Minions, Minions! | 47.00% | ~115 |
-| Heroes’ Gorge | 44.00% | ~107 |
+| Minions, Minions! | 48.00% | ~117 |
+| Heroes’ Gorge | 45.00% | ~110 |
 | YOU SHALL NOT PASS! | 33.00% | ~81 |
 | The Ascent | 31.00% | ~76 |
 | It's Warm and Cozy at Home | 31.00% | ~76 |
+| Hard Work | 28.00% | ~68 |
 | Pure Dynamite! | 28.00% | ~68 |
-| Hard Work | 27.00% | ~66 |
-| Mana Cannon | 26.00% | ~63 |
-| The Big Eaty | 24.00% | ~59 |
+| Mana Cannon | 27.00% | ~66 |
+| The Big Eaty | 25.00% | ~61 |
 | “… like son” | 18.00% | ~44 |
 | Dungeonlord Gorgu | 16.00% | ~39 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 13.00% | ~32 |
-| Shame! Shame! Shame! | 13.00% | ~32 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 14.00% | ~34 |
+| Shame! Shame! Shame! | 14.00% | ~34 |
 | The Cathedral of Light | 12.00% | ~29 |
 | Hungry, Hungry Gorgu! | 10.00% | ~24 |
 | Tanos' Crusade Against Thalya | 10.00% | ~24 |
 | Sacrificial Pit = Garbage Disposal? | 9.00% | ~22 |
-| Forbidden Knowledge | 8.00% | ~20 |
+| Forbidden Knowledge | 9.00% | ~22 |
 | Unstoppable Horde | 8.00% | ~20 |
 | Master of the Undead | 8.00% | ~20 |
 | Ghost Pirates? Ghost Heroes! | 7.00% | ~17 |
@@ -51,8 +51,8 @@
 | Laser Eyes Are So Useless | 2.00% | ~5 |
 | Doom Hill | 2.00% | ~5 |
 | Rubble and Ashes | 2.00% | ~5 |
+| Brimstone Shaken, Not Stirred | 2.00% | ~5 |
 | Lavalumps on Ice! | 1.00% | ~2 |
-| Brimstone Shaken, Not Stirred | 1.00% | ~2 |
 | Untouchable | 0.80% | ~2 |
 | Raiders of the Lost Stone | 0.80% | ~2 |
 | The Last Stand - This Time For Real! | 0.80% | ~2 |

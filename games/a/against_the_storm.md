@@ -51,13 +51,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lizard Utopia | 0.90% | ~156 |
 | Beaver Utopia | 0.70% | ~121 |
 | The Queen's Chosen | 0.60% | ~104 |
-| Harpy Utopia | 0.50% | ~86 |
-| Ruins | 0.50% | ~86 |
+| Harpy Utopia | 0.50% | ~87 |
+| Ruins | 0.50% | ~87 |
 | Treasure | 0.40% | ~69 |
 | Higher Needs | 0.30% | ~52 |
 | Paradise | 0.20% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,300 (Ranked 141)  
+Progressed: 17,301 (Ranked 141)  
 Completed: 53 (0.31%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 53 (0.31%) (Ranked 226)
 | 2023-11-10 | 17,269 | 53 |
 | 2023-11-11 | 17,284 | 53 |
 | 2023-11-12 | 17,297 | 53 |
-| 2023-11-13 | 17,300 | 53 |
+| 2023-11-13 | 17,301 | 53 |
 ## Awards
 Max (Quickly Understood Controls): 439  (Ranked 219)  
 Sum: 3,215 (Ranked 170)  

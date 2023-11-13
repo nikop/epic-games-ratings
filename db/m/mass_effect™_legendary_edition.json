@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 62,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -3388,9 +3388,9 @@
       "ID": "achievement_103",
       "SetID": "d252ncf",
       "Name": "Untouchable",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 320
     },
     {
       "ID": "achievement_104",
@@ -3572,9 +3572,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 801
+      "UsersEstimate": 813
     },
     {
       "ID": "achievement_125",
@@ -4376,8 +4376,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:04:02.0301765+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:03:56.7835781+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-13T14:03:03.4596582+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:04:02.0303509+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:02:49.374238+00:00",
+  "LastUpdate_Achievements": "2023-11-13T15:03:56.7837261+00:00"
 }

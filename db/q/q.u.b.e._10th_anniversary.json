@@ -184,9 +184,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18952,
+  "EOS_Progressed": 18960,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 2450,
+  "EOS_NewPlayers": 2433,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -3089,6 +3089,11 @@
       "Time": "2023-11-13T14:09:01.0370061+00:00",
       "NumProgressed": 18952,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-13T15:09:00.9079606+00:00",
+      "NumProgressed": 18960,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 24,
@@ -3132,7 +3137,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 2274
+      "UsersEstimate": 2275
     },
     {
       "ID": "ACH_Finale",
@@ -3228,7 +3233,7 @@
       "Name": "Sector 1",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2843
+      "UsersEstimate": 2844
     },
     {
       "ID": "ACH_Sector2",
@@ -3236,7 +3241,7 @@
       "Name": "Sector 2",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2464
+      "UsersEstimate": 2465
     },
     {
       "ID": "ACH_Sector3",
@@ -3244,7 +3249,7 @@
       "Name": "Sector 3",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "ACH_Sector4",
@@ -3260,7 +3265,7 @@
       "Name": "Sector 5",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1137
+      "UsersEstimate": 1138
     },
     {
       "ID": "ACH_Sector6",
@@ -3291,7 +3296,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 18952,
+      "Progressed": 18960,
       "Completed": 55
     }
   ],
@@ -3299,8 +3304,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2023-11-13T08:03:29.676683+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:09:01.0370057+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:09:00.9079604+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:52.4543892+00:00",
-  "LastUpdate_Ratings": "2023-11-13T14:02:53.5662783+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:09:01.0370331+00:00"
+  "LastUpdate_Ratings": "2023-11-13T15:02:39.263197+00:00",
+  "LastUpdate_Achievements": "2023-11-13T15:09:00.9079892+00:00"
 }

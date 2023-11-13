@@ -26,7 +26,7 @@
 | The Finisher | 41.00% | ~276 |
 | True Legends | 40.00% | ~270 |
 | So Close | 39.00% | ~263 |
-| You Get Used To It | 38.00% | ~256 |
+| You Get Used To It | 39.00% | ~263 |
 | Bullseye | 36.00% | ~243 |
 | Boosted! | 36.00% | ~243 |
 | Family | 35.00% | ~236 |
@@ -40,7 +40,7 @@
 | Vertical Power | 28.00% | ~189 |
 | One From The Heart | 14.00% | ~94 |
 | Yummy | 12.00% | ~81 |
-| Snowball Fightn't | 10.00% | ~67 |
+| Snowball Fightn't | 11.00% | ~74 |
 | It Was Him | 8.00% | ~54 |
 | Handy Yeti | 7.00% | ~47 |
 | The Pied Piper Of Freljord | 6.00% | ~40 |

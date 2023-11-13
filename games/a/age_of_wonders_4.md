@@ -43,6 +43,7 @@ Rating: 4.61 (Ranked 384)
 | The Creator | 0.20% | ~11 |
 | Crimson Caldera | 0.20% | ~11 |
 | Fiery Friend | 0.20% | ~11 |
+| Manufactured War | 0.20% | ~11 |
 | The Eternal Court | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
@@ -52,7 +53,6 @@ Rating: 4.61 (Ranked 384)
 | The Goddess of Nature | 0.10% | ~5 |
 | Eternal Lord | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
-| Manufactured War | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |
@@ -244,8 +244,8 @@ Completed: 7 (0.13%) (Ranked 263)
 | 2023-11-13 | 5,385 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 482)  
-Sum: 54 (Ranked 474)  
-Diff (max vs sum): 8  
+Sum: 54 (Ranked 473)  
+Diff (max vs sum): 9  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 32 |

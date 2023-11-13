@@ -15092,10 +15092,10 @@
       "Count": 12876
     }
   ],
-  "EOS_Progressed": 896540,
+  "EOS_Progressed": 896550,
   "EOS_Completed": 2773,
-  "EOS_NewPlayers": 1020,
-  "EOS_NewCompleters": 25,
+  "EOS_NewPlayers": 1017,
+  "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
@@ -38562,6 +38562,11 @@
       "Time": "2023-11-13T14:05:17.2728297+00:00",
       "NumProgressed": 896540,
       "NumCompleted": 2773
+    },
+    {
+      "Time": "2023-11-13T15:05:22.2660654+00:00",
+      "NumProgressed": 896550,
+      "NumCompleted": 2773
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38646,7 +38651,7 @@
       "Name": "Gun Fu",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8965
+      "UsersEstimate": 8966
     },
     {
       "ID": "Gunslinger",
@@ -39014,7 +39019,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.9,
       "XP": 35,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "UltimateSurvivor",
@@ -39078,7 +39083,7 @@
       "Name": "King of Wands",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "TheTower",
@@ -39094,7 +39099,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "EasyComeEasyGo",
@@ -39102,28 +39107,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896540,
+      "Progressed": 896550,
       "Completed": 2773
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25163,
-      "Completed": 10219
+      "Progressed": 25173,
+      "Completed": 10220
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-13T12:00:33.6196797+00:00",
-  "LastChanged_Achievements": "2023-11-13T14:05:17.2728294+00:00",
+  "LastChanged_Achievements": "2023-11-13T15:05:22.2660652+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-13T13:59:28.9185043+00:00",
-  "LastUpdate_Achievements": "2023-11-13T14:05:17.2729466+00:00"
+  "LastUpdate_Ratings": "2023-11-13T14:59:36.6511183+00:00",
+  "LastUpdate_Achievements": "2023-11-13T15:05:22.2661962+00:00"
 }
