@@ -6,7 +6,7 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wallbanger | 5.00% | ~24,157 |
+| Wallbanger | 5.00% | ~24,158 |
 | Exploitative | 4.00% | ~19,326 |
 | Point Shooting | 4.00% | ~19,326 |
 | Wet Feet | 4.00% | ~19,326 |
@@ -20,9 +20,9 @@ Number of Ratings: 1,316  (23.09.2022)
 | Flaccid Paralysis | 2.00% | ~9,663 |
 | Push Victory | 2.00% | ~9,663 |
 | Self-destructive | 2.00% | ~9,663 |
-| Blindfire | 1.00% | ~4,831 |
-| Ruthless | 1.00% | ~4,831 |
-| Semper Paratus | 1.00% | ~4,831 |
+| Blindfire | 1.00% | ~4,832 |
+| Ruthless | 1.00% | ~4,832 |
+| Semper Paratus | 1.00% | ~4,832 |
 | Carrying | 0.90% | ~4,348 |
 | Efficient | 0.90% | ~4,348 |
 | Mount & Gun | 0.90% | ~4,348 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~483 |
 | Road Hazard | 0.10% | ~483 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 483,145 (Ranked 38)  
+Progressed: 483,150 (Ranked 38)  
 Completed: 2 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -249,7 +249,7 @@ Completed: 2 (0.00%) (Ranked 350)
 | 2023-11-10 | 481,638 | 2 |
 | 2023-11-11 | 482,296 | 2 |
 | 2023-11-12 | 482,956 | 2 |
-| 2023-11-13 | 483,145 | 2 |
+| 2023-11-13 | 483,150 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 396  (Ranked 228)  
 Sum: 3,155 (Ranked 171)  

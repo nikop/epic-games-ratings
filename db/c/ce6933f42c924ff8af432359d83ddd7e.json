@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 651,
+  "EOS_Progressed": 652,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 4.15,
+  "EOS_Completed_Percentage": 4.14,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1564,6 +1564,11 @@
       "Time": "2023-11-13T08:09:54.3111214+00:00",
       "NumProgressed": 651,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2023-11-13T09:08:23.4221709+00:00",
+      "NumProgressed": 652,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1582,9 +1587,9 @@
       "ID": "ACH_CUBES",
       "SetID": "6f5dahd",
       "Name": "Brain-teaser",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 319
+      "UsersEstimate": 326
     },
     {
       "ID": "ACH_DONUTS",
@@ -1624,7 +1629,7 @@
       "Name": "Good listener",
       "Percentage": 59,
       "XP": 85,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -1648,21 +1653,21 @@
       "Name": "Exit",
       "Percentage": 55,
       "XP": 65,
-      "UsersEstimate": 358
+      "UsersEstimate": 359
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 651,
+      "Progressed": 652,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-13T08:09:54.3111205+00:00",
+  "LastChanged_Achievements": "2023-11-13T09:08:23.4221703+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-13T07:58:45.4251631+00:00",
-  "LastUpdate_Achievements": "2023-11-13T08:09:54.3111487+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:57:56.5617073+00:00",
+  "LastUpdate_Achievements": "2023-11-13T09:08:23.4221922+00:00"
 }

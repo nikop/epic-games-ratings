@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 285,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 218,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2020-10-27T15:00:00+00:00",
@@ -1383,9 +1383,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 22489,
+  "EOS_Progressed": 22490,
   "EOS_Completed": 84,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 468,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -23903,6 +23903,11 @@
       "Time": "2023-11-13T08:08:38.8659776+00:00",
       "NumProgressed": 22489,
       "NumCompleted": 84
+    },
+    {
+      "Time": "2023-11-13T09:07:41.6956301+00:00",
+      "NumProgressed": 22490,
+      "NumCompleted": 84
     }
   ],
   "TotalAchievements": 45,
@@ -23954,7 +23959,7 @@
       "Name": "Dead in the air",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3373
+      "UsersEstimate": 3374
     },
     {
       "ID": "EveryoneNeedsAHobby",
@@ -24010,7 +24015,7 @@
       "Name": "I call it luck",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 9670
+      "UsersEstimate": 9671
     },
     {
       "ID": "ImproviseAdaptOverrun",
@@ -24098,7 +24103,7 @@
       "Name": "Out of order",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 9895
+      "UsersEstimate": 9896
     },
     {
       "ID": "Perfection",
@@ -24106,7 +24111,7 @@
       "Name": "Perfection",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 7196
+      "UsersEstimate": 7197
     },
     {
       "ID": "PreempativeStrike",
@@ -24138,7 +24143,7 @@
       "Name": "Running out of breath",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 12144
+      "UsersEstimate": 12145
     },
     {
       "ID": "RunningWild",
@@ -24186,7 +24191,7 @@
       "Name": "Sword Runner",
       "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 13718
+      "UsersEstimate": 13719
     },
     {
       "ID": "SwordToAGunfight",
@@ -24234,7 +24239,7 @@
       "Name": "Wallrunner",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 11919
+      "UsersEstimate": 11920
     },
     {
       "ID": "WaveOfMutilation",
@@ -24273,21 +24278,21 @@
     {
       "ID": "2aljc8i",
       "IsBase": false,
-      "Progressed": 22489,
+      "Progressed": 22490,
       "Completed": 55
     },
     {
       "ID": "6ce5bmd",
       "IsBase": true,
-      "Progressed": 22489,
+      "Progressed": 22490,
       "Completed": 84
     }
   ],
   "FirstSeen": "2022-07-22T20:20:51.2324111+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:29.1266175+00:00",
   "LastChanged": "2023-11-12T18:59:24.9311318+00:00",
-  "LastChanged_Achievements": "2023-11-13T08:08:38.8659769+00:00",
+  "LastChanged_Achievements": "2023-11-13T09:07:41.6956298+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:17.4968471+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:00:58.0005517+00:00",
-  "LastUpdate_Achievements": "2023-11-13T08:08:38.8661644+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:59:30.9304452+00:00",
+  "LastUpdate_Achievements": "2023-11-13T09:07:41.6957987+00:00"
 }

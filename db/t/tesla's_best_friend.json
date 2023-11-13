@@ -4,8 +4,8 @@
   "ProductSlug": "teslas-best-friend-c2acf4",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 451,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-04-22T14:00:00+00:00",
     "PcReleaseDate": "2023-04-22T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-11T19:59:04.0032545+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:03:13.3745063+00:00",
+  "LastUpdate_Ratings": "2023-11-13T09:00:21.2331282+00:00",
   "LastUpdate_Achievements": "2023-11-13T08:08:29.2111735+00:00"
 }

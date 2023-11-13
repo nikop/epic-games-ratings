@@ -6,29 +6,29 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~33,612 |
-| Just The Two of Us | 32.00% | ~31,635 |
+| Simoon | 34.00% | ~33,613 |
+| Just The Two of Us | 32.00% | ~31,636 |
 | Up On High | 25.00% | ~24,715 |
 | Under The Hood | 25.00% | ~24,715 |
-| Got Your Nose | 24.00% | ~23,726 |
-| The Gift of Gab | 24.00% | ~23,726 |
+| Got Your Nose | 24.00% | ~23,727 |
+| The Gift of Gab | 24.00% | ~23,727 |
 | Wrapping Up | 22.00% | ~21,749 |
 | More Than A Box Of Sand | 18.00% | ~17,795 |
 | The Dunboyne | 17.00% | ~16,806 |
 | Badge Hobbyist | 17.00% | ~16,806 |
-| Chum Novice | 16.00% | ~15,817 |
-| Silver-Tongued Sable | 16.00% | ~15,817 |
-| Sticky Paws | 16.00% | ~15,817 |
-| Bubble Up | 16.00% | ~15,817 |
+| Chum Novice | 16.00% | ~15,818 |
+| Silver-Tongued Sable | 16.00% | ~15,818 |
+| Sticky Paws | 16.00% | ~15,818 |
+| Bubble Up | 16.00% | ~15,818 |
 | Thread The Needle | 15.00% | ~14,829 |
-| Power to the People | 14.00% | ~13,840 |
-| Nesting Giant | 14.00% | ~13,840 |
+| Power to the People | 14.00% | ~13,841 |
+| Nesting Giant | 14.00% | ~13,841 |
 | Take That! | 13.00% | ~12,852 |
 | Treasure Tracker | 13.00% | ~12,852 |
 | Big Spender | 13.00% | ~12,852 |
 | Badge Collector | 12.00% | ~11,863 |
 | Quite The Catch | 12.00% | ~11,863 |
-| Rowleys Way | 11.00% | ~10,874 |
+| Rowleys Way | 11.00% | ~10,875 |
 | The Machinist Mask | 10.00% | ~9,886 |
 | The Cartographer Mask | 10.00% | ~9,886 |
 | Balfron Connection | 10.00% | ~9,886 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~2,966 |
 | Vivacious Vivarium | 2.00% | ~1,977 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 98,859 (Ranked 87)  
+Progressed: 98,861 (Ranked 87)  
 Completed: 998 (1.01%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 998 (1.01%) (Ranked 158)
 | 2023-11-10 | 98,413 | 991 |
 | 2023-11-11 | 98,615 | 995 |
 | 2023-11-12 | 98,819 | 998 |
-| 2023-11-13 | 98,859 | 998 |
+| 2023-11-13 | 98,861 | 998 |
 ## Awards
 Max (Extremely Fun): 25  (Ranked 516)  
 Sum: 91 (Ranked 446)  

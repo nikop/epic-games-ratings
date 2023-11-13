@@ -7,15 +7,15 @@
 | The Last Stand | 85.00% | ~205 |
 | Thalya – Simply Immortal | 85.00% | ~205 |
 | For the Horde! | 77.00% | ~186 |
-| Hammer Time, Round Two | 74.00% | ~178 |
+| Hammer Time, Round Two | 75.00% | ~181 |
 | The Hellwoods | 65.00% | ~157 |
 | Thalya's Concentrated Fury | 64.00% | ~154 |
+| Experienced Thalya | 58.00% | ~140 |
 | The Plains of Strothalm | 57.00% | ~137 |
-| Experienced Thalya | 57.00% | ~137 |
 | Master of Magic | 56.00% | ~135 |
 | Bad Elves Go Everywhere | 53.00% | ~128 |
-| Unicorn steaks – fresh off the hoof! | 50.00% | ~120 |
-| Trap Master | 49.00% | ~118 |
+| Unicorn steaks – fresh off the hoof! | 51.00% | ~123 |
+| Trap Master | 50.00% | ~120 |
 | Magic Accidents | 49.00% | ~118 |
 | Minions, Minions! | 46.00% | ~111 |
 | Heroes’ Gorge | 44.00% | ~106 |
@@ -25,8 +25,8 @@
 | Hard Work | 27.00% | ~65 |
 | Pure Dynamite! | 27.00% | ~65 |
 | Mana Cannon | 26.00% | ~63 |
-| The Big Eaty | 23.00% | ~55 |
-| “… like son” | 16.00% | ~39 |
+| The Big Eaty | 24.00% | ~58 |
+| “… like son” | 17.00% | ~41 |
 | Dungeonlord Gorgu | 15.00% | ~36 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 12.00% | ~29 |
 | Shame! Shame! Shame! | 12.00% | ~29 |

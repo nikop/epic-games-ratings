@@ -9,11 +9,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 3.00% | ~26,895 |
 | Gun Fu | 1.00% | ~8,965 |
 | Relic Ruler | 0.90% | ~226 |
-| Full Body Conversion | 0.70% | ~6,275 |
+| Full Body Conversion | 0.70% | ~6,276 |
 | True Soldier | 0.60% | ~5,379 |
 | All the President's Men | 0.60% | ~151 |
-| Right Back At Ya | 0.50% | ~4,482 |
-| Stanislavski's Method | 0.50% | ~4,482 |
+| Right Back At Ya | 0.50% | ~4,483 |
+| Stanislavski's Method | 0.50% | ~4,483 |
 | Arachnophobia | 0.50% | ~126 |
 | Bushido and Chill | 0.40% | ~3,586 |
 | Christmas Tree Attack | 0.40% | ~3,586 |
@@ -25,7 +25,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.40% | ~3,586 |
 | True Warrior | 0.40% | ~3,586 |
 | Legend of The Afterlife | 0.40% | ~3,586 |
-| Spin Doctor | 0.40% | ~100 |
+| Spin Doctor | 0.40% | ~101 |
 | To Protect and Serve | 0.30% | ~2,690 |
 | Master Crafter | 0.30% | ~2,690 |
 | I Am The Law | 0.30% | ~2,690 |
@@ -45,22 +45,22 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.20% | ~50 |
 | King of Swords | 0.20% | ~50 |
 | The Tower | 0.20% | ~50 |
-| City Lights | 0.10% | ~896 |
-| Autojock | 0.10% | ~896 |
-| Frequent Flyer | 0.10% | ~896 |
-| Gunslinger | 0.10% | ~896 |
-| Mean Streets | 0.10% | ~896 |
-| Little Tokyo | 0.10% | ~896 |
-| Must Be Rats | 0.10% | ~896 |
-| The Wasteland | 0.10% | ~896 |
-| Daemon In The Shell | 0.10% | ~896 |
-| Ten out of Ten | 0.10% | ~896 |
-| Temperance | 0.10% | ~896 |
-| Rough Landing | 0.10% | ~896 |
-| The Devil | 0.10% | ~896 |
-| Greetings from Pacifica! | 0.10% | ~896 |
-| The Jungle | 0.10% | ~896 |
-| It's Elementary | 0.10% | ~896 |
+| City Lights | 0.10% | ~897 |
+| Autojock | 0.10% | ~897 |
+| Frequent Flyer | 0.10% | ~897 |
+| Gunslinger | 0.10% | ~897 |
+| Mean Streets | 0.10% | ~897 |
+| Little Tokyo | 0.10% | ~897 |
+| Must Be Rats | 0.10% | ~897 |
+| The Wasteland | 0.10% | ~897 |
+| Daemon In The Shell | 0.10% | ~897 |
+| Ten out of Ten | 0.10% | ~897 |
+| Temperance | 0.10% | ~897 |
+| Rough Landing | 0.10% | ~897 |
+| The Devil | 0.10% | ~897 |
+| Greetings from Pacifica! | 0.10% | ~897 |
+| The Jungle | 0.10% | ~897 |
+| It's Elementary | 0.10% | ~897 |
 | The APB is Not Enough | 0.10% | ~25 |
 | King of Cups | 0.10% | ~25 |
 | All the President's Men | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,500 (Ranked 15)  
+Progressed: 896,505 (Ranked 15)  
 Completed: 2,773 (0.31%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 2,773 (0.31%) (Ranked 226)
 | 2023-11-10 | 896,078 | 2,761 |
 | 2023-11-11 | 896,271 | 2,766 |
 | 2023-11-12 | 896,462 | 2,771 |
-| 2023-11-13 | 896,500 | 2,773 |
+| 2023-11-13 | 896,505 | 2,773 |
 ## Awards
 Max (Character Customization): 105,188  (Ranked 9)  
 Sum: 351,279 (Ranked 10)  

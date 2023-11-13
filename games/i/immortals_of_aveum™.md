@@ -13,30 +13,30 @@ Rating: 4.06 (Ranked 973)
 | Initiate | 50.00% | ~136 |
 | Thrada-Kul | 45.00% | ~122 |
 | Gravity-Challenged Rocks | 35.00% | ~95 |
+| Soldier | 30.00% | ~81 |
 | All the Major Food Groups | 30.00% | ~81 |
-| Soldier | 29.00% | ~79 |
-| Socialite | 26.00% | ~70 |
+| Socialite | 27.00% | ~73 |
 | Beggars Would Ride | 25.00% | ~68 |
 | Control is an Illusion | 23.00% | ~62 |
 | The Means to Save It | 20.00% | ~54 |
 | Resilience to Sin | 18.00% | ~49 |
 | A Familiar Nest | 17.00% | ~46 |
+| Geas Aristeya | 17.00% | ~46 |
 | Periapt Alizarin | 17.00% | ~46 |
-| Geas Aristeya | 16.00% | ~43 |
+| Armsman | 15.00% | ~41 |
 | A Perfect Cycle | 14.00% | ~38 |
 | Recruit | 14.00% | ~38 |
-| Armsman | 14.00% | ~38 |
 | Lights Army | 10.00% | ~27 |
 | Periapt Cerulean | 8.00% | ~22 |
 | Good Boy | 8.00% | ~22 |
+| Best Dressed | 7.00% | ~19 |
 | Periapt Viridian | 7.00% | ~19 |
 | Shroudfane Explorer | 7.00% | ~19 |
-| Best Dressed | 6.00% | ~16 |
 | Armaments Azure | 6.00% | ~16 |
 | Armaments Gules | 5.00% | ~14 |
 | Scholar | 4.00% | ~11 |
+| Kitted Out | 4.00% | ~11 |
 | Armaments Vert | 4.00% | ~11 |
-| Kitted Out | 3.00% | ~8 |
 | Veteran | 3.00% | ~8 |
 | Master of Carmine | 2.00% | ~5 |
 | Shroudfane Surveyor | 2.00% | ~5 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
@@ -413,9 +413,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 24049,
+  "EOS_Progressed": 24050,
   "EOS_Completed": 457,
-  "EOS_NewPlayers": 469,
+  "EOS_NewPlayers": 470,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.9,
   "EosHistory": [
@@ -22638,6 +22638,11 @@
       "Time": "2023-11-13T08:05:44.8312874+00:00",
       "NumProgressed": 24049,
       "NumCompleted": 457
+    },
+    {
+      "Time": "2023-11-13T09:04:14.803725+00:00",
+      "NumProgressed": 24050,
+      "NumCompleted": 457
     }
   ],
   "TotalAchievements": 20,
@@ -22649,7 +22654,7 @@
       "Name": "Cartographer",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 4088
+      "UsersEstimate": 4089
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -22681,7 +22686,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2645
+      "UsersEstimate": 2646
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -22697,7 +22702,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -22713,7 +22718,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 3607
+      "UsersEstimate": 3608
     },
     {
       "ID": "FOUND_ERIN",
@@ -22777,7 +22782,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 6493
+      "UsersEstimate": 6494
     },
     {
       "ID": "NORTH_FINISHED",
@@ -22808,15 +22813,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 24049,
+      "Progressed": 24050,
       "Completed": 457
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2023-09-23T04:02:04.6927295+00:00",
-  "LastChanged_Achievements": "2023-11-13T08:05:44.8312869+00:00",
+  "LastChanged_Achievements": "2023-11-13T09:04:14.8037246+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:11.8513904+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:00:39.1751528+00:00",
-  "LastUpdate_Achievements": "2023-11-13T08:05:44.8314276+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:59:17.2505748+00:00",
+  "LastUpdate_Achievements": "2023-11-13T09:04:14.8039088+00:00"
 }

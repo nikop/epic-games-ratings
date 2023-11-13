@@ -12,7 +12,7 @@
 | I have an army! | 63.00% | ~59 |
 | Sticky fingers | 43.00% | ~40 |
 | A horrible thing will happen... | 38.00% | ~35 |
-| Vampires | 30.00% | ~28 |
+| Vampires | 31.00% | ~29 |
 | Bloody stream | 30.00% | ~28 |
 | Fangs | 19.00% | ~18 |
 | Mirrors | 12.00% | ~11 |
@@ -26,7 +26,7 @@
 | Master of puppets | 5.00% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 93 (Ranked 429)  
-Completed: 5 (5.38%) (Ranked 69)  
+Completed: 5 (5.38%) (Ranked 68)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

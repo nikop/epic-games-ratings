@@ -7021,9 +7021,9 @@
       "Count": 3780
     }
   ],
-  "EOS_Progressed": 139642,
+  "EOS_Progressed": 139644,
   "EOS_Completed": 181,
-  "EOS_NewPlayers": 950,
+  "EOS_NewPlayers": 951,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -28196,6 +28196,11 @@
       "Time": "2023-11-13T08:08:00.7348112+00:00",
       "NumProgressed": 139642,
       "NumCompleted": 181
+    },
+    {
+      "Time": "2023-11-13T09:05:53.9454115+00:00",
+      "NumProgressed": 139644,
+      "NumCompleted": 181
     }
   ],
   "TotalAchievements": 112,
@@ -28231,7 +28236,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "advlevel05",
@@ -28239,7 +28244,7 @@
       "Name": "Top of the World",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "argon_a",
@@ -28247,7 +28252,7 @@
       "Name": "Proud Paladin",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ascend01",
@@ -28271,7 +28276,7 @@
       "Name": "Constellated",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "ashley_a",
@@ -28327,7 +28332,7 @@
       "Name": "Thirst for Knowledge",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "bookentry",
@@ -28391,7 +28396,7 @@
       "Name": "Booty by the Boatload",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "collection01",
@@ -28415,7 +28420,7 @@
       "Name": "Archivist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "collection04",
@@ -28495,7 +28500,7 @@
       "Name": "Industrial Evolution",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "craft05",
@@ -28527,7 +28532,7 @@
       "Name": "Omae wa Mou Shindeiru",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "donovan_a",
@@ -28607,7 +28612,7 @@
       "Name": "Ritualist",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "furniture01",
@@ -28639,7 +28644,7 @@
       "Name": "By Your Powers Combined...",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "fuseflawless",
@@ -28655,7 +28660,7 @@
       "Name": "A Legend is Born",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "fuseuncommon",
@@ -28783,7 +28788,7 @@
       "Name": "Item of Renown",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "level01",
@@ -28847,7 +28852,7 @@
       "Name": "Bountiful Harvest",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "loot04",
@@ -28887,7 +28892,7 @@
       "Name": "Precision Engineering",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "master05",
@@ -28959,7 +28964,7 @@
       "Name": "Treasure Trove",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "rareres03",
@@ -28975,7 +28980,7 @@
       "Name": "Moment of Respite",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "sell01",
@@ -29007,7 +29012,7 @@
       "Name": "King\u0027s Shadow",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "transmuter",
@@ -29015,7 +29020,7 @@
       "Name": "Master Recycler",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 977
+      "UsersEstimate": 978
     },
     {
       "ID": "tutorial",
@@ -29102,15 +29107,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 139642,
+      "Progressed": 139644,
       "Completed": 181
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2023-11-13T06:57:32.4086351+00:00",
-  "LastChanged_Achievements": "2023-11-13T08:08:00.7348101+00:00",
+  "LastChanged_Achievements": "2023-11-13T09:05:53.945411+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:11.8997349+00:00",
-  "LastUpdate_Ratings": "2023-11-13T07:57:41.0279553+00:00",
-  "LastUpdate_Achievements": "2023-11-13T08:08:00.735098+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:57:11.342668+00:00",
+  "LastUpdate_Achievements": "2023-11-13T09:05:53.9457208+00:00"
 }

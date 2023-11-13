@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 280,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -497,9 +497,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 531239,
+  "EOS_Progressed": 531240,
   "EOS_Completed": 497,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -22512,6 +22512,11 @@
       "Time": "2023-11-13T08:08:35.1584016+00:00",
       "NumProgressed": 531239,
       "NumCompleted": 497
+    },
+    {
+      "Time": "2023-11-13T09:07:38.8669064+00:00",
+      "NumProgressed": 531240,
+      "NumCompleted": 497
     }
   ],
   "TotalAchievements": 57,
@@ -22539,7 +22544,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 371867
+      "UsersEstimate": 371868
     },
     {
       "ID": "12",
@@ -22603,7 +22608,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 329368
+      "UsersEstimate": 329369
     },
     {
       "ID": "2",
@@ -22619,7 +22624,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 127497
+      "UsersEstimate": 127498
     },
     {
       "ID": "21",
@@ -22779,7 +22784,7 @@
       "Name": "Starry Eyed",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 180621
+      "UsersEstimate": 180622
     },
     {
       "ID": "4",
@@ -22851,7 +22856,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 329368
+      "UsersEstimate": 329369
     },
     {
       "ID": "48",
@@ -22867,7 +22872,7 @@
       "Name": "Poking Around",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 180621
+      "UsersEstimate": 180622
     },
     {
       "ID": "5",
@@ -22883,7 +22888,7 @@
       "Name": "Two of a Kind",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 74373
+      "UsersEstimate": 74374
     },
     {
       "ID": "51",
@@ -22978,15 +22983,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 531239,
+      "Progressed": 531240,
       "Completed": 497
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2023-09-02T15:57:34.5264319+00:00",
-  "LastChanged_Achievements": "2023-11-13T08:08:35.1584009+00:00",
+  "LastChanged_Achievements": "2023-11-13T09:07:38.8669061+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:17.8210185+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:00:25.3692369+00:00",
-  "LastUpdate_Achievements": "2023-11-13T08:08:35.1585994+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:59:07.0266917+00:00",
+  "LastUpdate_Achievements": "2023-11-13T09:07:38.8671004+00:00"
 }

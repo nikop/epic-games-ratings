@@ -4,7 +4,7 @@
   "ProductSlug": "ghostbusters-spirits-unleashed",
   "Ranking_Rating": 588,
   "Ranking_Popularity": 247,
-  "Ranking_PopularitySum": 180,
+  "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 110,
@@ -3211,18 +3211,24 @@
       "Rating": 4.5,
       "NumberOfAwards": 2774,
       "NumberOfAwardsMax": 311
+    },
+    {
+      "Time": "2023-11-13T09:02:32.2221631+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2777,
+      "NumberOfAwardsMax": 313
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2774,
-  "NumberOfAwardsMax": 311,
+  "NumberOfAwards": 2777,
+  "NumberOfAwardsMax": 313,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 311
+      "Count": 313
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3240,7 +3246,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 305
+      "Count": 306
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3293,7 +3299,7 @@
   ],
   "EOS_Progressed": 30915,
   "EOS_Completed": 68,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -19496,9 +19502,9 @@
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2023-11-13T08:03:28.4273039+00:00",
-  "LastChanged_Achievements": "2023-11-13T08:06:24.5282521+00:00",
+  "LastChanged": "2023-11-13T09:02:32.222163+00:00",
+  "LastChanged_Achievements": "2023-11-13T09:04:43.6156558+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.3663588+00:00",
-  "LastUpdate_Ratings": "2023-11-13T08:03:28.4273047+00:00",
-  "LastUpdate_Achievements": "2023-11-13T08:06:24.5284124+00:00"
+  "LastUpdate_Ratings": "2023-11-13T09:02:32.2221637+00:00",
+  "LastUpdate_Achievements": "2023-11-13T09:04:43.6157948+00:00"
 }

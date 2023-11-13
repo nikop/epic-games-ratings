@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 350,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -738,9 +738,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 73
     },
     {
       "ID": "NewBeginning",
@@ -802,9 +802,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 145
+      "UsersEstimate": 148
     },
     {
       "ID": "RenaissanceRobot",
@@ -954,9 +954,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "WesternDelta",
@@ -995,8 +995,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-11T23:03:06.8073096+00:00",
-  "LastChanged_Achievements": "2023-11-13T08:05:07.2761018+00:00",
+  "LastChanged_Achievements": "2023-11-13T09:03:46.7288688+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-13T07:58:24.1798397+00:00",
-  "LastUpdate_Achievements": "2023-11-13T08:05:07.2761613+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:57:42.1942876+00:00",
+  "LastUpdate_Achievements": "2023-11-13T09:03:46.7289234+00:00"
 }

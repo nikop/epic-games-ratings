@@ -5,10 +5,10 @@
   "Ranking_Rating": 779,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 277,
+  "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 229,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 129,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -289,9 +289,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 670,
+  "EOS_Progressed": 671,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2194,6 +2194,11 @@
       "Time": "2023-11-11T20:07:50.2302653+00:00",
       "NumProgressed": 670,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2023-11-13T09:04:25.4070075+00:00",
+      "NumProgressed": 671,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 19,
@@ -2229,7 +2234,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "female-conqueror",
@@ -2253,7 +2258,7 @@
       "Name": "Our Man",
       "Percentage": 86,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "kill-lieutenants",
@@ -2267,9 +2272,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 483
     },
     {
       "ID": "play-at-night",
@@ -2293,7 +2298,7 @@
       "Name": "Bad Trip",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "rename-lieutenant",
@@ -2317,7 +2322,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "send-smuggling",
@@ -2341,7 +2346,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 536
+      "UsersEstimate": 537
     },
     {
       "ID": "use-submarine",
@@ -2356,15 +2361,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 670,
+      "Progressed": 671,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2023-09-23T20:57:48.080138+00:00",
-  "LastChanged_Achievements": "2023-11-13T08:05:59.2894062+00:00",
+  "LastChanged_Achievements": "2023-11-13T09:04:25.4070068+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:30.8052174+00:00",
-  "LastUpdate_Ratings": "2023-11-13T07:59:07.364973+00:00",
-  "LastUpdate_Achievements": "2023-11-13T08:05:59.2894357+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:58:12.3810032+00:00",
+  "LastUpdate_Achievements": "2023-11-13T09:04:25.4070334+00:00"
 }

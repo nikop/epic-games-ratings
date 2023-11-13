@@ -1,21 +1,21 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.82 (Ranked 1,022)  
+Rating: 3.82 (Ranked 1,023)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~408,415 |
-| Handy | 41.00% | ~220,329 |
-| Cold Caller | 39.00% | ~209,581 |
+| Pro Creation | 76.00% | ~408,416 |
+| Handy | 41.00% | ~220,330 |
+| Cold Caller | 39.00% | ~209,582 |
 | A Bit On The Side | 27.00% | ~145,095 |
-| Backdoor | 25.00% | ~134,347 |
-| Rank Amateur | 21.00% | ~112,851 |
+| Backdoor | 25.00% | ~134,348 |
+| Rank Amateur | 21.00% | ~112,852 |
 | Three Way | 19.00% | ~102,104 |
 | Deadly Assassin | 15.00% | ~80,608 |
-| Gutshot | 14.00% | ~75,234 |
-| Risk It For A Biscuit | 14.00% | ~75,234 |
-| Showoff | 13.00% | ~69,860 |
+| Gutshot | 14.00% | ~75,235 |
+| Risk It For A Biscuit | 14.00% | ~75,235 |
+| Showoff | 13.00% | ~69,861 |
 | W.H.I.P. | 12.00% | ~64,487 |
 | Bet Bet Bet | 10.00% | ~53,739 |
 | Blindman's Bluff | 9.00% | ~48,365 |
@@ -51,7 +51,7 @@ Rating: 3.82 (Ranked 1,022)
 | Rounder | 0.10% | ~537 |
 | Top Dog | 0.10% | ~537 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 537,388 (Ranked 34)  
+Progressed: 537,390 (Ranked 34)  
 Completed: 2 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -257,7 +257,7 @@ Completed: 2 (0.00%) (Ranked 350)
 | 2023-11-10 | 536,864 | 2 |
 | 2023-11-11 | 537,085 | 2 |
 | 2023-11-12 | 537,337 | 2 |
-| 2023-11-13 | 537,388 | 2 |
+| 2023-11-13 | 537,390 | 2 |
 ## Awards
 Max (Great for Beginners): 59  (Ranked 411)  
 Sum: 174 (Ranked 411)  

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3965,
+  "EOS_Progressed": 3966,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -9679,6 +9679,11 @@
       "Time": "2023-11-13T06:07:14.7524726+00:00",
       "NumProgressed": 3965,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-13T09:07:40.1585988+00:00",
+      "NumProgressed": 3966,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -9722,7 +9727,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3053
+      "UsersEstimate": 3054
     },
     {
       "ID": "ach_architecture_completed",
@@ -9738,7 +9743,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1308
+      "UsersEstimate": 1309
     },
     {
       "ID": "ach_bomb",
@@ -9778,7 +9783,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "ach_game_opened",
@@ -9802,7 +9807,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "ach_tornado",
@@ -9817,14 +9822,14 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 3965,
+      "Progressed": 3966,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-06-30T04:57:06.9526922+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
-  "LastChanged_Achievements": "2023-11-13T08:08:36.8966321+00:00",
+  "LastChanged_Achievements": "2023-11-13T09:07:40.1585983+00:00",
   "LastUpdate_AppInfo": "2023-11-10T19:57:16.0222462+00:00",
-  "LastUpdate_Ratings": "2023-11-13T07:59:35.0518341+00:00",
-  "LastUpdate_Achievements": "2023-11-13T08:08:36.8967071+00:00"
+  "LastUpdate_Ratings": "2023-11-13T08:58:32.179249+00:00",
+  "LastUpdate_Achievements": "2023-11-13T09:07:40.1586766+00:00"
 }

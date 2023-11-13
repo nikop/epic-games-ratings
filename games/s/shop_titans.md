@@ -79,25 +79,25 @@ Number of Ratings: 12,664  (23.09.2022)
 | Glittering Collection | 0.80% | ~1,117 |
 | Exotic Commodities | 0.80% | ~1,117 |
 | King's Blade | 0.80% | ~1,117 |
-| Cream of the Crop | 0.70% | ~977 |
-| Top of the World | 0.70% | ~977 |
-| Proud Paladin | 0.70% | ~977 |
-| Constellated | 0.70% | ~977 |
-| Thirst for Knowledge | 0.70% | ~977 |
-| Booty by the Boatload | 0.70% | ~977 |
-| Archivist | 0.70% | ~977 |
-| Industrial Evolution | 0.70% | ~977 |
-| Omae wa Mou Shindeiru | 0.70% | ~977 |
-| Ritualist | 0.70% | ~977 |
-| By Your Powers Combined... | 0.70% | ~977 |
-| A Legend is Born | 0.70% | ~977 |
-| Item of Renown | 0.70% | ~977 |
-| Bountiful Harvest | 0.70% | ~977 |
-| Precision Engineering | 0.70% | ~977 |
-| Treasure Trove | 0.70% | ~977 |
-| Moment of Respite | 0.70% | ~977 |
-| King's Shadow | 0.70% | ~977 |
-| Master Recycler | 0.70% | ~977 |
+| Cream of the Crop | 0.70% | ~978 |
+| Top of the World | 0.70% | ~978 |
+| Proud Paladin | 0.70% | ~978 |
+| Constellated | 0.70% | ~978 |
+| Thirst for Knowledge | 0.70% | ~978 |
+| Booty by the Boatload | 0.70% | ~978 |
+| Archivist | 0.70% | ~978 |
+| Industrial Evolution | 0.70% | ~978 |
+| Omae wa Mou Shindeiru | 0.70% | ~978 |
+| Ritualist | 0.70% | ~978 |
+| By Your Powers Combined... | 0.70% | ~978 |
+| A Legend is Born | 0.70% | ~978 |
+| Item of Renown | 0.70% | ~978 |
+| Bountiful Harvest | 0.70% | ~978 |
+| Precision Engineering | 0.70% | ~978 |
+| Treasure Trove | 0.70% | ~978 |
+| Moment of Respite | 0.70% | ~978 |
+| King's Shadow | 0.70% | ~978 |
+| Master Recycler | 0.70% | ~978 |
 | Fillin' the Bin | 0.60% | ~838 |
 | Economy of Scarce | 0.60% | ~838 |
 | The Free Encyclopedia | 0.50% | ~698 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,642 (Ranked 79)  
+Progressed: 139,644 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 181 (0.13%) (Ranked 263)
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
-| 2023-11-13 | 139,642 | 181 |
+| 2023-11-13 | 139,644 | 181 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,540 (Ranked 50)  

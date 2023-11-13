@@ -6,16 +6,16 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~8,549 |
+| I'm not dead yet | 42.00% | ~8,550 |
 | Overkill | 34.00% | ~6,921 |
-| Vaccine Incoming | 33.00% | ~6,717 |
+| Vaccine Incoming | 33.00% | ~6,718 |
 | A normal day in Gloomhaven | 32.00% | ~6,514 |
-| Spread the plague | 30.00% | ~6,106 |
+| Spread the plague | 30.00% | ~6,107 |
 | Get over here! | 25.00% | ~5,089 |
-| Just when I thought I was out... | 19.00% | ~3,867 |
-| Precious! | 17.00% | ~3,460 |
-| Mine... All Mine... | 17.00% | ~3,460 |
-| Anatomy Lesson | 15.00% | ~3,053 |
+| Just when I thought I was out... | 19.00% | ~3,868 |
+| Precious! | 17.00% | ~3,461 |
+| Mine... All Mine... | 17.00% | ~3,461 |
+| Anatomy Lesson | 15.00% | ~3,054 |
 | Grizzled veteran | 14.00% | ~2,850 |
 | Light of my life | 14.00% | ~2,850 |
 | You activated my trap card! | 13.00% | ~2,646 |
@@ -23,11 +23,11 @@ Number of Ratings: 68  (23.09.2022)
 | Augmented rat | 12.00% | ~2,443 |
 | Doom and gloom | 11.00% | ~2,239 |
 | Who's the Boss? | 10.00% | ~2,036 |
-| Dungeon Veteran | 8.00% | ~1,628 |
-| Pack leader | 8.00% | ~1,628 |
-| Pain is your friend | 8.00% | ~1,628 |
-| Black death | 8.00% | ~1,628 |
-| Play it again, Sam | 8.00% | ~1,628 |
+| Dungeon Veteran | 8.00% | ~1,629 |
+| Pack leader | 8.00% | ~1,629 |
+| Pain is your friend | 8.00% | ~1,629 |
+| Black death | 8.00% | ~1,629 |
+| Play it again, Sam | 8.00% | ~1,629 |
 | Quad damage | 6.00% | ~1,221 |
 | Power Up! | 5.00% | ~1,018 |
 | Caught off guard | 5.00% | ~1,018 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~20 |
 | Murder Death Kill | 0.10% | ~20 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,355 (Ranked 132)  
+Progressed: 20,357 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 350)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 1 (0.00%) (Ranked 350)
 | 2023-11-10 | 19,763 | 1 |
 | 2023-11-11 | 20,013 | 1 |
 | 2023-11-12 | 20,293 | 1 |
-| 2023-11-13 | 20,355 | 1 |
+| 2023-11-13 | 20,357 | 1 |
 ## Awards
 Max (Character Customization): 3,572  (Ranked 90)  
 Sum: 8,352 (Ranked 100)  
