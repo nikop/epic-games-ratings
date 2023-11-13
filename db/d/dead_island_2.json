@@ -6483,9 +6483,9 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718056,
+  "EOS_Progressed": 718081,
   "EOS_Completed": 2387,
-  "EOS_NewPlayers": 3946,
+  "EOS_NewPlayers": 3951,
   "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -30163,6 +30163,11 @@
       "Time": "2023-11-13T21:05:19.414563+00:00",
       "NumProgressed": 718056,
       "NumCompleted": 2387
+    },
+    {
+      "Time": "2023-11-13T22:29:26.0620884+00:00",
+      "NumProgressed": 718081,
+      "NumCompleted": 2387
     }
   ],
   "TotalAchievements": 51,
@@ -30172,9 +30177,9 @@
       "ID": "ach_a_day_in_the_beach",
       "SetID": "7km39fm",
       "Name": "Dr. Reed, I Presume?",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4308
+      "UsersEstimate": 5027
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -30190,7 +30195,7 @@
       "Name": "Git Gutte!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "ach_anger_management",
@@ -30228,9 +30233,9 @@
       "ID": "ach_bookworm",
       "SetID": "7km39fm",
       "Name": "Bookworm",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 4308
+      "UsersEstimate": 5027
     },
     {
       "ID": "ach_break_a_leg",
@@ -30238,7 +30243,7 @@
       "Name": "Break A Leg",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "ach_contender",
@@ -30294,15 +30299,15 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "ach_get_to_the_chopper",
       "SetID": "7km39fm",
       "Name": "Like Riding a Bike",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 3590
+      "UsersEstimate": 4308
     },
     {
       "ID": "ach_good_eyesight",
@@ -30318,7 +30323,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -30326,7 +30331,7 @@
       "Name": "Friends Like These",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "ach_hotel_california",
@@ -30334,7 +30339,7 @@
       "Name": "Hotel California",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 5744
+      "UsersEstimate": 5745
     },
     {
       "ID": "ach_impressive_aim",
@@ -30372,9 +30377,9 @@
       "ID": "ach_knock_down",
       "SetID": "7km39fm",
       "Name": "Apex Predator",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4308
+      "UsersEstimate": 5027
     },
     {
       "ID": "ach_knowledgeable",
@@ -30454,7 +30459,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5026
+      "UsersEstimate": 5027
     },
     {
       "ID": "ach_survival_expert",
@@ -30581,13 +30586,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718056,
+      "Progressed": 718081,
       "Completed": 2387
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43598,
+      "Progressed": 43623,
       "Completed": 36537
     }
   ],
@@ -30595,8 +30600,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-13T21:03:02.1142567+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:05:19.4145624+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:29:26.0620879+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T21:03:02.1142571+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:05:19.4147027+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:26:49.9505569+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:29:26.0623113+00:00"
 }

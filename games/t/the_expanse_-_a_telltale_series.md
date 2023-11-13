@@ -17,9 +17,9 @@ Rating: 4.56 (Ranked 488)
 | Captain Drummer | 3.00% | ~448 |
 | Celebrations are in Order | 3.00% | ~448 |
 | Impossible Objects | 3.00% | ~448 |
-| Keep Arjun in Check | 3.00% | ~26 |
-| Safe Cracker | 3.00% | ~26 |
-| Madame Undersecretary | 3.00% | ~26 |
+| Keep Arjun in Check | 3.00% | ~27 |
+| Safe Cracker | 3.00% | ~27 |
+| Madame Undersecretary | 3.00% | ~27 |
 | Data Archivist | 2.00% | ~299 |
 | Stogie for Fogey | 2.00% | ~299 |
 | Thorston Mayer | 2.00% | ~299 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 488)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,926 (Ranked 147)  
+Progressed: 14,931 (Ranked 147)  
 Completed: 34 (0.23%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,7 +155,7 @@ Completed: 34 (0.23%) (Ranked 242)
 | 2023-11-10 | 14,816 | 34 |
 | 2023-11-11 | 14,854 | 34 |
 | 2023-11-12 | 14,900 | 34 |
-| 2023-11-13 | 14,926 | 34 |
+| 2023-11-13 | 14,931 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

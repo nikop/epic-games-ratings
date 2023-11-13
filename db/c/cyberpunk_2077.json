@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 15,
   "Ranking_EOS_Completed": 227,
-  "Ranking_EOS_NewPlayers": 78,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -15110,9 +15110,9 @@
       "Count": 12876
     }
   ],
-  "EOS_Progressed": 896589,
+  "EOS_Progressed": 896596,
   "EOS_Completed": 2776,
-  "EOS_NewPlayers": 1018,
+  "EOS_NewPlayers": 1020,
   "EOS_NewCompleters": 26,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38615,6 +38615,11 @@
       "Time": "2023-11-13T21:06:47.903066+00:00",
       "NumProgressed": 896589,
       "NumCompleted": 2776
+    },
+    {
+      "Time": "2023-11-13T22:30:36.2377973+00:00",
+      "NumProgressed": 896596,
+      "NumCompleted": 2776
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38921,9 +38926,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5380
+      "UsersEstimate": 6276
     },
     {
       "ID": "TrueWarrior",
@@ -39162,21 +39167,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896589,
+      "Progressed": 896596,
       "Completed": 2776
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25212,
+      "Progressed": 25219,
       "Completed": 10221
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-13T18:00:19.7953156+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:06:47.9030656+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:30:36.2377969+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-13T21:01:00.6774308+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:06:47.9032091+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:21:20.5066546+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:30:36.2380485+00:00"
 }

@@ -9,25 +9,25 @@ Rating: 4.54 (Ranked 522)
 | Whatever It Takes | 2.00% | ~872 |
 | Pork Chopped | 2.00% | ~872 |
 | Welcome To Hell-A | 0.90% | ~6,463 |
-| Break A Leg | 0.80% | ~5,744 |
-| Hotel California | 0.80% | ~5,744 |
-| Git Gutte! | 0.70% | ~5,026 |
-| Coup de Grâce | 0.70% | ~5,026 |
-| Hazardous Materials | 0.70% | ~5,026 |
-| Friends Like These | 0.70% | ~5,026 |
-| Personal Assistant Personally Assisted | 0.70% | ~5,026 |
-| Dr. Reed, I Presume? | 0.60% | ~4,308 |
+| Break A Leg | 0.80% | ~5,745 |
+| Hotel California | 0.80% | ~5,745 |
+| Dr. Reed, I Presume? | 0.70% | ~5,027 |
+| Git Gutte! | 0.70% | ~5,027 |
+| Bookworm | 0.70% | ~5,027 |
+| Coup de Grâce | 0.70% | ~5,027 |
+| Hazardous Materials | 0.70% | ~5,027 |
+| Friends Like These | 0.70% | ~5,027 |
+| Apex Predator | 0.70% | ~5,027 |
+| Personal Assistant Personally Assisted | 0.70% | ~5,027 |
 | Anger Management | 0.60% | ~4,308 |
-| Bookworm | 0.60% | ~4,308 |
 | But Doctor, I am Butcho | 0.60% | ~4,308 |
 | Can't Handle the Truth | 0.60% | ~4,308 |
-| Apex Predator | 0.60% | ~4,308 |
+| Like Riding a Bike | 0.60% | ~4,308 |
 | Stacking the Deck | 0.60% | ~4,308 |
 | This is My Weapon | 0.60% | ~4,308 |
 | Perks of the Job | 0.50% | ~3,590 |
 | I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,590 |
 | Slayer Squad | 0.50% | ~3,590 |
-| Like Riding a Bike | 0.50% | ~3,590 |
 | Zombologist | 0.50% | ~3,590 |
 | Ooh, Shiny! | 0.50% | ~3,590 |
 | A Patton Emerges | 0.50% | ~3,590 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 522)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,056 (Ranked 20)  
+Progressed: 718,081 (Ranked 20)  
 Completed: 2,387 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 2,387 (0.33%) (Ranked 223)
 | 2023-11-10 | 716,193 | 2,374 |
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
-| 2023-11-13 | 718,056 | 2,387 |
+| 2023-11-13 | 718,081 | 2,387 |
 ## Awards
 Max (Great Boss Battles): 7,413  (Ranked 51)  
 Sum: 11,268 (Ranked 85)  

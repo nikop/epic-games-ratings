@@ -4,8 +4,8 @@
   "ProductSlug": "seven-doors-7039de",
   "Ranking_EOS_Progress": 537,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-02-20T23:00:00+00:00",
     "PcReleaseDate": "2020-06-25T22:00:00+00:00",
@@ -180,33 +180,33 @@
       "ID": "ACH_14",
       "SetID": "15cie2",
       "Name": "A Cabin Boy with Potential",
-      "Percentage": 20,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_15",
       "SetID": "15cie2",
       "Name": "Don\u2019t Touch the Rum!",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_16",
       "SetID": "15cie2",
       "Name": "Oh... You didn\u0027t think to bring it?",
-      "Percentage": 10,
+      "Percentage": 15,
       "XP": 160,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_17",
       "SetID": "15cie2",
       "Name": "A Cautious Man Is Worth Two of His Kind",
-      "Percentage": 25,
+      "Percentage": 30,
       "XP": 200,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ACH_2",
@@ -285,8 +285,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:09:14.0368268+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:33:11.0417236+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:30.9232899+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:59:31.5924082+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:09:14.036838+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:12:53.5732138+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:33:11.0417363+00:00"
 }

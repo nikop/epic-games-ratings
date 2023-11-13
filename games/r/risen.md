@@ -44,15 +44,15 @@ Rating: 4.59 (Ranked 431)
 | Titan Lord | 8.00% | ~3 |
 | Terror of the hens | 8.00% | ~3 |
 | King Midas | 8.00% | ~3 |
+| Rune master | 5.00% | ~2 |
 | The traveler | 5.00% | ~2 |
 | Expert | 5.00% | ~2 |
-| Rune master | 3.00% | ~1 |
 | Big game hunter | 3.00% | ~1 |
+| Mage | 3.00% | ~1 |
+| Gladiator | 3.00% | ~1 |
 | Sharpshooter | 3.00% | ~1 |
 | Fervent swimmer | 3.00% | ~1 |
 | Jester | 3.00% | ~1 |
-| Mage | 0.00% | ~0 |
-| Gladiator | 0.00% | ~0 |
 | Master of the classes | 0.00% | ~0 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

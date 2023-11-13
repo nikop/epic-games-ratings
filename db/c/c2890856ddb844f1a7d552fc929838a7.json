@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -167,7 +167,7 @@
   ],
   "EOS_Progressed": 961,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2626,9 +2626,9 @@
       "ID": "AC32",
       "SetID": "l4abp0",
       "Name": "Nobody Expects the Spanish Inquisition!",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 375
+      "UsersEstimate": 384
     },
     {
       "ID": "AC33",
@@ -2747,8 +2747,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:10:17.9860589+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:34:32.3006862+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:16.3145336+00:00",
-  "LastUpdate_Ratings": "2023-11-13T21:00:33.2397439+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:10:17.9861228+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:18:52.8232152+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:34:32.300758+00:00"
 }

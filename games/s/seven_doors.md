@@ -10,17 +10,17 @@
 | Diogenes Syndrome | 40.00% | ~8 |
 | No Fear of the Dark | 35.00% | ~7 |
 | The Last Skull | 35.00% | ~7 |
+| A Cautious Man Is Worth Two of His Kind | 30.00% | ~6 |
 | They’re Watching | 30.00% | ~6 |
 | Art Connoisseur | 30.00% | ~6 |
 | Survivor | 30.00% | ~6 |
 | Master of Riddles | 30.00% | ~6 |
 | The Witch’s Haunt | 25.00% | ~5 |
-| A Cautious Man Is Worth Two of His Kind | 25.00% | ~5 |
+| A Cabin Boy with Potential | 25.00% | ~5 |
 | Trapped in Time | 20.00% | ~4 |
-| A Cabin Boy with Potential | 20.00% | ~4 |
 | Thanksgiving Day | 15.00% | ~3 |
-| Don’t Touch the Rum! | 10.00% | ~2 |
-| Oh... You didn't think to bring it? | 10.00% | ~2 |
+| Don’t Touch the Rum! | 15.00% | ~3 |
+| Oh... You didn't think to bring it? | 15.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 20 (Ranked 537)  
 Completed: 2 (10.00%) (Ranked 35)  

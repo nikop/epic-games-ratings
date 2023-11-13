@@ -6,54 +6,54 @@ Number of Ratings: 524  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 57.00% | ~53,006 |
-| Let There Be Light | 47.00% | ~43,707 |
-| Float Like a Butterfly | 45.00% | ~41,847 |
-| Nordic Walking | 37.00% | ~34,407 |
-| Bright Falls' Finest | 36.00% | ~33,477 |
-| Under a Thin Layer of Skin | 32.00% | ~29,758 |
-| Park Ranger | 27.00% | ~25,108 |
-| Paging Mr. Wake | 27.00% | ~25,108 |
-| Back! Back, I Say! | 25.00% | ~23,248 |
-| Finders Keepers | 25.00% | ~23,248 |
-| Sound and Fury | 23.00% | ~21,388 |
-| Missed by a Mile | 23.00% | ~21,388 |
-| Damn Good Cup of Coffee | 23.00% | ~21,388 |
-| They're Heeeeeere! | 22.00% | ~20,458 |
-| Wheels Within Wheels | 21.00% | ~19,529 |
-| The Six-Gun Scribe | 20.00% | ~18,599 |
-| Heavy Metal | 19.00% | ~17,669 |
-| Iron Horse | 19.00% | ~17,669 |
-| Collateral Carnage | 19.00% | ~17,669 |
-| Come One, Come All | 19.00% | ~17,669 |
-| Perchance to Dream | 18.00% | ~16,739 |
-| It's Not Just a Typewriter Brand | 17.00% | ~15,809 |
-| Thunder and Lightning | 17.00% | ~15,809 |
-| Two For the Price of One | 17.00% | ~15,809 |
-| Gatekeeper | 16.00% | ~14,879 |
-| Energized! | 16.00% | ~14,879 |
-| The Lady of the Light | 15.00% | ~13,949 |
-| Right of Way | 14.00% | ~13,019 |
-| What Light Through Yonder Window | 13.00% | ~12,089 |
-| Tornado Wrangler | 12.00% | ~11,159 |
-| Departure | 11.00% | ~10,229 |
-| Hardboiled Writer | 9.00% | ~8,369 |
-| A Friend in Need | 9.00% | ~5,081 |
-| Children of the Elder God | 8.00% | ~7,439 |
-| Drink 'Em Both Up | 8.00% | ~7,439 |
-| KBF-FM | 7.00% | ~6,510 |
-| A Friend Indeed | 7.00% | ~3,952 |
-| Boob Tube | 6.00% | ~5,580 |
-| If It Flies, It Burns | 6.00% | ~5,580 |
-| Ding! | 6.00% | ~3,388 |
-| Carny | 4.00% | ~3,720 |
-| Kill Your Darlings | 4.00% | ~2,258 |
-| Heartbreaker | 4.00% | ~2,258 |
+| Follow the Light | 57.00% | ~53,019 |
+| Let There Be Light | 47.00% | ~43,717 |
+| Float Like a Butterfly | 45.00% | ~41,857 |
+| Nordic Walking | 37.00% | ~34,416 |
+| Bright Falls' Finest | 36.00% | ~33,485 |
+| Under a Thin Layer of Skin | 32.00% | ~29,765 |
+| Park Ranger | 27.00% | ~25,114 |
+| Paging Mr. Wake | 27.00% | ~25,114 |
+| Back! Back, I Say! | 25.00% | ~23,254 |
+| Finders Keepers | 25.00% | ~23,254 |
+| Sound and Fury | 23.00% | ~21,393 |
+| Missed by a Mile | 23.00% | ~21,393 |
+| Damn Good Cup of Coffee | 23.00% | ~21,393 |
+| They're Heeeeeere! | 22.00% | ~20,463 |
+| Wheels Within Wheels | 21.00% | ~19,533 |
+| The Six-Gun Scribe | 20.00% | ~18,603 |
+| Heavy Metal | 19.00% | ~17,673 |
+| Iron Horse | 19.00% | ~17,673 |
+| Collateral Carnage | 19.00% | ~17,673 |
+| Come One, Come All | 19.00% | ~17,673 |
+| Perchance to Dream | 18.00% | ~16,743 |
+| It's Not Just a Typewriter Brand | 17.00% | ~15,813 |
+| Thunder and Lightning | 17.00% | ~15,813 |
+| Two For the Price of One | 17.00% | ~15,813 |
+| Gatekeeper | 16.00% | ~14,882 |
+| Energized! | 16.00% | ~14,882 |
+| The Lady of the Light | 15.00% | ~13,952 |
+| Right of Way | 14.00% | ~13,022 |
+| What Light Through Yonder Window | 13.00% | ~12,092 |
+| Tornado Wrangler | 12.00% | ~11,162 |
+| Departure | 11.00% | ~10,232 |
+| Hardboiled Writer | 9.00% | ~8,371 |
+| A Friend in Need | 9.00% | ~5,083 |
+| Children of the Elder God | 8.00% | ~7,441 |
+| Drink 'Em Both Up | 8.00% | ~7,441 |
+| KBF-FM | 7.00% | ~6,511 |
+| A Friend Indeed | 7.00% | ~3,954 |
+| Boob Tube | 6.00% | ~5,581 |
+| If It Flies, It Burns | 6.00% | ~5,581 |
+| Ding! | 6.00% | ~3,389 |
+| Carny | 4.00% | ~3,721 |
+| Kill Your Darlings | 4.00% | ~2,259 |
+| Heartbreaker | 4.00% | ~2,259 |
 | Medical Opinions | 3.00% | ~2,790 |
 | Taken Season | 3.00% | ~2,790 |
 | An Idyllic Small Town | 3.00% | ~2,790 |
 | Couch Potato | 2.00% | ~1,860 |
-| Iron Will | 2.00% | ~1,129 |
+| Iron Will | 2.00% | ~1,130 |
 | Go Gentle Into That Good Light | 1.00% | ~565 |
 | Words Will Never Harm You | 0.70% | ~395 |
 | Fast and Furious | 0.60% | ~339 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~113 |
 | Licensed Properties | 0.20% | ~113 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,993 (Ranked 89)  
+Progressed: 93,015 (Ranked 89)  
 Completed: 93 (0.10%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 93 (0.10%) (Ranked 274)
 | 2023-11-10 | 92,108 | 89 |
 | 2023-11-11 | 92,454 | 91 |
 | 2023-11-12 | 92,788 | 92 |
-| 2023-11-13 | 92,993 | 93 |
+| 2023-11-13 | 93,015 | 93 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

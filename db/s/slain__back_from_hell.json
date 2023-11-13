@@ -3,12 +3,12 @@
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
   "Ranking_Rating": 840,
-  "Ranking_Popularity": 329,
+  "Ranking_Popularity": 330,
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -238,9 +238,9 @@
       "Count": 127
     }
   ],
-  "EOS_Progressed": 40277,
+  "EOS_Progressed": 40279,
   "EOS_Completed": 26,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -22953,6 +22953,11 @@
       "Time": "2023-11-13T21:07:50.1888948+00:00",
       "NumProgressed": 40277,
       "NumCompleted": 26
+    },
+    {
+      "Time": "2023-11-13T22:31:24.7996873+00:00",
+      "NumProgressed": 40279,
+      "NumCompleted": 26
     }
   ],
   "TotalAchievements": 29,
@@ -22972,7 +22977,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 8458
+      "UsersEstimate": 8459
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -22996,7 +23001,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -23012,7 +23017,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -23195,7 +23200,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 40277,
+      "Progressed": 40279,
       "Completed": 26
     }
   ],
@@ -23203,8 +23208,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2023-10-07T11:01:04.3409147+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:07:50.1888943+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:31:24.7996864+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.0772649+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:58:59.039266+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:07:50.1890097+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:09:06.1990408+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:31:24.7998445+00:00"
 }

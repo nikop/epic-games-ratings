@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-09-02T12:00:00+00:00",
     "PcReleaseDate": "2023-09-02T17:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7923,
+  "EOS_Progressed": 7927,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 172,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6421,6 +6421,11 @@
       "Time": "2023-11-13T21:10:23.893694+00:00",
       "NumProgressed": 7923,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T22:34:37.2100683+00:00",
+      "NumProgressed": 7927,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6433,7 +6438,7 @@
       "Name": "Upgraded Amplify Ability Damage to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ARUpgraded1",
@@ -6449,7 +6454,7 @@
       "Name": "Eliminated the Arachnid Terror",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "BDPurchased1",
@@ -6465,7 +6470,7 @@
       "Name": "Upgraded Biogenerative Implant to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "CEUpgraded1",
@@ -6545,7 +6550,7 @@
       "Name": "Purchased Grenade",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "GamesPlayed1",
@@ -6553,7 +6558,7 @@
       "Name": "Played a Match",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2456
+      "UsersEstimate": 2457
     },
     {
       "ID": "GamesPlayed10",
@@ -6561,7 +6566,7 @@
       "Name": "Played 10 Matches",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "GamesPlayed100",
@@ -6577,7 +6582,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "GamesWon10",
@@ -6601,7 +6606,7 @@
       "Name": "Eliminated the Golem",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "GrenadeLauncherUpgraded1",
@@ -6617,7 +6622,7 @@
       "Name": "Purchased Haste Aura",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "HASPurchased1",
@@ -6625,7 +6630,7 @@
       "Name": "Purchased Heal and Shield",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "HAUpgraded1",
@@ -6665,7 +6670,7 @@
       "Name": "Upgraded the Hand Cannon to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "HealingGunUpgraded1",
@@ -6673,7 +6678,7 @@
       "Name": "Upgraded the Healing Gun to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "IGPurchased1",
@@ -6681,7 +6686,7 @@
       "Name": "Purchased Ice Grenade",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "IHBUpgraded1",
@@ -6793,7 +6798,7 @@
       "Name": "Eliminated 10 Players in a single match",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "MaxTowersKilled3",
@@ -6809,7 +6814,7 @@
       "Name": "Destroyed 6 Towers in a single match",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "MinionKills200",
@@ -6841,7 +6846,7 @@
       "Name": "Purchased Nuke Ultimate",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "NeutralKills200",
@@ -6929,7 +6934,7 @@
       "Name": "Purchased Rocket Strike",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "SEUpgraded1",
@@ -6953,7 +6958,7 @@
       "Name": "Upgraded Sphere of Vitality to Level 3",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "SPurchased1",
@@ -6961,7 +6966,7 @@
       "Name": "Purchased SuperCharge",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "ShotgunUpgraged1",
@@ -6977,7 +6982,7 @@
       "Name": "Upgraded the Sniper to Level 3",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 475
+      "UsersEstimate": 476
     },
     {
       "ID": "TGPurchased1",
@@ -7009,7 +7014,7 @@
       "Name": "Destroyed 11 Towers",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "WCUpgraded1",
@@ -7024,7 +7029,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7923,
+      "Progressed": 7927,
       "Completed": 1
     }
   ],
@@ -7032,8 +7037,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-13T13:57:24.4920376+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:10:23.8936935+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:34:37.2100678+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:57:44.2904294+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:10:23.8937826+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:00:34.073866+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:34:37.2101895+00:00"
 }

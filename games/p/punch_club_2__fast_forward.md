@@ -8,7 +8,7 @@
 | Your first fight | 87.00% | ~298 |
 | Good Person Chip | 86.00% | ~294 |
 | First winning | 85.00% | ~291 |
-| Your first job | 83.00% | ~284 |
+| Your first job | 84.00% | ~287 |
 | Old movies enjoyer | 80.00% | ~274 |
 | Fitness professional | 79.00% | ~270 |
 | Depressed visitor | 79.00% | ~270 |
@@ -36,7 +36,7 @@
 | Legal courier | 56.00% | ~192 |
 | Extreme neuropower! | 55.00% | ~188 |
 | Escaped from a big trouble | 53.00% | ~181 |
-| Now you are worthy | 49.00% | ~168 |
+| Now you are worthy | 50.00% | ~171 |
 | Fight is life | 48.00% | ~164 |
 | Mysterious voice | 48.00% | ~164 |
 | Guiding on the right path | 47.00% | ~161 |
@@ -52,8 +52,8 @@
 | Get out of my apartment! | 40.00% | ~137 |
 | Gang wrangler | 38.00% | ~130 |
 | Seashell hunter | 38.00% | ~130 |
+| Problems of cyborgs | 37.00% | ~127 |
 | Undercover robot | 37.00% | ~127 |
-| Problems of cyborgs | 36.00% | ~123 |
 | Not little hacker | 36.00% | ~123 |
 | Absolute Champion! | 36.00% | ~123 |
 | Your own way | 36.00% | ~123 |

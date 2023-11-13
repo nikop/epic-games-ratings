@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 328,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -2009,9 +2009,9 @@
       "ID": "ach_x_victims_using_double_barrel",
       "SetID": "bf10c8p",
       "Name": "This Is My Boomstick",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "ach_x_victims_using_grenade_launcher",
@@ -2072,8 +2072,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:04:39.9415186+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:28:55.5667552+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:19.6209725+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:58:21.7094362+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:04:39.9415841+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:04:34.5066512+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:28:55.5668813+00:00"
 }

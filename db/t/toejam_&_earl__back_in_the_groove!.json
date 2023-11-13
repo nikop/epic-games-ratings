@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 329,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 57791,
+  "EOS_Progressed": 57795,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -12466,6 +12466,11 @@
       "Time": "2023-11-13T15:04:23.1403209+00:00",
       "NumProgressed": 57791,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-13T22:29:37.6389686+00:00",
+      "NumProgressed": 57795,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -12541,7 +12546,7 @@
       "Name": "Fall Fest",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 4045
+      "UsersEstimate": 4046
     },
     {
       "ID": "FlyingPresent",
@@ -12565,7 +12570,7 @@
       "Name": "Food Taster",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 5201
+      "UsersEstimate": 5202
     },
     {
       "ID": "FoolMeTwice",
@@ -12621,7 +12626,7 @@
       "Name": "HFZ Goober",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "HarshLove",
@@ -12813,7 +12818,7 @@
       "Name": "Thrill Seeker",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 3467
+      "UsersEstimate": 3468
     },
     {
       "ID": "TimelySplash",
@@ -12868,7 +12873,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 57791,
+      "Progressed": 57795,
       "Completed": 6
     }
   ],
@@ -12876,8 +12881,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:05:34.6903136+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:29:37.6389681+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:03.684858+00:00",
-  "LastUpdate_Ratings": "2023-11-13T21:00:45.7863586+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:05:34.6904164+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:20:05.8767301+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:29:37.6390905+00:00"
 }

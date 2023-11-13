@@ -14,18 +14,18 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 3.00% | ~4,192 |
 | Budding Merchant | 3.00% | ~4,192 |
 | Capitalism Ho! | 3.00% | ~4,192 |
-| The Daily Grind | 2.00% | ~2,794 |
-| One Easy Payment | 2.00% | ~2,794 |
-| Some Assembly Required | 2.00% | ~2,794 |
-| Bounty Hunters | 2.00% | ~2,794 |
-| Flooding the Market | 2.00% | ~2,794 |
-| Where it Hurts | 2.00% | ~2,794 |
-| Another Satisfied Customer | 2.00% | ~2,794 |
-| Pretty Penny | 2.00% | ~2,794 |
-| One-Armed Bandit | 2.00% | ~2,794 |
-| Dungeon Imports | 2.00% | ~2,794 |
-| Through Repetition, Perfection | 2.00% | ~2,794 |
-| Own the Means of Production | 2.00% | ~2,794 |
+| The Daily Grind | 2.00% | ~2,795 |
+| One Easy Payment | 2.00% | ~2,795 |
+| Some Assembly Required | 2.00% | ~2,795 |
+| Bounty Hunters | 2.00% | ~2,795 |
+| Flooding the Market | 2.00% | ~2,795 |
+| Where it Hurts | 2.00% | ~2,795 |
+| Another Satisfied Customer | 2.00% | ~2,795 |
+| Pretty Penny | 2.00% | ~2,795 |
+| One-Armed Bandit | 2.00% | ~2,795 |
+| Dungeon Imports | 2.00% | ~2,795 |
+| Through Repetition, Perfection | 2.00% | ~2,795 |
+| Own the Means of Production | 2.00% | ~2,795 |
 | On the Path to Greatness | 1.00% | ~1,397 |
 | Ascended | 1.00% | ~1,397 |
 | Tax not Included | 1.00% | ~1,397 |
@@ -47,20 +47,20 @@ Number of Ratings: 12,664  (23.09.2022)
 | Did we pack lunch? | 1.00% | ~1,397 |
 | Magical Harmony | 1.00% | ~1,397 |
 | Arcane Industries | 1.00% | ~1,397 |
-| A Notch Above the Rest | 0.90% | ~1,257 |
-| The King's Caprice | 0.90% | ~1,257 |
-| Big Game Hunting | 0.90% | ~1,257 |
-| For the Hoard! | 0.90% | ~1,257 |
-| Scrapbooker | 0.90% | ~1,257 |
-| Flying off the Shelves | 0.90% | ~1,257 |
-| This Power Level...! | 0.90% | ~1,257 |
-| Hidden Potential | 0.90% | ~1,257 |
-| Expansion in Session | 0.90% | ~1,257 |
-| Mammonite | 0.90% | ~1,257 |
-| Seasoned Journeyman | 0.90% | ~1,257 |
-| Black Friday Special | 0.90% | ~1,257 |
-| Special Ingredient | 0.90% | ~1,257 |
-| Complete Monopoly | 0.90% | ~1,257 |
+| A Notch Above the Rest | 0.90% | ~1,258 |
+| The King's Caprice | 0.90% | ~1,258 |
+| Big Game Hunting | 0.90% | ~1,258 |
+| For the Hoard! | 0.90% | ~1,258 |
+| Scrapbooker | 0.90% | ~1,258 |
+| Flying off the Shelves | 0.90% | ~1,258 |
+| This Power Level...! | 0.90% | ~1,258 |
+| Hidden Potential | 0.90% | ~1,258 |
+| Expansion in Session | 0.90% | ~1,258 |
+| Mammonite | 0.90% | ~1,258 |
+| Seasoned Journeyman | 0.90% | ~1,258 |
+| Black Friday Special | 0.90% | ~1,258 |
+| Special Ingredient | 0.90% | ~1,258 |
+| Complete Monopoly | 0.90% | ~1,258 |
 | Cream of the Crop | 0.80% | ~1,118 |
 | Above the Norm | 0.80% | ~1,118 |
 | A Ronin Reborn | 0.80% | ~1,118 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,722 (Ranked 79)  
+Progressed: 139,730 (Ranked 79)  
 Completed: 181 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 181 (0.13%) (Ranked 264)
 | 2023-11-10 | 139,169 | 180 |
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
-| 2023-11-13 | 139,722 | 181 |
+| 2023-11-13 | 139,730 | 181 |
 ## Awards
 Max (Great for Beginners): 4,826  (Ranked 73)  
 Sum: 27,541 (Ranked 50)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8742,9 +8742,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65061,
+  "EOS_Progressed": 65063,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 437,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30557,6 +30557,11 @@
       "Time": "2023-11-13T21:10:01.1595602+00:00",
       "NumProgressed": 65061,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T22:34:18.5448962+00:00",
+      "NumProgressed": 65063,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30582,9 +30587,9 @@
       "ID": "Bannerlord",
       "SetID": "den0lp1",
       "Name": "Bannerlord",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 65,
-      "UsersEstimate": 14964
+      "UsersEstimate": 15615
     },
     {
       "ID": "Best served cold",
@@ -30608,7 +30613,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5855
+      "UsersEstimate": 5856
     },
     {
       "ID": "Catch",
@@ -30792,7 +30797,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21470
+      "UsersEstimate": 21471
     },
     {
       "ID": "Lawbringer",
@@ -30800,7 +30805,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26024
+      "UsersEstimate": 26025
     },
     {
       "ID": "Lawmaker",
@@ -30952,7 +30957,7 @@
       "Name": "Undercover",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "Veni vidi vici",
@@ -30960,7 +30965,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 2602
+      "UsersEstimate": 2603
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -30975,15 +30980,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65061,
+      "Progressed": 65063,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-13T13:04:38.4343155+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:10:01.1595597+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:34:18.5448957+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:59:57.2552933+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:10:01.1597359+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:15:21.8132963+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:34:18.5451291+00:00"
 }

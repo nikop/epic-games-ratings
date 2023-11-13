@@ -8,7 +8,7 @@ Rating: 4.76 (Ranked 125)
 | The Sort Who Makes an Entrance | 16.00% | ~48,324 |
 | First Class Student | 14.00% | ~42,284 |
 | Troll with the Punches | 14.00% | ~42,284 |
-| A Keen Sense of Spell | 13.00% | ~39,263 |
+| A Keen Sense of Spell | 13.00% | ~39,264 |
 | A Talent for Spending | 12.00% | ~36,243 |
 | That's a Keeper | 12.00% | ~36,243 |
 | Grappling with a Graphorn | 11.00% | ~33,223 |
@@ -18,10 +18,10 @@ Rating: 4.76 (Ranked 125)
 | Challenge Accepted | 11.00% | ~33,223 |
 | Loom for Improvement | 11.00% | ~33,223 |
 | Coasting Along | 11.00% | ~33,223 |
-| The Hero of Hogwarts | 10.00% | ~30,202 |
-| Followed the Butterflies | 10.00% | ~30,202 |
-| Rising From the Ashes | 10.00% | ~30,202 |
-| The Spell Master | 9.00% | ~27,182 |
+| The Hero of Hogwarts | 10.00% | ~30,203 |
+| Followed the Butterflies | 10.00% | ~30,203 |
+| Rising From the Ashes | 10.00% | ~30,203 |
+| The Spell Master | 9.00% | ~27,183 |
 | The Avenging Gazelle | 8.00% | ~24,162 |
 | Beast Friends | 8.00% | ~24,162 |
 | A Sallow Grave | 8.00% | ~24,162 |
@@ -40,18 +40,18 @@ Rating: 4.76 (Ranked 125)
 | Put Down Roots | 3.00% | ~9,061 |
 | The Auror's Apprentice | 3.00% | ~9,061 |
 | Floo Around the World | 3.00% | ~9,061 |
-| The Good Samaritan | 2.00% | ~6,040 |
-| Rise to the Challenges | 2.00% | ~6,040 |
-| Demiguise Dread | 2.00% | ~6,040 |
-| Finishing Touches | 2.00% | ~6,040 |
-| A Forte for Achievement | 2.00% | ~6,040 |
+| The Good Samaritan | 2.00% | ~6,041 |
+| Rise to the Challenges | 2.00% | ~6,041 |
+| Demiguise Dread | 2.00% | ~6,041 |
+| Finishing Touches | 2.00% | ~6,041 |
+| A Forte for Achievement | 2.00% | ~6,041 |
 | Savvy Spender | 1.00% | ~3,020 |
 | Merlin's Beard! | 1.00% | ~3,020 |
 | Spilled Milk | 0.90% | ~2,718 |
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,025 (Ranked 50)  
+Progressed: 302,028 (Ranked 50)  
 Completed: 510 (0.17%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 510 (0.17%) (Ranked 257)
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
 | 2023-11-12 | 301,983 | 510 |
-| 2023-11-13 | 302,025 | 510 |
+| 2023-11-13 | 302,028 | 510 |
 ## Awards
 Max (Character Customization): 24,259  (Ranked 17)  
 Sum: 48,072 (Ranked 30)  

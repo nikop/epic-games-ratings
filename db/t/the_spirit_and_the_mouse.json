@@ -4,8 +4,8 @@
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 455,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
     "PcReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -233,9 +233,9 @@
       "ID": "neighenergy.east",
       "SetID": "bbgli2k",
       "Name": "East Street Energy",
-      "Percentage": 51,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "neighenergy.north",
@@ -418,8 +418,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:04:45.330766+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:28:59.8305337+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.3505484+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:57:20.1725264+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:04:45.3308139+00:00"
+  "LastUpdate_Ratings": "2023-11-13T21:57:55.2418211+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:28:59.8305804+00:00"
 }

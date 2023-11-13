@@ -25,7 +25,7 @@
 | Pork Chop Express | 19.00% | ~63 |
 | Skin Of Your Teeth | 17.00% | ~57 |
 | Carrocketeer | 17.00% | ~57 |
-| This Is My Boomstick | 16.00% | ~45 |
+| This Is My Boomstick | 17.00% | ~48 |
 | Getting Started | 15.00% | ~50 |
 | Eggtraordinary | 15.00% | ~50 |
 | Oh My Gourd | 15.00% | ~42 |

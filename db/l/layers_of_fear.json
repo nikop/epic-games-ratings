@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 456,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 281,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -434,9 +434,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "decrypt_one_myth",
@@ -626,9 +626,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "playtime",
@@ -682,9 +682,9 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 33,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "something_important",
@@ -777,8 +777,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:05:46.5970055+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:29:46.8705167+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:22.4690475+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:59:14.252514+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:05:46.597041+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:10:59.5809118+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:29:46.8705642+00:00"
 }

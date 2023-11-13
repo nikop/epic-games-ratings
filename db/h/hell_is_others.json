@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 764,
-  "Ranking_Popularity": 436,
-  "Ranking_PopularitySum": 355,
+  "Ranking_Rating": 763,
+  "Ranking_Popularity": 432,
+  "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1145,18 +1145,24 @@
       "Rating": 4.38,
       "NumberOfAwards": 340,
       "NumberOfAwardsMax": 48
+    },
+    {
+      "Time": "2023-11-13T22:16:20.1690076+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 341,
+      "NumberOfAwardsMax": 49
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 340,
-  "NumberOfAwardsMax": 48,
+  "NumberOfAwards": 341,
+  "NumberOfAwardsMax": 49,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 48
+      "Count": 49
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1213,7 +1219,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 258366,
+  "EOS_Progressed": 258367,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 240,
   "EOS_NewCompleters": 0,
@@ -21368,6 +21374,11 @@
       "Time": "2023-11-13T20:03:28.6913232+00:00",
       "NumProgressed": 258366,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-13T22:28:46.2233586+00:00",
+      "NumProgressed": 258367,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -21427,7 +21438,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80093
+      "UsersEstimate": 80094
     },
     {
       "ID": "BackHomeNTimes",
@@ -21826,16 +21837,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 258366,
+      "Progressed": 258367,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2023-11-11T08:57:36.3983945+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:04:27.8971401+00:00",
+  "LastChanged": "2023-11-13T22:16:20.1690074+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:28:46.2233581+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:49.1027511+00:00",
-  "LastUpdate_Ratings": "2023-11-13T21:00:08.4918679+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:04:27.8972576+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:16:20.1690078+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:28:46.2235704+00:00"
 }

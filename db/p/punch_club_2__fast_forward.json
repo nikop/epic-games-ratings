@@ -4,8 +4,8 @@
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -1360,9 +1360,9 @@
       "ID": "airpods",
       "SetID": "69co12a",
       "Name": "Now you are worthy",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 171
     },
     {
       "ID": "all_promotion_4",
@@ -1376,9 +1376,9 @@
       "ID": "all_promotion_5",
       "SetID": "69co12a",
       "Name": "Problems of cyborgs",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 127
     },
     {
       "ID": "all_promotion_6",
@@ -1488,9 +1488,9 @@
       "ID": "first_job",
       "SetID": "69co12a",
       "Name": "Your first job",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 287
     },
     {
       "ID": "flash_bobo",
@@ -1879,8 +1879,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:05:27.5468742+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:29:32.1052902+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:34.4044983+00:00",
-  "LastUpdate_Ratings": "2023-11-13T21:02:17.7378655+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:05:27.5469231+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:26:17.9908975+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:29:32.1053659+00:00"
 }

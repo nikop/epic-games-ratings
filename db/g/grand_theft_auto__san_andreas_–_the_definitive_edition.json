@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 212,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -1489,9 +1489,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 13687,
+  "EOS_Progressed": 13689,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -14559,6 +14559,11 @@
       "Time": "2023-11-13T21:09:27.3022282+00:00",
       "NumProgressed": 13687,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2023-11-13T22:33:21.4293792+00:00",
+      "NumProgressed": 13689,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 35,
@@ -14568,9 +14573,9 @@
       "ID": "ACH01",
       "SetID": "4ck5mbe",
       "Name": "Getting Started",
-      "Percentage": 82,
+      "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 11223
+      "UsersEstimate": 11088
     },
     {
       "ID": "ACH02",
@@ -14618,7 +14623,7 @@
       "Name": "The American Dream",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 2737
+      "UsersEstimate": 2738
     },
     {
       "ID": "ACH08",
@@ -14626,7 +14631,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 6980
+      "UsersEstimate": 6981
     },
     {
       "ID": "ACH09",
@@ -14762,7 +14767,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "ACH26",
@@ -14826,7 +14831,7 @@
       "Name": "Remastered",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ACH34",
@@ -14849,7 +14854,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 13687,
+      "Progressed": 13689,
       "Completed": 53
     }
   ],
@@ -14857,8 +14862,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2023-11-13T14:57:51.7283251+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:09:27.3022276+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:33:21.4293785+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:39.6151222+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:58:40.3312436+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:09:27.3023115+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:07:07.8786527+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:33:21.4295094+00:00"
 }

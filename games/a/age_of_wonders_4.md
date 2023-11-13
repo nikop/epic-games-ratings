@@ -26,6 +26,7 @@ Rating: 4.61 (Ranked 384)
 | Intimidation Tactics | 0.50% | ~27 |
 | Sehiran Oasis | 0.50% | ~27 |
 | Dawn of the Dread | 0.50% | ~27 |
+| Enchanted Archipelago | 0.40% | ~22 |
 | My Final Form | 0.40% | ~22 |
 | Impenetrable Fortress | 0.40% | ~22 |
 | Here be Dragons | 0.40% | ~22 |
@@ -36,7 +37,6 @@ Rating: 4.61 (Ranked 384)
 | Seal the Deal | 0.40% | ~22 |
 | A Conqueror's Cohort | 0.40% | ~22 |
 | The Creator | 0.30% | ~16 |
-| Enchanted Archipelago | 0.30% | ~16 |
 | Preparation Is Everything | 0.30% | ~16 |
 | I've Got Everything I Need Right Here | 0.20% | ~11 |
 | Return of the Wizard King | 0.20% | ~11 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 384)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,386 (Ranked 184)  
+Progressed: 5,387 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 7 (0.13%) (Ranked 264)
 | 2023-11-10 | 5,335 | 7 |
 | 2023-11-11 | 5,360 | 7 |
 | 2023-11-12 | 5,383 | 7 |
-| 2023-11-13 | 5,386 | 7 |
+| 2023-11-13 | 5,387 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 483)  
 Sum: 54 (Ranked 473)  

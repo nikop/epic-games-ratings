@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 126,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -306,7 +306,7 @@
   "Tags": [],
   "EOS_Progressed": 1650,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3841,9 +3841,9 @@
       "ID": "Heroes_never_die",
       "SetID": "85nb4h3",
       "Name": "Heroes Never Die",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 627
+      "UsersEstimate": 644
     },
     {
       "ID": "High_noon",
@@ -3929,9 +3929,9 @@
       "ID": "War_never_changes",
       "SetID": "85nb4h3",
       "Name": "War Never Changes",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 693
+      "UsersEstimate": 710
     },
     {
       "ID": "We_were_not_here",
@@ -3961,8 +3961,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-13T21:03:59.0364673+00:00",
+  "LastChanged_Achievements": "2023-11-13T22:28:23.6651858+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-13T20:57:52.7404561+00:00",
-  "LastUpdate_Achievements": "2023-11-13T21:03:59.0365036+00:00"
+  "LastUpdate_Ratings": "2023-11-13T22:01:23.9777597+00:00",
+  "LastUpdate_Achievements": "2023-11-13T22:28:23.6652346+00:00"
 }
