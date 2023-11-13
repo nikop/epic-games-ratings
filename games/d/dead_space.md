@@ -18,7 +18,7 @@ Rating: 4.63 (Ranked 348)
 | Surgeon | 51.00% | ~902 |
 | Freeze | 51.00% | ~902 |
 | Exterminator | 51.00% | ~902 |
-| Greenhouse Effect | 50.00% | ~884 |
+| Greenhouse Effect | 51.00% | ~902 |
 | Full Arsenal | 45.00% | ~796 |
 | S.O.S. | 45.00% | ~796 |
 | Get Off My Ship! | 43.00% | ~760 |

@@ -13,7 +13,7 @@
 | Breached | 9.00% | ~17 |
 | Conciliator | 8.00% | ~15 |
 | Tactician | 8.00% | ~15 |
-| Fight Another Day | 7.00% | ~13 |
+| Fight Another Day | 8.00% | ~15 |
 | Scholar | 6.00% | ~12 |
 | Acquaintance | 6.00% | ~12 |
 | Tail-wind | 6.00% | ~12 |

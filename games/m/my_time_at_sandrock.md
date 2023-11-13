@@ -7,7 +7,7 @@ Number of Ratings: 892  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept Assembler | 249.00% | ~782 |
-| Iron Chef | 186.00% | ~584 |
+| Iron Chef | 187.00% | ~587 |
 | Greeno-B-Gone | 121.00% | ~380 |
 | Your Especially Earned Trajectory | 94.00% | ~295 |
 | No Mountain Wide Enough | 64.00% | ~201 |
@@ -22,35 +22,35 @@ Number of Ratings: 892  (23.09.2022)
 | Big Game Hunter | 47.00% | ~148 |
 | Got Served | 46.00% | ~144 |
 | Chatterbox | 44.00% | ~138 |
+| Call Me Fishmael | 42.00% | ~132 |
 | What Plants Crave | 41.00% | ~129 |
-| Call Me Fishmael | 41.00% | ~129 |
 | My Time Mansion | 40.00% | ~126 |
 | Happier-est Place on Earth | 40.00% | ~126 |
 | I Do! | 40.00% | ~126 |
 | Mole Masher | 40.00% | ~126 |
 | You Don't Win Friends With Salad | 40.00% | ~126 |
+| First Love | 39.00% | ~122 |
 | Knowledge is Power | 38.00% | ~119 |
-| First Love | 38.00% | ~119 |
 | Better Late than Never | 37.00% | ~116 |
 | Anti-Santa | 37.00% | ~116 |
 | Panda-kin | 34.00% | ~107 |
 | Finishing Touches | 34.00% | ~107 |
 | Officially Official | 33.00% | ~104 |
+| Who Ya Gonna Call...? | 33.00% | ~104 |
 | Builder of the Month | 32.00% | ~100 |
-| Who Ya Gonna Call...? | 32.00% | ~100 |
-| Bridging the Gap | 31.00% | ~97 |
+| Bridging the Gap | 32.00% | ~100 |
 | Waste Not Want Not | 29.00% | ~91 |
 | Commissions, commissions...! | 28.00% | ~88 |
 | Martle's Dream | 28.00% | ~88 |
 | Jewel of the Eufaula | 28.00% | ~88 |
 | He Can Spin A Yarn... | 27.00% | ~85 |
+| Got the Flow Back | 26.00% | ~82 |
 | Elementary, My Dear | 25.00% | ~78 |
-| Got the Flow Back | 25.00% | ~78 |
 | Lifeline Pipeline | 23.00% | ~72 |
 | Do Your Part | 22.00% | ~69 |
 | Newton | 22.00% | ~69 |
 | Kind of a Big Deal | 20.00% | ~63 |
-| Just What I Always Wanted! | 19.00% | ~60 |
+| Just What I Always Wanted! | 20.00% | ~63 |
 | Time Flies | 18.00% | ~57 |
 | Sepia Toned Memories | 18.00% | ~57 |
 | Santa In Training | 18.00% | ~57 |

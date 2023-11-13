@@ -2,12 +2,12 @@
   "ID": "402982723c79438bab7bfe346c34b5b6",
   "Name": "Little Big Workshop",
   "ProductSlug": "little-big-workshop",
-  "Ranking_Rating": 795,
+  "Ranking_Rating": 794,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-06-10T17:00:00+00:00",
@@ -104,5 +104,5 @@
   "LastChanged": "2023-09-13T23:01:34.0926375+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:38.4452158+00:00",
   "LastUpdate_Ratings": "2023-11-13T06:01:13.0161719+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:03:28.352944+00:00"
+  "LastUpdate_Achievements": "2023-11-13T07:03:49.8692267+00:00"
 }

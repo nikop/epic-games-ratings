@@ -11,7 +11,7 @@ Number of Ratings: 368  (23.09.2022)
 | Friends of sorts | 33.00% | ~5,404 |
 | Yet another secret | 33.00% | ~5,404 |
 | Let there be darkness | 32.00% | ~5,240 |
-| End of Book One | 30.00% | ~4,912 |
+| End of Book One | 30.00% | ~4,913 |
 | Garden of Eden | 24.00% | ~3,930 |
 | Wannabe knight | 23.00% | ~3,766 |
 | Full house | 23.00% | ~3,766 |
@@ -21,8 +21,8 @@ Number of Ratings: 368  (23.09.2022)
 | Workers' union | 18.00% | ~2,948 |
 | End of Book Two | 18.00% | ~2,948 |
 | Everything's in order | 17.00% | ~2,784 |
-| Twist of Fate | 14.00% | ~2,292 |
-| Jack was here! | 14.00% | ~2,292 |
+| Twist of Fate | 14.00% | ~2,293 |
+| Jack was here! | 14.00% | ~2,293 |
 | Exterminator | 13.00% | ~2,129 |
 | Whodunnit | 12.00% | ~1,965 |
 | Good midwife | 11.00% | ~1,801 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | The End. | 9.00% | ~1,474 |
 | A cry for help | 8.00% | ~1,310 |
 | Silentium est aureum | 7.00% | ~1,146 |
-| Rebel without a cause | 6.00% | ~982 |
+| Rebel without a cause | 6.00% | ~983 |
 | Staring contest champion | 5.00% | ~819 |
 | Lone wolf | 5.00% | ~819 |
 | Vox Populi | 5.00% | ~819 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | A brush with death | 3.00% | ~491 |
 | Boy of mystery | 2.00% | ~328 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,375 (Ranked 144)  
+Progressed: 16,376 (Ranked 144)  
 Completed: 114 (0.70%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 114 (0.70%) (Ranked 176)
 | 2023-11-10 | 16,308 | 114 |
 | 2023-11-11 | 16,333 | 114 |
 | 2023-11-12 | 16,368 | 114 |
-| 2023-11-13 | 16,375 | 114 |
+| 2023-11-13 | 16,376 | 114 |
 ## Awards
 Max (Easy Puzzles): 155  (Ranked 313)  
 Sum: 198 (Ranked 400)  

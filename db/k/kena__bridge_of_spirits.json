@@ -1445,7 +1445,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 428961,
+  "EOS_Progressed": 428962,
   "EOS_Completed": 544,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 1,
@@ -14970,6 +14970,11 @@
       "Time": "2023-11-13T06:06:21.736128+00:00",
       "NumProgressed": 428961,
       "NumCompleted": 544
+    },
+    {
+      "Time": "2023-11-13T07:06:14.6265383+00:00",
+      "NumProgressed": 428962,
+      "NumCompleted": 544
     }
   ],
   "TotalAchievements": 41,
@@ -15037,7 +15042,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 128688
+      "UsersEstimate": 128689
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -15149,7 +15154,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 407513
+      "UsersEstimate": 407514
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -15165,7 +15170,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 308852
+      "UsersEstimate": 308853
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -15197,7 +15202,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 343169
+      "UsersEstimate": 343170
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -15229,7 +15234,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 197322
+      "UsersEstimate": 197323
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -15245,7 +15250,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115819
+      "UsersEstimate": 115820
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -15261,7 +15266,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 240218
+      "UsersEstimate": 240219
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -15285,7 +15290,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 115819
+      "UsersEstimate": 115820
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -15308,15 +15313,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 428961,
+      "Progressed": 428962,
       "Completed": 544
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2023-11-12T15:00:41.791298+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:06:21.7361274+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:06:14.6265373+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:23.5883235+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:57:15.7025021+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:06:21.7362363+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:57:28.6931195+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:06:14.6266288+00:00"
 }

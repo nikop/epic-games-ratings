@@ -2795,9 +2795,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 662204,
+  "EOS_Progressed": 662205,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1889,
+  "EOS_NewPlayers": 1886,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26330,6 +26330,11 @@
       "Time": "2023-11-13T06:09:18.3761077+00:00",
       "NumProgressed": 662204,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-13T07:09:10.6207063+00:00",
+      "NumProgressed": 662205,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -26349,7 +26354,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79464
+      "UsersEstimate": 79465
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -26756,15 +26761,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 662204,
+      "Progressed": 662205,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-12T10:00:29.2688318+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:09:18.3761068+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:09:10.6207059+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9318396+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:57:14.1469755+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:09:18.3762882+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:57:27.6340414+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:09:10.6208487+00:00"
 }

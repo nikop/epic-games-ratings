@@ -135,7 +135,7 @@
   "Tags": [],
   "EOS_Progressed": 271,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -1279,9 +1279,9 @@
       "ID": "achievement_11",
       "SetID": "18al4io",
       "Name": "The Means to Save It",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "achievement_12",
@@ -1567,9 +1567,9 @@
       "ID": "achievement_60",
       "SetID": "18al4io",
       "Name": "Shroudfane Surveyor",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "achievement_62",
@@ -1648,8 +1648,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2023-11-13T02:59:47.3334037+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:08:27.2291765+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:08:27.2518771+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.8311182+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:00:27.9226512+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:08:27.229225+00:00"
+  "LastUpdate_Ratings": "2023-11-13T07:00:08.5689699+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:08:27.2519177+00:00"
 }

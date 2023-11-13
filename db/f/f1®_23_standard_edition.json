@@ -497,7 +497,7 @@
   ],
   "EOS_Progressed": 5702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5694,9 +5694,9 @@
       "ID": "achievement_0034",
       "SetID": "9123ogc",
       "Name": "Challenge Yourself",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1711
+      "UsersEstimate": 1768
     },
     {
       "ID": "achievement_0035",
@@ -5831,8 +5831,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-12T15:00:20.0468985+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:04:09.4031945+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:04:24.402107+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:01:09.6561959+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:04:09.4032627+00:00"
+  "LastUpdate_Ratings": "2023-11-13T07:00:42.5814405+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:04:24.4021631+00:00"
 }

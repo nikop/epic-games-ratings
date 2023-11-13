@@ -70,10 +70,10 @@
 | Treason | 27.00% | ~330 |
 | Digital Exorcist | 27.00% | ~330 |
 | Mobilizer | 27.00% | ~330 |
+| Untouchable | 26.00% | ~318 |
 | Mission Accomplished | 26.00% | ~318 |
 | Suicide Mission | 26.00% | ~318 |
 | Against All Odds | 26.00% | ~318 |
-| Untouchable | 25.00% | ~306 |
 | Giant Killer | 25.00% | ~306 |
 | A House Divided | 25.00% | ~306 |
 | Eye of the Hurricane | 24.00% | ~294 |

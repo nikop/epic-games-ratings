@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 313,
-  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2872,
+  "EOS_Progressed": 2873,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -7319,6 +7319,11 @@
       "Time": "2023-11-13T05:09:15.3345087+00:00",
       "NumProgressed": 2872,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T07:09:10.8048825+00:00",
+      "NumProgressed": 2873,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -7360,9 +7365,9 @@
       "ID": "CONQUEROR",
       "SetID": "8lhbnh7",
       "Name": "Harold Rex Interfectus Est",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 804
+      "UsersEstimate": 776
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -7434,7 +7439,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1723
+      "UsersEstimate": 1724
     },
     {
       "ID": "GUARD_MAKER",
@@ -7505,14 +7510,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 2872,
+      "Progressed": 2873,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:09:18.7486691+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:09:10.804882+00:00",
   "LastUpdate_AppInfo": "2023-11-08T05:56:57.917188+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:57:17.435606+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:09:18.7487261+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:57:30.1459202+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:09:10.8049304+00:00"
 }

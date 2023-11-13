@@ -65,7 +65,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7913,
+  "EOS_Progressed": 7914,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 0,
@@ -6375,6 +6375,11 @@
       "Time": "2023-11-13T05:09:41.7818797+00:00",
       "NumProgressed": 7913,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T07:09:36.6944923+00:00",
+      "NumProgressed": 7914,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-03T00:08:24.3385069+00:00",
@@ -6531,7 +6536,7 @@
       "Name": "Won a Match",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "GamesWon10",
@@ -6978,7 +6983,7 @@
     {
       "ID": "12d07c7",
       "IsBase": true,
-      "Progressed": 7913,
+      "Progressed": 7914,
       "Completed": 1
     }
   ],
@@ -6986,8 +6991,8 @@
   "FirstSeenRating": "2023-09-24T07:59:49.2549085+00:00",
   "FirstSeenAchievements": "2023-09-02T04:06:00.866216+00:00",
   "LastChanged": "2023-11-07T13:03:10.353816+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:09:49.6644265+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:09:36.6944914+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9396029+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:57:10.608743+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:09:49.6645408+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:57:24.7057133+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:09:36.6945853+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 16,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2010-10-19T11:26:00+00:00",
@@ -7547,9 +7547,9 @@
       "Count": 1143
     }
   ],
-  "EOS_Progressed": 838142,
+  "EOS_Progressed": 838157,
   "EOS_Completed": 197,
-  "EOS_NewPlayers": 4821,
+  "EOS_NewPlayers": 4815,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -27707,6 +27707,11 @@
       "Time": "2023-11-13T06:03:25.7167639+00:00",
       "NumProgressed": 838142,
       "NumCompleted": 197
+    },
+    {
+      "Time": "2023-11-13T07:03:47.7971316+00:00",
+      "NumProgressed": 838157,
+      "NumCompleted": 197
     }
   ],
   "TotalAchievements": 75,
@@ -27718,7 +27723,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 209536
+      "UsersEstimate": 209539
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -27758,7 +27763,7 @@
       "Name": "Blast Mastery",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25144
+      "UsersEstimate": 25145
     },
     {
       "ID": "ACHIEVEMENT_CARAVAN_MASTER",
@@ -27782,7 +27787,7 @@
       "Name": "Cash Out",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8381
+      "UsersEstimate": 8382
     },
     {
       "ID": "ACHIEVEMENT_COMBAT_VETERAN",
@@ -27822,7 +27827,7 @@
       "Name": "Curios and Relics",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25144
+      "UsersEstimate": 25145
     },
     {
       "ID": "ACHIEVEMENT_DESERT_SURVIVALIST",
@@ -27942,7 +27947,7 @@
       "Name": "Lead Dealer",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 41907
+      "UsersEstimate": 41908
     },
     {
       "ID": "ACHIEVEMENT_LITTLE_WHEEL",
@@ -27958,7 +27963,7 @@
       "Name": "Love the Bomb",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8381
+      "UsersEstimate": 8382
     },
     {
       "ID": "ACHIEVEMENT_MAKE_UP_YOUR_MIND",
@@ -28030,7 +28035,7 @@
       "Name": "No Gods, No Masters",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 8381
+      "UsersEstimate": 8382
     },
     {
       "ID": "ACHIEVEMENT_NO_TUMBLER_FUMBLER",
@@ -28126,7 +28131,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 41907
+      "UsersEstimate": 41908
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -28174,7 +28179,7 @@
       "Name": "Talent Pool",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 8381
+      "UsersEstimate": 8382
     },
     {
       "ID": "ACHIEVEMENT_THAT_LUCKY_OL_SUN",
@@ -28198,7 +28203,7 @@
       "Name": "The Boss",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 25144
+      "UsersEstimate": 25145
     },
     {
       "ID": "ACHIEVEMENT_THE_COURIER_WHO_BROKE_THE_BANK",
@@ -28270,7 +28275,7 @@
       "Name": "Walker of the Mojave",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 41907
+      "UsersEstimate": 41908
     },
     {
       "ID": "ACHIEVEMENT_WARHEAD_HUNTER",
@@ -28286,7 +28291,7 @@
       "Name": "When We Remembered Zion",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 25144
+      "UsersEstimate": 25145
     },
     {
       "ID": "ACHIEVEMENT_WILD_CARD",
@@ -28294,7 +28299,7 @@
       "Name": "Wild Card",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 8381
+      "UsersEstimate": 8382
     },
     {
       "ID": "ACHIEVEMENT_YOULL_KNOW_WHEN_IT_HAPPENS",
@@ -28317,13 +28322,13 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 838142,
+      "Progressed": 838157,
       "Completed": 239
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 838142,
+      "Progressed": 838157,
       "Completed": 197
     }
   ],
@@ -28331,8 +28336,8 @@
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
   "LastChanged": "2023-11-13T02:59:06.3546533+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:03:25.7167634+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:03:47.7971307+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:54.9763449+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:59:36.9439183+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:03:25.7169391+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:59:27.0357997+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:03:47.7974141+00:00"
 }

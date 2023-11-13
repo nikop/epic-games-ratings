@@ -12,9 +12,9 @@
 | I like you...but I have to kill you... | 85.00% | ~97 |
 | Not so hip anymore! | 83.00% | ~95 |
 | Nerd | 82.00% | ~93 |
-| Blurry depth perception | 81.00% | ~92 |
-| Up and down | 76.00% | ~87 |
-| Rolling, Rolling, Rolling | 73.00% | ~83 |
+| Blurry depth perception | 82.00% | ~93 |
+| Up and down | 77.00% | ~88 |
+| Rolling, Rolling, Rolling | 74.00% | ~84 |
 | Fire-fighter! | 64.00% | ~73 |
 | Oh, you're up to no gouda! | 63.00% | ~72 |
 | Meat grinder | 59.00% | ~67 |

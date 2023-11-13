@@ -2,9 +2,9 @@
   "ID": "e38a7072e15a4f528887c3b887a8bb89",
   "Name": "Outbreak The New Nightmare Revisited",
   "ProductSlug": "outbreak-the-new-nightmare-revisited-90517a",
-  "Ranking_EOS_Progress": 604,
+  "Ranking_EOS_Progress": 598,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-08T15:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -57,6 +57,11 @@
       "Time": "2023-11-12T20:04:07.427431+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T07:04:15.7890646+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-18T22:15:20.387506+00:00",
@@ -83,9 +88,9 @@
       "ID": "EVERY_SHOT_COUNTS_ACH",
       "SetID": "c01b5ga",
       "Name": "Every Shot Counts!",
-      "Percentage": 14,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "HANGING_IN_THERE_ACH",
@@ -99,7 +104,7 @@
       "ID": "HORRIBLE_END_ACH",
       "SetID": "c01b5ga",
       "Name": "Horrible End",
-      "Percentage": 29,
+      "Percentage": 25,
       "XP": 30,
       "UsersEstimate": 2
     },
@@ -115,9 +120,9 @@
       "ID": "NO_FEAR_ACH",
       "SetID": "c01b5ga",
       "Name": "No Fear",
-      "Percentage": 57,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "OPENING_SALVO_ACH",
@@ -131,7 +136,7 @@
       "ID": "SWEET_LIFE_ACH",
       "SetID": "c01b5ga",
       "Name": "Sweet Life",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -139,7 +144,7 @@
       "ID": "TACTICAL_MEASURES_ACH",
       "SetID": "c01b5ga",
       "Name": "Tactical Measures",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 90,
       "UsersEstimate": 1
     },
@@ -164,13 +169,13 @@
     {
       "ID": "c01b5ga",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:03:59.2787339+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:04:15.7890642+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:36.0936228+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:59:51.1284639+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:03:59.2787439+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:59:38.4196882+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:04:15.7890705+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 437,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 202,
-  "Ranking_EOS_NewPlayers": 147,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -5629,9 +5629,9 @@
       "ID": "achievement_6",
       "SetID": "222fo9l",
       "Name": "Greenhouse Effect",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 902
     },
     {
       "ID": "achievement_7",
@@ -5670,8 +5670,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2023-11-12T10:59:45.2493267+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:06:20.8023691+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:06:13.8671043+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.639761+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:00:51.7562685+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:06:20.8024352+00:00"
+  "LastUpdate_Ratings": "2023-11-13T07:00:28.2531591+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:06:13.8671601+00:00"
 }

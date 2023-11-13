@@ -15,11 +15,11 @@ Rating: 4.61 (Ranked 384)
 | There Can Only Be One! | 0.70% | ~38 |
 | Full Ascension | 0.70% | ~38 |
 | Bone Peddler | 0.70% | ~38 |
+| Stronger Together | 0.60% | ~32 |
 | Magical Synergy | 0.60% | ~32 |
 | Seat of Power | 0.60% | ~32 |
 | Chaos Surge | 0.60% | ~32 |
 | Spoils of War | 0.60% | ~32 |
-| Stronger Together | 0.50% | ~27 |
 | In a Liege of Your Own | 0.50% | ~27 |
 | Sehiran Oasis | 0.50% | ~27 |
 | Valley of Wonders | 0.40% | ~22 |
@@ -43,6 +43,7 @@ Rating: 4.61 (Ranked 384)
 | The Creator | 0.20% | ~11 |
 | Crimson Caldera | 0.20% | ~11 |
 | Fiery Friend | 0.20% | ~11 |
+| The Eternal Court | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
 | Snap Out of It! | 0.10% | ~5 |
 | I've Got Everything I Need Right Here | 0.10% | ~5 |
@@ -52,7 +53,6 @@ Rating: 4.61 (Ranked 384)
 | Eternal Lord | 0.10% | ~5 |
 | Against the Odds | 0.10% | ~5 |
 | Manufactured War | 0.10% | ~5 |
-| The Eternal Court | 0.10% | ~5 |
 | Jack of All Tomes | 0.10% | ~5 |
 | Grexolis | 0.10% | ~5 |
 | One for All, All for One | 0.10% | ~5 |

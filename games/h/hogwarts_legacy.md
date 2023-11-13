@@ -51,7 +51,7 @@ Rating: 4.76 (Ranked 125)
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,998 (Ranked 50)  
+Progressed: 302,002 (Ranked 50)  
 Completed: 510 (0.17%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,15 +258,15 @@ Completed: 510 (0.17%) (Ranked 256)
 | 2023-11-10 | 301,822 | 507 |
 | 2023-11-11 | 301,908 | 508 |
 | 2023-11-12 | 301,983 | 510 |
-| 2023-11-13 | 301,998 | 510 |
+| 2023-11-13 | 302,002 | 510 |
 ## Awards
 Max (Character Customization): 24,259  (Ranked 17)  
-Sum: 48,016 (Ranked 30)  
+Sum: 48,049 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 24,259 |
-| This game has Great Boss Battles | 12,288 |
+| This game has Great Boss Battles | 12,316 |
 | This game is Great for Beginners | 1,290 |
 | This game has Amazing Storytelling | 1,244 |
 | This game has Diverse Characters | 1,237 |
@@ -275,7 +275,7 @@ Diff (max vs sum): -13
 | This game has Amazing Characters | 1,201 |
 | This game is Highly Recommended | 1,158 |
 | This game has Quickly Understood Controls | 1,100 |
-| This game has Beautiful Visuals | 1,019 |
+| This game has Beautiful Visuals | 1,024 |
 | This game has a Creative Community | 778 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -514,4 +514,4 @@ Diff (max vs sum): -13
 | 2023-11-10 | 4.76 | 24,162 | 47,810 |
 | 2023-11-11 | 4.76 | 24,188 | 47,880 |
 | 2023-11-12 | 4.76 | 24,229 | 47,981 |
-| 2023-11-13 | 4.76 | 24,259 | 48,016 |
+| 2023-11-13 | 4.76 | 24,259 | 48,049 |

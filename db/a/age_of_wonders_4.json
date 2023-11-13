@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 263,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -7241,9 +7241,9 @@
       "ID": "29",
       "SetID": "3aa2279",
       "Name": "Stronger Together",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "3",
@@ -7337,9 +7337,9 @@
       "ID": "4",
       "SetID": "3aa2279",
       "Name": "The Eternal Court",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 11
     },
     {
       "ID": "40",
@@ -7568,8 +7568,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:04:18.7138474+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:04:32.2217702+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:02:42.3134498+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:04:18.7139333+00:00"
+  "LastUpdate_Ratings": "2023-11-13T07:03:11.3818238+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:04:32.2218503+00:00"
 }

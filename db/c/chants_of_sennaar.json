@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 297,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 186,
   "Ranking_EOS_NewCompleters": 62,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.41,
+  "EOS_Completed_Percentage": 5.4,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2290,6 +2290,11 @@
       "Time": "2023-11-12T23:05:57.3230892+00:00",
       "NumProgressed": 536,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2023-11-13T07:06:19.4263329+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 25,
@@ -2301,7 +2306,7 @@
       "Name": "I did it",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "END_GOOD",
@@ -2317,7 +2322,7 @@
       "Name": "Peace walker",
       "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -2325,7 +2330,7 @@
       "Name": "Cable guy",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "META_FIRST_LINK",
@@ -2347,9 +2352,9 @@
       "ID": "META_RESULT_1-2",
       "SetID": "2gma9an",
       "Name": "Open door",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 86
     },
     {
       "ID": "META_RESULT_1-3",
@@ -2387,9 +2392,9 @@
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -2411,9 +2416,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 113
+      "UsersEstimate": 107
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2435,9 +2440,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 97
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2445,7 +2450,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2500,14 +2505,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 29
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:06:28.0819141+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:06:19.4263323+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-13T06:00:58.5551613+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:06:28.0819517+00:00"
+  "LastUpdate_Ratings": "2023-11-13T07:00:33.7200908+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:06:19.4263588+00:00"
 }

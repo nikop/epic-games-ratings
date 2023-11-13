@@ -799,9 +799,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3416,
+  "EOS_Progressed": 3417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5279,6 +5279,11 @@
       "Time": "2023-11-13T06:03:12.6020853+00:00",
       "NumProgressed": 3416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T07:03:37.0300013+00:00",
+      "NumProgressed": 3417,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -5323,7 +5328,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "achievement_14",
@@ -5331,7 +5336,7 @@
       "Name": "Dealmaker",
       "Percentage": 39,
       "XP": 60,
-      "UsersEstimate": 1332
+      "UsersEstimate": 1333
     },
     {
       "ID": "achievement_15",
@@ -5379,7 +5384,7 @@
       "Name": "Unblockable",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "achievement_20",
@@ -5458,7 +5463,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 3416,
+      "Progressed": 3417,
       "Completed": 0
     }
   ],
@@ -5466,8 +5471,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2023-11-11T13:58:50.4218605+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:03:12.6020848+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:03:37.0300009+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:01.6748405+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:59:29.7178115+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:03:12.6021675+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:59:20.8074604+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:03:37.0300601+00:00"
 }

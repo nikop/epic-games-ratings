@@ -18,7 +18,7 @@ Rating: 4.06 (Ranked 973)
 | Socialite | 26.00% | ~70 |
 | Beggars Would Ride | 25.00% | ~68 |
 | Control is an Illusion | 23.00% | ~62 |
-| The Means to Save It | 19.00% | ~51 |
+| The Means to Save It | 20.00% | ~54 |
 | Resilience to Sin | 17.00% | ~46 |
 | A Familiar Nest | 17.00% | ~46 |
 | Periapt Alizarin | 17.00% | ~46 |
@@ -39,11 +39,11 @@ Rating: 4.06 (Ranked 973)
 | Kitted Out | 3.00% | ~8 |
 | Veteran | 3.00% | ~8 |
 | Master of Carmine | 2.00% | ~5 |
+| Shroudfane Surveyor | 2.00% | ~5 |
 | Backtracker | 2.00% | ~5 |
 | Grand Magnus | 1.00% | ~3 |
 | Master of Ultramarine | 1.00% | ~3 |
 | Master of Malachite | 1.00% | ~3 |
-| Shroudfane Surveyor | 1.00% | ~3 |
 | Tip of the Spear | 1.00% | ~3 |
 | Treasure Hunter | 1.00% | ~3 |
 | Family Business | 0.70% | ~2 |

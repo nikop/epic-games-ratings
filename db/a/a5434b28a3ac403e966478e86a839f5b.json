@@ -1681,9 +1681,9 @@
       "ID": "ACH_eou2",
       "SetID": "51of0eo",
       "Name": "Destroy Strogg Logistical Train",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 190
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_eou3",
@@ -1776,8 +1776,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-13T06:03:16.1777895+00:00",
+  "LastChanged_Achievements": "2023-11-13T07:03:40.0029231+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:16.1042857+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:58:00.53777+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:03:16.1778128+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:58:06.2633534+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:03:40.0029434+00:00"
 }

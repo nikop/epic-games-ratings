@@ -10,10 +10,10 @@ Rating: 4.18 (Ranked 925)
 | Loose Ends | 34.00% | ~25,966 |
 | To the Victor Go the Spoils | 28.00% | ~21,384 |
 | Knighthood | 27.00% | ~20,620 |
-| Get ReQ'd | 25.00% | ~19,092 |
-| Whispered Words | 25.00% | ~19,092 |
+| Get ReQ'd | 25.00% | ~19,093 |
+| Whispered Words | 25.00% | ~19,093 |
 | The Batman Family | 23.00% | ~17,565 |
-| Lock and Key | 22.00% | ~16,801 |
+| Lock and Key | 22.00% | ~16,802 |
 | Something in the Clay | 21.00% | ~16,038 |
 | Quartzer Life Crisis | 21.00% | ~16,038 |
 | Working Hard or Harley Working? | 20.00% | ~15,274 |
@@ -31,9 +31,9 @@ Rating: 4.18 (Ranked 925)
 | Seeking Asylum | 14.00% | ~10,692 |
 | Not On My Watch | 13.00% | ~9,928 |
 | Shock Til They Drop | 13.00% | ~9,928 |
-| End of an Era | 12.00% | ~9,164 |
-| Bulldozed | 12.00% | ~9,164 |
-| Gotham Knight | 12.00% | ~9,164 |
+| End of an Era | 12.00% | ~9,165 |
+| Bulldozed | 12.00% | ~9,165 |
+| Gotham Knight | 12.00% | ~9,165 |
 | Gotham City Confidential | 11.00% | ~8,401 |
 | Drone You Out | 10.00% | ~7,637 |
 | Out of Their League | 9.00% | ~6,873 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,370 (Ranked 97)  
+Progressed: 76,371 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 123 (0.16%) (Ranked 258)
 | 2023-11-10 | 76,243 | 123 |
 | 2023-11-11 | 76,302 | 123 |
 | 2023-11-12 | 76,353 | 123 |
-| 2023-11-13 | 76,370 | 123 |
+| 2023-11-13 | 76,371 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,929  (Ranked 98)  
 Sum: 4,972 (Ranked 137)  

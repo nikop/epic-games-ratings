@@ -4,7 +4,7 @@
   "ProductSlug": "lightracer-spark-5d4d3d",
   "Ranking_EOS_Progress": 740,
   "Ranking_EOS_Completed": 350,
-  "Ranking_EOS_NewPlayers": 453,
+  "Ranking_EOS_NewPlayers": 452,
   "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-11T13:57:27.6263468+00:00",
-  "LastUpdate_Ratings": "2023-11-13T05:57:46.1245006+00:00",
-  "LastUpdate_Achievements": "2023-11-13T06:05:50.5795858+00:00"
+  "LastUpdate_Ratings": "2023-11-13T06:57:53.7868092+00:00",
+  "LastUpdate_Achievements": "2023-11-13T07:05:48.9174456+00:00"
 }
