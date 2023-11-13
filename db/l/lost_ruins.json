@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 303,
   "Ranking_EOS_Completed": 248,
   "Ranking_EOS_NewPlayers": 369,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -1196,9 +1196,9 @@
       "ID": "Librarian",
       "SetID": "82505mn",
       "Name": "Librarian",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 69
     },
     {
       "ID": "Lumberjack",
@@ -1397,8 +1397,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2023-03-31T05:57:58.2772275+00:00",
-  "LastChanged_Achievements": "2023-11-13T01:55:43.6182385+00:00",
+  "LastChanged_Achievements": "2023-11-13T02:31:10.0454588+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:24.1979639+00:00",
-  "LastUpdate_Ratings": "2023-11-13T01:44:32.4667358+00:00",
-  "LastUpdate_Achievements": "2023-11-13T01:55:43.6182651+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:19:26.2475693+00:00",
+  "LastUpdate_Achievements": "2023-11-13T02:31:10.0455004+00:00"
 }

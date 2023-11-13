@@ -30,7 +30,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | War of the Five Kings | 1.00% | ~282 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 28,218 (Ranked 124)  
-Completed: 77 (0.27%) (Ranked 234)  
+Completed: 77 (0.27%) (Ranked 235)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

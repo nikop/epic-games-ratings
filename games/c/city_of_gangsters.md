@@ -5,21 +5,21 @@ Rating: 4.28 (Ranked 849)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,495 |
+| Corner Clout | 47.00% | ~165,496 |
 | Copacetic Coordination | 16.00% | ~56,339 |
-| Fronting the Money | 15.00% | ~52,817 |
-| The Dawn of Automation | 14.00% | ~49,296 |
-| Extraordinary Logistics | 14.00% | ~49,296 |
-| Dirty Money | 13.00% | ~45,775 |
-| Family First | 13.00% | ~45,775 |
+| Fronting the Money | 15.00% | ~52,818 |
+| The Dawn of Automation | 14.00% | ~49,297 |
+| Extraordinary Logistics | 14.00% | ~49,297 |
+| Dirty Money | 13.00% | ~45,776 |
+| Family First | 13.00% | ~45,776 |
 | Cleaning House | 12.00% | ~42,254 |
 | Room in the Back | 12.00% | ~42,254 |
 | Beating the Heat | 11.00% | ~38,733 |
 | Booze Baron | 11.00% | ~38,733 |
 | Friends on the Force | 10.00% | ~35,212 |
 | Neighborhood Watch | 10.00% | ~35,212 |
-| Core Corps | 8.00% | ~28,169 |
-| Sizeable Stash | 8.00% | ~28,169 |
+| Core Corps | 8.00% | ~28,170 |
+| Sizeable Stash | 8.00% | ~28,170 |
 | Street Fighter | 7.00% | ~24,648 |
 | Friendly Gestures | 7.00% | ~24,648 |
 | People Person | 7.00% | ~24,648 |
@@ -41,13 +41,13 @@ Rating: 4.28 (Ranked 849)
 | An Affront to the Enemy | 4.00% | ~14,085 |
 | Friends from Back Home | 4.00% | ~14,085 |
 | Half Century Mark | 4.00% | ~14,085 |
-| Corner Opportunities | 3.00% | ~10,563 |
-| 2122 North Clark Street | 3.00% | ~10,563 |
-| Copious Cabbage | 3.00% | ~10,563 |
-| Sockdolager | 3.00% | ~10,563 |
-| Still Stalwart | 3.00% | ~10,563 |
-| Bees Knees Bootlegger | 3.00% | ~10,563 |
-| Tighten the Screws | 3.00% | ~10,563 |
+| Corner Opportunities | 3.00% | ~10,564 |
+| 2122 North Clark Street | 3.00% | ~10,564 |
+| Copious Cabbage | 3.00% | ~10,564 |
+| Sockdolager | 3.00% | ~10,564 |
+| Still Stalwart | 3.00% | ~10,564 |
+| Bees Knees Bootlegger | 3.00% | ~10,564 |
+| Tighten the Screws | 3.00% | ~10,564 |
 | One of Us | 2.00% | ~7,042 |
 | Baker’s Dozen | 2.00% | ~7,042 |
 | Dropping the Dime | 2.00% | ~7,042 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 849)
 | High Pillow | 0.10% | ~352 |
 | Station Master | 0.10% | ~352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352,116 (Ranked 47)  
+Progressed: 352,120 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -293,7 +293,7 @@ Completed: 7 (0.00%) (Ranked 349)
 | 2023-11-10 | 351,749 | 7 |
 | 2023-11-11 | 351,924 | 7 |
 | 2023-11-12 | 352,103 | 7 |
-| 2023-11-13 | 352,116 | 7 |
+| 2023-11-13 | 352,120 | 7 |
 ## Awards
 Max (Great for Beginners): 44  (Ranked 446)  
 Sum: 188 (Ranked 405)  

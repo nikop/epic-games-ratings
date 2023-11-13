@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 53,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-07-28T15:00:00+00:00",
     "PcReleaseDate": "2022-07-28T15:00:00+00:00",
@@ -2170,9 +2170,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 680602,
+  "EOS_Progressed": 680604,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 1838,
+  "EOS_NewPlayers": 1834,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -25725,6 +25725,11 @@
       "Time": "2023-11-13T01:55:43.1907669+00:00",
       "NumProgressed": 680602,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2023-11-13T02:31:09.535416+00:00",
+      "NumProgressed": 680604,
+      "NumCompleted": 17
     }
   ],
   "TotalAchievements": 54,
@@ -25736,7 +25741,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 537676
+      "UsersEstimate": 537677
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -26040,7 +26045,7 @@
       "Name": "Lawn in the U.S.A.",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 102090
+      "UsersEstimate": 102091
     },
     {
       "ID": "PART_EX_LESS_EXPENSIVE",
@@ -26136,7 +26141,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 122508
+      "UsersEstimate": 122509
     },
     {
       "ID": "RP_TRUSTED",
@@ -26167,15 +26172,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 680602,
+      "Progressed": 680604,
       "Completed": 17
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2023-11-07T10:02:24.1341182+00:00",
-  "LastChanged_Achievements": "2023-11-13T01:55:43.1907667+00:00",
+  "LastChanged_Achievements": "2023-11-13T02:31:09.5354155+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:37.75216+00:00",
-  "LastUpdate_Ratings": "2023-11-13T01:44:51.8141525+00:00",
-  "LastUpdate_Achievements": "2023-11-13T01:55:43.1909122+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:19:51.2935013+00:00",
+  "LastUpdate_Achievements": "2023-11-13T02:31:09.5356308+00:00"
 }

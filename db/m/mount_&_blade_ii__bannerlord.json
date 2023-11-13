@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -8724,9 +8724,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 65016,
+  "EOS_Progressed": 65017,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 446,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -30454,6 +30454,11 @@
       "Time": "2023-11-13T01:55:28.1034134+00:00",
       "NumProgressed": 65016,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T02:30:50.8158098+00:00",
+      "NumProgressed": 65017,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -30505,7 +30510,7 @@
       "Name": "Butterlord",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 5851
+      "UsersEstimate": 5852
     },
     {
       "ID": "Catch",
@@ -30585,7 +30590,7 @@
       "Name": "Freedom!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "God of the Arena",
@@ -30689,7 +30694,7 @@
       "Name": "Landlord",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 21455
+      "UsersEstimate": 21456
     },
     {
       "ID": "Lawbringer",
@@ -30697,7 +30702,7 @@
       "Name": "Lawbringer",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 26006
+      "UsersEstimate": 26007
     },
     {
       "ID": "Lawmaker",
@@ -30713,7 +30718,7 @@
       "Name": "Long live the Empire!",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "Mastery",
@@ -30753,7 +30758,7 @@
       "Name": "Real Estate",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1950
+      "UsersEstimate": 1951
     },
     {
       "ID": "Ride it like you stole it",
@@ -30872,15 +30877,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 65016,
+      "Progressed": 65017,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2023-11-12T22:58:35.3604402+00:00",
-  "LastChanged_Achievements": "2023-11-13T01:55:28.1034132+00:00",
+  "LastChanged_Achievements": "2023-11-13T02:30:50.8158094+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:44.1579981+00:00",
-  "LastUpdate_Ratings": "2023-11-13T01:44:58.7761445+00:00",
-  "LastUpdate_Achievements": "2023-11-13T01:55:28.1035305+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:19:59.4717437+00:00",
+  "LastUpdate_Achievements": "2023-11-13T02:30:50.8159894+00:00"
 }

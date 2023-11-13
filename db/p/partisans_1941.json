@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1637,
+  "EOS_Progressed": 1638,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -3654,6 +3654,11 @@
       "Time": "2023-11-12T22:08:11.5611991+00:00",
       "NumProgressed": 1637,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-13T02:29:40.2455306+00:00",
+      "NumProgressed": 1638,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 30,
@@ -3689,7 +3694,7 @@
       "Name": "The Big Bertha",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Boy",
@@ -3857,7 +3862,7 @@
       "Name": "Mosquito bite",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "Scout",
@@ -3873,7 +3878,7 @@
       "Name": "Strategist",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "War_never_changes",
@@ -3904,15 +3909,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1637,
+      "Progressed": 1638,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2023-11-13T01:53:10.8392707+00:00",
+  "LastChanged_Achievements": "2023-11-13T02:29:40.2455301+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:13.2364177+00:00",
-  "LastUpdate_Ratings": "2023-11-13T01:43:40.2584877+00:00",
-  "LastUpdate_Achievements": "2023-11-13T01:53:10.8392972+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:18:17.1352598+00:00",
+  "LastUpdate_Achievements": "2023-11-13T02:29:40.2455842+00:00"
 }

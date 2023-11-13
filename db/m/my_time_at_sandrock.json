@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 349,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2707,17 +2707,17 @@
       "ID": "C_STAYUP",
       "SetID": "80dcan0",
       "Name": "Panda-kin",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 104
+      "UsersEstimate": 107
     },
     {
       "ID": "C_YEAR",
       "SetID": "80dcan0",
       "Name": "Time Flies",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 57
     },
     {
       "ID": "F_DUEL",
@@ -2851,9 +2851,9 @@
       "ID": "P_ENVIRONMENT",
       "SetID": "80dcan0",
       "Name": "Martle\u0027s Dream",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "P_FOREST",
@@ -3147,9 +3147,9 @@
       "ID": "X_KICK",
       "SetID": "80dcan0",
       "Name": "Newton",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "X_MUSEUM",
@@ -3171,8 +3171,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-13T01:44:25.3774502+00:00",
-  "LastChanged_Achievements": "2023-11-13T01:52:40.166681+00:00",
+  "LastChanged_Achievements": "2023-11-13T02:28:11.9642718+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.2013497+00:00",
-  "LastUpdate_Ratings": "2023-11-13T01:44:25.3774508+00:00",
-  "LastUpdate_Achievements": "2023-11-13T01:52:40.1667235+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:19:16.7046425+00:00",
+  "LastUpdate_Achievements": "2023-11-13T02:28:11.9643407+00:00"
 }

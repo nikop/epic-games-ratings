@@ -7,9 +7,9 @@ Rating: 4.61 (Ranked 384)
 | ---- | ---------- | ----- |
 | But this one is mine | 2.00% | ~108 |
 | Realm Estate | 1.00% | ~54 |
+| A Wonderful Discovery | 1.00% | ~54 |
 | Secret Technique | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
-| A Wonderful Discovery | 0.90% | ~48 |
 | Freed Lands of Manuhari | 0.90% | ~48 |
 | From Friends to Family | 0.80% | ~43 |
 | There Can Only Be One! | 0.70% | ~38 |

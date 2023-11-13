@@ -6,7 +6,7 @@ Rating: 4.75 (Ranked 145)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First of Many | 9.00% | ~19,815 |
-| The Killing Jar | 8.00% | ~17,613 |
+| The Killing Jar | 8.00% | ~17,614 |
 | Expanding Horizons | 7.00% | ~15,412 |
 | Quest for Survival | 7.00% | ~15,412 |
 | Not Your Average Trait | 7.00% | ~15,412 |
@@ -15,15 +15,15 @@ Rating: 4.75 (Ranked 145)
 | Duality | 6.00% | ~13,210 |
 | Boss'n Up | 6.00% | ~13,210 |
 | Trait Chaser | 6.00% | ~13,210 |
-| Not So Special Now | 5.00% | ~11,008 |
-| Not a Janitor | 5.00% | ~11,008 |
-| Equal Measures | 5.00% | ~11,008 |
-| Blue Goddess | 5.00% | ~11,008 |
-| Top Performer | 5.00% | ~11,008 |
-| Shhh...It's a Secret | 5.00% | ~11,008 |
-| Almost There | 5.00% | ~11,008 |
-| Make Some Room | 5.00% | ~11,008 |
-| Good, But Could Be Better! | 5.00% | ~11,008 |
+| Not So Special Now | 5.00% | ~11,009 |
+| Not a Janitor | 5.00% | ~11,009 |
+| Equal Measures | 5.00% | ~11,009 |
+| Blue Goddess | 5.00% | ~11,009 |
+| Top Performer | 5.00% | ~11,009 |
+| Shhh...It's a Secret | 5.00% | ~11,009 |
+| Almost There | 5.00% | ~11,009 |
+| Make Some Room | 5.00% | ~11,009 |
+| Good, But Could Be Better! | 5.00% | ~11,009 |
 | Chaos | 4.00% | ~8,807 |
 | Traitor | 4.00% | ~8,807 |
 | Power Surge | 4.00% | ~8,807 |
@@ -56,8 +56,8 @@ Rating: 4.75 (Ranked 145)
 | Cutting Edge | 1.00% | ~2,202 |
 | Proving Grounds | 1.00% | ~2,202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 220,168 (Ranked 68)  
-Completed: 441 (0.20%) (Ranked 248)  
+Progressed: 220,172 (Ranked 68)  
+Completed: 442 (0.20%) (Ranked 248)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,18 +176,18 @@ Completed: 441 (0.20%) (Ranked 248)
 | 2023-11-10 | 219,442 | 438 |
 | 2023-11-11 | 219,801 | 439 |
 | 2023-11-12 | 220,140 | 441 |
-| 2023-11-13 | 220,168 | 441 |
+| 2023-11-13 | 220,172 | 442 |
 ## Awards
 Max (Great Boss Battles): 2,158  (Ranked 109)  
-Sum: 4,872 (Ranked 139)  
+Sum: 4,875 (Ranked 139)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,158 |
 | This game has Diverse Characters | 311 |
 | This game has Challenging Combat | 300 |
+| This game is Relaxing | 294 |
 | This game is Extremely Fun | 292 |
-| This game is Relaxing | 291 |
 | This game is Highly Recommended | 288 |
 | This game has Amazing Storytelling | 273 |
 | This game has Quickly Understood Controls | 268 |
@@ -307,4 +307,4 @@ Diff (max vs sum): -30
 | 2023-11-10 | 4.75 | 2,129 | 4,800 |
 | 2023-11-11 | 4.75 | 2,144 | 4,827 |
 | 2023-11-12 | 4.75 | 2,158 | 4,870 |
-| 2023-11-13 | 4.75 | 2,158 | 4,872 |
+| 2023-11-13 | 4.75 | 2,158 | 4,875 |

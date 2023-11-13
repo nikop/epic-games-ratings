@@ -32,12 +32,12 @@ Number of Ratings: 37  (23.09.2022)
 | Builder II | 5.00% | ~217 |
 | Tax-man III | 5.00% | ~217 |
 | Conflicting parties | 5.00% | ~217 |
+| Another one bites the dust | 4.00% | ~174 |
 | Experienced decorator | 4.00% | ~174 |
 | An honorable Governor II | 4.00% | ~174 |
 | Full-time job III | 4.00% | ~174 |
 | Tax-man IV | 4.00% | ~174 |
 | A time consuming game III | 4.00% | ~174 |
-| Another one bites the dust | 3.00% | ~130 |
 | Bread for the people III | 3.00% | ~130 |
 | I like to build stuff... IV | 3.00% | ~130 |
 | The King's new clothes II | 3.00% | ~130 |

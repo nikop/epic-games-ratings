@@ -6,42 +6,42 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~27,019 |
-| The Evilest Evil | 58.00% | ~22,387 |
-| Twistram is devastated | 58.00% | ~22,387 |
-| The Gehenna Stones | 50.00% | ~19,299 |
-| No one has to die today! | 46.00% | ~17,755 |
-| Death and destruction! | 46.00% | ~17,755 |
-| The Swamplanders from the swamplands | 44.00% | ~16,983 |
-| The One-Huge-Army-Building Evil | 41.00% | ~15,825 |
-| Rusty Steel | 41.00% | ~15,825 |
-| Braiiiiins! | 38.00% | ~14,667 |
-| The last burger | 37.00% | ~14,281 |
-| Hands off the Dungeonheart! | 36.00% | ~13,895 |
-| A trip on sea, what fun it can be | 34.00% | ~13,123 |
-| Damned good | 33.00% | ~12,737 |
-| Stock Market Crash | 31.00% | ~11,965 |
-| Factory farming | 31.00% | ~11,965 |
-| Not-So-Overproud | 30.00% | ~11,579 |
-| Shadow hunter | 29.00% | ~11,193 |
-| For a handfull of Catapults | 28.00% | ~10,807 |
-| Thirst quencher | 27.00% | ~10,421 |
-| Ogre Solo! | 27.00% | ~10,421 |
-| Destroy the thing | 26.00% | ~10,035 |
-| Tide Master | 26.00% | ~10,035 |
-| Difficult family relationships | 25.00% | ~9,650 |
-| MASS-O-BOT | 24.00% | ~9,264 |
-| Prepare the grave | 24.00% | ~9,264 |
-| Angel of Fire | 24.00% | ~9,264 |
-| Where there is Light, there is Shadow | 23.00% | ~8,878 |
-| At the foot of Mount Destiny | 22.00% | ~8,492 |
-| The Force disturbed | 21.00% | ~8,106 |
-| The Victorious Evil | 20.00% | ~7,720 |
-| Chorus of damnation | 19.00% | ~7,334 |
-| We don’t have time! | 19.00% | ~7,334 |
-| The Stones’ Power | 18.00% | ~6,948 |
-| Flat as a pancake | 17.00% | ~6,562 |
-| Lifeguard | 17.00% | ~6,562 |
+| The Shadow strikes | 70.00% | ~27,022 |
+| The Evilest Evil | 58.00% | ~22,390 |
+| Twistram is devastated | 58.00% | ~22,390 |
+| The Gehenna Stones | 50.00% | ~19,302 |
+| No one has to die today! | 46.00% | ~17,757 |
+| Death and destruction! | 46.00% | ~17,757 |
+| The Swamplanders from the swamplands | 44.00% | ~16,985 |
+| The One-Huge-Army-Building Evil | 41.00% | ~15,827 |
+| Rusty Steel | 41.00% | ~15,827 |
+| Braiiiiins! | 38.00% | ~14,669 |
+| The last burger | 37.00% | ~14,283 |
+| Hands off the Dungeonheart! | 36.00% | ~13,897 |
+| A trip on sea, what fun it can be | 34.00% | ~13,125 |
+| Damned good | 33.00% | ~12,739 |
+| Stock Market Crash | 31.00% | ~11,967 |
+| Factory farming | 31.00% | ~11,967 |
+| Not-So-Overproud | 30.00% | ~11,581 |
+| Shadow hunter | 29.00% | ~11,195 |
+| For a handfull of Catapults | 28.00% | ~10,809 |
+| Thirst quencher | 27.00% | ~10,423 |
+| Ogre Solo! | 27.00% | ~10,423 |
+| Destroy the thing | 26.00% | ~10,037 |
+| Tide Master | 26.00% | ~10,037 |
+| Difficult family relationships | 25.00% | ~9,651 |
+| MASS-O-BOT | 24.00% | ~9,265 |
+| Prepare the grave | 24.00% | ~9,265 |
+| Angel of Fire | 24.00% | ~9,265 |
+| Where there is Light, there is Shadow | 23.00% | ~8,879 |
+| At the foot of Mount Destiny | 22.00% | ~8,493 |
+| The Force disturbed | 21.00% | ~8,107 |
+| The Victorious Evil | 20.00% | ~7,721 |
+| Chorus of damnation | 19.00% | ~7,335 |
+| We don’t have time! | 19.00% | ~7,335 |
+| The Stones’ Power | 18.00% | ~6,949 |
+| Flat as a pancake | 17.00% | ~6,563 |
+| Lifeguard | 17.00% | ~6,563 |
 | Can’t stand the sight of Dark Elf blood | 15.00% | ~5,790 |
 | This is fun, I’m going to keep doing this! | 12.00% | ~4,632 |
 | Then let them eat cake! | 12.00% | ~4,632 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~772 |
 | Sacrifices! | 2.00% | ~772 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 38,598 (Ranked 119)  
+Progressed: 38,603 (Ranked 119)  
 Completed: 311 (0.81%) (Ranked 172)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 311 (0.81%) (Ranked 172)
 | 2023-11-10 | 37,680 | 307 |
 | 2023-11-11 | 38,122 | 309 |
 | 2023-11-12 | 38,578 | 311 |
-| 2023-11-13 | 38,598 | 311 |
+| 2023-11-13 | 38,603 | 311 |
 ## Awards
 Max (Great for Beginners): 371  (Ranked 233)  
 Sum: 2,734 (Ranked 181)  

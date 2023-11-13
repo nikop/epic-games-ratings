@@ -23,8 +23,8 @@
 | The Relentless Storm | 46.00% | ~307 |
 | A Tragic Reminder | 44.00% | ~294 |
 | 3000 Year Blackout | 43.00% | ~287 |
+| True Legends | 41.00% | ~274 |
 | The Finisher | 41.00% | ~274 |
-| True Legends | 40.00% | ~267 |
 | So Close | 39.00% | ~261 |
 | You Get Used To It | 38.00% | ~254 |
 | Bullseye | 36.00% | ~240 |

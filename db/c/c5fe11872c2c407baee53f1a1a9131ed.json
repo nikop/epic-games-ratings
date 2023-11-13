@@ -2,10 +2,10 @@
   "ID": "c5fe11872c2c407baee53f1a1a9131ed",
   "Name": "SPINGUN",
   "ProductSlug": "spingun-843f78",
-  "Ranking_EOS_Progress": 390,
+  "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 349,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 130,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-02T04:00:00+00:00",
     "PcReleaseDate": "2016-11-11T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -739,6 +739,11 @@
       "Time": "2023-11-12T17:08:22.3651068+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-13T02:29:46.1921566+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -806,7 +811,7 @@
       "Name": "Customize Ship",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ach_endless_120",
@@ -822,15 +827,15 @@
       "Name": "Endless 30 Seconds",
       "Percentage": 68,
       "XP": 35,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "ach_endless_60",
       "SetID": "5a4225j",
       "Name": "Endless 60 Seconds",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 35,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_endless_c_60",
@@ -934,7 +939,7 @@
       "Name": "Won Spreader Zone",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "ach_toosoon",
@@ -957,14 +962,14 @@
     {
       "ID": "5a4225j",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-27T14:59:58.9719434+00:00",
   "FirstSeenAchievements": "2023-06-02T21:05:45.273905+00:00",
-  "LastChanged_Achievements": "2023-11-13T01:54:36.5252336+00:00",
+  "LastChanged_Achievements": "2023-11-13T02:29:46.1921562+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.1060036+00:00",
-  "LastUpdate_Ratings": "2023-11-13T01:45:49.1342135+00:00",
-  "LastUpdate_Achievements": "2023-11-13T01:54:36.525248+00:00"
+  "LastUpdate_Ratings": "2023-11-13T02:21:09.4646314+00:00",
+  "LastUpdate_Achievements": "2023-11-13T02:29:46.1921814+00:00"
 }

@@ -6,35 +6,35 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 37.00% | ~241,009 |
-| Into the Unknown | 34.00% | ~221,468 |
-| First Shot | 34.00% | ~221,468 |
-| Herzlich Wilkommen! | 32.00% | ~208,441 |
-| Good Night & Good Luck | 32.00% | ~208,441 |
-| Sancho Panza | 31.00% | ~201,927 |
+| You Never Forget Your First... | 37.00% | ~241,011 |
+| Into the Unknown | 34.00% | ~221,469 |
+| First Shot | 34.00% | ~221,469 |
+| Herzlich Wilkommen! | 32.00% | ~208,442 |
+| Good Night & Good Luck | 32.00% | ~208,442 |
+| Sancho Panza | 31.00% | ~201,928 |
 | Oh, So This Is How It Works! | 28.00% | ~182,386 |
-| Flag Burning | 26.00% | ~169,358 |
-| Under Pressure | 24.00% | ~156,330 |
-| On the Trail of the Enemy | 24.00% | ~156,330 |
-| It Wasn't That Hard, Was It? | 24.00% | ~156,330 |
-| Can't Touch This! | 24.00% | ~156,330 |
+| Flag Burning | 26.00% | ~169,359 |
+| Under Pressure | 24.00% | ~156,331 |
+| On the Trail of the Enemy | 24.00% | ~156,331 |
+| It Wasn't That Hard, Was It? | 24.00% | ~156,331 |
+| Can't Touch This! | 24.00% | ~156,331 |
 | Light in the Darkness | 23.00% | ~149,817 |
 | Get Outta My House! | 23.00% | ~149,817 |
-| Night Hunter | 22.00% | ~143,303 |
-| Being All Social | 21.00% | ~136,789 |
+| Night Hunter | 22.00% | ~143,304 |
+| Being All Social | 21.00% | ~136,790 |
 | After the Fall | 19.00% | ~123,762 |
 | We Will Be Heard! | 18.00% | ~117,248 |
-| Tunnel Entrance | 17.00% | ~110,734 |
-| Known Associate | 16.00% | ~104,220 |
-| Brush with Death | 16.00% | ~104,220 |
+| Tunnel Entrance | 17.00% | ~110,735 |
+| Known Associate | 16.00% | ~104,221 |
+| Brush with Death | 16.00% | ~104,221 |
 | Debris and Ashes | 15.00% | ~97,707 |
 | Going Down | 15.00% | ~97,707 |
 | Family First | 15.00% | ~97,707 |
 | Your World, Your Rules | 14.00% | ~91,193 |
 | Death From Afar | 14.00% | ~91,193 |
 | Terminal Headache | 14.00% | ~91,193 |
-| Slowpoke! | 12.00% | ~78,165 |
-| Tickets, Please! | 7.00% | ~45,596 |
+| Slowpoke! | 12.00% | ~78,166 |
+| Tickets, Please! | 7.00% | ~45,597 |
 | Parkour Master | 6.00% | ~39,083 |
 | Combat Master | 6.00% | ~39,083 |
 | Municipal Services | 5.00% | ~32,569 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~297 |
 | Connoisseur | 0.10% | ~297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 651,377 (Ranked 29)  
+Progressed: 651,380 (Ranked 29)  
 Completed: 67 (0.01%) (Ranked 327)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 67 (0.01%) (Ranked 327)
 | 2023-11-10 | 650,134 | 67 |
 | 2023-11-11 | 650,733 | 67 |
 | 2023-11-12 | 651,313 | 67 |
-| 2023-11-13 | 651,377 | 67 |
+| 2023-11-13 | 651,380 | 67 |
 ## Awards
 Max (Character Customization): 10,023  (Ranked 39)  
 Sum: 25,216 (Ranked 52)  

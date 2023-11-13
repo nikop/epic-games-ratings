@@ -33,27 +33,27 @@ Number of Ratings: 892  (23.09.2022)
 | First Love | 38.00% | ~119 |
 | Better Late than Never | 37.00% | ~116 |
 | Anti-Santa | 37.00% | ~116 |
+| Panda-kin | 34.00% | ~107 |
 | Finishing Touches | 34.00% | ~107 |
-| Panda-kin | 33.00% | ~104 |
 | Officially Official | 33.00% | ~104 |
 | Builder of the Month | 32.00% | ~100 |
 | Who Ya Gonna Call...? | 32.00% | ~100 |
 | Bridging the Gap | 31.00% | ~97 |
 | Waste Not Want Not | 29.00% | ~91 |
+| Martle's Dream | 28.00% | ~88 |
 | Commissions, commissions...! | 27.00% | ~85 |
-| Martle's Dream | 27.00% | ~85 |
 | Jewel of the Eufaula | 27.00% | ~85 |
 | He Can Spin A Yarn... | 26.00% | ~82 |
 | Elementary, My Dear | 25.00% | ~78 |
 | Got the Flow Back | 25.00% | ~78 |
 | Lifeline Pipeline | 23.00% | ~72 |
 | Do Your Part | 22.00% | ~69 |
-| Newton | 21.00% | ~66 |
+| Newton | 22.00% | ~69 |
 | Kind of a Big Deal | 19.00% | ~60 |
+| Time Flies | 18.00% | ~57 |
 | Sepia Toned Memories | 18.00% | ~57 |
 | Santa In Training | 18.00% | ~57 |
 | Just What I Always Wanted! | 18.00% | ~57 |
-| Time Flies | 17.00% | ~53 |
 | It Belongs in a Museum! | 17.00% | ~53 |
 | Sandrunning Speedster | 16.00% | ~50 |
 | Pro Gamer | 15.00% | ~47 |

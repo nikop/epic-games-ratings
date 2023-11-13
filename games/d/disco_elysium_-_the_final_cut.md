@@ -6,8 +6,8 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~36,608 |
-| Biggest Communism Builder | 24.00% | ~31,378 |
+| Goodest Of The Good Cops | 28.00% | ~36,609 |
+| Biggest Communism Builder | 24.00% | ~31,379 |
 | The World's Most Laughable Centrist | 21.00% | ~27,456 |
 | Il Coppo Del'Arte! | 18.00% | ~23,534 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~20,919 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~131 |
 | What body? | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 130,743 (Ranked 81)  
+Progressed: 130,745 (Ranked 81)  
 Completed: 28 (0.02%) (Ranked 318)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -254,7 +254,7 @@ Completed: 28 (0.02%) (Ranked 318)
 | 2023-11-10 | 130,667 | 28 |
 | 2023-11-11 | 130,697 | 28 |
 | 2023-11-12 | 130,740 | 28 |
-| 2023-11-13 | 130,743 | 28 |
+| 2023-11-13 | 130,745 | 28 |
 ## Awards
 Max (Character Customization): 737  (Ranked 177)  
 Sum: 1,117 (Ranked 250)  

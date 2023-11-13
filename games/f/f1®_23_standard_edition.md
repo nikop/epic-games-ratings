@@ -5,11 +5,11 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,301 |
-| On the Top Step | 86.00% | ~4,902 |
-| Setting up for Success | 75.00% | ~4,275 |
-| Team Orders | 74.00% | ~4,218 |
-| Engineer | 53.00% | ~3,021 |
+| Getting on the Step | 93.00% | ~5,302 |
+| On the Top Step | 86.00% | ~4,903 |
+| Setting up for Success | 75.00% | ~4,276 |
+| Team Orders | 74.00% | ~4,219 |
+| Engineer | 53.00% | ~3,022 |
 | Familiar Faces | 47.00% | ~2,679 |
 | Going the Extra Mile | 41.00% | ~2,337 |
 | Sharing the Love | 40.00% | ~2,280 |
@@ -50,12 +50,12 @@ Rating: 4.69 (Ranked 231)
 | Saturday Night Drama | 1.00% | ~57 |
 | Media Darling | 1.00% | ~57 |
 | Under the Microscope | 0.90% | ~51 |
-| Ultimate Collector | 0.50% | ~28 |
+| Ultimate Collector | 0.50% | ~29 |
 | Golden Touch | 0.30% | ~17 |
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,700 (Ranked 181)  
+Progressed: 5,701 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 349)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -116,7 +116,7 @@ Completed: 0 (0.00%) (Ranked 349)
 | 2023-11-10 | 5,572 | 0 |
 | 2023-11-11 | 5,656 | 0 |
 | 2023-11-12 | 5,698 | 0 |
-| 2023-11-13 | 5,700 | 0 |
+| 2023-11-13 | 5,701 | 0 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 501)  
 Sum: 72 (Ranked 463)  
