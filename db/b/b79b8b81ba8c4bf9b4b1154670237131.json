@@ -4,7 +4,7 @@
   "ProductSlug": "atom-eve-ff090d",
   "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -322,8 +322,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:05:09.3988415+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:06:56.2757913+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.7048707+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:59:54.6850295+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:05:09.3988689+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:01:35.0401269+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:06:56.2758093+00:00"
 }

@@ -181,7 +181,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7761,
+  "EOS_Progressed": 7762,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
@@ -6711,6 +6711,11 @@
       "Time": "2023-11-14T05:09:03.0337077+00:00",
       "NumProgressed": 7761,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T06:10:02.6986788+00:00",
+      "NumProgressed": 7762,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -6723,7 +6728,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 5588
+      "UsersEstimate": 5589
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -6731,7 +6736,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 5510
+      "UsersEstimate": 5511
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -6811,7 +6816,7 @@
       "Name": "Lumberjack",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "COLLECT_MINERALS",
@@ -6819,7 +6824,7 @@
       "Name": "Miner 49er",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3337
+      "UsersEstimate": 3338
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -6875,7 +6880,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 4734
+      "UsersEstimate": 4735
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -6947,7 +6952,7 @@
       "Name": "Botanical Breakthrough",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1319
+      "UsersEstimate": 1320
     },
     {
       "ID": "SPEND_FIRSTYEAR",
@@ -6995,29 +7000,29 @@
       "Name": "Skilled",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 7761,
+      "Progressed": 7762,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 378,
-      "Completed": 378
+      "Progressed": 379,
+      "Completed": 379
     }
   ],
   "FirstSeen": "2023-09-08T18:58:05.6558906+00:00",
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2023-11-10T18:02:39.5143602+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:09:03.0337069+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:10:02.6986784+00:00",
   "LastUpdate_AppInfo": "2023-11-10T07:57:05.5027637+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:02:42.2744502+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:09:03.0337784+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:03:25.0655151+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:10:02.6987443+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 82,
   "Ranking_EOS_Completed": 169,
-  "Ranking_EOS_NewPlayers": 74,
+  "Ranking_EOS_NewPlayers": 76,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
@@ -307,9 +307,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 129700,
+  "EOS_Progressed": 129701,
   "EOS_Completed": 1111,
-  "EOS_NewPlayers": 1080,
+  "EOS_NewPlayers": 1076,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -23912,6 +23912,11 @@
       "Time": "2023-11-14T05:04:50.0415188+00:00",
       "NumProgressed": 129700,
       "NumCompleted": 1111
+    },
+    {
+      "Time": "2023-11-14T06:06:29.5357295+00:00",
+      "NumProgressed": 129701,
+      "NumCompleted": 1111
     }
   ],
   "TotalAchievements": 34,
@@ -23979,7 +23984,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 103760
+      "UsersEstimate": 103761
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -23995,7 +24000,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 72632
+      "UsersEstimate": 72633
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -24194,7 +24199,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 129700,
+      "Progressed": 129701,
       "Completed": 1111
     }
   ],
@@ -24202,8 +24207,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2023-11-12T21:57:18.5608481+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:04:50.0415183+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:06:29.535729+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:26.6624381+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:57:51.4171733+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:04:50.0417292+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:58:28.292722+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:06:29.5358498+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "battlefield-v-definitive-edition",
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 61,
+  "Ranking_EOS_NewPlayers": 62,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-06-03T12:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 19731,
+  "EOS_Progressed": 19732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1405,
+  "EOS_NewPlayers": 1402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6483,6 +6483,11 @@
       "Time": "2023-11-14T05:08:49.7875876+00:00",
       "NumProgressed": 19731,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T06:09:43.8848722+00:00",
+      "NumProgressed": 19732,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -6527,7 +6532,7 @@
       "Name": "Grim Reaper",
       "Percentage": 74,
       "XP": 30,
-      "UsersEstimate": 14601
+      "UsersEstimate": 14602
     },
     {
       "ID": "achievement_14",
@@ -6543,7 +6548,7 @@
       "Name": "Combat Engineer",
       "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 10457
+      "UsersEstimate": 10458
     },
     {
       "ID": "achievement_16",
@@ -6551,7 +6556,7 @@
       "Name": "Heads Down",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 14206
+      "UsersEstimate": 14207
     },
     {
       "ID": "achievement_17",
@@ -6567,7 +6572,7 @@
       "Name": "Eager Beaver",
       "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 9076
+      "UsersEstimate": 9077
     },
     {
       "ID": "achievement_19",
@@ -6599,7 +6604,7 @@
       "Name": "Not On My Watch",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 13614
+      "UsersEstimate": 13615
     },
     {
       "ID": "achievement_3",
@@ -6662,13 +6667,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 19731,
+      "Progressed": 19732,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:08:49.7875871+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:09:43.8848718+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.7937389+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:58:29.489515+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:08:49.7876462+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:59:26.381444+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:09:43.8849172+00:00"
 }

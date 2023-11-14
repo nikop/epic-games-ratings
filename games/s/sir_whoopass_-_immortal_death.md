@@ -46,7 +46,7 @@
 | Your daily dose of Vitamin C. | 23.00% | ~27 |
 | You're not so Big anymore, Boi! | 22.00% | ~26 |
 | I cant stand still! | 21.00% | ~25 |
-| Master Butcher | 17.00% | ~20 |
+| Master Butcher | 18.00% | ~21 |
 | Just wing it! | 17.00% | ~20 |
 | Deal with it | 17.00% | ~20 |
 | Slimy... yet satisfying | 17.00% | ~20 |
@@ -63,9 +63,9 @@
 | Scrambled Eggs | 8.00% | ~9 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~8 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~6 |
+| Ancient Ruins of Leaky Roof | 5.00% | ~6 |
 | Ancient Ruins of Misplaced Belongings | 4.00% | ~5 |
 | Ancient Ruins of Poor Intrusion Prevention | 4.00% | ~5 |
-| Ancient Ruins of Leaky Roof | 4.00% | ~5 |
 | Fifty Shades of Gruyere | 3.00% | ~4 |
 | Ancient Ruins of Empty Echoes | 3.00% | ~4 |
 | Ancient Ruins of Vitamin D Addition | 3.00% | ~4 |

@@ -117,9 +117,9 @@
       "ID": "Ach-02-brouk",
       "SetID": "2pjo9pi",
       "Name": "Brouk",
-      "Percentage": 29,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "Ach-02-dzin",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:06:01.8596772+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:08:10.1524188+00:00",
   "LastUpdate_AppInfo": "2023-11-08T16:57:11.9520602+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:00:20.8338297+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:06:01.8597268+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:02:14.8754078+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:08:10.1524515+00:00"
 }

@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | King of Kings | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,142 (Ranked 41)  
+Progressed: 455,159 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,142 | 1 |
+| 2023-11-14 | 455,159 | 1 |
 ## Awards
 Max (Educational): 6,981  (Ranked 54)  
 Sum: 57,462 (Ranked 24)  

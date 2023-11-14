@@ -1647,9 +1647,9 @@
       "Count": 244
     }
   ],
-  "EOS_Progressed": 52699,
+  "EOS_Progressed": 52700,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1091,
+  "EOS_NewPlayers": 1083,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7972,6 +7972,11 @@
       "Time": "2023-11-14T05:04:12.1640473+00:00",
       "NumProgressed": 52699,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T06:05:36.1683253+00:00",
+      "NumProgressed": 52700,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:32.177699+00:00",
@@ -8008,7 +8013,7 @@
       "Name": "PlayStyles\u002B",
       "Percentage": 62,
       "XP": 30,
-      "UsersEstimate": 32673
+      "UsersEstimate": 32674
     },
     {
       "ID": "achievement_13",
@@ -8016,7 +8021,7 @@
       "Name": "Squad Building Completionist",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 27930
+      "UsersEstimate": 27931
     },
     {
       "ID": "achievement_14",
@@ -8024,7 +8029,7 @@
       "Name": "The Alchemist",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 26876
+      "UsersEstimate": 26877
     },
     {
       "ID": "achievement_15",
@@ -8048,7 +8053,7 @@
       "Name": "One Moment Please!",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 31619
+      "UsersEstimate": 31620
     },
     {
       "ID": "achievement_18",
@@ -8088,7 +8093,7 @@
       "Name": "We\u0027re in the Game!",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 44267
+      "UsersEstimate": 44268
     },
     {
       "ID": "achievement_22",
@@ -8096,7 +8101,7 @@
       "Name": "Level Up!",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 28457
+      "UsersEstimate": 28458
     },
     {
       "ID": "achievement_23",
@@ -8136,7 +8141,7 @@
       "Name": "Top of the Pyramid",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_28",
@@ -8256,7 +8261,7 @@
       "Name": "Football is Everything",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "achievement_5",
@@ -8272,7 +8277,7 @@
       "Name": "Dead-ball specialist",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 31092
+      "UsersEstimate": 31093
     },
     {
       "ID": "achievement_7",
@@ -8288,7 +8293,7 @@
       "Name": "Power Shot",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 38997
+      "UsersEstimate": 38998
     },
     {
       "ID": "achievement_9",
@@ -8303,7 +8308,7 @@
     {
       "ID": "3o4m6ni",
       "IsBase": true,
-      "Progressed": 52699,
+      "Progressed": 52700,
       "Completed": 0
     }
   ],
@@ -8311,8 +8316,8 @@
   "FirstSeenRating": "2023-09-29T21:57:05.663964+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:06.7059305+00:00",
   "LastChanged": "2023-11-14T03:59:03.2093247+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:04:12.1640466+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:05:36.1683247+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.8674427+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:58:16.6001657+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:04:12.1641282+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:59:06.7495824+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:05:36.1683717+00:00"
 }

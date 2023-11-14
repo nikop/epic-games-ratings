@@ -4,7 +4,7 @@
   "ProductSlug": "scourgebringer",
   "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2020-10-21T14:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:08.8374887+00:00",
   "LastChanged": "2023-03-31T05:58:08.8374888+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:25.940396+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:57:47.2076264+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:04:26.8125848+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:58:21.9003873+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:05:56.6587489+00:00"
 }

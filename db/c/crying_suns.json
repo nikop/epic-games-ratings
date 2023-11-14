@@ -643,9 +643,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 470825,
+  "EOS_Progressed": 470826,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22363,6 +22363,11 @@
       "Time": "2023-11-14T01:54:08.6940716+00:00",
       "NumProgressed": 470825,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2023-11-14T06:10:21.3240838+00:00",
+      "NumProgressed": 470826,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 79,
@@ -22414,7 +22419,7 @@
       "Name": "Chapter III: The Man Who Sold the World",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 47082
+      "UsersEstimate": 47083
     },
     {
       "ID": "achievement_story_complete_chapter_4",
@@ -22462,7 +22467,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 310744
+      "UsersEstimate": 310745
     },
     {
       "ID": "achievement_story_landa",
@@ -22558,7 +22563,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 160080
+      "UsersEstimate": 160081
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -22814,7 +22819,7 @@
       "Name": "Survivor",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 9416
+      "UsersEstimate": 9417
     },
     {
       "ID": "achievement_win_expedition_with_monster_noloss",
@@ -23005,21 +23010,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 14759,
+      "Progressed": 14760,
       "Completed": 2359
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 470825,
+      "Progressed": 470826,
       "Completed": 20
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2023-11-08T16:59:37.6536998+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:09:16.9023159+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:10:21.3240834+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:33.3324305+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:57:36.7870967+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:09:16.9025419+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:58:05.8951341+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:10:21.3242585+00:00"
 }

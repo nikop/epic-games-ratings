@@ -889,9 +889,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 7462,
+  "EOS_Progressed": 7464,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 347,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -6994,6 +6994,11 @@
       "Time": "2023-11-14T05:03:34.7753767+00:00",
       "NumProgressed": 7462,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2023-11-14T06:04:43.6015993+00:00",
+      "NumProgressed": 7464,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 45,
@@ -7013,7 +7018,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 1716
+      "UsersEstimate": 1717
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -7021,7 +7026,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 3507
+      "UsersEstimate": 3508
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -7117,7 +7122,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 2462
+      "UsersEstimate": 2463
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -7133,7 +7138,7 @@
       "Name": "Insubordination",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 1492
+      "UsersEstimate": 1493
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -7149,7 +7154,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -7189,7 +7194,7 @@
       "Name": "\u0022O La Vittoria, O Tutti Accoppati\u0022",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ISONZO_ACH_PEAK_PERFORMANCE",
@@ -7197,7 +7202,7 @@
       "Name": "Peak Performance",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 3880
+      "UsersEstimate": 3881
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -7213,7 +7218,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1343
+      "UsersEstimate": 1344
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -7237,7 +7242,7 @@
       "Name": "Seeing Red",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ISONZO_ACH_SHAKEN_NOT_STIRRED",
@@ -7277,7 +7282,7 @@
       "Name": "The Devil\u0027s Paintbrush",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "ISONZO_ACH_THE_ENLIGHTMENT",
@@ -7333,7 +7338,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 4029
+      "UsersEstimate": 4031
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -7357,14 +7362,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 3955
+      "UsersEstimate": 3956
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 7462,
+      "Progressed": 7464,
       "Completed": 9
     }
   ],
@@ -7372,8 +7377,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2023-11-11T11:59:27.2058596+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:03:34.7753762+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:04:43.6015987+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:36.9732298+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:00:27.4270178+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:03:34.7754457+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:02:25.1089473+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:04:43.6016713+00:00"
 }

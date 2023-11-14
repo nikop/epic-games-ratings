@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 228,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 50,
+  "Ranking_EOS_NewPlayers": 51,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
@@ -2795,9 +2795,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 662411,
+  "EOS_Progressed": 662414,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1926,
+  "EOS_NewPlayers": 1924,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26445,6 +26445,11 @@
       "Time": "2023-11-14T05:08:51.9154709+00:00",
       "NumProgressed": 662411,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-14T06:09:46.8581323+00:00",
+      "NumProgressed": 662414,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -26464,7 +26469,7 @@
       "Name": "Hiker",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 79489
+      "UsersEstimate": 79490
     },
     {
       "ID": "_01_02_DISTANCE_500_EASY",
@@ -26496,7 +26501,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119234
+      "UsersEstimate": 119235
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -26504,7 +26509,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 86113
+      "UsersEstimate": 86114
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -26512,7 +26517,7 @@
       "Name": "Advanced Voyager",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 26496
+      "UsersEstimate": 26497
     },
     {
       "ID": "_01_08_DISTANCE_1000_MEDIUM",
@@ -26536,7 +26541,7 @@
       "Name": "Expert Stroller",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 26496
+      "UsersEstimate": 26497
     },
     {
       "ID": "_01_11_DISTANCE_200_HARD",
@@ -26871,15 +26876,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 662411,
+      "Progressed": 662414,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-12T10:00:29.2688318+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:08:51.9154704+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:09:46.8581316+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9318396+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:57:38.7945671+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:08:51.9156464+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:58:08.8466254+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:09:46.8583429+00:00"
 }

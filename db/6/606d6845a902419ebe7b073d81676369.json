@@ -4,10 +4,10 @@
   "ProductSlug": "life-makeover-8e3f9f",
   "Ranking_EOS_Progress": 741,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
-    "ReleaseDate": "2023-11-30T02:30:00+00:00",
+    "ReleaseDate": "2023-11-15T02:30:00+00:00",
     "PcReleaseDate": "2023-11-15T02:30:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-07T18:56:52.640966+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:00:04.6889915+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:08:19.1601743+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:01:50.3093539+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:09:01.1172574+00:00"
 }

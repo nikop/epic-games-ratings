@@ -6,27 +6,27 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 89.00% | ~635,277 |
-| Escaped Asphodel | 79.00% | ~563,897 |
-| Arms Collector | 70.00% | ~499,656 |
-| Friends in High Places | 67.00% | ~478,242 |
-| Escaped Elysium | 66.00% | ~471,104 |
-| Chthonic Colleagues | 62.00% | ~442,552 |
-| Is There No Escape? | 52.00% | ~371,173 |
-| Death Dealer | 45.00% | ~321,207 |
-| Skelly Slayer | 42.00% | ~299,793 |
+| Escaped Tartarus | 89.00% | ~635,278 |
+| Escaped Asphodel | 79.00% | ~563,899 |
+| Arms Collector | 70.00% | ~499,657 |
+| Friends in High Places | 67.00% | ~478,243 |
+| Escaped Elysium | 66.00% | ~471,105 |
+| Chthonic Colleagues | 62.00% | ~442,554 |
+| Is There No Escape? | 52.00% | ~371,174 |
+| Death Dealer | 45.00% | ~321,208 |
+| Skelly Slayer | 42.00% | ~299,794 |
 | Well Stocked | 40.00% | ~285,518 |
 | Back to Work | 38.00% | ~271,242 |
-| Day-or-Night Trader | 37.00% | ~264,104 |
-| Blessed by the Gods | 37.00% | ~264,104 |
-| Urge to Sing | 36.00% | ~256,966 |
-| Blood Bound | 35.00% | ~249,828 |
-| Three-Headed Boy | 32.00% | ~228,414 |
-| River Denizens | 28.00% | ~199,862 |
-| Grown Close | 28.00% | ~199,862 |
-| Home Makeover | 27.00% | ~192,724 |
-| Had to Happen | 25.00% | ~178,448 |
-| The Family Secret | 25.00% | ~178,448 |
+| Day-or-Night Trader | 37.00% | ~264,105 |
+| Blessed by the Gods | 37.00% | ~264,105 |
+| Urge to Sing | 36.00% | ~256,967 |
+| Blood Bound | 35.00% | ~249,829 |
+| Three-Headed Boy | 32.00% | ~228,415 |
+| River Denizens | 28.00% | ~199,863 |
+| Grown Close | 28.00% | ~199,863 |
+| Home Makeover | 27.00% | ~192,725 |
+| Had to Happen | 25.00% | ~178,449 |
+| The Family Secret | 25.00% | ~178,449 |
 | Tools of the Architect | 23.00% | ~164,173 |
 | Master of Arms | 23.00% | ~164,173 |
 | To Charon's Credit | 22.00% | ~157,035 |
@@ -39,15 +39,15 @@ Number of Ratings: 6,336  (23.09.2022)
 | Musician and Muse | 14.00% | ~99,931 |
 | The Useless Trinket | 13.00% | ~92,793 |
 | Champion of Elysium | 13.00% | ~92,793 |
-| Slashed Benefits | 12.00% | ~85,655 |
-| Haste of Hermes | 11.00% | ~78,517 |
-| Bad Call | 10.00% | ~71,379 |
-| Nyx's Mirror | 10.00% | ~71,379 |
-| Night and Darkness | 10.00% | ~71,379 |
-| End to Torment | 10.00% | ~71,379 |
-| Dark Reflections | 9.00% | ~64,241 |
-| Thanks, But No Thanks | 9.00% | ~64,241 |
-| Infernal Arms | 9.00% | ~64,241 |
+| Slashed Benefits | 12.00% | ~85,656 |
+| Haste of Hermes | 11.00% | ~78,518 |
+| Bad Call | 10.00% | ~71,380 |
+| Nyx's Mirror | 10.00% | ~71,380 |
+| Night and Darkness | 10.00% | ~71,380 |
+| End to Torment | 10.00% | ~71,380 |
+| Dark Reflections | 9.00% | ~64,242 |
+| Thanks, But No Thanks | 9.00% | ~64,242 |
+| Infernal Arms | 9.00% | ~64,242 |
 | Divided by Death | 8.00% | ~57,104 |
 | Harsh Conditions | 7.00% | ~49,966 |
 | One for the Ages | 7.00% | ~49,966 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~28,552 |
 | Friends Forever | 4.00% | ~28,552 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 713,794 (Ranked 22)  
+Progressed: 713,796 (Ranked 22)  
 Completed: 6,481 (0.91%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,10 +264,10 @@ Completed: 6,481 (0.91%) (Ranked 165)
 | 2023-11-11 | 713,473 | 6,476 |
 | 2023-11-12 | 713,636 | 6,480 |
 | 2023-11-13 | 713,774 | 6,481 |
-| 2023-11-14 | 713,794 | 6,481 |
+| 2023-11-14 | 713,796 | 6,481 |
 ## Awards
 Max (Character Customization): 3,364  (Ranked 93)  
-Sum: 8,201 (Ranked 102)  
+Sum: 8,203 (Ranked 102)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): -9
 | This game is Extremely Fun | 254 |
 | This game has Amazing Characters | 253 |
 | This game has Diverse Characters | 253 |
-| This game has Quickly Understood Controls | 244 |
+| This game has Quickly Understood Controls | 246 |
 | This game is Relaxing | 242 |
 | This game has Unique Visuals | 236 |
 | This game has a Creative Community | 174 |
@@ -565,3 +565,4 @@ Diff (max vs sum): -9
 | 2023-11-11 | 4.92 | - | 3,363 | 8,193 |
 | 2023-11-12 | 4.92 | - | 3,363 | 8,198 |
 | 2023-11-13 | 4.92 | - | 3,364 | 8,201 |
+| 2023-11-14 | 4.92 | - | 3,364 | 8,203 |

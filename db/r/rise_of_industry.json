@@ -294,9 +294,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 751650,
+  "EOS_Progressed": 751653,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1880,
+  "EOS_NewPlayers": 1877,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24054,6 +24054,11 @@
       "Time": "2023-11-14T05:06:07.7309722+00:00",
       "NumProgressed": 751650,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-14T06:08:18.5747161+00:00",
+      "NumProgressed": 751653,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -24129,7 +24134,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 278110
+      "UsersEstimate": 278112
     },
     {
       "ID": "ach_demolish_trees",
@@ -24193,7 +24198,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 360792
+      "UsersEstimate": 360793
     },
     {
       "ID": "ach_produced",
@@ -24201,7 +24206,7 @@
       "Name": "Apprentice Manufacturer",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 97714
+      "UsersEstimate": 97715
     },
     {
       "ID": "ach_products_moved",
@@ -24233,7 +24238,7 @@
       "Name": "Exporter",
       "Percentage": 13,
       "XP": 35,
-      "UsersEstimate": 97714
+      "UsersEstimate": 97715
     },
     {
       "ID": "ach_setup_route_boat",
@@ -24280,7 +24285,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 751650,
+      "Progressed": 751653,
       "Completed": 4
     }
   ],
@@ -24288,8 +24293,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2023-10-31T23:59:21.8716431+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:06:07.7309717+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:08:18.5747157+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:32.7691301+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:57:36.5267902+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:06:07.7311406+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:58:05.4652974+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:08:18.574874+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "scribble-it-c61a6f",
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 13574,
+  "EOS_Progressed": 13576,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14349,6 +14349,11 @@
       "Time": "2023-11-14T02:24:19.6561544+00:00",
       "NumProgressed": 13574,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T06:06:17.0775081+00:00",
+      "NumProgressed": 13576,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -14544,7 +14549,7 @@
       "Name": "First Prize!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -14552,21 +14557,21 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 13574,
+      "Progressed": 13576,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-17T08:57:12.5642189+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:04:41.5011168+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:06:17.0775075+00:00",
   "LastUpdate_AppInfo": "2023-11-11T03:57:04.8378418+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:57:26.140026+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:04:41.5012315+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:57:49.5192543+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:06:17.0776083+00:00"
 }

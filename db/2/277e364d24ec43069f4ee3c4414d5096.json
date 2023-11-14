@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114113,
+  "EOS_Progressed": 114114,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17839,6 +17839,11 @@
       "Time": "2023-11-14T05:08:37.912847+00:00",
       "NumProgressed": 114113,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-14T06:09:27.3073556+00:00",
+      "NumProgressed": 114114,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17858,7 +17863,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87867
+      "UsersEstimate": 87868
     },
     {
       "ID": "EAwards_10",
@@ -17866,7 +17871,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12552
+      "UsersEstimate": 12553
     },
     {
       "ID": "EAwards_11",
@@ -17874,7 +17879,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29669
+      "UsersEstimate": 29670
     },
     {
       "ID": "EAwards_12",
@@ -17946,7 +17951,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54774
+      "UsersEstimate": 54775
     },
     {
       "ID": "EAwards_20",
@@ -17954,7 +17959,7 @@
       "Name": "King of the Hill",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12552
+      "UsersEstimate": 12553
     },
     {
       "ID": "EAwards_21",
@@ -17994,7 +17999,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 21681
+      "UsersEstimate": 21682
     },
     {
       "ID": "EAwards_26",
@@ -18002,7 +18007,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 12552
+      "UsersEstimate": 12553
     },
     {
       "ID": "EAwards_27",
@@ -18234,14 +18239,14 @@
       "Name": "Grapple Expert",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 12552
+      "UsersEstimate": 12553
     }
   ],
   "AchievementSets": [
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114113,
+      "Progressed": 114114,
       "Completed": 50
     }
   ],
@@ -18249,8 +18254,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:08:37.9128465+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:09:27.3073551+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:58:02.2956601+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:08:37.9130083+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:58:44.8711884+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:09:27.3074651+00:00"
 }

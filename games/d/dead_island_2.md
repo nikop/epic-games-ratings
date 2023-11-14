@@ -8,8 +8,8 @@ Rating: 4.54 (Ranked 523)
 | One of Us | 2.00% | ~874 |
 | Whatever It Takes | 2.00% | ~874 |
 | Pork Chopped | 2.00% | ~874 |
-| Hotel California | 0.90% | ~6,463 |
-| Welcome To Hell-A | 0.90% | ~6,463 |
+| Hotel California | 0.90% | ~6,464 |
+| Welcome To Hell-A | 0.90% | ~6,464 |
 | Break A Leg | 0.80% | ~5,745 |
 | Dr. Reed, I Presume? | 0.70% | ~5,027 |
 | Git Gutte! | 0.70% | ~5,027 |
@@ -38,13 +38,13 @@ Rating: 4.54 (Ranked 523)
 | Not Even My Final Form | 0.40% | ~2,873 |
 | Humanity Distilled | 0.40% | ~2,873 |
 | Down with the Sickness | 0.40% | ~2,873 |
-| On Safari | 0.30% | ~2,154 |
-| Smorgasbord | 0.30% | ~2,154 |
-| Internet Famous | 0.30% | ~2,154 |
-| Jumbo Keyring | 0.30% | ~2,154 |
-| Go, Bobcats! | 0.30% | ~2,154 |
-| Variety is the Spice of Death | 0.30% | ~2,154 |
-| Rising Star | 0.30% | ~2,154 |
+| On Safari | 0.30% | ~2,155 |
+| Smorgasbord | 0.30% | ~2,155 |
+| Internet Famous | 0.30% | ~2,155 |
+| Jumbo Keyring | 0.30% | ~2,155 |
+| Go, Bobcats! | 0.30% | ~2,155 |
+| Variety is the Spice of Death | 0.30% | ~2,155 |
+| Rising Star | 0.30% | ~2,155 |
 | Top That, Tisha! | 0.30% | ~131 |
 | Make it So | 0.20% | ~1,436 |
 | LA Influential | 0.20% | ~1,436 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,163 (Ranked 20)  
+Progressed: 718,172 (Ranked 20)  
 Completed: 2,389 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,10 +265,10 @@ Completed: 2,389 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
-| 2023-11-14 | 718,163 | 2,389 |
+| 2023-11-14 | 718,172 | 2,389 |
 ## Awards
 Max (Great Boss Battles): 7,413  (Ranked 51)  
-Sum: 11,268 (Ranked 85)  
+Sum: 11,271 (Ranked 85)  
 Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
@@ -279,7 +279,7 @@ Diff (max vs sum): -34
 | This game is Relaxing | 485 |
 | This game has Amazing Storytelling | 463 |
 | This game is Highly Recommended | 449 |
-| This game is Extremely Fun | 446 |
+| This game is Extremely Fun | 449 |
 | This game has Amazing Characters | 407 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -491,3 +491,4 @@ Diff (max vs sum): -34
 | 2023-11-11 | 4.54 | 7,320 | 11,108 |
 | 2023-11-12 | 4.54 | 7,376 | 11,188 |
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
+| 2023-11-14 | 4.54 | 7,413 | 11,271 |

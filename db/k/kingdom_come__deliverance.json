@@ -8535,9 +8535,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 808338,
+  "EOS_Progressed": 808340,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 878,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -31835,6 +31835,11 @@
       "Time": "2023-11-14T05:05:48.9156824+00:00",
       "NumProgressed": 808338,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2023-11-14T06:07:52.2458623+00:00",
+      "NumProgressed": 808340,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 82,
@@ -31926,7 +31931,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 258668
+      "UsersEstimate": 258669
     },
     {
       "ID": "Bookworm",
@@ -31958,7 +31963,7 @@
       "Name": "Cavalier",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 202084
+      "UsersEstimate": 202085
     },
     {
       "ID": "Chivalrous",
@@ -32126,7 +32131,7 @@
       "Name": "Haggler",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72750
+      "UsersEstimate": 72751
     },
     {
       "ID": "HardcoreHenry",
@@ -32501,15 +32506,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 808338,
+      "Progressed": 808340,
       "Completed": 51
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2023-11-13T22:27:18.0877291+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:05:48.9156819+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:07:52.2458619+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.2274492+00:00",
-  "LastUpdate_Ratings": "2023-11-14T05:02:40.1409299+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:05:48.915927+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:03:21.8244053+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:07:52.2460165+00:00"
 }

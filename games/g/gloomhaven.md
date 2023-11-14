@@ -6,21 +6,21 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 42.00% | ~8,625 |
-| Overkill | 34.00% | ~6,982 |
-| Vaccine Incoming | 33.00% | ~6,777 |
-| A normal day in Gloomhaven | 32.00% | ~6,572 |
-| Spread the plague | 30.00% | ~6,161 |
-| Get over here! | 25.00% | ~5,134 |
-| Just when I thought I was out... | 19.00% | ~3,902 |
-| Precious! | 17.00% | ~3,491 |
-| Mine... All Mine... | 17.00% | ~3,491 |
-| Anatomy Lesson | 15.00% | ~3,080 |
-| Grizzled veteran | 14.00% | ~2,875 |
-| Light of my life | 14.00% | ~2,875 |
+| I'm not dead yet | 42.00% | ~8,627 |
+| Overkill | 34.00% | ~6,984 |
+| Vaccine Incoming | 33.00% | ~6,778 |
+| A normal day in Gloomhaven | 32.00% | ~6,573 |
+| Spread the plague | 30.00% | ~6,162 |
+| Get over here! | 25.00% | ~5,135 |
+| Just when I thought I was out... | 19.00% | ~3,903 |
+| Precious! | 17.00% | ~3,492 |
+| Mine... All Mine... | 17.00% | ~3,492 |
+| Anatomy Lesson | 15.00% | ~3,081 |
+| Grizzled veteran | 14.00% | ~2,876 |
+| Light of my life | 14.00% | ~2,876 |
 | You activated my trap card! | 13.00% | ~2,670 |
 | Obstacle race | 13.00% | ~2,670 |
-| Augmented rat | 12.00% | ~2,464 |
+| Augmented rat | 12.00% | ~2,465 |
 | Doom and gloom | 11.00% | ~2,259 |
 | Who's the Boss? | 10.00% | ~2,054 |
 | Dungeon Veteran | 8.00% | ~1,643 |
@@ -34,7 +34,7 @@ Number of Ratings: 68  (23.09.2022)
 | The Pro from Dover | 5.00% | ~1,027 |
 | Pretty lights! | 5.00% | ~1,027 |
 | Now you see me... | 5.00% | ~1,027 |
-| Merchant of doom | 4.00% | ~821 |
+| Merchant of doom | 4.00% | ~822 |
 | I hate portals | 3.00% | ~616 |
 | Down the hatch | 3.00% | ~616 |
 | An eye for an eye | 3.00% | ~616 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~21 |
 | Murder Death Kill | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,536 (Ranked 132)  
+Progressed: 20,540 (Ranked 132)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 20,013 | 1 |
 | 2023-11-12 | 20,293 | 1 |
 | 2023-11-13 | 20,479 | 1 |
-| 2023-11-14 | 20,536 | 1 |
+| 2023-11-14 | 20,540 | 1 |
 ## Awards
 Max (Character Customization): 3,572  (Ranked 90)  
 Sum: 8,354 (Ranked 100)  

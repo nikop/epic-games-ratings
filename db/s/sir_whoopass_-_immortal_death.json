@@ -4,7 +4,7 @@
   "ProductSlug": "sir-whoopass-757c5c",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 131,
   "Store": {
     "ReleaseDate": "2023-05-19T23:00:00+00:00",
@@ -714,9 +714,9 @@
       "ID": "COMPLETE_DUNGEONRUINS_02",
       "SetID": "9gfkh7c",
       "Name": "Ancient Ruins of Leaky Roof",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "COMPLETE_DUNGEONRUINS_03",
@@ -802,9 +802,9 @@
       "ID": "ENEMIES_2",
       "SetID": "9gfkh7c",
       "Name": "Master Butcher",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ENEMIES_3",
@@ -1201,8 +1201,8 @@
   ],
   "FirstSeen": "2023-05-21T02:03:39.2854582+00:00",
   "FirstSeenAchievements": "2023-05-02T13:06:44.2027926+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:08:37.0517551+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:09:26.2540938+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:16.7726106+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:59:24.4651424+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:08:37.0518527+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:00:49.8812627+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:09:26.2541552+00:00"
 }

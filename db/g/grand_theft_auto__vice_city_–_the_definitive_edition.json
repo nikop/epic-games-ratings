@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 439,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -835,9 +835,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 11012,
+  "EOS_Progressed": 11013,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12860,6 +12860,11 @@
       "Time": "2023-11-14T04:07:38.9571194+00:00",
       "NumProgressed": 11012,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-14T06:08:08.6265526+00:00",
+      "NumProgressed": 11013,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -12919,7 +12924,7 @@
       "Name": "High Quality H2O",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "ACH08",
@@ -12927,7 +12932,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "ACH09",
@@ -13142,7 +13147,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11012,
+      "Progressed": 11013,
       "Completed": 65
     }
   ],
@@ -13150,8 +13155,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-09T19:58:38.2755624+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:06:00.6847531+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:08:08.6265522+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:20.6735838+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:59:59.0754182+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:06:00.684863+00:00"
+  "LastUpdate_Ratings": "2023-11-14T06:01:41.8620454+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:08:08.62663+00:00"
 }

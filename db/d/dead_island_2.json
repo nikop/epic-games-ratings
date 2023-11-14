@@ -6421,10 +6421,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11268,
       "NumberOfAwardsMax": 7413
+    },
+    {
+      "Time": "2023-11-14T05:57:29.1587186+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11271,
+      "NumberOfAwardsMax": 7413
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11268,
+  "NumberOfAwards": 11271,
   "NumberOfAwardsMax": 7413,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -6468,7 +6474,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 446
+      "Count": 449
     },
     {
       "Text": "This game is Relaxing",
@@ -6483,7 +6489,7 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718163,
+  "EOS_Progressed": 718172,
   "EOS_Completed": 2389,
   "EOS_NewPlayers": 3888,
   "EOS_NewCompleters": 39,
@@ -30203,6 +30209,11 @@
       "Time": "2023-11-14T05:04:08.9203615+00:00",
       "NumProgressed": 718163,
       "NumCompleted": 2389
+    },
+    {
+      "Time": "2023-11-14T06:05:31.702842+00:00",
+      "NumProgressed": 718172,
+      "NumCompleted": 2389
     }
   ],
   "TotalAchievements": 51,
@@ -30286,7 +30297,7 @@
       "Name": "On Safari",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ach_defensive",
@@ -30318,7 +30329,7 @@
       "Name": "Smorgasbord",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -30374,7 +30385,7 @@
       "Name": "Hotel California",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6463
+      "UsersEstimate": 6464
     },
     {
       "ID": "ach_impressive_aim",
@@ -30390,7 +30401,7 @@
       "Name": "Internet Famous",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ach_investigator",
@@ -30406,7 +30417,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ach_knock_down",
@@ -30518,7 +30529,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ach_thesacrifice",
@@ -30542,7 +30553,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -30550,7 +30561,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6463
+      "UsersEstimate": 6464
     },
     {
       "ID": "ach_well_known_survivor",
@@ -30558,7 +30569,7 @@
       "Name": "Rising Star",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ach_well_trained",
@@ -30621,22 +30632,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718163,
+      "Progressed": 718172,
       "Completed": 2389
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43705,
+      "Progressed": 43714,
       "Completed": 36539
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2023-11-13T21:03:02.1142567+00:00",
-  "LastChanged_Achievements": "2023-11-14T05:04:08.920361+00:00",
+  "LastChanged": "2023-11-14T05:57:29.1587184+00:00",
+  "LastChanged_Achievements": "2023-11-14T06:05:31.7028416+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T04:57:12.5861167+00:00",
-  "LastUpdate_Achievements": "2023-11-14T05:04:08.920562+00:00"
+  "LastUpdate_Ratings": "2023-11-14T05:57:29.158719+00:00",
+  "LastUpdate_Achievements": "2023-11-14T06:05:31.7030262+00:00"
 }
