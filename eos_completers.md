@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.12% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.09% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -114,7 +114,7 @@
 | 112 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.61% |
 | 113 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 2.53% |
 | 114 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 115 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.49% |
+| 115 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 2.48% |
 | 116 | [Lamentum](games/l/lamentum.md) | 2.42% |
 | 117 | [Bloodshore](games/b/bloodshore.md) | 2.38% |
 | 118 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.37% |
@@ -135,7 +135,7 @@
 | 132 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 1.69% |
 | 134 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.59% |
 | 135 | [Five Dates](games/f/five_dates.md) | 1.58% |
-| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.55% |
+| 136 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.56% |
 | 137 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.52% |
 | 138 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 1.49% |
 | 139 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.48% |
@@ -225,10 +225,10 @@
 | 223 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 223 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
 | 223 | [Them and Us](games/t/them_and_us.md) | 0.33% |
-| 226 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
-| 226 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
-| 226 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 226 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.31% |
+| 226 | [Against the Storm](games/a/against_the_storm.md) | 0.32% |
+| 227 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
+| 227 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 227 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.31% |
 | 230 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 230 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
 | 230 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.30% |
@@ -292,15 +292,15 @@
 | 289 | [ATOM RPG](games/a/atom_rpg.md) | 0.08% |
 | 289 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.08% |
 | 289 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.08% |
-| 293 | [Saints Row](games/s/saints_row.md) | 0.07% |
 | 293 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.07% |
 | 293 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.07% |
-| 296 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 296 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.06% |
-| 296 | [MythForce](games/m/mythforce.md) | 0.06% |
-| 296 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
-| 296 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
-| 296 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 295 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
+| 295 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 0.06% |
+| 295 | [MythForce](games/m/mythforce.md) | 0.06% |
+| 295 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.06% |
+| 295 | [Saints Row](games/s/saints_row.md) | 0.06% |
+| 295 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.06% |
+| 295 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 302 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 302 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
 | 302 | [High On Life](games/h/high_on_life.md) | 0.05% |
