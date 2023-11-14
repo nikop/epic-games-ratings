@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 78.00% | ~28 |
-| Grand Re-Opening | 69.00% | ~25 |
-| Summer Day | 67.00% | ~24 |
-| Pup Pup Boogie | 64.00% | ~23 |
-| Mr. Porter | 53.00% | ~19 |
-| Risky Rescue | 50.00% | ~18 |
-| Carlos Is Tangled | 47.00% | ~17 |
-| Mandy Family | 44.00% | ~16 |
-| Clear the Road | 42.00% | ~15 |
-| Paw patrol member | 39.00% | ~14 |
-| Robot Out of Control | 39.00% | ~14 |
-| Break Time | 36.00% | ~13 |
-| Master of the Rope | 33.00% | ~12 |
-| Training Day | 33.00% | ~12 |
-| The Fastest | 31.00% | ~11 |
-| In the Air | 31.00% | ~11 |
-| Never Miss | 31.00% | ~11 |
-| Animal Sighting | 28.00% | ~10 |
-| Don’t Miss Any | 25.00% | ~9 |
-| Adventure Bay’s Citizen | 25.00% | ~9 |
+| Mighty Powers | 76.00% | ~28 |
+| Grand Re-Opening | 68.00% | ~25 |
+| Summer Day | 65.00% | ~24 |
+| Pup Pup Boogie | 62.00% | ~23 |
+| Mr. Porter | 51.00% | ~19 |
+| Risky Rescue | 49.00% | ~18 |
+| Carlos Is Tangled | 46.00% | ~17 |
+| Mandy Family | 43.00% | ~16 |
+| Clear the Road | 41.00% | ~15 |
+| Paw patrol member | 38.00% | ~14 |
+| Robot Out of Control | 38.00% | ~14 |
+| Break Time | 35.00% | ~13 |
+| Master of the Rope | 32.00% | ~12 |
+| Training Day | 32.00% | ~12 |
+| The Fastest | 30.00% | ~11 |
+| In the Air | 30.00% | ~11 |
+| Never Miss | 30.00% | ~11 |
+| Animal Sighting | 27.00% | ~10 |
+| Don’t Miss Any | 24.00% | ~9 |
+| Adventure Bay’s Citizen | 24.00% | ~9 |
 | You Have Been Everywhere | 19.00% | ~7 |
 | Mountain and Ice | 19.00% | ~7 |
 | Everything Under Control | 14.00% | ~5 |
 | A Great Explorer | 11.00% | ~4 |
 | Nothing Can Stop You | 11.00% | ~4 |
-| King of the Mountain | 6.00% | ~2 |
+| King of the Mountain | 5.00% | ~2 |
 | Air Ace | 0.00% | ~0 |
 | You Know Them All | 0.00% | ~0 |
 | The Collector | 0.00% | ~0 |
 | Pup Treat Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 36 (Ranked 503)  
+Progressed: 37 (Ranked 499)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -72,6 +72,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-10-28 | 34 | 0 |
 | 2023-11-06 | 35 | 0 |
 | 2023-11-09 | 36 | 0 |
+| 2023-11-14 | 37 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

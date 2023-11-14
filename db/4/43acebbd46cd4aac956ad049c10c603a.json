@@ -631,9 +631,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 190
     },
     {
       "ID": "ChasingTheLight",
@@ -1056,8 +1056,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-13T18:58:27.0695865+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:04:08.2574059+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:09:10.3224691+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-14T11:58:07.6991933+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:04:08.2574449+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:03:09.512677+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:09:10.3225081+00:00"
 }

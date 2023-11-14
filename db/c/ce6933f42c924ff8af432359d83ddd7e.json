@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 728,
+  "EOS_Progressed": 729,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 4.26,
+  "EOS_Completed_Percentage": 4.25,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -1679,6 +1679,11 @@
       "Time": "2023-11-14T12:08:22.9608877+00:00",
       "NumProgressed": 728,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2023-11-14T13:13:28.6351372+00:00",
+      "NumProgressed": 729,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -1715,7 +1720,7 @@
       "Name": "An apple a day",
       "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -1747,7 +1752,7 @@
       "Name": "Food lover",
       "Percentage": 62,
       "XP": 55,
-      "UsersEstimate": 451
+      "UsersEstimate": 452
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -1761,23 +1766,23 @@
       "ID": "ACH_THE_END",
       "SetID": "6f5dahd",
       "Name": "Exit",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 65,
-      "UsersEstimate": 400
+      "UsersEstimate": 394
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 728,
+      "Progressed": 729,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:08:22.9608873+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:13:28.6351369+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.4965715+00:00",
-  "LastUpdate_Ratings": "2023-11-14T11:58:21.8712937+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:08:22.9609056+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:03:23.7985365+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:13:28.6351714+00:00"
 }

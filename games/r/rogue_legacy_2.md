@@ -46,8 +46,8 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 23,503 (Ranked 127)  
-Completed: 35 (0.15%) (Ranked 262)  
+Progressed: 23,504 (Ranked 127)  
+Completed: 35 (0.15%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -252,7 +252,7 @@ Completed: 35 (0.15%) (Ranked 262)
 | 2023-11-11 | 23,484 | 35 |
 | 2023-11-12 | 23,498 | 35 |
 | 2023-11-13 | 23,501 | 35 |
-| 2023-11-14 | 23,503 | 35 |
+| 2023-11-14 | 23,504 | 35 |
 ## Awards
 Max (Extremely Fun): 222  (Ranked 276)  
 Sum: 1,701 (Ranked 221)  

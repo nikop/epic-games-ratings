@@ -1,13 +1,13 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.64 (Ranked 331)  
+Rating: 4.64 (Ranked 332)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 3.00% | ~26,899 |
-| Gun Fu | 1.00% | ~8,966 |
+| V for Vendetta | 3.00% | ~26,900 |
+| Gun Fu | 1.00% | ~8,967 |
 | Relic Ruler | 1.00% | ~253 |
 | Full Body Conversion | 0.70% | ~6,277 |
 | True Soldier | 0.70% | ~6,277 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,645 (Ranked 15)  
+Progressed: 896,652 (Ranked 15)  
 Completed: 2,777 (0.31%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,10 +282,10 @@ Completed: 2,777 (0.31%) (Ranked 227)
 | 2023-11-11 | 896,271 | 2,766 |
 | 2023-11-12 | 896,462 | 2,771 |
 | 2023-11-13 | 896,596 | 2,776 |
-| 2023-11-14 | 896,645 | 2,777 |
+| 2023-11-14 | 896,652 | 2,777 |
 ## Awards
 Max (Character Customization): 105,348  (Ranked 9)  
-Sum: 352,361 (Ranked 10)  
+Sum: 352,424 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
@@ -297,8 +297,8 @@ Diff (max vs sum): -1
 | This game has Amazing Storytelling | 19,782 |
 | This game is Extremely Fun | 19,556 |
 | This game has Amazing Characters | 19,427 |
+| This game is Relaxing | 18,676 |
 | This game has Quickly Understood Controls | 18,616 |
-| This game is Relaxing | 18,613 |
 | This game has a Creative Community | 12,936 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -602,4 +602,4 @@ Diff (max vs sum): -1
 | 2023-11-11 | 4.64 | - | 105,016 | 349,420 |
 | 2023-11-12 | 4.64 | - | 105,188 | 350,761 |
 | 2023-11-13 | 4.64 | - | 105,348 | 351,825 |
-| 2023-11-14 | 4.64 | - | 105,348 | 352,361 |
+| 2023-11-14 | 4.64 | - | 105,348 | 352,424 |

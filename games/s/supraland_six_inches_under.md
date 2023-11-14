@@ -1,37 +1,37 @@
 # Supraland Six Inches Under
 [Store](https://store.epicgames.com/en-US/p/supraland-six-inches-under-dd0220)  
 [View Rawdata](../../db/s/supraland_six_inches_under.json)  
-Rating: 4.77 (Ranked 116)  
+Rating: 4.77 (Ranked 115)  
 Number of Ratings: 209  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good Morning | 99.00% | ~2,279 |
-| Hit Rock Bottom | 97.00% | ~2,233 |
-| Rocket Launched | 97.00% | ~2,233 |
-| Speed | 97.00% | ~2,233 |
-| High Jump | 96.00% | ~2,210 |
-| Knee bending | 96.00% | ~2,210 |
-| Pickaxe | 94.00% | ~2,164 |
-| Revenge | 94.00% | ~2,164 |
-| Cage Town | 94.00% | ~2,164 |
-| Force Beam | 93.00% | ~2,141 |
-| Entered Cage Town | 93.00% | ~2,141 |
-| Stone Pickaxe | 93.00% | ~2,141 |
-| Surprise | 93.00% | ~2,141 |
-| Magnet | 91.00% | ~2,095 |
-| Industrial Area | 90.00% | ~2,072 |
-| Magnet Repel | 89.00% | ~2,049 |
-| You feel middle classy | 87.00% | ~2,003 |
-| Boomeraxe | 87.00% | ~2,003 |
-| Iron Pickaxe | 87.00% | ~2,003 |
-| Banking District | 86.00% | ~1,980 |
-| Arrested | 86.00% | ~1,980 |
-| Zappy Gun | 86.00% | ~1,980 |
-| Got your own one now | 86.00% | ~1,980 |
-| Mission Unlikely | 86.00% | ~1,980 |
-| Don't draw dicks pls | 85.00% | ~1,957 |
-| Ripped | 85.00% | ~1,957 |
+| Good Morning | 99.00% | ~2,280 |
+| Hit Rock Bottom | 97.00% | ~2,234 |
+| Rocket Launched | 97.00% | ~2,234 |
+| Speed | 97.00% | ~2,234 |
+| High Jump | 96.00% | ~2,211 |
+| Knee bending | 96.00% | ~2,211 |
+| Pickaxe | 94.00% | ~2,165 |
+| Revenge | 94.00% | ~2,165 |
+| Cage Town | 94.00% | ~2,165 |
+| Force Beam | 93.00% | ~2,142 |
+| Entered Cage Town | 93.00% | ~2,142 |
+| Stone Pickaxe | 93.00% | ~2,142 |
+| Surprise | 93.00% | ~2,142 |
+| Magnet | 91.00% | ~2,096 |
+| Industrial Area | 90.00% | ~2,073 |
+| Magnet Repel | 89.00% | ~2,050 |
+| You feel middle classy | 87.00% | ~2,004 |
+| Boomeraxe | 87.00% | ~2,004 |
+| Iron Pickaxe | 87.00% | ~2,004 |
+| Banking District | 86.00% | ~1,981 |
+| Arrested | 86.00% | ~1,981 |
+| Zappy Gun | 86.00% | ~1,981 |
+| Got your own one now | 86.00% | ~1,981 |
+| Mission Unlikely | 86.00% | ~1,981 |
+| Don't draw dicks pls | 85.00% | ~1,958 |
+| Ripped | 85.00% | ~1,958 |
 | Beat the big arena | 83.00% | ~1,911 |
 | Force Cube | 82.00% | ~1,888 |
 | Got Battery | 81.00% | ~1,865 |
@@ -42,25 +42,25 @@ Number of Ratings: 209  (23.09.2022)
 | Killed them all | 77.00% | ~1,773 |
 | Trickle Down Economy | 77.00% | ~1,773 |
 | Win | 77.00% | ~1,773 |
-| Greenhouse | 72.00% | ~1,657 |
-| Played with fire | 71.00% | ~1,634 |
-| You feel very sorry | 71.00% | ~1,634 |
-| No Match for you | 66.00% | ~1,519 |
-| Bouncy | 62.00% | ~1,427 |
-| Plumbster | 61.00% | ~1,404 |
-| Faster | 60.00% | ~1,381 |
-| Much Magic | 58.00% | ~1,335 |
-| Chest Detector | 56.00% | ~1,289 |
-| Flames | 53.00% | ~1,220 |
+| Greenhouse | 72.00% | ~1,658 |
+| Played with fire | 71.00% | ~1,635 |
+| You feel very sorry | 71.00% | ~1,635 |
+| No Match for you | 66.00% | ~1,520 |
+| Bouncy | 62.00% | ~1,428 |
+| Plumbster | 61.00% | ~1,405 |
+| Faster | 60.00% | ~1,382 |
+| Much Magic | 58.00% | ~1,336 |
+| Chest Detector | 56.00% | ~1,290 |
+| Flames | 53.00% | ~1,221 |
 | Momentum | 46.00% | ~1,059 |
 | You're unsure if you broke the game or not | 43.00% | ~990 |
 | But wait... ...There's more... | 40.00% | ~921 |
 | So much force | 35.00% | ~806 |
-| You feel fully engaged | 24.00% | ~552 |
-| Too hot | 20.00% | ~460 |
+| You feel fully engaged | 24.00% | ~553 |
+| Too hot | 20.00% | ~461 |
 | All the chests | 14.00% | ~322 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,302 (Ranked 214)  
+Progressed: 2,303 (Ranked 214)  
 Completed: 285 (12.38%) (Ranked 30)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,6 +239,7 @@ Completed: 285 (12.38%) (Ranked 30)
 | 2023-11-10 | 2,299 | 285 |
 | 2023-11-12 | 2,300 | 285 |
 | 2023-11-13 | 2,302 | 285 |
+| 2023-11-14 | 2,303 | 285 |
 ## Awards
 Max (Challenging Puzzles): 104  (Ranked 352)  
 Sum: 104 (Ranked 438)  

@@ -7,9 +7,14 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | AAA Credit | 0.10% | ~455 |
+| Aggressive Expander | 0.10% | ~455 |
+| All belongs to Mother Russia | 0.10% | ~455 |
+| Arabian Coffee | 0.10% | ~455 |
 | At every continent | 0.10% | ~455 |
+| Blockader | 0.10% | ~455 |
 | Bright Spark | 0.10% | ~455 |
 | Brothers in Arms | 0.10% | ~455 |
+| City of Cities | 0.10% | ~455 |
 | Cold War | 0.10% | ~455 |
 | Combined Arms | 0.10% | ~455 |
 | Defender of the Faith | 0.10% | ~455 |
@@ -17,6 +22,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Down Under | 0.10% | ~455 |
 | Early-Modern Warfare | 0.10% | ~455 |
 | The Emperors new clothes | 0.10% | ~455 |
+| Foul Mouthed | 0.10% | ~455 |
 | Gentle Persuasion | 0.10% | ~455 |
 | A Golden Empire | 0.10% | ~455 |
 | That's a Grand Army | 0.10% | ~455 |
@@ -29,17 +35,22 @@ Number of Ratings: 8,414  (23.09.2022)
 | Just a Little Patience | 0.10% | ~455 |
 | Just Resting In My Account | 0.10% | ~455 |
 | Live Long and Prosper | 0.10% | ~455 |
+| Multiculturalism | 0.10% | ~455 |
 | My armies are invincible! | 0.10% | ~455 |
+| One Family to Rule them All | 0.10% | ~455 |
 | Populists in Government | 0.10% | ~455 |
+| Queen of Conquest | 0.10% | ~455 |
 | Respected | 0.10% | ~455 |
 | Royal Authority | 0.10% | ~455 |
 | Seriously?! | 0.10% | ~455 |
 | That is mine! | 0.10% | ~455 |
 | The Chrysanthemum Throne | 0.10% | ~455 |
 | The Five Colonies | 0.10% | ~455 |
+| The Grand Armada | 0.10% | ~455 |
 | The Princess is in this Castle | 0.10% | ~455 |
 | This navy can take it all | 0.10% | ~455 |
 | Time Bandit | 0.10% | ~455 |
+| Total Control | 0.10% | ~455 |
 | Trophy Hunter | 0.10% | ~455 |
 | True Catholic | 0.10% | ~455 |
 | Truly Divine Ruler | 0.10% | ~455 |
@@ -66,9 +77,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Academical | 0.00% | ~0 |
 | AEIOU | 0.00% | ~0 |
 | African Power | 0.00% | ~0 |
-| Aggressive Expander | 0.00% | ~0 |
 | Albania or Iberia | 0.00% | ~0 |
-| All belongs to Mother Russia | 0.00% | ~0 |
 | All Blue | 0.00% | ~0 |
 | All That's Thine Shall Be Mine | 0.00% | ~0 |
 | All Your Trade Are Belong to Us | 0.00% | ~0 |
@@ -77,7 +86,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | An Unlikely Candidate | 0.00% | ~0 |
 | Anglophile | 0.00% | ~0 |
 | The Animal Kingdom | 0.00% | ~0 |
-| Arabian Coffee | 0.00% | ~0 |
 | Around the World in 80 Years | 0.00% | ~0 |
 | Assembly Instructions Needed | 0.00% | ~0 |
 | Atwix Legacy | 0.00% | ~0 |
@@ -98,7 +106,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Big Blue Blob | 0.00% | ~0 |
 | Black Jack | 0.00% | ~0 |
 | Bleed Them Dry | 0.00% | ~0 |
-| Blockader | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
@@ -111,7 +118,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Chop Chop | 0.00% | ~0 |
 | Choson One | 0.00% | ~0 |
 | Cities of Cibola | 0.00% | ~0 |
-| City of Cities | 0.00% | ~0 |
 | Colonial Management | 0.00% | ~0 |
 | Consulate of the Sea | 0.00% | ~0 |
 | Copium Wars | 0.00% | ~0 |
@@ -147,7 +153,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 0.00% | ~0 |
 | Forever Golden | 0.00% | ~0 |
 | Forgive me, for I have Sindh | 0.00% | ~0 |
-| Foul Mouthed | 0.00% | ~0 |
 | Four For Trade | 0.00% | ~0 |
 | From Frankfurt to the Andes | 0.00% | ~0 |
 | From Humble Origins | 0.00% | ~0 |
@@ -223,7 +228,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Mehmet's Ambition | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Mewar Never Changes | 0.00% | ~0 |
-| Multiculturalism | 0.00% | ~0 |
 | My True Friend | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
 | Narcissism | 0.00% | ~0 |
@@ -241,7 +245,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | On the Edge of Madness | 0.00% | ~0 |
 | On the Rhodes Again | 0.00% | ~0 |
 | One Faith | 0.00% | ~0 |
-| One Family to Rule them All | 0.00% | ~0 |
 | One King to Rule! | 0.00% | ~0 |
 | One nation to rule them all | 0.00% | ~0 |
 | One Night in Paris | 0.00% | ~0 |
@@ -259,7 +262,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Purify the Temple | 0.00% | ~0 |
 | Pyramid of Skulls | 0.00% | ~0 |
 | Qing of China | 0.00% | ~0 |
-| Queen of Conquest | 0.00% | ~0 |
 | Queen of Mercury | 0.00% | ~0 |
 | Quizquiz Pro Quo | 0.00% | ~0 |
 | Rags and Riches | 0.00% | ~0 |
@@ -315,7 +317,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Coin is Stronger than the Sword | 0.00% | ~0 |
 | The Continuation of Diplomacy | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
-| The Grand Armada | 0.00% | ~0 |
 | The Great Khan | 0.00% | ~0 |
 | The League of Mayapan | 0.00% | ~0 |
 | The Navigator | 0.00% | ~0 |
@@ -336,7 +337,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
-| Total Control | 0.00% | ~0 |
 | Trade Hegemon | 0.00% | ~0 |
 | Traditional Player | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,319 (Ranked 41)  
+Progressed: 455,352 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,319 | 1 |
+| 2023-11-14 | 455,352 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 54)  
 Sum: 57,505 (Ranked 24)  

@@ -8,16 +8,16 @@ Number of Ratings: 45  (23.09.2022)
 | ---- | ---------- | ----- |
 | Me and My Familiar | 2.00% | ~29 |
 | Gotta Ca... Must Collect All of Them | 2.00% | ~29 |
+| Passing Shadow | 2.00% | ~29 |
 | This Too Shall Pass | 2.00% | ~29 |
 | How Romantic! | 2.00% | ~29 |
 | The Cost of Heroism | 2.00% | ~29 |
 | Cutthroat Competitors | 2.00% | ~29 |
-| Passing Shadow | 1.00% | ~15 |
+| Daybreak | 2.00% | ~29 |
 | War Endured | 1.00% | ~15 |
-| Daybreak | 1.00% | ~15 |
 | Core Failure | 1.00% | ~15 |
+| Let Me Get My Chisel | 0.80% | ~12 |
 | Completing the Look | 0.80% | ~12 |
-| Let Me Get My Chisel | 0.70% | ~10 |
 | Who's Counting? | 0.50% | ~7 |
 | Pyrrhic Victory | 0.50% | ~7 |
 | Echoes Die | 0.50% | ~7 |

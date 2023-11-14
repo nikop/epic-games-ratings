@@ -1,20 +1,20 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.64 (Ranked 331)  
+Rating: 4.64 (Ranked 332)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 93.00% | ~1,661 |
-| Welcome Aboard | 85.00% | ~1,518 |
+| Marksman | 93.00% | ~1,662 |
+| Welcome Aboard | 85.00% | ~1,519 |
 | Lab Rat | 75.00% | ~1,340 |
 | All Systems Go | 66.00% | ~1,179 |
-| Brute Force | 65.00% | ~1,161 |
+| Brute Force | 65.00% | ~1,162 |
 | Cannon Fodder | 60.00% | ~1,072 |
-| Autofire | 57.00% | ~1,018 |
-| True Believer | 56.00% | ~1,000 |
-| Story Teller | 55.00% | ~982 |
-| Raise the Stakes | 55.00% | ~982 |
+| Autofire | 57.00% | ~1,019 |
+| Raise the Stakes | 56.00% | ~1,001 |
+| True Believer | 56.00% | ~1,001 |
+| Story Teller | 55.00% | ~983 |
 | Surgeon | 52.00% | ~929 |
 | Freeze | 51.00% | ~911 |
 | Exterminator | 51.00% | ~911 |
@@ -23,8 +23,8 @@ Rating: 4.64 (Ranked 331)
 | S.O.S. | 45.00% | ~804 |
 | Get Off My Ship! | 43.00% | ~768 |
 | Strange Transmissions | 43.00% | ~768 |
-| Wreckage | 42.00% | ~750 |
-| Live with the Hot Ones | 41.00% | ~732 |
+| Wreckage | 42.00% | ~751 |
+| Live with the Hot Ones | 41.00% | ~733 |
 | Keeper of the Faith | 39.00% | ~697 |
 | Betrayed | 37.00% | ~661 |
 | Exodus | 36.00% | ~643 |
@@ -35,14 +35,14 @@ Rating: 4.64 (Ranked 331)
 | Front Toward Enemy | 32.00% | ~572 |
 | Whole Again | 28.00% | ~500 |
 | Set A Benchmark | 28.00% | ~500 |
-| Full Contact | 25.00% | ~446 |
-| Pack Rat | 25.00% | ~446 |
+| Full Contact | 25.00% | ~447 |
+| Pack Rat | 25.00% | ~447 |
 | Final Regeneration | 24.00% | ~429 |
 | Full Clearance | 23.00% | ~411 |
 | Pusher | 22.00% | ~393 |
 | Z-Baller | 22.00% | ~393 |
 | Marked | 20.00% | ~357 |
-| Eviscerator | 18.00% | ~321 |
+| Eviscerator | 18.00% | ~322 |
 | Backbreaker | 13.00% | ~232 |
 | Wishbone | 8.00% | ~143 |
 | Trusted Contractor | 7.00% | ~125 |
@@ -53,7 +53,7 @@ Rating: 4.64 (Ranked 331)
 | Untouchable | 2.00% | ~36 |
 | One Gun | 2.00% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,786 (Ranked 225)  
+Progressed: 1,787 (Ranked 225)  
 Completed: 9 (0.50%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -114,7 +114,7 @@ Completed: 9 (0.50%) (Ranked 197)
 | 2023-11-11 | 1,724 | 8 |
 | 2023-11-12 | 1,759 | 8 |
 | 2023-11-13 | 1,779 | 8 |
-| 2023-11-14 | 1,786 | 9 |
+| 2023-11-14 | 1,787 | 9 |
 ## Awards
 Max (Great Boss Battles): 110  (Ranked 348)  
 Sum: 110 (Ranked 437)  

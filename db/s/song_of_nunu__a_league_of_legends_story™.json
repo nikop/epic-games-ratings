@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 176,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
     "PcReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 687,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 154,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -1372,9 +1372,9 @@
       "ID": "EV_ACH16",
       "SetID": "6jeac23",
       "Name": "Krugmazing",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 460
     },
     {
       "ID": "EV_ACH17",
@@ -1388,9 +1388,9 @@
       "ID": "EV_ACH18",
       "SetID": "6jeac23",
       "Name": "Snowy Poro",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 220
     },
     {
       "ID": "EV_ACH19",
@@ -1404,9 +1404,9 @@
       "ID": "EV_ACH20",
       "SetID": "6jeac23",
       "Name": "True Legends",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 275
+      "UsersEstimate": 282
     },
     {
       "ID": "EV_ACH21",
@@ -1532,17 +1532,17 @@
       "ID": "EV_ACH36",
       "SetID": "6jeac23",
       "Name": "The Relentless Storm",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 316
+      "UsersEstimate": 323
     },
     {
       "ID": "EV_ACH37",
       "SetID": "6jeac23",
       "Name": "The Finisher",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 282
+      "UsersEstimate": 289
     },
     {
       "ID": "EV_ACH38",
@@ -1611,8 +1611,8 @@
   ],
   "FirstSeen": "2023-11-01T17:58:50.9645263+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:08:59.1197993+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:13:54.1831159+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:59.7551173+00:00",
-  "LastUpdate_Ratings": "2023-11-14T12:02:38.1723278+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:08:59.1198414+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:07:39.9126645+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:13:54.1831474+00:00"
 }

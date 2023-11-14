@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -591,9 +591,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 3574,
+  "EOS_Progressed": 3575,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 319,
+  "EOS_NewPlayers": 320,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5071,6 +5071,11 @@
       "Time": "2023-11-14T11:03:07.5044578+00:00",
       "NumProgressed": 3574,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T13:08:12.7314076+00:00",
+      "NumProgressed": 3575,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -5091,7 +5096,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 1215
+      "UsersEstimate": 1216
     },
     {
       "ID": "achievement_11",
@@ -5107,7 +5112,7 @@
       "Name": "Dealmaker",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "achievement_13",
@@ -5179,7 +5184,7 @@
       "Name": "Saw It Coming",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "achievement_21",
@@ -5243,14 +5248,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 3574,
+      "Progressed": 3575,
       "Completed": 0
     }
   ],
@@ -5258,8 +5263,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2023-11-13T15:58:51.2109706+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:03:10.2989731+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:08:12.7314071+00:00",
   "LastUpdate_AppInfo": "2023-11-09T04:56:59.244712+00:00",
-  "LastUpdate_Ratings": "2023-11-14T11:58:54.2468515+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:03:10.2990028+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:03:54.4709466+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:08:12.7314519+00:00"
 }

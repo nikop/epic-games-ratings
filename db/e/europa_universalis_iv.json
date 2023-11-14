@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 41,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 20,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -12063,9 +12063,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 455319,
+  "EOS_Progressed": 455352,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6243,
+  "EOS_NewPlayers": 6245,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35863,6 +35863,11 @@
       "Time": "2023-11-14T12:03:22.2508634+00:00",
       "NumProgressed": 455319,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T13:08:24.8747286+00:00",
+      "NumProgressed": 455352,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36000,9 +36005,9 @@
       "ID": "achievement_agressive_expander",
       "SetID": "67mdiil",
       "Name": "Aggressive Expander",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -36016,9 +36021,9 @@
       "ID": "achievement_all_belongs_to_mother_russia",
       "SetID": "67mdiil",
       "Name": "All belongs to Mother Russia",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_all_blue",
@@ -36088,9 +36093,9 @@
       "ID": "achievement_arabian_coffee",
       "SetID": "8p2n7he",
       "Name": "Arabian Coffee",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_around_the_world_in_eighty_years",
@@ -36264,9 +36269,9 @@
       "ID": "achievement_blockader",
       "SetID": "67mdiil",
       "Name": "Blockader",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -36384,9 +36389,9 @@
       "ID": "achievement_city_of_cities",
       "SetID": "67mdiil",
       "Name": "City of Cities",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_cold_war",
@@ -36728,9 +36733,9 @@
       "ID": "achievement_foul_mouthed",
       "SetID": "8p2n7he",
       "Name": "Foul Mouthed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_four_for_trade",
@@ -37432,9 +37437,9 @@
       "ID": "achievement_multiculturalism",
       "SetID": "8p2n7he",
       "Name": "Multiculturalism",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_my_armies_are_invincible",
@@ -37584,9 +37589,9 @@
       "ID": "achievement_one_family_to_rule_them_all",
       "SetID": "8p2n7he",
       "Name": "One Family to Rule them All",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_one_king_to_rule",
@@ -37736,9 +37741,9 @@
       "ID": "achievement_queen_of_conquest",
       "SetID": "8p2n7he",
       "Name": "Queen of Conquest",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_queen_of_mercury",
@@ -38232,9 +38237,9 @@
       "ID": "achievement_the_grand_armada",
       "SetID": "67mdiil",
       "Name": "The Grand Armada",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_the_great_khan",
@@ -38424,9 +38429,9 @@
       "ID": "achievement_total_control",
       "SetID": "8p2n7he",
       "Name": "Total Control",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -38777,21 +38782,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 455319,
+      "Progressed": 455352,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 455319,
+      "Progressed": 455352,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-14T09:57:28.5758681+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:03:22.2508631+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:08:24.8747282+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-14T11:56:56.6260759+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:03:22.2519635+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:02:00.4162009+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:08:24.8758147+00:00"
 }

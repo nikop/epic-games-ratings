@@ -5,19 +5,19 @@ Rating: 4.76 (Ranked 127)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,329 |
-| First Class Student | 14.00% | ~42,288 |
-| Troll with the Punches | 14.00% | ~42,288 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,330 |
+| First Class Student | 14.00% | ~42,289 |
+| Troll with the Punches | 14.00% | ~42,289 |
 | A Keen Sense of Spell | 13.00% | ~39,268 |
 | A Talent for Spending | 12.00% | ~36,247 |
 | That's a Keeper | 12.00% | ~36,247 |
-| Grappling with a Graphorn | 11.00% | ~33,226 |
-| The One Who Mastered Memories | 11.00% | ~33,226 |
-| The Hallowed Hero | 11.00% | ~33,226 |
-| The Defender of Dragons | 11.00% | ~33,226 |
-| Challenge Accepted | 11.00% | ~33,226 |
-| Loom for Improvement | 11.00% | ~33,226 |
-| Coasting Along | 11.00% | ~33,226 |
+| Grappling with a Graphorn | 11.00% | ~33,227 |
+| The One Who Mastered Memories | 11.00% | ~33,227 |
+| The Hallowed Hero | 11.00% | ~33,227 |
+| The Defender of Dragons | 11.00% | ~33,227 |
+| Challenge Accepted | 11.00% | ~33,227 |
+| Loom for Improvement | 11.00% | ~33,227 |
+| Coasting Along | 11.00% | ~33,227 |
 | The Hero of Hogwarts | 10.00% | ~30,206 |
 | Followed the Butterflies | 10.00% | ~30,206 |
 | Rising From the Ashes | 10.00% | ~30,206 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,059 (Ranked 50)  
-Completed: 510 (0.17%) (Ranked 257)  
+Progressed: 302,061 (Ranked 51)  
+Completed: 510 (0.17%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,7 +259,7 @@ Completed: 510 (0.17%) (Ranked 257)
 | 2023-11-11 | 301,908 | 508 |
 | 2023-11-12 | 301,983 | 510 |
 | 2023-11-13 | 302,030 | 510 |
-| 2023-11-14 | 302,059 | 510 |
+| 2023-11-14 | 302,061 | 510 |
 ## Awards
 Max (Character Customization): 24,282  (Ranked 17)  
 Sum: 48,111 (Ranked 30)  

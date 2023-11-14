@@ -20,8 +20,8 @@ Number of Ratings: 88  (23.09.2022)
 | Lady | 31.00% | ~13,602 |
 | Fashionable Assassin | 27.00% | ~11,847 |
 | Apex Predator | 24.00% | ~10,530 |
+| Soul Reaver | 23.00% | ~10,091 |
 | Embers | 22.00% | ~9,653 |
-| Soul Reaver | 22.00% | ~9,653 |
 | Wall Lizard | 20.00% | ~8,775 |
 | Clinging to Life | 18.00% | ~7,898 |
 | Burning | 17.00% | ~7,459 |

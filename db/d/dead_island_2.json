@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 85,
   "Ranking_EOS_Progress": 20,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 28,
+  "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -6495,10 +6495,10 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718262,
-  "EOS_Completed": 2390,
-  "EOS_NewPlayers": 3877,
-  "EOS_NewCompleters": 38,
+  "EOS_Progressed": 718283,
+  "EOS_Completed": 2391,
+  "EOS_NewPlayers": 3872,
+  "EOS_NewCompleters": 39,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30250,6 +30250,11 @@
       "Time": "2023-11-14T12:04:13.6456019+00:00",
       "NumProgressed": 718262,
       "NumCompleted": 2390
+    },
+    {
+      "Time": "2023-11-14T13:09:15.1683765+00:00",
+      "NumProgressed": 718283,
+      "NumCompleted": 2391
     }
   ],
   "TotalAchievements": 51,
@@ -30421,7 +30426,7 @@
       "Name": "Hotel California",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6464
+      "UsersEstimate": 6465
     },
     {
       "ID": "ach_impressive_aim",
@@ -30597,7 +30602,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 6464
+      "UsersEstimate": 6465
     },
     {
       "ID": "ach_well_known_survivor",
@@ -30668,13 +30673,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718262,
-      "Completed": 2390
+      "Progressed": 718283,
+      "Completed": 2391
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43804,
+      "Progressed": 43825,
       "Completed": 36540
     }
   ],
@@ -30682,8 +30687,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-14T06:57:22.1835881+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:04:13.6456017+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:09:15.1683761+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T11:57:07.3212331+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:04:13.6457163+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:02:10.8058206+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:09:15.1685094+00:00"
 }

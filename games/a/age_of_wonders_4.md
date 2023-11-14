@@ -25,6 +25,7 @@ Rating: 4.61 (Ranked 385)
 | Digging for Treasure | 0.50% | ~27 |
 | Intimidation Tactics | 0.50% | ~27 |
 | Sehiran Oasis | 0.50% | ~27 |
+| Seal the Deal | 0.50% | ~27 |
 | Dawn of the Dread | 0.50% | ~27 |
 | Enchanted Archipelago | 0.40% | ~22 |
 | My Final Form | 0.40% | ~22 |
@@ -34,7 +35,6 @@ Rating: 4.61 (Ranked 385)
 | Blood of the Dragon | 0.40% | ~22 |
 | Mighty Hoard | 0.40% | ~22 |
 | Prometheus Avenged | 0.40% | ~22 |
-| Seal the Deal | 0.40% | ~22 |
 | A Conqueror's Cohort | 0.40% | ~22 |
 | Return of the Wizard King | 0.30% | ~16 |
 | The Creator | 0.30% | ~16 |

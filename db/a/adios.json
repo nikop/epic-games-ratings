@@ -117,9 +117,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 78326,
-  "EOS_Completed": 840,
-  "EOS_NewPlayers": 552,
+  "EOS_Progressed": 78327,
+  "EOS_Completed": 841,
+  "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -23372,6 +23372,11 @@
       "Time": "2023-11-14T12:05:50.7501819+00:00",
       "NumProgressed": 78326,
       "NumCompleted": 840
+    },
+    {
+      "Time": "2023-11-14T13:10:50.3149463+00:00",
+      "NumProgressed": 78327,
+      "NumCompleted": 841
     }
   ],
   "TotalAchievements": 25,
@@ -23487,7 +23492,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 16448
+      "UsersEstimate": 16449
     },
     {
       "ID": "Meaty",
@@ -23535,7 +23540,7 @@
       "Name": "Right On Target",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10183
     },
     {
       "ID": "Sniper",
@@ -23582,16 +23587,16 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 78326,
-      "Completed": 840
+      "Progressed": 78327,
+      "Completed": 841
     }
   ],
   "FirstSeen": "2022-07-22T20:27:11.1683553+00:00",
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2023-09-23T23:59:28.3978214+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:05:50.7501817+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:10:50.3149461+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:48.731419+00:00",
-  "LastUpdate_Ratings": "2023-11-14T11:59:00.2408282+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:05:50.7503015+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:04:00.3109076+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:10:50.3150622+00:00"
 }

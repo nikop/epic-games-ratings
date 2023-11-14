@@ -9,9 +9,9 @@
 | Second Shard | 9.00% | ~27 |
 | Death is Merely a Setback | 8.00% | ~24 |
 | Ring of Fire! | 8.00% | ~24 |
+| Third Shard | 8.00% | ~24 |
 | Champion of Kalevala | 7.00% | ~21 |
 | Keyu Exterminator | 7.00% | ~21 |
-| Third Shard | 7.00% | ~21 |
 | Berry Nice | 6.00% | ~18 |
 | Fourth Shard | 6.00% | ~18 |
 | Big Fish | 5.00% | ~15 |

@@ -8041,9 +8041,9 @@
       "Count": 3517
     }
   ],
-  "EOS_Progressed": 234971,
+  "EOS_Progressed": 234978,
   "EOS_Completed": 2447,
-  "EOS_NewPlayers": 1085,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31326,6 +31326,11 @@
       "Time": "2023-11-14T12:08:09.1979606+00:00",
       "NumProgressed": 234971,
       "NumCompleted": 2447
+    },
+    {
+      "Time": "2023-11-14T13:13:16.6184459+00:00",
+      "NumProgressed": 234978,
+      "NumCompleted": 2447
     }
   ],
   "TotalAchievements": 532,
@@ -35561,7 +35566,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "objective_completed_1548",
@@ -35569,7 +35574,7 @@
       "Name": "Tomb of Champions",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1208
     },
     {
       "ID": "objective_completed_1552",
@@ -35592,21 +35597,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201245,
+      "Progressed": 201252,
       "Completed": 3923
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 234971,
+      "Progressed": 234978,
       "Completed": 2447
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-13T22:25:09.7564177+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:08:09.1979603+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:13:16.6184454+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-14T12:00:04.1252308+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:08:09.2000859+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:05:07.7091083+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:13:16.6206562+00:00"
 }

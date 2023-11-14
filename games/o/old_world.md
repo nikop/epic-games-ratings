@@ -97,6 +97,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 1.00% | ~153 |
 | Learn to Play 3 | 1.00% | ~153 |
 | Learn to Play 4 | 1.00% | ~153 |
+| Carthage | 1.00% | ~153 |
 | Greece | 1.00% | ~153 |
 | Power to the People | 1.00% | ~153 |
 | Persian Paganism | 1.00% | ~153 |
@@ -117,7 +118,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.90% | ~138 |
 | Church of the Holy Sepulchre | 0.90% | ~138 |
 | Babylonia | 0.90% | ~138 |
-| Carthage | 0.90% | ~138 |
 | One True Faith | 0.90% | ~138 |
 | Industrial Progress | 0.90% | ~138 |
 | Enlightenment | 0.90% | ~138 |
@@ -177,6 +177,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
 | Prosperous Kmt | 0.30% | ~46 |
+| Barbarian Horde | 0.20% | ~31 |
 | Gold Victory (Carthage 1) | 0.20% | ~31 |
 | Bronze Victory (Carthage 2) | 0.20% | ~31 |
 | Silver Victory (Carthage 2) | 0.20% | ~31 |
@@ -205,7 +206,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Alliance Victory | 0.10% | ~15 |
 | Future Regicide | 0.10% | ~15 |
 | Acropolis in Athenai | 0.10% | ~15 |
-| Barbarian Horde | 0.10% | ~15 |
 | The Great Raging Horde | 0.10% | ~15 |
 | United Against The Horde | 0.10% | ~15 |
 | Battle of Opis | 0.10% | ~15 |

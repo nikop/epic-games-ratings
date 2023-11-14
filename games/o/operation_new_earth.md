@@ -11,10 +11,10 @@ Rating: 3.28 (Ranked 1,038)
 | Corporal | 15.00% | ~274 |
 | Sergeant | 12.00% | ~219 |
 | Covert Operative | 12.00% | ~219 |
-| Lieutenant | 10.00% | ~182 |
-| Getting Deployment | 10.00% | ~182 |
-| On Target | 10.00% | ~182 |
-| Infantry Reporting | 10.00% | ~182 |
+| Lieutenant | 10.00% | ~183 |
+| Getting Deployment | 10.00% | ~183 |
+| On Target | 10.00% | ~183 |
+| Infantry Reporting | 10.00% | ~183 |
 | Keeping Busy | 9.00% | ~164 |
 | Stocking Up | 9.00% | ~164 |
 | Fighting for Survival | 8.00% | ~146 |
@@ -32,10 +32,10 @@ Rating: 3.28 (Ranked 1,038)
 | Resourceful | 4.00% | ~73 |
 | Colonel | 3.00% | ~55 |
 | Control the Skies | 3.00% | ~55 |
-| Advanced Warfare | 2.00% | ~36 |
-| General | 2.00% | ~36 |
-| Seek & Destroy | 2.00% | ~36 |
-| Battle Ready | 2.00% | ~36 |
+| Advanced Warfare | 2.00% | ~37 |
+| General | 2.00% | ~37 |
+| Seek & Destroy | 2.00% | ~37 |
+| Battle Ready | 2.00% | ~37 |
 | Advanced Interceptors | 1.00% | ~18 |
 | Titan Tanks | 1.00% | ~18 |
 | Shock Troops | 1.00% | ~18 |
@@ -44,7 +44,7 @@ Rating: 3.28 (Ranked 1,038)
 | Platinum Achiever | 0.10% | ~2 |
 | Platinum Competitor | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,825 (Ranked 224)  
+Progressed: 1,826 (Ranked 224)  
 Completed: 1 (0.05%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 1 (0.05%) (Ranked 302)
 | 2023-11-11 | 1,808 | 1 |
 | 2023-11-12 | 1,816 | 1 |
 | 2023-11-13 | 1,822 | 1 |
-| 2023-11-14 | 1,825 | 1 |
+| 2023-11-14 | 1,826 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,8 +10,8 @@
 | Blue Dreams | 69.00% | ~474 |
 | Notai Notes | 69.00% | ~474 |
 | He's Famous! | 68.00% | ~467 |
+| Krugmazing | 67.00% | ~460 |
 | Cutie Poro | 67.00% | ~460 |
-| Krugmazing | 66.00% | ~453 |
 | The Fire Below the Mountain | 63.00% | ~433 |
 | Moneyball | 60.00% | ~412 |
 | Iceborn | 57.00% | ~392 |
@@ -20,11 +20,11 @@
 | Boom Things | 53.00% | ~364 |
 | My Darkest Day | 50.00% | ~344 |
 | Rhythm Of Willump | 47.00% | ~323 |
-| The Relentless Storm | 46.00% | ~316 |
+| The Relentless Storm | 47.00% | ~323 |
 | A Tragic Reminder | 44.00% | ~302 |
 | 3000 Year Blackout | 43.00% | ~295 |
-| The Finisher | 41.00% | ~282 |
-| True Legends | 40.00% | ~275 |
+| The Finisher | 42.00% | ~289 |
+| True Legends | 41.00% | ~282 |
 | So Close | 39.00% | ~268 |
 | You Get Used To It | 39.00% | ~268 |
 | Family | 36.00% | ~247 |
@@ -35,8 +35,8 @@
 | On The Rocks | 35.00% | ~240 |
 | Deadliest and Biggest Snowball Ever! | 35.00% | ~240 |
 | It Is Not Over | 33.00% | ~227 |
+| Snowy Poro | 32.00% | ~220 |
 | Never Gets Old | 32.00% | ~220 |
-| Snowy Poro | 31.00% | ~213 |
 | Vertical Power | 28.00% | ~192 |
 | One From The Heart | 14.00% | ~96 |
 | Yummy | 12.00% | ~82 |

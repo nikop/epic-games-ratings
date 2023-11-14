@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 132,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 57,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2021-10-20T12:00:00+00:00",
@@ -2429,9 +2429,9 @@
       "Count": 216
     }
   ],
-  "EOS_Progressed": 20569,
+  "EOS_Progressed": 20570,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1489,
+  "EOS_NewPlayers": 1483,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9239,6 +9239,11 @@
       "Time": "2023-11-14T12:05:16.0534212+00:00",
       "NumProgressed": 20569,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T13:10:16.5476964+00:00",
+      "NumProgressed": 20570,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -9451,7 +9456,7 @@
       "Name": "Overkill",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6993
+      "UsersEstimate": 6994
     },
     {
       "ID": "Achievement_Trophy27",
@@ -9635,7 +9640,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3085
+      "UsersEstimate": 3086
     },
     {
       "ID": "Achievement_Trophy50",
@@ -9738,7 +9743,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 20569,
+      "Progressed": 20570,
       "Completed": 1
     }
   ],
@@ -9746,8 +9751,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2023-11-14T03:00:02.2239753+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:05:16.053421+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:10:16.5476959+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.6098385+00:00",
-  "LastUpdate_Ratings": "2023-11-14T11:58:59.0738277+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:05:16.0534906+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:03:59.2437951+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:10:16.5477591+00:00"
 }

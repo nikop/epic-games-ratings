@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 52,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -2268,9 +2268,9 @@
       "ID": "KingDiamond",
       "SetID": "db30heh",
       "Name": "King\u0027s Jewel",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 211
+      "UsersEstimate": 216
     },
     {
       "ID": "PitSoul",
@@ -2435,8 +2435,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:06:06.6792748+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:11:06.0137717+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:13.8933831+00:00",
-  "LastUpdate_Ratings": "2023-11-14T11:57:42.9039279+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:06:06.679324+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:02:45.4543075+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:11:06.0138079+00:00"
 }

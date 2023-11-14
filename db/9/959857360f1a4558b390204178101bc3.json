@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 622,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 129,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -62,17 +62,17 @@
       "ID": "b1run",
       "SetID": "80p8koc",
       "Name": "Cave Miner",
-      "Percentage": 0,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "b2run",
       "SetID": "80p8koc",
       "Name": "Salty Dog",
-      "Percentage": 0,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "b3run",
@@ -126,9 +126,9 @@
       "ID": "dollar",
       "SetID": "80p8koc",
       "Name": "Scrooger",
-      "Percentage": 0,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "elevators",
@@ -222,9 +222,9 @@
       "ID": "safe1",
       "SetID": "80p8koc",
       "Name": "Riddle Me This",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "safes2",
@@ -246,9 +246,9 @@
       "ID": "up",
       "SetID": "80p8koc",
       "Name": "Ending: Withering heights",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -260,8 +260,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-03T14:03:12.6851297+00:00",
-  "LastChanged_Achievements": "2023-11-14T12:05:31.2556296+00:00",
+  "LastChanged_Achievements": "2023-11-14T13:10:31.3997878+00:00",
   "LastUpdate_AppInfo": "2023-11-12T17:57:22.5907529+00:00",
-  "LastUpdate_Ratings": "2023-11-14T12:02:28.1768247+00:00",
-  "LastUpdate_Achievements": "2023-11-14T12:05:31.2556447+00:00"
+  "LastUpdate_Ratings": "2023-11-14T13:07:29.9599529+00:00",
+  "LastUpdate_Achievements": "2023-11-14T13:10:31.3998008+00:00"
 }
