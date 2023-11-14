@@ -6,9 +6,9 @@
   "Ranking_Popularity": 17,
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 51,
-  "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_Completed": 257,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10417,10 +10417,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48118,
       "NumberOfAwardsMax": 24282
+    },
+    {
+      "Time": "2023-11-14T16:02:36.8942918+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48124,
+      "NumberOfAwardsMax": 24282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48118,
+  "NumberOfAwards": 48124,
   "NumberOfAwardsMax": 24282,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10446,7 +10452,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1201
+      "Count": 1206
     },
     {
       "Text": "This game is Great for Beginners",
@@ -10476,7 +10482,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1164
+      "Count": 1165
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -10497,10 +10503,10 @@
       "Count": 782
     }
   ],
-  "EOS_Progressed": 302064,
+  "EOS_Progressed": 302066,
   "EOS_Completed": 510,
-  "EOS_NewPlayers": 540,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 527,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
@@ -32867,6 +32873,11 @@
       "Time": "2023-11-14T15:09:11.5335915+00:00",
       "NumProgressed": 302064,
       "NumCompleted": 510
+    },
+    {
+      "Time": "2023-11-14T16:09:49.8530986+00:00",
+      "NumProgressed": 302066,
+      "NumCompleted": 510
     }
   ],
   "TotalAchievements": 45,
@@ -32878,7 +32889,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 48330
+      "UsersEstimate": 48331
     },
     {
       "ID": "PFA_10",
@@ -32910,7 +32921,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30206
+      "UsersEstimate": 30207
     },
     {
       "ID": "PFA_14",
@@ -32998,7 +33009,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 39268
+      "UsersEstimate": 39269
     },
     {
       "ID": "PFA_24",
@@ -33102,7 +33113,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30206
+      "UsersEstimate": 30207
     },
     {
       "ID": "PFA_36",
@@ -33230,23 +33241,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30206
+      "UsersEstimate": 30207
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302064,
+      "Progressed": 302066,
       "Completed": 510
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-14T14:02:39.90341+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:09:11.5335911+00:00",
+  "LastChanged": "2023-11-14T16:02:36.8942916+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:09:49.853098+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:02:36.8437326+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:09:11.5337544+00:00"
+  "LastUpdate_Ratings": "2023-11-14T16:02:36.8942922+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:09:49.8532295+00:00"
 }

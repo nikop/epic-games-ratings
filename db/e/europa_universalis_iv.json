@@ -11989,10 +11989,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 57505,
       "NumberOfAwardsMax": 6999
+    },
+    {
+      "Time": "2023-11-14T15:57:16.5326731+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 57546,
+      "NumberOfAwardsMax": 6999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 57505,
+  "NumberOfAwards": 57546,
   "NumberOfAwardsMax": 6999,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -12000,7 +12006,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 6699
+      "Count": 6712
     },
     {
       "Text": "This game has Challenging Combat",
@@ -12036,7 +12042,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 6264
+      "Count": 6279
     },
     {
       "Text": "This game is Relaxing",
@@ -12054,7 +12060,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 5386
+      "Count": 5399
     },
     {
       "Text": "This game has Unique Visuals",
@@ -12063,9 +12069,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 455443,
+  "EOS_Progressed": 455495,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6249,
+  "EOS_NewPlayers": 6260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35878,6 +35884,11 @@
       "Time": "2023-11-14T15:03:43.185359+00:00",
       "NumProgressed": 455443,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T16:04:14.3732813+00:00",
+      "NumProgressed": 455495,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -35919,9 +35930,9 @@
       "ID": "achievement_a_heros_welcome",
       "SetID": "8p2n7he",
       "Name": "A Hero\u2019s Welcome",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_a_manchurian_candidate",
@@ -36223,9 +36234,9 @@
       "ID": "achievement_basileus",
       "SetID": "8p2n7he",
       "Name": "Basileus",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_basque_in_the_glory",
@@ -36271,9 +36282,9 @@
       "ID": "achievement_bleed_them_dry",
       "SetID": "8p2n7he",
       "Name": "Bleed Them Dry",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_blockader",
@@ -36463,9 +36474,9 @@
       "ID": "achievement_cowardly_tactics",
       "SetID": "8p2n7he",
       "Name": "Cowardly Tactics",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_crossing_the_finnish_line",
@@ -36479,9 +36490,9 @@
       "ID": "achievement_czechs_and_balances",
       "SetID": "8p2n7he",
       "Name": "Czechs and Balances",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_dar_al_islam",
@@ -36671,9 +36682,9 @@
       "ID": "achievement_fine_financials",
       "SetID": "8p2n7he",
       "Name": "Fine Financials",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_fine_goosestep",
@@ -37079,9 +37090,9 @@
       "ID": "achievement_isnt_this_the_way_to_india",
       "SetID": "8p2n7he",
       "Name": "Isn\u0027t this the way to India?",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_italian_ambition",
@@ -37151,9 +37162,9 @@
       "ID": "achievement_kaiser_not_just_in_name",
       "SetID": "8p2n7he",
       "Name": "A Kaiser not just in name",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_keep_the_flame_burning",
@@ -37871,9 +37882,9 @@
       "ID": "achievement_sakoku_law",
       "SetID": "8p2n7he",
       "Name": "Sakoku Law",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_saladins_legacy",
@@ -38503,9 +38514,9 @@
       "ID": "achievement_trustworthy",
       "SetID": "8p2n7he",
       "Name": "Trustworthy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_turkish_delight",
@@ -38767,9 +38778,9 @@
       "ID": "achievement_the_last_crusade",
       "SetID": "8p2n7he",
       "Name": "The Last Crusade",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_truly_good_maaaaaaaaaaaaaaaaaaaaaaaaaatch",
@@ -38792,21 +38803,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 455443,
+      "Progressed": 455495,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 455443,
+      "Progressed": 455495,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2023-11-14T09:57:28.5758681+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:03:43.1853586+00:00",
+  "LastChanged": "2023-11-14T15:57:16.5326729+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:04:14.3732808+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:57:19.2158351+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:03:43.1864434+00:00"
+  "LastUpdate_Ratings": "2023-11-14T15:57:16.5326734+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:04:14.3743092+00:00"
 }

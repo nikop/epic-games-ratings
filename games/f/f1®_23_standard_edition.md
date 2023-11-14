@@ -5,20 +5,20 @@ Rating: 4.68 (Ranked 252)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,321 |
-| On the Top Step | 87.00% | ~4,978 |
+| Getting on the Step | 93.00% | ~5,322 |
+| On the Top Step | 87.00% | ~4,979 |
 | Setting up for Success | 76.00% | ~4,349 |
-| Team Orders | 74.00% | ~4,234 |
+| Team Orders | 74.00% | ~4,235 |
 | Engineer | 54.00% | ~3,090 |
-| Familiar Faces | 47.00% | ~2,689 |
+| Familiar Faces | 47.00% | ~2,690 |
 | Sharing the Love | 41.00% | ~2,346 |
 | Going the Extra Mile | 41.00% | ~2,346 |
 | Hitting a Season | 35.00% | ~2,003 |
 | A Dozen Pieces | 31.00% | ~1,774 |
 | Challenge Yourself | 31.00% | ~1,774 |
 | Making History | 30.00% | ~1,717 |
-| Network Success | 25.00% | ~1,430 |
-| Writing a new Chapter | 24.00% | ~1,373 |
+| Network Success | 25.00% | ~1,431 |
+| Writing a new Chapter | 24.00% | ~1,374 |
 | Spring Cleaning | 23.00% | ~1,316 |
 | Reduce | 19.00% | ~1,087 |
 | Ups and Downs | 19.00% | ~1,087 |
@@ -33,9 +33,9 @@ Rating: 4.68 (Ranked 252)
 | Hitting a Bullseye | 12.00% | ~687 |
 | Switcheroo | 12.00% | ~687 |
 | Spinning Around | 12.00% | ~687 |
-| All in a Weekend's Work | 11.00% | ~629 |
-| Friendly Competition | 11.00% | ~629 |
-| Recycle | 11.00% | ~629 |
+| All in a Weekend's Work | 11.00% | ~630 |
+| Friendly Competition | 11.00% | ~630 |
+| Recycle | 11.00% | ~630 |
 | Tinkerer | 9.00% | ~515 |
 | Undisputed Winner | 8.00% | ~458 |
 | For all Those Back at the Factory | 6.00% | ~343 |
@@ -49,13 +49,13 @@ Rating: 4.68 (Ranked 252)
 | Filling in the Gaps | 2.00% | ~114 |
 | Saturday Night Drama | 1.00% | ~57 |
 | Media Darling | 1.00% | ~57 |
-| Under the Microscope | 0.90% | ~51 |
+| Under the Microscope | 0.90% | ~52 |
 | Ultimate Collector | 0.50% | ~29 |
 | Golden Touch | 0.30% | ~17 |
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,722 (Ranked 181)  
+Progressed: 5,723 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-11 | 5,656 | 0 |
 | 2023-11-12 | 5,698 | 0 |
 | 2023-11-13 | 5,713 | 0 |
-| 2023-11-14 | 5,722 | 0 |
+| 2023-11-14 | 5,723 | 0 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 501)  
 Sum: 48 (Ranked 483)  

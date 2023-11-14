@@ -1,25 +1,25 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.47 (Ranked 636)  
+Rating: 4.47 (Ranked 635)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~371,910 |
-| Now You're Talking | 62.00% | ~329,406 |
-| Steel Yourself | 62.00% | ~329,406 |
-| Window Dressing | 50.00% | ~265,650 |
-| Trigger Happy | 46.00% | ~244,398 |
-| Riverborn | 45.00% | ~239,085 |
-| Starry Eyed | 34.00% | ~180,642 |
-| Poking Around | 34.00% | ~180,642 |
-| Talk of the Town | 24.00% | ~127,512 |
-| AAARR! | 23.00% | ~122,199 |
-| Hello Darkness | 23.00% | ~122,199 |
-| Wind At Our Backs | 22.00% | ~116,886 |
-| To the Beat | 20.00% | ~106,260 |
-| Sunny Shores | 17.00% | ~90,321 |
+| First Step | 70.00% | ~371,912 |
+| Now You're Talking | 62.00% | ~329,408 |
+| Steel Yourself | 62.00% | ~329,408 |
+| Window Dressing | 50.00% | ~265,652 |
+| Trigger Happy | 46.00% | ~244,399 |
+| Riverborn | 45.00% | ~239,086 |
+| Starry Eyed | 34.00% | ~180,643 |
+| Poking Around | 34.00% | ~180,643 |
+| Talk of the Town | 24.00% | ~127,513 |
+| AAARR! | 23.00% | ~122,200 |
+| Hello Darkness | 23.00% | ~122,200 |
+| Wind At Our Backs | 22.00% | ~116,887 |
+| To the Beat | 20.00% | ~106,261 |
+| Sunny Shores | 17.00% | ~90,322 |
 | Sunday Best | 16.00% | ~85,008 |
 | To Victory! | 15.00% | ~79,695 |
 | Two of a Kind | 14.00% | ~74,382 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,594 |
 | Point Taken | 0.20% | ~1,063 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 531,300 (Ranked 35)  
+Progressed: 531,303 (Ranked 35)  
 Completed: 498 (0.09%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,7 +272,7 @@ Completed: 498 (0.09%) (Ranked 281)
 | 2023-11-11 | 531,124 | 497 |
 | 2023-11-12 | 531,221 | 497 |
 | 2023-11-13 | 531,270 | 498 |
-| 2023-11-14 | 531,300 | 498 |
+| 2023-11-14 | 531,303 | 498 |
 ## Awards
 Max (Relaxing): 20  (Ranked 541)  
 Sum: 20 (Ranked 542)  

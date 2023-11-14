@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 483,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5722,
+  "EOS_Progressed": 5723,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 451,
+  "EOS_NewPlayers": 447,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5502,6 +5502,11 @@
       "Time": "2023-11-14T15:04:28.0039676+00:00",
       "NumProgressed": 5722,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T16:05:16.3723177+00:00",
+      "NumProgressed": 5723,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5530,7 +5535,7 @@
       "Name": "Under the Microscope",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "achievement_0004",
@@ -5562,7 +5567,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5321
+      "UsersEstimate": 5322
     },
     {
       "ID": "achievement_0008",
@@ -5570,7 +5575,7 @@
       "Name": "On the Top Step",
       "Percentage": 87,
       "XP": 20,
-      "UsersEstimate": 4978
+      "UsersEstimate": 4979
     },
     {
       "ID": "achievement_0009",
@@ -5586,7 +5591,7 @@
       "Name": "Network Success",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "achievement_0011",
@@ -5594,7 +5599,7 @@
       "Name": "All in a Weekend\u0027s Work",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_0012",
@@ -5674,7 +5679,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4234
+      "UsersEstimate": 4235
     },
     {
       "ID": "achievement_0022",
@@ -5714,7 +5719,7 @@
       "Name": "Friendly Competition",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_0027",
@@ -5754,7 +5759,7 @@
       "Name": "Recycle",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_0032",
@@ -5850,7 +5855,7 @@
       "Name": "Familiar Faces",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "achievement_0044",
@@ -5874,7 +5879,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1373
+      "UsersEstimate": 1374
     },
     {
       "ID": "achievement_0047",
@@ -5905,7 +5910,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5722,
+      "Progressed": 5723,
       "Completed": 0
     }
   ],
@@ -5913,8 +5918,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-14T14:57:42.5078658+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:04:28.0039671+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:05:16.3723166+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:57:42.5078664+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:04:28.0040272+00:00"
+  "LastUpdate_Ratings": "2023-11-14T15:57:51.240027+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:05:16.3723709+00:00"
 }

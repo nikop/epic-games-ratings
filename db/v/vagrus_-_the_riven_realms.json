@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 196,
+  "EOS_Progressed": 197,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -746,6 +746,11 @@
       "Time": "2023-11-14T11:05:44.8066954+00:00",
       "NumProgressed": 196,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T16:07:45.7663998+00:00",
+      "NumProgressed": 197,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1309,7 +1314,7 @@
       "Name": "Press-ganged",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1371,9 +1376,9 @@
       "ID": "Vanilla_SecondChance",
       "SetID": "27kik8p",
       "Name": "A Second Chance",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 116
+      "UsersEstimate": 114
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1548,7 +1553,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 196,
+      "Progressed": 197,
       "Completed": 0
     }
   ],
@@ -1556,8 +1561,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:06:12.8368592+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:07:45.7663994+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.6346975+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:58:37.0318371+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:06:12.8369411+00:00"
+  "LastUpdate_Ratings": "2023-11-14T15:59:13.040686+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:07:45.7664855+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 138,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -974,9 +974,9 @@
       "ID": "CATCH_30_FISH",
       "SetID": "aniflfk",
       "Name": "Fisherman",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 117
+      "UsersEstimate": 119
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -1101,8 +1101,8 @@
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:06:00.8715603+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:07:28.7044884+00:00",
   "LastUpdate_AppInfo": "2023-11-08T18:57:05.3146397+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:02:47.0765866+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:06:00.871577+00:00"
+  "LastUpdate_Ratings": "2023-11-14T16:02:52.1704025+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:07:28.7045068+00:00"
 }

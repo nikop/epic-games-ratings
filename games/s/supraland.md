@@ -6,17 +6,17 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~725,428 |
+| Out of bed | 99.00% | ~725,429 |
 | The Blues | 85.00% | ~622,843 |
-| Fast | 66.00% | ~483,619 |
+| Fast | 66.00% | ~483,620 |
 | Healthbar | 55.00% | ~403,016 |
 | Force Cube | 53.00% | ~388,361 |
 | Double Jump | 48.00% | ~351,723 |
-| Regeneration | 47.00% | ~344,395 |
-| Triple Jump | 43.00% | ~315,085 |
+| Regeneration | 47.00% | ~344,396 |
+| Triple Jump | 43.00% | ~315,086 |
 | Climb the hill | 42.00% | ~307,758 |
 | Through the fire pipe | 39.00% | ~285,775 |
-| MacGuffin | 38.00% | ~278,447 |
+| MacGuffin | 38.00% | ~278,448 |
 | Just once | 37.00% | ~271,120 |
 | Armor | 30.00% | ~219,827 |
 | True holy spirit | 28.00% | ~205,172 |
@@ -30,7 +30,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Buckle | 17.00% | ~124,569 |
 | Green Keycard | 17.00% | ~124,569 |
 | Rattle Hag | 16.00% | ~117,241 |
-| All Shells | 15.00% | ~109,913 |
+| All Shells | 15.00% | ~109,914 |
 | Beam | 14.00% | ~102,586 |
 | Health Drink | 13.00% | ~95,258 |
 | Helped a star | 13.00% | ~95,258 |
@@ -55,7 +55,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Momentum | 9.00% | ~65,948 |
 | Through the tiny pipe | 9.00% | ~65,948 |
 | Win! | 9.00% | ~65,948 |
-| The real real teleported man | 8.00% | ~58,620 |
+| The real real teleported man | 8.00% | ~58,621 |
 | Well deserved | 6.00% | ~43,965 |
 | Super Sword | 4.00% | ~29,310 |
 | Happiness | 3.00% | ~21,983 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~733 |
 | DLC: Top of the world | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,756 (Ranked 19)  
+Progressed: 732,757 (Ranked 19)  
 Completed: 760 (0.10%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,10 +313,10 @@ Completed: 760 (0.10%) (Ranked 276)
 | 2023-11-11 | 732,473 | 760 |
 | 2023-11-12 | 732,613 | 760 |
 | 2023-11-13 | 732,700 | 760 |
-| 2023-11-14 | 732,756 | 760 |
+| 2023-11-14 | 732,757 | 760 |
 ## Awards
 Max (Challenging Puzzles): 7,723  (Ranked 48)  
-Sum: 10,073 (Ranked 91)  
+Sum: 10,074 (Ranked 91)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -330,7 +330,7 @@ Diff (max vs sum): -43
 | This game is Extremely Fun | 260 |
 | This game has Obsessive Gameplay | 243 |
 | This game is Highly Recommended | 238 |
-| This game has a Creative Community | 195 |
+| This game has a Creative Community | 196 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -521,3 +521,4 @@ Diff (max vs sum): -43
 | 2023-11-10 | 4.61 | - | 7,720 | 10,070 |
 | 2023-11-11 | 4.61 | - | 7,721 | 10,071 |
 | 2023-11-12 | 4.61 | - | 7,723 | 10,073 |
+| 2023-11-14 | 4.61 | - | 7,723 | 10,074 |

@@ -2,9 +2,9 @@
   "ID": "9d5393fd5460430e80d2bfe9fcd55d6a",
   "Name": "Grim Nights",
   "ProductSlug": "grim-nights-fa4c5a",
-  "Ranking_EOS_Progress": 474,
+  "Ranking_EOS_Progress": 473,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-04-24T23:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -296,6 +296,11 @@
       "Time": "2023-11-14T03:04:17.0983056+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T16:04:24.9616756+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -305,7 +310,7 @@
       "ID": "ach_boss1",
       "SetID": "c2c0fb6",
       "Name": "Slay it!",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 150,
       "UsersEstimate": 19
     },
@@ -321,7 +326,7 @@
       "ID": "ach_boss3",
       "SetID": "c2c0fb6",
       "Name": "... And that one!",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 150,
       "UsersEstimate": 4
     },
@@ -329,7 +334,7 @@
       "ID": "ach_bunny10",
       "SetID": "c2c0fb6",
       "Name": "Poor things...",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -369,7 +374,7 @@
       "ID": "ach_day5",
       "SetID": "c2c0fb6",
       "Name": "So far so good...",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 20,
       "UsersEstimate": 25
     },
@@ -377,7 +382,7 @@
       "ID": "ach_level2",
       "SetID": "c2c0fb6",
       "Name": "Getting somewhere",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 30,
       "UsersEstimate": 32
     },
@@ -385,7 +390,7 @@
       "ID": "ach_level3",
       "SetID": "c2c0fb6",
       "Name": "Top notch!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 70,
       "UsersEstimate": 18
     },
@@ -409,7 +414,7 @@
       "ID": "ach_slay1000",
       "SetID": "c2c0fb6",
       "Name": "Slaughter",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
       "UsersEstimate": 11
     },
@@ -426,7 +431,7 @@
     {
       "ID": "c2c0fb6",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
@@ -434,8 +439,8 @@
   "FirstSeenRating": "2023-04-28T10:59:29.2849969+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:04.6857767+00:00",
   "LastChanged": "2023-04-28T10:59:29.284997+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:03:50.8234208+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:04:24.9616751+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:12.899327+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:59:53.7356485+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:03:50.8234328+00:00"
+  "LastUpdate_Ratings": "2023-11-14T16:01:08.7911015+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:04:24.9616847+00:00"
 }

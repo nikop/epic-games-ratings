@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 237,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1314,7 +1314,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 28309,
+  "EOS_Progressed": 28311,
   "EOS_Completed": 77,
   "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 1,
@@ -23669,6 +23669,11 @@
       "Time": "2023-11-14T15:08:53.6248158+00:00",
       "NumProgressed": 28309,
       "NumCompleted": 77
+    },
+    {
+      "Time": "2023-11-14T16:09:25.0280876+00:00",
+      "NumProgressed": 28311,
+      "NumCompleted": 77
     }
   ],
   "TotalAchievements": 22,
@@ -23704,7 +23709,7 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "1019",
@@ -23720,7 +23725,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "1021",
@@ -23808,7 +23813,7 @@
       "Name": "Well Stocked",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3963
+      "UsersEstimate": 3964
     },
     {
       "ID": "1032",
@@ -23855,15 +23860,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 28309,
+      "Progressed": 28311,
       "Completed": 77
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2023-11-03T13:09:00.6049785+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:08:53.6248154+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:09:25.0280871+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:10.3392763+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:03:02.5892706+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:08:53.62494+00:00"
+  "LastUpdate_Ratings": "2023-11-14T16:03:14.5291514+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:09:25.0282407+00:00"
 }

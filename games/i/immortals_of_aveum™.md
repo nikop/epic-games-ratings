@@ -27,8 +27,8 @@ Rating: 4.06 (Ranked 973)
 | Recruit | 15.00% | ~41 |
 | Armsman | 15.00% | ~41 |
 | Lights Army | 10.00% | ~27 |
+| Periapt Cerulean | 9.00% | ~25 |
 | Good Boy | 9.00% | ~25 |
-| Periapt Cerulean | 8.00% | ~22 |
 | Shroudfane Explorer | 8.00% | ~22 |
 | Best Dressed | 7.00% | ~19 |
 | Periapt Viridian | 7.00% | ~19 |

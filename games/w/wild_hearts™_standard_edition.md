@@ -7,32 +7,32 @@
 | Land of the Rising Sun | 99.00% | ~279 |
 | Hidden History | 84.00% | ~237 |
 | Commencing of Quests | 77.00% | ~217 |
-| Budding Conjuror | 76.00% | ~214 |
-| Man-Machine Master | 66.00% | ~186 |
-| Mountain Splitter | 65.00% | ~183 |
-| Fusion Conjuror | 64.00% | ~180 |
-| Memory Rouser | 64.00% | ~180 |
+| Budding Conjuror | 77.00% | ~217 |
+| Man-Machine Master | 67.00% | ~189 |
+| Mountain Splitter | 66.00% | ~186 |
+| Fusion Conjuror | 65.00% | ~183 |
+| Memory Rouser | 65.00% | ~183 |
 | Charmed by the Hunt | 64.00% | ~180 |
 | Subsistence Skills | 63.00% | ~178 |
-| Kemono Hunter | 59.00% | ~166 |
+| Kemono Hunter | 60.00% | ~169 |
 | Expert Conjuror | 56.00% | ~158 |
-| Distance Devourer | 53.00% | ~149 |
-| Flawless Crystal | 53.00% | ~149 |
+| Distance Devourer | 54.00% | ~152 |
+| Flawless Crystal | 54.00% | ~152 |
 | Bonds of Enmity | 52.00% | ~147 |
 | Helpful Heart | 52.00% | ~147 |
 | Master of the Skies | 51.00% | ~144 |
-| Counter Specialist | 48.00% | ~135 |
+| Counter Specialist | 49.00% | ~138 |
 | Axer of Auspice | 46.00% | ~130 |
 | Mighty Marmelizer | 42.00% | ~118 |
+| Fair Means or Foul | 41.00% | ~116 |
 | Single Minded | 40.00% | ~113 |
-| Fair Means or Foul | 40.00% | ~113 |
 | Snare Specialist | 40.00% | ~113 |
 | Kemono at Heart | 38.00% | ~107 |
 | Karakuri Trail | 37.00% | ~104 |
-| Artful Assister | 34.00% | ~96 |
-| Team Hunter | 33.00% | ~93 |
+| Artful Assister | 35.00% | ~99 |
+| Team Hunter | 34.00% | ~96 |
 | Reincarnation Cycle Stopper | 32.00% | ~90 |
-| Karakuri Isle | 30.00% | ~85 |
+| Karakuri Isle | 31.00% | ~87 |
 | Left Arm Leverager | 29.00% | ~82 |
 | Canyon of Karakuri | 27.00% | ~76 |
 | Style Seeker | 26.00% | ~73 |
@@ -42,14 +42,14 @@
 | Threaded Harmony | 24.00% | ~68 |
 | Quintessence of Form | 23.00% | ~65 |
 | Jack of All Trades | 22.00% | ~62 |
-| Karakuri Fortress | 20.00% | ~56 |
+| Karakuri Fortress | 21.00% | ~59 |
+| Volatile Vocation | 20.00% | ~56 |
 | Haven Hunter | 20.00% | ~56 |
-| Volatile Vocation | 19.00% | ~54 |
 | Tender Touch | 19.00% | ~54 |
 | Superlative View | 18.00% | ~51 |
 | Relentless Kemono Hunter | 15.00% | ~42 |
 | Vanquisher of the Volatile | 14.00% | ~39 |
-| Bewitched by Bathing | 11.00% | ~31 |
+| Bewitched by Bathing | 12.00% | ~34 |
 | Big Spender | 11.00% | ~31 |
 | Tsukumo Whisperer | 7.00% | ~20 |
 ## Popularity (Based on EOS Achievements)

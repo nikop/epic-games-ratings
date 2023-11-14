@@ -5,10 +5,10 @@ Rating: 4.76 (Ranked 127)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 16.00% | ~48,330 |
+| The Sort Who Makes an Entrance | 16.00% | ~48,331 |
 | First Class Student | 14.00% | ~42,289 |
 | Troll with the Punches | 14.00% | ~42,289 |
-| A Keen Sense of Spell | 13.00% | ~39,268 |
+| A Keen Sense of Spell | 13.00% | ~39,269 |
 | A Talent for Spending | 12.00% | ~36,248 |
 | That's a Keeper | 12.00% | ~36,248 |
 | Grappling with a Graphorn | 11.00% | ~33,227 |
@@ -18,9 +18,9 @@ Rating: 4.76 (Ranked 127)
 | Challenge Accepted | 11.00% | ~33,227 |
 | Loom for Improvement | 11.00% | ~33,227 |
 | Coasting Along | 11.00% | ~33,227 |
-| The Hero of Hogwarts | 10.00% | ~30,206 |
-| Followed the Butterflies | 10.00% | ~30,206 |
-| Rising From the Ashes | 10.00% | ~30,206 |
+| The Hero of Hogwarts | 10.00% | ~30,207 |
+| Followed the Butterflies | 10.00% | ~30,207 |
+| Rising From the Ashes | 10.00% | ~30,207 |
 | The Spell Master | 9.00% | ~27,186 |
 | The Avenging Gazelle | 8.00% | ~24,165 |
 | Beast Friends | 8.00% | ~24,165 |
@@ -51,8 +51,8 @@ Rating: 4.76 (Ranked 127)
 | The Nature of the Beast | 0.70% | ~2,114 |
 | Collector's Edition | 0.30% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 302,064 (Ranked 51)  
-Completed: 510 (0.17%) (Ranked 258)  
+Progressed: 302,066 (Ranked 51)  
+Completed: 510 (0.17%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,10 +259,10 @@ Completed: 510 (0.17%) (Ranked 258)
 | 2023-11-11 | 301,908 | 508 |
 | 2023-11-12 | 301,983 | 510 |
 | 2023-11-13 | 302,030 | 510 |
-| 2023-11-14 | 302,064 | 510 |
+| 2023-11-14 | 302,066 | 510 |
 ## Awards
 Max (Character Customization): 24,282  (Ranked 17)  
-Sum: 48,118 (Ranked 30)  
+Sum: 48,124 (Ranked 30)  
 Diff (max vs sum): -13  
 | Award | Count |
 | ----- | ----- |
@@ -273,8 +273,8 @@ Diff (max vs sum): -13
 | This game has Diverse Characters | 1,244 |
 | This game is Extremely Fun | 1,226 |
 | This game is Relaxing | 1,220 |
-| This game has Amazing Characters | 1,201 |
-| This game is Highly Recommended | 1,164 |
+| This game has Amazing Characters | 1,206 |
+| This game is Highly Recommended | 1,165 |
 | This game has Quickly Understood Controls | 1,107 |
 | This game has Beautiful Visuals | 1,024 |
 | This game has a Creative Community | 782 |
@@ -516,4 +516,4 @@ Diff (max vs sum): -13
 | 2023-11-11 | 4.76 | 24,188 | 47,880 |
 | 2023-11-12 | 4.76 | 24,229 | 47,981 |
 | 2023-11-13 | 4.76 | 24,259 | 48,072 |
-| 2023-11-14 | 4.76 | 24,282 | 48,118 |
+| 2023-11-14 | 4.76 | 24,282 | 48,124 |

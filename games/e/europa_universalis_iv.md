@@ -6,6 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| A Hero’s Welcome | 0.10% | ~455 |
 | A Pile of Gold | 0.10% | ~455 |
 | AAA Credit | 0.10% | ~455 |
 | Absolutely | 0.10% | ~455 |
@@ -15,12 +16,16 @@ Number of Ratings: 8,414  (23.09.2022)
 | Arabian Coffee | 0.10% | ~455 |
 | At every continent | 0.10% | ~455 |
 | Azur semé de lis or | 0.10% | ~455 |
+| Basileus | 0.10% | ~455 |
+| Bleed Them Dry | 0.10% | ~455 |
 | Blockader | 0.10% | ~455 |
 | Bright Spark | 0.10% | ~455 |
 | Brothers in Arms | 0.10% | ~455 |
 | City of Cities | 0.10% | ~455 |
 | Cold War | 0.10% | ~455 |
 | Combined Arms | 0.10% | ~455 |
+| Cowardly Tactics | 0.10% | ~455 |
+| Czechs and Balances | 0.10% | ~455 |
 | Defender of the Faith | 0.10% | ~455 |
 | Double the Love | 0.10% | ~455 |
 | Down Under | 0.10% | ~455 |
@@ -29,6 +34,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Electable! | 0.10% | ~455 |
 | The Emperors new clothes | 0.10% | ~455 |
 | Factionalism | 0.10% | ~455 |
+| Fine Financials | 0.10% | ~455 |
 | A Fine Goosestep | 0.10% | ~455 |
 | Foul Mouthed | 0.10% | ~455 |
 | Four For Trade | 0.10% | ~455 |
@@ -39,11 +45,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Hard Bargaining | 0.10% | ~455 |
 | Imperio español | 0.10% | ~455 |
 | In the Name of the Father | 0.10% | ~455 |
+| Isn't this the way to India? | 0.10% | ~455 |
 | Italian Ambition | 0.10% | ~455 |
 | It's all about luck | 0.10% | ~455 |
 | It's all about the money | 0.10% | ~455 |
 | Just a Little Patience | 0.10% | ~455 |
 | Just Resting In My Account | 0.10% | ~455 |
+| A Kaiser not just in name | 0.10% | ~455 |
 | Live Long and Prosper | 0.10% | ~455 |
 | Multiculturalism | 0.10% | ~455 |
 | My armies are invincible! | 0.10% | ~455 |
@@ -54,6 +62,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 0.10% | ~455 |
 | Respected | 0.10% | ~455 |
 | Royal Authority | 0.10% | ~455 |
+| Sakoku Law | 0.10% | ~455 |
 | Seriously?! | 0.10% | ~455 |
 | Tear Down This Wall | 0.10% | ~455 |
 | That is mine! | 0.10% | ~455 |
@@ -70,6 +79,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Trophy Hunter | 0.10% | ~455 |
 | True Catholic | 0.10% | ~455 |
 | Truly Divine Ruler | 0.10% | ~455 |
+| Trustworthy | 0.10% | ~455 |
 | Until death do us apart | 0.10% | ~455 |
 | Vasa or Wettin? | 0.10% | ~455 |
 | Victorious! | 0.10% | ~455 |
@@ -78,11 +88,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Wonderful | 0.10% | ~455 |
 | World Discoverer | 0.10% | ~455 |
 | Restore the Pentarchy | 0.10% | ~455 |
+| The Last Crusade | 0.10% | ~455 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Blessed Nation | 0.00% | ~0 |
 | A Decent Reserve | 0.00% | ~0 |
-| A Hero’s Welcome | 0.00% | ~0 |
 | A Manchurian Candidate | 0.00% | ~0 |
 | A Protected Market | 0.00% | ~0 |
 | A Sun God | 0.00% | ~0 |
@@ -111,13 +121,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | Baltic Crusader | 0.00% | ~0 |
 | These Banners need a Saga | 0.00% | ~0 |
 | Barbarossa | 0.00% | ~0 |
-| Basileus | 0.00% | ~0 |
 | Basque in Glory | 0.00% | ~0 |
 | Bengal Tiger | 0.00% | ~0 |
 | Better than Napoleon | 0.00% | ~0 |
 | Big Blue Blob | 0.00% | ~0 |
 | Black Jack | 0.00% | ~0 |
-| Bleed Them Dry | 0.00% | ~0 |
 | Blood for the Sky God! | 0.00% | ~0 |
 | Breaking the Yoke | 0.00% | ~0 |
 | Brentry! | 0.00% | ~0 |
@@ -135,9 +143,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Copium Wars | 0.00% | ~0 |
 | Core-fu | 0.00% | ~0 |
 | Cotton Kandy | 0.00% | ~0 |
-| Cowardly Tactics | 0.00% | ~0 |
 | Crossing the Finnish Line | 0.00% | ~0 |
-| Czechs and Balances | 0.00% | ~0 |
 | Dar al-Islam | 0.00% | ~0 |
 | David the Builder | 0.00% | ~0 |
 | Definitely the Sultan of Rum | 0.00% | ~0 |
@@ -153,7 +159,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Everything's Coming Up Mulhouse | 0.00% | ~0 |
 | Fanatic Collectivist | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
-| Fine Financials | 0.00% | ~0 |
 | First Come, First Serve | 0.00% | ~0 |
 | The First Toungoo Empire | 0.00% | ~0 |
 | For Odin! | 0.00% | ~0 |
@@ -194,11 +199,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Industrial Powerhouse | 0.00% | ~0 |
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
-| Isn't this the way to India? | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
-| A Kaiser not just in name | 0.00% | ~0 |
 | Keep the Flame Burning | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
 | King of Jerusalem | 0.00% | ~0 |
@@ -278,7 +281,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rozwi Empire | 0.00% | ~0 |
 | Ruina Imperii | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
-| Sakoku Law | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 | Shahanshah | 0.00% | ~0 |
@@ -341,7 +343,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Traditional Player | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
-| Trustworthy | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
 | Turn the Table | 0.00% | ~0 |
 | Turning the Tide | 0.00% | ~0 |
@@ -366,11 +367,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | Legacy of Saint George | 0.00% | ~0 |
 | Mets Hayk | 0.00% | ~0 |
-| The Last Crusade | 0.00% | ~0 |
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,443 (Ranked 41)  
+Progressed: 455,495 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,22 +578,22 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,443 | 1 |
+| 2023-11-14 | 455,495 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 54)  
-Sum: 57,505 (Ranked 24)  
+Sum: 57,546 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 6,999 |
 | This game has Diverse Characters | 6,725 |
-| This game is Highly Recommended | 6,699 |
+| This game is Highly Recommended | 6,712 |
 | This game has Challenging Combat | 6,606 |
 | This game is Extremely Fun | 6,587 |
 | This game is Relaxing | 6,429 |
-| This game has Competitive Players | 6,264 |
+| This game has Competitive Players | 6,279 |
 | This game has Amazing Storytelling | 5,810 |
-| This game has Amazing Characters | 5,386 |
+| This game has Amazing Characters | 5,399 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
 ## Ratings History
@@ -899,4 +899,4 @@ Diff (max vs sum): 30
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
 | 2023-11-12 | 4.69 | - | 6,965 | 57,304 |
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
-| 2023-11-14 | 4.69 | - | 6,999 | 57,505 |
+| 2023-11-14 | 4.69 | - | 6,999 | 57,546 |

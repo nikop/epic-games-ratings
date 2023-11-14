@@ -4,10 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Calm before the Storm | 1.00% | ~2 |
 | Powerful Allies | 0.50% | ~1 |
+| Adventurer | 0.50% | ~1 |
+| Fashion Victim | 0.50% | ~1 |
+| Scholar | 0.50% | ~1 |
+| I Found It | 0.50% | ~1 |
 | Break Out | 0.00% | ~0 |
 | Find Allies | 0.00% | ~0 |
-| Calm before the Storm | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
@@ -16,7 +20,6 @@
 | Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
-| Adventurer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
 | Tributes of Caladrias | 0.00% | ~0 |
 | Essence Blow | 0.00% | ~0 |
@@ -28,10 +31,7 @@
 | Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | Geared Up | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
-| Fashion Victim | 0.00% | ~0 |
-| Scholar | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
-| I Found It | 0.00% | ~0 |
 | All That Gold | 0.00% | ~0 |
 | Alchemist | 0.00% | ~0 |
 | Stone Collection | 0.00% | ~0 |

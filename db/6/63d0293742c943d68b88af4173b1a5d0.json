@@ -360,9 +360,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "REMAKE_002",
@@ -535,8 +535,8 @@
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:05:50.985168+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:07:14.4871176+00:00",
   "LastUpdate_AppInfo": "2023-11-13T20:57:14.3706772+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:02:38.2910452+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:05:50.9851799+00:00"
+  "LastUpdate_Ratings": "2023-11-14T16:02:39.0975519+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:07:14.4871374+00:00"
 }

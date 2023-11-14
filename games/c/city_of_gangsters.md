@@ -5,30 +5,30 @@ Rating: 4.28 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 47.00% | ~165,600 |
+| Corner Clout | 47.00% | ~165,602 |
 | Copacetic Coordination | 16.00% | ~56,375 |
-| Fronting the Money | 15.00% | ~52,851 |
+| Fronting the Money | 15.00% | ~52,852 |
 | The Dawn of Automation | 14.00% | ~49,328 |
 | Extraordinary Logistics | 14.00% | ~49,328 |
-| Dirty Money | 13.00% | ~45,804 |
-| Family First | 13.00% | ~45,804 |
+| Dirty Money | 13.00% | ~45,805 |
+| Family First | 13.00% | ~45,805 |
 | Cleaning House | 12.00% | ~42,281 |
 | Room in the Back | 12.00% | ~42,281 |
 | Beating the Heat | 11.00% | ~38,758 |
 | Booze Baron | 11.00% | ~38,758 |
 | Friends on the Force | 10.00% | ~35,234 |
 | Neighborhood Watch | 10.00% | ~35,234 |
-| Core Corps | 8.00% | ~28,187 |
-| Sizeable Stash | 8.00% | ~28,187 |
+| Core Corps | 8.00% | ~28,188 |
+| Sizeable Stash | 8.00% | ~28,188 |
 | Street Fighter | 7.00% | ~24,664 |
 | Friendly Gestures | 7.00% | ~24,664 |
 | People Person | 7.00% | ~24,664 |
-| Liquor Lord | 6.00% | ~21,140 |
-| Safety in Numbers | 6.00% | ~21,140 |
-| Moving Experiences | 6.00% | ~21,140 |
-| Wise Head | 6.00% | ~21,140 |
-| Show ‘em the Sugar | 6.00% | ~21,140 |
-| Killing Them Softly | 6.00% | ~21,140 |
+| Liquor Lord | 6.00% | ~21,141 |
+| Safety in Numbers | 6.00% | ~21,141 |
+| Moving Experiences | 6.00% | ~21,141 |
+| Wise Head | 6.00% | ~21,141 |
+| Show ‘em the Sugar | 6.00% | ~21,141 |
+| Killing Them Softly | 6.00% | ~21,141 |
 | Street Knowledge | 5.00% | ~17,617 |
 | Oh Captain | 5.00% | ~17,617 |
 | Branching Out | 5.00% | ~17,617 |
@@ -86,7 +86,7 @@ Rating: 4.28 (Ranked 850)
 | High Pillow | 0.10% | ~352 |
 | Station Master | 0.10% | ~352 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 352,341 (Ranked 47)  
+Progressed: 352,345 (Ranked 47)  
 Completed: 7 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -294,7 +294,7 @@ Completed: 7 (0.00%) (Ranked 351)
 | 2023-11-11 | 351,924 | 7 |
 | 2023-11-12 | 352,103 | 7 |
 | 2023-11-13 | 352,246 | 7 |
-| 2023-11-14 | 352,341 | 7 |
+| 2023-11-14 | 352,345 | 7 |
 ## Awards
 Max (Great for Beginners): 45  (Ranked 441)  
 Sum: 189 (Ranked 404)  

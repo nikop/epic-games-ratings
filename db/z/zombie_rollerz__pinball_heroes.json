@@ -772,9 +772,9 @@
       "ID": "CLG_LEVEL_BULLSEYE",
       "SetID": "89cjc9l",
       "Name": "Bullseye!",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 159
     },
     {
       "ID": "CLG_LEVEL_COMBO",
@@ -796,9 +796,9 @@
       "ID": "CLG_RUN_LEVELUP_1",
       "SetID": "89cjc9l",
       "Name": "Level Up!",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 164
+      "UsersEstimate": 166
     },
     {
       "ID": "CLG_RUN_LEVELUP_2",
@@ -1324,9 +1324,9 @@
       "ID": "PRG_SP_arcadeFTUX",
       "SetID": "89cjc9l",
       "Name": "Graduation!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
@@ -1341,8 +1341,8 @@
   "FirstSeenRating": "2023-03-31T05:56:59.5373098+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.5975243+00:00",
   "LastChanged": "2023-08-23T10:59:34.2635846+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:03:06.5391661+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:03:22.6623716+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:22.009342+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:59:39.0376297+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:03:06.5392406+00:00"
+  "LastUpdate_Ratings": "2023-11-14T16:00:46.7363911+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:03:22.6624424+00:00"
 }

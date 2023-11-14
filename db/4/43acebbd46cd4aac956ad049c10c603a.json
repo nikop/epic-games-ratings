@@ -5,10 +5,10 @@
   "Ranking_Rating": 3,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 334,
+  "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 318,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -570,6 +570,11 @@
       "Time": "2023-11-14T14:04:26.3746874+00:00",
       "NumProgressed": 322,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T16:05:17.5349969+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -636,9 +641,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 191
     },
     {
       "ID": "ChasingTheLight",
@@ -670,7 +675,7 @@
       "Name": "Desolate Island",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Discovery",
@@ -700,9 +705,9 @@
       "ID": "Excellent",
       "SetID": "1n308hc",
       "Name": "Excellent",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 32
     },
     {
       "ID": "FloodedValley",
@@ -734,7 +739,7 @@
       "Name": "Grasslands Ring",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "HighPlain",
@@ -774,15 +779,15 @@
       "Name": "Lost Marshes",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MistressOfRiddles",
       "SetID": "1n308hc",
       "Name": "Mistress of Riddles",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 78
     },
     {
       "ID": "Mnemosyne",
@@ -838,7 +843,7 @@
       "Name": "Overload",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Persistent",
@@ -846,7 +851,7 @@
       "Name": "Persistent",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "PrometheusUnbound",
@@ -900,9 +905,9 @@
       "ID": "SingleRod",
       "SetID": "1n308hc",
       "Name": "Single Rod",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "Sinner",
@@ -926,7 +931,7 @@
       "Name": "Team Spirit",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "TextAdventurer",
@@ -988,9 +993,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 225
+      "UsersEstimate": 229
     },
     {
       "ID": "TouchGrass",
@@ -998,7 +1003,7 @@
       "Name": "Touch Grass",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "TrevorsBiographer",
@@ -1053,7 +1058,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 1
     }
   ],
@@ -1061,8 +1066,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-13T18:58:27.0695865+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:04:28.9028499+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:05:17.5349965+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:58:29.5256862+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:04:28.902889+00:00"
+  "LastUpdate_Ratings": "2023-11-14T15:59:01.6254861+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:05:17.5350339+00:00"
 }

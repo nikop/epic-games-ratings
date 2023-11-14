@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 307,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -80,9 +80,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 467,
+  "EOS_Progressed": 468,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.28,
   "EosHistory": [
@@ -630,6 +630,11 @@
       "Time": "2023-11-14T14:06:15.0948836+00:00",
       "NumProgressed": 467,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-14T16:07:53.5887557+00:00",
+      "NumProgressed": 468,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 36,
@@ -641,15 +646,15 @@
       "Name": "Huzza, he\u0027s back.",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "dep4_achievement_10",
       "SetID": "5d32b60",
       "Name": "Sole Music",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 168
+      "UsersEstimate": 173
     },
     {
       "ID": "dep4_achievement_11",
@@ -681,7 +686,7 @@
       "Name": "Shall we play a game?",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "dep4_achievement_15",
@@ -719,9 +724,9 @@
       "ID": "dep4_achievement_19",
       "SetID": "5d32b60",
       "Name": "FunScore",
-      "Percentage": 55,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 257
+      "UsersEstimate": 253
     },
     {
       "ID": "dep4_achievement_2",
@@ -729,7 +734,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "dep4_achievement_20",
@@ -745,15 +750,15 @@
       "Name": "Photo Friend",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "dep4_achievement_22",
       "SetID": "5d32b60",
       "Name": "No man left behind!",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 136
     },
     {
       "ID": "dep4_achievement_23",
@@ -769,7 +774,7 @@
       "Name": "Thuna...?",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "dep4_achievement_25",
@@ -777,7 +782,7 @@
       "Name": "Monstrous Harassment",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "dep4_achievement_26",
@@ -849,7 +854,7 @@
       "Name": "Heading the inverter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "dep4_achievement_34",
@@ -897,7 +902,7 @@
       "Name": "School\u0027s out",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "dep4_achievement_7",
@@ -913,7 +918,7 @@
       "Name": "And everything comes full circle.",
       "Percentage": 20,
       "XP": 60,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "dep4_achievement_9",
@@ -928,7 +933,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 467,
+      "Progressed": 468,
       "Completed": 6
     }
   ],
@@ -936,8 +941,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:06:18.2418828+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:07:53.5887553+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:47.983403+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:59:20.0018012+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:06:18.2419076+00:00"
+  "LastUpdate_Ratings": "2023-11-14T16:00:18.484874+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:07:53.5887766+00:00"
 }

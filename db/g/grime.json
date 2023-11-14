@@ -1465,9 +1465,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 158222,
+  "EOS_Progressed": 158228,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1162,
+  "EOS_NewPlayers": 1161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -15630,6 +15630,11 @@
       "Time": "2023-11-14T15:04:39.061545+00:00",
       "NumProgressed": 158222,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T16:05:31.75045+00:00",
+      "NumProgressed": 158228,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 46,
@@ -15777,7 +15782,7 @@
       "Name": "Harmless",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "DEFEAT_JAWCRAB",
@@ -15833,7 +15838,7 @@
       "Name": "Silenced Whispers",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "MISC_ABSORBMANY",
@@ -15841,7 +15846,7 @@
       "Name": "Devourer",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "MISC_ACTIVATEALLBEACONS",
@@ -16008,21 +16013,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 157805,
+      "Progressed": 157811,
       "Completed": 1203
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 158222,
+      "Progressed": 158228,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2023-11-14T10:01:24.4670559+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:04:39.0615444+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:05:31.7504495+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:08.2634298+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:59:51.834614+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:04:39.0616554+00:00"
+  "LastUpdate_Ratings": "2023-11-14T16:01:06.1422401+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:05:31.7505435+00:00"
 }

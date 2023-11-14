@@ -272,9 +272,9 @@
       "ID": "ClearG01",
       "SetID": "94lmepd",
       "Name": "Temperance",
-      "Percentage": 28,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ClearH01",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:05:38.4718399+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:06:57.0564417+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:30.1047213+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:59:48.9489931+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:05:38.4718644+00:00"
+  "LastUpdate_Ratings": "2023-11-14T16:01:01.483894+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:06:57.0564684+00:00"
 }

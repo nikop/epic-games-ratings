@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 529,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -1702,9 +1702,9 @@
       "ID": "ACH_eou4",
       "SetID": "51of0eo",
       "Name": "Navigate the Mines",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 132
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_eou5",
@@ -1781,8 +1781,8 @@
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:03:41.5890439+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:04:11.9594779+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:16.1042857+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:58:32.3745027+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:03:41.5890592+00:00"
+  "LastUpdate_Ratings": "2023-11-14T15:59:05.8683164+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:04:11.9594952+00:00"
 }

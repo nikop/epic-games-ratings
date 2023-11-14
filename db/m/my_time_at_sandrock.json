@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 239,
   "Ranking_EOS_Progress": 335,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -1502,7 +1502,7 @@
   ],
   "EOS_Progressed": 317,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2861,9 +2861,9 @@
       "ID": "C_STAMINA",
       "SetID": "80dcan0",
       "Name": "On that Grindset",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 206
     },
     {
       "ID": "C_STAYUP",
@@ -2917,9 +2917,9 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 257,
+      "Percentage": 258,
       "XP": 10,
-      "UsersEstimate": 815
+      "UsersEstimate": 818
     },
     {
       "ID": "M_BACKPACK",
@@ -2933,9 +2933,9 @@
       "ID": "M_COMMISSION",
       "SetID": "80dcan0",
       "Name": "Commissions, commissions...!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 105
     },
     {
       "ID": "M_DISH",
@@ -3093,9 +3093,9 @@
       "ID": "P_THEMEPARK",
       "SetID": "80dcan0",
       "Name": "Happier-est Place on Earth",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 146
     },
     {
       "ID": "P_TUNNEL",
@@ -3109,9 +3109,9 @@
       "ID": "P_WATERPIPELINE",
       "SetID": "80dcan0",
       "Name": "Lifeline Pipeline",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 86
     },
     {
       "ID": "P_WATERTOWER",
@@ -3293,9 +3293,9 @@
       "ID": "X_GET_DIAMOND",
       "SetID": "80dcan0",
       "Name": "Diamonds are Forever",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 178
     },
     {
       "ID": "X_GET_FECE",
@@ -3333,8 +3333,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2023-11-14T14:58:42.342215+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:03:15.2185259+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:03:35.0020963+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:17.2013497+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:58:42.3422154+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:03:15.2186125+00:00"
+  "LastUpdate_Ratings": "2023-11-14T15:59:21.5227577+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:03:35.0021421+00:00"
 }

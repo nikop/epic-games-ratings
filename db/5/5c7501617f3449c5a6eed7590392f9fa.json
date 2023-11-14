@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 605,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -325,9 +325,9 @@
       "ID": "Ach-05-burak",
       "SetID": "2pjo9pi",
       "Name": "Burak",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach-05-chameleon",
@@ -349,9 +349,9 @@
       "ID": "Ach-05-hrouda",
       "SetID": "2pjo9pi",
       "Name": "Hrouda",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach-05-jelen",
@@ -381,9 +381,9 @@
       "ID": "Ach-05-krotitel",
       "SetID": "2pjo9pi",
       "Name": "Krotitel",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach-05-loutky",
@@ -413,9 +413,9 @@
       "ID": "Ach-05-zavod",
       "SetID": "2pjo9pi",
       "Name": "Zavod",
-      "Percentage": 14,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Ach-05-zelva",
@@ -429,9 +429,9 @@
       "ID": "Ach-05-zloC",
       "SetID": "2pjo9pi",
       "Name": "Zlo C",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ach-level-1",
@@ -469,9 +469,9 @@
       "ID": "Ach-level-5",
       "SetID": "2pjo9pi",
       "Name": "Level 5",
-      "Percentage": 0,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "Ach-level-6",
@@ -500,8 +500,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2023-11-14T15:06:25.2802898+00:00",
+  "LastChanged_Achievements": "2023-11-14T16:08:03.991183+00:00",
   "LastUpdate_AppInfo": "2023-11-08T16:57:11.9520602+00:00",
-  "LastUpdate_Ratings": "2023-11-14T14:57:19.8738092+00:00",
-  "LastUpdate_Achievements": "2023-11-14T15:06:25.2803222+00:00"
+  "LastUpdate_Ratings": "2023-11-14T15:57:17.6406786+00:00",
+  "LastUpdate_Achievements": "2023-11-14T16:08:03.9912152+00:00"
 }
