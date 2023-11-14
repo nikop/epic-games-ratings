@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewPlayers": 58,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-03-28T15:00:00+00:00",
@@ -4555,11 +4555,17 @@
       "Rating": 3.95,
       "NumberOfAwards": 3012,
       "NumberOfAwardsMax": 527
+    },
+    {
+      "Time": "2023-11-14T20:58:37.6142496+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3017,
+      "NumberOfAwardsMax": 532
     }
   ],
   "ReviewsDisabled": true,
-  "NumberOfAwards": 3012,
-  "NumberOfAwardsMax": 527,
+  "NumberOfAwards": 3017,
+  "NumberOfAwardsMax": 532,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -4572,7 +4578,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 527
+      "Count": 532
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4617,9 +4623,9 @@
       "Count": 488
     }
   ],
-  "EOS_Progressed": 91124,
+  "EOS_Progressed": 91126,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 1493,
+  "EOS_NewPlayers": 1489,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -25282,6 +25288,11 @@
       "Time": "2023-11-14T20:07:01.1431935+00:00",
       "NumProgressed": 91124,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2023-11-14T21:05:37.2671286+00:00",
+      "NumProgressed": 91126,
+      "NumCompleted": 55
     }
   ],
   "TotalAchievements": 41,
@@ -25293,7 +25304,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACH_0011",
@@ -25333,7 +25344,7 @@
       "Name": "Legend Looter",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_0016",
@@ -25341,7 +25352,7 @@
       "Name": "Imports and Exports",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_0021",
@@ -25365,7 +25376,7 @@
       "Name": "Savvy Seeker",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_0040",
@@ -25381,7 +25392,7 @@
       "Name": "Foo Finder",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_0060",
@@ -25461,7 +25472,7 @@
       "Name": "Too Old for This",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACH_0300",
@@ -25469,7 +25480,7 @@
       "Name": "Olympus Ascended",
       "Percentage": 0.4,
       "XP": 55,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_0310",
@@ -25485,7 +25496,7 @@
       "Name": "Ding Dong",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_0340",
@@ -25525,7 +25536,7 @@
       "Name": "Fancy Pants",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ACH_0431",
@@ -25620,22 +25631,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 91124,
+      "Progressed": 91126,
       "Completed": 55
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 19471,
+      "Progressed": 19473,
       "Completed": 15570
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
-  "LastChanged": "2023-11-14T05:59:15.5316913+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:07:01.143193+00:00",
+  "LastChanged": "2023-11-14T20:58:37.6142494+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:05:37.2671281+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:14.685925+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:59:26.5409507+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:07:01.1433001+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:58:37.6142499+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:05:37.2672453+00:00"
 }

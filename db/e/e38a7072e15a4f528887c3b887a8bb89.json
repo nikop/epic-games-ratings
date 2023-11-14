@@ -4,7 +4,7 @@
   "ProductSlug": "outbreak-the-new-nightmare-revisited-90517a",
   "Ranking_EOS_Progress": 572,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-08T15:00:00+00:00",
@@ -145,9 +145,9 @@
       "ID": "NO_FEAR_ACH",
       "SetID": "c01b5ga",
       "Name": "No Fear",
-      "Percentage": 46,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "OPENING_SALVO_ACH",
@@ -199,8 +199,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-18T22:15:20.3875058+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:05:03.5546653+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:04:14.0407043+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:36.0936228+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:01:29.1804897+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:05:03.5546737+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:59:58.3602447+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:04:14.040713+00:00"
 }

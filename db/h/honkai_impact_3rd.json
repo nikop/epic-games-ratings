@@ -8393,10 +8393,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 11172,
       "NumberOfAwardsMax": 3004
+    },
+    {
+      "Time": "2023-11-14T20:57:10.6406913+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 11175,
+      "NumberOfAwardsMax": 3004
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11172,
+  "NumberOfAwards": 11175,
   "NumberOfAwardsMax": 3004,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -8482,7 +8488,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 714
+      "Count": 717
     }
   ],
   "EOS_Progressed": 0,
@@ -8497,8 +8503,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-27T11:30:26.4233372+00:00",
   "FirstSeenRating": "2022-10-28T11:32:15.7744841+00:00",
-  "LastChanged": "2023-11-14T18:57:02.6456377+00:00",
+  "LastChanged": "2023-11-14T20:57:10.6406911+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:27.6062855+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:57:14.9901839+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:05:44.1237019+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:57:10.6406918+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:04:42.5277543+00:00"
 }

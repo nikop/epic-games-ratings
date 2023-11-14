@@ -5,24 +5,24 @@ Rating: 4.12 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,153 |
-| World Map | 78.00% | ~1,806 |
-| Temple of Eternals | 57.00% | ~1,320 |
-| Prestigious | 54.00% | ~1,250 |
-| Fellowship Power | 42.00% | ~972 |
-| Guild Power | 25.00% | ~579 |
-| Prestigious x10 | 22.00% | ~509 |
-| The game is on | 20.00% | ~463 |
+| Victor | 93.00% | ~2,156 |
+| World Map | 78.00% | ~1,808 |
+| Temple of Eternals | 57.00% | ~1,321 |
+| Prestigious | 54.00% | ~1,252 |
+| Fellowship Power | 42.00% | ~974 |
+| Guild Power | 25.00% | ~580 |
+| Prestigious x10 | 22.00% | ~510 |
+| The game is on | 20.00% | ~464 |
 | Exotic Merchant | 18.00% | ~417 |
 | Dragon Clicker | 17.00% | ~394 |
-| Miner Clicker | 17.00% | ~394 |
-| Full Party | 16.00% | ~370 |
-| Inspection | 16.00% | ~370 |
-| Dragon Master | 15.00% | ~347 |
-| Enlightenment | 15.00% | ~347 |
-| Hero inspection | 15.00% | ~347 |
-| Lieutenant | 15.00% | ~347 |
-| The Unstoppable | 14.00% | ~324 |
+| Full Party | 16.00% | ~371 |
+| Inspection | 16.00% | ~371 |
+| Miner Clicker | 16.00% | ~371 |
+| Dragon Master | 15.00% | ~348 |
+| Enlightenment | 15.00% | ~348 |
+| Hero inspection | 15.00% | ~348 |
+| Lieutenant | 14.00% | ~325 |
+| The Unstoppable | 14.00% | ~325 |
 | Milestone collector | 13.00% | ~301 |
 | Mysterious Rock | 13.00% | ~301 |
 | Natural Talent | 13.00% | ~301 |
@@ -39,10 +39,10 @@ Rating: 4.12 (Ranked 956)
 | Frostfire Liberator | 10.00% | ~232 |
 | Moving Up The Ladder | 10.00% | ~232 |
 | Scroll Master | 10.00% | ~232 |
-| Here We Go Again | 9.00% | ~208 |
-| Master Enchanter | 9.00% | ~208 |
-| The father of Dragons | 9.00% | ~208 |
-| Trader | 9.00% | ~208 |
+| Here We Go Again | 9.00% | ~209 |
+| Master Enchanter | 9.00% | ~209 |
+| The father of Dragons | 9.00% | ~209 |
+| Trader | 9.00% | ~209 |
 | Crystal Mining | 8.00% | ~185 |
 | Dragon Slayer | 8.00% | ~185 |
 | Enchanting skill | 8.00% | ~185 |
@@ -62,9 +62,9 @@ Rating: 4.12 (Ranked 956)
 | Background Story | 5.00% | ~116 |
 | Ebony Jungle Liberator | 5.00% | ~116 |
 | Mythic Power | 4.00% | ~93 |
-| Gear Enchanting | 3.00% | ~69 |
-| Guardian Master | 3.00% | ~69 |
-| What lies behind the bush | 3.00% | ~69 |
+| Gear Enchanting | 3.00% | ~70 |
+| Guardian Master | 3.00% | ~70 |
+| What lies behind the bush | 3.00% | ~70 |
 | Cauldron Liberator | 2.00% | ~46 |
 | Enchanting skill x5 | 2.00% | ~46 |
 | Pokerface | 2.00% | ~46 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 956)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,315 (Ranked 213)  
+Progressed: 2,318 (Ranked 213)  
 Completed: 2 (0.09%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2 (0.09%) (Ranked 281)
 | 2023-11-11 | 2,229 | 2 |
 | 2023-11-12 | 2,269 | 2 |
 | 2023-11-13 | 2,290 | 2 |
-| 2023-11-14 | 2,315 | 2 |
+| 2023-11-14 | 2,318 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 80 (Ranked 456)  

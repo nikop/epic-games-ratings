@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 30,
   "Ranking_EOS_Progress": 51,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -10429,10 +10429,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 48129,
       "NumberOfAwardsMax": 24282
+    },
+    {
+      "Time": "2023-11-14T21:02:32.0494662+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 48132,
+      "NumberOfAwardsMax": 24282
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 48129,
+  "NumberOfAwards": 48132,
   "NumberOfAwardsMax": 24282,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10506,12 +10512,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 782
+      "Count": 785
     }
   ],
-  "EOS_Progressed": 302085,
+  "EOS_Progressed": 302087,
   "EOS_Completed": 511,
-  "EOS_NewPlayers": 492,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -32899,6 +32905,11 @@
       "Time": "2023-11-14T20:09:48.0495596+00:00",
       "NumProgressed": 302085,
       "NumCompleted": 511
+    },
+    {
+      "Time": "2023-11-14T21:09:05.2789154+00:00",
+      "NumProgressed": 302087,
+      "NumCompleted": 511
     }
   ],
   "TotalAchievements": 45,
@@ -32918,7 +32929,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33229
+      "UsersEstimate": 33230
     },
     {
       "ID": "PFA_11",
@@ -32926,7 +32937,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33229
+      "UsersEstimate": 33230
     },
     {
       "ID": "PFA_12",
@@ -32934,7 +32945,7 @@
       "Name": "The Hallowed Hero",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 33229
+      "UsersEstimate": 33230
     },
     {
       "ID": "PFA_13",
@@ -32942,7 +32953,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30208
+      "UsersEstimate": 30209
     },
     {
       "ID": "PFA_14",
@@ -32966,7 +32977,7 @@
       "Name": "The Defender of Dragons",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33229
+      "UsersEstimate": 33230
     },
     {
       "ID": "PFA_17",
@@ -33014,7 +33025,7 @@
       "Name": "Challenge Accepted",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33229
+      "UsersEstimate": 33230
     },
     {
       "ID": "PFA_22",
@@ -33038,7 +33049,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33229
+      "UsersEstimate": 33230
     },
     {
       "ID": "PFA_25",
@@ -33134,7 +33145,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 30208
+      "UsersEstimate": 30209
     },
     {
       "ID": "PFA_36",
@@ -33166,7 +33177,7 @@
       "Name": "Coasting Along",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 33229
+      "UsersEstimate": 33230
     },
     {
       "ID": "PFA_4",
@@ -33262,23 +33273,23 @@
       "Name": "Rising From the Ashes",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 30208
+      "UsersEstimate": 30209
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 302085,
+      "Progressed": 302087,
       "Completed": 511
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2023-11-14T19:02:32.0513088+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:09:48.0495593+00:00",
+  "LastChanged": "2023-11-14T21:02:32.049466+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:09:05.278915+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:31.907703+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:02:36.0694371+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:09:48.0496713+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:02:32.0494665+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:09:05.2790426+00:00"
 }

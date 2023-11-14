@@ -6,51 +6,51 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~49,560 |
-| Worth it | 63.00% | ~40,030 |
-| Eagle Eye | 55.00% | ~34,946 |
-| Corpseman I | 40.00% | ~25,416 |
-| Blast fishing | 37.00% | ~23,509 |
-| Not alone | 32.00% | ~20,332 |
-| Headhunter I | 26.00% | ~16,520 |
-| Manual Labour I | 25.00% | ~15,885 |
-| Developers, Developers, Developers | 24.00% | ~15,249 |
-| Basic Training | 24.00% | ~15,249 |
-| Furchtlos und Treu | 13.00% | ~8,260 |
-| Gott Mit Uns | 12.00% | ~7,625 |
-| This We'll Defend! | 9.00% | ~5,719 |
-| Anker wirf! | 9.00% | ~5,719 |
-| Providentiea Memor | 9.00% | ~5,719 |
-| For King and Country | 9.00% | ~5,719 |
-| Battle hardened | 8.00% | ~5,083 |
-| Semper Fidelis! | 7.00% | ~4,448 |
-| Honneur et Patrie | 7.00% | ~4,448 |
-| In Treue Fest | 5.00% | ~3,177 |
-| Voor De Koning | 5.00% | ~3,177 |
-| Extreme Headhunter | 5.00% | ~3,177 |
+| Setting an example | 78.00% | ~49,571 |
+| Worth it | 63.00% | ~40,038 |
+| Eagle Eye | 55.00% | ~34,954 |
+| Corpseman I | 40.00% | ~25,421 |
+| Blast fishing | 37.00% | ~23,515 |
+| Not alone | 32.00% | ~20,337 |
+| Headhunter I | 26.00% | ~16,524 |
+| Manual Labour I | 25.00% | ~15,888 |
+| Developers, Developers, Developers | 24.00% | ~15,253 |
+| Basic Training | 24.00% | ~15,253 |
+| Furchtlos und Treu | 13.00% | ~8,262 |
+| Gott Mit Uns | 12.00% | ~7,626 |
+| This We'll Defend! | 9.00% | ~5,720 |
+| Anker wirf! | 9.00% | ~5,720 |
+| Providentiea Memor | 9.00% | ~5,720 |
+| For King and Country | 9.00% | ~5,720 |
+| Battle hardened | 8.00% | ~5,084 |
+| Semper Fidelis! | 7.00% | ~4,449 |
+| Honneur et Patrie | 7.00% | ~4,449 |
+| In Treue Fest | 5.00% | ~3,178 |
+| Voor De Koning | 5.00% | ~3,178 |
+| Extreme Headhunter | 5.00% | ~3,178 |
 | Advance Australia | 4.00% | ~2,542 |
 | We Stand on Guard | 4.00% | ~2,542 |
 | Sidi Brahim | 4.00% | ~2,542 |
 | War is better with friends I | 4.00% | ~2,542 |
 | Let them, come to us | 4.00% | ~2,542 |
 | Corpseman II | 4.00% | ~2,542 |
-| Offense is the best defence | 3.00% | ~1,906 |
-| There is no I in team | 3.00% | ~1,906 |
-| Veteran | 3.00% | ~1,906 |
-| Manual Labour II | 3.00% | ~1,906 |
-| In My Defens God Me Defend | 3.00% | ~1,906 |
-| Silver x100 | 3.00% | ~1,906 |
-| Impavidum Ferient Bella! | 3.00% | ~1,906 |
+| Offense is the best defence | 3.00% | ~1,907 |
+| There is no I in team | 3.00% | ~1,907 |
+| Veteran | 3.00% | ~1,907 |
+| Manual Labour II | 3.00% | ~1,907 |
+| In My Defens God Me Defend | 3.00% | ~1,907 |
+| Silver x100 | 3.00% | ~1,907 |
+| Impavidum Ferient Bella! | 3.00% | ~1,907 |
 | Bronze x100 | 2.00% | ~1,271 |
 | Shoot, Cover, Reload, Repeat | 2.00% | ~1,271 |
-| Gold x100 | 1.00% | ~635 |
-| Hunting the Hun | 1.00% | ~635 |
-| #1 | 1.00% | ~635 |
-| Golden Headhunter | 1.00% | ~635 |
-| That's another one down! | 1.00% | ~635 |
-| Do you even die? | 1.00% | ~635 |
-| Headhunter II | 1.00% | ~635 |
-| Corpseman III | 1.00% | ~635 |
+| Gold x100 | 1.00% | ~636 |
+| Hunting the Hun | 1.00% | ~636 |
+| #1 | 1.00% | ~636 |
+| Golden Headhunter | 1.00% | ~636 |
+| That's another one down! | 1.00% | ~636 |
+| Do you even die? | 1.00% | ~636 |
+| Headhunter II | 1.00% | ~636 |
+| Corpseman III | 1.00% | ~636 |
 | Elite Player | 0.80% | ~508 |
 | Manual Labour III | 0.30% | ~191 |
 | Buddy | 0.30% | ~191 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~64 |
 | Blood Brother | 0.10% | ~64 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,539 (Ranked 104)  
-Completed: 4 (0.01%) (Ranked 329)  
+Progressed: 63,553 (Ranked 104)  
+Completed: 4 (0.01%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -274,7 +274,7 @@ Completed: 4 (0.01%) (Ranked 329)
 | 2023-11-11 | 63,184 | 4 |
 | 2023-11-12 | 63,324 | 4 |
 | 2023-11-13 | 63,446 | 4 |
-| 2023-11-14 | 63,539 | 4 |
+| 2023-11-14 | 63,553 | 4 |
 ## Awards
 Max (Great for Beginners): 106  (Ranked 350)  
 Sum: 911 (Ranked 270)  

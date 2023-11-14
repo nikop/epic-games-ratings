@@ -4,7 +4,7 @@
   "ProductSlug": "earthlock-e7d979",
   "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 394,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-11-30T00:00:00+00:00",
@@ -325,8 +325,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:06:04.1256626+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:04:56.5999684+00:00",
   "LastUpdate_AppInfo": "2023-11-09T11:56:57.0899631+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:00:52.8967572+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:06:04.1256808+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:59:33.5446958+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:04:56.599989+00:00"
 }

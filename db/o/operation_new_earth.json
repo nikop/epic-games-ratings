@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 224,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1829,
+  "EOS_Progressed": 1830,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6860,6 +6860,11 @@
       "Time": "2023-11-14T19:07:51.6830517+00:00",
       "NumProgressed": 1829,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T21:07:43.6575618+00:00",
+      "NumProgressed": 1830,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6895,7 +6900,7 @@
       "Name": "Player Betrayer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ach_gold_rewards_100",
@@ -6991,7 +6996,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -7015,7 +7020,7 @@
       "Name": "Major",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "objective_hero_level_up_6",
@@ -7055,7 +7060,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -7127,7 +7132,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -7174,7 +7179,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1829,
+      "Progressed": 1830,
       "Completed": 1
     }
   ],
@@ -7182,8 +7187,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:08:07.732359+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:07:43.6575612+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.0874447+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:00:40.3315126+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:08:07.7324131+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:59:25.2757544+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:07:43.6576298+00:00"
 }

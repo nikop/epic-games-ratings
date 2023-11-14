@@ -25,6 +25,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.40% | ~3,587 |
 | The World | 0.40% | ~3,587 |
 | True Warrior | 0.40% | ~3,587 |
+| Judy vs Night City | 0.40% | ~3,587 |
 | Legend of The Afterlife | 0.40% | ~3,587 |
 | Spin Doctor | 0.40% | ~101 |
 | Dirty Deeds | 0.40% | ~101 |
@@ -34,7 +35,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | I Am The Law | 0.30% | ~2,690 |
 | The Fool | 0.30% | ~2,690 |
 | Two Heads, One Bullet | 0.30% | ~2,690 |
-| Judy vs Night City | 0.30% | ~2,690 |
 | King of Wands | 0.30% | ~76 |
 | Easy Come, Easy Go | 0.30% | ~76 |
 | To Bad Decisions! | 0.20% | ~1,793 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,702 (Ranked 15)  
+Progressed: 896,710 (Ranked 15)  
 Completed: 2,778 (0.31%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 2,778 (0.31%) (Ranked 227)
 | 2023-11-11 | 896,271 | 2,766 |
 | 2023-11-12 | 896,462 | 2,771 |
 | 2023-11-13 | 896,596 | 2,776 |
-| 2023-11-14 | 896,702 | 2,778 |
+| 2023-11-14 | 896,710 | 2,778 |
 ## Awards
 Max (Character Customization): 105,471  (Ranked 9)  
 Sum: 352,694 (Ranked 10)  

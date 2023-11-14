@@ -7,9 +7,9 @@ Rating: 3.95 (Ranked 1,005)
 | ---- | ---------- | ----- |
 | First One’s Free | 3.00% | ~2,734 |
 | Downed but Not Outed | 3.00% | ~2,734 |
-| Neophyte Ninja | 2.00% | ~1,822 |
-| Too Old for This | 2.00% | ~1,822 |
-| Fancy Pants | 2.00% | ~1,822 |
+| Neophyte Ninja | 2.00% | ~1,823 |
+| Too Old for This | 2.00% | ~1,823 |
+| Fancy Pants | 2.00% | ~1,823 |
 | Underworld Initiate | 1.00% | ~911 |
 | Roid Ranger | 1.00% | ~911 |
 | Case Closed | 1.00% | ~911 |
@@ -25,12 +25,12 @@ Rating: 3.95 (Ranked 1,005)
 | I Like Trains | 0.50% | ~456 |
 | Freebooter | 0.50% | ~456 |
 | Moneybags | 0.50% | ~456 |
-| Legend Looter | 0.40% | ~364 |
-| Imports and Exports | 0.40% | ~364 |
-| Savvy Seeker | 0.40% | ~364 |
-| Foo Finder | 0.40% | ~364 |
-| Olympus Ascended | 0.40% | ~364 |
-| Ding Dong | 0.40% | ~364 |
+| Legend Looter | 0.40% | ~365 |
+| Imports and Exports | 0.40% | ~365 |
+| Savvy Seeker | 0.40% | ~365 |
+| Foo Finder | 0.40% | ~365 |
+| Olympus Ascended | 0.40% | ~365 |
+| Ding Dong | 0.40% | ~365 |
 | Rockay Raider | 0.30% | ~273 |
 | All that Glitters | 0.30% | ~58 |
 | Rockay Knight | 0.20% | ~182 |
@@ -47,7 +47,7 @@ Rating: 3.95 (Ranked 1,005)
 | Full House | 0.10% | ~91 |
 | Geek Out | 0.10% | ~91 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,124 (Ranked 91)  
+Progressed: 91,126 (Ranked 91)  
 Completed: 55 (0.06%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,14 +255,14 @@ Completed: 55 (0.06%) (Ranked 295)
 | 2023-11-11 | 90,531 | 55 |
 | 2023-11-12 | 90,809 | 55 |
 | 2023-11-13 | 91,003 | 55 |
-| 2023-11-14 | 91,124 | 55 |
+| 2023-11-14 | 91,126 | 55 |
 ## Awards
-Max (Diverse Characters): 527  (Ranked 203)  
-Sum: 3,012 (Ranked 176)  
+Max (Diverse Characters): 532  (Ranked 203)  
+Sum: 3,017 (Ranked 176)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 527 |
+| This game has Diverse Characters | 532 |
 | This game is Highly Recommended | 513 |
 | This game has Quickly Understood Controls | 504 |
 | This game has Challenging Combat | 497 |
@@ -500,4 +500,4 @@ Diff (max vs sum): 27
 | 2023-11-11 | 3.95 | 526 | 2,989 |
 | 2023-11-12 | 3.95 | 527 | 3,005 |
 | 2023-11-13 | 3.95 | 527 | 3,007 |
-| 2023-11-14 | 3.95 | 527 | 3,012 |
+| 2023-11-14 | 3.95 | 532 | 3,017 |

@@ -2,7 +2,7 @@
   "ID": "abdc79e549e949708213288d680727a6",
   "Name": "Chants of Sennaar",
   "ProductSlug": "chants-of-sennaar",
-  "Ranking_EOS_Progress": 296,
+  "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 68,
   "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 62,
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.46,
+  "EOS_Completed_Percentage": 5.45,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2350,6 +2350,11 @@
       "Time": "2023-11-14T20:03:19.6771837+00:00",
       "NumProgressed": 549,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-14T21:03:00.4575833+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2369,7 +2374,7 @@
       "Name": "In this together",
       "Percentage": 17,
       "XP": 200,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "META_ALL_LINK",
@@ -2417,7 +2422,7 @@
       "Name": "Free at last",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "META_RESULT_1-4",
@@ -2441,7 +2446,7 @@
       "Name": "For its own good",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "META_RESULT_3-4",
@@ -2473,7 +2478,7 @@
       "Name": "True G3M4R",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -2497,7 +2502,7 @@
       "Name": "Champollion",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -2505,7 +2510,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -2513,7 +2518,7 @@
       "Name": "Scholar",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "PROGRESS_N1",
@@ -2560,14 +2565,14 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:03:19.6771832+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:03:00.4575822+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:57:51.5378817+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:03:19.677249+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:57:34.7159522+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:03:00.4576441+00:00"
 }

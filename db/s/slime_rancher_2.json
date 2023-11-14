@@ -4,7 +4,7 @@
   "ProductSlug": "slime-rancher-2",
   "Ranking_Rating": 87,
   "Ranking_Popularity": 356,
-  "Ranking_PopularitySum": 273,
+  "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 446,
@@ -597,10 +597,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 877,
       "NumberOfAwardsMax": 102
+    },
+    {
+      "Time": "2023-11-14T20:58:47.073473+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 878,
+      "NumberOfAwardsMax": 102
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 877,
+  "NumberOfAwards": 878,
   "NumberOfAwardsMax": 102,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -668,7 +674,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 101
+      "Count": 102
     },
     {
       "Text": "This game has a Creative Community",
@@ -689,8 +695,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T20:03:01.7820576+00:00",
   "FirstSeenRating": "2022-09-23T13:02:43.6402723+00:00",
-  "LastChanged": "2023-11-14T17:59:40.3607565+00:00",
+  "LastChanged": "2023-11-14T20:58:47.0734728+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:23.2246368+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:59:40.9996072+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:08:31.4179051+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:58:47.0734732+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:08:00.4049331+00:00"
 }

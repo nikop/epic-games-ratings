@@ -2,9 +2,9 @@
   "ID": "22068a5c6e3649599c02ba4ec6be1a03",
   "Name": "The Lord of the Rings - Gollum\u2122",
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
-  "Ranking_EOS_Progress": 293,
+  "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 255,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 241,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -23,9 +23,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 568,
+  "EOS_Progressed": 569,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -1468,6 +1468,11 @@
       "Time": "2023-11-14T18:06:17.9430821+00:00",
       "NumProgressed": 568,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T21:05:03.6882111+00:00",
+      "NumProgressed": 569,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -1479,7 +1484,7 @@
       "Name": "He\u0027s so Annoying",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "BreakLegs",
@@ -1509,9 +1514,9 @@
       "ID": "Chapter10",
       "SetID": "70l3651",
       "Name": "The Friend",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 51
     },
     {
       "ID": "Chapter2",
@@ -1567,7 +1572,7 @@
       "Name": "Her Eyes",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "Chapter9",
@@ -1583,7 +1588,7 @@
       "Name": "Collectibles Part 1",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "Collectibles2",
@@ -1613,9 +1618,9 @@
       "ID": "ElfFriend",
       "SetID": "70l3651",
       "Name": "Elf-Friend",
-      "Percentage": 0.5,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ElfHater",
@@ -1655,7 +1660,7 @@
       "Name": "Memories",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "Murderer",
@@ -1766,14 +1771,14 @@
     {
       "ID": "70l3651",
       "IsBase": true,
-      "Progressed": 568,
+      "Progressed": 569,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:06:14.0898363+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:05:03.6882109+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:20.4218015+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:59:35.7405012+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:06:14.0898654+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:58:43.6740782+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:05:03.6882356+00:00"
 }

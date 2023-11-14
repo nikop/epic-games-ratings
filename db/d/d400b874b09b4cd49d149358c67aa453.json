@@ -2,9 +2,9 @@
   "ID": "d400b874b09b4cd49d149358c67aa453",
   "Name": "Electrician Simulator",
   "ProductSlug": "electrician-simulator-164e9f",
-  "Ranking_EOS_Progress": 304,
+  "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-08-04T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 490,
+  "EOS_Progressed": 491,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -1639,6 +1639,11 @@
       "Time": "2023-11-14T10:09:38.6109434+00:00",
       "NumProgressed": 490,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T21:08:26.4350821+00:00",
+      "NumProgressed": 491,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -1651,7 +1656,7 @@
       "Name": "Cables in Paris",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_CONNECT_19_LAMPS_TO_SWITCH",
@@ -1667,7 +1672,7 @@
       "Name": "Electuum Mobile",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "ACH_END_ALL_MAIL_MISSIONS",
@@ -1699,7 +1704,7 @@
       "Name": "I love customers",
       "Percentage": 81,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -1707,7 +1712,7 @@
       "Name": "Ready to go",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -1715,7 +1720,7 @@
       "Name": "I can fix that",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -1723,7 +1728,7 @@
       "Name": "Gotta go fast",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_FIRST_SHOCK",
@@ -1731,7 +1736,7 @@
       "Name": "First shock",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACH_FIX_LIGHT_SWITCHES",
@@ -1779,7 +1784,7 @@
       "Name": "I like the risk",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -1795,7 +1800,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -1819,7 +1824,7 @@
       "Name": "Unpacked",
       "Percentage": 98,
       "XP": 15,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -1843,7 +1848,7 @@
       "Name": "Unscrew you",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_WATCH_ALL_TV_CHANNELS",
@@ -1858,14 +1863,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 490,
+      "Progressed": 491,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:08:53.9765399+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:08:26.4350817+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:41.0318246+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:00:54.9540295+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:08:53.976564+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:59:34.8984957+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:08:26.4351011+00:00"
 }

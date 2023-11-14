@@ -12069,9 +12069,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 455673,
+  "EOS_Progressed": 455706,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6252,
+  "EOS_NewPlayers": 6243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35904,6 +35904,11 @@
       "Time": "2023-11-14T20:04:16.9001584+00:00",
       "NumProgressed": 455673,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T21:03:41.0213087+00:00",
+      "NumProgressed": 455706,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36593,9 +36598,9 @@
       "ID": "achievement_draculas_revenge",
       "SetID": "8p2n7he",
       "Name": "Dracula\u0027s Revenge",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_dude_where_s_my_boat",
@@ -37929,9 +37934,9 @@
       "ID": "achievement_shahanshah",
       "SetID": "67mdiil",
       "Name": "Shahanshah",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_shemot_is_not",
@@ -38481,9 +38486,9 @@
       "ID": "achievement_traditional_player",
       "SetID": "8p2n7he",
       "Name": "Traditional Player",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_triple_rome",
@@ -38625,9 +38630,9 @@
       "ID": "achievement_voltaires_nightmare",
       "SetID": "8p2n7he",
       "Name": "Voltaire\u0027s Nightmare",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 456
     },
     {
       "ID": "achievement_voting_streak",
@@ -38818,21 +38823,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 455673,
+      "Progressed": 455706,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 455673,
+      "Progressed": 455706,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-14T15:57:16.5326729+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:04:16.9001579+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:03:41.0213084+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:57:24.0981006+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:04:16.9012143+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:57:16.5575045+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:03:41.0223602+00:00"
 }

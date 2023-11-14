@@ -645,9 +645,9 @@
       "Count": 87
     }
   ],
-  "EOS_Progressed": 52898,
+  "EOS_Progressed": 52902,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 1819,
+  "EOS_NewPlayers": 1812,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -9640,6 +9640,11 @@
       "Time": "2023-11-14T20:05:31.1861344+00:00",
       "NumProgressed": 52898,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2023-11-14T21:04:33.8594606+00:00",
+      "NumProgressed": 52902,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -9698,9 +9703,9 @@
       "ID": "BLACK_SORCERER",
       "SetID": "bijn3c8",
       "Name": "Black Sorcerer",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3703
     },
     {
       "ID": "CARD_PLAYER",
@@ -9852,7 +9857,7 @@
       "Name": "Initiation",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 14282
+      "UsersEstimate": 14284
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -10051,15 +10056,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 52898,
+      "Progressed": 52902,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2023-11-14T18:01:56.7236017+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:05:31.1861339+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:04:33.8594603+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:23.8903688+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:01:58.5334476+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:05:31.1861993+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:02:27.4902086+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:04:33.8595305+00:00"
 }

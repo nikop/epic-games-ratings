@@ -2,13 +2,13 @@
   "ID": "b7b42e2078524ab386a8b2a9856ef557",
   "Name": "Sifu",
   "ProductSlug": "sifu",
-  "Ranking_Rating": 65,
+  "Ranking_Rating": 66,
   "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewPlayers": 105,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7635,9 +7635,9 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 716903,
+  "EOS_Progressed": 716906,
   "EOS_Completed": 12934,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -26060,6 +26060,11 @@
       "Time": "2023-11-14T19:06:00.6823521+00:00",
       "NumProgressed": 716903,
       "NumCompleted": 12934
+    },
+    {
+      "Time": "2023-11-14T21:05:39.6040437+00:00",
+      "NumProgressed": 716906,
+      "NumCompleted": 12934
     }
   ],
   "TotalAchievements": 60,
@@ -26550,21 +26555,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26204,
+      "Progressed": 26207,
       "Completed": 10740
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716903,
+      "Progressed": 716906,
       "Completed": 12934
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-13T14:00:03.6986303+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:07:04.3463756+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:05:39.6040433+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.4237338+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:57:10.8039328+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:07:04.3464823+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:57:07.8268211+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:05:39.6041597+00:00"
 }

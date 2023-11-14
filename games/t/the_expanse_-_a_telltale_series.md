@@ -6,8 +6,8 @@ Rating: 4.56 (Ranked 489)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 8.00% | ~1,197 |
-| The Pit and the Pirates | 4.00% | ~598 |
-| Bosmang | 4.00% | ~598 |
+| The Pit and the Pirates | 4.00% | ~599 |
+| Bosmang | 4.00% | ~599 |
 | Zen Master | 4.00% | ~37 |
 | Stogie for Fogey | 3.00% | ~449 |
 | Drug Gifter | 3.00% | ~449 |
@@ -18,9 +18,9 @@ Rating: 4.56 (Ranked 489)
 | Captain Drummer | 3.00% | ~449 |
 | Celebrations are in Order | 3.00% | ~449 |
 | Impossible Objects | 3.00% | ~449 |
-| Keep Arjun in Check | 3.00% | ~27 |
-| Safe Cracker | 3.00% | ~27 |
-| Madame Undersecretary | 3.00% | ~27 |
+| Keep Arjun in Check | 3.00% | ~28 |
+| Safe Cracker | 3.00% | ~28 |
+| Madame Undersecretary | 3.00% | ~28 |
 | Data Archivist | 2.00% | ~299 |
 | Thorston Mayer | 2.00% | ~299 |
 | Heal Thy Medic | 2.00% | ~299 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,962 (Ranked 147)  
+Progressed: 14,964 (Ranked 147)  
 Completed: 34 (0.23%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 34 (0.23%) (Ranked 242)
 | 2023-11-11 | 14,854 | 34 |
 | 2023-11-12 | 14,900 | 34 |
 | 2023-11-13 | 14,936 | 34 |
-| 2023-11-14 | 14,962 | 34 |
+| 2023-11-14 | 14,964 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

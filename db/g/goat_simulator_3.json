@@ -5083,9 +5083,9 @@
       "Count": 332
     }
   ],
-  "EOS_Progressed": 250746,
+  "EOS_Progressed": 250747,
   "EOS_Completed": 876,
-  "EOS_NewPlayers": 711,
+  "EOS_NewPlayers": 707,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -27773,6 +27773,11 @@
       "Time": "2023-11-14T20:09:53.5672399+00:00",
       "NumProgressed": 250746,
       "NumCompleted": 876
+    },
+    {
+      "Time": "2023-11-14T21:09:09.2192354+00:00",
+      "NumProgressed": 250747,
+      "NumCompleted": 876
     }
   ],
   "TotalAchievements": 39,
@@ -27784,7 +27789,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 62686
+      "UsersEstimate": 62687
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -27816,7 +27821,7 @@
       "Name": "San Angora: Become Human",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 67701
+      "UsersEstimate": 67702
     },
     {
       "ID": "AchievementBigFootID",
@@ -27848,7 +27853,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 228179
+      "UsersEstimate": 228180
     },
     {
       "ID": "AchievementClownID",
@@ -27896,7 +27901,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 82746
+      "UsersEstimate": 82747
     },
     {
       "ID": "AchievementGoatID",
@@ -27912,7 +27917,7 @@
       "Name": "Goat Queen",
       "Percentage": 53,
       "XP": 100,
-      "UsersEstimate": 132895
+      "UsersEstimate": 132896
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -27952,7 +27957,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 142925
+      "UsersEstimate": 142926
     },
     {
       "ID": "AchievementLootBoxID",
@@ -27960,7 +27965,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 35104
+      "UsersEstimate": 35105
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -27984,7 +27989,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 95283
+      "UsersEstimate": 95284
     },
     {
       "ID": "AchievementRampID",
@@ -28016,7 +28021,7 @@
       "Name": "Private Club",
       "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 185552
+      "UsersEstimate": 185553
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -28032,7 +28037,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 125373
+      "UsersEstimate": 125374
     },
     {
       "ID": "AchievementStreakingID",
@@ -28056,7 +28061,7 @@
       "Name": "Covert Consortium",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 137910
+      "UsersEstimate": 137911
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -28080,7 +28085,7 @@
       "Name": "Rogue Guild",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 162985
+      "UsersEstimate": 162986
     },
     {
       "ID": "AchievementWhaleID",
@@ -28088,14 +28093,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 67701
+      "UsersEstimate": 67702
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 250746,
+      "Progressed": 250747,
       "Completed": 876
     }
   ],
@@ -28103,8 +28108,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2023-11-14T19:00:08.9713308+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:09:53.5672393+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:09:09.219235+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:09.5356776+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:01:23.7678406+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:09:53.5673797+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:59:54.7692799+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:09:09.2193652+00:00"
 }

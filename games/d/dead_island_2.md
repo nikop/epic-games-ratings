@@ -5,22 +5,22 @@ Rating: 4.54 (Ranked 523)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| One of Us | 2.00% | ~880 |
-| Whatever It Takes | 2.00% | ~880 |
-| Pork Chopped | 2.00% | ~880 |
+| One of Us | 2.00% | ~881 |
+| Whatever It Takes | 2.00% | ~881 |
+| Pork Chopped | 2.00% | ~881 |
 | Hotel California | 0.90% | ~6,466 |
 | Welcome To Hell-A | 0.90% | ~6,466 |
 | Break A Leg | 0.80% | ~5,748 |
 | Coup de Grâce | 0.80% | ~5,748 |
+| Hazardous Materials | 0.80% | ~5,748 |
+| Personal Assistant Personally Assisted | 0.80% | ~5,748 |
 | Dr. Reed, I Presume? | 0.70% | ~5,029 |
 | Git Gutte! | 0.70% | ~5,029 |
 | Anger Management | 0.70% | ~5,029 |
 | Bookworm | 0.70% | ~5,029 |
-| Hazardous Materials | 0.70% | ~5,029 |
 | Friends Like These | 0.70% | ~5,029 |
 | Apex Predator | 0.70% | ~5,029 |
 | Stacking the Deck | 0.70% | ~5,029 |
-| Personal Assistant Personally Assisted | 0.70% | ~5,029 |
 | This is My Weapon | 0.70% | ~5,029 |
 | But Doctor, I am Butcho | 0.60% | ~4,311 |
 | Can't Handle the Truth | 0.60% | ~4,311 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,460 (Ranked 20)  
+Progressed: 718,485 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,14 +265,14 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
-| 2023-11-14 | 718,460 | 2,391 |
+| 2023-11-14 | 718,485 | 2,391 |
 ## Awards
-Max (Great Boss Battles): 7,413  (Ranked 53)  
-Sum: 11,291 (Ranked 84)  
-Diff (max vs sum): -31  
+Max (Great Boss Battles): 7,440  (Ranked 52)  
+Sum: 11,318 (Ranked 84)  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,413 |
+| This game has Great Boss Battles | 7,440 |
 | This game is Great for Beginners | 563 |
 | This game has Diverse Characters | 540 |
 | This game has Quickly Understood Controls | 513 |
@@ -491,4 +491,4 @@ Diff (max vs sum): -31
 | 2023-11-11 | 4.54 | 7,320 | 11,108 |
 | 2023-11-12 | 4.54 | 7,376 | 11,188 |
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
-| 2023-11-14 | 4.54 | 7,413 | 11,291 |
+| 2023-11-14 | 4.54 | 7,440 | 11,318 |

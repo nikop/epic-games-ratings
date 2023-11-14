@@ -6,22 +6,22 @@
 | ---- | ---------- | ----- |
 | The Wraith | 63.00% | ~358 |
 | Welcome to Mordor! | 54.00% | ~307 |
-| Collectibles Part 1 | 53.00% | ~301 |
+| Collectibles Part 1 | 53.00% | ~302 |
 | Wait! Wait! Not yet! | 39.00% | ~222 |
 | Like Flying... | 34.00% | ~193 |
 | The Maggot | 28.00% | ~159 |
-| Memories | 27.00% | ~153 |
+| Memories | 27.00% | ~154 |
 | The Breeder | 23.00% | ~131 |
 | The Veteran | 19.00% | ~108 |
 | The Traitor | 15.00% | ~85 |
 | The Spider | 14.00% | ~80 |
 | Good as Fish | 12.00% | ~68 |
-| Her Eyes | 11.00% | ~62 |
+| Her Eyes | 11.00% | ~63 |
 | Gollum/Sméagol | 10.00% | ~57 |
 | Trigger-Happy | 10.00% | ~57 |
+| The Friend | 9.00% | ~51 |
 | Murderer | 9.00% | ~51 |
-| He's so Annoying | 8.00% | ~45 |
-| The Friend | 8.00% | ~45 |
+| He's so Annoying | 8.00% | ~46 |
 | Master of the Old Game | 6.00% | ~34 |
 | Made a Song | 5.00% | ~28 |
 | So Silly! | 4.00% | ~23 |
@@ -32,8 +32,8 @@
 | Ss ss ss... | 2.00% | ~11 |
 | Collectibles Part 2 | 1.00% | ~6 |
 | Nervous Hands | 0.90% | ~5 |
+| Elf-Friend | 0.70% | ~4 |
 | We wants it! We needs it | 0.70% | ~4 |
-| Elf-Friend | 0.50% | ~3 |
 | Scout | 0.50% | ~3 |
 | Good Sméagol! | 0.50% | ~3 |
 | We Hates Them! | 0.40% | ~2 |
@@ -41,7 +41,7 @@
 | How Did You Do That? | 0.20% | ~1 |
 | River Hobbit | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 568 (Ranked 293)  
+Progressed: 569 (Ranked 294)  
 Completed: 1 (0.18%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,4 +147,4 @@ Completed: 1 (0.18%) (Ranked 255)
 | 2023-11-11 | 557 | 1 |
 | 2023-11-12 | 560 | 1 |
 | 2023-11-13 | 564 | 1 |
-| 2023-11-14 | 568 | 1 |
+| 2023-11-14 | 569 | 1 |

@@ -333,9 +333,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 74209,
+  "EOS_Progressed": 74211,
   "EOS_Completed": 393,
-  "EOS_NewPlayers": 624,
+  "EOS_NewPlayers": 621,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
@@ -23263,6 +23263,11 @@
       "Time": "2023-11-14T20:09:06.3387975+00:00",
       "NumProgressed": 74209,
       "NumCompleted": 393
+    },
+    {
+      "Time": "2023-11-14T21:08:35.3943168+00:00",
+      "NumProgressed": 74211,
+      "NumCompleted": 393
     }
   ],
   "TotalAchievements": 24,
@@ -23290,7 +23295,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 50462
+      "UsersEstimate": 50463
     },
     {
       "ID": "BEST_FRIENDS",
@@ -23306,7 +23311,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 19294
+      "UsersEstimate": 19295
     },
     {
       "ID": "ERADICATE",
@@ -23354,7 +23359,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 39331
+      "UsersEstimate": 39332
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -23442,7 +23447,7 @@
       "Name": "UPROOTING DARKNESS",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 11131
+      "UsersEstimate": 11132
     },
     {
       "ID": "WEIGHTLESS",
@@ -23458,14 +23463,14 @@
       "Name": "WRITTEN IN STONE",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 11873
+      "UsersEstimate": 11874
     }
   ],
   "AchievementSets": [
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 74209,
+      "Progressed": 74211,
       "Completed": 393
     }
   ],
@@ -23473,8 +23478,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-10-29T19:02:37.0920342+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:09:06.3387969+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:08:35.3943165+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:55.6683476+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:02:54.5858321+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:09:06.3389266+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:02:44.0103608+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:08:35.3944168+00:00"
 }

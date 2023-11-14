@@ -33,6 +33,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Defender of the Faith | 0.10% | ~456 |
 | Double the Love | 0.10% | ~456 |
 | Down Under | 0.10% | ~456 |
+| Dracula's Revenge | 0.10% | ~456 |
 | Dude, Where's my Boat? | 0.10% | ~456 |
 | Early-Modern Warfare | 0.10% | ~456 |
 | Electable! | 0.10% | ~456 |
@@ -76,6 +77,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Royal Authority | 0.10% | ~456 |
 | Sakoku Law | 0.10% | ~456 |
 | Seriously?! | 0.10% | ~456 |
+| Shahanshah | 0.10% | ~456 |
 | Sleepless in Seattle | 0.10% | ~456 |
 | Spain is the Emperor | 0.10% | ~456 |
 | Subsidize my Love | 0.10% | ~456 |
@@ -91,6 +93,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.10% | ~456 |
 | Time Bandit | 0.10% | ~456 |
 | Total Control | 0.10% | ~456 |
+| Traditional Player | 0.10% | ~456 |
 | Trophy Hunter | 0.10% | ~456 |
 | True Catholic | 0.10% | ~456 |
 | Truly Divine Ruler | 0.10% | ~456 |
@@ -99,6 +102,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Vasa or Wettin? | 0.10% | ~456 |
 | Victorious! | 0.10% | ~456 |
 | Viva la Revolución! | 0.10% | ~456 |
+| Voltaire's Nightmare | 0.10% | ~456 |
 | We bled for this | 0.10% | ~456 |
 | Wonderful | 0.10% | ~456 |
 | World Discoverer | 0.10% | ~456 |
@@ -162,7 +166,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Disciples of Enlightenment | 0.00% | ~0 |
 | Don’t be Cilli | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
-| Dracula's Revenge | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
 | Emperor of Hindustan | 0.00% | ~0 |
 | Empire of Mann | 0.00% | ~0 |
@@ -286,7 +289,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sailor Mon | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
-| Shahanshah | 0.00% | ~0 |
 | Shemot is Not | 0.00% | ~0 |
 | Sikh Pun | 0.00% | ~0 |
 | Sinaasappel! | 0.00% | ~0 |
@@ -340,7 +342,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
 | Trade Hegemon | 0.00% | ~0 |
-| Traditional Player | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
@@ -350,7 +351,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Ultimate Military | 0.00% | ~0 |
 | Venetian Sea | 0.00% | ~0 |
 | Victorian Three | 0.00% | ~0 |
-| Voltaire's Nightmare | 0.00% | ~0 |
 | Voting Streak | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,673 (Ranked 41)  
+Progressed: 455,706 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,673 | 1 |
+| 2023-11-14 | 455,706 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 55)  
 Sum: 57,546 (Ranked 24)  

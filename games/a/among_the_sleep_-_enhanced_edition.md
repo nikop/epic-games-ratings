@@ -1,7 +1,7 @@
 # Among the Sleep - Enhanced Edition
 [Store](https://store.epicgames.com/en-US/p/among-the-sleep-enhanced-edition)  
 [View Rawdata](../../db/a/among_the_sleep_-_enhanced_edition.json)  
-Rating: 4.29 (Ranked 840)  
+Rating: 4.29 (Ranked 841)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,7 +17,7 @@ Number of Ratings: 368  (23.09.2022)
 | Collected all drawings | 0.50% | ~463 |
 | Prologue Drawings | 0.50% | ~463 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 92,656 (Ranked 90)  
+Progressed: 92,658 (Ranked 90)  
 Completed: 421 (0.45%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 421 (0.45%) (Ranked 203)
 | 2023-11-11 | 92,356 | 418 |
 | 2023-11-12 | 92,499 | 419 |
 | 2023-11-13 | 92,591 | 420 |
-| 2023-11-14 | 92,656 | 421 |
+| 2023-11-14 | 92,658 | 421 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

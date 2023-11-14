@@ -2,8 +2,8 @@
   "ID": "0f4a57443f904107818acfc2068704f9",
   "Name": "Warhammer Age of Sigmar: Realms of Ruin",
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
-  "Ranking_EOS_Progress": 453,
-  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_Progress": 451,
+  "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
@@ -21,11 +21,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 69,
+  "EOS_Progressed": 71,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.45,
+  "EOS_Completed_Percentage": 1.41,
   "EosHistory": [
     {
       "Time": "2023-10-05T10:07:12.2760178+00:00",
@@ -251,6 +251,11 @@
       "Time": "2023-11-14T20:07:27.2455346+00:00",
       "NumProgressed": 69,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T21:05:55.4613295+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-05T10:07:12.2760204+00:00",
@@ -293,7 +298,7 @@
       "ID": "CompleteCampaignLorekeeper",
       "SetID": "52ail55",
       "Name": "Liberator",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -317,7 +322,7 @@
       "ID": "CompleteChapter1",
       "SetID": "52ail55",
       "Name": "Pathfinder",
-      "Percentage": 41,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -341,7 +346,7 @@
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -365,7 +370,7 @@
       "ID": "CompleteChapter15",
       "SetID": "52ail55",
       "Name": "The Great Scheme",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -373,7 +378,7 @@
       "ID": "CompleteChapter16",
       "SetID": "52ail55",
       "Name": "Our Own Miracle",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -389,7 +394,7 @@
       "ID": "CompleteChapter17NoIdenDeath",
       "SetID": "52ail55",
       "Name": "Who Needs Reinforcements?",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -397,7 +402,7 @@
       "ID": "CompleteChapter18",
       "SetID": "52ail55",
       "Name": "The Might of Sigmar\u0027s Warriors",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -405,9 +410,9 @@
       "ID": "CompleteChapter2",
       "SetID": "52ail55",
       "Name": "Met the Enemy",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "CompleteChapter3",
@@ -437,23 +442,23 @@
       "ID": "CompleteChapter6",
       "SetID": "52ail55",
       "Name": "More Waagh, More Problems",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CompleteChapter7",
       "SetID": "52ail55",
       "Name": "First to be Forged, Never to Fail!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "CompleteChapter8",
       "SetID": "52ail55",
       "Name": "Troggoff Troubles",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -485,7 +490,7 @@
       "ID": "CompleteConquestNoLivesLost",
       "SetID": "52ail55",
       "Name": "Realm of Beasts Tamed",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 60,
       "UsersEstimate": 6
     },
@@ -493,7 +498,7 @@
       "ID": "CompleteConquestStormcast",
       "SetID": "52ail55",
       "Name": "Order",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 8
     },
@@ -535,13 +540,13 @@
       "Name": "Bloodied Hammer",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "Win50ConquestBattles",
       "SetID": "52ail55",
       "Name": "Warmaster Supreme",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 100,
       "UsersEstimate": 11
     },
@@ -558,13 +563,13 @@
     {
       "ID": "52ail55",
       "IsBase": true,
-      "Progressed": 69,
+      "Progressed": 71,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:07:27.2455342+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:05:55.461329+00:00",
   "LastUpdate_AppInfo": "2023-11-10T06:56:55.7700804+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:01:38.222392+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:07:27.2455584+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:00:04.3416197+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:05:55.4613518+00:00"
 }

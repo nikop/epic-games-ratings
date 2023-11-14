@@ -18,7 +18,7 @@
 | Fire-fighter! | 66.00% | ~79 |
 | Oh, you're up to no gouda! | 63.00% | ~75 |
 | Make Love not War-Craft a Mistlefoe | 60.00% | ~71 |
-| Meat grinder | 59.00% | ~70 |
+| Meat grinder | 60.00% | ~71 |
 | You're not going to blow me up! | 55.00% | ~65 |
 | Mushroom soup of the day | 51.00% | ~61 |
 | Cockadoodledoo! | 49.00% | ~58 |
@@ -50,9 +50,9 @@
 | Slimy... yet satisfying | 18.00% | ~21 |
 | Just wing it! | 17.00% | ~20 |
 | Deal with it | 17.00% | ~20 |
+| Yeehaw!!! | 14.00% | ~17 |
 | You're looking mozzare-hella good! | 13.00% | ~15 |
 | Ancient Ruins of Dirty Feet | 13.00% | ~15 |
-| Yeehaw!!! | 13.00% | ~15 |
 | Timber! | 10.00% | ~12 |
 | Free Of Chains | 10.00% | ~12 |
 | Grumpy Immortal | 9.00% | ~11 |

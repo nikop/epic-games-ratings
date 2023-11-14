@@ -56,7 +56,7 @@ Rating: 4.42 (Ranked 712)
 | Engineer | 4.00% | ~87 |
 | Let off some steam | 4.00% | ~87 |
 | Accurate | 4.00% | ~87 |
-| Three Cheers for Progress | 0.90% | ~20 |
+| Three Cheers for Progress | 1.00% | ~22 |
 | European Union | 0.70% | ~15 |
 | United States | 0.60% | ~13 |
 | Together we stand | 0.60% | ~13 |

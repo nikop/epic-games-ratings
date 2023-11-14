@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 273,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -105,7 +105,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5261,
+  "EOS_Progressed": 5263,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 893,
   "EOS_NewCompleters": 1,
@@ -3240,6 +3240,11 @@
       "Time": "2023-11-14T20:09:22.601696+00:00",
       "NumProgressed": 5261,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-14T21:08:47.259078+00:00",
+      "NumProgressed": 5263,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3282,9 +3287,9 @@
       "ID": "ChewingTheScenery",
       "SetID": "acc6ea0",
       "Name": "Chewing The Scenery",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "ConnectionLost",
@@ -3444,7 +3449,7 @@
       "Name": "The Old-School Way",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "TheQuarterback",
@@ -3484,7 +3489,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 473
+      "UsersEstimate": 474
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -3508,7 +3513,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "k01101110",
@@ -3516,14 +3521,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5261,
+      "Progressed": 5263,
       "Completed": 6
     }
   ],
@@ -3531,8 +3536,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-14T13:03:27.0481465+00:00",
-  "LastChanged_Achievements": "2023-11-14T20:09:22.6016955+00:00",
+  "LastChanged_Achievements": "2023-11-14T21:08:47.2590776+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-14T19:59:37.9839295+00:00",
-  "LastUpdate_Achievements": "2023-11-14T20:09:22.6017329+00:00"
+  "LastUpdate_Ratings": "2023-11-14T20:58:45.1747927+00:00",
+  "LastUpdate_Achievements": "2023-11-14T21:08:47.2591114+00:00"
 }

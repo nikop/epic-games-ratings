@@ -6,7 +6,7 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 27.00% | ~14,282 |
+| Initiation | 27.00% | ~14,284 |
 | Student | 21.00% | ~11,109 |
 | Knower | 16.00% | ~8,464 |
 | Aspen Tree | 14.00% | ~7,406 |
@@ -27,13 +27,13 @@ Number of Ratings: 96  (23.09.2022)
 | Wolf | 8.00% | ~4,232 |
 | Worthy | 7.00% | ~3,703 |
 | Black Book | 7.00% | ~3,703 |
+| Black Sorcerer | 7.00% | ~3,703 |
 | Dead Man | 7.00% | ~3,703 |
 | Fern | 7.00% | ~3,703 |
 | 100 Friends | 7.00% | ~3,703 |
 | Dead Friend | 7.00% | ~3,703 |
 | Researcher | 7.00% | ~3,703 |
 | Savvy | 7.00% | ~3,703 |
-| Black Sorcerer | 6.00% | ~3,174 |
 | Encyclopedist | 6.00% | ~3,174 |
 | Witch | 6.00% | ~3,174 |
 | Old Spirits | 6.00% | ~3,174 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,058 |
 | Word Master | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 52,898 (Ranked 107)  
+Progressed: 52,902 (Ranked 107)  
 Completed: 49 (0.09%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 49 (0.09%) (Ranked 281)
 | 2023-11-11 | 52,166 | 46 |
 | 2023-11-12 | 52,512 | 47 |
 | 2023-11-13 | 52,728 | 48 |
-| 2023-11-14 | 52,898 | 49 |
+| 2023-11-14 | 52,902 | 49 |
 ## Awards
 Max (Character Customization): 87  (Ranked 378)  
 Sum: 87 (Ranked 452)  
