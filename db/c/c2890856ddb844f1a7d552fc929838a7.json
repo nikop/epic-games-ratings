@@ -5,7 +5,7 @@
   "Ranking_Rating": 30,
   "Ranking_Popularity": 538,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 258,
+  "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 127,
@@ -2634,9 +2634,9 @@
       "ID": "AC33",
       "SetID": "l4abp0",
       "Name": "Ultima Ratio",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 615
     },
     {
       "ID": "AC34",
@@ -2747,8 +2747,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2023-11-03T15:59:11.6616807+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:03:25.9110108+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:04:02.3931908+00:00",
   "LastUpdate_AppInfo": "2023-11-07T22:57:16.3145336+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:59:42.2927583+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:03:25.9110584+00:00"
+  "LastUpdate_Ratings": "2023-11-14T23:01:03.5550813+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:04:02.3932277+00:00"
 }

@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just Went Shopping | 98.00% | ~354 |
-| Decision Maker | 81.00% | ~292 |
+| Just Went Shopping | 97.00% | ~351 |
+| Decision Maker | 80.00% | ~290 |
 | Sneaky Sneak | 78.00% | ~282 |
-| DIY | 77.00% | ~278 |
-| Master Chef | 66.00% | ~238 |
-| Master of Cards | 58.00% | ~209 |
-| Over Nine Thousaaand | 57.00% | ~206 |
-| Getting the Hang Of This | 48.00% | ~173 |
+| DIY | 77.00% | ~279 |
+| Master Chef | 65.00% | ~235 |
+| Master of Cards | 58.00% | ~210 |
+| Over Nine Thousaaand | 56.00% | ~203 |
+| Getting the Hang Of This | 48.00% | ~174 |
 | Collector | 29.00% | ~105 |
-| That’s What Friends Are For | 22.00% | ~79 |
-| Blow ‘Em Up | 22.00% | ~79 |
+| That’s What Friends Are For | 22.00% | ~80 |
+| Blow ‘Em Up | 22.00% | ~80 |
 | Poker-Man | 20.00% | ~72 |
 | FOR THE GAUNTLET! | 20.00% | ~72 |
-| Untapped Potential | 17.00% | ~61 |
+| Untapped Potential | 17.00% | ~62 |
 | Played by Gramps | 14.00% | ~51 |
 | Size Doesn’t Matter | 12.00% | ~43 |
 | I Choo-Choo-Choose You | 12.00% | ~43 |
 | My Savior! | 12.00% | ~43 |
 | Totally Swamped | 11.00% | ~40 |
-| Is Anyone Out There? | 11.00% | ~40 |
 | Limitless | 10.00% | ~36 |
 | Hammer Time | 10.00% | ~36 |
+| Is Anyone Out There? | 10.00% | ~36 |
 | Hired Goon | 6.00% | ~22 |
 | Holy Scrap! | 6.00% | ~22 |
 | How I Met Your Nana | 4.00% | ~14 |
@@ -33,8 +33,8 @@
 | Lord of the Wastes | 3.00% | ~11 |
 | Through Hell and Back | 3.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 361 (Ranked 324)  
-Completed: 11 (3.05%) (Ranked 99)  
+Progressed: 362 (Ranked 324)  
+Completed: 11 (3.04%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -71,6 +71,7 @@ Completed: 11 (3.05%) (Ranked 99)
 | 2023-10-26 | 359 | 11 |
 | 2023-10-30 | 360 | 11 |
 | 2023-11-02 | 361 | 11 |
+| 2023-11-14 | 362 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

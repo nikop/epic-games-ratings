@@ -9,7 +9,7 @@
 | Better On Ice | 70.00% | ~485 |
 | Notai Notes | 70.00% | ~485 |
 | Blue Dreams | 69.00% | ~478 |
-| He's Famous! | 68.00% | ~471 |
+| He's Famous! | 69.00% | ~478 |
 | Krugmazing | 67.00% | ~464 |
 | Cutie Poro | 67.00% | ~464 |
 | The Fire Below the Mountain | 64.00% | ~444 |
@@ -21,7 +21,7 @@
 | My Darkest Day | 50.00% | ~346 |
 | Rhythm Of Willump | 47.00% | ~326 |
 | The Relentless Storm | 47.00% | ~326 |
-| A Tragic Reminder | 44.00% | ~305 |
+| A Tragic Reminder | 45.00% | ~312 |
 | 3000 Year Blackout | 44.00% | ~305 |
 | The Finisher | 42.00% | ~291 |
 | True Legends | 41.00% | ~284 |
@@ -49,7 +49,7 @@
 | Rock Star | 2.00% | ~14 |
 | We Are Speed | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693 (Ranked 276)  
+Progressed: 693 (Ranked 277)  
 Completed: 5 (0.72%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |

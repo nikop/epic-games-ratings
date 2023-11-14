@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 550,
+  "EOS_Progressed": 551,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 5.45,
+  "EOS_Completed_Percentage": 5.44,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -2355,6 +2355,11 @@
       "Time": "2023-11-14T21:03:00.4575833+00:00",
       "NumProgressed": 550,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-14T23:03:38.2367855+00:00",
+      "NumProgressed": 551,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 25,
@@ -2366,7 +2371,7 @@
       "Name": "I did it",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "END_GOOD",
@@ -2406,7 +2411,7 @@
       "Name": "Half the way",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "META_RESULT_1-2",
@@ -2470,7 +2475,7 @@
       "Name": "Rascal",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -2494,7 +2499,7 @@
       "Name": "Fashion victim",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -2558,21 +2563,21 @@
       "Name": "One last step",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 550,
+      "Progressed": 551,
       "Completed": 30
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:03:08.1312862+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:03:38.2367852+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:57:38.8551746+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:03:08.1313311+00:00"
+  "LastUpdate_Ratings": "2023-11-14T22:57:55.7628521+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:03:38.2368119+00:00"
 }

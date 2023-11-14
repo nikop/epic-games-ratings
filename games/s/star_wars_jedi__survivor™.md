@@ -5,39 +5,39 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~7,897 |
-| For Saw Gerrera | 98.00% | ~7,817 |
-| Grab Some Seat | 91.00% | ~7,259 |
-| Can You Pet the Bogling? | 86.00% | ~6,860 |
-| The Past Made Present | 82.00% | ~6,541 |
-| Survivors, We Adapt | 78.00% | ~6,222 |
-| Among the Masters | 77.00% | ~6,142 |
-| They Never Saw It Coming | 76.00% | ~6,063 |
-| Who Gives a Puck | 72.00% | ~5,743 |
-| Mirror Match | 64.00% | ~5,105 |
-| For the Path | 64.00% | ~5,105 |
-| Now, This Isn't Podracing | 63.00% | ~5,026 |
-| Skywalker | 60.00% | ~4,786 |
-| Out of Bedlam | 60.00% | ~4,786 |
-| Cleaning Up | 53.00% | ~4,228 |
-| Tanalorr Bound | 52.00% | ~4,148 |
-| Kitted Out | 51.00% | ~4,068 |
-| Tragedy | 49.00% | ~3,909 |
-| Hey, Luke At Us | 49.00% | ~3,909 |
-| At the Precipice | 47.00% | ~3,749 |
-| Into the Abyss | 46.00% | ~3,669 |
-| Riposte | 46.00% | ~3,669 |
-| A Place You Could Call Home | 44.00% | ~3,510 |
-| Greezy Money | 43.00% | ~3,430 |
-| Catch! | 40.00% | ~3,191 |
-| They're Probably Fine | 39.00% | ~3,111 |
-| Han Slowlo | 37.00% | ~2,951 |
+| Rooftop Duel | 99.00% | ~7,899 |
+| For Saw Gerrera | 98.00% | ~7,819 |
+| Grab Some Seat | 91.00% | ~7,261 |
+| Can You Pet the Bogling? | 86.00% | ~6,862 |
+| The Past Made Present | 82.00% | ~6,543 |
+| Survivors, We Adapt | 78.00% | ~6,224 |
+| Among the Masters | 77.00% | ~6,144 |
+| They Never Saw It Coming | 76.00% | ~6,064 |
+| Who Gives a Puck | 72.00% | ~5,745 |
+| Mirror Match | 64.00% | ~5,107 |
+| For the Path | 64.00% | ~5,107 |
+| Now, This Isn't Podracing | 63.00% | ~5,027 |
+| Skywalker | 60.00% | ~4,787 |
+| Out of Bedlam | 60.00% | ~4,787 |
+| Cleaning Up | 53.00% | ~4,229 |
+| Tanalorr Bound | 52.00% | ~4,149 |
+| Kitted Out | 51.00% | ~4,069 |
+| Tragedy | 49.00% | ~3,910 |
+| Hey, Luke At Us | 49.00% | ~3,910 |
+| At the Precipice | 47.00% | ~3,750 |
+| Into the Abyss | 46.00% | ~3,670 |
+| Riposte | 46.00% | ~3,670 |
+| A Place You Could Call Home | 44.00% | ~3,511 |
+| Greezy Money | 43.00% | ~3,431 |
+| Catch! | 40.00% | ~3,192 |
+| They're Probably Fine | 39.00% | ~3,112 |
+| Han Slowlo | 37.00% | ~2,952 |
 | There Is No Try | 36.00% | ~2,872 |
 | The Jedi Path | 31.00% | ~2,473 |
 | This Is Canon | 28.00% | ~2,234 |
-| It's a Trap | 26.00% | ~2,074 |
+| It's a Trap | 26.00% | ~2,075 |
 | You've Got A Friend | 22.00% | ~1,755 |
-| King of the World | 16.00% | ~1,276 |
+| King of the World | 16.00% | ~1,277 |
 | Reconnaissance | 15.00% | ~1,197 |
 | Max Capacity | 14.00% | ~1,117 |
 | A Presence I've Not Felt Since... | 14.00% | ~1,117 |
@@ -46,7 +46,7 @@ Rating: 4.50 (Ranked 588)
 | Gambler | 10.00% | ~798 |
 | Caij Match | 9.00% | ~718 |
 | Growth Spurt | 9.00% | ~718 |
-| Perk of the Job | 7.00% | ~558 |
+| Perk of the Job | 7.00% | ~559 |
 | I'm a Living Legend | 6.00% | ~479 |
 | Road House | 6.00% | ~479 |
 | Skoova Diving | 6.00% | ~479 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 588)
 | Blood, Sweat, and Tears | 3.00% | ~239 |
 | Pinpoint | 2.00% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,977 (Ranked 168)  
+Progressed: 7,979 (Ranked 168)  
 Completed: 44 (0.55%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,22 +118,22 @@ Completed: 44 (0.55%) (Ranked 190)
 | 2023-11-11 | 7,731 | 42 |
 | 2023-11-12 | 7,858 | 42 |
 | 2023-11-13 | 7,935 | 42 |
-| 2023-11-14 | 7,977 | 44 |
+| 2023-11-14 | 7,979 | 44 |
 ## Awards
 Max (Great Boss Battles): 3,211  (Ranked 95)  
-Sum: 4,898 (Ranked 140)  
+Sum: 4,902 (Ranked 140)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,211 |
 | This game has Amazing Storytelling | 224 |
-| This game has Quickly Understood Controls | 204 |
+| This game has Quickly Understood Controls | 206 |
 | This game has Amazing Characters | 202 |
 | This game has Diverse Characters | 198 |
 | This game is Relaxing | 189 |
 | This game is Highly Recommended | 187 |
 | This game is Extremely Fun | 182 |
-| This game has Challenging Combat | 176 |
+| This game has Challenging Combat | 178 |
 | This game has a Creative Community | 125 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -336,4 +336,4 @@ Diff (max vs sum): -45
 | 2023-11-11 | 4.50 | 3,183 | 4,845 |
 | 2023-11-12 | 4.50 | 3,200 | 4,869 |
 | 2023-11-13 | 4.50 | 3,200 | 4,880 |
-| 2023-11-14 | 4.50 | 3,211 | 4,898 |
+| 2023-11-14 | 4.50 | 3,211 | 4,902 |

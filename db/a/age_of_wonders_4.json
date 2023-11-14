@@ -7201,9 +7201,9 @@
       "ID": "2",
       "SetID": "3aa2279",
       "Name": "Enchanted Archipelago",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "20",
@@ -7297,9 +7297,9 @@
       "ID": "30",
       "SetID": "3aa2279",
       "Name": "Preparation Is Everything",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "31",
@@ -7569,9 +7569,9 @@
       "ID": "58",
       "SetID": "7132754",
       "Name": "Dawn of the Dread",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "59",
@@ -7608,8 +7608,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:04:44.4352323+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:05:50.3272286+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:57:41.485771+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:04:44.4353202+00:00"
+  "LastUpdate_Ratings": "2023-11-14T22:57:59.8295324+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:05:50.3272894+00:00"
 }

@@ -8,17 +8,17 @@
 | Thalya – Simply Immortal | 86.00% | ~227 |
 | For the Horde! | 79.00% | ~209 |
 | Hammer Time, Round Two | 78.00% | ~206 |
-| The Hellwoods | 71.00% | ~187 |
+| The Hellwoods | 70.00% | ~185 |
 | Thalya's Concentrated Fury | 64.00% | ~169 |
 | The Plains of Strothalm | 64.00% | ~169 |
 | Experienced Thalya | 64.00% | ~169 |
 | Master of Magic | 59.00% | ~156 |
 | Bad Elves Go Everywhere | 59.00% | ~156 |
 | Unicorn steaks – fresh off the hoof! | 55.00% | ~145 |
-| Magic Accidents | 52.00% | ~137 |
-| Minions, Minions! | 51.00% | ~135 |
+| Magic Accidents | 53.00% | ~140 |
+| Heroes’ Gorge | 51.00% | ~135 |
 | Trap Master | 50.00% | ~132 |
-| Heroes’ Gorge | 50.00% | ~132 |
+| Minions, Minions! | 50.00% | ~132 |
 | YOU SHALL NOT PASS! | 38.00% | ~100 |
 | The Ascent | 37.00% | ~98 |
 | It's Warm and Cozy at Home | 37.00% | ~98 |
@@ -27,7 +27,7 @@
 | The Big Eaty | 31.00% | ~82 |
 | Mana Cannon | 29.00% | ~77 |
 | “… like son” | 23.00% | ~61 |
-| Dungeonlord Gorgu | 19.00% | ~50 |
+| Dungeonlord Gorgu | 20.00% | ~53 |
 | Shame! Shame! Shame! | 19.00% | ~50 |
 | The Cathedral of Light | 17.00% | ~45 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 16.00% | ~42 |
@@ -48,20 +48,20 @@
 | Doom Hill | 5.00% | ~13 |
 | Sabotage! | 4.00% | ~11 |
 | Brimstone Shaken, Not Stirred | 4.00% | ~11 |
+| Gorgu is in the Best of Health | 3.00% | ~8 |
 | Mirror, Mirror | 3.00% | ~8 |
+| Laser Eyes Are So Useless | 3.00% | ~8 |
 | Lavalumps on Ice! | 3.00% | ~8 |
 | Rubble and Ashes | 3.00% | ~8 |
 | Raiders of the Lost Stone | 3.00% | ~8 |
-| Gorgu is in the Best of Health | 2.00% | ~5 |
-| Laser Eyes Are So Useless | 2.00% | ~5 |
 | Untouchable | 2.00% | ~5 |
 | The Rune Sockets of Finitude (Part 1) | 2.00% | ~5 |
 | To the Max! | 2.00% | ~5 |
 | To Infinity And Beyond! | 2.00% | ~5 |
 | The Rune Sockets of Finitude (Part 2) | 2.00% | ~5 |
 | The Last Stand - This Time For Real! | 2.00% | ~5 |
+| No Mana, No Cry | 1.00% | ~3 |
 | Evilification | 1.00% | ~3 |
-| No Mana, No Cry | 0.80% | ~2 |
 | Hands Off My Stones | 0.80% | ~2 |
 | Heal Heal Blessing | 0.40% | ~1 |
 | I Don't Need Any Help | 0.40% | ~1 |

@@ -4133,7 +4133,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 76427,
+  "EOS_Progressed": 76429,
   "EOS_Completed": 123,
   "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 0,
@@ -22583,6 +22583,11 @@
       "Time": "2023-11-14T22:05:11.6291089+00:00",
       "NumProgressed": 76427,
       "NumCompleted": 123
+    },
+    {
+      "Time": "2023-11-14T23:06:28.3978024+00:00",
+      "NumProgressed": 76429,
+      "NumCompleted": 123
     }
   ],
   "TotalAchievements": 61,
@@ -22642,7 +22647,7 @@
       "Name": "The Batman Family",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 17578
+      "UsersEstimate": 17579
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -22778,7 +22783,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -22834,7 +22839,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 14521
+      "UsersEstimate": 14522
     },
     {
       "ID": "FREEZE_3",
@@ -22898,7 +22903,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 26749
+      "UsersEstimate": 26750
     },
     {
       "ID": "HARLEY_2",
@@ -22914,7 +22919,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15285
+      "UsersEstimate": 15286
     },
     {
       "ID": "HARLEY_4",
@@ -22922,7 +22927,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 12228
+      "UsersEstimate": 12229
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -22938,7 +22943,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 38978
+      "UsersEstimate": 38979
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -22962,7 +22967,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15285
+      "UsersEstimate": 15286
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -22970,7 +22975,7 @@
       "Name": "Knighthood",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 20635
+      "UsersEstimate": 20636
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -22986,7 +22991,7 @@
       "Name": "Loose Ends",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 25985
+      "UsersEstimate": 25986
     },
     {
       "ID": "MYSTERY_02",
@@ -23010,7 +23015,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 15285
+      "UsersEstimate": 15286
     },
     {
       "ID": "MYSTERY_05",
@@ -23058,7 +23063,7 @@
       "Name": "Solid Alibi",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 6878
+      "UsersEstimate": 6879
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -23081,13 +23086,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 76427,
+      "Progressed": 76429,
       "Completed": 123
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 46707,
+      "Progressed": 46709,
       "Completed": 2673
     }
   ],
@@ -23095,8 +23100,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2023-11-14T19:58:26.0875294+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:05:11.6291085+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:06:28.3978021+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:10.2806185+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:58:01.5780074+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:05:11.6292682+00:00"
+  "LastUpdate_Ratings": "2023-11-14T22:58:30.6115563+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:06:28.3979391+00:00"
 }

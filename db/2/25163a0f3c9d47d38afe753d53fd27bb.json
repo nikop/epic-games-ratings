@@ -2,9 +2,9 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 268,
-  "Ranking_EOS_Completed": 31,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_Progress": 269,
+  "Ranking_EOS_Completed": 32,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 796,
+  "EOS_Progressed": 802,
   "EOS_Completed": 89,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 11.18,
+  "EOS_Completed_Percentage": 11.1,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -2799,6 +2799,11 @@
       "Time": "2023-11-14T22:09:26.4504002+00:00",
       "NumProgressed": 796,
       "NumCompleted": 89
+    },
+    {
+      "Time": "2023-11-14T23:10:15.9595427+00:00",
+      "NumProgressed": 802,
+      "NumCompleted": 89
     }
   ],
   "TotalAchievements": 30,
@@ -2810,7 +2815,7 @@
       "Name": "A fresh start",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 764
+      "UsersEstimate": 770
     },
     {
       "ID": "LEVEL_002",
@@ -2818,7 +2823,7 @@
       "Name": "Promising crop",
       "Percentage": 82,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 658
     },
     {
       "ID": "LEVEL_003",
@@ -2826,7 +2831,7 @@
       "Name": "A horse in the country",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 561
     },
     {
       "ID": "LEVEL_004",
@@ -2834,7 +2839,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 465
     },
     {
       "ID": "LEVEL_005",
@@ -2842,7 +2847,7 @@
       "Name": "Small village",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 377
     },
     {
       "ID": "LEVEL_006",
@@ -2850,7 +2855,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 337
     },
     {
       "ID": "LEVEL_007",
@@ -2858,7 +2863,7 @@
       "Name": "Animals in the farm",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 297
     },
     {
       "ID": "LEVEL_008",
@@ -2866,7 +2871,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 273
     },
     {
       "ID": "LEVEL_009",
@@ -2874,7 +2879,7 @@
       "Name": "Going zig zag",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 239
+      "UsersEstimate": 241
     },
     {
       "ID": "LEVEL_010",
@@ -2882,7 +2887,7 @@
       "Name": "Rocks around the island",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 215
+      "UsersEstimate": 217
     },
     {
       "ID": "LEVEL_011",
@@ -2890,7 +2895,7 @@
       "Name": "This island of mine",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 200
     },
     {
       "ID": "LEVEL_012",
@@ -2898,7 +2903,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "LEVEL_013",
@@ -2906,7 +2911,7 @@
       "Name": "Higher ground",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "LEVEL_014",
@@ -2914,7 +2919,7 @@
       "Name": "Cross-country",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "LEVEL_015",
@@ -2922,15 +2927,15 @@
       "Name": "Flatland",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "LEVEL_016",
       "SetID": "212bg48",
       "Name": "Where\u0027s the toilet, sir?",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 136
     },
     {
       "ID": "LEVEL_017",
@@ -2938,23 +2943,23 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "LEVEL_018",
       "SetID": "212bg48",
       "Name": "Isle rock city",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 120
     },
     {
       "ID": "LEVEL_019",
       "SetID": "212bg48",
       "Name": "Calling Mr. Joe",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 112
     },
     {
       "ID": "LEVEL_020",
@@ -2962,7 +2967,7 @@
       "Name": "Go round and round",
       "Percentage": 14,
       "XP": 110,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "LEVEL_021",
@@ -2992,9 +2997,9 @@
       "ID": "LEVEL_024",
       "SetID": "212bg48",
       "Name": "Beach or mountain?",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 88
+      "UsersEstimate": 80
     },
     {
       "ID": "LEVEL_025",
@@ -3016,9 +3021,9 @@
       "ID": "LEVEL_027",
       "SetID": "212bg48",
       "Name": "A farm island lost in time...",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 80
+      "UsersEstimate": 72
     },
     {
       "ID": "LEVEL_028",
@@ -3049,14 +3054,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 796,
+      "Progressed": 802,
       "Completed": 89
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:09:26.4503998+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:10:15.9595424+00:00",
   "LastUpdate_AppInfo": "2023-11-14T02:57:10.144032+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:57:13.2908938+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:09:26.450435+00:00"
+  "LastUpdate_Ratings": "2023-11-14T22:57:17.8580928+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:10:15.959581+00:00"
 }

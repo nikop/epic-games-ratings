@@ -2503,10 +2503,16 @@
       "Rating": 4.47,
       "NumberOfAwards": 4742,
       "NumberOfAwardsMax": 1507
+    },
+    {
+      "Time": "2023-11-14T22:58:19.0638342+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 4750,
+      "NumberOfAwardsMax": 1507
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4742,
+  "NumberOfAwards": 4750,
   "NumberOfAwardsMax": 1507,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2538,7 +2544,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 303
+      "Count": 308
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2562,7 +2568,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 305
+      "Count": 307
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2580,12 +2586,12 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 355
+      "Count": 356
     }
   ],
   "EOS_Progressed": 8528,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8083,9 +8089,9 @@
       "ID": "ach06",
       "SetID": "47in8n6",
       "Name": "Titan",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 6396
+      "UsersEstimate": 6481
     },
     {
       "ID": "ach07",
@@ -8451,9 +8457,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2023-11-14T15:58:05.923804+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:03:21.597147+00:00",
+  "LastChanged": "2023-11-14T22:58:19.063834+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:03:56.8405461+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:57:53.9890896+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:03:21.5972147+00:00"
+  "LastUpdate_Ratings": "2023-11-14T22:58:19.0638345+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:03:56.8406007+00:00"
 }

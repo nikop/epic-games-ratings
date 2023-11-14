@@ -14,7 +14,7 @@
 | Honorarium of Corporate Service | 58.00% | ~731 |
 | Medal of Exploration II | 52.00% | ~655 |
 | Turian Ally | 52.00% | ~655 |
-| Council Legion of Merit | 51.00% | ~643 |
+| Council Legion of Merit | 52.00% | ~655 |
 | Medal of Honor | 49.00% | ~617 |
 | Meritorious Service Medal | 49.00% | ~617 |
 | Soldier | 48.00% | ~605 |
@@ -43,13 +43,13 @@
 | The Krogan | 32.00% | ~403 |
 | Broke, Blind, and Bedlam | 32.00% | ~403 |
 | Ghost Ship | 31.00% | ~391 |
+| The Quarian | 31.00% | ~391 |
 | The Prodigal | 31.00% | ~391 |
 | Galactic Explorer | 31.00% | ~391 |
 | A Personal Touch | 30.00% | ~378 |
 | Completionist | 30.00% | ~378 |
 | The Assassin | 30.00% | ~378 |
 | The Justicar | 30.00% | ~378 |
-| The Quarian | 30.00% | ~378 |
 | Ghost of the Father | 30.00% | ~378 |
 | Driven | 30.00% | ~378 |
 | Shopaholic | 30.00% | ~378 |

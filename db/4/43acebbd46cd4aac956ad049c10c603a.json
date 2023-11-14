@@ -5,10 +5,10 @@
   "Ranking_Rating": 3,
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
-  "Ranking_EOS_Progress": 335,
-  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_Progress": 333,
+  "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -65,11 +65,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 327,
+  "EOS_Progressed": 328,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 324,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.31,
+  "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
       "Time": "2023-11-08T08:07:23.567232+00:00",
@@ -590,6 +590,11 @@
       "Time": "2023-11-14T22:04:36.4484865+00:00",
       "NumProgressed": 327,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T23:05:38.9347311+00:00",
+      "NumProgressed": 328,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -610,7 +615,7 @@
       "Name": "Ab Initio",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "AnthropicHills",
@@ -656,9 +661,9 @@
       "ID": "BridgeBuilder",
       "SetID": "1n308hc",
       "Name": "Bridge Builder",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 199
+      "UsersEstimate": 203
     },
     {
       "ID": "ChasingTheLight",
@@ -680,9 +685,9 @@
       "ID": "CircularOasis",
       "SetID": "1n308hc",
       "Name": "Circular Oasis",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 16
     },
     {
       "ID": "DesolateIsland",
@@ -698,7 +703,7 @@
       "Name": "Discovery",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "EasternWetlands",
@@ -722,7 +727,7 @@
       "Name": "Excellent",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "FloodedValley",
@@ -770,7 +775,7 @@
       "Name": "Into the Machine",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "JustOneLap",
@@ -786,7 +791,7 @@
       "Name": "Lord of the Files",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "LostMarshes",
@@ -882,7 +887,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "RemnantsOfThePast",
@@ -896,9 +901,9 @@
       "ID": "RenaissanceRobot",
       "SetID": "1n308hc",
       "Name": "Renaissance Robot",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 3
+      "UsersEstimate": 7
     },
     {
       "ID": "ScientiaVincereTenebras",
@@ -944,9 +949,9 @@
       "ID": "TeamSpirit",
       "SetID": "1n308hc",
       "Name": "Team Spirit",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 138
     },
     {
       "ID": "TextAdventurer",
@@ -1010,7 +1015,7 @@
       "Name": "The Word Endures",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 232
+      "UsersEstimate": 233
     },
     {
       "ID": "TouchGrass",
@@ -1018,7 +1023,7 @@
       "Name": "Touch Grass",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "TrevorsBiographer",
@@ -1073,7 +1078,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 327,
+      "Progressed": 328,
       "Completed": 1
     }
   ],
@@ -1081,8 +1086,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2023-11-13T18:58:27.0695865+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:04:36.448486+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:05:38.9347309+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.2980677+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:58:32.1885671+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:04:36.4485411+00:00"
+  "LastUpdate_Ratings": "2023-11-14T22:59:16.8564219+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:05:38.9347758+00:00"
 }

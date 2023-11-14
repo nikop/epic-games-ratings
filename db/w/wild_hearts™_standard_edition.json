@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 115,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -1703,9 +1703,9 @@
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 219
     },
     {
       "ID": "achievement_8",
@@ -1733,8 +1733,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:03:14.569586+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:03:47.1909168+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:19.1351279+00:00",
-  "LastUpdate_Ratings": "2023-11-14T22:00:01.9412642+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:03:14.5696446+00:00"
+  "LastUpdate_Ratings": "2023-11-14T23:01:33.2408284+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:03:47.1909546+00:00"
 }

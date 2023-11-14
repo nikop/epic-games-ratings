@@ -2,9 +2,9 @@
   "ID": "3b925119dbd84a9986f06e66e6794033",
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
-  "Ranking_EOS_Progress": 382,
+  "Ranking_EOS_Progress": 381,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 229,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 185,
+  "EOS_Progressed": 186,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -594,6 +594,11 @@
       "Time": "2023-11-14T15:08:45.047613+00:00",
       "NumProgressed": 185,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T23:09:30.9873091+00:00",
+      "NumProgressed": 186,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -638,7 +643,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -670,7 +675,7 @@
       "Name": "FixyText: Pump It Up",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "RISKYTEXT_ONE_WORD_GETS_VOTES_FROM_ALL_VOTING_PLAYERS",
@@ -694,7 +699,7 @@
       "Name": "FixyText: Co-author",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "TIME_JINX",
@@ -702,7 +707,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "TIME_ORWELL",
@@ -716,9 +721,9 @@
       "ID": "TIME_PERFECT_DATE",
       "SetID": "9j9h72e",
       "Name": "Timejinx: The Perfect Date",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 99
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -765,14 +770,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 185,
+      "Progressed": 186,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:08:52.3494344+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:09:30.9873088+00:00",
   "LastUpdate_AppInfo": "2023-11-10T22:57:06.8109666+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:59:44.326901+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:08:52.3494544+00:00"
+  "LastUpdate_Ratings": "2023-11-14T23:01:06.7002444+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:09:30.9873422+00:00"
 }

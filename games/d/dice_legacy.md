@@ -21,8 +21,8 @@ Rating: 4.27 (Ranked 858)
 | Incredible Strength | 4.00% | ~46 |
 | Greedy | 4.00% | ~46 |
 | Prophecy Fulfilled | 4.00% | ~46 |
-| The Greedy Ones | 3.00% | ~35 |
 | The First King | 2.00% | ~23 |
+| The Greedy Ones | 2.00% | ~23 |
 | The Unruly Ones | 2.00% | ~23 |
 | The great fire | 1.00% | ~12 |
 | The Mad | 1.00% | ~12 |
@@ -51,7 +51,7 @@ Rating: 4.27 (Ranked 858)
 | Fate is against us | 0.00% | ~0 |
 | Despite everything | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,160 (Ranked 246)  
+Progressed: 1,161 (Ranked 247)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -219,6 +219,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-11 | 1,153 | 0 |
 | 2023-11-12 | 1,157 | 0 |
 | 2023-11-13 | 1,160 | 0 |
+| 2023-11-14 | 1,161 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

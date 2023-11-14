@@ -109,6 +109,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | We bled for this | 0.10% | ~456 |
 | Wonderful | 0.10% | ~456 |
 | World Discoverer | 0.10% | ~456 |
+| King of Kings | 0.10% | ~456 |
 | Restore the Pentarchy | 0.10% | ~456 |
 | The Last Crusade | 0.10% | ~456 |
 | The 52 Garhs | 0.00% | ~0 |
@@ -364,13 +365,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | You Get A New Home, And You Get A New Home | 0.00% | ~0 |
 | Breadbasket of the World | 0.00% | ~0 |
 | Desert Power | 0.00% | ~0 |
-| King of Kings | 0.00% | ~0 |
 | Legacy of Saint George | 0.00% | ~0 |
 | Mets Hayk | 0.00% | ~0 |
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,743 (Ranked 41)  
+Progressed: 455,766 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,743 | 1 |
+| 2023-11-14 | 455,766 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 55)  
 Sum: 57,546 (Ranked 24)  

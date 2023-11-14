@@ -18,10 +18,10 @@ Number of Ratings: 45  (23.09.2022)
 | Core Failure | 1.00% | ~15 |
 | Let Me Get My Chisel | 0.80% | ~12 |
 | Completing the Look | 0.80% | ~12 |
+| Echoes Die | 0.60% | ~9 |
 | A Mythic Menagerie | 0.50% | ~7 |
 | Who's Counting? | 0.50% | ~7 |
 | Pyrrhic Victory | 0.50% | ~7 |
-| Echoes Die | 0.50% | ~7 |
 | Thematic Divergence | 0.40% | ~6 |
 | A Story of Heroes | 0.40% | ~6 |
 | Empty the Caves | 0.30% | ~4 |
@@ -35,6 +35,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Lowly Crust of Beef | 0.10% | ~1 |
 | No More Nightmares | 0.10% | ~1 |
 | Plague Doctor | 0.10% | ~1 |
+| Legends Never Die | 0.10% | ~1 |
 | In Soil, In Smoke | 0.10% | ~1 |
 | Everfading | 0.10% | ~1 |
 | A Hunger, Sated | 0.10% | ~1 |
@@ -54,7 +55,6 @@ Number of Ratings: 45  (23.09.2022)
 | Drauvenslayers | 0.00% | ~0 |
 | Back into the Sea | 0.00% | ~0 |
 | Peacemaker | 0.00% | ~0 |
-| Legends Never Die | 0.00% | ~0 |
 | War-Ender | 0.00% | ~0 |
 | Fight Like a Bird | 0.00% | ~0 |
 | Solid as the Hills | 0.00% | ~0 |

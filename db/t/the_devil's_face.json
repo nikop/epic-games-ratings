@@ -4,8 +4,8 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 154,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
     "PcReleaseDate": "2023-08-26T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 562,
+  "EOS_Progressed": 563,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.07,
   "EosHistory": [
@@ -2429,6 +2429,11 @@
       "Time": "2023-11-14T05:06:19.0771674+00:00",
       "NumProgressed": 562,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-14T23:03:41.1344935+00:00",
+      "NumProgressed": 563,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 14,
@@ -2448,7 +2453,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2512,7 +2517,7 @@
       "Name": "Unholy lands",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -2520,7 +2525,7 @@
       "Name": "Unveiling the Magnitude of Sin",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -2551,14 +2556,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 562,
+      "Progressed": 563,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:03:10.1317349+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:03:41.1344932+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:27.3644935+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:58:36.7021105+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:03:10.1317745+00:00"
+  "LastUpdate_Ratings": "2023-11-14T22:59:23.9632482+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:03:41.1345143+00:00"
 }

@@ -1323,9 +1323,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 237162,
+  "EOS_Progressed": 237170,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1329,
+  "EOS_NewPlayers": 1324,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18563,6 +18563,11 @@
       "Time": "2023-11-14T22:08:28.204163+00:00",
       "NumProgressed": 237162,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-14T23:08:57.3347802+00:00",
+      "NumProgressed": 237170,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 88,
@@ -18630,7 +18635,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9486
+      "UsersEstimate": 9487
     },
     {
       "ID": "Chapter3",
@@ -18694,7 +18699,7 @@
       "Name": "Friendly fire",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "CompanionMinstrel",
@@ -18702,7 +18707,7 @@
       "Name": "I\u0027d rather... Just... Sing!",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "CompanionNone",
@@ -18710,7 +18715,7 @@
       "Name": "The number of the counting shalt be 7",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "CompanionPaladine",
@@ -18974,7 +18979,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 16601
+      "UsersEstimate": 16602
     },
     {
       "ID": "DwarfElf15Support",
@@ -19022,7 +19027,7 @@
       "Name": "Sowwy!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 83007
+      "UsersEstimate": 83010
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -19038,7 +19043,7 @@
       "Name": "GG EZ",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 9486
+      "UsersEstimate": 9487
     },
     {
       "ID": "EndCombatOneHp",
@@ -19046,7 +19051,7 @@
       "Name": "DM intervention",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9486
+      "UsersEstimate": 9487
     },
     {
       "ID": "EndGameCursed",
@@ -19070,7 +19075,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 18973
+      "UsersEstimate": 18974
     },
     {
       "ID": "FollowBraztok",
@@ -19150,15 +19155,15 @@
       "Name": "Inception",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "PriestessEpic",
       "SetID": "50chcgj",
       "Name": "In Navalu\u0027s footsteps",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1897
+      "UsersEstimate": 2135
     },
     {
       "ID": "QuestEmile",
@@ -19222,7 +19227,7 @@
       "Name": "Speedrun",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9486
+      "UsersEstimate": 9487
     },
     {
       "ID": "SupportCount4",
@@ -19277,21 +19282,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 237162,
+      "Progressed": 237170,
       "Completed": 7
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 237162,
+      "Progressed": 237170,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2023-11-14T17:59:08.4109383+00:00",
-  "LastChanged_Achievements": "2023-11-14T22:08:28.2041614+00:00",
+  "LastChanged_Achievements": "2023-11-14T23:08:57.3347799+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:48.6319648+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:58:30.23338+00:00",
-  "LastUpdate_Achievements": "2023-11-14T22:08:28.2043566+00:00"
+  "LastUpdate_Ratings": "2023-11-14T22:59:14.1463499+00:00",
+  "LastUpdate_Achievements": "2023-11-14T23:08:57.3349136+00:00"
 }
