@@ -6,7 +6,7 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 40.00% | ~26,031 |
+| Lawbringer | 40.00% | ~26,032 |
 | Landlord | 33.00% | ~21,476 |
 | Bannerlord | 24.00% | ~15,619 |
 | Horde breaker | 24.00% | ~15,619 |
@@ -14,8 +14,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Trained | 23.00% | ~14,968 |
 | The king is pleased | 19.00% | ~12,365 |
 | King Solomon | 18.00% | ~11,714 |
-| Apple of my eye | 16.00% | ~10,412 |
-| I can do it | 16.00% | ~10,412 |
+| Apple of my eye | 16.00% | ~10,413 |
+| I can do it | 16.00% | ~10,413 |
 | Against all odds | 13.00% | ~8,460 |
 | God of the Arena | 13.00% | ~8,460 |
 | This Is Our Land | 13.00% | ~8,460 |
@@ -25,8 +25,8 @@ Number of Ratings: 5,603  (23.09.2022)
 | Swordbearer | 10.00% | ~6,508 |
 | What have the Romans ever done for us? | 10.00% | ~6,508 |
 | Butterlord | 9.00% | ~5,857 |
-| Know your enemy | 7.00% | ~4,555 |
-| Mastery | 7.00% | ~4,555 |
+| Know your enemy | 7.00% | ~4,556 |
+| Mastery | 7.00% | ~4,556 |
 | Crowdfunded | 5.00% | ~3,254 |
 | Crush your enemies | 5.00% | ~3,254 |
 | My way | 5.00% | ~3,254 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 65,078 (Ranked 103)  
+Progressed: 65,080 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,14 +266,14 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-11 | 64,919 | 0 |
 | 2023-11-12 | 65,011 | 0 |
 | 2023-11-13 | 65,066 | 0 |
-| 2023-11-14 | 65,078 | 0 |
+| 2023-11-14 | 65,080 | 0 |
 ## Awards
-Max (Character Customization): 7,379  (Ranked 53)  
-Sum: 15,254 (Ranked 68)  
+Max (Character Customization): 7,383  (Ranked 53)  
+Sum: 15,258 (Ranked 68)  
 Diff (max vs sum): -15  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,379 |
+| This game has Inclusive Character Customization | 7,383 |
 | This game is Great for Beginners | 1,050 |
 | This game has Diverse Characters | 1,005 |
 | This game is Highly Recommended | 923 |
@@ -591,3 +591,4 @@ Diff (max vs sum): -15
 | 2023-11-11 | 4.74 | - | 7,364 | 15,221 |
 | 2023-11-12 | 4.74 | - | 7,375 | 15,242 |
 | 2023-11-13 | 4.74 | - | 7,379 | 15,254 |
+| 2023-11-14 | 4.74 | - | 7,383 | 15,258 |

@@ -13,17 +13,25 @@ Number of Ratings: 8,414  (23.09.2022)
 | Cold War | 0.10% | ~455 |
 | Combined Arms | 0.10% | ~455 |
 | Defender of the Faith | 0.10% | ~455 |
+| Down Under | 0.10% | ~455 |
 | Early-Modern Warfare | 0.10% | ~455 |
 | Gentle Persuasion | 0.10% | ~455 |
 | A Golden Empire | 0.10% | ~455 |
 | That's a Grand Army | 0.10% | ~455 |
 | That's a Grand Navy | 0.10% | ~455 |
+| Hard Bargaining | 0.10% | ~455 |
+| Italian Ambition | 0.10% | ~455 |
+| It's all about the money | 0.10% | ~455 |
+| Just a Little Patience | 0.10% | ~455 |
 | Just Resting In My Account | 0.10% | ~455 |
 | Live Long and Prosper | 0.10% | ~455 |
+| My armies are invincible! | 0.10% | ~455 |
 | Respected | 0.10% | ~455 |
 | Royal Authority | 0.10% | ~455 |
 | Seriously?! | 0.10% | ~455 |
 | That is mine! | 0.10% | ~455 |
+| The Chrysanthemum Throne | 0.10% | ~455 |
+| The Five Colonies | 0.10% | ~455 |
 | This navy can take it all | 0.10% | ~455 |
 | Time Bandit | 0.10% | ~455 |
 | Trophy Hunter | 0.10% | ~455 |
@@ -32,7 +40,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Vasa or Wettin? | 0.10% | ~455 |
 | Victorious! | 0.10% | ~455 |
 | Viva la Revolución! | 0.10% | ~455 |
+| We bled for this | 0.10% | ~455 |
 | Wonderful | 0.10% | ~455 |
+| World Discoverer | 0.10% | ~455 |
+| Restore the Pentarchy | 0.10% | ~455 |
 | The 52 Garhs | 0.00% | ~0 |
 | I don't like sand | 0.00% | ~0 |
 | A Blessed Nation | 0.00% | ~0 |
@@ -110,7 +121,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Don’t be Cilli | 0.00% | ~0 |
 | Double the Love | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
-| Down Under | 0.00% | ~0 |
 | Dracula's Revenge | 0.00% | ~0 |
 | Dude, Where's my Boat? | 0.00% | ~0 |
 | Eat your Greens | 0.00% | ~0 |
@@ -155,7 +165,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Great Perm | 0.00% | ~0 |
 | Guarantor of Peace | 0.00% | ~0 |
 | Hanukkah Mutapa | 0.00% | ~0 |
-| Hard Bargaining | 0.00% | ~0 |
 | Hessian Mercenaries | 0.00% | ~0 |
 | Hoarder | 0.00% | ~0 |
 | Holiest Roman Empire | 0.00% | ~0 |
@@ -171,13 +180,10 @@ Number of Ratings: 8,414  (23.09.2022)
 | Inner Turmoil | 0.00% | ~0 |
 | The Iron Price | 0.00% | ~0 |
 | Isn't this the way to India? | 0.00% | ~0 |
-| Italian Ambition | 0.00% | ~0 |
 | It's all about luck | 0.00% | ~0 |
-| It's all about the money | 0.00% | ~0 |
 | It's All Greek To Me | 0.00% | ~0 |
 | Je maintiendrai | 0.00% | ~0 |
 | Jihad | 0.00% | ~0 |
-| Just a Little Patience | 0.00% | ~0 |
 | A Kaiser not just in name | 0.00% | ~0 |
 | Keep the Flame Burning | 0.00% | ~0 |
 | KHAAAAAAN | 0.00% | ~0 |
@@ -215,7 +221,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Meissner Porcelain | 0.00% | ~0 |
 | Mewar Never Changes | 0.00% | ~0 |
 | Multiculturalism | 0.00% | ~0 |
-| My armies are invincible! | 0.00% | ~0 |
 | My True Friend | 0.00% | ~0 |
 | Napoleon’s Ambition | 0.00% | ~0 |
 | Narcissism | 0.00% | ~0 |
@@ -305,10 +310,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's No Mon | 0.00% | ~0 |
 | The Bohemians | 0.00% | ~0 |
 | The Burgundian Conquest | 0.00% | ~0 |
-| The Chrysanthemum Throne | 0.00% | ~0 |
 | The Coin is Stronger than the Sword | 0.00% | ~0 |
 | The Continuation of Diplomacy | 0.00% | ~0 |
-| The Five Colonies | 0.00% | ~0 |
 | The Freest Man in the World | 0.00% | ~0 |
 | The Grand Armada | 0.00% | ~0 |
 | The Great Khan | 0.00% | ~0 |
@@ -348,7 +351,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Victorian Three | 0.00% | ~0 |
 | Voltaire's Nightmare | 0.00% | ~0 |
 | Voting Streak | 0.00% | ~0 |
-| We bled for this | 0.00% | ~0 |
 | Where Am I? | 0.00% | ~0 |
 | Where are the penguins? | 0.00% | ~0 |
 | Where the heart is | 0.00% | ~0 |
@@ -357,7 +359,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Winged Hussars | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 | World Conqueror | 0.00% | ~0 |
-| World Discoverer | 0.00% | ~0 |
 | Yarr Harr a Pirate's Life For Me | 0.00% | ~0 |
 | You Get A New Home, And You Get A New Home | 0.00% | ~0 |
 | Breadbasket of the World | 0.00% | ~0 |
@@ -365,12 +366,11 @@ Number of Ratings: 8,414  (23.09.2022)
 | King of Kings | 0.00% | ~0 |
 | Legacy of Saint George | 0.00% | ~0 |
 | Mets Hayk | 0.00% | ~0 |
-| Restore the Pentarchy | 0.00% | ~0 |
 | The Last Crusade | 0.00% | ~0 |
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,243 (Ranked 41)  
+Progressed: 455,275 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,243 | 1 |
+| 2023-11-14 | 455,275 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 54)  
 Sum: 57,505 (Ranked 24)  

@@ -5,10 +5,10 @@ Rating: 4.18 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 51.00% | ~38,968 |
+| First Step Into the Knight | 51.00% | ~38,969 |
 | Har, Har, Har, Very Funny | 35.00% | ~26,743 |
 | Loose Ends | 34.00% | ~25,979 |
-| To the Victor Go the Spoils | 28.00% | ~21,394 |
+| To the Victor Go the Spoils | 28.00% | ~21,395 |
 | Knighthood | 27.00% | ~20,630 |
 | Get ReQ'd | 25.00% | ~19,102 |
 | Whispered Words | 25.00% | ~19,102 |
@@ -20,9 +20,9 @@ Rating: 4.18 (Ranked 925)
 | Unstoppable Force | 20.00% | ~15,282 |
 | Bad Apples in Every Orchard | 20.00% | ~15,282 |
 | Snow Problem | 19.00% | ~14,518 |
-| The Show Mud Go On | 18.00% | ~13,753 |
-| From Inside Gotham's Walls | 18.00% | ~13,753 |
-| Protector of Gotham | 17.00% | ~12,989 |
+| The Show Mud Go On | 18.00% | ~13,754 |
+| From Inside Gotham's Walls | 18.00% | ~13,754 |
+| Protector of Gotham | 17.00% | ~12,990 |
 | Universal Health Scare | 16.00% | ~12,225 |
 | In Your Element | 15.00% | ~11,461 |
 | Voiceless | 15.00% | ~11,461 |
@@ -39,9 +39,9 @@ Rating: 4.18 (Ranked 925)
 | Out of Their League | 9.00% | ~6,877 |
 | Solid Alibi | 9.00% | ~6,877 |
 | Fusion Expert | 7.00% | ~5,349 |
-| Expert Crime Fighter | 6.00% | ~4,584 |
-| Family Meeting | 6.00% | ~4,584 |
-| A Worthy Successor | 6.00% | ~4,584 |
+| Expert Crime Fighter | 6.00% | ~4,585 |
+| Family Meeting | 6.00% | ~4,585 |
+| A Worthy Successor | 6.00% | ~4,585 |
 | Dressed to Impress | 4.00% | ~3,056 |
 | A Momentum Occasion | 3.00% | ~2,292 |
 | Bat Out of Hell | 3.00% | ~2,292 |
@@ -67,7 +67,7 @@ Rating: 4.18 (Ranked 925)
 | Element of Surprise | 0.20% | ~93 |
 | It's Nice to Be Wanted | 0.20% | ~93 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 76,408 (Ranked 97)  
+Progressed: 76,409 (Ranked 97)  
 Completed: 123 (0.16%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -275,7 +275,7 @@ Completed: 123 (0.16%) (Ranked 259)
 | 2023-11-11 | 76,302 | 123 |
 | 2023-11-12 | 76,353 | 123 |
 | 2023-11-13 | 76,394 | 123 |
-| 2023-11-14 | 76,408 | 123 |
+| 2023-11-14 | 76,409 | 123 |
 ## Awards
 Max (Great Boss Battles): 2,935  (Ranked 98)  
 Sum: 4,981 (Ranked 137)  

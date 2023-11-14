@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1246,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -3857,9 +3857,9 @@
       "ID": "achievement_37",
       "SetID": "b9pe172",
       "Name": "Very Elusive",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 498
     },
     {
       "ID": "achievement_38",
@@ -4421,8 +4421,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:05:40.1812549+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:03:56.2748666+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:03:48.6800148+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:05:40.1815144+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:02:39.6453588+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:03:56.275039+00:00"
 }

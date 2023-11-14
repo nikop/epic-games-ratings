@@ -1,44 +1,44 @@
 # Alan Wake Remastered
 [Store](https://store.epicgames.com/en-US/p/alan-wake-remastered)  
 [View Rawdata](../../db/a/alan_wake_remastered.json)  
-Rating: 4.53 (Ranked 538)  
+Rating: 4.53 (Ranked 539)  
 Number of Ratings: 524  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Follow the Light | 57.00% | ~53,074 |
-| Let There Be Light | 47.00% | ~43,763 |
-| Float Like a Butterfly | 45.00% | ~41,900 |
-| Nordic Walking | 37.00% | ~34,451 |
-| Bright Falls' Finest | 36.00% | ~33,520 |
-| Under a Thin Layer of Skin | 32.00% | ~29,796 |
-| Park Ranger | 27.00% | ~25,140 |
-| Paging Mr. Wake | 27.00% | ~25,140 |
-| Back! Back, I Say! | 25.00% | ~23,278 |
-| Finders Keepers | 25.00% | ~23,278 |
-| Sound and Fury | 23.00% | ~21,416 |
-| Missed by a Mile | 23.00% | ~21,416 |
-| Damn Good Cup of Coffee | 23.00% | ~21,416 |
-| They're Heeeeeere! | 22.00% | ~20,485 |
-| Wheels Within Wheels | 21.00% | ~19,554 |
-| The Six-Gun Scribe | 21.00% | ~19,554 |
-| Heavy Metal | 19.00% | ~17,691 |
-| Iron Horse | 19.00% | ~17,691 |
-| Collateral Carnage | 19.00% | ~17,691 |
-| Come One, Come All | 19.00% | ~17,691 |
-| Perchance to Dream | 18.00% | ~16,760 |
-| It's Not Just a Typewriter Brand | 17.00% | ~15,829 |
-| Thunder and Lightning | 17.00% | ~15,829 |
-| Two For the Price of One | 17.00% | ~15,829 |
-| Gatekeeper | 16.00% | ~14,898 |
-| Energized! | 16.00% | ~14,898 |
-| The Lady of the Light | 15.00% | ~13,967 |
-| Right of Way | 14.00% | ~13,036 |
+| Follow the Light | 57.00% | ~53,077 |
+| Let There Be Light | 47.00% | ~43,765 |
+| Float Like a Butterfly | 45.00% | ~41,903 |
+| Nordic Walking | 37.00% | ~34,454 |
+| Bright Falls' Finest | 36.00% | ~33,522 |
+| Under a Thin Layer of Skin | 32.00% | ~29,798 |
+| Park Ranger | 27.00% | ~25,142 |
+| Paging Mr. Wake | 27.00% | ~25,142 |
+| Back! Back, I Say! | 25.00% | ~23,280 |
+| Finders Keepers | 25.00% | ~23,280 |
+| Sound and Fury | 23.00% | ~21,417 |
+| Missed by a Mile | 23.00% | ~21,417 |
+| Damn Good Cup of Coffee | 23.00% | ~21,417 |
+| They're Heeeeeere! | 22.00% | ~20,486 |
+| Wheels Within Wheels | 21.00% | ~19,555 |
+| The Six-Gun Scribe | 21.00% | ~19,555 |
+| Heavy Metal | 19.00% | ~17,692 |
+| Iron Horse | 19.00% | ~17,692 |
+| Collateral Carnage | 19.00% | ~17,692 |
+| Come One, Come All | 19.00% | ~17,692 |
+| Perchance to Dream | 18.00% | ~16,761 |
+| It's Not Just a Typewriter Brand | 17.00% | ~15,830 |
+| Thunder and Lightning | 17.00% | ~15,830 |
+| Two For the Price of One | 17.00% | ~15,830 |
+| Gatekeeper | 16.00% | ~14,899 |
+| Energized! | 16.00% | ~14,899 |
+| The Lady of the Light | 15.00% | ~13,968 |
+| Right of Way | 14.00% | ~13,037 |
 | What Light Through Yonder Window | 13.00% | ~12,105 |
-| Tornado Wrangler | 12.00% | ~11,173 |
-| Departure | 11.00% | ~10,242 |
-| Hardboiled Writer | 9.00% | ~8,380 |
-| A Friend in Need | 9.00% | ~5,092 |
+| Tornado Wrangler | 12.00% | ~11,174 |
+| Departure | 11.00% | ~10,243 |
+| Hardboiled Writer | 9.00% | ~8,381 |
+| A Friend in Need | 9.00% | ~5,093 |
 | Children of the Elder God | 8.00% | ~7,449 |
 | Drink 'Em Both Up | 8.00% | ~7,449 |
 | KBF-FM | 7.00% | ~6,518 |
@@ -46,18 +46,18 @@ Number of Ratings: 524  (23.09.2022)
 | Boob Tube | 6.00% | ~5,587 |
 | If It Flies, It Burns | 6.00% | ~5,587 |
 | Ding! | 6.00% | ~3,395 |
-| Carny | 4.00% | ~3,724 |
+| Carny | 4.00% | ~3,725 |
 | Kill Your Darlings | 4.00% | ~2,263 |
 | Heartbreaker | 4.00% | ~2,263 |
-| Medical Opinions | 3.00% | ~2,793 |
-| Taken Season | 3.00% | ~2,793 |
-| An Idyllic Small Town | 3.00% | ~2,793 |
+| Medical Opinions | 3.00% | ~2,794 |
+| Taken Season | 3.00% | ~2,794 |
+| An Idyllic Small Town | 3.00% | ~2,794 |
 | Couch Potato | 2.00% | ~1,862 |
 | Iron Will | 2.00% | ~1,132 |
 | Go Gentle Into That Good Light | 1.00% | ~566 |
 | Words Will Never Harm You | 0.70% | ~396 |
-| Fast and Furious | 0.60% | ~339 |
-| Cardboard Companions | 0.60% | ~339 |
+| Fast and Furious | 0.60% | ~340 |
+| Cardboard Companions | 0.60% | ~340 |
 | Alan, Wake Up | 0.50% | ~466 |
 | Meet the Deadline | 0.50% | ~466 |
 | Picking Up After Yourself | 0.50% | ~466 |
@@ -74,7 +74,7 @@ Number of Ratings: 524  (23.09.2022)
 | No Punctuation | 0.20% | ~113 |
 | Licensed Properties | 0.20% | ~113 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,112 (Ranked 89)  
+Progressed: 93,118 (Ranked 89)  
 Completed: 94 (0.10%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 94 (0.10%) (Ranked 275)
 | 2023-11-11 | 92,454 | 91 |
 | 2023-11-12 | 92,788 | 92 |
 | 2023-11-13 | 93,021 | 93 |
-| 2023-11-14 | 93,112 | 94 |
+| 2023-11-14 | 93,118 | 94 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

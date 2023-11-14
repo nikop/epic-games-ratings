@@ -29,8 +29,8 @@
 | Missing in Action | 41.00% | ~511 |
 | Merciless | 41.00% | ~511 |
 | Scientist | 41.00% | ~511 |
+| Very Elusive | 40.00% | ~498 |
 | Sentinel Ally | 39.00% | ~486 |
-| Very Elusive | 39.00% | ~486 |
 | Head Hunter | 39.00% | ~486 |
 | Scholar | 38.00% | ~473 |
 | Operative | 37.00% | ~461 |

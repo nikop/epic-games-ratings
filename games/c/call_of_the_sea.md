@@ -5,24 +5,24 @@ Rating: 4.39 (Ranked 748)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~103,776 |
-| 74 miles East of Otaheité | 56.00% | ~72,643 |
-| Interesting... | 42.00% | ~54,482 |
+| A Family Heirloom | 80.00% | ~103,777 |
+| 74 miles East of Otaheité | 56.00% | ~72,644 |
+| Interesting... | 42.00% | ~54,483 |
 | The Everhart Expedition | 39.00% | ~50,591 |
 | The Vanishing of the Lady Shannon | 30.00% | ~38,916 |
 | Seaside Serenade | 30.00% | ~38,916 |
 | Halfway there | 29.00% | ~37,619 |
 | A brigantine, a brig and a barque | 28.00% | ~36,322 |
 | 506 East Hampden Avenue | 28.00% | ~36,322 |
-| Weekend at Walakea's | 27.00% | ~35,024 |
-| Quite a Show | 27.00% | ~35,024 |
+| Weekend at Walakea's | 27.00% | ~35,025 |
+| Quite a Show | 27.00% | ~35,025 |
 | Dark Water Ride | 25.00% | ~32,430 |
 | Sunken | 24.00% | ~31,133 |
 | Deep Cut | 24.00% | ~31,133 |
 | FHALGOF'N' | 23.00% | ~29,836 |
 | Marsh Cannery | 21.00% | ~27,241 |
 | Greetings from Y'ha-nthlei! | 18.00% | ~23,350 |
-| The only thing I have now | 17.00% | ~22,052 |
+| The only thing I have now | 17.00% | ~22,053 |
 | Naacalvision | 16.00% | ~20,755 |
 | Not Another Boring Slideshow! | 15.00% | ~19,458 |
 | I'll make a note of that... | 9.00% | ~11,675 |
@@ -40,7 +40,7 @@ Rating: 4.39 (Ranked 748)
 | Gently down the stream... | 1.00% | ~1,297 |
 | Meta-reference | 1.00% | ~1,297 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 129,720 (Ranked 82)  
+Progressed: 129,721 (Ranked 82)  
 Completed: 1,111 (0.86%) (Ranked 169)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,7 +248,7 @@ Completed: 1,111 (0.86%) (Ranked 169)
 | 2023-11-11 | 129,333 | 1,107 |
 | 2023-11-12 | 129,543 | 1,110 |
 | 2023-11-13 | 129,674 | 1,110 |
-| 2023-11-14 | 129,720 | 1,111 |
+| 2023-11-14 | 129,721 | 1,111 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

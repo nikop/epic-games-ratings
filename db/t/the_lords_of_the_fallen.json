@@ -489,9 +489,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 1582,
+  "EOS_Progressed": 1584,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2304,6 +2304,11 @@
       "Time": "2023-11-14T09:06:12.363877+00:00",
       "NumProgressed": 1582,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T11:05:31.8977091+00:00",
+      "NumProgressed": 1584,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-23T12:04:43.6042359+00:00",
@@ -2324,7 +2329,7 @@
       "Name": "A Veil Lifted",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_003",
@@ -2332,7 +2337,7 @@
       "Name": "Lost and Found",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_004",
@@ -2492,7 +2497,7 @@
       "Name": "No Mercy",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_024",
@@ -2764,7 +2769,7 @@
       "Name": "Thriving in Darkness",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "TLOTF_ACHIEVEMENT_058",
@@ -2819,7 +2824,7 @@
     {
       "ID": "87e61g",
       "IsBase": true,
-      "Progressed": 1582,
+      "Progressed": 1584,
       "Completed": 1
     }
   ],
@@ -2827,8 +2832,8 @@
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
   "LastChanged": "2023-11-14T05:59:12.6439238+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:07:59.1930259+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:05:31.8977089+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:12.5758609+00:00",
-  "LastUpdate_Ratings": "2023-11-14T09:59:29.1654563+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:07:59.1931581+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:58:17.8286192+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:05:31.8977544+00:00"
 }

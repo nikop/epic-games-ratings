@@ -6,7 +6,7 @@ Rating: 4.55 (Ranked 504)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Huzza, he's back. | 87.00% | ~405 |
-| And again, and again, and... | 63.00% | ~293 |
+| And again, and again, and... | 64.00% | ~298 |
 | Kuvaq Minigame-Master | 62.00% | ~288 |
 | Burn, Elysium, burn! | 62.00% | ~288 |
 | FunScore | 55.00% | ~256 |
@@ -24,7 +24,7 @@ Rating: 4.55 (Ranked 504)
 | Brainfreeze | 21.00% | ~98 |
 | And everything comes full circle. | 20.00% | ~93 |
 | Masseltov | 19.00% | ~88 |
-| Quickdraw | 15.00% | ~70 |
+| Quickdraw | 16.00% | ~74 |
 | Thuna...? | 14.00% | ~65 |
 | Monstrous Harassment | 14.00% | ~65 |
 | Heading the inverter | 14.00% | ~65 |

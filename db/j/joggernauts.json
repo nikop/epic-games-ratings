@@ -4,7 +4,7 @@
   "ProductSlug": "joggernauts-a7767f",
   "Ranking_EOS_Progress": 742,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-06-17T14:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:04.0344323+00:00",
   "LastChanged": "2023-03-31T05:57:04.0344324+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:38.3169538+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:00:16.9343422+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:07:45.0793475+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:58:47.4677362+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:05:22.2363693+00:00"
 }

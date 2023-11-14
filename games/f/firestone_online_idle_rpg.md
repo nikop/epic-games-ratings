@@ -5,10 +5,10 @@ Rating: 4.12 (Ranked 955)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,143 |
-| World Map | 79.00% | ~1,820 |
-| Temple of Eternals | 57.00% | ~1,313 |
-| Prestigious | 54.00% | ~1,244 |
+| Victor | 93.00% | ~2,144 |
+| World Map | 79.00% | ~1,821 |
+| Temple of Eternals | 57.00% | ~1,314 |
+| Prestigious | 54.00% | ~1,245 |
 | Fellowship Power | 42.00% | ~968 |
 | Guild Power | 25.00% | ~576 |
 | Prestigious x10 | 22.00% | ~507 |
@@ -27,12 +27,12 @@ Rating: 4.12 (Ranked 955)
 | Mysterious Rock | 13.00% | ~300 |
 | Natural Talent | 13.00% | ~300 |
 | Superior | 13.00% | ~300 |
-| Scientist | 12.00% | ~276 |
-| Doing My Part | 11.00% | ~253 |
-| Hunter | 11.00% | ~253 |
-| Mastery | 11.00% | ~253 |
-| Relic Of The Past | 11.00% | ~253 |
-| The power of Awakening | 11.00% | ~253 |
+| Scientist | 12.00% | ~277 |
+| Doing My Part | 11.00% | ~254 |
+| Hunter | 11.00% | ~254 |
+| Mastery | 11.00% | ~254 |
+| Relic Of The Past | 11.00% | ~254 |
+| The power of Awakening | 11.00% | ~254 |
 | Challenger | 10.00% | ~230 |
 | Daily Quest Completionist | 10.00% | ~230 |
 | Four Leaf Clover | 10.00% | ~230 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 955)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,304 (Ranked 213)  
+Progressed: 2,305 (Ranked 213)  
 Completed: 2 (0.09%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2 (0.09%) (Ranked 280)
 | 2023-11-11 | 2,229 | 2 |
 | 2023-11-12 | 2,269 | 2 |
 | 2023-11-13 | 2,290 | 2 |
-| 2023-11-14 | 2,304 | 2 |
+| 2023-11-14 | 2,305 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 489)  
 Sum: 80 (Ranked 456)  

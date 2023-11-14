@@ -65,9 +65,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1822,
+  "EOS_Progressed": 1825,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -6840,6 +6840,11 @@
       "Time": "2023-11-13T20:06:04.9097308+00:00",
       "NumProgressed": 1822,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T11:06:02.0732692+00:00",
+      "NumProgressed": 1825,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -6851,7 +6856,7 @@
       "Name": "Know The Enemy",
       "Percentage": 6,
       "XP": 75,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "ach_defeat_aliens_50",
@@ -6923,7 +6928,7 @@
       "Name": "Silver Achiever",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_headquarters_10",
@@ -6939,7 +6944,7 @@
       "Name": "Moving On Up",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_headquarters_20",
@@ -6963,7 +6968,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -7019,7 +7024,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -7027,7 +7032,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -7154,7 +7159,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 1822,
+      "Progressed": 1825,
       "Completed": 1
     }
   ],
@@ -7162,8 +7167,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2023-11-05T22:00:19.9387469+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:08:42.9062248+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:06:02.0732689+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:53.0874447+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:00:46.9315201+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:08:42.9063066+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:59:06.8178904+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:06:02.0733253+00:00"
 }

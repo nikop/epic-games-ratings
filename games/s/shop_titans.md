@@ -14,19 +14,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 3.00% | ~4,193 |
 | Budding Merchant | 3.00% | ~4,193 |
 | Capitalism Ho! | 3.00% | ~4,193 |
-| The Daily Grind | 2.00% | ~2,795 |
-| One Easy Payment | 2.00% | ~2,795 |
-| Some Assembly Required | 2.00% | ~2,795 |
-| Bounty Hunters | 2.00% | ~2,795 |
-| Demand for Supplies | 2.00% | ~2,795 |
-| Flooding the Market | 2.00% | ~2,795 |
-| Where it Hurts | 2.00% | ~2,795 |
-| Another Satisfied Customer | 2.00% | ~2,795 |
-| Pretty Penny | 2.00% | ~2,795 |
-| One-Armed Bandit | 2.00% | ~2,795 |
-| Dungeon Imports | 2.00% | ~2,795 |
-| Through Repetition, Perfection | 2.00% | ~2,795 |
-| Own the Means of Production | 2.00% | ~2,795 |
+| The Daily Grind | 2.00% | ~2,796 |
+| One Easy Payment | 2.00% | ~2,796 |
+| Some Assembly Required | 2.00% | ~2,796 |
+| Bounty Hunters | 2.00% | ~2,796 |
+| Demand for Supplies | 2.00% | ~2,796 |
+| Flooding the Market | 2.00% | ~2,796 |
+| Where it Hurts | 2.00% | ~2,796 |
+| Another Satisfied Customer | 2.00% | ~2,796 |
+| Pretty Penny | 2.00% | ~2,796 |
+| One-Armed Bandit | 2.00% | ~2,796 |
+| Dungeon Imports | 2.00% | ~2,796 |
+| Through Repetition, Perfection | 2.00% | ~2,796 |
+| Own the Means of Production | 2.00% | ~2,796 |
 | On the Path to Greatness | 1.00% | ~1,398 |
 | Ascended | 1.00% | ~1,398 |
 | Tax not Included | 1.00% | ~1,398 |
@@ -57,6 +57,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Hidden Potential | 0.90% | ~1,258 |
 | Expansion in Session | 0.90% | ~1,258 |
 | Mammonite | 0.90% | ~1,258 |
+| Miracle Alchemist | 0.90% | ~1,258 |
 | Seasoned Journeyman | 0.90% | ~1,258 |
 | Black Friday Special | 0.90% | ~1,258 |
 | Special Ingredient | 0.90% | ~1,258 |
@@ -73,7 +74,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Fat Cat Tag Team | 0.80% | ~1,118 |
 | Necromancer Queen | 0.80% | ~1,118 |
 | Master Merchant | 0.80% | ~1,118 |
-| Miracle Alchemist | 0.80% | ~1,118 |
 | Laden with Loot | 0.80% | ~1,118 |
 | Scourge of the Seas | 0.80% | ~1,118 |
 | Attrition Mission | 0.80% | ~1,118 |
@@ -119,8 +119,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,774 (Ranked 79)  
-Completed: 184 (0.13%) (Ranked 264)  
+Progressed: 139,778 (Ranked 79)  
+Completed: 185 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -327,10 +327,10 @@ Completed: 184 (0.13%) (Ranked 264)
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
 | 2023-11-13 | 139,733 | 181 |
-| 2023-11-14 | 139,774 | 184 |
+| 2023-11-14 | 139,778 | 185 |
 ## Awards
 Max (Great for Beginners): 4,828  (Ranked 73)  
-Sum: 27,543 (Ranked 50)  
+Sum: 27,545 (Ranked 50)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): 23
 | This game has Diverse Characters | 3,939 |
 | This game is Highly Recommended | 3,780 |
 | This game has Easy Combat | 3,725 |
-| This game has Playful Visuals | 3,202 |
+| This game has Playful Visuals | 3,204 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -633,4 +633,4 @@ Diff (max vs sum): 23
 | 2023-11-11 | 3.99 | - | 4,825 | 27,530 |
 | 2023-11-12 | 3.99 | - | 4,826 | 27,535 |
 | 2023-11-13 | 3.99 | - | 4,826 | 27,541 |
-| 2023-11-14 | 3.99 | - | 4,828 | 27,543 |
+| 2023-11-14 | 3.99 | - | 4,828 | 27,545 |

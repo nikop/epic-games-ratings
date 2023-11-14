@@ -12063,9 +12063,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 455243,
+  "EOS_Progressed": 455275,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 6197,
+  "EOS_NewPlayers": 6219,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35853,6 +35853,11 @@
       "Time": "2023-11-14T10:04:46.6345007+00:00",
       "NumProgressed": 455243,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T11:03:19.2531686+00:00",
+      "NumProgressed": 455275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -36534,9 +36539,9 @@
       "ID": "achievement_down_under",
       "SetID": "67mdiil",
       "Name": "Down Under",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_draculas_revenge",
@@ -36934,9 +36939,9 @@
       "ID": "achievement_hard_bargaining",
       "SetID": "8p2n7he",
       "Name": "Hard Bargaining",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_hessian_mercenaries",
@@ -37062,9 +37067,9 @@
       "ID": "achievement_italian_ambition",
       "SetID": "67mdiil",
       "Name": "Italian Ambition",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_its_all_about_luck",
@@ -37078,9 +37083,9 @@
       "ID": "achievement_its_all_about_the_money",
       "SetID": "8p2n7he",
       "Name": "It\u0027s all about the money",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -37110,9 +37115,9 @@
       "ID": "achievement_just_a_little_patience",
       "SetID": "8p2n7he",
       "Name": "Just a Little Patience",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_just_resting_in_my_account",
@@ -37430,9 +37435,9 @@
       "ID": "achievement_my_armies_are_invincible",
       "SetID": "8p2n7he",
       "Name": "My armies are invincible!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_my_true_friend",
@@ -38182,9 +38187,9 @@
       "ID": "achievement_the_chrysanthemum_throne",
       "SetID": "67mdiil",
       "Name": "The Chrysanthemum Throne",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_the_coin_is_stronger_than_the_sword",
@@ -38206,9 +38211,9 @@
       "ID": "achievement_the_five_colonies",
       "SetID": "8p2n7he",
       "Name": "The Five Colonies",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_the_freest_man_in_the_world",
@@ -38590,9 +38595,9 @@
       "ID": "achievement_we_bled_for_this",
       "SetID": "8p2n7he",
       "Name": "We bled for this",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_where_am_i",
@@ -38670,9 +38675,9 @@
       "ID": "achievement_world_discoverer",
       "SetID": "8p2n7he",
       "Name": "World Discoverer",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_yarr_harr_a_pirates_life_for_me",
@@ -38734,9 +38739,9 @@
       "ID": "achievement_restore_the_pentarchy",
       "SetID": "8p2n7he",
       "Name": "Restore the Pentarchy",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 455
     },
     {
       "ID": "achievement_the_last_crusade",
@@ -38767,21 +38772,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 455243,
+      "Progressed": 455275,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 455243,
+      "Progressed": 455275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2023-11-14T09:57:28.5758681+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:04:46.6344997+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:03:19.2531684+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:33.6516023+00:00",
-  "LastUpdate_Ratings": "2023-11-14T09:57:28.5758692+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:04:46.6373157+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:57:01.6944249+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:03:19.2542286+00:00"
 }

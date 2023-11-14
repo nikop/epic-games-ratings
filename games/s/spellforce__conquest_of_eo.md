@@ -19,7 +19,7 @@
 | The Circle | 55.00% | ~11 |
 | Alchemist's Apprentice | 55.00% | ~11 |
 | Get out of here! | 55.00% | ~11 |
-| Necromancer's Apprentice | 40.00% | ~8 |
+| Necromancer's Apprentice | 45.00% | ~9 |
 | Friend of Sevenkeeps | 40.00% | ~8 |
 | Slave to the rhythm | 35.00% | ~7 |
 | Sevenkeeps Seat of Kings | 30.00% | ~6 |

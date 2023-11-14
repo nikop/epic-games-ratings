@@ -6,9 +6,9 @@
   "Ranking_Popularity": 546,
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 185,
-  "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_Completed": 272,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -99,11 +99,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5217,
+  "EOS_Progressed": 5221,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 883,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.12,
+  "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
       "Time": "2023-10-17T16:05:13.3734944+00:00",
@@ -3189,6 +3189,11 @@
       "Time": "2023-11-14T10:10:07.002385+00:00",
       "NumProgressed": 5217,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2023-11-14T11:08:39.374529+00:00",
+      "NumProgressed": 5221,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -3209,7 +3214,7 @@
       "Name": "Baby Steps",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "BeLikeWater",
@@ -3257,7 +3262,7 @@
       "Name": "Explosive Personality",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "FasterThanLight",
@@ -3273,7 +3278,7 @@
       "Name": "First Time?",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "FuneralForTheDeath",
@@ -3305,7 +3310,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -3351,9 +3356,9 @@
       "ID": "NoMoreTotems",
       "SetID": "acc6ea0",
       "Name": "No More Totems",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 261
     },
     {
       "ID": "NotLikeTheOthers",
@@ -3417,7 +3422,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "UnResurrected",
@@ -3472,7 +3477,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 5217,
+      "Progressed": 5221,
       "Completed": 6
     }
   ],
@@ -3480,8 +3485,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2023-11-13T19:58:14.3039079+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:10:07.0023843+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:08:39.3745287+00:00",
   "LastUpdate_AppInfo": "2023-11-09T13:01:24.1353821+00:00",
-  "LastUpdate_Ratings": "2023-11-14T09:59:44.2273545+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:10:07.0024605+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:58:27.0435419+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:08:39.3745651+00:00"
 }

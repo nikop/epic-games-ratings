@@ -2565,9 +2565,9 @@
       "Count": 355
     }
   ],
-  "EOS_Progressed": 8521,
+  "EOS_Progressed": 8522,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7985,6 +7985,11 @@
       "Time": "2023-11-14T10:04:11.0464646+00:00",
       "NumProgressed": 8521,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T11:02:54.1467287+00:00",
+      "NumProgressed": 8522,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -7997,7 +8002,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2982
+      "UsersEstimate": 2983
     },
     {
       "ID": "ach02",
@@ -8037,7 +8042,7 @@
       "Name": "Titan",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 6391
+      "UsersEstimate": 6392
     },
     {
       "ID": "ach07",
@@ -8053,7 +8058,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     },
     {
       "ID": "ach09",
@@ -8061,7 +8066,7 @@
       "Name": "Kontender",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "ach10",
@@ -8125,7 +8130,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4517
     },
     {
       "ID": "ach18",
@@ -8229,7 +8234,7 @@
       "Name": "Juggernaut",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 1363
+      "UsersEstimate": 1364
     },
     {
       "ID": "ach31",
@@ -8253,7 +8258,7 @@
       "Name": "Vanquished",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ach34",
@@ -8285,7 +8290,7 @@
       "Name": "ABACABB",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 4942
+      "UsersEstimate": 4943
     },
     {
       "ID": "ach38",
@@ -8293,7 +8298,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "ach39",
@@ -8325,7 +8330,7 @@
       "Name": "Quest Master",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "ach43",
@@ -8333,7 +8338,7 @@
       "Name": "Working Overtime",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 3834
+      "UsersEstimate": 3835
     },
     {
       "ID": "ach44",
@@ -8389,14 +8394,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 3408
+      "UsersEstimate": 3409
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 8521,
+      "Progressed": 8522,
       "Completed": 0
     }
   ],
@@ -8404,8 +8409,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2023-11-14T01:41:58.3043699+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:04:11.0464638+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:02:54.1467284+00:00",
   "LastUpdate_AppInfo": "2023-11-11T09:57:13.5216813+00:00",
-  "LastUpdate_Ratings": "2023-11-14T09:58:19.1107387+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:04:11.0466105+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:57:33.8872761+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:02:54.1467797+00:00"
 }

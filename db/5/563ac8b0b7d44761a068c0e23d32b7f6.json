@@ -381,9 +381,9 @@
       "ID": "Achievement_4",
       "SetID": "8556mdl",
       "Name": "Social Monster",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -396,8 +396,8 @@
   ],
   "FirstSeen": "2023-10-21T19:01:49.5181483+00:00",
   "FirstSeenAchievements": "2023-10-23T18:03:45.1377273+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:07:35.1458701+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:05:15.3733339+00:00",
   "LastUpdate_AppInfo": "2023-11-10T15:56:58.3596023+00:00",
-  "LastUpdate_Ratings": "2023-11-14T09:59:48.9152707+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:07:35.1458806+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:58:29.9286401+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:05:15.3733413+00:00"
 }

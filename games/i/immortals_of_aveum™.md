@@ -11,7 +11,7 @@ Rating: 4.06 (Ranked 973)
 | Maybe Engage a Little | 78.00% | ~213 |
 | No More Names | 64.00% | ~175 |
 | Initiate | 52.00% | ~142 |
-| Thrada-Kul | 46.00% | ~126 |
+| Thrada-Kul | 47.00% | ~128 |
 | Gravity-Challenged Rocks | 37.00% | ~101 |
 | Soldier | 32.00% | ~87 |
 | All the Major Food Groups | 32.00% | ~87 |
@@ -29,9 +29,9 @@ Rating: 4.06 (Ranked 973)
 | Lights Army | 10.00% | ~27 |
 | Good Boy | 9.00% | ~25 |
 | Periapt Cerulean | 8.00% | ~22 |
+| Shroudfane Explorer | 8.00% | ~22 |
 | Best Dressed | 7.00% | ~19 |
 | Periapt Viridian | 7.00% | ~19 |
-| Shroudfane Explorer | 7.00% | ~19 |
 | Armaments Azure | 6.00% | ~16 |
 | Armaments Gules | 5.00% | ~14 |
 | Scholar | 4.00% | ~11 |

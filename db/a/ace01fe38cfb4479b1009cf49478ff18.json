@@ -489,9 +489,9 @@
       "ID": "ach_chapter_complete_1",
       "SetID": "d499apg",
       "Name": "Chapter I - Complete",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 45,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "ach_chapter_complete_2",
@@ -592,8 +592,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:10:05.3306601+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:08:38.300738+00:00",
   "LastUpdate_AppInfo": "2023-11-10T13:01:44.8453844+00:00",
-  "LastUpdate_Ratings": "2023-11-14T09:57:32.124937+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:10:05.330675+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:57:03.9010827+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:08:38.3007492+00:00"
 }

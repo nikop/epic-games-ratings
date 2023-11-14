@@ -4,7 +4,7 @@
   "ProductSlug": "orten-was-the-case-d108fb",
   "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-11-28T15:00:00+00:00",
@@ -181,8 +181,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-10-25T12:03:08.1004674+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:09:30.6112973+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:08:14.4015781+00:00",
   "LastUpdate_AppInfo": "2023-11-08T13:01:46.962574+00:00",
-  "LastUpdate_Ratings": "2023-11-14T09:57:33.6703145+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:09:30.6113151+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:57:04.951576+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:08:14.4015849+00:00"
 }

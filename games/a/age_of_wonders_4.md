@@ -13,8 +13,8 @@ Rating: 4.61 (Ranked 385)
 | Freed Lands of Manuhari | 1.00% | ~54 |
 | Bone Peddler | 0.90% | ~48 |
 | From Friends to Family | 0.90% | ~48 |
-| There Can Only Be One! | 0.70% | ~38 |
-| Full Ascension | 0.70% | ~38 |
+| There Can Only Be One! | 0.80% | ~43 |
+| Full Ascension | 0.80% | ~43 |
 | Stronger Together | 0.70% | ~38 |
 | Magical Synergy | 0.70% | ~38 |
 | Seat of Power | 0.70% | ~38 |
@@ -39,11 +39,11 @@ Rating: 4.61 (Ranked 385)
 | Return of the Wizard King | 0.30% | ~16 |
 | The Creator | 0.30% | ~16 |
 | Preparation Is Everything | 0.30% | ~16 |
+| Fiery Friend | 0.30% | ~16 |
 | I've Got Everything I Need Right Here | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
 | Crimson Caldera | 0.20% | ~11 |
-| Fiery Friend | 0.20% | ~11 |
 | Manufactured War | 0.20% | ~11 |
 | The Eternal Court | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |

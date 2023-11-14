@@ -4,7 +4,7 @@
   "ProductSlug": "freshly-frosted-c636d0",
   "Ranking_EOS_Progress": 742,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 447,
+  "Ranking_EOS_NewPlayers": 446,
   "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-06-10T07:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:42.7543353+00:00",
   "LastChanged": "2023-03-31T05:58:42.7543354+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:52.7621204+00:00",
-  "LastUpdate_Ratings": "2023-11-14T09:57:54.3363294+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:04:11.9503803+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:57:18.0019951+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:02:54.8122371+00:00"
 }

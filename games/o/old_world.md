@@ -10,9 +10,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 5.00% | ~766 |
 | Settler | 5.00% | ~766 |
 | Friendly Family | 5.00% | ~766 |
-| Able | 4.00% | ~612 |
-| Architect | 4.00% | ~612 |
-| Intrepid | 4.00% | ~612 |
+| Able | 4.00% | ~613 |
+| Architect | 4.00% | ~613 |
+| Intrepid | 4.00% | ~613 |
 | Ambitious | 3.00% | ~459 |
 | Enlightened | 3.00% | ~459 |
 | Glorious | 3.00% | ~459 |
@@ -74,6 +74,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 2.00% | ~306 |
 | Hanging Gardens in Babylon | 1.00% | ~153 |
 | Beloved | 1.00% | ~153 |
+| Capable | 1.00% | ~153 |
 | Conqueror | 1.00% | ~153 |
 | Intercessor | 1.00% | ~153 |
 | Invincible | 1.00% | ~153 |
@@ -113,7 +114,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 1.00% | ~153 |
 | Points Victory | 1.00% | ~153 |
 | The Clergy | 1.00% | ~153 |
-| Capable | 0.90% | ~138 |
 | Ready | 0.90% | ~138 |
 | Church of the Holy Sepulchre | 0.90% | ~138 |
 | Babylonia | 0.90% | ~138 |
@@ -124,14 +124,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.90% | ~138 |
 | Veneration | 0.90% | ~138 |
 | Mounted Lancer | 0.90% | ~138 |
-| Devout | 0.80% | ~122 |
-| Clerics | 0.80% | ~122 |
-| Egypt | 0.80% | ~122 |
-| Assyrian Paganism | 0.80% | ~122 |
-| Turreted Elephant | 0.80% | ~122 |
-| Poetic Leader | 0.80% | ~122 |
+| Devout | 0.80% | ~123 |
+| Clerics | 0.80% | ~123 |
+| Egypt | 0.80% | ~123 |
+| Assyrian Paganism | 0.80% | ~123 |
+| Turreted Elephant | 0.80% | ~123 |
+| Poetic Leader | 0.80% | ~123 |
 | Bad Heir Day | 0.70% | ~107 |
 | Noble Difficulty | 0.70% | ~107 |
+| Cao'an | 0.70% | ~107 |
 | Rome | 0.70% | ~107 |
 | Hittite Paganism | 0.70% | ~107 |
 | All Nations | 0.70% | ~107 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ishtar Gate in Babylon | 0.60% | ~92 |
 | Carthage - Ox Hide | 0.60% | ~92 |
 | Peacemaker | 0.60% | ~92 |
-| Cao'an | 0.60% | ~92 |
 | Adur Burzen-Mihr | 0.60% | ~92 |
 | Learn to Play 5 | 0.60% | ~92 |
 | Cataphract Archer | 0.60% | ~92 |
@@ -154,6 +154,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ancient | 0.40% | ~61 |
 | Glorious Difficulty | 0.40% | ~61 |
 | Run, Pheidippides, Run! | 0.40% | ~61 |
+| Assyria | 0.40% | ~61 |
 | Hatti | 0.40% | ~61 |
 | Persia | 0.40% | ~61 |
 | Pantheon of Gods | 0.40% | ~61 |
@@ -172,7 +173,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.30% | ~46 |
 | Five Routs | 0.30% | ~46 |
 | Nenikekamen | 0.30% | ~46 |
-| Assyria | 0.30% | ~46 |
 | Apadana in Parsa | 0.30% | ~46 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~46 |
 | Circus Maximus in Roma | 0.30% | ~46 |
@@ -349,7 +349,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Religious Dissent | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 15,312 (Ranked 146)  
+Progressed: 15,313 (Ranked 146)  
 Completed: 5 (0.03%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -557,7 +557,7 @@ Completed: 5 (0.03%) (Ranked 314)
 | 2023-11-11 | 15,270 | 5 |
 | 2023-11-12 | 15,291 | 5 |
 | 2023-11-13 | 15,305 | 5 |
-| 2023-11-14 | 15,312 | 5 |
+| 2023-11-14 | 15,313 | 5 |
 ## Awards
 Max (Relaxing): 226  (Ranked 274)  
 Sum: 1,872 (Ranked 214)  

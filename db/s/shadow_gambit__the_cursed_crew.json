@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -107,11 +107,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 822,
-  "EOS_Completed": 28,
-  "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.41,
+  "EOS_Progressed": 823,
+  "EOS_Completed": 29,
+  "EOS_NewPlayers": 15,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 3.52,
   "EosHistory": [
     {
       "Time": "2023-08-09T07:05:46.0763719+00:00",
@@ -2607,6 +2607,11 @@
       "Time": "2023-11-14T03:03:33.5795789+00:00",
       "NumProgressed": 822,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2023-11-14T11:02:57.4249894+00:00",
+      "NumProgressed": 823,
+      "NumCompleted": 29
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -2635,7 +2640,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -2643,7 +2648,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "_05_FinishAct2",
@@ -2651,7 +2656,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -2675,7 +2680,7 @@
       "Name": "Swabbie",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 345
+      "UsersEstimate": 346
     },
     {
       "ID": "_09_Completion_20",
@@ -2691,7 +2696,7 @@
       "Name": "Buccaneer",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "_11_Completion_40",
@@ -2779,7 +2784,7 @@
       "Name": "Tobacco Travesty",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "_22_CrewTale_FSH",
@@ -2826,16 +2831,16 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 822,
-      "Completed": 28
+      "Progressed": 823,
+      "Completed": 29
     }
   ],
   "FirstSeen": "2023-08-17T19:59:01.0698954+00:00",
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2023-10-20T14:00:07.0626358+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:04:15.8032838+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:02:57.4249891+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:38.1384885+00:00",
-  "LastUpdate_Ratings": "2023-11-14T09:57:37.9100364+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:04:15.8033364+00:00"
+  "LastUpdate_Ratings": "2023-11-14T10:57:07.685878+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:02:57.4250194+00:00"
 }

@@ -2010,9 +2010,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 15312,
+  "EOS_Progressed": 15313,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 117,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -15940,6 +15940,11 @@
       "Time": "2023-11-14T10:07:10.6413323+00:00",
       "NumProgressed": 15312,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2023-11-14T11:04:58.5798604+00:00",
+      "NumProgressed": 15313,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 342,
@@ -16279,7 +16284,7 @@
       "Name": "Able",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -16303,7 +16308,7 @@
       "Name": "Architect",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -16341,9 +16346,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_CAPABLE",
       "SetID": "9201eeb",
       "Name": "Capable",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 138
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -16367,7 +16372,7 @@
       "Name": "Devout",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
@@ -16439,7 +16444,7 @@
       "Name": "Intrepid",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -16799,7 +16804,7 @@
       "Name": "Clerics",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -17341,9 +17346,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_MANICHAEISM",
       "SetID": "9201eeb",
       "Name": "Cao\u0027an",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 107
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM",
@@ -17549,9 +17554,9 @@
       "ID": "ACHIEVEMENT_NATION_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyria",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_NATION_BABYLONIA",
@@ -17575,7 +17580,7 @@
       "Name": "Egypt",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_NATION_GREECE",
@@ -17751,7 +17756,7 @@
       "Name": "Assyrian Paganism",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -18047,7 +18052,7 @@
       "Name": "Turreted Elephant",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_UR_GREAT_ZIGGURAT",
@@ -18287,7 +18292,7 @@
       "Name": "Poetic Leader",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -18686,21 +18691,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 15312,
+      "Progressed": 15313,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 15312,
+      "Progressed": 15313,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2023-11-09T16:58:32.5229748+00:00",
-  "LastChanged_Achievements": "2023-11-14T10:07:10.6413318+00:00",
+  "LastChanged_Achievements": "2023-11-14T11:04:58.5798602+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:34.1839688+00:00",
-  "LastUpdate_Ratings": "2023-11-14T10:03:17.2329364+00:00",
-  "LastUpdate_Achievements": "2023-11-14T10:07:10.6427964+00:00"
+  "LastUpdate_Ratings": "2023-11-14T11:00:09.6039253+00:00",
+  "LastUpdate_Achievements": "2023-11-14T11:04:58.5807344+00:00"
 }
