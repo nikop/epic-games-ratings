@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -841,9 +841,9 @@
       "Count": 104
     }
   ],
-  "EOS_Progressed": 11014,
+  "EOS_Progressed": 11015,
   "EOS_Completed": 65,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -12876,6 +12876,11 @@
       "Time": "2023-11-14T13:11:04.6092337+00:00",
       "NumProgressed": 11014,
       "NumCompleted": 65
+    },
+    {
+      "Time": "2023-11-14T18:08:05.6949596+00:00",
+      "NumProgressed": 11015,
+      "NumCompleted": 65
     }
   ],
   "TotalAchievements": 34,
@@ -12903,7 +12908,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "ACH04",
@@ -13047,7 +13052,7 @@
       "Name": "Legal Counsel",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 5066
+      "UsersEstimate": 5067
     },
     {
       "ID": "ACH22",
@@ -13158,7 +13163,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 11014,
+      "Progressed": 11015,
       "Completed": 65
     }
   ],
@@ -13166,8 +13171,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2023-11-14T13:04:58.5739562+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:08:01.695177+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:08:05.6949592+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:20.6735838+00:00",
-  "LastUpdate_Ratings": "2023-11-14T16:01:40.8865593+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:08:01.6952752+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:01:49.3719703+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:08:05.6950286+00:00"
 }

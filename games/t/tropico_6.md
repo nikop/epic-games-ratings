@@ -6,13 +6,13 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 75.00% | ~4,500 |
-| Un-Lonely Island | 46.00% | ~2,760 |
-| The Beginning of a Servantship | 45.00% | ~2,700 |
-| Trade Is My Trait | 36.00% | ~2,160 |
-| Number 18 | 24.00% | ~1,440 |
-| We Don't Have Time For That | 19.00% | ~1,140 |
-| The Governator | 17.00% | ~1,020 |
+| Just One...More...Term... | 75.00% | ~4,502 |
+| Un-Lonely Island | 46.00% | ~2,761 |
+| The Beginning of a Servantship | 45.00% | ~2,701 |
+| Trade Is My Trait | 36.00% | ~2,161 |
+| Number 18 | 24.00% | ~1,441 |
+| We Don't Have Time For That | 19.00% | ~1,141 |
+| The Governator | 17.00% | ~1,021 |
 | The Legend of Langostino | 16.00% | ~960 |
 | Caribbean Comrade | 15.00% | ~900 |
 | The Dreamer of Dreams | 15.00% | ~900 |
@@ -35,19 +35,19 @@ Number of Ratings: 398  (23.09.2022)
 | Been there, Done That | 3.00% | ~180 |
 | Apocalypso | 3.00% | ~180 |
 | Narcissist | 3.00% | ~180 |
-| Promising Endeavors | 3.00% | ~180 |
 | The Time For Wonders | 3.00% | ~180 |
 | Chain Gang | 2.00% | ~120 |
 | One Does Not Simply Stage A Coup | 2.00% | ~120 |
+| Promising Endeavors | 2.00% | ~120 |
 | Sublime Subliminal Supreme | 2.00% | ~120 |
 | Teamplayer | 2.00% | ~120 |
 | Terraformer | 2.00% | ~120 |
 | Curse of the Mummy | 2.00% | ~120 |
 | From Knight to Little Duck | 1.00% | ~60 |
-| Survivor | 0.90% | ~54 |
+| Survivor | 0.80% | ~48 |
 | My Ways | 0.30% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,000 (Ranked 180)  
+Progressed: 6,003 (Ranked 180)  
 Completed: 2 (0.03%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -255,7 +255,7 @@ Completed: 2 (0.03%) (Ranked 314)
 | 2023-11-11 | 5,944 | 2 |
 | 2023-11-12 | 5,982 | 2 |
 | 2023-11-13 | 5,995 | 2 |
-| 2023-11-14 | 6,000 | 2 |
+| 2023-11-14 | 6,003 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 102  (Ranked 356)  
 Sum: 726 (Ranked 292)  

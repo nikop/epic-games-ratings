@@ -44,9 +44,9 @@ Rating: 4.57 (Ranked 470)
 | King of the handymen | 11.00% | ~4 |
 | The traveler | 8.00% | ~3 |
 | Terror of the hens | 8.00% | ~3 |
+| Expert | 8.00% | ~3 |
 | King Midas | 8.00% | ~3 |
 | Rune master | 5.00% | ~2 |
-| Expert | 5.00% | ~2 |
 | Big game hunter | 3.00% | ~1 |
 | Mage | 3.00% | ~1 |
 | Gladiator | 3.00% | ~1 |

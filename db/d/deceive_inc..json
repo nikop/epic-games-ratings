@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 18837,
+  "EOS_Progressed": 18838,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -12863,6 +12863,11 @@
       "Time": "2023-11-14T06:06:00.3690081+00:00",
       "NumProgressed": 18837,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2023-11-14T18:05:58.5361696+00:00",
+      "NumProgressed": 18838,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -12946,7 +12951,7 @@
       "Name": "Social of Solace",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "0011",
@@ -13000,9 +13005,9 @@
       "ID": "0017",
       "SetID": "2n2feee",
       "Name": "Never Say Loser Again",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3579
+      "UsersEstimate": 3391
     },
     {
       "ID": "0018",
@@ -13074,7 +13079,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "0027",
@@ -13138,7 +13143,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "0035",
@@ -13161,7 +13166,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 18837,
+      "Progressed": 18838,
       "Completed": 4
     }
   ],
@@ -13169,8 +13174,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-10-31T15:02:45.1619744+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:05:53.9224187+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:05:58.5361693+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:53.213288+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:57:22.6325569+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:05:53.9224965+00:00"
+  "LastUpdate_Ratings": "2023-11-14T17:57:32.5006795+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:05:58.5362355+00:00"
 }

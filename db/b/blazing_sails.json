@@ -5,7 +5,7 @@
   "Ranking_Rating": 1014,
   "Ranking_Popularity": 249,
   "Ranking_PopularitySum": 214,
-  "Ranking_EOS_Progress": 742,
+  "Ranking_EOS_Progress": 743,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
@@ -1233,10 +1233,16 @@
       "Rating": 3.91,
       "NumberOfAwards": 1882,
       "NumberOfAwardsMax": 304
+    },
+    {
+      "Time": "2023-11-14T17:59:44.0554018+00:00",
+      "Rating": 3.91,
+      "NumberOfAwards": 1888,
+      "NumberOfAwardsMax": 304
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1882,
+  "NumberOfAwards": 1888,
   "NumberOfAwardsMax": 304,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1244,7 +1250,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 258
+      "Count": 264
     },
     {
       "Text": "This game is Relaxing",
@@ -1313,8 +1319,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2023-11-14T15:59:35.0864403+00:00",
+  "LastChanged": "2023-11-14T17:59:44.0554016+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:26.0371725+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:59:35.0864408+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:09:02.2472385+00:00"
+  "LastUpdate_Ratings": "2023-11-14T17:59:44.0554022+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:09:03.8722742+00:00"
 }

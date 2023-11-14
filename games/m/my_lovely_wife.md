@@ -18,12 +18,12 @@ Number of Ratings: 25  (23.09.2022)
 | Adored | 76.00% | ~468 |
 | The Hobbyist | 66.00% | ~407 |
 | A Forked Tongue | 56.00% | ~345 |
-| The Admirer | 52.00% | ~320 |
+| The Admirer | 53.00% | ~326 |
 | Between Two Fires | 51.00% | ~314 |
-| Precious | 45.00% | ~277 |
+| Precious | 46.00% | ~283 |
 | Devoted | 42.00% | ~259 |
 | The Farmer | 40.00% | ~246 |
-| Ever After | 37.00% | ~228 |
+| Ever After | 38.00% | ~234 |
 | Loyal | 29.00% | ~179 |
 | Mandatory Sacrifice | 29.00% | ~179 |
 | The Collector | 25.00% | ~154 |

@@ -3,12 +3,12 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Ranking_Rating": 973,
-  "Ranking_Popularity": 68,
-  "Ranking_PopularitySum": 40,
+  "Ranking_Popularity": 69,
+  "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 157,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8003,10 +8003,16 @@
       "Rating": 4.06,
       "NumberOfAwards": 32471,
       "NumberOfAwardsMax": 5521
+    },
+    {
+      "Time": "2023-11-14T17:57:15.7813496+00:00",
+      "Rating": 4.06,
+      "NumberOfAwards": 32474,
+      "NumberOfAwardsMax": 5521
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32471,
+  "NumberOfAwards": 32474,
   "NumberOfAwardsMax": 5521,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8020,7 +8026,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5505
+      "Count": 5507
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8050,12 +8056,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3517
+      "Count": 3518
     }
   ],
-  "EOS_Progressed": 235002,
+  "EOS_Progressed": 235019,
   "EOS_Completed": 2447,
-  "EOS_NewPlayers": 1107,
+  "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
@@ -31358,6 +31364,11 @@
       "Time": "2023-11-14T16:08:59.6106792+00:00",
       "NumProgressed": 235002,
       "NumCompleted": 2447
+    },
+    {
+      "Time": "2023-11-14T18:09:01.8128234+00:00",
+      "NumProgressed": 235019,
+      "NumCompleted": 2447
     }
   ],
   "TotalAchievements": 532,
@@ -35624,21 +35635,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201276,
+      "Progressed": 201293,
       "Completed": 3924
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 235002,
+      "Progressed": 235019,
       "Completed": 2447
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2023-11-14T15:57:06.1683212+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:08:59.6106787+00:00",
+  "LastChanged": "2023-11-14T17:57:15.7813493+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:09:01.8128229+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:57:06.1683218+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:08:59.6128739+00:00"
+  "LastUpdate_Ratings": "2023-11-14T17:57:15.78135+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:09:01.8150672+00:00"
 }

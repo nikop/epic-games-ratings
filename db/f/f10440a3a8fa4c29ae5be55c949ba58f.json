@@ -2,7 +2,7 @@
   "ID": "f10440a3a8fa4c29ae5be55c949ba58f",
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
-  "Ranking_EOS_Progress": 742,
+  "Ranking_EOS_Progress": 743,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:08:38.3207798+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:08:40.8524179+00:00",
   "LastUpdate_AppInfo": "2023-11-12T16:57:14.6819626+00:00",
-  "LastUpdate_Ratings": "2023-11-14T16:00:25.5390542+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:08:38.3207826+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:00:33.5127508+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:08:40.8524217+00:00"
 }

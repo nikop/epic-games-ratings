@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -381,9 +381,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 3647,
+  "EOS_Progressed": 3648,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -5776,6 +5776,11 @@
       "Time": "2023-11-14T13:08:43.9769757+00:00",
       "NumProgressed": 3647,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2023-11-14T18:04:47.2234867+00:00",
+      "NumProgressed": 3648,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -5883,7 +5888,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2662
+      "UsersEstimate": 2663
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -5907,7 +5912,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -6003,7 +6008,7 @@
       "Name": "Making a Stand",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "ACH_MISSION_05",
@@ -6011,7 +6016,7 @@
       "Name": "Where It All Begun",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1495
+      "UsersEstimate": 1496
     },
     {
       "ID": "ACH_MISSION_06",
@@ -6067,7 +6072,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -6083,7 +6088,7 @@
       "Name": "Snatched Out",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -6091,7 +6096,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -6123,7 +6128,7 @@
       "Name": "Recouped Investment",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -6131,7 +6136,7 @@
       "Name": "The More The Merrier",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -6146,7 +6151,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 3647,
+      "Progressed": 3648,
       "Completed": 3
     }
   ],
@@ -6154,8 +6159,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2023-11-12T04:58:46.5147399+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:04:40.7428892+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:04:47.2234864+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:17.4620944+00:00",
-  "LastUpdate_Ratings": "2023-11-14T16:01:34.801235+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:04:40.7429405+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:01:43.2243504+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:04:47.2235729+00:00"
 }

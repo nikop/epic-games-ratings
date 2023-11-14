@@ -6,23 +6,23 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~40,806 |
+| Awakening | 93.00% | ~40,807 |
 | First Steps | 80.00% | ~35,102 |
 | Control the Shadows | 67.00% | ~29,398 |
 | Tools of the Trade | 63.00% | ~27,643 |
-| Apprentice | 60.00% | ~26,326 |
+| Apprentice | 60.00% | ~26,327 |
 | Secret Seeker | 57.00% | ~25,010 |
-| Forge of Assassins | 55.00% | ~24,132 |
-| Revenant | 52.00% | ~22,816 |
+| Forge of Assassins | 55.00% | ~24,133 |
+| Revenant | 52.00% | ~22,817 |
 | I don’t Care! | 45.00% | ~19,745 |
-| Bird of Prey | 37.00% | ~16,234 |
+| Bird of Prey | 37.00% | ~16,235 |
 | Engraved with Power | 32.00% | ~14,041 |
 | Lady | 31.00% | ~13,602 |
 | Fashionable Assassin | 27.00% | ~11,847 |
-| Apex Predator | 24.00% | ~10,530 |
+| Apex Predator | 24.00% | ~10,531 |
 | Soul Reaver | 23.00% | ~10,092 |
 | Embers | 22.00% | ~9,653 |
-| Wall Lizard | 20.00% | ~8,775 |
+| Wall Lizard | 20.00% | ~8,776 |
 | Clinging to Life | 18.00% | ~7,898 |
 | Burning | 17.00% | ~7,459 |
 | Look Behind You | 16.00% | ~7,020 |
@@ -30,8 +30,8 @@ Number of Ratings: 88  (23.09.2022)
 | Family | 14.00% | ~6,143 |
 | War Engines | 14.00% | ~6,143 |
 | Signature Move | 14.00% | ~6,143 |
-| Ruse | 11.00% | ~4,826 |
-| Master Ninja | 11.00% | ~4,826 |
+| Ruse | 12.00% | ~5,265 |
+| Master Ninja | 11.00% | ~4,827 |
 | Hatching | 10.00% | ~4,388 |
 | Bonds | 9.00% | ~3,949 |
 | Get Over Here | 9.00% | ~3,949 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~878 |
 | Legacy | 2.00% | ~878 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,877 (Ranked 113)  
+Progressed: 43,878 (Ranked 113)  
 Completed: 240 (0.55%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,7 +259,7 @@ Completed: 240 (0.55%) (Ranked 190)
 | 2023-11-11 | 43,849 | 240 |
 | 2023-11-12 | 43,860 | 240 |
 | 2023-11-13 | 43,872 | 240 |
-| 2023-11-14 | 43,877 | 240 |
+| 2023-11-14 | 43,878 | 240 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

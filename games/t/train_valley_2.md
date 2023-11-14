@@ -6,62 +6,62 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 73.00% | ~303,641 |
-| Full garage | 61.00% | ~253,728 |
-| To the eyeballs! | 51.00% | ~212,133 |
-| Individual delivery | 47.00% | ~195,495 |
-| Non-Stop | 45.00% | ~187,176 |
-| Juggler | 36.00% | ~149,741 |
-| Forgot something | 35.00% | ~145,581 |
-| Close call! | 30.00% | ~124,784 |
-| Get out my way | 28.00% | ~116,465 |
-| Common cause | 26.00% | ~108,146 |
-| Critical care | 26.00% | ~108,146 |
-| Mega-railroad | 23.00% | ~95,668 |
-| Upgrade complete | 23.00% | ~95,668 |
-| Just in time! | 18.00% | ~74,870 |
-| Builder | 17.00% | ~70,711 |
-| Long Haul | 17.00% | ~70,599 |
-| Steam Age | 16.00% | ~66,552 |
-| Multilevel road | 15.00% | ~62,392 |
-| Bridgemania | 14.00% | ~58,233 |
-| Need to think | 14.00% | ~58,233 |
-| The Tortoise | 12.00% | ~49,914 |
-| Beginner | 11.00% | ~45,754 |
-| Without a lunch break | 11.00% | ~45,754 |
-| One way | 10.00% | ~41,595 |
-| Relocation | 10.00% | ~41,595 |
-| Industrial Age | 9.00% | ~37,435 |
-| Just One More Valley | 9.00% | ~37,376 |
-| Prick of conscience | 8.00% | ~33,276 |
-| Missed it! | 7.00% | ~29,116 |
-| At the last moment! | 6.00% | ~24,957 |
-| Overseer | 6.00% | ~24,957 |
-| Highlander | 5.00% | ~20,797 |
-| Jewelry accuracy | 5.00% | ~20,797 |
-| Stargazer | 5.00% | ~20,797 |
-| Bridge builder | 4.00% | ~16,638 |
-| Electrical Age | 4.00% | ~16,638 |
-| Large construction | 4.00% | ~16,638 |
-| Squander | 4.00% | ~16,638 |
-| Engineer | 3.00% | ~12,478 |
-| Globalisation Age | 3.00% | ~12,478 |
-| Living it large | 3.00% | ~12,478 |
-| Sabotage | 3.00% | ~12,478 |
-| Test Batch | 3.00% | ~12,459 |
-| Astronomer | 2.00% | ~8,319 |
-| Innovator | 2.00% | ~8,319 |
-| Lucky vandal | 2.00% | ~8,319 |
-| The Hare | 2.00% | ~8,319 |
-| Vandal | 2.00% | ~8,319 |
-| Will work | 2.00% | ~8,319 |
-| Woodcutter | 2.00% | ~8,319 |
+| Dealmaker | 73.00% | ~303,664 |
+| Full garage | 61.00% | ~253,747 |
+| To the eyeballs! | 51.00% | ~212,149 |
+| Individual delivery | 47.00% | ~195,510 |
+| Non-Stop | 45.00% | ~187,190 |
+| Juggler | 36.00% | ~149,752 |
+| Forgot something | 35.00% | ~145,592 |
+| Close call! | 30.00% | ~124,793 |
+| Get out my way | 28.00% | ~116,474 |
+| Common cause | 26.00% | ~108,154 |
+| Critical care | 26.00% | ~108,154 |
+| Mega-railroad | 23.00% | ~95,675 |
+| Upgrade complete | 23.00% | ~95,675 |
+| Just in time! | 18.00% | ~74,876 |
+| Builder | 17.00% | ~70,716 |
+| Long Haul | 17.00% | ~70,604 |
+| Steam Age | 16.00% | ~66,556 |
+| Multilevel road | 15.00% | ~62,397 |
+| Bridgemania | 14.00% | ~58,237 |
+| Need to think | 14.00% | ~58,237 |
+| The Tortoise | 12.00% | ~49,917 |
+| Beginner | 11.00% | ~45,758 |
+| Without a lunch break | 11.00% | ~45,758 |
+| One way | 10.00% | ~41,598 |
+| Relocation | 10.00% | ~41,598 |
+| Industrial Age | 9.00% | ~37,438 |
+| Just One More Valley | 9.00% | ~37,379 |
+| Prick of conscience | 8.00% | ~33,278 |
+| Missed it! | 7.00% | ~29,118 |
+| At the last moment! | 6.00% | ~24,959 |
+| Overseer | 6.00% | ~24,959 |
+| Highlander | 5.00% | ~20,799 |
+| Jewelry accuracy | 5.00% | ~20,799 |
+| Stargazer | 5.00% | ~20,799 |
+| Bridge builder | 4.00% | ~16,639 |
+| Electrical Age | 4.00% | ~16,639 |
+| Large construction | 4.00% | ~16,639 |
+| Squander | 4.00% | ~16,639 |
+| Engineer | 3.00% | ~12,479 |
+| Globalisation Age | 3.00% | ~12,479 |
+| Living it large | 3.00% | ~12,479 |
+| Sabotage | 3.00% | ~12,479 |
+| Test Batch | 3.00% | ~12,460 |
+| Astronomer | 2.00% | ~8,320 |
+| Innovator | 2.00% | ~8,320 |
+| Lucky vandal | 2.00% | ~8,320 |
+| The Hare | 2.00% | ~8,320 |
+| Vandal | 2.00% | ~8,320 |
+| Will work | 2.00% | ~8,320 |
+| Woodcutter | 2.00% | ~8,320 |
 | Occupied! | 2.00% | ~8,306 |
-| Achiever | 1.00% | ~4,159 |
-| Environmental activist | 1.00% | ~4,159 |
-| Metro builder | 1.00% | ~4,159 |
-| Ouroboros | 1.00% | ~4,159 |
-| Space Age | 1.00% | ~4,159 |
+| Achiever | 1.00% | ~4,160 |
+| Environmental activist | 1.00% | ~4,160 |
+| Metro builder | 1.00% | ~4,160 |
+| Ouroboros | 1.00% | ~4,160 |
+| Space Age | 1.00% | ~4,160 |
 | BBQ | 0.70% | ~2,912 |
 | Miscalculation | 0.70% | ~2,912 |
 | Voyager | 0.60% | ~2,496 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~415 |
 | World Zapper | 0.10% | ~415 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 415,947 (Ranked 43)  
+Progressed: 415,978 (Ranked 43)  
 Completed: 21 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -266,7 +266,7 @@ Completed: 21 (0.01%) (Ranked 329)
 | 2023-11-11 | 415,223 | 21 |
 | 2023-11-12 | 415,578 | 21 |
 | 2023-11-13 | 415,819 | 21 |
-| 2023-11-14 | 415,947 | 21 |
+| 2023-11-14 | 415,978 | 21 |
 ## Awards
 Max (Challenging Puzzles): 878  (Ranked 161)  
 Sum: 1,765 (Ranked 218)  

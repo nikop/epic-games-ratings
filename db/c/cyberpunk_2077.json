@@ -15078,18 +15078,24 @@
       "Rating": 4.64,
       "NumberOfAwards": 352490,
       "NumberOfAwardsMax": 105348
+    },
+    {
+      "Time": "2023-11-14T18:01:18.6323096+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 352694,
+      "NumberOfAwardsMax": 105471
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 352490,
-  "NumberOfAwardsMax": 105348,
+  "NumberOfAwards": 352694,
+  "NumberOfAwardsMax": 105471,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 105348
+      "Count": 105471
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -15101,7 +15107,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 20746
+      "Count": 20827
     },
     {
       "Text": "This game is Relaxing",
@@ -15158,9 +15164,9 @@
       "Count": 12936
     }
   ],
-  "EOS_Progressed": 896674,
+  "EOS_Progressed": 896686,
   "EOS_Completed": 2778,
-  "EOS_NewPlayers": 1007,
+  "EOS_NewPlayers": 1000,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38748,6 +38754,11 @@
       "Time": "2023-11-14T16:06:54.2909388+00:00",
       "NumProgressed": 896674,
       "NumCompleted": 2778
+    },
+    {
+      "Time": "2023-11-14T18:06:58.4814892+00:00",
+      "NumProgressed": 896686,
+      "NumCompleted": 2778
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -38832,7 +38843,7 @@
       "Name": "Gun Fu",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 17933
+      "UsersEstimate": 17934
     },
     {
       "ID": "Gunslinger",
@@ -38998,9 +39009,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 4483
     },
     {
       "ID": "TheStar",
@@ -39088,7 +39099,7 @@
       "Name": "V for Vendetta",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 26900
+      "UsersEstimate": 26901
     },
     {
       "ID": "YipMan",
@@ -39278,9 +39289,9 @@
       "ID": "DirtyWork",
       "SetID": "23nboa5",
       "Name": "Dirty Deeds",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 101
     },
     {
       "ID": "EasyComeEasyGo",
@@ -39295,21 +39306,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896674,
+      "Progressed": 896686,
       "Completed": 2778
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25297,
+      "Progressed": 25309,
       "Completed": 10223
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2023-11-14T16:01:10.2249385+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:06:54.2909382+00:00",
+  "LastChanged": "2023-11-14T18:01:18.6323094+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:06:58.4814887+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-14T16:01:10.2249391+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:06:54.2910901+00:00"
+  "LastUpdate_Ratings": "2023-11-14T18:01:18.63231+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:06:58.481615+00:00"
 }

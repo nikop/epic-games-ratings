@@ -22,7 +22,7 @@
   "Tags": [],
   "EOS_Progressed": 547,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 5.48,
   "EosHistory": [
@@ -2354,9 +2354,9 @@
       "ID": "END_BAD",
       "SetID": "2gma9an",
       "Name": "I did it",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 104
     },
     {
       "ID": "END_GOOD",
@@ -2561,8 +2561,8 @@
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:07:59.1977339+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:08:03.0650538+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:53.2846065+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:57:43.3834604+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:07:59.1977646+00:00"
+  "LastUpdate_Ratings": "2023-11-14T17:57:53.2541161+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:08:03.0650822+00:00"
 }

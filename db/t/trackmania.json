@@ -4,8 +4,8 @@
   "ProductSlug": "trackmania",
   "Ranking_Rating": 293,
   "Ranking_Popularity": 85,
-  "Ranking_PopularitySum": 41,
-  "Ranking_EOS_Progress": 742,
+  "Ranking_PopularitySum": 42,
+  "Ranking_EOS_Progress": 743,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
@@ -13140,10 +13140,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 32305,
       "NumberOfAwardsMax": 3931
+    },
+    {
+      "Time": "2023-11-14T17:59:13.031611+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 32306,
+      "NumberOfAwardsMax": 3931
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 32305,
+  "NumberOfAwards": 32306,
   "NumberOfAwardsMax": 3931,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -13205,7 +13211,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 2011
+      "Count": 2012
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -13231,8 +13237,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:57.8589284+00:00",
-  "LastChanged": "2023-11-14T13:03:10.6998359+00:00",
+  "LastChanged": "2023-11-14T17:59:13.0316108+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:30.7083372+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:59:03.568016+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:09:47.2597039+00:00"
+  "LastUpdate_Ratings": "2023-11-14T17:59:13.0316115+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:09:48.3700728+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Statue ✔ | 64.00% | ~186 |
+| Statue ✔ | 65.00% | ~189 |
 | Recluse ✔ | 35.00% | ~102 |
 | Scent of Meat ✔ | 22.00% | ~64 |
 | Witch ✔ | 22.00% | ~64 |
@@ -23,7 +23,7 @@
 | Angel ✔ | 0.00% | ~0 |
 | King of survival ✔ | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290 (Ranked 345)  
+Progressed: 291 (Ranked 345)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -105,3 +105,4 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-10-23 | 288 | 0 |
 | 2023-10-24 | 289 | 0 |
 | 2023-10-30 | 290 | 0 |
+| 2023-11-14 | 291 | 0 |

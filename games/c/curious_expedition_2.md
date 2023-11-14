@@ -29,9 +29,9 @@ Number of Ratings: 20  (23.09.2022)
 | Iron Man | 17.00% | ~58 |
 | Shortening of the Way | 17.00% | ~58 |
 | A Gentle Beast | 17.00% | ~58 |
+| For the Club! | 16.00% | ~54 |
 | Practical Palaeontology | 16.00% | ~54 |
 | Adventurer | 15.00% | ~51 |
-| For the Club! | 15.00% | ~51 |
 | Dapper | 15.00% | ~51 |
 | The New Director | 14.00% | ~47 |
 | Discovery | 14.00% | ~47 |

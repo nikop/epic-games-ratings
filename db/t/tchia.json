@@ -239,9 +239,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7749,
+  "EOS_Progressed": 7750,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -8114,6 +8114,11 @@
       "Time": "2023-11-14T15:08:15.6950061+00:00",
       "NumProgressed": 7749,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2023-11-14T18:08:33.0748541+00:00",
+      "NumProgressed": 7750,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 21,
@@ -8157,7 +8162,7 @@
       "Name": "\u00C7a de Wizz!",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "CLAY_PIGEON",
@@ -8173,7 +8178,7 @@
       "Name": "Energy Saver",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 1317
+      "UsersEstimate": 1318
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -8205,7 +8210,7 @@
       "Name": "Happy Camper",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "HISTORIAN",
@@ -8229,7 +8234,7 @@
       "Name": "In a Pinch",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1627
+      "UsersEstimate": 1628
     },
     {
       "ID": "LIBERATOR",
@@ -8237,7 +8242,7 @@
       "Name": "Liberator",
       "Percentage": 5,
       "XP": 80,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "LIVE_WIRE",
@@ -8253,7 +8258,7 @@
       "Name": "Shredder",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "SNIP_SNIP",
@@ -8285,14 +8290,14 @@
       "Name": "Thing",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 7749,
+      "Progressed": 7750,
       "Completed": 34
     }
   ],
@@ -8300,8 +8305,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2023-11-05T18:02:52.8520558+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:08:30.246515+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:08:33.0748534+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:47.1018181+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:57:12.7887234+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:08:30.2465754+00:00"
+  "LastUpdate_Ratings": "2023-11-14T17:57:22.5483624+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:08:33.0749125+00:00"
 }

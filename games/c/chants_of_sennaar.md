@@ -13,9 +13,9 @@
 | Scholar | 21.00% | ~115 |
 | A good beginning | 20.00% | ~109 |
 | The darkness | 20.00% | ~109 |
+| I did it | 19.00% | ~104 |
 | Half the way | 19.00% | ~104 |
 | One last step | 19.00% | ~104 |
-| I did it | 18.00% | ~98 |
 | Peace walker | 18.00% | ~98 |
 | Cable guy | 18.00% | ~98 |
 | Champollion | 18.00% | ~98 |

@@ -5,24 +5,24 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First success | 97.00% | ~32 |
-| Suicide squad | 55.00% | ~18 |
+| Suicide squad | 58.00% | ~19 |
 | First blood | 30.00% | ~10 |
 | Train hard, fight easy | 27.00% | ~9 |
 | Under cover | 27.00% | ~9 |
 | All for one! | 24.00% | ~8 |
+| A hidden snake | 24.00% | ~8 |
+| Blood and sand | 24.00% | ~8 |
 | Royal blessing | 21.00% | ~7 |
-| A hidden snake | 21.00% | ~7 |
-| Blood and sand | 21.00% | ~7 |
 | Vene, vidi, vici | 18.00% | ~6 |
 | Crimson rivers | 15.00% | ~5 |
 | Power of Inquisition | 15.00% | ~5 |
 | Help of the Gell | 15.00% | ~5 |
 | Trial by cold | 15.00% | ~5 |
+| She-Wolf | 15.00% | ~5 |
 | The champion of the arena | 12.00% | ~4 |
 | Surpass the teacher | 12.00% | ~4 |
 | Rage | 12.00% | ~4 |
 | Protect the Healer! | 12.00% | ~4 |
-| She-Wolf | 12.00% | ~4 |
 | For the greater good | 9.00% | ~3 |
 | Overplay the rogue | 9.00% | ~3 |
 | Berkanan Borgia | 9.00% | ~3 |

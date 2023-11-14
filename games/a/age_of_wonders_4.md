@@ -11,8 +11,8 @@ Rating: 4.61 (Ranked 385)
 | Secret Technique | 1.00% | ~54 |
 | Walls Cannot Stop Us | 1.00% | ~54 |
 | Freed Lands of Manuhari | 1.00% | ~54 |
-| Bone Peddler | 0.90% | ~48 |
-| From Friends to Family | 0.90% | ~48 |
+| Bone Peddler | 0.90% | ~49 |
+| From Friends to Family | 0.90% | ~49 |
 | There Can Only Be One! | 0.80% | ~43 |
 | Full Ascension | 0.80% | ~43 |
 | Magical Synergy | 0.80% | ~43 |
@@ -38,12 +38,12 @@ Rating: 4.61 (Ranked 385)
 | A Conqueror's Cohort | 0.40% | ~22 |
 | Return of the Wizard King | 0.30% | ~16 |
 | The Creator | 0.30% | ~16 |
+| Crimson Caldera | 0.30% | ~16 |
 | Preparation Is Everything | 0.30% | ~16 |
 | Fiery Friend | 0.30% | ~16 |
 | I've Got Everything I Need Right Here | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
-| Crimson Caldera | 0.20% | ~11 |
 | Manufactured War | 0.20% | ~11 |
 | The Eternal Court | 0.20% | ~11 |
 | Pruning for Progress | 0.20% | ~11 |
@@ -66,7 +66,7 @@ Rating: 4.61 (Ranked 385)
 | Master of Evilness | 0.00% | ~0 |
 | The Grey Wizard | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,388 (Ranked 184)  
+Progressed: 5,389 (Ranked 184)  
 Completed: 7 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 7 (0.13%) (Ranked 264)
 | 2023-11-11 | 5,360 | 7 |
 | 2023-11-12 | 5,383 | 7 |
 | 2023-11-13 | 5,387 | 7 |
-| 2023-11-14 | 5,388 | 7 |
+| 2023-11-14 | 5,389 | 7 |
 ## Awards
 Max (Great for Beginners): 32  (Ranked 484)  
 Sum: 54 (Ranked 473)  

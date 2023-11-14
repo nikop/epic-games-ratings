@@ -2,7 +2,7 @@
   "ID": "afc880a4f75c433fb0b5e43bac68dd20",
   "Name": "Chicken vs Eggs",
   "ProductSlug": "chicken-vs-eggs-b807ab",
-  "Ranking_EOS_Progress": 742,
+  "Ranking_EOS_Progress": 743,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 128,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-09T09:57:04.4307539+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:57:04.5106934+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:06:43.7518685+00:00"
+  "LastUpdate_Ratings": "2023-11-14T17:57:14.0837015+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:06:47.5975063+00:00"
 }

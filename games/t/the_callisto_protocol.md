@@ -6,8 +6,8 @@ Rating: 4.19 (Ranked 917)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Get a Grip | 10.00% | ~1,644 |
+| Paper Jams | 9.00% | ~1,480 |
 | Flesh Wound | 8.00% | ~1,316 |
-| Paper Jams | 8.00% | ~1,316 |
 | Float Like A Butterfly | 7.00% | ~1,151 |
 | Two Heads Are Better Than One | 6.00% | ~987 |
 | Chew 'Em Up | 6.00% | ~987 |
@@ -257,8 +257,8 @@ Completed: 79 (0.48%) (Ranked 201)
 | 2023-11-14 | 16,444 | 79 |
 ## Awards
 Max (Highly Recommended): 82  (Ranked 384)  
-Sum: 480 (Ranked 327)  
-Diff (max vs sum): 57  
+Sum: 480 (Ranked 328)  
+Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 82 |

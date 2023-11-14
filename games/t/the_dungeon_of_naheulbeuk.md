@@ -6,19 +6,19 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 35.00% | ~82,985 |
-| Alt+F4 | 8.00% | ~18,968 |
-| Where's that freaking Dwarf? | 7.00% | ~16,597 |
-| Déjà vu | 6.00% | ~14,226 |
-| Sock! SOCK! | 5.00% | ~11,855 |
-| A beer, two curses, three companions | 4.00% | ~9,484 |
-| GG EZ | 4.00% | ~9,484 |
-| DM intervention | 4.00% | ~9,484 |
-| Speedrun | 4.00% | ~9,484 |
-| Livin' in a dwarven paradise | 3.00% | ~7,113 |
-| Way of the Wimp | 3.00% | ~7,113 |
-| The plot thickens... At the tavern | 3.00% | ~7,113 |
-| Fireproof Wizardess | 3.00% | ~7,113 |
+| Sowwy! | 35.00% | ~82,993 |
+| Alt+F4 | 8.00% | ~18,970 |
+| Where's that freaking Dwarf? | 7.00% | ~16,599 |
+| Déjà vu | 6.00% | ~14,227 |
+| Sock! SOCK! | 5.00% | ~11,856 |
+| A beer, two curses, three companions | 4.00% | ~9,485 |
+| GG EZ | 4.00% | ~9,485 |
+| DM intervention | 4.00% | ~9,485 |
+| Speedrun | 4.00% | ~9,485 |
+| Livin' in a dwarven paradise | 3.00% | ~7,114 |
+| Way of the Wimp | 3.00% | ~7,114 |
+| The plot thickens... At the tavern | 3.00% | ~7,114 |
+| Fireproof Wizardess | 3.00% | ~7,114 |
 | Shiny and Crôm | 2.00% | ~4,742 |
 | The demons' feast | 2.00% | ~4,742 |
 | The Great Library | 2.00% | ~4,742 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~237 |
 | Dwarf Candy | 0.10% | ~237 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 237,100 (Ranked 62)  
+Progressed: 237,123 (Ranked 62)  
 Completed: 7 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,19 +262,19 @@ Completed: 7 (0.00%) (Ranked 351)
 | 2023-11-11 | 236,594 | 7 |
 | 2023-11-12 | 236,852 | 7 |
 | 2023-11-13 | 237,012 | 7 |
-| 2023-11-14 | 237,100 | 7 |
+| 2023-11-14 | 237,123 | 7 |
 ## Awards
-Max (Character Customization): 228  (Ranked 273)  
-Sum: 458 (Ranked 331)  
-Diff (max vs sum): -58  
+Max (Character Customization): 229  (Ranked 272)  
+Sum: 460 (Ranked 331)  
+Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 228 |
+| This game has Inclusive Character Customization | 229 |
 | This game is Relaxing | 36 |
 | This game is Great for Beginners | 32 |
 | This game is Highly Recommended | 29 |
 | This game has Amazing Storytelling | 29 |
-| This game has Quickly Understood Controls | 28 |
+| This game has Quickly Understood Controls | 29 |
 | This game has Amazing Characters | 26 |
 | This game has Diverse Characters | 26 |
 | This game is Extremely Fun | 24 |
@@ -457,3 +457,4 @@ Diff (max vs sum): -58
 | 2023-11-10 | 4.58 | - | 228 | 456 |
 | 2023-11-11 | 4.58 | - | 228 | 457 |
 | 2023-11-12 | 4.58 | - | 228 | 458 |
+| 2023-11-14 | 4.58 | - | 229 | 460 |

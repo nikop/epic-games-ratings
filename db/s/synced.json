@@ -4,7 +4,7 @@
   "ProductSlug": "synced",
   "Ranking_Rating": 933,
   "Ranking_Popularity": 369,
-  "Ranking_PopularitySum": 346,
+  "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 106,
@@ -997,10 +997,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 370,
       "NumberOfAwardsMax": 93
+    },
+    {
+      "Time": "2023-11-14T17:57:37.4409934+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 371,
+      "NumberOfAwardsMax": 93
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 370,
+  "NumberOfAwards": 371,
   "NumberOfAwardsMax": 93,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1032,7 +1038,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1059,9 +1065,9 @@
       "Count": 28
     }
   ],
-  "EOS_Progressed": 66624,
+  "EOS_Progressed": 66631,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 581,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -9119,6 +9125,11 @@
       "Time": "2023-11-14T16:07:41.3823709+00:00",
       "NumProgressed": 66624,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2023-11-14T18:07:45.2276536+00:00",
+      "NumProgressed": 66631,
+      "NumCompleted": 33
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -9131,7 +9142,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 22652
+      "UsersEstimate": 22655
     },
     {
       "ID": "10",
@@ -9163,7 +9174,7 @@
       "Name": "Memory Keeper",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "14",
@@ -9171,7 +9182,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "15",
@@ -9195,7 +9206,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 11326
+      "UsersEstimate": 11327
     },
     {
       "ID": "3",
@@ -9203,7 +9214,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 8661
+      "UsersEstimate": 8662
     },
     {
       "ID": "4",
@@ -9211,7 +9222,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 6662
+      "UsersEstimate": 6663
     },
     {
       "ID": "5",
@@ -9227,7 +9238,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 3997
+      "UsersEstimate": 3998
     },
     {
       "ID": "7",
@@ -9258,16 +9269,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 66624,
+      "Progressed": 66631,
       "Completed": 33
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2023-11-14T01:44:51.1168734+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:07:41.3823704+00:00",
+  "LastChanged": "2023-11-14T17:57:37.4409932+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:07:45.2276532+00:00",
   "LastUpdate_AppInfo": "2023-11-11T17:57:11.6308067+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:57:27.820278+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:07:41.3824271+00:00"
+  "LastUpdate_Ratings": "2023-11-14T17:57:37.4409938+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:07:45.2277026+00:00"
 }

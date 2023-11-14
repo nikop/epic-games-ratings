@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 128,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -459,9 +459,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 5388,
+  "EOS_Progressed": 5389,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7089,6 +7089,11 @@
       "Time": "2023-11-14T14:04:33.8274753+00:00",
       "NumProgressed": 5388,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-14T18:05:34.6233158+00:00",
+      "NumProgressed": 5389,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 60,
@@ -7244,7 +7249,7 @@
       "Name": "Bone Peddler",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "27",
@@ -7260,7 +7265,7 @@
       "Name": "From Friends to Family",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "29",
@@ -7274,9 +7279,9 @@
       "ID": "3",
       "SetID": "3aa2279",
       "Name": "Crimson Caldera",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 16
     },
     {
       "ID": "30",
@@ -7579,13 +7584,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 5388,
+      "Progressed": 5389,
       "Completed": 4765
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 5388,
+      "Progressed": 5389,
       "Completed": 7
     }
   ],
@@ -7593,8 +7598,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:05:28.303884+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:05:34.6233153+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:57:47.3004545+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:05:28.3039751+00:00"
+  "LastUpdate_Ratings": "2023-11-14T17:57:57.0421198+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:05:34.623382+00:00"
 }

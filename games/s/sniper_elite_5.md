@@ -27,12 +27,12 @@ Rating: 4.46 (Ranked 645)
 | Close Quarters | 16.00% | ~618 |
 | Snake in the Grass | 16.00% | ~618 |
 | Skirmisher | 15.00% | ~579 |
+| Die Nussknacker Sweet! | 15.00% | ~579 |
 | Brains of the Operation | 15.00% | ~579 |
 | No Stone Unturned | 14.00% | ~541 |
 | Opposing Force | 14.00% | ~541 |
 | Enemy at the Gates | 14.00% | ~541 |
 | Fields of Glory | 14.00% | ~541 |
-| Die Nussknacker Sweet! | 14.00% | ~541 |
 | Set Europe Ablaze | 13.00% | ~502 |
 | Precision Is Key | 10.00% | ~386 |
 | My Little Friend | 10.00% | ~386 |

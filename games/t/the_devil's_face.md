@@ -15,7 +15,7 @@
 | Holy Nails | 8.00% | ~45 |
 | The crucifixion | 7.00% | ~39 |
 | Flagellation | 7.00% | ~39 |
-| The choice | 4.00% | ~22 |
+| The choice | 5.00% | ~28 |
 | Hubris | 3.00% | ~17 |
 | Humility | 2.00% | ~11 |
 ## Popularity (Based on EOS Achievements)

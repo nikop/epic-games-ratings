@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| V for Vendetta | 3.00% | ~26,900 |
-| Gun Fu | 2.00% | ~17,933 |
+| V for Vendetta | 3.00% | ~26,901 |
+| Gun Fu | 2.00% | ~17,934 |
 | Relic Ruler | 1.00% | ~253 |
 | Full Body Conversion | 0.70% | ~6,277 |
 | True Soldier | 0.70% | ~6,277 |
@@ -17,16 +17,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | Arachnophobia | 0.60% | ~152 |
 | The Quick and the Dead | 0.50% | ~4,483 |
 | The Hermit | 0.50% | ~4,483 |
+| The Lovers | 0.50% | ~4,483 |
 | Bushido and Chill | 0.40% | ~3,587 |
 | Christmas Tree Attack | 0.40% | ~3,587 |
 | Life of the Road | 0.40% | ~3,587 |
 | The High Priestess | 0.40% | ~3,587 |
-| The Lovers | 0.40% | ~3,587 |
 | The Wheel of Fortune | 0.40% | ~3,587 |
 | The World | 0.40% | ~3,587 |
 | True Warrior | 0.40% | ~3,587 |
 | Legend of The Afterlife | 0.40% | ~3,587 |
 | Spin Doctor | 0.40% | ~101 |
+| Dirty Deeds | 0.40% | ~101 |
 | To Protect and Serve | 0.30% | ~2,690 |
 | The Wandering Fool | 0.30% | ~2,690 |
 | Master Crafter | 0.30% | ~2,690 |
@@ -35,7 +36,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 0.30% | ~2,690 |
 | Judy vs Night City | 0.30% | ~2,690 |
 | King of Wands | 0.30% | ~76 |
-| Dirty Deeds | 0.30% | ~76 |
 | Easy Come, Easy Go | 0.30% | ~76 |
 | To Bad Decisions! | 0.20% | ~1,793 |
 | Breathtaking | 0.20% | ~1,793 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,674 (Ranked 15)  
+Progressed: 896,686 (Ranked 15)  
 Completed: 2,778 (0.31%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,17 +282,17 @@ Completed: 2,778 (0.31%) (Ranked 227)
 | 2023-11-11 | 896,271 | 2,766 |
 | 2023-11-12 | 896,462 | 2,771 |
 | 2023-11-13 | 896,596 | 2,776 |
-| 2023-11-14 | 896,674 | 2,778 |
+| 2023-11-14 | 896,686 | 2,778 |
 ## Awards
-Max (Character Customization): 105,348  (Ranked 9)  
-Sum: 352,490 (Ranked 10)  
+Max (Character Customization): 105,471  (Ranked 9)  
+Sum: 352,694 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 105,348 |
+| This game has Inclusive Character Customization | 105,471 |
 | This game has Great Boss Battles | 76,241 |
 | This game is Great for Beginners | 21,174 |
-| This game has Diverse Characters | 20,746 |
+| This game has Diverse Characters | 20,827 |
 | This game is Highly Recommended | 19,922 |
 | This game has Amazing Storytelling | 19,782 |
 | This game is Extremely Fun | 19,622 |
@@ -602,4 +602,4 @@ Diff (max vs sum): -1
 | 2023-11-11 | 4.64 | - | 105,016 | 349,420 |
 | 2023-11-12 | 4.64 | - | 105,188 | 350,761 |
 | 2023-11-13 | 4.64 | - | 105,348 | 351,825 |
-| 2023-11-14 | 4.64 | - | 105,348 | 352,490 |
+| 2023-11-14 | 4.64 | - | 105,471 | 352,694 |

@@ -6,25 +6,25 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~27,738 |
-| Gone Home | 93.00% | ~26,594 |
+| Everybody Gets One | 97.00% | ~27,739 |
+| Gone Home | 93.00% | ~26,595 |
 | Wonderfalls | 87.00% | ~24,879 |
-| Got to Catch a Few | 77.00% | ~22,019 |
-| Double Trapper | 75.00% | ~21,447 |
-| I'm Stuffed | 69.00% | ~19,731 |
-| Got to Catch a Lot | 66.00% | ~18,873 |
+| Got to Catch a Few | 77.00% | ~22,020 |
+| Double Trapper | 75.00% | ~21,448 |
+| I'm Stuffed | 69.00% | ~19,732 |
+| Got to Catch a Lot | 66.00% | ~18,874 |
 | Talkin' 'Bout Bugsnax | 61.00% | ~17,444 |
 | In the Arms of the Gramble | 59.00% | ~16,872 |
 | Know Thy Neighbor | 59.00% | ~16,872 |
 | Perf Dirt | 57.00% | ~16,300 |
 | Launch Party | 56.00% | ~16,014 |
 | Vacation's End | 53.00% | ~15,156 |
-| Bossy Bugs | 46.00% | ~13,154 |
-| Survivor | 45.00% | ~12,868 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,296 |
-| Sidetracked | 40.00% | ~11,438 |
-| Film Buff | 38.00% | ~10,866 |
-| Combo Meal | 38.00% | ~10,866 |
+| Bossy Bugs | 46.00% | ~13,155 |
+| Survivor | 45.00% | ~12,869 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,297 |
+| Sidetracked | 40.00% | ~11,439 |
+| Film Buff | 38.00% | ~10,867 |
+| Combo Meal | 38.00% | ~10,867 |
 | Midnight Snak | 36.00% | ~10,295 |
 | Candid Cryptid | 35.00% | ~10,009 |
 | Got to Catch Them All | 32.00% | ~9,151 |
@@ -32,12 +32,12 @@ Number of Ratings: 425  (23.09.2022)
 | Grab Bag | 23.00% | ~6,577 |
 | Feeding Frenzy | 19.00% | ~5,433 |
 | Clothesline | 17.00% | ~4,861 |
-| Say Cheese! | 15.00% | ~4,289 |
-| Sundae Best | 14.00% | ~4,003 |
+| Say Cheese! | 15.00% | ~4,290 |
+| Sundae Best | 14.00% | ~4,004 |
 | Live Laugh Hut | 9.00% | ~2,574 |
 | Dapper Capper | 7.00% | ~2,002 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,596 (Ranked 123)  
+Progressed: 28,597 (Ranked 123)  
 Completed: 1,376 (4.81%) (Ranked 71)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -244,7 +244,7 @@ Completed: 1,376 (4.81%) (Ranked 71)
 | 2023-11-11 | 28,583 | 1,373 |
 | 2023-11-12 | 28,591 | 1,374 |
 | 2023-11-13 | 28,596 | 1,375 |
-| 2023-11-14 | 28,596 | 1,376 |
+| 2023-11-14 | 28,597 | 1,376 |
 ## Awards
 Max (Amazing Storytelling): 42  (Ranked 450)  
 Sum: 357 (Ranked 351)  

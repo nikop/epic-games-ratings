@@ -17,16 +17,16 @@
 | The Cultists | 14.00% | ~43 |
 | Parasite Exterminated | 13.00% | ~40 |
 | The Forgotten Tower | 13.00% | ~40 |
+| Trapped | 11.00% | ~34 |
 | Lover of classics | 10.00% | ~30 |
 | Modern Player | 10.00% | ~30 |
 | The Curse Is Real | 10.00% | ~30 |
-| Trapped | 10.00% | ~30 |
 | Rest In Peace | 9.00% | ~27 |
 | What A Mansion | 8.00% | ~24 |
 | Researcher | 6.00% | ~18 |
 | I Am The Gate Keeper! | 6.00% | ~18 |
+| This Mansion Is Clean | 5.00% | ~15 |
 | Armed To The Teeth | 4.00% | ~12 |
-| This Mansion Is Clean | 4.00% | ~12 |
 | The bus stop | 3.00% | ~9 |
 | Spiritual essence well spent | 2.00% | ~6 |
 | Run and Gun | 2.00% | ~6 |

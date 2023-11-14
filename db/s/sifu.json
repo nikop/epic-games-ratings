@@ -3,12 +3,12 @@
   "Name": "Sifu",
   "ProductSlug": "sifu",
   "Ranking_Rating": 65,
-  "Ranking_Popularity": 55,
+  "Ranking_Popularity": 56,
   "Ranking_PopularitySum": 82,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 128,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -7635,9 +7635,9 @@
       "Count": 420
     }
   ],
-  "EOS_Progressed": 716898,
+  "EOS_Progressed": 716901,
   "EOS_Completed": 12934,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.8,
   "EosHistory": [
@@ -26050,6 +26050,11 @@
       "Time": "2023-11-14T16:07:03.6847776+00:00",
       "NumProgressed": 716898,
       "NumCompleted": 12934
+    },
+    {
+      "Time": "2023-11-14T18:07:07.8739822+00:00",
+      "NumProgressed": 716901,
+      "NumCompleted": 12934
     }
   ],
   "TotalAchievements": 60,
@@ -26069,7 +26074,7 @@
       "Name": "The Assault",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "03_Vengeance_H2",
@@ -26077,7 +26082,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "04_Vengeance_H3",
@@ -26085,7 +26090,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "05_Vengeance_H4",
@@ -26229,7 +26234,7 @@
       "Name": "Street Fighting",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -26245,7 +26250,7 @@
       "Name": "State of constant learning",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "25_ShrineMind",
@@ -26261,7 +26266,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "27_ShrineBody",
@@ -26269,7 +26274,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -26325,7 +26330,7 @@
       "Name": "Lightning Hands",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "35_WideStrike",
@@ -26341,7 +26346,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -26349,7 +26354,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3584
+      "UsersEstimate": 3585
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -26540,21 +26545,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 26199,
-      "Completed": 10739
+      "Progressed": 26202,
+      "Completed": 10740
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 716898,
+      "Progressed": 716901,
       "Completed": 12934
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2023-11-13T14:00:03.6986303+00:00",
-  "LastChanged_Achievements": "2023-11-14T16:07:03.684777+00:00",
+  "LastChanged_Achievements": "2023-11-14T18:07:07.8739818+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:29.4237338+00:00",
-  "LastUpdate_Ratings": "2023-11-14T15:57:03.665038+00:00",
-  "LastUpdate_Achievements": "2023-11-14T16:07:03.6849496+00:00"
+  "LastUpdate_Ratings": "2023-11-14T17:57:13.1096605+00:00",
+  "LastUpdate_Achievements": "2023-11-14T18:07:07.8740848+00:00"
 }

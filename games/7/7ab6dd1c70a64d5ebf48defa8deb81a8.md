@@ -4,20 +4,22 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Powerful Allies | 1.00% | ~2 |
 | Calm before the Storm | 1.00% | ~2 |
-| Powerful Allies | 0.50% | ~1 |
+| Fine Feathers Make Fine Birds | 1.00% | ~2 |
+| Scholar | 1.00% | ~2 |
+| I Found It | 1.00% | ~2 |
+| Summiter | 1.00% | ~2 |
+| Find Allies | 0.50% | ~1 |
+| Trinity | 0.50% | ~1 |
 | Adventurer | 0.50% | ~1 |
 | Fashion Victim | 0.50% | ~1 |
-| Scholar | 0.50% | ~1 |
-| I Found It | 0.50% | ~1 |
 | Break Out | 0.00% | ~0 |
-| Find Allies | 0.00% | ~0 |
 | To Battle | 0.00% | ~0 |
 | Godslayer | 0.00% | ~0 |
 | Clear Sight | 0.00% | ~0 |
 | A Taste of Wrath | 0.00% | ~0 |
 | The Mentor | 0.00% | ~0 |
-| Trinity | 0.00% | ~0 |
 | Forgemaster | 0.00% | ~0 |
 | Shardbearer | 0.00% | ~0 |
 | Airborne | 0.00% | ~0 |
@@ -28,7 +30,6 @@
 | Slayer | 0.00% | ~0 |
 | Flawless Victory | 0.00% | ~0 |
 | Big Bazar | 0.00% | ~0 |
-| Fine Feathers Make Fine Birds | 0.00% | ~0 |
 | Geared Up | 0.00% | ~0 |
 | All There Is | 0.00% | ~0 |
 | False God | 0.00% | ~0 |
@@ -39,7 +40,6 @@
 | The Collector | 0.00% | ~0 |
 | Feeling Fancy | 0.00% | ~0 |
 | A Queen's Tale | 0.00% | ~0 |
-| Summiter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 186 (Ranked 379)  
 Completed: 1 (0.54%) (Ranked 191)  
