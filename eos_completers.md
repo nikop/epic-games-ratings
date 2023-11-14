@@ -9,7 +9,7 @@
 | 7 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 45.24% |
 | 8 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 42.34% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 37.14% |
-| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.14% |
+| 10 | [The Riflemen](games/t/the_riflemen.md) | 35.12% |
 | 11 | [Volley Pals](games/v/volley_pals.md) | 30.16% |
 | 12 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 28.89% |
 | 13 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 25.66% |
@@ -53,10 +53,10 @@
 | 51 | [Ravenlok](games/r/ravenlok.md) | 7.62% |
 | 52 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.57% |
 | 53 | [Sonic Origins](games/s/sonic_origins.md) | 7.51% |
-| 54 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 7.14% |
-| 55 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.07% |
-| 56 | [Time Loader](games/t/time_loader.md) | 7.03% |
-| 57 | [Scorn](games/s/scorn.md) | 6.91% |
+| 54 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 7.07% |
+| 55 | [Time Loader](games/t/time_loader.md) | 7.03% |
+| 56 | [Scorn](games/s/scorn.md) | 6.91% |
+| 57 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 6.90% |
 | 58 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.67% |
 | 59 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 6.40% |
 | 60 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
@@ -66,7 +66,7 @@
 | 64 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.88% |
 | 65 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.73% |
 | 66 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 5.56% |
-| 67 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.51% |
+| 67 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 5.50% |
 | 68 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.49% |
 | 69 | [JARS](games/j/jars.md) | 5.32% |
 | 70 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.84% |
@@ -147,7 +147,7 @@
 | 145 | [Iron Danger](games/i/iron_danger.md) | 1.32% |
 | 145 | [Poosh XL](games/p/poosh_xl.md) | 1.32% |
 | 145 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.32% |
-| 148 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.29% |
+| 148 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.28% |
 | 149 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 1.26% |
 | 150 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.25% |
 | 151 | [Alex Kidd in Miracle World DX](games/a/alex_kidd_in_miracle_world_dx.md) | 1.24% |
@@ -225,10 +225,10 @@
 | 223 | [Dead Island 2](games/d/dead_island_2.md) | 0.33% |
 | 223 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.33% |
 | 223 | [Them and Us](games/t/them_and_us.md) | 0.33% |
-| 226 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.32% |
-| 227 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
-| 227 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
-| 227 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 226 | [Against the Storm](games/a/against_the_storm.md) | 0.31% |
+| 226 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.31% |
+| 226 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
+| 226 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.31% |
 | 230 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.30% |
 | 230 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.30% |
 | 230 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.30% |
