@@ -5,9 +5,9 @@ Rating: 4.12 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~2,156 |
-| World Map | 78.00% | ~1,808 |
-| Temple of Eternals | 57.00% | ~1,321 |
+| Victor | 93.00% | ~2,157 |
+| World Map | 78.00% | ~1,809 |
+| Temple of Eternals | 57.00% | ~1,322 |
 | Prestigious | 54.00% | ~1,252 |
 | Fellowship Power | 42.00% | ~974 |
 | Guild Power | 25.00% | ~580 |
@@ -15,9 +15,9 @@ Rating: 4.12 (Ranked 956)
 | The game is on | 20.00% | ~464 |
 | Exotic Merchant | 18.00% | ~417 |
 | Dragon Clicker | 17.00% | ~394 |
+| Miner Clicker | 17.00% | ~394 |
 | Full Party | 16.00% | ~371 |
 | Inspection | 16.00% | ~371 |
-| Miner Clicker | 16.00% | ~371 |
 | Dragon Master | 15.00% | ~348 |
 | Enlightenment | 15.00% | ~348 |
 | Hero inspection | 15.00% | ~348 |
@@ -43,10 +43,10 @@ Rating: 4.12 (Ranked 956)
 | Master Enchanter | 9.00% | ~209 |
 | The father of Dragons | 9.00% | ~209 |
 | Trader | 9.00% | ~209 |
-| Crystal Mining | 8.00% | ~185 |
-| Dragon Slayer | 8.00% | ~185 |
-| Enchanting skill | 8.00% | ~185 |
-| Weekly Quest Completionist | 8.00% | ~185 |
+| Crystal Mining | 8.00% | ~186 |
+| Dragon Slayer | 8.00% | ~186 |
+| Enchanting skill | 8.00% | ~186 |
+| Weekly Quest Completionist | 8.00% | ~186 |
 | Blueprint Upgrades | 7.00% | ~162 |
 | Engineer Mastery | 7.00% | ~162 |
 | Lock And Load | 7.00% | ~162 |
@@ -81,7 +81,7 @@ Rating: 4.12 (Ranked 956)
 | Jewel Enchanting | 0.20% | ~5 |
 | War Machines Army | 0.20% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,318 (Ranked 213)  
+Progressed: 2,319 (Ranked 213)  
 Completed: 2 (0.09%) (Ranked 281)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 2 (0.09%) (Ranked 281)
 | 2023-11-11 | 2,229 | 2 |
 | 2023-11-12 | 2,269 | 2 |
 | 2023-11-13 | 2,290 | 2 |
-| 2023-11-14 | 2,318 | 2 |
+| 2023-11-14 | 2,319 | 2 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 490)  
 Sum: 80 (Ranked 456)  

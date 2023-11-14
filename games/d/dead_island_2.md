@@ -8,56 +8,56 @@ Rating: 4.54 (Ranked 523)
 | One of Us | 2.00% | ~881 |
 | Whatever It Takes | 2.00% | ~881 |
 | Pork Chopped | 2.00% | ~881 |
-| Hotel California | 0.90% | ~6,466 |
-| Welcome To Hell-A | 0.90% | ~6,466 |
+| Hotel California | 0.90% | ~6,467 |
+| Welcome To Hell-A | 0.90% | ~6,467 |
 | Break A Leg | 0.80% | ~5,748 |
 | Coup de Grâce | 0.80% | ~5,748 |
 | Hazardous Materials | 0.80% | ~5,748 |
 | Personal Assistant Personally Assisted | 0.80% | ~5,748 |
-| Dr. Reed, I Presume? | 0.70% | ~5,029 |
-| Git Gutte! | 0.70% | ~5,029 |
-| Anger Management | 0.70% | ~5,029 |
-| Bookworm | 0.70% | ~5,029 |
-| Friends Like These | 0.70% | ~5,029 |
-| Apex Predator | 0.70% | ~5,029 |
-| Stacking the Deck | 0.70% | ~5,029 |
-| This is My Weapon | 0.70% | ~5,029 |
+| Dr. Reed, I Presume? | 0.70% | ~5,030 |
+| Git Gutte! | 0.70% | ~5,030 |
+| Anger Management | 0.70% | ~5,030 |
+| Bookworm | 0.70% | ~5,030 |
+| Friends Like These | 0.70% | ~5,030 |
+| Apex Predator | 0.70% | ~5,030 |
+| Stacking the Deck | 0.70% | ~5,030 |
+| This is My Weapon | 0.70% | ~5,030 |
 | But Doctor, I am Butcho | 0.60% | ~4,311 |
 | Can't Handle the Truth | 0.60% | ~4,311 |
 | Like Riding a Bike | 0.60% | ~4,311 |
 | Zombologist | 0.60% | ~4,311 |
 | A Patton Emerges | 0.60% | ~4,311 |
 | Our True Nature | 0.60% | ~4,311 |
-| Making Your Mark | 0.50% | ~3,592 |
-| Perks of the Job | 0.50% | ~3,592 |
-| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,592 |
-| Slayer Squad | 0.50% | ~3,592 |
-| Ooh, Shiny! | 0.50% | ~3,592 |
-| I Am the Resurrection | 0.50% | ~3,592 |
-| Max Headroom | 0.50% | ~3,592 |
+| Making Your Mark | 0.50% | ~3,593 |
+| Perks of the Job | 0.50% | ~3,593 |
+| I Got a Zombie Army and You Can't Harm Me | 0.50% | ~3,593 |
+| Slayer Squad | 0.50% | ~3,593 |
+| Ooh, Shiny! | 0.50% | ~3,593 |
+| I Am the Resurrection | 0.50% | ~3,593 |
+| Max Headroom | 0.50% | ~3,593 |
 | Not Even My Final Form | 0.40% | ~2,874 |
 | Humanity Distilled | 0.40% | ~2,874 |
 | Down with the Sickness | 0.40% | ~2,874 |
-| On Safari | 0.30% | ~2,155 |
-| Smorgasbord | 0.30% | ~2,155 |
-| Internet Famous | 0.30% | ~2,155 |
-| Jumbo Keyring | 0.30% | ~2,155 |
-| Go, Bobcats! | 0.30% | ~2,155 |
-| Variety is the Spice of Death | 0.30% | ~2,155 |
-| Rising Star | 0.30% | ~2,155 |
+| On Safari | 0.30% | ~2,156 |
+| Smorgasbord | 0.30% | ~2,156 |
+| Internet Famous | 0.30% | ~2,156 |
+| Jumbo Keyring | 0.30% | ~2,156 |
+| Go, Bobcats! | 0.30% | ~2,156 |
+| Variety is the Spice of Death | 0.30% | ~2,156 |
+| Rising Star | 0.30% | ~2,156 |
 | Top That, Tisha! | 0.30% | ~132 |
 | Make it So | 0.20% | ~1,437 |
 | LA Influential | 0.20% | ~1,437 |
 | Sole Survivor | 0.20% | ~1,437 |
 | Gore Horse | 0.20% | ~1,437 |
 | Sharpest Tool in the Box | 0.20% | ~1,437 |
-| Donk! | 0.10% | ~718 |
-| Survival Skills | 0.10% | ~718 |
-| Bucket List | 0.10% | ~718 |
+| Donk! | 0.10% | ~719 |
+| Survival Skills | 0.10% | ~719 |
+| Bucket List | 0.10% | ~719 |
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,485 (Ranked 20)  
+Progressed: 718,504 (Ranked 20)  
 Completed: 2,391 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,10 +265,10 @@ Completed: 2,391 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
-| 2023-11-14 | 718,485 | 2,391 |
+| 2023-11-14 | 718,504 | 2,391 |
 ## Awards
 Max (Great Boss Battles): 7,440  (Ranked 52)  
-Sum: 11,318 (Ranked 84)  
+Sum: 11,323 (Ranked 84)  
 Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
@@ -280,7 +280,7 @@ Diff (max vs sum): -32
 | This game has Amazing Storytelling | 463 |
 | This game is Highly Recommended | 454 |
 | This game is Extremely Fun | 449 |
-| This game has Amazing Characters | 407 |
+| This game has Amazing Characters | 412 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -491,4 +491,4 @@ Diff (max vs sum): -32
 | 2023-11-11 | 4.54 | 7,320 | 11,108 |
 | 2023-11-12 | 4.54 | 7,376 | 11,188 |
 | 2023-11-13 | 4.54 | 7,413 | 11,268 |
-| 2023-11-14 | 4.54 | 7,440 | 11,318 |
+| 2023-11-14 | 4.54 | 7,440 | 11,323 |

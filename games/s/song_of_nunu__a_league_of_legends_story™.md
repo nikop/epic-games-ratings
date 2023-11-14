@@ -7,8 +7,8 @@
 | Feels Familiar | 77.00% | ~534 |
 | I Broke It | 73.00% | ~506 |
 | Better On Ice | 70.00% | ~485 |
+| Notai Notes | 70.00% | ~485 |
 | Blue Dreams | 69.00% | ~478 |
-| Notai Notes | 69.00% | ~478 |
 | He's Famous! | 68.00% | ~471 |
 | Krugmazing | 67.00% | ~464 |
 | Cutie Poro | 67.00% | ~464 |
@@ -25,13 +25,13 @@
 | 3000 Year Blackout | 44.00% | ~305 |
 | The Finisher | 42.00% | ~291 |
 | True Legends | 41.00% | ~284 |
-| So Close | 39.00% | ~270 |
+| So Close | 40.00% | ~277 |
 | You Get Used To It | 39.00% | ~270 |
+| Boosted! | 37.00% | ~256 |
 | Family | 36.00% | ~249 |
+| Biggest Snowball Ever | 36.00% | ~249 |
+| Freeze The Ice Witch | 36.00% | ~249 |
 | Bullseye | 36.00% | ~249 |
-| Boosted! | 36.00% | ~249 |
-| Biggest Snowball Ever | 35.00% | ~243 |
-| Freeze The Ice Witch | 35.00% | ~243 |
 | On The Rocks | 35.00% | ~243 |
 | Deadliest and Biggest Snowball Ever! | 35.00% | ~243 |
 | It Is Not Over | 33.00% | ~229 |
@@ -49,7 +49,7 @@
 | Rock Star | 2.00% | ~14 |
 | We Are Speed | 2.00% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 693 (Ranked 275)  
+Progressed: 693 (Ranked 276)  
 Completed: 5 (0.72%) (Ranked 176)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,8 +4,8 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -1670,6 +1670,11 @@
       "Time": "2023-11-14T21:03:38.2868213+00:00",
       "NumProgressed": 531,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2023-11-14T22:03:48.6931353+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -1698,7 +1703,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "ACH_eou3",
@@ -1706,7 +1711,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_eou4",
@@ -1770,7 +1775,7 @@
       "Name": "Anti-Gravity",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ACH_xatrix",
@@ -1778,21 +1783,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2023-11-14T21:03:38.2868206+00:00",
+  "LastChanged_Achievements": "2023-11-14T22:03:48.6931348+00:00",
   "LastUpdate_AppInfo": "2023-11-10T01:41:16.1042857+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:58:30.4798762+00:00",
-  "LastUpdate_Achievements": "2023-11-14T21:03:38.2868465+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:58:35.0759551+00:00",
+  "LastUpdate_Achievements": "2023-11-14T22:03:48.6931556+00:00"
 }

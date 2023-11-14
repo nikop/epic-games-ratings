@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2022-11-15T17:00:00+00:00",
     "PcReleaseDate": "2022-10-17T15:00:00+00:00",
@@ -8499,10 +8499,16 @@
       "Rating": 4.59,
       "NumberOfAwards": 4397,
       "NumberOfAwardsMax": 498
+    },
+    {
+      "Time": "2023-11-14T21:57:53.8870969+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 4406,
+      "NumberOfAwardsMax": 498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4397,
+  "NumberOfAwards": 4406,
   "NumberOfAwardsMax": 498,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -8510,7 +8516,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 402
+      "Count": 407
     },
     {
       "Text": "This game has Competitive Players",
@@ -8552,13 +8558,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 352
+      "Count": 354
     },
     {
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 367
+      "Count": 369
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -8591,8 +8597,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2023-11-14T20:57:49.8810674+00:00",
+  "LastChanged": "2023-11-14T21:57:53.8870966+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:25.6740217+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:57:49.8810679+00:00",
-  "LastUpdate_Achievements": "2023-11-14T21:08:56.0093307+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:57:53.8870974+00:00",
+  "LastUpdate_Achievements": "2023-11-14T22:09:10.7742251+00:00"
 }

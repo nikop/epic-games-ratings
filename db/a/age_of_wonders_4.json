@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -461,7 +461,7 @@
   ],
   "EOS_Progressed": 5391,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -7385,9 +7385,9 @@
       "ID": "40",
       "SetID": "3aa2279",
       "Name": "Intimidation Tactics",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 32
     },
     {
       "ID": "41",
@@ -7473,9 +7473,9 @@
       "ID": "46",
       "SetID": "7132754",
       "Name": "Tipping the Scales",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 27
     },
     {
       "ID": "47",
@@ -7608,8 +7608,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2023-11-13T00:02:54.8345136+00:00",
-  "LastChanged_Achievements": "2023-11-14T21:04:32.6411871+00:00",
+  "LastChanged_Achievements": "2023-11-14T22:04:44.4352323+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:46.4217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:57:37.363363+00:00",
-  "LastUpdate_Achievements": "2023-11-14T21:04:32.6412585+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:57:41.485771+00:00",
+  "LastUpdate_Achievements": "2023-11-14T22:04:44.4353202+00:00"
 }

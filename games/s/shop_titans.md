@@ -14,19 +14,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | It's Free Real Estate | 3.00% | ~4,195 |
 | Budding Merchant | 3.00% | ~4,195 |
 | Capitalism Ho! | 3.00% | ~4,195 |
-| The Daily Grind | 2.00% | ~2,796 |
-| One Easy Payment | 2.00% | ~2,796 |
-| Some Assembly Required | 2.00% | ~2,796 |
-| Bounty Hunters | 2.00% | ~2,796 |
-| Demand for Supplies | 2.00% | ~2,796 |
-| Flooding the Market | 2.00% | ~2,796 |
-| Where it Hurts | 2.00% | ~2,796 |
-| Another Satisfied Customer | 2.00% | ~2,796 |
-| Pretty Penny | 2.00% | ~2,796 |
-| One-Armed Bandit | 2.00% | ~2,796 |
-| Dungeon Imports | 2.00% | ~2,796 |
-| Through Repetition, Perfection | 2.00% | ~2,796 |
-| Own the Means of Production | 2.00% | ~2,796 |
+| The Daily Grind | 2.00% | ~2,797 |
+| One Easy Payment | 2.00% | ~2,797 |
+| Some Assembly Required | 2.00% | ~2,797 |
+| Bounty Hunters | 2.00% | ~2,797 |
+| Demand for Supplies | 2.00% | ~2,797 |
+| Flooding the Market | 2.00% | ~2,797 |
+| Where it Hurts | 2.00% | ~2,797 |
+| Another Satisfied Customer | 2.00% | ~2,797 |
+| Pretty Penny | 2.00% | ~2,797 |
+| One-Armed Bandit | 2.00% | ~2,797 |
+| Dungeon Imports | 2.00% | ~2,797 |
+| Through Repetition, Perfection | 2.00% | ~2,797 |
+| Own the Means of Production | 2.00% | ~2,797 |
 | On the Path to Greatness | 1.00% | ~1,398 |
 | Ascended | 1.00% | ~1,398 |
 | Tax not Included | 1.00% | ~1,398 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalist Camaraderie | 0.10% | ~140 |
 | To Hell and Back | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,824 (Ranked 79)  
+Progressed: 139,827 (Ranked 79)  
 Completed: 186 (0.13%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 186 (0.13%) (Ranked 264)
 | 2023-11-11 | 139,408 | 181 |
 | 2023-11-12 | 139,598 | 181 |
 | 2023-11-13 | 139,733 | 181 |
-| 2023-11-14 | 139,824 | 186 |
+| 2023-11-14 | 139,827 | 186 |
 ## Awards
 Max (Great for Beginners): 4,828  (Ranked 75)  
 Sum: 27,547 (Ranked 51)  

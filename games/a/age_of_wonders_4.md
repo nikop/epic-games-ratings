@@ -22,16 +22,16 @@ Rating: 4.61 (Ranked 385)
 | Chaos Surge | 0.70% | ~38 |
 | Spoils of War | 0.70% | ~38 |
 | Valley of Wonders | 0.60% | ~32 |
+| Intimidation Tactics | 0.60% | ~32 |
 | Digging for Treasure | 0.50% | ~27 |
 | My Final Form | 0.50% | ~27 |
 | Impenetrable Fortress | 0.50% | ~27 |
-| Intimidation Tactics | 0.50% | ~27 |
 | Here be Dragons | 0.50% | ~27 |
+| Tipping the Scales | 0.50% | ~27 |
 | Sehiran Oasis | 0.50% | ~27 |
 | Seal the Deal | 0.50% | ~27 |
 | Dawn of the Dread | 0.50% | ~27 |
 | Enchanted Archipelago | 0.40% | ~22 |
-| Tipping the Scales | 0.40% | ~22 |
 | Blood of the Dragon | 0.40% | ~22 |
 | Mighty Hoard | 0.40% | ~22 |
 | Prometheus Avenged | 0.40% | ~22 |

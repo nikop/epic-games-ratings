@@ -31,8 +31,8 @@
 | Surprise!! | 40.00% | ~48 |
 | Haemochromatosis | 39.00% | ~46 |
 | Make America Grate Again | 34.00% | ~40 |
+| Karaoke king | 34.00% | ~40 |
 | Pasta Bolognese | 34.00% | ~40 |
-| Karaoke king | 33.00% | ~39 |
 | You can't stop me, bro! | 33.00% | ~39 |
 | You are no match for me, Billy! | 32.00% | ~38 |
 | Catch the bus with me! | 32.00% | ~38 |
@@ -55,11 +55,11 @@
 | Ancient Ruins of Dirty Feet | 13.00% | ~15 |
 | Timber! | 10.00% | ~12 |
 | Free Of Chains | 10.00% | ~12 |
+| Spoiler alert! | 9.00% | ~11 |
+| I drink, but I'm not a drunk! | 9.00% | ~11 |
 | Grumpy Immortal | 9.00% | ~11 |
-| Spoiler alert! | 8.00% | ~10 |
 | Ancient Ruins of Moist Overhangs | 8.00% | ~10 |
 | I want to throw up! | 8.00% | ~10 |
-| I drink, but I'm not a drunk! | 8.00% | ~10 |
 | Scrambled Eggs | 8.00% | ~10 |
 | My name is Whoopass, SIR Whoopass! | 7.00% | ~8 |
 | Ancient Ruins of Stubbed Toes | 5.00% | ~6 |

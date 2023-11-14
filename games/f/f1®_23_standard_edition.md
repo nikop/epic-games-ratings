@@ -5,43 +5,43 @@ Rating: 4.68 (Ranked 252)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,329 |
-| On the Top Step | 87.00% | ~4,985 |
-| Setting up for Success | 76.00% | ~4,355 |
-| Team Orders | 74.00% | ~4,240 |
-| Engineer | 54.00% | ~3,094 |
-| Familiar Faces | 47.00% | ~2,693 |
-| Sharing the Love | 41.00% | ~2,349 |
-| Going the Extra Mile | 41.00% | ~2,349 |
-| Hitting a Season | 35.00% | ~2,005 |
-| A Dozen Pieces | 31.00% | ~1,776 |
-| Challenge Yourself | 31.00% | ~1,776 |
-| Making History | 31.00% | ~1,776 |
-| Network Success | 25.00% | ~1,432 |
-| Writing a new Chapter | 24.00% | ~1,375 |
+| Getting on the Step | 93.00% | ~5,331 |
+| On the Top Step | 87.00% | ~4,987 |
+| Setting up for Success | 76.00% | ~4,356 |
+| Team Orders | 74.00% | ~4,242 |
+| Engineer | 54.00% | ~3,095 |
+| Familiar Faces | 47.00% | ~2,694 |
+| Sharing the Love | 41.00% | ~2,350 |
+| Going the Extra Mile | 41.00% | ~2,350 |
+| Hitting a Season | 35.00% | ~2,006 |
+| A Dozen Pieces | 31.00% | ~1,777 |
+| Challenge Yourself | 31.00% | ~1,777 |
+| Making History | 30.00% | ~1,720 |
+| Network Success | 25.00% | ~1,433 |
+| Writing a new Chapter | 24.00% | ~1,376 |
 | Spring Cleaning | 23.00% | ~1,318 |
 | Reduce | 19.00% | ~1,089 |
 | Ups and Downs | 19.00% | ~1,089 |
-| Crucial Combo | 18.00% | ~1,031 |
+| Crucial Combo | 18.00% | ~1,032 |
 | Reuse | 16.00% | ~917 |
 | Proving Them Wrong | 16.00% | ~917 |
 | Gathering Dust | 15.00% | ~860 |
 | One for the Book | 15.00% | ~860 |
 | Oil and Water | 13.00% | ~745 |
+| Hitting a Bullseye | 13.00% | ~745 |
 | Eagle Eye | 12.00% | ~688 |
 | Lightning Round the World | 12.00% | ~688 |
-| Hitting a Bullseye | 12.00% | ~688 |
 | Switcheroo | 12.00% | ~688 |
 | Spinning Around | 12.00% | ~688 |
-| All in a Weekend's Work | 11.00% | ~630 |
-| Friendly Competition | 11.00% | ~630 |
-| Recycle | 11.00% | ~630 |
+| All in a Weekend's Work | 11.00% | ~631 |
+| Friendly Competition | 11.00% | ~631 |
+| Recycle | 11.00% | ~631 |
 | Tinkerer | 9.00% | ~516 |
-| Undisputed Winner | 8.00% | ~458 |
+| Undisputed Winner | 8.00% | ~459 |
 | For all Those Back at the Factory | 6.00% | ~344 |
 | Living up to Expectations | 6.00% | ~344 |
 | Smooth Operator | 6.00% | ~344 |
-| Peak Performance | 5.00% | ~286 |
+| Peak Performance | 5.00% | ~287 |
 | Loyal Bond | 4.00% | ~229 |
 | Seasoned Rookie | 3.00% | ~172 |
 | Hitting a Century | 3.00% | ~172 |
@@ -55,7 +55,7 @@ Rating: 4.68 (Ranked 252)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,730 (Ranked 181)  
+Progressed: 5,732 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,14 +117,14 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-11 | 5,656 | 0 |
 | 2023-11-12 | 5,698 | 0 |
 | 2023-11-13 | 5,713 | 0 |
-| 2023-11-14 | 5,730 | 0 |
+| 2023-11-14 | 5,732 | 0 |
 ## Awards
-Max (Great for Beginners): 28  (Ranked 501)  
-Sum: 48 (Ranked 483)  
-Diff (max vs sum): 18  
+Max (Great for Beginners): 31  (Ranked 490)  
+Sum: 51 (Ranked 478)  
+Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 28 |
+| This game is Great for Beginners | 31 |
 | This game is Great for Quick Sessions | 24 |
 | This game is Highly Recommended | 20 |
 ## Ratings History
@@ -197,4 +197,4 @@ Diff (max vs sum): 18
 | 2023-11-11 | 4.69 | 27 | 71 |
 | 2023-11-12 | 4.69 | 28 | 72 |
 | 2023-11-13 | 4.69 | 28 | 48 |
-| 2023-11-14 | 4.68 | 28 | 48 |
+| 2023-11-14 | 4.68 | 31 | 51 |

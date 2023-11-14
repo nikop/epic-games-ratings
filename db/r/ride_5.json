@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2139,
+  "EOS_Progressed": 2140,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4877,6 +4877,11 @@
       "Time": "2023-11-14T20:09:58.2432705+00:00",
       "NumProgressed": 2139,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T22:09:29.1444782+00:00",
+      "NumProgressed": 2140,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -4897,7 +4902,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -4921,7 +4926,7 @@
       "Name": "Restored and Ready",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -4945,7 +4950,7 @@
       "Name": "I Want One Too!",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 406
+      "UsersEstimate": 407
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -5185,7 +5190,7 @@
       "Name": "Eat My Dust",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -5241,7 +5246,7 @@
       "Name": "Rivals to the End",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -5280,14 +5285,14 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 2139,
+      "Progressed": 2140,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-24T17:02:10.784953+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
-  "LastChanged_Achievements": "2023-11-14T21:09:12.9259641+00:00",
+  "LastChanged_Achievements": "2023-11-14T22:09:29.1444777+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:14.1492208+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:00:03.7204134+00:00",
-  "LastUpdate_Achievements": "2023-11-14T21:09:12.9260104+00:00"
+  "LastUpdate_Ratings": "2023-11-14T22:00:10.1728764+00:00",
+  "LastUpdate_Achievements": "2023-11-14T22:09:29.1445501+00:00"
 }

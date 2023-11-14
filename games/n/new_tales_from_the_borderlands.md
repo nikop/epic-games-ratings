@@ -13,7 +13,7 @@ Rating: 4.08 (Ranked 966)
 | From Zeroes... | 29.00% | ~1,072 |
 | Tale in the Toilet | 29.00% | ~1,072 |
 | Don't Get Cocky | 27.00% | ~998 |
-| Shard Snatchers | 24.00% | ~887 |
+| Shard Snatchers | 25.00% | ~924 |
 | You Rich Now! | 23.00% | ~850 |
 | Our Lucky Winner | 21.00% | ~776 |
 | You Poor Now! | 21.00% | ~776 |

@@ -9,7 +9,7 @@
 | Commencing of Quests | 77.00% | ~219 |
 | Budding Conjuror | 76.00% | ~216 |
 | Man-Machine Master | 67.00% | ~190 |
-| Mountain Splitter | 65.00% | ~185 |
+| Mountain Splitter | 66.00% | ~187 |
 | Fusion Conjuror | 64.00% | ~182 |
 | Memory Rouser | 64.00% | ~182 |
 | Charmed by the Hunt | 64.00% | ~182 |
@@ -27,8 +27,8 @@
 | Fair Means or Foul | 41.00% | ~116 |
 | Single Minded | 40.00% | ~114 |
 | Snare Specialist | 40.00% | ~114 |
-| Kemono at Heart | 38.00% | ~108 |
-| Karakuri Trail | 37.00% | ~105 |
+| Kemono at Heart | 39.00% | ~111 |
+| Karakuri Trail | 38.00% | ~108 |
 | Artful Assister | 35.00% | ~99 |
 | Team Hunter | 34.00% | ~97 |
 | Reincarnation Cycle Stopper | 32.00% | ~91 |

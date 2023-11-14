@@ -15164,9 +15164,9 @@
       "Count": 12936
     }
   ],
-  "EOS_Progressed": 896710,
+  "EOS_Progressed": 896712,
   "EOS_Completed": 2778,
-  "EOS_NewPlayers": 1006,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -38774,6 +38774,11 @@
       "Time": "2023-11-14T21:05:32.6731935+00:00",
       "NumProgressed": 896710,
       "NumCompleted": 2778
+    },
+    {
+      "Time": "2023-11-14T22:05:45.8110293+00:00",
+      "NumProgressed": 896712,
+      "NumCompleted": 2778
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -39048,9 +39053,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 3587
+      "UsersEstimate": 4484
     },
     {
       "ID": "TheWorld",
@@ -39321,21 +39326,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 896710,
+      "Progressed": 896712,
       "Completed": 2778
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 25333,
+      "Progressed": 25335,
       "Completed": 10223
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2023-11-14T18:01:18.6323094+00:00",
-  "LastChanged_Achievements": "2023-11-14T21:05:32.673193+00:00",
+  "LastChanged_Achievements": "2023-11-14T22:05:45.8110289+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.0379798+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:59:53.2728053+00:00",
-  "LastUpdate_Achievements": "2023-11-14T21:05:32.6733266+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:59:59.8123625+00:00",
+  "LastUpdate_Achievements": "2023-11-14T22:05:45.8112013+00:00"
 }

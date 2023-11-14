@@ -22,9 +22,9 @@ Rating: 4.67 (Ranked 271)
 | Back In The Saddle | 47.00% | ~380 |
 | No Man Is An Island | 47.00% | ~380 |
 | At Wits' End | 47.00% | ~380 |
+| Up In Flames | 45.00% | ~364 |
 | Fhtagn! | 45.00% | ~364 |
 | Bookworm | 44.00% | ~356 |
-| Up In Flames | 44.00% | ~356 |
 | Going Once... | 41.00% | ~332 |
 | Let Me Be Frank | 39.00% | ~316 |
 | No Stone Unturned | 37.00% | ~299 |
@@ -34,7 +34,7 @@ Rating: 4.67 (Ranked 271)
 | Big Breakthrough | 13.00% | ~105 |
 | Reawakened | 4.00% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 809 (Ranked 266)  
+Progressed: 809 (Ranked 267)  
 Completed: 27 (3.34%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,8 +4,8 @@
   "ProductSlug": "ungate-df09c8",
   "Ranking_EOS_Progress": 744,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 446,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-11T21:00:00+00:00",
     "PcReleaseDate": "2023-05-11T21:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2023-11-11T19:57:41.816417+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:59:10.0926411+00:00",
-  "LastUpdate_Achievements": "2023-11-14T21:03:09.0635743+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:59:16.2627274+00:00",
+  "LastUpdate_Achievements": "2023-11-14T22:03:17.0465204+00:00"
 }

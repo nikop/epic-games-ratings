@@ -5,40 +5,40 @@ Rating: 4.50 (Ranked 588)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~7,896 |
-| For Saw Gerrera | 98.00% | ~7,816 |
-| Grab Some Seat | 91.00% | ~7,258 |
-| Can You Pet the Bogling? | 86.00% | ~6,859 |
-| The Past Made Present | 82.00% | ~6,540 |
-| Survivors, We Adapt | 78.00% | ~6,221 |
+| Rooftop Duel | 99.00% | ~7,897 |
+| For Saw Gerrera | 98.00% | ~7,817 |
+| Grab Some Seat | 91.00% | ~7,259 |
+| Can You Pet the Bogling? | 86.00% | ~6,860 |
+| The Past Made Present | 82.00% | ~6,541 |
+| Survivors, We Adapt | 78.00% | ~6,222 |
 | Among the Masters | 77.00% | ~6,142 |
-| They Never Saw It Coming | 76.00% | ~6,062 |
+| They Never Saw It Coming | 76.00% | ~6,063 |
 | Who Gives a Puck | 72.00% | ~5,743 |
 | Mirror Match | 64.00% | ~5,105 |
 | For the Path | 64.00% | ~5,105 |
-| Now, This Isn't Podracing | 63.00% | ~5,025 |
+| Now, This Isn't Podracing | 63.00% | ~5,026 |
 | Skywalker | 60.00% | ~4,786 |
 | Out of Bedlam | 60.00% | ~4,786 |
-| Cleaning Up | 53.00% | ~4,227 |
+| Cleaning Up | 53.00% | ~4,228 |
 | Tanalorr Bound | 52.00% | ~4,148 |
 | Kitted Out | 51.00% | ~4,068 |
-| Tragedy | 49.00% | ~3,908 |
-| Hey, Luke At Us | 49.00% | ~3,908 |
+| Tragedy | 49.00% | ~3,909 |
+| Hey, Luke At Us | 49.00% | ~3,909 |
 | At the Precipice | 47.00% | ~3,749 |
 | Into the Abyss | 46.00% | ~3,669 |
-| Riposte | 45.00% | ~3,589 |
-| A Place You Could Call Home | 44.00% | ~3,509 |
+| Riposte | 46.00% | ~3,669 |
+| A Place You Could Call Home | 44.00% | ~3,510 |
 | Greezy Money | 43.00% | ~3,430 |
-| Catch! | 40.00% | ~3,190 |
+| Catch! | 40.00% | ~3,191 |
 | They're Probably Fine | 39.00% | ~3,111 |
 | Han Slowlo | 37.00% | ~2,951 |
-| There Is No Try | 36.00% | ~2,871 |
+| There Is No Try | 36.00% | ~2,872 |
 | The Jedi Path | 31.00% | ~2,473 |
-| This Is Canon | 28.00% | ~2,233 |
+| This Is Canon | 28.00% | ~2,234 |
 | It's a Trap | 26.00% | ~2,074 |
 | You've Got A Friend | 22.00% | ~1,755 |
 | King of the World | 16.00% | ~1,276 |
-| Reconnaissance | 15.00% | ~1,196 |
+| Reconnaissance | 15.00% | ~1,197 |
 | Max Capacity | 14.00% | ~1,117 |
 | A Presence I've Not Felt Since... | 14.00% | ~1,117 |
 | Slam Dunk | 12.00% | ~957 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 588)
 | Blood, Sweat, and Tears | 3.00% | ~239 |
 | Pinpoint | 2.00% | ~160 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,976 (Ranked 168)  
+Progressed: 7,977 (Ranked 168)  
 Completed: 44 (0.55%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,10 +118,10 @@ Completed: 44 (0.55%) (Ranked 190)
 | 2023-11-11 | 7,731 | 42 |
 | 2023-11-12 | 7,858 | 42 |
 | 2023-11-13 | 7,935 | 42 |
-| 2023-11-14 | 7,976 | 44 |
+| 2023-11-14 | 7,977 | 44 |
 ## Awards
 Max (Great Boss Battles): 3,211  (Ranked 95)  
-Sum: 4,897 (Ranked 140)  
+Sum: 4,898 (Ranked 140)  
 Diff (max vs sum): -45  
 | Award | Count |
 | ----- | ----- |
@@ -131,7 +131,7 @@ Diff (max vs sum): -45
 | This game has Amazing Characters | 202 |
 | This game has Diverse Characters | 198 |
 | This game is Relaxing | 189 |
-| This game is Highly Recommended | 186 |
+| This game is Highly Recommended | 187 |
 | This game is Extremely Fun | 182 |
 | This game has Challenging Combat | 176 |
 | This game has a Creative Community | 125 |
@@ -336,4 +336,4 @@ Diff (max vs sum): -45
 | 2023-11-11 | 4.50 | 3,183 | 4,845 |
 | 2023-11-12 | 4.50 | 3,200 | 4,869 |
 | 2023-11-13 | 4.50 | 3,200 | 4,880 |
-| 2023-11-14 | 4.50 | 3,211 | 4,897 |
+| 2023-11-14 | 4.50 | 3,211 | 4,898 |

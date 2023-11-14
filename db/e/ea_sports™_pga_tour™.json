@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -1851,9 +1851,9 @@
       "ID": "achievement_11",
       "SetID": "7ldgi7j",
       "Name": "Bomb\u0027s Away",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 261
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_12",
@@ -1985,8 +1985,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2023-11-14T21:08:37.4685674+00:00",
+  "LastChanged_Achievements": "2023-11-14T22:08:51.5501719+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:16.271819+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:58:39.2151942+00:00",
-  "LastUpdate_Achievements": "2023-11-14T21:08:37.468586+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:58:43.9225865+00:00",
+  "LastUpdate_Achievements": "2023-11-14T22:08:51.5501953+00:00"
 }

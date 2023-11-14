@@ -48,6 +48,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | A Golden Empire | 0.10% | ~456 |
 | That's a Grand Army | 0.10% | ~456 |
 | Grand Coalition | 0.10% | ~456 |
+| Grand Duchy | 0.10% | ~456 |
 | That's a Grand Navy | 0.10% | ~456 |
 | Hard Bargaining | 0.10% | ~456 |
 | Imperio español | 0.10% | ~456 |
@@ -75,6 +76,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Conquest | 0.10% | ~456 |
 | Respected | 0.10% | ~456 |
 | Royal Authority | 0.10% | ~456 |
+| Ruina Imperii | 0.10% | ~456 |
 | Sakoku Law | 0.10% | ~456 |
 | Seriously?! | 0.10% | ~456 |
 | Shahanshah | 0.10% | ~456 |
@@ -93,6 +95,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Three Trivial Tributary Tribes | 0.10% | ~456 |
 | Time Bandit | 0.10% | ~456 |
 | Total Control | 0.10% | ~456 |
+| Trade Hegemon | 0.10% | ~456 |
 | Traditional Player | 0.10% | ~456 |
 | Trophy Hunter | 0.10% | ~456 |
 | True Catholic | 0.10% | ~456 |
@@ -193,7 +196,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Golden Wind | 0.00% | ~0 |
 | Good King Renee | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
-| Grand Duchy | 0.00% | ~0 |
 | I'll graze my horse here.. And here… | 0.00% | ~0 |
 | Great Moravia | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
@@ -285,7 +287,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Relentless Push East | 0.00% | ~0 |
 | Rise of the White Sheep | 0.00% | ~0 |
 | Rozwi Empire | 0.00% | ~0 |
-| Ruina Imperii | 0.00% | ~0 |
 | Sailor Mon | 0.00% | ~0 |
 | Saladins Legacy | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
@@ -341,7 +342,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | This Revolution Was Crushed | 0.00% | ~0 |
 | Tiger of Mysore | 0.00% | ~0 |
 | To the Bone | 0.00% | ~0 |
-| Trade Hegemon | 0.00% | ~0 |
 | Triple the Rome | 0.00% | ~0 |
 | True Heir of Timur | 0.00% | ~0 |
 | Turkish Delight | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.00% | ~0 |
 | The Zoro-Austrians | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,706 (Ranked 41)  
+Progressed: 455,743 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,7 +578,7 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,706 | 1 |
+| 2023-11-14 | 455,743 | 1 |
 ## Awards
 Max (Educational): 6,999  (Ranked 55)  
 Sum: 57,546 (Ranked 24)  

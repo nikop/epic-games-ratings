@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -301,9 +301,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1708,
+  "EOS_Progressed": 1709,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4206,6 +4206,11 @@
       "Time": "2023-11-14T20:04:35.4872733+00:00",
       "NumProgressed": 1708,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T22:04:05.1446888+00:00",
+      "NumProgressed": 1709,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -4289,7 +4294,7 @@
       "Name": "The Collector",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "ACHIEVEMENT_ZERO_WASTE",
@@ -4297,7 +4302,7 @@
       "Name": "Zero Waste",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "NEW_ACHIEVEMENT_5G_NETWORK",
@@ -4377,7 +4382,7 @@
       "Name": "DeDust",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "NEW_ACHIEVEMENT_DUMB_WAYS",
@@ -4433,7 +4438,7 @@
       "Name": "I am the greatest botanist on this planet.",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -4449,7 +4454,7 @@
       "Name": "ITS crash site",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "NEW_ACHIEVEMENT_KOROLEV",
@@ -4473,7 +4478,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -4489,7 +4494,7 @@
       "Name": "Occupy Mars!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
@@ -4577,7 +4582,7 @@
       "Name": "Bob The Builder",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "NEW_ACHIEVEMENT_THUNDERSTRUCK",
@@ -4600,7 +4605,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1708,
+      "Progressed": 1709,
       "Completed": 0
     }
   ],
@@ -4608,8 +4613,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2023-11-14T15:58:19.7440127+00:00",
-  "LastChanged_Achievements": "2023-11-14T21:03:54.4038746+00:00",
+  "LastChanged_Achievements": "2023-11-14T22:04:05.1446883+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9996626+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:57:59.6379369+00:00",
-  "LastUpdate_Achievements": "2023-11-14T21:03:54.4039195+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:58:03.3015767+00:00",
+  "LastUpdate_Achievements": "2023-11-14T22:04:05.1447532+00:00"
 }

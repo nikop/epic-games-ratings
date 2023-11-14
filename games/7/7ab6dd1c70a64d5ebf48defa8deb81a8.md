@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Fashion Victim | 2.00% | ~4 |
 | Powerful Allies | 1.00% | ~2 |
 | Calm before the Storm | 1.00% | ~2 |
 | Clear Sight | 1.00% | ~2 |
 | Fine Feathers Make Fine Birds | 1.00% | ~2 |
-| Fashion Victim | 1.00% | ~2 |
 | Scholar | 1.00% | ~2 |
 | I Found It | 1.00% | ~2 |
 | Summiter | 1.00% | ~2 |

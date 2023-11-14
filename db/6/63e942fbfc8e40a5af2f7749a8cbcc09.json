@@ -4,8 +4,8 @@
   "ProductSlug": "last-labyrinth-5aed27",
   "Ranking_EOS_Progress": 548,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 395,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-06-21T04:00:00+00:00",
     "PcReleaseDate": "2019-11-12T15:00:00+00:00",
@@ -176,17 +176,17 @@
       "ID": "ClearC02",
       "SetID": "94lmepd",
       "Name": "Strength",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ClearC02END",
       "SetID": "94lmepd",
       "Name": "Judgement",
-      "Percentage": 22,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ClearD01",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-09-11T06:01:10.0585097+00:00",
   "FirstSeenAchievements": "2023-05-25T04:01:22.7183097+00:00",
-  "LastChanged_Achievements": "2023-11-14T21:05:34.607854+00:00",
+  "LastChanged_Achievements": "2023-11-14T22:05:47.8496417+00:00",
   "LastUpdate_AppInfo": "2023-11-09T15:57:30.1047213+00:00",
-  "LastUpdate_Ratings": "2023-11-14T20:59:47.5683321+00:00",
-  "LastUpdate_Achievements": "2023-11-14T21:05:34.6078729+00:00"
+  "LastUpdate_Ratings": "2023-11-14T21:59:53.7870173+00:00",
+  "LastUpdate_Achievements": "2023-11-14T22:05:47.8496695+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 281,
   "Ranking_EOS_NewPlayers": 170,
-  "Ranking_EOS_NewCompleters": 128,
+  "Ranking_EOS_NewCompleters": 127,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1061,
+  "EOS_Progressed": 1062,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -2122,6 +2122,11 @@
       "Time": "2023-11-14T21:04:24.0015582+00:00",
       "NumProgressed": 1061,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2023-11-14T22:04:35.6361394+00:00",
+      "NumProgressed": 1062,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -2150,7 +2155,7 @@
       "Name": "Out of control",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -2294,7 +2299,7 @@
       "Name": "I\u0027m in charge here!",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ML_ACHIEVEMENT_22",
@@ -2310,7 +2315,7 @@
       "Name": "The Scorpion",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -2388,9 +2393,9 @@
       "ID": "ML_ACHIEVEMENT_33",
       "SetID": "5k00jcd",
       "Name": "Spin the wheel",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 478
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -2398,7 +2403,7 @@
       "Name": "Beyond the limit",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -2406,15 +2411,15 @@
       "Name": "Extra gear",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 202
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -2444,9 +2449,9 @@
       "ID": "ML_ACHIEVEMENT_40",
       "SetID": "5k00jcd",
       "Name": "A little nest egg",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 64
     },
     {
       "ID": "ML_ACHIEVEMENT_41",
@@ -2477,20 +2482,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1061,
+      "Progressed": 1062,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 729,
-      "Completed": 729
+      "Progressed": 730,
+      "Completed": 730
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2023-11-14T21:04:24.0015578+00:00",
+  "LastChanged_Achievements": "2023-11-14T22:04:35.6361389+00:00",
   "LastUpdate_AppInfo": "2023-11-09T02:15:40.8185888+00:00",
-  "LastUpdate_Ratings": "2023-11-14T21:02:26.9843858+00:00",
-  "LastUpdate_Achievements": "2023-11-14T21:04:24.0015998+00:00"
+  "LastUpdate_Ratings": "2023-11-14T22:00:22.2835415+00:00",
+  "LastUpdate_Achievements": "2023-11-14T22:04:35.6361847+00:00"
 }
