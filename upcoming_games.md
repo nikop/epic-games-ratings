@@ -1,6 +1,5 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
-| [Broken Roads](games/b/broken_roads.md) | 2023-11-14 | - |  | - | - |
 | [Fish](games/6/6c291b93c3314ae8b2c78c8ddbf3965d.md) | 2023-11-14 | - |  | - | - |
 | [UFO ROBOT GRENDIZER - The Feast of the Wolves](games/u/ufo_robot_grendizer_-_the_feast_of_the_wolves.md) | 2023-11-14 | 30 (1,000 XP) | 0 | - | - |
 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 2023-11-14 | 35 (1,000 XP) | 0 | - | - |
@@ -16,7 +15,7 @@
 | [Oxygen Cocktail](games/b/be46e9830cad476eb46085098aee4afb.md) | 2023-11-16 | - |  | - | - |
 | [Null Gravity Labyrinth](games/a/ab974cbcdfcc4f77be50a10c10f988e5.md) | 2023-11-17 | - |  | - | - |
 | [Flunky Farm](games/3/389061e1584946a58872a5ca03d08443.md) | 2023-11-17 | - |  | - | - |
-| [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 55 | - | - |
+| [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 2023-11-17 | 37 (1,000 XP) | 56 | - | - |
 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 2023-11-17 | 6 (1,000 XP) | 7 | - | - |
 | [Cooking Trip New Challenge. Collector's Edition](games/e/eb5c6704ff734d0cad7717cddb28cae0.md) | 2023-11-17 | - |  | - | - |
 | [Aron's Adventure: Magic Reborn](games/9/9b5a9569674e4d08afe18dc20a697e0e.md) | 2023-11-20 | 31 (1,000 XP) | 2 | - | - |
@@ -27,7 +26,7 @@
 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 2023-11-28 | - |  | - | - |
 | [Robocraft 2](games/2/2b5294e26e714e0f8647b6b4b135f34e.md) | 2023-11-28 | - |  | - | - |
 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2023-11-28 | 12 (1,000 XP) | 11 | - | - |
-| [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 2023-11-28 | 16 (1,000 XP) | 2 | - | - |
+| [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 2023-11-29 | 16 (1,000 XP) | 2 | - | - |
 | [Bird of Paradise](games/a/aec7c489305f4286bd879cc5bd073fe4.md) | 2023-11-30 | - |  | - | - |
 | [Cats on Duty](games/2/2819d0278f1b4fe7bcf06b783950f64d.md) | 2023-11-30 | - |  | - | - |
 | [Champions Ascension](games/a/a3499df604cc40488fdba44d01acd1fd.md) | 2023-11-30 | - |  | - | - |
@@ -150,7 +149,7 @@
 | [Elders Grace - Unchained](games/d/d975114b43134558aa8413af2a0918c6.md) | 2024-06-30 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
-| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 284,942 | - | - |
+| [Mini Royale](games/f/fd952b46a2ad411f8277811e3d9ce98f.md) | 2024-06-30 | 31 (1,000 XP) | 284,978 | - | - |
 | [Monospaced Lovers](games/e/e73367d384634d11975effc86569bc47.md) | 2024-06-30 | - |  | - | - |
 | [RIO-X](games/1/161438634d53430a8690a3bb10b20333.md) | 2024-06-30 | - |  | - | - |
 | [Rise of the Robots X - Early access](games/d/d065c8442524400dac2e0e9674a68732.md) | 2024-06-30 | - |  | - | - |
@@ -366,7 +365,7 @@
 | [New Arc Line](games/8/8d86c6965e66438d89f062a09a273782.md) | 2099-01-01 | - |  | - | - |
 | [Nifty Island](games/9/95afff33bcc840f99fdfb7f2a387c855.md) | 2099-01-01 | - |  | - | - |
 | [No More Room in Hell 2](games/n/no_more_room_in_hell_2.md) | 2099-01-01 | - |  | - | - |
-| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 182 | - | - |
+| [Noch](games/7/7eaefaa491c24dfab7520e3ddd24f5ad.md) | 2099-01-01 | 44 (1,000 XP) | 183 | - | - |
 | [Nova Assault](games/b/burnout.md) | 2099-01-01 | - |  | - | - |
 | [Ocean's Heart](games/a/ab65f37619d340748fafdccfead657f1.md) | 2099-01-01 | - |  | - | - |
 | [Oddsparks: An Automation Adventure](games/7/77c83b36cd1047f7aceeef2e5f84ab85.md) | 2099-01-01 | - |  | - | - |
