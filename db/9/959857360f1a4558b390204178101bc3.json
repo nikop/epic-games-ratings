@@ -2,10 +2,10 @@
   "ID": "959857360f1a4558b390204178101bc3",
   "Name": "Cave Digger 2",
   "ProductSlug": "cave-digger-2-4f2a94",
-  "Ranking_EOS_Progress": 641,
+  "Ranking_EOS_Progress": 630,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2023-11-13T14:05:32.3915707+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T08:05:36.1134624+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -245,13 +250,13 @@
     {
       "ID": "80p8koc",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-09-03T14:03:12.6851297+00:00",
-  "LastChanged_Achievements": "2023-11-14T07:06:59.0673432+00:00",
+  "LastChanged_Achievements": "2023-11-14T08:05:36.1134622+00:00",
   "LastUpdate_AppInfo": "2023-11-12T17:57:22.5907529+00:00",
-  "LastUpdate_Ratings": "2023-11-14T07:02:48.7682225+00:00",
-  "LastUpdate_Achievements": "2023-11-14T07:06:59.0673564+00:00"
+  "LastUpdate_Ratings": "2023-11-14T08:02:35.5100073+00:00",
+  "LastUpdate_Achievements": "2023-11-14T08:05:36.1134749+00:00"
 }

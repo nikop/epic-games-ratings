@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 76.00% | ~521 |
+| Feels Familiar | 77.00% | ~527 |
 | I Broke It | 73.00% | ~500 |
 | Better On Ice | 70.00% | ~479 |
 | Blue Dreams | 69.00% | ~473 |
@@ -18,13 +18,13 @@
 | Iceborn | 57.00% | ~390 |
 | Tear of Freedom | 53.00% | ~363 |
 | Boom Things | 53.00% | ~363 |
-| My Darkest Day | 49.00% | ~336 |
+| My Darkest Day | 50.00% | ~342 |
 | Rhythm Of Willump | 47.00% | ~322 |
 | The Relentless Storm | 46.00% | ~315 |
 | A Tragic Reminder | 44.00% | ~301 |
 | 3000 Year Blackout | 43.00% | ~295 |
+| The Finisher | 42.00% | ~288 |
 | True Legends | 41.00% | ~281 |
-| The Finisher | 41.00% | ~281 |
 | So Close | 39.00% | ~267 |
 | You Get Used To It | 39.00% | ~267 |
 | Family | 36.00% | ~247 |

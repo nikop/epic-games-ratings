@@ -1,7 +1,7 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.61 (Ranked 384)  
+Rating: 4.61 (Ranked 385)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -36,10 +36,10 @@ Rating: 4.61 (Ranked 384)
 | Prometheus Avenged | 0.40% | ~22 |
 | Seal the Deal | 0.40% | ~22 |
 | A Conqueror's Cohort | 0.40% | ~22 |
+| Return of the Wizard King | 0.30% | ~16 |
 | The Creator | 0.30% | ~16 |
 | Preparation Is Everything | 0.30% | ~16 |
 | I've Got Everything I Need Right Here | 0.20% | ~11 |
-| Return of the Wizard King | 0.20% | ~11 |
 | Lord of Chaos | 0.20% | ~11 |
 | Arch Mage | 0.20% | ~11 |
 | Crimson Caldera | 0.20% | ~11 |

@@ -1,7 +1,7 @@
 # RoboCop: Rogue City
 [Store](https://store.epicgames.com/en-US/p/robocop-rogue-city)  
 [View Rawdata](../../db/r/robocop__rogue_city.json)  
-Rating: 4.41 (Ranked 720)  
+Rating: 4.39 (Ranked 748)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,7 +33,7 @@ Rating: 4.41 (Ranked 720)
 | Good eyes, Murphy! | 0.00% | ~0 |
 | Practice Makes Perfect | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675 (Ranked 279)  
+Progressed: 677 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-11 | 576 | 0 |
 | 2023-11-12 | 646 | 0 |
 | 2023-11-13 | 670 | 0 |
-| 2023-11-14 | 675 | 0 |
+| 2023-11-14 | 677 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -59,3 +59,4 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-09 | 4.29 | 0 | 0 |
 | 2023-11-10 | 4.43 | 0 | 0 |
 | 2023-11-13 | 4.41 | 0 | 0 |
+| 2023-11-14 | 4.39 | 0 | 0 |

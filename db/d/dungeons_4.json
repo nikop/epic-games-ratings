@@ -648,17 +648,17 @@
       "ID": "ach_main10fire_completed",
       "SetID": "4hg22ll",
       "Name": "The Cathedral of Light",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "ach_main10fire_freehorde",
       "SetID": "4hg22ll",
       "Name": "Unstoppable Horde",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "ach_main10fire_naga",
@@ -919,8 +919,8 @@
   ],
   "FirstSeen": "2023-11-09T21:57:54.4393986+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
-  "LastChanged_Achievements": "2023-11-14T07:05:05.3878672+00:00",
+  "LastChanged_Achievements": "2023-11-14T08:04:11.6855183+00:00",
   "LastUpdate_AppInfo": "2023-11-11T15:57:15.7433513+00:00",
-  "LastUpdate_Ratings": "2023-11-14T07:00:27.8518928+00:00",
-  "LastUpdate_Achievements": "2023-11-14T07:05:05.3879071+00:00"
+  "LastUpdate_Ratings": "2023-11-14T07:59:03.4982125+00:00",
+  "LastUpdate_Achievements": "2023-11-14T08:04:11.6855549+00:00"
 }

@@ -1,26 +1,26 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 565)  
+Rating: 4.51 (Ranked 566)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~164,706 |
-| FIRST BLOOD | 40.00% | ~146,405 |
-| KEVIN! | 30.00% | ~109,804 |
-| JACK OF ALL TRADES | 23.00% | ~84,183 |
-| CRIMINAL | 20.00% | ~73,203 |
-| GRANDMA WOULD BE PROUD | 11.00% | ~40,261 |
-| WITHOUT BREAKING A SWEAT | 9.00% | ~32,941 |
-| HONORS STUDENT | 8.00% | ~29,281 |
-| BUTCHER | 6.00% | ~21,961 |
-| INDIVIDUAL APPROACH | 5.00% | ~18,301 |
-| RAMBO | 5.00% | ~18,301 |
+| MASTER CHEF | 45.00% | ~164,714 |
+| FIRST BLOOD | 40.00% | ~146,412 |
+| KEVIN! | 30.00% | ~109,809 |
+| JACK OF ALL TRADES | 23.00% | ~84,187 |
+| CRIMINAL | 20.00% | ~73,206 |
+| GRANDMA WOULD BE PROUD | 11.00% | ~40,263 |
+| WITHOUT BREAKING A SWEAT | 9.00% | ~32,943 |
+| HONORS STUDENT | 8.00% | ~29,282 |
+| BUTCHER | 6.00% | ~21,962 |
+| INDIVIDUAL APPROACH | 5.00% | ~18,302 |
+| RAMBO | 5.00% | ~18,302 |
 | HELL'S KITCHEN | 4.00% | ~14,641 |
-| CELEBRITY | 3.00% | ~10,980 |
-| MARTYR | 3.00% | ~10,980 |
-| GRATITUDE | 2.00% | ~7,320 |
-| PATTY-KILLER | 2.00% | ~7,320 |
+| CELEBRITY | 3.00% | ~10,981 |
+| MARTYR | 3.00% | ~10,981 |
+| GRATITUDE | 2.00% | ~7,321 |
+| PATTY-KILLER | 2.00% | ~7,321 |
 | EXPERIMENTALIST | 1.00% | ~3,660 |
 | GOURMET | 1.00% | ~3,660 |
 | LAW-ABIDING CITIZEN | 1.00% | ~3,660 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 565)
 | MISTER ALL THUMBS | 0.10% | ~366 |
 | TRAVELER | 0.10% | ~366 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 366,013 (Ranked 45)  
+Progressed: 366,031 (Ranked 45)  
 Completed: 36 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 36 (0.01%) (Ranked 329)
 | 2023-11-11 | 364,002 | 36 |
 | 2023-11-12 | 365,143 | 36 |
 | 2023-11-13 | 365,850 | 36 |
-| 2023-11-14 | 366,013 | 36 |
+| 2023-11-14 | 366,031 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

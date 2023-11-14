@@ -5,17 +5,17 @@ Rating: 4.60 (Ranked 411)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Azoria Beckons | 72.00% | ~5,590 |
-| A Thorny Situation | 71.00% | ~5,512 |
-| ... And Spit Back Out | 61.00% | ~4,736 |
-| Break-Net Speed | 49.00% | ~3,804 |
-| Bramble Breaker | 47.00% | ~3,649 |
+| Azoria Beckons | 72.00% | ~5,591 |
+| A Thorny Situation | 70.00% | ~5,436 |
+| ... And Spit Back Out | 61.00% | ~4,737 |
+| Break-Net Speed | 49.00% | ~3,805 |
+| Bramble Breaker | 47.00% | ~3,650 |
 | Miner 49er | 43.00% | ~3,339 |
 | Humble Collector | 42.00% | ~3,261 |
 | Calm Sailing | 37.00% | ~2,873 |
 | Open the Gate! | 34.00% | ~2,640 |
-| Mist Walker | 32.00% | ~2,484 |
-| Lumberjack | 27.00% | ~2,096 |
+| Mist Walker | 32.00% | ~2,485 |
+| Lumberjack | 27.00% | ~2,097 |
 | Oui, Chef! | 23.00% | ~1,786 |
 | Clear the Air | 19.00% | ~1,475 |
 | Botanical Breakthrough | 17.00% | ~1,320 |
@@ -27,7 +27,7 @@ Rating: 4.60 (Ranked 411)
 | Got to Catch Them All | 8.00% | ~621 |
 | Rumble in the Jumble | 8.00% | ~621 |
 | Fanatical Farmer | 8.00% | ~621 |
-| Fae Farmer | 7.00% | ~543 |
+| Fae Farmer | 7.00% | ~544 |
 | Scattered Scroll Scrounger | 6.00% | ~466 |
 | Azorian Anniversary | 6.00% | ~466 |
 | I Now Pronounce You... | 5.00% | ~388 |
@@ -41,7 +41,7 @@ Rating: 4.60 (Ranked 411)
 | Workaholic | 0.10% | ~8 |
 | Very Skilled | 0.10% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,764 (Ranked 170)  
+Progressed: 7,765 (Ranked 170)  
 Completed: 1 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -123,7 +123,7 @@ Completed: 1 (0.01%) (Ranked 329)
 | 2023-11-11 | 7,700 | 1 |
 | 2023-11-12 | 7,736 | 1 |
 | 2023-11-13 | 7,755 | 1 |
-| 2023-11-14 | 7,764 | 1 |
+| 2023-11-14 | 7,765 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

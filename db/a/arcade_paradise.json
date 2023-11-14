@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 397,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -93,9 +93,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 691,
+  "EOS_Progressed": 692,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -668,6 +668,11 @@
       "Time": "2023-11-13T13:09:26.9640101+00:00",
       "NumProgressed": 691,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T08:03:46.4619896+00:00",
+      "NumProgressed": 692,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -727,7 +732,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "AhoyTrophy",
@@ -767,7 +772,7 @@
       "Name": "Bombscare",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "BorkTrophy",
@@ -791,7 +796,7 @@
       "Name": "Rhythm is a dancer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "DebugTrophy",
@@ -823,7 +828,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "Ext4Trophy",
@@ -855,7 +860,7 @@
       "Name": "Machine Maxed",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "GoldGuyTrophy",
@@ -1039,7 +1044,7 @@
       "Name": "You Spin Me Round",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "SwishTrophy",
@@ -1047,7 +1052,7 @@
       "Name": "Swish",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "TerrorTrophy",
@@ -1079,7 +1084,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1110,7 +1115,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 691,
+      "Progressed": 692,
       "Completed": 0
     }
   ],
@@ -1118,8 +1123,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-10-15T06:02:18.0550602+00:00",
-  "LastChanged_Achievements": "2023-11-14T07:04:29.6840068+00:00",
+  "LastChanged_Achievements": "2023-11-14T08:03:46.4619894+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:36.5106113+00:00",
-  "LastUpdate_Ratings": "2023-11-14T06:59:49.1252591+00:00",
-  "LastUpdate_Achievements": "2023-11-14T07:04:29.6840783+00:00"
+  "LastUpdate_Ratings": "2023-11-14T07:58:37.9827751+00:00",
+  "LastUpdate_Achievements": "2023-11-14T08:03:46.4620236+00:00"
 }

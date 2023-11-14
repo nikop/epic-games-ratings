@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 467,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2022-09-22T20:00:00+00:00",
     "PcReleaseDate": "2022-09-22T20:00:00+00:00",
@@ -373,9 +373,9 @@
       "Count": 69
     }
   ],
-  "EOS_Progressed": 1641,
+  "EOS_Progressed": 1642,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -2358,6 +2358,11 @@
       "Time": "2023-11-12T23:06:30.9921829+00:00",
       "NumProgressed": 1641,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2023-11-14T08:03:00.3975753+00:00",
+      "NumProgressed": 1642,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 38,
@@ -2369,7 +2374,7 @@
       "Name": "Welcome to Moonbury",
       "Percentage": 98,
       "XP": 10,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "ACHIEVEMENTS_02",
@@ -2377,7 +2382,7 @@
       "Name": "Great Doctor",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "ACHIEVEMENTS_03",
@@ -2425,7 +2430,7 @@
       "Name": "The First Step",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 1460
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACHIEVEMENTS_09",
@@ -2457,7 +2462,7 @@
       "Name": "Amateur Chef",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "ACHIEVEMENTS_13",
@@ -2505,7 +2510,7 @@
       "Name": "Dog Whisperer",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "ACHIEVEMENTS_19",
@@ -2537,7 +2542,7 @@
       "Name": "The Capitalist",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "ACHIEVEMENTS_23",
@@ -2561,7 +2566,7 @@
       "Name": "Community Helper",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "ACHIEVEMENTS_26",
@@ -2617,7 +2622,7 @@
       "Name": "Adolescent Love",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENTS_33",
@@ -2657,7 +2662,7 @@
       "Name": "Mail Carrier",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACHIEVEMENTS_38",
@@ -2672,7 +2677,7 @@
     {
       "ID": "d4o538a",
       "IsBase": true,
-      "Progressed": 1641,
+      "Progressed": 1642,
       "Completed": 10
     }
   ],
@@ -2680,8 +2685,8 @@
   "FirstSeenRating": "2022-09-26T13:31:30.2639766+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:48.687556+00:00",
   "LastChanged": "2023-10-10T06:57:32.8973467+00:00",
-  "LastChanged_Achievements": "2023-11-14T07:03:25.6584391+00:00",
+  "LastChanged_Achievements": "2023-11-14T08:03:00.397575+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:58.9518626+00:00",
-  "LastUpdate_Ratings": "2023-11-14T07:00:36.4018991+00:00",
-  "LastUpdate_Achievements": "2023-11-14T07:03:25.6584753+00:00"
+  "LastUpdate_Ratings": "2023-11-14T07:59:09.1208641+00:00",
+  "LastUpdate_Achievements": "2023-11-14T08:03:00.3976065+00:00"
 }

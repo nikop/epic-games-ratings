@@ -1,24 +1,24 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 384)  
+Rating: 4.61 (Ranked 385)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~725,391 |
-| The Blues | 85.00% | ~622,810 |
-| Fast | 66.00% | ~483,594 |
+| Out of bed | 99.00% | ~725,392 |
+| The Blues | 85.00% | ~622,811 |
+| Fast | 66.00% | ~483,595 |
 | Healthbar | 55.00% | ~402,995 |
 | Force Cube | 53.00% | ~388,341 |
 | Double Jump | 48.00% | ~351,705 |
-| Regeneration | 47.00% | ~344,377 |
+| Regeneration | 47.00% | ~344,378 |
 | Triple Jump | 43.00% | ~315,069 |
 | Climb the hill | 42.00% | ~307,742 |
 | Through the fire pipe | 39.00% | ~285,760 |
 | MacGuffin | 38.00% | ~278,433 |
 | Just once | 37.00% | ~271,106 |
-| Armor | 30.00% | ~219,815 |
+| Armor | 30.00% | ~219,816 |
 | True holy spirit | 28.00% | ~205,161 |
 | That's how electronics work obviously | 27.00% | ~197,834 |
 | Force Cube Catapult | 25.00% | ~183,180 |
@@ -26,7 +26,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Telefrag | 23.00% | ~168,525 |
 | Freed from prison | 21.00% | ~153,871 |
 | Stomp | 21.00% | ~153,871 |
-| Double Health | 19.00% | ~139,216 |
+| Double Health | 19.00% | ~139,217 |
 | Buckle | 17.00% | ~124,562 |
 | Green Keycard | 17.00% | ~124,562 |
 | Rattle Hag | 16.00% | ~117,235 |
@@ -55,7 +55,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | Momentum | 9.00% | ~65,945 |
 | Through the tiny pipe | 9.00% | ~65,945 |
 | Win! | 9.00% | ~65,945 |
-| The real real teleported man | 8.00% | ~58,617 |
+| The real real teleported man | 8.00% | ~58,618 |
 | Well deserved | 6.00% | ~43,963 |
 | Super Sword | 4.00% | ~29,309 |
 | Happiness | 3.00% | ~21,982 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~733 |
 | DLC: Top of the world | 0.10% | ~733 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 732,718 (Ranked 19)  
+Progressed: 732,719 (Ranked 19)  
 Completed: 760 (0.10%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -313,7 +313,7 @@ Completed: 760 (0.10%) (Ranked 275)
 | 2023-11-11 | 732,473 | 760 |
 | 2023-11-12 | 732,613 | 760 |
 | 2023-11-13 | 732,700 | 760 |
-| 2023-11-14 | 732,718 | 760 |
+| 2023-11-14 | 732,719 | 760 |
 ## Awards
 Max (Challenging Puzzles): 7,723  (Ranked 48)  
 Sum: 10,073 (Ranked 91)  

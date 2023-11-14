@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Desert Power | 0.00% | ~0 |
 | King of Kings | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 455,172 (Ranked 41)  
+Progressed: 455,193 (Ranked 41)  
 Completed: 1 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -578,14 +578,14 @@ Completed: 1 (0.00%) (Ranked 351)
 | 2023-11-11 | 453,072 | 1 |
 | 2023-11-12 | 454,287 | 1 |
 | 2023-11-13 | 455,066 | 1 |
-| 2023-11-14 | 455,172 | 1 |
+| 2023-11-14 | 455,193 | 1 |
 ## Awards
-Max (Educational): 6,981  (Ranked 54)  
-Sum: 57,462 (Ranked 24)  
+Max (Educational): 6,999  (Ranked 54)  
+Sum: 57,480 (Ranked 24)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 6,981 |
+| This game is Educational | 6,999 |
 | This game has Diverse Characters | 6,708 |
 | This game is Highly Recommended | 6,699 |
 | This game has Challenging Combat | 6,606 |
@@ -899,4 +899,4 @@ Diff (max vs sum): 30
 | 2023-11-11 | 4.69 | - | 6,946 | 57,173 |
 | 2023-11-12 | 4.69 | - | 6,965 | 57,304 |
 | 2023-11-13 | 4.69 | - | 6,981 | 57,423 |
-| 2023-11-14 | 4.69 | - | 6,981 | 57,462 |
+| 2023-11-14 | 4.69 | - | 6,999 | 57,480 |

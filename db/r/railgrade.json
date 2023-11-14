@@ -4,7 +4,7 @@
   "ProductSlug": "railgrade",
   "Ranking_Rating": 504,
   "Ranking_Popularity": 372,
-  "Ranking_PopularitySum": 299,
+  "Ranking_PopularitySum": 298,
   "Ranking_EOS_Progress": 139,
   "Ranking_EOS_Completed": 259,
   "Ranking_EOS_NewPlayers": 3553,
@@ -591,9 +591,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 18494,
+  "EOS_Progressed": 18493,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": -97,
+  "EOS_NewPlayers": -98,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -9456,6 +9456,11 @@
       "Time": "2023-11-13T22:30:15.6335419+00:00",
       "NumProgressed": 18494,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2023-11-14T08:04:58.2441845+00:00",
+      "NumProgressed": 18493,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 37,
@@ -9499,7 +9504,7 @@
       "Name": "Builder",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 16090
+      "UsersEstimate": 16089
     },
     {
       "ID": "ach.060.goingdistance",
@@ -9507,7 +9512,7 @@
       "Name": "Going the Distance",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 10542
+      "UsersEstimate": 10541
     },
     {
       "ID": "ach.070.8kenough",
@@ -9515,7 +9520,7 @@
       "Name": "8K is Enough for Everyone",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4439
+      "UsersEstimate": 4438
     },
     {
       "ID": "ach.080.eraser",
@@ -9523,7 +9528,7 @@
       "Name": "Eraser",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 13686
+      "UsersEstimate": 13685
     },
     {
       "ID": "ach.090.perfectionist",
@@ -9531,7 +9536,7 @@
       "Name": "Perfectionist",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4624
+      "UsersEstimate": 4623
     },
     {
       "ID": "ach.100.indecisive",
@@ -9547,7 +9552,7 @@
       "Name": "Multiverse",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1479
     },
     {
       "ID": "ach.120.simplification",
@@ -9555,7 +9560,7 @@
       "Name": "Simplification",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6658
+      "UsersEstimate": 6657
     },
     {
       "ID": "ach.130.minimalist",
@@ -9563,7 +9568,7 @@
       "Name": "Minimalist",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 17569
+      "UsersEstimate": 17568
     },
     {
       "ID": "ach.140.legacy",
@@ -9571,7 +9576,7 @@
       "Name": "Trevithick\u0027s Legacy",
       "Percentage": 103,
       "XP": 60,
-      "UsersEstimate": 19049
+      "UsersEstimate": 19048
     },
     {
       "ID": "ach.150.pocket",
@@ -9579,7 +9584,7 @@
       "Name": "Pocket of Trains",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 12761
+      "UsersEstimate": 12760
     },
     {
       "ID": "ach.160.box",
@@ -9657,9 +9662,9 @@
       "ID": "ach.250.downfall",
       "SetID": "384aaja",
       "Name": "Before the Downfall",
-      "Percentage": 98,
+      "Percentage": 99,
       "XP": 60,
-      "UsersEstimate": 18124
+      "UsersEstimate": 18308
     },
     {
       "ID": "ach.260.investor",
@@ -9675,7 +9680,7 @@
       "Name": "The poor groundwater levels",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1479
     },
     {
       "ID": "ach.280.metropolis",
@@ -9683,7 +9688,7 @@
       "Name": "Metropolis",
       "Percentage": 8,
       "XP": 110,
-      "UsersEstimate": 1480
+      "UsersEstimate": 1479
     },
     {
       "ID": "ach.290.hightech",
@@ -9723,7 +9728,7 @@
       "Name": "Money like Water",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 17939
+      "UsersEstimate": 17938
     },
     {
       "ID": "ach.340.steel",
@@ -9739,7 +9744,7 @@
       "Name": "Trains over Pipes",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 4439
+      "UsersEstimate": 4438
     },
     {
       "ID": "ach.360.lightning",
@@ -9762,7 +9767,7 @@
     {
       "ID": "384aaja",
       "IsBase": true,
-      "Progressed": 18494,
+      "Progressed": 18493,
       "Completed": 30
     }
   ],
@@ -9770,8 +9775,8 @@
   "FirstSeenRating": "2022-09-30T20:32:34.159088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.072087+00:00",
   "LastChanged": "2023-10-23T18:59:29.6772157+00:00",
-  "LastChanged_Achievements": "2023-11-14T07:06:12.0714101+00:00",
+  "LastChanged_Achievements": "2023-11-14T08:04:58.2441842+00:00",
   "LastUpdate_AppInfo": "2023-11-11T18:57:13.3820352+00:00",
-  "LastUpdate_Ratings": "2023-11-14T07:01:02.2220385+00:00",
-  "LastUpdate_Achievements": "2023-11-14T07:06:12.0714831+00:00"
+  "LastUpdate_Ratings": "2023-11-14T07:59:26.1221501+00:00",
+  "LastUpdate_Achievements": "2023-11-14T08:04:58.2442497+00:00"
 }

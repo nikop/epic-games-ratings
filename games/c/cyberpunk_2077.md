@@ -31,6 +31,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Master Crafter | 0.30% | ~2,690 |
 | I Am The Law | 0.30% | ~2,690 |
 | The Fool | 0.30% | ~2,690 |
+| Two Heads, One Bullet | 0.30% | ~2,690 |
 | Judy vs Night City | 0.30% | ~2,690 |
 | King of Wands | 0.30% | ~76 |
 | Dirty Deeds | 0.30% | ~76 |
@@ -40,7 +41,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.20% | ~1,793 |
 | The Star | 0.20% | ~1,793 |
 | The Sun | 0.20% | ~1,793 |
-| Two Heads, One Bullet | 0.20% | ~1,793 |
 | Judgement Day | 0.20% | ~50 |
 | King of Pentacles | 0.20% | ~50 |
 | King of Swords | 0.20% | ~50 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 896,622 (Ranked 15)  
+Progressed: 896,623 (Ranked 15)  
 Completed: 2,777 (0.31%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,18 +282,18 @@ Completed: 2,777 (0.31%) (Ranked 227)
 | 2023-11-11 | 896,271 | 2,766 |
 | 2023-11-12 | 896,462 | 2,771 |
 | 2023-11-13 | 896,596 | 2,776 |
-| 2023-11-14 | 896,622 | 2,777 |
+| 2023-11-14 | 896,623 | 2,777 |
 ## Awards
 Max (Character Customization): 105,348  (Ranked 9)  
-Sum: 352,012 (Ranked 10)  
+Sum: 352,223 (Ranked 10)  
 Diff (max vs sum): -1  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 105,348 |
-| This game has Great Boss Battles | 76,098 |
+| This game has Great Boss Battles | 76,241 |
 | This game is Great for Beginners | 21,109 |
 | This game has Diverse Characters | 20,746 |
-| This game is Highly Recommended | 19,854 |
+| This game is Highly Recommended | 19,922 |
 | This game has Amazing Storytelling | 19,782 |
 | This game is Extremely Fun | 19,556 |
 | This game has Amazing Characters | 19,354 |
@@ -602,4 +602,4 @@ Diff (max vs sum): -1
 | 2023-11-11 | 4.64 | - | 105,016 | 349,420 |
 | 2023-11-12 | 4.64 | - | 105,188 | 350,761 |
 | 2023-11-13 | 4.64 | - | 105,348 | 351,825 |
-| 2023-11-14 | 4.64 | - | 105,348 | 352,012 |
+| 2023-11-14 | 4.64 | - | 105,348 | 352,223 |

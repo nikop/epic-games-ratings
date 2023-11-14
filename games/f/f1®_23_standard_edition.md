@@ -5,11 +5,11 @@ Rating: 4.69 (Ranked 231)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 93.00% | ~5,319 |
+| Getting on the Step | 93.00% | ~5,320 |
 | On the Top Step | 87.00% | ~4,976 |
-| Setting up for Success | 76.00% | ~4,346 |
-| Team Orders | 74.00% | ~4,232 |
-| Engineer | 54.00% | ~3,088 |
+| Setting up for Success | 76.00% | ~4,347 |
+| Team Orders | 74.00% | ~4,233 |
+| Engineer | 54.00% | ~3,089 |
 | Familiar Faces | 47.00% | ~2,688 |
 | Sharing the Love | 41.00% | ~2,345 |
 | Going the Extra Mile | 41.00% | ~2,345 |
@@ -19,15 +19,15 @@ Rating: 4.69 (Ranked 231)
 | Making History | 30.00% | ~1,716 |
 | Network Success | 25.00% | ~1,430 |
 | Writing a new Chapter | 24.00% | ~1,373 |
-| Spring Cleaning | 23.00% | ~1,315 |
+| Spring Cleaning | 23.00% | ~1,316 |
 | Reduce | 19.00% | ~1,087 |
 | Ups and Downs | 19.00% | ~1,087 |
-| Crucial Combo | 18.00% | ~1,029 |
+| Crucial Combo | 18.00% | ~1,030 |
 | Reuse | 16.00% | ~915 |
 | Proving Them Wrong | 16.00% | ~915 |
 | Gathering Dust | 15.00% | ~858 |
 | One for the Book | 15.00% | ~858 |
-| Oil and Water | 13.00% | ~743 |
+| Oil and Water | 13.00% | ~744 |
 | Eagle Eye | 12.00% | ~686 |
 | Lightning Round the World | 12.00% | ~686 |
 | Hitting a Bullseye | 12.00% | ~686 |
@@ -55,7 +55,7 @@ Rating: 4.69 (Ranked 231)
 | Elite Racer | 0.10% | ~6 |
 | Shot in the Dark | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,719 (Ranked 181)  
+Progressed: 5,720 (Ranked 181)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -117,7 +117,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-11 | 5,656 | 0 |
 | 2023-11-12 | 5,698 | 0 |
 | 2023-11-13 | 5,713 | 0 |
-| 2023-11-14 | 5,719 | 0 |
+| 2023-11-14 | 5,720 | 0 |
 ## Awards
 Max (Great for Beginners): 28  (Ranked 501)  
 Sum: 48 (Ranked 483)  

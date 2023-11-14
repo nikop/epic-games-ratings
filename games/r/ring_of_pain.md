@@ -9,6 +9,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Matching | 0.70% | ~8 |
 | Not Touching You | 0.40% | ~5 |
 | First Steps | 0.30% | ~719 |
+| Getting A Glimpse | 0.30% | ~719 |
 | A Quick Escape | 0.30% | ~719 |
 | Uncharted Territory | 0.30% | ~719 |
 | Expensive Look | 0.30% | ~3 |
@@ -18,7 +19,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Consecutive Curses | 0.20% | ~479 |
 | Heavy Hitter | 0.20% | ~479 |
 | Delving Deeper | 0.20% | ~479 |
-| Getting A Glimpse | 0.20% | ~479 |
 | R.I.P | 0.20% | ~479 |
 | That Was Quick | 0.20% | ~479 |
 | Colorful Corpse | 0.20% | ~479 |

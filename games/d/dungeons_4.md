@@ -28,14 +28,14 @@
 | The Big Eaty | 27.00% | ~69 |
 | “… like son” | 20.00% | ~51 |
 | Dungeonlord Gorgu | 16.00% | ~41 |
+| The Cathedral of Light | 15.00% | ~38 |
 | Shame! Shame! Shame! | 15.00% | ~38 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 14.00% | ~36 |
-| The Cathedral of Light | 14.00% | ~36 |
 | Hungry, Hungry Gorgu! | 11.00% | ~28 |
 | Tanos' Crusade Against Thalya | 11.00% | ~28 |
+| Unstoppable Horde | 10.00% | ~26 |
 | Sacrificial Pit = Garbage Disposal? | 9.00% | ~23 |
 | Forbidden Knowledge | 9.00% | ~23 |
-| Unstoppable Horde | 9.00% | ~23 |
 | All’s Well That Ends Evil | 9.00% | ~23 |
 | Ghost Pirates? Ghost Heroes! | 8.00% | ~20 |
 | Master of the Undead | 8.00% | ~20 |

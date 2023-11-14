@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -501,9 +501,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 5719,
+  "EOS_Progressed": 5720,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 491,
+  "EOS_NewPlayers": 492,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5486,6 +5486,11 @@
       "Time": "2023-11-14T04:05:20.1561584+00:00",
       "NumProgressed": 5719,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T08:04:09.2136321+00:00",
+      "NumProgressed": 5720,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -5498,7 +5503,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "achievement_0002",
@@ -5530,7 +5535,7 @@
       "Name": "Crucial Combo",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "achievement_0006",
@@ -5538,7 +5543,7 @@
       "Name": "Setting up for Success",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4346
+      "UsersEstimate": 4347
     },
     {
       "ID": "achievement_0007",
@@ -5546,7 +5551,7 @@
       "Name": "Getting on the Step",
       "Percentage": 93,
       "XP": 15,
-      "UsersEstimate": 5319
+      "UsersEstimate": 5320
     },
     {
       "ID": "achievement_0008",
@@ -5594,7 +5599,7 @@
       "Name": "Oil and Water",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "achievement_0014",
@@ -5658,7 +5663,7 @@
       "Name": "Team Orders",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 4232
+      "UsersEstimate": 4233
     },
     {
       "ID": "achievement_0022",
@@ -5754,7 +5759,7 @@
       "Name": "Engineer",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 3088
+      "UsersEstimate": 3089
     },
     {
       "ID": "achievement_0034",
@@ -5889,7 +5894,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 5719,
+      "Progressed": 5720,
       "Completed": 0
     }
   ],
@@ -5897,8 +5902,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2023-11-13T14:57:01.7185506+00:00",
-  "LastChanged_Achievements": "2023-11-14T07:05:02.1199107+00:00",
+  "LastChanged_Achievements": "2023-11-14T08:04:09.213632+00:00",
   "LastUpdate_AppInfo": "2023-11-11T16:57:37.6061442+00:00",
-  "LastUpdate_Ratings": "2023-11-14T06:57:41.5793697+00:00",
-  "LastUpdate_Achievements": "2023-11-14T07:05:02.1199575+00:00"
+  "LastUpdate_Ratings": "2023-11-14T07:57:13.0217348+00:00",
+  "LastUpdate_Achievements": "2023-11-14T08:04:09.2136767+00:00"
 }

@@ -10,7 +10,7 @@ Rating: 4.54 (Ranked 523)
 | Pork Chopped | 2.00% | ~875 |
 | Hotel California | 0.90% | ~6,464 |
 | Welcome To Hell-A | 0.90% | ~6,464 |
-| Break A Leg | 0.80% | ~5,745 |
+| Break A Leg | 0.80% | ~5,746 |
 | Dr. Reed, I Presume? | 0.70% | ~5,027 |
 | Git Gutte! | 0.70% | ~5,027 |
 | Anger Management | 0.70% | ~5,027 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 523)
 | Lawn and Order | 0.10% | ~44 |
 | Wilhelm | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 718,184 (Ranked 20)  
+Progressed: 718,196 (Ranked 20)  
 Completed: 2,389 (0.33%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 2,389 (0.33%) (Ranked 223)
 | 2023-11-11 | 716,908 | 2,381 |
 | 2023-11-12 | 717,624 | 2,385 |
 | 2023-11-13 | 718,089 | 2,387 |
-| 2023-11-14 | 718,184 | 2,389 |
+| 2023-11-14 | 718,196 | 2,389 |
 ## Awards
 Max (Great Boss Battles): 7,413  (Ranked 51)  
 Sum: 11,274 (Ranked 85)  

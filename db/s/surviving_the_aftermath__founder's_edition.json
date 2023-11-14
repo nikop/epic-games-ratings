@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 351,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 131,
+  "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2021-11-16T17:00:00+00:00",
     "PcReleaseDate": "2021-11-16T17:00:00+00:00",
@@ -1404,9 +1404,9 @@
       "Count": 47
     }
   ],
-  "EOS_Progressed": 10478,
+  "EOS_Progressed": 10479,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17139,6 +17139,11 @@
       "Time": "2023-11-14T06:03:58.7369965+00:00",
       "NumProgressed": 10478,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T08:03:08.93218+00:00",
+      "NumProgressed": 10479,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -17182,7 +17187,7 @@
       "Name": "Explorer",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 5553
+      "UsersEstimate": 5554
     },
     {
       "ID": "14",
@@ -17238,7 +17243,7 @@
       "Name": "Local Leader",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 3667
+      "UsersEstimate": 3668
     },
     {
       "ID": "20",
@@ -17262,7 +17267,7 @@
       "Name": "First Step",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 7649
+      "UsersEstimate": 7650
     },
     {
       "ID": "23",
@@ -17398,7 +17403,7 @@
       "Name": "Aspiring Inventor",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 4610
+      "UsersEstimate": 4611
     },
     {
       "ID": "39",
@@ -17430,7 +17435,7 @@
       "Name": "New Eden",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 733
+      "UsersEstimate": 734
     },
     {
       "ID": "42",
@@ -17470,7 +17475,7 @@
       "Name": "Finders, Keepers",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2725
     },
     {
       "ID": "47",
@@ -17621,15 +17626,15 @@
     {
       "ID": "8idi9ml",
       "IsBase": true,
-      "Progressed": 10478,
+      "Progressed": 10479,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:34.030407+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:07.1024277+00:00",
   "LastChanged": "2023-11-12T19:57:53.2270772+00:00",
-  "LastChanged_Achievements": "2023-11-14T07:03:37.5558386+00:00",
+  "LastChanged_Achievements": "2023-11-14T08:03:08.9321797+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:57:11.3013234+00:00",
-  "LastUpdate_Ratings": "2023-11-14T06:59:03.1307399+00:00",
-  "LastUpdate_Achievements": "2023-11-14T07:03:37.5559616+00:00"
+  "LastUpdate_Ratings": "2023-11-14T07:58:06.9853691+00:00",
+  "LastUpdate_Achievements": "2023-11-14T08:03:08.9323124+00:00"
 }
