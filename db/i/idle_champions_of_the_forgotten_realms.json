@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 40,
   "Ranking_EOS_Progress": 64,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 74,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewPlayers": 73,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -8041,10 +8041,10 @@
       "Count": 3517
     }
   ],
-  "EOS_Progressed": 234953,
-  "EOS_Completed": 2446,
-  "EOS_NewPlayers": 1079,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 234957,
+  "EOS_Completed": 2447,
+  "EOS_NewPlayers": 1080,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
@@ -31306,6 +31306,11 @@
       "Time": "2023-11-14T08:08:35.9309511+00:00",
       "NumProgressed": 234953,
       "NumCompleted": 2446
+    },
+    {
+      "Time": "2023-11-14T09:08:49.9179241+00:00",
+      "NumProgressed": 234957,
+      "NumCompleted": 2447
     }
   ],
   "TotalAchievements": 532,
@@ -34459,9 +34464,9 @@
       "ID": "objective_completed_7",
       "SetID": "cc37lbc",
       "Name": "The Mad Wizard",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 235
+      "UsersEstimate": 470
     },
     {
       "ID": "objective_completed_70",
@@ -35572,21 +35577,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 201227,
+      "Progressed": 201231,
       "Completed": 3923
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 234953,
-      "Completed": 2446
+      "Progressed": 234957,
+      "Completed": 2447
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2023-11-13T22:25:09.7564177+00:00",
-  "LastChanged_Achievements": "2023-11-14T08:08:35.9309508+00:00",
+  "LastChanged_Achievements": "2023-11-14T09:08:49.9179237+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:58:26.8200694+00:00",
-  "LastUpdate_Ratings": "2023-11-14T07:59:55.743579+00:00",
-  "LastUpdate_Achievements": "2023-11-14T08:08:35.9331994+00:00"
+  "LastUpdate_Ratings": "2023-11-14T09:00:23.6926921+00:00",
+  "LastUpdate_Achievements": "2023-11-14T09:08:49.9202619+00:00"
 }

@@ -6495,10 +6495,10 @@
       "Count": 463
     }
   ],
-  "EOS_Progressed": 718196,
+  "EOS_Progressed": 718209,
   "EOS_Completed": 2389,
-  "EOS_NewPlayers": 3883,
-  "EOS_NewCompleters": 39,
+  "EOS_NewPlayers": 3886,
+  "EOS_NewCompleters": 38,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
     {
@@ -30230,6 +30230,11 @@
       "Time": "2023-11-14T08:04:14.9869127+00:00",
       "NumProgressed": 718196,
       "NumCompleted": 2389
+    },
+    {
+      "Time": "2023-11-14T09:04:37.5073825+00:00",
+      "NumProgressed": 718209,
+      "NumCompleted": 2389
     }
   ],
   "TotalAchievements": 51,
@@ -30511,9 +30516,9 @@
       "ID": "ach_skilled_up",
       "SetID": "7km39fm",
       "Name": "Stacking the Deck",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 4309
+      "UsersEstimate": 5027
     },
     {
       "ID": "ach_star_performance",
@@ -30648,22 +30653,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 718196,
+      "Progressed": 718209,
       "Completed": 2389
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 43738,
-      "Completed": 36539
+      "Progressed": 43751,
+      "Completed": 36540
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2023-11-14T06:57:22.1835881+00:00",
-  "LastChanged_Achievements": "2023-11-14T08:04:14.9869125+00:00",
+  "LastChanged_Achievements": "2023-11-14T09:04:37.5073821+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:03.0217009+00:00",
-  "LastUpdate_Ratings": "2023-11-14T07:56:59.2808856+00:00",
-  "LastUpdate_Achievements": "2023-11-14T08:04:14.9870313+00:00"
+  "LastUpdate_Ratings": "2023-11-14T08:57:07.0867357+00:00",
+  "LastUpdate_Achievements": "2023-11-14T09:04:37.5075513+00:00"
 }

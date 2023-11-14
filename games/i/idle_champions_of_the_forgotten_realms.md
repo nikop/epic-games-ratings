@@ -13,6 +13,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.50% | ~1,006 |
 | Beast Intentions | 0.20% | ~470 |
 | The Cursed Farmer | 0.20% | ~470 |
+| The Mad Wizard | 0.20% | ~470 |
 | Maddening | 0.10% | ~235 |
 | Pros and CONs | 0.10% | ~235 |
 | Upholding the Law | 0.10% | ~235 |
@@ -403,7 +404,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enemy Summit | 0.10% | ~201 |
 | Mirage Arcane | 0.10% | ~201 |
 | Only Human | 0.10% | ~201 |
-| The Mad Wizard | 0.10% | ~235 |
 | Close Escort | 0.10% | ~235 |
 | Constant Banditry | 0.10% | ~235 |
 | The Long Haul | 0.10% | ~235 |
@@ -539,8 +539,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Spelljammers in Training | 0.10% | ~201 |
 | Time Out | 0.10% | ~201 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 234,953 (Ranked 64)  
-Completed: 2,446 (1.04%) (Ranked 157)  
+Progressed: 234,957 (Ranked 64)  
+Completed: 2,447 (1.04%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -747,7 +747,7 @@ Completed: 2,446 (1.04%) (Ranked 157)
 | 2023-11-11 | 234,594 | 2,442 |
 | 2023-11-12 | 234,790 | 2,442 |
 | 2023-11-13 | 234,919 | 2,446 |
-| 2023-11-14 | 234,953 | 2,446 |
+| 2023-11-14 | 234,957 | 2,447 |
 ## Awards
 Max (Great for Beginners): 5,519  (Ranked 68)  
 Sum: 32,467 (Ranked 40)  

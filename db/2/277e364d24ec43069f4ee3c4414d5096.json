@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 546,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114116,
+  "EOS_Progressed": 114118,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -17849,6 +17849,11 @@
       "Time": "2023-11-14T08:08:45.1922636+00:00",
       "NumProgressed": 114116,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2023-11-14T09:08:59.5921024+00:00",
+      "NumProgressed": 114118,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 49,
@@ -17868,7 +17873,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 87869
+      "UsersEstimate": 87871
     },
     {
       "ID": "EAwards_10",
@@ -17884,7 +17889,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 29670
+      "UsersEstimate": 29671
     },
     {
       "ID": "EAwards_12",
@@ -17892,7 +17897,7 @@
       "Name": "Cluckstorm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 17117
+      "UsersEstimate": 17118
     },
     {
       "ID": "EAwards_13",
@@ -17932,7 +17937,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 42223
+      "UsersEstimate": 42224
     },
     {
       "ID": "EAwards_18",
@@ -17940,7 +17945,7 @@
       "Name": "You Survived",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10270
+      "UsersEstimate": 10271
     },
     {
       "ID": "EAwards_19",
@@ -17956,7 +17961,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 54776
+      "UsersEstimate": 54777
     },
     {
       "ID": "EAwards_20",
@@ -18028,7 +18033,7 @@
       "Name": "Very Special",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "EAwards_29",
@@ -18036,7 +18041,7 @@
       "Name": "Talk to the Hend",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 3423
+      "UsersEstimate": 3424
     },
     {
       "ID": "EAwards_3",
@@ -18044,7 +18049,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 22823
+      "UsersEstimate": 22824
     },
     {
       "ID": "EAwards_30",
@@ -18220,7 +18225,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10270
+      "UsersEstimate": 10271
     },
     {
       "ID": "EAwards_7",
@@ -18251,7 +18256,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 114116,
+      "Progressed": 114118,
       "Completed": 50
     }
   ],
@@ -18259,8 +18264,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2023-11-11T19:01:47.7363717+00:00",
-  "LastChanged_Achievements": "2023-11-14T08:08:45.1922633+00:00",
+  "LastChanged_Achievements": "2023-11-14T09:08:59.5921018+00:00",
   "LastUpdate_AppInfo": "2023-11-10T03:57:04.5397475+00:00",
-  "LastUpdate_Ratings": "2023-11-14T07:57:49.8999074+00:00",
-  "LastUpdate_Achievements": "2023-11-14T08:08:45.1923768+00:00"
+  "LastUpdate_Ratings": "2023-11-14T08:58:02.933304+00:00",
+  "LastUpdate_Achievements": "2023-11-14T09:08:59.5922147+00:00"
 }

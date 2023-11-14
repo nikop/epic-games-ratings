@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1191,
+  "EOS_Progressed": 1192,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4134,6 +4134,11 @@
       "Time": "2023-11-12T13:12:46.7289935+00:00",
       "NumProgressed": 1191,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2023-11-14T09:09:42.0187174+00:00",
+      "NumProgressed": 1192,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4145,7 +4150,7 @@
       "Name": "Adventurous 1",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "adventurous_2",
@@ -4577,7 +4582,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "soul_shards_2",
@@ -4672,14 +4677,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1191,
+      "Progressed": 1192,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2023-11-14T08:09:23.8613659+00:00",
+  "LastChanged_Achievements": "2023-11-14T09:09:42.0187171+00:00",
   "LastUpdate_AppInfo": "2023-11-07T14:56:56.9224178+00:00",
-  "LastUpdate_Ratings": "2023-11-14T07:57:21.8558532+00:00",
-  "LastUpdate_Achievements": "2023-11-14T08:09:23.8614261+00:00"
+  "LastUpdate_Ratings": "2023-11-14T08:57:31.4596869+00:00",
+  "LastUpdate_Achievements": "2023-11-14T09:09:42.0187734+00:00"
 }

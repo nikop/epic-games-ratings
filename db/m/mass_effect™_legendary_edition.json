@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1245,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -4092,9 +4092,9 @@
       "ID": "achievement_64",
       "SetID": "d252ncf",
       "Name": "Merciless",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 498
+      "UsersEstimate": 510
     },
     {
       "ID": "achievement_65",
@@ -4416,8 +4416,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2023-11-14T08:04:02.5604438+00:00",
+  "LastChanged_Achievements": "2023-11-14T09:04:22.5114869+00:00",
   "LastUpdate_AppInfo": "2023-11-11T20:00:01.6015151+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:02:47.4593675+00:00",
-  "LastUpdate_Achievements": "2023-11-14T08:04:02.5606019+00:00"
+  "LastUpdate_Ratings": "2023-11-14T09:02:57.5605041+00:00",
+  "LastUpdate_Achievements": "2023-11-14T09:04:22.5116464+00:00"
 }

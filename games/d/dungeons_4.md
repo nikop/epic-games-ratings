@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | The Last Stand | 84.00% | ~214 |
 | Thalya – Simply Immortal | 84.00% | ~214 |
-| For the Horde! | 77.00% | ~196 |
+| For the Horde! | 78.00% | ~199 |
 | Hammer Time, Round Two | 76.00% | ~194 |
 | The Hellwoods | 69.00% | ~176 |
 | Thalya's Concentrated Fury | 63.00% | ~161 |
@@ -22,23 +22,23 @@
 | YOU SHALL NOT PASS! | 36.00% | ~92 |
 | The Ascent | 34.00% | ~87 |
 | It's Warm and Cozy at Home | 34.00% | ~87 |
+| Pure Dynamite! | 32.00% | ~82 |
 | Hard Work | 31.00% | ~79 |
-| Pure Dynamite! | 31.00% | ~79 |
 | Mana Cannon | 29.00% | ~74 |
 | The Big Eaty | 27.00% | ~69 |
 | “… like son” | 20.00% | ~51 |
 | Dungeonlord Gorgu | 16.00% | ~41 |
+| Shame! Shame! Shame! | 16.00% | ~41 |
+| Not Even a Tiny Thin Mint Wafer, Thanks! | 15.00% | ~38 |
 | The Cathedral of Light | 15.00% | ~38 |
-| Shame! Shame! Shame! | 15.00% | ~38 |
-| Not Even a Tiny Thin Mint Wafer, Thanks! | 14.00% | ~36 |
-| Hungry, Hungry Gorgu! | 11.00% | ~28 |
+| Hungry, Hungry Gorgu! | 12.00% | ~31 |
 | Tanos' Crusade Against Thalya | 11.00% | ~28 |
 | Unstoppable Horde | 10.00% | ~26 |
 | Sacrificial Pit = Garbage Disposal? | 9.00% | ~23 |
 | Forbidden Knowledge | 9.00% | ~23 |
+| Master of the Undead | 9.00% | ~23 |
 | All’s Well That Ends Evil | 9.00% | ~23 |
 | Ghost Pirates? Ghost Heroes! | 8.00% | ~20 |
-| Master of the Undead | 8.00% | ~20 |
 | Stop Tanos! | 7.00% | ~18 |
 | The Duel | 7.00% | ~18 |
 | If Looks Could Kill | 7.00% | ~18 |

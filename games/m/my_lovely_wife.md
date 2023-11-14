@@ -6,26 +6,26 @@ Number of Ratings: 25  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Objective Complete | 97.00% | ~597 |
-| I did it! | 94.00% | ~578 |
-| Learner | 92.00% | ~566 |
-| Economical | 92.00% | ~566 |
-| Devout | 89.00% | ~547 |
-| The Love Martyr | 87.00% | ~535 |
-| Frugal | 85.00% | ~523 |
-| Dilligent | 83.00% | ~510 |
-| I... I did it? | 80.00% | ~492 |
-| Adored | 76.00% | ~467 |
-| The Hobbyist | 66.00% | ~406 |
-| A Forked Tongue | 56.00% | ~344 |
-| The Admirer | 53.00% | ~326 |
-| Between Two Fires | 52.00% | ~320 |
-| Precious | 46.00% | ~283 |
-| Devoted | 41.00% | ~252 |
+| Objective Complete | 97.00% | ~598 |
+| I did it! | 94.00% | ~579 |
+| Learner | 92.00% | ~567 |
+| Economical | 92.00% | ~567 |
+| Devout | 89.00% | ~548 |
+| The Love Martyr | 87.00% | ~536 |
+| Frugal | 85.00% | ~524 |
+| Dilligent | 83.00% | ~511 |
+| I... I did it? | 80.00% | ~493 |
+| Adored | 76.00% | ~468 |
+| The Hobbyist | 66.00% | ~407 |
+| A Forked Tongue | 56.00% | ~345 |
+| The Admirer | 52.00% | ~320 |
+| Between Two Fires | 51.00% | ~314 |
+| Precious | 45.00% | ~277 |
+| Devoted | 41.00% | ~253 |
 | The Farmer | 40.00% | ~246 |
 | Ever After | 37.00% | ~228 |
-| Loyal | 29.00% | ~178 |
-| Mandatory Sacrifice | 29.00% | ~178 |
+| Loyal | 29.00% | ~179 |
+| Mandatory Sacrifice | 29.00% | ~179 |
 | The Collector | 25.00% | ~154 |
 | All Doors Open | 20.00% | ~123 |
 | Faithful | 11.00% | ~68 |
@@ -40,7 +40,7 @@ Number of Ratings: 25  (23.09.2022)
 | Womanizer | 0.00% | ~0 |
 | Lady Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 615 (Ranked 286)  
+Progressed: 616 (Ranked 286)  
 Completed: 0 (0.00%) (Ranked 351)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 0 (0.00%) (Ranked 351)
 | 2023-11-01 | 613 | 0 |
 | 2023-11-07 | 614 | 0 |
 | 2023-11-12 | 615 | 0 |
+| 2023-11-14 | 616 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,19 +5,19 @@ Rating: 4.56 (Ranked 489)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 7.00% | ~1,046 |
+| Oyedang, Kopengs | 7.00% | ~1,047 |
 | The Pit and the Pirates | 4.00% | ~598 |
 | Bosmang | 4.00% | ~598 |
 | Zen Master | 4.00% | ~36 |
-| Stogie for Fogey | 3.00% | ~448 |
-| Drug Gifter | 3.00% | ~448 |
-| Spore Taste | 3.00% | ~448 |
-| Martian Music | 3.00% | ~448 |
-| Drone Dodger | 3.00% | ~448 |
-| Call it Even | 3.00% | ~448 |
-| Captain Drummer | 3.00% | ~448 |
-| Celebrations are in Order | 3.00% | ~448 |
-| Impossible Objects | 3.00% | ~448 |
+| Stogie for Fogey | 3.00% | ~449 |
+| Drug Gifter | 3.00% | ~449 |
+| Spore Taste | 3.00% | ~449 |
+| Martian Music | 3.00% | ~449 |
+| Drone Dodger | 3.00% | ~449 |
+| Call it Even | 3.00% | ~449 |
+| Captain Drummer | 3.00% | ~449 |
+| Celebrations are in Order | 3.00% | ~449 |
+| Impossible Objects | 3.00% | ~449 |
 | Keep Arjun in Check | 3.00% | ~27 |
 | Safe Cracker | 3.00% | ~27 |
 | Madame Undersecretary | 3.00% | ~27 |
@@ -26,9 +26,9 @@ Rating: 4.56 (Ranked 489)
 | Heal Thy Medic | 2.00% | ~299 |
 | Khan's Revenge | 2.00% | ~299 |
 | Master Negotiator | 2.00% | ~18 |
-| Doctor Approved | 1.00% | ~149 |
-| Bottoms up! | 1.00% | ~149 |
-| Miraculous Maya | 1.00% | ~149 |
+| Doctor Approved | 1.00% | ~150 |
+| Bottoms up! | 1.00% | ~150 |
+| Miraculous Maya | 1.00% | ~150 |
 | Data Logger | 0.80% | ~120 |
 | Data Master | 0.80% | ~120 |
 | Brother's Reaper | 0.60% | ~90 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 489)
 | Data Collector | 0.10% | ~15 |
 | Grave Robber | 0.10% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,949 (Ranked 147)  
+Progressed: 14,952 (Ranked 147)  
 Completed: 34 (0.23%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -156,7 +156,7 @@ Completed: 34 (0.23%) (Ranked 242)
 | 2023-11-11 | 14,854 | 34 |
 | 2023-11-12 | 14,900 | 34 |
 | 2023-11-13 | 14,936 | 34 |
-| 2023-11-14 | 14,949 | 34 |
+| 2023-11-14 | 14,952 | 34 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 351,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 130,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 13,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -423,8 +423,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2023-11-14T08:03:21.3354506+00:00",
+  "LastChanged_Achievements": "2023-11-14T09:03:36.9216827+00:00",
   "LastUpdate_AppInfo": "2023-11-09T01:41:41.4462946+00:00",
-  "LastUpdate_Ratings": "2023-11-14T07:59:00.9837584+00:00",
-  "LastUpdate_Achievements": "2023-11-14T08:03:21.3354732+00:00"
+  "LastUpdate_Ratings": "2023-11-14T08:59:22.1867692+00:00",
+  "LastUpdate_Achievements": "2023-11-14T09:03:36.9217381+00:00"
 }

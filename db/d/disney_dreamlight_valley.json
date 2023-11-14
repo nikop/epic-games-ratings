@@ -18692,9 +18692,9 @@
       "ID": "Photographer",
       "SetID": "chapdi4",
       "Name": "Photographer",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 25,
-      "UsersEstimate": 7918
+      "UsersEstimate": 8034
     },
     {
       "ID": "Renovator",
@@ -18733,8 +18733,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2023-11-13T23:00:12.0624386+00:00",
-  "LastChanged_Achievements": "2023-11-14T08:04:00.0286817+00:00",
+  "LastChanged_Achievements": "2023-11-14T09:04:19.7038384+00:00",
   "LastUpdate_AppInfo": "2023-11-11T19:59:02.0110737+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:02:37.3067573+00:00",
-  "LastUpdate_Achievements": "2023-11-14T08:04:00.0287406+00:00"
+  "LastUpdate_Ratings": "2023-11-14T09:02:46.1740403+00:00",
+  "LastUpdate_Achievements": "2023-11-14T09:04:19.7039139+00:00"
 }

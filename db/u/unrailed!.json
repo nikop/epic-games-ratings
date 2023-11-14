@@ -2795,9 +2795,9 @@
       "Count": 148
     }
   ],
-  "EOS_Progressed": 662423,
+  "EOS_Progressed": 662426,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 1924,
+  "EOS_NewPlayers": 1921,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26460,6 +26460,11 @@
       "Time": "2023-11-14T08:08:59.2232733+00:00",
       "NumProgressed": 662423,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2023-11-14T09:09:15.2822892+00:00",
+      "NumProgressed": 662426,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 52,
@@ -26471,7 +26476,7 @@
       "Name": "Stroller",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 99363
+      "UsersEstimate": 99364
     },
     {
       "ID": "_01_01_DISTANCE_200_EASY",
@@ -26511,7 +26516,7 @@
       "Name": "Advanced Stroller",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 119236
+      "UsersEstimate": 119237
     },
     {
       "ID": "_01_06_DISTANCE_200_MEDIUM",
@@ -26559,7 +26564,7 @@
       "Name": "Expert Hiker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13248
+      "UsersEstimate": 13249
     },
     {
       "ID": "_01_12_DISTANCE_500_HARD",
@@ -26591,7 +26596,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 92739
+      "UsersEstimate": 92740
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -26727,7 +26732,7 @@
       "Name": "Mojave Courier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 39745
+      "UsersEstimate": 39746
     },
     {
       "ID": "_03_02_NANUK",
@@ -26783,7 +26788,7 @@
       "Name": "Lost",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 13248
+      "UsersEstimate": 13249
     },
     {
       "ID": "_11_00_CLIMATE_CHANGE",
@@ -26886,15 +26891,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 662423,
+      "Progressed": 662426,
       "Completed": 12
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2023-11-12T10:00:29.2688318+00:00",
-  "LastChanged_Achievements": "2023-11-14T08:08:59.2232732+00:00",
+  "LastChanged_Achievements": "2023-11-14T09:09:15.2822889+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.9318396+00:00",
-  "LastUpdate_Ratings": "2023-11-14T07:57:26.5241402+00:00",
-  "LastUpdate_Achievements": "2023-11-14T08:08:59.2233914+00:00"
+  "LastUpdate_Ratings": "2023-11-14T08:57:36.7504121+00:00",
+  "LastUpdate_Achievements": "2023-11-14T09:09:15.2823994+00:00"
 }

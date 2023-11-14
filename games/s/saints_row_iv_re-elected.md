@@ -1,47 +1,47 @@
 # Saints Row IV Re-Elected
 [Store](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)  
 [View Rawdata](../../db/s/saints_row_iv_re-elected.json)  
-Rating: 4.40 (Ranked 736)  
+Rating: 4.41 (Ranked 720)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 63.00% | ~190,248 |
-| Destroyer-In-Chief | 57.00% | ~172,129 |
-| There Is No Pancakes | 53.00% | ~160,050 |
-| First of Many | 42.00% | ~126,832 |
-| Woah. | 36.00% | ~108,713 |
-| Don't Look Down | 29.00% | ~87,574 |
-| Don't Panic | 28.00% | ~84,555 |
-| Ooo A Piece of Candy! | 22.00% | ~66,436 |
-| Ghost in the Machine | 18.00% | ~54,357 |
-| All Too Easy | 15.00% | ~45,297 |
-| Didn't Need to See Him Naked | 13.00% | ~39,258 |
-| Indomitable | 10.00% | ~30,198 |
-| Blast from the Past | 9.00% | ~27,178 |
-| Bow to the Boss! | 9.00% | ~27,178 |
-| Friend of the Raptors | 9.00% | ~27,178 |
-| About Time! | 8.00% | ~24,158 |
-| Actor-Turned-Politician | 7.00% | ~21,139 |
-| Betrayed | 7.00% | ~21,139 |
-| Maximum Stopping Power | 7.00% | ~21,139 |
-| You Chose... Poorly | 7.00% | ~21,139 |
-| Double Team | 6.00% | ~18,119 |
-| Keymaster | 6.00% | ~18,119 |
-| Poodle Skirt | 6.00% | ~18,119 |
-| Imperator | 5.00% | ~15,099 |
-| *BEEP* YOU, CLAWZ! | 4.00% | ~12,079 |
-| Half Way Home | 4.00% | ~12,079 |
-| How It Should Be | 4.00% | ~12,079 |
-| Machine Man | 4.00% | ~12,079 |
-| The Full Kinzie | 4.00% | ~12,079 |
-| ...A Saint Gets a Gun | 3.00% | ~9,059 |
-| And I Ran... | 3.00% | ~9,059 |
-| Chill Out | 3.00% | ~9,059 |
-| Elementary | 3.00% | ~9,059 |
-| On Her Saint's Secret Service | 3.00% | ~9,059 |
-| Paranormal Bromance | 3.00% | ~9,059 |
-| Saints & Sensibility | 3.00% | ~9,059 |
-| The Two Shaundis | 3.00% | ~9,059 |
+| Zero Saints Thirty | 63.00% | ~190,257 |
+| Destroyer-In-Chief | 57.00% | ~172,138 |
+| There Is No Pancakes | 53.00% | ~160,058 |
+| First of Many | 42.00% | ~126,838 |
+| Woah. | 36.00% | ~108,719 |
+| Don't Look Down | 29.00% | ~87,579 |
+| Don't Panic | 28.00% | ~84,559 |
+| Ooo A Piece of Candy! | 22.00% | ~66,439 |
+| Ghost in the Machine | 18.00% | ~54,359 |
+| All Too Easy | 15.00% | ~45,299 |
+| Didn't Need to See Him Naked | 13.00% | ~39,259 |
+| Indomitable | 10.00% | ~30,200 |
+| Blast from the Past | 9.00% | ~27,180 |
+| Bow to the Boss! | 9.00% | ~27,180 |
+| Friend of the Raptors | 9.00% | ~27,180 |
+| About Time! | 8.00% | ~24,160 |
+| Actor-Turned-Politician | 7.00% | ~21,140 |
+| Betrayed | 7.00% | ~21,140 |
+| Maximum Stopping Power | 7.00% | ~21,140 |
+| You Chose... Poorly | 7.00% | ~21,140 |
+| Double Team | 6.00% | ~18,120 |
+| Keymaster | 6.00% | ~18,120 |
+| Poodle Skirt | 6.00% | ~18,120 |
+| Imperator | 5.00% | ~15,100 |
+| *BEEP* YOU, CLAWZ! | 4.00% | ~12,080 |
+| Half Way Home | 4.00% | ~12,080 |
+| How It Should Be | 4.00% | ~12,080 |
+| Machine Man | 4.00% | ~12,080 |
+| The Full Kinzie | 4.00% | ~12,080 |
+| ...A Saint Gets a Gun | 3.00% | ~9,060 |
+| And I Ran... | 3.00% | ~9,060 |
+| Chill Out | 3.00% | ~9,060 |
+| Elementary | 3.00% | ~9,060 |
+| On Her Saint's Secret Service | 3.00% | ~9,060 |
+| Paranormal Bromance | 3.00% | ~9,060 |
+| Saints & Sensibility | 3.00% | ~9,060 |
+| The Two Shaundis | 3.00% | ~9,060 |
 | Benjamin [CENSORED] King | 2.00% | ~6,040 |
 | Better This Way | 2.00% | ~6,040 |
 | Bouncin' with an Old Friend | 2.00% | ~6,040 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 736)
 | Super Power Team Up! | 0.10% | ~302 |
 | Ultimate Hot Potato | 0.10% | ~302 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 301,981 (Ranked 51)  
+Progressed: 301,996 (Ranked 51)  
 Completed: 16 (0.01%) (Ranked 329)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -286,14 +286,14 @@ Completed: 16 (0.01%) (Ranked 329)
 | 2023-11-11 | 300,569 | 16 |
 | 2023-11-12 | 301,272 | 16 |
 | 2023-11-13 | 301,823 | 16 |
-| 2023-11-14 | 301,981 | 16 |
+| 2023-11-14 | 301,996 | 16 |
 ## Awards
-Max (Great Boss Battles): 485  (Ranked 209)  
-Sum: 485 (Ranked 325)  
+Max (Great Boss Battles): 487  (Ranked 209)  
+Sum: 487 (Ranked 325)  
 Diff (max vs sum): -116  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 485 |
+| This game has Great Boss Battles | 487 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -394,3 +394,4 @@ Diff (max vs sum): -116
 | 2023-11-06 | 4.40 | 482 | 482 |
 | 2023-11-07 | 4.40 | 484 | 484 |
 | 2023-11-09 | 4.40 | 485 | 485 |
+| 2023-11-14 | 4.41 | 487 | 487 |

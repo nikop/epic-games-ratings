@@ -15,10 +15,10 @@ Rating: 4.61 (Ranked 385)
 | From Friends to Family | 0.90% | ~48 |
 | There Can Only Be One! | 0.70% | ~38 |
 | Full Ascension | 0.70% | ~38 |
+| Stronger Together | 0.70% | ~38 |
 | Magical Synergy | 0.70% | ~38 |
 | Seat of Power | 0.70% | ~38 |
 | Spoils of War | 0.70% | ~38 |
-| Stronger Together | 0.60% | ~32 |
 | In a Liege of Your Own | 0.60% | ~32 |
 | Chaos Surge | 0.60% | ~32 |
 | Valley of Wonders | 0.50% | ~27 |

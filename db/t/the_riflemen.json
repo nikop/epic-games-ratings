@@ -101,11 +101,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33409,
+  "EOS_Progressed": 33417,
   "EOS_Completed": 11759,
-  "EOS_NewPlayers": 2118,
+  "EOS_NewPlayers": 2123,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 35.2,
+  "EOS_Completed_Percentage": 35.19,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -9196,6 +9196,11 @@
       "Time": "2023-11-14T08:08:30.028327+00:00",
       "NumProgressed": 33409,
       "NumCompleted": 11759
+    },
+    {
+      "Time": "2023-11-14T09:08:42.8103589+00:00",
+      "NumProgressed": 33417,
+      "NumCompleted": 11759
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -9216,7 +9221,7 @@
       "Name": "First blood",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 23386
+      "UsersEstimate": 23392
     },
     {
       "ID": "grenadeKills",
@@ -9232,7 +9237,7 @@
       "Name": "Head popping I",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "headshots1000",
@@ -9288,7 +9293,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "shotgunKills",
@@ -9319,7 +9324,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 33409,
+      "Progressed": 33417,
       "Completed": 11759
     }
   ],
@@ -9327,8 +9332,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2023-11-12T16:01:15.1355973+00:00",
-  "LastChanged_Achievements": "2023-11-14T08:08:30.0283267+00:00",
+  "LastChanged_Achievements": "2023-11-14T09:08:42.8103585+00:00",
   "LastUpdate_AppInfo": "2023-11-11T13:57:24.345965+00:00",
-  "LastUpdate_Ratings": "2023-11-14T08:02:36.0296998+00:00",
-  "LastUpdate_Achievements": "2023-11-14T08:08:30.0283845+00:00"
+  "LastUpdate_Ratings": "2023-11-14T09:02:44.8643829+00:00",
+  "LastUpdate_Achievements": "2023-11-14T09:08:42.8104264+00:00"
 }

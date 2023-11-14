@@ -27,8 +27,8 @@
 | Paramour I | 42.00% | ~523 |
 | Krogan Ally | 41.00% | ~510 |
 | Missing in Action | 41.00% | ~510 |
+| Merciless | 41.00% | ~510 |
 | Scientist | 41.00% | ~510 |
-| Merciless | 40.00% | ~498 |
 | Sentinel Ally | 39.00% | ~486 |
 | Very Elusive | 39.00% | ~486 |
 | Head Hunter | 38.00% | ~473 |

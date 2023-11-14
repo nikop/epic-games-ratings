@@ -7,7 +7,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goofy's Investor | 70.00% | ~8,151 |
-| Photographer | 68.00% | ~7,918 |
+| Photographer | 69.00% | ~8,034 |
 | Valley's Helper | 62.00% | ~7,219 |
 | Constructor | 51.00% | ~5,938 |
 | Renovator | 51.00% | ~5,938 |
