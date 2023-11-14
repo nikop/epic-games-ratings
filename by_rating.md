@@ -23,7 +23,7 @@
 | 17 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 4.88 | 197,224 | 6 |
 | 17 | [Satisfactory](games/s/satisfactory.md) | 4.88 | 12,611 | 32 |
 | 17 | [Valiant Hearts: The Great War](games/v/valiant_hearts__the_great_war.md) | 4.88 | 0 | 546 |
-| 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 293 | 253 |
+| 24 | [Dead Cells](games/d/dead_cells.md) | 4.87 | 294 | 253 |
 | 24 | [Detroit: Become Human](games/d/detroit__become_human.md) | 4.87 | 1,489 | 133 |
 | 24 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 4.87 | 737 | 177 |
 | 24 | [Doki Doki Literature Club Plus!](games/d/doki_doki_literature_club_plus!.md) | 4.87 | 0 | 546 |
@@ -397,7 +397,7 @@
 | 384 | [Guild of Dungeoneering Ultimate Edition](games/g/guild_of_dungeoneering_ultimate_edition.md) | 4.61 | 0 | 546 |
 | 384 | [Madcar GT](games/7/703100e4ec4746ff854e634572e6665e.md) | 4.61 | 0 | 546 |
 | 384 | [MechWarrior 5: Mercenaries Standard Edition](games/m/mechwarrior_5__mercenaries_standard_edition.md) | 4.61 | 1,309 | 137 |
-| 384 | [MudRunner](games/m/mudrunner.md) | 4.61 | 277 | 261 |
+| 384 | [MudRunner](games/m/mudrunner.md) | 4.61 | 278 | 261 |
 | 384 | [Path of Exile](games/p/path_of_exile.md) | 4.61 | 2,681 | 100 |
 | 384 | [Phantom Brigade](games/p/phantom_brigade.md) | 4.61 | 0 | 546 |
 | 384 | [Prison Architect](games/p/prison_architect.md) | 4.61 | 563 | 199 |
@@ -405,7 +405,7 @@
 | 384 | [RiME](games/r/rime.md) | 4.61 | 0 | 546 |
 | 384 | [Rogue Legacy](games/r/rogue_legacy.md) | 4.61 | 1,097 | 145 |
 | 384 | [Roguebook](games/r/roguebook.md) | 4.61 | 0 | 546 |
-| 384 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 293 | 253 |
+| 384 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 4.61 | 293 | 254 |
 | 384 | [SUPERHOT: Mind Control Delete](games/s/superhot__mind_control_delete_1.md) | 4.61 | 0 | 546 |
 | 384 | [Supraland](games/s/supraland.md) | 4.61 | 7,723 | 48 |
 | 384 | [Tavern Master](games/t/tavern_master.md) | 4.61 | 0 | 546 |
@@ -569,7 +569,7 @@
 | 565 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,146 | 83 |
 | 565 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 546 |
 | 565 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 35,944 | 15 |
-| 565 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 151,568 | 7 |
+| 565 | [Fall Guys](games/f/fall_guys.md) | 4.51 | 151,598 | 7 |
 | 565 | [Far Cry](games/f/far_cry.md) | 4.51 | 32 | 483 |
 | 565 | [Galactic Civilizations IV: Supernova](games/g/galactic_civilizations_iv__supernova.md) | 4.51 | 0 | 546 |
 | 565 | [Godlike Burger](games/g/godlike_burger.md) | 4.51 | 0 | 546 |
@@ -905,7 +905,7 @@
 | 902 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 4.21 | 0 | 546 |
 | 902 | [Blankos Block Party](games/b/blankos_block_party.md) | 4.21 | 32 | 483 |
 | 902 | [Farmer's Dynasty](games/f/farmer's_dynasty.md) | 4.21 | 0 | 546 |
-| 902 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 4,358 | 81 |
+| 902 | [League of Legends](games/l/league_of_legends.md) | 4.21 | 4,368 | 81 |
 | 902 | [Lords of the Fallen](games/t/the_lords_of_the_fallen.md) | 4.21 | 151 | 315 |
 | 902 | [Out of Line](games/o/out_of_line.md) | 4.21 | 0 | 546 |
 | 902 | [Vampire: The Masquerade – Swansong](games/v/vampire__the_masquerade_–_swansong.md) | 4.21 | 78 | 388 |

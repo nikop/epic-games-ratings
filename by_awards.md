@@ -6,7 +6,7 @@
 | 4 | [Grand Theft Auto V: Premium Edition](games/g/grand_theft_auto_v__premium_edition.md) | 258,236 | 4.68 | 253 |
 | 5 | [NARAKA: BLADEPOINT](games/n/naraka__bladepoint.md) | 211,311 | 4.18 | 925 |
 | 6 | [Red Dead Redemption 2](games/r/red_dead_redemption_2.md) | 197,224 | 4.88 | 17 |
-| 7 | [Fall Guys](games/f/fall_guys.md) | 151,568 | 4.51 | 565 |
+| 7 | [Fall Guys](games/f/fall_guys.md) | 151,598 | 4.51 | 565 |
 | 8 | [Borderlands 3](games/b/borderlands_3.md) | 120,495 | 4.69 | 231 |
 | 9 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 105,348 | 4.64 | 331 |
 | 10 | [VALORANT](games/v/valorant.md) | 81,398 | 4.52 | 555 |
@@ -80,7 +80,7 @@
 | 78 | [BioShock Infinite: Complete Edition](games/b/bioshock_infinite__complete_edition.md) | 4,600 | 4.70 | 213 |
 | 79 | [SMITE](games/s/smite.md) | 4,577 | 4.43 | 688 |
 | 80 | [God of War](games/g/god_of_war.md) | 4,376 | 4.88 | 17 |
-| 81 | [League of Legends](games/l/league_of_legends.md) | 4,358 | 4.21 | 902 |
+| 81 | [League of Legends](games/l/league_of_legends.md) | 4,368 | 4.21 | 902 |
 | 82 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,328 | 4.57 | 470 |
 | 83 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,146 | 4.51 | 565 |
 | 84 | [Days Gone](games/d/days_gone.md) | 4,035 | 4.68 | 253 |
@@ -252,15 +252,15 @@
 | 249 | [RAYMAN® LEGENDS](games/r/rayman®_legends.md) | 304 | 4.81 | 78 |
 | 251 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 297 | 4.36 | 780 |
 | 251 | [Video Horror Society](games/v/video_horror_society.md) | 297 | 4.26 | 868 |
-| 253 | [Dead Cells](games/d/dead_cells.md) | 293 | 4.87 | 24 |
-| 253 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 293 | 4.61 | 384 |
+| 253 | [Dead Cells](games/d/dead_cells.md) | 294 | 4.87 | 24 |
+| 254 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 293 | 4.61 | 384 |
 | 255 | [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](games/t/tiny_tina's_assault_on_dragon_keep__a_wonderlands_one-shot_adventure.md) | 291 | 4.45 | 659 |
 | 256 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 290 | 4.43 | 688 |
 | 257 | [Tom Clancy's Ghost Recon Wildlands Standard Edition](games/t/tom_clancy's_ghost_recon_wildlands_standard_edition.md) | 288 | 4.61 | 384 |
 | 258 | [Deponia: The Complete Journey](games/d/deponia__the_complete_journey.md) | 286 | 4.62 | 366 |
 | 258 | [Diabotical](games/d/diabotical.md) | 286 | 4.74 | 157 |
 | 260 | [Evoland Legendary Edition](games/e/evoland_legendary_edition.md) | 279 | 4.49 | 607 |
-| 261 | [MudRunner](games/m/mudrunner.md) | 277 | 4.61 | 384 |
+| 261 | [MudRunner](games/m/mudrunner.md) | 278 | 4.61 | 384 |
 | 262 | [Sheltered](games/s/sheltered.md) | 276 | 4.41 | 720 |
 | 263 | [Oxygen Not Included](games/o/oxygen_not_included.md) | 272 | 4.84 | 51 |
 | 264 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 265 | 4.58 | 445 |
